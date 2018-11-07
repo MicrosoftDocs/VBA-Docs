@@ -23,7 +23,7 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
  _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a value that indicates whether the specified Microsoft Outlook item can 
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item that is being considered for selection.|
 
-### Return value
+## Return value
 
 A  **Boolean** value that indicates whether the specified item can be selected in the current view.
 

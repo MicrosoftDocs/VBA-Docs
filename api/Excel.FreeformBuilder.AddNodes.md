@@ -23,7 +23,7 @@ Adds a point in the current shape and then draws a line from the current node to
  _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilder.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

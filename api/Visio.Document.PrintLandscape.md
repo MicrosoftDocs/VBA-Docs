@@ -23,7 +23,7 @@ Indicates whether a document's drawings are printed in landscape or portrait ori
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

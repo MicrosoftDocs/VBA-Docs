@@ -23,7 +23,7 @@ Displays the specified number of row and/or column levels of an outline.
  _expression_ A variable that represents an [Outline](Excel.Outline.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Displays the specified number of row and/or column levels of an outline.
 | _RowLevels_|Optional| **Variant**|Specifies the number of row levels of an outline to display. If the outline has fewer levels than the number specified, Microsoft Excel displays all the levels. If this argument is 0 (zero) or is omitted, no action is taken on rows.|
 | _ColumnLevels_|Optional| **Variant**|Specifies the number of column levels of an outline to display. If the outline has fewer levels than the number specified, Microsoft Excel displays all the levels. If this argument is 0 (zero) or is omitted, no action is taken on columns.|
 
-### Return value
+## Return value
 
 Variant
 

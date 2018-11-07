@@ -23,7 +23,7 @@ Returns the index of the row in the Tabs section of the ShapeSheet that contains
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the index of the row in the Tabs section of the ShapeSheet that contains
 |:-----|:-----|:-----|:-----|
 | _BiasLorR_|Required| **Integer**|The direction of the search.|
 
-### Return value
+## Return value
 
 Integer
 

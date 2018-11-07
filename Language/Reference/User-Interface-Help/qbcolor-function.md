@@ -18,8 +18,8 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the
 ## Syntax
 
 **QBColor(**_color_**)**
-The required  _color_[argument](../../Glossary/vbe-glossary.md#argument) is a whole number in the range 0-15.
- **Settings**
+The required  _color_ [argument](../../Glossary/vbe-glossary.md#argument) is a whole number in the range 0-15.
+## Settings
 The  _color_ argument has these settings:
 
 

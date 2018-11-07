@@ -23,7 +23,7 @@ Returns the list and details of user blogs associated with the specified account
  _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

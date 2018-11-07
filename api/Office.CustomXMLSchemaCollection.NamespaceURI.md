@@ -23,7 +23,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCo
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCo
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the  **CustomXMLSchema** object.|
 
-### Return value
+## Return value
 
 String
 

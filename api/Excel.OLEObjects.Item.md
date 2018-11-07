@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The name or index number for the object.|
 
-### Return value
+## Return value
 
 An Object value that represents an object contained by the collection.
 

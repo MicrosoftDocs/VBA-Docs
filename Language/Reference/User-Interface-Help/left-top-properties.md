@@ -27,7 +27,7 @@ The  **Left** and **Top** property syntaxes have these parts:
 | _object_|Required. A valid object.|
 | _Single_|Optional. A numeric expression specifying the coordinates of an object.|
 
- **Settings**
+## Settings
 Setting the  **Left** or **Top** property to 0 places the control's edge at the left or top edge of its [container](../../Glossary/vbe-glossary.md#container).
 
 ## Remarks

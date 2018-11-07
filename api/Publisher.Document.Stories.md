@@ -23,7 +23,7 @@ Returns a  **[Stories](Publisher.Stories.md)** collection containing all stories
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 Stories
 

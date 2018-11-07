@@ -21,7 +21,7 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
  _expression_ A variable that represents a 'Broadcast' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
 | _notesUrl_|Required|STRING|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|
 | _notesWacUrl_|Required|STRING|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 web access client.|
 
-### Return value
+## Return value
 
  **VOID**
 

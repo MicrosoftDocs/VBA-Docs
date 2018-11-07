@@ -21,7 +21,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
  _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -52,7 +52,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 
 
 
-### Return value
+## Return value
 
  **CUBEFIELD**
 

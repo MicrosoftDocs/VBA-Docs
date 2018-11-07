@@ -23,7 +23,7 @@ Starts a Help file.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Starts a Help file.
 | _Search_|Optional|**Boolean**|**True** if the **Help** window appears with the navigation pane expanded (CHM). If Search is **True**, ContextNumber is ignored. The default value is **False**.|
 | _SearchKey_|Optional|**String**|Due to changes in the Project object model, this argument is no longer supported.|
 
-### Return value
+## Return value
 
  **Boolean**
 

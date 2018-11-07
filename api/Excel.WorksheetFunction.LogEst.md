@@ -23,7 +23,7 @@ _expression_. `LogEst`(`Arg1`, `Arg2`, `Arg3`, `Arg4`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg3_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 1.|
 | _Arg4_|Optional| **Variant**|Stats - a logical value specifying whether to return additional regression statistics.|
 
-### Return value
+## Return value
 
 Variant
 

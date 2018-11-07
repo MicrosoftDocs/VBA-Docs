@@ -23,7 +23,7 @@ Returns or sets the amount of space after the last line in each paragraph of the
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

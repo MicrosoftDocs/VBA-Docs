@@ -23,7 +23,7 @@ Returns the rank of a number in a list of numbers; that is its size relative to 
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the rank of a number in a list of numbers; that is its size relative to 
 | _Arg2_|Required| **Range**|Ref - An array of, or a reference to, a list of numbers. Non-numeric values in reference are ignored.|
 | _Arg3_|Optional| **Variant**|Order - A number that specifies how to rank number. If the order is 0 (zero) or omitted, Microsoft Excel ranks the number as if the reference was a list sorted in descending order. If the order is any non-zero value, Microsoft Excel ranks number as if the reference were a list sorted in ascending order.|
 
-### Return value
+## Return value
 
 Double
 

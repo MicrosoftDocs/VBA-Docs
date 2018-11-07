@@ -20,7 +20,7 @@ Gets a single  **Exception** object from the **Exceptions** collection. Read-onl
  _expression_ A variable that represents an 'Exceptions' object.
 
 
-### Parameters
+## Parameters
 
 
 

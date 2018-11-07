@@ -23,7 +23,7 @@ Occurs when the user clicks  **Previous** to move within the current slide.
  _expression_ An expression that returns an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

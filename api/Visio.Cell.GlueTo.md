@@ -23,7 +23,7 @@ Glues one shape to another, from a cell in the first shape to a cell in the seco
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Glues one shape to another, from a cell in the first shape to a cell in the seco
 |:-----|:-----|:-----|:-----|
 | _CellObject_|Required| **[IVCELL]**|An expression that returns a  **Cell** object that represents the part of the shape to glue to.|
 
-### Return value
+## Return value
 
 Nothing
 

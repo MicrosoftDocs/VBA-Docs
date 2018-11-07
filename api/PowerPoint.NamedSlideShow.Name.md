@@ -23,7 +23,7 @@ You cannot use this property to set the name for a custom slide show. Use the  *
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 
 
-### Return value
+## Return value
 
 String
 

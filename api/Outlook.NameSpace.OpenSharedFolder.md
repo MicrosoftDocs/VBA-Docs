@@ -23,7 +23,7 @@ Opens a shared folder referenced through a URL or file name.
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Opens a shared folder referenced through a URL or file name.
 | _DownloadAttachments_|Optional| **Variant**|Indicates whether to download enclosures (for RSS feeds) or attachments (for Webcal calendars.) This parameter is ignored for other shared folder types.|
 | _UseTTL_|Optional| **Variant**|Indicates whether the Time To Live (TTL) setting in an RSS feed or WebCal calendar should be used. This parameter is ignored for other shared folder types.|
 
-### Return value
+## Return value
 
 A  **[Folder](Outlook.Folder.md)** object that represents the shared folder.
 

@@ -23,7 +23,7 @@ Occurs after a color scheme is changed.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

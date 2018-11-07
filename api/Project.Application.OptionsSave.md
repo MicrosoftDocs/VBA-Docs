@@ -23,7 +23,7 @@ Sets save options for project files.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Sets save options for project files.
 | _AutomaticSavePrompt_|Optional|**Boolean**|**True** if alerts display when automatically saving files.|
 | _SetDefaultsDatabase_|Optional|**Boolean**|**True** if the value specified in the **Database save options** section, found on the **Save** tab of the **Options** dialog box, is used as the default value for new projects. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

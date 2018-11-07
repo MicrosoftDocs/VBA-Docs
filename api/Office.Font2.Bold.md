@@ -20,7 +20,7 @@ Gets or sets a value specifying whether the font should be bold. Read/write.
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

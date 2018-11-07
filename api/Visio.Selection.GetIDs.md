@@ -26,7 +26,7 @@ Gets the shape IDs of the shapes in the selection.
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Gets the shape IDs of the shapes in the selection.
 |:-----|:-----|:-----|:-----|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of shape IDs of type  **Long** corresponding to the shapes in the selection.|
 
-### Return value
+## Return value
 
 Nothing
 

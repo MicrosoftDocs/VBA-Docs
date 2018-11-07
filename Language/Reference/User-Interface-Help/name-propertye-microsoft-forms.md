@@ -27,7 +27,7 @@ The  **Name** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _String_|Optional. The name you want to assign to the font or control.|
 
- **Settings**
+## Settings
 Guidelines for assigning a string to  **Name**, such as the maximum length of the name, vary from one application to another.
 
 ## Remarks

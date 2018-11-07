@@ -23,7 +23,7 @@ Occurs after a mouse movement has been registered over the control.
  _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Displays the  **Publication Types** catalog for the wizard of the specified type
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

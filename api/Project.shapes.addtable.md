@@ -16,7 +16,7 @@ Adds a table to the report, and returns a  **Shape** object that represents the 
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Adds a table to the report, and returns a  **Shape** object that represents the 
 | _Height_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

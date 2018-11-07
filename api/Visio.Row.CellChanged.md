@@ -23,7 +23,7 @@ Private Sub  _expression_ _'CellChanged'(**_ByVal Cell As [IVCELL]_**)
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

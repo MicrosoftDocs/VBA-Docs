@@ -23,7 +23,7 @@ Specifies a document as the Search Page in Microsoft Internet Explorer.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies a document as the Search Page in Microsoft Internet Explorer.
 |:-----|:-----|:-----|:-----|
 | _Address_|Optional|**String**|The address to use as a Search Page. If  **Address** is omitted, the current document is set as the Search Page.|
 
-### Return value
+## Return value
 
  **Boolean**
 

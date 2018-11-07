@@ -23,7 +23,7 @@ Represents a  **Presentation** object before it closes.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Represents a  **Presentation** object before it closes.
 | _Pres_|Required|**Presentation**|The  **Presentation** object.|
 | _Cancel_|Required|**Boolean**|If set to  **True**, the presentation will not close.|
 
-### Return value
+## Return value
 
 Nothing
 

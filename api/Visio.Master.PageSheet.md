@@ -23,7 +23,7 @@ Returns the page sheet (an object that represents the ShapeSheet spreadsheet) of
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Returns a  **CatalogMergeShapes** collection that represents the shapes included
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return value
+## Return value
 
 CatalogMergeShapes
 

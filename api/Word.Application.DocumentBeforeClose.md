@@ -25,7 +25,7 @@ Private Sub  _expression_ 'DocumentBeforeClose'(**_ByVal Doc As Document_**, **_
 _expression_ A variable that represents an [Application](Word.Application.md) object declared with events in a class module.
 
 
-### Parameters
+## Parameters
 
 
 |Name|Required/Optional|Data type|Description|

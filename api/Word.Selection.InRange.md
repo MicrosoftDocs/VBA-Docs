@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Range_|Required|Optional|The [Range](Word.Range.md) to which you want to compare the selection.|
 
-### Return value
+## Return value
 
 Boolean
 

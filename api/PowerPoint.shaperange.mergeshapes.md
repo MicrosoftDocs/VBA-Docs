@@ -21,7 +21,7 @@ Combines all of the shapes in the range to create a single new shape.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Combines all of the shapes in the range to create a single new shape.
 | _MergeCmd_|Required|<unknown||
 | _PrimaryShape_|Optional|SHAPE||
 
-### Return value
+## Return value
 
  **VOID**
 

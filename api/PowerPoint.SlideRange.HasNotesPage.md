@@ -23,7 +23,7 @@ Indicates whether the selected  **SlideRange** has media that resides on a notes
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

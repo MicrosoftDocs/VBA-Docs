@@ -23,7 +23,7 @@ Returns  **True** if custom task fields can be imported by using a mapping dialo
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns  **True** if custom task fields can be imported by using a mapping dialo
 |:-----|:-----|:-----|:-----|
 | _TaskCustomFields_|Optional|**Variant**|Imports custom task fields.|
 
-### Return value
+## Return value
 
  **Boolean**
 

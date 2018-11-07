@@ -23,7 +23,7 @@ Gets  **True** if the value for the **MsoLanguageID** constant has been identifi
  _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

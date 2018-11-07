@@ -23,7 +23,7 @@ Opens a recent workbook.
  _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
-### Return value
+## Return value
 
 A  **[Workbook](Excel.Workbook.md)** object that represents the opened workbook.
 

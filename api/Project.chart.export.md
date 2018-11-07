@@ -16,7 +16,7 @@ Exports a chart in a graphic file format.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Exports a chart in a graphic file format.
 | _varFilterName_|Optional|VARIANT||
 | _varInteractive_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Boolean**
 

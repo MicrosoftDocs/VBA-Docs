@@ -23,7 +23,7 @@ Returns the shape identifiers (IDs) of all members of the container, as specifie
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the shape identifiers (IDs) of all members of the container, as specifie
 |:-----|:-----|:-----|:-----|
 | _ContainerFlags_|Required| **Long**|Specifies which container member shape IDs to return.|
 
-### Return value
+## Return value
 
  **Long()**
 

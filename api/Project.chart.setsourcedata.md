@@ -19,7 +19,7 @@ Sets a source data range from Excel for a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Sets a source data range from Excel for a chart.
 | _Source_|Required|STRING||
 | _PlotBy_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

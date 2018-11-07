@@ -21,7 +21,7 @@ Returns or sets a  **Variant** that represents the specified entry in a **[Combo
  _expression_ A variable that represents a  **ComboBox** object.
 
 
-### Parameters
+## Parameters
 
 
 

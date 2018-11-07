@@ -23,7 +23,7 @@ Occurs whenever the  **Properties** dialog box for a folder is opened.
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents th
  _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
-### Return value
+## Return value
 
 A  **Conversation** object that represents the conversation to which this conversation header belongs.
 

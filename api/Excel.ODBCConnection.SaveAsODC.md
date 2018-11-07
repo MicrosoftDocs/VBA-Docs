@@ -23,7 +23,7 @@ Saves the ODBC connection as a Microsoft Office Data Connection file.
  _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Saves the ODBC connection as a Microsoft Office Data Connection file.
 | _Description_|Optional| **Variant**|Description that will be saved in the file.|
 | _Keywords_|Optional| **Variant**|Space-separated keywords that can be used to search for this file.|
 
-### Return value
+## Return value
 
 Nothing
 

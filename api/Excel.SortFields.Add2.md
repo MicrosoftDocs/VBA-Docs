@@ -19,7 +19,7 @@ _expression_. `Add2`( `Key` , `SortOn` , `Order` , `CustomOrder` , `DataOption` 
 
 _expression_ A variable that represents a [SortFields](Excel.SortFields.md) object.
 
-### Parameters
+## Parameters
 
 |Name |Required/Optional |Data type |Description|
 |:-----|:-----|:-----|:-----|
@@ -30,7 +30,7 @@ _expression_ A variable that represents a [SortFields](Excel.SortFields.md) obje
 | _DataOption_|Optional| **Variant**|Specifies the data option.|
 | _SubField_|Optional| **Variant**|Specifies the field to sort on for a data type (such as "Population" for Geography or "Volume" for Stocks).|
 
-### Return value
+## Return value
 
 SortField
 

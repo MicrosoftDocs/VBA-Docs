@@ -23,7 +23,7 @@ Removes all hyperlinks from the specified range.
  _expression_ A variable that returns a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

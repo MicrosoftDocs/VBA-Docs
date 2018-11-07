@@ -23,7 +23,7 @@ Determines whether a ShapeSheet section exists for a particular shape. Read-only
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Determines whether a ShapeSheet section exists for a particular shape. Read-only
 | _Section_|Required| **Integer**|The section index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return value
+## Return value
 
 Integer
 

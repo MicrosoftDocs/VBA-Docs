@@ -26,7 +26,7 @@ Gets the  **Document** object that contains the **DataRecordset** object. Read-o
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Return value
+## Return value
 
 Document
 

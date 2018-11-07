@@ -23,7 +23,7 @@ Allows you to add one or more schemas to a schema collection that can then be ad
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Allows you to add one or more schemas to a schema collection that can then be ad
 | _FileName_|Optional|**String**|Contains the location of the schema on a disk. If this parameter is specified, the schema is added to the collection and to the Schema Library.|
 | _InstallForAllUsers_|Optional|**Boolean**|Specifies whether, in the case where the method is adding the schema to the Schema Library, the Schema Library keys should be written to the registry(HKey_Local_Machine for all users or HKey_Current_User for just the current user). The parameter defaults to  **False** and writes to HKey_Current_User.|
 
-### Return value
+## Return value
 
 CustomXMLSchema
 

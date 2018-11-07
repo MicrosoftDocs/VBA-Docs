@@ -23,7 +23,7 @@ Arranges the windows on the screen.
  _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Arranges the windows on the screen.
 | _SyncHorizontal_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling horizontally. **False** to not synchronize the windows. The default value is **False** .|
 | _SyncVertical_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling vertically. **False** to not synchronize the windows. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

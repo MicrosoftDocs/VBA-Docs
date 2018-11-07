@@ -23,7 +23,7 @@ Returns an individual  **Column** object in the specified **Columns** collection
  _expression_ A variable that represents a  **Columns** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **Column** object in the specified **Columns** collection
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 
-### Return value
+## Return value
 
 Column
 

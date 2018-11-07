@@ -19,7 +19,7 @@ Occurs when the user performs an action that causes an inline response to appear
  _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

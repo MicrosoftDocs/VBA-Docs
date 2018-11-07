@@ -23,7 +23,7 @@ Occurs when a folder is about to be moved or deleted, either as a result of user
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

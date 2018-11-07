@@ -23,7 +23,7 @@ Gets the default fill style of a document or sets the default fill, line, and te
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 String
 

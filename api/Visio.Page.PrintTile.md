@@ -23,7 +23,7 @@ Prints a single tile of a drawing page.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Prints a single tile of a drawing page.
 |:-----|:-----|:-----|:-----|
 | _nTile_|Required| **Long**|The number of tiles.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns an  **Index** object that represents a new index added to a document.
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Returns an  **Index** object that represents a new index added to a document.
 | _SortBy_|Optional| **Variant**|The sorting criteria to be used for the specified index. Can be either of the following  **WdIndexSortBy** constants: **wdIndexSortByStroke** or **wdIndexSortBySyllable** .|
 | _IndexLanguage_|Optional| **Variant**|The sorting language to be used for the specified index. Can be any of the  **WdLanguageID** constants. For the list of valid **WdLanguageID** constants, see the Object Browser in the Visual Basic Editor.|
 
-### Return value
+## Return value
 
 Index
 

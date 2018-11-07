@@ -23,7 +23,7 @@ Returns a  **FilterEffect** object that represents a filter effect for an animat
  _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return value
+## Return value
 
 FilterEffect
 

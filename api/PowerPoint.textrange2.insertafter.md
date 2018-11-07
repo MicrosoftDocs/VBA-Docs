@@ -18,7 +18,7 @@ Inserts text to the right of the existing text in the  **TextRange2** object.
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Inserts text to the right of the existing text in the  **TextRange2** object.
 |:-----|:-----|:-----|:-----|
 | _NewText_|Optional|**String**|Contains the text to be inserted.|
 
-### Return value
+## Return value
 
 TextRange2
 

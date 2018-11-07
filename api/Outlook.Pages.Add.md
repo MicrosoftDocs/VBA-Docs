@@ -23,7 +23,7 @@ Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
  _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new page in the  **[Pages](Outlook.Pages.md)** collection.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**| The name of the page.|
 
-### Return value
+## Return value
 
 A  **[Page](./Outlook.page.md)** object that represents the new page.
 

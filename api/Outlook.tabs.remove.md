@@ -21,7 +21,7 @@ Removes a member from a collection.
  _expression_ A variable that represents a  **Tabs** object.
 
 
-### Parameters
+## Parameters
 
 
 

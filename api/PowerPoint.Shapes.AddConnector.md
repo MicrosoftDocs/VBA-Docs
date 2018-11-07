@@ -23,7 +23,7 @@ Creates a connector. Returns a  **[Shape](PowerPoint.Shape.md)** object that rep
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a connector. Returns a  **[Shape](PowerPoint.Shape.md)** object that rep
 | _EndX_|Required|**Single**|The horizontal position, measured in points, of the connector's ending point relative to the left edge of the slide.|
 | _EndY_|Required|**Single**|The vertical position, measured in points, of the connector's ending point relative to the top edge of the slide.|
 
-### Return value
+## Return value
 
 Shape
 

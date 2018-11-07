@@ -23,7 +23,7 @@ Returns the inverse of the individual term binomial distribution probability.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the inverse of the individual term binomial distribution probability.
 | _Arg2_|Required| **Double**|Probability_s - the probability of a success on each trial.|
 | _Arg3_|Required| **Double**|Alpha - the criterion value.|
 
-### Return value
+## Return value
 
 Double
 

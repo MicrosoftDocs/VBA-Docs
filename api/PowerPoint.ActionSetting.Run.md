@@ -23,7 +23,7 @@ Returns or sets the name of the presentation or macro to be run when the specifi
  _expression_ A variable that represents an [ActionSetting](./PowerPoint.ActionSetting.md) object.
 
 
-### Return value
+## Return value
 
 String
 

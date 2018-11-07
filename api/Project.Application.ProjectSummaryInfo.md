@@ -23,7 +23,7 @@ Sets information about a project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -46,7 +46,7 @@ Sets information about a project.
 | _Priority_|Optional|**Integer**|The priority, ranging from 0 to 1000, of the active project.|
 | _PartiallyDisabled_|Optional|**Boolean**|**True** if Project displays the **Project Information** dialog box with all elements disabled except for the **Enterprise Custom Fields** section.|
 
-### Return value
+## Return value
 
  **Boolean**
 

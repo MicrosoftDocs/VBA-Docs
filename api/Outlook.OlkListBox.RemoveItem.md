@@ -23,7 +23,7 @@ Removes the specified item from the list.
  _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

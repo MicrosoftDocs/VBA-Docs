@@ -23,7 +23,7 @@ Determines the margin of error allowed when the  **Freeform** tool is drawing a 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

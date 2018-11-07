@@ -23,7 +23,7 @@ Used to invalidate a built-in control.
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Used to invalidate a built-in control.
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**||
 
-### Return value
+## Return value
 
 Nothing
 

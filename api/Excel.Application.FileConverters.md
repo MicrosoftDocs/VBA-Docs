@@ -23,7 +23,7 @@ Returns information about installed file converters. Returns  **null** if there 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

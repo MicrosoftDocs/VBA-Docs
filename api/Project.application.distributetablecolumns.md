@@ -19,7 +19,7 @@ Distributes the columns of a selected table in a report, so that all columns are
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

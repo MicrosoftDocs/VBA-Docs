@@ -23,7 +23,7 @@ Returns or sets whether the spelling checker uses rules regarding Russian words 
  _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns the price per $100 face value of a security having an odd (short or long
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Returns the price per $100 face value of a security having an odd (short or long
 | _Arg8_|Required| **Variant**|Frequency - the number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg9_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

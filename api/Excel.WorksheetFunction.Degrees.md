@@ -23,7 +23,7 @@ Converts radians into degrees.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts radians into degrees.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Angle - the angle in radians that you want to convert.|
 
-### Return value
+## Return value
 
 Double
 

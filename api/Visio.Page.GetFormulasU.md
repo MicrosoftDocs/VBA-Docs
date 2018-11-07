@@ -23,7 +23,7 @@ Returns the formulas of many cells.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the formulas of many cells.
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be queried.|
 | _formulaArray()_|Required| **Variant**|Out parameter. Array that receives formulas of queried cells.|
 
-### Return value
+## Return value
 
 Nothing
 

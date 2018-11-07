@@ -23,7 +23,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
  _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object that represents t
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **String**|Used to identify an address entry that is maintained for the session.|
 
-### Return value
+## Return value
 
 An  **AddressEntry** that has the **[ID](Outlook.AddressEntry.ID.md)** property that matches the specified _ID_ .
 

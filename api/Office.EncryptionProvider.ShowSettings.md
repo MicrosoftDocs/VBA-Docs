@@ -23,7 +23,7 @@ Used to display a dialog of the encryption settings for the current document.
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

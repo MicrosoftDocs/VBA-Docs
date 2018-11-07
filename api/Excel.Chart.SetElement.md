@@ -23,7 +23,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType** .
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType** .
 |:-----|:-----|:-----|:-----|
 | _Element_|Required| **MsoChartElementType**|Specifies the chart element type.|
 
-### Return value
+## Return value
 
 Nothing
 

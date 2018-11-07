@@ -23,7 +23,7 @@ Returns the specified  **MediaBookmark**.
  _expression_ A variable that represents a [MediaBookmarks](./PowerPoint.MediaBookmarks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the specified  **MediaBookmark**.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**[INT]**|The position of the  **MediaBookmark**.|
 
-### Return value
+## Return value
 
 MediaBookmark
 

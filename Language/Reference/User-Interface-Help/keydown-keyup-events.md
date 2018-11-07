@@ -28,7 +28,7 @@ The  **KeyDown** and **KeyUp** event syntaxes have these parts:
 | _KeyCode_|Required. An integer that represents the key code of the key that was pressed or released.|
 | _Shift_|Required. The state of SHIFT, CTRL, and ALT.|
 
- **Settings**
+## Settings
 The settings for  _Shift_ are:
 
 

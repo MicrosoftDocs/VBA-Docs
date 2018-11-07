@@ -23,7 +23,7 @@ Saves changes to the chart or worksheet in a different file.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

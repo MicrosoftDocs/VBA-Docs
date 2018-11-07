@@ -23,7 +23,7 @@ Adds a new  **Shape** object representing an open polyline or a closed polygon t
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Shape** object representing an open polyline or a closed polygon t
 |:-----|:-----|:-----|:-----|
 |SafeArrayOfPoints|Required| **Variant**|An array of coordinate pairs that specifies the polyline's or polygon's vertices.|
 
-### Return value
+## Return value
 
 Shape
 

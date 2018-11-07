@@ -23,7 +23,7 @@ Displays the  **Column Definition** dialog box for the specified column.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Displays the  **Column Definition** dialog box for the specified column.
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Integer**|The number of the column to change. The default value is the number of the active column.|
 
-### Return value
+## Return value
 
  **Boolean**
 

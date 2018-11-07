@@ -23,7 +23,7 @@ Returns a Student t-distribution where a numeric value (x) is a calculated value
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a Student t-distribution where a numeric value (x) is a calculated value
 | _Arg2_|Required| **Double**|Deg_freedom - An integer that indicates the number of degrees of freedom.|
 | _Arg3_|Required| **Boolean**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, T_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return value
+## Return value
 
 Double
 

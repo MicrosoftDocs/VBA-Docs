@@ -23,7 +23,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
  _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the item to be returned.|
 
-### Return value
+## Return value
 
 Variant
 

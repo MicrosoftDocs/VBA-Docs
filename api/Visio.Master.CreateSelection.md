@@ -23,7 +23,7 @@ Creates various types of  **Selection** objects.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Creates various types of  **Selection** objects.
 | _IterationMode_|Optional| **VisSelectMode**|The selection mode used. See Remarks for possible values.|
 | _Data_|Optional| **Variant**|The object type that corresponds to the  _SelType_ argument. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 Selection
 

@@ -23,7 +23,7 @@ Sets a  **PbNavBarOrientation** constant that represents the alignment of the na
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Parameters
+## Parameters
 
 
 

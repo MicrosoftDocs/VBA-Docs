@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that returns a [AddIns2](Excel.AddIns2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

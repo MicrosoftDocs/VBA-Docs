@@ -23,7 +23,7 @@ Returns or sets a  **Variant** indicating the amount of horizontal spacing Micro
  _expression_ A variable that represents a  **Font** object.
 
 
-### Return value
+## Return value
 
 Variant
 

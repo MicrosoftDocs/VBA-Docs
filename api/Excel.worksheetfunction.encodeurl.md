@@ -21,7 +21,7 @@ URL encodes the argument.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ URL encodes the argument.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Text to be encoded.|
 
-### Return value
+## Return value
 
  **VARIANT**
 

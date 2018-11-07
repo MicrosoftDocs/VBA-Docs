@@ -23,7 +23,7 @@ Removes subtotals from a list.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

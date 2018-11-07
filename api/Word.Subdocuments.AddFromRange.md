@@ -23,7 +23,7 @@ Creates one or more subdocuments from the text in the specified range and return
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates one or more subdocuments from the text in the specified range and return
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The range used to create one or more subdocuments.|
 
-### Return value
+## Return value
 
 SubDocument
 

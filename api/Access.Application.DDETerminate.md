@@ -23,7 +23,7 @@ _expression_. `DDETerminate`( ` _ChanNum_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _ChanNum_|Required|**Variant**|A channel number to close, refers to a channel opened by the  **[DDEInitiate](Access.Application.DDEInitiate.md)** function.|
 
-### Return value
+## Return value
 
 Nothing
 

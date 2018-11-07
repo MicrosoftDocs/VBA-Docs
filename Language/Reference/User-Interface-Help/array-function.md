@@ -18,7 +18,7 @@ Returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing
 ## Syntax
 
 **Array(**_arglist_**)**
-The required  _arglist_[argument](../../Glossary/vbe-glossary.md#argument) is a comma-delimited list of values that are assigned to the elements of the array contained within the **Variant**. If no arguments are specified, an array of zero length is created.
+The required  _arglist_ [argument](../../Glossary/vbe-glossary.md#argument) is a comma-delimited list of values that are assigned to the elements of the array contained within the **Variant**. If no arguments are specified, an array of zero length is created.
 
 ## Remarks
 

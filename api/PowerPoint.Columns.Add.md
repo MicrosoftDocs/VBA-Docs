@@ -23,7 +23,7 @@ Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.
  _expression_ A variable that represents a [Columns](./PowerPoint.Columns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new column to an existing table. Returns a  **[Column](PowerPoint.Column.
 |:-----|:-----|:-----|:-----|
 | _BeforeColumn_|Optional|**Long**|The index number that specifies the table column before which the new column will be inserted. |
 
-### Return value
+## Return value
 
 Column
 

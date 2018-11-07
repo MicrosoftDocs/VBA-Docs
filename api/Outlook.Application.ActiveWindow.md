@@ -23,7 +23,7 @@ Returns an object representing the current Microsoft Outlook window on the deskt
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
-### Return value
+## Return value
 
 An  **Object** that represents the current Outlook window on the desktop. Returns **Nothing** if no Outlook explorer or inspector is open.
 

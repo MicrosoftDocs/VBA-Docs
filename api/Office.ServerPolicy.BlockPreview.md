@@ -23,7 +23,7 @@ Gets a  **Boolean** value that indicates whether you can preview items using thi
  _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Converts a measurement from points to centimeters (1 centimeter = 28.35 points).
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a measurement from points to centimeters (1 centimeter = 28.35 points).
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
 
-### Return value
+## Return value
 
 Single
 

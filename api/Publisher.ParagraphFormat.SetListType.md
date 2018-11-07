@@ -23,7 +23,7 @@ Sets the list type of the specified  **ParagraphFormat** object. .
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Parameters
+## Parameters
 
 
 

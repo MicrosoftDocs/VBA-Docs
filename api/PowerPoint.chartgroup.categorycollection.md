@@ -21,7 +21,7 @@ Returns all the visible categories in the chart group, or the specified visible 
  _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns all the visible categories in the chart group, or the specified visible 
 | _Index_|Optional|**Variant**|The index number in the visible category collection of the category to return.|
 | _Index_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **OBJECT**
 

@@ -23,7 +23,7 @@ Returns a  **TextRange** object that represents the specified subset of text par
  _expression_ An expression that returns a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **TextRange** object that represents the specified subset of text par
 | _Start_|Optional|**Long**|The first paragraph in the returned range.|
 | _Length_|Optional|**Long**|The number of paragraphs to be returned.|
 
-### Return value
+## Return value
 
 TextRange
 

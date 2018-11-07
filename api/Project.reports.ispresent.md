@@ -16,7 +16,7 @@ Indicates whether the specified custom report exists in the project.
  _expression_ A variable that represents a 'Reports' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -24,7 +24,7 @@ Indicates whether the specified custom report exists in the project.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

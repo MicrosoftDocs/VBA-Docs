@@ -23,7 +23,7 @@ _expression_. `AfterRender`( ` _drawObject_`, ` _chartObject_` )
 _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 | _drawObject_|Required|**Object**|A  **ChChartDraw** object. Use the methods and properties of this object to draw objects on the chart.|
 | _chartObject_|Required|**Object**|The object that has just been rendered. Use the  **TypeName** function to determine what type of object has just been rendered.|
 
-### Return value
+## Return value
 
 nothing
 

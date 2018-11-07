@@ -23,7 +23,7 @@ Sets options for a value list for a custom field.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Sets options for a value list for a custom field.
 | _PromptOnNew_|Optional|**Boolean**|**True** if the user is prompted to confirm that a new value is to be added to the list. If **AppendNew** is **False**, **PromptOnNew** is ignored.|
 | _DisplayOrder_|Optional|**Long**|The order in which the items in a value list are displayed in the drop-down list for a cell. Can be one of the following  **PjListOrder** constants: **pjListOrderDefault**, **pjListOrderAscending**, or **pjListOrderDescending**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Removes hidden information, such as personal information and external data, from
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes hidden information, such as personal information and external data, from
 |:-----|:-----|:-----|:-----|
 | _VisRemoveHiddenInfoItems_|Required| **Long**|The items to be removed. A combination of one or more enumerated values from the  **VisRemoveHiddenInfoItems** enumeration. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 Nothing
 

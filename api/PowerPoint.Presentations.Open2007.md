@@ -23,7 +23,7 @@ Opens the specified presentation and provides the option to repair the presentat
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Opens the specified presentation and provides the option to repair the presentat
 | _WithWindow_|Optional|**MsoTriState**|Specifies whether the file is visible.|
 | _OpenAndRepair_|Optional|**MsoTriState**|Specifies whether to repair the file before it is opened to prevent corruption.|
 
-### Return value
+## Return value
 
 Presentation
 

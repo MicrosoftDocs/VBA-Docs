@@ -23,7 +23,7 @@ Occurs when the data in the control is changed through the user interface and is
  _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

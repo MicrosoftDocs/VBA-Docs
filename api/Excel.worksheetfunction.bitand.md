@@ -21,7 +21,7 @@ Returns a ?Bitwise And' of two numbers
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns a ?Bitwise And' of two numbers
 | _Arg1_|Required|DOUBLE|The decimal representation of the binary number you want to evaluate.|
 | _Arg2_|Required|DOUBLE|The decimal representation of the binary number you want to evaluate.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

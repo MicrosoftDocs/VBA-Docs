@@ -20,7 +20,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reveiwers.|
 
-### Return value
+## Return value
 
  **[OLE_COLOR]**
 

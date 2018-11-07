@@ -23,7 +23,7 @@ _expression_. `CreateGroupLevel`( ` _ReportName_`, ` _Expression_`, ` _Header_`,
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Header_|Required|**Integer**|Indicates a field or expression will have an associated group header. If the  _header_ argument is **True** (?1), the field or expression will have a group header. If the _header_ argument is **False** (0), the field or expression won't. You can create a header by setting the argument to **True**.|
 | _Footer_|Required|**Integer**|Indicates a field or expression will have an associated group footer. If the  _footer_ argument is **True** (?1), the field or expression will have a group footer. If the _footer_ argument is **False** (0), the field or expression won't. You can create a footer by setting the argument to **True**.|
 
-### Return value
+## Return value
 
 Long
 

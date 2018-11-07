@@ -20,7 +20,7 @@ Event occurs when a secondary view pane changes within a project window.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Event occurs when a secondary view pane changes within a project window.
 | _newView_|Required|**View**|The name of the new top pane view that the user applied. |
 | _success_|Required|**Boolean**|**True** if the view change action succeeded.|
 
-### Return value
+## Return value
 
 nothing
 

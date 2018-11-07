@@ -23,7 +23,7 @@ Verifies a signature based on the signed state of the document and the legitimac
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

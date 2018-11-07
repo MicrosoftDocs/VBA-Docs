@@ -20,7 +20,7 @@ Retrieves a  **PickerField** object at the specified index. Read-only
  _expression_ An expression that returns a [PickerFields](./Office.PickerFields.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -26,7 +26,7 @@ Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
  _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
 
 
-### Return value
+## Return value
 
 String
 

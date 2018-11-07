@@ -29,7 +29,7 @@ The  **Attributes** property has these parts:
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
 
- **Settings**
+## Settings
 The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
 
 

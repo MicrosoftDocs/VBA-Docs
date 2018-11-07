@@ -20,7 +20,7 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
  _expression_ A variable that represents an [Adjustments](./PowerPoint.Adjustments.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

@@ -23,7 +23,7 @@ Edits the hyperlink of the selected assignment, resource, or task.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Edits the hyperlink of the selected assignment, resource, or task.
 | _SubAddress_|Optional|**String**| A location within the target document.|
 | _ScreenTip_|Optional|**String**|The ScreenTip text for the hyperlink.|
 
-### Return value
+## Return value
 
  **Boolean**
 

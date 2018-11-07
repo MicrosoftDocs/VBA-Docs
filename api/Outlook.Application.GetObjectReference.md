@@ -23,7 +23,7 @@ Creates a strong or weak object reference for a specified Outlook object.
  _expression_ An expression that returns an [Application](./Outlook.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a strong or weak object reference for a specified Outlook object.
 | _Item_|Required| **Object**|The object from which to obtain a strong or weak object reference.|
 | _ReferenceType_|Required| **[OlReferenceType](Outlook.OlReferenceType.md)**|The type of object reference.|
 
-### Return value
+## Return value
 
 An  **Object** that represents a strong or weak object reference for the specified object.
 

@@ -23,7 +23,7 @@ Toggles the box link style between rectilinear links and straight links.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Toggles the box link style between rectilinear links and straight links.
 |:-----|:-----|:-----|:-----|
 | _StraightLinks_|Optional|**Boolean**|**True** if straight links are used. **False** if rectilinear links are used. The default value is to switch the current setting from one style to the other.|
 
-### Return value
+## Return value
 
  **Boolean**
 

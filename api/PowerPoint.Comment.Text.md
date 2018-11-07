@@ -23,7 +23,7 @@ Returns a  **String** that represents the text in a comment. Read-only.
  _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
-### Return value
+## Return value
 
 String
 

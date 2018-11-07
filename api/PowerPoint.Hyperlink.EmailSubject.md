@@ -23,7 +23,7 @@ Returns or sets the text string of the hyperlink subject line. The subject line 
  _expression_ A variable that represents an [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
-### Return value
+## Return value
 
 String
 

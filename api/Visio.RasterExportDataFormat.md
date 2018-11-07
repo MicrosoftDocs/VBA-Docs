@@ -23,7 +23,7 @@ Determines whether the exported raster image is interlaced or non-interlaced whe
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisRasterExportDataFormat](Visio.VisRasterExportDataFormat.md)**
 

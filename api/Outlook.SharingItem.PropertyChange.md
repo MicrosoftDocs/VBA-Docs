@@ -20,7 +20,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Sha
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

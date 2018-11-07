@@ -23,7 +23,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Starts a transaction with a unique scope ID for an instance of Microsoft Visio.
 |:-----|:-----|:-----|:-----|
 | _bstrUndoScopeName_|Required| **String**|The name of the scope; could appear in the Visio user interface.|
 
-### Return value
+## Return value
 
 Long
 

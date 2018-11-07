@@ -23,7 +23,7 @@ Returns or sets the horizontal offset of the shadow from the specified shape, in
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

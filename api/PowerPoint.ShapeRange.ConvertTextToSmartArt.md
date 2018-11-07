@@ -23,7 +23,7 @@ Returns the number of objects in the specified collection. Read-only.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the number of objects in the specified collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**[SMARTARTLAYOUT]**||
 
-### Return value
+## Return value
 
  **Long**
 

@@ -23,7 +23,7 @@ Read/write
  _expression_An expression that returns a  **[Printer](Publisher.Printer.md)** object.
 
 
-### Return value
+## Return value
 
 PbPrintMode
 

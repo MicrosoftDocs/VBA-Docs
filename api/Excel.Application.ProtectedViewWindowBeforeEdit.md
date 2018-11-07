@@ -23,7 +23,7 @@ Occurs immediately before editing is enabled on the workbook in the specified  *
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs immediately before editing is enabled on the workbook in the specified  *
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|The  **Protected View** window that contains the workbook that is enabled for editing.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , editing is not enabled on the workbook.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns a value or the reference to a value from within a table or range. There 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a value or the reference to a value from within a table or range. There 
 | _Arg3_|Optional| **Variant**|Column_num - selects the column in array from which to return a value. If column_num is omitted, row_num is required. For reference, the number of the column in reference from which to return a reference.|
 | _Arg4_|Optional| **Variant**|Area_num - only used when returning references. Selects a range in reference from which to return the intersection of row_num and column_num. The first area selected or entered is numbered 1, the second is 2, and so on. If area_num is omitted, INDEX uses area 1.|
 
-### Return value
+## Return value
 
 Variant
 

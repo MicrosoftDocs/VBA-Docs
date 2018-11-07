@@ -23,7 +23,7 @@ Returns a  **BuildingBlockType** object that represents the specified item in th
  _expression_ An expression that returns a '[BuildingBlockTypes](Word.BuildingBlockTypes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **BuildingBlockType** object that represents the specified item in th
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBuildingBlockTypes**|Specifies the building block type of the item in the collection.|
 
-### Return value
+## Return value
 
 BuildingBlockType
 

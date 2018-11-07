@@ -22,7 +22,7 @@ _expression_. **SetAutoFilter** (**_FieldName_**, **_FilterType_**, **_Test1_**,
 _expression_ An expression that returns an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -51,7 +51,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-### Return value
+## Return value
 
  **Boolean**
 

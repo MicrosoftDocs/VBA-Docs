@@ -23,7 +23,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds row, column, and page fields to a PivotTable report or PivotChart report.
 | _PageFields_|Optional| **Variant**|Specifies a field name (or an array of field names) to be added as pages, or to be added to the page area.|
 | _AddToTable_|Optional| **Variant**|Applies only to PivotTable reports.  **True** to add the specified fields to the report (none of the existing fields are replaced). **False** to replace existing fields with the new fields. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

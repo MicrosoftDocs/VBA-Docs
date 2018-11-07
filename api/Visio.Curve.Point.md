@@ -23,7 +23,7 @@ Returns a point at a position along a curve.
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a point at a position along a curve.
 | _x_|Required| **Double**|Returns  _x_ value of curve at _t_.|
 | _y_|Required| **Double**|Returns  _y_ value of curve at _t_.|
 
-### Return value
+## Return value
 
 Nothing
 

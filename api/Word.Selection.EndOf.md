@@ -23,7 +23,7 @@ Moves or extends the ending character position of a range or selection to the en
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

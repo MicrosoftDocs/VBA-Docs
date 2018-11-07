@@ -23,7 +23,7 @@ Deletes permissions in all ranges for which the specified user or group of users
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

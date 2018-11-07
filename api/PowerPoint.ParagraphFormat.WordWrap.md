@@ -23,7 +23,7 @@ Used only with Kanji characters. Read/write.
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

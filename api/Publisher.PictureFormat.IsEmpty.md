@@ -23,7 +23,7 @@ Returns a  **MsoTriState** constant that represents whether the specified shape 
  _expression_ A variable that represents an  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

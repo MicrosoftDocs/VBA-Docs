@@ -19,7 +19,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Returns information about the chart element at specified X and Y coordinates. Th
 | _Arg1_|Required|INT32||
 | _Arg2_|Required|INT32||
 
-### Return value
+## Return value
 
 The  **GetChartElement** method returns **Nothing**. Returned values are in the  _ElementID_,  _Arg1_, and  _Arg2_ parameters.
 

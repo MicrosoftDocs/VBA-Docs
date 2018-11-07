@@ -23,7 +23,7 @@ _expression_. `CreateForm`( ` _Database_`, ` _FormTemplate_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Database_|Optional|**Variant**|The name of the database that contains the form template you want to use to create a form. If you want the current database, omit this argument. If you want to use an open library database, specify the library database with this argument.|
 | _FormTemplate_|Optional|**Variant**|The name of the form you want to use as a template to create a new form.|
 
-### Return value
+## Return value
 
 Form
 

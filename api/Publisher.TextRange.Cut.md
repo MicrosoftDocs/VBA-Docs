@@ -23,7 +23,7 @@ Deletes the specified object and places it on the Clipboard.
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 Nothing
 

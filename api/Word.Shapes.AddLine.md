@@ -23,7 +23,7 @@ Adds a line to a drawing canvas.
  _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a line to a drawing canvas.
 | _EndX_|Required| **Single**|The horizontal position, measured in points, of the line's endpoint, relative to the drawing canvas.|
 | _EndY_|Required| **Single**|The vertical position, measured in points, of the line's endpoint, relative to the drawing canvas.|
 
-### Return value
+## Return value
 
  **[Shape](Word.Shape.md)**
 

@@ -23,7 +23,7 @@ Converts an equation to professional format.
  _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** obje
  _expression_ An expression that returns a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** obje
 | _RowSize_|Optional| **Variant**|The number of rows in the new range. If this argument is omitted, the number of rows in the range remains the same.|
 | _ColumnSize_|Optional| **Variant**|The number of columns in the new range. If this argument is omitted, the number of columns in the range remains the same.|
 
-### Return value
+## Return value
 
 Range
 

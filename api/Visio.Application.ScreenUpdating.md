@@ -23,7 +23,7 @@ Determines whether the screen is updated (redrawn) during a series of actions. R
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Specifies whether to repeat item labels for all PivotFields in the specified Piv
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies whether to repeat item labels for all PivotFields in the specified Piv
 |:-----|:-----|:-----|:-----|
 | _Repeat_|Required| **[XlPivotFieldRepeatLabels](Excel.XlPivotFieldRepeatLabels.md)**||
 
-### Return value
+## Return value
 
 Nothing
 

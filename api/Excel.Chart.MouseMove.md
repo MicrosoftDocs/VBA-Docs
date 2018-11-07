@@ -23,7 +23,7 @@ Occurs when the position of the mouse pointer changes over a chart.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Occurs when the position of the mouse pointer changes over a chart.
 | _x_|Required| **Long**|The X coordinate of the mouse pointer in chart object client coordinates.|
 | _y_|Required| **Long**|The Y coordinate of the mouse pointer in chart object client coordinates.|
 
-### Return value
+## Return value
 
 Nothing
 

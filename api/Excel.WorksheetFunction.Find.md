@@ -23,7 +23,7 @@ Finds specific information in a worksheet.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Finds specific information in a worksheet.
 | _Arg2_|Required| **String**|The name of the range.|
 | _Arg3_|Optional| **Variant**|The name of an argument to refine the search.|
 
-### Return value
+## Return value
 
 Double
 

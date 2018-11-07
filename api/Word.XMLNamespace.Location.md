@@ -23,7 +23,7 @@ Returns or sets a  **String** that represents the physical location of the names
  _expression_ An expression that returns an [XMLNamespace](./Word.XMLNamespace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Returns an individual  **Bookmark** object in a collection.
  _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns an individual  **Bookmark** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
-### Return value
+## Return value
 
 Bookmark
 

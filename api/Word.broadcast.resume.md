@@ -21,7 +21,7 @@ Resumes the specified broadcast.
  _expression_ A variable that represents a 'Broadcast' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

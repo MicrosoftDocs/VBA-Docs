@@ -23,7 +23,7 @@ Returns an object that represents a single trendline (a  **[Trendline](Excel.Tre
  _expression_ A variable that represents a [Series](./Excel.Series(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents a single trendline (a  **[Trendline](Excel.Tre
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the trendline.|
 
-### Return value
+## Return value
 
 Object
 

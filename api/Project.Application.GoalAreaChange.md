@@ -23,7 +23,7 @@ Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Pro
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Pro
 |:-----|:-----|:-----|:-----|
 | _goalArea_|Required|**Integer**|An integer that corresponds to the new goal area to which you are changing. For example, setting the  _goalArea_ argument to 1 will switch to the first goal area in the Project Guide.|
 
-### Return value
+## Return value
 
  **Boolean**
 

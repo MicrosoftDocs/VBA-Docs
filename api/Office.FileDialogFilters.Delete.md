@@ -23,7 +23,7 @@ Removes a file dialog filter.
  _expression_ Required. A variable that represents a '[FileDialogFilters](Office.FileDialogFilters.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

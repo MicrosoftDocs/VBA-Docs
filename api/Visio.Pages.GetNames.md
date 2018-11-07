@@ -23,7 +23,7 @@ Returns the names of all items in a collection.
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the names of all items in a collection.
 |:-----|:-----|:-----|:-----|
 | _localeSpecificNameArray()_|Required| **String**|Out parameter. An array that receives names of members of the indicated object.|
 
-### Return value
+## Return value
 
 Nothing
 

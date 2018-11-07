@@ -23,7 +23,7 @@ Checks the spelling of an object.
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

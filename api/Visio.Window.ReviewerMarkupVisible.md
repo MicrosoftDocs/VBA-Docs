@@ -23,7 +23,7 @@ Determines whether reviewer markup, for a particular reviewer or all reviewers, 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines whether reviewer markup, for a particular reviewer or all reviewers, 
 |:-----|:-----|:-----|:-----|
 | _ReviewerID_|Optional| **Long**|The ID of a particular reviewer. If you do not pass a reviewer ID, the  **ReviewerMarkupVisible** property value specifies visibility for all reviewers.|
 
-### Return value
+## Return value
 
 Boolean
 

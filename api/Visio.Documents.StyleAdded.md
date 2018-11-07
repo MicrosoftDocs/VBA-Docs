@@ -23,7 +23,7 @@ Private Sub  _expression_ _'StyleAdded'(**_ByVal Style As [IVSTYLE]_**)
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

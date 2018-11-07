@@ -23,7 +23,7 @@ Returns a single  **Hyperlink** object from the specified **Hyperlinks** collect
  _expression_ A variable that represents a [Hyperlinks](./PowerPoint.Hyperlinks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Hyperlink** object from the specified **Hyperlinks** collect
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Hyperlink** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Hyperlink
 

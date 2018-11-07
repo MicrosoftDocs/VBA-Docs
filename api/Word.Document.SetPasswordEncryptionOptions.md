@@ -23,7 +23,7 @@ Sets the options Microsoft Word uses for encrypting documents with passwords.
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ REPLACEB replaces part of a text string, based on the number of bytes you specif
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ REPLACEB replaces part of a text string, based on the number of bytes you specif
 | _Arg3_|Required| **Double**|Num_chars - the number of characters in old_text that you want REPLACE to replace with new_text.|
 | _Arg4_|Required| **String**|New_text - the text that will replace characters in old_text.|
 
-### Return value
+## Return value
 
 String
 

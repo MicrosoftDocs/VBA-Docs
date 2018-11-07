@@ -23,7 +23,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents a [DocumentProperties](./Office.DocumentProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets an  **Application** object that represents the container application for th
 |:-----|:-----|:-----|:-----|
 | _ppidisp_|Required|**Object**|Represents the identifier for a document property.|
 
-### Return value
+## Return value
 
 [HRESULT]
 

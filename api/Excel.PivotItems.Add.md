@@ -23,7 +23,7 @@ Creates a new PivotTable item.
  _expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Queues a  **MarkerEvent** event that fires after all other queued events.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Queues a  **MarkerEvent** event that fires after all other queued events.
 |:-----|:-----|:-----|:-----|
 | _ContextString_|Required| **String**|An arbitrary string that is passed with the event that fires.|
 
-### Return value
+## Return value
 
 Long
 

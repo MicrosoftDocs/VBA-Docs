@@ -23,7 +23,7 @@ Returns the length of the specified text range, in characters. Read-only.
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

@@ -20,7 +20,7 @@ Links a deliverable or a dependency to a project.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Links a deliverable or a dependency to a project.
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|GUID of the deliverable or the dependency to the link.|
 
-### Return value
+## Return value
 
  **Boolean**
 

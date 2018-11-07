@@ -23,7 +23,7 @@ Sets the paragraph property of a  **Characters** object to a new value. Read/wri
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the paragraph property of a  **Characters** object to a new value. Read/wri
 |:-----|:-----|:-----|:-----|
 | _CellIndex_|Required| **Integer**|The cell value to set.|
 
-### Return value
+## Return value
 
 Integer
 

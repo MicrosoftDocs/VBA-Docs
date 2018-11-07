@@ -23,7 +23,7 @@ Adds a new OLE object to a sheet.
  _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ Adds a new OLE object to a sheet.
 | _Height_|Optional| **Variant**|The initial height of the new object, in points.|
 | _Top_|Optional| **Variant**|The initial coordinates of the new object in points, relative to the upper-left corner of cell A1 on a worksheet, or to the upper-left corner of a chart.|
 
-### Return value
+## Return value
 
 An  **[OLEObject](Excel.OLEObject.md)** object that represents the new OLE object.
 

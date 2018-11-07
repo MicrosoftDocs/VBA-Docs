@@ -23,7 +23,7 @@ Clears the selected cells.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Clears the selected cells.
 | _Notes_|Optional|**Boolean**|**True** if the notes of the assignment, resource, or task in the selected cells are cleared. The default value is **False**.|
 | _Hyperlinks_|Optional|**Boolean**|**True** if the hyperlinks associated with the selected cells are removed. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -21,7 +21,7 @@ Applies a design template and theme variant to the presentation.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Applies a design template and theme variant to the presentation.
 | _Variant_|Required|STRING||
 | _VariantGUID_|Required|STRING||
 
-### Return value
+## Return value
 
  **VOID**
 

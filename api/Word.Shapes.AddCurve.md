@@ -23,7 +23,7 @@ Returns a  **[Shape](Word.Shape.md)** object that represents a B?zier curve in a
  _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Shape](Word.Shape.md)** object that represents a B?zier curve in a
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required| **Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first B?zier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
 
-### Return value
+## Return value
 
  **[Shape](Word.Shape.md)**
 

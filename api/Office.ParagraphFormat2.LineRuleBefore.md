@@ -20,7 +20,7 @@ Determines whether line spacing before the first line in each paragraph is set t
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -23,7 +23,7 @@ Returns a value that represents the indent level of the associated  **[Range](Ex
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return value
+## Return value
 
 Variant
 

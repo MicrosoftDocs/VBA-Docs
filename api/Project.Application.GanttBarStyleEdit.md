@@ -23,7 +23,7 @@ Changes or creates a Gantt bar style.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -51,7 +51,7 @@ Changes or creates a Gantt bar style.
 | _RightText_|Optional|**String**|The task field to display to the right of the Gantt bar.|
 | _InsideText_|Optional|**String**|The task field to display inside the Gantt bar.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is u
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

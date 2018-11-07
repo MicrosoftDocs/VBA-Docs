@@ -23,7 +23,7 @@ Returns or sets a pixel point on the screen.
  _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns or sets a pixel point on the screen.
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Long**|Location of the pixel on the screen.|
 
-### Return value
+## Return value
 
 Long
 

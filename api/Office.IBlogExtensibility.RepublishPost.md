@@ -23,7 +23,7 @@ Hands off the current post so it can be republished by the provider.
  _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

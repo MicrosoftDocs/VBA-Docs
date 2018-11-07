@@ -20,7 +20,7 @@ _expression_. `Larger`
 _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

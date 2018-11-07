@@ -23,7 +23,7 @@ Defines a new name for a range of cells.
  _expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ Defines a new name for a range of cells.
 | _RefersToR1C1_|Optional| **Variant**|Describes what the name refers to, in English using R1C1-style notation, if the RefersTo, RefersToLocal, and RefersToR1C1Local parameters are not specified.|
 | _RefersToR1C1Local_|Optional| **Variant**|Describes what the name refers to, in localized text using R1C1-style notation, if the RefersTo, RefersToLocal, and RefersToR1C1 parameters are not specified.|
 
-### Return value
+## Return value
 
 A  **[Name](Excel.Name.md)** object that represents the new name.
 

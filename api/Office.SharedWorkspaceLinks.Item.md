@@ -26,7 +26,7 @@ Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shar
  _expression_ Required. A variable that represents a '[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)' object. The specified **SharedWorkspaceLinks** collection.
 
 
-### Parameters
+## Parameters
 
 
 

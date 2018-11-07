@@ -23,7 +23,7 @@ Returns the future value of an initial principal after applying a series of comp
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the future value of an initial principal after applying a series of comp
 | _Arg1_|Required| **Variant**|Principal - the present value.|
 | _Arg2_|Required| **Variant**|Schedule - an array of interest rates to apply.|
 
-### Return value
+## Return value
 
 Double
 

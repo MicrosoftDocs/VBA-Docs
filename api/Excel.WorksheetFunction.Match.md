@@ -23,7 +23,7 @@ Returns the relative position of an item in an array that matches a specified va
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the relative position of an item in an array that matches a specified va
 | _Arg2_|Required| **Variant**|Lookup_array - a contiguous range of cells containing possible lookup values. Lookup_array must be an array or an array reference.|
 | _Arg3_|Optional| **Variant**|Match_type - the number -1, 0, or 1. Match_type specifies how Microsoft Excel matches lookup_value with values in lookup_array.|
 
-### Return value
+## Return value
 
 Double
 

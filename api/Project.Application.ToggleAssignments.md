@@ -23,7 +23,7 @@ Shows or hides assignments for one or more selected task or resources in usage v
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 | _Type_|Required| **[XlCellType](Excel.XlCellType.md)**|The cells to include.|
 | _Value_|Optional| **Variant**|If  _Type_ is either **xlCellTypeConstants** or **xlCellTypeFormulas** , this argument is used to determine which types of cells to include in the result. These values can be added together to return more than one type. The default is to select all constants or formulas, no matter what the type.|
 
-### Return value
+## Return value
 
 Range
 

@@ -23,7 +23,7 @@ Determines whether the shadow of the specified shape appears filled in and is ob
  _expression_ A variable that represents an [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

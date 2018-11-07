@@ -23,7 +23,7 @@ Runs a macro or calls a function. This can be used to run a macro written in Vis
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Runs a macro or calls a function. This can be used to run a macro written in Vis
 | _Macro_|Optional| **Variant**|The macro to run. This can be either a string with the macro name, a  **[Range](Excel.Range(object).md)** object indicating where the function is, or a register ID for a registered DLL (XLL) function. If a string is used, the string will be evaluated in the context of the active sheet.|
 | _Arg1-Arg30_|Optional| **Variant**|An argument that should be passed to the function.|
 
-### Return value
+## Return value
 
 Variant
 

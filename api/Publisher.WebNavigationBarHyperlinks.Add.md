@@ -23,7 +23,7 @@ Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks**
  _expression_ A variable that represents a  **WebNavigationBarHyperlinks** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a new  **Hyperlink** object to the specified **WebNavigationBarHyperlinks**
 |TextToDisplay|Optional| **String**|The display text of the new hyperlink. |
 |Index|Optional| **Long**|The index of the new  **Hyperlink** object in the **WebNavigationBarHyperlinks** collection.|
 
-### Return value
+## Return value
 
 Hyperlink
 

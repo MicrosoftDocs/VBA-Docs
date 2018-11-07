@@ -23,7 +23,7 @@ Converts a measurement from points to inches (1 inch = 72 points). Returns the c
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a measurement from points to inches (1 inch = 72 points). Returns the c
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
 
-### Return value
+## Return value
 
 Single
 

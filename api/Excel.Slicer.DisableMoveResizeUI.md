@@ -23,7 +23,7 @@ Returns or sets whether the specified slicer can be moved or resized by using th
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 Boolean
 

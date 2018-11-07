@@ -23,7 +23,7 @@ Exports the active project as a document in PDF or XPS format.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Exports the active project as a document in PDF or XPS format.
 | _FromDate_|Optional|**Variant**|The start date of the range of dates to publish. The default value is the project start date.|
 | _ToDate_|Optional|**Variant**|The end date of the range of dates to publish. The default value is the project end date.|
 
-### Return value
+## Return value
 
  **Boolean**
 

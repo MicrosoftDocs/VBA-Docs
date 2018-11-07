@@ -23,7 +23,7 @@ Displays the  **More Groups** dialog box, which prompts the user to apply a grou
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

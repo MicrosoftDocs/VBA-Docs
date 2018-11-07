@@ -23,7 +23,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
  _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

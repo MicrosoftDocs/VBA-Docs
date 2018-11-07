@@ -23,7 +23,7 @@ Determines whether the specified object variable references a valid object and r
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines whether the specified object variable references a valid object and r
 |:-----|:-----|:-----|:-----|
 |Object|Required| **Object**|A variable that references an object.|
 
-### Return value
+## Return value
 
 Boolean
 

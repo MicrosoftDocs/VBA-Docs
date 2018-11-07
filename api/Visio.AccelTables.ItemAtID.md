@@ -23,7 +23,7 @@ Returns the  **AccelTable** object for an ID within a collection. Read-only.
  _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the  **AccelTable** object for an ID within a collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**|The Visio context ID of the object to retrieve.|
 
-### Return value
+## Return value
 
 AccelTable
 

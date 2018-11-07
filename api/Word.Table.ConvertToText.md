@@ -23,7 +23,7 @@ Converts a table to text and returns a  **Range** object that represents the del
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

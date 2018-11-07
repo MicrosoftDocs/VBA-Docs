@@ -23,7 +23,7 @@ Returns or sets a  **Long** indicating a calculated luminance value for the spec
  _expression_ A variable that represents a  **Plate** object.
 
 
-### Return value
+## Return value
 
 Long
 

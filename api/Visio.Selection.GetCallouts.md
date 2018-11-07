@@ -23,7 +23,7 @@ Returns the list of identifiers of the callout shapes in the selection.
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the list of identifiers of the callout shapes in the selection.
 |:-----|:-----|:-----|:-----|
 | _NestedOptions_|Required| **[VisContainerNested](Visio.VisContainerNested.md)**|Indicates whether to exclude shapes in the selection that are contained by containers or lists. See Remarks for possible values.|
 
-### Return value
+## Return value
 
  **Long()**
 

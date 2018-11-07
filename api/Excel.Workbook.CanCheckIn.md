@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

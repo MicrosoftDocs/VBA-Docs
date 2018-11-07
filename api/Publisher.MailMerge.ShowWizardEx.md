@@ -23,7 +23,7 @@ Displays the specified catalog or mail merge wizard in a document.
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Converts a dollar price expressed as a decimal number into a dollar price expres
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Converts a dollar price expressed as a decimal number into a dollar price expres
 | _Arg1_|Required| **Variant**|Decimal_dollar - is a decimal number.|
 | _Arg2_|Required| **Variant**|Fraction - the integer to use in the denominator of a fraction.|
 
-### Return value
+## Return value
 
 Double
 

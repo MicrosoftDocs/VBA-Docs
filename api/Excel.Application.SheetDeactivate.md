@@ -23,7 +23,7 @@ Occurs when any sheet is deactivated.
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

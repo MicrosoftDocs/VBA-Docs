@@ -23,7 +23,7 @@ Returns a list of supported functionality and the maximum allowed file size.
  _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

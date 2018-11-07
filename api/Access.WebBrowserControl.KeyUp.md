@@ -23,7 +23,7 @@ _expression_. `KeyUp`( ` _KeyCode_`, ` _Shift_` )
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 | _KeyCode_|Required|**Integer**||
 | _Shift_|Required|**Integer**||
 
-### Return value
+## Return value
 
 nothing
 

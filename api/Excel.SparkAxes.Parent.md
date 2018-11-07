@@ -23,7 +23,7 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
  _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
 
 
-### Return value
+## Return value
 
  **SparklineGroup**
 

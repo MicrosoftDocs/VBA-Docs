@@ -27,7 +27,7 @@ For more information about the new function, see the [GammaLn_Precise](Excel.Wor
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ For more information about the new function, see the [GammaLn_Precise](Excel.Wor
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|X - the value for which you want to calculate GAMMALN.|
 
-### Return value
+## Return value
 
 Double
 

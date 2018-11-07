@@ -18,7 +18,7 @@ Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the
  _expression_ A variable that represents a 'ThemeVariants' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the
 | _Index_|Required|**Integer**|The index number of the single  **ThemeVariant** object in the collection to be returned.|
 | _Index_|Required|INT||
 
-### Return value
+## Return value
 
  **ThemeVariant**
 

@@ -23,7 +23,7 @@ Displays a MAPI-compliant address book from which the user can select resources 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

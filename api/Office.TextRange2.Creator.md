@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the **TextRange2**
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

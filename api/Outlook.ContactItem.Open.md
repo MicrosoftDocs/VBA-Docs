@@ -20,7 +20,7 @@ Occurs when an instance of the parent object is being opened in an  **[Inspector
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

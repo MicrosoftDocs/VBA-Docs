@@ -23,7 +23,7 @@ Closes and optionally saves changes to the Outlook item.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -28,7 +28,7 @@ The  **MultiLine** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control supports more than one line of text.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

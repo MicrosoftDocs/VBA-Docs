@@ -23,7 +23,7 @@ Returns  **True** if the image represented by the parent **PictureFormat** objec
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

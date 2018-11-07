@@ -23,7 +23,7 @@ Returns an object from a collection. The  **Item** property is the default prope
  _expression_ A variable that represents a [Connects](./Visio.Connects.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object from a collection. The  **Item** property is the default prope
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Contains the index of the object to retrieve.|
 
-### Return value
+## Return value
 
 Connect
 

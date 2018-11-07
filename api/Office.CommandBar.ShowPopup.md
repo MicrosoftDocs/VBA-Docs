@@ -26,7 +26,7 @@ Displays a command bar as a shortcut menu at the specified coordinates or at the
  _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

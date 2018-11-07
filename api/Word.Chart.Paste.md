@@ -23,7 +23,7 @@ Pastes chart data from the Clipboard into the chart.
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

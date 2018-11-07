@@ -18,7 +18,7 @@ Returns a  **TextRange2** object that represents the specified subset of text se
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Returns a  **TextRange2** object that represents the specified subset of text se
 | _Start_|Optional|**Long**|The first sentence in the returned range.|
 | _Length_|Optional|**Long**|The number of sentences to be returned.|
 
-### Return value
+## Return value
 
 TextRange2
 

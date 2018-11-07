@@ -20,7 +20,7 @@ Gets a  **TextRange2** object that represents the specified subset of text parag
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Gets a  **TextRange2** object that represents the specified subset of text parag
 | _Start_|Optional|**Long**|The first paragraph in the returned range.|
 | _Length_|Optional|**Long**|The number of paragraphs to be returned.|
 
-### Return value
+## Return value
 
 TextRange2
 

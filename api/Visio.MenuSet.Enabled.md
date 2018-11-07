@@ -23,7 +23,7 @@ Determines whether or not an object is currently enabled. Read/write.
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

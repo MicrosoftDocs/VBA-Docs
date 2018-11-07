@@ -23,7 +23,7 @@ Returns a 32-bit integer that indicates the application in which this object was
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Return value
+## Return value
 
 XlCreator
 

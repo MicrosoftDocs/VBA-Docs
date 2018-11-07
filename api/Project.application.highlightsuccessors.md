@@ -19,7 +19,7 @@ Sets or clears task successor highlighting for the task path feature.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Sets or clears task successor highlighting for the task path feature.
 | _Set_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

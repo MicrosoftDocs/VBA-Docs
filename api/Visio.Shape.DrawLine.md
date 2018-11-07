@@ -23,7 +23,7 @@ Adds a line to the  **Shapes** collection of a group shape.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a line to the  **Shapes** collection of a group shape.
 | _xEnd_|Required| **Double**|The x-coordinate of the line's endpoint.|
 | _yEnd_|Required| **Double**|The y-coordinate of the line's endpoint.|
 
-### Return value
+## Return value
 
 Shape
 

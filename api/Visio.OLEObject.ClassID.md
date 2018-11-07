@@ -23,7 +23,7 @@ Returns the class ID string of a shape that represents an ActiveX control or an 
  _expression_ A variable that represents an [OLEObject](./Visio.OLEObject.md) object.
 
 
-### Return value
+## Return value
 
 String
 

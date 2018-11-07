@@ -21,14 +21,14 @@ Enables a unified group to be deleted.
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
 | **Name**| **Value**| **Description**|
 | _GroupSmtpAddress_|String|Smtp address of the group.|
 
-### Return value
+## Return value
 
 The Smtp address used to delete the group.
 

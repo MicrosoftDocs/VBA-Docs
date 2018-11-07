@@ -23,7 +23,7 @@ Displays a dialog box that allows users to select which signature certificate to
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

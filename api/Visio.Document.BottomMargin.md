@@ -23,7 +23,7 @@ Specifies the bottom margin when printing the pages in a document. Read/write.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies the bottom margin when printing the pages in a document. Read/write.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Optional| **Variant**|he units to use when retrieving or setting the margin value. Defaults to internal drawing units.|
 
-### Return value
+## Return value
 
 Double
 

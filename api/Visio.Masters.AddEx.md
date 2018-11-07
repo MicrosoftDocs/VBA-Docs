@@ -23,7 +23,7 @@ Adds a new  **Master** object of the specified type to the **Masters** collectio
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Master** object of the specified type to the **Masters** collectio
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **VisMasterTypes**|A master type from the  **VisMasterTypes** enumeration. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 Master
 

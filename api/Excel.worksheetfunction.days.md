@@ -21,7 +21,7 @@ Returns the number of days between the two dates.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns the number of days between the two dates.
 | _Arg1_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
 | _Arg2_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

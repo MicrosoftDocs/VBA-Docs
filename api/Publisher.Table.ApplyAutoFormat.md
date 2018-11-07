@@ -23,7 +23,7 @@ Applies automatic built-in table formatting to a specified table.
  _expression_ A variable that represents a  **Table** object.
 
 
-### Parameters
+## Parameters
 
 
 

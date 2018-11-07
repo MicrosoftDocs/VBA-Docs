@@ -23,7 +23,7 @@ Checks the spelling of an object.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Checks the spelling of an object.
 | _AlwaysSuggest_|Optional| **Variant**| **True** to have Microsoft Excel display a list of suggested alternate spellings when an incorrect spelling is found. **False** to have Microsoft Excel wait for you to input the correct spelling. If this argument is omitted, the current setting will be used.|
 | _SpellLang_|Optional| **Variant**|The language of the dictionary being used. Can be one of the  **[MsoLanguageID](Office.MsoLanguageID.md)** values.|
 
-### Return value
+## Return value
 
 Variant
 

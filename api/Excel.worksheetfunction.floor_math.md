@@ -21,7 +21,7 @@ Rounds a number down, to the nearest integer or to the nearest multiple of signi
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Rounds a number down, to the nearest integer or to the nearest multiple of signi
 | _Arg2_|Optional|VARIANT|The multiple to which you want to round.|
 | _Arg3_|Optional|VARIANT|When given a nonzero number, this function will round towards zero.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

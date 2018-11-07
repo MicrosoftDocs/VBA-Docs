@@ -20,7 +20,7 @@ Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal Master As [IVMASTE
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

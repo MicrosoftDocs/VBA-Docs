@@ -20,7 +20,7 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the custom color.|
 
-### Return value
+## Return value
 
 MsoRGBType
 

@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **MetaProperty** object. Read-only.
  _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

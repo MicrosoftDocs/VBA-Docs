@@ -23,7 +23,7 @@ Returns the individual term binomial distribution probability.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the individual term binomial distribution probability.
 | _Arg3_|Required| **Double**|Probability_s - the probability of success on each trial.|
 | _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is  **True** , then the **Binom_Dist** method returns the cumulative distribution function, which is the probability that there are at most number_s successes; if **False** , it returns the probability mass function, which is the probability that there are number_s successes.|
 
-### Return value
+## Return value
 
  **Double**
 

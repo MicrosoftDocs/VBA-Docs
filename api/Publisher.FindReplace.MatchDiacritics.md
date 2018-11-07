@@ -23,7 +23,7 @@ Sets or returns a  **Boolean** representing whether or not a search operation wi
  _expression_ A variable that represents a  **FindReplace** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

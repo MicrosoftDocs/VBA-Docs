@@ -20,7 +20,7 @@ Sets options for displaying timephased data for the resource.
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Sets options for displaying timephased data for the resource.
 | _TimeScaleUnit_|Optional|**Long**|Can be one of the  **[PjTimescaleUnit](Project.PjTimescaleUnit.md)** constants. The default value is **pjTimescaleWeeks**.|
 | _Count_|Optional|**Long**|The number of timescale units to group together. The default value is 1.|
 
-### Return value
+## Return value
 
  **TimeScaleValues**
 

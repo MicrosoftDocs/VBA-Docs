@@ -23,7 +23,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the previous c
  _expression_ An expression that returns a [Comment](Excel.Comment.md) object.
 
 
-### Return value
+## Return value
 
 Comment
 

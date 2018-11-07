@@ -28,7 +28,7 @@ The  **PictureAlignment** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmPictureAlignment_|Optional. The position where the picture aligns with the control.|
 
- **Settings**
+## Settings
 The settings for  _fmPictureAlignment_ are:
 
 

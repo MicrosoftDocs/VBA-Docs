@@ -23,7 +23,7 @@ Changes a link from one document to another.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

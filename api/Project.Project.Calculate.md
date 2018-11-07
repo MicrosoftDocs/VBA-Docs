@@ -20,7 +20,7 @@ Occurs when a project schedule is recalculated.
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs when a project schedule is recalculated.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that is rescheduled.|
 
-### Return value
+## Return value
 
 nothing
 

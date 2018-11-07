@@ -23,7 +23,7 @@ Creates one or more new  **Shape** objects by dropping an object onto a receivin
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Creates one or more new  **Shape** objects by dropping an object onto a receivin
 | _xPos_|Required| **Double**|The x-coordinate at which to place the center of the shape's width or PinX.|
 | _yPos_|Required| **Double**|The y-coordinate at which to place the center of the shape's height or PinY.|
 
-### Return value
+## Return value
 
 Shape
 

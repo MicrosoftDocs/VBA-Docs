@@ -23,7 +23,7 @@ Returns an array of  **Long** values that represent the collection of identifier
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Return value
+## Return value
 
  **Long()**
 

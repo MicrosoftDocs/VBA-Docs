@@ -23,7 +23,7 @@ Returns a  **Document** object that represents a new publication.
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Document** object that represents a new publication.
 |Wizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
 |Design|Optional| **Long**|The design to apply to the new publication.|
 
-### Return value
+## Return value
 
 Document
 

@@ -23,7 +23,7 @@ Adds a trigger effect to the animation in a  **Sequence** object.
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Adds a trigger effect to the animation in a  **Sequence** object.
 | _bookmark_|Optional|**String**|The bookmark.|
 | _Level_|Optional|**MsoAnimateByLevel**|The level of animation.|
 
-### Return value
+## Return value
 
 Effect
 

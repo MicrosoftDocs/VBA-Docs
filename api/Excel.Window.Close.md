@@ -23,7 +23,7 @@ Closes the object.
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Closes the object.
 | _Filename_|Optional| **Variant**|Save changes under this file name.|
 | _RouteWorkbook_|Optional| **Variant**|If the workbook doesn't need to be routed to the next recipient (if it has no routing slip or has already been routed), this argument is ignored. Otherwise, Microsoft Excel routes the workbook according to the value of this parameter. If set to  **True** , the workbook is sent to the next recipient. If set to **False** , the workbook is not sent. If omitted, the user is asked whether the workbook should be sent.|
 
-### Return value
+## Return value
 
  **True** if the method successfully closed the object; otherwise, **False** .
 

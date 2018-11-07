@@ -23,7 +23,7 @@ _expression_. `DeleteControl`( ` _FormName_`, ` _ControlName_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _FormName_|Required|**String**|The name of the form containing the control you want to delete.|
 | _ControlName_|Required|**String**|The name of the control you want to delete.|
 
-### Return value
+## Return value
 
 Nothing
 

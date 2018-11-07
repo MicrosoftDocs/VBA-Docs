@@ -23,7 +23,7 @@ Represents the encryption session associated with the active presentation. Read-
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

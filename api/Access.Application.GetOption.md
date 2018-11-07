@@ -24,7 +24,7 @@ _expression_. `GetOption`( `_OptionName_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _OptionName_|Required|**String**|The name of the option. For a list of optionname argument strings, see [Set Options from Visual Basic](../access/Concepts/Settings/set-options-from-visual-basic.md) .|
 
-### Return value
+## Return value
 
 Variant
 

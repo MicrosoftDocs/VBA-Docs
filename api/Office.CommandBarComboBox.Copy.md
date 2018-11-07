@@ -23,7 +23,7 @@ Copies a command bar combo box control to an existing command bar.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Copies a command bar combo box control to an existing command bar.
 | _Bar_|Optional|**Variant**| A **CommandBar** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
 | _Before_|Optional|**Variant**|A number that indicates the position for the new control on the command bar. The new control will be inserted before the control at this position. If this argument is omitted, the control is copied to the end of the command bar.|
 
-### Return value
+## Return value
 
 CommandBarControl
 

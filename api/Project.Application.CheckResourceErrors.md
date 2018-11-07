@@ -23,7 +23,7 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
 | _ResetImport_|Optional|**Boolean**|Reset the import column to  **True** for the local resources that are being checked for errors.|
 | _CheckEnterprise_|Optional|**Boolean**|If  **True**, check enterprise resources only.|
 
-### Return value
+## Return value
 
  **Boolean**
 

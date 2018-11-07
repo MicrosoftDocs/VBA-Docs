@@ -23,7 +23,7 @@ Private Sub  _expression_ _'DocumentOpen'(**_ByVal Doc As Document_**)
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared with events in a class module.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **[BorderArtFormat](Publisher.BorderArtFormat.md)** object that repre
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return value
+## Return value
 
 BorderArtFormat
 

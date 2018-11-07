@@ -23,7 +23,7 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
  _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
 |:-----|:-----|:-----|:-----|
 | _LookInFolders_|Required| **String**|The path name of the folders that the search will search through. You must enclose the folder path with single quotes.|
 
-### Return value
+## Return value
 
  **True** if the search is synchronous; otherwise, **False** .
 

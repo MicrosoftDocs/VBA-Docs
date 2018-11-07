@@ -23,7 +23,7 @@ Activates the next window in the order in which windows were opened.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Activates the next window in the order in which windows were opened.
 |:-----|:-----|:-----|:-----|
 | _NoWrap_|Optional|**Boolean**|**True** if using **WindowNext** on the last opened window doesn't wrap around to the first opened window. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

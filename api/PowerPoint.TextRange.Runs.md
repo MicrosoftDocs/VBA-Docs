@@ -23,7 +23,7 @@ Returns a  **TextRange** object that represents the specified subset of text run
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **TextRange** object that represents the specified subset of text run
 | _Start_|Optional|**Long**|The first run in the returned range.|
 | _Length_|Optional|**Long**|The number of runs to be returned.|
 
-### Return value
+## Return value
 
 TextRange
 

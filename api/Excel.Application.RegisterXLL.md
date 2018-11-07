@@ -23,7 +23,7 @@ Loads an XLL code resource and automatically registers the functions and command
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Loads an XLL code resource and automatically registers the functions and command
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|Specifies the name of the XLL to be loaded.|
 
-### Return value
+## Return value
 
 Boolean
 

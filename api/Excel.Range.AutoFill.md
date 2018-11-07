@@ -23,7 +23,7 @@ Performs an autofill on the cells in the specified range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Performs an autofill on the cells in the specified range.
 | _Destination_|Required| **[Range](Excel.Range(object).md)**|The cells to be filled. The destination must include the source range.|
 | _Type_|Optional| **[XlAutoFillType](Excel.XlAutoFillType.md)**|Specifies the fill type.|
 
-### Return value
+## Return value
 
 Variant
 

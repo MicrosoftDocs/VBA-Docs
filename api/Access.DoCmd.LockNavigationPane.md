@@ -23,7 +23,7 @@ _expression_. `LockNavigationPane`( ` _Lock_` )
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

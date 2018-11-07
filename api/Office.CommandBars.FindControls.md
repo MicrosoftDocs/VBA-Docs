@@ -26,7 +26,7 @@ Gets the  **CommandBarControls** collection that fits the specified criteria.
  _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Gets the  **CommandBarControls** collection that fits the specified criteria.
 | _Tag_|Optional|**Variant**|The control's tag value.|
 | _Visible_|Optional|**Variant**|**True** to include only visible command bar controls in the search. The default value is False.|
 
-### Return value
+## Return value
 
 CommandBarControls
 

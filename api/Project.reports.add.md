@@ -16,7 +16,7 @@ Adds a custom report to the  **Reports** collection.
  _expression_ A variable that represents a 'Reports' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -25,7 +25,7 @@ Adds a custom report to the  **Reports** collection.
 | _Name_|Required|**String**|The name of the report.|
 | _Name_|Required|STRING||
 
-### Return value
+## Return value
 
  **Report**
 

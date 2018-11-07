@@ -23,7 +23,7 @@ Turns preview on or off for a gallery in the Microsoft Visio user interface.
  _expression_ A variable that represents an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Turns preview on or off for a gallery in the Microsoft Visio user interface.
 | _GalleryName_|Required| **String**|The name of the gallery for which to set the preview status.|
 | _OnOrOff_|Required| **Boolean**| **True** to turn preview on for the specified gallery; **False** to turn preview off.|
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -23,7 +23,7 @@ Creates a shape that has the geometric characteristics of the specified object. 
  _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

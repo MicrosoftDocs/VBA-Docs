@@ -23,7 +23,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shap
  _expression_ A variable that represents an  **InlineShapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents an inline shap
 |:-----|:-----|:-----|:-----|
 |var|Required| **Variant**|The index position or name of the object to return. If  **Index** is an integer, the index into the collection is 1-based. If **Index** is a string, the name of the shape is used as the index. An automation error is returned if the index or name does not represent a shape in the collection.|
 
-### Return value
+## Return value
 
 Shape
 

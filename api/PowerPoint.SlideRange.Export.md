@@ -23,7 +23,7 @@ Exports a range of slides, using the specified graphics filter, and saves the ex
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

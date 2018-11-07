@@ -23,7 +23,7 @@ Logs in to MAPI Mail or Microsoft Exchange and establishes a mail session. If Mi
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **CustomProperty** object that represents s custom property added to 
  _expression_ Required. A variable that represents a '[CustomProperties](Word.CustomProperties.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **CustomProperty** object that represents s custom property added to 
 | _Name_|Required| **String**|The name of the custom smart tag property.|
 | _Value_|Required| **String**|The value of the custom smart tag property|
 
-### Return value
+## Return value
 
 CustomProperty
 

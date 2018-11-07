@@ -23,7 +23,7 @@ Returns an  **Object** that represents the parent object of the specified **Rese
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

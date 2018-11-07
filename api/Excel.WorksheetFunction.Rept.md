@@ -23,7 +23,7 @@ Repeats text a given number of times. Use REPT to fill a cell with a number of i
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Repeats text a given number of times. Use REPT to fill a cell with a number of i
 | _Arg1_|Required| **String**|Text - the text you want to repeat.|
 | _Arg2_|Required| **Double**|Number_times - a positive number specifying the number of times to repeat text.|
 
-### Return value
+## Return value
 
 String
 

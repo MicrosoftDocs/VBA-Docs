@@ -23,7 +23,7 @@ Returns the annual yield of a security that pays interest at maturity.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Returns the annual yield of a security that pays interest at maturity.
 | _Arg5_|Required| **Variant**|Pr - the security's price per $100 face value.|
 | _Arg6_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

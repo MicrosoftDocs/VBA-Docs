@@ -27,7 +27,7 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ For more information about the new function, see the [Floor_Precise](Excel.Works
 | _Arg1_|Required| **Double**|Number - the numeric value you want to round.|
 | _Arg2_|Required| **Double**|Significance - the multiple to which you want to round.|
 
-### Return value
+## Return value
 
 Double
 

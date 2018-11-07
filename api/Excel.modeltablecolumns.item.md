@@ -21,7 +21,7 @@ Returns a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (E
  _expression_ A variable that represents a [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (E
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
-### Return value
+## Return value
 
  **MODELTABLECOLUMN**
 

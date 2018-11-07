@@ -23,7 +23,7 @@ Returns the name of the SolutionXML element. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the name of the SolutionXML element. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the SolutionXML element in the document.|
 
-### Return value
+## Return value
 
 String
 

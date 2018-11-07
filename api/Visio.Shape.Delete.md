@@ -23,7 +23,7 @@ Deletes an object or selection.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

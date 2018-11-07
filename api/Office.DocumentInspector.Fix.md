@@ -23,7 +23,7 @@ Performs an action on specific information items or document properties dependin
  _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

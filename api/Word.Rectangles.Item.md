@@ -20,7 +20,7 @@ Returns an individual  **Rectangle** object in a collection.
  _expression_ Required. A variable that represents a '[Rectangles](Word.Rectangles.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns an individual  **Rectangle** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
 
-### Return value
+## Return value
 
 Rectangle
 

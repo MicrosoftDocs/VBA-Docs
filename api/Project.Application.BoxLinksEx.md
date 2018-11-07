@@ -23,7 +23,7 @@ Specifies the appearance of link lines in the active Network Diagram view, where
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Specifies the appearance of link lines in the active Network Diagram view, where
 | _CriticalColor_|Optional|**Long**|The color of link lines between critical tasks. Can be a hexadecimal value for the RGB color, where red is the last byte. For example, the value &;HFF0000 is blue and &;H00FFFF is yellow. The default value is 0, which does not change the previous color.|
 | _NoncriticalColor_|Optional|**Long**| The color of link lines between noncritical tasks. Can be a hexadecimal value; the default value is 0, which does not change the previous color.|
 
-### Return value
+## Return value
 
  **Boolean**
 

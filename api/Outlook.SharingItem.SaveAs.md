@@ -23,7 +23,7 @@ Saves the  **[SharingItem](Outlook.SharingItem.md)** to the specified path and i
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

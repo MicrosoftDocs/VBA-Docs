@@ -23,7 +23,7 @@ Inserts slides from a file into a presentation, at the specified location. Retur
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Inserts slides from a file into a presentation, at the specified location. Retur
 | _SlideStart_|Optional|**Long**|The index number of the first  **Slide** object in the **Slides** collection in the file denoted by FileName.|
 | _SlideEnd_|Optional|**Long**|The index number of the last  **Slide** object in the **Slides** collection in the file denoted by FileName.|
 
-### Return value
+## Return value
 
 Integer
 

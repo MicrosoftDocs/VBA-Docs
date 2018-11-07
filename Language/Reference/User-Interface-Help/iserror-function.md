@@ -18,7 +18,7 @@ Returns a  **Boolean** value indicating whether an [expression](../../Glossary/v
 ## Syntax
 
 **IsError(**_expression_**)**
-The required  _expression_[argument](../../Glossary/vbe-glossary.md#argument) can be any valid expression.
+The required  _expression_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid expression.
 
 ## Remarks
 

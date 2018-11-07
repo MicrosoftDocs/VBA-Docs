@@ -19,7 +19,7 @@ Displays the specified report.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Displays the specified report.
 | _Name_|Optional|VARIANT||
 | _ApplyTo_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Boolean**
 

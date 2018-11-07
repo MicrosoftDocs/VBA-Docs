@@ -18,7 +18,7 @@ Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) representing
 ## Syntax
 
 **Hex** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) _._
+The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression) _._
 
 ## Remarks
 

@@ -23,7 +23,7 @@ Occurs whenever a new explorer window is opened, either as a result of user acti
  _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

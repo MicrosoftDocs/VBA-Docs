@@ -23,7 +23,7 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
 | _EntryIDItem_|Required| **String**| The **[EntryID](Outlook.Folder.EntryID.md)** of the item.|
 | _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder. _EntryIDStore_ usually must be provided when retrieving an item based on its MAPI IDs.|
 
-### Return value
+## Return value
 
 An  **Object** value that represents the specified Outlook item.
 

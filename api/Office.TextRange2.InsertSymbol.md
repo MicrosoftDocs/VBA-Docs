@@ -20,7 +20,7 @@ Inserts a symbol from the specified font set into the range of text represented 
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Inserts a symbol from the specified font set into the range of text represented 
 | _CharNumber_|Required|**Long**|The number of the symbol.|
 | _Unicode_|Optional|**MsoTriState**|Indicates whether the value of the symbol is specified as a unicode value.|
 
-### Return value
+## Return value
 
 TextRange2
 

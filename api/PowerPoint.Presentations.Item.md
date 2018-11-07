@@ -23,7 +23,7 @@ Returns a single  **Presentation** object from the specified **Presentations** c
  _expression_ A variable that represents a [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Presentation** object from the specified **Presentations** c
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Presentation** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Presentation
 

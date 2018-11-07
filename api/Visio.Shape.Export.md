@@ -23,7 +23,7 @@ Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Exports an object from Microsoft Visio to a file format such as .bmp, .dib, .dwg
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The fully qualified path and name of the file to receive the exported object.|
 
-### Return value
+## Return value
 
 Nothing
 

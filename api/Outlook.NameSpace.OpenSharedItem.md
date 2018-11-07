@@ -23,7 +23,7 @@ Opens a shared item from a specified path or URL.
  _expression_ An expression that returns a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens a shared item from a specified path or URL.
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path or URL of the shared item to be opened.|
 
-### Return value
+## Return value
 
 An  **Object** representing the appropriate Outlook item for the shared item.
 

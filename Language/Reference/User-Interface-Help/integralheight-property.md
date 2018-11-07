@@ -28,7 +28,7 @@ The  **IntegralHeight** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the list displays partial lines of text.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

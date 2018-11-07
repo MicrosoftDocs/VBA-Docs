@@ -20,7 +20,7 @@ Returns a  **Long** that indicates the application in which the **ContactCard** 
  _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

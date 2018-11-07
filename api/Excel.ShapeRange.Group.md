@@ -23,7 +23,7 @@ Groups the shapes in the specified range.
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
-### Return value
+## Return value
 
 A  **[Shape](Excel.Shape.md)** object that represents the grouped shape.
 

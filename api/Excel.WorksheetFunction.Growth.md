@@ -23,7 +23,7 @@ Calculates predicted exponential growth by using existing data. GROWTH returns t
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Calculates predicted exponential growth by using existing data. GROWTH returns t
 | _Arg3_|Optional| **Variant**|New_x's - new x-values for which you want GROWTH to return corresponding y-values.|
 | _Arg4_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 1.|
 
-### Return value
+## Return value
 
 Variant
 

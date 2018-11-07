@@ -20,7 +20,7 @@ Returns a string that describes the specified error message code in Microsoft Vi
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns a string that describes the specified error message code in Microsoft Vi
 |:-----|:-----|:-----|:-----|
 |ErrorCode|Required| **Long**|The error message code for which you want to get a description.|
 
-### Return value
+## Return value
 
 String
 

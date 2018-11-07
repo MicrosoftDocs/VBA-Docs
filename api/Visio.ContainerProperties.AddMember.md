@@ -23,7 +23,7 @@ Adds a shape or a set of shapes to the container.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a shape or a set of shapes to the container.
 | _pObjectToAdd_|Required| **[UNKNOWN]**|The shape or shapes to add to the container. Can be of type  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** .|
 | _addOptions_|Required| **[VisMemberAddOptions](Visio.VisMemberAddOptions.md)**|Determines whether the container should expand to fully contain the added shapes.|
 
-### Return value
+## Return value
 
  **Nothing**
 

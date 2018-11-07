@@ -23,7 +23,7 @@ Reassigns the selected assignments in the Team Planner view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Reassigns the selected assignments in the Team Planner view.
 |:-----|:-----|:-----|:-----|
 | _ResourceUniqueID_|Required|**Long**|Identification number of the resource for the new assignment, or -65535 for unassigned.|
 
-### Return value
+## Return value
 
  **Boolean**
 

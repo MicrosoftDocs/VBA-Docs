@@ -23,7 +23,7 @@ Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the colo
  _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' object.
 
 
-### Return value
+## Return value
 
  **SparkColor**
 

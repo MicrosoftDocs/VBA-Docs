@@ -23,7 +23,7 @@ Moves the endpoint of a one-dimensional (1-D) shape to the coordinates represent
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Moves the endpoint of a one-dimensional (1-D) shape to the coordinates represent
 | _xPos_|Required| **Double**|The new x-coordinate of the endpoint.|
 | _yPos_|Required| **Double**|The new y-coordinate of the endpoint.|
 
-### Return value
+## Return value
 
 Nothing
 

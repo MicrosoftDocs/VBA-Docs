@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes the object.
 |:-----|:-----|:-----|:-----|
 | _Shift_|Optional| **Variant**|Used only with  **[Range](Excel.Range(object).md)** objects. Specifies how to shift cells to replace deleted cells. Can be one of the following **[XlDeleteShiftDirection](Excel.XlDeleteShiftDirection.md)** constants: **xlShiftToLeft** or **xlShiftUp** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
 
-### Return value
+## Return value
 
 Variant
 

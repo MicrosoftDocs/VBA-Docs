@@ -20,7 +20,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
  _expression_ An expression that returns a 'Groups2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
 | _Name_|Required|**String**|The name of the group.|
 | _FieldName_|Required|**String**|The name of the field being grouped by.|
 
-### Return value
+## Return value
 
  **Group2**
 

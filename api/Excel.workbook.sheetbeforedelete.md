@@ -21,7 +21,7 @@ Occurs when any sheet is deleted.
  _expression_ An expression that returns a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

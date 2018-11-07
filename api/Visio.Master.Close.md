@@ -23,7 +23,7 @@ Closes a master.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns a  **Pane** object that represents a new pane to a window.
  _expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Pane** object that represents a new pane to a window.
 |:-----|:-----|:-----|:-----|
 | _SplitVertical_|Optional| **Variant**|A number that represents the percentage of the window, from top to bottom, you want to appear above the split.|
 
-### Return value
+## Return value
 
 Pane
 

@@ -23,7 +23,7 @@ Ungroups the sparklines in the selected sparkline group.
  _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Occurs after any worksheet is recalculated or after any changed data is plotted 
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

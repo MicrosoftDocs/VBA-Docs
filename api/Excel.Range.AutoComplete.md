@@ -23,7 +23,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to complete.|
 
-### Return value
+## Return value
 
 String
 

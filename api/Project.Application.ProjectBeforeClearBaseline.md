@@ -20,7 +20,7 @@ Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Occurs before a baseline is cleared. Uses the  **EventInfo** object parameter.
 | _AllTasks_|Required|**Boolean**|**True** if clearing the entire project.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the baseline is not cleared.|
 
-### Return value
+## Return value
 
 nothing
 

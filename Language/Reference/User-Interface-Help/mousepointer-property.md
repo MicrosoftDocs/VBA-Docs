@@ -28,7 +28,7 @@ The  **MousePointer** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmMousePointer_|Optional. The shape you want for the mouse pointer.|
 
- **Settings**
+## Settings
 The settings for  _fmMousePointer_ are:
 
 

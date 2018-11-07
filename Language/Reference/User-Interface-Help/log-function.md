@@ -18,7 +18,7 @@ Returns a  **Double** specifying the natural logarithm of a number.
 ## Syntax
 
 **Log(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) greater than zero.
+The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) greater than zero.
 
 ## Remarks
 

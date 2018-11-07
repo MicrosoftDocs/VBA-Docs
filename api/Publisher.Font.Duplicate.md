@@ -23,7 +23,7 @@ Creates a duplicate of the specified  **[Font](Publisher.Font.md)** object and t
  _expression_ A variable that represents a  **Font** object.
 
 
-### Return value
+## Return value
 
 Font
 

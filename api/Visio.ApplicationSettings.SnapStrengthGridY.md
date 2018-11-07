@@ -23,7 +23,7 @@ Specifies the distance in pixels along the  _y_-axis that gridlines pull when sn
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

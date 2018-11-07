@@ -20,7 +20,7 @@ Adds a  **Resource** object to a **Resources** collection.
  _expression_ A variable that represents a 'Resources' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Adds a  **Resource** object to a **Resources** collection.
 | _Name_|Optional|**String**|The name of the new resource. The default value is an empty string ("").|
 | _Before_|Optional|**Long**|The position of the resource in its containing collection. The default value is the position of the last item in the collection.|
 
-### Return value
+## Return value
 
  **Resource**
 

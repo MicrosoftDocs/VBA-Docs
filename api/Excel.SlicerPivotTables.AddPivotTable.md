@@ -23,7 +23,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
  _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivot
 |:-----|:-----|:-----|:-----|
 | _PivotTable_|Required| **PivotTable**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to add.|
 
-### Return value
+## Return value
 
 Nothing
 

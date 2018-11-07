@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns a  **Boolean** value indicating whether an optional **Variant**[argument](../../Glossary/vbe-glossary.md#argument) has been passed to a [procedure](../../Glossary/vbe-glossary.md#procedure).
+Returns a  **Boolean** value indicating whether an optional **Variant** [argument](../../Glossary/vbe-glossary.md#argument) has been passed to a [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
 

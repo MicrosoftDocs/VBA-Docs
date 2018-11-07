@@ -23,7 +23,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
  _expression_ A variable that represents an  **InstalledPrinters** collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The name or index position of the installed printer.|
 
-### Return value
+## Return value
 
 Printer
 

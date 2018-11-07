@@ -23,7 +23,7 @@ Private Sub  _expression_ _'ContentControlBeforeStoreUpdate'(**_ContentControl_*
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

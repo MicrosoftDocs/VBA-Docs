@@ -23,7 +23,7 @@ Selects a collection of nodes matching an XPath expression. This method differs 
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Selects a collection of nodes matching an XPath expression. This method differs 
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required|**String**|Contains an XPath expression.|
 
-### Return value
+## Return value
 
 CustomXMLNodes
 

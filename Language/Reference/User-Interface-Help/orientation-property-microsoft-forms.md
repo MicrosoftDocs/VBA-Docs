@@ -26,7 +26,7 @@ The  **Orientation** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmOrientation_|Optional. Orientation of the control.|
 
- **Settings**
+## Settings
 The settings for  _fmOrientation_ are:
 
 

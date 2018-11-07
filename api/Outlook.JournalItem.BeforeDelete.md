@@ -20,7 +20,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

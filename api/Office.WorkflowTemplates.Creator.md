@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **WorkflowTem
  _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

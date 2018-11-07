@@ -23,7 +23,7 @@ Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified nam
  _expression_ A variable that represents a  **PageSizes** collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified nam
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The name or index position of a  **PageSize** object.|
 
-### Return value
+## Return value
 
 PageSize
 

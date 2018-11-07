@@ -23,7 +23,7 @@ Returns the row in a section specified by row index number. Read-only.
  _expression_ A variable that represents a [Section](./Visio.Section.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the row in a section specified by row index number. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|Specifies the index number of the row to be returned.|
 
-### Return value
+## Return value
 
 Row
 

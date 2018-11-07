@@ -23,7 +23,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
  _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The name or index number of the  **CustomXMLValidationError** object to be returned.|
 
-### Return value
+## Return value
 
 CustomXMLValidationError
 

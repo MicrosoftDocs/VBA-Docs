@@ -23,7 +23,7 @@ Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the 
  _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
-### Return value
+## Return value
 
 A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
 

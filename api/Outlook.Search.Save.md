@@ -23,7 +23,7 @@ Saves the search results to a Search Folder.
  _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

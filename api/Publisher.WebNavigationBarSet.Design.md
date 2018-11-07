@@ -23,7 +23,7 @@ Sets or returns a  **PbWizardNavBarDesign** constant representing the design of 
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Return value
+## Return value
 
 PbWizardNavBarDesign
 

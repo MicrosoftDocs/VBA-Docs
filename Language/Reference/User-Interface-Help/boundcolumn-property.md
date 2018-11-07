@@ -28,7 +28,7 @@ The  **BoundColumn** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Variant_|Optional. Indicates how the  **BoundColumn** value is selected.|
 
- **Settings**
+## Settings
 The settings for  _Variant_ are:
 
 

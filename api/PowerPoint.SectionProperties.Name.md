@@ -23,7 +23,7 @@ Returns the name of the specified section as a  **String**.
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the name of the specified section as a  **String**.
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** colleciton.|
 
-### Return value
+## Return value
 
 String
 

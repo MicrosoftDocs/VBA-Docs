@@ -23,7 +23,7 @@ Returns an individual  **CoAuthor** object in a collection.
  _expression_ An expression that returns a [CoAuthors](./Word.CoAuthors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **CoAuthor** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned.|
 
-### Return value
+## Return value
 
 CoAuthor
 

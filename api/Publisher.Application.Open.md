@@ -23,7 +23,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns a  **[Document](Publisher.Document.md)** object that represents the newl
 |SaveChanges|Optional| **PbSaveOptions**|Specifies what Microsoft Publisher should do if there is already an open publication with unsaved changes.|
 |OpenConflictDocument|Optional| **Boolean**| **True** to open the local conflict publication if there is an offline conflict. Default is **False**.|
 
-### Return value
+## Return value
 
 Document
 

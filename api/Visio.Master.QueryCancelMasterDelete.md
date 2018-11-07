@@ -23,7 +23,7 @@ Private Sub  _expression_ _'QueryCancelMasterDelete'(**_ByVal Master As [IVMASTE
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

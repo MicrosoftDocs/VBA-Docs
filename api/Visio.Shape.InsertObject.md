@@ -23,7 +23,7 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a new embedded object or ActiveX control to a page, master, or group.
 | _ClassOrProgID_|Required| **String**|Identifies the type of object or control to create.|
 | _Flags_|Required| **Integer**|Flags that influence the operation.|
 
-### Return value
+## Return value
 
 Shape
 

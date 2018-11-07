@@ -23,7 +23,7 @@ Returns a reference to the  **CommandBars** collection that represents the comma
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 CommandBars
 

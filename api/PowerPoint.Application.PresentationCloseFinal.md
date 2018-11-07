@@ -23,7 +23,7 @@ Represents closing the final  **Presentation** object.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Represents closing the final  **Presentation** object.
 |:-----|:-----|:-----|:-----|
 | _Pres_|Required|**Presentation**|The  **Presentation** object.|
 
-### Return value
+## Return value
 
 Nothing
 

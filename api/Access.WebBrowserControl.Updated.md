@@ -23,7 +23,7 @@ _expression_. `Updated`( ` _Code_`, )
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 |:-----|:-----|:-----|:-----|
 | _Code_|Required|**Integer**||
 
-### Return value
+## Return value
 
 nothing
 

@@ -23,7 +23,7 @@ Adds a new  **Row** object to the specified **Rows** collection and returns the 
  _expression_ A variable that represents a  **Rows** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Row** object to the specified **Rows** collection and returns the 
 |:-----|:-----|:-----|:-----|
 |BeforeRow|Optional| **Long**|The number of the row before which to insert the new row. If this argument is omitted, the new row is added after the existing rows. An error occurs if the value of this argument does not correspond to an existing row in the table.|
 
-### Return value
+## Return value
 
 Row
 

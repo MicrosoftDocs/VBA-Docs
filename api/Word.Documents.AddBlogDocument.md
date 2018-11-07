@@ -23,7 +23,7 @@ Returns a  **Document** object that represents a new blog document that Microsof
  _expression_ An expression that returns a '[Documents](Word.documents.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

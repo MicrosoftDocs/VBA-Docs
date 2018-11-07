@@ -23,7 +23,7 @@ Automatically creates an outline for the specified range. If the range is a sing
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

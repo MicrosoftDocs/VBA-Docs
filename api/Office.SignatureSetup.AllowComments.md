@@ -23,7 +23,7 @@ Gets or sets a  **Boolean** value specifying whether the signer can enter commen
  _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

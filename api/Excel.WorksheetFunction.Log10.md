@@ -23,7 +23,7 @@ Returns the base-10 logarithm of a number.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the base-10 logarithm of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the positive real number for which you want the base-10 logarithm.|
 
-### Return value
+## Return value
 
 Double
 

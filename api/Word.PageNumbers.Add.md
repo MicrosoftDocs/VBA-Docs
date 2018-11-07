@@ -23,7 +23,7 @@ Returns a  **PageNumber** object that represents page numbers added to a header 
  _expression_ Required. A variable that represents a '[PageNumbers](Word.pagenumbers.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

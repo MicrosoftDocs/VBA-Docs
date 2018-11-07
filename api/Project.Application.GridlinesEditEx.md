@@ -23,7 +23,7 @@ Edits gridlines, where colors can be hexadecimal values.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Edits gridlines, where colors can be hexadecimal values.
 | _IntervalType_|Optional|**Integer**|The type for secondary gridlines. Can be one of the  **[PjLineType](Project.PjLineType.md)** constants.|
 | _IntervalColor_|Optional|**Long**|The color of secondary gridlines. Can be a hexadecimal RGB value, where red is the last byte.|
 
-### Return value
+## Return value
 
  **Boolean**
 

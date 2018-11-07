@@ -23,7 +23,7 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
 |:-----|:-----|:-----|:-----|
 | _Hide_|Optional|**Boolean**|**True** if all toolbars except the **Menu** and **Web** toolbars are hidden. The default value is **True** if toolbars other than **Menu** and **Web** are displayed, and **False** if they are not.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a  **[Sparkline](Excel.Sparkline.md)** object. Read-only
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Sparkline](Excel.Sparkline.md)** object. Read-only
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the sparkline.|
 
-### Return value
+## Return value
 
 Sparkline
 

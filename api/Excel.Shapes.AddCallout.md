@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ ms.date: 06/08/2017
 | _Width_|Required| **Single**|The width of the callout's bounding box, in points.|
 | _Height_|Required| **Single**|The height of the callout's bounding box, in points.|
 
-### Return value
+## Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Specifies the active printer.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies the active printer.
 |:-----|:-----|:-----|:-----|
 | _Printer_|Optional|**String**|The full name or port name of the active printer.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collectio
  _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[UserProperty](Outlook.UserProperty.md)** object from the collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the one-based index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 A  **UserProperty** object that represents the specified object.
 

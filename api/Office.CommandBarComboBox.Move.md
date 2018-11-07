@@ -23,7 +23,7 @@ Moves the specified control to an existing command bar.
  _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

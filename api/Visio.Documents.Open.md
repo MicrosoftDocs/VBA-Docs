@@ -23,7 +23,7 @@ Opens an existing file so that it can be edited.
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens an existing file so that it can be edited.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of a file to open.|
 
-### Return value
+## Return value
 
 Document
 

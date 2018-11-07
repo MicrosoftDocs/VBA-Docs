@@ -23,7 +23,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Makes small adjustments to the position of shapes on the drawing page to better 
 | _SpaceVertical_|Required| **Double**|The edge-to-edge vertical spacing (except if layout style is circular). Must be greater than or equal to zero.|
 | _UnitsNameOrCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units for the spacing values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

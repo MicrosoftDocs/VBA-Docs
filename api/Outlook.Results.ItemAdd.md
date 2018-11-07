@@ -23,7 +23,7 @@ Occurs when one or more items are added to the specified collection.
  _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

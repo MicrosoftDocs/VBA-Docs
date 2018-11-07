@@ -23,7 +23,7 @@ Gets or sets the icon for an item. Read/write.
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

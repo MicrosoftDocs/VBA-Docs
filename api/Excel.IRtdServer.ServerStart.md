@@ -23,7 +23,7 @@ The  **ServerStart** method is called immediately after a real-time data server 
  _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ The  **ServerStart** method is called immediately after a real-time data server 
 |:-----|:-----|:-----|:-----|
 | _CallbackObject_|Required| **IRTDUpdateEvent**|The callback object.|
 
-### Return value
+## Return value
 
 Long
 

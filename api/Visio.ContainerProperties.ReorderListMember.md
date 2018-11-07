@@ -23,7 +23,7 @@ Moves a shape or a set of shapes up or down in the list.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Moves a shape or a set of shapes up or down in the list.
 | _ObjectToReorder_|Required| **[UNKNOWN]**|The shape or shapes to reorder in the container. Can be either  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** objects.|
 | _Position_|Required| **Long**|The insertion position in the list, which is one-based.|
 
-### Return value
+## Return value
 
  **Nothing**
 

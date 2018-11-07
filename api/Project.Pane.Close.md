@@ -20,7 +20,7 @@ Closes the bottom pane of a window.
  _expression_ An expression that returns a [Pane](./Project.Pane.md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

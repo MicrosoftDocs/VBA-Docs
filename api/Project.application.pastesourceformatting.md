@@ -19,7 +19,7 @@ Pastes a copy of a report or a shape, where the copy maintains the formatting of
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

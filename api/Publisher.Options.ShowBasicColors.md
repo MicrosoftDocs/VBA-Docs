@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Publisher shows basi
  _expression_ A variable that represents a  **Options** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

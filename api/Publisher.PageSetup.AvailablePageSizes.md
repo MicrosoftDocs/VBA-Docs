@@ -23,7 +23,7 @@ Returns the  **PageSizes** collection that contains all the **[PageSize](Publish
  _expression_ A variable that represents a  **PageSetup** object.
 
 
-### Return value
+## Return value
 
 PageSizes
 

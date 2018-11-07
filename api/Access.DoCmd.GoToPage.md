@@ -23,7 +23,7 @@ _expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 | _Right_|Optional|**Variant**|A numeric expression that's a valid horizontal offset for the page.|
 | _Down_|Optional|**Variant**|A numeric expression that's a valid vertical offset for the page.|
 
-### Return value
+## Return value
 
 Nothing
 

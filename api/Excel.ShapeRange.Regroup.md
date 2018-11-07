@@ -23,7 +23,7 @@ Regroups the group that the specified shape range belonged to previously. Return
  _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
-### Return value
+## Return value
 
 Shape
 

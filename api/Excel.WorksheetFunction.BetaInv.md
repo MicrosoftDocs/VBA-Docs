@@ -27,7 +27,7 @@ For more information about the new function, see the [Beta_Inv](Excel.WorksheetF
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ For more information about the new function, see the [Beta_Inv](Excel.WorksheetF
 | _Arg4_|Optional| **Variant**|An optional lower bound to the interval of x.|
 | _Arg5_|Optional| **Variant**|An optional upper bound to the interval of x.|
 
-### Return value
+## Return value
 
 Double
 

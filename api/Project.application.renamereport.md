@@ -19,7 +19,7 @@ Displays the  **Rename** dialog box, which includes the current name of the acti
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

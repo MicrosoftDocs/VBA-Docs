@@ -23,7 +23,7 @@ Deletes additional shapes associated with the selection, such as connectors and 
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes additional shapes associated with the selection, such as connectors and 
 |:-----|:-----|:-----|:-----|
 | _DelFlags_|Required| **Long**|The additional shapes to delete. See Remarks for possible values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

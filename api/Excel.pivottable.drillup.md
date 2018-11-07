@@ -21,7 +21,7 @@ Enables you to drill up into the data within an OLAP or PowerPivot based cube hi
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Enables you to drill up into the data within an OLAP or PowerPivot based cube hi
 | _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
 | _LevelUniqueName_|Optional|VARIANT|The target for a multi-level drill up. The default action if not specified is a one level drill up.|
 
-### Return value
+## Return value
 
  **VOID**
 

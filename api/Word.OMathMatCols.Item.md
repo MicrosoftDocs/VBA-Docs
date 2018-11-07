@@ -23,7 +23,7 @@ Returns an  **OMathMatCol** object that represents the specified item in the col
  _expression_ An expression that returns an '[OMathMatCols](Word.OMathMatCols.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **OMathMatCol** object that represents the specified item in the col
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 
-### Return value
+## Return value
 
 OMathMatCol
 

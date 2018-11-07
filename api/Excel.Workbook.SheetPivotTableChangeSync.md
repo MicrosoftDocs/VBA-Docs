@@ -23,7 +23,7 @@ Occurs after changes to a PivotTable.
  _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs after changes to a PivotTable.
 | _Sh_|Required| **Object**|The worksheet that contains the PivotTable.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that was changed.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns a border in a range or selection.
  _expression_ Required. A variable that represents a '[Borders](Word.borders.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a border in a range or selection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdBorderType**|The border to be returned.|
 
-### Return value
+## Return value
 
 Border
 

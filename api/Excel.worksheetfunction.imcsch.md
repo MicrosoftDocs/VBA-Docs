@@ -21,7 +21,7 @@ Returns the hyperbolic cosecant of a complex number.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns the hyperbolic cosecant of a complex number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the hyperbolic cosecant.|
 
-### Return value
+## Return value
 
  **STRING**
 

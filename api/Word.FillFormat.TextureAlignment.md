@@ -23,7 +23,7 @@ Returns or sets the alignment (the origin of the coordinate grid) for the tiling
  _expression_ An expression that returns a [FillFormat](./Word.FillFormat.md) object.
 
 
-### Return value
+## Return value
 
  **MsoTextureAlignment**
 

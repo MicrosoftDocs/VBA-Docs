@@ -23,7 +23,7 @@ _expression_. `CreateNewDocument`( ` _FileName_`, ` _EditNow_`, ` _Overwrite_` )
 _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) objec
 | _EditNow_|Required|**Boolean**|**True** opens the document in design view and **False** stores the new document in the specified database directory. The default is **True**.|
 | _Overwrite_|Required|**Boolean**|**True** overwrites an existing document if the _filename_ argument identifies an existing document and **False** requires that the filename argument specifies a new filename. The default is **False**.|
 
-### Return value
+## Return value
 
 Nothing
 

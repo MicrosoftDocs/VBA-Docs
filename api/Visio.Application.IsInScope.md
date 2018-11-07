@@ -23,7 +23,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines whether a call to an event handler is between an  **EnterScope** even
 |:-----|:-----|:-----|:-----|
 | _nCmdID_|Required| **Long**|The scope ID.|
 
-### Return value
+## Return value
 
 Boolean
 

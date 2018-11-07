@@ -23,7 +23,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
 | _FirstEntryID_|Required| **String**|The first entry ID to be compared.|
 | _SecondEntryID_|Required| **String**|The second entry ID to be compared.|
 
-### Return value
+## Return value
 
  **True** if the entry ID values refer to the same Outlook item; otherwise, **False** .
 

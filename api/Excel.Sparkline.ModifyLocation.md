@@ -23,7 +23,7 @@ Modifies the location of a single sparkline.
  _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Modifies the location of a single sparkline.
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **[Range](Excel.Range(object).md)**|The cell that contains the sparkline.|
 
-### Return value
+## Return value
 
 Nothing
 

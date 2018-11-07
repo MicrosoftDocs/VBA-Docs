@@ -19,7 +19,7 @@ Selects one or more charts in a report.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Selects one or more charts in a report.
 | _Replace_|Optional|**Variant**|**True** to replace the current selection with the specified chart. **False** to extend the current selection to include any previously selected charts.|
 | _Replace_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Variant**
 

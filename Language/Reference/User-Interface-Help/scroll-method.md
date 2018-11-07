@@ -29,7 +29,7 @@ The  **Scroll** method syntax has these parts:
 | _ActionX_|Optional. Identifies the action to occur in the horizontal direction.|
 | _ActionY_|Optional. Identifies the action to occur in the vertical direction.|
 
- **Settings**
+## Settings
 The settings for  _ActionX_ and _ActionY_ are:
 
 

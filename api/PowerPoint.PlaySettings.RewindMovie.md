@@ -23,7 +23,7 @@ Determines whether the first frame of the specified movie is automatically redis
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

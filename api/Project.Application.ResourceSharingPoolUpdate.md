@@ -23,7 +23,7 @@ Synchronizes the information in the sharer project with the information in the l
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Synchronizes the information in the sharer project with the information in the l
 |:-----|:-----|:-----|:-----|
 | _allSharers_|Optional|**Boolean**|**True** if the information from all open sharers is updated in the pool. **False** if only the information from sharers in the active project is updated in the pool. If **AllSharers** is omitted and only one sharer is open, that information is updated in the pool; otherwise, the user is prompted to specify whether all open sharers or just those in the active project should be updated in the pool.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Adds one or more new series to the collection.
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds one or more new series to the collection.
 | _CategoryLabels_|Optional|**Variant**|**True** if the first row or column contains the name of the category labels. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Word attempts to determine the location of the category label from the contents of the first row or column.|
 | _Replace_|Optional|**Variant**|If CategoryLabels is  **True** and Replace is **True**, the specified categories replace the categories that currently exist for the series. If Replace is **False**, the existing categories will not be replaced. The default is **False**.|
 
-### Return value
+## Return value
 
 A  **[Series](PowerPoint.Series.md)** object that represents the new series.
 

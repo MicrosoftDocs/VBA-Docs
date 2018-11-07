@@ -23,7 +23,7 @@ Deletes the named SolutionXML element.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes the named SolutionXML element.
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML data element.|
 
-### Return value
+## Return value
 
 Nothing
 

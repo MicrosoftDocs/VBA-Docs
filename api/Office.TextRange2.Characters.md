@@ -20,7 +20,7 @@ Read-only.
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Read-only.
 | _Start_|Optional|**Long**|The first character in the returned range.|
 | _Length_|Optional|**Long**|The number of characters to be returned.|
 
-### Return value
+## Return value
 
 TextRange2
 

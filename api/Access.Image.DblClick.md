@@ -23,7 +23,7 @@ _expression_. `DblClick`( ` _Cancel_` )
 _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

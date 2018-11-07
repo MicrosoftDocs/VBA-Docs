@@ -23,7 +23,7 @@ Crops a percentage of the height of a drawing canvas from the top of the canvas.
  _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

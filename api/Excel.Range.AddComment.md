@@ -23,7 +23,7 @@ Adds a comment to the range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a comment to the range.
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The comment text.|
 
-### Return value
+## Return value
 
 Comment
 

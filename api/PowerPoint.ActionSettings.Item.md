@@ -23,7 +23,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
  _expression_ A variable that represents an [ActionSettings](./PowerPoint.ActionSettings.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single action setting from the specified  **ActionSettings** collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**PpMouseActivation**|The action setting for a  **MouseClick** or **MouseOver** event.|
 
-### Return value
+## Return value
 
 ActionSetting
 

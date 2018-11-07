@@ -23,7 +23,7 @@ _expression_. `Lookup`(`Arg1`, `Arg2`, `Arg3`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg2_|Required| **Variant**|Lookup_vector or Array - In Vector form, a range that contains only one row or one column. The values in lookup_vector can be text, numbers, or logical values. In array form, a range of cells that contains text, numbers, or logical values that you want to compare with lookup_value.|
 | _Arg3_|Optional| **Variant**|Result_vector - Only used with the Vector form. A range that contains only one row or column. It must be the same size as lookup_vector.|
 
-### Return value
+## Return value
 
 Variant
 

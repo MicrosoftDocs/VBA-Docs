@@ -23,7 +23,7 @@ Resets the specified Team Planner style to the default values.
  _expression_ An expression that returns a [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Resets the specified Team Planner style to the default values.
 |:-----|:-----|:-----|:-----|
 | _Style_|Required|**PjTeamPlannerStyle**|Can be one of the  **[PjTeamPlannerStyle](Project.PjTeamPlannerStyle.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Moves a shape so that its pin is positioned at the coordinates represented by  _
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Moves a shape so that its pin is positioned at the coordinates represented by  _
 | _xPos_|Required| **Double**|The new x-coordinate of the center of rotation (PinX).|
 | _yPos_|Required| **Double**|The new y-coordinate of the center of rotation (PinY).|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Ends or cancels a transaction that has a unique scope.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Ends or cancels a transaction that has a unique scope.
 | _nScopeID_|Required| **Long**|The ID of the scope to close.|
 | _bCommit_|Required| **Boolean**| flag indicating that the changes made during the scope should be accepted (**True**) or canceled (**False**).|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -20,7 +20,7 @@ Accepts the changes on the server for a deliverable.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Accepts the changes on the server for a deliverable.
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable for which to accept changes.|
 
-### Return value
+## Return value
 
  **Boolean**
 

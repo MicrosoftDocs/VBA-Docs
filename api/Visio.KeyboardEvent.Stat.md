@@ -23,7 +23,7 @@ Returns status information. Read-only.
  _expression_ A variable that represents a [KeyboardEvent](./Visio.KeyboardEvent.md) object.
 
 
-### Return value
+## Return value
 
 VisStatCodes
 

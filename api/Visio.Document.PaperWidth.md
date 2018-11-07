@@ -23,7 +23,7 @@ Returns the width of a document's printed page. Read-only.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the width of a document's printed page. Read-only.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting or retrieving the paper width.|
 
-### Return value
+## Return value
 
 Double
 

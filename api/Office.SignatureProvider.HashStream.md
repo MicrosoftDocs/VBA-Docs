@@ -23,7 +23,7 @@ Allows a signature provider add-in to create a hash value for the document that 
  _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Allows a signature provider add-in to create a hash value for the document that 
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the hashing process.|
 | _Stream_|Required|**IStream**|Contains the data stream.|
 
-### Return value
+## Return value
 
 Byte
 

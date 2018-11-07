@@ -27,7 +27,7 @@ For more information about the new function, see the [Norm_S_Dist](Excel.Workshe
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ For more information about the new function, see the [Norm_S_Dist](Excel.Workshe
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Z - the value for which you want the distribution.|
 
-### Return value
+## Return value
 
 Double
 

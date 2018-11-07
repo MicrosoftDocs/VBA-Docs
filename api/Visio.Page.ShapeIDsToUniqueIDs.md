@@ -23,7 +23,7 @@ Returns an array of unique IDs of shapes on the page, as specified by their shap
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns an array of unique IDs of shapes on the page, as specified by their shap
 | _UniqueIDArgs_|Required| **VisUniqueIDArgs**|Gets, deletes, or makes the unique ID of a  **Shape** object. See Remarks for possible values.|
 | _GUIDs()_|Required| **String**|Out parameter. An empty array that the method fills with unique IDs of type  **String** corresponding to the shapes specified in _ShapeIDs()_|
 
-### Return value
+## Return value
 
 Nothing
 

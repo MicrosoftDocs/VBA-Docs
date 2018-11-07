@@ -23,7 +23,7 @@ Represents the type of animation. Read/write.
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
-### Return value
+## Return value
 
 MsoAnimType
 

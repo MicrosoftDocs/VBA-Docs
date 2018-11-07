@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState** constant indicating whether a specified shap
  _expression_ A variable that represents an  **LineFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

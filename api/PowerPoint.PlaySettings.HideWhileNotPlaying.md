@@ -23,7 +23,7 @@ Determines whether the specified media clip is hidden during a slide show except
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

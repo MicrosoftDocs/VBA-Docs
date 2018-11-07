@@ -23,7 +23,7 @@ Returns a  **Cell** object that represents a cell in a table.
  _expression_ Required. A variable that represents a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Cell** object that represents a cell in a table.
 | _Row_|Required| **Long**|The number of the row in the table to return. Can be an integer between 1 and the number of rows in the table.|
 | _Column_|Required| **Long**|The number of the cell in the table to return. Can be an integer between 1 and the number of columns in the table.|
 
-### Return value
+## Return value
 
 Cell
 

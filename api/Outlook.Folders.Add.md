@@ -23,7 +23,7 @@ Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
  _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new folder in the  **[Folders](Outlook.Folders.md)** collection.
 | _Name_|Required| **String**|The display name for the new folder.|
 | _Type_|Optional| **Long**|The Outlook folder type for the new folder. If the folder type is not specified, the new folder will default to the same type as the folder in which it is created. Can be one of the following  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . The constants **olFolderConflicts** , **olFolderDeletedItems** , **olFolderJunk** , **olFolderLocalFailures** , **olFolderManagedEmail** , **olFolderOutbox** , **olFolderRssSubscriptions** , **olFolderSentMail** , **olFolderServerFailures** , **olFolderSyncIssues** , **olFolderToDo** , and **olPublicFoldersAllPublicFolders** cannot be specified for this argument.|
 
-### Return value
+## Return value
 
 A  **[Folder](Outlook.Folder.md)** object that represents the new folder.
 

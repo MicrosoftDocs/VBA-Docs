@@ -23,7 +23,7 @@ Returns an object that represents either a single OLE object (an  **[OLEObject](
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single OLE object (an  **[OLEObject](
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the OLE object.|
 
-### Return value
+## Return value
 
 Object
 

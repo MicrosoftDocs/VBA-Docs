@@ -23,7 +23,7 @@ Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collect
  _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

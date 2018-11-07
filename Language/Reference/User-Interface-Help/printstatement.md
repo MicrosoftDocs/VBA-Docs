@@ -25,7 +25,7 @@ The  **Print #** statement syntax has these parts:
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _outputlist_|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) or list of expressions to print.|
 
- **Settings**
+## Settings
 The  _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 [{ **Spc(**_n_**)** |**Tab** [ **(**_n_**)** ]}] [ _expression_ ] [ _charpos_ ]
 

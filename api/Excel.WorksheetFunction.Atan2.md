@@ -23,14 +23,14 @@ _expression_. `Atan2`(`Arg1`, `Arg2`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The x-coordinate of the point.|
 | _Arg2_|Required| **Double**|The y-coordinate of the point.|
 
-### Return value
+## Return value
 
 Double
 

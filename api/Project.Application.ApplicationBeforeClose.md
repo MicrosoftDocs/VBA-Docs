@@ -20,7 +20,7 @@ Occurs before Project exits.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs before Project exits.
 |:-----|:-----|:-----|:-----|
 | _Info_|Required|**EventInfo**|**EventInfo.Cancel** is **False** when the event occurs. If the event procedure sets this argument to **True**, Project does not close when the procedure is finished.|
 
-### Return value
+## Return value
 
 nothing
 

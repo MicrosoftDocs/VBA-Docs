@@ -23,7 +23,7 @@ Returns a single  **Addin** object from the specified **Addins** collection.
  _expression_ A variable that represents an [AddIns](./PowerPoint.AddIns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Addin** object from the specified **Addins** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Addin** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 AddIn
 

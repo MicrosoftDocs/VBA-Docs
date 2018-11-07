@@ -23,7 +23,7 @@ Gets or sets the value of the  **Hyperlink base** box in a document's **Properti
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 String
 

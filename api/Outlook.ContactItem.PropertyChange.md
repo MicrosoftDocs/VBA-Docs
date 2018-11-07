@@ -20,7 +20,7 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.App
  _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

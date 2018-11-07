@@ -20,7 +20,7 @@ Gets or sets a value specifying the amount of spacing between text characters. R
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

@@ -23,7 +23,7 @@ Returns a  **[ShapeRange](PowerPoint.ShapeRange.md)** object that represents the
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
 
-### Return value
+## Return value
 
 ShapeRange
 

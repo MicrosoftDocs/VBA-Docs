@@ -21,7 +21,7 @@ Submits all the engagements in the project to the resource manager for review. I
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **BOOL**
 

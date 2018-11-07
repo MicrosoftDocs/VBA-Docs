@@ -20,7 +20,7 @@ Gets or sets a value specifying the text should be rendered in a strikethrough a
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -23,7 +23,7 @@ Adds a horizontal page break.
  _expression_ A variable that represents a [HPageBreaks](Excel.HPageBreaks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a horizontal page break.
 |:-----|:-----|:-----|:-----|
 | _Before_|Required| **Object**|A  **[Range](Excel.Range(object).md)** object. The range above which the new page break will be added.|
 
-### Return value
+## Return value
 
 A  **[HPageBreak](Excel.HPageBreak.md)** object that represents the new horizontal page break.
 

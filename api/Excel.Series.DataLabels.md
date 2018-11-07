@@ -23,7 +23,7 @@ Returns an object that represents either a single data label (a  **[DataLabel](E
  _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single data label (a  **[DataLabel](E
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The number of the data label.|
 
-### Return value
+## Return value
 
 Object
 

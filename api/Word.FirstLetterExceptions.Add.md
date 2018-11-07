@@ -23,7 +23,7 @@ Returns a  **FirstLetterException** object that represents a new exception added
  _expression_ Required. A variable that represents a '[FirstLetterExceptions](Word.firstletterexceptions.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **FirstLetterException** object that represents a new exception added
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The word with two initial capital letters that you want Microsoft Word to overlook.|
 
-### Return value
+## Return value
 
 FirstLetterException
 

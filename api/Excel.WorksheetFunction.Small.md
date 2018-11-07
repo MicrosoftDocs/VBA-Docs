@@ -23,7 +23,7 @@ Returns the k-th smallest value in a data set. Use this function to return value
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the k-th smallest value in a data set. Use this function to return value
 | _Arg1_|Required| **Variant**|Array - an array or range of numerical data for which you want to determine the k-th smallest value.|
 | _Arg2_|Required| **Double**|K - the position (from the smallest) in the array or range of data to return.|
 
-### Return value
+## Return value
 
 Double
 

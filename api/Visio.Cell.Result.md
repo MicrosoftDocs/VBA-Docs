@@ -23,7 +23,7 @@ Gets or sets a cell's value. Read/write.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets or sets a cell's value. Read/write.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving or setting the cell's value.|
 
-### Return value
+## Return value
 
 Double
 

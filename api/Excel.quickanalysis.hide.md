@@ -21,7 +21,7 @@ Hides specific members of the Analysis Lens user interface.
  _expression_ A variable that represents a [QuickAnalysis](Excel.quickanalysis.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Hides specific members of the Analysis Lens user interface.
 |:-----|:-----|:-----|:-----|
 | _XlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
 
-### Return value
+## Return value
 
  **VOID**
 

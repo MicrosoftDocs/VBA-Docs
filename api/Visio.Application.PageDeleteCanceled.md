@@ -20,7 +20,7 @@ Private Sub  _expression_ _'PageDeleteCanceled'(**_ByVal Page As [IVPAGE]_**)
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

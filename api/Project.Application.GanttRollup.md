@@ -23,7 +23,7 @@ Specifies the rollup behavior of bars on the Gantt Chart.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Specifies the rollup behavior of bars on the Gantt Chart.
 | _AlwaysRollup_|Optional|**Boolean**|**True** if rolled-up Gantt bars always display. The default value is **False**.|
 | _HideWhenSummaryExpanded_|Optional|**Boolean**|**True** if rolled-up Gantt bars should be hidden when summary tasks are expanded. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

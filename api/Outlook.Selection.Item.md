@@ -23,7 +23,7 @@ Returns a Microsoft Outlook item or conversation header from the selection.
  _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a Microsoft Outlook item or conversation header from the selection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **Object** that represents the specified item or conversation header.
 

@@ -20,7 +20,7 @@ Gets or sets the radius value of the glow effect for the  **GlowFormat** object.
  _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

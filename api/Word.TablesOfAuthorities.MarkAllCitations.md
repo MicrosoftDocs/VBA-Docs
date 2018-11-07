@@ -23,7 +23,7 @@ Inserts a TA (Table of Authorities Entry) field after all instances of the  **Sh
  _expression_ Required. A variable that represents a '[TablesOfAuthorities](Word.tablesofauthorities.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

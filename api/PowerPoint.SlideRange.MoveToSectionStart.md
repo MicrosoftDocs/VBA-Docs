@@ -23,7 +23,7 @@ Moves the current position to the start of the specified section in the  **Slide
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

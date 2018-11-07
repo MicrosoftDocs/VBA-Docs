@@ -26,7 +26,7 @@ Returns an array of names of data columns in a data recordset whose types have c
  _expression_ An expression that returns a [DataRecordsetChangedEvent](./Visio.DataRecordsetChangedEvent.md) object.
 
 
-### Return value
+## Return value
 
 String()
 

@@ -23,7 +23,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Shape** object from the specified **ShapeRange** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Shape** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Shape
 

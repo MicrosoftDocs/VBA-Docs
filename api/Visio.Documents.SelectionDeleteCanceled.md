@@ -23,7 +23,7 @@ Private Sub  _expression_ _'SelectionDeleteCanceled'(**_ByVal Selection As [IVSE
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

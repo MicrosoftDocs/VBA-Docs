@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **WorkflowTemplates** col
  _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

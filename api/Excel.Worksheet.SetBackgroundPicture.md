@@ -23,7 +23,7 @@ Sets the background graphic for a worksheet.
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

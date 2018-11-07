@@ -23,7 +23,7 @@ Returns the specified pane as a  **Pane** object.
  _expression_ Required. A variable that represents a '[Panes](Word.panes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the specified pane as a  **Pane** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
 
-### Return value
+## Return value
 
 Pane
 

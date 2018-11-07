@@ -20,7 +20,7 @@ Gets or sets the right indent (in points) for the specified paragraphs. Read/wri
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

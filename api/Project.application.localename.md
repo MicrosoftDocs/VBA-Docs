@@ -18,7 +18,7 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
 |:-----|:-----|:-----|:-----|
 |||||
 
-### Return value
+## Return value
 
  **STRING**
 

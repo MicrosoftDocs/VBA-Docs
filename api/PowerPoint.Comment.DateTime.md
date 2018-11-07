@@ -23,7 +23,7 @@ Returns the date and time a comment was created.
  _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
-### Return value
+## Return value
 
 Date
 

@@ -23,7 +23,7 @@ Returns the  **[Document](Visio.Document.md)** object that is associated with an
  _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 
 
-### Return value
+## Return value
 
  **Document**
 

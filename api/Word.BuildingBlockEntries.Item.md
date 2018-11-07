@@ -23,7 +23,7 @@ Returns a  **BuildingBlock** object that represents the specified item in the co
  _expression_ An expression that returns a '[BuildingBlockEntries](Word.BuildingBlockEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **BuildingBlock** object that represents the specified item in the co
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
-### Return value
+## Return value
 
 BuildingBlock
 

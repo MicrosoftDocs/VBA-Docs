@@ -21,7 +21,7 @@ Attempts to convert all the cells in the range to a Linked data type such as [St
  _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

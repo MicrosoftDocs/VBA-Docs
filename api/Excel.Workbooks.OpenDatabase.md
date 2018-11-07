@@ -23,7 +23,7 @@ Returns a  **Workbook** object representing a database.
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns a  **Workbook** object representing a database.
 | _BackgroundQuery_|Optional| **Variant**|This parameter is a variant data type but you can only pass a Boolean value. If you pass  **True** , the query is performed in the background (asynchronously). The default value is **False** .|
 | _ImportDataAs_|Optional| **Variant**|This parameter uses one of the values of the  **[XlImportDataAs](Excel.XlImportDataAs.md)** enumeration. The two values of this enum are **xlPivotTableReport** and **xlQueryTable** . Pass one of these values to return the data as a PivotTable or QueryTable. The default value is **xlQueryTable** .|
 
-### Return value
+## Return value
 
 Workbook
 

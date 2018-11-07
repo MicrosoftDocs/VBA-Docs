@@ -23,7 +23,7 @@ Zooms in on or out from the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Zooms in on or out from the Calendar.
 | _StartDate_|Optional|**Variant**|The first date to display.|
 | _EndDate_|Optional|**Variant**|The last date to display.|
 
-### Return value
+## Return value
 
  **Boolean**
 

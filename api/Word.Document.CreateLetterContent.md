@@ -23,7 +23,7 @@ Creates and returns a  **LetterContent** object based on the specified letter el
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -61,7 +61,7 @@ Creates and returns a  **LetterContent** object based on the specified letter el
 | _SenderGender_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _SenderReference_|Optional| **Variant**|This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 
-### Return value
+## Return value
 
 LetterContent
 

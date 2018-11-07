@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ ms.date: 06/08/2017
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to check out.|
 
-### Return value
+## Return value
 
 Boolean
 

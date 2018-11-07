@@ -23,7 +23,7 @@ Vertically rotates a shape on the y-axis using the specified incrementation valu
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

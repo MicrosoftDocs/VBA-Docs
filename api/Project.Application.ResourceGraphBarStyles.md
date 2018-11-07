@@ -23,7 +23,7 @@ Sets the styles of bars on the Resource Graph view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -51,7 +51,7 @@ Sets the styles of bars on the Resource Graph view.
 | _ProposedRightColor_|Optional|**Integer**|The bar color for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjColor** constants.|
 | _ProposedRightPattern_|Optional|**Integer**|The bar pattern for the proposed bookings category in the bottom right section of the  **Bar Styles** dialog box. Can be one of the **PjResourceGraphPattern** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

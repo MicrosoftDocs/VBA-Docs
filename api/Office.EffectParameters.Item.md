@@ -20,7 +20,7 @@ Retrieves a  **EffectParameter** object at the specified index or with the speci
  _expression_ An expression that returns a [EffectParameters](./Office.EffectParameters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

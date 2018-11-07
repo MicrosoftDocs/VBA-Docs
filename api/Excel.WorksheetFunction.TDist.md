@@ -31,7 +31,7 @@ For more information about the new functions, see the [T_Dist_RT](Excel.Workshee
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ For more information about the new functions, see the [T_Dist_RT](Excel.Workshee
 | _Arg2_|Required| **Double**|Degrees_freedom - an integer indicating the number of degrees of freedom.|
 | _Arg3_|Required| **Double**|Tails - specifies the number of distribution tails to return. If tails = 1, TDIST returns the one-tailed distribution. If tails = 2, TDIST returns the two-tailed distribution.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Returns a dialog in Microsoft Word.
  _expression_ Required. A variable that represents a '[Dialogs](Word.dialogs.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a dialog in Microsoft Word.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdWordDialog**|A constant that specifies the dialog.|
 
-### Return value
+## Return value
 
 Dialog
 

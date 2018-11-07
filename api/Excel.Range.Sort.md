@@ -23,7 +23,7 @@ Sorts a range of values.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -43,7 +43,7 @@ Sorts a range of values.
 | _DataOption2_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to pivot table sorting.|
 | _DataOption3_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in _Key3_; does not apply to pivot table sorting.|
 
-### Return value
+## Return value
 
 Variant
 

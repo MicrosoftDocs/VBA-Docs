@@ -23,7 +23,7 @@ Removes a shape from a layer.
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Removes a shape from a layer.
 | _SheetObject_|Required| **[IVSHAPE]**|An expression that returns the  **Shape** object to remove.|
 | _fPresMems_|Required| **Integer**|Flag that indicates whether to remove members of a group.|
 
-### Return value
+## Return value
 
 Nothing
 

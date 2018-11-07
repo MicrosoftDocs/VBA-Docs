@@ -23,7 +23,7 @@ Specifies whether to automatically add new views, field templates, filters, and 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies whether to automatically add new views, field templates, filters, and 
 |:-----|:-----|:-----|:-----|
 | _OnOff_|Optional|**Variant**|If  **True**, automatically save. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

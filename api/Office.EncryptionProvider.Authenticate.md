@@ -23,7 +23,7 @@ Used to determine whether the user has the proper permissions to open the encryp
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Used to determine whether the user has the proper permissions to open the encryp
 | _EncryptionData_|Required|**IUnknown**|Contains the encrypted data for the current document.|
 | _PermissionsMask_|Required|**Unsigned Integer**|The user interface displayed by the encryption provider add-in.|
 
-### Return value
+## Return value
 
 Long
 

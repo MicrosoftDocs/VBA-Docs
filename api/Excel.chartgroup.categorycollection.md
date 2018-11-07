@@ -21,7 +21,7 @@ Returns an object that represents a collection of all of the visible categories 
  _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns an object that represents a collection of all of the visible categories 
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|VARIANT|The name or number of the categories.|
 
-### Return value
+## Return value
 
  **OBJECT**
 

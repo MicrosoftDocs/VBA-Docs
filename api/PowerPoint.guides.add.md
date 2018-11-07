@@ -21,7 +21,7 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
  _expression_ A variable that represents a 'Guides' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 | _Orientation_|Required|PPGUIDEORIENTATION||
 | _Position_|Required|FLOAT||
 
-### Return value
+## Return value
 
 [Guide](PowerPoint.guide.md)
 

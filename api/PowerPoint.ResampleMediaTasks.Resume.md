@@ -23,7 +23,7 @@ Resumes mobilization of the current media asset.
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 |:-----|:-----|:-----|:-----|
 | _DestFldr_|Required| **[Folder](Outlook.Folder.md)**|An expression that returns a  **Folder** object. The destination folder.|
 
-### Return value
+## Return value
 
 An  **Object** value that represents the item that has been moved to the designated folder.
 

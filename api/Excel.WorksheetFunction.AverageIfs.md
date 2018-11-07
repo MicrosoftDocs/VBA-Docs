@@ -23,7 +23,7 @@ Returns the average (arithmetic mean) of all cells that meet multiple criteria.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the average (arithmetic mean) of all cells that meet multiple criteria.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Range**|One or more ranges in which to evaluate the associated criteria.|
 
-### Return value
+## Return value
 
 Double
 

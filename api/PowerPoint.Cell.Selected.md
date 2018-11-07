@@ -23,7 +23,7 @@ Returns  **True** if the specified table cell is selected. Read-only.
  _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

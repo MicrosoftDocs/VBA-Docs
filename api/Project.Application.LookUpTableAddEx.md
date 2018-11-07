@@ -23,7 +23,7 @@ Appends items to the lookup table of a custom outline code definition.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Appends items to the lookup table of a custom outline code definition.
 | _Description_|Optional|**String**|A description for the field specified in the Code argument.|
 | _Phonetic_|Optional|**String**|The phonetic spelling of the Code argument, used for sorting order in Japanese. For languages other than Japanese, Phonetic is ignored.|
 
-### Return value
+## Return value
 
  **Boolean**
 

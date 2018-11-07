@@ -23,7 +23,7 @@ _expression_. **TransferText** (**_TransferType_**, **_SpecificationName_**, **_
 _expression_ A variable that represents a **DoCmd** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

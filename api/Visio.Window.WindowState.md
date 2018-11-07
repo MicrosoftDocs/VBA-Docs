@@ -23,7 +23,7 @@ Gets or sets the state of a window. Read/write.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

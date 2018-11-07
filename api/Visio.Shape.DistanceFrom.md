@@ -23,7 +23,7 @@ Returns the distance from one shape to another, measured between the closest poi
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the distance from one shape to another, measured between the closest poi
 | _OtherShape_|Required| **[IVSHAPE]**|The other  **Shape** object involved in the comparison.|
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 
-### Return value
+## Return value
 
 Double
 

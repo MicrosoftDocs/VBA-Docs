@@ -21,7 +21,7 @@ Displays specific members of the Analysis Lens user interface.
  _expression_ A variable that represents a [QuickAnalysis](Excel.quickanalysis.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -47,7 +47,7 @@ When [XlQuickAnalysisMode Enumeration (Excel)](Excel.xlquickanalysismode.md) is 
 -  **xlTotals** = Totals
     
 
-### Return value
+## Return value
 
  **VOID**
 

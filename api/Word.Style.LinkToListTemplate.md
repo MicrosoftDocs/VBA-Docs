@@ -23,7 +23,7 @@ Links the specified style to a list template so that the style's formatting can 
  _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

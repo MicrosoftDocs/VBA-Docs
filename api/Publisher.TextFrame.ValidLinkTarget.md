@@ -23,7 +23,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines whether the text frame of one shape can be linked to the text frame o
 |:-----|:-----|:-----|:-----|
 |LinkTarget|Required| **Shape**|The shape with the target text frame to which you want to link the text frame returned by expression.|
 
-### Return value
+## Return value
 
 Boolean
 

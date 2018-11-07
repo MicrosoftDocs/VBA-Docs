@@ -26,7 +26,7 @@ Returns an array of shape IDs of shapes on the page, as specifed by their unique
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns an array of shape IDs of shapes on the page, as specifed by their unique
 | _GUIDs()_|Required| **String**|An array of unique IDs of type  **String** of shapes on the page.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An empty array that the method fills with shape IDs of type  **Long** corresponding to the shapes specified in GUIDs()|
 
-### Return value
+## Return value
 
 Nothing
 

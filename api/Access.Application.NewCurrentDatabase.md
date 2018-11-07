@@ -23,7 +23,7 @@ _expression_. `NewCurrentDatabase`( ` _filepath_`, ` _FileFormat_`, ` _Template_
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

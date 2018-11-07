@@ -23,7 +23,7 @@ Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[NameSpace](Outlook.NameSpace.md)** object of the specified type.
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **String**|The type of name space to return.|
 
-### Return value
+## Return value
 
 A  **NameSpace** object that represents the specified namespace.
 

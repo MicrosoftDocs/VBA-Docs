@@ -16,7 +16,7 @@ Saves a custom chart template to the list of available chart templates or to a f
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -25,7 +25,7 @@ Saves a custom chart template to the list of available chart templates or to a f
 | _bstrFileName_|Required|**String**|The name of the chart template.|
 | _bstrFileName_|Required|STRING||
 
-### Return value
+## Return value
 
  **Nothing**
 

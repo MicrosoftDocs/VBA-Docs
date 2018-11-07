@@ -26,7 +26,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Return value
+## Return value
 
  **[Application](Visio.Application.md)**
 

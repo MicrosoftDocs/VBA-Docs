@@ -23,7 +23,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
  _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 |:-----|:-----|:-----|:-----|
 | _WindowName_|Required| **Variant**|The name of the window.|
 
-### Return value
+## Return value
 
  **Boolean** .
 

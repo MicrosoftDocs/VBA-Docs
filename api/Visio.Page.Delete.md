@@ -23,7 +23,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes a  **Page** object. Can also renumber remaining pages.
 |:-----|:-----|:-----|:-----|
 | _fRenumberPages_|Required| **Integer**|1 (**True**) to renumber remaining pages; otherwise, 0 (**False**).|
 
-### Return value
+## Return value
 
 Nothing
 

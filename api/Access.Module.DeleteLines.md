@@ -23,7 +23,7 @@ _expression_. `DeleteLines`( ` _StartLine_`, ` _Count_` )
 _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [Module](Access.Module.md) object.
 | _StartLine_|Required|**Long**| The number of the line from which to begin deleting.|
 | _Count_|Required|**Long**|The number of lines to delete.|
 
-### Return value
+## Return value
 
 Nothing
 

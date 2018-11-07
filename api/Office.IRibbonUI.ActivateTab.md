@@ -23,7 +23,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
  _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**|Specifies the Id of the custom Ribbon tab to be activated.|
 
-### Return value
+## Return value
 
 Nothing
 

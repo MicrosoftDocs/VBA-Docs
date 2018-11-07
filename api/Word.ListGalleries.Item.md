@@ -23,7 +23,7 @@ Returns an individual  **ListGalleries** object in a collection.
  _expression_ An expression that returns a 'ListGalleries' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **ListGalleries** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WDLISTGALLERYTYPE**|The individual object to be returned.|
 
-### Return value
+## Return value
 
 ListGallery
 

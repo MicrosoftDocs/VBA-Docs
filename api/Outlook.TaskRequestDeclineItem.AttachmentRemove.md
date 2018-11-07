@@ -20,7 +20,7 @@ Occurs when an attachment has been removed from an instance of the parent object
  _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

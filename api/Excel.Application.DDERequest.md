@@ -23,7 +23,7 @@ Requests information from the specified application. This method always returns 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Requests information from the specified application. This method always returns 
 | _Channel_|Required| **Long**|The channel number returned by the  **[DDEInitiate](Excel.Application.DDEInitiate.md)** method.|
 | _Item_|Required| **String**|The item to be requested.|
 
-### Return value
+## Return value
 
 Variant
 

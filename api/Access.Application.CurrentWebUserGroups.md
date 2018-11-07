@@ -23,7 +23,7 @@ _expression_. `CurrentWebUserGroups`( ` _DisplayOption_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _DisplayOption_|Required|**AcWebUserGroupsDisplay**|Specifies the type of information to return about the user's groups.|
 
-### Return value
+## Return value
 
 Variant
 

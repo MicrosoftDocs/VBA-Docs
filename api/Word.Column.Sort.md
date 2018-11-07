@@ -23,7 +23,7 @@ Sorts the specified table column.
  _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

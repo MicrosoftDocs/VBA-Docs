@@ -23,7 +23,7 @@ Sets the specified fill to a preset gradient.
  _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

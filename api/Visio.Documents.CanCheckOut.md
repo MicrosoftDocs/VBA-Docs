@@ -23,7 +23,7 @@ Specifies whether a document can be checked out from a Microsoft SharePoint Serv
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies whether a document can be checked out from a Microsoft SharePoint Serv
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The server path and name of the file.|
 
-### Return value
+## Return value
 
 Boolean
 

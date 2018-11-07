@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **BulletForma
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

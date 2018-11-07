@@ -23,7 +23,7 @@ Gets **True** if the **CommandBarPopup** control is currently dropped from the m
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

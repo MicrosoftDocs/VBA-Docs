@@ -23,7 +23,7 @@ Clears the entire object.
  _expression_ A variable that represents a [ChartArea](Excel.ChartArea(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Sets the options Microsoft PowerPoint uses for encrypting presentations with pas
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

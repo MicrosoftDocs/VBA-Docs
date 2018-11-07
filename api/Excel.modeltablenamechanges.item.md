@@ -21,7 +21,7 @@ Returns a single object from the  **ModelTableNameChanges** collection.
  _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns a single object from the  **ModelTableNameChanges** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
-### Return value
+## Return value
 
  **MODELTABLENAMECHANGE**
 

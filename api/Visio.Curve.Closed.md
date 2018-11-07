@@ -23,7 +23,7 @@ Determines if an object is closed (that is, if its begin point coincides with it
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

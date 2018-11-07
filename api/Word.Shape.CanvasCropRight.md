@@ -23,7 +23,7 @@ Crops a percentage of the width of a drawing canvas from the right side of the c
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

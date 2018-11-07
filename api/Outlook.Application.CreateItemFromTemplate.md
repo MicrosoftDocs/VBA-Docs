@@ -23,7 +23,7 @@ Creates a new Microsoft Outlook item from an Outlook template (.oft) and returns
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new Microsoft Outlook item from an Outlook template (.oft) and returns
 | _TemplatePath_|Required| **String**|The path and file name of the Outlook template for the new item.|
 | _InFolder_|Optional| **Variant**|The folder in which the item is to be created. If this argument is omitted, the default folder for the item type will be used.|
 
-### Return value
+## Return value
 
 An  **Object** value that represents the new Outlook item.
 

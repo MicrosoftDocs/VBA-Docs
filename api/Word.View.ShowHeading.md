@@ -23,7 +23,7 @@ Shows all headings up to the specified heading level and hides subordinate headi
  _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

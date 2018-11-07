@@ -20,7 +20,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
  _expression_ A variable that represents an 'Exceptions' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Adds an  **Exception** object to an **Exceptions** collection.
 | _Month_|Optional|**Long**|Specifies the month, if the Type argument is  **pjYearlyMonthDay** or **pjYearlyPositional**. Can be one of the **[pjMonth](Project.PjMonth.md)** constants.|
 | _MonthDay_|Optional|**Long**|Day of month for  **ByMonthDay** type exceptions.|
 
-### Return value
+## Return value
 
  **Exception**
 

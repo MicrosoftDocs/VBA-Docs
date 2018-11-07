@@ -18,7 +18,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
 |:-----|:-----|:-----|:-----|
 | _Format_|Required|**MsoClipboardFormat**|Determines the format for the Clipboard contents when they're inserted into the document.|
 
-### Return value
+## Return value
 
 TextRange2
 

@@ -23,7 +23,7 @@ Creates a new inspector window.
  _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new inspector window.
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item to display in the inspector window when it is created.|
 
-### Return value
+## Return value
 
 An  **[Inspector](Outlook.Inspector.md)** object that represents a new inspector window.
 

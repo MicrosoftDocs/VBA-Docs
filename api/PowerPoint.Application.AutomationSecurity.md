@@ -23,7 +23,7 @@ Represents the security mode that Microsoft PowerPoint uses when it opens files 
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return value
+## Return value
 
 MsoAutomationSecurity
 

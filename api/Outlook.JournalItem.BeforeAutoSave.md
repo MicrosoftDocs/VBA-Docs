@@ -20,7 +20,7 @@ Occurs before the item is automatically saved by Outlook.
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

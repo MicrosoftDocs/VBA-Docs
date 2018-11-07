@@ -16,7 +16,7 @@ Creates a  **FreeformBuilder** object that represents a new freeform drawing. Th
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Creates a  **FreeformBuilder** object that represents a new freeform drawing. Th
 | _Y1_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **FreeformBuilder**
 

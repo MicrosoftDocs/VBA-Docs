@@ -23,7 +23,7 @@ Applies the specified style but maintains any formatting that a user directly ap
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

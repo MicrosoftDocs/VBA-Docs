@@ -23,7 +23,7 @@ Returns an item from a collection. The  **Item** property is the default propert
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**|The index number of the object in its collection.|
 
-### Return value
+## Return value
 
 Event
 

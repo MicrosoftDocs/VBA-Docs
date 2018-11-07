@@ -23,7 +23,7 @@ Activates the window that was previously opened.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Activates the window that was previously opened.
 |:-----|:-----|:-----|:-----|
 | _NoWrap_|Optional|**Boolean**|**True** if using **WindowPrev** on the first opened window doesn't wrap around to the last opened window. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

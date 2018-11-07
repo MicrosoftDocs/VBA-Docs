@@ -23,7 +23,7 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return value
+## Return value
 
 Font
 

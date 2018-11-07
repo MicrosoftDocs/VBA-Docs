@@ -23,7 +23,7 @@ _expression_. `OpenConnection`( ` _BaseConnectionString_`, ` _UserID_`, ` _Passw
 _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -26,7 +26,7 @@ Adds a link to the list of links in a shared workspace.
  _expression_ Required. A variable that represents a '[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Adds a link to the list of links in a shared workspace.
 | _Description_|Optional|**String**|Description of the link.|
 | _Notes_|Optional|**String**|Notes about the link.|
 
-### Return value
+## Return value
 
 SharedWorkspaceLink
 

@@ -23,7 +23,7 @@ Opens the blog specified by the blog ID. It is called by the  **Open Existing Po
  _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

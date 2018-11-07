@@ -23,7 +23,7 @@ Converts rows in a table to text and returns a  **Range** object that represents
  _expression_ Required. A variable that represents a '[Rows](Word.rows.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

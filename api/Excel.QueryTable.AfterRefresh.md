@@ -23,7 +23,7 @@ Occurs after a query is completed or canceled.
  _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs after a query is completed or canceled.
 |:-----|:-----|:-----|:-----|
 | _Success_|Required| **Boolean**| **True** if the query was completed successfully.|
 
-### Return value
+## Return value
 
 Nothing
 

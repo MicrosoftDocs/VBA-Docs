@@ -23,7 +23,7 @@ Returns the Fisher transformation at x. This transformation produces a function 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the Fisher transformation at x. This transformation produces a function 
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|x - a numeric value for which you want the transformation.|
 
-### Return value
+## Return value
 
 Double
 

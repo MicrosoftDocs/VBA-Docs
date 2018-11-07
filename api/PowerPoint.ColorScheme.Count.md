@@ -20,7 +20,7 @@ Returns the number of objects in the specified collection. Read-only.
  _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

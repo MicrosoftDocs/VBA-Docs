@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **ViewsSingle** collection and retur
  _expression_ A variable that represents a 'ViewsSingle' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **ViewsSingle** collection and retur
 | _Source_|Required|**Variant**|The name of view to copy.|
 | _NewName_|Required|**String**|The name of the new view.|
 
-### Return value
+## Return value
 
  **View**
 

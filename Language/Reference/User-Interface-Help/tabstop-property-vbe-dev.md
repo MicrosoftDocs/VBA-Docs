@@ -23,7 +23,7 @@ The  **TabStop** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the object is a tab stop.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

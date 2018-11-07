@@ -23,7 +23,7 @@ _expression_. `DDERequest`( ` _ChanNum_`, ` _Item_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _ChanNum_|Required|**Variant**|A channel number, the integer returned by the  **DDEInitiate** function.|
 | _Item_|Required|**String**|A string expression that's the name of a data item recognized by the application specified by the  **DDEInitiate** function. Check the application's documentation for a list of possible items.|
 
-### Return value
+## Return value
 
 String
 

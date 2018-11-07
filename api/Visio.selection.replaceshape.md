@@ -18,7 +18,7 @@ Replaces the specified selection with one or more instances of the master passed
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Replaces the specified selection with one or more instances of the master passed
 | _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape or shapes to drop. Must be either a [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md) object.|
 | _ReplaceFlags_|Optional|INT32|Specifies the properties of the original shape or shapes to retain in the new shape or shapes. Possible values include any of the [VisReplaceFlags](Visio.visreplaceflags.md) constants, and certain combinations of those constants. See Remarks for more information.|
 
-### Return value
+## Return value
 
  **SAFE-ARRAY**
 

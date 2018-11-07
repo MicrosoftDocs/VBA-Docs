@@ -23,7 +23,7 @@ Determines whether shortcut keys are enabled during a slide show. Read/write.
  _expression_ A variable that represents an [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

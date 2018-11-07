@@ -20,7 +20,7 @@ Sets the position and zoom factor (size) of the drawing page in Microsoft Visio 
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Sets the position and zoom factor (size) of the drawing page in Microsoft Visio 
 |PageYAtViewCenter|Required| **Double**|The y-coordinate, in drawing-page units, of the center of the page, measured from the lower left corner of the page.|
 |ZoomFactor|Required| **Double**|The factor by which to multiply the zoom (page size).|
 
-### Return value
+## Return value
 
 Nothing
 

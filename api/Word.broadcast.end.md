@@ -21,7 +21,7 @@ Ends the specified broadcast session.
  _expression_ A variable that represents a 'Broadcast' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

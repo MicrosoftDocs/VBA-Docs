@@ -1,5 +1,5 @@
 ---
-title: FileAttr Function
+title: FileAttr function
 keywords: vblr6.chm1008919
 f1_keywords:
 - vblr6.chm1008919
@@ -9,26 +9,24 @@ ms.date: 06/08/2017
 ---
 
 
-# FileAttr Function
+# FileAttr function
 
-
-
-Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the file mode for files opened using the **Open** statement.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) representing the file mode for files opened by using the **Open** statement.
 
 ## Syntax
 
 **FileAttr( _filenumber_, _returntype_ )**
-The  **FileAttr** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
+The **FileAttr** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_filenumber_**|Required; [Integer](../../Glossary/vbe-glossary.md#integer-data-type). Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
-|**_returntype_**|Required;  **Integer**. Number indicating the type of information to return. Specify 1 to return a value indicating the file mode. On 16-bit systems only, specify 2 to retrieve an operating system file handle. **_Returntype_** 2 is not supported in 32-bit systems and causes an error.|
+|**_returntype_**|Required; **Integer**. Number indicating the type of information to return. Specify 1 to return a value indicating the file mode. On 16-bit systems only, specify 2 to retrieve an operating system file handle. **_Returntype_** 2 is not supported in 32-bit systems and causes an error.|
 
- **Return Values**
-When the  **_returntype_**[argument](../../Glossary/vbe-glossary.md#argument) is 1, the following return values indicate the file access mode:
+## Return values
 
+When the **_returntype_** [argument](../../Glossary/vbe-glossary.md#argument) is 1, the following return values indicate the file access mode:
 
 |**Mode**|**Value**|
 |:-----|:-----|
@@ -40,8 +38,7 @@ When the  **_returntype_**[argument](../../Glossary/vbe-glossary.md#argument) is
 
 ## Example
 
-This example uses the  **FileAttr** function to return the file mode and file handle of an open file. The file handle is returned only on 16-bit systems; on 32-bit systems, passing 2 as a second argument generates an error.
-
+This example uses the **FileAttr** function to return the file mode and file handle of an open file. The file handle is returned only on 16-bit systems; on 32-bit systems, passing 2 as a second argument generates an error.
 
 ```vb
 Dim FileNum, Mode, Handle

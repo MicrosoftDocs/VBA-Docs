@@ -23,7 +23,7 @@ Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGrou
  _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ If the  **[InvalidAddress](Publisher.MailMergeDataSource.InvalidAddress.md)** pr
  _expression_ A variable that represents an  **MailMergeDataSource** object.
 
 
-### Return value
+## Return value
 
 String
 

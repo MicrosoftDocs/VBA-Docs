@@ -23,7 +23,7 @@ Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is ei
  _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Obtains a  **[Rule](Outlook.Rule.md)** object specified by _Index_ , which is ei
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either a 1-based  **long** value representing an index into the **Rules** collection, or a **string** name representing the value of the default property of a rule, **[Rule.Name](Outlook.Rule.Name.md)** .|
 
-### Return value
+## Return value
 
 A  **Rule** object that matches the rule specified by _Index_ .
 

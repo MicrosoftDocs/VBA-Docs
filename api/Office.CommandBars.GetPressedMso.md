@@ -26,7 +26,7 @@ Returns a value indicating whether the toggleButton control identified by the  *
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a value indicating whether the toggleButton control identified by the  *
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return value
+## Return value
 
 Boolean
 

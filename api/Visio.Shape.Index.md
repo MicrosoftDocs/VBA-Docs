@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Shape** object in the **Shapes** collection. R
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

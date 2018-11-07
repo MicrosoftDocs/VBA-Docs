@@ -23,7 +23,7 @@ Returns a  **[Selection](PowerPoint.Selection.md)** object that represents the s
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Return value
+## Return value
 
 Selection
 

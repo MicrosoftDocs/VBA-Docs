@@ -20,7 +20,7 @@ Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Vie
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Gets the ID of the specified reviewer in the drawing open in Microsoft Visio Vie
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
-### Return value
+## Return value
 
  **Long**
 

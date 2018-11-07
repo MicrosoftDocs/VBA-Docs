@@ -23,7 +23,7 @@ Gets or sets the formula for a  **Cell** object. Read/write.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return value
+## Return value
 
 String
 

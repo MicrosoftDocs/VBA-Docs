@@ -23,7 +23,7 @@ Opens a workbook.
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -45,7 +45,7 @@ Opens a workbook.
 | _Local_|Optional| **Variant**| **True** saves files against the language of Microsoft Excel (including control panel settings). **False** (default) saves files against the language of Visual Basic for Applications (VBA) (which is typically United States English unless the VBA project where Workbooks.Open is run from is an old internationalized XL5/95 VBA project).|
 | _CorruptLoad_|Optional| **[XlCorruptLoad](Excel.XlCorruptLoad.md)**|Can be one of the following constants:  **xlNormalLoad** , **xlRepairFile** and **xlExtractData** . The default behavior if no value is specified is **xlNormalLoad** and does not attempt recovery when initiated through the OM.|
 
-### Return value
+## Return value
 
 A  **[Workbook](Excel.Workbook.md)** object that represents the opened workbook.
 

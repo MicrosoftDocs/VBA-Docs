@@ -23,7 +23,7 @@ Moves the end position of the specified range until any of the specified charact
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

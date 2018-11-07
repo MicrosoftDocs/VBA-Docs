@@ -23,7 +23,7 @@ Zooms out from the active view. Not available on the Resource Sheet, Task Sheet,
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

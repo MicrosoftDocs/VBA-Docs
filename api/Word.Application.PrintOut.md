@@ -23,7 +23,7 @@ Prints all or part of the specified document.
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

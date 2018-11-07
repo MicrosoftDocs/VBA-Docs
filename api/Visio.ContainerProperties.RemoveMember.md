@@ -23,7 +23,7 @@ Removes a shape or set of shapes from the container.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes a shape or set of shapes from the container.
 |:-----|:-----|:-----|:-----|
 | _ObjectToRemove_|Required| **[UNKNOWN]**|The shape or shapes to remove from the container. Can be a  **[Shape](Visio.Shape.md)** or **[Selection](Visio.Selection.md)** selection.|
 
-### Return value
+## Return value
 
  **Nothing**
 

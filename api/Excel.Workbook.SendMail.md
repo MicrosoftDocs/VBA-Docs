@@ -23,7 +23,7 @@ Sends the workbook by using the installed mail system.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

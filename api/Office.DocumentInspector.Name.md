@@ -23,7 +23,7 @@ Gets the name of the module represented by a  **DocumentInspector** object. Read
  _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
 
 
-### Return value
+## Return value
 
 String
 

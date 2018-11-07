@@ -23,7 +23,7 @@ Applies a theme to an open document.
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

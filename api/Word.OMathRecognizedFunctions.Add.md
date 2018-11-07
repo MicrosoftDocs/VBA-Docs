@@ -23,7 +23,7 @@ Creates a new recognized function and returns an  **OMathRecognizedFunction** ob
  _expression_ An expression that returns a [OMathRecognizedFunctions](./Word.OMathRecognizedFunctions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new recognized function and returns an  **OMathRecognizedFunction** ob
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the recognized function.|
 
-### Return value
+## Return value
 
 OMathRecognizedFunction
 

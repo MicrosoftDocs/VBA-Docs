@@ -28,7 +28,7 @@ The  **SelectionMargin** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether clicking in the margin selects a line of text.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

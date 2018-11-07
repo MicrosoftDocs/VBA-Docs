@@ -20,7 +20,7 @@ Occurs before a project is printed.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Occurs before a project is printed.
 | _pj_|Required|**Project**| The project to be printed.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be printed.|
 
-### Return value
+## Return value
 
 nothing
 

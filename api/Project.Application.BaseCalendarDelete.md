@@ -23,7 +23,7 @@ Deletes a base calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes a base calendar.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to delete.|
 
-### Return value
+## Return value
 
  **Boolean**
 

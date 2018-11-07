@@ -23,7 +23,7 @@ Returns an  **MsoTextureType** constant indicating the texture type for the spec
  _expression_ A variable that represents a  **FillFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTextureType
 

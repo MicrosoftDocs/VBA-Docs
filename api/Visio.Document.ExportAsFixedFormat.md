@@ -23,7 +23,7 @@ Exports a Microsoft Visio document as a file in a fixed format, either PDF or XP
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -42,7 +42,7 @@ Exports a Microsoft Visio document as a file in a fixed format, either PDF or XP
 | _UseISO19005_1_|Optional| **Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is  **False** .|
 | _FixedFormatExtClass_|Optional| **[UNKNOWN]**|A pointer to a class that implements the  **IMsoDocExporter** interface for purposes of creating custom fixed output. The default is a null pointer.|
 
-### Return value
+## Return value
 
 Nothing
 

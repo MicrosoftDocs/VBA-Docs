@@ -23,7 +23,7 @@ Adds a new  **Layer** object to a **Layers** collection.
  _expression_ A variable that represents a [Layers](./Visio.Layers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Layer** object to a **Layers** collection.
 |:-----|:-----|:-----|:-----|
 | _LayerName_|Required| **String**|The name of the new layer.|
 
-### Return value
+## Return value
 
 Layer
 

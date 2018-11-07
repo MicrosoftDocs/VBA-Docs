@@ -23,7 +23,7 @@ Returns or sets a  **String** that represents the text to compare in the query f
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
 
-### Return value
+## Return value
 
 String
 

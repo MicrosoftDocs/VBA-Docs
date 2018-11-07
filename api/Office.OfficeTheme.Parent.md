@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **OfficeTheme** object. Read-only.
  _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

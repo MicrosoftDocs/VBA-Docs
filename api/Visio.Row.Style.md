@@ -23,7 +23,7 @@ Gets the style that contains a  **Row** object. Read-only.
  _expression_ A variable that represents a [Row](./Visio.Row.md) object.
 
 
-### Return value
+## Return value
 
 Style
 

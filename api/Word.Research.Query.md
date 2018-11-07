@@ -23,7 +23,7 @@ Specifies a research query.
  _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Specifies a research query.
 | _UseSelection_|Optional| **Boolean**| **True** to use the current selection as the query string. This overrides the QueryString parameter if set. Default value is **False** .|
 | _LaunchQuery_|Optional| **Boolean**| **True** launches the query. False displays the **Research** task pane scoped to search the specified research service.|
 
-### Return value
+## Return value
 
 Variant
 

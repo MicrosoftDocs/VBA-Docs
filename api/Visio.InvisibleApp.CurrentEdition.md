@@ -23,7 +23,7 @@ Returns an enumerated value that represents the edition of the current instance 
  _expression_ An expression that returns an '[InvisibleApp](Visio.InvisibleApp.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisEdition](Visio.VisEdition.md)**
 

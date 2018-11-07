@@ -20,7 +20,7 @@ Changes the case of a  **TextRange2** object to one of the values in the **MsoTe
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

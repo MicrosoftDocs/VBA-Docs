@@ -23,7 +23,7 @@ Selects the last cell in the row containing the active cell.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Selects the last cell in the row containing the active cell.
 |:-----|:-----|:-----|:-----|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the last cell. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

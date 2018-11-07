@@ -23,7 +23,7 @@ _expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **Bookmark** object that represents a bookmark added to a range.
  _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Bookmark** object that represents a bookmark added to a range.
 | _Name_|Required| **String**|The name of the bookmark. The name cannot be more than 40 characters or include more than one word.|
 | _Range_|Optional| **Variant**|The range of text marked by the bookmark. A bookmark can be set to a collapsed range (the insertion point).|
 
-### Return value
+## Return value
 
 Bookmark
 

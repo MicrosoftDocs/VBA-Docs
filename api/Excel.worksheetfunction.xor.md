@@ -21,7 +21,7 @@ Returns a logical exclusive OR of all arguments.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -58,7 +58,7 @@ Returns a logical exclusive OR of all arguments.
 | _Arg29_|Optional|VARIANT|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
 | _Arg30_|Optional|VARIANT|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
 
-### Return value
+## Return value
 
  **BOOL**
 

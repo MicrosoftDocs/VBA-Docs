@@ -23,7 +23,7 @@ Returns or sets a value that indicates whether to display legend field buttons o
  _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

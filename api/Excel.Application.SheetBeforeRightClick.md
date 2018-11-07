@@ -23,7 +23,7 @@ Occurs when any worksheet is right-clicked, before the default right-click actio
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

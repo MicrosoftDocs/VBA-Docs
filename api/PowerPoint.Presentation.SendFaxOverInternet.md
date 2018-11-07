@@ -23,7 +23,7 @@ Sends a presentation as a fax to the specified recipients.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

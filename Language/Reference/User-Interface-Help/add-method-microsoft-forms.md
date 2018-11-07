@@ -31,7 +31,7 @@ The  **Add** method syntax has these parts:
 | _ProgID_|Required. Programmatic identifier. A text string with no spaces that identifies an object class. The standard syntax for a  _ProgID_ is <Vendor>.<Component>.<Version>. A _ProgID_ is mapped to a class identifier (CLSID).|
 | _Visible_|Optional.  **True** if the object is visible (default). **False** if the object is hidden.|
 
- **Settings**
+## Settings
  _ProgID_ values for individual controls are:
 
 |||

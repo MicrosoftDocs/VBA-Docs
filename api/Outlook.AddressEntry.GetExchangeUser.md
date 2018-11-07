@@ -23,7 +23,7 @@ Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents t
  _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
-### Return value
+## Return value
 
 An  **ExchangeUser** object that represents the **AddressEntry** . Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange user.
 

@@ -23,7 +23,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides the critical tasks style on the active Gantt chart.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|If  **False**, hides the critical path style. If **True**, shows the critical task style.|
 
-### Return value
+## Return value
 
  **Boolean**
 

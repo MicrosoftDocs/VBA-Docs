@@ -23,7 +23,7 @@ Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

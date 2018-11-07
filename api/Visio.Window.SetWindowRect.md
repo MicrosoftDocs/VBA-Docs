@@ -23,7 +23,7 @@ Sets the size and position of the client area of a window.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Sets the size and position of the client area of a window.
 | _nWidth_|Required| **Long**|The distance in pixels from the left side to the right side of the window.|
 | _nHeight_|Required| **Long**|The distance in pixels from the top to the bottom of the window.|
 
-### Return value
+## Return value
 
 Nothing
 

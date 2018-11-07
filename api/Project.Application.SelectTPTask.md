@@ -23,7 +23,7 @@ Selects the specified task in the Team Planner view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Selects the specified task in the Team Planner view.
 |:-----|:-----|:-----|:-----|
 | _TaskUniqueID_|Optional|**Variant**|Unique ID of the task to select.|
 
-### Return value
+## Return value
 
  **Boolean**
 

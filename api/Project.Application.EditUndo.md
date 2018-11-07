@@ -23,7 +23,7 @@ Cancels the last user-interface action.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Cancels the last user-interface action.
 |:-----|:-----|:-----|:-----|
 | _fUndo_|Optional|**Integer**|Specifies the number of actions to undo. If the total number of actions is less than fUndo,  **EditUndo** undoes all actions.|
 
-### Return value
+## Return value
 
  **Boolean**
 

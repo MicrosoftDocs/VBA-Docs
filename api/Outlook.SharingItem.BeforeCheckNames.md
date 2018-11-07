@@ -20,7 +20,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

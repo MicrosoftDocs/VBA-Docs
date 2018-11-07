@@ -20,7 +20,7 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Selects the specified shape in the drawing that is open in Microsoft Visio Viewe
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index in the collection of shapes of the shape to be selected.|
 
-### Return value
+## Return value
 
 Nothing
 

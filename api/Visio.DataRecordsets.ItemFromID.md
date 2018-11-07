@@ -26,7 +26,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **Long**|The unique ID of the  **DataRecordset** object to retrieve.|
 
-### Return value
+## Return value
 
 DataRecordset
 

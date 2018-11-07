@@ -23,7 +23,7 @@ Returns the inverse of the lognormal cumulative distribution function. Use the l
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the inverse of the lognormal cumulative distribution function. Use the l
 | _Arg2_|Required| **Double**|Mean - The mean of ln(x).|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of ln(x).|
 
-### Return value
+## Return value
 
 Double
 

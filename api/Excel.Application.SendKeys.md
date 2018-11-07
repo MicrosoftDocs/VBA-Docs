@@ -23,7 +23,7 @@ Sends keystrokes to the active application.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

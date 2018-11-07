@@ -23,7 +23,7 @@ Hides or shows a master on a stencil or a style in the user interface. Read/writ
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

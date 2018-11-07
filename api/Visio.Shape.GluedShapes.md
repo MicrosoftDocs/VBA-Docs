@@ -23,7 +23,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 | _CategoryFilter_|Required| **String**|The category of shapes to return. See Remarks for more information|
 | _pOtherConnectedShape_|Optional| **Shape**|Additional shape to which returned shapes must also be glued. |
 
-### Return value
+## Return value
 
  **Long()**
 

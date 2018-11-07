@@ -18,7 +18,7 @@ Occurs when the user performs an action that changes the display mode. Possible 
  _expression_ A variable that represents a [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

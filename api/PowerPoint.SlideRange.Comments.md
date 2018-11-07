@@ -23,7 +23,7 @@ Returns a  **[Comments](PowerPoint.Comments.md)** object that represents a colle
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Return value
+## Return value
 
 Comments
 

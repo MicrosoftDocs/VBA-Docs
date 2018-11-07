@@ -23,7 +23,7 @@ Returns a  **Range** object by using the specified starting and ending character
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Range** object by using the specified starting and ending character
 | _Start_|Optional| **Variant**|The starting character position.|
 | _End_|Optional| **Variant**|The ending character position.|
 
-### Return value
+## Return value
 
 Range
 

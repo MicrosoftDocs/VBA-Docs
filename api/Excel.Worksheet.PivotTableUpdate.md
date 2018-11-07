@@ -23,7 +23,7 @@ Occurs after a PivotTable report is updated on a worksheet.
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs after a PivotTable report is updated on a worksheet.
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 
-### Return value
+## Return value
 
 Nothing
 

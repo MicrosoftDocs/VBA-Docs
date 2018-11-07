@@ -16,7 +16,7 @@ The  **AddTextEffect** method is not implemented in Project.
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ The  **AddTextEffect** method is not implemented in Project.
 | _Top_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

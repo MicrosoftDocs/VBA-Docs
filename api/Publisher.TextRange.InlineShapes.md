@@ -23,7 +23,7 @@ Returns an  **[InlineShapes](Publisher.InlineShapes.md)** collection, which repr
  _expression_ A variable that represents an  **TextRange** object.
 
 
-### Return value
+## Return value
 
 InlineShapes
 

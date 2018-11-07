@@ -23,7 +23,7 @@ Returns a  **[ColorSchemes](PowerPoint.ColorSchemes.md)** collection that repres
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 ColorSchemes
 

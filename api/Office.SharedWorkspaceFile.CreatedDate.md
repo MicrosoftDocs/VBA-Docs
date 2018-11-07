@@ -23,7 +23,7 @@ Gets the date and time when the shared workspace object was created. Read-only.
  _expression_ A variable that represents a [SharedWorkspaceFile](./Office.SharedWorkspaceFile.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

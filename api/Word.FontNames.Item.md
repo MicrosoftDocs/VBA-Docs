@@ -23,7 +23,7 @@ Returns a  **String** that represents the name of a font.
  _expression_ Required. A variable that represents a '[FontNames](Word.FontNames.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **String** that represents the name of a font.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
 
-### Return value
+## Return value
 
 String
 

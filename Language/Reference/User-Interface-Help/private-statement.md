@@ -24,7 +24,7 @@ The **Private** statement syntax has these parts:
 |:-----|:-----|
 |**WithEvents**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) that specifies that _varname_ is an [object variable](../../Glossary/vbe-glossary.md#object-variable) used to respond to events triggered by an [ActiveX object](../../Glossary/vbe-glossary.md#activex-object).  **WithEvents** is valid only in [class modules](../../Glossary/vbe-glossary.md#class-module). You can declare as many individual variables as you like using **WithEvents**, but you can't create [arrays](../../Glossary/vbe-glossary.md#array) with **WithEvents**. You can't use **New** with **WithEvents**.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
-| _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_[argument](../../Glossary/vbe-glossary.md#argument) uses the following syntax:|
+| _subscripts_|Optional. Dimensions of an array variable; up to 60 multiple dimensions may be declared. The  _subscripts_ [argument](../../Glossary/vbe-glossary.md#argument) uses the following syntax:|
 |
 |[ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .**|
 |

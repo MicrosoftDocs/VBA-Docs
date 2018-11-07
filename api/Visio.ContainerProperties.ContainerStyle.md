@@ -23,7 +23,7 @@ Determines the visual appearance of the container. Read/write.
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return value
+## Return value
 
  **Integer**
 

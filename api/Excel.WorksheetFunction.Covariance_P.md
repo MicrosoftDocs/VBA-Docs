@@ -23,7 +23,7 @@ Returns population covariance, the average of the products of deviations for eac
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns population covariance, the average of the products of deviations for eac
 | _Arg1_|Required| **Variant**|The first cell range of integers.|
 | _Arg2_|Required| **Variant**|The second cell range of integers.|
 
-### Return value
+## Return value
 
 Double
 

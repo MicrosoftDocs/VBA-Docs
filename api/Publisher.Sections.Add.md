@@ -23,7 +23,7 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
  _expression_ A variable that represents a  **Sections** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
 |:-----|:-----|:-----|:-----|
 |StartPageIndex|Required| **Long**|The page number of the publication page that the new section begins on.|
 
-### Return value
+## Return value
 
 Section
 

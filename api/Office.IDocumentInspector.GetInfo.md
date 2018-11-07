@@ -20,7 +20,7 @@ Gets information about a custom Document Inspector module.
  _expression_ An expression that returns a [IDocumentInspector](./Office.IDocumentInspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Gets information about a custom Document Inspector module.
 | _Name_|Required|**String**|Represents the name of the module.|
 | _Desc_|Required|**String**|Represents the description of the module.|
 
-### Return value
+## Return value
 
 [HRESULT]
 

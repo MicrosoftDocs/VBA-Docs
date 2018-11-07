@@ -23,7 +23,7 @@ Returns the audio compression type. Read-only.
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 
 
-### Return value
+## Return value
 
 String
 

@@ -25,7 +25,7 @@ For more information about the new function, see the [ChiSq_Test](Excel.Workshee
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ For more information about the new function, see the [ChiSq_Test](Excel.Workshee
 | _Arg1_|Required| **Variant**|The range of data that contains observations to test against expected values.|
 | _Arg2_|Required| **Variant**|The range of data that contains the ratio of the product of row totals and column totals to the grand total.|
 
-### Return value
+## Return value
 
 Double
 

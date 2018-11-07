@@ -23,7 +23,7 @@ Specifies how many scope replacements are to be made: one, all, or none. Read/wr
  _expression_ A variable that represents a  **FindReplace** object.
 
 
-### Return value
+## Return value
 
 PbReplaceScope
 

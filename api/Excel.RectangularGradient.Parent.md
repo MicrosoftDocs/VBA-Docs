@@ -23,7 +23,7 @@ Returns the parent object for the specified object. Read-only
  _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

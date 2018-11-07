@@ -20,7 +20,7 @@ Logs on to a MAPI mail system and establishes a mail session. A mail session mus
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

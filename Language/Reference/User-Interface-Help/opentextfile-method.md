@@ -33,7 +33,7 @@ The  **OpenTextFile** method has these parts:
 | _create_|Optional.  **Boolean** value that indicates whether a new file can be created if the specified _filename_ doesn't exist. The value is **True** if a new file is created; **False** if it isn't created. The default is **False**.|
 | _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
- **Settings**
+## Settings
 The  _iomode_ argument can have any of the following settings:
 
 |**Constant**|**Value**|**Description**|

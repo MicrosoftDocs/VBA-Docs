@@ -23,7 +23,7 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that represents the
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 
 
-### Return value
+## Return value
 
 FillFormat
 

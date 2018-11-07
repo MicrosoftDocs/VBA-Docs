@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that indicates whether all calendar items i
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
-### Return value
+## Return value
 
  **True** if all calendar items in the folder should be included; otherwise, **False** .
 

@@ -26,7 +26,7 @@ Returns an array of the row IDs of data-recordset rows linked to a shape that ar
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns an array of the row IDs of data-recordset rows linked to a shape that ar
 |:-----|:-----|:-----|:-----|
 | _ShapeInConflict_|Required| **Shape**|A shape linked to data that has a conflict after the data recordset is refreshed.|
 
-### Return value
+## Return value
 
 Long()
 

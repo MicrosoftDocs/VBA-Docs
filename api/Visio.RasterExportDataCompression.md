@@ -23,7 +23,7 @@ Determines the data compression algorithm that is applied to the exported image 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisRasterExportDataCompression](Visio.VisRasterExportDataCompression.md)**
 

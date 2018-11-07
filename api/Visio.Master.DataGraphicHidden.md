@@ -26,7 +26,7 @@ Hides or displays a data graphic in the  **Data Graphics** task pane in the Micr
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

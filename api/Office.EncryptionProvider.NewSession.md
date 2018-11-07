@@ -23,7 +23,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
 |:-----|:-----|:-----|:-----|
 | _ParentWindow_|Required|**IUnknown**|Specifies the window that is called to display the encryption settings.|
 
-### Return value
+## Return value
 
 Long
 

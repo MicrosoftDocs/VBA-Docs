@@ -22,13 +22,13 @@ _expression_. `MMult`(`Arg1`, `Arg2`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg2_|Required| **Variant**|Array1, array2 - the arrays you want to multiply.|
 
-### Return value
+## Return value
 
 Variant
 

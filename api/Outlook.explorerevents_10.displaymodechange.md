@@ -18,13 +18,13 @@ Occurs when the user performs an action that changes the display mode. Possible 
  _expression_ A variable that represents a 'ExplorerEvents_10' object.
 
 
-### Parameters
+## Parameters
 
 
 
 | _DisplayMode_|Required|Indicates the display mode|
 
-### Return value
+## Return value
 
  **HRESULT**
 

@@ -23,7 +23,7 @@ This method creates a connection item.
  _expression_ A variable that represents a [Connections](Excel.Connections.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ This method creates a connection item.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Index value of the item.|
 
-### Return value
+## Return value
 
 WorkbookConnection
 

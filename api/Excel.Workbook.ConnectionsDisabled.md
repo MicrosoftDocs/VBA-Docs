@@ -23,7 +23,7 @@ Disables the external connections or links in the workbook. Read-only
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

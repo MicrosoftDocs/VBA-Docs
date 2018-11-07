@@ -23,7 +23,7 @@ Removes the highlighting for all text located in a hit highlighting find operati
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 
 
-### Return value
+## Return value
 
 Boolean
 

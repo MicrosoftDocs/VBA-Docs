@@ -23,7 +23,7 @@ Pastes the contents of the Clipboard into an object.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Pastes the contents of the Clipboard into an object.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the paste operation.|
 
-### Return value
+## Return value
 
 Nothing
 

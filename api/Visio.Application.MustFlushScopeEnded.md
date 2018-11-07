@@ -20,7 +20,7 @@ Private Sub  _expression_ _'MustFlushScopeEnded'(**_ByVal app As [IVAPPLICATION]
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

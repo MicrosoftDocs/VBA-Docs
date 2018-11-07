@@ -23,7 +23,7 @@ Sets the current group.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the current group.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the group to use.|
 
-### Return value
+## Return value
 
  **Boolean**
 

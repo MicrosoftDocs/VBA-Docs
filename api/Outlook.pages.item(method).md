@@ -18,7 +18,7 @@ Returns a member of a collection, either by position or by name.
  _expression_ A variable that represents a  **Pages** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Returns a member of a collection, either by position or by name.
 |:-----|:-----|:-----|:-----|
 |varg|Required| **Variant**|A member's name or index within a collection.|
 
-### Return value
+## Return value
 
 An Object that corresponds to the specified member in the collection.
 

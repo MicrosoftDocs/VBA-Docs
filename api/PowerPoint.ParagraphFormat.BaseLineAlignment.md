@@ -23,7 +23,7 @@ Returns or sets the base line alignment for the specified paragraph. Read/write.
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 PpBaselineAlignment
 

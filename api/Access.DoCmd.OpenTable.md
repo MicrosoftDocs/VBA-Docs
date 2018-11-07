@@ -23,7 +23,7 @@ _expression_. `OpenTable`( ` _TableName_`, ` _View_`, ` _DataMode_` )
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

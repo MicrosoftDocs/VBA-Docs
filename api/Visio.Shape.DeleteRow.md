@@ -23,7 +23,7 @@ Deletes a row from a section in a ShapeSheet spreadsheet.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Deletes a row from a section in a ShapeSheet spreadsheet.
 | _Section_|Required| **Integer**|The index of the section that contains the row.|
 | _Row_|Required| **Integer**|The index of the row to delete.|
 
-### Return value
+## Return value
 
 Nothing
 

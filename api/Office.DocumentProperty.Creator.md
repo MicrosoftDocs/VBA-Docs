@@ -23,7 +23,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
  _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 |:-----|:-----|:-----|:-----|
 | _plCreator_|Required|**Long**|The name or index number of the built-in document property.|
 
-### Return value
+## Return value
 
 [HRESULT]
 

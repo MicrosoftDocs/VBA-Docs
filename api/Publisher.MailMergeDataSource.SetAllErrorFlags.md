@@ -23,7 +23,7 @@ Marks all records in a mail merge data source as containing invalid data in an a
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -28,7 +28,7 @@ The  **ColumnHeads** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Specifies whether the column headings are displayed.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

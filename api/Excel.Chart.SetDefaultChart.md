@@ -23,7 +23,7 @@ Specifies the name of the chart template that Microsoft Excel uses when creating
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

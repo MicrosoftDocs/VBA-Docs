@@ -23,7 +23,7 @@ Returns a  **Paragraph** object that represents a new, blank paragraph added to 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Paragraph** object that represents a new, blank paragraph added to 
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Variant**|The range before which you want the new paragraph to be added. The new paragraph doesn't replace the range.|
 
-### Return value
+## Return value
 
 Paragraph
 

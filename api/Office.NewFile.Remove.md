@@ -23,7 +23,7 @@ Removes an item from the  **New Item** task pane. Returns a **Boolean** value to
  _expression_ Required. A variable that represents a '[NewFile](Office.NewFile.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

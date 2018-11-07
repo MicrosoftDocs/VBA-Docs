@@ -23,7 +23,7 @@ Copies a shape to the Clipboard.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Copies a shape to the Clipboard.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the copy operation.|
 
-### Return value
+## Return value
 
 Nothing
 

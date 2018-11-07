@@ -20,7 +20,7 @@ Sets the starting point and length of a math zone within a text range. Read-only
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

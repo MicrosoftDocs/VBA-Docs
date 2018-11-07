@@ -23,7 +23,7 @@ Returns the smallest value for which the cumulative binomial distribution is gre
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the smallest value for which the cumulative binomial distribution is gre
 | _Arg2_|Required| **Double**|The probability of a success on each trial.|
 | _Arg3_|Required| **Double**|The criterion value.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Returns a locale-specific array of names of themes contained in the document.
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a locale-specific array of names of themes contained in the document.
 | _eType_|Required| **VisThemeTypes**|The type of the theme, an enumerated value from the  **VisThemeTypes** enumeration. See Remarks for possible values.|
 | _NameArray()_|Required| **String**|Out parameter. An array of locale-specific theme names returned by the method.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ This method checks the version of the Project Server for the active project. The
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ This method checks the version of the Project Server for the active project. The
 |:-----|:-----|:-----|:-----|
 | _ServerURL_|Required|**String**|A string representing the URL of the Project Server whose version needs to be checked.|
 
-### Return value
+## Return value
 
 PjServerVersionInfo
 

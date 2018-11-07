@@ -23,7 +23,7 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
  _expression_ A variable that represents a  **CellRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **Cell** object in the specified **CellRange** collection
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 
-### Return value
+## Return value
 
 Cell
 

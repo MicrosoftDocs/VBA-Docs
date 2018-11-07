@@ -23,7 +23,7 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
  _expression_ A variable that represents a '[Documents](Word.documents.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -46,7 +46,7 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
 | _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the **Encoding** dialog box that Word displays if the text encoding cannot be recognized. The default is **False** .|
 | _XMLTransform_|Optional| **Variant**|Specifies a transform to use.|
 
-### Return value
+## Return value
 
 A  **[Document](Word.Document.md)** object that represents the specified document.
 

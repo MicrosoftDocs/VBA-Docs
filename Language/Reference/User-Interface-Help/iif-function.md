@@ -1,5 +1,5 @@
 ---
-title: IIf Function
+title: IIf function
 keywords: vblr6.chm1012957
 f1_keywords:
 - vblr6.chm1012957
@@ -9,23 +9,21 @@ ms.date: 06/08/2017
 ---
 
 
-# IIf Function
-
-
+# IIf function
 
 Returns one of two parts, depending on the evaluation of an [expression](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
-**IIf( _expr_,** **_truepart_,** **_falsepart_ )**
-The  **IIf** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**IIf( _expr_**, **_truepart_**, **_falsepart_ )**
 
+The **IIf** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_expr_**|Required. Expression you want to evaluate.|
-|**_truepart_**|Required. Value or expression returned if  **_expr_** is **True**.|
-|**_falsepart_**|Required. Value or expression returned if  **_expr_** is **False**.|
+|**_truepart_**|Required. Value or expression returned if **_expr_** is **True**.|
+|**_falsepart_**|Required. Value or expression returned if **_expr_** is **False**.|
 
 ## Remarks
 
@@ -33,8 +31,7 @@ The  **IIf** function syntax has these[named arguments](../../Glossary/vbe-gloss
 
 ## Example
 
-This example uses the  **IIf** function to evaluate the `TestMe` parameter of the `CheckIt` procedure and returns the word "Large" if the amount is greater than 1000; otherwise, it returns the word "Small".
-
+This example uses the **IIf** function to evaluate the `TestMe` parameter of the `CheckIt` procedure and returns the word "Large" if the amount is greater than 1000; otherwise, it returns the word "Small".
 
 ```vb
 Function CheckIt (TestMe As Integer)

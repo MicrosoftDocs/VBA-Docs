@@ -23,7 +23,7 @@ Returns the specified task pane as a  **TaskPane** object.
  _expression_ Required. A variable that represents a '[TaskPanes](Word.TaskPanes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the specified task pane as a  **TaskPane** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdTaskPanes**|The specified task pane.|
 
-### Return value
+## Return value
 
 TaskPane
 

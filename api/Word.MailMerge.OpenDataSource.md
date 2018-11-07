@@ -23,7 +23,7 @@ Attaches a data source to the specified document, which becomes a main document 
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

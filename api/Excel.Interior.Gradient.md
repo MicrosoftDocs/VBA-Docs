@@ -23,7 +23,7 @@ Returns or sets the  **Gradient** property of an **Interior** object of a select
  _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Object
 

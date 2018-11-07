@@ -23,7 +23,7 @@ Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Return value
+## Return value
 
 An  **AddressEntries** collection object that contains **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the owners of the **ExchangeDistributionList** . Returns an **AddressEntries** object with a count of zero (0) if no owners can be found for the **ExchangeDistributionList** in the current session.
 

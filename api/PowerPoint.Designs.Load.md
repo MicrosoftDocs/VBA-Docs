@@ -23,7 +23,7 @@ Returns a  **Design** object that represents a design loaded into the master lis
  _expression_ A variable that represents a [Designs](./PowerPoint.Designs.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Design** object that represents a design loaded into the master lis
 | _TemplateName_|Required|**String**|The path to the design template.|
 | _Index_|Optional|**Long**|The index number of the design template in the collection of design templates. The default is -1, which means the design template is added to the end of the list of designs in the presentation.|
 
-### Return value
+## Return value
 
 Design
 

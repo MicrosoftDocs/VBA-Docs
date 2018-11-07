@@ -23,7 +23,7 @@ In a project comparison report, shows the Resource Sheet view in all three proje
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

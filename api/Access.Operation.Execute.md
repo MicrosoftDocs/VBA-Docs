@@ -23,7 +23,7 @@ _expression_. `Execute`( ` _bstrParameters_` )
 _expression_ A variable that represents an [Operation](Access.Operation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Operation](Access.Operation.md) obje
 |:-----|:-----|:-----|:-----|
 | _bstrParameters_|Optional|**String**|Specifies values for the parameters of the operation.|
 
-### Return value
+## Return value
 
 Variant
 

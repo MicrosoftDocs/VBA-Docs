@@ -20,7 +20,7 @@ _expression_. `AddCalculatedMember`_(Name,_ _Formula,_ _SolveOrder,_ _Type,_ _Di
 _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMembers.md) object.
 
 
-### Parameters
+## Parameters
 
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMe
 | _ParentMember_|Optional|VARIANT|The parent of the calculated member.|
 | _NumberFormat_|Optional|VARIANT|The format of numbers used for calculated members.|
 
-### Return value
+## Return value
 
 **CALCULATEDMEMBER**
 

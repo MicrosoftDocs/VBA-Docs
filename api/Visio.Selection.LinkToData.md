@@ -26,7 +26,7 @@ Links a selection of shapes to a single data row in a data recordset.
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Links a selection of shapes to a single data row in a data recordset.
 | _DataRowID_|Required| **Long**|The ID of the row in the data recordset containing the particular data record to link to. |
 | _AutoApplyDataGraphics_|Optional| **Boolean**|Whether to automatically apply a data graphic to the linked shapes. See Remarks for more information.|
 
-### Return value
+## Return value
 
 Nothing
 

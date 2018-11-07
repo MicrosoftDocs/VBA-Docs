@@ -23,7 +23,7 @@ Adds an IF field to a mail merge main document. Returns a  **MailMergeField** ob
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Adds an IF field to a mail merge main document. Returns a  **MailMergeField** ob
 | _FalseAutoText_|Optional| **Variant**|The AutoText entry that's inserted if the comparison is false. If this argument is specified, FalseText is ignored.|
 | _FalseText_|Optional| **Variant**|The text that's inserted if the comparison is false.|
 
-### Return value
+## Return value
 
 MailMergeField
 

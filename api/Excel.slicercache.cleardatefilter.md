@@ -21,7 +21,7 @@ Clears the filter for a timeline (date filter).
  _expression_ A variable that represents a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

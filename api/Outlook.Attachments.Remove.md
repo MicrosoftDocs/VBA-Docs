@@ -23,7 +23,7 @@ Removes an object from the collection.
  _expression_ A variable that represents an [Attachments](./Outlook.Attachments.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

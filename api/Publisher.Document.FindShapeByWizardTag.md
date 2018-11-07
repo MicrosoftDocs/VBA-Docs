@@ -23,7 +23,7 @@ Returns a  **ShapeRange** object representing one or all of the shapes placed in
  _expression_ A variable that represents a  **Document** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **ShapeRange** object representing one or all of the shapes placed in
 |WizardTag|Required| **PbWizardTag**|Specifies the wizard tag for which to search.|
 |Instance|Optional| **Long**|Specifies which instance of a shape with the specified wizard tag is returned. For Instance equal to n, the nth instance of a shape with the specified wizard tag is returned. If no value for Instance is specified, all the shapes with the specified wizard tag are returned.|
 
-### Return value
+## Return value
 
 ShapeRange
 

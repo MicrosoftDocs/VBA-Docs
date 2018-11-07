@@ -23,7 +23,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Customizes the top and bottom bands of date boxes in the Calendar view.
 | _TopPattern_|Optional|**Long**|The pattern of the top band in each date box. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _BottomPattern_|Optional|**Long**|The pattern of the bottom band in each date box. Can be one of the  **PjFillPattern** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

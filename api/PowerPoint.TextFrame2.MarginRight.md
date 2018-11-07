@@ -23,7 +23,7 @@ Returns or sets the distance (in points) between the right edge of the text fram
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

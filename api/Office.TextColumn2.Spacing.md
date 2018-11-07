@@ -20,7 +20,7 @@ Gets or sets the spacing between text columns in a  **TextColumn2** object. Read
  _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

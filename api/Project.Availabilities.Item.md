@@ -20,7 +20,7 @@ Gets a single  **Availability** object from the **Availabilities** collection. R
  _expression_ A variable that represents an 'Availabilities' object.
 
 
-### Parameters
+## Parameters
 
 
 

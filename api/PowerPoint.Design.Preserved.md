@@ -23,7 +23,7 @@ Represents whether a design master is preserved from changes. Read/write.
  _expression_ A variable that represents a [Design](./PowerPoint.Design.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

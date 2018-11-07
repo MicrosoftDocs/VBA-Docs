@@ -20,7 +20,7 @@ Returns a single  **[Axis](PowerPoint.Axis.md)** object from an **Axes** collect
  _expression_ A variable that represents an '[Axes](PowerPoint.Axes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

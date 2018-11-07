@@ -28,7 +28,7 @@ The  **WeekdayName** function syntax has these parts:
 | _abbreviate_|Optional.  **Boolean** value that indicates if the weekday name is to be abbreviated. If omitted, the default is **False**, which means that the weekday name is not abbreviated.|
 | _firstdayofweek_|Optional. Numeric value indicating the first day of the week. See Settings section for values.|
 
- **Settings**
+## Settings
 The  _firstdayofweek_ argument can have the following values:
 
 

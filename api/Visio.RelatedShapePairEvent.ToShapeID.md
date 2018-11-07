@@ -23,7 +23,7 @@ Returrns the identifier of the second (member) shape in the related shape pair. 
  _expression_ A variable that represents a '[RelatedShapePairEvent](Visio.RelatedShapePairEvent.md)' object.
 
 
-### Return value
+## Return value
 
  **Long**
 

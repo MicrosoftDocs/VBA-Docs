@@ -23,7 +23,7 @@ Returns the double factorial of a number.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the double factorial of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the value for which to return the double factorial. If number is not an integer, it is truncated.|
 
-### Return value
+## Return value
 
 Double
 

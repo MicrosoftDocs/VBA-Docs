@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Master** object in the **Masters** collection.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

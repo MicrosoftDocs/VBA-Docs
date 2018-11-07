@@ -23,7 +23,7 @@ Allows a picture provider to display the user interface needed to guide the user
  _expression_ An expression that returns a [IBlogPictureExtensibility](./Office.IBlogPictureExtensibility.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

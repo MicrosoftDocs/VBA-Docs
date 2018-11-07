@@ -23,7 +23,7 @@ Pastes the current contents of the Clipboard into the view represented by the  *
  _expression_ A variable that represents a [View](./PowerPoint.View.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

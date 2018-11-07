@@ -23,7 +23,7 @@ Returns a  **MailMergeField** object that represents a mail merge field added to
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **MailMergeField** object that represents a mail merge field added to
 | _Range_|Required| **Range**|The range where you want the field to appear. This field replaces the range, if the range isn't collapsed.|
 | _Name_|Required| **String**|The name of the field.|
 
-### Return value
+## Return value
 
 MailMergeField
 

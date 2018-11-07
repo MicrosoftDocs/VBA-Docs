@@ -23,7 +23,7 @@ Gets a description of the current state of the policy item. Read-only.
  _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
 
 
-### Return value
+## Return value
 
 String
 

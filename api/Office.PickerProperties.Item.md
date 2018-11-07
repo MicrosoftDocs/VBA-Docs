@@ -23,7 +23,7 @@ Retrieves a  **PickerProperty** object at the specified index. Read-only
  _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

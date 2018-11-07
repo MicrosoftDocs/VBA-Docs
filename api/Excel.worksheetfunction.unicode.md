@@ -21,7 +21,7 @@ Returns the number (code point) corresponding to the first character of the text
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns the number (code point) corresponding to the first character of the text
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Character that you want the Unicode value of.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

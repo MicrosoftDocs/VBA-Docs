@@ -23,7 +23,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
  _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

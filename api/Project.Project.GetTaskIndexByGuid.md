@@ -20,7 +20,7 @@ Returns the local task identification number (ID) for the specified task.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns the local task identification number (ID) for the specified task.
 |:-----|:-----|:-----|:-----|
 | _TaskGuid_|Required|**String**|The GUID of the task.|
 
-### Return value
+## Return value
 
  **Long**
 

@@ -23,7 +23,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell. Read-only.
 |:-----|:-----|:-----|:-----|
 | _localeIndependentCellName_|Required| **String**|The name of a ShapeSheet cell.|
 
-### Return value
+## Return value
 
 Cell
 

@@ -23,7 +23,7 @@ Creates a new **Master** object by dropping an object onto a receiving object su
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Creates a new **Master** object by dropping an object onto a receiving object su
 | _xPos_|Required| **Integer**|The x-coordinate at which to place the center of the shape's width or PinX.|
 | _yPos_|Required| **Integer**|The y-coordinate at which to place the center of the shape's height or PinY.|
 
-### Return value
+## Return value
 
 Master
 

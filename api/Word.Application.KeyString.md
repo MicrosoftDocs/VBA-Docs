@@ -23,7 +23,7 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the key combination string for the specified keys (for example, CTRL+SHI
 | _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
 | _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
 
-### Return value
+## Return value
 
 String
 

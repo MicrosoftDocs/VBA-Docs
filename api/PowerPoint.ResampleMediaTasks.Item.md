@@ -23,7 +23,7 @@ Returns a single  **ResampleMediaTask** object from the specified **ResampleMedi
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **ResampleMediaTask** object from the specified **ResampleMedi
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the single  **ResampleMediaTask** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 ResampleMediaTask
 

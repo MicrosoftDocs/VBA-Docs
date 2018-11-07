@@ -18,7 +18,7 @@ Adds a new Workbook Connection to the model with the same properties as the one 
  _expression_ A variable that represents a object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Adds a new Workbook Connection to the model with the same properties as the one 
 |:-----|:-----|:-----|:-----|
 | _ConnectionToDataSource_|Required|WORKBOOKCONNECTION|The Workbook connection.|
 
-### Return value
+## Return value
 
  **WORKBOOKCONNECTION**
 

@@ -23,7 +23,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconV
  _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[IconV
 | _Name_|Required| **String**|The name of the new view.|
 | _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option for the new view.|
 
-### Return value
+## Return value
 
 A  **View** object that represents the new view.
 

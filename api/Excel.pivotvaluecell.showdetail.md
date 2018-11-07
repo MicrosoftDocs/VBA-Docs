@@ -21,7 +21,7 @@ Puts the individual rows of an OLAP data source which contribute to an aggregate
  _expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

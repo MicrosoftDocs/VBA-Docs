@@ -23,7 +23,7 @@ Returns information about the chart element at the specified x-coordinate and y-
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

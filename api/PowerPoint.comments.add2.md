@@ -21,7 +21,7 @@ Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new com
  _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -42,7 +42,7 @@ Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new com
 | _ProviderID_|Required|STRING||
 | _UserID_|Required|STRING||
 
-### Return value
+## Return value
 
  **COMMENT**
 

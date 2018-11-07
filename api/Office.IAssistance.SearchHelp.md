@@ -20,7 +20,7 @@ Performs a search from the Office Help Viewer based on one or more keywords. Key
  _expression_ An expression that returns a [IAssistance](./Office.IAssistance.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

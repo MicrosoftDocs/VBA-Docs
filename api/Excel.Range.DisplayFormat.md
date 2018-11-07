@@ -23,7 +23,7 @@ Returns a  **[DisplayFormat](Excel.DisplayFormat.md)** object that represents th
  _expression_ A variable that represents a '[Range](Excel.Range(object).md)' object.
 
 
-### Return value
+## Return value
 
 DisplayFormat
 

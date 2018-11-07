@@ -23,7 +23,7 @@ Returns or sets the visibility of the specified object or the formatting applied
  _expression_ A variable that represents a [ShadowFormat](./PowerPoint.ShadowFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

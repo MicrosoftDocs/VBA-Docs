@@ -20,7 +20,7 @@ Occurs after a project is calculated.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs after a project is calculated.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that was calculated.|
 
-### Return value
+## Return value
 
 nothing
 

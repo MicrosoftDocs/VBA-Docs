@@ -23,7 +23,7 @@ Determines whether the footer, date and time, and slide number appear on the tit
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

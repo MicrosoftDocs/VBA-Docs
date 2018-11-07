@@ -23,7 +23,7 @@ Represents the type of sound effect. Read/write.
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 
 
-### Return value
+## Return value
 
 PpSoundEffectType
 

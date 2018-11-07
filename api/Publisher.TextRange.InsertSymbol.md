@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a symb
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a symb
 |FontName|Required| **String**|The name of the font that contains the symbol.|
 |CharIndex|Required| **Long**|The Unicode character for the specified symbol.|
 
-### Return value
+## Return value
 
 TextRange
 

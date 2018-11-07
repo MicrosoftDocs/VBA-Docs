@@ -23,7 +23,7 @@ Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the speci
  _expression_ Optional. An expression that returns an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -27,7 +27,7 @@ Returns the argument
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns the argument
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber is a complex number for which you want the argument theta.|
 
-### Return value
+## Return value
 
 String
 

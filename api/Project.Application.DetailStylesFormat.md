@@ -23,7 +23,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Sets the format of timescaled data fields in a Resource Usage view or Task Usage
 | _Pattern_|Optional|**Long**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the field specified with **Item** appears in the shortcut menu; otherwise, **False**. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

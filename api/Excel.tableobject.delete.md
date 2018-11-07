@@ -21,7 +21,7 @@ Deletes the  **TableObject** object.
  _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

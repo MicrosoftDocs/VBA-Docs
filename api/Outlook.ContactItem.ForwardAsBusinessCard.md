@@ -23,7 +23,7 @@ Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact inf
  _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **MailItem** object that represents the new e-mail item containing the business card information.
 

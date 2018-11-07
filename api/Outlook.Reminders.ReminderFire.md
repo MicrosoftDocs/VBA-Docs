@@ -23,7 +23,7 @@ Occurs before the reminder is executed.
  _expression_ A variable that represents a [Reminders](./Outlook.Reminders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

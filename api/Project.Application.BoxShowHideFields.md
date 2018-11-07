@@ -23,7 +23,7 @@ Shows or hides the task data fields of the active Network Diagram.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides the task data fields of the active Network Diagram.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if the fields of Network Diagram boxes are displayed in the active Network Diagram. **False** if only task ID numbers are displayed. The default value is **True** if the active Network Diagram isn't showing fields and **False** if it is.|
 
-### Return value
+## Return value
 
  **Boolean**
 

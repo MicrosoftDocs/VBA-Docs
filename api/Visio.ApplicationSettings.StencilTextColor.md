@@ -23,7 +23,7 @@ Determines the color of text in stencil windows in Microsoft Visio for the curre
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 OLE_COLOR
 

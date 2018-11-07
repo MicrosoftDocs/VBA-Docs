@@ -23,7 +23,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
 | _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that contains the document that is enabled for editing.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, editing is not enabled on the document.|
 
-### Return value
+## Return value
 
 Nothing
 

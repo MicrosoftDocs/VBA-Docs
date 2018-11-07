@@ -20,7 +20,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Based on the enumerated screen-resolution value passed to the method in the eRes
 |pnWidth |Required| **Long**|The number of horizontal screen pixels.|
 |pnHeight |Required| **Long**|The number of vertical screen pixels.|
 
-### Return value
+## Return value
 
  **Nothing**
 

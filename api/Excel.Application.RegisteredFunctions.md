@@ -23,7 +23,7 @@ Returns information about functions in either dynamic-link libraries (DLLs) or c
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

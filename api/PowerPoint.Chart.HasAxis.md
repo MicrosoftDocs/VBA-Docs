@@ -23,7 +23,7 @@ Returns or sets which axes exist on the chart. Read/write  **Variant**.
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

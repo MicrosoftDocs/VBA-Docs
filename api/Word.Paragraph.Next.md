@@ -23,7 +23,7 @@ Returns a  **Paragraph** object that represents the next paragraph.
  _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Paragraph** object that represents the next paragraph.
 |:-----|:-----|:-----|:-----|
 | _Count_|Optional| **Variant**|The number of paragraphs by which you want to move ahead. The default value is one.|
 
-### Return value
+## Return value
 
 Paragraph
 

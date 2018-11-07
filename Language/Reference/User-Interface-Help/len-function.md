@@ -23,7 +23,7 @@ The  **Len** function syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
-| _string_|Any valid [string expression](../../Glossary/vbe-glossary.md#string-expression). If  _string_ contains[Null](../../Glossary/vbe-glossary.md#null), Null is returned.|
+| _string_|Any valid [string expression](../../Glossary/vbe-glossary.md#string-expression). If  _string_ contains [Null](../../Glossary/vbe-glossary.md#null), Null is returned.|
 | _Varname_|Any valid [variable](../../Glossary/vbe-glossary.md#variable) name. If _varname_ contains **Null**, **Null** is returned. If _varname_ is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type),  **Len** treats it the same as a **String** and always returns the number of characters it contains.|
 
 ## Remarks

@@ -23,7 +23,7 @@ Creates an ActiveX control (formerly known as an OLE control). Returns the  **[I
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

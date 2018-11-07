@@ -23,7 +23,7 @@ Glues one shape to another from a cell in the first shape to an  _x_, _y_ positi
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Glues one shape to another from a cell in the first shape to an  _x_, _y_ positi
 | _xPercent_|Required| **Double**|The x-coordinate of the position to glue to.|
 | _yPercent_|Required| **Double**|The y-coordinate of the position to glue to.|
 
-### Return value
+## Return value
 
 Nothing
 

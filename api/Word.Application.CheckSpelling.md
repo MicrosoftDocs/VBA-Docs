@@ -23,7 +23,7 @@ Checks a string for spelling errors. Returns a  **Boolean** to indicate whether 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -43,7 +43,7 @@ Checks a string for spelling errors. Returns a  **Boolean** to indicate whether 
 | _CustomDictionary9_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
 | _CustomDictionary10_|Optional| **Variant**|Either an expression that returns a  **Dictionary** object or the file name of an additional custom dictionary.|
 
-### Return value
+## Return value
 
 Boolean
 

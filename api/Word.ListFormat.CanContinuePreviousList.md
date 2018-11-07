@@ -23,7 +23,7 @@ Returns a  **WdContinue** constant (**wdContinueDisabled** , **wdResetList** , o
  _expression_ Required. A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a collection of all the points in the series.
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a collection of all the points in the series.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The name or number of the point.|
 
-### Return value
+## Return value
 
 A  **[Points](PowerPoint.Points.md)** object that represents all the points in the series.
 

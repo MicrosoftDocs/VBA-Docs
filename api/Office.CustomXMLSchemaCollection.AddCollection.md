@@ -23,7 +23,7 @@ Adds an existing schema collection to the current schema collection.
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

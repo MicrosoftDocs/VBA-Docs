@@ -21,7 +21,7 @@ Occurs after a Query table connected to the Data Model is updated on a worksheet
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

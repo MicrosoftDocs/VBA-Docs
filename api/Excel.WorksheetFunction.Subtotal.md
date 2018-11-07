@@ -23,7 +23,7 @@ Creates subtotals.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Creates subtotals.
 | _Arg2_|Required| **Range**|The first  **[Range](Excel.Range(object).md)** object for which a subtotal is to be calculated.|
 | _Arg3-Arg30_|Optional| **Variant**|Subsequent  **[Range](Excel.Range(object).md)** objects for which a subtotal is to be calculated.|
 
-### Return value
+## Return value
 
 A Double value that represents the subtotal.
 

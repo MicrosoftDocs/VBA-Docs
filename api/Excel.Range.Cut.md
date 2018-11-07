@@ -23,7 +23,7 @@ Cuts the object to the Clipboard or pastes it into a specified destination.
  _expression_ An expression that returns a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Cuts the object to the Clipboard or pastes it into a specified destination.
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|The range where the object should be pasted. If this argument is omitted, the object is cut to the Clipboard.|
 
-### Return value
+## Return value
 
 Variant
 

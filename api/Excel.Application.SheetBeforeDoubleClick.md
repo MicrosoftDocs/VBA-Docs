@@ -23,7 +23,7 @@ Occurs when any worksheet is double-clicked, before the default double-click act
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

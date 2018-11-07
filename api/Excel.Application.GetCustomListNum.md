@@ -23,7 +23,7 @@ Returns the custom list number for an array of strings. You can use this method 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the custom list number for an array of strings. You can use this method 
 |:-----|:-----|:-----|:-----|
 | _ListArray_|Required| **Variant**|An array of strings.|
 
-### Return value
+## Return value
 
 Long
 

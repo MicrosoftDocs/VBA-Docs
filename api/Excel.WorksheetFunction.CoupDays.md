@@ -23,7 +23,7 @@ Returns the number of days in the coupon period that contains the settlement dat
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the number of days in the coupon period that contains the settlement dat
 | _Arg3_|Required| **Variant**|The number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg4_|Optional| **Variant**|The type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

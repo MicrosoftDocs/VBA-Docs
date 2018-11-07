@@ -23,7 +23,7 @@ Returns a  **[ScratchArea](Publisher.ScratchArea.md)** object for an a given doc
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 ScratchArea
 

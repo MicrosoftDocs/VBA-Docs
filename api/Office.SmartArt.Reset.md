@@ -20,7 +20,7 @@ Resets the SmartArt graphic to its original state.
  _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
  _expression_ A variable that represents a  **Hyperlinks** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a new  **Hyperlink** object to the specified **Hyperlinks** collection and 
 |PageID|Optional| **Long**|The page ID of the destination page for the new hyperlink. If RelativePage is  **pbHlinkTargetTypePageID**, PageID must be specified or an error occurs. The page ID corresponds to the  **[PageID](Publisher.Hyperlink.PageID.md)** property of the destination page.|
 |TextToDisplay|Optional| **String**|The display text of the new hyperlink. If specified,  **TextToDisplay** replaces the text range specified by the **Text** argument.|
 
-### Return value
+## Return value
 
 Hyperlink
 

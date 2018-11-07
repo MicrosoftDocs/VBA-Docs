@@ -23,7 +23,7 @@ Brings the object to the front of the z-order.
  _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

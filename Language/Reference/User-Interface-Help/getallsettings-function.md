@@ -1,5 +1,5 @@
 ---
-title: GetAllSettings Function
+title: GetAllSettings function
 keywords: vblr6.chm1020903
 f1_keywords:
 - vblr6.chm1020903
@@ -9,22 +9,20 @@ ms.date: 06/08/2017
 ---
 
 
-# GetAllSettings Function
+# GetAllSettings function
 
-
-
-Returns a list of key settings and their respective values (originally created with  **SaveSetting**) from an application's entry in the Windows[registry](../../Glossary/vbe-glossary.md#registry) or (on the Macintosh) information in the application's initialization file.
+Returns a list of key settings and their respective values (originally created with **SaveSetting**) from an application's entry in the Windows [registry](../../Glossary/vbe-glossary.md#registry) or (on the Macintosh) information in the application's initialization file.
 
 ## Syntax
 
-**GetAllSettings( _appname,_** **_section_ )**
-The  **GetAllSettings** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**GetAllSettings( _appname_**, **_section_ )**
 
+The **GetAllSettings** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or [project](../../Glossary/vbe-glossary.md#project) whose key settings are requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
-|**_section_**|Required. String e **xpression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) whose contents is a two-dimensional[array](../../Glossary/vbe-glossary.md#array) of strings containing all the key settings in the specified section and their corresponding values.|
+|**_section_**|Required. String **expression** containing the name of the section whose key settings are requested. **GetAllSettings** returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) whose contents is a two-dimensional [array](../../Glossary/vbe-glossary.md#array) of strings containing all the key settings in the specified section and their corresponding values.|
 
 ## Remarks
 
@@ -32,7 +30,7 @@ The  **GetAllSettings** function syntax has these[named arguments](../../Glossar
 
 ## Example
 
-This example first uses the  **SaveSetting** statement to make entries in the Windows registry for the application specified as **_appname_**, then uses the **GetAllSettings** function to display the settings. Note that application names and **_section_** names can't be retrieved with **GetAllSettings**. Finally, the **DeleteSetting** statement removes the application's entries.
+This example first uses the **SaveSetting** statement to make entries in the Windows registry for the application specified as **_appname_**, and then uses the **GetAllSettings** function to display the settings. Note that application names and **_section_** names can't be retrieved with **GetAllSettings**. Finally, the **DeleteSetting** statement removes the application's entries.
 
 
 ```vb
@@ -49,7 +47,6 @@ MySettings = GetAllSettings(appname := "MyApp", section := "Startup")
         Debug.Print MySettings(intSettings, 0), MySettings(intSettings, 1)
     Next intSettings
 DeleteSetting "MyApp", "Startup"
-
 
 ```
 

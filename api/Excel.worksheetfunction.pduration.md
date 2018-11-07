@@ -21,7 +21,7 @@ Returns the number of periods required by an investment to reach a specified val
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the number of periods required by an investment to reach a specified val
 | _Arg2_|Required|DOUBLE|Present value of the investment.|
 | _Arg3_|Required|DOUBLE|Desired future value of the investment.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

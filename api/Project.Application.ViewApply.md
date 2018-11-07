@@ -23,7 +23,7 @@ Applies a view to the active window.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Applies a view to the active window.
 | _SinglePane_|Optional|**Boolean**|**True** if an existing split is removed and the active window displays a single-pane view. The default value is **False**.|
 | _Toggle_|Optional|**Boolean**|**True** if the active window switches from one pane to two panes, or from two panes to one pane. Toggle is ignored if SinglePane is **True**. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

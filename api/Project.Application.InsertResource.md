@@ -23,7 +23,7 @@ Inserts a new resource in a resource view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Inserts a new resource in a resource view.
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**PjResourceTypes**|Specifies whether the type is a cost, material, or work resource. Can be one of the  **[PjResourceTypes](Project.PjResourceTypes.md)** constants. The default is **pjResourceTypeWork**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

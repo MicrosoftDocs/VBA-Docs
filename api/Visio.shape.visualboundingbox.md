@@ -18,7 +18,7 @@ Returns the bounding rectangle of the given shape. Introduced in Office 2016.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 |||||
@@ -30,7 +30,7 @@ Returns the bounding rectangle of the given shape. Introduced in Office 2016.
 | _lpr8Right_|Required|DOUBLE|Right position values for the virtual bounding box.|
 | _lpr8Top_|Required|DOUBLE|Top position values for the virtual bounding box.|
 
-### Return value
+## Return value
 
  **VOID**
 

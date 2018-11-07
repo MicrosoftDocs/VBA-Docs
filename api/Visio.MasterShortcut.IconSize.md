@@ -23,7 +23,7 @@ Gets or sets the size of a master icon. Read/write.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

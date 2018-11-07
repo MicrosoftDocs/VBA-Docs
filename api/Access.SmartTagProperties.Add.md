@@ -23,7 +23,7 @@ _expression_. `Add`( ` _Name_`, ` _Value_` )
 _expression_ A variable that represents a [SmartTagProperties](Access.SmartTagProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [SmartTagProperties](Access.SmartTagPr
 | _Name_|Required|**String**|The name to be used for the custom property.|
 | _Value_|Required|**Variant**|The value of the custom property.|
 
-### Return value
+## Return value
 
 SmartTagProperty
 

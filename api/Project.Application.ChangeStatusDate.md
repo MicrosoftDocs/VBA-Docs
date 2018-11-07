@@ -23,7 +23,7 @@ Changes the project status date.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Changes the project status date.
 |:-----|:-----|:-----|:-----|
 | _Date_|Optional|**Variant**|New date for the project status date.|
 
-### Return value
+## Return value
 
  **Boolean**
 

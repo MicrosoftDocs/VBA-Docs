@@ -21,7 +21,7 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|RANGE|Reference to the cell you want to test. Reference can be a cell reference, a formula, or name that refers to a cell.|
 
-### Return value
+## Return value
 
  **BOOL**
 

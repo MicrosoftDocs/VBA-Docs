@@ -29,7 +29,7 @@ The  **Selected** property syntax has these parts:
 | _index_|Required. An integer with a range from 0 to one less than the number of items in the list.|
 | _Boolean_|Optional. Whether an item is selected.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

@@ -23,7 +23,7 @@ Prints a label or a page of labels with the same address.
  _expression_ An expression that returns a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -22,7 +22,7 @@ This property allows a user to programmatically query and set the state of the p
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

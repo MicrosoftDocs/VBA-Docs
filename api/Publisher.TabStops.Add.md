@@ -23,7 +23,7 @@ Adds a new tab stop to the specified  **TabStops** collection.
  _expression_ A variable that represents a  **TabStops** object.
 
 
-### Parameters
+## Parameters
 
 
 

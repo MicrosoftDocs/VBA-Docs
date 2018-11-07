@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents a [FileTypes](./Office.FileTypes.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

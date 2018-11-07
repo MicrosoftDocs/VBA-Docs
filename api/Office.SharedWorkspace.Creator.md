@@ -23,7 +23,7 @@ Gets a 32-bit integer that indicates the application in which the  **SharedWorks
  _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

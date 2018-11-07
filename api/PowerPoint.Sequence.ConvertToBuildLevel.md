@@ -23,7 +23,7 @@ Changes the build level information for a specified animation effect. Returns an
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Changes the build level information for a specified animation effect. Returns an
 | _Effect_|Required|**Effect**| The specified animation effect.|
 | _Level_|Required|**[MsoAnimateByLevel](PowerPoint.MsoAnimateByLevel.md)**|The animation build level.|
 
-### Return value
+## Return value
 
 Effect
 

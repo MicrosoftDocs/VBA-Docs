@@ -23,7 +23,7 @@ Returns the distance, in points, from the left edge of the media control boundin
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

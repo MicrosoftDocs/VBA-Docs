@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

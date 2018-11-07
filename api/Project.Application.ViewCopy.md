@@ -23,7 +23,7 @@ Copies the current view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Copies the current view.
 |5|Primary pane, or the Timeline if it is active|
 |
 
-### Return value
+## Return value
 
  **Boolean**
 

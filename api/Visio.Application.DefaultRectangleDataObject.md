@@ -23,7 +23,7 @@ Returns an  **IDataObject** interface that represents the **Rectangle** tool use
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 IDataObject
 

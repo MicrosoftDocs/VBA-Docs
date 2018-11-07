@@ -23,7 +23,7 @@ Returns a random integer number between the numbers you specify. A new random in
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a random integer number between the numbers you specify. A new random in
 | _Arg1_|Required| **Variant**|Bottom - the smallest integer RANDBETWEEN will return.|
 | _Arg2_|Required| **Variant**|Top - the largest integer RANDBETWEEN will return.|
 
-### Return value
+## Return value
 
 Double
 

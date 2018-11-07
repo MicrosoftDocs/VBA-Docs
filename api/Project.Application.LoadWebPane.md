@@ -20,7 +20,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Occurs when Project loads a Web pane for  **Task Drivers**,  **Deliverables**, o
 | _Window_|Required|**Window**|The window from where the  **LoadWebBrowserControl** method was called.|
 | _TargetPage_|Required|**String**|The same TargetPage parameter that was used to call the  **LoadWebBrowserControl** method.|
 
-### Return value
+## Return value
 
 nothing
 

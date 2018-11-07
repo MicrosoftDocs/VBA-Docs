@@ -20,7 +20,7 @@ Returns the date and time that precedes another date by a specified duration, fo
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns the date and time that precedes another date by a specified duration, fo
 | _Duration_|Required|**Variant**|The duration to subtract from the finish date.|
 | _Calendar_|Optional|**Object**|A resource, task, or base calendar object. The default value is the calendar of the active project.|
 
-### Return value
+## Return value
 
  **Variant**
 

@@ -23,7 +23,7 @@ Converts a vertical measurement from points to pixels. Used to return a vertical
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a vertical measurement from points to pixels. Used to return a vertical
 |:-----|:-----|:-----|:-----|
 | _Points_|Required|**Single**|The vertical measurement (in points) to be converted to pixels.|
 
-### Return value
+## Return value
 
 Single
 

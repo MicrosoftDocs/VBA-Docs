@@ -23,7 +23,7 @@ _expression_. `Scale`( ` _flags_`, ` _x1_`, ` _y1_`, ` _x2_`, ` _y2_` )
 _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 | _x2_|Required|**Single**|A value for the horizontal coordinate that defines the position of the lower-right corner of the object.|
 | _y2_|Required|**Single**|A value for the vertical coordinate that defines the position of the lower-right corner of the object.|
 
-### Return value
+## Return value
 
 Nothing
 

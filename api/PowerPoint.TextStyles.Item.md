@@ -23,7 +23,7 @@ Returns a single text style from the specified  **[TextStyles](PowerPoint.TextSt
  _expression_ A variable that represents a [TextStyles](./PowerPoint.TextStyles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single text style from the specified  **[TextStyles](PowerPoint.TextSt
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PpTextStyleType**|The text style type.|
 
-### Return value
+## Return value
 
 TextStyle
 

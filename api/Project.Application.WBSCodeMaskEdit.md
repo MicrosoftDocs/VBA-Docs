@@ -23,7 +23,7 @@ Edits the work breakdown structure (WBS) code mask.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Edits the work breakdown structure (WBS) code mask.
 | _CodeGenerate_|Optional|**Boolean**|**True** if a new WBS code is generated whenever a new task is created.|
 | _VerifyUniqueness_|Optional|**Boolean**|**True** if new WBS codes are verified to be unique.|
 
-### Return value
+## Return value
 
  **Boolean**
 

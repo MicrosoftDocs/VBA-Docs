@@ -19,7 +19,7 @@ Used to include explanatory remarks in a program.
 
 You can also use the following syntax:
  **'**_comment_
-The optional  _comment_[argument](../../Glossary/vbe-glossary.md#argument) is the text of any[comment](../../Glossary/vbe-glossary.md#comment) you want to include. A space is required between the **Rem**[keyword](../../Glossary/vbe-glossary.md#keyword) and _comment_.
+The optional  _comment_ [argument](../../Glossary/vbe-glossary.md#argument) is the text of any[comment](../../Glossary/vbe-glossary.md#comment) you want to include. A space is required between the **Rem**[keyword](../../Glossary/vbe-glossary.md#keyword) and _comment_.
 
 ## Remarks
 

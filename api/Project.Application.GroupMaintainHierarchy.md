@@ -23,7 +23,7 @@ Shows or hides item hierarchy in task views or resource views where a group is a
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides item hierarchy in task views or resource views where a group is a
 |:-----|:-----|:-----|:-----|
 | _On_|Required|**Boolean**|**True** if hierarchy in the current group is maintained. **False** if hierarchy is not maintained.|
 
-### Return value
+## Return value
 
  **Boolean**
 

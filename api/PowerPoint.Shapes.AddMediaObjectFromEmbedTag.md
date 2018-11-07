@@ -23,7 +23,7 @@ Adds a media object from an embedded tag to a  **Shapes** object.
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a media object from an embedded tag to a  **Shapes** object.
 | _Width_|Optional|**Single**|The width, in points, of the media object.|
 | _Height_|Optional|**Single**|The height, in points, of the media object.|
 
-### Return value
+## Return value
 
 Shape
 

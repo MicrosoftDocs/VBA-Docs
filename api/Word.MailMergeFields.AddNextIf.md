@@ -23,7 +23,7 @@ Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField**
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField**
 | _Comparison_|Required| **WdMailMergeComparison**|The operator used in the comparison.|
 | _CompareTo_|Required| **String**|The text to compare with the contents of MergeField.|
 
-### Return value
+## Return value
 
 MailMergeField
 

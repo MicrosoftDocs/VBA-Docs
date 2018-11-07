@@ -23,7 +23,7 @@ Specifies the table style to use for newly created tables in a document.
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns or sets an  **MsoPresetTextEffect** constant that represents the style o
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
-### Return value
+## Return value
 
 MsoPresetTextEffect
 

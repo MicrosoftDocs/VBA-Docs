@@ -23,7 +23,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the s
  _expression_ A variable that represents a '[ValidationRules](Visio.ValidationRules.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that has the s
 |:-----|:-----|:-----|:-----|
 | _NameUOrIndex_|Required| **Variant**|The index number of the object in its collection.|
 
-### Return value
+## Return value
 
  **ValidationRule**
 

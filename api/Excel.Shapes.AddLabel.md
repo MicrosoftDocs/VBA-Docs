@@ -23,7 +23,7 @@ Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents t
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents t
 | _Width_|Required| **Single**|The width of the label, in points.|
 | _Height_|Required| **Single**|The height of the label, in points.|
 
-### Return value
+## Return value
 
 Shape
 

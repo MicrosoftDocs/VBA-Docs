@@ -23,7 +23,7 @@ Returns or sets the fill color for negative data points in a series. Read/write.
  _expression_ A variable that represents a '[Series](Word.Series.md)' object.
 
 
-### Return value
+## Return value
 
 Integer
 

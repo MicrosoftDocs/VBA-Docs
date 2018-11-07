@@ -23,7 +23,7 @@ Displays a button in the  **Show** group of the Microsoft Office Fluent ribbon f
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

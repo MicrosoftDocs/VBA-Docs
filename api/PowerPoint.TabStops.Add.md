@@ -23,7 +23,7 @@ Creates a tab stop and adds it to the  **TabStops** collection.
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a tab stop and adds it to the  **TabStops** collection.
 | _Type_|Required|**PpTabStopType**|The type of the tab stop to be added.|
 | _Position_|Required|**Single**|The position of the tab stop in the tab stops collection.|
 
-### Return value
+## Return value
 
 TabStop
 

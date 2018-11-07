@@ -30,7 +30,7 @@ Version Added: Visio 2000 SR-1
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

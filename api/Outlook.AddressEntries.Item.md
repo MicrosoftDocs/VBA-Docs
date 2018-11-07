@@ -23,7 +23,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object from the collecti
  _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[AddressEntry](Outlook.AddressEntry.md)** object from the collecti
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **AddressEntry** object that represents the specified object.
 

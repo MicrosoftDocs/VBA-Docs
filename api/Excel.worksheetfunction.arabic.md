@@ -21,7 +21,7 @@ Converts a Roman numeral to an Arabic numeral.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Converts a Roman numeral to an Arabic numeral.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|The Roman numeral you want to convert.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

@@ -23,7 +23,7 @@ Inserts a new segment at the end of the freeform that's being created, and adds 
  _expression_ Required. A variable that represents a '[FreeformBuilder](Word.FreeformBuilder.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Occurs when a user selects different items in the  **Next Steps and Related Acti
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Occurs when a user selects different items in the  **Next Steps and Related Acti
 | _ID_|Required|**Long**|The ID of the task in the  **Project Guide** you are trying to display.|
 | _IsGoalArea_|Required|**Boolean**|**True** if trying to change to a different goal area in the **Project Guide**.  **False** if trying to change to a different **Project Guide** task.|
 
-### Return value
+## Return value
 
 nothing
 

@@ -23,7 +23,7 @@ Splits the specified connector with the specified shape. Returns the new duplica
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Splits the specified connector with the specified shape. Returns the new duplica
 | _ConnectorToSplit_|Required| **[Shape](Visio.Shape.md)**|The connector to split. Must be a routable one-dimensional (1-D) connector.|
 | _Shape_|Required| **Shape**|The shape to use to split the connector. Must be a two-dimensional (2-D) shape.|
 
-### Return value
+## Return value
 
  **Shape**
 

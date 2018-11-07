@@ -23,7 +23,7 @@ Defines a friendly name for a custom field.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Defines a friendly name for a custom field.
 | _NewName_|Optional|**String**|The friendly name for the custom field. A value of  **Null** removes the friendly name.|
 | _Phonetic_|Optional|**String**|The phonetic equivalent of the friendly name. The Phonetic argument is ignored unless the Japanese version of Project is used.|
 
-### Return value
+## Return value
 
  **Boolean**
 

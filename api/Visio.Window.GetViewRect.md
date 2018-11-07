@@ -23,7 +23,7 @@ Returns the page coordinates of a window's borders.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the page coordinates of a window's borders.
 | _pdWidth_|Required| **Double**|The distance in page units from the left side to the right side of the window.|
 | _pdHeight_|Required| **Double**|The distance in page units from the top to the bottom of the window.|
 
-### Return value
+## Return value
 
 Nothing
 

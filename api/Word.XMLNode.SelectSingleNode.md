@@ -23,7 +23,7 @@ Returns an  **XMLNode** object that represents the first child element that matc
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns an  **XMLNode** object that represents the first child element that matc
 | _PrefixMapping_|Optional| **String**|Provides the prefix in the schema against which to perform the search. Use the PrefixMapping parameter if your XPath parameter uses names to search for elements.|
 | _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **False** .|
 
-### Return value
+## Return value
 
 XMLNode
 

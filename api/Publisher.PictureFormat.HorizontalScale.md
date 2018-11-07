@@ -23,7 +23,7 @@ Returns a  **Long** that represents the scaling of the picture along its horizon
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 Long
 

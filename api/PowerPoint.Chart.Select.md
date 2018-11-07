@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

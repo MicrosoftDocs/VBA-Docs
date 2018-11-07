@@ -23,7 +23,7 @@ Converts a string or number into an equivalent number in different measurement u
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Converts a string or number into an equivalent number in different measurement u
 | _UnitsIn_|Required| **Variant**|Measurement units to attribute to  _StringOrNumber_.|
 | _UnitsOut_|Required| **Variant**|Measurement units to express the result in.|
 
-### Return value
+## Return value
 
 Double
 

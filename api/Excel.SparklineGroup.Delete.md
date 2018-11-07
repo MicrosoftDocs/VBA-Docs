@@ -23,7 +23,7 @@ Deletes the sparkline group.
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Return value
+## Return value
 
 Nothing
 

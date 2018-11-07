@@ -23,14 +23,14 @@ _expression_. `Intercept`(`Arg1`, `Arg2`)
 _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Known_y's - the dependent set of observations or data.|
 | _Arg2_|Required| **Variant**|Known_x's - the independent set of observations or data.|
 
-### Return value
+## Return value
 
 Double
 

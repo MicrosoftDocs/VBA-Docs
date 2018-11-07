@@ -23,7 +23,7 @@ Returns the  **[SlicerCache](Excel.SlicerCache.md)** object associated with the 
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 SlicerCache
 

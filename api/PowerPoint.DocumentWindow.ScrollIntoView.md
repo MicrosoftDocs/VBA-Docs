@@ -23,7 +23,7 @@ Scrolls the document window so that items within a specified rectangular area ar
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

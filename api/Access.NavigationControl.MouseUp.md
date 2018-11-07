@@ -23,7 +23,7 @@ _expression_. `MouseUp`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NavigationControl](Access.NavigationC
 | _X_|Required|**Single**||
 | _Y_|Required|**Single**||
 
-### Return value
+## Return value
 
 nothing
 

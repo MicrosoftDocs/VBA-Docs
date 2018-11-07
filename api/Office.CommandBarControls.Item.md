@@ -26,7 +26,7 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
  _expression_ Required. A variable that represents a '[CommandBarControls](Office.CommandBarControls.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

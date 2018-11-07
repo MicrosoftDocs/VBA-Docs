@@ -23,7 +23,7 @@ Sets the width of a column to the width of its widest item.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the width of a column to the width of its widest item.
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Long**|A number that specifies the column to adjust. Columns are numbered from left to right, starting with 1. If  **Column** is omitted, Project adjusts the width of the column that contains the active cell.|
 
-### Return value
+## Return value
 
  **Boolean**
 

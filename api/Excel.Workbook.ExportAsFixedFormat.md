@@ -23,7 +23,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) , **Sheet** , **Chart** , or **Range** object.
 
 
-### Parameters
+## Parameters
 
 
 

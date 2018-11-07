@@ -23,7 +23,7 @@ Scrolls through the document window so the specified range or shape is displayed
  _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

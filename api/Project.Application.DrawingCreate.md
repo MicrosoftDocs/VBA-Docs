@@ -23,7 +23,7 @@ Activates the drawing feature.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Activates the drawing feature.
 | _Type_|Required|**Long**|The type of drawing to create. Can be one of the following  **PjShape** constants: **pjOLEObject**, **pjLine**, **pjArrow**, **pjRectangle**, **pjEllipse**, **pjArc**, **pjPolygon**, or **pjTextBox**.|
 | _Behind_|Optional|**Boolean**|**True** if the drawing is created behind task bars. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

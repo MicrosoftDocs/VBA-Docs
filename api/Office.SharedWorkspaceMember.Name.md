@@ -26,7 +26,7 @@ Gets the display name of the shared workspace member. Read-only.
  _expression_ A variable that represents a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
 
 
-### Return value
+## Return value
 
 String
 

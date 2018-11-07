@@ -18,7 +18,7 @@ Pastes the contents of the Clipboard into the  **TextRange2** object.
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return value
+## Return value
 
 TextRange2
 

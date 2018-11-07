@@ -23,7 +23,7 @@ Applies a table to the active view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Applies a table to the active view.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**| The name of the table to apply.|
 
-### Return value
+## Return value
 
  **Boolean**
 

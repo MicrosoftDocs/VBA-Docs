@@ -23,7 +23,7 @@ Occurs just after the focus passes from this control to another control on the s
  _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

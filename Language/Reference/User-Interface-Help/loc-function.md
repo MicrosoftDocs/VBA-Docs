@@ -18,7 +18,7 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the c
 ## Syntax
 
 **Loc(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is any valid [Integer](../../Glossary/vbe-glossary.md#integer-data-type) [file number](../../Glossary/vbe-glossary.md#file-number).
+The required  _filenumber_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [Integer](../../Glossary/vbe-glossary.md#integer-data-type) [file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 

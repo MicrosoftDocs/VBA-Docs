@@ -23,7 +23,7 @@ Occurs when the user changes the visibility of the custom task pane.
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

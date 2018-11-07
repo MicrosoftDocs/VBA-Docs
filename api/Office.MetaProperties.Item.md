@@ -23,7 +23,7 @@ Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-onl
  _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-onl
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **MetaProperty** object to be returned.|
 
-### Return value
+## Return value
 
 MetaProperty
 

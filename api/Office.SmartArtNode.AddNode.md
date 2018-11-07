@@ -20,14 +20,14 @@ _expression_. `AddNode`(`Position`, `Type`)
 _expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Position_|Optional|**MsoSmartArtNodePosition**|Specifies the location of the SmartArtNode in the data model. For example, **msoSmartArtNodeAbove** or **msoSmartArtNodeAfter**.|
 | _Type_|Optional|**MsoSmartArtNodeType**|Specifies the type of the added SmartArtNode. For example,  **msoSmartArtNodeTypeAssistant** or **msoSmartArtNodeTypeDefault**.|
 
-### Return value
+## Return value
 
 SmartArtNode
 

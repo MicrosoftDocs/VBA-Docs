@@ -32,7 +32,7 @@ The  **MouseMove** event syntax has these parts:
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 | _X, Y_|Required. The horizontal or vertical position, measured in points, from the left or top edge of the control.|
 
- **Settings**
+## Settings
 The  _index_ argument specifies which page or tab was clicked over. A _-_ 1 designates that the user did not click on any of the pages or tabs.
 The settings for  _Button_ are:
 

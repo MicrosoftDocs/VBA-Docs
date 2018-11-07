@@ -23,7 +23,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 |:-----|:-----|:-----|:-----|
 | _Comparison_|Required| **Variant**|A single cell to compare to the specified range.|
 
-### Return value
+## Return value
 
 Range
 

@@ -23,7 +23,7 @@ Shows or hides task splits on the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides task splits on the Calendar.
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Boolean**|**True** if task splits appear on the Calendar. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

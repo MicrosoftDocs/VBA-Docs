@@ -23,7 +23,7 @@ Returns a  **Long** that represents the number of records in the data source. Re
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Return value
+## Return value
 
 Long
 

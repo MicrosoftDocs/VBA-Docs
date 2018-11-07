@@ -20,7 +20,7 @@ Assigns a Web page theme to the page you are creating. Read/write.
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return value
+## Return value
 
  **String**
 

@@ -23,7 +23,7 @@ Returns an object that represents either a single PivotTable report (a  **[Pivot
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single PivotTable report (a  **[Pivot
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the report.|
 
-### Return value
+## Return value
 
 Object
 

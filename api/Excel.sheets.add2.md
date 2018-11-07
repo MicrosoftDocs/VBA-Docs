@@ -21,7 +21,7 @@ This method is only implemented for the  **Charts** collection object and will p
  _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ This method is only implemented for the  **Charts** collection object and will p
 | _Count_|Optional|VARIANT|The number of sheets to be added. The default value is one.|
 | _NewLayout_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **OBJECT**
 

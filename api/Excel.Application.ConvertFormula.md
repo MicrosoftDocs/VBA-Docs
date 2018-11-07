@@ -23,7 +23,7 @@ Converts cell references in a formula between the A1 and R1C1 reference styles, 
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Converts cell references in a formula between the A1 and R1C1 reference styles, 
 | _ToAbsolute_|Optional| **Variant**|A constant of  **[XlReferenceType](Excel.XlReferenceType.md)** which specifies the converted reference type. If this argument is omitted, the reference type isn't changed.|
 | _RelativeTo_|Optional| **Variant**|A  **Range** object that contains one cell. Relative references relate to this cell.|
 
-### Return value
+## Return value
 
 Variant
 

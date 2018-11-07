@@ -23,7 +23,7 @@ Sets some display options and Project Guide options.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ Sets some display options and Project Guide options.
 | _SetAsDefaults_|Optional|**Boolean**|**True** if the Project Guide settings for the active project should be used as the default for all new projects. The default value is **False**.|
 | _UseOMIDs_|Optional|**Variant**|**True** if Project uses internal IDs to match different-language or renamed Organizer items between projects. The default is **True**. See also the **[UseOMIDs](Project.Application.UseOMIDs.md)** property.|
 
-### Return value
+## Return value
 
  **Boolean**
 

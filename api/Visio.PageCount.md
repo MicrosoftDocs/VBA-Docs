@@ -20,7 +20,7 @@ Gets the number of pages in the current document that is open in Microsoft Visio
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Long**
 

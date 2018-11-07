@@ -23,7 +23,7 @@ Returns the parent object for the specified object. Read-only
  _expression_ A variable that represents a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

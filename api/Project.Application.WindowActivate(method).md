@@ -23,7 +23,7 @@ Activates a window.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Activates a window.
 | _DialogID_|Optional|**Long**|A constant specifying the dialog box to activate. Can be the following  **[PjDialog](Project.PjDialog.md)** constant: **pjResourceAssignment**.|
 | _TopPane_|Optional|**Boolean**|**True** if Project should activate the upper pane. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

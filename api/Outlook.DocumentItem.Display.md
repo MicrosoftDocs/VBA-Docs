@@ -23,7 +23,7 @@ Displays a new  **[Inspector](Outlook.Inspector.md)** object for the item.
  _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

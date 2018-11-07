@@ -23,7 +23,7 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
  _expression_ Required. A variable that represents a '[TablesOfFigures](Word.tablesoffigures.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -43,7 +43,7 @@ Returns a  **TableOfFigures** object that represents a table of figures added to
 | _UseHyperlinks_|Optional| **Variant**| **True** if entries in a table of figures should be formatted as hyperlinks when publishing to the Web. The default value is **True** .|
 | _HidePageNumbersInWeb_|Optional| **Variant**| **True** if page numbers in a table of figures should be hidden when publishing to the Web. The default value is **True** .|
 
-### Return value
+## Return value
 
 TableOfFigures
 

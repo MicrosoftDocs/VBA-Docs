@@ -21,7 +21,7 @@ Creates a standalone PivotChart from a [PivotCache Object (Excel)](Excel.PivotCa
  _expression_ A variable that represents a [PivotCache Object (Excel)](Excel.PivotCache.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Creates a standalone PivotChart from a [PivotCache Object (Excel)](Excel.PivotCa
 | _Width_|Optional|VARIANT|The width, in points, of the object.|
 | _Height_|Optional|VARIANT|The height, in points, of the object.|
 
-### Return value
+## Return value
 
 [Shape Object (Excel)](Excel.Shape.md) object
 

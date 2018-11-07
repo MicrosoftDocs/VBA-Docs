@@ -1,5 +1,5 @@
 ---
-title: WindowState Property (VBA Add-In Object Model)
+title: WindowState property (VBA Add-In Object Model)
 keywords: vbob6.chm100118
 f1_keywords:
 - vbob6.chm100118
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# WindowState Property (VBA Add-In Object Model)
-
-
+# WindowState property (VBA Add-In Object Model)
 
 Returns or sets a numeric value specifying the visual state of the window. Read/write.
- **Settings**
-The  **WindowState** property returns or sets the following values:
 
+## Settings
+
+The **WindowState** property returns or sets the following values:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|

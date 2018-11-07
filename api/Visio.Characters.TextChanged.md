@@ -23,7 +23,7 @@ Private Sub  _expression_ _'TextChanged'(**_ByVal Shape As [IVSHAPE]_**)
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

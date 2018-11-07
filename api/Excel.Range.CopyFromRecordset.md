@@ -23,7 +23,7 @@ Copies the contents of an ADO or DAO  **Recordset** object onto a worksheet, beg
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Copies the contents of an ADO or DAO  **Recordset** object onto a worksheet, beg
 | _MaxRows_|Optional| **Variant**|The maximum number of records to copy onto the worksheet. If this argument is omitted, all the records in the  **Recordset** object are copied.|
 | _MaxColumns_|Optional| **Variant**|The maximum number of fields to copy onto the worksheet. If this argument is omitted, all the fields in the  **Recordset** object are copied.|
 
-### Return value
+## Return value
 
 Long
 

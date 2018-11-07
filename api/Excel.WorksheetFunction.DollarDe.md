@@ -23,7 +23,7 @@ Converts a dollar price expressed as a fraction into a dollar price expressed as
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Converts a dollar price expressed as a fraction into a dollar price expressed as
 | _Arg1_|Required| **Variant**|Fractional_dollar - is a number expressed as a fraction.|
 | _Arg2_|Required| **Variant**|Fraction - the integer to use in the denominator of the fraction.|
 
-### Return value
+## Return value
 
 Double
 

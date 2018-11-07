@@ -18,7 +18,7 @@ Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) objec
  _expression_ A variable that represents a object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) objec
 |:-----|:-----|:-----|:-----|
 | _ModelTable_|Required|VARIANT|Either a model table name or a model table object.|
 
-### Return value
+## Return value
 
  **WORKBOOKCONNECTION**
 

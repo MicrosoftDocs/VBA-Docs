@@ -23,7 +23,7 @@ _expression_. `SetFocus`
 _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

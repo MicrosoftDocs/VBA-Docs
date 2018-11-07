@@ -23,7 +23,7 @@ Duplicates the object and returns a reference to the new copy.
  _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

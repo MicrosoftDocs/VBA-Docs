@@ -23,7 +23,7 @@ Occurs immediately before any open workbook closes.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs immediately before any open workbook closes.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook that's being closed|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook doesn't close when the procedure is finished.|
 
-### Return value
+## Return value
 
 Nothing
 

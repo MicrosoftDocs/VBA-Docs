@@ -23,7 +23,7 @@ Occurs when a new workbook is created.
  _expression_ An expression that returns a '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

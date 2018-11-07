@@ -23,7 +23,7 @@ Represents the type of color. Read-only.
  _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoColorType
 

@@ -23,7 +23,7 @@ _expression_. `GotFocus`
 _expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
 
 
-### Return value
+## Return value
 
 nothing
 

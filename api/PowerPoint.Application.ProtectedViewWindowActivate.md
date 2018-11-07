@@ -23,7 +23,7 @@ Occurs when any protected view window is activated.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs when any protected view window is activated.
 |:-----|:-----|:-----|:-----|
 | _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that is activated.|
 
-### Return value
+## Return value
 
 Nothing
 

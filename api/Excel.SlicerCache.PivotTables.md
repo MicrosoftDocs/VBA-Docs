@@ -23,7 +23,7 @@ Returns a  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection that c
  _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
-### Return value
+## Return value
 
  **PivotTables**
 

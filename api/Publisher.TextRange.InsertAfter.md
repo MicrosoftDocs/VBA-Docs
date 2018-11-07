@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text a
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text a
 |:-----|:-----|:-----|:-----|
 |NewText|Required| **String**|The text to be inserted.|
 
-### Return value
+## Return value
 
 TextRange
 

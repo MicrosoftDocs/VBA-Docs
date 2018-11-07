@@ -23,7 +23,7 @@ Creates, edits, or copies a single-pane view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Creates, edits, or copies a single-pane view.
 | _Filter_|Optional|**String**|The name of a filter to apply to the view. Required for a new view.|
 | _Group_|Optional|**String**|The name of a group to apply to the view. If a group is required for the view, but none is specified, the default value is "No Group". The Group value is ignored if the view specified with the Screen argument does not use groups.|
 
-### Return value
+## Return value
 
  **Boolean**
 

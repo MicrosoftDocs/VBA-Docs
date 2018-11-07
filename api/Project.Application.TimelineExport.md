@@ -23,7 +23,7 @@ Copies an image of the active Timeline view to the Clipboard, for pasting into o
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Copies an image of the active Timeline view to the Clipboard, for pasting into o
 | _SelectionOnly_|Optional|**Boolean**|**True** if the exported timeline includes only the selected items; otherwise, **False**. The default is **False**, where the entire visible timeline is exported.|
 | _ExportWidth_|Optional|**Long**|Specifies the approximate width in pixels of the exported timeline. Values can effectively range from 100 to 10,000. The default value is the actual width of the Timeline pane in Project.|
 
-### Return value
+## Return value
 
  **Boolean**
 

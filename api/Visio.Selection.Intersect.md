@@ -23,7 +23,7 @@ Creates one closed shape from the area in which selected shapes overlap or inter
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

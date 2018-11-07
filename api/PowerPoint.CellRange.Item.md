@@ -23,7 +23,7 @@ Returns a single  **Cell** object from the specified **CellRange** collection.
  _expression_ A variable that represents a [CellRange](./PowerPoint.CellRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Cell** object from the specified **CellRange** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Cell** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Cell
 

@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) representing the octal value of a number.
 ## Syntax
 
 **Oct** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
+The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
 
 ## Remarks
 

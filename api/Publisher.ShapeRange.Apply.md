@@ -23,7 +23,7 @@ Applies formatting copied from another shape or shape range using the  **[PickUp
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
-### Return value
+## Return value
 
 Nothing
 

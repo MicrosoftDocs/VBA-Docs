@@ -23,7 +23,7 @@ Creates a new workbook. The new workbook becomes the active workbook.
  _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new workbook. The new workbook becomes the active workbook.
 |:-----|:-----|:-----|:-----|
 | _Template_|Optional| **Variant**|Determines how the new workbook is created. If this argument is a string specifying the name of an existing Microsoft Excel file, the new workbook is created with the specified file as a template. If this argument is a constant, the new workbook contains a single sheet of the specified type. Can be one of the following [XlWBATemplate](Excel.XlWBATemplate.md) constants: **xlWBATChart** , **xlWBATExcel4IntlMacroSheet** , **xlWBATExcel4MacroSheet** , or **xlWBATWorksheet** . If this argument is omitted, Microsoft Excel creates a new workbook with a number of blank sheets (the number of sheets is set by the **[SheetsInNewWorkbook](Excel.Application.SheetsInNewWorkbook.md)** property).|
 
-### Return value
+## Return value
 
 A  **[Workbook](Excel.Workbook.md)** object that represents the new workbook.
 

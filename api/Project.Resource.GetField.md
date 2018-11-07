@@ -20,7 +20,7 @@ Returns the value of the specified resource custom field.
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns the value of the specified resource custom field.
 |:-----|:-----|:-----|:-----|
 | _FieldID_|Required|**Long**|For a local custom field, can be one of the  **[PjField](Project.PjField.md)** constants for resource custom fields. For an enterprise custom field, use the **[FieldNameToFieldConstant](Project.Application.FieldNameToFieldConstant.md)** method to get the FieldID.|
 
-### Return value
+## Return value
 
  **String**
 

@@ -28,7 +28,7 @@ The  **TextAlign** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmTextAlign_|Optional. How text is aligned in the control.|
 
- **Settings**
+## Settings
 The settings for  _fmTextAlign_ are:
 
 

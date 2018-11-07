@@ -23,7 +23,7 @@ Returns the name of the data source the slicer is connected to. Read-only
  _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

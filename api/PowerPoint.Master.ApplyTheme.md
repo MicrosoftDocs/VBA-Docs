@@ -23,7 +23,7 @@ Applies a theme or design template to the specified slide master, title master, 
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

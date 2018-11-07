@@ -23,7 +23,7 @@ Returns an  **OMathMatRow** object that represents the specified item in the col
  _expression_ An expression that returns an '[OMathMatRows](Word.OMathMatRows.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **OMathMatRow** object that represents the specified item in the col
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 
-### Return value
+## Return value
 
 OMathMatRow
 

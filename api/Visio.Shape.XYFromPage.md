@@ -23,7 +23,7 @@ Transforms a point expressed in the local coordinate system of its  **Page** or 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Transforms a point expressed in the local coordinate system of its  **Page** or 
 | _xprime_|Required| **Double**| _x_-coordinate in coordinate system of  _object._|
 | _yprime_|Required| **Double**| _y_-coordinate in coordinate system of  _object._|
 
-### Return value
+## Return value
 
 Nothing
 

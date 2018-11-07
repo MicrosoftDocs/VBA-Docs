@@ -23,7 +23,7 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Determines whether a ShapeSheet cell exists in the scope of a search. Read-only.
 | _Column_|Required| **Integer**|The cell's column index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return value
+## Return value
 
 Integer
 

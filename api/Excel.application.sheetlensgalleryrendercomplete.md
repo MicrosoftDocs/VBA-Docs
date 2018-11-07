@@ -21,7 +21,7 @@ Occurs after a callout gallery?s icons (dynamic &; static) have finished renderi
  _expression_ A variable that represents a [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

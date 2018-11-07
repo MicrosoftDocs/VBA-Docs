@@ -23,7 +23,7 @@ Scrolls automatically through the specified pane.
  _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

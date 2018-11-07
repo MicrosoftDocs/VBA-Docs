@@ -23,7 +23,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 | _Code_|Required| **Integer**| **VisFieldCodes** . The code for the new field.|
 | _Format_|Required| **Integer**| **VisFieldFormats** . The format for the new field.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns or sets the caption of the specified slicer. Read/write.
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 String
 

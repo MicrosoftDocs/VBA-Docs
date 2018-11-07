@@ -23,7 +23,7 @@ Returns a Microsoft Office  **Sync** object that provides information about the 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

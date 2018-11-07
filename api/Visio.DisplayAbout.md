@@ -20,7 +20,7 @@ Displays the  **About Microsoft Visio Viewer** dialog box in the Microsoft Visio
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
 Nothing
 

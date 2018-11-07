@@ -16,7 +16,7 @@ Adds a line to a report, and returns a  **Shape** object that represents the lin
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a line to a report, and returns a  **Shape** object that represents the lin
 | _EndY_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

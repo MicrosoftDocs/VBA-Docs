@@ -23,7 +23,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a borderless lin
 |Width|Required| **Variant**|The width of the shape representing the line callout.|
 |Height|Required| **Variant**|The height of the shape representing the line callout.|
 
-### Return value
+## Return value
 
 Shape
 

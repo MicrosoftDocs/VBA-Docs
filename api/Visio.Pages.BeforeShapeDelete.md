@@ -23,7 +23,7 @@ Private Sub  _expression_ _'BeforeShapeDelete'(**_ByVal Shape As [IVSHAPE]_**)
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

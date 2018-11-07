@@ -26,7 +26,7 @@ Links selected shapes to data rows in the specified data recordset automatically
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Links selected shapes to data rows in the specified data recordset automatically
 | _AutoLinkBehavior_|Required| **Long**|A combination of one or more constants from the  **VisAutoLinkBehavior** enumeration that specify how the linking will occur. See Remarks for possible values.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of IDs of shapes (of type  **Long**) that were linked by the method.|
 
-### Return value
+## Return value
 
 Long
 

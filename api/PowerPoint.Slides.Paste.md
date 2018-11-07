@@ -23,7 +23,7 @@ Pastes the slides on the Clipboard into the  **Slides** collection for the prese
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Pastes the slides on the Clipboard into the  **Slides** collection for the prese
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Integer**|The index number of the slide that the slides on the Clipboard are to be pasted before. If this argument is omitted, the slides on the Clipboard are pasted after the last slide in the presentation.|
 
-### Return value
+## Return value
 
 SlideRange
 

@@ -23,7 +23,7 @@ Returns a  **[Columns](PowerPoint.Columns.md)** collection that represents all t
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Return value
+## Return value
 
 Columns
 

@@ -21,7 +21,7 @@ Occurs before a remote user's edits to the workbook are merged.
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 |**Name**|**Required or Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|

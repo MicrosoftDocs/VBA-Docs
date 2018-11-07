@@ -23,7 +23,7 @@ When used without an object qualifier, this property returns an  **Application**
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 
 
-### Return value
+## Return value
 
 Application
 

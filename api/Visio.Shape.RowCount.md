@@ -23,7 +23,7 @@ Returns the number of rows in a ShapeSheet section. Read-only.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the number of rows in a ShapeSheet section. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The section whose rows to count.|
 
-### Return value
+## Return value
 
 Integer
 

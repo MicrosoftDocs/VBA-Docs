@@ -23,7 +23,7 @@ Calculates variance based on the entire population.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Calculates variance based on the entire population.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments that correspond to a population.|
 
-### Return value
+## Return value
 
 Double
 

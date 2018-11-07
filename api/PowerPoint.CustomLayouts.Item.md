@@ -23,7 +23,7 @@ Returns a single object from the specified collection.
  _expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from the specified collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single object in the collection to be returned.|
 
-### Return value
+## Return value
 
 CustomLayout
 

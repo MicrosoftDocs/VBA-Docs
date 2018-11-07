@@ -23,7 +23,7 @@ Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineG
  _expression_ A variable that represents a [SparklineGroups](./Excel.SparklineGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineG
 | _Type_|Required| **XlSparkType**|The type of sparkline.|
 | _SourceData_|Required| **String**|Represents the range to use to create the sparkline.|
 
-### Return value
+## Return value
 
 SparklineGroup
 

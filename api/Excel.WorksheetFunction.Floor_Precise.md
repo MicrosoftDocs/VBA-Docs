@@ -23,7 +23,7 @@ Rounds the specified number to the nearest multiple of significance.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Rounds the specified number to the nearest multiple of significance.
 | _Arg1_|Required| **Double**|Number - the numeric value you want to round.|
 | _Arg2_|Optional| **Variant**|Significance - the multiple to which you want to round.|
 
-### Return value
+## Return value
 
 Double
 

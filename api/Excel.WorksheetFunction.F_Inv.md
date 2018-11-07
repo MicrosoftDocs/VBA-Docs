@@ -23,7 +23,7 @@ Returns the inverse of the F probability distribution.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the inverse of the F probability distribution.
 | _Arg2_|Required| **Double**|Deg_freedom1 - The numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Deg_freedom2 - The denominator degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

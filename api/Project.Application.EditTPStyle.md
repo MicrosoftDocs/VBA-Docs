@@ -23,7 +23,7 @@ Edits the box and border colors of different types of tasks in the Team Planner 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Edits the box and border colors of different types of tasks in the Team Planner 
 | _FillColor_|Optional|**Variant**|Fill color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 | _BorderColor_|Optional|**Variant**|Border color of the specified task type. Can be a hexadecimal RGB value, where red is the last byte.|
 
-### Return value
+## Return value
 
  **Boolean**
 

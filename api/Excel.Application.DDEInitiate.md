@@ -23,7 +23,7 @@ Opens a DDE channel to an application.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Opens a DDE channel to an application.
 | _App_|Required| **String**|The application name.|
 | _Topic_|Required| **String**|Describes something in the application to which you're opening a channel ? usually a document of that application.|
 
-### Return value
+## Return value
 
 Long
 

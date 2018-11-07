@@ -23,7 +23,7 @@ Applies or removes strikethrough formatting from the selected text.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Applies or removes strikethrough formatting from the selected text.
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|**True** if strikethrough formatting is applied to the selected text. **False** if strikethrough formatting is removed from the selected text. The default value is **False** if the selected text has strikethrough formatting and **True** if the selected text does not have strikethrough formatting.|
 
-### Return value
+## Return value
 
  **Boolean**
 

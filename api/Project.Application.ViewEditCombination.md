@@ -23,7 +23,7 @@ Creates, edits, or copies a combination view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Creates, edits, or copies a combination view.
 | _BottomView_|Optional|**String**|The name of the view to display in the lower pane. The view specified by Name displays in the upper pane.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if the view name appears on the **Other Views** drop-down menu. The default value is **False.**|
 
-### Return value
+## Return value
 
  **Boolean**
 

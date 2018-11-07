@@ -21,7 +21,7 @@ Clears the manual filter for the slicer cache.
  _expression_ A variable that represents a [SlicerCache](./Excel.SlicerCache.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

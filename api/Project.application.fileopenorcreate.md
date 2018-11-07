@@ -19,7 +19,7 @@ Opens or creates a project file from a project site on SharePoint, by using the 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Opens or creates a project file from a project site on SharePoint, by using the 
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the file to open or create.|
 
-### Return value
+## Return value
 
  **Boolean**
 

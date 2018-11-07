@@ -23,7 +23,7 @@ Drags a page break out of the print area.
  _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

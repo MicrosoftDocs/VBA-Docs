@@ -23,7 +23,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a shape whose path consists of an elliptical arc defined by the two poin
 | _yEnd_|Required| **Double**|The  _y_-coordinate of the endpoint of the arc.|
 | _SweepFlag_|Required| **VisArcSweepFlags**|The type of arc, concave or convex.|
 
-### Return value
+## Return value
 
 Shape
 

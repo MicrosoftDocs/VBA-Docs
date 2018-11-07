@@ -23,7 +23,7 @@ Gets or sets the flags that specify how you use a  **Color** object. Read/write.
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

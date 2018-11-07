@@ -20,7 +20,7 @@ Determines whether the  **Go to Page** navigation control is displayed in a Web 
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return value
+## Return value
 
  **Long**
 

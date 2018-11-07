@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeColorS
  _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

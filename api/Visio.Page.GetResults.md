@@ -23,7 +23,7 @@ Gets the results or formulas of many cells.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Gets the results or formulas of many cells.
 | _UnitsNamesOrCodes()_|Required| **Variant**| Array of measurement units that results are to be returned in.|
 | _resultArray()_|Required| **Variant**|Array that receives results or formulas of queried cells.|
 
-### Return value
+## Return value
 
 Nothing
 

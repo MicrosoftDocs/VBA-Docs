@@ -19,7 +19,7 @@ Checks out an open project if it is the active project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Checks out an open project if it is the active project.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Sets the languages for the translation service.
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

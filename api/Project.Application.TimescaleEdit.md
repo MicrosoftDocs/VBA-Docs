@@ -23,7 +23,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -51,7 +51,7 @@ Enables changing the scale and format of a timescale in a Gantt chart or other t
 | _TopUseFY_|Optional|**Variant**|Specifies whether to base the top tier labels on the fiscal year. The default value is  **False**.|
 | _TierCount_|Optional|**Variant**|Specifies the number of timescale tiers. The integer value 3 shows all three tiers; the value 2 is default and shows the middle and bottom tiers; the value 1 shows only the middle tier.|
 
-### Return value
+## Return value
 
  **Boolean**
 

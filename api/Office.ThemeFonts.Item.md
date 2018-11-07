@@ -20,7 +20,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
  _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**MsoFontLanguageIndex**|The index value of the  **ThemeFont** object.|
 
-### Return value
+## Return value
 
 ThemeFont
 

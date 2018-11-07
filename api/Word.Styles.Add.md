@@ -23,7 +23,7 @@ Returns a  **HeadingStyle** object that represents a new heading style added to 
  _expression_ Required. A variable that represents a '[Styles](Word.styles.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **HeadingStyle** object that represents a new heading style added to 
 | _Style_|Required| **Variant**|The style you want to add. You can specify this argument by using either the string name for the style or a  **Style** object.|
 | _Level_|Required| **Integer**|A number that represents the level of the heading.|
 
-### Return value
+## Return value
 
 HeadingStyle
 

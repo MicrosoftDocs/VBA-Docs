@@ -21,7 +21,7 @@ Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
  _expression_ A variable that represents a  **ComboBox** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Removes a row from the list in a  **[ComboBox](Outlook.combobox.md)**.
 |:-----|:-----|:-----|:-----|
 |pvargIndex|Required| **Variant**|Specifies the row to delete. The number of the first row is 0; the number of the second row is 1, and so on.|
 
-### Return value
+## Return value
 
 A  **Boolean** that returns **True** if the method succeeds, **False** otherwise.
 

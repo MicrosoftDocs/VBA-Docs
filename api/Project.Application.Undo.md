@@ -23,7 +23,7 @@ Executes an undo action on items in the  **Undo** list.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Executes an undo action on items in the  **Undo** list.
 |:-----|:-----|:-----|:-----|
 | _HowManyUndos_|Optional|**Long**|Specifies the number of items from the list to undo. The default is 1.|
 
-### Return value
+## Return value
 
  **Boolean**
 

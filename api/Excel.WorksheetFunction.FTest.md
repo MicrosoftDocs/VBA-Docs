@@ -27,7 +27,7 @@ For more information about the new function, see the [F_Test](Excel.WorksheetFun
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ For more information about the new function, see the [F_Test](Excel.WorksheetFun
 | _Arg1_|Required| **Variant**|Array1 - the first array or range of data.|
 | _Arg2_|Required| **Variant**|Array2 - the second array or range of data.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Sets up footers for printing.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -63,7 +63,7 @@ Sets up footers for printing.
 |&;[ _Field_Name_ ]|Prints the value of the field specified with  _Field_Name_. If a macro will be run in more than one language, the field specified with _Field_Name_ must use the name localized for each language. An example would be &;[Actual Cost].|
 |
 
-### Return value
+## Return value
 
  **Boolean**
 

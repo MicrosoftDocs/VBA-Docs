@@ -23,7 +23,7 @@ Returns the collection of  **[WorkflowTemplate](./Office.WorkflowTemplate.md)** 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return value
+## Return value
 
 WorkflowTemplates
 

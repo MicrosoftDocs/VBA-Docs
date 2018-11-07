@@ -23,7 +23,7 @@ Occurs when switching from the current project to another project.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs when switching from the current project to another project.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that was deactivated.|
 
-### Return value
+## Return value
 
 nothing
 

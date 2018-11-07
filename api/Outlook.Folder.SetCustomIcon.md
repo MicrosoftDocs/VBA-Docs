@@ -23,7 +23,7 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
  _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

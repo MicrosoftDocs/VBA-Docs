@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object representing the root-level fo
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Return value
+## Return value
 
 A  **Folder** object that represents the folder at the root of that **Store** .
 

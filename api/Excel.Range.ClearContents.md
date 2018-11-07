@@ -23,7 +23,7 @@ Clears formulas and values from the range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

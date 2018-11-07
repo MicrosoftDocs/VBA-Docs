@@ -28,7 +28,7 @@ The  **BoundValue** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The current state or content of the control.|
 
- **Settings**
+## Settings
 
 
 |**Control**|**Description**|

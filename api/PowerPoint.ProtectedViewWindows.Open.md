@@ -23,7 +23,7 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
  _expression_ A variable that represents a [ProtectedViewWindows](./PowerPoint.ProtectedViewWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
 | _ReadPassword_|Optional|**String**|The password to use for the protected file.|
 | _OpenAndRepair_|Optional|**[MSOTRISTATE]**|Indicates whether to repair the file.|
 
-### Return value
+## Return value
 
  **ProtectedViewWindow** object
 

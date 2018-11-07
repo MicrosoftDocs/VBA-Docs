@@ -23,7 +23,7 @@ Gets or sets the width of a palette in pixels. Read/write.
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

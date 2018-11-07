@@ -20,7 +20,7 @@ Occurs before a project is closed.
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs before a project is closed.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that will be closed.|
 
-### Return value
+## Return value
 
 nothing
 

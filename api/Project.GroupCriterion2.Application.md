@@ -20,7 +20,7 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 
 
-### Return value
+## Return value
 
 Application
 

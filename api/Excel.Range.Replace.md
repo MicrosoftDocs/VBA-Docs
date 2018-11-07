@@ -23,7 +23,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 | _SearchFormat_|Optional| **Variant**|The search format for the method.|
 | _ReplaceFormat_|Optional| **Variant**|The replace format for the method.|
 
-### Return value
+## Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Converts a Microsoft Excel name to an object or a value.
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a Microsoft Excel name to an object or a value.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **Variant**|The name of the object, using the naming convention of Microsoft Excel.|
 
-### Return value
+## Return value
 
 Variant
 

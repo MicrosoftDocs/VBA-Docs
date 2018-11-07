@@ -23,7 +23,7 @@ _expression_. `Dirty`( ` _Cancel_`, )
 _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [NavigationControl](Access.NavigationC
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return value
+## Return value
 
 nothing
 

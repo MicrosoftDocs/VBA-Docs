@@ -21,7 +21,7 @@ Returns an equivalent interest rate for the growth of an investment.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an equivalent interest rate for the growth of an investment.
 | _Arg2_|Required|DOUBLE|Present value of the investment.|
 | _Arg3_|Required|DOUBLE|Future value of the investment.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

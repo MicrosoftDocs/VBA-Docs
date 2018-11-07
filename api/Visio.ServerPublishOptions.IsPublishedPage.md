@@ -23,7 +23,7 @@ Returns  **True** if the specified page is designated to be included when the do
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns  **True** if the specified page is designated to be included when the do
 | _PageName_|Required| **String**|The page to check for publish status.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Specifies whether the page name is a local or a universal name.|
 
-### Return value
+## Return value
 
  **Boolean**
 

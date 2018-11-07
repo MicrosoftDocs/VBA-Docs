@@ -23,7 +23,7 @@ Returns a  **[Range](Excel.Range(object).md)** object with information about a d
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -59,7 +59,7 @@ Returns a  **[Range](Excel.Range(object).md)** object with information about a d
 | _Field14_|Optional| **Variant**|The name of a column or row field in the PivotTable report.|
 | _Item14_|Optional| **Variant**|The name of an item in  _Field14_.|
 
-### Return value
+## Return value
 
 Range
 

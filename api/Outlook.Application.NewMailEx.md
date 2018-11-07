@@ -23,7 +23,7 @@ Occurs when a new item is received in the Inbox.
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

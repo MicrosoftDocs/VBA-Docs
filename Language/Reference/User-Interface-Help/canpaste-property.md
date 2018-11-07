@@ -1,5 +1,5 @@
 ---
-title: CanPaste Property
+title: CanPaste property
 keywords: fm20.chm2000850
 f1_keywords:
 - fm20.chm2000850
@@ -11,25 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CanPaste Property
-
-
+# CanPaste property
 
 Specifies whether the Clipboard contains data that the object supports.
 
 ## Syntax
 
 _object_. **CanPaste**
-The  **CanPaste** property syntax has these parts:
 
+The **CanPaste** property syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
- **Return Values**
-The  **CanPaste** property return values are:
+## Return values
 
+The  **CanPaste** property return values are:
 
 |**Value**|**Description**|
 |:-----|:-----|
@@ -39,8 +37,9 @@ The  **CanPaste** property return values are:
 ## Remarks
 
 **CanPaste** is read-only.
+
 If the Clipboard data is in a format that the current [target](../../Glossary/glossary-vba.md#target) object does not support, the **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text, **CanPaste** will be **False**.
 
-## See Also
+## See also
 
-- [GetFormat Method](./getformat-method.md)
+- [GetFormat method](./getformat-method.md)

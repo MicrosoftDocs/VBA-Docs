@@ -23,7 +23,7 @@ Returns or sets an  **MsoRGBType** constant that represents the original RGB col
  _expression_ A variable that represents a  **ColorFormat** object.
 
 
-### Return value
+## Return value
 
 MsoRGBType
 

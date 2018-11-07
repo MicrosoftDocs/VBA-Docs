@@ -23,7 +23,7 @@ Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a  **Shape** object of type **pbWebNavigationBar** to the current page of a
 |Top|Required| **Variant**|The position of the top edge of the shape that represents the Web navigation bar set.|
 |Width|Optional| **Variant**|The width of the shape that represents the Web navigation bar set.|
 
-### Return value
+## Return value
 
 Shape
 

@@ -23,7 +23,7 @@ Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** obj
  _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates and returns a new  **[NavigationGroup](Outlook.NavigationGroup.md)** obj
 |:-----|:-----|:-----|:-----|
 | _GroupDisplayName_|Required| **String**|The value of the  **[Name](Outlook.NavigationGroup.Name.md)** property for the new **NavigationGroup** object.|
 
-### Return value
+## Return value
 
 A  **NavigationGroup** object that represents the new navigation group.
 

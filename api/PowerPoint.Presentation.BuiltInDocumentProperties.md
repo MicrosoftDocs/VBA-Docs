@@ -23,7 +23,7 @@ Returns a  **DocumentProperties** collection that represents all the built-in do
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 DocumentProperties
 

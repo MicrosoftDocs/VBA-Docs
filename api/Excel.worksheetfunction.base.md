@@ -21,7 +21,7 @@ Converts a number into a text representation with the given radix (base).
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a number into a text representation with the given radix (base).
 | _Arg2_|Required|DOUBLE|The base Radix that you want to convert the number into.|
 | _Arg3_|Optional|VARIANT|The minimum length of the returned string. If omitted leading zeros are not added.|
 
-### Return value
+## Return value
 
  **STRING**
 

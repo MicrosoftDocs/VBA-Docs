@@ -23,7 +23,7 @@ Inserts a string preceding the selected characters.
  _expression_ A variable that represents a [Characters](Excel.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Inserts a string preceding the selected characters.
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to insert.|
 
-### Return value
+## Return value
 
 Variant
 

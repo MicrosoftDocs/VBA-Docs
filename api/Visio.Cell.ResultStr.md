@@ -23,7 +23,7 @@ Gets the value of a ShapeSheet cell expressed as a string. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets the value of a ShapeSheet cell expressed as a string. Read-only.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving the value.|
 
-### Return value
+## Return value
 
 String
 

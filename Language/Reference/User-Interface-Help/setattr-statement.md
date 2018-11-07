@@ -1,5 +1,5 @@
 ---
-title: SetAttr Statement
+title: SetAttr statement
 keywords: vblr6.chm1009017
 f1_keywords:
 - vblr6.chm1009017
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SetAttr Statement
+# SetAttr statement
 
 Sets attribute information for a file.
 
@@ -17,17 +17,16 @@ Sets attribute information for a file.
 
 **SetAttr** **_pathname_, _attributes_**
 
-The  **SetAttr** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
-
+The **SetAttr** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
 |**_pathname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
 |**_attributes_**|Required. [Constant](../../Glossary/vbe-glossary.md#constant) or [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes.|
 
- **Settings**
-The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
+## Settings
 
+The **_attributes_** [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -38,7 +37,8 @@ The  **_attributes_**[argument](../../Glossary/vbe-glossary.md#argument) setting
 |**vbArchive**|32|File has changed since last backup.|
 |**vbAlias**|64|Specified file name is an alias. Available only on the Macintosh.|
 
- **Note**  These constants are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
+> [!NOTE] 
+> These constants are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
 ## Remarks
 
@@ -46,8 +46,7 @@ A [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs if you 
 
 ## Example
 
-This example uses the  **SetAttr** statement to set attributes for a file. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden and vbAlias are available.
-
+This example uses the **SetAttr** statement to set attributes for a file. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden, and vbAlias are available.
 
 ```vb
 SetAttr "TESTFILE", vbHidden ' Set hidden attribute. 

@@ -23,7 +23,7 @@ Returns the rank of a number in a list of numbers. The rank of a number is its s
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the rank of a number in a list of numbers. The rank of a number is its s
 | _Arg2_|Required| **Range**|Ref - An array of, or a reference to, a list of numbers. Non-numeric values in reference are ignored.|
 | _Arg3_|Optional| **Variant**|Order - A number that specifies how to rank the number.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Merges the specified subdocuments of a master document into a single subdocument
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

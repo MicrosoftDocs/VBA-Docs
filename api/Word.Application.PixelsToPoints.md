@@ -23,7 +23,7 @@ Converts a measurement from pixels to points. Returns the converted measurement 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Converts a measurement from pixels to points. Returns the converted measurement 
 | _Pixels_|Required| **Single**|The pixel value to be converted to points.|
 | _fVertical_|Optional| **Variant**| **True** to convert vertical pixels; **False** to convert horizontal pixels.|
 
-### Return value
+## Return value
 
 Single
 

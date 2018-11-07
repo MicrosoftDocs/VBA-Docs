@@ -34,7 +34,7 @@ The  **For…Next** statement syntax has these parts:
 
 ## Remarks
 
-The  _step_[argument](../../Glossary/vbe-glossary.md#argument) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
+The  _step_ [argument](../../Glossary/vbe-glossary.md#argument) can be either positive or negative. The value of the _step_ argument determines loop processing as follows:
 
 
 |**Value**|**Loop executes if**|

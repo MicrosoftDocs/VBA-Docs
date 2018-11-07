@@ -23,7 +23,7 @@ Sets the results or formulas of one or more cells.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Sets the results or formulas of one or more cells.
 | _resultArray()_|Required| **Variant**|Out parameter. Results or formulas to be assigned to identified cells.|
 | _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetResults** .|
 
-### Return value
+## Return value
 
 Integer
 

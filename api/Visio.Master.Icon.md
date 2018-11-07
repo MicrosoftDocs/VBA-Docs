@@ -23,7 +23,7 @@ Returns the icon contained in a master. Read/write.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 IPictureDisp
 

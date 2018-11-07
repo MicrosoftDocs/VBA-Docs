@@ -23,7 +23,7 @@ Sets the page coordinates of a window's borders by adjusting the zoom level and 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Sets the page coordinates of a window's borders by adjusting the zoom level and 
 | _dWidth_|Required| **Double**|The distance in page units from the left side to the right side of the window.|
 | _dHeight_|Required| **Double**|The distance in page units from the top to the bottom of the window.|
 
-### Return value
+## Return value
 
 Nothing
 

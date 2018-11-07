@@ -23,7 +23,7 @@ Returns a  **String** that represents the name of the font script being used in 
  _expression_ A variable that represents a  **Font** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **String** that represents the name of the font script being used in 
 |:-----|:-----|:-----|:-----|
 |Script|Required| **PbFontScriptType**|The script name.|
 
-### Return value
+## Return value
 
 String
 

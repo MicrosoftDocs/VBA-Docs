@@ -26,7 +26,7 @@ Private Sub  _expression_ _'ShapeLinkDeleted'(**_ByVal Shape As [IVSHAPE]_** , *
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Offsets a selection a specified amount.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Offsets a selection a specified amount.
 |:-----|:-----|:-----|:-----|
 | _Distance_|Required| **Double**|Specifies the distance to offset the selection.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Opens an existing Microsoft Visio file, using extra information passed in as an 
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Opens an existing Microsoft Visio file, using extra information passed in as an 
 | _FileName_|Required| **String**|The name of the file to open.|
 | _Flags_|Required| **Integer**|Flags that indicate how to open the file.|
 
-### Return value
+## Return value
 
 Document
 

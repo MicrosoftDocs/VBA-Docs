@@ -23,7 +23,7 @@ Sets a character property of a  **Characters** object to a new value. Write-only
  _expression_ An expression that returns a [Characters](./Visio.Characters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets a character property of a  **Characters** object to a new value. Write-only
 |:-----|:-----|:-----|:-----|
 | _CellIndex_|Required| **Integer**|The index of the cell in the Character section to set. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Returns a specific instance of the  **[AppointmentItem](Outlook.AppointmentItem.
  _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a specific instance of the  **[AppointmentItem](Outlook.AppointmentItem.
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required| **Date**|A  **Date** value that represents local time.|
 
-### Return value
+## Return value
 
 An  **AppointmentItem** object that represents the specific appointment on the specified date.
 

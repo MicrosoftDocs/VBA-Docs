@@ -23,7 +23,7 @@ Controls how changes are shown in a shared workbook.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

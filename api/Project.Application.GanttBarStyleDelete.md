@@ -23,7 +23,7 @@ Deletes a Gantt bar style from the active Gantt Chart.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes a Gantt bar style from the active Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _Item_|Required|**String**|**String**. The name or row number of the Gantt bar to delete from the **Bar Styles** dialog box.|
 
-### Return value
+## Return value
 
  **Boolean**
 

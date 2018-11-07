@@ -23,7 +23,7 @@ Determines how a document is protected from user customization. Read/write.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines how a document is protected from user customization. Read/write.
 |:-----|:-----|:-----|:-----|
 | _bstrPassword_|Optional| **Variant**|Not used.|
 
-### Return value
+## Return value
 
 VisProtection
 

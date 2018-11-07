@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents an [ODBCErrors](Excel.ODBCErrors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number for the object.|
 
-### Return value
+## Return value
 
 An  **[ODBCError](Excel.ODBCError.md)** object contained by the collection.
 

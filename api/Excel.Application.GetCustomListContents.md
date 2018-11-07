@@ -23,7 +23,7 @@ Returns a custom list (an array of strings).
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a custom list (an array of strings).
 |:-----|:-----|:-----|:-----|
 | _ListNum_|Required| **Long**|The list number.|
 
-### Return value
+## Return value
 
 Variant
 

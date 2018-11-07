@@ -20,7 +20,7 @@ Private Sub  _expression_ _'QueryCancelSelectionDelete'(**_ByVal selection As [I
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

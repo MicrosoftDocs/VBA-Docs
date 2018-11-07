@@ -23,7 +23,7 @@ Returns a new  **[UniqueValues](Excel.UniqueValues.md)** object representing a c
  _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
-### Return value
+## Return value
 
  **UniqueValues** object
 

@@ -20,7 +20,7 @@ Occurs when the visibility of markup overlays changes in Microsoft Visio Viewer.
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 

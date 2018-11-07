@@ -23,7 +23,7 @@ Levels overallocated resources.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Levels overallocated resources.
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Variant**|**True** if all resources are leveled. **False** if only selected resources are leveled.|
 
-### Return value
+## Return value
 
  **Boolean**
 

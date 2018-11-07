@@ -23,7 +23,7 @@ Deletes the  **CommandBarButton** object from its collection.
  _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

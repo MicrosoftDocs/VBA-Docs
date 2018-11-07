@@ -23,7 +23,7 @@ Imports local resources to the enterprise resource pool, or starts the  **Resour
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Imports local resources to the enterprise resource pool, or starts the  **Resour
 | _LocalRUIDs_|Optional|**String**|A comma-delimited list of the unique ID numbers of the local resources.|
 | _UseImportColumn_|Optional|**Boolean**|**True** if the **EnterpriseResourcesImportEx** method uses the **Import** column.|
 
-### Return value
+## Return value
 
  **Boolean**
 

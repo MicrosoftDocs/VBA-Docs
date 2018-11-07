@@ -23,7 +23,7 @@ Returns a  **KeyBinding** object that represents a new shortcut key for a macro,
  _expression_ Required. A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns a  **KeyBinding** object that represents a new shortcut key for a macro,
 | _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
 | _CommandParameter_|Optional| **Variant**|Additional text, if any, required for the command specified by Command. For details, see the Remarks section below.|
 
-### Return value
+## Return value
 
 KeyBinding
 

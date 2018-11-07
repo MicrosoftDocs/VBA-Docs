@@ -23,7 +23,7 @@ Returns the full build number of the instance used to create the document. Read-
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

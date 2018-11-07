@@ -23,7 +23,7 @@ Returns a  **MenuItem** object from the **MenuItems** collection. Read-only.
  _expression_ A variable that represents a [MenuItems](./Visio.MenuItems.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **MenuItem** object from the **MenuItems** collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Contains the index of the object to retrieve.|
 
-### Return value
+## Return value
 
 MenuItem
 

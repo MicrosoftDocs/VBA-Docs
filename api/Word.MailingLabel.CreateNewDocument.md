@@ -23,7 +23,7 @@ Creates a new label document using either the default label options or ones that
  _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Creates a new label document using either the default label options or ones that
 | _PrintEPostageLabel_|Optional| **Variant**| **True** to print postage using an Internet e-postage vendor.|
 | _Vertical_|Optional| **Variant**| **True** formats text vertically on the label. Used for Asian-language mailing labels.|
 
-### Return value
+## Return value
 
 Document
 

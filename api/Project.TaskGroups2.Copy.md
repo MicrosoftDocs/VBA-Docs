@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
  _expression_ An expression that returns a 'TaskGroups2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
 | _Name_|Required|**String**|The name of the group to copy.|
 | _NewName_|Required|**String**|The name of the new group.|
 
-### Return value
+## Return value
 
  **Group2**
 

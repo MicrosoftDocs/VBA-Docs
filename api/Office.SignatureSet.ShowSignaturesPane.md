@@ -23,7 +23,7 @@ Gets or sets a  **Boolean** value indicating whether the **Signature** task pane
  _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

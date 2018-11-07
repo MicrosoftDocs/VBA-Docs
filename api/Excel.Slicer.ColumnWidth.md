@@ -23,7 +23,7 @@ Returns or sets the width, in points, of each column in the slicer. Read/write
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 Double
 

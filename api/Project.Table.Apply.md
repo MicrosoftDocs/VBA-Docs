@@ -23,7 +23,7 @@ Applies the table to the current view.
  _expression_ An expression that returns a [Table](./Project.Table.md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

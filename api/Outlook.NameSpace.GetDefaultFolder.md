@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object that represents the default fo
 |:-----|:-----|:-----|:-----|
 | _FolderType_|Required| **[OlDefaultFolders](Outlook.OlDefaultFolders.md)**|The type of default folder to return.|
 
-### Return value
+## Return value
 
 A  **Folder** object that represents the default folder of the requested type for the current profile.
 

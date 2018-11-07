@@ -20,7 +20,7 @@ Determines whether the  **Search Pages** control for searching for shapes in a d
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return value
+## Return value
 
  **Long**
 

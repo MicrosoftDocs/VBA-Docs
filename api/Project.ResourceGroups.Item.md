@@ -20,7 +20,7 @@ Gets a single  **Group** object from the **ResourceGroups** collection. Read-onl
  _expression_ A variable that represents a 'ResourceGroups' object.
 
 
-### Parameters
+## Parameters
 
 
 

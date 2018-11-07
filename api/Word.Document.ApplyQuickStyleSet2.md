@@ -23,7 +23,7 @@ Applies the specified Quick Style set to the document.
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a  **Shape** object that represents an empty picture frame inserted at t
 |Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set to 72 points if the parameter is left blank.|
 |Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the height of the shape is automatically set to 54 points if the parameter is left blank.|
 
-### Return value
+## Return value
 
 Shape
 

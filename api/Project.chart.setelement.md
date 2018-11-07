@@ -16,7 +16,7 @@ Adds the specified element to a chart or to a selected object on a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -24,7 +24,7 @@ Adds the specified element to a chart or to a selected object on a chart.
 |:-----|:-----|:-----|:-----|
 | _RHS_|Required|**MsoChartElementType**|One of the enumeration constants for the chart element type to add.|
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -23,7 +23,7 @@ Returns a  **String** that represents the default folder for publications. Read.
  _expression_ A variable that represents a  **Options** object.
 
 
-### Return value
+## Return value
 
 String
 

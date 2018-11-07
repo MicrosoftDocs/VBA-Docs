@@ -23,7 +23,7 @@ Removes the effects of leveling.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes the effects of leveling.
 |:-----|:-----|:-----|:-----|
 | _All_|Optional|**Boolean**|**True** if delays are removed from all tasks. **False** if delays are removed from selected tasks only.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a  **[Table](Outlook.Table.md)** object that represents all of the Micro
  _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
-### Return value
+## Return value
 
 A  **Table** whose rows represent items in the current table view.
 

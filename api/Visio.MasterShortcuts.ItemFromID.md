@@ -23,7 +23,7 @@ Returns an item of a collection using the ID of the item. Read-only.
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an item of a collection using the ID of the item. Read-only.
 |:-----|:-----|:-----|:-----|
 | _nID_|Required| **Long**|The ID of the object to retrieve.|
 
-### Return value
+## Return value
 
 MasterShortcut
 

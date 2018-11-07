@@ -23,7 +23,7 @@ Specifies an array of object types and a  **True** or **False** value indicating
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies an array of object types and a  **True** or **False** value indicating
 |:-----|:-----|:-----|:-----|
 | _Objects()_|Required| **Long**|An array of objects types and a  **True** or **False** value specifying how to filter events for each object type.|
 
-### Return value
+## Return value
 
 Nothing
 

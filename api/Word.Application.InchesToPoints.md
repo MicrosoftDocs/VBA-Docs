@@ -23,7 +23,7 @@ Converts a measurement from inches to points (1 inch = 72 points). Returns the c
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 

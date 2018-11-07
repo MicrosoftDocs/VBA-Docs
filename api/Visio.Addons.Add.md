@@ -23,7 +23,7 @@ Adds a new  **Addon** object to an **Addons** collection.
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new  **Addon** object to an **Addons** collection.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the add-on.|
 
-### Return value
+## Return value
 
 Addon
 

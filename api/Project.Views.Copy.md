@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **Views** collection and returns a r
  _expression_ A variable that represents a 'Views' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **Views** collection and returns a r
 | _Source_|Required|**String**|The name of the view to copy.|
 | _NewName_|Required|**String**|The name of the new view.|
 
-### Return value
+## Return value
 
  **View**
 

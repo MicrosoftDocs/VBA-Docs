@@ -23,7 +23,7 @@ Returns the normal distribution for the specified mean and standard deviation. T
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the normal distribution for the specified mean and standard deviation. T
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of the distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NORM_DIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return value
+## Return value
 
 Double
 

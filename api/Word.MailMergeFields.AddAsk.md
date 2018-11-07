@@ -23,7 +23,7 @@ Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** o
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** o
 | _DefaultAskText_|Optional| **Variant**|The default response, which appears in the text box when the dialog box is displayed. Corresponds to the \d switch for an ASK field.|
 | _AskOnce_|Optional| **Variant**| **True** to display the dialog box only once instead of each time a new record is merged. Corresponds to the \o switch for an ASK field.|
 
-### Return value
+## Return value
 
 MailMergeField
 

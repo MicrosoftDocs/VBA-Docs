@@ -23,7 +23,7 @@ Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that r
  _expression_ Required. A variable that represents an '[EmailSignatureEntries](Word.EmailSignatureEntries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that r
 | _Name_|Required| **String**|The name of the e-mail entry.|
 | _Range_|Required| **Range**|The range in the document that will be added as the signature.|
 
-### Return value
+## Return value
 
 EmailSignatureEntry
 

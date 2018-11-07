@@ -23,7 +23,7 @@ Adds a file to the list of recently used files.
  _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a file to the list of recently used files.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The file name.|
 
-### Return value
+## Return value
 
 A  **[RecentFile](Excel.RecentFile.md)** object contained by the collection.
 

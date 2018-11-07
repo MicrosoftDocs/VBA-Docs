@@ -26,7 +26,7 @@ Gets  **True** if the specified command bar is a built-in command bar of the con
  _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

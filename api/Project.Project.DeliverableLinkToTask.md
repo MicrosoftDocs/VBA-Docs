@@ -20,7 +20,7 @@ Links a deliverable to a task.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Links a deliverable to a task.
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable to link.|
 | _TaskGuid_|Required|**String**|The GUID of the task to link.|
 
-### Return value
+## Return value
 
  **Boolean**
 

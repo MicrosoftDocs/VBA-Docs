@@ -23,7 +23,7 @@ Sets up margins for printing.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Sets up margins for printing.
 | _Right_|Optional|**Long**|The size of the right margin in inches or centimeters.|
 | _Borders_|Optional|**Long**|Where to print borders. Can be one of the following  **PjBorder** constants: **pjNoBorder**, **pjAroundEveryPage**, or **pjOutsidePages**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

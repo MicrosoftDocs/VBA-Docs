@@ -23,7 +23,7 @@ Returns an individual  **ProtectedViewWindows** object in a collection.
  _expression_ An expression that returns a [ProtectedViewWindows](./Word.ProtectedViewWindows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **ProtectedViewWindows** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned. |
 
-### Return value
+## Return value
 
 ProtectedViewWindow
 

@@ -23,7 +23,7 @@ Adds a new  **Shape** object representing a text box to the specified **Shapes**
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a new  **Shape** object representing a text box to the specified **Shapes**
 |Width|Required| **Variant**|The width of the shape representing the text box.|
 |Height|Required| **Variant**|The height of the shape representing the text box.|
 
-### Return value
+## Return value
 
 Shape
 

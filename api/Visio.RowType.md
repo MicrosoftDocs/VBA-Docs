@@ -23,7 +23,7 @@ Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Ta
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Gets or sets the type of a row in a Geometry, Connection Points, Controls, or Ta
 | _Section_|Required| **Integer**|The index of the section that contains the row.|
 | _Row_|Required| **Integer**|The index of the row.|
 
-### Return value
+## Return value
 
 Integer
 

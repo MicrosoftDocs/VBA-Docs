@@ -23,7 +23,7 @@ Returns the logarithm of a number to the base you specify.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the logarithm of a number to the base you specify.
 | _Arg1_|Required| **Double**|Number - the positive real number for which you want the logarithm.|
 | _Arg2_|Optional| **Variant**|Base - the base of the logarithm. If base is omitted, it is assumed to be 10.|
 
-### Return value
+## Return value
 
 Double
 

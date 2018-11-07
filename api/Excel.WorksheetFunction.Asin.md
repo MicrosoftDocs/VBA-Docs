@@ -23,7 +23,7 @@ Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whos
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whos
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|The sine of the angle you want and must be from -1 to 1.|
 
-### Return value
+## Return value
 
 Double
 

@@ -22,7 +22,7 @@ _expression_. **TextStylesEx** (**_Item_**, **_Font_**, **_Size_**, **_Bold_**, 
 _expression_ A variable that represents an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -118,7 +118,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-### Return value
+## Return value
 
  **Boolean**
 

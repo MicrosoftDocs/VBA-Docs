@@ -23,7 +23,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
 | _Width_|Required|**Single**|The width of the text box, measured in points.|
 | _Height_|Required|**Single**| The height of the text box, measured in points.|
 
-### Return value
+## Return value
 
 Shape
 

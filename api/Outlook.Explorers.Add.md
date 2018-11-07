@@ -23,7 +23,7 @@ Creates a new instance of the explorer window.
  _expression_ A variable that represents an [Explorers](./Outlook.Explorers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new instance of the explorer window.
 | _Folder_|Required| **Variant**|The  **Variant** object to display in the explorer window when it is created.|
 | _DisplayMode_|Optional| **Long**|The display mode of the folder. Can be one of the  **[OlFolderDisplayMode](Outlook.OlFolderDisplayMode.md)** constants.|
 
-### Return value
+## Return value
 
 An  **[Explorer](Outlook.Explorer.md)** object that represents a new instance of the window.
 

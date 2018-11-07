@@ -23,7 +23,7 @@ Applies the changes that have been made in a custom property page.
  _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
-### Return value
+## Return value
 
 An HRESULT value that represents the response of the event.
 

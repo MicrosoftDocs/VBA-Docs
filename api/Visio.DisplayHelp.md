@@ -20,7 +20,7 @@ Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Displays the Help topic that has the specified ID in Microsoft Visio Viewer.
 |:-----|:-----|:-----|:-----|
 |TopicID|Required| **Long**|The ID of the Help topic to display.|
 
-### Return value
+## Return value
 
 Nothing
 

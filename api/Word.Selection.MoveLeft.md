@@ -23,7 +23,7 @@ Moves the selection to the left and returns the number of units it has been move
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

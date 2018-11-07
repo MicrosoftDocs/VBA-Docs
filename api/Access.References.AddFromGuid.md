@@ -23,7 +23,7 @@ _expression_. `AddFromGuid`( ` _Guid_`, ` _Major_`, ` _Minor_` )
 _expression_ A variable that represents a [References](Access.References.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents a [References](Access.References.md) obj
 | _Major_|Required|**Long**|The major version number of the reference.|
 | _Minor_|Required|**Long**|The minor version number of the reference.|
 
-### Return value
+## Return value
 
 Reference
 

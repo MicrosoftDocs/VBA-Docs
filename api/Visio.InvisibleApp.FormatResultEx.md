@@ -22,7 +22,7 @@ _expression_. `FormatResultEx`(`StringOrNumber`, `UnitsIn`, `UnitsOut`, `Format`
 _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +34,7 @@ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.m
 | _CalendarID_|Optional| **Long**|he calendar to use for the result string. The default value is the Western calendar, **visCalWestern**.|
 
 
-### Return value
+## Return value
 
 String
 

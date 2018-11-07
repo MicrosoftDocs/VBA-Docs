@@ -23,7 +23,7 @@ Returns an individual  **Frames** object in a collection.
  _expression_ An expression that returns a [Frames](./Word.Frames.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **Frames** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned.|
 
-### Return value
+## Return value
 
 Frame
 

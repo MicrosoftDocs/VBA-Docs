@@ -23,7 +23,7 @@ Occurs when a view has been removed from the specified collection.
  _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
  _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **[Column](Outlook.Column.md)** .|
 
-### Return value
+## Return value
 
 A  **Variant** that represents the value of a property (as specified by _Index_ ) of an item (as specified by the parent **Row**).
 

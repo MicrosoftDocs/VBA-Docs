@@ -23,7 +23,7 @@ Private Sub  _expression_ _'MasterDeleteCanceled'(**_ByVal Master As [IVMASTER]_
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

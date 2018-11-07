@@ -23,7 +23,7 @@ Returns the value, description, or phonetic spelling of an item in the value lis
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the value, description, or phonetic spelling of an item in the value lis
 | _Item_|Required|**Long**|The information to return. Can be one of the following  **PjValueListItem** constants: **pjValueListValue**, **pjValueListDescription**, or **pjValueListPhonetics**. The default value is **pjValueListValue**.|
 | _Index_|Required|**Long**|The row number of the value list item for which to return the information specified with Item.|
 
-### Return value
+## Return value
 
  **String**
 

@@ -23,7 +23,7 @@ Specifies whether the  **Links between Projects** dialog box appears when openin
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies whether the  **Links between Projects** dialog box appears when openin
 |:-----|:-----|:-----|:-----|
 | _AcceptAll_|Optional|**Boolean**|**True** if all changes to external predecessors and successors are accepted. **False** if the **Links between Projects** dialog box appears. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

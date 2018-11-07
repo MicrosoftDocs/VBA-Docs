@@ -23,7 +23,7 @@ Represents whether an object returns to its beginning position after an animatio
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

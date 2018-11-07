@@ -23,7 +23,7 @@ Gets or sets the degree of transparency of the color represented by the parent  
  _expression_ A variable that represents a  **ColorFormat** object.
 
 
-### Return value
+## Return value
 
 Single
 

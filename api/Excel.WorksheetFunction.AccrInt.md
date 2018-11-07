@@ -23,7 +23,7 @@ Returns the accrued interest for a security that pays periodic interest.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Returns the accrued interest for a security that pays periodic interest.
 | _Arg6_|Required| **Variant**|Frequency - Number of coupon payments per year.|
 | _Arg7_|Optional| **Variant**|Basis - The type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Returns the inverse of the Fisher transformation. Use this transformation when a
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the inverse of the Fisher transformation. Use this transformation when a
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|y - the value for which you want to perform the inverse of the transformation.|
 
-### Return value
+## Return value
 
 Double
 

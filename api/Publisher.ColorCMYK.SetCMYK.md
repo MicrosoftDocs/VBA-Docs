@@ -23,7 +23,7 @@ Sets a cyan-magenta-yellow-black (CMYK) color value.
  _expression_ A variable that represents a  **ColorCMYK** object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the
  _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the
 |:-----|:-----|:-----|:-----|
 | _ModuleType_|Required| **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)**|The type of navigation module to be retrieved.|
 
-### Return value
+## Return value
 
 A  **NavigationModule** object that represents the navigation module with the specified navigation module type.
 

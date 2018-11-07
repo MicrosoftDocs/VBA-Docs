@@ -23,7 +23,7 @@ Reverses an object by flipping it both horizontally and vertically.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

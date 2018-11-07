@@ -21,7 +21,7 @@ Returns a single object from the  **ModelTables** collection.
  _expression_ A variable that represents a [ModelTables Object (Excel)](Excel.modeltables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns a single object from the  **ModelTables** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name of the object.|
 
-### Return value
+## Return value
 
  **MODELTABLE**
 

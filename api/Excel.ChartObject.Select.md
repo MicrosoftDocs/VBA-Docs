@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Selects the object.
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional| **Variant**| **True** to replace the current selection with the specified object. **False** to extend the current selection to include any previously selected objects and the specified object.|
 
-### Return value
+## Return value
 
 Variant
 

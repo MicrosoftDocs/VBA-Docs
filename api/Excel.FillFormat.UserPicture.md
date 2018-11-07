@@ -23,7 +23,7 @@ Fills the specified shape with an image.
  _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

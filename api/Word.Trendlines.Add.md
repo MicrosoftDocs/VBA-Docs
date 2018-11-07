@@ -23,7 +23,7 @@ Creates a new trendline.
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -42,7 +42,7 @@ Creates a new trendline.
 | _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default is **False** .|
 | _Name_|Optional| **Variant**|The name of the trendline. If omitted, Microsoft Word generates a name, and the  **[NameIsAuto](Word.Trendline.NameIsAuto.md)** property of the resulting **[Trendline](Word.Trendline.md)** object is set to **True** .|
 
-### Return value
+## Return value
 
 A  **[Trendline](Word.Trendline.md)** object that represents the new trendline.
 

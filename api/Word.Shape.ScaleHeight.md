@@ -23,7 +23,7 @@ Scales the height of the shape by a specified factor.
  _expression_ Required. A variable that represents a '[Shape](Word.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

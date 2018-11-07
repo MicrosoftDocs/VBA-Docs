@@ -23,7 +23,7 @@ Determines whether the e-mail message header is visible in the document window. 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -23,7 +23,7 @@ Returns the  **[Shape](Visio.Shape.md)** object that is associated with the vali
  _expression_ A variable that represents a '[ValidationIssue](Visio.ValidationIssue.md)' object.
 
 
-### Return value
+## Return value
 
  **Shape**
 

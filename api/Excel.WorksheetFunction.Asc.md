@@ -23,7 +23,7 @@ For Double-byte character set (DBCS) languages, changes full-width (double-byte)
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ For Double-byte character set (DBCS) languages, changes full-width (double-byte)
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The text or a reference to a cell that contains the text you want to change. If text does not contain any full-width letters, text is not changed.|
 
-### Return value
+## Return value
 
 String
 

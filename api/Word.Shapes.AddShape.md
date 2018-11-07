@@ -23,7 +23,7 @@ Adds an AutoShape to a document. Returns a  **[Shape](Word.Shape.md)** object th
  _expression_ Required. A variable that represents a '[Shapes](Word.shapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds an AutoShape to a document. Returns a  **[Shape](Word.Shape.md)** object th
 | _Width_|Required| **Single**|The width, measured in points, of the AutoShape.|
 | _Height_|Required| **Single**|The height, measured in points, of the AutoShape.|
 
-### Return value
+## Return value
 
  **Shape**
 

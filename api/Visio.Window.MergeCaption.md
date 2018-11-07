@@ -23,7 +23,7 @@ Gets or sets the abbreviated caption that appears on the page tab when the windo
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 String
 

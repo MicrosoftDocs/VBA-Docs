@@ -23,7 +23,7 @@ Returns the DOM object of a specified frame in the Web browser control window ho
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the DOM object of a specified frame in the Web browser control window ho
 |:-----|:-----|:-----|:-----|
 | _FrameName_|Required|**Long**|The ID of the frame.|
 
-### Return value
+## Return value
 
  **[IHTMLDOCUMENT2]**
 

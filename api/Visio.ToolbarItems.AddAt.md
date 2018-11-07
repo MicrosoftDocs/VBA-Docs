@@ -23,7 +23,7 @@ Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new  **ToolbarItem** object at a specified index in the **ToolbarItems
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index at which to add the object.|
 
-### Return value
+## Return value
 
 ToolbarItem
 

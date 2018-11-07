@@ -23,7 +23,7 @@ Deletes the specified shape node object.
  _expression_ A variable that represents a  **ShapeNodes** object.
 
 
-### Parameters
+## Parameters
 
 
 

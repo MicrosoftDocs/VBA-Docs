@@ -23,7 +23,7 @@ Determines whether alerts appear when a macro runs.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Determines whether alerts appear when a macro runs.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if Project displays error messages when a macro runs. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

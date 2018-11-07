@@ -23,7 +23,7 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
  _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **KeyBinding** object that represents the specified custom key combin
 | _KeyCode_|Required| **Long**|A key you specify by using one of the  **WdKey** constants.|
 | _KeyCode2_|Optional| **Variant**|A second key you specify by using one of the  **WdKey** constants.|
 
-### Return value
+## Return value
 
 KeyBinding
 

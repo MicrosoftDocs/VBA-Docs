@@ -23,7 +23,7 @@ Applies a rule as a one-off operation.
  _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

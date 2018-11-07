@@ -23,7 +23,7 @@ Returns the gamma distribution. You can use this function to study variables tha
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the gamma distribution. You can use this function to study variables tha
 | _Arg3_|Required| **Double**|Beta - a parameter to the distribution. If beta = 1, GAMMA_DIST returns the standard gamma distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, GAMMA_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return value
+## Return value
 
 Double
 

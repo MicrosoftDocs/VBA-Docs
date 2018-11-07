@@ -23,7 +23,7 @@ Promotes a range in an outline (that is, decreases its outline level). The speci
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

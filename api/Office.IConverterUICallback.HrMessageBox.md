@@ -23,7 +23,7 @@ This feature is only available in the Open XML Format SDK.
  _expression_ An expression that returns a [IConverterUICallback](./Office.IConverterUICallback.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ This feature is only available in the Open XML Format SDK.
 | _uType_|Required|**[UINT]**||
 | _pidResult_|Required|**[INT]**||
 
-### Return value
+## Return value
 
 [HRESULT]
 

@@ -23,7 +23,7 @@ Moves the specified section to the specified index position, moving the slides i
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

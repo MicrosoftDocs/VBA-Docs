@@ -20,7 +20,7 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection.
  _expression_ An expression that returns a 'GroupCriteria2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Adds a  **GroupCriterion2** object to the **GroupCriteria2** collection.
 | _StartAt_|Optional|**Variant**|The start of the intervals in a group definition. The default value is 0 for all fields except date fields, where it is the string "Project Start Date".|
 | _GroupInterval_|Optional|**Variant**|The interval in a group definition. The default value is 1.|
 
-### Return value
+## Return value
 
 GroupCriterion2
 

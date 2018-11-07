@@ -23,7 +23,7 @@ _expression_. **FileOpenEx** (**_Name_**, **_ReadOnly_**, **_Merge_**, **_TaskIn
 _expression_ A variable that represents an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -67,7 +67,7 @@ _expression_ A variable that represents an **Application** object.
 
 
 
-### Return value
+## Return value
 
  **Boolean**
 

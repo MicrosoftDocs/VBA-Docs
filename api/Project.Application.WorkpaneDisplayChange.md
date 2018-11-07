@@ -20,7 +20,7 @@ Occurs when the Project Guide is hidden or shown.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs when the Project Guide is hidden or shown.
 |:-----|:-----|:-----|:-----|
 | _DisplayState_|Required|**Boolean**|**True** if the **Project Guide** is shown. **False** if the **Project Guide** is hidden.|
 
-### Return value
+## Return value
 
 nothing
 

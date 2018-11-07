@@ -23,7 +23,7 @@ _expression_. `NavigateTo`( ` _Category_`, ` _Group_` )
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

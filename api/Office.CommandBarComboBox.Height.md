@@ -23,7 +23,7 @@ Gets or sets the height of a  **CommandBarComboBox** control. Read/write.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

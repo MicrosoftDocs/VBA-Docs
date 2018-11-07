@@ -23,7 +23,7 @@ Inserts a blank row above the selected task row or cell in a Gantt chart.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

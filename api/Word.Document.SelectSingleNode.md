@@ -23,7 +23,7 @@ Returns an  **XMLNode** object that represents the first node that matches the X
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns an  **XMLNode** object that represents the first node that matches the X
 | _PrefixMapping_|Optional| **Variant**|Provides the prefix in the schema against which to perform the search. Use the PrefixMapping parameter if your XPath parameter uses names to search for elements.|
 | _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **True** .|
 
-### Return value
+## Return value
 
 XMLNode
 

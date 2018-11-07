@@ -23,7 +23,7 @@ Occurs immediately before any open presentation closes, as it is removed from th
  _expression_ An expression that returns a [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

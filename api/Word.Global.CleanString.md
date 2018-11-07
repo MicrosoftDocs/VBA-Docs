@@ -23,7 +23,7 @@ Removes nonprinting characters (character codes 1 ? 29) and special Word charact
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
  _expression_ A variable that represents a  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 |:-----|:-----|:-----|:-----|
 |Type|Required| **MsoFileDialogType**| The type of dialog box.|
 
-### Return value
+## Return value
 
 FileDialog
 

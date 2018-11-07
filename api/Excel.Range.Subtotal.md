@@ -23,7 +23,7 @@ Creates subtotals for the range (or the current region, if the range is a single
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 | _PageBreaks_|Optional| **Variant**| **True** to add page breaks after each group. The default value is **False** .|
 | _SummaryBelowData_|Optional| **[XlSummaryRow](Excel.XlSummaryRow.md)**|. Places the summary data relative to the subtotal.|
 
-### Return value
+## Return value
 
 Variant
 

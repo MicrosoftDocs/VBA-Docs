@@ -20,7 +20,7 @@ Gets a value that indicates whether the layer at the specified index in the draw
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Gets a value that indicates whether the layer at the specified index in the draw
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
-### Return value
+## Return value
 
  **Boolean**
 

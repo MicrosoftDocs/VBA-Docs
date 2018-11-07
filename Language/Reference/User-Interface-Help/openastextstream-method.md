@@ -30,7 +30,7 @@ The  **OpenAsTextStream** method syntax has these parts:
 | _iomode_|Optional. Indicates input/output mode. Can be one of three constants:  **ForReading**, **ForWriting**, or **ForAppending**.|
 | _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
- **Settings**
+## Settings
 The  _iomode_ argument can have any of the following settings:
 
 

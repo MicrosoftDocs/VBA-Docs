@@ -23,7 +23,7 @@ Returns the path of the source file that is open in the specified  **Protected V
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

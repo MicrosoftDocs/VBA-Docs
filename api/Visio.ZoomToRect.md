@@ -20,7 +20,7 @@ Zooms to display a rectanglular section, specified by the parameters, of the dra
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Zooms to display a rectanglular section, specified by the parameters, of the dra
 |Right|Required| **Long**|The x-coordinate of the bottom right corner of the rectangle to zoom to.|
 |Bottom|Required| **Long**|The y-coordinate of the bottom right corner of the rectangle to zoom to.|
 
-### Return value
+## Return value
 
 Nothing
 

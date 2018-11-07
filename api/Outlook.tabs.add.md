@@ -21,7 +21,7 @@ Adds a  **[Tab](Outlook.tab.md)** to a **[Tabs](Outlook.tabs.md)** collection.
  _expression_ A variable that represents a  **Tabs** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a  **[Tab](Outlook.tab.md)** to a **[Tabs](Outlook.tabs.md)** collection.
 |bstrCaption|Optional| **Variant**|Specifies the caption to appear on a tab. If a caption is not specified, the system generates a default caption based on the rules of the application where the form is used.|
 |lIndex|Optional| **Variant**|Identifies the position of a tab within a  **Tabs** collection. If an index is not specified, the system appends the page to the end of the **Tabs** collection and assigns the appropriate index value.|
 
-### Return value
+## Return value
 
 A  **Tab** object that represents the added tab.
 

@@ -23,7 +23,7 @@ Represents a  **ODSOFilter** object in the **ODSOFilters** collection.
  _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Represents a  **ODSOFilter** object in the **ODSOFilters** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The number of the item.|
 
-### Return value
+## Return value
 
 Object
 

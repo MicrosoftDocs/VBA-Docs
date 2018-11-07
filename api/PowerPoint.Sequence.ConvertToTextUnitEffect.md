@@ -23,7 +23,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents how text s
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents how text s
 | _Effect_|Required|**Effect**|The animation effect to which the text unit effect applies.|
 | _unitEffect_|Required|**[MsoAnimTextUnitEffect](PowerPoint.MsoAnimTextUnitEffect.md)**|How the text should be animated.|
 
-### Return value
+## Return value
 
 Effect
 

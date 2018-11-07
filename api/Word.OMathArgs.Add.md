@@ -23,7 +23,7 @@ Inserts an argument into an equation with variable number of arguments (**OMathD
  _expression_ An expression that returns a [OMathArgs](./Word.OMathArgs.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Inserts an argument into an equation with variable number of arguments (**OMathD
 |:-----|:-----|:-----|:-----|
 | _BeforeArg_|Optional| **Variant**|An existing argument before which to add the new argument.|
 
-### Return value
+## Return value
 
 OMath
 

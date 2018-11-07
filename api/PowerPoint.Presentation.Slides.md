@@ -23,7 +23,7 @@ Returns a  **[Slides](PowerPoint.Slides.md)** collection that represents all sli
  _expression_ A variable that represents a [PlaySettings](./PowerPoint.PlaySettings.md) object.
 
 
-### Return value
+## Return value
 
 Slides
 

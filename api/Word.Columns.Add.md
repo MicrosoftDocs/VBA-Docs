@@ -23,7 +23,7 @@ Returns a  **Column** object that represents a column added to a table.
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Column** object that represents a column added to a table.
 |:-----|:-----|:-----|:-----|
 | _BeforeColumn_|Optional| **Variant**|A  **Column** object that represents the column that will appear immediately to the right of the new column.|
 
-### Return value
+## Return value
 
 Column
 

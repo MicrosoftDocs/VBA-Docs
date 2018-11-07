@@ -21,7 +21,7 @@ Enables you to take the contents and formatting of a single data label and apply
  _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ If the source data label supports fields that are incompatible with the destinat
  **Note**  Passing an argument of zero (0) resets the data labels to your current prototype.
 
 
-### Return value
+## Return value
 
  **VOID**
 

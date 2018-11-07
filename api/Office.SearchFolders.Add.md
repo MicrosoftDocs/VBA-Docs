@@ -23,7 +23,7 @@ Adds a search folder to a file search.
  _expression_ Required. A variable that represents a '[SearchFolders](Office.SearchFolders.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

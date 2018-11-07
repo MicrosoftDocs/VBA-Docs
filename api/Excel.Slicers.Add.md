@@ -23,7 +23,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
  _expression_ A variable that represents a [Slicers](./Excel.Slicers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 | _Width_|Optional| **Variant**|The initial width, in points, of the slicer control.|
 | _Height_|Optional| **Variant**|The initial height, in points, of the slicer control.|
 
-### Return value
+## Return value
 
 Slicer
 

@@ -23,7 +23,7 @@ Returns the last object in the  **[AddressEntries](Outlook.AddressEntries.md)** 
  _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
-### Return value
+## Return value
 
 An  **[AddressEntry](Outlook.AddressEntry.md)** object that represents the last object contained by the collection.
 

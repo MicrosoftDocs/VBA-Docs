@@ -23,7 +23,7 @@ Shows or hides the related summary rows.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides the related summary rows.
 |:-----|:-----|:-----|:-----|
 | _On_|Required|**Boolean**|**True** if summary rows are shown; otherwise, **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

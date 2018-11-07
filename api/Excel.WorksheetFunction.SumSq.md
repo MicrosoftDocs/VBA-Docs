@@ -23,7 +23,7 @@ Returns the sum of the squares of the arguments.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the sum of the squares of the arguments.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want the sum of the squares. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Double
 

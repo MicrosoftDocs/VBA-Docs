@@ -23,7 +23,7 @@ Returns or sets what method to use to allocate values when performing what-if an
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
-### Return value
+## Return value
 
  **[XlAllocationMethod](Excel.XlAllocationMethod.md)**
 

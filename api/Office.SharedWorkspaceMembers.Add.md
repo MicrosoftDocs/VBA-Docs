@@ -26,7 +26,7 @@ Adds a member to the list of members in a shared workspace site. Returns a  **[S
  _expression_ Required. A variable that represents a '[SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

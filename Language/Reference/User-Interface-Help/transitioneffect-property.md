@@ -28,7 +28,7 @@ The  **TransitionEffect** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmTransitionEffect_|Optional. The transition effect you want between pages.|
 
- **Settings**
+## Settings
 The settings for  _fmTransitionEffect_ are:
 
 

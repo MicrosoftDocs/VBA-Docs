@@ -23,7 +23,7 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
  _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
 |:-----|:-----|:-----|:-----|
 | _varIndex_|Required|**Variant**|The index number of the item.|
 
-### Return value
+## Return value
 
 Object
 

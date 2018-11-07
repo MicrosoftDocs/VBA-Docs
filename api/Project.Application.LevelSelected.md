@@ -23,7 +23,7 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 |:-----|:-----|:-----|:-----|
 | _ResolveMethod_|Optional|**PjLevelSelectedOption**|Specifies what to resolve in the leveling process. Can be a  **[PjLevelSelectedOption](Project.PjLevelSelectedOption.md)** constant. The default is **pjResolveSelectedTasks**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

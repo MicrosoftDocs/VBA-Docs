@@ -23,7 +23,7 @@ Draws tracer arrows to the direct precedents of the range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Draws tracer arrows to the direct precedents of the range.
 |:-----|:-----|:-----|:-----|
 | _Remove_|Optional| **Variant**| **True** to remove one level of tracer arrows to direct precedents. **False** to expand one level of tracer arrows. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

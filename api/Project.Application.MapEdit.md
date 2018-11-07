@@ -23,7 +23,7 @@ Creates or edits an import/export map.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -50,7 +50,7 @@ Creates or edits an import/export map.
 | _IncludeImage_|Optional|**Boolean**|**True** if a reference to an image file should be included when exporting to HTML. The default value is **False**.|
 | _ImageFile_|Optional|**String**|The name of an image file to include when exporting to HTML.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
 | _Context_|Required| **Variant**|Either a  **String** value or a **[Folder](Outlook.Folder.md)** object representing the sharing context to be used.|
 | _Provider_|Optional| **Variant**|An  **[OlSharingProvider](Outlook.OlSharingProvider.md)** value representing the sharing provider to be used.|
 
-### Return value
+## Return value
 
 A  **SharingItem** object that represents a sharing message for the specified context.
 

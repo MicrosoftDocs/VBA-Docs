@@ -23,7 +23,7 @@ Sets the target type for the specified hyperlink.
  _expression_ A variable that represents a  **Hyperlink** object.
 
 
-### Parameters
+## Parameters
 
 
 

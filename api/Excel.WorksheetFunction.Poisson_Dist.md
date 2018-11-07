@@ -23,7 +23,7 @@ Returns the Poisson distribution. A common application of the Poisson distributi
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the Poisson distribution. A common application of the Poisson distributi
 | _Arg2_|Required| **Double**|Mean - The expected numeric value.|
 | _Arg3_|Required| **Boolean**|Cumulative - A logical value that determines the form of the probability distribution returned. If cumulative is TRUE, POISSON_DIST returns the cumulative Poisson probability that the number of random events occurring will be between 0 (zero) and x inclusive; if FALSE, it returns the Poisson probability mass function that the number of events occurring will be exactly x.|
 
-### Return value
+## Return value
 
 Double
 

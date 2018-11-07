@@ -23,7 +23,7 @@ Occurs before the  **Sharing** dialog box is displayed for a selected **[Folder]
  _expression_ An expression that returns a [Application](./Outlook.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

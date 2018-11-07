@@ -23,14 +23,14 @@ _expression_. `IsDependentUpon`( ` _ObjectType_`, ` _ObjectName_` )
 _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**AcObjectType**|An **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of database object to check for dependency.|
 | _ObjectName_|Required|**String**|The name of the database object to check for dependency.|
 
-### Return value
+## Return value
 
 Boolean
 

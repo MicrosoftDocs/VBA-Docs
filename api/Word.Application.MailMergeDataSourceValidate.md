@@ -23,7 +23,7 @@ Private Sub  _expression_ _'MailMergeDataSourceValidate'(**_ByVal Doc As Documen
  _expression_ A variable that represents an '[Application](Word.Application.md)' object that has been declared with events in a class module.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Inserts a new segment after the specified node of the freeform.
  _expression_ A variable that represents an [ShapeNodes](./PowerPoint.ShapeNodes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -20,7 +20,7 @@ Inserts text to the left of the existing text in the  **TextRange2** object.
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Inserts text to the left of the existing text in the  **TextRange2** object.
 |:-----|:-----|:-----|:-----|
 | _NewText_|Optional|**String**|Contains the text to be inserted.|
 
-### Return value
+## Return value
 
 TextRange2
 

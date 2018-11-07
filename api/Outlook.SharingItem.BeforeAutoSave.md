@@ -20,7 +20,7 @@ Occurs before the  **[SharingItem](Outlook.SharingItem.md)** is automatically sa
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

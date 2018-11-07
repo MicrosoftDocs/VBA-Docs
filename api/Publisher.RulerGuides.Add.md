@@ -23,7 +23,7 @@ Adds a new ruler guide to the specified  **RulerGuides** collection.
  _expression_ A variable that represents a  **RulerGuides** object.
 
 
-### Parameters
+## Parameters
 
 
 

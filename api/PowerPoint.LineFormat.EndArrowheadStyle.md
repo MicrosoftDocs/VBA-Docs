@@ -23,7 +23,7 @@ Returns or sets the style of the arrowhead at the end of the specified line. Rea
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoArrowheadStyle
 

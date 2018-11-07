@@ -23,7 +23,7 @@ Inserts the specified XML into the document at the cursor, replacing any selecte
  _expression_ An expression that returns a [Selection](./Word.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Inserts the specified XML into the document at the cursor, replacing any selecte
 | _XML_|Required| **String**|Specifies the XML to insert. This can be any valid custom XML.|
 | _Transform_|Optional| **Variant**|Specifies the XML Transformation (XSLT) used to transform the XML. If omitted, the XML is inserted as custom XML without applying a transform.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns an array of slide IDs for the specified named slide show. Read-only.
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Returns the name of the custom slide show that's currently running in the specif
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return value
+## Return value
 
 String
 

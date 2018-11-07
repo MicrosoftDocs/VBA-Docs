@@ -23,7 +23,7 @@ Gets or sets the position of a master name in a stencil window. Read/write.
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

@@ -26,7 +26,7 @@ Returns the  **DataRecordset** object at the specified index position in the **D
  _expression_ A variable that represents a [DataRecordsets](./Visio.DataRecordsets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the  **DataRecordset** object at the specified index position in the **D
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to retrieve.|
 
-### Return value
+## Return value
 
 DataRecordset
 

@@ -23,7 +23,7 @@ Returns the specified  **Zoom** object.
  _expression_ Required. A variable that represents a '[Zooms](Word.zooms.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the specified  **Zoom** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdViewType**|The specified zoom type.|
 
-### Return value
+## Return value
 
 Zoom
 

@@ -19,7 +19,7 @@ If the specified shape does not contain a ink object more than one ink object oc
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 A  **String** that contains the InkActionML associated with the specified shape.
 

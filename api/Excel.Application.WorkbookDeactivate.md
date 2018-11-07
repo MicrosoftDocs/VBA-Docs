@@ -23,7 +23,7 @@ Occurs when any open workbook is deactivated.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs when any open workbook is deactivated.
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 
-### Return value
+## Return value
 
 Nothing
 

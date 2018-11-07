@@ -1,5 +1,5 @@
 ---
-title: CanRedo Property
+title: CanRedo property
 keywords: fm20.chm2000860
 f1_keywords:
 - fm20.chm2000860
@@ -11,25 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CanRedo Property
-
-
+# CanRedo property
 
 Indicates whether the most recent Undo can be reversed.
 
 ## Syntax
 
 _object_. **CanRedo**
-The  **CanRedo** property syntax has these parts:
 
+The **CanRedo** property syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
- **Return Values**
-The  **CanRedo** property return values are:
+## Return values
 
+The **CanRedo** property return values are:
 
 |**Value**|**Description**|
 |:-----|:-----|
@@ -39,21 +37,22 @@ The  **CanRedo** property return values are:
 ## Remarks
 
 **CanRedo** is read-only.
+
 To Redo an action means to reverse an Undo; it does not necessarily mean to repeat the last user action.
+
 The following user actions illustrate using Undo and Redo:
 
-
-1. Change the setting of an option button.
+- Change the setting of an option button.
     
-2. Enter text into a text box.
+- Enter text into a text box.
     
-3. Click Undo. The text disappears from the text box.
+- Click **Undo**. The text disappears from the text box.
     
-4. Click Undo. The option button reverts to its previous setting.
+- Click **Undo**. The option button reverts to its previous setting.
     
-5. Click Redo. The value of the option button changes.
+- Click **Redo**. The value of the option button changes.
     
-6. Click Redo. The text reappears in the text box.
+- Click **Redo**. The text reappears in the text box.
     
 
 

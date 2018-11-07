@@ -23,7 +23,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
  _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the  **CustomXMLPart** object to be returned.|
 
-### Return value
+## Return value
 
 CustomXMLPart
 

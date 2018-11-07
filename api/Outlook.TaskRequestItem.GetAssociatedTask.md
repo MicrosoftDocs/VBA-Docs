@@ -23,7 +23,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
  _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[TaskItem](Outlook.TaskItem.md)** object that represents the reques
 |:-----|:-----|:-----|:-----|
 | _AddToTaskList_|Required| **Boolean**| **True** if the task is added to the default **Tasks** folder.|
 
-### Return value
+## Return value
 
 A  **TaskItem** object that represents the requested task.
 

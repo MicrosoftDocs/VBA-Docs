@@ -23,7 +23,7 @@ Returns a  **[Tags](PowerPoint.Tags.md)** object that represents the tags for th
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 Tags
 

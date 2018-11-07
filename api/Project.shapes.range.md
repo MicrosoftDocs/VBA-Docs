@@ -16,7 +16,7 @@ Returns a  **ShapeRange** object that represents a subset of shapes in the **Sha
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Returns a  **ShapeRange** object that represents a subset of shapes in the **Sha
 | _Index_|Required|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **ShapeRange**
 

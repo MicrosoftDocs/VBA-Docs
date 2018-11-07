@@ -23,7 +23,7 @@ Returns or sets the first slide to be displayed in the specified slide show. Rea
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

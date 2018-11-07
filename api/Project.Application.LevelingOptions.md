@@ -23,7 +23,7 @@ Specifies leveling options for the active project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ Specifies leveling options for the active project.
 | _LevelingCanSplit_|Optional|**Boolean**|**True** if leveling can create splits in remaining work.|
 | _LevelProposedBookings_|Optional|**Boolean**|**True** if leveling includes proposed resource bookings.|
 
-### Return value
+## Return value
 
  **Boolean**
 

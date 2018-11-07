@@ -16,7 +16,7 @@ Cuts the shape to the Clipboard.
  _expression_ A variable that represents a 'Shape' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

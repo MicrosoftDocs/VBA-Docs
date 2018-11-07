@@ -23,7 +23,7 @@ Discards changes to the specified cell in a PivotTable report.
  _expression_ A variable that represents a '[PivotCell](Excel.PivotCell.md)' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

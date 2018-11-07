@@ -23,7 +23,7 @@ Sets or returns a  **PbWizardNavBarAlignment** constant that represents the hori
  _expression_ A variable that represents a  **WebNavigationBarSet** object.
 
 
-### Return value
+## Return value
 
 PbWizardNavBarAlignment
 

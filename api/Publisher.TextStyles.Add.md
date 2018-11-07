@@ -23,7 +23,7 @@ Adds a new  **TextStyle** object to the specified **TextStyles** object and retu
  _expression_ A variable that represents a  **TextStyles** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a new  **TextStyle** object to the specified **TextStyles** object and retu
 |Font|Optional| **Font**|The font settings to apply to the new text style.|
 |ParagraphFormat|Optional| **ParagraphFormat**|The paragraph formatting to apply to the new text style.|
 
-### Return value
+## Return value
 
 TextStyle
 

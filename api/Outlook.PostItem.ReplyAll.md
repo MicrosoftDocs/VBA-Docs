@@ -20,7 +20,7 @@ Occurs when the user selects the  **ReplyAll** action for an item (which is an i
  _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

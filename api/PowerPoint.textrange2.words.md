@@ -18,7 +18,7 @@ Gets a  **TextRange2** object that represents the specified subset of text words
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Gets a  **TextRange2** object that represents the specified subset of text words
 | _Start_|Optional|**Long**|The first word in the returned range.|
 | _Length_|Optional|**Long**|The number of words to be returned.|
 
-### Return value
+## Return value
 
 TextRange2
 

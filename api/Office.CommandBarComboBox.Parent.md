@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return value
+## Return value
 
 CommandBar
 

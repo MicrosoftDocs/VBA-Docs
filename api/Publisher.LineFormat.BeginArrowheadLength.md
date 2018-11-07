@@ -23,7 +23,7 @@ Returns or sets an  **MsoArrowheadLength**constant indicating the length of the 
  _expression_ A variable that represents a  **LineFormat** object.
 
 
-### Return value
+## Return value
 
 MsoArrowheadLength
 

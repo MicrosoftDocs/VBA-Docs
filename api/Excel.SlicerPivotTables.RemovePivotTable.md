@@ -23,7 +23,7 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.Slicer
  _expression_ A variable that represents a [SlicerPivotTables](./Excel.SlicerPivotTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.Slicer
 |:-----|:-----|:-----|:-----|
 | _PivotTable_|Required| **Variant**|A  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable to remove, or the name or index of the PivotTable in the collection.|
 
-### Return value
+## Return value
 
 Nothing
 

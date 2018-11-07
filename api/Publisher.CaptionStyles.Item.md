@@ -20,7 +20,7 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
  _expression_ A variable that represents a  **CaptionStyles** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The index number in the collection of the caption style to return.|
 
-### Return value
+## Return value
 
 CaptionStyle
 

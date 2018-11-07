@@ -20,7 +20,7 @@ Unloads the Web browser control and returns to the regular Project interface.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

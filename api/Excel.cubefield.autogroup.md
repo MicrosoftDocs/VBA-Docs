@@ -21,7 +21,7 @@ Automatically groups the cube fields in an OLAP cube, optionally in the specifie
  _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

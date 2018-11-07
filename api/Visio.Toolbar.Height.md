@@ -23,7 +23,7 @@ Gets or sets the height of a toolbar. Read/write.
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

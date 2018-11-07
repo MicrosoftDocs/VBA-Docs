@@ -23,7 +23,7 @@ Returns a  **Footnote** object that represents a footnote added to a range.
  _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a  **Footnote** object that represents a footnote added to a range.
 | _Reference_|Optional| **Variant**|The text for the custom reference mark. If this argument is omitted, Microsoft Word inserts an automatically-numbered reference mark.|
 | _Text_|Optional| **Variant**|The text of the endnote or footnote.|
 
-### Return value
+## Return value
 
 Footnote
 

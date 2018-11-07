@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ An expression that returns a [TabStop2](./Office.TabStop2.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

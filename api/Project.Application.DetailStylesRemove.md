@@ -23,7 +23,7 @@ Removes a timescale data field from a usage view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes a timescale data field from a usage view.
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Long**|The timescale data field to remove. The default value is  **pjWork**.If the active view is the Resource Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants. If the active view is the Task Usage view, can be one of the **[PjTimescaledData](Project.PjTimescaledData.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

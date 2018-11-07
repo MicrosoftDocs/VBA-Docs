@@ -23,7 +23,7 @@ Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collecti
  _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collecti
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the zero-based index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **ItemProperty** object that represents the specified object.
 

@@ -23,7 +23,7 @@ Opens a page in design mode in the inspector for the specified form region.
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens a page in design mode in the inspector for the specified form region.
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|A full local file path to the Outlook Form Storage (.OFS) file for the form region that is to be opened in the inspector.|
 
-### Return value
+## Return value
 
 An  **Object** that represents the page displaying the form region in the inspector.
 

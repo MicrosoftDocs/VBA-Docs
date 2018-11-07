@@ -16,7 +16,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Creates a chart at the specified location on the active report. Returns a  **Sha
 | _NewLayout_|Optional|BOOL||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

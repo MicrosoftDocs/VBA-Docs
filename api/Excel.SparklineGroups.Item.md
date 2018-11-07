@@ -23,7 +23,7 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
  _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object from a collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the position of an element in the collection.|
 
-### Return value
+## Return value
 
 SparklineGroup
 

@@ -23,7 +23,7 @@ _expression_. **Replace** (**_Field_**, **_Test_**, **_Value_**, **_Replacement_
 _expression_ A variable that represents an **Application** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -57,7 +57,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-### Return value
+## Return value
 
  **Boolean**
 

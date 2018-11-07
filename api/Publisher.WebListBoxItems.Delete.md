@@ -23,7 +23,7 @@ Deletes the specified hidden Web field or Web list box item object.
  _expression_ A variable that represents a  **WebListBoxItems** object.
 
 
-### Parameters
+## Parameters
 
 
 

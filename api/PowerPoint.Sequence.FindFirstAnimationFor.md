@@ -23,7 +23,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 |:-----|:-----|:-----|:-----|
 | _Shape_|Required|**[Shape](PowerPoint.Shape.md)**|The shape for which to find the first animation.|
 
-### Return value
+## Return value
 
 Effect
 

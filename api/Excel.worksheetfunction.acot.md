@@ -21,7 +21,7 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The cotangent of the angle you want.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

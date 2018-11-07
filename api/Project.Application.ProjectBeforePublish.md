@@ -20,7 +20,7 @@ Occurs before a  **Publish** operation is placed on the server queue. The **Proj
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Occurs before a  **Publish** operation is placed on the server queue. The **Proj
 | _pj_|Required|**Project**|Project object.|
 | _Cancel_|Required|**Boolean**|**True** to cancel the **Publish** job.|
 
-### Return value
+## Return value
 
 Nothing
 

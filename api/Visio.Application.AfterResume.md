@@ -20,7 +20,7 @@ Occurs when the operating system resumes normal operation after having been susp
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the depreciation of an asset for a specified period using the fixed-decl
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns the depreciation of an asset for a specified period using the fixed-decl
 | _Arg4_|Required| **Double**|Period - the period for which you want to calculate the depreciation. Period must use the same units as life.|
 | _Arg5_|Optional| **Variant**|Month - the number of months in the first year. If month is omitted, it is assumed to be 12.|
 
-### Return value
+## Return value
 
 Double
 

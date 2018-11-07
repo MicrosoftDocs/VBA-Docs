@@ -26,7 +26,7 @@ Gets the date and time when the  **SharedWorkspaceFile** object was last modifie
  _expression_ A variable that represents a [SharedWorkspaceFile](./Office.SharedWorkspaceFile.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

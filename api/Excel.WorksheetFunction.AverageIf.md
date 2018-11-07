@@ -23,7 +23,7 @@ Returns the average (arithmetic mean) of all the cells in a range that meet a gi
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the average (arithmetic mean) of all the cells in a range that meet a gi
 | _Arg2_|Required| **Variant**|The criteria in the form of a number, expression, cell reference, or text that defines which cells are averaged. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 | _Arg3_|Optional| **Variant**|The actual set of cells to average. If omitted, range is used.|
 
-### Return value
+## Return value
 
 Double
 

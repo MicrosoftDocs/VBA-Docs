@@ -26,7 +26,7 @@ Estimates variance based on a sample.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Estimates variance based on a sample.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a sample of a population.|
 
-### Return value
+## Return value
 
 Double
 

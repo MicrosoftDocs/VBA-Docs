@@ -23,7 +23,7 @@ Returns the universal names of all items in an  **Addons** collection.
  _expression_ A variable that represents an [Addons](./Visio.Addons.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the universal names of all items in an  **Addons** collection.
 |:-----|:-----|:-----|:-----|
 | _NameArray()_|Required| **String**|Out parameter. An array that receives the names of members of the indicated object.|
 
-### Return value
+## Return value
 
 Nothing
 

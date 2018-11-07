@@ -21,7 +21,7 @@ The  **Cancel** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the object is the Cancel button.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

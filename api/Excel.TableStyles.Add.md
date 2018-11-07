@@ -23,7 +23,7 @@ Creates a new  **[TableStyle](Excel.TableStyle.md)** object and adds it to the c
  _expression_ A variable that represents a [TableStyles](./Excel.TableStyles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new  **[TableStyle](Excel.TableStyle.md)** object and adds it to the c
 |:-----|:-----|:-----|:-----|
 | _TableStyleName_|Required| **String**|The name of the table style.|
 
-### Return value
+## Return value
 
 TableStyle
 

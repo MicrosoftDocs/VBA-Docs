@@ -23,7 +23,7 @@ Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistribution
  _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

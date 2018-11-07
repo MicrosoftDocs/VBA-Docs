@@ -23,7 +23,7 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
 | _MoveCompleted_|Optional|**Boolean**|**True** if the completed parts of tasks are moved to the status date; otherwise, **False**. The default is **False**.|
 | _MoveIncomplete_|Optional|**Boolean**|**True** if the incomple parts of tasks are moved to the status date; otherwise, **False**. The default is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

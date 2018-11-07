@@ -23,7 +23,7 @@ Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
  _expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **MenuSet** object from the **MenuSets** collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|Contains the index of the object to retrieve.|
 
-### Return value
+## Return value
 
 MenuSet
 

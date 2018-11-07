@@ -21,7 +21,7 @@ The  **Circle** method draws a circle, an ellipse, or an arc on a **Report** obj
 _expression_. **Circle** (** _Step_** (** _x, y_**), ** _radius_**, ** _color_**, ** _start_**, ** _end_**, ** _aspect_**)
 
 
-### Parameters
+## Parameters
 
  _Step_ A **keyword** that indicates that the center of the circle, ellipse, or arc is relative to the current coordinates given by the current settings for the **CurrentX** < and **CurrentY** properties of the object argument.
 

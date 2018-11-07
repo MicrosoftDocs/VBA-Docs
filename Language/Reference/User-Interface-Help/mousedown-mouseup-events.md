@@ -30,7 +30,7 @@ The  **MouseDown** and **MouseUp** event syntaxes have these parts:
 | _Shift_|Required. The state of SHIFT, CTRL, and ALT.|
 | _X, Y_|Required. The horizontal or vertical position, in points, from the left or top edge of the form,  **Frame**, or **Page**.|
 
- **Settings**
+## Settings
 The settings for  _Button_ are:
 
 

@@ -23,7 +23,7 @@ Occurs when a  **[Store](Outlook.Store.md)** has been added to the current sessi
  _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

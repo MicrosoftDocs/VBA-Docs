@@ -1,5 +1,5 @@
 ---
-title: Mode Property (VBA Add-In Object Model)
+title: Mode property (VBA Add-In Object Model)
 keywords: vbob6.chm102148
 f1_keywords:
 - vbob6.chm102148
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Mode Property (VBA Add-In Object Model)
-
-
+# Mode property (VBA Add-In Object Model)
 
 Returns a value containing the mode of the specified [project](../../Glossary/vbe-glossary.md#project). Read-only.
- **Return Values**
-The  **Mode** property return values are:
 
+## Return values
+
+The **Mode** property return values are:
 
 |**Constant**|**Description**|
 |:-----|:-----|

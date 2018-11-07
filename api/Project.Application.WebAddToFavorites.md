@@ -23,7 +23,7 @@ Adds a link to the current document or selection to the Favorites folder for the
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a link to the current document or selection to the Favorites folder for the
 |:-----|:-----|:-----|:-----|
 | _CurrentLink_|Optional|**Boolean**|**True** if a link will be added to the current selection. **False** if a link will be added to the current document. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

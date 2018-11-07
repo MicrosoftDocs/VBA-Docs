@@ -21,7 +21,7 @@ Deletes the relationship.
  _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

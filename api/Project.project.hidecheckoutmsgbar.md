@@ -19,7 +19,7 @@ Hides the project checkout message bar.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

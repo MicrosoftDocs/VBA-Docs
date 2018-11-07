@@ -23,7 +23,7 @@ Opens an existing master so that it can be edited.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Master
 

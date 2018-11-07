@@ -23,7 +23,7 @@ Returns a single  **Font** object from the specified **Fonts** collection.
  _expression_ A variable that represents a [Fonts](./PowerPoint.Fonts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Font** object from the specified **Fonts** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Font** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Font
 

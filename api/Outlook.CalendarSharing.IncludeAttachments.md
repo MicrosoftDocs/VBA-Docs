@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that indicates whether attachments for cale
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 
 
-### Return value
+## Return value
 
  **True** if attachments for calendar items should be included; otherwise, **False** .
 

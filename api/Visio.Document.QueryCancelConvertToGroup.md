@@ -23,7 +23,7 @@ Private Sub  _expression_ _'QueryCancelConvertToGroup'(**_ByVal Selection As [IV
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

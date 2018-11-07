@@ -16,7 +16,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -26,7 +26,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 | _SafeArrayOfPoints_|Required|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

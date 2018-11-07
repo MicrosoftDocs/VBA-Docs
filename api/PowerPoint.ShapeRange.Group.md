@@ -23,7 +23,7 @@ Groups the shapes in the specified range. Returns the grouped shapes as a single
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return value
+## Return value
 
 Shape
 

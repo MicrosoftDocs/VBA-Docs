@@ -23,7 +23,7 @@ Gets the distance in pixels between the left edge of the object and the left sid
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

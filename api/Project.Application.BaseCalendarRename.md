@@ -23,7 +23,7 @@ Renames a base calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Renames a base calendar.
 | _FromName_|Required|**String**|**String**. The name of the base calendar to rename.|
 | _ToName_|Required|**String**|**String**. The new name of the base calendar.|
 
-### Return value
+## Return value
 
  **Boolean**
 

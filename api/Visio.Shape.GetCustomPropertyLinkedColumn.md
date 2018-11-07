@@ -26,7 +26,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Gets the name of the data column linked to the shape data (custom property) row 
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data column linked to the shape's custom property.|
 | _CustomPropertyIndex_|Required| **Long**|The index of the shape data item (custom property) linked to the data column in the data recordset.|
 
-### Return value
+## Return value
 
 String
 

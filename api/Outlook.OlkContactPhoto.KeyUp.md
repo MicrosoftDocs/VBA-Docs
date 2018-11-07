@@ -23,7 +23,7 @@ Occurs when the user releases a key.
  _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

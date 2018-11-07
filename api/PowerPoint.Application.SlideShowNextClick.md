@@ -23,7 +23,7 @@ Occurs on the next click of the slide.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

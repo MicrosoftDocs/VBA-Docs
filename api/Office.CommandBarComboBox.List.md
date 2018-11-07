@@ -26,7 +26,7 @@ Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -16,7 +16,7 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
  _expression_ A variable that represents a 'Shapes' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -25,7 +25,7 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve.|
 | _SafeArrayOfPoints_|Required|VARIANT||
 
-### Return value
+## Return value
 
  **Shape**
 

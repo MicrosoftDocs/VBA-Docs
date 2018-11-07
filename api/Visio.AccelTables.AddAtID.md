@@ -23,7 +23,7 @@ Creates a new object with a specified ID in a collection.
  _expression_ A variable that represents an [AccelTables](./Visio.AccelTables.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new object with a specified ID in a collection.
 |:-----|:-----|:-----|:-----|
 | _lID_|Required| **Long**| The window context for the new object.|
 
-### Return value
+## Return value
 
 AccelTable
 

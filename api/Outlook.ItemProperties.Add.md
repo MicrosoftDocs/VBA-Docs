@@ -23,7 +23,7 @@ Adds an  **ItemProperty** object to the **ItemProperties** collection.
  _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

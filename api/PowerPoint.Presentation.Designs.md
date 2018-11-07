@@ -23,7 +23,7 @@ Returns a  **[Designs](PowerPoint.Designs.md)** object that represents a collect
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 Designs
 

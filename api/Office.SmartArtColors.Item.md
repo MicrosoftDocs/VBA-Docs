@@ -20,7 +20,7 @@ Retrieves a  **SmartArtColor** object at the specified index or with the specifi
  _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Retrieves a  **SmartArtColor** object at the specified index or with the specifi
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the Id of the Smart Art color.|
 
-### Return value
+## Return value
 
 SmartArtColor
 

@@ -23,7 +23,7 @@ Records code if the macro recorder is on.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

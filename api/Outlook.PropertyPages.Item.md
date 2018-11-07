@@ -23,7 +23,7 @@ Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collectio
  _expression_ A variable that represents a [PropertyPages](./Outlook.PropertyPages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[PropertyPage](Outlook.PropertyPage.md)** object from the collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **Object** value that represents the specified object.
 

@@ -23,7 +23,7 @@ Returns the audio compression format. Read-only.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return value
+## Return value
 
 String
 

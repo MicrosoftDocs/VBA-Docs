@@ -23,7 +23,7 @@ Validates the specified validation rule set.
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Validates the specified validation rule set.
 | _RuleSet_|Optional| **[ValidationRuleSet](Visio.ValidationRuleSet.md)**|The rule set to validate across the entire document. |
 | _Flags_|Optional| **[VisValidationFlags](Visio.VisValidationFlags.md)**|Whether to open the  **Issues** window after validation.|
 
-### Return value
+## Return value
 
  **Nothing**
 

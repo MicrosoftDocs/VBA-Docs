@@ -23,7 +23,7 @@ _expression_. **SendObject**(**_ObjectType_**, **_ObjectName_**, **_OutputFormat
 _expression_ A variable that represents a **DoCmd** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

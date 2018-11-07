@@ -20,7 +20,7 @@ Gets or sets a value that specifies whether the numbers in a numbered list shoul
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

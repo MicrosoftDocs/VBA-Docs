@@ -23,7 +23,7 @@ Sends a worksheet as a fax to the specfied recipients.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a
  _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Applies a filter to the rows in the  **[Table](Outlook.Table.md)** and obtains a
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|Specifies the criteria for rows in the  **Table** object.|
 
-### Return value
+## Return value
 
 A  **Table** object that is returned by applying _Filter_ to the rows in the parent **Table** object.
 

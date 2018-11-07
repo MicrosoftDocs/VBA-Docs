@@ -23,7 +23,7 @@ Returns the gap between adjacent member shapes in the list.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the gap between adjacent member shapes in the list.
 |:-----|:-----|:-----|:-----|
 | _SpacingUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the gap.|
 
-### Return value
+## Return value
 
  **Double**
 

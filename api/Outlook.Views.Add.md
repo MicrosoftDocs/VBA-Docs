@@ -23,7 +23,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
  _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
 | _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option that specifies the permissions of the new view. 
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>olViewSaveOptionAllFoldersOfType</b>  The view can be accessed in all folders of this type.</p></li><li><p><b>olViewSaveOptionThisFolderEveryOne</b>  The view can be accessed by all users in this folder only.</p></li><li><p><b>olViewSaveOptionThisFolderOnlyMe</b>  The view can be accessed in this folder only by the user.</p></li></ul>|
 
-### Return value
+## Return value
 
 A  **[View](Outlook.View.md)** object that represents the new view.
 

@@ -23,7 +23,7 @@ Allows the template author to populate a  **CustomXMLPart** object from an XML s
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Allows the template author to populate a  **CustomXMLPart** object from an XML s
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|Contains the XML to load.|
 
-### Return value
+## Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Moves the start position of the specified range.
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Moves the start position of the specified range.
 | _Unit_|Optional| **WdUnits**|The unit by which start position of the specified range is to be moved.|
 | _Count_|Optional| **Variant**|The maximum number of units by which the specified range is to be moved. If Count is a positive number, the start position of the range is moved forward in the document. If it is a negative number, the start position is moved backward. If the start position is moved forward to a position beyond the end position, the range is collapsed and both the start and end positions are moved together. The default value is 1.|
 
-### Return value
+## Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
  _expression_ An expression that returns an '[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **OMathRecognizedFunction** object that represents the specified ite
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies a  **String** or **Integer** that represents the name or ordinal position of the object in the collection.|
 
-### Return value
+## Return value
 
 OMathRecognizedFunction
 

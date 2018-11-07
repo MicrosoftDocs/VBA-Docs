@@ -23,7 +23,7 @@ Returns a  **[Shapes](PowerPoint.Shapes.md)** collection that represents all the
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
-### Return value
+## Return value
 
 Shapes
 

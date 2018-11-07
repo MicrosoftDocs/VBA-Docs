@@ -23,7 +23,7 @@ Groups the selected sparklines.
  _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Groups the selected sparklines.
 |:-----|:-----|:-----|:-----|
 | _Location_|Required| **[Range](Excel.Range(object).md)**|The location of the first cell in the group.|
 
-### Return value
+## Return value
 
 Nothing
 

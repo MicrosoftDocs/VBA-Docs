@@ -23,7 +23,7 @@ Occurs when the  **[Inspector](Outlook.Inspector.md)** is moved by the user.
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

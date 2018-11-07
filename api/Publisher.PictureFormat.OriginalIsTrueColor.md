@@ -23,7 +23,7 @@ Returns an  **MsoTriState** constant indicating whether the specified linked pic
  _expression_ A variable that represents an  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

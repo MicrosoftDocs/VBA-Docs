@@ -23,7 +23,7 @@ Returns the resolution width of the media sample. Read-only.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

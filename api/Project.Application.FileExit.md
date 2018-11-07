@@ -23,7 +23,7 @@ Quits Project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Quits Project.
 |:-----|:-----|:-----|:-----|
 | _Save_|Optional|**Long**|Can be one of the [PjSaveType](Project.PjSaveType.md) constants. The default value is **pjPromptSave** for new project files and projects that have changed since the last save.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Adds a new hidden field to a Web form and returns a  **Long** indicating the num
  _expression_ A variable that represents a  **WebHiddenFields** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a new hidden field to a Web form and returns a  **Long** indicating the num
 |Name|Required| **String**|The name of the new field.|
 |Value|Required| **String**|The value of the new field.|
 
-### Return value
+## Return value
 
 Long
 

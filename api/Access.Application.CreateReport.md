@@ -23,7 +23,7 @@ _expression_. `CreateReport`( ` _Database_`, ` _ReportTemplate_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Database_|Optional|**Variant**|The name of the database that contains the report template you want to use to create a report. If you want the current database, omit this argument. If you want to use an open library database, specify the library database with this argument.|
 | _ReportTemplate_|Optional|**Variant**| The name of the report you want to use as a template to create a new report.|
 
-### Return value
+## Return value
 
 Report
 

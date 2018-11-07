@@ -23,7 +23,7 @@ Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ 
  _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ 
 | _Name_|Required| **String**|A string identifier for the rule, which will be represented by  **[Rule.Name](Outlook.Rule.Name.md)** after rule creation. Names of rules in a collection are not unique.|
 | _RuleType_|Required| **[OlRuleType](Outlook.OlRuleType.md)**|A constant in the  **OlRuleType** enumeration that determines whether the rule is applied on sending or receiving a message.|
 
-### Return value
+## Return value
 
 A  **Rule** object that represents the newly created rule.
 

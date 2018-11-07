@@ -20,7 +20,7 @@ Private Sub  _expression_ _'BeforeMasterDelete'(**_ByVal master As [IVMASTER]_**
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

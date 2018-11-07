@@ -23,7 +23,7 @@ Changes the formatting of one aspect of all the containers in the selection, and
  _expression_ An expression that returns a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Changes the formatting of one aspect of all the containers in the selection, and
 | _FormatType_|Required| **[VisContainerFormatType](Visio.VisContainerFormatType.md)**|The container formatting to change. See Remarks for possible values.|
 | _FormatValue_|Optional| **Variant**|The new format to apply.|
 
-### Return value
+## Return value
 
  **Long()**
 

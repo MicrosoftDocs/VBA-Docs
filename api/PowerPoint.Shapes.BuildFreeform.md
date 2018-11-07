@@ -23,7 +23,7 @@ _expression_. `BuildFreeform`( `_EditingType_`, `_X1_`, `_Y1_` )
 _expression_ A variable that represents a [Shapes](PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Shapes](PowerPoint.Shapes.md) object.
 | _X1_|Required|**Single**|The horizontal position, measured in points, of the first node in the freeform drawing relative to the left edge of the slide.|
 | _Y1_|Required|**Single**|The vertical position, measured in points, of the first node in the freeform drawing relative to the top edge of the slide.|
 
-### Return value
+## Return value
 
 FreeformBuilder
 

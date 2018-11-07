@@ -23,7 +23,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a  **[Calcul
  _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMembers.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Adds a calculated field or calculated item to a PivotTable. Returns a  **[Calcul
 | _DisplayFolder_|Optional| **String**|The name of the display folder for the calculated member.|
 | _HierarchizeDistinct_|Optional| **Boolean**|Specifies whether to order and remove duplicates when displaying the hierarchy of the calculated member in a PivotTable report based on an OLAP cube.|
 
-### Return value
+## Return value
 
 A  **CalculatedMember** object that represents the new calculated field or calculated item.
 

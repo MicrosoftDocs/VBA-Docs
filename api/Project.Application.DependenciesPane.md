@@ -23,7 +23,7 @@ Displays the project  **Dependency** pane when connected to Project Server. Avai
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

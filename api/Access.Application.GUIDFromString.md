@@ -23,7 +23,7 @@ _expression_. `GUIDFromString`( ` _String_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _String_|Required|**Variant**|A string expression which evaluates to a GUID in string form.|
 
-### Return value
+## Return value
 
 Variant
 

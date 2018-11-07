@@ -23,7 +23,7 @@ Deletes an object or selection and places it on the Clipboard.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes an object or selection and places it on the Clipboard.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the cut operation.|
 
-### Return value
+## Return value
 
 Nothing
 

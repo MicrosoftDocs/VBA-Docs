@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Toolbar** object in a **Toolbars** collection.
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

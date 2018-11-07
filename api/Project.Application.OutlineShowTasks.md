@@ -23,7 +23,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Expands an outline to show all tasks up to the specified level and collapses any
 | _OutlineNumber_|Optional|**Long**|The outline level to display. Higher outline levels are expanded to show this level. The level specified with  **OutlineNumber** and lower (if any) are collapsed. Can be one of the **[PjTaskOutlineShowLevel](Project.PJTaskOutlineShowLevel.md)** constants.|
 | _ExpandInsertedProjects_|Optional|**Boolean**|**True** if tasks from subprojects are affected by the value specified with **OutlineNumber**. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

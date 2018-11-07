@@ -23,7 +23,7 @@ Determines whether an animation should decelerate as it ends. Read/write.
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

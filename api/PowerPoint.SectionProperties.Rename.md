@@ -23,7 +23,7 @@ Renames the specified section with the specified name.
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

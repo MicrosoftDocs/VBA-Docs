@@ -23,7 +23,7 @@ Returns the shape from which a connection or connections originate. Read-only.
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
-### Return value
+## Return value
 
 Shape
 

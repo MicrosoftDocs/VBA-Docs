@@ -23,7 +23,7 @@ Binds a built-in property or custom property to a control in an inspector.
  _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

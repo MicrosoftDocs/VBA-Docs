@@ -23,7 +23,7 @@ Rounds a number up, away from 0 (zero).
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Rounds a number up, away from 0 (zero).
 | _Arg1_|Required| **Double**|Number - any real number that you want rounded up.|
 | _Arg2_|Required| **Double**|Num_digits - the number of digits to which you want to round number.|
 
-### Return value
+## Return value
 
 Double
 

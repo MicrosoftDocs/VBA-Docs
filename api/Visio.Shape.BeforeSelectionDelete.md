@@ -23,7 +23,7 @@ Private Sub  _expression_ _'BeforeSelectionDelete'(**_ByVal Selection As [IVSELE
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

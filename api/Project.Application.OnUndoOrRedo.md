@@ -23,7 +23,7 @@ Occurs when a transaction is undone or redone.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Occurs when a transaction is undone or redone.
 | _bstrGUID_|Required|**String**|GUID of the transaction or NULL.|
 | _fUndo_|Required|**Boolean**|**True** if the transaction was undone or **False** if it was redone.|
 
-### Return value
+## Return value
 
 nothing
 

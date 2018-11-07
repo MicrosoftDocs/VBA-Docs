@@ -23,7 +23,7 @@ Returns a date in the specified format.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a date in the specified format.
 | _Date_|Required|**Variant**|The date to format.|
 | _Format_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](Project.PjDateFormat.md)** constants. The default value is **pjDateDefault**.|
 
-### Return value
+## Return value
 
  **Variant**
 

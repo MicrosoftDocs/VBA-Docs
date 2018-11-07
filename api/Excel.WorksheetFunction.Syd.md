@@ -23,7 +23,7 @@ Returns the sum-of-years' digits depreciation of an asset for a specified period
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the sum-of-years' digits depreciation of an asset for a specified period
 | _Arg3_|Required| **Double**|Life - the number of periods over which the asset is depreciated (sometimes called the useful life of the asset).|
 | _Arg4_|Required| **Double**|Per - the period and must use the same units as life.|
 
-### Return value
+## Return value
 
 Double
 

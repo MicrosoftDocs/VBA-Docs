@@ -23,7 +23,7 @@ Creates a new PivotCache.
  _expression_ A variable that represents a [PivotCaches](Excel.PivotCaches.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Creates a new PivotCache.
 | _SourceData_|Optional| **Variant**|The data for the new PivotTable cache.|
 | _Version_|Optional| **Variant**|Version of the PivotTable. The version can be one of the [xlPivotTableVersionList](Excel.XlPivotTableVersionList.md) constants.|
 
-### Return value
+## Return value
 
 PivotCache
 

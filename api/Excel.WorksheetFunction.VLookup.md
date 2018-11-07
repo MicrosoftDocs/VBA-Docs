@@ -23,7 +23,7 @@ Searches for a value in the first column of a table array and returns a value in
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Searches for a value in the first column of a table array and returns a value in
 | _Arg3_|Required| **Variant**|Col_index_num - the column number in table_array from which the matching value must be returned. A col_index_num of 1 returns the value in the first column in table_array; a col_index_num of 2 returns the value in the second column in table_array, and so on.|
 | _Arg4_|Optional| **Variant**|Range_lookup - a logical value that specifies whether you want the  **VLookup** method to find an exact match or an approximate match:|
 
-### Return value
+## Return value
 
 Variant
 

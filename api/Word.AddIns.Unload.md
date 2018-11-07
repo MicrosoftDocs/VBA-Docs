@@ -23,7 +23,7 @@ Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ 
  _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

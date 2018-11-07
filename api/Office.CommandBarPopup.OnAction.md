@@ -23,7 +23,7 @@ Gets or sets the name of a Visual Basic procedure that will run when the user cl
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return value
+## Return value
 
 String
 

@@ -23,7 +23,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
  _expression_ An expression that returns a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single PivotTable field (a  **[PivotF
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the field to be returned.|
 
-### Return value
+## Return value
 
 Object
 

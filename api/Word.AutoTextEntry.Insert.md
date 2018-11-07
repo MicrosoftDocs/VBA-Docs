@@ -23,7 +23,7 @@ Inserts the AutoText entry in place of the specified range. Returns a  **Range**
  _expression_ Required. A variable that represents an '[AutoTextEntry](Word.AutoTextEntry.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Inserts the AutoText entry in place of the specified range. Returns a  **Range**
 | _Where_|Required| **Range**|The location for the AutoText entry.|
 | _RichText_|Optional| **Variant**| **True** to insert the AutoText entry with its original formatting.|
 
-### Return value
+## Return value
 
 Range
 

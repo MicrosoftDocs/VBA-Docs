@@ -23,7 +23,7 @@ Gets the width of an object in pixels. Read/write.
  _expression_ A variable that represents a [Toolbar](./Visio.Toolbar.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

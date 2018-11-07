@@ -23,7 +23,7 @@ Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from 
  _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object from 
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **OutlookBarShortcut** object that represents the specified object.
 

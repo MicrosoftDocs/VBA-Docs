@@ -23,7 +23,7 @@ Returns a  **Range** object that represents the specified unit relative to the s
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Range** object that represents the specified unit relative to the s
 | _Unit_|Optional| **Variant**|The type of units by which to count. Can be any  **WdUnits** constant.|
 | _Count_|Optional| **Variant**|The number of units by which you want to move ahead. The default value is one.|
 
-### Return value
+## Return value
 
 Range
 

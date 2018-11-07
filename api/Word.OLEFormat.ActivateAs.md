@@ -23,7 +23,7 @@ Sets the Windows registry value that determines the default application used to 
  _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Removes all nonprintable characters from text.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Removes all nonprintable characters from text.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Any worksheet information from which you want to remove nonprintable characters.|
 
-### Return value
+## Return value
 
 String
 

@@ -23,7 +23,7 @@ Obtains a  **[SelectNamesDialog](Outlook.SelectNamesDialog.md)** object for the 
  _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
-### Return value
+## Return value
 
 A  **SelectNamesDialog** object for the current session. The **SelectNamesDialog** object supports displaying the **Select Names** dialog box for the user to select entries from one or more address lists in the current session.
 

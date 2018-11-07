@@ -23,7 +23,7 @@ Applies a design template to the specified slide range.
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

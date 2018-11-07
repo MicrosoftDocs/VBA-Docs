@@ -23,7 +23,7 @@ Returns the inverse of the cumulative distribution function for a specified beta
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns the inverse of the cumulative distribution function for a specified beta
 | _Arg4_|Optional| **Variant**|An optional lower bound to the interval of x.|
 | _Arg5_|Optional| **Variant**|An optional upper bound to the interval of x.|
 
-### Return value
+## Return value
 
 Double
 

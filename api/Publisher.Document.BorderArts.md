@@ -23,7 +23,7 @@ Returns a  **[BorderArts](Publisher.BorderArts.md)** collection that represents 
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 BorderArts
 

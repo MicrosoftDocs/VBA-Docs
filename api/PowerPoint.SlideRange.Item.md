@@ -23,7 +23,7 @@ Returns a single  **Slide** object from the specified **SlideRange** collection.
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Slide** object from the specified **SlideRange** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Slide** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Slide
 

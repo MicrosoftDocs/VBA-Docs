@@ -23,7 +23,7 @@ Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
  _expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The zero-based index number of the object in the  **SimpleItems** collection.|
 
-### Return value
+## Return value
 
 An  **Object** that represents an Outlook item in the **SimpleItems** collection.
 

@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 A Variant value that represents the selected object.
 

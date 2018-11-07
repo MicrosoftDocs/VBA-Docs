@@ -18,7 +18,7 @@ Searches a  **TextRange2** object for a subset of text.
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Searches a  **TextRange2** object for a subset of text.
 | _MatchCase_|Optional|**MsoTriState**|Specifies if the target text must exactly match the case of the search text. |
 | _WholeWords_|Optional|**MsoTriState**|Specifies that only whole words will be searched.|
 
-### Return value
+## Return value
 
 TextRange2
 

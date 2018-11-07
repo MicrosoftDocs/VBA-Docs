@@ -18,7 +18,7 @@ Returns an  **Integer** indicating the subtype of a [variable](../../Glossary/vb
 ## Syntax
 
 **VarType(**_varname_**)**
-The required  _varname_[argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+The required  _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
  
  ## Return Values
 

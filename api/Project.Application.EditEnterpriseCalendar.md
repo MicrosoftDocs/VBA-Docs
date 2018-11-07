@@ -23,7 +23,7 @@ Edits an enterprise calendar. Available in Project Professional only.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Edits an enterprise calendar. Available in Project Professional only.
 |:-----|:-----|:-----|:-----|
 | _UniqueID_|Optional|**Variant**|GUID of the enterprise calendar to edit.|
 
-### Return value
+## Return value
 
  **Boolean**
 

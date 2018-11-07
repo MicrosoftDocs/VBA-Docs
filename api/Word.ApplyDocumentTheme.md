@@ -23,7 +23,7 @@ Applies a document theme to a document.
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

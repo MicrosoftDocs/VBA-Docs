@@ -23,7 +23,7 @@ Counts empty cells in a specified range of cells.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Counts empty cells in a specified range of cells.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The range from which you want to count the blank cells.|
 
-### Return value
+## Return value
 
 Double
 

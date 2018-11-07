@@ -23,7 +23,7 @@ Returns a  **[Shape](Publisher.Shape.md)** object that represents the shape asso
  _expression_ A variable that represents a  **Hyperlink** object.
 
 
-### Return value
+## Return value
 
 Shape
 

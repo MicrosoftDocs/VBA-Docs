@@ -23,7 +23,7 @@ Returns the number of actions available on the redo stack. Read-only  **Long**.
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 Long
 

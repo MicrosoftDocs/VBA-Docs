@@ -23,7 +23,7 @@ Returns or sets the hanging punctuation option if you have an Asian language set
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -23,7 +23,7 @@ Gets or sets the orientation (landscape or portrait) of how envelopes are fed to
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
-### Return value
+## Return value
 
 PbOrientationType
 

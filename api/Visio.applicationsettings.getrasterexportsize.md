@@ -21,7 +21,7 @@ Gets the raster export size.
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Gets the raster export size.
 | _pSizeUnits_|Required|VISRASTEREXPORTSIZEUNITS||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
 Nothing
 

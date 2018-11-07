@@ -23,7 +23,7 @@ Returns the build number of the running instance. Read-only.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

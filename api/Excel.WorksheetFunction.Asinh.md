@@ -23,7 +23,7 @@ Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is 
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number.|
 
-### Return value
+## Return value
 
 Double
 

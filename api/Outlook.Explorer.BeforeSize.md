@@ -23,7 +23,7 @@ Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)** .
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

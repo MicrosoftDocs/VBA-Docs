@@ -23,7 +23,7 @@ Returns the distance of the shape's or shape range's top edge from the top edge 
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the distance of the shape's or shape range's top edge from the top edge 
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbUnitType**|The units in which to return the distance.|
 
-### Return value
+## Return value
 
 Single
 

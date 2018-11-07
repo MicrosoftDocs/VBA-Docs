@@ -23,7 +23,7 @@ Sets the style of boxes in the Network Diagram view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Sets the style of boxes in the Network Diagram view.
 | _BackgroundColor_|Optional|**Long**|The color of the box background. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 | _BackgroundPattern_|Optional|**Long**|The pattern for the background. Can be one of the  **[PjBackgroundPattern](Project.PjBackgroundPattern.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

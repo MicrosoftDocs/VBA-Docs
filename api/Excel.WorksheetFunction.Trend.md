@@ -23,7 +23,7 @@ Returns values along a linear trend. Fits a straight line (using the method of l
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns values along a linear trend. Fits a straight line (using the method of l
 | _Arg3_|Optional| **Variant**|New_x's - new x-values for which you want TREND to return corresponding y-values.|
 | _Arg4_|Optional| **Variant**|Const - a logical value specifying whether to force the constant b to equal 0.|
 
-### Return value
+## Return value
 
 Variant
 

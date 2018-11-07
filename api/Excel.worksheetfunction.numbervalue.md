@@ -21,7 +21,7 @@ Converts text to number in a locale-independent manner.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts text to number in a locale-independent manner.
 | _Arg2_|Required|STRING|Character used as the decimal separator in the string.|
 | _Arg3_|Required|STRING|Character used as the group separator in the string.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

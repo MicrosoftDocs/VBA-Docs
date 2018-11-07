@@ -26,7 +26,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
  _expression_ A variable that represents a [DataColumns](./Visio.DataColumns.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the  **DataColumn** object at the specified index position, or of the sp
 |:-----|:-----|:-----|:-----|
 | _IndexOrName_|Required| **Variant**|The index (as a  **Long**) or the name (as a **String**) of the data column to retrieve.|
 
-### Return value
+## Return value
 
 DataColumn
 

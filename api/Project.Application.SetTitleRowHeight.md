@@ -23,7 +23,7 @@ Sets the title row height of the active view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the title row height of the active view.
 |:-----|:-----|:-----|:-----|
 | _TitleHeight_|Optional|**Integer**|The height of the title row of the active view.|
 
-### Return value
+## Return value
 
  **Boolean**
 

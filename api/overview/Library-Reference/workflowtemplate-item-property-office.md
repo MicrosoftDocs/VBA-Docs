@@ -21,7 +21,7 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
  _expression_ An expression that returns a **WorkflowTemplates** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the **WorkflowTemplate** object to be returned.|
 
-### Return value
+## Return value
 
 WorkflowTemplate
 

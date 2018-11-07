@@ -23,7 +23,7 @@ Returns the square of the Pearson product moment correlation coefficient through
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the square of the Pearson product moment correlation coefficient through
 | _Arg1_|Required| **Variant**|Known_y's - an array or range of data points.|
 | _Arg2_|Required| **Variant**|Known_x's - an array or range of data points.|
 
-### Return value
+## Return value
 
 Double
 

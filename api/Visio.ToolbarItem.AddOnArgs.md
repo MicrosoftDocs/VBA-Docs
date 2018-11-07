@@ -23,7 +23,7 @@ Gets or sets the argument string that you send to the add-on associated with a p
  _expression_ A variable that represents a [ToolbarItem](./Visio.ToolbarItem.md) object.
 
 
-### Return value
+## Return value
 
 String
 

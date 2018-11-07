@@ -23,7 +23,7 @@ Deletes an item from the Organizer.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Deletes an item from the Organizer.
 | _Name_|Required|**String**|The name of the item to delete.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

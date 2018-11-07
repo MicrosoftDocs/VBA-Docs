@@ -26,7 +26,7 @@ Adds a folder to the document library in a shared workspace. Returns a  **[Share
  _expression_ Required. A variable that represents a '[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

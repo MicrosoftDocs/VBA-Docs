@@ -23,7 +23,7 @@ Sets the format of nonworking times.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Sets the format of nonworking times.
 | _Color_|Optional|**Integer**|The color of nonworking times. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 | _Pattern_|Optional|**Integer**|The pattern for nonworking times. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

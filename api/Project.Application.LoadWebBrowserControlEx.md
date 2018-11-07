@@ -23,7 +23,7 @@ Displays HTML pages within Project when the  **Project Guide** is shown or hidde
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Displays HTML pages within Project when the  **Project Guide** is shown or hidde
 | _WrapperPage_|Optional|**Variant**|A pointer to an HTML page that provides wrapper functionality for the page being displayed in Project. The wrapper page contains event-handling code that allows Project functionality, such as saving files or changing views, to work when a Web page is being displayed. The WrapperPage parameter is used only when the  **Project Guide** is hidden. When the **Project Guide** is shown, mainpage.htm is used as the wrapper page, and a WrapperPage parameter, if specified, is ignored. If no WrapperPage parameter is specified, Project uses the default wrapper page, gbui://wrapper.htm.|
 | _FunctionalityName_|Optional|**Variant**|Name of the Project Guide function in the goal area.|
 
-### Return value
+## Return value
 
  **Boolean**
 

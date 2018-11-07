@@ -26,7 +26,7 @@ Creates a new command bar and adds it to the collection of command bars.
  _expression_ Required. A variable that represents a '[CommandBars](Office.CommandBars.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

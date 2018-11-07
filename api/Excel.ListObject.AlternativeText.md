@@ -23,7 +23,7 @@ Returns or sets the descriptive (alternative) text string for the specified tabl
  _expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

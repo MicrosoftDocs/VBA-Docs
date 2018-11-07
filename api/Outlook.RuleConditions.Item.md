@@ -23,7 +23,7 @@ Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _In
  _expression_ A variable that represents a [RuleConditions](./Outlook.RuleConditions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Obtains a  **[RuleCondition](Outlook.RuleCondition.md)** object specified by _In
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A 1-based numerical value that reflects the ordinal position of a rule condition within the  **RuleConditions** collection. For example, the index value of the first rule condition in the collection is 1, and the index value of the second rule condition is 2.|
 
-### Return value
+## Return value
 
 A  **RuleCondition** object that represents the specified object.
 

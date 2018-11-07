@@ -23,7 +23,7 @@ Adds a new  **Window** object to the **Windows** collection.
  _expression_ A variable that represents a [Windows](./Visio.Windows.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Adds a new  **Window** object to the **Windows** collection.
 | _bstrMergeClass_|Optional| **Variant**|Merge class of the window.|
 | _nMergePosition_|Optional| **Variant**|Merge position of the window.|
 
-### Return value
+## Return value
 
 Window
 

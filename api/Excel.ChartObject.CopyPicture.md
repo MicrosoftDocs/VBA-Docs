@@ -23,7 +23,7 @@ Copies the selected object to the Clipboard as a picture.
  _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Copies the selected object to the Clipboard as a picture.
 | _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen** .|
 | _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture. The default value is  **xlPicture** .|
 
-### Return value
+## Return value
 
 Variant
 

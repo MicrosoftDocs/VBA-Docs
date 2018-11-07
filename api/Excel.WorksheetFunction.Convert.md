@@ -23,7 +23,7 @@ Converts a number from one measurement system to another. For example, Convert c
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Converts a number from one measurement system to another. For example, Convert c
 | _Arg2_|Required| **Variant**|The units for number.|
 | _Arg3_|Required| **Variant**|The units for the result. Convert accepts the following text values (in quotation marks) for from_unit and to_unit which are listed in the Remarks section below.|
 
-### Return value
+## Return value
 
 Double
 

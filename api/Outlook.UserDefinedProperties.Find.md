@@ -23,7 +23,7 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
  _expression_ A variable that represents a [UserDefinedProperties](./Outlook.UserDefinedProperties.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Locate a  **[UserDefinedProperty](Outlook.UserDefinedProperty.md)** contained in
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The  **[Name](Outlook.UserDefinedProperty.Name.md)** property value of the **UserDefinedProperty** object to find in the collection.|
 
-### Return value
+## Return value
 
 A  **UserDefinedProperty** object that represents the located object, if successful; otherwise, **Null** (**Nothing** in Visual Basic).
 

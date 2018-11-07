@@ -23,7 +23,7 @@ Determines whether a formula of the cell is a constant expression. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

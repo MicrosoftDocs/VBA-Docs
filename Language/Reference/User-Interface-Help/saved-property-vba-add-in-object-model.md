@@ -1,5 +1,5 @@
 ---
-title: Saved Property (VBA Add-In Object Model)
+title: Saved property (VBA Add-In Object Model)
 keywords: vbob6.chm1070966
 f1_keywords:
 - vbob6.chm1070966
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Saved Property (VBA Add-In Object Model)
+# Saved property (VBA Add-In Object Model)
 
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the object was edited since the last time it was saved. Read/write.
 
+## Return values
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the object was edited since the last time it was saved. Read/write.
- **Return Values**
-The  **Saved** property returns these values:
-
+The **Saved** property returns these values:
 
 |**Value**|**Description**|
 |:-----|:-----|
@@ -25,8 +24,9 @@ The  **Saved** property returns these values:
 
 ## Remarks
 
-The  **SaveAs** method sets the **Saved** property to **True**.
+The **SaveAs** method sets the **Saved** property to **True**.
 
- **Note**  If you set the  **Saved** property to **False** in code, it returns **False**, and the object is marked as if it were edited since the last time it was saved.
+> [!NOTE] 
+> If you set the **Saved** property to **False** in code, it returns **False**, and the object is marked as if it were edited since the last time it was saved.
 
 

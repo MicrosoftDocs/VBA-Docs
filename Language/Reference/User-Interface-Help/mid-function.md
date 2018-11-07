@@ -1,5 +1,5 @@
 ---
-title: Mid Function
+title: Mid function
 keywords: vblr6.chm1011070
 f1_keywords:
 - vblr6.chm1011070
@@ -9,35 +9,32 @@ ms.date: 06/08/2017
 ---
 
 
-# Mid Function
+# Mid function
 
-
-
-Returns a  **Variant** (**String**) containing a specified number of characters from a string.
+Returns a **Variant** (**String**) containing a specified number of characters from a string.
 
 ## Syntax
 
-**Mid** (**_string_**, **_start_** [, **_length_** ])
-The  **Mid** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**Mid** (**_string_**, **_start_**, [ **_length_** ])
 
+The **Mid** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which characters are returned. If **_string_** contains[Null](../../Glossary/vbe-glossary.md#null),  **Null** is returned.|
-|**_start_**|Required; [Long](../../Glossary/vbe-glossary.md#long-data-type). Character position in  **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
-|**_length_**|Optional;  **Variant** (**Long**). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_**), all characters from the **_start_** position to the end of the string are returned.|
+|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which characters are returned. If **_string_** contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.|
+|**_start_**|Required; [Long](../../Glossary/vbe-glossary.md#long-data-type). Character position in **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
+|**_length_**|Optional; **Variant** (**Long**). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_**), all characters from the **_start_** position to the end of the string are returned.|
 
 ## Remarks
 
-To determine the number of characters in  **_string_**, use the **Len** function.
+To determine the number of characters in **_string_**, use the **Len** function.
 
- **Note**  Use the  **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the [arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
-
+> [!NOTE] 
+> Use the **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the [arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
 
 ## Example
 
-The first example uses the  **Mid** function to return a specified number of characters from a string.
-
+The first example uses the **Mid** function to return a specified number of characters from a string.
 
 ```vb
 Dim MyString, FirstWord, LastWord, MidWords
@@ -48,10 +45,9 @@ MidWords = Mid(MyString, 5)    ' Returns "Function Demo".
 
 ```
 
-The second example use  **MidB** and a user-defined function (**MidMbcs**) to also return characters from string. The difference here is that the input string is ANSI and the length is in bytes.
+<br/>
 
-
-
+The second example use **MidB** and a user-defined function (**MidMbcs**) to also return characters from string. The difference here is that the input string is ANSI and the length is in bytes.
 
 ```vb
 Function MidMbcs(ByVal str as String, start, length)
@@ -68,7 +64,6 @@ MyNewString = MidB(MyString, 3, 4)
 ' Returns ""bC"
 MyNewString = MidMbcs(MyString, 3, 4)
 ' Returns "bCd"
-
 
 ```
 

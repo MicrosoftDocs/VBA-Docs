@@ -23,7 +23,7 @@ Appends contact information based on the Electronic Business Card (EBC) associat
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

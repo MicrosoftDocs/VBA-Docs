@@ -23,7 +23,7 @@ Automatically draws a connection in the specified direction between the shape an
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Automatically draws a connection in the specified direction between the shape an
 | _PlacementDir_|Required| **VisAutoConnectDir**|The direction in which to draw the connection. See Remarks for possible values.|
 | _Connector_|Optional| **[UNKNOWN]**|The connector to use.|
 
-### Return value
+## Return value
 
 Nothing
 

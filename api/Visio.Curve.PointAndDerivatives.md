@@ -23,7 +23,7 @@ Returns a point and its derivatives at a position along a curve's path.
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Returns a point and its derivatives at a position along a curve's path.
 | _ddxdt_|Required| **Double**|Returns second derivative ( _ddx/dt_) at  _t_ if _n_> 1.|
 | _ddydt_|Required| **Double**|Returns second derivative ( _ddy/dt_) at  _t_ if _n_> 1.|
 
-### Return value
+## Return value
 
 Nothing
 

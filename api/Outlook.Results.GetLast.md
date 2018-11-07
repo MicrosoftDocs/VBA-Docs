@@ -23,7 +23,7 @@ Returns the last object in the collection.
  _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
-### Return value
+## Return value
 
 An  **Object** value that represents the last object contained by the collection.
 

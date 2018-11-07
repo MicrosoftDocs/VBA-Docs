@@ -23,7 +23,7 @@ Finds specific information in a range.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -39,7 +39,7 @@ Finds specific information in a range.
 | _MatchByte_|Optional| **Variant**|Used only if you have selected or installed double-byte language support.  **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format.|
 
-### Return value
+## Return value
 
 A [Range](Excel.Range(object).md) object that represents the first cell where that information is found.
 

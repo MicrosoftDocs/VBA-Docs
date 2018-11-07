@@ -23,7 +23,7 @@ Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection tha
  _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

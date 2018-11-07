@@ -20,7 +20,7 @@ Opens a project from an XML string.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Opens a project from an XML string.
 |:-----|:-----|:-----|:-----|
 | _XML_|Required|**String**|String containing a valid Project XML string that conforms to the Project XML schema.|
 
-### Return value
+## Return value
 
  **Long**
 

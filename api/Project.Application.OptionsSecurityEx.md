@@ -23,7 +23,7 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Sets legacy security options that are available in the  **Trust Center** dialog 
 | _TrustWSS_|Optional|**Boolean**|**True** if Project Server and project workspace sites need not be added to the Internet Explorer Trusted Sites list. **False** if the SharePoint sites for Project Server and project workspaces are already trusted. Corresponds to the setting on the **Project Server** tab of the **Trust Center** dialog box.|
 | _LegacyFileFormats_|Optional|**Integer**|Sets the option for opening or saving files with legacy or non-default file formats. Valid values are 0?2. Corresponds to the setting on the  **Legacy Formats** tab of the **Trust Center** dialog box. Can be one of the constants in the **[PjLegacyFileFormats](Project.PjLegacyFileFormats.md)** enumeration.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents the
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Return value
+## Return value
 
 SlideRange
 

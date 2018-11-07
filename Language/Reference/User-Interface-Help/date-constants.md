@@ -16,7 +16,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 ## Argument Values
 
-The  _firstdayofweek_[argument](../../Glossary/vbe-glossary.md#argument) has the following values:
+The  _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the following values:
 
 
 

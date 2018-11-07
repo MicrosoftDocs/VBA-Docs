@@ -23,7 +23,7 @@ Returns the area of a  **Shape** object in internal units (square inches). Read-
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the area of a  **Shape** object in internal units (square inches). Read-
 |:-----|:-----|:-----|:-----|
 | _fIncludeSubShapes_|Optional| **Boolean**| **False** to exclude the area of subshapes. Area of subshapes is included by default.|
 
-### Return value
+## Return value
 
 Double
 

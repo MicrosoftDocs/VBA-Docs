@@ -23,7 +23,7 @@ Removes duplicate values from a range of values.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

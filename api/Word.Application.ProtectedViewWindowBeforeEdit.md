@@ -23,7 +23,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

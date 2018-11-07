@@ -18,7 +18,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) containin
 ## Syntax
 
 **EOF(**_filenumber_**)**
-The required  _filenumber_[argument](../../Glossary/vbe-glossary.md#argument) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md#file-number).
+The required  _filenumber_ [argument](../../Glossary/vbe-glossary.md#argument) is an **Integer** containing any valid[file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 

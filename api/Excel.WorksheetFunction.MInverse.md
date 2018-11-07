@@ -23,7 +23,7 @@ Returns the inverse matrix for the matrix stored in an array.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the inverse matrix for the matrix stored in an array.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 
-### Return value
+## Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Returns or sets the title of the alternative text associated with the specified 
  _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

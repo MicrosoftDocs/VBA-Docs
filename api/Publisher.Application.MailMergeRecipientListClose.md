@@ -23,7 +23,7 @@ Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the 
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 

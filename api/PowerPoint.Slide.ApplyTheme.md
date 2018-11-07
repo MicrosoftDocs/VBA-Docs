@@ -23,7 +23,7 @@ Applies a theme or design template to the specified slide.
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the parent object of a hierarchical toolbar. Read-only.
  _expression_ A variable that represents a [ToolbarItems](./Visio.ToolbarItems.md) object.
 
 
-### Return value
+## Return value
 
 ToolbarItem
 

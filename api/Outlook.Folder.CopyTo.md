@@ -23,7 +23,7 @@ Copies the current folder in its entirety to the destination folder.
  _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Copies the current folder in its entirety to the destination folder.
 |:-----|:-----|:-----|:-----|
 | _DestinationFolder_|Required| **[Folder](Outlook.Folder.md)**|Required  **Folder** object that represents the destination folder.|
 
-### Return value
+## Return value
 
 A  **Folder** object that represents the new copy of the current folder.
 

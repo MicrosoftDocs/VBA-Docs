@@ -21,7 +21,7 @@ Returns an individual full series item from the collection.
  _expression_ A variable that represents a 'FullSeriesCollection' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns an individual full series item from the collection.
 |||||
 | _Index_|Required|VARIANT|The name or index number of the item to return.|
 
-### Return value
+## Return value
 
  **SERIES**
 

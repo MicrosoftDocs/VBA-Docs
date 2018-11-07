@@ -23,7 +23,7 @@ Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** o
  _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** o
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the NEXT field.|
 
-### Return value
+## Return value
 
 MailMergeField
 

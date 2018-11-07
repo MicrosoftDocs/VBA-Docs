@@ -20,7 +20,7 @@ Returns the number of minutes in a duration.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns the number of minutes in a duration.
 |:-----|:-----|:-----|:-----|
 | _Duration_|Required|**String**|The duration to be expressed in minutes.|
 
-### Return value
+## Return value
 
  **Variant**
 

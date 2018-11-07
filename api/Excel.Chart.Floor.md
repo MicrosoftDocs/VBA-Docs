@@ -23,7 +23,7 @@ Returns a  **[Floor](Excel.Floor(object).md)** object that represents the floor 
  _expression_ An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 Floor
 

@@ -23,7 +23,7 @@ Triggers the  **[WindowSidepaneDisplayChange](Project.Application.WindowSidepane
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Triggers the  **[WindowSidepaneDisplayChange](Project.Application.WindowSidepane
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if Project shows the side pane for the **Project Guide**.  **False** if Project hides the side pane for the **Project Guide**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

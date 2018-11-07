@@ -23,7 +23,7 @@ Marks a specified document as checked out and assigns edit privileges to the cur
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Marks a specified document as checked out and assigns edit privileges to the cur
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The server path and name of the file.|
 
-### Return value
+## Return value
 
 Nothing
 

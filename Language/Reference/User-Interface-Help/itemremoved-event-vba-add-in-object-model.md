@@ -18,5 +18,5 @@ Occurs after a reference is removed from a [project](../../Glossary/vbe-glossary
 ## Syntax
 
 **Sub**_object_**_ItemRemoved(ByVal**_item_**As Reference)**
-The required  _item_[argument](../../Glossary/vbe-glossary.md#argument) specifies the **Reference** that was removed.
+The required  _item_ [argument](../../Glossary/vbe-glossary.md#argument) specifies the **Reference** that was removed.
 

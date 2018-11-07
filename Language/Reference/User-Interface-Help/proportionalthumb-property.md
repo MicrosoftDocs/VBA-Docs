@@ -28,7 +28,7 @@ The  **ProportionalThumb** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the scroll box is proportional or fixed.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

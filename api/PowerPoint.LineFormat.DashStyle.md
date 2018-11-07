@@ -23,7 +23,7 @@ Returns or sets the dash style for the specified line. Read/write.
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoLineDashStyle
 

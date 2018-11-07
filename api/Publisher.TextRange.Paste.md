@@ -23,7 +23,7 @@ Pastes the text on the Clipboard into the specified text range, and returns a  *
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 TextRange
 

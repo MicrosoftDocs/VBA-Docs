@@ -23,7 +23,7 @@ Removes the subscript for an equation and returns an  **OMathFunction** object t
  _expression_ An expression that returns a [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 
 
-### Return value
+## Return value
 
 OMathFunction
 

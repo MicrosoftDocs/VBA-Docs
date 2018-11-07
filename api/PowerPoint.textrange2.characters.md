@@ -18,7 +18,7 @@ Read-only.
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Read-only.
 | _Start_|Optional|**Long**|The first character in the returned range.|
 | _Length_|Optional|**Long**|The number of characters to be returned.|
 
-### Return value
+## Return value
 
 TextRange2
 

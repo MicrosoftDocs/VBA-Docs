@@ -23,7 +23,7 @@ Returns a  **HeaderFooter** object that represents a header or footer in a range
  _expression_ Required. A variable that represents a '[HeadersFooters](Word.headersfooters.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **HeaderFooter** object that represents a header or footer in a range
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdHeaderFooterIndex**|A constant that specifies the header or footer in the range or section.|
 
-### Return value
+## Return value
 
 HeaderFooter
 

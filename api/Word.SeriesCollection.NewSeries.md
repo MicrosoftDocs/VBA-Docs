@@ -23,7 +23,7 @@ Creates a new series.
  _expression_ A variable that represents a '[SeriesCollection](Word.SeriesCollection.md)' object.
 
 
-### Return value
+## Return value
 
 A  **[Series](Word.Series.md)** object that represents the new series.
 

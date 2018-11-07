@@ -23,7 +23,7 @@ This method is called by Microsoft Excel to get new data. Returns a  **Variant**
  _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ This method is called by Microsoft Excel to get new data. Returns a  **Variant**
 |:-----|:-----|:-----|:-----|
 | _TopicCount_|Required| **Long**|The RTD server must change the value of the  **TopicCount** to the number of elements in the array returned.|
 
-### Return value
+## Return value
 
 A Variant array that contains the new data.
 

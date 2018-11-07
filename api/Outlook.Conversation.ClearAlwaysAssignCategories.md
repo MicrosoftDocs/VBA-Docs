@@ -23,7 +23,7 @@ Removes all categories from all items in the conversation and stops the action o
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

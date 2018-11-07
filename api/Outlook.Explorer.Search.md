@@ -23,7 +23,7 @@ Performs a Microsoft Instant Search on the current folder displayed in the Explo
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

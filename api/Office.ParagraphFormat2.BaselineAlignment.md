@@ -20,7 +20,7 @@ Gets or sets a constant that represents the vertical position of fonts in a para
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return value
+## Return value
 
 MsoBaselineAlignment
 

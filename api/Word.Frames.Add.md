@@ -23,7 +23,7 @@ Returns a Frame object that represents a new frame added to a range, selection, 
  _expression_ An expression that returns a '[Frames](Word.Frames.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a Frame object that represents a new frame added to a range, selection, 
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **[RANGE]**|The range that you want the frame to surround.|
 
-### Return value
+## Return value
 
 Frame
 

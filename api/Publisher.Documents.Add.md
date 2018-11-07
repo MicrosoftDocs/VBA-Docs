@@ -23,7 +23,7 @@ Adds a new  **Document** object that represents a new publication to the **Docum
  _expression_An expression that returns a  **Documents** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a new  **Document** object that represents a new publication to the **Docum
 |PbWizard|Optional| **PbWizard**|The wizard to use to create the new publication.|
 |desid|Optional| **Long**|The ID of the design to apply to the new publication.|
 
-### Return value
+## Return value
 
 Document
 

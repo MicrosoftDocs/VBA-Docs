@@ -23,7 +23,7 @@ Creates a new PivotTable formula.
  _expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Creates a new PivotTable formula.
 | _Formula_|Required| **String**|The new PivotTable formula.|
 | _UseStandardFormula_|Optional| **Variant**|A standard PivotTable formula.|
 
-### Return value
+## Return value
 
 A  **[PivotFormula](Excel.PivotFormula.md)** object that represents the new PivotTable formula.
 

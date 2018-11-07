@@ -23,7 +23,7 @@ Adds a new section to a ShapeSheet spreadsheet.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a new section to a ShapeSheet spreadsheet.
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The type of section to add.|
 
-### Return value
+## Return value
 
 Integer
 

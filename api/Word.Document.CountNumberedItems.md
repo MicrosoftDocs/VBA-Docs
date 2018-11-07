@@ -23,7 +23,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
  _expression_ An expression that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

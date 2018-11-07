@@ -18,7 +18,7 @@ Finds specific text in a text range, replaces the found text with a specified st
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 | _MatchCase_|Optional|**MsoTriState**|Determines whether a distinction is made on the basis of case.|
 | _WholeWords_|Optional|**MsoTriState**|Determines whether only whole words are searched.|
 
-### Return value
+## Return value
 
 TextRange2
 

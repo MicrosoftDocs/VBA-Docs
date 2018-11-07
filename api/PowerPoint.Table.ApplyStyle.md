@@ -23,7 +23,7 @@ Applies a table style to the specified table.
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

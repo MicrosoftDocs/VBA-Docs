@@ -23,7 +23,7 @@ Returns or sets a value that indicates how the specified shape appears when the 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 MsoBlackWhiteMode
 

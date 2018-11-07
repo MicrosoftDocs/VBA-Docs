@@ -23,7 +23,7 @@ Informs a Microsoft Visio instance that client code is causing the instance to e
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Informs a Microsoft Visio instance that client code is causing the instance to e
 | _uStateID_|Required| **VisOnComponentEnterCodes**|Describes the state being entered or exited along with flags that influence behavior while in the indicated state.|
 | _bEnter_|Required| **Boolean**| **True** to indicate that a state is being entered; **False** to indicate that a state is being exited.|
 
-### Return value
+## Return value
 
 nothing
 

@@ -23,7 +23,7 @@ Determines whether the container boundary resizes automatically to fit its conte
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisContainerAutoResize](Visio.VisContainerAutoResize.md)**
 

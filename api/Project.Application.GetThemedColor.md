@@ -23,7 +23,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
 |:-----|:-----|:-----|:-----|
 | _elementType_|Required|**Long**|A valid theme element type. Can be one of the constants in the  **[PjThemeElement](Project.PjThemeElement.md)** enumeration.|
 
-### Return value
+## Return value
 
  **Long**
 

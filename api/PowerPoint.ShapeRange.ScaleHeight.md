@@ -23,7 +23,7 @@ Scales the height of the shapes in the range by a specified factor.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Scales the height of the shapes in the range by a specified factor.
 | _RelativeToOriginalSize_|Required|**MsoTriState**|Specifies whether shapes are scaled relative to their current or original sizes.|
 | _fScale_|Optional|**MsoScaleFrom**|The parts of the shapes that retain their position when the shapes are scaled.|
 
-### Return value
+## Return value
 
 Nothing
 

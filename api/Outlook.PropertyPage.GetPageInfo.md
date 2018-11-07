@@ -23,7 +23,7 @@ Returns Help information about a custom property page.
  _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns Help information about a custom property page.
 | _HelpFile_|Required| **String**|Specifies the Help file associated with the property page.|
 | _HelpContext_|Required| **Long**|Specifies the context ID of the Help topic associated with the property page.|
 
-### Return value
+## Return value
 
 An  **HRESULT** value that represents the result of the method.
 

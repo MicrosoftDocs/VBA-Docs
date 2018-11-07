@@ -27,7 +27,7 @@ For more information about the new functions, see the [ChiSq_Inv_RT](Excel.Works
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ For more information about the new functions, see the [ChiSq_Inv_RT](Excel.Works
 | _Arg1_|Required| **Double**|A probability associated with the chi-squared distribution.|
 | _Arg2_|Required| **Double**|The number of degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

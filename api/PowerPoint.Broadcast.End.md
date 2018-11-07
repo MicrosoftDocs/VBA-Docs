@@ -23,7 +23,7 @@ Elevates to the system to delete the document from the Broadcast Documents libra
  _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Elevates to the system to delete the document from the Broadcast Documents libra
 |:-----|:-----|:-----|:-----|
 |Required| _FileID_|**String**|The file to be removed from the Broadcast Documents library.|
 
-### Return value
+## Return value
 
 None
 

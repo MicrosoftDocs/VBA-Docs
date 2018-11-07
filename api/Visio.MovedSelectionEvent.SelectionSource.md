@@ -23,7 +23,7 @@ Returns a  **[Selection](Visio.Selection.md)** object that represents the set of
  _expression_ A variable that represents a '[MovedSelectionEvent](Visio.MovedSelectionEvent.md)' object.
 
 
-### Return value
+## Return value
 
  **Selection**
 

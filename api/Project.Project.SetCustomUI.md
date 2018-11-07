@@ -23,7 +23,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 |:-----|:-----|:-----|:-----|
 | _CustomUIXML_|Required|**String**|Valid XML data for modifying the ribbon.|
 
-### Return value
+## Return value
 
  **Nothing**
 

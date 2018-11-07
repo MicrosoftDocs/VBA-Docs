@@ -23,7 +23,7 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
  _expression_ A variable that represents an [Axes](Excel.Axes(object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
 | _Type_|Required| **[XlAxisType](Excel.XlAxisType.md)**|The axis type.|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
 
-### Return value
+## Return value
 
 Axis
 

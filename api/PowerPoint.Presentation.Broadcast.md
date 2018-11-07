@@ -23,7 +23,7 @@ Returns the  **Broadcast** object of the current **Presentation** object. Read-o
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
  **Broadcast**
 

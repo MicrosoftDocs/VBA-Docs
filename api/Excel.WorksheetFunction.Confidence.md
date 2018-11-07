@@ -27,7 +27,7 @@ For more information about the new functions, see the [Confidence_Norm](Excel.Wo
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ For more information about the new functions, see the [Confidence_Norm](Excel.Wo
 | _Arg2_|Required| **Double**|The population standard deviation for the data range and is assumed to be known.|
 | _Arg3_|Required| **Double**|The sample size.|
 
-### Return value
+## Return value
 
 Double
 

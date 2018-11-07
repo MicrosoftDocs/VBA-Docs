@@ -23,7 +23,7 @@ Returns the label of the specified item in the redo list.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the label of the specified item in the redo list.
 |:-----|:-----|:-----|:-----|
 | _ItemIndex_|Required|**Long**|Index of the item in the redo list.|
 
-### Return value
+## Return value
 
  **String**
 

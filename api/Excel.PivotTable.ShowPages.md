@@ -23,7 +23,7 @@ Creates a new PivotTable report for each item in the page field. Each new report
  _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new PivotTable report for each item in the page field. Each new report
 |:-----|:-----|:-----|:-----|
 | _PageField_|Optional| **Variant**|A string that names a single page field in the report.|
 
-### Return value
+## Return value
 
 Variant
 

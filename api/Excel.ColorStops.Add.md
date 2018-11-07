@@ -23,7 +23,7 @@ Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
  _expression_ An expression that returns a '[ColorStops](Excel.ColorStops.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
 |:-----|:-----|:-----|:-----|
 | _Position_|Required| **Double**|Represents the position in which to apply the  **ColorStop** .|
 
-### Return value
+## Return value
 
 ColorStop
 

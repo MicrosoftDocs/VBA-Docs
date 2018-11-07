@@ -23,7 +23,7 @@ Creates a new  **Menu** object at a specified index in the **Menus** collection.
  _expression_ A variable that represents a [Menus](./Visio.Menus.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new  **Menu** object at a specified index in the **Menus** collection.
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index at which to add the object.|
 
-### Return value
+## Return value
 
 Menu
 

@@ -16,7 +16,7 @@ Moves each shape in the shape range horizontally by the specified number of poin
  _expression_ A variable that represents a 'ShapeRange' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -25,7 +25,7 @@ Moves each shape in the shape range horizontally by the specified number of poin
 | _Increment_|Required|**Single**|Specifies how far the shapes are to be moved horizontally, in points. A positive value moves the shapes to the right; a negative value moves them to the left.|
 | _Increment_|Required|FLOAT||
 
-### Return value
+## Return value
 
  **Nothing**
 

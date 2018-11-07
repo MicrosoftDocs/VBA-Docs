@@ -23,7 +23,7 @@ Returns a  **COMAddIns** collection that represents a reference to the Component
  _expression_ A variable that represents a  **Application** object.
 
 
-### Return value
+## Return value
 
 COMAddIns
 

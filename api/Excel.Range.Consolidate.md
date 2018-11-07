@@ -23,7 +23,7 @@ Consolidates data from multiple ranges on multiple worksheets into a single rang
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Consolidates data from multiple ranges on multiple worksheets into a single rang
 | _LeftColumn_|Optional| **Variant**| **True** to consolidate data based on row titles in the left column of the consolidation ranges. **False** to consolidate data by position. The default value is **False** .|
 | _CreateLinks_|Optional| **Variant**| **True** to have the consolidation use worksheet links. **False** to have the consolidation copy the data. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

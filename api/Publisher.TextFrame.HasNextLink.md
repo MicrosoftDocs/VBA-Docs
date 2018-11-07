@@ -23,7 +23,7 @@ Indicates whether the specified text frame has a valid forward text-box link. Re
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -23,7 +23,7 @@ Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is 
  _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is 
 | _Target_|Required| **Variant**|Contains an array of  **String** values, as described in the Remarks section.|
 | _LinkSource_|Required| **Boolean**||
 
-### Return value
+## Return value
 
 A String value that represents the URL of the published list on the SharePoint site.
 

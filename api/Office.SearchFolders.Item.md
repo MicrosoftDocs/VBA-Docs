@@ -23,7 +23,7 @@ Gets a  **ScopeFolder** object that represents a subfolder of the parent object.
  _expression_ Required. A variable that represents a '[SearchFolders](Office.SearchFolders.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

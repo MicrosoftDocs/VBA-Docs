@@ -31,7 +31,7 @@ For more information about the new functions, see the [Quartile_Inc](Excel.Works
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ For more information about the new functions, see the [Quartile_Inc](Excel.Works
 | _Arg1_|Required| **Variant**|Array - the array or cell range of numeric values for which you want the quartile value.|
 | _Arg2_|Required| **Double**|Quart - indicates which value to return.|
 
-### Return value
+## Return value
 
 Double
 

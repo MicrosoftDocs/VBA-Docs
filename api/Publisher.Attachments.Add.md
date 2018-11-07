@@ -23,7 +23,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
  _expression_ A variable that represents an  **Attachments** colleciton.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds an  **Attachment** object to the **Attachments** collection of a Microsoft 
 |:-----|:-----|:-----|:-----|
 |Filename|Required| **String**|File name of the attachment.|
 
-### Return value
+## Return value
 
 Attachment
 

@@ -23,7 +23,7 @@ Pastes a list of all nonhidden names onto the worksheet, beginning with the firs
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

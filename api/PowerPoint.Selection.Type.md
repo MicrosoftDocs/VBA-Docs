@@ -23,7 +23,7 @@ Represents the type of objects in a selection. Read-only.
  _expression_ A variable that represents a [Selection](./PowerPoint.Selection.md) object.
 
 
-### Return value
+## Return value
 
 PpSelectionType
 

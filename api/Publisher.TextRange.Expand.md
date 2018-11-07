@@ -23,7 +23,7 @@ Expands the specified range or selection. Returns or sets a  **Long** that repre
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Expands the specified range or selection. Returns or sets a  **Long** that repre
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbTextUnit**|The unit by which to expand the range.|
 
-### Return value
+## Return value
 
 Long
 

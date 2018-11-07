@@ -20,7 +20,7 @@ Adds a  **Group** object to a **ResourceGroups** collection.
  _expression_ A variable that represents a 'ResourceGroups' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Adds a  **Group** object to a **ResourceGroups** collection.
 | _Name_|Required|**String**|The name of a group definition.|
 | _FieldName_|Required|**String**|The name of the first field to group by.|
 
-### Return value
+## Return value
 
  **Group**
 

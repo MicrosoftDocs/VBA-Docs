@@ -23,7 +23,7 @@ Returns the active  **Window** object. Read-only.
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
 
-### Return value
+## Return value
 
 Window
 

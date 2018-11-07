@@ -23,7 +23,7 @@ Returns an array naming the folders Microsoft Visio would search, given a list o
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns an array naming the folders Microsoft Visio would search, given a list o
 | _PathsString_|Required| **String**|A string of full or partial paths separated by semicolons.|
 | _NameArray()_|Required| **String**|Out parameter. An array that receives the enumerated folder names.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Specifies the extensions to the  **MouseMove** event that Visio reports.
  _expression_ An expression that returns a [Event](./Visio.Event.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Specifies the extensions to the  **MouseMove** event that Visio reports.
 |:-----|:-----|:-----|:-----|
 | _filterActionStream()_|Required| **Long**|An array of action/value pairs. For more information, see Remarks.|
 
-### Return value
+## Return value
 
 Nothing
 

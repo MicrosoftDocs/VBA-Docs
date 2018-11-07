@@ -23,7 +23,7 @@ Returns the Pearson product moment correlation coefficient, r, a dimensionless i
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the Pearson product moment correlation coefficient, r, a dimensionless i
 | _Arg1_|Required| **Variant**|Array1 - a set of independent values.|
 | _Arg2_|Required| **Variant**|Array2 - a set of dependent values.|
 
-### Return value
+## Return value
 
 Double
 

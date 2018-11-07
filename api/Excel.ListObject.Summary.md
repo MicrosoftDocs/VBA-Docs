@@ -23,7 +23,7 @@ Returns or sets the description associated with the alternative text string for 
  _expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

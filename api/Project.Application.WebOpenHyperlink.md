@@ -23,7 +23,7 @@ Opens the document specified by a hyperlink address.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Opens the document specified by a hyperlink address.
 | _AddHistory_|Optional|**Boolean**|**True** if the target document is added to the History folder. The default value is **True**.|
 | _NewWindow_|Optional|**Boolean**|**True** if the target document displays in a new window. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

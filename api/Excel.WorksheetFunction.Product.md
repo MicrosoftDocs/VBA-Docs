@@ -23,7 +23,7 @@ Multiplies all the numbers given as arguments and returns the product.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Multiplies all the numbers given as arguments and returns the product.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 numbers that you want to multiply.|
 
-### Return value
+## Return value
 
 Double
 

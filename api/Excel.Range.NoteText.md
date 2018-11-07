@@ -23,7 +23,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns or sets the cell note associated with the cell in the upper-left corner 
 | _Start_|Optional| **Variant**|The starting position for the text that?s set or returned. If this argument is omitted, this method starts at the first character. To append text to the note, specify a number larger than the number of characters in the existing note.|
 | _Length_|Optional| **Variant**|The number of characters to be set or returned. If this argument is omitted, Microsoft Excel sets or returns characters from the starting position to the end of the note (up to 255 characters). If there are more than 255 characters from  _Start_ to the end of the note, this method returns only 255 characters.|
 
-### Return value
+## Return value
 
 String
 

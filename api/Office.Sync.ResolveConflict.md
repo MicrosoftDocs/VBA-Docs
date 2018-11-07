@@ -26,7 +26,7 @@ Resolves conflicts between the local and the server copies of a shared document.
  _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

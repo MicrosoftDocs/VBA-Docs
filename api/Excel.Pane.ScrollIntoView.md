@@ -23,7 +23,7 @@ Scrolls the document window so that the contents of a specified rectangular area
  _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

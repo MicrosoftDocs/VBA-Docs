@@ -23,7 +23,7 @@ Returns an individual  **Document** object in a collection.
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **Document** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long** or **String**|The position within the collection of the object to be returned (**Long**), or the name of the object (**String**).|
 
-### Return value
+## Return value
 
 Document
 

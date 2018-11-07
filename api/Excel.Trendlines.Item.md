@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number for the object.|
 
-### Return value
+## Return value
 
 A  **[Trendline](Excel.Trendline(object).md)** object contained by the collection.
 

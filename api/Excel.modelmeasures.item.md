@@ -21,14 +21,14 @@ Returns a single object from a collection.
  _expression_ A variable that represents a 'ModelMeasures' object.
 
 
-### Parameters
+## Parameters
 
 
 
 |||||
 | _Index_|Required|VARIANT|The name or index number of the object.|
 
-### Return value
+## Return value
 
 [ModelMeasure](Excel.modelmeasure.md)
 

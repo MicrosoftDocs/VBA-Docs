@@ -23,7 +23,7 @@ Returns or sets the line break control option if you have an Asian language sett
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

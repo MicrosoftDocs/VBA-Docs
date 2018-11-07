@@ -23,7 +23,7 @@ _expression_. `BeforeUpdate`( ` _Cancel_`, )
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**||
 
-### Return value
+## Return value
 
 nothing
 

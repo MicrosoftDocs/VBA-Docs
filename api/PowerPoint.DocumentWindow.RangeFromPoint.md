@@ -23,7 +23,7 @@ Returns the  **Shape** object that is located at the point specified by the scre
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

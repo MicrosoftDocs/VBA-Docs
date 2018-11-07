@@ -26,7 +26,7 @@ Returns True if the control identified by the  **idMso** parameter is visible.
  _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns True if the control identified by the  **idMso** parameter is visible.
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return value
+## Return value
 
 Boolean
 

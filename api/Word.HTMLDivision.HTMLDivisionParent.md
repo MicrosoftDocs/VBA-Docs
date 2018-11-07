@@ -23,7 +23,7 @@ Returns an  **HTMLDivision** object that represents a parent division of the cur
  _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **HTMLDivision** object that represents a parent division of the cur
 |:-----|:-----|:-----|:-----|
 | _LevelsUp_|Optional| **Long**|The number of parent divisions to count back to return the desired division. If the LevelsUp argument is omitted, the HTML division returned is one level up from the current HTML division.|
 
-### Return value
+## Return value
 
 HTMLDivision
 

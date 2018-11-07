@@ -23,7 +23,7 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Flips the specified shape around its horizontal or vertical axis, or flips all t
 |:-----|:-----|:-----|:-----|
 |FlipCmd|Required| **MsoFlipCmd**| Specifies whether the shape is flipped horizontally or vertically.|
 
-### Return value
+## Return value
 
 Nothing
 

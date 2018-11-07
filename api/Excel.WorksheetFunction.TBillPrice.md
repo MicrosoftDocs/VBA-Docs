@@ -23,7 +23,7 @@ Returns the price per $100 face value for a Treasury bill.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the price per $100 face value for a Treasury bill.
 | _Arg2_|Required| **Variant**|Maturity - the Treasury bill's maturity date. The maturity date is the date when the Treasury bill expires.|
 | _Arg3_|Optional| **Variant**|Discount - the Treasury bill's discount rate.|
 
-### Return value
+## Return value
 
 Double
 

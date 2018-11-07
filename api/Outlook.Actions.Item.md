@@ -23,7 +23,7 @@ Returns an  **[Action](Outlook.Action.md)** object from the collection.
  _expression_ A variable that represents an [Actions](./Outlook.Actions.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[Action](Outlook.Action.md)** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **Action** object that represents the specified object.
 

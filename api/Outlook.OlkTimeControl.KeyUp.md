@@ -23,7 +23,7 @@ Occurs when the user releases a key.
  _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

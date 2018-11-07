@@ -23,7 +23,7 @@ Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md
  _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds the specified field to the end of the  **[ViewFields](Outlook.ViewFields.md
 |:-----|:-----|:-----|:-----|
 | _PropertyName_|Required| **String**|The name of the property to which the new object is associated. This property can be referenced by field name (displayed in the Field Chooser) or by namespace (represented by  **[ViewField.ViewXMLSchemaName](Outlook.ViewField.ViewXMLSchemaName.md)**).|
 
-### Return value
+## Return value
 
 A  **ViewField** object that represents the new view field.
 

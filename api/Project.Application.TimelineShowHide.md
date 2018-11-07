@@ -23,7 +23,7 @@ Shows or hides the specified feature in the Timeline view.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Shows or hides the specified feature in the Timeline view.
 | _Item_|Required|**PjTimelineShowHide**|Specifies the feature to show or hide. Can be one of the  **[PjTimelineShowHide](Project.PjTimelineShowHide.md)** constants.|
 | _Show_|Optional|**Boolean**|**False** if the feature is hidden; otherwise, **True**. The default value is **True**, which shows the feature.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Adds an entry to the array of AutoCorrect replacements.
  _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds an entry to the array of AutoCorrect replacements.
 | _What_|Required| **String**|The text to be replaced. If this string already exists in the array of AutoCorrect replacements, the existing substitute text is replaced by the new text.|
 | _Replacement_|Required| **String**|The replacement text.|
 
-### Return value
+## Return value
 
 Variant
 

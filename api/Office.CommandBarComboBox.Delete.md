@@ -20,7 +20,7 @@ Deletes  **CommandBarCombo** control object from its collection.
  _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

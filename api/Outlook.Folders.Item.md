@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
  _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 A  **Folder** object that represents the specified object.
 

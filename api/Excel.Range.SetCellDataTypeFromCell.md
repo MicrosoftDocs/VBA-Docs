@@ -21,7 +21,7 @@ Creates another instance of a Linked data type such as [Stocks or Geography](htt
  _expression_ A variable that represents the [Range](Excel.Range(Object).md) _to_ which you want to copy the Linked data type.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

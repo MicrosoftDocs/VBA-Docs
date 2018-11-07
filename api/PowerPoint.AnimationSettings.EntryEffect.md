@@ -23,7 +23,7 @@ For the  **AnimationSettings** object, this property returns or sets the special
  _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
-### Return value
+## Return value
 
 PpEntryEffect
 

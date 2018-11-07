@@ -23,7 +23,7 @@ Creates an OLE object. Returns the  **[InlineShape](Word.InlineShape.md)** objec
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

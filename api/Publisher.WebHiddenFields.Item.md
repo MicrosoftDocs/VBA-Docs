@@ -23,7 +23,7 @@ Returns a  **String** corresponding to the value of a hidden field in a Web form
  _expression_ A variable that represents a  **WebHiddenFields** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **String** corresponding to the value of a hidden field in a Web form
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### Return value
+## Return value
 
 String
 

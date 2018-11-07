@@ -23,7 +23,7 @@ _expression_. `Error`( ` _DataErr_`, ` _Response_` )
 _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 <ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acDataErrContinue</b>  Ignore the error and continue without displaying the default Microsoft Access error message. You can supply a custom error message in place of the default error message.  
   </p></li><li><p><b>acDataErrDisplay</b>  (Default) Display the default Microsoft Access error message.</p></li></ul>|
 
-### Return value
+## Return value
 
 nothing
 

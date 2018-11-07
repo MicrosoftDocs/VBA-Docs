@@ -16,7 +16,7 @@ Returns an object that represents either a single axis or a collection of the ax
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -27,7 +27,7 @@ Returns an object that represents either a single axis or a collection of the ax
 | _Type_|Optional|VARIANT||
 | _AxisGroup_|Optional|XLAXISGROUP||
 
-### Return value
+## Return value
 
  **Object**
 

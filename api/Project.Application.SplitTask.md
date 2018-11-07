@@ -23,7 +23,7 @@ Enters the interactive task split mode, enabling the user to manually create tas
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Enters the interactive task split mode, enabling the user to manually create tas
 |:-----|:-----|:-----|:-----|
 | _Lock_|Optional|**Boolean**|**True** if the task split pointer stays active after a split is made, enabling more task splits to be made. **False** if the pointer returns to normal after making a split. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

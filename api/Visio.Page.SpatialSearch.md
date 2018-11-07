@@ -23,7 +23,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
 | _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space.|
 | _Flags_|Required| **Integer**|Flags that influence the result.|
 
-### Return value
+## Return value
 
 Selection
 

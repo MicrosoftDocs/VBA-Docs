@@ -26,7 +26,7 @@ Gets or sets the width (in pixels) of the specified command bar. Read/write.
  _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

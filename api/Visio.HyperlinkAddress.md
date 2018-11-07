@@ -20,7 +20,7 @@ Gets the address of the specified hyperlink associated with the specified shape 
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Gets the address of the specified hyperlink associated with the specified shape 
 |ShapeIndex|Required| **Long**|The index of the specified shape in the collection of shapes in the drawing that is open in Visio Viewer.|
 |HyperlinkIndex|Required| **Long**|The index of the specified hyperlink in the collection of hyperlinks in the specified shape in the drawing that is open in Visio Viewer.|
 
-### Return value
+## Return value
 
  **String**
 

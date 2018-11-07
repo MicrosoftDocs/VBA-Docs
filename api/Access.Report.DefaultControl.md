@@ -23,7 +23,7 @@ _expression_. `DefaultControl`( ` _ControlType_` )
 _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

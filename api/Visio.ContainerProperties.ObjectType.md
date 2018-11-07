@@ -23,7 +23,7 @@ Returns  **visObjTypeContainerProperties** , the type of this object. Read-only.
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return value
+## Return value
 
  **visObjTypeContainerProperties**
 

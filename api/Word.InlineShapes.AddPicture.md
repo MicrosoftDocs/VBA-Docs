@@ -23,7 +23,7 @@ Adds a picture to a document. Returns an  **[InlineShape](Word.InlineShape.md)**
  _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

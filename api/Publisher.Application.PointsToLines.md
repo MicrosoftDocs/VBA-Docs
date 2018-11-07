@@ -23,7 +23,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
  _expression_ A variable that represents an  **Application** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to lines.|
 
-### Return value
+## Return value
 
 Single
 

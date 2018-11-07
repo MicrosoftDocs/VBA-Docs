@@ -23,7 +23,7 @@ Private Sub  _expression_ _'BeforeDataRecordsetDelete'(**_ByVal DataRecordset As
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

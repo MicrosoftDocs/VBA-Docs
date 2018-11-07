@@ -29,7 +29,7 @@ Returns the t-value of the Student's t-distribution as a function of the probabi
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Returns the t-value of the Student's t-distribution as a function of the probabi
 | _Arg1_|Required| **Double**|Probability - the probability associated with the two-tailed Student's t-distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom - the number of degrees of freedom with which to characterize the distribution.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Returns a single  **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** object
  _expression_ A variable that represents a [ColorScaleCriteria](Excel.ColorScaleCriteria.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **String** that represents the default path for picture files. Read.
  _expression_ A variable that represents a  **Options** object.
 
 
-### Return value
+## Return value
 
 String
 

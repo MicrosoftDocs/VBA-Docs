@@ -23,7 +23,7 @@ Applies the specified permission policy to the active document.
  _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Opens or closes the connection to Project Server.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens or closes the connection to Project Server.
 |:-----|:-----|:-----|:-----|
 | _fOffline_|Optional|**Boolean**|**True** closes the connection to Project Server. **False** opens the connection to Project Server.|
 
-### Return value
+## Return value
 
  **Boolean**
 

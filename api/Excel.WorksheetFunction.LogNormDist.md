@@ -27,7 +27,7 @@ For more information about the new functions, see the [LogNorm_Dist](Excel.Works
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ For more information about the new functions, see the [LogNorm_Dist](Excel.Works
 | _Arg2_|Required| **Double**|Mean - the mean of ln(x).|
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of ln(x).|
 
-### Return value
+## Return value
 
 Double
 

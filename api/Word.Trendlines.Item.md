@@ -23,7 +23,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a '[Trendlines](Word.Trendlines.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The index number for the object.|
 
-### Return value
+## Return value
 
 A  **[Trendline](Word.Trendline.md)** object that the collection contains.
 

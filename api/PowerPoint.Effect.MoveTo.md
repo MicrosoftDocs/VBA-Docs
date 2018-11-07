@@ -23,7 +23,7 @@ Moves the specified object to a specific location within the same collection, re
  _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

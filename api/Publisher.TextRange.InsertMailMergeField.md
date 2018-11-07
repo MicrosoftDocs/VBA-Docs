@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a text
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The name or index of the data field in the datasource.|
 
-### Return value
+## Return value
 
 TextRange
 

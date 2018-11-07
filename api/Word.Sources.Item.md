@@ -23,7 +23,7 @@ Returns a  **Source** object that represents the specified item in the collectio
  _expression_ An expression that returns a '[Sources](Word.Sources.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Source** object that represents the specified item in the collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 
-### Return value
+## Return value
 
 Source
 

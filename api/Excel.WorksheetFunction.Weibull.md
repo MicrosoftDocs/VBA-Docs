@@ -29,7 +29,7 @@ Returns the Weibull distribution. Use this distribution in reliability analysis,
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -40,7 +40,7 @@ Returns the Weibull distribution. Use this distribution in reliability analysis,
 | _Arg3_|Required| **Double**|Beta - a parameter to the distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - determines the form of the function.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Closes the specified  **Protected View** window.
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
-### Return value
+## Return value
 
 Boolean
 

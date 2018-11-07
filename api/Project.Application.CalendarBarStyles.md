@@ -23,7 +23,7 @@ Turns bar rounding on or off in the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Turns bar rounding on or off in the Calendar.
 |:-----|:-----|:-----|:-----|
 | _BarRounding_|Optional|**Boolean**|**True** if bars in the Calendar round to midnight if their start times are less than or equal to the default start time, or if their end times are greater than or equal to the default end time. If **BarRounding** is omitted, the **Bar Styles** dialog box appears.|
 
-### Return value
+## Return value
 
  **Boolean**
 

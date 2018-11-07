@@ -20,7 +20,7 @@ Returns a single  **[Axis](Word.Axis.md)** object from an **Axes** collection.
  _expression_ A variable that represents an '[Axes](Word.Axes.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

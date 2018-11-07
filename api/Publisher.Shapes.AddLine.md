@@ -23,7 +23,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the sp
  _expression_ A variable that represents a  **Shapes** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a line to the sp
 |EndX|Required| **Variant**|The x-coordinate of the ending point of the line.|
 |EndY|Required| **Variant**|The y-coordinate of the ending point of the line.|
 
-### Return value
+## Return value
 
 Shape
 

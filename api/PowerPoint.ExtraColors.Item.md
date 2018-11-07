@@ -23,7 +23,7 @@ Returns a single color from the specified  **ExtraColors** collection.
  _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single color from the specified  **ExtraColors** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single object in the collection to be returned.|
 
-### Return value
+## Return value
 
 MsoRGBType
 

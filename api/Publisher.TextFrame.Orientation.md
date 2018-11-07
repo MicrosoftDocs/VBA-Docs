@@ -23,7 +23,7 @@ Returns or sets a  **PbTextOrientation**constant that represents how text flows 
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return value
+## Return value
 
 PbTextOrientation
 

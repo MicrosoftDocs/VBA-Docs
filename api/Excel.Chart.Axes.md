@@ -23,7 +23,7 @@ Returns an object that represents either a single axis or a collection of the ax
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns an object that represents either a single axis or a collection of the ax
 | _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
 | _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
 
-### Return value
+## Return value
 
 Object
 

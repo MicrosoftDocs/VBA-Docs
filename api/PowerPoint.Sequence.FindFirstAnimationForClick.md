@@ -23,7 +23,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 |:-----|:-----|:-----|:-----|
 | _click_|Required|**Long**|The specified click number.|
 
-### Return value
+## Return value
 
 Effect
 

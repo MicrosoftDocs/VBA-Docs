@@ -23,7 +23,7 @@ Returns a  **Range** object that refers to the start position of the next item o
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

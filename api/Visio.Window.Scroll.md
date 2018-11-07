@@ -23,7 +23,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Scrolls the contents of a window vertically, horizontally, or both.
 | _nxFlags_|Required| **Long**|Indicates how to scroll horizontally.|
 | _nyFlags_|Required| **Long**|Indicates how to scroll vertically.|
 
-### Return value
+## Return value
 
 Nothing
 

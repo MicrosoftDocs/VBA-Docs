@@ -23,7 +23,7 @@ Creates names in the specified range, based on text labels in the sheet.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Creates names in the specified range, based on text labels in the sheet.
 | _Bottom_|Optional| **Variant**| **True** to create names by using labels in the bottom row. The default value is **False** .|
 | _Right_|Optional| **Variant**| **True** to create names by using labels in the right column. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents a page
 |:-----|:-----|:-----|:-----|
 |Type|Optional| **PbPageNumberType**|Specifies whether the page number is the current page number or the next or previous page number of a linked text box.|
 
-### Return value
+## Return value
 
 TextRange
 

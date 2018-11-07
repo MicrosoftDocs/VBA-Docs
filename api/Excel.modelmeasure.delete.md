@@ -21,7 +21,7 @@ Deletes the model measure from the data model.
  _expression_ A variable that represents a 'ModelMeasure' object.
 
 
-### Return value
+## Return value
 
 Void
 

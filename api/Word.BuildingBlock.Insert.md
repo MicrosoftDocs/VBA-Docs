@@ -23,7 +23,7 @@ Inserts the value of a building block into a document and returns a  **[Range](W
  _expression_ An expression that returns a '[BuildingBlock](Word.BuildingBlock.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Inserts the value of a building block into a document and returns a  **[Range](W
 | _Where_|Required| **Range**|The location of where to place the contents of the building block.|
 | _RichText_|Optional| **Variant**| **True** inserts the building block as rich, formatted text. **False** inserts the building block as plain text.|
 
-### Return value
+## Return value
 
 Range
 

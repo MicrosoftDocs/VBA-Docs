@@ -23,7 +23,7 @@ Shows or hides progress marks in the active Network Diagram.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides progress marks in the active Network Diagram.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if progress marks display in the active view. The default value is **True** if progress marks are hidden and **False** if they are visible.|
 
-### Return value
+## Return value
 
  **Boolean**
 

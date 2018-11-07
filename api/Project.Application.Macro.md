@@ -23,7 +23,7 @@ Runs a macro.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Runs a macro.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the macro to run. If  **Name** is omitted, the **Macros** dialog box appears.|
 
-### Return value
+## Return value
 
  **Boolean**
 

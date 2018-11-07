@@ -21,7 +21,7 @@ Updates the display by redrawing the frame.
  _expression_ A variable that represents a  **Frame** object.
 
 
-### Return value
+## Return value
 
 A Boolean that returns  **True** if the method succeeds; returns **False** otherwise.
 

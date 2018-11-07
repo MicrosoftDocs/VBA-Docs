@@ -23,7 +23,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell identified by secti
 | _Row_|Required| **Integer**|The cell's row index.|
 | _Column_|Required| **Integer**|The cell's column index.|
 
-### Return value
+## Return value
 
 Cell
 

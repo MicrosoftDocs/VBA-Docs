@@ -23,7 +23,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
  _expression_ A variable that represents an [EventList](./Visio.EventList.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 | _Target_|Required| **String**|The name of your add-on.|
 | _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
-### Return value
+## Return value
 
 Event
 

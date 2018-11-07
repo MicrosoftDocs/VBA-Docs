@@ -23,7 +23,7 @@ Creates or removes a deliverable for the selected task. Available only in Projec
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates or removes a deliverable for the selected task. Available only in Projec
 |:-----|:-----|:-----|:-----|
 | _Create_|Optional|**Variant**|If the selected task has no associated deliverable,  **True** creates a deliverable. If the selected task does have an associated deliverable, **False** removes the deliverable. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

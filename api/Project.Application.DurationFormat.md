@@ -23,7 +23,7 @@ Returns a duration in the specified units.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a duration in the specified units.
 | _Duration_|Required|**Variant**|The duration to be expressed.|
 | _Units_|Optional|**Long**|The units used to express the duration. Can be one of the  **[PjFormatUnit](Project.PjFormatUnit.md)** constants.|
 
-### Return value
+## Return value
 
  **String**
 

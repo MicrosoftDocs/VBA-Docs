@@ -23,7 +23,7 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
  _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned.|
 
-### Return value
+## Return value
 
  **[CoAuthLock](Word.CoAuthLock.md)**
 

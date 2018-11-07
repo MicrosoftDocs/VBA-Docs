@@ -23,7 +23,7 @@ Returns a  **[SlicerItem](Excel.SlicerItem.md)** object that represents the slic
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
  **SlicerItem**
 

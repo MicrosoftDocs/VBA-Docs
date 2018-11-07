@@ -23,7 +23,7 @@ Sets the starting and ending character positions for the selection.
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

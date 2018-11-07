@@ -23,7 +23,7 @@ Determines whether TrueType fonts are printed as graphics. Read/write.
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

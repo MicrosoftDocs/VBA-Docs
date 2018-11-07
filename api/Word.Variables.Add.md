@@ -23,7 +23,7 @@ Returns a  **Variable** object that represents a variable added to a document.
  _expression_ Required. A variable that represents a '[Variables](Word.variables.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **Variable** object that represents a variable added to a document.
 | _Name_|Required| **String**|The name of the document variable.|
 | _Value_|Optional| **Variant**|The value for the document variable.|
 
-### Return value
+## Return value
 
 Variable
 

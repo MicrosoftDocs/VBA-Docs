@@ -23,7 +23,7 @@ Removes a shape from the specified page's catalog merge area. Removed shapes are
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return value
+## Return value
 
 Nothing
 

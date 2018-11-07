@@ -23,7 +23,7 @@ Selects a column containing resource information.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Selects a column containing resource information.
 | _Extend_|Optional|**Boolean**|**True** if all columns between the current selection and **Column** are selected. The default value is **False**.|
 | _Add_|Optional|**Boolean**|**True** if the current column is included in the selection. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

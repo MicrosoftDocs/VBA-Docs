@@ -23,7 +23,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
  _expression_ A variable that represents a 'Projects' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Indicates whether Project can check out the specified project from a SharePoint 
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|The name of the file to check out.|
 
-### Return value
+## Return value
 
  **Boolean**
 

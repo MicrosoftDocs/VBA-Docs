@@ -23,7 +23,7 @@ Inserts an XE (Index Entry) field after all instances of the text in  **Range** 
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

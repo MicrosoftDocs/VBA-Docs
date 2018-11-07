@@ -21,7 +21,7 @@ Returns all the categories in the chart group, or the specified category, whethe
  _expression_ A variable that represents a [ChartGroup](./Word.ChartGroup.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns all the categories in the chart group, or the specified category, whethe
 |||||
 | _Index_|Optional|VARIANT|The index number in the full category collection of the category to return.|
 
-### Return value
+## Return value
 
  **OBJECT**
 

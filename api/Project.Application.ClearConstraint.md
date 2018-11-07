@@ -23,7 +23,7 @@ Clears the constraint on a specified task.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Clears the constraint on a specified task.
 |:-----|:-----|:-----|:-----|
 | _TaskID_|Required|**Long**|Identification number of the task.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect
  _expression_ Required. A variable that represents an '[AutoCorrectEntries](Word.autocorrectentries.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

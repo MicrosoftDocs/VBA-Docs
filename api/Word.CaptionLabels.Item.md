@@ -23,7 +23,7 @@ Returns an individual  **CaptionLabel** object in a collection.
  _expression_ Required. A variable that represents a '[CaptionLabels](Word.captionlabels.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **CaptionLabel** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned. Can be a  **Long** indicating the ordinal position or a **String** representing the name of the individual object.|
 
-### Return value
+## Return value
 
 CaptionLabel
 

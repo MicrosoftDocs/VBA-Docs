@@ -23,7 +23,7 @@ Returns a  **Selection** object that represents the shapes that meet certain cri
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a  **Selection** object that represents the shapes that meet certain cri
 | _Flags_|Required| **Integer**|Flags that influence the type of entries returned in results.|
 | _ResultRoot_|Optional| **Variant**|A  **Shape** object that represents a page or group.|
 
-### Return value
+## Return value
 
 Selection
 

@@ -23,7 +23,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing a col
  _expression_ A variable that represents a  **ColorScheme** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object representing a col
 |:-----|:-----|:-----|:-----|
 |ColorIndex|Required| **PbSchemeColorIndex**| The color from the scheme to return based on its function in the scheme.|
 
-### Return value
+## Return value
 
 ColorFormat
 

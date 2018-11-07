@@ -23,7 +23,7 @@ Sets the languages for the translation service.
  _expression_ An expression that returns a [Research](./Word.Research.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Sets the languages for the translation service.
 | _LanguageFrom_|Required| **[WdLanguageID](Word.WdLanguageID.md)**|Specifies the language to translate from.|
 | _LanguageTo_|Required| **WdLanguageID**|Specifies the langauge to translate to.|
 
-### Return value
+## Return value
 
 Variant
 

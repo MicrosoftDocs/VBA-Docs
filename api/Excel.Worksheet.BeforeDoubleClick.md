@@ -23,7 +23,7 @@ Occurs when a worksheet is double-clicked, before the default double-click actio
  _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

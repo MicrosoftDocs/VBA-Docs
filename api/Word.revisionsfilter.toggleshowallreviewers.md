@@ -21,7 +21,7 @@ Shows or hides all revisions in a document that contains comments and tracked ch
  _expression_ A variable that represents a 'RevisionsFilter' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

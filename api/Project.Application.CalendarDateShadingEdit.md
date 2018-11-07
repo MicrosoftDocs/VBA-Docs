@@ -23,7 +23,7 @@ Changes the background color and pattern of date boxes in the Calendar view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Changes the background color and pattern of date boxes in the Calendar view.
 | _Pattern_|Optional|**Long**|The pattern for the type of date box specified by  **Item**. Can be one of the **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Color_|Optional|**Long**|The color for the type of date box specified by  **Item**. Can be one of the **[PjColor](Project.PjColor.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

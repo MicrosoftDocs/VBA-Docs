@@ -23,7 +23,7 @@ Returns the two-tailed Student t-distribution.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the two-tailed Student t-distribution.
 | _Arg1_|Required| **Double**|X - The numeric value at which to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Deg_freedom - An integer that indicates the number of degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

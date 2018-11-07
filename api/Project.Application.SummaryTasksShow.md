@@ -23,7 +23,7 @@ Shows or hides summary tasks in the active Network Diagram.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides summary tasks in the active Network Diagram.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if summary tasks display in the active view. The default value is **True** if summary tasks are hidden and **False** if they are visible.|
 
-### Return value
+## Return value
 
  **Boolean**
 

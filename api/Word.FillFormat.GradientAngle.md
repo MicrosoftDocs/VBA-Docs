@@ -23,7 +23,7 @@ Returns or sets the angle of the gradient fill for the specified fill format. Re
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 
 
-### Return value
+## Return value
 
 Single
 

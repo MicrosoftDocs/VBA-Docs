@@ -23,7 +23,7 @@ Saves all rules in the  **[Rules](Outlook.Rules.md)** collection.
  _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Adds a member property field to the display for the cube field.
  _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

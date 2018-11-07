@@ -23,7 +23,7 @@ Returns the ordinal position of the specified shape in the list.
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the ordinal position of the specified shape in the list.
 |:-----|:-----|:-----|:-----|
 | _ShapeMember_|Required| **[Shape](Visio.Shape.md)**|The list member shape for which you want to get the position in the container list.|
 
-### Return value
+## Return value
 
  **Long**
 

@@ -23,7 +23,7 @@ Saves an encrypted document.
  _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Saves an encrypted document.
 | _SessionHandle_|Required|**Long**|The ID of the current session.|
 | _EncryptionData_|Required|**IUnknown**|Contains the encryption information.|
 
-### Return value
+## Return value
 
 Long
 

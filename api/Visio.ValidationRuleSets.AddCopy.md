@@ -23,7 +23,7 @@ Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a copy of an existing  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** 
 | _RuleSet_|Required| **ValidationRuleSet**|The existing rule set to copy and add to the collection of rule sets.|
 | _NameU_|Optional| **String**|The universal name to assign to the new validation rule set.|
 
-### Return value
+## Return value
 
  **ValidationRuleSet**
 

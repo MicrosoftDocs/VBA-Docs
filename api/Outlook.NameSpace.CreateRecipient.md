@@ -23,7 +23,7 @@ Creates a  **[Recipient](Outlook.Recipient.md)** object.
  _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a  **[Recipient](Outlook.Recipient.md)** object.
 |:-----|:-----|:-----|:-----|
 | _RecipientName_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.|
 
-### Return value
+## Return value
 
 A  **Recipient** object that represents the new recipient.
 

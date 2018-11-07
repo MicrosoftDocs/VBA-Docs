@@ -23,7 +23,7 @@ Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents th
  _expression_ A variable that represents an '[AppointmentItem](Outlook.AppointmentItem.md)' object.
 
 
-### Return value
+## Return value
 
 A  **Conversation** object that represents the conversation to which this item belongs.
 

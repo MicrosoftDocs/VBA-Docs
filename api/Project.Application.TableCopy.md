@@ -23,7 +23,7 @@ Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|Name of the copied table.|
 
-### Return value
+## Return value
 
  **Boolean**
 

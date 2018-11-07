@@ -23,7 +23,7 @@ Changes the color of the active drawing object.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

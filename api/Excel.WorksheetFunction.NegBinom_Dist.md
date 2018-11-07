@@ -23,7 +23,7 @@ Returns the negative binomial distribution. NEGBINOM_DIST returns the probabilit
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the negative binomial distribution. NEGBINOM_DIST returns the probabilit
 | _Arg3_|Required| **Double**|Probability_s - the probability of a success.|
 | _Arg4_|Optional| **Variant**|Cumulative - A logical value that determines the form of the function. If cumulative is TRUE, NEGBINOM_DIST returns the cumulative distribution function; if FALSE, it returns the probability density function.|
 
-### Return value
+## Return value
 
 Double
 

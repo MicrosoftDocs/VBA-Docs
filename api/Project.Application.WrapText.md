@@ -23,7 +23,7 @@ Toggles the  **Wrap Text** setting in a column.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Toggles the  **Wrap Text** setting in a column.
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Integer**|The target column identifier. If omitted, the  **WrapText** method is applied to the column containing the active cell.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -21,7 +21,7 @@ Returns a single object from the  **CategoryCollection** object.
  _expression_ A variable that represents a [CategoryCollection](Excel.categorycollection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns a single object from the  **CategoryCollection** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
-### Return value
+## Return value
 
 [ChartCategory Object (Excel)](Excel.chartcategory.md)
 

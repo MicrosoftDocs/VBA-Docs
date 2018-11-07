@@ -23,7 +23,7 @@ Gets or sets information about the  **CommandBarComboBox** control, such as data
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return value
+## Return value
 
 String
 

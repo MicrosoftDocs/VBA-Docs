@@ -16,7 +16,7 @@ Applies the formatting of a default shape to the shape.
  _expression_ A variable that represents a 'Shape' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

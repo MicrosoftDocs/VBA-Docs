@@ -23,7 +23,7 @@ _expression_. `Line` ( ` _Step_` ( `x1,  _y1_` ) - ` _Step_` ( ` _x2, y2_` ), ` 
 _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
 
-### Parameters
+## Parameters
 
  _Step_ A keyword that indicates the starting point coordinates are relative to the current graphics position given by the current settings for the **CurrentX** and **CurrentY** properties of the object argument.
 

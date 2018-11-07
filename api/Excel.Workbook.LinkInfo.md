@@ -23,7 +23,7 @@ Returns the link date and update status.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the link date and update status.
 | _Type_|Optional| **Variant**|One of the constants of  **[XlLinkInfoType](Excel.XlLinkInfoType.md)** specifying the type of link to return.|
 | _EditionRef_|Optional| **Variant**|If the link is an edition, this argument specifies the edition reference as a string in R1C1 style. This argument is required if there's more than one publisher or subscriber with the same name in the workbook.|
 
-### Return value
+## Return value
 
 Variant
 

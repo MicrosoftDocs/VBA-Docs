@@ -23,7 +23,7 @@ Returns a  **SectionProperties** object. Read-only.
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 SectionProperties
 

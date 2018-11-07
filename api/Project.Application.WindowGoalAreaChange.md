@@ -20,7 +20,7 @@ Occurs after a user clicks a different goal area in the Project Guide.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Occurs after a user clicks a different goal area in the Project Guide.
 | _Window_|Required|**Window**|The window where the  **Project Guide** is being changed.|
 | _goalArea_|Required|**Long**|The ID of the goal area the user just clicked.|
 
-### Return value
+## Return value
 
 nothing
 

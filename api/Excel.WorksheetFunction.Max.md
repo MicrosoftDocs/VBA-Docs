@@ -23,7 +23,7 @@ Returns the largest value in a set of values.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the largest value in a set of values.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 numbers for which you want to find the maximum value.|
 
-### Return value
+## Return value
 
 Double
 

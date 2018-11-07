@@ -26,7 +26,7 @@ Occurs when the user clicks a  **CommandBarButton** object.
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

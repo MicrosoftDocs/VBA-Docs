@@ -19,7 +19,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 | _SharePointName_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

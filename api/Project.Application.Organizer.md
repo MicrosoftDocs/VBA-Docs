@@ -23,7 +23,7 @@ Displays the  **Organizer** dialog box, which enables the user to manage views, 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Displays the  **Organizer** dialog box, which enables the user to manage views, 
 | _Type_|Optional|**Long**|The type of item to manage. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants. The default value is **pjViews**.|
 | _Task_|Optional|**Boolean**|**True** if the item applies to tasks. **False** if the item applies to resources. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

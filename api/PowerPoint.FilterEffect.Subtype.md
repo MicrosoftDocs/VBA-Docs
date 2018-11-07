@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ A variable that represents a [FilterEffect](./PowerPoint.FilterEffect.md) object.
 
 
-### Return value
+## Return value
 
 MsoAnimFilterEffectSubtype
 

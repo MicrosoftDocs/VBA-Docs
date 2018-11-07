@@ -23,7 +23,7 @@ Returns the price per $100 face value of a discounted security.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Returns the price per $100 face value of a discounted security.
 | _Arg4_|Required| **Variant**|Redemption - the security's redemption value per $100 face value.|
 | _Arg5_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

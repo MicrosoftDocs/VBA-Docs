@@ -26,7 +26,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Updates linked shapes with data contained in the string that conforms to the ADO
 |:-----|:-----|:-----|:-----|
 | _NewDataAsXML_|Required| **String**|An XML string that contains new data to refresh the data recordset and that conforms to the classic ADO schema.|
 
-### Return value
+## Return value
 
 Nothing
 

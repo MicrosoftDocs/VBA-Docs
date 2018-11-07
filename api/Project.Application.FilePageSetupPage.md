@@ -23,7 +23,7 @@ Sets up pages for printing.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Sets up pages for printing.
 | _PaperSize_|Optional|**Long**|The size of the paper to be used when printing. (Some printers may not support all of these paper sizes.) Can be one of the  **[PjPaperSize](Project.PjPaperSize.md)** constants.|
 | _FirstPageNumber_|Optional|**String**|Any valid integer to print on the first page or the string "Auto" to print the actual number of the first printed page. (For example, "3" if the first printed page is page 3.) Succeeding page numbers are incremented on this number. The default value is "Auto".|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Shows a preview of the object as it would look when printed.
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows a preview of the object as it would look when printed.
 |:-----|:-----|:-----|:-----|
 | _EnableChanges_|Optional| **Variant**|Pass a  **Boolean** value to specify if the user can change the margins and other page setup options available in print preview.|
 
-### Return value
+## Return value
 
 Variant
 

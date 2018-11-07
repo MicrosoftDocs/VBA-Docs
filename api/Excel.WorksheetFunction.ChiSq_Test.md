@@ -23,7 +23,7 @@ Returns the test for independence.
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the test for independence.
 | _Arg1_|Required| **Variant**|The range of data that contains observations to test against expected values.|
 | _Arg2_|Required| **Variant**|The range of data that contains the ratio of the product of row totals and column totals to the grand total.|
 
-### Return value
+## Return value
 
 Double
 

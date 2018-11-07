@@ -23,7 +23,7 @@ Multiplies corresponding components in the given arrays, and returns the sum of 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Multiplies corresponding components in the given arrays, and returns the sum of 
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Array1, array2, array3, ... - 2 to 30 arrays whose components you want to multiply and then add.|
 
-### Return value
+## Return value
 
 Double
 

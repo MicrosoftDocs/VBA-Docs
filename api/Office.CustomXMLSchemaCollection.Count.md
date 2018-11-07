@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLSchemaCollecti
  _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

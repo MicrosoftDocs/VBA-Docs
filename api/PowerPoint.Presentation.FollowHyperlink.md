@@ -23,7 +23,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Displays a cached document, if it has already been downloaded. Otherwise, this m
 | _Method_|Optional|**MsoExtraInfoMethod**|Specifies how ExtraInfo is posted or appended.|
 | _HeaderInfo_|Optional|**String**| A string that specifies header information for the HTTP request. The default value is an empty string. You can combine several header lines into a single string by using the following syntax: "string1" &; vbCr &; "string2". The specified string is automatically converted into ANSI characters. Note that the HeaderInfo argument may overwrite default HTTP header fields.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns or sets the position of the axis of the data bars specified by a conditi
  _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
-### Return value
+## Return value
 
  **[XlDataBarAxisPosition](Excel.XlDataBarAxisPosition.md)**
 

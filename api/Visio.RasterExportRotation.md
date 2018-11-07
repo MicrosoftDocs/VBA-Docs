@@ -23,7 +23,7 @@ Determines the rotation that is applied to the exported image when you call the 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisRasterExportRotation](Visio.VisRasterExportRotation.md)**
 

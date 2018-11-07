@@ -23,7 +23,7 @@ Returns the name of the specified add-in or saved presentation, including the pa
  _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
-### Return value
+## Return value
 
 String
 

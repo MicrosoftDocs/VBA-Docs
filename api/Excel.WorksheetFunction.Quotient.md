@@ -23,7 +23,7 @@ Returns the integer portion of a division. Use this function when you want to di
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the integer portion of a division. Use this function when you want to di
 | _Arg1_|Required| **Variant**|Numerator - the dividend.|
 | _Arg2_|Required| **Variant**|Denominator - the divisor.|
 
-### Return value
+## Return value
 
 Double
 

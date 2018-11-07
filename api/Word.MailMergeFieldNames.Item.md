@@ -23,7 +23,7 @@ Returns an individual  **MailMergeFieldNames** object in a collection.
  _expression_ An expression that returns a [MailMergeFieldNames](./Word.MailMergeFieldNames.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **MailMergeFieldNames** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The individual object to be returned.|
 
-### Return value
+## Return value
 
 MailMergeFieldName
 

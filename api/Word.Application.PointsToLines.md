@@ -23,7 +23,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
  _expression_ A variable that represents an '[Application](Word.Application.md)' object. Optional.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts a measurement from points to lines (1 line = 12 points). Returns the co
 |:-----|:-----|:-----|:-----|
 | _Points_|Required| **Single**|The measurement, in points.|
 
-### Return value
+## Return value
 
 Single
 

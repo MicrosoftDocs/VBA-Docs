@@ -23,7 +23,7 @@ Makes a copy of a group definition for the  **Filters** collection and returns a
  _expression_ A variable that represents a 'Filters' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Makes a copy of a group definition for the  **Filters** collection and returns a
 | _Source_|Required|**String**|The name of the filter to copy.|
 | _NewName_|Required|**String**|The name of the new filter.|
 
-### Return value
+## Return value
 
  **Filter**
 

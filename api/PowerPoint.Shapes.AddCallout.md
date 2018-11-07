@@ -23,7 +23,7 @@ Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** o
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a borderless line callout. Returns a  **[Shape](PowerPoint.Shape.md)** o
 | _Width_|Required|**Single**| The width of the callout's bounding box, measured in points.|
 | _Height_|Required|**Single**|The height of the callout's bounding box, measured in points.|
 
-### Return value
+## Return value
 
 Shape
 

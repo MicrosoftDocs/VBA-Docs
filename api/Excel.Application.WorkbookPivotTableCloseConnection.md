@@ -23,7 +23,7 @@ Occurs after a PivotTable report connection has been closed.
  _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs after a PivotTable report connection has been closed.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The selected workbook.|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The selected PivotTable report.|
 
-### Return value
+## Return value
 
 Nothing
 

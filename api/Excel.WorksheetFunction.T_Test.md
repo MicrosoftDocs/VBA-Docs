@@ -23,7 +23,7 @@ Returns the probability associated with a Student t-Test. Use T_TEST to determin
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns the probability associated with a Student t-Test. Use T_TEST to determin
 | _Arg3_|Required| **Double**|Tails - Specifies the number of distribution tails. If tails = 1, T_TEST uses the one-tailed distribution. If tails = 2, T_TEST uses the two-tailed distribution.|
 | _Arg4_|Required| **Double**|Type - The kind of t-Test to perform.|
 
-### Return value
+## Return value
 
 Double
 

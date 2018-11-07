@@ -23,7 +23,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Obtains the values of the properties specified by the one-dimensional array  _Sc
 |:-----|:-----|:-----|:-----|
 | _SchemaNames_|Required| **Variant**|An array that contains the names of the properties whose values are to be returned. These properties are referenced by namespace. For more information, see [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md).|
 
-### Return value
+## Return value
 
 A Variant that represents an array of values of the properties specified in the parameter  _SchemaNames_ . The number of elements in the returned array equals the number of elements in the _SchemaNames_ array. If an error occurs for getting a specific property, the **Err** value will be returned in the corresponding location in the returned array.
 

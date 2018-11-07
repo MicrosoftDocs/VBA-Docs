@@ -23,7 +23,7 @@ Private Sub  _expression_ _'QueryCancelSelectionDelete'(**_ByVal Selection As [I
  _expression_ A variable that represents a [Masters](./Visio.Masters.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

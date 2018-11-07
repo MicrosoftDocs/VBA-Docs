@@ -26,7 +26,7 @@ Returns a  **GraphicItem** object from the **GraphicItems** collection by using 
  _expression_ A variable that represents a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a  **GraphicItem** object from the **GraphicItems** collection by using 
 |:-----|:-----|:-----|:-----|
 | _ObjectID_|Required| **Long**|The unique ID of the  **GraphicItem** object to retrieve.|
 
-### Return value
+## Return value
 
 GraphicItem
 

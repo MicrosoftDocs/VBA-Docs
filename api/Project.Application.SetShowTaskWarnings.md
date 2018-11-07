@@ -23,7 +23,7 @@ Sets the global  **Show Warnings** option for tasks.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the global  **Show Warnings** option for tasks.
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|If  **True**, turns on the **Show Warnings** option. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

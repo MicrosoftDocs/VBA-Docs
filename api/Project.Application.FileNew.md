@@ -23,7 +23,7 @@ Creates a new project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Creates a new project.
 | _FileNewDialog_|Optional|**Boolean**|**True** if the **Templates** dialog box is displayed when creating the project. If **Template** is specified, **FileNewDialog**is ignored|
 | _FileNewWorkpane_|Optional|**Boolean**|**True** if Project displays the ** New Project** workpane before creating a new file. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

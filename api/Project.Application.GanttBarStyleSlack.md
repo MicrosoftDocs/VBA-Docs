@@ -23,7 +23,7 @@ Shows or hides the slack style for tasks on the active Gantt chart.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|If  **False**, hides the slack. If **True**, shows the slack.|
 
-### Return value
+## Return value
 
  **Boolean**
 

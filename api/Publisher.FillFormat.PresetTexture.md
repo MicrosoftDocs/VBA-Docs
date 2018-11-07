@@ -23,7 +23,7 @@ Returns an  **MsoPresetTexture** constant that represents the preset texture for
  _expression_ A variable that represents a  **FillFormat** object.
 
 
-### Return value
+## Return value
 
 MsoPresetTexture
 

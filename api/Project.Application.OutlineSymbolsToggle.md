@@ -23,7 +23,7 @@ Shows or hides outline symbols.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Shows or hides outline symbols.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if Project displays outline symbols. The default value is **True** if outline symbols are hidden and **False** if they are visible.|
 
-### Return value
+## Return value
 
  **Boolean**
 

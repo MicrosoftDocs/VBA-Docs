@@ -23,7 +23,7 @@ Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Present
  _expression_ A variable that represents an [Presentations](./PowerPoint.Presentations.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Opens the specified presentation. Returns a  **[Presentation](PowerPoint.Present
 | _Untitled_|Optional|**MsoTriState**|Specifies whether the file has a title.|
 | _WithWindow_|Optional|**MsoTriState**|Specifies whether the file is visible.|
 
-### Return value
+## Return value
 
 Presentation
 

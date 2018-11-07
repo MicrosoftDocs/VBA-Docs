@@ -23,7 +23,7 @@ Used to store arbitrary strings and fetch them at runtime. Read-only
  _expression_ An expression that returns a [IRibbonControl](./Office.IRibbonControl.md) object.
 
 
-### Return value
+## Return value
 
 String
 

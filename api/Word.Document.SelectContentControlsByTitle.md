@@ -23,7 +23,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[ContentControls](Word.ContentControls.md)** collection that repres
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **Title**|The title of the content controls to return.|
 
-### Return value
+## Return value
 
 ContentControls
 

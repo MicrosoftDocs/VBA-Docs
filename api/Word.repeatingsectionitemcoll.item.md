@@ -21,7 +21,7 @@ Returns an individual repeating section item.
  _expression_ A variable that represents a 'RepeatingSectionItemColl' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns an individual repeating section item.
 |||||
 | _Index_|Required|INT32|The index number of the item in the collection.|
 
-### Return value
+## Return value
 
  **REPEATINGSECTIONITEM**
 

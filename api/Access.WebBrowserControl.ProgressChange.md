@@ -23,7 +23,7 @@ _expression_. `ProgressChange`( ` _Progress_`, ` _ProgressMax_` )
 _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 | _Progress_|Required|**Long**|Specifies the amount of total progress to show, or -1 when progress is complete.|
 | _ProgressMax_|Required|**Long**|Specifies the maximum progress value. |
 
-### Return value
+## Return value
 
 nothing
 

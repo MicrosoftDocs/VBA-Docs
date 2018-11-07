@@ -23,7 +23,7 @@ Replaces the specified picture, optionally fitting the replacement picture to th
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

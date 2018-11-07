@@ -23,7 +23,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
  _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.|
 
-### Return value
+## Return value
 
 A  **[Recipient](Outlook.Recipient.md)** object that represents the new recipient.
 

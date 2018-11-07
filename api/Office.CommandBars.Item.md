@@ -26,7 +26,7 @@ Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
  _expression_ Required. A variable that represents a '[CommandBars](Office.CommandBars.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns an individual  **Column** object in a collection.
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **Column** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned. Can be a  **Long** indicating the ordinal position of the individual object.|
 
-### Return value
+## Return value
 
 Column
 

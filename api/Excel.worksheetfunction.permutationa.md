@@ -21,7 +21,7 @@ Returns the number of permutations for a given number of objects (with repetitio
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns the number of permutations for a given number of objects (with repetitio
 | _Arg1_|Required|DOUBLE|Total number of objects.|
 | _Arg2_|Required|DOUBLE|Number of objects in each permutation.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

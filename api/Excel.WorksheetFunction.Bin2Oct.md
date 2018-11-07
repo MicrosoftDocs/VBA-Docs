@@ -23,7 +23,7 @@ Converts a binary number to octal.
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Converts a binary number to octal.
 | _Arg1_|Required| **Variant**|The binary number you want to convert. Number cannot contain more than 10 characters (10 bits). The most significant bit of number is the sign bit. The remaining 9 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
 | _Arg2_|Optional| **Variant**|The number of characters to use. If places is omitted, Bin2Oct uses the minimum number of characters necessary. Places is useful for padding the return value with leading 0s (zeros).|
 
-### Return value
+## Return value
 
 String
 

@@ -23,7 +23,7 @@ Returns an object that represents either a single embedded chart (a  **[ChartObj
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an object that represents either a single embedded chart (a  **[ChartObj
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the chart. This argument can be an array, to specify more than one chart.|
 
-### Return value
+## Return value
 
 Object
 

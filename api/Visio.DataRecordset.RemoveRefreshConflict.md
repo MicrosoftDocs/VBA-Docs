@@ -26,7 +26,7 @@ Clears information about a conflict for a data-linked shape from the current doc
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Clears information about a conflict for a data-linked shape from the current doc
 |:-----|:-----|:-----|:-----|
 | _ShapeInConflict_|Required| **[IVSHAPE]**|A shape linked to data that has a conflict after the data recordset is refreshed.|
 
-### Return value
+## Return value
 
 Nothing
 

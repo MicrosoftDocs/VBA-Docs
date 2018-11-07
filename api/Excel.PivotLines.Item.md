@@ -23,7 +23,7 @@ Returns a specific element of the  **PivotLines** collection object by its posit
  _expression_ A variable that represents a [PivotLines](Excel.PivotLines.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns a  **Document** object that represents a new, empty document added to th
  _expression_ Required. A variable that represents a '[Documents](Word.documents.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Returns a  **Document** object that represents a new, empty document added to th
 | _DocumentType_|Optional| **Variant**|Can be one of the following  **WdNewDocumentType** constants: **wdNewBlankDocument** , **wdNewEmailMessage** , **wdNewFrameset** , or **wdNewWebPage** . The default constant is **wdNewBlankDocument** .|
 | _Visible_|Optional| **Variant**| **True** to open the document in a visible window. If this value is **False** , Microsoft Word opens the document but sets the **Visible** property of the document window to **False** . The default value is **True** .|
 
-### Return value
+## Return value
 
 Document
 

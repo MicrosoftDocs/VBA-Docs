@@ -1,5 +1,5 @@
 ---
-title: Type Property (VBA Add-In Object Model)
+title: Type property (VBA Add-In Object Model)
 keywords: vbob6.chm100096
 f1_keywords:
 - vbob6.chm100096
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Type Property (VBA Add-In Object Model)
-
-
+# Type property (VBA Add-In Object Model)
 
 Returns a numeric or string value containing the type of object. Read-only.
- **Return Values**
-The  **Type** property settings for the **Window** object are described in the following table:
 
+## Return values
+
+The **Type** property settings for the **Window** object are described in the following table:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -35,12 +34,12 @@ The  **Type** property settings for the **Window** object are described in the f
 |**vbext_wt_Toolbox**|10|**Toolbox**|
 |**vbext_wt_ToolWindow**|15|**Tool** window|
 
+> [!IMPORTANT] 
+> Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.
 
- **Important**  Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.
+<br/>
 
-
-The  **Type** property settings for the **VBComponent** object are described in the following table:
-
+The **Type** property settings for the **VBComponent** object are described in the following table:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -50,16 +49,18 @@ The  **Type** property settings for the **VBComponent** object are described in 
 |**vbext_ct_ActiveXDesigner**|11|ActiveX Designer|
 |**vbext_ct_Document**|100|Document Module|
 
-The  **Type** property settings for the **Reference** object are described in the following table:
+<br/>
 
+The **Type** property settings for the **Reference** object are described in the following table:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**vbext_rk_TypeLib**|0|[Type library](../../Glossary/vbe-glossary.md#type-library)|
 |**vbext_rk_Project**|1|[Project](../../Glossary/vbe-glossary.md#project)|
 
-The  **Type** property settings for the **VBProject** object are described in the following table:
+<br/>
 
+The **Type** property settings for the **VBProject** object are described in the following table:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|

@@ -23,7 +23,7 @@ Converts half-width (single-byte) letters within a character string to full-widt
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts half-width (single-byte) letters within a character string to full-widt
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|The text or a reference to a cell that contains the text that you want to change. |
 
-### Return value
+## Return value
 
 String
 

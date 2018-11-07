@@ -23,7 +23,7 @@ Returns or sets the alternative text associated with a shape in a Web presentati
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 String
 

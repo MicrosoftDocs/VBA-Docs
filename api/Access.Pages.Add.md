@@ -23,7 +23,7 @@ _expression_. `Add`( ` _Before_` )
 _expression_ A variable that represents a [Pages](Access.Pages.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Pages](Access.Pages.md) object.
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional|**Variant**|An  **Integer** that specifies the index of the **Page** object before which the new **Page** object should be added. The index of the **Page** object corresponds to the value of the **PageIndex** property for that **Page** object. If you omit this argument, the new **Page** object is added to the end of the collection.|
 
-### Return value
+## Return value
 
 Page
 

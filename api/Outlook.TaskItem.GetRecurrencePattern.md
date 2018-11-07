@@ -23,7 +23,7 @@ Returns a  **[RecurrencePattern](Outlook.RecurrencePattern.md)** object that rep
  _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **RecurrencePattern** that represents the recurrence attributes of the task.
 

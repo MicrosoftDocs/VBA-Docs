@@ -23,7 +23,7 @@ Returns an item from a collection. The  **Item** property is the default propert
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an item from a collection. The  **Item** property is the default propert
 |:-----|:-----|:-----|:-----|
 | _NameOrIndex_|Required| **Variant**|Contains the name, unique ID, or index of the object to retrieve.|
 
-### Return value
+## Return value
 
 Style
 

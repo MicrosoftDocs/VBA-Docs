@@ -23,7 +23,7 @@ Sets the data recordsets to be published to a server.
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Sets the data recordsets to be published to a server.
 | _PublishDataRecordsets_|Required| **[VisPublishDataRecordsets](Visio.VisPublishDataRecordsets.md)**|Specifies whether all, no, or selected data recordsets are to be published. See Remarks for possible values.|
 | _DataRecordsetIDs()_|Required| **Long**|Specifies the identifiers of the data recordsets that are set to be published if  _PublishDataRecordsets_ is **visPublishDataRecordsetsSelect** .|
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -21,7 +21,7 @@ Occurs when a callout gallery?s icons (dynamic &; static) have completed renderi
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

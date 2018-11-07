@@ -20,7 +20,7 @@ Performs some action on specific information items or document properties by usi
  _expression_ An expression that returns a [IDocumentInspector](./Office.IDocumentInspector.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Performs some action on specific information items or document properties by usi
 | _Status_|Required|**MsoDocInspectorStatus**|An enumeration that indicates the status of the action.|
 | _Result_|Required|**String**|Contains the results of the action.|
 
-### Return value
+## Return value
 
 [HRESULT]
 

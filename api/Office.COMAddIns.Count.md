@@ -23,7 +23,7 @@ Gets a count of the number of COM add-ins in the host application. Read-only.
  _expression_ An expression that returns a [COMAddIns](./Office.COMAddIns.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

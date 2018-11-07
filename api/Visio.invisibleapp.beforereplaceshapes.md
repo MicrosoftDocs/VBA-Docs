@@ -18,7 +18,7 @@ Occurs just before a shape-replacement operation.
  _expression_ A variable that represents a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns the  **[Shape](Excel.Shape.md)** object associated with the specified sl
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 Shape
 

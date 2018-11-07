@@ -20,7 +20,7 @@ Occurs after firing of events is resumed.
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs after firing of events is resumed.
 |:-----|:-----|:-----|:-----|
 | _app_|Required| **[IVAPPLICATION]**|The instance of Microsoft Visio in which firing of events resumed.|
 
-### Return value
+## Return value
 
 nothing
 

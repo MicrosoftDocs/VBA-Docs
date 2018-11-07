@@ -29,7 +29,7 @@ The  **CompareMode** property has the following parts:
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _compare_|Optional. If provided,  _compare_ is a value representing the comparison mode used by functions such as **StrComp**.|
 
- **Settings**
+## Settings
 The  _compare_ argument can have the following values:
 
 

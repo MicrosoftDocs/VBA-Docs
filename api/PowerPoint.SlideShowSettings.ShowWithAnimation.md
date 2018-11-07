@@ -23,7 +23,7 @@ Determines whether the specified slide show displays shapes with assigned animat
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

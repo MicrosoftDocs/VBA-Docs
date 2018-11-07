@@ -23,7 +23,7 @@ Selects one or more timescale data cells in a usage view.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Selects one or more timescale data cells in a usage view.
 | _Width_|Required|**Integer**| The number of columns to select.|
 | _Height_|Required|**Long**|The number of rows to select.|
 
-### Return value
+## Return value
 
  **Boolean**
 

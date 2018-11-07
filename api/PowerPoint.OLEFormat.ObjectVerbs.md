@@ -23,7 +23,7 @@ Returns a  **[ObjectVerbs](PowerPoint.ObjectVerbs.md)** collection that contains
  _expression_ A variable that represents an [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
 
-### Return value
+## Return value
 
 ObjectVerbs
 

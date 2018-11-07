@@ -21,7 +21,7 @@ Removes the drawing guide from the presentation or custom layout.
  _expression_ A variable that represents a 'Guide' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

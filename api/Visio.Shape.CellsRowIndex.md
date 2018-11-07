@@ -23,7 +23,7 @@ Returns the index of a row to which a cell belongs. Read-only.
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the index of a row to which a cell belongs. Read-only.
 |:-----|:-----|:-----|:-----|
 | _localeSpecificCellName_|Required| **String**|The name of a ShapeSheet cell.|
 
-### Return value
+## Return value
 
 Integer
 

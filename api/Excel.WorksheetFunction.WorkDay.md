@@ -23,7 +23,7 @@ Returns a number that represents a date that is the indicated number of working 
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a number that represents a date that is the indicated number of working 
 | _Arg2_|Required| **Variant**|Days - the number of nonweekend and nonholiday days before or after start_date. A positive value for days yields a future date; a negative value yields a past date.|
 | _Arg3_|Optional| **Variant**|Holidays - an optional list of one or more dates to exclude from the working calendar, such as state and federal holidays and floating holidays. The list can be either a range of cells that contain the dates or an array constant of the serial numbers that represent the dates.|
 
-### Return value
+## Return value
 
 Double
 

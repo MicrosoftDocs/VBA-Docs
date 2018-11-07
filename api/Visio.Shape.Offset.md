@@ -23,7 +23,7 @@ Offsets a shape a specified amount.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Offsets a shape a specified amount.
 |:-----|:-----|:-----|:-----|
 | _Distance_|Required| **Double**|Specifies the distance to offset the shape.|
 
-### Return value
+## Return value
 
 Nothing
 

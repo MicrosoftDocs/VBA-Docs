@@ -23,7 +23,7 @@ Applies data labels to a series.
  _expression_ A variable that represents a [Series](PowerPoint.Series.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

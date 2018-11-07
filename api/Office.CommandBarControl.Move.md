@@ -23,7 +23,7 @@ Moves the specified  **CommandBarControl** to an existing command bar.
  _expression_ Required. A variable that represents a '[CommandBarControl](Office.CommandBarControl.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

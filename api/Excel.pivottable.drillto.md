@@ -21,7 +21,7 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
  _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
 | _CubeField_|Required|CUBEFIELD|The target hierarchy being drilled to.|
 | _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|
 
-### Return value
+## Return value
 
  **VOID**
 

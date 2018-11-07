@@ -23,7 +23,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 |Start|Required| **Long**|The first character in the returned range.|
 |Length|Optional| **Long**|The number of characters to be returned. Default is 1.|
 
-### Return value
+## Return value
 
 TextRange
 

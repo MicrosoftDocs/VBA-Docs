@@ -31,7 +31,7 @@ For more information about the new function, see the [Poisson_Dist](Excel.Worksh
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -41,7 +41,7 @@ For more information about the new function, see the [Poisson_Dist](Excel.Worksh
 | _Arg2_|Required| **Double**|Mean - the expected numeric value.|
 | _Arg3_|Required| **Boolean**|Cumulative - a logical value that determines the form of the probability distribution returned. If cumulative is TRUE, POISSON returns the cumulative Poisson probability that the number of random events occurring will be between zero and x inclusive; if FALSE, it returns the Poisson probability mass function that the number of events occurring will be exactly x.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Excludes the specified page from being published when the document is published 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Excludes the specified page from being published when the document is published 
 | _PageName_|Required| **String**|The name of the page to exclude.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Specifies whether  _PageName_ is local or universal.|
 
-### Return value
+## Return value
 
  **Nothing**
 

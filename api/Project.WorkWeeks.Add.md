@@ -20,7 +20,7 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
  _expression_ An expression that returns a 'WorkWeeks' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 | _Finish_|Optional|**Variant**|The finish date of a  **WorkWeek** object.|
 | _Name_|Optional|**String**|The name of a  **WorkWeek** object.|
 
-### Return value
+## Return value
 
  **WorkWeek**
 

@@ -23,7 +23,7 @@ Returns the number of lines of text in the text range represented by the parent 
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 Long
 

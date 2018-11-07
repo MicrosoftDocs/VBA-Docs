@@ -23,7 +23,7 @@ Performs the specified mail merge or catalog merge operation. Returns a  **[Docu
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Performs the specified mail merge or catalog merge operation. Returns a  **[Docu
 |Destination|Optional| **PbMailMergeDestination**|The destination of the mail merge or catalog merge results. Specifying  **pbSendToPrinter** for a catalog merge results in a run-time error.|
 |Filename|Optional| **String**|The file name of the publication to which you want to append the catalog merge results.|
 
-### Return value
+## Return value
 
 Document
 

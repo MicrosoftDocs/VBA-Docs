@@ -23,7 +23,7 @@ Determines whether an object is a default Microsoft Visio user interface object 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

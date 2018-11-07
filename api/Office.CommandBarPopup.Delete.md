@@ -20,7 +20,7 @@ Deletes the  **CommandBarPopup** object from its collection.
  _expression_ Required. A variable that represents a '[CommandBarPopup](Office.CommandBarPopup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

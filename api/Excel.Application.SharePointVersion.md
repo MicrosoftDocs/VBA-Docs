@@ -23,7 +23,7 @@ Returns the version number of SharePoint Foundation instances running at site fo
  _expression_ A variable that returns an [Application](Excel.Application(Graph property).md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the version number of SharePoint Foundation instances running at site fo
 |:-----|:-----|:-----|:-----|
 | _bstrUrl_|Required| **String**|The URL of site to check.|
 
-### Return value
+## Return value
 
 Long
 

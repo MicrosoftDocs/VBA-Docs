@@ -23,7 +23,7 @@ Gets a number representing a validation error in a  **CustomXMLValidationError**
  _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

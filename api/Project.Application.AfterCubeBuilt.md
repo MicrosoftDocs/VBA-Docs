@@ -20,7 +20,7 @@ Occurs when the OLAP cube-building process completes.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Occurs when the OLAP cube-building process completes.
 |:-----|:-----|:-----|:-----|
 | _CubeFileName_|Required|**String**|Name of the cube file.|
 
-### Return value
+## Return value
 
 nothing
 

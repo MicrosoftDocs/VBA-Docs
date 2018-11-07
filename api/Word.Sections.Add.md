@@ -23,7 +23,7 @@ Returns a  **Section** object that represents a new section added to a document.
  _expression_ Required. A variable that represents a '[Sections](Word.sections.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 

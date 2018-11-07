@@ -23,7 +23,7 @@ Returns a  **ThemeColorScheme** object that represents the color scheme associat
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 
 
-### Return value
+## Return value
 
 ThemeColorScheme
 

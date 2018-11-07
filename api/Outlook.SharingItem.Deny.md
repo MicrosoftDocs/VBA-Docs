@@ -23,7 +23,7 @@ Denies a sharing request and sends a sharing response to the sender of the  **[S
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **SharingItem** object that represents the sharing response.
 

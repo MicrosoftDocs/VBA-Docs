@@ -20,7 +20,7 @@ Returns a collection of axes on the chart.
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns a collection of axes on the chart.
 
 |
 
-### Return value
+## Return value
 
 An [Axes](Word.Axes.md) object that contains the selected axes from the chart.
 

@@ -23,7 +23,7 @@ Opens the specified page from Project Web App.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Opens the specified page from Project Web App.
 |:-----|:-----|:-----|:-----|
 | _Page_|Optional|**PjServerPage**|Specifies the page to open from Project Web App. Can be one of the  **[PjServerPage](Project.PjServerPage.md)** constants. The default is **pjServerPageApprovals**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

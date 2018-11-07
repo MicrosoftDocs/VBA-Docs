@@ -23,7 +23,7 @@ Applies one or more categories to all existing items and future items of the con
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

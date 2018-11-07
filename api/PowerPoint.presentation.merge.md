@@ -21,7 +21,7 @@ Merges the changes in one presentation with another.
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Merges the changes in one presentation with another.
 | _Path_|Required|**String**|The path, including filename, of the presentation to merge changes with.|
 | _Path_|Required|STRING||
 
-### Return value
+## Return value
 
  **VOID**
 

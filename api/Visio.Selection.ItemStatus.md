@@ -23,7 +23,7 @@ Indicates if an item in a  **Selection** object is subselected, if the group to 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Indicates if an item in a  **Selection** object is subselected, if the group to 
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Index of the item for which you want to retrieve the status.|
 
-### Return value
+## Return value
 
 Integer
 

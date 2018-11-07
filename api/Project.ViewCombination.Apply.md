@@ -20,7 +20,7 @@ Applies the combination view.
  _expression_ A variable that represents a [ViewCombination](./Project.ViewCombination.md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

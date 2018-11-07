@@ -23,7 +23,7 @@ Returns the k-th percentile of values in a range. You can use this function to e
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the k-th percentile of values in a range. You can use this function to e
 | _Arg1_|Required| **Variant**|Array - The array or range of data that defines relative standing.|
 | _Arg2_|Required| **Double**|K - The percentile value in the range 0..1, inclusive.|
 
-### Return value
+## Return value
 
 Double
 

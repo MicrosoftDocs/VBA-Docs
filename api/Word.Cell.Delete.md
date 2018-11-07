@@ -23,7 +23,7 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
  _expression_ Required. A variable that represents a '[Cell](Word.Cell.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

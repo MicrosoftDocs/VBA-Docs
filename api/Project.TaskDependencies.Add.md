@@ -20,7 +20,7 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
  _expression_ A variable that represents a 'TaskDependencies' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 | _Type_|Optional|**Long**|The type of relationship between the linked tasks. Can be one of the  **[PjTaskLinkType](Project.PjTaskLinkType.md)** constants. The default value is **pjFinishToStart**.|
 | _Lag_|Optional|**Variant**|The duration of lag time between linked tasks. To specify lead time between tasks, use a negative value. String values default to days unless otherwise specified. Non-string values are interpreted as minutes. The default value is 0.|
 
-### Return value
+## Return value
 
  **TaskDependency**
 

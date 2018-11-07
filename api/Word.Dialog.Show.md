@@ -23,7 +23,7 @@ Displays and carries out actions initiated in the specified built-in Word dialog
  _expression_ Required. A variable that represents a '[Dialog](Word.Dialog.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Displays and carries out actions initiated in the specified built-in Word dialog
 |:-----|:-----|:-----|:-----|
 | _TimeOut_|Optional| **Variant**|The amount of time that Word will wait before closing the dialog box automatically. One unit is approximately 0.001 second. Concurrent system activity may increase the effective time value. If this argument is omitted, the dialog box is closed when the user dismisses it.|
 
-### Return value
+## Return value
 
 Long
 

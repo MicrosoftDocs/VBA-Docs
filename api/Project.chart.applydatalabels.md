@@ -16,7 +16,7 @@ Applies data labels to all the series in a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Applies data labels to all the series in a chart.
 | _ShowBubbleSize_|Optional|**Variant**|**True** to enable the bubble size for the data label. **False** to disable the bubble size.|
 | _Separator_|Optional|**Variant**|The separator for the data label.|
 
-### Return value
+## Return value
 
  **Nothing**
 

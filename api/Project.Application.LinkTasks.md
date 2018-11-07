@@ -23,7 +23,7 @@ Links the selected tasks in the Gantt Chart, Calendar, Task Sheet, or Task Usage
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

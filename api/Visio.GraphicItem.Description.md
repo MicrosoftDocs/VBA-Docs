@@ -26,7 +26,7 @@ Returns a string that describes the type of the graphic item. Read-only.
  _expression_ A variable that represents a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
-### Return value
+## Return value
 
 String
 

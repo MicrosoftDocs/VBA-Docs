@@ -23,7 +23,7 @@ Returns a  **[CodeMaskLevel ](Project.CodeMaskLevel.md)** object.
  _expression_ A variable that represents a 'CodeMask' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns a  **[CodeMaskLevel ](Project.CodeMaskLevel.md)** object.
 | _Length_|Optional|**Variant**|Specifies the length for a given level in the code mask. Can be the string "Any" or an integer value between 1 and 255. |
 | _Separator_|Optional|**String**|The character that separates the level of a code mask from the next code mask. Can be one of the following characters: ".", "-", "+", or "/". |
 
-### Return value
+## Return value
 
  **CodeMaskLevel**
 

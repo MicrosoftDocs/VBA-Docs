@@ -23,7 +23,7 @@ Aligns the specified part of the selected boxes in the active Network Diagram vi
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Aligns the specified part of the selected boxes in the active Network Diagram vi
 |:-----|:-----|:-----|:-----|
 | _Alignment_|Required|**Long**|Specifies which side or portion of a box to use for the alignment. Can be one of the  **[PjAlign](Project.PjAlign.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

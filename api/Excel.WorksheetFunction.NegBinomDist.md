@@ -27,7 +27,7 @@ For more information about the new function, see the [NegBinom_Dist](Excel.Works
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ For more information about the new function, see the [NegBinom_Dist](Excel.Works
 | _Arg2_|Required| **Double**|Number_s - the threshold number of successes.|
 | _Arg3_|Required| **Double**|Probability_s - the probability of a success.|
 
-### Return value
+## Return value
 
 Double
 

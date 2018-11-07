@@ -23,7 +23,7 @@ Returns whether the specified shape is a table. Read-only.
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

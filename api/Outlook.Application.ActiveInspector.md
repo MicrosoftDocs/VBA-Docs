@@ -23,7 +23,7 @@ Returns the topmost  **[Inspector](Outlook.Inspector.md)** object on the desktop
  _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
-### Return value
+## Return value
 
 An  **Inspector** that represents the topmost inspector on the desktop.
 

@@ -21,7 +21,7 @@ Returns the raster export resolution settings.
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -37,7 +37,7 @@ Returns the raster export resolution settings.
 | _pResolutionUnits_|Required|VISRASTEREXPORTRESOLUTIONUNITS||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
 Nothing
 

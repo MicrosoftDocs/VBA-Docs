@@ -21,7 +21,7 @@ Applies a design template and theme variant to the slide range.
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Applies a design template and theme variant to the slide range.
 | _Variant_|Required|STRING||
 | _VariantGUID_|Required|STRING||
 
-### Return value
+## Return value
 
  **VOID**
 

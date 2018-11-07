@@ -20,7 +20,7 @@ Private Sub  _expression_ _'SelectionAdded'(**_ByVal Selection As [IVSELECTION]_
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

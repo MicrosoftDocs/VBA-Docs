@@ -23,7 +23,7 @@ Removes one or more items from a list box or combo box.
  _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

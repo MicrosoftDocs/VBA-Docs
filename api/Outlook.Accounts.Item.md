@@ -23,7 +23,7 @@ Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
  _expression_ A variable that represents an [Accounts](./Outlook.Accounts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|A one-based  **Long** that indexes into the **[Accounts](Outlook.Accounts.md)** collection, or a **String** that specifies the **[DisplayName](Outlook.Account.DisplayName.md)** of an **Account** .|
 
-### Return value
+## Return value
 
 An  **Account** object that matches the account specified by _Index_ .
 

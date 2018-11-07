@@ -20,7 +20,7 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Resizes the drawing that is open in Microsoft Visio Viewer to the specified perc
 |Y|Required| **Long**|The y-coordinate, in pixels in the coordinate system of the Visio Viewer window, of the point to place the upper left corner of the drawing.|
 |Percentage|Required| **Double**|The percentage of zoom.|
 
-### Return value
+## Return value
 
 Nothing
 

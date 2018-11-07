@@ -23,7 +23,7 @@ Deletes the additional shapes that are associated with the shape, such as connec
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Deletes the additional shapes that are associated with the shape, such as connec
 |:-----|:-----|:-----|:-----|
 | _DelFlags_|Required| **Long**|The additional shapes to delete. See Remarks for possible values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

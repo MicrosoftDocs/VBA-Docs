@@ -23,7 +23,7 @@ Returns a single  **[IconSet](Excel.IconSet.md)** object from the **IconSets** c
  _expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

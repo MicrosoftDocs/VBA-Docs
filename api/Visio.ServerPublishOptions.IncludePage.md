@@ -23,7 +23,7 @@ Includes the specified page for publication when the document is published as a 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Includes the specified page for publication when the document is published as a 
 | _PageName_|Required| **String**|The name of the page to be published.|
 | _Flags_|Required| **[VisLangFlags](Visio.VisLangFlags.md)**|Indicates whether a universal or local page name is specified in PageName. See Remarks for possible values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

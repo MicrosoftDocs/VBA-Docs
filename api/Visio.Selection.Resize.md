@@ -23,7 +23,7 @@ Resizes the selection by moving shape handles as specified.
  _expression_ A variable that represents a '[Selection](Visio.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Resizes the selection by moving shape handles as specified.
 | _Distance_|Required| **Double**|The distance to move the selection edge or corner, where positive values move outward, and negative values move inward.|
 | _UnitCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The unit of measure for the resize distance.|
 
-### Return value
+## Return value
 
  **Nothing**
 

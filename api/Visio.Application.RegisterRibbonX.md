@@ -23,7 +23,7 @@ Registers the  **[IRibbonExtensibility](./Office.IRibbonExtensibility.md)** inte
  _expression_ A variable that represents an '[Application](Visio.Application.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -34,7 +34,7 @@ Registers the  **[IRibbonExtensibility](./Office.IRibbonExtensibility.md)** inte
 | _TargetModes_|Required| **[VisRibbonXModes](Visio.VisRibbonXModes.md)**|The modes in which the custom UI should be visible. See Remarks for possible values.|
 | _FriendlyName_|Required| **String**|The name to associate with the UI items and errors that originate in the add-on.|
 
-### Return value
+## Return value
 
  **Nothing**
 

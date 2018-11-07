@@ -23,7 +23,7 @@ Returns a single  **AnimationPoint** object from the specified **AnimationPoints
  _expression_ A variable that represents an [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **AnimationPoint** object from the specified **AnimationPoints
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **AnimationPoint** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 AnimationPoint
 

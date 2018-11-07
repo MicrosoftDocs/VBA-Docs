@@ -20,7 +20,7 @@ Moves the insertion point to the character position immediately preceding the sp
 
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -29,7 +29,7 @@ Moves the insertion point to the character position immediately preceding the sp
 | _Count_|Optional| **Variant**|The number of the item in the document. The default value is 1. Only positive values are valid. To specify an item that precedes the range or selection, use  **wdGoToPrevious** as the Which argument and specify a Count value.|
 | _Name_|Optional| **Variant**|If the What argument is  **wdGoToBookmark** , **wdGoToComment** , **wdGoToField** , or **wdGoToObject** , this argument specifies a name.|
 
-### Return value
+## Return value
 
 The [Range](Word.Range.md) that is now selected.
 

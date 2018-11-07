@@ -20,7 +20,7 @@ Deletes a  **PictureEffect** object from the collection.
  _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Deletes a  **PictureEffect** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Integer**|The index number of the  **PictureEffect** object to delete.|
 
-### Return value
+## Return value
 
 Nothing
 

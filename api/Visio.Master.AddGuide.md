@@ -23,7 +23,7 @@ Adds a guide to a master.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Adds a guide to a master.
 | _xPos_|Required| **Double**|The x-coordinate of a point on the guide.|
 | _yPos_|Required| **Double**|The y-coordinate of a point on the guide.|
 
-### Return value
+## Return value
 
 Shape
 

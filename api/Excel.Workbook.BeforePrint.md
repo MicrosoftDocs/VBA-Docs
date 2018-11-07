@@ -23,7 +23,7 @@ Occurs before the workbook (or anything in it) is printed.
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs before the workbook (or anything in it) is printed.
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't printed when the procedure is finished.|
 
-### Return value
+## Return value
 
 Nothing
 

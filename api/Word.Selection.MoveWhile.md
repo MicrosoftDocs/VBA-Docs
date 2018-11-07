@@ -23,7 +23,7 @@ Moves the specified selection while any of the specified characters are found in
  _expression_ Required. A variable that represents a '[Selection](Word.Selection.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

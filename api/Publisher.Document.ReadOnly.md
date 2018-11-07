@@ -23,7 +23,7 @@ Returns  **True** if the publication is read-only; returns **False** if it is re
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

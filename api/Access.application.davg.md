@@ -21,7 +21,7 @@ _expression_. `DAvg`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain. It can be a table name or a query name for a query that does not require a parameter.|
 | _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DAvg** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the word WHERE. If _criteria_ is omitted, the **DAvg** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise the  **DAvg** function returns a **Null**.|
 
-### Return value
+## Return value
 
 Variant
 

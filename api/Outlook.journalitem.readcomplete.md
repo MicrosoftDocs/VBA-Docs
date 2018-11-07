@@ -21,7 +21,7 @@ Version Added: Outlook 2013
  _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

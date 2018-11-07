@@ -16,7 +16,7 @@ Moves the shape horizontally by the specified number of points.
  _expression_ A variable that represents a 'Shape' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -25,7 +25,7 @@ Moves the shape horizontally by the specified number of points.
 | _Increment_|Required|**Single**|Specifies how far the shape is to be moved horizontally, in points. A positive value moves the shape to the right; a negative value moves it to the left.|
 | _Increment_|Required|FLOAT||
 
-### Return value
+## Return value
 
  **Nothing**
 

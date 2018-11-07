@@ -23,7 +23,7 @@ Sends an e-mail message to the author of a document that has been sent out for r
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

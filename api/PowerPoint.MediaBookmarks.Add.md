@@ -23,7 +23,7 @@ Adds a new  **MediaBookmark** at the specified time and using the specified name
  _expression_ A variable that represents a [MediaBookmarks](./PowerPoint.MediaBookmarks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a new  **MediaBookmark** at the specified time and using the specified name
 | _Position_|Required|**Long**|The position of the  **MediaBookmark**.|
 | _Name_|Required|**String**|The name of the  **MediaBookmark**.|
 
-### Return value
+## Return value
 
 MediaBookmark
 

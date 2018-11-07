@@ -23,7 +23,7 @@ Occurs when a chart element is right-clicked, before the default right-click act
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
-### Parameters
+## Parameters
 
 
 

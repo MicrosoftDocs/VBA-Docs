@@ -23,7 +23,7 @@ _expression_. `ColumnHistory`( ` _TableName_`, ` _ColumnName_`, ` _queryString_`
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _ColumnName_|Required|**String**|The name of the field to display the history for.|
 | _queryString_|Required|**String**|A  **String** used to locate the record. It is like the WHERE clause in an SQL statement, but without the word WHERE.|
 
-### Return value
+## Return value
 
 String
 

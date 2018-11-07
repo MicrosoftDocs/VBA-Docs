@@ -28,7 +28,7 @@ The  **AutoSize** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control is resized.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

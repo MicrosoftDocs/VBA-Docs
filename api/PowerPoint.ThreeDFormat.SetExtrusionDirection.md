@@ -23,7 +23,7 @@ Sets the direction that the extrusion's sweep path takes away from the extruded 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

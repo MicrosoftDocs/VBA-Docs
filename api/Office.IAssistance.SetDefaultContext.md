@@ -20,7 +20,7 @@ Sets a help topic as the default topic that will be displayed when the user open
  _expression_ An expression that returns a [IAssistance](./Office.IAssistance.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

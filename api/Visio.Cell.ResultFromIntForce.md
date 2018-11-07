@@ -23,7 +23,7 @@ Sets the value of a cell to an integer value, even if the cell's formula is prot
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Sets the value of a cell to an integer value, even if the cell's formula is prot
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting the cell's value.|
 
-### Return value
+## Return value
 
 Long
 

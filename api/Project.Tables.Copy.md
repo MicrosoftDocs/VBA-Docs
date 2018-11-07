@@ -23,7 +23,7 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
  _expression_ A variable that represents a 'Tables' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 | _Source_|Required|**String**|The name of the table to copy.|
 | _NewName_|Required|**String**|The name of the new table.|
 
-### Return value
+## Return value
 
  **Table**
 

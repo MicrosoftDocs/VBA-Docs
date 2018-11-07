@@ -21,7 +21,7 @@ Returns the probability of a trial result using a binomial distribution.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the probability of a trial result using a binomial distribution.
 | _Arg3_|Required|DOUBLE|The number of successes in trials.|
 | _Arg4_|Optional|VARIANT|If provided, this function returns the probability that the number of successful trials shall lie between Arg3 and Arg4.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

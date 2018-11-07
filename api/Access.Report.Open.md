@@ -23,13 +23,13 @@ _expression_. **Open**(**_Cancel_**)
 _expression_ A variable that represents a **Report** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|
 
-### Return value
+## Return value
 
 Nothing
 

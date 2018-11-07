@@ -23,7 +23,7 @@ Opens a stencil window that shows the masters in the document.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Window
 

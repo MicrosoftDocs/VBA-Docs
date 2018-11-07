@@ -23,7 +23,7 @@ Creates a new SmartArt graphic with the specified layout.
  _expression_ A variable that represents a '[Shapes](Excel.Shapes.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a new SmartArt graphic with the specified layout.
 | _Width_|Optional| **Variant**|The width, in points, of the object.|
 | _Height_|Optional| **Variant**|The width, in points, of the object.|
 
-### Return value
+## Return value
 
 Shape
 

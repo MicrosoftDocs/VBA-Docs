@@ -26,7 +26,7 @@ Sets the primary key setting value and the name of the primary key column or col
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Sets the primary key setting value and the name of the primary key column or col
 | _PrimaryKeySettings_|Required| **VisPrimaryKeySettings**|The primary key setting for the data recordset. See Remarks for possible values.|
 | _PrimaryKey()_|Required| **[SAFE-ARRAY]**|An array of  **String** variables.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -1,5 +1,5 @@
 ---
-title: IMEStatus Function
+title: IMEStatus function
 keywords: vblr6.chm1011064
 f1_keywords:
 - vblr6.chm1011064
@@ -9,18 +9,17 @@ ms.date: 06/08/2017
 ---
 
 
-# IMEStatus Function
-
-
+# IMEStatus function
 
 Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying the current Input Method Editor (IME) mode of Microsoft Windows; available in East Asian versions only.
 
 ## Syntax
 
 **IMEStatus**
- **Return Values**
-The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
 
+## Return values
+
+The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -34,8 +33,9 @@ The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#local
 |**vbIMEModeAlphaFull**|7|Full-width Alphanumeric mode|
 |**vbIMEModeAlpha**|8|Half-width Alphanumeric mode|
 
-The return values for the Korean locale are as follows:
+<br/>
 
+The return values for the Korean locale are as follows:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -45,8 +45,9 @@ The return values for the Korean locale are as follows:
 |**vbIMEModeHangulFull**|9|Full-width Hangul mode|
 |**vbIMEModeHangul**|10|Half-width Hangul mode|
 
-The return values for the Chinese locale are as follows:
+<br/>
 
+The return values for the Chinese locale are as follows:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|

@@ -23,7 +23,7 @@ Adds a new  **Style** object to a **Styles** collection.
  _expression_ A variable that represents a [Styles](./Visio.Styles.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Adds a new  **Style** object to a **Styles** collection.
 | _fIncludesLine_|Required| **Integer**|Zero to disable line attributes, or non-zero to enable them.|
 | _fIncludesFill_|Required| **Integer**|Zero to disable fill attributes, or non-zero to enable them.|
 
-### Return value
+## Return value
 
 Style
 

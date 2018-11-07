@@ -23,7 +23,7 @@ Creates a duplicate of the specified  **Page** object and then returns the new *
  _expression_ A variable that represents a  **Page** object.
 
 
-### Return value
+## Return value
 
 Page
 

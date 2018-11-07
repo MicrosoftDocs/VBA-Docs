@@ -23,7 +23,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
  _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 |:-----|:-----|:-----|:-----|
 | _Data_|Required| **String**|The variable to export the data to.|
 
-### Return value
+## Return value
 
 [XlXmlExportResult](Excel.XlXmlExportResult.md)
 

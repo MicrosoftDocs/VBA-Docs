@@ -20,7 +20,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

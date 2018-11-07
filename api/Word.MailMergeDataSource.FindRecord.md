@@ -23,7 +23,7 @@ Searches the contents of the specified mail merge data source for text in a part
  _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Searches the contents of the specified mail merge data source for text in a part
 | _FindText_|Required| **String**|The text to be looked for.|
 | _Field_|Required| **Variant**|The name of the field to be searched.|
 
-### Return value
+## Return value
 
 Boolean
 

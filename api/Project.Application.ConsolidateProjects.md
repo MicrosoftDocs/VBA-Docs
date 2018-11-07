@@ -23,7 +23,7 @@ Displays the data from one or more projects in a single window.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Displays the data from one or more projects in a single window.
 | _UserID_|Optional|**Variant**| A user ID to use when accessing a project in a database. If Filenames does not refer to a database, **UserID** is ignored.|
 | _Password_|Optional|**String**|A password to use when opening password-protected project files. If Password is incorrect or omitted and a file requires a password, the user is prompted for the password.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -21,7 +21,7 @@ Returns an individual chart category.
  _expression_ A variable that represents a 'CategoryCollection' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -30,7 +30,7 @@ Returns an individual chart category.
 |||||
 | _Index_|Required|VARIANT|The name or index number for the object.|
 
-### Return value
+## Return value
 
  **CHARTCATEGORY**
 

@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -55,7 +55,7 @@ ms.date: 06/08/2017
 
 <br/>
 
-### Return value
+## Return value
 
  **Variant**
 

@@ -23,7 +23,7 @@ Returns or sets the width of the row gutters that are used by the  **LayoutGuide
  _expression_ A variable that represents a  **LayoutGuides** object.
 
 
-### Return value
+## Return value
 
 Single
 

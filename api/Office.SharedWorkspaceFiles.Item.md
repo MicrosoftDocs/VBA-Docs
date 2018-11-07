@@ -26,7 +26,7 @@ Gets a  **SharedWorkspaceFile** object from the **Files** collection of the shar
  _expression_ Required. A variable that represents a '[SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md)' object. The specified **SharedWorkspaceFiles** collection.
 
 
-### Parameters
+## Parameters
 
 
 

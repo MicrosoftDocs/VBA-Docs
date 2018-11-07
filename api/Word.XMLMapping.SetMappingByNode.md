@@ -23,7 +23,7 @@ Allows creating or changing the XML data mapping on a content control. Returns  
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Allows creating or changing the XML data mapping on a content control. Returns  
 |:-----|:-----|:-----|:-----|
 | _Node_|Required| **CustomXMLNode**|Specifies the XML node to which to map the current content control.|
 
-### Return value
+## Return value
 
 Boolean
 

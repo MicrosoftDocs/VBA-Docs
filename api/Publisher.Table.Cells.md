@@ -23,7 +23,7 @@ Returns a  **CellRange** object that represents a range of cells in a table.
  _expression_ A variable that represents a  **Table** object.
 
 
-### Parameters
+## Parameters
 
 
 

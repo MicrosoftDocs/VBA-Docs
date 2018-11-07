@@ -23,7 +23,7 @@ Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object 
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns the  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object 
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The index number or name of the object to return.|
 
-### Return value
+## Return value
 
 MailMergeDataSource
 

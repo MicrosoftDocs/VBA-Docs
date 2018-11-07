@@ -23,7 +23,7 @@ Sets an icon for a  **SortField** object.
  _expression_ A variable that represents a [SortField](./Excel.SortField.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 
 
-### Return value
+## Return value
 
 ShadowFormat
 

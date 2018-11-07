@@ -21,7 +21,7 @@ For a single-column  **[ComboBox](Outlook.combobox.md)**, the  **AddItem** metho
  _expression_ A variable that represents a  **ComboBox** object.
 
 
-### Parameters
+## Parameters
 
 
 

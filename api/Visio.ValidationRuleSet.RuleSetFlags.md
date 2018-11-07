@@ -23,7 +23,7 @@ Gets or sets special rule-set properties. Read/write.
  _expression_ A variable that represents a '[ValidationRuleSet](Visio.ValidationRuleSet.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisRuleSetFlags](Visio.VisRuleSetFlags.md)**
 

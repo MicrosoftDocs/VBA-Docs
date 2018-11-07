@@ -20,7 +20,7 @@ Returns a single object from a collection.
  _expression_ A variable that represents a '[LegendEntries](PowerPoint.LegendEntries.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -28,7 +28,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number for the object.|
 
-### Return value
+## Return value
 
 A  **[LegendEntry](PowerPoint.LegendEntry.md)** object that the collection contains.
 

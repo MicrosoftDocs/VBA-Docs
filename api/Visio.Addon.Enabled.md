@@ -23,7 +23,7 @@ Determines whether or not an  **Addon** object is currently enabled. Read/write.
  _expression_ A variable that represents an [Addon](./Visio.Addon.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

@@ -23,7 +23,7 @@ Occurs when a workbook is opened in a  **Protected View** window.
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs when a workbook is opened in a  **Protected View** window.
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the  **Protected View** window that is opened.|
 
-### Return value
+## Return value
 
 Nothing
 

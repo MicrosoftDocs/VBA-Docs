@@ -23,7 +23,7 @@ Returns the rank of a value in a data set as a percentage (0..1, inclusive) of t
  _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Returns the rank of a value in a data set as a percentage (0..1, inclusive) of t
 | _Arg2_|Required| **Double**|X - The value for which you want to know the rank.|
 | _Arg3_|Optional| **Variant**|Significance - An optional value that identifies the number of significant digits for the returned percentage value. If omitted, PERCENTRANK_INC uses three digits (0.xxx).|
 
-### Return value
+## Return value
 
 Double
 

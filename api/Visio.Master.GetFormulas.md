@@ -23,7 +23,7 @@ Returns the formulas of many cells.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the formulas of many cells.
 | _SID_SRCStream()_|Required| **Integer**|A stream that identifies cells to be queried.|
 | _formulaArray()_|Required| **Variant**|Out paramter. An array that receives formulas of queried cells.|
 
-### Return value
+## Return value
 
 Nothing
 

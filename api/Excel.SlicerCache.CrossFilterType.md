@@ -23,7 +23,7 @@ Returns or sets whether a slicer is participating in cross filtering with other 
  _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
-### Return value
+## Return value
 
  **[XlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
 

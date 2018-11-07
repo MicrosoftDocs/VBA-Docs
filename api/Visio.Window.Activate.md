@@ -23,7 +23,7 @@ Activates a window.
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

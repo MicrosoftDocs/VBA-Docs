@@ -23,7 +23,7 @@ Determines whether ScreenTip text includes keyboard shortcuts. Read/write.
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

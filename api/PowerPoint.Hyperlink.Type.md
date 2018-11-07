@@ -23,7 +23,7 @@ Represents the type of hyperlink. Read-only.
  _expression_ A variable that represents a [Hyperlink](./PowerPoint.Hyperlink.md) object.
 
 
-### Return value
+## Return value
 
 MsoHyperlinkType
 

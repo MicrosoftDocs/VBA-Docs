@@ -23,7 +23,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
  _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -35,7 +35,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
 | _Width_|Required| **Long**|The initial size of the new object, in points.|
 | _Height_|Required| **Long**|The initial size of the new object, in points.|
 
-### Return value
+## Return value
 
 Shape
 

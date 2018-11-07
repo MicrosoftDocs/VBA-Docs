@@ -23,7 +23,7 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and append
  _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and append
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new formatting rule.|
 
-### Return value
+## Return value
 
 An  **AutoFormatRule** object that represents the new formatting rule.
 

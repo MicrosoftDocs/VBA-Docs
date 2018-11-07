@@ -23,7 +23,7 @@ Calculates the fraction of the year represented by the number of whole days betw
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Calculates the fraction of the year represented by the number of whole days betw
 | _Arg2_|Required| **Variant**|End_date - a date that represents the end date.|
 | _Arg3_|Optional| **Variant**|Basis - the type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

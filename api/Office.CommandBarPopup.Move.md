@@ -23,7 +23,7 @@ Moves the specified  **CommandBarPopup** control to an existing command bar.
  _expression_ Required. A variable that represents a '[CommandBarPopup](Office.CommandBarPopup.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

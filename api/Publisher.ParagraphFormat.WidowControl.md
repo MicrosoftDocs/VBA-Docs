@@ -23,7 +23,7 @@ Sets or returns an  **MsoTriState** that represents whether or not the first or 
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

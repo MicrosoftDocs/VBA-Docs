@@ -20,7 +20,7 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
  _expression_ A variable that represents a 'Groups' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 | _Name_|Required|**String**|The name of the group to copy.|
 | _NewName_|Required|**String**|The name of the new group.|
 
-### Return value
+## Return value
 
  **Group**
 

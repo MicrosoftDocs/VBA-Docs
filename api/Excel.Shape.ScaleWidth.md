@@ -23,7 +23,7 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
  _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

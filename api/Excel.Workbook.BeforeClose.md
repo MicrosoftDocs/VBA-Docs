@@ -23,7 +23,7 @@ Occurs before the workbook closes. If the workbook has been changed, this event 
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs before the workbook closes. If the workbook has been changed, this event 
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the close operation stops and the workbook is left open.|
 
-### Return value
+## Return value
 
 Nothing
 

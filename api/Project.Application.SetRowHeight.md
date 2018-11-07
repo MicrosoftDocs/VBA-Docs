@@ -23,7 +23,7 @@ Sets the height of the specified rows.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -33,7 +33,7 @@ Sets the height of the specified rows.
 | _Rows_|Optional|**String**|The row(s) to select. The value for Rows can be a single row (for example, "5"), a range of rows (for example, "1-8"), a list of discontiguous rows (for example, "5,7-9,12"), or "ALL" to select every row. If Rows is not specified and an existing selection exists, the selection will be used. The default with no existing selection is to use the active row.|
 | _UseUniqueID_|Optional|**Boolean**|**True** if the value specified with Rows is the unique identification number(s) for resources or tasks. **False** if Rows specifies row numbers. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

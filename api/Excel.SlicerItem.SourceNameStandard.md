@@ -23,7 +23,7 @@ Returns the slicer item's source name in standard English (United States) format
  _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 
 
-### Return value
+## Return value
 
 String
 

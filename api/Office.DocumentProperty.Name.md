@@ -23,7 +23,7 @@ Gets or sets the name of a document property. Read/write.
  _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Gets or sets the name of a document property. Read/write.
 | _lcid_|Required|**Long**|Represents the language identifier.|
 | _pbstrRetVal_|Required|**String**|Represents the return value for the property.|
 
-### Return value
+## Return value
 
 String
 

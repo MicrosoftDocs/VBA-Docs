@@ -23,7 +23,7 @@ Converts the array of bytes specified by  _Value_ to a **String** .
  _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Converts the array of bytes specified by  _Value_ to a **String** .
 |:-----|:-----|:-----|:-----|
 | _Value_|Required| **Variant**|Represents the array of bytes to be converted.|
 
-### Return value
+## Return value
 
  A hexadecimal **String** that represents the converted value.
 

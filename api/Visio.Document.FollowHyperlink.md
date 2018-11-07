@@ -23,7 +23,7 @@ Navigates to an arbitrary hyperlink.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -38,7 +38,7 @@ Navigates to an arbitrary hyperlink.
 | _res2_|Optional| **Variant**|Unused.|
 | _res3_|Optional| **Variant**|Unused.|
 
-### Return value
+## Return value
 
 Nothing
 

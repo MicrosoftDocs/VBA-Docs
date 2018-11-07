@@ -18,7 +18,7 @@ Adds a new Engagement to the Resource. Introduced in Office 2016.
  _expression_ A variable that represents a 'Engagements' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Adds a new Engagement to the Resource. Introduced in Office 2016.
 | _End_|Optional|VARIANT|Finish date of the Engagement.|
 | _TotalWork_|Optional|VARIANT|Work of the Engagement.|
 
-### Return value
+## Return value
 
  **ENGAGEMENT**
 

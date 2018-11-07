@@ -20,7 +20,7 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Displays the  **Properties and Settings** dialog box at the specified screen coo
 |ScreenX|Optional| **Variant**|The x-coordinate, in pixels, of the point where the dialog box should appear, relative to the origin of the frame of the screen.|
 |ScreenY|Optional| **Variant**|The y-coordinate, in pixels, of the point where the dialog box should appear, relative to the origin of the frame of the screen.|
 
-### Return value
+## Return value
 
 Nothing
 

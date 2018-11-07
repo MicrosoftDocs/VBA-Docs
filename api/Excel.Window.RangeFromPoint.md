@@ -23,7 +23,7 @@ Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** 
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** 
 | _x_|Required| **Long**|The value (in pixels) that represents the horizontal distance from the left edge of the screen, starting at the top.|
 | _y_|Required| **Long**|The value (in pixels) that represents the vertical distance from the top of the screen, starting on the left.|
 
-### Return value
+## Return value
 
 Object
 

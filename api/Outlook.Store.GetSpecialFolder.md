@@ -23,7 +23,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object for a special folder specified
 |:-----|:-----|:-----|:-----|
 | _FolderType_|Required| **[OlSpecialFolders](Outlook.OlSpecialFolders.md)**|A constant in the  **OlSpecialFolders** enumeration that specifies the type of the special folder in the store.|
 
-### Return value
+## Return value
 
 A  **Folder** object that represents a special folder specified by the _FolderType_ .
 

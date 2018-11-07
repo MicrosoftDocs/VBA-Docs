@@ -23,7 +23,7 @@ Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableIt
  _expression_ A variable that represents a [ServerViewableItems](./Excel.ServerViewableItems.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableIt
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index of the object to be returned.|
 
-### Return value
+## Return value
 
 Object
 

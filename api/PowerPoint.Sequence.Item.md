@@ -23,7 +23,7 @@ Returns a single  **Effect** object from the specified **Sequence** collection.
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Effect** object from the specified **Sequence** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Effect** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Effect
 

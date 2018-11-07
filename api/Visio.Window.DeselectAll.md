@@ -23,7 +23,7 @@ Deselects all shapes in a window or selection.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

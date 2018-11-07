@@ -23,7 +23,7 @@ Returns an individual  **MappedDataField** object.
  _expression_ Required. A variable that represents a '[MappedDataFields](Word.MappedDataFields.md)' collection.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns an individual  **MappedDataField** object.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdMappedDataFields**|The specified mapped data field.|
 
-### Return value
+## Return value
 
 MappedDataField
 

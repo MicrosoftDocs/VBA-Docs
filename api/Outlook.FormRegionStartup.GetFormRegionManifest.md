@@ -23,7 +23,7 @@ Obtains the XML manifest for a form region.
  _expression_ A variable that represents a 'FormRegionStartup' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Obtains the XML manifest for a form region.
 | _FormRegionName_|Required| **String**|The name of the form region which is the name used when registering the form region in the Windows registry.|
 | _LCID_|Required| **Long**|The locale ID that identifies the language that Outlook is currently using. This value is used to obtain the localization strings corresponding to this language for the form region.|
 
-### Return value
+## Return value
 
 A  **Variant** that represents the XML manifest for a form region. This XML string includes characteristics of the form region such as the display name (as specified by the title element), any associated layout file or add-in, any supported user actions, and any localization strings. The XML must follow the form region XML schema. For more information on the form region XML schema, see the Microsoft Outlook 2010 XML Schema Reference in the [MSDN Library](https://msdn.microsoft.com/library).
 

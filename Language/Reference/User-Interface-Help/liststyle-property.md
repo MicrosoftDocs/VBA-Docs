@@ -28,7 +28,7 @@ The  **ListStyle** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmListStyle_|Optional. The visual style of the list.|
 
- **Settings**
+## Settings
 The settings for  _fmListStyle_ are:
 
 

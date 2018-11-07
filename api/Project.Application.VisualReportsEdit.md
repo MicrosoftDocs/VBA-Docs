@@ -23,7 +23,7 @@ Opens the default or a specified Visual Reports template for editing.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Opens the default or a specified Visual Reports template for editing.
 | _strVisualReportTemplateFile_|Optional|**String**|Full path and the name of template file.|
 | _PjVisualReportsDataLevel_|Optional|**Long**|Data level for the template. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. The default is **pjLevelAutomatic**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

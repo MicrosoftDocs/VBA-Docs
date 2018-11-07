@@ -23,7 +23,7 @@ Formats a paragraph or range of paragraphs with a picture bullet.
  _expression_ Required. A variable that represents a '[ListLevel](Word.ListLevel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

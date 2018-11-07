@@ -23,7 +23,7 @@ Customizes headings in the Calendar.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Customizes headings in the Calendar.
 | _DaysPerWeek_|Optional|**Integer**|The number of days per week to display. Can be set to 5 or 7.|
 | _ShowTitleBeginningEndDates_|Optional|**Boolean**|**True** if the beginning and end date titles are shown.|
 
-### Return value
+## Return value
 
  **Boolean**
 

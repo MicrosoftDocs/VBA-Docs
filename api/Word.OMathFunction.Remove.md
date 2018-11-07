@@ -23,7 +23,7 @@ Removes a function from the collection of functions contained within an equation
  _expression_ An expression that returns a [OMathFunction](./Word.OMathFunction.md) object.
 
 
-### Return value
+## Return value
 
 OMathFunction
 

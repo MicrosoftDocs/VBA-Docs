@@ -23,7 +23,7 @@ Determines whether an event can potentially persist within its document. Read-on
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

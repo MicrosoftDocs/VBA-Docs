@@ -23,7 +23,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -53,7 +53,7 @@ Sets display options for the  **General**,  **Display**, and  **Advanced** tabs 
 | _CalendarType_|Optional|**Integer**|Sets the type of calendar for displaying Project content on the screen. Can be one of the  **[pjCalendarType](Project.PjCalendarType.md)** values.|
 | _Use3DLook_|Optional|**Boolean**|**True** if bars and shapes in Gantt views have a 3-dimensional appearance; otherwise **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

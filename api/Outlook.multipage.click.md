@@ -18,7 +18,7 @@ Occurs when the user clicks inside the control.
  _expression_ A variable that represents a  **MultiPage** object.
 
 
-### Parameters
+## Parameters
 
 
 

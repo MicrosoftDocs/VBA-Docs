@@ -23,7 +23,7 @@ Creates a comparison report between two versions of a project.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -36,7 +36,7 @@ Creates a comparison report between two versions of a project.
 | _Columns_|Optional|**[PjCompareVersionColumns](Project.PjCompareVersionColumns.md)**|Specifies whether to show only column data, only column differences, or both differences and data.|
 | _ShowLegend_|Optional|**Variant**|If  **True**, shows the legend in the comparison report.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -21,7 +21,7 @@ Returns the cotangent of an angle.
  _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -29,7 +29,7 @@ Returns the cotangent of an angle.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The angle in radians for which you want the cotangent.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

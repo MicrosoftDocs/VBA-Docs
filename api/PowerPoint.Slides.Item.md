@@ -23,7 +23,7 @@ Returns a single  **Slide** object from the specified **Slides** collection.
  _expression_ A variable that represents a [Slides](./PowerPoint.Slides.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a single  **Slide** object from the specified **Slides** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the single  **Slide** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Slide
 

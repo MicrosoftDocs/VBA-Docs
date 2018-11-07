@@ -18,7 +18,7 @@ Returns a  **ParagraphFormat** object that represents paragraph formatting for t
  _expression_ An expression that returns a 'TextRange2' object.
 
 
-### Return value
+## Return value
 
 ParagraphFormat
 

@@ -23,7 +23,7 @@ Executes a redo action on items in the  **Redo** list.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Executes a redo action on items in the  **Redo** list.
 |:-----|:-----|:-----|:-----|
 | _HowManyRedos_|Optional|**Long**|Specifies the number of items from the list to redo. The default is 1.|
 
-### Return value
+## Return value
 
  **Boolean**
 

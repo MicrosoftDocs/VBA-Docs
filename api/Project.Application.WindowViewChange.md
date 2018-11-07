@@ -20,7 +20,7 @@ Occurs after the top pane view is changed within a project window. The  **Window
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Occurs after the top pane view is changed within a project window. The  **Window
 | _newView_|Required|**View**|The new top pane view the user has now applied.|
 | _success_|Required|**Boolean**|**True** if the view change action succeeded.|
 
-### Return value
+## Return value
 
 nothing
 

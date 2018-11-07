@@ -23,7 +23,7 @@ Installs the specified XML expansion pack on the user's computer, making an XML 
  _expression_ A variable that represents a [XmlNamespaces](./Excel.XmlNamespaces.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

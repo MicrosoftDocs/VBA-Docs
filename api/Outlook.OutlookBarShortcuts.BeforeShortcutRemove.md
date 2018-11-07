@@ -23,7 +23,7 @@ Occurs before a new shortcut is removed from a group in the  **Shortcuts** pane,
  _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.OutlookBarShortcuts.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

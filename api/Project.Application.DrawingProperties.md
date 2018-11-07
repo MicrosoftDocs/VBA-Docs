@@ -23,7 +23,7 @@ Displays the  **Format Drawing** dialog box, which prompts the user to customize
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Displays the  **Format Drawing** dialog box, which prompts the user to customize
 |:-----|:-----|:-----|:-----|
 | _SizePositionTab_|Optional|**Boolean**|**True** if the **Size &; Position** tab of the **Format Drawing** dialog box appears. **False** if the **Line &; Fill** tab appears.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Calculates how often values occur within a range of values, and then returns a v
  _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Calculates how often values occur within a range of values, and then returns a v
 | _Arg1_|Required| **Variant**|Data_array - an array of or reference to a set of values for which you want to count frequencies. If data_array contains no values, FREQUENCY returns an array of zeros.|
 | _Arg2_|Required| **Variant**|Bins_array - an array of or reference to intervals into which you want to group the values in data_array. If bins_array contains no values, FREQUENCY returns the number of elements in data_array.|
 
-### Return value
+## Return value
 
 Variant
 

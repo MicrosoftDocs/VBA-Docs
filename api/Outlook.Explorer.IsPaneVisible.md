@@ -23,7 +23,7 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
  _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 |:-----|:-----|:-----|:-----|
 | _Pane_|Required| **[OlPane](Outlook.OlPane.md)**|The pane to check.|
 
-### Return value
+## Return value
 
  **True** if the specified pane is displayed in the explorer; otherwise, **False** .
 

@@ -23,7 +23,7 @@ Inserts a break into an equation and returns an  **OMathBreak** object that repr
  _expression_ An expression that returns a [OMathBreaks](./Word.OMathBreaks.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -31,7 +31,7 @@ Inserts a break into an equation and returns an  **OMathBreak** object that repr
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The position at which to insert the break in the equation.|
 
-### Return value
+## Return value
 
 OMathBreak
 

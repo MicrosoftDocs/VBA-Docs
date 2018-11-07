@@ -22,7 +22,7 @@ _expression_. **NoData**(**_Cancel_**)
 _expression_ A variable that represents a **Report** object.
 
 
-### Parameters
+## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

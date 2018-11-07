@@ -23,7 +23,7 @@ Adds a linked or embedded object to a page, master, or group.
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Adds a linked or embedded object to a page, master, or group.
 | _FileName_|Required| **String**|The name of the file that contains the object to link or embed.|
 | _Flags_|Required| **Integer**|Flags that influence how the object is inserted.|
 
-### Return value
+## Return value
 
 Shape
 

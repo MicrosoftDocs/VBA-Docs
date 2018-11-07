@@ -23,7 +23,7 @@ Closes and optionally saves changes to the Outlook item.
  _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
-### Parameters
+## Parameters
 
 
 

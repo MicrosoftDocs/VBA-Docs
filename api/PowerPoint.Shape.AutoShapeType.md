@@ -23,7 +23,7 @@ Returns or sets the shape type for the specified  **Shape** object, which must r
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 [MsoAutoShapeType](./Office.MsoAutoShapeType.md)
 

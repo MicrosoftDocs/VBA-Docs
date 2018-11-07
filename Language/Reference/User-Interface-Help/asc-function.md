@@ -18,7 +18,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) represent
 ## Syntax
 
 **Asc(**_string_**)**
-The required  _string_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[string expression](../../Glossary/vbe-glossary.md#string-expression). If the  _string_ contains no characters, a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs.
+The required  _string_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid[string expression](../../Glossary/vbe-glossary.md#string-expression). If the  _string_ contains no characters, a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs.
 
 ## Remarks
 

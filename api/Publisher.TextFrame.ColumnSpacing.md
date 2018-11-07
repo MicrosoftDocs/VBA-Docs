@@ -23,7 +23,7 @@ Returns or sets a  **Variant** that represents the amount of space between text 
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return value
+## Return value
 
 Variant
 

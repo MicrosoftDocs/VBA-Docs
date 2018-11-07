@@ -23,7 +23,7 @@ Gets the list of a merged e-mail message's attachments. Read-only.
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
-### Return value
+## Return value
 
 Attachments
 

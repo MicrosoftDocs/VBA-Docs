@@ -23,7 +23,7 @@ Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents
  _expression_ A variable that represents a '[DataLabel](Word.DataLabel.md)' object.
 
 
-### Parameters
+## Parameters
 
 
 

@@ -23,7 +23,7 @@ Returns or sets the sort order of the items in the slicer. Read/write.
  _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
-### Return value
+## Return value
 
  **[XlSlicerSort](Excel.XlSlicerSort.md)**
 

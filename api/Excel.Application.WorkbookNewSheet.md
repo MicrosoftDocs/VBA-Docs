@@ -23,7 +23,7 @@ Occurs when a new sheet is created in any open workbook.
  _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
-### Parameters
+## Parameters
 
 
 
@@ -32,7 +32,7 @@ Occurs when a new sheet is created in any open workbook.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Sh_|Required| **Object**|The new sheet.|
 
-### Return value
+## Return value
 
 Nothing
 
