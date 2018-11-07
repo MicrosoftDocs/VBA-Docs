@@ -18,7 +18,7 @@ A connection is a set of information needed to obtain data from an external data
 
 ## Remarks
 
-Connections can be stored within an Excel workbook. When the workbook is opened, Excel creates an in-memory copy of the connection which is refered to as the connection object. A connection object contains information such as the name of the server and the name of the object to be opened on that server. Optionally, the connection object may also include authentication credentials and/or a command that is to be passed to the server and executed (example: a SELECT statement to be executed by SQL Server.) 
+Connections can be stored within an Excel workbook. When the workbook is opened, Excel creates an in-memory copy of the connection which is referred to as the connection object. A connection object contains information such as the name of the server and the name of the object to be opened on that server. Optionally, the connection object may also include authentication credentials and/or a command that is to be passed to the server and executed (example: a SELECT statement to be executed by SQL Server.) 
 
 
  **Note**  The exact form of the connection depends on the mechanism that is being used to retrieve data - ODBC connections, OLEDB connections, and Web Queries will contain different information.
