@@ -51,11 +51,11 @@ The  **_compare_** argument can have the following values:
 |**_expression_** is zero-length|Zero-length string ("")|
 |**_expression_** is **Null**|An error.|
 |**_find_** is zero-length|Copy of  **_expression_**.|
-|**_replace_** is zero-length|Copy of  **_expression_** with all occurences of _find_ removed.|
+|**_replace_** is zero-length|Copy of  **_expression_** with all occurrences of _find_ removed.|
 |**_start_** > **Len( _expression_ )**|Zero-length string. String replacement begins at the position indicated by **start**.|
 |**_count_** is 0|Copy of  **_expression_**.|
 
 ## Remarks
 
-The return value of the  **Replace** function is a string, with substitutions made, that begins at the position specified by **_start_** and and concludes at the end of the **_expression_** string. It is not a copy of the original string from start to finish.
+The return value of the  **Replace** function is a string, with substitutions made, that begins at the position specified by **_start_** and concludes at the end of the **_expression_** string. It is not a copy of the original string from start to finish.
 

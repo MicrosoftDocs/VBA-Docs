@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CurrentProject.AddSharedImage method (Access)
 
-Imports the the specified image into the database and adds it to the  **[SharedResources](Access.SharedResources.md)** collection.
+Imports the specified image into the database and adds it to the  **[SharedResources](Access.SharedResources.md)** collection.
 
 
 ## Syntax

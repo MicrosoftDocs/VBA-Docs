@@ -50,7 +50,7 @@ Sub SortAll()
     lngLastRow = Cells(Rows.Count, 1).End(xlUp).Row
     Set rngHidden = Rows(1)
     
-    'For each row in the list, if the row is hidden add that that row to the hidden range variable.
+    'For each row in the list, if the row is hidden add that row to the hidden range variable.
     For lngRow = 1 To lngLastRow
         If Rows(lngRow).Hidden = True Then
             Set rngHidden = Union(rngHidden, Rows(lngRow))

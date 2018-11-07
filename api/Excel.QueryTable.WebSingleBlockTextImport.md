@@ -36,7 +36,7 @@ The  **WebSingleBlockTextImport** property applies only to **QueryTable** object
 
 ## Example
 
-This example adds a new Web query table to the first worksheet in the first workbook and and then imports all of the HTML <PRE> tag data all at once.
+This example adds a new Web query table to the first worksheet in the first workbook and then imports all of the HTML <PRE> tag data all at once.
 
 
 ```vb

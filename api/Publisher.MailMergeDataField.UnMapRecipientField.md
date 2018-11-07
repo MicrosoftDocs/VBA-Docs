@@ -30,7 +30,7 @@ This method works only if the parent  **MailMergeDataField** object is mapped to
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UnmapRecipientField** method to undo the mapping between a data field (column) in a particular data source and a field in the the master data source (combined recipient list) for the publication.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **UnmapRecipientField** method to undo the mapping between a data field (column) in a particular data source and a field in the master data source (combined recipient list) for the publication.
 
 Before running this macro, replace  _datasourceindex_ with the index number of a valid data source in the data source collection of the active document, and replace _fieldname_ with the name of the field in the data source that you want to remove from the combined list of recipient fields.
 

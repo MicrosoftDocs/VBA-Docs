@@ -8,7 +8,7 @@ ms.date: 08/15/2017
 
 # WdPageMovementType Enumeration (Word)
 
-Specifies the the page movement type.
+Specifies the page movement type.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

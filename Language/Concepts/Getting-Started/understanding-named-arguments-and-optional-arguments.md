@@ -54,7 +54,7 @@ End Sub
 ```
 
 When you call a procedure with an optional argument, you can choose whether or not to specify the optional argument. If you don't specify the optional argument, the default value, if any, is used. If no default value is specified, the argument is it would be for any variable of the specified type.
-The following procedure includes two optional arguments, the  `varRegion` and and `varCountry` variables. The **IsMissing** function determines whether an optional Variant argument has been passed to the procedure.
+The following procedure includes two optional arguments, the  `varRegion` and `varCountry` variables. The **IsMissing** function determines whether an optional Variant argument has been passed to the procedure.
 
 
 

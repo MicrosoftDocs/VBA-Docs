@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Errors Property (Excel)
 
-Allows the user to to access error checking options.
+Allows the user to access error checking options.
 
 
 ## Syntax

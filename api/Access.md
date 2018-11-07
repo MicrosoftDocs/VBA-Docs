@@ -34,13 +34,13 @@ This section contains documentation for the enumerations in the Access object mo
 | [AcFilterType](Access.AcFilterType.md)|Not supported in Access.|
 | [AcFindField](Access.AcFindField.md)|Specifies whether the search is confined to the current field in each record or includes all fields in each record.|
 | [AcFindMatch](Access.AcFindMatch.md)|Specifies where the data is located in the field. |
-| [AcFormatBarLimits](Access.AcFormatBarLimits.md)|Specifies how the threshhold values for a Data Bar is determined.|
+| [AcFormatBarLimits](Access.AcFormatBarLimits.md)|Specifies how the threshold values for a Data Bar is determined.|
 | [AcFormatConditionOperator](Access.AcFormatConditionOperator.md)|Specifies the operator to apply when using the  **Add** method to create a conditional format.|
 | [AcFormatConditionType](Access.AcFormatConditionType.md)|Specifies the type of conditional formatting to apply to a control.|
 | [AcFormOpenDataMode](Access.AcFormOpenDataMode.md)|Specifies the data entry mode of a form.|
 | [AcFormView](Access.AcFormView.md)|Specifies the view when opeing a form.|
 | [AcHorizontalAnchor](Access.AcHorizontalAnchor.md)|Used with the  **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.|
-| [AcHyperlinkPart](Access.AcHyperlinkPart.md)|Specifies the the information you want returned by the  **HyperlinkPart** method.|
+| [AcHyperlinkPart](Access.AcHyperlinkPart.md)|Specifies the information you want returned by the  **HyperlinkPart** method.|
 | [AcImeMode](Access.AcImeMode.md)|Specifies the default startup mode for the Japanese Input Method Editor (IME). |
 | [AcImeSentenceMode](Access.AcImeSentenceMode.md)|Used with the [IMESentenceMode](overview/Access.md) property to specify the IME sentence mode for the IMM.|
 | [AcImportXMLOption](Access.AcImportXMLOption.md)|Specifies the action to take when using the [Application.ImportXML method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.|

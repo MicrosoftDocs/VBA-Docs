@@ -37,7 +37,7 @@ The  **AllCaps** property value can be one of the ** [MsoTriState](./Office.MsoT
 
 ## Example
 
-This example checks the selected text in the active document for text formatted as all capital letters. For this example to work, there must be be an active publication with text selected.
+This example checks the selected text in the active document for text formatted as all capital letters. For this example to work, there must be an active publication with text selected.
 
 
 ```vb

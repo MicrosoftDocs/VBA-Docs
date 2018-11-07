@@ -39,5 +39,5 @@ The settings for  _fmVerticalScrollbarSide_ are:
 
 ## Remarks
 
-The  **VerticalScrollBarSide** property is is particularly useful if the form will be used in an environment where reading occurs from right to left.
+The  **VerticalScrollBarSide** property is particularly useful if the form will be used in an environment where reading occurs from right to left.
 

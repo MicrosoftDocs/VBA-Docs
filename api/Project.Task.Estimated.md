@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Estimated Property (Project)
 
- **True** if the the task duration is an estimate. **False** if the task duration is a set value. Read/write **Variant**.
+ **True** if the task duration is an estimate. **False** if the task duration is a set value. Read/write **Variant**.
 
 
 ## Syntax

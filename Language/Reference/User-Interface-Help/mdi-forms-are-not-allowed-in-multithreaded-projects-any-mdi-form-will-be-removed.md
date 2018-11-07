@@ -15,7 +15,7 @@ This error has the following causes and solutions:
 
 
 
-- You've attempted to add an MDI form to a multi-threaded project. If you want to keep the MDI form in your project, change the the threading model to Thread Pool with only one thread.
+- You've attempted to add an MDI form to a multi-threaded project. If you want to keep the MDI form in your project, change the threading model to Thread Pool with only one thread.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
