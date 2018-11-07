@@ -49,7 +49,7 @@ The following example uses the  **Redo** method to redo a subset of the actions 
 
 Part 1 creates a rectangle that contains a text frame on the fourth page of the active publication. Various font properties are set, and text is added to the text frame. In this case, the text "This font is Courier" is set to 12 point bold Courier font. 
 
-Part 2 tests whether the text in the text frame is Verdana font. If not, then the  **Undo** method is used to undo the last four actions on the undo stack. The **Redo** method is then used to redo the the first two of the last four actions that were just undone. In this case, the third action (setting the font size) and the fourth action (setting the font to bold) are redone. The font name is then changed to Verdana, and the text is modified.
+Part 2 tests whether the text in the text frame is Verdana font. If not, then the  **Undo** method is used to undo the last four actions on the undo stack. The **Redo** method is then used to redo the first two of the last four actions that were just undone. In this case, the third action (setting the font size) and the fourth action (setting the font to bold) are redone. The font name is then changed to Verdana, and the text is modified.
 
 
 

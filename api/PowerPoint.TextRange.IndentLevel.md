@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRange.IndentLevel Property (PowerPoint)
 
-Returns or sets the the indent level for the specified text as an integer from 1 to 5, where 1 indicates a first-level paragraph with no indentation. Read/write.
+Returns or sets the indent level for the specified text as an integer from 1 to 5, where 1 indicates a first-level paragraph with no indentation. Read/write.
 
 
 ## Syntax

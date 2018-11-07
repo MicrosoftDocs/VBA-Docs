@@ -36,7 +36,7 @@ The  **RuleSetFlags** property value must be one of the following **VisRuleSetFl
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visRuleSetDefault**|0|The default set of rule-set properties. The rule set appears in the the  **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
+| **visRuleSetDefault**|0|The default set of rule-set properties. The rule set appears in the  **Rules to Check** list (click the **Check Diagram** arrow on the **Process** tab).|
 | **visRuleSetHidden**|1|The rule set does not appear in the  **Rules to Check** list.|
 
 ## Example

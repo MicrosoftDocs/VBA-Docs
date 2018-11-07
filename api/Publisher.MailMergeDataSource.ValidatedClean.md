@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.ValidatedClean Property (Publisher)
 
-Indicates whether all recipient addresses in the the parent  **MailMergeDataSource** object were successfully validated, and whether any changes are made to the list since the last validation that require the list to be validated again. Read/write.
+Indicates whether all recipient addresses in the parent  **MailMergeDataSource** object were successfully validated, and whether any changes are made to the list since the last validation that require the list to be validated again. Read/write.
 
 
 ## Syntax

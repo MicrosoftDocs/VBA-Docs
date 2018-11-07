@@ -76,7 +76,7 @@ Possible values for the PrintStyle parameter are declared in the  **[PbPrintStyl
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportAsFixedFormat** method to save the the active publication as a .pdf file.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ExportAsFixedFormat** method to save the active publication as a .pdf file.
 
 Before running this code, replace  _pathandfilename.pdf_ with a valid file name and the path to a folder on your computer where you have permission to save files.
 
