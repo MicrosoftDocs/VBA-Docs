@@ -22,7 +22,7 @@ Gets a  **CommandBars** collection that represents all the command bars in the a
 
 ## Remarks
 
-For more information, see see the  **CommandBars** collection object in the Microsoft Office Visual Basic Reference.
+For more information, see the  **CommandBars** collection object in the Microsoft Office Visual Basic Reference.
 
 
 ## Example
