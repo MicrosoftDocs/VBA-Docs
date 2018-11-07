@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.Spacing Property (Word)
 
-Returns or sets the spacing (in points) between between columns. Read/write  **Single** .
+Returns or sets the spacing (in points) between columns. Read/write  **Single** .
 
 
 ## Syntax
