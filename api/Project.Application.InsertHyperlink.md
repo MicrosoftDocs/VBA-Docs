@@ -34,7 +34,7 @@ Inserts a hyperlink on the selected assignment, resource, or task.
 | _SubAddress_|Optional|**String**|A location within the target document.|
 | _ScreenTip_|Optional|**String**|The ScreenTip text for the hyperlink.|
 
-### Return value
+## Return value
 
  **Boolean**
 

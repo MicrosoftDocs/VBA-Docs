@@ -29,7 +29,7 @@ Returns the cosecant of an angle.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The angle in radians for which you want the cosecant.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

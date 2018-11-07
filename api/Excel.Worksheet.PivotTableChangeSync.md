@@ -31,7 +31,7 @@ Occurs after changes to a PivotTable.
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that was changed.|
 
-### Return value
+## Return value
 
 Nothing
 

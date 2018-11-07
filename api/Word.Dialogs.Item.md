@@ -31,7 +31,7 @@ Returns a dialog in Microsoft Word.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **WdWordDialog**|A constant that specifies the dialog.|
 
-### Return value
+## Return value
 
 Dialog
 

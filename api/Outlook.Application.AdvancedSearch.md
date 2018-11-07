@@ -34,7 +34,7 @@ Performs a search based on a specified DAV Searching and Locating (DASL) search 
 | _SearchSubFolders_|Optional| **Variant**|Determines if the search will include any of the folder's subfolders.|
 | _Tag_|Optional| **Variant**|The name given as an identifier for the search.|
 
-### Return value
+## Return value
 
 A  **[Search](Outlook.Search.md)** object that represents the results of the search.
 

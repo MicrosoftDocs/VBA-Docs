@@ -34,7 +34,7 @@ Adds a new  **[SlicerCache](Excel.SlicerCache.md)** object to the collection.
 | _Name_|Optional| **Variant**|The name Excel uses to reference the slicer cache (the value of the  **SlicerCache** . **[Name](Excel.SlicerCache.Name.md)** property). If omitted, Excel will generate a name. By default, Excel concatenates "Slicer_" with the value of the **PivotField** . **[Caption](Excel.PivotField.Caption.md)** property for slicers with non-OLAP data sources, or with the value of the **CubeField** . **[Caption](Excel.CubeField.Caption.md)** property for slicers with OLAP data sources. (Replacing any spaces with "_".) If required to make the name unique in the workbook namespace, Excel adds an integer to the end of the generated name. If you specify a name that already exists in the workbook namespace, the **Add** method will fail.|
 | _SlicerCacheType_|Optional|[XlSlicerCacheType](Excel.xlslicercachetype.md)|Designates the type of slicer or slicer cache.|
 
-### Return value
+## Return value
 
 SlicerCache
 

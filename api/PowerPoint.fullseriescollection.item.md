@@ -27,7 +27,7 @@ Returns an individual [Series](PowerPoint.Series.md) object from the collection.
 | _Index_|Required|**VARIANT**|The name or index number of the item to return.|
 | _Index_|Required|VARIANT||
 
-### Return value
+## Return value
 
 [Series](PowerPoint.Series.md)
 

@@ -30,7 +30,7 @@ Returns an individual chart category.
 | _Index_|Required|**VARIANT**|The name or index number for the object.|
 | _Index_|Required|VARIANT||
 
-### Return value
+## Return value
 
  **CHARTCATEGORY**
 

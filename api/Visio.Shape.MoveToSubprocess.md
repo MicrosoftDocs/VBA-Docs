@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 | _ObjectToDrop_|Required|**[UNKNOWN]**|The replacement shape to drop.|
 | _NewShape_|Optional|**Shape**|Out parameter. Returns the shape that is linked to the new page.|
 
-### Return value
+## Return value
 
  **[Selection](Visio.Selection.md)**
 

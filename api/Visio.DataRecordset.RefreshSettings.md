@@ -26,7 +26,7 @@ Gets and sets options that determine how the data recordset is refreshed. Read/w
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

@@ -33,7 +33,7 @@ Adds a new shortcut to a group in the  **Shortcuts** pane.
 | _Name_|Required| **String**|The name of the shortcut being created.|
 | _Index_|Optional| **Long**|The position at which the new shortcut will be inserted in the  **Shortcuts** pane group. Position one is at the top of the group.The **Target** type depends on the shortcut type. If the type is **Folder** , the shortcut represents a Microsoft Outlook folder. If the type is a **String** , the shortcut represents a file-system path or a URL.|
 
-### Return value
+## Return value
 
 An  **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)** object that represents the new shortcut.
 

@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **Permission** object. Re
  _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

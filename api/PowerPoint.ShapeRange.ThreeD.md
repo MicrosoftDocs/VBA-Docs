@@ -23,7 +23,7 @@ Returns a  **[ThreeDFormat](PowerPoint.ThreeDFormat.md)** object that contains 3
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return value
+## Return value
 
 ThreeDFormat
 

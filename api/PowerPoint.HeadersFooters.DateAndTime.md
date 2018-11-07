@@ -23,7 +23,7 @@ Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 
 
-### Return value
+## Return value
 
 HeaderFooter
 

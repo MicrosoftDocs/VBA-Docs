@@ -23,7 +23,7 @@ Returns or sets the special effect applied to the specified slide transition. Re
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
-### Return value
+## Return value
 
 PpEntryEffect
 

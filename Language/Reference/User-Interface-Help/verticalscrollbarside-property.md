@@ -28,7 +28,7 @@ The  **VerticalScrollbarSide** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmVerticalScrollbarSide_|Optional. Where the scroll bar should appear.|
 
- **Settings**
+## Settings
 The settings for  _fmVerticalScrollbarSide_ are:
 
 

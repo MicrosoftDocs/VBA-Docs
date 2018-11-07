@@ -20,7 +20,7 @@ Gets the build number of Microsoft Visio Viewer. Read-only.
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Long**
 

@@ -31,7 +31,7 @@ Returns a single  **AnimationBehavior** object from the specified **AnimationBeh
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **AnimationBehavior** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 AnimationBehavior
 

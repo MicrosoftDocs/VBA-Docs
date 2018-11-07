@@ -23,7 +23,7 @@ Returns a  **Single** indicating the height, in points, of the bounding box for 
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 Single
 

@@ -23,7 +23,7 @@ Converts a selection or an object from another application (a linked or embedded
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

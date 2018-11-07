@@ -38,7 +38,7 @@ Returns a  **Shape** object that represents the WordArt to be added to the publi
 |Left|Required| **Variant**|The horizontal position of the WordArt.|
 |Top|Required| **Variant**|The vertical position of the WordArt.|
 
-### Return value
+## Return value
 
  **Shape**
 

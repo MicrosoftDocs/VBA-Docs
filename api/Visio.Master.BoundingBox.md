@@ -35,7 +35,7 @@ Returns a rectangle that tightly encloses the shapes of a master.
 | _lpr8Right_|Required| **Double**|Returns the x-coordinate of the right edge of the bounding box.|
 | _lpr8Top_|Required| **Double**|Returns the y-coordinate of the top edge of the bounding box.|
 
-### Return value
+## Return value
 
 Nothing
 

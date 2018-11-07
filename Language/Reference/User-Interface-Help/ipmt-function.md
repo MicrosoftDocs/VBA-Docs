@@ -1,5 +1,5 @@
 ---
-title: IPmt Function
+title: IPmt function
 keywords: vblr6.chm1009281
 f1_keywords:
 - vblr6.chm1009281
@@ -9,17 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
-# IPmt Function
-
-
+# IPmt function
 
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the interest payment for a given period of an annuity based on periodic, fixed payments and a fixed interest rate.
 
 ## Syntax
 
-**IPmt( _rate_**, **_per_**, **_nper_**, **_pv_** [, **_fv_** [, **_type_** ]] **)**
-The **IPmt** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**IPmt( _rate_**, **_per_**, **_nper_**, **_pv_**, [ **_fv_**, [ **_type_** ]] **)**
 
+The **IPmt** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -33,12 +31,14 @@ The **IPmt** function has these[named arguments](../../Glossary/vbe-glossary.md#
 ## Remarks
 
 An annuity is a series of fixed cash payments made over a period of time. An annuity can be a loan (such as a home mortgage) or an investment (such as a monthly savings plan).
-The **_rate_** and **_nper_**[arguments](../../Glossary/vbe-glossary.md#argument) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
+
+The **_rate_** and **_nper_** [arguments](../../Glossary/vbe-glossary.md#argument) must be calculated using payment periods expressed in the same units. For example, if **_rate_** is calculated using months, **_nper_** must also be calculated using months.
+
 For all arguments, cash paid out (such as deposits to savings) is represented by negative numbers; cash received (such as dividend checks) is represented by positive numbers.
 
 ## Example
 
-This example uses the **IPmt** function to calculate how much of a payment is interest when all the payments are of equal value. Given are the interest percentage rate per period ( `APR / 12`), the payment period for which the interest portion is desired ( `Period`), the total number of payments ( `TotPmts`), the present value or principal of the loan ( `PVal`), the future value of the loan ( `FVal`), and a number that indicates whether the payment is due at the beginning or end of the payment period ( `PayType`).
+This example uses the **IPmt** function to calculate how much of a payment is interest when all the payments are of equal value. Given are the interest percentage rate per period (`APR / 12`), the payment period for which the interest portion is desired (`Period`), the total number of payments (`TotPmts`), the present value or principal of the loan (`PVal`), the future value of the loan (`FVal`), and a number that indicates whether the payment is due at the beginning or end of the payment period (`PayType`).
 
 
 ```vb

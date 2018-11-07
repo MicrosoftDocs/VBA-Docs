@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** value that indicates whether a sharing invitation
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Return value
+## Return value
 
  **True** if the recipient of the sharing invitation should receive write access; otherwise **False** . The default is **false** .
 

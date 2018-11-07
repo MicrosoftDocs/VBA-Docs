@@ -40,7 +40,7 @@ Deprecated in Project. Prints a report.
 | _Preview_|Optional|**Boolean**|**True** if Project previews the active view rather than printing it. The default value is **False**.|
 | _Color_|Optional|**Boolean**|**True** if Project prints the report in color. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

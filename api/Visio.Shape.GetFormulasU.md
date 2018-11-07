@@ -32,7 +32,7 @@ Returns the formulas of many cells.
 | _SRCStream()_|Required| **Integer**| A stream identifying cells to be queried.|
 | _formulaArray()_|Required| **Variant**|Out parameter. An array that receives formulas of queried cells.|
 
-### Return value
+## Return value
 
 Nothing
 

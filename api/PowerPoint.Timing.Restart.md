@@ -23,7 +23,7 @@ Represents whether the animation effect restarts after the effect has started on
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 
 
-### Return value
+## Return value
 
 MsoAnimEffectRestart
 

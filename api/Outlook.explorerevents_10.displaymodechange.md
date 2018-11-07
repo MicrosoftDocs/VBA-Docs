@@ -24,7 +24,7 @@ Occurs when the user performs an action that changes the display mode. Possible 
 
 | _DisplayMode_|Required|Indicates the display mode|
 
-### Return value
+## Return value
 
  **HRESULT**
 

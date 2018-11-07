@@ -32,7 +32,7 @@ Opens the specified Visual Reports template with the specified level of time.
 | _strVisualReportTemplateFile_|Optional|**String**|Full path and name of template file.|
 | _PjVisualReportsDataLevel_|Optional|**Long**|The time level of data, determined automatically or specified from days to years . Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. The default value is **pjLevelAutomatic**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

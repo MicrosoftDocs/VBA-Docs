@@ -33,7 +33,7 @@ Adds a new list item to a drop-down list or combo box content control and return
 | _Value_|Optional| **String**|Specifies the value of the list item. Corresponds to the  **[Value](Word.ContentControlListEntry.Value.md)** property for a **ContentControlListEntry** object. If omitted, the **Value** property is equal to the **Text** property.|
 | _Index_|Optional| **Long**|Specifies the ordinal position of the new item in the list. If an item exists at the position specified, the existing item is pushed down in the list. If omitted, the new item is added to the end of the list.|
 
-### Return value
+## Return value
 
 ContentControlListEntry
 

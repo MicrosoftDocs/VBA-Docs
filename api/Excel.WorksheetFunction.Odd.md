@@ -31,7 +31,7 @@ Returns number rounded up to the nearest odd integer.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - the value to round.|
 
-### Return value
+## Return value
 
 Double
 

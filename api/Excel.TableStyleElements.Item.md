@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **XlTableStyleElementType**|A table style element.|
 
-### Return value
+## Return value
 
 TableStyleElement
 

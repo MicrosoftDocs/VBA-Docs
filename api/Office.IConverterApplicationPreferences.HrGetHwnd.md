@@ -31,7 +31,7 @@ This feature is only available in the Open XML Format SDK.
 |:-----|:-----|:-----|:-----|
 | _phwnd_|Required|**Long**||
 
-### Return value
+## Return value
 
 [HRESULT]
 

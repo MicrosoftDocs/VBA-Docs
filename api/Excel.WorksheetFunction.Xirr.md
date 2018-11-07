@@ -33,7 +33,7 @@ Returns the internal rate of return for a schedule of cash flows that is not nec
 | _Arg2_|Required| **Variant**|Dates - a schedule of payment dates that corresponds to the cash flow payments. The first payment date indicates the beginning of the schedule of payments. All other dates must be later than this date, but they may occur in any order. Dates should be entered by using the DATE function, or as results of other formulas or functions. For example, use DATE(2008,5,23) for the 23rd day of May, 2008. Problems can occur if dates are entered as text.|
 | _Arg3_|Optional| **Variant**|Guess - a number that you guess is close to the result of XIRR.|
 
-### Return value
+## Return value
 
 Double
 

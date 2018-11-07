@@ -23,7 +23,7 @@ Shows the scenario by inserting its values on the worksheet. The affected cells 
  _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

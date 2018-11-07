@@ -23,7 +23,7 @@ _expression_. `Height`
 _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

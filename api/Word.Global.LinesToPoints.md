@@ -31,7 +31,7 @@ Converts a measurement from lines to points (1 line = 12 points). Returns the co
 |:-----|:-----|:-----|:-----|
 | _Lines_|Required| **Single**|The line value to be converted to points.|
 
-### Return value
+## Return value
 
 Single
 

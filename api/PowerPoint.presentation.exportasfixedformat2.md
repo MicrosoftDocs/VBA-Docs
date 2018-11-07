@@ -62,7 +62,7 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 | _IncludeMarkup_|Optional|BOOL||
 | _ExternalExporter_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **VOID**
 

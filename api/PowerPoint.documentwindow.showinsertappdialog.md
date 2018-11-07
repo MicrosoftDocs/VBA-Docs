@@ -25,7 +25,7 @@ ms.prod: powerpoint
 |||||
 | _Filter_|Required|INT||
 
-### Return value
+## Return value
 
  **VOID**
 

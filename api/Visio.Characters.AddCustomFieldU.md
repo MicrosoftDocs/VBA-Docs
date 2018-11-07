@@ -32,7 +32,7 @@ Replaces the text represented by a  **Characters** object with a custom formula 
 | _Formula_|Required| **String**|The formula of the new field.|
 | _Format_|Required| **Integer**|The format of the new field.|
 
-### Return value
+## Return value
 
 Nothing
 

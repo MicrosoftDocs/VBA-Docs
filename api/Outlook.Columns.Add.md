@@ -31,7 +31,7 @@ Adds the  **[Column](Outlook.Column.md)** specified by _Name_ to the **[Columns]
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the property that is being added as a column.|
 
-### Return value
+## Return value
 
 A  **Column** object that represents the new column.
 

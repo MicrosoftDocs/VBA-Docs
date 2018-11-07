@@ -31,7 +31,7 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that matches
 |:-----|:-----|:-----|:-----|
 | _IssueID_|Required| **Long**|The ID of the object to retrieve.|
 
-### Return value
+## Return value
 
  **ValidationIssue**
 

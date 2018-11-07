@@ -31,7 +31,7 @@ Returns the label of the specified undo list item.
 |:-----|:-----|:-----|:-----|
 | _ItemIndex_|Required|**Long**|Index of the item in the undo list .|
 
-### Return value
+## Return value
 
  **String**
 

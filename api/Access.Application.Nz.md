@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Value_|Required|**Variant**|A variable of data type **Variant**.|
 | _ValueIfNull_|Optional|**Variant**|Optional (unless used in a query). A  **Variant** that supplies a value to be returned if the variant argument is **Null**. This argument enables you to return a value other than zero or a zero-length string.<table><tr><th>**Note**</th></tr><tr><td>If you use the  **Nz** function in an expression in a query without using the _valueifnull_ argument, the results will be a zero-length string in the fields that contain null values.</td></tr></table>|
 
-### Return value
+## Return value
 
 Variant
 

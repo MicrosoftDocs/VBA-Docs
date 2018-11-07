@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _PlainText_|Required|**Variant**|The text string to encode.|
 | _Length_|Optional|**Variant**|The number of characters to return.|
 
-### Return value
+## Return value
 
 String
 

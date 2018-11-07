@@ -33,7 +33,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Excel.FreeformBuilder.m
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the upper-left corner of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the upper-left corner of the document.|
 
-### Return value
+## Return value
 
 FreeformBuilder
 

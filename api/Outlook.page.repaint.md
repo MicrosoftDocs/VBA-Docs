@@ -18,7 +18,7 @@ Updates the display by redrawing the page.
  _expression_ A variable that represents a  **Page** object.
 
 
-### Return value
+## Return value
 
 A Boolean that returns  **True** if the method succeeds; returns **False** otherwise.
 

@@ -31,7 +31,7 @@ Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|An  **Integer** representing a one-based index into the **[TimeZones](Outlook.TimeZones.md)** collection.|
 
-### Return value
+## Return value
 
 A  **TimeZone** object that represents the specified object in the collection.
 

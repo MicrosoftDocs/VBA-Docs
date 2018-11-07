@@ -31,7 +31,7 @@ Occurs when any  **Protected View** window is resized.
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|An object that represents the resized  **Protected View** window.|
 
-### Return value
+## Return value
 
 Nothing
 

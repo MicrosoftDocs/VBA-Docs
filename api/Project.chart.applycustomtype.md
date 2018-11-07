@@ -27,7 +27,7 @@ Applies a custom chart type to a chart.
 | _ChartType_|Required|XLCHARTTYPE||
 | _TypeName_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

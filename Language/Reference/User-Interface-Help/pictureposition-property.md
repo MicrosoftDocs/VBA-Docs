@@ -28,7 +28,7 @@ The  **PicturePosition** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmPicturePosition_|Optional. How the picture aligns with its container.|
 
- **Settings**
+## Settings
 The settings for  _fmPicturePosition_ are:
 
 

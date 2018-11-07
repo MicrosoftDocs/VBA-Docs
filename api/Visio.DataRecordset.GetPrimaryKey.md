@@ -35,7 +35,7 @@ Gets the primary key setting and the name of the primary key column or columns f
 | _PrimaryKeySettings_|Required| **VisPrimaryKeySettings**|Out parameter. The primary key setting for the data recordset. See Remarks for possible values.|
 | _PrimaryKey()_|Required| **String**|Out parameter. An array of  **String** variables.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -26,7 +26,7 @@ Returns the number of  **GraphicItem** objects in the **GraphicItems** collectio
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

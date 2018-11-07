@@ -34,7 +34,7 @@ Creates a new  **[Shape](Visio.Shape.md)** object on the page, places the new sh
 | _PlacementDir_|Required| **[VisAutoConnectDir](Visio.visautoconnectdir.md)**|The direction from  _TargetShape_ in which to place _ObjectToDrop_.|
 | _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a  **Master** , **MasterShortcut** , **Shape** , or an **IDataObject** object.|
 
-### Return value
+## Return value
 
  **Shape**
 

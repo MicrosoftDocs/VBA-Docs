@@ -23,7 +23,7 @@ Arranges all of the open windows in Project.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

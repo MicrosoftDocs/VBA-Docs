@@ -30,7 +30,7 @@ Converts a text representation of a number in a given base into a decimal number
 | _Arg1_|Required|STRING|The number that you want to convert.|
 | _Arg2_|Required|DOUBLE|The base Radix of the number you are converting.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

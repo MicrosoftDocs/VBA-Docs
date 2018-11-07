@@ -33,7 +33,7 @@ Creates a new custom view.
 | _PrintSettings_|Optional| **Variant**| **True** to include print settings in the custom view.|
 | _RowColSettings_|Optional| **Variant**| **True** to include settings for hidden rows and columns (including filter information) in the custom view.|
 
-### Return value
+## Return value
 
 A  **[CustomView](Excel.CustomView.md)** object that represents the new custom view.
 

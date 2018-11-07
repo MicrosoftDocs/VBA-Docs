@@ -26,7 +26,7 @@ Returns the  **Master** object of type **visTypeDataGraphic** that contains the 
  _expression_ An expression that returns a [GraphicItems](./Visio.GraphicItems.md) object.
 
 
-### Return value
+## Return value
 
 Master
 

@@ -36,7 +36,7 @@ Sets one or more data-column properties for one or more data columns.
 | _Properties()_|Required| **Long**|An array of data-column properties, as  **VisDataColumnProperties** . See Remarks for possible values.|
 | _Values()_|Required| **Variant**|An array of values to be assigned to the properties. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 Nothing
 

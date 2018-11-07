@@ -31,7 +31,7 @@ _expression_ A variable that represents an [AdditionalData](Access.AdditionalDat
 |:-----|:-----|:-----|:-----|
 | _var_|Required|**String**|The name of the table or query to add.|
 
-### Return value
+## Return value
 
 AdditionalData
 

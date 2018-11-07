@@ -23,7 +23,7 @@ Applies a text style to an object while preserving local formatting. Read/write.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return value
+## Return value
 
 String
 

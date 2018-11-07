@@ -32,7 +32,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the sp
 |Start|Required| **Long**|The first paragraph in the returned range.|
 |Length|Optional| **Long**|The number of paragraphs to be returned. Default is 1.|
 
-### Return value
+## Return value
 
 TextRange
 

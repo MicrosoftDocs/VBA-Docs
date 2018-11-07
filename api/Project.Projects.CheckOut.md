@@ -31,7 +31,7 @@ Checks out the specified file if it is stored in a SharePoint document library.
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required|**String**|The name of the file to check out.|
 
-### Return value
+## Return value
 
  **Boolean**
 

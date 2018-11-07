@@ -34,7 +34,7 @@ Opens the document specified by a hyperlink address.
 | _AddHistory_|Optional|**Boolean**|**True** if the target document should be added to the History folder. The default value is **True**.|
 | _NewWindow_|Optional|**Boolean**|**True** if the target document should display in a new window. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

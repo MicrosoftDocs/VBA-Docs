@@ -28,7 +28,7 @@ Gets an object that represents a color in the color scheme of a Microsoft Office
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**MsoThemeColorSchemeIndex**|The index value of the  **ThemeColor** object.|
 
-### Return value
+## Return value
 
 ThemeColor
 

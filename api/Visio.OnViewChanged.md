@@ -30,7 +30,7 @@ Occurs when the view of the current page is changed in Microsoft Visio Viewer.
 |PageYAtViewCenter|Required| **Double**|The y-coordinate, in drawing units, of the center of the page.|
 |ZoomFactor|Required| **Double**|The factor by which the zoom (the page size) is multiplied. |
 
-### Return value
+## Return value
 
 Nothing
 

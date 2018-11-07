@@ -20,7 +20,7 @@ Gets or sets the width of the image that is to be cropped. Read/write
  _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

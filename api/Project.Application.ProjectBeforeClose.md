@@ -29,7 +29,7 @@ Occurs before a project is closed.
 | _pj_|Required|**Project**|The project to be closed|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the project will not be closed.|
 
-### Return value
+## Return value
 
 nothing
 

@@ -36,7 +36,7 @@ Returns the distance from a shape to a point. Read-only.
 | _pvCurveIndex_|Optional| **Variant**|Identifies the point on the shape in conjunction with  _pvPathIndex_ and _pvt_.|
 | _pvt_|Optional| **Variant**|Identifies the point on the shape in conjunction with  _pvPathIndex_ and _pvCurveIndex_.|
 
-### Return value
+## Return value
 
 Double
 

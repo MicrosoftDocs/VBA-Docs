@@ -32,7 +32,7 @@ Counts the number of cells within a range that meet multiple criteria.
 | _Arg1_|Required| **Range**|One or more ranges in which to evaluate the associated criteria.|
 | _Arg2 - Arg30_|Required| **Variant**|One or more criteria in the form of a number, expression, cell reference, or text that define which cells will be counted. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 
-### Return value
+## Return value
 
 Double
 

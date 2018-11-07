@@ -33,7 +33,7 @@ Returns the inverse of the normal cumulative distribution for the specified mean
 | _Arg2_|Required| **Double**|Mean - The arithmetic mean of the distribution.|
 | _Arg3_|Required| **Double**|Standard_dev - The standard deviation of the distribution.|
 
-### Return value
+## Return value
 
 Double
 

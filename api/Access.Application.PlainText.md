@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _RichText_|Required|**Variant**|The rich text string that you want to remove the formatting of.|
 | _Length_|Optional|**Variant**|The number of character to return.|
 
-### Return value
+## Return value
 
 String
 

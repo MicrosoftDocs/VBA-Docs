@@ -31,7 +31,7 @@ Arranges the windows in a  **Windows** collection.
 |:-----|:-----|:-----|:-----|
 | _nArrangeFlags_|Optional| **Variant**|A flag that specifies how to arrange the windows; by default, the windows are arranged vertically.|
 
-### Return value
+## Return value
 
 Nothing
 

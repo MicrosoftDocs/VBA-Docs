@@ -23,7 +23,7 @@ Returns an  **MsoEncoding** constant that specifies the encoding of the Web publ
  _expression_ A variable that represents an  **WebOptions** object.
 
 
-### Return value
+## Return value
 
 MsoEncoding
 

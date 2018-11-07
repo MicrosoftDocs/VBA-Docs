@@ -23,7 +23,7 @@ Determines the number of entries in the  **Recent Templates** list in the Micros
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return value
+## Return value
 
  **Long**
 

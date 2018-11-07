@@ -31,7 +31,7 @@ Contains solution-specific, well-formed XML data stored with a document. Read/wr
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML data element.|
 
-### Return value
+## Return value
 
 String
 

@@ -31,7 +31,7 @@ Returns the average of the absolute deviations of data points from their mean. A
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg 30_|Required| **Variant**|1 to 30 arguments for which you want the average of the absolute deviations. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Double
 

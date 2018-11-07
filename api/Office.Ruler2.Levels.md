@@ -20,7 +20,7 @@ Gets a  **RulerLevels2** object that represents outline text formatting. Read-on
  _expression_ An expression that returns a [Ruler2](./Office.Ruler2.md) object.
 
 
-### Return value
+## Return value
 
 RulerLevels2
 

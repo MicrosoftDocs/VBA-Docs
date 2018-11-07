@@ -33,7 +33,7 @@ Resets a resource calendar.
 | _ResourceName_|Required|**String**|The name of the resource for the calendar to reset.|
 | _BaseCalendar_|Optional|**String**|The name of the base calendar used to reset the resource calendar. The default value is the name of the current base calendar for the resource.|
 
-### Return value
+## Return value
 
  **Boolean**
 

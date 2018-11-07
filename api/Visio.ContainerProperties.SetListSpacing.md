@@ -32,7 +32,7 @@ Sets the gap between adjacent member shapes in the list.
 | _SpacingUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the gap.|
 | _SpacingSize_|Required| **Double**|The size of the gap.|
 
-### Return value
+## Return value
 
  **Nothing**
 

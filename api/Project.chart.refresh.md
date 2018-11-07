@@ -16,7 +16,7 @@ Redraws a chart, to show updated information.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -38,7 +38,7 @@ Adds fields to the  **Details** pane and option menu for the Task Usage or Resou
 | _DisplayField_|Optional|**Boolean**|**True** if the field is displayed in the **Details** pane; otherwise, **False**. The DisplayField parameter has no effect on fields that are already displayed.|
 | _FontColor_|Optional|**Long**|Color of text in the  **Details** column for usage entry. Can be a hexadecimal RGB value, where red is the last byte. For example, &;HFF00FF is purple.|
 
-### Return value
+## Return value
 
  **Boolean**
 

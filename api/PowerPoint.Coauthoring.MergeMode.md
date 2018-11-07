@@ -23,7 +23,7 @@ Returns  **True** if the application is in merge mode. Read-only.
  _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Returns or sets the brightness of the specified picture or OLE object. Read/writ
  _expression_ A variable that represents a [PictureFormat](./PowerPoint.PictureFormat.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

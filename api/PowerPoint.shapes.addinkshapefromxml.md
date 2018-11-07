@@ -30,7 +30,7 @@ Creates an ink shape. Returns a [Shape](PowerPoint.Shape.md) object that represe
 | _Width_|Optional|**Single**| The width of the ink shape, measured in points. If this parameter is not specified, the width is calculated based off of the InkActionML.|
 | _Height_|Optional|**Single**|The height of the ink shape, measured in points. If this parameter is not specified, the hight is calculated based off of the InkActionML.|
 
-### Return value
+## Return value
 
 A [Shape](PowerPoint.Shape.md) object that represents the newly-added ink shape.
 

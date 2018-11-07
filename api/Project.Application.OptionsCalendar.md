@@ -40,7 +40,7 @@ Sets options for the calendar of the active project.
 | _UseFYStartYear_|Optional|**Boolean**|**True** if a fiscal year is determined by the year of the first month of that fiscal year. **False** if determined by the last month of the fiscal year.For example, if  _StartYearIn_ is pjJuly (to denote July 2012) and _UseFYStartYear_ is **True**, the fiscal year ending in June 2012 would be FY2012.|
 | _DaysPerMonth_|Optional|**Double**|The default number of work days per month.|
 
-### Return value
+## Return value
 
  **Boolean**
 

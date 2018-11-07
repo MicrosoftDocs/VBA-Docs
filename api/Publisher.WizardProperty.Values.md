@@ -23,7 +23,7 @@ Returns a  **[WizardValues](Publisher.WizardValues.md)** collection representing
  _expression_ A variable that represents a  **WizardProperty** object.
 
 
-### Return value
+## Return value
 
 WizardValues
 

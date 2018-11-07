@@ -31,7 +31,7 @@ Displays the  **Project Statistics** dialog box.
 |:-----|:-----|:-----|:-----|
 | _Project_|Optional|**String**|The name of a project.|
 
-### Return value
+## Return value
 
  **Boolean**
 

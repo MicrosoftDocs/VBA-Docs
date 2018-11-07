@@ -28,7 +28,7 @@ Replaces the specified shape?s current picture with a new picture.
 | _FileName_|Required|STRING|Specifies the full path of the replacement picture.|
 | _ChangePictureFlags_|Optional|INT32|Reserved for future implementation. Has no effect.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

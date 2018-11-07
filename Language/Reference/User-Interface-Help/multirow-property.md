@@ -28,7 +28,7 @@ The  **MultiRow** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control has more than one row of tabs.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

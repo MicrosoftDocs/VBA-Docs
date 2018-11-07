@@ -32,7 +32,7 @@ Creates a new  **[View](Outlook.View.md)** object based on the existing **[Table
 | _Name_|Required| **String**|The name of the new view.|
 | _SaveOption_|Optional| **[OlViewSaveOption](Outlook.OlViewSaveOption.md)**|The save option for the new view.|
 
-### Return value
+## Return value
 
 A  **View** object that represents the new view.
 

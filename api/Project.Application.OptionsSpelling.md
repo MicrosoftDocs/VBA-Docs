@@ -56,7 +56,7 @@ Sets options for the spelling checker.
 | _AlwaysSuggest_|Optional|**Boolean**|**True** if Project always suggests alternate spellings to misspelled words.|
 | _UseCustomDictionary_|Optional|**Boolean**|**True** if the custom dictionary is used.|
 
-### Return value
+## Return value
 
  **Boolean**
 

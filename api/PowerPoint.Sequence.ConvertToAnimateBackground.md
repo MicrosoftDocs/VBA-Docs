@@ -32,7 +32,7 @@ Determines whether the background will be animated separately from, or in additi
 | _Effect_|Required|**Effect**|The animation effect to be applied to the background.|
 | _AnimateBackground_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the text will be animated separately from the background.|
 
-### Return value
+## Return value
 
 Effect
 

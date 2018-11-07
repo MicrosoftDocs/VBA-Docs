@@ -29,7 +29,7 @@ Returns 0.5 less than the standard normal cumulative distribution.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value for which you want the distribution.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

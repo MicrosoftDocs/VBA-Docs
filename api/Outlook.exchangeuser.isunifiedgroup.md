@@ -21,7 +21,7 @@ Determines if the object is a unified group.
  _expression_ A variable that represents a [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Return value
+## Return value
 
 Returns the  **Outlook.Folder** object associated with the group using the [GetUnifiedGroup](Outlook.exchangeuser.getunifiedgroup.md) and [GetUnifiedGroupFromStore](Outlook.exchangeuser.getunifiedgroupfromstore.md) methods.
 

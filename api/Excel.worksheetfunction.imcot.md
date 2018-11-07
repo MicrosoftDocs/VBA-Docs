@@ -29,7 +29,7 @@ Returns the cotangent of a complex number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the cotangent.|
 
-### Return value
+## Return value
 
  **STRING**
 

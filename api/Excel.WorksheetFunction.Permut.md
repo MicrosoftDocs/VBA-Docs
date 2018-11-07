@@ -32,7 +32,7 @@ Returns the number of permutations for a given number of objects that can be sel
 | _Arg1_|Required| **Double**|Number - an integer that describes the number of objects.|
 | _Arg2_|Required| **Double**|Number_chosen - an integer that describes the number of objects in each permutation.|
 
-### Return value
+## Return value
 
 Double
 

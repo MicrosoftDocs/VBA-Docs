@@ -32,7 +32,7 @@ Opens a dynamic data exchange (DDE) channel to an application.
 | _App_|Required|**String**| The name of the application to which you want to send commands.|
 | _Topic_|Required|**String**|A document in the application to which you want to send commands.|
 
-### Return value
+## Return value
 
  **Boolean**
 

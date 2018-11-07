@@ -23,7 +23,7 @@ Gets a count of the numbers of controls on a command bar. Read-only.
  _expression_ An expression that returns a [CommandBarControls](./Office.CommandBarControls.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

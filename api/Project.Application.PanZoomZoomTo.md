@@ -29,7 +29,7 @@ Zooms the time range in or out for the Gantt chart in the active view.
 | _Start_|Required|**Variant**|Specifies the start date for the left side of the Gantt chart.|
 | _Finish_|Required|**Variant**|Specifies the finish date for the right side of the Gantt chart.|
 
-### Return value
+## Return value
 
 Nothing
 

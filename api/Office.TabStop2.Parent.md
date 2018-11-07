@@ -20,7 +20,7 @@ Gets an Object that represents the  **Parent** object for the **TabStop2** objec
  _expression_ An expression that returns a [TabStop2](./Office.TabStop2.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

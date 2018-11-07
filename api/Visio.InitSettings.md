@@ -20,7 +20,7 @@ Loads the Web page settings that were saved in the registry in an earlier instan
  _expression_An expression that returns a  ** [VisWebPageSettings](./overview/Visio.md)** object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

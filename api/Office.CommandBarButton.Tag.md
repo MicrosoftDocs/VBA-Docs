@@ -23,7 +23,7 @@ Gets or sets information about the  **CommandBarButton** control, such as data t
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Return value
+## Return value
 
 String
 

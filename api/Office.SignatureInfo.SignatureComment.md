@@ -23,7 +23,7 @@ Gets or sets a value containing comments included in a signature packet. Read/wr
  _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
 
 
-### Return value
+## Return value
 
 String
 

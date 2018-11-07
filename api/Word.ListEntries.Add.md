@@ -32,7 +32,7 @@ Returns a  **ListEntry** object that represents an item added to a drop-down for
 | _Name_|Required| **String**|The name of the drop-down form field item.|
 | _Index_|Optional| **Variant**|A number that represents the position of the item in the list.|
 
-### Return value
+## Return value
 
 ListEntry
 

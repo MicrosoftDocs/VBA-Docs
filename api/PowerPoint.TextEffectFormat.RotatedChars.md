@@ -23,7 +23,7 @@ Determines whether characters in the specified WordArt are rotated 90 degrees re
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

@@ -26,7 +26,7 @@ Applies a standard or custom chart type to a chart.
 | _bstrFileName_|Required|**String**|The file name for a chart template.|
 | _bstrFileName_|Required|STRING||
 
-### Return value
+## Return value
 
  **Nothing**
 

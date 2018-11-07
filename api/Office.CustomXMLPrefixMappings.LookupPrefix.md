@@ -31,7 +31,7 @@ Allows you to get a prefix corresponding to the specified namespace.
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Required|**String**|Contains the namespace URI.|
 
-### Return value
+## Return value
 
 String
 

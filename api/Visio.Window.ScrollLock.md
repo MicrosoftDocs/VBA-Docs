@@ -23,7 +23,7 @@ Determines whether scrolling is disabled in a Microsoft Visio window. Read/write
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

@@ -31,7 +31,7 @@ Copies a shape to the Clipboard.
 |:-----|:-----|:-----|:-----|
 | _Flags_|Optional| **Variant**|Determines how shapes are translated during the copy operation.|
 
-### Return value
+## Return value
 
 Nothing
 

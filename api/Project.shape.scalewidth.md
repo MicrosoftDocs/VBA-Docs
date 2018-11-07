@@ -30,7 +30,7 @@ Scales the width of the shape by a specified factor.
 | _fScale_|Optional|MSOSCALEFROM||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Nothing**
 

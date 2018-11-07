@@ -31,7 +31,7 @@ Expands or collapses the specified resource row in the Team Planner view, when t
 |:-----|:-----|:-----|:-----|
 | _ResourceUniqueID_|Optional|**Long**|Unique identification number of the resource.|
 
-### Return value
+## Return value
 
  **Boolean**
 

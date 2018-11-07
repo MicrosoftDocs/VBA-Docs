@@ -31,7 +31,7 @@ Returns the number of periods required by an investment to reach a specified val
 | _Arg2_|Required|DOUBLE|Present value of the investment.|
 | _Arg3_|Required|DOUBLE|Desired future value of the investment.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

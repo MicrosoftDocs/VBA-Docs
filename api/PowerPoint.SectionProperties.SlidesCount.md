@@ -31,7 +31,7 @@ Returns the number of slides in the specified section.
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section.|
 
-### Return value
+## Return value
 
 Long
 

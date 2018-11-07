@@ -21,7 +21,7 @@ Returns the active document to the last saved reading position, and returns an i
  _expression_ A variable that represents a [Document](./Word.Document.md) object.
 
 
-### Return value
+## Return value
 
  **INT32**
 

@@ -30,7 +30,7 @@ _expression_ A variable that represents an [AccessObject](Access.AccessObject.md
 | _ObjectType_|Required|**AcObjectType**|An **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of database object to check for dependency.|
 | _ObjectName_|Required|**String**|The name of the database object to check for dependency.|
 
-### Return value
+## Return value
 
 Boolean
 

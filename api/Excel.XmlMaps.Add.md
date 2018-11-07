@@ -32,7 +32,7 @@ Adds an XML map to the specified workbook.
 | _Schema_|Required| **String**|The schema to be added as an XML map. The string can be a path to a schema file, or the schema itself. The path can be specified in the Universal Naming Convention (UNC) or Uniform Resource Locator (URL) format.|
 | _RootElementName_|Optional| **Variant**|The name of the root element. This argument can be ignored if the schema contains only one root element.|
 
-### Return value
+## Return value
 
 An  **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
 

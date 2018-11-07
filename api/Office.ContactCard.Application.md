@@ -20,7 +20,7 @@ Returns an  **Application** object that represents the parent Office application
  _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
 
 
-### Return value
+## Return value
 
 Application
 

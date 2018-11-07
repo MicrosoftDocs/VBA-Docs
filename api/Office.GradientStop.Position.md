@@ -20,7 +20,7 @@ Gets or sets a value representing the position of a stop within the gradient exp
  _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

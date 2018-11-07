@@ -50,7 +50,7 @@ Runs the specified find operation. Returns  **True** if the find operation is su
 | _IgnoreSpace_|Optional| **Variant**| **True** to ignore all white space between words. Corresponds to the **Ignore white-space characters** check box in the **Find and Replace** dialog box.|
 | _IgnorePunct_|Optional| **Variant**| **True** to ignore all punctuation characters between words. Corresponds to the **Ignore punctuation** check box in the **Find and Replace** dialog box.|
 
-### Return value
+## Return value
 
 A  **Boolean** value that indicates whether the find operation was successful.
 

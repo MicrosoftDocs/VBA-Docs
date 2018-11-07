@@ -23,7 +23,7 @@ Gets or sets whether the  **Shape Search** pane is visible in the Microsoft Visi
  _expression_ An expression that returns an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

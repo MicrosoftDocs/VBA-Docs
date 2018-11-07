@@ -23,7 +23,7 @@ Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the 
  _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
-### Return value
+## Return value
 
  **True** if the object was resolved; otherwise, **False** .
 

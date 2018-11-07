@@ -31,7 +31,7 @@ Displays the built-in dialog box, waits for the user to input data and returns a
 |:-----|:-----|:-----|:-----|
 | _Arg1-Arg30_|Optional| **Variant**|For built-in dialog boxes only, the initial arguments for the command.|
 
-### Return value
+## Return value
 
 A Boolean value that, for built-in dialog boxes, returns  **True** if the user clicks OK, or it returns **False** if the user clicks Cancel.
 

@@ -23,7 +23,7 @@ Returns or sets the on-screen and printed orientation of slides in the specified
  _expression_ A variable that represents a [PageSetup](./PowerPoint.PageSetup.md) object.
 
 
-### Return value
+## Return value
 
 MsoOrientation
 

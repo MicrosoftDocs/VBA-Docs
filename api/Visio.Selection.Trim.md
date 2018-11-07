@@ -23,7 +23,7 @@ Trims selected shapes into smaller shapes.
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -28,7 +28,7 @@ Gets the initials of the specified reviewer in the drawing that is open in Micro
 |:-----|:-----|:-----|:-----|
 |ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
-### Return value
+## Return value
 
 String
 

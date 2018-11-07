@@ -23,7 +23,7 @@ Returns an  **[RTD](Excel.RTD.md)** object.
  _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 RTD
 

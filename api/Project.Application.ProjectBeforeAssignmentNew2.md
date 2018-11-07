@@ -29,7 +29,7 @@ Occurs before one or more assignments are created. Uses the  **EventInfo** objec
 | _pj_|Required|**Project**|The project in which an assignment or assignments are being created.|
 | _Info_|Required|**EventInfo**|EventInfo.Cancel is  **False** when the event occurs. If the event procedure sets this argument to **True**, the new assignment(s) are not created.|
 
-### Return value
+## Return value
 
 nothing
 

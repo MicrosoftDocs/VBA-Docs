@@ -31,7 +31,7 @@ Creates an equation column and adds it to a matrix and returns an  **OMathMatCol
 |:-----|:-----|:-----|:-----|
 | _BeforeCol_|Optional| **Variant**|An existing column in the matrix before which to place the new column.|
 
-### Return value
+## Return value
 
 OMathMatCol
 

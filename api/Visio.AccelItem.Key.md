@@ -23,7 +23,7 @@ Gets or sets the ASCII key code value for an accelerator. Read/write.
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

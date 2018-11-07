@@ -26,7 +26,7 @@ Gets or sets the data recordset that is displayed on the active tab of the  **Ex
  _expression_ An expression that returns a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 DataRecordset
 

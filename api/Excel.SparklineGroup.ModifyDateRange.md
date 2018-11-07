@@ -31,7 +31,7 @@ Sets the date range for the sparkline group.
 |:-----|:-----|:-----|:-----|
 | _DateRange_|Required| **String**|The date range for the sparkline group.|
 
-### Return value
+## Return value
 
 Nothing
 

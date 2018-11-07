@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLValidationErro
  _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

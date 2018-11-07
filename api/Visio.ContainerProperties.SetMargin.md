@@ -32,7 +32,7 @@ Sets the gap between the container and member shapes to the specified size, in t
 | _MarginUnits_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units in which to measure the margin.|
 | _MarginSize_|Required| **Double**|The size of the margin.|
 
-### Return value
+## Return value
 
  **Nothing**
 

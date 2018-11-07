@@ -23,7 +23,7 @@ Returns the paper size setting found on the  **Publication and Paper Settings** 
  _expression_ A variable that represents a  **Printer** object.
 
 
-### Return value
+## Return value
 
 String
 

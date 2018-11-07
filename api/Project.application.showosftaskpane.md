@@ -30,7 +30,7 @@ Shows an empty Office Add-ins task pane.
 
 |
 
-### Return value
+## Return value
 
  **Boolean**
 

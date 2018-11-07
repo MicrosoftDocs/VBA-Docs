@@ -29,7 +29,7 @@ Copies a selected object to the Clipboard as a picture.
 | _Format_|Optional|INT||
 | _Size_|Optional|INT||
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -23,7 +23,7 @@ Gets or sets the Help context Id number for the Help topic attached to the  **Co
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

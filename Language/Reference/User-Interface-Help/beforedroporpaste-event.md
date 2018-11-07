@@ -38,7 +38,7 @@ The  **BeforeDropOrPaste** event syntax has these parts:
 | _Effect_|Required. Effect of the drag-and-drop operation on the target control.|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 
- **Settings**
+## Settings
 The settings for  _Action_ are:
 
 

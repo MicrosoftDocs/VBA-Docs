@@ -41,7 +41,7 @@ Sets up the Calendar for printing.
 | _GroupAdditionalTasks_|Optional|**Boolean**|**True** if additional tasks are grouped by day.|
 | _PrintNotes_|Optional|**Boolean**|**True** if the notes associated with each task are printed. Notes are printed at the end, after any additional tasks|
 
-### Return value
+## Return value
 
  **Boolean**
 

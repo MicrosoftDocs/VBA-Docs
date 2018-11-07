@@ -29,7 +29,7 @@ Creates a dependency on a deliverable and links the dependency to a task in the 
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable on which to create the dependency.|
 | _TaskGuid_|Required|**String**|The GUID of the task to link the dependency.|
 
-### Return value
+## Return value
 
  **Boolean**
 

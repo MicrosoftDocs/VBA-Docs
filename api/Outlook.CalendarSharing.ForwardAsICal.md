@@ -31,7 +31,7 @@ Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** o
 |:-----|:-----|:-----|:-----|
 | _MailFormat_|Required| **[OlCalendarMailFormat](Outlook.OlCalendarMailFormat.md)**|Determines the format of the calendar information in the body of the  **MailItem** created by this method.|
 
-### Return value
+## Return value
 
 A  **MailItem** object that represents the new mail item to which the calendar information is attached.
 

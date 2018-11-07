@@ -32,7 +32,7 @@ Opens the workbook that is open in the specified  **Protected View** window for 
 | _WriteResPassword_|Optional| **Variant**|The password required to write to a write-reserved workbook. If this argument is omitted and the workbook requires a password, the user will be prompted for the password.|
 | _UpdateLinks_|Optional| **Variant**|Specifies the way external references (links) in the file, such as the reference to a range in the Budget.xls workbook in the following formula =SUM([Budget.xls]Annual!C10:C25), are updated. If this argument is omitted, the user is prompted to specify how links will be updated. For more information about the values used by this parameter, see the Remarks section. If Excel is opening a file in the WKS, WK1, or WK3 format and the  _UpdateLinks_ argument is 0, no charts are created; otherwise Excel generates charts from the graphs attached to the file.|
 
-### Return value
+## Return value
 
 [Workbook](Excel.Workbook.md)
 

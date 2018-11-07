@@ -23,7 +23,7 @@ Determines whether the specified shape retains its original proportions when you
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

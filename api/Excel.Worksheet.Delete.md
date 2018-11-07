@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [Worksheet](Excel.Worksheet.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

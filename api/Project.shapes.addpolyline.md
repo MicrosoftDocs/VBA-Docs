@@ -26,7 +26,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 | _SafeArrayOfPoints_|Required|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

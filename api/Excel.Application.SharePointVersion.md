@@ -31,7 +31,7 @@ Returns the version number of SharePoint Foundation instances running at site fo
 |:-----|:-----|:-----|:-----|
 | _bstrUrl_|Required| **String**|The URL of site to check.|
 
-### Return value
+## Return value
 
 Long
 

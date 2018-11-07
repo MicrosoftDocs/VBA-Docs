@@ -1,5 +1,5 @@
 ---
-title: AppActivate Statement
+title: AppActivate statement
 keywords: vblr6.chm1008855
 f1_keywords:
 - vblr6.chm1008855
@@ -9,16 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
-# AppActivate Statement
+# AppActivate statement
 
 Activates an application window.
 
 ## Syntax
 
-**AppActivate** **_title_** [, **_wait_** ]
+**AppActivate** **_title_**, [ **_wait_** ]
 
-The  **AppActivate** statement syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
-
+The **AppActivate** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -27,12 +26,13 @@ The  **AppActivate** statement syntax has these[named arguments](../../Glossary/
 
 ## Remarks
 
-The  **AppActivate** statement changes the focus to the named application or window but does not affect whether it is maximized or minimized. Focus moves from the activated application window when the user takes some action to change the focus or close the window. Use the **Shell** function to start an application and set the window style.
-In determining which application to activate,  **_title_** is compared to the title string of each running application. If there is no exact match, any application whose title string begins with **_title_** is activated. If there is more than one instance of the application named by **_title_**, one instance is arbitrarily activated.
+The **AppActivate** statement changes the focus to the named application or window but does not affect whether it is maximized or minimized. Focus moves from the activated application window when the user takes some action to change the focus or close the window. Use the **Shell** function to start an application and set the window style.
+
+In determining which application to activate, **_title_** is compared to the title string of each running application. If there is no exact match, any application whose title string begins with **_title_** is activated. If there is more than one instance of the application named by **_title_**, one instance is arbitrarily activated.
 
 ## Example
 
-This example illustrates various uses of the  **AppActivate** statement to activate an application window. The **Shell** statements assume the applications are in the paths specified. On the Macintosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes.
+This example illustrates various uses of the **AppActivate** statement to activate an application window. The **Shell** statements assume the applications are in the paths specified. On the Macintosh, the default drive name is "HD" and portions of the pathname are separated by colons instead of backslashes.
 
 
 ```vb
@@ -44,8 +44,6 @@ AppActivate "Microsoft Word" ' Activate Microsoft
 MyAppID = Shell("C:\WORD\WINWORD.EXE", 1) ' Run Microsoft Word. 
 AppActivate MyAppID ' Activate Microsoft 
  ' Word. 
- 
- 
  
 ' You can also use the return value of the Shell function. 
 ReturnValue = Shell("c:\EXCEL\EXCEL.EXE",1) ' Run Microsoft Excel. 

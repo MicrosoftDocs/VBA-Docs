@@ -23,7 +23,7 @@ Gets or sets a semicolon-delimited list of e-mail addresses that receive a blind
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
-### Return value
+## Return value
 
 String
 

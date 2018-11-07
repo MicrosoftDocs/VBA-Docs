@@ -32,7 +32,7 @@ Sets the location and the source data for the sparkline group.
 | _Location_|Required| **Range**|The  **[Range](Excel.Range(object).md)** object that represents the location of the sparkline group.|
 | _SourceData_|Required| **String**|The range that represents the source data for the sparkline group.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -20,7 +20,7 @@ Returns the number of objects in the specified collection. Read-only.
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

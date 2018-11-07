@@ -32,7 +32,7 @@ Returns a date in the specified format.
 | _Date_|Required|**Variant**|The date to format.|
 | _Format_|Optional|**Long**|The date format. Can be one of the  **[PjDateFormat](Project.PjDateFormat.md)** constants. The default value is **pjDateDefault**.|
 
-### Return value
+## Return value
 
  **Variant**
 

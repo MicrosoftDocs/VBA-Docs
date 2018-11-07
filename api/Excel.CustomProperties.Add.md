@@ -32,7 +32,7 @@ Adds custom property information.
 | _Name_|Required| **String**|The name of the custom property.|
 | _Value_|Required| **Variant**|The value of the custom property.|
 
-### Return value
+## Return value
 
 A  **[CustomProperty](Excel.CustomProperty.md)** object that represents the custom property information.
 

@@ -23,7 +23,7 @@ Returns or sets a  **Double** value that represents the width, in points, of the
  _expression_ A variable that represents a [ChartTitle](./PowerPoint.ChartTitle.md) object.
 
 
-### Return value
+## Return value
 
 Double
 

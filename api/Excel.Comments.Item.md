@@ -31,7 +31,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number for the object.|
 
-### Return value
+## Return value
 
 A  **[Comment](Excel.Comment.md)** object contained by the collection.
 

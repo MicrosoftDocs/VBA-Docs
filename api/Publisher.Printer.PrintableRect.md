@@ -23,7 +23,7 @@ Returns a  **[PrintableRect](Publisher.PrintableRect.md)** object that represent
  _expression_ A variable that represents a  **Printer** object.
 
 
-### Return value
+## Return value
 
 PrintableRect
 

@@ -31,7 +31,7 @@ Returns the beginning index of a type of run?a sequence of characters that share
 |:-----|:-----|:-----|:-----|
 | _RunType_|Required| **Integer**|The type of run to get.|
 
-### Return value
+## Return value
 
 Long
 

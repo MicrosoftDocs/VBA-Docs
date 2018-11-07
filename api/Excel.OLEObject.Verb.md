@@ -31,7 +31,7 @@ Sends a verb to the server of the specified OLE object.
 |:-----|:-----|:-----|:-----|
 | _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
-### Return value
+## Return value
 
 Variant
 

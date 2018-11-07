@@ -31,7 +31,7 @@ Rotates or flips the list direction for a list of shapes.
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[VisLayoutDirection](Visio.VisLayoutDirection.md)**|The layout action to take.|
 
-### Return value
+## Return value
 
  **Nothing**
 

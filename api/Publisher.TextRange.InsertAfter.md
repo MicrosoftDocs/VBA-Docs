@@ -31,7 +31,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents text a
 |:-----|:-----|:-----|:-----|
 |NewText|Required| **String**|The text to be inserted.|
 
-### Return value
+## Return value
 
 TextRange
 

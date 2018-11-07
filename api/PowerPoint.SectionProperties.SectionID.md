@@ -31,7 +31,7 @@ Returns a string that represents the unique identifier of the specified section.
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section.|
 
-### Return value
+## Return value
 
 String
 

@@ -23,7 +23,7 @@ Returns a  **PbHlinkTargetType** constant that represents the type of hyperlink.
  _expression_ A variable that represents a  **Hyperlink** object.
 
 
-### Return value
+## Return value
 
 PbHlinkTargetType
 

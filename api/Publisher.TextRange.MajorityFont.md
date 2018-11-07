@@ -23,7 +23,7 @@ Returns a  **[Font](Publisher.Font.md)** object that represents the font name mo
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 Font
 

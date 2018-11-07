@@ -32,7 +32,7 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 | _Start_|Optional| **Variant**|The first character to be returned. If this argument is either set to 1 or omitted, the  **Characters** method returns a range of characters starting with the first character.|
 | _Length_|Optional| **Variant**|The number of characters to be returned. If this argument is omitted, the  **Characters** method returns the remainder of the string (everything after the character that was set as the _Start_ argument).|
 
-### Return value
+## Return value
 
 Characters
 

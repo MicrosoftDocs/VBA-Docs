@@ -31,7 +31,7 @@ Replans the assignment by decreasing work or increasing duration.
 |:-----|:-----|:-----|:-----|
 | _action_|Required|**PjAssignmentReplanAction**|Can be one of the following constants in  **[PjAssignmentReplanAction](Project.PjAssignmentReplanAction.md)**: **pjConstrainToMaxUnitsByDecreasingWork** or **pjConstrainToMaxUnitsByIncreasingDuration**.|
 
-### Return value
+## Return value
 
 Nothing
 

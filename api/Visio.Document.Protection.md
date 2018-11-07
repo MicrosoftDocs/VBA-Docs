@@ -31,7 +31,7 @@ Determines how a document is protected from user customization. Read/write.
 |:-----|:-----|:-----|:-----|
 | _bstrPassword_|Optional| **Variant**|Not used.|
 
-### Return value
+## Return value
 
 VisProtection
 

@@ -31,7 +31,7 @@ This feature is only available in the Open XML Format SDK.
 |:-----|:-----|:-----|:-----|
 | _pbstrApplication_|Required|**String**||
 
-### Return value
+## Return value
 
 [HRESULT]
 

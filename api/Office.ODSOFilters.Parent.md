@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **ODSOFilters** object. Read-only.
  _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

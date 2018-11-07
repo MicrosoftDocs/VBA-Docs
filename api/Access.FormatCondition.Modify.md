@@ -34,7 +34,7 @@ _expression_ A variable that represents a [FormatCondition](Access.FormatConditi
 | _Expression1_|Optional|**Variant**|A value or expression associated with the first part of the conditional format. Can be a constant value or a string value.|
 | _Expression2_|Optional|**Variant**|A value or expression associated with the second part of the conditional format when the operator argument is  **acBetween** or **acNotBetween** (otherwise, this argument is ignored). Can be a constant value or a string value.|
 
-### Return value
+## Return value
 
 Nothing
 

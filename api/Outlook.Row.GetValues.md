@@ -23,7 +23,7 @@ Obtains a one-dimensional array containing the values for all columns at the  **
  _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
-### Return value
+## Return value
 
 A  **Variant** that represents an array of values for all the columns at that **Row** in the **Table** .
 

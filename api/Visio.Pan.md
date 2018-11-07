@@ -29,7 +29,7 @@ Moves the page by the specified coordinate values, in pixels, in Microsoft Visio
 |DeltaX|Required| **Long**|The amount, in pixels, to move horizontally.|
 |DeltaY|Required| **Long**|The amount, in pixels, to move vertically.|
 
-### Return value
+## Return value
 
 Nothing
 

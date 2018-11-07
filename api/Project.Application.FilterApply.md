@@ -34,7 +34,7 @@ Sets the current filter.
 | _Value1_|Optional|**String**|The first value to use when applying an interactive filter.|
 | _Value2_|Optional|**String**|The second value to use when applying an interactive filter.|
 
-### Return value
+## Return value
 
  **Boolean**
 

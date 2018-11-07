@@ -29,7 +29,7 @@ Returns the tangent of a complex number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the tangent.|
 
-### Return value
+## Return value
 
  **STRING**
 

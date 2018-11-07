@@ -28,7 +28,7 @@ Verifies whether the Project Web App URL belongs to a trusted site in the user's
 |:-----|:-----|:-----|:-----|
 | _URL_|Required|**String**|The URL of Project Web App.|
 
-### Return value
+## Return value
 
  **Boolean**
 

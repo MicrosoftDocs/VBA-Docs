@@ -32,7 +32,7 @@ Returns the result of an F-test. An F-test returns the two-tailed probability th
 | _Arg1_|Required| **Variant**|Array1 - the first array or range of data.|
 | _Arg2_|Required| **Variant**|Array2 - the second array or range of data.|
 
-### Return value
+## Return value
 
 Double
 

@@ -20,7 +20,7 @@ Specifies the security mode that Microsoft Publisher uses when programmatically 
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return value
+## Return value
 
 MsoAutomationSecurity
 

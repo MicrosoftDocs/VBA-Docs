@@ -31,7 +31,7 @@ Selects the first cell in the row containing the active cell.
 |:-----|:-----|:-----|:-----|
 | _Extend_|Optional|**Boolean**|**True** if the current selection is extended to the first cell. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

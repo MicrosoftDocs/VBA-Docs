@@ -33,7 +33,7 @@ Creates a label in a report, and returns a  **Shape** object that represents the
 | _Width_|Required|FLOAT||
 | _Height_|Required|FLOAT||
 
-### Return value
+## Return value
 
  **Shape**
 

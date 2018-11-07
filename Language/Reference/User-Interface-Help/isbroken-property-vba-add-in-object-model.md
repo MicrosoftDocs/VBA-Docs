@@ -1,5 +1,5 @@
 ---
-title: IsBroken Property (VBA Add-In Object Model)
+title: IsBroken property (VBA Add-In Object Model)
 keywords: vbob6.chm1071220
 f1_keywords:
 - vbob6.chm1071220
@@ -9,17 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# IsBroken Property (VBA Add-In Object Model)
-
-
+# IsBroken property (VBA Add-In Object Model)
 
 Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **Reference** object points to a valid reference in the [registry](../../Glossary/vbe-glossary.md#registry). Read-only.
- **Return Values**
-The  **IsBroken** property returns these values:
 
+## Return values
+
+The **IsBroken** property returns these values:
 
 |**Value**|**Description**|
 |:-----|:-----|
-|**True**|The  **Reference** object no longer points to a valid reference in the registry.|
-|**False**|The  **Reference** object points to a valid reference in the registry.|
+|**True**|The **Reference** object no longer points to a valid reference in the registry.|
+|**False**|The **Reference** object points to a valid reference in the registry.|
 

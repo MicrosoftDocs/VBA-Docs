@@ -1,5 +1,5 @@
 ---
-title: TimeSerial Function
+title: TimeSerial function
 keywords: vblr6.chm1009044
 f1_keywords:
 - vblr6.chm1009044
@@ -9,29 +9,25 @@ ms.date: 06/08/2017
 ---
 
 
-# TimeSerial Function
+# TimeSerial function
 
-
-
-Returns a  **Variant** (**Date**) containing the time for a specific hour, minute, and second.
+Returns a **Variant** (**Date**) containing the time for a specific hour, minute, and second.
 
 ## Syntax
 
-**TimeSerial( _hour,_ _minute,_ _second_ )**
-The  **TimeSerial** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**TimeSerial( _hour_, _minute_, _second_ )**
 
+The **TimeSerial** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_hour_**|Required;  **Variant** (**Integer**). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
-|**_minute_**|Required;  **Variant** (**Integer**). Any numeric expression.|
-|**_second_**|Required;  **Variant** (**Integer**). Any numeric expression.|
+|**_hour_**|Required; **Variant** (**Integer**). Number between 0 (12:00 A.M.) and 23 (11:00 P.M.), inclusive, or a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|
+|**_minute_**|Required; **Variant** (**Integer**). Any numeric expression.|
+|**_second_**|Required; **Variant** (**Integer**). Any numeric expression.|
 
 ## Remarks
 
-To specify a time, such as 11:59:59, the range of numbers for each  **TimeSerial** argument should be in the normal range for the unit; that is, 0-23 for hours and 0-59 for minutes and seconds. However, you can also specify relative times for each[argument](../../Glossary/vbe-glossary.md#argument) using any numeric expression that represents some number of hours, minutes, or seconds before or after a certain time. The following example uses[expressions](../../Glossary/vbe-glossary.md#expression) instead of absolute time numbers. The **TimeSerial** function returns a time for 15 minutes before ( `-15`) six hours before noon ( `12 - 6`), or 5:45:00 A.M.
-
-
+To specify a time, such as 11:59:59, the range of numbers for each **TimeSerial** argument should be in the normal range for the unit; that is, 0-23 for hours and 0-59 for minutes and seconds. However, you can also specify relative times for each [argument](../../Glossary/vbe-glossary.md#argument) using any numeric expression that represents some number of hours, minutes, or seconds before or after a certain time. The following example uses [expressions](../../Glossary/vbe-glossary.md#expression) instead of absolute time numbers. The **TimeSerial** function returns a time for 15 minutes before (`-15`) six hours before noon (`12 - 6`), or 5:45:00 A.M.
 
 ```vb
 TimeSerial(12 - 6, -15, 0)
@@ -41,8 +37,7 @@ When any argument exceeds the normal range for that argument, it increments to t
 
 ## Example
 
-This example uses the  **TimeSerial** function to return a time for the specified hour, minute, and second.
-
+This example uses the **TimeSerial** function to return a time for the specified hour, minute, and second.
 
 ```vb
 Dim MyTime

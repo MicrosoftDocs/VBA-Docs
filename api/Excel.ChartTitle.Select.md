@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

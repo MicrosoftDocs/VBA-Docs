@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

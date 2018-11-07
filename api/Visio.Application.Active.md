@@ -23,7 +23,7 @@ Indicates whether the instance of Microsoft Visio represented by the  **Applicat
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

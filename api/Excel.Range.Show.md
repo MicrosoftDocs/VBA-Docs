@@ -23,7 +23,7 @@ Scrolls through the contents of the active window to move the range into view. T
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

@@ -19,7 +19,7 @@ Clears the formatting of the chart colors and sets color formatting to automatic
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

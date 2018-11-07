@@ -23,7 +23,7 @@ Returns a  **SoundEffect** object that represents the sound to be played during 
  _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 
 
-### Return value
+## Return value
 
 SoundEffect
 

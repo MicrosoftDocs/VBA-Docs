@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 |:-----|:-----|:-----|:-----|
 | _Expr_|Required|**String**|The text string for which the text width will be determined.|
 
-### Return value
+## Return value
 
 Single
 

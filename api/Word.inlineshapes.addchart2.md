@@ -34,7 +34,7 @@ Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) obje
 | _NewLayout_|Optional|VARIANT|If  _NewLayout_ is true, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 | _Type_|Optional|XLCHARTTYPE||
 
-### Return value
+## Return value
 
  **INLINESHAPE**
 

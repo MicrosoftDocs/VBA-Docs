@@ -23,7 +23,7 @@ Determines whether an open document that has unsaved changes is copied when auto
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

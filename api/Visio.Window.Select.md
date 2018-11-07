@@ -32,7 +32,7 @@ Selects or clears an object.
 | _SheetObject_|Required| **[IVSHAPE]**|An expression that returns a  **Shape** object to select or clear.|
 | _SelectAction_|Required| **Integer**|The type of selection action to take.|
 
-### Return value
+## Return value
 
 Nothing
 

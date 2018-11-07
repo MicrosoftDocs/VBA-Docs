@@ -23,7 +23,7 @@ Resets the active table to the default table definition.
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

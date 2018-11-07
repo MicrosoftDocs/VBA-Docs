@@ -31,7 +31,7 @@ Gets or sets the margin of a document's footer. Read/write.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Optional| **Variant**|The units to use when retrieving or setting the cell's value. Defaults to internal drawing units (inches).|
 
-### Return value
+## Return value
 
 Double
 

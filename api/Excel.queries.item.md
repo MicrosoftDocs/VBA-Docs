@@ -28,7 +28,7 @@ Returns a single object from a collection.
 |||||
 | _NameOrIndex_|Required|VARIANT|The name or index number of the item.|
 
-### Return value
+## Return value
 
 [WorkbookQuery](Excel.workbookquery.md)
 

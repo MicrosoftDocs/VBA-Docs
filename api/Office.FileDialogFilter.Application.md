@@ -20,7 +20,7 @@ Gets an Application object that represents the container application for the ** 
  _expression_ A variable that represents a [FileDialogFilter](./Office.FileDialogFilter.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

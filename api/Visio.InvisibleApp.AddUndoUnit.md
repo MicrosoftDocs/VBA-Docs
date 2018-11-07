@@ -31,7 +31,7 @@ Adds an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface 
 |:-----|:-----|:-----|:-----|
 | _pUndoUnit_|Required| **[UNKNOWN]**|A reference to an object that supports the  **IOleUndoUnit** or **IVBUndoUnit** interface.|
 
-### Return value
+## Return value
 
 clsVBUndoUnits
 

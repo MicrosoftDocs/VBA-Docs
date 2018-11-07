@@ -20,7 +20,7 @@ Gets the index value a color scheme of a Microsoft Office theme. Read-only.
  _expression_ An expression that returns a [ThemeColor](./Office.ThemeColor.md) object.
 
 
-### Return value
+## Return value
 
 MsoThemeColorSchemeIndex
 

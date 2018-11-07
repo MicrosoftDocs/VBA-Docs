@@ -38,7 +38,7 @@ Prints the object.
 | _Collate_|Optional| **Variant**| **True** to collate multiple copies.|
 | _PrToFileName_|Optional| **Variant**|If  _PrintToFile_ is set to **True** , this argument specifies the name of the file you want to print to.|
 
-### Return value
+## Return value
 
 Variant
 

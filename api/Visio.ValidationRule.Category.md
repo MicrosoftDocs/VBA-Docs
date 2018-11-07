@@ -23,7 +23,7 @@ Represents the text displayed in the  **Category** column of the **Issues** wind
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

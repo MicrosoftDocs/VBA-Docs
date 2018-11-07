@@ -31,7 +31,7 @@ Returns a  **[Store](Outlook.Store.md)** object that represents the store specif
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **String**|A string value identifying a store.|
 
-### Return value
+## Return value
 
 A  **Store** object that has the **[StoreID](Outlook.Store.StoreID.md)** property matching _ID_ .
 

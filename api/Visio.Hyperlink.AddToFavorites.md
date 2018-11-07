@@ -31,7 +31,7 @@ Adds a shortcut for a hyperlink address in the presently registered Favorites fo
 |:-----|:-----|:-----|:-----|
 | _FavoritesTitle_|Optional| **Variant**|The title to assign to the new shortcut.|
 
-### Return value
+## Return value
 
 Nothing
 

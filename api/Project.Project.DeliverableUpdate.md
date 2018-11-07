@@ -31,7 +31,7 @@ Updates the properties of a deliverable.
 | _DeliverableStartDate_|Required|**Variant**|Date when the deliverable starts.|
 | _DeliverableFinishDate_|Required|**Variant**|Date when the deliverable is finished.|
 
-### Return value
+## Return value
 
  **Boolean**
 

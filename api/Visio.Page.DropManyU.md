@@ -33,7 +33,7 @@ Creates one or more new  **Shape** objects on a page, in a master, or in a group
 | _xyArray()_|Required| **Double**|An array of alternating  _x_ and _y_ values that specify the positions for the new shapes.|
 | _IDArray()_|Required| **Integer**|Out parameter. An array that returns the IDs of the created shapes.|
 
-### Return value
+## Return value
 
 Integer
 

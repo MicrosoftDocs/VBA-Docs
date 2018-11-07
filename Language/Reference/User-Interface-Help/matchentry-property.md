@@ -28,7 +28,7 @@ The  **MatchEntry** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmMatchEntry_|Optional. The rule used to match entries in the list.|
 
- **Settings**
+## Settings
 The settings for  _fmMatchEntry_ are:
 
 

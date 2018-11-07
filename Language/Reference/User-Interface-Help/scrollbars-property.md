@@ -28,7 +28,7 @@ The  **ScrollBars** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmScrollBars_|Optional. Where scroll bars should be displayed.|
 
- **Settings**
+## Settings
 The settings for  _fmScrollBars_ are:
 
 

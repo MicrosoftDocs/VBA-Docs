@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **DocumentLibraryVersion** object. Read-only
  _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

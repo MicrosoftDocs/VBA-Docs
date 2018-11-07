@@ -32,7 +32,7 @@ Calculates, or predicts, a future value by using existing values. The predicted 
 | _Arg3_|Required| **Variant**|known_x's - the independent array or range of data.|
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
 Double
 

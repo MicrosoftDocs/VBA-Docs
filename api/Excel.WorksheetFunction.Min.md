@@ -31,7 +31,7 @@ Returns the smallest number in a set of values.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 numbers for which you want to find the minimum value.|
 
-### Return value
+## Return value
 
 Double
 

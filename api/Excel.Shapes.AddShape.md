@@ -35,7 +35,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the new AutoShape 
 | _Width_|Required| **Single**|The width of the AutoShape's bounding box, in points.|
 | _Height_|Required| **Single**|The height of the AutoShape's bounding box, in points.|
 
-### Return value
+## Return value
 
 Shape
 

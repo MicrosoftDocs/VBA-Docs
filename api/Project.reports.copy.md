@@ -27,7 +27,7 @@ Copies a custom report and creates a new report with the same content.
 | _Source_|Required|VARIANT||
 | _NewName_|Required|STRING||
 
-### Return value
+## Return value
 
  **Report**
 

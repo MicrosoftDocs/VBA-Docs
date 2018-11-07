@@ -34,7 +34,7 @@ Sets the quick style of the specified selection.
 | _shadowColor_|Required|VISQUICKSTYLECOLORS|Specifies the color index that determines the shadow color to retrieve from the active theme and variant to use in shadows.|
 | _fontColor_|Required|VISQUICKSTYLECOLORS|Specifies the color index that determines the font color to retrieve from the active theme and variant to use in shape text.|
 
-### Return value
+## Return value
 
  **VOID**
 

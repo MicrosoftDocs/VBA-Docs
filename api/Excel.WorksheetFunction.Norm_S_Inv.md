@@ -31,7 +31,7 @@ Returns the inverse of the standard normal cumulative distribution. The distribu
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Probability - A probability corresponding to the normal distribution.|
 
-### Return value
+## Return value
 
 Double
 

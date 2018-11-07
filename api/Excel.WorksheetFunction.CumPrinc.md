@@ -36,7 +36,7 @@ Returns the cumulative principal paid on a loan between start_period and end_per
 | _Arg5_|Required| **Variant**|The last period in the calculation.|
 | _Arg6_|Required| **Variant**|The timing of the payment.|
 
-### Return value
+## Return value
 
 Double
 

@@ -29,7 +29,7 @@ Follows the hyperlink at the specified index in the specified shape in Microsoft
 |ShapeIndex|Required| **Long**|The index of the shape that contains the hyperlink.|
 |HyperlinkIndex|Required| **Long**|The index of the hyperlink in the collection of hyperlinks in the specified shape.|
 
-### Return value
+## Return value
 
 Nothing
 

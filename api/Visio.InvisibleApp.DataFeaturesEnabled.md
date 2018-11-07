@@ -23,7 +23,7 @@ Gets whether the data features in Microsoft Visio are enabled for the current in
  _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

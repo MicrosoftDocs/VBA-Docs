@@ -35,7 +35,7 @@ Selects one or more rows.
 | _Extend_|Optional|**Boolean**|**True** if the active selection is extended into the new selection. The default value is **False**.|
 | _Add_|Optional|**Boolean**|**True** if the new selection is added to the active selection. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

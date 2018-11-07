@@ -20,7 +20,7 @@ Gets or sets a value specifying whether small caps should be used with the slect
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

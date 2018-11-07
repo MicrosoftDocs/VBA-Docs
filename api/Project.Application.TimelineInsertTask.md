@@ -31,7 +31,7 @@ When the Timeline view is selected, displays the  **Task Information** dialog bo
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**PjTimelineInsertTaskType**|Specifies the type of task; that is, whether the task is a regular task, a milestone, or a callout task. Can be one of the following  **[PjTimelineInsertTaskType](Project.PjTimelineInsertTaskType.md)** constants: **pjTimelineInsertTask**, **pjTimelineInsertMilestone**, or **pjTimelineInsertCalloutTask**. Any of the task types can be manually or automatically scheduled.|
 
-### Return value
+## Return value
 
  **Boolean**
 

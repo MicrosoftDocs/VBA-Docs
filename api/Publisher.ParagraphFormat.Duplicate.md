@@ -23,7 +23,7 @@ Creates a duplicate of the specified  **[ParagraphFormat](Publisher.ParagraphFor
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 ParagraphFormat
 

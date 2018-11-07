@@ -44,7 +44,7 @@ Parses a column of cells that contain text into several columns.
 | _ThousandsSeparator_|Optional| **Variant**|The thousands separator that Excel uses when recognizing numbers. The default setting is the system setting.|
 | _TrailingMinusNumbers_|Optional| **Variant**|Numbers that begin with a minus character.|
 
-### Return value
+## Return value
 
 Variant
 

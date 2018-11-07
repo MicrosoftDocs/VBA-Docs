@@ -23,7 +23,7 @@ Gets or sets the caption for a menu. Read/write.
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 
 
-### Return value
+## Return value
 
 String
 

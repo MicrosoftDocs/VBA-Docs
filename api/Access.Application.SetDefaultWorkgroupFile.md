@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The full path and file name of the workgroup file to use as the default.|
 
-### Return value
+## Return value
 
 Nothing
 

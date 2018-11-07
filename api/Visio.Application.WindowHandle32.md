@@ -23,7 +23,7 @@ Returns the 32-bit handle of a Microsoft Visio window. Read-only.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

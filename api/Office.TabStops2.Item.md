@@ -28,7 +28,7 @@ Gets an individual object from the  **TabStops2** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The number of the object to return.|
 
-### Return value
+## Return value
 
 TabStop2
 

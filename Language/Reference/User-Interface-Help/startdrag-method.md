@@ -28,7 +28,7 @@ The  **StartDrag** method syntax has these parts:
 | _Object_|Required. A valid object.|
 | _Effect_|Optional. Effect of the drop operation on the target control.|
 
- **Settings**
+## Settings
 The settings for  _Effect_ are:
 
 

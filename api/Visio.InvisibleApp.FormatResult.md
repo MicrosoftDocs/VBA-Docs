@@ -32,7 +32,7 @@ _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.m
 | _UnitsOut_|Required| **Variant**|Measurement units to express the result in.|
 | _Format_|Required| **String**|Picture of what the result string should look like.|
 
-### Return value
+## Return value
 
 String
 

@@ -20,7 +20,7 @@ Gets or sets the color of the page in the current drawing that is open in Micros
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **[OLE_COLOR]**
 

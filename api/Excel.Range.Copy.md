@@ -31,7 +31,7 @@ Copies the range to the specified range or to the Clipboard.
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|Specifies the new range to which the specified range will be copied. If this argument is omitted, Microsoft Excel copies the range to the Clipboard.|
 
-### Return value
+## Return value
 
 Variant
 

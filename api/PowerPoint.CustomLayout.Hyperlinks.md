@@ -23,7 +23,7 @@ Returns a  **[Hyperlinks](PowerPoint.Hyperlinks.md)** collection that represents
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return value
+## Return value
 
 Hyperlinks
 

@@ -23,7 +23,7 @@ Indicates whether the text in the specified shape is animated by first-level par
  _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 
 
-### Return value
+## Return value
 
 PpTextLevelEffect
 

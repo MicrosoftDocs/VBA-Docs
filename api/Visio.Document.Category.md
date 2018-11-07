@@ -23,7 +23,7 @@ Gets or sets the value of a document's category, one of the document properties.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 String
 

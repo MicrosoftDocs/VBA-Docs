@@ -23,7 +23,7 @@ Returns or sets a value that determines whether the specified  **Protected View*
  _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

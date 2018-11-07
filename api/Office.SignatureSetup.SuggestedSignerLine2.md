@@ -23,7 +23,7 @@ Gets or sets the second line of suggested signer information (for example, title
  _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
 
 
-### Return value
+## Return value
 
 String
 

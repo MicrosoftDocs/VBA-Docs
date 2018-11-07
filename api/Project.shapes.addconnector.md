@@ -34,7 +34,7 @@ Creates a connector and returns a  **Shape** object the represents the new conne
 | _EndY_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

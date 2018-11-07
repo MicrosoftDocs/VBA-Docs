@@ -31,7 +31,7 @@ Sets the range that represents the source data for the sparkline group.
 |:-----|:-----|:-----|:-----|
 | _SourceData_|Required| **String**|The range that represents the source data.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns the number of  **[ValidationIssue](Visio.ValidationIssue.md)** objects i
  _expression_ A variable that represents a '[ValidationIssues](Visio.ValidationIssues.md)' object.
 
 
-### Return value
+## Return value
 
  **Long**
 

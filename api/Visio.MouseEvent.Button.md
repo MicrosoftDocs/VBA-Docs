@@ -23,7 +23,7 @@ Returns the mouse button that was clicked to fire a  **MouseDown** or **MouseUp*
  _expression_ An expression that returns a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

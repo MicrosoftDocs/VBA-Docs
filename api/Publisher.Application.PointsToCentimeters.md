@@ -31,7 +31,7 @@ Converts a measurement from points to centimeters (1 cm = 28.35 points). Returns
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to centimeters.|
 
-### Return value
+## Return value
 
 Single
 

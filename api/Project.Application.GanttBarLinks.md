@@ -31,7 +31,7 @@ Shows or hides task links on the Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Long**|Where links will be drawn from the ends of predecessor links. Can be one of the  **[PjGanttBarLink](Project.PjGanttBarLink.md)** constants. The default value is **PjNoGanttBarLinks**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

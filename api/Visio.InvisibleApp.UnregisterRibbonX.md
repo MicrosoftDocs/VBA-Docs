@@ -32,7 +32,7 @@ Unregisters a previouly registered  **IRibbonExtensiblity** interface that a Mic
 | _SourceAddOn_|Required| **IRibbonExtensibility**|The add-in to unregister.|
 | _TargetDocument_|Required| **[Document](Visio.Document.md)**|The document in which to unregister the add-in.|
 
-### Return value
+## Return value
 
  **HRESULT**
 

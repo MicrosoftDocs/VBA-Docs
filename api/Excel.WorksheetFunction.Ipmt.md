@@ -36,7 +36,7 @@ Returns the interest payment for a given period for an investment based on perio
 | _Arg5_|Optional| **Variant**|Fv - the future value, or a cash balance you want to attain after the last payment is made. If fv is omitted, it is assumed to be 0 (the future value of a loan, for example, is 0).|
 | _Arg6_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due. If type is omitted, it is assumed to be 0.|
 
-### Return value
+## Return value
 
 Double
 

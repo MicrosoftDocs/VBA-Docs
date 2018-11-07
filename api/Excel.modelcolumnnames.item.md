@@ -29,7 +29,7 @@ Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelco
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name for the object.|
 
-### Return value
+## Return value
 
 A [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object contained in the collection.
 

@@ -31,7 +31,7 @@ Obtains a  **Date** value in a **[Table](Outlook.Table.md)** specified by the **
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|A 1-based index value that can be either a  **Long** representing the column index for the **[Columns](Outlook.Columns.md)** collection or a **String** representing the **[Name](Outlook.Column.Name.md)** of the **[Column](Outlook.Column.md)** .|
 
-### Return value
+## Return value
 
 A  **Date** value that has been converted from a representation in UTC to local time. An error is returned if _Index_ is invalid or the row value indicated by _Index_ is not a **Date** value.
 

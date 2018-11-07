@@ -40,7 +40,7 @@ Sets the font for the text in the active cells, where the text color can be a he
 | _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 | _Strikethrough_|Optional|**Variant**|**True** if the font is the strikethrough format.|
 
-### Return value
+## Return value
 
  **Boolean**
 

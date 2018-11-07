@@ -19,7 +19,7 @@ Copies a chart.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Return value
+## Return value
 
  **Variant**
 

@@ -35,7 +35,7 @@ Returns whether the shape data (custom property) row in the Shape Data section o
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data row.|
 | _CustomPropertyIndex_|Required| **Long**|The index of the shape data (custom property) row in the Shape Data section of the shape's ShapeSheet.|
 
-### Return value
+## Return value
 
 Boolean
 

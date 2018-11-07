@@ -20,7 +20,7 @@ Gets or sets the buttons that are available in the toolbar in Microsoft Visio Vi
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
 String
 

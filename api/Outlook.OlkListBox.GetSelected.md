@@ -31,7 +31,7 @@ Returns a  **Boolean** that indicates if the indexed item is currently selected.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|A zero-based value that specifies the location of an item in the list.|
 
-### Return value
+## Return value
 
 A  **Boolean** value that is **True** if the specified item is currently selected, **False** otherwise.
 

@@ -23,7 +23,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents a [SharedWorkspaceLinks](./Office.SharedWorkspaceLinks.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

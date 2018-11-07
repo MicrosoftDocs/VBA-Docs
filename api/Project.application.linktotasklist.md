@@ -28,7 +28,7 @@ Links to a SharePoint tasks list.
 | _SiteURL_|Optional|**String**|The URL of the SharePoint site.|
 | _TaskListName_|Optional|**String**|The name of the SharePoint task list.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -31,7 +31,7 @@ Returns a  **Dictionary** object that represents a new custom spelling or conver
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The string name of the dictionary file. If no path is specified in the string, the proofing tools path is used.|
 
-### Return value
+## Return value
 
 Dictionary
 

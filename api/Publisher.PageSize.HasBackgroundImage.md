@@ -23,7 +23,7 @@ Returns  **True** if the blank page size represented by the parent **PageSize** 
  _expression_ A variable that represents a  **PageSize** object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

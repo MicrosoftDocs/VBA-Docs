@@ -29,7 +29,7 @@ Returns the Unicode character referenced by the given numeric value.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Unicode number representing a character.|
 
-### Return value
+## Return value
 
  **STRING**
 

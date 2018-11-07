@@ -37,7 +37,7 @@ Links multiple rows in the specified data recordset, as specified by their data 
 | _ShapeIDs()_|Required| **Long**| An array of type **Long** of shape IDs of shapes on the page to be linked to the data rows specified in DataRowIDs() in the data recordset specified in DataRecordsetID.|
 | _ApplyDataGraphicAfterLink_|Optional| **Boolean**|Whether to apply the current data graphic to the linked shapes. See Remarks for more information.|
 
-### Return value
+## Return value
 
 Nothing
 

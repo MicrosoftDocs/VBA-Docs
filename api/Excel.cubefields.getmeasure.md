@@ -52,7 +52,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 
 
 
-### Return value
+## Return value
 
  **CUBEFIELD**
 

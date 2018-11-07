@@ -35,7 +35,7 @@ Gets the IDs of the shape-data-item (custom property) rows in the Shape Data sec
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset that contains the data the shape is linked to.|
 | _CustomPropertyIndices()_|Required| **Long**|Out parameter. An empty, dimensionless array that the method fills with the row IDs of the shape-data-item (custom property) rows in the shape's ShapeSheet that are linked to data columns in the data recordset.|
 
-### Return value
+## Return value
 
 Nothing
 

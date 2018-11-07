@@ -48,7 +48,7 @@ Changes the formatting of Gantt bars from their default styles, where colors can
 | _Reset_|Optional|**Boolean**|**True** if the bar formatting is reset to the default formatting of the style in the **Bar Styles** dialog box; otherwise, **False**.|
 | _ProjectName_|Optional|**String**|The name of the project containing  **TaskID** if consolidation is involved. The default value is the name of the active project.|
 
-### Return value
+## Return value
 
  **Boolean**
 

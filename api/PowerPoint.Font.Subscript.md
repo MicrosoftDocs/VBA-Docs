@@ -23,7 +23,7 @@ Determines whether the specified text is subscript. Read/write.
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

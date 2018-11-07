@@ -23,7 +23,7 @@ Determines whether the specified slide is hidden during a slide show. Read/write
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

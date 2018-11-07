@@ -29,7 +29,7 @@ Adds a  **Group** object to a **Groups** collection.
 | _Name_|Required|**String**|The name of the group|
 | _FieldName_|Required|**String**|The name of the field being grouped by.|
 
-### Return value
+## Return value
 
  **Group**
 

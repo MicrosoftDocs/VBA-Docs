@@ -23,7 +23,7 @@ Determines whether speaker notes are to be published with the presentation. Read
  _expression_ A variable that represents a [PublishObject](./PowerPoint.PublishObject.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

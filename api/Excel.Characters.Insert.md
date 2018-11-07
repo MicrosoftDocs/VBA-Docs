@@ -31,7 +31,7 @@ Inserts a string preceding the selected characters.
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to insert.|
 
-### Return value
+## Return value
 
 Variant
 

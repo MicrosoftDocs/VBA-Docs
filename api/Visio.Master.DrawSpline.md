@@ -33,7 +33,7 @@ Creates a new shape whose path follows a given sequence of points.
 | _Tolerance_|Required| **Double**|How closely the path of the new shape must approximate the given points.|
 | _Flags_|Required| **Integer**|Flags that influence how the shape is drawn.|
 
-### Return value
+## Return value
 
 Shape
 

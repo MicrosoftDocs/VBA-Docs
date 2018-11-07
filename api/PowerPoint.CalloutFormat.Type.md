@@ -23,7 +23,7 @@ Represents the type of callout. Read/write.
  _expression_ A variable that represents a [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoCalloutType
 

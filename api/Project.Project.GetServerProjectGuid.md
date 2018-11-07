@@ -20,7 +20,7 @@ Returns the GUID for the enterprise project.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Return value
+## Return value
 
  **String**
 

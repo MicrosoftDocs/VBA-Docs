@@ -28,7 +28,7 @@ The  **Alignment** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmAlignment_|Optional. Caption position.|
 
- **Settings**
+## Settings
 The settings for  _fmAlignment_ are:
 
 

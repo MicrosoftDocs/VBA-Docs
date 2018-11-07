@@ -32,7 +32,7 @@ Returns the difference of two complex numbers in x + yi or x + yj text format.
 | _Arg1_|Required| **Variant**|Inumber1 - the complex number from which to subtract inumber2.|
 | _Arg2_|Required| **Variant**|Inumber2 - the complex number to subtract from inumber1.|
 
-### Return value
+## Return value
 
 String
 

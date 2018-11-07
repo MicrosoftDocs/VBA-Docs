@@ -23,7 +23,7 @@ Returns or sets a  **String** that represents the text displayed for a hyperlink
  _expression_ A variable that represents a  **Hyperlink** object.
 
 
-### Return value
+## Return value
 
 String
 

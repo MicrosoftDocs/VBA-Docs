@@ -32,7 +32,7 @@ Converts a hexadecimal number to binary.
 | _Arg1_|Required| **Variant**|Number - the hexadecimal number you want to convert. Number cannot contain more than 10 characters. The most significant bit of number is the sign bit (40th bit from the right). The remaining 9 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
 | _Arg2_|Optional| **Variant**|Places - the number of characters to use. If places is omitted, HEX2BIN uses the minimum number of characters necessary. Places is useful for padding the return value with leading 0s (zeros).|
 
-### Return value
+## Return value
 
 String
 

@@ -33,7 +33,7 @@ Returns an array of pages that are set to be published to a server.
 | _PublishPages_|Required| **[VisPublishPages](Visio.VisPublishPages.md)**|Out parameter. Indicates whether all pages or selected pages are set to be published. See Remarks for possible values.|
 | _NamesArray()_|Required| **String**|Out parameter. Returns the names of the pages set to be published.|
 
-### Return value
+## Return value
 
  **Nothing**
 

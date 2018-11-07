@@ -37,7 +37,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing an OLE object to
 |Filename|Optional| **String**|The file name of the OLE object to be added. If the path is not specified, the current working folder is used.|
 |Link|Optional| **MsoTriState**|Determines whether the OLE object is linked to or embedded in the publication.|
 
-### Return value
+## Return value
 
 Shape
 

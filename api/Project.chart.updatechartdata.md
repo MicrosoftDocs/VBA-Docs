@@ -50,7 +50,7 @@ Updates the specified Project data on a chart.
 | _StartDate_|Optional|VARIANT||
 | _FinishDate_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

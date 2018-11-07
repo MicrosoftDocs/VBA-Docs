@@ -31,7 +31,7 @@ Converts a measurement from points to emus (12700 emus = 1 point). Returns the c
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The point value to be converted to emus.|
 
-### Return value
+## Return value
 
 Single
 

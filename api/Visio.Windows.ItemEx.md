@@ -31,7 +31,7 @@ Returns a  **Window** object from a collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _CaptionOrIndex_|Required| **Variant**|Contains the caption or index of the window to retrieve. See Remarks for details.|
 
-### Return value
+## Return value
 
 Window
 

@@ -31,7 +31,7 @@ Returns a  **[WizardProperty](Publisher.WizardProperty.md)** object, based on th
 |:-----|:-----|:-----|:-----|
 |ID|Required| **Long**|The ID of the wizard property to return; corresponds to the  **[ID](Publisher.WizardProperty.ID.md)** property of the **WizardProperty** object.|
 
-### Return value
+## Return value
 
 WizardProperty
 

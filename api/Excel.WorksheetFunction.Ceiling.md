@@ -36,7 +36,7 @@ For more information about the new function, see the [Ceiling_Precise](Excel.Wor
 | _Arg1_|Required| **Double**|Number - the value you want to round.|
 | _Arg2_|Required| **Double**|Significance - the multiple to which you want to round.|
 
-### Return value
+## Return value
 
 Double
 

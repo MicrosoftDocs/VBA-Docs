@@ -23,7 +23,7 @@ Returns or sets an  **MsoPresetTextEffectShape** constant that represents the sh
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
 
-### Return value
+## Return value
 
 MsoPresetTextEffectShape
 

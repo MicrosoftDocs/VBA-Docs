@@ -23,7 +23,7 @@ Sets or returns a  **Boolean** that represents the case sensitivity of the searc
  _expression_ A variable that represents a  **FindReplace** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

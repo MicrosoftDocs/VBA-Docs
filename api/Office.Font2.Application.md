@@ -20,7 +20,7 @@ Gets an object that represents the application the  **Font2** object is used in.
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

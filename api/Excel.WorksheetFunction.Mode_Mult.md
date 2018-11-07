@@ -32,7 +32,7 @@ Returns a vertical array of the most frequently occurring, or repetitive, values
 | _Arg1_|Required| **Variant**|Number1 - The first number argument for which you want to calculate the mode.|
 | _Arg2 - Arg30_|Optional| **Variant**|Number2 - Number30 - Number arguments from 2 to 30 for which you want to calculate the mode. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Variant
 

@@ -29,7 +29,7 @@ Returns the inverse hyperbolic cotangent of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The hyperbolic cotangent of the angle that you want.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

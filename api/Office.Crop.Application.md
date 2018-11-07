@@ -20,7 +20,7 @@ Gets the  **Application** object of the host application. Read-only.
  _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

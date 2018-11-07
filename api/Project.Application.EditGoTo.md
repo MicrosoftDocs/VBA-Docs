@@ -32,7 +32,7 @@ Scrolls to a resource, task, or date.
 | _ID_|Optional|**Long**|A number that specifies the identification number of the task or resource to display in the active pane.|
 | _Date_|Optional|**Variant**|A number or string that specifies the first date to display in the active pane.|
 
-### Return value
+## Return value
 
  **Boolean**
 

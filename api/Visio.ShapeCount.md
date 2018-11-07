@@ -20,7 +20,7 @@ Gets the count of shapes in the drawing that is open in Microsoft Visio Viewer. 
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Long**
 

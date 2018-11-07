@@ -34,7 +34,7 @@ Adds an  **Event** object to the **EventList** collection of the source object w
 | _IIDSink_|Required| **String**| Reserved for future use. Must be "".|
 | _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
-### Return value
+## Return value
 
 Event
 

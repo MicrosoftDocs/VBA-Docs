@@ -23,7 +23,7 @@ Returns or sets the tint and shade of the represented object. Read/write
  _expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

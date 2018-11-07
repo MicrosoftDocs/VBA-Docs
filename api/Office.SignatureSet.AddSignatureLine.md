@@ -31,7 +31,7 @@ Adds lines to a document where signatures are collected.
 |:-----|:-----|:-----|:-----|
 | _varSigProv_|Optional|**Variant**|Represents the ID of the signature provider.|
 
-### Return value
+## Return value
 
 Signature
 

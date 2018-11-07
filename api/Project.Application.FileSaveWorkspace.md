@@ -31,7 +31,7 @@ Saves a list of open files and the current settings in the  **Options** dialog b
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the file to create. If  **Name** is omitted, Project prompts for the file name.|
 
-### Return value
+## Return value
 
  **Boolean**
 

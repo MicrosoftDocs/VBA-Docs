@@ -29,7 +29,7 @@ URL encodes the argument.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Text to be encoded.|
 
-### Return value
+## Return value
 
  **VARIANT**
 

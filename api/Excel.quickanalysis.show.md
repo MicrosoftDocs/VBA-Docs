@@ -47,7 +47,7 @@ When [XlQuickAnalysisMode Enumeration (Excel)](Excel.xlquickanalysismode.md) is 
 -  **xlTotals** = Totals
     
 
-### Return value
+## Return value
 
  **VOID**
 

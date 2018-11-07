@@ -31,7 +31,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
 |:-----|:-----|:-----|:-----|
 | _String_|Required| **String**|The string to complete.|
 
-### Return value
+## Return value
 
 String
 

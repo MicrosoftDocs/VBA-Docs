@@ -23,7 +23,7 @@ Returns an  **[Options](Publisher.Options.md)** object that represents applicati
  _expression_ A variable that represents an  **Application** object.
 
 
-### Return value
+## Return value
 
 Options
 

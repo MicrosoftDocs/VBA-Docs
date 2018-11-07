@@ -31,7 +31,7 @@ Occurs when a protected view window is opened.
 |:-----|:-----|:-----|:-----|
 | _ProtViewWindow_|Required|**ProtectedViewWindow**|The protected view window that is opened.|
 
-### Return value
+## Return value
 
 Nothing
 

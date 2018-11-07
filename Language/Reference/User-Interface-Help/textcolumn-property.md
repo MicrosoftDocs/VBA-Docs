@@ -28,7 +28,7 @@ The  **TextColumn** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The column to be displayed.|
 
- **Settings**
+## Settings
 Values for the  **TextColumn** property range from -1 to the number of columns in the list. The **TextColumn** value for the first column is 1, the value of the second column is 2, and so on. Setting **TextColumn** to 0 displays the **ListIndex** values. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
 
 ## Remarks

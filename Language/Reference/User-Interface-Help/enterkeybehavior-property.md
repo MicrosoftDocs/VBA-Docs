@@ -28,7 +28,7 @@ The  **EnterKeyBehavior** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Specifies the effect of pressing ENTER.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

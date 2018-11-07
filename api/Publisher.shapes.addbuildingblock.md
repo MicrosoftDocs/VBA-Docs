@@ -31,7 +31,7 @@ Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[
 |Left|Required| **Variant**|The position of the left edge of the shape that represents the building block.|
 |Top|Required| **Variant**|The position of the top edge of the shape that represents the building block.|
 
-### Return value
+## Return value
 
  **Shape**
 

@@ -29,7 +29,7 @@ Returns the hyperbolic cosine of a complex number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the hyperbolic cosine.|
 
-### Return value
+## Return value
 
  **STRING**
 

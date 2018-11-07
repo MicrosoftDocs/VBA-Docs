@@ -23,7 +23,7 @@ Returns the  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object associated
  _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
-### Return value
+## Return value
 
 SlicerCacheLevel
 

@@ -36,7 +36,7 @@ Makes small adjustments to the position of shapes in the selection to better ali
 | _SpaceVertical_|Required| **Double**|The edge-to-edge vertical spacing (except if layout style is circular). Must be greater than or equal to zero.|
 | _UnitCode_|Required| **[VisUnitCodes](Visio.visunitcodes.md)**|The units for the spacing values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -26,7 +26,7 @@ Deletes all the comments from the active document.
 |:-----|:-----|:-----|:-----|
 |||||
 
-### Return value
+## Return value
 
  **VOID**
 

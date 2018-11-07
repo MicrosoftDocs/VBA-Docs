@@ -23,7 +23,7 @@ Returns the height, in points, of the object. Read-only.
  _expression_ A variable that represents a '[ChartTitle](Word.ChartTitle.md)' object.
 
 
-### Return value
+## Return value
 
 Double
 

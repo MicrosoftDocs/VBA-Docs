@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _GroupNameOrID_|Required|**Variant**| The name or identifier (ID) of the group.|
 
-### Return value
+## Return value
 
 Boolean
 

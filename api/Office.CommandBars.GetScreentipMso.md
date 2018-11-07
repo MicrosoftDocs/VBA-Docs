@@ -34,7 +34,7 @@ Returns the screentip of the control identified by the  **idMso** parameter as a
 |:-----|:-----|:-----|:-----|
 | _idMso_|Required|**String**|Identifier for the control.|
 
-### Return value
+## Return value
 
 String
 

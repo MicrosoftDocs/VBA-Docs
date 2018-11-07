@@ -45,7 +45,7 @@ Compares two documents and returns a  **Document** object that represents the do
 | _RevisedAuthor_|Optional| **String**|Specifies the name of the person to whom to attribute changes when comparing the two documents.|
 | _IgnoreAllComparisonWarnings_|Optional| **Boolean**|Specifies whether to ignore warnings when comparing the two documents.|
 
-### Return value
+## Return value
 
 Document
 

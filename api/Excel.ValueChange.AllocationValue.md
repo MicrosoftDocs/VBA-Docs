@@ -23,7 +23,7 @@ Returns what value to allocate when performing what-if analysis. Read-only
  _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
-### Return value
+## Return value
 
  **[XlAllocationValue](Excel.XlAllocationValue.md)**
 

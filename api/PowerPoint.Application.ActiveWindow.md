@@ -23,7 +23,7 @@ Returns a  **[DocumentWindow](PowerPoint.DocumentWindow.md)** object that repres
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return value
+## Return value
 
 DocumentWindow
 

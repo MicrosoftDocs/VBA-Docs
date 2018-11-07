@@ -32,7 +32,7 @@ Returns the matching identification name of an object.
 | _ObjectType_|Required|**Long**|The type of object. Can be one of the  **[PjOrganizer](Project.PjOrganizer.md)** constants.|
 | _ObjectName_|Required|**String**|Display name of the object.|
 
-### Return value
+## Return value
 
  **String**
 

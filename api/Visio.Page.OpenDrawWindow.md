@@ -23,7 +23,7 @@ Opens a new drawing window that displays a page.
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 
 
-### Return value
+## Return value
 
 Window
 

@@ -37,7 +37,7 @@ The XPath parameter is limited to 1024 characters.
 The  **FILTERXML** function returns results that are parsed via the user specified data locale.
 
 
-### Return value
+## Return value
 
  **VARIANT**
 

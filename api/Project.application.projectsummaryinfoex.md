@@ -46,7 +46,7 @@ Returns information about project summary, including the Project Utilization typ
 | _UtilizationDate_|Optional|**Variant**||
 | _PartiallyDisabled_|Optional|**Boolean**|**True** if Project displays the **Project Information** dialog box with all elements disabled except for the **Enterprise Custom Fields** section.|
 
-### Return value
+## Return value
 
  **BOOL**
 

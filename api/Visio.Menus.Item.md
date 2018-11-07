@@ -31,7 +31,7 @@ Returns a  **Menu** object from the **Menus** collection. Read-only.
 |:-----|:-----|:-----|:-----|
 | _lIndex_|Required| **Long**|The index of the object to retrieve.|
 
-### Return value
+## Return value
 
 Menu
 

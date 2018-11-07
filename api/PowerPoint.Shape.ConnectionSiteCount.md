@@ -23,7 +23,7 @@ Returns the number of connection sites on the specified shape. Read-only.
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

@@ -32,7 +32,7 @@ Returns the correlation coefficient of the  _Arg1_ and _Arg2_ cell ranges.
 | _Arg1_|Required| **Variant**|A cell range of values.|
 | _Arg2_|Required| **Variant**|A second cell range of values.|
 
-### Return value
+## Return value
 
 Double
 

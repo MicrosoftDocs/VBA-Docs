@@ -27,7 +27,7 @@ Changes the chart to a default format for another chart type.
 | _rGallery_|Required|INT32||
 | _varFormat_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

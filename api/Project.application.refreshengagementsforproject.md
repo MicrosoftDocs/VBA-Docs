@@ -21,7 +21,7 @@ Refreshes the engagements for the project using engagement state on the server. 
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **BOOL**
 

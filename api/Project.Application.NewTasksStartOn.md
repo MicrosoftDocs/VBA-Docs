@@ -31,7 +31,7 @@ Specifies how the start date of a new task is set.
 |:-----|:-----|:-----|:-----|
 | _StartOnDate_|Optional|**PjNewTasksStartOnDate**|Specifies whether new tasks start on the project date, the current date, or no date. Can be one of the  **[PjNewTasksStartOnDate](Project.PjNewTasksStartOnDate.md)** constants. The default is **pjProjectDate**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

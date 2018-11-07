@@ -33,7 +33,7 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 |RelativeToOriginalSize|Required| **MsoTristate**| Specifies whether to scale relative to the object's original or current size.|
 |fScale|Optional| **MsoScaleFrom**|The part of the shape that retains its position when the shape is scaled.|
 
-### Return value
+## Return value
 
 Nothing
 

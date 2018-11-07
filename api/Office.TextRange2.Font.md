@@ -20,7 +20,7 @@ Returns a  **Font** object that represents character formatting for the **TextRa
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Return value
+## Return value
 
 Font
 

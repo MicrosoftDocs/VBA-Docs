@@ -23,7 +23,7 @@ Returns the subtype of a  **Shape** object that represents a foreign object. Rea
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

@@ -1,5 +1,5 @@
 ---
-title: BuiltIn Property (VBA Add-In Object Model)
+title: BuiltIn property (VBA Add-In Object Model)
 keywords: vbob6.chm1070965
 f1_keywords:
 - vbob6.chm1070965
@@ -9,14 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# BuiltIn Property (VBA Add-In Object Model)
-
-
+# BuiltIn property (VBA Add-In Object Model)
 
 Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the reference is a default reference that can't be removed. Read-only.
- **Return Values**
-The  **BuiltIn** property returns these values:
 
+## Return values
+
+The **BuiltIn** property returns these values:
 
 |**Value**|**Description**|
 |:-----|:-----|

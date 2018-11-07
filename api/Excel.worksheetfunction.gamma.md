@@ -29,7 +29,7 @@ Returns the Gamma function value.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value for which you want to calculate Gamma.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

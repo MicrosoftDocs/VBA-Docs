@@ -23,7 +23,7 @@ Sets or returns a value that represents the pattern applied to the specified fil
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Return value
+## Return value
 
 [MsoPatternType](./Office.MsoPatternType.md)
 

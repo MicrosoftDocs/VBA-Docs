@@ -23,7 +23,7 @@ Returns the number of comment pages that will be printed for the current workshe
  _expression_ A variable that returns a [Worksheet](./Excel.Worksheet.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

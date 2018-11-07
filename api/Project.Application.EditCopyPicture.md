@@ -40,7 +40,7 @@ Copies the active view as a picture or an OLE object, or exports the active view
 | _MaxImageWidth_|Optional|**Double**|Specifies the maximum width of the picture. The accepted range of  **MaxImageWidth** is 1 to 22 inches (2.54 to 55.88 centimeters). The default value is 22 (inches).|
 | _MeasurementUnits_|Optional|**Variant**|**Long**. Specifies the units of measurement. The default value is **pjInches**. Can be one of the **[PjMeasurementUnits](Project.PjMeasurementUnits.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

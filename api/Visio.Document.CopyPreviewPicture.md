@@ -31,7 +31,7 @@ Copies the preview picture from another document into the current document.
 |:-----|:-----|:-----|:-----|
 | _pSourceDoc_|Required| **[IVDOCUMENT]**|The  **Document** object whose preview picture you want to copy into this document.|
 
-### Return value
+## Return value
 
 Nothing
 

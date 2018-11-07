@@ -23,7 +23,7 @@ Gets a value representing the sort order of the signatures in a packet with mult
  _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

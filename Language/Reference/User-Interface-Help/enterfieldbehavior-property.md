@@ -28,7 +28,7 @@ The  **EnterFieldBehavior** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmEnterFieldBehavior_|Optional. The desired selection behavior.|
 
- **Settings**
+## Settings
 The settings for  _fmEnterFieldBehavior_ are:
 
 

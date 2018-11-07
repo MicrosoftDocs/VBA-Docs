@@ -23,7 +23,7 @@ Centers a page's, master's, or group's shapes with respect to the extent of the 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

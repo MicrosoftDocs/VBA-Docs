@@ -33,7 +33,7 @@ Creates an instance of a custom task pane.
 | _CTPTitle_|Required|**String**|The title for the task pane.|
 | _CTPParentWindow_|Optional|**Variant**|The window that hosts the task pane. If not present, the parent of the task pane is the ActiveWindow of the host application.|
 
-### Return value
+## Return value
 
 CustomTaskPane
 

@@ -26,7 +26,7 @@ Returns  **visObjTypeDataRecordset** , the type of a **DataRecordset** object. R
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

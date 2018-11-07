@@ -33,7 +33,7 @@ Controls resource sharing, for local resources and projects.
 | _Name_|Optional|**String**|The file name of the project that contains the local resource pool.|
 | _Pool_|Optional|**Boolean**|**True** if resources in the local pool take precedence over resources in the project .|
 
-### Return value
+## Return value
 
  **Boolean**
 

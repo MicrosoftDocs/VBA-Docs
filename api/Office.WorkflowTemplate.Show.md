@@ -23,7 +23,7 @@ Displays a workflow specific configuration user interface for the specified  **W
  _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

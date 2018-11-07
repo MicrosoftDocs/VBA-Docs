@@ -28,6 +28,6 @@ The  **TopIndex** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The number of the list item that is displayed in the topmost position. The default is 0, or the first item in the list.|
 
- **Settings**
+## Settings
 Returns the value -1 if the list is empty or not displayed.
 

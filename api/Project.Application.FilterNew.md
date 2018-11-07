@@ -31,7 +31,7 @@ Shows the  **Filter Definition** dialog box, where the user can create a filter 
 |:-----|:-----|:-----|:-----|
 | _FilterType_|Optional|**PjFilterViewType**|Specifies whether the filter is for task information or resource information. Can be one of the following constants of the  **[PjFilterViewType](Project.PjFilterViewType.md)** enumeration: **pjFilterViewTypeResource**, **pjFilterViewTypeTask**, or **pjFilterViewTypeUseView**. The default value is **pjFilterViewTypeUseView**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

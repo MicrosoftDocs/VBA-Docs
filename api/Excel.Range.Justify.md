@@ -23,7 +23,7 @@ Rearranges the text in a range so that it fills the range evenly.
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

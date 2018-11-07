@@ -31,7 +31,7 @@ Returns the natural logarithm of a complex number in x + yi or x + yj text forma
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the natural logarithm.|
 
-### Return value
+## Return value
 
 String
 

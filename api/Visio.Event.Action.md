@@ -23,7 +23,7 @@ Gets or sets the action code of an  **Event** object. Read/write.
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

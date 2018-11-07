@@ -23,7 +23,7 @@ Returns a  **String** that represents the programmatic identifier (ProgID) for t
  _expression_ A variable that represents an  **OLEFormat** object.
 
 
-### Return value
+## Return value
 
 String
 

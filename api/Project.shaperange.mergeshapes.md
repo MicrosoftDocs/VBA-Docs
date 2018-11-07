@@ -27,7 +27,7 @@ The  **MergeShapes** method is not implemented in Project.
 | _MergeCmd_|Required|MSOMERGECMD||
 | _PrimaryShape_|Optional|SHAPE||
 
-### Return value
+## Return value
 
  **Nothing**
 

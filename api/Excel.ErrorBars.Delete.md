@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

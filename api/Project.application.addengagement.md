@@ -21,7 +21,7 @@ Adds a  **Resource Plan** view, enabling users to display and edit engagement da
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

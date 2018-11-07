@@ -35,7 +35,7 @@ Creates a new shape whose path consists of a circular arc defined by its center,
 | _StartAngle_|Optional| **Double**|The angle in radians with respect to the x-axis at which to start drawing the arc. The default is 0.|
 | _EndAngle_|Optional| **Double**|The angle in radians with respect to the x-axis at which to end the arc. The default is pi (3.14592634898).|
 
-### Return value
+## Return value
 
 Shape
 

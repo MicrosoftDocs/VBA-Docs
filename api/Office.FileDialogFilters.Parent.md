@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.
  _expression_ A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

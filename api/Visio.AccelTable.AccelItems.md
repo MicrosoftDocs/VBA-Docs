@@ -23,7 +23,7 @@ Returns the  **AccelItems** collection of an **AccelTable** object. Read-only.
  _expression_ A variable that represents an [AccelTable](./Visio.AccelTable.md) object.
 
 
-### Return value
+## Return value
 
 AccelItems
 

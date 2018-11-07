@@ -28,7 +28,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Array - a numeric array with an equal number of rows and columns.|
 
-### Return value
+## Return value
 
 Double
 

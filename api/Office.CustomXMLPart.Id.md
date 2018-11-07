@@ -23,7 +23,7 @@ Gets a  **String** containing the GUID assigned to the current **CustomXMLPart**
  _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
 
 
-### Return value
+## Return value
 
 String
 

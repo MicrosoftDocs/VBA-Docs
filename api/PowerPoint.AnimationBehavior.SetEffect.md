@@ -23,7 +23,7 @@ Returns a  **SetEffect** object for the animation behavior. Read-only.
  _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return value
+## Return value
 
 SetEffect
 

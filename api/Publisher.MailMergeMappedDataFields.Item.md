@@ -31,7 +31,7 @@ Returns an individual object in a specified collection.
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Variant**|The number or name of the field or list box item to return.|
 
-### Return value
+## Return value
 
 MailMergeMappedDataField
 

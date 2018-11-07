@@ -23,7 +23,7 @@ Returns or sets the  **[ColorScheme](Publisher.ColorScheme.md)** object that rep
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 ColorScheme
 

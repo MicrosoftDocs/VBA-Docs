@@ -23,7 +23,7 @@ Gets the information specified in the Policy Statement. Read-only.
  _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
 
 
-### Return value
+## Return value
 
 String
 

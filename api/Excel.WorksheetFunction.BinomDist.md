@@ -34,7 +34,7 @@ Returns the individual term binomial distribution probability.
 | _Arg3_|Required| **Double**|the probability of success on each trial.|
 | _Arg4_|Required| **Boolean**|a logical value that determines the form of the function. If cumulative is TRUE, then BinomDist returns the cumulative distribution function, which is the probability that there are at most number_s successes; if FALSE, it returns the probability mass function, which is the probability that there are number_s successes.|
 
-### Return value
+## Return value
 
 Double
 

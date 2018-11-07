@@ -30,7 +30,7 @@ Returns a [Guide](PowerPoint.guide.md) object from the collection.
 | _Index_|Required|**Integer**|The index number of the single  **Guide** object in the collection to be returned.|
 | _Index_|Required|INT||
 
-### Return value
+## Return value
 
  **Guide**
 

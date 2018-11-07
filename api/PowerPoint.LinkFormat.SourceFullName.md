@@ -23,7 +23,7 @@ Returns or sets the name and path of the source file for the linked OLE object. 
  _expression_ A variable that represents a [LinkFormat](./PowerPoint.LinkFormat.md) object.
 
 
-### Return value
+## Return value
 
 String
 

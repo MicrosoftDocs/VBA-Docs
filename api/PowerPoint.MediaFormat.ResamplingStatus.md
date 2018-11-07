@@ -23,7 +23,7 @@ Returns the resampling task status. Read-only.
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return value
+## Return value
 
 PpMediaTaskStatus
 

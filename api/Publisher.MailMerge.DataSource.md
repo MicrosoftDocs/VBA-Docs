@@ -23,7 +23,7 @@ Returns a  **[MailMergeDataSource](Publisher.MailMergeDataSource.md)** object th
  _expression_ A variable that represents a  **MailMerge** object.
 
 
-### Return value
+## Return value
 
 MailMergeDataSource
 

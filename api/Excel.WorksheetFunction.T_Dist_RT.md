@@ -32,7 +32,7 @@ Returns the right-tailed Student t-distribution where a numeric value (x) is a c
 | _Arg1_|Required| **Double**|X - The numeric value at which to evaluate the distribution.|
 | _Arg2_|Required| **Double**|Degrees_freedom - An integer that indicates the number of degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

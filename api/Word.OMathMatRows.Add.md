@@ -31,7 +31,7 @@ Creates an equation row and adds it to a matrix and returns an  **OMathMatRow** 
 |:-----|:-----|:-----|:-----|
 | _BeforeRow_|Optional| **Variant**|An existing row in the matrix before which to place the new row.|
 
-### Return value
+## Return value
 
 OMathMatRow
 

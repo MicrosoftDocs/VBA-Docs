@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for an **ODSOFilter** object in t
  _expression_ A variable that represents an [ODSOFilter](./Office.ODSOFilter.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

@@ -23,7 +23,7 @@ Returns a  **Selection** object that represents what is presently selected in th
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Selection
 

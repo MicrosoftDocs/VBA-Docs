@@ -31,7 +31,7 @@ Converts degrees to radians.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Angle - an angle in degrees that you want to convert.|
 
-### Return value
+## Return value
 
 Double
 

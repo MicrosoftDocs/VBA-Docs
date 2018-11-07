@@ -35,7 +35,7 @@ Returns a  **Table** object that represents a new, blank table added to a docume
 | _DefaultTableBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word automatically resizes cells in tables to fit the cells? contents (AutoFit). Can be either of the following constants:  **wdWord8TableBehavior** (AutoFit disabled) or **wdWord9TableBehavior** (AutoFit enabled). The default constant is **wdWord8TableBehavior** .|
 | _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes tables. Can be one of the  **WdAutoFitBehavior** constants.|
 
-### Return value
+## Return value
 
 Table
 

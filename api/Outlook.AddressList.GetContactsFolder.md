@@ -23,7 +23,7 @@ Obtains a  **[Folder](Outlook.Folder.md)** object that represents the Contacts f
  _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
 
 
-### Return value
+## Return value
 
 A  **Folder** object that represents the Outlook Contacts folder for the **AddressList** . Returns **Null** (**Nothing** in Visual Basic) if no Outlook contacts folder is found.
 

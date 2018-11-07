@@ -34,7 +34,7 @@ Adds a text box to the report, and returns a  **Shape** object that represents t
 | _Height_|Required|FLOAT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Shape**
 

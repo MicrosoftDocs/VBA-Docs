@@ -23,7 +23,7 @@ Sets or returns a  **Long** that represents the black component of a CMYK color.
  _expression_ A variable that represents a  **ColorCMYK** object.
 
 
-### Return value
+## Return value
 
 Long
 

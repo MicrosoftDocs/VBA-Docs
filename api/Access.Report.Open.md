@@ -29,7 +29,7 @@ _expression_ A variable that represents a **Report** object.
 |:-----|:-----|:-----|:-----|
 | _Cancel_|Required|**Integer**|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -29,7 +29,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg1_|Required| **Variant**|Known_y's - an array or cell range of numeric dependent data points.|
 | _Arg2_|Required| **Variant**|Known_x's - the set of independent data points.|
 
-### Return value
+## Return value
 
 Double
 

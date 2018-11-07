@@ -30,7 +30,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg1_|Required| **Variant**|Known_y's - the dependent set of observations or data.|
 | _Arg2_|Required| **Variant**|Known_x's - the independent set of observations or data.|
 
-### Return value
+## Return value
 
 Double
 

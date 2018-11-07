@@ -31,7 +31,7 @@ Creates a second, working copy of the  **EncryptionProvider** object's encryptio
 |:-----|:-----|:-----|:-----|
 | _SessionHandle_|Required|**Long**|The ID of the cloned session.|
 
-### Return value
+## Return value
 
 Long
 

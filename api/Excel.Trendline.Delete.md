@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

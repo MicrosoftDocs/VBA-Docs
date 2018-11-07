@@ -31,7 +31,7 @@ Indicates whether a named SolutionXML element exists in the document. Read-only.
 |:-----|:-----|:-----|:-----|
 | _ElementName_|Required| **String**|The case-sensitive name of the SolutionXML element.|
 
-### Return value
+## Return value
 
 Boolean
 

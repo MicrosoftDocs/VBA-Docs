@@ -31,7 +31,7 @@ Sets a cell's value, even if the cell's formula is protected with the GUARD func
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when setting the cell's value.|
 
-### Return value
+## Return value
 
 Double
 

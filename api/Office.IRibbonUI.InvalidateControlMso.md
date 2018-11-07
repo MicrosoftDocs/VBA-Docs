@@ -31,7 +31,7 @@ Used to invalidate a built-in control.
 |:-----|:-----|:-----|:-----|
 | _ControlID_|Required|**String**||
 
-### Return value
+## Return value
 
 Nothing
 

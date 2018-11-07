@@ -36,7 +36,7 @@ Gets the Active X Data Objects (ADO) error code, ADO description, and data recor
 | _DataErrorDescription_|Required| **String**|Out parameter. The ADO description of the last error.|
 | _RecordsetID_|Required| **Long**|Out parameter. The ID of the data recordset that generated or triggered the error.|
 
-### Return value
+## Return value
 
 Nothing
 

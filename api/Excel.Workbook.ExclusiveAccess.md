@@ -23,7 +23,7 @@ Assigns the current user exclusive access to the workbook that's open as a share
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

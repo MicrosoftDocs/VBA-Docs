@@ -33,7 +33,7 @@ Adds the cells in a range that meet multiple criteria.
 | _Arg2_|Required| **Range**|Criteria_range1, criteria_range2, ? - one or more ranges in which to evaluate the associated criteria.|
 | _Arg3 - Arg30_|Required| **Variant**|Criteria1, criteria2, ? - one or more criteria in the form of a number, expression, cell reference, or text that define which cells will be added. For example, criteria can be expressed as 32, "32", ">32", "apples", or B4.|
 
-### Return value
+## Return value
 
 Double
 

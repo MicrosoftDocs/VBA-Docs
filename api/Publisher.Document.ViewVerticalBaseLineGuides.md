@@ -23,7 +23,7 @@ Sets or returns a  **Boolean** that represents whether or not the vertical basel
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

@@ -31,7 +31,7 @@ Hides a window.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the window to hide. The name of a window is the exact text that appears in the title bar of the window. The default is the active window.|
 
-### Return value
+## Return value
 
  **Boolean**
 

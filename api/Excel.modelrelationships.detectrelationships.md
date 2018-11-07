@@ -28,7 +28,7 @@ Detects model relationships in the specified [PivotTable](Excel.PivotTable.md).
 |||||
 | _PivotTable_|Required|PIVOTTABLE|The pivot table in which to detect model relationships.|
 
-### Return value
+## Return value
 
 Void
 

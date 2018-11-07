@@ -23,7 +23,7 @@ Gets or sets the width of a printed page in points. Read/write.
  _expression_ A variable that represents a  **Printer** object.
 
 
-### Return value
+## Return value
 
 Long
 

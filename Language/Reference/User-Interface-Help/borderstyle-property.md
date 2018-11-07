@@ -28,7 +28,7 @@ The  **BorderStyle** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmBorderStyle_|Optional. Specifies the border style.|
 
- **Settings**
+## Settings
 The settings for  _fmBorderStyle_ are:
 
 

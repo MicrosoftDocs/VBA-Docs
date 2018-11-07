@@ -20,7 +20,7 @@ Gets current Goal Bar theme and updates sidepane header background style.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Long**
 

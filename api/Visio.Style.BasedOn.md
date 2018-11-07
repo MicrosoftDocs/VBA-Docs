@@ -23,7 +23,7 @@ Gets or sets the style on which a  **Style** object is based. Read/write.
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 
 
-### Return value
+## Return value
 
 String
 

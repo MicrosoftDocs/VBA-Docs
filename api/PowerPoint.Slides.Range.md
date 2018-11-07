@@ -31,7 +31,7 @@ Returns a  **[SlideRange](PowerPoint.SlideRange.md)** object that represents a s
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The individual slides that are to be included in the range. Can be an  **Integer** that specifies the index number of the slide, a **String** that specifies the name of the slide, or an array that contains either integers or strings. If this argument is omitted, the **Range** method returns all the objects in the specified collection.|
 
-### Return value
+## Return value
 
 SlideRange
 

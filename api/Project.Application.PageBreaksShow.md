@@ -31,7 +31,7 @@ Shows or hides page breaks on the Network Diagram.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if page breaks appear on the Network Diagram. The default is to toggle the current setting.|
 
-### Return value
+## Return value
 
  **Boolean**
 

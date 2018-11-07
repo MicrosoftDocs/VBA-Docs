@@ -20,7 +20,7 @@ Gets or sets the Unicode character value that is used for bullets in the specifi
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

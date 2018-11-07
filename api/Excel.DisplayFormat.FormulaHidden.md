@@ -23,7 +23,7 @@ Returns a value that indicates if the formula of the associated  **[Range](Excel
  _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
-### Return value
+## Return value
 
 Variant
 

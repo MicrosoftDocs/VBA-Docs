@@ -23,7 +23,7 @@ _expression_. `Activate`
 _expression_ A variable that represents a [Report](Access.Report.md) object.
 
 
-### Return value
+## Return value
 
 nothing
 

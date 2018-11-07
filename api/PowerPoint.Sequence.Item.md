@@ -31,7 +31,7 @@ Returns a single  **Effect** object from the specified **Sequence** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Effect** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Effect
 

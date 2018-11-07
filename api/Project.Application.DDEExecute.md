@@ -32,7 +32,7 @@ Performs actions or runs commands in another application through dynamic data ex
 | _Command_|Required|**String**|The command to carry out in another application.|
 | _TimeOut_|Optional|**Variant**|The number of seconds to wait for the other application to execute before proceeding. The default value is 5.|
 
-### Return value
+## Return value
 
  **Boolean**
 

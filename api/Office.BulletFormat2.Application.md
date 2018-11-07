@@ -20,7 +20,7 @@ Gets an object that represents the  **BulletFormat2** object. Read-only.
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

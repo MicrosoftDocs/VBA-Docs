@@ -38,7 +38,7 @@ Navigates to an arbitrary hyperlink.
 | _res2_|Optional| **Variant**|Unused.|
 | _res3_|Optional| **Variant**|Unused.|
 
-### Return value
+## Return value
 
 Nothing
 

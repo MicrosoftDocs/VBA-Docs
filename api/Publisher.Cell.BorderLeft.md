@@ -23,7 +23,7 @@ Returns a  [CellBorder](Publisher.CellBorder.md)object that represents the left 
  _expression_ A variable that represents a  **Cell** object.
 
 
-### Return value
+## Return value
 
 CellBorder
 

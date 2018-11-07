@@ -16,7 +16,7 @@ Gets updated values from a pivot table data source.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -31,7 +31,7 @@ Returns the height of the shape or shape range as a  **Single** in the specified
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbUnitType**|The units in which to return the height.|
 
-### Return value
+## Return value
 
 Single
 

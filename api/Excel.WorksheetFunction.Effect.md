@@ -32,7 +32,7 @@ Returns the effective annual interest rate, given the nominal annual interest ra
 | _Arg1_|Required| **Variant**|Nominal_rate - the nominal interest rate.|
 | _Arg2_|Required| **Variant**|Npery - the number of compounding periods per year.|
 
-### Return value
+## Return value
 
 Double
 

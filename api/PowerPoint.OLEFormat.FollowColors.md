@@ -23,7 +23,7 @@ Returns or sets the extent to which the colors in the specified object follow th
  _expression_ A variable that represents a [OLEFormat](./PowerPoint.OLEFormat.md) object.
 
 
-### Return value
+## Return value
 
 PpFollowColors
 

@@ -31,7 +31,7 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the item to be returned.|
 
-### Return value
+## Return value
 
 Variant
 

@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **RulerLevels2** collecti
  _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

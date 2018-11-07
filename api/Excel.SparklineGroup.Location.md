@@ -23,7 +23,7 @@ Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the
  _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
-### Return value
+## Return value
 
 Range
 

@@ -23,7 +23,7 @@ Returns whether the cell (tuple) is currently visible in the PivotTable report. 
  _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

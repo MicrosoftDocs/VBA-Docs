@@ -19,7 +19,7 @@ Checks out an open project that is currently in read-only mode.
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

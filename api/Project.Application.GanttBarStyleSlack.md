@@ -31,7 +31,7 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|If  **False**, hides the slack. If **True**, shows the slack.|
 
-### Return value
+## Return value
 
  **Boolean**
 

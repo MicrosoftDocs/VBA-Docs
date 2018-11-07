@@ -20,7 +20,7 @@ Gets the bullet number of a paragraph. Read-only.
  _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

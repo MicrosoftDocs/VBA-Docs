@@ -35,7 +35,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 | _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem** . See Remarks for possible values.|
 | _Expression_|Required| **String**|The ShapeSheet expression associated with the Field parameter.|
 
-### Return value
+## Return value
 
 Nothing
 

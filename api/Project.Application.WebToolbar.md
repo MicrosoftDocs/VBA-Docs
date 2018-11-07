@@ -31,7 +31,7 @@ Shows or hides the Web toolbar. Obsolete in Project.
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** if the Web toolbar is shown. The default is to toggle the current setting.|
 
-### Return value
+## Return value
 
  **Boolean**
 

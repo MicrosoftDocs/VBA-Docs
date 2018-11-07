@@ -23,7 +23,7 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
  _expression_ A variable that represents an [OLEObjects](./Visio.OLEObjects.md) object.
 
 
-### Return value
+## Return value
 
 Application
 

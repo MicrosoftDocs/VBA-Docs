@@ -28,7 +28,7 @@ The  **DropButtonStyle** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmDropButtonStyle_|Optional. The appearance of the drop button.|
 
- **Settings**
+## Settings
 The settings for  _fmDropButtonStyle_ are:
 
 

@@ -45,7 +45,7 @@ Uses East Asian sorting methods to sort the range, a PivotTable report, or uses 
 | _DataOption2_|Optional| **XlSortDataOption**|Specifies how to sort text in  _Key2_. Cannot be used when sorting PivotTable reports.|
 | _DataOption3_|Optional| **XlSortDataOption**|Specifies how to sort text in  _Key3_. Cannot be used when sorting PivotTable reports.|
 
-### Return value
+## Return value
 
 Variant
 

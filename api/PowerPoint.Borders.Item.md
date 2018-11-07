@@ -31,7 +31,7 @@ Returns a  **[LineFormat](PowerPoint.LineFormat.md)** object for the specified b
 |:-----|:-----|:-----|:-----|
 | _BorderType_|Required|**PpBorderType**|Specifies which border of a cell or cell range is to be returned.|
 
-### Return value
+## Return value
 
 LineFormat
 

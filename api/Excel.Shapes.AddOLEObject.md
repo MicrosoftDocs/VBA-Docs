@@ -41,7 +41,7 @@ Creates an OLE object. Returns a  **[Shape](Excel.Shape.md)** object that repres
 | _Width_|Optional| **Variant**|The initial dimensions of the OLE object, in points.|
 | _Height_|Optional| **Variant**|The initial dimensions of the OLE object, in points.|
 
-### Return value
+## Return value
 
 Shape
 

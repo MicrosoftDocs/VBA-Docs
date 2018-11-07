@@ -28,7 +28,7 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the  **SmartArtLayout** object.|
 
-### Return value
+## Return value
 
 SmartArtLayout
 

@@ -31,7 +31,7 @@ Expands the specified range or selection. Returns or sets a  **Long** that repre
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbTextUnit**|The unit by which to expand the range.|
 
-### Return value
+## Return value
 
 Long
 

@@ -37,7 +37,7 @@ For more information about the new functions, see the [F_Inv_RT](Excel.Worksheet
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Degrees_freedom2 - is the denominator degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

@@ -20,7 +20,7 @@ Gets or sets a value that indicates whether page tabs are visible in Microsoft V
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

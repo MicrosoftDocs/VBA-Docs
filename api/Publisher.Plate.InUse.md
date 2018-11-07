@@ -23,7 +23,7 @@ Returns  **True** if the specified ink (represented by the plate) is used in the
  _expression_ A variable that represents an  **Plate** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

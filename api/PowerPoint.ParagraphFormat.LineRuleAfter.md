@@ -23,7 +23,7 @@ Determines whether line spacing after the last line in each paragraph is set to 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

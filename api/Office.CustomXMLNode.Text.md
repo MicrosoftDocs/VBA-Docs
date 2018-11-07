@@ -23,7 +23,7 @@ Gets or sets the text for the current node. Read/write.
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return value
+## Return value
 
 String
 

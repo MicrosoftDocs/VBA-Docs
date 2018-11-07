@@ -34,7 +34,7 @@ Gets the size and position of the client area of a window.
 | _pnWidth_|Required| **Long**|The distance in pixels from the left side to the right side of the window.|
 | _pnHeight_|Required| **Long**|The distance in pixels from the top to the bottom of the window.|
 
-### Return value
+## Return value
 
 Nothing
 

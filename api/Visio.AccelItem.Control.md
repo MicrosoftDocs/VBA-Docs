@@ -23,7 +23,7 @@ Determines whether the CTRL key modifies the accelerator key in an  **AccelItem*
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

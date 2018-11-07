@@ -18,7 +18,7 @@ Initializes the Workbook's Data Model. This is called by default the first time 
  _expression_ A variable that represents a object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

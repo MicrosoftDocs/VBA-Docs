@@ -35,7 +35,7 @@ Returns a collection of axes on the chart.
 
 |
 
-### Return value
+## Return value
 
 An [Axes](PowerPoint.Axes.md) object that contains the selected axes from the chart.
 

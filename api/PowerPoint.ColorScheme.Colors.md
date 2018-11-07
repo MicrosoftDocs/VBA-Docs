@@ -31,7 +31,7 @@ Returns an  **[RGBColor](PowerPoint.RGBColor.md)** object that represents a sing
 |:-----|:-----|:-----|:-----|
 | _SchemeColor_|Required|**[PpColorSchemeIndex](PowerPoint.PpColorSchemeIndex.md)**|The individual color in the specified color scheme.|
 
-### Return value
+## Return value
 
 RGBColor
 

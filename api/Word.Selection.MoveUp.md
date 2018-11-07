@@ -33,7 +33,7 @@ Moves the selection up and returns the number of units that it has been moved.
 | _Count_|Optional| **Variant**|The number of units the selection is to be moved. The default value is 1.|
 | _Extend_|Optional| **Variant**|Specifies whether the selection is moved or extended. Can be either  **wdMove** or **wdExtend** . If **wdMove** is used, the selection is collapsed to the endpoint and moved up. If **wdExtend** is used, the selection is extended up. The default value is **wdMove** .|
 
-### Return value
+## Return value
 
 Long
 

@@ -34,7 +34,7 @@ Inserts a new structure, such as a fraction, into an equation at the specified p
 | _NumArgs_|Optional| **Variant**| The number of arguments in the equation.|
 | _NumCols_|Optional| **Variant**|The number of columns in the equation.|
 
-### Return value
+## Return value
 
 OMathFunction
 

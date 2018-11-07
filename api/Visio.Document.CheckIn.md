@@ -33,7 +33,7 @@ Returns a document from a local computer to a Microsoft SharePoint Server comput
 | _Comments_|Optional| **Variant**|Any comments to be stored with this revision of the document (applies only if  _SaveChanges_ equals **True**).|
 | _MakePublic_|Optional| **Boolean**| **True** to publish the document after check-in. This submits the document for the approval process or, if there is no approval routing for the document, a public version is created that is available to readers of the folder (applies only if _SaveChanges_ equals **True**); **False** leaves the document available only for private viewing. The default is **False** .|
 
-### Return value
+## Return value
 
 Nothing
 

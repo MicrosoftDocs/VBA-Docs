@@ -23,7 +23,7 @@ Returns or sets an  **MsoArrowheadStyle**constant indicating the style of the ar
  _expression_ A variable that represents a  **LineFormat** object.
 
 
-### Return value
+## Return value
 
 MsoArrowheadStyle
 

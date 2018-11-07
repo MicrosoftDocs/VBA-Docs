@@ -23,7 +23,7 @@ Determines whether the validation rule is currently ignored. Read/write.
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

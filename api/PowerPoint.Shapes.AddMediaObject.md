@@ -35,7 +35,7 @@ Deprecated in PowerPoint 2013. See [Shapes.AddMediaObject2 Method (PowerPoint)](
 | _Width_|Optional|**Single**|The width of the media object's bounding box, in points.|
 | _Height_|Optional|**Single**|The height of the media object's bounding box, in points.|
 
-### Return value
+## Return value
 
 Shape
 

@@ -29,7 +29,7 @@ Returns the hyperbolic secant of an angle.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Angle in radians for which you want the hyperbolic secant.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

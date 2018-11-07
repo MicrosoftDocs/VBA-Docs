@@ -23,7 +23,7 @@ Returns or sets a value that indicates how PowerPoint will validate files before
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return value
+## Return value
 
  **[MsoFileValidationMode](./Office.MsoFileValidationMode.md)**
 

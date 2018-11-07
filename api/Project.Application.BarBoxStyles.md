@@ -23,7 +23,7 @@ Displays the  **Bar Styles**, **Box Styles**, or **Detail Styles** dialog box, w
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

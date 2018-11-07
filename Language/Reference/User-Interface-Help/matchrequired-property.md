@@ -28,7 +28,7 @@ The  **MatchRequired** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the text entered must match an existing item in the list.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

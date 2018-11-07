@@ -23,7 +23,7 @@ Returns a  **[CustomLayouts](PowerPoint.CustomLayouts.md)** object that represen
  _expression_ A variable that represents a [Master](./PowerPoint.Master.md) object.
 
 
-### Return value
+## Return value
 
 CustomLayouts
 

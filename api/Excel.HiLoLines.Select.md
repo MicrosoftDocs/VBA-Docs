@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [HiLoLines](Excel.HiLoLines(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

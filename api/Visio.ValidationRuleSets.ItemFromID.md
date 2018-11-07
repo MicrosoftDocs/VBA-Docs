@@ -31,7 +31,7 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that mat
 |:-----|:-----|:-----|:-----|
 | _RuleID_|Required| **Long**|The ID of the object to retrieve.|
 
-### Return value
+## Return value
 
  **ValidationRuleSet**
 

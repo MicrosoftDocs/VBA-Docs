@@ -58,7 +58,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 <br/>
 
-### Return value
+## Return value
 
 String
 

@@ -31,7 +31,7 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 |:-----|:-----|:-----|:-----|
 | _SelectionContents_|Required| **OlSelectionContents**|Specifies the kind of objects in the selection to return.|
 
-### Return value
+## Return value
 
 A  **Selection** object that contains the specified kind of objects that are selected in the active explorer.
 

@@ -23,7 +23,7 @@ Gets or sets events logged during a Microsoft Visio instance. Read/write.
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

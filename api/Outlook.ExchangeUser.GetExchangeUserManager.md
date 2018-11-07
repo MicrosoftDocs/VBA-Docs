@@ -23,7 +23,7 @@ Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents t
  _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
-### Return value
+## Return value
 
 An  **ExchangeUser** object that represents the manager of the Exchange user.
 

@@ -34,7 +34,7 @@ Starts an application.
 | _Minimize_|Optional|**Boolean**|**True** if the main window is minimized. The default value is **False**.|
 | _Activate_|Optional|**Boolean**|**True** if the application is activated. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

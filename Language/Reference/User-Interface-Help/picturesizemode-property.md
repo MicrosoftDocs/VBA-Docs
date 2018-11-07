@@ -28,7 +28,7 @@ The  **PictureSizeMode** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmPictureSizeMode_|Optional. The action to take if the picture and the form or page that contains it are not the same size.|
 
- **Settings**
+## Settings
 The settings for  _fmPictureSizeMode_ are:
 
 

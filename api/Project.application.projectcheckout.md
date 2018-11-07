@@ -27,7 +27,7 @@ Checks out an open project if it is the active project.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project|
 
-### Return value
+## Return value
 
  **Boolean**
 

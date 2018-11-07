@@ -27,7 +27,7 @@ Opens the default web browser to a specified URL or the Windows Explorer to a sp
 |:-----|:-----|:-----|:-----|
 | _URL_|Optional|**String**|The URL to use for the browser address.|
 
-### Return value
+## Return value
 
  **Boolean**
 

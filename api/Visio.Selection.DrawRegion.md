@@ -35,7 +35,7 @@ Draws a new shape that represents the region containing a given point.
 | _y_|Optional| **Variant**|y-coordinate in internal units in the coordinate space of the  **Selection** object.|
 | _ResultsMaster_|Optional| **Variant**|The  **Master** object which the new **Shape** object should be an instance of.|
 
-### Return value
+## Return value
 
 Shape
 

@@ -31,7 +31,7 @@ Commits the rendering transaction. Returns  **Nothing**.
 |:-----|:-----|:-----|:-----|
 | _hwnd_|Required|**Long**|A handle to the window in which to commit the rendering transaction.|
 
-### Return value
+## Return value
 
 Nothing
 

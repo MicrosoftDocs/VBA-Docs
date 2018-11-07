@@ -23,7 +23,7 @@ Sets or retrieves a  **Single** that represents the list bullet font size from t
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 Single
 

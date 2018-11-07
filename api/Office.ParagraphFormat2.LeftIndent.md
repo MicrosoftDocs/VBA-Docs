@@ -20,7 +20,7 @@ Gets or sets a value that represents the left indent value (in points) for the s
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

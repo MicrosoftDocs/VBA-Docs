@@ -33,7 +33,7 @@ Returns a statistical value as a result of time series forecasting.
 | _Arg5_|Optional|VARIANT|Data completions: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** supports up to 30% missing data, and automatically adjusts for it. See Remarks.|
 | _Arg6_|Optional|VARIANT|Aggregation: Although the timeline requires a constant step between data points,  **Forecast_ETS_STAT** aggregates multiple points that have the same time stamp. See Remarks.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

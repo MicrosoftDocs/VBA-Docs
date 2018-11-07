@@ -31,7 +31,7 @@ Shows or hides the task or resource  **Details** pane for the selected item.
 |:-----|:-----|:-----|:-----|
 | _Timeline_|Optional|**Variant**|If the value is  **True** or 1, the method shows or hides the project Timeline pane. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

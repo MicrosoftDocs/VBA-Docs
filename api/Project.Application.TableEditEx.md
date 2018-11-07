@@ -50,7 +50,7 @@ Creates, edits, or copies a table that can wrap text and include the  **Add New 
 | _WrapText_|Optional|**Boolean**|**True** if the table wraps text in the rows; otherwise, **False**.|
 | _ShowAddNewColumn_|Optional|**Boolean**|True if the table shows the  **Add New Column** feature in the far-right column; otherwise, **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

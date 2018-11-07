@@ -31,7 +31,7 @@ Occurs when a new sheet is created in the workbook.
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|The new sheet. Can be a  **[Worksheet](Excel.Worksheet.md)** or **[Chart](Excel.Chart(object).md)** object.|
 
-### Return value
+## Return value
 
 Nothing
 

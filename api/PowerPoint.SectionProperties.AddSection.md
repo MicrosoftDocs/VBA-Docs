@@ -32,7 +32,7 @@ Adds a new section at the specified index position and returns the index of the 
 | _sectionIndex_|Required|**Integer**|The index of the section before which to add the section.|
 | _sectionName_|Optional|**Variant**|The name of the new section.|
 
-### Return value
+## Return value
 
 Integer
 

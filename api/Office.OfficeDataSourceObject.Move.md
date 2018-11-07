@@ -32,7 +32,7 @@ Moves a record in a return set from a  **OfficeDataSourceObject** object from on
 | _MsoMoveRow_|Required|**MsoMoveRow**|A constant specifying which row to move.|
 | _RowNbr_|Optional|**Integer**|The number of the destination row.|
 
-### Return value
+## Return value
 
 Integer
 

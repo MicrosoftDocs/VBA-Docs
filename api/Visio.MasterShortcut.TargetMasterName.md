@@ -23,7 +23,7 @@ Gets or sets the name of the master to which the master shortcut refers. Read/wr
  _expression_ A variable that represents a [MasterShortcut](./Visio.MasterShortcut.md) object.
 
 
-### Return value
+## Return value
 
 String
 

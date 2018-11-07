@@ -23,7 +23,7 @@ Determines whether snap is active in the document. Read/write.
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

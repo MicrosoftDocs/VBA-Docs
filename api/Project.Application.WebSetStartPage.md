@@ -31,7 +31,7 @@ Specifies a document as the Start Page in Microsoft Internet Explorer.
 |:-----|:-----|:-----|:-----|
 | _Address_|Optional|**String**|The address to use as a Start Page. If  **Address** is omitted, the current document is set as the Start Page.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -20,7 +20,7 @@ Gets a 32-bit integer that represents the Microsoft Office application in which 
  _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

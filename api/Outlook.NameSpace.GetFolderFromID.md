@@ -32,7 +32,7 @@ Returns a  **[Folder](Outlook.Folder.md)** object identified by the specified en
 | _EntryIDFolder_|Required| **String**|The  **[EntryID](Outlook.Folder.EntryID.md)** of the folder.|
 | _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder.|
 
-### Return value
+## Return value
 
 A ** Folder** object that represents the specified folder.
 

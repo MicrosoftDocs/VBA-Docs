@@ -32,7 +32,7 @@ Pans the Microsoft Visio drawing window to place the specified shape in the cent
 | _SheetObject_|Required| **[Shape](Visio.Shape.md)**|The shape to center in the view.|
 | _Flags_|Required| **[VisCenterViewFlags](Visio.VisCenterViewFlags.md)**|The centering behavior to apply.|
 
-### Return value
+## Return value
 
  **Nothing**
 

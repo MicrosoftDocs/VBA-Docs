@@ -31,7 +31,7 @@ Gets the value of a ShapeSheet cell expressed as a universal string. Read-only.
 |:-----|:-----|:-----|:-----|
 | _UnitsNameOrCode_|Required| **Variant**|The units to use when retrieving the value.|
 
-### Return value
+## Return value
 
 String
 

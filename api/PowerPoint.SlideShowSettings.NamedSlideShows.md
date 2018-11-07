@@ -23,7 +23,7 @@ Returns a  **[NamedSlideShows](PowerPoint.NamedSlideShows.md)** collection that 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 
 
-### Return value
+## Return value
 
 NamedSlideShows
 

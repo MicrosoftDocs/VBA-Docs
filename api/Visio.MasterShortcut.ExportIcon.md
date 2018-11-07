@@ -33,7 +33,7 @@ Exports the icon for a  **Master** object to a named file or the Clipboard.
 | _Flags_|Required| **Integer**|The format in which to write the exported file.|
 | _TransparentRGB_|Optional| **Variant**|The color to substitute for any transparent areas of the exported icon image.|
 
-### Return value
+## Return value
 
 Nothing
 

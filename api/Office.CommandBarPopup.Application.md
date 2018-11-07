@@ -23,7 +23,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

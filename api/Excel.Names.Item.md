@@ -33,7 +33,7 @@ Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
 | _IndexLocal_|Optional| **Variant**|The name of the defined name, in the language of the user. No names will be translated if you use this argument.|
 | _RefersTo_|Optional| **Variant**|What the name refers to. You use this argument to identify a name by what it refers to.|
 
-### Return value
+## Return value
 
 A  **Name** object contained by the collection.
 

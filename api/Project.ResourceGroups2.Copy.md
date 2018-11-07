@@ -29,7 +29,7 @@ Makes a copy of a group definition for the  **ResourceGroups2** collection and r
 | _Name_|Required|**String**|The name of the group to copy.|
 | _NewName_|Required|**String**|The name of the new group.|
 
-### Return value
+## Return value
 
  **Group2**
 

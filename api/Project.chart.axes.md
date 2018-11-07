@@ -27,7 +27,7 @@ Returns an object that represents either a single axis or a collection of the ax
 | _Type_|Optional|VARIANT||
 | _AxisGroup_|Optional|XLAXISGROUP||
 
-### Return value
+## Return value
 
  **Object**
 

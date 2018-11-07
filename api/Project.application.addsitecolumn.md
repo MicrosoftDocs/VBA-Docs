@@ -31,7 +31,7 @@ Adds a column that becomes available for the tasks list in the synchronized Shar
 | _SharePointName_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

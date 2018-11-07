@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState** constant that represents whether to always s
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

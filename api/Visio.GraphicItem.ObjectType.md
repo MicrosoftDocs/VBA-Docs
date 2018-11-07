@@ -26,7 +26,7 @@ Returns  **visObjTypeGraphicItem** , the type of a **GraphicItem** object. Read-
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 
 
-### Return value
+## Return value
 
 VisObjectTypes
 

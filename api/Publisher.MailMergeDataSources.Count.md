@@ -23,7 +23,7 @@ Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSou
  _expression_ A variable that represents a  **MailMergeDataSources** collection.
 
 
-### Return value
+## Return value
 
 Long
 

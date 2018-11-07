@@ -18,7 +18,7 @@ Deletes the specified comment.
  _expression_ A variable that represents a 'Comment' object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

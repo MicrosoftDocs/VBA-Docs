@@ -23,7 +23,7 @@ Rejects the user change, removes the conflict, and accepts the server copy of th
  _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

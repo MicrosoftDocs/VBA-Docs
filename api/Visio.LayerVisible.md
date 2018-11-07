@@ -28,7 +28,7 @@ Gets or sets a value that indicates whether the specified layer is visible in th
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
-### Return value
+## Return value
 
  **Boolean**
 

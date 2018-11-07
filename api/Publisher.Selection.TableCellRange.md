@@ -23,7 +23,7 @@ Returns a  **CellRange** object that represents the cells in a table selection.
  _expression_ A variable that represents a  **Selection** object.
 
 
-### Return value
+## Return value
 
 CellRange
 

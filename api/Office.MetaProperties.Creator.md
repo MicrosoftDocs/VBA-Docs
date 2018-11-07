@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **MetaPropert
  _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

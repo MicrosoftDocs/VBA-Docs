@@ -31,7 +31,7 @@ Counts empty cells in a specified range of cells.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Range**|The range from which you want to count the blank cells.|
 
-### Return value
+## Return value
 
 Double
 

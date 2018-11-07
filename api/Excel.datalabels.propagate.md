@@ -37,7 +37,7 @@ If the source data label supports fields that are incompatible with the destinat
  **Note**  Passing an argument of zero (0) resets the data labels to your current prototype.
 
 
-### Return value
+## Return value
 
  **VOID**
 

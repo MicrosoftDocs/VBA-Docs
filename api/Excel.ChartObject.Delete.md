@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

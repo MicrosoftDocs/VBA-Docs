@@ -36,7 +36,7 @@ Returns the interest rate per period of an annuity. RATE is calculated by iterat
 | _Arg5_|Optional| **Variant**|Type - the number 0 or 1 and indicates when payments are due.|
 | _Arg6_|Optional| **Variant**|Guess - your guess for what the rate will be.|
 
-### Return value
+## Return value
 
 Double
 

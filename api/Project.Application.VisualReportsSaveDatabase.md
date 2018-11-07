@@ -32,7 +32,7 @@ Saves a Visual Reports database to the default directory or to a specified direc
 | _strNamePath_|Optional|**String**|Name and full path of the location to which to save the database file (.mbd).|
 | _PjVisualReportsDataLevel_|Optional|**Long**|Save data level. Can be one of the  **[PjVisualReportsDataLevel](Project.PjVisualReportsDataLevel.md)** constants. Default is **pjLevelAutomatic**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

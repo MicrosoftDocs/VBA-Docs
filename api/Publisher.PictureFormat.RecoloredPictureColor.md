@@ -23,7 +23,7 @@ Returns the color that has been applied to the image represented by the parent  
  _expression_ A variable that represents a  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 ColorFormat
 

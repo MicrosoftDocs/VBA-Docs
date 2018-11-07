@@ -47,7 +47,7 @@ Edits days in a resource calendar.
 | _From5_|Optional|**Variant**|The start time of the fifth shift.|
 | _To5_|Optional|**Variant**|The end time of the fifth shift.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -31,7 +31,7 @@ Adds a new  **Document** object to the **Documents** collection.
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The type or file name of the document to add; if you do not include a path, Visio searches the folder or folders designated in the ** Application** object's **TemplatePaths** property and all published templates, including published third-party templates.|
 
-### Return value
+## Return value
 
 Document
 

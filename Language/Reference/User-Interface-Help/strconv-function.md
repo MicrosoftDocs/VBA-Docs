@@ -1,5 +1,5 @@
 ---
-title: StrConv Function
+title: StrConv function
 keywords: vblr6.chm1011063
 f1_keywords:
 - vblr6.chm1011063
@@ -9,17 +9,15 @@ ms.date: 06/08/2017
 ---
 
 
-# StrConv Function
+# StrConv function
 
-
-
-Returns a  **Variant** (**String**) converted as specified.
+Returns a **Variant** (**String**) converted as specified.
 
 ## Syntax
 
 **StrConv** (**_string, conversion, LCID_**)
-The  **StrConv** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
+The **StrConv** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -27,9 +25,9 @@ The  **StrConv** function syntax has these[named arguments](../../Glossary/vbe-g
 |**_conversion_**|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type). The sum of values specifying the type of conversion to perform.|
 |**_LCID_**|Optional. The LocaleID, if different than the system LocaleID. (The system LocaleID is the default.)|
 
- **Settings**
-The  **_conversion_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
+## Settings
 
+The **_conversion_** [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -46,18 +44,18 @@ The  **_conversion_**[argument](../../Glossary/vbe-glossary.md#argument) setting
 *Applies to East Asia locales.
 **Applies to Japan only.
 
- **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, they may be used anywhere in your code in place of the actual values. Most can be combined, for example, **vbUpperCase + vbWide**, except when they are mutually exclusive, for example, **vbUnicode + vbFromUnicode**. The constants **vbWide**, **vbNarrow**, **vbKatakana**, and **vbHiragana** cause[run-time errors](../../Glossary/vbe-glossary.md#run-time-error) when used in [locales](../../Glossary/vbe-glossary.md#locale) where they do not apply.
+> [!NOTE] 
+> These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, they may be used anywhere in your code in place of the actual values. Most can be combined, for example, **vbUpperCase + vbWide**, except when they are mutually exclusive, for example, **vbUnicode + vbFromUnicode**. The constants **vbWide**, **vbNarrow**, **vbKatakana**, and **vbHiragana** cause [run-time errors](../../Glossary/vbe-glossary.md#run-time-error) when used in [locales](../../Glossary/vbe-glossary.md#locale) where they do not apply.
 
-The following are valid word separators for proper casing: [Null](../../Glossary/vbe-glossary.md#null) (**Chr$(** 0 **)**), horizontal tab (**Chr$(** 9 **)**), linefeed (**Chr$(** 10 **)**), vertical tab (**Chr$(** 11 **)**), form feed (**Chr$(** 12 **)**), carriage return (**Chr$(** 13 **)**), space (SBCS) (**Chr$(** 32 **)**). The actual value for a space varies by country/region for[DBCS](../../Glossary/vbe-glossary.md#dbcs).
+The following are valid word separators for proper casing: [Null](../../Glossary/vbe-glossary.md#null) (**Chr$(** 0 **)**), horizontal tab (**Chr$(** 9 **)**), linefeed (**Chr$(** 10 **)**), vertical tab (**Chr$(** 11 **)**), form feed (**Chr$(** 12 **)**), carriage return (**Chr$(** 13 **)**), space (SBCS) (**Chr$(** 32 **)**). The actual value for a space varies by country/region for [DBCS](../../Glossary/vbe-glossary.md#dbcs).
 
 ## Remarks
 
-When converting from a  **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
+When converting from a **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an assignment statement.
 
 ## Example
 
-This example uses the  **StrConv** function to convert a Unicode string to an ANSI string.
-
+This example uses the **StrConv** function to convert a Unicode string to an ANSI string.
 
 ```vb
 Dim i As Long

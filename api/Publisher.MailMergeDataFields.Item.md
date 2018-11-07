@@ -31,7 +31,7 @@ Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from
 |:-----|:-----|:-----|:-----|
 |varIndex|Required| **Variant**|The number or name of the field to return.|
 
-### Return value
+## Return value
 
 MailMergeDataField
 

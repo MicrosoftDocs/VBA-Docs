@@ -36,7 +36,7 @@ Adds the current media object to the queue and begins resampling, based on the s
 | _AudioSamplingRate_|Optional|**Long**|The audio sampling rate, in bits per second.|
 | _VideoBitRate_|Optional|**Long**|The video bit rate, in bits per second.|
 
-### Return value
+## Return value
 
 Nothing
 

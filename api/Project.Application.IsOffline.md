@@ -20,7 +20,7 @@ Returns  **False** if Project Professional is connected with Project Server.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

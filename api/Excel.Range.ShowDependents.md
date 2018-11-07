@@ -31,7 +31,7 @@ Draws tracer arrows to the direct dependents of the range.
 |:-----|:-----|:-----|:-----|
 | _Remove_|Optional| **Variant**| **True** to remove one level of tracer arrows to direct dependents. **False** to expand one level of tracer arrows. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

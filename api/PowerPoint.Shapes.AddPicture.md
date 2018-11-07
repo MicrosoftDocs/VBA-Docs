@@ -37,7 +37,7 @@ Creates a picture from an existing file. Returns a  **[Shape](PowerPoint.Shape.m
 | _Width_|Optional|**Single**|The width of the picture, measured in points.|
 | _Height_|Optional|**Single**|The height of the picture, measured in points.|
 
-### Return value
+## Return value
 
 Shape
 

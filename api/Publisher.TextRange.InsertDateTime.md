@@ -35,7 +35,7 @@ Returns a  **[TextRange](Publisher.TextRange.md)** object that represents the da
 |Language|Optional| **MsoLanguageID**|The language in which to display the date or time.|
 |Calendar|Optional| **PbCalendarType**|The calendar type to use when displaying the date or time.|
 
-### Return value
+## Return value
 
 TextRange
 

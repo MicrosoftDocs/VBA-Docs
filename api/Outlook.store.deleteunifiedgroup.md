@@ -28,7 +28,7 @@ Enables a unified group to be deleted.
 | **Name**| **Value**| **Description**|
 | _GroupSmtpAddress_|String|Smtp address of the group.|
 
-### Return value
+## Return value
 
 The Smtp address used to delete the group.
 

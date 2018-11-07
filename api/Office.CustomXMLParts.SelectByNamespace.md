@@ -31,7 +31,7 @@ Selects the collection of custom XML parts whose namespace matches the search cr
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Required|**String**|Contains a namespace URI.|
 
-### Return value
+## Return value
 
 CustomXMLParts
 

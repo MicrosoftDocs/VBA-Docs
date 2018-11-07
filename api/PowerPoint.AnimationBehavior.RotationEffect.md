@@ -23,7 +23,7 @@ Returns a  **[RotationEffect](PowerPoint.RotationEffect.md)** object for an anim
  _expression_ A variable that represents an [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 
 
-### Return value
+## Return value
 
 RotationEffect
 

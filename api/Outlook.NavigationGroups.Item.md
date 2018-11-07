@@ -31,7 +31,7 @@ Returns a  **[NavigationGroup](Outlook.NavigationGroup.md)** object from the col
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number of the object.|
 
-### Return value
+## Return value
 
 A  **NavigationGroup** object that represents the specified object.
 

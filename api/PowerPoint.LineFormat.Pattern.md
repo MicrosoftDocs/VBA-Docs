@@ -23,7 +23,7 @@ Sets or returns a value that represents the pattern applied to the specified lin
  _expression_ A variable that represents a [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
-### Return value
+## Return value
 
 [MsoPatternType](./Office.MsoPatternType.md)
 

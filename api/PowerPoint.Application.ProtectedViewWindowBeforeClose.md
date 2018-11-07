@@ -33,7 +33,7 @@ Occurs immediately before a protected view window or a document in a protected v
 | _ProtectedViewCloseReason_|Required|**PpProtectedViewCloseReason**|A constant that specifies the reason the protected view window is closed.|
 | _Cancel_|Required|**Boolean**|**False** when the event occurs. If the event procedure sets this argument to **True**, the window does not close when the procedure is finished.|
 
-### Return value
+## Return value
 
 nothing
 

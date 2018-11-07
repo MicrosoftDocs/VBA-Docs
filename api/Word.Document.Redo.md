@@ -31,7 +31,7 @@ Redoes the last action that was undone (reverses the  **Undo** method). Returns 
 |:-----|:-----|:-----|:-----|
 | _Times_|Optional| **Variant**|The number of actions to be redone.|
 
-### Return value
+## Return value
 
 Boolean
 

@@ -23,7 +23,7 @@ Returns an object's type. Read-only.
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

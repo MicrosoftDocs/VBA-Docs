@@ -23,7 +23,7 @@ Returns an  **[ExtraColors](PowerPoint.ExtraColors.md)** object that represents 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 ExtraColors
 

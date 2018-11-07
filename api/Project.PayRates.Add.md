@@ -31,7 +31,7 @@ Adds a  **PayRate** object to a **PayRates** collection.
 | _OvtRate_|Optional|**Variant**|The new overtime rate. If not specified, the rate is the same as for the previous date period.|
 | _CostPerUse_|Optional|**Variant**|The new cost per use. If not specified, the rate is the same as for the previous date period.|
 
-### Return value
+## Return value
 
  **PayRate**
 

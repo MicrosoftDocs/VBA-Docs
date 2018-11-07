@@ -36,7 +36,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 | _ItemData_|Optional|**Variant**|Non- displaying item binding data|
 | _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the PickerResult. It is used for passing column values in the Picker Dialog.|
 
-### Return value
+## Return value
 
 PickerResult
 

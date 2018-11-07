@@ -31,7 +31,7 @@ Returns a custom list (an array of strings).
 |:-----|:-----|:-----|:-----|
 | _ListNum_|Required| **Long**|The list number.|
 
-### Return value
+## Return value
 
 Variant
 

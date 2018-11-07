@@ -32,7 +32,7 @@ Converts a decimal number to binary.
 | _Arg1_|Required| **Variant**|Number - the decimal integer you want to convert. If number is negative, valid place values are ignored and DEC2BIN returns a 10-character (10-bit) binary number in which the most significant bit is the sign bit. The remaining 9 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
 | _Arg2_|Optional| **Variant**|Places - the number of characters to use. If places is omitted, DEC2BIN uses the minimum number of characters necessary. Places is useful for padding the return value with leading 0s (zeros).|
 
-### Return value
+## Return value
 
 String
 

@@ -23,7 +23,7 @@ Gets the ordinal position of a  **MenuItem** object in the **MenuItems** collect
  _expression_ A variable that represents a [MenuItem](./Visio.MenuItem.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

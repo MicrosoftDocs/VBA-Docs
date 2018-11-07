@@ -32,7 +32,7 @@ Collapses the specified range to its start position or end position and then mov
 |Unit|Required| **PbTextUnit**|The unit by which the collapsed range or selection is to be moved.|
 |Size|Required| **Long**|The number of units by which the specified range or selection is to be moved. If  **Size** is a positive number, the object is collapsed to its end position and moved forward in the document by the specified number of units. If **Size** is a negative number, the object is collapsed to its start position and moved backward by the specified number of units. You can also control the collapse direction by using the **Collapse** method before using the **Move** method.|
 
-### Return value
+## Return value
 
 Long
 

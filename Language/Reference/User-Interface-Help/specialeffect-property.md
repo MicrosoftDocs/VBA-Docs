@@ -30,7 +30,7 @@ The  **SpecialEffect** property syntax has these parts:
 | _fmButtonEffect_|Optional. The desired visual appearance for a  **CheckBox**, **OptionButton**, or **ToggleButton**.|
 | _fmSpecialEffect_|Optional. The desired visual appearance of an object other than a  **CheckBox**, **OptionButton**, or **ToggleButton**.|
 
- **Settings**
+## Settings
 The settings for  _fmSpecialEffect_ are:
 
 

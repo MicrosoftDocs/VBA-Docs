@@ -31,7 +31,7 @@ Returns the hyperbolic tangent of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Number - any real number.|
 
-### Return value
+## Return value
 
 Double
 

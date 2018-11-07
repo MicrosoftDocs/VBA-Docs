@@ -31,7 +31,7 @@ Returns a single  **PublishObject** object from the specified **PublishObjects**
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **PublishObject** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 PublishObject
 

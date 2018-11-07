@@ -32,7 +32,7 @@ Returns the sum of the difference of squares of corresponding values in two arra
 | _Arg1_|Required| **Variant**|Array_x - the first array or range of values.|
 | _Arg2_|Required| **Variant**|Array_y - the second array or range of values.|
 
-### Return value
+## Return value
 
 Double
 

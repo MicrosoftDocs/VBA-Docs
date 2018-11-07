@@ -32,7 +32,7 @@ Creates a data table based on input values and formulas that you define on a wor
 | _RowInput_|Optional| **Variant**|A single cell to use as the row input for your table.|
 | _ColumnInput_|Optional| **Variant**|A single cell to use as the column input for your table.|
 
-### Return value
+## Return value
 
 Variant
 

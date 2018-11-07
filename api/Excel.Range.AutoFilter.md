@@ -32,7 +32,7 @@ _expression_ An expression that returns a **[Range](Excel.Range(object).md)** ob
 | _SubField_|Optional| **Variant**|The Field from a data type on which to apply the Criteria (for example, the "Population" field from Geography or "Volume" field from Stocks). Omitting this value targets the "(Display Value)".|
 | _VisibleDropDown_|Optional| **Variant**| **True** to display the AutoFilter drop-down arrow for the filtered field. **False** to hide the AutoFilter drop-down arrow for the filtered field. **True** by default.|
 
-### Return value
+## Return value
 
 Variant
 

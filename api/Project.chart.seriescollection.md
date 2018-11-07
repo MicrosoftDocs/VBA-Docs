@@ -28,7 +28,7 @@ Returns an object that represents either one series (a  **[Series](Project.serie
 | _Index_|Optional|**Variant**|The name or index number of the series. If  _Index_ is not specified, the **SeriesCollection** method returns all of the series in the chart.|
 | _Index_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Object**
 

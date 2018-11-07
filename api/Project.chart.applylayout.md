@@ -30,7 +30,7 @@ Applies the specified chart layout and chart type to a selected chart.
 | _Layout_|Required|INT32||
 | _varChartType_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

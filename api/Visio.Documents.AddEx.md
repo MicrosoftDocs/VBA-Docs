@@ -34,7 +34,7 @@ Adds a new stencil or drawing to the  **Documents** collection, while permitting
 | _Flags_|Optional| **Long**|Flags that indicate how to open the new document. See Remarks for possible values.|
 | _LangID_|Optional| **Long**|The language ID for the document. See Remarks.|
 
-### Return value
+## Return value
 
 Document
 

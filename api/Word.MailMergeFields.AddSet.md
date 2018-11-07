@@ -34,7 +34,7 @@ Adds a SET field to a mail merge main document. Returns a  **MailMergeField** ob
 | _ValueText_|Optional| **Variant**|The text associated with the bookmark specified by the Name argument.|
 | _ValueAutoText_|Optional| **Variant**|The AutoText entry that includes text associated with the bookmark specified by the Name argument. If this argument is specified, ValueText is ignored.|
 
-### Return value
+## Return value
 
 MailMergeField
 

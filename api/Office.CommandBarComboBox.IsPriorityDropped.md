@@ -23,7 +23,7 @@ Gets  **True** if the control is currently dropped from the menu or toolbar base
  _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

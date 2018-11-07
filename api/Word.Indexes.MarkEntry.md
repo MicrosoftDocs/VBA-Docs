@@ -39,7 +39,7 @@ Inserts an XE (Index Entry) field after the specified range. The method returns 
 | _Italic_|Optional| **Variant**| **True** to add italic formatting to the entry page numbers in the index.|
 | _Reading_|Optional| **Variant**| **True** shows an index entry in the right location when indexes are sorted phonetically (East Asian languages only).|
 
-### Return value
+## Return value
 
 Field
 

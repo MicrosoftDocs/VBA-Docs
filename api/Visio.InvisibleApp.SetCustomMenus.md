@@ -31,7 +31,7 @@ Replaces the current built-in or custom menus of an application or document.
 |:-----|:-----|:-----|:-----|
 | _MenusObject_|Required| **[IVUIOBJECT]**|An expression that returns a  **UIObject** object that represents the new custom menus.|
 
-### Return value
+## Return value
 
 Nothing
 

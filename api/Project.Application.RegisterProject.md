@@ -31,7 +31,7 @@ Registers the active project on Project Server.
 |:-----|:-----|:-----|:-----|
 | _WaitForCompletion_|Required|**Boolean**|**True** if Project waits until the registration is complete before returning notification that the operation was successful or returning an error code if the operation failed. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Long**
 

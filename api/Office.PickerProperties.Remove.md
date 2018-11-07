@@ -31,7 +31,7 @@ Removes a PickerProperty from the collection.
 |:-----|:-----|:-----|:-----|
 | _Id_|Required|**String**|The identifier of the PickerProperty to remove.|
 
-### Return value
+## Return value
 
 Nothing
 

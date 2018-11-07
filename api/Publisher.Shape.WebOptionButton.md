@@ -23,7 +23,7 @@ Returns the  **[WebOptionButton](Publisher.WebOptionButton.md)** object associat
  _expression_ A variable that represents a  **Shape** object.
 
 
-### Return value
+## Return value
 
 WebOptionButton
 

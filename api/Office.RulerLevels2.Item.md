@@ -28,7 +28,7 @@ Gets a member of the  **RulerLevels2** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The index number of the object to be returned.|
 
-### Return value
+## Return value
 
 RulerLevel2
 

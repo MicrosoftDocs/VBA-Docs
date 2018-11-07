@@ -20,7 +20,7 @@ Determines whether the application wraps the Latin text in the middle of a word 
  _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

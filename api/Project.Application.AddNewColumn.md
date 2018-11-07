@@ -31,7 +31,7 @@ Adds a new column in a specified position, in views where columns can be added.
 |:-----|:-----|:-----|:-----|
 | _Column_|Optional|**Variant**|Specifies the absolute column location. A value of 0 adds a column in the left-most position.|
 
-### Return value
+## Return value
 
  **Boolean**
 

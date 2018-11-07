@@ -23,7 +23,7 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBarB
  _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

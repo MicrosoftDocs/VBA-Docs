@@ -32,7 +32,7 @@ Occurs when a new chart is created in any open workbook.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Ch_|Required| **[Chart](Excel.Chart(object).md)**|The new chart.|
 
-### Return value
+## Return value
 
 Nothing
 

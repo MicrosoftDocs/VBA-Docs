@@ -23,7 +23,7 @@ Returns a  **Sections** object representing a collection of **Section** objects 
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 Sections
 

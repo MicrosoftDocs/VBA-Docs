@@ -32,7 +32,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 | _Edition_|Required| **String**|See help included with Microsoft Office Macintosh Edition.|
 | _Format_|Optional| **XlSubscribeToFormat**|See help included with Microsoft Office Macintosh Edition.|
 
-### Return value
+## Return value
 
 Variant
 

@@ -23,7 +23,7 @@ Returns the slide number. Read-only.
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

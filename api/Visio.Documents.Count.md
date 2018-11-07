@@ -23,7 +23,7 @@ Returns the number of objects in a collection. Read-only.
  _expression_ A variable that represents a [Documents](./Visio.Documents.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

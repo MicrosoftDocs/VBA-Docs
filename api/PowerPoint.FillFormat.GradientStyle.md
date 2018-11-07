@@ -23,7 +23,7 @@ Returns the gradient style for the specified fill. Read-only.
  _expression_ A variable that represents a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoGradientStyle
 

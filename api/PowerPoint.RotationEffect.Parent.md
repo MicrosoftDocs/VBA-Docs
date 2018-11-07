@@ -23,7 +23,7 @@ Returns the parent object for the specified object.
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

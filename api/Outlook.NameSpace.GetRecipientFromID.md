@@ -31,7 +31,7 @@ Returns the  **[Recipient](Outlook.Recipient.md)** object that is identified by 
 |:-----|:-----|:-----|:-----|
 | _EntryID_|Required| **String**|The  **[EntryID](Outlook.Recipient.EntryID.md)** of the recipient.|
 
-### Return value
+## Return value
 
 A  **Recipient** object that represents the specified recipient.
 

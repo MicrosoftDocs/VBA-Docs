@@ -31,7 +31,7 @@ Returns the width of the shape or shape range as a  **Single** in the specified 
 |:-----|:-----|:-----|:-----|
 |Unit|Required| **PbUnitType**|The units in which to return the width.|
 
-### Return value
+## Return value
 
 Single
 

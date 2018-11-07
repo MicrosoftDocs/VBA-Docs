@@ -23,7 +23,7 @@ Determines whether the selected background or border is applied to all pages in 
  _expression_ A variable that represents an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -30,7 +30,7 @@ _expression_ An expression that returns an **[ApplicationSettings](Visio.Applica
 
 <br/>
 
-### Return value
+## Return value
 
 Nothing
 

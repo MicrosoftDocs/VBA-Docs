@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 
 
-### Return value
+## Return value
 
  **[VisStatCodes](Visio.visstatcodes.md)**
 

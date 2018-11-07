@@ -1,5 +1,5 @@
 ---
-title: CanUndo Property
+title: CanUndo property
 keywords: fm20.chm5225016
 f1_keywords:
 - fm20.chm5225016
@@ -11,25 +11,23 @@ ms.date: 06/08/2017
 ---
 
 
-# CanUndo Property
-
-
+# CanUndo property
 
 Indicates whether the last user action can be undone.
 
 ## Syntax
 
 _object_. **CanUndo**
-The  **CanUndo** property syntax has these parts:
 
+The  **CanUndo** property syntax has these parts:
 
 |**Part**|**Description**|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
- **Return Values**
-The  **CanUndo** property return values are:
+## Return values
 
+The **CanUndo** property return values are:
 
 |**Value**|**Description**|
 |:-----|:-----|
@@ -39,5 +37,6 @@ The  **CanUndo** property return values are:
 ## Remarks
 
 **CanUndo** is read-only.
-Many user actions can be undone with the Undo command. The  **CanUndo** property indicates whether the most recent action can be undone.
+
+Many user actions can be undone with the Undo command. The **CanUndo** property indicates whether the most recent action can be undone.
 

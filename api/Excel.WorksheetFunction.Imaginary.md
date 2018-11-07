@@ -31,7 +31,7 @@ Returns the imaginary coefficient of a complex number in x + yi or x + yj text f
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the imaginary coefficient.|
 
-### Return value
+## Return value
 
 Double
 

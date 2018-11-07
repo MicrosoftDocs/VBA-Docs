@@ -23,7 +23,7 @@ Returns or sets a  **Long** that represents the active mail merge record. Read/w
  _expression_ A variable that represents a  **MailMergeDataSource** object.
 
 
-### Return value
+## Return value
 
 Long
 

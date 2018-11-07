@@ -31,7 +31,7 @@ Adds a vertical page break.
 |:-----|:-----|:-----|:-----|
 | _Before_|Required| **Object**|A  **[Range](Excel.Range(object).md)** object. The range to the left of which the new page break will be added.|
 
-### Return value
+## Return value
 
 A  **[VPageBreak](Excel.VPageBreak.md)** object that represents the new vertical page break.
 

@@ -31,7 +31,7 @@ Deletes a ShapeSheet section.
 |:-----|:-----|:-----|:-----|
 | _Section_|Required| **Integer**|The index of the section to delete.|
 
-### Return value
+## Return value
 
 Nothing
 

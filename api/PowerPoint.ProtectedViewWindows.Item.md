@@ -31,7 +31,7 @@ Returns a single  **ProtectedViewWindow** object from the specified **ProtectedV
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the single  **ProtectedViewWindow** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 ProtectedViewWindow
 

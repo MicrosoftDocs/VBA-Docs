@@ -23,7 +23,7 @@ Returns or sets a  **MsoPresetLightingSoftness** constant that represents the in
  _expression_ A variable that represents a  **ThreeDFormat** object.
 
 
-### Return value
+## Return value
 
 MsoPresetLightingSoftness
 

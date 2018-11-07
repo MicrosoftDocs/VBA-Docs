@@ -19,7 +19,7 @@ An error is returned if the shape range does not contain any ink XML.
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

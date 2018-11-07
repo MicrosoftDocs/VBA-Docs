@@ -18,7 +18,7 @@ Returns the numbers contained in a string as a numeric value of appropriate type
 ## Syntax
 
 **Val(**_string_**)**
-The required  _string_[argument](../../Glossary/vbe-glossary.md#argument) is any valid[string expression](../../Glossary/vbe-glossary.md#string-expression).
+The required  _string_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid[string expression](../../Glossary/vbe-glossary.md#string-expression).
 
 ## Remarks
 

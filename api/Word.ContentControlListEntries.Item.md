@@ -31,7 +31,7 @@ Returns a  **ContentControlListEntry** object that represents the specified item
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|Specifies the ordinal position of the object within the collection.|
 
-### Return value
+## Return value
 
 ContentControlListEntry
 

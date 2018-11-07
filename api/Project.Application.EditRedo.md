@@ -31,7 +31,7 @@ Redoes the top item on the redo stack.
 |:-----|:-----|:-----|:-----|
 | _fRedo_|Optional|**Integer**|Specifies the number of items to redo. If the total number of items on the redo stack is less than fRedo,  **EditRedo** redoes all items.|
 
-### Return value
+## Return value
 
  **Boolean**
 

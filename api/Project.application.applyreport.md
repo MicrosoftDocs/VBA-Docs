@@ -30,7 +30,7 @@ Displays the specified report.
 | _Name_|Optional|VARIANT||
 | _ApplyTo_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -26,7 +26,7 @@ Specifies the name that appears for the data column on the tab of the parent dat
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 
 
-### Return value
+## Return value
 
 String
 

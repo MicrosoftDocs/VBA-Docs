@@ -23,7 +23,7 @@ Returns a  **[Folders](Outlook.Folders.md)** collection object that represents t
  _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
-### Return value
+## Return value
 
 A  **Folders** collection object that represents all the search folders for the **Store** object.
 

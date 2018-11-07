@@ -26,7 +26,7 @@ The  **BackStyle** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmBackStyle_|Optional. Specifies the control background.|
 
- **Settings**
+## Settings
 The settings for  _fmBackStyle_ are:
 
 

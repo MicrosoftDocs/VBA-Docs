@@ -32,7 +32,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 | _pDisp_|Required|**Object**| pointer to the **IDispatch** interface of the window or frame in which the document is loaded.|
 | _URL_|Required|**Variant**|Contains the URL of the loaded document.|
 
-### Return value
+## Return value
 
 nothing
 

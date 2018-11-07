@@ -1,5 +1,5 @@
 ---
-title: Sgn Function
+title: Sgn function
 keywords: vblr6.chm1009021
 f1_keywords:
 - vblr6.chm1009021
@@ -9,18 +9,17 @@ ms.date: 06/08/2017
 ---
 
 
-# Sgn Function
+# Sgn function
 
-
-
-Returns a  **Variant** (**Integer**) indicating the sign of a number.
+Returns a **Variant** (**Integer**) indicating the sign of a number.
 
 ## Syntax
 
 **Sgn(**_number_**)**
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) can be any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
- **Return Values**
 
+The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+
+## Return values
 
 |**If  _number_ is**|**Sgn returns**|
 |:-----|:-----|
@@ -30,12 +29,11 @@ The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) can be
 
 ## Remarks
 
-The sign of the  _number_ argument determines the return value of the **Sgn** function.
+The sign of the _number_ argument determines the return value of the **Sgn** function.
 
 ## Example
 
-This example uses the  **Sgn** function to determine the sign of a number.
-
+This example uses the **Sgn** function to determine the sign of a number.
 
 ```vb
 Dim MyVar1, MyVar2, MyVar3, MySign

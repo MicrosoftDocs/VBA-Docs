@@ -29,7 +29,7 @@ Scales the width of the range of shapes by a specified factor.
 | _RelativeToOriginalSize_|Required|MSOTRISTATE||
 | _fScale_|Optional|MSOSCALEFROM||
 
-### Return value
+## Return value
 
  **Nothing**
 

@@ -31,7 +31,7 @@ Changes the password of the  **ProtectedViewWindow** object.
 |:-----|:-----|:-----|:-----|
 | _ModifyPassword_|Optional|**String**|The new password to change to.|
 
-### Return value
+## Return value
 
 Presentation
 

@@ -33,7 +33,7 @@ Checks in the active project file if it is stored in a SharePoint library.
 | _Comments_|Optional|**String**| Allows the user to enter check-in comments for the revision of the project being checked in (applies only if fSaveChanges equals **True**).|
 | _fMakePublic_|Optional|**Boolean**|**True** allows the user to publish the project after it has been checked in. This submits the project for the approval process, which can eventually result in a version of the project being published to users with read-only rights to the project (applies only if fSaveChanges equals **True**).|
 
-### Return value
+## Return value
 
  **Boolean**
 

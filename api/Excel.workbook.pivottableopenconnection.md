@@ -31,7 +31,7 @@ Occurs after a PivotTable report opens the connection to its data source.
 | _Target_|Required|PIVOTTABLE||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
 Nothing
 

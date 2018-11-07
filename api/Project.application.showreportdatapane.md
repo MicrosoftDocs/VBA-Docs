@@ -27,7 +27,7 @@ Shows or hides the report data pane, when a chart shape or table shape is select
 |:-----|:-----|:-----|:-----|
 | _Show_|Optional|**Boolean**|**True** to show the report data pane; **False** to hide the data pane. When the _Show_ parameter is missing, **ShowReportDataPane** toggles the report data pane between visible and not visible.|
 
-### Return value
+## Return value
 
  **Boolean**
 

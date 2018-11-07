@@ -18,7 +18,7 @@ Used with the  **Print #** statement or the **Print** method to position output.
 ## Syntax
 
 **Tab** [ **(**_n_**)** ]
-The optional  _n_[argument](../../Glossary/vbe-glossary.md#argument) is the column number moved to before displaying or printing the next[expression](../../Glossary/vbe-glossary.md#expression) in a list. If omitted, **Tab** moves the insertion point to the beginning of the next[print zone](../../Glossary/vbe-glossary.md#print-zone). This allows  **Tab** to be used instead of a comma in [locales](../../Glossary/vbe-glossary.md#locale) where the comma is used as a decimal separator.
+The optional  _n_ [argument](../../Glossary/vbe-glossary.md#argument) is the column number moved to before displaying or printing the next[expression](../../Glossary/vbe-glossary.md#expression) in a list. If omitted, **Tab** moves the insertion point to the beginning of the next[print zone](../../Glossary/vbe-glossary.md#print-zone). This allows  **Tab** to be used instead of a comma in [locales](../../Glossary/vbe-glossary.md#locale) where the comma is used as a decimal separator.
 
 ## Remarks
 

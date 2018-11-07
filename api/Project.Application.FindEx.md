@@ -55,7 +55,7 @@ _expression_ An expression that returns an **Application** object.
 |"contains exactly"|_Field_ contains exactly _Value_.|
 
 
-### Return value
+## Return value
 
  **Boolean**
 

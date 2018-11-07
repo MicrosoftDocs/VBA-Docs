@@ -23,7 +23,7 @@ Returns a  **Research** object that provides access to the research service feat
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 Research
 

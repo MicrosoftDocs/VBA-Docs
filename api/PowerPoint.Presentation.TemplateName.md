@@ -23,7 +23,7 @@ Returns the name of the design template associated with the specified presentati
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
 String
 

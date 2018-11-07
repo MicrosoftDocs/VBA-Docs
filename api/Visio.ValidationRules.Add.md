@@ -31,7 +31,7 @@ Adds a new, empty  **[ValidationRule](Visio.ValidationRule.md)** object to the *
 |:-----|:-----|:-----|:-----|
 | _NameU_|Required| **String**|The universal name to assign to the new validation rule.|
 
-### Return value
+## Return value
 
  **ValidationRule**
 

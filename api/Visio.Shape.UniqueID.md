@@ -31,7 +31,7 @@ Gets, deletes, or makes the GUID that uniquely identifies the shape within the s
 |:-----|:-----|:-----|:-----|
 | _fUniqueID_|Required| **Integer**|Gets, deletes, or makes the unique ID of a  **Shape** object. See Remarks for possible values.|
 
-### Return value
+## Return value
 
 String
 

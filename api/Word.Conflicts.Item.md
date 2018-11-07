@@ -31,7 +31,7 @@ Returns an individual  **Conflicts** object in a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The individual object to be returned.|
 
-### Return value
+## Return value
 
 Conflict
 

@@ -20,7 +20,7 @@ Returns global Project settings in a single XML string. You can obtain settings 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **String**
 

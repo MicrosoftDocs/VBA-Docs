@@ -38,7 +38,7 @@ Formats the text of calendar views for printing.
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
 | _Color_|Optional|**Long**|The color of the text. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

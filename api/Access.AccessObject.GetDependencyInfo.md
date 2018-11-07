@@ -23,7 +23,7 @@ _expression_. `GetDependencyInfo`
 _expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
 
 
-### Return value
+## Return value
 
 DependencyInfo
 

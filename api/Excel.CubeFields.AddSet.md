@@ -32,7 +32,7 @@ Adds a new  **[CubeField](Excel.CubeField.md)** object to the **[CubeFields](Exc
 | _Name_|Required| **String**|A valid name in the SETS schema rowset.|
 | _Caption_|Required| **String**|A string representing the field that will be displayed in the PivotTable view.|
 
-### Return value
+## Return value
 
 CubeField
 

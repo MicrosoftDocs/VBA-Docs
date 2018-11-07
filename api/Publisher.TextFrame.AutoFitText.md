@@ -23,7 +23,7 @@ Sets or returns a  **PbTextAutoFitType**constant that represents how Microsoft P
  _expression_ A variable that represents a  **TextFrame** object.
 
 
-### Return value
+## Return value
 
 PbTextAutoFitType
 

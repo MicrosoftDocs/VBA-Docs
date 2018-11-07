@@ -20,7 +20,7 @@ Gets a value that indicates whether a document is loaded in Microsoft Visio View
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

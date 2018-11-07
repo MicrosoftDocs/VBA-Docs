@@ -31,7 +31,7 @@ Returns a  **Cell** object that represents a ShapeSheet cell in a row in the Lay
 |:-----|:-----|:-----|:-----|
 | _Column_|Required| **Integer**|The cell index of the cell to get.|
 
-### Return value
+## Return value
 
 Cell
 

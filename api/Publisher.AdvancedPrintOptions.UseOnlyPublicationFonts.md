@@ -23,7 +23,7 @@ Returns or sets a  **Boolean** that represents whether to only use publication f
  _expression_ A variable that represents an  **AdvancedPrintOptions** object.
 
 
-### Return value
+## Return value
 
 Boolean
 

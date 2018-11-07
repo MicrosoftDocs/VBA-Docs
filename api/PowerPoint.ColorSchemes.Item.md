@@ -31,7 +31,7 @@ Returns a single  **ColorScheme** object from the specified **ColorSchemes** col
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **ColorScheme** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 ColorScheme
 

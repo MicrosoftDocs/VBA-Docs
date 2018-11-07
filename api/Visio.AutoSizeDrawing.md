@@ -23,7 +23,7 @@ Automatically resizes the drawing page by adding as many printer-paper-sized til
  _expression_ An expression that returns a '[Page](Visio.Page.md)' object.
 
 
-### Return value
+## Return value
 
 Nothing
 

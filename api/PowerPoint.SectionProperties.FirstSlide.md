@@ -31,7 +31,7 @@ Returns the index of the first slide in the specified section, or returns -1 if 
 |:-----|:-----|:-----|:-----|
 | _sectionIndex_|Required|**Integer**|The index of the section.|
 
-### Return value
+## Return value
 
 Integer
 

@@ -35,7 +35,7 @@ Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new com
 | _AuthorInitials_|Required|**String**|The author's initials.|
 | _Text_|Required|**String**|The comment's text.|
 
-### Return value
+## Return value
 
 Comment
 

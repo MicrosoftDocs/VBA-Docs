@@ -17,7 +17,7 @@ Concludes input/output (I/O) to a file opened using the  **Open** statement.
 
 **Close** [ _filenumberlist_ ]
 
-The optional  _filenumberlist_[argument](../../Glossary/vbe-glossary.md#argument) can be one or more[file numbers](../../Glossary/vbe-glossary.md#file-number) using the following syntax, where _filenumber_ is any valid file number:
+The optional  _filenumberlist_ [argument](../../Glossary/vbe-glossary.md#argument) can be one or more[file numbers](../../Glossary/vbe-glossary.md#file-number) using the following syntax, where _filenumber_ is any valid file number:
 [[ **#** ] _filenumber_ ] [ **,** [ **#** ] _filenumber_ ] **. . .**
 
 ## Remarks

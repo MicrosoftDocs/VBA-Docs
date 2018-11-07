@@ -23,7 +23,7 @@ Determines whether the specified font can be embedded in the presentation. Read-
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

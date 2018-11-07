@@ -36,7 +36,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 | _DataRowID_|Required| **Long**|The ID of a data row in the data recordset specified in DataRecordsetID.|
 | _ShapeIDs()_|Required| **Long**|Out parameter. An array of type  **Long** that the method will return filled with the shape IDs of shapes on the page linked to the data row specified in DataRowID in the data recordset specified in DataRecordsetID.|
 
-### Return value
+## Return value
 
 Nothing
 

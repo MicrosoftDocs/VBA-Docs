@@ -30,7 +30,7 @@ Adds a  **Table** object to a **Tables** collection.
 | _Field_|Required|**Long**|The name of the field. Can be one of the  **[PjField](Project.PjField.md)** constants.|
 | _Task_|Optional|**Boolean**|**True** if the table being added is a task table. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Table**
 

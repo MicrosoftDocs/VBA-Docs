@@ -27,7 +27,7 @@ The  **Style** property syntax has these parts:
 | _fmStyle_|Optional. Specifies how a user sets the value of a  **ComboBox**.|
 | _fmTabStyle_|Optional. Specifies the tab style in a  **MultiPage** or **TabStrip**.|
 
- **Settings**
+## Settings
 The settings for  _fmStyle_ are:
 
 

@@ -35,7 +35,7 @@ Adds a new  **[Shape](Publisher.Shape.md)** object representing a text label to 
 |Width|Required| **Variant**|The width of the shape representing the text label.|
 |Height|Required| **Variant**|The height of the shape representing the text label.|
 
-### Return value
+## Return value
 
 Shape
 

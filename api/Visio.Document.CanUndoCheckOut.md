@@ -23,7 +23,7 @@ Determines whether a Microsoft Visio document is checked out from a Microsoft Sh
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

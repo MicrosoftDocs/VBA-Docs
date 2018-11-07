@@ -26,7 +26,7 @@ Returns a  **ShapeRange** object that represents a subset of shapes in the **Sha
 | _Index_|Required|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **ShapeRange**
 

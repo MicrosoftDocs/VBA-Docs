@@ -31,7 +31,7 @@ Gets the  **DocumentInspector** object specified by the index. Read-only.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the object. |
 
-### Return value
+## Return value
 
 DocumentInspector
 

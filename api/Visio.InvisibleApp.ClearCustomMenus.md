@@ -23,7 +23,7 @@ Restores the built-in Microsoft Visio user interface.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

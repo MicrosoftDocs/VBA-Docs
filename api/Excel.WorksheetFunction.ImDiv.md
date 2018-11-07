@@ -32,7 +32,7 @@ Returns the quotient of two complex numbers in x + yi or x + yj text format.
 | _Arg1_|Required| **Variant**|Inumber1 - the complex numerator or dividend.|
 | _Arg2_|Required| **Variant**|Inumber2 - the complex denominator or divisor.|
 
-### Return value
+## Return value
 
 String
 

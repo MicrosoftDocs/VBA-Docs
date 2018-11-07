@@ -31,7 +31,7 @@ Returns the specified  **MediaBookmark**.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**[INT]**|The position of the  **MediaBookmark**.|
 
-### Return value
+## Return value
 
 MediaBookmark
 

@@ -31,7 +31,7 @@ Returns the inverse hyperbolic cosine of a number. Number must be greater than o
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number equal to or greater than 1.|
 
-### Return value
+## Return value
 
 Double
 

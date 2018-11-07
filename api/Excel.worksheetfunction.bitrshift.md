@@ -30,7 +30,7 @@ Returns a value number shifted right by shift_amount bits.
 | _Arg1_|Required|DOUBLE|The decimal representation of the binary number you want to evaluate.|
 | _Arg2_|Required|DOUBLE|The number of bits that you want to shift Arg1 right by.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

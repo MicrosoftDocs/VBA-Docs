@@ -18,7 +18,7 @@ Returns a  **Boolean** value indicating whether a [variable](../../Glossary/vbe-
 ## Syntax
 
 **IsArray(**_varname_**)**
-The required  _varname_[argument](../../Glossary/vbe-glossary.md#argument) is an [identifier](../../Glossary/vbe-glossary.md#identifier) specifying a variable.
+The required  _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is an [identifier](../../Glossary/vbe-glossary.md#identifier) specifying a variable.
 
 ## Remarks
 

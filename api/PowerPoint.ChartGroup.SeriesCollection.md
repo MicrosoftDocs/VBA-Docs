@@ -20,7 +20,7 @@ Returns all the series in the chart group.
  _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
-### Return value
+## Return value
 
 A  **[SeriesCollection](PowerPoint.SeriesCollection.md)** object that represents all the series in the chart group.
 

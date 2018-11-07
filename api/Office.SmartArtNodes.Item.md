@@ -28,7 +28,7 @@ Retrieves a  **SmartArtNode** object at the specified index or with the specifie
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Specifies either an integer representing the index or a string representing the location of the  **SmartArtNode** object.|
 
-### Return value
+## Return value
 
 SmartArtNode
 

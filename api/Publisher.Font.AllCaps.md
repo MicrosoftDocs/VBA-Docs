@@ -23,7 +23,7 @@ Returns or sets  **msoTrue** if the font is formatted as all capital letters, or
  _expression_ A variable that represents a  **Font** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

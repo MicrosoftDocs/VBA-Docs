@@ -21,7 +21,7 @@ Begins playback for the specified media.
  _expression_ A variable that represents a [Player](./PowerPoint.Player.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

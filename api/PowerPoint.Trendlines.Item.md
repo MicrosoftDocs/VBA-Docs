@@ -28,7 +28,7 @@ Returns a single object from a collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The index number for the object.|
 
-### Return value
+## Return value
 
 A  **[Trendline](PowerPoint.Trendline.md)** object that the collection contains.
 

@@ -37,7 +37,7 @@ Specifies a research query.
 | _NewQueryContextXML_|Optional| **Variant**|Specifies the XML file containing the new query content.|
 | _LaunchQuery_|Optional| **Boolean**| **True** launches the query. False displays the **Research** task pane scoped to search the specified research service.|
 
-### Return value
+## Return value
 
 Variant
 

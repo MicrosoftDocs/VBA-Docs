@@ -33,7 +33,7 @@ Moves the start date of one or more selected tasks the specified number of days.
 | _IsWorkingDuration_|Optional|**Variant**|**True** if the number of days specified by _MoveDays_ is only for working days. **False** if the number of days specified by _MoveDays_ includes both working and nonworking days. The default is **True**.|
 | _MoveDays_|Optional|**Integer**|Specifies the number of days to move the selected tasks. The default value is 1.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

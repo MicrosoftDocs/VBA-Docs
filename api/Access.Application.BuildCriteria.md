@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _FieldType_|Required|**Integer**|An intrinsic constant denoting the data type of the field. Can be set to one of the DAO **DataTypeEnum** values.|
 | _Expression_|Required|**String**|A string expression identifying the criteria to be parsed.|
 
-### Return value
+## Return value
 
 String
 

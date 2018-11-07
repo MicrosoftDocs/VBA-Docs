@@ -45,7 +45,7 @@ Modifies the properties and formatting of a chart.
 | _varValueTitle_|Optional|VARIANT||
 | _varExtraTitle_|Optional|VARIANT||
 
-### Return value
+## Return value
 
  **Nothing**
 

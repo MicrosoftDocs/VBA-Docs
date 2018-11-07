@@ -39,7 +39,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 |
 
-### Return value
+## Return value
 
 Variant
 

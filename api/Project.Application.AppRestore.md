@@ -23,7 +23,7 @@ Restores the main window to its previous nonminimized or nonmaximized state.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

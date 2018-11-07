@@ -23,7 +23,7 @@ Gets or sets the current display size (magnification factor) for a page in a win
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Double
 

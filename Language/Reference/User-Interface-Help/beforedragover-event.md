@@ -38,7 +38,7 @@ The  **BeforeDragOver** event syntax has these parts:
 | _Effect_|Required. Operations supported by the [drop source](../../Glossary/glossary-vba.md#drop-source).|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
 
- **Settings**
+## Settings
 The settings for  _DragState_ are:
 
 

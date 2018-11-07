@@ -31,7 +31,7 @@ Occurs when the project opens, but before the  **Activate** event.
 |:-----|:-----|:-----|:-----|
 | _pj_|Required|**Project**|The project that was opened.|
 
-### Return value
+## Return value
 
 nothing
 

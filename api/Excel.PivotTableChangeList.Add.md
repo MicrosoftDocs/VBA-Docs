@@ -35,7 +35,7 @@ Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[Pivot
 | _AllocationMethod_|Optional| **Variant**|The method to use to allocate this value when performing what-if analysis. If this parameter is not supplied, the default allocation method of the OLAP server will be used.|
 | _AllocationWeightExpression_|Optional| **Variant**|The MDX weight expression to use for this value when performing what-if analysis. If this parameter is not supplied, the default allocation weight expression of the OLAP server will be used.|
 
-### Return value
+## Return value
 
 ValueChange
 

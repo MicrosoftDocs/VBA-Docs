@@ -23,7 +23,7 @@ Specifies the name of an object. Read-only.
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 
 
-### Return value
+## Return value
 
 String
 

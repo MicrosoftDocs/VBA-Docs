@@ -33,7 +33,7 @@ Returns the bond-equivalent yield for a Treasury bill.
 | _Arg2_|Required| **Variant**|Maturity - the Treasury bill's maturity date. The maturity date is the date when the Treasury bill expires.|
 | _Arg3_|Optional| **Variant**|Discount - the Treasury bill's discount rate.|
 
-### Return value
+## Return value
 
 Double
 

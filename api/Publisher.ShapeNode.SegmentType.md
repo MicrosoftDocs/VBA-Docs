@@ -23,7 +23,7 @@ Returns an  **MsoSegmentType** constant that indicates whether the segment assoc
  _expression_ A variable that represents a  **ShapeNode** object.
 
 
-### Return value
+## Return value
 
 MsoSegmentType
 

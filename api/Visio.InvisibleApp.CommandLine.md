@@ -23,7 +23,7 @@ Determines how Microsoft Visio was started. Read-only.
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
 
-### Return value
+## Return value
 
 String
 

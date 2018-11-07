@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **CustomXMLValidationErrors** object. Read-o
  _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

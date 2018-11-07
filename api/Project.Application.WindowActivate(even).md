@@ -28,7 +28,7 @@ Occurs when any window within Project is activated. The  **WindowActivate** even
 |:-----|:-----|:-----|:-----|
 | _activatedWindow_|Required|**Window**|The activated window.|
 
-### Return value
+## Return value
 
 nothing
 

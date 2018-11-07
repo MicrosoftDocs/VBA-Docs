@@ -34,7 +34,7 @@ Filters or copies data from a list based on a criteria range. If the initial sel
 | _CopyToRange_|Optional| **Variant**|The destination range for the copied rows if  _Action_ is **xlFilterCopy** . Otherwise, this argument is ignored.|
 | _Unique_|Optional| **Variant**| **True** to filter unique records only. **False** to filter all records that meet the criteria. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

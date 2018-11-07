@@ -23,7 +23,7 @@ Returns or sets the descriptive (alternative) text string for the specified Pivo
  _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
-### Return value
+## Return value
 
  **String**
 

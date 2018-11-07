@@ -31,7 +31,7 @@ Returns an  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object from the coll
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or a value used to match the  **[Name](Outlook.AutoFormatRule.Name.md)** property value of an object in the collection.|
 
-### Return value
+## Return value
 
 An  **AutoFormatRule** object that represents the specified object.
 

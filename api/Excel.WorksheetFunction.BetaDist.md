@@ -39,7 +39,7 @@ For more information about the new function, see the [Beta_Dist](Excel.Worksheet
 | _Arg4_|Optional| **Variant**|An optional lower bound to the interval of x.|
 | _Arg5_|Optional| **Variant**|An optional upper bound to the interval of x.|
 
-### Return value
+## Return value
 
 Double
 

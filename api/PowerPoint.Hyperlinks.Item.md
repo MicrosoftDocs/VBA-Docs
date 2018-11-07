@@ -31,7 +31,7 @@ Returns a single  **Hyperlink** object from the specified **Hyperlinks** collect
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Hyperlink** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Hyperlink
 

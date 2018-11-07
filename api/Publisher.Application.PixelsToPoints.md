@@ -31,7 +31,7 @@ Converts a measurement from pixels to points (1 pixel = 0.75 points). Returns th
 |:-----|:-----|:-----|:-----|
 |Value|Required| **Single**|The pixel value to be converted to points.|
 
-### Return value
+## Return value
 
 Single
 

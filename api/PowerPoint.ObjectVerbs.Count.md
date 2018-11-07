@@ -20,7 +20,7 @@ Returns the number of objects in the specified collection. Read-only.
  _expression_ A variable that represents an [ObjectVerbs](./PowerPoint.ObjectVerbs.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

@@ -38,7 +38,7 @@ Sorts the headings in the specified selection.
 | _IgnoreHe_|Optional|VARIANT| **True** to ignore the Hebrew character he when sorting right-to-left language text. Depending on the language support (U.S. English, for example) that you have selected or installed, this parameter may not be available to you.|
 | _LanguageID_|Optional|VARIANT|Specifies the sorting language. Can be one of the [WdLanguageID](Word.WdLanguageID.md) constants.|
 
-### Return value
+## Return value
 
  **VOID**
 

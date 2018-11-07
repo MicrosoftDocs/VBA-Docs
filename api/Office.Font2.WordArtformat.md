@@ -20,7 +20,7 @@ Gets or sets a value specifying the text effect for the selected text. Read/writ
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoPresetTextEffect
 

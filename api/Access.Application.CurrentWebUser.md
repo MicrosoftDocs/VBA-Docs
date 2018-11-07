@@ -31,7 +31,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _DisplayOption_|Required|**AcWebUserDisplay**|Specifies the type of information to return about the user.|
 
-### Return value
+## Return value
 
 Variant
 

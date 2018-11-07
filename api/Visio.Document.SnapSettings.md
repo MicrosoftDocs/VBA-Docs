@@ -23,7 +23,7 @@ Determines the objects that shapes snap to when snap is active in the document. 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 VisSnapSettings
 

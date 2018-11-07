@@ -34,7 +34,7 @@ Adds a  **[Field](Word.Field.md)** object to the **Fields** collection. Returns 
 | _Text_|Optional| **Variant**|Additional text needed for the field. For example, if you want to specify a switch for the field, you would add it here.|
 | _PreserveFormatting_|Optional| **Variant**| **True** to have the formatting that's applied to the field preserved during updates.|
 
-### Return value
+## Return value
 
 Field
 

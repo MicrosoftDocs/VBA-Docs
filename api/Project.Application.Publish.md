@@ -32,7 +32,7 @@ Sends message to the Project Server Queueing Service to publish the local projec
 | _Republish_|Optional|**Boolean**|If  **True**, publish the entire project plan.|
 | _WssUrl_|Optional|**String**|URL for the SharePoint site where the project workspace is to be provisioned. If NULL, no workspace is provisioned.|
 
-### Return value
+## Return value
 
  **Boolean**
 

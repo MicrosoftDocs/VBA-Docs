@@ -36,7 +36,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
 | _TextToDisplay_|Optional| **Variant**|The display text of the specified hyperlink. The value of this argument replaces the text or graphic specified by Anchor.|
 | _Target_|Optional| **Variant**|The name of the frame or window in which you want to load the specified hyperlink.|
 
-### Return value
+## Return value
 
 Hyperlink
 

@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **ODSOColumns** collectio
  _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

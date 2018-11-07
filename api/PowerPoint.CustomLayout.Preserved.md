@@ -23,7 +23,7 @@ Determines whether the specified custom layout is preserved from changes. Read/w
  _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

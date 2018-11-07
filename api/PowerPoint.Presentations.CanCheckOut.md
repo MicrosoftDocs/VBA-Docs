@@ -31,7 +31,7 @@ Returns  **True** if Microsoft PowerPoint can check out a specified presentation
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The server path and name of the presentation.|
 
-### Return value
+## Return value
 
 Boolean
 

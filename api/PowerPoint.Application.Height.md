@@ -23,7 +23,7 @@ Returns or sets the height of the specified object, in points. Read/write.
  _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

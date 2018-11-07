@@ -20,7 +20,7 @@ Clears all deliverables in the project.
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

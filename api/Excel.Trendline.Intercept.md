@@ -23,7 +23,7 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
  _expression_ An expression that returns a [Trendline](./Excel.Trendline(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 Double
 

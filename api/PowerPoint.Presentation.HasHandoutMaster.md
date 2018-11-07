@@ -23,7 +23,7 @@ Indicates whether the presentation has media that resides on a handout master. R
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

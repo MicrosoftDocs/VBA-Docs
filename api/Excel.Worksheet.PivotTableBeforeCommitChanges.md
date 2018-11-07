@@ -34,7 +34,7 @@ Occurs before changes are committed against the OLAP data source for a PivotTabl
 | _ValueChangeEnd_|Required| **Long**|The index to the last change in the associated  **PivotTableChangeList** object. The index is specified by the **Order** property of the **ValueChange** object in the **PivotTableChangeList** collection.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the changes are not committed against the OLAP data source of the PivotTable.|
 
-### Return value
+## Return value
 
 Nothing
 

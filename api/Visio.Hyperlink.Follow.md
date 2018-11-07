@@ -23,7 +23,7 @@ Causes Microsoft Visio to navigate to a hyperlink.
  _expression_ A variable that represents a [Hyperlink](./Visio.Hyperlink.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

@@ -37,7 +37,7 @@ Adds a new connction to the workbook.
 | _CreateModelConnection_|Optional| **Boolean**|Specifies whether to create a connection to the PowerPivot model.|
 | _ImportRelationships]_|Optional| **Boolean**|Specifies whether to import any existing relationships.|
 
-### Return value
+## Return value
 
 WorkbookConnection
 

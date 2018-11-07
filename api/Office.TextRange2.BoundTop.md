@@ -20,7 +20,7 @@ Gets the top coordinate, in points, of the text bounding box for the specified t
  _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

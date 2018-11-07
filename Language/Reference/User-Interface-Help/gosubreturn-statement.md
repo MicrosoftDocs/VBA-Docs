@@ -23,7 +23,7 @@ Branches to and returns from a subroutine within a [procedure](../../Glossary/vb
  `...`
 
  **Return**
-The  _line_[argument](../../Glossary/vbe-glossary.md#argument) can be any[line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number).
+The  _line_ [argument](../../Glossary/vbe-glossary.md#argument) can be any[line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number).
 
 ## Remarks
 

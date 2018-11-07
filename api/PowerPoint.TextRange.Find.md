@@ -34,7 +34,7 @@ Finds the specified text in a text range, and returns a  **[TextRange](PowerPoin
 | _MatchCase_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|**msoTrue** for the search to distinguish between uppercase and lowercase characters.|
 | _WholeWords_|Optional|**[MsoTriState](./Office.MsoTriState.md)**|**msoTrue** for the search to find only whole words and not parts of larger words as well.|
 
-### Return value
+## Return value
 
 TextRange
 

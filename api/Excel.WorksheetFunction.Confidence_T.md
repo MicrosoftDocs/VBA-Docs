@@ -33,7 +33,7 @@ Returns the confidence interval for a population mean, using a Student's t distr
 | _Arg2_|Required| **Double**|Standard_dev - The population standard deviation for the data range and is assumed to be known.|
 | _Arg3_|Required| **Double**|Size - The sample size.|
 
-### Return value
+## Return value
 
 Double
 

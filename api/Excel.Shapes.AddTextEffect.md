@@ -38,7 +38,7 @@ Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that rep
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the top of the document.|
 
-### Return value
+## Return value
 
 Shape
 

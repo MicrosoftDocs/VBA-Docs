@@ -32,7 +32,7 @@ Occurs before any open workbook is printed.
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook.|
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't printed when the procedure is finished.|
 
-### Return value
+## Return value
 
 Nothing
 

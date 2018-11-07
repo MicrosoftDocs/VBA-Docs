@@ -23,7 +23,7 @@ Makes the current chart the active chart.
  _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

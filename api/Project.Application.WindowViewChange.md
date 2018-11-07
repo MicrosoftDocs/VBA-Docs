@@ -31,7 +31,7 @@ Occurs after the top pane view is changed within a project window. The  **Window
 | _newView_|Required|**View**|The new top pane view the user has now applied.|
 | _success_|Required|**Boolean**|**True** if the view change action succeeded.|
 
-### Return value
+## Return value
 
 nothing
 

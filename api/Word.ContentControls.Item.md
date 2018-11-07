@@ -28,7 +28,7 @@ Returns a  **[ContentControl](Word.ContentControl.md)** object that represents t
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Specifies the ordinal position of the content control to return.|
 
-### Return value
+## Return value
 
 ContentControl
 

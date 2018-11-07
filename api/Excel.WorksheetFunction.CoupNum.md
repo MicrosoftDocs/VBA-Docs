@@ -34,7 +34,7 @@ Returns the number of coupons payable between the settlement date and maturity d
 | _Arg3_|Required| **Variant**|The number of coupon payments per year. For annual payments, frequency = 1; for semiannual, frequency = 2; for quarterly, frequency = 4.|
 | _Arg4_|Optional| **Variant**|The type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double
 

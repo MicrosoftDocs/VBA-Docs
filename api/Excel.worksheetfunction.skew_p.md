@@ -58,7 +58,7 @@ Returns the skewness of a distribution based on a population: a characterization
 | _Arg29_|Optional|VARIANT|1 to 254 numbers or names, arrays, or references that contain numbers for which you want the population skewness.|
 | _Arg30_|Optional|VARIANT|1 to 254 numbers or names, arrays, or references that contain numbers for which you want the population skewness.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

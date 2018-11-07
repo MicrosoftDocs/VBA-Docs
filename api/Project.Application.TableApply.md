@@ -31,7 +31,7 @@ Applies a table to the active view.
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**| The name of the table to apply.|
 
-### Return value
+## Return value
 
  **Boolean**
 

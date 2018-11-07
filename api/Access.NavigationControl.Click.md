@@ -23,7 +23,7 @@ _expression_. `Click`
 _expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
 
 
-### Return value
+## Return value
 
 nothing
 

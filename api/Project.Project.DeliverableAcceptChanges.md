@@ -28,7 +28,7 @@ Accepts the changes on the server for a deliverable.
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable for which to accept changes.|
 
-### Return value
+## Return value
 
  **Boolean**
 

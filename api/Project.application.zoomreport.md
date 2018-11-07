@@ -31,7 +31,7 @@ Zooms (enlarges or shrinks) the active report to the specified percentage of its
 | _Entire_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

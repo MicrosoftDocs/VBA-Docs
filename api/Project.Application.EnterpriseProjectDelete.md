@@ -31,7 +31,7 @@ Deletes a project from the Project Server database. Available in Project Profess
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the project to be deleted from the Project Server database.|
 
-### Return value
+## Return value
 
  **Boolean**
 

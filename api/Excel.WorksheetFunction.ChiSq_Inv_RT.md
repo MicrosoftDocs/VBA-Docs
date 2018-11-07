@@ -32,7 +32,7 @@ Returns the inverse of the right-tailed probability of the chi-squared distribut
 | _Arg1_|Required| **Double**|A probability associated with the chi-squared distribution.|
 | _Arg2_|Required| **Double**|The number of degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

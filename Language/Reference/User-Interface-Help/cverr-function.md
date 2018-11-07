@@ -18,7 +18,7 @@ Returns a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) of subtype
 ## Syntax
 
 **CVErr(**_errornumber_**)**
-The required  _errornumber_[argument](../../Glossary/vbe-glossary.md#argument) is any valid error number.
+The required  _errornumber_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid error number.
 
 ## Remarks
 

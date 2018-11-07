@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HelpContents Method (Project)
 
-Displays the  **Project Help** window, with the **Help** Toolbar, **Assistance**,  **Connection Status**, and  **See Also** panes visible.
+Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**, **Connection Status**, and **See Also** panes visible.
 
 
 ## Syntax
@@ -23,13 +23,13 @@ Displays the  **Project Help** window, with the **Help** Toolbar, **Assistance**
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 
 
 ## Remarks
 
-The  **HelpContents** method has the same effect as **[HelpLaunch](Project.Application.HelpLaunch.md)** method when it is used with no parameters.
+The **HelpContents** method has the same effect as **[HelpLaunch](Project.Application.HelpLaunch.md)** method when it is used with no parameters.
 
 

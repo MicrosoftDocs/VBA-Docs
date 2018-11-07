@@ -23,7 +23,7 @@ Deletes the object.
  _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

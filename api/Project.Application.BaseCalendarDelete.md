@@ -31,7 +31,7 @@ Deletes a base calendar.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|**String**. The name of the base calendar to delete.|
 
-### Return value
+## Return value
 
  **Boolean**
 

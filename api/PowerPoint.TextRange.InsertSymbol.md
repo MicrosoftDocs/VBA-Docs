@@ -33,7 +33,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents a sym
 | _CharNumber_|Required|**Long**|The Unicode or ASCII character number.|
 | _Unicode_|Optional|**MsoTriState**|Specifies whether the CharNumber argument represents an ASCII or Unicode character.|
 
-### Return value
+## Return value
 
 TextRange
 

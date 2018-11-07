@@ -23,7 +23,7 @@ Converts an equation with a superscript or subscript to the left of the base of 
  _expression_ An expression that returns a [OMathScrPre](./Word.OMathScrPre.md) object.
 
 
-### Return value
+## Return value
 
 OMathFunction
 

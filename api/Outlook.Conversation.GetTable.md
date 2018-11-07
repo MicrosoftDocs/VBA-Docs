@@ -23,7 +23,7 @@ Returns a  **[Table](Outlook.Table.md)** object that contains rows that represen
  _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
-### Return value
+## Return value
 
 A  **Table** object that contains rows that represent all items in the conversation.
 

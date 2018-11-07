@@ -23,7 +23,7 @@ Returns a  **[ShapeRange](Publisher.ShapeRange.md)** collection that represents 
  _expression_ A variable that represents a  **Selection** object.
 
 
-### Return value
+## Return value
 
 ShapeRange
 

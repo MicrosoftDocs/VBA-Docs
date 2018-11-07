@@ -31,7 +31,7 @@ Sets the number of text lines for assignment rows in the Team Planner.
 |:-----|:-----|:-----|:-----|
 | _LineMultiple_|Required|**Integer**|Number of text lines.|
 
-### Return value
+## Return value
 
  **Boolean**
 

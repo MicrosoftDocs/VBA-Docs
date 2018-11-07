@@ -21,7 +21,7 @@ Refreshes the data feed connection.
  _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
 
 
-### Return value
+## Return value
 
  **VOID**
 

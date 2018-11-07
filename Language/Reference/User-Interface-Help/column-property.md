@@ -30,7 +30,7 @@ The  **Column** property syntax has these parts:
 | _row_|Optional. An integer with a range from 0 to one less than the total number of rows.|
 | _Variant_|Optional. Specifies a single value, a column of values, or a two-dimensional array to load into a  **ListBox** or **ComboBox**.|
 
- **Settings**
+## Settings
 If you specify both the column and row values,  **Column** reads or writes a specific item.
 If you specify only the column value, the  **Column** property reads or writes the specified column in the current row of the object. For example, MyListBox.Column (3) reads or writes the third column in MyListBox.
  **Column** returns a _Variant_ from the cursor. When a built-in [cursor](../../Glossary/glossary-vba.md#cursor) provides the value for _Variant_ (such as when using the **AddItem** method), the value is a string. When an external cursor provides the value for _Variant_, formatting associated with the data is not included in the _Variant_.

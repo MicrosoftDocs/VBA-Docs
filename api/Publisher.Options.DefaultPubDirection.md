@@ -23,7 +23,7 @@ Returns or sets a  **PbDirectionType** constant that represents the default dire
  _expression_ A variable that represents a  **Options** object.
 
 
-### Return value
+## Return value
 
 PbDirectionType
 

@@ -39,7 +39,7 @@ Adds a chart to the document. Returns a [Shape](PowerPoint.Shape.md) object that
 | _Height_|Optional|FLOAT||
 | _NewLayout_|Optional|BOOL||
 
-### Return value
+## Return value
 
  **SHAPE**
 

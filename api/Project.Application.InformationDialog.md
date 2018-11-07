@@ -31,7 +31,7 @@ Displays the  **Assignment Information**,  **Resource Information**, or  **Task 
 |:-----|:-----|:-----|:-----|
 | _Tab_|Optional|**Long**|The tab to display in the ** Assignment Information**, **Resource Information**, or  **Task Information** dialog box.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -34,7 +34,7 @@ Returns a  **DataRecordset** object from the **DataRecordsets** collection by us
 |:-----|:-----|:-----|:-----|
 | _ID_|Required| **Long**|The unique ID of the  **DataRecordset** object to retrieve.|
 
-### Return value
+## Return value
 
 DataRecordset
 

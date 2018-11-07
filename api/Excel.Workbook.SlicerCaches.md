@@ -23,7 +23,7 @@ Returns the  **[SlicerCaches](Excel.SlicerCaches.md)** object associated with th
  _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
-### Return value
+## Return value
 
 SlicerCaches
 

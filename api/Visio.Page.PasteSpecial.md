@@ -33,7 +33,7 @@ Inserts the contents of the Clipboard, allowing you to control the format of the
 | _Link_|Optional| **Variant**| **True** to establish a link to the source of the pasted data; otherwise, **False** (the default). Ignored if the source data is not suitable for, or does not support, linking.|
 | _DisplayAsIcon_|Optional| **Variant**| **True** to display the pasted data as an icon; otherwise, **False** (the default).|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -31,7 +31,7 @@ Returns the square root of (number * pi).
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the number by which pi is multiplied.|
 
-### Return value
+## Return value
 
 Double
 

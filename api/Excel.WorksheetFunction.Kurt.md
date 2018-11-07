@@ -31,7 +31,7 @@ Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedne
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 arguments for which you want to calculate kurtosis. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Double
 

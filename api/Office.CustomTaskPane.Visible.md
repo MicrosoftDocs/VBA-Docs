@@ -23,7 +23,7 @@ ms.date: 06/08/2017
  _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

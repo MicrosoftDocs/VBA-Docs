@@ -23,7 +23,7 @@ Returns the active  **Document** object, which is the document shown in the acti
  _expression_ A variable that represents a [Global](./Visio.Global.md) object.
 
 
-### Return value
+## Return value
 
 Document
 

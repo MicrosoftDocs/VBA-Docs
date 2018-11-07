@@ -23,7 +23,7 @@ Gets or sets the text displayed in a  **CommandBarControl's** **ScreenTip**. Rea
  _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
 
 
-### Return value
+## Return value
 
 String
 

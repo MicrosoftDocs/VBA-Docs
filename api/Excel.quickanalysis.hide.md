@@ -29,7 +29,7 @@ Hides specific members of the Analysis Lens user interface.
 |:-----|:-----|:-----|:-----|
 | _XlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
 
-### Return value
+## Return value
 
  **VOID**
 

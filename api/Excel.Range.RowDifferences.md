@@ -31,7 +31,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 |:-----|:-----|:-----|:-----|
 | _Comparison_|Required| **Variant**|A single cell to compare with the specified range.|
 
-### Return value
+## Return value
 
 Range
 

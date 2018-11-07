@@ -23,7 +23,7 @@ Brings the window to the front of the z-order.
  _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

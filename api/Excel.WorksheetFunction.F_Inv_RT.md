@@ -33,7 +33,7 @@ Returns the inverse of the right-tailed F probability distribution. If p = F_DIS
 | _Arg2_|Required| **Double**|Degrees_freedom1 - the numerator degrees of freedom.|
 | _Arg3_|Required| **Double**|Degrees_freedom2 - the denominator degrees of freedom.|
 
-### Return value
+## Return value
 
 Double
 

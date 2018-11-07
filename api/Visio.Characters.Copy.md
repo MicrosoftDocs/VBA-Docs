@@ -23,7 +23,7 @@ Copies a text range to the Clipboard.
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

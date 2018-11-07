@@ -23,7 +23,7 @@ Returns the parent of the  **[InstalledPrinters](Publisher.InstalledPrinters.md)
  _expression_ A variable that represents an  **InstalledPrinters** object.
 
 
-### Return value
+## Return value
 
 Object
 

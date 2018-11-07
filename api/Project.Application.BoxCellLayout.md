@@ -35,7 +35,7 @@ Sets the cell layout and size properties for a data template in the Network Diag
 | _CellWidth_|Optional|**Integer**|A value from 100 through 200 that specifies the percentage by which to enlarge the width of the template cells.|
 | _MergeCells_|Optional|**Boolean**|**True** if blank cells are merged with the cell to the left.|
 
-### Return value
+## Return value
 
  **Boolean**
 

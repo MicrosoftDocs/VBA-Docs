@@ -31,7 +31,7 @@ Converts a measurement from inches to points.
 |:-----|:-----|:-----|:-----|
 | _Inches_|Required| **Double**|Specifies the inch value to be converted to points.|
 
-### Return value
+## Return value
 
 Double
 

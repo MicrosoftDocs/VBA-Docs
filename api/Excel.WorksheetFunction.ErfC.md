@@ -36,7 +36,7 @@ For more information about the new function, see the [ErfC_Precise](Excel.Worksh
 | _Arg1_|Required| **Variant**|The first argument.|
 | _Arg2_|Optional| **Variant**|The second argument.|
 
-### Return value
+## Return value
 
 Double
 

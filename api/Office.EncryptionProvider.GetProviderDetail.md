@@ -31,7 +31,7 @@ Displays information about the encryption of the current document.
 |:-----|:-----|:-----|:-----|
 | _encprovdet_|Required|**EncryptionProviderDetail**|Specifies the encryption information that you want.|
 
-### Return value
+## Return value
 
 Variant
 

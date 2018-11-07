@@ -31,7 +31,7 @@ Sets the global  **Show Warnings** option for tasks.
 |:-----|:-----|:-----|:-----|
 | _Set_|Optional|**Variant**|If  **True**, turns on the **Show Warnings** option. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

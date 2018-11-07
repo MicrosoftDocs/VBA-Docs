@@ -28,7 +28,7 @@ Gets or sets the transparency of the color of the layer at the specified index i
 |:-----|:-----|:-----|:-----|
 |LayerIndex|Required| **Long**|The index of the layer in the collection of layers in the drawing open in Visio Viewer.|
 
-### Return value
+## Return value
 
  **Double**
 

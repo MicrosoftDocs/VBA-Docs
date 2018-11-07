@@ -38,7 +38,7 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
 | _Visible_|Optional|**Variant**|True to include only visible command bar controls in the search. The default value is False. Visible command bars include all visible toolbars and any menus that are open at the time the  **FindControl** method is executed.|
 | _Recursive_|Optional|**Variant**|True to include the command bar and all of its pop-up subtoolbars in the search. This argument only applies to the  **CommandBar** object. The default value is False.|
 
-### Return value
+## Return value
 
 CommandBarControl
 

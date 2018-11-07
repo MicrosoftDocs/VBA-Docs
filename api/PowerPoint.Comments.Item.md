@@ -31,7 +31,7 @@ Returns a single  **Comment** object from the specified **Comments** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Comment** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Comment
 

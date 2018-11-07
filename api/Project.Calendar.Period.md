@@ -29,7 +29,7 @@ Gets a  **[Period](Project.Period.md)** object representing a period of time in 
 | _Start_|Required|**Variant**|The start date of the desired period.|
 | _Finish_|Optional|**Variant**| The finish date of the desired period. The default value is the same date as Start.|
 
-### Return value
+## Return value
 
  **Period**
 

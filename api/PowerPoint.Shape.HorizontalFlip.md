@@ -23,7 +23,7 @@ Returns whether the specified shape is flipped around the horizontal axis. Read-
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

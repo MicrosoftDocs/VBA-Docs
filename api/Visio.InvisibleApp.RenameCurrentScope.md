@@ -31,7 +31,7 @@ Renames the top-level open undo scope.
 |:-----|:-----|:-----|:-----|
 | _bstrScopeName_|Required| **String**|The new name of the undo scope.|
 
-### Return value
+## Return value
 
 nothing
 

@@ -23,7 +23,7 @@ Represents the point or vector that the gradient fill converges to. Read/write
  _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
-### Return value
+## Return value
 
 Double
 

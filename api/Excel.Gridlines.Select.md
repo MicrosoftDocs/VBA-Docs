@@ -23,7 +23,7 @@ Selects the object.
  _expression_ A variable that represents a [Gridlines](Excel.Gridlines(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

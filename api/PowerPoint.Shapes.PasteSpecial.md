@@ -36,7 +36,7 @@ Pastes the contents of the Clipboard, using a special format.
 | _IconLabel_|Optional|**String**|If DisplayAsIcon is set to  **msoTrue**, this argument is the text that appears below the icon. If this label is missing, Microsoft PowerPoint generates an icon label based on the Clipboard contents. If DisplayAsIcon is set to **msoFalse**, then this argument is ignored.|
 | _Link_|Optional|**MsoTriState**|Determines whether to create a link to the source file of the Clipboard contents. An error occurs if the Clipboard contents do not support a link.|
 
-### Return value
+## Return value
 
 ShapeRange
 

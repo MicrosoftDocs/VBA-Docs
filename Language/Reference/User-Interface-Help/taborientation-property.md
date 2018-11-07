@@ -28,7 +28,7 @@ The  **TabOrientation** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmTabOrientation_|Optional. Where the tabs will appear.|
 
- **Settings**
+## Settings
 The settings for  _fmTabOrientation_ are:
 
 

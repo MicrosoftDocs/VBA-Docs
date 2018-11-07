@@ -31,7 +31,7 @@ Returns a  **FileDialog** object that represents a single instance of a file dia
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoFileDialogType**|The type of dialog to return.|
 
-### Return value
+## Return value
 
 FileDialog
 

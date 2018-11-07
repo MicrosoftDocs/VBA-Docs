@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Report](Access.Report.md) object.
 | _Y_|Required|**Single**|The vertical coordinate of the point to set.|
 | _color_|Required|**Long**|the RGB (red-green-blue) color to set the point to. If this argument is omitted, the value of the  **ForeColor** property is used. You can also use the **RGB** function or **QBColor** function to specify the color.|
 
-### Return value
+## Return value
 
 Nothing
 

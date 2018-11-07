@@ -32,7 +32,7 @@ Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry]
 | _Name_|Required| **String**|The name of the autocorrect entry. Corresponds to the  **[Name](Word.OMathAutoCorrectEntry.Name.md)** property of the **OMathAutoCorrectEntry** object.|
 | _Value_|Required| **String**|The value of the autocorrect entry. Corresponds to the  **[Value](Word.OMathAutoCorrectEntry.Value.md)** property of the **OMathAutoCorrectEntry** object.|
 
-### Return value
+## Return value
 
 OMathAutoCorrectEntry
 

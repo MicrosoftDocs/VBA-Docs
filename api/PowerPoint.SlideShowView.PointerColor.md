@@ -23,7 +23,7 @@ Returns a  **ColorFormat** object that represents the pointer color for the spec
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 
 
-### Return value
+## Return value
 
 ColorFormat
 

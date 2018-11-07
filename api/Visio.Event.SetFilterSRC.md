@@ -31,7 +31,7 @@ Specifies an array of cell ranges and a  **True** or **False** value indicating 
 |:-----|:-----|:-----|:-----|
 | _SRCStream()_|Required| **Integer**|An array of cell ranges and a  **True** or **False** value specifying how to filter events for each range.|
 
-### Return value
+## Return value
 
 Nothing
 

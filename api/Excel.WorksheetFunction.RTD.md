@@ -60,7 +60,7 @@ This method connects to a source to receive real-time data.
 | _topic27_|Optional| **Variant**|A  **String** representing a topic.|
 | _topic28_|Optional| **Variant**|A  **String** representing a topic.|
 
-### Return value
+## Return value
 
 Variant
 

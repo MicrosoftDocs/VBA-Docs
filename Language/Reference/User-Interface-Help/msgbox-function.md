@@ -1,5 +1,5 @@
 ---
-title: MsgBox Function
+title: MsgBox function
 keywords: vblr6.chm1008978
 f1_keywords:
 - vblr6.chm1008978
@@ -8,18 +8,15 @@ ms.assetid: 715595a7-4286-a0cb-dec9-2d2e79bda102
 ms.date: 06/08/2017
 ---
 
+# MsgBox function
 
-# MsgBox Function
-
-
-
-Displays a message in a dialog box, waits for the user to click a button, and returns an  **Integer** indicating which button the user clicked.
+Displays a message in a dialog box, waits for the user to click a button, and returns an **Integer** indicating which button the user clicked.
 
 ## Syntax
 
-**MsgBox( _prompt_** [, **_buttons_** ] [, **_title_** ] [, **_helpfile_**, **_context_** ] **)**
-The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
+**MsgBox( _prompt_** [ **_buttons_** ] , [ **_title_** ] , [ **_helpfile_**, **_context_** ] )
 
+The **MsgBox** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
@@ -29,9 +26,9 @@ The  **MsgBox** function syntax has these[named arguments](../../Glossary/vbe-gl
 |**_helpfile_**|Optional. String expression that identifies the Help file to use to provide context-sensitive Help for the dialog box. If  **_helpfile_** is provided, **_context_** must also be provided.|
 |**_context_**|Optional. Numeric expression that is the Help context number assigned to the appropriate Help topic by the Help author. If  **_context_** is provided, **_helpfile_** must also be provided.|
 
- **Settings**
-The  **_buttons_**[argument](../../Glossary/vbe-glossary.md#argument) settings are:
+## Settings
 
+The **_buttons_** [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -58,10 +55,10 @@ The  **_buttons_**[argument](../../Glossary/vbe-glossary.md#argument) settings a
 
 The first group of values (0-5) describes the number and type of buttons displayed in the dialog box; the second group (16, 32, 48, 64) describes the icon style; the third group (0, 256, 512) determines which button is the default; and the fourth group (0, 4096) determines the modality of the message box. When adding numbers to create a final value for the  **_buttons_** argument, use only one number from each group.
 
- **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
+> [!NOTE] 
+> These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. As a result, the names can be used anywhere in your code in place of the actual values.
 
- **Return Values**
-
+## Return values
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
@@ -75,15 +72,17 @@ The first group of values (0-5) describes the number and type of buttons display
 
 ## Remarks
 
-When both  **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some[host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a  **Help** button to the dialog box.
-If the dialog box displays a  **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
+When both **_helpfile_** and **_context_** are provided, the user can press F1 (Windows) or HELP (Macintosh) to view the Help topic corresponding to the **context**. Some [host applications](../../Glossary/vbe-glossary.md#host-application), for example, Microsoft Excel, also automatically add a **Help** button to the dialog box.
 
- **Note**  To specify more than the first named argument, you must use  **MsgBox** in an [expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
+If the dialog box displays a **Cancel** button, pressing the ESC key has the same effect as clicking **Cancel**. If the dialog box contains a **Help** button, context-sensitive Help is provided for the dialog box. However, no value is returned until one of the other buttons is clicked.
+
+> [!NOTE] 
+> To specify more than the first named argument, you must use  **MsgBox** in an [expression](../../Glossary/vbe-glossary.md#expression). To omit some positional [arguments](../../Glossary/vbe-glossary.md#argument), you must include the corresponding comma delimiter.
 
 
 ## Example
 
-This example uses the  **MsgBox** function to display a critical-error message in a dialog box with Yes and No buttons. The No button is specified as the default response. The value returned by the **MsgBox** function depends on the button chosen by the user. This example assumes that `DEMO.HLP` is a Help file that contains a topic with a Help context number equal to is a Help file that contains a topic with a Help context number equal to `1000`.
+This example uses the  **MsgBox** function to display a critical-error message in a dialog box with Yes and No buttons. The No button is specified as the default response. The value returned by the **MsgBox** function depends on the button chosen by the user. This example assumes that `DEMO.HLP` is a Help file that contains a topic with a Help context number equal to `1000`.
 
 
 ```vb

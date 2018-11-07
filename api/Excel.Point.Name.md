@@ -23,7 +23,7 @@ Returns the object name. Read-only.
  _expression_ A variable that represents a [Point](Excel.Point(Graph object).md) object.
 
 
-### Return value
+## Return value
 
 String
 

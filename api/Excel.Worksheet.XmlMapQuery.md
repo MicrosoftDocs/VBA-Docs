@@ -33,7 +33,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 | _SelectionNamespaces_|Optional| **Variant**|A space-delimited  **String** that contains the namespaces referenced in the XPath parameter. A run-time error will be generated if one of the specified namespaces cannot be resolved.|
 | _Map_|Optional| **Variant**|Specify an XML map if you want to query for the XPath within a specific map.|
 
-### Return value
+## Return value
 
 Range
 

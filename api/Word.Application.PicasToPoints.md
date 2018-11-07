@@ -31,7 +31,7 @@ Converts a measurement from picas to points (1 pica = 12 points). Returns the co
 |:-----|:-----|:-----|:-----|
 | _Picas_|Required| **Single**|The pica value to be converted to points.|
 
-### Return value
+## Return value
 
 Single
 

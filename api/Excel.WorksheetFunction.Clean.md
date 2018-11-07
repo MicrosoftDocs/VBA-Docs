@@ -31,7 +31,7 @@ Removes all nonprintable characters from text.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **String**|Any worksheet information from which you want to remove nonprintable characters.|
 
-### Return value
+## Return value
 
 String
 

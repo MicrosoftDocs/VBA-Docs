@@ -31,7 +31,7 @@ Returns an  **HTMLDivision** object that represents a new HTML division added to
 |:-----|:-----|:-----|:-----|
 | _Range_|Optional| **Variant**|An existing HTML division around which to place the new HTML division.|
 
-### Return value
+## Return value
 
 HTMLDivision
 

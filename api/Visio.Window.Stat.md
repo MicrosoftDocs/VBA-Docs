@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

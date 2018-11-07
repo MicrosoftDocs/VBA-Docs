@@ -34,7 +34,7 @@ As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** o
 | _EndX_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|
 | _EndY_|Required| **Single**|The position (in points) of the line's end point relative to the upper-left corner of the document.|
 
-### Return value
+## Return value
 
 Shape
 

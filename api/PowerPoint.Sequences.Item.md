@@ -31,7 +31,7 @@ Returns a single  **Sequence** object from the specified **Sequences** collectio
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **Sequence** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 Sequence
 

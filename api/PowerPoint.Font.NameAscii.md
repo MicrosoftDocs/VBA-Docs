@@ -23,7 +23,7 @@ Returns or sets the font used for ASCII characters (characters with character se
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
 
-### Return value
+## Return value
 
 String
 

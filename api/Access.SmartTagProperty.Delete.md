@@ -23,7 +23,7 @@ _expression_. `Delete`
 _expression_ A variable that represents a [SmartTagProperty](Access.SmartTagProperty.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

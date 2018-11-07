@@ -50,7 +50,7 @@ Sets some options that are on the  **General**,  **Schedule**, and  **Advanced**
 | _ShowStartupWorkpane_|Optional||Because of changes in the Project object model, this argument no longer has an effect. It is retained for backward compatibility.|
 | _MaxUndoRecords_|Optional|**Variant**|The maximum number of records stored in the undo stack.|
 
-### Return value
+## Return value
 
  **Boolean**
 

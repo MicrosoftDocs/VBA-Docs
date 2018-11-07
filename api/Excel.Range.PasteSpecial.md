@@ -34,7 +34,7 @@ Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the spec
 | _SkipBlanks_|Optional| **Variant**| **True** to have blank cells in the range on the clipboard not be pasted into the destination range. The default value is **False**.|
 | _Transpose_|Optional| **Variant**| **True** to transpose rows and columns when the range is pasted.The default value is **False**.|
 
-### Return value
+## Return value
 
 Variant
 

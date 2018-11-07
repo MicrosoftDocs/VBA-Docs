@@ -23,7 +23,7 @@ Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Rea
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

@@ -29,7 +29,7 @@ Returns a single object from the  **ModelTableNames** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name of the object.|
 
-### Return value
+## Return value
 
  **STRING**
 

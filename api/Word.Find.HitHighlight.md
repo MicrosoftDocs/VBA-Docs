@@ -47,7 +47,7 @@ _expression_ An expression that returns a **Find** object.
 | _IgnorePunct_|Optional| **Variant**|**True** ignores all punctuation characters between words. Corresponds to the **Ignore punctuation** check box in the **Find and Replace** dialog box.|
 | _HanjaPhoneticHangul_|Optional| **Variant**|**True** ignores phonetic hangul and hanja characters. Available only if you have support for Korean languages.|
 
-### Return value
+## Return value
 
 Boolean
 

@@ -33,7 +33,7 @@ Performs operations that involve the Microsoft Visio Help system.
 | _Command_|Required| **Long**|The action to perform.|
 | _Data_|Required| **Long**|Any data that is required based on the value of the command argument.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -28,7 +28,7 @@ Occurs when any window within Project is deactivated. The  **WindowDeactivate** 
 |:-----|:-----|:-----|:-----|
 | _deactivatedWindow_|Required|**Window**| The deactivated window.|
 
-### Return value
+## Return value
 
 nothing
 

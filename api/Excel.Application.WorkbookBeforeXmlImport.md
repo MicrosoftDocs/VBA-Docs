@@ -35,7 +35,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data, **False** if a new mapping will be created.|
 | _Cancel_|Required| **Boolean**|Set to  **True** to cancel the import or refresh operation.|
 
-### Return value
+## Return value
 
 Nothing
 

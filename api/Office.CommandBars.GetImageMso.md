@@ -36,7 +36,7 @@ Returns an  **IPictureDisp** object of the control image identified by the **idM
 | _Width_|Required|**Integer**|The width of the image.|
 | _Height_|Required|**Integer**|The height of the image.|
 
-### Return value
+## Return value
 
 IPictureDisp
 

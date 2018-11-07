@@ -39,7 +39,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 |5|Primary pane, or the Timeline if it is active|
 |
 
-### Return value
+## Return value
 
  **Boolean**
 

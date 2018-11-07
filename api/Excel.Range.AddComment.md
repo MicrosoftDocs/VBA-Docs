@@ -31,7 +31,7 @@ Adds a comment to the range.
 |:-----|:-----|:-----|:-----|
 | _Text_|Optional| **Variant**|The comment text.|
 
-### Return value
+## Return value
 
 Comment
 

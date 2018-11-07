@@ -31,7 +31,7 @@ Finds the first row in the  **[Table](Outlook.Table.md)** that meets the criteri
 |:-----|:-----|:-----|:-----|
 | _Filter_|Required| **String**|Specifies the condition that a row in the  **Table** has to meet.|
 
-### Return value
+## Return value
 
 A  **[Row](Outlook.Row.md)** object that represents the first row in the **Table** that meets the filter criteria. Returns **Null** (**Nothing** in Visual Basic) if no such row can be found, or the **Table** does not contain any rows.
 

@@ -31,7 +31,7 @@ Creates an open polyline or a closed polygon drawing. Returns a  **[Shape](Power
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the polyline drawing's vertices.|
 
-### Return value
+## Return value
 
 Shape
 

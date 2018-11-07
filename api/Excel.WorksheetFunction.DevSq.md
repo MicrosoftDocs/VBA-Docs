@@ -31,7 +31,7 @@ Returns the sum of squares of deviations of data points from their sample mean.
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - are 1 to 30 arguments for which you want to calculate the sum of squared deviations. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Double
 

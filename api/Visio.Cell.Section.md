@@ -23,7 +23,7 @@ Returns the index of the cell's section. Read-only.
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

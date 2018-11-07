@@ -32,7 +32,7 @@ Modifies the start and finish dates for a  **Timeline** bar. Introduced in Offic
 | _FinishValue_|Optional|Variant|Finish date.|
 | _TimelineViewName_|Optional|String|Specifies the name of a timeline to use. The name can be the built-in timeline or an existing custom timeline such as "My Timeline". The default value is the name of the active timeline.|
 
-### Return value
+## Return value
 
  **BOOLEAN**
 

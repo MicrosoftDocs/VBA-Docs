@@ -31,7 +31,7 @@ Returns  **True** if the specified category is in the shape categories list.
 |:-----|:-----|:-----|:-----|
 | _Category_|Required| **String**|The name of the category.|
 
-### Return value
+## Return value
 
  **Boolean**
 

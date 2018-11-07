@@ -38,7 +38,7 @@ For more information about the new function, see the [Norm_Dist](Excel.Worksheet
 | _Arg3_|Required| **Double**|Standard_dev - the standard deviation of the distribution.|
 | _Arg4_|Required| **Boolean**|Cumulative - a logical value that determines the form of the function. If cumulative is TRUE, NORMDIST returns the cumulative distribution function; if FALSE, it returns the probability mass function.|
 
-### Return value
+## Return value
 
 Double
 

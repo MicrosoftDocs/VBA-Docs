@@ -23,7 +23,7 @@ Determines whether the transition from one animation point to another is smoothe
  _expression_ A variable that represents a [AnimationPoints](./PowerPoint.AnimationPoints.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

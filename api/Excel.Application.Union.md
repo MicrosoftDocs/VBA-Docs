@@ -60,7 +60,7 @@ Returns the union of two or more ranges.
 | _Arg29_|Optional| **Variant**|A range.|
 | _Arg30_|Optional| **Variant**|A range.|
 
-### Return value
+## Return value
 
 Range
 

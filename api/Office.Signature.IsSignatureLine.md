@@ -23,7 +23,7 @@ Gets a value indicating whether this is a signature line. Read-only.
  _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

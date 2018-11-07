@@ -23,7 +23,7 @@ Determines whether the characters (both uppercase and lowercase) in the specifie
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

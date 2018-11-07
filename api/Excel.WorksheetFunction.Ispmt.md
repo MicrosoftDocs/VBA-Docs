@@ -34,7 +34,7 @@ Calculates the interest paid during a specific period of an investment. This fun
 | _Arg3_|Required| **Double**|Nper - the total number of payment periods for the investment.|
 | _Arg4_|Required| **Double**|Pv - the present value of the investment. For a loan, pv is the loan amount.|
 
-### Return value
+## Return value
 
 Double
 

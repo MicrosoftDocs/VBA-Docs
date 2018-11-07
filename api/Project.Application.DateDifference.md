@@ -33,7 +33,7 @@ Returns the duration between two dates in minutes, for an automatically schedule
 | _FinishDate_|Required|**Variant**|The date used as the end of the duration.|
 | _Calendar_|Optional|**Object**|A resource or task base calendar object. The default value is the calendar of the active project.|
 
-### Return value
+## Return value
 
  **Long**
 

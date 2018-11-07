@@ -31,7 +31,7 @@ Deletes the specified range and adds the contents of the range to the Spike (a b
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range that's deleted and appended to the Spike.|
 
-### Return value
+## Return value
 
 AutoTextEntry
 

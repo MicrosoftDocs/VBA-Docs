@@ -95,7 +95,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-### Return value
+## Return value
 
 Nothing
 

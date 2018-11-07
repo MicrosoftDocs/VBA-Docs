@@ -35,7 +35,7 @@ Adds a hyperlink to the specified range or shape.
 | _ScreenTip_|Optional| **Variant**|The screen tip to be displayed when the mouse pointer is paused over the hyperlink.|
 | _TextToDisplay_|Optional| **Variant**|The text to be displayed for the hyperlink.|
 
-### Return value
+## Return value
 
 A  **[Hyperlink](Excel.Hyperlink.md)** object that represents the new hyperlink.
 

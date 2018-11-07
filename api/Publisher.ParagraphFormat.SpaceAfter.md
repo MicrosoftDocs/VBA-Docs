@@ -23,7 +23,7 @@ Returns or sets a  **Variant** that represents the amount of spacing (in points)
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 Variant
 

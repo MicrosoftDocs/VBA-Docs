@@ -23,7 +23,7 @@ Gets or sets a value that acts as a filter on the available  **Signature** objec
  _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
 
 
-### Return value
+## Return value
 
 MsoSignatureSubset
 

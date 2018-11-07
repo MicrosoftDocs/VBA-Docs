@@ -20,7 +20,7 @@ Gets a  **ColorFormat** object that represents the color of text formatted as gl
  _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
 
 
-### Return value
+## Return value
 
 ColorFormat
 

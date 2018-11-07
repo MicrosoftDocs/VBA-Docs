@@ -33,7 +33,7 @@ Manages tasks on the Timeline pane or for a specified custom timeline, including
 | _ShowDialog_|Optional|**Boolean**|**True** if Project displays the **Add Tasks to Timeline** dialog box; otherwise, **False**. Any tasks that are already on the timeline have a check by their names. If _ShowDialog_ is **True**, Project ignores the _TaskID_ and _Remove_ arguments. The default value is **False**.|
 | _BarIndex_|Optional|**Variant**|The bar that you want to add or remove.|
 
-### Return value
+## Return value
 
  **BOOL**
 

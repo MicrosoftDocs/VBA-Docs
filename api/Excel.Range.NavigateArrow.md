@@ -33,7 +33,7 @@ Navigates a tracer arrow for the specified range to the precedent, dependent, or
 | _ArrowNumber_|Optional| **Variant**|Specifies the arrow number to navigate; corresponds to the numbered reference in the cell's formula.|
 | _LinkNumber_|Optional| **Variant**|If the arrow is an external reference arrow, this argument indicates which external reference to follow. If this argument is omitted, the first external reference is followed.|
 
-### Return value
+## Return value
 
 Variant
 

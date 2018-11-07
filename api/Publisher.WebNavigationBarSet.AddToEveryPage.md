@@ -33,7 +33,7 @@ Adds a  **ShapeRange** of type **pbWebNavigationBar** to each page of the curren
 |Top|Required| **Variant**|The position of the top edge of the shape representing the Web navigation bar set.|
 |Width|Optional| **Variant**|The width of the shape representing the Web navigation bar set.|
 
-### Return value
+## Return value
 
 ShapeRange
 

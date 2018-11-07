@@ -23,7 +23,7 @@ Returns the x-coordinate of the location in the Microsoft Visio window where a  
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 
 
-### Return value
+## Return value
 
 VisStatCodes
 

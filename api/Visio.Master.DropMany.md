@@ -33,7 +33,7 @@ Creates one or more new  **Shape** objects in a master. It returns an array of t
 | _xyArray()_|Required| **Double**|An array of alternating x and y values specifying the positions for the new shapes.|
 | _IDArray()_|Required| **Integer**|Out parameter. An array that returns the IDs of the created shapes.|
 
-### Return value
+## Return value
 
 Integer
 

@@ -39,7 +39,7 @@ Sets the font for the text in the active cells.
 | _CellColor_|Optional|**Variant**|The color of the cell. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 | _Pattern_|Optional|**Variant**|Background pattern of the cell. Can be one of the  **[PjFillPattern](Project.PjFillPattern.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

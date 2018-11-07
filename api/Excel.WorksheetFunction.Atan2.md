@@ -30,7 +30,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg1_|Required| **Double**|The x-coordinate of the point.|
 | _Arg2_|Required| **Double**|The y-coordinate of the point.|
 
-### Return value
+## Return value
 
 Double
 

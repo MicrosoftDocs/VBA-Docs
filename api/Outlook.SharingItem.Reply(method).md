@@ -23,7 +23,7 @@ Creates a reply, pre-addressed to the original sender, from the original  **[Sha
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 

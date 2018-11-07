@@ -23,7 +23,7 @@ Returns a  **Long** that represents, in dots per inch (dpi), the effective resol
  _expression_ A variable that represents an  **PictureFormat** object.
 
 
-### Return value
+## Return value
 
 Long
 

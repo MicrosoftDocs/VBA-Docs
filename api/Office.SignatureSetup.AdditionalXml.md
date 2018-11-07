@@ -23,7 +23,7 @@ Gets or sets any additional XML information added to the signature during setup.
  _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
 
 
-### Return value
+## Return value
 
 String
 

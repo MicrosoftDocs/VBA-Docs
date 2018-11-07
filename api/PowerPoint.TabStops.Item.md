@@ -31,7 +31,7 @@ Returns a single tab stop from the specified  **TabStops** collection.
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **TabStop** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 TabStop
 

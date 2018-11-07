@@ -31,7 +31,7 @@ Returns a fully qualified and optionally canonicalized representation of the hyp
 |:-----|:-----|:-----|:-----|
 | _CanonicalForm_|Required| **Integer**| **True** (non-zero) if canonical form; otherwise, **False** (0).|
 
-### Return value
+## Return value
 
 String
 

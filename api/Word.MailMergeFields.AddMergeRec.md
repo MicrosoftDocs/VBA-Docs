@@ -31,7 +31,7 @@ Adds a MERGEREC field to a mail merge main document. Returns a  **MailMergeField
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range object**|The location for the MERGEREC field.|
 
-### Return value
+## Return value
 
 MailMergeField
 

@@ -30,7 +30,7 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 | _Row_|Required|INT||
 | _Col_|Required|INT||
 
-### Return value
+## Return value
 
  **String**
 

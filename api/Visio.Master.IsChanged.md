@@ -23,7 +23,7 @@ Indicates whether a master has changed since it was opened. Read-only.
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

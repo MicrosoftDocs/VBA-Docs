@@ -36,7 +36,7 @@ Updates the selected tasks.
 | _ActualFinish_|Optional|**Variant**|The actual finish date of the selected tasks.|
 | _Notes_|Optional|**String**|Comments in the Notes field for the selected tasks. The value can be text only, not Rich Text Format (RTF) as in the  **Notes** dialog box.|
 
-### Return value
+## Return value
 
  **Boolean**
 

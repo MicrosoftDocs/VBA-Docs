@@ -23,7 +23,7 @@ Determines whether to display special formatting for the last row of the specifi
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 
 
-### Return value
+## Return value
 
 Boolean
 

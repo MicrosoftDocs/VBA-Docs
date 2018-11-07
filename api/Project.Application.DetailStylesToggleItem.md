@@ -31,7 +31,7 @@ Toggles the display of a timescale data field in a usage view.
 |:-----|:-----|:-----|:-----|
 | _Item_|Optional|**Long**|The timescale data field to show or remove. The default value is  **pjWork**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

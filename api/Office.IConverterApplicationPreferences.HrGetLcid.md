@@ -31,7 +31,7 @@ This feature is only available in the Open XML Format SDK.
 |:-----|:-----|:-----|:-----|
 | _plcid_|Required|**[UINT32]**||
 
-### Return value
+## Return value
 
 [HRESULT]
 

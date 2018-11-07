@@ -38,7 +38,7 @@ For more information about the new function, see the [HypGeom_Dist](Excel.Worksh
 | _Arg3_|Required| **Double**|Population_s - the number of successes in the population.|
 | _Arg4_|Required| **Double**|Number_population - the population size.|
 
-### Return value
+## Return value
 
 Double
 

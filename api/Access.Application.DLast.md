@@ -33,7 +33,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 | _Domain_|Required|**String**|A string expression identifying the set of records that constitutes the domain.|
 | _Criteria_|Optional|**Variant**|An optional string expression used to restrict the range of data on which the  **DLast** function is performed. For example, _criteria_ is often equivalent to the WHERE clause in an SQL expression, without the wrd WHERE. If _criteria_ is omitted, the **DLast** function evaluates _expr_ against the entire domain. Any field that is included in _criteria_ must also be a field in _domain_; otherwise, the  **DLast** function returns a **Null**.|
 
-### Return value
+## Return value
 
 Variant
 

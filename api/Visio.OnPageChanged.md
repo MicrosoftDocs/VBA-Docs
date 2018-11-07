@@ -28,7 +28,7 @@ Occurs when the active page is changed in Microsoft Visio Viewer.
 |:-----|:-----|:-----|:-----|
 |PageIndex|Required| **Long**|The index of the new page.|
 
-### Return value
+## Return value
 
 Nothing
 

@@ -23,7 +23,7 @@ Returns a  **MediaBookmarks** collection that represents the media bookmarks ass
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 
 
-### Return value
+## Return value
 
 MediaBookmarks
 

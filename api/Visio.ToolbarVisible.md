@@ -20,7 +20,7 @@ Gets or sets a value that indicates whether the toolbar is visible in Microsoft 
  _expression_An expression that returns a  **Viewer** object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

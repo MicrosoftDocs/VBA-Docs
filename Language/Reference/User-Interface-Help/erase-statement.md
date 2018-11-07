@@ -17,7 +17,7 @@ Reinitializes the elements of fixed-size [arrays](../../Glossary/vbe-glossary.md
 
 **Erase**_arraylist_
 
-The required  _arraylist_[argument](../../Glossary/vbe-glossary.md#argument) is one or more comma-delimited array[variables](../../Glossary/vbe-glossary.md#variable) to be erased.
+The required  _arraylist_ [argument](../../Glossary/vbe-glossary.md#argument) is one or more comma-delimited array[variables](../../Glossary/vbe-glossary.md#variable) to be erased.
 
 ## Remarks
 

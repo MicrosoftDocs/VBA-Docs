@@ -23,7 +23,7 @@ Returns an  **IDataObject** interface representing the active **Connector** tool
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 IDataObject
 

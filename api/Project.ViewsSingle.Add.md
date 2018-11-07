@@ -37,7 +37,7 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 | _Group_|Optional|**Variant**|Specifies the group to be used by the view. If a group is required for the view, but none is specified, the default is ** No Group**. This value is ignored if the view specified with the **Screen** argument does not use groups.|
 | _HighlightFilt_|Optional|**Boolean**|**True** if the filter applied is a highlight filter. The default value is **False**.|
 
-### Return value
+## Return value
 
  **ViewSingle**
 

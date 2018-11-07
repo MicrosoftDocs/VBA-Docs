@@ -23,7 +23,7 @@ Specifies the distance in pixels along the x-axis that gridlines pull when snapp
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

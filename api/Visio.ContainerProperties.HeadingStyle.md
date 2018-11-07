@@ -23,7 +23,7 @@ Determines the appearance and position of the heading of the container. Read/wri
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return value
+## Return value
 
  **Integer**
 

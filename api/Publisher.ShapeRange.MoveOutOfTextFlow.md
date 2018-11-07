@@ -23,7 +23,7 @@ Moves a given inline shape out of its containing text range, defined by  ** [Tex
  _expression_ A variable that represents a  **ShapeRange** object.
 
 
-### Return value
+## Return value
 
 Nothing
 

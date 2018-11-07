@@ -46,7 +46,7 @@ Opens the specified document and adds it to the  **Documents** collection. Retur
 | _DocumentDirection_|Optional| **WdDocumentDirection**|Indicates the horizontal flow of text in a document. The default value is  **wdLeftToRight** .|
 | _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the Encoding dialog box that Word displays if the text encoding cannot be recognized. The default value is **False** .|
 
-### Return value
+## Return value
 
 Document
 

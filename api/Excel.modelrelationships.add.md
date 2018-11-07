@@ -30,7 +30,7 @@ Adds a new relationship to the model.
 | _ForeignKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column in the table on the many side of the one-to-many relationship.|
 | _PrimaryKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.|
 
-### Return value
+## Return value
 
  **MODELRELATIONSHIP**
 

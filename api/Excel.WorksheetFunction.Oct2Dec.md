@@ -31,7 +31,7 @@ Converts an octal number to decimal.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Number - the octal number you want to convert. Number may not contain more than 10 octal characters (30 bits). The most significant bit of number is the sign bit. The remaining 29 bits are magnitude bits. Negative numbers are represented using two's-complement notation.|
 
-### Return value
+## Return value
 
 String
 

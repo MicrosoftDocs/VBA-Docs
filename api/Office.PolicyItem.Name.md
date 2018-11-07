@@ -23,7 +23,7 @@ Gets the name of the  **PolicyItem** object. Read-only.
  _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
 
 
-### Return value
+## Return value
 
 String
 

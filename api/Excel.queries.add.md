@@ -29,7 +29,7 @@ Adds a new [WorkbookQuery](Excel.workbookquery.md) object to the **Queries** col
 | _Formula_|Required|STRING|The Power Query M formula for the new query.|
 | _Description_|Optional|VARIANT|The description of the query.|
 
-### Return value
+## Return value
 
 [WorkbookQuery](Excel.workbookquery.md)
 

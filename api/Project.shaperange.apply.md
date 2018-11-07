@@ -16,7 +16,7 @@ Applies formatting to a shape range, where the formatting information has been c
  _expression_ A variable that represents a 'ShapeRange' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

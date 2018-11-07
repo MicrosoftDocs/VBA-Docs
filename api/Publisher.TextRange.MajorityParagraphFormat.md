@@ -23,7 +23,7 @@ Returns a  **[ParagraphFormat](Publisher.ParagraphFormat.md)** object that repre
  _expression_ A variable that represents a  **TextRange** object.
 
 
-### Return value
+## Return value
 
 ParagraphFormat
 

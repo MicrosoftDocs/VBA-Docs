@@ -33,7 +33,7 @@ Returns the one-tailed probability-value of a z-test. For a given hypothesized p
 | _Arg2_|Required| **Double**|The value to test.|
 | _Arg3_|Optional| **Variant**|Sigma - The population (known) standard deviation. If omitted, the sample standard deviation is used.|
 
-### Return value
+## Return value
 
 Double
 

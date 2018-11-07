@@ -23,7 +23,7 @@ Gets or sets the validation issue that is selected in the  **Issues** window. Re
  _expression_ A variable that represents a '[Window](Visio.Window.md)' object.
 
 
-### Return value
+## Return value
 
 [ValidationIssue](Visio.ValidationIssue.md)
 

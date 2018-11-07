@@ -37,7 +37,7 @@ Returns the raster export resolution settings.
 | _pResolutionUnits_|Required|VISRASTEREXPORTRESOLUTIONUNITS||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
 Nothing
 

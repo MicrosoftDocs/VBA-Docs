@@ -1,5 +1,5 @@
 ---
-title: HasOpenDesigner Property (VBA Add-In Object Model)
+title: HasOpenDesigner property (VBA Add-In Object Model)
 keywords: vbob6.chm1070962
 f1_keywords:
 - vbob6.chm1070962
@@ -9,17 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# HasOpenDesigner Property (VBA Add-In Object Model)
+# HasOpenDesigner property (VBA Add-In Object Model)
 
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **VBComponent** object has an open [designer](../../Glossary/vbe-glossary.md#designer). Read-only.
 
+## Return values
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **VBComponent** object has an open[designer](../../Glossary/vbe-glossary.md#designer). Read-only.
- **Return Values**
-The  **HasOpenDesigner** property returns these values:
-
+The **HasOpenDesigner** property returns these values:
 
 |**Value**|**Description**|
 |:-----|:-----|
-|**True**|The  **VBComponent** object has an open **Design** window.|
-|**False**|The  **VBComponent** object doesn't have an open **Design** window.|
+|**True**|The **VBComponent** object has an open **Design** window.|
+|**False**|The **VBComponent** object doesn't have an open **Design** window.|
 

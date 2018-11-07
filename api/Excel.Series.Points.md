@@ -31,7 +31,7 @@ Returns an object that represents a single point (a  **[Point](Excel.Point(objec
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional| **Variant**|The name or number of the point.|
 
-### Return value
+## Return value
 
 Object
 

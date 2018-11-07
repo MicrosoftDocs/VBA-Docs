@@ -35,7 +35,7 @@ Displays the standard  **Open** dialog box and gets a file name from the user wi
 | _ButtonText_|Optional| **Variant**|Macintosh only.|
 | _MultiSelect_|Optional| **Variant**| **True** to allow multiple file names to be selected. **False** to allow only one file name to be selected. The default value is **False** .|
 
-### Return value
+## Return value
 
 Variant
 

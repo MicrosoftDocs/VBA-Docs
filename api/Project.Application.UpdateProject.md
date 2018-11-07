@@ -33,7 +33,7 @@ Updates progress information and reschedules work for tasks in a project.
 | _UpdateDate_|Optional|**Variant**|The update date to use for the specified action. |
 | _action_|Optional|**Integer**|The action to take with the specified tasks. Can be one of the following  **[PjProjectUpdate](Project.PjProjectUpdate.md)** constants: **pj0or100Percent**, **pj0to100Percent**, or **pjReschedule**. The default is **pj0to100Percent**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

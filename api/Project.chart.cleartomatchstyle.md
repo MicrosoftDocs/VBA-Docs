@@ -16,7 +16,7 @@ Clears the formatting of the chart elements and sets formatting to automatic.
  _expression_ A variable that represents a 'Chart' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

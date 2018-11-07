@@ -23,7 +23,7 @@ Returns a  **[WebPageOptions](Publisher.WebPageOptions.md)** object, which repre
  _expression_ A variable that represents a  **Page** object.
 
 
-### Return value
+## Return value
 
 WebPageOptions
 

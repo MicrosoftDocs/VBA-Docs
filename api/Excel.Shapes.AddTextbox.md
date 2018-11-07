@@ -35,7 +35,7 @@ Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represent
 | _Width_|Required| **Single**|The width of the text box, in points.|
 | _Height_|Required| **Single**|The height of the text box, in points.|
 
-### Return value
+## Return value
 
 Shape
 

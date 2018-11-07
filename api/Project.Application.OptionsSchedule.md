@@ -45,7 +45,7 @@ Sets scheduling options.
 | _ShowEstimated_|Optional|**Boolean**|**True** if task durations in new projects are displayed with the estimated character; otherwise, **False**.|
 | _NewTasksEstimated_|Optional|**Boolean**|**True** if new tasks in the active project have estimated durations; otherwise, **False**.|
 
-### Return value
+## Return value
 
 Boolean
 

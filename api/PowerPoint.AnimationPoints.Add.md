@@ -31,7 +31,7 @@ Returns an  **[AnimationPoint](PowerPoint.AnimationPoint.md)** object that repre
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Long**|The position of the animation point in relation to other animation points. The default value is -1, which means that if you omit the Index parameter, the new animation point is added to the end of existing animation points.|
 
-### Return value
+## Return value
 
 AnimationPoint
 

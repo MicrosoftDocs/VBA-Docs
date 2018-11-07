@@ -31,7 +31,7 @@ Sets the theme for the specified page.
 | _varConnectorScheme_|Optional|VARIANT|The connector scheme theme component to apply.|
 | _varFontScheme_|Optional|VARIANT|The font scheme theme component to apply.|
 
-### Return value
+## Return value
 
  **VOID**
 

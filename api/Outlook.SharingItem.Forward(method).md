@@ -23,7 +23,7 @@ Executes the  **Forward** action for an item and returns the resulting copy as a
  _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **SharingItem** object that represents the new sharing invitation.
 

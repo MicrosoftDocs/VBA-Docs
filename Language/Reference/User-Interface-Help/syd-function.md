@@ -1,5 +1,5 @@
 ---
-title: SYD Function
+title: SYD function
 keywords: vblr6.chm1009290
 f1_keywords:
 - vblr6.chm1009290
@@ -9,32 +9,30 @@ ms.date: 06/08/2017
 ---
 
 
-# SYD Function
-
-
+# SYD function
 
 Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the sum-of-years' digits depreciation of an asset for a specified period.
 
 ## Syntax
 
 **SYD( _cost_**, **_salvage_**, **_life_**, **_period_ )**
-The  **SYD** function has these[named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
+The **SYD** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |**Part**|**Description**|
 |:-----|:-----|
-|**_cost_**|Required.  **Double** specifying initial cost of the asset.|
-|**_salvage_**|Required.  **Double** specifying value of the asset at the end of its useful life.|
-|**_life_**|Required.  **Double** specifying length of the useful life of the asset.|
-|**_period_**|Required.  **Double** specifying period for which asset depreciation is calculated.|
+|**_cost_**|Required. **Double** specifying initial cost of the asset.|
+|**_salvage_**|Required. **Double** specifying value of the asset at the end of its useful life.|
+|**_life_**|Required. **Double** specifying length of the useful life of the asset.|
+|**_period_**|Required. **Double** specifying period for which asset depreciation is calculated.|
 
 ## Remarks
 
-The  **_life_** and **_period_**[arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
+The **_life_** and **_period_** [arguments](../../Glossary/vbe-glossary.md#argument) must be expressed in the same units. For example, if **_life_** is given in months, **_period_** must also be given in months. All arguments must be positive numbers.
 
 ## Example
 
-This example uses the  **SYD** function to return the depreciation of an asset for a specified period given the asset's initial cost ( `InitCost`), the salvage value at the end of the asset's useful life ( `SalvageVal`), and the total life of the asset in years ( `LifeTime`). The period in years for which the depreciation is calculated is  `PDepr`.
+This example uses the **SYD** function to return the depreciation of an asset for a specified period given the asset's initial cost (`InitCost`), the salvage value at the end of the asset's useful life (`SalvageVal`), and the total life of the asset in years (`LifeTime`). The period in years for which the depreciation is calculated is  `PDepr`.
 
 
 ```vb

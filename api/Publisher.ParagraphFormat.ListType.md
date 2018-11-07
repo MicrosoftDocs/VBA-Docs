@@ -23,7 +23,7 @@ Returns a  **PbListType** constant from the specified **ParagraphFormat** object
  _expression_ A variable that represents a  **ParagraphFormat** object.
 
 
-### Return value
+## Return value
 
 pbListType
 

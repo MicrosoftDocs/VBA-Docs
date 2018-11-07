@@ -32,7 +32,7 @@ Adds a new, empty group to the  **Shortcuts** pane.
 | _Name_|Required| **String**|The name of the group being created.|
 | _Index_|Optional| **Long**|The position at which the new group will be inserted in the  **Shortcuts** pane. Position one is at the top of the bar.|
 
-### Return value
+## Return value
 
 An  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object that represents the new group.
 

@@ -32,7 +32,7 @@ Determines whether text will be animated in reverse order. Returns an  **[Effect
 | _Effect_|Required|**Effect**|The animation effect to which the reversal will apply.|
 | _animateInReverse_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines the text animation order.|
 
-### Return value
+## Return value
 
 Effect
 

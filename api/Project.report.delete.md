@@ -19,7 +19,7 @@ Deletes the report.
  _expression_ A variable that represents a 'Report' object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

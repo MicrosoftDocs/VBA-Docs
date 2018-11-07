@@ -18,7 +18,7 @@ Returns a  **Variant** (**String**) representation of a number.
 ## Syntax
 
 **Str** ( _number_ )
-The required  _number_[argument](../../Glossary/vbe-glossary.md#argument) is a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing any valid[numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
 
 ## Remarks
 

@@ -29,7 +29,7 @@ The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glo
 |**_include_**|Optional.  **Boolean** value indicating whether to return substrings that include or exclude **_match_**. If **_include_** is **True**, **Filter** returns the subset of the array that contains **_match_** as a substring. If **_include_** is **False**, **Filter** returns the subset of the array that does not contain **_match_** as a substring.|
 |**_compare_**|Optional. Numeric value indicating the kind of string comparison to use. See Settings section for values.|
 
- **Settings**
+## Settings
 The  **_compare_** argument can have the following values:
 
 

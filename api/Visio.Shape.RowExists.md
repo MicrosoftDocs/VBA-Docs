@@ -33,7 +33,7 @@ Determines whether a ShapeSheet row exists. Read-only.
 | _Row_|Required| **Integer**|The row's row index.|
 | _fExistsLocally_|Required| **Integer**|The scope of the search.|
 
-### Return value
+## Return value
 
 Integer
 

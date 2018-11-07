@@ -21,7 +21,7 @@ Indicates the  **Task Inspector** for use with engagement data. Introduced in Of
  _expression_ A variable that represents a [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **BOOLEAN**
 

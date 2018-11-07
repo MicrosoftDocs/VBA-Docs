@@ -34,7 +34,7 @@ Specifies what an effect should do after it is finished. Returns an  **[Effect](
 | _DimColor_|Optional|**MsoRGBType**|A single color to apply the after effect.|
 | _DimSchemeColor_|Optional|**[PpColorSchemeIndex](PowerPoint.PpColorSchemeIndex.md)**|A predefined color scheme to apply to the after effect.|
 
-### Return value
+## Return value
 
 Effect
 

@@ -31,7 +31,7 @@ _expression_ A variable that represents a [SmartTags](Access.SmartTags.md) objec
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the smart tag to add.|
 
-### Return value
+## Return value
 
 SmartTag
 

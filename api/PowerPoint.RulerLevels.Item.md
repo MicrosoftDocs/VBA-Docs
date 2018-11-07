@@ -31,7 +31,7 @@ Returns a single  **RulerLevel** object from the specified **RulerLevels** colle
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|The index number of the single  **RulerLevel** object in the collection to be returned.|
 
-### Return value
+## Return value
 
 RulerLevel
 

@@ -35,7 +35,7 @@ Adds a SmartArt diagram to the  **Shapes** object.
 | _Width_|Optional|**Single**|The width of the SmartArt diagram.|
 | _Height_|Optional|**Single**|The height of the SmartArt diagram.|
 
-### Return value
+## Return value
 
 Shape
 

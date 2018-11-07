@@ -35,7 +35,7 @@ Returns the depreciation of an asset for a specified period using the double-dec
 | _Arg4_|Required| **Double**|Period - the period for which you want to calculate the depreciation. Period must use the same units as life.|
 | _Arg5_|Optional| **Variant**|Factor - the rate at which the balance declines. If factor is omitted, it is assumed to be 2 (the double-declining balance method).|
 
-### Return value
+## Return value
 
 Double
 

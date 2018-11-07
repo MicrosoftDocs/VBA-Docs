@@ -23,7 +23,7 @@ _expression_. `CloseCurrentDatabase`
 _expression_ A variable that represents an [Application](Access.Application.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

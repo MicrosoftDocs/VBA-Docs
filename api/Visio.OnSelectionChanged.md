@@ -28,7 +28,7 @@ Occurs when the shape selection is changed in Microsoft Visio Viewer.
 |:-----|:-----|:-----|:-----|
 |ShapeIndex|Required| **Long**|The index of the newly selected shape.|
 
-### Return value
+## Return value
 
 Nothing
 

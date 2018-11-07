@@ -23,7 +23,7 @@ Returns the type of the shape that contains the specified placeholder format. Re
  _expression_ An expression that returns a [PlaceholderFormat](./PowerPoint.PlaceholderFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoShapeType
 

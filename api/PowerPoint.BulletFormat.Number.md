@@ -23,7 +23,7 @@ Returns the bullet number of a paragraph when the  **[Type](PowerPoint.BulletFor
  _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

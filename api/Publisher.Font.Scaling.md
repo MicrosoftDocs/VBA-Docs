@@ -23,7 +23,7 @@ Returns or sets a  **Variant** value used to scale the width of the characters i
  _expression_ A variable that represents a  **Font** object.
 
 
-### Return value
+## Return value
 
 Variant
 

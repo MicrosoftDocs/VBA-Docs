@@ -31,7 +31,7 @@ Displays a specific tab of the  **Trust Center** dialog box in Project.
 |:-----|:-----|:-----|:-----|
 | _DefaultTab_|Optional|**PjOptionsSecurityTab**|Specifies the tab to open in the  **Trust Center** dialog box. Can be one of the **[PjOptionsSecurityTab](Project.PjOptionsSecurityTab.md)** constants. The default is **pjOptionsSecurityTabPublishers** for the **Trusted Publishers** tab.|
 
-### Return value
+## Return value
 
  **Boolean**
 

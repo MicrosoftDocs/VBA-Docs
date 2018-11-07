@@ -33,7 +33,7 @@ Adds a guide to a drawing page.
 | _xPos_|Required| **Double**|The x-coordinate of a point on the guide.|
 | _yPos_|Required| **Double**|The y-coordinate of a point on the guide.|
 
-### Return value
+## Return value
 
 Shape
 

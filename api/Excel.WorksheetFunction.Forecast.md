@@ -36,7 +36,7 @@ Calculates, or predicts, a future value by using existing values. The predicted 
 | _Arg2_|Required| **Variant**|known_y's - the dependent array or range of data.|
 | _Arg3_|Required| **Variant**|known_x's - the independent array or range of data.|
 
-### Return value
+## Return value
 
 Double
 

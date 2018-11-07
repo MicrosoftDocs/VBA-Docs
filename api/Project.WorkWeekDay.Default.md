@@ -20,7 +20,7 @@ Resets the  **WorkWeekDay** item of a resource calendar to the value in the corr
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 
 
-### Return value
+## Return value
 
  **Nothing**
 

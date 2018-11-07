@@ -31,7 +31,7 @@ Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the c
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|Either the index number of the object, or the value used to match the default property of an object in the collection.|
 
-### Return value
+## Return value
 
 A  **NavigationFolder** object that represents the specified object.
 

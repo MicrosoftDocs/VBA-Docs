@@ -39,7 +39,7 @@ For more information about the new function, see the [StDev_P](Excel.WorksheetFu
 |:-----|:-----|:-----|:-----|
 | _Arg1 - Arg30_|Required| **Variant**|Number1, number2, ... - 1 to 30 number arguments corresponding to a population. You can also use a single array or a reference to an array instead of arguments separated by commas.|
 
-### Return value
+## Return value
 
 Double
 

@@ -23,7 +23,7 @@ Returns whether there is a SmartArt diagram present on the specified shape. Read
  _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
-### Return value
+## Return value
 
  **[MsoTriState](./Office.MsoTriState.md)**
 

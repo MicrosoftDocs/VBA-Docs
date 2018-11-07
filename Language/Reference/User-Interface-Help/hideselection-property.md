@@ -28,7 +28,7 @@ The  **HideSelection** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the selected text remains highlighted even when the control does not have the focus.|
 
- **Settings**
+## Settings
 The settings for  _Boolean_ are:
 
 

@@ -23,7 +23,7 @@ Returns the width, in points, of the object. Read-only.
  _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Double
 

@@ -31,7 +31,7 @@ Shows or hides task splits on the Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Boolean**|**True** if task splits appear on the Gantt Chart. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

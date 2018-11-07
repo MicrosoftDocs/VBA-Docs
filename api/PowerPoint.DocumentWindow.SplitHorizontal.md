@@ -23,7 +23,7 @@ Returns or sets the percentage of the document window width that the outline pan
  _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

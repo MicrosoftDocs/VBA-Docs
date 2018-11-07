@@ -23,7 +23,7 @@ Returns the  **[ColorStops](Excel.ColorStops.md)** collection for the **Rectangu
  _expression_ A variable that represents a [RectangularGradient](Excel.RectangularGradient.md) object.
 
 
-### Return value
+## Return value
 
 ColorStops
 

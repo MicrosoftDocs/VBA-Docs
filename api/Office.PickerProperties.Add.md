@@ -33,7 +33,7 @@ ms.date: 06/08/2017
 | _Value_|Required|**String**|Value of the property.|
 | _Type_|Required|**MsoPickerField**|Type of the property.|
 
-### Return value
+## Return value
 
 PickerProperty
 

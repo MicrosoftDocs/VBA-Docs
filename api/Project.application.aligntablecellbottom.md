@@ -19,7 +19,7 @@ Aligns text at the bottom of the cell, for selected cells in a report table.
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

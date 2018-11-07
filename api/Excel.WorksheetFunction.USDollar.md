@@ -32,7 +32,7 @@ Converts a number to text format and applies a currency symbol. The name of the 
 | _Arg1_|Required| **Double**|A reference to a cell containing a number, or a formula that evaluates to a number.|
 | _Arg2_|Required| **Double**|The number of digits to the right of the decimal point. If  _Arg2_ is negative, the number is rounded to the left of the decimal point. If you omit decimals, it is assumed to be 2.|
 
-### Return value
+## Return value
 
 String
 

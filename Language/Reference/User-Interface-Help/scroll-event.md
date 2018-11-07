@@ -36,7 +36,7 @@ The  **Scroll** event syntax has these parts:
 | _ActualDx_|Required. The distance, in points, the scroll bar travelled in the horizontal direction.|
 | _ActualDy_|Required. The distance, in points, the scroll bar travelled in the vertical direction.|
 
- **Settings**
+## Settings
 The settings for  _ActionX_ and _ActionY_ are:
 
 

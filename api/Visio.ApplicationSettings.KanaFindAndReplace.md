@@ -23,7 +23,7 @@ Gets whether additional options specific to Japanese in the  **Find** and **Repl
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 
 
-### Return value
+## Return value
 
 VisRegionalUIOptions
 

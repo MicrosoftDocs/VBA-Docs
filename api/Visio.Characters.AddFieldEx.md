@@ -35,7 +35,7 @@ Replaces the text represented by a  **Characters** object with a new field of th
 | _LangID_|Optional| **Long**|The language to use for the new field. |
 | _CalendarID_|Optional| **Long**|The calendar to use for the new field.|
 
-### Return value
+## Return value
 
 Nothing
 

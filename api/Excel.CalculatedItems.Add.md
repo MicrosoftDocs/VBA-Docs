@@ -33,7 +33,7 @@ Creates a new calculated item. Returns a  **[PivotItem](Excel.PivotItem.md)** ob
 | _Formula_|Required| **String**|The formula for the item.|
 | _UseStandardFormula_|Optional| **Variant**| **False** (default) for upward compatibility. **True** for strings contained in any arguments that are item names, will be interpreted as having been formatted in standard U.S. English instead of local settings.|
 
-### Return value
+## Return value
 
 A  **PivotItem** object that represents the new calculated item.
 

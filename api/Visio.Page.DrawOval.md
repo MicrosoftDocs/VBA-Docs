@@ -34,7 +34,7 @@ Adds an oval (ellipse) to the  **Shapes** collection of a page.
 | _x2_|Required| **Double**|The x-coordinate of the other corner of the ellipse's width-height box.|
 | _y2_|Required| **Double**|The y-coordinate of the other corner of the ellipse's width-height box.|
 
-### Return value
+## Return value
 
 Shape
 

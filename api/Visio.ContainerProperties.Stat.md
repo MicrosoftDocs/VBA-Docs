@@ -23,7 +23,7 @@ Returns status information for an object. Read-only.
  _expression_ An expression that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 
 
-### Return value
+## Return value
 
 [VisStatCodes](Visio.visstatcodes.md)
 

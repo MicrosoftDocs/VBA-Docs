@@ -23,7 +23,7 @@ Contains the text string that appears in the center portion of a document's head
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
 
-### Return value
+## Return value
 
 String
 

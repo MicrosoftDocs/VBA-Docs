@@ -23,7 +23,7 @@ Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the ali
  _expression_ A variable that represents a [TextStyle](./PowerPoint.TextStyle.md) object.
 
 
-### Return value
+## Return value
 
 TextFrame
 

@@ -31,7 +31,7 @@ Sets the vertical distance (in points) from the edge of the text bounding box to
 |:-----|:-----|:-----|:-----|
 | _Drop_|Required|**Single**|The drop distance, in points.|
 
-### Return value
+## Return value
 
 Nothing
 

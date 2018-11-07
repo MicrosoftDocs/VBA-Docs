@@ -33,7 +33,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 | _Arg4_|Required| **Variant**|The security's par value. If you omit par, ACCRINTM uses $1,000.|
 | _Arg5_|Optional| **Variant**|The type of day count basis to use.|
 
-### Return value
+## Return value
 
 Double 
 

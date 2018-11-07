@@ -31,7 +31,7 @@ Occurs after a query is completed or canceled.
 |:-----|:-----|:-----|:-----|
 | _Success_|Required| **Boolean**| **True** if the query was completed successfully.|
 
-### Return value
+## Return value
 
 Nothing
 

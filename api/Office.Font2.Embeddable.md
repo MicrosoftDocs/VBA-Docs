@@ -20,7 +20,7 @@ Gets a value indicating whether the font can be embedded in a page. Read-only.
  _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

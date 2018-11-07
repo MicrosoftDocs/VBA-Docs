@@ -31,7 +31,7 @@ Rounds a number up, to the nearest integer or to the nearest multiple of signifi
 | _Arg2_|Optional|VARIANT|The multiple to which you want to round.|
 | _Arg3_|Optional|VARIANT|When given and nonzero, this function will round away from zero.|
 
-### Return value
+## Return value
 
  **DOUBLE**
 

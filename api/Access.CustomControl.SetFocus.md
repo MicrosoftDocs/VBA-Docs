@@ -23,7 +23,7 @@ _expression_. `SetFocus`
 _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

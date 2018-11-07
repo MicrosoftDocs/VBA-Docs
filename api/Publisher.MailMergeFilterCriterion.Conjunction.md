@@ -23,7 +23,7 @@ Returns or sets an  **MsoFilterConjunction** constant that represents how a filt
  _expression_ A variable that represents a  **MailMergeFilterCriterion** object.
 
 
-### Return value
+## Return value
 
 MsoFilterConjunction
 

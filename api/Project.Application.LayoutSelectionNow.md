@@ -23,7 +23,7 @@ Positions the selected task boxes in the active Network Diagram view according t
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 

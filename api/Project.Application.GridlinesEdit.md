@@ -39,7 +39,7 @@ Edits gridlines.
 | _IntervalType_|Optional|**Integer**|The type for secondary gridlines. Can be one of the  **[PjLineType](Project.PjLineType.md)** constants.|
 | _IntervalColor_|Optional|**Integer**|The color of secondary gridlines. Can be one of the  **[PjColor](Project.PjColor.md)** constants.|
 
-### Return value
+## Return value
 
  **Boolean**
 

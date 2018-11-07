@@ -46,7 +46,7 @@ Specifies the layout of boxes in the active Network Diagram view (PERT chart), w
 | _ShowPageBreaks_|Optional|**Boolean**|**True** if page breaks show in the Network Diagram; otherwise, **False**.|
 | _ShowIDOnly_|Optional|**Boolean**|**True** if only task ID numbers are displayed. **False** if all the task data fields in Network Diagram boxes are displayed.|
 
-### Return value
+## Return value
 
  **Boolean**
 

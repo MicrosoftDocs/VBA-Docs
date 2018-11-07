@@ -29,7 +29,7 @@ Returns a single object from the [ModelRelationships Object (Excel)](Excel.model
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
-### Return value
+## Return value
 
 A [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object contained in the collection.
 

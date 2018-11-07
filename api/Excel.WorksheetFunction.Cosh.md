@@ -31,7 +31,7 @@ Returns the hyperbolic cosine of a number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Double**|Any real number for which you want to find the hyperbolic cosine.|
 
-### Return value
+## Return value
 
 Double
 

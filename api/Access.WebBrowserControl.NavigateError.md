@@ -35,7 +35,7 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 | _StatusCode_|Required|**Variant**|Contains an error status code, if available.|
 | _Cancel_|Required|**Boolean**|Specifies whether to cancel the navigation to an error page or to any further autosearch.|
 
-### Return value
+## Return value
 
 nothing
 

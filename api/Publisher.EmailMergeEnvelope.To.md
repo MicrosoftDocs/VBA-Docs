@@ -23,7 +23,7 @@ Gets or sets the  **MailMergeDataField** object that represents the data-source 
  _expression_ A variable that represents an  **EmailMergeEnvelope** object.
 
 
-### Return value
+## Return value
 
 MailMergeDataField
 

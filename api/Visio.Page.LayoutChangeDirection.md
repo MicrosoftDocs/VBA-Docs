@@ -31,7 +31,7 @@ Revises the layout of a set of connected shapes on the page, by rotating or flip
 |:-----|:-----|:-----|:-----|
 | _Direction_|Required| **[VisLayoutDirection](Visio.VisLayoutDirection.md)**|The action to take. See Remarks for possible values.|
 
-### Return value
+## Return value
 
  **Nothing**
 

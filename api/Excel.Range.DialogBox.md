@@ -23,7 +23,7 @@ Displays a dialog box defined by a dialog box definition table on a Microsoft Ex
  _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
 
 
-### Return value
+## Return value
 
 Variant
 

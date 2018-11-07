@@ -34,7 +34,7 @@ Breaks links between all shapes in the selection and data rows in the specified 
 |:-----|:-----|:-----|:-----|
 | _DataRecordsetID_|Required| **Long**|The ID of the data recordset containing the data rows with which to break links.|
 
-### Return value
+## Return value
 
 Nothing
 

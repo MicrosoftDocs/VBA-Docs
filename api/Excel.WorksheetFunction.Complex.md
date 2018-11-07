@@ -33,7 +33,7 @@ Converts real and imaginary coefficients into a complex number of the form x + y
 | _Arg2_|Required| **Variant**|The imaginary coefficient of the complex number.|
 | _Arg3_|Optional| **Variant**|The suffix for the imaginary component of the complex number. If omitted, suffix is assumed to be "i".|
 
-### Return value
+## Return value
 
 String
 

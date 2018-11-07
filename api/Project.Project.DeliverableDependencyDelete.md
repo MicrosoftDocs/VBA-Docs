@@ -28,7 +28,7 @@ Deletes the dependency on the deliverable.
 |:-----|:-----|:-----|:-----|
 | _DeliverableGuid_|Required|**String**|The GUID of the deliverable from which to delete the dependency.|
 
-### Return value
+## Return value
 
  **Boolean**
 

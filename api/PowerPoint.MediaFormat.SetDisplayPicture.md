@@ -31,7 +31,7 @@ Sets the display picture at the specified time position.
 |:-----|:-----|:-----|:-----|
 | _Position_|Required|**Long**|The time position in the media to set the display picture.|
 
-### Return value
+## Return value
 
 Nothing
 

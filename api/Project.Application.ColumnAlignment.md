@@ -31,7 +31,7 @@ Sets the alignment of text in the active columns.
 |:-----|:-----|:-----|:-----|
 | _Align_|Required|**Long**|The alignment of text in the active columns. Can be one of the following  **PjAlignment** constants: **pjLeft**, **pjCenter**, or **pjRight**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

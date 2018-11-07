@@ -23,7 +23,7 @@ Returns a  **Long** indicating the connection site to which the end of a connect
  _expression_ A variable that represents an  **ConnectorFormat** object.
 
 
-### Return value
+## Return value
 
 Long
 

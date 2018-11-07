@@ -23,7 +23,7 @@ Opens a shared folder offered by a sharing invitation.
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 
 
-### Return value
+## Return value
 
 A  **[Folder](Outlook.Folder.md)** object that represents the shared folder.
 

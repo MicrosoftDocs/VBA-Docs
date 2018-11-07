@@ -31,7 +31,7 @@ Updates an external data range (**[QueryTable](Excel.QueryTable.md)**).
 |:-----|:-----|:-----|:-----|
 | _BackgroundQuery_|Optional| **Variant**|Used only with  **QueryTables** that are based on the results of a SQL query. **True** to return control to the procedure as soon as a database connection is made and the query is submitted. The **QueryTable** is updated in the background. **False** to return control to the procedure only after all data has been fetched to the worksheet. If this argument isn't specified, the setting of the **[BackgroundQuery](Excel.QueryTable.BackgroundQuery.md)** property determines the query mode.|
 
-### Return value
+## Return value
 
 Boolean
 

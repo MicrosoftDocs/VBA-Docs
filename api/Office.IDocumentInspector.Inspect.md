@@ -31,7 +31,7 @@ Inspects a document for specific information items or document properties by usi
 | _Result_|Required|**String**|Contains a list of the information items or document properties found in the document.|
 | _Action_|Required|**String**|Indicates to the user what action to take based on the results of the inspection.|
 
-### Return value
+## Return value
 
 [HRESULT]
 

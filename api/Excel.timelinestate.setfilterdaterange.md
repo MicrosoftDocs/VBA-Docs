@@ -30,7 +30,7 @@ Sets the Timeline?s filter.
 | _StartDate_|Required|VARIANT|The start of the filtering date range.|
 | _EndDate_|Required|VARIANT|The end of the filtering date range.|
 
-### Return value
+## Return value
 
  **XLFILTERSTATUS**
 

@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
  _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
 
 
-### Return value
+## Return value
 
 Object
 

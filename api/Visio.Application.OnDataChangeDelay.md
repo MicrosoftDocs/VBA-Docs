@@ -23,7 +23,7 @@ Gets or sets how long the Microsoft Visio instance waits before advising a conta
  _expression_ An expression that returns a [Application](./Visio.Application.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

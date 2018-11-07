@@ -23,7 +23,7 @@ Returns or sets the horizontal scaling factor for the texture fill. Read/write.
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 
 
-### Return value
+## Return value
 
 Single
 

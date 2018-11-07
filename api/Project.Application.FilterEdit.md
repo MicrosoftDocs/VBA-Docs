@@ -59,7 +59,7 @@ _expression_ A variable that represents an **Application** object.
 |"contains exactly"|_FieldName_ exactly contains _Value_.|
 
 
-### Return value
+## Return value
 
 **Boolean**
 

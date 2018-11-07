@@ -20,7 +20,7 @@ Returns a  **pbMailMergeDataFieldType** constant that represents the type of dat
  _expression_ A variable that represents a  **MailMergeDataField** object.
 
 
-### Return value
+## Return value
 
  **PbMailMergeDataFieldType**
 

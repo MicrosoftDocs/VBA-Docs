@@ -36,7 +36,7 @@ Displays a dialog box for user input. Returns the information entered in the dia
 | _HelpContextID_|Optional| **Variant**|The context ID number of the Help topic in _HelpFile_.|
 | _Type_|Optional| **Variant**|Specifies the return data type. If this argument is omitted, the dialog box returns text.|
 
-### Return value
+## Return value
 
 Variant
 

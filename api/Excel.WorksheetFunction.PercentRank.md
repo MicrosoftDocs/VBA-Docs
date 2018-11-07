@@ -37,7 +37,7 @@ For more information about the new functions, see the [Percentile_Inc](Excel.Wor
 | _Arg2_|Required| **Double**|X - the value for which you want to know the rank.|
 | _Arg3_|Optional| **Variant**|Significance - an optional value that identifies the number of significant digits for the returned percentage value. If omitted, PERCENTRANK uses three digits (0.xxx).|
 
-### Return value
+## Return value
 
 Double
 

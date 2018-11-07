@@ -23,7 +23,7 @@ Detemines whether to draw lines on the inside of a specified shape. Read/write.
  _expression_ A variable that represents an [LineFormat](./PowerPoint.LineFormat.md) object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

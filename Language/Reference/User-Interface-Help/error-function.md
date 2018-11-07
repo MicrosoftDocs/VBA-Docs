@@ -18,7 +18,7 @@ Returns the error message that corresponds to a given [error number](../../Gloss
 ## Syntax
 
 **Error** [ **(**_errornumber_**)** ]
-The optional  _errornumber_[argument](../../Glossary/vbe-glossary.md#argument) can be any valid error number. If _errornumber_ is a valid error number, but is not defined, **Error** returns the string "Application-defined or object-defined error." If _errornumber_ is not valid, an error occurs. If _errornumber_ is omitted, the message corresponding to the most recent[run-time error](../../Glossary/vbe-glossary.md#run-time-error) is returned. If no run-time error has occurred, or _errornumber_ is 0, **Error** returns a zero-length string ("").
+The optional  _errornumber_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid error number. If _errornumber_ is a valid error number, but is not defined, **Error** returns the string "Application-defined or object-defined error." If _errornumber_ is not valid, an error occurs. If _errornumber_ is omitted, the message corresponding to the most recent[run-time error](../../Glossary/vbe-glossary.md#run-time-error) is returned. If no run-time error has occurred, or _errornumber_ is 0, **Error** returns a zero-length string ("").
 
 ## Remarks
 

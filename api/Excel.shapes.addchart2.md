@@ -35,7 +35,7 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 | _Height_|Optional|VARIANT|The height, in points, of the chart.|
 | _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True** , the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 
-### Return value
+## Return value
 
  **SHAPE**
 

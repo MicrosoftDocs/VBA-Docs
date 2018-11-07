@@ -23,7 +23,7 @@ _expression_. `Dropdown`
 _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

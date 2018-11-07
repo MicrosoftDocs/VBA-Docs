@@ -32,7 +32,7 @@ Runs a Visual Basic procedure.
 | _MacroName_|Required|**String**|The name of the procedure to be run. The string can contain the following: a loaded presentation or add-in file name followed by an exclamation point (!), a valid module name followed by a period (.), and the procedure name. For example, the following is a valid MacroName value: "MyPres.ppt!Module1.Test."|
 | _safeArrayOfParams()_|Required|**Variant**|The argument to be passed to the procedure. You cannot specify an object for this argument, and you cannot use named arguments with this method. Arguments must be passed by position.|
 
-### Return value
+## Return value
 
 Variant
 

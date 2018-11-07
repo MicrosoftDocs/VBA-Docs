@@ -30,7 +30,7 @@ Returns a single object from the [FullSeriesCollection Object (Excel)](Excel.ful
 | _Index_|Required| **Variant**|The index number for the object.|
 | _Index_|Required|VARIANT||
 
-### Return value
+## Return value
 
 A [Series Object (Excel)](Excel.Series(object).md) object contained in the collection.
 

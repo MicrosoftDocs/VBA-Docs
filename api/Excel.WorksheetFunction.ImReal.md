@@ -31,7 +31,7 @@ Returns the real coefficient of a complex number in x + yi or x + yj text format
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required| **Variant**|Inumber - a complex number for which you want the real coefficient.|
 
-### Return value
+## Return value
 
 Double
 

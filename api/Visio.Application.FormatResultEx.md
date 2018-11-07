@@ -34,7 +34,7 @@ Formats a string or number into a string according to a format picture, using sp
 | _LangID_|Optional| **Long**|The language to use for the result string. |
 | _CalendarID_|Optional| **Long**|he calendar to use for the result string. The default value is the Western calendar, **visCalWestern**.|
 
-### Return value
+## Return value
 
 String
 

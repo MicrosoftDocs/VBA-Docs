@@ -33,7 +33,7 @@ Closes the active project.
 | _NoAuto_|Optional|**Boolean**|**True** if an **Auto_Close** macro is not run and the **Close** event is not raised. The default value is **False**.|
 | _CheckIn_|Optional|**Variant**|**True** if file is checked in after closing. The default value is **False**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

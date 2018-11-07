@@ -23,7 +23,7 @@ Gets a  **CustomXMLNode** object corresponding to the last child element of the 
  _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
 
 
-### Return value
+## Return value
 
 CustomXMLNode
 

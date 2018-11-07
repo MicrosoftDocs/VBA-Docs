@@ -33,7 +33,7 @@ Selects a cell.
 | _Column_|Optional|**Integer**|The column number of the cell to select.|
 | _RowRelative_|Optional|**Boolean**|**True** if the row number is relative to the active cell. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -23,7 +23,7 @@ Returns or sets the list of MDX unique names for members at all levels of the hi
  _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
-### Return value
+## Return value
 
  **Variant**
 

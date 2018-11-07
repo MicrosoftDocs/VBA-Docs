@@ -29,7 +29,7 @@ Occurs after the  **LoadWebBrowserControl** method is called with the third para
 | _bstrFunctionality_|Required|**String**|Name of the functionality.|
 | _Info_|Required|**EventInfo**|EventInfo object.|
 
-### Return value
+## Return value
 
 nothing
 

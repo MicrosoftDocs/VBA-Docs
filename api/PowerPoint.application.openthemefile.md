@@ -30,7 +30,7 @@ Opens the specified theme file (*thmx).
 | _themeFileName_|Required|**String**|The path of the theme file (*.thmx) to open.|
 | _themeFileName_|Required|STRING||
 
-### Return value
+## Return value
 
 [Theme](PowerPoint.theme.md)
 

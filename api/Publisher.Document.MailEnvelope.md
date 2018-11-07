@@ -23,7 +23,7 @@ Returns an  **MsoEnvelope** object that represents an e-mail header for a public
  _expression_ A variable that represents a  **Document** object.
 
 
-### Return value
+## Return value
 
 MsoEnvelope
 

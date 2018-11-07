@@ -23,7 +23,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarPopup** control
  _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
 
 
-### Return value
+## Return value
 
 Integer
 

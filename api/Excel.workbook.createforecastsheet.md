@@ -37,7 +37,7 @@ If you have historical time-based data, you can use  **CreateForecastSheet** to 
 | _ChartType_|Optional|VARIANT| _ChartType_ can be one of these[XlForecastChartType](Excel.xlforecastcharttype.md) constants: **xlChartTypeLine** or **xlChartTypeColumn** . The default is **xlChartTypeLine** .|
 | _ShowStatsTable_|Optional|VARIANT| **True** or **False** . If **True**, an additional table is generated in the created sheet. This table contains statistical measures that indicate the accuracy of the created forecast.|
 
-### Return value
+## Return value
 
 None
 

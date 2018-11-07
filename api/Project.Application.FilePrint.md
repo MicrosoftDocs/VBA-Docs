@@ -41,7 +41,7 @@ Prints the active view.
 | _Color_|Optional|**Boolean**|**True** if Project prints the active view in color. The default value is **False**.|
 | _ShowIEPrintDialog_|Optional|**Boolean**|If  **True**, shows the Internet Explorer print dialog while printing.|
 
-### Return value
+## Return value
 
  **Boolean**
 

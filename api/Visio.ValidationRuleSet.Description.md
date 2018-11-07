@@ -23,7 +23,7 @@ Specifies the description of the  **[ValidationRuleSet](Visio.ValidationRuleSet.
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 
 
-### Return value
+## Return value
 
  **String**
 

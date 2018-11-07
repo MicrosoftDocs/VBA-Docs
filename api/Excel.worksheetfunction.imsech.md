@@ -29,7 +29,7 @@ Returns the secant of a complex number.
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the hyperbolic secant.|
 
-### Return value
+## Return value
 
  **STRING**
 

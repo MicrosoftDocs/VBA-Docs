@@ -23,7 +23,7 @@ Returns the selected cell in the ShapeSheet window. Read-only.
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
 
-### Return value
+## Return value
 
 Cell
 

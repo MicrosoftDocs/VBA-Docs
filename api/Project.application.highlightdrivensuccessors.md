@@ -29,7 +29,7 @@ Sets or clears task driven successor highlighting for the task path feature.
 | _Set_|Optional|VARIANT||
 |Name|Required/Optional|Data type|Description|
 
-### Return value
+## Return value
 
  **Boolean**
 

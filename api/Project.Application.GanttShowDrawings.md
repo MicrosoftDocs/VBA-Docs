@@ -31,7 +31,7 @@ Shows or hides drawings on the Gantt Chart.
 |:-----|:-----|:-----|:-----|
 | _Display_|Optional|**Boolean**|**True** if drawings appear on the Gantt Chart. The default value is **True**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

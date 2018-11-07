@@ -20,7 +20,7 @@ Gets or sets a  **Long** indicating the number of items in the **TextColumn2** c
  _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

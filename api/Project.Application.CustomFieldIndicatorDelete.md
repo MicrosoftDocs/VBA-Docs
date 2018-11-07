@@ -33,7 +33,7 @@ Removes a test condition from a custom field graphical indicator criteria list.
 | _Index_|Required|**Integer**|The position of the test condition to delete from the list specified by  **CriteriaList**.|
 | _CriteriaList_|Optional|**Long**|The criteria list containing the test condition to be deleted. Can be one of the following  **PjCriteriaList** constants: **pjCriteriaNonSummary**, **pjCriteriaSummary**, or **pjCriteriaProjectSummary**. The default value is **pjCriteriaNonSummary**.|
 
-### Return value
+## Return value
 
  **Boolean**
 

@@ -34,7 +34,7 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 | _BottomView_|Required|**Variant**|The view that appears in the bottom pane of a combination view.|
 | _ShowInMenu_|Optional|**Boolean**|**True** if Project Server shows the view in the **View** menu. The default value is **False**|
 
-### Return value
+## Return value
 
  **ViewCombination**
 

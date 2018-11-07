@@ -35,7 +35,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
 | _knots()_|Required| **Double**|An array of knots.|
 | _weights_|Optional| **Variant**|An array of weights.|
 
-### Return value
+## Return value
 
 Shape
 

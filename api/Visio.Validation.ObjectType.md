@@ -23,7 +23,7 @@ Returns  **visObjTypeValidation** , the type of this object. Read-only.
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 
 
-### Return value
+## Return value
 
  **visObjTypeValidation**
 

@@ -23,7 +23,7 @@ Returns or sets an  **MsoTriState** constant indicating whether an appropriate d
  _expression_ A variable that represents a  **WrapFormat** object.
 
 
-### Return value
+## Return value
 
 MsoTriState
 

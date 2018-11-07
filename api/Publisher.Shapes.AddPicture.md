@@ -37,7 +37,7 @@ Adds a new  **Shape** object representing a picture to the specified **Shapes** 
 |Width|Optional| **Variant**|The width of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 |Height|Optional| **Variant**|The height of the shape representing the picture. Default is -1, meaning that the width of the shape is automatically set based on the object's data.|
 
-### Return value
+## Return value
 
 Shape
 

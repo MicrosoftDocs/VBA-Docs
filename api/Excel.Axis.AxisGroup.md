@@ -23,7 +23,7 @@ Returns the group for the specified axis. Read-only
  _expression_ A variable that represents an '[Axis](Excel.Axis(object).md)' object.
 
 
-### Return value
+## Return value
 
  **[XlAxisGroup](Excel.XlAxisGroup.md)**
 

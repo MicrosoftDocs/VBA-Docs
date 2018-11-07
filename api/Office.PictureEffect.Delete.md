@@ -20,7 +20,7 @@ Deletes a Picture Effect.
  _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
 
 
-### Return value
+## Return value
 
 Nothing
 

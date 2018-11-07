@@ -23,7 +23,7 @@ Gets the ordinal position of a  **Connect** object in the **Connects** collectio
  _expression_ A variable that represents a [Connect](./Visio.Connect.md) object.
 
 
-### Return value
+## Return value
 
 Long
 

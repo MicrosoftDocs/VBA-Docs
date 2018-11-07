@@ -31,7 +31,7 @@ Occurs when a workbook is installed as an add-in.
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The installed workbook.|
 
-### Return value
+## Return value
 
 Nothing
 

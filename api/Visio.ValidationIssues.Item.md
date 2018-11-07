@@ -31,7 +31,7 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that has the
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Long**|The index number of the object in its collection.|
 
-### Return value
+## Return value
 
  **ValidationIssue**
 

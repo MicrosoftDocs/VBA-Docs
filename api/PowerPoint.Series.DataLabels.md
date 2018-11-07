@@ -31,7 +31,7 @@ Returns an object that represents either a single data label (a  **[DataLabel](P
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|**Variant**|The number of the data label.|
 
-### Return value
+## Return value
 
 An object that represents either a single data label (a  **DataLabel** object) or a collection of all the data labels for the series (a **DataLabels** collection).
 

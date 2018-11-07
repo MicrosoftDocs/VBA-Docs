@@ -37,7 +37,7 @@ Examines, reports, and repairs selected conditions in a document.
 | _bLogFileName_|Optional| **Variant**|Reserved for future use.|
 | _nReserved_|Optional| **Variant**|Reserved for future use.|
 
-### Return value
+## Return value
 
 Nothing
 

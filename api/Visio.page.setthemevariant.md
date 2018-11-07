@@ -29,7 +29,7 @@ Sets the color, style, and optionally the embellishment of the variant of the th
 | _variantStyle_|Required|INT16|The index of the style variant to apply. Possible values are from 0 to 3.|
 | _embellishment_|Optional|INT16|The index of the embellishment to apply. Possible values are from 1, for ?low,? to 3, for ?high.?|
 
-### Return value
+## Return value
 
  **VOID**
 

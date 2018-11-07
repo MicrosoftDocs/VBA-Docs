@@ -28,7 +28,7 @@ Occurs when the status of the connection with Project Server changes. Available 
 |:-----|:-----|:-----|:-----|
 | _online_|Required|**Boolean**|**True** if Project Professional is connected with Project Server; otherwise, **False**.|
 
-### Return value
+## Return value
 
 nothing
 

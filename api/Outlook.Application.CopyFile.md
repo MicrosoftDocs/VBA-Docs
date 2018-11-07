@@ -32,7 +32,7 @@ Copies a file from a specified location into a Microsoft Outlook store.
 | _FilePath_|Required| **String**|The path name of the object you want to copy.|
 | _DestFolderPath_|Required| **String**|The location you want to copy the file to.|
 
-### Return value
+## Return value
 
 An  **Object** value that represents the copied file.
 

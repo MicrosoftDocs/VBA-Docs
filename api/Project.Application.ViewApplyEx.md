@@ -46,7 +46,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-### Return value
+## Return value
 
  **Boolean**
 

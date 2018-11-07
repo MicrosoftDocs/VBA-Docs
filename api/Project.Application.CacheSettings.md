@@ -23,7 +23,7 @@ Displays the  **Cache Settings** dialog box. Available in Project Professional o
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
 
-### Return value
+## Return value
 
  **Boolean**
 
