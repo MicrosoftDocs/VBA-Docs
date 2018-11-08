@@ -20,7 +20,7 @@ Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the Pivo
 
  _expression_. `PivotTable`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Example

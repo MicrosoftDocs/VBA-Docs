@@ -20,7 +20,7 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
  _expression_. `ReadingOrder`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## See also

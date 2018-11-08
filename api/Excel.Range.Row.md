@@ -20,7 +20,7 @@ Returns the number of the first row of the first area in the range. Read-only  *
 
  _expression_. `Row`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Example

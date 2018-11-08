@@ -20,7 +20,7 @@ Designates a range to be recalculated when the next recalculation occurs.
 
  _expression_. `Dirty`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks

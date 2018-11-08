@@ -1,5 +1,5 @@
 ---
-title: Range.RemoveDuplicates Method (Excel)
+title: Range.RemoveDuplicates method (Excel)
 keywords: vbaxl10.chm144243
 f1_keywords:
 - vbaxl10.chm144243
@@ -11,39 +11,32 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.RemoveDuplicates Method (Excel)
+# Range.RemoveDuplicates method (Excel)
 
 Removes duplicate values from a range of values.
 
-
 ## Syntax
 
- _expression_. `RemoveDuplicates`( `_Columns_` , `_Header_` )
+_expression_. RemoveDuplicates ( _Columns_ , _Header_ )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
-
+_expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Columns_|Required| **Variant**|Array of indexes of the columns that contain the duplicate information. |
-| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information.  **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
+| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 
 ## Example
 
-The following code sample removes duplicates with the first 2 columns
-
+The following code sample removes duplicates with the first 2 columns:
 
 ```vb
 ActiveSheet.Range("A1:C100").RemoveDuplicates Columns:=Array(1,2), Header:=xlYes
 ```
 
-
 ## See also
 
-
-[Range Object](Excel.Range(object).md)
+- [Range object](Excel.Range(object).md)
 

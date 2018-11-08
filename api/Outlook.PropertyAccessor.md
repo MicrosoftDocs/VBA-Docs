@@ -47,7 +47,7 @@ Sub DemoPropertyAccessorGetProperty()
  
  'PR_TRANSPORT_MESSAGE_HEADERS 
  
- PropName = "https://schemas.microsoft.com/mapi/proptag/0x007D001E" 
+ PropName = "http://schemas.microsoft.com/mapi/proptag/0x007D001E" 
  
  'Obtain an instance of PropertyAccessor class 
  
@@ -90,19 +90,19 @@ Sub DemoPropertyAccessorSetProperties()
  
  'Names for properties using the MAPI string namespace 
  
- prop1 = "https://schemas.microsoft.com/mapi/string/" &amp; _ 
+ prop1 = "http://schemas.microsoft.com/mapi/string/" &amp; _ 
  
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mylongprop" 
  
- prop2 = "https://schemas.microsoft.com/mapi/string/" &amp; _ 
+ prop2 = "http://schemas.microsoft.com/mapi/string/" &amp; _ 
  
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mystringprop" 
  
- prop3 = "https://schemas.microsoft.com/mapi/string/" &amp; _ 
+ prop3 = "http://schemas.microsoft.com/mapi/string/" &amp; _ 
  
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/mydateprop" 
  
- prop4 = "https://schemas.microsoft.com/mapi/string/" &amp; _ 
+ prop4 = "http://schemas.microsoft.com/mapi/string/" &amp; _ 
  
  "{FFF40745-D92F-4C11-9E14-92701F001EB3}/myboolprop" 
  

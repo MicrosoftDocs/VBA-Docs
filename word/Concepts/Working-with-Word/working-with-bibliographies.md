@@ -58,7 +58,7 @@ After following the previous steps, the Immediate Window contains the following 
 
 
 ```vb
-<b:Source xmlns:b="https://schemas.microsoft.com/office/word/2004/10/bibliography"> 
+<b:Source xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography"> 
     <b:Tag>And01</b:Tag> 
     <b:SourceType>Book</b:SourceType> 
     <b:Guid>{6D86D06C-9022-4932-8D4C-84C2B0843381}</b:Guid> 
@@ -90,7 +90,7 @@ After removing optional elements, you may have a structure similar to the follow
 
 
 ```vb
-<b:Source xmlns:b="https://schemas.microsoft.com/office/word/2004/10/bibliography"> 
+<b:Source xmlns:b="http://schemas.microsoft.com/office/word/2004/10/bibliography"> 
     <b:Tag>And01</b:Tag> 
     <b:SourceType></b:SourceType> 
     <b:Author> 
@@ -130,7 +130,7 @@ Sub AddBibSource()
  
     Dim strXml As String 
      
-    strXml = "<b:Source xmlns:b=""https://schemas.microsoft.com/" & _ 
+    strXml = "<b:Source xmlns:b=""http://schemas.microsoft.com/" & _ 
         "office/word/2004/10/bibliography""><b:Tag>Mor01</b:Tag>" & _ 
         "<b:SourceType>Book</b:SourceType><b:Author><b:Author>" & _ 
         "<b:NameList><b:Person><b:Last>Hezi</b:Last>" & _ 

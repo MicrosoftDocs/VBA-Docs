@@ -20,7 +20,7 @@ Fills down from the top cell or cells in the specified range to the bottom of th
 
  _expression_. `FillDown`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Return value

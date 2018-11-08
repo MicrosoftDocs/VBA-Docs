@@ -20,7 +20,7 @@ Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTab
 
  _expression_. `LocationInTable`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks

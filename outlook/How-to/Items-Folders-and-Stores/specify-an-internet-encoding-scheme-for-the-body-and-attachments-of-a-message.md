@@ -15,7 +15,7 @@ The following code sample in Visual C# shows how to reference  **PidTagInternetM
 
 
 ```vb
-https://schemas.microsoft.com/mapi/proptag/0x59020003
+http://schemas.microsoft.com/mapi/proptag/0x59020003
 ```
 
 where  `0x59020003` is the proptag of **PidTagInternetMailOverrideFormat**.
@@ -57,7 +57,7 @@ private void SendMail_Click()
     objRecipient = objMailItem.Recipients.Add(Recipient); 
     objRecipient.Resolve(); 
  
-    PropName = "https://schemas.microsoft.com/mapi/proptag/0x59020003"; 
+    PropName = "http://schemas.microsoft.com/mapi/proptag/0x59020003"; 
     oPA = objMailItem.PropertyAccessor; 
     oPA.SetProperty(PropName, EncodingFlag); 
  

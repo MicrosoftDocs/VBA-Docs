@@ -38,10 +38,10 @@ Sets the internal XML value for a custom ribbon user interface of the project.
 
 ## Remarks
 
-Because Project uses a binary file format, the  **SetCustomUI** method is required for programmatically customizing the ribbon.
+Because Project uses a binary file format, the **SetCustomUI** method is required for programmatically customizing the ribbon.
 
 
- **Note**  The  **SetCustomUI** method affects all customizations within the scope of the project. For example, if there is an existing customization in the enterprise global project or the local Global.mpt project, to make an additional customization, you must include the existing XML definition in the CustomUIXML argument.
+ **Note**  The **SetCustomUI** method affects all customizations within the scope of the project. For example, if there is an existing customization in the enterprise global project or the local Global.mpt project, to make an additional customization, you must include the existing XML definition in the CustomUIXML argument.
 
 The  _CustomUIXML_ value must be valid XML for Microsoft Office custom ribbon content. The XML value must begin with the **mso:customUI** element, followed by the **mso:ribbon** element. If the **mso:ribbon** element is empty, **SetCustomUI** removes ribbon customizations.
 
@@ -50,14 +50,14 @@ There are many articles on MSDN about customizing the ribbon for the Fluent user
 
 ## Example
 
-The following example adds  **New Tab** to the left of the **VIEW** tab in the ribbon. **New Tab** contains a group named **New Group**. The button in the group is named  **Test Button** and uses the image named **GetExternalDataFromText** in the built-in Microsoft Office icon library.
+The following example adds **New Tab** to the left of the **VIEW** tab in the ribbon. **New Tab** contains a group named **New Group**. The button in the group is named **Test Button** and uses the image named **GetExternalDataFromText** in the built-in Microsoft Office icon library.
 
 
 ```vb
 Sub AddCustomUI() 
     Dim customUiXml As String 
  
-    customUiXml = "<mso:customUI xmlns:mso=""https://schemas.microsoft.com/office/2009/07/customui"">" _
+    customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
         & "<mso:ribbon><mso:tabs><mso:tab id=""myTab"" label=""New Tab"" " _
         & "insertBeforeQ=""mso:TabView"">" _ 
         & "<mso:group id=""group1"" label=""New Group"">" _ 
@@ -69,7 +69,7 @@ Sub AddCustomUI()
 End Sub
 ```
 
-The following example removes all ribbon customizations, because the  **mso:ribbon** element is empty.
+The following example removes all ribbon customizations, because the **mso:ribbon** element is empty.
 
 
 
@@ -78,7 +78,7 @@ The following example removes all ribbon customizations, because the  **mso:ribb
 Sub RemoveCustomUI() 
     Dim customUiXml As String 
  
-    customUiXml = "<mso:customUI xmlns:mso=""https://schemas.microsoft.com/office/2009/07/customui"">" _
+    customUiXml = "<mso:customUI xmlns:mso=""http://schemas.microsoft.com/office/2009/07/customui"">" _
         & "<mso:ribbon></mso:ribbon></mso:customUI>" 
  
     ActiveProject.SetCustomUI (customUiXml) 

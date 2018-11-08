@@ -1,5 +1,5 @@
 ---
-title: PjAutoFilterType Enumeration (Project)
+title: PjAutoFilterType enumeration (Project)
 ms.prod: project-server
 api_name:
 - Project.PjAutoFilterType
@@ -8,11 +8,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PjAutoFilterType Enumeration (Project)
+# PjAutoFilterType enumeration (Project)
 
 Contains constants that specify how to set the automatic filter.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

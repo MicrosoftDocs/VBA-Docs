@@ -41,4 +41,7 @@ Use the table of contents in the navigation on the left to view the topics in th
     
     Describes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
     
+## See also
 
+- [Object library reference for Office (members, properties, methods)](https://docs.microsoft.com/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 This topic shows how to obtain the SMTP address for each recipient in a  **[Recipients](../../../api/Outlook.Recipients.md)** collection.
 
-The method in the code sample,  `GetSMTPAddressForRecipients`, takes a  **[MailItem](../../../api/Outlook.MailItem.md)** as an input argument and then displays the SMTP address of each recipient for that mail item. The method first retrieves the **Recipients** collection that represents the set of recipients specified for the mail item. For each **[Recipient](../../../api/Outlook.Recipient.md)** in that **Recipients** collection, the method then obtains the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object that corresponds to that **Recipient** object, and uses the **PropertyAccessor** to get the value of the MAPI property `https://schemas.microsoft.com/mapi/proptag/0x39FE001E`, that maps to the SMTP address of the recipient.
+The method in the code sample,  `GetSMTPAddressForRecipients`, takes a  **[MailItem](../../../api/Outlook.MailItem.md)** as an input argument and then displays the SMTP address of each recipient for that mail item. The method first retrieves the **Recipients** collection that represents the set of recipients specified for the mail item. For each **[Recipient](../../../api/Outlook.Recipient.md)** in that **Recipients** collection, the method then obtains the **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object that corresponds to that **Recipient** object, and uses the **PropertyAccessor** to get the value of the MAPI property `http://schemas.microsoft.com/mapi/proptag/0x39FE001E`, that maps to the SMTP address of the recipient.
 
 This topic contains two code samples. The following code sample is written in Microsoft Visual Basic for Applications (VBA). 
 
@@ -23,7 +23,7 @@ Sub GetSMTPAddressForRecipients(mail As Outlook.MailItem)
     Dim recip As Outlook.Recipient 
     Dim pa As Outlook.PropertyAccessor 
     Const PR_SMTP_ADDRESS As String = _ 
-        "https://schemas.microsoft.com/mapi/proptag/0x39FE001E" 
+        "http://schemas.microsoft.com/mapi/proptag/0x39FE001E" 
     Set recips = mail.Recipients 
     For Each recip In recips 
         Set pa = recip.PropertyAccessor 
@@ -41,7 +41,7 @@ The following managed code is written in C#. To run a .NET Framework managed cod
 private void GetSMTPAddressForRecipients(Outlook.MailItem mail) 
 { 
     const string PR_SMTP_ADDRESS = 
-        "https://schemas.microsoft.com/mapi/proptag/0x39FE001E"; 
+        "http://schemas.microsoft.com/mapi/proptag/0x39FE001E"; 
     Outlook.Recipients recips = mail.Recipients; 
     foreach (Outlook.Recipient recip in recips) 
     { 

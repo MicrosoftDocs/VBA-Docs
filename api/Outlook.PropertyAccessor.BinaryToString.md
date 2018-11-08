@@ -55,7 +55,7 @@ Sub TestEntryIDs()
  Dim EntryID1 As String, EntryID2 As String, EntryIDProperty As String 
  
  'This is the MAPI property PR_ENTRYID referenced with its MAPI proptag namespace 
- EntryIDProperty = "https://schemas.microsoft.com/mapi/proptag/0x0FFF0102" 
+ EntryIDProperty = "http://schemas.microsoft.com/mapi/proptag/0x0FFF0102" 
  Set oFolder = Application.Session.GetDefaultFolder(olFolderInbox) 
  Set oItems = oFolder.Items 
  For Each oMsg In oItems 

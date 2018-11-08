@@ -62,7 +62,7 @@ Sub GetSelectedItems()
  
  Const PR_SENT_REPRESENTING_ENTRYID As String = _ 
  
- "https://schemas.microsoft.com/mapi/proptag/0x00410102" 
+ "http://schemas.microsoft.com/mapi/proptag/0x00410102" 
  
  Dim MsgTxt As String 
  

@@ -271,7 +271,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[UndoEnabled](./Visio.Application.UndoEnabled.md)|
 |[UserName](./Visio.Application.UserName.md)|
 |[VBAEnabled](./Visio.Application.VBAEnabled.md)|
-|[Vbe](./Visio.Application.Vbe.md)|
+|[VBE](./Visio.Application.Vbe.md)|
 |[Version](./Visio.Application.Version.md)|
 |[Visible](./Visio.Application.Visible.md)|
 |[Window](./Visio.Application.Window.md)|
