@@ -30,7 +30,7 @@ ms.date: 09/17/2018
 - [Center in Form commands (Format menu)](center-in-form-commands-format-menu.md)
 - [Clear All Breakpoints command (Debug menu)](clear-all-breakpoints-command-debug-menu.md)
 - [Clearand Delete commands (Edit menu)](clearand-delete-commands-edit-menu.md)
-- [Close &; Return to <host application> command (File menu)](closereturn-to-host-application-command-file-menu.md)
+- [Close & Return to <host application> command (File menu)](closereturn-to-host-application-command-file-menu.md)
 - [Close command (Shortcut menu)](close-command-shortcut-menu.md)
 - [Close Project command (File menu)](close-project-command-file-menu.md)
 - [Code command (View menu)](code-command-view-menu.md)

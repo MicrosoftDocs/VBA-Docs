@@ -29,7 +29,7 @@ The  **+** operator syntax has these parts:
 
 ## Remarks
 
-When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&;** operator for concatenation to eliminate ambiguity and provide self-documenting code.
+When you use the  **+** operator, you may not be able to determine whether addition or string concatenation will occur. Use the **&** operator for concatenation to eliminate ambiguity and provide self-documenting code.
 If at least one expression is not a [Variant](../../Glossary/vbe-glossary.md#variant-data-type), the following rules apply:
 
 
@@ -70,7 +70,7 @@ If one or both expressions are  **Null** expressions, _result_ is **Null**. If b
 
 ## Example
 
-This example uses the  **+** operator to sum numbers. The **+** operator can also be used to concatenate strings. However, to eliminate ambiguity, you should use the **&;** operator instead. If the components of an expression created with the **+** operator include both strings and numerics, the arithmetic result is assigned. If the components are exclusively strings, the strings are concatenated.
+This example uses the  **+** operator to sum numbers. The **+** operator can also be used to concatenate strings. However, to eliminate ambiguity, you should use the **&** operator instead. If the components of an expression created with the **+** operator include both strings and numerics, the arithmetic result is assigned. If the components are exclusively strings, the strings are concatenated.
 
 
 ```vb

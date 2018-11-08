@@ -36,11 +36,11 @@ String
 
 
 
-- Use an ampersand (&;) in the string to cause the next character in the string to become the shortcut key for that menu or menu item. For example, the string "F _&;o_ rmat" causes _o_ to become the shortcut key for that menu item in that one menu.
+- Use an ampersand (&) in the string to cause the next character in the string to become the shortcut key for that menu or menu item. For example, the string "F _&o_ rmat" causes _o_ to become the shortcut key for that menu item in that one menu.
     
 - Use "" in the string to display a double quotation mark on the menu.
     
-- Use &;&; in the string to display an ampersand on the menu.
+- Use && in the string to display an ampersand on the menu.
     
 
 

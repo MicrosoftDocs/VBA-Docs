@@ -146,7 +146,7 @@ The syntax of **ci_startswith** is as follows...
     
 - Restricting for "sea" would match "Subject: the deep blue sea"
     
-- Restricting for "law order" would match "law and order" or "law &; order"
+- Restricting for "law order" would match "law and order" or "law & order"
     
 - Restricting for "law and order" would match "I like the show Law and Order."
     

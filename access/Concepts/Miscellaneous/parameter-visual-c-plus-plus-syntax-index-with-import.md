@@ -13,7 +13,7 @@ ms.date: 10/12/2018
 ## Methods
 
 ```cs
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t &; Val ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappchunk_HV10294090.xml( const _variant_t & Val ); 
 
 ```
 
@@ -53,7 +53,7 @@ void PutType( enum DataTypeEnum psDataType );
 __declspec(property(get=GetType,put=PutType)) enum DataTypeEnum Invalid DDUE based on source, error:link not allowed in code, link filename:mdprotype_HV10294866.xml; 
  
 _variant_t GetValue( ); 
-void PutValue( const _variant_t &; pvar ); 
+void PutValue( const _variant_t & pvar ); 
 __declspec(property(get=GetValue,put=PutValue)) _variant_t Invalid DDUE based on source, error:link not allowed in code, link filename:mdprovalue_HV10294920.xml; 
 
 ```

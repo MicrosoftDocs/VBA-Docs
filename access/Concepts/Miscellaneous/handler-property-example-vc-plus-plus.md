@@ -32,7 +32,7 @@ no_namespace rename("EOF", "EndOfFile")#import "C:\Program Files\Common Files\Sy
 #include <ole2.h>#include <stdio.h>
 #include <conio.h>// Function declarations
 inline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);};void HandlerX(void);
-void PrintProviderError(_ConnectionPtr pConnection);void PrintComError(_com_error &;e);
+void PrintProviderError(_ConnectionPtr pConnection);void PrintComError(_com_error &e);
 //////////////////////////////////////////////////////////// //
 // Main Function //// //
 //////////////////////////////////////////////////////////void main()
@@ -56,7 +56,7 @@ dc->Connect = "Data Source=AuthorDatabase";dc->SQL = "AuthorById('267-41-2394')"
 // Use another Recordset as a convenience.pRst = dc->GetRecordset();
 printf("Author is %s %s",(LPSTR) (_bstr_t) pRst->Fields->GetItem("au_fname")->Value,\(LPSTR) (_bstr_t) pRst->Fields->GetItem("au_lname")->Value);
 pRst->Close();} // End Try statement.
-catch (_com_error &;e){
+catch (_com_error &e){
 PrintProviderError(pRst->GetActiveConnection());PrintComError(e);
 }}
 //////////////////////////////////////////////////////////// //
@@ -73,7 +73,7 @@ pErr = pConnection->Errors->GetItem(i);printf("\t Error number: %x\t%s", pErr->N
 }//////////////////////////////////////////////////////////
 //// PrintComError Function //
 // ////////////////////////////////////////////////////////////
-void PrintComError(_com_error &;e){
+void PrintComError(_com_error &e){
 _bstr_t bstrSource(e.Source());_bstr_t bstrDescription(e.Description());
 // Print Com errors.printf("Error\n");
 printf("\tCode = %08lx\n", e.Error());printf("\tCode meaning = %s\n", e.ErrorMessage());

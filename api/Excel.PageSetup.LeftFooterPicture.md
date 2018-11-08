@@ -28,7 +28,7 @@ Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture fo
 The  **LeftFooterPicture** property is read-only, but the properties on it are not all read-only.
 
 
- **Note**  It is required that "&;G" is a part of the  **LeftFooter** property string in order for the image to show up in the left footer.
+ **Note**  It is required that "&G" is a part of the  **LeftFooter** property string in order for the image to show up in the left footer.
 
 
 ## Example

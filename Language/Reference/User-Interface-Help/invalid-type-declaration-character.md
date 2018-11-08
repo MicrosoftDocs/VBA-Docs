@@ -19,7 +19,7 @@ ms.date: 06/08/2017
     
     Remove the type-declaration character.
     
-- A type-declaration character is appended to an inconsistent literal. For example, since the ampersand (**&;**) is the type-declaration character for a **Long** integer, appending it to a literal of a different type causes this error:
+- A type-declaration character is appended to an inconsistent literal. For example, since the ampersand (**&**) is the type-declaration character for a **Long** integer, appending it to a literal of a different type causes this error:
     
   ```vb
   10.253& 

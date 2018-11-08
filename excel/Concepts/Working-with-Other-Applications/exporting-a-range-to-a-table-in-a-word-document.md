@@ -7,9 +7,9 @@ ms.date: 06/08/2017
 
 # Exporting a Range to a Table in a Word Document
 
-This example takes the range A1:A10 on Sheet 1 and exports it to the first table in an existing Word document named &;quot;Table Report&;quot;.
+This example takes the range A1:A10 on Sheet 1 and exports it to the first table in an existing Word document named &quot;Table Report&quot;.
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
 
 
 
@@ -74,6 +74,6 @@ End Sub
 ## About the Contributor
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 

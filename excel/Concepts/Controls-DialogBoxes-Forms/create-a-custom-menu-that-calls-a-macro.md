@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 The following code example shows how to create a custom menu with four menu options, each of which calls a macro.
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 The following code example sets up the custom menu when the workbook is opened, and deletes it when the workbook is closed.
 

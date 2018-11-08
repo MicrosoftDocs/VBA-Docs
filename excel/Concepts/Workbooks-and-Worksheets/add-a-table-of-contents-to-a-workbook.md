@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 The following examples show different approaches for adding a table of contents to an Excel workbook.
 
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
 
 This example uses the  [Pages.Count Property (Excel)](../../../api/Excel.Pages.Count.md) property to calculate the number of pages on each sheet. In addition, the entries in the TOC link to their respective sheets to improve on-screen workbook navigation.
 
@@ -143,7 +143,7 @@ End Sub
 ## About the Contributors
 <a name="AboutContributor"> </a>
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel. He is a regular guest on TechTV with Leo Laporte and is the host of MrExcel.com, which includes more than 300,000 questions and answers about Excel. 
 

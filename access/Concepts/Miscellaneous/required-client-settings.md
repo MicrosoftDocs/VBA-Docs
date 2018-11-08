@@ -60,8 +60,8 @@ Specify either the **Handler** property or keyword, the **Provider** property or
 
 
 ```vb
-rs.Open "CustomerById(4)", "Handler=MSDFMAP.Handler;" &; _ 
-   "Provider=MS Remote;Data Source=CustomerDatabase;" &; _ 
+rs.Open "CustomerById(4)", "Handler=MSDFMAP.Handler;" & _ 
+   "Provider=MS Remote;Data Source=CustomerDatabase;" & _ 
    "Remote Server=http://yourServer" 
 
 ```

@@ -21,7 +21,7 @@ no_namespace rename("EOF", "EndOfFile")#import "C:\Program Files\Common Files\Sy
 #include <conio.h> 
 // Function declarationsinline void TESTHR(HRESULT x) {if FAILED(x) _com_issue_error(x);};
 void InternetTimeOutX(void);void PrintProviderError(_ConnectionPtr pConnection);
-void PrintComError(_com_error &;e); 
+void PrintComError(_com_error &e); 
 //////////////////////////////////////////////////////////// //
 // Main Function //// //
 ////////////////////////////////////////////////////////// 
@@ -48,7 +48,7 @@ printf("%s %s",(LPSTR) (_bstr_t) pRst->Fields->GetItem("au_fname")->Value,
 (LPSTR) (_bstr_t) pRst->Fields->GetItem("au_lname")->Value); 
 pRst->MoveNext();}
 pRst->Close();} 
-catch (_com_error &;e){
+catch (_com_error &e){
 PrintProviderError(pRst->GetActiveConnection());PrintComError(e);
 }} 
 //////////////////////////////////////////////////////////// //
@@ -66,7 +66,7 @@ pErr->Description);}
 //////////////////////////////////////////////////////////// //
 // PrintComError Function //// //
 ////////////////////////////////////////////////////////// 
-void PrintComError(_com_error &;e){
+void PrintComError(_com_error &e){
 _bstr_t bstrSource(e.Source());_bstr_t bstrDescription(e.Description()); 
 // Print Com errors.printf("Error\n");
 printf("\tCode = %08lx\n", e.Error());printf("\tCode meaning = %s\n", e.ErrorMessage());

@@ -46,7 +46,7 @@ The  **GetWindowRect** method gets the size and position of the client area of t
 
 ## Example
 
-The following example shows how to use the  **GetWindowRect** method to get the size and position of a **Window** object. It opens the **Pan &; Zoom** window and prints the window's coordinates, width, and height in the Immediate window.
+The following example shows how to use the  **GetWindowRect** method to get the size and position of a **Window** object. It opens the **Pan & Zoom** window and prints the window's coordinates, width, and height in the Immediate window.
 
 
 ```vb

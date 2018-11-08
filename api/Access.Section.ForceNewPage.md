@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.ForceNewPage property (Access)
 
-You can use the  **ForceNewPage** property to specify whether form sections detail, footer) or report sections (header, detail, footer) print on a separate page, rather than on the current page. Read/write **Byte**.
+You can use the **ForceNewPage** property to specify whether form sections detail, footer) or report sections (header, detail, footer) print on a separate page, rather than on the current page. Read/write **Byte**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 ## Remarks
 
-For example, you may have designed the last page of a report as an order form. If the report footer's  **ForceNewPage** property is set to Before Section, the order form is always printed on a new page.
+For example, you may have designed the last page of a report as an order form. If the report footer's **ForceNewPage** property is set to Before Section, the order form is always printed on a new page.
 
 
- **Note**  The  **ForceNewPage** property does not apply to page headers or page footers.
+ **Note**  The **ForceNewPage** property does not apply to page headers or page footers.
 
-The  **ForceNewPage** property uses the following settings.
+The **ForceNewPage** property uses the following settings.
 
 
 
@@ -39,9 +39,9 @@ The  **ForceNewPage** property uses the following settings.
 |None|0|(Default) The current section (the section for which you're setting the property) is printed on the current page.|
 |Before Section|1|The current section is printed at the top of a new page.|
 |After Section|2|The section immediately following the current section is printed at the top of a new page.|
-|Before &; After|3|The current section is printed at the top of a new page, and the next section is printed at the top of a new page.|
+|Before & After|3|The current section is printed at the top of a new page, and the next section is printed at the top of a new page.|
 
-Here are some examples of the  **ForceNewPage** property setting.
+Here are some examples of the **ForceNewPage** property setting.
 
 
 
@@ -53,7 +53,7 @@ Here are some examples of the  **ForceNewPage** property setting.
 
 ## Example
 
-The following example returns the  **ForceNewPage** property setting for the detail section of the Sales By Date report and assigns it to the `intGetVal` variable.
+The following example returns the **ForceNewPage** property setting for the detail section of the Sales By Date report and assigns it to the `intGetVal` variable.
 
 
 ```vb

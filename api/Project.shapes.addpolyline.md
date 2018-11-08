@@ -33,7 +33,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 
 ## Remarks
 
-To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &;HD59B5B, or  `RGB(Red:=91, Green:=155, Blue:=213)`.
+To form a closed polygon, assign the same coordinates to the first and last vertices in the polyline drawing. For a closed polygon, the default shape fill color is a medium blue: &HD59B5B, or  `RGB(Red:=91, Green:=155, Blue:=213)`.
 
 
 ## Example

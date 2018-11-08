@@ -1,5 +1,5 @@
 ---
-title: Categories Object (Outlook)
+title: Categories object (Outlook)
 keywords: vbaol11.chm3178
 f1_keywords:
 - vbaol11.chm3178
@@ -10,24 +10,21 @@ ms.assetid: 319efa26-269d-9f2f-c8ec-33082e80a9e2
 ms.date: 06/08/2017
 ---
 
+# Categories object (Outlook)
 
-# Categories Object (Outlook)
-
-Represents the collection of  **[Category](./Outlook.Category.md)** objects that define the Master Category List for a namespace.
-
+Represents the collection of **[Category](./Outlook.Category.md)** objects that define the Master Category List for a namespace.
 
 ## Remarks
 
-Microsoft Outlook provides a categorization system by which Outlook items can be easily identified and grouped into user-defined categories. The  **Categories** object represents the set of user-defined categories available to the user of a given mailbox.
+Microsoft Outlook provides a categorization system by which Outlook items can be easily identified and grouped into user-defined categories. The **Categories** object represents the set of user-defined categories available to the user of a given mailbox.
 
-Use the  **[Categories](./Outlook.NameSpace.Categories.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a **Categories** object reference, representing the Master Category List for that namespace.
+Use the **[Categories](./Outlook.NameSpace.Categories.md)** property of the **[NameSpace](Outlook.NameSpace.md)** object to obtain a **Categories** object reference, representing the Master Category List for that namespace.
 
-Use the  **[Add](./Outlook.Categories.Add.md)** method to create a new **Category** object and append it to the collection. Use the **[Item](./Outlook.Categories.Item.md)** method to obtain a **Category** object reference for an existing category, and the **[Remove](./Outlook.Categories.Remove.md)** method to remove a **Category** object from the collection. Use the **[Count](./Outlook.Categories.Count.md)** property to return the number of categories contained in the collection.
-
+Use the **[Add](./Outlook.Categories.Add.md)** method to create a new **Category** object and append it to the collection. Use the **[Item](./Outlook.Categories.Item.md)** method to obtain a **Category** object reference for an existing category, and the **[Remove](./Outlook.Categories.Remove.md)** method to remove a **Category** object from the collection. Use the **[Count](./Outlook.Categories.Count.md)** property to return the number of categories contained in the collection.
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each  **Category** object contained in the **Categories** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
+The following Visual Basic for Applications (VBA) example displays a dialog box containing the names and identifiers for each **Category** object contained in the **Categories** collection associated with the default **[NameSpace](Outlook.NameSpace.md)** object.
 
 
 ```vb
@@ -48,8 +45,8 @@ Private Sub ListCategoryIDs()
  
  ' Add the name and ID of the Category object to 
  ' the output string. 
- strOutput = strOutput &amp; objCategory.Name &amp; _ 
- ": " &amp; objCategory.CategoryID &amp; vbCrLf 
+ strOutput = strOutput & objCategory.Name & _ 
+ ": " & objCategory.CategoryID & vbCrLf 
  Next 
  End If 
  
@@ -67,8 +64,6 @@ End Sub
 
 ## Methods
 
-
-
 |**Name**|
 |:-----|
 |[Add](./Outlook.Categories.Add.md)|
@@ -76,8 +71,6 @@ End Sub
 |[Remove](./Outlook.Categories.Remove.md)|
 
 ## Properties
-
-
 
 |**Name**|
 |:-----|
@@ -89,6 +82,5 @@ End Sub
 
 ## See also
 
-
-[Categories Object Members](./overview/Outlook.md)
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
+- [Categories Object Members](./overview/Outlook.md)
+- [Outlook Object Model Reference](./overview/Outlook/object-model.md)

@@ -199,7 +199,7 @@ You can create a Web-based application that enables users to select a company na
     
 5. Add a reference to WindowsBase.dll to your project: Right-click **References**, click **Add Reference**, click the **.NET** tab, select **WindowsBase**, and then click **OK**.
     
-6. Download and install the  [Microsoft .NET Framework 4.0](https://www.microsoft.com/downloads/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992&;displaylang=en)
+6. Download and install the [Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?id=17851)
     
 7. Configure the assembly in the Web.config file as follows.
     

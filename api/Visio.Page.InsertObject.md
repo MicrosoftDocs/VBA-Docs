@@ -58,8 +58,8 @@ The  _Flags_ argument is a bitmask that can include one of the following values.
 
 |**Constant**|**Value**|**Description**|
 |:-----|:-----|:-----|
-| **visInsertIcon**|&;H10|Displays the new shape as an icon.|
-| **visInsertDontShow**|&;H1000|Does not execute the new object's show verb.|
+| **visInsertIcon**|&H10|Displays the new shape as an icon.|
+| **visInsertDontShow**|&H1000|Does not execute the new object's show verb.|
 
 If both  **visInsertIcon** and **visInsertDontShow** are specified, the **InsertObject** method fails. If you want to insert an object that is displayed as an icon, you must allow the application to execute the object's show verb.
 
@@ -69,8 +69,8 @@ The  _Flags_ argument can also include one of the following values.
 
 |**Constant**|**Value**|
 |:-----|:-----|
-| **visInsertAsControl**|&;H2000|
-| **visInsertAsEmbed**|&;H4000|
+| **visInsertAsControl**|&H2000|
+| **visInsertAsEmbed**|&H4000|
 
 Values in  **visInsertAsControl** and **visInsertAsEmbed** only have an effect if the class identified by _ClassOrProgID_ is identified in the registry as a control that can be inserted. If neither **visInsertAsControl** nor **visInsertAsEmbed** is specified and the object can be either a control or an embedded object, the application inserts it as a control.
 

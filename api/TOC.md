@@ -35446,7 +35446,7 @@
 ##### [Class not registered on local machine (Error 463)](../Language/Reference/User-Interface-Help/class-not-registered-on-local-machine-error-463.md)
 ##### [Class not registered. 'item 1'](../Language/Reference/User-Interface-Help/class-not-registereditem-1.md)
 ##### [Clear all Breakpoints command (Debug menu)](../Language/Reference/User-Interface-Help/clear-all-breakpoints-command-debug-menu.md)
-##### [Close &; Return to <host application> command (File menu)](../Language/Reference/User-Interface-Help/closereturn-to-host-application-command-file-menu.md)
+##### [Close & return to <host application> command (File menu)](../Language/Reference/User-Interface-Help/closereturn-to-host-application-command-file-menu.md)
 ##### [Close command (Shortcut menu)](../Language/Reference/User-Interface-Help/close-command-shortcut-menu.md)
 ##### [Close Project command (File menu)](../Language/Reference/User-Interface-Help/close-project-command-file-menu.md)
 ##### [Code command (View menu)](../Language/Reference/User-Interface-Help/code-command-view-menu.md)
