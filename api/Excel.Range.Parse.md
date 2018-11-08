@@ -20,7 +20,7 @@ Parses a range of data and breaks it into multiple cells. Distributes the conten
 
  _expression_. `Parse`( `_ParseLine_` , `_Destination_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters

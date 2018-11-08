@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the entire
 
  _expression_. `EntireRow`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Example
@@ -32,7 +32,7 @@ This example sets the value of the first cell in the row that contains the activ
 ActiveCell.EntireRow.Cells(1, 1).Value = 5
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example sorts all the rows on a worksheet, including hidden rows.
 

@@ -28,7 +28,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 
 ```
@@ -51,7 +51,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 ```
 
@@ -63,7 +63,7 @@ __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, erro
 ```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( IDispatch * Object ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t &; Index ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldelete_HV10294294.xml( const _variant_t & Index ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
 ```
@@ -74,7 +74,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 ```
 
@@ -85,10 +85,10 @@ __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, erro
 
 ```cs
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthappend_HV10294078.xml( _bstr_t Name , enum DataTypeEnum Type , long DefinedSize , 
- enum FieldAttributeEnum Attrib , const _variant_t &; FieldValue  = 
+ enum FieldAttributeEnum Attrib , const _variant_t & FieldValue  = 
  vtMissing ); 
  
-HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldeletefield_HV10294293.xml( const _variant_t &; Index ); 
+HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthcoldeletefield_HV10294293.xml( const _variant_t & Index ); 
  
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadorefresh_HV10294718.xml( ); 
  
@@ -101,7 +101,7 @@ HRESULT Invalid DDUE based on source, error:link not allowed in code, link filen
 long GetCount( ); 
 __declspec(property(get=GetCount)) long Invalid DDUE based on source, error:link not allowed in code, link filename:mdprocount_HV10294234.xml; 
  
-PropertyPtr GetItem( const _variant_t &; Index ); 
+PropertyPtr GetItem( const _variant_t & Index ); 
 __declspec(property(get=GetItem)) PropertyPtr Invalid DDUE based on source, error:link not allowed in code, link filename:mdproitem_HV10294463.xml[]; 
 ```
 

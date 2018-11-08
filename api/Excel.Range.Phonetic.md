@@ -20,7 +20,7 @@ Returns the  **[Phonetic](Excel.Phonetic.md)** object, which contains informatio
 
  _expression_. `Phonetic`
 
- _expression_ An expression that returns a [Range](Excel.Range(Graph property).md) object.
+ _expression_ An expression that returns a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Return value

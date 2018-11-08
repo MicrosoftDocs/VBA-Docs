@@ -23,7 +23,7 @@ You can create custom text and memo formats by using the following symbols.
 |**Symbol**|**Description**|
 |:-----|:-----|
 |@|Text character (either a character or a space) is required.|
-|&;|Text character is not required.|
+|&|Text character is not required.|
 |<|Force all characters to lowercase.|
 |>|Force all characters to uppercase.|
 

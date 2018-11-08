@@ -22,7 +22,7 @@ The required  _string_ [argument](../../Glossary/vbe-glossary.md#argument) is an
 
 ## Remarks
 
-The  **Val** function stops reading the string at the first character it can't recognize as part of a number. Symbols and characters that are often considered parts of numeric values, such as dollar signs and commas, are not recognized. However, the function recognizes the radix prefixes `&;O` (for octal) and (for octal) and `&;H` (for hexadecimal). Blanks, tabs, and linefeed characters are stripped from the argument.
+The  **Val** function stops reading the string at the first character it can't recognize as part of a number. Symbols and characters that are often considered parts of numeric values, such as dollar signs and commas, are not recognized. However, the function recognizes the radix prefixes `&O` (for octal) and (for octal) and `&H` (for hexadecimal). Blanks, tabs, and linefeed characters are stripped from the argument.
 The following returns the value 1615198:
 
 

@@ -20,7 +20,7 @@ Finds specific information in a range.
 
  _expression_. `Find`( `_What_` , `_After_` , `_LookIn_` , `_LookAt_` , `_SearchOrder_` , `_SearchDirection_` , `_MatchCase_` , `_MatchByte_` , `_SearchFormat_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters
@@ -79,7 +79,7 @@ With Worksheets(1).Range("a1:a500")
 End With
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example takes a path and name of a workbook and a search term, and searches the specified workbook for the search term. If the search term is found, the address of the result is stored in cell D10 of the current workbook.
 

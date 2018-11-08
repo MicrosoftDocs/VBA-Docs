@@ -20,7 +20,7 @@ Causes the cells of the range to be spoken in row order or column order.
 
  _expression_. `Speak`( `_SpeakDirection_` , `_SpeakFormulas_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters

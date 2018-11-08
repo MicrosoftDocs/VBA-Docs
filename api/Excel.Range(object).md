@@ -74,7 +74,7 @@ Next TheQuarter
 End Sub
 ```
 
-Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expression that returns a [Range](Excel.Range(Graph property).md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. 
+Use  _expression_. **Cells** ( _row_, _column_ ), where _expression_ is an expression that returns a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. 
 
 The following example sets the formula for cell C5.
 

@@ -20,7 +20,7 @@ Creates a data table based on input values and formulas that you define on a wor
 
  _expression_. `Table`( `_RowInput_` , `_ColumnInput_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters

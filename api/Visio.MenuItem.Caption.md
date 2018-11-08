@@ -36,20 +36,20 @@ String
 
 
 
-- Use an ampersand (&;) in the string to cause the next character in the string to become the shortcut key for that menu item. For example, the string "F _&;o_ rmat" causes _o_ to become the shortcut key for that menu item in that one menu.
+- Use an ampersand (&) in the string to cause the next character in the string to become the shortcut key for that menu item. For example, the string "F _&o_ rmat" causes _o_ to become the shortcut key for that menu item in that one menu.
     
 - Use "" in the string to display a double quotation mark on the menu.
     
-- Use &;&; in the string to display an ampersand on the menu.
+- Use && in the string to display an ampersand on the menu.
     
 
 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **Caption** property. It adds a menu and menu item to the **Add-ins** tab and sets the menu and menu item's **Caption** properties.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the **Caption** property. It adds a menu and menu item to the **Add-ins** tab and sets the menu and menu item's **Caption** properties.
 
-To restore the built-in user interface in Microsoft Visio after you run this macro, call the  **ThisDocument.ClearCustomMenus** method.
+To restore the built-in user interface in Microsoft Visio after you run this macro, call the **ThisDocument.ClearCustomMenus** method.
 
 
 

@@ -18,15 +18,15 @@ Contains methods and properties that pertain to speech.
 
 ## Remarks
 
-Use the  **[Speech](Excel.Application.Speech.md)** property of the **[Application](Excel.Application(object).md)** object to return a **[Speech](Excel.Speech.md)** object.
+Use the **[Speech](Excel.Application.Speech.md)** property of the **[Application](Excel.Application(object).md)** object to return a **[Speech](Excel.Speech.md)** object.
 
 
 ## Example
 
-Once a  **Speech** object is returned, you can use the **[Speak](Excel.Speech.Speak.md)** method of **Speech** object to play back the contents of a string. In the following example, Microsoft Excel plays back "Hello". This example assumes speech features have been installed on the host system.
+Once a **Speech** object is returned, you can use the **[Speak](Excel.Speech.Speak.md)** method of **Speech** object to play back the contents of a string. In the following example, Microsoft Excel plays back "Hello". This example assumes speech features have been installed on the host system.
 
 
- **Note**  There is a speech feature in the setup tree that pertains to Dictation and Command &; Control that does not have to be installed.
+ **Note**  There is a speech feature in the setup tree that pertains to Dictation and Command & Control that does not have to be installed.
 
 
 ```vb

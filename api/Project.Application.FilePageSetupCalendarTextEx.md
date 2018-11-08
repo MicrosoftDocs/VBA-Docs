@@ -36,7 +36,7 @@ Formats the text of calendar views for printing, where the text color can be a h
 | _Bold_|Optional|**Boolean**|**True** if the font is bold; otherwise, **False**.|
 | _Italic_|Optional|**Boolean**|**True** if the font is italic; otherwise, **False**.|
 | _Underline_|Optional|**Boolean**|**True** if the font is underlined; otherwise, **False**.|
-| _Color_|Optional|**Long**|The color of the text. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &;H01FFFF is yellow.|
+| _Color_|Optional|**Long**|The color of the text. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &H01FFFF is yellow.|
 
 ## Return value
 

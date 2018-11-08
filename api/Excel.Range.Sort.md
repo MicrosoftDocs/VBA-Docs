@@ -20,7 +20,7 @@ Sorts a range of values.
 
  _expression_. `Sort` (`_Key1_`, `_Order1_`, `_Key2_`, `_Type_`, `_Order2_`, `_Key3_`, `_Order3_`, `_Header_`, `_OrderCustom_`, `_MatchCase_`, `_Orientation_`, `_SortMethod_`, `_DataOption1_`, `_DataOption2_`, `_DataOption3_`)
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters
@@ -50,7 +50,7 @@ Variant
 
 ## Example
 
-**Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+**Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example gets the value of the color of a cell in column A using the **ColorIndex** property, and then uses that value to sort the range by color.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Size Property (Excel)
+title: Font.Size property (Excel)
 keywords: vbaxl10.chm559082
 f1_keywords:
 - vbaxl10.chm559082
@@ -11,22 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Size Property (Excel)
+# Font.Size property (Excel)
 
-Returns or sets the size of the font. Read/write  **Variant** .
-
+Returns or sets the size of the font. Read/write **Variant** .
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ A variable that represents a [Font](Excel.Font(Graph property).md) object.
-
+_expression_ A variable that represents a [Font](https://docs.microsoft.com/office/vba/api/Excel.Font(Graph%20property)) object.
 
 ## Example
 
 This example sets the font size for cells A1:D10 on Sheet1 to 12 points.
-
 
 ```vb
 With Worksheets("Sheet1").Range("A1:D10") 
@@ -36,9 +33,7 @@ End With
 
 ```
 
-
 ## See also
 
-
-[Font Object](Excel.Font(object).md)
+- [Font object](Excel.Font(object).md)
 

@@ -185,7 +185,7 @@ public class TypePropertyX
  prop.getName() + 
  ", Type = " + 
  strMsg); 
- if(intIndex % intDisplaysize == 0 &;&; intIndex != 0) 
+ if(intIndex % intDisplaysize == 0 && intIndex != 0) 
  { 
  System.out.println("\nPress <Enter> to continue.."); 
  in.readLine(); 

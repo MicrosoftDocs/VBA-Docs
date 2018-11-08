@@ -20,7 +20,7 @@ Promotes a range in an outline (that is, decreases its outline level). The speci
 
  _expression_. `Ungroup`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Return value

@@ -1,17 +1,17 @@
 ---
-title: Global.Vbe Property (Visio)
+title: Global.VBE Property (Visio)
 keywords: vis_sdr.chm12814630
 f1_keywords:
 - vis_sdr.chm12814630
 ms.prod: visio
 api_name:
-- Visio.Global.Vbe
+- Visio.Global.VBE
 ms.assetid: e9840bf6-b6a5-39e5-36c8-517cd772d54d
 ms.date: 06/08/2017
 ---
 
 
-# Global.Vbe Property (Visio)
+# Global.VBE Property (Visio)
 
 Gets the root object of the object model exposed by Microsoft Visual Basic for Applications (VBA). Use this property to access and manipulate the VBA projects associated with currently open Microsoft Visio documents. Read-only.
 

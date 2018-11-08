@@ -1,5 +1,5 @@
 ---
-title: Dictionary Object
+title: Dictionary object
 keywords: vblr6.chm2181922
 f1_keywords:
 - vblr6.chm2181922
@@ -11,11 +11,8 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary Object
+# Dictionary object
 
-
-
- **Description**
 Object that stores data key, item pairs.
 
 ## Syntax
@@ -24,10 +21,9 @@ Object that stores data key, item pairs.
 
 ## Remarks
 
-A  **Dictionary** object is the equivalent of a PERL associative array. Items, which can be any form of data, are stored in the array. Each item is associated with a unique key. The key is used to retrieve an individual item and is usually a integer or a string, but can be anything except an array.
-The following code illustrates how to create a  **Dictionary** object:
+A **Dictionary** object is the equivalent of a PERL associative array. Items, which can be any form of data, are stored in the array. Each item is associated with a unique key. The key is used to retrieve an individual item and is usually an integer or a string, but can be anything except an array.
 
-
+The following code illustrates how to create a **Dictionary** object:
 
 ```vb
 Dim d                   'Create a variable
@@ -36,7 +32,10 @@ d.Add "a", "Athens"     'Add some keys and items
 d.Add "b", "Belgrade"
 d.Add "c", "Cairo"
 ...
-
 ```
+
+## See also
+
+- [Dictionary object (Windows Scripting)](https://docs.microsoft.com/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/x4k5wbx4(v%3dvs.84))
 
 

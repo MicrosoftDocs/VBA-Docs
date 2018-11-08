@@ -20,7 +20,7 @@ Returns the number of header rows for the specified range. Read-only  **Long** .
 
  _expression_. `ListHeaderRows`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns the number of the first row of the first area in the range. Read-only  *
 
  _expression_. `Row`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Example
@@ -36,7 +36,7 @@ For Each rw In Worksheets("Sheet1").Rows
 Next rw
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1) |[About the Contributors](Excel.Range.Row.md#AboutContributor)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1) |[About the Contributors](Excel.Range.Row.md#AboutContributor)
 
 This example uses the  **BeforeDoubleClick** worksheet event to copy a row of data from one worksheet to another. To run this code, the name of the target worksheet must be in column A. When you double click a cell that contains data, this example gets the target worksheet name from column A and copies the entire row of data into the next available row on the target worksheet. This example accesses the active row using the **Target** keyword.
 
@@ -74,7 +74,7 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
 End Sub
 ```
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/) |[About the Contributors](Excel.Range.Row.md#AboutContributor)
+ **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/) |[About the Contributors](Excel.Range.Row.md#AboutContributor)
 
 This example deletes the empty rows from a selected range.
 
@@ -130,7 +130,7 @@ End Sub
 
 Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 
 ## See also

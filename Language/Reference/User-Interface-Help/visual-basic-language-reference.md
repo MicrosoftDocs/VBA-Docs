@@ -30,3 +30,7 @@ ms.date: 09/17/2018
 - [Objects](../objects-visual-basic-for-applications.md)
 - [Properties](../properties-visual-basic-for-applications.md)
 
+## See also
+
+- [Object library reference for Office (members, properties, methods)](https://docs.microsoft.com/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

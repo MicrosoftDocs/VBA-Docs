@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HangulHanjaDictionaries Property (Word)
 
-Returns a  **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
+Returns a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondicti
 
 ## Remarks
 
-Active custom conversion dictionaries are marked with a check in the  **Custom Dictionaries** dialog box. Click **Options**, click the  **Spelling &; Grammar** tab, and then click the **Custom Dictionaries** button.
+Active custom conversion dictionaries are marked with a check in the **Custom Dictionaries** dialog box. Click **Options**, click the **Spelling & Grammar** tab, and then click the **Custom Dictionaries** button.
 
 For information about returning a single member of a collection, see [Returning an Object from a Collection](../word/Concepts/Miscellaneous/returning-an-object-from-a-collection-word.md).
 

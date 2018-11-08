@@ -48,9 +48,9 @@ The following table shows how you can use **Like** to test expressions for diffe
 |Multiple characters|ab*|abcdefg, abc|cab, aab|
 |Single character|a?a|aaa, a3a, aBa|aBBBa|
 |Single digit|a#a|a0a, a1a, a2a|aaa, a10a|
-|Range of characters|[a-z]|f, p, j|2, &;|
-|Outside a range|[!a-z]|9, &;, %|b, a|
-|Not a digit|[!0-9]|A, a, &;, ~|0, 1, 9|
+|Range of characters|[a-z]|f, p, j|2, &|
+|Outside a range|[!a-z]|9, &, %|b, a|
+|Not a digit|[!0-9]|A, a, &, ~|0, 1, 9|
 |Combined|a[!b-m]#|An9, az0, a99|abc, aj0|
 
 ## Example

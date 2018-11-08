@@ -45,7 +45,7 @@ Public Sub GetEmail3EntryID()
  
  Dim oPA As Outlook.PropertyAccessor 
  
- Const EMAIL3_ENTRYID As String = "https://schemas.microsoft.com/mapi/id/{00062004-0000-0000-C000-000000000046}/80A50102" 
+ Const EMAIL3_ENTRYID As String = "http://schemas.microsoft.com/mapi/id/{00062004-0000-0000-C000-000000000046}/80A50102" 
  
  
  

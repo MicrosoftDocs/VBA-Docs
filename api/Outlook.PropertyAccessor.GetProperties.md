@@ -75,13 +75,13 @@ Sub DemoPropertyAccessorGetProperties()
  
  PropNames = _ 
  
- Array("https://schemas.microsoft.com/mapi/proptag/0x0037001E", _ 
+ Array("http://schemas.microsoft.com/mapi/proptag/0x0037001E", _ 
  
- "https://schemas.microsoft.com/mapi/proptag/0x10F4000B", _ 
+ "http://schemas.microsoft.com/mapi/proptag/0x10F4000B", _ 
  
- "https://schemas.microsoft.com/mapi/proptag/0x10F6000B", _ 
+ "http://schemas.microsoft.com/mapi/proptag/0x10F6000B", _ 
  
- "https://schemas.microsoft.com/mapi/proptag/0x10F5000B") 
+ "http://schemas.microsoft.com/mapi/proptag/0x10F5000B") 
  
  'Obtain an instance of a PropertyAccessor object 
  

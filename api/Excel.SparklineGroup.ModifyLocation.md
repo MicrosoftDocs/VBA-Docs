@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.ModifyLocation Method (Excel)
+title: SparklineGroup.ModifyLocation method (Excel)
 keywords: vbaxl10.chm871079
 f1_keywords:
 - vbaxl10.chm871079
@@ -11,44 +11,37 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.ModifyLocation Method (Excel)
+# SparklineGroup.ModifyLocation method (Excel)
 
-Sets the associated  **[Range](./Excel.Range(Graph object).md)** object to modify the location of the sparkline group.
-
+Sets the associated **[Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20object))** object to modify the location of the sparkline group.
 
 ## Syntax
 
- _expression_. `ModifyLocation`( `_Location_` )
+_expression_. `ModifyLocation`( `_Location_` )
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a [SparklineGroup](Excel.SparklineGroup.md) object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **Range**|The  **Range** that represents the location of the sparkline group.|
+| _Location_|Required| **Range**|The **Range** that represents the location of the sparkline group.|
 
 ## Return value
 
 Nothing
 
-
 ## Example
 
 This example selects a sparkline group in the location A1:A4 and changes the location to equal A10:A14.
-
 
 ```vb
 Range("A1:A4").Select 
 ActiveCell.SparklineGroups.Item(1).ModifyLocation Range("$A$10:$A$14")
 ```
 
-
 ## See also
 
-
-[SparklineGroup Object](Excel.SparklineGroup.md)
+- [SparklineGroup object](Excel.SparklineGroup.md)
 

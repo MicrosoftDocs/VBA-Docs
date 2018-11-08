@@ -20,7 +20,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
  _expression_. `EditionOptions`( `_Type_` , `_Option_` , `_Name_` , `_Reference_` , `_Appearance_` , `_ChartSize_` , `_Format_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters

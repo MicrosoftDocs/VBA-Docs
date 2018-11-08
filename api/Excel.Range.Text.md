@@ -20,7 +20,7 @@ Returns the formatted text for the specified object. Read-only **String** .
 
  _expression_. `Text`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks

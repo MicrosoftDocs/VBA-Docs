@@ -20,7 +20,7 @@ Creates names in the specified range, based on text labels in the sheet.
 
  _expression_. `CreateNames`( `_Top_` , `_Left_` , `_Bottom_` , `_Right_` )
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Parameters

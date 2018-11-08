@@ -20,7 +20,7 @@ Returns the number of the first column in the first area in the specified range.
 
  _expression_. `Column`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks
@@ -45,7 +45,7 @@ For Each col In Worksheets("Sheet1").Columns
 Next col
 ```
 
- **Sample code provided by:** Dennis Wallentin, [VSTO &; .NET &; Excel](https://xldennis.wordpress.com/)
+ **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
 
 This example deletes the empty columns from a selected range.
 
@@ -98,7 +98,7 @@ End Sub
 
 ### About the contributor
 
-Dennis Wallentin is the author of VSTO &; .NET &; Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
+Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA and .NET (2nd Edition)." 
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
  _expression_. `Cells`
 
- _expression_ A variable that represents a [Range](Excel.Range(Graph property).md) object.
+ _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 
 ## Remarks
@@ -54,7 +54,7 @@ For n = 2 To r.Rows.Count
 Next n
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&;p=1)
+ **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example looks through column C, and for every cell that has a comment, it puts the comment text into column D and deletes the comment from column C.
 

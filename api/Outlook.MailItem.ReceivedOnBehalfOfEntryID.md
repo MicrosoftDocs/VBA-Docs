@@ -43,7 +43,7 @@ Public Sub GetReceiverEntryID()
  
  Dim strEntryID As String 
  
- Const PidTagReceivedRepresentingEntryId As String = "https://schemas.microsoft.com/mapi/proptag/0x00430102" 
+ Const PidTagReceivedRepresentingEntryId As String = "http://schemas.microsoft.com/mapi/proptag/0x00430102" 
  
  
  

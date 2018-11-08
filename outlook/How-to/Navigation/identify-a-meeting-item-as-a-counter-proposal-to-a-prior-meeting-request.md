@@ -25,7 +25,7 @@ Using the  **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** obje
 
 
 ```vb
-"https://schemas.microsoft.com/mapi/id/00062002-0000-0000-C000-000000000046}/8257000B"
+"http://schemas.microsoft.com/mapi/id/00062002-0000-0000-C000-000000000046}/8257000B"
 ```
 
 where  `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** namespace and `8257000B` is the property tag of **PidLidAppointmentCounterProposal**.
@@ -36,7 +36,7 @@ where  `{00062002-0000-0000-C000-000000000046}` is the **PSETID_Appointment** na
 private bool IsCounterProposal(Outlook.MeetingItem meeting) 
 { 
     const string counterPropose = 
-        "https://schemas.microsoft.com/mapi/id/{00062002-0000-0000-C000-000000000046}/8257000B"; 
+        "http://schemas.microsoft.com/mapi/id/{00062002-0000-0000-C000-000000000046}/8257000B"; 
     Outlook.PropertyAccessor pa = meeting.PropertyAccessor; 
     if ((bool)pa.GetProperty(counterPropose)) 
         return true; 
