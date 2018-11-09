@@ -20,7 +20,7 @@ Occurs before any open workbook is printed.
 
  _expression_. `WorkbookBeforePrint`( `_Wb_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

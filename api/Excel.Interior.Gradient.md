@@ -20,7 +20,7 @@ Returns or sets the **Gradient** property of an **Interior** object of a selecti
 
  _expression_. `Gradient`
 
- _expression_ A variable that represents an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Return value

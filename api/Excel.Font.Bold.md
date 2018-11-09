@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `Bold`
 
- _expression_ A variable that represents a [Font](Excel.Font(Graph property).md) object.
+ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Example

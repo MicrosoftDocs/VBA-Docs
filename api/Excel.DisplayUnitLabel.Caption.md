@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the display unit label text.
 
  _expression_. `Caption`
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## See also

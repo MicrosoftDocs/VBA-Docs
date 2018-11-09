@@ -20,7 +20,7 @@ Occurs when a mouse button is released while the pointer is over a chart.
 
  _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

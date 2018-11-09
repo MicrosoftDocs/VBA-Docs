@@ -20,7 +20,7 @@ Returns the parent object for the specified object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## See also

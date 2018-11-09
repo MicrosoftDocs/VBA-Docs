@@ -20,7 +20,7 @@ Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents th
 
  _expression_. `DataLabel`
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 
 ## Remarks

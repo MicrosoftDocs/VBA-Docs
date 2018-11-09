@@ -20,7 +20,7 @@ Sets or returns an  **[XlCalculationInterruptKey](Excel.XlCalculationInterruptKe
 
  _expression_. `CalculationInterruptKey`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

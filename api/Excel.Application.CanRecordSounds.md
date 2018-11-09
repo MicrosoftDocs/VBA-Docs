@@ -20,7 +20,7 @@ This property should not be used. Sound notes have been removed from Microsoft E
 
  _expression_. `CanRecordSounds`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## See also

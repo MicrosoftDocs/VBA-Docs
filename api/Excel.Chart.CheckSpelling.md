@@ -20,7 +20,7 @@ Checks the spelling of an object.
 
  _expression_. `CheckSpelling`( `_CustomDictionary_` , `_IgnoreUppercase_` , `_AlwaysSuggest_` , `_SpellLang_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

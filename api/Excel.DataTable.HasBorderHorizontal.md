@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `HasBorderHorizontal`
 
- _expression_ A variable that represents a [DataTable](Excel.DataTable(Graph property).md) object.
+ _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-property.md) object.
 
 
 ## Example

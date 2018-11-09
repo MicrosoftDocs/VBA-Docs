@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `HasUpDownBars`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
+ _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Example

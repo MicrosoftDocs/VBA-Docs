@@ -20,7 +20,7 @@ Returns or sets the primary color of the object, as shown in the table in the re
 
  _expression_. `Color`
 
- _expression_ An expression that returns an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
+ _expression_ An expression that returns an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks

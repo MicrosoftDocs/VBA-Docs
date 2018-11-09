@@ -20,7 +20,7 @@ Returns or sets the base unit for the specified category axis. Read/write  **[Xl
 
  _expression_. `BaseUnit`
 
- _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

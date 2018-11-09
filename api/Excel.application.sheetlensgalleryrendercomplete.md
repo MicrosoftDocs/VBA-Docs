@@ -18,7 +18,7 @@ Occurs after a callout gallery?s icons (dynamic & static) have finished renderin
 
  _expression_. `SheetLensGalleryRenderComplete`_(Sh)_
 
- _expression_ A variable that represents a [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

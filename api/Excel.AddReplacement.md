@@ -17,7 +17,7 @@ Adds an entry to the array of AutoCorrect replacements.
 
  _expression_. `AddReplacement( _What_`,  `_Replacement_)`
 
- _expression_ Required. An expression that returns an [AutoCorrect](Excel.AutoCorrect(Graph property).md) object.
+ _expression_ Required. An expression that returns an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
 
  **What** Required **String**. The text to be replaced. If this string already exists in the array of AutoCorrect replacements, the existing substitute text is replaced by the new text.
  **Replacement** Required **String**. The replacement text.

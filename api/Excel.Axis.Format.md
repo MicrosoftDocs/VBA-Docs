@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. `Format`
 
- _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
  _expression_. `Border`
 
- _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars(Graph property).md) object.
+ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
 
 
 ## See also

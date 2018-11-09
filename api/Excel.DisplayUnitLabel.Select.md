@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. `Select`
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Return value

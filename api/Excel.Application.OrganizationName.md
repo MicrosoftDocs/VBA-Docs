@@ -20,7 +20,7 @@ Returns the registered organization name. Read-only  **String** .
 
  _expression_. `OrganizationName`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

@@ -19,7 +19,7 @@ Returns or sets a **Variant** value that represents the color of the interior.
 
 _expression_. ColorIndex
 
-_expression_ A variable that represents an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Sends keystrokes to the active application.
 
  _expression_. `SendKeys`( `_Keys_` , `_Wait_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

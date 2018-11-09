@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
  _expression_. `Top`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## See also

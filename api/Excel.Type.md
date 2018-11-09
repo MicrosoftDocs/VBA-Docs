@@ -24,7 +24,7 @@ Returns or sets the axis type. Read/write XlAxisType .
 | **xlValue**|
 
  _expression_. **Type**
- _expression_ Required. An expression that returns an [Axis](./Excel.Axis(Graph object).md) object.
+ _expression_ Required. An expression that returns an [Axis](./Excel.Axis-graph-object.md) object.
 Type property as it applies to the  **ChartColorFormat** object.
 Returns the color type. Read-only Long.
  _expression_. **Type**
@@ -51,7 +51,7 @@ Returns or sets the data label type. Read/write Variant.
 Type property as it applies to the  **Series** object.
 Returns or sets the series type. Read/write Long.
  _expression_. **Type**
- _expression_ Required. An expression that returns a [Series](./Excel.Series(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Series](./Excel.Series-graph-object.md) object.
 Type property as it applies to the  **Trendline** object.
 Returns or sets the trendline type. Read/write XlTrendlineType .
 
@@ -65,7 +65,7 @@ Returns or sets the trendline type. Read/write XlTrendlineType .
 | **xlPower**|
 
  _expression_. **Type**
- _expression_ Required. An expression that returns a [Trendline](./Excel.Trendline(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 ## Example
 

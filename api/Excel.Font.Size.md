@@ -19,7 +19,7 @@ Returns or sets the size of the font. Read/write **Variant** .
 
 _expression_. `Size`
 
-_expression_ A variable that represents a [Font](https://docs.microsoft.com/office/vba/api/Excel.Font(Graph%20property)) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 ## Example
 

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `CapitalizeNamesOfDays`
 
- _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect(Graph property).md) object.
+ _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
 
 
 ## Example

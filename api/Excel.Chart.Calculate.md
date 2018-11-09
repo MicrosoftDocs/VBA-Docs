@@ -20,7 +20,7 @@ Occurs after the chart plots new or changed data, for the  **Chart** object.
 
  _expression_. `Calculate`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Return value

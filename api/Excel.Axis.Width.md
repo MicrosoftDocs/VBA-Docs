@@ -20,7 +20,7 @@ Returns a  **Double** value that represents the width, in points, of the object.
 
  _expression_. `Width`
 
- _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## See also

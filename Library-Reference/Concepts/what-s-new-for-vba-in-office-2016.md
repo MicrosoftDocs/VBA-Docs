@@ -1,22 +1,16 @@
 ---
-title: What's New for VBA in Office 2016
+title: What's new for VBA in Office 2016
 ms.prod: office
 ms.assetid: c0294abb-bc0e-495d-b387-4398378dd3ad
 ms.date: 06/08/2017
 ---
 
 
-# What's New for VBA in Office 2016
+# What's new for VBA in Office 2016
+
 The following tables summarize the new VBA language updates for Office 2016.
 
-
-
-
 ## Access
-
-
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -24,10 +18,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[CurrentProject.IsSQLBackend property (Access)](../../api/overview/Library-Reference.md)**|Returns  **true** if the current project was created in Access 2013 and onwards and **false** if the current project was created prior to Access 2013. Read-only **Boolean**.|
 
 ## Excel
-
-
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -151,10 +141,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 ## Outlook
 
-
-
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |**[ExchangeDistributionList.GetUnifiedGroup Method (Outlook)](../../api/Outlook.exchangedistributionlist.getunifiedgroup.md)**|Determines if the object is a unified group, by way of a call to [IsUnifiedGroup](../../api/Outlook.exchangedistributionlist.isunifiedgroup.md)|
@@ -181,10 +167,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[Store.DeleteUnifiedGroup Method (Outlook)](../../api/Outlook.store.deleteunifiedgroup.md)**|Enables a unified group to be deleted.|
 
 ## Project
-
-
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -308,10 +290,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 ## PowerPoint
 
-
-
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |**[ChartGroup.BinsCountValue Property (PowerPoint)](../../api/PowerPoint.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write  **Long**.|
@@ -338,10 +316,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 ## Visio
 
-
-
-
-
 |**Name**|**Description**|
 |:-----|:-----|
 |**[Document.Permission Property (Visio)](../../api/Visio.document.permission.md)**||
@@ -357,10 +331,6 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[VisRecordsetFieldStatus Enumeration (Visio)](../../api/overview/Library-Reference.md)**||
 
 ## Word
-
-
-
-
 
 |**Name**|**Description**|
 |:-----|:-----|

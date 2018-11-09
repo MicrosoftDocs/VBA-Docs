@@ -20,7 +20,7 @@ Returns a  **[DataTable](Excel.DataTable(object).md)** object that represents th
 
  _expression_. `DataTable`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Example

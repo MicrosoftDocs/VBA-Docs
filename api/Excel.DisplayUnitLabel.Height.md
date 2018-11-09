@@ -20,7 +20,7 @@ Returns the height, in points, of the object. Read-only.
 
  _expression_. `Height`
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## Return value

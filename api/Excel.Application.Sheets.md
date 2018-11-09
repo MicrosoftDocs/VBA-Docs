@@ -20,7 +20,7 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the shee
 
  _expression_. `Sheets`
 
- _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
+ _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Clears the entire object.
 
  _expression_. `Clear`
 
- _expression_ A variable that represents a [Legend](Excel.Legend(Graph property).md) object.
+ _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Return value

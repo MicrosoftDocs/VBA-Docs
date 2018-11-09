@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataLabels Collection (Excel)
 
-A collection of all the  **[DataLabel](Excel.DataLabel(Graph object).md)** objects for the specified series. Each  **DataLabel** object represents a data label for a point or trendline. For a series without definable points (such as an area series), the **DataLabels** collection contains a single data label.
+A collection of all the  **[DataLabel](Excel.DataLabel-graph-object.md)** objects for the specified series. Each  **DataLabel** object represents a data label for a point or trendline. For a series without definable points (such as an area series), the **DataLabels** collection contains a single data label.
 
 
 ## Using the DataLabels Collection

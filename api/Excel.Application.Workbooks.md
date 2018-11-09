@@ -20,7 +20,7 @@ Returns a  **[Workbooks](Excel.Workbooks.md)** collection that represents all th
 
  _expression_. `Workbooks`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

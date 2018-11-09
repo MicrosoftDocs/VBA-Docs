@@ -20,7 +20,7 @@ Returns or sets the font style. Read/write  **String** .
 
  _expression_. `FontStyle`
 
- _expression_ A variable that represents a [Font](Excel.Font(Graph property).md) object.
+ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## Remarks

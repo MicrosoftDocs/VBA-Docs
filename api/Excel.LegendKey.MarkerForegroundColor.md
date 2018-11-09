@@ -20,7 +20,7 @@ Sets the marker foreground color as an RGB value or returns the corresponding co
 
  _expression_. `MarkerForegroundColor`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey(Graph property).md) object.
+ _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also

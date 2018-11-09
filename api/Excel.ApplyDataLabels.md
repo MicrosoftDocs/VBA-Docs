@@ -19,7 +19,8 @@ Applies data labels to a point, a series, or all the series in a chart.
 
  _expression_. `ApplyDataLabels`( `_Type_`,  `_LegendKey_`,  `_AutoText_`,  `_HasLeaderLines_`)
 
- _expression_ Required. An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
+ 
  **Type**Optional 
  **Variant**
 . The data label type.

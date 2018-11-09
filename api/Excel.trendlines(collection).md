@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Trendlines Collection (Excel)
 
-A collection of all the  **[Trendline](Excel.Trendline(Graph object).md)** objects for the specified series. Each  **Trendline** object represents a trendline in a chart. A trendline shows the trend, or direction, of data in a series.
+A collection of all the  **[Trendline](Excel.Trendline-graph-object.md)** objects for the specified series. Each  **Trendline** object represents a trendline in a chart. A trendline shows the trend, or direction, of data in a series.
 
 
 ## Using the Trendlines Collection

@@ -20,7 +20,7 @@ Modifies the properties of the given chart. You can use this method to quickly f
 
  _expression_. `ChartWizard`( `_Source_` , `_Gallery_` , `_Format_` , `_PlotBy_` , `_CategoryLabels_` , `_SeriesLabels_` , `_HasLegend_` , `_Title_` , `_CategoryTitle_` , `_ValueTitle_` , `_ExtraTitle_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

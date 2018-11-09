@@ -20,7 +20,7 @@ Loads an XLL code resource and automatically registers the functions and command
 
  _expression_. `RegisterXLL`( `_Filename_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[
 
  _expression_. `BarShape`
 
- _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Example

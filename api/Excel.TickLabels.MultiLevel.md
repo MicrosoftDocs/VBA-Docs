@@ -20,7 +20,7 @@ Sets whether an axis is multilevel or not. Read/write  **Boolean** .
 
  _expression_. `MultiLevel`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
+ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks

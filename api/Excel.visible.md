@@ -17,7 +17,7 @@ Determines whether the object is visible. Read/write Boolean.
 
  _expression_. `Visible`
 
- _expression_ Required. An expression that returns an [Application](./Excel.Application(Graph property).md) object.
+ _expression_ Required. An expression that returns an [Application](./Excel.Application-graph-property.md) object.
 Visible property as it applies to the  **ChartFillFormat** object.
 Determines whether the application is visible. Read/write MsoTriState .
 
