@@ -1,12 +1,12 @@
 ---
-title: Customize the Office Fluent Ribbon by using an Open XML formats file
+title: Customize the Office Fluent ribbon by using an Open XML formats file
 ms.prod: office
 ms.assetid: 562d79a2-c1eb-126a-1567-ddd0253f5972
 ms.date: 06/08/2017
 ---
 
 
-# Customize the Office Fluent Ribbon by using an Open XML formats file
+# Customize the Office Fluent ribbon by using an Open XML formats file
 
 The ribbon component of the Microsoft Office Fluent user interface gives users a flexible way to work with Office applications. Ribbon Extensibility (RibbonX) uses a simple, text-based, declarative XML markup to create and customize the ribbon. 
 

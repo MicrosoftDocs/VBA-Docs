@@ -1,5 +1,5 @@
 ---
-title: Range.Width Property (Excel)
+title: Range.Width property (Excel)
 keywords: vbaxl10.chm144219
 f1_keywords:
 - vbaxl10.chm144219
@@ -11,23 +11,21 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Width Property (Excel)
+# Range.Width property (Excel)
 
 Returns a **Double** value that represents the width of a range in points. Read-only.
 
-
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+_expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
 
 ## Remarks
 
-To set the width, use the **[ColumnWidth](excel.range.columnwidth.md)** Property.
+To set the width, use the **[ColumnWidth](excel.range.columnwidth.md)** property.
 
 ## See also
 
-
-[Range Object](Excel.Range(object).md)
+- [Range object](Excel.Range(object).md)
 

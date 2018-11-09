@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 # Interior.PatternColorIndex Property (Excel)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 
 
 ## Syntax
 
  _expression_. `PatternColorIndex`
 
- _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
 
 
 ## Remarks
 
-Set this property to  **xlColorIndexAutomatic** to specify the automatic pattern for cells or the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you don't want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone**).
+Set this property to **xlColorIndexAutomatic** to specify the automatic pattern for cells or the automatic fill style for drawing objects. Set this property to **xlColorIndexNone** to specify that you don't want a pattern (this is the same as setting the **Pattern** property of the **Interior** object to **xlPatternNone**).
 
 
 ## Example

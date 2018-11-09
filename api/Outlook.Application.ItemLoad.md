@@ -18,7 +18,7 @@ Occurs when an Outlook item is loaded into memory.
 
 ## Syntax
 
-_expression_. `ItemLoad`( `_Item_` )
+_expression_. ItemLoad( _Item_ )
 
 _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
@@ -51,7 +51,4 @@ This event is not raised when the following conditions occur:
 - A Desktop Alert is displayed for an Outlook item.
     
 
-## See also
-
-- [Application object](Outlook.Application.md)
 

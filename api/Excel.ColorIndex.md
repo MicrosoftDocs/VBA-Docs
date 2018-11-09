@@ -1,5 +1,5 @@
 ---
-title: ColorIndex Property
+title: ColorIndex property
 keywords: vbagr10.chm5207225
 f1_keywords:
 - vbagr10.chm5207225
@@ -11,40 +11,35 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorIndex Property
+# ColorIndex property
 
-Returns or sets the color of the border, font or interior, as shown in the following table. The color is specified as an index value into the current color palette, or as one of the following XlColorIndex constants: xlColorIndexAutomatic or xlColorIndexNone. Read/write Variant.
+Returns or sets the color of the border, font, or interior, as shown in the following table. The color is specified as an index value into the current color palette, or as one of the following XlColorIndex constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Variant**.
 
+## Syntax
 
+_expression_. `ColorIndex`
 
-|**Object**|**Description**|
+_expression_ Required. An expression that returns one of the objects in the Applies To list.
+
+<br/>
+
+|Object|Description|
 |:-----|:-----|
 | **Border**|The color of the border.|
 | **Font**|The color of the font.|
-| **Interior**|The color of the interior fill. Set  **ColorIndex** to **xlColorIndexNone** to specify that you don't want an interior fill. Set **ColorIndex** to **xlColorIndexAutomatic** to specify the automatic fill (for drawing objects).|
-
- _expression_. `ColorIndex`
-
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+| **Interior**|The color of the interior fill. Set **ColorIndex** to **xlColorIndexNone** to specify that you don't want an interior fill. Set **ColorIndex** to **xlColorIndexAutomatic** to specify the automatic fill (for drawing objects).|
 
 ## Remarks
 
 This property specifies a color as an index into the color palette. The following illustration shows the color-index values in the default color palette.
 
-
 ![Color](../images/colorin_ZA06050819.gif)
-
-
-
 
 ## Example
 
 The following examples assume that you're using the default color palette.
 
 This example sets the color of the major gridlines for the value axis.
-
-
-
 
 ```vb
 With myChart.Axes(xlValue) 
@@ -57,9 +52,6 @@ End With
 
 This example sets the color of the chart area interior to red and sets the border color to blue.
 
-
-
-
 ```vb
 With myChart.ChartArea 
  .Interior.ColorIndex = 3 
@@ -67,4 +59,5 @@ With myChart.ChartArea
 End With
 ```
 
-
+> [!NOTE] 
+> If you would like to use color with FormatCondition in Visual Basic, see [Interior.ColorIndex Property (Excel)](excel.interior.colorindex.md).

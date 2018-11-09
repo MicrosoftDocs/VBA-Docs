@@ -1,5 +1,5 @@
 ---
-title: Interior Property
+title: Interior property
 keywords: vbagr10.chm65665
 f1_keywords:
 - vbagr10.chm65665
@@ -11,15 +11,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior Property
+# Interior property
 
-Returns an  **[Interior](Excel.Interior(Graph object).md)** object that represents the interior of the specified object. Read-only.
-
+Returns an **[Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20object).md)** object that represents the interior of the specified object. Read-only.
 
 ## Example
 
 This example sets the interior color of the chart title.
-
 
 ```vb
 myChart.ChartTitle.Interior.ColorIndex = 8

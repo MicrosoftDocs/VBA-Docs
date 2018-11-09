@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `InvertIfNegative`
 
- _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](https://docs.microsoft.com/office/vba/api/Excel.Interior(Graph%20property)) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Chart.FullSeriesCollection Method (Excel)
+title: Chart.FullSeriesCollection method (Excel)
 keywords: vbaxl10.chm149194
 f1_keywords:
 - vbaxl10.chm149194
@@ -9,38 +9,34 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.FullSeriesCollection Method (Excel)
+# Chart.FullSeriesCollection method (Excel)
 
 Enables retrieving the filtered out series specified by the Index argument.
 
-
 ## Syntax
 
- _expression_. `FullSeriesCollection`_(Index)_
+ _expression_. FullSeriesCollection _(Index)_
 
  _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
 
 
 ## Parameters
 
-
-
 |**Name**|**Required/Optional**|**Data type**|**Description**|
 |:-----|:-----|:-----|:-----|
-| _Index_|Optional|VARIANT|The indexed number of the filtered out  **Series** object.|
+| _Index_|Optional|VARIANT|The indexed number of the filtered out **Series** object.|
 
 ## Return value
 
- **OBJECT**
+**OBJECT**
 
 
 ## Remarks
 
- **Series** objects in hidden rows or columns do not appear in the current series collection unless the user has enabled the **Show data in hidden rows and columns** option in the **Select Data** dialog.
+**Series** objects in hidden rows or columns do not appear in the current series collection unless the user has enabled the **Show data in hidden rows and columns** option in the **Select Data** dialog.
 
 
 ## See also
 
-
-[Chart Object](Excel.Chart(object).md)
+- [Chart object](Excel.Chart(object).md)
 

@@ -1,5 +1,5 @@
 ---
-title: Range.RowHeight Property (Excel)
+title: Range.RowHeight property (Excel)
 keywords: vbaxl10.chm144190
 f1_keywords:
 - vbaxl10.chm144190
@@ -13,7 +13,7 @@ ms.date: 09/05/2018
 
 # Range.RowHeight property (Excel)
 
-Returns or sets the height of the first row in the range specified, measured in points. Read/write  **Variant**.
+Returns or sets the height of the first row in the range specified, measured in points. Read/write **Variant**.
 
 
 ## Syntax
