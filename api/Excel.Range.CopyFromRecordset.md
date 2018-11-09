@@ -20,7 +20,7 @@ Copies the contents of an ADO or DAO  **Recordset** object onto a worksheet, beg
 
  _expression_. `CopyFromRecordset`( `_Data_` , `_MaxRows_` , `_MaxColumns_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

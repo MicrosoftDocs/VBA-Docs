@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SparklineGroup.ModifyLocation method (Excel)
 
-Sets the associated **[Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20object))** object to modify the location of the sparkline group.
+Sets the associated **[Range](excel.range-graph-object.md)** object to modify the location of the sparkline group.
 
 ## Syntax
 

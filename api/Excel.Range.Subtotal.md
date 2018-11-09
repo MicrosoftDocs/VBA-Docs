@@ -20,7 +20,7 @@ Creates subtotals for the range (or the current region, if the range is a single
 
  _expression_. `Subtotal`( `_GroupBy_` , `_Function_` , `_TotalList_` , `_Replace_` , `_PageBreaks_` , `_SummaryBelowData_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

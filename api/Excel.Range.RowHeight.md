@@ -13,14 +13,14 @@ ms.date: 09/05/2018
 
 # Range.RowHeight property (Excel)
 
-Returns or sets the height of the first row in the range specified, measured in points. Read/write **Variant**.
+Returns or sets the height of the first row in the range specified, measured in points. Read/write **Double**.
 
 
 ## Syntax
 
 _expression_. `RowHeight`
 
-_expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

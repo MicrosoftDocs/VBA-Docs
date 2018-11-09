@@ -20,7 +20,7 @@ Returns the range reference for the specified range in the language of the user.
 
  _expression_. `AddressLocal`( `_RowAbsolute_` , `_ColumnAbsolute_` , `_ReferenceStyle_` , `_External_` , `_RelativeTo_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

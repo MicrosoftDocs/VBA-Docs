@@ -20,7 +20,7 @@ Prints the object.
 
  _expression_. `PrintOut`( `_From_` , `_To_` , `_Copies_` , `_Preview_` , `_ActivePrinter_` , `_PrintToFile_` , `_Collate_` , `_PrToFileName_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

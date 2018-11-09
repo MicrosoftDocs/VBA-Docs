@@ -24,7 +24,7 @@ _expression_ Required. An expression that returns one of the objects in the Appl
 
 ## Remarks
 
-Syntax 1 uses a row number and either a column number or a letter as index arguments. For more information about this syntax, see the **[Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20object))** object. 
+Syntax 1 uses a row number and either a column number or a letter as index arguments. For more information about this syntax, see the **[Range](excel.range-graph-object.md)** object. 
 
 The **_RowIndex_** and **_ColumnIndex_** arguments are relative offsets. In other words, specifying 1 for **_RowIndex_** returns cells in the first row in the range, not the first row on the datasheet.
 

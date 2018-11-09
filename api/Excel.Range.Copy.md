@@ -20,7 +20,7 @@ Copies the range to the specified range or to the Clipboard.
 
  _expression_. `Copy`( `_Destination_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

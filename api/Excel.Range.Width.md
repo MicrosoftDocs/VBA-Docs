@@ -19,7 +19,7 @@ Returns a **Double** value that represents the width of a range in points. Read-
 
 _expression_. `Width`
 
-_expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 ## Remarks
 

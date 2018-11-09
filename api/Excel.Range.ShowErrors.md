@@ -20,7 +20,7 @@ Draws tracer arrows through the precedents tree to the cell that's the source of
 
  _expression_. `ShowErrors`
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

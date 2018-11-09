@@ -20,7 +20,7 @@ Finds specific information in a range.
 
  _expression_. `Find`( `_What_` , `_After_` , `_LookIn_` , `_LookAt_` , `_SearchOrder_` , `_SearchDirection_` , `_MatchCase_` , `_MatchByte_` , `_SearchFormat_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters
