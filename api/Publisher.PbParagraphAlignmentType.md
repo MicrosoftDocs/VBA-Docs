@@ -29,7 +29,7 @@ ms.date: 06/08/2017
 | **pbParagraphAlignmentInterWord**|3|Inter Word|
 | **pbParagraphAlignmentJustified**|6|Justified|
 | **pbParagraphAlignmentKashida**|11|Kashida|
-| **pbParagraphAlignmentLeft**|0|Left aligment|
+| **pbParagraphAlignmentLeft**|0|Left alignment|
 | **pbParagraphAlignmentMixed**|-9999999|Mixed alignment|
 | **pbParagraphAlignmentRight**|2|Right alignment|
 
