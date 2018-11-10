@@ -20,7 +20,7 @@ Selects the object.
 
  _expression_. `Select`
 
- _expression_ A variable that represents an [UpBars](./Excel.UpBars(Graph property).md) object.
+ _expression_ A variable that represents an [UpBars](./Excel.UpBars-graph-property.md) object.
 
 
 ## Return value

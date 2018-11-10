@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # Interior.Gradient Property (Excel)
 
-Returns or sets the  **Gradient** property of an **Interior** object of a selection. Read-only
+Returns or sets the **Gradient** property of an **Interior** object of a selection. Read-only
 
 
 ## Syntax
 
  _expression_. `Gradient`
 
- _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
+ _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Return value

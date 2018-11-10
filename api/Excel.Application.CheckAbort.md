@@ -20,7 +20,7 @@ Stops recalculation in a Microsoft Excel application.
 
  _expression_. `CheckAbort`( `_KeepAbort_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

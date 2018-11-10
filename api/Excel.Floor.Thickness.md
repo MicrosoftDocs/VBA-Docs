@@ -20,7 +20,7 @@ Returns or sets a  **Long** , specifying the thickness of the floor. Read/write.
 
  _expression_. `Thickness`
 
- _expression_ A variable that represents a [Floor](Excel.Floor(Graph property).md) object.
+ _expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
 
 
 ## Remarks

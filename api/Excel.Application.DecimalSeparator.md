@@ -20,7 +20,7 @@ Sets or returns the character used for the decimal separator as a  **String** . 
 
  _expression_. `DecimalSeparator`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

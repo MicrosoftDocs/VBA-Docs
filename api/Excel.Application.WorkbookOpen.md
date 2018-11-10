@@ -20,7 +20,7 @@ Occurs when a workbook is opened.
 
  _expression_. `WorkbookOpen`( `_Wb_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

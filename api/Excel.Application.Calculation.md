@@ -20,7 +20,7 @@ Returns or sets a  **[XlCalculation](Excel.XlCalculation.md)** value that repres
 
  _expression_. `Calculation`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

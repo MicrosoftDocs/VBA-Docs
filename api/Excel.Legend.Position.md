@@ -20,7 +20,7 @@ Returns or sets a  **[XlLegendPosition](Excel.XlLegendPosition.md)** value that 
 
  _expression_. `Position`
 
- _expression_ A variable that represents a [Legend](Excel.Legend(Graph property).md) object.
+ _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Example

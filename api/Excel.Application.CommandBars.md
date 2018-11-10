@@ -20,7 +20,7 @@ Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the M
 
  _expression_. `CommandBars`
 
- _expression_ An expression that returns a [Application](Excel.Application(Graph property).md) object.
+ _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns a  **Boolean** indicating characters in cells within the specified range
 
  _expression_. `Replace`( `_What_` , `_Replacement_` , `_LookAt_` , `_SearchOrder_` , `_MatchCase_` , `_MatchByte_` , `_SearchFormat_` , `_ReplaceFormat_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

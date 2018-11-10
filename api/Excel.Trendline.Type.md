@@ -20,7 +20,7 @@ Returns or sets a  **[XlTrendlineType](Excel.XlTrendlineType.md)** value that re
 
  _expression_. `Type`
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 
 ## Example

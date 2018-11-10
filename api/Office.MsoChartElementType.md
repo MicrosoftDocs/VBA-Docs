@@ -1,18 +1,16 @@
 ---
-title: MsoChartElementType Enumeration (Office)
+title: MsoChartElementType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoChartElementType
 ms.assetid: bfbdb3a9-b2bc-7fd0-9c15-680daf03fc72
-ms.date: 06/08/2017
+ms.date: 11/09/2017
 ---
 
 
-# MsoChartElementType Enumeration (Office)
+# MsoChartElementType enumeration (Office)
 
 Specifies whether and how to display chart elements.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -80,7 +78,7 @@ Specifies whether and how to display chart elements.
 |**msoElementPrimaryValueAxisNone**|352|Do not display primary value axis.|
 |**msoElementPrimaryValueAxisShow**|353|Show primary value axis|
 |**msoElementPrimaryValueAxisThousands**|354|Use thousands for primary value axis units.|
-|**msoElementPrimaryValueAxisTitleAdjacentToAxis**|306|Place primary value axis title adjacent to the axis.|
+|**msoElementPrimaryValueAxisTitleAdjacentToAxis**|307|Place primary value axis title adjacent to the axis.|
 |**msoElementPrimaryValueAxisTitleBelowAxis**|308|Place primary value axis title below the axis.|
 |**msoElementPrimaryValueAxisTitleHorizontal**|311|Display primary value axis title horizontally.|
 |**msoElementPrimaryValueAxisTitleNone**|306|Do not display primary value axis title.|

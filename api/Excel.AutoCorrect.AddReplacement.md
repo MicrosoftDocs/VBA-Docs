@@ -20,7 +20,7 @@ Adds an entry to the array of AutoCorrect replacements.
 
  _expression_. `AddReplacement`( `_What_` , `_Replacement_` )
 
- _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect(Graph property).md) object.
+ _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
 
 
 ## Parameters

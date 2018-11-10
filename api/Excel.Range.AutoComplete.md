@@ -20,7 +20,7 @@ Returns an AutoComplete match from the list. If there?s no AutoComplete match or
 
  _expression_. `AutoComplete`( `_String_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

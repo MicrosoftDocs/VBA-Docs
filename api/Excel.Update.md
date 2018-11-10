@@ -17,7 +17,7 @@ Updates the specified embedded object in the host file.
 
  _expression_. `Update`
 
- _expression_ Required. An expression that returns an '[Application](Excel.Application(Graph object).md)' object.
+ _expression_ Required. An expression that returns an [Application](Excel.Application-graph-object.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** that represents whether **Mini toolbars** display
 
  _expression_. `ShowSelectionFloaties`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

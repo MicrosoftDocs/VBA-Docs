@@ -20,7 +20,7 @@ Returns or sets the number of sheets that Microsoft Excel automatically inserts 
 
  _expression_. `SheetsInNewWorkbook`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

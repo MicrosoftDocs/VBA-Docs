@@ -20,7 +20,7 @@ Returns a  **Long** value that represents the index number of the object within 
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## See also

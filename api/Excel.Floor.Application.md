@@ -20,7 +20,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [Floor](Excel.Floor(Graph property).md) object.
+ _expression_ A variable that represents a [Floor](Excel.Floor-graph-property.md) object.
 
 
 ## Example

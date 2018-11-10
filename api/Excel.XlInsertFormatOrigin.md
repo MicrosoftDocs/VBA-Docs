@@ -1,18 +1,16 @@
 ---
-title: XlInsertFormatOrigin Enumeration (Excel)
+title: XlInsertFormatOrigin enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlInsertFormatOrigin
 ms.assetid: 22e192ab-f0da-e680-067c-89e2aa171ff8
-ms.date: 06/08/2017
+ms.date: 11/09/2018
 ---
 
 
-# XlInsertFormatOrigin Enumeration (Excel)
+# XlInsertFormatOrigin enumeration (Excel)
 
-Specifies from where to copy the format for inserted rows.
-
-
+Specifies from where to copy the format for inserted cells.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -20,7 +20,7 @@ Returns or sets a  **String** value representing the name of the object.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

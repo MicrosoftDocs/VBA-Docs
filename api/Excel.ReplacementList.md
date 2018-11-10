@@ -17,7 +17,7 @@ Returns the array of AutoCorrect replacements.
 
  _expression_. `ReplacementList`( `_Index_`)
 
- _expression_ Required. An expression that returns an '[AutoCorrect](Excel.AutoCorrect(Graph object).md)' object.
+ _expression_ Required. An expression that returns an '[AutoCorrect](Excel.AutoCorrect-graph-object.md)' object.
 
  **Index** Optional **Variant**. The row index of the array of AutoCorrect replacements to be returned. The row is returned as a one-dimensional array with two elements: The first element is the text in column 1, and the second element is the text in column 2.
 

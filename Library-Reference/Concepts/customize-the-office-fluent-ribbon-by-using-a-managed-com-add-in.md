@@ -1,12 +1,12 @@
 ---
-title: Customize the Office Fluent Ribbon by Using a Managed COM Add-in
+title: Customize the Office Fluent ribbon by using a managed COM add-in
 ms.prod: office
 ms.assetid: 7926e6bc-c7ae-cc6f-faa5-28e2e6de664c
 ms.date: 06/08/2017
 ---
 
 
-# Customize the Office Fluent Ribbon by Using a Managed COM Add-in
+# Customize the Office Fluent ribbon by using a managed COM add-in
 
 The ribbon component of the Microsoft Office Fluent user interface in Microsoft Office suites gives users a flexible way to work with Office applications. Ribbon Extensibility (RibbonX) uses simple, text-based, declarative XML markup to create and customize the ribbon.
 

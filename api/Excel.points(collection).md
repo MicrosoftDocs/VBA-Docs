@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Points Collection (Excel)
 
-A collection of all the  **[Point](Excel.Point(Graph object).md)** objects in the specified series in a chart.
+A collection of all the  **[Point](Excel.Point-graph-object.md)** objects in the specified series in a chart.
 
 
 ## Using the Points Collection

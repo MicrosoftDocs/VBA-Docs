@@ -20,7 +20,7 @@ Returns a  **[RecentFiles](Excel.RecentFiles.md)** collection that represents th
 
  _expression_. `RecentFiles`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

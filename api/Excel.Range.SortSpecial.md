@@ -20,7 +20,7 @@ Uses East Asian sorting methods to sort the range, a PivotTable report, or uses 
 
  _expression_. `SortSpecial`( `_SortMethod_` , `_Key1_` , `_Order1_` , `_Type_` , `_Key2_` , `_Order2_` , `_Key3_` , `_Order3_` , `_Header_` , `_OrderCustom_` , `_MatchCase_` , `_Orientation_` , `_DataOption1_` , `_DataOption2_` , `_DataOption3_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

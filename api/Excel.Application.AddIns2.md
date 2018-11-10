@@ -20,7 +20,7 @@ Returns an  **[AddIns2](Excel.AddIns2.md)** collection that represents all the a
 
  _expression_. `AddIns2`
 
- _expression_ A variable that returns an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that returns an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

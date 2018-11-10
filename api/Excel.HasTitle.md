@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-An axis title is represented by an  **[AxisTitle](Excel.AxisTitle(Graph object).md)** object.
+An axis title is represented by an  **[AxisTitle](Excel.AxisTitle-graph-object.md)** object.
 
-A chart title is represented by a  **[ChartTitle](Excel.ChartTitle(Graph object).md)** object.
+A chart title is represented by a  **[ChartTitle](Excel.ChartTitle-graph-object.md)** object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Set to  **True** to display the **Document Actions** task pane; set to **False**
 
  _expression_. `DisplayDocumentActionTaskPane`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

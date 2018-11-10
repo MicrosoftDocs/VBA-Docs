@@ -21,7 +21,7 @@ Occurs before any open workbook is saved.
 
  _expression_. `WorkbookBeforeSave`( `_Wb_` , `_SaveAsUI_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

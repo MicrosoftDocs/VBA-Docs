@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SeriesCollection Collection (Excel)
 
-A collection of all the  **[Series](Excel.Series(Graph object).md)** objects in the specified chart or chart group.
+A collection of all the  **[Series](Excel.Series-graph-object.md)** objects in the specified chart or chart group.
 
 
 ## Using the SeriesCollection Collection

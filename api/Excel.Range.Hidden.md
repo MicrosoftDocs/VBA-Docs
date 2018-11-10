@@ -20,7 +20,7 @@ Returns or sets a  **Variant** value that indicates if the rows or columns are h
 
  _expression_. `Hidden`
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

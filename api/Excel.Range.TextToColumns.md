@@ -20,7 +20,7 @@ Parses a column of cells that contain text into several columns.
 
  _expression_. `TextToColumns`( `_Destination_` , `_DataType_` , `_TextQualifier_` , `_ConsecutiveDelimiter_` , `_Tab_` , `_Semicolon_` , `_Comma_` , `_Space_` , `_Other_` , `_OtherChar_` , `_FieldInfo_` , `_DecimalSeparator_` , `_ThousandsSeparator_` , `_TrailingMinusNumbers_` )
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

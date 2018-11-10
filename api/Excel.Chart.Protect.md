@@ -20,7 +20,7 @@ Protects a chart so that it cannot be modified.
 
  _expression_. `Protect`( `_Password_` , `_DrawingObjects_` , `_Contents_` , `_Scenarios_` , `_UserInterfaceOnly_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

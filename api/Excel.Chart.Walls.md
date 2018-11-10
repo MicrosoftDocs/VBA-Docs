@@ -20,7 +20,7 @@ Returns a  **[Walls](Excel.Walls(object).md)** object that represents the walls 
 
  _expression_. `Walls`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Example

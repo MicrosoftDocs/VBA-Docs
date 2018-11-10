@@ -20,7 +20,7 @@ Returns an array of the last four ranges or names selected. Each element in the 
 
  _expression_. `PreviousSelections`( `_Index_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

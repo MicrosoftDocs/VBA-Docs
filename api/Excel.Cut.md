@@ -17,7 +17,7 @@ Cuts the specified range to the Clipboard or pastes it into a specified destinat
 
  _expression_. `Cut( _Destination_)`
 
- _expression_ Required. An expression that returns a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ Required. An expression that returns a [Range](excel.range-graph-property.md) object.
 
  **Destination** Optional **Variant**. The range where the object should be pasted. If this argument is omitted, the object is cut to the Clipboard.
 

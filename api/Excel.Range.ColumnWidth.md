@@ -1,5 +1,5 @@
 ---
-title: Range.ColumnWidth Property (Excel)
+title: Range.ColumnWidth property (Excel)
 keywords: vbaxl10.chm144102
 f1_keywords:
 - vbaxl10.chm144102
@@ -11,16 +11,16 @@ ms.date: 08/24/2018
 ---
 
 
-# Range.ColumnWidth Property (Excel)
+# Range.ColumnWidth property (Excel)
 
-Returns or sets the width of all columns in the specified range. Read/write **Variant** .
+Returns or sets the width of all columns in the specified range. Read/write **Double**.
 
 
 ## Syntax
 
- _expression_. `ColumnWidth`
+_expression_. `ColumnWidth`
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

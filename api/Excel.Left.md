@@ -53,5 +53,5 @@ Returns or sets the distance from the left edge of the object to the left edge o
 Left property as it applies to the  **Chart** object.
 Returns or sets the distance from the left edge of the object to the left edge of the Microsoft Graph window. Read/write Variant.
  _expression_. **Left**
- _expression_ Required. An expression that returns a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ Required. An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
 

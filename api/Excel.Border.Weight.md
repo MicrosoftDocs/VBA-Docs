@@ -20,7 +20,7 @@ Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that repr
 
  _expression_. `Weight`
 
- _expression_ A variable that represents a [Border](Excel.Border(Graph property).md) object.
+ _expression_ A variable that represents a [Border](Excel.Border-graph-property.md) object.
 
 
 ## Example

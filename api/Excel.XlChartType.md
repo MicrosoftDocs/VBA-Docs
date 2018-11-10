@@ -1,5 +1,5 @@
 ---
-title: XlChartType Enumeration (Excel)
+title: XlChartType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartType
@@ -8,11 +8,9 @@ ms.date: 06/08/2017
 ---
 
 
-# XlChartType Enumeration (Excel)
+# XlChartType enumeration (Excel)
 
 Specifies the chart type.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

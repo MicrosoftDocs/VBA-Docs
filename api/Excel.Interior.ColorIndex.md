@@ -1,5 +1,5 @@
 ---
-title: Interior.ColorIndex Property (Excel)
+title: Interior.ColorIndex property (Excel)
 keywords: vbaxl10.chm551074
 f1_keywords:
 - vbaxl10.chm551074
@@ -11,30 +11,25 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.ColorIndex Property (Excel)
+# Interior.ColorIndex property (Excel)
 
-Returns or sets a  **Variant** value that represents the color of the interior.
-
+Returns or sets a **Variant** value that represents the color of the interior.
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. ColorIndex
 
- _expression_ A variable that represents an [Interior](Excel.Interior(Graph property).md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants:
 
-
--  **xlColorIndexAutomatic**
+- **xlColorIndexAutomatic**   
+- **xlColorIndexNone**
     
--  **xlColorIndexNone**
-    
-
 ## See also
 
-
-[Interior Object](Excel.Interior(object).md)
+- [Interior object](Excel.Interior(object).md)
 

@@ -20,7 +20,7 @@ Returns or sets the size of the secondary section of either a pie of pie chart o
 
  _expression_. `SecondPlotSize`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup(Graph object).md) object.
+ _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Example

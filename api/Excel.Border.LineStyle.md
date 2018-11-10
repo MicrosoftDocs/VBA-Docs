@@ -20,7 +20,7 @@ Returns or sets the line style for the border. Read/write  **[XlLineStyle](Excel
 
  _expression_. `LineStyle`
 
- _expression_ A variable that represents a [Border](Excel.Border(Graph property).md) object.
+ _expression_ A variable that represents a [Border](Excel.Border-graph-property.md) object.
 
 
 ## Remarks

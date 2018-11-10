@@ -20,7 +20,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
  _expression_. `Format`
 
- _expression_ A variable that represents a [ChartArea](Excel.ChartArea(Graph property).md) object.
+ _expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
 
 
 ## Remarks

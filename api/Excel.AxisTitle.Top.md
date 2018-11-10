@@ -20,7 +20,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
  _expression_. `Top`
 
- _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle(Graph property).md) object.
+ _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
 
 
 ## See also

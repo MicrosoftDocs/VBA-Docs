@@ -20,7 +20,7 @@ Pastes a picture from the Clipboard on the walls of the specified chart.
 
  _expression_. `Paste`
 
- _expression_ A variable that represents a [Walls](./Excel.Walls(Graph property).md) object.
+ _expression_ A variable that represents a [Walls](./Excel.Walls-graph-property.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Returns information about the current country/region and international settings.
 
  _expression_. `International`( `_Index_` )
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

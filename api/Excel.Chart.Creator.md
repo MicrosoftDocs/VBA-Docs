@@ -20,7 +20,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [Chart](Excel.Chart(Graph object).md) object.
+ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

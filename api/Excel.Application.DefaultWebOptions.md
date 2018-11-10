@@ -20,7 +20,7 @@ Returns the  **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that con
 
  _expression_. `DefaultWebOptions`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

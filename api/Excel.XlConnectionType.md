@@ -1,5 +1,5 @@
 ---
-title: XlConnectionType Enumeration (Excel)
+title: XlConnectionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConnectionType
@@ -8,11 +8,9 @@ ms.date: 06/08/2017
 ---
 
 
-# XlConnectionType Enumeration (Excel)
+# XlConnectionType enumeration (Excel)
 
 Specifies the type of database connection.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

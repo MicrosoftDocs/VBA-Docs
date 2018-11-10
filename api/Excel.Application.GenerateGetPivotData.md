@@ -20,7 +20,7 @@ Returns  **True** when Microsoft Excel can get PivotTable report data. Read/writ
 
  _expression_. `GenerateGetPivotData`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

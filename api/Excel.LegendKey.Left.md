@@ -20,7 +20,7 @@ Returns a  **Double** value that represents the distance, in points, from the le
 
  _expression_. `Left`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey(Graph property).md) object.
+ _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also

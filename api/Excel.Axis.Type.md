@@ -20,7 +20,7 @@ Returns an  **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis
 
  _expression_. `Type`
 
- _expression_ A variable that represents an [Axis](Excel.Axis(Graph object).md) object.
+ _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

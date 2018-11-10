@@ -20,7 +20,7 @@ Gets or sets whether to show a list of relevant functions and defined names when
 
  _expression_. `DisplayFormulaAutoComplete`
 
- _expression_ A variable that represents an [Application](Excel.Application(Graph property).md) object.
+ _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## See also

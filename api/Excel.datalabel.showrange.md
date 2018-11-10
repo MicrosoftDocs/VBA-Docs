@@ -18,7 +18,7 @@ Used to toggle the  **Range** field if it exists on the data label range. **Bool
 
  _expression_. `ShowRange`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Remarks

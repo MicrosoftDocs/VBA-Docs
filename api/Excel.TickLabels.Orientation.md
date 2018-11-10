@@ -20,7 +20,7 @@ Returns or sets a  **Long** value that represents the text orientation.
 
  _expression_. `Orientation`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels(Graph property).md) object.
+ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks

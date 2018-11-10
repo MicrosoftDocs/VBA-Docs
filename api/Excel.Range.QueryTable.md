@@ -20,7 +20,7 @@ Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the quer
 
  _expression_. `QueryTable`
 
- _expression_ A variable that represents a [Range](https://docs.microsoft.com/office/vba/api/excel.range(graph%20property)) object.
+ _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Example

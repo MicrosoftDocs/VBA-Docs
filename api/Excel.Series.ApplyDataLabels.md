@@ -20,7 +20,7 @@ Applies data labels to a series.
 
  _expression_. `ApplyDataLabels`( `_Type_` , `_LegendKey_` , `_AutoText_` , `_HasLeaderLines_` , `_ShowSeriesName_` , `_ShowCategoryName_` , `_ShowValue_` , `_ShowPercentage_` , `_ShowBubbleSize_` , `_Separator_` )
 
- _expression_ A variable that represents a [Series](Excel.Series(Graph object).md) object.
+ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md) object.
 
 
 ## Parameters

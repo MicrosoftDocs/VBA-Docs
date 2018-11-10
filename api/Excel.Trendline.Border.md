@@ -20,7 +20,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
  _expression_. `Border`
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline(Graph object).md) object.
+ _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 
 ## See also

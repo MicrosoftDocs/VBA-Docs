@@ -20,7 +20,7 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
  _expression_. `Shadow`
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel(Graph property).md) object.
+ _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## See also
