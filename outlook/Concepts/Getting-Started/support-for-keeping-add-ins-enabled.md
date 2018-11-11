@@ -2,7 +2,7 @@
 title: Support for Keeping Add-ins Enabled
 ms.prod: outlook
 ms.assetid: 63cd5a19-6c46-42f9-8fe2-9ce943bf106c
-ms.date: 10/23/2018
+ms.date: 11/12/2018
 ---
 
 
@@ -34,7 +34,7 @@ Below are some suggestions for improving add-in performance:
 
 The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy "List of Managed Add-ins". 
 
-The registry keys and settings are described in the following tables, using Outlook as an example:
+For Outlook, the registry keys and settings are described in the following tables.
 
 |**Name**|**Description**|
 |:-----|:-----|
