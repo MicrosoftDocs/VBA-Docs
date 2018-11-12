@@ -1,5 +1,5 @@
 ---
-title: Drives Collection
+title: Drives collection
 keywords: vblr6.chm2181924
 f1_keywords:
 - vblr6.chm2181924
@@ -7,23 +7,19 @@ ms.prod: office
 api_name:
 - Office.Drives
 ms.assetid: 729c2d39-5b4e-44f2-a9ed-4f06ba7ac1b7
-ms.date: 06/08/2017
+ms.date: 11/12/2018
 ---
 
 
-# Drives Collection
+# Drives collection
 
-
-
- **Description**
 Read-only collection of all available drives.
 
 ## Remarks
 
-Removable-media drives need not have media inserted for them to appear in the  **Drives** collection.
-The following code illustrates how to get the  **Drives** collection and iterate the collection using the **For Each...Next** statement:
+Removable-media drives need not have media inserted for them to appear in the **Drives** collection.
 
-
+The following code illustrates how to get the **Drives** collection and iterate the collection by using the **For Each...Next** statement:
 
 ```vb
 Sub ShowDriveList
@@ -43,4 +39,7 @@ Sub ShowDriveList
 End Sub
 ```
 
+## See also
 
+- [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

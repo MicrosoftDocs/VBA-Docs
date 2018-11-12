@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Collection
 ms.assetid: 1bc5c060-34c7-84e7-c99c-f20266a2d071
-ms.date: 08/28/2018
+ms.date: 11/12/2018
 ---
 
 
@@ -70,4 +70,7 @@ Sub ClassNamer()
 End Sub
 ```
 
+## See also
 
+- [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
