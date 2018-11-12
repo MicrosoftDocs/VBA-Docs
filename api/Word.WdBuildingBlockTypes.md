@@ -36,11 +36,11 @@ Specifies the type of building block.
 | **wdTypeCustomPageNumberTop**|25|Building block for custom page numbering on the top of the page.|
 | **wdTypeCustomQuickParts**|15|Custom quick parts building block.|
 | **wdTypeCustomTableOfContents**|28|Custom table of contents building block.|
-| **wdTypeCustomTables**|21|Custom table bulding block.|
+| **wdTypeCustomTables**|21|Custom table building block.|
 | **wdTypeCustomTextBox**|24|Custom text box building block.|
 | **wdTypeCustomWatermarks**|22|Custom watermark building block.|
 | **wdTypeEquations**|3|Equation building block.|
-| **wdTypeFooters**|4|Footer bulding block.|
+| **wdTypeFooters**|4|Footer building block.|
 | **wdTypeHeaders**|5|Header building block.|
 | **wdTypePageNumber**|6|Page numbering building block.|
 | **wdTypePageNumberBottom**|12|Building block for page numbering on the bottom of the page.|
