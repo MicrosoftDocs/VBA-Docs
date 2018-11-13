@@ -1,5 +1,5 @@
 ---
-title: Document.SetLetterContent Method (Word)
+title: Document.SetLetterContent method (Word)
 keywords: vbawd10.chm158007421
 f1_keywords:
 - vbawd10.chm158007421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SetLetterContent Method (Word)
+# Document.SetLetterContent method (Word)
 
 Inserts the contents of the specified  **LetterContent** object into a document.
 

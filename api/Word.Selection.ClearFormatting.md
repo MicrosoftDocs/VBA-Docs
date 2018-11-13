@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearFormatting Method (Word)
+title: Selection.ClearFormatting method (Word)
 keywords: vbawd10.chm158663665
 f1_keywords:
 - vbawd10.chm158663665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearFormatting Method (Word)
+# Selection.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from a selection.
 

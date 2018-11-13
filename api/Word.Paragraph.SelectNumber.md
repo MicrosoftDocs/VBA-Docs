@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SelectNumber Method (Word)
+title: Paragraph.SelectNumber method (Word)
 keywords: vbawd10.chm156696911
 f1_keywords:
 - vbawd10.chm156696911
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.SelectNumber Method (Word)
+# Paragraph.SelectNumber method (Word)
 
 Selects the number or bullet in a list.
 

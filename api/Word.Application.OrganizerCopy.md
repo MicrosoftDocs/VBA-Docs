@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerCopy Method (Word)
+title: Application.OrganizerCopy method (Word)
 keywords: vbawd10.chm158335294
 f1_keywords:
 - vbawd10.chm158335294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OrganizerCopy Method (Word)
+# Application.OrganizerCopy method (Word)
 
 Copies the specified AutoText entry, toolbar, style, or macro project item from the source document or template to the destination document or template.
 

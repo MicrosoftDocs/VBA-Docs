@@ -1,5 +1,5 @@
 ---
-title: Table.Sort Method (Word)
+title: Table.Sort method (Word)
 keywords: vbawd10.chm156303383
 f1_keywords:
 - vbawd10.chm156303383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Sort Method (Word)
+# Table.Sort method (Word)
 
 Sorts the specified table.
 

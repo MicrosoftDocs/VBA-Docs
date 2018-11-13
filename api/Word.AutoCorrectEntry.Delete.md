@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Delete Method (Word)
+title: AutoCorrectEntry.Delete method (Word)
 keywords: vbawd10.chm155648101
 f1_keywords:
 - vbawd10.chm155648101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.Delete Method (Word)
+# AutoCorrectEntry.Delete method (Word)
 
 Deletes the specified AutoCorrect entry.
 

@@ -1,5 +1,5 @@
 ---
-title: Walls.Select Method (Word)
+title: Walls.Select method (Word)
 keywords: vbawd10.chm25166059
 f1_keywords:
 - vbawd10.chm25166059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Select Method (Word)
+# Walls.Select method (Word)
 
 Selects the object.
 

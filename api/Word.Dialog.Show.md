@@ -1,5 +1,5 @@
 ---
-title: Dialog.Show Method (Word)
+title: Dialog.Show method (Word)
 keywords: vbawd10.chm163053904
 f1_keywords:
 - vbawd10.chm163053904
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Show Method (Word)
+# Dialog.Show method (Word)
 
 Displays and carries out actions initiated in the specified built-in Word dialog box. Returns a  **Long** that indicates which button was clicked to close the dialog box.
 

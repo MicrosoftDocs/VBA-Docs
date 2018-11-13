@@ -1,5 +1,5 @@
 ---
-title: StyleSheets.Item Method (Word)
+title: StyleSheets.Item method (Word)
 keywords: vbawd10.chm209584128
 f1_keywords:
 - vbawd10.chm209584128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheets.Item Method (Word)
+# StyleSheets.Item method (Word)
 
 Returns an individual  **StyleSheet** object in a collection.
 

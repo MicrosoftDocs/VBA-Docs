@@ -1,5 +1,5 @@
 ---
-title: Categories.Item Method (Word)
+title: Categories.Item method (Word)
 keywords: vbawd10.chm126550016
 f1_keywords:
 - vbawd10.chm126550016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Categories.Item Method (Word)
+# Categories.Item method (Word)
 
 Returns a  **Category** object that represents the specified item in the collection.
 

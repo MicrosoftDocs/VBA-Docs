@@ -1,5 +1,5 @@
 ---
-title: Border Object (Word)
+title: Border object (Word)
 keywords: vbawd10.chm2363
 f1_keywords:
 - vbawd10.chm2363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border Object (Word)
+# Border object (Word)
 
 Represents a border of an object. The  **Border** object is a member of the **[Borders](Word.borders.md)** collection.
 

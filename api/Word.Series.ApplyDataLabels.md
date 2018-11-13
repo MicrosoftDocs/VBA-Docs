@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (Word)
+title: Series.ApplyDataLabels method (Word)
 keywords: vbawd10.chm123733890
 f1_keywords:
 - vbawd10.chm123733890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyDataLabels Method (Word)
+# Series.ApplyDataLabels method (Word)
 
 Applies data labels to a series.
 

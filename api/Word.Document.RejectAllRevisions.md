@@ -1,5 +1,5 @@
 ---
-title: Document.RejectAllRevisions Method (Word)
+title: Document.RejectAllRevisions method (Word)
 keywords: vbawd10.chm158007614
 f1_keywords:
 - vbawd10.chm158007614
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RejectAllRevisions Method (Word)
+# Document.RejectAllRevisions method (Word)
 
 Rejects all tracked changes in the specified document.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentAlignment Method (Word)
+title: Selection.SelectCurrentAlignment method (Word)
 keywords: vbawd10.chm158663174
 f1_keywords:
 - vbawd10.chm158663174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentAlignment Method (Word)
+# Selection.SelectCurrentAlignment method (Word)
 
 Extends the selection forward until text with a different paragraph alignment is encountered.
 

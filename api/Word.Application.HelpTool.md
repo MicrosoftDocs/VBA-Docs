@@ -1,5 +1,5 @@
 ---
-title: Application.HelpTool Method (Word)
+title: Application.HelpTool method (Word)
 keywords: vbawd10.chm158335308
 f1_keywords:
 - vbawd10.chm158335308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.HelpTool Method (Word)
+# Application.HelpTool method (Word)
 
  **Caution**  This object, member, or enumeration is deprecated and is not intended to be used in your code.
 

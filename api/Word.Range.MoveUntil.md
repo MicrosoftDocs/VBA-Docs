@@ -1,5 +1,5 @@
 ---
-title: Range.MoveUntil Method (Word)
+title: Range.MoveUntil method (Word)
 keywords: vbawd10.chm157155443
 f1_keywords:
 - vbawd10.chm157155443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveUntil Method (Word)
+# Range.MoveUntil method (Word)
 
 Moves the specified range until one of the specified characters is found in the document.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.ExportAsFixedFormat Method (Word)
+title: Selection.ExportAsFixedFormat method (Word)
 keywords: vbawd10.chm158663692
 f1_keywords:
 - vbawd10.chm158663692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ExportAsFixedFormat Method (Word)
+# Selection.ExportAsFixedFormat method (Word)
 
 Saves the current selection as PDF or XPS format. .
 

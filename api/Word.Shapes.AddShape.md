@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Word)
+title: Shapes.AddShape method (Word)
 keywords: vbawd10.chm161415185
 f1_keywords:
 - vbawd10.chm161415185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddShape Method (Word)
+# Shapes.AddShape method (Word)
 
 Adds an AutoShape to a document. Returns a  **[Shape](Word.Shape.md)** object that represents the AutoShape and adds it to the **[Shapes](Word.shapes.md)** collection.
 

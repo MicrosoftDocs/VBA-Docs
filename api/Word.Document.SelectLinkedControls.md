@@ -1,5 +1,5 @@
 ---
-title: Document.SelectLinkedControls Method (Word)
+title: Document.SelectLinkedControls method (Word)
 keywords: vbawd10.chm158007845
 f1_keywords:
 - vbawd10.chm158007845
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectLinkedControls Method (Word)
+# Document.SelectLinkedControls method (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all content controls in a document that are linked to the specific custom XML node in the document's XML data store as specified by the Node parameter. Read-only.
 

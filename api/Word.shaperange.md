@@ -1,5 +1,5 @@
 ﻿---
-title: ShapeRange Object (Word)
+title: ShapeRange object (Word)
 keywords: vbawd10.chm2485
 f1_keywords:
 - vbawd10.chm2485
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange Object (Word)
+# ShapeRange object (Word)
 
 Represents a shape range, which is a set of shapes on a document. A shape range can contain as few as one shape or as many as all the shapes in the document. 
 

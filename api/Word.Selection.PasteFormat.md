@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteFormat Method (Word)
+title: Selection.PasteFormat method (Word)
 keywords: vbawd10.chm158663166
 f1_keywords:
 - vbawd10.chm158663166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PasteFormat Method (Word)
+# Selection.PasteFormat method (Word)
 
 Applies formatting copied with the  **CopyFormat** method to the selection.
 

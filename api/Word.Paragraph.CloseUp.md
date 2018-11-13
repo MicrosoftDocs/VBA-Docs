@@ -1,5 +1,5 @@
 ---
-title: Paragraph.CloseUp Method (Word)
+title: Paragraph.CloseUp method (Word)
 keywords: vbawd10.chm156696877
 f1_keywords:
 - vbawd10.chm156696877
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.CloseUp Method (Word)
+# Paragraph.CloseUp method (Word)
 
 Removes any spacing before the specified paragraph.
 

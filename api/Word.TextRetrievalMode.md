@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode Object (Word)
+title: TextRetrievalMode object (Word)
 keywords: vbawd10.chm2361
 f1_keywords:
 - vbawd10.chm2361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode Object (Word)
+# TextRetrievalMode object (Word)
 
 Represents options that control how text is retrieved from a  **Range** object.
 

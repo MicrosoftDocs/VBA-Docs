@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Delete Method (Word)
+title: AutoTextEntry.Delete method (Word)
 keywords: vbawd10.chm154533989
 f1_keywords:
 - vbawd10.chm154533989
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Delete Method (Word)
+# AutoTextEntry.Delete method (Word)
 
 Deletes the specified object.
 

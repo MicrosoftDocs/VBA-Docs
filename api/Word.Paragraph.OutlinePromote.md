@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlinePromote Method (Word)
+title: Paragraph.OutlinePromote method (Word)
 keywords: vbawd10.chm156696902
 f1_keywords:
 - vbawd10.chm156696902
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.OutlinePromote Method (Word)
+# Paragraph.OutlinePromote method (Word)
 
 Applies the previous heading level style (Heading 1 through Heading 8) to the specified paragraph or paragraphs.
 

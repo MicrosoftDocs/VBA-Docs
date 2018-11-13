@@ -1,5 +1,5 @@
 ---
-title: LineNumbering Object (Word)
+title: LineNumbering object (Word)
 keywords: vbawd10.chm2418
 f1_keywords:
 - vbawd10.chm2418
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering Object (Word)
+# LineNumbering object (Word)
 
 Represents line numbers in the left margin or to the left of each newspaper-style column.
 

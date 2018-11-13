@@ -1,5 +1,5 @@
 ---
-title: Document.CheckGrammar Method (Word)
+title: Document.CheckGrammar method (Word)
 keywords: vbawd10.chm158007427
 f1_keywords:
 - vbawd10.chm158007427
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CheckGrammar Method (Word)
+# Document.CheckGrammar method (Word)
 
 Begins a spelling and grammar check for the specified document or range.
 

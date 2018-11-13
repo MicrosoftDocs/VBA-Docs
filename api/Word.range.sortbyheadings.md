@@ -1,5 +1,5 @@
 ---
-title: Range.SortByHeadings Method (Word)
+title: Range.SortByHeadings method (Word)
 keywords: vbawd10.chm157155836
 f1_keywords:
 - vbawd10.chm157155836
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SortByHeadings Method (Word)
+# Range.SortByHeadings method (Word)
 
 Sorts the headings in the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.RejectAllRevisionsShown Method (Word)
+title: Document.RejectAllRevisionsShown method (Word)
 keywords: vbawd10.chm158007669
 f1_keywords:
 - vbawd10.chm158007669
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RejectAllRevisionsShown Method (Word)
+# Document.RejectAllRevisionsShown method (Word)
 
 Rejects all revisions in a document that are displayed on the screen.
 

@@ -1,5 +1,5 @@
 ---
-title: Index.Update Method (Word)
+title: Index.Update method (Word)
 keywords: vbawd10.chm159187046
 f1_keywords:
 - vbawd10.chm159187046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Update Method (Word)
+# Index.Update method (Word)
 
 Updates the entries shown in specified index.
 

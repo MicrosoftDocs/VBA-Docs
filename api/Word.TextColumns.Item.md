@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Item Method (Word)
+title: TextColumns.Item method (Word)
 keywords: vbawd10.chm158531584
 f1_keywords:
 - vbawd10.chm158531584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Item Method (Word)
+# TextColumns.Item method (Word)
 
 Returns an individual  **TextColumn** object in a collection.
 

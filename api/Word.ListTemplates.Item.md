@@ -1,5 +1,5 @@
 ---
-title: ListTemplates.Item Method (Word)
+title: ListTemplates.Item method (Word)
 keywords: vbawd10.chm160432128
 f1_keywords:
 - vbawd10.chm160432128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplates.Item Method (Word)
+# ListTemplates.Item method (Word)
 
 Returns an individual  **ListTemplate** object in a collection.
 

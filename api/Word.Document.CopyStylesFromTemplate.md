@@ -1,5 +1,5 @@
 ---
-title: Document.CopyStylesFromTemplate Method (Word)
+title: Document.CopyStylesFromTemplate method (Word)
 keywords: vbawd10.chm158007422
 f1_keywords:
 - vbawd10.chm158007422
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CopyStylesFromTemplate Method (Word)
+# Document.CopyStylesFromTemplate method (Word)
 
 Copies styles from the specified template to a document.
 

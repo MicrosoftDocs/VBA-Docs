@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.Add Method (Word)
+title: XMLSchemaReferences.Add method (Word)
 keywords: vbawd10.chm116129893
 f1_keywords:
 - vbawd10.chm116129893
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.Add Method (Word)
+# XMLSchemaReferences.Add method (Word)
 
 Returns an  **XMLSchemaReference** that represents a schema applied to a document.
 

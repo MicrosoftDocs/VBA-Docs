@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Delete Method (Word)
+title: XSLTransform.Delete method (Word)
 keywords: vbawd10.chm76742757
 f1_keywords:
 - vbawd10.chm76742757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.Delete Method (Word)
+# XSLTransform.Delete method (Word)
 
 Deletes the specified Extensible Stylesheet Language Transformation (XSLT) from the list of avaliable XSLTs.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Delete Method (Word)
+title: Table.Delete method (Word)
 keywords: vbawd10.chm156303369
 f1_keywords:
 - vbawd10.chm156303369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Delete Method (Word)
+# Table.Delete method (Word)
 
 Deletes the specified table.
 

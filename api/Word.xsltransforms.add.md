@@ -1,5 +1,5 @@
 ---
-title: XSLTransforms.Add Method (Word)
+title: XSLTransforms.Add method (Word)
 keywords: vbawd10.chm99221605
 f1_keywords:
 - vbawd10.chm99221605
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransforms.Add Method (Word)
+# XSLTransforms.Add method (Word)
 
 Returns an  **XSLTransform** object that represents an Extensible Stylesheet Language Transformation (XSLT) added to the collection of XSLTs for a specified schema.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.Item Method (Word)
+title: AutoCorrectEntries.Item method (Word)
 keywords: vbawd10.chm155713536
 f1_keywords:
 - vbawd10.chm155713536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.Item Method (Word)
+# AutoCorrectEntries.Item method (Word)
 
 Returns an individual  **AutoCorrectEntry** object in a collection.
 

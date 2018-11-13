@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle.Delete Method (Word)
+title: HeadingStyle.Delete method (Word)
 keywords: vbawd10.chm160104548
 f1_keywords:
 - vbawd10.chm160104548
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyle.Delete Method (Word)
+# HeadingStyle.Delete method (Word)
 
 Deletes the specified heading style.
 

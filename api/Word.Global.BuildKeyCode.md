@@ -1,5 +1,5 @@
 ---
-title: Global.BuildKeyCode Method (Word)
+title: Global.BuildKeyCode method (Word)
 keywords: vbawd10.chm163119420
 f1_keywords:
 - vbawd10.chm163119420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.BuildKeyCode Method (Word)
+# Global.BuildKeyCode method (Word)
 
 Returns a unique number for the specified key combination.
 

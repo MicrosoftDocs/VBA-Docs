@@ -1,5 +1,5 @@
 ---
-title: Application.DDERequest Method (Word)
+title: Application.DDERequest method (Word)
 keywords: vbawd10.chm158335289
 f1_keywords:
 - vbawd10.chm158335289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDERequest Method (Word)
+# Application.DDERequest method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.PasteAppendTable Method (Word)
+title: Range.PasteAppendTable method (Word)
 keywords: vbawd10.chm157155742
 f1_keywords:
 - vbawd10.chm157155742
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteAppendTable Method (Word)
+# Range.PasteAppendTable method (Word)
 
 Merges pasted cells into an existing table by inserting the pasted rows between the selected rows. No cells are overwritten.
 

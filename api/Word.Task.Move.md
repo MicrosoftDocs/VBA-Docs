@@ -1,5 +1,5 @@
 ---
-title: Task.Move Method (Word)
+title: Task.Move method (Word)
 keywords: vbawd10.chm159514636
 f1_keywords:
 - vbawd10.chm159514636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Move Method (Word)
+# Task.Move method (Word)
 
 Positions a task window.
 

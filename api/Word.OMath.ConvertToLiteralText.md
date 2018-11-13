@@ -1,5 +1,5 @@
 ---
-title: OMath.ConvertToLiteralText Method (Word)
+title: OMath.ConvertToLiteralText method (Word)
 keywords: vbawd10.chm176357581
 f1_keywords:
 - vbawd10.chm176357581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ConvertToLiteralText Method (Word)
+# OMath.ConvertToLiteralText method (Word)
 
 Converts an equation to literal text.
 

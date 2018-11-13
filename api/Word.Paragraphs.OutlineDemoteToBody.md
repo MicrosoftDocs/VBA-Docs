@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.OutlineDemoteToBody Method (Word)
+title: Paragraphs.OutlineDemoteToBody method (Word)
 keywords: vbawd10.chm156762438
 f1_keywords:
 - vbawd10.chm156762438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.OutlineDemoteToBody Method (Word)
+# Paragraphs.OutlineDemoteToBody method (Word)
 
 Demotes the specified paragraph or paragraphs to body text by applying the Normal style.
 

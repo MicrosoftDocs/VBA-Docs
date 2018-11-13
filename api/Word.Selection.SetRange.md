@@ -1,5 +1,5 @@
 ---
-title: Selection.SetRange Method (Word)
+title: Selection.SetRange method (Word)
 keywords: vbawd10.chm158662756
 f1_keywords:
 - vbawd10.chm158662756
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SetRange Method (Word)
+# Selection.SetRange method (Word)
 
 Sets the starting and ending character positions for the selection.
 

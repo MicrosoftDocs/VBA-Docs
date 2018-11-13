@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveLockedStyles Method (Word)
+title: Document.RemoveLockedStyles method (Word)
 keywords: vbawd10.chm158007783
 f1_keywords:
 - vbawd10.chm158007783
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemoveLockedStyles Method (Word)
+# Document.RemoveLockedStyles method (Word)
 
 Purges a document of locked styles when formatting restrictions have been applied in a document.
 

@@ -1,12 +1,12 @@
 ---
-title: HeadingStyles Object (Word)
+title: HeadingStyles object (Word)
 ms.prod: word
 ms.assetid: be882a12-1264-8f7e-415b-b8bcbf28e703
 ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles Object (Word)
+# HeadingStyles object (Word)
 
 A collection of  **HeadingStyle** objects that represent the styles used to compile a table of figures or table of contents.
 

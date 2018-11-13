@@ -1,5 +1,5 @@
 ---
-title: OMathFunc Object (Word)
+title: OMathFunc object (Word)
 keywords: vbawd10.chm2783
 f1_keywords:
 - vbawd10.chm2783
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunc Object (Word)
+# OMathFunc object (Word)
 
 Represents the application of a function or an argument in an equation that consists of a function name, such as sin or cos, and an argument.
 

@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.LabelOptions Method (Word)
+title: MailingLabel.LabelOptions method (Word)
 keywords: vbawd10.chm152502375
 f1_keywords:
 - vbawd10.chm152502375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.LabelOptions Method (Word)
+# MailingLabel.LabelOptions method (Word)
 
 Displays the  **Label Options** dialog box.
 

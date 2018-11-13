@@ -1,5 +1,5 @@
 ---
-title: Global.CleanString Method (Word)
+title: Global.CleanString method (Word)
 keywords: vbawd10.chm163119458
 f1_keywords:
 - vbawd10.chm163119458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.CleanString Method (Word)
+# Global.CleanString method (Word)
 
 Removes nonprinting characters (character codes 1 ? 29) and special Word characters from the specified string or changes them to spaces (character code 32), as described in the "Remarks" section. Returns the result as a  **String** .
 

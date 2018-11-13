@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCanvas Method (Word)
+title: Shapes.AddCanvas method (Word)
 keywords: vbawd10.chm161415193
 f1_keywords:
 - vbawd10.chm161415193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddCanvas Method (Word)
+# Shapes.AddCanvas method (Word)
 
 Adds a drawing canvas to a document. Returns a  **[Shape](Word.Shape.md)** object that represents the drawing canvas and adds it to the **Shapes** collection.
 

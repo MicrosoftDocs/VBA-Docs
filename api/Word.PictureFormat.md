@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (Word)
+title: PictureFormat object (Word)
 keywords: vbawd10.chm2507
 f1_keywords:
 - vbawd10.chm2507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat Object (Word)
+# PictureFormat object (Word)
 
 Contains properties and methods that apply to pictures and OLE objects. The  **LinkFormat** object contains properties and methods that apply to linked OLE objects only. The **OLEFormat** object contains properties and methods that apply to OLE objects whether or not they're linked.
 

@@ -1,5 +1,5 @@
 ---
-title: Editor.SelectAll Method (Word)
+title: Editor.SelectAll method (Word)
 keywords: vbawd10.chm225575414
 f1_keywords:
 - vbawd10.chm225575414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.SelectAll Method (Word)
+# Editor.SelectAll method (Word)
 
 Selects all the shapes in a document that were inserted or edited by a single user.
 

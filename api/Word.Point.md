@@ -1,5 +1,5 @@
 ---
-title: Point Object (Word)
+title: Point object (Word)
 keywords: vbawd10.chm4000
 f1_keywords:
 - vbawd10.chm4000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point Object (Word)
+# Point object (Word)
 
 Represents a single point in a series in a chart.
 

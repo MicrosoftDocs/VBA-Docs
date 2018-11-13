@@ -1,5 +1,5 @@
 ---
-title: Application.ChangeFileOpenDirectory Method (Word)
+title: Application.ChangeFileOpenDirectory method (Word)
 keywords: vbawd10.chm158335333
 f1_keywords:
 - vbawd10.chm158335333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ChangeFileOpenDirectory Method (Word)
+# Application.ChangeFileOpenDirectory method (Word)
 
 Sets the folder in which Word searches for documents.
 

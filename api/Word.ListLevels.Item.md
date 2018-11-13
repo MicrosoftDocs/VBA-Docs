@@ -1,5 +1,5 @@
 ---
-title: ListLevels.Item Method (Word)
+title: ListLevels.Item method (Word)
 keywords: vbawd10.chm160301056
 f1_keywords:
 - vbawd10.chm160301056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevels.Item Method (Word)
+# ListLevels.Item method (Word)
 
 Returns an individual  **ListLevel** object in a collection.
 

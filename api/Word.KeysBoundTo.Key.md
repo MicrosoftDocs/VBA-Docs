@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Key Method (Word)
+title: KeysBoundTo.Key method (Word)
 keywords: vbawd10.chm160890881
 f1_keywords:
 - vbawd10.chm160890881
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Key Method (Word)
+# KeysBoundTo.Key method (Word)
 
 Returns a  **KeyBinding** object that represents the specified custom key combination.
 

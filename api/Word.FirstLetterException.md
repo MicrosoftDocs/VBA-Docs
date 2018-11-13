@@ -1,5 +1,5 @@
 ---
-title: FirstLetterException Object (Word)
+title: FirstLetterException object (Word)
 keywords: vbawd10.chm2373
 f1_keywords:
 - vbawd10.chm2373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterException Object (Word)
+# FirstLetterException object (Word)
 
 Represents an abbreviation excluded from automatic correction. The  **[FirstLetterExceptions](Word.firstletterexceptions.md)** object is a member of the **FirstLetterExceptions** collection.
 

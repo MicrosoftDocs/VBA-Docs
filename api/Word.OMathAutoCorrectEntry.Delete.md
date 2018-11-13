@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntry.Delete Method (Word)
+title: OMathAutoCorrectEntry.Delete method (Word)
 keywords: vbawd10.chm251723976
 f1_keywords:
 - vbawd10.chm251723976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrectEntry.Delete Method (Word)
+# OMathAutoCorrectEntry.Delete method (Word)
 
 Deletes the specified equation auto correct entry.
 

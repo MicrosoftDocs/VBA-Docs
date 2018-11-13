@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTextured Method (Word)
+title: FillFormat.PresetTextured method (Word)
 keywords: vbawd10.chm164102158
 f1_keywords:
 - vbawd10.chm164102158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetTextured Method (Word)
+# FillFormat.PresetTextured method (Word)
 
 Sets the specified fill to a preset texture.
 

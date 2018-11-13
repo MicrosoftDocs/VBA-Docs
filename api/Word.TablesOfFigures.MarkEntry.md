@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.MarkEntry Method (Word)
+title: TablesOfFigures.MarkEntry method (Word)
 keywords: vbawd10.chm153223269
 f1_keywords:
 - vbawd10.chm153223269
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.MarkEntry Method (Word)
+# TablesOfFigures.MarkEntry method (Word)
 
 Inserts a TC (Table of Contents Entry) field after the specified range. The method returns a  **Field** object representing the TC field.
 

@@ -1,5 +1,5 @@
 ---
-title: Documents.Add Method (Word)
+title: Documents.Add method (Word)
 keywords: vbawd10.chm158072846
 f1_keywords:
 - vbawd10.chm158072846
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.Add Method (Word)
+# Documents.Add method (Word)
 
 Returns a  **Document** object that represents a new, empty document added to the collection of open documents.
 

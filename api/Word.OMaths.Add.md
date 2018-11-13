@@ -1,5 +1,5 @@
 ---
-title: OMaths.Add Method (Word)
+title: OMaths.Add method (Word)
 keywords: vbawd10.chm122355914
 f1_keywords:
 - vbawd10.chm122355914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMaths.Add Method (Word)
+# OMaths.Add method (Word)
 
 Creates an equation, from the text equation contained within the specified range, and returns a  **Range** object that contains the new equation.
 

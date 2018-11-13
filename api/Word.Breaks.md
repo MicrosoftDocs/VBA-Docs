@@ -1,5 +1,5 @@
 ---
-title: Breaks Object (Word)
+title: Breaks object (Word)
 keywords: vbawd10.chm777
 f1_keywords:
 - vbawd10.chm777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Breaks Object (Word)
+# Breaks object (Word)
 
 A collection of page, column, or section breaks in a page. Use the  **Breaks** collection and the related objects and properties to programmatically define page layout in a document.
 

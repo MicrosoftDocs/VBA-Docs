@@ -1,5 +1,5 @@
 ---
-title: Language Object (Word)
+title: Language object (Word)
 keywords: vbawd10.chm2413
 f1_keywords:
 - vbawd10.chm2413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language Object (Word)
+# Language object (Word)
 
 Represents a language used for proofing or formatting in Microsoft Word. The  **Language** object is a member of the **Languages** collection.
 

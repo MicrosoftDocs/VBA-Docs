@@ -1,5 +1,5 @@
 ---
-title: Frame.Select Method (Word)
+title: Frame.Select method (Word)
 keywords: vbawd10.chm153812991
 f1_keywords:
 - vbawd10.chm153812991
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Select Method (Word)
+# Frame.Select method (Word)
 
 Selects the specified object.
 

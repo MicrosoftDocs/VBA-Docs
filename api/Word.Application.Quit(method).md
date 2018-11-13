@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Word)
+title: Application.Quit method (Word)
 keywords: vbawd10.chm158336081
 f1_keywords:
 - vbawd10.chm158336081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Quit Method (Word)
+# Application.Quit method (Word)
 
 Quits Microsoft Word and optionally saves or routes the open documents.
 

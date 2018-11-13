@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures Object (Word)
+title: TablesOfFigures object (Word)
 keywords: vbawd10.chm2338
 f1_keywords:
 - vbawd10.chm2338
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures Object (Word)
+# TablesOfFigures object (Word)
 
 A collection of  **[TableOfFigures](Word.TableOfFigures.md)** objects that represent the tables of figures in a document.
 

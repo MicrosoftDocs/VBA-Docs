@@ -1,5 +1,5 @@
 ---
-title: Global Object (Word)
+title: Global object (Word)
 keywords: vbawd10.chm2489
 f1_keywords:
 - vbawd10.chm2489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global Object (Word)
+# Global object (Word)
 
 Contains top-level properties and methods that do not need to be preceded by the  **Application** property.
 

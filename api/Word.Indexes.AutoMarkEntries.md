@@ -1,5 +1,5 @@
 ---
-title: Indexes.AutoMarkEntries Method (Word)
+title: Indexes.AutoMarkEntries method (Word)
 keywords: vbawd10.chm159121511
 f1_keywords:
 - vbawd10.chm159121511
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.AutoMarkEntries Method (Word)
+# Indexes.AutoMarkEntries method (Word)
 
 Automatically adds XE (Index Entry) fields to the specified document, using the entries from a concordance file.
 

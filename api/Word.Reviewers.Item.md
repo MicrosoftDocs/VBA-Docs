@@ -1,5 +1,5 @@
 ---
-title: Reviewers.Item Method (Word)
+title: Reviewers.Item method (Word)
 keywords: vbawd10.chm211419136
 f1_keywords:
 - vbawd10.chm211419136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewers.Item Method (Word)
+# Reviewers.Item method (Word)
 
 Returns an individual  **Reviewer** object in a collection.
 

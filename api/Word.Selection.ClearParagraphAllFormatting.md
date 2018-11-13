@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearParagraphAllFormatting Method (Word)
+title: Selection.ClearParagraphAllFormatting method (Word)
 keywords: vbawd10.chm158663695
 f1_keywords:
 - vbawd10.chm158663695
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearParagraphAllFormatting Method (Word)
+# Selection.ClearParagraphAllFormatting method (Word)
 
 Removes all paragraph formatting (formatting applied either through paragraph styles or manually applied formatting) from the selected text.
 

@@ -1,5 +1,5 @@
 ---
-title: Revision Object (Word)
+title: Revision object (Word)
 keywords: vbawd10.chm2433
 f1_keywords:
 - vbawd10.chm2433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision Object (Word)
+# Revision object (Word)
 
 Represents a change marked with a revision mark. The  **Revision** object is a member of the **[Revisions](Word.revisions.md)** collection. The **Revisions** collection includes all the revision marks in a range or document.
 

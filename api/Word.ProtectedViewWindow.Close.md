@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Close Method (Word)
+title: ProtectedViewWindow.Close method (Word)
 keywords: vbawd10.chm231735398
 f1_keywords:
 - vbawd10.chm231735398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Close Method (Word)
+# ProtectedViewWindow.Close method (Word)
 
 Closes the specified protected view window.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyChartTemplate Method (Word)
+title: Chart.ApplyChartTemplate method (Word)
 keywords: vbawd10.chm79364172
 f1_keywords:
 - vbawd10.chm79364172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyChartTemplate Method (Word)
+# Chart.ApplyChartTemplate method (Word)
 
 Applies a standard or custom chart type to a chart.
 

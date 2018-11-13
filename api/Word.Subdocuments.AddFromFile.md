@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.AddFromFile Method (Word)
+title: Subdocuments.AddFromFile method (Word)
 keywords: vbawd10.chm159907940
 f1_keywords:
 - vbawd10.chm159907940
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.AddFromFile Method (Word)
+# Subdocuments.AddFromFile method (Word)
 
 Adds the specified subdocument to the master document at the start of the selection and returns a  **Subdocument** object.
 

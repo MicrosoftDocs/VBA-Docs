@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearCharacterStyle Method (Word)
+title: Selection.ClearCharacterStyle method (Word)
 keywords: vbawd10.chm158663688
 f1_keywords:
 - vbawd10.chm158663688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearCharacterStyle Method (Word)
+# Selection.ClearCharacterStyle method (Word)
 
 Removes character formatting that has been applied through character styles from the selected text.
 

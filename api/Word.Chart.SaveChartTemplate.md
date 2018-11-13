@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveChartTemplate Method (Word)
+title: Chart.SaveChartTemplate method (Word)
 keywords: vbawd10.chm79364173
 f1_keywords:
 - vbawd10.chm79364173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SaveChartTemplate Method (Word)
+# Chart.SaveChartTemplate method (Word)
 
 Saves a custom chart template to the list of available chart templates.
 

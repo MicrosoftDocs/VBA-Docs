@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Add Method (Word)
+title: ContentControlListEntries.Add method (Word)
 keywords: vbawd10.chm230948970
 f1_keywords:
 - vbawd10.chm230948970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Add Method (Word)
+# ContentControlListEntries.Add method (Word)
 
 Adds a new list item to a drop-down list or combo box content control and returns a  **[ContentControlListEntry](Word.ContentControlListEntry.md)** object.
 

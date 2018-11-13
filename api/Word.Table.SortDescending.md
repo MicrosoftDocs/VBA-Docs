@@ -1,5 +1,5 @@
 ---
-title: Table.SortDescending Method (Word)
+title: Table.SortDescending method (Word)
 keywords: vbawd10.chm156303373
 f1_keywords:
 - vbawd10.chm156303373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.SortDescending Method (Word)
+# Table.SortDescending method (Word)
 
 Sorts table rows in descending alphanumeric order.
 

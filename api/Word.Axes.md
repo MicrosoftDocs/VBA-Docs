@@ -1,5 +1,5 @@
 ---
-title: Axes Object (Word)
+title: Axes object (Word)
 ms.prod: word
 api_name:
 - Word.Axes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes Object (Word)
+# Axes object (Word)
 
 Represents a collection of all the  **[Axis](Word.Axis.md)** objects in the specified chart.
 

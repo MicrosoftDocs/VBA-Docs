@@ -1,5 +1,5 @@
 ---
-title: DropCap Object (Word)
+title: DropCap object (Word)
 keywords: vbawd10.chm2390
 f1_keywords:
 - vbawd10.chm2390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap Object (Word)
+# DropCap object (Word)
 
 Represents a dropped capital letter at the beginning of a paragraph. There is no  **DropCaps** collection; each **[Paragraph](Word.Paragraph.md)** object contains only one **DropCap** object.
 

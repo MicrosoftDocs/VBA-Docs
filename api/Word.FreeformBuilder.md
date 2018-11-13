@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (Word)
+title: FreeformBuilder object (Word)
 keywords: vbawd10.chm2505
 f1_keywords:
 - vbawd10.chm2505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder Object (Word)
+# FreeformBuilder object (Word)
 
 Represents the geometry of a freeform while it is being built.
 

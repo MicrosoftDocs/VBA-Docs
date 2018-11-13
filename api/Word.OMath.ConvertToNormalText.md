@@ -1,5 +1,5 @@
 ---
-title: OMath.ConvertToNormalText Method (Word)
+title: OMath.ConvertToNormalText method (Word)
 keywords: vbawd10.chm176357580
 f1_keywords:
 - vbawd10.chm176357580
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ConvertToNormalText Method (Word)
+# OMath.ConvertToNormalText method (Word)
 
 Converts an equation to normal text.
 

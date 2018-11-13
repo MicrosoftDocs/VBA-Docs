@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect Object (Word)
+title: OMathAutoCorrect object (Word)
 keywords: vbawd10.chm3944
 f1_keywords:
 - vbawd10.chm3944
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect Object (Word)
+# OMathAutoCorrect object (Word)
 
 Represents the math AutoCorrect feature in Microsoft Word. To access the math AutoCorrect entries, use the  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection.
 

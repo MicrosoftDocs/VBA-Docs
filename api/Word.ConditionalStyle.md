@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle Object (Word)
+title: ConditionalStyle object (Word)
 keywords: vbawd10.chm1389
 f1_keywords:
 - vbawd10.chm1389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle Object (Word)
+# ConditionalStyle object (Word)
 
 Represents special formatting applied to specified areas of a table when the selected table is formatted with a specified table style.
 

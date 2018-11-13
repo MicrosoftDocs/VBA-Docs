@@ -1,5 +1,5 @@
 ---
-title: Application.ResetIgnoreAll Method (Word)
+title: Application.ResetIgnoreAll method (Word)
 keywords: vbawd10.chm158335302
 f1_keywords:
 - vbawd10.chm158335302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ResetIgnoreAll Method (Word)
+# Application.ResetIgnoreAll method (Word)
 
 Clears the list of words that were previously ignored during a spelling check.
 

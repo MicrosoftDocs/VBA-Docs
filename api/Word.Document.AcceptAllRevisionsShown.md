@@ -1,5 +1,5 @@
 ---
-title: Document.AcceptAllRevisionsShown Method (Word)
+title: Document.AcceptAllRevisionsShown method (Word)
 keywords: vbawd10.chm158007668
 f1_keywords:
 - vbawd10.chm158007668
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AcceptAllRevisionsShown Method (Word)
+# Document.AcceptAllRevisionsShown method (Word)
 
 Accepts all revisions in the specified document that are displayed on the screen.
 

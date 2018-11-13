@@ -1,5 +1,5 @@
 ---
-title: Document.SendFax Method (Word)
+title: Document.SendFax method (Word)
 keywords: vbawd10.chm158007552
 f1_keywords:
 - vbawd10.chm158007552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SendFax Method (Word)
+# Document.SendFax method (Word)
 
 Sends the specified document as a fax, without any user interaction.
 

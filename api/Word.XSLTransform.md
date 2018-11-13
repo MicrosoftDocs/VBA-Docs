@@ -1,5 +1,5 @@
 ---
-title: XSLTransform Object (Word)
+title: XSLTransform object (Word)
 keywords: vbawd10.chm1171
 f1_keywords:
 - vbawd10.chm1171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform Object (Word)
+# XSLTransform object (Word)
 
 Represents a single registered Extensible Stylesheet Language Transformation (XSLT).
 

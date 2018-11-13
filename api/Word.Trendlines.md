@@ -1,5 +1,5 @@
 ---
-title: Trendlines Object (Word)
+title: Trendlines object (Word)
 keywords: vbawd10.chm1562
 f1_keywords:
 - vbawd10.chm1562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines Object (Word)
+# Trendlines object (Word)
 
 Represents a collection of all the  **[Trendline](Word.Trendline.md)** objects for the specified series.
 

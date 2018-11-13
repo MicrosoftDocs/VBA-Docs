@@ -1,5 +1,5 @@
 ---
-title: Range.Relocate Method (Word)
+title: Range.Relocate method (Word)
 keywords: vbawd10.chm157155507
 f1_keywords:
 - vbawd10.chm157155507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Relocate Method (Word)
+# Range.Relocate method (Word)
 
 In outline view, moves the paragraphs within the specified range after the next visible paragraph or before the previous visible paragraph.
 

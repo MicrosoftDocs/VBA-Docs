@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks Object (Word)
+title: CoAuthLocks object (Word)
 ms.prod: word
 api_name:
 - Word.CoAuthLocks
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLocks Object (Word)
+# CoAuthLocks object (Word)
 
 A collection of  **[CoAuthLock](Word.CoAuthLock.md)** objects.
 

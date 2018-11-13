@@ -1,5 +1,5 @@
 ---
-title: Cells.Delete Method (Word)
+title: Cells.Delete method (Word)
 keywords: vbawd10.chm155844808
 f1_keywords:
 - vbawd10.chm155844808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Delete Method (Word)
+# Cells.Delete method (Word)
 
 Deletes a table cell or cells and optionally controls how the remaining cells are shifted.
 

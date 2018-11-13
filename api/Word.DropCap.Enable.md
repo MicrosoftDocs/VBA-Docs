@@ -1,5 +1,5 @@
 ---
-title: DropCap.Enable Method (Word)
+title: DropCap.Enable method (Word)
 keywords: vbawd10.chm156631141
 f1_keywords:
 - vbawd10.chm156631141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.Enable Method (Word)
+# DropCap.Enable method (Word)
 
 Formats the first character in the specified paragraph as a dropped capital letter.
 

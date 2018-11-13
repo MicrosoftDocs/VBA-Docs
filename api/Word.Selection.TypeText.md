@@ -1,5 +1,5 @@
 ---
-title: Selection.TypeText Method (Word)
+title: Selection.TypeText method (Word)
 keywords: vbawd10.chm158663163
 f1_keywords:
 - vbawd10.chm158663163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.TypeText Method (Word)
+# Selection.TypeText method (Word)
 
 Inserts the specified text.
 

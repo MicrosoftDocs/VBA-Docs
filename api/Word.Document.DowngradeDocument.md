@@ -1,5 +1,5 @@
 ---
-title: Document.DowngradeDocument Method (Word)
+title: Document.DowngradeDocument method (Word)
 keywords: vbawd10.chm158007854
 f1_keywords:
 - vbawd10.chm158007854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DowngradeDocument Method (Word)
+# Document.DowngradeDocument method (Word)
 
 Downgrades a document to the Word 97-2003 document format so that it can be edited in a previous version of Microsoft Word. .
 

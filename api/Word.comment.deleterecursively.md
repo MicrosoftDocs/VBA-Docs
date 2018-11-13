@@ -1,5 +1,5 @@
 ---
-title: Comment.DeleteRecursively Method (Word)
+title: Comment.DeleteRecursively method (Word)
 keywords: vbawd10.chm154993656
 f1_keywords:
 - vbawd10.chm154993656
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.DeleteRecursively Method (Word)
+# Comment.DeleteRecursively method (Word)
 
 Deletes the specified comment and all replies associated with it.
 

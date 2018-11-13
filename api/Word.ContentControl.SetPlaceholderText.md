@@ -1,5 +1,5 @@
 ---
-title: ContentControl.SetPlaceholderText Method (Word)
+title: ContentControl.SetPlaceholderText method (Word)
 keywords: vbawd10.chm266534923
 f1_keywords:
 - vbawd10.chm266534923
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.SetPlaceholderText Method (Word)
+# ContentControl.SetPlaceholderText method (Word)
 
 Sets the placeholder text that displays in the content control until a user enters their own text.
 

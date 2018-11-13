@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object (Word)
+title: Gridlines object (Word)
 keywords: vbawd10.chm175
 f1_keywords:
 - vbawd10.chm175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines Object (Word)
+# Gridlines object (Word)
 
 Represents major or minor gridlines on a chart axis.
 

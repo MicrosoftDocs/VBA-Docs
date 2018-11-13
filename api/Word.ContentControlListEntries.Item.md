@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Item Method (Word)
+title: ContentControlListEntries.Item method (Word)
 keywords: vbawd10.chm230948864
 f1_keywords:
 - vbawd10.chm230948864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Item Method (Word)
+# ContentControlListEntries.Item method (Word)
 
 Returns a  **ContentControlListEntry** object that represents the specified item in the collection.
 

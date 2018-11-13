@@ -1,5 +1,5 @@
 ---
-title: ListParagraphs.Item Method (Word)
+title: ListParagraphs.Item method (Word)
 keywords: vbawd10.chm160497664
 f1_keywords:
 - vbawd10.chm160497664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListParagraphs.Item Method (Word)
+# ListParagraphs.Item method (Word)
 
 Returns an individual  **Paragraph** object in a collection.
 

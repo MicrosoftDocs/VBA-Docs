@@ -1,5 +1,5 @@
 ---
-title: Application.MergeDocuments Method (Word)
+title: Application.MergeDocuments method (Word)
 keywords: vbawd10.chm158335447
 f1_keywords:
 - vbawd10.chm158335447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MergeDocuments Method (Word)
+# Application.MergeDocuments method (Word)
 
 Compares two documents and returns a  **Document** object that represents the document that contains the differences between the two documents, marked using tracked changes.
 

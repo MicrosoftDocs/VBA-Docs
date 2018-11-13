@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Delete Method (Word)
+title: Bookmark.Delete method (Word)
 keywords: vbawd10.chm157810699
 f1_keywords:
 - vbawd10.chm157810699
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Delete Method (Word)
+# Bookmark.Delete method (Word)
 
 Deletes the specified bookmark.
 

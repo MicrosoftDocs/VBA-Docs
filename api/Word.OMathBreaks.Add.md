@@ -1,5 +1,5 @@
 ---
-title: OMathBreaks.Add Method (Word)
+title: OMathBreaks.Add method (Word)
 keywords: vbawd10.chm61276265
 f1_keywords:
 - vbawd10.chm61276265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreaks.Add Method (Word)
+# OMathBreaks.Add method (Word)
 
 Inserts a break into an equation and returns an  **OMathBreak** object that represents the break.
 

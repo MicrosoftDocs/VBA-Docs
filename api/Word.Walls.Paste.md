@@ -1,5 +1,5 @@
 ---
-title: Walls.Paste Method (Word)
+title: Walls.Paste method (Word)
 keywords: vbawd10.chm25166035
 f1_keywords:
 - vbawd10.chm25166035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Paste Method (Word)
+# Walls.Paste method (Word)
 
 Pastes a picture from the Clipboard on the walls of the specified chart. 
 

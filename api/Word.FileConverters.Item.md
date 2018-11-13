@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Item Method (Word)
+title: FileConverters.Item method (Word)
 keywords: vbawd10.chm161087488
 f1_keywords:
 - vbawd10.chm161087488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverters.Item Method (Word)
+# FileConverters.Item method (Word)
 
 Returns an individual  **FileConverter** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.SetPasswordEncryptionOptions Method (Word)
+title: Document.SetPasswordEncryptionOptions method (Word)
 keywords: vbawd10.chm158007657
 f1_keywords:
 - vbawd10.chm158007657
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SetPasswordEncryptionOptions Method (Word)
+# Document.SetPasswordEncryptionOptions method (Word)
 
 Sets the options Microsoft Word uses for encrypting documents with passwords.
 

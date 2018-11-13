@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAllEditableRanges Method (Word)
+title: Document.DeleteAllEditableRanges method (Word)
 keywords: vbawd10.chm158007765
 f1_keywords:
 - vbawd10.chm158007765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DeleteAllEditableRanges Method (Word)
+# Document.DeleteAllEditableRanges method (Word)
 
 Deletes permissions in all ranges for which the specified user or group of users has permission to modify.
 

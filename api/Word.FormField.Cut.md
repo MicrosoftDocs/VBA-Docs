@@ -1,5 +1,5 @@
 ---
-title: FormField.Cut Method (Word)
+title: FormField.Cut method (Word)
 keywords: vbawd10.chm153616486
 f1_keywords:
 - vbawd10.chm153616486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Cut Method (Word)
+# FormField.Cut method (Word)
 
 Removes the specified form field from the document and places it on the Clipboard.
 

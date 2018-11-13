@@ -1,5 +1,5 @@
 ---
-title: Document.Undo Method (Word)
+title: Document.Undo method (Word)
 keywords: vbawd10.chm158007412
 f1_keywords:
 - vbawd10.chm158007412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Undo Method (Word)
+# Document.Undo method (Word)
 
 Undoes the last action or a sequence of actions, which are displayed in the  **Undo** list. Returns **True** if the actions were successfully undone.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.LookupNameProperties Method (Word)
+title: Range.LookupNameProperties method (Word)
 keywords: vbawd10.chm157155505
 f1_keywords:
 - vbawd10.chm157155505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.LookupNameProperties Method (Word)
+# Range.LookupNameProperties method (Word)
 
 Looks up a name in the global address book list and displays the  **Properties** dialog box, which includes information about the specified name.
 

@@ -1,5 +1,5 @@
 ---
-title: XMLNodes.Item Method (Word)
+title: XMLNodes.Item method (Word)
 keywords: vbawd10.chm255983616
 f1_keywords:
 - vbawd10.chm255983616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNodes.Item Method (Word)
+# XMLNodes.Item method (Word)
 
 Returns an individual  **XMLNode** object in a collection.
 

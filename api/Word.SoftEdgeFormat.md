@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat Object (Word)
+title: SoftEdgeFormat object (Word)
 keywords: vbawd10.chm2809
 f1_keywords:
 - vbawd10.chm2809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat Object (Word)
+# SoftEdgeFormat object (Word)
 
 Represents the soft edge formatting for a shape or range of shapes.
 

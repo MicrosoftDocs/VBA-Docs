@@ -1,5 +1,5 @@
 ---
-title: ChartGroup Object (Word)
+title: ChartGroup object (Word)
 keywords: vbawd10.chm4020
 f1_keywords:
 - vbawd10.chm4020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup Object (Word)
+# ChartGroup object (Word)
 
 Represents one or more series plotted in a chart with the same format.
 

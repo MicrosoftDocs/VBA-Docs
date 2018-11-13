@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Delete Method (Word)
+title: Subdocument.Delete method (Word)
 keywords: vbawd10.chm159973476
 f1_keywords:
 - vbawd10.chm159973476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Delete Method (Word)
+# Subdocument.Delete method (Word)
 
 Deletes the specified subdocument.
 

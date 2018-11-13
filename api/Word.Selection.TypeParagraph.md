@@ -1,5 +1,5 @@
 ---
-title: Selection.TypeParagraph Method (Word)
+title: Selection.TypeParagraph method (Word)
 keywords: vbawd10.chm158663168
 f1_keywords:
 - vbawd10.chm158663168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.TypeParagraph Method (Word)
+# Selection.TypeParagraph method (Word)
 
 Inserts a new, blank paragraph.
 

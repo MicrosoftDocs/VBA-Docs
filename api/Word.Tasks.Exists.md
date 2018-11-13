@@ -1,5 +1,5 @@
 ---
-title: Tasks.Exists Method (Word)
+title: Tasks.Exists method (Word)
 keywords: vbawd10.chm159580162
 f1_keywords:
 - vbawd10.chm159580162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks.Exists Method (Word)
+# Tasks.Exists method (Word)
 
 Determines whether the specified task exists. Returns  **True** if the task exists.
 

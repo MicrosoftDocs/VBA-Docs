@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Delete Method (Word)
+title: BuildingBlock.Delete method (Word)
 keywords: vbawd10.chm203620453
 f1_keywords:
 - vbawd10.chm203620453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Delete Method (Word)
+# BuildingBlock.Delete method (Word)
 
 Deletes the specified building block.
 

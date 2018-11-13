@@ -1,5 +1,5 @@
 ﻿---
-title: Words Object (Word)
+title: Words object (Word)
 keywords: vbawd10.chm2396
 f1_keywords:
 - vbawd10.chm2396
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words Object (Word)
+# Words object (Word)
 
 A collection of words in a selection, range, or document. Each item in the  **Words** collection is a **Range** object that represents one word. There is no Word object.
 

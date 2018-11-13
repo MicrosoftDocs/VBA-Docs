@@ -1,5 +1,5 @@
 ---
-title: CustomProperties Object (Word)
+title: CustomProperties object (Word)
 keywords: vbawd10.chm3553
 f1_keywords:
 - vbawd10.chm3553
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties Object (Word)
+# CustomProperties object (Word)
 
 A collection of  **[CustomProperty](Word.CustomProperty.md)** objects that represents the properties related to a smart tag. The **CustomProperties** collection includes all the smart tag custom properties in a document.
 

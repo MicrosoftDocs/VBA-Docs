@@ -1,5 +1,5 @@
 ---
-title: Range.SortDescending Method (Word)
+title: Range.SortDescending method (Word)
 keywords: vbawd10.chm157155498
 f1_keywords:
 - vbawd10.chm157155498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SortDescending Method (Word)
+# Range.SortDescending method (Word)
 
 Sorts paragraphs in descending alphanumeric order.
 

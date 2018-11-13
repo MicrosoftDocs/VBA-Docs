@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Word)
+title: Shape.Ungroup method (Word)
 keywords: vbawd10.chm161480727
 f1_keywords:
 - vbawd10.chm161480727
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Ungroup Method (Word)
+# Shape.Ungroup method (Word)
 
 Ungroups any grouped shapes in the specified shape.
 

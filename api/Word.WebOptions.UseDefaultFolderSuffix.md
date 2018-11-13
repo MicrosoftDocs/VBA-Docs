@@ -1,5 +1,5 @@
 ---
-title: WebOptions.UseDefaultFolderSuffix Method (Word)
+title: WebOptions.UseDefaultFolderSuffix method (Word)
 keywords: vbawd10.chm165937253
 f1_keywords:
 - vbawd10.chm165937253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.UseDefaultFolderSuffix Method (Word)
+# WebOptions.UseDefaultFolderSuffix method (Word)
 
 Sets the folder suffix for the specified document to the default suffix for the language support you have selected or installed.
 

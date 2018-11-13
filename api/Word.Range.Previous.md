@@ -1,5 +1,5 @@
 ---
-title: Range.Previous Method (Word)
+title: Range.Previous method (Word)
 keywords: vbawd10.chm157155434
 f1_keywords:
 - vbawd10.chm157155434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Previous Method (Word)
+# Range.Previous method (Word)
 
 Returns the previous range a relative to the specified range.
 

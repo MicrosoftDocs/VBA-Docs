@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.AddNodes Method (Word)
+title: FreeformBuilder.AddNodes method (Word)
 keywords: vbawd10.chm164167690
 f1_keywords:
 - vbawd10.chm164167690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.AddNodes Method (Word)
+# FreeformBuilder.AddNodes method (Word)
 
 Inserts a new segment at the end of the freeform that's being created, and adds the nodes that define the segment.
 

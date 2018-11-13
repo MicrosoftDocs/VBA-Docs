@@ -1,5 +1,5 @@
 ---
-title: XSLTransforms.Item Method (Word)
+title: XSLTransforms.Item method (Word)
 keywords: vbawd10.chm99221504
 f1_keywords:
 - vbawd10.chm99221504
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransforms.Item Method (Word)
+# XSLTransforms.Item method (Word)
 
 Returns an  **XSLTransform** object in a collection.
 

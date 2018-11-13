@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntries.Add Method (Word)
+title: EmailSignatureEntries.Add method (Word)
 keywords: vbawd10.chm166002789
 f1_keywords:
 - vbawd10.chm166002789
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntries.Add Method (Word)
+# EmailSignatureEntries.Add method (Word)
 
 Returns an  **[EmailSignatureEntry](Word.EmailSignatureEntry.md)** object that represents a new e-mail signature entry.
 

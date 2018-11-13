@@ -1,5 +1,5 @@
 ---
-title: FormFields.Item Method (Word)
+title: FormFields.Item method (Word)
 keywords: vbawd10.chm153681920
 f1_keywords:
 - vbawd10.chm153681920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormFields.Item Method (Word)
+# FormFields.Item method (Word)
 
 Returns an individual  **FormField** object in a collection.
 

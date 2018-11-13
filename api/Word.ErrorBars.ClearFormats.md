@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.ClearFormats Method (Word)
+title: ErrorBars.ClearFormats method (Word)
 keywords: vbawd10.chm74842224
 f1_keywords:
 - vbawd10.chm74842224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.ClearFormats Method (Word)
+# ErrorBars.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Grow Method (Word)
+title: Font.Grow method (Word)
 keywords: vbawd10.chm156368996
 f1_keywords:
 - vbawd10.chm156368996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Grow Method (Word)
+# Font.Grow method (Word)
 
 Increases the font size to the next available size.
 

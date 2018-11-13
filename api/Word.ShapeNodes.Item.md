@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Item Method (Word)
+title: ShapeNodes.Item method (Word)
 keywords: vbawd10.chm164495360
 f1_keywords:
 - vbawd10.chm164495360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Item Method (Word)
+# ShapeNodes.Item method (Word)
 
 Returns an individual  **ShapeNode** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropBottom Method (Word)
+title: ShapeRange.CanvasCropBottom method (Word)
 keywords: vbawd10.chm162857103
 f1_keywords:
 - vbawd10.chm162857103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.CanvasCropBottom Method (Word)
+# ShapeRange.CanvasCropBottom method (Word)
 
 Crops a percentage of the height of a drawing canvas from the bottom of the canvas.
 

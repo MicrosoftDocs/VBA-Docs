@@ -1,5 +1,5 @@
 ---
-title: Selection.ShrinkDiscontiguousSelection Method (Word)
+title: Selection.ShrinkDiscontiguousSelection method (Word)
 keywords: vbawd10.chm158663675
 f1_keywords:
 - vbawd10.chm158663675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ShrinkDiscontiguousSelection Method (Word)
+# Selection.ShrinkDiscontiguousSelection method (Word)
 
 Cancels the selection of all but the most recently selected text when a selection contains multiple, unconnected selections.
 

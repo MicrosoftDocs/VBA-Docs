@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Ungroup Method (Word)
+title: ContentControl.Ungroup method (Word)
 keywords: vbawd10.chm266534936
 f1_keywords:
 - vbawd10.chm266534936
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Ungroup Method (Word)
+# ContentControl.Ungroup method (Word)
 
 Removes a group content control from a document so that its child content controls are no longer nested and can be freely edited.
 

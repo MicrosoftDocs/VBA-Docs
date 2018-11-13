@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertBefore Method (Word)
+title: Selection.InsertBefore method (Word)
 keywords: vbawd10.chm158662758
 f1_keywords:
 - vbawd10.chm158662758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertBefore Method (Word)
+# Selection.InsertBefore method (Word)
 
 Inserts the specified text before the specified selection. .
 

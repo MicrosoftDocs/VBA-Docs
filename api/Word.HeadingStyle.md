@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle Object (Word)
+title: HeadingStyle object (Word)
 keywords: vbawd10.chm2443
 f1_keywords:
 - vbawd10.chm2443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyle Object (Word)
+# HeadingStyle object (Word)
 
 Represents a style used to build a table of contents or figures. The  **HeadingStyle** object is a member of the **[HeadingStyles](Word.headingstyles.md)** collection.
 

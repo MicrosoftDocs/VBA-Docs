@@ -1,5 +1,5 @@
 ---
-title: Fields.Add Method (Word)
+title: Fields.Add method (Word)
 keywords: vbawd10.chm154140777
 f1_keywords:
 - vbawd10.chm154140777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Add Method (Word)
+# Fields.Add method (Word)
 
 Adds a  **[Field](Word.Field.md)** object to the **Fields** collection. Returns the **[Field](Word.Field.md)** object at the specified range.
 

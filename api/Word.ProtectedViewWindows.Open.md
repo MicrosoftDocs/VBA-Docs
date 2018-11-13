@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Open Method (Word)
+title: ProtectedViewWindows.Open method (Word)
 keywords: vbawd10.chm82313218
 f1_keywords:
 - vbawd10.chm82313218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Open Method (Word)
+# ProtectedViewWindows.Open method (Word)
 
 Opens the specified document in a new protected view window.
 

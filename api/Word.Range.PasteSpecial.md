@@ -1,5 +1,5 @@
 ---
-title: Range.PasteSpecial Method (Word)
+title: Range.PasteSpecial method (Word)
 keywords: vbawd10.chm157155504
 f1_keywords:
 - vbawd10.chm157155504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteSpecial Method (Word)
+# Range.PasteSpecial method (Word)
 
 Inserts the contents of the Clipboard. .
 

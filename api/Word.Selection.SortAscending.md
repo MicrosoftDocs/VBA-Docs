@@ -1,5 +1,5 @@
 ---
-title: Selection.SortAscending Method (Word)
+title: Selection.SortAscending method (Word)
 keywords: vbawd10.chm158662825
 f1_keywords:
 - vbawd10.chm158662825
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SortAscending Method (Word)
+# Selection.SortAscending method (Word)
 
 Sorts paragraphs or table rows in ascending alphanumeric order.
 

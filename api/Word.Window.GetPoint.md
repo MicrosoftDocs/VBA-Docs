@@ -1,5 +1,5 @@
 ---
-title: Window.GetPoint Method (Word)
+title: Window.GetPoint method (Word)
 keywords: vbawd10.chm157417584
 f1_keywords:
 - vbawd10.chm157417584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.GetPoint Method (Word)
+# Window.GetPoint method (Word)
 
 Returns the screen coordinates of the specified range or shape.
 

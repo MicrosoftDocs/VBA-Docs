@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.AppendToSpike Method (Word)
+title: AutoTextEntries.AppendToSpike method (Word)
 keywords: vbawd10.chm154599526
 f1_keywords:
 - vbawd10.chm154599526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries.AppendToSpike Method (Word)
+# AutoTextEntries.AppendToSpike method (Word)
 
 Deletes the specified range and adds the contents of the range to the Spike (a built-in AutoText entry). This method returns the Spike as an  **AutoTextEntry** object.
 

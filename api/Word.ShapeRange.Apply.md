@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Apply Method (Word)
+title: ShapeRange.Apply method (Word)
 keywords: vbawd10.chm162856971
 f1_keywords:
 - vbawd10.chm162856971
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Apply Method (Word)
+# ShapeRange.Apply method (Word)
 
 Applies to the specified shape formatting that has been copied using the  **PickUp** method.
 

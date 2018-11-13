@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Item Method (Word)
+title: RecentFiles.Item method (Word)
 keywords: vbawd10.chm157483008
 f1_keywords:
 - vbawd10.chm157483008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Item Method (Word)
+# RecentFiles.Item method (Word)
 
 Returns an individual  **RecentFile** object in a collection.
 

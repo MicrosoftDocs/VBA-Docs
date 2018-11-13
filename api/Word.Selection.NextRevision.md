@@ -1,5 +1,5 @@
 ---
-title: Selection.NextRevision Method (Word)
+title: Selection.NextRevision method (Word)
 keywords: vbawd10.chm158663187
 f1_keywords:
 - vbawd10.chm158663187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.NextRevision Method (Word)
+# Selection.NextRevision method (Word)
 
 Locates and returns the next tracked change as a  **Revision** object.
 

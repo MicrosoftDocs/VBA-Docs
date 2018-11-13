@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropTop Method (Word)
+title: ShapeRange.CanvasCropTop method (Word)
 keywords: vbawd10.chm162857101
 f1_keywords:
 - vbawd10.chm162857101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.CanvasCropTop Method (Word)
+# ShapeRange.CanvasCropTop method (Word)
 
 Crops a percentage of the height of a drawing canvas from the top of the canvas.
 

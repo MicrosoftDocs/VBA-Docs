@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks.Add Method (Word)
+title: CoAuthLocks.Add method (Word)
 keywords: vbawd10.chm180486146
 f1_keywords:
 - vbawd10.chm180486146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLocks.Add Method (Word)
+# CoAuthLocks.Add method (Word)
 
 Returns a  **[CoAuthLock](Word.CoAuthLock.md)** object that represents a lock added to a specified range.
 

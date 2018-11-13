@@ -1,5 +1,5 @@
 ---
-title: XMLNode.SelectSingleNode Method (Word)
+title: XMLNode.SelectSingleNode method (Word)
 keywords: vbawd10.chm37748754
 f1_keywords:
 - vbawd10.chm37748754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.SelectSingleNode Method (Word)
+# XMLNode.SelectSingleNode method (Word)
 
 Returns an  **XMLNode** object that represents the first child element that matches the XPath parameter within the specified XML element. .
 

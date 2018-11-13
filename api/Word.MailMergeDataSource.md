@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource Object (Word)
+title: MailMergeDataSource object (Word)
 keywords: vbawd10.chm2333
 f1_keywords:
 - vbawd10.chm2333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource Object (Word)
+# MailMergeDataSource object (Word)
 
 Represents the mail merge data source in a mail merge operation.
 

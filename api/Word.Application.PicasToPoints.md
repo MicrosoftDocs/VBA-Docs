@@ -1,5 +1,5 @@
 ---
-title: Application.PicasToPoints Method (Word)
+title: Application.PicasToPoints method (Word)
 keywords: vbawd10.chm158335349
 f1_keywords:
 - vbawd10.chm158335349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PicasToPoints Method (Word)
+# Application.PicasToPoints method (Word)
 
 Converts a measurement from picas to points (1 pica = 12 points). Returns the converted measurement as a  **Single** .
 

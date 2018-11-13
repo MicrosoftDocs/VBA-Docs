@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsExceptions.Item Method (Word)
+title: OtherCorrectionsExceptions.Item method (Word)
 keywords: vbawd10.chm165609472
 f1_keywords:
 - vbawd10.chm165609472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsExceptions.Item Method (Word)
+# OtherCorrectionsExceptions.Item method (Word)
 
 Returns an individual  **OtherCorrectionsException** object in a collection.
 

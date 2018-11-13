@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Item Method (Word)
+title: ListEntries.Item method (Word)
 keywords: vbawd10.chm153354240
 f1_keywords:
 - vbawd10.chm153354240
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntries.Item Method (Word)
+# ListEntries.Item method (Word)
 
 Returns an individual  **ListEntry** object in a collection.
 

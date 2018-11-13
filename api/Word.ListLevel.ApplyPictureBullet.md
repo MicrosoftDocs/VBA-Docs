@@ -1,5 +1,5 @@
 ---
-title: ListLevel.ApplyPictureBullet Method (Word)
+title: ListLevel.ApplyPictureBullet method (Word)
 keywords: vbawd10.chm160235520
 f1_keywords:
 - vbawd10.chm160235520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.ApplyPictureBullet Method (Word)
+# ListLevel.ApplyPictureBullet method (Word)
 
 Formats a paragraph or range of paragraphs with a picture bullet.
 

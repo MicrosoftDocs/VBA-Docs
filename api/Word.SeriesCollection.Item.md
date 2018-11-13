@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Item Method (Word)
+title: SeriesCollection.Item method (Word)
 keywords: vbawd10.chm150405120
 f1_keywords:
 - vbawd10.chm150405120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Item Method (Word)
+# SeriesCollection.Item method (Word)
 
 Returns a single object from a collection.
 

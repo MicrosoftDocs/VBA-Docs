@@ -1,5 +1,5 @@
 ---
-title: Selection.LtrPara Method (Word)
+title: Selection.LtrPara method (Word)
 keywords: vbawd10.chm158663262
 f1_keywords:
 - vbawd10.chm158663262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.LtrPara Method (Word)
+# Selection.LtrPara method (Word)
 
 Sets the reading order and alignment of the specified paragraphs to left-to-right.
 

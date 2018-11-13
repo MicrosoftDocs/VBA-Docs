@@ -1,5 +1,5 @@
 ---
-title: EmailSignature Object (Word)
+title: EmailSignature object (Word)
 keywords: vbawd10.chm2524
 f1_keywords:
 - vbawd10.chm2524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature Object (Word)
+# EmailSignature object (Word)
 
 Contains information about the e-mail signatures used by Microsoft Word when you create and edit e-mail messages and replies.
 

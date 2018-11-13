@@ -1,5 +1,5 @@
 ---
-title: Task.Resize Method (Word)
+title: Task.Resize method (Word)
 keywords: vbawd10.chm159514637
 f1_keywords:
 - vbawd10.chm159514637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Resize Method (Word)
+# Task.Resize method (Word)
 
 Sizes the specified task window.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultWebOptions Method (Word)
+title: Application.DefaultWebOptions method (Word)
 keywords: vbawd10.chm158335381
 f1_keywords:
 - vbawd10.chm158335381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultWebOptions Method (Word)
+# Application.DefaultWebOptions method (Word)
 
 Returns the  **[DefaultWebOptions](Word.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Word whenever you save a document as a Web page or open a Web page.
 

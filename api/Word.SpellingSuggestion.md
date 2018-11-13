@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestion Object (Word)
+title: SpellingSuggestion object (Word)
 keywords: vbawd10.chm2475
 f1_keywords:
 - vbawd10.chm2475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestion Object (Word)
+# SpellingSuggestion object (Word)
 
 Represents a single spelling suggestion for a misspelled word. The  **SpellingSuggestion** object is a member of the **[SpellingSuggestions](Word.spellingsuggestions.md)** collection. The **SpellingSuggestions** collection includes all the suggestions for a specified word or for the first word in the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: Tables.Add Method (Word)
+title: Tables.Add method (Word)
 keywords: vbawd10.chm156041416
 f1_keywords:
 - vbawd10.chm156041416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Add Method (Word)
+# Tables.Add method (Word)
 
 Returns a  **Table** object that represents a new, blank table added to a document.
 

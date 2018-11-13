@@ -1,5 +1,5 @@
 ---
-title: Range.DetectLanguage Method (Word)
+title: Range.DetectLanguage method (Word)
 keywords: vbawd10.chm157155531
 f1_keywords:
 - vbawd10.chm157155531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DetectLanguage Method (Word)
+# Range.DetectLanguage method (Word)
 
 Analyzes the specified text to determine the language that it is written in.
 

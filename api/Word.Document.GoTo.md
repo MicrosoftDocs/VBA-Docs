@@ -1,5 +1,5 @@
 ---
-title: Document.GoTo Method (Word)
+title: Document.GoTo method (Word)
 keywords: vbawd10.chm158007411
 f1_keywords:
 - vbawd10.chm158007411
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GoTo Method (Word)
+# Document.GoTo method (Word)
 
 Returns a  **Range** object that represents the start position of the specified item, such as a page, bookmark, or field.
 

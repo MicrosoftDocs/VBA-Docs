@@ -1,5 +1,5 @@
 ---
-title: Floor.Paste Method (Word)
+title: Floor.Paste method (Word)
 keywords: vbawd10.chm46006483
 f1_keywords:
 - vbawd10.chm46006483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Paste Method (Word)
+# Floor.Paste method (Word)
 
 Pastes a picture from the Clipboard on the floor of the specified chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Copy Method (Word)
+title: Bookmark.Copy method (Word)
 keywords: vbawd10.chm157810700
 f1_keywords:
 - vbawd10.chm157810700
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Copy Method (Word)
+# Bookmark.Copy method (Word)
 
 Copies a bookmark to the new bookmark specified in the Name argument, and returns a  **Bookmark** object.
 

@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter Object (Word)
+title: HeaderFooter object (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter Object (Word)
+# HeaderFooter object (Word)
 
 Represents a single header or footer. The  **HeaderFooter** object is a member of the **[HeadersFooters](Word.headersfooters.md)** collection. The **HeadersFooters** collection includes all headers and footers in the specified document section.
 

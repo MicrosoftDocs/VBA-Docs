@@ -1,5 +1,5 @@
 ---
-title: View.ExpandOutline Method (Word)
+title: View.ExpandOutline method (Word)
 keywords: vbawd10.chm161808486
 f1_keywords:
 - vbawd10.chm161808486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ExpandOutline Method (Word)
+# View.ExpandOutline method (Word)
 
 Expands the text under the selection by one heading level.
 

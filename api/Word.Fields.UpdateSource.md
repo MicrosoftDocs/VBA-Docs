@@ -1,5 +1,5 @@
 ---
-title: Fields.UpdateSource Method (Word)
+title: Fields.UpdateSource method (Word)
 keywords: vbawd10.chm154140776
 f1_keywords:
 - vbawd10.chm154140776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.UpdateSource Method (Word)
+# Fields.UpdateSource method (Word)
 
 Saves the changes made to the results of an INCLUDETEXT field back to the source document.
 

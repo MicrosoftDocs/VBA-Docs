@@ -1,5 +1,5 @@
 ---
-title: Range.MoveEnd Method (Word)
+title: Range.MoveEnd method (Word)
 keywords: vbawd10.chm157155439
 f1_keywords:
 - vbawd10.chm157155439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveEnd Method (Word)
+# Range.MoveEnd method (Word)
 
 Moves the ending character position of a range. .
 

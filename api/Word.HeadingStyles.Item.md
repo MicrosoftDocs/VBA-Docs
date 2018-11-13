@@ -1,5 +1,5 @@
 ---
-title: HeadingStyles.Item Method (Word)
+title: HeadingStyles.Item method (Word)
 keywords: vbawd10.chm160038912
 f1_keywords:
 - vbawd10.chm160038912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles.Item Method (Word)
+# HeadingStyles.Item method (Word)
 
 Returns an individual  **HeadingStyle** object in a collection.
 

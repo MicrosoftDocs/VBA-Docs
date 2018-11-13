@@ -1,5 +1,5 @@
 ---
-title: Cell.Merge Method (Word)
+title: Cell.Merge method (Word)
 keywords: vbawd10.chm156106956
 f1_keywords:
 - vbawd10.chm156106956
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Merge Method (Word)
+# Cell.Merge method (Word)
 
 Merges the specified table cell with another table cell. The result is a single table cell.
 

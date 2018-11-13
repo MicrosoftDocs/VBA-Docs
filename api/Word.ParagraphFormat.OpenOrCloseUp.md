@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.OpenOrCloseUp Method (Word)
+title: ParagraphFormat.OpenOrCloseUp method (Word)
 keywords: vbawd10.chm156434735
 f1_keywords:
 - vbawd10.chm156434735
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.OpenOrCloseUp Method (Word)
+# ParagraphFormat.OpenOrCloseUp method (Word)
 
 Toggles the spacing before the specified paragraphs.
 

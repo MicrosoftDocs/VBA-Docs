@@ -1,5 +1,5 @@
 ---
-title: Styles.Add Method (Word)
+title: Styles.Add method (Word)
 keywords: vbawd10.chm153944164
 f1_keywords:
 - vbawd10.chm153944164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Add Method (Word)
+# Styles.Add method (Word)
 
 Returns a  **HeadingStyle** object that represents a new heading style added to a document.
 

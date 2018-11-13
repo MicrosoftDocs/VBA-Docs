@@ -1,5 +1,5 @@
 ---
-title: Document.Post Method (Word)
+title: Document.Post method (Word)
 keywords: vbawd10.chm158007439
 f1_keywords:
 - vbawd10.chm158007439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Post Method (Word)
+# Document.Post method (Word)
 
 Posts the specified document to a public folder in Microsoft Exchange. .
 

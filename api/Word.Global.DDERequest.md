@@ -1,5 +1,5 @@
 ---
-title: Global.DDERequest Method (Word)
+title: Global.DDERequest method (Word)
 keywords: vbawd10.chm163119417
 f1_keywords:
 - vbawd10.chm163119417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.DDERequest Method (Word)
+# Global.DDERequest method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to request information from the receiving application, and returns the information as a string.
 

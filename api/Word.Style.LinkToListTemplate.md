@@ -1,5 +1,5 @@
 ---
-title: Style.LinkToListTemplate Method (Word)
+title: Style.LinkToListTemplate method (Word)
 keywords: vbawd10.chm153878629
 f1_keywords:
 - vbawd10.chm153878629
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.LinkToListTemplate Method (Word)
+# Style.LinkToListTemplate method (Word)
 
 Links the specified style to a list template so that the style's formatting can be applied to lists.
 

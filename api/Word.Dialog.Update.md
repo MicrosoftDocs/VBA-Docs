@@ -1,5 +1,5 @@
 ---
-title: Dialog.Update Method (Word)
+title: Dialog.Update method (Word)
 keywords: vbawd10.chm163053870
 f1_keywords:
 - vbawd10.chm163053870
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Update Method (Word)
+# Dialog.Update method (Word)
 
 Updates the values shown in a built-in Microsoft Word dialog box.
 

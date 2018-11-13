@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Add Method (Word)
+title: Paragraphs.Add method (Word)
 keywords: vbawd10.chm156762117
 f1_keywords:
 - vbawd10.chm156762117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Add Method (Word)
+# Paragraphs.Add method (Word)
 
 Returns a  **Paragraph** object that represents a new, blank paragraph added to a document.
 

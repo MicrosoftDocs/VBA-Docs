@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleDirectFormatting Method (Word)
+title: Table.ApplyStyleDirectFormatting method (Word)
 keywords: vbawd10.chm156303568
 f1_keywords:
 - vbawd10.chm156303568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleDirectFormatting Method (Word)
+# Table.ApplyStyleDirectFormatting method (Word)
 
 Applies the specified style but maintains any formatting that a user directly applies.
 

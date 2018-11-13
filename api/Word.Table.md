@@ -1,5 +1,5 @@
 ---
-title: Table Object (Word)
+title: Table object (Word)
 keywords: vbawd10.chm2385
 f1_keywords:
 - vbawd10.chm2385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table Object (Word)
+# Table object (Word)
 
 Represents a single table. The  **Table** object is a member of the **[Tables](./Word.tables.md)** collection. The **Tables** collection includes all the tables in the specified selection, range, or document.
 

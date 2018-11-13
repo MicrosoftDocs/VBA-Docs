@@ -1,5 +1,5 @@
 ---
-title: Range.NextSubdocument Method (Word)
+title: Range.NextSubdocument method (Word)
 keywords: vbawd10.chm157155547
 f1_keywords:
 - vbawd10.chm157155547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.NextSubdocument Method (Word)
+# Range.NextSubdocument method (Word)
 
 Moves the range to the next subdocument.
 

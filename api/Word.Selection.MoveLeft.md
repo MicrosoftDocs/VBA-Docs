@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveLeft Method (Word)
+title: Selection.MoveLeft method (Word)
 keywords: vbawd10.chm158663156
 f1_keywords:
 - vbawd10.chm158663156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveLeft Method (Word)
+# Selection.MoveLeft method (Word)
 
 Moves the selection to the left and returns the number of units it has been moved.
 

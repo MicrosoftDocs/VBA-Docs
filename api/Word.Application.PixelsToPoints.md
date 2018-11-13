@@ -1,5 +1,5 @@
 ---
-title: Application.PixelsToPoints Method (Word)
+title: Application.PixelsToPoints method (Word)
 keywords: vbawd10.chm158335364
 f1_keywords:
 - vbawd10.chm158335364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PixelsToPoints Method (Word)
+# Application.PixelsToPoints method (Word)
 
 Converts a measurement from pixels to points. Returns the converted measurement as a  **Single** .
 

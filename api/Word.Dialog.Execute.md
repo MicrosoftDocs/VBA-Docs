@@ -1,5 +1,5 @@
 ---
-title: Dialog.Execute Method (Word)
+title: Dialog.Execute method (Word)
 keywords: vbawd10.chm163085569
 f1_keywords:
 - vbawd10.chm163085569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Execute Method (Word)
+# Dialog.Execute method (Word)
 
 Applies the current settings of a Microsoft Word dialog box.
 

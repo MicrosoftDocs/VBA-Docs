@@ -1,5 +1,5 @@
 ---
-title: Version.Open Method (Word)
+title: Version.Open method (Word)
 keywords: vbawd10.chm162791527
 f1_keywords:
 - vbawd10.chm162791527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version.Open Method (Word)
+# Version.Open method (Word)
 
 Opens the specified version of a document. Returns a  **Document** object representing the opened document.
 

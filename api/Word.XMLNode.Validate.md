@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Validate Method (Word)
+title: XMLNode.Validate method (Word)
 keywords: vbawd10.chm37748840
 f1_keywords:
 - vbawd10.chm37748840
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Validate Method (Word)
+# XMLNode.Validate method (Word)
 
 Validates an individual XML element against the XML schemas that are attached to a document.
 

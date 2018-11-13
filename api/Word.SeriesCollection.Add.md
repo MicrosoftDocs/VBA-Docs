@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Add Method (Word)
+title: SeriesCollection.Add method (Word)
 keywords: vbawd10.chm150405301
 f1_keywords:
 - vbawd10.chm150405301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Add Method (Word)
+# SeriesCollection.Add method (Word)
 
 Adds one or more new series to the collection.
 

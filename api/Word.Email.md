@@ -1,5 +1,5 @@
 ---
-title: Email Object (Word)
+title: Email object (Word)
 keywords: vbawd10.chm2525
 f1_keywords:
 - vbawd10.chm2525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Email Object (Word)
+# Email object (Word)
 
 Represents an e-mail message.
 

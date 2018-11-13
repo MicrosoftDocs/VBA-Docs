@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Space2 Method (Word)
+title: Paragraph.Space2 method (Word)
 keywords: vbawd10.chm156696891
 f1_keywords:
 - vbawd10.chm156696891
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Space2 Method (Word)
+# Paragraph.Space2 method (Word)
 
 Double-spaces the specified paragraphs.
 

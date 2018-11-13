@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Word)
+title: ThreeDFormat.IncrementRotationY method (Word)
 keywords: vbawd10.chm164626443
 f1_keywords:
 - vbawd10.chm164626443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Word)
+# ThreeDFormat.IncrementRotationY method (Word)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees.
 

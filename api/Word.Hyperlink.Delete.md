@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Delete Method (Word)
+title: Hyperlink.Delete method (Word)
 keywords: vbawd10.chm161284199
 f1_keywords:
 - vbawd10.chm161284199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Delete Method (Word)
+# Hyperlink.Delete method (Word)
 
 Deletes the specified hyperlink.
 

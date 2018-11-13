@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.MarkCitation Method (Word)
+title: TablesOfAuthorities.MarkCitation method (Word)
 keywords: vbawd10.chm152174693
 f1_keywords:
 - vbawd10.chm152174693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.MarkCitation Method (Word)
+# TablesOfAuthorities.MarkCitation method (Word)
 
 Inserts a TA (Table of Authorities Entry) field and returns the field as a  **Field** object.
 

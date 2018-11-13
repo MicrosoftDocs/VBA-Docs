@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (Word)
+title: TextFrame object (Word)
 keywords: vbawd10.chm2482
 f1_keywords:
 - vbawd10.chm2482
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame Object (Word)
+# TextFrame object (Word)
 
 Represents the text frame in a  **Shape** object. The **TextFrame** object contains the text in the text frame and the properties that control the margins and orientation of the text frame.
 

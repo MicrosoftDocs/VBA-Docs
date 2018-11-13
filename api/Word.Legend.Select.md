@@ -1,5 +1,5 @@
 ---
-title: Legend.Select Method (Word)
+title: Legend.Select method (Word)
 keywords: vbawd10.chm147194091
 f1_keywords:
 - vbawd10.chm147194091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Select Method (Word)
+# Legend.Select method (Word)
 
 Selects the object.
 

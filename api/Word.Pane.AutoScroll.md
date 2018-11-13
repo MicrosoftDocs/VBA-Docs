@@ -1,5 +1,5 @@
 ---
-title: Pane.AutoScroll Method (Word)
+title: Pane.AutoScroll method (Word)
 keywords: vbawd10.chm157286504
 f1_keywords:
 - vbawd10.chm157286504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.AutoScroll Method (Word)
+# Pane.AutoScroll method (Word)
 
 Scrolls automatically through the specified pane.
 

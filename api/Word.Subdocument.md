@@ -1,5 +1,5 @@
 ---
-title: Subdocument Object (Word)
+title: Subdocument object (Word)
 keywords: vbawd10.chm2441
 f1_keywords:
 - vbawd10.chm2441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument Object (Word)
+# Subdocument object (Word)
 
 Represents a subdocument within a document or range. The  **Subdocument** object is a member of the **[Subdocuments](Word.subdocuments.md)** collection. The **Subdocuments** collection includes all the subdocuments in the a range or document.
 

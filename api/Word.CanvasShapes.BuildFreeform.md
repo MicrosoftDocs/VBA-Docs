@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.BuildFreeform Method (Word)
+title: CanvasShapes.BuildFreeform method (Word)
 keywords: vbawd10.chm7536660
 f1_keywords:
 - vbawd10.chm7536660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.BuildFreeform Method (Word)
+# CanvasShapes.BuildFreeform method (Word)
 
 Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md)** object that represents the freeform as it is being built. .
 

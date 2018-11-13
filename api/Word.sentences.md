@@ -1,12 +1,12 @@
 ---
-title: Sentences Object (Word)
+title: Sentences object (Word)
 ms.prod: word
 ms.assetid: bcb9653d-bada-8e51-f47d-58f17dae19fe
 ms.date: 06/08/2017
 ---
 
 
-# Sentences Object (Word)
+# Sentences object (Word)
 
 A collection of  **[Range](Word.Range.md)** objects that represent all the sentences in a selection, range, or document. There is no Sentence object.
 

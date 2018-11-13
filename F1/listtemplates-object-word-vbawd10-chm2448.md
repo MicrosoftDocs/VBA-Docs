@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ListTemplates Object (Word)28ad69ed-7f11-9517-436e-44150a53663a](http://msdn.microsoft.com/library/28ad69ed-7f11-9517-436e-44150a53663a%28Office.15%29.aspx)
+[ListTemplates object (Word)28ad69ed-7f11-9517-436e-44150a53663a](http://msdn.microsoft.com/library/28ad69ed-7f11-9517-436e-44150a53663a%28Office.15%29.aspx)
 
-[ListTemplates Object (Word)](http://msdn.microsoft.com/library/5b5f3ed8-4522-f52e-5ae8-9df26a7da154%28Office.15%29.aspx)
+[ListTemplates object (Word)](http://msdn.microsoft.com/library/5b5f3ed8-4522-f52e-5ae8-9df26a7da154%28Office.15%29.aspx)
 
 

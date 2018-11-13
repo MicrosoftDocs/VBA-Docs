@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (Word)
+title: ShapeRange.Align method (Word)
 keywords: vbawd10.chm162856970
 f1_keywords:
 - vbawd10.chm162856970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Align Method (Word)
+# ShapeRange.Align method (Word)
 
 Aligns the shapes in the specified range of shapes.
 

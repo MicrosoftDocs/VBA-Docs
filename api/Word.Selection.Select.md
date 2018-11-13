@@ -1,5 +1,5 @@
 ---
-title: Selection.Select Method (Word)
+title: Selection.Select method (Word)
 keywords: vbawd10.chm158728191
 f1_keywords:
 - vbawd10.chm158728191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Select Method (Word)
+# Selection.Select method (Word)
 
 Selects the specified text.
 

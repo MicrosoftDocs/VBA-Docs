@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring Object (Word)
+title: CoAuthoring object (Word)
 keywords: vbawd10.chm3889
 f1_keywords:
 - vbawd10.chm3889
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring Object (Word)
+# CoAuthoring object (Word)
 
 Provides the primary entry point to the co authoring object model.
 

@@ -1,5 +1,5 @@
 ---
-title: Footnote.Delete Method (Word)
+title: Footnote.Delete method (Word)
 keywords: vbawd10.chm155123722
 f1_keywords:
 - vbawd10.chm155123722
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote.Delete Method (Word)
+# Footnote.Delete method (Word)
 
 Deletes the specified footnote.
 

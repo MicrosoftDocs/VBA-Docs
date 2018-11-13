@@ -1,5 +1,5 @@
 ---
-title: Selection.CopyFormat Method (Word)
+title: Selection.CopyFormat method (Word)
 keywords: vbawd10.chm158663165
 f1_keywords:
 - vbawd10.chm158663165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.CopyFormat Method (Word)
+# Selection.CopyFormat method (Word)
 
 Copies the character formatting of the first character in the selected text.
 

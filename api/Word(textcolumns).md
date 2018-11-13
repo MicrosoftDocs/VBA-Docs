@@ -1,5 +1,5 @@
 ---
-title: TextColumns Object (Word)
+title: TextColumns object (Word)
 keywords: vbawd10.chm2419
 f1_keywords:
 - vbawd10.chm2419
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns Object (Word)
+# TextColumns object (Word)
 
 A collection of  **TextColumn** objects that represent all the columns of text in a document or a section of a document.
 

@@ -1,12 +1,12 @@
 ---
-title: OtherCorrectionsExceptions Object (Word)
+title: OtherCorrectionsExceptions object (Word)
 ms.prod: word
 ms.assetid: f72135be-9a82-2c45-1835-8cabb18869de
 ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsExceptions Object (Word)
+# OtherCorrectionsExceptions object (Word)
 
 A collection of  **OtherCorrectionsException** objects that represents the list of words that Microsoft Word won't correct automatically.
 

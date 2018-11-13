@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyLayout Method (Word)
+title: Chart.ApplyLayout method (Word)
 keywords: vbawd10.chm79366564
 f1_keywords:
 - vbawd10.chm79366564
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyLayout Method (Word)
+# Chart.ApplyLayout method (Word)
 
 Applies the layouts shown in the ribbon.
 

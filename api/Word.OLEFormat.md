@@ -1,5 +1,5 @@
 ---
-title: OLEFormat Object (Word)
+title: OLEFormat object (Word)
 keywords: vbawd10.chm2355
 f1_keywords:
 - vbawd10.chm2355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat Object (Word)
+# OLEFormat object (Word)
 
 Represents the OLE characteristics (other than linking) for an OLE object, ActiveX control, or field.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Delete Method (Word)
+title: ShapeRange.Delete method (Word)
 keywords: vbawd10.chm162856972
 f1_keywords:
 - vbawd10.chm162856972
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Delete Method (Word)
+# ShapeRange.Delete method (Word)
 
 Deletes the specified range of shapes.
 

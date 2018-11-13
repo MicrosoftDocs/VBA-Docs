@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry Object (Word)
+title: EmailSignatureEntry object (Word)
 keywords: vbawd10.chm2534
 f1_keywords:
 - vbawd10.chm2534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry Object (Word)
+# EmailSignatureEntry object (Word)
 
 Represents a single e-mail signature entry. The  **EmailSignatureEntry** object is a member of the **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** collection. The **EmailSignatureEntries** collection contains all the e-mail signature entries available to Word.
 

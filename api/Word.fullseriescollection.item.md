@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Item Method (Word)
+title: FullSeriesCollection.Item method (Word)
 keywords: vbawd10.chm73990144
 f1_keywords:
 - vbawd10.chm73990144
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Item Method (Word)
+# FullSeriesCollection.Item method (Word)
 
 Returns an individual full series item from the collection.
 

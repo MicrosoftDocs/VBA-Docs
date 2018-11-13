@@ -1,5 +1,5 @@
 ---
-title: Version Object (Word)
+title: Version object (Word)
 keywords: vbawd10.chm2484
 f1_keywords:
 - vbawd10.chm2484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version Object (Word)
+# Version object (Word)
 
 Represents a single version of a document. The  **Version** object is a member of the **Versions** collection. The **Versions** collection includes all the versions of the specified document.
 

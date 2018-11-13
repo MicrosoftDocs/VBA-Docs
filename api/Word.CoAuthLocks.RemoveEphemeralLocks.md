@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks.RemoveEphemeralLocks Method (Word)
+title: CoAuthLocks.RemoveEphemeralLocks method (Word)
 keywords: vbawd10.chm180486147
 f1_keywords:
 - vbawd10.chm180486147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLocks.RemoveEphemeralLocks Method (Word)
+# CoAuthLocks.RemoveEphemeralLocks method (Word)
 
 Removes ephemeral locks from the document.
 

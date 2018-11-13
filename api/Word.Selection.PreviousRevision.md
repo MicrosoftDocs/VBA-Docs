@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousRevision Method (Word)
+title: Selection.PreviousRevision method (Word)
 keywords: vbawd10.chm158663188
 f1_keywords:
 - vbawd10.chm158663188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PreviousRevision Method (Word)
+# Selection.PreviousRevision method (Word)
 
 Locates and returns the previous tracked change as a  **Revision** object.
 

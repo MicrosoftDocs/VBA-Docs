@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.OpenUp Method (Word)
+title: ParagraphFormat.OpenUp method (Word)
 keywords: vbawd10.chm156434734
 f1_keywords:
 - vbawd10.chm156434734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.OpenUp Method (Word)
+# ParagraphFormat.OpenUp method (Word)
 
 Sets spacing before the specified paragraphs to 12 points.
 

@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdate Object (Word)
+title: CoAuthUpdate object (Word)
 ms.prod: word
 api_name:
 - Word.CoAuthUpdate
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdate Object (Word)
+# CoAuthUpdate object (Word)
 
 Represents a range of text that has been updated by a co author.
 

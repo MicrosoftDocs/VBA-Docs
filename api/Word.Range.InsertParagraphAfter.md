@@ -1,5 +1,5 @@
 ---
-title: Range.InsertParagraphAfter Method (Word)
+title: Range.InsertParagraphAfter method (Word)
 keywords: vbawd10.chm157155489
 f1_keywords:
 - vbawd10.chm157155489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertParagraphAfter Method (Word)
+# Range.InsertParagraphAfter method (Word)
 
 Inserts a paragraph mark after a range.
 

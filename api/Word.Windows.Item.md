@@ -1,5 +1,5 @@
 ---
-title: Windows.Item Method (Word)
+title: Windows.Item method (Word)
 keywords: vbawd10.chm157351936
 f1_keywords:
 - vbawd10.chm157351936
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Item Method (Word)
+# Windows.Item method (Word)
 
 Returns an individual  **Window** object in a collection.
 

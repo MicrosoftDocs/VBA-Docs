@@ -1,5 +1,5 @@
 ---
-title: TickLabels Object (Word)
+title: TickLabels object (Word)
 keywords: vbawd10.chm2549
 f1_keywords:
 - vbawd10.chm2549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels Object (Word)
+# TickLabels object (Word)
 
 Represents the tick-mark labels associated with tick marks on a chart axis.
 

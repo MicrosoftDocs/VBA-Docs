@@ -1,5 +1,5 @@
 ---
-title: Sources Object (Word)
+title: Sources object (Word)
 ms.prod: word
 api_name:
 - Word.Sources
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sources Object (Word)
+# Sources object (Word)
 
 Represents a collection of  **Source** objects.
 

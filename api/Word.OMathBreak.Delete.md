@@ -1,5 +1,5 @@
 ---
-title: OMathBreak.Delete Method (Word)
+title: OMathBreak.Delete method (Word)
 keywords: vbawd10.chm97845354
 f1_keywords:
 - vbawd10.chm97845354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak.Delete Method (Word)
+# OMathBreak.Delete method (Word)
 
 Deletes the specified equation break.
 

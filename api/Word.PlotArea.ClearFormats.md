@@ -1,5 +1,5 @@
 ---
-title: PlotArea.ClearFormats Method (Word)
+title: PlotArea.ClearFormats method (Word)
 keywords: vbawd10.chm53477488
 f1_keywords:
 - vbawd10.chm53477488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.ClearFormats Method (Word)
+# PlotArea.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

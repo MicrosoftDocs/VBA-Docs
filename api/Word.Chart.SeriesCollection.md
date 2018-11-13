@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesCollection Method (Word)
+title: Chart.SeriesCollection method (Word)
 ms.prod: word
 api_name:
 - Word.Chart.SeriesCollection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SeriesCollection Method (Word)
+# Chart.SeriesCollection method (Word)
 
 Returns all the series in the chart.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMessage.Reply Method (Word)
+title: MailMessage.Reply method (Word)
 keywords: vbawd10.chm163184982
 f1_keywords:
 - vbawd10.chm163184982
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.Reply Method (Word)
+# MailMessage.Reply method (Word)
 
 Opens a new e-mail message — with the sender's address on the  **To** line — for replying to the active message.
 

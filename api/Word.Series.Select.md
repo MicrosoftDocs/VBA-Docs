@@ -1,5 +1,5 @@
 ---
-title: Series.Select Method (Word)
+title: Series.Select method (Word)
 keywords: vbawd10.chm123732203
 f1_keywords:
 - vbawd10.chm123732203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Select Method (Word)
+# Series.Select method (Word)
 
 Selects the object.
 

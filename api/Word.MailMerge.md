@@ -1,5 +1,5 @@
 ---
-title: MailMerge Object (Word)
+title: MailMerge object (Word)
 keywords: vbawd10.chm2336
 f1_keywords:
 - vbawd10.chm2336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge Object (Word)
+# MailMerge object (Word)
 
 Represents the mail merge functionality in Word.
 

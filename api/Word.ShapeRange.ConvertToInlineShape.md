@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConvertToInlineShape Method (Word)
+title: ShapeRange.ConvertToInlineShape method (Word)
 keywords: vbawd10.chm162856990
 f1_keywords:
 - vbawd10.chm162856990
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ConvertToInlineShape Method (Word)
+# ShapeRange.ConvertToInlineShape method (Word)
 
 Converts the specified shape in the drawing layer of a document to an inline shape in the text layer. You can convert only shapes that represent pictures, OLE objects, or ActiveX controls. .
 

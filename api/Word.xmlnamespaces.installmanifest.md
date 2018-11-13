@@ -1,5 +1,5 @@
 ---
-title: XMLNamespaces.InstallManifest Method (Word)
+title: XMLNamespaces.InstallManifest method (Word)
 keywords: vbawd10.chm248971366
 f1_keywords:
 - vbawd10.chm248971366
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespaces.InstallManifest Method (Word)
+# XMLNamespaces.InstallManifest method (Word)
 
 Installs the specified XML expansion pack on the user's computer, making an XML smart document solution available to one or more users.
 

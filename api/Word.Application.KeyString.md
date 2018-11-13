@@ -1,5 +1,5 @@
 ---
-title: Application.KeyString Method (Word)
+title: Application.KeyString method (Word)
 keywords: vbawd10.chm158335293
 f1_keywords:
 - vbawd10.chm158335293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.KeyString Method (Word)
+# Application.KeyString method (Word)
 
 Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A).
 

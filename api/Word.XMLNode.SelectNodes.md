@@ -1,5 +1,5 @@
 ---
-title: XMLNode.SelectNodes Method (Word)
+title: XMLNode.SelectNodes method (Word)
 keywords: vbawd10.chm37748755
 f1_keywords:
 - vbawd10.chm37748755
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.SelectNodes Method (Word)
+# XMLNode.SelectNodes method (Word)
 
 Returns an  **[XMLNodes](Word.XMLNodes.md)** collection that represents all the child elements that match the XPath parameter, in the order in which they appear within the specified XML element.
 

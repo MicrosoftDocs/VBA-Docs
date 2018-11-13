@@ -1,5 +1,5 @@
 ---
-title: Document.ReplyWithChanges Method (Word)
+title: Document.ReplyWithChanges method (Word)
 keywords: vbawd10.chm158007650
 f1_keywords:
 - vbawd10.chm158007650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReplyWithChanges Method (Word)
+# Document.ReplyWithChanges method (Word)
 
 Sends an e-mail message to the author of a document that has been sent out for review, notifying them that a reviewer has completed review of the document.
 

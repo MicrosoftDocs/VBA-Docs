@@ -1,5 +1,5 @@
 ---
-title: Document.CheckConsistency Method (Word)
+title: Document.CheckConsistency method (Word)
 keywords: vbawd10.chm158007555
 f1_keywords:
 - vbawd10.chm158007555
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CheckConsistency Method (Word)
+# Document.CheckConsistency method (Word)
 
 Searches all text in a Japanese language document and displays instances where character usage is inconsistent for the same words.
 

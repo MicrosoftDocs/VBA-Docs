@@ -1,5 +1,5 @@
 ---
-title: Comments.Add Method (Word)
+title: Comments.Add method (Word)
 keywords: vbawd10.chm155189252
 f1_keywords:
 - vbawd10.chm155189252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Add Method (Word)
+# Comments.Add method (Word)
 
 Returns a  **Comment** object that represents a comment added to a range.
 

@@ -1,5 +1,5 @@
 ---
-title: StoryRanges Object (Word)
+title: StoryRanges object (Word)
 keywords: vbawd10.chm2444
 f1_keywords:
 - vbawd10.chm2444
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StoryRanges Object (Word)
+# StoryRanges object (Word)
 
 A collection of  **Range** objects that represent stories in a document.
 

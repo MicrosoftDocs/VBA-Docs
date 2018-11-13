@@ -1,5 +1,5 @@
 ---
-title: Axes.Item Method (Word)
+title: Axes.Item method (Word)
 ms.prod: word
 api_name:
 - Word.Axes.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Item Method (Word)
+# Axes.Item method (Word)
 
 Returns a single  **[Axis](Word.Axis.md)** object from an **Axes** collection.
 

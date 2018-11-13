@@ -1,5 +1,5 @@
 ---
-title: Range.ConvertToTable Method (Word)
+title: Range.ConvertToTable method (Word)
 keywords: vbawd10.chm157155826
 f1_keywords:
 - vbawd10.chm157155826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ConvertToTable Method (Word)
+# Range.ConvertToTable method (Word)
 
 Converts text within a range to a table. Returns the table as a  **Table** object.
 

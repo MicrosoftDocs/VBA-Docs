@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock Object (Word)
+title: CoAuthLock object (Word)
 keywords: vbawd10.chm3968
 f1_keywords:
 - vbawd10.chm3968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock Object (Word)
+# CoAuthLock object (Word)
 
 Represents a lock within the document. The  **CoAuthLock** object is a member of the **[CoAuthLocks](Word.CoAuthLocks.md)** collection.
 

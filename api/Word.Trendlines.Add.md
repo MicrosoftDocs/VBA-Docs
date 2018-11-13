@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Add Method (Word)
+title: Trendlines.Add method (Word)
 keywords: vbawd10.chm102367413
 f1_keywords:
 - vbawd10.chm102367413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Add Method (Word)
+# Trendlines.Add method (Word)
 
 Creates a new trendline.
 

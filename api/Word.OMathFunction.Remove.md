@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Remove Method (Word)
+title: OMathFunction.Remove method (Word)
 keywords: vbawd10.chm22151369
 f1_keywords:
 - vbawd10.chm22151369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Remove Method (Word)
+# OMathFunction.Remove method (Word)
 
 Removes a function from the collection of functions contained within an equation and returns an  **OMathFunction** object.
 

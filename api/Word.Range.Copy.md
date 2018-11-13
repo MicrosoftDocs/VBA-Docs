@@ -1,5 +1,5 @@
 ---
-title: Range.Copy Method (Word)
+title: Range.Copy method (Word)
 keywords: vbawd10.chm157155448
 f1_keywords:
 - vbawd10.chm157155448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Copy Method (Word)
+# Range.Copy method (Word)
 
 Copies the specified range to the Clipboard.
 

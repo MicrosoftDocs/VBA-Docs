@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetX Method (Word)
+title: ShadowFormat.IncrementOffsetX method (Word)
 keywords: vbawd10.chm164364298
 f1_keywords:
 - vbawd10.chm164364298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.IncrementOffsetX Method (Word)
+# ShadowFormat.IncrementOffsetX method (Word)
 
 Changes the horizontal offset of the shadow by the specified number of points.
 

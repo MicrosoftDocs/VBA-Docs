@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Pause Method (Word)
+title: Broadcast.Pause method (Word)
 keywords: vbawd10.chm36438118
 f1_keywords:
 - vbawd10.chm36438118
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.Pause Method (Word)
+# Broadcast.Pause method (Word)
 
 Pauses the specified broadcast.
 

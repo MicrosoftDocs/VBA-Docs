@@ -1,5 +1,5 @@
 ---
-title: Window.LargeScroll Method (Word)
+title: Window.LargeScroll method (Word)
 keywords: vbawd10.chm157417575
 f1_keywords:
 - vbawd10.chm157417575
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.LargeScroll Method (Word)
+# Window.LargeScroll method (Word)
 
 Scrolls a window or pane by the specified number of screens.
 

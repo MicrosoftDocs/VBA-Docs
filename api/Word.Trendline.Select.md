@@ -1,5 +1,5 @@
 ---
-title: Trendline.Select Method (Word)
+title: Trendline.Select method (Word)
 keywords: vbawd10.chm26345707
 f1_keywords:
 - vbawd10.chm26345707
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Select Method (Word)
+# Trendline.Select method (Word)
 
 Selects the object.
 

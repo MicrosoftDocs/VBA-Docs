@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry.Delete Method (Word)
+title: EmailSignatureEntry.Delete method (Word)
 keywords: vbawd10.chm166068325
 f1_keywords:
 - vbawd10.chm166068325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry.Delete Method (Word)
+# EmailSignatureEntry.Delete method (Word)
 
 Deletes the specified email signature.
 

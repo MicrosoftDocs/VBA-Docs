@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddNext Method (Word)
+title: MailMergeFields.AddNext method (Word)
 keywords: vbawd10.chm153026667
 f1_keywords:
 - vbawd10.chm153026667
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddNext Method (Word)
+# MailMergeFields.AddNext method (Word)
 
 Adds a NEXT field to a mail merge main document. Returns a  **MailMergeField** object.
 

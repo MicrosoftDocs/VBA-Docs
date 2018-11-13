@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.NewSeries Method (Word)
+title: SeriesCollection.NewSeries method (Word)
 keywords: vbawd10.chm150406237
 f1_keywords:
 - vbawd10.chm150406237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.NewSeries Method (Word)
+# SeriesCollection.NewSeries method (Word)
 
 Creates a new series.
 

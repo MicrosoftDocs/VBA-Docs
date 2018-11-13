@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddConnector Method (Word)
+title: CanvasShapes.AddConnector method (Word)
 keywords: vbawd10.chm7536651
 f1_keywords:
 - vbawd10.chm7536651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddConnector Method (Word)
+# CanvasShapes.AddConnector method (Word)
 
 Returns a  **[Shape](Word.Shape.md)** object that represents a connecting line between two shapes in a drawing canvas.
 

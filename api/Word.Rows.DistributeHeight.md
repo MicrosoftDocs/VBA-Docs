@@ -1,5 +1,5 @@
 ---
-title: Rows.DistributeHeight Method (Word)
+title: Rows.DistributeHeight method (Word)
 keywords: vbawd10.chm155975886
 f1_keywords:
 - vbawd10.chm155975886
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.DistributeHeight Method (Word)
+# Rows.DistributeHeight method (Word)
 
 Adjusts the height of the specified rows or cells so that they're equal.
 

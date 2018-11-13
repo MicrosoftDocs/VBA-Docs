@@ -1,5 +1,5 @@
 ---
-title: Selection.InStory Method (Word)
+title: Selection.InStory method (Word)
 keywords: vbawd10.chm158662781
 f1_keywords:
 - vbawd10.chm158662781
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InStory Method (Word)
+# Selection.InStory method (Word)
 
  **True** if the selection to which this method is applied is in the same story as the range specified by the Range argument.
 

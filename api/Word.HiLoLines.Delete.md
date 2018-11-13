@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Delete Method (Word)
+title: HiLoLines.Delete method (Word)
 keywords: vbawd10.chm235995140
 f1_keywords:
 - vbawd10.chm235995140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Delete Method (Word)
+# HiLoLines.Delete method (Word)
 
 Deletes the object.
 

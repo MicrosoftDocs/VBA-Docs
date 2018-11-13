@@ -1,5 +1,5 @@
 ---
-title: Range.StartOf Method (Word)
+title: Range.StartOf method (Word)
 keywords: vbawd10.chm157155435
 f1_keywords:
 - vbawd10.chm157155435
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.StartOf Method (Word)
+# Range.StartOf method (Word)
 
 Moves or extends the start position of the specified range or selection to the beginning of the nearest specified text unit. This method returns a  **Long** that indicates the number of characters by which the range or selection was moved or extended. The method returns a negative number if the movement is backward through the document.
 

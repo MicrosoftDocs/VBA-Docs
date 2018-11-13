@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Execute Method (Word)
+title: MailMerge.Execute method (Word)
 keywords: vbawd10.chm153092201
 f1_keywords:
 - vbawd10.chm153092201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.Execute Method (Word)
+# MailMerge.Execute method (Word)
 
 Performs the specified mail merge operation.
 

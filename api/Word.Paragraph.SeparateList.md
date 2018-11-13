@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SeparateList Method (Word)
+title: Paragraph.SeparateList method (Word)
 keywords: vbawd10.chm156696914
 f1_keywords:
 - vbawd10.chm156696914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.SeparateList Method (Word)
+# Paragraph.SeparateList method (Word)
 
 Separates a list into two separate lists. For numbered lists, the new list restarts numbering at the starting number, usually 1.
 

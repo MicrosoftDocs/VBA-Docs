@@ -1,5 +1,5 @@
 ---
-title: Template.OpenAsDocument Method (Word)
+title: Template.OpenAsDocument method (Word)
 keywords: vbawd10.chm157941860
 f1_keywords:
 - vbawd10.chm157941860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.OpenAsDocument Method (Word)
+# Template.OpenAsDocument method (Word)
 
 Opens the specified template as a document and returns a  **Document** object.
 

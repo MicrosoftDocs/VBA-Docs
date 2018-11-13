@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteSpecial Method (Word)
+title: Selection.PasteSpecial method (Word)
 keywords: vbawd10.chm158662832
 f1_keywords:
 - vbawd10.chm158662832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PasteSpecial Method (Word)
+# Selection.PasteSpecial method (Word)
 
 Inserts the contents of the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAllCommentsShown Method (Word)
+title: Document.DeleteAllCommentsShown method (Word)
 keywords: vbawd10.chm158007670
 f1_keywords:
 - vbawd10.chm158007670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DeleteAllCommentsShown Method (Word)
+# Document.DeleteAllCommentsShown method (Word)
 
 Deletes all revisions in a specified document that are displayed on the screen.
 

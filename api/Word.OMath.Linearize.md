@@ -1,5 +1,5 @@
 ---
-title: OMath.Linearize Method (Word)
+title: OMath.Linearize method (Word)
 keywords: vbawd10.chm176357576
 f1_keywords:
 - vbawd10.chm176357576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Linearize Method (Word)
+# OMath.Linearize method (Word)
 
 Converts an equation to linear format.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertXML Method (Word)
+title: Selection.InsertXML method (Word)
 keywords: vbawd10.chm158663684
 f1_keywords:
 - vbawd10.chm158663684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertXML Method (Word)
+# Selection.InsertXML method (Word)
 
 Inserts the specified XML into the document at the cursor, replacing any selected text.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.InStory Method (Word)
+title: Range.InStory method (Word)
 keywords: vbawd10.chm157155453
 f1_keywords:
 - vbawd10.chm157155453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InStory Method (Word)
+# Range.InStory method (Word)
 
  **True** if the range to which this method is applied is in the same story as the range specified by the Range argument.
 

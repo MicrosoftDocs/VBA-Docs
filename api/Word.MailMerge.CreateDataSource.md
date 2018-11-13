@@ -1,5 +1,5 @@
 ---
-title: MailMerge.CreateDataSource Method (Word)
+title: MailMerge.CreateDataSource method (Word)
 keywords: vbawd10.chm153092197
 f1_keywords:
 - vbawd10.chm153092197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.CreateDataSource Method (Word)
+# MailMerge.CreateDataSource method (Word)
 
 Creates a Microsoft Word document that uses a table to store data for a mail merge.
 

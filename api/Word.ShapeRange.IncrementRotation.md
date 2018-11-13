@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementRotation Method (Word)
+title: ShapeRange.IncrementRotation method (Word)
 keywords: vbawd10.chm162856977
 f1_keywords:
 - vbawd10.chm162856977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.IncrementRotation Method (Word)
+# ShapeRange.IncrementRotation method (Word)
 
 Changes the rotation of the specified shape around the z-axis by the specified number of degrees. .
 

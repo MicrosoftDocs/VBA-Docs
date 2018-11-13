@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.HTMLDivisionParent Method (Word)
+title: HTMLDivision.HTMLDivisionParent method (Word)
 keywords: vbawd10.chm166133768
 f1_keywords:
 - vbawd10.chm166133768
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.HTMLDivisionParent Method (Word)
+# HTMLDivision.HTMLDivisionParent method (Word)
 
 Returns an  **HTMLDivision** object that represents a parent division of the current HTML division.
 

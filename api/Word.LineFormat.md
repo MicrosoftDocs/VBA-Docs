@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (Word)
+title: LineFormat object (Word)
 keywords: vbawd10.chm2506
 f1_keywords:
 - vbawd10.chm2506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat Object (Word)
+# LineFormat object (Word)
 
 Represents line and arrowhead formatting. For a line, the  **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
 

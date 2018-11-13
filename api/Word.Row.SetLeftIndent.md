@@ -1,5 +1,5 @@
 ---
-title: Row.SetLeftIndent Method (Word)
+title: Row.SetLeftIndent method (Word)
 keywords: vbawd10.chm156238026
 f1_keywords:
 - vbawd10.chm156238026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.SetLeftIndent Method (Word)
+# Row.SetLeftIndent method (Word)
 
 Sets the indentation for a row in a table.
 

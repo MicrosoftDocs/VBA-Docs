@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItem Object (Word)
+title: RepeatingSectionItem object (Word)
 keywords: vbawd10.chm3479
 f1_keywords:
 - vbawd10.chm3479
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItem Object (Word)
+# RepeatingSectionItem object (Word)
 
 Represents a repeating section item in a content control.
 

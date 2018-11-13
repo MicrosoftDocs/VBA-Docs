@@ -1,5 +1,5 @@
 ---
-title: FormField Object (Word)
+title: FormField object (Word)
 keywords: vbawd10.chm2344
 f1_keywords:
 - vbawd10.chm2344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField Object (Word)
+# FormField object (Word)
 
 Represents a single form field. The  **FormField** object is a member of the **FormFields** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertFormula Method (Word)
+title: Selection.InsertFormula method (Word)
 keywords: vbawd10.chm158663186
 f1_keywords:
 - vbawd10.chm158663186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertFormula Method (Word)
+# Selection.InsertFormula method (Word)
 
 Inserts an = (Formula) field that contains a formula at the selection.
 

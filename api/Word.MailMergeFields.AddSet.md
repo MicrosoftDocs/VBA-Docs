@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddSet Method (Word)
+title: MailMergeFields.AddSet method (Word)
 keywords: vbawd10.chm153026669
 f1_keywords:
 - vbawd10.chm153026669
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddSet Method (Word)
+# MailMergeFields.AddSet method (Word)
 
 Adds a SET field to a mail merge main document. Returns a  **MailMergeField** object.
 

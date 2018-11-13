@@ -1,5 +1,5 @@
 ---
-title: Reviewers Object (Word)
+title: Reviewers object (Word)
 keywords: vbawd10.chm3226
 f1_keywords:
 - vbawd10.chm3226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewers Object (Word)
+# Reviewers object (Word)
 
 A collection of  **[Reviewer](Word.Reviewer.md)** objects that represents the reviewers of one or more documents. The **Reviewers** collection contains the names of all reviewers who have reviewed documents opened or edited on a computer.
 

@@ -1,5 +1,5 @@
 ---
-title: FormField.Delete Method (Word)
+title: FormField.Delete method (Word)
 keywords: vbawd10.chm153616487
 f1_keywords:
 - vbawd10.chm153616487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Delete Method (Word)
+# FormField.Delete method (Word)
 
 Deletes the specified form field.
 

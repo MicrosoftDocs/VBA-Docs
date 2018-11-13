@@ -1,12 +1,12 @@
 ---
-title: MailMergeFields Object (Word)
+title: MailMergeFields object (Word)
 ms.prod: word
 ms.assetid: 9d2dfd45-c52b-500e-15bf-1e678e6c1e92
 ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields Object (Word)
+# MailMergeFields object (Word)
 
 A collection of  **[MailMergeField](Word.MailMergeField.md)** objects that represent the mail merge related fields in a document.
 

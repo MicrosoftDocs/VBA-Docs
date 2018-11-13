@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.ToggleRibbon Method (Word)
+title: ProtectedViewWindow.ToggleRibbon method (Word)
 keywords: vbawd10.chm231735399
 f1_keywords:
 - vbawd10.chm231735399
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.ToggleRibbon Method (Word)
+# ProtectedViewWindow.ToggleRibbon method (Word)
 
 Shows or hides the ribbon.
 

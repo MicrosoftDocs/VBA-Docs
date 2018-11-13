@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException.Delete Method (Word)
+title: HangulAndAlphabetException.Delete method (Word)
 keywords: vbawd10.chm164757605
 f1_keywords:
 - vbawd10.chm164757605
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetException.Delete Method (Word)
+# HangulAndAlphabetException.Delete method (Word)
 
 Deletes the specified exception.
 

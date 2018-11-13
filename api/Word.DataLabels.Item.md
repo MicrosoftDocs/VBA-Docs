@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Item Method (Word)
+title: DataLabels.Item method (Word)
 keywords: vbawd10.chm207486976
 f1_keywords:
 - vbawd10.chm207486976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Item Method (Word)
+# DataLabels.Item method (Word)
 
 Returns a single object from a collection.
 

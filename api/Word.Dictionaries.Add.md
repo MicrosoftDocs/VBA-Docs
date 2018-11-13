@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Add Method (Word)
+title: Dictionaries.Add method (Word)
 keywords: vbawd10.chm162267237
 f1_keywords:
 - vbawd10.chm162267237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.Add Method (Word)
+# Dictionaries.Add method (Word)
 
 Returns a  **Dictionary** object that represents a new custom spelling or conversion dictionary added to the collection of active custom spelling or conversion dictionaries.
 

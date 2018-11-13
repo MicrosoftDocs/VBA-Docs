@@ -1,5 +1,5 @@
 ---
-title: Range.PasteAsNestedTable Method (Word)
+title: Range.PasteAsNestedTable method (Word)
 keywords: vbawd10.chm157155550
 f1_keywords:
 - vbawd10.chm157155550
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteAsNestedTable Method (Word)
+# Range.PasteAsNestedTable method (Word)
 
 Pastes a cell or group of cells as a nested table into the selected range.
 

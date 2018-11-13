@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsException.Delete Method (Word)
+title: TwoInitialCapsException.Delete method (Word)
 keywords: vbawd10.chm155385957
 f1_keywords:
 - vbawd10.chm155385957
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsException.Delete Method (Word)
+# TwoInitialCapsException.Delete method (Word)
 
 Deletes the specified two initial-capital exception from the collection of AutoCorrect exceptions.
 

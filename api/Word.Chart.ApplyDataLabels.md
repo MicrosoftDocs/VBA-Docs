@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (Word)
+title: Chart.ApplyDataLabels method (Word)
 keywords: vbawd10.chm79366018
 f1_keywords:
 - vbawd10.chm79366018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyDataLabels Method (Word)
+# Chart.ApplyDataLabels method (Word)
 
 Applies data labels to all the series in a chart.
 

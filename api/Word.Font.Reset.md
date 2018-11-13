@@ -1,5 +1,5 @@
 ---
-title: Font.Reset Method (Word)
+title: Font.Reset method (Word)
 keywords: vbawd10.chm156368998
 f1_keywords:
 - vbawd10.chm156368998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Reset Method (Word)
+# Font.Reset method (Word)
 
 Removes manual character formatting (formatting not applied using a style). For example, if you manually format a word as bold and the underlying style is plain text (not bold), the  **Reset** method removes the bold format.
 

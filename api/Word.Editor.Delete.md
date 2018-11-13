@@ -1,5 +1,5 @@
 ---
-title: Editor.Delete Method (Word)
+title: Editor.Delete method (Word)
 keywords: vbawd10.chm225575412
 f1_keywords:
 - vbawd10.chm225575412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.Delete Method (Word)
+# Editor.Delete method (Word)
 
 Deletes the specified  **Editor** object.
 

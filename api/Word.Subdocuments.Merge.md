@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Merge Method (Word)
+title: Subdocuments.Merge method (Word)
 keywords: vbawd10.chm159907942
 f1_keywords:
 - vbawd10.chm159907942
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Merge Method (Word)
+# Subdocuments.Merge method (Word)
 
 Merges the specified subdocuments of a master document into a single subdocument.
 

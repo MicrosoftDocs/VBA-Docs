@@ -1,5 +1,5 @@
 ---
-title: Indexes.Add Method (Word)
+title: Indexes.Add method (Word)
 keywords: vbawd10.chm159121512
 f1_keywords:
 - vbawd10.chm159121512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.Add Method (Word)
+# Indexes.Add method (Word)
 
 Returns an  **Index** object that represents a new index added to a document.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.SetCheckedSymbol Method (Word)
+title: ContentControl.SetCheckedSymbol method (Word)
 keywords: vbawd10.chm266534941
 f1_keywords:
 - vbawd10.chm266534941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.SetCheckedSymbol Method (Word)
+# ContentControl.SetCheckedSymbol method (Word)
 
 Sets the symbol used to represent the checked state of a check box content control.
 

@@ -1,5 +1,5 @@
 ---
-title: StyleSheets.Add Method (Word)
+title: StyleSheets.Add method (Word)
 keywords: vbawd10.chm209584130
 f1_keywords:
 - vbawd10.chm209584130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheets.Add Method (Word)
+# StyleSheets.Add method (Word)
 
 Returns a  **StyleSheet** object that represents a new style sheet added to a Web document.
 

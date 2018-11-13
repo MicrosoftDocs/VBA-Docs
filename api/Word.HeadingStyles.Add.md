@@ -1,5 +1,5 @@
 ---
-title: HeadingStyles.Add Method (Word)
+title: HeadingStyles.Add method (Word)
 keywords: vbawd10.chm160039012
 f1_keywords:
 - vbawd10.chm160039012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles.Add Method (Word)
+# HeadingStyles.Add method (Word)
 
 Returns a  **HeadingStyle** object that represents a new heading style added to a document. The new heading style will be included whenever you compile a table of contents or table of figures.
 

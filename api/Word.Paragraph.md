@@ -1,5 +1,5 @@
 ---
-title: Paragraph Object (Word)
+title: Paragraph object (Word)
 keywords: vbawd10.chm2391
 f1_keywords:
 - vbawd10.chm2391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph Object (Word)
+# Paragraph object (Word)
 
 Represents a single paragraph in a selection, range, or document. The  **Paragraph** object is a member of the **[Paragraphs](Word.paragraphs.md)** collection. The **Paragraphs** collection includes all the paragraphs in a selection, range, or document.
 

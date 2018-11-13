@@ -341,7 +341,7 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[ChartGroup.BinsUnderflowEnabled property (Word)](../../api/Word.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [BinsUnderflowValue](../../api/Word.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.|
 |**[ChartGroup.BinsUnderflowValue property (Word)](../../api/Word.chartgroup.binsunderflowvalue.md)**|If an [BinsUnderflowEnabled](../../api/Word.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.|
 |**[ChartGroup.BinWidthValue property (Word)](../../api/Word.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write  **Double**.|
-|**[CoAuthUpdates Object (Word)](../../api/Word.coauthupdates.md)**|A collection of [CoAuthUpdate](../../api/Word.CoAuthUpdate.md) objects that represent the updates that were merged into the document at the last explicit save.|
+|**[CoAuthUpdates object (Word)](../../api/Word.coauthupdates.md)**|A collection of [CoAuthUpdate](../../api/Word.CoAuthUpdate.md) objects that represent the updates that were merged into the document at the last explicit save.|
 |**[Options.UseLocalUserInfo property (Word)](../../api/Word.options.uselocaluserinfo.md)**||
 |**[Point.IsTotal property (Word)](../../api/Word.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
 |**[Series.ParentDataLabelOption property (Word)](../../api/Word.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](../../api/Word.xlparentdatalabeloptions.md).|

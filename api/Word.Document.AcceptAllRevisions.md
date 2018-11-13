@@ -1,5 +1,5 @@
 ---
-title: Document.AcceptAllRevisions Method (Word)
+title: Document.AcceptAllRevisions method (Word)
 keywords: vbawd10.chm158007613
 f1_keywords:
 - vbawd10.chm158007613
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AcceptAllRevisions Method (Word)
+# Document.AcceptAllRevisions method (Word)
 
 Accepts all tracked changes in the specified document.
 

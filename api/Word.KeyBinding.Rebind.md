@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Rebind Method (Word)
+title: KeyBinding.Rebind method (Word)
 keywords: vbawd10.chm160956520
 f1_keywords:
 - vbawd10.chm160956520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Rebind Method (Word)
+# KeyBinding.Rebind method (Word)
 
 Changes the command assigned to the specified key binding.
 

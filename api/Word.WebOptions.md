@@ -1,5 +1,5 @@
 ---
-title: WebOptions Object (Word)
+title: WebOptions object (Word)
 keywords: vbawd10.chm2532
 f1_keywords:
 - vbawd10.chm2532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions Object (Word)
+# WebOptions object (Word)
 
 Contains document-level attributes used by Microsoft Word when you save a document as a Web page or open a Web page.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (Word)
+title: Chart.GetChartElement method (Word)
 keywords: vbawd10.chm79365505
 f1_keywords:
 - vbawd10.chm79365505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.GetChartElement Method (Word)
+# Chart.GetChartElement method (Word)
 
 Returns information about the chart element at the specified x-coordinate and y-coordinate. 
 

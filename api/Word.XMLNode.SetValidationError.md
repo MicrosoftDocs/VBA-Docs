@@ -1,5 +1,5 @@
 ---
-title: XMLNode.SetValidationError Method (Word)
+title: XMLNode.SetValidationError method (Word)
 keywords: vbawd10.chm37748841
 f1_keywords:
 - vbawd10.chm37748841
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.SetValidationError Method (Word)
+# XMLNode.SetValidationError method (Word)
 
 Changes the validation error text displayed to a user for a specified node and forces Word to report a node as invalid.
 

@@ -1,5 +1,5 @@
 ---
-title: Table.Split Method (Word)
+title: Table.Split method (Word)
 keywords: vbawd10.chm156303378
 f1_keywords:
 - vbawd10.chm156303378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Split Method (Word)
+# Table.Split method (Word)
 
 Inserts an empty paragraph immediately above the specified row in the table, and returns a  **Table** object that contains both the specified row and the rows that follow it.
 

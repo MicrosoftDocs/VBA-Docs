@@ -1,5 +1,5 @@
 ---
-title: Templates Object (Word)
+title: Templates object (Word)
 keywords: vbawd10.chm2466
 f1_keywords:
 - vbawd10.chm2466
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Templates Object (Word)
+# Templates object (Word)
 
 A collection of  **[Template](Word.Template.md)** objects that represent all the templates that are currently available. This collection includes open templates, templates attached to open documents, and global templates loaded in the **Templates and Add-ins** dialog box.
 

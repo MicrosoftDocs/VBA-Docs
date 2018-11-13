@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.IncreaseSpacing Method (Word)
+title: Paragraphs.IncreaseSpacing method (Word)
 keywords: vbawd10.chm156762447
 f1_keywords:
 - vbawd10.chm156762447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.IncreaseSpacing Method (Word)
+# Paragraphs.IncreaseSpacing method (Word)
 
 Increases the spacing before and after paragraphs in six-point increments.
 

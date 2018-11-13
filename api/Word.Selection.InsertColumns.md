@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertColumns Method (Word)
+title: Selection.InsertColumns method (Word)
 keywords: vbawd10.chm158663185
 f1_keywords:
 - vbawd10.chm158663185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertColumns Method (Word)
+# Selection.InsertColumns method (Word)
 
 Inserts columns to the left of the column that contains the selection.
 

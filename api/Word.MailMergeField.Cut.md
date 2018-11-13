@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Cut Method (Word)
+title: MailMergeField.Cut method (Word)
 keywords: vbawd10.chm152961130
 f1_keywords:
 - vbawd10.chm152961130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Cut Method (Word)
+# MailMergeField.Cut method (Word)
 
 Removes the specified mail merge field from the document and moves it to the Clipboard.
 

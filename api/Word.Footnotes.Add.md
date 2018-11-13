@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Add Method (Word)
+title: Footnotes.Add method (Word)
 keywords: vbawd10.chm155320324
 f1_keywords:
 - vbawd10.chm155320324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Add Method (Word)
+# Footnotes.Add method (Word)
 
 Returns a  **Footnote** object that represents a footnote added to a range.
 

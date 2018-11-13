@@ -1,5 +1,5 @@
 ---
-title: Axis Object (Word)
+title: Axis object (Word)
 keywords: vbawd10.chm1725
 f1_keywords:
 - vbawd10.chm1725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis Object (Word)
+# Axis object (Word)
 
 Represents a single axis in a chart.
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddHorizontalLine Method (Word)
+title: InlineShapes.AddHorizontalLine method (Word)
 keywords: vbawd10.chm162070632
 f1_keywords:
 - vbawd10.chm162070632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddHorizontalLine Method (Word)
+# InlineShapes.AddHorizontalLine method (Word)
 
 Adds a horizontal line based on an image file to the current document.
 

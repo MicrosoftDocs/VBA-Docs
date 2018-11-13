@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType Object (Word)
+title: BuildingBlockType object (Word)
 keywords: vbawd10.chm2554
 f1_keywords:
 - vbawd10.chm2554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockType Object (Word)
+# BuildingBlockType object (Word)
 
 Represents a type of building block. Each  **BuildingBlockType** object is a member of the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection.
 

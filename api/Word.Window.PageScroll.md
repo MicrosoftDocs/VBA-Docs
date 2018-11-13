@@ -1,5 +1,5 @@
 ---
-title: Window.PageScroll Method (Word)
+title: Window.PageScroll method (Word)
 keywords: vbawd10.chm157417580
 f1_keywords:
 - vbawd10.chm157417580
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.PageScroll Method (Word)
+# Window.PageScroll method (Word)
 
 Scrolls through the specified pane or window page by page.
 

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ConvertNumbersToText Method (Word)
+title: ListFormat.ConvertNumbersToText method (Word)
 keywords: vbawd10.chm163578042
 f1_keywords:
 - vbawd10.chm163578042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ConvertNumbersToText Method (Word)
+# ListFormat.ConvertNumbersToText method (Word)
 
 Changes the list numbers and LISTNUM fields in the specified  **ListFormat** object to text.
 

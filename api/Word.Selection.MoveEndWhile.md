@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEndWhile Method (Word)
+title: Selection.MoveEndWhile method (Word)
 keywords: vbawd10.chm158662770
 f1_keywords:
 - vbawd10.chm158662770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveEndWhile Method (Word)
+# Selection.MoveEndWhile method (Word)
 
 Moves the ending character position of a selection while any of the specified characters are found in the document.
 

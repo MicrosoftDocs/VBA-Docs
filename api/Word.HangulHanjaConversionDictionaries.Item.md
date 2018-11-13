@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.Item Method (Word)
+title: HangulHanjaConversionDictionaries.Item method (Word)
 keywords: vbawd10.chm165675008
 f1_keywords:
 - vbawd10.chm165675008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.Item Method (Word)
+# HangulHanjaConversionDictionaries.Item method (Word)
 
 Returns an individual  **Dictionary** object in a collection.
 

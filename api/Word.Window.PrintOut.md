@@ -1,5 +1,5 @@
 ---
-title: Window.PrintOut Method (Word)
+title: Window.PrintOut method (Word)
 keywords: vbawd10.chm157417917
 f1_keywords:
 - vbawd10.chm157417917
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.PrintOut Method (Word)
+# Window.PrintOut method (Word)
 
 Prints all or part of the document displayed in the specified window.
 

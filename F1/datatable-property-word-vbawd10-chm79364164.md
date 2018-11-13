@@ -15,6 +15,6 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.DataTable property (Word)](http://msdn.microsoft.com/library/1cae3588-5bc4-5ec4-c3f3-cc642d0755a6%28Office.15%29.aspx)
 
-[Chart.SeriesCollection Method (Word)](http://msdn.microsoft.com/library/b9688aef-839a-b45b-1596-d8f02225aa05%28Office.15%29.aspx)
+[Chart.SeriesCollection method (Word)](http://msdn.microsoft.com/library/b9688aef-839a-b45b-1596-d8f02225aa05%28Office.15%29.aspx)
 
 

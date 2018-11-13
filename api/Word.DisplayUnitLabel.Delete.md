@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Delete Method (Word)
+title: DisplayUnitLabel.Delete method (Word)
 keywords: vbawd10.chm94568472
 f1_keywords:
 - vbawd10.chm94568472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Delete Method (Word)
+# DisplayUnitLabel.Delete method (Word)
 
 Deletes the object.
 

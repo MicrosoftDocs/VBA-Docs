@@ -1,5 +1,5 @@
 ---
-title: Endnotes.ResetContinuationNotice Method (Word)
+title: Endnotes.ResetContinuationNotice method (Word)
 keywords: vbawd10.chm155254793
 f1_keywords:
 - vbawd10.chm155254793
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.ResetContinuationNotice Method (Word)
+# Endnotes.ResetContinuationNotice method (Word)
 
 Resets the endnote continuation notice to the default notice.
 

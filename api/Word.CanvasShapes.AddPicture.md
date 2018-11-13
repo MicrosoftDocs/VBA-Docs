@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddPicture Method (Word)
+title: CanvasShapes.AddPicture method (Word)
 keywords: vbawd10.chm7536655
 f1_keywords:
 - vbawd10.chm7536655
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddPicture Method (Word)
+# CanvasShapes.AddPicture method (Word)
 
 Adds a picture to a drawing canvas. Returns a  **Shape** object that represents the picture and adds it to the **CanvasShapes** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Revisions.AcceptAll Method (Word)
+title: Revisions.AcceptAll method (Word)
 keywords: vbawd10.chm159383653
 f1_keywords:
 - vbawd10.chm159383653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revisions.AcceptAll Method (Word)
+# Revisions.AcceptAll method (Word)
 
 Accepts all the tracked changes in a document or range, removes all revision marks, and incorporates the changes into the document.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.IncrementOffsetY Method (Word)
+title: ShadowFormat.IncrementOffsetY method (Word)
 keywords: vbawd10.chm164364299
 f1_keywords:
 - vbawd10.chm164364299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.IncrementOffsetY Method (Word)
+# ShadowFormat.IncrementOffsetY method (Word)
 
 Changes the vertical offset of the shadow by the specified number of points.
 

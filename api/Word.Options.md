@@ -1,5 +1,5 @@
 ---
-title: Options Object (Word)
+title: Options object (Word)
 keywords: vbawd10.chm2487
 f1_keywords:
 - vbawd10.chm2487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options Object (Word)
+# Options object (Word)
 
 Represents application and document options in Word. Many of the properties for the  **Options** object correspond to items in the **Options** dialog box.
 

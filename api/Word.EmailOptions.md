@@ -1,5 +1,5 @@
 ---
-title: EmailOptions Object (Word)
+title: EmailOptions object (Word)
 ms.prod: word
 api_name:
 - Word.EmailOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions Object (Word)
+# EmailOptions object (Word)
 
 Contains global application-level attributes used by Microsoft Word when you create and edit e-mail messages and replies.
 

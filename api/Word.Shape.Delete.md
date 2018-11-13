@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Word)
+title: Shape.Delete method (Word)
 keywords: vbawd10.chm161480715
 f1_keywords:
 - vbawd10.chm161480715
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Delete Method (Word)
+# Shape.Delete method (Word)
 
 Deletes the specified shape node.
 

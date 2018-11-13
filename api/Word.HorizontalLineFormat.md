@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat Object (Word)
+title: HorizontalLineFormat object (Word)
 keywords: vbawd10.chm2526
 f1_keywords:
 - vbawd10.chm2526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat Object (Word)
+# HorizontalLineFormat object (Word)
 
 Represents horizontal line formatting.
 

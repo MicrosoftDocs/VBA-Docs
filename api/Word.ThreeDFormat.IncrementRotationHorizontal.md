@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationHorizontal Method (Word)
+title: ThreeDFormat.IncrementRotationHorizontal method (Word)
 keywords: vbawd10.chm164626449
 f1_keywords:
 - vbawd10.chm164626449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationHorizontal Method (Word)
+# ThreeDFormat.IncrementRotationHorizontal method (Word)
 
 Horizontally rotates a shape on the x-axis using the specified incrementation value.
 

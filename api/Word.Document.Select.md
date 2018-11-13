@@ -1,5 +1,5 @@
 ---
-title: Document.Select Method (Word)
+title: Document.Select method (Word)
 keywords: vbawd10.chm158072831
 f1_keywords:
 - vbawd10.chm158072831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Select Method (Word)
+# Document.Select method (Word)
 
 Selects the contents of the specified document.
 

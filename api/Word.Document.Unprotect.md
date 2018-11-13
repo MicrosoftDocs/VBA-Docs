@@ -1,5 +1,5 @@
 ---
-title: Document.Unprotect Method (Word)
+title: Document.Unprotect method (Word)
 keywords: vbawd10.chm158007417
 f1_keywords:
 - vbawd10.chm158007417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Unprotect Method (Word)
+# Document.Unprotect method (Word)
 
 Removes protection from the specified document. .
 

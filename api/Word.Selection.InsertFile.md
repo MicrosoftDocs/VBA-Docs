@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertFile Method (Word)
+title: Selection.InsertFile method (Word)
 keywords: vbawd10.chm158662779
 f1_keywords:
 - vbawd10.chm158662779
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertFile Method (Word)
+# Selection.InsertFile method (Word)
 
 Inserts all or part of the specified file.
 

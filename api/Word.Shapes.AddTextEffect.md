@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextEffect Method (Word)
+title: Shapes.AddTextEffect method (Word)
 keywords: vbawd10.chm161415186
 f1_keywords:
 - vbawd10.chm161415186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddTextEffect Method (Word)
+# Shapes.AddTextEffect method (Word)
 
 Adds a WordArt shape to a drawing canvas. Returns a  **Shape** object that represents the WordArt and adds it to the **CanvasShapes** collection.
 

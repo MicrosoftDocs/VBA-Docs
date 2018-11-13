@@ -1,5 +1,5 @@
 ---
-title: MailMessage.GoToPrevious Method (Word)
+title: MailMessage.GoToPrevious method (Word)
 keywords: vbawd10.chm163184981
 f1_keywords:
 - vbawd10.chm163184981
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.GoToPrevious Method (Word)
+# MailMessage.GoToPrevious method (Word)
 
 Displays the previous mail message if you are using Word as your e-mail editor.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.FullCategoryCollection Method (Word)
+title: ChartGroup.FullCategoryCollection method (Word)
 keywords: vbawd10.chm263454872
 f1_keywords:
 - vbawd10.chm263454872
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.FullCategoryCollection Method (Word)
+# ChartGroup.FullCategoryCollection method (Word)
 
 Returns all the categories in the chart group, or the specified category, whether visible or filtered out.
 

@@ -1,5 +1,5 @@
 ---
-title: Global.CheckSpelling Method (Word)
+title: Global.CheckSpelling method (Word)
 keywords: vbawd10.chm163119428
 f1_keywords:
 - vbawd10.chm163119428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.CheckSpelling Method (Word)
+# Global.CheckSpelling method (Word)
 
 Checks a string for spelling errors. Returns a  **Boolean** to indicate whether the string contains spelling errors. **True** if the string has no spelling errors.
 

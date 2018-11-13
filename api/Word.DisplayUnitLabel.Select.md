@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Select Method (Word)
+title: DisplayUnitLabel.Select method (Word)
 keywords: vbawd10.chm94568476
 f1_keywords:
 - vbawd10.chm94568476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Select Method (Word)
+# DisplayUnitLabel.Select method (Word)
 
 Selects the object.
 

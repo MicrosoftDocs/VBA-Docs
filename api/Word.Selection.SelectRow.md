@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectRow Method (Word)
+title: Selection.SelectRow method (Word)
 keywords: vbawd10.chm158663181
 f1_keywords:
 - vbawd10.chm158663181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectRow Method (Word)
+# Selection.SelectRow method (Word)
 
 Selects the row that contains the insertion point, or selects all rows that contain the selection.
 

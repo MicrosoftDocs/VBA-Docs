@@ -1,5 +1,5 @@
 ---
-title: Range.InsertCaption Method (Word)
+title: Range.InsertCaption method (Word)
 keywords: vbawd10.chm157155745
 f1_keywords:
 - vbawd10.chm157155745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertCaption Method (Word)
+# Range.InsertCaption method (Word)
 
 Inserts a caption immediately preceding or following the specified range.
 

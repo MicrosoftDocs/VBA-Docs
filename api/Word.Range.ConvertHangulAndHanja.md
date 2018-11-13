@@ -1,5 +1,5 @@
 ---
-title: Range.ConvertHangulAndHanja Method (Word)
+title: Range.ConvertHangulAndHanja method (Word)
 keywords: vbawd10.chm157155549
 f1_keywords:
 - vbawd10.chm157155549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ConvertHangulAndHanja Method (Word)
+# Range.ConvertHangulAndHanja method (Word)
 
 Converts the specified range from hangul to hanja or vice versa.
 

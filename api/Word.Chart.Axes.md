@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (Word)
+title: Chart.Axes method (Word)
 ms.prod: word
 api_name:
 - Word.Chart.Axes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Axes Method (Word)
+# Chart.Axes method (Word)
 
 Returns a collection of axes on the chart.
 

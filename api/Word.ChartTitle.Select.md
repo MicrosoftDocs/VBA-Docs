@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Select Method (Word)
+title: ChartTitle.Select method (Word)
 keywords: vbawd10.chm65273884
 f1_keywords:
 - vbawd10.chm65273884
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Select Method (Word)
+# ChartTitle.Select method (Word)
 
 Selects the object.
 

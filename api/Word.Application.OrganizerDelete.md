@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerDelete Method (Word)
+title: Application.OrganizerDelete method (Word)
 keywords: vbawd10.chm158335295
 f1_keywords:
 - vbawd10.chm158335295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OrganizerDelete Method (Word)
+# Application.OrganizerDelete method (Word)
 
 Deletes the specified style, AutoText entry, toolbar, or macro project item from a document or template.
 

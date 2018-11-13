@@ -1,5 +1,5 @@
 ---
-title: LegendEntry Object (Word)
+title: LegendEntry object (Word)
 keywords: vbawd10.chm73
 f1_keywords:
 - vbawd10.chm73
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry Object (Word)
+# LegendEntry object (Word)
 
 Represents a legend entry in a chart legend.
 

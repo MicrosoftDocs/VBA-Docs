@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat Object (Word)
+title: ChartColorFormat object (Word)
 keywords: vbawd10.chm184
 f1_keywords:
 - vbawd10.chm184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartColorFormat Object (Word)
+# ChartColorFormat object (Word)
 
 Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill.
 

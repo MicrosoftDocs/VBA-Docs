@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.Item Method (Word)
+title: KeyBindings.Item method (Word)
 keywords: vbawd10.chm160825344
 f1_keywords:
 - vbawd10.chm160825344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBindings.Item Method (Word)
+# KeyBindings.Item method (Word)
 
 Returns an individual  **KeyBinding** object in a collection.
 

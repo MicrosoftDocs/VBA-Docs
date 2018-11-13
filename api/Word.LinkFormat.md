@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (Word)
+title: LinkFormat object (Word)
 keywords: vbawd10.chm2353
 f1_keywords:
 - vbawd10.chm2353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat Object (Word)
+# LinkFormat object (Word)
 
 Represents the linking characteristics for an OLE object or picture.
 

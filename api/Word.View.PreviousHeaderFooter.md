@@ -1,5 +1,5 @@
 ---
-title: View.PreviousHeaderFooter Method (Word)
+title: View.PreviousHeaderFooter method (Word)
 keywords: vbawd10.chm161808489
 f1_keywords:
 - vbawd10.chm161808489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.PreviousHeaderFooter Method (Word)
+# View.PreviousHeaderFooter method (Word)
 
 Moves to the previous header or footer, depending on whether a header or footer is displayed in the view.
 

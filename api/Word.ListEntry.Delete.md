@@ -1,5 +1,5 @@
 ---
-title: ListEntry.Delete Method (Word)
+title: ListEntry.Delete method (Word)
 keywords: vbawd10.chm153288715
 f1_keywords:
 - vbawd10.chm153288715
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntry.Delete Method (Word)
+# ListEntry.Delete method (Word)
 
 Deletes the specified list entry.
 

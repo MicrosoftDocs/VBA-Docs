@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenRefresh Method (Word)
+title: Application.ScreenRefresh method (Word)
 keywords: vbawd10.chm158335277
 f1_keywords:
 - vbawd10.chm158335277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ScreenRefresh Method (Word)
+# Application.ScreenRefresh method (Word)
 
 Updates the display on the monitor with the current information in the video memory buffer.
 

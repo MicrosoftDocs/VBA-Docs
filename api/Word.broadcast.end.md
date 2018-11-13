@@ -1,5 +1,5 @@
 ---
-title: Broadcast.End Method (Word)
+title: Broadcast.End method (Word)
 keywords: vbawd10.chm36438120
 f1_keywords:
 - vbawd10.chm36438120
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.End Method (Word)
+# Broadcast.End method (Word)
 
 Ends the specified broadcast session.
 

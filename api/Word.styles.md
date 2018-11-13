@@ -1,5 +1,5 @@
 ---
-title: Styles Object (Word)
+title: Styles object (Word)
 keywords: vbawd10.chm2349
 f1_keywords:
 - vbawd10.chm2349
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles Object (Word)
+# Styles object (Word)
 
 A collection of  **Style** objects that represent both the built-in and user-defined styles in a document.
 

@@ -1,5 +1,5 @@
 ---
-title: Conflict Object (Word)
+title: Conflict object (Word)
 keywords: vbawd10.chm1201
 f1_keywords:
 - vbawd10.chm1201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflict Object (Word)
+# Conflict object (Word)
 
 Represents a conflicting edit in a co authored document. The type of a  **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
 

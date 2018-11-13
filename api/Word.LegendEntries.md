@@ -1,5 +1,5 @@
 ---
-title: LegendEntries Object (Word)
+title: LegendEntries object (Word)
 ms.prod: word
 api_name:
 - Word.LegendEntries
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries Object (Word)
+# LegendEntries object (Word)
 
 A collection of all the  **[LegendEntry](Word.LegendEntry.md)** objects in the specified chart legend.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartWizard Method (Word)
+title: Chart.ChartWizard method (Word)
 keywords: vbawd10.chm79364162
 f1_keywords:
 - vbawd10.chm79364162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartWizard Method (Word)
+# Chart.ChartWizard method (Word)
 
 Modifies the properties of the given chart. You can use this method to quickly format a chart without setting all the individual properties. This method is noninteractive, and it changes only the specified properties.
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShape.ConvertToShape Method (Word)
+title: InlineShape.ConvertToShape method (Word)
 keywords: vbawd10.chm162005096
 f1_keywords:
 - vbawd10.chm162005096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.ConvertToShape Method (Word)
+# InlineShape.ConvertToShape method (Word)
 
 Converts an inline shape to a free-floating shape. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIn.Delete Method (Word)
+title: AddIn.Delete method (Word)
 keywords: vbawd10.chm159252581
 f1_keywords:
 - vbawd10.chm159252581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Delete Method (Word)
+# AddIn.Delete method (Word)
 
 Deletes the specified add-in.
 

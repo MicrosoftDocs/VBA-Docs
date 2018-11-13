@@ -1,5 +1,5 @@
 ---
-title: Frames.Delete Method (Word)
+title: Frames.Delete method (Word)
 keywords: vbawd10.chm153813093
 f1_keywords:
 - vbawd10.chm153813093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frames.Delete Method (Word)
+# Frames.Delete method (Word)
 
 Deletes the specified Frames collection.
 

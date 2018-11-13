@@ -1,5 +1,5 @@
 ---
-title: Selection.ToggleCharacterCode Method (Word)
+title: Selection.ToggleCharacterCode method (Word)
 keywords: vbawd10.chm158663668
 f1_keywords:
 - vbawd10.chm158663668
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ToggleCharacterCode Method (Word)
+# Selection.ToggleCharacterCode method (Word)
 
 Switches a selection between a Unicode character and its corresponding hexadecimal value.
 

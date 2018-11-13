@@ -1,5 +1,5 @@
 ---
-title: Floor.ClearFormats Method (Word)
+title: Floor.ClearFormats method (Word)
 keywords: vbawd10.chm46006384
 f1_keywords:
 - vbawd10.chm46006384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.ClearFormats Method (Word)
+# Floor.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

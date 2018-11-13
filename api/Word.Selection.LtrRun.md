@@ -1,5 +1,5 @@
 ---
-title: Selection.LtrRun Method (Word)
+title: Selection.LtrRun method (Word)
 keywords: vbawd10.chm158663257
 f1_keywords:
 - vbawd10.chm158663257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.LtrRun Method (Word)
+# Selection.LtrRun method (Word)
 
 Sets the reading order and alignment of the specified run to left-to-right.
 

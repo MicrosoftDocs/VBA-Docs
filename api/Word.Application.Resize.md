@@ -1,5 +1,5 @@
 ---
-title: Application.Resize Method (Word)
+title: Application.Resize method (Word)
 keywords: vbawd10.chm158335337
 f1_keywords:
 - vbawd10.chm158335337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Resize Method (Word)
+# Application.Resize method (Word)
 
 Sizes the Word application window or the specified task window.
 

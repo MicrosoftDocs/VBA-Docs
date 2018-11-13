@@ -1,5 +1,5 @@
 ---
-title: Document.ApplyQuickStyleSet2 Method (Word)
+title: Document.ApplyQuickStyleSet2 method (Word)
 keywords: vbawd10.chm158007862
 f1_keywords:
 - vbawd10.chm158007862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ApplyQuickStyleSet2 Method (Word)
+# Document.ApplyQuickStyleSet2 method (Word)
 
 Applies the specified Quick Style set to the document.
 

@@ -1,5 +1,5 @@
 ---
-title: View.ShowHeading Method (Word)
+title: View.ShowHeading method (Word)
 keywords: vbawd10.chm161808488
 f1_keywords:
 - vbawd10.chm161808488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowHeading Method (Word)
+# View.ShowHeading method (Word)
 
 Shows all headings up to the specified heading level and hides subordinate headings and body text.
 

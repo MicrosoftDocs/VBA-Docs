@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveWhile Method (Word)
+title: Selection.MoveWhile method (Word)
 keywords: vbawd10.chm158662768
 f1_keywords:
 - vbawd10.chm158662768
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveWhile Method (Word)
+# Selection.MoveWhile method (Word)
 
 Moves the specified selection while any of the specified characters are found in the document.
 

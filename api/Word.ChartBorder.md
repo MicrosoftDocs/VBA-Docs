@@ -1,5 +1,5 @@
 ---
-title: ChartBorder Object (Word)
+title: ChartBorder object (Word)
 keywords: vbawd10.chm931
 f1_keywords:
 - vbawd10.chm931
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartBorder Object (Word)
+# ChartBorder object (Word)
 
 Represents the border of an object.
 

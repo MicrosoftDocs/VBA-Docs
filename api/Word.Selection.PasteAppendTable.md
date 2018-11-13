@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteAppendTable Method (Word)
+title: Selection.PasteAppendTable method (Word)
 keywords: vbawd10.chm158663666
 f1_keywords:
 - vbawd10.chm158663666
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PasteAppendTable Method (Word)
+# Selection.PasteAppendTable method (Word)
 
 Merges pasted cells into an existing table by inserting the pasted rows between the selected rows. No cells are overwritten.
 

@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Word)
+title: Pages object (Word)
 keywords: vbawd10.chm1026
 f1_keywords:
 - vbawd10.chm1026
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages Object (Word)
+# Pages object (Word)
 
 A collection of pages in a document. Use the  **Pages** collection and the related objects and properties for programmatically defining page layout in a document.
 

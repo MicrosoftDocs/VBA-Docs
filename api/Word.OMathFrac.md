@@ -1,5 +1,5 @@
 ---
-title: OMathFrac Object (Word)
+title: OMathFrac object (Word)
 ms.prod: word
 api_name:
 - Word.OMathFrac
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac Object (Word)
+# OMathFrac object (Word)
 
 Represents a fraction, consisting of a numerator and denominator separated by a fraction bar. The fraction bar can be horizontal or diagonal, depending on the fraction properties.
 

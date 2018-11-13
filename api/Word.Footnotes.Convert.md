@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Convert Method (Word)
+title: Footnotes.Convert method (Word)
 keywords: vbawd10.chm155320325
 f1_keywords:
 - vbawd10.chm155320325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Convert Method (Word)
+# Footnotes.Convert method (Word)
 
 Converts endnotes to footnotes, or vice versa.
 

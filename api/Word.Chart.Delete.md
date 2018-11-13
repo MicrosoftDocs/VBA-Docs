@@ -1,5 +1,5 @@
 ---
-title: Chart.Delete Method (Word)
+title: Chart.Delete method (Word)
 keywords: vbawd10.chm79364213
 f1_keywords:
 - vbawd10.chm79364213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Delete Method (Word)
+# Chart.Delete method (Word)
 
 Deletes the object.
 

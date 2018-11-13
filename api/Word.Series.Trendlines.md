@@ -1,5 +1,5 @@
 ---
-title: Series.Trendlines Method (Word)
+title: Series.Trendlines method (Word)
 keywords: vbawd10.chm123732122
 f1_keywords:
 - vbawd10.chm123732122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Trendlines Method (Word)
+# Series.Trendlines method (Word)
 
 Returns a collection of all the trendlines for the series.
 

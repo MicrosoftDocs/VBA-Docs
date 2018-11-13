@@ -1,5 +1,5 @@
 ---
-title: XMLNode.RemoveChild Method (Word)
+title: XMLNode.RemoveChild method (Word)
 keywords: vbawd10.chm37748838
 f1_keywords:
 - vbawd10.chm37748838
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.RemoveChild Method (Word)
+# XMLNode.RemoveChild method (Word)
 
 Removes a child element from the specified element.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.SendFaxOverInternet Method (Word)
+title: Document.SendFaxOverInternet method (Word)
 keywords: vbawd10.chm158007760
 f1_keywords:
 - vbawd10.chm158007760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SendFaxOverInternet Method (Word)
+# Document.SendFaxOverInternet method (Word)
 
 Sends a document to a fax service provider, who faxes the document to one or more specfied recipients.
 

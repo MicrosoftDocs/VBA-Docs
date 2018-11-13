@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddChart2 Method (Word)
+title: Shapes.AddChart2 method (Word)
 keywords: vbawd10.chm161415273
 f1_keywords:
 - vbawd10.chm161415273
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddChart2 Method (Word)
+# Shapes.AddChart2 method (Word)
 
 Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that represents a chart and adds it to the specified collection.
 

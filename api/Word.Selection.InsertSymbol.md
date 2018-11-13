@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertSymbol Method (Word)
+title: Selection.InsertSymbol method (Word)
 keywords: vbawd10.chm158662820
 f1_keywords:
 - vbawd10.chm158662820
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertSymbol Method (Word)
+# Selection.InsertSymbol method (Word)
 
 Inserts a symbol in place of the specified selection.
 

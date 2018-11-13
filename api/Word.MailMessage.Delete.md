@@ -1,5 +1,5 @@
 ---
-title: MailMessage.Delete Method (Word)
+title: MailMessage.Delete method (Word)
 keywords: vbawd10.chm163184975
 f1_keywords:
 - vbawd10.chm163184975
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.Delete Method (Word)
+# MailMessage.Delete method (Word)
 
 Deletes the specified mail message.
 

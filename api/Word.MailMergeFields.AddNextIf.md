@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddNextIf Method (Word)
+title: MailMergeFields.AddNextIf method (Word)
 keywords: vbawd10.chm153026668
 f1_keywords:
 - vbawd10.chm153026668
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddNextIf Method (Word)
+# MailMergeFields.AddNextIf method (Word)
 
 Adds a NEXTIF field to a mail merge main document. Returns a  **MailMergeField** object.
 

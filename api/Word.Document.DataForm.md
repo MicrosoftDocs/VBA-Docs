@@ -1,5 +1,5 @@
 ---
-title: Document.DataForm Method (Word)
+title: Document.DataForm method (Word)
 keywords: vbawd10.chm158007402
 f1_keywords:
 - vbawd10.chm158007402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DataForm Method (Word)
+# Document.DataForm method (Word)
 
 Displays the  **Data Form** dialog box, in which you can add, delete, or modify records.
 

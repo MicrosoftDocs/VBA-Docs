@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Add Method (Word)
+title: Hyperlinks.Add method (Word)
 keywords: vbawd10.chm161218661
 f1_keywords:
 - vbawd10.chm161218661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Add Method (Word)
+# Hyperlinks.Add method (Word)
 
 Returns a  **Hyperlink** object that represents a new hyperlink added to a range, selection, or document.
 

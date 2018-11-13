@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddCurve Method (Word)
+title: CanvasShapes.AddCurve method (Word)
 keywords: vbawd10.chm7536652
 f1_keywords:
 - vbawd10.chm7536652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddCurve Method (Word)
+# CanvasShapes.AddCurve method (Word)
 
 Returns a  **[Shape](Word.Shape.md)** object that represents a B?zier curve in a drawing canvas.
 

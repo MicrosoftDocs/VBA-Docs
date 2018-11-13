@@ -1,5 +1,5 @@
 ---
-title: Documents.OpenNoRepairDialog Method (Word)
+title: Documents.OpenNoRepairDialog method (Word)
 keywords: vbawd10.chm158072852
 f1_keywords:
 - vbawd10.chm158072852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.OpenNoRepairDialog Method (Word)
+# Documents.OpenNoRepairDialog method (Word)
 
 Opens the specified document and adds it to the [Documents](Word.documents.md) collection.
 

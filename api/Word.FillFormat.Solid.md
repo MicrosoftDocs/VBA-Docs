@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Solid Method (Word)
+title: FillFormat.Solid method (Word)
 keywords: vbawd10.chm164102159
 f1_keywords:
 - vbawd10.chm164102159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Solid Method (Word)
+# FillFormat.Solid method (Word)
 
 Sets the specified fill to a uniform color. .
 

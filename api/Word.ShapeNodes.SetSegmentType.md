@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetSegmentType Method (Word)
+title: ShapeNodes.SetSegmentType method (Word)
 keywords: vbawd10.chm164495375
 f1_keywords:
 - vbawd10.chm164495375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetSegmentType Method (Word)
+# ShapeNodes.SetSegmentType method (Word)
 
 Sets the segment type of the segment that follows the node specified by Index.
 

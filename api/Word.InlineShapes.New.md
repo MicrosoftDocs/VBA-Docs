@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.New Method (Word)
+title: InlineShapes.New method (Word)
 keywords: vbawd10.chm162070728
 f1_keywords:
 - vbawd10.chm162070728
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.New Method (Word)
+# InlineShapes.New method (Word)
 
 Inserts an empty, 1-inch-square Word picture object surrounded by a border. This method returns the new graphic as an  **InlineShape** object.
 

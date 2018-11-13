@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddMergeRec Method (Word)
+title: MailMergeFields.AddMergeRec method (Word)
 keywords: vbawd10.chm153026665
 f1_keywords:
 - vbawd10.chm153026665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddMergeRec Method (Word)
+# MailMergeFields.AddMergeRec method (Word)
 
 Adds a MERGEREC field to a mail merge main document. Returns a  **MailMergeField** object.
 

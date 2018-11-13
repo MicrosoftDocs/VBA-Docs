@@ -1,5 +1,5 @@
 ---
-title: Envelope.Options Method (Word)
+title: Envelope.Options method (Word)
 keywords: vbawd10.chm152567912
 f1_keywords:
 - vbawd10.chm152567912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Options Method (Word)
+# Envelope.Options method (Word)
 
 Displays the  **Envelope Options** dialog box.
 

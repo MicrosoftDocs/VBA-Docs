@@ -1,5 +1,5 @@
 ---
-title: Range.PreviousSubdocument Method (Word)
+title: Range.PreviousSubdocument method (Word)
 keywords: vbawd10.chm157155548
 f1_keywords:
 - vbawd10.chm157155548
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PreviousSubdocument Method (Word)
+# Range.PreviousSubdocument method (Word)
 
 Moves the range to the previous subdocument.
 

@@ -1,5 +1,5 @@
 ---
-title: Conflicts.RejectAll Method (Word)
+title: Conflicts.RejectAll method (Word)
 keywords: vbawd10.chm174391398
 f1_keywords:
 - vbawd10.chm174391398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.RejectAll Method (Word)
+# Conflicts.RejectAll method (Word)
 
 Rejects all of the user's changes and retains the server copy of the document.
 

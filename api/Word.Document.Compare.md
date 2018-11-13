@@ -1,5 +1,5 @@
 ---
-title: Document.Compare Method (Word)
+title: Document.Compare method (Word)
 keywords: vbawd10.chm158007781
 f1_keywords:
 - vbawd10.chm158007781
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Compare Method (Word)
+# Document.Compare method (Word)
 
 Displays revision marks that indicate where the specified document differs from another document.
 

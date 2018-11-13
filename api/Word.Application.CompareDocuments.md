@@ -1,5 +1,5 @@
 ---
-title: Application.CompareDocuments Method (Word)
+title: Application.CompareDocuments method (Word)
 keywords: vbawd10.chm158335446
 f1_keywords:
 - vbawd10.chm158335446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CompareDocuments Method (Word)
+# Application.CompareDocuments method (Word)
 
 Compares two documents and returns a  **Document** object that represents the document that contains the differences between the two documents, marked using tracked changes.
 

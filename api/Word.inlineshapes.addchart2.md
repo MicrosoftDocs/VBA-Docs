@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddChart2 Method (Word)
+title: InlineShapes.AddChart2 method (Word)
 keywords: vbawd10.chm162070638
 f1_keywords:
 - vbawd10.chm162070638
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddChart2 Method (Word)
+# InlineShapes.AddChart2 method (Word)
 
 Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) object that represents the chart and adds it to the specified collection.
 

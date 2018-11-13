@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Item Method (Word)
+title: Trendlines.Item method (Word)
 keywords: vbawd10.chm102367232
 f1_keywords:
 - vbawd10.chm102367232
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Item Method (Word)
+# Trendlines.Item method (Word)
 
 Returns a single object from a collection.
 

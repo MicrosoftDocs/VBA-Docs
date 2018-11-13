@@ -1,5 +1,5 @@
 ---
-title: TaskPane Object (Word)
+title: TaskPane object (Word)
 keywords: vbawd10.chm1250
 f1_keywords:
 - vbawd10.chm1250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPane Object (Word)
+# TaskPane object (Word)
 
 Represents a single task pane available to Microsoft Word, which contains common tasks that users perform. The  **TaskPane** object is a member of the **TaskPanes** collection.
 

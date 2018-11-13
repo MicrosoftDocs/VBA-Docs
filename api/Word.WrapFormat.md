@@ -1,5 +1,5 @@
 ---
-title: WrapFormat Object (Word)
+title: WrapFormat object (Word)
 keywords: vbawd10.chm2499
 f1_keywords:
 - vbawd10.chm2499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat Object (Word)
+# WrapFormat object (Word)
 
 Represents all the properties for wrapping text around a shape or shape range.
 

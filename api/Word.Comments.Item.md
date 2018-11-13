@@ -1,5 +1,5 @@
 ---
-title: Comments.Item Method (Word)
+title: Comments.Item method (Word)
 keywords: vbawd10.chm155189248
 f1_keywords:
 - vbawd10.chm155189248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Item Method (Word)
+# Comments.Item method (Word)
 
 Returns an individual  **Comment** object in a collection.
 

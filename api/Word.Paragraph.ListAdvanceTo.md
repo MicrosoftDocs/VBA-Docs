@@ -1,5 +1,5 @@
 ---
-title: Paragraph.ListAdvanceTo Method (Word)
+title: Paragraph.ListAdvanceTo method (Word)
 keywords: vbawd10.chm156696912
 f1_keywords:
 - vbawd10.chm156696912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.ListAdvanceTo Method (Word)
+# Paragraph.ListAdvanceTo method (Word)
 
 Sets the list levels for a paragraph in a list.
 

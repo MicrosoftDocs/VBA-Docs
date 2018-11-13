@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Item Method (Word)
+title: Dialogs.Item method (Word)
 keywords: vbawd10.chm152043520
 f1_keywords:
 - vbawd10.chm152043520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Item Method (Word)
+# Dialogs.Item method (Word)
 
 Returns a dialog in Microsoft Word.
 

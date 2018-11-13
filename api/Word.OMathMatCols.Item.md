@@ -1,5 +1,5 @@
 ---
-title: OMathMatCols.Item Method (Word)
+title: OMathMatCols.Item method (Word)
 keywords: vbawd10.chm261881856
 f1_keywords:
 - vbawd10.chm261881856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCols.Item Method (Word)
+# OMathMatCols.Item method (Word)
 
 Returns an  **OMathMatCol** object that represents the specified item in the collection.
 

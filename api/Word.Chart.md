@@ -1,5 +1,5 @@
 ---
-title: Chart Object (Word)
+title: Chart object (Word)
 keywords: vbawd10.chm1211
 f1_keywords:
 - vbawd10.chm1211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart Object (Word)
+# Chart object (Word)
 
 Represents a chart in a document.
 

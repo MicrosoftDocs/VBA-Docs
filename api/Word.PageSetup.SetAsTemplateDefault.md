@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SetAsTemplateDefault Method (Word)
+title: PageSetup.SetAsTemplateDefault method (Word)
 keywords: vbawd10.chm158400714
 f1_keywords:
 - vbawd10.chm158400714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.SetAsTemplateDefault Method (Word)
+# PageSetup.SetAsTemplateDefault method (Word)
 
 Sets the specified page setup formatting as the default for the active document and all new documents based on the active template.
 

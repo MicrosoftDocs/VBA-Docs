@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Insert Method (Word)
+title: AutoTextEntry.Insert method (Word)
 keywords: vbawd10.chm154533990
 f1_keywords:
 - vbawd10.chm154533990
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Insert Method (Word)
+# AutoTextEntry.Insert method (Word)
 
 Inserts the AutoText entry in place of the specified range. Returns a  **Range** object that represents the AutoText entry.
 

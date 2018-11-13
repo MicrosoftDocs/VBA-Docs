@@ -1,5 +1,5 @@
 ---
-title: ListFormat Object (Word)
+title: ListFormat object (Word)
 keywords: vbawd10.chm2496
 f1_keywords:
 - vbawd10.chm2496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat Object (Word)
+# ListFormat object (Word)
 
 Represents the list formatting attributes that can be applied to the paragraphs in a range.
 

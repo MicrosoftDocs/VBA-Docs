@@ -1,5 +1,5 @@
 ---
-title: Borders.ApplyPageBordersToAllSections Method (Word)
+title: Borders.ApplyPageBordersToAllSections method (Word)
 keywords: vbawd10.chm154929104
 f1_keywords:
 - vbawd10.chm154929104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.ApplyPageBordersToAllSections Method (Word)
+# Borders.ApplyPageBordersToAllSections method (Word)
 
 Applies the specified page-border formatting to all sections in a document.
 

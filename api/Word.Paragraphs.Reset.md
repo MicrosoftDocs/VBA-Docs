@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Reset Method (Word)
+title: Paragraphs.Reset method (Word)
 keywords: vbawd10.chm156762424
 f1_keywords:
 - vbawd10.chm156762424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Reset Method (Word)
+# Paragraphs.Reset method (Word)
 
 Removes manual paragraph formatting (formatting not applied using a style). .
 

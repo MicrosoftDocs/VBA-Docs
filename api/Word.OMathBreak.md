@@ -1,5 +1,5 @@
 ---
-title: OMathBreak Object (Word)
+title: OMathBreak object (Word)
 keywords: vbawd10.chm1493
 f1_keywords:
 - vbawd10.chm1493
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak Object (Word)
+# OMathBreak object (Word)
 
 Represents individual line breaks in an equation. Each  **OMathBreak** object is a member of the **[OMathBreaks](Word.OMathBreaks.md)** collection.
 

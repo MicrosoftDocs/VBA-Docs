@@ -1,5 +1,5 @@
 ---
-title: OMathRad Object (Word)
+title: OMathRad object (Word)
 ms.prod: word
 api_name:
 - Word.OMathRad
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRad Object (Word)
+# OMathRad object (Word)
 
 Represents the mathematical radical object, consisting of a radical, a base, and an optional degree.
 

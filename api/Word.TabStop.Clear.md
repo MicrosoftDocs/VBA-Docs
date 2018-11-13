@@ -1,5 +1,5 @@
 ---
-title: TabStop.Clear Method (Word)
+title: TabStop.Clear method (Word)
 keywords: vbawd10.chm156500168
 f1_keywords:
 - vbawd10.chm156500168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Clear Method (Word)
+# TabStop.Clear method (Word)
 
 Removes the specified custom tab stop.
 

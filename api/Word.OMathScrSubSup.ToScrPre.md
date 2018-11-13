@@ -1,5 +1,5 @@
 ---
-title: OMathScrSubSup.ToScrPre Method (Word)
+title: OMathScrSubSup.ToScrPre method (Word)
 keywords: vbawd10.chm181665994
 f1_keywords:
 - vbawd10.chm181665994
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSubSup.ToScrPre Method (Word)
+# OMathScrSubSup.ToScrPre method (Word)
 
 Converts an equation with a base superscript or subscript to an equation with a superscript or subscript to the left of the base.
 

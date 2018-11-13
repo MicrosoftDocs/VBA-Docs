@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Delete Method (Word)
+title: LegendKey.Delete method (Word)
 keywords: vbawd10.chm266207349
 f1_keywords:
 - vbawd10.chm266207349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Delete Method (Word)
+# LegendKey.Delete method (Word)
 
 Deletes the object.
 

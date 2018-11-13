@@ -1,5 +1,5 @@
 ---
-title: Application.SetDefaultTheme Method (Word)
+title: Application.SetDefaultTheme method (Word)
 keywords: vbawd10.chm158335390
 f1_keywords:
 - vbawd10.chm158335390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SetDefaultTheme Method (Word)
+# Application.SetDefaultTheme method (Word)
 
 Sets a default theme for Word to use with new documents, e-mail messages, or web pages.
 

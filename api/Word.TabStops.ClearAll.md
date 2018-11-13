@@ -1,5 +1,5 @@
 ---
-title: TabStops.ClearAll Method (Word)
+title: TabStops.ClearAll method (Word)
 keywords: vbawd10.chm156565605
 f1_keywords:
 - vbawd10.chm156565605
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.ClearAll Method (Word)
+# TabStops.ClearAll method (Word)
 
 Clears all the custom tab stops from the specified paragraphs.
 

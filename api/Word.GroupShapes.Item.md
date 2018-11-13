@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Item Method (Word)
+title: GroupShapes.Item method (Word)
 keywords: vbawd10.chm162922496
 f1_keywords:
 - vbawd10.chm162922496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Item Method (Word)
+# GroupShapes.Item method (Word)
 
 Returns an individual  **Shape** object in a collection.
 

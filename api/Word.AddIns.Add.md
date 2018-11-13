@@ -1,5 +1,5 @@
 ---
-title: AddIns.Add Method (Word)
+title: AddIns.Add method (Word)
 keywords: vbawd10.chm159318018
 f1_keywords:
 - vbawd10.chm159318018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Add Method (Word)
+# AddIns.Add method (Word)
 
 Returns an  **[AddIn](Word.AddIn.md)** object that represents an add-in added to the list of available add-ins.
 

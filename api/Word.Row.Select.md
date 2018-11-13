@@ -1,5 +1,5 @@
 ---
-title: Row.Select Method (Word)
+title: Row.Select method (Word)
 keywords: vbawd10.chm156303359
 f1_keywords:
 - vbawd10.chm156303359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Select Method (Word)
+# Row.Select method (Word)
 
 Selects the specified table row.
 

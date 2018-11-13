@@ -1,5 +1,5 @@
 ---
-title: Dialog.Display Method (Word)
+title: Dialog.Display method (Word)
 keywords: vbawd10.chm163053906
 f1_keywords:
 - vbawd10.chm163053906
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Display Method (Word)
+# Dialog.Display method (Word)
 
 Displays the specified built-in Word dialog box until either the user closes it or the specified amount of time has passed. Returns a  **Long** that indicates which button was clicked to close the dialog box.
 

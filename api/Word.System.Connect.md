@@ -1,5 +1,5 @@
 ---
-title: System.Connect Method (Word)
+title: System.Connect method (Word)
 keywords: vbawd10.chm154468454
 f1_keywords:
 - vbawd10.chm154468454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.Connect Method (Word)
+# System.Connect method (Word)
 
 Establishes a connection to a network drive.
 

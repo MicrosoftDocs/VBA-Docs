@@ -1,5 +1,5 @@
 ---
-title: MailMessage Object (Word)
+title: MailMessage object (Word)
 keywords: vbawd10.chm2490
 f1_keywords:
 - vbawd10.chm2490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage Object (Word)
+# MailMessage object (Word)
 
 Represents the active e-mail message if you are using Microsoft Word as your e-mail editor.
 

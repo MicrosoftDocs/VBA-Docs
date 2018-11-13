@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistics.Item Method (Word)
+title: ReadabilityStatistics.Item method (Word)
 keywords: vbawd10.chm162398208
 f1_keywords:
 - vbawd10.chm162398208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistics.Item Method (Word)
+# ReadabilityStatistics.Item method (Word)
 
 Returns an individual  **ReadabilityStatistic** object in a collection.
 

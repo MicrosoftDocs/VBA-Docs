@@ -1,5 +1,5 @@
 ---
-title: Selection.BoldRun Method (Word)
+title: Selection.BoldRun method (Word)
 keywords: vbawd10.chm158663258
 f1_keywords:
 - vbawd10.chm158663258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.BoldRun Method (Word)
+# Selection.BoldRun method (Word)
 
 Adds the bold character format to or removes it from the current run.
 

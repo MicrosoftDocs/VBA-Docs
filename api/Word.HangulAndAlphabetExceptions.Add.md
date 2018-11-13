@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetExceptions.Add Method (Word)
+title: HangulAndAlphabetExceptions.Add method (Word)
 keywords: vbawd10.chm164692069
 f1_keywords:
 - vbawd10.chm164692069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetExceptions.Add Method (Word)
+# HangulAndAlphabetExceptions.Add method (Word)
 
 Returns a  **HangulAndAlphabetException** object that represents a new exception to the list of AutoCorrect exceptions.
 

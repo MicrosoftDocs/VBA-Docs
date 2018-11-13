@@ -1,5 +1,5 @@
 ---
-title: Rows.Delete Method (Word)
+title: Rows.Delete method (Word)
 keywords: vbawd10.chm155975880
 f1_keywords:
 - vbawd10.chm155975880
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Delete Method (Word)
+# Rows.Delete method (Word)
 
 Deletes the specified table rows.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Delete Method (Word)
+title: ContentControlListEntry.Delete method (Word)
 keywords: vbawd10.chm147456106
 f1_keywords:
 - vbawd10.chm147456106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Delete Method (Word)
+# ContentControlListEntry.Delete method (Word)
 
 Deletes the specified item in a combo box or drop-down list content control.
 

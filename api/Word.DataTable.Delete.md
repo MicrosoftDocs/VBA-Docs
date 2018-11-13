@@ -1,5 +1,5 @@
 ---
-title: DataTable.Delete Method (Word)
+title: DataTable.Delete method (Word)
 keywords: vbawd10.chm46399499
 f1_keywords:
 - vbawd10.chm46399499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Delete Method (Word)
+# DataTable.Delete method (Word)
 
 Deletes the object.
 

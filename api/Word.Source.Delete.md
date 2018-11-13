@@ -1,5 +1,5 @@
 ---
-title: Source.Delete Method (Word)
+title: Source.Delete method (Word)
 keywords: vbawd10.chm140836970
 f1_keywords:
 - vbawd10.chm140836970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.Delete Method (Word)
+# Source.Delete method (Word)
 
 Deletes the specified source.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartData.Activate Method (Word)
+title: ChartData.Activate method (Word)
 keywords: vbawd10.chm190382081
 f1_keywords:
 - vbawd10.chm190382081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData.Activate Method (Word)
+# ChartData.Activate method (Word)
 
 Activates the first window of the workbook associated with the chart.
 

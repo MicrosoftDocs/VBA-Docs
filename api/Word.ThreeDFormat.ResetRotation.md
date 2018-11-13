@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ResetRotation Method (Word)
+title: ThreeDFormat.ResetRotation method (Word)
 keywords: vbawd10.chm164626444
 f1_keywords:
 - vbawd10.chm164626444
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ResetRotation Method (Word)
+# ThreeDFormat.ResetRotation method (Word)
 
 Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so that the front of the extrusion faces forward.
 

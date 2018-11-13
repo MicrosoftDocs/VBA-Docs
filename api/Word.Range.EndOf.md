@@ -1,5 +1,5 @@
 ---
-title: Range.EndOf Method (Word)
+title: Range.EndOf method (Word)
 keywords: vbawd10.chm157155436
 f1_keywords:
 - vbawd10.chm157155436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EndOf Method (Word)
+# Range.EndOf method (Word)
 
 Moves or extends the ending character position of a range to the end of the nearest specified text unit.
 

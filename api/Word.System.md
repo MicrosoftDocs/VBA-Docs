@@ -1,5 +1,5 @@
 ---
-title: System Object (Word)
+title: System object (Word)
 keywords: vbawd10.chm2357
 f1_keywords:
 - vbawd10.chm2357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System Object (Word)
+# System object (Word)
 
 Contains information about the computer system.
 

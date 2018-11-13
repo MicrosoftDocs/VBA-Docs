@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object (Word)
+title: AxisTitle object (Word)
 keywords: vbawd10.chm1499
 f1_keywords:
 - vbawd10.chm1499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle Object (Word)
+# AxisTitle object (Word)
 
 Represents a chart axis title.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMessage.DisplayProperties Method (Word)
+title: MailMessage.DisplayProperties method (Word)
 keywords: vbawd10.chm163184977
 f1_keywords:
 - vbawd10.chm163184977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.DisplayProperties Method (Word)
+# MailMessage.DisplayProperties method (Word)
 
 Displays the  **Properties** dialog box for the active e-mail message.
 

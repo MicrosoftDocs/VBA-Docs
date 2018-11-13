@@ -1,12 +1,12 @@
 ---
-title: RecentFiles Object (Word)
+title: RecentFiles object (Word)
 ms.prod: word
 ms.assetid: c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f
 ms.date: 06/08/2017
 ---
 
 
-# RecentFiles Object (Word)
+# RecentFiles object (Word)
 
 A collection of  **[RecentFile](Word.RecentFile.md)** objects that represents the files that have been used recently. The items in the **RecentFiles** collection are displayed at the bottom of the **File** menu.
 

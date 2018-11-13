@@ -1,5 +1,5 @@
 ---
-title: Window.RangeFromPoint Method (Word)
+title: Window.RangeFromPoint method (Word)
 keywords: vbawd10.chm157417582
 f1_keywords:
 - vbawd10.chm157417582
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.RangeFromPoint Method (Word)
+# Window.RangeFromPoint method (Word)
 
 Returns the  **Range** or **Shape** object that is located at the point specified by the screen position coordinate pair.
 

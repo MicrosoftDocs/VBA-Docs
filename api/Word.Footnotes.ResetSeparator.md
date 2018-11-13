@@ -1,5 +1,5 @@
 ---
-title: Footnotes.ResetSeparator Method (Word)
+title: Footnotes.ResetSeparator method (Word)
 keywords: vbawd10.chm155320327
 f1_keywords:
 - vbawd10.chm155320327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.ResetSeparator Method (Word)
+# Footnotes.ResetSeparator method (Word)
 
 Resets the footnote separator to the default separator.
 

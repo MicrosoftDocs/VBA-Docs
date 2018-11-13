@@ -1,5 +1,5 @@
 ---
-title: OMathMatCols.Add Method (Word)
+title: OMathMatCols.Add method (Word)
 keywords: vbawd10.chm261882056
 f1_keywords:
 - vbawd10.chm261882056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCols.Add Method (Word)
+# OMathMatCols.Add method (Word)
 
 Creates an equation column and adds it to a matrix and returns an  **OMathMatCol** object.
 

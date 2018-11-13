@@ -1,5 +1,5 @@
 ---
-title: Selection.InRange Method (Word)
+title: Selection.InRange method (Word)
 keywords: vbawd10.chm158662782
 f1_keywords:
 - vbawd10.chm158662782
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InRange Method (Word)
+# Selection.InRange method (Word)
 
  **True** if the selection to which the method is applied is contained within the range specified by the Range argument.
 

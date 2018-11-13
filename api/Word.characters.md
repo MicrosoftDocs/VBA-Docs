@@ -1,12 +1,12 @@
 ---
-title: Characters Object (Word)
+title: Characters object (Word)
 ms.prod: word
 ms.assetid: 6d22ae7a-128d-134d-9136-1cdd5a8d9941
 ms.date: 06/08/2017
 ---
 
 
-# Characters Object (Word)
+# Characters object (Word)
 
 A collection of characters in a selection, range, or document. There is no Character object; instead, each item in the  **Characters** collection is a **[Range](Word.Range.md)** object that represents one character.
 

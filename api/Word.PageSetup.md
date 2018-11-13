@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (Word)
+title: PageSetup object (Word)
 keywords: vbawd10.chm2417
 f1_keywords:
 - vbawd10.chm2417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup Object (Word)
+# PageSetup object (Word)
 
 Represents the page setup description. The  **PageSetup** object contains all the page setup attributes of a document (such as left margin, bottom margin, and paper size) as properties.
 

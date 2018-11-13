@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Item Method (Word)
+title: Dictionaries.Item method (Word)
 keywords: vbawd10.chm162267136
 f1_keywords:
 - vbawd10.chm162267136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.Item Method (Word)
+# Dictionaries.Item method (Word)
 
 Returns an individual  **Dictionary** object in a collection.
 

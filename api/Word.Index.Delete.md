@@ -1,5 +1,5 @@
 ---
-title: Index.Delete Method (Word)
+title: Index.Delete method (Word)
 keywords: vbawd10.chm159187044
 f1_keywords:
 - vbawd10.chm159187044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Delete Method (Word)
+# Index.Delete method (Word)
 
 Deletes the specified index.
 

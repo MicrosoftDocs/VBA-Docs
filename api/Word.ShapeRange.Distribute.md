@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Distribute Method (Word)
+title: ShapeRange.Distribute method (Word)
 keywords: vbawd10.chm162856973
 f1_keywords:
 - vbawd10.chm162856973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Distribute Method (Word)
+# ShapeRange.Distribute method (Word)
 
 Evenly distributes the shapes in the specified range of shapes. .
 

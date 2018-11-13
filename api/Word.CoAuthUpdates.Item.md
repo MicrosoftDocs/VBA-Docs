@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdates.Item Method (Word)
+title: CoAuthUpdates.Item method (Word)
 keywords: vbawd10.chm217841664
 f1_keywords:
 - vbawd10.chm217841664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdates.Item Method (Word)
+# CoAuthUpdates.Item method (Word)
 
 Returns an individual  **CoAuthUpdates** object in a collection.
 

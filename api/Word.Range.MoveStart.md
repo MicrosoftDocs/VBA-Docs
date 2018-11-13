@@ -1,5 +1,5 @@
 ---
-title: Range.MoveStart Method (Word)
+title: Range.MoveStart method (Word)
 keywords: vbawd10.chm157155438
 f1_keywords:
 - vbawd10.chm157155438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveStart Method (Word)
+# Range.MoveStart method (Word)
 
 Moves the start position of the specified range.
 

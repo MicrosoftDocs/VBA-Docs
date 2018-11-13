@@ -1,5 +1,5 @@
 ---
-title: Document.PrintOut Method (Word)
+title: Document.PrintOut method (Word)
 keywords: vbawd10.chm158007742
 f1_keywords:
 - vbawd10.chm158007742
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PrintOut Method (Word)
+# Document.PrintOut method (Word)
 
 Prints all or part of the specified document.
 

@@ -1,5 +1,5 @@
 ---
-title: Template.Save Method (Word)
+title: Template.Save method (Word)
 keywords: vbawd10.chm157941861
 f1_keywords:
 - vbawd10.chm157941861
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.Save Method (Word)
+# Template.Save method (Word)
 
 Saves the specified template.
 

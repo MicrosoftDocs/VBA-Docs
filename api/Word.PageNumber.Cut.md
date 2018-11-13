@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Cut Method (Word)
+title: PageNumber.Cut method (Word)
 keywords: vbawd10.chm159842406
 f1_keywords:
 - vbawd10.chm159842406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Cut Method (Word)
+# PageNumber.Cut method (Word)
 
 Removes the specified object from the document and places it on the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousSubdocument Method (Word)
+title: Selection.PreviousSubdocument method (Word)
 keywords: vbawd10.chm158663171
 f1_keywords:
 - vbawd10.chm158663171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PreviousSubdocument Method (Word)
+# Selection.PreviousSubdocument method (Word)
 
 Moves the selection to the previous subdocument.
 

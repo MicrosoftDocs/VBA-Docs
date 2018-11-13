@@ -1,5 +1,5 @@
 ---
-title: Indexes.MarkEntry Method (Word)
+title: Indexes.MarkEntry method (Word)
 keywords: vbawd10.chm159121509
 f1_keywords:
 - vbawd10.chm159121509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.MarkEntry Method (Word)
+# Indexes.MarkEntry method (Word)
 
 Inserts an XE (Index Entry) field after the specified range. The method returns a  **Field** object representing the XE field.
 

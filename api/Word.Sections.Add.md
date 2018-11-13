@@ -1,5 +1,5 @@
 ---
-title: Sections.Add Method (Word)
+title: Sections.Add method (Word)
 keywords: vbawd10.chm156893189
 f1_keywords:
 - vbawd10.chm156893189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.Add Method (Word)
+# Sections.Add method (Word)
 
 Returns a  **Section** object that represents a new section added to a document.
 

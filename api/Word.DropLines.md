@@ -1,5 +1,5 @@
 ---
-title: DropLines Object (Word)
+title: DropLines object (Word)
 keywords: vbawd10.chm1602
 f1_keywords:
 - vbawd10.chm1602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines Object (Word)
+# DropLines object (Word)
 
 Represents the drop lines in a chart group.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.InsertXML Method (Word)
+title: Range.InsertXML method (Word)
 keywords: vbawd10.chm157155744
 f1_keywords:
 - vbawd10.chm157155744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertXML Method (Word)
+# Range.InsertXML method (Word)
 
 Inserts the specified XML into the document at the specified range, replacing any text contained within the range.
 

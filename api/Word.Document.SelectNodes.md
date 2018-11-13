@@ -1,5 +1,5 @@
 ---
-title: Document.SelectNodes Method (Word)
+title: Document.SelectNodes method (Word)
 keywords: vbawd10.chm158007785
 f1_keywords:
 - vbawd10.chm158007785
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectNodes Method (Word)
+# Document.SelectNodes method (Word)
 
 Returns an  **XMLNodes** collection that represents all the nodes that match the XPath parameter in the order in which they appear in the document or range.
 

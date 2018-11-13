@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddPicture Method (Word)
+title: InlineShapes.AddPicture method (Word)
 keywords: vbawd10.chm162070628
 f1_keywords:
 - vbawd10.chm162070628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddPicture Method (Word)
+# InlineShapes.AddPicture method (Word)
 
 Adds a picture to a document. Returns an  **[InlineShape](Word.InlineShape.md)** object that represents the picture.
 

@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException Object (Word)
+title: OtherCorrectionsException object (Word)
 keywords: vbawd10.chm2529
 f1_keywords:
 - vbawd10.chm2529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsException Object (Word)
+# OtherCorrectionsException object (Word)
 
 Represents a single AutoCorrect exception. The  **OtherCorrectionsException** object is a member of the **OtherCorrectionsExceptions** collection.
 

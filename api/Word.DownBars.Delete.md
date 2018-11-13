@@ -1,5 +1,5 @@
 ---
-title: DownBars.Delete Method (Word)
+title: DownBars.Delete method (Word)
 keywords: vbawd10.chm107151477
 f1_keywords:
 - vbawd10.chm107151477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Delete Method (Word)
+# DownBars.Delete method (Word)
 
 Deletes the object.
 

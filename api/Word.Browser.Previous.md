@@ -1,5 +1,5 @@
 ---
-title: Browser.Previous Method (Word)
+title: Browser.Previous method (Word)
 keywords: vbawd10.chm154009702
 f1_keywords:
 - vbawd10.chm154009702
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser.Previous Method (Word)
+# Browser.Previous method (Word)
 
 Moves the selection to the previous item indicated by the browser target. Use the  **Target** property to change the browser target.
 

@@ -1,5 +1,5 @@
 ---
-title: UpBars.Select Method (Word)
+title: UpBars.Select method (Word)
 keywords: vbawd10.chm180945131
 f1_keywords:
 - vbawd10.chm180945131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Select Method (Word)
+# UpBars.Select method (Word)
 
 Selects the object.
 

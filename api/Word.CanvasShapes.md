@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes Object (Word)
+title: CanvasShapes object (Word)
 keywords: vbawd10.chm115
 f1_keywords:
 - vbawd10.chm115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes Object (Word)
+# CanvasShapes object (Word)
 
 Use the  **CanvasItems** property of either a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object to return a **CanvasShapes** collection.
 

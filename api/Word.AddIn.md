@@ -1,5 +1,5 @@
 ---
-title: AddIn Object (Word)
+title: AddIn object (Word)
 keywords: vbawd10.chm2430
 f1_keywords:
 - vbawd10.chm2430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn Object (Word)
+# AddIn object (Word)
 
 Represents a single add-in, either installed or not installed. The  **AddIn** object is a member of the **[AddIns](Word.addins.md)** collection. The **AddIns** collection contains all the add-ins available to Microsoft Word, regardless of whether they are currently loaded. The **AddIns** collection includes global templates or Word add-in libraries (WLLs) displayed in the **Templates and Add-ins** dialog box.
 

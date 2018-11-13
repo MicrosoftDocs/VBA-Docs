@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Move Method (Word)
+title: StyleSheet.Move method (Word)
 keywords: vbawd10.chm166658055
 f1_keywords:
 - vbawd10.chm166658055
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Move Method (Word)
+# StyleSheet.Move method (Word)
 
 Moves a style sheet's order of precedence.
 

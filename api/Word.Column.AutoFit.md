@@ -1,5 +1,5 @@
 ---
-title: Column.AutoFit Method (Word)
+title: Column.AutoFit method (Word)
 keywords: vbawd10.chm156172490
 f1_keywords:
 - vbawd10.chm156172490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.AutoFit Method (Word)
+# Column.AutoFit method (Word)
 
 Changes the width of a table column to accommodate the width of the text without changing the way text wraps in the cells.
 

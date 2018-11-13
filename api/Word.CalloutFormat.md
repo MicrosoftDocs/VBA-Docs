@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (Word)
+title: CalloutFormat object (Word)
 keywords: vbawd10.chm2501
 f1_keywords:
 - vbawd10.chm2501
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat Object (Word)
+# CalloutFormat object (Word)
 
 Contains properties and methods that apply to line callouts.
 

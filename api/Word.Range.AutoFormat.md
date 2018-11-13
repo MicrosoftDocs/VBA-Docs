@@ -1,5 +1,5 @@
 ---
-title: Range.AutoFormat Method (Word)
+title: Range.AutoFormat method (Word)
 keywords: vbawd10.chm157155523
 f1_keywords:
 - vbawd10.chm157155523
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AutoFormat Method (Word)
+# Range.AutoFormat method (Word)
 
 Automatically formats a document. Use the  **Kind** property to specify a document type.
 

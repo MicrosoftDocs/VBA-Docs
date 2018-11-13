@@ -1,5 +1,5 @@
 ---
-title: Documents.Open Method (Word)
+title: Documents.Open method (Word)
 keywords: vbawd10.chm158072851
 f1_keywords:
 - vbawd10.chm158072851
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.Open Method (Word)
+# Documents.Open method (Word)
 
 Opens the specified document and adds it to the  **Documents** collection. Returns a **Document** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Frameset.Delete Method (Word)
+title: Frameset.Delete method (Word)
 keywords: vbawd10.chm165806131
 f1_keywords:
 - vbawd10.chm165806131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.Delete Method (Word)
+# Frameset.Delete method (Word)
 
 Deletes the specified  **Frameset** object.
 

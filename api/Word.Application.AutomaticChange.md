@@ -1,5 +1,5 @@
 ---
-title: Application.AutomaticChange Method (Word)
+title: Application.AutomaticChange method (Word)
 keywords: vbawd10.chm158335306
 f1_keywords:
 - vbawd10.chm158335306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutomaticChange Method (Word)
+# Application.AutomaticChange method (Word)
 
 Performs an  **AutoFormat** action when there is a change suggested by the Office Assistant. If no AutoFormat action is active, this method generates an error.
 

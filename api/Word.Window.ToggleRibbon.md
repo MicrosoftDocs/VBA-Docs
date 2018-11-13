@@ -1,5 +1,5 @@
 ---
-title: Window.ToggleRibbon Method (Word)
+title: Window.ToggleRibbon method (Word)
 keywords: vbawd10.chm157417919
 f1_keywords:
 - vbawd10.chm157417919
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ToggleRibbon Method (Word)
+# Window.ToggleRibbon method (Word)
 
 Shows or hides the ribbon.
 

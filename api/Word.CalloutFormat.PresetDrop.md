@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.PresetDrop Method (Word)
+title: CalloutFormat.PresetDrop method (Word)
 keywords: vbawd10.chm163905549
 f1_keywords:
 - vbawd10.chm163905549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.PresetDrop Method (Word)
+# CalloutFormat.PresetDrop method (Word)
 
 Specifies whether the callout line attaches to the top, bottom, or center of the callout text box or whether it attaches at a point that's a specified distance from the top or bottom of the text box.
 

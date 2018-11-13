@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Outdent Method (Word)
+title: Paragraphs.Outdent method (Word)
 keywords: vbawd10.chm156762446
 f1_keywords:
 - vbawd10.chm156762446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Outdent Method (Word)
+# Paragraphs.Outdent method (Word)
 
 Removes one level of indent for one or more paragraphs.
 

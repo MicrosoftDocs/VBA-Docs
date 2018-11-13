@@ -1,5 +1,5 @@
 ---
-title: Application.KeyboardBidi Method (Word)
+title: Application.KeyboardBidi method (Word)
 keywords: vbawd10.chm158335377
 f1_keywords:
 - vbawd10.chm158335377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.KeyboardBidi Method (Word)
+# Application.KeyboardBidi method (Word)
 
 Sets the keyboard language to a right-to-left language and the text entry direction to right-to-left.
 

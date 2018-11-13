@@ -1,5 +1,5 @@
 ---
-title: OMathMat Object (Word)
+title: OMathMat object (Word)
 keywords: vbawd10.chm2686
 f1_keywords:
 - vbawd10.chm2686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat Object (Word)
+# OMathMat object (Word)
 
 Represents an equation matrix.
 

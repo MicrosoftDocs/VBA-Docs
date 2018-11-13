@@ -1,5 +1,5 @@
 ---
-title: Walls Object (Word)
+title: Walls object (Word)
 keywords: vbawd10.chm384
 f1_keywords:
 - vbawd10.chm384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls Object (Word)
+# Walls object (Word)
 
 Represents the walls of a 3-D chart. 
 

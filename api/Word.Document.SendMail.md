@@ -1,5 +1,5 @@
 ---
-title: Document.SendMail Method (Word)
+title: Document.SendMail method (Word)
 keywords: vbawd10.chm158007406
 f1_keywords:
 - vbawd10.chm158007406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SendMail Method (Word)
+# Document.SendMail method (Word)
 
 Opens a message window for sending the specified document through Microsoft Exchange.
 

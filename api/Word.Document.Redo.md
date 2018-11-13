@@ -1,5 +1,5 @@
 ---
-title: Document.Redo Method (Word)
+title: Document.Redo method (Word)
 keywords: vbawd10.chm158007413
 f1_keywords:
 - vbawd10.chm158007413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Redo Method (Word)
+# Document.Redo method (Word)
 
 Redoes the last action that was undone (reverses the  **Undo** method). Returns **True** if the actions were redone successfully.
 

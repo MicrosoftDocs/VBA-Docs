@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Resume Method (Word)
+title: Broadcast.Resume method (Word)
 keywords: vbawd10.chm36438119
 f1_keywords:
 - vbawd10.chm36438119
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.Resume Method (Word)
+# Broadcast.Resume method (Word)
 
 Resumes the specified broadcast.
 

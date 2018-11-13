@@ -1,5 +1,5 @@
 ---
-title: Range.MoveEndUntil Method (Word)
+title: Range.MoveEndUntil method (Word)
 keywords: vbawd10.chm157155445
 f1_keywords:
 - vbawd10.chm157155445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveEndUntil Method (Word)
+# Range.MoveEndUntil method (Word)
 
 Moves the end position of the specified range until any of the specified characters are found in the document. If the movement is forward in the document, the range is expanded.
 

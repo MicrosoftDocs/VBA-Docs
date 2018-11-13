@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddHorizontalLineStandard Method (Word)
+title: InlineShapes.AddHorizontalLineStandard method (Word)
 keywords: vbawd10.chm162070633
 f1_keywords:
 - vbawd10.chm162070633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddHorizontalLineStandard Method (Word)
+# InlineShapes.AddHorizontalLineStandard method (Word)
 
 Adds a horizontal line to the current document.
 

@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference.Reload Method (Word)
+title: XMLSchemaReference.Reload method (Word)
 keywords: vbawd10.chm32505957
 f1_keywords:
 - vbawd10.chm32505957
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference.Reload Method (Word)
+# XMLSchemaReference.Reload method (Word)
 
 Reloads the XML schemas that are referenced in a document.
 

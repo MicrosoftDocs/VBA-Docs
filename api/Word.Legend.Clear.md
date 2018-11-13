@@ -1,5 +1,5 @@
 ---
-title: Legend.Clear Method (Word)
+title: Legend.Clear method (Word)
 keywords: vbawd10.chm147193967
 f1_keywords:
 - vbawd10.chm147193967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Clear Method (Word)
+# Legend.Clear method (Word)
 
 Clears the entire object.
 

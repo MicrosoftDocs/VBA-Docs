@@ -1,5 +1,5 @@
 ---
-title: XMLNamespaces.Add Method (Word)
+title: XMLNamespaces.Add method (Word)
 keywords: vbawd10.chm248971365
 f1_keywords:
 - vbawd10.chm248971365
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespaces.Add Method (Word)
+# XMLNamespaces.Add method (Word)
 
  Returns an **XMLNamespace** object that represents a schema that is added to the Schema Library and made available to users in Microsoft Word.
 

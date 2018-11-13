@@ -1,5 +1,5 @@
 ---
-title: OMathScrPre Object (Word)
+title: OMathScrPre object (Word)
 keywords: vbawd10.chm3086
 f1_keywords:
 - vbawd10.chm3086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrPre Object (Word)
+# OMathScrPre object (Word)
 
 Represents an equation that contains a superscript or subscript to the left of the base.
 

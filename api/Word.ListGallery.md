@@ -1,5 +1,5 @@
 ---
-title: ListGallery Object (Word)
+title: ListGallery object (Word)
 keywords: vbawd10.chm2452
 f1_keywords:
 - vbawd10.chm2452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery Object (Word)
+# ListGallery object (Word)
 
 Represents a single gallery of list formats. The  **ListGallery** object is a member of the **ListGalleries** collection.
 

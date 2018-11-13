@@ -1,5 +1,5 @@
 ---
-title: Selection.RtlRun Method (Word)
+title: Selection.RtlRun method (Word)
 keywords: vbawd10.chm158663256
 f1_keywords:
 - vbawd10.chm158663256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.RtlRun Method (Word)
+# Selection.RtlRun method (Word)
 
 Sets the reading order and alignment of the specified run to right-to-left.
 

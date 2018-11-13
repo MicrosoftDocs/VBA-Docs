@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBar Method (Word)
+title: Series.ErrorBar method (Word)
 keywords: vbawd10.chm123732120
 f1_keywords:
 - vbawd10.chm123732120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ErrorBar Method (Word)
+# Series.ErrorBar method (Word)
 
 Applies error bars to the series.
 

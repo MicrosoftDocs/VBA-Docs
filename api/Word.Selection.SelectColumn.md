@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectColumn Method (Word)
+title: Selection.SelectColumn method (Word)
 keywords: vbawd10.chm158663172
 f1_keywords:
 - vbawd10.chm158663172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectColumn Method (Word)
+# Selection.SelectColumn method (Word)
 
 Selects the column that contains the insertion point, or selects all columns that contain the selection.
 

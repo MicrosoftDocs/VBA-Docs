@@ -1,5 +1,5 @@
 ---
-title: Document.PresentIt Method (Word)
+title: Document.PresentIt method (Word)
 keywords: vbawd10.chm158007551
 f1_keywords:
 - vbawd10.chm158007551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PresentIt Method (Word)
+# Document.PresentIt method (Word)
 
 Opens PowerPoint with the specified Word document loaded.
 

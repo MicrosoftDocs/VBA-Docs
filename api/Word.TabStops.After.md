@@ -1,5 +1,5 @@
 ---
-title: TabStops.After Method (Word)
+title: TabStops.After method (Word)
 keywords: vbawd10.chm156565607
 f1_keywords:
 - vbawd10.chm156565607
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.After Method (Word)
+# TabStops.After method (Word)
 
 Returns the next  **TabStop** object to the right of Position.
 

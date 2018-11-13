@@ -1,5 +1,5 @@
 ---
-title: Global.Help Method (Word)
+title: Global.Help method (Word)
 keywords: vbawd10.chm163119433
 f1_keywords:
 - vbawd10.chm163119433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Help Method (Word)
+# Global.Help method (Word)
 
 Displays on-line Help information.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunctions Object (Word)
+title: OMathFunctions object (Word)
 keywords: vbawd10.chm676
 f1_keywords:
 - vbawd10.chm676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunctions Object (Word)
+# OMathFunctions object (Word)
 
 Represents a collection of functions or structures that Microsoft Word supports, such as fractions, integrals, sums, and radicals.
 

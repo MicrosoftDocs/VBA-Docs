@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Add Method (Word)
+title: CaptionLabels.Add method (Word)
 keywords: vbawd10.chm158859364
 f1_keywords:
 - vbawd10.chm158859364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels.Add Method (Word)
+# CaptionLabels.Add method (Word)
 
 Returns a  **CaptionLabel** object that represents a custom caption label.
 

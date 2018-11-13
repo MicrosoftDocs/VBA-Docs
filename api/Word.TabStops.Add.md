@@ -1,5 +1,5 @@
 ---
-title: TabStops.Add Method (Word)
+title: TabStops.Add method (Word)
 keywords: vbawd10.chm156565604
 f1_keywords:
 - vbawd10.chm156565604
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Add Method (Word)
+# TabStops.Add method (Word)
 
 Returns a  **TabStop** object that represents a custom tab stop added to a document.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.InsertAutoText Method (Word)
+title: Range.InsertAutoText method (Word)
 keywords: vbawd10.chm157155511
 f1_keywords:
 - vbawd10.chm157155511
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertAutoText Method (Word)
+# Range.InsertAutoText method (Word)
 
 Attempts to match the text in the specified range or the text surrounding the range with an existing AutoText entry name.
 

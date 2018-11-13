@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields.Item Method (Word)
+title: MappedDataFields.Item method (Word)
 keywords: vbawd10.chm135528448
 f1_keywords:
 - vbawd10.chm135528448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields.Item Method (Word)
+# MappedDataFields.Item method (Word)
 
 Returns an individual  **MappedDataField** object.
 

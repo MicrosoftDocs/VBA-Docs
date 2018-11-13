@@ -1,5 +1,5 @@
 ---
-title: StyleSheets Object (Word)
+title: StyleSheets object (Word)
 keywords: vbawd10.chm3198
 f1_keywords:
 - vbawd10.chm3198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheets Object (Word)
+# StyleSheets object (Word)
 
 A collection of  **StyleSheet** objects that represents the cascading style sheets attached to a document. The **StyleSheets** collection includes all cascading style sheets displayed in the **Linked CSS Style Sheets** dialog box.
 

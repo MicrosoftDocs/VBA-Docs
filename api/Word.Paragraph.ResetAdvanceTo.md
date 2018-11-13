@@ -1,5 +1,5 @@
 ---
-title: Paragraph.ResetAdvanceTo Method (Word)
+title: Paragraph.ResetAdvanceTo method (Word)
 keywords: vbawd10.chm156696913
 f1_keywords:
 - vbawd10.chm156696913
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.ResetAdvanceTo Method (Word)
+# Paragraph.ResetAdvanceTo method (Word)
 
 Resets a paragraph that uses custom list levels to the original level settings.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathLimLow.ToLimUpp Method (Word)
+title: OMathLimLow.ToLimUpp method (Word)
 keywords: vbawd10.chm91619529
 f1_keywords:
 - vbawd10.chm91619529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimLow.ToLimUpp Method (Word)
+# OMathLimLow.ToLimUpp method (Word)
 
 Converts an equation from the lower limit to the upper limit. .
 

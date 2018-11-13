@@ -1,5 +1,5 @@
 ---
-title: OMathMatCols Object (Word)
+title: OMathMatCols object (Word)
 keywords: vbawd10.chm3996
 f1_keywords:
 - vbawd10.chm3996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCols Object (Word)
+# OMathMatCols object (Word)
 
 Represents a collection of matrix columns. Use the  **OMathMatCol** object to access individual members of the collection.
 

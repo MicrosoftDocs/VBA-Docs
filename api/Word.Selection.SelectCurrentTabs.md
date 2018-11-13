@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentTabs Method (Word)
+title: Selection.SelectCurrentTabs method (Word)
 keywords: vbawd10.chm158663177
 f1_keywords:
 - vbawd10.chm158663177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentTabs Method (Word)
+# Selection.SelectCurrentTabs method (Word)
 
 Extends the selection forward until a paragraph with different tab stops is encountered.
 

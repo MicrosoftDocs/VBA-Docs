@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminate Method (Word)
+title: Application.DDETerminate method (Word)
 keywords: vbawd10.chm158335290
 f1_keywords:
 - vbawd10.chm158335290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDETerminate Method (Word)
+# Application.DDETerminate method (Word)
 
 Closes the specified dynamic data exchange (DDE) channel to another application.
 

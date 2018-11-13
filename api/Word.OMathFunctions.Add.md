@@ -1,5 +1,5 @@
 ---
-title: OMathFunctions.Add Method (Word)
+title: OMathFunctions.Add method (Word)
 keywords: vbawd10.chm44302440
 f1_keywords:
 - vbawd10.chm44302440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunctions.Add Method (Word)
+# OMathFunctions.Add method (Word)
 
 Inserts a new structure, such as a fraction, into an equation at the specified position and returns an  **OMathFunction** object that represents the structure.
 

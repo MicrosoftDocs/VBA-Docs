@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Item Method (Word)
+title: Bookmarks.Item method (Word)
 ms.prod: word
 api_name:
 - Word.Bookmarks.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.Item Method (Word)
+# Bookmarks.Item method (Word)
 
 Returns an individual  **Bookmark** object in a collection.
 

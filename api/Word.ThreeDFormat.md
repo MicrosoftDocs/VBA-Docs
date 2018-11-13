@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (Word)
+title: ThreeDFormat object (Word)
 keywords: vbawd10.chm2512
 f1_keywords:
 - vbawd10.chm2512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat Object (Word)
+# ThreeDFormat object (Word)
 
 Represents a shape's three-dimensional formatting.
 

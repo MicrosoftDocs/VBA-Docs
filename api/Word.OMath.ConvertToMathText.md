@@ -1,5 +1,5 @@
 ---
-title: OMath.ConvertToMathText Method (Word)
+title: OMath.ConvertToMathText method (Word)
 keywords: vbawd10.chm176357579
 f1_keywords:
 - vbawd10.chm176357579
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ConvertToMathText Method (Word)
+# OMath.ConvertToMathText method (Word)
 
 Converts an equation to math text.
 

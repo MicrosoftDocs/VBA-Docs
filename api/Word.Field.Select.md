@@ -1,5 +1,5 @@
 ---
-title: Field.Select Method (Word)
+title: Field.Select method (Word)
 keywords: vbawd10.chm154140671
 f1_keywords:
 - vbawd10.chm154140671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Select Method (Word)
+# Field.Select method (Word)
 
 Selects the specified field.
 

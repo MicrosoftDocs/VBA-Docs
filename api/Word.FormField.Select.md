@@ -1,5 +1,5 @@
 ---
-title: FormField.Select Method (Word)
+title: FormField.Select method (Word)
 keywords: vbawd10.chm153681919
 f1_keywords:
 - vbawd10.chm153681919
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Select Method (Word)
+# FormField.Select method (Word)
 
 Selects the specified object.
 

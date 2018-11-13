@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsException Object (Word)
+title: TwoInitialCapsException object (Word)
 keywords: vbawd10.chm2371
 f1_keywords:
 - vbawd10.chm2371
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsException Object (Word)
+# TwoInitialCapsException object (Word)
 
 Represents a single initial-capital AutoCorrect exception. The  **TwoInitialCapsException** object is a member of the **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection. The **TwoInitialCapsExceptions** collection includes all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 

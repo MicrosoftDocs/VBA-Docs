@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.AddToFavorites Method (Word)
+title: Hyperlink.AddToFavorites method (Word)
 keywords: vbawd10.chm161284201
 f1_keywords:
 - vbawd10.chm161284201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.AddToFavorites Method (Word)
+# Hyperlink.AddToFavorites method (Word)
 
 Creates a shortcut to the document or hyperlink and adds it to the Favorites folder.
 

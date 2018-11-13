@@ -1,5 +1,5 @@
 ---
-title: Global.PointsToLines Method (Word)
+title: Global.PointsToLines method (Word)
 keywords: vbawd10.chm163119488
 f1_keywords:
 - vbawd10.chm163119488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.PointsToLines Method (Word)
+# Global.PointsToLines method (Word)
 
 Converts a measurement from points to lines (1 line = 12 points). Returns the converted measurement as a  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: Category Object (Word)
+title: Category object (Word)
 keywords: vbawd10.chm2910
 f1_keywords:
 - vbawd10.chm2910
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category Object (Word)
+# Category object (Word)
 
 Represents an individual category of a building block type.
 

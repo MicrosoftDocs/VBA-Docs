@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.Delete Method (Word)
+title: TableOfContents.Delete method (Word)
 keywords: vbawd10.chm152240228
 f1_keywords:
 - vbawd10.chm152240228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.Delete Method (Word)
+# TableOfContents.Delete method (Word)
 
 Deletes the specified table of contents.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (Word)
+title: Chart.SetSourceData method (Word)
 keywords: vbawd10.chm79365509
 f1_keywords:
 - vbawd10.chm79365509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetSourceData Method (Word)
+# Chart.SetSourceData method (Word)
 
 Sets the source data range for the chart.
 

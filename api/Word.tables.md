@@ -1,5 +1,5 @@
 ---
-title: Tables Object (Word)
+title: Tables object (Word)
 keywords: vbawd10.chm2381
 f1_keywords:
 - vbawd10.chm2381
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables Object (Word)
+# Tables object (Word)
 
 A collection of  **[Table](Word.Table.md)** objects that represent the tables in a selection, range, or document.
 

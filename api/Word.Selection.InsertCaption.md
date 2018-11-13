@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertCaption Method (Word)
+title: Selection.InsertCaption method (Word)
 keywords: vbawd10.chm158663073
 f1_keywords:
 - vbawd10.chm158663073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertCaption Method (Word)
+# Selection.InsertCaption method (Word)
 
 Inserts a caption immediately preceding or following the specified selection.
 

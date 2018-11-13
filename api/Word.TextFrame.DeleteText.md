@@ -1,5 +1,5 @@
 ---
-title: TextFrame.DeleteText Method (Word)
+title: TextFrame.DeleteText method (Word)
 keywords: vbawd10.chm162665370
 f1_keywords:
 - vbawd10.chm162665370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.DeleteText Method (Word)
+# TextFrame.DeleteText method (Word)
 
 Deletes the text from a text frame and all the associated properties of the text, including font attributes.
 

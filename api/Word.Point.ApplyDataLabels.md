@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyDataLabels Method (Word)
+title: Point.ApplyDataLabels method (Word)
 keywords: vbawd10.chm262145922
 f1_keywords:
 - vbawd10.chm262145922
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyDataLabels Method (Word)
+# Point.ApplyDataLabels method (Word)
 
 Applies data labels to a point.
 

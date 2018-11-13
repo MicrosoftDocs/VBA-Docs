@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (Word)
+title: FillFormat.OneColorGradient method (Word)
 keywords: vbawd10.chm164102155
 f1_keywords:
 - vbawd10.chm164102155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.OneColorGradient Method (Word)
+# FillFormat.OneColorGradient method (Word)
 
 Sets the specified fill to a one-color gradient.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Copy Method (Word)
+title: ContentControl.Copy method (Word)
 keywords: vbawd10.chm266534918
 f1_keywords:
 - vbawd10.chm266534918
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Copy Method (Word)
+# ContentControl.Copy method (Word)
 
 Copies the content control from the active document to the Clipboard.
 

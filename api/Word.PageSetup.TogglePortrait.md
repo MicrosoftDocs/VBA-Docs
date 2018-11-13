@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TogglePortrait Method (Word)
+title: PageSetup.TogglePortrait method (Word)
 keywords: vbawd10.chm158400713
 f1_keywords:
 - vbawd10.chm158400713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.TogglePortrait Method (Word)
+# PageSetup.TogglePortrait method (Word)
 
 Switches between portrait and landscape page orientations for a document or section.
 

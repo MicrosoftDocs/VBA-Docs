@@ -1,5 +1,5 @@
 ---
-title: Document.ViewCode Method (Word)
+title: Document.ViewCode method (Word)
 keywords: vbawd10.chm158007445
 f1_keywords:
 - vbawd10.chm158007445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ViewCode Method (Word)
+# Document.ViewCode method (Word)
 
 Displays the code window for the selected Microsoft ActiveX control in the specified document.
 

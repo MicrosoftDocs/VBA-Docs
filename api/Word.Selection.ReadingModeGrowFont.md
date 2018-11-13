@@ -1,5 +1,5 @@
 ---
-title: Selection.ReadingModeGrowFont Method (Word)
+title: Selection.ReadingModeGrowFont method (Word)
 keywords: vbawd10.chm158663693
 f1_keywords:
 - vbawd10.chm158663693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ReadingModeGrowFont Method (Word)
+# Selection.ReadingModeGrowFont method (Word)
 
 Increases the size of the displayed text one point size when the document is displayed in Reading mode.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Paste Method (Word)
+title: Point.Paste method (Word)
 keywords: vbawd10.chm262144211
 f1_keywords:
 - vbawd10.chm262144211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Paste Method (Word)
+# Point.Paste method (Word)
 
 Pastes a picture from the Clipboard as the marker on the selected point.
 

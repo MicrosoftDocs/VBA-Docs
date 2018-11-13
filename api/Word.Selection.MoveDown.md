@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveDown Method (Word)
+title: Selection.MoveDown method (Word)
 keywords: vbawd10.chm158663159
 f1_keywords:
 - vbawd10.chm158663159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveDown Method (Word)
+# Selection.MoveDown method (Word)
 
 Moves the selection down and returns the number of units it has been moved.
 

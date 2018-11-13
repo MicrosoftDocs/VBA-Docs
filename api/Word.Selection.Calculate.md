@@ -1,5 +1,5 @@
 ---
-title: Selection.Calculate Method (Word)
+title: Selection.Calculate method (Word)
 keywords: vbawd10.chm158662828
 f1_keywords:
 - vbawd10.chm158662828
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Calculate Method (Word)
+# Selection.Calculate method (Word)
 
 Calculates a mathematical expression within a selection. Returns the result as a  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditMainDocument Method (Word)
+title: MailMerge.EditMainDocument method (Word)
 keywords: vbawd10.chm153092205
 f1_keywords:
 - vbawd10.chm153092205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.EditMainDocument Method (Word)
+# MailMerge.EditMainDocument method (Word)
 
 Activates the mail merge main document associated with the specified header source or data source document.
 

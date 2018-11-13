@@ -1,5 +1,5 @@
 ---
-title: Window.SetFocus Method (Word)
+title: Window.SetFocus method (Word)
 keywords: vbawd10.chm157417581
 f1_keywords:
 - vbawd10.chm157417581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SetFocus Method (Word)
+# Window.SetFocus method (Word)
 
 Sets the focus of the specified document window to the body of an e-mail message.
 

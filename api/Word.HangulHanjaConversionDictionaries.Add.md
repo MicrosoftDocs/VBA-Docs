@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.Add Method (Word)
+title: HangulHanjaConversionDictionaries.Add method (Word)
 keywords: vbawd10.chm165675109
 f1_keywords:
 - vbawd10.chm165675109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.Add Method (Word)
+# HangulHanjaConversionDictionaries.Add method (Word)
 
 Returns a  **Dictionary** object that represents a new custom spelling or conversion dictionary added to the collection of active custom spelling or conversion dictionaries.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveStartUntil Method (Word)
+title: Selection.MoveStartUntil method (Word)
 keywords: vbawd10.chm158662772
 f1_keywords:
 - vbawd10.chm158662772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveStartUntil Method (Word)
+# Selection.MoveStartUntil method (Word)
 
 Moves the start position of the specified selection until one of the specified characters is found in the document. If the movement is backward through the document, the selection is expanded.
 

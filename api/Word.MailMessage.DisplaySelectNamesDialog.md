@@ -1,5 +1,5 @@
 ---
-title: MailMessage.DisplaySelectNamesDialog Method (Word)
+title: MailMessage.DisplaySelectNamesDialog method (Word)
 keywords: vbawd10.chm163184978
 f1_keywords:
 - vbawd10.chm163184978
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.DisplaySelectNamesDialog Method (Word)
+# MailMessage.DisplaySelectNamesDialog method (Word)
 
 Displays the  **Select Names** dialog box, in which the user can add addresses to the **To**,  **Cc**, and  **Bcc** lines in the active, unsent e-mail message.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartData Object (Word)
+title: ChartData object (Word)
 keywords: vbawd10.chm2905
 f1_keywords:
 - vbawd10.chm2905
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData Object (Word)
+# ChartData object (Word)
 
 Represents access to the linked or embedded data associated with a chart.
 

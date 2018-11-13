@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions Object (Word)
+title: HTMLDivisions object (Word)
 keywords: vbawd10.chm2536
 f1_keywords:
 - vbawd10.chm2536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions Object (Word)
+# HTMLDivisions object (Word)
 
 A collection of  **HTMLDivision** objects that represents the HTML DIV elements that exist in a Web document.
 

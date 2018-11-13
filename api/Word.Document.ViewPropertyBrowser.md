@@ -1,5 +1,5 @@
 ---
-title: Document.ViewPropertyBrowser Method (Word)
+title: Document.ViewPropertyBrowser method (Word)
 keywords: vbawd10.chm158007446
 f1_keywords:
 - vbawd10.chm158007446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ViewPropertyBrowser Method (Word)
+# Document.ViewPropertyBrowser method (Word)
 
 Displays the property window for the selected Microsoft ActiveX control in the specified document.
 

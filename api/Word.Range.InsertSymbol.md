@@ -1,5 +1,5 @@
 ---
-title: Range.InsertSymbol Method (Word)
+title: Range.InsertSymbol method (Word)
 keywords: vbawd10.chm157155492
 f1_keywords:
 - vbawd10.chm157155492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertSymbol Method (Word)
+# Range.InsertSymbol method (Word)
 
 Inserts a symbol in place of the specified range.
 

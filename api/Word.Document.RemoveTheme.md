@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveTheme Method (Word)
+title: Document.RemoveTheme method (Word)
 keywords: vbawd10.chm158007619
 f1_keywords:
 - vbawd10.chm158007619
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemoveTheme Method (Word)
+# Document.RemoveTheme method (Word)
 
 Removes the active theme from the current document.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Select Method (Word)
+title: DataLabel.Select method (Word)
 keywords: vbawd10.chm233898219
 f1_keywords:
 - vbawd10.chm233898219
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Select Method (Word)
+# DataLabel.Select method (Word)
 
 Selects the object.
 

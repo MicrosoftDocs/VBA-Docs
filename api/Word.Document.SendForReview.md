@@ -1,5 +1,5 @@
 ---
-title: Document.SendForReview Method (Word)
+title: Document.SendForReview method (Word)
 keywords: vbawd10.chm158007649
 f1_keywords:
 - vbawd10.chm158007649
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SendForReview Method (Word)
+# Document.SendForReview method (Word)
 
 Sends a document in an e-mail message for review by the specified recipients.
 

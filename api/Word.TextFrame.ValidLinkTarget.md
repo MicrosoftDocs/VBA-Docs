@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ValidLinkTarget Method (Word)
+title: TextFrame.ValidLinkTarget method (Word)
 keywords: vbawd10.chm162665358
 f1_keywords:
 - vbawd10.chm162665358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.ValidLinkTarget Method (Word)
+# TextFrame.ValidLinkTarget method (Word)
 
 Determines whether the text frame of one shape can be linked to the text frame of another shape. .
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Next Method (Word)
+title: Paragraph.Next method (Word)
 keywords: vbawd10.chm156696900
 f1_keywords:
 - vbawd10.chm156696900
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Next Method (Word)
+# Paragraph.Next method (Word)
 
 Returns a  **Paragraph** object that represents the next paragraph.
 

@@ -1,5 +1,5 @@
 ---
-title: Research.SetLanguagePair Method (Word)
+title: Research.SetLanguagePair method (Word)
 keywords: vbawd10.chm201654773
 f1_keywords:
 - vbawd10.chm201654773
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.SetLanguagePair Method (Word)
+# Research.SetLanguagePair method (Word)
 
 Sets the languages for the translation service.
 

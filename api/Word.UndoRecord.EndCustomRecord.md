@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.EndCustomRecord Method (Word)
+title: UndoRecord.EndCustomRecord method (Word)
 keywords: vbawd10.chm56098818
 f1_keywords:
 - vbawd10.chm56098818
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.EndCustomRecord Method (Word)
+# UndoRecord.EndCustomRecord method (Word)
 
 Completes the creation of a custom undo record.
 

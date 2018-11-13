@@ -1,5 +1,5 @@
 ---
-title: UndoRecord Object (Word)
+title: UndoRecord object (Word)
 keywords: vbawd10.chm856
 f1_keywords:
 - vbawd10.chm856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord Object (Word)
+# UndoRecord object (Word)
 
 Provides an entry point into the undo stack.
 

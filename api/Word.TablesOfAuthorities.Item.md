@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.Item Method (Word)
+title: TablesOfAuthorities.Item method (Word)
 keywords: vbawd10.chm152174592
 f1_keywords:
 - vbawd10.chm152174592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.Item Method (Word)
+# TablesOfAuthorities.Item method (Word)
 
 Returns an individual  **TableOfAuthorities** object in a collection.
 

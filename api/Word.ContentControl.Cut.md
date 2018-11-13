@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Cut Method (Word)
+title: ContentControl.Cut method (Word)
 keywords: vbawd10.chm266534919
 f1_keywords:
 - vbawd10.chm266534919
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Cut Method (Word)
+# ContentControl.Cut method (Word)
 
 Removes the content control from the active document and moves the content control to the Clipboard.
 

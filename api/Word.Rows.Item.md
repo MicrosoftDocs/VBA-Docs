@@ -1,5 +1,5 @@
 ---
-title: Rows.Item Method (Word)
+title: Rows.Item method (Word)
 keywords: vbawd10.chm155975680
 f1_keywords:
 - vbawd10.chm155975680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Item Method (Word)
+# Rows.Item method (Word)
 
 Returns an individual  **Row** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DoVerb Method (Word)
+title: OLEFormat.DoVerb method (Word)
 keywords: vbawd10.chm154337389
 f1_keywords:
 - vbawd10.chm154337389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.DoVerb Method (Word)
+# OLEFormat.DoVerb method (Word)
 
 Requests that an OLE object perform one of its available verbs ? the actions an OLE object takes to activate its contents.
 

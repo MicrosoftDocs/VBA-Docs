@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.Validate Method (Word)
+title: XMLSchemaReferences.Validate method (Word)
 keywords: vbawd10.chm116129892
 f1_keywords:
 - vbawd10.chm116129892
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.Validate Method (Word)
+# XMLSchemaReferences.Validate method (Word)
 
 Validates all the XML schemas that are attached to a document.
 

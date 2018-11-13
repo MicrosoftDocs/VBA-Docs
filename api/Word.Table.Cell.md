@@ -1,5 +1,5 @@
 ---
-title: Table.Cell Method (Word)
+title: Table.Cell method (Word)
 keywords: vbawd10.chm156303377
 f1_keywords:
 - vbawd10.chm156303377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Cell Method (Word)
+# Table.Cell method (Word)
 
 Returns a  **Cell** object that represents a cell in a table.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Word)
+title: Hyperlink object (Word)
 keywords: vbawd10.chm2461
 f1_keywords:
 - vbawd10.chm2461
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink Object (Word)
+# Hyperlink object (Word)
 
 Represents a hyperlink. The  **Hyperlink** object is a member of the **Hyperlinks** collection.
 

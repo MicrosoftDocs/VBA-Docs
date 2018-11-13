@@ -1,5 +1,5 @@
 ---
-title: Sections Object (Word)
+title: Sections object (Word)
 keywords: vbawd10.chm2394
 f1_keywords:
 - vbawd10.chm2394
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections Object (Word)
+# Sections object (Word)
 
 A collection of  **Section** objects in a selection, range, or document.
 

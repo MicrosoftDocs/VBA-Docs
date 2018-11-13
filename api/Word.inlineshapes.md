@@ -1,12 +1,12 @@
 ---
-title: InlineShapes Object (Word)
+title: InlineShapes object (Word)
 ms.prod: word
 ms.assetid: 88c632b2-80de-c96a-8879-a98461b38bd0
 ms.date: 06/08/2017
 ---
 
 
-# InlineShapes Object (Word)
+# InlineShapes object (Word)
 
 A collection of  **InlineShape** objects that represent all the inline shapes in a document, range, or selection.
 

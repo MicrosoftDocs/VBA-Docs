@@ -1,5 +1,5 @@
 ---
-title: TableStyle Object (Word)
+title: TableStyle object (Word)
 keywords: vbawd10.chm3735
 f1_keywords:
 - vbawd10.chm3735
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle Object (Word)
+# TableStyle object (Word)
 
 Represents a single style that can be applied to a table.
 

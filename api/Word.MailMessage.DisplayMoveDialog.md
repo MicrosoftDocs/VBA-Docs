@@ -1,5 +1,5 @@
 ---
-title: MailMessage.DisplayMoveDialog Method (Word)
+title: MailMessage.DisplayMoveDialog method (Word)
 keywords: vbawd10.chm163184976
 f1_keywords:
 - vbawd10.chm163184976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.DisplayMoveDialog Method (Word)
+# MailMessage.DisplayMoveDialog method (Word)
 
 Displays the  **Move** dialog box, in which the user can specify a new location for the active e-mail message in an available message store.
 

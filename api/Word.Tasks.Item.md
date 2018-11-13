@@ -1,5 +1,5 @@
 ---
-title: Tasks.Item Method (Word)
+title: Tasks.Item method (Word)
 keywords: vbawd10.chm159580160
 f1_keywords:
 - vbawd10.chm159580160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks.Item Method (Word)
+# Tasks.Item method (Word)
 
 Returns an individual  **Task** object in a collection.
 

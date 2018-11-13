@@ -1,5 +1,5 @@
 ---
-title: RecentFile Object (Word)
+title: RecentFile object (Word)
 keywords: vbawd10.chm2404
 f1_keywords:
 - vbawd10.chm2404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile Object (Word)
+# RecentFile object (Word)
 
 Represents a recently used file. The  **RecentFile** object is a member of the **[RecentFiles](Word.recentfiles.md)** collection.
 

@@ -15,6 +15,6 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HeaderFooter.Range property (Word)](http://msdn.microsoft.com/library/254da7c7-d553-a0f5-7f56-85bbdf9990ef%28Office.15%29.aspx)
 
-[Rectangles.Item Method (Word)](http://msdn.microsoft.com/library/99cd8fa9-ce3b-1073-1d79-eff20b93055e%28Office.15%29.aspx)
+[Rectangles.Item method (Word)](http://msdn.microsoft.com/library/99cd8fa9-ce3b-1073-1d79-eff20b93055e%28Office.15%29.aspx)
 
 

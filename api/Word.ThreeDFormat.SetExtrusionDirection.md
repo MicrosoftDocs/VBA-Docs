@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Word)
+title: ThreeDFormat.SetExtrusionDirection method (Word)
 keywords: vbawd10.chm164626446
 f1_keywords:
 - vbawd10.chm164626446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Word)
+# ThreeDFormat.SetExtrusionDirection method (Word)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 

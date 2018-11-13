@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Delete Method (Word)
+title: StyleSheet.Delete method (Word)
 keywords: vbawd10.chm166658056
 f1_keywords:
 - vbawd10.chm166658056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Delete Method (Word)
+# StyleSheet.Delete method (Word)
 
 Deletes the specified cascading style sheet.
 

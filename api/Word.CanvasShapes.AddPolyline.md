@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddPolyline Method (Word)
+title: CanvasShapes.AddPolyline method (Word)
 keywords: vbawd10.chm7536656
 f1_keywords:
 - vbawd10.chm7536656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddPolyline Method (Word)
+# CanvasShapes.AddPolyline method (Word)
 
 Adds an open or closed polygon to a drawing canvas. Returns a  **Shape** object that represents the polygon.
 

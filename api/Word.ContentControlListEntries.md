@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries Object (Word)
+title: ContentControlListEntries object (Word)
 keywords: vbawd10.chm3524
 f1_keywords:
 - vbawd10.chm3524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries Object (Word)
+# ContentControlListEntries object (Word)
 
 The  **ContentControlListEntries** collection contains **ContentControlListEntry** objects that represent the items in a drop-down list or combo box content control.
 

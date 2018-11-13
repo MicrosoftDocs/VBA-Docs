@@ -1,5 +1,5 @@
 ---
-title: OMathAcc Object (Word)
+title: OMathAcc object (Word)
 keywords: vbawd10.chm3589
 f1_keywords:
 - vbawd10.chm3589
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAcc Object (Word)
+# OMathAcc object (Word)
 
 Represents an equation that has an accent mark above the base.
 

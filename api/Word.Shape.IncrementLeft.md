@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementLeft Method (Word)
+title: Shape.IncrementLeft method (Word)
 keywords: vbawd10.chm161480718
 f1_keywords:
 - vbawd10.chm161480718
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.IncrementLeft Method (Word)
+# Shape.IncrementLeft method (Word)
 
 Moves the specified shape horizontally by the specified number of points.
 

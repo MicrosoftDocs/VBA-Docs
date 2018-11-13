@@ -1,5 +1,5 @@
 ---
-title: Editors.Add Method (Word)
+title: Editors.Add method (Word)
 keywords: vbawd10.chm9175541
 f1_keywords:
 - vbawd10.chm9175541
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors.Add Method (Word)
+# Editors.Add method (Word)
 
 Returns an  **Editor** object that represents a new permission for a specified user to modify a range or selection within a document. .
 

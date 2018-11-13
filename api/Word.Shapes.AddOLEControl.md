@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEControl Method (Word)
+title: Shapes.AddOLEControl method (Word)
 keywords: vbawd10.chm161415270
 f1_keywords:
 - vbawd10.chm161415270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddOLEControl Method (Word)
+# Shapes.AddOLEControl method (Word)
 
 Creates an ActiveX control (formerly known as an OLE control). Returns the  **InlineShape** object that represents the new ActiveX control.
 

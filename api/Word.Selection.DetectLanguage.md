@@ -1,5 +1,5 @@
 ---
-title: Selection.DetectLanguage Method (Word)
+title: Selection.DetectLanguage method (Word)
 keywords: vbawd10.chm158663191
 f1_keywords:
 - vbawd10.chm158663191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.DetectLanguage Method (Word)
+# Selection.DetectLanguage method (Word)
 
 Analyzes the specified text to determine the language that it is written in.
 

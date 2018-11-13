@@ -1,5 +1,5 @@
 ---
-title: XMLNamespaces.Item Method (Word)
+title: XMLNamespaces.Item method (Word)
 keywords: vbawd10.chm248971264
 f1_keywords:
 - vbawd10.chm248971264
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespaces.Item Method (Word)
+# XMLNamespaces.Item method (Word)
 
 Returns an individual  **XMLNamespace** object in a collection.
 

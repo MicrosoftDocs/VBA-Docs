@@ -1,5 +1,5 @@
 ---
-title: Range.SortAscending Method (Word)
+title: Range.SortAscending method (Word)
 keywords: vbawd10.chm157155497
 f1_keywords:
 - vbawd10.chm157155497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SortAscending Method (Word)
+# Range.SortAscending method (Word)
 
 Sorts paragraphs or table rows in ascending alphanumeric order.
 

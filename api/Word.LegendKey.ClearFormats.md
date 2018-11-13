@@ -1,5 +1,5 @@
 ---
-title: LegendKey.ClearFormats Method (Word)
+title: LegendKey.ClearFormats method (Word)
 keywords: vbawd10.chm266207344
 f1_keywords:
 - vbawd10.chm266207344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.ClearFormats Method (Word)
+# LegendKey.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Global.NewWindow Method (Word)
+title: Global.NewWindow method (Word)
 keywords: vbawd10.chm163119449
 f1_keywords:
 - vbawd10.chm163119449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.NewWindow Method (Word)
+# Global.NewWindow method (Word)
 
 Opens a new window with the same document as the specified window. Returns a  **Window** object.
 

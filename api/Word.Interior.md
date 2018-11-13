@@ -1,5 +1,5 @@
 ---
-title: Interior Object (Word)
+title: Interior object (Word)
 keywords: vbawd10.chm43
 f1_keywords:
 - vbawd10.chm43
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior Object (Word)
+# Interior object (Word)
 
 Represents the interior of an object.
 

@@ -1,5 +1,5 @@
 ---
-title: Task.SendWindowMessage Method (Word)
+title: Task.SendWindowMessage method (Word)
 keywords: vbawd10.chm159514638
 f1_keywords:
 - vbawd10.chm159514638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.SendWindowMessage Method (Word)
+# Task.SendWindowMessage method (Word)
 
 Sends a Windows message and its associated parameters to the specified task.
 

@@ -1,5 +1,5 @@
 ---
-title: FontNames Object (Word)
+title: FontNames object (Word)
 ms.prod: word
 api_name:
 - Word.FontNames
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FontNames Object (Word)
+# FontNames object (Word)
 
 Represents a list of the names of all the available fonts.
 

@@ -1,5 +1,5 @@
 ---
-title: Frame.Cut Method (Word)
+title: Frame.Cut method (Word)
 keywords: vbawd10.chm153747558
 f1_keywords:
 - vbawd10.chm153747558
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Cut Method (Word)
+# Frame.Cut method (Word)
 
 Removes the specified frame from the document and places it on the Clipboard.
 

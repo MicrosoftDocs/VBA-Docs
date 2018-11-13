@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetAllIncludedFlags Method (Word)
+title: MailMergeDataSource.SetAllIncludedFlags method (Word)
 keywords: vbawd10.chm152895591
 f1_keywords:
 - vbawd10.chm152895591
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.SetAllIncludedFlags Method (Word)
+# MailMergeDataSource.SetAllIncludedFlags method (Word)
 
 Includes or excludes flagged records in a data source from a mail merge.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertBreak Method (Word)
+title: Selection.InsertBreak method (Word)
 keywords: vbawd10.chm158662778
 f1_keywords:
 - vbawd10.chm158662778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertBreak Method (Word)
+# Selection.InsertBreak method (Word)
 
 Inserts a page, column, or section break.
 

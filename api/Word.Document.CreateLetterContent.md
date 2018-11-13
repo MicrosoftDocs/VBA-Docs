@@ -1,5 +1,5 @@
 ---
-title: Document.CreateLetterContent Method (Word)
+title: Document.CreateLetterContent method (Word)
 keywords: vbawd10.chm158007556
 f1_keywords:
 - vbawd10.chm158007556
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CreateLetterContent Method (Word)
+# Document.CreateLetterContent method (Word)
 
 Creates and returns a  **LetterContent** object based on the specified letter elements. **LetterContent** object.
 

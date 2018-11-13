@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearFormats Method (Word)
+title: ChartArea.ClearFormats method (Word)
 keywords: vbawd10.chm160039024
 f1_keywords:
 - vbawd10.chm160039024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.ClearFormats Method (Word)
+# ChartArea.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

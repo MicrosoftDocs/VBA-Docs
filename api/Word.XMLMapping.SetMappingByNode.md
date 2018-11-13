@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.SetMappingByNode Method (Word)
+title: XMLMapping.SetMappingByNode method (Word)
 keywords: vbawd10.chm199688197
 f1_keywords:
 - vbawd10.chm199688197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.SetMappingByNode Method (Word)
+# XMLMapping.SetMappingByNode method (Word)
 
 Allows creating or changing the XML data mapping on a content control. Returns  **True** if Microsoft Word maps the content control to a custom XML node in the document?s custom XML data store.
 

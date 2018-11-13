@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementTop Method (Word)
+title: Shape.IncrementTop method (Word)
 keywords: vbawd10.chm161480720
 f1_keywords:
 - vbawd10.chm161480720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.IncrementTop Method (Word)
+# Shape.IncrementTop method (Word)
 
 Moves the specified shape vertically by the specified number of points.
 

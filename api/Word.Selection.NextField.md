@@ -1,5 +1,5 @@
 ---
-title: Selection.NextField Method (Word)
+title: Selection.NextField method (Word)
 keywords: vbawd10.chm158662834
 f1_keywords:
 - vbawd10.chm158662834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.NextField Method (Word)
+# Selection.NextField method (Word)
 
 Selects the next field.
 

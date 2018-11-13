@@ -1,5 +1,5 @@
 ---
-title: Document.SelectUnlinkedControls Method (Word)
+title: Document.SelectUnlinkedControls method (Word)
 keywords: vbawd10.chm158007846
 f1_keywords:
 - vbawd10.chm158007846
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectUnlinkedControls Method (Word)
+# Document.SelectUnlinkedControls method (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all content controls in a document that are not linked to an XML node in the document's XML data store. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences Object (Word)
+title: XMLSchemaReferences object (Word)
 keywords: vbawd10.chm1772
 f1_keywords:
 - vbawd10.chm1772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences Object (Word)
+# XMLSchemaReferences object (Word)
 
 A collection of  **XMLSchemaReference** objects that represent the unique namespaces that are attached to a document.
 

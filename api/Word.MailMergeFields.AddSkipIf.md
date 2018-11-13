@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddSkipIf Method (Word)
+title: MailMergeFields.AddSkipIf method (Word)
 keywords: vbawd10.chm153026670
 f1_keywords:
 - vbawd10.chm153026670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddSkipIf Method (Word)
+# MailMergeFields.AddSkipIf method (Word)
 
 Adds a SKIPIF field to a mail merge main document. Returns a  **MailMergeField** object. .
 

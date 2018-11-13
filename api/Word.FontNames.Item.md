@@ -1,5 +1,5 @@
 ---
-title: FontNames.Item Method (Word)
+title: FontNames.Item method (Word)
 keywords: vbawd10.chm158269440
 f1_keywords:
 - vbawd10.chm158269440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FontNames.Item Method (Word)
+# FontNames.Item method (Word)
 
 Returns a  **String** that represents the name of a font.
 

@@ -1,5 +1,5 @@
 ---
-title: Zooms Object (Word)
+title: Zooms object (Word)
 keywords: vbawd10.chm2471
 f1_keywords:
 - vbawd10.chm2471
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zooms Object (Word)
+# Zooms object (Word)
 
 A collection of  **[Zoom](Word.Zoom.md)** objects that represents the magnification options for each view (such as outline, normal, or print layout).
 

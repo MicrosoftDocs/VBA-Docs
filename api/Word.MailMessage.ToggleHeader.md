@@ -1,5 +1,5 @@
 ---
-title: MailMessage.ToggleHeader Method (Word)
+title: MailMessage.ToggleHeader method (Word)
 keywords: vbawd10.chm163184984
 f1_keywords:
 - vbawd10.chm163184984
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.ToggleHeader Method (Word)
+# MailMessage.ToggleHeader method (Word)
 
 Toggles the display of the header in the active e-mail message.
 

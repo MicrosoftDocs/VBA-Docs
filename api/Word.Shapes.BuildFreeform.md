@@ -1,5 +1,5 @@
 ---
-title: Shapes.BuildFreeform Method (Word)
+title: Shapes.BuildFreeform method (Word)
 keywords: vbawd10.chm161415188
 f1_keywords:
 - vbawd10.chm161415188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.BuildFreeform Method (Word)
+# Shapes.BuildFreeform method (Word)
 
 Builds a freeform object.
 

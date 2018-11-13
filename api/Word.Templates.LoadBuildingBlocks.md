@@ -1,5 +1,5 @@
 ---
-title: Templates.LoadBuildingBlocks Method (Word)
+title: Templates.LoadBuildingBlocks method (Word)
 keywords: vbawd10.chm161611876
 f1_keywords:
 - vbawd10.chm161611876
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Templates.LoadBuildingBlocks Method (Word)
+# Templates.LoadBuildingBlocks method (Word)
 
 Loads the building blocks for all templates into Microsoft Word.
 

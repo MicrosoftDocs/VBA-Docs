@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Close Method (Word)
+title: MailMergeDataSource.Close method (Word)
 keywords: vbawd10.chm152895593
 f1_keywords:
 - vbawd10.chm152895593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Close Method (Word)
+# MailMergeDataSource.Close method (Word)
 
 Closes the specified Mail Merge data source.
 

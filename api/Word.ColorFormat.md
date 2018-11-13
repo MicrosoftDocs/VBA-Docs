@@ -1,5 +1,5 @@
 ---
-title: ColorFormat Object (Word)
+title: ColorFormat object (Word)
 keywords: vbawd10.chm2502
 f1_keywords:
 - vbawd10.chm2502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat Object (Word)
+# ColorFormat object (Word)
 
 Represents the color of a one-color object or the foreground or background color of an object with a gradient or patterned fill. You can set colors to an explicit red-green-blue value by using the  **[RGB](Word.ColorFormat.RGB.md)** property.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Export Method (Word)
+title: Chart.Export method (Word)
 keywords: vbawd10.chm79364170
 f1_keywords:
 - vbawd10.chm79364170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Export Method (Word)
+# Chart.Export method (Word)
 
 Exports the chart in a graphic format.
 

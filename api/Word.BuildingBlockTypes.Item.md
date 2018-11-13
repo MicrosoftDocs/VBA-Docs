@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockTypes.Item Method (Word)
+title: BuildingBlockTypes.Item method (Word)
 keywords: vbawd10.chm189792256
 f1_keywords:
 - vbawd10.chm189792256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockTypes.Item Method (Word)
+# BuildingBlockTypes.Item method (Word)
 
 Returns a  **BuildingBlockType** object that represents the specified item in the collection.
 

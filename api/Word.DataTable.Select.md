@@ -1,5 +1,5 @@
 ---
-title: DataTable.Select Method (Word)
+title: DataTable.Select method (Word)
 keywords: vbawd10.chm46399498
 f1_keywords:
 - vbawd10.chm46399498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Select Method (Word)
+# DataTable.Select method (Word)
 
 Selects the object.
 

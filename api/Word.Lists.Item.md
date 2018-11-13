@@ -1,5 +1,5 @@
 ---
-title: Lists.Item Method (Word)
+title: Lists.Item method (Word)
 keywords: vbawd10.chm160628736
 f1_keywords:
 - vbawd10.chm160628736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lists.Item Method (Word)
+# Lists.Item method (Word)
 
 Returns an individual  **List** object in a collection.
 

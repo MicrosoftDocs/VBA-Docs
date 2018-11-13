@@ -1,5 +1,5 @@
 ---
-title: Columns.DistributeWidth Method (Word)
+title: Columns.DistributeWidth method (Word)
 keywords: vbawd10.chm155910347
 f1_keywords:
 - vbawd10.chm155910347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.DistributeWidth Method (Word)
+# Columns.DistributeWidth method (Word)
 
 Adjusts the width of the specified columns so that they are equal.
 

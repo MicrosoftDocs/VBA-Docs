@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPreview Method (Word)
+title: Document.PrintPreview method (Word)
 keywords: vbawd10.chm158007410
 f1_keywords:
 - vbawd10.chm158007410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PrintPreview Method (Word)
+# Document.PrintPreview method (Word)
 
 Switches the view to print preview.
 

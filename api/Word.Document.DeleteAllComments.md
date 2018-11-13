@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAllComments Method (Word)
+title: Document.DeleteAllComments method (Word)
 keywords: vbawd10.chm158007667
 f1_keywords:
 - vbawd10.chm158007667
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DeleteAllComments Method (Word)
+# Document.DeleteAllComments method (Word)
 
 Deletes all comments from the  **[Comments](Word.comments.md)** collection in a document.
 

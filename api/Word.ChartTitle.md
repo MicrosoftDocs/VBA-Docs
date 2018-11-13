@@ -1,5 +1,5 @@
 ---
-title: ChartTitle Object (Word)
+title: ChartTitle object (Word)
 keywords: vbawd10.chm996
 f1_keywords:
 - vbawd10.chm996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle Object (Word)
+# ChartTitle object (Word)
 
 Represents the chart title.
 

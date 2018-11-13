@@ -1,5 +1,5 @@
 ---
-title: Range.Cut Method (Word)
+title: Range.Cut method (Word)
 keywords: vbawd10.chm157155447
 f1_keywords:
 - vbawd10.chm157155447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Cut Method (Word)
+# Range.Cut method (Word)
 
 Removes the specified object from the document and places it on the Clipboard.
 

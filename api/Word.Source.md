@@ -1,5 +1,5 @@
 ---
-title: Source Object (Word)
+title: Source object (Word)
 keywords: vbawd10.chm2149
 f1_keywords:
 - vbawd10.chm2149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source Object (Word)
+# Source object (Word)
 
 Represents an individual source, such as a book, journal article, or interview.
 

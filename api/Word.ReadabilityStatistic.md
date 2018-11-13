@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic Object (Word)
+title: ReadabilityStatistic object (Word)
 keywords: vbawd10.chm2479
 f1_keywords:
 - vbawd10.chm2479
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistic Object (Word)
+# ReadabilityStatistic object (Word)
 
 Represents one of the readability statistics for a document or range. The  **ReadabilityStatistic** object is a member of the **ReadabilityStatistics** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.RtlPara Method (Word)
+title: Selection.RtlPara method (Word)
 keywords: vbawd10.chm158663261
 f1_keywords:
 - vbawd10.chm158663261
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.RtlPara Method (Word)
+# Selection.RtlPara method (Word)
 
 Sets the reading order and alignment of the specified paragraphs to right-to-left.
 

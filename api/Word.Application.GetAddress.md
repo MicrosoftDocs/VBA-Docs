@@ -1,5 +1,5 @@
 ---
-title: Application.GetAddress Method (Word)
+title: Application.GetAddress method (Word)
 keywords: vbawd10.chm158335298
 f1_keywords:
 - vbawd10.chm158335298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetAddress Method (Word)
+# Application.GetAddress method (Word)
 
 Returns an address from the default address book.
 

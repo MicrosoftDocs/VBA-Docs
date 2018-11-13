@@ -1,5 +1,5 @@
 ---
-title: UpBars.Delete Method (Word)
+title: UpBars.Delete method (Word)
 keywords: vbawd10.chm180945013
 f1_keywords:
 - vbawd10.chm180945013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Delete Method (Word)
+# UpBars.Delete method (Word)
 
 Deletes the object.
 

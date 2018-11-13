@@ -1,5 +1,5 @@
 ---
-title: OMathMatRows Object (Word)
+title: OMathMatRows object (Word)
 keywords: vbawd10.chm840
 f1_keywords:
 - vbawd10.chm840
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRows Object (Word)
+# OMathMatRows object (Word)
 
 Represents a collection of matrix rows. Use the  **OMathMatRow** object to access individual membes of the collection.
 

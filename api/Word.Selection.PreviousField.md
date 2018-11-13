@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousField Method (Word)
+title: Selection.PreviousField method (Word)
 keywords: vbawd10.chm158662833
 f1_keywords:
 - vbawd10.chm158662833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PreviousField Method (Word)
+# Selection.PreviousField method (Word)
 
 Selects and returns the previous field.
 

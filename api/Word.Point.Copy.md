@@ -1,5 +1,5 @@
 ---
-title: Point.Copy Method (Word)
+title: Point.Copy method (Word)
 keywords: vbawd10.chm262144551
 f1_keywords:
 - vbawd10.chm262144551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Copy Method (Word)
+# Point.Copy method (Word)
 
 If the point has a picture fill, copies the picture to the Clipboard.
 

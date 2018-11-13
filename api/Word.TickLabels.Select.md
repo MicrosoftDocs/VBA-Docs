@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Select Method (Word)
+title: TickLabels.Select method (Word)
 keywords: vbawd10.chm167051276
 f1_keywords:
 - vbawd10.chm167051276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Select Method (Word)
+# TickLabels.Select method (Word)
 
 Selects the object.
 

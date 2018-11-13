@@ -1,5 +1,5 @@
 ---
-title: TextInput.EditType Method (Word)
+title: TextInput.EditType method (Word)
 keywords: vbawd10.chm153550950
 f1_keywords:
 - vbawd10.chm153550950
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.EditType Method (Word)
+# TextInput.EditType method (Word)
 
 Sets options for the specified text form field.
 

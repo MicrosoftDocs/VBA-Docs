@@ -1,5 +1,5 @@
 ---
-title: Columns.Item Method (Word)
+title: Columns.Item method (Word)
 keywords: vbawd10.chm155910144
 f1_keywords:
 - vbawd10.chm155910144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Item Method (Word)
+# Columns.Item method (Word)
 
 Returns an individual  **Column** object in a collection.
 

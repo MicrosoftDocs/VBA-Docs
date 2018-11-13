@@ -1,5 +1,5 @@
 ---
-title: Envelope.Insert Method (Word)
+title: Envelope.Insert method (Word)
 keywords: vbawd10.chm152567913
 f1_keywords:
 - vbawd10.chm152567913
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Insert Method (Word)
+# Envelope.Insert method (Word)
 
 Inserts an envelope as a separate section at the beginning of the specified document.
 

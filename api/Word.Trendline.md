@@ -1,5 +1,5 @@
 ---
-title: Trendline Object (Word)
+title: Trendline object (Word)
 keywords: vbawd10.chm402
 f1_keywords:
 - vbawd10.chm402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline Object (Word)
+# Trendline object (Word)
 
 Represents a trendline in a chart.
 

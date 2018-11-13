@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Select Method (Word)
+title: PageNumber.Select method (Word)
 keywords: vbawd10.chm159907839
 f1_keywords:
 - vbawd10.chm159907839
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Select Method (Word)
+# PageNumber.Select method (Word)
 
 Selects the specified page number.
 

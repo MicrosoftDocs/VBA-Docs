@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Copy Method (Word)
+title: PageNumber.Copy method (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Copy Method (Word)
+# PageNumber.Copy method (Word)
 
 Copies the specified page number to the Clipboard.
 

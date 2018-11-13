@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertAfter Method (Word)
+title: Selection.InsertAfter method (Word)
 keywords: vbawd10.chm158662760
 f1_keywords:
 - vbawd10.chm158662760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertAfter Method (Word)
+# Selection.InsertAfter method (Word)
 
 Inserts the specified text at the end of a range or selection.
 

@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItem.InsertItemAfter Method (Word)
+title: RepeatingSectionItem.InsertItemAfter method (Word)
 keywords: vbawd10.chm227999747
 f1_keywords:
 - vbawd10.chm227999747
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItem.InsertItemAfter Method (Word)
+# RepeatingSectionItem.InsertItemAfter method (Word)
 
 Adds a repeating section item after the specified item and returns the new item.
 

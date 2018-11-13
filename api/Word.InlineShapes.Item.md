@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Item Method (Word)
+title: InlineShapes.Item method (Word)
 keywords: vbawd10.chm162070528
 f1_keywords:
 - vbawd10.chm162070528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.Item Method (Word)
+# InlineShapes.Item method (Word)
 
 Returns an individual  **InlineShape** object in a collection.
 

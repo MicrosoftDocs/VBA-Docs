@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (Word)
+title: Shape.ScaleHeight method (Word)
 keywords: vbawd10.chm161480723
 f1_keywords:
 - vbawd10.chm161480723
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ScaleHeight Method (Word)
+# Shape.ScaleHeight method (Word)
 
 Scales the height of the shape by a specified factor.
 

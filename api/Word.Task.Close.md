@@ -1,5 +1,5 @@
 ---
-title: Task.Close Method (Word)
+title: Task.Close method (Word)
 keywords: vbawd10.chm159514635
 f1_keywords:
 - vbawd10.chm159514635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Close Method (Word)
+# Task.Close method (Word)
 
 Closes the specified task.
 

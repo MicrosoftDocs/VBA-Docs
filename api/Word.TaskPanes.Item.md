@@ -1,5 +1,5 @@
 ---
-title: TaskPanes.Item Method (Word)
+title: TaskPanes.Item method (Word)
 keywords: vbawd10.chm201654272
 f1_keywords:
 - vbawd10.chm201654272
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPanes.Item Method (Word)
+# TaskPanes.Item method (Word)
 
 Returns the specified task pane as a  **TaskPane** object.
 

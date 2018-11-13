@@ -1,5 +1,5 @@
 ---
-title: Selection.ConvertToTable Method (Word)
+title: Selection.ConvertToTable method (Word)
 keywords: vbawd10.chm158663113
 f1_keywords:
 - vbawd10.chm158663113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ConvertToTable Method (Word)
+# Selection.ConvertToTable method (Word)
 
 Converts text within a range to a table. Returns the table as a  **Table** object.
 

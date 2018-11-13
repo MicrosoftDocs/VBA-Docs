@@ -1,5 +1,5 @@
 ---
-title: EmailAuthor Object (Word)
+title: EmailAuthor object (Word)
 keywords: vbawd10.chm2519
 f1_keywords:
 - vbawd10.chm2519
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailAuthor Object (Word)
+# EmailAuthor object (Word)
 
 Represents the author of an e-mail message.
 

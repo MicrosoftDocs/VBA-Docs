@@ -1,5 +1,5 @@
 ---
-title: Window.NewWindow Method (Word)
+title: Window.NewWindow method (Word)
 keywords: vbawd10.chm157417577
 f1_keywords:
 - vbawd10.chm157417577
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.NewWindow Method (Word)
+# Window.NewWindow method (Word)
 
 Opens a new window with the same document as the specified window. Returns a  **Window** object.
 

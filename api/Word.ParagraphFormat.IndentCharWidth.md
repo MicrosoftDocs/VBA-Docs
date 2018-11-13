@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.IndentCharWidth Method (Word)
+title: ParagraphFormat.IndentCharWidth method (Word)
 keywords: vbawd10.chm156434752
 f1_keywords:
 - vbawd10.chm156434752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.IndentCharWidth Method (Word)
+# ParagraphFormat.IndentCharWidth method (Word)
 
 Indents one or more paragraphs by a specified number of characters.
 

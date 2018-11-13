@@ -1,5 +1,5 @@
 ---
-title: Selection.SortByHeadings Method (Word)
+title: Selection.SortByHeadings method (Word)
 keywords: vbawd10.chm158663698
 f1_keywords:
 - vbawd10.chm158663698
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SortByHeadings Method (Word)
+# Selection.SortByHeadings method (Word)
 
 Sorts the headings in the specified selection.
 

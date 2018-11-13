@@ -1,5 +1,5 @@
 ---
-title: Frames Object (Word)
+title: Frames object (Word)
 ms.prod: word
 api_name:
 - Word.Frames
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frames Object (Word)
+# Frames object (Word)
 
 
 

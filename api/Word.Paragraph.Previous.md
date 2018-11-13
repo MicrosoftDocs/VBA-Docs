@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Previous Method (Word)
+title: Paragraph.Previous method (Word)
 keywords: vbawd10.chm156696901
 f1_keywords:
 - vbawd10.chm156696901
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Previous Method (Word)
+# Paragraph.Previous method (Word)
 
 Returns the previous paragraph as a  **Paragraph** object.
 

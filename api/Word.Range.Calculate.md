@@ -1,5 +1,5 @@
 ---
-title: Range.Calculate Method (Word)
+title: Range.Calculate method (Word)
 keywords: vbawd10.chm157155500
 f1_keywords:
 - vbawd10.chm157155500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Calculate Method (Word)
+# Range.Calculate method (Word)
 
 Calculates a mathematical expression within a range or selection. Returns the result as a  **Single** .
 

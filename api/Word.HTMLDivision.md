@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision Object (Word)
+title: HTMLDivision object (Word)
 keywords: vbawd10.chm2535
 f1_keywords:
 - vbawd10.chm2535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision Object (Word)
+# HTMLDivision object (Word)
 
 Represents a single HTML DIV element within a Web document. The  **HTMLDivision** object is a member of the **HTMLDivisions** collection.
 

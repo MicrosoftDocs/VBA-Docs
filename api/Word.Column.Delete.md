@@ -1,5 +1,5 @@
 ---
-title: Column.Delete Method (Word)
+title: Column.Delete method (Word)
 keywords: vbawd10.chm156172488
 f1_keywords:
 - vbawd10.chm156172488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Delete Method (Word)
+# Column.Delete method (Word)
 
 Deletes the specified column.
 

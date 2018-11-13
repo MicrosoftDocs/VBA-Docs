@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (Word)
+title: PictureFormat.IncrementContrast method (Word)
 keywords: vbawd10.chm164298763
 f1_keywords:
 - vbawd10.chm164298763
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.IncrementContrast Method (Word)
+# PictureFormat.IncrementContrast method (Word)
 
 Changes the contrast of the picture by the specified amount.
 

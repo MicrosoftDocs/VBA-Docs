@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Delete Method (Word)
+title: PageNumber.Delete method (Word)
 keywords: vbawd10.chm159842407
 f1_keywords:
 - vbawd10.chm159842407
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Delete Method (Word)
+# PageNumber.Delete method (Word)
 
 Deletes the specified page number.
 

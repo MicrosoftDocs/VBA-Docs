@@ -1,5 +1,5 @@
 ---
-title: Application.GoForward Method (Word)
+title: Application.GoForward method (Word)
 keywords: vbawd10.chm158335335
 f1_keywords:
 - vbawd10.chm158335335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GoForward Method (Word)
+# Application.GoForward method (Word)
 
 Moves the insertion point forward among the last three locations where editing occurred in the active document.
 

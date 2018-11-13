@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UpdatePageNumbers Method (Word)
+title: TableOfContents.UpdatePageNumbers method (Word)
 keywords: vbawd10.chm152240229
 f1_keywords:
 - vbawd10.chm152240229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.UpdatePageNumbers Method (Word)
+# TableOfContents.UpdatePageNumbers method (Word)
 
 Updates the page numbers for items in the specified table of contents.
 

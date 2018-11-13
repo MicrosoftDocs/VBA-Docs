@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteAndFormat Method (Word)
+title: Selection.PasteAndFormat method (Word)
 keywords: vbawd10.chm158663669
 f1_keywords:
 - vbawd10.chm158663669
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PasteAndFormat Method (Word)
+# Selection.PasteAndFormat method (Word)
 
 Pastes the selected table cells and formats them as specified.
 

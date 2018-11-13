@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Select Method (Word)
+title: InlineShape.Select method (Word)
 keywords: vbawd10.chm162070527
 f1_keywords:
 - vbawd10.chm162070527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Select Method (Word)
+# InlineShape.Select method (Word)
 
 Selects the specified inline shape.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveUp Method (Word)
+title: Selection.MoveUp method (Word)
 keywords: vbawd10.chm158663158
 f1_keywords:
 - vbawd10.chm158663158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveUp Method (Word)
+# Selection.MoveUp method (Word)
 
 Moves the selection up and returns the number of units that it has been moved.
 

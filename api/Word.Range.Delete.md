@@ -1,5 +1,5 @@
 ---
-title: Range.Delete Method (Word)
+title: Range.Delete method (Word)
 keywords: vbawd10.chm157155455
 f1_keywords:
 - vbawd10.chm157155455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Delete Method (Word)
+# Range.Delete method (Word)
 
 Deletes the specified number of characters or words.
 

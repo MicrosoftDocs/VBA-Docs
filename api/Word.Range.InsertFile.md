@@ -1,5 +1,5 @@
 ---
-title: Range.InsertFile Method (Word)
+title: Range.InsertFile method (Word)
 keywords: vbawd10.chm157155451
 f1_keywords:
 - vbawd10.chm157155451
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertFile Method (Word)
+# Range.InsertFile method (Word)
 
 Inserts all or part of the specified file.
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Space1 Method (Word)
+title: Paragraphs.Space1 method (Word)
 keywords: vbawd10.chm156762425
 f1_keywords:
 - vbawd10.chm156762425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Space1 Method (Word)
+# Paragraphs.Space1 method (Word)
 
 Single-spaces the specified paragraphs.
 

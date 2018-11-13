@@ -1,5 +1,5 @@
 ---
-title: OMathBar Object (Word)
+title: OMathBar object (Word)
 keywords: vbawd10.chm1521
 f1_keywords:
 - vbawd10.chm1521
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBar Object (Word)
+# OMathBar object (Word)
 
 Represents an equation with a bar above or below the base.
 

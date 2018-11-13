@@ -1,5 +1,5 @@
 ---
-title: MailMerge.OpenHeaderSource Method (Word)
+title: MailMerge.OpenHeaderSource method (Word)
 keywords: vbawd10.chm153092209
 f1_keywords:
 - vbawd10.chm153092209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.OpenHeaderSource Method (Word)
+# MailMerge.OpenHeaderSource method (Word)
 
 Attaches a mail merge header source to the specified document.
 

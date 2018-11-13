@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (Word)
+title: ShapeNodes.Insert method (Word)
 keywords: vbawd10.chm164495372
 f1_keywords:
 - vbawd10.chm164495372
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Insert Method (Word)
+# ShapeNodes.Insert method (Word)
 
 Inserts a node into a freeform shape.
 

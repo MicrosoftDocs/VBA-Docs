@@ -1,5 +1,5 @@
 ---
-title: Find.ClearAllFuzzyOptions Method (Word)
+title: Find.ClearAllFuzzyOptions method (Word)
 keywords: vbawd10.chm162529313
 f1_keywords:
 - vbawd10.chm162529313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.ClearAllFuzzyOptions Method (Word)
+# Find.ClearAllFuzzyOptions method (Word)
 
 Clears all nonspecific search options associated with Japanese text.
 

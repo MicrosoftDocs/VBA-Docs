@@ -1,5 +1,5 @@
 ---
-title: Borders.Item Method (Word)
+title: Borders.Item method (Word)
 keywords: vbawd10.chm154927104
 f1_keywords:
 - vbawd10.chm154927104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Item Method (Word)
+# Borders.Item method (Word)
 
 Returns a border in a range or selection.
 

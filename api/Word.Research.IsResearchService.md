@@ -1,5 +1,5 @@
 ---
-title: Research.IsResearchService Method (Word)
+title: Research.IsResearchService method (Word)
 keywords: vbawd10.chm201654774
 f1_keywords:
 - vbawd10.chm201654774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.IsResearchService Method (Word)
+# Research.IsResearchService method (Word)
 
 Indicates whether the GUID specified in the ServiceID parameter corresponds to a currently configured service.
 

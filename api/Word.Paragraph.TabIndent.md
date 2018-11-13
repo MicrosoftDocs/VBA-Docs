@@ -1,5 +1,5 @@
 ---
-title: Paragraph.TabIndent Method (Word)
+title: Paragraph.TabIndent method (Word)
 keywords: vbawd10.chm156696882
 f1_keywords:
 - vbawd10.chm156696882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.TabIndent Method (Word)
+# Paragraph.TabIndent method (Word)
 
 Sets the left indent for the specified paragraphs to a specified number of tab stops. .
 

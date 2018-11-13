@@ -1,5 +1,5 @@
 ---
-title: Range.CheckSynonyms Method (Word)
+title: Range.CheckSynonyms method (Word)
 keywords: vbawd10.chm157155508
 f1_keywords:
 - vbawd10.chm157155508
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CheckSynonyms Method (Word)
+# Range.CheckSynonyms method (Word)
 
 Displays the  **Thesaurus** dialog box, which lists alternative word choices, or synonyms, for the text in the specified range.
 

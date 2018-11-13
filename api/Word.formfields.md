@@ -1,12 +1,12 @@
 ---
-title: FormFields Object (Word)
+title: FormFields object (Word)
 ms.prod: word
 ms.assetid: a44a0f57-123b-cade-e306-ba6dc179b619
 ms.date: 06/08/2017
 ---
 
 
-# FormFields Object (Word)
+# FormFields object (Word)
 
 A collection of  **FormField** objects that represent all the form fields in a selection, range, or document.
 

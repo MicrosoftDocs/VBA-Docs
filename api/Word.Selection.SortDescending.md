@@ -1,5 +1,5 @@
 ---
-title: Selection.SortDescending Method (Word)
+title: Selection.SortDescending method (Word)
 keywords: vbawd10.chm158662826
 f1_keywords:
 - vbawd10.chm158662826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SortDescending Method (Word)
+# Selection.SortDescending method (Word)
 
 Sorts paragraphs or table rows within the selection in descending alphanumeric order.
 

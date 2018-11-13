@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries.Add Method (Word)
+title: BuildingBlockEntries.Add method (Word)
 keywords: vbawd10.chm36241509
 f1_keywords:
 - vbawd10.chm36241509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockEntries.Add Method (Word)
+# BuildingBlockEntries.Add method (Word)
 
 Creates a new building block entry in a template and returns a  **[BuildingBlock](Word.BuildingBlock.md)** object that represents the new building block entry.
 

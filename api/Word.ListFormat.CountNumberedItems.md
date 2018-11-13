@@ -1,5 +1,5 @@
 ---
-title: ListFormat.CountNumberedItems Method (Word)
+title: ListFormat.CountNumberedItems method (Word)
 keywords: vbawd10.chm163578043
 f1_keywords:
 - vbawd10.chm163578043
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.CountNumberedItems Method (Word)
+# ListFormat.CountNumberedItems method (Word)
 
 Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **ListFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Pane Object (Word)
+title: Pane object (Word)
 keywords: vbawd10.chm2400
 f1_keywords:
 - vbawd10.chm2400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane Object (Word)
+# Pane object (Word)
 
 Represents a window pane. The  **Pane** object is a member of the **Panes** collection. The **[Panes](Word.panes.md)** collection includes all the window panes for a single window.
 

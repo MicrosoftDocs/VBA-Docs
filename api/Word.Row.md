@@ -1,5 +1,5 @@
 ---
-title: Row Object (Word)
+title: Row object (Word)
 keywords: vbawd10.chm2384
 f1_keywords:
 - vbawd10.chm2384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row Object (Word)
+# Row object (Word)
 
 Represents a row in a table. The  **Row** object is a member of the **[Rows](Word.rows.md)** collection. The **Rows** collection includes all the rows in the specified selection, range, or table.
 

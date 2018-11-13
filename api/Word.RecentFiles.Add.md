@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Add Method (Word)
+title: RecentFiles.Add method (Word)
 keywords: vbawd10.chm157483011
 f1_keywords:
 - vbawd10.chm157483011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Add Method (Word)
+# RecentFiles.Add method (Word)
 
 Returns a  **RecentFile** object that represents a file added to the list of recently used files.
 

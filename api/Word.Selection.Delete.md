@@ -1,5 +1,5 @@
 ---
-title: Selection.Delete Method (Word)
+title: Selection.Delete method (Word)
 keywords: vbawd10.chm158662783
 f1_keywords:
 - vbawd10.chm158662783
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Delete Method (Word)
+# Selection.Delete method (Word)
 
 Deletes the specified number of characters or words.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearCharacterAllFormatting Method (Word)
+title: Selection.ClearCharacterAllFormatting method (Word)
 keywords: vbawd10.chm158663687
 f1_keywords:
 - vbawd10.chm158663687
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearCharacterAllFormatting Method (Word)
+# Selection.ClearCharacterAllFormatting method (Word)
 
 Removes all character formatting (formatting applied either through character styles or manually applied formatting) from the selected text.
 

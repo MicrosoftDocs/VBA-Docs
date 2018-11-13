@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Select Method (Word)
+title: SeriesLines.Select method (Word)
 keywords: vbawd10.chm202703083
 f1_keywords:
 - vbawd10.chm202703083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Select Method (Word)
+# SeriesLines.Select method (Word)
 
 Selects the object.
 

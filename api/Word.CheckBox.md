@@ -1,5 +1,5 @@
 ---
-title: CheckBox Object (Word)
+title: CheckBox object (Word)
 keywords: vbawd10.chm2342
 f1_keywords:
 - vbawd10.chm2342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox Object (Word)
+# CheckBox object (Word)
 
 Represents a single check box form field.
 

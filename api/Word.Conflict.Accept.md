@@ -1,5 +1,5 @@
 ---
-title: Conflict.Accept Method (Word)
+title: Conflict.Accept method (Word)
 keywords: vbawd10.chm78708837
 f1_keywords:
 - vbawd10.chm78708837
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflict.Accept Method (Word)
+# Conflict.Accept method (Word)
 
 Accepts the user specified conflict change, and removes the conflict.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.GetWorkflowTemplates Method (Word)
+title: Document.GetWorkflowTemplates method (Word)
 keywords: vbawd10.chm158007808
 f1_keywords:
 - vbawd10.chm158007808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GetWorkflowTemplates Method (Word)
+# Document.GetWorkflowTemplates method (Word)
 
 Returns a  **WorkflowTemplates** collection that represents the workflow templates attached to a document.
 

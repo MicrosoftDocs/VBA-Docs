@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Select Method (Word)
+title: Subdocuments.Select method (Word)
 keywords: vbawd10.chm159907944
 f1_keywords:
 - vbawd10.chm159907944
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Select Method (Word)
+# Subdocuments.Select method (Word)
 
 Selects the specified subdocument.
 

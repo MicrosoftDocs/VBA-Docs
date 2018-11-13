@@ -1,5 +1,5 @@
 ---
-title: RevisionsFilter.ToggleShowAllReviewers Method (Word)
+title: RevisionsFilter.ToggleShowAllReviewers method (Word)
 keywords: vbawd10.chm40566885
 f1_keywords:
 - vbawd10.chm40566885
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RevisionsFilter.ToggleShowAllReviewers Method (Word)
+# RevisionsFilter.ToggleShowAllReviewers method (Word)
 
 Shows or hides all revisions in a document that contains comments and tracked changes.
 

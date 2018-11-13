@@ -1,5 +1,5 @@
 ---
-title: OMathScrSub Object (Word)
+title: OMathScrSub object (Word)
 keywords: vbawd10.chm3346
 f1_keywords:
 - vbawd10.chm3346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSub Object (Word)
+# OMathScrSub object (Word)
 
 Represents an equation with a base that contains a subscript.
 

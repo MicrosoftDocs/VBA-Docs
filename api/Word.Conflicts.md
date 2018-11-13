@@ -1,5 +1,5 @@
 ---
-title: Conflicts Object (Word)
+title: Conflicts object (Word)
 ms.prod: word
 api_name:
 - Word.Conflicts
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts Object (Word)
+# Conflicts object (Word)
 
  A collection of[Conflict](Word.Conflict.md) objects that represents the conflicts in a document. The type of a **Conflict** object is specified by the [WdRevisionType](Word.WdRevisionType.md) enumeration.
 

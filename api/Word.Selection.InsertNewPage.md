@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertNewPage Method (Word)
+title: Selection.InsertNewPage method (Word)
 keywords: vbawd10.chm158663697
 f1_keywords:
 - vbawd10.chm158663697
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertNewPage Method (Word)
+# Selection.InsertNewPage method (Word)
 
 Inserts a new page at the position of the Insertion Point.
 

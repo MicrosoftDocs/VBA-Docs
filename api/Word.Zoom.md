@@ -1,5 +1,5 @@
 ---
-title: Zoom Object (Word)
+title: Zoom object (Word)
 keywords: vbawd10.chm2470
 f1_keywords:
 - vbawd10.chm2470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zoom Object (Word)
+# Zoom object (Word)
 
 Contains magnification options (for example, the zoom percentage) for a window or pane. The  **Zoom** object is a member of the **[Zooms](Word.zooms.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: LegendKey Object (Word)
+title: LegendKey object (Word)
 keywords: vbawd10.chm4062
 f1_keywords:
 - vbawd10.chm4062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey Object (Word)
+# LegendKey object (Word)
 
 Represents a legend key in a chart legend.
 

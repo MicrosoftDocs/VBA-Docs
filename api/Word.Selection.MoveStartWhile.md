@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveStartWhile Method (Word)
+title: Selection.MoveStartWhile method (Word)
 keywords: vbawd10.chm158662769
 f1_keywords:
 - vbawd10.chm158662769
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveStartWhile Method (Word)
+# Selection.MoveStartWhile method (Word)
 
 Moves the start position of the specified selection while any of the specified characters are found in the document.
 

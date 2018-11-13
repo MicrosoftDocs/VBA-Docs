@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.Item Method (Word)
+title: XMLSchemaReferences.Item method (Word)
 keywords: vbawd10.chm116129792
 f1_keywords:
 - vbawd10.chm116129792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.Item Method (Word)
+# XMLSchemaReferences.Item method (Word)
 
 Returns an individual  **XMLSchemaReference** object in a collection.
 

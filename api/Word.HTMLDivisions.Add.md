@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions.Add Method (Word)
+title: HTMLDivisions.Add method (Word)
 keywords: vbawd10.chm166199397
 f1_keywords:
 - vbawd10.chm166199397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions.Add Method (Word)
+# HTMLDivisions.Add method (Word)
 
 Returns an  **HTMLDivision** object that represents a new HTML division added to a Web document.
 

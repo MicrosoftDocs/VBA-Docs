@@ -1,5 +1,5 @@
 ---
-title: Document.LockServerFile Method (Word)
+title: Document.LockServerFile method (Word)
 keywords: vbawd10.chm158007805
 f1_keywords:
 - vbawd10.chm158007805
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.LockServerFile Method (Word)
+# Document.LockServerFile method (Word)
 
 Locks the file on the server preventing anyone else from editing it.
 

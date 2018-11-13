@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException.Delete Method (Word)
+title: OtherCorrectionsException.Delete method (Word)
 keywords: vbawd10.chm165740645
 f1_keywords:
 - vbawd10.chm165740645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsException.Delete Method (Word)
+# OtherCorrectionsException.Delete method (Word)
 
 Deletes the specified exception.
 

@@ -1,5 +1,5 @@
 ---
-title: ListTemplates.Add Method (Word)
+title: ListTemplates.Add method (Word)
 keywords: vbawd10.chm160432228
 f1_keywords:
 - vbawd10.chm160432228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplates.Add Method (Word)
+# ListTemplates.Add method (Word)
 
 Returns a  **ListTemplate** object that represents a new list template.
 

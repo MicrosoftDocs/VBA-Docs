@@ -1,5 +1,5 @@
 ---
-title: Application.LinesToPoints Method (Word)
+title: Application.LinesToPoints method (Word)
 keywords: vbawd10.chm158335350
 f1_keywords:
 - vbawd10.chm158335350
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LinesToPoints Method (Word)
+# Application.LinesToPoints method (Word)
 
 Converts a measurement from lines to points (1 line = 12 points). Returns the converted measurement as a  **Single** .
 

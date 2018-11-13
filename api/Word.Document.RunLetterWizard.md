@@ -1,5 +1,5 @@
 ---
-title: Document.RunLetterWizard Method (Word)
+title: Document.RunLetterWizard method (Word)
 keywords: vbawd10.chm158007419
 f1_keywords:
 - vbawd10.chm158007419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RunLetterWizard Method (Word)
+# Document.RunLetterWizard method (Word)
 
 Runs the Letter Wizard on the specified document.
 

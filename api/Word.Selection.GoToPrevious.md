@@ -1,5 +1,5 @@
 ---
-title: Selection.GoToPrevious Method (Word)
+title: Selection.GoToPrevious method (Word)
 keywords: vbawd10.chm158662831
 f1_keywords:
 - vbawd10.chm158662831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.GoToPrevious Method (Word)
+# Selection.GoToPrevious method (Word)
 
 Returns a  **Range** object that refers to the start position of the previous item or location specified by the What argument. If applied to a **Selection** object, **GoToPrevious** moves the selection to the specified item. **Range** object.
 

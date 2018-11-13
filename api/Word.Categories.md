@@ -1,5 +1,5 @@
 ---
-title: Categories Object (Word)
+title: Categories object (Word)
 ms.prod: word
 api_name:
 - Word.Categories
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Categories Object (Word)
+# Categories object (Word)
 
 Represents a collection of building block categories.
 

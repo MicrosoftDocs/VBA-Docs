@@ -1,5 +1,5 @@
 ---
-title: Range.SetRange Method (Word)
+title: Range.SetRange method (Word)
 keywords: vbawd10.chm157155428
 f1_keywords:
 - vbawd10.chm157155428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SetRange Method (Word)
+# Range.SetRange method (Word)
 
 Sets the starting and ending character positions for an existing range.
 

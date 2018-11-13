@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFitBehavior Method (Word)
+title: Table.AutoFitBehavior method (Word)
 keywords: vbawd10.chm156303380
 f1_keywords:
 - vbawd10.chm156303380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.AutoFitBehavior Method (Word)
+# Table.AutoFitBehavior method (Word)
 
 Determines how Microsoft Word resizes a table when the AutoFit feature is used.
 

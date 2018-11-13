@@ -1,5 +1,5 @@
 ---
-title: Points.Item Method (Word)
+title: Points.Item method (Word)
 keywords: vbawd10.chm10485760
 f1_keywords:
 - vbawd10.chm10485760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points.Item Method (Word)
+# Points.Item method (Word)
 
 Returns a single object from a collection.
 

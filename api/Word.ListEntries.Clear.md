@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Clear Method (Word)
+title: ListEntries.Clear method (Word)
 keywords: vbawd10.chm153354342
 f1_keywords:
 - vbawd10.chm153354342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntries.Clear Method (Word)
+# ListEntries.Clear method (Word)
 
 Removes all items from a drop-down form field.
 

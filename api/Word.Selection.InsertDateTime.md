@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertDateTime Method (Word)
+title: Selection.InsertDateTime method (Word)
 keywords: vbawd10.chm158663100
 f1_keywords:
 - vbawd10.chm158663100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertDateTime Method (Word)
+# Selection.InsertDateTime method (Word)
 
 Inserts the current date or time, or both, either as text or as a TIME field.
 

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Update Method (Word)
+title: LinkFormat.Update method (Word)
 keywords: vbawd10.chm154206313
 f1_keywords:
 - vbawd10.chm154206313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Update Method (Word)
+# LinkFormat.Update method (Word)
 
 Updates the specified link format.
 

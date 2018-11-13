@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearCharacterDirectFormatting Method (Word)
+title: Selection.ClearCharacterDirectFormatting method (Word)
 keywords: vbawd10.chm158663689
 f1_keywords:
 - vbawd10.chm158663689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearCharacterDirectFormatting Method (Word)
+# Selection.ClearCharacterDirectFormatting method (Word)
 
 Removes character formatting (formatting that has been applied manually using the buttons on the ribbon or through the dialog boxes) from the selected text.
 

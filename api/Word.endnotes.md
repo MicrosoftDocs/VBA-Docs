@@ -1,12 +1,12 @@
 ---
-title: Endnotes Object (Word)
+title: Endnotes object (Word)
 ms.prod: word
 ms.assetid: 32676579-dd41-e83d-a305-fcc2b7cb4f64
 ms.date: 06/08/2017
 ---
 
 
-# Endnotes Object (Word)
+# Endnotes object (Word)
 
 A collection of  **Endnote** objects that represents all the endnotes in a selection, range, or document.
 

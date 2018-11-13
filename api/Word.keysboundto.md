@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo Object (Word)
+title: KeysBoundTo object (Word)
 keywords: vbawd10.chm2455
 f1_keywords:
 - vbawd10.chm2455
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo Object (Word)
+# KeysBoundTo object (Word)
 
 A collection of  **[KeyBinding](Word.KeyBinding.md)** objects assigned to a command, style, macro, or other item in the current context.
 

@@ -1,5 +1,5 @@
 ---
-title: DropDown Object (Word)
+title: DropDown object (Word)
 keywords: vbawd10.chm2341
 f1_keywords:
 - vbawd10.chm2341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown Object (Word)
+# DropDown object (Word)
 
 Represents a drop-down form field that contains a list of items in a form.
 

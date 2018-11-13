@@ -1,5 +1,5 @@
 ---
-title: Documents.CanCheckOut Method (Word)
+title: Documents.CanCheckOut method (Word)
 keywords: vbawd10.chm158072849
 f1_keywords:
 - vbawd10.chm158072849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.CanCheckOut Method (Word)
+# Documents.CanCheckOut method (Word)
 
  **True** if Microsoft Word can check out a specified document from a server. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Duplicate Method (Word)
+title: ShapeRange.Duplicate method (Word)
 keywords: vbawd10.chm162856974
 f1_keywords:
 - vbawd10.chm162856974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Duplicate Method (Word)
+# ShapeRange.Duplicate method (Word)
 
 Creates a duplicate of the specified  **ShapeRange** object, adds the new range of shapes to the **Shapes** collection at a standard offset from the original shapes, and then returns a **Shape** object.
 

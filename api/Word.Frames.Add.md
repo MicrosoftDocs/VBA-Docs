@@ -1,5 +1,5 @@
 ---
-title: Frames.Add Method (Word)
+title: Frames.Add method (Word)
 keywords: vbawd10.chm153813092
 f1_keywords:
 - vbawd10.chm153813092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frames.Add Method (Word)
+# Frames.Add method (Word)
 
 Returns a Frame object that represents a new frame added to a range, selection, or document.
 

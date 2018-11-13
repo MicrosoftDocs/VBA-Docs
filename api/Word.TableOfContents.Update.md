@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.Update Method (Word)
+title: TableOfContents.Update method (Word)
 keywords: vbawd10.chm152240230
 f1_keywords:
 - vbawd10.chm152240230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.Update Method (Word)
+# TableOfContents.Update method (Word)
 
 Updates the entries shown in a table of contents.
 

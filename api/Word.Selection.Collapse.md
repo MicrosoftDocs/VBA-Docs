@@ -1,5 +1,5 @@
 ---
-title: Selection.Collapse Method (Word)
+title: Selection.Collapse method (Word)
 keywords: vbawd10.chm158662757
 f1_keywords:
 - vbawd10.chm158662757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Collapse Method (Word)
+# Selection.Collapse method (Word)
 
 Collapses a selection to the starting or ending position. After a selection is collapsed, the starting and ending points are equal.
 

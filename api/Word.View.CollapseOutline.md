@@ -1,5 +1,5 @@
 ---
-title: View.CollapseOutline Method (Word)
+title: View.CollapseOutline method (Word)
 keywords: vbawd10.chm161808485
 f1_keywords:
 - vbawd10.chm161808485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.CollapseOutline Method (Word)
+# View.CollapseOutline method (Word)
 
 Collapses the text under the selection or the specified range by one heading level.
 

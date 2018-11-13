@@ -1,5 +1,5 @@
 ---
-title: Revision.Reject Method (Word)
+title: Revision.Reject method (Word)
 keywords: vbawd10.chm159449190
 f1_keywords:
 - vbawd10.chm159449190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Reject Method (Word)
+# Revision.Reject method (Word)
 
 Rejects the specified tracked change. The revision marks are removed, leaving the original text intact.
 

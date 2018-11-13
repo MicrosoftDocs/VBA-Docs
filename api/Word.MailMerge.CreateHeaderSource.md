@@ -1,5 +1,5 @@
 ---
-title: MailMerge.CreateHeaderSource Method (Word)
+title: MailMerge.CreateHeaderSource method (Word)
 keywords: vbawd10.chm153092198
 f1_keywords:
 - vbawd10.chm153092198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.CreateHeaderSource Method (Word)
+# MailMerge.CreateHeaderSource method (Word)
 
 Creates a Microsoft Word document that stores a header record that is used instead of the data source header record in a mail merge.
 

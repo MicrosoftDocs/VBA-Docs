@@ -1,12 +1,12 @@
 ---
-title: HangulHanjaConversionDictionaries Object (Word)
+title: HangulHanjaConversionDictionaries object (Word)
 ms.prod: word
 ms.assetid: b6ed1c54-428b-c160-a2bd-642978660f44
 ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries Object (Word)
+# HangulHanjaConversionDictionaries object (Word)
 
 A collection of  **Dictionary** objects that includes the active custom Hangul-Hanja conversion dictionaries.
 

@@ -1,5 +1,5 @@
 ---
-title: Rows.Add Method (Word)
+title: Rows.Add method (Word)
 keywords: vbawd10.chm155975780
 f1_keywords:
 - vbawd10.chm155975780
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Add Method (Word)
+# Rows.Add method (Word)
 
 Returns a  **Row** object that represents a row added to a table.
 

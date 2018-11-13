@@ -1,5 +1,5 @@
 ---
-title: Chart.Paste Method (Word)
+title: Chart.Paste method (Word)
 keywords: vbawd10.chm79364167
 f1_keywords:
 - vbawd10.chm79364167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Paste Method (Word)
+# Chart.Paste method (Word)
 
 Pastes chart data from the Clipboard into the chart.
 

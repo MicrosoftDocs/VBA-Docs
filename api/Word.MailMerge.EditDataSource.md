@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditDataSource Method (Word)
+title: MailMerge.EditDataSource method (Word)
 keywords: vbawd10.chm153092203
 f1_keywords:
 - vbawd10.chm153092203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.EditDataSource Method (Word)
+# MailMerge.EditDataSource method (Word)
 
 Opens or switches to the mail merge data source.
 

@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.ClearAll Method (Word)
+title: HangulHanjaConversionDictionaries.ClearAll method (Word)
 keywords: vbawd10.chm165675110
 f1_keywords:
 - vbawd10.chm165675110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.ClearAll Method (Word)
+# HangulHanjaConversionDictionaries.ClearAll method (Word)
 
 Unloads all of the custom or conversion dictionaries.
 

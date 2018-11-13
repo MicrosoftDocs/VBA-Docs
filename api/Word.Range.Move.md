@@ -1,5 +1,5 @@
 ---
-title: Range.Move Method (Word)
+title: Range.Move method (Word)
 keywords: vbawd10.chm157155437
 f1_keywords:
 - vbawd10.chm157155437
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Move Method (Word)
+# Range.Move method (Word)
 
 Collapses the specified range to its start or end position and then moves the collapsed object by the specified number of units.
 
