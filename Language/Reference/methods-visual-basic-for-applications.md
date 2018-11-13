@@ -2,7 +2,7 @@
 title: Methods (Visual Basic for Applications)
 ms.prod: office
 ms.assetid: 54e96712-2cc1-4741-a37d-8e6c4e13f3dc
-ms.date: 09/17/2018
+ms.date: 09/17/2018 
 ---
 
 

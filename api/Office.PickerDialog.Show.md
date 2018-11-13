@@ -1,5 +1,5 @@
 ---
-title: PickerDialog.Show Method (Office)
+title: PickerDialog.Show method (Office)
 keywords: vbaof11.chm340005
 f1_keywords:
 - vbaof11.chm340005
@@ -7,30 +7,28 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.Show
 ms.assetid: 3073defe-4585-816d-6b86-9959cce4655f
-ms.date: 06/08/2017
+ms.date: 11/12/2018
 ---
 
 
-# PickerDialog.Show Method (Office)
+# PickerDialog.Show method (Office)
 
 Displays the Picker Dialog with already specified data handler and given options.
 
 
 ## Syntax
 
- _expression_. `Show`( `_IsMultiSelect_`, `_ExistingResults_` )
+_expression_. `Show`( _IsMultiSelect_, _ExistingResults_ )
 
- _expression_ An expression that returns a [PickerDialog](./Office.PickerDialog.md) object.
+_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _IsMultiSelect_|Optional|**Boolean**|Specifies whether the Picker Dialog user interface provides multiple item selection functions.|
-| _ExistingResults_|Optional|**PickerResults**|Contains existing ** PickerResults** in Picker Dialog user interface. These results are displayed in the selected item control.|
+| _ExistingResults_|Optional|**PickerResults**|Contains existing **PickerResults** in the Picker Dialog user interface. These results are displayed in the selected item control.|
 
 ## Return value
 
@@ -63,13 +61,8 @@ Set objPickerExistingResult = objPickerExistingResults.Add("johndoe@contoso.com"
 Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ```
 
-
 ## See also
 
-
-[PickerDialog Object](Office.PickerDialog.md)
-
-
-
-[PickerDialog Object Members](./overview/Library-Reference/pickerdialog-members-office.md)
-
+- [PickerDialog object members](overview/Library-Reference/pickerdialog-members-office.md)
+- [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
+- [Object Picker dialog box interfaces](https://docs.microsoft.com/windows/desktop/ad/object-picker-dialog-box-interfaces)

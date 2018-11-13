@@ -1,5 +1,5 @@
 ---
-title: XlFormatConditionType Enumeration (Excel)
+title: xlFormatConditionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormatConditionType
@@ -8,11 +8,9 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFormatConditionType Enumeration (Excel)
+# xlFormatConditionType enumeration (Excel)
 
 Specifies whether the conditional format is based on a cell value or an expression.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -23,7 +21,7 @@ Specifies whether the conditional format is based on a cell value or an expressi
 | **xlDatabar**|4|Databar|
 | **xlErrorsCondition**|16|Errors condition|
 | **xlExpression**|2|Expression|
-| **XlIconSet**|6|Icon set|
+| **xlIconSet**|6|Icon set|
 | **xlNoBlanksCondition**|13|No blanks condition|
 | **xlNoErrorsCondition**|17|No errors condition|
 | **xlTextString**|9|Text string|

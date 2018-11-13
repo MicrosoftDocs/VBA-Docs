@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.File
 ms.assetid: 0c8ff620-e1fe-e588-c2a6-d76adf372bbe
-ms.date: 06/08/2017
+ms.date: 11/12/2018
 ---
 
 
@@ -29,7 +29,33 @@ Sub ShowFileInfo(filespec)
 End Sub
 ```
 
+## Methods
+
+|Method|Description|
+|:-----|:----------|
+|[Copy](copy-method-visual-basic-for-applications.md)|Copies a specified file from one location to another |
+|[Delete](delete-method-visual-basic-for-applications.md)|Deletes a specified file |
+|[Move](move-method-filesystemobject-object.md)|Moves a specified file from one location to another |
+|[OpenAsTextStream](openastextstream-method.md)|Opens a specified file and returns a TextStream object to access the file |
+
+## Properties
+
+|Property|Description|
+|:-------|:----------|
+|[Attributes](attributes-property.md)|Sets or returns the attributes of a specified file |
+|[DateCreated](datecreated-property.md)|Returns the date and time when a specified file was created |
+|[DateLastAccessed](datelastaccessed-property.md)|Returns the date and time when a specified file was last accessed |
+|[DateLastModified](datelastmodified-property.md)|Returns the date and time when a specified file was last modified |
+|[Drive](drive-property.md)|Returns the drive letter of the drive where a specified file or folder resides |
+|[Name](name-property-filesystemobject-object.md)|Sets or returns the name of a specified file |
+|[ParentFolder](parentfolder-property.md)|Returns the folder object for the parent of the specified file |
+|[Path](path-property-filesystemobject-object.md)|Returns the path for a specified file |
+|[ShortName](shortname-property.md)|Returns the short name of a specified file (the 8.3 naming convention) |
+|[ShortPath](shortpath-property.md)|Returns the short path of a specified file (the 8.3 naming convention) |
+|[Size](size-property-filesystemobject-object.md)|Returns the size, in bytes, of a specified file |
+|[Type](type-property-filesystemobject-object.md)|Returns the type of a specified file |
+
 ## See also
 
-- [Object library reference for Office (members, properties, methods)](https://docs.microsoft.com/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
+- [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

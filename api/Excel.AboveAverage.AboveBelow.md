@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.AboveBelow Property (Excel)
+title: AboveAverage.AboveBelow property (Excel)
 keywords: vbaxl10.chm824076
 f1_keywords:
 - vbaxl10.chm824076
@@ -11,20 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.AboveBelow Property (Excel)
+# AboveAverage.AboveBelow property (Excel)
 
-Returns or sets one of the constants of the  **[XlAboveBelow](Excel.XlAboveBelow.md)** enumeration, specifying if the conditional formatting rule looks for cell values above or below the range average or standard deviation.
+Returns or sets one of the constants of the **[xlAboveBelow](Excel.XlAboveBelow.md)** enumeration, specifying if the conditional formatting rule looks for cell values above or below the range average or standard deviation.
 
 
 ## Syntax
 
- _expression_. `AboveBelow`
+_expression_. `AboveBelow`
 
- _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## See also
 
-
-[AboveAverage Object](Excel.AboveAverage.md)
+- [AboveAverage object](Excel.AboveAverage.md)
 

@@ -2,7 +2,7 @@
 title: Support for keeping add-ins enabled
 ms.prod: outlook
 ms.assetid: 63cd5a19-6c46-42f9-8fe2-9ce943bf106c
-ms.date: 10/23/2018
+ms.date: 11/12/2018
 ---
 
 
@@ -16,7 +16,7 @@ While most add-ins will not be disabled by the add-in disabling feature, you don
 
 Following are some suggestions for improving add-in performance:
 
-- Prefer native COM add-ins over managed add-ins since managed add-ins must incur the overhead of loading the .NET Framework during Outlook startup.
+- Prefer native COM add-ins over managed add-ins because managed add-ins must incur the overhead of loading the .NET Framework during Outlook startup.
     
 - If you have long-running tasks such as making an expensive connection to a database, defer those tasks to occur after startup.
     
@@ -31,9 +31,9 @@ Following are some suggestions for improving add-in performance:
 
 ## System administrator control over add-ins
 
-The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy "List of Managed Add-ins". 
+The user has control over which add-ins run on their computer. Beginning with Office 2013, system administrators can configure an enhanced level of control for add-ins by using group policy. Group policy will always override user settings and users are prevented from changing add-in settings for add-ins that have been configured by the group policy **List of Managed Add-ins**.
 
-The registry keys and settings are described in the following tables, using Outlook as an example:
+For Outlook, the registry keys and settings are described in the following tables.
 
 |**Name**|**Description**|
 |:-----|:-----|
@@ -50,6 +50,8 @@ The registry keys and settings are described in the following tables, using Outl
 > - Add-ins that are disabled by this policy will never be disabled by the Outlook add-in disabling feature, which disables add-ins for performance, resiliency, or reliability reasons.
 > 
 > - If the user chooses "Always enable this add-in", the registry is updated to include details about the add-in that is to be exempted from the automatic disabling feature.
+
+<br/>
 
 |**Name**|**Description**|
 |:-----|:-----|

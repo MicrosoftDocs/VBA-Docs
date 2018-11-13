@@ -1,17 +1,16 @@
 ---
-title: Operators Keyword Summary
+title: Operators keyword summary
 ms.prod: office
 ms.assetid: 0db3c2ae-2d07-1cd6-ce87-87069b06c280
 ms.date: 06/08/2017
 ---
 
 
-# Operators Keyword Summary
+# Operators keyword summary
 
-
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
-|Arithmetic.|[^](carrot-operator.md), [-](operator.md), [*](operator.md), [/](operator.md), [\](operator.md), [Mod](mod-operator.md), [+](plus-operator.md), [&](operator.md), [=](equals-operator.md)|
-|Comparison.|[=](comparison-operators.md), [<>](comparison-operators.md), [<](comparison-operators.md), [>](comparison-operators.md), [<=](comparison-operators.md), [>=](comparison-operators.md), [Like](like-operator.md), [Is](is-operator.md)|
-|Logical operations.|[Not](not-operator.md), [And](and-operator.md), [Or](or-operator.md), [Xor](xor-operator.md), [Eqv](eqv-operator.md), [Imp](imp-operator.md)|
+|Arithmetic|[^](carrot-operator.md)<br/><br/>[-](operator.md)<br/><br/>[*](operator.md)<br/><br/>[/](operator.md)<br/><br/>[\](operator.md)<br/><br/>[Mod](mod-operator.md)<br/><br/>[+](plus-operator.md)<br/><br/>[&](operator.md)<br/><br/>[=](equals-operator.md)|
+|Comparison|[=](comparison-operators.md)<br/><br/>[<>](comparison-operators.md)<br/><br/>[<](comparison-operators.md)<br/><br/>[>](comparison-operators.md)<br/><br/>[<=](comparison-operators.md)<br/><br/>[>=](comparison-operators.md)<br/><br/>[Like](like-operator.md)<br/><br/>[Is](is-operator.md)|
+|Logical operations|[Not](not-operator.md)<br/><br/>[And](and-operator.md)<br/><br/>[Or](or-operator.md)<br/><br/>[Xor](xor-operator.md)<br/><br/>[Eqv](eqv-operator.md)<br/><br/>[Imp](imp-operator.md)|
 

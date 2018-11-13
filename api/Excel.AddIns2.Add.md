@@ -1,5 +1,5 @@
 ---
-title: AddIns2.Add Method (Excel)
+title: AddIns2.Add method (Excel)
 keywords: vbaxl10.chm867073
 f1_keywords:
 - vbaxl10.chm867073
@@ -11,34 +11,27 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns2.Add Method (Excel)
+# AddIns2.Add method (Excel)
 
 Adds a new add-in to the list of add-ins.
 
 
 ## Syntax
 
- _expression_. `Add`( `_Filename_` , `_CopyFile_` )
+_expression_. `Add`( _Filename_ , _CopyFile_ )
 
- _expression_ A variable that returns an '[AddIns2](Excel.AddIns2.md)' object.
+_expression_ A variable that returns an [AddIns2](Excel.AddIns2.md) object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The name of the file that contains the add-in to add to the list in the  **Add-Ins** dialog box.|
+| _Filename_|Required| **String**|The name of the file that contains the add-in to add to the list in the **Add-Ins** dialog box.|
 | _CopyFile_|Optional| **Variant**| If the add-in file is on a removable medium, specifies whether to copy the add-in to the local hard disk. Specify **True** to copy the add-in to your hard disk. Specify **False** to keep the add-in on the removable medium. If this argument is omitted, Microsoft Excel displays a dialog box and asks the user to choose whether to copy the add-in file. This parameter is ignored if the add-in file is already on the hard disk.|
 
 ## Return value
 
 AddIn
 
-
-## See also
-
-
-[AddIns2 Object](Excel.AddIns2.md)
 

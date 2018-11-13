@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.UserForm
 ms.assetid: c64c7a57-56c6-e999-a5fe-dc083bf8fe99
-ms.date: 06/08/2017
+ms.date: 11/12/2018
 ---
 
 # UserForm object
@@ -46,3 +46,7 @@ Next Control
 ```
 
 
+## See also
+
+- [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

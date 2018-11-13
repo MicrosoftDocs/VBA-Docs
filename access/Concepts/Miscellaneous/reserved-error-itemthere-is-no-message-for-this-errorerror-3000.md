@@ -1,21 +1,22 @@
 ---
-title: Reserved error <Item>; there is no message for this error. (Error 3000)
+title: Reserved error "Item"; there is no message for this error (Error 3000)
 keywords: jeterr40.chm5003000
 f1_keywords:
 - jeterr40.chm5003000
 ms.prod: access
 ms.assetid: db1b443a-6136-f7c2-cac2-3fb810b910a5
-ms.date: 06/08/2017
+ms.date: 11/12/2018
 ---
 
 
-# Reserved error <Item>; there is no message for this error. (Error 3000)
-
-  
+# Reserved error "Item"; there is no message for this error (Error 3000)
 
 **Applies to:** Access 2013 | Access 2016
 
 An unexpected error occurred. The specified code identifies the conditions under which this error can occur. Please contact Microsoft Product Support Services for more information.
+
+> [!NOTE] 
+> Customer feedback: "By pulling out sections of the query I was attempting, I determined it was the criteria trying to limit to a range of datetime values. My workaround was to build a temp table without the datetime selection, and then in a later query use the temp table instead of the linked ODBC table."
 
 ## See also
 

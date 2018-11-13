@@ -2,7 +2,7 @@
 title: Properties (Visual Basic for Applications)
 ms.prod: office
 ms.assetid: c752becb-a4d4-4cc8-8764-7a7d2318263b
-ms.date: 09/17/2018
+ms.date: 09/17/2018 
 ---
 
 

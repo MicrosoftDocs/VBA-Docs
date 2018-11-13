@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AboveAverage.ScopeType Property (Excel)
 
-Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
+Returns or sets one of the constants of the **[xlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlP
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
+The default value is **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
 
 
 ## See also

@@ -211,7 +211,7 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |ConditionalFormattingDataBarsMoreOptions|button|
 |ConditionalFormattingHighlightBetween|button|
 |ConditionalFormattingHighlightCellsMenu|menu|
-|ConditionalFormattingHighlightDateOccuring|button|
+|ConditionalFormattingHighlightDateOccurring|button|
 |ConditionalFormattingHighlightDuplicateValues|button|
 |ConditionalFormattingHighlightEqualTo|button|
 |ConditionalFormattingHighlightGreaterThan|button|
