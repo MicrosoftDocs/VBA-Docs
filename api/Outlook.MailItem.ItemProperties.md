@@ -36,7 +36,7 @@ The following Microsoft Visual Basic for Applications (VBA) example returns the 
 ```vb
 Sub ItemProperty() 
  
- 'Creates a new e-mail item and accesses its properties. 
+ 'Creates a new email item and accesses its properties. 
  
  Dim objMail As Outlook.MailItem 
  
@@ -46,15 +46,15 @@ Sub ItemProperty()
  
  
  
- 'Create the e-mail item. 
+ 'Create the email item. 
  
  Set objMail = Application.CreateItem(olMailItem) 
  
- 'Create a reference to the e-mail item's properties collection. 
+ 'Create a reference to the email item's properties collection. 
  
  Set objItems = objMail.ItemProperties 
  
- 'Create a reference to the third e-mail item property. 
+ 'Create a reference to the third email item property. 
  
  Set objItem = objItems.Item(2) 
  

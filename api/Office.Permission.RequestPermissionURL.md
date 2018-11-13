@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Permission.RequestPermissionURL Property (Office)
 
-Gets or sets the file or Web site URL to visit or the e-mail address to contact for users who need additional permissions on the active document. Read/write.
+Gets or sets the file or Web site URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets or sets the file or Web site URL to visit or the e-mail address to contact 
 
 ## Remarks
 
-The ** RequestPermissionURL** setting corresponds to the **Users can request additional permissions from** option in the permissions user interface. Use the **RequestPermissionURL** property to specify a file, a Web site, or an e-mail contact from which users can request, or learn how to request, additional permissions on the active document, for example:
+The ** RequestPermissionURL** setting corresponds to the **Users can request additional permissions from** option in the permissions user interface. Use the **RequestPermissionURL** property to specify a file, a Web site, or an email contact from which users can request, or learn how to request, additional permissions on the active document, for example:
 
 
 - A Web address:  `https://companyserver/request_permissions.asp`

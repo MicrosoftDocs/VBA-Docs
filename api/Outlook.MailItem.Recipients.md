@@ -25,12 +25,12 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 ## Remarks
 
-A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP e-mail address.
+A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP email address.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
+This Visual Basic for Applications (VBA) example creates a new email message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
 
 
 ```vb
@@ -63,5 +63,5 @@ End Sub
 
 [How to: Send an E-mail Given the SMTP Address of an Account](./overview/Outlook.md)
 
-[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
 

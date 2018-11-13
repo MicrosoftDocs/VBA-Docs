@@ -35,7 +35,7 @@ The  **[MailItem.BodyFormat](Outlook.MailItem.BodyFormat.md)** property allows y
 
 
 
-[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
 
 
 

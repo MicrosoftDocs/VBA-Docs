@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates **True** if a read receipt has been 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReadReceiptRequested** . Read/write for e-mail items that have been created but have not been sent or posted; read-only for sent e-mail items.
+This property corresponds to the MAPI property  **PidTagReadReceiptRequested** . Read/write for email items that have been created but have not been sent or posted; read-only for sent email items.
 
 
 ## See also

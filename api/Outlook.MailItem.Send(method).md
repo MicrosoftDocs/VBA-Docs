@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.Send Method (Outlook)
 
-Sends the e-mail message.
+Sends the email message.
 
 
 ## Syntax
@@ -51,7 +51,7 @@ End Sub
 
 
 
-[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
 
 
 

@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-This property is commonly used with e-mail hyperlinks. The value of this property takes precedence over any e-mail subject specified in the  **[Address](PowerPoint.Hyperlink.Address.md)** property of the same **Hyperlink** object.
+This property is commonly used with email hyperlinks. The value of this property takes precedence over any email subject specified in the  **[Address](PowerPoint.Hyperlink.Address.md)** property of the same **Hyperlink** object.
 
 
 ## Example
 
-This example sets the e-mail subject line of the first hyperlink on slide one in the active presentation.
+This example sets the email subject line of the first hyperlink on slide one in the active presentation.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SignatureSetup.SuggestedSignerEmail Property (Office)
 
-Gets or sets the e-mail address of the signer of the document. Read/write.
+Gets or sets the email address of the signer of the document. Read/write.
 
 
 ## Syntax

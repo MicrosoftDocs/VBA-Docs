@@ -29,7 +29,7 @@ Returns an  **Editor** object that represents a specific user or a group of user
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**| Can be either a **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users.|
+| _Index_|Required| **Variant**| Can be either a **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users.|
 
 ## Return value
 

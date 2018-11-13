@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 **Applies to:** Access 2013 | Access 2016
 
-The MDAC documentation team welcomes your suggestions and comments about our documentation and samples. You can send feedback quickly and directly to us via e-mail or the Universal Data Access Web site. Many of your suggestions have been implemented in this release of the documentation.
+The MDAC documentation team welcomes your suggestions and comments about our documentation and samples. You can send feedback quickly and directly to us via email or the Universal Data Access Web site. Many of your suggestions have been implemented in this release of the documentation.
 
 
 > [!NOTE] 
@@ -21,7 +21,7 @@ The MDAC documentation team welcomes your suggestions and comments about our doc
 
 ## E-mail
 
-The MDAC documentation now includes a  **Documentation Feedback** button at the top of every topic. Clicking this button offers an easy way to send e-mail feedback to the MDAC documentation team. Addresses for each section of the MDAC documentation also appear below.
+The MDAC documentation now includes a  **Documentation Feedback** button at the top of every topic. Clicking this button offers an easy way to send email feedback to the MDAC documentation team. Addresses for each section of the MDAC documentation also appear below.
 
 
 

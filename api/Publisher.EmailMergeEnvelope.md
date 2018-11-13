@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope Object (Publisher)
 
-Represents the e-mail container (envelope) that holds the Microsoft Publisher document that is merged into an e-mail merge.
+Represents the email container (envelope) that holds the Microsoft Publisher document that is merged into an email merge.
  
 
 
@@ -23,14 +23,14 @@ The properties of the  **EmailMergeEnvelope** object correspond to the combinati
  
 
  
-Before you can use the  **Execute** method of the **[MailMerge](Publisher.MailMerge.md)** object to send a merged e-mail, you must specify a value for the **To** property of the **EmailMergeEnvelope** object, or Publisher will return an error.
+Before you can use the  **Execute** method of the **[MailMerge](Publisher.MailMerge.md)** object to send a merged email, you must specify a value for the **To** property of the **EmailMergeEnvelope** object, or Publisher will return an error.
  
 
  
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an e-mail merge and then send the resulting e-mail message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the e-mail message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the e-mail.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an email merge and then send the resulting email message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the email message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the email.
  
 
  
@@ -59,10 +59,10 @@ Public Sub EmailMergeEnvelope_Example()
  Set pubMailMerge = ThisDocument.MailMerge 
  pubMailMerge.OpenDataSource "PathToFile \DataSource.txt" 
  
- 'Assign "E-mail Address" to the To field of the e-mail message. 
+ 'Assign "E-mail Address" to the To field of the email message. 
  pubMailMerge.EmailMergeEnvelope.To = pubMailMerge.DataSource.DataFields.Item(3) 
  
- 'Add text to the Subject field of the e-mail message. 
+ 'Add text to the Subject field of the email message. 
  pubMailMerge.EmailMergeEnvelope.Subject = "Invitation" 
  
  'Insert two merge fields and some additional text in a text box in the body of the message. 
@@ -78,7 +78,7 @@ Public Sub EmailMergeEnvelope_Example()
  pubMailMerge.Execute True, pbSendEmail 
  
  'Display a reminder 
- MsgBox "If your e-mail client is not already open, remember to open it and send the e-mail messages that are in the outbox." 
+ MsgBox "If your email client is not already open, remember to open it and send the email messages that are in the outbox." 
  
 End Sub
 ```

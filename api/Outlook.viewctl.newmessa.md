@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewCtl.NewMessage Method (Outlook View Control)
 
-Creates and displays a new e-mail message.
+Creates and displays a new email message.
 
 
 ## Syntax

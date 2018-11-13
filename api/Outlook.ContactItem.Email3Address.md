@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email3Address Property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the third e-mail entry for the contact. Read/write.
+Returns or sets a  **String** representing the email address of the third email entry for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the e-mail address of the third e-mai
 
 ## Example
 
-This Visual Basic for Applications (VBA) example sets "someone@example.com" as the e-mail address for the third e-mail entry of a contact.
+This Visual Basic for Applications (VBA) example sets "someone@example.com" as the email address for the third email entry of a contact.
 
 
 ```vb

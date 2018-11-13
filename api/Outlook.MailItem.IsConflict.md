@@ -38,7 +38,7 @@ The following Microsoft Visual Basic for Applications (VBA) example creates a ne
 ```vb
 Sub NewMail() 
  
- 'Creates and tries to send a new e-mail message. 
+ 'Creates and tries to send a new email message. 
  
  Dim objNewMail As Outlook.MailItem 
  
@@ -48,7 +48,7 @@ Sub NewMail()
  
  objNewMail.Body = _ 
  
- "This e-mail message was created automatically on " & Now 
+ "This email message was created automatically on " & Now 
  
  objNewMail.To = "Jeff Smith" 
  

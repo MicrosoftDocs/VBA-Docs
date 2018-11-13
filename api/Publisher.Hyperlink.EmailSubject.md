@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.EmailSubject Property (Publisher)
 
-Sets or returns a  **String** that represents the subject for e-mail messages generated to process Web form data. Read/write.
+Sets or returns a  **String** that represents the subject for email messages generated to process Web form data. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or returns a  **String** that represents the subject for e-mail messages ge
 
 ## Example
 
-This example sets Publisher to process data on the Web form in the current publication by sending an e-mail message with a subject line to a specified e-mail address.
+This example sets Publisher to process data on the Web form in the current publication by sending an email message with a subject line to a specified email address.
 
 
 ```vb

@@ -18,7 +18,7 @@ Represents a user or resource in Outlook, generally a mail or mobile message add
 
 ## Remarks
 
-Use the  **[Recipients](./Outlook.Recipients.Item.md)** ( _index_ ) method, where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string that represents the display name, the alias, the full SMTP e-mail address, or the mobile phone number of the recipient. A good practice is to use the SMTP e-mail address for a mail message, and the mobile phone number for a mobile message.
+Use the  **[Recipients](./Outlook.Recipients.Item.md)** ( _index_ ) method, where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string that represents the display name, the alias, the full SMTP email address, or the mobile phone number of the recipient. A good practice is to use the SMTP email address for a mail message, and the mobile phone number for a mobile message.
 
 Use the  **[Add](./Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **[Recipients](Outlook.Recipients.md)** object. The **[Type](./Outlook.Recipient.Type.md)** property of a new **Recipient** object is set to the default value for the associated **[AppointmentItem](Outlook.AppointmentItem.md)**, **[JournalItem](./Outlook.JournalItem.md)**, **[MailItem](./Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** object and must be reset to indicate another recipient type.
 
@@ -91,5 +91,5 @@ myRecipient.Type = olCC
 
 
 [Recipient Object Members](./overview/Outlook.md)
-[How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
+[How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-email-address-of-a-recipient.md)
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)

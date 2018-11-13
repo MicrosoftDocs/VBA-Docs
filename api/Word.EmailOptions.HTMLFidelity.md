@@ -25,7 +25,7 @@ Strips HTML tags used for opening HTML files in Word but not required for displa
 
 ## Example
 
-This example keeps all HTML tags intact when sending e-mail messages.
+This example keeps all HTML tags intact when sending email messages.
 
 
 ```vb

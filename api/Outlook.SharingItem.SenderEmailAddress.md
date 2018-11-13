@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SenderEmailAddress Property (Outlook)
 
-Returns a  **String** that represents the e-mail address of the sender of the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns a  **String** that represents the email address of the sender of the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DistListItem.AddMember Method (Outlook)
 
-Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](Outlook.Recipient.md)** objects that represent valid e-mail addresses.
+Adds a new member to the specified distribution list. The distribution list contains  **[Recipient](Outlook.Recipient.md)** objects that represent valid email addresses.
 
 
 ## Syntax

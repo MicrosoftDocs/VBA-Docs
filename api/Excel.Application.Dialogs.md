@@ -38,7 +38,7 @@ Application.Dialogs(xlDialogOpen).Show
 
 
 
-The following code example opens an e-mail message in Microsoft Outlook with the current workbook attached.
+The following code example opens an email message in Microsoft Outlook with the current workbook attached.
 
 
 

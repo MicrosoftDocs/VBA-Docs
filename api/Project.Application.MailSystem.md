@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Application.MailSystem Method (Project)
 
-Returns the type of e-mail system installed on the host machine.
+Returns the type of email system installed on the host machine.
 
 
 ## Syntax

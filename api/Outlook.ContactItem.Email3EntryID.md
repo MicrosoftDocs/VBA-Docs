@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email3EntryID Property (Outlook)
 
-Returns a  **String** representing the entry ID of the third e-mail entry for the contact. Read-only.
+Returns a  **String** representing the entry ID of the third email entry for the contact. Read-only.
 
 
 ## Syntax

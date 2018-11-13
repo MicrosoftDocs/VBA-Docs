@@ -15,7 +15,7 @@ Each Microsoft Outlook item is a collection of fields. These collections of fiel
 |**Form**|**What the form is used for**|
 |:-----|:-----|
 |Contact|Keeping track of information about a person or organization.|
-|Distribution List|Creating a list of contacts and e-mail addresses that can be used as a single e-mail address.|
+|Distribution List|Creating a list of contacts and email addresses that can be used as a single email address.|
 |Task|Tracking information about a task.|
 |Message|Sending information to someone in a specific format, or providing a means to enter data so that it can be shared electronically. |
 |Post|Facilitating a threaded conversation that is saved in a folder, or for attaching files to a folder.|

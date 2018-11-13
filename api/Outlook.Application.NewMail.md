@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.NewMail Event (Outlook)
 
-Occurs when one or more new e-mail messages are received in the  **Inbox**. 
+Occurs when one or more new email messages are received in the  **Inbox**. 
 
 
 ## Syntax
@@ -34,7 +34,7 @@ The  **NewMail** event does not fire when the user is in offline mode.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays the  **Inbox** folder when a new e-mail message arrives. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
+This Microsoft Visual Basic for Applications (VBA) example displays the  **Inbox** folder when a new email message arrives. The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 
 ```vb

@@ -10,14 +10,14 @@ ms.date: 06/08/2017
 
 # EmailOptions object (Word)
 
-Contains global application-level attributes used by Microsoft Word when you create and edit e-mail messages and replies.
+Contains global application-level attributes used by Microsoft Word when you create and edit email messages and replies.
 
 
 ## Remarks
 
 Use the  **[EmailOptions](Word.Application.EmailOptions.md)** property to return the **EmailOptions** object.
 
-This example changes the font color of the default style used to compose new e-mail messages.
+This example changes the font color of the default style used to compose new email messages.
 
 
 
@@ -27,7 +27,7 @@ Application.EmailOptions.ComposeStyle.Font.Color = _
  wdColorBrightGreen
 ```
 
-This example sets Word to mark comments in e-mail messages with the initials "WK."
+This example sets Word to mark comments in email messages with the initials "WK."
 
 
 
@@ -37,7 +37,7 @@ Application.EmailOptions.MarkCommentsWith = "WK"
 Application.EmailOptions.MarkComments = True
 ```
 
-This example changes the signatures Word appends to new outgoing e-mail messages and e-mail message replies.
+This example changes the signatures Word appends to new outgoing email messages and email message replies.
 
 
 

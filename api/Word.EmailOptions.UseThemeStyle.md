@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.UseThemeStyle property (Word)
 
- **True** if new e-mail messages use the character style defined by the default e-mail message theme. Read/write **Boolean** .
+ **True** if new email messages use the character style defined by the default email message theme. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If no default e-mail message theme has been specified, the  **UseThemeStyle** property has no effect.
+If no default email message theme has been specified, the  **UseThemeStyle** property has no effect.
 
 
 ## Example
 
-This example sets Microsoft Word to use the Artsy theme as the default theme for new e-mail messages and to use the character style defined in the Artsy theme.
+This example sets Microsoft Word to use the Artsy theme as the default theme for new email messages and to use the character style defined in the Artsy theme.
 
 
 ```vb

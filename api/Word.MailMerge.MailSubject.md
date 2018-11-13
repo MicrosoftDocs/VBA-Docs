@@ -25,7 +25,7 @@ Returns or sets the subject line used when the mail merge destination is electro
 
 ## Example
 
-This example merges the document named "Offer.doc" with its attached data document. The results are sent to the e-mail addresses stored in the EmailNames merge field, and the subject of the mail message is "Amazing Offer."
+This example merges the document named "Offer.doc" with its attached data document. The results are sent to the email addresses stored in the EmailNames merge field, and the subject of the mail message is "Amazing Offer."
 
 
 ```vb

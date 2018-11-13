@@ -120,11 +120,11 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |E-mail|No| **Text**.|
 |E-mail 2|No| **Text**.|
 |E-mail 3|No| **Text**.|
-|E-mail Selected|Yes|Displays the e-mail address that was entered based on the value of the  **E-mail Selector** field.|
+|E-mail Selected|Yes|Displays the email address that was entered based on the value of the  **E-mail Selector** field.|
 |E-mail Selector|Yes|The following settings apply: **0** E-mail **1** E-mail 2 **2** E-mail 3|
-|E-mail Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail** field. This text displays on the **To** line when addressing a message or appointment.|
-|E-mail2 Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail 2** field. This text displays on the **To** line when addressing a message or appointment.|
-|E-mail3 Display As|Yes| **Text**. Alternate text that represents the e-mail address stored in the  **E-mail 3** field. This text displays on the **To** line when addressing a message or appointment.|
+|E-mail Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **E-mail** field. This text displays on the **To** line when addressing a message or appointment.|
+|E-mail2 Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **E-mail 2** field. This text displays on the **To** line when addressing a message or appointment.|
+|E-mail3 Display As|Yes| **Text**. Alternate text that represents the email address stored in the  **E-mail 3** field. This text displays on the **To** line when addressing a message or appointment.|
 |File As|No| **Text**. Value of the  **Full Name** field, unless modified by the user.|
 |First Name|Yes| **Text**.|
 |Follow Up Flag|Yes| **Text**.|
@@ -258,7 +258,7 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Start|Yes| **Date/Time**. Start time for the  **Journal** entry.|
 |Subject|Yes| **Text**.|
 
-### Standard fields in an e-mail message
+### Standard fields in an email message
 
 
 

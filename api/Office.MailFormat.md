@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # MailFormat Enumeration (Office)
 
-Specifies how the body of the e-mail is displayed.
+Specifies how the body of the email is displayed.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**mfHTML**|2|The e-mail is displayed as Hyper Text Markup Language (HTML).|
-|**mfPlainText**|1|The e-mail is displayed as plain text.|
-|**mfRTF**|3|The e-mail is displayed as Rich Text Format (RTF).|
+|**mfHTML**|2|The email is displayed as Hyper Text Markup Language (HTML).|
+|**mfPlainText**|1|The email is displayed as plain text.|
+|**mfRTF**|3|The email is displayed as Rich Text Format (RTF).|
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlkSenderPhoto Object (Outlook)
 
-A control that displays the sender's contact picture for items that can be received via e-mail.
+A control that displays the sender's contact picture for items that can be received via email.
 
 
 ## Remarks

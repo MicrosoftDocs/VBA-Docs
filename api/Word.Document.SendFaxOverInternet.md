@@ -29,7 +29,7 @@ Sends a document to a fax service provider, who faxes the document to one or mor
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
+| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and email addresses of the people to whom to send the fax. Separate multiple recipients with a semicolon.|
 | _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
 | _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 

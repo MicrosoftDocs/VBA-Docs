@@ -27,6 +27,6 @@ ms.date: 06/08/2017
     
 -  [Automatically Insert Prefix Text into the Subject Field of a Reply Form](../Configuring-Forms/automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
     
--  [Pre-address a Reply Form to a Public Folder or an E-mail Address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
+-  [Pre-address a Reply Form to a Public Folder or an E-mail Address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-email-address.md)
     
 

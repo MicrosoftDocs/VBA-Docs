@@ -17,6 +17,6 @@ ms.date: 06/08/2017
     
 -  [Specifying Rule Conditions](../../How-to/Rules/specifying-rule-conditions.md)
     
--  [Create a Rule to Move Specific E-mails to a Folder](../../How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md)
+-  [Create a Rule to Move Specific E-mails to a Folder](../../How-to/Rules/create-a-rule-to-move-specific-emails-to-a-folder.md)
     
 

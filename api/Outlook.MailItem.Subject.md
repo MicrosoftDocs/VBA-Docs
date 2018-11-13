@@ -30,7 +30,7 @@ This property corresponds to the MAPI property  **PidTagSubject** . The **Subjec
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, sets the **Subject** property, and displays the message.
+This Microsoft Visual Basic for Applications (VBA) example creates a new email message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, sets the **Subject** property, and displays the message.
 
 
 ```vb
@@ -61,6 +61,6 @@ End Sub
 
 
 
-[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+[Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
 
 

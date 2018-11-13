@@ -30,7 +30,7 @@ String
 
 ## Example
 
-This example creates a new Web command button, assigns text to appear on its face, and specifies an e-mail address to which to send the form data.
+This example creates a new Web command button, assigns text to appear on its face, and specifies an email address to which to send the form data.
 
 
 ```vb

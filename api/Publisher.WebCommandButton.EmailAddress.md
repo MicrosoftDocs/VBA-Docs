@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebCommandButton.EmailAddress Property (Publisher)
 
-Sets or returns a  **String** representing the e-mail address to use when processing Web form data. Read/write.
+Sets or returns a  **String** representing the email address to use when processing Web form data. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Example
 
-This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an e-mail message to a specified e-mail address.
+This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an email message to a specified email address.
 
 
 ```vb

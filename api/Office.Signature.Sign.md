@@ -32,7 +32,7 @@ Creates a signature packet.
 | _varSigImg_|Optional|**Variant**|The signature line graphic image.|
 | _varDelSuggSigner_|Optional|**Variant**|The suggested signer.|
 | _varDelSuggSignerLine2_|Optional|**Variant**|The additional signature line.|
-| _varDelSuggSignerEmail_|Optional|**Variant**|The e-mail address of the suggested signer.|
+| _varDelSuggSignerEmail_|Optional|**Variant**|The email address of the suggested signer.|
 
 ## Remarks
 
@@ -41,7 +41,7 @@ When the  **Sign** method is called, Microsoft Office creates a manifest and cal
 
 ## Example
 
-In the following example, the variables for the signature image, signer, signer's title, and signer's e-mail address are set and then the  **Sign** method is called to create and sign a signature packet.
+In the following example, the variables for the signature image, signer, signer's title, and signer's email address are set and then the  **Sign** method is called to create and sign a signature packet.
 
 
 ```vb

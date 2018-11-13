@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.EnvelopeVisible Property (PowerPoint)
 
-Determines whether the e-mail message header is visible in the document window. Read/write.
+Determines whether the email message header is visible in the document window. Read/write.
 
 
 ## Syntax
@@ -36,12 +36,12 @@ The value of the  **EnvelopeVisible** property can be one of these **MsoTriState
 
 |**Constant**|**Description**|
 |:-----|:-----|
-|**msoFalse**| The e-mail message header is not visible in the document window. The default.|
-|**msoTrue**| The e-mail message header is visible in the document window.|
+|**msoFalse**| The email message header is not visible in the document window. The default.|
+|**msoTrue**| The email message header is visible in the document window.|
 
 ## Example
 
-This example displays the e-mail message header.
+This example displays the email message header.
 
 
 ```vb

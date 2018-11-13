@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.Forward method (Word)
 
-Opens a new e-mail message with an empty  **To** line for forwarding the active message.
+Opens a new email message with an empty  **To** line for forwarding the active message.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Opens a new e-mail message with an empty  **To** line for forwarding the active 
 
 ## Remarks
 
-This method is available only if you are using Word as your e-mail editor.
+This method is available only if you are using Word as your email editor.
 
 
 ## Example
 
-This example opens a new e-mail message for forwarding the active message.
+This example opens a new email message for forwarding the active message.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EnvelopeVisible Property (Publisher)
 
-Returns or sets a  **Boolean** indicating whether the e-mail message header is visible in the publication window. Read/write.
+Returns or sets a  **Boolean** indicating whether the email message header is visible in the publication window. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Boolean
 
 ## Example
 
-This example displays the e-mail message header for the active publication.
+This example displays the email message header for the active publication.
 
 
 ```vb

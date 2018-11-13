@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Folder.InAppFolderSyncObject Property (Outlook)
 
-Returns or sets a  **Boolean** that determines if the specified folder will be synchronized with the e-mail server. Read/write.
+Returns or sets a  **Boolean** that determines if the specified folder will be synchronized with the email server. Read/write.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a constant from the  **[OlAddressEntryUserType](Outlook.OlAddressEntryUs
 
 ## Remarks
 
- **AddressEntryUserType** provides a level of granularity for user types that is finer than that of **[AddressEntry.DisplayType](Outlook.AddressEntry.DisplayType.md)** . The **DisplayType** property does not distinguish users with different types of **AddressEntry** , such as an **AddressEntry** that has a Simple Mail Transfer Protocol (SMTP) e-mail address, a Lightweight Directory Access Protocol (LDAP) address, an Exchange user address, or an **AddressEntry** in the Outlook Contacts Address Book. All these entires have **olUser** as their **AddressEntry.DisplayType** .
+ **AddressEntryUserType** provides a level of granularity for user types that is finer than that of **[AddressEntry.DisplayType](Outlook.AddressEntry.DisplayType.md)** . The **DisplayType** property does not distinguish users with different types of **AddressEntry** , such as an **AddressEntry** that has a Simple Mail Transfer Protocol (SMTP) email address, a Lightweight Directory Access Protocol (LDAP) address, an Exchange user address, or an **AddressEntry** in the Outlook Contacts Address Book. All these entires have **olUser** as their **AddressEntry.DisplayType** .
 
 
 ## Example

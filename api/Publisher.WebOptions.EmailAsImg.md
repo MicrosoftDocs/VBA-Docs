@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This property can increase your message's compatibility with older e-mail clients, but may result in larger file size.
+This property can increase your message's compatibility with older email clients, but may result in larger file size.
 
 This property is accessible for print publications in addition to Web publications.
 
@@ -41,7 +41,7 @@ This property corresponds to the check box in the  **E-Mail Options** section of
 
 ## Example
 
-The following example sets Microsoft Publisher to e-mail publication pages as JPEG images.
+The following example sets Microsoft Publisher to email publication pages as JPEG images.
 
 
 ```vb

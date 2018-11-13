@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Cc Property (Publisher)
 
-Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the e-mail addresses of recipients you want to receive a carbon copy (CC) of the merged e-mail message. Read/write.
+Gets or sets the  **MailMergeDataField** object that represents the data-source field (column) that lists the email addresses of recipients you want to receive a carbon copy (CC) of the merged email message. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ MailMergeDataField
 
 ## Remarks
 
-You must make certain that you assign the correct data-source field (the one that represents CC e-mail addresses) to the  **Cc** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **Cc** is assigned, to ensure that you make the correct assignment:
+You must make certain that you assign the correct data-source field (the one that represents CC email addresses) to the  **Cc** property. You can use the following line of code, which gets the value of the **Name** property of the **MailMergeDataField** object to which **Cc** is assigned, to ensure that you make the correct assignment:
 
 
 ```vb

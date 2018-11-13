@@ -25,7 +25,7 @@ Creates a new  **[MailItem](Outlook.MailItem.md)** object containing contact inf
 
 ## Return value
 
-A  **MailItem** object that represents the new e-mail item containing the business card information.
+A  **MailItem** object that represents the new email item containing the business card information.
 
 
 ## Remarks

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Globally Change a Default Form
 
-You can change the default form in Microsoft Outlook by making changes to the Microsoft Windows registry. The registry settings specify which forms are substituted for the default Outlook forms. For example, if you create a custom form called "Default," that custom form has a message class of IPM.Note.Default, instead of the standard Outlook e-mail message class of IPM.Note. You can add certain registry keys to indicate that Outlook should substitute the IPM.Note.Default form for the standard IPM.Note form.
+You can change the default form in Microsoft Outlook by making changes to the Microsoft Windows registry. The registry settings specify which forms are substituted for the default Outlook forms. For example, if you create a custom form called "Default," that custom form has a message class of IPM.Note.Default, instead of the standard Outlook email message class of IPM.Note. You can add certain registry keys to indicate that Outlook should substitute the IPM.Note.Default form for the standard IPM.Note form.
 
 
  **Caution**  Custom forms may have certain limitations. Before you change the detault form in Outlook to a custom form, be aware of possible implications especially if the form will be deployed to many users. See Microsoft Knowledge Base article 241235 for further information.

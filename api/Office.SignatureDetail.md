@@ -20,7 +20,7 @@ Indicates additional information about a signature.
 |**sigdetApplicationVersion**|2|Specifies the application version.|
 |**sigdetColorDepth**|8|Specifies the color depth.|
 |**sigdetDelSuggSigner**|16|Specifies the suggested signer delegate.|
-|**sigdetDelSuggSignerEmail**|20|Specifies the suggested signer's delegate's e-mail.|
+|**sigdetDelSuggSignerEmail**|20|Specifies the suggested signer's delegate's email.|
 |**sigdetDelSuggSignerEmailSet**|21|Indicates whether an email for a suggested signer delegate has been specified.|
 |**sigdetDelSuggSignerLine2**|18|Specifies the suggested signer's delegate's signature line.|
 |**sigdetDelSuggSignerLine2Set**|19|Specifies the set of suggested signer's delegate's signature lines.|

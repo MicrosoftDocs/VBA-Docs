@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Email property (Word)
 
-Returns an  **[Email](Word.Email.md)** object that contains all the e-mail-related properties of the current document. Read-only.
+Returns an  **[Email](Word.Email.md)** object that contains all the email-related properties of the current document. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[Email](Word.Email.md)** object that contains all the e-mail-relat
 
 ## Example
 
-This example returns the name of the style associated with the current e-mail author.
+This example returns the name of the style associated with the current email author.
 
 
 ```vb

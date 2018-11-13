@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EmailOptions property (Word)
 
-Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the global preferences for e-mail authoring. Read-only.
+Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the global preferences for email authoring. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the 
 
 ## Example
 
-This example sets Microsoft Word to mark comments in e-mail messages.
+This example sets Microsoft Word to mark comments in email messages.
 
 
 ```vb

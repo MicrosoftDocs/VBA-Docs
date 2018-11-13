@@ -50,7 +50,7 @@ This example adds the user's email alias and the current date to the project  **
 Private Sub Project_Open(ByVal pj As MSProject.Project) 
     Dim Alias As String 
  
-    Alias = InputBox$("Please enter your e-mail alias: ") 
+    Alias = InputBox$("Please enter your email alias: ") 
     pj.ProjectSummaryTask.AppendNotes vbCrLf & "Opened by " & Alias & _
         " on " & Date$ & "." 
 End Sub

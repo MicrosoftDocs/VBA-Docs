@@ -30,7 +30,7 @@ Returns a  **Hyperlink** object that represents a new hyperlink added to a range
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Anchor_|Required| **Object**|The text or graphic that you want turned into a hyperlink.|
-| _Address_|Optional| **Variant**|The address for the specified link. The address can be an e-mail address, an Internet address, or a file name. Note that Microsoft Word doesn't check the accuracy of the address.|
+| _Address_|Optional| **Variant**|The address for the specified link. The address can be an email address, an Internet address, or a file name. Note that Microsoft Word doesn't check the accuracy of the address.|
 | _SubAddress_|Optional| **Variant**|The name of a location within the destination file, such as a bookmark, named range, or slide number.|
 | _ScreenTip_|Optional| **Variant**|The text that appears as a ScreenTip when the mouse pointer is positioned over the specified hyperlink. The default value is "Address".|
 | _TextToDisplay_|Optional| **Variant**|The display text of the specified hyperlink. The value of this argument replaces the text or graphic specified by Anchor.|

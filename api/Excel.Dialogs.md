@@ -45,7 +45,7 @@ dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 
  **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/)
 
-The following code example opens an e-mail message in Microsoft Outlook with the current workbook attached.
+The following code example opens an email message in Microsoft Outlook with the current workbook attached.
 
 
 

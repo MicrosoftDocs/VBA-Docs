@@ -29,7 +29,7 @@ Creates a new recipient in the  **[Recipients](Outlook.Recipients.md)** collecti
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP e-mail address of the recipient.|
+| _Name_|Required| **String**|The name of the recipient; it can be a string representing the display name, the alias, or the full SMTP email address of the recipient.|
 
 ## Return value
 

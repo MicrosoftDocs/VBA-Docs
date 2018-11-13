@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ReplyWithChanges method (Word)
 
-Sends an e-mail message to the author of a document that has been sent out for review, notifying them that a reviewer has completed review of the document.
+Sends an email message to the author of a document that has been sent out for review, notifying them that a reviewer has completed review of the document.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Use the  **SendForReview** method to start a collaborative review of a document.
 
 ## Example
 
-This example sends a message notifying the author that a reviewer has completed a review, without first displaying the e-mail message to the reviewer. This example assumes that the current document is part of a collaborative review cycle.
+This example sends a message notifying the author that a reviewer has completed a review, without first displaying the email message to the reviewer. This example assumes that the current document is part of a collaborative review cycle.
 
 
 ```vb

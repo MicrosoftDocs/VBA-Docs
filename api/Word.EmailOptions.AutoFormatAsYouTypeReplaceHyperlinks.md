@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 
- **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean** .
+ **True** if email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Word changes any text that looks like an e-mail address, UNC, or URL to a hyperlink. However, Word does not check the validity of the hyperlink.
+Word changes any text that looks like an email address, UNC, or URL to a hyperlink. However, Word does not check the validity of the hyperlink.
 
 
 ## Example

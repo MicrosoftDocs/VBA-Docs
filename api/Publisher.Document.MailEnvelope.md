@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.MailEnvelope Property (Publisher)
 
-Returns an  **MsoEnvelope** object that represents an e-mail header for a publication.
+Returns an  **MsoEnvelope** object that represents an email header for a publication.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The  **MailEnvelope** property is only accessible if the **[EnvelopeVisible](Pub
 
 ## Example
 
-This example sets the comments for the e-mail header of the active publication. This example assumes that the  **EnvelopeVisible** property has been set to **True**.
+This example sets the comments for the email header of the active publication. This example assumes that the  **EnvelopeVisible** property has been set to **True**.
 
 
 ```vb

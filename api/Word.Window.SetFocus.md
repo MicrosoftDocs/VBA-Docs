@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SetFocus method (Word)
 
-Sets the focus of the specified document window to the body of an e-mail message.
+Sets the focus of the specified document window to the body of an email message.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Sets the focus of the specified document window to the body of an e-mail message
 
 ## Remarks
 
-If the document isn't an e-mail message, this method has no effect.
+If the document isn't an email message, this method has no effect.
 
 
 ## Example
 
-This example makes the header of an e-mail message visible and sets the focus to the body of the message.
+This example makes the header of an email message visible and sets the focus to the body of the message.
 
 
 ```vb

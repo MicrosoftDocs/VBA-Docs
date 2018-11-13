@@ -25,11 +25,11 @@ Returns or sets the format type that Microsoft Word uses when automatically form
 
 ## Example
 
-This example asks the user whether the active document is an e-mail message. If the response is Yes, the document is formatted as an e-mail message.
+This example asks the user whether the active document is an email message. If the response is Yes, the document is formatted as an email message.
 
 
 ```vb
-response = MsgBox("Is this document an e-mail message?", vbYesNo) 
+response = MsgBox("Is this document an email message?", vbYesNo) 
 If response = vbYes Then 
  ActiveDocument.Kind = wdDocumentEmail 
  ActiveDocument.Content.AutoFormat 

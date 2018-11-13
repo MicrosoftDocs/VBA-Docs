@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Attachemts Property (Publisher)
 
-Gets the list of a merged e-mail message's attachments. Read-only.
+Gets the list of a merged email message's attachments. Read-only.
 
 
 ## Syntax
@@ -30,6 +30,6 @@ Attachments
 
 ## Remarks
 
-To add attachments to a merged e-mail message, use the  **[Add](Publisher.Attachments.Add.md)** method of the **[Attachment](Publisher.Attachment.md)** object. To remove an attachment, use the ** [Attachment.Delete](Publisher.Attachment.Delete.md)** method; to remove all attachments, use the **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **[Attachments](Publisher.Attachments.md)** collection.
+To add attachments to a merged email message, use the  **[Add](Publisher.Attachments.Add.md)** method of the **[Attachment](Publisher.Attachment.md)** object. To remove an attachment, use the ** [Attachment.Delete](Publisher.Attachment.Delete.md)** method; to remove all attachments, use the **[ClearAll](Publisher.Attachments.ClearAll.md)** method of the **[Attachments](Publisher.Attachments.md)** collection.
 
 

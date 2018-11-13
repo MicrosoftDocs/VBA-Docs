@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMessage.GoToPrevious method (Word)
 
-Displays the previous mail message if you are using Word as your e-mail editor.
+Displays the previous mail message if you are using Word as your email editor.
 
 
 ## Syntax

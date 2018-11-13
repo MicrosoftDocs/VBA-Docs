@@ -26,6 +26,6 @@ Represents the information used to set up a signature packet.
 |[SignatureProvider](../../Office.SignatureSetup.SignatureProvider.md)|Gets a value identifying an installed signature provider add-in. Read-only.|
 |[SigningInstructions](../../Office.SignatureSetup.SigningInstructions.md)|Gets or sets the instructions for signing the document. Read/write.|
 |[SuggestedSigner](../../Office.SignatureSetup.SuggestedSigner.md)|Gets or sets the name of the principle signer of the document. Read/write.|
-|[SuggestedSignerEmail](../../Office.SignatureSetup.SuggestedSignerEmail.md)|Gets or sets the e-mail address of the signer of the document. Read/write.|
+|[SuggestedSignerEmail](../../Office.SignatureSetup.SuggestedSignerEmail.md)|Gets or sets the email address of the signer of the document. Read/write.|
 |[SuggestedSignerLine2](../../Office.SignatureSetup.SuggestedSignerLine2.md)|Gets or sets the second line of suggested signer information (for example, title). Read/write.|
 

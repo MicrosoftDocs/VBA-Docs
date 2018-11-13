@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EmailRoutingData Property (Visio)
 
-Returns e-mail routing data for a document. Read-only. 
+Returns email routing data for a document. Read-only. 
 
 
 ## Syntax

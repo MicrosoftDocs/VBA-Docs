@@ -59,7 +59,7 @@ With Worksheets(1)
 End With
 ```
 
-This example adds an e-mail hyperlink to cell A5.
+This example adds an email hyperlink to cell A5.
 
 
 

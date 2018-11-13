@@ -25,12 +25,12 @@ Returns or sets the text string for the specified hyperlink's subject line. Read
 
 ## Remarks
 
-The subject line is appended to the hyperlink's Internet address, or URL. This property is commonly used with e-mail hyperlinks. The value of this property takes precedence over any e-mail subject specified in the  **[Address](Word.Hyperlink.Address.md)** property of the same **Hyperlink** object.
+The subject line is appended to the hyperlink's Internet address, or URL. This property is commonly used with email hyperlinks. The value of this property takes precedence over any email subject specified in the  **[Address](Word.Hyperlink.Address.md)** property of the same **Hyperlink** object.
 
 
 ## Example
 
-This example checks the active document for e-mail hyperlinks; if it finds any that have a blank subject line, it adds the subject "NewProducts".
+This example checks the active document for email hyperlinks; if it finds any that have a blank subject line, it adds the subject "NewProducts".
 
 
 ```vb

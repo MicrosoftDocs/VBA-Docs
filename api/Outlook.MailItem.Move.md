@@ -38,7 +38,7 @@ An  **Object** value that represents the item which has been moved to the design
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses  **[GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md)** to return the **Folder** object that represents the default folder. It then uses the **[Find](Outlook.Items.Find.md)** and **[FindNext](Outlook.Items.FindNext.md)** methods to find all messages sent by Dan Wilson and uses the **Move** method to move all e-mail messages sent by Dan Wilson from the default **Inbox** folder to the Personal Mail folder. To run this example without any errors, replace 'Dan Wilson' with a vaid sender name and make sure there's a folder under Inbox called 'Personal Mail'. Note that `myItem` is declared as type **Object** so that it can represent all types of Outlook items including meeting request and task request items.
+This Visual Basic for Applications (VBA) example uses  **[GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md)** to return the **Folder** object that represents the default folder. It then uses the **[Find](Outlook.Items.Find.md)** and **[FindNext](Outlook.Items.FindNext.md)** methods to find all messages sent by Dan Wilson and uses the **Move** method to move all email messages sent by Dan Wilson from the default **Inbox** folder to the Personal Mail folder. To run this example without any errors, replace 'Dan Wilson' with a vaid sender name and make sure there's a folder under Inbox called 'Personal Mail'. Note that `myItem` is declared as type **Object** so that it can represent all types of Outlook items including meeting request and task request items.
 
 
 ```vb

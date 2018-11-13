@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.Introduction Property (Office)
 
-Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the e-mail. Read/write.
+Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the email. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Sets or gets the introductory text that is included with a document that is sent
 
 ## Example
 
-The following example sends the active Microsoft Word document as an e-mail to the e-mail address that you pass to the subroutine.
+The following example sends the active Microsoft Word document as an email to the email address that you pass to the subroutine.
 
 
 ```vb
@@ -34,7 +34,7 @@ Sub SendMail(ByVal strRecipient As String)
  'Use a With...End With block to reference the MsoEnvelope object. 
  With Application.ActiveDocument.MailEnvelope 
  
- 'Add some introductory text before the body of the e-mail. 
+ 'Add some introductory text before the body of the email. 
  .Introduction = "Please read this and send me your comments." 
  
  'Return a MailItem object that you can use to send the document. 

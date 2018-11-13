@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.UseThemeStyleOnReply property (Word)
 
- **True** for Microsoft Word to use a theme when replying to e-mail. Read/write **Boolean** .
+ **True** for Microsoft Word to use a theme when replying to email. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example tells Word to use a theme when replying to e-mail if Word uses a theme for new messages.
+This example tells Word to use a theme when replying to email if Word uses a theme for new messages.
 
 
 ```vb

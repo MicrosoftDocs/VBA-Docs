@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.MailEnvelope property (Excel)
 
-Rrepresents an e-mail header for a document.
+Rrepresents an email header for a document.
 
 
 ## Syntax
