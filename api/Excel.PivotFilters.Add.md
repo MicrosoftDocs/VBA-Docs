@@ -29,7 +29,7 @@ Adds new filters to the  **PivotFilters** collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlPivotFilterType**|Requires an  **[xlPivotFilterType](Excel.XlPivotFilterType.md)** type of filter.|
+| _Type_|Required| **xlPivotFilterType**|Requires an  **[xlPivotFilterType](Excel.XlPivotFilterType.md)** type of filter.|
 | _DataField_|Optional| **Variant**|The field to which the filter is attached.|
 | _Value1_|Optional| **Variant**|Filter value 1.|
 | _Value2_|Optional| **Variant**|Filter value 2.|

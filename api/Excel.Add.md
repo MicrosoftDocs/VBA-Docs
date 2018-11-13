@@ -20,7 +20,7 @@ Creates a new trend line. Returns a Trendline object.
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
  **Type**Optional 
- **XlTrendlineType**
+ **xlTrendlineType**
 . The type of trendline.
 
 

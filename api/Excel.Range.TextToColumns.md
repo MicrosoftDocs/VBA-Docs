@@ -64,7 +64,7 @@ The following table shows the results of importing text into Excel for various i
 |Period|Comma|Period|Space|123 123.45|123,123.45 (numeric)|
 
 
-| **XlColumnDataType** can be one of these **XlColumnDataType** constants.|
+| **xlColumnDataType** can be one of these **xlColumnDataType** constants.|
 | **xlGeneralFormat** . General|
 | **xlTextFormat** . Text|
 | **xlMDYFormat** . MDY Date|

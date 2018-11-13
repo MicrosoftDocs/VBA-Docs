@@ -27,7 +27,7 @@ Determines the type of calculation in the Totals row of the list column based on
 
 
 
-| **XlTotalsCalculation** can be one of these **XlTotalsCalculation** constants.|
+| **xlTotalsCalculation** can be one of these **xlTotalsCalculation** constants.|
 | **xlTotalsCalculationNone**|
 | **xlTotalsCalculationSum**|
 | **xlTotalsCalculationAverage**|

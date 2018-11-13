@@ -18,7 +18,7 @@ Gets or sets the shape used with the 3-D bar chart or 3-D column chart. Read/wri
 
 ## Remarks
 
-To see the  **XlBarShape** enumeration in the Object Browser, show the hidden members in the **Office** library.
+To see the  **xlBarShape** enumeration in the Object Browser, show the hidden members in the **Office** library.
 
 
 ## Property value

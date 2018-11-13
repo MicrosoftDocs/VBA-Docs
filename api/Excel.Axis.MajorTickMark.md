@@ -29,7 +29,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
 
 
-| **XlTickMark** can be one of these **XlTickMark** constants.|
+| **xlTickMark** can be one of these **xlTickMark** constants.|
 | **xlTickMarkInside**|
 | **xlTickMarkOutside**|
 | **xlTickMarkCross**|

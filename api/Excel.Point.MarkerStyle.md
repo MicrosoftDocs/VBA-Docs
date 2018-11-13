@@ -29,7 +29,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 
 
-| **XlMarkerStyle** can be one of these **XlMarkerStyle** constants.|
+| **xlMarkerStyle** can be one of these **xlMarkerStyle** constants.|
 | **xlMarkerStyleAutomatic** . Automatic markers|
 | **xlMarkerStyleCircle** . Circular markers|
 | **xlMarkerStyleDash** . Long bar markers|

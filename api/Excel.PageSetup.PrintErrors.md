@@ -29,7 +29,7 @@ Sets or returns an  **[xlPrintErrors](Excel.XlPrintErrors.md)** contstant specif
 
 
 
-| **XlPrintErrors** can be one of these **XlPrintErrors** constants.|
+| **xlPrintErrors** can be one of these **xlPrintErrors** constants.|
 | **xlPrintErrorsBlank**|
 | **xlPrintErrorsDash**|
 | **xlPrintErrorsDisplayed**|

@@ -29,7 +29,7 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 
 
-| **XlSpeakDirection** can be one of these **XlSpeakDirection** constants.|
+| **xlSpeakDirection** can be one of these **xlSpeakDirection** constants.|
 | **xlSpeakByColumns**|
 | **xlSpeakByRows**|
 

@@ -27,7 +27,7 @@ Returns the custom subtotal function field setting of a  **PivotCell** object. R
 
 
 
-| **XlConsolidationFunction** can be one of these **XlConsolidationFunction** constants.|
+| **xlConsolidationFunction** can be one of these **xlConsolidationFunction** constants.|
 | **xlAverage**|
 | **xlCount**|
 | **xlCountNums**|

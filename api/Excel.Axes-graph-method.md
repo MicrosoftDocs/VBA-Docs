@@ -20,7 +20,7 @@ Returns an object that represents either a single axis or a collection of the ax
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
  **Type** Optional
- **XlAxisType**
+ **xlAxisType**
 . Specifies the axis to return. The reference style of the formula.
 
 
@@ -29,7 +29,7 @@ Returns an object that represents either a single axis or a collection of the ax
 | **xlCategory** **xlSeriesAxis** (valid only for 3-D charts)|
 
  **AxisGroup** Optional
- **XlAxisGroup**
+ **xlAxisGroup**
 . The reference style of the formula.
 
 

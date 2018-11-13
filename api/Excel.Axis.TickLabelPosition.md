@@ -29,7 +29,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write  **
 
 
 
-| **XlTickLabelPosition** can be one of these **XlTickLabelPosition** constants.|
+| **xlTickLabelPosition** can be one of these **xlTickLabelPosition** constants.|
 | **xlTickLabelPositionLow**|
 | **xlTickLabelPositionNone**|
 | **xlTickLabelPositionHigh**|

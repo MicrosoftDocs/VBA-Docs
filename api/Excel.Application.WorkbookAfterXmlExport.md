@@ -43,7 +43,7 @@ Nothing
 
 
 
-| **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants|
+| **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants|
 | **xlXmlExportSuccess** . The XML data file was successfully exported.|
 | **xlXmlExportValidationFailed** . The contents of the XML data file do not match the specified schema map.|
 

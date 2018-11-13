@@ -25,7 +25,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 ## Remarks
 
-Can be one of the  **XlAxisCrosses** constants listed in the following table.
+Can be one of the  **xlAxisCrosses** constants listed in the following table.
 
 
 

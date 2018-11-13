@@ -27,7 +27,7 @@ Returns or sets the color of the indicator for error checking options. Read/writ
 
 
 
-| **XlColorIndex** can be one of these **XlColorIndex** constants.|
+| **xlColorIndex** can be one of these **xlColorIndex** constants.|
 | **xlColorIndexAutomatic** The default system color.|
 | **xlColorIndexNone** Not used with this property.|
 

@@ -27,7 +27,7 @@ Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/wri
 
 
 
-| **XlMousePointer** can be one of these **XlMousePointer** constants.|
+| **xlMousePointer** can be one of these **xlMousePointer** constants.|
 | **xlDefault** . The default pointer.|
 | **xlIBeam** . The I-beam pointer.|
 | **xlNorthwestArrow** . The northwest-arrow pointer.|

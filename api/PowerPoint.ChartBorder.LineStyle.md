@@ -25,7 +25,7 @@ Returns or sets the line style for the border. Read/write  **[xlLineStyle](Power
 
 ## Remarks
 
-The  **xlDouble** and **xlSlantDashDot** constants of the **XlLineStyle** enumeration do not apply to charts.
+The  **xlDouble** and **xlSlantDashDot** constants of the **xlLineStyle** enumeration do not apply to charts.
 
 
 ## Example

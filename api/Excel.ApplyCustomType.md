@@ -21,7 +21,7 @@ Applies a standard or custom chart type to a series.
 
  _expression_ Required. An expression that returns one of the above objects.
  **ChartType**Required 
- **XlChartType**
+ **xlChartType**
 . A standard chart type.
 
 
@@ -105,7 +105,7 @@ Applies a standard or custom chart type to a chart.
  _expression_. **ApplyCustomType**(**_ChartType_**,  **_TypeName_**)
  _expression_ Required. An expression that returns one of the above objects.
  **ChartType**Required 
- **XlChartType**
+ **xlChartType**
 . A standard chart type.
 
 

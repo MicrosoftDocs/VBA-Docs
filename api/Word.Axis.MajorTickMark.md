@@ -25,7 +25,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
 ## Remarks
 
- **MajorTickMark** can be set to one of the following **XlTickMark** constants:
+ **MajorTickMark** can be set to one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**

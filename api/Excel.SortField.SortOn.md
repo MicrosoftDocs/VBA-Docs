@@ -29,7 +29,7 @@ Returns or sets what attribute of the cell to sort on . Read/write  **[xlSortOn]
 
 
 
-|XlSortOn can be one of these  **XlSortOn** constants.|
+|XlSortOn can be one of these  **xlSortOn** constants.|
 | **SortOnCellColor**|
 | **SortOnFontColor**|
 | **SortOnIcon**|

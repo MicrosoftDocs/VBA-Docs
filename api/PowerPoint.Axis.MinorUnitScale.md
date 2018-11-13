@@ -25,7 +25,7 @@ Returns or sets the minor unit scale value for the category axis when the  **[Ca
 
 ## Remarks
 
- **MinorUnitScale** can be one of the following **XlTimeUnit** constants:
+ **MinorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
 -  **xlMonths**

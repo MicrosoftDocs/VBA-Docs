@@ -43,7 +43,7 @@ Range
 
 
 
-|**XlCellType constants**|**Value**|
+|**xlCellType constants**|**Value**|
 |:-----|:-----|
 | **xlCellTypeAllFormatConditions** . Cells of any format|-4172|
 | **xlCellTypeAllValidation** . Cells having validation criteria|-4174|

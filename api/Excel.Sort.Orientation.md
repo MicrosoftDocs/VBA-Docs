@@ -29,7 +29,7 @@ Specifies the orientation for the sort. Read/write  **[xlSortOrientation](Excel.
 
 
 
-|XlSortOrientation can be one of these  **XlSortOrientation** constants.|
+|XlSortOrientation can be one of these  **xlSortOrientation** constants.|
 | **xlSortColumns**|
 | **xlSortRows**|
 

@@ -27,7 +27,7 @@ Returns or sets the column format for the data in the text file that you are imp
 
 
 
-| **XlTextParsingType** can be one of these **XlTextParsingType** constants.|
+| **xlTextParsingType** can be one of these **xlTextParsingType** constants.|
 | **xlFixedWidth** . Indicates that the data in the file is arranged in columns of fixed widths.|
 | **xlDelimited**_default_ . Iindicates the file is delimited by delimiter characters|
 

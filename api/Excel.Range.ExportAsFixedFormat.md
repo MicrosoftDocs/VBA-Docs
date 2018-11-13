@@ -29,7 +29,7 @@ Exports to a file of the specified format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlFixedFormatType**|The type of file format to export to.|
+| _Type_|Required| **xlFixedFormatType**|The type of file format to export to.|
 | _Filename_|Optional| **Variant**|The file name of the file to be saved. You can include a full path, or Excel saves the file in the current folder.|
 | _Quality_|Optional| **Variant**|Optional  **[xlFixedFormatQuality](Excel.XlFixedFormatQuality.md)** . Specifies the quality of the published file.|
 | _IncludeDocProperties_|Optional| **Variant**| **True** to include the document properties; otherwise **False** .|

@@ -29,7 +29,7 @@ Returns or sets the way the two sections of either a pie of pie chart or a bar o
 
 
 
-| **XlChartSplitType** can be one of these **XlChartSplitType** constants.|
+| **xlChartSplitType** can be one of these **xlChartSplitType** constants.|
 | **xlSplitByCustomSplit**|
 | **xlSplitByPercentValue**|
 | **xlSplitByPosition**|

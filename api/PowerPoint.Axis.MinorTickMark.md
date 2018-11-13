@@ -25,7 +25,7 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write  
 
 ## Remarks
 
- **MinorTickMark** can be one of the following **XlTickMark** constants:
+ **MinorTickMark** can be one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**

@@ -29,7 +29,7 @@ The default value is the current setting of the  **File Origin** option in the *
 
 
 
-| **XlPlatform** can be one of these **XlPlatform** constants.|
+| **xlPlatform** can be one of these **xlPlatform** constants.|
 | **xlMacintosh**|
 | **xlMSDOS**|
 | **xlWindows**|

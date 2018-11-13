@@ -28,20 +28,20 @@ Sorts a range of values.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Key1_|Optional| **Variant**|Specifies the first sort field, either as a range name (String) or **Range** object; determines the values to be sorted.|
-| _Order1_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key1_.|
+| _Order1_|Optional| **xlSortOrder**|Determines the sort order for the values specified in _Key1_.|
 | _Key2_|Optional| **Variant**|Second sort field; cannot be used when sorting a pivot table.|
 | _Type_|Optional| **Variant**|Specifies which elements are to be sorted.|
-| _Order2_|Optional| **XlSortOrder**|Determines the sort order for the values specified in  _Key2_.|
+| _Order2_|Optional| **xlSortOrder**|Determines the sort order for the values specified in  _Key2_.|
 | _Key3_|Optional| **Variant**|Third sort field; cannot be used when sorting a pivot table.|
-| _Order3_|Optional| **XlSortOrder**|Determines the sort order for the values specified in _Key3_.|
-| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
+| _Order3_|Optional| **xlSortOrder**|Determines the sort order for the values specified in _Key3_.|
+| _Header_|Optional| **xlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 | _OrderCustom_|Optional| **Variant**|Specifies a one-based integer offset into the list of custom sort orders.|
 | _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with pivot tables.|
-| _Orientation_|Optional| **XlSortOrientation**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to	1	to sort by column. Set **xlSortRows** value to 2 to sort by row. (This is the default value.) |
-| _SortMethod_|Optional| **XlSortMethod**|Specifies the sort method.|
-| _DataOption1_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in _Key1_; does not apply to pivot table sorting.|
-| _DataOption2_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to pivot table sorting.|
-| _DataOption3_|Optional| **XlSortDataOption**|Specifies how to sort text in the range specified in _Key3_; does not apply to pivot table sorting.|
+| _Orientation_|Optional| **xlSortOrientation**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to	1	to sort by column. Set **xlSortRows** value to 2 to sort by row. (This is the default value.) |
+| _SortMethod_|Optional| **xlSortMethod**|Specifies the sort method.|
+| _DataOption1_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key1_; does not apply to pivot table sorting.|
+| _DataOption2_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to pivot table sorting.|
+| _DataOption3_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key3_; does not apply to pivot table sorting.|
 
 ## Return value
 

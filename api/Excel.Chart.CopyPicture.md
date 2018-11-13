@@ -31,7 +31,7 @@ Copies the selected object to the Clipboard as a picture.
 |:-----|:-----|:-----|:-----|
 | _Appearance_|Optional| **[xlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied. The default value is  **xlScreen** .|
 | _Format_|Optional| **[xlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture. The default value is  **xlPicture** .|
-| _Size_|Optional| **XlPictureAppearance**|The size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default value is  **xlPrinter** .|
+| _Size_|Optional| **xlPictureAppearance**|The size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default value is  **xlPrinter** .|
 
 ## See also
 

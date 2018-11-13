@@ -29,7 +29,7 @@ Returns or sets the way conflicts are to be resolved whenever a shared workbook 
 
 
 
-| **XlSaveConflictResolution** can be one of these **XlSaveConflictResolution** constants.|
+| **xlSaveConflictResolution** can be one of these **xlSaveConflictResolution** constants.|
 | **xlLocalSessionChanges** . The local user's changes are always accepted.|
 | **xlOtherSessionChanges** . The local user's changes are always rejected.|
 | **xlUserResolution** . A dialog box asks the user to resolve the conflict.|

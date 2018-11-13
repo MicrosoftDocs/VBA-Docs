@@ -41,7 +41,7 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|

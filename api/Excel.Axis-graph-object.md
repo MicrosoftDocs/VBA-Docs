@@ -18,7 +18,7 @@ Represents a single axis in a chart. The  **Axis** object is a member of the **[
 
 ## Using the Axis Object
 
-Use  **Axes**( _type_,  _group_), where  _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **XlAxisType** constants: **xlCategory**,  **xlSeries**, or  **xlValue**.  _Group_ can be either of the following **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. For more information, see the  **[Axes](Excel.Axes-graph-method.md)** method.
+Use  **Axes**( _type_,  _group_), where  _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **xlAxisType** constants: **xlCategory**,  **xlSeries**, or  **xlValue**.  _Group_ can be either of the following **xlAxisGroup** constants: **xlPrimary** or **xlSecondary**. For more information, see the  **[Axes](Excel.Axes-graph-method.md)** method.
 
 The following example sets the text of the category axis title in the chart.
 

@@ -30,7 +30,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileFormat_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Priority_|Optional| **XlPriority**|See help included with Microsoft Office Macintosh Edition.|
+| _Priority_|Optional| **xlPriority**|See help included with Microsoft Office Macintosh Edition.|
 
 ## See also
 

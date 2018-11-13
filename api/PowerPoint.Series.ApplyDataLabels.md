@@ -40,7 +40,7 @@ Applies data labels to a series.
 
 ## Remarks
 
-The Type parameter can be one of the following **XlDataLabelsType** constants:
+The Type parameter can be one of the following **xlDataLabelsType** constants:
 
 - **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
     

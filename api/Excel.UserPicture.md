@@ -21,7 +21,7 @@ Fills the specified shape with an image.
 
  **PictureFile** Required **Variant**. The name of the specified picture file.
  **PictureFormat** Optional
- **XlChartPictureType**
+ **xlChartPictureType**
 . The format of the specified picture.
 
 
@@ -31,7 +31,7 @@ Fills the specified shape with an image.
 
  **PictureStackUnit** Optional **Variant**. The stack or scale unit for the specified picture (depends on the  **_PictureFormat_** argument).
  **PicturePlacement** Optional
- **XlChartPicturePlacement**
+ **xlChartPicturePlacement**
 . The placement of the specified picture.
 
 

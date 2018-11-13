@@ -27,7 +27,7 @@ Returns or sets the text qualifier when you import a text file into a query tabl
 
 
 
-| **XlTextQualifier** can be one of these **XlTextQualifier** constants.|
+| **xlTextQualifier** can be one of these **xlTextQualifier** constants.|
 | **xlTextQualifierNone**|
 | **xlTextQualifierDoubleQuote**_default_|
 | **xlTextQualifierSingleQuote**|

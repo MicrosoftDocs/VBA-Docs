@@ -25,7 +25,7 @@ Returns a  **[xlListObjectSourceType](Excel.XlListObjectSourceType.md)** value t
 
 ## Example
 
-The following sample code returns a  **XlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
+The following sample code returns a  **xlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
 
 
 ```vb

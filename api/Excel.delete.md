@@ -23,7 +23,7 @@ Deletes the specified object.
  _expression_. **Delete**(**_Shift_**)
  _expression_ Required. An expression that returns one of the above objects.
  **Shift** Optional
- **XlDeleteShiftDirection**
+ **xlDeleteShiftDirection**
  . Used only with **Range** objects. Specifies how to shift cells to replace deleted cells.
 
 

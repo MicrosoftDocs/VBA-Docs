@@ -27,7 +27,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 
 
 
-| **XlLayoutFormType** can be one of these **XlLayoutFormType** constants.|
+| **xlLayoutFormType** can be one of these **xlLayoutFormType** constants.|
 | **xlTabular** . Default.|
 | **xlOutline** . The **[LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
 

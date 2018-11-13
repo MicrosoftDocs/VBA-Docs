@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 # LineStyle Property
 
 Returns or sets the line style for the border. Read/write 
- **XlLineStyle**
+ **xlLineStyle**
 .
 
 

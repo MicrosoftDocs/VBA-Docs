@@ -27,7 +27,7 @@ Returns or sets the direction in which the active cell is moved when the user pr
 
 
 
-| **XlDirection** can be one of these **XlDirection** constants.|
+| **xlDirection** can be one of these **xlDirection** constants.|
 | **xlDown**|
 | **xlToLeft**|
 | **xlToRight**|

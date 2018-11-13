@@ -27,7 +27,7 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 
 
 
-| **XlCellInsertionMode** can be one of these **XlCellInsertionMode** constants.|
+| **xlCellInsertionMode** can be one of these **xlCellInsertionMode** constants.|
 | **xlInsertDeleteCells** Partial rows are inserted or deleted to match the exact number of rows required for the new recordset.|
 | **xlOverwriteCells** No new cells or rows are added to the worksheet. Data in surrounding cells is overwritten to accommodate any overflow.|
 | **xlInsertEntireRows** Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|

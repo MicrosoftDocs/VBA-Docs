@@ -28,7 +28,7 @@ The source can be either Excel or a PowerPivot Add-in.
 
 ## Property value
 
- **XlModelChangeSource**
+ **xlModelChangeSource**
 
 
 ## See also

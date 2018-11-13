@@ -25,7 +25,7 @@ Returns or sets the major unit scale value for the category axis when the  **[Ca
 
 ## Remarks
 
- **MajorUnitScale** can be one of the following **XlTimeUnit** constants:
+ **MajorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
 -  **xlMonths**

@@ -20,7 +20,7 @@ Applies error bars to the specified series. Variant.
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
  **Direction**Required 
- **XlErrorBarDirection**
+ **xlErrorBarDirection**
 . The error bar direction.
 
 
@@ -29,7 +29,7 @@ Applies error bars to the specified series. Variant.
 | **xlY**_default._|
 
  **Include**Required 
- **XlErrorBarInclude**
+ **xlErrorBarInclude**
 . The error bar parts to be included.
 
 
@@ -40,7 +40,7 @@ Applies error bars to the specified series. Variant.
 | **xlErrorBarIncludePlusValues**|
 
  **Type**Required 
- **XlErrorBarType**
+ **xlErrorBarType**
 . The error bar type.
 
 

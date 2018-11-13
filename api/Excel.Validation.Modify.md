@@ -29,7 +29,7 @@ Modifies data validation for a range.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|An  **XlDVType** value that represents the validation type.|
+| _Type_|Optional| **Variant**|An  **xlDVType** value that represents the validation type.|
 | _AlertStyle_|Optional| **Variant**|An  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|
 | _Operator_|Optional| **Variant**|An  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the data validation operator.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation.|

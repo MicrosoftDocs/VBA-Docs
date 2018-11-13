@@ -29,7 +29,7 @@ Returns or sets how the PivotTable cache connects to its data source. Read/write
 
 
 
-| **XlRobustConnect** can be one of these **XlRobustConnect** constants.|
+| **xlRobustConnect** can be one of these **xlRobustConnect** constants.|
 | **xlAlways** . The cache always uses external source information (as defined by the **[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)** or **[SourceDataFile](Excel.PivotCache.SourceDataFile.md)** property) to reconnect.|
 | **xlAsRequired** . The cache uses external source info to reconnect using the **[Connection](Excel.PivotCache.Connection.md)** property.|
 | **xlNever** . The cache never uses source info to reconnect.|

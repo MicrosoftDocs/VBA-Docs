@@ -27,7 +27,7 @@ Returns or sets the size of the paper. Read/write [XlPaperSize](Excel.XlPaperSiz
 
 
 
-| **XlPaperSize** can be one of these **XlPaperSize** constants.|
+| **xlPaperSize** can be one of these **xlPaperSize** constants.|
 | **xlPaper11x17** . 11 in. x 17 in.|
 | **xlPaperA4** . A4 (210 mm x 297 mm)|
 | **xlPaperA5** . A5 (148 mm x 210 mm)|

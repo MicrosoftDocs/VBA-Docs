@@ -27,7 +27,7 @@ Returns or sets the gridline color as an index into the current color palette or
 
 
 
-| **XlColorIndex** can be the following **XlColorIndex** constant.|
+| **xlColorIndex** can be the following **xlColorIndex** constant.|
 | **xlColorIndexAutomatic**|
 
 Set this property to  **xlColorIndexAutomatic** to specify the automatic color.

@@ -27,7 +27,7 @@ Returns or sets the PivotTable report structured selection mode. Read/write  **[
 
 
 
-| **XlPTSelectionMode** can be one of these **XlPTSelectionMode** constants.|
+| **xlPTSelectionMode** can be one of these **xlPTSelectionMode** constants.|
 | **xlBlanks**|
 | **xlButton**|
 | **xlDataAndLabel**|

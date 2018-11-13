@@ -29,7 +29,7 @@ Returns or sets the view showing in the window. Read/write  **[xlWindowView](Exc
 
 
 
-| **XlWindowView** can be one of these **XlWindowView** constants.|
+| **xlWindowView** can be one of these **xlWindowView** constants.|
 | **xlNormalView**|
 | **xlPageBreakPreview**|
 | **xlPageLayoutView**|

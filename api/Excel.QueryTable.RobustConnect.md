@@ -27,7 +27,7 @@ Returns or sets how the query table connects to its data source. Read/write  **[
 
 
 
-| **XlRobustConnect** can be one of these **XlRobustConnect** constants.|
+| **xlRobustConnect** can be one of these **xlRobustConnect** constants.|
 | **xlAlways** . The query table always uses external source information (as defined by the **[SourceConnectionFile](Excel.QueryTable.SourceConnectionFile.md)** or **[SourceDataFile](Excel.QueryTable.SourceDataFile.md)** property) to reconnect.|
 | **xlAsRequired** . The query table uses external source information to reconnect, using the **[Connection](Excel.QueryTable.Connection.md)** property.|
 | **xlNever** . The query table never uses source information to reconnect.|

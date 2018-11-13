@@ -29,7 +29,7 @@ Returns one of the  **[xlPivotCellType](Excel.XlPivotCellType.md)** constants th
 
 
 
-| **XlPivotCellType** can be one of these **XlPivotCellType** constants.|
+| **xlPivotCellType** can be one of these **xlPivotCellType** constants.|
 | **xlPivotCellBlankCell** A structural blank cell in the PivotTable.|
 | **xlPivotCellCustomSubtotal** A cell in the row or column area that is a custom subtotal.|
 | **xlPivotCellDataField** A data field label (not the **Data** button).|

@@ -42,7 +42,7 @@ Applies data labels to all the series in a chart.
 
 ## Remarks
 
-**XlDataLabelsType** can be one of these **XlDataLabelsType** constants.
+**xlDataLabelsType** can be one of these **xlDataLabelsType** constants.
 
 | **Constant** | **Description** |
 |---|---|

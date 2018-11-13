@@ -29,7 +29,7 @@ Returns or sets the minor unit scale value for the category axis when the  **Cat
 
 
 
-| **XlTimeUnit** can be one of these **XlTimeUnit** constants.|
+| **xlTimeUnit** can be one of these **xlTimeUnit** constants.|
 | **xlMonths**|
 | **xlDays**|
 | **xlYears**|

@@ -25,7 +25,7 @@ Returns or sets the point on the value axis where the category axis crosses it. 
 
 ## Remarks
 
-Setting this property causes the  **[Crosses](Word.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom** . **xlAxisCrossesCustom** is a constant in the **XlAxisCrosses** enumeration.
+Setting this property causes the  **[Crosses](Word.Axis.Crosses.md)** property to change to **xlAxisCrossesCustom** . **xlAxisCrossesCustom** is a constant in the **xlAxisCrosses** enumeration.
 
 You cannot use this property on radar charts. For 3-D charts, this property indicates where the plane defined by the category axes crosses the value axis.
 

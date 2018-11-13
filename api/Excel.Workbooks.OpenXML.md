@@ -44,7 +44,7 @@ Workbook
 
 
 
-| **XlXmlLoadOption** can be one of these **XlXmlLoadOption** constants.|
+| **xlXmlLoadOption** can be one of these **xlXmlLoadOption** constants.|
 | **xlXmlLoadImportToList** Automatically creates an XML List and imports data into the list.|
 | **xlXmlLoadMapXml** Loads the XML file into the **XML Source** task pane.|
 | **xlXmlLoadOpenXml** Open XML files in the same way that Excel 2002 opens XML files (for backwards compatibility only).|

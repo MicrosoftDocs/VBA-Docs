@@ -40,7 +40,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 
 
-| **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants.|
+| **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants.|
 | **xlXmlExportSuccess** . Export successful. No errors to report.|
 | **xlXmlExportValidationFailed** . The data being exported failed schema validation, but was exported anyway.|
 

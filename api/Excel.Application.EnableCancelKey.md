@@ -27,7 +27,7 @@ Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user 
 
 
 
-| **XlEnableCancelKey** can be one of these **XlEnableCancelKey** constants.|
+| **xlEnableCancelKey** can be one of these **xlEnableCancelKey** constants.|
 | **xlDisabled** . Cancel key trapping is completely disabled.|
 | **xlErrorHandler** . The interrupt is sent to the running procedure as an error, trappable by an error handler set up with an `On Error GoTo` statement. The trappable error code is 18.|
 | **xlInterrupt** . The current procedure is interrupted, and the user can debug or end the procedure.|

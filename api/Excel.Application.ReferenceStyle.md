@@ -29,7 +29,7 @@ Returns or sets how Microsoft Excel displays cell references and row and column 
 
 
 
-| **XlReferenceStyle** can be one of these **XlReferenceStyle** constants.|
+| **xlReferenceStyle** can be one of these **xlReferenceStyle** constants.|
 | **xlA1**|
 | **xlR1C1**|
 

@@ -27,7 +27,7 @@ Returns or sets a  **[xlTextVisualLayoutType](Excel.XlTextVisualLayoutType.md)**
 
 
 
-| **XlTextVisualLayoutType** can be one of the following **XlTextVisualLayoutType** constants.|
+| **xlTextVisualLayoutType** can be one of the following **xlTextVisualLayoutType** constants.|
 | **xlTextVisualLTR**|
 | **xlTextVisualRTL**|
 

@@ -27,7 +27,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[xlHebre
 
 
 
-| **XlHebrewModes** can be one of these **XlHebrewModes** constants.|
+| **xlHebrewModes** can be one of these **xlHebrewModes** constants.|
 | **xlHebrewFullScript** (default) The conventional script type as required by the Hebrew Language Academy when writing non-diacritisized text.|
 | **xlHebrewMixedAuthorizedScript** The Hebrew traditional script.|
 | **xlHebrewMixedScript** In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any non-conventional spelling variation what is known to the speller.|

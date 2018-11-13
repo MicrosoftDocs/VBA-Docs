@@ -37,7 +37,7 @@ Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached
 
 
 
-| **XlRunAutoMacro** can be one of these **XlRunAutoMacro** constants.|
+| **xlRunAutoMacro** can be one of these **xlRunAutoMacro** constants.|
 | **xlAutoActivate** . Auto_Activate macros|
 | **xlAutoClose** . Auto_Close macros|
 | **xlAutoDeactivate** . Auto_Deactivate macros|

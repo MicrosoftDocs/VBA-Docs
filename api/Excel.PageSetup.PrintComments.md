@@ -29,7 +29,7 @@ Returns or sets the way comments are printed with the sheet. Read/write  **[xlPr
 
 
 
-| **XlPrintLocation** can be one of these **XlPrintLocation** constants.|
+| **xlPrintLocation** can be one of these **xlPrintLocation** constants.|
 | **xlPrintInPlace**|
 | **xlPrintNoComments**|
 | **xlPrintSheetEnd**|

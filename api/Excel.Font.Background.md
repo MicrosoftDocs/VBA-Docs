@@ -29,7 +29,7 @@ Returns or sets the type of background for text used in charts. Read/write  **Va
 
 
 
-|**XlBackground can be one of the following constants**|**Description of text background**|
+|**xlBackground can be one of the following constants**|**Description of text background**|
 |:-----|:-----|
 | **xlBackgroundAutomatic**|Font background will automatically change the background area around the text to a color that best displays the chart text on the color applied to elements under the text|
 | **xlBackgroundOpaque**|Font background will set the font bacground to black if the text color and fill color underneath the text are very close or the same color, such that the text would not appear|

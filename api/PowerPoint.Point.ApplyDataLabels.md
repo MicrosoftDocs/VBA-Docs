@@ -42,7 +42,7 @@ Applies data labels to a point.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 
 -  **xlDataLabelsShowLabelAndPercent** ?The percentage of the total, and the category for the point. Available only for pie charts and doughnut charts.

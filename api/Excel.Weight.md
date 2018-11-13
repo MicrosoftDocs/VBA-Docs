@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 # Weight Property
 
 Returns or sets the weight of the border. Read/write 
- **XlBorderWeight**
+ **xlBorderWeight**
 .
 
 

@@ -39,7 +39,7 @@ A  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the 
 
 ## Remarks
 
-This method returns one of the following  **XlXmlImportResult** constants:
+This method returns one of the following  **xlXmlImportResult** constants:
 
 
 

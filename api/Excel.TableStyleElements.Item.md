@@ -29,7 +29,7 @@ Returns a single object from a collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlTableStyleElementType**|A table style element.|
+| _Index_|Required| **xlTableStyleElementType**|A table style element.|
 
 ## Return value
 

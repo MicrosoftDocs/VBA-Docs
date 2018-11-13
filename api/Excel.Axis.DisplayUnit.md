@@ -27,7 +27,7 @@ Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit]
 
 
 
-| **XlDisplayUnit** can be one of these **XlDisplayUnit** constants.|
+| **xlDisplayUnit** can be one of these **xlDisplayUnit** constants.|
 | **xlHundredMillions**|
 | **xlHundredThousands**|
 | **xlMillions**|

@@ -42,7 +42,7 @@ Applies data labels to all the series in a chart.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 
 -  **xlDataLabelsShowBubbleSizes** ?The bubble size for the data label.

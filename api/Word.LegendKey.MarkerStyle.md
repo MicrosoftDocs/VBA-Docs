@@ -25,7 +25,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 ## Remarks
 
- **MarkerStyle** can be one of the following **XlMarkerStyle** constants:
+ **MarkerStyle** can be one of the following **xlMarkerStyle** constants:
 
 
 -  **xlMarkerStyleAutomatic** —Automatic markers.

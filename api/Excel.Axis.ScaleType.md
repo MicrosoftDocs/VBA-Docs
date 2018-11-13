@@ -27,7 +27,7 @@ Returns or sets the value axis scale type. Read/write  **[xlScaleType](Excel.XlS
 
 
 
-| **XlScaleType** can be one of these **XlScaleType** constants.|
+| **xlScaleType** can be one of these **xlScaleType** constants.|
 | **xlScaleLinear**|
 | **xlScaleLogarithmic**|
 

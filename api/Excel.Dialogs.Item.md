@@ -29,7 +29,7 @@ Returns a single object from a collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlBuiltInDialog**| **Variant** . The name or index number of the object.|
+| _Index_|Required| **xlBuiltInDialog**| **Variant** . The name or index number of the object.|
 
 ## Example
 

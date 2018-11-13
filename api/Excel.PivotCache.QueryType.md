@@ -27,7 +27,7 @@ Indicates the type of query used by Microsoft Excel to populate the PivotTable c
 
 
 
-| **XlQueryType** can be one of these **XlQueryType** constants.|
+| **xlQueryType** can be one of these **xlQueryType** constants.|
 | **xlTextImport** . Based on a text file, for query tables only|
 | **xlOLEDBQuery** . Based on an OLE DB query, including OLAP data sources|
 | **xlWebQuery** . Based on a Web page, for query tables only|

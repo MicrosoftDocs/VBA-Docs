@@ -19,14 +19,14 @@ Returns or sets which axes exist on the chart. Read/write Variant.
 
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
- **Index1** Optional **XlAxisType**. The type of axis.
+ **Index1** Optional **xlAxisType**. The type of axis.
 
 
 |XlAxisType can be one of these XlAxisType constants.|
 | **xlCategory**|
 | **xlValue** **xlSeriesAxis**. Series axes apply only to 3-D charts.|
 
- **Index2** Optional **XlAxisGroup**. The axis priority.
+ **Index2** Optional **xlAxisGroup**. The axis priority.
 
 
 |XlAxisGroup can be one of these XlAxisGroup constants.|

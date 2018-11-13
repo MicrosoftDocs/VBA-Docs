@@ -29,7 +29,7 @@ Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTab
 
 
 
-| **XlLocationInTable** can be one of these **XlLocationInTable** constants.|
+| **xlLocationInTable** can be one of these **xlLocationInTable** constants.|
 | **xlRowHeader**|
 | **xlColumnHeader**|
 | **xlPageHeader**|

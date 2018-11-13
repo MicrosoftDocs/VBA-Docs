@@ -46,7 +46,7 @@ Applies data labels to a point.
 
 
 
-| **XlDataLabelsType** can be one of these **XlDataLabelsType** constants.|
+| **xlDataLabelsType** can be one of these **xlDataLabelsType** constants.|
 | **xlDataLabelsShowBubbleSizes** . The bubble size for the data label.|
 | **xlDataLabelsShowLabelAndPercent** . Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowPercent** . Percentage of the total. Available only for pie charts and doughnut charts.|

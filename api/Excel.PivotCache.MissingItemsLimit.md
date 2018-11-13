@@ -27,7 +27,7 @@ Returns or sets the maximum quantity of unique items per PivotTable field that a
 
 
 
-| **XlPivotTableMissingItems** can be one of these **XlPivotTableMissingItems** constants.|
+| **xlPivotTableMissingItems** can be one of these **xlPivotTableMissingItems** constants.|
 | **xlMissingItemsDefault** The default number of unique items per PivotField allowed.|
 | **xlMissingItemsMax** The maximum number of unique items per PivotField allowed (32,500).|
 | **xlMissingItemsNone** No unique items per PivotField allowed (zero).|

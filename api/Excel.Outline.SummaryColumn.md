@@ -29,7 +29,7 @@ Returns or sets the location of the summary columns in the outline. Read/write  
 
 
 
-| **XlSummaryColumn** can be one of these **XlSummaryColumn** constants.|
+| **xlSummaryColumn** can be one of these **xlSummaryColumn** constants.|
 | **xlSummaryOnRight** The summary column will be positioned to the right of the detail columns in the outline.|
 | **xlSummaryOnLeft** The summary column will be positioned to the left of the detail columns in the outline.|
 

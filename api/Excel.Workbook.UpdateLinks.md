@@ -29,7 +29,7 @@ Returns or sets an  **[xlUpdateLink](Excel.XlUpdateLinks.md)** constant indicati
 
 
 
-| **XlUpdateLinks** can be one of these **XlUpdateLinks** constants.|
+| **xlUpdateLinks** can be one of these **xlUpdateLinks** constants.|
 | **xlUpdateLinksAlways** Embedded OLE links are always updated for the specified workbook.|
 | **xlUpdateLinksNever** Embedded OLE links are never updated for the specified workbook.|
 | **xlUpdateLinksUserSetting** Embedded OLE links are updated according to the user's settings for the specified workbook.|
