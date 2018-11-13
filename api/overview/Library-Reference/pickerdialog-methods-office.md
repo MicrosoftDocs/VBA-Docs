@@ -12,9 +12,9 @@ ms.date: 11/12/2018
 
 |Name|Description|
 |:---|:----------|
-|[CreatePickerResults](Office.PickerDialog.CreatePickerResults.md)|Creates an empty **PickerResults** object.|
-|[Resolve](Office.PickerDialog.Resolve.md)|Resolves the token using the Picker Dialog and retrieves the results. |
-|[Show](Office.PickerDialog.Show.md)|Displays the Picker Dialog with already specified data handler and given options. |
+|[CreatePickerResults](../../Office.PickerDialog.CreatePickerResults.md)|Creates an empty **PickerResults** object.|
+|[Resolve](../../Office.PickerDialog.Resolve.md)|Resolves the token using the Picker Dialog and retrieves the results. |
+|[Show](../../Office.PickerDialog.Show.md)|Displays the Picker Dialog with already specified data handler and given options. |
 
 
 ## See also

@@ -12,11 +12,11 @@ ms.date: 11/12/2018
 
 |Name|Description|
 |:---|:----------|
-|[Application](Office.PickerDialog.Application.md)|Gets an **Application** object that represents the container application for the **PickerDialog** object. Read-only. |
-|[Creator](Office.PickerDialog.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerDialog** object was created. Read-only. |
-|[DataHandlerId](Office.PickerDialog.DataHandlerId.md)|Sets or gets the GUID of the Picker Dialog data handler component. Read/write. |
-|[Properties](Office.PickerDialog.Properties.md)|Returns the **PickerProperties** object to specify custom properties for data handler component. Read-only. |
-|[Title](Office.PickerDialog.Title.md)|Sets or returns the title of a picker dialog displayed in the Picker Dialog. Read/write. |
+|[Application](../../Office.PickerDialog.Application.md)|Gets an **Application** object that represents the container application for the **PickerDialog** object. Read-only. |
+|[Creator](../../Office.PickerDialog.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerDialog** object was created. Read-only. |
+|[DataHandlerId](../../Office.PickerDialog.DataHandlerId.md)|Sets or gets the GUID of the Picker Dialog data handler component. Read/write. |
+|[Properties](../../Office.PickerDialog.Properties.md)|Returns the **PickerProperties** object to specify custom properties for data handler component. Read-only. |
+|[Title](../../Office.PickerDialog.Title.md)|Sets or returns the title of a picker dialog displayed in the Picker Dialog. Read/write. |
 
 ## See also
 
