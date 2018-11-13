@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Item Method (Excel)
+title: SeriesCollection.Item method (Excel)
 keywords: vbaxl10.chm580077
 f1_keywords:
 - vbaxl10.chm580077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Item Method (Excel)
+# SeriesCollection.Item method (Excel)
 
 Returns a single object from a collection.
 

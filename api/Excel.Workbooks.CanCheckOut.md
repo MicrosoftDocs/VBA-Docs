@@ -1,5 +1,5 @@
 ---
-title: Workbooks.CanCheckOut Method (Excel)
+title: Workbooks.CanCheckOut method (Excel)
 keywords: vbaxl10.chm203086
 f1_keywords:
 - vbaxl10.chm203086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.CanCheckOut Method (Excel)
+# Workbooks.CanCheckOut method (Excel)
 
  **True** if Microsoft Excel can check out a specified workbook from a server. Read/write **Boolean** .
 

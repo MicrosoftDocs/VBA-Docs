@@ -1,5 +1,5 @@
 ---
-title: Range.Merge Method (Excel)
+title: Range.Merge method (Excel)
 keywords: vbaxl10.chm144158
 f1_keywords:
 - vbaxl10.chm144158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Merge Method (Excel)
+# Range.Merge method (Excel)
 
 Creates a merged cell from the specified  **[Range](Excel.Range(object).md)** object.
 

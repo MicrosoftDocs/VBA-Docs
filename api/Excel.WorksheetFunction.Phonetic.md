@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Phonetic Method (Excel)
+title: WorksheetFunction.Phonetic method (Excel)
 keywords: vbaxl10.chm137248
 f1_keywords:
 - vbaxl10.chm137248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Phonetic Method (Excel)
+# WorksheetFunction.Phonetic method (Excel)
 
 Extracts the phonetic (furigana) characters from a text string.
 

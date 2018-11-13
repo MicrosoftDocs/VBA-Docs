@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Dist Method (Excel)
+title: WorksheetFunction.F_Dist method (Excel)
 keywords: vbaxl10.chm137402
 f1_keywords:
 - vbaxl10.chm137402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.F_Dist Method (Excel)
+# WorksheetFunction.F_Dist method (Excel)
 
 Returns the F probability distribution.
 

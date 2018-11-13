@@ -1,5 +1,5 @@
 ---
-title: Workbook.RemoveUser Method (Excel)
+title: Workbook.RemoveUser method (Excel)
 keywords: vbaxl10.chm199138
 f1_keywords:
 - vbaxl10.chm199138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RemoveUser Method (Excel)
+# Workbook.RemoveUser method (Excel)
 
 Disconnects the specified user from the shared workbook.
 

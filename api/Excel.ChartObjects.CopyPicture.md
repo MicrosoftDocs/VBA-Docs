@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.CopyPicture Method (Excel)
+title: ChartObjects.CopyPicture method (Excel)
 keywords: vbaxl10.chm497076
 f1_keywords:
 - vbaxl10.chm497076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.CopyPicture Method (Excel)
+# ChartObjects.CopyPicture method (Excel)
 
 Copies the selected object to the Clipboard as a picture.  **Variant** .
 

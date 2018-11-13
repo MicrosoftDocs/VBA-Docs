@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Coth Method (Excel)
+title: WorksheetFunction.Coth method (Excel)
 keywords: vbaxl10.chm137424
 f1_keywords:
 - vbaxl10.chm137424
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Coth Method (Excel)
+# WorksheetFunction.Coth method (Excel)
 
 Returns the hyperbolic cotangent of a number
 

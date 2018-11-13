@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateFullRebuild Method (Excel)
+title: Application.CalculateFullRebuild method (Excel)
 keywords: vbaxl10.chm133272
 f1_keywords:
 - vbaxl10.chm133272
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculateFullRebuild Method (Excel)
+# Application.CalculateFullRebuild method (Excel)
 
 For all open workbooks, forces a full calculation of the data and rebuilds the dependencies.
 

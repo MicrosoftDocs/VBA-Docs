@@ -1,5 +1,5 @@
 ---
-title: Application.DDETerminate Method (Excel)
+title: Application.DDETerminate method (Excel)
 keywords: vbaxl10.chm183094
 f1_keywords:
 - vbaxl10.chm183094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDETerminate Method (Excel)
+# Application.DDETerminate method (Excel)
 
 Closes a channel to another application.
 

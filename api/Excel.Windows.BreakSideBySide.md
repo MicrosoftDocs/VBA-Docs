@@ -1,5 +1,5 @@
 ---
-title: Windows.BreakSideBySide Method (Excel)
+title: Windows.BreakSideBySide method (Excel)
 keywords: vbaxl10.chm354079
 f1_keywords:
 - vbaxl10.chm354079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.BreakSideBySide Method (Excel)
+# Windows.BreakSideBySide method (Excel)
 
 Ends side-by-side mode if two windows are in side-by-side mode. Returns a  **Boolean** value that represents whether the method was successful.
 

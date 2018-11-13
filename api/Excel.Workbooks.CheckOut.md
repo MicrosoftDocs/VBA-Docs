@@ -1,5 +1,5 @@
 ---
-title: Workbooks.CheckOut Method (Excel)
+title: Workbooks.CheckOut method (Excel)
 keywords: vbaxl10.chm203085
 f1_keywords:
 - vbaxl10.chm203085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.CheckOut Method (Excel)
+# Workbooks.CheckOut method (Excel)
 
 Returns a  **String** representing a specified workbook from a server to a local computer for editing.
 

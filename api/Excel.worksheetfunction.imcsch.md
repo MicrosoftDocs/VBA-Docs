@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCsch Method (Excel)
+title: WorksheetFunction.ImCsch method (Excel)
 keywords: vbaxl10.chm137432
 f1_keywords:
 - vbaxl10.chm137432
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImCsch Method (Excel)
+# WorksheetFunction.ImCsch method (Excel)
 
 Returns the hyperbolic cosecant of a complex number.
 

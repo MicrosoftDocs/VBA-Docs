@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Skew_p Method (Excel)
+title: WorksheetFunction.Skew_p method (Excel)
 keywords: vbaxl10.chm137451
 f1_keywords:
 - vbaxl10.chm137451
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Skew_p Method (Excel)
+# WorksheetFunction.Skew_p method (Excel)
 
 Returns the skewness of a distribution based on a population: a characterization of the degree of asymmetry of a distribution around its mean.
 

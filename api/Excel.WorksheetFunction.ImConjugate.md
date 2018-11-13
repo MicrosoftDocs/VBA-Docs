@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImConjugate Method (Excel)
+title: WorksheetFunction.ImConjugate method (Excel)
 keywords: vbaxl10.chm137285
 f1_keywords:
 - vbaxl10.chm137285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImConjugate Method (Excel)
+# WorksheetFunction.ImConjugate method (Excel)
 
 Returns the complex conjugate of a complex number in x + yi or x + yj text format.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementBrightness Method (Excel)
+title: PictureFormat.IncrementBrightness method (Excel)
 keywords: vbaxl10.chm113020
 f1_keywords:
 - vbaxl10.chm113020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.IncrementBrightness Method (Excel)
+# PictureFormat.IncrementBrightness method (Excel)
 
 Changes the brightness of the picture by the specified amount. Use the  **[Brightness](Excel.PictureFormat.Brightness.md)** property to set the absolute brightness of the picture.
 

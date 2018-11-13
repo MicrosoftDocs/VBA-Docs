@@ -1,5 +1,5 @@
 ---
-title: Shape.Duplicate Method (Excel)
+title: Shape.Duplicate method (Excel)
 keywords: vbaxl10.chm636076
 f1_keywords:
 - vbaxl10.chm636076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Duplicate Method (Excel)
+# Shape.Duplicate method (Excel)
 
 Duplicates the object and returns a reference to the new copy.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Delete Method (Excel)
+title: Point.Delete method (Excel)
 keywords: vbaxl10.chm576079
 f1_keywords:
 - vbaxl10.chm576079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Delete Method (Excel)
+# Point.Delete method (Excel)
 
 Deletes the series the point belongs to.
 

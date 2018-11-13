@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Erf Method (Excel)
+title: WorksheetFunction.Erf method (Excel)
 keywords: vbaxl10.chm137300
 f1_keywords:
 - vbaxl10.chm137300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Erf Method (Excel)
+# WorksheetFunction.Erf method (Excel)
 
 Returns the error function integrated between lower_limit and upper_limit.
 

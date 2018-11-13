@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (Excel)
+title: Shape.Select method (Excel)
 keywords: vbaxl10.chm636085
 f1_keywords:
 - vbaxl10.chm636085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Select Method (Excel)
+# Shape.Select method (Excel)
 
 Selects the object.
 

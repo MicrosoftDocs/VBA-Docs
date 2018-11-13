@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (Excel)
+title: ThreeDFormat.SetThreeDFormat method (Excel)
 keywords: vbaxl10.chm119003
 f1_keywords:
 - vbaxl10.chm119003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (Excel)
+# ThreeDFormat.SetThreeDFormat method (Excel)
 
 Sets the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion.
 

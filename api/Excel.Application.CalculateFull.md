@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateFull Method (Excel)
+title: Application.CalculateFull method (Excel)
 keywords: vbaxl10.chm133255
 f1_keywords:
 - vbaxl10.chm133255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculateFull Method (Excel)
+# Application.CalculateFull method (Excel)
 
 Forces a full calculation of the data in all open workbooks.
 

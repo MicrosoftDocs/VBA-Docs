@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Db Method (Excel)
+title: WorksheetFunction.Db method (Excel)
 keywords: vbaxl10.chm137171
 f1_keywords:
 - vbaxl10.chm137171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Db Method (Excel)
+# WorksheetFunction.Db method (Excel)
 
 Returns the depreciation of an asset for a specified period using the fixed-declining balance method.
 

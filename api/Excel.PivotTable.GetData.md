@@ -1,5 +1,5 @@
 ---
-title: PivotTable.GetData Method (Excel)
+title: PivotTable.GetData method (Excel)
 keywords: vbaxl10.chm235110
 f1_keywords:
 - vbaxl10.chm235110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.GetData Method (Excel)
+# PivotTable.GetData method (Excel)
 
 Returns the value for the a data filed in a PivotTable.
 

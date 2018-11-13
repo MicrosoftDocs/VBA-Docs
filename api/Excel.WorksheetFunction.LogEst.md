@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogEst Method (Excel)
+title: WorksheetFunction.LogEst method (Excel)
 keywords: vbaxl10.chm137105
 f1_keywords:
 - vbaxl10.chm137105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.LogEst Method (Excel)
+# WorksheetFunction.LogEst method (Excel)
 
 In regression analysis, calculates an exponential curve that fits your data and returns an array of values that describes the curve. Because this function returns an array of values, it must be entered as an array formula.
 

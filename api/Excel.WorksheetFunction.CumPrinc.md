@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CumPrinc Method (Excel)
+title: WorksheetFunction.CumPrinc method (Excel)
 keywords: vbaxl10.chm137323
 f1_keywords:
 - vbaxl10.chm137323
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CumPrinc Method (Excel)
+# WorksheetFunction.CumPrinc method (Excel)
 
 Returns the cumulative principal paid on a loan between start_period and end_period.
 

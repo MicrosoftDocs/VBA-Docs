@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImTan Method (Excel)
+title: WorksheetFunction.ImTan method (Excel)
 keywords: vbaxl10.chm137430
 f1_keywords:
 - vbaxl10.chm137430
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImTan Method (Excel)
+# WorksheetFunction.ImTan method (Excel)
 
 Returns the tangent of a complex number.
 

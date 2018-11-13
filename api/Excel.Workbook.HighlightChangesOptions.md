@@ -1,5 +1,5 @@
 ---
-title: Workbook.HighlightChangesOptions Method (Excel)
+title: Workbook.HighlightChangesOptions method (Excel)
 keywords: vbaxl10.chm199172
 f1_keywords:
 - vbaxl10.chm199172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.HighlightChangesOptions Method (Excel)
+# Workbook.HighlightChangesOptions method (Excel)
 
 Controls how changes are shown in a shared workbook.
 

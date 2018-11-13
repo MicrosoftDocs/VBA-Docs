@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Inv Method (Excel)
+title: WorksheetFunction.F_Inv method (Excel)
 keywords: vbaxl10.chm137404
 f1_keywords:
 - vbaxl10.chm137404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.F_Inv Method (Excel)
+# WorksheetFunction.F_Inv method (Excel)
 
 Returns the inverse of the F probability distribution.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Combina Method (Excel)
+title: WorksheetFunction.Combina method (Excel)
 keywords: vbaxl10.chm137441
 f1_keywords:
 - vbaxl10.chm137441
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Combina Method (Excel)
+# WorksheetFunction.Combina method (Excel)
 
 Returns the number of combinations with repetitions for a given number of items.
 

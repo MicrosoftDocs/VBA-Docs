@@ -1,5 +1,5 @@
 ---
-title: ListObject.Delete Method (Excel)
+title: ListObject.Delete method (Excel)
 keywords: vbaxl10.chm734073
 f1_keywords:
 - vbaxl10.chm734073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Delete Method (Excel)
+# ListObject.Delete method (Excel)
 
 Deletes the  **[ListObject](Excel.ListObject.md)** object and clears the cell data from the worksheet.
 

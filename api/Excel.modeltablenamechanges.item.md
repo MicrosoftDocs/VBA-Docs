@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Item Method (Excel)
+title: ModelTableNameChanges.Item method (Excel)
 keywords: vbaxl10.chm958074
 f1_keywords:
 - vbaxl10.chm958074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Item Method (Excel)
+# ModelTableNameChanges.Item method (Excel)
 
 Returns a single object from the  **ModelTableNameChanges** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.DragOff Method (Excel)
+title: VPageBreak.DragOff method (Excel)
 keywords: vbaxl10.chm156075
 f1_keywords:
 - vbaxl10.chm156075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.DragOff Method (Excel)
+# VPageBreak.DragOff method (Excel)
 
 Drags a page break out of the print area.
 

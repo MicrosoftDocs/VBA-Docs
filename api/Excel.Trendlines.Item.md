@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Item Method (Excel)
+title: Trendlines.Item method (Excel)
 keywords: vbaxl10.chm592076
 f1_keywords:
 - vbaxl10.chm592076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Item Method (Excel)
+# Trendlines.Item method (Excel)
 
 Returns a single object from a collection.
 

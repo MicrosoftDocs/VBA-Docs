@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Delete Method (Excel)
+title: QueryTable.Delete method (Excel)
 keywords: vbaxl10.chm518091
 f1_keywords:
 - vbaxl10.chm518091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Delete Method (Excel)
+# QueryTable.Delete method (Excel)
 
 Deletes the object.
 

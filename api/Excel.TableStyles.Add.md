@@ -1,5 +1,5 @@
 ---
-title: TableStyles.Add Method (Excel)
+title: TableStyles.Add method (Excel)
 keywords: vbaxl10.chm841074
 f1_keywords:
 - vbaxl10.chm841074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyles.Add Method (Excel)
+# TableStyles.Add method (Excel)
 
 Creates a new  **[TableStyle](Excel.TableStyle.md)** object and adds it to the collection.
 

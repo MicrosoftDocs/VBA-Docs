@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quotient Method (Excel)
+title: WorksheetFunction.Quotient method (Excel)
 keywords: vbaxl10.chm137294
 f1_keywords:
 - vbaxl10.chm137294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Quotient Method (Excel)
+# WorksheetFunction.Quotient method (Excel)
 
 Returns the integer portion of a division. Use this function when you want to discard the remainder of a division.
 

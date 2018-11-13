@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Norm_Inv Method (Excel)
+title: WorksheetFunction.Norm_Inv method (Excel)
 keywords: vbaxl10.chm137371
 f1_keywords:
 - vbaxl10.chm137371
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Norm_Inv Method (Excel)
+# WorksheetFunction.Norm_Inv method (Excel)
 
 Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.ClearValueFilters Method (Excel)
+title: PivotField.ClearValueFilters method (Excel)
 keywords: vbaxl10.chm240155
 f1_keywords:
 - vbaxl10.chm240155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ClearValueFilters Method (Excel)
+# PivotField.ClearValueFilters method (Excel)
 
 Calling this method deletes all value filters in the  **PivotFilters** collection of the PivotField.
 

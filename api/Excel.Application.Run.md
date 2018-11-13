@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (Excel)
+title: Application.Run method (Excel)
 keywords: vbaxl10.chm132104
 f1_keywords:
 - vbaxl10.chm132104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Run Method (Excel)
+# Application.Run method (Excel)
 
 Runs a macro or calls a function. This can be used to run a macro written in Visual Basic or the Microsoft Excel macro language, or to run a function in a DLL or XLL.
 

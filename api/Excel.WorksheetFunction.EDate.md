@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.EDate Method (Excel)
+title: WorksheetFunction.EDate method (Excel)
 keywords: vbaxl10.chm137325
 f1_keywords:
 - vbaxl10.chm137325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.EDate Method (Excel)
+# WorksheetFunction.EDate method (Excel)
 
 Returns the serial number that represents the date that is the indicated number of months before or after a specified date (the start_date). Use EDATE to calculate maturity dates or due dates that fall on the same day of the month as the date of issue.
 

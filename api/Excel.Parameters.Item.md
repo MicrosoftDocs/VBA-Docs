@@ -1,5 +1,5 @@
 ---
-title: Parameters.Item Method (Excel)
+title: Parameters.Item method (Excel)
 keywords: vbaxl10.chm525075
 f1_keywords:
 - vbaxl10.chm525075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters.Item Method (Excel)
+# Parameters.Item method (Excel)
 
 Returns a single object from a collection.
 

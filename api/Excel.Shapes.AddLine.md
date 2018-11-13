@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLine Method (Excel)
+title: Shapes.AddLine method (Excel)
 keywords: vbaxl10.chm638081
 f1_keywords:
 - vbaxl10.chm638081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddLine Method (Excel)
+# Shapes.AddLine method (Excel)
 
 As it applies to the  **Shapes** object, returns a **[Shape](Excel.Shape.md)** object that represents the new line in a worksheet.
 

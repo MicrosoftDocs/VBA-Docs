@@ -1,12 +1,12 @@
 ---
-title: Model.AddConnection Method (Excel)
+title: Model.AddConnection method (Excel)
 ms.prod: excel
 ms.assetid: 58ed2796-9cfa-2737-43c0-f5a5a4badcc3
 ms.date: 06/08/2017
 ---
 
 
-# Model.AddConnection Method (Excel)
+# Model.AddConnection method (Excel)
 
 Adds a new Workbook Connection to the model with the same properties as the one supplied as an argument.
 

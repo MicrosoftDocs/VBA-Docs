@@ -1,5 +1,5 @@
 ---
-title: DataTable.Delete Method (Excel)
+title: DataTable.Delete method (Excel)
 keywords: vbaxl10.chm626080
 f1_keywords:
 - vbaxl10.chm626080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Delete Method (Excel)
+# DataTable.Delete method (Excel)
 
 Deletes the object.
 

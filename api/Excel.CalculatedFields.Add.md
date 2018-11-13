@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields.Add Method (Excel)
+title: CalculatedFields.Add method (Excel)
 keywords: vbaxl10.chm244078
 f1_keywords:
 - vbaxl10.chm244078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields.Add Method (Excel)
+# CalculatedFields.Add method (Excel)
 
 Creates a new calculated field. Returns a  **[PivotField](Excel.PivotField.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoGroup Method (Excel)
+title: PivotField.AutoGroup method (Excel)
 keywords: vbaxl10.chm240161
 f1_keywords:
 - vbaxl10.chm240161
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# PivotField.AutoGroup Method (Excel)
+# PivotField.AutoGroup method (Excel)
 
 Automatically groups the pivot fields in a pivot table.
 

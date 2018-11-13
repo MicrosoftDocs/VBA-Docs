@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.ModifyAppliesToRange Method (Excel)
+title: UniqueValues.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm826085
 f1_keywords:
 - vbaxl10.chm826085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.ModifyAppliesToRange Method (Excel)
+# UniqueValues.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

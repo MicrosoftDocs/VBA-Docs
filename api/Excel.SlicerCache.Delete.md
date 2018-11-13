@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.Delete Method (Excel)
+title: SlicerCache.Delete method (Excel)
 keywords: vbaxl10.chm897090
 f1_keywords:
 - vbaxl10.chm897090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.Delete Method (Excel)
+# SlicerCache.Delete method (Excel)
 
 Deletes the specified slicer cache and the slicers associated with it.
 

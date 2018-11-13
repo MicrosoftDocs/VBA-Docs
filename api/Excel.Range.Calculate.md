@@ -1,5 +1,5 @@
 ---
-title: Range.Calculate Method (Excel)
+title: Range.Calculate method (Excel)
 keywords: vbaxl10.chm144090
 f1_keywords:
 - vbaxl10.chm144090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Calculate Method (Excel)
+# Range.Calculate method (Excel)
 
 Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the following table.
 

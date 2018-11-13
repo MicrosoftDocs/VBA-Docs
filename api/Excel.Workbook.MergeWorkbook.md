@@ -1,5 +1,5 @@
 ---
-title: Workbook.MergeWorkbook Method (Excel)
+title: Workbook.MergeWorkbook method (Excel)
 keywords: vbaxl10.chm199111
 f1_keywords:
 - vbaxl10.chm199111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.MergeWorkbook Method (Excel)
+# Workbook.MergeWorkbook method (Excel)
 
 Merges changes from one workbook into an open workbook.
 

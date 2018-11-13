@@ -1,5 +1,5 @@
 ---
-title: Sheets.FillAcrossSheets Method (Excel)
+title: Sheets.FillAcrossSheets method (Excel)
 keywords: vbaxl10.chm152077
 f1_keywords:
 - vbaxl10.chm152077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.FillAcrossSheets Method (Excel)
+# Sheets.FillAcrossSheets method (Excel)
 
 Copies a range to the same area on all other worksheets in a collection.
 

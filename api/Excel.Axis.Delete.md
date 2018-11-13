@@ -1,5 +1,5 @@
 ---
-title: Axis.Delete Method (Excel)
+title: Axis.Delete method (Excel)
 keywords: vbaxl10.chm561080
 f1_keywords:
 - vbaxl10.chm561080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Delete Method (Excel)
+# Axis.Delete method (Excel)
 
 Deletes the object.
 

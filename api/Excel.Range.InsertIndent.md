@@ -1,5 +1,5 @@
 ---
-title: Range.InsertIndent Method (Excel)
+title: Range.InsertIndent method (Excel)
 keywords: vbaxl10.chm144148
 f1_keywords:
 - vbaxl10.chm144148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertIndent Method (Excel)
+# Range.InsertIndent method (Excel)
 
 Adds an indent to the specified range.
 

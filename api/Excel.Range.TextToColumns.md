@@ -1,5 +1,5 @@
 ---
-title: Range.TextToColumns Method (Excel)
+title: Range.TextToColumns method (Excel)
 keywords: vbaxl10.chm144210
 f1_keywords:
 - vbaxl10.chm144210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TextToColumns Method (Excel)
+# Range.TextToColumns method (Excel)
 
 Parses a column of cells that contain text into several columns.
 

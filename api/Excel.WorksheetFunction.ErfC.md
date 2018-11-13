@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ErfC Method (Excel)
+title: WorksheetFunction.ErfC method (Excel)
 keywords: vbaxl10.chm137301
 f1_keywords:
 - vbaxl10.chm137301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ErfC Method (Excel)
+# WorksheetFunction.ErfC method (Excel)
 
 Returns the complementary ERF function integrated between the specified parameter and infinity.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MRound Method (Excel)
+title: WorksheetFunction.MRound method (Excel)
 keywords: vbaxl10.chm137299
 f1_keywords:
 - vbaxl10.chm137299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MRound Method (Excel)
+# WorksheetFunction.MRound method (Excel)
 
 Returns a number rounded to the desired multiple.
 

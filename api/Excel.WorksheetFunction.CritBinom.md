@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CritBinom Method (Excel)
+title: WorksheetFunction.CritBinom method (Excel)
 keywords: vbaxl10.chm137182
 f1_keywords:
 - vbaxl10.chm137182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CritBinom Method (Excel)
+# WorksheetFunction.CritBinom method (Excel)
 
 Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.
 

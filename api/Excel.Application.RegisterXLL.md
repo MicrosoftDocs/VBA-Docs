@@ -1,5 +1,5 @@
 ---
-title: Application.RegisterXLL Method (Excel)
+title: Application.RegisterXLL method (Excel)
 keywords: vbaxl10.chm133199
 f1_keywords:
 - vbaxl10.chm133199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RegisterXLL Method (Excel)
+# Application.RegisterXLL method (Excel)
 
 Loads an XLL code resource and automatically registers the functions and commands contained in the resource.
 

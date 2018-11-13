@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Merge Method (Excel)
+title: Scenarios.Merge method (Excel)
 keywords: vbaxl10.chm362077
 f1_keywords:
 - vbaxl10.chm362077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Merge Method (Excel)
+# Scenarios.Merge method (Excel)
 
 Merges the scenarios from another sheet into the  **[Scenarios](Excel.Scenarios.md)** collection.
 

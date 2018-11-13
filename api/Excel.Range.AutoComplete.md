@@ -1,5 +1,5 @@
 ---
-title: Range.AutoComplete Method (Excel)
+title: Range.AutoComplete method (Excel)
 keywords: vbaxl10.chm144082
 f1_keywords:
 - vbaxl10.chm144082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AutoComplete Method (Excel)
+# Range.AutoComplete method (Excel)
 
 Returns an AutoComplete match from the list. If there?s no AutoComplete match or if more than one entry in the list matches the string to complete, this method returns an empty string.
 

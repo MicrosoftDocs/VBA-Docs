@@ -1,5 +1,5 @@
 ---
-title: Series.DataLabels Method (Excel)
+title: Series.DataLabels method (Excel)
 keywords: vbaxl10.chm578079
 f1_keywords:
 - vbaxl10.chm578079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.DataLabels Method (Excel)
+# Series.DataLabels method (Excel)
 
 Returns an object that represents either a single data label (a  **[DataLabel](Excel.DataLabel(object).md)** object) or a collection of all the data labels for the series (a **[DataLabels](Excel.DataLabels(object).md)** collection).
 

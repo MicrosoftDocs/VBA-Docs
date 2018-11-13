@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Add Method (Excel)
+title: Trendlines.Add method (Excel)
 keywords: vbaxl10.chm592074
 f1_keywords:
 - vbaxl10.chm592074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Add Method (Excel)
+# Trendlines.Add method (Excel)
 
 Creates a new trendline.
 

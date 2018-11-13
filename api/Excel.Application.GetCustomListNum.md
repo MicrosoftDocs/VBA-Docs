@@ -1,5 +1,5 @@
 ---
-title: Application.GetCustomListNum Method (Excel)
+title: Application.GetCustomListNum method (Excel)
 keywords: vbaxl10.chm133141
 f1_keywords:
 - vbaxl10.chm133141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetCustomListNum Method (Excel)
+# Application.GetCustomListNum method (Excel)
 
 Returns the custom list number for an array of strings. You can use this method to match both built-in lists and custom-defined lists.
 

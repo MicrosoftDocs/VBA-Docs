@@ -1,5 +1,5 @@
 ---
-title: Range.FillLeft Method (Excel)
+title: Range.FillLeft method (Excel)
 keywords: vbaxl10.chm144125
 f1_keywords:
 - vbaxl10.chm144125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FillLeft Method (Excel)
+# Range.FillLeft method (Excel)
 
 Fills left from the rightmost cell or cells in the specified range. The contents and formatting of the cell or cells in the rightmost column of a range are copied into the rest of the columns in the range.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Item Method (Excel)
+title: ModelRelationships.Item method (Excel)
 keywords: vbaxl10.chm940074
 f1_keywords:
 - vbaxl10.chm940074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Item Method (Excel)
+# ModelRelationships.Item method (Excel)
 
 Returns a single object from the [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
 

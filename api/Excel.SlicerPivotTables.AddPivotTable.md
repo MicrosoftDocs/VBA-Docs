@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.AddPivotTable Method (Excel)
+title: SlicerPivotTables.AddPivotTable method (Excel)
 keywords: vbaxl10.chm911077
 f1_keywords:
 - vbaxl10.chm911077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables.AddPivotTable Method (Excel)
+# SlicerPivotTables.AddPivotTable method (Excel)
 
 Adds a reference to a PivotTable to the  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection.
 

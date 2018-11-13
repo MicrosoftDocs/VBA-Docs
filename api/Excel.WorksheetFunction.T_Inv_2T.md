@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Inv_2T Method (Excel)
+title: WorksheetFunction.T_Inv_2T method (Excel)
 keywords: vbaxl10.chm137387
 f1_keywords:
 - vbaxl10.chm137387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.T_Inv_2T Method (Excel)
+# WorksheetFunction.T_Inv_2T method (Excel)
 
 Returns the t-value of the Student t-distribution as a function of the probability and the degrees of freedom.
 

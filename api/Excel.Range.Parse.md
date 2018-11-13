@@ -1,5 +1,5 @@
 ---
-title: Range.Parse Method (Excel)
+title: Range.Parse method (Excel)
 keywords: vbaxl10.chm144173
 f1_keywords:
 - vbaxl10.chm144173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Parse Method (Excel)
+# Range.Parse method (Excel)
 
 Parses a range of data and breaks it into multiple cells. Distributes the contents of the range to fill several adjacent columns; the range can be no more than one column wide.
 

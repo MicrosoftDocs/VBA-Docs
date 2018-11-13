@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Poisson_Dist Method (Excel)
+title: WorksheetFunction.Poisson_Dist method (Excel)
 keywords: vbaxl10.chm137376
 f1_keywords:
 - vbaxl10.chm137376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Poisson_Dist Method (Excel)
+# WorksheetFunction.Poisson_Dist method (Excel)
 
 Returns the Poisson distribution. A common application of the Poisson distribution is predicting the number of events over a specific time, such as the number of cars arriving at a toll plaza in one minute.
 

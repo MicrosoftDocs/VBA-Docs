@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogInv Method (Excel)
+title: WorksheetFunction.LogInv method (Excel)
 keywords: vbaxl10.chm137195
 f1_keywords:
 - vbaxl10.chm137195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.LogInv Method (Excel)
+# WorksheetFunction.LogInv method (Excel)
 
 Use the lognormal distribution to analyze logarithmically transformed data.
 

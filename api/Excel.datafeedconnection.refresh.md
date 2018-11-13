@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.Refresh Method (Excel)
+title: DataFeedConnection.Refresh method (Excel)
 keywords: vbaxl10.chm928087
 f1_keywords:
 - vbaxl10.chm928087
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.Refresh Method (Excel)
+# DataFeedConnection.Refresh method (Excel)
 
 Refreshes the data feed connection.
 

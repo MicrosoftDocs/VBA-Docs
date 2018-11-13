@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserPicture Method (Excel)
+title: FillFormat.UserPicture method (Excel)
 keywords: vbaxl10.chm115009
 f1_keywords:
 - vbaxl10.chm115009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.UserPicture Method (Excel)
+# FillFormat.UserPicture method (Excel)
 
 Fills the specified shape with an image.
 

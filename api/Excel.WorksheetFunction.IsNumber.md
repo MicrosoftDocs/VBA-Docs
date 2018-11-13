@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsNumber Method (Excel)
+title: WorksheetFunction.IsNumber method (Excel)
 keywords: vbaxl10.chm137132
 f1_keywords:
 - vbaxl10.chm137132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsNumber Method (Excel)
+# WorksheetFunction.IsNumber method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to a number.
 

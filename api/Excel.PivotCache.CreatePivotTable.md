@@ -1,5 +1,5 @@
 ---
-title: PivotCache.CreatePivotTable Method (Excel)
+title: PivotCache.CreatePivotTable method (Excel)
 keywords: vbaxl10.chm227095
 f1_keywords:
 - vbaxl10.chm227095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.CreatePivotTable Method (Excel)
+# PivotCache.CreatePivotTable method (Excel)
 
 Creates a PivotTable report based on a  **[PivotCache](Excel.PivotCache.md)** object. Returns a **[PivotTable](Excel.PivotTable.md)** object.
 

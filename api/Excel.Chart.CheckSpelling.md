@@ -1,5 +1,5 @@
 ---
-title: Chart.CheckSpelling Method (Excel)
+title: Chart.CheckSpelling method (Excel)
 keywords: vbaxl10.chm149092
 f1_keywords:
 - vbaxl10.chm149092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.CheckSpelling Method (Excel)
+# Chart.CheckSpelling method (Excel)
 
 Checks the spelling of an object.
 

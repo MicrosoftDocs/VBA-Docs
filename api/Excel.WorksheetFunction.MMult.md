@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MMult Method (Excel)
+title: WorksheetFunction.MMult method (Excel)
 keywords: vbaxl10.chm137139
 f1_keywords:
 - vbaxl10.chm137139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MMult Method (Excel)
+# WorksheetFunction.MMult method (Excel)
 
 Returns the matrix product of two arrays. The result is an array with the same number of rows as array1 and the same number of columns as array2.
 

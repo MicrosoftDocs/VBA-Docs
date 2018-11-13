@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Gauss Method (Excel)
+title: WorksheetFunction.Gauss method (Excel)
 keywords: vbaxl10.chm137449
 f1_keywords:
 - vbaxl10.chm137449
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Gauss Method (Excel)
+# WorksheetFunction.Gauss method (Excel)
 
 Returns 0.5 less than the standard normal cumulative distribution.
 

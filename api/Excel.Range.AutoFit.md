@@ -1,5 +1,5 @@
 ---
-title: Range.AutoFit Method (Excel)
+title: Range.AutoFit method (Excel)
 keywords: vbaxl10.chm144085
 f1_keywords:
 - vbaxl10.chm144085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AutoFit Method (Excel)
+# Range.AutoFit method (Excel)
 
 Changes the width of the columns in the range or the height of the rows in the range to achieve the best fit.
 

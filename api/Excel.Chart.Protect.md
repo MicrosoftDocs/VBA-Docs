@@ -1,5 +1,5 @@
 ---
-title: Chart.Protect Method (Excel)
+title: Chart.Protect method (Excel)
 keywords: vbaxl10.chm149173
 f1_keywords:
 - vbaxl10.chm149173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Protect Method (Excel)
+# Chart.Protect method (Excel)
 
 Protects a chart so that it cannot be modified.
 

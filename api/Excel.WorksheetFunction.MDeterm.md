@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MDeterm Method (Excel)
+title: WorksheetFunction.MDeterm method (Excel)
 keywords: vbaxl10.chm137137
 f1_keywords:
 - vbaxl10.chm137137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MDeterm Method (Excel)
+# WorksheetFunction.MDeterm method (Excel)
 
 Returns the matrix determinant of an array.
 

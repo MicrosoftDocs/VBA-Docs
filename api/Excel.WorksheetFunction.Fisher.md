@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fisher Method (Excel)
+title: WorksheetFunction.Fisher method (Excel)
 keywords: vbaxl10.chm137187
 f1_keywords:
 - vbaxl10.chm137187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Fisher Method (Excel)
+# WorksheetFunction.Fisher method (Excel)
 
 Returns the Fisher transformation at x. This transformation produces a function that is normally distributed rather than skewed. Use this function to perform hypothesis testing on the correlation coefficient.
 

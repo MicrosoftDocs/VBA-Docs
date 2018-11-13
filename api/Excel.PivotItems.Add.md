@@ -1,5 +1,5 @@
 ---
-title: PivotItems.Add Method (Excel)
+title: PivotItems.Add method (Excel)
 keywords: vbaxl10.chm248074
 f1_keywords:
 - vbaxl10.chm248074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItems.Add Method (Excel)
+# PivotItems.Add method (Excel)
 
 Creates a new PivotTable item.
 

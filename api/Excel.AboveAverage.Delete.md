@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.Delete Method (Excel)
+title: AboveAverage.Delete method (Excel)
 keywords: vbaxl10.chm824084
 f1_keywords:
 - vbaxl10.chm824084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.Delete Method (Excel)
+# AboveAverage.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

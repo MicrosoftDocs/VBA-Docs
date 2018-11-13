@@ -1,5 +1,5 @@
 ---
-title: PivotCache.MakeConnection Method (Excel)
+title: PivotCache.MakeConnection method (Excel)
 keywords: vbaxl10.chm227099
 f1_keywords:
 - vbaxl10.chm227099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.MakeConnection Method (Excel)
+# PivotCache.MakeConnection method (Excel)
 
 Establishes a connection for the specified PivotTable cache.
 

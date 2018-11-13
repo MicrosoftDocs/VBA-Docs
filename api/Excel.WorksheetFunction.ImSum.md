@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSum Method (Excel)
+title: WorksheetFunction.ImSum method (Excel)
 keywords: vbaxl10.chm137289
 f1_keywords:
 - vbaxl10.chm137289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSum Method (Excel)
+# WorksheetFunction.ImSum method (Excel)
 
 Returns the sum of two or more complex numbers in x + yi or x + yj text format.
 

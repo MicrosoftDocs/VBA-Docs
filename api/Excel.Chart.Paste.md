@@ -1,5 +1,5 @@
 ---
-title: Chart.Paste Method (Excel)
+title: Chart.Paste method (Excel)
 keywords: vbaxl10.chm149129
 f1_keywords:
 - vbaxl10.chm149129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Paste Method (Excel)
+# Chart.Paste method (Excel)
 
 Pastes chart data from the Clipboard into the specified chart.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Cut Method (Excel)
+title: Range.Cut method (Excel)
 keywords: vbaxl10.chm144112
 f1_keywords:
 - vbaxl10.chm144112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Cut Method (Excel)
+# Range.Cut method (Excel)
 
 Cuts the object to the Clipboard or pastes it into a specified destination.
 

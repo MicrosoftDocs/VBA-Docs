@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ShowDataForm Method (Excel)
+title: Worksheet.ShowDataForm method (Excel)
 keywords: vbaxl10.chm175127
 f1_keywords:
 - vbaxl10.chm175127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ShowDataForm Method (Excel)
+# Worksheet.ShowDataForm method (Excel)
 
 Displays the data form associated with the worksheet.
 

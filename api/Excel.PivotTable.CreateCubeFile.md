@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CreateCubeFile Method (Excel)
+title: PivotTable.CreateCubeFile method (Excel)
 keywords: vbaxl10.chm235152
 f1_keywords:
 - vbaxl10.chm235152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CreateCubeFile Method (Excel)
+# PivotTable.CreateCubeFile method (Excel)
 
 Creates a cube file from a PivotTable report connected to an Online Analytical Processing (OLAP) data source.
 

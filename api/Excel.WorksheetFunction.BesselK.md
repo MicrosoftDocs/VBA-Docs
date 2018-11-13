@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselK Method (Excel)
+title: WorksheetFunction.BesselK method (Excel)
 keywords: vbaxl10.chm137303
 f1_keywords:
 - vbaxl10.chm137303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BesselK Method (Excel)
+# WorksheetFunction.BesselK method (Excel)
 
 Returns the modified Bessel function, which is equivalent to the Bessel functions evaluated for purely imaginary arguments.
 

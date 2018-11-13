@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PDuration Method (Excel)
+title: WorksheetFunction.PDuration method (Excel)
 keywords: vbaxl10.chm137443
 f1_keywords:
 - vbaxl10.chm137443
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.PDuration Method (Excel)
+# WorksheetFunction.PDuration method (Excel)
 
 Returns the number of periods required by an investment to reach a specified value.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Asinh Method (Excel)
+title: WorksheetFunction.Asinh method (Excel)
 keywords: vbaxl10.chm137167
 f1_keywords:
 - vbaxl10.chm137167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Asinh Method (Excel)
+# WorksheetFunction.Asinh method (Excel)
 
 Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is  _Arg1_, so Asinh(Sinh(number)) equals  _Arg1_.
 

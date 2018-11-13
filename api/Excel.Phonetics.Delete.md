@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Delete Method (Excel)
+title: Phonetics.Delete method (Excel)
 keywords: vbaxl10.chm658081
 f1_keywords:
 - vbaxl10.chm658081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Delete Method (Excel)
+# Phonetics.Delete method (Excel)
 
 Deletes the object.
 

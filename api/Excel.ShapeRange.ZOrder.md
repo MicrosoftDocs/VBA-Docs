@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ZOrder Method (Excel)
+title: ShapeRange.ZOrder method (Excel)
 keywords: vbaxl10.chm640095
 f1_keywords:
 - vbaxl10.chm640095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ZOrder Method (Excel)
+# ShapeRange.ZOrder method (Excel)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 

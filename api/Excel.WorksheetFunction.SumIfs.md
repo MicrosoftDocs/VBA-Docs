@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumIfs Method (Excel)
+title: WorksheetFunction.SumIfs method (Excel)
 keywords: vbaxl10.chm137353
 f1_keywords:
 - vbaxl10.chm137353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumIfs Method (Excel)
+# WorksheetFunction.SumIfs method (Excel)
 
 Adds the cells in a range that meet multiple criteria.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.SaveAs Method (Excel)
+title: Workbook.SaveAs method (Excel)
 keywords: vbaxl10.chm199200
 f1_keywords:
 - vbaxl10.chm199200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SaveAs Method (Excel)
+# Workbook.SaveAs method (Excel)
 
 Saves changes to the workbook in a different file.
 

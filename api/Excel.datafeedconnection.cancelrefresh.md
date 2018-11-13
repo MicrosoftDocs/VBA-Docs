@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.CancelRefresh Method (Excel)
+title: DataFeedConnection.CancelRefresh method (Excel)
 keywords: vbaxl10.chm928086
 f1_keywords:
 - vbaxl10.chm928086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.CancelRefresh Method (Excel)
+# DataFeedConnection.CancelRefresh method (Excel)
 
 Cancels a refresh operation on a data feed connection.
 

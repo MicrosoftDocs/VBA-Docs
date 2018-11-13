@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (Excel)
+title: ShapeNodes.SetPosition method (Excel)
 keywords: vbaxl10.chm112010
 f1_keywords:
 - vbaxl10.chm112010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetPosition Method (Excel)
+# ShapeNodes.SetPosition method (Excel)
 
 Sets the location of the node specified by  _Index_. Note that, depending on the editing type of the node, this method may affect the position of adjacent nodes.
 

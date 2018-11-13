@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.ClearAllFilters Method (Excel)
+title: SlicerCache.ClearAllFilters method (Excel)
 keywords: vbaxl10.chm897092
 f1_keywords:
 - vbaxl10.chm897092
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.ClearAllFilters Method (Excel)
+# SlicerCache.ClearAllFilters method (Excel)
 
 Clears the filter for either slicer or timeline, depending on the slicer cache type.
 

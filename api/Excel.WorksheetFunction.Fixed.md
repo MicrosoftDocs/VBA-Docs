@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fixed Method (Excel)
+title: WorksheetFunction.Fixed method (Excel)
 keywords: vbaxl10.chm137084
 f1_keywords:
 - vbaxl10.chm137084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Fixed Method (Excel)
+# WorksheetFunction.Fixed method (Excel)
 
 Rounds a number to the specified number of decimals, formats the number in decimal format using a period and commas, and returns the result as text.
 

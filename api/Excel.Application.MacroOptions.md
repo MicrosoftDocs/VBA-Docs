@@ -1,5 +1,5 @@
 ---
-title: Application.MacroOptions Method (Excel)
+title: Application.MacroOptions method (Excel)
 keywords: vbaxl10.chm133324
 f1_keywords:
 - vbaxl10.chm133324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MacroOptions Method (Excel)
+# Application.MacroOptions method (Excel)
 
 Corresponds to options in the **Macro Options** dialog box. You can also use this method to display a user defined function (UDF) in a built-in or new category within the **Insert Function** dialog box.
 

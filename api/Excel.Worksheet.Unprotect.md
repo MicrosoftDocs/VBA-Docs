@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Unprotect Method (Excel)
+title: Worksheet.Unprotect method (Excel)
 keywords: vbaxl10.chm174096
 f1_keywords:
 - vbaxl10.chm174096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Unprotect Method (Excel)
+# Worksheet.Unprotect method (Excel)
 
 Removes protection from a sheet or workbook. This method has no effect if the sheet or workbook isn't protected.
 

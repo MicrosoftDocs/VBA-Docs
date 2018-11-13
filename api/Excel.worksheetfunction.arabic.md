@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Arabic Method (Excel)
+title: WorksheetFunction.Arabic method (Excel)
 keywords: vbaxl10.chm137456
 f1_keywords:
 - vbaxl10.chm137456
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Arabic Method (Excel)
+# WorksheetFunction.Arabic method (Excel)
 
 Converts a Roman numeral to an Arabic numeral.
 

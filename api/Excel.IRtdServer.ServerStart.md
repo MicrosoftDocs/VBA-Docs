@@ -1,5 +1,5 @@
 ---
-title: IRtdServer.ServerStart Method (Excel)
+title: IRtdServer.ServerStart method (Excel)
 keywords: vbaxl10.chm500005
 f1_keywords:
 - vbaxl10.chm500005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRtdServer.ServerStart Method (Excel)
+# IRtdServer.ServerStart method (Excel)
 
 The  **ServerStart** method is called immediately after a real-time data server is instantiated. Returns a **Long** ; negative value or zero indicates failure to start the server; positive value indicates success.
 

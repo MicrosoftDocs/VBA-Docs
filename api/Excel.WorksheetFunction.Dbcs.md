@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dbcs Method (Excel)
+title: WorksheetFunction.Dbcs method (Excel)
 keywords: vbaxl10.chm137247
 f1_keywords:
 - vbaxl10.chm137247
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Dbcs Method (Excel)
+# WorksheetFunction.Dbcs method (Excel)
 
 Converts half-width (single-byte) letters within a character string to full-width (double-byte) characters. The name of the function (and the characters that it converts) depends upon the language settings. Read/write  **String** .
 

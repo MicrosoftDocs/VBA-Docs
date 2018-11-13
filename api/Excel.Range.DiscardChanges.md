@@ -1,5 +1,5 @@
 ---
-title: Range.DiscardChanges Method (Excel)
+title: Range.DiscardChanges method (Excel)
 keywords: vbaxl10.chm144254
 f1_keywords:
 - vbaxl10.chm144254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DiscardChanges Method (Excel)
+# Range.DiscardChanges method (Excel)
 
 Discards all changes in the edited cells of the range.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsError Method (Excel)
+title: WorksheetFunction.IsError method (Excel)
 keywords: vbaxl10.chm137076
 f1_keywords:
 - vbaxl10.chm137076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsError Method (Excel)
+# WorksheetFunction.IsError method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to any error value (#N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL!).
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllocateChanges Method (Excel)
+title: PivotTable.AllocateChanges method (Excel)
 keywords: vbaxl10.chm235191
 f1_keywords:
 - vbaxl10.chm235191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AllocateChanges Method (Excel)
+# PivotTable.AllocateChanges method (Excel)
 
 Performs a writeback operation for all edited cells in a PivotTable report based on an OLAP data source.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pi Method (Excel)
+title: WorksheetFunction.Pi method (Excel)
 keywords: vbaxl10.chm137085
 f1_keywords:
 - vbaxl10.chm137085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Pi Method (Excel)
+# WorksheetFunction.Pi method (Excel)
 
 Returns the number 3.14159265358979, the mathematical constant pi, accurate to 15 digits.
 

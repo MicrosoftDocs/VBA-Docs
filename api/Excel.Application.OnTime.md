@@ -1,5 +1,5 @@
 ---
-title: Application.OnTime Method (Excel)
+title: Application.OnTime method (Excel)
 keywords: vbaxl10.chm133184
 f1_keywords:
 - vbaxl10.chm133184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnTime Method (Excel)
+# Application.OnTime method (Excel)
 
 Schedules a procedure to be run at a specified time in the future (either at a specific time of day or after a specific amount of time has passed).
 

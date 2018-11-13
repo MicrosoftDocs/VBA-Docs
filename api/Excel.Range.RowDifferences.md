@@ -1,5 +1,5 @@
 ---
-title: Range.RowDifferences Method (Excel)
+title: Range.RowDifferences method (Excel)
 keywords: vbaxl10.chm144189
 f1_keywords:
 - vbaxl10.chm144189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.RowDifferences Method (Excel)
+# Range.RowDifferences method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells whose contents are different from those of the comparison cell in each row.
 

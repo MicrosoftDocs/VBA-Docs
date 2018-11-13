@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Norm_Dist Method (Excel)
+title: WorksheetFunction.Norm_Dist method (Excel)
 keywords: vbaxl10.chm137370
 f1_keywords:
 - vbaxl10.chm137370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Norm_Dist Method (Excel)
+# WorksheetFunction.Norm_Dist method (Excel)
 
 Returns the normal distribution for the specified mean and standard deviation. This function has a wide range of applications in statistics, including hypothesis testing.
 

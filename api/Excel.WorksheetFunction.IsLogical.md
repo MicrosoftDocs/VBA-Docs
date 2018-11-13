@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsLogical Method (Excel)
+title: WorksheetFunction.IsLogical method (Excel)
 keywords: vbaxl10.chm137151
 f1_keywords:
 - vbaxl10.chm137151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsLogical Method (Excel)
+# WorksheetFunction.IsLogical method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to a logical value.
 

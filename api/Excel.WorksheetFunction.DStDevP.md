@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DStDevP Method (Excel)
+title: WorksheetFunction.DStDevP method (Excel)
 keywords: vbaxl10.chm137149
 f1_keywords:
 - vbaxl10.chm137149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DStDevP Method (Excel)
+# WorksheetFunction.DStDevP method (Excel)
 
 Calculates the standard deviation of a population based on the entire population by using the numbers in a column of a list or database that match conditions that you specify.
 

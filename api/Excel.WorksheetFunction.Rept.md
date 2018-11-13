@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rept Method (Excel)
+title: WorksheetFunction.Rept method (Excel)
 keywords: vbaxl10.chm137091
 f1_keywords:
 - vbaxl10.chm137091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Rept Method (Excel)
+# WorksheetFunction.Rept method (Excel)
 
 Repeats text a given number of times. Use REPT to fill a cell with a number of instances of a text string.
 

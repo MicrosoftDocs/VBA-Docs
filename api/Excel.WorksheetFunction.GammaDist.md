@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GammaDist Method (Excel)
+title: WorksheetFunction.GammaDist method (Excel)
 keywords: vbaxl10.chm137190
 f1_keywords:
 - vbaxl10.chm137190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.GammaDist Method (Excel)
+# WorksheetFunction.GammaDist method (Excel)
 
 Returns the gamma distribution. You can use this function to study variables that may have a skewed distribution. The gamma distribution is commonly used in queuing analysis.
 

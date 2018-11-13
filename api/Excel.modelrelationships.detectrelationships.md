@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.DetectRelationships Method (Excel)
+title: ModelRelationships.DetectRelationships method (Excel)
 keywords: vbaxl10.chm940078
 f1_keywords:
 - vbaxl10.chm940078
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelRelationships.DetectRelationships Method (Excel)
+# ModelRelationships.DetectRelationships method (Excel)
 
 Detects model relationships in the specified [PivotTable](Excel.PivotTable.md).
 

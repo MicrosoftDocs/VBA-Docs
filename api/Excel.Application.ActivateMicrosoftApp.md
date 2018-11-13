@@ -1,5 +1,5 @@
 ---
-title: Application.ActivateMicrosoftApp Method (Excel)
+title: Application.ActivateMicrosoftApp method (Excel)
 keywords: vbaxl10.chm133074
 f1_keywords:
 - vbaxl10.chm133074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActivateMicrosoftApp Method (Excel)
+# Application.ActivateMicrosoftApp method (Excel)
 
 Activates a Microsoft application. If the application is already running, this method activates the running application. If the application isn't running, this method starts a new instance of the application.
 

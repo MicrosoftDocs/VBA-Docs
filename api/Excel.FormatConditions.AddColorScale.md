@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddColorScale Method (Excel)
+title: FormatConditions.AddColorScale method (Excel)
 keywords: vbaxl10.chm510079
 f1_keywords:
 - vbaxl10.chm510079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.AddColorScale Method (Excel)
+# FormatConditions.AddColorScale method (Excel)
 
 Returns a new  **[ColorScale](Excel.ColorScale.md)** object representing a conditional formatting rule that uses gradations in cell colors to indicate relative differences in the values of cells included in a selected range.
 

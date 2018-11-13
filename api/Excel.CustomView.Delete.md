@@ -1,5 +1,5 @@
 ---
-title: CustomView.Delete Method (Excel)
+title: CustomView.Delete method (Excel)
 keywords: vbaxl10.chm508077
 f1_keywords:
 - vbaxl10.chm508077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.Delete Method (Excel)
+# CustomView.Delete method (Excel)
 
 Deletes the object.
 

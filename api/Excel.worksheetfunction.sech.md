@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Sech Method (Excel)
+title: WorksheetFunction.Sech method (Excel)
 keywords: vbaxl10.chm137428
 f1_keywords:
 - vbaxl10.chm137428
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Sech Method (Excel)
+# WorksheetFunction.Sech method (Excel)
 
 Returns the hyperbolic secant of an angle.
 

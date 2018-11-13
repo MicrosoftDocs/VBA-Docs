@@ -1,5 +1,5 @@
 ---
-title: PivotTables.Add Method (Excel)
+title: PivotTables.Add method (Excel)
 keywords: vbaxl10.chm238076
 f1_keywords:
 - vbaxl10.chm238076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTables.Add Method (Excel)
+# PivotTables.Add method (Excel)
 
 Adds a new PivotTable report. Returns a  **[PivotTable](Excel.PivotTable.md)** object.
 

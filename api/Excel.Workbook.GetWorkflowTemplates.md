@@ -1,5 +1,5 @@
 ---
-title: Workbook.GetWorkflowTemplates Method (Excel)
+title: Workbook.GetWorkflowTemplates method (Excel)
 keywords: vbaxl10.chm199243
 f1_keywords:
 - vbaxl10.chm199243
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.GetWorkflowTemplates Method (Excel)
+# Workbook.GetWorkflowTemplates method (Excel)
 
 Returns the collection of  **[WorkflowTemplate](./Office.WorkflowTemplate.md)** objects for the specified workbook.
 

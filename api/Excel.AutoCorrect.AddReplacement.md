@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.AddReplacement Method (Excel)
+title: AutoCorrect.AddReplacement method (Excel)
 keywords: vbaxl10.chm545073
 f1_keywords:
 - vbaxl10.chm545073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.AddReplacement Method (Excel)
+# AutoCorrect.AddReplacement method (Excel)
 
 Adds an entry to the array of AutoCorrect replacements.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ConvertFormula Method (Excel)
+title: Application.ConvertFormula method (Excel)
 keywords: vbaxl10.chm133097
 f1_keywords:
 - vbaxl10.chm133097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ConvertFormula Method (Excel)
+# Application.ConvertFormula method (Excel)
 
 Converts cell references in a formula between the A1 and R1C1 reference styles, between relative and absolute references, or both.  **Variant** .
 

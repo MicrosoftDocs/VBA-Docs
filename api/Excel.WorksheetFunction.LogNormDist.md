@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogNormDist Method (Excel)
+title: WorksheetFunction.LogNormDist method (Excel)
 keywords: vbaxl10.chm137194
 f1_keywords:
 - vbaxl10.chm137194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.LogNormDist Method (Excel)
+# WorksheetFunction.LogNormDist method (Excel)
 
 Returns the cumulative lognormal distribution of x, where ln(x) is normally distributed with parameters mean and standard_dev. Use this function to analyze data that has been logarithmically transformed.
 

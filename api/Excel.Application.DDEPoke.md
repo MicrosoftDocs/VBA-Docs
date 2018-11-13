@@ -1,5 +1,5 @@
 ---
-title: Application.DDEPoke Method (Excel)
+title: Application.DDEPoke method (Excel)
 keywords: vbaxl10.chm132091
 f1_keywords:
 - vbaxl10.chm132091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEPoke Method (Excel)
+# Application.DDEPoke method (Excel)
 
 Sends data to an application.
 

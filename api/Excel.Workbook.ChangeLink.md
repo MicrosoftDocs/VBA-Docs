@@ -1,5 +1,5 @@
 ---
-title: Workbook.ChangeLink Method (Excel)
+title: Workbook.ChangeLink method (Excel)
 keywords: vbaxl10.chm199083
 f1_keywords:
 - vbaxl10.chm199083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ChangeLink Method (Excel)
+# Workbook.ChangeLink method (Excel)
 
 Changes a link from one document to another.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.RejectAllChanges Method (Excel)
+title: Workbook.RejectAllChanges method (Excel)
 keywords: vbaxl10.chm199178
 f1_keywords:
 - vbaxl10.chm199178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RejectAllChanges Method (Excel)
+# Workbook.RejectAllChanges method (Excel)
 
 Rejects all changes in the specified shared workbook.
 

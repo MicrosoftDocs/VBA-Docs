@@ -1,5 +1,5 @@
 ---
-title: XmlMaps.Add Method (Excel)
+title: XmlMaps.Add method (Excel)
 keywords: vbaxl10.chm756073
 f1_keywords:
 - vbaxl10.chm756073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMaps.Add Method (Excel)
+# XmlMaps.Add method (Excel)
 
 Adds an XML map to the specified workbook.
 

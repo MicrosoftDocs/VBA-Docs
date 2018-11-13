@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Select Method (Excel)
+title: LeaderLines.Select method (Excel)
 keywords: vbaxl10.chm606075
 f1_keywords:
 - vbaxl10.chm606075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Select Method (Excel)
+# LeaderLines.Select method (Excel)
 
 Selects the object.
 

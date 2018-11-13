@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Product Method (Excel)
+title: WorksheetFunction.Product method (Excel)
 keywords: vbaxl10.chm137143
 f1_keywords:
 - vbaxl10.chm137143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Product Method (Excel)
+# WorksheetFunction.Product method (Excel)
 
 Multiplies all the numbers given as arguments and returns the product.
 

@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis.Show Method (Excel)
+title: QuickAnalysis.Show method (Excel)
 keywords: vbaxl10.chm920073
 f1_keywords:
 - vbaxl10.chm920073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis.Show Method (Excel)
+# QuickAnalysis.Show method (Excel)
 
 Displays specific members of the Analysis Lens user interface.
 

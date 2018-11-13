@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.StDev_P Method (Excel)
+title: WorksheetFunction.StDev_P method (Excel)
 keywords: vbaxl10.chm137382
 f1_keywords:
 - vbaxl10.chm137382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.StDev_P Method (Excel)
+# WorksheetFunction.StDev_P method (Excel)
 
 Calculates standard deviation based on the entire population given as arguments. The standard deviation is a measure of how widely values are dispersed from the average value (the mean).
 

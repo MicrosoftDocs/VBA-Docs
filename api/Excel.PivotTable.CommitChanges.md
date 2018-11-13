@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CommitChanges Method (Excel)
+title: PivotTable.CommitChanges method (Excel)
 keywords: vbaxl10.chm235192
 f1_keywords:
 - vbaxl10.chm235192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CommitChanges Method (Excel)
+# PivotTable.CommitChanges method (Excel)
 
 Performs a commit operation on the data source of a PivotTable report based on an OLAP data source.
 

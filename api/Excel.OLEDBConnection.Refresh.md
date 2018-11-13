@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Refresh Method (Excel)
+title: OLEDBConnection.Refresh method (Excel)
 keywords: vbaxl10.chm794083
 f1_keywords:
 - vbaxl10.chm794083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.Refresh Method (Excel)
+# OLEDBConnection.Refresh method (Excel)
 
 Refreshes an OLE DB connection.
 

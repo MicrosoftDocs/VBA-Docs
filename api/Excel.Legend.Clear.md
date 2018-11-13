@@ -1,5 +1,5 @@
 ---
-title: Legend.Clear Method (Excel)
+title: Legend.Clear method (Excel)
 keywords: vbaxl10.chm622082
 f1_keywords:
 - vbaxl10.chm622082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Clear Method (Excel)
+# Legend.Clear method (Excel)
 
 Clears the entire object.
 

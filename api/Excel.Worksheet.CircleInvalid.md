@@ -1,5 +1,5 @@
 ---
-title: Worksheet.CircleInvalid Method (Excel)
+title: Worksheet.CircleInvalid method (Excel)
 keywords: vbaxl10.chm175142
 f1_keywords:
 - vbaxl10.chm175142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.CircleInvalid Method (Excel)
+# Worksheet.CircleInvalid method (Excel)
 
 Circles invalid entries on the worksheet.
 

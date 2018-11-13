@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesCollection Method (Excel)
+title: Chart.SeriesCollection method (Excel)
 keywords: vbaxl10.chm149141
 f1_keywords:
 - vbaxl10.chm149141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SeriesCollection Method (Excel)
+# Chart.SeriesCollection method (Excel)
 
 Returns an object that represents either a single series (a  **[Series](Excel.Series(object).md)** object) or a collection of all the series (a **[SeriesCollection](Excel.SeriesCollection.md)** collection) in the chart or chart group.
 

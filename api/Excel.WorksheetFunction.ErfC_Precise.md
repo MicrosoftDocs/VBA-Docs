@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ErfC_Precise Method (Excel)
+title: WorksheetFunction.ErfC_Precise method (Excel)
 keywords: vbaxl10.chm137417
 f1_keywords:
 - vbaxl10.chm137417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ErfC_Precise Method (Excel)
+# WorksheetFunction.ErfC_Precise method (Excel)
 
 Returns the complementary error function integrated between the specified value and infinity.
 

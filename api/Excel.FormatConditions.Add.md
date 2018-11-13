@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.Add Method (Excel)
+title: FormatConditions.Add method (Excel)
 keywords: vbaxl10.chm510075
 f1_keywords:
 - vbaxl10.chm510075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.Add Method (Excel)
+# FormatConditions.Add method (Excel)
 
 Adds a new conditional format.
 

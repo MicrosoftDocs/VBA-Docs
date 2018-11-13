@@ -1,5 +1,5 @@
 ---
-title: SortField.SetIcon Method (Excel)
+title: SortField.SetIcon method (Excel)
 keywords: vbaxl10.chm843082
 f1_keywords:
 - vbaxl10.chm843082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.SetIcon Method (Excel)
+# SortField.SetIcon method (Excel)
 
 Sets an icon for a  **SortField** object.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Unicode Method (Excel)
+title: WorksheetFunction.Unicode method (Excel)
 keywords: vbaxl10.chm137454
 f1_keywords:
 - vbaxl10.chm137454
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Unicode Method (Excel)
+# WorksheetFunction.Unicode method (Excel)
 
 Returns the number (code point) corresponding to the first character of the text.
 

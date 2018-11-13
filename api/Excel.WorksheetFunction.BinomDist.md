@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BinomDist Method (Excel)
+title: WorksheetFunction.BinomDist method (Excel)
 keywords: vbaxl10.chm137177
 f1_keywords:
 - vbaxl10.chm137177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BinomDist Method (Excel)
+# WorksheetFunction.BinomDist method (Excel)
 
 Returns the individual term binomial distribution probability.
 

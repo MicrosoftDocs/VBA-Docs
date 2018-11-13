@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Select Method (Excel)
+title: Gridlines.Select method (Excel)
 keywords: vbaxl10.chm602075
 f1_keywords:
 - vbaxl10.chm602075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Select Method (Excel)
+# Gridlines.Select method (Excel)
 
 Selects the object.
 

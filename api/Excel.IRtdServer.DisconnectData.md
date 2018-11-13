@@ -1,5 +1,5 @@
 ---
-title: IRtdServer.DisconnectData Method (Excel)
+title: IRtdServer.DisconnectData method (Excel)
 keywords: vbaxl10.chm500008
 f1_keywords:
 - vbaxl10.chm500008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRtdServer.DisconnectData Method (Excel)
+# IRtdServer.DisconnectData method (Excel)
 
 Notifies a real-time data (RTD) server application that a topic is no longer in use.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ReplaceB Method (Excel)
+title: WorksheetFunction.ReplaceB method (Excel)
 keywords: vbaxl10.chm137156
 f1_keywords:
 - vbaxl10.chm137156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ReplaceB Method (Excel)
+# WorksheetFunction.ReplaceB method (Excel)
 
 REPLACEB replaces part of a text string, based on the number of bytes you specify, with a different text string. 
 

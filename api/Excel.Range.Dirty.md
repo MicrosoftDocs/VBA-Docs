@@ -1,5 +1,5 @@
 ---
-title: Range.Dirty Method (Excel)
+title: Range.Dirty method (Excel)
 keywords: vbaxl10.chm144234
 f1_keywords:
 - vbaxl10.chm144234
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Dirty Method (Excel)
+# Range.Dirty method (Excel)
 
 Designates a range to be recalculated when the next recalculation occurs.
 

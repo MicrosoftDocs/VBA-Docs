@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Oct2Hex Method (Excel)
+title: WorksheetFunction.Oct2Hex method (Excel)
 keywords: vbaxl10.chm137268
 f1_keywords:
 - vbaxl10.chm137268
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Oct2Hex Method (Excel)
+# WorksheetFunction.Oct2Hex method (Excel)
 
 Converts an octal number to hexadecimal.
 

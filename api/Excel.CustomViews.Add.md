@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Add Method (Excel)
+title: CustomViews.Add method (Excel)
 keywords: vbaxl10.chm506075
 f1_keywords:
 - vbaxl10.chm506075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomViews.Add Method (Excel)
+# CustomViews.Add method (Excel)
 
 Creates a new custom view.
 

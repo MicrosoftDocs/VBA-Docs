@@ -1,5 +1,5 @@
 ---
-title: Range.CreateNames Method (Excel)
+title: Range.CreateNames method (Excel)
 keywords: vbaxl10.chm144108
 f1_keywords:
 - vbaxl10.chm144108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CreateNames Method (Excel)
+# Range.CreateNames method (Excel)
 
 Creates names in the specified range, based on text labels in the sheet.
 

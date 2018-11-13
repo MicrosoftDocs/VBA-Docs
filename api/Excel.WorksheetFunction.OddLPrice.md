@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.OddLPrice Method (Excel)
+title: WorksheetFunction.OddLPrice method (Excel)
 keywords: vbaxl10.chm137336
 f1_keywords:
 - vbaxl10.chm137336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.OddLPrice Method (Excel)
+# WorksheetFunction.OddLPrice method (Excel)
 
 Returns the price per $100 face value of a security having an odd (short or long) last coupon period.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TBillYield Method (Excel)
+title: WorksheetFunction.TBillYield method (Excel)
 keywords: vbaxl10.chm137317
 f1_keywords:
 - vbaxl10.chm137317
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.TBillYield Method (Excel)
+# WorksheetFunction.TBillYield method (Excel)
 
 Returns the yield for a Treasury bill.
 

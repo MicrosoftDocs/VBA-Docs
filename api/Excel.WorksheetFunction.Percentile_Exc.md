@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Percentile_Exc Method (Excel)
+title: WorksheetFunction.Percentile_Exc method (Excel)
 keywords: vbaxl10.chm137372
 f1_keywords:
 - vbaxl10.chm137372
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Percentile_Exc Method (Excel)
+# WorksheetFunction.Percentile_Exc method (Excel)
 
 Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.
 

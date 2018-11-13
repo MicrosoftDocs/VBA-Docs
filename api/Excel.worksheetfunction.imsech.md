@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSech Method (Excel)
+title: WorksheetFunction.ImSech method (Excel)
 keywords: vbaxl10.chm137434
 f1_keywords:
 - vbaxl10.chm137434
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSech Method (Excel)
+# WorksheetFunction.ImSech method (Excel)
 
 Returns the secant of a complex number.
 

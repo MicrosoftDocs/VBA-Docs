@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotSelect Method (Excel)
+title: PivotTable.PivotSelect method (Excel)
 keywords: vbaxl10.chm235137
 f1_keywords:
 - vbaxl10.chm235137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotSelect Method (Excel)
+# PivotTable.PivotSelect method (Excel)
 
 Selects part of a PivotTable report.
 

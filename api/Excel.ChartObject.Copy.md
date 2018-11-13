@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Copy Method (Excel)
+title: ChartObject.Copy method (Excel)
 keywords: vbaxl10.chm494105
 f1_keywords:
 - vbaxl10.chm494105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Copy Method (Excel)
+# ChartObject.Copy method (Excel)
 
 Copies the object to the Clipboard.
 

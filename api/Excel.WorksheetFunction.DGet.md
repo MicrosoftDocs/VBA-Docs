@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DGet Method (Excel)
+title: WorksheetFunction.DGet method (Excel)
 keywords: vbaxl10.chm137170
 f1_keywords:
 - vbaxl10.chm137170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DGet Method (Excel)
+# WorksheetFunction.DGet method (Excel)
 
 Extracts a single value from a column of a list or database that matches conditions that you specify.
 

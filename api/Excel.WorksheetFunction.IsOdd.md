@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsOdd Method (Excel)
+title: WorksheetFunction.IsOdd method (Excel)
 keywords: vbaxl10.chm137298
 f1_keywords:
 - vbaxl10.chm137298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsOdd Method (Excel)
+# WorksheetFunction.IsOdd method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value is odd.
 

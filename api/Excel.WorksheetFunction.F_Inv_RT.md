@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Inv_RT Method (Excel)
+title: WorksheetFunction.F_Inv_RT method (Excel)
 keywords: vbaxl10.chm137405
 f1_keywords:
 - vbaxl10.chm137405
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.F_Inv_RT Method (Excel)
+# WorksheetFunction.F_Inv_RT method (Excel)
 
 Returns the inverse of the right-tailed F probability distribution. If p = F_DIST_RT(x,...), then F_INV_RT(p,...) = x.
 

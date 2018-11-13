@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Delete Method (Excel)
+title: DataLabels.Delete method (Excel)
 keywords: vbaxl10.chm584077
 f1_keywords:
 - vbaxl10.chm584077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Delete Method (Excel)
+# DataLabels.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Validation.Modify Method (Excel)
+title: Validation.Modify method (Excel)
 keywords: vbaxl10.chm532085
 f1_keywords:
 - vbaxl10.chm532085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Modify Method (Excel)
+# Validation.Modify method (Excel)
 
 Modifies data validation for a range.
 

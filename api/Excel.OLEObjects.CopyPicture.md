@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.CopyPicture Method (Excel)
+title: OLEObjects.CopyPicture method (Excel)
 keywords: vbaxl10.chm419076
 f1_keywords:
 - vbaxl10.chm419076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.CopyPicture Method (Excel)
+# OLEObjects.CopyPicture method (Excel)
 
 Copies the selected object to the Clipboard as a picture.  **Variant** .
 

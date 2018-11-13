@@ -1,5 +1,5 @@
 ---
-title: Worksheet.XmlMapQuery Method (Excel)
+title: Worksheet.XmlMapQuery method (Excel)
 keywords: vbaxl10.chm175159
 f1_keywords:
 - vbaxl10.chm175159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.XmlMapQuery Method (Excel)
+# Worksheet.XmlMapQuery method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cells mapped to a particular XPath. Returns **Nothing** if the specified XPath has not been mapped to the worksheet.
 

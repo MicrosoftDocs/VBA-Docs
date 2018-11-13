@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Paste Method (Excel)
+title: SeriesCollection.Paste method (Excel)
 keywords: vbaxl10.chm580079
 f1_keywords:
 - vbaxl10.chm580079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Paste Method (Excel)
+# SeriesCollection.Paste method (Excel)
 
 Pastes data from the Clipboard into the specified series collection.
 

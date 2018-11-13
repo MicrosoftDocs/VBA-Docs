@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollIntoView Method (Excel)
+title: Window.ScrollIntoView method (Excel)
 keywords: vbaxl10.chm356132
 f1_keywords:
 - vbaxl10.chm356132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ScrollIntoView Method (Excel)
+# Window.ScrollIntoView method (Excel)
 
 Scrolls the document window so that the contents of a specified rectangular area are displayed in either the upper-left or lower-right corner of the document window or pane (depending on the value of the  _Start_ argument).
 

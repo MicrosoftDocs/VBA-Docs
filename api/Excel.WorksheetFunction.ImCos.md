@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCos Method (Excel)
+title: WorksheetFunction.ImCos method (Excel)
 keywords: vbaxl10.chm137282
 f1_keywords:
 - vbaxl10.chm137282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImCos Method (Excel)
+# WorksheetFunction.ImCos method (Excel)
 
 Returns the cosine of a complex number in x + yi or x + yj text format.
 

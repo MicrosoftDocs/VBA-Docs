@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSinh Method (Excel)
+title: WorksheetFunction.ImSinh method (Excel)
 keywords: vbaxl10.chm137463
 f1_keywords:
 - vbaxl10.chm137463
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSinh Method (Excel)
+# WorksheetFunction.ImSinh method (Excel)
 
 Returns the hyperbolic sine of a complex number.
 

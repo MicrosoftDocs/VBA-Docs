@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (Excel)
+title: ShapeRange.Flip method (Excel)
 keywords: vbaxl10.chm640082
 f1_keywords:
 - vbaxl10.chm640082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Flip Method (Excel)
+# ShapeRange.Flip method (Excel)
 
 Flips the specified shape around its horizontal or vertical axis.
 

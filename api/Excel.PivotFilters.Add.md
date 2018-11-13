@@ -1,5 +1,5 @@
 ---
-title: PivotFilters.Add Method (Excel)
+title: PivotFilters.Add method (Excel)
 keywords: vbaxl10.chm772078
 f1_keywords:
 - vbaxl10.chm772078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilters.Add Method (Excel)
+# PivotFilters.Add method (Excel)
 
 Adds new filters to the  **PivotFilters** collection.
 

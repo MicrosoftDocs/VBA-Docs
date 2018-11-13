@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Syd Method (Excel)
+title: WorksheetFunction.Syd method (Excel)
 keywords: vbaxl10.chm137134
 f1_keywords:
 - vbaxl10.chm137134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Syd Method (Excel)
+# WorksheetFunction.Syd method (Excel)
 
 Returns the sum-of-years' digits depreciation of an asset for a specified period.
 

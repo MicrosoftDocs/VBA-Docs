@@ -1,5 +1,5 @@
 ---
-title: TableObject.Refresh Method (Excel)
+title: TableObject.Refresh method (Excel)
 keywords: vbaxl10.chm916080
 f1_keywords:
 - vbaxl10.chm916080
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.Refresh Method (Excel)
+# TableObject.Refresh method (Excel)
 
 This method updates the  **TableObject** object.
 

@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Delete Method (Excel)
+title: XmlMap.Delete method (Excel)
 keywords: vbaxl10.chm754086
 f1_keywords:
 - vbaxl10.chm754086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.Delete Method (Excel)
+# XmlMap.Delete method (Excel)
 
 Removes the specified XML map from the workbook.
 

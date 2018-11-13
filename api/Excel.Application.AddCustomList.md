@@ -1,5 +1,5 @@
 ---
-title: Application.AddCustomList Method (Excel)
+title: Application.AddCustomList method (Excel)
 keywords: vbaxl10.chm133076
 f1_keywords:
 - vbaxl10.chm133076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddCustomList Method (Excel)
+# Application.AddCustomList method (Excel)
 
 Adds a custom list for custom autofill and/or custom sort.
 

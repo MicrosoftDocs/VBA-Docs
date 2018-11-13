@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Item Method (Excel)
+title: ShapeNodes.Item method (Excel)
 keywords: vbaxl10.chm112003
 f1_keywords:
 - vbaxl10.chm112003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Item Method (Excel)
+# ShapeNodes.Item method (Excel)
 
 Returns a single object from a collection.
 

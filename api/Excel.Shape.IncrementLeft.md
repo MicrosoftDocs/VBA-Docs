@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementLeft Method (Excel)
+title: Shape.IncrementLeft method (Excel)
 keywords: vbaxl10.chm636078
 f1_keywords:
 - vbaxl10.chm636078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.IncrementLeft Method (Excel)
+# Shape.IncrementLeft method (Excel)
 
 Moves the specified shape horizontally by the specified number of points.
 

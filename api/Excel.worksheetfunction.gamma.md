@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Gamma Method (Excel)
+title: WorksheetFunction.Gamma method (Excel)
 keywords: vbaxl10.chm137448
 f1_keywords:
 - vbaxl10.chm137448
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Gamma Method (Excel)
+# WorksheetFunction.Gamma method (Excel)
 
 Returns the Gamma function value.
 

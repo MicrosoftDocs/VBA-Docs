@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RoundDown Method (Excel)
+title: WorksheetFunction.RoundDown method (Excel)
 keywords: vbaxl10.chm137158
 f1_keywords:
 - vbaxl10.chm137158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.RoundDown Method (Excel)
+# WorksheetFunction.RoundDown method (Excel)
 
 Rounds a number down, toward zero.
 

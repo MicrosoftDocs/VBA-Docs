@@ -1,5 +1,5 @@
 ---
-title: Range.ClearNotes Method (Excel)
+title: Range.ClearNotes method (Excel)
 keywords: vbaxl10.chm144097
 f1_keywords:
 - vbaxl10.chm144097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ClearNotes Method (Excel)
+# Range.ClearNotes method (Excel)
 
 Clears notes and sound notes from all the cells in the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Min Method (Excel)
+title: WorksheetFunction.Min method (Excel)
 keywords: vbaxl10.chm137079
 f1_keywords:
 - vbaxl10.chm137079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Min Method (Excel)
+# WorksheetFunction.Min method (Excel)
 
 Returns the smallest number in a set of values.
 

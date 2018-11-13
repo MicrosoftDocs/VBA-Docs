@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Covar Method (Excel)
+title: WorksheetFunction.Covar method (Excel)
 keywords: vbaxl10.chm137212
 f1_keywords:
 - vbaxl10.chm137212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Covar Method (Excel)
+# WorksheetFunction.Covar method (Excel)
 
 Returns covariance, the average of the products of deviations for each data point pair.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetPresetCamera Method (Excel)
+title: ThreeDFormat.SetPresetCamera method (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.SetPresetCamera
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetPresetCamera Method (Excel)
+# ThreeDFormat.SetPresetCamera method (Excel)
 
 Sets the camera for the specified  **ThreeDFormat** object.
 

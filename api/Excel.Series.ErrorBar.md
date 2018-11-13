@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBar Method (Excel)
+title: Series.ErrorBar method (Excel)
 keywords: vbaxl10.chm578081
 f1_keywords:
 - vbaxl10.chm578081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ErrorBar Method (Excel)
+# Series.ErrorBar method (Excel)
 
 Applies error bars to the series.  **Variant** .
 

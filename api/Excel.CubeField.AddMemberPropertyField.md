@@ -1,5 +1,5 @@
 ---
-title: CubeField.AddMemberPropertyField Method (Excel)
+title: CubeField.AddMemberPropertyField method (Excel)
 keywords: vbaxl10.chm668094
 f1_keywords:
 - vbaxl10.chm668094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.AddMemberPropertyField Method (Excel)
+# CubeField.AddMemberPropertyField method (Excel)
 
 Adds a member property field to the display for the cube field.
 

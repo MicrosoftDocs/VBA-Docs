@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Item Method (Excel)
+title: GroupShapes.Item method (Excel)
 keywords: vbaxl10.chm642074
 f1_keywords:
 - vbaxl10.chm642074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Item Method (Excel)
+# GroupShapes.Item method (Excel)
 
 Returns a single object from a collection.
 

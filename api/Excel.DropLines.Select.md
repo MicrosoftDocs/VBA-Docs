@@ -1,5 +1,5 @@
 ---
-title: DropLines.Select Method (Excel)
+title: DropLines.Select method (Excel)
 keywords: vbaxl10.chm604075
 f1_keywords:
 - vbaxl10.chm604075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Select Method (Excel)
+# DropLines.Select method (Excel)
 
 Selects the object.
 

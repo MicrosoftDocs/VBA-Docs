@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (Excel)
+title: Shape.Flip method (Excel)
 keywords: vbaxl10.chm636077
 f1_keywords:
 - vbaxl10.chm636077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Flip Method (Excel)
+# Shape.Flip method (Excel)
 
 Flips the specified shape around its horizontal or vertical axis.
 

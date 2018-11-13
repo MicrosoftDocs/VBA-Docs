@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotValueCell Method (Excel)
+title: PivotTable.PivotValueCell method (Excel)
 keywords: vbaxl10.chm235203
 f1_keywords:
 - vbaxl10.chm235203
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotValueCell Method (Excel)
+# PivotTable.PivotValueCell method (Excel)
 
 Retrieve the [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
 

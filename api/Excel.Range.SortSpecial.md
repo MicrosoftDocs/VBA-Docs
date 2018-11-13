@@ -1,5 +1,5 @@
 ---
-title: Range.SortSpecial Method (Excel)
+title: Range.SortSpecial method (Excel)
 keywords: vbaxl10.chm144201
 f1_keywords:
 - vbaxl10.chm144201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SortSpecial Method (Excel)
+# Range.SortSpecial method (Excel)
 
 Uses East Asian sorting methods to sort the range, a PivotTable report, or uses the method for the active region if the range contains only one cell. For example, Japanese sorts in the order of the Kana syllabary.
 

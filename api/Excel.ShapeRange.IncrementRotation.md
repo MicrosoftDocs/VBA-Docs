@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.IncrementRotation Method (Excel)
+title: ShapeRange.IncrementRotation method (Excel)
 keywords: vbaxl10.chm640084
 f1_keywords:
 - vbaxl10.chm640084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.IncrementRotation Method (Excel)
+# ShapeRange.IncrementRotation method (Excel)
 
 Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the  **[Rotation](Excel.ShapeRange.Rotation.md)** property to set the absolute rotation of the shape.
 

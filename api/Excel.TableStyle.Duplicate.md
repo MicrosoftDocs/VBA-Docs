@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Duplicate Method (Excel)
+title: TableStyle.Duplicate method (Excel)
 keywords: vbaxl10.chm839081
 f1_keywords:
 - vbaxl10.chm839081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Duplicate Method (Excel)
+# TableStyle.Duplicate method (Excel)
 
 Duplicates the  **TableStyle** object and returns a reference to the new copy.
 

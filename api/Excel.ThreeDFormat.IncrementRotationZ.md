@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationZ Method (Excel)
+title: ThreeDFormat.IncrementRotationZ method (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationZ
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationZ Method (Excel)
+# ThreeDFormat.IncrementRotationZ method (Excel)
 
 Changes the rotation of the specified shape around the z-axis by the specified number of degrees.
 

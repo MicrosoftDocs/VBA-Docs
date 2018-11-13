@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NPer Method (Excel)
+title: WorksheetFunction.NPer method (Excel)
 keywords: vbaxl10.chm137109
 f1_keywords:
 - vbaxl10.chm137109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NPer Method (Excel)
+# WorksheetFunction.NPer method (Excel)
 
 Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.HypGeom_Dist Method (Excel)
+title: WorksheetFunction.HypGeom_Dist method (Excel)
 keywords: vbaxl10.chm137406
 f1_keywords:
 - vbaxl10.chm137406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.HypGeom_Dist Method (Excel)
+# WorksheetFunction.HypGeom_Dist method (Excel)
 
 Returns the hypergeometric distribution. HYPGEOM_DIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. Use HYPGEOM_DIST for problems with a finite population, where each observation is either a success or a failure, and where each subset of a given size is chosen with equal likelihood.
 

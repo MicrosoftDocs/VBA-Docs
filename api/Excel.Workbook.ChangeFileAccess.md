@@ -1,5 +1,5 @@
 ---
-title: Workbook.ChangeFileAccess Method (Excel)
+title: Workbook.ChangeFileAccess method (Excel)
 keywords: vbaxl10.chm199082
 f1_keywords:
 - vbaxl10.chm199082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ChangeFileAccess Method (Excel)
+# Workbook.ChangeFileAccess method (Excel)
 
 Changes the access permissions for the workbook. This may require an updated version to be loaded from the disk.
 

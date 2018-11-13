@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendFaxOverInternet Method (Excel)
+title: Workbook.SendFaxOverInternet method (Excel)
 keywords: vbaxl10.chm199223
 f1_keywords:
 - vbaxl10.chm199223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SendFaxOverInternet Method (Excel)
+# Workbook.SendFaxOverInternet method (Excel)
 
 Sends a worksheet as a fax to the specfied recipients.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Match Method (Excel)
+title: WorksheetFunction.Match method (Excel)
 keywords: vbaxl10.chm137114
 f1_keywords:
 - vbaxl10.chm137114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Match Method (Excel)
+# WorksheetFunction.Match method (Excel)
 
 Returns the relative position of an item in an array that matches a specified value in a specified order. Use MATCH instead of one of the LOOKUP functions when you need the position of an item in a range instead of the item itself.
 

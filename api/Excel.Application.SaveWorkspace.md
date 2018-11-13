@@ -1,5 +1,5 @@
 ---
-title: Application.SaveWorkspace Method (Excel)
+title: Application.SaveWorkspace method (Excel)
 keywords: vbaxl10.chm133204
 f1_keywords:
 - vbaxl10.chm133204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SaveWorkspace Method (Excel)
+# Application.SaveWorkspace method (Excel)
 
 This object, member, or enumeration is deprecated and is not intended to be used in your code.
 

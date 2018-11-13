@@ -1,5 +1,5 @@
 ---
-title: Range.CopyFromRecordset Method (Excel)
+title: Range.CopyFromRecordset method (Excel)
 keywords: vbaxl10.chm144105
 f1_keywords:
 - vbaxl10.chm144105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CopyFromRecordset Method (Excel)
+# Range.CopyFromRecordset method (Excel)
 
 Copies the contents of an ADO or DAO  **Recordset** object onto a worksheet, beginning at the upper-left corner of the specified range. If the **Recordset** object contains fields with OLE objects in them, this method fails.
 

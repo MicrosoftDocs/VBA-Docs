@@ -1,5 +1,5 @@
 ---
-title: Range.ListNames Method (Excel)
+title: Range.ListNames method (Excel)
 keywords: vbaxl10.chm144155
 f1_keywords:
 - vbaxl10.chm144155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ListNames Method (Excel)
+# Range.ListNames method (Excel)
 
 Pastes a list of all nonhidden names onto the worksheet, beginning with the first cell in the range.
 

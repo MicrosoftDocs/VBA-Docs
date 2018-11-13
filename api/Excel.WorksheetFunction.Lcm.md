@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Lcm Method (Excel)
+title: WorksheetFunction.Lcm method (Excel)
 keywords: vbaxl10.chm137351
 f1_keywords:
 - vbaxl10.chm137351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Lcm Method (Excel)
+# WorksheetFunction.Lcm method (Excel)
 
 Returns the least common multiple of integers. The least common multiple is the smallest positive integer that is a multiple of all integer arguments number1, number2, and so on. Use LCM to add fractions with different denominators.
 

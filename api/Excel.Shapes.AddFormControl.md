@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddFormControl Method (Excel)
+title: Shapes.AddFormControl method (Excel)
 keywords: vbaxl10.chm638090
 f1_keywords:
 - vbaxl10.chm638090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddFormControl Method (Excel)
+# Shapes.AddFormControl method (Excel)
 
 Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object that represents the new control.
 

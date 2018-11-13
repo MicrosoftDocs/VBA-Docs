@@ -1,5 +1,5 @@
 ---
-title: Shape.Copy Method (Excel)
+title: Shape.Copy method (Excel)
 keywords: vbaxl10.chm636125
 f1_keywords:
 - vbaxl10.chm636125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Copy Method (Excel)
+# Shape.Copy method (Excel)
 
 Copies the object to the Clipboard.
 

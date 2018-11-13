@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Inv_RT Method (Excel)
+title: WorksheetFunction.ChiSq_Inv_RT method (Excel)
 keywords: vbaxl10.chm137401
 f1_keywords:
 - vbaxl10.chm137401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiSq_Inv_RT Method (Excel)
+# WorksheetFunction.ChiSq_Inv_RT method (Excel)
 
 Returns the inverse of the right-tailed probability of the chi-squared distribution.
 

@@ -1,5 +1,5 @@
 ---
-title: SortFields.Clear Method (Excel)
+title: SortFields.Clear method (Excel)
 keywords: vbaxl10.chm845076
 f1_keywords:
 - vbaxl10.chm845076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortFields.Clear Method (Excel)
+# SortFields.Clear method (Excel)
 
 Clears all the  **[SortFields](Excel.SortFields.md)** objects.
 

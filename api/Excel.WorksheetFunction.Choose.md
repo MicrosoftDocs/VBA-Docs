@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Choose Method (Excel)
+title: WorksheetFunction.Choose method (Excel)
 keywords: vbaxl10.chm137121
 f1_keywords:
 - vbaxl10.chm137121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Choose Method (Excel)
+# WorksheetFunction.Choose method (Excel)
 
 Uses  _Arg1_ as the index to return a value from the list of value arguments.
 

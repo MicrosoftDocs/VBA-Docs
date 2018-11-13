@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DVar Method (Excel)
+title: WorksheetFunction.DVar method (Excel)
 keywords: vbaxl10.chm137101
 f1_keywords:
 - vbaxl10.chm137101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DVar Method (Excel)
+# WorksheetFunction.DVar method (Excel)
 
 Estimates the variance of a population based on a sample by using the numbers in a column of a list or database that match conditions that you specify.
 

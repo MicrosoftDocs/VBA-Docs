@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.OddFPrice Method (Excel)
+title: WorksheetFunction.OddFPrice method (Excel)
 keywords: vbaxl10.chm137338
 f1_keywords:
 - vbaxl10.chm137338
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.OddFPrice Method (Excel)
+# WorksheetFunction.OddFPrice method (Excel)
 
 Returns the price per $100 face value of a security having an odd (short or long) first period.
 

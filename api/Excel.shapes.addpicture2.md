@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddPicture2 Method (Excel)
+title: Shapes.AddPicture2 method (Excel)
 keywords: vbaxl10.chm638097
 f1_keywords:
 - vbaxl10.chm638097
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Shapes.AddPicture2 Method (Excel)
+# Shapes.AddPicture2 method (Excel)
 
 Creates a picture from an existing file. Returns a  **[Shape](Excel.Shapes.md)** object that represents the new picture.
 

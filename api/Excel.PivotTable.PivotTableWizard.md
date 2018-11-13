@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotTableWizard Method (Excel)
+title: PivotTable.PivotTableWizard method (Excel)
 keywords: vbaxl10.chm235117
 f1_keywords:
 - vbaxl10.chm235117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotTableWizard Method (Excel)
+# PivotTable.PivotTableWizard method (Excel)
 
 Creates and returns a  **[PivotTable](Excel.PivotTable.md)** object. This method doesn?t display the PivotTable Wizard. This method isn?t available for OLE DB data sources. Use the **[Add](Excel.PivotTables.Add.md)** method to add a PivotTable cache, and then create a PivotTable report based on the cache.
 

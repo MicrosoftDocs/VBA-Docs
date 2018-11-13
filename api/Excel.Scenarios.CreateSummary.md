@@ -1,5 +1,5 @@
 ---
-title: Scenarios.CreateSummary Method (Excel)
+title: Scenarios.CreateSummary method (Excel)
 keywords: vbaxl10.chm362075
 f1_keywords:
 - vbaxl10.chm362075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.CreateSummary Method (Excel)
+# Scenarios.CreateSummary method (Excel)
 
 Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant** .
 

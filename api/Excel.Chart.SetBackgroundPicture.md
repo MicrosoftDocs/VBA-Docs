@@ -1,5 +1,5 @@
 ---
-title: Chart.SetBackgroundPicture Method (Excel)
+title: Chart.SetBackgroundPicture method (Excel)
 keywords: vbaxl10.chm149082
 f1_keywords:
 - vbaxl10.chm149082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetBackgroundPicture Method (Excel)
+# Chart.SetBackgroundPicture method (Excel)
 
 Sets the background graphic for a chart.
 

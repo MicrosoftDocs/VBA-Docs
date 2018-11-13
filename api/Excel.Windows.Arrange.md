@@ -1,5 +1,5 @@
 ---
-title: Windows.Arrange Method (Excel)
+title: Windows.Arrange method (Excel)
 keywords: vbaxl10.chm354073
 f1_keywords:
 - vbaxl10.chm354073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Arrange Method (Excel)
+# Windows.Arrange method (Excel)
 
 Arranges the windows on the screen.
 

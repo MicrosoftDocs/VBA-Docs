@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.AddNodes Method (Excel)
+title: FreeformBuilder.AddNodes method (Excel)
 keywords: vbaxl10.chm648073
 f1_keywords:
 - vbaxl10.chm648073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.AddNodes Method (Excel)
+# FreeformBuilder.AddNodes method (Excel)
 
 Adds a point in the current shape and then draws a line from the current node to last node that was added.
 

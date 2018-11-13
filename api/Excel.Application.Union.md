@@ -1,5 +1,5 @@
 ---
-title: Application.Union Method (Excel)
+title: Application.Union method (Excel)
 keywords: vbaxl10.chm132112
 f1_keywords:
 - vbaxl10.chm132112
@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Application.Union Method (Excel)
+# Application.Union method (Excel)
 
 Returns the union of two or more ranges.
 

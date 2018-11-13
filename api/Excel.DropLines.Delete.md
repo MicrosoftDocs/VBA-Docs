@@ -1,5 +1,5 @@
 ---
-title: DropLines.Delete Method (Excel)
+title: DropLines.Delete method (Excel)
 keywords: vbaxl10.chm604077
 f1_keywords:
 - vbaxl10.chm604077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Delete Method (Excel)
+# DropLines.Delete method (Excel)
 
 Deletes the object.
 

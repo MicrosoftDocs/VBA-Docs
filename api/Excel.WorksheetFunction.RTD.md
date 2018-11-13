@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RTD Method (Excel)
+title: WorksheetFunction.RTD method (Excel)
 keywords: vbaxl10.chm137260
 f1_keywords:
 - vbaxl10.chm137260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.RTD Method (Excel)
+# WorksheetFunction.RTD method (Excel)
 
 This method connects to a source to receive real-time data.
 

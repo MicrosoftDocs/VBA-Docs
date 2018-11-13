@@ -1,5 +1,5 @@
 ---
-title: Validation.Add Method (Excel)
+title: Validation.Add method (Excel)
 keywords: vbaxl10.chm532073
 f1_keywords:
 - vbaxl10.chm532073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Add Method (Excel)
+# Validation.Add method (Excel)
 
 Adds data validation to the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.ApplyOutlineStyles Method (Excel)
+title: Range.ApplyOutlineStyles method (Excel)
 keywords: vbaxl10.chm144080
 f1_keywords:
 - vbaxl10.chm144080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ApplyOutlineStyles Method (Excel)
+# Range.ApplyOutlineStyles method (Excel)
 
 Applies outlining styles to the specified range.
 

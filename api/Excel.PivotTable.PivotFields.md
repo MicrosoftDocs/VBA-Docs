@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotFields Method (Excel)
+title: PivotTable.PivotFields method (Excel)
 keywords: vbaxl10.chm235089
 f1_keywords:
 - vbaxl10.chm235089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotFields Method (Excel)
+# PivotTable.PivotFields method (Excel)
 
 Returns an object that represents either a single PivotTable field (a  **[PivotField](Excel.PivotField.md)** object) or a collection of both the visible and hidden fields (a **[PivotFields](Excel.PivotFields.md)** object) in the PivotTable report. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: VPageBreaks.Add Method (Excel)
+title: VPageBreaks.Add method (Excel)
 keywords: vbaxl10.chm168076
 f1_keywords:
 - vbaxl10.chm168076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreaks.Add Method (Excel)
+# VPageBreaks.Add method (Excel)
 
 Adds a vertical page break.
 

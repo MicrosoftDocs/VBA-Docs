@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.StDev_S Method (Excel)
+title: WorksheetFunction.StDev_S method (Excel)
 keywords: vbaxl10.chm137381
 f1_keywords:
 - vbaxl10.chm137381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.StDev_S Method (Excel)
+# WorksheetFunction.StDev_S method (Excel)
 
 Estimates standard deviation based on a sample. The standard deviation is a measure of how widely values are dispersed from the average value (the mean).
 

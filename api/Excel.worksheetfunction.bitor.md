@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bitor Method (Excel)
+title: WorksheetFunction.Bitor method (Excel)
 keywords: vbaxl10.chm137436
 f1_keywords:
 - vbaxl10.chm137436
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bitor Method (Excel)
+# WorksheetFunction.Bitor method (Excel)
 
 Returns a bitwise OR of 2 numbers.
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ShowAllData Method (Excel)
+title: Worksheet.ShowAllData method (Excel)
 keywords: vbaxl10.chm175126
 f1_keywords:
 - vbaxl10.chm175126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ShowAllData Method (Excel)
+# Worksheet.ShowAllData method (Excel)
 
 Makes all rows of the currently filtered list visible. If AutoFilter is in use, this method changes the arrows to "All."
 

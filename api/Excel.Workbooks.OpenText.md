@@ -1,5 +1,5 @@
 ---
-title: Workbooks.OpenText Method (Excel)
+title: Workbooks.OpenText method (Excel)
 keywords: vbaxl10.chm203083
 f1_keywords:
 - vbaxl10.chm203083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.OpenText Method (Excel)
+# Workbooks.OpenText method (Excel)
 
 Loads and parses a text file as a new workbook with a single sheet that contains the parsed text-file data.
 

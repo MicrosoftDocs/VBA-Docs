@@ -1,5 +1,5 @@
 ---
-title: PivotField.CalculatedItems Method (Excel)
+title: PivotField.CalculatedItems method (Excel)
 keywords: vbaxl10.chm240100
 f1_keywords:
 - vbaxl10.chm240100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.CalculatedItems Method (Excel)
+# PivotField.CalculatedItems method (Excel)
 
 Returns a  **[CalculatedItems](Excel.CalculatedItems.md)** collection that represents all the calculated items in the specified PivotTable report. Read-only.
 

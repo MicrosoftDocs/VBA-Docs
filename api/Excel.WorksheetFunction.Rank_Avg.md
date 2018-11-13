@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rank_Avg Method (Excel)
+title: WorksheetFunction.Rank_Avg method (Excel)
 keywords: vbaxl10.chm137379
 f1_keywords:
 - vbaxl10.chm137379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Rank_Avg Method (Excel)
+# WorksheetFunction.Rank_Avg method (Excel)
 
 Returns the rank of a number in a list of numbers; that is its size relative to other values in the list. If more than one value has the same rank, the average rank is returned.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (Excel)
+title: Series.ApplyDataLabels method (Excel)
 keywords: vbaxl10.chm578122
 f1_keywords:
 - vbaxl10.chm578122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyDataLabels Method (Excel)
+# Series.ApplyDataLabels method (Excel)
 
 Applies data labels to a series.
 

@@ -1,5 +1,5 @@
 ---
-title: Parameters.Add Method (Excel)
+title: Parameters.Add method (Excel)
 keywords: vbaxl10.chm525073
 f1_keywords:
 - vbaxl10.chm525073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters.Add Method (Excel)
+# Parameters.Add method (Excel)
 
 Creates a new query parameter.
 

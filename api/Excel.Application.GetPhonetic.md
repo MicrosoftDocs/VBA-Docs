@@ -1,5 +1,5 @@
 ---
-title: Application.GetPhonetic Method (Excel)
+title: Application.GetPhonetic method (Excel)
 keywords: vbaxl10.chm133245
 f1_keywords:
 - vbaxl10.chm133245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetPhonetic Method (Excel)
+# Application.GetPhonetic method (Excel)
 
 Returns the Japanese phonetic text of the specified text string. This method is available to you only if you have selected or installed Japanese language support for Microsoft Office.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Export Method (Excel)
+title: Chart.Export method (Excel)
 keywords: vbaxl10.chm149163
 f1_keywords:
 - vbaxl10.chm149163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Export Method (Excel)
+# Chart.Export method (Excel)
 
 Exports the chart in a graphic format.
 

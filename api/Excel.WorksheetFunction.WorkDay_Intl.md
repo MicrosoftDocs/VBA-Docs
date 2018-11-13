@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WorkDay_Intl Method (Excel)
+title: WorksheetFunction.WorkDay_Intl method (Excel)
 keywords: vbaxl10.chm137392
 f1_keywords:
 - vbaxl10.chm137392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.WorkDay_Intl Method (Excel)
+# WorksheetFunction.WorkDay_Intl method (Excel)
 
 Returns the serial number of the date before or after a specified number of workdays with custom weekend parameters. Weekend parameters indicate which and how many days are weekend days. Weekend days and any days that are specified as holidays are not considered as workdays.
 

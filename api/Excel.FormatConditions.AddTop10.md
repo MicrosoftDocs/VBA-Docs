@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddTop10 Method (Excel)
+title: FormatConditions.AddTop10 method (Excel)
 keywords: vbaxl10.chm510082
 f1_keywords:
 - vbaxl10.chm510082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.AddTop10 Method (Excel)
+# FormatConditions.AddTop10 method (Excel)
 
 Returns a  **[Top10](Excel.Top10.md)** object representing a conditional formatting rule for the specified range.
 

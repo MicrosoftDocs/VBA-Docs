@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PasteSpecial Method (Excel)
+title: Worksheet.PasteSpecial method (Excel)
 keywords: vbaxl10.chm175155
 f1_keywords:
 - vbaxl10.chm175155
@@ -10,7 +10,7 @@ ms.assetid: 8fa41a45-e3d1-29e0-3968-877bcfdf4b57
 ms.date: 06/08/2017
 ---
 
-# Worksheet.PasteSpecial Method (Excel)
+# Worksheet.PasteSpecial method (Excel)
 
 Pastes the contents of the Clipboard onto the sheet, using a specified format. Use this method to paste data from other applications or to paste data in a specific format.
 

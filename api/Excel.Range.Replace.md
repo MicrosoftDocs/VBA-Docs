@@ -1,5 +1,5 @@
 ---
-title: Range.Replace Method (Excel)
+title: Range.Replace method (Excel)
 keywords: vbaxl10.chm144186
 f1_keywords:
 - vbaxl10.chm144186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Replace Method (Excel)
+# Range.Replace method (Excel)
 
 Returns a  **Boolean** indicating characters in cells within the specified range. Using this method doesn't change either the selection or the active cell.
 

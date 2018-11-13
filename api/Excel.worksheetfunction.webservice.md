@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WebService Method (Excel)
+title: WorksheetFunction.WebService method (Excel)
 keywords: vbaxl10.chm137466
 f1_keywords:
 - vbaxl10.chm137466
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.WebService Method (Excel)
+# WorksheetFunction.WebService method (Excel)
 
 Underlying function that calls the web service asynchronously, using an HTTP GET request, and returns the response.
 

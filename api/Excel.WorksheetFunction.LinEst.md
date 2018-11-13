@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LinEst Method (Excel)
+title: WorksheetFunction.LinEst method (Excel)
 keywords: vbaxl10.chm137103
 f1_keywords:
 - vbaxl10.chm137103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.LinEst Method (Excel)
+# WorksheetFunction.LinEst method (Excel)
 
 Calculates the statistics for a line by using the "least squares" method to calculate a straight line that best fits your data, and returns an array that describes the line. Because this function returns an array of values, it must be entered as an array formula.
 

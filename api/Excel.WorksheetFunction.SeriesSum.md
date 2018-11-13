@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SeriesSum Method (Excel)
+title: WorksheetFunction.SeriesSum method (Excel)
 keywords: vbaxl10.chm137291
 f1_keywords:
 - vbaxl10.chm137291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SeriesSum Method (Excel)
+# WorksheetFunction.SeriesSum method (Excel)
 
 Returns the sum of a power series based on the formula:
 ![Formula](../images/awfsrssm_ZA06051246.gif)

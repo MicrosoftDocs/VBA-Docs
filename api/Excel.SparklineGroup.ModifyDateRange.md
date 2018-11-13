@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.ModifyDateRange Method (Excel)
+title: SparklineGroup.ModifyDateRange method (Excel)
 keywords: vbaxl10.chm871082
 f1_keywords:
 - vbaxl10.chm871082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.ModifyDateRange Method (Excel)
+# SparklineGroup.ModifyDateRange method (Excel)
 
 Sets the date range for the sparkline group.
 

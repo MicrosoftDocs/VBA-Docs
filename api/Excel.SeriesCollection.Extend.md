@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (Excel)
+title: SeriesCollection.Extend method (Excel)
 keywords: vbaxl10.chm580076
 f1_keywords:
 - vbaxl10.chm580076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Extend Method (Excel)
+# SeriesCollection.Extend method (Excel)
 
 Adds new data points to an existing series collection.
 

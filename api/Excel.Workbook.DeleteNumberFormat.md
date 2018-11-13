@@ -1,5 +1,5 @@
 ---
-title: Workbook.DeleteNumberFormat Method (Excel)
+title: Workbook.DeleteNumberFormat method (Excel)
 keywords: vbaxl10.chm199096
 f1_keywords:
 - vbaxl10.chm199096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DeleteNumberFormat Method (Excel)
+# Workbook.DeleteNumberFormat method (Excel)
 
 Deletes a custom number format from the workbook.
 

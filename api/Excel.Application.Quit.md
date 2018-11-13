@@ -1,5 +1,5 @@
 ---
-title: Application.Quit Method (Excel)
+title: Application.Quit method (Excel)
 keywords: vbaxl10.chm133194
 f1_keywords:
 - vbaxl10.chm133194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Quit Method (Excel)
+# Application.Quit method (Excel)
 
 Quits Microsoft Excel.
 

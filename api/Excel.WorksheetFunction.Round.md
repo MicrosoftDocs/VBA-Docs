@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Round Method (Excel)
+title: WorksheetFunction.Round method (Excel)
 keywords: vbaxl10.chm137088
 f1_keywords:
 - vbaxl10.chm137088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Round Method (Excel)
+# WorksheetFunction.Round method (Excel)
 
 Rounds a number to a specified number of digits.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FactDouble Method (Excel)
+title: WorksheetFunction.FactDouble method (Excel)
 keywords: vbaxl10.chm137292
 f1_keywords:
 - vbaxl10.chm137292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.FactDouble Method (Excel)
+# WorksheetFunction.FactDouble method (Excel)
 
 Returns the double factorial of a number.
 

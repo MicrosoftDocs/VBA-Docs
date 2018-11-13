@@ -1,5 +1,5 @@
 ---
-title: Workbook.AddToFavorites Method (Excel)
+title: Workbook.AddToFavorites method (Excel)
 keywords: vbaxl10.chm199183
 f1_keywords:
 - vbaxl10.chm199183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.AddToFavorites Method (Excel)
+# Workbook.AddToFavorites method (Excel)
 
 Adds a shortcut to the workbook or hyperlink to the Favorites folder.
 

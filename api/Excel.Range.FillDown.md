@@ -1,5 +1,5 @@
 ---
-title: Range.FillDown Method (Excel)
+title: Range.FillDown method (Excel)
 keywords: vbaxl10.chm144124
 f1_keywords:
 - vbaxl10.chm144124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FillDown Method (Excel)
+# Range.FillDown method (Excel)
 
 Fills down from the top cell or cells in the specified range to the bottom of the range. The contents and formatting of the cell or cells in the top row of a range are copied into the rest of the rows in the range.
 

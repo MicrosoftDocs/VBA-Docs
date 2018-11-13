@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Kurt Method (Excel)
+title: WorksheetFunction.Kurt method (Excel)
 keywords: vbaxl10.chm137226
 f1_keywords:
 - vbaxl10.chm137226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Kurt Method (Excel)
+# WorksheetFunction.Kurt method (Excel)
 
 Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution. Positive kurtosis indicates a relatively peaked distribution. Negative kurtosis indicates a relatively flat distribution.
 

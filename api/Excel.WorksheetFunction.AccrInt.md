@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AccrInt Method (Excel)
+title: WorksheetFunction.AccrInt method (Excel)
 keywords: vbaxl10.chm137345
 f1_keywords:
 - vbaxl10.chm137345
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.AccrInt Method (Excel)
+# WorksheetFunction.AccrInt method (Excel)
 
 Returns the accrued interest for a security that pays periodic interest.
 

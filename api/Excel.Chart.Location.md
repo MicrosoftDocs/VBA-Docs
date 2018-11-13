@@ -1,5 +1,5 @@
 ---
-title: Chart.Location Method (Excel)
+title: Chart.Location method (Excel)
 keywords: vbaxl10.chm149125
 f1_keywords:
 - vbaxl10.chm149125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Location Method (Excel)
+# Chart.Location method (Excel)
 
 Moves the chart to a new location.
 

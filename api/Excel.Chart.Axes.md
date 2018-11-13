@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (Excel)
+title: Chart.Axes method (Excel)
 keywords: vbaxl10.chm149081
 f1_keywords:
 - vbaxl10.chm149081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Axes Method (Excel)
+# Chart.Axes method (Excel)
 
 Returns an object that represents either a single axis or a collection of the axes on the chart.
 

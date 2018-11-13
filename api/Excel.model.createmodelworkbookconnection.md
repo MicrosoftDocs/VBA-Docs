@@ -1,12 +1,12 @@
 ---
-title: Model.CreateModelWorkbookConnection Method (Excel)
+title: Model.CreateModelWorkbookConnection method (Excel)
 ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
 ms.date: 06/08/2017
 ---
 
 
-# Model.CreateModelWorkbookConnection Method (Excel)
+# Model.CreateModelWorkbookConnection method (Excel)
 
 Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object of type[ModelConnection Object (Excel)](Excel.modelconnection.md). 
 

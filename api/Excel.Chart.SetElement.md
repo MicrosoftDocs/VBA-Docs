@@ -1,5 +1,5 @@
 ---
-title: Chart.SetElement Method (Excel)
+title: Chart.SetElement method (Excel)
 keywords: vbaxl10.chm149175
 f1_keywords:
 - vbaxl10.chm149175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetElement Method (Excel)
+# Chart.SetElement method (Excel)
 
 Sets chart elements on a chart. Read/write  **MsoChartElementType** .
 

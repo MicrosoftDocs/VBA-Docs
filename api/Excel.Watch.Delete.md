@@ -1,5 +1,5 @@
 ---
-title: Watch.Delete Method (Excel)
+title: Watch.Delete method (Excel)
 keywords: vbaxl10.chm690073
 f1_keywords:
 - vbaxl10.chm690073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watch.Delete Method (Excel)
+# Watch.Delete method (Excel)
 
 Deletes the object.
 

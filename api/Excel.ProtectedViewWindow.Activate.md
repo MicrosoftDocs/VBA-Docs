@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Activate Method (Excel)
+title: ProtectedViewWindow.Activate method (Excel)
 keywords: vbaxl10.chm914085
 f1_keywords:
 - vbaxl10.chm914085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Activate Method (Excel)
+# ProtectedViewWindow.Activate method (Excel)
 
 Brings the  **Protected View** window to the front of the z-order.
 

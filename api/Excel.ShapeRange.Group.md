@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (Excel)
+title: ShapeRange.Group method (Excel)
 keywords: vbaxl10.chm640086
 f1_keywords:
 - vbaxl10.chm640086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Group Method (Excel)
+# ShapeRange.Group method (Excel)
 
 Groups the shapes in the specified range.
 

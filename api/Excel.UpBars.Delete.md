@@ -1,5 +1,5 @@
 ---
-title: UpBars.Delete Method (Excel)
+title: UpBars.Delete method (Excel)
 keywords: vbaxl10.chm608077
 f1_keywords:
 - vbaxl10.chm608077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Delete Method (Excel)
+# UpBars.Delete method (Excel)
 
 Deletes the object.
 

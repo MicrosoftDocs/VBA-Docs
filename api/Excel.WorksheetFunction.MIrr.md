@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MIrr Method (Excel)
+title: WorksheetFunction.MIrr method (Excel)
 keywords: vbaxl10.chm137112
 f1_keywords:
 - vbaxl10.chm137112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MIrr Method (Excel)
+# WorksheetFunction.MIrr method (Excel)
 
 Returns the modified internal rate of return for a series of periodic cash flows. MIRR considers both the cost of the investment and the interest received on reinvestment of cash.
 

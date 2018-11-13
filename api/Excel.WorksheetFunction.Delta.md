@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Delta Method (Excel)
+title: WorksheetFunction.Delta method (Excel)
 keywords: vbaxl10.chm137295
 f1_keywords:
 - vbaxl10.chm137295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Delta Method (Excel)
+# WorksheetFunction.Delta method (Excel)
 
 Tests whether two values are equal. Returns 1 if number1 = number2; returns 0 otherwise.
 

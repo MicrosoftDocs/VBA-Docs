@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddIconSetCondition Method (Excel)
+title: FormatConditions.AddIconSetCondition method (Excel)
 keywords: vbaxl10.chm510081
 f1_keywords:
 - vbaxl10.chm510081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.AddIconSetCondition Method (Excel)
+# FormatConditions.AddIconSetCondition method (Excel)
 
 Returns a new  **[IconSetCondition](Excel.IconSetCondition.md)** object which represents an icon set conditional formatting rule for the specified range.
 

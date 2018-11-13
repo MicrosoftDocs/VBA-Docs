@@ -1,5 +1,5 @@
 ---
-title: Watches.Add Method (Excel)
+title: Watches.Add method (Excel)
 keywords: vbaxl10.chm688073
 f1_keywords:
 - vbaxl10.chm688073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watches.Add Method (Excel)
+# Watches.Add method (Excel)
 
 Adds a range which is tracked when the worksheet is recalculated.
 

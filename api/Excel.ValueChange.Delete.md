@@ -1,5 +1,5 @@
 ---
-title: ValueChange.Delete Method (Excel)
+title: ValueChange.Delete method (Excel)
 keywords: vbaxl10.chm889081
 f1_keywords:
 - vbaxl10.chm889081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.Delete Method (Excel)
+# ValueChange.Delete method (Excel)
 
 Deletes the specified  **[ValueChange](Excel.ValueChange.md)** object from the **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection.
 

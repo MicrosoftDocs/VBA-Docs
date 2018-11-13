@@ -1,5 +1,5 @@
 ---
-title: HPageBreaks.Add Method (Excel)
+title: HPageBreaks.Add method (Excel)
 keywords: vbaxl10.chm165076
 f1_keywords:
 - vbaxl10.chm165076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreaks.Add Method (Excel)
+# HPageBreaks.Add method (Excel)
 
 Adds a horizontal page break.
 

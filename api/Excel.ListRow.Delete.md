@@ -1,5 +1,5 @@
 ---
-title: ListRow.Delete Method (Excel)
+title: ListRow.Delete method (Excel)
 keywords: vbaxl10.chm742073
 f1_keywords:
 - vbaxl10.chm742073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRow.Delete Method (Excel)
+# ListRow.Delete method (Excel)
 
 Deletes the cells of the list row and shifts upward any remaining cells below the deleted row. You can delete rows in the list even when the list is linked to a SharePoint site. The list on the SharePoint site will not be updated, however, until you synchronize your changes.
 

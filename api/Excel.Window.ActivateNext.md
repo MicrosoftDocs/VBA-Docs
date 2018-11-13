@@ -1,5 +1,5 @@
 ---
-title: Window.ActivateNext Method (Excel)
+title: Window.ActivateNext method (Excel)
 keywords: vbaxl10.chm356074
 f1_keywords:
 - vbaxl10.chm356074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActivateNext Method (Excel)
+# Window.ActivateNext method (Excel)
 
 Activates the specified window and then sends it to the back of the window z-order.
 

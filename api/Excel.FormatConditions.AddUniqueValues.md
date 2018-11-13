@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddUniqueValues Method (Excel)
+title: FormatConditions.AddUniqueValues method (Excel)
 keywords: vbaxl10.chm510084
 f1_keywords:
 - vbaxl10.chm510084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.AddUniqueValues Method (Excel)
+# FormatConditions.AddUniqueValues method (Excel)
 
 Returns a new  **[UniqueValues](Excel.UniqueValues.md)** object representing a conditional formatting rule for the specified range.
 

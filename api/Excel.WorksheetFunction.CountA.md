@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CountA Method (Excel)
+title: WorksheetFunction.CountA method (Excel)
 keywords: vbaxl10.chm137142
 f1_keywords:
 - vbaxl10.chm137142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CountA Method (Excel)
+# WorksheetFunction.CountA method (Excel)
 
 Counts the number of cells that are not empty and the values within the list of arguments.
 

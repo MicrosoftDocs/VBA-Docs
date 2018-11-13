@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast_ETS Method (Excel)
+title: WorksheetFunction.Forecast_ETS method (Excel)
 keywords: vbaxl10.chm137468
 f1_keywords:
 - vbaxl10.chm137468
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorksheetFunction.Forecast_ETS Method (Excel)
+# WorksheetFunction.Forecast_ETS method (Excel)
 
 Calculates or predicts a future value based on existing (historical) values by using the AAA version of the Exponential Smoothing (ETS) algorithm. 
 

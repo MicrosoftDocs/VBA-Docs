@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Delete Method (Excel)
+title: DisplayUnitLabel.Delete method (Excel)
 keywords: vbaxl10.chm673076
 f1_keywords:
 - vbaxl10.chm673076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Delete Method (Excel)
+# DisplayUnitLabel.Delete method (Excel)
 
 Deletes the object.
 

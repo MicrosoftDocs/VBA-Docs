@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CountIf Method (Excel)
+title: WorksheetFunction.CountIf method (Excel)
 keywords: vbaxl10.chm137242
 f1_keywords:
 - vbaxl10.chm137242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CountIf Method (Excel)
+# WorksheetFunction.CountIf method (Excel)
 
 Counts the number of cells within a range that meet the given criteria.
 

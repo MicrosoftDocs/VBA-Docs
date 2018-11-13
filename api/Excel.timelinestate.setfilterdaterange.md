@@ -1,5 +1,5 @@
 ---
-title: TimelineState.SetFilterDateRange Method (Excel)
+title: TimelineState.SetFilterDateRange method (Excel)
 keywords: vbaxl10.chm950079
 f1_keywords:
 - vbaxl10.chm950079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.SetFilterDateRange Method (Excel)
+# TimelineState.SetFilterDateRange method (Excel)
 
 Sets the Timeline?s filter.
 

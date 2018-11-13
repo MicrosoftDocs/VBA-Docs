@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Add Method (Excel)
+title: OLEObjects.Add method (Excel)
 keywords: vbaxl10.chm422087
 f1_keywords:
 - vbaxl10.chm422087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Add Method (Excel)
+# OLEObjects.Add method (Excel)
 
 Adds a new OLE object to a sheet. 
 

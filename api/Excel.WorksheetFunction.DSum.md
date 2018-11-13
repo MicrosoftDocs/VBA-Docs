@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DSum Method (Excel)
+title: WorksheetFunction.DSum method (Excel)
 keywords: vbaxl10.chm137095
 f1_keywords:
 - vbaxl10.chm137095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DSum Method (Excel)
+# WorksheetFunction.DSum method (Excel)
 
 Adds the numbers in a column of a list or database that match conditions that you specify.
 

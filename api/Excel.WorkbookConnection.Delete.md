@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Delete Method (Excel)
+title: WorkbookConnection.Delete method (Excel)
 keywords: vbaxl10.chm774080
 f1_keywords:
 - vbaxl10.chm774080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.Delete Method (Excel)
+# WorkbookConnection.Delete method (Excel)
 
 Deletes a workbook connection.
 

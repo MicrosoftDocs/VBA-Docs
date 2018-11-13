@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlImport Method (Excel)
+title: Workbook.XmlImport method (Excel)
 keywords: vbaxl10.chm199226
 f1_keywords:
 - vbaxl10.chm199226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.XmlImport Method (Excel)
+# Workbook.XmlImport method (Excel)
 
 Imports an XML data file into the current workbook.
 

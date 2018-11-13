@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ppmt Method (Excel)
+title: WorksheetFunction.Ppmt method (Excel)
 keywords: vbaxl10.chm137141
 f1_keywords:
 - vbaxl10.chm137141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ppmt Method (Excel)
+# WorksheetFunction.Ppmt method (Excel)
 
 Returns the payment on the principal for a given period for an investment based on periodic, constant payments and a constant interest rate.
 

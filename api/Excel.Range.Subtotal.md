@@ -1,5 +1,5 @@
 ---
-title: Range.Subtotal Method (Excel)
+title: Range.Subtotal method (Excel)
 keywords: vbaxl10.chm144206
 f1_keywords:
 - vbaxl10.chm144206
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Subtotal Method (Excel)
+# Range.Subtotal method (Excel)
 
 Creates subtotals for the range (or the current region, if the range is a single cell).
 

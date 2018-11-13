@@ -1,5 +1,5 @@
 ---
-title: ModelColumnNames.Item Method (Excel)
+title: ModelColumnNames.Item method (Excel)
 keywords: vbaxl10.chm964074
 f1_keywords:
 - vbaxl10.chm964074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnNames.Item Method (Excel)
+# ModelColumnNames.Item method (Excel)
 
 Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection.
 

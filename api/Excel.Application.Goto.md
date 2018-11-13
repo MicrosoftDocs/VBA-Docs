@@ -1,5 +1,5 @@
 ---
-title: Application.Goto Method (Excel)
+title: Application.Goto method (Excel)
 keywords: vbaxl10.chm133144
 f1_keywords:
 - vbaxl10.chm133144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Goto Method (Excel)
+# Application.Goto method (Excel)
 
 Selects any range or Visual Basic procedure in any workbook, and activates that workbook if it?s not already active.
 

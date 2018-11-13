@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Floor_Precise Method (Excel)
+title: WorksheetFunction.Floor_Precise method (Excel)
 keywords: vbaxl10.chm137420
 f1_keywords:
 - vbaxl10.chm137420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Floor_Precise Method (Excel)
+# WorksheetFunction.Floor_Precise method (Excel)
 
 Rounds the specified number to the nearest multiple of significance.
 

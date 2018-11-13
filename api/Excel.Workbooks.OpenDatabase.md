@@ -1,5 +1,5 @@
 ---
-title: Workbooks.OpenDatabase Method (Excel)
+title: Workbooks.OpenDatabase method (Excel)
 keywords: vbaxl10.chm203084
 f1_keywords:
 - vbaxl10.chm203084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.OpenDatabase Method (Excel)
+# Workbooks.OpenDatabase method (Excel)
 
 Returns a  **Workbook** object representing a database.
 

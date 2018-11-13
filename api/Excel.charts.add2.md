@@ -1,5 +1,5 @@
 ---
-title: Charts.Add2 Method (Excel)
+title: Charts.Add2 method (Excel)
 keywords: vbaxl10.chm218076
 f1_keywords:
 - vbaxl10.chm218076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.Add2 Method (Excel)
+# Charts.Add2 method (Excel)
 
 Inserts a chart directly onto the grid.
 

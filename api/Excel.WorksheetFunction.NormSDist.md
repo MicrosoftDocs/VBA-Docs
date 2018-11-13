@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NormSDist Method (Excel)
+title: WorksheetFunction.NormSDist method (Excel)
 keywords: vbaxl10.chm137198
 f1_keywords:
 - vbaxl10.chm137198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NormSDist Method (Excel)
+# WorksheetFunction.NormSDist method (Excel)
 
 Returns the standard normal cumulative distribution function. The distribution has a mean of 0 (zero) and a standard deviation of one. Use this function in place of a table of standard normal curve areas.
 

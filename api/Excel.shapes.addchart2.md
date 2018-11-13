@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddChart2 Method (Excel)
+title: Shapes.AddChart2 method (Excel)
 keywords: vbaxl10.chm638096
 f1_keywords:
 - vbaxl10.chm638096
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddChart2 Method (Excel)
+# Shapes.AddChart2 method (Excel)
 
 Adds a chart to the document. Returns a  **Shape** object that represents a chart and adds it to the specified collection.
 

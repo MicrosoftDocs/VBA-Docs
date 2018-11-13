@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Copy Method (Excel)
+title: Worksheets.Copy method (Excel)
 keywords: vbaxl10.chm470074
 f1_keywords:
 - vbaxl10.chm470074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.Copy Method (Excel)
+# Worksheets.Copy method (Excel)
 
 Copies the sheet to another location in the workbook.
 

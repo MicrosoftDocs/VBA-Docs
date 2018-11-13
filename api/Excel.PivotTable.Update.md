@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Update Method (Excel)
+title: PivotTable.Update method (Excel)
 keywords: vbaxl10.chm235128
 f1_keywords:
 - vbaxl10.chm235128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Update Method (Excel)
+# PivotTable.Update method (Excel)
 
 Updates the PivotTable report.
 

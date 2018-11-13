@@ -1,5 +1,5 @@
 ---
-title: PivotCaches.Create Method (Excel)
+title: PivotCaches.Create method (Excel)
 keywords: vbaxl10.chm229078
 f1_keywords:
 - vbaxl10.chm229078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCaches.Create Method (Excel)
+# PivotCaches.Create method (Excel)
 
 Creates a new PivotCache.
 

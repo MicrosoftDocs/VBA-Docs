@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyChartTemplate Method (Excel)
+title: Chart.ApplyChartTemplate method (Excel)
 keywords: vbaxl10.chm149180
 f1_keywords:
 - vbaxl10.chm149180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyChartTemplate Method (Excel)
+# Chart.ApplyChartTemplate method (Excel)
 
 Applies a standard or custom chart type to a chart.
 

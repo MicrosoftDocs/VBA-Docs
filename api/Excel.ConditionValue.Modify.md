@@ -1,5 +1,5 @@
 ---
-title: ConditionValue.Modify Method (Excel)
+title: ConditionValue.Modify method (Excel)
 keywords: vbaxl10.chm804073
 f1_keywords:
 - vbaxl10.chm804073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue.Modify Method (Excel)
+# ConditionValue.Modify method (Excel)
 
 Modifies how the longest bar or shortest bar is evaluated for a data bar conditional formatting rule. 
 

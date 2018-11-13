@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Sec Method (Excel)
+title: WorksheetFunction.Sec method (Excel)
 keywords: vbaxl10.chm137427
 f1_keywords:
 - vbaxl10.chm137427
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Sec Method (Excel)
+# WorksheetFunction.Sec method (Excel)
 
 Returns the secant of an angle.
 

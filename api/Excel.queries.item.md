@@ -1,5 +1,5 @@
 ---
-title: Queries.Item Method (Excel)
+title: Queries.Item method (Excel)
 keywords: vbaxl10.chm976075
 f1_keywords:
 - vbaxl10.chm976075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.Item Method (Excel)
+# Queries.Item method (Excel)
 
 Returns a single object from a collection.
 

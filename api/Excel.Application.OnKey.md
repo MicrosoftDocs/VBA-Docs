@@ -1,5 +1,5 @@
 ---
-title: Application.OnKey Method (Excel)
+title: Application.OnKey method (Excel)
 keywords: vbaxl10.chm133180
 f1_keywords:
 - vbaxl10.chm133180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnKey Method (Excel)
+# Application.OnKey method (Excel)
 
 Runs a specified procedure when a particular key or key combination is pressed.
 

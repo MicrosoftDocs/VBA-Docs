@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateUntilAsyncQueriesDone Method (Excel)
+title: Application.CalculateUntilAsyncQueriesDone method (Excel)
 keywords: vbaxl10.chm133310
 f1_keywords:
 - vbaxl10.chm133310
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculateUntilAsyncQueriesDone Method (Excel)
+# Application.CalculateUntilAsyncQueriesDone method (Excel)
 
 Runs all pending queries to OLEDB and OLAP data sources.
 

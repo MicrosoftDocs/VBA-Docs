@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupPcd Method (Excel)
+title: WorksheetFunction.CoupPcd method (Excel)
 keywords: vbaxl10.chm137333
 f1_keywords:
 - vbaxl10.chm137333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CoupPcd Method (Excel)
+# WorksheetFunction.CoupPcd method (Excel)
 
 
 

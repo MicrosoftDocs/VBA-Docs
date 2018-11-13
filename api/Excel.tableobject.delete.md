@@ -1,5 +1,5 @@
 ---
-title: TableObject.Delete Method (Excel)
+title: TableObject.Delete method (Excel)
 keywords: vbaxl10.chm916079
 f1_keywords:
 - vbaxl10.chm916079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.Delete Method (Excel)
+# TableObject.Delete method (Excel)
 
 Deletes the  **TableObject** object.
 

@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Ungroup Method (Excel)
+title: SparklineGroups.Ungroup method (Excel)
 keywords: vbaxl10.chm869081
 f1_keywords:
 - vbaxl10.chm869081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Ungroup Method (Excel)
+# SparklineGroups.Ungroup method (Excel)
 
 Ungroups the sparklines in the selected sparkline group.
 

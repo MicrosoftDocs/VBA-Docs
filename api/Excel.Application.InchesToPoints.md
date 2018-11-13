@@ -1,5 +1,5 @@
 ---
-title: Application.InchesToPoints Method (Excel)
+title: Application.InchesToPoints method (Excel)
 keywords: vbaxl10.chm133148
 f1_keywords:
 - vbaxl10.chm133148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.InchesToPoints Method (Excel)
+# Application.InchesToPoints method (Excel)
 
 Converts a measurement from inches to points.
 

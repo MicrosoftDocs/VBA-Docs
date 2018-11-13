@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Trim Method (Excel)
+title: WorksheetFunction.Trim method (Excel)
 keywords: vbaxl10.chm137126
 f1_keywords:
 - vbaxl10.chm137126
@@ -11,7 +11,7 @@ ms.date: 08/28/2018
 ---
 
 
-# WorksheetFunction.Trim Method (Excel)
+# WorksheetFunction.Trim method (Excel)
 
 Removes all spaces from text except for single spaces between words. Use TRIM on text that you have received from another application that may have irregular spacing.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSqrt Method (Excel)
+title: WorksheetFunction.ImSqrt method (Excel)
 keywords: vbaxl10.chm137277
 f1_keywords:
 - vbaxl10.chm137277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSqrt Method (Excel)
+# WorksheetFunction.ImSqrt method (Excel)
 
 Returns the square root of a complex number in x + yi or x + yj text format.
 

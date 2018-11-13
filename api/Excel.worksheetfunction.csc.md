@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Csc Method (Excel)
+title: WorksheetFunction.Csc method (Excel)
 keywords: vbaxl10.chm137425
 f1_keywords:
 - vbaxl10.chm137425
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Csc Method (Excel)
+# WorksheetFunction.Csc method (Excel)
 
 Returns the cosecant of an angle.
 

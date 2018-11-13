@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ddb Method (Excel)
+title: WorksheetFunction.Ddb method (Excel)
 keywords: vbaxl10.chm137135
 f1_keywords:
 - vbaxl10.chm137135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ddb Method (Excel)
+# WorksheetFunction.Ddb method (Excel)
 
 Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.
 

@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.RemoveAllItems Method (Excel)
+title: ControlFormat.RemoveAllItems method (Excel)
 keywords: vbaxl10.chm630074
 f1_keywords:
 - vbaxl10.chm630074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.RemoveAllItems Method (Excel)
+# ControlFormat.RemoveAllItems method (Excel)
 
 Removes all entries from a Microsoft Excel list box or combo box.
 

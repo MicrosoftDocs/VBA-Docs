@@ -1,5 +1,5 @@
 ---
-title: Research.Query Method (Excel)
+title: Research.Query method (Excel)
 keywords: vbaxl10.chm849073
 f1_keywords:
 - vbaxl10.chm849073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.Query Method (Excel)
+# Research.Query method (Excel)
 
 Specifies a research query.
 

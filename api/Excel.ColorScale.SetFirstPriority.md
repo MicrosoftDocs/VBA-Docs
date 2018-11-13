@@ -1,5 +1,5 @@
 ---
-title: ColorScale.SetFirstPriority Method (Excel)
+title: ColorScale.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm806078
 f1_keywords:
 - vbaxl10.chm806078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.SetFirstPriority Method (Excel)
+# ColorScale.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 

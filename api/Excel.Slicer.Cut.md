@@ -1,5 +1,5 @@
 ---
-title: Slicer.Cut Method (Excel)
+title: Slicer.Cut method (Excel)
 keywords: vbaxl10.chm905090
 f1_keywords:
 - vbaxl10.chm905090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Cut Method (Excel)
+# Slicer.Cut method (Excel)
 
 Cuts the specified slicer and copies it to the clipboard.
 

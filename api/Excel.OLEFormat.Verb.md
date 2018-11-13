@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Verb Method (Excel)
+title: OLEFormat.Verb method (Excel)
 keywords: vbaxl10.chm632076
 f1_keywords:
 - vbaxl10.chm632076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Verb Method (Excel)
+# OLEFormat.Verb method (Excel)
 
 Sends a verb to the server of the specified OLE object.
 

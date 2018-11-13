@@ -1,5 +1,5 @@
 ---
-title: ModelTable.Refresh Method (Excel)
+title: ModelTable.Refresh method (Excel)
 keywords: vbaxl10.chm934078
 f1_keywords:
 - vbaxl10.chm934078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTable.Refresh Method (Excel)
+# ModelTable.Refresh method (Excel)
 
 Refreshes the model table source connections.
 

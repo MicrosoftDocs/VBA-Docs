@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AddDataField Method (Excel)
+title: PivotTable.AddDataField method (Excel)
 keywords: vbaxl10.chm235142
 f1_keywords:
 - vbaxl10.chm235142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AddDataField Method (Excel)
+# PivotTable.AddDataField method (Excel)
 
 Adds a data field to a PivotTable report. Returns a  **[PivotField](Excel.PivotField.md)** object that represents the new data field.
 

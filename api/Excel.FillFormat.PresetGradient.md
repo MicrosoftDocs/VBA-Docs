@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (Excel)
+title: FillFormat.PresetGradient method (Excel)
 keywords: vbaxl10.chm115005
 f1_keywords:
 - vbaxl10.chm115005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetGradient Method (Excel)
+# FillFormat.PresetGradient method (Excel)
 
 Sets the specified fill to a preset gradient.
 

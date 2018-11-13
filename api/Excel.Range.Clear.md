@@ -1,5 +1,5 @@
 ---
-title: Range.Clear Method (Excel)
+title: Range.Clear method (Excel)
 keywords: vbaxl10.chm144094
 f1_keywords:
 - vbaxl10.chm144094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Clear Method (Excel)
+# Range.Clear method (Excel)
 
 Clears the entire object.
 

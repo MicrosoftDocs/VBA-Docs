@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MDuration Method (Excel)
+title: WorksheetFunction.MDuration method (Excel)
 keywords: vbaxl10.chm137335
 f1_keywords:
 - vbaxl10.chm137335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MDuration Method (Excel)
+# WorksheetFunction.MDuration method (Excel)
 
 Returns the modified Macauley duration for a security with an assumed par value of $100.
 

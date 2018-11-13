@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SearchB Method (Excel)
+title: WorksheetFunction.SearchB method (Excel)
 keywords: vbaxl10.chm137155
 f1_keywords:
 - vbaxl10.chm137155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SearchB Method (Excel)
+# WorksheetFunction.SearchB method (Excel)
 
 SEARCH and SEARCHB locate one text string within a second text string, and return the number of the starting position of the first text string from the first character of the second text string.
 

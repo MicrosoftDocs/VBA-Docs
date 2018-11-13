@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NumberValue Method (Excel)
+title: WorksheetFunction.NumberValue method (Excel)
 keywords: vbaxl10.chm137458
 f1_keywords:
 - vbaxl10.chm137458
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NumberValue Method (Excel)
+# WorksheetFunction.NumberValue method (Excel)
 
 Converts text to number in a locale-independent manner.
 

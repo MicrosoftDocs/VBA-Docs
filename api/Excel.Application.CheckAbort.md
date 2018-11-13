@@ -1,5 +1,5 @@
 ---
-title: Application.CheckAbort Method (Excel)
+title: Application.CheckAbort method (Excel)
 keywords: vbaxl10.chm133279
 f1_keywords:
 - vbaxl10.chm133279
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CheckAbort Method (Excel)
+# Application.CheckAbort method (Excel)
 
 Stops recalculation in a Microsoft Excel application.
 

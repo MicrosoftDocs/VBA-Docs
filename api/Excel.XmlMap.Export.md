@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Export Method (Excel)
+title: XmlMap.Export method (Excel)
 keywords: vbaxl10.chm754089
 f1_keywords:
 - vbaxl10.chm754089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.Export Method (Excel)
+# XmlMap.Export method (Excel)
 
 Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object to an XML data file.
 

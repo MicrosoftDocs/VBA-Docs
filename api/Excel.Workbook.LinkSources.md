@@ -1,5 +1,5 @@
 ---
-title: Workbook.LinkSources Method (Excel)
+title: Workbook.LinkSources method (Excel)
 keywords: vbaxl10.chm199109
 f1_keywords:
 - vbaxl10.chm199109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.LinkSources Method (Excel)
+# Workbook.LinkSources method (Excel)
 
 Returns an array of links in the workbook. The names in the array are the names of the linked documents, editions, or DDE or OLE servers. Returns  **Empty** if there are no links.
 

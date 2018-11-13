@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList.Add Method (Excel)
+title: PivotTableChangeList.Add method (Excel)
 keywords: vbaxl10.chm891077
 f1_keywords:
 - vbaxl10.chm891077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTableChangeList.Add Method (Excel)
+# PivotTableChangeList.Add method (Excel)
 
 Adds a  **[ValueChange](Excel.ValueChange.md)** object to the specified **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection.
 

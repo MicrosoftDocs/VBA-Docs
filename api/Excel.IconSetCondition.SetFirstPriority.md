@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.SetFirstPriority Method (Excel)
+title: IconSetCondition.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm812080
 f1_keywords:
 - vbaxl10.chm812080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.SetFirstPriority Method (Excel)
+# IconSetCondition.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 

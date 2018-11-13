@@ -1,5 +1,5 @@
 ---
-title: PivotFormula.Delete Method (Excel)
+title: PivotFormula.Delete method (Excel)
 keywords: vbaxl10.chm231073
 f1_keywords:
 - vbaxl10.chm231073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormula.Delete Method (Excel)
+# PivotFormula.Delete method (Excel)
 
 Deletes the object.
 

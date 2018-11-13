@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WorkDay Method (Excel)
+title: WorksheetFunction.WorkDay method (Excel)
 keywords: vbaxl10.chm137347
 f1_keywords:
 - vbaxl10.chm137347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.WorkDay Method (Excel)
+# WorksheetFunction.WorkDay method (Excel)
 
 Returns a number that represents a date that is the indicated number of working days before or after a date (the starting date). Working days exclude weekends and any dates identified as holidays. Use WORKDAY to exclude weekends or holidays when you calculate invoice due dates, expected delivery times, or the number of days of work performed.
 

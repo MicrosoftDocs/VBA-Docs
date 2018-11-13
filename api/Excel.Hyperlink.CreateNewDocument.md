@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (Excel)
+title: Hyperlink.CreateNewDocument method (Excel)
 keywords: vbaxl10.chm536086
 f1_keywords:
 - vbaxl10.chm536086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.CreateNewDocument Method (Excel)
+# Hyperlink.CreateNewDocument method (Excel)
 
 Creates a new document linked to the specified hyperlink.
 

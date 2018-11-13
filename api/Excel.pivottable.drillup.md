@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DrillUp Method (Excel)
+title: PivotTable.DrillUp method (Excel)
 keywords: vbaxl10.chm235207
 f1_keywords:
 - vbaxl10.chm235207
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DrillUp Method (Excel)
+# PivotTable.DrillUp method (Excel)
 
 Enables you to drill up into the data within an OLAP or PowerPivot based cube hierarchy.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendForReview Method (Excel)
+title: Workbook.SendForReview method (Excel)
 keywords: vbaxl10.chm199206
 f1_keywords:
 - vbaxl10.chm199206
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SendForReview Method (Excel)
+# Workbook.SendForReview method (Excel)
 
 Sends a workbook in an e-mail message for review to the specified recipients.
 

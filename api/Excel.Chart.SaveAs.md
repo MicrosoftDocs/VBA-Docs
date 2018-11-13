@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveAs Method (Excel)
+title: Chart.SaveAs method (Excel)
 keywords: vbaxl10.chm149172
 f1_keywords:
 - vbaxl10.chm149172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SaveAs Method (Excel)
+# Chart.SaveAs method (Excel)
 
 Saves changes to the chart or worksheet in a different file.
 

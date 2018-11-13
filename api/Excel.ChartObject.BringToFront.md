@@ -1,5 +1,5 @@
 ---
-title: ChartObject.BringToFront Method (Excel)
+title: ChartObject.BringToFront method (Excel)
 keywords: vbaxl10.chm494075
 f1_keywords:
 - vbaxl10.chm494075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.BringToFront Method (Excel)
+# ChartObject.BringToFront method (Excel)
 
 Brings the object to the front of the z-order.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsoWeekNum Method (Excel)
+title: WorksheetFunction.IsoWeekNum method (Excel)
 keywords: vbaxl10.chm137457
 f1_keywords:
 - vbaxl10.chm137457
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsoWeekNum Method (Excel)
+# WorksheetFunction.IsoWeekNum method (Excel)
 
 Returns the ISO week number of the year for a given date. .
 

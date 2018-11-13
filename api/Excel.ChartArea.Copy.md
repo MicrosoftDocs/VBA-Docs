@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Copy Method (Excel)
+title: ChartArea.Copy method (Excel)
 keywords: vbaxl10.chm620079
 f1_keywords:
 - vbaxl10.chm620079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Copy Method (Excel)
+# ChartArea.Copy method (Excel)
 
 Copies the object to the Clipboard.
 

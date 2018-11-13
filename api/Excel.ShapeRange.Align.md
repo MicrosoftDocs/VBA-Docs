@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Align Method (Excel)
+title: ShapeRange.Align method (Excel)
 keywords: vbaxl10.chm640077
 f1_keywords:
 - vbaxl10.chm640077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Align Method (Excel)
+# ShapeRange.Align method (Excel)
 
 Aligns the shapes in the specified range of shapes.
 

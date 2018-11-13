@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors.Item Method (Excel)
+title: OLEDBErrors.Item method (Excel)
 keywords: vbaxl10.chm656074
 f1_keywords:
 - vbaxl10.chm656074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBErrors.Item Method (Excel)
+# OLEDBErrors.Item method (Excel)
 
 Returns a single object from a collection.
 

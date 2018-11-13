@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bitxor Method (Excel)
+title: WorksheetFunction.Bitxor method (Excel)
 keywords: vbaxl10.chm137437
 f1_keywords:
 - vbaxl10.chm137437
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bitxor Method (Excel)
+# WorksheetFunction.Bitxor method (Excel)
 
 Returns a bitwise 'Exclusive Or' of two numbers.
 

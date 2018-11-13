@@ -1,5 +1,5 @@
 ---
-title: Top10.SetFirstPriority Method (Excel)
+title: Top10.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm822084
 f1_keywords:
 - vbaxl10.chm822084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.SetFirstPriority Method (Excel)
+# Top10.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 

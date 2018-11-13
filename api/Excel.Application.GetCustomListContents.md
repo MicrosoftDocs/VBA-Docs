@@ -1,5 +1,5 @@
 ---
-title: Application.GetCustomListContents Method (Excel)
+title: Application.GetCustomListContents method (Excel)
 keywords: vbaxl10.chm133140
 f1_keywords:
 - vbaxl10.chm133140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetCustomListContents Method (Excel)
+# Application.GetCustomListContents method (Excel)
 
 Returns a custom list (an array of strings).
 

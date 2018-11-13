@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChanges.Item Method (Excel)
+title: ModelColumnChanges.Item method (Excel)
 keywords: vbaxl10.chm968074
 f1_keywords:
 - vbaxl10.chm968074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChanges.Item Method (Excel)
+# ModelColumnChanges.Item method (Excel)
 
 Returns a single object from the [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
 

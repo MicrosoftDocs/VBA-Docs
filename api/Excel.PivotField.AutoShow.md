@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoShow Method (Excel)
+title: PivotField.AutoShow method (Excel)
 keywords: vbaxl10.chm240112
 f1_keywords:
 - vbaxl10.chm240112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoShow Method (Excel)
+# PivotField.AutoShow method (Excel)
 
 Displays the number of top or bottom items for a row, page, or column field in the specified PivotTable report.
 

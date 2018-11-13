@@ -1,5 +1,5 @@
 ---
-title: ListColumn.Delete Method (Excel)
+title: ListColumn.Delete method (Excel)
 keywords: vbaxl10.chm738073
 f1_keywords:
 - vbaxl10.chm738073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.Delete Method (Excel)
+# ListColumn.Delete method (Excel)
 
 Deletes the column of data in the list. 
 

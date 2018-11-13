@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.SaveAsODC Method (Excel)
+title: OLEDBConnection.SaveAsODC method (Excel)
 keywords: vbaxl10.chm794089
 f1_keywords:
 - vbaxl10.chm794089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.SaveAsODC Method (Excel)
+# OLEDBConnection.SaveAsODC method (Excel)
 
 Saves the OLE DB connection as an Microsoft Office Data Connection file.
 

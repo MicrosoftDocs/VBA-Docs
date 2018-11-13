@@ -1,5 +1,5 @@
 ---
-title: Workbook.LockServerFile Method (Excel)
+title: Workbook.LockServerFile method (Excel)
 keywords: vbaxl10.chm199240
 f1_keywords:
 - vbaxl10.chm199240
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.LockServerFile Method (Excel)
+# Workbook.LockServerFile method (Excel)
 
 Locks the workbook on the server to prevent modification.
 

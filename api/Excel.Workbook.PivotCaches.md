@@ -1,5 +1,5 @@
 ---
-title: Workbook.PivotCaches Method (Excel)
+title: Workbook.PivotCaches method (Excel)
 keywords: vbaxl10.chm199124
 f1_keywords:
 - vbaxl10.chm199124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PivotCaches Method (Excel)
+# Workbook.PivotCaches method (Excel)
 
 Returns a  **[PivotCaches](Excel.PivotCaches.md)** collection that represents all the PivotTable caches in the specified workbook. Read-only.
 

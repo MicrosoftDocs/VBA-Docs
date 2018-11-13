@@ -1,5 +1,5 @@
 ---
-title: RTD.RefreshData Method (Excel)
+title: RTD.RefreshData method (Excel)
 keywords: vbaxl10.chm728074
 f1_keywords:
 - vbaxl10.chm728074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RTD.RefreshData Method (Excel)
+# RTD.RefreshData method (Excel)
 
 Requests an update of real-time data from the real-time data server.
 

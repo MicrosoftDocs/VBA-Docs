@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames.Item Method (Excel)
+title: ModelMeasureNames.Item method (Excel)
 keywords: vbaxl10.chm972074
 f1_keywords:
 - vbaxl10.chm972074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames.Item Method (Excel)
+# ModelMeasureNames.Item method (Excel)
 
 Returns a single object from the [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
 

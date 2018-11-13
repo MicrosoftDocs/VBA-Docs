@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NegBinomDist Method (Excel)
+title: WorksheetFunction.NegBinomDist method (Excel)
 keywords: vbaxl10.chm137196
 f1_keywords:
 - vbaxl10.chm137196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NegBinomDist Method (Excel)
+# WorksheetFunction.NegBinomDist method (Excel)
 
 Returns the negative binomial distribution. NEGBINOMDIST returns the probability that there will be number_f failures before the number_s-th success, when the constant probability of a success is probability_s. This function is similar to the binomial distribution, except that the number of successes is fixed, and the number of trials is variable. Like the binomial, trials are assumed to be independent.
 

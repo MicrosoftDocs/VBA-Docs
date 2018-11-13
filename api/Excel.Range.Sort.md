@@ -1,5 +1,5 @@
 ---
-title: Range.Sort Method (Excel)
+title: Range.Sort method (Excel)
 keywords: vbaxl10.chm144200
 f1_keywords:
 - vbaxl10.chm144200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Sort Method (Excel)
+# Range.Sort method (Excel)
 
 Sorts a range of values.
 

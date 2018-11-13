@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AccrIntM Method (Excel)
+title: WorksheetFunction.AccrIntM method (Excel)
 keywords: vbaxl10.chm137346
 f1_keywords:
 - vbaxl10.chm137346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.AccrIntM Method (Excel)
+# WorksheetFunction.AccrIntM method (Excel)
 
 Returns the accrued interest for a security that pays interest at maturity.
 

@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Delete Method (Excel)
+title: SparklineGroup.Delete method (Excel)
 keywords: vbaxl10.chm871083
 f1_keywords:
 - vbaxl10.chm871083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Delete Method (Excel)
+# SparklineGroup.Delete method (Excel)
 
 Deletes the sparkline group.
 

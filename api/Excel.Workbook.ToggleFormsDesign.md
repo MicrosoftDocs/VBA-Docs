@@ -1,5 +1,5 @@
 ---
-title: Workbook.ToggleFormsDesign Method (Excel)
+title: Workbook.ToggleFormsDesign method (Excel)
 keywords: vbaxl10.chm199233
 f1_keywords:
 - vbaxl10.chm199233
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ToggleFormsDesign Method (Excel)
+# Workbook.ToggleFormsDesign method (Excel)
 
 The  **ToggleFormsDesign** method is used to toggle Excel into Design Mode when using forms controls.
 

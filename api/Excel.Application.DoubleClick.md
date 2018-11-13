@@ -1,5 +1,5 @@
 ---
-title: Application.DoubleClick Method (Excel)
+title: Application.DoubleClick method (Excel)
 keywords: vbaxl10.chm133128
 f1_keywords:
 - vbaxl10.chm133128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DoubleClick Method (Excel)
+# Application.DoubleClick method (Excel)
 
 Equivalent to double-clicking the active cell.
 

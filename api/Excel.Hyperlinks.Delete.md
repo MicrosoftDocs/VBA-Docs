@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Delete Method (Excel)
+title: Hyperlinks.Delete method (Excel)
 keywords: vbaxl10.chm534078
 f1_keywords:
 - vbaxl10.chm534078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Delete Method (Excel)
+# Hyperlinks.Delete method (Excel)
 
 Deletes the object.
 

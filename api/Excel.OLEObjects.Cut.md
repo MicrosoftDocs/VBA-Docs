@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Cut Method (Excel)
+title: OLEObjects.Cut method (Excel)
 keywords: vbaxl10.chm419077
 f1_keywords:
 - vbaxl10.chm419077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Cut Method (Excel)
+# OLEObjects.Cut method (Excel)
 
 Cuts the object to the Clipboard.
 

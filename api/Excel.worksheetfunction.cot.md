@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Cot Method (Excel)
+title: WorksheetFunction.Cot method (Excel)
 keywords: vbaxl10.chm137423
 f1_keywords:
 - vbaxl10.chm137423
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Cot Method (Excel)
+# WorksheetFunction.Cot method (Excel)
 
 Returns the cotangent of an angle.
 

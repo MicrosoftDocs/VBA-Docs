@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Delete Method (Excel)
+title: FormatCondition.Delete method (Excel)
 keywords: vbaxl10.chm512081
 f1_keywords:
 - vbaxl10.chm512081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Delete Method (Excel)
+# FormatCondition.Delete method (Excel)
 
 Deletes the object.
 

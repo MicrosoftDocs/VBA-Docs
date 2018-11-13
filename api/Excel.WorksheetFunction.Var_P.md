@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Var_P Method (Excel)
+title: WorksheetFunction.Var_P method (Excel)
 keywords: vbaxl10.chm137389
 f1_keywords:
 - vbaxl10.chm137389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Var_P Method (Excel)
+# WorksheetFunction.Var_P method (Excel)
 
 Calculates variance based on the entire population.
 

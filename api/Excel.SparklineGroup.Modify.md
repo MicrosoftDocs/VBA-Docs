@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Modify Method (Excel)
+title: SparklineGroup.Modify method (Excel)
 keywords: vbaxl10.chm871081
 f1_keywords:
 - vbaxl10.chm871081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Modify Method (Excel)
+# SparklineGroup.Modify method (Excel)
 
 Sets the location and the source data for the sparkline group.
 

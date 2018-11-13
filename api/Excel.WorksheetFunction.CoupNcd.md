@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupNcd Method (Excel)
+title: WorksheetFunction.CoupNcd method (Excel)
 keywords: vbaxl10.chm137331
 f1_keywords:
 - vbaxl10.chm137331
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CoupNcd Method (Excel)
+# WorksheetFunction.CoupNcd method (Excel)
 
 Returns a number that represents the next coupon date after the settlement date.
 

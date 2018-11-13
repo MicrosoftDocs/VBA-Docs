@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.DeleteText Method (Excel)
+title: TextFrame2.DeleteText method (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.DeleteText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.DeleteText Method (Excel)
+# TextFrame2.DeleteText method (Excel)
 
 Deletes the text from a text frame and all the associated text properties.
 

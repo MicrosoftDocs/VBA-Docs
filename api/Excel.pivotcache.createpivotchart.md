@@ -1,5 +1,5 @@
 ---
-title: PivotCache.CreatePivotChart Method (Excel)
+title: PivotCache.CreatePivotChart method (Excel)
 keywords: vbaxl10.chm227110
 f1_keywords:
 - vbaxl10.chm227110
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.CreatePivotChart Method (Excel)
+# PivotCache.CreatePivotChart method (Excel)
 
 Creates a standalone PivotChart from a [PivotCache Object (Excel)](Excel.PivotCache.md) object. A[Shape Object (Excel)](Excel.Shape.md) object is returned.
 

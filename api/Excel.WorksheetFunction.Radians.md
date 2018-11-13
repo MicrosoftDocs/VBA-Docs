@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Radians Method (Excel)
+title: WorksheetFunction.Radians method (Excel)
 keywords: vbaxl10.chm137238
 f1_keywords:
 - vbaxl10.chm137238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Radians Method (Excel)
+# WorksheetFunction.Radians method (Excel)
 
 Converts degrees to radians.
 

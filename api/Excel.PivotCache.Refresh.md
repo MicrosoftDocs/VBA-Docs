@@ -1,5 +1,5 @@
 ---
-title: PivotCache.Refresh Method (Excel)
+title: PivotCache.Refresh method (Excel)
 keywords: vbaxl10.chm227080
 f1_keywords:
 - vbaxl10.chm227080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.Refresh Method (Excel)
+# PivotCache.Refresh method (Excel)
 
 Causes the specified chart to be redrawn immediately.
 

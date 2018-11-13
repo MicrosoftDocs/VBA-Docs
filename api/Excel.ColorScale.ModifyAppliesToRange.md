@@ -1,5 +1,5 @@
 ---
-title: ColorScale.ModifyAppliesToRange Method (Excel)
+title: ColorScale.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm806081
 f1_keywords:
 - vbaxl10.chm806081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.ModifyAppliesToRange Method (Excel)
+# ColorScale.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

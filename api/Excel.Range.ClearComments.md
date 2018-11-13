@@ -1,5 +1,5 @@
 ---
-title: Range.ClearComments Method (Excel)
+title: Range.ClearComments method (Excel)
 keywords: vbaxl10.chm144224
 f1_keywords:
 - vbaxl10.chm144224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ClearComments Method (Excel)
+# Range.ClearComments method (Excel)
 
 Clears all cell comments from the specified range.
 

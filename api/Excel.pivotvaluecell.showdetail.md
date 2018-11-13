@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.ShowDetail Method (Excel)
+title: PivotValueCell.ShowDetail method (Excel)
 keywords: vbaxl10.chm918075
 f1_keywords:
 - vbaxl10.chm918075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.ShowDetail Method (Excel)
+# PivotValueCell.ShowDetail method (Excel)
 
 Puts the individual rows of an OLAP data source which contribute to an aggregate onto their own Excel worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Characters Method (Excel)
+title: TextFrame.Characters method (Excel)
 keywords: vbaxl10.chm644078
 f1_keywords:
 - vbaxl10.chm644078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Characters Method (Excel)
+# TextFrame.Characters method (Excel)
 
 Returns a  **[Characters](Excel.Characters.md)** object that represents a range of characters within a shape?s text frame. You can use the **Characters** object to add and format characters within the text frame.
 

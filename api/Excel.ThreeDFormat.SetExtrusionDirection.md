@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetExtrusionDirection Method (Excel)
+title: ThreeDFormat.SetExtrusionDirection method (Excel)
 keywords: vbaxl10.chm119004
 f1_keywords:
 - vbaxl10.chm119004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetExtrusionDirection Method (Excel)
+# ThreeDFormat.SetExtrusionDirection method (Excel)
 
 Sets the direction that the extrusion's sweep path takes away from the extruded shape.
 

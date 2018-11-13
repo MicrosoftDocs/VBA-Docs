@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quartile_Exc Method (Excel)
+title: WorksheetFunction.Quartile_Exc method (Excel)
 keywords: vbaxl10.chm137377
 f1_keywords:
 - vbaxl10.chm137377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Quartile_Exc Method (Excel)
+# WorksheetFunction.Quartile_Exc method (Excel)
 
 Returns the quartile of the data set, based on percentile values from 0..1, exclusive.
 

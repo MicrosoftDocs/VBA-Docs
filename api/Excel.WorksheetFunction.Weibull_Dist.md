@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Weibull_Dist Method (Excel)
+title: WorksheetFunction.Weibull_Dist method (Excel)
 keywords: vbaxl10.chm137390
 f1_keywords:
 - vbaxl10.chm137390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Weibull_Dist Method (Excel)
+# WorksheetFunction.Weibull_Dist method (Excel)
 
 Returns the Weibull distribution. Use this distribution in reliability analysis, such as calculating the mean time to failure for a device.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.ForwardMailer Method (Excel)
+title: Workbook.ForwardMailer method (Excel)
 keywords: vbaxl10.chm199101
 f1_keywords:
 - vbaxl10.chm199101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ForwardMailer Method (Excel)
+# Workbook.ForwardMailer method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

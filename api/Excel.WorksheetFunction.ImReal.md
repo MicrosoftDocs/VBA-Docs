@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImReal Method (Excel)
+title: WorksheetFunction.ImReal method (Excel)
 keywords: vbaxl10.chm137287
 f1_keywords:
 - vbaxl10.chm137287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImReal Method (Excel)
+# WorksheetFunction.ImReal method (Excel)
 
 Returns the real coefficient of a complex number in x + yi or x + yj text format.
 

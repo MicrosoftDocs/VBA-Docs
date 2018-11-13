@@ -1,5 +1,5 @@
 ---
-title: Range.NoteText Method (Excel)
+title: Range.NoteText method (Excel)
 keywords: vbaxl10.chm144166
 f1_keywords:
 - vbaxl10.chm144166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.NoteText Method (Excel)
+# Range.NoteText method (Excel)
 
 Returns or sets the cell note associated with the cell in the upper-left corner of the range. Read/write  **String** . Cell notes have been replaced by range comments. For more information, see the **[Comment](Excel.Comment.md)** object.
 

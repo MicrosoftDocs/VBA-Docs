@@ -1,5 +1,5 @@
 ---
-title: DataTable.Select Method (Excel)
+title: DataTable.Select method (Excel)
 keywords: vbaxl10.chm626079
 f1_keywords:
 - vbaxl10.chm626079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Select Method (Excel)
+# DataTable.Select method (Excel)
 
 Selects the object.
 

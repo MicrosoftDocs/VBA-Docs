@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationVertical Method (Excel)
+title: ThreeDFormat.IncrementRotationVertical method (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationVertical
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationVertical Method (Excel)
+# ThreeDFormat.IncrementRotationVertical method (Excel)
 
 Changes the rotation of the specified shape vertically by the specified number of degrees.
 

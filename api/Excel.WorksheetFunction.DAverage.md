@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DAverage Method (Excel)
+title: WorksheetFunction.DAverage method (Excel)
 keywords: vbaxl10.chm137096
 f1_keywords:
 - vbaxl10.chm137096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DAverage Method (Excel)
+# WorksheetFunction.DAverage method (Excel)
 
 Averages the values in a column of a list or database that match conditions you specify.
 

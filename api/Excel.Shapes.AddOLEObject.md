@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEObject Method (Excel)
+title: Shapes.AddOLEObject method (Excel)
 keywords: vbaxl10.chm638091
 f1_keywords:
 - vbaxl10.chm638091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddOLEObject Method (Excel)
+# Shapes.AddOLEObject method (Excel)
 
 Creates an OLE object. Returns a  **[Shape](Excel.Shape.md)** object that represents the new OLE object.
 

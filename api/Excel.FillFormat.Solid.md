@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Solid Method (Excel)
+title: FillFormat.Solid method (Excel)
 keywords: vbaxl10.chm115007
 f1_keywords:
 - vbaxl10.chm115007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Solid Method (Excel)
+# FillFormat.Solid method (Excel)
 
 Sets the specified fill to a uniform color. Use this method to convert a gradient, textured, patterned, or background fill back to a solid fill.
 

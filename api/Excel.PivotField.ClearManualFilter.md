@@ -1,5 +1,5 @@
 ---
-title: PivotField.ClearManualFilter Method (Excel)
+title: PivotField.ClearManualFilter method (Excel)
 keywords: vbaxl10.chm240153
 f1_keywords:
 - vbaxl10.chm240153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ClearManualFilter Method (Excel)
+# PivotField.ClearManualFilter method (Excel)
 
 Provides an easy way to set the  **Visible** property to **True** for all items of a PivotField in PivotTables, and to empty the **HiddenItemsList** and **VisibleItemsList** collections in OLAP PivotTables.
 

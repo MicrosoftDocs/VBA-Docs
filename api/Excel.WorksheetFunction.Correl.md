@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Correl Method (Excel)
+title: WorksheetFunction.Correl method (Excel)
 keywords: vbaxl10.chm137211
 f1_keywords:
 - vbaxl10.chm137211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Correl Method (Excel)
+# WorksheetFunction.Correl method (Excel)
 
 Returns the correlation coefficient of the  _Arg1_ and _Arg2_ cell ranges.
 

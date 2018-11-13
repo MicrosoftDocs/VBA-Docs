@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Delete Method (Excel)
+title: PublishObjects.Delete method (Excel)
 keywords: vbaxl10.chm650078
 f1_keywords:
 - vbaxl10.chm650078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects.Delete Method (Excel)
+# PublishObjects.Delete method (Excel)
 
 Deletes the object.
 

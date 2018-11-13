@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCurve Method (Excel)
+title: Shapes.AddCurve method (Excel)
 keywords: vbaxl10.chm638079
 f1_keywords:
 - vbaxl10.chm638079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddCurve Method (Excel)
+# Shapes.AddCurve method (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents a B?zier curve in a worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Activate Method (Excel)
+title: OLEObject.Activate method (Excel)
 keywords: vbaxl10.chm417073
 f1_keywords:
 - vbaxl10.chm417073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Activate Method (Excel)
+# OLEObject.Activate method (Excel)
 
 Activates the object.
 

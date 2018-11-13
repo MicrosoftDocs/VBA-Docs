@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowPages Method (Excel)
+title: PivotTable.ShowPages method (Excel)
 keywords: vbaxl10.chm235077
 f1_keywords:
 - vbaxl10.chm235077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowPages Method (Excel)
+# PivotTable.ShowPages method (Excel)
 
 Creates a new PivotTable report for each item in the page field. Each new report is created on a new worksheet.
 

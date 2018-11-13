@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddSmartArt Method (Excel)
+title: Shapes.AddSmartArt method (Excel)
 keywords: vbaxl10.chm638095
 f1_keywords:
 - vbaxl10.chm638095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddSmartArt Method (Excel)
+# Shapes.AddSmartArt method (Excel)
 
 Creates a new SmartArt graphic with the specified layout. 
 

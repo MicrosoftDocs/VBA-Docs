@@ -1,5 +1,5 @@
 ---
-title: Range.RemoveSubtotal Method (Excel)
+title: Range.RemoveSubtotal method (Excel)
 keywords: vbaxl10.chm144185
 f1_keywords:
 - vbaxl10.chm144185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.RemoveSubtotal Method (Excel)
+# Range.RemoveSubtotal method (Excel)
 
 Removes subtotals from a list.
 

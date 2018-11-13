@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RefreshDataSourceValues Method (Excel)
+title: PivotTable.RefreshDataSourceValues method (Excel)
 keywords: vbaxl10.chm235194
 f1_keywords:
 - vbaxl10.chm235194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RefreshDataSourceValues Method (Excel)
+# PivotTable.RefreshDataSourceValues method (Excel)
 
 Retrieves the current values from the data source for all edited cells in a PivotTable report that is in writeback mode.
 

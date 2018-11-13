@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bitlshift Method (Excel)
+title: WorksheetFunction.Bitlshift method (Excel)
 keywords: vbaxl10.chm137438
 f1_keywords:
 - vbaxl10.chm137438
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bitlshift Method (Excel)
+# WorksheetFunction.Bitlshift method (Excel)
 
 Returns a value number shifted left by shift_amount bits.
 

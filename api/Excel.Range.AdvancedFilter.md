@@ -1,5 +1,5 @@
 ---
-title: Range.AdvancedFilter Method (Excel)
+title: Range.AdvancedFilter method (Excel)
 keywords: vbaxl10.chm144078
 f1_keywords:
 - vbaxl10.chm144078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AdvancedFilter Method (Excel)
+# Range.AdvancedFilter method (Excel)
 
 Filters or copies data from a list based on a criteria range. If the initial selection is a single cell, that cell's current region is used.
 

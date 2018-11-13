@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImProduct Method (Excel)
+title: WorksheetFunction.ImProduct method (Excel)
 keywords: vbaxl10.chm137290
 f1_keywords:
 - vbaxl10.chm137290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImProduct Method (Excel)
+# WorksheetFunction.ImProduct method (Excel)
 
 Returns the product of 2 to 29 complex numbers in x + yi or x + yj text format.
 

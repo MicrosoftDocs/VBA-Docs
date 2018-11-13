@@ -1,5 +1,5 @@
 ---
-title: Chart.PrintOut Method (Excel)
+title: Chart.PrintOut method (Excel)
 keywords: vbaxl10.chm149179
 f1_keywords:
 - vbaxl10.chm149179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PrintOut Method (Excel)
+# Chart.PrintOut method (Excel)
 
 Prints the object.
 

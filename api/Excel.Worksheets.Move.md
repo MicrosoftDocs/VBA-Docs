@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Move Method (Excel)
+title: Worksheets.Move method (Excel)
 keywords: vbaxl10.chm470079
 f1_keywords:
 - vbaxl10.chm470079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.Move Method (Excel)
+# Worksheets.Move method (Excel)
 
 Moves the sheet to another location in the workbook.
 

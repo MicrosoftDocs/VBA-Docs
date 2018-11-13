@@ -1,5 +1,5 @@
 ---
-title: Range.ColumnDifferences Method (Excel)
+title: Range.ColumnDifferences method (Excel)
 keywords: vbaxl10.chm144100
 f1_keywords:
 - vbaxl10.chm144100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ColumnDifferences Method (Excel)
+# Range.ColumnDifferences method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells whose contents are different from the comparison cell in each column.
 

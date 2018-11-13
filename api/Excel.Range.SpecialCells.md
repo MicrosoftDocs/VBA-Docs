@@ -1,5 +1,5 @@
 ---
-title: Range.SpecialCells Method (Excel)
+title: Range.SpecialCells method (Excel)
 keywords: vbaxl10.chm144203
 f1_keywords:
 - vbaxl10.chm144203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SpecialCells Method (Excel)
+# Range.SpecialCells method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells that match the specified type and value.
 

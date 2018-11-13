@@ -1,5 +1,5 @@
 ---
-title: Range.FillRight Method (Excel)
+title: Range.FillRight method (Excel)
 keywords: vbaxl10.chm144126
 f1_keywords:
 - vbaxl10.chm144126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FillRight Method (Excel)
+# Range.FillRight method (Excel)
 
 Fills right from the leftmost cell or cells in the specified range. The contents and formatting of the cell or cells in the leftmost column of a range are copied into the rest of the columns in the range.
 

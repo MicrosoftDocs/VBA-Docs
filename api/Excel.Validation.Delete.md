@@ -1,5 +1,5 @@
 ---
-title: Validation.Delete Method (Excel)
+title: Validation.Delete method (Excel)
 keywords: vbaxl10.chm532078
 f1_keywords:
 - vbaxl10.chm532078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Delete Method (Excel)
+# Validation.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsNA Method (Excel)
+title: WorksheetFunction.IsNA method (Excel)
 keywords: vbaxl10.chm137075
 f1_keywords:
 - vbaxl10.chm137075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsNA Method (Excel)
+# WorksheetFunction.IsNA method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to the #N/A (value not available) error value.
 

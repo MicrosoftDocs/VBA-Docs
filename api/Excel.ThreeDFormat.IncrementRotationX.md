@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationX Method (Excel)
+title: ThreeDFormat.IncrementRotationX method (Excel)
 keywords: vbaxl10.chm119020
 f1_keywords:
 - vbaxl10.chm119020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationX Method (Excel)
+# ThreeDFormat.IncrementRotationX method (Excel)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees. Use the  **[RotationX](Excel.ThreeDFormat.RotationX.md)** property to set the absolute rotation of the shape around the x-axis.
 

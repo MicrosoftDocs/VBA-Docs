@@ -1,5 +1,5 @@
 ---
-title: Trendline.ClearFormats Method (Excel)
+title: Trendline.ClearFormats method (Excel)
 keywords: vbaxl10.chm594076
 f1_keywords:
 - vbaxl10.chm594076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.ClearFormats Method (Excel)
+# Trendline.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

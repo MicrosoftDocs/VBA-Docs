@@ -1,5 +1,5 @@
 ---
-title: Parameters.Delete Method (Excel)
+title: Parameters.Delete method (Excel)
 keywords: vbaxl10.chm525077
 f1_keywords:
 - vbaxl10.chm525077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters.Delete Method (Excel)
+# Parameters.Delete method (Excel)
 
 Deletes the object.
 

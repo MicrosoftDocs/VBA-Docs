@@ -1,5 +1,5 @@
 ---
-title: CalculatedMembers.AddCalculatedMember Method (Excel)
+title: CalculatedMembers.AddCalculatedMember method (Excel)
 keywords: vbaxl10.chm684079
 f1_keywords:
 - vbaxl10.chm684079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMembers.AddCalculatedMember Method (Excel)
+# CalculatedMembers.AddCalculatedMember method (Excel)
 
 Adds a calculated field or calculated item to a PivotTable.
 

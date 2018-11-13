@@ -1,5 +1,5 @@
 ---
-title: Chart.ExportAsFixedFormat Method (Excel)
+title: Chart.ExportAsFixedFormat method (Excel)
 keywords: vbaxl10.chm149183
 f1_keywords:
 - vbaxl10.chm149183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ExportAsFixedFormat Method (Excel)
+# Chart.ExportAsFixedFormat method (Excel)
 
 Exports to a file of the specified format.
 

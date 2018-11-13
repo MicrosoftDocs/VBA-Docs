@@ -1,5 +1,5 @@
 ---
-title: Chart.Move Method (Excel)
+title: Chart.Move method (Excel)
 keywords: vbaxl10.chm148079
 f1_keywords:
 - vbaxl10.chm148079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Move Method (Excel)
+# Chart.Move method (Excel)
 
 Moves the chart to another location in the workbook.
 

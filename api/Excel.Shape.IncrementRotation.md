@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementRotation Method (Excel)
+title: Shape.IncrementRotation method (Excel)
 keywords: vbaxl10.chm636079
 f1_keywords:
 - vbaxl10.chm636079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.IncrementRotation Method (Excel)
+# Shape.IncrementRotation method (Excel)
 
 Changes the rotation of the specified shape around the z-axis by the specified number of degrees. Use the  **[Rotation](Excel.Shape.Rotation.md)** property to set the absolute rotation of the shape.
 

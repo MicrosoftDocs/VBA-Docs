@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.And Method (Excel)
+title: WorksheetFunction.And method (Excel)
 keywords: vbaxl10.chm137092
 f1_keywords:
 - vbaxl10.chm137092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.And Method (Excel)
+# WorksheetFunction.And method (Excel)
 
 Returns TRUE if all its arguments are TRUE; returns FALSE if one or more argument is FALSE.
 

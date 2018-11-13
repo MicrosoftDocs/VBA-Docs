@@ -1,5 +1,5 @@
 ---
-title: Sort.Apply Method (Excel)
+title: Sort.Apply method (Excel)
 keywords: vbaxl10.chm847080
 f1_keywords:
 - vbaxl10.chm847080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.Apply Method (Excel)
+# Sort.Apply method (Excel)
 
 Sorts the range based on the currently applied sort states.
 

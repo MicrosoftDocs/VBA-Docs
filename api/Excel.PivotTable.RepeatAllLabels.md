@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RepeatAllLabels Method (Excel)
+title: PivotTable.RepeatAllLabels method (Excel)
 keywords: vbaxl10.chm235195
 f1_keywords:
 - vbaxl10.chm235195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RepeatAllLabels Method (Excel)
+# PivotTable.RepeatAllLabels method (Excel)
 
 Specifies whether to repeat item labels for all PivotFields in the specified PivotTable.
 

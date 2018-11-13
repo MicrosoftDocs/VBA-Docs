@@ -1,5 +1,5 @@
 ---
-title: Slicer.Copy Method (Excel)
+title: Slicer.Copy method (Excel)
 keywords: vbaxl10.chm905091
 f1_keywords:
 - vbaxl10.chm905091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Copy Method (Excel)
+# Slicer.Copy method (Excel)
 
 Copies the specified slicer to the clipboard.
 

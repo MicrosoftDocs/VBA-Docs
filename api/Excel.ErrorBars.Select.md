@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Select Method (Excel)
+title: ErrorBars.Select method (Excel)
 keywords: vbaxl10.chm624075
 f1_keywords:
 - vbaxl10.chm624075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Select Method (Excel)
+# ErrorBars.Select method (Excel)
 
 Selects the object.
 

@@ -1,5 +1,5 @@
 ---
-title: SoundNote.Delete Method (Excel)
+title: SoundNote.Delete method (Excel)
 keywords: vbaxl10.chm258073
 f1_keywords:
 - vbaxl10.chm258073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# SoundNote.Delete Method (Excel)
+# SoundNote.Delete method (Excel)
 
 Deletes the sound note.
 

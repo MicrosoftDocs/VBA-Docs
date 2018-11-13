@@ -1,5 +1,5 @@
 ---
-title: Connections.Item Method (Excel)
+title: Connections.Item method (Excel)
 keywords: vbaxl10.chm776076
 f1_keywords:
 - vbaxl10.chm776076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.Item Method (Excel)
+# Connections.Item method (Excel)
 
 This method creates a connection item.
 

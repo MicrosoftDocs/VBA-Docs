@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bitand Method (Excel)
+title: WorksheetFunction.Bitand method (Excel)
 keywords: vbaxl10.chm137435
 f1_keywords:
 - vbaxl10.chm137435
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bitand Method (Excel)
+# WorksheetFunction.Bitand method (Excel)
 
 Returns a ?Bitwise And' of two numbers
 

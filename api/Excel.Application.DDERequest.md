@@ -1,5 +1,5 @@
 ---
-title: Application.DDERequest Method (Excel)
+title: Application.DDERequest method (Excel)
 keywords: vbaxl10.chm183093
 f1_keywords:
 - vbaxl10.chm183093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDERequest Method (Excel)
+# Application.DDERequest method (Excel)
 
 Requests information from the specified application. This method always returns an array.
 

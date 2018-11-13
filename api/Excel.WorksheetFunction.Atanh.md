@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Atanh Method (Excel)
+title: WorksheetFunction.Atanh method (Excel)
 keywords: vbaxl10.chm137169
 f1_keywords:
 - vbaxl10.chm137169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Atanh Method (Excel)
+# WorksheetFunction.Atanh method (Excel)
 
 Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). 
 

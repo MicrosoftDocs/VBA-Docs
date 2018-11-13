@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (Excel)
+title: Chart.ApplyDataLabels method (Excel)
 keywords: vbaxl10.chm149171
 f1_keywords:
 - vbaxl10.chm149171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyDataLabels Method (Excel)
+# Chart.ApplyDataLabels method (Excel)
 
 Applies data labels to all the series in a chart.
 

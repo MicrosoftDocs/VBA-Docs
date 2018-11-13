@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSin Method (Excel)
+title: WorksheetFunction.ImSin method (Excel)
 keywords: vbaxl10.chm137281
 f1_keywords:
 - vbaxl10.chm137281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSin Method (Excel)
+# WorksheetFunction.ImSin method (Excel)
 
 Returns the sine of a complex number in x + yi or x + yj text format.
 

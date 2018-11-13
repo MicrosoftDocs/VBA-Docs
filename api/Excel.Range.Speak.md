@@ -1,5 +1,5 @@
 ---
-title: Range.Speak Method (Excel)
+title: Range.Speak method (Excel)
 keywords: vbaxl10.chm144237
 f1_keywords:
 - vbaxl10.chm144237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Speak Method (Excel)
+# Range.Speak method (Excel)
 
 Causes the cells of the range to be spoken in row order or column order.
 

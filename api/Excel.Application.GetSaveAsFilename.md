@@ -1,5 +1,5 @@
 ---
-title: Application.GetSaveAsFilename Method (Excel)
+title: Application.GetSaveAsFilename method (Excel)
 keywords: vbaxl10.chm133143
 f1_keywords:
 - vbaxl10.chm133143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetSaveAsFilename Method (Excel)
+# Application.GetSaveAsFilename method (Excel)
 
 Displays the standard  **Save As** dialog box and gets a file name from the user without actually saving any files.
 

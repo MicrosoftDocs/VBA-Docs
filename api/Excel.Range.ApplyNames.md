@@ -1,5 +1,5 @@
 ---
-title: Range.ApplyNames Method (Excel)
+title: Range.ApplyNames method (Excel)
 keywords: vbaxl10.chm144079
 f1_keywords:
 - vbaxl10.chm144079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ApplyNames Method (Excel)
+# Range.ApplyNames method (Excel)
 
 Applies names to the cells in the specified range.
 

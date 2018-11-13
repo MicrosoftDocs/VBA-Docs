@@ -1,5 +1,5 @@
 ---
-title: Action.Execute Method (Excel)
+title: Action.Execute method (Excel)
 keywords: vbaxl10.chm798078
 f1_keywords:
 - vbaxl10.chm798078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Execute Method (Excel)
+# Action.Execute method (Excel)
 
 Performs the specified action.
 

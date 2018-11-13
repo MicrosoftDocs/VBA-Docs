@@ -1,5 +1,5 @@
 ---
-title: Sheets.Delete Method (Excel)
+title: Sheets.Delete method (Excel)
 keywords: vbaxl10.chm152076
 f1_keywords:
 - vbaxl10.chm152076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Delete Method (Excel)
+# Sheets.Delete method (Excel)
 
 Deletes the object.
 

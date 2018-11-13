@@ -1,5 +1,5 @@
 ---
-title: Range.Select Method (Excel)
+title: Range.Select method (Excel)
 keywords: vbaxl10.chm144193
 f1_keywords:
 - vbaxl10.chm144193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Select Method (Excel)
+# Range.Select method (Excel)
 
 Selects the object.
 

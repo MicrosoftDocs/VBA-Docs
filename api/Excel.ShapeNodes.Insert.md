@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Insert Method (Excel)
+title: ShapeNodes.Insert method (Excel)
 keywords: vbaxl10.chm112008
 f1_keywords:
 - vbaxl10.chm112008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Insert Method (Excel)
+# ShapeNodes.Insert method (Excel)
 
 Inserts a node into a freeform shape.
 

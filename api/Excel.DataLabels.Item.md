@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Item Method (Excel)
+title: DataLabels.Item method (Excel)
 keywords: vbaxl10.chm584106
 f1_keywords:
 - vbaxl10.chm584106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Item Method (Excel)
+# DataLabels.Item method (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Phi Method (Excel)
+title: WorksheetFunction.Phi method (Excel)
 keywords: vbaxl10.chm137450
 f1_keywords:
 - vbaxl10.chm137450
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Phi Method (Excel)
+# WorksheetFunction.Phi method (Excel)
 
 Returns the value of the density function for a standard normal distribution.
 

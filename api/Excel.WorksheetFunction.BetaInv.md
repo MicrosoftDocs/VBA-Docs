@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BetaInv Method (Excel)
+title: WorksheetFunction.BetaInv method (Excel)
 keywords: vbaxl10.chm137176
 f1_keywords:
 - vbaxl10.chm137176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BetaInv Method (Excel)
+# WorksheetFunction.BetaInv method (Excel)
 
 Returns the inverse of the cumulative distribution function for a specified beta distribution. That is, if probability = BetaDist(x,...), then BetaInv(probability,...) = x.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.LinkInfo Method (Excel)
+title: Workbook.LinkInfo method (Excel)
 keywords: vbaxl10.chm199108
 f1_keywords:
 - vbaxl10.chm199108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.LinkInfo Method (Excel)
+# Workbook.LinkInfo method (Excel)
 
 Returns the link date and update status.
 

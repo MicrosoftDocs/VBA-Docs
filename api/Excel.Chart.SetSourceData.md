@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (Excel)
+title: Chart.SetSourceData method (Excel)
 keywords: vbaxl10.chm149162
 f1_keywords:
 - vbaxl10.chm149162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetSourceData Method (Excel)
+# Chart.SetSourceData method (Excel)
 
 Sets the source data range for the chart.
 

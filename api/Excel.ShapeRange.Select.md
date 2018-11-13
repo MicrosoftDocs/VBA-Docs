@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (Excel)
+title: ShapeRange.Select method (Excel)
 keywords: vbaxl10.chm640092
 f1_keywords:
 - vbaxl10.chm640092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Select Method (Excel)
+# ShapeRange.Select method (Excel)
 
 Selects the object.
 

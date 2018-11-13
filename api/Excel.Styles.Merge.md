@@ -1,5 +1,5 @@
 ---
-title: Styles.Merge Method (Excel)
+title: Styles.Merge method (Excel)
 keywords: vbaxl10.chm179076
 f1_keywords:
 - vbaxl10.chm179076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Merge Method (Excel)
+# Styles.Merge method (Excel)
 
 Merges the styles from another workbook into the  **[Styles](Excel.Styles.md)** collection.
 

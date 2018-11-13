@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Csch Method (Excel)
+title: WorksheetFunction.Csch method (Excel)
 keywords: vbaxl10.chm137426
 f1_keywords:
 - vbaxl10.chm137426
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Csch Method (Excel)
+# WorksheetFunction.Csch method (Excel)
 
 Returns the hyperbolic cosecant of an angle.
 

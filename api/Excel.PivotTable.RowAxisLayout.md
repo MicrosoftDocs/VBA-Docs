@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RowAxisLayout Method (Excel)
+title: PivotTable.RowAxisLayout method (Excel)
 keywords: vbaxl10.chm235166
 f1_keywords:
 - vbaxl10.chm235166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RowAxisLayout Method (Excel)
+# PivotTable.RowAxisLayout method (Excel)
 
 This method is used for simultaneously setting layout options for all existing PivotFields.
 

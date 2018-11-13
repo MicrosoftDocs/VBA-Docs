@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Add Method (Excel)
+title: ModelRelationships.Add method (Excel)
 keywords: vbaxl10.chm940077
 f1_keywords:
 - vbaxl10.chm940077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Add Method (Excel)
+# ModelRelationships.Add method (Excel)
 
 Adds a new relationship to the model.
 

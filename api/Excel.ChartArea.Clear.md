@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Clear Method (Excel)
+title: ChartArea.Clear method (Excel)
 keywords: vbaxl10.chm620077
 f1_keywords:
 - vbaxl10.chm620077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Clear Method (Excel)
+# ChartArea.Clear method (Excel)
 
 Clears the entire object.
 

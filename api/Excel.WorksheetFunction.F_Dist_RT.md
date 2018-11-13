@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.F_Dist_RT Method (Excel)
+title: WorksheetFunction.F_Dist_RT method (Excel)
 keywords: vbaxl10.chm137403
 f1_keywords:
 - vbaxl10.chm137403
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.F_Dist_RT Method (Excel)
+# WorksheetFunction.F_Dist_RT method (Excel)
 
 Returns the right-tailed F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity. For example, you can examine the test scores of men and women entering high school and determine if the variability in the females is different from that found in the males.
 

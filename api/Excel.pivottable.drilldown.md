@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DrillDown Method (Excel)
+title: PivotTable.DrillDown method (Excel)
 keywords: vbaxl10.chm235206
 f1_keywords:
 - vbaxl10.chm235206
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DrillDown Method (Excel)
+# PivotTable.DrillDown method (Excel)
 
 Enables you to drill down into the data within an OLAP or PowerPivot based cube hierarchy.
 

@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Add Method (Excel)
+title: PublishObjects.Add method (Excel)
 keywords: vbaxl10.chm650073
 f1_keywords:
 - vbaxl10.chm650073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects.Add Method (Excel)
+# PublishObjects.Add method (Excel)
 
 Creates an object that represents an item in a document saved to a Web page. Such objects facilitate subsequent updates to the Web page while automated changes are being made to the document in Microsoft Excel. Returns a  **PublishObject** object.
 

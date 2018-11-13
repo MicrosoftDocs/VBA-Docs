@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange.ChangePassword Method (Excel)
+title: AllowEditRange.ChangePassword method (Excel)
 keywords: vbaxl10.chm725075
 f1_keywords:
 - vbaxl10.chm725075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange.ChangePassword Method (Excel)
+# AllowEditRange.ChangePassword method (Excel)
 
 Changes the password for a range that can be edited on a protected worksheet.
 

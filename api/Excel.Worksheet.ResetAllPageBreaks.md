@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ResetAllPageBreaks Method (Excel)
+title: Worksheet.ResetAllPageBreaks method (Excel)
 keywords: vbaxl10.chm175101
 f1_keywords:
 - vbaxl10.chm175101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ResetAllPageBreaks Method (Excel)
+# Worksheet.ResetAllPageBreaks method (Excel)
 
 Resets all page breaks on the specified worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (Excel)
+title: Hyperlink.Follow method (Excel)
 keywords: vbaxl10.chm536082
 f1_keywords:
 - vbaxl10.chm536082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Follow Method (Excel)
+# Hyperlink.Follow method (Excel)
 
 Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 

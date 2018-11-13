@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RoundUp Method (Excel)
+title: WorksheetFunction.RoundUp method (Excel)
 keywords: vbaxl10.chm137157
 f1_keywords:
 - vbaxl10.chm137157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.RoundUp Method (Excel)
+# WorksheetFunction.RoundUp method (Excel)
 
 Rounds a number up, away from 0 (zero).
 

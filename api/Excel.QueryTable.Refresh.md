@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Refresh Method (Excel)
+title: QueryTable.Refresh method (Excel)
 keywords: vbaxl10.chm518092
 f1_keywords:
 - vbaxl10.chm518092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Refresh Method (Excel)
+# QueryTable.Refresh method (Excel)
 
 Updates an external data range (**[QueryTable](Excel.QueryTable.md)**).
 

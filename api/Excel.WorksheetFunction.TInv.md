@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TInv Method (Excel)
+title: WorksheetFunction.TInv method (Excel)
 keywords: vbaxl10.chm137236
 f1_keywords:
 - vbaxl10.chm137236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.TInv Method (Excel)
+# WorksheetFunction.TInv method (Excel)
 
 Returns the t-value of the Student's t-distribution as a function of the probability and the degrees of freedom.
 

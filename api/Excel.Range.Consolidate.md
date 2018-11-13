@@ -1,5 +1,5 @@
 ---
-title: Range.Consolidate Method (Excel)
+title: Range.Consolidate method (Excel)
 keywords: vbaxl10.chm144103
 f1_keywords:
 - vbaxl10.chm144103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Consolidate Method (Excel)
+# Range.Consolidate method (Excel)
 
 Consolidates data from multiple ranges on multiple worksheets into a single range on a single worksheet.  **Variant** .
 

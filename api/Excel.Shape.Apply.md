@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (Excel)
+title: Shape.Apply method (Excel)
 keywords: vbaxl10.chm636074
 f1_keywords:
 - vbaxl10.chm636074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Apply Method (Excel)
+# Shape.Apply method (Excel)
 
 Applies to the specified shape formatting that's been copied by using the  **[PickUp](Excel.Shape.PickUp.md)** method.
 

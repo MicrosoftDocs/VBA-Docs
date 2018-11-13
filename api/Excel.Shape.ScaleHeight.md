@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleHeight Method (Excel)
+title: Shape.ScaleHeight method (Excel)
 keywords: vbaxl10.chm636083
 f1_keywords:
 - vbaxl10.chm636083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ScaleHeight Method (Excel)
+# Shape.ScaleHeight method (Excel)
 
 Scales the height of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original or the current size. Shapes other than pictures and OLE objects are always scaled relative to their current height.
 

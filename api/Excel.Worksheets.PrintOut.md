@@ -1,5 +1,5 @@
 ---
-title: Worksheets.PrintOut Method (Excel)
+title: Worksheets.PrintOut method (Excel)
 keywords: vbaxl10.chm470089
 f1_keywords:
 - vbaxl10.chm470089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.PrintOut Method (Excel)
+# Worksheets.PrintOut method (Excel)
 
 Prints the object.
 

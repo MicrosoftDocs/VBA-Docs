@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsText Method (Excel)
+title: WorksheetFunction.IsText method (Excel)
 keywords: vbaxl10.chm137131
 f1_keywords:
 - vbaxl10.chm137131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsText Method (Excel)
+# WorksheetFunction.IsText method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to text.
 

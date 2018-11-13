@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.EncodeUrl Method (Excel)
+title: WorksheetFunction.EncodeUrl method (Excel)
 keywords: vbaxl10.chm137467
 f1_keywords:
 - vbaxl10.chm137467
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.EncodeUrl Method (Excel)
+# WorksheetFunction.EncodeUrl method (Excel)
 
 URL encodes the argument.
 

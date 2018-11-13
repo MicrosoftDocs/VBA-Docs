@@ -1,5 +1,5 @@
 ---
-title: QueryTables.Add Method (Excel)
+title: QueryTables.Add method (Excel)
 keywords: vbaxl10.chm521074
 f1_keywords:
 - vbaxl10.chm521074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTables.Add Method (Excel)
+# QueryTables.Add method (Excel)
 
 Creates a new query table.
 

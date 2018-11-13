@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CumIPmt Method (Excel)
+title: WorksheetFunction.CumIPmt method (Excel)
 keywords: vbaxl10.chm137324
 f1_keywords:
 - vbaxl10.chm137324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CumIPmt Method (Excel)
+# WorksheetFunction.CumIPmt method (Excel)
 
 Returns the cumulative interest paid on a loan between start_period and end_period.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.WeekNum Method (Excel)
+title: WorksheetFunction.WeekNum method (Excel)
 keywords: vbaxl10.chm137341
 f1_keywords:
 - vbaxl10.chm137341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.WeekNum Method (Excel)
+# WorksheetFunction.WeekNum method (Excel)
 
 Returns a number that indicates where the week falls numerically within a year.
 

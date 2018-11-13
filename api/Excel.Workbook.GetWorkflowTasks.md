@@ -1,5 +1,5 @@
 ---
-title: Workbook.GetWorkflowTasks Method (Excel)
+title: Workbook.GetWorkflowTasks method (Excel)
 keywords: vbaxl10.chm199242
 f1_keywords:
 - vbaxl10.chm199242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.GetWorkflowTasks Method (Excel)
+# Workbook.GetWorkflowTasks method (Excel)
 
 Returns the collection of  **[WorkflowTask](./Office.WorkflowTask.md)** objects for the specified workbook.
 

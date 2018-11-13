@@ -1,5 +1,5 @@
 ---
-title: Range.ExportAsFixedFormat Method (Excel)
+title: Range.ExportAsFixedFormat method (Excel)
 keywords: vbaxl10.chm144246
 f1_keywords:
 - vbaxl10.chm144246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ExportAsFixedFormat Method (Excel)
+# Range.ExportAsFixedFormat method (Excel)
 
 Exports to a file of the specified format.
 

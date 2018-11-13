@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ln Method (Excel)
+title: WorksheetFunction.Ln method (Excel)
 keywords: vbaxl10.chm137086
 f1_keywords:
 - vbaxl10.chm137086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ln Method (Excel)
+# WorksheetFunction.Ln method (Excel)
 
 Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).
 

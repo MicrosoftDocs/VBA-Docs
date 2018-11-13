@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Select Method (Excel)
+title: LegendEntry.Select method (Excel)
 keywords: vbaxl10.chm586078
 f1_keywords:
 - vbaxl10.chm586078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Select Method (Excel)
+# LegendEntry.Select method (Excel)
 
 Selects the object.
 

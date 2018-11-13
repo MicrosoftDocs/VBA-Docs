@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyDataLabels Method (Excel)
+title: Point.ApplyDataLabels method (Excel)
 keywords: vbaxl10.chm576100
 f1_keywords:
 - vbaxl10.chm576100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyDataLabels Method (Excel)
+# Point.ApplyDataLabels method (Excel)
 
 Applies data labels to a point.
 

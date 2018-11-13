@@ -1,5 +1,5 @@
 ---
-title: Window.RangeFromPoint Method (Excel)
+title: Window.RangeFromPoint method (Excel)
 keywords: vbaxl10.chm356131
 f1_keywords:
 - vbaxl10.chm356131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.RangeFromPoint Method (Excel)
+# Window.RangeFromPoint method (Excel)
 
 Returns the  **[Shape](Excel.Shape.md)** or **[Range](Excel.Range(object).md)** object that is positioned at the specified pair of screen coordinates. If there isn?t a shape located at the specified coordinates, this method returns **Nothing** .
 

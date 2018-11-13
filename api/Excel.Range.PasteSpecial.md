@@ -1,5 +1,5 @@
 ---
-title: Range.PasteSpecial Method (Excel)
+title: Range.PasteSpecial method (Excel)
 keywords: vbaxl10.chm144238
 f1_keywords:
 - vbaxl10.chm144238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteSpecial Method (Excel)
+# Range.PasteSpecial method (Excel)
 
 Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the specified range.
 

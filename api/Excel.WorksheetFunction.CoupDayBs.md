@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupDayBs Method (Excel)
+title: WorksheetFunction.CoupDayBs method (Excel)
 keywords: vbaxl10.chm137328
 f1_keywords:
 - vbaxl10.chm137328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CoupDayBs Method (Excel)
+# WorksheetFunction.CoupDayBs method (Excel)
 
 Returns the number of days from the beginning of the coupon period to the settlement date.
 

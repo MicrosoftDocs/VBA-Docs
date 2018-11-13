@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.OddLYield Method (Excel)
+title: WorksheetFunction.OddLYield method (Excel)
 keywords: vbaxl10.chm137337
 f1_keywords:
 - vbaxl10.chm137337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.OddLYield Method (Excel)
+# WorksheetFunction.OddLYield method (Excel)
 
 Returns the yield of a security that has an odd (short or long) last period.
 

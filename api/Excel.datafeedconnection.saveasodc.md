@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.SaveAsODC Method (Excel)
+title: DataFeedConnection.SaveAsODC method (Excel)
 keywords: vbaxl10.chm928088
 f1_keywords:
 - vbaxl10.chm928088
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.SaveAsODC Method (Excel)
+# DataFeedConnection.SaveAsODC method (Excel)
 
 Saves the data feed connection as a Microsoft Office Data Connection file.
 

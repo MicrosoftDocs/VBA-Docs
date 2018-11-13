@@ -1,5 +1,5 @@
 ---
-title: QueryTable.CancelRefresh Method (Excel)
+title: QueryTable.CancelRefresh method (Excel)
 keywords: vbaxl10.chm518082
 f1_keywords:
 - vbaxl10.chm518082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.CancelRefresh Method (Excel)
+# QueryTable.CancelRefresh method (Excel)
 
 Cancels all background queries for the specified query table. Use the  **[Refreshing](Excel.QueryTable.Refreshing.md)** property to determine whether a background query is currently in progress.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.PivotItems Method (Excel)
+title: PivotField.PivotItems method (Excel)
 keywords: vbaxl10.chm240091
 f1_keywords:
 - vbaxl10.chm240091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.PivotItems Method (Excel)
+# PivotField.PivotItems method (Excel)
 
 Returns an object that represents either a single PivotTable item (a  **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the visible and hidden items (a **[PivotItems](Excel.PivotItems.md)** object) in the specified field. Read-only.
 

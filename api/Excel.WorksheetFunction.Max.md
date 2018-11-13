@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Max Method (Excel)
+title: WorksheetFunction.Max method (Excel)
 keywords: vbaxl10.chm137080
 f1_keywords:
 - vbaxl10.chm137080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Max Method (Excel)
+# WorksheetFunction.Max method (Excel)
 
 Returns the largest value in a set of values.
 

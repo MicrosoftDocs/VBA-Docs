@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Add Method (Excel)
+title: Hyperlinks.Add method (Excel)
 keywords: vbaxl10.chm534073
 f1_keywords:
 - vbaxl10.chm534073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Add Method (Excel)
+# Hyperlinks.Add method (Excel)
 
 Adds a hyperlink to the specified range or shape.
 

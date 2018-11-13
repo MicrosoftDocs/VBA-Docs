@@ -1,5 +1,5 @@
 ---
-title: Series.Select Method (Excel)
+title: Series.Select method (Excel)
 keywords: vbaxl10.chm578105
 f1_keywords:
 - vbaxl10.chm578105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Select Method (Excel)
+# Series.Select method (Excel)
 
 Selects the object.
 

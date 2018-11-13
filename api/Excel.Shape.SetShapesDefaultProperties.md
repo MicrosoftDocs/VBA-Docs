@@ -1,5 +1,5 @@
 ---
-title: Shape.SetShapesDefaultProperties Method (Excel)
+title: Shape.SetShapesDefaultProperties method (Excel)
 keywords: vbaxl10.chm636086
 f1_keywords:
 - vbaxl10.chm636086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.SetShapesDefaultProperties Method (Excel)
+# Shape.SetShapesDefaultProperties method (Excel)
 
 Makes the formatting of the specified shape the default formatting for the shape.
 

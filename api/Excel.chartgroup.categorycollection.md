@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.CategoryCollection Method (Excel)
+title: ChartGroup.CategoryCollection method (Excel)
 keywords: vbaxl10.chm568102
 f1_keywords:
 - vbaxl10.chm568102
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.CategoryCollection Method (Excel)
+# ChartGroup.CategoryCollection method (Excel)
 
 Returns an object that represents a collection of all of the visible categories (a [CategoryCollection](Excel.categorycollection.md) collection) in the chart group.
 

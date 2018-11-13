@@ -1,5 +1,5 @@
 ---
-title: Range.Show Method (Excel)
+title: Range.Show method (Excel)
 keywords: vbaxl10.chm144194
 f1_keywords:
 - vbaxl10.chm144194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Show Method (Excel)
+# Range.Show method (Excel)
 
 Scrolls through the contents of the active window to move the range into view. The range must consist of a single cell in the active document.
 

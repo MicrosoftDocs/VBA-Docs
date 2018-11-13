@@ -1,5 +1,5 @@
 ---
-title: Workbook.EndReview Method (Excel)
+title: Workbook.EndReview method (Excel)
 keywords: vbaxl10.chm199208
 f1_keywords:
 - vbaxl10.chm199208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.EndReview Method (Excel)
+# Workbook.EndReview method (Excel)
 
 Terminates a review of a file that has been sent for review using the  **[SendForReview](Excel.Workbook.SendForReview.md)** method.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Npv Method (Excel)
+title: WorksheetFunction.Npv method (Excel)
 keywords: vbaxl10.chm137081
 f1_keywords:
 - vbaxl10.chm137081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Npv Method (Excel)
+# WorksheetFunction.Npv method (Excel)
 
 Calculates the net present value of an investment by using a discount rate and a series of future payments (negative values) and income (positive values).
 

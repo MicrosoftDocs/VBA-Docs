@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Weekday Method (Excel)
+title: WorksheetFunction.Weekday method (Excel)
 keywords: vbaxl10.chm137115
 f1_keywords:
 - vbaxl10.chm137115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Weekday Method (Excel)
+# WorksheetFunction.Weekday method (Excel)
 
 Returns the day of the week corresponding to a date. The day is given as an integer, ranging from 1 (Sunday) to 7 (Saturday), by default.
 

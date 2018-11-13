@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Munit Method (Excel)
+title: WorksheetFunction.Munit method (Excel)
 keywords: vbaxl10.chm137455
 f1_keywords:
 - vbaxl10.chm137455
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Munit Method (Excel)
+# WorksheetFunction.Munit method (Excel)
 
 Returns the unit matrix for the specified dimension.
 

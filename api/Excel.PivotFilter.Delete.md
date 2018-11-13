@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Delete Method (Excel)
+title: PivotFilter.Delete method (Excel)
 keywords: vbaxl10.chm770077
 f1_keywords:
 - vbaxl10.chm770077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Delete Method (Excel)
+# PivotFilter.Delete method (Excel)
 
 Deletes the filter and removes it from the filter collections of the PivotField and the PivotTable.
 

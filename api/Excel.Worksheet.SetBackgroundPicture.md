@@ -1,5 +1,5 @@
 ---
-title: Worksheet.SetBackgroundPicture Method (Excel)
+title: Worksheet.SetBackgroundPicture method (Excel)
 keywords: vbaxl10.chm175076
 f1_keywords:
 - vbaxl10.chm175076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.SetBackgroundPicture Method (Excel)
+# Worksheet.SetBackgroundPicture method (Excel)
 
 Sets the background graphic for a worksheet.
 

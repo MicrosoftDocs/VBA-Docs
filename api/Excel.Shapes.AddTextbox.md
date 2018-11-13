@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (Excel)
+title: Shapes.AddTextbox method (Excel)
 keywords: vbaxl10.chm638086
 f1_keywords:
 - vbaxl10.chm638086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddTextbox Method (Excel)
+# Shapes.AddTextbox method (Excel)
 
 Creates a text box. Returns a  **[Shape](Excel.Shape.md)** object that represents the new text box.
 

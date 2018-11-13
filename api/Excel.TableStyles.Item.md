@@ -1,5 +1,5 @@
 ---
-title: TableStyles.Item Method (Excel)
+title: TableStyles.Item method (Excel)
 keywords: vbaxl10.chm841075
 f1_keywords:
 - vbaxl10.chm841075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyles.Item Method (Excel)
+# TableStyles.Item method (Excel)
 
 Returns a single object from a collection.
 

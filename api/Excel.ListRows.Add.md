@@ -1,5 +1,5 @@
 ---
-title: ListRows.Add Method (Excel)
+title: ListRows.Add method (Excel)
 keywords: vbaxl10.chm740078
 f1_keywords:
 - vbaxl10.chm740078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRows.Add Method (Excel)
+# ListRows.Add method (Excel)
 
 Adds a new row to the table represented by the specified [ListObject](Excel.ListObject.md).
 

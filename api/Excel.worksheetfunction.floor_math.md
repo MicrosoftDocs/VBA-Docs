@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Floor_Math Method (Excel)
+title: WorksheetFunction.Floor_Math method (Excel)
 keywords: vbaxl10.chm137462
 f1_keywords:
 - vbaxl10.chm137462
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Floor_Math Method (Excel)
+# WorksheetFunction.Floor_Math method (Excel)
 
 Rounds a number down, to the nearest integer or to the nearest multiple of significance.
 

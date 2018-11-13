@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReplyWithChanges Method (Excel)
+title: Workbook.ReplyWithChanges method (Excel)
 keywords: vbaxl10.chm199207
 f1_keywords:
 - vbaxl10.chm199207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ReplyWithChanges Method (Excel)
+# Workbook.ReplyWithChanges method (Excel)
 
 Sends an e-mail message to the author of a workbook that has been sent out for review, notifying them that a reviewer has completed review of the workbook.
 

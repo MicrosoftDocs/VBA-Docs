@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pmt Method (Excel)
+title: WorksheetFunction.Pmt method (Excel)
 keywords: vbaxl10.chm137110
 f1_keywords:
 - vbaxl10.chm137110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Pmt Method (Excel)
+# WorksheetFunction.Pmt method (Excel)
 
 Calculates the payment for a loan based on constant payments and a constant interest rate.
 

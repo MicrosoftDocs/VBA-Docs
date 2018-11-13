@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Standardize Method (Excel)
+title: WorksheetFunction.Standardize method (Excel)
 keywords: vbaxl10.chm137201
 f1_keywords:
 - vbaxl10.chm137201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Standardize Method (Excel)
+# WorksheetFunction.Standardize method (Excel)
 
 Returns a normalized value from a distribution characterized by mean and standard_dev.
 

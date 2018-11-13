@@ -1,5 +1,5 @@
 ---
-title: ListObjects.Add Method (Excel)
+title: ListObjects.Add method (Excel)
 keywords: vbaxl10.chm732078
 f1_keywords:
 - vbaxl10.chm732078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObjects.Add Method (Excel)
+# ListObjects.Add method (Excel)
 
 Creates a new list object.
 

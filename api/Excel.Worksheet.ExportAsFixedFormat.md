@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ExportAsFixedFormat Method (Excel)
+title: Worksheet.ExportAsFixedFormat method (Excel)
 keywords: vbaxl10.chm175163
 f1_keywords:
 - vbaxl10.chm175163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ExportAsFixedFormat Method (Excel)
+# Worksheet.ExportAsFixedFormat method (Excel)
 
 Exports to a file of the specified format.
 

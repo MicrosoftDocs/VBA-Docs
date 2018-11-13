@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bin2Hex Method (Excel)
+title: WorksheetFunction.Bin2Hex method (Excel)
 keywords: vbaxl10.chm137272
 f1_keywords:
 - vbaxl10.chm137272
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bin2Hex Method (Excel)
+# WorksheetFunction.Bin2Hex method (Excel)
 
 Converts a binary number to hexadecimal.
 

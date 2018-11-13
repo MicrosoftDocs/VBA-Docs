@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsFormula Method (Excel)
+title: WorksheetFunction.IsFormula method (Excel)
 keywords: vbaxl10.chm137459
 f1_keywords:
 - vbaxl10.chm137459
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsFormula Method (Excel)
+# WorksheetFunction.IsFormula method (Excel)
 
 Checks whether a reference is to a cell containing a formula, and returns  **TRUE** or **FALSE** .
 

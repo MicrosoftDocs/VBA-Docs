@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Dec2Hex Method (Excel)
+title: WorksheetFunction.Dec2Hex method (Excel)
 keywords: vbaxl10.chm137265
 f1_keywords:
 - vbaxl10.chm137265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Dec2Hex Method (Excel)
+# WorksheetFunction.Dec2Hex method (Excel)
 
 Converts a decimal number to hexadecimal.
 

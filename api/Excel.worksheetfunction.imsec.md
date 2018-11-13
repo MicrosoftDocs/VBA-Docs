@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSec Method (Excel)
+title: WorksheetFunction.ImSec method (Excel)
 keywords: vbaxl10.chm137433
 f1_keywords:
 - vbaxl10.chm137433
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSec Method (Excel)
+# WorksheetFunction.ImSec method (Excel)
 
 Returns the hyperbolic cosecant of a complex number.
 

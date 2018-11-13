@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (Excel)
+title: ShapeNodes.SetEditingType method (Excel)
 keywords: vbaxl10.chm112009
 f1_keywords:
 - vbaxl10.chm112009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetEditingType Method (Excel)
+# ShapeNodes.SetEditingType method (Excel)
 
 Sets the editing type of the node specified by  _Index_. If the node is a control point for a curved segment, this method sets the editing type of the node adjacent to it that joins two segments. Note that, depending on the editing type, this method may affect the position of adjacent nodes.
 

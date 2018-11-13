@@ -1,5 +1,5 @@
 ---
-title: ColorStops.Item Method (Excel)
+title: ColorStops.Item method (Excel)
 keywords: vbaxl10.chm853075
 f1_keywords:
 - vbaxl10.chm853075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStops.Item Method (Excel)
+# ColorStops.Item method (Excel)
 
 Returns a single object from the represented collection.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Erf_Precise Method (Excel)
+title: WorksheetFunction.Erf_Precise method (Excel)
 keywords: vbaxl10.chm137416
 f1_keywords:
 - vbaxl10.chm137416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Erf_Precise Method (Excel)
+# WorksheetFunction.Erf_Precise method (Excel)
 
 Returns the error function integrated between zero and lower_limit.
 

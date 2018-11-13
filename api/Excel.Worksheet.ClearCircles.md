@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ClearCircles Method (Excel)
+title: Worksheet.ClearCircles method (Excel)
 keywords: vbaxl10.chm175141
 f1_keywords:
 - vbaxl10.chm175141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ClearCircles Method (Excel)
+# Worksheet.ClearCircles method (Excel)
 
 Clears circles from invalid entries on the worksheet.
 

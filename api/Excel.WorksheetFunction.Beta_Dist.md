@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Beta_Dist Method (Excel)
+title: WorksheetFunction.Beta_Dist method (Excel)
 keywords: vbaxl10.chm137396
 f1_keywords:
 - vbaxl10.chm137396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Beta_Dist Method (Excel)
+# WorksheetFunction.Beta_Dist method (Excel)
 
 Returns the beta cumulative distribution function.
 

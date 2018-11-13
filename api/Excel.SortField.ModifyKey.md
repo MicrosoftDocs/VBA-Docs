@@ -1,5 +1,5 @@
 ---
-title: SortField.ModifyKey Method (Excel)
+title: SortField.ModifyKey method (Excel)
 keywords: vbaxl10.chm843081
 f1_keywords:
 - vbaxl10.chm843081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.ModifyKey Method (Excel)
+# SortField.ModifyKey method (Excel)
 
 Modify the key value by which values are sorted in the field.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.DataSeries Method (Excel)
+title: Range.DataSeries method (Excel)
 keywords: vbaxl10.chm144113
 f1_keywords:
 - vbaxl10.chm144113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DataSeries Method (Excel)
+# Range.DataSeries method (Excel)
 
 Creates a data series in the specified range.  **Variant** .
 

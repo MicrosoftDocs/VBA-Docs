@@ -1,5 +1,5 @@
 ---
-title: Windows.CompareSideBySideWith Method (Excel)
+title: Windows.CompareSideBySideWith method (Excel)
 keywords: vbaxl10.chm354078
 f1_keywords:
 - vbaxl10.chm354078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.CompareSideBySideWith Method (Excel)
+# Windows.CompareSideBySideWith method (Excel)
 
 Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 

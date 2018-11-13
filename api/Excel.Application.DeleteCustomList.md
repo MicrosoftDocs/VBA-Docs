@@ -1,5 +1,5 @@
 ---
-title: Application.DeleteCustomList Method (Excel)
+title: Application.DeleteCustomList method (Excel)
 keywords: vbaxl10.chm133117
 f1_keywords:
 - vbaxl10.chm133117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DeleteCustomList Method (Excel)
+# Application.DeleteCustomList method (Excel)
 
 Deletes a custom list.
 

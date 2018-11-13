@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.ToggleVerticalText Method (Excel)
+title: TextEffectFormat.ToggleVerticalText method (Excel)
 keywords: vbaxl10.chm118020
 f1_keywords:
 - vbaxl10.chm118020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.ToggleVerticalText Method (Excel)
+# TextEffectFormat.ToggleVerticalText method (Excel)
 
 Switches the text flow in the specified WordArt from horizontal to vertical, or vice versa.
 

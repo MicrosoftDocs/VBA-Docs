@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCsc Method (Excel)
+title: WorksheetFunction.ImCsc method (Excel)
 keywords: vbaxl10.chm137431
 f1_keywords:
 - vbaxl10.chm137431
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImCsc Method (Excel)
+# WorksheetFunction.ImCsc method (Excel)
 
 Returns the cosecant of a complex number.
 

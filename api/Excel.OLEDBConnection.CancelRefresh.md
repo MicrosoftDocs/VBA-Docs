@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.CancelRefresh Method (Excel)
+title: OLEDBConnection.CancelRefresh method (Excel)
 keywords: vbaxl10.chm794075
 f1_keywords:
 - vbaxl10.chm794075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.CancelRefresh Method (Excel)
+# OLEDBConnection.CancelRefresh method (Excel)
 
 Cancels all refresh operations in progress for the specified OLE DB connection.
 

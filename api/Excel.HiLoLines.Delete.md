@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Delete Method (Excel)
+title: HiLoLines.Delete method (Excel)
 keywords: vbaxl10.chm600077
 f1_keywords:
 - vbaxl10.chm600077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Delete Method (Excel)
+# HiLoLines.Delete method (Excel)
 
 Deletes the object.
 

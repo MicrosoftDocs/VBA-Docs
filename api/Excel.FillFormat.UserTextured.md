@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserTextured Method (Excel)
+title: FillFormat.UserTextured method (Excel)
 keywords: vbaxl10.chm115010
 f1_keywords:
 - vbaxl10.chm115010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.UserTextured Method (Excel)
+# FillFormat.UserTextured method (Excel)
 
 Fills the specified shape with small tiles of an image. If you want to fill the shape with one large image, use the  **[UserPicture](Excel.FillFormat.UserPicture.md)** method.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Days Method (Excel)
+title: WorksheetFunction.Days method (Excel)
 keywords: vbaxl10.chm137446
 f1_keywords:
 - vbaxl10.chm137446
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Days Method (Excel)
+# WorksheetFunction.Days method (Excel)
 
 Returns the number of days between the two dates.
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTables.Item Method (Excel)
+title: QueryTables.Item method (Excel)
 keywords: vbaxl10.chm521075
 f1_keywords:
 - vbaxl10.chm521075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTables.Item Method (Excel)
+# QueryTables.Item method (Excel)
 
 Returns a single object from a collection.
 

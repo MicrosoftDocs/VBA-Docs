@@ -1,5 +1,5 @@
 ---
-title: PivotItem.Delete Method (Excel)
+title: PivotItem.Delete method (Excel)
 keywords: vbaxl10.chm246086
 f1_keywords:
 - vbaxl10.chm246086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.Delete Method (Excel)
+# PivotItem.Delete method (Excel)
 
 Deletes the object.
 

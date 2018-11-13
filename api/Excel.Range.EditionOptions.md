@@ -1,5 +1,5 @@
 ---
-title: Range.EditionOptions Method (Excel)
+title: Range.EditionOptions method (Excel)
 keywords: vbaxl10.chm144120
 f1_keywords:
 - vbaxl10.chm144120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EditionOptions Method (Excel)
+# Range.EditionOptions method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

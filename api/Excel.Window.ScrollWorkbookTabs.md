@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollWorkbookTabs Method (Excel)
+title: Window.ScrollWorkbookTabs method (Excel)
 keywords: vbaxl10.chm356107
 f1_keywords:
 - vbaxl10.chm356107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ScrollWorkbookTabs Method (Excel)
+# Window.ScrollWorkbookTabs method (Excel)
 
 Scrolls through the workbook tabs at the bottom of the window. Doesn't affect the active sheet in the workbook.
 

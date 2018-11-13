@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Replace Method (Excel)
+title: WorksheetFunction.Replace method (Excel)
 keywords: vbaxl10.chm137127
 f1_keywords:
 - vbaxl10.chm137127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Replace Method (Excel)
+# WorksheetFunction.Replace method (Excel)
 
 Replaces part of a text string, based on the number of characters you specify, with a different text string.
 

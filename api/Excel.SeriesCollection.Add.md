@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Add Method (Excel)
+title: SeriesCollection.Add method (Excel)
 keywords: vbaxl10.chm580074
 f1_keywords:
 - vbaxl10.chm580074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Add Method (Excel)
+# SeriesCollection.Add method (Excel)
 
 Adds one or more new series to the  **SeriesCollection** collection.
 

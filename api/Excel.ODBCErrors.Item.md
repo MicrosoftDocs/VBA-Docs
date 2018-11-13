@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors.Item Method (Excel)
+title: ODBCErrors.Item method (Excel)
 keywords: vbaxl10.chm529074
 f1_keywords:
 - vbaxl10.chm529074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCErrors.Item Method (Excel)
+# ODBCErrors.Item method (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.RandBetween Method (Excel)
+title: WorksheetFunction.RandBetween method (Excel)
 keywords: vbaxl10.chm137340
 f1_keywords:
 - vbaxl10.chm137340
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.RandBetween Method (Excel)
+# WorksheetFunction.RandBetween method (Excel)
 
 Returns a random integer number between the numbers you specify. A new random integer number is returned every time the worksheet is calculated.
 

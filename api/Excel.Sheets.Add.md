@@ -1,5 +1,5 @@
 ---
-title: Sheets.Add Method (Excel)
+title: Sheets.Add method (Excel)
 keywords: vbaxl10.chm152073
 f1_keywords:
 - vbaxl10.chm152073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Add Method (Excel)
+# Sheets.Add method (Excel)
 
 Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the active sheet.
 

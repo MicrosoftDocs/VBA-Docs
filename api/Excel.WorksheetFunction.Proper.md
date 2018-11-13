@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Proper Method (Excel)
+title: WorksheetFunction.Proper method (Excel)
 keywords: vbaxl10.chm137125
 f1_keywords:
 - vbaxl10.chm137125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Proper Method (Excel)
+# WorksheetFunction.Proper method (Excel)
 
 Capitalizes the first letter in a text string and any other letters in text that follow any character other than a letter. Converts all other letters to lowercase letters.
 

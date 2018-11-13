@@ -1,5 +1,5 @@
 ---
-title: Parameter.SetParam Method (Excel)
+title: Parameter.SetParam method (Excel)
 keywords: vbaxl10.chm523079
 f1_keywords:
 - vbaxl10.chm523079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.SetParam Method (Excel)
+# Parameter.SetParam method (Excel)
 
 Defines a parameter for the specified query table.
 

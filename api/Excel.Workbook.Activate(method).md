@@ -1,5 +1,5 @@
 ---
-title: Workbook.Activate Method (Excel)
+title: Workbook.Activate method (Excel)
 keywords: vbaxl10.chm199074
 f1_keywords:
 - vbaxl10.chm199074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Activate Method (Excel)
+# Workbook.Activate method (Excel)
 
 Activates the first window associated with the workbook.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorScale.Delete Method (Excel)
+title: ColorScale.Delete method (Excel)
 keywords: vbaxl10.chm806080
 f1_keywords:
 - vbaxl10.chm806080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.Delete Method (Excel)
+# ColorScale.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

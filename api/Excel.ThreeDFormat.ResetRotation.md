@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ResetRotation Method (Excel)
+title: ThreeDFormat.ResetRotation method (Excel)
 keywords: vbaxl10.chm119002
 f1_keywords:
 - vbaxl10.chm119002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ResetRotation Method (Excel)
+# ThreeDFormat.ResetRotation method (Excel)
 
 Resets the extrusion rotation around the x-axis and the y-axis to 0 (zero) so that the front of the extrusion faces forward. This method doesn't reset the rotation around the z-axis.
 

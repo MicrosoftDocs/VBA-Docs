@@ -1,5 +1,5 @@
 ---
-title: Databar.Delete Method (Excel)
+title: Databar.Delete method (Excel)
 keywords: vbaxl10.chm810086
 f1_keywords:
 - vbaxl10.chm810086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.Delete Method (Excel)
+# Databar.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment.Previous Method (Excel)
+title: Comment.Previous method (Excel)
 keywords: vbaxl10.chm516079
 f1_keywords:
 - vbaxl10.chm516079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Previous Method (Excel)
+# Comment.Previous method (Excel)
 
 Returns a  **[Comment](Excel.Comment.md)** object that represents the previous comment.
 

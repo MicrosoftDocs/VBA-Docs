@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImAbs Method (Excel)
+title: WorksheetFunction.ImAbs method (Excel)
 keywords: vbaxl10.chm137276
 f1_keywords:
 - vbaxl10.chm137276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImAbs Method (Excel)
+# WorksheetFunction.ImAbs method (Excel)
 
 Returns the absolute value (modulus) of a complex number in x + yi or x + yj text format.
 

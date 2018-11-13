@@ -1,5 +1,5 @@
 ---
-title: SoundNote.Play Method (Excel)
+title: SoundNote.Play method (Excel)
 keywords: vbaxl10.chm258075
 f1_keywords:
 - vbaxl10.chm258075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# SoundNote.Play Method (Excel)
+# SoundNote.Play method (Excel)
 
 Plays the sound note.
 

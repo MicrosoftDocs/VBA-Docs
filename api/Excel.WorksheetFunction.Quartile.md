@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quartile Method (Excel)
+title: WorksheetFunction.Quartile method (Excel)
 keywords: vbaxl10.chm137231
 f1_keywords:
 - vbaxl10.chm137231
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Quartile Method (Excel)
+# WorksheetFunction.Quartile method (Excel)
 
 Returns the quartile of a data set. Quartiles often are used in sales and survey data to divide populations into groups. For example, you can use QUARTILE to find the top 25 percent of incomes in a population.
 

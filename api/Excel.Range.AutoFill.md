@@ -1,5 +1,5 @@
 ---
-title: Range.AutoFill Method (Excel)
+title: Range.AutoFill method (Excel)
 keywords: vbaxl10.chm144083
 f1_keywords:
 - vbaxl10.chm144083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AutoFill Method (Excel)
+# Range.AutoFill method (Excel)
 
 Performs an autofill on the cells in the specified range.
 

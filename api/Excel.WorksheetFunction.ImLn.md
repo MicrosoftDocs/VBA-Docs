@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImLn Method (Excel)
+title: WorksheetFunction.ImLn method (Excel)
 keywords: vbaxl10.chm137278
 f1_keywords:
 - vbaxl10.chm137278
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImLn Method (Excel)
+# WorksheetFunction.ImLn method (Excel)
 
 Returns the natural logarithm of a complex number in x + yi or x + yj text format.
 

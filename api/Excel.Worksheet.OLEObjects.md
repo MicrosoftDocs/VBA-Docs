@@ -1,5 +1,5 @@
 ---
-title: Worksheet.OLEObjects Method (Excel)
+title: Worksheet.OLEObjects method (Excel)
 keywords: vbaxl10.chm175108
 f1_keywords:
 - vbaxl10.chm175108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.OLEObjects Method (Excel)
+# Worksheet.OLEObjects method (Excel)
 
 Returns an object that represents either a single OLE object (an  **[OLEObject](Excel.OLEObject.md)**) or a collection of all OLE objects (an **[OLEObjects](Excel.OLEObjects.md)** collection) on the chart or sheet. Read-only.
 

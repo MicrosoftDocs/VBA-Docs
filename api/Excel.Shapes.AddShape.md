@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddShape Method (Excel)
+title: Shapes.AddShape method (Excel)
 keywords: vbaxl10.chm638084
 f1_keywords:
 - vbaxl10.chm638084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddShape Method (Excel)
+# Shapes.AddShape method (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents the new AutoShape in a worksheet.
 

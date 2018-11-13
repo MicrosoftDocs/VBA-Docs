@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pearson Method (Excel)
+title: WorksheetFunction.Pearson method (Excel)
 keywords: vbaxl10.chm137216
 f1_keywords:
 - vbaxl10.chm137216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Pearson Method (Excel)
+# WorksheetFunction.Pearson method (Excel)
 
 Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive and reflects the extent of a linear relationship between two data sets.
 

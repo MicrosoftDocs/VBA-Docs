@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Modify Method (Excel)
+title: FormatCondition.Modify method (Excel)
 keywords: vbaxl10.chm512082
 f1_keywords:
 - vbaxl10.chm512082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Modify Method (Excel)
+# FormatCondition.Modify method (Excel)
 
 Modifies an existing conditional format.
 

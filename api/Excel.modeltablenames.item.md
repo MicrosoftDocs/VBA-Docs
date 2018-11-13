@@ -1,5 +1,5 @@
 ---
-title: ModelTableNames.Item Method (Excel)
+title: ModelTableNames.Item method (Excel)
 keywords: vbaxl10.chm954074
 f1_keywords:
 - vbaxl10.chm954074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNames.Item Method (Excel)
+# ModelTableNames.Item method (Excel)
 
 Returns a single object from the  **ModelTableNames** collection.
 

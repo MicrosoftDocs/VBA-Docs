@@ -1,12 +1,12 @@
 ---
-title: Workbook.PublishToDocs Method (Excel)
+title: Workbook.PublishToDocs method (Excel)
 ms.assetid: 8e2a3208-6cfa-4aac-8c1c-76c0c826461a
 ms.date: 06/08/2017
 ms.prod: excel
 ---
 
 
-# Workbook.PublishToDocs Method (Excel)
+# Workbook.PublishToDocs method (Excel)
 
 Saves the workbook and publishes it to a document.
 

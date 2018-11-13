@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SubtotalLocation Method (Excel)
+title: PivotTable.SubtotalLocation method (Excel)
 keywords: vbaxl10.chm235167
 f1_keywords:
 - vbaxl10.chm235167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SubtotalLocation Method (Excel)
+# PivotTable.SubtotalLocation method (Excel)
 
 This method changes the subtotal location for all existing PivotFields. Changing the subtotal location has an immediate visual effect only for fields in outline form, but it will be set for fields in tabular form as well. 
 

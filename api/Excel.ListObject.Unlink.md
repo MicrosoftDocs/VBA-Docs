@@ -1,5 +1,5 @@
 ---
-title: ListObject.Unlink Method (Excel)
+title: ListObject.Unlink method (Excel)
 keywords: vbaxl10.chm734076
 f1_keywords:
 - vbaxl10.chm734076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Unlink Method (Excel)
+# ListObject.Unlink method (Excel)
 
 Removes the link to a Microsoft SharePoint Foundation site from a list. Returns  **Nothing** .
 

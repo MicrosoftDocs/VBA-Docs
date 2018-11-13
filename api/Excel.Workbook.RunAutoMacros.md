@@ -1,5 +1,5 @@
 ---
-title: Workbook.RunAutoMacros Method (Excel)
+title: Workbook.RunAutoMacros method (Excel)
 keywords: vbaxl10.chm199143
 f1_keywords:
 - vbaxl10.chm199143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RunAutoMacros Method (Excel)
+# Workbook.RunAutoMacros method (Excel)
 
 Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached to the workbook. This method is included for backward compatibility. For new Visual Basic code, you should use the Open, Close, Activate and Deactivate events instead of these macros.
 

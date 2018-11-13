@@ -1,5 +1,5 @@
 ---
-title: XmlMap.ImportXml Method (Excel)
+title: XmlMap.ImportXml method (Excel)
 keywords: vbaxl10.chm754088
 f1_keywords:
 - vbaxl10.chm754088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.ImportXml Method (Excel)
+# XmlMap.ImportXml method (Excel)
 
 Imports XML data from a  **String** variable into cells that have been mapped to the specified **[XmlMap](Excel.XmlMap.md)** object.
 

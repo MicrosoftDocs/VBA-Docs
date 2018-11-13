@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.YieldDisc Method (Excel)
+title: WorksheetFunction.YieldDisc method (Excel)
 keywords: vbaxl10.chm137314
 f1_keywords:
 - vbaxl10.chm137314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.YieldDisc Method (Excel)
+# WorksheetFunction.YieldDisc method (Excel)
 
 Returns the annual yield for a discounted security.
 

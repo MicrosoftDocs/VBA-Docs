@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Inv Method (Excel)
+title: WorksheetFunction.ChiSq_Inv method (Excel)
 keywords: vbaxl10.chm137400
 f1_keywords:
 - vbaxl10.chm137400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiSq_Inv Method (Excel)
+# WorksheetFunction.ChiSq_Inv method (Excel)
 
 Returns the inverse of the left-tailed probability of the chi-squared distribution.
 

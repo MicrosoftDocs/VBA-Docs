@@ -1,5 +1,5 @@
 ---
-title: Application.SendKeys Method (Excel)
+title: Application.SendKeys method (Excel)
 keywords: vbaxl10.chm183108
 f1_keywords:
 - vbaxl10.chm183108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SendKeys Method (Excel)
+# Application.SendKeys method (Excel)
 
 Sends keystrokes to the active application.
 

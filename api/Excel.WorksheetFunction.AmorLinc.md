@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AmorLinc Method (Excel)
+title: WorksheetFunction.AmorLinc method (Excel)
 keywords: vbaxl10.chm137343
 f1_keywords:
 - vbaxl10.chm137343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.AmorLinc Method (Excel)
+# WorksheetFunction.AmorLinc method (Excel)
 
 Returns the depreciation for each accounting period. This function is provided for the French accounting system.
 

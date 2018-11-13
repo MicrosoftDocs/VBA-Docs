@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Dist Method (Excel)
+title: WorksheetFunction.ChiSq_Dist method (Excel)
 keywords: vbaxl10.chm137398
 f1_keywords:
 - vbaxl10.chm137398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiSq_Dist Method (Excel)
+# WorksheetFunction.ChiSq_Dist method (Excel)
 
 Returns the chi-squared distribution.
 

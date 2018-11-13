@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Dist_2T Method (Excel)
+title: WorksheetFunction.T_Dist_2T method (Excel)
 keywords: vbaxl10.chm137384
 f1_keywords:
 - vbaxl10.chm137384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.T_Dist_2T Method (Excel)
+# WorksheetFunction.T_Dist_2T method (Excel)
 
 Returns the two-tailed Student t-distribution.
 

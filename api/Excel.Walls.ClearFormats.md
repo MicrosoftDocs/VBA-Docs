@@ -1,5 +1,5 @@
 ---
-title: Walls.ClearFormats Method (Excel)
+title: Walls.ClearFormats method (Excel)
 keywords: vbaxl10.chm614077
 f1_keywords:
 - vbaxl10.chm614077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.ClearFormats Method (Excel)
+# Walls.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

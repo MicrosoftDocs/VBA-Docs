@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.SetLastPriority Method (Excel)
+title: UniqueValues.SetLastPriority method (Excel)
 keywords: vbaxl10.chm826083
 f1_keywords:
 - vbaxl10.chm826083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.SetLastPriority Method (Excel)
+# UniqueValues.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 

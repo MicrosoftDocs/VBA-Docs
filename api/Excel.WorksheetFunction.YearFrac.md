@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.YearFrac Method (Excel)
+title: WorksheetFunction.YearFrac method (Excel)
 keywords: vbaxl10.chm137327
 f1_keywords:
 - vbaxl10.chm137327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.YearFrac Method (Excel)
+# WorksheetFunction.YearFrac method (Excel)
 
 Calculates the fraction of the year represented by the number of whole days between two dates (the start_date and the end_date). Use the YEARFRAC worksheet function to identify the proportion of a whole year's benefits or obligations to assign to a specific term.
 

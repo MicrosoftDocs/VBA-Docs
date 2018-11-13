@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Item Method (Excel)
+title: FullSeriesCollection.Item method (Excel)
 keywords: vbaxl10.chm944075
 f1_keywords:
 - vbaxl10.chm944075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Item Method (Excel)
+# FullSeriesCollection.Item method (Excel)
 
 Returns a single object from the [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
 

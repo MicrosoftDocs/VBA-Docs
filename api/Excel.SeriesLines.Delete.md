@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Delete Method (Excel)
+title: SeriesLines.Delete method (Excel)
 keywords: vbaxl10.chm598077
 f1_keywords:
 - vbaxl10.chm598077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Delete Method (Excel)
+# SeriesLines.Delete method (Excel)
 
 Deletes the object.
 

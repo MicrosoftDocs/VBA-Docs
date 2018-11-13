@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Received Method (Excel)
+title: WorksheetFunction.Received method (Excel)
 keywords: vbaxl10.chm137311
 f1_keywords:
 - vbaxl10.chm137311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Received Method (Excel)
+# WorksheetFunction.Received method (Excel)
 
 Returns the amount received at maturity for a fully invested security.
 

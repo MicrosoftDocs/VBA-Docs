@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Delete Method (Excel)
+title: CustomProperty.Delete method (Excel)
 keywords: vbaxl10.chm682076
 f1_keywords:
 - vbaxl10.chm682076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Delete Method (Excel)
+# CustomProperty.Delete method (Excel)
 
 Deletes the object.
 

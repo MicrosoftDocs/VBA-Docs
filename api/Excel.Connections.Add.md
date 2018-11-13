@@ -1,5 +1,5 @@
 ---
-title: Connections.Add Method (Excel)
+title: Connections.Add method (Excel)
 keywords: vbaxl10.chm776079
 f1_keywords:
 - vbaxl10.chm776079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.Add Method (Excel)
+# Connections.Add method (Excel)
 
 Adds a new connction to the workbook.
 

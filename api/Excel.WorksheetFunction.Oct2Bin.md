@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Oct2Bin Method (Excel)
+title: WorksheetFunction.Oct2Bin method (Excel)
 keywords: vbaxl10.chm137267
 f1_keywords:
 - vbaxl10.chm137267
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Oct2Bin Method (Excel)
+# WorksheetFunction.Oct2Bin method (Excel)
 
 Converts an octal number to binary.
 

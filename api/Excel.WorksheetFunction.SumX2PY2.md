@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumX2PY2 Method (Excel)
+title: WorksheetFunction.SumX2PY2 method (Excel)
 keywords: vbaxl10.chm137209
 f1_keywords:
 - vbaxl10.chm137209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumX2PY2 Method (Excel)
+# WorksheetFunction.SumX2PY2 method (Excel)
 
 Returns the sum of the sum of squares of corresponding values in two arrays. The sum of the sum of squares is a common term in many statistical calculations.
 

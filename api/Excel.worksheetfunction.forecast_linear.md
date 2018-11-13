@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast_Linear Method (Excel)
+title: WorksheetFunction.Forecast_Linear method (Excel)
 keywords: vbaxl10.chm137471
 f1_keywords:
 - vbaxl10.chm137471
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorksheetFunction.Forecast_Linear Method (Excel)
+# WorksheetFunction.Forecast_Linear method (Excel)
 
 Calculates, or predicts, a future value by using existing values. The predicted value is a y-value for a given x-value. The known values are existing x-values and y-values, and the new value is predicted by using linear regression. You can use this function to predict future sales, inventory requirements, or consumer trends.
 

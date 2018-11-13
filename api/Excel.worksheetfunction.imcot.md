@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCot Method (Excel)
+title: WorksheetFunction.ImCot method (Excel)
 keywords: vbaxl10.chm137429
 f1_keywords:
 - vbaxl10.chm137429
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImCot Method (Excel)
+# WorksheetFunction.ImCot method (Excel)
 
 Returns the cotangent of a complex number.
 

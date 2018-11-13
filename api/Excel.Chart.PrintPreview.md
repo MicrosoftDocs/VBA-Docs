@@ -1,5 +1,5 @@
 ---
-title: Chart.PrintPreview Method (Excel)
+title: Chart.PrintPreview method (Excel)
 keywords: vbaxl10.chm148088
 f1_keywords:
 - vbaxl10.chm148088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PrintPreview Method (Excel)
+# Chart.PrintPreview method (Excel)
 
 Shows a preview of the object as it would look when printed.
 

@@ -1,5 +1,5 @@
 ---
-title: Scenario.ChangeScenario Method (Excel)
+title: Scenario.ChangeScenario method (Excel)
 keywords: vbaxl10.chm364073
 f1_keywords:
 - vbaxl10.chm364073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.ChangeScenario Method (Excel)
+# Scenario.ChangeScenario method (Excel)
 
 Changes the scenario to have a new set of changing cells and (optionally) scenario values.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.BorderAround Method (Excel)
+title: Range.BorderAround method (Excel)
 keywords: vbaxl10.chm144252
 f1_keywords:
 - vbaxl10.chm144252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.BorderAround Method (Excel)
+# Range.BorderAround method (Excel)
 
 Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[LineStyle](Excel.Border.LineStyle.md)** , and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant** .
 

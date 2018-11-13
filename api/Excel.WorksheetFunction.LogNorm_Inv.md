@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.LogNorm_Inv Method (Excel)
+title: WorksheetFunction.LogNorm_Inv method (Excel)
 keywords: vbaxl10.chm137408
 f1_keywords:
 - vbaxl10.chm137408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.LogNorm_Inv Method (Excel)
+# WorksheetFunction.LogNorm_Inv method (Excel)
 
 Returns the inverse of the lognormal cumulative distribution function. Use the lognormal distribution to analyze logarithmically transformed data.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Permutationa Method (Excel)
+title: WorksheetFunction.Permutationa method (Excel)
 keywords: vbaxl10.chm137442
 f1_keywords:
 - vbaxl10.chm137442
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Permutationa Method (Excel)
+# WorksheetFunction.Permutationa method (Excel)
 
 Returns the number of permutations for a given number of objects (with repetitions) that can be selected from the total objects.
 

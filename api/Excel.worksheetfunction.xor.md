@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Xor Method (Excel)
+title: WorksheetFunction.Xor method (Excel)
 keywords: vbaxl10.chm137440
 f1_keywords:
 - vbaxl10.chm137440
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Xor Method (Excel)
+# WorksheetFunction.Xor method (Excel)
 
 Returns a logical exclusive OR of all arguments.
 

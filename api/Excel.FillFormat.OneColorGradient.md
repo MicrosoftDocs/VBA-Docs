@@ -1,5 +1,5 @@
 ---
-title: FillFormat.OneColorGradient Method (Excel)
+title: FillFormat.OneColorGradient method (Excel)
 keywords: vbaxl10.chm115003
 f1_keywords:
 - vbaxl10.chm115003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.OneColorGradient Method (Excel)
+# FillFormat.OneColorGradient method (Excel)
 
 Sets the specified fill to a one-color gradient.
 

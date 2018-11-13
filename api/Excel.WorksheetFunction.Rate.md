@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rate Method (Excel)
+title: WorksheetFunction.Rate method (Excel)
 keywords: vbaxl10.chm137111
 f1_keywords:
 - vbaxl10.chm137111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Rate Method (Excel)
+# WorksheetFunction.Rate method (Excel)
 
 Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions. If the successive results of RATE do not converge to within 0.0000001 after 20 iterations, RATE returns the #NUM! error value.
 

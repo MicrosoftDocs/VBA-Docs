@@ -1,5 +1,5 @@
 ---
-title: PivotField.AddPageItem Method (Excel)
+title: PivotField.AddPageItem method (Excel)
 keywords: vbaxl10.chm240136
 f1_keywords:
 - vbaxl10.chm240136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AddPageItem Method (Excel)
+# PivotField.AddPageItem method (Excel)
 
 Adds an additional item to a multiple item page field.
 

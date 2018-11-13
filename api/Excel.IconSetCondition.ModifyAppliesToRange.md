@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.ModifyAppliesToRange Method (Excel)
+title: IconSetCondition.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm812077
 f1_keywords:
 - vbaxl10.chm812077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.ModifyAppliesToRange Method (Excel)
+# IconSetCondition.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbooks.OpenXML Method (Excel)
+title: Workbooks.OpenXML method (Excel)
 keywords: vbaxl10.chm203088
 f1_keywords:
 - vbaxl10.chm203088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.OpenXML Method (Excel)
+# Workbooks.OpenXML method (Excel)
 
 Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 

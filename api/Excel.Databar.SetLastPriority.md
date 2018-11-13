@@ -1,5 +1,5 @@
 ---
-title: Databar.SetLastPriority Method (Excel)
+title: Databar.SetLastPriority method (Excel)
 keywords: vbaxl10.chm810085
 f1_keywords:
 - vbaxl10.chm810085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.SetLastPriority Method (Excel)
+# Databar.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 

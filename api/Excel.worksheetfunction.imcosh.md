@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImCosh Method (Excel)
+title: WorksheetFunction.ImCosh method (Excel)
 keywords: vbaxl10.chm137464
 f1_keywords:
 - vbaxl10.chm137464
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImCosh Method (Excel)
+# WorksheetFunction.ImCosh method (Excel)
 
 Returns the hyperbolic cosine of a complex number.
 

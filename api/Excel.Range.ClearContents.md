@@ -1,5 +1,5 @@
 ---
-title: Range.ClearContents Method (Excel)
+title: Range.ClearContents method (Excel)
 keywords: vbaxl10.chm144095
 f1_keywords:
 - vbaxl10.chm144095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ClearContents Method (Excel)
+# Range.ClearContents method (Excel)
 
 Clears formulas and values from the range.
 

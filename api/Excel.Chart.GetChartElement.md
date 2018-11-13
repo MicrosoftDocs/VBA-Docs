@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (Excel)
+title: Chart.GetChartElement method (Excel)
 keywords: vbaxl10.chm149161
 f1_keywords:
 - vbaxl10.chm149161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.GetChartElement Method (Excel)
+# Chart.GetChartElement method (Excel)
 
 Returns information about the chart element at specified X and Y coordinates. This method is unusual in that you specify values for only the first two arguments. Microsoft Excel fills in the other arguments, and your code should examine those values when the method returns.
 

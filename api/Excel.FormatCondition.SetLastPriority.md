@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.SetLastPriority Method (Excel)
+title: FormatCondition.SetLastPriority method (Excel)
 keywords: vbaxl10.chm512092
 f1_keywords:
 - vbaxl10.chm512092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.SetLastPriority Method (Excel)
+# FormatCondition.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 

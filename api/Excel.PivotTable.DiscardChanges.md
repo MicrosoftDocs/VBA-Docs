@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DiscardChanges Method (Excel)
+title: PivotTable.DiscardChanges method (Excel)
 keywords: vbaxl10.chm235193
 f1_keywords:
 - vbaxl10.chm235193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DiscardChanges Method (Excel)
+# PivotTable.DiscardChanges method (Excel)
 
 Discards all changes in the edited cells of a PivotTable report based on an OLAP data source.
 

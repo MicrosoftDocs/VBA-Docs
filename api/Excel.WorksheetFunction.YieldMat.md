@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.YieldMat Method (Excel)
+title: WorksheetFunction.YieldMat method (Excel)
 keywords: vbaxl10.chm137309
 f1_keywords:
 - vbaxl10.chm137309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.YieldMat Method (Excel)
+# WorksheetFunction.YieldMat method (Excel)
 
 Returns the annual yield of a security that pays interest at maturity.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddConnector Method (Excel)
+title: Shapes.AddConnector method (Excel)
 keywords: vbaxl10.chm638078
 f1_keywords:
 - vbaxl10.chm638078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddConnector Method (Excel)
+# Shapes.AddConnector method (Excel)
 
 Creates a connector. Returns a  **[Shape](Excel.Shape.md)** object that represents the new connector. When a connector is added, it's not connected to anything. Use the **[BeginConnect](Excel.ConnectorFormat.BeginConnect.md)** and **[EndConnect](Excel.ConnectorFormat.EndConnect.md)** methods to attach the beginning and end of a connector to other shapes in the document.
 

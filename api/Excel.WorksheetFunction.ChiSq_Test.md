@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Test Method (Excel)
+title: WorksheetFunction.ChiSq_Test method (Excel)
 keywords: vbaxl10.chm137361
 f1_keywords:
 - vbaxl10.chm137361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiSq_Test Method (Excel)
+# WorksheetFunction.ChiSq_Test method (Excel)
 
 Returns the test for independence.
 

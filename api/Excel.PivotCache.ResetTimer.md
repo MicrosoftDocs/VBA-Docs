@@ -1,5 +1,5 @@
 ---
-title: PivotCache.ResetTimer Method (Excel)
+title: PivotCache.ResetTimer method (Excel)
 keywords: vbaxl10.chm227093
 f1_keywords:
 - vbaxl10.chm227093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.ResetTimer Method (Excel)
+# PivotCache.ResetTimer method (Excel)
 
 Resets the refresh timer for the specified query table or PivotTable report to the last interval you set using the  **[RefreshPeriod](Excel.PivotCache.RefreshPeriod.md)** property.
 

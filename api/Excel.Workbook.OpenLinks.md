@@ -1,5 +1,5 @@
 ---
-title: Workbook.OpenLinks Method (Excel)
+title: Workbook.OpenLinks method (Excel)
 keywords: vbaxl10.chm199120
 f1_keywords:
 - vbaxl10.chm199120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.OpenLinks Method (Excel)
+# Workbook.OpenLinks method (Excel)
 
 Opens the supporting documents for a link or links.
 
