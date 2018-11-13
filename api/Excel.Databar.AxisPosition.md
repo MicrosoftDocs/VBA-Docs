@@ -25,7 +25,7 @@ Returns or sets the position of the axis of the data bars specified by a conditi
 
 ## Return value
 
- **[XlDataBarAxisPosition](Excel.XlDataBarAxisPosition.md)**
+ **[xlDataBarAxisPosition](Excel.XlDataBarAxisPosition.md)**
 
 
 ## Remarks

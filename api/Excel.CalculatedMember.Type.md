@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.Type property (Excel)
 
-Returns a  **[XlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value that represents the calculated member type.
+Returns a  **[xlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value that represents the calculated member type.
 
 
 ## Syntax

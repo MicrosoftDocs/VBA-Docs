@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.AlertStyle property (Excel)
 
-Returns the validation alert style. Read-only  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** .
+Returns the validation alert style. Read-only  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** .
 
 
 ## Syntax

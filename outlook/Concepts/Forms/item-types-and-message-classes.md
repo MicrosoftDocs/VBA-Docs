@@ -24,7 +24,7 @@ ms.date: 06/08/2017
 |IPM.Document|Documents|
 |IPM.OLE.Class|Exception item of a recurrence series|
 |IPM|Items for which the specified form cannot be found|
-|IPM.Note|E-mail messages|
+|IPM.Note|Email messages|
 |IPM.Note.IMC.Notification|Reports from the Internet Mail Connect (the Exchange Server gateway to the Internet)|
 |IPM.Note.Rules.OofTemplate.Microsoft|Out-of-office templates|
 |IPM.Post|Posting notes in a folder|

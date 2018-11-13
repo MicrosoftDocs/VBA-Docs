@@ -20,7 +20,7 @@ A collection of all the  **[Axis](Excel.Axis(object).md)** objects in the specif
 
 Use the  **Axes** method to return the **Axes** collection.
 
-Use  **Axes** ( _type_, _group_ ), where _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **[XlAxisType](Excel.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[XlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Excel.Chart.Axes.md)** method.
+Use  **Axes** ( _type_, _group_ ), where _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. _Type_ can be one of the following **[xlAxisType](Excel.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[xlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Excel.Chart.Axes.md)** method.
 
 
 ## Example

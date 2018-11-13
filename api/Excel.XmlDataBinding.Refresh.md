@@ -25,7 +25,7 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
 
 ## Return value
 
-An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## See also

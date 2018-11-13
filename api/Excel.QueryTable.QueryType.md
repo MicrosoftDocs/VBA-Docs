@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.QueryType property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[XlQueryType](Excel.XlQueryType.md)** .
+Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[xlQueryType](Excel.XlQueryType.md)** .
 
 
 ## Syntax

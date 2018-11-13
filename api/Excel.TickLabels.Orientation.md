@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the text orientation.
 
 ## Remarks
 
-The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[XlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
+The value of this property can be an integer value from - 90 to 90 degrees or one of the  **[xlTickLabelOrientation](Excel.XlTickLabelOrientation.md)** constants.
 
 
 ## See also

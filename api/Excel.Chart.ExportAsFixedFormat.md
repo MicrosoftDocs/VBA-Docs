@@ -31,7 +31,7 @@ Exports to a file of the specified format.
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **XlFixedFormatType**|The type of file format to export to.|
 | _Filename_|Optional| **Variant**|The file name of the file to be saved. You can include a full path, or Microsoft Excel saves the file in the current folder.|
-| _Quality_|Optional| **Variant**|Optional  **[XlFixedFormatQuality](Excel.XlFixedFormatQuality.md)** . Specifies the quality of the published file.|
+| _Quality_|Optional| **Variant**|Optional  **[xlFixedFormatQuality](Excel.XlFixedFormatQuality.md)** . Specifies the quality of the published file.|
 | _IncludeDocProperties_|Optional| **Variant**| **True** to include the document properties; otherwise **False** .|
 | _IgnorePrintAreas_|Optional| **Variant**| **True** to ignore any print areas set when publishing; otherwise **False** .|
 | _From_|Optional| **Variant**|The number of the page at which to start publishing. If this argument is omitted, publishing starts at the beginning.|

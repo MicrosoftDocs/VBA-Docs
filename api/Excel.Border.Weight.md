@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.Weight property (Excel)
 
-Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
+Returns or sets a  **[xlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Parameter.Type property (Excel)
 
-Returns a  **[XlParameterType](Excel.XlParameterType.md)** value that represents the parameter type.
+Returns a  **[xlParameterType](Excel.XlParameterType.md)** value that represents the parameter type.
 
 
 ## Syntax

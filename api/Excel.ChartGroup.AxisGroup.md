@@ -25,7 +25,7 @@ Returns or sets the group for the specified chart. Read/write
 
 ## Return value
 
- **[XlAxisGroup](Excel.XlAxisGroup.md)**
+ **[xlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## Remarks

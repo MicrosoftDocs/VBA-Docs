@@ -44,7 +44,7 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupJapaneseReplyForms**|137|Japanese Reply Forms|
 | **pbWizardGroupJapaneseSidebars**|143|Japanese Sidebars|
 | **pbWizardGroupJapaneseTableOfContents**|142|Japanese Table Of Contents|
-| **pbWizardGroupJapaneseWebButtonEmail**|182|Japanese Web Button E-mail|
+| **pbWizardGroupJapaneseWebButtonEmail**|182|Japanese Web Button Email|
 | **pbWizardGroupJapaneseWebButtonHome**|183|Japanese Web Button Home|
 | **pbWizardGroupJapaneseWebButtonLink**|184|Japanese Web Button Link|
 | **pbWizardGroupJapaneseWebMastheads**|138|Japanese Web Mastheads|
@@ -62,7 +62,7 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupReplyForms**|79|Reply Forms|
 | **pbWizardGroupSidebars**|107|Sidebars|
 | **pbWizardGroupTableOfContents**|106|Table of Contents|
-| **pbWizardGroupWebButtonsEmail**|133|Web Buttons E-mail|
+| **pbWizardGroupWebButtonsEmail**|133|Web Buttons Email|
 | **pbWizardGroupWebButtonsHome**|134|Web Buttons Home|
 | **pbWizardGroupWebButtonsLink**|136|Web Buttons Link|
 | **pbWizardGroupWebCalendars**|35|Web Calendars|

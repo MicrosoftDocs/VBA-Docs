@@ -30,7 +30,7 @@ Selects part of a PivotTable report.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The part of the PivotTable report to select.|
-| _Mode_|Optional| **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)**|Specifies the structured selection mode.|
+| _Mode_|Optional| **[xlPTSelectionMode](Excel.XlPTSelectionMode.md)**|Specifies the structured selection mode.|
 | _UseStandardName_|Optional| **Variant**| **True** for recorded macros that will play back in other locales.|
 
 ## Remarks

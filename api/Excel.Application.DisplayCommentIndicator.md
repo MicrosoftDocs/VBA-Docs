@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayCommentIndicator property (Excel)
 
-Returns or sets the way cells display comments and indicators. Can be one of the  **[XlCommentDisplayMode](Excel.XlCommentDisplayMode.md)** constants.
+Returns or sets the way cells display comments and indicators. Can be one of the  **[xlCommentDisplayMode](Excel.XlCommentDisplayMode.md)** constants.
 
 
 ## Syntax

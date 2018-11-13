@@ -25,7 +25,7 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
 
 ## Return value
 
- **[XlOartVerticalOverflow](Excel.XlOartVerticalOverflow.md)**
+ **[xlOartVerticalOverflow](Excel.XlOartVerticalOverflow.md)**
 
 
 ## Remarks

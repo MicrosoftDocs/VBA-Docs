@@ -25,7 +25,7 @@ Returns or sets what value to allocate when performing what-if analysis on a Piv
 
 ## Return value
 
- **[XlAllocationValue](Excel.XlAllocationValue.md)**
+ **[xlAllocationValue](Excel.XlAllocationValue.md)**
 
 
 ## Remarks

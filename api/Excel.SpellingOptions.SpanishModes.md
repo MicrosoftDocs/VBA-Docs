@@ -25,7 +25,7 @@ Returns or sets the mode for checking the spelling of Spanish. Read/write
 
 ## Return value
 
- **[XlSpanishModes](Excel.XlSpanishModes.md)**
+ **[xlSpanishModes](Excel.XlSpanishModes.md)**
 
 
 ## See also

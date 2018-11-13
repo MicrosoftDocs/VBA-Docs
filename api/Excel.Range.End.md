@@ -29,7 +29,7 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell a
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[XlDirection](Excel.XlDirection.md)**|The direction in which to move.|
+| _Direction_|Required| **[xlDirection](Excel.XlDirection.md)**|The direction in which to move.|
 
 ## Example
 

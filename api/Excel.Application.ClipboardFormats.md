@@ -33,7 +33,7 @@ Returns the formats that are currently on the Clipboard, as an array of numeric 
 
 ## Remarks
 
-This property returns an array of numeric values. To determine whether a particular format is on the Clipboard compare each element of the array with one of the  **[XlClipboardFormat](Excel.XlClipboardFormat.md)** constants.
+This property returns an array of numeric values. To determine whether a particular format is on the Clipboard compare each element of the array with one of the  **[xlClipboardFormat](Excel.XlClipboardFormat.md)** constants.
 
 
 ## Example

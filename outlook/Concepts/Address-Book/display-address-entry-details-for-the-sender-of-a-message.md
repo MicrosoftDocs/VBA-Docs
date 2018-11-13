@@ -19,7 +19,7 @@ The recipient of each mail message deliverable by a transport provider has an ad
     
       - If the address entry is a contact item in the Outlook Contacts folder, or if the SMTP address of the sender matches an email address of one contact item in the default Contacts folder, then display the address entry information in a Contacts inspector. To match email addresses in the Contacts folder, use the Table object to do a quick filter on the  **[ContactItem.Email1Address](../../../api/Outlook.ContactItem.Email1Address.md)**,  **[ContactItem.Email2Address](../../../api/Outlook.ContactItem.Email2Address.md)**, and  **[ContactItem.Email3Address](../../../api/Outlook.ContactItem.Email3Address.md)** properties of items in that folder.
     
-  - In all other cases, display the address entry information in the  **E-mail Properties** dialog box.
+  - In all other cases, display the address entry information in the  **Email Properties** dialog box.
     
 
 ## Remarks

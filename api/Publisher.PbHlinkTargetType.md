@@ -19,7 +19,7 @@ Represents the type of hyperlink.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **pbHlinkTargetTypeEmail**|2|E-mail|
+| **pbHlinkTargetTypeEmail**|2|Email|
 | **pbHlinkTargetTypeFirstPage**|3|First Page|
 | **pbHlinkTargetTypeLastPage**|4|Last Page|
 | **pbHlinkTargetTypeNextPage**|5|Next Page|

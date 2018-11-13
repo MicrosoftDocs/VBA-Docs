@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.SourceType property (Excel)
 
-Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
+Returns a  **[xlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
 
 
 ## Syntax

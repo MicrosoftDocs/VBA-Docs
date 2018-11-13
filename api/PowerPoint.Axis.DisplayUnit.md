@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.DisplayUnit Property (PowerPoint)
 
-Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
+Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit](PowerPoint.XlDisplayUnit.md)**, **xlCustom**, or **xlNone**.
 
 
 ## Syntax

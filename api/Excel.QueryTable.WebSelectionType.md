@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.WebSelectionType property (Excel)
 
-Returns or sets a value that determines whether an entire Web page, all tables on the Web page, or only specific tables on the Web page are imported into a query table. Read/write  **[XlWebSelectionType](Excel.XlWebSelectionType.md)** .
+Returns or sets a value that determines whether an entire Web page, all tables on the Web page, or only specific tables on the Web page are imported into a query table. Read/write  **[xlWebSelectionType](Excel.XlWebSelectionType.md)** .
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns or sets the series type. Read/write  **Long** .
 
 ## Remarks
 
-You can use the following  **[XlConstants](Word.XlConstants.md)** constants for this property:
+You can use the following  **[xlConstants](Word.XlConstants.md)** constants for this property:
 
 
 -  **xlColumn**

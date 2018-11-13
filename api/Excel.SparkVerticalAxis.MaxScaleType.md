@@ -25,7 +25,7 @@ Returns or sets how the maximum value of the vertical axis of the sparkline is s
 
 ## Return value
 
- **[XlSparkScale](Excel.XlSparkScale.md)**
+ **[xlSparkScale](Excel.XlSparkScale.md)**
 
 
 ## See also

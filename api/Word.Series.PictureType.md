@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.PictureType property (Word)
 
-Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[XlChartPictureType](Word.xlchartpicturetype.md)** .
+Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[xlChartPictureType](Word.xlchartpicturetype.md)** .
 
 
 ## Syntax

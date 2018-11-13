@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.SourceType property (Excel)
 
-Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
+Returns a  **[xlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
 
 
 ## Syntax

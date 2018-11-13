@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.RefreshStyle property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[XlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[xlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
 
 
 ## Syntax

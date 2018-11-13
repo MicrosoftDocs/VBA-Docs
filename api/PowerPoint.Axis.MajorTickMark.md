@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorTickMark Property (PowerPoint)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](PowerPoint.XlTickMark.md)**.
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](PowerPoint.XlTickMark.md)**.
 
 
 ## Syntax

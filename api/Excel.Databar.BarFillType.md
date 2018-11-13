@@ -25,7 +25,7 @@ Returns or sets how a data bar is filled with color. Read/write
 
 ## Return value
 
- **[XlDataBarFillType](Excel.XlDataBarFillType.md)**
+ **[xlDataBarFillType](Excel.XlDataBarFillType.md)**
 
 
 ## Remarks

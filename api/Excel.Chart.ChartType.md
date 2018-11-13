@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartType property (Excel)
 
-Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)** .
+Returns or sets the chart type. Read/write  **[xlChartType](Excel.XlChartType.md)** .
 
 
 ## Syntax

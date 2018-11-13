@@ -25,7 +25,7 @@ Returns or sets a **Variant** value that represents the vertical alignment of th
 
 ## Remarks
 
-The value of this property can be set to one of the **[XlVAlign](Excel.XlVAlign.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
+The value of this property can be set to one of the **[xlVAlign](Excel.XlVAlign.md)** constants (**xlVAlignBottom**, **xlVAlignCenter**, **xlVAlignDistributed**, **xlVAlignJustify**, or **xlVAlignTop**).
 
 
 ## See also

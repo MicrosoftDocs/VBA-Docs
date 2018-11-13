@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintErrors property (Excel)
 
-Sets or returns an  **[XlPrintErrors](Excel.XlPrintErrors.md)** contstant specifying the type of print error displayed. This feature allows users to suppress the display of error values when printing a worksheet. Read/write .
+Sets or returns an  **[xlPrintErrors](Excel.XlPrintErrors.md)** contstant specifying the type of print error displayed. This feature allows users to suppress the display of error values when printing a worksheet. Read/write .
 
 
 ## Syntax

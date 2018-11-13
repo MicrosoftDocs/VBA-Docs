@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.SelectionMode property (Excel)
 
-Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)** .
+Returns or sets the PivotTable report structured selection mode. Read/write  **[xlPTSelectionMode](Excel.XlPTSelectionMode.md)** .
 
 
 ## Syntax

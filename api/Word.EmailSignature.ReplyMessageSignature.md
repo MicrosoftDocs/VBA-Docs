@@ -25,7 +25,7 @@ Returns or sets the signature that Microsoft Word appends to email message repli
 
 ## Remarks
 
-When setting this property, you must use the name of an email signature that you have created in the  **E-mail Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
+When setting this property, you must use the name of an email signature that you have created in the  **Email Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
 
 
 ## Example

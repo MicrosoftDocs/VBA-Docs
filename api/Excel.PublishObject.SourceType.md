@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.SourceType property (Excel)
 
-Returns a  **[XlSourceType](Excel.XlSourceType.md)** value that represents the type of item being published.
+Returns a  **[xlSourceType](Excel.XlSourceType.md)** value that represents the type of item being published.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Position property (Word)
 
-Returns or sets the position of the data label. Read/write  **[XlDataLabelPosition](Word.xldatalabelposition.md)** .
+Returns or sets the position of the data label. Read/write  **[xlDataLabelPosition](Word.xldatalabelposition.md)** .
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Represents a built-in Microsoft Excel dialog box.
 
  The **Dialog** object is a member of the **[Dialogs](Excel.Dialogs.md)** collection. The **Dialogs** collection contains all the built-in dialog boxes in Microsoft Excel. You cannot create a new built-in dialog box or add one to the collection. The only useful thing you can do with a **Dialog** object is use it with the **[Show](Excel.Dialog.Show.md)** method to display the corresponding dialog box.
 
-The Microsoft Excel Visual Basic object library includes built-in constants for many of the built-in dialog boxes. Each constant is formed from the prefix "xlDialog" followed by the name of the dialog box. For example, the  **Apply Names** dialog box constant is **xlDialogApplyNames**, and the **Find File** dialog box constant is **xlDialogFindFile**. These constants are members of the **[XlBuiltinDialog](Excel.XlBuiltInDialog.md)** enumerated type.
+The Microsoft Excel Visual Basic object library includes built-in constants for many of the built-in dialog boxes. Each constant is formed from the prefix "xlDialog" followed by the name of the dialog box. For example, the  **Apply Names** dialog box constant is **xlDialogApplyNames**, and the **Find File** dialog box constant is **xlDialogFindFile**. These constants are members of the **[xlBuiltinDialog](Excel.XlBuiltInDialog.md)** enumerated type.
 
 
 ## Example

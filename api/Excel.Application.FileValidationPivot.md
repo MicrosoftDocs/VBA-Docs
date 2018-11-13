@@ -25,7 +25,7 @@ Returns or sets how Excel will validate the contents of the data caches for Pivo
 
 ## Return value
 
- **[XlFileValidationPivotMode](Excel.XlFileValidationPivotMode.md)**
+ **[xlFileValidationPivotMode](Excel.XlFileValidationPivotMode.md)**
 
 
 ## Remarks

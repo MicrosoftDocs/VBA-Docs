@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.IndicatorColorIndex property (Excel)
 
-Returns or sets the color of the indicator for error checking options. Read/write  **[XlColorIndex](Excel.XlColorIndex.md)** .
+Returns or sets the color of the indicator for error checking options. Read/write  **[xlColorIndex](Excel.XlColorIndex.md)** .
 
 
 ## Syntax

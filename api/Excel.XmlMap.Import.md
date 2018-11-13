@@ -34,7 +34,7 @@ Imports data from the specified XML data file into cells that have been mapped t
 
 ## Return value
 
-A  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+A  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## Remarks

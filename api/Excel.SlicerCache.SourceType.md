@@ -25,7 +25,7 @@ Returns the kind of data source the slicer is connected to. Read-only
 
 ## Return value
 
- **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)**
+ **[xlPivotTableSourceType](Excel.XlPivotTableSourceType.md)**
 
 
 ## Remarks

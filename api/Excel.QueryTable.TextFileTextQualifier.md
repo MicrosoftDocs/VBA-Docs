@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileTextQualifier property (Excel)
 
-Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[XlTextQualifier](Excel.XlTextQualifier.md)** .
+Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[xlTextQualifier](Excel.XlTextQualifier.md)** .
 
 
 ## Syntax

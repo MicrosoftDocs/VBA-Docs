@@ -23,7 +23,7 @@ Returns or sets how to plot the sparkline when the data on which it is based is 
 
 ## Return value
 
- **[XlSparklineRowCol](Excel.XlSparklineRowCol.md)**
+ **[xlSparklineRowCol](Excel.XlSparklineRowCol.md)**
 
 
 ## Remarks

@@ -25,7 +25,7 @@ Returns or sets the end style for the error bars. Read/write  **Long** .
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlEndStyleCap](Word.xlendstylecap.md)** constants:
+The value of this property can be one of the following  **[xlEndStyleCap](Word.xlendstylecap.md)** constants:
 
 
 -  **xlCap**

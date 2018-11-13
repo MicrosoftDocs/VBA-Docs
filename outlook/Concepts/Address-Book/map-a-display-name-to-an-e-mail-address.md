@@ -1,12 +1,12 @@
 ---
-title: Map a Display Name to an E-mail Address
+title: Map a Display Name to an Email Address
 ms.prod: outlook
 ms.assetid: ac4e12f8-ea0f-02df-5ce9-23a1c7eda8e0
 ms.date: 06/08/2017
 ---
 
 
-# Map a Display Name to an E-mail Address
+# Map a Display Name to an Email Address
 
 This topic shows a code sample in Visual Basic for Applications (VBA) that takes a display name and tries to map it to an email address known to the messaging system in the current session. 
 

@@ -33,7 +33,7 @@ Creates a shortcut to the file that contains the list of recipients or products 
 
 ## Remarks
 
-The  **CreateShortcut** method corresponds to the **Save a shortcut to recipient list** command in the **Mail Merge** and **E-mail Merge** task panes, and the **Save a shortcut to product list** command in the **Catalog Merge** task pane in the Microsoft Publisher user interface.
+The  **CreateShortcut** method corresponds to the **Save a shortcut to recipient list** command in the **Mail Merge** and **Email Merge** task panes, and the **Save a shortcut to product list** command in the **Catalog Merge** task pane in the Microsoft Publisher user interface.
 
 Mailing list recipient files have the .ols extension (for Microsoft Office List Shortcut).
 

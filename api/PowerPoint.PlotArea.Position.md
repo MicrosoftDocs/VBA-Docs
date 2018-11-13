@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PlotArea.Position Property (PowerPoint)
 
-Returns or sets the position of the plot area on the chart. Read/write  **[XlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
+Returns or sets the position of the plot area on the chart. Read/write  **[xlChartElementPosition](PowerPoint.XlChartElementPosition.md)**.
 
 
 ## Syntax

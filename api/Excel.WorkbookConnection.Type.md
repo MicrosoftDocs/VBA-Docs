@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Type property (Excel)
 
-Returns the workbook connection type. Read-only  **[XlConnectionType](Excel.XlConnectionType.md)** .
+Returns the workbook connection type. Read-only  **[xlConnectionType](Excel.XlConnectionType.md)** .
 
 
 ## Syntax

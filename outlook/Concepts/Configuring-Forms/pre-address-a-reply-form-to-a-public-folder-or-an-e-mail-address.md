@@ -1,12 +1,12 @@
 ---
-title: Pre-address a Reply Form to a Public Folder or an E-mail Address
+title: Pre-address a Reply Form to a Public Folder or an Email Address
 ms.prod: outlook
 ms.assetid: f6986661-b42b-0421-cf08-cecad4e0e7b1
 ms.date: 06/08/2017
 ---
 
 
-# Pre-address a Reply Form to a Public Folder or an E-mail Address
+# Pre-address a Reply Form to a Public Folder or an Email Address
 
  **Note**  To pre-address a form to a public folder, you must first add the public folder to your Contacts folder. 
 

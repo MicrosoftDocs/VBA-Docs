@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # VPageBreak.Type property (Excel)
 
-Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents the page break type.
+Returns or sets a  **[xlPageBreak](Excel.XlPageBreak.md)** value that represents the page break type.
 
 
 ## Syntax

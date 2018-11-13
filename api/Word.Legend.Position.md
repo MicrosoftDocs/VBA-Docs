@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.Position property (Word)
 
-Returns or sets the position of the legend on the chart. Read/write  **[XlLegendPosition](Word.xllegendposition.md)** .
+Returns or sets the position of the legend on the chart. Read/write  **[xlLegendPosition](Word.xllegendposition.md)** .
 
 
 ## Syntax

@@ -18,7 +18,7 @@ Specifies a type of mail merge document.
 |:-----|:-----|:-----|
 | **wdCatalog**|3|Catalog.|
 | **wdDirectory**|3|Directory.|
-| **wdEMail**|4|E-mail message.|
+| **wdEMail**|4|Email message.|
 | **wdEnvelopes**|2|Envelope.|
 | **wdFax**|5|Fax.|
 | **wdFormLetters**|0|Form letter.|

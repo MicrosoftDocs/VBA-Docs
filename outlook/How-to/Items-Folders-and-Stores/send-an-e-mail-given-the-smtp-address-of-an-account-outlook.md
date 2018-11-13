@@ -1,12 +1,12 @@
 ---
-title: Send an E-mail Given the SMTP Address of an Account (Outlook)
+title: Send an Email Given the SMTP Address of an Account (Outlook)
 ms.prod: outlook
 ms.assetid: 5e5f707d-8771-bd5f-945b-58537732d99a
 ms.date: 06/08/2017
 ---
 
 
-# Send an E-mail Given the SMTP Address of an Account (Outlook)
+# Send an Email Given the SMTP Address of an Account (Outlook)
 
 This topic shows how to create an email and send it from a Microsoft Outlook account, given the Simple Mail Transfer Protocol (SMTP) address of that account. 
 

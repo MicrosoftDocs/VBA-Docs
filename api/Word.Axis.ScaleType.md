@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.ScaleType property (Word)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](Word.xlscaletype.md)** .
+Returns or sets the value axis scale type. Read/write  **[xlScaleType](Word.xlscaletype.md)** .
 
 
 ## Syntax

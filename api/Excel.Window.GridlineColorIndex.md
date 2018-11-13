@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.GridlineColorIndex property (Excel)
 
-Returns or sets the gridline color as an index into the current color palette or as the following  **[XlColorIndex](Excel.XlColorIndex.md)** constant.
+Returns or sets the gridline color as an index into the current color palette or as the following  **[xlColorIndex](Excel.XlColorIndex.md)** constant.
 
 
 ## Syntax

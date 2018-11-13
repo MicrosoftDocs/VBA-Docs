@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CalculationState property (Excel)
 
-Returns an  **[XlCalculationState](Excel.XlCalculationState.md)** constant that indicates the calculation state of the application, for any calculations that are being performed in Microsoft Excel. Read-only.
+Returns an  **[xlCalculationState](Excel.XlCalculationState.md)** constant that indicates the calculation state of the application, for any calculations that are being performed in Microsoft Excel. Read-only.
 
 
 ## Syntax

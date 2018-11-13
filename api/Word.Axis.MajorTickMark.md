@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorTickMark property (Word)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)** .
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](Word.xltickmark.md)** .
 
 
 ## Syntax

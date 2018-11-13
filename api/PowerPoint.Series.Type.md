@@ -22,7 +22,7 @@ Returns or sets the series type. Read/write  **Long**.
 
 ## Remarks
 
-You can use the following  **[XlConstants](PowerPoint.XlConstants.md)** constants for this property:
+You can use the following  **[xlConstants](PowerPoint.XlConstants.md)** constants for this property:
 
 
 -  **xlColumn**

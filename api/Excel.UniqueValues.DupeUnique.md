@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.DupeUnique property (Excel)
 
-Returns or sets one of the constants of the  **[XlDupeUnique](Excel.XlDupeUnique.md)** enumeration, specifying if the conditional format rule is looking for unique or duplicate values.
+Returns or sets one of the constants of the  **[xlDupeUnique](Excel.XlDupeUnique.md)** enumeration, specifying if the conditional format rule is looking for unique or duplicate values.
 
 
 ## Syntax

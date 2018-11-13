@@ -25,7 +25,7 @@ Returns or sets what method to use to allocate values when performing what-if an
 
 ## Return value
 
- **[XlAllocationMethod](Excel.XlAllocationMethod.md)**
+ **[xlAllocationMethod](Excel.XlAllocationMethod.md)**
 
 
 ## Remarks

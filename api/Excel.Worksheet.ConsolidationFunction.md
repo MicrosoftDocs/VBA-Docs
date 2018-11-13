@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ConsolidationFunction property (Excel)
 
-Returns the function code used for the current consolidation. Can be one of the constants of  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** . Read-only **Long** .
+Returns the function code used for the current consolidation. Can be one of the constants of  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)** . Read-only **Long** .
 
 
 ## Syntax

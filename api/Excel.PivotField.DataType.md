@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DataType property (Excel)
 
-Returns a  **[XlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that represents the type of data in the PivotTable field.
+Returns a  **[xlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that represents the type of data in the PivotTable field.
 
 
 ## Syntax

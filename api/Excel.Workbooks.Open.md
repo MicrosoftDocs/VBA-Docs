@@ -43,7 +43,7 @@ Opens a workbook.
 | _Converter_|Optional| **Variant**|The index of the first file converter to try when opening the file. The specified file converter is tried first; if this converter does not recognize the file, all other converters are tried. The converter index consists of the row numbers of the converters returned by the  **[FileConverters](Excel.Application.FileConverters.md)** property.|
 | _AddToMru_|Optional| **Variant**| **True** to add this workbook to the list of recently used files. The default value is **False** .|
 | _Local_|Optional| **Variant**| **True** saves files against the language of Microsoft Excel (including control panel settings). **False** (default) saves files against the language of Visual Basic for Applications (VBA) (which is typically United States English unless the VBA project where Workbooks.Open is run from is an old internationalized XL5/95 VBA project).|
-| _CorruptLoad_|Optional| **[XlCorruptLoad](Excel.XlCorruptLoad.md)**|Can be one of the following constants:  **xlNormalLoad** , **xlRepairFile** and **xlExtractData** . The default behavior if no value is specified is **xlNormalLoad** and does not attempt recovery when initiated through the OM.|
+| _CorruptLoad_|Optional| **[xlCorruptLoad](Excel.XlCorruptLoad.md)**|Can be one of the following constants:  **xlNormalLoad** , **xlRepairFile** and **xlExtractData** . The default behavior if no value is specified is **xlNormalLoad** and does not attempt recovery when initiated through the OM.|
 
 ## Return value
 

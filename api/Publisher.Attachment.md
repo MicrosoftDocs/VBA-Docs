@@ -18,7 +18,7 @@ Represents an attachment to a merged email message.
 
 ## Remarks
 
-An **Attachment** object corresponds to one of the attachments in the list of attachments in the **Attachments** box in the **Merge to E-mail** dialog box in the Microsoft Publisher user interface. (On the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**.)
+An **Attachment** object corresponds to one of the attachments in the list of attachments in the **Attachments** box in the **Merge to Email** dialog box in the Microsoft Publisher user interface. (On the **File** menu, point to **Send Email**, click  **Send Email Merge**, and then click  **Options**.)
 
 To remove the attachment from the merged email, use the  **Delete** method of the **Attachment** object.
 

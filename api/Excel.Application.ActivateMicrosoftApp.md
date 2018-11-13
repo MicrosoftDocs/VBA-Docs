@@ -29,7 +29,7 @@ Activates a Microsoft application. If the application is already running, this m
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **[XlMSApplication](Excel.XlMSApplication.md)**|Specifies the Microsoft application to activate.|
+| _Index_|Required| **[xlMSApplication](Excel.XlMSApplication.md)**|Specifies the Microsoft application to activate.|
 
 ## Example
 

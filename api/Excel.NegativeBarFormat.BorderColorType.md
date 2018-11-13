@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Return value
 
- **[XlDataBarNegativeColorType](Excel.XlDataBarNegativeColorType.md)**
+ **[xlDataBarNegativeColorType](Excel.XlDataBarNegativeColorType.md)**
 
 
 ## Remarks

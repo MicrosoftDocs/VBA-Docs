@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableSelection property (Excel)
 
-Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](Excel.XlEnableSelection.md)** .
+Returns or sets what can be selected on the sheet. Read/write  **[xlEnableSelection](Excel.XlEnableSelection.md)** .
 
 
 ## Syntax

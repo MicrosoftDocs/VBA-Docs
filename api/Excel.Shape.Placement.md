@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Placement property (Excel)
 
-Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
+Returns or sets an  **[xlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
 
 
 ## Syntax

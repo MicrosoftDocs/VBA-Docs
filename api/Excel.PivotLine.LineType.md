@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotLine.LineType property (Excel)
 
-Returns an  **[XlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
+Returns an  **[xlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
 
 
 ## Syntax

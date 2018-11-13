@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that represents the color of the font.
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

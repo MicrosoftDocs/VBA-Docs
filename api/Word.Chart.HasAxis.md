@@ -29,8 +29,8 @@ Returns or sets which axes exist on the chart. Read/write  **Variant** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Optional| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](Word.xlaxistype.md)** constants.|
-| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](Word.xlaxisgroup.md)** constants.|
+| _Index1_|Optional| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[xlAxisType](Word.xlaxistype.md)** constants.|
+| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[xlAxisGroup](Word.xlaxisgroup.md)** constants.|
 
 ## Remarks
 

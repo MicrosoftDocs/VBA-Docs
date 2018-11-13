@@ -19,7 +19,7 @@ The collection of  **[Attachment](Publisher.Attachment.md)** objects that repres
 
 ## Remarks
 
-The  **Attachments** collection corresponds to the list of attachments in the **Attachments** box in the **Merge to E-mail** dialog box in the Microsoft Publisher user interface (on the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**).
+The  **Attachments** collection corresponds to the list of attachments in the **Attachments** box in the **Merge to Email** dialog box in the Microsoft Publisher user interface (on the **File** menu, point to **Send Email**, click  **Send Email Merge**, and then click  **Options**).
  
 
  

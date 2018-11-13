@@ -19,7 +19,7 @@ Represents the email container (envelope) that holds the Microsoft Publisher doc
 
 ## Remarks
 
-The properties of the  **EmailMergeEnvelope** object correspond to the combination of both required and optional settings in the **Merge to E-mail** dialog box in the Publisher user interface (on the **File** menu, point to **Send E-mail**, click  **Send E-mail Merge**, and then click  **Options**). 
+The properties of the  **EmailMergeEnvelope** object correspond to the combination of both required and optional settings in the **Merge to Email** dialog box in the Publisher user interface (on the **File** menu, point to **Send Email**, click  **Send Email Merge**, and then click  **Options**). 
  
 
  
@@ -34,7 +34,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to a
  
 
  
-The data source referenced in this example is a simple tab-deliimited text file that contains three columns with the headings "First," "Last," and "E-mail Address" respectively.
+The data source referenced in this example is a simple tab-deliimited text file that contains three columns with the headings "First," "Last," and "Email Address" respectively.
  
 
  
@@ -59,7 +59,7 @@ Public Sub EmailMergeEnvelope_Example()
  Set pubMailMerge = ThisDocument.MailMerge 
  pubMailMerge.OpenDataSource "PathToFile \DataSource.txt" 
  
- 'Assign "E-mail Address" to the To field of the email message. 
+ 'Assign "Email Address" to the To field of the email message. 
  pubMailMerge.EmailMergeEnvelope.To = pubMailMerge.DataSource.DataFields.Item(3) 
  
  'Add text to the Subject field of the email message. 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.SortOn property (Excel)
 
-Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](Excel.XlSortOn.md)** .
+Returns or sets what attribute of the cell to sort on . Read/write  **[xlSortOn](Excel.XlSortOn.md)** .
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.Version property (Excel)
 
-Returns a  **[XlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value that represents the Microsoft Excel version number.
+Returns a  **[xlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value that represents the Microsoft Excel version number.
 
 
 ## Syntax

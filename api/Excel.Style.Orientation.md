@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Orientation property (Excel)
 
-Returns or sets a  **[XlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
+Returns or sets a  **[xlOrientation](Excel.XlOrientation.md)** value that represents the text orientation.
 
 
 ## Syntax

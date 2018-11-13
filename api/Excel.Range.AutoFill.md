@@ -30,7 +30,7 @@ Performs an autofill on the cells in the specified range.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Required| **[Range](Excel.Range(object).md)**|The cells to be filled. The destination must include the source range.|
-| _Type_|Optional| **[XlAutoFillType](Excel.XlAutoFillType.md)**|Specifies the fill type.|
+| _Type_|Optional| **[xlAutoFillType](Excel.XlAutoFillType.md)**|Specifies the fill type.|
 
 ## Return value
 

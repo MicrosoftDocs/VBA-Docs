@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CommandUnderlines property (Excel)
 
-Returns or sets the state of the command underlines in Microsoft Excel for the Macintosh. Can be one of the constants of  **[XlCommandUnderlines](Excel.XlCommandUnderlines.md)** . Read/write **Long** .
+Returns or sets the state of the command underlines in Microsoft Excel for the Macintosh. Can be one of the constants of  **[xlCommandUnderlines](Excel.XlCommandUnderlines.md)** . Read/write **Long** .
 
 
 ## Syntax

@@ -67,7 +67,7 @@ The following statement corresponds to the  **For Presentation** command in the 
 TimelineExport ExportWidth:=916
 ```
 
-The following statement corresponds to the  **For E-mail** command in the **Copy Timeline** drop-down menu. The actual width of the exported image is 554 pixels.
+The following statement corresponds to the  **For Email** command in the **Copy Timeline** drop-down menu. The actual width of the exported image is 554 pixels.
 
 
 

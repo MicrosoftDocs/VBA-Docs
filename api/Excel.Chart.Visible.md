@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Visible property (Excel)
 
-Returns or sets an  **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
+Returns or sets an  **[xlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
 
 
 ## Syntax

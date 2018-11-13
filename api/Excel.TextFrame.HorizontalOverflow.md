@@ -25,7 +25,7 @@ Returns or sets the horizontal overflow setting for the specified object. Read/w
 
 ## Return value
 
- **[XlOartHorizontalOverflow](Excel.XlOartHorizontalOverflow.md)**
+ **[xlOartHorizontalOverflow](Excel.XlOartHorizontalOverflow.md)**
 
 
 ## Remarks

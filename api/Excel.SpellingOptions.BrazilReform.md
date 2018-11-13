@@ -25,7 +25,7 @@ Returns or sets the mode for checking the spelling of Brazilian Portuguese. Read
 
 ## Return value
 
- **[XlPortugueseReform](Excel.XlPortugueseReform.md)**
+ **[xlPortugueseReform](Excel.XlPortugueseReform.md)**
 
 
 ## Remarks

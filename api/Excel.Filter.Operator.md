@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Operator property (Excel)
 
-Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
+Returns an  **[xlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
 
 
 ## Syntax

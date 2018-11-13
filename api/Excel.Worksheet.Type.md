@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.Type property (Excel)
 
-Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
+Returns an  **[xlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
 
 
 ## Syntax

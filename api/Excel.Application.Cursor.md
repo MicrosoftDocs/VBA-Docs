@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Cursor property (Excel)
 
-Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write  **[XlMousePointer](Excel.XlMousePointer.md)** .
+Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write  **[xlMousePointer](Excel.XlMousePointer.md)** .
 
 
 ## Syntax

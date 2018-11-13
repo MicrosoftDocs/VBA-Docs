@@ -27,7 +27,7 @@ Applies data labels to a series.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Word.xldatalabelstype.md)**|The type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Word.xldatalabelstype.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Word.Chart.md)** and **[Series](Word.Series.md)** objects, **True** if the series has leader lines.|

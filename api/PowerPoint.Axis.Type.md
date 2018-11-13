@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Type Property (PowerPoint)
 
-Returns the axis type. Read-only  **[XlAxisType](PowerPoint.XlAxisType.md)**.
+Returns the axis type. Read-only  **[xlAxisType](PowerPoint.XlAxisType.md)**.
 
 
 ## Syntax

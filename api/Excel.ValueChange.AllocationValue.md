@@ -25,7 +25,7 @@ Returns what value to allocate when performing what-if analysis. Read-only
 
 ## Return value
 
- **[XlAllocationValue](Excel.XlAllocationValue.md)**
+ **[xlAllocationValue](Excel.XlAllocationValue.md)**
 
 
 ## Remarks

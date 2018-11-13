@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PageBreak property (Excel)
 
-Returns or sets the location of a page break. Can be one of the following  **[XlPageBreak](Excel.XlPageBreak.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
+Returns or sets the location of a page break. Can be one of the following  **[xlPageBreak](Excel.XlPageBreak.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
 
 
 ## Syntax

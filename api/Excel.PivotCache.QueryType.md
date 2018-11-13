@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.QueryType property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[XlQueryType](Excel.XlQueryType.md)** .
+Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[xlQueryType](Excel.XlQueryType.md)** .
 
 
 ## Syntax

@@ -26,7 +26,7 @@ Specifies a type of mapped data field.
 | **wdCountryRegion**|15|Country/region field.|
 | **wdCourtesyTitle**|2|Courtesy title field.|
 | **wdDepartment**|30|Department field.|
-| **wdEmailAddress**|20|E-mail address field.|
+| **wdEmailAddress**|20|Email address field.|
 | **wdFirstName**|3|First name field.|
 | **wdHomeFax**|19|Home fax field.|
 | **wdHomePhone**|18|Home phone field.|

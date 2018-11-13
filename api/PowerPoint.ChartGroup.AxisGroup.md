@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.AxisGroup Property (PowerPoint)
 
-Returns the type of axis group. Read/write  **[XlAxisGroup](PowerPoint.XlAxisGroup.md)**.
+Returns the type of axis group. Read/write  **[xlAxisGroup](PowerPoint.XlAxisGroup.md)**.
 
 
 ## Syntax

@@ -17,6 +17,6 @@ Specifies the type of document to which you are applying a theme.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDocument**|1|Document.|
-| **wdEmailMessage**|0|E-mail message.|
+| **wdEmailMessage**|0|Email message.|
 | **wdWebPage**|2|Web page.|
 

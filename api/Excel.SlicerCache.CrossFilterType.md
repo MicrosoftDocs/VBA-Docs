@@ -25,7 +25,7 @@ Returns or sets whether a slicer is participating in cross filtering with other 
 
 ## Return value
 
- **[XlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
+ **[xlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
 
 
 ## Remarks

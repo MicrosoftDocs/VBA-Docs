@@ -25,7 +25,7 @@ Returns or sets the state of the specified  **Protected View** window. Read/writ
 
 ## Return value
 
- **[XlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
+ **[xlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
 
 
 ## Example

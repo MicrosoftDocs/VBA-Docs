@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.Type property (Excel)
 
-Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
+Returns an  **[xlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.Type property (Excel)
 
-Returns an  **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
+Returns an  **[xlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
 
 
 ## Syntax

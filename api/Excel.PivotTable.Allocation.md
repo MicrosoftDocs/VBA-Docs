@@ -25,7 +25,7 @@ Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is ed
 
 ## Return value
 
- **[XlAllocation](Excel.XlAllocation.md)**
+ **[xlAllocation](Excel.XlAllocation.md)**
 
 
 ## Remarks

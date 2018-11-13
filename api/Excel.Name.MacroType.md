@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.MacroType property (Excel)
 
-Returns or sets what the name refers to. Read/write  **[XlXLMMacroType](Excel.XlXLMMacroType.md)** .
+Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.XlXLMMacroType.md)** .
 
 
 ## Syntax

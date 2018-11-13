@@ -30,7 +30,7 @@ Copies a range to the same area on all other worksheets in a collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Range_|Required| **Range**|The range to fill on all the worksheets in the collection. The range must be from a worksheet within the collection.|
-| _Type_|Optional| **[XlFillWith](Excel.XlFillWith.md)**|Specifies how to copy the range.|
+| _Type_|Optional| **[xlFillWith](Excel.XlFillWith.md)**|Specifies how to copy the range.|
 
 ## Example
 

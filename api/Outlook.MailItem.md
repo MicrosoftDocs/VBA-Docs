@@ -230,5 +230,5 @@ End Sub
 ## See also
 
 
-[Send an E-mail Given the SMTP Address of an Account (Outlook)](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)<br>
+[Send an Email Given the SMTP Address of an Account (Outlook)](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)<br>
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)

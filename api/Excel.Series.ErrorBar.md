@@ -29,9 +29,9 @@ Applies error bars to the series.  **Variant** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[XlErrorBarDirection](Excel.XlErrorBarDirection.md)**|The error bar direction.|
-| _Include_|Required| **[XlErrorBarInclude](Excel.XlErrorBarInclude.md)**|The error bar parts to include.|
-| _Type_|Required| **[XlErrorBarType](Excel.XlErrorBarType.md)**|The error bar type.|
+| _Direction_|Required| **[xlErrorBarDirection](Excel.XlErrorBarDirection.md)**|The error bar direction.|
+| _Include_|Required| **[xlErrorBarInclude](Excel.XlErrorBarInclude.md)**|The error bar parts to include.|
+| _Type_|Required| **[xlErrorBarType](Excel.XlErrorBarType.md)**|The error bar type.|
 | _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when  _Type_ is **xlErrorBarTypeCustom** .|
 | _MinusValues_|Optional| **Variant**|The negative error amount when  _Type_ is **xlErrorBarTypeCustom** .|
 

@@ -29,7 +29,7 @@ Applies data labels to all the series in a chart.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(object).md)** objects, **True** if the series has leader lines.|

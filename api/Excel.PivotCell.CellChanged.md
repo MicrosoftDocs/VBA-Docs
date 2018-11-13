@@ -25,7 +25,7 @@ Returns whether a PivotTable value cell has been edited or recalculated since th
 
 ## Return value
 
- **[XlCellChangedState](Excel.XlCellChangedState.md)**
+ **[xlCellChangedState](Excel.XlCellChangedState.md)**
 
 
 ## Remarks

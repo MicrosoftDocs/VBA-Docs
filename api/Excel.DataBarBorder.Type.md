@@ -25,7 +25,7 @@ Returns or sets the type of border for data bars specified by a conditional form
 
 ## Return value
 
- **[XlDataBarBorderType](Excel.XlDataBarBorderType.md)**
+ **[xlDataBarBorderType](Excel.XlDataBarBorderType.md)**
 
 
 ## Example

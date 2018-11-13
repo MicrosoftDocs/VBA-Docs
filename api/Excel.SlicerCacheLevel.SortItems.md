@@ -25,7 +25,7 @@ Returns or sets the sort order of the items in the slicer. Read/write.
 
 ## Return value
 
- **[XlSlicerSort](Excel.XlSlicerSort.md)**
+ **[xlSlicerSort](Excel.XlSlicerSort.md)**
 
 
 ## Remarks

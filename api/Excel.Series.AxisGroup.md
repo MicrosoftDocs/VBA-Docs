@@ -25,7 +25,7 @@ Returns or sets the group for the specified series. Read/write
 
 ## Return value
 
- **[XlAxisGroup](Excel.XlAxisGroup.md)**
+ **[xlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## See also

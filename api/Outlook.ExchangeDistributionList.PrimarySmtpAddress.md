@@ -37,6 +37,6 @@ Returns an empty string if this property has not been implemented or does not ex
 
 
 
-[How to: Obtain the E-mail Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-email-address-of-a-recipient.md)
+[How to: Obtain the Email Address of a Recipient](../outlook/Concepts/Address-Book/obtain-the-email-address-of-a-recipient.md)
 
 

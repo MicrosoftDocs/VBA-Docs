@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableCancelKey property (Excel)
 
-Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[XlEnableCancelKey](Excel.XlEnableCancelKey.md)** .
+Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[xlEnableCancelKey](Excel.XlEnableCancelKey.md)** .
 
 
 ## Syntax

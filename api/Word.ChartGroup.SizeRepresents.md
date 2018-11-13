@@ -25,7 +25,7 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write  *
 
 ## Remarks
 
-This property can be either of the following  **[XlSizeRepresents](Word.xlsizerepresents.md)** constants:
+This property can be either of the following  **[xlSizeRepresents](Word.xlsizerepresents.md)** constants:
 
 
 -  **xlSizeIsArea**

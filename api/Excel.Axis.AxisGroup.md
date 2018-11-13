@@ -25,7 +25,7 @@ Returns the group for the specified axis. Read-only
 
 ## Return value
 
- **[XlAxisGroup](Excel.XlAxisGroup.md)**
+ **[xlAxisGroup](Excel.XlAxisGroup.md)**
 
 
 ## See also

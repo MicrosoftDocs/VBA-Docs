@@ -25,7 +25,7 @@ Returns or sets a value that specifies how pictures are displayed on the walls a
 
 ## Remarks
 
-You can set this property to one of the following  **[XlChartPictureType](Word.xlchartpicturetype.md)** constants: **xlStack** or **xlStretch** .
+You can set this property to one of the following  **[xlChartPictureType](Word.xlchartpicturetype.md)** constants: **xlStack** or **xlStretch** .
 
 
 ## See also

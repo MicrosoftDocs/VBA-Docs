@@ -19,7 +19,7 @@ The MDAC documentation team welcomes your suggestions and comments about our doc
 > If you need technical support, see "[Getting Help from Microsoft Product Support Services](getting-help-from-microsoft-help-and-support.md)." The MDAC documentation team cannot answer technical support questions, but we welcome your feedback concerning the presentation, accuracy, and thoroughness of the documentation, as well as your ideas for improving it.
 
 
-## E-mail
+## Email
 
 The MDAC documentation now includes a  **Documentation Feedback** button at the top of every topic. Clicking this button offers an easy way to send email feedback to the MDAC documentation team. Addresses for each section of the MDAC documentation also appear below.
 

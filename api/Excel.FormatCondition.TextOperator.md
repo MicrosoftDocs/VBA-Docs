@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormatCondition.TextOperator property (Excel)
 
-Returns or sets one of the constants of the  **[XlContainsOperator](Excel.XlContainsOperator.md)** enumeration, specifying the text search performed by the conditional formatting rule.
+Returns or sets one of the constants of the  **[xlContainsOperator](Excel.XlContainsOperator.md)** enumeration, specifying the text search performed by the conditional formatting rule.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.Type property (Excel)
 
-Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** constant, that represents the data type validation for a range.
+Returns a  **Long** value, containing a **[xlDVType](Excel.XlDVType.md)** constant, that represents the data type validation for a range.
 
 
 ## Syntax

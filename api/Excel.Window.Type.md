@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Type property (Excel)
 
-Returns or sets a  **[XlWindowType](Excel.XlWindowType.md)** value that represents the window type.
+Returns or sets a  **[xlWindowType](Excel.XlWindowType.md)** value that represents the window type.
 
 
 ## Syntax

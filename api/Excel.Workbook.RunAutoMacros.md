@@ -29,7 +29,7 @@ Runs the Auto_Open, Auto_Close, Auto_Activate, or Auto_Deactivate macro attached
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Which_|Required| **[XlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
+| _Which_|Required| **[xlRunAutoMacro](Excel.XlRunAutoMacro.md)**|Specifies the automatic macro to run.|
 
 ## Remarks
 

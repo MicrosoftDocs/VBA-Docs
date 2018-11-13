@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileVisualLayout property (Excel)
 
-Returns or sets a  **[XlTextVisualLayoutType](Excel.XlTextVisualLayoutType.md)** enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left.
+Returns or sets a  **[xlTextVisualLayoutType](Excel.XlTextVisualLayoutType.md)** enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left.
 
 
 ## Syntax

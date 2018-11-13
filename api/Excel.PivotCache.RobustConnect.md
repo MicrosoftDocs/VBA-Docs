@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.RobustConnect property (Excel)
 
-Returns or sets how the PivotTable cache connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
+Returns or sets how the PivotTable cache connects to its data source. Read/write  **[xlRobustConnect](Excel.XlRobustConnect.md)** .
 
 
 ## Syntax

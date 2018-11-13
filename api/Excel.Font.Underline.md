@@ -25,7 +25,7 @@ Returns or sets the type of underline applied to the font. Read/write **Variant*
 
 ## Remarks
 
-Can be one of the **[XlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
+Can be one of the **[xlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
 
 ## Example
 
