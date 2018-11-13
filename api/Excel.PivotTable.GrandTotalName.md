@@ -1,5 +1,5 @@
 ---
-title: PivotTable.GrandTotalName Property (Excel)
+title: PivotTable.GrandTotalName property (Excel)
 keywords: vbaxl10.chm235133
 f1_keywords:
 - vbaxl10.chm235133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.GrandTotalName Property (Excel)
+# PivotTable.GrandTotalName property (Excel)
 
 Returns or sets the text string label that is displayed in the grand total column or row heading in the specified PivotTable report. The default value is the string "Grand Total". Read/write  **String** .
 

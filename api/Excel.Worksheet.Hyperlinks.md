@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Hyperlinks Property (Excel)
+title: Worksheet.Hyperlinks property (Excel)
 keywords: vbaxl10.chm175140
 f1_keywords:
 - vbaxl10.chm175140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Hyperlinks Property (Excel)
+# Worksheet.Hyperlinks property (Excel)
 
 Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the worksheet.
 

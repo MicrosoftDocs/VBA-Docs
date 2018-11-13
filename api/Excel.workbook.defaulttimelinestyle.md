@@ -1,5 +1,5 @@
 ---
-title: Workbook.DefaultTimelineStyle Property (Excel)
+title: Workbook.DefaultTimelineStyle property (Excel)
 keywords: vbaxl10.chm199278
 f1_keywords:
 - vbaxl10.chm199278
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DefaultTimelineStyle Property (Excel)
+# Workbook.DefaultTimelineStyle property (Excel)
 
 The name of the default slicer style of the workbook.  **Variant**. Read/Write
 

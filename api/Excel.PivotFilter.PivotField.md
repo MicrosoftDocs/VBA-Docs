@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.PivotField Property (Excel)
+title: PivotFilter.PivotField property (Excel)
 keywords: vbaxl10.chm770079
 f1_keywords:
 - vbaxl10.chm770079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.PivotField Property (Excel)
+# PivotFilter.PivotField property (Excel)
 
 Specifies the PivotField to which the filter is applied. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Legend Property (Excel)
+title: Chart.Legend property (Excel)
 keywords: vbaxl10.chm149120
 f1_keywords:
 - vbaxl10.chm149120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Legend Property (Excel)
+# Chart.Legend property (Excel)
 
 Returns a  **[Legend](Excel.Legend(object).md)** object that represents the legend for the chart. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Interior.TintAndShade Property (Excel)
+title: Interior.TintAndShade property (Excel)
 keywords: vbaxl10.chm551080
 f1_keywords:
 - vbaxl10.chm551080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.TintAndShade Property (Excel)
+# Interior.TintAndShade property (Excel)
 
 Returns or sets a **Single** that lightens or darkens a color.
 

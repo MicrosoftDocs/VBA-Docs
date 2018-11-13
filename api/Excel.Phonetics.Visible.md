@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Visible Property (Excel)
+title: Phonetics.Visible property (Excel)
 keywords: vbaxl10.chm658076
 f1_keywords:
 - vbaxl10.chm658076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Visible Property (Excel)
+# Phonetics.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.EnableRefresh Property (Excel)
+title: DataFeedConnection.EnableRefresh property (Excel)
 keywords: vbaxl10.chm928077
 f1_keywords:
 - vbaxl10.chm928077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.EnableRefresh Property (Excel)
+# DataFeedConnection.EnableRefresh property (Excel)
 
  **True** if the connection can be refreshed by the user. The default value is **True** . **Boolean** Read/Write
 

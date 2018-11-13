@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.TablesDeleted Property (Excel)
+title: ModelChanges.TablesDeleted property (Excel)
 keywords: vbaxl10.chm960074
 f1_keywords:
 - vbaxl10.chm960074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.TablesDeleted Property (Excel)
+# ModelChanges.TablesDeleted property (Excel)
 
 Returns a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were deleted from the model as part of a model operation. Read-only.
 

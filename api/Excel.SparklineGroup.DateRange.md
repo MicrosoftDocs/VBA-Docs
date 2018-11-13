@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.DateRange Property (Excel)
+title: SparklineGroup.DateRange property (Excel)
 keywords: vbaxl10.chm871078
 f1_keywords:
 - vbaxl10.chm871078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.DateRange Property (Excel)
+# SparklineGroup.DateRange property (Excel)
 
 Gets or sets the date range for the sparkline group. Read/write.
 

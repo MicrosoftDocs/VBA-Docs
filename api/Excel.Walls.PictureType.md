@@ -1,5 +1,5 @@
 ---
-title: Walls.PictureType Property (Excel)
+title: Walls.PictureType property (Excel)
 keywords: vbaxl10.chm614080
 f1_keywords:
 - vbaxl10.chm614080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.PictureType Property (Excel)
+# Walls.PictureType property (Excel)
 
 Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3-D chart.
 

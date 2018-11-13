@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageFieldStyle Property (Excel)
+title: PivotTable.PageFieldStyle property (Excel)
 keywords: vbaxl10.chm235120
 f1_keywords:
 - vbaxl10.chm235120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageFieldStyle Property (Excel)
+# PivotTable.PageFieldStyle property (Excel)
 
 Returns or sets the style used in the bound page field area. The default value is a null string (no style is applied by default). Read/write  **String** .
 

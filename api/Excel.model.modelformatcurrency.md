@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatCurrency Property (Excel)
+title: Model.ModelFormatCurrency property (Excel)
 keywords: vbaxl10.chm942088
 f1_keywords:
 - vbaxl10.chm942088
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatCurrency Property (Excel)
+# Model.ModelFormatCurrency property (Excel)
 
 Returns a [ModelFormatCurrency](Excel.modelformatcurrency.md) object that represents formatting of type currency in the data model. Read-only .
 

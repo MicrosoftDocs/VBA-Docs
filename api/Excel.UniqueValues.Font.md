@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Font Property (Excel)
+title: UniqueValues.Font property (Excel)
 keywords: vbaxl10.chm826079
 f1_keywords:
 - vbaxl10.chm826079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Font Property (Excel)
+# UniqueValues.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that specifies the font formatting if the conditional formatting rule evaluates to **True** . Read-only.
 

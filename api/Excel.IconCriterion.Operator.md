@@ -1,5 +1,5 @@
 ---
-title: IconCriterion.Operator Property (Excel)
+title: IconCriterion.Operator property (Excel)
 keywords: vbaxl10.chm814076
 f1_keywords:
 - vbaxl10.chm814076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion.Operator Property (Excel)
+# IconCriterion.Operator property (Excel)
 
 Returns or sets one of the constants of the  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** enumeration, which specifes if the threshold is "greater than" or "greater than or equal to" the threshold value.
 

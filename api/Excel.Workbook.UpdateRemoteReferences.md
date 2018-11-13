@@ -1,5 +1,5 @@
 ---
-title: Workbook.UpdateRemoteReferences Property (Excel)
+title: Workbook.UpdateRemoteReferences property (Excel)
 keywords: vbaxl10.chm199161
 f1_keywords:
 - vbaxl10.chm199161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UpdateRemoteReferences Property (Excel)
+# Workbook.UpdateRemoteReferences property (Excel)
 
  **True** if Microsoft Excel updates remote references in the workbook. Read/write **Boolean**.
 

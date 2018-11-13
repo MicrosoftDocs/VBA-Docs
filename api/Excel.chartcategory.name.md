@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.Name Property (Excel)
+title: ChartCategory.Name property (Excel)
 keywords: vbaxl10.chm946074
 f1_keywords:
 - vbaxl10.chm946074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.Name Property (Excel)
+# ChartCategory.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

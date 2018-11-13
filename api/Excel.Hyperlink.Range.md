@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Range Property (Excel)
+title: Hyperlink.Range property (Excel)
 keywords: vbaxl10.chm536075
 f1_keywords:
 - vbaxl10.chm536075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Range Property (Excel)
+# Hyperlink.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range the specified hyperlink is attached to.
 

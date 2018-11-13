@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Count Property (Excel)
+title: Adjustments.Count property (Excel)
 keywords: vbaxl10.chm103002
 f1_keywords:
 - vbaxl10.chm103002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Count Property (Excel)
+# Adjustments.Count property (Excel)
 
 Returns an  **Integer** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames.Creator Property (Excel)
+title: ModelMeasureNames.Creator property (Excel)
 keywords: vbaxl10.chm971074
 f1_keywords:
 - vbaxl10.chm971074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames.Creator Property (Excel)
+# ModelMeasureNames.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

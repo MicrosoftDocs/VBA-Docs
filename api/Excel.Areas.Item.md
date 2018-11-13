@@ -1,5 +1,5 @@
 ---
-title: Areas.Item Property (Excel)
+title: Areas.Item property (Excel)
 keywords: vbaxl10.chm197074
 f1_keywords:
 - vbaxl10.chm197074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Areas.Item Property (Excel)
+# Areas.Item property (Excel)
 
 Returns a single object from a collection.
 

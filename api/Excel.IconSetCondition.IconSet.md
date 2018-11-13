@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.IconSet Property (Excel)
+title: IconSetCondition.IconSet property (Excel)
 keywords: vbaxl10.chm812087
 f1_keywords:
 - vbaxl10.chm812087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.IconSet Property (Excel)
+# IconSetCondition.IconSet property (Excel)
 
 Returns or sets an  **[IconSets](Excel.IconSets.md)** collection, which specifies the icon set used in the conditional format.
 

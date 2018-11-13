@@ -1,5 +1,5 @@
 ---
-title: XlCreator Enumeration (Excel)
+title: xlCreator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCreator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCreator Enumeration (Excel)
+# xlCreator enumeration (Excel)
 
 Specifies the 32-bit creator code for Excel for Macintosh (decimal 1480803660, Hex 5843454C, string XCEL).
 

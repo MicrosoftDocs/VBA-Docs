@@ -1,5 +1,5 @@
 ---
-title: IconCriterion.Type Property (Excel)
+title: IconCriterion.Type property (Excel)
 keywords: vbaxl10.chm814074
 f1_keywords:
 - vbaxl10.chm814074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion.Type Property (Excel)
+# IconCriterion.Type property (Excel)
 
 Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlConditionValueTypes.md)** enumeration, which specifies how the threshold value for an icon set is determined. Read-only.
 

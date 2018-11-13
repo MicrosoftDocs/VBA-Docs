@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowSorting Property (Excel)
+title: Protection.AllowSorting property (Excel)
 keywords: vbaxl10.chm719081
 f1_keywords:
 - vbaxl10.chm719081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowSorting Property (Excel)
+# Protection.AllowSorting property (Excel)
 
 Returns  **True** if the sorting option is allowed on a protected worksheet. Read-only **Boolean** .
 

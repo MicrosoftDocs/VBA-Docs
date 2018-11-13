@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoLength Property (Excel)
+title: CalloutFormat.AutoLength property (Excel)
 keywords: vbaxl10.chm104009
 f1_keywords:
 - vbaxl10.chm104009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.AutoLength Property (Excel)
+# CalloutFormat.AutoLength property (Excel)
 
 Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read/write **[MsoTriState](Office.MsoTriState.md)** .
 

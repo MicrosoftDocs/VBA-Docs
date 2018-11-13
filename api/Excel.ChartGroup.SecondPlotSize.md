@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SecondPlotSize Property (Excel)
+title: ChartGroup.SecondPlotSize property (Excel)
 keywords: vbaxl10.chm568099
 f1_keywords:
 - vbaxl10.chm568099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SecondPlotSize Property (Excel)
+# ChartGroup.SecondPlotSize property (Excel)
 
 Returns or sets the size of the secondary section of either a pie of pie chart or a bar of pie chart, as a percentage of the size of the primary pie. Can be a value from 5 to 200. Read/write  **Long** .
 

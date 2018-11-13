@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.HasFormat Property (Excel)
+title: TableStyleElement.HasFormat property (Excel)
 keywords: vbaxl10.chm835073
 f1_keywords:
 - vbaxl10.chm835073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.HasFormat Property (Excel)
+# TableStyleElement.HasFormat property (Excel)
 
 Returns whether a table style element has formatting applied to the specified element. Read-only  **Boolean** .
 

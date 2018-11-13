@@ -1,5 +1,5 @@
 ---
-title: Action.Type Property (Excel)
+title: Action.Type property (Excel)
 keywords: vbaxl10.chm798075
 f1_keywords:
 - vbaxl10.chm798075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Type Property (Excel)
+# Action.Type property (Excel)
 
 Returns the action type. Read-only  **[XlActionType](Excel.XlActionType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.Value Property (Excel)
+title: SlicerItem.Value property (Excel)
 keywords: vbaxl10.chm907078
 f1_keywords:
 - vbaxl10.chm907078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.Value Property (Excel)
+# SlicerItem.Value property (Excel)
 
 Returns the value of the slicer item. Read-only.
 

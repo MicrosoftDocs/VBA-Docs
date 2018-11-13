@@ -1,5 +1,5 @@
 ---
-title: Tab.Color Property (Excel)
+title: Tab.Color property (Excel)
 keywords: vbaxl10.chm723073
 f1_keywords:
 - vbaxl10.chm723073
@@ -11,7 +11,7 @@ ms.date: 08/29/2018
 ---
 
 
-# Tab.Color Property (Excel)
+# Tab.Color property (Excel)
 
 Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant** .
 

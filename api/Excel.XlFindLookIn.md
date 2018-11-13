@@ -1,5 +1,5 @@
 ---
-title: XlFindLookIn Enumeration (Excel)
+title: xlFindLookIn enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFindLookIn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFindLookIn Enumeration (Excel)
+# xlFindLookIn enumeration (Excel)
 
 Specifies the type of data to search.
 

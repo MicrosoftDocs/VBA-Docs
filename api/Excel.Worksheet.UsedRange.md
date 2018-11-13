@@ -1,5 +1,5 @@
 ---
-title: Worksheet.UsedRange Property (Excel)
+title: Worksheet.UsedRange property (Excel)
 keywords: vbaxl10.chm175134
 f1_keywords:
 - vbaxl10.chm175134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.UsedRange Property (Excel)
+# Worksheet.UsedRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the used range on the specified worksheet. Read-only.
 

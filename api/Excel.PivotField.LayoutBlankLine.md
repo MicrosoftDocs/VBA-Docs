@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutBlankLine Property (Excel)
+title: PivotField.LayoutBlankLine property (Excel)
 keywords: vbaxl10.chm240119
 f1_keywords:
 - vbaxl10.chm240119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutBlankLine Property (Excel)
+# PivotField.LayoutBlankLine property (Excel)
 
  **True** if a blank row is inserted after the specified row field in a PivotTable report. The default value is **False** . Read/write **Boolean** .
 

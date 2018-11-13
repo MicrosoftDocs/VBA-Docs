@@ -1,5 +1,5 @@
 ---
-title: Application.VBE Property (Excel)
+title: Application.VBE property (Excel)
 keywords: vbaxl10.chm133227
 f1_keywords:
 - vbaxl10.chm133227
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.VBE Property (Excel)
+# Application.VBE property (Excel)
 
 Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
 

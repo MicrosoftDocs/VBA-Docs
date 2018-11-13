@@ -1,5 +1,5 @@
 ---
-title: SortField.SortOn Property (Excel)
+title: SortField.SortOn property (Excel)
 keywords: vbaxl10.chm843073
 f1_keywords:
 - vbaxl10.chm843073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.SortOn Property (Excel)
+# SortField.SortOn property (Excel)
 
 Returns or sets what attribute of the cell to sort on . Read/write  **[XlSortOn](Excel.XlSortOn.md)** .
 

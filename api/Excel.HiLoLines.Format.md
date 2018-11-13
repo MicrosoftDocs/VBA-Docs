@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Format Property (Excel)
+title: HiLoLines.Format property (Excel)
 keywords: vbaxl10.chm600078
 f1_keywords:
 - vbaxl10.chm600078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Format Property (Excel)
+# HiLoLines.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

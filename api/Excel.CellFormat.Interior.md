@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Interior Property (Excel)
+title: CellFormat.Interior property (Excel)
 keywords: vbaxl10.chm676075
 f1_keywords:
 - vbaxl10.chm676075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Interior Property (Excel)
+# CellFormat.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object allowing the user to set or return the search criteria based on the cell's interior format.
 

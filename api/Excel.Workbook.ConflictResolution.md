@@ -1,5 +1,5 @@
 ---
-title: Workbook.ConflictResolution Property (Excel)
+title: Workbook.ConflictResolution property (Excel)
 keywords: vbaxl10.chm199091
 f1_keywords:
 - vbaxl10.chm199091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ConflictResolution Property (Excel)
+# Workbook.ConflictResolution property (Excel)
 
 Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[XlSaveConflictResolution](Excel.XlSaveConflictResolution.md)** .
 

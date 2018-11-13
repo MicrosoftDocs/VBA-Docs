@@ -1,5 +1,5 @@
 ---
-title: ListObject.DisplayName Property (Excel)
+title: ListObject.DisplayName property (Excel)
 keywords: vbaxl10.chm734097
 f1_keywords:
 - vbaxl10.chm734097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.DisplayName Property (Excel)
+# ListObject.DisplayName property (Excel)
 
 Returns or sets the display name for the specified  **ListObject** object. Read/write **String** .
 

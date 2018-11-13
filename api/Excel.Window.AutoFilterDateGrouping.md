@@ -1,5 +1,5 @@
 ---
-title: Window.AutoFilterDateGrouping Property (Excel)
+title: Window.AutoFilterDateGrouping property (Excel)
 keywords: vbaxl10.chm356137
 f1_keywords:
 - vbaxl10.chm356137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.AutoFilterDateGrouping Property (Excel)
+# Window.AutoFilterDateGrouping property (Excel)
 
  **True** if the auto filter for date grouping is currently displayed in the specified window. Read/write **Boolean** .
 

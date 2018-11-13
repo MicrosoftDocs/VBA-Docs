@@ -1,5 +1,5 @@
 ---
-title: TableObject.ListObject Property (Excel)
+title: TableObject.ListObject property (Excel)
 keywords: vbaxl10.chm916085
 f1_keywords:
 - vbaxl10.chm916085
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.ListObject Property (Excel)
+# TableObject.ListObject property (Excel)
 
 Returns a [ListObject Object (Excel)](Excel.ListObject.md) object for the [TableObject Object (Excel)](Excel.tableobject.md) object. Read-only
 

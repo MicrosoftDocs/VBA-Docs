@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Name Property (Excel)
+title: TableStyle.Name property (Excel)
 keywords: vbaxl10.chm839074
 f1_keywords:
 - vbaxl10.chm839074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Name Property (Excel)
+# TableStyle.Name property (Excel)
 
 Returns the name of the object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Transparency Property (Excel)
+title: ShadowFormat.Transparency property (Excel)
 keywords: vbaxl10.chm114006
 f1_keywords:
 - vbaxl10.chm114006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Transparency Property (Excel)
+# ShadowFormat.Transparency property (Excel)
 
 Returns or sets the degree of transparency of the specified fill as a value from 0.0 (opaque) through 1.0 (clear). Read/write  **Double** .
 

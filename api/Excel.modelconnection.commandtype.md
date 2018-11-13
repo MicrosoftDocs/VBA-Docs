@@ -1,5 +1,5 @@
 ---
-title: ModelConnection.CommandType Property (Excel)
+title: ModelConnection.CommandType property (Excel)
 keywords: vbaxl10.chm922074
 f1_keywords:
 - vbaxl10.chm922074
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection.CommandType Property (Excel)
+# ModelConnection.CommandType property (Excel)
 
-Returns or sets one of the [XlCmdType Enumeration (Excel)](Excel.XlCmdType.md) constants. Read/Write
+Returns or sets one of the [xlCmdType enumeration (Excel)](Excel.xlCmdType.md) constants. Read/Write
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerForegroundColor Property (Excel)
+title: Point.MarkerForegroundColor property (Excel)
 keywords: vbaxl10.chm576086
 f1_keywords:
 - vbaxl10.chm576086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.MarkerForegroundColor Property (Excel)
+# Point.MarkerForegroundColor property (Excel)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write  **Long** .
 

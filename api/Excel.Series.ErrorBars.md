@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBars Property (Excel)
+title: Series.ErrorBars property (Excel)
 keywords: vbaxl10.chm578082
 f1_keywords:
 - vbaxl10.chm578082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ErrorBars Property (Excel)
+# Series.ErrorBars property (Excel)
 
 Returns an  **[ErrorBars](Excel.ErrorBars(object).md)** object that represents the error bars for the series. Read-only.
 

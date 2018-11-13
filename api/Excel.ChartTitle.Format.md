@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Format Property (Excel)
+title: ChartTitle.Format property (Excel)
 keywords: vbaxl10.chm563094
 f1_keywords:
 - vbaxl10.chm563094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Format Property (Excel)
+# ChartTitle.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

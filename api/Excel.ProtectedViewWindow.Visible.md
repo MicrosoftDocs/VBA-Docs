@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Visible Property (Excel)
+title: ProtectedViewWindow.Visible property (Excel)
 keywords: vbaxl10.chm914080
 f1_keywords:
 - vbaxl10.chm914080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Visible Property (Excel)
+# ProtectedViewWindow.Visible property (Excel)
 
 Returns or sets a value that determines whether the specified  **Protected View** window is visible. Read/write
 

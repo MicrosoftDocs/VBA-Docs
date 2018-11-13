@@ -1,5 +1,5 @@
 ---
-title: ModuleView.Creator Property (Excel)
+title: ModuleView.Creator property (Excel)
 keywords: vbaxl10.chm783074
 f1_keywords:
 - vbaxl10.chm783074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModuleView.Creator Property (Excel)
+# ModuleView.Creator property (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

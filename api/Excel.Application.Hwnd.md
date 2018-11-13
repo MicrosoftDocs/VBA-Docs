@@ -1,5 +1,5 @@
 ---
-title: Application.Hwnd Property (Excel)
+title: Application.Hwnd property (Excel)
 keywords: vbaxl10.chm133277
 f1_keywords:
 - vbaxl10.chm133277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Hwnd Property (Excel)
+# Application.Hwnd property (Excel)
 
 Returns a  **Long** indicating the top-level window handle of the Microsoft Excel window. Read-only.
 

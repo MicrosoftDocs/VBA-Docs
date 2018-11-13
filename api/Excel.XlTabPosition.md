@@ -1,5 +1,5 @@
 ---
-title: XlTabPosition Enumeration (Excel)
+title: xlTabPosition enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTabPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTabPosition Enumeration (Excel)
+# xlTabPosition enumeration (Excel)
 
 Specifies the first or last tab position.
 

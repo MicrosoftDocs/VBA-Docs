@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowFiltering Property (Excel)
+title: Protection.AllowFiltering property (Excel)
 keywords: vbaxl10.chm719082
 f1_keywords:
 - vbaxl10.chm719082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowFiltering Property (Excel)
+# Protection.AllowFiltering property (Excel)
 
 Returns  **True** if the user is allowed to make use of an AutoFilter that was created before the sheet was protected. Read-only **Boolean** .
 

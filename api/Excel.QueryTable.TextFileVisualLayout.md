@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileVisualLayout Property (Excel)
+title: QueryTable.TextFileVisualLayout property (Excel)
 keywords: vbaxl10.chm518137
 f1_keywords:
 - vbaxl10.chm518137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileVisualLayout Property (Excel)
+# QueryTable.TextFileVisualLayout property (Excel)
 
 Returns or sets a  **[XlTextVisualLayoutType](Excel.XlTextVisualLayoutType.md)** enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.SortItems Property (Excel)
+title: SlicerCacheLevel.SortItems property (Excel)
 keywords: vbaxl10.chm901078
 f1_keywords:
 - vbaxl10.chm901078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.SortItems Property (Excel)
+# SlicerCacheLevel.SortItems property (Excel)
 
 Returns or sets the sort order of the items in the slicer. Read/write.
 

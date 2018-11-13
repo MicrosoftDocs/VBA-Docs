@@ -1,5 +1,5 @@
 ---
-title: DataBarBorder.Color Property (Excel)
+title: DataBarBorder.Color property (Excel)
 keywords: vbaxl10.chm885074
 f1_keywords:
 - vbaxl10.chm885074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataBarBorder.Color Property (Excel)
+# DataBarBorder.Color property (Excel)
 
 Returns an object that specifies the color of the border of data bars specified by a conditional formatting rule. Read-only
 

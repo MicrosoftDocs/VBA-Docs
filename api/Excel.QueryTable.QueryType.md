@@ -1,5 +1,5 @@
 ---
-title: QueryTable.QueryType Property (Excel)
+title: QueryTable.QueryType property (Excel)
 keywords: vbaxl10.chm518116
 f1_keywords:
 - vbaxl10.chm518116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.QueryType Property (Excel)
+# QueryTable.QueryType property (Excel)
 
 Indicates the type of query used by Microsoft Excel to populate the query table. Read-only  **[XlQueryType](Excel.XlQueryType.md)** .
 

@@ -1,12 +1,12 @@
 ---
-title: XlFilterStatus Enumeration (Excel)
+title: xlFilterStatus enumeration (Excel)
 ms.prod: excel
 ms.assetid: 996a9bbc-27d3-93a6-dc83-0b8a930f6e2a
 ms.date: 06/08/2017
 ---
 
 
-# XlFilterStatus Enumeration (Excel)
+# xlFilterStatus enumeration (Excel)
 
 Used to return a status from filter functions.
 

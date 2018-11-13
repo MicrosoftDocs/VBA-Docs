@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames.Count Property (Excel)
+title: ModelMeasureNames.Count property (Excel)
 keywords: vbaxl10.chm972073
 f1_keywords:
 - vbaxl10.chm972073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames.Count Property (Excel)
+# ModelMeasureNames.Count property (Excel)
 
 Returns a  **Long** value that represents the number of a [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) objects in a [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object. Read-only.
 

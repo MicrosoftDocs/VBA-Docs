@@ -1,5 +1,5 @@
 ---
-title: XPath.Repeating Property (Excel)
+title: XPath.Repeating property (Excel)
 keywords: vbaxl10.chm760078
 f1_keywords:
 - vbaxl10.chm760078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath.Repeating Property (Excel)
+# XPath.Repeating property (Excel)
 
  Returns **True** if the specified **[XPath](Excel.XPath.md)** object is mapped to an XML list; returns **False** if the **XPath** object is mapped to a single cell. Read-only **Boolean** .
 

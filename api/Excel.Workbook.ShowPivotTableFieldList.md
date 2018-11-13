@@ -1,5 +1,5 @@
 ---
-title: Workbook.ShowPivotTableFieldList Property (Excel)
+title: Workbook.ShowPivotTableFieldList property (Excel)
 keywords: vbaxl10.chm199196
 f1_keywords:
 - vbaxl10.chm199196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ShowPivotTableFieldList Property (Excel)
+# Workbook.ShowPivotTableFieldList property (Excel)
 
  **True** (default) if the PivotTable field list can be shown. Read/write **Boolean** .
 

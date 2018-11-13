@@ -1,5 +1,5 @@
 ---
-title: Outline.AutomaticStyles Property (Excel)
+title: Outline.AutomaticStyles property (Excel)
 keywords: vbaxl10.chm455073
 f1_keywords:
 - vbaxl10.chm455073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.AutomaticStyles Property (Excel)
+# Outline.AutomaticStyles property (Excel)
 
  **True** if the outline uses automatic styles. Read/write **Boolean** .
 

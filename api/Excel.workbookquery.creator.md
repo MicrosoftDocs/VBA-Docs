@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery.Creator Property (Excel)
+title: WorkbookQuery.Creator property (Excel)
 keywords: vbaxl10.chm973074
 f1_keywords:
 - vbaxl10.chm973074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery.Creator Property (Excel)
+# WorkbookQuery.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

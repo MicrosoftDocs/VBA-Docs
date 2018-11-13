@@ -1,5 +1,5 @@
 ---
-title: Workbook.ContentTypeProperties Property (Excel)
+title: Workbook.ContentTypeProperties property (Excel)
 keywords: vbaxl10.chm199234
 f1_keywords:
 - vbaxl10.chm199234
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ContentTypeProperties Property (Excel)
+# Workbook.ContentTypeProperties property (Excel)
 
 Returns a  **[MetaProperties](./Office.MetaProperties.md)** collection that describes the metadata stored in the workbook. Read-only.
 

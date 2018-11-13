@@ -1,5 +1,5 @@
 ---
-title: PivotFields.Creator Property (Excel)
+title: PivotFields.Creator property (Excel)
 keywords: vbaxl10.chm241074
 f1_keywords:
 - vbaxl10.chm241074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFields.Creator Property (Excel)
+# PivotFields.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

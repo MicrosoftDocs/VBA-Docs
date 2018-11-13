@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (Excel)
+title: Shape.Vertices property (Excel)
 keywords: vbaxl10.chm636113
 f1_keywords:
 - vbaxl10.chm636113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Vertices Property (Excel)
+# Shape.Vertices property (Excel)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. You can use the array returned by this property as an argument to the  **[AddCurve](Excel.Shapes.AddCurve.md)** method or **[AddPolyLine](Excel.Shapes.AddPolyline.md)** method. Read-only **Variant** .
 

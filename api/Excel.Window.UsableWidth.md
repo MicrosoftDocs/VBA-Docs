@@ -1,5 +1,5 @@
 ---
-title: Window.UsableWidth Property (Excel)
+title: Window.UsableWidth property (Excel)
 keywords: vbaxl10.chm356120
 f1_keywords:
 - vbaxl10.chm356120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.UsableWidth Property (Excel)
+# Window.UsableWidth property (Excel)
 
 Returns the maximum width of the space that a window can occupy in the application window area, in points. Read-only  **Double** .
 

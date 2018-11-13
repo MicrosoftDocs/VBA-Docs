@@ -1,5 +1,5 @@
 ---
-title: Range.Resize Property (Excel)
+title: Range.Resize property (Excel)
 keywords: vbaxl10.chm144187
 f1_keywords:
 - vbaxl10.chm144187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Resize Property (Excel)
+# Range.Resize property (Excel)
 
 Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** object that represents the resized range.
 

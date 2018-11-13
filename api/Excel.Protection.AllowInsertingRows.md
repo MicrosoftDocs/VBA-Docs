@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowInsertingRows Property (Excel)
+title: Protection.AllowInsertingRows property (Excel)
 keywords: vbaxl10.chm719077
 f1_keywords:
 - vbaxl10.chm719077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowInsertingRows Property (Excel)
+# Protection.AllowInsertingRows property (Excel)
 
 Returns  **True** if the insertion of rows is allowed on a protected worksheet. Read-only **Boolean** .
 

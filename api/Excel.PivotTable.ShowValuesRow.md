@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowValuesRow Property (Excel)
+title: PivotTable.ShowValuesRow property (Excel)
 keywords: vbaxl10.chm235201
 f1_keywords:
 - vbaxl10.chm235201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowValuesRow Property (Excel)
+# PivotTable.ShowValuesRow property (Excel)
 
 Returns or sets whether the values row is displayed. Read/write
 

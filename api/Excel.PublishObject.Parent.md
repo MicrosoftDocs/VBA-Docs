@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Parent Property (Excel)
+title: PublishObject.Parent property (Excel)
 keywords: vbaxl10.chm651075
 f1_keywords:
 - vbaxl10.chm651075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Parent Property (Excel)
+# PublishObject.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.PictureFormat Property (Excel)
+title: Shape.PictureFormat property (Excel)
 keywords: vbaxl10.chm636106
 f1_keywords:
 - vbaxl10.chm636106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.PictureFormat Property (Excel)
+# Shape.PictureFormat property (Excel)
 
 Returns a  **[PictureFormat](Excel.PictureFormat.md)** object that contains picture formatting properties for the specified shape. Applies to a **[Shape](Excel.Shape.md)** object that represent pictures or OLE objects. Read-only.
 

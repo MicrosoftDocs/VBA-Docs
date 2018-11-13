@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDecimalNumber.UseThousandSeparator Property (Excel)
+title: ModelFormatDecimalNumber.UseThousandSeparator property (Excel)
 keywords: vbaxl10.chm986073
 f1_keywords:
 - vbaxl10.chm986073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDecimalNumber.UseThousandSeparator Property (Excel)
+# ModelFormatDecimalNumber.UseThousandSeparator property (Excel)
 
 Specifies whether to display commas between thousands. Read/write  **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.DragToData Property (Excel)
+title: PivotField.DragToData property (Excel)
 keywords: vbaxl10.chm240106
 f1_keywords:
 - vbaxl10.chm240106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DragToData Property (Excel)
+# PivotField.DragToData property (Excel)
 
  **True** if the specified field can be dragged to the data position. The default value is **True** . Read/write **Boolean**
 

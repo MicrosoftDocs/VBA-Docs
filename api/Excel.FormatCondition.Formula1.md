@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Formula1 Property (Excel)
+title: FormatCondition.Formula1 property (Excel)
 keywords: vbaxl10.chm512076
 f1_keywords:
 - vbaxl10.chm512076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Formula1 Property (Excel)
+# FormatCondition.Formula1 property (Excel)
 
 Returns the value or expression associated with the conditional format or data validation. Can be a constant value, a string value, a cell reference, or a formula. Read-only  **String** .
 

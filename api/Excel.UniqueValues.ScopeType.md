@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.ScopeType Property (Excel)
+title: UniqueValues.ScopeType property (Excel)
 keywords: vbaxl10.chm826087
 f1_keywords:
 - vbaxl10.chm826087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.ScopeType Property (Excel)
+# UniqueValues.ScopeType property (Excel)
 
 Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
 

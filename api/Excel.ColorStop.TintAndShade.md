@@ -1,5 +1,5 @@
 ---
-title: ColorStop.TintAndShade Property (Excel)
+title: ColorStop.TintAndShade property (Excel)
 keywords: vbaxl10.chm851076
 f1_keywords:
 - vbaxl10.chm851076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.TintAndShade Property (Excel)
+# ColorStop.TintAndShade property (Excel)
 
 Returns or sets the tint and shade of the represented object. Read/write
 

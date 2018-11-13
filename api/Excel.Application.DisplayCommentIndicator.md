@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayCommentIndicator Property (Excel)
+title: Application.DisplayCommentIndicator property (Excel)
 keywords: vbaxl10.chm133123
 f1_keywords:
 - vbaxl10.chm133123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayCommentIndicator Property (Excel)
+# Application.DisplayCommentIndicator property (Excel)
 
 Returns or sets the way cells display comments and indicators. Can be one of the  **[XlCommentDisplayMode](Excel.XlCommentDisplayMode.md)** constants.
 

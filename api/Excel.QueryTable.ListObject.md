@@ -1,5 +1,5 @@
 ---
-title: QueryTable.ListObject Property (Excel)
+title: QueryTable.ListObject property (Excel)
 keywords: vbaxl10.chm518136
 f1_keywords:
 - vbaxl10.chm518136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.ListObject Property (Excel)
+# QueryTable.ListObject property (Excel)
 
 Returns a  **[ListObject](Excel.ListObject.md)** object for the **[QueryTable](Excel.QueryTable.md)** object. Read-only **ListObject** object.
 

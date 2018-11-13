@@ -1,5 +1,5 @@
 ---
-title: Charts.Visible Property (Excel)
+title: Charts.Visible property (Excel)
 keywords: vbaxl10.chm217084
 f1_keywords:
 - vbaxl10.chm217084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.Visible Property (Excel)
+# Charts.Visible property (Excel)
 
 Returns or sets a  **Variant** value that determines whether the object is visible.
 

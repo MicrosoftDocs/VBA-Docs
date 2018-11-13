@@ -1,5 +1,5 @@
 ---
-title: Validation.ShowError Property (Excel)
+title: Validation.ShowError property (Excel)
 keywords: vbaxl10.chm532087
 f1_keywords:
 - vbaxl10.chm532087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.ShowError Property (Excel)
+# Validation.ShowError property (Excel)
 
  **True** if the data validation error message will be displayed whenever the user enters invalid data. Read/write **Boolean** .
 

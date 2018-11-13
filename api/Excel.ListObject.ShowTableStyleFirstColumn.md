@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowTableStyleFirstColumn Property (Excel)
+title: ListObject.ShowTableStyleFirstColumn property (Excel)
 keywords: vbaxl10.chm734101
 f1_keywords:
 - vbaxl10.chm734101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowTableStyleFirstColumn Property (Excel)
+# ListObject.ShowTableStyleFirstColumn property (Excel)
 
 Returns or sets if the first column is formatted for the specified  **ListObject** object. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Z Property (Excel)
+title: ThreeDFormat.Z property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Z
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Z Property (Excel)
+# ThreeDFormat.Z property (Excel)
 
 Returns the Z order of the specified  **ThreeDFormat** object. Read/write **Single** .
 

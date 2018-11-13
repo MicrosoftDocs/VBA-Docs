@@ -1,5 +1,5 @@
 ---
-title: Range.Worksheet Property (Excel)
+title: Range.Worksheet property (Excel)
 keywords: vbaxl10.chm144220
 f1_keywords:
 - vbaxl10.chm144220
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Worksheet Property (Excel)
+# Range.Worksheet property (Excel)
 
 Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the worksheet containing the specified range. Read-only.
 

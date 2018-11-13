@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.Ordinal Property (Excel)
+title: SlicerCacheLevel.Ordinal property (Excel)
 keywords: vbaxl10.chm901075
 f1_keywords:
 - vbaxl10.chm901075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.Ordinal Property (Excel)
+# SlicerCacheLevel.Ordinal property (Excel)
 
 Returns the one-based ordinal value of the hierarchy level represented by the specified  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object. Read-only
 

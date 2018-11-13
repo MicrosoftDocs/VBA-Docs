@@ -1,5 +1,5 @@
 ---
-title: ListColumn.Index Property (Excel)
+title: ListColumn.Index property (Excel)
 keywords: vbaxl10.chm738076
 f1_keywords:
 - vbaxl10.chm738076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.Index Property (Excel)
+# ListColumn.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the **[ListColumn](Excel.ListColumn.md)** object within the **[ListColumns](Excel.ListColumn.md)** collection.
 

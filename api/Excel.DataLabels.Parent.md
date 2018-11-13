@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Parent Property (Excel)
+title: DataLabels.Parent property (Excel)
 keywords: vbaxl10.chm584073
 f1_keywords:
 - vbaxl10.chm584073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Parent Property (Excel)
+# DataLabels.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Connections.Parent Property (Excel)
+title: Connections.Parent property (Excel)
 keywords: vbaxl10.chm775075
 f1_keywords:
 - vbaxl10.chm775075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.Parent Property (Excel)
+# Connections.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.QuickAnalysis Property (Excel)
+title: Application.QuickAnalysis property (Excel)
 keywords: vbaxl10.chm133338
 f1_keywords:
 - vbaxl10.chm133338
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.QuickAnalysis Property (Excel)
+# Application.QuickAnalysis property (Excel)
 
 Returns a  **[QuickAnalysis](Excel.quickanalysis.md)** object that represents the Quick Analysis options of the application.
 

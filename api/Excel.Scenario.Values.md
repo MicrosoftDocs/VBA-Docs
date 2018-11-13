@@ -1,5 +1,5 @@
 ---
-title: Scenario.Values Property (Excel)
+title: Scenario.Values property (Excel)
 keywords: vbaxl10.chm364082
 f1_keywords:
 - vbaxl10.chm364082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Values Property (Excel)
+# Scenario.Values property (Excel)
 
 Returns a  **Variant** array that contains the current values of the changing cells for the scenario.
 

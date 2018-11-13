@@ -1,5 +1,5 @@
 ---
-title: Sort.Header Property (Excel)
+title: Sort.Header property (Excel)
 keywords: vbaxl10.chm847074
 f1_keywords:
 - vbaxl10.chm847074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.Header Property (Excel)
+# Sort.Header property (Excel)
 
 Specifies whether the first row contains header information. Read/write  **[XlYesNoGuess](Excel.XlYesNoGuess.md)** .
 

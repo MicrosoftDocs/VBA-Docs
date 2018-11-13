@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RepeatItemsOnEachPrintedPage Property (Excel)
+title: PivotTable.RepeatItemsOnEachPrintedPage property (Excel)
 keywords: vbaxl10.chm235135
 f1_keywords:
 - vbaxl10.chm235135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RepeatItemsOnEachPrintedPage Property (Excel)
+# PivotTable.RepeatItemsOnEachPrintedPage property (Excel)
 
  **True** if row, column, and item labels appear on the first row of each page when the specified PivotTable report is printed. **False** if labels are printed only on the first page. The default value is **True** . Read/write **Boolean** .
 

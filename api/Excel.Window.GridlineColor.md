@@ -1,5 +1,5 @@
 ---
-title: Window.GridlineColor Property (Excel)
+title: Window.GridlineColor property (Excel)
 keywords: vbaxl10.chm356093
 f1_keywords:
 - vbaxl10.chm356093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.GridlineColor Property (Excel)
+# Window.GridlineColor property (Excel)
 
 Returns or sets the gridline color as an RGB value. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileTextQualifier Property (Excel)
+title: QueryTable.TextFileTextQualifier property (Excel)
 keywords: vbaxl10.chm518101
 f1_keywords:
 - vbaxl10.chm518101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileTextQualifier Property (Excel)
+# QueryTable.TextFileTextQualifier property (Excel)
 
 Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/write  **[XlTextQualifier](Excel.XlTextQualifier.md)** .
 

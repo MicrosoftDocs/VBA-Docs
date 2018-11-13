@@ -1,5 +1,5 @@
 ---
-title: Workbook.ProtectStructure Property (Excel)
+title: Workbook.ProtectStructure property (Excel)
 keywords: vbaxl10.chm199131
 f1_keywords:
 - vbaxl10.chm199131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ProtectStructure Property (Excel)
+# Workbook.ProtectStructure property (Excel)
 
  **True** if the order of the sheets in the workbook is protected. Read-only **Boolean** .
 

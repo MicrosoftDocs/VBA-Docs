@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Creator Property (Excel)
+title: SparklineGroup.Creator property (Excel)
 keywords: vbaxl10.chm870074
 f1_keywords:
 - vbaxl10.chm870074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Creator Property (Excel)
+# SparklineGroup.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

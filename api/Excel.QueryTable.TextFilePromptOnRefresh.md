@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFilePromptOnRefresh Property (Excel)
+title: QueryTable.TextFilePromptOnRefresh property (Excel)
 keywords: vbaxl10.chm518115
 f1_keywords:
 - vbaxl10.chm518115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFilePromptOnRefresh Property (Excel)
+# QueryTable.TextFilePromptOnRefresh property (Excel)
 
  **True** if you want to specify the name of the imported text file each time the query table is refreshed. The **Import Text File** dialog box allows you to specify the path and file name. The default value is **False** . Read/write **Boolean** .
 

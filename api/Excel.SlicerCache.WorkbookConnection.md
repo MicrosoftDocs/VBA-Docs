@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.WorkbookConnection Property (Excel)
+title: SlicerCache.WorkbookConnection property (Excel)
 keywords: vbaxl10.chm897076
 f1_keywords:
 - vbaxl10.chm897076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.WorkbookConnection Property (Excel)
+# SlicerCache.WorkbookConnection property (Excel)
 
 Gets or sets the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that represents the data connection used by the specified slicer. Read/Write.
 

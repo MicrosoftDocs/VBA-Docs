@@ -1,5 +1,5 @@
 ---
-title: WebOptions.AllowPNG Property (Excel)
+title: WebOptions.AllowPNG property (Excel)
 keywords: vbaxl10.chm662078
 f1_keywords:
 - vbaxl10.chm662078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.AllowPNG Property (Excel)
+# WebOptions.AllowPNG property (Excel)
 
  **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a Web page. **False** if PNG is not allowed as an output format. The default value is **False** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintQuality Property (Excel)
+title: PageSetup.PrintQuality property (Excel)
 keywords: vbaxl10.chm473096
 f1_keywords:
 - vbaxl10.chm473096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintQuality Property (Excel)
+# PageSetup.PrintQuality property (Excel)
 
 Returns or sets the print quality. Read/write  **Variant** .
 

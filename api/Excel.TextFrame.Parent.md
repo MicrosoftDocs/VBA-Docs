@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Parent Property (Excel)
+title: TextFrame.Parent property (Excel)
 keywords: vbaxl10.chm643075
 f1_keywords:
 - vbaxl10.chm643075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Parent Property (Excel)
+# TextFrame.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

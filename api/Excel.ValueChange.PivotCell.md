@@ -1,5 +1,5 @@
 ---
-title: ValueChange.PivotCell Property (Excel)
+title: ValueChange.PivotCell property (Excel)
 keywords: vbaxl10.chm889075
 f1_keywords:
 - vbaxl10.chm889075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.PivotCell Property (Excel)
+# ValueChange.PivotCell property (Excel)
 
 Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents the cell (tuple) that was changed. Read-only
 

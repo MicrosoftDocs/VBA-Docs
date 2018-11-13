@@ -1,5 +1,5 @@
 ---
-title: Workbook.Sheets Property (Excel)
+title: Workbook.Sheets property (Excel)
 keywords: vbaxl10.chm199152
 f1_keywords:
 - vbaxl10.chm199152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Sheets Property (Excel)
+# Workbook.Sheets property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the sheets in the specified workbook. Read-only **Sheets** object.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObject.AutoUpdate Property (Excel)
+title: OLEObject.AutoUpdate property (Excel)
 keywords: vbaxl10.chm417075
 f1_keywords:
 - vbaxl10.chm417075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.AutoUpdate Property (Excel)
+# OLEObject.AutoUpdate property (Excel)
 
  **True** if the OLE object is updated automatically when the source changes. Valid only if the object is linked (its **OLEType** property must be **xlOLELink**). Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Depth Property (Excel)
+title: TickLabels.Depth property (Excel)
 keywords: vbaxl10.chm616084
 f1_keywords:
 - vbaxl10.chm616084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Depth Property (Excel)
+# TickLabels.Depth property (Excel)
 
 Returns a  **Long** value that represents the number of levels of category tick labels.
 

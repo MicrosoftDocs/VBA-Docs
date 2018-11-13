@@ -1,5 +1,5 @@
 ---
-title: CubeField.Creator Property (Excel)
+title: CubeField.Creator property (Excel)
 keywords: vbaxl10.chm667074
 f1_keywords:
 - vbaxl10.chm667074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Creator Property (Excel)
+# CubeField.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

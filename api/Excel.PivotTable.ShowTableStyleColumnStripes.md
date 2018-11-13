@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowTableStyleColumnStripes Property (Excel)
+title: PivotTable.ShowTableStyleColumnStripes property (Excel)
 keywords: vbaxl10.chm235174
 f1_keywords:
 - vbaxl10.chm235174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowTableStyleColumnStripes Property (Excel)
+# PivotTable.ShowTableStyleColumnStripes property (Excel)
 
 The  **ShowTableStyleColumnStripes** property displays banded columns in which even columns are formatted differently from odd columns. This makes PivotTables easier to read. Read/write **Boolean** .
 

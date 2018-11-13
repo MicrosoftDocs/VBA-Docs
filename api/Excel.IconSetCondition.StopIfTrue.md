@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.StopIfTrue Property (Excel)
+title: IconSetCondition.StopIfTrue property (Excel)
 keywords: vbaxl10.chm812074
 f1_keywords:
 - vbaxl10.chm812074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.StopIfTrue Property (Excel)
+# IconSetCondition.StopIfTrue property (Excel)
 
 Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
 

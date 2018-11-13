@@ -1,5 +1,5 @@
 ---
-title: XlRoutingSlipDelivery Enumeration (Excel)
+title: xlRoutingSlipDelivery enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRoutingSlipDelivery
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRoutingSlipDelivery Enumeration (Excel)
+# xlRoutingSlipDelivery enumeration (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

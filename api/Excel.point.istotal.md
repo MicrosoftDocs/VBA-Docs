@@ -1,5 +1,5 @@
 ---
-title: Point.IsTotal Property (Excel)
+title: Point.IsTotal property (Excel)
 keywords: vbaxl10.chm576110
 f1_keywords:
 - vbaxl10.chm576110
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Point.IsTotal Property (Excel)
+# Point.IsTotal property (Excel)
 
  **True** if the point represents a total. Read/write **Boolean**.
 

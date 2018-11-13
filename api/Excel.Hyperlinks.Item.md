@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Property (Excel)
+title: Hyperlinks.Item property (Excel)
 keywords: vbaxl10.chm534075
 f1_keywords:
 - vbaxl10.chm534075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Item Property (Excel)
+# Hyperlinks.Item property (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.CommandType Property (Excel)
+title: DataFeedConnection.CommandType property (Excel)
 keywords: vbaxl10.chm928075
 f1_keywords:
 - vbaxl10.chm928075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.CommandType Property (Excel)
+# DataFeedConnection.CommandType property (Excel)
 
 Returns or sets the command string for the specified data source.  **Variant** Read/Write
 

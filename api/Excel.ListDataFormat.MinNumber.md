@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.MinNumber Property (Excel)
+title: ListDataFormat.MinNumber property (Excel)
 keywords: vbaxl10.chm758081
 f1_keywords:
 - vbaxl10.chm758081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.MinNumber Property (Excel)
+# ListDataFormat.MinNumber property (Excel)
 
  Returns a **Variant** containing the minimum value allowed in this field in the list column. This can be a negative floating point number. Read-only **Variant** .
 

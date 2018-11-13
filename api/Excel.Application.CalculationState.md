@@ -1,5 +1,5 @@
 ---
-title: Application.CalculationState Property (Excel)
+title: Application.CalculationState property (Excel)
 keywords: vbaxl10.chm133265
 f1_keywords:
 - vbaxl10.chm133265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculationState Property (Excel)
+# Application.CalculationState property (Excel)
 
 Returns an  **[XlCalculationState](Excel.XlCalculationState.md)** constant that indicates the calculation state of the application, for any calculations that are being performed in Microsoft Excel. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopType Property (Excel)
+title: ThreeDFormat.BevelTopType property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelTopType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelTopType Property (Excel)
+# ThreeDFormat.BevelTopType property (Excel)
 
 Returns or sets the top Bevel type for a  **ThreeDFormat** object. Read/write **[MsoBevelType](./Office.MsoBevelType.md)** .
 

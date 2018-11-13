@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnitIsAuto Property (Excel)
+title: Axis.BaseUnitIsAuto property (Excel)
 keywords: vbaxl10.chm561105
 f1_keywords:
 - vbaxl10.chm561105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.BaseUnitIsAuto Property (Excel)
+# Axis.BaseUnitIsAuto property (Excel)
 
  **True** if Microsoft Excel chooses appropriate base units for the specified category axis. The default value is **True** . Read/write **Boolean** .
 

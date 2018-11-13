@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.LineWeight Property (Excel)
+title: SparklineGroup.LineWeight property (Excel)
 keywords: vbaxl10.chm871090
 f1_keywords:
 - vbaxl10.chm871090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.LineWeight Property (Excel)
+# SparklineGroup.LineWeight property (Excel)
 
 Gets or sets the thickness of the sparklines in the sparkline group. Read/write.
 

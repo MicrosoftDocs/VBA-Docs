@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Creator Property (Excel)
+title: CalloutFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Creator Property (Excel)
+# CalloutFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

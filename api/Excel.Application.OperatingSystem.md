@@ -1,5 +1,5 @@
 ---
-title: Application.OperatingSystem Property (Excel)
+title: Application.OperatingSystem property (Excel)
 keywords: vbaxl10.chm133187
 f1_keywords:
 - vbaxl10.chm133187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OperatingSystem Property (Excel)
+# Application.OperatingSystem property (Excel)
 
 Returns the name and version number of the current operating system — for example, "Windows (32-bit) 4.00" or "Macintosh 7.00".
 

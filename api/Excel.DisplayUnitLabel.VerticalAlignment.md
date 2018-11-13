@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.VerticalAlignment Property (Excel)
+title: DisplayUnitLabel.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm673088
 f1_keywords:
 - vbaxl10.chm673088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.VerticalAlignment Property (Excel)
+# DisplayUnitLabel.VerticalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
 

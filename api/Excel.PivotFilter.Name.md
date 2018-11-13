@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Name Property (Excel)
+title: PivotFilter.Name property (Excel)
 keywords: vbaxl10.chm770075
 f1_keywords:
 - vbaxl10.chm770075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Name Property (Excel)
+# PivotFilter.Name property (Excel)
 
 This property provides the option of naming filters for reference. You cannot rely on the index value for accurate reference because this value can change.
 

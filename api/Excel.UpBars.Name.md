@@ -1,5 +1,5 @@
 ---
-title: UpBars.Name Property (Excel)
+title: UpBars.Name property (Excel)
 keywords: vbaxl10.chm608074
 f1_keywords:
 - vbaxl10.chm608074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Name Property (Excel)
+# UpBars.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

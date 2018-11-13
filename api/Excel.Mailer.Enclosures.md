@@ -1,5 +1,5 @@
 ---
-title: Mailer.Enclosures Property (Excel)
+title: Mailer.Enclosures property (Excel)
 keywords: vbaxl10.chm499075
 f1_keywords:
 - vbaxl10.chm499075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.Enclosures Property (Excel)
+# Mailer.Enclosures property (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

@@ -1,5 +1,5 @@
 ---
-title: DownBars.Creator Property (Excel)
+title: DownBars.Creator property (Excel)
 keywords: vbaxl10.chm609074
 f1_keywords:
 - vbaxl10.chm609074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Creator Property (Excel)
+# DownBars.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

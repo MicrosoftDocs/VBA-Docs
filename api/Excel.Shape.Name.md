@@ -1,5 +1,5 @@
 ---
-title: Shape.Name Property (Excel)
+title: Shape.Name property (Excel)
 keywords: vbaxl10.chm636103
 f1_keywords:
 - vbaxl10.chm636103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Name Property (Excel)
+# Shape.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

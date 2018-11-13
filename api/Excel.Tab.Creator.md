@@ -1,5 +1,5 @@
 ---
-title: Tab.Creator Property (Excel)
+title: Tab.Creator property (Excel)
 keywords: vbaxl10.chm722074
 f1_keywords:
 - vbaxl10.chm722074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tab.Creator Property (Excel)
+# Tab.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: WebOptions.FolderSuffix Property (Excel)
+title: WebOptions.FolderSuffix property (Excel)
 keywords: vbaxl10.chm662083
 f1_keywords:
 - vbaxl10.chm662083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.FolderSuffix Property (Excel)
+# WebOptions.FolderSuffix property (Excel)
 
 Returns the folder suffix that Microsoft Excel uses when you save a document as a Web page, use long file names, and choose to save supporting files in a separate folder (that is, if the  **[UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)** and **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** properties are set to **True**). Read-only **String** .
 

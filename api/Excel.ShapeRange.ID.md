@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ID Property (Excel)
+title: ShapeRange.ID property (Excel)
 keywords: vbaxl10.chm640133
 f1_keywords:
 - vbaxl10.chm640133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ID Property (Excel)
+# ShapeRange.ID property (Excel)
 
 Returns a Long value that represents the type for the specified object.
 

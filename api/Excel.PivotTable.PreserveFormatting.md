@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PreserveFormatting Property (Excel)
+title: PivotTable.PreserveFormatting property (Excel)
 keywords: vbaxl10.chm235122
 f1_keywords:
 - vbaxl10.chm235122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PreserveFormatting Property (Excel)
+# PivotTable.PreserveFormatting property (Excel)
 
  **True** if formatting is preserved when the report is refreshed or recalculated by operations such as pivoting, sorting, or changing page field items.For query tables, this property is **True** if any formatting common to the first five rows of data are applied to new rows of data in the query table. Unused cells aren't formatted. The property is **False** if the last AutoFormat applied to the query table is applied to new rows of data. The default value is **True** .
 

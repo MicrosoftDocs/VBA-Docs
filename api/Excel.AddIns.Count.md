@@ -1,5 +1,5 @@
 ---
-title: AddIns.Count Property (Excel)
+title: AddIns.Count property (Excel)
 keywords: vbaxl10.chm187074
 f1_keywords:
 - vbaxl10.chm187074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Count Property (Excel)
+# AddIns.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

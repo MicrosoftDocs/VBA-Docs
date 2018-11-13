@@ -1,5 +1,5 @@
 ---
-title: PivotTable.LayoutRowDefault Property (Excel)
+title: PivotTable.LayoutRowDefault property (Excel)
 keywords: vbaxl10.chm235164
 f1_keywords:
 - vbaxl10.chm235164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.LayoutRowDefault Property (Excel)
+# PivotTable.LayoutRowDefault property (Excel)
 
 This property specifies the layout settings for PivotFields when they are added to the PivotTable for the first time. Read/write  **xlLayoutRowType** .
 

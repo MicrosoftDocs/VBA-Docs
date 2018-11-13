@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScrollBars Property (Excel)
+title: Application.DisplayScrollBars property (Excel)
 keywords: vbaxl10.chm133126
 f1_keywords:
 - vbaxl10.chm133126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayScrollBars Property (Excel)
+# Application.DisplayScrollBars property (Excel)
 
  **True** if scroll bars are visible for all workbooks. Read/write **Boolean** .
 

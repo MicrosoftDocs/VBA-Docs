@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.Level Property (Excel)
+title: TimelineViewState.Level property (Excel)
 keywords: vbaxl10.chm952077
 f1_keywords:
 - vbaxl10.chm952077
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.Level Property (Excel)
+# TimelineViewState.Level property (Excel)
 
-Get or set the displayed level. [XlTimelineLevel Enumeration (Excel)](Excel.xltimelinelevel.md) Read/Write
+Get or set the displayed level. [xlTimelineLevel enumeration (Excel)](Excel.xltimelinelevel.md) Read/Write
 
 
 ## Syntax

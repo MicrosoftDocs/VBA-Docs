@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ChangeList Property (Excel)
+title: PivotTable.ChangeList property (Excel)
 keywords: vbaxl10.chm235196
 f1_keywords:
 - vbaxl10.chm235196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ChangeList Property (Excel)
+# PivotTable.ChangeList property (Excel)
 
 Returns the  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection that represents the list of changes that have been made to the specified PivotTable based on an OLAP data source. Read-only
 

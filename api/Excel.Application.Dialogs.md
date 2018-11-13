@@ -1,5 +1,5 @@
 ---
-title: Application.Dialogs Property (Excel)
+title: Application.Dialogs property (Excel)
 keywords: vbaxl10.chm133118
 f1_keywords:
 - vbaxl10.chm133118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Dialogs Property (Excel)
+# Application.Dialogs property (Excel)
 
 Returns a  **[Dialogs](Excel.Dialogs.md)** collection that represents all built-in dialog boxes. Read-only.
 

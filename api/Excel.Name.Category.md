@@ -1,5 +1,5 @@
 ---
-title: Name.Category Property (Excel)
+title: Name.Category property (Excel)
 keywords: vbaxl10.chm490075
 f1_keywords:
 - vbaxl10.chm490075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.Category Property (Excel)
+# Name.Category property (Excel)
 
 Returns or sets the category for the specified name in the language of the macro. The name must refer to a custom function or command. Read/write  **String** .
 

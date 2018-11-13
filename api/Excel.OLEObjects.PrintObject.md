@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.PrintObject Property (Excel)
+title: OLEObjects.PrintObject property (Excel)
 keywords: vbaxl10.chm419086
 f1_keywords:
 - vbaxl10.chm419086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.PrintObject Property (Excel)
+# OLEObjects.PrintObject property (Excel)
 
  **True** if the object will be printed when the document is printed. Read/write **Boolean** .
 

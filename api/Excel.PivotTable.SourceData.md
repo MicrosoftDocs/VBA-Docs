@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SourceData Property (Excel)
+title: PivotTable.SourceData property (Excel)
 keywords: vbaxl10.chm235097
 f1_keywords:
 - vbaxl10.chm235097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SourceData Property (Excel)
+# PivotTable.SourceData property (Excel)
 
 Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant** .
 

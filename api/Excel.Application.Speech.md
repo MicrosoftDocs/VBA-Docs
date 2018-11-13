@@ -1,5 +1,5 @@
 ---
-title: Application.Speech Property (Excel)
+title: Application.Speech property (Excel)
 keywords: vbaxl10.chm133285
 f1_keywords:
 - vbaxl10.chm133285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Speech Property (Excel)
+# Application.Speech property (Excel)
 
 Returns a  **[Speech](Excel.Speech.md)** object.
 

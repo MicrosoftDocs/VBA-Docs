@@ -1,5 +1,5 @@
 ---
-title: Window.EnableResize Property (Excel)
+title: Window.EnableResize property (Excel)
 keywords: vbaxl10.chm356091
 f1_keywords:
 - vbaxl10.chm356091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.EnableResize Property (Excel)
+# Window.EnableResize property (Excel)
 
  **True** if the window can be resized. Read/write **Boolean** .
 

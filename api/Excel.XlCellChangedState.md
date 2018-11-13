@@ -1,14 +1,14 @@
 ---
-title: XlCellChangedState Enumeration (Excel)
+title: xlCellChangedState enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlCellChangedState
+- Excel.xlCellChangedState
 ms.assetid: d0242314-afe9-f5e0-6c54-65ca7b4fb800
 ms.date: 06/08/2017
 ---
 
 
-# XlCellChangedState Enumeration (Excel)
+# xlCellChangedState enumeration (Excel)
 
 Specifies whether a PivotTable value cell has been edited or recalculated since the PivotTable report was created or the last commit operation was performed. 
 
@@ -22,6 +22,6 @@ Specifies whether a PivotTable value cell has been edited or recalculated since 
 
 ## Remarks
 
-Applying and saving changes applies only to PivotTable reports with OLAP data sources. For more information about the meaning of the  **XlCellChangedState** enumeration constant values, see the **[CellChanged](Excel.PivotCell.CellChanged.md)** property of the **[PivotCell](Excel.PivotCell.md)** object.
+Applying and saving changes applies only to PivotTable reports with OLAP data sources. For more information about the meaning of the  **xlCellChangedState** enumeration constant values, see the **[CellChanged](Excel.PivotCell.CellChanged.md)** property of the **[PivotCell](Excel.PivotCell.md)** object.
 
 

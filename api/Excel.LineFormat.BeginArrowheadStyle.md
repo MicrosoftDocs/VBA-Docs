@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadStyle Property (Excel)
+title: LineFormat.BeginArrowheadStyle property (Excel)
 keywords: vbaxl10.chm110004
 f1_keywords:
 - vbaxl10.chm110004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.BeginArrowheadStyle Property (Excel)
+# LineFormat.BeginArrowheadStyle property (Excel)
 
 Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** .
 

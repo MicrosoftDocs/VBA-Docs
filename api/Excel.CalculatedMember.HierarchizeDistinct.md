@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.HierarchizeDistinct Property (Excel)
+title: CalculatedMember.HierarchizeDistinct property (Excel)
 keywords: vbaxl10.chm686083
 f1_keywords:
 - vbaxl10.chm686083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.HierarchizeDistinct Property (Excel)
+# CalculatedMember.HierarchizeDistinct property (Excel)
 
 Returns or sets whether to order and remove duplicates when displaying the hierarchy of the specified named set in a PivotTable report based on an OLAP cube. Read/write
 

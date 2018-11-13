@@ -1,5 +1,5 @@
 ---
-title: PivotField.EnableMultiplePageItems Property (Excel)
+title: PivotField.EnableMultiplePageItems property (Excel)
 keywords: vbaxl10.chm240151
 f1_keywords:
 - vbaxl10.chm240151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.EnableMultiplePageItems Property (Excel)
+# PivotField.EnableMultiplePageItems property (Excel)
 
 Used for specifying whether or not check boxes are present in the filter drop-down list for fields in the page area. Read/write  **Boolean** .
 

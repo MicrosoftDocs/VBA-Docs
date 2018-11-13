@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ActiveFilters Property (Excel)
+title: PivotTable.ActiveFilters property (Excel)
 keywords: vbaxl10.chm235168
 f1_keywords:
 - vbaxl10.chm235168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ActiveFilters Property (Excel)
+# PivotTable.ActiveFilters property (Excel)
 
 Indicates the currently active filter in the specified PivotTable. Read-only.
 

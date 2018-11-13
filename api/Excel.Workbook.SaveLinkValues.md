@@ -1,5 +1,5 @@
 ---
-title: Workbook.SaveLinkValues Property (Excel)
+title: Workbook.SaveLinkValues property (Excel)
 keywords: vbaxl10.chm199148
 f1_keywords:
 - vbaxl10.chm199148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SaveLinkValues Property (Excel)
+# Workbook.SaveLinkValues property (Excel)
 
  **True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean** .
 

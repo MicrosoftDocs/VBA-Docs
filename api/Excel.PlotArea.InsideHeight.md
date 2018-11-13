@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideHeight Property (Excel)
+title: PlotArea.InsideHeight property (Excel)
 keywords: vbaxl10.chm618091
 f1_keywords:
 - vbaxl10.chm618091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideHeight Property (Excel)
+# PlotArea.InsideHeight property (Excel)
 
 Returns the inside height of the plot area, in points. Read-write  **Double** .
 

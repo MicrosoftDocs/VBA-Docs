@@ -1,5 +1,5 @@
 ---
-title: AutoRecover.Parent Property (Excel)
+title: AutoRecover.Parent property (Excel)
 keywords: vbaxl10.chm695075
 f1_keywords:
 - vbaxl10.chm695075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover.Parent Property (Excel)
+# AutoRecover.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

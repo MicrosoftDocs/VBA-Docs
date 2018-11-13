@@ -1,5 +1,5 @@
 ---
-title: Worksheet.AutoFilter Property (Excel)
+title: Worksheet.AutoFilter property (Excel)
 keywords: vbaxl10.chm175144
 f1_keywords:
 - vbaxl10.chm175144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.AutoFilter Property (Excel)
+# Worksheet.AutoFilter property (Excel)
 
 Returns an  **AutoFilter** object if filtering is on. Read-only.
 

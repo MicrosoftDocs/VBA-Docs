@@ -1,5 +1,5 @@
 ---
-title: TableObject.Parent Property (Excel)
+title: TableObject.Parent property (Excel)
 keywords: vbaxl10.chm915075
 f1_keywords:
 - vbaxl10.chm915075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.Parent Property (Excel)
+# TableObject.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[TableObject Object (Excel)](Excel.tableobject.md) object. Read-only.
 

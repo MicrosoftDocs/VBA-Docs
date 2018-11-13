@@ -1,5 +1,5 @@
 ---
-title: PivotField.UseMemberPropertyAsCaption Property (Excel)
+title: PivotField.UseMemberPropertyAsCaption property (Excel)
 keywords: vbaxl10.chm240139
 f1_keywords:
 - vbaxl10.chm240139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.UseMemberPropertyAsCaption Property (Excel)
+# PivotField.UseMemberPropertyAsCaption property (Excel)
 
 This property is used to control whether member property captions are used for PivotItem captions of the PivotField. Read/write  **Boolean** .
 

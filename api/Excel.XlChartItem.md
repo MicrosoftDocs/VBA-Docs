@@ -1,14 +1,14 @@
 ---
-title: XlChartItem Enumeration (Excel)
+title: xlChartItem enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlChartItem
+- Excel.xlChartItem
 ms.assetid: 34a85683-2693-10b3-cdb2-e40e123071ad
 ms.date: 06/08/2017
 ---
 
 
-# XlChartItem Enumeration (Excel)
+# xlChartItem enumeration (Excel)
 
 Specifies the type of the chart item.
 

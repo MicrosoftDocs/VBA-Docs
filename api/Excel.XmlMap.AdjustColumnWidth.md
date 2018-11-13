@@ -1,5 +1,5 @@
 ---
-title: XmlMap.AdjustColumnWidth Property (Excel)
+title: XmlMap.AdjustColumnWidth property (Excel)
 keywords: vbaxl10.chm754078
 f1_keywords:
 - vbaxl10.chm754078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.AdjustColumnWidth Property (Excel)
+# XmlMap.AdjustColumnWidth property (Excel)
 
  **True** if the column widths are automatically adjusted for the best fit each time you refresh the specified XML map. **False** if the column widths aren't automatically adjusted with each refresh. The default value is **True** . Read/write **Boolean** .
 

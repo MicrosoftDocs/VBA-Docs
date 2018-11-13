@@ -1,5 +1,5 @@
 ---
-title: XPath.Parent Property (Excel)
+title: XPath.Parent property (Excel)
 keywords: vbaxl10.chm759075
 f1_keywords:
 - vbaxl10.chm759075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath.Parent Property (Excel)
+# XPath.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

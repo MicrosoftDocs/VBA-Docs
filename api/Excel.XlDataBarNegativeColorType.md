@@ -1,5 +1,5 @@
 ---
-title: XlDataBarNegativeColorType Enumeration (Excel)
+title: xlDataBarNegativeColorType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataBarNegativeColorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataBarNegativeColorType Enumeration (Excel)
+# xlDataBarNegativeColorType enumeration (Excel)
 
 Specifies whether to use the same border and fill color as postive data bars.
 

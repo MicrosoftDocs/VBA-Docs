@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageFieldWrapCount Property (Excel)
+title: PivotTable.PageFieldWrapCount property (Excel)
 keywords: vbaxl10.chm235121
 f1_keywords:
 - vbaxl10.chm235121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageFieldWrapCount Property (Excel)
+# PivotTable.PageFieldWrapCount property (Excel)
 
 Returns or sets the number of page fields in each column or row in the PivotTable report. Read/write  **Long** .
 

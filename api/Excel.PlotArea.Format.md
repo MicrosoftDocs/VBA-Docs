@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Format Property (Excel)
+title: PlotArea.Format property (Excel)
 keywords: vbaxl10.chm618093
 f1_keywords:
 - vbaxl10.chm618093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Format Property (Excel)
+# PlotArea.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

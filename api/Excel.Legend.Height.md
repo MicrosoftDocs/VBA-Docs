@@ -1,5 +1,5 @@
 ---
-title: Legend.Height Property (Excel)
+title: Legend.Height property (Excel)
 keywords: vbaxl10.chm622083
 f1_keywords:
 - vbaxl10.chm622083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Height Property (Excel)
+# Legend.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the object.
 

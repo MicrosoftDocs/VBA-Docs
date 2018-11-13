@@ -1,5 +1,5 @@
 ---
-title: Application.Watches Property (Excel)
+title: Application.Watches property (Excel)
 keywords: vbaxl10.chm133267
 f1_keywords:
 - vbaxl10.chm133267
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Watches Property (Excel)
+# Application.Watches property (Excel)
 
 Returns a  **[Watches](Excel.Watches.md)** object representing a range which is tracked when the worksheet is recalculated.
 

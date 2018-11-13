@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotColumnAxis Property (Excel)
+title: PivotTable.PivotColumnAxis property (Excel)
 keywords: vbaxl10.chm235156
 f1_keywords:
 - vbaxl10.chm235156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotColumnAxis Property (Excel)
+# PivotTable.PivotColumnAxis property (Excel)
 
 Returns a  **PivotAxis** object representing the entire column axis. Read-only **PivotAxis** .
 

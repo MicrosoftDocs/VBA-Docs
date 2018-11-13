@@ -1,5 +1,5 @@
 ---
-title: Pane.ScrollRow Property (Excel)
+title: Pane.ScrollRow property (Excel)
 keywords: vbaxl10.chm360077
 f1_keywords:
 - vbaxl10.chm360077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.ScrollRow Property (Excel)
+# Pane.ScrollRow property (Excel)
 
 Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long** .
 

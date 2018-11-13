@@ -1,5 +1,5 @@
 ---
-title: Application.UserLibraryPath Property (Excel)
+title: Application.UserLibraryPath property (Excel)
 keywords: vbaxl10.chm133249
 f1_keywords:
 - vbaxl10.chm133249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserLibraryPath Property (Excel)
+# Application.UserLibraryPath property (Excel)
 
 Returns the path to the location on the user's computer where the COM add-ins are installed. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowDrillIndicators Property (Excel)
+title: PivotTable.ShowDrillIndicators property (Excel)
 keywords: vbaxl10.chm235158
 f1_keywords:
 - vbaxl10.chm235158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowDrillIndicators Property (Excel)
+# PivotTable.ShowDrillIndicators property (Excel)
 
 The  **ShowDrillIndicators** property is used for toggling the display of drill indicators in the PivotTable. Read/write **Boolean** .
 

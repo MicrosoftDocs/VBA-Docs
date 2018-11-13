@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.Type Property (Excel)
+title: CalculatedMember.Type property (Excel)
 keywords: vbaxl10.chm686080
 f1_keywords:
 - vbaxl10.chm686080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.Type Property (Excel)
+# CalculatedMember.Type property (Excel)
 
 Returns a  **[XlCalculatedMemberType](Excel.XlCalculatedMemberType.md)** value that represents the calculated member type.
 

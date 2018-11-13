@@ -1,5 +1,5 @@
 ---
-title: Panes.Parent Property (Excel)
+title: Panes.Parent property (Excel)
 keywords: vbaxl10.chm357075
 f1_keywords:
 - vbaxl10.chm357075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Parent Property (Excel)
+# Panes.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

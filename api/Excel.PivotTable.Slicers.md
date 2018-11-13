@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Slicers Property (Excel)
+title: PivotTable.Slicers property (Excel)
 keywords: vbaxl10.chm235197
 f1_keywords:
 - vbaxl10.chm235197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Slicers Property (Excel)
+# PivotTable.Slicers property (Excel)
 
 Returns the  **[Slicers](Excel.Slicers.md)** collection for the specified PivotTable. Read-only
 

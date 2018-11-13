@@ -1,5 +1,5 @@
 ---
-title: Workbook.CustomViews Property (Excel)
+title: Workbook.CustomViews property (Excel)
 keywords: vbaxl10.chm199164
 f1_keywords:
 - vbaxl10.chm199164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CustomViews Property (Excel)
+# Workbook.CustomViews property (Excel)
 
 Returns a  **[CustomViews](Excel.CustomViews.md)** collection that represents all the custom views for the workbook.
 

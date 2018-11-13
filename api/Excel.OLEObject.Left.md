@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Left Property (Excel)
+title: OLEObject.Left property (Excel)
 keywords: vbaxl10.chm415084
 f1_keywords:
 - vbaxl10.chm415084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Left Property (Excel)
+# OLEObject.Left property (Excel)
 
 Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCaches.Parent Property (Excel)
+title: SlicerCaches.Parent property (Excel)
 keywords: vbaxl10.chm894075
 f1_keywords:
 - vbaxl10.chm894075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCaches.Parent Property (Excel)
+# SlicerCaches.Parent property (Excel)
 
 Returns the parent  **[Workbook](Excel.Workbook.md)** object for the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ValueChange.AllocationWeightExpression Property (Excel)
+title: ValueChange.AllocationWeightExpression property (Excel)
 keywords: vbaxl10.chm889080
 f1_keywords:
 - vbaxl10.chm889080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.AllocationWeightExpression Property (Excel)
+# ValueChange.AllocationWeightExpression property (Excel)
 
 Returns the MDX weight expression to use for this value when performing what-if analysis. Read-only
 

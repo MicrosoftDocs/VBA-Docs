@@ -1,5 +1,5 @@
 ---
-title: LinearGradient.Degree Property (Excel)
+title: LinearGradient.Degree property (Excel)
 keywords: vbaxl10.chm855074
 f1_keywords:
 - vbaxl10.chm855074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinearGradient.Degree Property (Excel)
+# LinearGradient.Degree property (Excel)
 
 The angle of the linear gradient fill within a selection. Read/write
 

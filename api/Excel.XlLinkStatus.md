@@ -1,5 +1,5 @@
 ---
-title: XlLinkStatus Enumeration (Excel)
+title: xlLinkStatus enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLinkStatus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlLinkStatus Enumeration (Excel)
+# xlLinkStatus enumeration (Excel)
 
 Specifies the status of a link.
 

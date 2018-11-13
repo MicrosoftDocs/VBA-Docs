@@ -1,5 +1,5 @@
 ---
-title: UpBars.Format Property (Excel)
+title: UpBars.Format property (Excel)
 keywords: vbaxl10.chm608080
 f1_keywords:
 - vbaxl10.chm608080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Format Property (Excel)
+# UpBars.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

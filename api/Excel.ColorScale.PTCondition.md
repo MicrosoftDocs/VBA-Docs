@@ -1,5 +1,5 @@
 ---
-title: ColorScale.PTCondition Property (Excel)
+title: ColorScale.PTCondition property (Excel)
 keywords: vbaxl10.chm806082
 f1_keywords:
 - vbaxl10.chm806082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.PTCondition Property (Excel)
+# ColorScale.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

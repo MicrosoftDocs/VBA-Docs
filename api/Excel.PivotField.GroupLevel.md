@@ -1,5 +1,5 @@
 ---
-title: PivotField.GroupLevel Property (Excel)
+title: PivotField.GroupLevel property (Excel)
 keywords: vbaxl10.chm240082
 f1_keywords:
 - vbaxl10.chm240082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.GroupLevel Property (Excel)
+# PivotField.GroupLevel property (Excel)
 
 Returns the placement of the specified field within a group of fields (if the field is a member of a grouped set of fields). Read-only.
 

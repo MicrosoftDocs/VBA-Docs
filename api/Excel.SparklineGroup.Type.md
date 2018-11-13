@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Type Property (Excel)
+title: SparklineGroup.Type property (Excel)
 keywords: vbaxl10.chm871084
 f1_keywords:
 - vbaxl10.chm871084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Type Property (Excel)
+# SparklineGroup.Type property (Excel)
 
 Gets or sets the type of sparkline for the group. Read/write.
 

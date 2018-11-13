@@ -1,5 +1,5 @@
 ---
-title: ListObject.TableStyle Property (Excel)
+title: ListObject.TableStyle property (Excel)
 keywords: vbaxl10.chm734100
 f1_keywords:
 - vbaxl10.chm734100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.TableStyle Property (Excel)
+# ListObject.TableStyle property (Excel)
 
 Gets or sets the table style for the specified  **ListObject** object. Read/write **Variant** .
 

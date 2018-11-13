@@ -1,5 +1,5 @@
 ---
-title: PivotField.PropertyParentField Property (Excel)
+title: PivotField.PropertyParentField property (Excel)
 keywords: vbaxl10.chm240132
 f1_keywords:
 - vbaxl10.chm240132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.PropertyParentField Property (Excel)
+# PivotField.PropertyParentField property (Excel)
 
 Returns a  **PivotField** object representing the field to which the properties in this field pertain.
 

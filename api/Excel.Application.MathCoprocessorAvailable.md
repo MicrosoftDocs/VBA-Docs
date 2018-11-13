@@ -1,5 +1,5 @@
 ---
-title: Application.MathCoprocessorAvailable Property (Excel)
+title: Application.MathCoprocessorAvailable property (Excel)
 keywords: vbaxl10.chm133161
 f1_keywords:
 - vbaxl10.chm133161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MathCoprocessorAvailable Property (Excel)
+# Application.MathCoprocessorAvailable property (Excel)
 
  **True** if a math coprocessor is available. Read-only **Boolean** .
 

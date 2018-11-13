@@ -1,5 +1,5 @@
 ---
-title: XlDataBarBorderType Enumeration (Excel)
+title: xlDataBarBorderType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataBarBorderType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataBarBorderType Enumeration (Excel)
+# xlDataBarBorderType enumeration (Excel)
 
 Specifies the border of a data bar.
 

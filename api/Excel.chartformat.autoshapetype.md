@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.AutoShapeType Property (Excel)
+title: ChartFormat.AutoShapeType property (Excel)
 keywords: vbaxl10.chm861082
 f1_keywords:
 - vbaxl10.chm861082
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.AutoShapeType Property (Excel)
+# ChartFormat.AutoShapeType property (Excel)
 
 Returns the type of the specified shape.  **MsoAutoShapeType** Read-only
 

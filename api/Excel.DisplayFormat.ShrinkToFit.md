@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.ShrinkToFit Property (Excel)
+title: DisplayFormat.ShrinkToFit property (Excel)
 keywords: vbaxl10.chm893088
 f1_keywords:
 - vbaxl10.chm893088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.ShrinkToFit Property (Excel)
+# DisplayFormat.ShrinkToFit property (Excel)
 
 Returns a value that indicates if Microsoft Excel automatically shrinks text to fit in the available column width of the associated  **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

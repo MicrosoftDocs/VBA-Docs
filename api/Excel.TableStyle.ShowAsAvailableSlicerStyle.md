@@ -1,5 +1,5 @@
 ---
-title: TableStyle.ShowAsAvailableSlicerStyle Property (Excel)
+title: TableStyle.ShowAsAvailableSlicerStyle property (Excel)
 keywords: vbaxl10.chm839082
 f1_keywords:
 - vbaxl10.chm839082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.ShowAsAvailableSlicerStyle Property (Excel)
+# TableStyle.ShowAsAvailableSlicerStyle property (Excel)
 
 Returns or sets if the specified table style is shown as available in the slicer styles gallery. Read/write
 

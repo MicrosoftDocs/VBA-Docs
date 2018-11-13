@@ -1,5 +1,5 @@
 ---
-title: Floor.Thickness Property (Excel)
+title: Floor.Thickness property (Excel)
 keywords: vbaxl10.chm612082
 f1_keywords:
 - vbaxl10.chm612082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Thickness Property (Excel)
+# Floor.Thickness property (Excel)
 
 Returns or sets a  **Long** , specifying the thickness of the floor. Read/write.
 

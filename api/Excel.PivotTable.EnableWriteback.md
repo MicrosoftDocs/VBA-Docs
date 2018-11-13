@@ -1,5 +1,5 @@
 ---
-title: PivotTable.EnableWriteback Property (Excel)
+title: PivotTable.EnableWriteback property (Excel)
 keywords: vbaxl10.chm235186
 f1_keywords:
 - vbaxl10.chm235186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.EnableWriteback Property (Excel)
+# PivotTable.EnableWriteback property (Excel)
 
  Returns or sets whether writing back to the data source is enabled for the specified PivotTable. The default value is **False** . Read/write.
 

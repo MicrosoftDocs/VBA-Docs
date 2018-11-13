@@ -1,5 +1,5 @@
 ---
-title: Parameter.Value Property (Excel)
+title: Parameter.Value property (Excel)
 keywords: vbaxl10.chm523076
 f1_keywords:
 - vbaxl10.chm523076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.Value Property (Excel)
+# Parameter.Value property (Excel)
 
 Returns a  **Variant** value that represents the parameter value.
 

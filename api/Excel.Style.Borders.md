@@ -1,5 +1,5 @@
 ---
-title: Style.Borders Property (Excel)
+title: Style.Borders property (Excel)
 keywords: vbaxl10.chm177075
 f1_keywords:
 - vbaxl10.chm177075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Borders Property (Excel)
+# Style.Borders property (Excel)
 
 Returns a  **[Borders](Excel.Borders.md)** collection that represents the borders of a style or a range of cells (including a range defined as part of a conditional format).
 

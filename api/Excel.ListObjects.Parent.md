@@ -1,5 +1,5 @@
 ---
-title: ListObjects.Parent Property (Excel)
+title: ListObjects.Parent property (Excel)
 keywords: vbaxl10.chm731075
 f1_keywords:
 - vbaxl10.chm731075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObjects.Parent Property (Excel)
+# ListObjects.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

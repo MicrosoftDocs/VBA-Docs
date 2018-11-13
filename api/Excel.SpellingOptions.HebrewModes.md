@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.HebrewModes Property (Excel)
+title: SpellingOptions.HebrewModes property (Excel)
 keywords: vbaxl10.chm717083
 f1_keywords:
 - vbaxl10.chm717083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.HebrewModes Property (Excel)
+# SpellingOptions.HebrewModes property (Excel)
 
 Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)** .
 

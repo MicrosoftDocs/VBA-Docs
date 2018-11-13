@@ -1,5 +1,5 @@
 ---
-title: Series.Explosion Property (Excel)
+title: Series.Explosion property (Excel)
 keywords: vbaxl10.chm578083
 f1_keywords:
 - vbaxl10.chm578083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Explosion Property (Excel)
+# Series.Explosion property (Excel)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Returns 0 (zero) if there's no explosion (the tip of the slice is in the center of the pie). Read/write  **Long** .
 

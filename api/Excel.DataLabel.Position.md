@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Position Property (Excel)
+title: DataLabel.Position property (Excel)
 keywords: vbaxl10.chm582098
 f1_keywords:
 - vbaxl10.chm582098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Position Property (Excel)
+# DataLabel.Position property (Excel)
 
 Returns or sets a  **[XlDataLabelPosition](Excel.XlDataLabelPosition.md)** value that represents the position of the data label.
 

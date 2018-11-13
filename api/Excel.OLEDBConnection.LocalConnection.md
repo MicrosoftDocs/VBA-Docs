@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.LocalConnection Property (Excel)
+title: OLEDBConnection.LocalConnection property (Excel)
 keywords: vbaxl10.chm794080
 f1_keywords:
 - vbaxl10.chm794080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.LocalConnection Property (Excel)
+# OLEDBConnection.LocalConnection property (Excel)
 
 Returns or sets the connection string to an offline cube file. Read/write  **String** .
 

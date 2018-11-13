@@ -1,5 +1,5 @@
 ---
-title: Range.QueryTable Property (Excel)
+title: Range.QueryTable property (Excel)
 keywords: vbaxl10.chm144183
 f1_keywords:
 - vbaxl10.chm144183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.QueryTable Property (Excel)
+# Range.QueryTable property (Excel)
 
 Returns a  **[QueryTable](Excel.QueryTable.md)** object that represents the query table that intersects the specified **[Range](Excel.Range(object).md)** object.
 

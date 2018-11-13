@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Interior Property (Excel)
+title: FormatCondition.Interior property (Excel)
 keywords: vbaxl10.chm512078
 f1_keywords:
 - vbaxl10.chm512078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Interior Property (Excel)
+# FormatCondition.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object.
 

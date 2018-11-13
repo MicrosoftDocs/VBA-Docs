@@ -1,5 +1,5 @@
 ---
-title: Watch.Parent Property (Excel)
+title: Watch.Parent property (Excel)
 keywords: vbaxl10.chm689075
 f1_keywords:
 - vbaxl10.chm689075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watch.Parent Property (Excel)
+# Watch.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

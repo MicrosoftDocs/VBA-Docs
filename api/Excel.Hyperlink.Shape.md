@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Shape Property (Excel)
+title: Hyperlink.Shape property (Excel)
 keywords: vbaxl10.chm536076
 f1_keywords:
 - vbaxl10.chm536076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Shape Property (Excel)
+# Hyperlink.Shape property (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached to the specified hyperlink.
 

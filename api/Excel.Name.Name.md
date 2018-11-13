@@ -1,5 +1,5 @@
 ---
-title: Name.Name Property (Excel)
+title: Name.Name property (Excel)
 keywords: vbaxl10.chm490079
 f1_keywords:
 - vbaxl10.chm490079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.Name Property (Excel)
+# Name.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

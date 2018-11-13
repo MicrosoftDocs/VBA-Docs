@@ -1,5 +1,5 @@
 ---
-title: CubeField.DragToPage Property (Excel)
+title: CubeField.DragToPage property (Excel)
 keywords: vbaxl10.chm668082
 f1_keywords:
 - vbaxl10.chm668082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.DragToPage Property (Excel)
+# CubeField.DragToPage property (Excel)
 
  **True** if the field can be dragged to the page position. The default value is **True** . Read/write **Boolean** .
 

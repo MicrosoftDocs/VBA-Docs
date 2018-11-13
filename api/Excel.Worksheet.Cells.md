@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Cells Property (Excel)
+title: Worksheet.Cells property (Excel)
 keywords: vbaxl10.chm175080
 f1_keywords:
 - vbaxl10.chm175080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Cells Property (Excel)
+# Worksheet.Cells property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells on the worksheet (not just the cells that are currently in use).
 

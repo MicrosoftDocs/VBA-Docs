@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Type Property (Excel)
+title: ShapeRange.Type property (Excel)
 keywords: vbaxl10.chm640118
 f1_keywords:
 - vbaxl10.chm640118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Type Property (Excel)
+# ShapeRange.Type property (Excel)
 
 Returns a  **[MsoShapeType](./Office.MsoShapeType.md)** value that represents the shape type.
 

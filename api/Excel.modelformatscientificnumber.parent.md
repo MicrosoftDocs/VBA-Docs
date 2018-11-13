@@ -1,5 +1,5 @@
 ---
-title: ModelFormatScientificNumber.Parent Property (Excel)
+title: ModelFormatScientificNumber.Parent property (Excel)
 keywords: vbaxl10.chm991075
 f1_keywords:
 - vbaxl10.chm991075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatScientificNumber.Parent Property (Excel)
+# ModelFormatScientificNumber.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

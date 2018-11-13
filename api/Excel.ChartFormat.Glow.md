@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Glow Property (Excel)
+title: ChartFormat.Glow property (Excel)
 keywords: vbaxl10.chm861074
 f1_keywords:
 - vbaxl10.chm861074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Glow Property (Excel)
+# ChartFormat.Glow property (Excel)
 
 Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified chart that contains glow formatting properties for the chart element. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XlWebFormatting Enumeration (Excel)
+title: xlWebFormatting enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWebFormatting
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWebFormatting Enumeration (Excel)
+# xlWebFormatting enumeration (Excel)
 
 Specifies how much formatting from a Web page, if any, is applied when a Web page is imported into a query table.
 

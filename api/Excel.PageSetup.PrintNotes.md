@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintNotes Property (Excel)
+title: PageSetup.PrintNotes property (Excel)
 keywords: vbaxl10.chm473095
 f1_keywords:
 - vbaxl10.chm473095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintNotes Property (Excel)
+# PageSetup.PrintNotes property (Excel)
 
  **True** if cell notes are printed as end notes with the sheet. Applies only to worksheets. Read/write **Boolean** .
 

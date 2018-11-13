@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChanges.Count Property (Excel)
+title: ModelColumnChanges.Count property (Excel)
 keywords: vbaxl10.chm968073
 f1_keywords:
 - vbaxl10.chm968073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChanges.Count Property (Excel)
+# ModelColumnChanges.Count property (Excel)
 
 Returns a  **Long** value that represents the number of[ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) objects in a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object. Read-only.
 

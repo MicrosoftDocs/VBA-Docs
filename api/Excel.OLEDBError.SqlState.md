@@ -1,5 +1,5 @@
 ---
-title: OLEDBError.SqlState Property (Excel)
+title: OLEDBError.SqlState property (Excel)
 keywords: vbaxl10.chm654073
 f1_keywords:
 - vbaxl10.chm654073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBError.SqlState Property (Excel)
+# OLEDBError.SqlState property (Excel)
 
 Returns the SQL state error. Read-only  **String** .
 

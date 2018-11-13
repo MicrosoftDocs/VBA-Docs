@@ -1,5 +1,5 @@
 ---
-title: Series.Has3DEffect Property (Excel)
+title: Series.Has3DEffect property (Excel)
 keywords: vbaxl10.chm578118
 f1_keywords:
 - vbaxl10.chm578118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Has3DEffect Property (Excel)
+# Series.Has3DEffect property (Excel)
 
  **True** if the series has a three-dimensional appearance. Read/write **Boolean** .
 

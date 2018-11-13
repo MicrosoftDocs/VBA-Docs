@@ -1,5 +1,5 @@
 ---
-title: Workbook.UseWildcards Property (Excel)
+title: Workbook.UseWildcards property (Excel)
 keywords: vbaxl10.chm199274
 f1_keywords:
 - vbaxl10.chm199274
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UseWildcards Property (Excel)
+# Workbook.UseWildcards property (Excel)
 
  **True** if the workbook enables wildcards for character string comparisons and searching. Read-only **Boolean**
 

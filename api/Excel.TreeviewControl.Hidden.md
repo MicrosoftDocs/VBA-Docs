@@ -1,5 +1,5 @@
 ---
-title: TreeviewControl.Hidden Property (Excel)
+title: TreeviewControl.Hidden property (Excel)
 keywords: vbaxl10.chm666073
 f1_keywords:
 - vbaxl10.chm666073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TreeviewControl.Hidden Property (Excel)
+# TreeviewControl.Hidden property (Excel)
 
 Returns or sets a Variant value that represents the hidden status of the cube field members in the hierarchical member selection control of a cube field.
 

@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.Type Property (Excel)
+title: VPageBreak.Type property (Excel)
 keywords: vbaxl10.chm156076
 f1_keywords:
 - vbaxl10.chm156076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.Type Property (Excel)
+# VPageBreak.Type property (Excel)
 
 Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents the page break type.
 

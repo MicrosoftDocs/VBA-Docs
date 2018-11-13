@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Creator Property (Excel)
+title: FullSeriesCollection.Creator property (Excel)
 keywords: vbaxl10.chm943074
 f1_keywords:
 - vbaxl10.chm943074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Creator Property (Excel)
+# FullSeriesCollection.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

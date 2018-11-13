@@ -1,5 +1,5 @@
 ---
-title: Workbook.Excel8CompatibilityMode Property (Excel)
+title: Workbook.Excel8CompatibilityMode property (Excel)
 keywords: vbaxl10.chm199256
 f1_keywords:
 - vbaxl10.chm199256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Excel8CompatibilityMode Property (Excel)
+# Workbook.Excel8CompatibilityMode property (Excel)
 
 The  **Excel8CompatibilityMode** property provides developers with a way to check if the workbook is in compatibility mode. Read-only **Boolean** .
 

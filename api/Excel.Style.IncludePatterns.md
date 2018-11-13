@@ -1,5 +1,5 @@
 ---
-title: Style.IncludePatterns Property (Excel)
+title: Style.IncludePatterns property (Excel)
 keywords: vbaxl10.chm177084
 f1_keywords:
 - vbaxl10.chm177084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IncludePatterns Property (Excel)
+# Style.IncludePatterns property (Excel)
 
  **True** if the style includes the **Color** , **ColorIndex** , **InvertIfNegative** , **Pattern** , **PatternColor** , and **PatternColorIndex** interior properties. Read/write **Boolean** .
 

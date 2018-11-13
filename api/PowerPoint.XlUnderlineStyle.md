@@ -1,5 +1,5 @@
 ---
-title: XlUnderlineStyle Enumeration (PowerPoint)
+title: xlUnderlineStyle Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlUnderlineStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlUnderlineStyle Enumeration (PowerPoint)
+# xlUnderlineStyle Enumeration (PowerPoint)
 
 Specifies the type of underline that is applied to a font.
 

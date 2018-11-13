@@ -1,5 +1,5 @@
 ---
-title: PivotCache.MemoryUsed Property (Excel)
+title: PivotCache.MemoryUsed property (Excel)
 keywords: vbaxl10.chm227077
 f1_keywords:
 - vbaxl10.chm227077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.MemoryUsed Property (Excel)
+# PivotCache.MemoryUsed property (Excel)
 
 Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long** .
 

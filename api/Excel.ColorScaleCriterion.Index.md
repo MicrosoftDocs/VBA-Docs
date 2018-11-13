@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriterion.Index Property (Excel)
+title: ColorScaleCriterion.Index property (Excel)
 keywords: vbaxl10.chm808073
 f1_keywords:
 - vbaxl10.chm808073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriterion.Index Property (Excel)
+# ColorScaleCriterion.Index property (Excel)
 
 Returns a  **Long** value indicating which threshold the criteria represents. Read-only.
 

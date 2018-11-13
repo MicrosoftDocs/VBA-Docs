@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Count Property (Excel)
+title: SeriesCollection.Count property (Excel)
 keywords: vbaxl10.chm580075
 f1_keywords:
 - vbaxl10.chm580075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Count Property (Excel)
+# SeriesCollection.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.PersonalViewListSettings Property (Excel)
+title: Workbook.PersonalViewListSettings property (Excel)
 keywords: vbaxl10.chm199122
 f1_keywords:
 - vbaxl10.chm199122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PersonalViewListSettings Property (Excel)
+# Workbook.PersonalViewListSettings property (Excel)
 
  **True** if filter and sort settings for lists are included in the user's personal view of the shared workbook. Read/write **Boolean** .
 

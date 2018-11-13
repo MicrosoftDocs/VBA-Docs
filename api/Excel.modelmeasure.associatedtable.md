@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.AssociatedTable Property (Excel)
+title: ModelMeasure.AssociatedTable property (Excel)
 keywords: vbaxl10.chm978074
 f1_keywords:
 - vbaxl10.chm978074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.AssociatedTable Property (Excel)
+# ModelMeasure.AssociatedTable property (Excel)
 
 Specifies the table that contains the model measure, as displayed in the  **Field List** task pane. Read/write[ModelTable](Excel.modeltable.md).
 

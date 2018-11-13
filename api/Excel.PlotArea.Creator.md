@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Creator Property (Excel)
+title: PlotArea.Creator property (Excel)
 keywords: vbaxl10.chm617074
 f1_keywords:
 - vbaxl10.chm617074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Creator Property (Excel)
+# PlotArea.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

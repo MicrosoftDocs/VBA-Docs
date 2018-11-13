@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnableOutlining Property (Excel)
+title: Worksheet.EnableOutlining property (Excel)
 keywords: vbaxl10.chm175096
 f1_keywords:
 - vbaxl10.chm175096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnableOutlining Property (Excel)
+# Worksheet.EnableOutlining property (Excel)
 
  **True** if outlining symbols are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
 

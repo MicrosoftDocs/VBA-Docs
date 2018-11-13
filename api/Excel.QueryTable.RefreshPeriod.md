@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RefreshPeriod Property (Excel)
+title: QueryTable.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm518120
 f1_keywords:
 - vbaxl10.chm518120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RefreshPeriod Property (Excel)
+# QueryTable.RefreshPeriod property (Excel)
 
 Returns or sets the number of minutes between refreshes. Read/write  **Long** .
 

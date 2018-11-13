@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TopMargin Property (Excel)
+title: PageSetup.TopMargin property (Excel)
 keywords: vbaxl10.chm473102
 f1_keywords:
 - vbaxl10.chm473102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.TopMargin Property (Excel)
+# PageSetup.TopMargin property (Excel)
 
 Returns or sets the size of the top margin, in points. Read/write  **Double** .
 

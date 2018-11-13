@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.ShowTimeLevel Property (Excel)
+title: TimelineViewState.ShowTimeLevel property (Excel)
 keywords: vbaxl10.chm952075
 f1_keywords:
 - vbaxl10.chm952075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.ShowTimeLevel Property (Excel)
+# TimelineViewState.ShowTimeLevel property (Excel)
 
 Get or set whether the control's time level drop-down is displayed.  **Boolean** Read/Write
 

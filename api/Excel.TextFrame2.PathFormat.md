@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.PathFormat Property (Excel)
+title: TextFrame2.PathFormat property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.PathFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.PathFormat Property (Excel)
+# TextFrame2.PathFormat property (Excel)
 
 Returns or sets the path type for the specified text frame. Read/write  **[MsoPathFormat](./Office.MsoPathFormat.md)** .
 

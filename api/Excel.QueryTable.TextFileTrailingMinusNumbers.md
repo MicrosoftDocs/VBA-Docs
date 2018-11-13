@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileTrailingMinusNumbers Property (Excel)
+title: QueryTable.TextFileTrailingMinusNumbers property (Excel)
 keywords: vbaxl10.chm518134
 f1_keywords:
 - vbaxl10.chm518134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileTrailingMinusNumbers Property (Excel)
+# QueryTable.TextFileTrailingMinusNumbers property (Excel)
 
  **True** for Microsoft Excel to treat numbers imported as text that begin with a "-" symbol as a negative symbol. **False** for Excel to treat numbers imported as text that begin with a "-" symbol as text. Read/write **Boolean** .
 

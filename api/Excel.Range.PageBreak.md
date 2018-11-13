@@ -1,5 +1,5 @@
 ---
-title: Range.PageBreak Property (Excel)
+title: Range.PageBreak property (Excel)
 keywords: vbaxl10.chm144172
 f1_keywords:
 - vbaxl10.chm144172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PageBreak Property (Excel)
+# Range.PageBreak property (Excel)
 
 Returns or sets the location of a page break. Can be one of the following  **[XlPageBreak](Excel.XlPageBreak.md)** constants: **xlPageBreakAutomatic** , **xlPageBreakManual** , or **xlPageBreakNone** . Read/write **Long** .
 

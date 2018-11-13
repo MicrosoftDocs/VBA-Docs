@@ -1,5 +1,5 @@
 ---
-title: AddIn.Path Property (Excel)
+title: AddIn.Path property (Excel)
 keywords: vbaxl10.chm185079
 f1_keywords:
 - vbaxl10.chm185079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Path Property (Excel)
+# AddIn.Path property (Excel)
 
 Returns a  **String** value that represents the complete path to the **Add-in** , excluding the final separator and name of the **Add-in** .
 

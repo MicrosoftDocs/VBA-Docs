@@ -1,5 +1,5 @@
 ---
-title: ListRow.Index Property (Excel)
+title: ListRow.Index property (Excel)
 keywords: vbaxl10.chm742074
 f1_keywords:
 - vbaxl10.chm742074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRow.Index Property (Excel)
+# ListRow.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the **[ListRow](Excel.ListRow.md)** object within the **[ListRows](Excel.ListRows.md)** collection.
 

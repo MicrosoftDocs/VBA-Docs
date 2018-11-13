@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RefreshStyle Property (Excel)
+title: QueryTable.RefreshStyle property (Excel)
 keywords: vbaxl10.chm518083
 f1_keywords:
 - vbaxl10.chm518083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RefreshStyle Property (Excel)
+# QueryTable.RefreshStyle property (Excel)
 
 Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[XlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
 

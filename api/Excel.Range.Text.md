@@ -1,5 +1,5 @@
 ---
-title: Range.Text Property (Excel)
+title: Range.Text property (Excel)
 keywords: vbaxl10.chm144209
 f1_keywords:
 - vbaxl10.chm144209
@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Range.Text Property (Excel)
+# Range.Text property (Excel)
 
 Returns the formatted text for the specified object. Read-only **String** .
 

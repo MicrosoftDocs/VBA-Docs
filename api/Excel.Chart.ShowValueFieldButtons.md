@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowValueFieldButtons Property (Excel)
+title: Chart.ShowValueFieldButtons property (Excel)
 keywords: vbaxl10.chm149192
 f1_keywords:
 - vbaxl10.chm149192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowValueFieldButtons Property (Excel)
+# Chart.ShowValueFieldButtons property (Excel)
 
 Returns or sets whether to display the value field buttons on a PivotChart. Read/write
 

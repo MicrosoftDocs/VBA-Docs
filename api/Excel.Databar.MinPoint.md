@@ -1,5 +1,5 @@
 ---
-title: Databar.MinPoint Property (Excel)
+title: Databar.MinPoint property (Excel)
 keywords: vbaxl10.chm810076
 f1_keywords:
 - vbaxl10.chm810076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.MinPoint Property (Excel)
+# Databar.MinPoint property (Excel)
 
 Returns a  **[ConditionValue](Excel.ConditionValue.md)** object that specifies how the shortest bar is evaluated for a data bar conditional format.
 

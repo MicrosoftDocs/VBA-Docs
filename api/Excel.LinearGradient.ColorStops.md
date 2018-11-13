@@ -1,5 +1,5 @@
 ---
-title: LinearGradient.ColorStops Property (Excel)
+title: LinearGradient.ColorStops property (Excel)
 keywords: vbaxl10.chm855073
 f1_keywords:
 - vbaxl10.chm855073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinearGradient.ColorStops Property (Excel)
+# LinearGradient.ColorStops property (Excel)
 
 Returns the  **[ColorStops](Excel.ColorStops.md)** for the **LinearGradient** object. Read-only
 

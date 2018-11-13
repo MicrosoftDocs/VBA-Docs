@@ -1,5 +1,5 @@
 ---
-title: XlPictureAppearance Enumeration (PowerPoint)
+title: xlPictureAppearance Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPictureAppearance
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPictureAppearance Enumeration (PowerPoint)
+# xlPictureAppearance Enumeration (PowerPoint)
 
 Specifies how the picture should be copied.
 

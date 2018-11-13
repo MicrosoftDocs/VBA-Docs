@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Item Property (Excel)
+title: CustomProperties.Item property (Excel)
 keywords: vbaxl10.chm680076
 f1_keywords:
 - vbaxl10.chm680076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Item Property (Excel)
+# CustomProperties.Item property (Excel)
 
 Returns a single object from a collection.
 

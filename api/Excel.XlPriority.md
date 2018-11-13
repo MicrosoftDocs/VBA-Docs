@@ -1,5 +1,5 @@
 ---
-title: XlPriority Enumeration (Excel)
+title: xlPriority enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPriority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPriority Enumeration (Excel)
+# xlPriority enumeration (Excel)
 
 Specifies the priority of a SendMailer message.
 

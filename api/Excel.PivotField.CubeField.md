@@ -1,5 +1,5 @@
 ---
-title: PivotField.CubeField Property (Excel)
+title: PivotField.CubeField property (Excel)
 keywords: vbaxl10.chm240126
 f1_keywords:
 - vbaxl10.chm240126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.CubeField Property (Excel)
+# PivotField.CubeField property (Excel)
 
 Returns the  **[CubeField](Excel.CubeField.md)** object from which the specified PivotTable field is descended. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.HorizontalAlignment Property (Excel)
+title: ChartTitle.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm563083
 f1_keywords:
 - vbaxl10.chm563083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.HorizontalAlignment Property (Excel)
+# ChartTitle.HorizontalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
 

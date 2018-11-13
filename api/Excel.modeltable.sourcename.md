@@ -1,5 +1,5 @@
 ---
-title: ModelTable.SourceName Property (Excel)
+title: ModelTable.SourceName property (Excel)
 keywords: vbaxl10.chm934074
 f1_keywords:
 - vbaxl10.chm934074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTable.SourceName Property (Excel)
+# ModelTable.SourceName property (Excel)
 
 Name of the data source for the table. If the table has no data source, the call will generate a run-time error.  **String** Read-only
 

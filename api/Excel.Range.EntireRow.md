@@ -1,5 +1,5 @@
 ---
-title: Range.EntireRow Property (Excel)
+title: Range.EntireRow property (Excel)
 keywords: vbaxl10.chm144123
 f1_keywords:
 - vbaxl10.chm144123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EntireRow Property (Excel)
+# Range.EntireRow property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the entire row (or rows) that contains the specified range. Read-only.
 

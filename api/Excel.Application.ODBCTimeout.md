@@ -1,5 +1,5 @@
 ---
-title: Application.ODBCTimeout Property (Excel)
+title: Application.ODBCTimeout property (Excel)
 keywords: vbaxl10.chm133175
 f1_keywords:
 - vbaxl10.chm133175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ODBCTimeout Property (Excel)
+# Application.ODBCTimeout property (Excel)
 
 Returns or sets the ODBC query time limit, in seconds. The default value is 45 seconds. Read/write  **Long** .
 

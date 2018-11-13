@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Visible Property (Excel)
+title: ShadowFormat.Visible property (Excel)
 keywords: vbaxl10.chm114008
 f1_keywords:
 - vbaxl10.chm114008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Visible Property (Excel)
+# ShadowFormat.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowLegendFieldButtons Property (Excel)
+title: Chart.ShowLegendFieldButtons property (Excel)
 keywords: vbaxl10.chm149190
 f1_keywords:
 - vbaxl10.chm149190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowLegendFieldButtons Property (Excel)
+# Chart.ShowLegendFieldButtons property (Excel)
 
 Returns or sets whether to display legend field buttons on a PivotChart. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: CellFormat.VerticalAlignment Property (Excel)
+title: CellFormat.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm676081
 f1_keywords:
 - vbaxl10.chm676081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.VerticalAlignment Property (Excel)
+# CellFormat.VerticalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
 

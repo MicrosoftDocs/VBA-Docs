@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Name Property (Excel)
+title: Worksheet.Name property (Excel)
 keywords: vbaxl10.chm174080
 f1_keywords:
 - vbaxl10.chm174080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Name Property (Excel)
+# Worksheet.Name property (Excel)
 
 Returns or sets a  **String** value that represents the object name.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Parent Property (Excel)
+title: Hyperlink.Parent property (Excel)
 keywords: vbaxl10.chm536073
 f1_keywords:
 - vbaxl10.chm536073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Parent Property (Excel)
+# Hyperlink.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

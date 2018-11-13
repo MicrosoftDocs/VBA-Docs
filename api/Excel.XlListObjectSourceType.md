@@ -1,5 +1,5 @@
 ---
-title: XlListObjectSourceType Enumeration (Excel)
+title: xlListObjectSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlListObjectSourceType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlListObjectSourceType Enumeration (Excel)
+# xlListObjectSourceType enumeration (Excel)
 
 Specifies the current source of the list.
 

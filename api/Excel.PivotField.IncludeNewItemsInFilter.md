@@ -1,5 +1,5 @@
 ---
-title: PivotField.IncludeNewItemsInFilter Property (Excel)
+title: PivotField.IncludeNewItemsInFilter property (Excel)
 keywords: vbaxl10.chm240145
 f1_keywords:
 - vbaxl10.chm240145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.IncludeNewItemsInFilter Property (Excel)
+# PivotField.IncludeNewItemsInFilter property (Excel)
 
 Allows developers to specify whether excluded or included items should be tracked when manual filtering is applied to the PivotField. Read/write  **Boolean** .
 

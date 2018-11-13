@@ -1,5 +1,5 @@
 ---
-title: DropLines.Format Property (Excel)
+title: DropLines.Format property (Excel)
 keywords: vbaxl10.chm604078
 f1_keywords:
 - vbaxl10.chm604078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Format Property (Excel)
+# DropLines.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

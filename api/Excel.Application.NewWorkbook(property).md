@@ -1,5 +1,5 @@
 ---
-title: Application.NewWorkbook Property (Excel)
+title: Application.NewWorkbook property (Excel)
 keywords: vbaxl10.chm133283
 f1_keywords:
 - vbaxl10.chm133283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NewWorkbook Property (Excel)
+# Application.NewWorkbook property (Excel)
 
 Returns a  **[NewFile](Office.NewFile.md)** object.
 

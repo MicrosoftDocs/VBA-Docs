@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.ReadingOrder Property (Excel)
+title: AxisTitle.ReadingOrder property (Excel)
 keywords: vbaxl10.chm565088
 f1_keywords:
 - vbaxl10.chm565088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.ReadingOrder Property (Excel)
+# AxisTitle.ReadingOrder property (Excel)
 
 Returns or sets the reading order for the specified object. Can be one of the following constants:  **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
 

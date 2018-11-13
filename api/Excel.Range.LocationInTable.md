@@ -1,5 +1,5 @@
 ---
-title: Range.LocationInTable Property (Excel)
+title: Range.LocationInTable property (Excel)
 keywords: vbaxl10.chm144156
 f1_keywords:
 - vbaxl10.chm144156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.LocationInTable Property (Excel)
+# Range.LocationInTable property (Excel)
 
 Returns a constant that describes the part of the  **[PivotTable](Excel.PivotTable.md)** report that contains the upper-left corner of the specified range. Can be one of the following **[XlLocationInTable](Excel.XlLocationInTable.md)** . constants. Read-only **Long** .
 

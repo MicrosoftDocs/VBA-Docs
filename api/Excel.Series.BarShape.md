@@ -1,5 +1,5 @@
 ---
-title: Series.BarShape Property (Excel)
+title: Series.BarShape property (Excel)
 keywords: vbaxl10.chm578114
 f1_keywords:
 - vbaxl10.chm578114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.BarShape Property (Excel)
+# Series.BarShape property (Excel)
 
 Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[XlBarShape](Excel.XlBarShape.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatBoolean Property (Excel)
+title: Model.ModelFormatBoolean property (Excel)
 keywords: vbaxl10.chm942089
 f1_keywords:
 - vbaxl10.chm942089
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatBoolean Property (Excel)
+# Model.ModelFormatBoolean property (Excel)
 
 Returns a [ModelFormatBoolean](Excel.modelformatboolean.md) object that represents formatting of type true/false in the data model. Read-only .
 

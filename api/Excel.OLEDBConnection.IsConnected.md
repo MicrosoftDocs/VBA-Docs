@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.IsConnected Property (Excel)
+title: OLEDBConnection.IsConnected property (Excel)
 keywords: vbaxl10.chm794096
 f1_keywords:
 - vbaxl10.chm794096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.IsConnected Property (Excel)
+# OLEDBConnection.IsConnected property (Excel)
 
 Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property is ** True** . Returns **False** if it is not currently connected to its source. Read-only **Boolean** .
 

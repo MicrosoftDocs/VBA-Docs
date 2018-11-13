@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.ShowSelectionLabel Property (Excel)
+title: TimelineViewState.ShowSelectionLabel property (Excel)
 keywords: vbaxl10.chm952074
 f1_keywords:
 - vbaxl10.chm952074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.ShowSelectionLabel Property (Excel)
+# TimelineViewState.ShowSelectionLabel property (Excel)
 
 Get or set whether the control's filter selection label is displayed.  **Boolean** Read/Write
 

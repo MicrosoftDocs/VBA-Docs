@@ -1,5 +1,5 @@
 ---
-title: Range.Offset Property (Excel)
+title: Range.Offset property (Excel)
 keywords: vbaxl10.chm144169
 f1_keywords:
 - vbaxl10.chm144169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Offset Property (Excel)
+# Range.Offset property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents a range that?s offset from the specified range.
 

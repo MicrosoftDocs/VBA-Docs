@@ -1,5 +1,5 @@
 ---
-title: Shape.Locked Property (Excel)
+title: Shape.Locked property (Excel)
 keywords: vbaxl10.chm636121
 f1_keywords:
 - vbaxl10.chm636121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Locked Property (Excel)
+# Shape.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the object is locked.
 

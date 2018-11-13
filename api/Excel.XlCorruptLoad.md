@@ -1,5 +1,5 @@
 ---
-title: XlCorruptLoad Enumeration (Excel)
+title: xlCorruptLoad enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCorruptLoad
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCorruptLoad Enumeration (Excel)
+# xlCorruptLoad enumeration (Excel)
 
 Specifies the processing for a file when it is opened.
 

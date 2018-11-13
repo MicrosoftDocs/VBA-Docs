@@ -1,5 +1,5 @@
 ---
-title: XlScaleType Enumeration (Excel)
+title: xlScaleType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlScaleType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlScaleType Enumeration (Excel)
+# xlScaleType enumeration (Excel)
 
 Specifies the scale type of the value axis.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PrintDrillIndicators Property (Excel)
+title: PivotTable.PrintDrillIndicators property (Excel)
 keywords: vbaxl10.chm235159
 f1_keywords:
 - vbaxl10.chm235159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PrintDrillIndicators Property (Excel)
+# PivotTable.PrintDrillIndicators property (Excel)
 
 Specifies whether or not drill indicators are printed with the PivotTable. Read/write  **Boolean** .
 

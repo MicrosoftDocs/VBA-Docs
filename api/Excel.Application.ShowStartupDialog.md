@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStartupDialog Property (Excel)
+title: Application.ShowStartupDialog property (Excel)
 keywords: vbaxl10.chm133287
 f1_keywords:
 - vbaxl10.chm133287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowStartupDialog Property (Excel)
+# Application.ShowStartupDialog property (Excel)
 
 Returns  **True** (default is **False**) when the New Workbook task pane appears for a Microsoft Excel application. Read/write **Boolean** .
 

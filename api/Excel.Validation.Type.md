@@ -1,5 +1,5 @@
 ---
-title: Validation.Type Property (Excel)
+title: Validation.Type property (Excel)
 keywords: vbaxl10.chm532089
 f1_keywords:
 - vbaxl10.chm532089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Type Property (Excel)
+# Validation.Type property (Excel)
 
 Returns a  **Long** value, containing a **[XlDVType](Excel.XlDVType.md)** constant, that represents the data type validation for a range.
 

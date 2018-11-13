@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorTickMark Property (Excel)
+title: Axis.MinorTickMark property (Excel)
 keywords: vbaxl10.chm561093
 f1_keywords:
 - vbaxl10.chm561093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorTickMark Property (Excel)
+# Axis.MinorTickMark property (Excel)
 
 Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](Excel.XlTickMark.md)** .
 

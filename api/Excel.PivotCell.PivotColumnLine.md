@@ -1,5 +1,5 @@
 ---
-title: PivotCell.PivotColumnLine Property (Excel)
+title: PivotCell.PivotColumnLine property (Excel)
 keywords: vbaxl10.chm692084
 f1_keywords:
 - vbaxl10.chm692084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.PivotColumnLine Property (Excel)
+# PivotCell.PivotColumnLine property (Excel)
 
 Returns the  **PivotLine** on a column for a specific **PivotCell** object. Read-only **PivotLine** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Column Property (Excel)
+title: Range.Column property (Excel)
 keywords: vbaxl10.chm144099
 f1_keywords:
 - vbaxl10.chm144099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Column Property (Excel)
+# Range.Column property (Excel)
 
 Returns the number of the first column in the first area in the specified range. Read-only  **Long** .
 

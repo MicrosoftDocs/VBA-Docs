@@ -1,5 +1,5 @@
 ---
-title: OLEDBError.Stage Property (Excel)
+title: OLEDBError.Stage property (Excel)
 keywords: vbaxl10.chm654077
 f1_keywords:
 - vbaxl10.chm654077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBError.Stage Property (Excel)
+# OLEDBError.Stage property (Excel)
 
 Returns a numeric value specifying the stage of an error that resulted after the most recent OLE DB query. Read-only  **Long** .
 

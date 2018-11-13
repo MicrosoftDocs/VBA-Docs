@@ -1,5 +1,5 @@
 ---
-title: Window.SheetViews Property (Excel)
+title: Window.SheetViews property (Excel)
 keywords: vbaxl10.chm356133
 f1_keywords:
 - vbaxl10.chm356133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SheetViews Property (Excel)
+# Window.SheetViews property (Excel)
 
 Returns the  **[SheetViews](Excel.SheetViews.md)** object for the specified window. Read-only.
 

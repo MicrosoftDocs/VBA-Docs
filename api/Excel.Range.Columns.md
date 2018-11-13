@@ -1,5 +1,5 @@
 ---
-title: Range.Columns Property (Excel)
+title: Range.Columns property (Excel)
 keywords: vbaxl10.chm144101
 f1_keywords:
 - vbaxl10.chm144101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Columns Property (Excel)
+# Range.Columns property (Excel)
 
 Returns a **[Range](Excel.Range(object).md)** object that represents the columns in the specified range.
 

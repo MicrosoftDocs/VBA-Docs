@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.Parent Property (Excel)
+title: SlicerItem.Parent property (Excel)
 keywords: vbaxl10.chm907073
 f1_keywords:
 - vbaxl10.chm907073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.Parent Property (Excel)
+# SlicerItem.Parent property (Excel)
 
 Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the slicer item. Read-only.
 

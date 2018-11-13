@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatWholeNumber Property (Excel)
+title: Model.ModelFormatWholeNumber property (Excel)
 keywords: vbaxl10.chm942085
 f1_keywords:
 - vbaxl10.chm942085
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatWholeNumber Property (Excel)
+# Model.ModelFormatWholeNumber property (Excel)
 
 Returns a [ModelFormatWholeNumber](Excel.modelformatwholenumber.md) object that represents formatting of type whole number in the data model. Read-only .
 

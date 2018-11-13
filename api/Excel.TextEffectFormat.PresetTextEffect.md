@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetTextEffect Property (Excel)
+title: TextEffectFormat.PresetTextEffect property (Excel)
 keywords: vbaxl10.chm118010
 f1_keywords:
 - vbaxl10.chm118010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.PresetTextEffect Property (Excel)
+# TextEffectFormat.PresetTextEffect property (Excel)
 
 Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect** .
 

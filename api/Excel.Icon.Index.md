@@ -1,5 +1,5 @@
 ---
-title: Icon.Index Property (Excel)
+title: Icon.Index property (Excel)
 keywords: vbaxl10.chm816074
 f1_keywords:
 - vbaxl10.chm816074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Icon.Index Property (Excel)
+# Icon.Index property (Excel)
 
 Returns a  **Long** value specifying the index number of the **Icon** object within the **[IconSet](Excel.IconSet.md)** object. Read-only.
 

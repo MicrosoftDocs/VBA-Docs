@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Reflection Property (Excel)
+title: ShapeRange.Reflection property (Excel)
 keywords: vbaxl10.chm640145
 f1_keywords:
 - vbaxl10.chm640145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Reflection Property (Excel)
+# ShapeRange.Reflection property (Excel)
 
 Returns a  **[ReflectionFormat](./Office.ReflectionFormat.md)** object for a specified shape range that contains reflection formatting properties for the shape range. Read-only.
 

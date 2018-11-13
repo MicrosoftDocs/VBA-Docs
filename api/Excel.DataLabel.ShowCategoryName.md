@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowCategoryName Property (Excel)
+title: DataLabel.ShowCategoryName property (Excel)
 keywords: vbaxl10.chm582100
 f1_keywords:
 - vbaxl10.chm582100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.ShowCategoryName Property (Excel)
+# DataLabel.ShowCategoryName property (Excel)
 
  **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean** .
 

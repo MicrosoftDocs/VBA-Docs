@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Title Property (Excel)
+title: ShapeRange.Title property (Excel)
 keywords: vbaxl10.chm640146
 f1_keywords:
 - vbaxl10.chm640146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Title Property (Excel)
+# ShapeRange.Title property (Excel)
 
 Returns or sets the title of the alternative text associated with the specified shape range. Read/write
 

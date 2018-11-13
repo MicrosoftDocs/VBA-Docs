@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageFields Property (Excel)
+title: PivotTable.PageFields property (Excel)
 keywords: vbaxl10.chm235086
 f1_keywords:
 - vbaxl10.chm235086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageFields Property (Excel)
+# PivotTable.PageFields property (Excel)
 
 Returns an object that represents either a single PivotTable field (a  **[PivotField](Excel.PivotField.md)** object) or a collection of all the fields (a **[PivotFields](Excel.PivotFields.md)** object) that are currently showing as page fields. Read-only.
 

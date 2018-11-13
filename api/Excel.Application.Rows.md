@@ -1,5 +1,5 @@
 ---
-title: Application.Rows Property (Excel)
+title: Application.Rows property (Excel)
 keywords: vbaxl10.chm132103
 f1_keywords:
 - vbaxl10.chm132103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Rows Property (Excel)
+# Application.Rows property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the rows on the active worksheet. If the active document isn't a worksheet, the **Rows** property fails. Read-only **Range** object.
 

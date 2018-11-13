@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.GapWidth Property (Excel)
+title: ChartGroup.GapWidth property (Excel)
 keywords: vbaxl10.chm568078
 f1_keywords:
 - vbaxl10.chm568078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.GapWidth Property (Excel)
+# ChartGroup.GapWidth property (Excel)
 
 Bar and Column charts: Returns or sets the space between bar or column clusters, as a percentage of the bar or column width. Pie of Pie and Bar of Pie charts: Returns or sets the space between the primary and secondary sections of the chart. Read/write  **Long** .
 

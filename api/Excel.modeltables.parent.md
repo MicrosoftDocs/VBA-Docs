@@ -1,5 +1,5 @@
 ---
-title: ModelTables.Parent Property (Excel)
+title: ModelTables.Parent property (Excel)
 keywords: vbaxl10.chm935075
 f1_keywords:
 - vbaxl10.chm935075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTables.Parent Property (Excel)
+# ModelTables.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelTables Object (Excel)](Excel.modeltables.md) object. Read-only.
 

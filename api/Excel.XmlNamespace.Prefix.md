@@ -1,5 +1,5 @@
 ---
-title: XmlNamespace.Prefix Property (Excel)
+title: XmlNamespace.Prefix property (Excel)
 keywords: vbaxl10.chm744075
 f1_keywords:
 - vbaxl10.chm744075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespace.Prefix Property (Excel)
+# XmlNamespace.Prefix property (Excel)
 
  Returns a **String** that represents the prefix for the specified XML namespace. Read-only.
 

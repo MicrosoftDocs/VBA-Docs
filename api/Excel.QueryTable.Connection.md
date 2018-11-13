@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Connection Property (Excel)
+title: QueryTable.Connection property (Excel)
 keywords: vbaxl10.chm518087
 f1_keywords:
 - vbaxl10.chm518087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Connection Property (Excel)
+# QueryTable.Connection property (Excel)
 
 Returns or sets a string that contains one of the following: OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source; ODBC settings that enable Microsoft Excel to connect to an ODBC data source; a URL that enables Microsoft Excel to connect to a Web data source; the path to and file name of a text file, or the path to and file name of a file that specifies a database or Web query. Read/write  **Variant** .
 

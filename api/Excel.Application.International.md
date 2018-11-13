@@ -1,5 +1,5 @@
 ---
-title: Application.International Property (Excel)
+title: Application.International property (Excel)
 keywords: vbaxl10.chm133151
 f1_keywords:
 - vbaxl10.chm133151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.International Property (Excel)
+# Application.International property (Excel)
 
 Returns information about the current country/region and international settings. Read-only  **Variant** .
 

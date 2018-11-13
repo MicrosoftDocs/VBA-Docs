@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Creator Property (Excel)
+title: Dialogs.Creator property (Excel)
 keywords: vbaxl10.chm253074
 f1_keywords:
 - vbaxl10.chm253074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Creator Property (Excel)
+# Dialogs.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

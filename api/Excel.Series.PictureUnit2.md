@@ -1,5 +1,5 @@
 ---
-title: Series.PictureUnit2 Property (Excel)
+title: Series.PictureUnit2 property (Excel)
 keywords: vbaxl10.chm578123
 f1_keywords:
 - vbaxl10.chm578123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PictureUnit2 Property (Excel)
+# Series.PictureUnit2 property (Excel)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](Excel.Series.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double** .
 

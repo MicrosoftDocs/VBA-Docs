@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllocationWeightExpression Property (Excel)
+title: PivotTable.AllocationWeightExpression property (Excel)
 keywords: vbaxl10.chm235190
 f1_keywords:
 - vbaxl10.chm235190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AllocationWeightExpression Property (Excel)
+# PivotTable.AllocationWeightExpression property (Excel)
 
 Returns or sets the MDX weight expression to use when performing what-if analysis on a PivotTable report based on an OLAP data source. Read/write
 

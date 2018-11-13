@@ -1,5 +1,5 @@
 ---
-title: PivotField.RepeatLabels Property (Excel)
+title: PivotField.RepeatLabels property (Excel)
 keywords: vbaxl10.chm240160
 f1_keywords:
 - vbaxl10.chm240160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.RepeatLabels Property (Excel)
+# PivotField.RepeatLabels property (Excel)
 
 Returns or sets whether item labels are repeated in the PivotTable for the specified PivotField. Read/write
 

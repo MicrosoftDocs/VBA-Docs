@@ -1,5 +1,5 @@
 ---
-title: Application.FlashFill Property (Excel)
+title: Application.FlashFill property (Excel)
 keywords: vbaxl10.chm133339
 f1_keywords:
 - vbaxl10.chm133339
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FlashFill Property (Excel)
+# Application.FlashFill property (Excel)
 
  **TRUE** indicates that the Excel Flash Fill feature has been enabled and active. **Boolean** Read/Write
 

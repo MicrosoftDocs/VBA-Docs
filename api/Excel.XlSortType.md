@@ -1,5 +1,5 @@
 ---
-title: XlSortType Enumeration (Excel)
+title: xlSortType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSortType Enumeration (Excel)
+# xlSortType enumeration (Excel)
 
 Specifies which elements are to be sorted. Use this argument only when sorting PivotTable reports.
 

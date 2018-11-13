@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RefreshDate Property (Excel)
+title: PivotTable.RefreshDate property (Excel)
 keywords: vbaxl10.chm235090
 f1_keywords:
 - vbaxl10.chm235090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RefreshDate Property (Excel)
+# PivotTable.RefreshDate property (Excel)
 
 Returns the date on which the PivotTable report was last refreshed. Read-only  **Date** .
 

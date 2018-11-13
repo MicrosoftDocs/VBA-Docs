@@ -1,5 +1,5 @@
 ---
-title: Chart.HasLegend Property (Excel)
+title: Chart.HasLegend property (Excel)
 keywords: vbaxl10.chm149115
 f1_keywords:
 - vbaxl10.chm149115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasLegend Property (Excel)
+# Chart.HasLegend property (Excel)
 
  **True** if the chart has a legend. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: FormatColor.Parent Property (Excel)
+title: FormatColor.Parent property (Excel)
 keywords: vbaxl10.chm801075
 f1_keywords:
 - vbaxl10.chm801075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor.Parent Property (Excel)
+# FormatColor.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

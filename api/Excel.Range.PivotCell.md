@@ -1,5 +1,5 @@
 ---
-title: Range.PivotCell Property (Excel)
+title: Range.PivotCell property (Excel)
 keywords: vbaxl10.chm144233
 f1_keywords:
 - vbaxl10.chm144233
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PivotCell Property (Excel)
+# Range.PivotCell property (Excel)
 
 Returns a  **[PivotCell](Excel.PivotCell.md)** object that represents a cell in a PivotTable report.
 

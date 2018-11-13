@@ -1,5 +1,5 @@
 ---
-title: PivotField.ShowDetail Property (Excel)
+title: PivotField.ShowDetail property (Excel)
 keywords: vbaxl10.chm240159
 f1_keywords:
 - vbaxl10.chm240159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ShowDetail Property (Excel)
+# PivotField.ShowDetail property (Excel)
 
 Gets or sets whether the specified  **[PivotField](Excel.PivotField.md)** is showing detail. Read/write **Boolean** .
 

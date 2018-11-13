@@ -1,5 +1,5 @@
 ---
-title: Range.FormulaHidden Property (Excel)
+title: Range.FormulaHidden property (Excel)
 keywords: vbaxl10.chm144135
 f1_keywords:
 - vbaxl10.chm144135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FormulaHidden Property (Excel)
+# Range.FormulaHidden property (Excel)
 
 Returns or sets a  **Variant** value that indicates if the formula will be hidden when the worksheet is protected.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.ID Property (Excel)
+title: Shape.ID property (Excel)
 keywords: vbaxl10.chm636141
 f1_keywords:
 - vbaxl10.chm636141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ID Property (Excel)
+# Shape.ID property (Excel)
 
 Returns a Long value that represents the type for the specified object.
 

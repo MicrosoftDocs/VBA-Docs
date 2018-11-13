@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.ReplaceText Property (Excel)
+title: AutoCorrect.ReplaceText property (Excel)
 keywords: vbaxl10.chm545077
 f1_keywords:
 - vbaxl10.chm545077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.ReplaceText Property (Excel)
+# AutoCorrect.ReplaceText property (Excel)
 
  **True** if text in the list of AutoCorrect replacements is replaced automatically. Read/write **Boolean** .
 

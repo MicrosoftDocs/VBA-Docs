@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.RefreshPeriod Property (Excel)
+title: ODBCConnection.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm796083
 f1_keywords:
 - vbaxl10.chm796083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.RefreshPeriod Property (Excel)
+# ODBCConnection.RefreshPeriod property (Excel)
 
 Returns or sets the number of minutes between refreshes. Read/write  **Long** .
 

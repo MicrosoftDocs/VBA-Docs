@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasDropLines Property (Excel)
+title: ChartGroup.HasDropLines property (Excel)
 keywords: vbaxl10.chm568079
 f1_keywords:
 - vbaxl10.chm568079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasDropLines Property (Excel)
+# ChartGroup.HasDropLines property (Excel)
 
  **True** if the line chart or area chart has drop lines. Applies only to line and area charts. Read/write **Boolean** .
 

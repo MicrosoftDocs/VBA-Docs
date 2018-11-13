@@ -1,5 +1,5 @@
 ---
-title: Series.Name Property (Excel)
+title: Series.Name property (Excel)
 keywords: vbaxl10.chm578099
 f1_keywords:
 - vbaxl10.chm578099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Name Property (Excel)
+# Series.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

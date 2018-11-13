@@ -1,5 +1,5 @@
 ---
-title: ListObject.XmlMap Property (Excel)
+title: ListObject.XmlMap property (Excel)
 keywords: vbaxl10.chm734096
 f1_keywords:
 - vbaxl10.chm734096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.XmlMap Property (Excel)
+# ListObject.XmlMap property (Excel)
 
 Returns an  **XmlMap** object that represents the schema map used for the specified table. Read-only.
 

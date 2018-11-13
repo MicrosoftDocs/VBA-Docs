@@ -1,5 +1,5 @@
 ---
-title: Walls.Thickness Property (Excel)
+title: Walls.Thickness property (Excel)
 keywords: vbaxl10.chm614083
 f1_keywords:
 - vbaxl10.chm614083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Thickness Property (Excel)
+# Walls.Thickness property (Excel)
 
 Returns or sets a  **Long** specifying the thickness of the wall. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RowNumbers Property (Excel)
+title: QueryTable.RowNumbers property (Excel)
 keywords: vbaxl10.chm518075
 f1_keywords:
 - vbaxl10.chm518075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RowNumbers Property (Excel)
+# QueryTable.RowNumbers property (Excel)
 
  **True** if row numbers are added as the first column of the specified query table. Read/write **Boolean** .
 

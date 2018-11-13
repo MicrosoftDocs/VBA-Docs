@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Tracking Property (Excel)
+title: TextEffectFormat.Tracking property (Excel)
 keywords: vbaxl10.chm118013
 f1_keywords:
 - vbaxl10.chm118013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Tracking Property (Excel)
+# TextEffectFormat.Tracking property (Excel)
 
 Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt to the width of the character. Can be a value from 0 (zero) through 5. (Large values for this property specify ample space between characters; values less than 1 can produce character overlap.) Read/write  **Single** .
 

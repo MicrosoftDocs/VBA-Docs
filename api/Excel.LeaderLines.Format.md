@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Format Property (Excel)
+title: LeaderLines.Format property (Excel)
 keywords: vbaxl10.chm606076
 f1_keywords:
 - vbaxl10.chm606076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Format Property (Excel)
+# LeaderLines.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

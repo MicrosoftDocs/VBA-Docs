@@ -1,5 +1,5 @@
 ---
-title: XlEndStyleCap Enumeration (Excel)
+title: xlEndStyleCap enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEndStyleCap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlEndStyleCap Enumeration (Excel)
+# xlEndStyleCap enumeration (Excel)
 
 Specifies the end style for error bars.
 

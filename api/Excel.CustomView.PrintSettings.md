@@ -1,5 +1,5 @@
 ---
-title: CustomView.PrintSettings Property (Excel)
+title: CustomView.PrintSettings property (Excel)
 keywords: vbaxl10.chm508074
 f1_keywords:
 - vbaxl10.chm508074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.PrintSettings Property (Excel)
+# CustomView.PrintSettings property (Excel)
 
  **True** if print settings are included in the custom view. Read-only **Boolean** .
 

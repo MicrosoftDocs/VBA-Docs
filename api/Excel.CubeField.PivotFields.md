@@ -1,5 +1,5 @@
 ---
-title: CubeField.PivotFields Property (Excel)
+title: CubeField.PivotFields property (Excel)
 keywords: vbaxl10.chm668088
 f1_keywords:
 - vbaxl10.chm668088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.PivotFields Property (Excel)
+# CubeField.PivotFields property (Excel)
 
 Returns the  **[PivotFields](Excel.PivotFields.md)** collection. This collection contains all PivotTable fields, including those that aren't currently visible on-screen. Read-only **PivotFields** object.
 

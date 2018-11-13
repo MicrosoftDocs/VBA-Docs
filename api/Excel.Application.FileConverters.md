@@ -1,5 +1,5 @@
 ---
-title: Application.FileConverters Property (Excel)
+title: Application.FileConverters property (Excel)
 keywords: vbaxl10.chm133134
 f1_keywords:
 - vbaxl10.chm133134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileConverters Property (Excel)
+# Application.FileConverters property (Excel)
 
 Returns information about installed file converters. Returns  **null** if there are no converters installed. Read-only **Variant** .
 

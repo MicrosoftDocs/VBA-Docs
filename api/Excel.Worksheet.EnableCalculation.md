@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnableCalculation Property (Excel)
+title: Worksheet.EnableCalculation property (Excel)
 keywords: vbaxl10.chm175079
 f1_keywords:
 - vbaxl10.chm175079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnableCalculation Property (Excel)
+# Worksheet.EnableCalculation property (Excel)
 
  **True** if Microsoft Excel automatically recalculates the worksheet when necessary. **False** if Excel doesn't recalculate the sheet. Read/write **Boolean** .
 

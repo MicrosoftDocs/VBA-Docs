@@ -1,5 +1,5 @@
 ---
-title: PivotFormula.Value Property (Excel)
+title: PivotFormula.Value property (Excel)
 keywords: vbaxl10.chm231076
 f1_keywords:
 - vbaxl10.chm231076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormula.Value Property (Excel)
+# PivotFormula.Value property (Excel)
 
 Returns or sets a  **String** value that represents the name of the specified formula in the PivotTable formula.
 

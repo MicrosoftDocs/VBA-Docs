@@ -1,5 +1,5 @@
 ---
-title: AutoRecover.Creator Property (Excel)
+title: AutoRecover.Creator property (Excel)
 keywords: vbaxl10.chm695074
 f1_keywords:
 - vbaxl10.chm695074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover.Creator Property (Excel)
+# AutoRecover.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

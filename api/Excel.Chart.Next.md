@@ -1,5 +1,5 @@
 ---
-title: Chart.Next Property (Excel)
+title: Chart.Next property (Excel)
 keywords: vbaxl10.chm148081
 f1_keywords:
 - vbaxl10.chm148081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Next Property (Excel)
+# Chart.Next property (Excel)
 
 Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next sheet.
 

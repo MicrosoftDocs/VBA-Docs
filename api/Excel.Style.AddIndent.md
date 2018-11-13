@@ -1,5 +1,5 @@
 ---
-title: Style.AddIndent Property (Excel)
+title: Style.AddIndent property (Excel)
 keywords: vbaxl10.chm177073
 f1_keywords:
 - vbaxl10.chm177073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.AddIndent Property (Excel)
+# Style.AddIndent property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if text is automatically indented when the text alignment in a cell is set to equal distribution (either horizontally or vertically.)
 

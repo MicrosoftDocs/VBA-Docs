@@ -1,5 +1,5 @@
 ---
-title: Window.Width Property (Excel)
+title: Window.Width property (Excel)
 keywords: vbaxl10.chm356123
 f1_keywords:
 - vbaxl10.chm356123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Width Property (Excel)
+# Window.Width property (Excel)
 
 Returns or sets a  **Double** value that represents the width, in points, of the window.
 

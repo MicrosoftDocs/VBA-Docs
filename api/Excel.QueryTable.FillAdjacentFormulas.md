@@ -1,5 +1,5 @@
 ---
-title: QueryTable.FillAdjacentFormulas Property (Excel)
+title: QueryTable.FillAdjacentFormulas property (Excel)
 keywords: vbaxl10.chm518076
 f1_keywords:
 - vbaxl10.chm518076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.FillAdjacentFormulas Property (Excel)
+# QueryTable.FillAdjacentFormulas property (Excel)
 
  **True** if formulas to the right of the specified query table are automatically updated whenever the query table is refreshed. Read/write **Boolean** .
 

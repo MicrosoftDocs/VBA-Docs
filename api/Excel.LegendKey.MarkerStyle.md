@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerStyle Property (Excel)
+title: LegendKey.MarkerStyle property (Excel)
 keywords: vbaxl10.chm590085
 f1_keywords:
 - vbaxl10.chm590085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerStyle Property (Excel)
+# LegendKey.MarkerStyle property (Excel)
 
 Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Excel.XlMarkerStyle.md)** .
 

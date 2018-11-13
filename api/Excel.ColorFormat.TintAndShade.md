@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.TintAndShade Property (Excel)
+title: ColorFormat.TintAndShade property (Excel)
 keywords: vbaxl10.chm105006
 f1_keywords:
 - vbaxl10.chm105006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.TintAndShade Property (Excel)
+# ColorFormat.TintAndShade property (Excel)
 
 Returns or sets a  **Single** that lightens or darkens a color.
 

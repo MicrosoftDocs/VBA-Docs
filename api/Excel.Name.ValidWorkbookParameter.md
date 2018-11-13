@@ -1,5 +1,5 @@
 ---
-title: Name.ValidWorkbookParameter Property (Excel)
+title: Name.ValidWorkbookParameter property (Excel)
 keywords: vbaxl10.chm490091
 f1_keywords:
 - vbaxl10.chm490091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.ValidWorkbookParameter Property (Excel)
+# Name.ValidWorkbookParameter property (Excel)
 
 Returns  **True** if the specified **Name** object is a valid workbook parameter. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Parent Property (Excel)
+title: ChartGroups.Parent property (Excel)
 keywords: vbaxl10.chm569075
 f1_keywords:
 - vbaxl10.chm569075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups.Parent Property (Excel)
+# ChartGroups.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

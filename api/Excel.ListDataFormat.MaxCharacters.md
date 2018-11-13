@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.MaxCharacters Property (Excel)
+title: ListDataFormat.MaxCharacters property (Excel)
 keywords: vbaxl10.chm758079
 f1_keywords:
 - vbaxl10.chm758079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.MaxCharacters Property (Excel)
+# ListDataFormat.MaxCharacters property (Excel)
 
 Returns a  **Long** containing the maximum number of characters allowed in the **[ListColumn](Excel.ListColumn.md)** object if the **[Type](Excel.ListDataFormat.Type.md)** property is set to **xlListDataTypeText** or **xlListDataTypeMultiLineText** . Read-only **Long** .
 

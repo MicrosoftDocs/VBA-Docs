@@ -1,5 +1,5 @@
 ---
-title: CalculatedMembers.Item Property (Excel)
+title: CalculatedMembers.Item property (Excel)
 keywords: vbaxl10.chm684074
 f1_keywords:
 - vbaxl10.chm684074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMembers.Item Property (Excel)
+# CalculatedMembers.Item property (Excel)
 
 Returns a single object from a collection.
 

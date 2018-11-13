@@ -1,5 +1,5 @@
 ---
-title: Range.ID Property (Excel)
+title: Range.ID property (Excel)
 keywords: vbaxl10.chm144231
 f1_keywords:
 - vbaxl10.chm144231
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ID Property (Excel)
+# Range.ID property (Excel)
 
 Returns or sets a  **String** value that represents the identifying label for the specified cell when the page is saved as a Web page.
 

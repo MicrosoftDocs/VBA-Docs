@@ -1,5 +1,5 @@
 ---
-title: Names.Creator Property (Excel)
+title: Names.Creator property (Excel)
 keywords: vbaxl10.chm487074
 f1_keywords:
 - vbaxl10.chm487074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Names.Creator Property (Excel)
+# Names.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

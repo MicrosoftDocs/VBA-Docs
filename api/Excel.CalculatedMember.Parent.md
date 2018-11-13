@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.Parent Property (Excel)
+title: CalculatedMember.Parent property (Excel)
 keywords: vbaxl10.chm685075
 f1_keywords:
 - vbaxl10.chm685075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.Parent Property (Excel)
+# CalculatedMember.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Width Property (Excel)
+title: Point.Width property (Excel)
 keywords: vbaxl10.chm576105
 f1_keywords:
 - vbaxl10.chm576105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Width Property (Excel)
+# Point.Width property (Excel)
 
 Returns the width, in points, of the object. Read-only.
 

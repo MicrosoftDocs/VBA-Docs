@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.ListCount Property (Excel)
+title: ControlFormat.ListCount property (Excel)
 keywords: vbaxl10.chm630081
 f1_keywords:
 - vbaxl10.chm630081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.ListCount Property (Excel)
+# ControlFormat.ListCount property (Excel)
 
 Returns the number of entries in a list box or combo box. Returns 0 (zero) if there are no entries in the list. Read-only  **Long** .
 

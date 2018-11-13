@@ -1,5 +1,5 @@
 ---
-title: PivotCell.DataSourceValue Property (Excel)
+title: PivotCell.DataSourceValue property (Excel)
 keywords: vbaxl10.chm692087
 f1_keywords:
 - vbaxl10.chm692087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.DataSourceValue Property (Excel)
+# PivotCell.DataSourceValue property (Excel)
 
 Returns the value last retrieved from the data source for edited cells in a PivotTable report. Read-only
 

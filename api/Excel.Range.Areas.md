@@ -1,5 +1,5 @@
 ---
-title: Range.Areas Property (Excel)
+title: Range.Areas property (Excel)
 keywords: vbaxl10.chm144081
 f1_keywords:
 - vbaxl10.chm144081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Areas Property (Excel)
+# Range.Areas property (Excel)
 
 Returns an  **[Areas](Excel.Areas.md)** collection that represents all the ranges in a multiple-area selection. Read-only.
 

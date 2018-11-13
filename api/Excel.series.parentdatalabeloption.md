@@ -1,5 +1,5 @@
 ---
-title: Series.ParentDataLabelOption Property (Excel)
+title: Series.ParentDataLabelOption property (Excel)
 keywords: vbaxl10.chm578129
 f1_keywords:
 - vbaxl10.chm578129
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Series.ParentDataLabelOption Property (Excel)
+# Series.ParentDataLabelOption property (Excel)
 
 Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](Excel.xlparentdatalabeloptions.md).
 

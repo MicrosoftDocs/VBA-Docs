@@ -1,5 +1,5 @@
 ---
-title: WorksheetDataConnection.Parent Property (Excel)
+title: WorksheetDataConnection.Parent property (Excel)
 keywords: vbaxl10.chm923075
 f1_keywords:
 - vbaxl10.chm923075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetDataConnection.Parent Property (Excel)
+# WorksheetDataConnection.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[WorksheetDataConnection Object (Excel)](Excel.worksheetdataconnection.md) object. Read-only.
 

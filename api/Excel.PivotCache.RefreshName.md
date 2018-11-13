@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RefreshName Property (Excel)
+title: PivotCache.RefreshName property (Excel)
 keywords: vbaxl10.chm227082
 f1_keywords:
 - vbaxl10.chm227082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RefreshName Property (Excel)
+# PivotCache.RefreshName property (Excel)
 
 Returns the name of the person who last refreshed the PivotTable cache. Read-only  **String** .
 

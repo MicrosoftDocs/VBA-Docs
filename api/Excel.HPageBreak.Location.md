@@ -1,5 +1,5 @@
 ---
-title: HPageBreak.Location Property (Excel)
+title: HPageBreak.Location property (Excel)
 keywords: vbaxl10.chm159078
 f1_keywords:
 - vbaxl10.chm159078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak.Location Property (Excel)
+# HPageBreak.Location property (Excel)
 
 Returns or sets the cell (a **Range** object) that defines the page-break location. Horizontal page breaks are aligned with the top edge of the location cell. Read/write **[Range](Excel.Range(object).md)**.
 

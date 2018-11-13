@@ -1,5 +1,5 @@
 ---
-title: Trendline.DataLabel Property (Excel)
+title: Trendline.DataLabel property (Excel)
 keywords: vbaxl10.chm594077
 f1_keywords:
 - vbaxl10.chm594077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.DataLabel Property (Excel)
+# Trendline.DataLabel property (Excel)
 
 Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents the data label associated with the trendline. Read-only.
 

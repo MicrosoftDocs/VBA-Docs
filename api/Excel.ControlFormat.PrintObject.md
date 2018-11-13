@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.PrintObject Property (Excel)
+title: ControlFormat.PrintObject property (Excel)
 keywords: vbaxl10.chm630088
 f1_keywords:
 - vbaxl10.chm630088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.PrintObject Property (Excel)
+# ControlFormat.PrintObject property (Excel)
 
  **True** if the object will be printed when the document is printed. Read/write **Boolean** .
 

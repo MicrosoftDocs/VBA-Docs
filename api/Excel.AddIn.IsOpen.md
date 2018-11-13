@@ -1,5 +1,5 @@
 ---
-title: AddIn.IsOpen Property (Excel)
+title: AddIn.IsOpen property (Excel)
 keywords: vbaxl10.chm185084
 f1_keywords:
 - vbaxl10.chm185084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.IsOpen Property (Excel)
+# AddIn.IsOpen property (Excel)
 
 Returns  **True** if the add-in is currently open. **Boolean** Read-only
 

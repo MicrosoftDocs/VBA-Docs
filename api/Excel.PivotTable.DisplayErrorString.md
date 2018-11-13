@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayErrorString Property (Excel)
+title: PivotTable.DisplayErrorString property (Excel)
 keywords: vbaxl10.chm235104
 f1_keywords:
 - vbaxl10.chm235104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayErrorString Property (Excel)
+# PivotTable.DisplayErrorString property (Excel)
 
  **True** if the PivotTable report displays a custom error string in cells that contain errors. The default value is **False** . Read/write **Boolean** .
 

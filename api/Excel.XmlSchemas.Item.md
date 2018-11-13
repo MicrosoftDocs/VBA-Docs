@@ -1,5 +1,5 @@
 ---
-title: XmlSchemas.Item Property (Excel)
+title: XmlSchemas.Item property (Excel)
 keywords: vbaxl10.chm752074
 f1_keywords:
 - vbaxl10.chm752074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchemas.Item Property (Excel)
+# XmlSchemas.Item property (Excel)
 
 Returns a single object from a collection.
 

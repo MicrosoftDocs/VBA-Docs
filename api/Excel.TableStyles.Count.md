@@ -1,5 +1,5 @@
 ---
-title: TableStyles.Count Property (Excel)
+title: TableStyles.Count property (Excel)
 keywords: vbaxl10.chm841073
 f1_keywords:
 - vbaxl10.chm841073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyles.Count Property (Excel)
+# TableStyles.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

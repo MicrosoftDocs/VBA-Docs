@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange.Users Property (Excel)
+title: AllowEditRange.Users property (Excel)
 keywords: vbaxl10.chm725078
 f1_keywords:
 - vbaxl10.chm725078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange.Users Property (Excel)
+# AllowEditRange.Users property (Excel)
 
 Returns a  **[UserAccessList](Excel.UserAccessList.md)** object for the protected range on a worksheet.
 

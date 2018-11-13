@@ -1,5 +1,5 @@
 ---
-title: Style.ReadingOrder Property (Excel)
+title: Style.ReadingOrder property (Excel)
 keywords: vbaxl10.chm177100
 f1_keywords:
 - vbaxl10.chm177100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.ReadingOrder Property (Excel)
+# Style.ReadingOrder property (Excel)
 
 Returns or sets the reading order for the specified object. Can be one of the following constants:  **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
 

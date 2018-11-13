@@ -1,5 +1,5 @@
 ---
-title: XlEditionOptionsOption Enumeration (Excel)
+title: xlEditionOptionsOption enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEditionOptionsOption
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlEditionOptionsOption Enumeration (Excel)
+# xlEditionOptionsOption enumeration (Excel)
 
 This enumeration is only for Macintosh and should not be used.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartStyle Property (Excel)
+title: Chart.ChartStyle property (Excel)
 keywords: vbaxl10.chm149184
 f1_keywords:
 - vbaxl10.chm149184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartStyle Property (Excel)
+# Chart.ChartStyle property (Excel)
 
 Returns or sets the chart style for the chart. Read/write  **Variant** .
 

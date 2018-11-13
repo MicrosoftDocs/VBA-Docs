@@ -1,5 +1,5 @@
 ---
-title: Axis.Type Property (Excel)
+title: Axis.Type property (Excel)
 keywords: vbaxl10.chm561103
 f1_keywords:
 - vbaxl10.chm561103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Type Property (Excel)
+# Axis.Type property (Excel)
 
 Returns an  **[XlAxisType](Excel.XlAxisType.md)** value that represents the Axis type.
 

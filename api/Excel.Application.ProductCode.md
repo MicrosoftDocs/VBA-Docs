@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Property (Excel)
+title: Application.ProductCode property (Excel)
 keywords: vbaxl10.chm133248
 f1_keywords:
 - vbaxl10.chm133248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ProductCode Property (Excel)
+# Application.ProductCode property (Excel)
 
 Returns the globally unique identifier (GUID) for Microsoft Excel. Read-only  **String** .
 

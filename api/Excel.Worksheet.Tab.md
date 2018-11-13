@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Tab Property (Excel)
+title: Worksheet.Tab property (Excel)
 keywords: vbaxl10.chm175149
 f1_keywords:
 - vbaxl10.chm175149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Tab Property (Excel)
+# Worksheet.Tab property (Excel)
 
 Returns a  **[Tab](Excel.Tab.md)** object for a worksheet.
 

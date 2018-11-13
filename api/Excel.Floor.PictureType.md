@@ -1,5 +1,5 @@
 ---
-title: Floor.PictureType Property (Excel)
+title: Floor.PictureType property (Excel)
 keywords: vbaxl10.chm612080
 f1_keywords:
 - vbaxl10.chm612080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.PictureType Property (Excel)
+# Floor.PictureType property (Excel)
 
 Returns or sets a  **Variant** value that represents the way pictures are displayed on the walls and faces of a 3-D chart.
 

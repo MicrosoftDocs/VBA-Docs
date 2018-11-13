@@ -1,5 +1,5 @@
 ---
-title: XlFileAccess Enumeration (Excel)
+title: xlFileAccess enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFileAccess
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFileAccess Enumeration (Excel)
+# xlFileAccess enumeration (Excel)
 
 Specifies the new access mode for the object.
 

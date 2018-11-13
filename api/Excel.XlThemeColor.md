@@ -1,5 +1,5 @@
 ---
-title: XlThemeColor Enumeration (Excel)
+title: xlThemeColor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlThemeColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlThemeColor Enumeration (Excel)
+# xlThemeColor enumeration (Excel)
 
 Specifies the theme color to be used.
 

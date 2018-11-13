@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultSaveFormat Property (Excel)
+title: Application.DefaultSaveFormat property (Excel)
 keywords: vbaxl10.chm133217
 f1_keywords:
 - vbaxl10.chm133217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultSaveFormat Property (Excel)
+# Application.DefaultSaveFormat property (Excel)
 
 Returns or sets the default format for saving files. For a list of valid constants, see the  **[FileFormat](Excel.Workbook.FileFormat.md)** property. Read/write **Long** .
 

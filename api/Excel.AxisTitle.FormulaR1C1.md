@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.FormulaR1C1 Property (Excel)
+title: AxisTitle.FormulaR1C1 property (Excel)
 keywords: vbaxl10.chm565095
 f1_keywords:
 - vbaxl10.chm565095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.FormulaR1C1 Property (Excel)
+# AxisTitle.FormulaR1C1 property (Excel)
 
 Gets or sets a  **String** value that represents the formula of the object using R1C1-style notation, in English. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.ServerPolicy Property (Excel)
+title: Workbook.ServerPolicy property (Excel)
 keywords: vbaxl10.chm199239
 f1_keywords:
 - vbaxl10.chm199239
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ServerPolicy Property (Excel)
+# Workbook.ServerPolicy property (Excel)
 
 Returns a  **ServerPolicy** object that represents a policy specified for a workbook stored on a server running SharePoint Server 2007 or later. Read-only.
 

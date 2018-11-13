@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Format Property (Excel)
+title: Gridlines.Format property (Excel)
 keywords: vbaxl10.chm602078
 f1_keywords:
 - vbaxl10.chm602078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Format Property (Excel)
+# Gridlines.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Operator Property (Excel)
+title: FormatCondition.Operator property (Excel)
 keywords: vbaxl10.chm512075
 f1_keywords:
 - vbaxl10.chm512075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Operator Property (Excel)
+# FormatCondition.Operator property (Excel)
 
 Returns a  **Long** value that represents the operator for the conditional format.
 

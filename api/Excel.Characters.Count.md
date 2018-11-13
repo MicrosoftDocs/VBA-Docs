@@ -1,5 +1,5 @@
 ---
-title: Characters.Count Property (Excel)
+title: Characters.Count property (Excel)
 keywords: vbaxl10.chm252074
 f1_keywords:
 - vbaxl10.chm252074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Count Property (Excel)
+# Characters.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Line Property (Excel)
+title: Shape.Line property (Excel)
 keywords: vbaxl10.chm636101
 f1_keywords:
 - vbaxl10.chm636101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Line Property (Excel)
+# Shape.Line property (Excel)
 
 Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line formatting properties for the specified shape. (For a line, the **LineFormat** object represents the line itself; for a shape with a border, the **LineFormat** object represents the border). Read-only.
 

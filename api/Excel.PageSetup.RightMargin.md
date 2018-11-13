@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightMargin Property (Excel)
+title: PageSetup.RightMargin property (Excel)
 keywords: vbaxl10.chm473101
 f1_keywords:
 - vbaxl10.chm473101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightMargin Property (Excel)
+# PageSetup.RightMargin property (Excel)
 
 Returns or sets the size of the right margin, in points. Read/write  **Double** .
 

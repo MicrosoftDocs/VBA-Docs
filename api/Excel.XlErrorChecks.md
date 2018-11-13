@@ -1,5 +1,5 @@
 ---
-title: XlErrorChecks Enumeration (Excel)
+title: xlErrorChecks enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorChecks
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlErrorChecks Enumeration (Excel)
+# xlErrorChecks enumeration (Excel)
 
 Specifies the type of error object to be retrieved from the  **Errors** collection.
 

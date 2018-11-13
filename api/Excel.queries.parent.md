@@ -1,5 +1,5 @@
 ---
-title: Queries.Parent Property (Excel)
+title: Queries.Parent property (Excel)
 keywords: vbaxl10.chm975075
 f1_keywords:
 - vbaxl10.chm975075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.Parent Property (Excel)
+# Queries.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.HasLeaderLines Property (Excel)
+title: Series.HasLeaderLines property (Excel)
 keywords: vbaxl10.chm578120
 f1_keywords:
 - vbaxl10.chm578120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.HasLeaderLines Property (Excel)
+# Series.HasLeaderLines property (Excel)
 
  **True** if the series has leader lines. Read/write **Boolean** .
 

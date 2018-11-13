@@ -1,5 +1,5 @@
 ---
-title: XlFixedFormatType Enumeration (Excel)
+title: xlFixedFormatType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFixedFormatType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFixedFormatType Enumeration (Excel)
+# xlFixedFormatType enumeration (Excel)
 
 Specifies the type of file format.
 

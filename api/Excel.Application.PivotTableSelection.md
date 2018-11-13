@@ -1,5 +1,5 @@
 ---
-title: Application.PivotTableSelection Property (Excel)
+title: Application.PivotTableSelection property (Excel)
 keywords: vbaxl10.chm133192
 f1_keywords:
 - vbaxl10.chm133192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PivotTableSelection Property (Excel)
+# Application.PivotTableSelection property (Excel)
 
  **True** if PivotTable reports use structured selection. Read/write **Boolean** .
 

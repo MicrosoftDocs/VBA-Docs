@@ -1,5 +1,5 @@
 ---
-title: PivotField.DrilledDown Property (Excel)
+title: PivotField.DrilledDown property (Excel)
 keywords: vbaxl10.chm240125
 f1_keywords:
 - vbaxl10.chm240125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DrilledDown Property (Excel)
+# PivotField.DrilledDown property (Excel)
 
  **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean** .
 

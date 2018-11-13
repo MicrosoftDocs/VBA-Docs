@@ -1,5 +1,5 @@
 ---
-title: CellFormat.AddIndent Property (Excel)
+title: CellFormat.AddIndent property (Excel)
 keywords: vbaxl10.chm676078
 f1_keywords:
 - vbaxl10.chm676078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.AddIndent Property (Excel)
+# CellFormat.AddIndent property (Excel)
 
 Returns or sets a  **Variant** value that indicates if text is automatically indented when the text alignment in a cell is set to equal distribution (either horizontally or vertically.)
 

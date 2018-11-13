@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Width Property (Excel)
+title: ShapeRange.Width property (Excel)
 keywords: vbaxl10.chm640122
 f1_keywords:
 - vbaxl10.chm640122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Width Property (Excel)
+# ShapeRange.Width property (Excel)
 
 Returns or sets a  **Single** value that represents the width, in points, of the object.
 

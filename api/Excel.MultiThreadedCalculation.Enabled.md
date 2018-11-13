@@ -1,5 +1,5 @@
 ---
-title: MultiThreadedCalculation.Enabled Property (Excel)
+title: MultiThreadedCalculation.Enabled property (Excel)
 keywords: vbaxl10.chm859073
 f1_keywords:
 - vbaxl10.chm859073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MultiThreadedCalculation.Enabled Property (Excel)
+# MultiThreadedCalculation.Enabled property (Excel)
 
 The  **Enabled** property allows **MultiThreadedCalculation** objects to be enabled or disabled at run time. Read/write.
 

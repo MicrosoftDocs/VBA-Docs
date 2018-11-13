@@ -1,5 +1,5 @@
 ---
-title: MultiThreadedCalculation.ThreadCount Property (Excel)
+title: MultiThreadedCalculation.ThreadCount property (Excel)
 keywords: vbaxl10.chm859075
 f1_keywords:
 - vbaxl10.chm859075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MultiThreadedCalculation.ThreadCount Property (Excel)
+# MultiThreadedCalculation.ThreadCount property (Excel)
 
 Gets the total count of the process threads that are a part of the specified  **MultiThreadedCalculation** object.
 

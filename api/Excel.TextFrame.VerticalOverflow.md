@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalOverflow Property (Excel)
+title: TextFrame.VerticalOverflow property (Excel)
 keywords: vbaxl10.chm644084
 f1_keywords:
 - vbaxl10.chm644084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.VerticalOverflow Property (Excel)
+# TextFrame.VerticalOverflow property (Excel)
 
 Returns or sets the vertical overflow setting for the specified object. Read/write
 

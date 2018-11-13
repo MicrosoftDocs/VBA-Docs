@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriterion.Type Property (Excel)
+title: ColorScaleCriterion.Type property (Excel)
 keywords: vbaxl10.chm808074
 f1_keywords:
 - vbaxl10.chm808074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriterion.Type Property (Excel)
+# ColorScaleCriterion.Type property (Excel)
 
 Returns one of the constants of the  **[XlConditionValueTypes](Excel.XlConditionValueTypes.md)** enumeration, which specifies how the threshold values for a data bar or color scale conditional format are determined. Read-only.
 

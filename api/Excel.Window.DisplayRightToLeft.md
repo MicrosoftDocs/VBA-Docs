@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayRightToLeft Property (Excel)
+title: Window.DisplayRightToLeft property (Excel)
 keywords: vbaxl10.chm356128
 f1_keywords:
 - vbaxl10.chm356128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayRightToLeft Property (Excel)
+# Window.DisplayRightToLeft property (Excel)
 
  **True** if the specified window is displayed from right to left instead of from left to right. **False** if the object is displayed from left to right. Read-only **Boolean** .
 

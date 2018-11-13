@@ -1,5 +1,5 @@
 ---
-title: PivotCache.SourceDataFile Property (Excel)
+title: PivotCache.SourceDataFile property (Excel)
 keywords: vbaxl10.chm227104
 f1_keywords:
 - vbaxl10.chm227104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.SourceDataFile Property (Excel)
+# PivotCache.SourceDataFile property (Excel)
 
 Returns a  **String** value that indicates the source data file for the cache of the PivotTable.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.MemberPropertyCaption Property (Excel)
+title: PivotField.MemberPropertyCaption property (Excel)
 keywords: vbaxl10.chm240140
 f1_keywords:
 - vbaxl10.chm240140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.MemberPropertyCaption Property (Excel)
+# PivotField.MemberPropertyCaption property (Excel)
 
 Setting the  **MemberPropertyCaption** property controls which member property is used as caption for a given level. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: XlPivotTableSourceType Enumeration (Excel)
+title: xlPivotTableSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotTableSourceType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotTableSourceType Enumeration (Excel)
+# xlPivotTableSourceType enumeration (Excel)
 
 Specifies the source of the report data.
 

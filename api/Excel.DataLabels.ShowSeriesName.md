@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowSeriesName Property (Excel)
+title: DataLabels.ShowSeriesName property (Excel)
 keywords: vbaxl10.chm584099
 f1_keywords:
 - vbaxl10.chm584099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowSeriesName Property (Excel)
+# DataLabels.ShowSeriesName property (Excel)
 
 Returns or sets a  **Boolean** to indicate the series name display behavior for the data labels on a chart. **True** to show the series name. **False** to hide. Read/write.
 

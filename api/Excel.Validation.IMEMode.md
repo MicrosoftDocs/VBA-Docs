@@ -1,5 +1,5 @@
 ---
-title: Validation.IMEMode Property (Excel)
+title: Validation.IMEMode property (Excel)
 keywords: vbaxl10.chm532076
 f1_keywords:
 - vbaxl10.chm532076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.IMEMode Property (Excel)
+# Validation.IMEMode property (Excel)
 
 Returns or sets the description of the Japanese input rules. Can be one of the  **[XlIMEMode](Excel.XlIMEMode.md)** constants listed in the following table. Read/write **Long** .
 

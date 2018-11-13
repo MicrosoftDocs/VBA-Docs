@@ -1,5 +1,5 @@
 ---
-title: Chart.SideWall Property (Excel)
+title: Chart.SideWall property (Excel)
 keywords: vbaxl10.chm149177
 f1_keywords:
 - vbaxl10.chm149177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SideWall Property (Excel)
+# Chart.SideWall property (Excel)
 
 Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to individually format the side wall of a 3-D chart. Read-only.
 

@@ -1,18 +1,16 @@
 ---
-title: XlArabicModes Enumeration (Excel)
+title: xlArabicModes enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlArabicModes
+- Excel.xlArabicModes
 ms.assetid: 1d78776a-04c2-9b1d-34d8-36d9b2b47941
 ms.date: 06/08/2017
 ---
 
 
-# XlArabicModes Enumeration (Excel)
+# xlArabicModes enumeration (Excel)
 
 Specifies spelling rules for the Arabic spelling checker.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

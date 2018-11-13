@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Visible Property (Excel)
+title: ShapeRange.Visible property (Excel)
 keywords: vbaxl10.chm640121
 f1_keywords:
 - vbaxl10.chm640121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Visible Property (Excel)
+# ShapeRange.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

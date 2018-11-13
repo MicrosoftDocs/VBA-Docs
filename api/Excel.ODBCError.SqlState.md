@@ -1,5 +1,5 @@
 ---
-title: ODBCError.SqlState Property (Excel)
+title: ODBCError.SqlState property (Excel)
 keywords: vbaxl10.chm527073
 f1_keywords:
 - vbaxl10.chm527073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCError.SqlState Property (Excel)
+# ODBCError.SqlState property (Excel)
 
 Returns the SQL state error. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.ShowAllItems Property (Excel)
+title: PivotField.ShowAllItems property (Excel)
 keywords: vbaxl10.chm240088
 f1_keywords:
 - vbaxl10.chm240088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ShowAllItems Property (Excel)
+# PivotField.ShowAllItems property (Excel)
 
  **True** if all items in the PivotTable report are displayed, even if they don't contain summary data. The default value is **False** . Read/write **Boolean** .
 

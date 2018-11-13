@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtQuickStyles Property (Excel)
+title: Application.SmartArtQuickStyles property (Excel)
 keywords: vbaxl10.chm133320
 f1_keywords:
 - vbaxl10.chm133320
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtQuickStyles Property (Excel)
+# Application.SmartArtQuickStyles property (Excel)
 
 Returns the set of SmartArt quick styles which are currently loaded in the application. Read-only
 

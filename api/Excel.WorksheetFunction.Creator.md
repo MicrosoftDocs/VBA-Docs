@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Creator Property (Excel)
+title: WorksheetFunction.Creator property (Excel)
 keywords: vbaxl10.chm136074
 f1_keywords:
 - vbaxl10.chm136074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Creator Property (Excel)
+# WorksheetFunction.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

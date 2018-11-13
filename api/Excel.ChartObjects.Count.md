@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Count Property (Excel)
+title: ChartObjects.Count property (Excel)
 keywords: vbaxl10.chm497104
 f1_keywords:
 - vbaxl10.chm497104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Count Property (Excel)
+# ChartObjects.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

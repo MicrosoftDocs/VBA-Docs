@@ -1,5 +1,5 @@
 ---
-title: Workbook.WriteReserved Property (Excel)
+title: Workbook.WriteReserved property (Excel)
 keywords: vbaxl10.chm199167
 f1_keywords:
 - vbaxl10.chm199167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.WriteReserved Property (Excel)
+# Workbook.WriteReserved property (Excel)
 
  **True** if the workbook is write-reserved. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ListRow.Range Property (Excel)
+title: ListRow.Range property (Excel)
 keywords: vbaxl10.chm742076
 f1_keywords:
 - vbaxl10.chm742076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRow.Range Property (Excel)
+# ListRow.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range to which the specified list object in the above list applies.
 

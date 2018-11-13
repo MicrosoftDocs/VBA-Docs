@@ -1,5 +1,5 @@
 ---
-title: PivotLineCells.Item Property (Excel)
+title: PivotLineCells.Item property (Excel)
 keywords: vbaxl10.chm762075
 f1_keywords:
 - vbaxl10.chm762075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLineCells.Item Property (Excel)
+# PivotLineCells.Item property (Excel)
 
 Returns a specific element of the  **PivotLineCells** collection object by its position in the collection. Read-only.
 

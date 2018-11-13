@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Title Property (Excel)
+title: PublishObject.Title property (Excel)
 keywords: vbaxl10.chm652080
 f1_keywords:
 - vbaxl10.chm652080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Title Property (Excel)
+# PublishObject.Title property (Excel)
 
 Returns or sets the title of the Web page when the document is saved as a Web page. Read/write  **String** .
 

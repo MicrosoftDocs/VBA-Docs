@@ -1,5 +1,5 @@
 ---
-title: XmlMap.RootElementNamespace Property (Excel)
+title: XmlMap.RootElementNamespace property (Excel)
 keywords: vbaxl10.chm754083
 f1_keywords:
 - vbaxl10.chm754083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.RootElementNamespace Property (Excel)
+# XmlMap.RootElementNamespace property (Excel)
 
 Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the root element for the specified XML schema map. Read-only.
 

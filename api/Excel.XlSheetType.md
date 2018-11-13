@@ -1,5 +1,5 @@
 ---
-title: XlSheetType Enumeration (Excel)
+title: xlSheetType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSheetType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSheetType Enumeration (Excel)
+# xlSheetType enumeration (Excel)
 
 Specifies the worksheet type.
 

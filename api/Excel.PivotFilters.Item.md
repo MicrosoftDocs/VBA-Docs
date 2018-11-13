@@ -1,5 +1,5 @@
 ---
-title: PivotFilters.Item Property (Excel)
+title: PivotFilters.Item property (Excel)
 keywords: vbaxl10.chm772075
 f1_keywords:
 - vbaxl10.chm772075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilters.Item Property (Excel)
+# PivotFilters.Item property (Excel)
 
 Returns a specific element of the  **PivotFilters** collection object by its position in the collection. Read-only.
 

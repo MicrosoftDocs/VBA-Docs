@@ -1,5 +1,5 @@
 ---
-title: Workbook.Charts Property (Excel)
+title: Workbook.Charts property (Excel)
 keywords: vbaxl10.chm199084
 f1_keywords:
 - vbaxl10.chm199084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Charts Property (Excel)
+# Workbook.Charts property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the chart sheets in the specified workbook.
 

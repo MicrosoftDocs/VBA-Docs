@@ -1,5 +1,5 @@
 ---
-title: ColorStop.ThemeColor Property (Excel)
+title: ColorStop.ThemeColor property (Excel)
 keywords: vbaxl10.chm851075
 f1_keywords:
 - vbaxl10.chm851075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.ThemeColor Property (Excel)
+# ColorStop.ThemeColor property (Excel)
 
 Returns or sets the theme color of the represented object. Read/write
 

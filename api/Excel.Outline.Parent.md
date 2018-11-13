@@ -1,5 +1,5 @@
 ---
-title: Outline.Parent Property (Excel)
+title: Outline.Parent property (Excel)
 keywords: vbaxl10.chm454075
 f1_keywords:
 - vbaxl10.chm454075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.Parent Property (Excel)
+# Outline.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

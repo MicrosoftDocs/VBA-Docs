@@ -1,5 +1,5 @@
 ---
-title: Workbook.ProtectWindows Property (Excel)
+title: Workbook.ProtectWindows property (Excel)
 keywords: vbaxl10.chm199132
 f1_keywords:
 - vbaxl10.chm199132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ProtectWindows Property (Excel)
+# Workbook.ProtectWindows property (Excel)
 
  **True** if the windows of the workbook are protected. Read-only **Boolean** .
 

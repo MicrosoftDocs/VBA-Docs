@@ -1,5 +1,5 @@
 ---
-title: Workbook.ServerViewableItems Property (Excel)
+title: Workbook.ServerViewableItems property (Excel)
 keywords: vbaxl10.chm199245
 f1_keywords:
 - vbaxl10.chm199245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ServerViewableItems Property (Excel)
+# Workbook.ServerViewableItems property (Excel)
 
 Allows a developer to interact with the list of published objects in the workbook that are shown on the server. Read-only.
 

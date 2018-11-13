@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Visible Property (Excel)
+title: FillFormat.Visible property (Excel)
 keywords: vbaxl10.chm115024
 f1_keywords:
 - vbaxl10.chm115024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Visible Property (Excel)
+# FillFormat.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

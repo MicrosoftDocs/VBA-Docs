@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllocationMethod Property (Excel)
+title: PivotTable.AllocationMethod property (Excel)
 keywords: vbaxl10.chm235189
 f1_keywords:
 - vbaxl10.chm235189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AllocationMethod Property (Excel)
+# PivotTable.AllocationMethod property (Excel)
 
 Returns or sets what method to use to allocate values when performing what-if analysis on a PivotTable report based on an OLAP data source. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.Creator Property (Excel)
+title: SlicerCacheLevel.Creator property (Excel)
 keywords: vbaxl10.chm900074
 f1_keywords:
 - vbaxl10.chm900074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.Creator Property (Excel)
+# SlicerCacheLevel.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

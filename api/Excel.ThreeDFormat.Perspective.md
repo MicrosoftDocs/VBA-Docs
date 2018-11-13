@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (Excel)
+title: ThreeDFormat.Perspective property (Excel)
 keywords: vbaxl10.chm119008
 f1_keywords:
 - vbaxl10.chm119008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Perspective Property (Excel)
+# ThreeDFormat.Perspective property (Excel)
 
 Returns or sets an  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the extrusion appears in perspective.
 

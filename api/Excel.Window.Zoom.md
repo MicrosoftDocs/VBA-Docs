@@ -1,5 +1,5 @@
 ---
-title: Window.Zoom Property (Excel)
+title: Window.Zoom property (Excel)
 keywords: vbaxl10.chm356126
 f1_keywords:
 - vbaxl10.chm356126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Zoom Property (Excel)
+# Window.Zoom property (Excel)
 
 Returns or sets a  **Variant** value that represents the display size of the window, as a percentage (100 equals normal size, 200 equals double size, and so on).
 

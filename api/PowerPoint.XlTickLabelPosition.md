@@ -1,5 +1,5 @@
 ---
-title: XlTickLabelPosition Enumeration (PowerPoint)
+title: xlTickLabelPosition Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTickLabelPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTickLabelPosition Enumeration (PowerPoint)
+# xlTickLabelPosition Enumeration (PowerPoint)
 
 Specifies the position of tick-mark labels on the specified axis.
 

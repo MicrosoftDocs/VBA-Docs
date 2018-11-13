@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame Property (Excel)
+title: ShapeRange.TextFrame property (Excel)
 keywords: vbaxl10.chm640097
 f1_keywords:
 - vbaxl10.chm640097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.TextFrame Property (Excel)
+# ShapeRange.TextFrame property (Excel)
 
 Returns a  **[TextFrame](Excel.TextFrame.md)** object that contains the alignment and anchoring properties for the specified shape. Read-only.
 

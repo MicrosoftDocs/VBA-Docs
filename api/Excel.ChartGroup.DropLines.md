@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DropLines Property (Excel)
+title: ChartGroup.DropLines property (Excel)
 keywords: vbaxl10.chm568076
 f1_keywords:
 - vbaxl10.chm568076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.DropLines Property (Excel)
+# ChartGroup.DropLines property (Excel)
 
 Returns a  **[DropLines](Excel.DropLines(object).md)** object that represents the drop lines for a series on a line chart or area chart. Applies only to line charts or area charts. Read-only.
 

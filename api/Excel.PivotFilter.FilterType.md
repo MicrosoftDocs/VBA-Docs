@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.FilterType Property (Excel)
+title: PivotFilter.FilterType property (Excel)
 keywords: vbaxl10.chm770074
 f1_keywords:
 - vbaxl10.chm770074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.FilterType Property (Excel)
+# PivotFilter.FilterType property (Excel)
 
 Specifies the type of filter to be applied. Read-only  **xlPivotFilterType** .
 

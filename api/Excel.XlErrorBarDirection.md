@@ -1,5 +1,5 @@
 ---
-title: XlErrorBarDirection Enumeration (Excel)
+title: xlErrorBarDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorBarDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlErrorBarDirection Enumeration (Excel)
+# xlErrorBarDirection enumeration (Excel)
 
 Specifies which axis values are to receive error bars.
 

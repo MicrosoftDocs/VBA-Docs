@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.ThreeD Property (Excel)
+title: TextFrame2.ThreeD property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.ThreeD
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.ThreeD Property (Excel)
+# TextFrame2.ThreeD property (Excel)
 
 Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-effect formatting properties for the specified text. Read-only.
 

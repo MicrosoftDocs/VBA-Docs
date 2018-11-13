@@ -1,5 +1,5 @@
 ---
-title: Databar.BarFillType Property (Excel)
+title: Databar.BarFillType property (Excel)
 keywords: vbaxl10.chm810091
 f1_keywords:
 - vbaxl10.chm810091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.BarFillType Property (Excel)
+# Databar.BarFillType property (Excel)
 
 Returns or sets how a data bar is filled with color. Read/write
 

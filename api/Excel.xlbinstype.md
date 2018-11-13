@@ -1,12 +1,12 @@
 ---
-title: XlBinsType Enumeration (Excel)
+title: xlBinsType enumeration (Excel)
 ms.assetid: 99482ffa-a40c-c2b4-a062-ce5ce2ad5b29
 ms.date: 06/08/2017
 ms.prod: excel
 ---
 
 
-# XlBinsType Enumeration (Excel)
+# xlBinsType enumeration (Excel)
 
 Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.binstype.md) property.
 

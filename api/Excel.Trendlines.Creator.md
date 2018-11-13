@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Creator Property (Excel)
+title: Trendlines.Creator property (Excel)
 keywords: vbaxl10.chm591074
 f1_keywords:
 - vbaxl10.chm591074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Creator Property (Excel)
+# Trendlines.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

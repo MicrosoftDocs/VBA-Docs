@@ -1,5 +1,5 @@
 ---
-title: Workbook.Path Property (Excel)
+title: Workbook.Path property (Excel)
 keywords: vbaxl10.chm199121
 f1_keywords:
 - vbaxl10.chm199121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Path Property (Excel)
+# Workbook.Path property (Excel)
 
 Returns a  **String** that represents the complete path to the workbook/file that this workbook object respresents.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelTable.ModelTableColumns Property (Excel)
+title: ModelTable.ModelTableColumns property (Excel)
 keywords: vbaxl10.chm934075
 f1_keywords:
 - vbaxl10.chm934075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTable.ModelTableColumns Property (Excel)
+# ModelTable.ModelTableColumns property (Excel)
 
 Collection of [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) that make up the ModelTable. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtColors Property (Excel)
+title: Application.SmartArtColors property (Excel)
 keywords: vbaxl10.chm133321
 f1_keywords:
 - vbaxl10.chm133321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtColors Property (Excel)
+# Application.SmartArtColors property (Excel)
 
 Returns the set of color styles that are currently loaded in the application. Read-only
 

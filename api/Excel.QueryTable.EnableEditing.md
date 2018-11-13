@@ -1,5 +1,5 @@
 ---
-title: QueryTable.EnableEditing Property (Excel)
+title: QueryTable.EnableEditing property (Excel)
 keywords: vbaxl10.chm518097
 f1_keywords:
 - vbaxl10.chm518097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.EnableEditing Property (Excel)
+# QueryTable.EnableEditing property (Excel)
 
  **True** if the user can edit the specified query table. **False** if the user can only refresh the query table. Read/write **Boolean** .
 

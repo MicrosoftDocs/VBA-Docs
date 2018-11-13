@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Property (Excel)
+title: Shapes.Range property (Excel)
 keywords: vbaxl10.chm638088
 f1_keywords:
 - vbaxl10.chm638088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.Range Property (Excel)
+# Shapes.Range property (Excel)
 
 Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **Shapes** collection.
 

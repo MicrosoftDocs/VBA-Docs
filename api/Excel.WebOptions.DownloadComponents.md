@@ -1,5 +1,5 @@
 ---
-title: WebOptions.DownloadComponents Property (Excel)
+title: WebOptions.DownloadComponents property (Excel)
 keywords: vbaxl10.chm662076
 f1_keywords:
 - vbaxl10.chm662076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.DownloadComponents Property (Excel)
+# WebOptions.DownloadComponents property (Excel)
 
  **True** if the necessary Microsoft Office Web components are downloaded when you view the saved document in a Web browser, but only if the components are not already installed. **False** if the components are not downloaded. The default value is **False** . Read/write **Boolean** .
 

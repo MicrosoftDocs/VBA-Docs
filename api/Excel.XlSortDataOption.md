@@ -1,5 +1,5 @@
 ---
-title: XlSortDataOption Enumeration (Excel)
+title: xlSortDataOption enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortDataOption
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSortDataOption Enumeration (Excel)
+# xlSortDataOption enumeration (Excel)
 
 Specifies how to sort text.
 

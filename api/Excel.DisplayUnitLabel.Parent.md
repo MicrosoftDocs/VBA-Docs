@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Parent Property (Excel)
+title: DisplayUnitLabel.Parent property (Excel)
 keywords: vbaxl10.chm674073
 f1_keywords:
 - vbaxl10.chm674073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Parent Property (Excel)
+# DisplayUnitLabel.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

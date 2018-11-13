@@ -1,5 +1,5 @@
 ---
-title: Slicer.Width Property (Excel)
+title: Slicer.Width property (Excel)
 keywords: vbaxl10.chm905078
 f1_keywords:
 - vbaxl10.chm905078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Width Property (Excel)
+# Slicer.Width property (Excel)
 
 Returns or sets the width of the specified slicer, in points. Read/write.
 

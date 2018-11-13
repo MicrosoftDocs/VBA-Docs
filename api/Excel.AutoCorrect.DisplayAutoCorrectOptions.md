@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DisplayAutoCorrectOptions Property (Excel)
+title: AutoCorrect.DisplayAutoCorrectOptions property (Excel)
 keywords: vbaxl10.chm545081
 f1_keywords:
 - vbaxl10.chm545081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.DisplayAutoCorrectOptions Property (Excel)
+# AutoCorrect.DisplayAutoCorrectOptions property (Excel)
 
 Allows the user to display or hide the  **AutoCorrect Options** button. The default value is **True** . Read/write **Boolean** .
 

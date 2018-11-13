@@ -1,5 +1,5 @@
 ---
-title: Window.ActivePane Property (Excel)
+title: Window.ActivePane property (Excel)
 keywords: vbaxl10.chm356078
 f1_keywords:
 - vbaxl10.chm356078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActivePane Property (Excel)
+# Window.ActivePane property (Excel)
 
 Returns a  **[Pane](Excel.Pane.md)** object that represents the active pane in the window. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Start Property (Excel)
+title: Phonetics.Start property (Excel)
 keywords: vbaxl10.chm658074
 f1_keywords:
 - vbaxl10.chm658074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Start Property (Excel)
+# Phonetics.Start property (Excel)
 
 Returns the position that represents the first character of a phonetic text string in the specified cell. Read-only  **Long** .
 

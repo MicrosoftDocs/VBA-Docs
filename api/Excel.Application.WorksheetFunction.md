@@ -1,5 +1,5 @@
 ---
-title: Application.WorksheetFunction Property (Excel)
+title: Application.WorksheetFunction property (Excel)
 keywords: vbaxl10.chm183116
 f1_keywords:
 - vbaxl10.chm183116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.WorksheetFunction Property (Excel)
+# Application.WorksheetFunction property (Excel)
 
 Returns the  **[WorksheetFunction](Excel.WorksheetFunction.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Interactive Property (Excel)
+title: Application.Interactive property (Excel)
 keywords: vbaxl10.chm133150
 f1_keywords:
 - vbaxl10.chm133150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Interactive Property (Excel)
+# Application.Interactive property (Excel)
 
  **True** if Microsoft Excel is in interactive mode; this property is usually **True** . If you set the this property to **False** , Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean** .
 

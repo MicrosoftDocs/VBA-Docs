@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayClipboardWindow Property (Excel)
+title: Application.DisplayClipboardWindow property (Excel)
 keywords: vbaxl10.chm133093
 f1_keywords:
 - vbaxl10.chm133093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayClipboardWindow Property (Excel)
+# Application.DisplayClipboardWindow property (Excel)
 
 Returns  **True** if the Microsoft Office Clipboard can be displayed. Read/write **Boolean** .
 

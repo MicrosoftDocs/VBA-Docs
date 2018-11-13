@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Encoding Property (Excel)
+title: DefaultWebOptions.Encoding property (Excel)
 keywords: vbaxl10.chm660086
 f1_keywords:
 - vbaxl10.chm660086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Encoding Property (Excel)
+# DefaultWebOptions.Encoding property (Excel)
 
 Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. The default is the system code page. Read/write  **[MsoEncoding](Office.MsoEncoding.md)** .
 

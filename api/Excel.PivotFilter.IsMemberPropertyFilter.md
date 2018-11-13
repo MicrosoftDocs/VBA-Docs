@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.IsMemberPropertyFilter Property (Excel)
+title: PivotFilter.IsMemberPropertyFilter property (Excel)
 keywords: vbaxl10.chm770085
 f1_keywords:
 - vbaxl10.chm770085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.IsMemberPropertyFilter Property (Excel)
+# PivotFilter.IsMemberPropertyFilter property (Excel)
 
 Specifies whether the label filter is based on the PivotItem captions of a member property of the field or on the PivotItem captions of the PivotField itself. Read-only  **Boolean** .
 

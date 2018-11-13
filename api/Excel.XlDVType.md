@@ -1,5 +1,5 @@
 ---
-title: XlDVType Enumeration (Excel)
+title: xlDVType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDVType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDVType Enumeration (Excel)
+# xlDVType enumeration (Excel)
 
 Specifies the type of validation test to be performed in conjunction with values.
 

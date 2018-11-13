@@ -1,5 +1,5 @@
 ---
-title: Databar.Direction Property (Excel)
+title: Databar.Direction property (Excel)
 keywords: vbaxl10.chm810090
 f1_keywords:
 - vbaxl10.chm810090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.Direction Property (Excel)
+# Databar.Direction property (Excel)
 
 Returns or sets the direction the databar is displayed. Read/write
 

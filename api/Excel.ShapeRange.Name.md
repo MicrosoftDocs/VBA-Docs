@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (Excel)
+title: ShapeRange.Name property (Excel)
 keywords: vbaxl10.chm640110
 f1_keywords:
 - vbaxl10.chm640110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Name Property (Excel)
+# ShapeRange.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

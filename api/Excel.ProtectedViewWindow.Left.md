@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Left Property (Excel)
+title: ProtectedViewWindow.Left property (Excel)
 keywords: vbaxl10.chm914077
 f1_keywords:
 - vbaxl10.chm914077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Left Property (Excel)
+# ProtectedViewWindow.Left property (Excel)
 
 Returns or sets a value that represents the distance, in points, from the left edge of the client area to the left edge of the  **Protected View** window. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CellDragAndDrop Property (Excel)
+title: Application.CellDragAndDrop property (Excel)
 keywords: vbaxl10.chm133089
 f1_keywords:
 - vbaxl10.chm133089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CellDragAndDrop Property (Excel)
+# Application.CellDragAndDrop property (Excel)
 
  **True** if dragging and dropping cells is enabled. Read/write **Boolean** .
 

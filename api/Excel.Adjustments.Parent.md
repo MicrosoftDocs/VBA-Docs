@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Parent Property (Excel)
+title: Adjustments.Parent property (Excel)
 keywords: vbaxl10.chm103001
 f1_keywords:
 - vbaxl10.chm103001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Parent Property (Excel)
+# Adjustments.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

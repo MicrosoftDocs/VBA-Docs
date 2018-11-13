@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.Formula Property (Excel)
+title: CalculatedMember.Formula property (Excel)
 keywords: vbaxl10.chm686074
 f1_keywords:
 - vbaxl10.chm686074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.Formula Property (Excel)
+# CalculatedMember.Formula property (Excel)
 
 Returns a  **String** value that represents the member's formula in multidimensional expressions (MDX) syntax.
 

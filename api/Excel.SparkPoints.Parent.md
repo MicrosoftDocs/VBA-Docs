@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Parent Property (Excel)
+title: SparkPoints.Parent property (Excel)
 keywords: vbaxl10.chm872075
 f1_keywords:
 - vbaxl10.chm872075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Parent Property (Excel)
+# SparkPoints.Parent property (Excel)
 
 Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified object. Read-only.
 

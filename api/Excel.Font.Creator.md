@@ -1,5 +1,5 @@
 ---
-title: Font.Creator Property (Excel)
+title: Font.Creator property (Excel)
 keywords: vbaxl10.chm558074
 f1_keywords:
 - vbaxl10.chm558074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Creator Property (Excel)
+# Font.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

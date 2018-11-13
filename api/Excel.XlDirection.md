@@ -1,5 +1,5 @@
 ---
-title: XlDirection Enumeration (Excel)
+title: xlDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDirection Enumeration (Excel)
+# xlDirection enumeration (Excel)
 
 Specifies the direction in which to move.
 

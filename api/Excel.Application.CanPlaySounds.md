@@ -1,5 +1,5 @@
 ---
-title: Application.CanPlaySounds Property (Excel)
+title: Application.CanPlaySounds property (Excel)
 keywords: vbaxl10.chm133086
 f1_keywords:
 - vbaxl10.chm133086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CanPlaySounds Property (Excel)
+# Application.CanPlaySounds property (Excel)
 
 This property should not be used. Sound notes have been removed from Microsoft Excel.
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Width Property (Excel)
+title: AxisTitle.Width property (Excel)
 keywords: vbaxl10.chm565093
 f1_keywords:
 - vbaxl10.chm565093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Width Property (Excel)
+# AxisTitle.Width property (Excel)
 
 Returns the width, in points, of the object. Read-only.
 

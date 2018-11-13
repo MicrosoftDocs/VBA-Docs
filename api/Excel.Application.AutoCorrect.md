@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Property (Excel)
+title: Application.AutoCorrect property (Excel)
 keywords: vbaxl10.chm133081
 f1_keywords:
 - vbaxl10.chm133081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoCorrect Property (Excel)
+# Application.AutoCorrect property (Excel)
 
 Returns an  **[AutoCorrect](Excel.AutoCorrect(object).md)** object that represents the Microsoft Excel AutoCorrect attributes. Read-only.
 

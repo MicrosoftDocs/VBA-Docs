@@ -1,5 +1,5 @@
 ---
-title: Series.IsFiltered Property (Excel)
+title: Series.IsFiltered property (Excel)
 keywords: vbaxl10.chm578128
 f1_keywords:
 - vbaxl10.chm578128
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.IsFiltered Property (Excel)
+# Series.IsFiltered property (Excel)
 
 This setting controls whether the series has been filtered out from the chart. The default value is  **False** . **Boolean** Read/Write.
 

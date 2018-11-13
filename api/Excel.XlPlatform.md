@@ -1,5 +1,5 @@
 ---
-title: XlPlatform Enumeration (Excel)
+title: xlPlatform enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPlatform
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPlatform Enumeration (Excel)
+# xlPlatform enumeration (Excel)
 
 Specifies the platform on which a text file originated.
 

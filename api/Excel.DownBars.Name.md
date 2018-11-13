@@ -1,5 +1,5 @@
 ---
-title: DownBars.Name Property (Excel)
+title: DownBars.Name property (Excel)
 keywords: vbaxl10.chm610074
 f1_keywords:
 - vbaxl10.chm610074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Name Property (Excel)
+# DownBars.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

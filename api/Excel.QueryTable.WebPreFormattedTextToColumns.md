@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebPreFormattedTextToColumns Property (Excel)
+title: QueryTable.WebPreFormattedTextToColumns property (Excel)
 keywords: vbaxl10.chm518125
 f1_keywords:
 - vbaxl10.chm518125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebPreFormattedTextToColumns Property (Excel)
+# QueryTable.WebPreFormattedTextToColumns property (Excel)
 
 Returns or sets whether data contained within HTML <PRE> tags in the Web page is parsed into columns when you import the page into a query table. The default is  **True** . Read/write **Boolean** .
 

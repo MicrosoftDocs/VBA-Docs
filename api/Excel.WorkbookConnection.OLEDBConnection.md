@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.OLEDBConnection Property (Excel)
+title: WorkbookConnection.OLEDBConnection property (Excel)
 keywords: vbaxl10.chm774077
 f1_keywords:
 - vbaxl10.chm774077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.OLEDBConnection Property (Excel)
+# WorkbookConnection.OLEDBConnection property (Excel)
 
 Retuns the OLEDB Connection details for the specified  **WorkbookConnection** object. Read-only ** OLEDBConnection** .
 

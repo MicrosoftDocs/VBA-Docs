@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveProtectedViewWindow Property (Excel)
+title: Application.ActiveProtectedViewWindow property (Excel)
 keywords: vbaxl10.chm133331
 f1_keywords:
 - vbaxl10.chm133331
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveProtectedViewWindow Property (Excel)
+# Application.ActiveProtectedViewWindow property (Excel)
 
 Returns a  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** object that represents the active **Protected View** window (the window on top). Read-only. Returns **Nothing** if there are no **Protected View** windows open. Read-only
 

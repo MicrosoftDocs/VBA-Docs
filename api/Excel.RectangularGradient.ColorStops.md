@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient.ColorStops Property (Excel)
+title: RectangularGradient.ColorStops property (Excel)
 keywords: vbaxl10.chm857073
 f1_keywords:
 - vbaxl10.chm857073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient.ColorStops Property (Excel)
+# RectangularGradient.ColorStops property (Excel)
 
 Returns the  **[ColorStops](Excel.ColorStops.md)** collection for the **RectangularGradient** object. Read-only
 

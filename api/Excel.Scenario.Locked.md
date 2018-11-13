@@ -1,5 +1,5 @@
 ---
-title: Scenario.Locked Property (Excel)
+title: Scenario.Locked property (Excel)
 keywords: vbaxl10.chm364079
 f1_keywords:
 - vbaxl10.chm364079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Locked Property (Excel)
+# Scenario.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the object is locked.
 

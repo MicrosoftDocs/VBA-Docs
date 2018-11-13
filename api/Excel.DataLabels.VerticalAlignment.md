@@ -1,5 +1,5 @@
 ---
-title: DataLabels.VerticalAlignment Property (Excel)
+title: DataLabels.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm584089
 f1_keywords:
 - vbaxl10.chm584089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.VerticalAlignment Property (Excel)
+# DataLabels.VerticalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
 

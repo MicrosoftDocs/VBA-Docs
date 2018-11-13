@@ -1,5 +1,5 @@
 ---
-title: Border.Parent Property (Excel)
+title: Border.Parent property (Excel)
 keywords: vbaxl10.chm546075
 f1_keywords:
 - vbaxl10.chm546075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.Parent Property (Excel)
+# Border.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

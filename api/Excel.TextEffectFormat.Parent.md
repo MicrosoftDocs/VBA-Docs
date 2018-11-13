@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Parent Property (Excel)
+title: TextEffectFormat.Parent property (Excel)
 keywords: vbaxl10.chm118001
 f1_keywords:
 - vbaxl10.chm118001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Parent Property (Excel)
+# TextEffectFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NegativeBarFormat.BorderColorType Property (Excel)
+title: NegativeBarFormat.BorderColorType property (Excel)
 keywords: vbaxl10.chm887074
 f1_keywords:
 - vbaxl10.chm887074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NegativeBarFormat.BorderColorType Property (Excel)
+# NegativeBarFormat.BorderColorType property (Excel)
 
  Specifies whether to use the same border color as positive data bars. Read/write
 

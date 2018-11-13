@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotChart Property (Excel)
+title: PivotTable.PivotChart property (Excel)
 keywords: vbaxl10.chm235205
 f1_keywords:
 - vbaxl10.chm235205
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotChart Property (Excel)
+# PivotTable.PivotChart property (Excel)
 
 Returns a [Shape Object (Excel)](Excel.Shape.md) object that represents the standalone PivotChart for the specified hidden PivotTable report. Read-only.
 

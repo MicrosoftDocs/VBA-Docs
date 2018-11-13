@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ColumnGrand Property (Excel)
+title: PivotTable.ColumnGrand property (Excel)
 keywords: vbaxl10.chm235075
 f1_keywords:
 - vbaxl10.chm235075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ColumnGrand Property (Excel)
+# PivotTable.ColumnGrand property (Excel)
 
  **True** if the PivotTable report shows grand totals for columns. Read/write **Boolean** .
 

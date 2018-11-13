@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileTextQualifier Property (Excel)
+title: TextConnection.TextFileTextQualifier property (Excel)
 keywords: vbaxl10.chm926088
 f1_keywords:
 - vbaxl10.chm926088
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileTextQualifier Property (Excel)
+# TextConnection.TextFileTextQualifier property (Excel)
 
-Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/Write [XlTextQualifier Enumeration (Excel)](Excel.XlTextQualifier.md)
+Returns or sets the text qualifier when you import a text file into a query table. The text qualifier specifies that the enclosed data is in text format. Read/Write [xlTextQualifier enumeration (Excel)](Excel.xlTextQualifier.md)
 
 
 ## Syntax

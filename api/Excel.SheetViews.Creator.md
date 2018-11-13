@@ -1,5 +1,5 @@
 ---
-title: SheetViews.Creator Property (Excel)
+title: SheetViews.Creator property (Excel)
 keywords: vbaxl10.chm791074
 f1_keywords:
 - vbaxl10.chm791074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SheetViews.Creator Property (Excel)
+# SheetViews.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

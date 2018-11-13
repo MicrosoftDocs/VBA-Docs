@@ -1,5 +1,5 @@
 ---
-title: Databar.Formula Property (Excel)
+title: Databar.Formula property (Excel)
 keywords: vbaxl10.chm810082
 f1_keywords:
 - vbaxl10.chm810082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.Formula Property (Excel)
+# Databar.Formula property (Excel)
 
 Returns or sets a  **String** representing a formula, which determines the values to which the data bar will be applied.
 

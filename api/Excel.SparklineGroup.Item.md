@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Item Property (Excel)
+title: SparklineGroup.Item property (Excel)
 keywords: vbaxl10.chm871074
 f1_keywords:
 - vbaxl10.chm871074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Item Property (Excel)
+# SparklineGroup.Item property (Excel)
 
 Returns a  **[Sparkline](Excel.Sparkline.md)** object. Read-only
 

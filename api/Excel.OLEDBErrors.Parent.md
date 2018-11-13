@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors.Parent Property (Excel)
+title: OLEDBErrors.Parent property (Excel)
 keywords: vbaxl10.chm655075
 f1_keywords:
 - vbaxl10.chm655075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBErrors.Parent Property (Excel)
+# OLEDBErrors.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

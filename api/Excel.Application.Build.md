@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Excel)
+title: Application.Build property (Excel)
 keywords: vbaxl10.chm133082
 f1_keywords:
 - vbaxl10.chm133082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Build Property (Excel)
+# Application.Build property (Excel)
 
 Returns the Microsoft Excel build number. Read-only  **Long** .
 

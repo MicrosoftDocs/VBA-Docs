@@ -1,5 +1,5 @@
 ---
-title: Sort.Rng Property (Excel)
+title: Sort.Rng property (Excel)
 keywords: vbaxl10.chm847073
 f1_keywords:
 - vbaxl10.chm847073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.Rng Property (Excel)
+# Sort.Rng property (Excel)
 
 Return the range of values on which the sort is performed. Read-only.
 

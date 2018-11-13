@@ -1,5 +1,5 @@
 ---
-title: CubeField.CubeFieldSubType Property (Excel)
+title: CubeField.CubeFieldSubType property (Excel)
 keywords: vbaxl10.chm668096
 f1_keywords:
 - vbaxl10.chm668096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.CubeFieldSubType Property (Excel)
+# CubeField.CubeFieldSubType property (Excel)
 
 Specifies the type of a CubeField. Read-only.
 

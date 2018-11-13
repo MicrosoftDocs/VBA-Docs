@@ -1,5 +1,5 @@
 ---
-title: Axis.LogBase Property (Excel)
+title: Axis.LogBase property (Excel)
 keywords: vbaxl10.chm561117
 f1_keywords:
 - vbaxl10.chm561117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.LogBase Property (Excel)
+# Axis.LogBase property (Excel)
 
 Returns or sets the base of the logarithm when you are using log scales. Read/write  **Double** .
 

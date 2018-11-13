@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.AxisGroup Property (Excel)
+title: ChartGroup.AxisGroup property (Excel)
 keywords: vbaxl10.chm568073
 f1_keywords:
 - vbaxl10.chm568073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.AxisGroup Property (Excel)
+# ChartGroup.AxisGroup property (Excel)
 
 Returns or sets the group for the specified chart. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowExpandCollapseEntireFieldButtons Property (Excel)
+title: Chart.ShowExpandCollapseEntireFieldButtons property (Excel)
 keywords: vbaxl10.chm149201
 f1_keywords:
 - vbaxl10.chm149201
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Chart.ShowExpandCollapseEntireFieldButtons Property (Excel)
+# Chart.ShowExpandCollapseEntireFieldButtons property (Excel)
 
  **True** to display the **Expand Entire Field** and **Collapse Entire Field** buttons on the specified pivot chart. Read/write **Boolean**.
 

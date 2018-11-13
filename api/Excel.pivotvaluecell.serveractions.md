@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.ServerActions Property (Excel)
+title: PivotValueCell.ServerActions property (Excel)
 keywords: vbaxl10.chm918076
 f1_keywords:
 - vbaxl10.chm918076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.ServerActions Property (Excel)
+# PivotValueCell.ServerActions property (Excel)
 
 Returns a collection of OLAP Action name objects which will represent OLAP-defined actions which can be executed. Read-only
 

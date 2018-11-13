@@ -1,5 +1,5 @@
 ---
-title: Filter.Criteria1 Property (Excel)
+title: Filter.Criteria1 property (Excel)
 keywords: vbaxl10.chm542074
 f1_keywords:
 - vbaxl10.chm542074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filter.Criteria1 Property (Excel)
+# Filter.Criteria1 property (Excel)
 
 Returns the first filtered value for the specified column in a filtered range. Read-only  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Border.ThemeColor Property (Excel)
+title: Border.ThemeColor property (Excel)
 keywords: vbaxl10.chm547077
 f1_keywords:
 - vbaxl10.chm547077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.ThemeColor Property (Excel)
+# Border.ThemeColor property (Excel)
 
 Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **Variant** .
 

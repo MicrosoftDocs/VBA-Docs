@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.TextDate Property (Excel)
+title: ErrorCheckingOptions.TextDate property (Excel)
 keywords: vbaxl10.chm698076
 f1_keywords:
 - vbaxl10.chm698076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.TextDate Property (Excel)
+# ErrorCheckingOptions.TextDate property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, cells that contain a text date with a two-digit year. **False** disables error checking for cells containing a text date with a two-digit year. Read/write **Boolean** .
 

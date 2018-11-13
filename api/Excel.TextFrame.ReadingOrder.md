@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ReadingOrder Property (Excel)
+title: TextFrame.ReadingOrder property (Excel)
 keywords: vbaxl10.chm644082
 f1_keywords:
 - vbaxl10.chm644082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.ReadingOrder Property (Excel)
+# TextFrame.ReadingOrder property (Excel)
 
 Returns or sets the reading order for the specified object. Can be one of the following constants:  **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
 

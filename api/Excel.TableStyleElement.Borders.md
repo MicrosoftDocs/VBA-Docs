@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.Borders Property (Excel)
+title: TableStyleElement.Borders property (Excel)
 keywords: vbaxl10.chm835075
 f1_keywords:
 - vbaxl10.chm835075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.Borders Property (Excel)
+# TableStyleElement.Borders property (Excel)
 
 Returns a  **[Borders](Excel.Borders.md)** collection that represents the borders of a table style element. Read-only.
 

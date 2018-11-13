@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.ArabicStrictTaaMarboota Property (Excel)
+title: SpellingOptions.ArabicStrictTaaMarboota property (Excel)
 keywords: vbaxl10.chm717087
 f1_keywords:
 - vbaxl10.chm717087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.ArabicStrictTaaMarboota Property (Excel)
+# SpellingOptions.ArabicStrictTaaMarboota property (Excel)
 
 Returns or sets whether the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota. Read/write
 

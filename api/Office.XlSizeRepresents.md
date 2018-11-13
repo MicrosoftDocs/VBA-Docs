@@ -1,5 +1,5 @@
 ---
-title: XlSizeRepresents Enumeration (Office)
+title: xlSizeRepresents Enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlSizeRepresents
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSizeRepresents Enumeration (Office)
+# xlSizeRepresents Enumeration (Office)
 
 Indicates what the size measurement is in relation to.
 

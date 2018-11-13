@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.ReadOnly Property (Excel)
+title: ListDataFormat.ReadOnly property (Excel)
 keywords: vbaxl10.chm758084
 f1_keywords:
 - vbaxl10.chm758084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.ReadOnly Property (Excel)
+# ListDataFormat.ReadOnly property (Excel)
 
  Returns **True** if the object has been opened as read-only. Read-only **Boolean** .
 

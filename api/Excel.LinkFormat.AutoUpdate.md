@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.AutoUpdate Property (Excel)
+title: LinkFormat.AutoUpdate property (Excel)
 keywords: vbaxl10.chm634073
 f1_keywords:
 - vbaxl10.chm634073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.AutoUpdate Property (Excel)
+# LinkFormat.AutoUpdate property (Excel)
 
  **True** if the **[LinkFormat](Excel.LinkFormat.md)** object is updated automatically when the source changes. Read-only **Boolean** .
 

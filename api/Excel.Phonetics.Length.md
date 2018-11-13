@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Length Property (Excel)
+title: Phonetics.Length property (Excel)
 keywords: vbaxl10.chm658075
 f1_keywords:
 - vbaxl10.chm658075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Length Property (Excel)
+# Phonetics.Length property (Excel)
 
 Returns a  **Long** value that represents the number of characters of phonetic text from the position you've specified with the **[Start](Excel.Phonetics.Start.md)** property.
 

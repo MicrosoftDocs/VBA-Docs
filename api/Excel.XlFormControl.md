@@ -1,5 +1,5 @@
 ---
-title: XlFormControl Enumeration (Excel)
+title: xlFormControl enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormControl
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFormControl Enumeration (Excel)
+# xlFormControl enumeration (Excel)
 
 Specifies the type of the form control.
 

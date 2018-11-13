@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Parent Property (Excel)
+title: TableStyle.Parent property (Excel)
 keywords: vbaxl10.chm838075
 f1_keywords:
 - vbaxl10.chm838075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Parent Property (Excel)
+# TableStyle.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

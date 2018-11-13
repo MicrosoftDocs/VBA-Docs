@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames.Parent Property (Excel)
+title: ModelMeasureNames.Parent property (Excel)
 keywords: vbaxl10.chm971075
 f1_keywords:
 - vbaxl10.chm971075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames.Parent Property (Excel)
+# ModelMeasureNames.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object. Read-only.
 

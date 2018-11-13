@@ -1,5 +1,5 @@
 ---
-title: PivotField.VisibleItems Property (Excel)
+title: PivotField.VisibleItems property (Excel)
 keywords: vbaxl10.chm240099
 f1_keywords:
 - vbaxl10.chm240099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.VisibleItems Property (Excel)
+# PivotField.VisibleItems property (Excel)
 
 Returns an object that represents either a single visible PivotTable item (a  **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the visible items (a **[PivotItems](Excel.PivotItems.md)** object) in the specified field. Read-only.
 

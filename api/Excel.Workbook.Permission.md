@@ -1,5 +1,5 @@
 ---
-title: Workbook.Permission Property (Excel)
+title: Workbook.Permission property (Excel)
 keywords: vbaxl10.chm199220
 f1_keywords:
 - vbaxl10.chm199220
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Permission Property (Excel)
+# Workbook.Permission property (Excel)
 
 Returns a  **Permission** object that represents the permission settings in the specified workbook.
 

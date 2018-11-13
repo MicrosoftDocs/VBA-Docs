@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WordArtformat Property (Excel)
+title: TextFrame2.WordArtformat property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.WordArtformat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.WordArtformat Property (Excel)
+# TextFrame2.WordArtformat property (Excel)
 
 Returns or sets the Word Art type for the specified text frame. Read/write  **[MsoPresetTextEffect](./Office.MsoPresetTextEffect.md)** .
 

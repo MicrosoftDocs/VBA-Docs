@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.SourceConnectionFile Property (Excel)
+title: DataFeedConnection.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm928084
 f1_keywords:
 - vbaxl10.chm928084
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.SourceConnectionFile Property (Excel)
+# DataFeedConnection.SourceConnectionFile property (Excel)
 
 Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/Write
 

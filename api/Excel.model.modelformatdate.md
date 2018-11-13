@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatDate Property (Excel)
+title: Model.ModelFormatDate property (Excel)
 keywords: vbaxl10.chm942083
 f1_keywords:
 - vbaxl10.chm942083
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatDate Property (Excel)
+# Model.ModelFormatDate property (Excel)
 
 Returns a [ModelFormatDate](Excel.modelformatdate.md) object that represents formatting of type date in the data model. Read-only .
 

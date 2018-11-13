@@ -1,5 +1,5 @@
 ---
-title: XlFileValidationPivotMode Enumeration (Excel)
+title: xlFileValidationPivotMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFileValidationPivotMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFileValidationPivotMode Enumeration (Excel)
+# xlFileValidationPivotMode enumeration (Excel)
 
 Specifies how to validate the data caches for PivotTable reports.
 

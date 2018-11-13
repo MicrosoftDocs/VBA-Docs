@@ -1,5 +1,5 @@
 ---
-title: Application.UserControl Property (Excel)
+title: Application.UserControl property (Excel)
 keywords: vbaxl10.chm133224
 f1_keywords:
 - vbaxl10.chm133224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserControl Property (Excel)
+# Application.UserControl property (Excel)
 
  **True** if the application is visible or if it was created or started by the user. **False** if you created or started the application programmatically by using the **CreateObject** or **GetObject** functions, and the application is hidden. Read/write **Boolean** .
 

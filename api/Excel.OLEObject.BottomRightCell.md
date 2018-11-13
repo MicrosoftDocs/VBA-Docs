@@ -1,5 +1,5 @@
 ---
-title: OLEObject.BottomRightCell Property (Excel)
+title: OLEObject.BottomRightCell property (Excel)
 keywords: vbaxl10.chm415074
 f1_keywords:
 - vbaxl10.chm415074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.BottomRightCell Property (Excel)
+# OLEObject.BottomRightCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the lower-right corner of the object. Read-only.
 

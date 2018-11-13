@@ -1,5 +1,5 @@
 ---
-title: TimelineState.Parent Property (Excel)
+title: TimelineState.Parent property (Excel)
 keywords: vbaxl10.chm949075
 f1_keywords:
 - vbaxl10.chm949075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.Parent Property (Excel)
+# TimelineState.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[TimelineState Object (Excel)](Excel.timelinestate.md) object. Read-only.
 

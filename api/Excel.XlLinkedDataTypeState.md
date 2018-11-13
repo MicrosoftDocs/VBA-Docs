@@ -1,5 +1,5 @@
 ---
-title: XlLinkedDataTypeState enumeration (Excel)
+title: xlLinkedDataTypeState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLinkedDataTypeState
@@ -7,7 +7,7 @@ ms.date: 09/12/2018
 ---
 
 
-# XlLinkedDataTypeState enumeration (Excel)
+# xlLinkedDataTypeState enumeration (Excel)
 
 Indicates the state of cells that may contain Linked data types such as [Stocks or Geography](https://support.office.com/article/stock-quotes-and-geographic-data-61a33056-9935-484f-8ac8-f1a89e210877). These are the possible values of the [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md) property.
 

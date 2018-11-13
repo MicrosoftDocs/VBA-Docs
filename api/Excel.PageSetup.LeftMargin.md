@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftMargin Property (Excel)
+title: PageSetup.LeftMargin property (Excel)
 keywords: vbaxl10.chm473088
 f1_keywords:
 - vbaxl10.chm473088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftMargin Property (Excel)
+# PageSetup.LeftMargin property (Excel)
 
 Returns or sets the size of the left margin, in points. Read/write  **Double** .
 

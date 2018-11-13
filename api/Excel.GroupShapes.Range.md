@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Range Property (Excel)
+title: GroupShapes.Range property (Excel)
 keywords: vbaxl10.chm642077
 f1_keywords:
 - vbaxl10.chm642077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Range Property (Excel)
+# GroupShapes.Range property (Excel)
 
 Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents a subset of the shapes in a **[Shapes](Excel.Shapes.md)** collection.
 

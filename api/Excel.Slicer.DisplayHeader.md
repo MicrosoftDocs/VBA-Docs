@@ -1,5 +1,5 @@
 ---
-title: Slicer.DisplayHeader Property (Excel)
+title: Slicer.DisplayHeader property (Excel)
 keywords: vbaxl10.chm905083
 f1_keywords:
 - vbaxl10.chm905083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.DisplayHeader Property (Excel)
+# Slicer.DisplayHeader property (Excel)
 
 Returns or sets whether the header that displays the slicer  **[Caption](Excel.Slicer.Caption.md)** is visible. Read/write.
 

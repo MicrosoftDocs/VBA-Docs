@@ -1,5 +1,5 @@
 ---
-title: DataLabel.AutoText Property (Excel)
+title: DataLabel.AutoText property (Excel)
 keywords: vbaxl10.chm582092
 f1_keywords:
 - vbaxl10.chm582092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.AutoText Property (Excel)
+# DataLabel.AutoText property (Excel)
 
  **True** if the object automatically generates appropriate text based on context. Read/write **Boolean** .
 

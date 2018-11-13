@@ -1,5 +1,5 @@
 ---
-title: Page.LeftFooter Property (Excel)
+title: Page.LeftFooter property (Excel)
 keywords: vbaxl10.chm830076
 f1_keywords:
 - vbaxl10.chm830076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.LeftFooter Property (Excel)
+# Page.LeftFooter property (Excel)
 
 Specifies a picture or text to be left aligned in the page footer.
 

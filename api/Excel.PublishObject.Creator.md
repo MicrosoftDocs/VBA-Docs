@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Creator Property (Excel)
+title: PublishObject.Creator property (Excel)
 keywords: vbaxl10.chm651074
 f1_keywords:
 - vbaxl10.chm651074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Creator Property (Excel)
+# PublishObject.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -13,7 +13,7 @@ The following examples show different approaches for adding a table of contents 
 
  **Sample code provided by:** Dennis Wallentin, [VSTO & .NET & Excel](https://xldennis.wordpress.com/)
 
-This example uses the  [Pages.Count Property (Excel)](../../../api/Excel.Pages.Count.md) property to calculate the number of pages on each sheet. In addition, the entries in the TOC link to their respective sheets to improve on-screen workbook navigation.
+This example uses the  [Pages.Count property (Excel)](../../../api/Excel.Pages.Count.md) property to calculate the number of pages on each sheet. In addition, the entries in the TOC link to their respective sheets to improve on-screen workbook navigation.
 
 
 

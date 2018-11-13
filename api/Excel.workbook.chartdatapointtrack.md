@@ -1,5 +1,5 @@
 ---
-title: Workbook.ChartDataPointTrack Property (Excel)
+title: Workbook.ChartDataPointTrack property (Excel)
 keywords: vbaxl10.chm199277
 f1_keywords:
 - vbaxl10.chm199277
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ChartDataPointTrack Property (Excel)
+# Workbook.ChartDataPointTrack property (Excel)
 
  **True** will cause all charts in the current document to track the actual data point to which it's attached. **False** will revert back to tracking the index of the data point. **Boolean** Read/Write
 

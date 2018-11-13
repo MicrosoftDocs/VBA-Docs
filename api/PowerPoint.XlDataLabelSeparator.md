@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelSeparator Enumeration (PowerPoint)
+title: xlDataLabelSeparator Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelSeparator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelSeparator Enumeration (PowerPoint)
+# xlDataLabelSeparator Enumeration (PowerPoint)
 
 Specifies the separator used with data labels.
 

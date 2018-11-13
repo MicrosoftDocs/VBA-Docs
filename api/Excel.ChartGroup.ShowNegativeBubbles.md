@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.ShowNegativeBubbles Property (Excel)
+title: ChartGroup.ShowNegativeBubbles property (Excel)
 keywords: vbaxl10.chm568096
 f1_keywords:
 - vbaxl10.chm568096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.ShowNegativeBubbles Property (Excel)
+# ChartGroup.ShowNegativeBubbles property (Excel)
 
  **True** if negative bubbles are shown for the chart group. Valid only for bubble charts. Read/write **Boolean** .
 

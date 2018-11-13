@@ -1,5 +1,5 @@
 ---
-title: Range.Summary Property (Excel)
+title: Range.Summary property (Excel)
 keywords: vbaxl10.chm144207
 f1_keywords:
 - vbaxl10.chm144207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Summary Property (Excel)
+# Range.Summary property (Excel)
 
  **True** if the range is an outlining summary row or column. The range should be a row or a column. Read-only **Variant** .
 

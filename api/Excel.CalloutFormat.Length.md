@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Length Property (Excel)
+title: CalloutFormat.Length property (Excel)
 keywords: vbaxl10.chm104014
 f1_keywords:
 - vbaxl10.chm104014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Length Property (Excel)
+# CalloutFormat.Length property (Excel)
 
 Returns a  **Single** value that represents the length (in points) of the first segment of the callout line (the segment attached to the text callout box.)
 

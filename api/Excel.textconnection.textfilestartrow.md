@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileStartRow Property (Excel)
+title: TextConnection.TextFileStartRow property (Excel)
 keywords: vbaxl10.chm926086
 f1_keywords:
 - vbaxl10.chm926086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileStartRow Property (Excel)
+# TextConnection.TextFileStartRow property (Excel)
 
 Returns or sets the row number at which text parsing will begin when you import a text file into a query table. Valid values are integers from 1 through 32767. The default value is 1. Read/Write  **Long** .
 

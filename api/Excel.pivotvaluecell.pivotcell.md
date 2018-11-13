@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.PivotCell Property (Excel)
+title: PivotValueCell.PivotCell property (Excel)
 keywords: vbaxl10.chm918073
 f1_keywords:
 - vbaxl10.chm918073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.PivotCell Property (Excel)
+# PivotValueCell.PivotCell property (Excel)
 
 Returns the [PivotCell Object (Excel)](Excel.PivotCell.md) that specifies the location of the **PivotValueCell** . Read-only
 

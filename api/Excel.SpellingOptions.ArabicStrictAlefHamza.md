@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.ArabicStrictAlefHamza Property (Excel)
+title: SpellingOptions.ArabicStrictAlefHamza property (Excel)
 keywords: vbaxl10.chm717085
 f1_keywords:
 - vbaxl10.chm717085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.ArabicStrictAlefHamza Property (Excel)
+# SpellingOptions.ArabicStrictAlefHamza property (Excel)
 
 Returns or sets whether the spelling checker uses rules regarding Arabic words beginning with an alef hamza. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.StopIfTrue Property (Excel)
+title: UniqueValues.StopIfTrue property (Excel)
 keywords: vbaxl10.chm826074
 f1_keywords:
 - vbaxl10.chm826074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.StopIfTrue Property (Excel)
+# UniqueValues.StopIfTrue property (Excel)
 
 Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
 

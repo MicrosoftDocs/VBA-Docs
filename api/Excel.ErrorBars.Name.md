@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Name Property (Excel)
+title: ErrorBars.Name property (Excel)
 keywords: vbaxl10.chm624074
 f1_keywords:
 - vbaxl10.chm624074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Name Property (Excel)
+# ErrorBars.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

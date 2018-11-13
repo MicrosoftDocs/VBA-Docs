@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutForm Property (Excel)
+title: PivotField.LayoutForm property (Excel)
 keywords: vbaxl10.chm240122
 f1_keywords:
 - vbaxl10.chm240122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutForm Property (Excel)
+# PivotField.LayoutForm property (Excel)
 
 Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)** .
 

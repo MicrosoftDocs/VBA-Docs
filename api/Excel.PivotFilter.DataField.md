@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.DataField Property (Excel)
+title: PivotFilter.DataField property (Excel)
 keywords: vbaxl10.chm770080
 f1_keywords:
 - vbaxl10.chm770080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.DataField Property (Excel)
+# PivotFilter.DataField property (Excel)
 
 This property is applicable only to non-OLAP PivotTables and provides the  **Value** field (PivotField in the Values area) being filtered by for a value filter. Read/write **PivotField** .
 

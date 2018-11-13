@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Adjustments Property (Excel)
+title: ChartFormat.Adjustments property (Excel)
 keywords: vbaxl10.chm861081
 f1_keywords:
 - vbaxl10.chm861081
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Adjustments Property (Excel)
+# ChartFormat.Adjustments property (Excel)
 
 Returns an [Adjustments Object (Excel)](Excel.Adjustments.md) object. Read-only
 

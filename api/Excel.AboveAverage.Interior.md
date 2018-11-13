@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.Interior Property (Excel)
+title: AboveAverage.Interior property (Excel)
 keywords: vbaxl10.chm824077
 f1_keywords:
 - vbaxl10.chm824077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.Interior Property (Excel)
+# AboveAverage.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
 

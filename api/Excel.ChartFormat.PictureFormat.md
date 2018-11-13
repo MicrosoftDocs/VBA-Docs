@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.PictureFormat Property (Excel)
+title: ChartFormat.PictureFormat property (Excel)
 keywords: vbaxl10.chm861076
 f1_keywords:
 - vbaxl10.chm861076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.PictureFormat Property (Excel)
+# ChartFormat.PictureFormat property (Excel)
 
 Returns a  **[PictureFormat](Excel.PictureFormat.md)** object for a specified chart that contains pictures. Read-only.
 

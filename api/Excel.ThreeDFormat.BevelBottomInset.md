@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomInset Property (Excel)
+title: ThreeDFormat.BevelBottomInset property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelBottomInset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelBottomInset Property (Excel)
+# ThreeDFormat.BevelBottomInset property (Excel)
 
 Returns or sets a value indicating whether the bottom insert bevel should be raised for a  **ThreeDFormat** object. Read/write **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: XlScaleType Enumeration (PowerPoint)
+title: xlScaleType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlScaleType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlScaleType Enumeration (PowerPoint)
+# xlScaleType Enumeration (PowerPoint)
 
 Specifies the scale type of the value axis.
 

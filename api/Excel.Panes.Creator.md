@@ -1,5 +1,5 @@
 ---
-title: Panes.Creator Property (Excel)
+title: Panes.Creator property (Excel)
 keywords: vbaxl10.chm357074
 f1_keywords:
 - vbaxl10.chm357074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Creator Property (Excel)
+# Panes.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

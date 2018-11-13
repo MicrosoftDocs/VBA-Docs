@@ -1,5 +1,5 @@
 ---
-title: AutoRecover.Path Property (Excel)
+title: AutoRecover.Path property (Excel)
 keywords: vbaxl10.chm696075
 f1_keywords:
 - vbaxl10.chm696075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover.Path Property (Excel)
+# AutoRecover.Path property (Excel)
 
 Returns or sets a  **String** value that represents the complete path to where Microsoft Excel will store the AutoRecover temporary files.
 

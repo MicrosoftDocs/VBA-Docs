@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowTableStyleRowStripes Property (Excel)
+title: ListObject.ShowTableStyleRowStripes property (Excel)
 keywords: vbaxl10.chm734103
 f1_keywords:
 - vbaxl10.chm734103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowTableStyleRowStripes Property (Excel)
+# ListObject.ShowTableStyleRowStripes property (Excel)
 
 Returns or sets if the Row Stripes table style is used for the specified  **ListObject** object. Read/write **Boolean** .
 

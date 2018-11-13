@@ -1,5 +1,5 @@
 ---
-title: Sheets.HPageBreaks Property (Excel)
+title: Sheets.HPageBreaks property (Excel)
 keywords: vbaxl10.chm152084
 f1_keywords:
 - vbaxl10.chm152084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.HPageBreaks Property (Excel)
+# Sheets.HPageBreaks property (Excel)
 
 Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the sheet. Read-only.
 

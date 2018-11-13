@@ -1,5 +1,5 @@
 ---
-title: Worksheet.CodeName Property (Excel)
+title: Worksheet.CodeName property (Excel)
 keywords: vbaxl10.chm174076
 f1_keywords:
 - vbaxl10.chm174076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.CodeName Property (Excel)
+# Worksheet.CodeName property (Excel)
 
 Returns the code name for the object. Read-only  **String** .
 

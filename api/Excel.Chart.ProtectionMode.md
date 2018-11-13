@@ -1,5 +1,5 @@
 ---
-title: Chart.ProtectionMode Property (Excel)
+title: Chart.ProtectionMode property (Excel)
 keywords: vbaxl10.chm148092
 f1_keywords:
 - vbaxl10.chm148092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ProtectionMode Property (Excel)
+# Chart.ProtectionMode property (Excel)
 
  **True** if user-interface-only protection is turned on. To turn on user interface protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _UserInterfaceOnly_ argument set to **True** . Read-only **Boolean** .
 

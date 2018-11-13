@@ -1,5 +1,5 @@
 ---
-title: XPath.Value Property (Excel)
+title: XPath.Value property (Excel)
 keywords: vbaxl10.chm760074
 f1_keywords:
 - vbaxl10.chm760074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath.Value Property (Excel)
+# XPath.Value property (Excel)
 
 Returns a  **String** that represents the XPath for the specified object.
 

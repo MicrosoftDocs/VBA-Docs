@@ -1,5 +1,5 @@
 ---
-title: CubeField.HierarchizeDistinct Property (Excel)
+title: CubeField.HierarchizeDistinct property (Excel)
 keywords: vbaxl10.chm668104
 f1_keywords:
 - vbaxl10.chm668104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.HierarchizeDistinct Property (Excel)
+# CubeField.HierarchizeDistinct property (Excel)
 
 Returns or sets whether to order and remove duplicates when displaying the specified named set in a PivotTable report based on an OLAP cube. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Style Property (Excel)
+title: Range.Style property (Excel)
 keywords: vbaxl10.chm144204
 f1_keywords:
 - vbaxl10.chm144204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Style Property (Excel)
+# Range.Style property (Excel)
 
 Returns or sets a  **Variant** value, containing a **[Style](Excel.Style.md)** object, that represents the style of the specified range.
 

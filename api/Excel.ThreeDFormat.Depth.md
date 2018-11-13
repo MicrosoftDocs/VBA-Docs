@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (Excel)
+title: ThreeDFormat.Depth property (Excel)
 keywords: vbaxl10.chm119005
 f1_keywords:
 - vbaxl10.chm119005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Depth Property (Excel)
+# ThreeDFormat.Depth property (Excel)
 
 Returns or sets a  **Single** value that represents the depth of the shape's extrusion.
 

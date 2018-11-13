@@ -1,5 +1,5 @@
 ---
-title: Comment.Visible Property (Excel)
+title: Comment.Visible property (Excel)
 keywords: vbaxl10.chm516075
 f1_keywords:
 - vbaxl10.chm516075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Visible Property (Excel)
+# Comment.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

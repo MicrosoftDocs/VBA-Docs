@@ -1,5 +1,5 @@
 ---
-title: Application.CalculationVersion Property (Excel)
+title: Application.CalculationVersion property (Excel)
 keywords: vbaxl10.chm133257
 f1_keywords:
 - vbaxl10.chm133257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculationVersion Property (Excel)
+# Application.CalculationVersion property (Excel)
 
 Returns a number whose rightmost four digits are the minor calculation engine version number, and whose other digits (on the left) are the major version of Microsoft Excel. Read-only  **Long** .
 

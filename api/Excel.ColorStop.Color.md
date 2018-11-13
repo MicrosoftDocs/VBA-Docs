@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Color Property (Excel)
+title: ColorStop.Color property (Excel)
 keywords: vbaxl10.chm851074
 f1_keywords:
 - vbaxl10.chm851074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Color Property (Excel)
+# ColorStop.Color property (Excel)
 
 Returns or sets the color of the represented object. Read/write
 

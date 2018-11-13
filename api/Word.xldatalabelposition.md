@@ -1,12 +1,12 @@
 ---
-title: XlDataLabelPosition Enumeration (Word)
+title: xlDataLabelPosition Enumeration (Word)
 ms.prod: word
 ms.assetid: d177e309-b43a-85cd-b84c-13865c6eaeba
 ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelPosition Enumeration (Word)
+# xlDataLabelPosition Enumeration (Word)
 
 Specifies where the data label is positioned.
 

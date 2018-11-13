@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Count Property (Excel)
+title: ProtectedViewWindows.Count property (Excel)
 keywords: vbaxl10.chm913073
 f1_keywords:
 - vbaxl10.chm913073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Count Property (Excel)
+# ProtectedViewWindows.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

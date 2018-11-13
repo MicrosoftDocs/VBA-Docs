@@ -1,5 +1,5 @@
 ---
-title: Range.Formula Property (Excel)
+title: Range.Formula property (Excel)
 keywords: vbaxl10.chm144132
 f1_keywords:
 - vbaxl10.chm144132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Formula Property (Excel)
+# Range.Formula property (Excel)
 
 Returns or sets a  **Variant** value that represents the object's formula in A1-style notation and in the macro language.
 

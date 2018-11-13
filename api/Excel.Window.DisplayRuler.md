@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayRuler Property (Excel)
+title: Window.DisplayRuler property (Excel)
 keywords: vbaxl10.chm356136
 f1_keywords:
 - vbaxl10.chm356136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayRuler Property (Excel)
+# Window.DisplayRuler property (Excel)
 
  **True** if a ruler is displayed for the specified window. Read/write **Boolean** .
 

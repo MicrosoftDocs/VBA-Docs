@@ -1,5 +1,5 @@
 ---
-title: TableStyle.NameLocal Property (Excel)
+title: TableStyle.NameLocal property (Excel)
 keywords: vbaxl10.chm839075
 f1_keywords:
 - vbaxl10.chm839075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.NameLocal Property (Excel)
+# TableStyle.NameLocal property (Excel)
 
 Returns or sets the name of the object, in the language of the user. Read-only  **String** .
 

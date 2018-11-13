@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Index Property (Excel)
+title: OLEObject.Index property (Excel)
 keywords: vbaxl10.chm415083
 f1_keywords:
 - vbaxl10.chm415083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Index Property (Excel)
+# OLEObject.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

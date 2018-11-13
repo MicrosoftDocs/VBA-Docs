@@ -1,5 +1,5 @@
 ---
-title: Chart.BackWall Property (Excel)
+title: Chart.BackWall property (Excel)
 keywords: vbaxl10.chm149178
 f1_keywords:
 - vbaxl10.chm149178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.BackWall Property (Excel)
+# Chart.BackWall property (Excel)
 
 Returns a  **[Walls](Excel.Walls(object).md)** object that allows the user to individually format the back wall of a 3-D chart. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Crop Property (Excel)
+title: PictureFormat.Crop property (Excel)
 ms.prod: excel
 api_name:
 - Excel.PictureFormat.Crop
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Crop Property (Excel)
+# PictureFormat.Crop property (Excel)
 
 Returns an  **[Crop](Office.Crop.md)** object that represents the cropping settings for the specified **[PictureFormat](Excel.PictureFormat.md)** object. Read-only
 

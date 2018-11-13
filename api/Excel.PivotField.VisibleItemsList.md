@@ -1,5 +1,5 @@
 ---
-title: PivotField.VisibleItemsList Property (Excel)
+title: PivotField.VisibleItemsList property (Excel)
 keywords: vbaxl10.chm240146
 f1_keywords:
 - vbaxl10.chm240146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.VisibleItemsList Property (Excel)
+# PivotField.VisibleItemsList property (Excel)
 
 Returns or sets a  **Variant** specifying an array of strings that represent included items in a manual filter applied to a PivotField. Read/write.
 

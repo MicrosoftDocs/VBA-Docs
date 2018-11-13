@@ -1,5 +1,5 @@
 ---
-title: Application.EditDirectlyInCell Property (Excel)
+title: Application.EditDirectlyInCell property (Excel)
 keywords: vbaxl10.chm133129
 f1_keywords:
 - vbaxl10.chm133129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EditDirectlyInCell Property (Excel)
+# Application.EditDirectlyInCell property (Excel)
 
  **True** if Microsoft Excel allows editing in cells. Read/write **Boolean** .
 

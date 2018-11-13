@@ -1,5 +1,5 @@
 ---
-title: Worksheet.FilterMode Property (Excel)
+title: Worksheet.FilterMode property (Excel)
 keywords: vbaxl10.chm175100
 f1_keywords:
 - vbaxl10.chm175100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.FilterMode Property (Excel)
+# Worksheet.FilterMode property (Excel)
 
  **True** if the worksheet is in the filter mode. Read-only **Boolean** .
 

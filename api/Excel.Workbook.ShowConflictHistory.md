@@ -1,5 +1,5 @@
 ---
-title: Workbook.ShowConflictHistory Property (Excel)
+title: Workbook.ShowConflictHistory property (Excel)
 keywords: vbaxl10.chm199153
 f1_keywords:
 - vbaxl10.chm199153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ShowConflictHistory Property (Excel)
+# Workbook.ShowConflictHistory property (Excel)
 
  **True** if the Conflict History worksheet is visible in the workbook that's open as a shared list. Read/write **Boolean** .
 

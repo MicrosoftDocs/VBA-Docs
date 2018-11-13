@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (Excel)
+title: ThreeDFormat.PresetThreeDFormat property (Excel)
 keywords: vbaxl10.chm119013
 f1_keywords:
 - vbaxl10.chm119013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (Excel)
+# ThreeDFormat.PresetThreeDFormat property (Excel)
 
 Returns the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion. Read-only  **MsoPresetThreeDFormat** .
 

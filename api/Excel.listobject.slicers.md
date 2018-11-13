@@ -1,5 +1,5 @@
 ---
-title: ListObject.Slicers Property (Excel)
+title: ListObject.Slicers property (Excel)
 keywords: vbaxl10.chm734111
 f1_keywords:
 - vbaxl10.chm734111
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Slicers Property (Excel)
+# ListObject.Slicers property (Excel)
 
 Returns a list of the table slicers associated with a  **ListObject** . Read-only
 

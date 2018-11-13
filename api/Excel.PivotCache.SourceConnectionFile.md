@@ -1,5 +1,5 @@
 ---
-title: PivotCache.SourceConnectionFile Property (Excel)
+title: PivotCache.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm227103
 f1_keywords:
 - vbaxl10.chm227103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.SourceConnectionFile Property (Excel)
+# PivotCache.SourceConnectionFile property (Excel)
 
 Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the PivotTable. Read/write.
 

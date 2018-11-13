@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Parent Property (Excel)
+title: ProtectedViewWindows.Parent property (Excel)
 keywords: vbaxl10.chm912075
 f1_keywords:
 - vbaxl10.chm912075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Parent Property (Excel)
+# ProtectedViewWindows.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.CalculationVersion Property (Excel)
+title: Workbook.CalculationVersion property (Excel)
 keywords: vbaxl10.chm199192
 f1_keywords:
 - vbaxl10.chm199192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CalculationVersion Property (Excel)
+# Workbook.CalculationVersion property (Excel)
 
 Returns the information about the version of Excel that the workbook was last fully recalculated by. Read-only  **Long** .
 

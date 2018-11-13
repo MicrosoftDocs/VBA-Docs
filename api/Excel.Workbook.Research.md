@@ -1,5 +1,5 @@
 ---
-title: Workbook.Research Property (Excel)
+title: Workbook.Research property (Excel)
 keywords: vbaxl10.chm199253
 f1_keywords:
 - vbaxl10.chm199253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Research Property (Excel)
+# Workbook.Research property (Excel)
 
 Returns a  **Research** object that represents the research service for a workbook. Read-only.
 

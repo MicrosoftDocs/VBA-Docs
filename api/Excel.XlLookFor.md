@@ -1,5 +1,5 @@
 ---
-title: XlLookFor Enumeration (Excel)
+title: xlLookFor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLookFor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlLookFor Enumeration (Excel)
+# xlLookFor enumeration (Excel)
 
 Specifies what to look for in searches.
 

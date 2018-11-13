@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Creator Property (Excel)
+title: Worksheets.Creator property (Excel)
 keywords: vbaxl10.chm469074
 f1_keywords:
 - vbaxl10.chm469074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.Creator Property (Excel)
+# Worksheets.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

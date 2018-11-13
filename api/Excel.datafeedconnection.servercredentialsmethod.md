@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.ServerCredentialsMethod Property (Excel)
+title: DataFeedConnection.ServerCredentialsMethod property (Excel)
 keywords: vbaxl10.chm928083
 f1_keywords:
 - vbaxl10.chm928083
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.ServerCredentialsMethod Property (Excel)
+# DataFeedConnection.ServerCredentialsMethod property (Excel)
 
-Returns or sets the type of credentials that should be used for server authentication.  **[XlCredentialsMethod Enumeration (Excel)](Excel.XlCredentialsMethod.md)** Read/Write
+Returns or sets the type of credentials that should be used for server authentication.  **[xlCredentialsMethod enumeration (Excel)](Excel.xlCredentialsMethod.md)** Read/Write
 
 
 ## Syntax

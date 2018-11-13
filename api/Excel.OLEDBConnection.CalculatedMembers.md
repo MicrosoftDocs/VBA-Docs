@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.CalculatedMembers Property (Excel)
+title: OLEDBConnection.CalculatedMembers property (Excel)
 keywords: vbaxl10.chm794106
 f1_keywords:
 - vbaxl10.chm794106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.CalculatedMembers Property (Excel)
+# OLEDBConnection.CalculatedMembers property (Excel)
 
 Returns the  **[CalculatedMembers](Excel.CalculatedMembers.md)** collection for the specified connection. Read-only
 

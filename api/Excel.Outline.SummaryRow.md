@@ -1,5 +1,5 @@
 ---
-title: Outline.SummaryRow Property (Excel)
+title: Outline.SummaryRow property (Excel)
 keywords: vbaxl10.chm455076
 f1_keywords:
 - vbaxl10.chm455076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.SummaryRow Property (Excel)
+# Outline.SummaryRow property (Excel)
 
 Returns or sets the location of the summary rows in the outline. Read/write  **[XlSummaryRow](Excel.XlSummaryRow.md)** .
 

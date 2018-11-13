@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BubbleScale Property (Excel)
+title: ChartGroup.BubbleScale property (Excel)
 keywords: vbaxl10.chm568095
 f1_keywords:
 - vbaxl10.chm568095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BubbleScale Property (Excel)
+# ChartGroup.BubbleScale property (Excel)
 
 Returns or sets the scale factor for bubbles in the specified chart group. Can be an integer value from 0 (zero) to 300, corresponding to a percentage of the default size. Applies only to bubble charts. Read/write  **Long** .
 

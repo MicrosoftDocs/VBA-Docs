@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.RefreshOnFileOpen Property (Excel)
+title: DataFeedConnection.RefreshOnFileOpen property (Excel)
 keywords: vbaxl10.chm928080
 f1_keywords:
 - vbaxl10.chm928080
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.RefreshOnFileOpen Property (Excel)
+# DataFeedConnection.RefreshOnFileOpen property (Excel)
 
  **True** if the connection is automatically updated each time the workbook is opened. The default value is **False** .
 

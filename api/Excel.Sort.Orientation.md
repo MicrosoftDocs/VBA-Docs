@@ -1,5 +1,5 @@
 ---
-title: Sort.Orientation Property (Excel)
+title: Sort.Orientation property (Excel)
 keywords: vbaxl10.chm847076
 f1_keywords:
 - vbaxl10.chm847076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.Orientation Property (Excel)
+# Sort.Orientation property (Excel)
 
 Specifies the orientation for the sort. Read/write  **[XlSortOrientation](Excel.XlSortOrientation.md)** .
 

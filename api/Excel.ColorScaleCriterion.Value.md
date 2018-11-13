@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriterion.Value Property (Excel)
+title: ColorScaleCriterion.Value property (Excel)
 keywords: vbaxl10.chm808075
 f1_keywords:
 - vbaxl10.chm808075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriterion.Value Property (Excel)
+# ColorScaleCriterion.Value property (Excel)
 
 Returns or sets the minimum, midpoint, or maximum threshold value for a color scale conditional format. Read/write  **Variant** .
 

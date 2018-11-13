@@ -1,5 +1,5 @@
 ---
-title: PageSetup.AlignMarginsHeaderFooter Property (Excel)
+title: PageSetup.AlignMarginsHeaderFooter property (Excel)
 keywords: vbaxl10.chm473115
 f1_keywords:
 - vbaxl10.chm473115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.AlignMarginsHeaderFooter Property (Excel)
+# PageSetup.AlignMarginsHeaderFooter property (Excel)
 
 Returns  **True** for Excel to align the header and the footer with the margins set in the page setup options. Read/write **Boolean** .
 

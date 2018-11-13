@@ -1,5 +1,5 @@
 ---
-title: PivotTable.TableRange1 Property (Excel)
+title: PivotTable.TableRange1 property (Excel)
 keywords: vbaxl10.chm235098
 f1_keywords:
 - vbaxl10.chm235098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.TableRange1 Property (Excel)
+# PivotTable.TableRange1 property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range containing the entire PivotTable report, but doesn't include page fields. Read-only.
 

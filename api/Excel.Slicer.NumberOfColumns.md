@@ -1,5 +1,5 @@
 ---
-title: Slicer.NumberOfColumns Property (Excel)
+title: Slicer.NumberOfColumns property (Excel)
 keywords: vbaxl10.chm905082
 f1_keywords:
 - vbaxl10.chm905082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.NumberOfColumns Property (Excel)
+# Slicer.NumberOfColumns property (Excel)
 
 Returns or sets the number of columns in the specified slicer. Read/write.
 

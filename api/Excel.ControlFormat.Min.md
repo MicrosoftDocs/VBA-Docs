@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.Min Property (Excel)
+title: ControlFormat.Min property (Excel)
 keywords: vbaxl10.chm630086
 f1_keywords:
 - vbaxl10.chm630086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.Min Property (Excel)
+# ControlFormat.Min property (Excel)
 
 Returns or sets the minimum value of a scroll bar or spinner range. The scroll bar or spinner won't take on values less than this minimum value. Read/write  **Long** .
 

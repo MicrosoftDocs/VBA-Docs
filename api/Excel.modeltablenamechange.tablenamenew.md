@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChange.TableNameNew Property (Excel)
+title: ModelTableNameChange.TableNameNew property (Excel)
 keywords: vbaxl10.chm956074
 f1_keywords:
 - vbaxl10.chm956074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChange.TableNameNew Property (Excel)
+# ModelTableNameChange.TableNameNew property (Excel)
 
 Returns the new name of the table.  **String** Read-only
 

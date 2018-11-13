@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Fill Property (Excel)
+title: ChartFormat.Fill property (Excel)
 keywords: vbaxl10.chm861073
 f1_keywords:
 - vbaxl10.chm861073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Fill Property (Excel)
+# ChartFormat.Fill property (Excel)
 
 Returns a  **[FillFormat](Excel.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 

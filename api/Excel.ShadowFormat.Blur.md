@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Blur Property (Excel)
+title: ShadowFormat.Blur property (Excel)
 keywords: vbaxl10.chm114010
 f1_keywords:
 - vbaxl10.chm114010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Blur Property (Excel)
+# ShadowFormat.Blur property (Excel)
 
 Returns or sets the degree of blurriness of the specified shadow. Read/write  **Single** .
 

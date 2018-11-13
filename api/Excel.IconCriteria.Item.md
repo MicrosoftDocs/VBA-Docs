@@ -1,5 +1,5 @@
 ---
-title: IconCriteria.Item Property (Excel)
+title: IconCriteria.Item property (Excel)
 keywords: vbaxl10.chm813076
 f1_keywords:
 - vbaxl10.chm813076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriteria.Item Property (Excel)
+# IconCriteria.Item property (Excel)
 
 Returns a single  **[IconCriterion](Excel.IconCriterion.md)** object from the **IconCriteria** collection. Read-only.
 

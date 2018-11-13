@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Location Property (Excel)
+title: SparklineGroup.Location property (Excel)
 keywords: vbaxl10.chm871076
 f1_keywords:
 - vbaxl10.chm871076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Location Property (Excel)
+# SparklineGroup.Location property (Excel)
 
 Gets or sets the  **[Range](Excel.Range(object).md)** object that represents the location of the sparkline group. Read/write.
 

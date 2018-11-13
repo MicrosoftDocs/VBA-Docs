@@ -1,5 +1,5 @@
 ---
-title: PivotField.Orientation Property (Excel)
+title: PivotField.Orientation property (Excel)
 keywords: vbaxl10.chm240087
 f1_keywords:
 - vbaxl10.chm240087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Orientation Property (Excel)
+# PivotField.Orientation property (Excel)
 
 Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
 

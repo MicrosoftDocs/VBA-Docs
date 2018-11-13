@@ -1,5 +1,5 @@
 ---
-title: Style.Parent Property (Excel)
+title: Style.Parent property (Excel)
 keywords: vbaxl10.chm176075
 f1_keywords:
 - vbaxl10.chm176075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Parent Property (Excel)
+# Style.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

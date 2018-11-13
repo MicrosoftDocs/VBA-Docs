@@ -1,5 +1,5 @@
 ---
-title: Trendline.Intercept Property (Excel)
+title: Trendline.Intercept property (Excel)
 keywords: vbaxl10.chm594083
 f1_keywords:
 - vbaxl10.chm594083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Intercept Property (Excel)
+# Trendline.Intercept property (Excel)
 
 Returns or sets the point where the trendline crosses the value axis. Read/write  **Double** .
 

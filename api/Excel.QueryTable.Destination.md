@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Destination Property (Excel)
+title: QueryTable.Destination property (Excel)
 keywords: vbaxl10.chm518086
 f1_keywords:
 - vbaxl10.chm518086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Destination Property (Excel)
+# QueryTable.Destination property (Excel)
 
 Returns the cell in the upper-left corner of the query table destination range (the range where the resulting query table will be placed). The destination range must be on the worksheet that contains the  **QueryTable** object. Read-only **[Range](Excel.Range(object).md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Databar.AxisColor Property (Excel)
+title: Databar.AxisColor property (Excel)
 keywords: vbaxl10.chm810093
 f1_keywords:
 - vbaxl10.chm810093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.AxisColor Property (Excel)
+# Databar.AxisColor property (Excel)
 
 Returns the color of the axis for cells with conditional formatting as data bars. Read-only
 

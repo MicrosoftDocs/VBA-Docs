@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CenterHeaderPicture Property (Excel)
+title: PageSetup.CenterHeaderPicture property (Excel)
 keywords: vbaxl10.chm473106
 f1_keywords:
 - vbaxl10.chm473106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CenterHeaderPicture Property (Excel)
+# PageSetup.CenterHeaderPicture property (Excel)
 
 Returns a **[Graphic](Excel.Graphic.md)** object that represents the picture for the center section of the header. Used to set attributes about the picture.
 

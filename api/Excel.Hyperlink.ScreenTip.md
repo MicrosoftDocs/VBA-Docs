@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ScreenTip Property (Excel)
+title: Hyperlink.ScreenTip property (Excel)
 keywords: vbaxl10.chm536084
 f1_keywords:
 - vbaxl10.chm536084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.ScreenTip Property (Excel)
+# Hyperlink.ScreenTip property (Excel)
 
 Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **String** .
 

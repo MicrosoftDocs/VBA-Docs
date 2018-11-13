@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Type Property (Excel)
+title: FormatCondition.Type property (Excel)
 keywords: vbaxl10.chm512074
 f1_keywords:
 - vbaxl10.chm512074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Type Property (Excel)
+# FormatCondition.Type property (Excel)
 
 Returns a  **Long** value, containing a **[xlFormatConditionType](Excel.XlFormatConditionType.md)** value, that represents the object type.
 

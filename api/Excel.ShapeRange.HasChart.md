@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HasChart Property (Excel)
+title: ShapeRange.HasChart property (Excel)
 keywords: vbaxl10.chm640139
 f1_keywords:
 - vbaxl10.chm640139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.HasChart Property (Excel)
+# ShapeRange.HasChart property (Excel)
 
  Returns whether a shape range contains a chart. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetDataConnection.Application Property (Excel)
+title: WorksheetDataConnection.Application property (Excel)
 keywords: vbaxl10.chm923073
 f1_keywords:
 - vbaxl10.chm923073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetDataConnection.Application Property (Excel)
+# WorksheetDataConnection.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 

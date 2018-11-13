@@ -1,5 +1,5 @@
 ---
-title: Characters.Caption Property (Excel)
+title: Characters.Caption property (Excel)
 keywords: vbaxl10.chm252073
 f1_keywords:
 - vbaxl10.chm252073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Caption Property (Excel)
+# Characters.Caption property (Excel)
 
 Returns a  **String** value that represents the text of this range of characters.
 

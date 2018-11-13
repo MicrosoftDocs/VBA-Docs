@@ -1,5 +1,5 @@
 ---
-title: Top10.Priority Property (Excel)
+title: Top10.Priority property (Excel)
 keywords: vbaxl10.chm822073
 f1_keywords:
 - vbaxl10.chm822073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Priority Property (Excel)
+# Top10.Priority property (Excel)
 
 Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist in a worksheet.
 

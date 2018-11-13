@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (Excel)
+title: TextFrame.Orientation property (Excel)
 keywords: vbaxl10.chm644077
 f1_keywords:
 - vbaxl10.chm644077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Orientation Property (Excel)
+# TextFrame.Orientation property (Excel)
 
 Returns or sets a  **Long** value that represents the text frame orientation.
 

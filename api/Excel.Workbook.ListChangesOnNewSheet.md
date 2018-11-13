@@ -1,5 +1,5 @@
 ---
-title: Workbook.ListChangesOnNewSheet Property (Excel)
+title: Workbook.ListChangesOnNewSheet property (Excel)
 keywords: vbaxl10.chm199175
 f1_keywords:
 - vbaxl10.chm199175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ListChangesOnNewSheet Property (Excel)
+# Workbook.ListChangesOnNewSheet property (Excel)
 
  **True** if changes to the shared workbook are shown on a separate worksheet. Read/write **Boolean** .
 

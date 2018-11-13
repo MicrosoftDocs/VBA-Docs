@@ -1,5 +1,5 @@
 ---
-title: Graphic.CropRight Property (Excel)
+title: Graphic.CropRight property (Excel)
 keywords: vbaxl10.chm694078
 f1_keywords:
 - vbaxl10.chm694078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.CropRight Property (Excel)
+# Graphic.CropRight property (Excel)
 
 Returns or sets the number of points that are cropped off the right side of the specified picture or OLE object. Read/write  **Single** .
 

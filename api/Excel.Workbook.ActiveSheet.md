@@ -1,5 +1,5 @@
 ---
-title: Workbook.ActiveSheet Property (Excel)
+title: Workbook.ActiveSheet property (Excel)
 keywords: vbaxl10.chm199076
 f1_keywords:
 - vbaxl10.chm199076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ActiveSheet Property (Excel)
+# Workbook.ActiveSheet property (Excel)
 
 Returns a **[Worksheet](excel.worksheet.md)** object that represents the active sheet (the sheet on top) in the active workbook or specified workbook. Returns **Nothing** if no sheet is active.
 

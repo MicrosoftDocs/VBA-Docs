@@ -1,5 +1,5 @@
 ---
-title: SparkAxes.Vertical Property (Excel)
+title: SparkAxes.Vertical property (Excel)
 keywords: vbaxl10.chm877073
 f1_keywords:
 - vbaxl10.chm877073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkAxes.Vertical Property (Excel)
+# SparkAxes.Vertical property (Excel)
 
 Returns the  **[SparkVerticalAxis](Excel.SparkVerticalAxis.md)** object for the specified **[SparkAxes](Excel.SparkAxes.md)** object. Read-only
 

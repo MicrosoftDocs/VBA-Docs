@@ -1,5 +1,5 @@
 ---
-title: SoundNote.Parent Property (Excel)
+title: SoundNote.Parent property (Excel)
 keywords: vbaxl10.chm257075
 f1_keywords:
 - vbaxl10.chm257075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# SoundNote.Parent Property (Excel)
+# SoundNote.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.Sheet Property (Excel)
+title: WorksheetView.Sheet property (Excel)
 keywords: vbaxl10.chm778073
 f1_keywords:
 - vbaxl10.chm778073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.Sheet Property (Excel)
+# WorksheetView.Sheet property (Excel)
 
 Returns the sheet name for the specified  **[WorksheetView](Excel.WorksheetView.md)** object. Read-only.
 

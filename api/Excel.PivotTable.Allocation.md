@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Allocation Property (Excel)
+title: PivotTable.Allocation property (Excel)
 keywords: vbaxl10.chm235187
 f1_keywords:
 - vbaxl10.chm235187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Allocation Property (Excel)
+# PivotTable.Allocation property (Excel)
 
 Returns or sets whether to run an  **UPDATE CUBE** statement for each cell is edited, or only when the user chooses to calculate changes when performing what-if analysis on a PivotTable based on an OLAP data source. Read/write
 

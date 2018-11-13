@@ -1,5 +1,5 @@
 ---
-title: PivotCache.IsConnected Property (Excel)
+title: PivotCache.IsConnected property (Excel)
 keywords: vbaxl10.chm227098
 f1_keywords:
 - vbaxl10.chm227098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.IsConnected Property (Excel)
+# PivotCache.IsConnected property (Excel)
 
 Returns  **True** if the **MaintainConnection** property is **True** and the PivotTable cache is currently connected to its source. Returns **False** if it is not currently connected to its source. Read-only **Boolean** .
 

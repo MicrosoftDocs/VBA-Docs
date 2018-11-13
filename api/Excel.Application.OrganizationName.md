@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizationName Property (Excel)
+title: Application.OrganizationName property (Excel)
 keywords: vbaxl10.chm133188
 f1_keywords:
 - vbaxl10.chm133188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OrganizationName Property (Excel)
+# Application.OrganizationName property (Excel)
 
 Returns the registered organization name. Read-only  **String** .
 

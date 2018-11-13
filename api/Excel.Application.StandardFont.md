@@ -1,5 +1,5 @@
 ---
-title: Application.StandardFont Property (Excel)
+title: Application.StandardFont property (Excel)
 keywords: vbaxl10.chm133210
 f1_keywords:
 - vbaxl10.chm133210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StandardFont Property (Excel)
+# Application.StandardFont property (Excel)
 
 Returns or sets the name of the standard font. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Parent Property (Excel)
+title: LegendEntries.Parent property (Excel)
 keywords: vbaxl10.chm588073
 f1_keywords:
 - vbaxl10.chm588073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries.Parent Property (Excel)
+# LegendEntries.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Parent Property (Excel)
+title: CustomViews.Parent property (Excel)
 keywords: vbaxl10.chm505075
 f1_keywords:
 - vbaxl10.chm505075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomViews.Parent Property (Excel)
+# CustomViews.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

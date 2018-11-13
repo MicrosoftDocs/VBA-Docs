@@ -1,5 +1,5 @@
 ---
-title: ListColumns.Parent Property (Excel)
+title: ListColumns.Parent property (Excel)
 keywords: vbaxl10.chm735075
 f1_keywords:
 - vbaxl10.chm735075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumns.Parent Property (Excel)
+# ListColumns.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

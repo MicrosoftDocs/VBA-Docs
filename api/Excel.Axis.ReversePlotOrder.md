@@ -1,5 +1,5 @@
 ---
-title: Axis.ReversePlotOrder Property (Excel)
+title: Axis.ReversePlotOrder property (Excel)
 keywords: vbaxl10.chm561096
 f1_keywords:
 - vbaxl10.chm561096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.ReversePlotOrder Property (Excel)
+# Axis.ReversePlotOrder property (Excel)
 
  **True** if Microsoft Excel plots data points from last to first. Read/write **Boolean** .
 

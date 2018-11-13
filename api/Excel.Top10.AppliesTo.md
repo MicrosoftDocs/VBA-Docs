@@ -1,5 +1,5 @@
 ---
-title: Top10.AppliesTo Property (Excel)
+title: Top10.AppliesTo property (Excel)
 keywords: vbaxl10.chm822075
 f1_keywords:
 - vbaxl10.chm822075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.AppliesTo Property (Excel)
+# Top10.AppliesTo property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 

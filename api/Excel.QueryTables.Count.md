@@ -1,5 +1,5 @@
 ---
-title: QueryTables.Count Property (Excel)
+title: QueryTables.Count property (Excel)
 keywords: vbaxl10.chm521073
 f1_keywords:
 - vbaxl10.chm521073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTables.Count Property (Excel)
+# QueryTables.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

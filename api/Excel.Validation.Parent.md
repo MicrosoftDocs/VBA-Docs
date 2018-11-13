@@ -1,5 +1,5 @@
 ---
-title: Validation.Parent Property (Excel)
+title: Validation.Parent property (Excel)
 keywords: vbaxl10.chm531075
 f1_keywords:
 - vbaxl10.chm531075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Parent Property (Excel)
+# Validation.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

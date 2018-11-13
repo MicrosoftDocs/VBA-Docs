@@ -1,5 +1,5 @@
 ---
-title: PivotTable.EnableFieldList Property (Excel)
+title: PivotTable.EnableFieldList property (Excel)
 keywords: vbaxl10.chm235148
 f1_keywords:
 - vbaxl10.chm235148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.EnableFieldList Property (Excel)
+# PivotTable.EnableFieldList property (Excel)
 
  **False** to disable the ability to display the field list for the PivotTable. If the field list was already being displayed it disappears. The default value is **True** . Read/write **Boolean** .
 

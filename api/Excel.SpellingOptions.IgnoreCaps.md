@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.IgnoreCaps Property (Excel)
+title: SpellingOptions.IgnoreCaps property (Excel)
 keywords: vbaxl10.chm717075
 f1_keywords:
 - vbaxl10.chm717075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.IgnoreCaps Property (Excel)
+# SpellingOptions.IgnoreCaps property (Excel)
 
  **False** instructs Microsoft Excel to check for uppercase words, **True** instructs Excel to ignore words in uppercase when using the spelling checker. Read/write **Boolean** .
 

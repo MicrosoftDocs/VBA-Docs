@@ -1,5 +1,5 @@
 ---
-title: Action.Parent Property (Excel)
+title: Action.Parent property (Excel)
 keywords: vbaxl10.chm797075
 f1_keywords:
 - vbaxl10.chm797075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Parent Property (Excel)
+# Action.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

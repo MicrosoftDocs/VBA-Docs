@@ -1,5 +1,5 @@
 ---
-title: XlIcon Enumeration (Excel)
+title: xlIcon enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlIcon
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlIcon Enumeration (Excel)
+# xlIcon enumeration (Excel)
 
 Specifies the icon for a criterion in an icon set conditional formatting rule.
 

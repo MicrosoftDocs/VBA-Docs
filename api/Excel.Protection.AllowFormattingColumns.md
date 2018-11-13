@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowFormattingColumns Property (Excel)
+title: Protection.AllowFormattingColumns property (Excel)
 keywords: vbaxl10.chm719074
 f1_keywords:
 - vbaxl10.chm719074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowFormattingColumns Property (Excel)
+# Protection.AllowFormattingColumns property (Excel)
 
 Returns  **True** if the formatting of columns is allowed on a protected worksheet. Read-only **Boolean** .
 

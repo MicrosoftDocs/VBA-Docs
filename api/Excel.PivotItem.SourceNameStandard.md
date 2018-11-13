@@ -1,5 +1,5 @@
 ---
-title: PivotItem.SourceNameStandard Property (Excel)
+title: PivotItem.SourceNameStandard property (Excel)
 keywords: vbaxl10.chm246093
 f1_keywords:
 - vbaxl10.chm246093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.SourceNameStandard Property (Excel)
+# PivotItem.SourceNameStandard property (Excel)
 
 Returns a  **String** that represents the PivotTable items' source name in standard English (United States) format settings. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Creator Property (Excel)
+title: ColorStop.Creator property (Excel)
 keywords: vbaxl10.chm850074
 f1_keywords:
 - vbaxl10.chm850074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Creator Property (Excel)
+# ColorStop.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

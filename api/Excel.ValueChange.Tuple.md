@@ -1,5 +1,5 @@
 ---
-title: ValueChange.Tuple Property (Excel)
+title: ValueChange.Tuple property (Excel)
 keywords: vbaxl10.chm889076
 f1_keywords:
 - vbaxl10.chm889076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.Tuple Property (Excel)
+# ValueChange.Tuple property (Excel)
 
 Returns the MDX tuple of the value was changed in the OLAP data source. Read-only
 

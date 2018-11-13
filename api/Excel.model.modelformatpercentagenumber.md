@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatPercentageNumber Property (Excel)
+title: Model.ModelFormatPercentageNumber property (Excel)
 keywords: vbaxl10.chm942086
 f1_keywords:
 - vbaxl10.chm942086
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatPercentageNumber Property (Excel)
+# Model.ModelFormatPercentageNumber property (Excel)
 
 Returns a [ModelFormatPercentageNumber](Excel.modelformatpercentagenumber.md) object that represents formatting of type percentage number in the data model. Read-only .
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.TimelineState Property (Excel)
+title: SlicerCache.TimelineState property (Excel)
 keywords: vbaxl10.chm897091
 f1_keywords:
 - vbaxl10.chm897091
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.TimelineState Property (Excel)
+# SlicerCache.TimelineState property (Excel)
 
 The timeline-specific state of the  **SlicerCache** object. Read-only
 

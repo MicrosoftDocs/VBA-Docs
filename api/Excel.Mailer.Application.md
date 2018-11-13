@@ -1,5 +1,5 @@
 ---
-title: Mailer.Application Property (Excel)
+title: Mailer.Application property (Excel)
 keywords: vbaxl10.chm498073
 f1_keywords:
 - vbaxl10.chm498073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.Application Property (Excel)
+# Mailer.Application property (Excel)
 
 When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 

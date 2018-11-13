@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery.Parent Property (Excel)
+title: WorkbookQuery.Parent property (Excel)
 keywords: vbaxl10.chm973075
 f1_keywords:
 - vbaxl10.chm973075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery.Parent Property (Excel)
+# WorkbookQuery.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

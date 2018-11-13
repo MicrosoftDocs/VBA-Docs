@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.RelyOnVML Property (Excel)
+title: DefaultWebOptions.RelyOnVML property (Excel)
 keywords: vbaxl10.chm660081
 f1_keywords:
 - vbaxl10.chm660081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.RelyOnVML Property (Excel)
+# DefaultWebOptions.RelyOnVML property (Excel)
 
  **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False** . Read/write **Boolean** .
 

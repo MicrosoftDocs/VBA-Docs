@@ -1,5 +1,5 @@
 ---
-title: Workbook.Connections Property (Excel)
+title: Workbook.Connections property (Excel)
 keywords: vbaxl10.chm199235
 f1_keywords:
 - vbaxl10.chm199235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Connections Property (Excel)
+# Workbook.Connections property (Excel)
 
 The  **Connections** property establishes a connection between the workbook and an ODBC or an OLEDB data source and refreshes the data without prompting the user. Read-only.
 

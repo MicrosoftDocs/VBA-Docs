@@ -1,5 +1,5 @@
 ---
-title: PivotField.DisplayInReport Property (Excel)
+title: PivotField.DisplayInReport property (Excel)
 keywords: vbaxl10.chm240142
 f1_keywords:
 - vbaxl10.chm240142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DisplayInReport Property (Excel)
+# PivotField.DisplayInReport property (Excel)
 
 This property is used to specify whether the specified member property PivotField is displayed in the PivotTable or not. Read/write  **Boolean** .
 

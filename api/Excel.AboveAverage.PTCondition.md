@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.PTCondition Property (Excel)
+title: AboveAverage.PTCondition property (Excel)
 keywords: vbaxl10.chm824086
 f1_keywords:
 - vbaxl10.chm824086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.PTCondition Property (Excel)
+# AboveAverage.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

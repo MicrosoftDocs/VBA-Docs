@@ -1,5 +1,5 @@
 ---
-title: XlTimePeriods Enumeration (Excel)
+title: xlTimePeriods enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTimePeriods
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTimePeriods Enumeration (Excel)
+# xlTimePeriods enumeration (Excel)
 
 Specifies the time period.
 

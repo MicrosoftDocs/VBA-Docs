@@ -1,5 +1,5 @@
 ---
-title: Chart.CodeName Property (Excel)
+title: Chart.CodeName property (Excel)
 keywords: vbaxl10.chm148076
 f1_keywords:
 - vbaxl10.chm148076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.CodeName Property (Excel)
+# Chart.CodeName property (Excel)
 
 Returns the code name for the object. Read-only  **String** .
 

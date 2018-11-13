@@ -1,5 +1,5 @@
 ---
-title: Trendline.Name Property (Excel)
+title: Trendline.Name property (Excel)
 keywords: vbaxl10.chm594085
 f1_keywords:
 - vbaxl10.chm594085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Name Property (Excel)
+# Trendline.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

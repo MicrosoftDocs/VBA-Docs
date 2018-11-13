@@ -1,5 +1,5 @@
 ---
-title: XmlSchema.XML Property (Excel)
+title: XmlSchema.XML property (Excel)
 keywords: vbaxl10.chm750074
 f1_keywords:
 - vbaxl10.chm750074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchema.XML Property (Excel)
+# XmlSchema.XML property (Excel)
 
 Returns a  **String** value that represents the content of the specified schema.
 

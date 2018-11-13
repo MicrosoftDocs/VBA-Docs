@@ -1,5 +1,5 @@
 ---
-title: XlLink Enumeration (Excel)
+title: xlLink enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLink
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlLink Enumeration (Excel)
+# xlLink enumeration (Excel)
 
 Specifies the type of link.
 

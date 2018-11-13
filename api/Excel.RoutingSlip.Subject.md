@@ -1,5 +1,5 @@
 ---
-title: RoutingSlip.Subject Property (Excel)
+title: RoutingSlip.Subject property (Excel)
 keywords: vbaxl10.chm453079
 f1_keywords:
 - vbaxl10.chm453079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RoutingSlip.Subject Property (Excel)
+# RoutingSlip.Subject property (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

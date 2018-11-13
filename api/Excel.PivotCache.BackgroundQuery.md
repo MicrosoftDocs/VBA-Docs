@@ -1,5 +1,5 @@
 ---
-title: PivotCache.BackgroundQuery Property (Excel)
+title: PivotCache.BackgroundQuery property (Excel)
 keywords: vbaxl10.chm227073
 f1_keywords:
 - vbaxl10.chm227073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.BackgroundQuery Property (Excel)
+# PivotCache.BackgroundQuery property (Excel)
 
  **True** if queries for the PivotTable report are performed asynchronously (in the background). Read/write **Boolean** .
 

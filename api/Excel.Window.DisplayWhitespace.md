@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayWhitespace Property (Excel)
+title: Window.DisplayWhitespace property (Excel)
 keywords: vbaxl10.chm356138
 f1_keywords:
 - vbaxl10.chm356138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayWhitespace Property (Excel)
+# Window.DisplayWhitespace property (Excel)
 
  **True** if whitespace is displayed. Read/write **Boolean** .
 

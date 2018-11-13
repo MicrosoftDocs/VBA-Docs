@@ -1,5 +1,5 @@
 ---
-title: Font.ThemeColor Property (Excel)
+title: Font.ThemeColor property (Excel)
 keywords: vbaxl10.chm559087
 f1_keywords:
 - vbaxl10.chm559087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ThemeColor Property (Excel)
+# Font.ThemeColor property (Excel)
 
 Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **Variant** .
 

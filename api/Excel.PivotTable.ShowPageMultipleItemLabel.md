@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowPageMultipleItemLabel Property (Excel)
+title: PivotTable.ShowPageMultipleItemLabel property (Excel)
 keywords: vbaxl10.chm235150
 f1_keywords:
 - vbaxl10.chm235150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowPageMultipleItemLabel Property (Excel)
+# PivotTable.ShowPageMultipleItemLabel property (Excel)
 
 When set to  **True** (default), "(Multiple Items)" will appear in the PivotTable cell on the worksheet whenever items are hidden and an aggregate of non-hidden items is shown in the PivotTable view. Read/write **Boolean** .
 

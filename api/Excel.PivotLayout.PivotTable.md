@@ -1,5 +1,5 @@
 ---
-title: PivotLayout.PivotTable Property (Excel)
+title: PivotLayout.PivotTable property (Excel)
 keywords: vbaxl10.chm664082
 f1_keywords:
 - vbaxl10.chm664082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLayout.PivotTable Property (Excel)
+# PivotLayout.PivotTable property (Excel)
 
 Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable report associated with the PivotChart report.
 

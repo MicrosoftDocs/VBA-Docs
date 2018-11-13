@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.Parent Property (Excel)
+title: DataFeedConnection.Parent property (Excel)
 keywords: vbaxl10.chm927075
 f1_keywords:
 - vbaxl10.chm927075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.Parent Property (Excel)
+# DataFeedConnection.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Count Property (Excel)
+title: GroupShapes.Count property (Excel)
 keywords: vbaxl10.chm642073
 f1_keywords:
 - vbaxl10.chm642073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Count Property (Excel)
+# GroupShapes.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

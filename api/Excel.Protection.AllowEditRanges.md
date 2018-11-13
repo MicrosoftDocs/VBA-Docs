@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowEditRanges Property (Excel)
+title: Protection.AllowEditRanges property (Excel)
 keywords: vbaxl10.chm719084
 f1_keywords:
 - vbaxl10.chm719084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowEditRanges Property (Excel)
+# Protection.AllowEditRanges property (Excel)
 
 Returns an  **[AllowEditRanges](Excel.AllowEditRanges.md)** object.
 

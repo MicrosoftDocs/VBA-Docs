@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis.Parent Property (Excel)
+title: QuickAnalysis.Parent property (Excel)
 keywords: vbaxl10.chm919075
 f1_keywords:
 - vbaxl10.chm919075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis.Parent Property (Excel)
+# QuickAnalysis.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[QuickAnalysis Object (Excel)](Excel.quickanalysis.md) object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisGroup Property (Excel)
+title: Axis.AxisGroup property (Excel)
 keywords: vbaxl10.chm561074
 f1_keywords:
 - vbaxl10.chm561074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisGroup Property (Excel)
+# Axis.AxisGroup property (Excel)
 
 Returns the group for the specified axis. Read-only
 

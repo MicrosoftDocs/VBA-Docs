@@ -1,5 +1,5 @@
 ---
-title: XlTableStyleElementType Enumeration (Excel)
+title: xlTableStyleElementType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTableStyleElementType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTableStyleElementType Enumeration (Excel)
+# xlTableStyleElementType enumeration (Excel)
 
 Specifies the table style element used.
 

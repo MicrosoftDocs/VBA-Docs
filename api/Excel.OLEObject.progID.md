@@ -1,5 +1,5 @@
 ---
-title: OLEObject.progID Property (Excel)
+title: OLEObject.progID property (Excel)
 keywords: vbaxl10.chm417083
 f1_keywords:
 - vbaxl10.chm417083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.progID Property (Excel)
+# OLEObject.progID property (Excel)
 
 Returns the programmatic identifiers for the object. Read-only  **String** .
 

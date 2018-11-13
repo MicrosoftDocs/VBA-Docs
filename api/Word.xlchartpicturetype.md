@@ -1,12 +1,12 @@
 ---
-title: XlChartPictureType Enumeration (Word)
+title: xlChartPictureType Enumeration (Word)
 ms.prod: word
 ms.assetid: d28ab916-34dc-344e-503f-53102f2fd8c2
 ms.date: 06/08/2017
 ---
 
 
-# XlChartPictureType Enumeration (Word)
+# xlChartPictureType Enumeration (Word)
 
 Specifies how pictures are displayed on a column, bar picture chart, or legend key.
 

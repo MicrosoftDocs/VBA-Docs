@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.ServerSSOApplicationID Property (Excel)
+title: ODBCConnection.ServerSSOApplicationID property (Excel)
 keywords: vbaxl10.chm796091
 f1_keywords:
 - vbaxl10.chm796091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.ServerSSOApplicationID Property (Excel)
+# ODBCConnection.ServerSSOApplicationID property (Excel)
 
 Returns or sets a single sign-on application (SSO) identifier that is used to do a lookup in the SSO database for credentials. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnablePivotTable Property (Excel)
+title: Worksheet.EnablePivotTable property (Excel)
 keywords: vbaxl10.chm175097
 f1_keywords:
 - vbaxl10.chm175097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnablePivotTable Property (Excel)
+# Worksheet.EnablePivotTable property (Excel)
 
  **True** if PivotTable controls and actions are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
 

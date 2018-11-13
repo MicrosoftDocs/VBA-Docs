@@ -1,5 +1,5 @@
 ---
-title: TableObject.ResultRange Property (Excel)
+title: TableObject.ResultRange property (Excel)
 keywords: vbaxl10.chm916078
 f1_keywords:
 - vbaxl10.chm916078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.ResultRange Property (Excel)
+# TableObject.ResultRange property (Excel)
 
 Returns a [Range Object (Excel)](Excel.Range(object).md) object that represents the area of the worksheet occupied by the specified query table. Read-only
 

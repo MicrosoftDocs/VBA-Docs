@@ -1,5 +1,5 @@
 ---
-title: XlOrientation Enumeration (Excel)
+title: xlOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlOrientation Enumeration (Excel)
+# xlOrientation enumeration (Excel)
 
 Specifies the text orientation.
 

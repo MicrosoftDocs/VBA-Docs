@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Smooth Property (Excel)
+title: LegendKey.Smooth property (Excel)
 keywords: vbaxl10.chm590089
 f1_keywords:
 - vbaxl10.chm590089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Smooth Property (Excel)
+# LegendKey.Smooth property (Excel)
 
  **True** if curve smoothing is turned on for the legend key. Read/write.
 

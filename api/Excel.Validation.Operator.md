@@ -1,5 +1,5 @@
 ---
-title: Validation.Operator Property (Excel)
+title: Validation.Operator property (Excel)
 keywords: vbaxl10.chm532086
 f1_keywords:
 - vbaxl10.chm532086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Operator Property (Excel)
+# Validation.Operator property (Excel)
 
 Returns a  **Long** value that represents the operator for the data validation.
 

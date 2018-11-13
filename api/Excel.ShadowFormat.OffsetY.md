@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (Excel)
+title: ShadowFormat.OffsetY property (Excel)
 keywords: vbaxl10.chm114005
 f1_keywords:
 - vbaxl10.chm114005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.OffsetY Property (Excel)
+# ShadowFormat.OffsetY property (Excel)
 
 Returns or sets the vertical offset of the shadow from the specified shape, in points. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write  **Single** .
 

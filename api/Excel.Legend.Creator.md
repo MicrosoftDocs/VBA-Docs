@@ -1,5 +1,5 @@
 ---
-title: Legend.Creator Property (Excel)
+title: Legend.Creator property (Excel)
 keywords: vbaxl10.chm621074
 f1_keywords:
 - vbaxl10.chm621074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Creator Property (Excel)
+# Legend.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

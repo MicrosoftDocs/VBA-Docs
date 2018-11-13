@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.VerticalFlip Property (Excel)
+title: ShapeRange.VerticalFlip property (Excel)
 keywords: vbaxl10.chm640119
 f1_keywords:
 - vbaxl10.chm640119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.VerticalFlip Property (Excel)
+# ShapeRange.VerticalFlip property (Excel)
 
  **True** if the specified shape is flipped around the vertical axis. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 

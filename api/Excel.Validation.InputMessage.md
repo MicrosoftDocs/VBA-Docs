@@ -1,5 +1,5 @@
 ---
-title: Validation.InputMessage Property (Excel)
+title: Validation.InputMessage property (Excel)
 keywords: vbaxl10.chm532081
 f1_keywords:
 - vbaxl10.chm532081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.InputMessage Property (Excel)
+# Validation.InputMessage property (Excel)
 
 Returns or sets the data validation input message. Read/write  **String** .
 

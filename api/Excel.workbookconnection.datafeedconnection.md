@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.DataFeedConnection Property (Excel)
+title: WorkbookConnection.DataFeedConnection property (Excel)
 keywords: vbaxl10.chm774086
 f1_keywords:
 - vbaxl10.chm774086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.DataFeedConnection Property (Excel)
+# WorkbookConnection.DataFeedConnection property (Excel)
 
 Returns a  **DataFeedConnection** object that contains the data and functionality needed to connect to data feeds. Read-only
 

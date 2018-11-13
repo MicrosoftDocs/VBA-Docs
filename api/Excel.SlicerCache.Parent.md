@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.Parent Property (Excel)
+title: SlicerCache.Parent property (Excel)
 keywords: vbaxl10.chm896075
 f1_keywords:
 - vbaxl10.chm896075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.Parent Property (Excel)
+# SlicerCache.Parent property (Excel)
 
 Returns the parent  **[SlicerCaches](Excel.SlicerCaches.md)** object for the specified **SlicerCache** object. Read-only.
 

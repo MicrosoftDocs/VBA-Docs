@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.SoftEdge Property (Excel)
+title: ChartFormat.SoftEdge property (Excel)
 keywords: vbaxl10.chm861078
 f1_keywords:
 - vbaxl10.chm861078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.SoftEdge Property (Excel)
+# ChartFormat.SoftEdge property (Excel)
 
 Returns a  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)** object for a specified chart that contains soft edge formatting properties for the chart. Read-only.
 

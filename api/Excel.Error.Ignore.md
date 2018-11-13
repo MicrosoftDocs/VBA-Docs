@@ -1,5 +1,5 @@
 ---
-title: Error.Ignore Property (Excel)
+title: Error.Ignore property (Excel)
 keywords: vbaxl10.chm702074
 f1_keywords:
 - vbaxl10.chm702074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Error.Ignore Property (Excel)
+# Error.Ignore property (Excel)
 
 Allows the user to set or return the state of an error checking option for a range.  **False** enables an error checking option for a range. **True** disables an error checking option for a range. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: XlTrendlineType Enumeration (Excel)
+title: xlTrendlineType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTrendlineType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTrendlineType Enumeration (Excel)
+# xlTrendlineType enumeration (Excel)
 
 Specifies how the trendline that smoothes out fluctuations in the data is calculated.
 

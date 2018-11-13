@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.StopIfTrue Property (Excel)
+title: FormatCondition.StopIfTrue property (Excel)
 keywords: vbaxl10.chm512088
 f1_keywords:
 - vbaxl10.chm512088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.StopIfTrue Property (Excel)
+# FormatCondition.StopIfTrue property (Excel)
 
 Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
 

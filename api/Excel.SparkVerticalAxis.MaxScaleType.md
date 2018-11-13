@@ -1,5 +1,5 @@
 ---
-title: SparkVerticalAxis.MaxScaleType Property (Excel)
+title: SparkVerticalAxis.MaxScaleType property (Excel)
 keywords: vbaxl10.chm881075
 f1_keywords:
 - vbaxl10.chm881075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkVerticalAxis.MaxScaleType Property (Excel)
+# SparkVerticalAxis.MaxScaleType property (Excel)
 
 Returns or sets how the maximum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group. Read/write
 

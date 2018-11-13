@@ -1,5 +1,5 @@
 ---
-title: Application.Workbooks Property (Excel)
+title: Application.Workbooks property (Excel)
 keywords: vbaxl10.chm183115
 f1_keywords:
 - vbaxl10.chm183115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Workbooks Property (Excel)
+# Application.Workbooks property (Excel)
 
 Returns a  **[Workbooks](Excel.Workbooks.md)** collection that represents all the open workbooks. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightHeader Property (Excel)
+title: PageSetup.RightHeader property (Excel)
 keywords: vbaxl10.chm473100
 f1_keywords:
 - vbaxl10.chm473100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightHeader Property (Excel)
+# PageSetup.RightHeader property (Excel)
 
 Returns or sets the right part of the header. Read/write  **String** .
 

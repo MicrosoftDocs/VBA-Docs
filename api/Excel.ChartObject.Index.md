@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Index Property (Excel)
+title: ChartObject.Index property (Excel)
 keywords: vbaxl10.chm494083
 f1_keywords:
 - vbaxl10.chm494083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Index Property (Excel)
+# ChartObject.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

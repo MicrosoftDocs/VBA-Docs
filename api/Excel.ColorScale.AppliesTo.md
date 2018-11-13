@@ -1,5 +1,5 @@
 ---
-title: ColorScale.AppliesTo Property (Excel)
+title: ColorScale.AppliesTo property (Excel)
 keywords: vbaxl10.chm806075
 f1_keywords:
 - vbaxl10.chm806075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.AppliesTo Property (Excel)
+# ColorScale.AppliesTo property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 

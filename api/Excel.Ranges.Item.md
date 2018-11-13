@@ -1,5 +1,5 @@
 ---
-title: Ranges.Item Property (Excel)
+title: Ranges.Item property (Excel)
 keywords: vbaxl10.chm828075
 f1_keywords:
 - vbaxl10.chm828075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ranges.Item Property (Excel)
+# Ranges.Item property (Excel)
 
 Returns a  **Range** object that represents a range of items in a workbook. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CellFormat.WrapText Property (Excel)
+title: CellFormat.WrapText property (Excel)
 keywords: vbaxl10.chm676084
 f1_keywords:
 - vbaxl10.chm676084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.WrapText Property (Excel)
+# CellFormat.WrapText property (Excel)
 
 Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the text in the object.
 

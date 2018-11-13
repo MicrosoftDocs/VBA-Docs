@@ -1,5 +1,5 @@
 ---
-title: AddIns2.Creator Property (Excel)
+title: AddIns2.Creator property (Excel)
 keywords: vbaxl10.chm866074
 f1_keywords:
 - vbaxl10.chm866074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns2.Creator Property (Excel)
+# AddIns2.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.HighlightChangesOnScreen Property (Excel)
+title: Workbook.HighlightChangesOnScreen property (Excel)
 keywords: vbaxl10.chm199173
 f1_keywords:
 - vbaxl10.chm199173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.HighlightChangesOnScreen Property (Excel)
+# Workbook.HighlightChangesOnScreen property (Excel)
 
  **True** if changes to the shared workbook are highlighted on-screen. Read/write **Boolean** .
 

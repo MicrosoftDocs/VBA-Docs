@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CenterHorizontally Property (Excel)
+title: PageSetup.CenterHorizontally property (Excel)
 keywords: vbaxl10.chm473077
 f1_keywords:
 - vbaxl10.chm473077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CenterHorizontally Property (Excel)
+# PageSetup.CenterHorizontally property (Excel)
 
  **True** if the sheet is centered horizontally on the page when it's printed. Read/write **Boolean** .
 

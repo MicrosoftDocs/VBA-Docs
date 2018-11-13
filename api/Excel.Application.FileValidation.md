@@ -1,5 +1,5 @@
 ---
-title: Application.FileValidation Property (Excel)
+title: Application.FileValidation property (Excel)
 keywords: vbaxl10.chm133335
 f1_keywords:
 - vbaxl10.chm133335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileValidation Property (Excel)
+# Application.FileValidation property (Excel)
 
 Returns or sets how Excel will validate files before opening them. Read/write
 

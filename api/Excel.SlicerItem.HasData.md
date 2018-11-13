@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.HasData Property (Excel)
+title: SlicerItem.HasData property (Excel)
 keywords: vbaxl10.chm907080
 f1_keywords:
 - vbaxl10.chm907080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.HasData Property (Excel)
+# SlicerItem.HasData property (Excel)
 
 Returns whether the slicer item contains data that matches the current manual filter state. Read-only.
 

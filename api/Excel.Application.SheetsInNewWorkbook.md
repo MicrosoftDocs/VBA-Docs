@@ -1,5 +1,5 @@
 ---
-title: Application.SheetsInNewWorkbook Property (Excel)
+title: Application.SheetsInNewWorkbook property (Excel)
 keywords: vbaxl10.chm133207
 f1_keywords:
 - vbaxl10.chm133207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SheetsInNewWorkbook Property (Excel)
+# Application.SheetsInNewWorkbook property (Excel)
 
 Returns or sets the number of sheets that Microsoft Excel automatically inserts into new workbooks. Read/write  **Long** .
 

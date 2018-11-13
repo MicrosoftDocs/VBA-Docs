@@ -1,5 +1,5 @@
 ---
-title: Tab.ThemeColor Property (Excel)
+title: Tab.ThemeColor property (Excel)
 keywords: vbaxl10.chm723075
 f1_keywords:
 - vbaxl10.chm723075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tab.ThemeColor Property (Excel)
+# Tab.ThemeColor property (Excel)
 
 Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **[XlThemeColor](Excel.XlThemeColor.md)** .
 

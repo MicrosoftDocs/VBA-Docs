@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Excel)
+title: FillFormat.Pattern property (Excel)
 keywords: vbaxl10.chm115017
 f1_keywords:
 - vbaxl10.chm115017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Pattern Property (Excel)
+# FillFormat.Pattern property (Excel)
 
 Returns or sets an  **[MsoPatternType](Office.MsoPatternType.md)** value that represents the fill pattern.
 

@@ -1,5 +1,5 @@
 ---
-title: XlCmdType Enumeration (Excel)
+title: xlCmdType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCmdType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCmdType Enumeration (Excel)
+# xlCmdType enumeration (Excel)
 
 Specifies the value of the  **CommandText** property.
 

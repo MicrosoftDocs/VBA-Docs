@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileVisualLayout Property (Excel)
+title: TextConnection.TextFileVisualLayout property (Excel)
 keywords: vbaxl10.chm926091
 f1_keywords:
 - vbaxl10.chm926091
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileVisualLayout Property (Excel)
+# TextConnection.TextFileVisualLayout property (Excel)
 
-Returns or sets a [XlTextVisualLayoutType Enumeration (Excel)](Excel.XlTextVisualLayoutType.md) enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left. Read/Write
+Returns or sets a [xlTextVisualLayoutType enumeration (Excel)](Excel.xlTextVisualLayoutType.md) enumeration that indicates whether the visual layout of the text being imported is left-to-right or right-to-left. Read/Write
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Borders.Item Property (Excel)
+title: Borders.Item property (Excel)
 keywords: vbaxl10.chm181076
 f1_keywords:
 - vbaxl10.chm181076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Item Property (Excel)
+# Borders.Item property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents one of the borders of either a range of cells or a style.
 

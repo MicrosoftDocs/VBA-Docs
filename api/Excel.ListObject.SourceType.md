@@ -1,5 +1,5 @@
 ---
-title: ListObject.SourceType Property (Excel)
+title: ListObject.SourceType property (Excel)
 keywords: vbaxl10.chm734093
 f1_keywords:
 - vbaxl10.chm734093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.SourceType Property (Excel)
+# ListObject.SourceType property (Excel)
 
 Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
 

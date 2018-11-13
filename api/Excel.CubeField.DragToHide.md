@@ -1,5 +1,5 @@
 ---
-title: CubeField.DragToHide Property (Excel)
+title: CubeField.DragToHide property (Excel)
 keywords: vbaxl10.chm668081
 f1_keywords:
 - vbaxl10.chm668081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.DragToHide Property (Excel)
+# CubeField.DragToHide property (Excel)
 
  **True** if the field can be hidden by being dragged off the PivotTable report. The default value is **True** . Read/write **Boolean** .
 

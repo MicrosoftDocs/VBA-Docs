@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Lastpoint Property (Excel)
+title: SparkPoints.Lastpoint property (Excel)
 keywords: vbaxl10.chm873078
 f1_keywords:
 - vbaxl10.chm873078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Lastpoint Property (Excel)
+# SparkPoints.Lastpoint property (Excel)
 
 Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the last point of data on a sparkline. Read-only
 

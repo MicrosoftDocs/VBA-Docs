@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Type Property (Excel)
+title: CalloutFormat.Type property (Excel)
 keywords: vbaxl10.chm104015
 f1_keywords:
 - vbaxl10.chm104015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Type Property (Excel)
+# CalloutFormat.Type property (Excel)
 
 Returns or sets a  **[MsoCalloutType](Office.MsoCalloutType.md)** value that represents the callout format type.
 

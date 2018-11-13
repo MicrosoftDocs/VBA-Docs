@@ -1,5 +1,5 @@
 ---
-title: ConditionValue.Creator Property (Excel)
+title: ConditionValue.Creator property (Excel)
 keywords: vbaxl10.chm803074
 f1_keywords:
 - vbaxl10.chm803074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue.Creator Property (Excel)
+# ConditionValue.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

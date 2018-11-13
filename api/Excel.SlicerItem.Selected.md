@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.Selected Property (Excel)
+title: SlicerItem.Selected property (Excel)
 keywords: vbaxl10.chm907079
 f1_keywords:
 - vbaxl10.chm907079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.Selected Property (Excel)
+# SlicerItem.Selected property (Excel)
 
 Returns or sets whether the slicer item is selected. Read/write for slicers connected to non-OLAP data sources. Read-only for slicers connected to OLAP data sources.
 

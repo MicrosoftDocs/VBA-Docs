@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Parent Property (Excel)
+title: PictureFormat.Parent property (Excel)
 keywords: vbaxl10.chm113001
 f1_keywords:
 - vbaxl10.chm113001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Parent Property (Excel)
+# PictureFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.Creator Property (Excel)
+title: ListDataFormat.Creator property (Excel)
 keywords: vbaxl10.chm757074
 f1_keywords:
 - vbaxl10.chm757074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.Creator Property (Excel)
+# ListDataFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

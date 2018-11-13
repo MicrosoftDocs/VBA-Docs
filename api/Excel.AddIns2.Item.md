@@ -1,5 +1,5 @@
 ---
-title: AddIns2.Item Property (Excel)
+title: AddIns2.Item property (Excel)
 keywords: vbaxl10.chm867075
 f1_keywords:
 - vbaxl10.chm867075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns2.Item Property (Excel)
+# AddIns2.Item property (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.MultiUserEditing Property (Excel)
+title: Workbook.MultiUserEditing property (Excel)
 keywords: vbaxl10.chm199113
 f1_keywords:
 - vbaxl10.chm199113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.MultiUserEditing Property (Excel)
+# Workbook.MultiUserEditing property (Excel)
 
  **True** if the workbook is open as a shared list. Read-only **Boolean** .
 

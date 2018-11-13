@@ -1,5 +1,5 @@
 ---
-title: XlWindowState Enumeration (Excel)
+title: xlWindowState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowState
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWindowState Enumeration (Excel)
+# xlWindowState enumeration (Excel)
 
 Specifies the state of the window.
 

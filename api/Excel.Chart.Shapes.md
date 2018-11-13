@@ -1,5 +1,5 @@
 ---
-title: Chart.Shapes Property (Excel)
+title: Chart.Shapes property (Excel)
 keywords: vbaxl10.chm148097
 f1_keywords:
 - vbaxl10.chm148097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Shapes Property (Excel)
+# Chart.Shapes property (Excel)
 
 Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shapes on the chart sheet. Read-only.
 

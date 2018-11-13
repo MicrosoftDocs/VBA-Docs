@@ -1,5 +1,5 @@
 ---
-title: ModelFormatScientificNumber.Creator Property (Excel)
+title: ModelFormatScientificNumber.Creator property (Excel)
 keywords: vbaxl10.chm991074
 f1_keywords:
 - vbaxl10.chm991074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatScientificNumber.Creator Property (Excel)
+# ModelFormatScientificNumber.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

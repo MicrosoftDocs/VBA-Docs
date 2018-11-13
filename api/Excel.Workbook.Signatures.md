@@ -1,5 +1,5 @@
 ---
-title: Workbook.Signatures Property (Excel)
+title: Workbook.Signatures property (Excel)
 keywords: vbaxl10.chm199237
 f1_keywords:
 - vbaxl10.chm199237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Signatures Property (Excel)
+# Workbook.Signatures property (Excel)
 
 Returns the digital signatures for a workbook. Read-only.
 

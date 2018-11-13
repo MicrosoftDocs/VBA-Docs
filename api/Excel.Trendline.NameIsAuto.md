@@ -1,5 +1,5 @@
 ---
-title: Trendline.NameIsAuto Property (Excel)
+title: Trendline.NameIsAuto property (Excel)
 keywords: vbaxl10.chm594086
 f1_keywords:
 - vbaxl10.chm594086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.NameIsAuto Property (Excel)
+# Trendline.NameIsAuto property (Excel)
 
  **True** if Microsoft Excel automatically determines the name of the trendline. Read/write **Boolean** .
 

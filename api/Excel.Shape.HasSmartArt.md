@@ -1,5 +1,5 @@
 ---
-title: Shape.HasSmartArt Property (Excel)
+title: Shape.HasSmartArt property (Excel)
 keywords: vbaxl10.chm636154
 f1_keywords:
 - vbaxl10.chm636154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.HasSmartArt Property (Excel)
+# Shape.HasSmartArt property (Excel)
 
 Returns whether there is a SmartArt diagram present on the specified shape. Read-only
 

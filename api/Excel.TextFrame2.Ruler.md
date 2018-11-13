@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Ruler Property (Excel)
+title: TextFrame2.Ruler property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Ruler
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Ruler Property (Excel)
+# TextFrame2.Ruler property (Excel)
 
 Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only.
 

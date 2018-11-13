@@ -1,5 +1,5 @@
 ---
-title: Range.PrefixCharacter Property (Excel)
+title: Range.PrefixCharacter property (Excel)
 keywords: vbaxl10.chm144179
 f1_keywords:
 - vbaxl10.chm144179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PrefixCharacter Property (Excel)
+# Range.PrefixCharacter property (Excel)
 
 Returns the prefix character for the cell. Read-only  **Variant** .
 

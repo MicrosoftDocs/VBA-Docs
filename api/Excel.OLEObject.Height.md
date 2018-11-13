@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Height Property (Excel)
+title: OLEObject.Height property (Excel)
 keywords: vbaxl10.chm415082
 f1_keywords:
 - vbaxl10.chm415082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Height Property (Excel)
+# OLEObject.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.EditingType Property (Excel)
+title: ShapeNode.EditingType property (Excel)
 keywords: vbaxl10.chm111003
 f1_keywords:
 - vbaxl10.chm111003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.EditingType Property (Excel)
+# ShapeNode.EditingType property (Excel)
 
 If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **[MsoEditingType](./Office.MsoEditingType.md)** .
 

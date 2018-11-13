@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayInsertOptions Property (Excel)
+title: Application.DisplayInsertOptions property (Excel)
 keywords: vbaxl10.chm133274
 f1_keywords:
 - vbaxl10.chm133274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayInsertOptions Property (Excel)
+# Application.DisplayInsertOptions property (Excel)
 
  **True** if the **Insert Options** button should be displayed. Read/write **Boolean** .
 

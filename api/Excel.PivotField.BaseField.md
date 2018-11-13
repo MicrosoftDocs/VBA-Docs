@@ -1,5 +1,5 @@
 ---
-title: PivotField.BaseField Property (Excel)
+title: PivotField.BaseField property (Excel)
 keywords: vbaxl10.chm240095
 f1_keywords:
 - vbaxl10.chm240095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.BaseField Property (Excel)
+# PivotField.BaseField property (Excel)
 
 Returns or sets the base field for a custom calculation. This property is valid only for data fields. Read/write  **Variant** .
 

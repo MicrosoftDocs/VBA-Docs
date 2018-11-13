@@ -1,5 +1,5 @@
 ---
-title: XlRangeValueDataType Enumeration (Excel)
+title: xlRangeValueDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRangeValueDataType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRangeValueDataType Enumeration (Excel)
+# xlRangeValueDataType enumeration (Excel)
 
 Specifies the range value data type.
 

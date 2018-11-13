@@ -1,5 +1,5 @@
 ---
-title: Range.ServerActions Property (Excel)
+title: Range.ServerActions property (Excel)
 keywords: vbaxl10.chm144242
 f1_keywords:
 - vbaxl10.chm144242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ServerActions Property (Excel)
+# Range.ServerActions property (Excel)
 
 Specifies the actions that can be performed on the SharePoint server for a  **Range** object.
 

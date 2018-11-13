@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Name Property (Excel)
+title: CustomProperty.Name property (Excel)
 keywords: vbaxl10.chm682073
 f1_keywords:
 - vbaxl10.chm682073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Name Property (Excel)
+# CustomProperty.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

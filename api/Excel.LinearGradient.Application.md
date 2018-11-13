@@ -1,5 +1,5 @@
 ---
-title: LinearGradient.Application Property (Excel)
+title: LinearGradient.Application property (Excel)
 keywords: vbaxl10.chm854073
 f1_keywords:
 - vbaxl10.chm854073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinearGradient.Application Property (Excel)
+# LinearGradient.Application property (Excel)
 
 When used without an object qualifier, this property returns an  **Application** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 

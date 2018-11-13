@@ -1,5 +1,5 @@
 ---
-title: TextConnection.Application Property (Excel)
+title: TextConnection.Application property (Excel)
 keywords: vbaxl10.chm925073
 f1_keywords:
 - vbaxl10.chm925073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.Application Property (Excel)
+# TextConnection.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllowMultipleFilters Property (Excel)
+title: PivotTable.AllowMultipleFilters property (Excel)
 keywords: vbaxl10.chm235178
 f1_keywords:
 - vbaxl10.chm235178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AllowMultipleFilters Property (Excel)
+# PivotTable.AllowMultipleFilters property (Excel)
 
 Sets or retrieves a value that indicates whether a PivotField can have multiple filters applied to it at the same time. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Style.IndentLevel Property (Excel)
+title: Style.IndentLevel property (Excel)
 keywords: vbaxl10.chm177086
 f1_keywords:
 - vbaxl10.chm177086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IndentLevel Property (Excel)
+# Style.IndentLevel property (Excel)
 
 Returns or sets a  **Long** value that represents the indent level for the style.
 

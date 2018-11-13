@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Height Property (Excel)
+title: ChartTitle.Height property (Excel)
 keywords: vbaxl10.chm563095
 f1_keywords:
 - vbaxl10.chm563095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Height Property (Excel)
+# ChartTitle.Height property (Excel)
 
 Returns the height, in points, of the object. Read-only.
 

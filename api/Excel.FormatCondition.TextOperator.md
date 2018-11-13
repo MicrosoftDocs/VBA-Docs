@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.TextOperator Property (Excel)
+title: FormatCondition.TextOperator property (Excel)
 keywords: vbaxl10.chm512084
 f1_keywords:
 - vbaxl10.chm512084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.TextOperator Property (Excel)
+# FormatCondition.TextOperator property (Excel)
 
 Returns or sets one of the constants of the  **[XlContainsOperator](Excel.XlContainsOperator.md)** enumeration, specifying the text search performed by the conditional formatting rule.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.SplitVertical Property (Excel)
+title: Window.SplitVertical property (Excel)
 keywords: vbaxl10.chm356115
 f1_keywords:
 - vbaxl10.chm356115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SplitVertical Property (Excel)
+# Window.SplitVertical property (Excel)
 
 Returns or sets the location of the vertical window split, in points. Read/write  **Double** .
 

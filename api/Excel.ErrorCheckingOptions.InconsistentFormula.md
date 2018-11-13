@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.InconsistentFormula Property (Excel)
+title: ErrorCheckingOptions.InconsistentFormula property (Excel)
 keywords: vbaxl10.chm698078
 f1_keywords:
 - vbaxl10.chm698078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.InconsistentFormula Property (Excel)
+# ErrorCheckingOptions.InconsistentFormula property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies cells containing an inconsistent formula in a region. **False** disables the inconsistent formula check. Read/write **Boolean** .
 

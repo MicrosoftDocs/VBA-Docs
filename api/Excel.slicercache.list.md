@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.List Property (Excel)
+title: SlicerCache.List property (Excel)
 keywords: vbaxl10.chm897095
 f1_keywords:
 - vbaxl10.chm897095
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.List Property (Excel)
+# SlicerCache.List property (Excel)
 
  **True** if the slicer cache is for a slicer on a table. **False** otherwise. **Boolean** Read-only
 

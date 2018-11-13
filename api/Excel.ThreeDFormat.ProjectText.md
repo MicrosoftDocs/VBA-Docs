@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ProjectText Property (Excel)
+title: ThreeDFormat.ProjectText property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ProjectText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ProjectText Property (Excel)
+# ThreeDFormat.ProjectText property (Excel)
 
  Returns or sets the project text state for the specified **ThreeDFormat** object. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
 

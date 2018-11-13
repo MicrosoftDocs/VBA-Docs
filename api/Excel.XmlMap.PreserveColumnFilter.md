@@ -1,5 +1,5 @@
 ---
-title: XmlMap.PreserveColumnFilter Property (Excel)
+title: XmlMap.PreserveColumnFilter property (Excel)
 keywords: vbaxl10.chm754079
 f1_keywords:
 - vbaxl10.chm754079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.PreserveColumnFilter Property (Excel)
+# XmlMap.PreserveColumnFilter property (Excel)
 
 Returns or sets whether filtering is preserved when the specified XML map is refreshed. Read/write  **Boolean** .
 

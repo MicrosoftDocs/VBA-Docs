@@ -1,5 +1,5 @@
 ---
-title: IconCriterion.Icon Property (Excel)
+title: IconCriterion.Icon property (Excel)
 keywords: vbaxl10.chm814077
 f1_keywords:
 - vbaxl10.chm814077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion.Icon Property (Excel)
+# IconCriterion.Icon property (Excel)
 
 Returns or specifies the icon for a criterion in an icon set conditional formatting rule. Read/write
 

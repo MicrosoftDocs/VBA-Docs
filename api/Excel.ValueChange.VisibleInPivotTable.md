@@ -1,5 +1,5 @@
 ---
-title: ValueChange.VisibleInPivotTable Property (Excel)
+title: ValueChange.VisibleInPivotTable property (Excel)
 keywords: vbaxl10.chm889074
 f1_keywords:
 - vbaxl10.chm889074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.VisibleInPivotTable Property (Excel)
+# ValueChange.VisibleInPivotTable property (Excel)
 
 Returns whether the cell (tuple) is currently visible in the PivotTable report. Read-only
 

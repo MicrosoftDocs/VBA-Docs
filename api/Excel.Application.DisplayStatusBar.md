@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayStatusBar Property (Excel)
+title: Application.DisplayStatusBar property (Excel)
 keywords: vbaxl10.chm133127
 f1_keywords:
 - vbaxl10.chm133127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayStatusBar Property (Excel)
+# Application.DisplayStatusBar property (Excel)
 
  **True** if the status bar is displayed. Read/write **Boolean** .
 

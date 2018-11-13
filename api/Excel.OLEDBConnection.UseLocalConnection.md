@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.UseLocalConnection Property (Excel)
+title: OLEDBConnection.UseLocalConnection property (Excel)
 keywords: vbaxl10.chm794094
 f1_keywords:
 - vbaxl10.chm794094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.UseLocalConnection Property (Excel)
+# OLEDBConnection.UseLocalConnection property (Excel)
 
  **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean** .
 

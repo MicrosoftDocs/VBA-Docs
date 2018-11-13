@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Creator Property (Excel)
+title: TickLabels.Creator property (Excel)
 keywords: vbaxl10.chm615074
 f1_keywords:
 - vbaxl10.chm615074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Creator Property (Excel)
+# TickLabels.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.UseLocalConnection Property (Excel)
+title: PivotCache.UseLocalConnection property (Excel)
 keywords: vbaxl10.chm227096
 f1_keywords:
 - vbaxl10.chm227096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.UseLocalConnection Property (Excel)
+# PivotCache.UseLocalConnection property (Excel)
 
 Returns  **True** if the **[LocalConnection](Excel.PivotCache.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. Returns **False** if the connection string specified by the **Connection** property is used. Read/write **Boolean** .
 

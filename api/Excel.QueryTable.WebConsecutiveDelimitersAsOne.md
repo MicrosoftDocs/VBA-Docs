@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebConsecutiveDelimitersAsOne Property (Excel)
+title: QueryTable.WebConsecutiveDelimitersAsOne property (Excel)
 keywords: vbaxl10.chm518128
 f1_keywords:
 - vbaxl10.chm518128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebConsecutiveDelimitersAsOne Property (Excel)
+# QueryTable.WebConsecutiveDelimitersAsOne property (Excel)
 
  **True** if consecutive delimiters are treated as a single delimiter when you import data from HTML <PRE> tags in a Web page into a query table, and if the data is to be parsed into columns. **False** if you want to treat consecutive delimiters as multiple delimiters. The default value is **True** . Read/write **Boolean** .
 

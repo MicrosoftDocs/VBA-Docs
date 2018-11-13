@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.DisplayHidden Property (Excel)
+title: SparklineGroup.DisplayHidden property (Excel)
 keywords: vbaxl10.chm871089
 f1_keywords:
 - vbaxl10.chm871089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.DisplayHidden Property (Excel)
+# SparklineGroup.DisplayHidden property (Excel)
 
 Specifies if hidden cells are plotted in the sparkline group. Read/write.
 

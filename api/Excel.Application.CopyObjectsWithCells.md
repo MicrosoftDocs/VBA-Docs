@@ -1,5 +1,5 @@
 ---
-title: Application.CopyObjectsWithCells Property (Excel)
+title: Application.CopyObjectsWithCells property (Excel)
 keywords: vbaxl10.chm133098
 f1_keywords:
 - vbaxl10.chm133098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CopyObjectsWithCells Property (Excel)
+# Application.CopyObjectsWithCells property (Excel)
 
  **True** if objects are cut, copied, extracted, and sorted with cells. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ProtectionMode Property (Excel)
+title: Worksheet.ProtectionMode property (Excel)
 keywords: vbaxl10.chm174092
 f1_keywords:
 - vbaxl10.chm174092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ProtectionMode Property (Excel)
+# Worksheet.ProtectionMode property (Excel)
 
  **True** if user-interface-only protection is turned on. To turn on user interface protection, use the **[Protect](Excel.Worksheet.Protect.md)** method with the _UserInterfaceOnly_ argument set to **True** . Read-only **Boolean** .
 

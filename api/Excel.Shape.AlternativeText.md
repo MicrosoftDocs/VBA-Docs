@@ -1,5 +1,5 @@
 ---
-title: Shape.AlternativeText Property (Excel)
+title: Shape.AlternativeText property (Excel)
 keywords: vbaxl10.chm636132
 f1_keywords:
 - vbaxl10.chm636132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.AlternativeText Property (Excel)
+# Shape.AlternativeText property (Excel)
 
 Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a Web page. Read/write **String** .
 

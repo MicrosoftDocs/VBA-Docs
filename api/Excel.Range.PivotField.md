@@ -1,5 +1,5 @@
 ---
-title: Range.PivotField Property (Excel)
+title: Range.PivotField property (Excel)
 keywords: vbaxl10.chm144175
 f1_keywords:
 - vbaxl10.chm144175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PivotField Property (Excel)
+# Range.PivotField property (Excel)
 
 Returns a  **[PivotField](Excel.PivotField.md)** object that represents the PivotTable field containing the upper-left corner of the specified range.
 

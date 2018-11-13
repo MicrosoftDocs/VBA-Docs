@@ -1,5 +1,5 @@
 ---
-title: ModelTable.RecordCount Property (Excel)
+title: ModelTable.RecordCount property (Excel)
 keywords: vbaxl10.chm934079
 f1_keywords:
 - vbaxl10.chm934079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTable.RecordCount Property (Excel)
+# ModelTable.RecordCount property (Excel)
 
 Returns the total row count for the model table.  **Integer** Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: CubeField.DragToColumn Property (Excel)
+title: CubeField.DragToColumn property (Excel)
 keywords: vbaxl10.chm668080
 f1_keywords:
 - vbaxl10.chm668080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.DragToColumn Property (Excel)
+# CubeField.DragToColumn property (Excel)
 
  **True** if the specified field can be dragged to the column position. The default value is **True** . Read/write **Boolean** .
 

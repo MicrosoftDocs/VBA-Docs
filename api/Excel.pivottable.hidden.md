@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Hidden Property (Excel)
+title: PivotTable.Hidden property (Excel)
 keywords: vbaxl10.chm235204
 f1_keywords:
 - vbaxl10.chm235204
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Hidden Property (Excel)
+# PivotTable.Hidden property (Excel)
 
 Checks whether the PivotTable exists at the worksheet level.  **Boolean** . Read-only
 

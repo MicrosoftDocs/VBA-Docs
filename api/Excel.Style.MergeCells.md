@@ -1,5 +1,5 @@
 ---
-title: Style.MergeCells Property (Excel)
+title: Style.MergeCells property (Excel)
 keywords: vbaxl10.chm177089
 f1_keywords:
 - vbaxl10.chm177089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.MergeCells Property (Excel)
+# Style.MergeCells property (Excel)
 
  **True** if the style contains merged cells. Read/write **Variant** .
 

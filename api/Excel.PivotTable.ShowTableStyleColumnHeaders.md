@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowTableStyleColumnHeaders Property (Excel)
+title: PivotTable.ShowTableStyleColumnHeaders property (Excel)
 keywords: vbaxl10.chm235176
 f1_keywords:
 - vbaxl10.chm235176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowTableStyleColumnHeaders Property (Excel)
+# PivotTable.ShowTableStyleColumnHeaders property (Excel)
 
 The  **ShowTableStyleColumnHeaders** property is set to **True** if the coulmn headers should be displayed in the PivotTable. Read/write **Boolean** .
 

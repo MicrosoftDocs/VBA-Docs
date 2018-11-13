@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AlternativeText Property (Excel)
+title: PivotTable.AlternativeText property (Excel)
 keywords: vbaxl10.chm235198
 f1_keywords:
 - vbaxl10.chm235198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AlternativeText Property (Excel)
+# PivotTable.AlternativeText property (Excel)
 
 Returns or sets the descriptive (alternative) text string for the specified PivotTable. Read/write
 

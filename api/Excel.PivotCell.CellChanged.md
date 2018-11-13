@@ -1,5 +1,5 @@
 ---
-title: PivotCell.CellChanged Property (Excel)
+title: PivotCell.CellChanged property (Excel)
 keywords: vbaxl10.chm692088
 f1_keywords:
 - vbaxl10.chm692088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.CellChanged Property (Excel)
+# PivotCell.CellChanged property (Excel)
 
 Returns whether a PivotTable value cell has been edited or recalculated since the PivotTable report was created or the last commit operation was performed. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ThisCell Property (Excel)
+title: Application.ThisCell property (Excel)
 keywords: vbaxl10.chm133291
 f1_keywords:
 - vbaxl10.chm133291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ThisCell Property (Excel)
+# Application.ThisCell property (Excel)
 
 Returns the cell in which the user-defined function is being called from as a  **[Range](Excel.Range(object).md)** object.
 

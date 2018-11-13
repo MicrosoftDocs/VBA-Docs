@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormat Property (Excel)
+title: TickLabels.NumberFormat property (Excel)
 keywords: vbaxl10.chm616077
 f1_keywords:
 - vbaxl10.chm616077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.NumberFormat Property (Excel)
+# TickLabels.NumberFormat property (Excel)
 
 Returns or sets a  **String** value that represents the format code for the object.
 

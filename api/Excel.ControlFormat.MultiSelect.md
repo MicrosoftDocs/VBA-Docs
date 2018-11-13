@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.MultiSelect Property (Excel)
+title: ControlFormat.MultiSelect property (Excel)
 keywords: vbaxl10.chm630087
 f1_keywords:
 - vbaxl10.chm630087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.MultiSelect Property (Excel)
+# ControlFormat.MultiSelect property (Excel)
 
 Returns or sets the selection mode of the specified list box. Can be one of the following constants:  **xlNone** , **xlSimple** , or **xlExtended** . Read/write **Long** .
 

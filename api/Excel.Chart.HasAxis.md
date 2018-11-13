@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (Excel)
+title: Chart.HasAxis property (Excel)
 keywords: vbaxl10.chm149113
 f1_keywords:
 - vbaxl10.chm149113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasAxis Property (Excel)
+# Chart.HasAxis property (Excel)
 
 Returns or sets which axes exist on the chart. Read/write  **Variant** .
 

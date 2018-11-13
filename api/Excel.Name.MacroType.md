@@ -1,5 +1,5 @@
 ---
-title: Name.MacroType Property (Excel)
+title: Name.MacroType property (Excel)
 keywords: vbaxl10.chm490078
 f1_keywords:
 - vbaxl10.chm490078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.MacroType Property (Excel)
+# Name.MacroType property (Excel)
 
 Returns or sets what the name refers to. Read/write  **[XlXLMMacroType](Excel.XlXLMMacroType.md)** .
 

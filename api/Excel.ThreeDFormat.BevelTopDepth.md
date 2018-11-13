@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopDepth Property (Excel)
+title: ThreeDFormat.BevelTopDepth property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelTopDepth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelTopDepth Property (Excel)
+# ThreeDFormat.BevelTopDepth property (Excel)
 
 Returns or sets the top depth when using the bevel effect on a  **ThreeDFormat** object. Read/write **Single** .
 

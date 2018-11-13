@@ -1,5 +1,5 @@
 ---
-title: Charts.HPageBreaks Property (Excel)
+title: Charts.HPageBreaks property (Excel)
 keywords: vbaxl10.chm217082
 f1_keywords:
 - vbaxl10.chm217082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.HPageBreaks Property (Excel)
+# Charts.HPageBreaks property (Excel)
 
 Returns an  **[HPageBreaks](Excel.HPageBreaks.md)** collection that represents the horizontal page breaks on the chart. Read-only.
 

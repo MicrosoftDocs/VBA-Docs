@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Type Property (Excel)
+title: IconSetCondition.Type property (Excel)
 keywords: vbaxl10.chm812076
 f1_keywords:
 - vbaxl10.chm812076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.Type Property (Excel)
+# IconSetCondition.Type property (Excel)
 
 Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Tab.ColorIndex Property (Excel)
+title: Tab.ColorIndex property (Excel)
 keywords: vbaxl10.chm723074
 f1_keywords:
 - vbaxl10.chm723074

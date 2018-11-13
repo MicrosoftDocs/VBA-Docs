@@ -1,5 +1,5 @@
 ---
-title: Filters.Parent Property (Excel)
+title: Filters.Parent property (Excel)
 keywords: vbaxl10.chm539075
 f1_keywords:
 - vbaxl10.chm539075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filters.Parent Property (Excel)
+# Filters.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

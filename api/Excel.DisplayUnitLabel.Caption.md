@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Caption Property (Excel)
+title: DisplayUnitLabel.Caption property (Excel)
 keywords: vbaxl10.chm673079
 f1_keywords:
 - vbaxl10.chm673079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Caption Property (Excel)
+# DisplayUnitLabel.Caption property (Excel)
 
 Returns or sets a  **String** value that represents the display unit label text.
 

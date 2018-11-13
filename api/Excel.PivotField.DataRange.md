@@ -1,5 +1,5 @@
 ---
-title: PivotField.DataRange Property (Excel)
+title: PivotField.DataRange property (Excel)
 keywords: vbaxl10.chm240078
 f1_keywords:
 - vbaxl10.chm240078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DataRange Property (Excel)
+# PivotField.DataRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object as shown in the following table. Read-only.
 

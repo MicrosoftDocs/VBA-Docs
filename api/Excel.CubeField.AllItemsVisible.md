@@ -1,5 +1,5 @@
 ---
-title: CubeField.AllItemsVisible Property (Excel)
+title: CubeField.AllItemsVisible property (Excel)
 keywords: vbaxl10.chm668097
 f1_keywords:
 - vbaxl10.chm668097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.AllItemsVisible Property (Excel)
+# CubeField.AllItemsVisible property (Excel)
 
  The **AllItemsVisible** property checks whether manual filtering is applied to a PivotField or CubeField. Read-only **Boolean** .
 

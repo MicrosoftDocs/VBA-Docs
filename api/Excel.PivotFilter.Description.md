@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Description Property (Excel)
+title: PivotFilter.Description property (Excel)
 keywords: vbaxl10.chm770076
 f1_keywords:
 - vbaxl10.chm770076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Description Property (Excel)
+# PivotFilter.Description property (Excel)
 
 Provides an optional description for the  **PivotFilter** object. Read-only **String** .
 

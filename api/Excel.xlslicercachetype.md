@@ -1,12 +1,12 @@
 ---
-title: XlSlicerCacheType Enumeration (Excel)
+title: xlSlicerCacheType enumeration (Excel)
 ms.prod: excel
 ms.assetid: a9328ef0-b77b-c159-bb6c-b518f6145028
 ms.date: 06/08/2017
 ---
 
 
-# XlSlicerCacheType Enumeration (Excel)
+# xlSlicerCacheType enumeration (Excel)
 
 Designates the type of slicer or slicer cache.
 

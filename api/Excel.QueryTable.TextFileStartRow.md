@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileStartRow Property (Excel)
+title: QueryTable.TextFileStartRow property (Excel)
 keywords: vbaxl10.chm518099
 f1_keywords:
 - vbaxl10.chm518099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileStartRow Property (Excel)
+# QueryTable.TextFileStartRow property (Excel)
 
 Returns or sets the row number at which text parsing will begin when you import a text file into a query table. Valid values are integers from 1 through 32767. The default value is 1. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Slicer.Parent Property (Excel)
+title: Slicer.Parent property (Excel)
 keywords: vbaxl10.chm904075
 f1_keywords:
 - vbaxl10.chm904075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Parent Property (Excel)
+# Slicer.Parent property (Excel)
 
 Returns the  **[Worksheet](Excel.Worksheet.md)** object that represents the sheet that contains the slicer. Read-only.
 

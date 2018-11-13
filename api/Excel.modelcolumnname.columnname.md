@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName.ColumnName Property (Excel)
+title: ModelColumnName.ColumnName property (Excel)
 keywords: vbaxl10.chm962074
 f1_keywords:
 - vbaxl10.chm962074
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName.ColumnName Property (Excel)
+# ModelColumnName.ColumnName property (Excel)
 
- **String** representing the name of a column of the table identified by the [ModelColumnName.TableName Property (Excel)](Excel.modelcolumnname.tablename.md) property. Read-only.
+ **String** representing the name of a column of the table identified by the [ModelColumnName.TableName property (Excel)](Excel.modelcolumnname.tablename.md) property. Read-only.
 
 
 ## Syntax

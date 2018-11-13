@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Name Property (Excel)
+title: PivotTable.Name property (Excel)
 keywords: vbaxl10.chm235085
 f1_keywords:
 - vbaxl10.chm235085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Name Property (Excel)
+# PivotTable.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

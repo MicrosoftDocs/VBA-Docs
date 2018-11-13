@@ -1,5 +1,5 @@
 ---
-title: DialogSheetView.Sheet Property (Excel)
+title: DialogSheetView.Sheet property (Excel)
 keywords: vbaxl10.chm787073
 f1_keywords:
 - vbaxl10.chm787073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DialogSheetView.Sheet Property (Excel)
+# DialogSheetView.Sheet property (Excel)
 
 Returns the sheet name for the specified  **[DialogSheetView](Excel.DialogSheetView.md)** object. Read-only.
 

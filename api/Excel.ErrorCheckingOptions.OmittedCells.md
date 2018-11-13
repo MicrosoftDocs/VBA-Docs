@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.OmittedCells Property (Excel)
+title: ErrorCheckingOptions.OmittedCells property (Excel)
 keywords: vbaxl10.chm698079
 f1_keywords:
 - vbaxl10.chm698079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.OmittedCells Property (Excel)
+# ErrorCheckingOptions.OmittedCells property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies, with an AutoCorrect Options button, the selected cells that contain formulas referring to a range that omits adjacent cells that could be included. **False** disables error checking for omitted cells. Read/write **Boolean** .
 

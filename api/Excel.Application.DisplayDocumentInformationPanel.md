@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayDocumentInformationPanel Property (Excel)
+title: Application.DisplayDocumentInformationPanel property (Excel)
 keywords: vbaxl10.chm133303
 f1_keywords:
 - vbaxl10.chm133303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayDocumentInformationPanel Property (Excel)
+# Application.DisplayDocumentInformationPanel property (Excel)
 
 Returns or sets a  **Boolean** that represents whether the document properties panel is displayed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Count Property (Excel)
+title: SparklineGroups.Count property (Excel)
 keywords: vbaxl10.chm869074
 f1_keywords:
 - vbaxl10.chm869074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Count Property (Excel)
+# SparklineGroups.Count property (Excel)
 
 Returns the count of sparkline groups in the associated  **[Range](Excel.Range(object).md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Comments.Count Property (Excel)
+title: Comments.Count property (Excel)
 keywords: vbaxl10.chm514073
 f1_keywords:
 - vbaxl10.chm514073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Count Property (Excel)
+# Comments.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

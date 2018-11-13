@@ -1,5 +1,5 @@
 ---
-title: Application.AutoRecover Property (Excel)
+title: Application.AutoRecover property (Excel)
 keywords: vbaxl10.chm133276
 f1_keywords:
 - vbaxl10.chm133276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoRecover Property (Excel)
+# Application.AutoRecover property (Excel)
 
 Returns an  **[AutoRecover](Excel.AutoRecover.md)** object, which backs up all file formats on a timed interval.
 

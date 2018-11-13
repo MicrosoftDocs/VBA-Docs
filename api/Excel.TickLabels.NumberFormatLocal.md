@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLocal Property (Excel)
+title: TickLabels.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm616079
 f1_keywords:
 - vbaxl10.chm616079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.NumberFormatLocal Property (Excel)
+# TickLabels.NumberFormatLocal property (Excel)
 
 Returns or sets a  **Variant** value that represents the format code for the object as a string in the language of the user.
 

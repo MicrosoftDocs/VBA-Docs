@@ -1,5 +1,5 @@
 ---
-title: SortFields.Count Property (Excel)
+title: SortFields.Count property (Excel)
 keywords: vbaxl10.chm845075
 f1_keywords:
 - vbaxl10.chm845075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortFields.Count Property (Excel)
+# SortFields.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

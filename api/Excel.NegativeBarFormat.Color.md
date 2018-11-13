@@ -1,5 +1,5 @@
 ---
-title: NegativeBarFormat.Color Property (Excel)
+title: NegativeBarFormat.Color property (Excel)
 keywords: vbaxl10.chm887075
 f1_keywords:
 - vbaxl10.chm887075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NegativeBarFormat.Color Property (Excel)
+# NegativeBarFormat.Color property (Excel)
 
  Returns a **[FormatColor](Excel.FormatColor.md)** object that you can use to specify the fill color for negative data bars. Read-only
 

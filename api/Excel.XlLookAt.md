@@ -1,5 +1,5 @@
 ---
-title: XlLookAt Enumeration (Excel)
+title: xlLookAt enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLookAt
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlLookAt Enumeration (Excel)
+# xlLookAt enumeration (Excel)
 
 Specifies whether a match is made against the whole of the search text or any part of the search text.
 

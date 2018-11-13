@@ -1,5 +1,5 @@
 ---
-title: CellFormat.MergeCells Property (Excel)
+title: CellFormat.MergeCells property (Excel)
 keywords: vbaxl10.chm676087
 f1_keywords:
 - vbaxl10.chm676087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.MergeCells Property (Excel)
+# CellFormat.MergeCells property (Excel)
 
  **True** if the range or style contains merged cells. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Format Property (Excel)
+title: Point.Format property (Excel)
 keywords: vbaxl10.chm576103
 f1_keywords:
 - vbaxl10.chm576103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Format Property (Excel)
+# Point.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

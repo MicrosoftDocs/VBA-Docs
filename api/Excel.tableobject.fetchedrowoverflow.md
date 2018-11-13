@@ -1,5 +1,5 @@
 ---
-title: TableObject.FetchedRowOverflow Property (Excel)
+title: TableObject.FetchedRowOverflow property (Excel)
 keywords: vbaxl10.chm916074
 f1_keywords:
 - vbaxl10.chm916074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.FetchedRowOverflow Property (Excel)
+# TableObject.FetchedRowOverflow property (Excel)
 
 Specifies if the number of rows returned by the last use of the Refresh method is greater than the number of rows available on the worksheet.  **Boolean** Read-only
 

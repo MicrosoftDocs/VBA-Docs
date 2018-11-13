@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.ReadingOrder Property (Excel)
+title: DisplayFormat.ReadingOrder property (Excel)
 keywords: vbaxl10.chm893087
 f1_keywords:
 - vbaxl10.chm893087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.ReadingOrder Property (Excel)
+# DisplayFormat.ReadingOrder property (Excel)
 
 Returns the reading order of the associated  **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

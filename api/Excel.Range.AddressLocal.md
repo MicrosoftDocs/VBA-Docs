@@ -1,5 +1,5 @@
 ---
-title: Range.AddressLocal Property (Excel)
+title: Range.AddressLocal property (Excel)
 keywords: vbaxl10.chm144077
 f1_keywords:
 - vbaxl10.chm144077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AddressLocal Property (Excel)
+# Range.AddressLocal property (Excel)
 
 Returns the range reference for the specified range in the language of the user. Read-only  **String** .
 

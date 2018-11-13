@@ -1,5 +1,5 @@
 ---
-title: PageSetup.OddAndEvenPagesHeaderFooter Property (Excel)
+title: PageSetup.OddAndEvenPagesHeaderFooter property (Excel)
 keywords: vbaxl10.chm473112
 f1_keywords:
 - vbaxl10.chm473112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.OddAndEvenPagesHeaderFooter Property (Excel)
+# PageSetup.OddAndEvenPagesHeaderFooter property (Excel)
 
  **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean** .
 

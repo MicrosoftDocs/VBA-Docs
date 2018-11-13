@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.EmptyCellReferences Property (Excel)
+title: ErrorCheckingOptions.EmptyCellReferences property (Excel)
 keywords: vbaxl10.chm698081
 f1_keywords:
 - vbaxl10.chm698081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.EmptyCellReferences Property (Excel)
+# ErrorCheckingOptions.EmptyCellReferences property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells containing formulas that refer to empty cells. **False** disables empty cell reference checking. Read/write **Boolean** .
 

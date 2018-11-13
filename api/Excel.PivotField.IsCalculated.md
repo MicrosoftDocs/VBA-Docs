@@ -1,5 +1,5 @@
 ---
-title: PivotField.IsCalculated Property (Excel)
+title: PivotField.IsCalculated property (Excel)
 keywords: vbaxl10.chm240108
 f1_keywords:
 - vbaxl10.chm240108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.IsCalculated Property (Excel)
+# PivotField.IsCalculated property (Excel)
 
  **True** if the PivotTable field is a calculated field or item. Read-only **Boolean** .
 

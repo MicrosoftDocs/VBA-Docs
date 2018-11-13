@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaR1C1Local Property (Excel)
+title: Series.FormulaR1C1Local property (Excel)
 keywords: vbaxl10.chm578087
 f1_keywords:
 - vbaxl10.chm578087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.FormulaR1C1Local Property (Excel)
+# Series.FormulaR1C1Local property (Excel)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String** .
 

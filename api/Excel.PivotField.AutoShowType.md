@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoShowType Property (Excel)
+title: PivotField.AutoShowType property (Excel)
 keywords: vbaxl10.chm240115
 f1_keywords:
 - vbaxl10.chm240115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoShowType Property (Excel)
+# PivotField.AutoShowType property (Excel)
 
 Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Type Property (Excel)
+title: Worksheet.Type property (Excel)
 keywords: vbaxl10.chm175133
 f1_keywords:
 - vbaxl10.chm175133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Type Property (Excel)
+# Worksheet.Type property (Excel)
 
 Returns an  **[XlSheetType](Excel.XlSheetType.md)** value that represents the worksheet type.
 

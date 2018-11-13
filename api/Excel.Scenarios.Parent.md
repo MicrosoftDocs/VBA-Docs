@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Parent Property (Excel)
+title: Scenarios.Parent property (Excel)
 keywords: vbaxl10.chm361075
 f1_keywords:
 - vbaxl10.chm361075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Parent Property (Excel)
+# Scenarios.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

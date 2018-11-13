@@ -1,5 +1,5 @@
 ---
-title: Point.DataLabel Property (Excel)
+title: Point.DataLabel property (Excel)
 keywords: vbaxl10.chm576078
 f1_keywords:
 - vbaxl10.chm576078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.DataLabel Property (Excel)
+# Point.DataLabel property (Excel)
 
 Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents the data label associated with the point. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Outline.SummaryColumn Property (Excel)
+title: Outline.SummaryColumn property (Excel)
 keywords: vbaxl10.chm455075
 f1_keywords:
 - vbaxl10.chm455075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.SummaryColumn Property (Excel)
+# Outline.SummaryColumn property (Excel)
 
 Returns or sets the location of the summary columns in the outline. Read/write  **[XlSummaryColumn](Excel.XlSummaryColumn.md)** .
 

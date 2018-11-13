@@ -1,5 +1,5 @@
 ---
-title: Point.Has3DEffect Property (Excel)
+title: Point.Has3DEffect property (Excel)
 keywords: vbaxl10.chm576101
 f1_keywords:
 - vbaxl10.chm576101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Has3DEffect Property (Excel)
+# Point.Has3DEffect property (Excel)
 
  **True** if a point has a three-dimensional appearance. Read/write **Boolean** .
 

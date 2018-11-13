@@ -1,5 +1,5 @@
 ---
-title: Application.UseClusterConnector Property (Excel)
+title: Application.UseClusterConnector property (Excel)
 keywords: vbaxl10.chm133325
 f1_keywords:
 - vbaxl10.chm133325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UseClusterConnector Property (Excel)
+# Application.UseClusterConnector property (Excel)
 
 Returns or sets whether Excel allows user-defined functions in XLL add-ins to be run on a compute cluster. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: PivotFormula.Index Property (Excel)
+title: PivotFormula.Index property (Excel)
 keywords: vbaxl10.chm231077
 f1_keywords:
 - vbaxl10.chm231077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormula.Index Property (Excel)
+# PivotFormula.Index property (Excel)
 
 Returns or sets a  **Long** value that represents the index number of the **[PivotFormula](Excel.PivotFormula.md)** object within the **[PivotFormulas](Excel.PivotFormulas.md)** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFilter.Sort Property (Excel)
+title: AutoFilter.Sort property (Excel)
 keywords: vbaxl10.chm538076
 f1_keywords:
 - vbaxl10.chm538076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter.Sort Property (Excel)
+# AutoFilter.Sort property (Excel)
 
 Gets the sort column or columns, and sort order for the  **AutoFilter** collection.
 

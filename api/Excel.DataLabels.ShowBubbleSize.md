@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowBubbleSize Property (Excel)
+title: DataLabels.ShowBubbleSize property (Excel)
 keywords: vbaxl10.chm584103
 f1_keywords:
 - vbaxl10.chm584103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowBubbleSize Property (Excel)
+# DataLabels.ShowBubbleSize property (Excel)
 
  **True** to show the bubble size for the data labels on a chart. **False** to hide. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Parent Property (Excel)
+title: LinkFormat.Parent property (Excel)
 keywords: vbaxl10.chm633075
 f1_keywords:
 - vbaxl10.chm633075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Parent Property (Excel)
+# LinkFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XlSourceType Enumeration (Excel)
+title: xlSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSourceType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSourceType Enumeration (Excel)
+# xlSourceType enumeration (Excel)
 
 Identifies the source object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SplitType Property (Excel)
+title: ChartGroup.SplitType property (Excel)
 keywords: vbaxl10.chm568097
 f1_keywords:
 - vbaxl10.chm568097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SplitType Property (Excel)
+# ChartGroup.SplitType property (Excel)
 
 Returns or sets the way the two sections of either a pie of pie chart or a bar of pie chart are split. Read/write  **[XlChartSplitType](Excel.XlChartSplitType.md)** .
 

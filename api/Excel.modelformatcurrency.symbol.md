@@ -1,5 +1,5 @@
 ---
-title: ModelFormatCurrency.Symbol Property (Excel)
+title: ModelFormatCurrency.Symbol property (Excel)
 keywords: vbaxl10.chm994073
 f1_keywords:
 - vbaxl10.chm994073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatCurrency.Symbol Property (Excel)
+# ModelFormatCurrency.Symbol property (Excel)
 
 Specifies the symbol to use to represent the currency. Read/write  **String**.
 

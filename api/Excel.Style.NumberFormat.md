@@ -1,5 +1,5 @@
 ---
-title: Style.NumberFormat Property (Excel)
+title: Style.NumberFormat property (Excel)
 keywords: vbaxl10.chm177092
 f1_keywords:
 - vbaxl10.chm177092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NumberFormat Property (Excel)
+# Style.NumberFormat property (Excel)
 
 Returns or sets a  **String** value that represents the format code for the object.
 

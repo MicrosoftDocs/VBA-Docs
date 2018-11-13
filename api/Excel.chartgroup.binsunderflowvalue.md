@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsUnderflowValue Property (Excel)
+title: ChartGroup.BinsUnderflowValue property (Excel)
 keywords: vbaxl10.chm568109
 f1_keywords:
 - vbaxl10.chm568109
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinsUnderflowValue Property (Excel)
+# ChartGroup.BinsUnderflowValue property (Excel)
 
 If an [BinsUnderflowEnabled](Excel.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
 

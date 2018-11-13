@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.ODBCConnection Property (Excel)
+title: WorkbookConnection.ODBCConnection property (Excel)
 keywords: vbaxl10.chm774078
 f1_keywords:
 - vbaxl10.chm774078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.ODBCConnection Property (Excel)
+# WorkbookConnection.ODBCConnection property (Excel)
 
 Retuns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection** .
 

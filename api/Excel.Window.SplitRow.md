@@ -1,5 +1,5 @@
 ---
-title: Window.SplitRow Property (Excel)
+title: Window.SplitRow property (Excel)
 keywords: vbaxl10.chm356114
 f1_keywords:
 - vbaxl10.chm356114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SplitRow Property (Excel)
+# Window.SplitRow property (Excel)
 
 Returns or sets the row number where the window is split into panes (the number of rows above the split). Read/write  **Long** .
 

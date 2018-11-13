@@ -1,5 +1,5 @@
 ---
-title: TimelineState.FilterType Property (Excel)
+title: TimelineState.FilterType property (Excel)
 keywords: vbaxl10.chm950075
 f1_keywords:
 - vbaxl10.chm950075
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.FilterType Property (Excel)
+# TimelineState.FilterType property (Excel)
 
-Returns the type of the date filter. [XlPivotFilterType Enumeration (Excel)](Excel.XlPivotFilterType.md) Read-only
+Returns the type of the date filter. [xlPivotFilterType enumeration (Excel)](Excel.xlPivotFilterType.md) Read-only
 
 
 ## Syntax

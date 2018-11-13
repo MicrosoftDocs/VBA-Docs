@@ -1,5 +1,5 @@
 ---
-title: PivotAxis.Creator Property (Excel)
+title: PivotAxis.Creator property (Excel)
 keywords: vbaxl10.chm767074
 f1_keywords:
 - vbaxl10.chm767074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotAxis.Creator Property (Excel)
+# PivotAxis.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

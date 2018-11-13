@@ -1,5 +1,5 @@
 ---
-title: Workbook.DefaultPivotTableStyle Property (Excel)
+title: Workbook.DefaultPivotTableStyle property (Excel)
 keywords: vbaxl10.chm199248
 f1_keywords:
 - vbaxl10.chm199248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DefaultPivotTableStyle Property (Excel)
+# Workbook.DefaultPivotTableStyle property (Excel)
 
 Specifies the table style from the  **TableStyles** collection that is used as the default style for PivotTables. Read/write.
 

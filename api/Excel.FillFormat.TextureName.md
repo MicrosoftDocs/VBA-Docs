@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (Excel)
+title: FillFormat.TextureName property (Excel)
 keywords: vbaxl10.chm115020
 f1_keywords:
 - vbaxl10.chm115020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureName Property (Excel)
+# FillFormat.TextureName property (Excel)
 
 Returns the name of the custom texture file for the specified fill. Read-only  **String** .
 

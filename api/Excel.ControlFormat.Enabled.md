@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.Enabled Property (Excel)
+title: ControlFormat.Enabled property (Excel)
 keywords: vbaxl10.chm630077
 f1_keywords:
 - vbaxl10.chm630077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.Enabled Property (Excel)
+# ControlFormat.Enabled property (Excel)
 
  **True** if the object is enabled. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Ranges Property (Excel)
+title: WorkbookConnection.Ranges property (Excel)
 keywords: vbaxl10.chm774079
 f1_keywords:
 - vbaxl10.chm774079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.Ranges Property (Excel)
+# WorkbookConnection.Ranges property (Excel)
 
 Returns the range of object for the specified  **WorkbookConnection** object. Read-only **Ranges** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.HinstancePtr Property (Excel)
+title: Application.HinstancePtr property (Excel)
 keywords: vbaxl10.chm133334
 f1_keywords:
 - vbaxl10.chm133334
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.HinstancePtr Property (Excel)
+# Application.HinstancePtr property (Excel)
 
 Returns a handle to the instance of Excel represented by the specified  **[Application](Excel.Application(object).md)** object. Read-only **Variant** .
 

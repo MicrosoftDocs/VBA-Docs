@@ -1,5 +1,5 @@
 ---
-title: Worksheet.DisplayRightToLeft Property (Excel)
+title: Worksheet.DisplayRightToLeft property (Excel)
 keywords: vbaxl10.chm175145
 f1_keywords:
 - vbaxl10.chm175145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.DisplayRightToLeft Property (Excel)
+# Worksheet.DisplayRightToLeft property (Excel)
 
  **True** if the specified worksheet is displayed from right to left instead of from left to right. **False** if the object is displayed from left to right. Read-only **Boolean** .
 

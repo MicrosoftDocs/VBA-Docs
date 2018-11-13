@@ -1,12 +1,12 @@
 ---
-title: XlCategoryType Enumeration (Word)
+title: xlCategoryType Enumeration (Word)
 ms.prod: word
 ms.assetid: 10dad161-2a90-7915-51bb-ddc69427c003
 ms.date: 06/08/2017
 ---
 
 
-# XlCategoryType Enumeration (Word)
+# xlCategoryType Enumeration (Word)
 
 Specifies the type of the category axis.
 

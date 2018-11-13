@@ -1,5 +1,5 @@
 ---
-title: SheetViews.Item Property (Excel)
+title: SheetViews.Item property (Excel)
 keywords: vbaxl10.chm792075
 f1_keywords:
 - vbaxl10.chm792075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SheetViews.Item Property (Excel)
+# SheetViews.Item property (Excel)
 
 Returns a  **SheetView** object that represents views in a workbook. Read-only.
 

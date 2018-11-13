@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Width Property (Excel)
+title: DataLabel.Width property (Excel)
 keywords: vbaxl10.chm582107
 f1_keywords:
 - vbaxl10.chm582107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Width Property (Excel)
+# DataLabel.Width property (Excel)
 
 Returns the width, in points, of the object. Read-only.
 

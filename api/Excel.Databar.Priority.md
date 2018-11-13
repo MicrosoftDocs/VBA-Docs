@@ -1,5 +1,5 @@
 ---
-title: Databar.Priority Property (Excel)
+title: Databar.Priority property (Excel)
 keywords: vbaxl10.chm810073
 f1_keywords:
 - vbaxl10.chm810073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.Priority Property (Excel)
+# Databar.Priority property (Excel)
 
 Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist in a worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Areas.Count Property (Excel)
+title: Areas.Count property (Excel)
 keywords: vbaxl10.chm197073
 f1_keywords:
 - vbaxl10.chm197073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Areas.Count Property (Excel)
+# Areas.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.HorizontalFlip Property (Excel)
+title: Shape.HorizontalFlip property (Excel)
 keywords: vbaxl10.chm636099
 f1_keywords:
 - vbaxl10.chm636099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.HorizontalFlip Property (Excel)
+# Shape.HorizontalFlip property (Excel)
 
  **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 

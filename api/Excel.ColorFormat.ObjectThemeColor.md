@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.ObjectThemeColor Property (Excel)
+title: ColorFormat.ObjectThemeColor property (Excel)
 keywords: vbaxl10.chm0
 f1_keywords:
 - vbaxl10.chm0
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.ObjectThemeColor Property (Excel)
+# ColorFormat.ObjectThemeColor property (Excel)
 
 Returns or sets a color that is mapped to the theme color scheme. Read/write  **[MsoThemeColorIndex](Office.MsoThemeColorIndex.md)** .
 

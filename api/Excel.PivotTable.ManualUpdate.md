@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ManualUpdate Property (Excel)
+title: PivotTable.ManualUpdate property (Excel)
 keywords: vbaxl10.chm235112
 f1_keywords:
 - vbaxl10.chm235112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ManualUpdate Property (Excel)
+# PivotTable.ManualUpdate property (Excel)
 
  **True** if the PivotTable report is recalculated only at the user's request. The default value is **False** . Read/write **Boolean** .
 

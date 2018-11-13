@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Name Property (Excel)
+title: AxisTitle.Name property (Excel)
 keywords: vbaxl10.chm566074
 f1_keywords:
 - vbaxl10.chm566074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Name Property (Excel)
+# AxisTitle.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors.Count Property (Excel)
+title: OLEDBErrors.Count property (Excel)
 keywords: vbaxl10.chm656073
 f1_keywords:
 - vbaxl10.chm656073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBErrors.Count Property (Excel)
+# OLEDBErrors.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

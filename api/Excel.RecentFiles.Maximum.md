@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Maximum Property (Excel)
+title: RecentFiles.Maximum property (Excel)
 keywords: vbaxl10.chm172073
 f1_keywords:
 - vbaxl10.chm172073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Maximum Property (Excel)
+# RecentFiles.Maximum property (Excel)
 
 Returns or sets the maximum number of files in the list of recently used files. Can be a value from 0 (zero) through 50. Read/write  **Long** .
 

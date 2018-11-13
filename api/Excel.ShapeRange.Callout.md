@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Callout Property (Excel)
+title: ShapeRange.Callout property (Excel)
 keywords: vbaxl10.chm640099
 f1_keywords:
 - vbaxl10.chm640099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Callout Property (Excel)
+# ShapeRange.Callout property (Excel)
 
 Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to a **[ShapeRange](Excel.ShapeRange.md)** object that represent line callouts. Read-only.
 

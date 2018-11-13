@@ -34,7 +34,7 @@ Copies the sheet to another location in the current workbook or a new workbook.
 
 ## Remarks
 
-If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new [workbook](Excel.Workbook.md) that contains the copied sheet object that contains the copied[Worksheet](Excel.Worksheet.md) object. The newly created workbook holds the [Application.ActiveWorkbook Property (Excel)](Excel.Application.ActiveWorkbook.md) property and contains a single worksheet. The single worksheet retains the [Worksheet.Name Property (Excel)](Excel.Worksheet.Name.md) and [Worksheet.CodeName Property (Excel)](Excel.Worksheet.CodeName.md) properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
+If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new [workbook](Excel.Workbook.md) that contains the copied sheet object that contains the copied[Worksheet](Excel.Worksheet.md) object. The newly created workbook holds the [Application.ActiveWorkbook property (Excel)](Excel.Application.ActiveWorkbook.md) property and contains a single worksheet. The single worksheet retains the [Worksheet.Name property (Excel)](Excel.Worksheet.Name.md) and [Worksheet.CodeName property (Excel)](Excel.Worksheet.CodeName.md) properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
 
 An array selection of multiple worksheets can be copied to a new blank [Workbook Object (Excel)](Excel.Workbook.md) object in a similar manner.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsUnderflowEnabled Property (Excel)
+title: ChartGroup.BinsUnderflowEnabled property (Excel)
 keywords: vbaxl10.chm568108
 f1_keywords:
 - vbaxl10.chm568108
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinsUnderflowEnabled Property (Excel)
+# ChartGroup.BinsUnderflowEnabled property (Excel)
 
 Specifies whether a bin for values below the [BinsUnderflowValue](Excel.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.
 

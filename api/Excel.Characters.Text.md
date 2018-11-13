@@ -1,5 +1,5 @@
 ---
-title: Characters.Text Property (Excel)
+title: Characters.Text property (Excel)
 keywords: vbaxl10.chm252078
 f1_keywords:
 - vbaxl10.chm252078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Text Property (Excel)
+# Characters.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

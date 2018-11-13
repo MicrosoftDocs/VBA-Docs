@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RobustConnect Property (Excel)
+title: QueryTable.RobustConnect property (Excel)
 keywords: vbaxl10.chm518133
 f1_keywords:
 - vbaxl10.chm518133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RobustConnect Property (Excel)
+# QueryTable.RobustConnect property (Excel)
 
 Returns or sets how the query table connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
 

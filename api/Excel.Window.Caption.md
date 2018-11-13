@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Excel)
+title: Window.Caption property (Excel)
 keywords: vbaxl10.chm356080
 f1_keywords:
 - vbaxl10.chm356080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Caption Property (Excel)
+# Window.Caption property (Excel)
 
 Returns or sets a  **Variant** value that represents the name that appears in the title bar of the document window.
 

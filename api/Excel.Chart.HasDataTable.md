@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (Excel)
+title: Chart.HasDataTable property (Excel)
 keywords: vbaxl10.chm149114
 f1_keywords:
 - vbaxl10.chm149114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasDataTable Property (Excel)
+# Chart.HasDataTable property (Excel)
 
  **True** if the chart has a data table. Read/write **Boolean** .
 

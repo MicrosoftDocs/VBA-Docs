@@ -1,5 +1,5 @@
 ---
-title: Chart.HeightPercent Property (Excel)
+title: Chart.HeightPercent property (Excel)
 keywords: vbaxl10.chm149117
 f1_keywords:
 - vbaxl10.chm149117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HeightPercent Property (Excel)
+# Chart.HeightPercent property (Excel)
 
 Returns or sets the height of a 3-D chart as a percentage of the chart width (between 5 and 500 percent). Read/write  **Long** .
 

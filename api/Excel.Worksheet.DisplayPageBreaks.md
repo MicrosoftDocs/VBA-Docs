@@ -1,5 +1,5 @@
 ---
-title: Worksheet.DisplayPageBreaks Property (Excel)
+title: Worksheet.DisplayPageBreaks property (Excel)
 keywords: vbaxl10.chm175138
 f1_keywords:
 - vbaxl10.chm175138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.DisplayPageBreaks Property (Excel)
+# Worksheet.DisplayPageBreaks property (Excel)
 
  **True** if page breaks (both automatic and manual) on the specified worksheet are displayed. Read/write **Boolean** .
 

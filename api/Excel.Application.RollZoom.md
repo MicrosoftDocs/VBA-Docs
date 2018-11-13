@@ -1,5 +1,5 @@
 ---
-title: Application.RollZoom Property (Excel)
+title: Application.RollZoom property (Excel)
 keywords: vbaxl10.chm133202
 f1_keywords:
 - vbaxl10.chm133202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RollZoom Property (Excel)
+# Application.RollZoom property (Excel)
 
  **True** if the IntelliMouse zooms instead of scrolling. Read/write **Boolean** .
 

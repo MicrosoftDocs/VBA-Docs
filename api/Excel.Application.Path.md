@@ -1,5 +1,5 @@
 ---
-title: Application.Path Property (Excel)
+title: Application.Path property (Excel)
 keywords: vbaxl10.chm133189
 f1_keywords:
 - vbaxl10.chm133189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Path Property (Excel)
+# Application.Path property (Excel)
 
 Returns a  **String** value that represents the complete path to the application, excluding the final separator and name of the application.
 

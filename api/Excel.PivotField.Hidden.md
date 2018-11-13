@@ -1,5 +1,5 @@
 ---
-title: PivotField.Hidden Property (Excel)
+title: PivotField.Hidden property (Excel)
 keywords: vbaxl10.chm240137
 f1_keywords:
 - vbaxl10.chm240137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Hidden Property (Excel)
+# PivotField.Hidden property (Excel)
 
 This property is used to hide the individual levels of an OLAP hierarchy. Read/write  **Boolean** .
 

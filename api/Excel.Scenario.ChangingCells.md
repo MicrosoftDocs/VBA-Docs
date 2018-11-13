@@ -1,5 +1,5 @@
 ---
-title: Scenario.ChangingCells Property (Excel)
+title: Scenario.ChangingCells property (Excel)
 keywords: vbaxl10.chm364074
 f1_keywords:
 - vbaxl10.chm364074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.ChangingCells Property (Excel)
+# Scenario.ChangingCells property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the changing cells for a scenario. Read-only.
 

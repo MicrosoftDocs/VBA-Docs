@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.StripeSize Property (Excel)
+title: TableStyleElement.StripeSize property (Excel)
 keywords: vbaxl10.chm835077
 f1_keywords:
 - vbaxl10.chm835077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.StripeSize Property (Excel)
+# TableStyleElement.StripeSize property (Excel)
 
 Returns or sets the size of banding. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsCountValue Property (Excel)
+title: ChartGroup.BinsCountValue property (Excel)
 keywords: vbaxl10.chm568105
 f1_keywords:
 - vbaxl10.chm568105
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinsCountValue Property (Excel)
+# ChartGroup.BinsCountValue property (Excel)
 
 Specifies the number of bins in the histogram chart. Read/write  **Long**.
 

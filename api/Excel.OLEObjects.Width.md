@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Width Property (Excel)
+title: OLEObjects.Width property (Excel)
 keywords: vbaxl10.chm419091
 f1_keywords:
 - vbaxl10.chm419091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Width Property (Excel)
+# OLEObjects.Width property (Excel)
 
 Returns or sets a  **Double** value that represents the width, in points, of the object.
 

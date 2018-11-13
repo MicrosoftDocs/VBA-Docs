@@ -1,12 +1,12 @@
 ---
-title: XlErrorBarInclude Enumeration (Word)
+title: xlErrorBarInclude Enumeration (Word)
 ms.prod: word
 ms.assetid: 76de90d9-df64-0abb-d517-ef18867a0f1a
 ms.date: 06/08/2017
 ---
 
 
-# XlErrorBarInclude Enumeration (Word)
+# xlErrorBarInclude Enumeration (Word)
 
 Specifies which error-bar parts to include.
 

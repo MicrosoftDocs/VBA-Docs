@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Creator Property (Excel)
+title: PageSetup.Creator property (Excel)
 keywords: vbaxl10.chm472074
 f1_keywords:
 - vbaxl10.chm472074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Creator Property (Excel)
+# PageSetup.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

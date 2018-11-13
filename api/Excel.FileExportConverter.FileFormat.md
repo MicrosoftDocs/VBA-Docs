@@ -1,5 +1,5 @@
 ---
-title: FileExportConverter.FileFormat Property (Excel)
+title: FileExportConverter.FileFormat property (Excel)
 keywords: vbaxl10.chm863075
 f1_keywords:
 - vbaxl10.chm863075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverter.FileFormat Property (Excel)
+# FileExportConverter.FileFormat property (Excel)
 
 Returns an integer that identifies the file format associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only.
 

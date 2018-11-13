@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.UpBars Property (Excel)
+title: ChartGroup.UpBars property (Excel)
 keywords: vbaxl10.chm568092
 f1_keywords:
 - vbaxl10.chm568092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.UpBars Property (Excel)
+# ChartGroup.UpBars property (Excel)
 
 Returns an  **[UpBars](Excel.UpBars(object).md)** object that represents the up bars on a line chart. Applies only to line charts. Read-only.
 

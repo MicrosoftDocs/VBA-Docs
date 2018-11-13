@@ -1,5 +1,5 @@
 ---
-title: ListColumn.Range Property (Excel)
+title: ListColumn.Range property (Excel)
 keywords: vbaxl10.chm738078
 f1_keywords:
 - vbaxl10.chm738078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.Range Property (Excel)
+# ListColumn.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range to which the specified list object in the above list applies.
 

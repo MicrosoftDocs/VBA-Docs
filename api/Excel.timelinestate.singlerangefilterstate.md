@@ -1,5 +1,5 @@
 ---
-title: TimelineState.SingleRangeFilterState Property (Excel)
+title: TimelineState.SingleRangeFilterState property (Excel)
 keywords: vbaxl10.chm950078
 f1_keywords:
 - vbaxl10.chm950078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.SingleRangeFilterState Property (Excel)
+# TimelineState.SingleRangeFilterState property (Excel)
 
  **True** when the filtering state is a contiguous date range; **False** otherwise. **Boolean** Read-only
 

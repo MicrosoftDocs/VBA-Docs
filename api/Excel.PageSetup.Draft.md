@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Draft Property (Excel)
+title: PageSetup.Draft property (Excel)
 keywords: vbaxl10.chm473080
 f1_keywords:
 - vbaxl10.chm473080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Draft Property (Excel)
+# PageSetup.Draft property (Excel)
 
  **True** if the sheet will be printed without graphics. Read/write **Boolean** .
 

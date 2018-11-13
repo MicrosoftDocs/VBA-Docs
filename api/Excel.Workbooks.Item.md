@@ -1,5 +1,5 @@
 ---
-title: Workbooks.Item Property (Excel)
+title: Workbooks.Item property (Excel)
 keywords: vbaxl10.chm203076
 f1_keywords:
 - vbaxl10.chm203076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.Item Property (Excel)
+# Workbooks.Item property (Excel)
 
 Returns a single object from a collection.
 

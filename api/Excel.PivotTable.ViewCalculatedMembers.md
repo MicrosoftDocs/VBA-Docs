@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ViewCalculatedMembers Property (Excel)
+title: PivotTable.ViewCalculatedMembers property (Excel)
 keywords: vbaxl10.chm235144
 f1_keywords:
 - vbaxl10.chm235144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ViewCalculatedMembers Property (Excel)
+# PivotTable.ViewCalculatedMembers property (Excel)
 
 When set to  **True** (default), calculated members for Online Analytical Processing (OLAP) PivotTables can be viewed. Read/write **Boolean** .
 

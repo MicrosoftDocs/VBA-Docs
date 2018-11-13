@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoShowField Property (Excel)
+title: PivotField.AutoShowField property (Excel)
 keywords: vbaxl10.chm240118
 f1_keywords:
 - vbaxl10.chm240118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoShowField Property (Excel)
+# PivotField.AutoShowField property (Excel)
 
 Returns the name of the data field used to determine the top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **String** .
 

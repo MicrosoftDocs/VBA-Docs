@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Creator Property (Excel)
+title: ShapeNodes.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Creator Property (Excel)
+# ShapeNodes.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

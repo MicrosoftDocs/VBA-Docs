@@ -1,5 +1,5 @@
 ---
-title: Application.EnableLargeOperationAlert Property (Excel)
+title: Application.EnableLargeOperationAlert property (Excel)
 keywords: vbaxl10.chm133311
 f1_keywords:
 - vbaxl10.chm133311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableLargeOperationAlert Property (Excel)
+# Application.EnableLargeOperationAlert property (Excel)
 
 Sets or returns a  **Boolean** that represents whether to display an alert message when a user attempts to perform an operation that affects a larger number of cells than is specified in the Office center UI. Read/write **Boolean** .
 

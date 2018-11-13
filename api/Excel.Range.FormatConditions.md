@@ -1,5 +1,5 @@
 ---
-title: Range.FormatConditions Property (Excel)
+title: Range.FormatConditions property (Excel)
 keywords: vbaxl10.chm144226
 f1_keywords:
 - vbaxl10.chm144226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FormatConditions Property (Excel)
+# Range.FormatConditions property (Excel)
 
 Returns a  **[FormatConditions](Excel.FormatConditions.md)** collection that represents all the conditional formats for the specified range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Text Property (Excel)
+title: TextEffectFormat.Text property (Excel)
 keywords: vbaxl10.chm118012
 f1_keywords:
 - vbaxl10.chm118012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Text Property (Excel)
+# TextEffectFormat.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Points Property (Excel)
+title: ShapeNode.Points property (Excel)
 keywords: vbaxl10.chm111004
 f1_keywords:
 - vbaxl10.chm111004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.Points Property (Excel)
+# ShapeNode.Points property (Excel)
 
 Returns the position of the specified node as a coordinate pair. Each coordinate is expressed in points. Read-only  **Variant** .
 

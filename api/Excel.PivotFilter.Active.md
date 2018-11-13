@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Active Property (Excel)
+title: PivotFilter.Active property (Excel)
 keywords: vbaxl10.chm770078
 f1_keywords:
 - vbaxl10.chm770078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Active Property (Excel)
+# PivotFilter.Active property (Excel)
 
 Returns whether the specified PivotFilter is active. Read-only  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: XlFileFormat Enumeration (Excel)
+title: xlFileFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFileFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFileFormat Enumeration (Excel)
+# xlFileFormat enumeration (Excel)
 
 Specifies the file format when saving the worksheet.
 

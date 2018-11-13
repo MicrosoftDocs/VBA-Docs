@@ -1,5 +1,5 @@
 ---
-title: Workbook.ForceFullCalculation Property (Excel)
+title: Workbook.ForceFullCalculation property (Excel)
 keywords: vbaxl10.chm199264
 f1_keywords:
 - vbaxl10.chm199264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ForceFullCalculation Property (Excel)
+# Workbook.ForceFullCalculation property (Excel)
 
 Returns or sets the specified workbook to forced calculation mode. Read/write.
 

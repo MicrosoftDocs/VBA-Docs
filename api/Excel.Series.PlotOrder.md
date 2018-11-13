@@ -1,5 +1,5 @@
 ---
-title: Series.PlotOrder Property (Excel)
+title: Series.PlotOrder property (Excel)
 keywords: vbaxl10.chm578103
 f1_keywords:
 - vbaxl10.chm578103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PlotOrder Property (Excel)
+# Series.PlotOrder property (Excel)
 
 Returns or sets the plot order for the selected series within the chart group. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.TemplatesPath Property (Excel)
+title: Application.TemplatesPath property (Excel)
 keywords: vbaxl10.chm133214
 f1_keywords:
 - vbaxl10.chm133214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TemplatesPath Property (Excel)
+# Application.TemplatesPath property (Excel)
 
 Returns the local path where templates are stored. Read-only  **String** .
 

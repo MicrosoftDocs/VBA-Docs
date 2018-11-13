@@ -1,5 +1,5 @@
 ---
-title: XmlMap.IsExportable Property (Excel)
+title: XmlMap.IsExportable property (Excel)
 keywords: vbaxl10.chm754075
 f1_keywords:
 - vbaxl10.chm754075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.IsExportable Property (Excel)
+# XmlMap.IsExportable property (Excel)
 
 Returns  **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** objects in the specified schema map to export XML data and all XML lists mapped to the specified schema map can be exported.
 

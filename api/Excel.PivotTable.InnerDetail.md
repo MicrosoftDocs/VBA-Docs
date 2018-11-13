@@ -1,5 +1,5 @@
 ---
-title: PivotTable.InnerDetail Property (Excel)
+title: PivotTable.InnerDetail property (Excel)
 keywords: vbaxl10.chm235084
 f1_keywords:
 - vbaxl10.chm235084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.InnerDetail Property (Excel)
+# PivotTable.InnerDetail property (Excel)
 
 Returns or sets the name of the field that will be shown as detail when the  **ShowDetail** property is **True** for the innermost row or column field. Read/write **String** .
 

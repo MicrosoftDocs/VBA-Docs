@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Creator Property (Excel)
+title: DataLabels.Creator property (Excel)
 keywords: vbaxl10.chm583074
 f1_keywords:
 - vbaxl10.chm583074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Creator Property (Excel)
+# DataLabels.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

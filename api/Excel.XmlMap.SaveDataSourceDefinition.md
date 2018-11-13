@@ -1,5 +1,5 @@
 ---
-title: XmlMap.SaveDataSourceDefinition Property (Excel)
+title: XmlMap.SaveDataSourceDefinition property (Excel)
 keywords: vbaxl10.chm754077
 f1_keywords:
 - vbaxl10.chm754077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.SaveDataSourceDefinition Property (Excel)
+# XmlMap.SaveDataSourceDefinition property (Excel)
 
  **True** if the data source definition of the specified XML schema map is saved with the workbook. The default value is **True** . Read/write **Boolean** .
 

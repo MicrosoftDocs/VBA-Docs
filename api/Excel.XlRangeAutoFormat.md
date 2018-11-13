@@ -1,5 +1,5 @@
 ---
-title: XlRangeAutoFormat Enumeration (Excel)
+title: xlRangeAutoFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRangeAutoFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRangeAutoFormat Enumeration (Excel)
+# xlRangeAutoFormat enumeration (Excel)
 
 Specifies the predefined format when a range is automatically formatted.
 

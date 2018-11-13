@@ -1,5 +1,5 @@
 ---
-title: Application.FormulaBarHeight Property (Excel)
+title: Application.FormulaBarHeight property (Excel)
 keywords: vbaxl10.chm133306
 f1_keywords:
 - vbaxl10.chm133306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FormulaBarHeight Property (Excel)
+# Application.FormulaBarHeight property (Excel)
 
 Allows the user to specify the height of the formula bar in lines. Read/write  **Long** .
 

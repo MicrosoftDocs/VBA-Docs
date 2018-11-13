@@ -1,5 +1,5 @@
 ---
-title: ListObject.HeaderRowRange Property (Excel)
+title: ListObject.HeaderRowRange property (Excel)
 keywords: vbaxl10.chm734084
 f1_keywords:
 - vbaxl10.chm734084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.HeaderRowRange Property (Excel)
+# ListObject.HeaderRowRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range of the header row for a list. Read-only **Range** .
 

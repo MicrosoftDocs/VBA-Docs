@@ -1,5 +1,5 @@
 ---
-title: Series.Smooth Property (Excel)
+title: Series.Smooth property (Excel)
 keywords: vbaxl10.chm578106
 f1_keywords:
 - vbaxl10.chm578106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Smooth Property (Excel)
+# Series.Smooth property (Excel)
 
  **True** if curve smoothing is turned on for the line chart or scatter chart. Applies only to line and scatter charts. Read/write.
 

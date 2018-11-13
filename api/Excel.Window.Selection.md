@@ -1,5 +1,5 @@
 ---
-title: Window.Selection Property (Excel)
+title: Window.Selection property (Excel)
 keywords: vbaxl10.chm356109
 f1_keywords:
 - vbaxl10.chm356109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Selection Property (Excel)
+# Window.Selection property (Excel)
 
 Returns the specified window, for a  **[Windows](Excel.Windows.md)** object.
 

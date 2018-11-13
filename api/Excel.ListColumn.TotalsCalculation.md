@@ -1,5 +1,5 @@
 ---
-title: ListColumn.TotalsCalculation Property (Excel)
+title: ListColumn.TotalsCalculation property (Excel)
 keywords: vbaxl10.chm738079
 f1_keywords:
 - vbaxl10.chm738079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.TotalsCalculation Property (Excel)
+# ListColumn.TotalsCalculation property (Excel)
 
 Determines the type of calculation in the Totals row of the list column based on the value of the  **[XlTotalsCalculation](Excel.XlTotalsCalculation.md)** enumeration. Read/write.
 

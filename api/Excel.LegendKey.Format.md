@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Format Property (Excel)
+title: LegendKey.Format property (Excel)
 keywords: vbaxl10.chm590096
 f1_keywords:
 - vbaxl10.chm590096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Format Property (Excel)
+# LegendKey.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

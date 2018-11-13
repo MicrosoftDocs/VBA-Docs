@@ -1,5 +1,5 @@
 ---
-title: Page.LeftHeader Property (Excel)
+title: Page.LeftHeader property (Excel)
 keywords: vbaxl10.chm830073
 f1_keywords:
 - vbaxl10.chm830073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.LeftHeader Property (Excel)
+# Page.LeftHeader property (Excel)
 
 Specifies a picture or text to be left aligned in the page header.
 

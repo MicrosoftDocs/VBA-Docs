@@ -1,5 +1,5 @@
 ---
-title: XmlNamespace.Uri Property (Excel)
+title: XmlNamespace.Uri property (Excel)
 keywords: vbaxl10.chm744074
 f1_keywords:
 - vbaxl10.chm744074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespace.Uri Property (Excel)
+# XmlNamespace.Uri property (Excel)
 
 Returns a  **String** that represents the Uniform Resource Identifier (URI) for the specified XML namespace. Read-only.
 

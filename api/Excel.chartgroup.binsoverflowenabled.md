@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsOverflowEnabled Property (Excel)
+title: ChartGroup.BinsOverflowEnabled property (Excel)
 keywords: vbaxl10.chm568106
 f1_keywords:
 - vbaxl10.chm568106
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinsOverflowEnabled Property (Excel)
+# ChartGroup.BinsOverflowEnabled property (Excel)
 
 Specifies whether a bin for values above the [BinsOverflowValue](Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.
 

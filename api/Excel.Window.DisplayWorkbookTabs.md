@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayWorkbookTabs Property (Excel)
+title: Window.DisplayWorkbookTabs property (Excel)
 keywords: vbaxl10.chm356089
 f1_keywords:
 - vbaxl10.chm356089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayWorkbookTabs Property (Excel)
+# Window.DisplayWorkbookTabs property (Excel)
 
  **True** if the workbook tabs are displayed. Read/write **Boolean** .
 

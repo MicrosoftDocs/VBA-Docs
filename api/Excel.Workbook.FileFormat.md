@@ -1,5 +1,5 @@
 ---
-title: Workbook.FileFormat Property (Excel)
+title: Workbook.FileFormat property (Excel)
 keywords: vbaxl10.chm199100
 f1_keywords:
 - vbaxl10.chm199100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.FileFormat Property (Excel)
+# Workbook.FileFormat property (Excel)
 
 Returns the file format and/or type of the workbook. Read-only  **[XlFileFormat](Excel.XlFileFormat.md)** .
 

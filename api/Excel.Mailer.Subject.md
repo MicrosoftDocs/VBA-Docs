@@ -1,5 +1,5 @@
 ---
-title: Mailer.Subject Property (Excel)
+title: Mailer.Subject property (Excel)
 keywords: vbaxl10.chm499079
 f1_keywords:
 - vbaxl10.chm499079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.Subject Property (Excel)
+# Mailer.Subject property (Excel)
 
 Returns or sets the subject for the mailer. Read/write  **String** .
 

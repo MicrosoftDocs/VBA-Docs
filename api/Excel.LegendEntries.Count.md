@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Count Property (Excel)
+title: LegendEntries.Count property (Excel)
 keywords: vbaxl10.chm588074
 f1_keywords:
 - vbaxl10.chm588074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries.Count Property (Excel)
+# LegendEntries.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

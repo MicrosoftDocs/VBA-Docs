@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.Dynamic Property (Excel)
+title: CalculatedMember.Dynamic property (Excel)
 keywords: vbaxl10.chm686081
 f1_keywords:
 - vbaxl10.chm686081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.Dynamic Property (Excel)
+# CalculatedMember.Dynamic property (Excel)
 
 Returns whether the specified named set is recalculated with every update. Read-only
 

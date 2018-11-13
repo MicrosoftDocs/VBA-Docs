@@ -1,5 +1,5 @@
 ---
-title: ListObject.Sort Property (Excel)
+title: ListObject.Sort property (Excel)
 keywords: vbaxl10.chm734105
 f1_keywords:
 - vbaxl10.chm734105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Sort Property (Excel)
+# ListObject.Sort property (Excel)
 
 Gets or sets the sort column or columns, and sort order for the  **ListObject** collection.
 

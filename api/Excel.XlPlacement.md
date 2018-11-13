@@ -1,5 +1,5 @@
 ---
-title: XlPlacement Enumeration (Excel)
+title: xlPlacement enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPlacement
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPlacement Enumeration (Excel)
+# xlPlacement enumeration (Excel)
 
 Specifies the way that an object is attached to its underlying cells.
 

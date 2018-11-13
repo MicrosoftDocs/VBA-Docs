@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultSheetDirection Property (Excel)
+title: Application.DefaultSheetDirection property (Excel)
 keywords: vbaxl10.chm133236
 f1_keywords:
 - vbaxl10.chm133236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultSheetDirection Property (Excel)
+# Application.DefaultSheetDirection property (Excel)
 
 Returns or sets the default direction in which Microsoft Excel displays new windows and worksheets. Can be one of the following constants:  **xlRTL** (right to left) or **xlLTR** (left to right). Read/write **Long** .
 

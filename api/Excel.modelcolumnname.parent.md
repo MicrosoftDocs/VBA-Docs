@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName.Parent Property (Excel)
+title: ModelColumnName.Parent property (Excel)
 keywords: vbaxl10.chm961075
 f1_keywords:
 - vbaxl10.chm961075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName.Parent Property (Excel)
+# ModelColumnName.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object. Read-only.
 

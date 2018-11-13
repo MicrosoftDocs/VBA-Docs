@@ -1,5 +1,5 @@
 ---
-title: Range.PivotTable Property (Excel)
+title: Range.PivotTable property (Excel)
 keywords: vbaxl10.chm144177
 f1_keywords:
 - vbaxl10.chm144177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PivotTable Property (Excel)
+# Range.PivotTable property (Excel)
 
 Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable report containing the upper-left corner of the specified range.
 

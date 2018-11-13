@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderVertical Property (Excel)
+title: DataTable.HasBorderVertical property (Excel)
 keywords: vbaxl10.chm626075
 f1_keywords:
 - vbaxl10.chm626075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.HasBorderVertical Property (Excel)
+# DataTable.HasBorderVertical property (Excel)
 
  **True** if the chart data table has vertical cell borders. Read/write **Boolean** .
 

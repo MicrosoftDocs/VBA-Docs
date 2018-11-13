@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (Excel)
+title: LineFormat.InsetPen property (Excel)
 ms.prod: excel
 api_name:
 - Excel.LineFormat.InsetPen
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.InsetPen Property (Excel)
+# LineFormat.InsetPen property (Excel)
 
 Returns or sets whether lines are drawn inside the specified shape's boundaries. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ControlCharacters Property (Excel)
+title: Application.ControlCharacters property (Excel)
 keywords: vbaxl10.chm133238
 f1_keywords:
 - vbaxl10.chm133238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ControlCharacters Property (Excel)
+# Application.ControlCharacters property (Excel)
 
  **True** if Microsoft Excel displays control characters for right-to-left languages. Read/write **Boolean** .
 

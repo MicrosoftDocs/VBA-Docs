@@ -1,5 +1,5 @@
 ---
-title: ColorStops.Count Property (Excel)
+title: ColorStops.Count property (Excel)
 keywords: vbaxl10.chm853073
 f1_keywords:
 - vbaxl10.chm853073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStops.Count Property (Excel)
+# ColorStops.Count property (Excel)
 
 Returns or sets the count of the represented object. Read-only
 

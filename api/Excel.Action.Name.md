@@ -1,5 +1,5 @@
 ---
-title: Action.Name Property (Excel)
+title: Action.Name property (Excel)
 keywords: vbaxl10.chm798073
 f1_keywords:
 - vbaxl10.chm798073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Name Property (Excel)
+# Action.Name property (Excel)
 
 Returns the name of the object. Read-only  **String** .
 

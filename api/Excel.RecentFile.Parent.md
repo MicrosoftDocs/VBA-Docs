@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Parent Property (Excel)
+title: RecentFile.Parent property (Excel)
 keywords: vbaxl10.chm169075
 f1_keywords:
 - vbaxl10.chm169075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Parent Property (Excel)
+# RecentFile.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

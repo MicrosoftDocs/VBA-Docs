@@ -1,5 +1,5 @@
 ---
-title: Model.ModelTables Property (Excel)
+title: Model.ModelTables property (Excel)
 keywords: vbaxl10.chm942073
 f1_keywords:
 - vbaxl10.chm942073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.ModelTables Property (Excel)
+# Model.ModelTables property (Excel)
 
 Returns a collection of tables inside the Data Model. Read-only
 

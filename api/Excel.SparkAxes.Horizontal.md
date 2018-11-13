@@ -1,5 +1,5 @@
 ---
-title: SparkAxes.Horizontal Property (Excel)
+title: SparkAxes.Horizontal property (Excel)
 keywords: vbaxl10.chm877074
 f1_keywords:
 - vbaxl10.chm877074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkAxes.Horizontal Property (Excel)
+# SparkAxes.Horizontal property (Excel)
 
 Returns the  **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object for the specified **[SparkAxes](Excel.SparkAxes.md)** object. Read-only
 

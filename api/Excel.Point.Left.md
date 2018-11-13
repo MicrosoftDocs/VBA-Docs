@@ -1,5 +1,5 @@
 ---
-title: Point.Left Property (Excel)
+title: Point.Left property (Excel)
 keywords: vbaxl10.chm576107
 f1_keywords:
 - vbaxl10.chm576107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Left Property (Excel)
+# Point.Left property (Excel)
 
 Returns a value that represents the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only.
 

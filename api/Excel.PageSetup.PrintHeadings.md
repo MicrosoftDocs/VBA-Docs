@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintHeadings Property (Excel)
+title: PageSetup.PrintHeadings property (Excel)
 keywords: vbaxl10.chm473094
 f1_keywords:
 - vbaxl10.chm473094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintHeadings Property (Excel)
+# PageSetup.PrintHeadings property (Excel)
 
  **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean** .
 

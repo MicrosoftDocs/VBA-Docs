@@ -1,5 +1,5 @@
 ---
-title: PivotCell.CustomSubtotalFunction Property (Excel)
+title: PivotCell.CustomSubtotalFunction property (Excel)
 keywords: vbaxl10.chm692082
 f1_keywords:
 - vbaxl10.chm692082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.CustomSubtotalFunction Property (Excel)
+# PivotCell.CustomSubtotalFunction property (Excel)
 
 Returns the custom subtotal function field setting of a  **PivotCell** object. Read-only **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** .
 

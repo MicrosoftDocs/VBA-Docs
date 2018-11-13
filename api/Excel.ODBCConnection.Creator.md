@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.Creator Property (Excel)
+title: ODBCConnection.Creator property (Excel)
 keywords: vbaxl10.chm795074
 f1_keywords:
 - vbaxl10.chm795074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.Creator Property (Excel)
+# ODBCConnection.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

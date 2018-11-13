@@ -1,5 +1,5 @@
 ---
-title: PivotTable.MDX Property (Excel)
+title: PivotTable.MDX property (Excel)
 keywords: vbaxl10.chm235143
 f1_keywords:
 - vbaxl10.chm235143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.MDX Property (Excel)
+# PivotTable.MDX property (Excel)
 
 Returns a  **String** indicating the Multidimensional Expression (MDX) that would be sent to the provider to populate the current PivotTable view. Read-only.
 

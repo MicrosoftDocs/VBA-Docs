@@ -1,5 +1,5 @@
 ---
-title: Name.ShortcutKey Property (Excel)
+title: Name.ShortcutKey property (Excel)
 keywords: vbaxl10.chm490081
 f1_keywords:
 - vbaxl10.chm490081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.ShortcutKey Property (Excel)
+# Name.ShortcutKey property (Excel)
 
 Returns or sets the shortcut key for a name defined as a custom Microsoft Excel 4.0 macro command. Read/write  **String** .
 

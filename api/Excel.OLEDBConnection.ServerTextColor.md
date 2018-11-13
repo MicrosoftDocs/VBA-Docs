@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ServerTextColor Property (Excel)
+title: OLEDBConnection.ServerTextColor property (Excel)
 keywords: vbaxl10.chm794103
 f1_keywords:
 - vbaxl10.chm794103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ServerTextColor Property (Excel)
+# OLEDBConnection.ServerTextColor property (Excel)
 
  **True** if the text color format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
 

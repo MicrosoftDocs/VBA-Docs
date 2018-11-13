@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLighting Property (Excel)
+title: ThreeDFormat.PresetLighting property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.PresetLighting
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLighting Property (Excel)
+# ThreeDFormat.PresetLighting property (Excel)
 
 Returns or sets the extrusion preset lighting for a  **ThreeDFormat** object. Read-only **[MsoLightRigType](./Office.MsoLightRigType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: UserAccess.Name Property (Excel)
+title: UserAccess.Name property (Excel)
 keywords: vbaxl10.chm727073
 f1_keywords:
 - vbaxl10.chm727073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccess.Name Property (Excel)
+# UserAccess.Name property (Excel)
 
 Returns or sets a  **String** value that represents the name of the object.
 

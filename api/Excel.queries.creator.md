@@ -1,5 +1,5 @@
 ---
-title: Queries.Creator Property (Excel)
+title: Queries.Creator property (Excel)
 keywords: vbaxl10.chm975074
 f1_keywords:
 - vbaxl10.chm975074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.Creator Property (Excel)
+# Queries.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

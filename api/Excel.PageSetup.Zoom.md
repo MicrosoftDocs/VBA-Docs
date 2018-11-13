@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Zoom Property (Excel)
+title: PageSetup.Zoom property (Excel)
 keywords: vbaxl10.chm473103
 f1_keywords:
 - vbaxl10.chm473103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Zoom Property (Excel)
+# PageSetup.Zoom property (Excel)
 
 Returns or sets a  **Variant** value that represents a percentage (between 10 and 400 percent) by which Microsoft Excel will scale the worksheet for printing.
 

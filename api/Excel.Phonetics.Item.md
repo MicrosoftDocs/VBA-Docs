@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Item Property (Excel)
+title: Phonetics.Item property (Excel)
 keywords: vbaxl10.chm658080
 f1_keywords:
 - vbaxl10.chm658080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Item Property (Excel)
+# Phonetics.Item property (Excel)
 
 Returns a single object from a collection.
 

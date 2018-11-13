@@ -1,5 +1,5 @@
 ---
-title: Interior.Pattern Property (Excel)
+title: Interior.Pattern property (Excel)
 keywords: vbaxl10.chm551076
 f1_keywords:
 - vbaxl10.chm551076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Pattern Property (Excel)
+# Interior.Pattern property (Excel)
 
 Returns or sets a  **Variant** value, containing an **[xlPattern](Excel.XlPattern.md)** constant, that represents the interior pattern.
 

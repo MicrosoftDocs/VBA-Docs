@@ -1,5 +1,5 @@
 ---
-title: HPageBreak.Parent Property (Excel)
+title: HPageBreak.Parent property (Excel)
 keywords: vbaxl10.chm159073
 f1_keywords:
 - vbaxl10.chm159073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak.Parent Property (Excel)
+# HPageBreak.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XlPattern Enumeration (Excel)
+title: xlPattern enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPattern
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPattern Enumeration (Excel)
+# xlPattern enumeration (Excel)
 
 Specifies the interior pattern of a chart or interior object.
 

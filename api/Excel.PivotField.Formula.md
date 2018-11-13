@@ -1,5 +1,5 @@
 ---
-title: PivotField.Formula Property (Excel)
+title: PivotField.Formula property (Excel)
 keywords: vbaxl10.chm240107
 f1_keywords:
 - vbaxl10.chm240107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Formula Property (Excel)
+# PivotField.Formula property (Excel)
 
 Returns or sets a  **String** value that represents the object's formula in A1-style notation and in the language of the macro.
 

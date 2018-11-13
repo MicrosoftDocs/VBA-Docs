@@ -1,5 +1,5 @@
 ---
-title: Workbook.SlicerCaches Property (Excel)
+title: Workbook.SlicerCaches property (Excel)
 keywords: vbaxl10.chm199266
 f1_keywords:
 - vbaxl10.chm199266
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SlicerCaches Property (Excel)
+# Workbook.SlicerCaches property (Excel)
 
 Returns the  **[SlicerCaches](Excel.SlicerCaches.md)** object associated with the workbook. Read-only.
 

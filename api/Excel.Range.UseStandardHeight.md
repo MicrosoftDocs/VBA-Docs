@@ -1,5 +1,5 @@
 ---
-title: Range.UseStandardHeight Property (Excel)
+title: Range.UseStandardHeight property (Excel)
 keywords: vbaxl10.chm144213
 f1_keywords:
 - vbaxl10.chm144213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.UseStandardHeight Property (Excel)
+# Range.UseStandardHeight property (Excel)
 
  **True** if the row height of the **Range** object equals the standard height of the sheet. Returns **Null** if the range contains more than one row and the rows aren't all the same height. Read/write **Variant** .
 

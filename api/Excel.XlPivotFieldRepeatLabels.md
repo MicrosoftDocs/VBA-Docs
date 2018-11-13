@@ -1,5 +1,5 @@
 ---
-title: XlPivotFieldRepeatLabels Enumeration (Excel)
+title: xlPivotFieldRepeatLabels enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFieldRepeatLabels
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotFieldRepeatLabels Enumeration (Excel)
+# xlPivotFieldRepeatLabels enumeration (Excel)
 
 Specifies whether to repeat all field item labels in a PivotTable report.
 

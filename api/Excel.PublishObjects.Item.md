@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Item Property (Excel)
+title: PublishObjects.Item property (Excel)
 keywords: vbaxl10.chm650075
 f1_keywords:
 - vbaxl10.chm650075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects.Item Property (Excel)
+# PublishObjects.Item property (Excel)
 
 Returns a single object from a collection.
 

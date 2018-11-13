@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowAutoFilterDropDown Property (Excel)
+title: ListObject.ShowAutoFilterDropDown property (Excel)
 keywords: vbaxl10.chm734112
 f1_keywords:
 - vbaxl10.chm734112
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowAutoFilterDropDown Property (Excel)
+# ListObject.ShowAutoFilterDropDown property (Excel)
 
  **True** when the AutoFilter drop down for the **ListObject** object is displayed. **Boolean** Read/Write
 

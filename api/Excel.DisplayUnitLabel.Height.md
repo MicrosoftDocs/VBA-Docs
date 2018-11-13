@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Height Property (Excel)
+title: DisplayUnitLabel.Height property (Excel)
 keywords: vbaxl10.chm673093
 f1_keywords:
 - vbaxl10.chm673093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Height Property (Excel)
+# DisplayUnitLabel.Height property (Excel)
 
 Returns the height, in points, of the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.MergeArea Property (Excel)
+title: Range.MergeArea property (Excel)
 keywords: vbaxl10.chm144160
 f1_keywords:
 - vbaxl10.chm144160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MergeArea Property (Excel)
+# Range.MergeArea property (Excel)
 
 Returns a  **Range** object that represents the merged range containing the specified cell. If the specified cell isn't in a merged range, this property returns the specified cell. Read-only **Variant** .
 

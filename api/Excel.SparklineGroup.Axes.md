@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Axes Property (Excel)
+title: SparklineGroup.Axes property (Excel)
 keywords: vbaxl10.chm871087
 f1_keywords:
 - vbaxl10.chm871087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Axes Property (Excel)
+# SparklineGroup.Axes property (Excel)
 
 Returns the associated  **[SparkAxes](Excel.SparkAxes.md)** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.CurrentPageList Property (Excel)
+title: PivotField.CurrentPageList property (Excel)
 keywords: vbaxl10.chm240135
 f1_keywords:
 - vbaxl10.chm240135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.CurrentPageList Property (Excel)
+# PivotField.CurrentPageList property (Excel)
 
 Returns or sets an array of strings corresponding to the list of items included in a multiple-item page field of a PivotTable report. Read/write  **Variant** .
 

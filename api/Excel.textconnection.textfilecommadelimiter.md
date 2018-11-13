@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileCommaDelimiter Property (Excel)
+title: TextConnection.TextFileCommaDelimiter property (Excel)
 keywords: vbaxl10.chm926076
 f1_keywords:
 - vbaxl10.chm926076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileCommaDelimiter Property (Excel)
+# TextConnection.TextFileCommaDelimiter property (Excel)
 
  **True** if the comma is the delimiter when you import a text file into a query table. **False** if you want to use some other character as the delimiter. The default value is **False** . Read/Write **Boolean** .
 

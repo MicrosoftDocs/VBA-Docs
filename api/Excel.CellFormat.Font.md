@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Font Property (Excel)
+title: CellFormat.Font property (Excel)
 keywords: vbaxl10.chm676074
 f1_keywords:
 - vbaxl10.chm676074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Font Property (Excel)
+# CellFormat.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object, allowing the user to set or return the search criteria based on the cell's font format.
 

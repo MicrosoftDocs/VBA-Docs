@@ -1,5 +1,5 @@
 ---
-title: Series.InvertColor Property (Excel)
+title: Series.InvertColor property (Excel)
 keywords: vbaxl10.chm578126
 f1_keywords:
 - vbaxl10.chm578126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.InvertColor Property (Excel)
+# Series.InvertColor property (Excel)
 
 Returns or sets the fill color for negative data points in a series. Read/write
 

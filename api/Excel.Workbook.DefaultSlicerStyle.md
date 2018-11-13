@@ -1,5 +1,5 @@
 ---
-title: Workbook.DefaultSlicerStyle Property (Excel)
+title: Workbook.DefaultSlicerStyle property (Excel)
 keywords: vbaxl10.chm199268
 f1_keywords:
 - vbaxl10.chm199268
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DefaultSlicerStyle Property (Excel)
+# Workbook.DefaultSlicerStyle property (Excel)
 
 Specifies the style from the  **[TableStyles](Excel.TableStyles.md)** object that is used as the default style for slicers. Read/write.
 

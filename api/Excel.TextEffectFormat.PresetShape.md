@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetShape Property (Excel)
+title: TextEffectFormat.PresetShape property (Excel)
 keywords: vbaxl10.chm118009
 f1_keywords:
 - vbaxl10.chm118009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.PresetShape Property (Excel)
+# TextEffectFormat.PresetShape property (Excel)
 
 Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape** .
 

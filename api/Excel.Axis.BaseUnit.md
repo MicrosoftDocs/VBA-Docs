@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnit Property (Excel)
+title: Axis.BaseUnit property (Excel)
 keywords: vbaxl10.chm561104
 f1_keywords:
 - vbaxl10.chm561104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.BaseUnit Property (Excel)
+# Axis.BaseUnit property (Excel)
 
 Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](Excel.XlTimeUnit.md)** .
 

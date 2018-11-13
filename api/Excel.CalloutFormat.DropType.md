@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (Excel)
+title: CalloutFormat.DropType property (Excel)
 keywords: vbaxl10.chm104012
 f1_keywords:
 - vbaxl10.chm104012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.DropType Property (Excel)
+# CalloutFormat.DropType property (Excel)
 
 Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](Office.MsoCalloutDropType.md)** .
 

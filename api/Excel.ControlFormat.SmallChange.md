@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.SmallChange Property (Excel)
+title: ControlFormat.SmallChange property (Excel)
 keywords: vbaxl10.chm630089
 f1_keywords:
 - vbaxl10.chm630089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.SmallChange Property (Excel)
+# ControlFormat.SmallChange property (Excel)
 
 Returns or sets the amount that the scroll bar or spinner is incremented or decremented for a line scroll (when the user clicks an arrow). Read/write  **Long** .
 

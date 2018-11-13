@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PaperSize Property (Excel)
+title: PageSetup.PaperSize property (Excel)
 keywords: vbaxl10.chm473091
 f1_keywords:
 - vbaxl10.chm473091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PaperSize Property (Excel)
+# PageSetup.PaperSize property (Excel)
 
 Returns or sets the size of the paper. Read/write [XlPaperSize](Excel.XlPaperSize.md).
 

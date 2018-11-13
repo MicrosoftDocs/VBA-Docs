@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Type Property (Excel)
+title: ColorFormat.Type property (Excel)
 keywords: vbaxl10.chm105004
 f1_keywords:
 - vbaxl10.chm105004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Type Property (Excel)
+# ColorFormat.Type property (Excel)
 
 Returns a  **[MsoColorType](Office.MsoColorType.md)** value that represents the color format type.
 

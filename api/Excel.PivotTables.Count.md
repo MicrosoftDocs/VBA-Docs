@@ -1,5 +1,5 @@
 ---
-title: PivotTables.Count Property (Excel)
+title: PivotTables.Count property (Excel)
 keywords: vbaxl10.chm238073
 f1_keywords:
 - vbaxl10.chm238073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTables.Count Property (Excel)
+# PivotTables.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

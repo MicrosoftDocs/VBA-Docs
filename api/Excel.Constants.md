@@ -1,5 +1,5 @@
 ---
-title: Constants Enumeration (Excel)
+title: Constants enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.Constants
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Constants Enumeration (Excel)
+# Constants enumeration (Excel)
 
 This enumeration groups together constants used with various Excel methods.
 

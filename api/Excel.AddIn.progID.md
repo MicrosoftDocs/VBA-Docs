@@ -1,5 +1,5 @@
 ---
-title: AddIn.progID Property (Excel)
+title: AddIn.progID property (Excel)
 keywords: vbaxl10.chm185082
 f1_keywords:
 - vbaxl10.chm185082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.progID Property (Excel)
+# AddIn.progID property (Excel)
 
 Returns the programmatic identifiers for the object. Read-only  **String** .
 

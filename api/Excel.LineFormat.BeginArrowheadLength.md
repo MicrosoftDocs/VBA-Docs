@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (Excel)
+title: LineFormat.BeginArrowheadLength property (Excel)
 keywords: vbaxl10.chm110003
 f1_keywords:
 - vbaxl10.chm110003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.BeginArrowheadLength Property (Excel)
+# LineFormat.BeginArrowheadLength property (Excel)
 
 Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Font.ColorIndex Property (Excel)
+title: Font.ColorIndex property (Excel)
 keywords: vbaxl10.chm559076
 f1_keywords:
 - vbaxl10.chm559076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ColorIndex Property (Excel)
+# Font.ColorIndex property (Excel)
 
 Returns or sets a  **Variant** value that represents the color of the font.
 

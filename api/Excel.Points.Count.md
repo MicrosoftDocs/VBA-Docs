@@ -1,5 +1,5 @@
 ---
-title: Points.Count Property (Excel)
+title: Points.Count property (Excel)
 keywords: vbaxl10.chm574074
 f1_keywords:
 - vbaxl10.chm574074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points.Count Property (Excel)
+# Points.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

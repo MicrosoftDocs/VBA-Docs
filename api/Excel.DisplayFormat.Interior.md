@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Interior Property (Excel)
+title: DisplayFormat.Interior property (Excel)
 keywords: vbaxl10.chm893081
 f1_keywords:
 - vbaxl10.chm893081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Interior Property (Excel)
+# DisplayFormat.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the associated **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

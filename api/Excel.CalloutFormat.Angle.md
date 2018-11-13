@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Angle Property (Excel)
+title: CalloutFormat.Angle property (Excel)
 keywords: vbaxl10.chm104007
 f1_keywords:
 - vbaxl10.chm104007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Angle Property (Excel)
+# CalloutFormat.Angle property (Excel)
 
 Returns or sets the angle of the callout line. If the callout line contains more than one line segment, this property returns or sets the angle of the segment that is farthest from the callout text box. Read/write  **[MsoCalloutAngleType](Office.MsoCalloutAngleType.md)** .
 

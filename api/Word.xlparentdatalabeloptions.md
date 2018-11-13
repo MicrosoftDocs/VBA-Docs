@@ -1,12 +1,12 @@
 ---
-title: XlParentDataLabelOptions Enumeration (Word)
+title: xlParentDataLabelOptions Enumeration (Word)
 ms.assetid: c83fe64d-5a14-74b5-5847-62cba83805b0
 ms.prod: word
 ms.date: 06/08/2017
 ---
 
 
-# XlParentDataLabelOptions Enumeration (Word)
+# xlParentDataLabelOptions Enumeration (Word)
 
 Constants passed to and returned by the  **Series.ParentDataLabelOption** property.
 

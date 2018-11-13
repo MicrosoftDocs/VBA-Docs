@@ -1,5 +1,5 @@
 ---
-title: Workbook.PersonalViewPrintSettings Property (Excel)
+title: Workbook.PersonalViewPrintSettings property (Excel)
 keywords: vbaxl10.chm199123
 f1_keywords:
 - vbaxl10.chm199123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PersonalViewPrintSettings Property (Excel)
+# Workbook.PersonalViewPrintSettings property (Excel)
 
  **True** if print settings are included in the user's personal view of the shared workbook. Read-write **Boolean** .
 

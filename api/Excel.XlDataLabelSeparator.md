@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelSeparator Enumeration (Excel)
+title: xlDataLabelSeparator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataLabelSeparator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelSeparator Enumeration (Excel)
+# xlDataLabelSeparator enumeration (Excel)
 
 Specifies the separator used with data labels.
 

@@ -1,5 +1,5 @@
 ---
-title: TableObject.PreserveColumnInfo Property (Excel)
+title: TableObject.PreserveColumnInfo property (Excel)
 keywords: vbaxl10.chm916082
 f1_keywords:
 - vbaxl10.chm916082
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.PreserveColumnInfo Property (Excel)
+# TableObject.PreserveColumnInfo property (Excel)
 
 Specifies if column sorting, filtering, and layout information is preserved whenever a query table is refreshed. The default value is  **False** . **Boolean** Read/Write
 

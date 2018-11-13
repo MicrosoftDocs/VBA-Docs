@@ -1,5 +1,5 @@
 ---
-title: Application.Cells Property (Excel)
+title: Application.Cells property (Excel)
 keywords: vbaxl10.chm183085
 f1_keywords:
 - vbaxl10.chm183085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Cells Property (Excel)
+# Application.Cells property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells on the active worksheet. If the active document is not a worksheet, this property fails.
 

@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Count Property (Excel)
+title: Scenarios.Count property (Excel)
 keywords: vbaxl10.chm362074
 f1_keywords:
 - vbaxl10.chm362074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Count Property (Excel)
+# Scenarios.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

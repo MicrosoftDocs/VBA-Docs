@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.RussianStrictE Property (Excel)
+title: SpellingOptions.RussianStrictE property (Excel)
 keywords: vbaxl10.chm717088
 f1_keywords:
 - vbaxl10.chm717088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.RussianStrictE Property (Excel)
+# SpellingOptions.RussianStrictE property (Excel)
 
 Returns or sets whether the spelling checker uses rules regarding Russian words containing the character ë. Read/write
 

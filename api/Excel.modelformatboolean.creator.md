@@ -1,5 +1,5 @@
 ---
-title: ModelFormatBoolean.Creator Property (Excel)
+title: ModelFormatBoolean.Creator property (Excel)
 keywords: vbaxl10.chm995074
 f1_keywords:
 - vbaxl10.chm995074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatBoolean.Creator Property (Excel)
+# ModelFormatBoolean.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

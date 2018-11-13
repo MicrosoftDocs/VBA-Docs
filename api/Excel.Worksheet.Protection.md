@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Protection Property (Excel)
+title: Worksheet.Protection property (Excel)
 keywords: vbaxl10.chm175154
 f1_keywords:
 - vbaxl10.chm175154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Protection Property (Excel)
+# Worksheet.Protection property (Excel)
 
 Returns a  **[Protection](Excel.Protection.md)** object that represents the protection options of the worksheet.
 

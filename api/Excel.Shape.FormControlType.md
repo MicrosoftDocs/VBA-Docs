@@ -1,5 +1,5 @@
 ---
-title: Shape.FormControlType Property (Excel)
+title: Shape.FormControlType property (Excel)
 keywords: vbaxl10.chm636131
 f1_keywords:
 - vbaxl10.chm636131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.FormControlType Property (Excel)
+# Shape.FormControlType property (Excel)
 
 Returns the Microsoft Excel control type. Read-only  **[XlFormControl](Excel.XlFormControl.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.TransitionMenuKeyAction Property (Excel)
+title: Application.TransitionMenuKeyAction property (Excel)
 keywords: vbaxl10.chm133219
 f1_keywords:
 - vbaxl10.chm133219
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TransitionMenuKeyAction Property (Excel)
+# Application.TransitionMenuKeyAction property (Excel)
 
 Returns or sets the action taken when the Microsoft Excel menu key is pressed. Can be either  **xlExcelMenus** or **xlLotusHelp** . Read/write **Long** .
 

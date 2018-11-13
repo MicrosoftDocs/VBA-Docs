@@ -1,5 +1,5 @@
 ---
-title: Chart.RightAngleAxes Property (Excel)
+title: Chart.RightAngleAxes property (Excel)
 keywords: vbaxl10.chm149138
 f1_keywords:
 - vbaxl10.chm149138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.RightAngleAxes Property (Excel)
+# Chart.RightAngleAxes property (Excel)
 
  **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write **Boolean** .
 

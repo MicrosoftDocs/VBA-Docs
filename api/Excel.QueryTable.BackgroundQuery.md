@@ -1,5 +1,5 @@
 ---
-title: QueryTable.BackgroundQuery Property (Excel)
+title: QueryTable.BackgroundQuery property (Excel)
 keywords: vbaxl10.chm518081
 f1_keywords:
 - vbaxl10.chm518081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.BackgroundQuery Property (Excel)
+# QueryTable.BackgroundQuery property (Excel)
 
  **True** if queries for the query table are performed asynchronously (in the background). Read/write **Boolean** .
 

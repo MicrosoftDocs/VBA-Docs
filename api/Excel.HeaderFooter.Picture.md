@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Picture Property (Excel)
+title: HeaderFooter.Picture property (Excel)
 keywords: vbaxl10.chm829074
 f1_keywords:
 - vbaxl10.chm829074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Picture Property (Excel)
+# HeaderFooter.Picture property (Excel)
 
 Returns a  **Picture** object that represents a picture field included in the specified header or footer. Read-only.
 

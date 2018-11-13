@@ -1,5 +1,5 @@
 ---
-title: Style.NameLocal Property (Excel)
+title: Style.NameLocal property (Excel)
 keywords: vbaxl10.chm177091
 f1_keywords:
 - vbaxl10.chm177091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NameLocal Property (Excel)
+# Style.NameLocal property (Excel)
 
 Returns or sets the name of the object, in the language of the user. Read-only  **String** .
 

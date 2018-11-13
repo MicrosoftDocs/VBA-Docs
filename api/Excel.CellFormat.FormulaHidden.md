@@ -1,5 +1,5 @@
 ---
-title: CellFormat.FormulaHidden Property (Excel)
+title: CellFormat.FormulaHidden property (Excel)
 keywords: vbaxl10.chm676086
 f1_keywords:
 - vbaxl10.chm676086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.FormulaHidden Property (Excel)
+# CellFormat.FormulaHidden property (Excel)
 
 Returns or sets a  **Variant** value that indicates if the formula will be hidden when the worksheet is protected.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Application Property (Excel)
+title: ColorStop.Application property (Excel)
 keywords: vbaxl10.chm850073
 f1_keywords:
 - vbaxl10.chm850073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Application Property (Excel)
+# ColorStop.Application property (Excel)
 
 When used without an object qualifier, this property returns an  **Application** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 

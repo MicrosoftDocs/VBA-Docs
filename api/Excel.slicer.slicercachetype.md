@@ -1,5 +1,5 @@
 ---
-title: Slicer.SlicerCacheType Property (Excel)
+title: Slicer.SlicerCacheType property (Excel)
 keywords: vbaxl10.chm905094
 f1_keywords:
 - vbaxl10.chm905094
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.SlicerCacheType Property (Excel)
+# Slicer.SlicerCacheType property (Excel)
 
 Returns the type of the slicer cache - slicer or timeline.  **XlSlicerCacheType** Read-only
 

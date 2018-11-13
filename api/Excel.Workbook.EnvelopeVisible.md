@@ -1,5 +1,5 @@
 ---
-title: Workbook.EnvelopeVisible Property (Excel)
+title: Workbook.EnvelopeVisible property (Excel)
 keywords: vbaxl10.chm199191
 f1_keywords:
 - vbaxl10.chm199191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.EnvelopeVisible Property (Excel)
+# Workbook.EnvelopeVisible property (Excel)
 
  **True** if the e-mail composition header and the envelope toolbar are both visible. Read/write **Boolean** .
 

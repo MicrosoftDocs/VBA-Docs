@@ -1,5 +1,5 @@
 ---
-title: PivotField.PropertyOrder Property (Excel)
+title: PivotField.PropertyOrder property (Excel)
 keywords: vbaxl10.chm240133
 f1_keywords:
 - vbaxl10.chm240133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.PropertyOrder Property (Excel)
+# PivotField.PropertyOrder property (Excel)
 
 Valid only for PivotTable fields that are member property fields. Returns a  **Long** indicating the display position of the member property within the cube field to which it belongs. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.ParentMember Property (Excel)
+title: CalculatedMember.ParentMember property (Excel)
 keywords: vbaxl10.chm686087
 f1_keywords:
 - vbaxl10.chm686087
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.ParentMember Property (Excel)
+# CalculatedMember.ParentMember property (Excel)
 
 Returns the name of the parent member for the parent hierarchy.  **String** Read-only
 

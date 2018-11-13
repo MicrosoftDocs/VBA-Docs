@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.ListObject Property (Excel)
+title: SlicerCache.ListObject property (Excel)
 keywords: vbaxl10.chm897097
 f1_keywords:
 - vbaxl10.chm897097
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.ListObject Property (Excel)
+# SlicerCache.ListObject property (Excel)
 
 Returns a  **ListObject** object for the [QueryTable Object (Excel)](Excel.QueryTable.md) object. Read-only
 

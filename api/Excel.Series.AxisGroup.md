@@ -1,5 +1,5 @@
 ---
-title: Series.AxisGroup Property (Excel)
+title: Series.AxisGroup property (Excel)
 keywords: vbaxl10.chm578075
 f1_keywords:
 - vbaxl10.chm578075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.AxisGroup Property (Excel)
+# Series.AxisGroup property (Excel)
 
 Returns or sets the group for the specified series. Read/write
 

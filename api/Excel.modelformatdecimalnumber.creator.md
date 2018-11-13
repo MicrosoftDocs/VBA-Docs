@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDecimalNumber.Creator Property (Excel)
+title: ModelFormatDecimalNumber.Creator property (Excel)
 keywords: vbaxl10.chm985074
 f1_keywords:
 - vbaxl10.chm985074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDecimalNumber.Creator Property (Excel)
+# ModelFormatDecimalNumber.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Placement Property (Excel)
+title: OLEObjects.Placement property (Excel)
 keywords: vbaxl10.chm419085
 f1_keywords:
 - vbaxl10.chm419085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Placement Property (Excel)
+# OLEObjects.Placement property (Excel)
 
 Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
 

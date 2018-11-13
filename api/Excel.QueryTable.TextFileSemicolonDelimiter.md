@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileSemicolonDelimiter Property (Excel)
+title: QueryTable.TextFileSemicolonDelimiter property (Excel)
 keywords: vbaxl10.chm518104
 f1_keywords:
 - vbaxl10.chm518104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileSemicolonDelimiter Property (Excel)
+# QueryTable.TextFileSemicolonDelimiter property (Excel)
 
  **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlDelimited** . The default value is **False** . Read/write **Boolean** .
 

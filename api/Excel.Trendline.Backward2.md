@@ -1,5 +1,5 @@
 ---
-title: Trendline.Backward2 Property (Excel)
+title: Trendline.Backward2 property (Excel)
 keywords: vbaxl10.chm594091
 f1_keywords:
 - vbaxl10.chm594091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Backward2 Property (Excel)
+# Trendline.Backward2 property (Excel)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Double** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotLineCells.Count Property (Excel)
+title: PivotLineCells.Count property (Excel)
 keywords: vbaxl10.chm762076
 f1_keywords:
 - vbaxl10.chm762076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLineCells.Count Property (Excel)
+# PivotLineCells.Count property (Excel)
 
 Returns the number of items in the  **PivotLineCells** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AddIn.Name Property (Excel)
+title: AddIn.Name property (Excel)
 keywords: vbaxl10.chm185078
 f1_keywords:
 - vbaxl10.chm185078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Name Property (Excel)
+# AddIn.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

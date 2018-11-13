@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.VisibleSlicerItemsList Property (Excel)
+title: SlicerCache.VisibleSlicerItemsList property (Excel)
 keywords: vbaxl10.chm897082
 f1_keywords:
 - vbaxl10.chm897082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.VisibleSlicerItemsList Property (Excel)
+# SlicerCache.VisibleSlicerItemsList property (Excel)
 
 Returns or sets the list of MDX unique names for members at all levels of the hierarchy where manual filtering is applied. Read/write
 

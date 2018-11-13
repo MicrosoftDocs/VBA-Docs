@@ -1,5 +1,5 @@
 ---
-title: Workbook.Excel4MacroSheets Property (Excel)
+title: Workbook.Excel4MacroSheets property (Excel)
 keywords: vbaxl10.chm199170
 f1_keywords:
 - vbaxl10.chm199170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Excel4MacroSheets Property (Excel)
+# Workbook.Excel4MacroSheets property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the Microsoft Excel 4.0 macro sheets in the specified workbook. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.SplitColumn Property (Excel)
+title: Window.SplitColumn property (Excel)
 keywords: vbaxl10.chm356112
 f1_keywords:
 - vbaxl10.chm356112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SplitColumn Property (Excel)
+# Window.SplitColumn property (Excel)
 
 Returns or sets the column number where the window is split into panes (the number of columns to the left of the split line). Read/write  **Long** .
 

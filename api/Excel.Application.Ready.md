@@ -1,5 +1,5 @@
 ---
-title: Application.Ready Property (Excel)
+title: Application.Ready property (Excel)
 keywords: vbaxl10.chm133260
 f1_keywords:
 - vbaxl10.chm133260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Ready Property (Excel)
+# Application.Ready property (Excel)
 
 Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean** .
 

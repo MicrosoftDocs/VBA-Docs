@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebDisableDateRecognition Property (Excel)
+title: QueryTable.WebDisableDateRecognition property (Excel)
 keywords: vbaxl10.chm518127
 f1_keywords:
 - vbaxl10.chm518127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebDisableDateRecognition Property (Excel)
+# QueryTable.WebDisableDateRecognition property (Excel)
 
  **True** if data that resembles dates is parsed as text when you import a Web page into a query table. **False** if date recognition is used. The default value is **False** . Read/write **Boolean** .
 

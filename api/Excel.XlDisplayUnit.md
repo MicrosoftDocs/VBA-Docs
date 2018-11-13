@@ -1,5 +1,5 @@
 ---
-title: XlDisplayUnit Enumeration (Excel)
+title: xlDisplayUnit enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDisplayUnit
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDisplayUnit Enumeration (Excel)
+# xlDisplayUnit enumeration (Excel)
 
 Specifies the display unit label for an axis.
 

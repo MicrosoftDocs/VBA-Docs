@@ -1,5 +1,5 @@
 ---
-title: PivotField.DisplayAsCaption Property (Excel)
+title: PivotField.DisplayAsCaption property (Excel)
 keywords: vbaxl10.chm240143
 f1_keywords:
 - vbaxl10.chm240143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DisplayAsCaption Property (Excel)
+# PivotField.DisplayAsCaption property (Excel)
 
 This property is used to display member properties of PivotFields as captions. Read-only.
 

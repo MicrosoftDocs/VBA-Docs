@@ -1,5 +1,5 @@
 ---
-title: Application.PrintCommunication Property (Excel)
+title: Application.PrintCommunication property (Excel)
 keywords: vbaxl10.chm133323
 f1_keywords:
 - vbaxl10.chm133323
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PrintCommunication Property (Excel)
+# Application.PrintCommunication property (Excel)
 
 Specifies whether communication with the printer is turned on.  **Boolean** Read/write
 

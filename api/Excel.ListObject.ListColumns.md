@@ -1,5 +1,5 @@
 ---
-title: ListObject.ListColumns Property (Excel)
+title: ListObject.ListColumns property (Excel)
 keywords: vbaxl10.chm734086
 f1_keywords:
 - vbaxl10.chm734086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ListColumns Property (Excel)
+# ListObject.ListColumns property (Excel)
 
 Returns a  **[ListColumns](Excel.ListColumns.md)** collection that represents all the columns in a **[ListObject](Excel.ListObject.md)** object. Read-only.
 

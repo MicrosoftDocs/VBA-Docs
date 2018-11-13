@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Priority Property (Excel)
+title: IconSetCondition.Priority property (Excel)
 keywords: vbaxl10.chm812073
 f1_keywords:
 - vbaxl10.chm812073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.Priority Property (Excel)
+# IconSetCondition.Priority property (Excel)
 
 Returns or sets the priority value of the conditional formatting rule. The priority determines the order of evaluation when multiple conditional formatting rules exist in a worksheet.
 

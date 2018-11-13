@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Orientation Property (Excel)
+title: DataLabels.Orientation property (Excel)
 keywords: vbaxl10.chm584085
 f1_keywords:
 - vbaxl10.chm584085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Orientation Property (Excel)
+# DataLabels.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 

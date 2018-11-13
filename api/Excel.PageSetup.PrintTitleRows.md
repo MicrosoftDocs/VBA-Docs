@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintTitleRows Property (Excel)
+title: PageSetup.PrintTitleRows property (Excel)
 keywords: vbaxl10.chm473098
 f1_keywords:
 - vbaxl10.chm473098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintTitleRows Property (Excel)
+# PageSetup.PrintTitleRows property (Excel)
 
 Returns or sets the rows that contain the cells to be repeated at the top of each page, as a string in A1-style notation in the language of the macro. Read/write  **String** .
 

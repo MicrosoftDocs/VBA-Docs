@@ -1,5 +1,5 @@
 ---
-title: Range.Name Property (Excel)
+title: Range.Name property (Excel)
 keywords: vbaxl10.chm144162
 f1_keywords:
 - vbaxl10.chm144162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Name Property (Excel)
+# Range.Name property (Excel)
 
 Returns or sets a  **Variant** value that represents the name of the object.
 

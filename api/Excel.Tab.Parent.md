@@ -1,5 +1,5 @@
 ---
-title: Tab.Parent Property (Excel)
+title: Tab.Parent property (Excel)
 keywords: vbaxl10.chm722075
 f1_keywords:
 - vbaxl10.chm722075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tab.Parent Property (Excel)
+# Tab.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

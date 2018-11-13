@@ -1,5 +1,5 @@
 ---
-title: LinearGradient.Parent Property (Excel)
+title: LinearGradient.Parent property (Excel)
 keywords: vbaxl10.chm854075
 f1_keywords:
 - vbaxl10.chm854075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinearGradient.Parent Property (Excel)
+# LinearGradient.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only
 

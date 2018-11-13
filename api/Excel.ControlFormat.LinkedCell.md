@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.LinkedCell Property (Excel)
+title: ControlFormat.LinkedCell property (Excel)
 keywords: vbaxl10.chm630079
 f1_keywords:
 - vbaxl10.chm630079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.LinkedCell Property (Excel)
+# ControlFormat.LinkedCell property (Excel)
 
 Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write  **String** .
 

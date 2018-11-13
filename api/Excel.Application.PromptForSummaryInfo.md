@@ -1,5 +1,5 @@
 ---
-title: Application.PromptForSummaryInfo Property (Excel)
+title: Application.PromptForSummaryInfo property (Excel)
 keywords: vbaxl10.chm133193
 f1_keywords:
 - vbaxl10.chm133193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PromptForSummaryInfo Property (Excel)
+# Application.PromptForSummaryInfo property (Excel)
 
  **True** if Microsoft Excel asks for summary information when files are first saved. Read/write **Boolean** .
 

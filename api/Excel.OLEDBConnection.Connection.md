@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Connection Property (Excel)
+title: OLEDBConnection.Connection property (Excel)
 keywords: vbaxl10.chm794078
 f1_keywords:
 - vbaxl10.chm794078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.Connection Property (Excel)
+# OLEDBConnection.Connection property (Excel)
 
 Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant** .
 

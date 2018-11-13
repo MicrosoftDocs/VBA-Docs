@@ -1,5 +1,5 @@
 ---
-title: Application.AddIns2 Property (Excel)
+title: Application.AddIns2 property (Excel)
 keywords: vbaxl10.chm133322
 f1_keywords:
 - vbaxl10.chm133322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddIns2 Property (Excel)
+# Application.AddIns2 property (Excel)
 
 Returns an  **[AddIns2](Excel.AddIns2.md)** collection that represents all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed. Read-only
 

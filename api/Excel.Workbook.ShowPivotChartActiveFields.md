@@ -1,5 +1,5 @@
 ---
-title: Workbook.ShowPivotChartActiveFields Property (Excel)
+title: Workbook.ShowPivotChartActiveFields property (Excel)
 keywords: vbaxl10.chm199259
 f1_keywords:
 - vbaxl10.chm199259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ShowPivotChartActiveFields Property (Excel)
+# Workbook.ShowPivotChartActiveFields property (Excel)
 
 This property controls the visibility of the PivotChart Filter Pane. Read/write  **Boolean** .
 

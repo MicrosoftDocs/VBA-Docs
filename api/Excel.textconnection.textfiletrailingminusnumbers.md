@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileTrailingMinusNumbers Property (Excel)
+title: TextConnection.TextFileTrailingMinusNumbers property (Excel)
 keywords: vbaxl10.chm926090
 f1_keywords:
 - vbaxl10.chm926090
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileTrailingMinusNumbers Property (Excel)
+# TextConnection.TextFileTrailingMinusNumbers property (Excel)
 
  **True** for Microsoft Excel to treat numbers imported as text that begin with a " **-** " symbol as a negative symbol. **False** for Excel to treat numbers imported as text that begin with a " **-** " symbol as text. Read/Write **Boolean**
 

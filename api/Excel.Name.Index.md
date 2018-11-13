@@ -1,5 +1,5 @@
 ---
-title: Name.Index Property (Excel)
+title: Name.Index property (Excel)
 keywords: vbaxl10.chm490074
 f1_keywords:
 - vbaxl10.chm490074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.Index Property (Excel)
+# Name.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

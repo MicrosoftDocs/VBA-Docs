@@ -1,5 +1,5 @@
 ---
-title: SparkVerticalAxis.CustomMaxScaleValue Property (Excel)
+title: SparkVerticalAxis.CustomMaxScaleValue property (Excel)
 keywords: vbaxl10.chm881076
 f1_keywords:
 - vbaxl10.chm881076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkVerticalAxis.CustomMaxScaleValue Property (Excel)
+# SparkVerticalAxis.CustomMaxScaleValue property (Excel)
 
 Returns or sets the custom maximum value for the vertical axis of a sparkline. Read/write
 

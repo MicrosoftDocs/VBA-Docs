@@ -1,5 +1,5 @@
 ---
-title: Application.StartupPath Property (Excel)
+title: Application.StartupPath property (Excel)
 keywords: vbaxl10.chm133212
 f1_keywords:
 - vbaxl10.chm133212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StartupPath Property (Excel)
+# Application.StartupPath property (Excel)
 
 Returns the complete path of the startup folder, excluding the final separator. Read-only  **String** .
 

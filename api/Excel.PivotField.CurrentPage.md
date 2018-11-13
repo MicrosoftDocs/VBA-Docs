@@ -1,5 +1,5 @@
 ---
-title: PivotField.CurrentPage Property (Excel)
+title: PivotField.CurrentPage property (Excel)
 keywords: vbaxl10.chm240077
 f1_keywords:
 - vbaxl10.chm240077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.CurrentPage Property (Excel)
+# PivotField.CurrentPage property (Excel)
 
 Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)** .
 

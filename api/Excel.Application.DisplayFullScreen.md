@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayFullScreen Property (Excel)
+title: Application.DisplayFullScreen property (Excel)
 keywords: vbaxl10.chm133121
 f1_keywords:
 - vbaxl10.chm133121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayFullScreen Property (Excel)
+# Application.DisplayFullScreen property (Excel)
 
  **True** if Microsoft Excel is in full-screen mode. Read/write **Boolean** .
 

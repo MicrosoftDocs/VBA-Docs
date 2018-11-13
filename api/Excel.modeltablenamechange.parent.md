@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChange.Parent Property (Excel)
+title: ModelTableNameChange.Parent property (Excel)
 keywords: vbaxl10.chm955075
 f1_keywords:
 - vbaxl10.chm955075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChange.Parent Property (Excel)
+# ModelTableNameChange.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) object. Read-only.
 

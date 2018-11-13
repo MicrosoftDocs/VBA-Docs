@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileHeaderRow Property (Excel)
+title: TextConnection.TextFileHeaderRow property (Excel)
 keywords: vbaxl10.chm926074
 f1_keywords:
 - vbaxl10.chm926074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileHeaderRow Property (Excel)
+# TextConnection.TextFileHeaderRow property (Excel)
 
 Returns or sets value that specifies whether or not the first row (from the starting row) should be treated as a header row.  **Boolean** Read/Write
 

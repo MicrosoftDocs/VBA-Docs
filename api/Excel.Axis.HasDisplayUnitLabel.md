@@ -1,5 +1,5 @@
 ---
-title: Axis.HasDisplayUnitLabel Property (Excel)
+title: Axis.HasDisplayUnitLabel property (Excel)
 keywords: vbaxl10.chm561115
 f1_keywords:
 - vbaxl10.chm561115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.HasDisplayUnitLabel Property (Excel)
+# Axis.HasDisplayUnitLabel property (Excel)
 
  **True** if the label specified by the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Excel.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default value is **True** . Read/write **Boolean** .
 

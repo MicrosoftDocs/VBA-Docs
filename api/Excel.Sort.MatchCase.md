@@ -1,5 +1,5 @@
 ---
-title: Sort.MatchCase Property (Excel)
+title: Sort.MatchCase property (Excel)
 keywords: vbaxl10.chm847075
 f1_keywords:
 - vbaxl10.chm847075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.MatchCase Property (Excel)
+# Sort.MatchCase property (Excel)
 
 Set to  **True** to perform a case-sensitive sort or set to **False** to perform non-case sensitive sort. Read/write.
 

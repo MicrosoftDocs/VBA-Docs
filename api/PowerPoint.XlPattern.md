@@ -1,5 +1,5 @@
 ---
-title: XlPattern Enumeration (PowerPoint)
+title: xlPattern Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlPattern
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPattern Enumeration (PowerPoint)
+# xlPattern Enumeration (PowerPoint)
 
 Specifies the interior pattern of a chart or interior object.
 

@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.ScreenSize Property (Excel)
+title: DefaultWebOptions.ScreenSize property (Excel)
 keywords: vbaxl10.chm660083
 f1_keywords:
 - vbaxl10.chm660083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.ScreenSize Property (Excel)
+# DefaultWebOptions.ScreenSize property (Excel)
 
 Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a Web browser. Can be one of the  **[MsoScreenSize](Office.MsoScreenSize.md)** constants. The default constant is **msoScreenSize800x600** . Read/write **MsoScreenSize** .
 

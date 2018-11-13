@@ -1,5 +1,5 @@
 ---
-title: XmlSchemas.Count Property (Excel)
+title: XmlSchemas.Count property (Excel)
 keywords: vbaxl10.chm752075
 f1_keywords:
 - vbaxl10.chm752075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchemas.Count Property (Excel)
+# XmlSchemas.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

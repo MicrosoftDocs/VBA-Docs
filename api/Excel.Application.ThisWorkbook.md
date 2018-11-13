@@ -1,5 +1,5 @@
 ---
-title: Application.ThisWorkbook Property (Excel)
+title: Application.ThisWorkbook property (Excel)
 keywords: vbaxl10.chm183111
 f1_keywords:
 - vbaxl10.chm183111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ThisWorkbook Property (Excel)
+# Application.ThisWorkbook property (Excel)
 
 Returns a  **[Workbook](Excel.Workbook.md)** object that represents the workbook where the current macro code is running. Read-only.
 

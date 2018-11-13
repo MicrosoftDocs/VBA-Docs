@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (Excel)
+title: PictureFormat.CropTop property (Excel)
 keywords: vbaxl10.chm113008
 f1_keywords:
 - vbaxl10.chm113008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropTop Property (Excel)
+# PictureFormat.CropTop property (Excel)
 
 Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: XmlSchemas.Parent Property (Excel)
+title: XmlSchemas.Parent property (Excel)
 keywords: vbaxl10.chm751075
 f1_keywords:
 - vbaxl10.chm751075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchemas.Parent Property (Excel)
+# XmlSchemas.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

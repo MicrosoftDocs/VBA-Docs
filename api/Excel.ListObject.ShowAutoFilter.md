@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowAutoFilter Property (Excel)
+title: ListObject.ShowAutoFilter property (Excel)
 keywords: vbaxl10.chm734091
 f1_keywords:
 - vbaxl10.chm734091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowAutoFilter Property (Excel)
+# ListObject.ShowAutoFilter property (Excel)
 
  Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean** .
 

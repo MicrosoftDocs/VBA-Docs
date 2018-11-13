@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.ListIndex Property (Excel)
+title: ControlFormat.ListIndex property (Excel)
 keywords: vbaxl10.chm630083
 f1_keywords:
 - vbaxl10.chm630083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.ListIndex Property (Excel)
+# ControlFormat.ListIndex property (Excel)
 
 Returns or sets the index number of the currently selected item in a list box or combo box. Read/write  **Long** .
 

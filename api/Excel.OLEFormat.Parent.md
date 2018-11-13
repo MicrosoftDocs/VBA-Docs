@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Parent Property (Excel)
+title: OLEFormat.Parent property (Excel)
 keywords: vbaxl10.chm631075
 f1_keywords:
 - vbaxl10.chm631075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Parent Property (Excel)
+# OLEFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

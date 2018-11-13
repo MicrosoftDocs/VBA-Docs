@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.SaveHiddenData Property (Excel)
+title: DefaultWebOptions.SaveHiddenData property (Excel)
 keywords: vbaxl10.chm660074
 f1_keywords:
 - vbaxl10.chm660074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.SaveHiddenData Property (Excel)
+# DefaultWebOptions.SaveHiddenData property (Excel)
 
  **True** if data outside of the specified range is saved when you save the document as a Web page. This data may be necessary for maintaining formulas. **False** if data outside of the specified range is not saved with the Web page. The default value is **True** . Read/write **Boolean** .
 

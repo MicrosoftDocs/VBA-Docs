@@ -1,5 +1,5 @@
 ---
-title: CubeField.Orientation Property (Excel)
+title: CubeField.Orientation property (Excel)
 keywords: vbaxl10.chm668077
 f1_keywords:
 - vbaxl10.chm668077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Orientation Property (Excel)
+# CubeField.Orientation property (Excel)
 
 Returns or sets a  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** value that represents the location of the field in the specified PivotTable report.
 

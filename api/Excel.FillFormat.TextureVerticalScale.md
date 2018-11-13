@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureVerticalScale Property (Excel)
+title: FillFormat.TextureVerticalScale property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureVerticalScale
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureVerticalScale Property (Excel)
+# FillFormat.TextureVerticalScale property (Excel)
 
 Returns the texture vertical scale for the specified fill. Read/write  **Single** .
 

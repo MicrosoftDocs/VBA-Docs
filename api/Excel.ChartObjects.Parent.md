@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Parent Property (Excel)
+title: ChartObjects.Parent property (Excel)
 keywords: vbaxl10.chm497073
 f1_keywords:
 - vbaxl10.chm497073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Parent Property (Excel)
+# ChartObjects.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

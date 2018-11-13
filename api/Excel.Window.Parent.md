@@ -1,5 +1,5 @@
 ---
-title: Window.Parent Property (Excel)
+title: Window.Parent property (Excel)
 keywords: vbaxl10.chm355075
 f1_keywords:
 - vbaxl10.chm355075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Parent Property (Excel)
+# Window.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

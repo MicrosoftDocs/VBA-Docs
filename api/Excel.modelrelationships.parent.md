@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Parent Property (Excel)
+title: ModelRelationships.Parent property (Excel)
 keywords: vbaxl10.chm939075
 f1_keywords:
 - vbaxl10.chm939075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Parent Property (Excel)
+# ModelRelationships.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelRelationships Object (Excel)](Excel.modelrelationships.md) object. Read-only.
 

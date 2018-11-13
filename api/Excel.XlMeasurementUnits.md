@@ -1,5 +1,5 @@
 ---
-title: XlMeasurementUnits Enumeration (Excel)
+title: xlMeasurementUnits enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMeasurementUnits
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlMeasurementUnits Enumeration (Excel)
+# xlMeasurementUnits enumeration (Excel)
 
 Specifies the measurement units.
 

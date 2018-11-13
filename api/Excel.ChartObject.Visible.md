@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Visible Property (Excel)
+title: ChartObject.Visible property (Excel)
 keywords: vbaxl10.chm494094
 f1_keywords:
 - vbaxl10.chm494094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Visible Property (Excel)
+# ChartObject.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

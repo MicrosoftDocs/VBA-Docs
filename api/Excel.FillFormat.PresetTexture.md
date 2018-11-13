@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTexture Property (Excel)
+title: FillFormat.PresetTexture property (Excel)
 keywords: vbaxl10.chm115019
 f1_keywords:
 - vbaxl10.chm115019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetTexture Property (Excel)
+# FillFormat.PresetTexture property (Excel)
 
 Returns the preset texture for the specified fill. Read-only  **[MsoPresetTexture](Office.MsoPresetTexture.md)** .
 

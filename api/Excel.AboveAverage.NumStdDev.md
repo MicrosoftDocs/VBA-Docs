@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.NumStdDev Property (Excel)
+title: AboveAverage.NumStdDev property (Excel)
 keywords: vbaxl10.chm824089
 f1_keywords:
 - vbaxl10.chm824089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.NumStdDev Property (Excel)
+# AboveAverage.NumStdDev property (Excel)
 
 Returns or sets the numeric standard deviation for an  **AboveAverage** object. Read/write **Long** .
 

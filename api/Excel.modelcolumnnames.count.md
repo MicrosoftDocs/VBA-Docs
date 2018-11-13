@@ -1,5 +1,5 @@
 ---
-title: ModelColumnNames.Count Property (Excel)
+title: ModelColumnNames.Count property (Excel)
 keywords: vbaxl10.chm964073
 f1_keywords:
 - vbaxl10.chm964073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnNames.Count Property (Excel)
+# ModelColumnNames.Count property (Excel)
 
 Returns a  **Long** value that represents the number of a [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects in a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection. Read-only.
 

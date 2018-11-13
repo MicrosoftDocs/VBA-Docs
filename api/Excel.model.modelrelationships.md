@@ -1,5 +1,5 @@
 ---
-title: Model.ModelRelationships Property (Excel)
+title: Model.ModelRelationships property (Excel)
 keywords: vbaxl10.chm942074
 f1_keywords:
 - vbaxl10.chm942074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.ModelRelationships Property (Excel)
+# Model.ModelRelationships property (Excel)
 
 Returns a collection of relationships between Data Model tables. Read-only
 

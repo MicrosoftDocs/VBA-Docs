@@ -1,5 +1,5 @@
 ---
-title: Point.SecondaryPlot Property (Excel)
+title: Point.SecondaryPlot property (Excel)
 keywords: vbaxl10.chm576098
 f1_keywords:
 - vbaxl10.chm576098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.SecondaryPlot Property (Excel)
+# Point.SecondaryPlot property (Excel)
 
  **True** if the point is in the secondary section of either a pie of pie chart or a bar of pie chart. Applies only to points on pie of pie charts or bar of pie charts. Read/write **Boolean** .
 

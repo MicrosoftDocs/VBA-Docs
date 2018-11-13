@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.EmailSubject Property (Excel)
+title: Hyperlink.EmailSubject property (Excel)
 keywords: vbaxl10.chm536083
 f1_keywords:
 - vbaxl10.chm536083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.EmailSubject Property (Excel)
+# Hyperlink.EmailSubject property (Excel)
 
 Returns or sets the text string of the specified hyperlink's e-mail subject line. The subject line is appended to the hyperlink's address. Read/write  **String** .
 

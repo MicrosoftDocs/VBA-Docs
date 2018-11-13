@@ -1,5 +1,5 @@
 ---
-title: WorksheetDataConnection.CommandText Property (Excel)
+title: WorksheetDataConnection.CommandText property (Excel)
 keywords: vbaxl10.chm924074
 f1_keywords:
 - vbaxl10.chm924074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetDataConnection.CommandText Property (Excel)
+# WorksheetDataConnection.CommandText property (Excel)
 
 Returns or sets the command string for the specified data source.  **Variant** Read/Write
 

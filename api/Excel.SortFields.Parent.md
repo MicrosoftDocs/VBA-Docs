@@ -1,5 +1,5 @@
 ---
-title: SortFields.Parent Property (Excel)
+title: SortFields.Parent property (Excel)
 keywords: vbaxl10.chm844075
 f1_keywords:
 - vbaxl10.chm844075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortFields.Parent Property (Excel)
+# SortFields.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

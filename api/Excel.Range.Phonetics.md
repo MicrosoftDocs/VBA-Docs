@@ -1,5 +1,5 @@
 ---
-title: Range.Phonetics Property (Excel)
+title: Range.Phonetics property (Excel)
 keywords: vbaxl10.chm144229
 f1_keywords:
 - vbaxl10.chm144229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Phonetics Property (Excel)
+# Range.Phonetics property (Excel)
 
 Returns the  **[Phonetics](Excel.Phonetics.md)** collection of the range. Read only.
 

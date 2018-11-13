@@ -1,5 +1,5 @@
 ---
-title: Interior.Creator Property (Excel)
+title: Interior.Creator property (Excel)
 keywords: vbaxl10.chm550074
 f1_keywords:
 - vbaxl10.chm550074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Creator Property (Excel)
+# Interior.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long** .
 

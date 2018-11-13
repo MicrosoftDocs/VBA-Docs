@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Count Property (Excel)
+title: Worksheets.Count property (Excel)
 keywords: vbaxl10.chm470075
 f1_keywords:
 - vbaxl10.chm470075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.Count Property (Excel)
+# Worksheets.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

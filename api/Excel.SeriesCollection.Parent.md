@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Parent Property (Excel)
+title: SeriesCollection.Parent property (Excel)
 keywords: vbaxl10.chm580073
 f1_keywords:
 - vbaxl10.chm580073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Parent Property (Excel)
+# SeriesCollection.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

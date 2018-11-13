@@ -1,5 +1,5 @@
 ---
-title: PivotField.DisplayAsTooltip Property (Excel)
+title: PivotField.DisplayAsTooltip property (Excel)
 keywords: vbaxl10.chm240141
 f1_keywords:
 - vbaxl10.chm240141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DisplayAsTooltip Property (Excel)
+# PivotField.DisplayAsTooltip property (Excel)
 
 This property is used to specify whether or not a specific member property PivotField is displayed in tooltips. Read/write  **Boolean** .
 

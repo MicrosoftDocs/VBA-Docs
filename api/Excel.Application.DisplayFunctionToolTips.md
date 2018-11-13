@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayFunctionToolTips Property (Excel)
+title: Application.DisplayFunctionToolTips property (Excel)
 keywords: vbaxl10.chm133268
 f1_keywords:
 - vbaxl10.chm133268
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayFunctionToolTips Property (Excel)
+# Application.DisplayFunctionToolTips property (Excel)
 
  **True** if function ToolTips can be displayed. Read/write **Boolean** .
 

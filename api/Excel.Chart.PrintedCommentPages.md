@@ -1,5 +1,5 @@
 ---
-title: Chart.PrintedCommentPages Property (Excel)
+title: Chart.PrintedCommentPages property (Excel)
 keywords: vbaxl10.chm149186
 f1_keywords:
 - vbaxl10.chm149186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PrintedCommentPages Property (Excel)
+# Chart.PrintedCommentPages property (Excel)
 
 Returns the number of comment pages that will be printed for the current chart. Read-only
 

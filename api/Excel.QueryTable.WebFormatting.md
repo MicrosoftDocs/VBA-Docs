@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebFormatting Property (Excel)
+title: QueryTable.WebFormatting property (Excel)
 keywords: vbaxl10.chm518123
 f1_keywords:
 - vbaxl10.chm518123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebFormatting Property (Excel)
+# QueryTable.WebFormatting property (Excel)
 
 Returns or sets a value that determines how much formatting from a Web page, if any, is applied when you import the page into a query table. Read/write  **[XlWebFormatting](Excel.XlWebFormatting.md)** .
 

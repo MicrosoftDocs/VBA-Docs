@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Excel)
+title: Application.LanguageSettings property (Excel)
 keywords: vbaxl10.chm133251
 f1_keywords:
 - vbaxl10.chm133251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LanguageSettings Property (Excel)
+# Application.LanguageSettings property (Excel)
 
 Returns the  **[LanguageSettings](Office.LanguageSettings.md)** object, which contains information about the language settings in Microsoft Excel. Read-only.
 

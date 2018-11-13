@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.DisplayGridlines Property (Excel)
+title: WorksheetView.DisplayGridlines property (Excel)
 keywords: vbaxl10.chm779073
 f1_keywords:
 - vbaxl10.chm779073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.DisplayGridlines Property (Excel)
+# WorksheetView.DisplayGridlines property (Excel)
 
  **True** if gridlines are displayed. Read/write **Boolean** .
 

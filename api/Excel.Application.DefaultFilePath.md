@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultFilePath Property (Excel)
+title: Application.DefaultFilePath property (Excel)
 keywords: vbaxl10.chm133115
 f1_keywords:
 - vbaxl10.chm133115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultFilePath Property (Excel)
+# Application.DefaultFilePath property (Excel)
 
 Returns or sets the default path that Microsoft Excel uses when it opens files. Read/write  **String** .
 

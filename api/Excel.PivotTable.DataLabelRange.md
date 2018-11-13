@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DataLabelRange Property (Excel)
+title: PivotTable.DataLabelRange property (Excel)
 keywords: vbaxl10.chm235080
 f1_keywords:
 - vbaxl10.chm235080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DataLabelRange Property (Excel)
+# PivotTable.DataLabelRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range that contains the labels for the data fields in the PivotTable report. Read-only.
 

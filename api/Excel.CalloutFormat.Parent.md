@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Parent Property (Excel)
+title: CalloutFormat.Parent property (Excel)
 keywords: vbaxl10.chm104001
 f1_keywords:
 - vbaxl10.chm104001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Parent Property (Excel)
+# CalloutFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

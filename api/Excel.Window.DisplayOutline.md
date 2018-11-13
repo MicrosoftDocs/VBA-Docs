@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayOutline Property (Excel)
+title: Window.DisplayOutline property (Excel)
 keywords: vbaxl10.chm356086
 f1_keywords:
 - vbaxl10.chm356086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayOutline Property (Excel)
+# Window.DisplayOutline property (Excel)
 
  **True** if outline symbols are displayed. Read/write **Boolean** .
 

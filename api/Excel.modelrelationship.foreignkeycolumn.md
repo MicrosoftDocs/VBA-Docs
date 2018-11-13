@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship.ForeignKeyColumn Property (Excel)
+title: ModelRelationship.ForeignKeyColumn property (Excel)
 keywords: vbaxl10.chm938074
 f1_keywords:
 - vbaxl10.chm938074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship.ForeignKeyColumn Property (Excel)
+# ModelRelationship.ForeignKeyColumn property (Excel)
 
 Contains the [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column on the many side of the one-to-many relationship. Read-only
 

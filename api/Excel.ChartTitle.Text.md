@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Text Property (Excel)
+title: ChartTitle.Text property (Excel)
 keywords: vbaxl10.chm563087
 f1_keywords:
 - vbaxl10.chm563087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Text Property (Excel)
+# ChartTitle.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

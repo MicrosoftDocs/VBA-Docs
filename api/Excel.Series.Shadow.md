@@ -1,5 +1,5 @@
 ---
-title: Series.Shadow Property (Excel)
+title: Series.Shadow property (Excel)
 keywords: vbaxl10.chm578119
 f1_keywords:
 - vbaxl10.chm578119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Shadow Property (Excel)
+# Series.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

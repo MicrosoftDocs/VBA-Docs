@@ -1,5 +1,5 @@
 ---
-title: Trendline.Period Property (Excel)
+title: Trendline.Period property (Excel)
 keywords: vbaxl10.chm594088
 f1_keywords:
 - vbaxl10.chm594088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Period Property (Excel)
+# Trendline.Period property (Excel)
 
 Returns or sets the period for the moving-average trendline. Can be a value from 2 through 255. Read/write  **Long** .
 

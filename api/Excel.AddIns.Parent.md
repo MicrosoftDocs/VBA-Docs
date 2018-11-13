@@ -1,5 +1,5 @@
 ---
-title: AddIns.Parent Property (Excel)
+title: AddIns.Parent property (Excel)
 keywords: vbaxl10.chm186075
 f1_keywords:
 - vbaxl10.chm186075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Parent Property (Excel)
+# AddIns.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

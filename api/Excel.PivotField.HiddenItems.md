@@ -1,5 +1,5 @@
 ---
-title: PivotField.HiddenItems Property (Excel)
+title: PivotField.HiddenItems property (Excel)
 keywords: vbaxl10.chm240083
 f1_keywords:
 - vbaxl10.chm240083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.HiddenItems Property (Excel)
+# PivotField.HiddenItems property (Excel)
 
 Returns an object that represents either a single hidden PivotTable item (a  **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the hidden items (a **[PivotItems](Excel.PivotItems.md)** object) in the specified field. Read-only.
 

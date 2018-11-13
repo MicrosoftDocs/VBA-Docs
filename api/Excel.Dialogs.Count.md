@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Count Property (Excel)
+title: Dialogs.Count property (Excel)
 keywords: vbaxl10.chm254073
 f1_keywords:
 - vbaxl10.chm254073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Count Property (Excel)
+# Dialogs.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

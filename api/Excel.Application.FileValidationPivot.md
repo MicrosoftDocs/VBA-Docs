@@ -1,5 +1,5 @@
 ---
-title: Application.FileValidationPivot Property (Excel)
+title: Application.FileValidationPivot property (Excel)
 keywords: vbaxl10.chm133336
 f1_keywords:
 - vbaxl10.chm133336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileValidationPivot Property (Excel)
+# Application.FileValidationPivot property (Excel)
 
 Returns or sets how Excel will validate the contents of the data caches for PivotTable reports. Read/write
 

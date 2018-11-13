@@ -1,5 +1,5 @@
 ---
-title: Series.QuartileCalculationInclusiveMedian Property (Excel)
+title: Series.QuartileCalculationInclusiveMedian property (Excel)
 keywords: vbaxl10.chm578130
 f1_keywords:
 - vbaxl10.chm578130
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Series.QuartileCalculationInclusiveMedian Property (Excel)
+# Series.QuartileCalculationInclusiveMedian property (Excel)
 
  **True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.
 

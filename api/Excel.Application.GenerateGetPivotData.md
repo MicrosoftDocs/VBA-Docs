@@ -1,5 +1,5 @@
 ---
-title: Application.GenerateGetPivotData Property (Excel)
+title: Application.GenerateGetPivotData property (Excel)
 keywords: vbaxl10.chm133275
 f1_keywords:
 - vbaxl10.chm133275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GenerateGetPivotData Property (Excel)
+# Application.GenerateGetPivotData property (Excel)
 
 Returns  **True** when Microsoft Excel can get PivotTable report data. Read/write **Boolean** .
 

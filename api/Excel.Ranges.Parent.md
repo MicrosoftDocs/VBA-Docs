@@ -1,5 +1,5 @@
 ---
-title: Ranges.Parent Property (Excel)
+title: Ranges.Parent property (Excel)
 keywords: vbaxl10.chm827075
 f1_keywords:
 - vbaxl10.chm827075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ranges.Parent Property (Excel)
+# Ranges.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

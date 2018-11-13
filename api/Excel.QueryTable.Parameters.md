@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Parameters Property (Excel)
+title: QueryTable.Parameters property (Excel)
 keywords: vbaxl10.chm518093
 f1_keywords:
 - vbaxl10.chm518093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Parameters Property (Excel)
+# QueryTable.Parameters property (Excel)
 
 Returns a  **[Parameters](Excel.Parameters.md)** collection that represents the query table parameters. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CubeField.IsDate Property (Excel)
+title: CubeField.IsDate property (Excel)
 keywords: vbaxl10.chm668101
 f1_keywords:
 - vbaxl10.chm668101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.IsDate Property (Excel)
+# CubeField.IsDate property (Excel)
 
 Returns  **True** if the CubeField is a date. Read-only **Boolean** .
 

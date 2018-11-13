@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Version Property (Excel)
+title: PivotTable.Version property (Excel)
 keywords: vbaxl10.chm235151
 f1_keywords:
 - vbaxl10.chm235151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Version Property (Excel)
+# PivotTable.Version property (Excel)
 
 Returns a  **[XlPivotTableVersionList](Excel.XlPivotTableVersionList.md)** value that represents the Microsoft Excel version number.
 

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Type Property (Excel)
+title: ConnectorFormat.Type property (Excel)
 keywords: vbaxl10.chm646083
 f1_keywords:
 - vbaxl10.chm646083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.Type Property (Excel)
+# ConnectorFormat.Type property (Excel)
 
 Returns or sets a  **[MsoConnectorType](Office.MsoConnectorType.md)** value that represents the connector format type.
 

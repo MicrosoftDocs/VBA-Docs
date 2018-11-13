@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisTitle Property (Excel)
+title: Axis.AxisTitle property (Excel)
 keywords: vbaxl10.chm561075
 f1_keywords:
 - vbaxl10.chm561075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisTitle Property (Excel)
+# Axis.AxisTitle property (Excel)
 
 Returns an  **[AxisTitle](Excel.AxisTitle(object).md)** object that represents the title of the specified axis. Read-only.
 

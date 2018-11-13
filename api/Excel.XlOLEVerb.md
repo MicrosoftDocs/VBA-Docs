@@ -1,5 +1,5 @@
 ---
-title: XlOLEVerb Enumeration (Excel)
+title: xlOLEVerb enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOLEVerb
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlOLEVerb Enumeration (Excel)
+# xlOLEVerb enumeration (Excel)
 
 Specifies the verb on which the server of the OLE object should act.
 

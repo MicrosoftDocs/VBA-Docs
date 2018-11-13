@@ -1,5 +1,5 @@
 ---
-title: QueryTable.SourceDataFile Property (Excel)
+title: QueryTable.SourceDataFile property (Excel)
 keywords: vbaxl10.chm518132
 f1_keywords:
 - vbaxl10.chm518132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.SourceDataFile Property (Excel)
+# QueryTable.SourceDataFile property (Excel)
 
 Returns or sets a  **String** value that indicates the source data file for a query table.
 

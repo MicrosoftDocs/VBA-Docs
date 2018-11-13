@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.AppliesTo Property (Excel)
+title: UniqueValues.AppliesTo property (Excel)
 keywords: vbaxl10.chm826075
 f1_keywords:
 - vbaxl10.chm826075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.AppliesTo Property (Excel)
+# UniqueValues.AppliesTo property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 

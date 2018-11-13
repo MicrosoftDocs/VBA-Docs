@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileColumnDataTypes Property (Excel)
+title: QueryTable.TextFileColumnDataTypes property (Excel)
 keywords: vbaxl10.chm518108
 f1_keywords:
 - vbaxl10.chm518108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileColumnDataTypes Property (Excel)
+# QueryTable.TextFileColumnDataTypes property (Excel)
 
 Returns or sets an ordered array of constants that specify the data types applied to the corresponding columns in the text file that you are importing into a query table. The default constant for each column is  **xlGeneral** . Read/write **Variant** .
 

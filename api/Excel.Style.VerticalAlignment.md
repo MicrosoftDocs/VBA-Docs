@@ -1,5 +1,5 @@
 ---
-title: Style.VerticalAlignment Property (Excel)
+title: Style.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm177097
 f1_keywords:
 - vbaxl10.chm177097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.VerticalAlignment Property (Excel)
+# Style.VerticalAlignment property (Excel)
 
 Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
 

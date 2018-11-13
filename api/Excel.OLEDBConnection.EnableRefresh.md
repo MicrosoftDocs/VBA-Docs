@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.EnableRefresh Property (Excel)
+title: OLEDBConnection.EnableRefresh property (Excel)
 keywords: vbaxl10.chm794079
 f1_keywords:
 - vbaxl10.chm794079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.EnableRefresh Property (Excel)
+# OLEDBConnection.EnableRefresh property (Excel)
 
  **True** if the connection can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
 

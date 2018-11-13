@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Name Property (Excel)
+title: PlotArea.Name property (Excel)
 keywords: vbaxl10.chm618074
 f1_keywords:
 - vbaxl10.chm618074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Name Property (Excel)
+# PlotArea.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

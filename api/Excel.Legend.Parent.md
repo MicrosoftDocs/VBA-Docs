@@ -1,5 +1,5 @@
 ---
-title: Legend.Parent Property (Excel)
+title: Legend.Parent property (Excel)
 keywords: vbaxl10.chm622073
 f1_keywords:
 - vbaxl10.chm622073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Parent Property (Excel)
+# Legend.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

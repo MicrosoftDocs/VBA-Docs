@@ -15,6 +15,6 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.Initialize Method (Excel)](http://msdn.microsoft.com/library/fe85e378-26c6-e573-21c1-b8a3ccbe4d71%28Office.15%29.aspx)
 
-[Model.ModelMeasures Property (Excel)](http://msdn.microsoft.com/library/b92f52fc-7c11-accc-bf3a-ba62c87daf71%28Office.15%29.aspx)
+[Model.ModelMeasures property (Excel)](http://msdn.microsoft.com/library/b92f52fc-7c11-accc-bf3a-ba62c87daf71%28Office.15%29.aspx)
 
 

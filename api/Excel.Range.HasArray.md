@@ -1,5 +1,5 @@
 ---
-title: Range.HasArray Property (Excel)
+title: Range.HasArray property (Excel)
 keywords: vbaxl10.chm144142
 f1_keywords:
 - vbaxl10.chm144142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.HasArray Property (Excel)
+# Range.HasArray property (Excel)
 
  **True** if the specified cell is part of an array formula. Read-only **Variant** .
 

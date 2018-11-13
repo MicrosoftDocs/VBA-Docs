@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Count Property (Excel)
+title: ModelRelationships.Count property (Excel)
 keywords: vbaxl10.chm940073
 f1_keywords:
 - vbaxl10.chm940073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Count Property (Excel)
+# ModelRelationships.Count property (Excel)
 
 Returns a  **Long** value that represents the number of a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) objects in a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object. Read-only.
 

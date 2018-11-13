@@ -1,12 +1,12 @@
 ---
-title: XlScaleType Enumeration (Word)
+title: xlScaleType Enumeration (Word)
 ms.prod: word
 ms.assetid: 71a19b5d-9155-375a-4d63-b882bfa30a84
 ms.date: 06/08/2017
 ---
 
 
-# XlScaleType Enumeration (Word)
+# xlScaleType Enumeration (Word)
 
 Specifies the scale type of the value axis.
 

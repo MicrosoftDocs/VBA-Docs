@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.SavePassword Property (Excel)
+title: ODBCConnection.SavePassword property (Excel)
 keywords: vbaxl10.chm796086
 f1_keywords:
 - vbaxl10.chm796086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.SavePassword Property (Excel)
+# ODBCConnection.SavePassword property (Excel)
 
  **True** if password information in an ODBC connection string is saved in the connection string. **False** if the password is removed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: XmlSchema.Name Property (Excel)
+title: XmlSchema.Name property (Excel)
 keywords: vbaxl10.chm750075
 f1_keywords:
 - vbaxl10.chm750075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchema.Name Property (Excel)
+# XmlSchema.Name property (Excel)
 
 Returns a  **String** value that represents the friendly name used to identify an XML schema in an **[XmlMap](Excel.XmlMap.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DialogSheetView.Parent Property (Excel)
+title: DialogSheetView.Parent property (Excel)
 keywords: vbaxl10.chm786075
 f1_keywords:
 - vbaxl10.chm786075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DialogSheetView.Parent Property (Excel)
+# DialogSheetView.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

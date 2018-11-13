@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RefreshPeriod Property (Excel)
+title: PivotCache.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm227091
 f1_keywords:
 - vbaxl10.chm227091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RefreshPeriod Property (Excel)
+# PivotCache.RefreshPeriod property (Excel)
 
 Returns or sets the number of minutes between refreshes. Read/write  **Long** .
 

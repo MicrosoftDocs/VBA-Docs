@@ -1,5 +1,5 @@
 ---
-title: Application.Sheets Property (Excel)
+title: Application.Sheets property (Excel)
 keywords: vbaxl10.chm132108
 f1_keywords:
 - vbaxl10.chm132108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Sheets Property (Excel)
+# Application.Sheets property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the sheets in the active workbook. Read-only **Sheets** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Databar.BarBorder Property (Excel)
+title: Databar.BarBorder property (Excel)
 keywords: vbaxl10.chm810094
 f1_keywords:
 - vbaxl10.chm810094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.BarBorder Property (Excel)
+# Databar.BarBorder property (Excel)
 
 Returns an object that specifies the border of a data bar. Read-only
 

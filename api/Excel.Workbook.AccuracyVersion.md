@@ -1,5 +1,5 @@
 ---
-title: Workbook.AccuracyVersion Property (Excel)
+title: Workbook.AccuracyVersion property (Excel)
 keywords: vbaxl10.chm199271
 f1_keywords:
 - vbaxl10.chm199271
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.AccuracyVersion Property (Excel)
+# Workbook.AccuracyVersion property (Excel)
 
 Specifies whether certain worksheet functions use the latest accuracy algorithms to calculate their results. Read/write
 

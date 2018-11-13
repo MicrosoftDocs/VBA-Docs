@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RowRange Property (Excel)
+title: PivotTable.RowRange property (Excel)
 keywords: vbaxl10.chm235095
 f1_keywords:
 - vbaxl10.chm235095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RowRange Property (Excel)
+# PivotTable.RowRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range including the row area on the PivotTable report. Read-only.
 

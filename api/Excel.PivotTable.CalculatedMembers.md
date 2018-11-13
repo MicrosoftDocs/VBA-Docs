@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CalculatedMembers Property (Excel)
+title: PivotTable.CalculatedMembers property (Excel)
 keywords: vbaxl10.chm235145
 f1_keywords:
 - vbaxl10.chm235145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CalculatedMembers Property (Excel)
+# PivotTable.CalculatedMembers property (Excel)
 
 Returns a  **[CalculatedMembers](Excel.CalculatedMembers.md)** collection representing all the calculated members and calculated measures for an OLAP PivotTable.
 

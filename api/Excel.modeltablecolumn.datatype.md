@@ -1,5 +1,5 @@
 ---
-title: ModelTableColumn.DataType Property (Excel)
+title: ModelTableColumn.DataType property (Excel)
 keywords: vbaxl10.chm930074
 f1_keywords:
 - vbaxl10.chm930074
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableColumn.DataType Property (Excel)
+# ModelTableColumn.DataType property (Excel)
 
-Returns the [XlParameterDataType Enumeration (Excel)](Excel.XlParameterDataType.md) of the **ModelTableColumn** . Read-only
+Returns the [xlParameterDataType enumeration (Excel)](Excel.xlParameterDataType.md) of the **ModelTableColumn** . Read-only
 
 
 ## Syntax

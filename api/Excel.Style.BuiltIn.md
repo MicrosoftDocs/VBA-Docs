@@ -1,5 +1,5 @@
 ---
-title: Style.BuiltIn Property (Excel)
+title: Style.BuiltIn property (Excel)
 keywords: vbaxl10.chm177074
 f1_keywords:
 - vbaxl10.chm177074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.BuiltIn Property (Excel)
+# Style.BuiltIn property (Excel)
 
  **True** if the style is a built-in style. Read-only **Boolean** .
 

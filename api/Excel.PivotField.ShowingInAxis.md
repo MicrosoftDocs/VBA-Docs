@@ -1,5 +1,5 @@
 ---
-title: PivotField.ShowingInAxis Property (Excel)
+title: PivotField.ShowingInAxis property (Excel)
 keywords: vbaxl10.chm240150
 f1_keywords:
 - vbaxl10.chm240150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ShowingInAxis Property (Excel)
+# PivotField.ShowingInAxis property (Excel)
 
 Indicates if the PivotField is currently visible in the PivotTable or not. Read-only.
 

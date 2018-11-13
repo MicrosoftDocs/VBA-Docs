@@ -1,5 +1,5 @@
 ---
-title: Window.Split Property (Excel)
+title: Window.Split property (Excel)
 keywords: vbaxl10.chm356111
 f1_keywords:
 - vbaxl10.chm356111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Split Property (Excel)
+# Window.Split property (Excel)
 
  **True** if the window is split. Read/write **Boolean** .
 

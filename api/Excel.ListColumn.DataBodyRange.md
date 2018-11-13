@@ -1,5 +1,5 @@
 ---
-title: ListColumn.DataBodyRange Property (Excel)
+title: ListColumn.DataBodyRange property (Excel)
 keywords: vbaxl10.chm738082
 f1_keywords:
 - vbaxl10.chm738082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.DataBodyRange Property (Excel)
+# ListColumn.DataBodyRange property (Excel)
 
 Returns a  **Range** object that is the size of the data portion of a column. Read-only.
 

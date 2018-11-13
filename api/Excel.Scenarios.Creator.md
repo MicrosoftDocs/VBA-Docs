@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Creator Property (Excel)
+title: Scenarios.Creator property (Excel)
 keywords: vbaxl10.chm361074
 f1_keywords:
 - vbaxl10.chm361074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Creator Property (Excel)
+# Scenarios.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

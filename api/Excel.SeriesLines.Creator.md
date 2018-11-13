@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Creator Property (Excel)
+title: SeriesLines.Creator property (Excel)
 keywords: vbaxl10.chm597074
 f1_keywords:
 - vbaxl10.chm597074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Creator Property (Excel)
+# SeriesLines.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideLeft Property (Excel)
+title: PlotArea.InsideLeft property (Excel)
 keywords: vbaxl10.chm618088
 f1_keywords:
 - vbaxl10.chm618088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideLeft Property (Excel)
+# PlotArea.InsideLeft property (Excel)
 
 Returns the distance from the chart edge to the inside left edge of the plot area, in points. Read-write  **Double** .
 

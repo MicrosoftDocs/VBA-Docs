@@ -1,5 +1,5 @@
 ---
-title: PublishObject.DivID Property (Excel)
+title: PublishObject.DivID property (Excel)
 keywords: vbaxl10.chm652075
 f1_keywords:
 - vbaxl10.chm652075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.DivID Property (Excel)
+# PublishObject.DivID property (Excel)
 
 Returns the unique identifier used for identifying an HTML <DIV> tag on a Web page. The tag is associated with an item in a document that you have saved to a Web page. An item can be an entire workbook, a worksheet, a selected print range, an AutoFilter range, a range of cells, a chart, a PivotTable report, or a query table. Read-only  **String** .
 

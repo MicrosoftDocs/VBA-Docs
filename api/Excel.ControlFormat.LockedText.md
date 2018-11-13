@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.LockedText Property (Excel)
+title: ControlFormat.LockedText property (Excel)
 keywords: vbaxl10.chm630084
 f1_keywords:
 - vbaxl10.chm630084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.LockedText Property (Excel)
+# ControlFormat.LockedText property (Excel)
 
  **True** if the text in the specified object will be locked to prevent changes when the workbook is protected. Read/write **Boolean** .
 

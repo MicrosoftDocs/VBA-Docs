@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnitIsAuto Property (Excel)
+title: Axis.MinorUnitIsAuto property (Excel)
 keywords: vbaxl10.chm561095
 f1_keywords:
 - vbaxl10.chm561095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorUnitIsAuto Property (Excel)
+# Axis.MinorUnitIsAuto property (Excel)
 
  **True** if Microsoft Excel calculates minor units for the value axis. Read/write **Boolean** .
 

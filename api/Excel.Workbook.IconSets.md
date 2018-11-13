@@ -1,5 +1,5 @@
 ---
-title: Workbook.IconSets Property (Excel)
+title: Workbook.IconSets property (Excel)
 keywords: vbaxl10.chm199261
 f1_keywords:
 - vbaxl10.chm199261
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.IconSets Property (Excel)
+# Workbook.IconSets property (Excel)
 
 This property is used to filter data in a workbook based on a cell icon from the  **IconSet** collection. Read-only.
 

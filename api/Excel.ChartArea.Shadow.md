@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Shadow Property (Excel)
+title: ChartArea.Shadow property (Excel)
 keywords: vbaxl10.chm620081
 f1_keywords:
 - vbaxl10.chm620081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Shadow Property (Excel)
+# ChartArea.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.HasTitle Property (Excel)
+title: Chart.HasTitle property (Excel)
 keywords: vbaxl10.chm149116
 f1_keywords:
 - vbaxl10.chm149116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasTitle Property (Excel)
+# Chart.HasTitle property (Excel)
 
  **True** if the axis or chart has a visible title. Read/write **Boolean** .
 

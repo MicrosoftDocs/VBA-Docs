@@ -1,5 +1,5 @@
 ---
-title: TableObject.EnableRefresh Property (Excel)
+title: TableObject.EnableRefresh property (Excel)
 keywords: vbaxl10.chm916076
 f1_keywords:
 - vbaxl10.chm916076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.EnableRefresh Property (Excel)
+# TableObject.EnableRefresh property (Excel)
 
 Specifies if the query table can be refreshed by the user.  **Boolean** Read/Write
 

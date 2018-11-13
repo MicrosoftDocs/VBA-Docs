@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtLayouts Property (Excel)
+title: Application.SmartArtLayouts property (Excel)
 keywords: vbaxl10.chm133319
 f1_keywords:
 - vbaxl10.chm133319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtLayouts Property (Excel)
+# Application.SmartArtLayouts property (Excel)
 
 Returns the set of SmartArt layouts that are currently loaded in the application. Read-only
 

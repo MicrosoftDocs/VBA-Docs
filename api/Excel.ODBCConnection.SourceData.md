@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.SourceData Property (Excel)
+title: ODBCConnection.SourceData property (Excel)
 keywords: vbaxl10.chm796088
 f1_keywords:
 - vbaxl10.chm796088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.SourceData Property (Excel)
+# ODBCConnection.SourceData property (Excel)
 
 Returns the data source for the ODBC connection, as shown in the table. Read/write  **Variant** .
 

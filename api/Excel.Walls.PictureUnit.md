@@ -1,5 +1,5 @@
 ---
-title: Walls.PictureUnit Property (Excel)
+title: Walls.PictureUnit property (Excel)
 keywords: vbaxl10.chm614082
 f1_keywords:
 - vbaxl10.chm614082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.PictureUnit Property (Excel)
+# Walls.PictureUnit property (Excel)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](Excel.Walls.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Long** .
 

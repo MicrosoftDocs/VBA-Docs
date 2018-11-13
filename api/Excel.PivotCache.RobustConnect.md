@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RobustConnect Property (Excel)
+title: PivotCache.RobustConnect property (Excel)
 keywords: vbaxl10.chm227105
 f1_keywords:
 - vbaxl10.chm227105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RobustConnect Property (Excel)
+# PivotCache.RobustConnect property (Excel)
 
 Returns or sets how the PivotTable cache connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Parent Property (Excel)
+title: TextFrame2.Parent property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Parent Property (Excel)
+# TextFrame2.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

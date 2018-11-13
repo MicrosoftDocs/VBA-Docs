@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.MemberPropertyField Property (Excel)
+title: PivotFilter.MemberPropertyField property (Excel)
 keywords: vbaxl10.chm770084
 f1_keywords:
 - vbaxl10.chm770084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.MemberPropertyField Property (Excel)
+# PivotFilter.MemberPropertyField property (Excel)
 
 This property specifies the member property PivotField on which the label filter is based. Read/write  **PivotField** .
 

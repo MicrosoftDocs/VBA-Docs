@@ -1,5 +1,5 @@
 ---
-title: QueryTable.EditWebPage Property (Excel)
+title: QueryTable.EditWebPage property (Excel)
 keywords: vbaxl10.chm518130
 f1_keywords:
 - vbaxl10.chm518130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.EditWebPage Property (Excel)
+# QueryTable.EditWebPage property (Excel)
 
 Returns or sets the web page Uniform Resource Locator (URL) for a web query. Read/write  **Variant** .
 

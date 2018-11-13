@@ -1,5 +1,5 @@
 ---
-title: Top10.Rank Property (Excel)
+title: Top10.Rank property (Excel)
 keywords: vbaxl10.chm822077
 f1_keywords:
 - vbaxl10.chm822077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Rank Property (Excel)
+# Top10.Rank property (Excel)
 
 Returns or sets a  **Long** value, specifying either the number or percentage of the rank value for the conditional format rule.
 

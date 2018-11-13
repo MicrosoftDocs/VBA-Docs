@@ -1,5 +1,5 @@
 ---
-title: Validation.IgnoreBlank Property (Excel)
+title: Validation.IgnoreBlank property (Excel)
 keywords: vbaxl10.chm532075
 f1_keywords:
 - vbaxl10.chm532075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.IgnoreBlank Property (Excel)
+# Validation.IgnoreBlank property (Excel)
 
  **True** if blank values are permitted by the range data validation. Read/write **Boolean** .
 

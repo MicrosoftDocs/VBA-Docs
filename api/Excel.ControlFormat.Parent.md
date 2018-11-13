@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.Parent Property (Excel)
+title: ControlFormat.Parent property (Excel)
 keywords: vbaxl10.chm629075
 f1_keywords:
 - vbaxl10.chm629075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.Parent Property (Excel)
+# ControlFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

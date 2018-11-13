@@ -1,5 +1,5 @@
 ---
-title: Name.WorkbookParameter Property (Excel)
+title: Name.WorkbookParameter property (Excel)
 keywords: vbaxl10.chm490090
 f1_keywords:
 - vbaxl10.chm490090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.WorkbookParameter Property (Excel)
+# Name.WorkbookParameter property (Excel)
 
 Returns or sets the specified  **Name** object as a workbook parameter. Read/write
 

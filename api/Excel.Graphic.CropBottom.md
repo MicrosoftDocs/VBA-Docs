@@ -1,5 +1,5 @@
 ---
-title: Graphic.CropBottom Property (Excel)
+title: Graphic.CropBottom property (Excel)
 keywords: vbaxl10.chm694076
 f1_keywords:
 - vbaxl10.chm694076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.CropBottom Property (Excel)
+# Graphic.CropBottom property (Excel)
 
 Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single** .
 

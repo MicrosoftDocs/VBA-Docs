@@ -1,5 +1,5 @@
 ---
-title: Workbook.Final Property (Excel)
+title: Workbook.Final property (Excel)
 keywords: vbaxl10.chm199252
 f1_keywords:
 - vbaxl10.chm199252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Final Property (Excel)
+# Workbook.Final property (Excel)
 
 Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/write **Boolean** .
 

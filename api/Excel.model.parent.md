@@ -1,5 +1,5 @@
 ---
-title: Model.Parent Property (Excel)
+title: Model.Parent property (Excel)
 keywords: vbaxl10.chm941075
 f1_keywords:
 - vbaxl10.chm941075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.Parent Property (Excel)
+# Model.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified object. Read-only.
 

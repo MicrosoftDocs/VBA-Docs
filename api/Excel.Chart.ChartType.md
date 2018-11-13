@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartType Property (Excel)
+title: Chart.ChartType property (Excel)
 keywords: vbaxl10.chm149149
 f1_keywords:
 - vbaxl10.chm149149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartType Property (Excel)
+# Chart.ChartType property (Excel)
 
 Returns or sets the chart type. Read/write  **[XlChartType](Excel.XlChartType.md)** .
 

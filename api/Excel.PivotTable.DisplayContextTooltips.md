@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayContextTooltips Property (Excel)
+title: PivotTable.DisplayContextTooltips property (Excel)
 keywords: vbaxl10.chm235161
 f1_keywords:
 - vbaxl10.chm235161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayContextTooltips Property (Excel)
+# PivotTable.DisplayContextTooltips property (Excel)
 
 Controls whether or not tooltips are displayed for PivotTable cells. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CursorMovement Property (Excel)
+title: Application.CursorMovement property (Excel)
 keywords: vbaxl10.chm133237
 f1_keywords:
 - vbaxl10.chm133237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CursorMovement Property (Excel)
+# Application.CursorMovement property (Excel)
 
 Returns or sets a value that indicates whether a visual cursor or a logical cursor is used. Can be one of the following constants:  **xlVisualCursor** or **xlLogicalCursor** . Read/write **Long** .
 

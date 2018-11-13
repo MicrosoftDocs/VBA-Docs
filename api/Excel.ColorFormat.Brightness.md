@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Brightness Property (Excel)
+title: ColorFormat.Brightness property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ColorFormat.Brightness
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Brightness Property (Excel)
+# ColorFormat.Brightness property (Excel)
 
 Returns or sets the luminosity of the specified object. Read/write
 

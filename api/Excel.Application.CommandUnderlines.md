@@ -1,5 +1,5 @@
 ---
-title: Application.CommandUnderlines Property (Excel)
+title: Application.CommandUnderlines property (Excel)
 keywords: vbaxl10.chm133095
 f1_keywords:
 - vbaxl10.chm133095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CommandUnderlines Property (Excel)
+# Application.CommandUnderlines property (Excel)
 
 Returns or sets the state of the command underlines in Microsoft Excel for the Macintosh. Can be one of the constants of  **[XlCommandUnderlines](Excel.XlCommandUnderlines.md)** . Read/write **Long** .
 

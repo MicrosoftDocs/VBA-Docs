@@ -1,5 +1,5 @@
 ---
-title: XlSortOn Enumeration (Excel)
+title: xlSortOn enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortOn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSortOn Enumeration (Excel)
+# xlSortOn enumeration (Excel)
 
 Specifies the parameter on which the data should be sorted.
 

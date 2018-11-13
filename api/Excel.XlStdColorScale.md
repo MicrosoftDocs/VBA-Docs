@@ -1,5 +1,5 @@
 ---
-title: XlStdColorScale Enumeration (Excel)
+title: xlStdColorScale enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlStdColorScale
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlStdColorScale Enumeration (Excel)
+# xlStdColorScale enumeration (Excel)
 
 Specifies the standard color scale.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.Calculation Property (Excel)
+title: PivotField.Calculation property (Excel)
 keywords: vbaxl10.chm240074
 f1_keywords:
 - vbaxl10.chm240074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Calculation Property (Excel)
+# PivotField.Calculation property (Excel)
 
 Returns or sets a  **[XlPivotFieldCalculation](Excel.XlPivotFieldCalculation.md)** value that represents the type of calculation performed by the specified field. This property is valid only for data fields.
 

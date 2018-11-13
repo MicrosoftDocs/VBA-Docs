@@ -1,5 +1,5 @@
 ---
-title: Application.ClipboardFormats Property (Excel)
+title: Application.ClipboardFormats property (Excel)
 keywords: vbaxl10.chm133092
 f1_keywords:
 - vbaxl10.chm133092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ClipboardFormats Property (Excel)
+# Application.ClipboardFormats property (Excel)
 
 Returns the formats that are currently on the Clipboard, as an array of numeric values. To determine whether a particular format is on the Clipboard, compare each element in the array with the appropriate constant listed in the Remarks section. Read-only  **Variant** .
 

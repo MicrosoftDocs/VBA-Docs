@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Locked Property (Excel)
+title: OLEObjects.Locked property (Excel)
 keywords: vbaxl10.chm419083
 f1_keywords:
 - vbaxl10.chm419083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Locked Property (Excel)
+# OLEObjects.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the object is locked.
 

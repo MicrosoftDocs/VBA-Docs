@@ -1,5 +1,5 @@
 ---
-title: Shape.Callout Property (Excel)
+title: Shape.Callout property (Excel)
 keywords: vbaxl10.chm636092
 f1_keywords:
 - vbaxl10.chm636092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Callout Property (Excel)
+# Shape.Callout property (Excel)
 
 Returns a  **[CalloutFormat](Excel.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Applies to a **[Shape](Excel.Shape.md)** object that represent line callouts. Read-only.
 

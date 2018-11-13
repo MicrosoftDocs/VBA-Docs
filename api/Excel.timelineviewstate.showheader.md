@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.ShowHeader Property (Excel)
+title: TimelineViewState.ShowHeader property (Excel)
 keywords: vbaxl10.chm952073
 f1_keywords:
 - vbaxl10.chm952073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.ShowHeader Property (Excel)
+# TimelineViewState.ShowHeader property (Excel)
 
 Get or set whether the control's header is displayed.  **Boolean** Read/Write
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayRecentFiles Property (Excel)
+title: Application.DisplayRecentFiles property (Excel)
 keywords: vbaxl10.chm133125
 f1_keywords:
 - vbaxl10.chm133125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayRecentFiles Property (Excel)
+# Application.DisplayRecentFiles property (Excel)
 
  **True** if the list of recently used files is displayed in the UI. Read/write **Boolean** .
 

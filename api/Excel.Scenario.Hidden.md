@@ -1,5 +1,5 @@
 ---
-title: Scenario.Hidden Property (Excel)
+title: Scenario.Hidden property (Excel)
 keywords: vbaxl10.chm364077
 f1_keywords:
 - vbaxl10.chm364077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Hidden Property (Excel)
+# Scenario.Hidden property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the scenario is hidden.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Chart Property (Excel)
+title: ChartObject.Chart property (Excel)
 keywords: vbaxl10.chm494099
 f1_keywords:
 - vbaxl10.chm494099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Chart Property (Excel)
+# ChartObject.Chart property (Excel)
 
 Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the object. Read-only.
 

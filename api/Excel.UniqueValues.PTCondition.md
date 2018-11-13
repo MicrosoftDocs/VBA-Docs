@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.PTCondition Property (Excel)
+title: UniqueValues.PTCondition property (Excel)
 keywords: vbaxl10.chm826086
 f1_keywords:
 - vbaxl10.chm826086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.PTCondition Property (Excel)
+# UniqueValues.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

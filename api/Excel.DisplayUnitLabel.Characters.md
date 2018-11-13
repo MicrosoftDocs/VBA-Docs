@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Characters Property (Excel)
+title: DisplayUnitLabel.Characters property (Excel)
 keywords: vbaxl10.chm673080
 f1_keywords:
 - vbaxl10.chm673080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Characters Property (Excel)
+# DisplayUnitLabel.Characters property (Excel)
 
 Returns a  **[Characters](Excel.Characters.md)** object that represents a range of characters within the object text. You can use the **Characters** object to format characters within a text string.
 

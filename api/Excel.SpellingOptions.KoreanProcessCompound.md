@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.KoreanProcessCompound Property (Excel)
+title: SpellingOptions.KoreanProcessCompound property (Excel)
 keywords: vbaxl10.chm717082
 f1_keywords:
 - vbaxl10.chm717082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.KoreanProcessCompound Property (Excel)
+# SpellingOptions.KoreanProcessCompound property (Excel)
 
 When set to  **True** , this enables Microsoft Excel to process Korean compound nouns when using the spelling checker. Read/write **Boolean** .
 

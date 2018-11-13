@@ -1,5 +1,5 @@
 ---
-title: XlWebSelectionType Enumeration (Excel)
+title: xlWebSelectionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWebSelectionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWebSelectionType Enumeration (Excel)
+# xlWebSelectionType enumeration (Excel)
 
 Specifies whether an entire Web page, all tables on the Web page, or only a specific table is imported into a query table.
 

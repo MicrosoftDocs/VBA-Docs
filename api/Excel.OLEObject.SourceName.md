@@ -1,5 +1,5 @@
 ---
-title: OLEObject.SourceName Property (Excel)
+title: OLEObject.SourceName property (Excel)
 keywords: vbaxl10.chm417078
 f1_keywords:
 - vbaxl10.chm417078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.SourceName Property (Excel)
+# OLEObject.SourceName property (Excel)
 
 Returns or sets a  **String** value that represents the specified object's link source name.
 

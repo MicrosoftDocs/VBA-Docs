@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SourceType Property (Excel)
+title: SlicerCache.SourceType property (Excel)
 keywords: vbaxl10.chm897075
 f1_keywords:
 - vbaxl10.chm897075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SourceType Property (Excel)
+# SlicerCache.SourceType property (Excel)
 
 Returns the kind of data source the slicer is connected to. Read-only
 

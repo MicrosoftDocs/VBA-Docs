@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Count Property (Excel)
+title: CategoryCollection.Count property (Excel)
 keywords: vbaxl10.chm948074
 f1_keywords:
 - vbaxl10.chm948074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection.Count Property (Excel)
+# CategoryCollection.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the **CategoryCollection** (returns the number of categories visible in the chart). Read-only.
 

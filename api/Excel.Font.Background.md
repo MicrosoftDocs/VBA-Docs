@@ -1,5 +1,5 @@
 ---
-title: Font.Background Property (Excel)
+title: Font.Background property (Excel)
 keywords: vbaxl10.chm559073
 f1_keywords:
 - vbaxl10.chm559073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Background Property (Excel)
+# Font.Background property (Excel)
 
 Returns or sets the type of background for text used in charts. Read/write  **Variant** which is set to one of the constants of **[XlBackground](Excel.XlBackground.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightFooter Property (Excel)
+title: PageSetup.RightFooter property (Excel)
 keywords: vbaxl10.chm473099
 f1_keywords:
 - vbaxl10.chm473099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightFooter Property (Excel)
+# PageSetup.RightFooter property (Excel)
 
 Returns or sets the distance (in points) between the right edge of the page and the right boundary of the footer. Read/write  **String** .
 

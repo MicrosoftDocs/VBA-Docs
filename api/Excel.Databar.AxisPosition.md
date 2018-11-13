@@ -1,5 +1,5 @@
 ---
-title: Databar.AxisPosition Property (Excel)
+title: Databar.AxisPosition property (Excel)
 keywords: vbaxl10.chm810092
 f1_keywords:
 - vbaxl10.chm810092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.AxisPosition Property (Excel)
+# Databar.AxisPosition property (Excel)
 
 Returns or sets the position of the axis of the data bars specified by a conditional formatting rule. Read/write
 

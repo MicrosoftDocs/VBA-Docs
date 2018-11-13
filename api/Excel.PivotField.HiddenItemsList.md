@@ -1,5 +1,5 @@
 ---
-title: PivotField.HiddenItemsList Property (Excel)
+title: PivotField.HiddenItemsList property (Excel)
 keywords: vbaxl10.chm240129
 f1_keywords:
 - vbaxl10.chm240129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.HiddenItemsList Property (Excel)
+# PivotField.HiddenItemsList property (Excel)
 
 Returns or sets a  **Variant** specifying an array of strings that are hidden items for a PivotTable field. Read/write.
 

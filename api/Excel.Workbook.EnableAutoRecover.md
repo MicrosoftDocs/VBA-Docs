@@ -1,5 +1,5 @@
 ---
-title: Workbook.EnableAutoRecover Property (Excel)
+title: Workbook.EnableAutoRecover property (Excel)
 keywords: vbaxl10.chm199201
 f1_keywords:
 - vbaxl10.chm199201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.EnableAutoRecover Property (Excel)
+# Workbook.EnableAutoRecover property (Excel)
 
 Saves changed files, of all formats, on a timed interval. Read/write  **Boolean** .
 

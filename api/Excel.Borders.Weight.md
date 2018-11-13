@@ -1,5 +1,5 @@
 ---
-title: Borders.Weight Property (Excel)
+title: Borders.Weight property (Excel)
 keywords: vbaxl10.chm181080
 f1_keywords:
 - vbaxl10.chm181080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Weight Property (Excel)
+# Borders.Weight property (Excel)
 
 Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
 

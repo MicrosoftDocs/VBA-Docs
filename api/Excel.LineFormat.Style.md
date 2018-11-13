@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Style Property (Excel)
+title: LineFormat.Style property (Excel)
 keywords: vbaxl10.chm110012
 f1_keywords:
 - vbaxl10.chm110012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Style Property (Excel)
+# LineFormat.Style property (Excel)
 
 Returns or sets a  **[MsoLineStyle](Office.MsoLineStyle.md)** value that represents the style of the line.
 

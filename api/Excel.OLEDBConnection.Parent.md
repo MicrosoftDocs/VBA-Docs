@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Parent Property (Excel)
+title: OLEDBConnection.Parent property (Excel)
 keywords: vbaxl10.chm793075
 f1_keywords:
 - vbaxl10.chm793075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.Parent Property (Excel)
+# OLEDBConnection.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

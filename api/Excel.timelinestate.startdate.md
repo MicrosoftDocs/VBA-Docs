@@ -1,5 +1,5 @@
 ---
-title: TimelineState.StartDate Property (Excel)
+title: TimelineState.StartDate property (Excel)
 keywords: vbaxl10.chm950073
 f1_keywords:
 - vbaxl10.chm950073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.StartDate Property (Excel)
+# TimelineState.StartDate property (Excel)
 
 Returns the start of the filtering date range.  **Variant** Read-only
 
@@ -26,9 +26,9 @@ Returns the start of the filtering date range.  **Variant** Read-only
 This property will return an error for either of the following conditions:
 
 
-- [TimelineState.SingleRangeFilterState Property (Excel)](Excel.timelinestate.singlerangefilterstate.md) == **False**
+- [TimelineState.SingleRangeFilterState property (Excel)](Excel.timelinestate.singlerangefilterstate.md) == **False**
     
-- [SlicerCache.FilterCleared Property (Excel)](Excel.slicercache.filtercleared.md) == **True**
+- [SlicerCache.FilterCleared property (Excel)](Excel.slicercache.filtercleared.md) == **True**
     
 
 ## Property value

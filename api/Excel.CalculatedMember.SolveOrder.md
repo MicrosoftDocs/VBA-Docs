@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.SolveOrder Property (Excel)
+title: CalculatedMember.SolveOrder property (Excel)
 keywords: vbaxl10.chm686076
 f1_keywords:
 - vbaxl10.chm686076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.SolveOrder Property (Excel)
+# CalculatedMember.SolveOrder property (Excel)
 
 Returns a  **Long** specifying the value of the calculated member's solve order MDX (Mulitdimensional Expression) argument. The default value is zero. Read-only.
 

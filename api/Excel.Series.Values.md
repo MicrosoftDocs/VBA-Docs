@@ -1,5 +1,5 @@
 ---
-title: Series.Values Property (Excel)
+title: Series.Values property (Excel)
 keywords: vbaxl10.chm578111
 f1_keywords:
 - vbaxl10.chm578111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Values Property (Excel)
+# Series.Values property (Excel)
 
 Returns or sets a  **Variant** value that represents a collection of all the values in the series.
 

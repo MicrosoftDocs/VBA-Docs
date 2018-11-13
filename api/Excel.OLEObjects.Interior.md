@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Interior Property (Excel)
+title: OLEObjects.Interior property (Excel)
 keywords: vbaxl10.chm420074
 f1_keywords:
 - vbaxl10.chm420074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Interior Property (Excel)
+# OLEObjects.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object.
 

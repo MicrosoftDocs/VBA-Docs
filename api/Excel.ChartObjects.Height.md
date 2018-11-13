@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Height Property (Excel)
+title: ChartObjects.Height property (Excel)
 keywords: vbaxl10.chm497080
 f1_keywords:
 - vbaxl10.chm497080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Height Property (Excel)
+# ChartObjects.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the object.
 

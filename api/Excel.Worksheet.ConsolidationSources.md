@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ConsolidationSources Property (Excel)
+title: Worksheet.ConsolidationSources property (Excel)
 keywords: vbaxl10.chm175089
 f1_keywords:
 - vbaxl10.chm175089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ConsolidationSources Property (Excel)
+# Worksheet.ConsolidationSources property (Excel)
 
 Returns an array of string values that name the source sheets for the worksheet's current consolidation. Returns  **Empty** if there's no consolidation on the sheet. Read-only **Variant** .
 

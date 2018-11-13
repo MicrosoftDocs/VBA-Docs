@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Count Property (Excel)
+title: Phonetics.Count property (Excel)
 keywords: vbaxl10.chm658073
 f1_keywords:
 - vbaxl10.chm658073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Count Property (Excel)
+# Phonetics.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.Colors Property (Excel)
+title: Workbook.Colors property (Excel)
 keywords: vbaxl10.chm199088
 f1_keywords:
 - vbaxl10.chm199088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Colors Property (Excel)
+# Workbook.Colors property (Excel)
 
 Returns or sets colors in the palette for the workbook. The palette has 56 entries, each represented by an RGB value. Read/write  **Variant** .
 

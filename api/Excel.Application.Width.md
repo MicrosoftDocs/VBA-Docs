@@ -1,5 +1,5 @@
 ---
-title: Application.Width Property (Excel)
+title: Application.Width property (Excel)
 keywords: vbaxl10.chm133232
 f1_keywords:
 - vbaxl10.chm133232
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Width Property (Excel)
+# Application.Width property (Excel)
 
 Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the application window to its right edge.
 

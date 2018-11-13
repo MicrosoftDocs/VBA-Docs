@@ -1,5 +1,5 @@
 ---
-title: Font.Bold Property (Excel)
+title: Font.Bold property (Excel)
 keywords: vbaxl10.chm559074
 f1_keywords:
 - vbaxl10.chm559074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Bold Property (Excel)
+# Font.Bold property (Excel)
 
  **True** if the font is bold. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextConnection.Connection Property (Excel)
+title: TextConnection.Connection property (Excel)
 keywords: vbaxl10.chm926073
 f1_keywords:
 - vbaxl10.chm926073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.Connection Property (Excel)
+# TextConnection.Connection property (Excel)
 
 Returns or sets a string that contains text file names that enable Microsoft Excel to connect to text data sources.  **Variant** Read/Write
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnitScale Property (Excel)
+title: Axis.MinorUnitScale property (Excel)
 keywords: vbaxl10.chm561107
 f1_keywords:
 - vbaxl10.chm561107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorUnitScale Property (Excel)
+# Axis.MinorUnitScale property (Excel)
 
 Returns or sets the minor unit scale value for the category axis when the  **CategoryType** property is set to **xlTimeScale** . Read/write **[XlTimeUnit](Excel.XlTimeUnit.md)** .
 

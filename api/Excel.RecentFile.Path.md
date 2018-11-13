@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Path Property (Excel)
+title: RecentFile.Path property (Excel)
 keywords: vbaxl10.chm170074
 f1_keywords:
 - vbaxl10.chm170074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Path Property (Excel)
+# RecentFile.Path property (Excel)
 
 Returns a  **String** value that represents the complete path to the workbook/file that this RecentFile object respresents .
 

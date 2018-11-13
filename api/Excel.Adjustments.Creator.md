@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Creator Property (Excel)
+title: Adjustments.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.Adjustments.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Creator Property (Excel)
+# Adjustments.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

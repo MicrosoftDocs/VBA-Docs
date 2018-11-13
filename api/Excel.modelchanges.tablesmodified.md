@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.TablesModified Property (Excel)
+title: ModelChanges.TablesModified property (Excel)
 keywords: vbaxl10.chm960075
 f1_keywords:
 - vbaxl10.chm960075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.TablesModified Property (Excel)
+# ModelChanges.TablesModified property (Excel)
 
 Returns a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were refreshed or recalculated as part of a model operation. Read-only.
 

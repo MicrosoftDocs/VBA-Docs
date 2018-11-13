@@ -1,5 +1,5 @@
 ---
-title: Range.Comment Property (Excel)
+title: Range.Comment property (Excel)
 keywords: vbaxl10.chm144223
 f1_keywords:
 - vbaxl10.chm144223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Comment Property (Excel)
+# Range.Comment property (Excel)
 
 Returns a  **[Comment](Excel.Comment.md)** object that represents the comment associated with the cell in the upper-left corner of the range.
 

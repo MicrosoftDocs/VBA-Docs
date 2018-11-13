@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChange.Parent Property (Excel)
+title: ModelColumnChange.Parent property (Excel)
 keywords: vbaxl10.chm965075
 f1_keywords:
 - vbaxl10.chm965075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChange.Parent Property (Excel)
+# ModelColumnChange.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) object. Read-only.
 

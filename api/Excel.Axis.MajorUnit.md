@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnit Property (Excel)
+title: Axis.MajorUnit property (Excel)
 keywords: vbaxl10.chm561086
 f1_keywords:
 - vbaxl10.chm561086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorUnit Property (Excel)
+# Axis.MajorUnit property (Excel)
 
 Returns or sets the major units for the value axis. Read/write  **Double** .
 

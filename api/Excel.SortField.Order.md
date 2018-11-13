@@ -1,5 +1,5 @@
 ---
-title: SortField.Order Property (Excel)
+title: SortField.Order property (Excel)
 keywords: vbaxl10.chm843076
 f1_keywords:
 - vbaxl10.chm843076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.Order Property (Excel)
+# SortField.Order property (Excel)
 
 Determines the sort order for the values specified in the key. Read/write.
 

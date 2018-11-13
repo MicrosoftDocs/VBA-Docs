@@ -1,5 +1,5 @@
 ---
-title: Application.ReplaceFormat Property (Excel)
+title: Application.ReplaceFormat property (Excel)
 keywords: vbaxl10.chm133263
 f1_keywords:
 - vbaxl10.chm133263
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ReplaceFormat Property (Excel)
+# Application.ReplaceFormat property (Excel)
 
 Sets the replacement criteria to use in replacing cell formats. The replacement criteria is then used in a subsequent call to the Replace method of the Range object.
 

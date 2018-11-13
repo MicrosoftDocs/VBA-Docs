@@ -1,5 +1,5 @@
 ---
-title: PivotTable.MergeLabels Property (Excel)
+title: PivotTable.MergeLabels property (Excel)
 keywords: vbaxl10.chm235113
 f1_keywords:
 - vbaxl10.chm235113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.MergeLabels Property (Excel)
+# PivotTable.MergeLabels property (Excel)
 
  **True** if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. Read/write **Boolean** .
 

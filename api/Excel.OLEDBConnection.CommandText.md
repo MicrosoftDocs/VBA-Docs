@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.CommandText Property (Excel)
+title: OLEDBConnection.CommandText property (Excel)
 keywords: vbaxl10.chm794076
 f1_keywords:
 - vbaxl10.chm794076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.CommandText Property (Excel)
+# OLEDBConnection.CommandText property (Excel)
 
 Returns or sets the command string for the specified data source. Read/write  **Variant** .
 

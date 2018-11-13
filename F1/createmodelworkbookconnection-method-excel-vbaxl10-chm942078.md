@@ -15,6 +15,6 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.CreateModelWorkbookConnection Method (Excel)](http://msdn.microsoft.com/library/cd8c35e6-91ee-5d46-cc98-199b8916ecdd%28Office.15%29.aspx)
 
-[Model.DataModelConnection Property (Excel)](http://msdn.microsoft.com/library/07143535-fb4f-6c66-a31c-c0613ce4c3cd%28Office.15%29.aspx)
+[Model.DataModelConnection property (Excel)](http://msdn.microsoft.com/library/07143535-fb4f-6c66-a31c-c0613ce4c3cd%28Office.15%29.aspx)
 
 

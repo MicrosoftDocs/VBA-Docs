@@ -1,5 +1,5 @@
 ---
-title: Range.CurrentArray Property (Excel)
+title: Range.CurrentArray property (Excel)
 keywords: vbaxl10.chm144110
 f1_keywords:
 - vbaxl10.chm144110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CurrentArray Property (Excel)
+# Range.CurrentArray property (Excel)
 
 If the specified cell is part of an array, returns a  **[Range](Excel.Range(object).md)** object that represents the entire array. Read-only.
 

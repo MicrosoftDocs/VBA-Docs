@@ -1,5 +1,5 @@
 ---
-title: PivotField.ServerBased Property (Excel)
+title: PivotField.ServerBased property (Excel)
 keywords: vbaxl10.chm240110
 f1_keywords:
 - vbaxl10.chm240110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ServerBased Property (Excel)
+# PivotField.ServerBased property (Excel)
 
  **True** if the data source for the specified PivotTable report is external and only the items matching the page field selection are retrieved. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Borders.ColorIndex Property (Excel)
+title: Borders.ColorIndex property (Excel)
 keywords: vbaxl10.chm181074
 f1_keywords:
 - vbaxl10.chm181074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.ColorIndex Property (Excel)
+# Borders.ColorIndex property (Excel)
 
 Returns or sets a  **Variant** value that represents the color of all four borders.
 

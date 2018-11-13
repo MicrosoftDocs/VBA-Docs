@@ -1,5 +1,5 @@
 ---
-title: CubeField.TreeviewControl Property (Excel)
+title: CubeField.TreeviewControl property (Excel)
 keywords: vbaxl10.chm668079
 f1_keywords:
 - vbaxl10.chm668079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.TreeviewControl Property (Excel)
+# CubeField.TreeviewControl property (Excel)
 
 Returns the  **[TreeviewControl](Excel.TreeviewControl.md)** object of the **[CubeField](Excel.CubeField.md)** object, representing the cube manipulation control of an OLAP-based PivotTable report. Read-only.
 

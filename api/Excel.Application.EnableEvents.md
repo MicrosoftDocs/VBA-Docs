@@ -1,5 +1,5 @@
 ---
-title: Application.EnableEvents Property (Excel)
+title: Application.EnableEvents property (Excel)
 keywords: vbaxl10.chm133240
 f1_keywords:
 - vbaxl10.chm133240
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableEvents Property (Excel)
+# Application.EnableEvents property (Excel)
 
  **True** if events are enabled for the specified object. Read/write **Boolean** .
 

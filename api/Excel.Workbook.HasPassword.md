@@ -1,5 +1,5 @@
 ---
-title: Workbook.HasPassword Property (Excel)
+title: Workbook.HasPassword property (Excel)
 keywords: vbaxl10.chm199104
 f1_keywords:
 - vbaxl10.chm199104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.HasPassword Property (Excel)
+# Workbook.HasPassword property (Excel)
 
  **True** if the workbook has a protection password. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Item Property (Excel)
+title: Range.Item property (Excel)
 keywords: vbaxl10.chm144151
 f1_keywords:
 - vbaxl10.chm144151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Item Property (Excel)
+# Range.Item property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents a range at an offset to the specified range.
 

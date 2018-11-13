@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.TwoInitialCapitals Property (Excel)
+title: AutoCorrect.TwoInitialCapitals property (Excel)
 keywords: vbaxl10.chm545078
 f1_keywords:
 - vbaxl10.chm545078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.TwoInitialCapitals Property (Excel)
+# AutoCorrect.TwoInitialCapitals property (Excel)
 
  **True** if words that begin with two capital letters are corrected automatically. Read/write **Boolean** .
 

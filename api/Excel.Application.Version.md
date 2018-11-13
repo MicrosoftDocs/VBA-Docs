@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Excel)
+title: Application.Version property (Excel)
 keywords: vbaxl10.chm133228
 f1_keywords:
 - vbaxl10.chm133228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Version Property (Excel)
+# Application.Version property (Excel)
 
 Returns a  **String** value that represents the Microsoft Excel version number.
 

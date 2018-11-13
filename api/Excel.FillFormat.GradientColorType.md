@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientColorType Property (Excel)
+title: FillFormat.GradientColorType property (Excel)
 keywords: vbaxl10.chm115013
 f1_keywords:
 - vbaxl10.chm115013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientColorType Property (Excel)
+# FillFormat.GradientColorType property (Excel)
 
 Returns the gradient color type for the specified fill. Read-only  **[MsoGradientColorType](Office.MsoGradientColorType.md)** .
 

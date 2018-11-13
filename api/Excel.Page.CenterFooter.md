@@ -1,5 +1,5 @@
 ---
-title: Page.CenterFooter Property (Excel)
+title: Page.CenterFooter property (Excel)
 keywords: vbaxl10.chm830077
 f1_keywords:
 - vbaxl10.chm830077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.CenterFooter Property (Excel)
+# Page.CenterFooter property (Excel)
 
 Specifies a picture or text to be center aligned in the page footer.
 

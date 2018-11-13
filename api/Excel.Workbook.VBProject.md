@@ -1,5 +1,5 @@
 ---
-title: Workbook.VBProject Property (Excel)
+title: Workbook.VBProject property (Excel)
 keywords: vbaxl10.chm199181
 f1_keywords:
 - vbaxl10.chm199181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.VBProject Property (Excel)
+# Workbook.VBProject property (Excel)
 
 Returns a  **VBProject** object that represents the Visual Basic project in the specified workbook. Read-only.
 

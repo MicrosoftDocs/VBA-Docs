@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelPosition Enumeration (Office)
+title: xlDataLabelPosition Enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlDataLabelPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelPosition Enumeration (Office)
+# xlDataLabelPosition Enumeration (Office)
 
 Indicates the position of data labels relative to the data markers.
 

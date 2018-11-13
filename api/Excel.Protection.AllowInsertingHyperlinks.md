@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowInsertingHyperlinks Property (Excel)
+title: Protection.AllowInsertingHyperlinks property (Excel)
 keywords: vbaxl10.chm719078
 f1_keywords:
 - vbaxl10.chm719078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowInsertingHyperlinks Property (Excel)
+# Protection.AllowInsertingHyperlinks property (Excel)
 
 Returns  **True** if the insertion of hyperlinks is allowed on a protected worksheet. Read-only **Boolean** .
 

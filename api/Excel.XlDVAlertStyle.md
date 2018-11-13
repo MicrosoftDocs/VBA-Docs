@@ -1,5 +1,5 @@
 ---
-title: XlDVAlertStyle Enumeration (Excel)
+title: xlDVAlertStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDVAlertStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDVAlertStyle Enumeration (Excel)
+# xlDVAlertStyle enumeration (Excel)
 
 Specifies the icon used in message boxes displayed during validation.
 

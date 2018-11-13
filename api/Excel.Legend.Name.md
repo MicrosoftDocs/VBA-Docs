@@ -1,5 +1,5 @@
 ---
-title: Legend.Name Property (Excel)
+title: Legend.Name property (Excel)
 keywords: vbaxl10.chm622074
 f1_keywords:
 - vbaxl10.chm622074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Name Property (Excel)
+# Legend.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

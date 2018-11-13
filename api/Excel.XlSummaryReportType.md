@@ -1,5 +1,5 @@
 ---
-title: XlSummaryReportType Enumeration (Excel)
+title: xlSummaryReportType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSummaryReportType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSummaryReportType Enumeration (Excel)
+# xlSummaryReportType enumeration (Excel)
 
 Specifies the type of summary to be created for scenarios.
 

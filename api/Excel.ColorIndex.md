@@ -60,4 +60,4 @@ End With
 ```
 
 > [!NOTE] 
-> If you would like to use color with FormatCondition in Visual Basic, see [Interior.ColorIndex Property (Excel)](excel.interior.colorindex.md).
+> If you would like to use color with FormatCondition in Visual Basic, see [Interior.ColorIndex property (Excel)](excel.interior.colorindex.md).

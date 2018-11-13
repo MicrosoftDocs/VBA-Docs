@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureHorizontalScale Property (Excel)
+title: FillFormat.TextureHorizontalScale property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureHorizontalScale
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureHorizontalScale Property (Excel)
+# FillFormat.TextureHorizontalScale property (Excel)
 
 Returns or sets the value for horizontally scaling the text for the  **FillFormat** object. Read/write **Single** .
 

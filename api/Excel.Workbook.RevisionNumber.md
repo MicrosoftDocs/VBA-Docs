@@ -1,5 +1,5 @@
 ---
-title: Workbook.RevisionNumber Property (Excel)
+title: Workbook.RevisionNumber property (Excel)
 keywords: vbaxl10.chm199139
 f1_keywords:
 - vbaxl10.chm199139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RevisionNumber Property (Excel)
+# Workbook.RevisionNumber property (Excel)
 
 Returns the number of times the workbook has been saved while open as a shared list. If the workbook is open in exclusive mode, this property returns 0 (zero). Read-only  **Long** .
 

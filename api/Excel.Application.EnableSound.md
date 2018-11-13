@@ -1,5 +1,5 @@
 ---
-title: Application.EnableSound Property (Excel)
+title: Application.EnableSound property (Excel)
 keywords: vbaxl10.chm133132
 f1_keywords:
 - vbaxl10.chm133132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableSound Property (Excel)
+# Application.EnableSound property (Excel)
 
  **True** if sound is enabled for Microsoft Office. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayRSquared Property (Excel)
+title: Trendline.DisplayRSquared property (Excel)
 keywords: vbaxl10.chm594080
 f1_keywords:
 - vbaxl10.chm594080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.DisplayRSquared Property (Excel)
+# Trendline.DisplayRSquared property (Excel)
 
  **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Setting this property to **True** automatically turns on data labels. Read/write **Boolean** .
 

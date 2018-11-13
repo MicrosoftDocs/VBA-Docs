@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Application Property (Excel)
+title: ModelTableNameChanges.Application property (Excel)
 keywords: vbaxl10.chm957073
 f1_keywords:
 - vbaxl10.chm957073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Application Property (Excel)
+# ModelTableNameChanges.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Axes.Count Property (Excel)
+title: Axes.Count property (Excel)
 keywords: vbaxl10.chm572073
 f1_keywords:
 - vbaxl10.chm572073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Count Property (Excel)
+# Axes.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.PasswordEncryptionAlgorithm Property (Excel)
+title: Workbook.PasswordEncryptionAlgorithm property (Excel)
 keywords: vbaxl10.chm199212
 f1_keywords:
 - vbaxl10.chm199212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PasswordEncryptionAlgorithm Property (Excel)
+# Workbook.PasswordEncryptionAlgorithm property (Excel)
 
 Returns a  **String** indicating the algorithm Microsoft Excel uses to encrypt passwords for the specified workbook. Read-only.
 

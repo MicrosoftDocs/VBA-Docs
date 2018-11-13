@@ -1,5 +1,5 @@
 ---
-title: Actions.Item Property (Excel)
+title: Actions.Item property (Excel)
 keywords: vbaxl10.chm800075
 f1_keywords:
 - vbaxl10.chm800075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Actions.Item Property (Excel)
+# Actions.Item property (Excel)
 
 Returns a  **Actions** object that represents a collection of actions in a workbook. Read-only.
 

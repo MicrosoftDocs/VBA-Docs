@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontSize Property (Excel)
+title: TextEffectFormat.FontSize property (Excel)
 keywords: vbaxl10.chm118006
 f1_keywords:
 - vbaxl10.chm118006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontSize Property (Excel)
+# TextEffectFormat.FontSize property (Excel)
 
 Returns or sets the font size for the specified WordArt, in points. Read/write  **Single** .
 

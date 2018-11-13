@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultWebOptions Property (Excel)
+title: Application.DefaultWebOptions property (Excel)
 keywords: vbaxl10.chm133247
 f1_keywords:
 - vbaxl10.chm133247
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultWebOptions Property (Excel)
+# Application.DefaultWebOptions property (Excel)
 
 Returns the  **[DefaultWebOptions](Excel.DefaultWebOptions.md)** object that contains global application-level attributes used by Microsoft Excel whenever you save a document as a Web page or open a Web page. Read-only.
 

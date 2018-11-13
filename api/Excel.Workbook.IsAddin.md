@@ -1,5 +1,5 @@
 ---
-title: Workbook.IsAddin Property (Excel)
+title: Workbook.IsAddin property (Excel)
 keywords: vbaxl10.chm199106
 f1_keywords:
 - vbaxl10.chm199106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.IsAddin Property (Excel)
+# Workbook.IsAddin property (Excel)
 
  **True** if the workbook is running as an add-in. Read/write **Boolean** .
 

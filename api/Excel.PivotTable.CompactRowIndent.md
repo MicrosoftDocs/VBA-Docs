@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CompactRowIndent Property (Excel)
+title: PivotTable.CompactRowIndent property (Excel)
 keywords: vbaxl10.chm235163
 f1_keywords:
 - vbaxl10.chm235163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CompactRowIndent Property (Excel)
+# PivotTable.CompactRowIndent property (Excel)
 
 Returns or sets the indent increment for PivotItems when compact row layout form is turned on. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: XlFilterAllDatesInPeriod Enumeration (Excel)
+title: xlFilterAllDatesInPeriod enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFilterAllDatesInPeriod
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFilterAllDatesInPeriod Enumeration (Excel)
+# xlFilterAllDatesInPeriod enumeration (Excel)
 
 Specifies how dates should be filtered in the specified period.
 

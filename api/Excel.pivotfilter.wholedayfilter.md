@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.WholeDayFilter Property (Excel)
+title: PivotFilter.WholeDayFilter property (Excel)
 keywords: vbaxl10.chm770086
 f1_keywords:
 - vbaxl10.chm770086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.WholeDayFilter Property (Excel)
+# PivotFilter.WholeDayFilter property (Excel)
 
 Sets or gets the filtering semantics for date filters.  **Boolean** . Read/Write
 

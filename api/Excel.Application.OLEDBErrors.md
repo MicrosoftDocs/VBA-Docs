@@ -1,5 +1,5 @@
 ---
-title: Application.OLEDBErrors Property (Excel)
+title: Application.OLEDBErrors property (Excel)
 keywords: vbaxl10.chm133244
 f1_keywords:
 - vbaxl10.chm133244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OLEDBErrors Property (Excel)
+# Application.OLEDBErrors property (Excel)
 
 Returns the  **[OLEDBErrors](Excel.OLEDBErrors.md)** collection, which represents the error information returned by the most recent OLE DB query. Read-only.
 

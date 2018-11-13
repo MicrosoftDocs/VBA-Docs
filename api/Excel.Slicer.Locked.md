@@ -1,5 +1,5 @@
 ---
-title: Slicer.Locked Property (Excel)
+title: Slicer.Locked property (Excel)
 keywords: vbaxl10.chm905084
 f1_keywords:
 - vbaxl10.chm905084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Locked Property (Excel)
+# Slicer.Locked property (Excel)
 
 Returns or sets whether the specified slicer can be modified when the sheet that contains it is protected. Read/write.
 

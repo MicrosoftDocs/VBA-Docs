@@ -1,5 +1,5 @@
 ---
-title: Application.MailSystem Property (Excel)
+title: Application.MailSystem property (Excel)
 keywords: vbaxl10.chm133160
 f1_keywords:
 - vbaxl10.chm133160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailSystem Property (Excel)
+# Application.MailSystem property (Excel)
 
 Returns the mail system that's installed on the host machine. Read-only  **[XlMailSystem](Excel.XlMailSystem.md)** .
 

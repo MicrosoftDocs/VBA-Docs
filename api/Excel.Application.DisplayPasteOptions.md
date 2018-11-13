@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayPasteOptions Property (Excel)
+title: Application.DisplayPasteOptions property (Excel)
 keywords: vbaxl10.chm133273
 f1_keywords:
 - vbaxl10.chm133273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayPasteOptions Property (Excel)
+# Application.DisplayPasteOptions property (Excel)
 
  **True** if the **Paste Options** button can be displayed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UsedObjects Property (Excel)
+title: Application.UsedObjects property (Excel)
 keywords: vbaxl10.chm133264
 f1_keywords:
 - vbaxl10.chm133264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UsedObjects Property (Excel)
+# Application.UsedObjects property (Excel)
 
 Returns a [UsedObjects](Excel.UsedObjects.md)object representing objects allocated in a workbook. Read-only
 

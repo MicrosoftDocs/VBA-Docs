@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Name Property (Excel)
+title: DataLabels.Name property (Excel)
 keywords: vbaxl10.chm584074
 f1_keywords:
 - vbaxl10.chm584074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Name Property (Excel)
+# DataLabels.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

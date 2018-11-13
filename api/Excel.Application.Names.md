@@ -1,5 +1,5 @@
 ---
-title: Application.Names Property (Excel)
+title: Application.Names property (Excel)
 keywords: vbaxl10.chm132101
 f1_keywords:
 - vbaxl10.chm132101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Names Property (Excel)
+# Application.Names property (Excel)
 
 Returns a  **[Names](Excel.Names.md)** collection that represents all the names in the active workbook. Read-only **Names** object.
 

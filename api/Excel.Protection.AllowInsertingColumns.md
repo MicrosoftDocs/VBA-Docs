@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowInsertingColumns Property (Excel)
+title: Protection.AllowInsertingColumns property (Excel)
 keywords: vbaxl10.chm719076
 f1_keywords:
 - vbaxl10.chm719076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowInsertingColumns Property (Excel)
+# Protection.AllowInsertingColumns property (Excel)
 
 Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean** .
 

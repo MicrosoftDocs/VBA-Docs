@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Font Property (Excel)
+title: FormatCondition.Font property (Excel)
 keywords: vbaxl10.chm512080
 f1_keywords:
 - vbaxl10.chm512080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Font Property (Excel)
+# FormatCondition.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

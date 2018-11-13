@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.RefreshOnFileOpen Property (Excel)
+title: OLEDBConnection.RefreshOnFileOpen property (Excel)
 keywords: vbaxl10.chm794086
 f1_keywords:
 - vbaxl10.chm794086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.RefreshOnFileOpen Property (Excel)
+# OLEDBConnection.RefreshOnFileOpen property (Excel)
 
  **True** if the connection is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
 

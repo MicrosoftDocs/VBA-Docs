@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowUsingPivotTables Property (Excel)
+title: Protection.AllowUsingPivotTables property (Excel)
 keywords: vbaxl10.chm719083
 f1_keywords:
 - vbaxl10.chm719083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowUsingPivotTables Property (Excel)
+# Protection.AllowUsingPivotTables property (Excel)
 
 Returns  **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields.Count Property (Excel)
+title: CalculatedFields.Count property (Excel)
 keywords: vbaxl10.chm244073
 f1_keywords:
 - vbaxl10.chm244073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields.Count Property (Excel)
+# CalculatedFields.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

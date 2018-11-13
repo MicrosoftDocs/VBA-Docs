@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Characters Property (Excel)
+title: DataLabel.Characters property (Excel)
 keywords: vbaxl10.chm582081
 f1_keywords:
 - vbaxl10.chm582081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Characters Property (Excel)
+# DataLabel.Characters property (Excel)
 
 Returns a  **[Characters](Excel.Characters.md)** object that represents a range of characters within the object text. You can use the **Characters** object to format characters within a text string.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaLocal Property (Excel)
+title: Series.FormulaLocal property (Excel)
 keywords: vbaxl10.chm578085
 f1_keywords:
 - vbaxl10.chm578085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.FormulaLocal Property (Excel)
+# Series.FormulaLocal property (Excel)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.OnAction Property (Excel)
+title: Shape.OnAction property (Excel)
 keywords: vbaxl10.chm636120
 f1_keywords:
 - vbaxl10.chm636120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.OnAction Property (Excel)
+# Shape.OnAction property (Excel)
 
 Returns or sets the name of a macro that's run when the specified object is clicked. Read/write  **String** .
 

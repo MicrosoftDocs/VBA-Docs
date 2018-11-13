@@ -1,5 +1,5 @@
 ---
-title: Workbook.Theme Property (Excel)
+title: Workbook.Theme property (Excel)
 keywords: vbaxl10.chm199254
 f1_keywords:
 - vbaxl10.chm199254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Theme Property (Excel)
+# Workbook.Theme property (Excel)
 
 Returns the theme applied to the current workbook. Read-only.
 

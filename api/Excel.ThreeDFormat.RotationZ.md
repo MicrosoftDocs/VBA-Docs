@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationZ Property (Excel)
+title: ThreeDFormat.RotationZ property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.RotationZ
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.RotationZ Property (Excel)
+# ThreeDFormat.RotationZ property (Excel)
 
 Returns or sets the rotation of the extruded shape around the z-axis in degrees. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnected Property (Excel)
+title: ConnectorFormat.EndConnected property (Excel)
 keywords: vbaxl10.chm646080
 f1_keywords:
 - vbaxl10.chm646080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.EndConnected Property (Excel)
+# ConnectorFormat.EndConnected property (Excel)
 
  **msoTrue** if the end of the specified connector is connected to a shape. Read-only **[MsoTriState](Office.MsoTriState.md)** .
 

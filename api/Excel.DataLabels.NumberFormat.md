@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormat Property (Excel)
+title: DataLabels.NumberFormat property (Excel)
 keywords: vbaxl10.chm584093
 f1_keywords:
 - vbaxl10.chm584093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.NumberFormat Property (Excel)
+# DataLabels.NumberFormat property (Excel)
 
 Returns or sets a  **String** value that represents the format code for the object.
 

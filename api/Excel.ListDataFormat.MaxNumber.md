@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.MaxNumber Property (Excel)
+title: ListDataFormat.MaxNumber property (Excel)
 keywords: vbaxl10.chm758080
 f1_keywords:
 - vbaxl10.chm758080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.MaxNumber Property (Excel)
+# ListDataFormat.MaxNumber property (Excel)
 
 Returns a  **Variant** containing the maximum value allowed in this field in the list column. Read-only **Variant** .
 

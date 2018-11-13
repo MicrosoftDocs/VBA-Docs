@@ -1,5 +1,5 @@
 ---
-title: Series.HasErrorBars Property (Excel)
+title: Series.HasErrorBars property (Excel)
 keywords: vbaxl10.chm578089
 f1_keywords:
 - vbaxl10.chm578089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.HasErrorBars Property (Excel)
+# Series.HasErrorBars property (Excel)
 
  **True** if the series has error bars. This property isn't available for 3-D charts. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ModelMeasures.Count Property (Excel)
+title: ModelMeasures.Count property (Excel)
 keywords: vbaxl10.chm980073
 f1_keywords:
 - vbaxl10.chm980073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasures.Count Property (Excel)
+# ModelMeasures.Count property (Excel)
 
 Returns an integer that represents the number of objects in the collection.
 

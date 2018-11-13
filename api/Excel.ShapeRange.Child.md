@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Child Property (Excel)
+title: ShapeRange.Child property (Excel)
 keywords: vbaxl10.chm640130
 f1_keywords:
 - vbaxl10.chm640130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Child Property (Excel)
+# ShapeRange.Child property (Excel)
 
 Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 

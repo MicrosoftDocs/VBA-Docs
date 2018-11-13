@@ -1,5 +1,5 @@
 ---
-title: Worksheet.CustomProperties Property (Excel)
+title: Worksheet.CustomProperties property (Excel)
 keywords: vbaxl10.chm175152
 f1_keywords:
 - vbaxl10.chm175152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.CustomProperties Property (Excel)
+# Worksheet.CustomProperties property (Excel)
 
 Returns a  **[CustomProperties](Excel.CustomProperties.md)** object representing the identifier information associated with a worksheet.
 

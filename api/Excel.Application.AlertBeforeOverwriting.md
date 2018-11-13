@@ -1,5 +1,5 @@
 ---
-title: Application.AlertBeforeOverwriting Property (Excel)
+title: Application.AlertBeforeOverwriting property (Excel)
 keywords: vbaxl10.chm133077
 f1_keywords:
 - vbaxl10.chm133077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AlertBeforeOverwriting Property (Excel)
+# Application.AlertBeforeOverwriting property (Excel)
 
  **True** if Microsoft Excel displays a message before overwriting nonblank cells during a drag-and-drop editing operation. Read/write **Boolean** .
 

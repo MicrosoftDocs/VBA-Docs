@@ -1,5 +1,5 @@
 ---
-title: Parameter.DataType Property (Excel)
+title: Parameter.DataType property (Excel)
 keywords: vbaxl10.chm523073
 f1_keywords:
 - vbaxl10.chm523073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.DataType Property (Excel)
+# Parameter.DataType property (Excel)
 
 Returns or sets a  **[XlParameterDataType](Excel.XlParameterDataType.md)** value that represents the data type of the specified query parameter.
 

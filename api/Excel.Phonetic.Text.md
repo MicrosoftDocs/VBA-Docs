@@ -1,5 +1,5 @@
 ---
-title: Phonetic.Text Property (Excel)
+title: Phonetic.Text property (Excel)
 keywords: vbaxl10.chm628077
 f1_keywords:
 - vbaxl10.chm628077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetic.Text Property (Excel)
+# Phonetic.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.IncludeInLayout Property (Excel)
+title: ChartTitle.IncludeInLayout property (Excel)
 keywords: vbaxl10.chm563092
 f1_keywords:
 - vbaxl10.chm563092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.IncludeInLayout Property (Excel)
+# ChartTitle.IncludeInLayout property (Excel)
 
  **True** if a chart title will occupy the chart layout space when a chart layout is being determined. The default value is **True** . Read/write **Boolean** .
 

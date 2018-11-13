@@ -1,5 +1,5 @@
 ---
-title: Window.Panes Property (Excel)
+title: Window.Panes property (Excel)
 keywords: vbaxl10.chm356101
 f1_keywords:
 - vbaxl10.chm356101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Panes Property (Excel)
+# Window.Panes property (Excel)
 
 Returns a  **[Panes](Excel.Panes.md)** collection that represents all the panes in the specified window. Read-only.
 

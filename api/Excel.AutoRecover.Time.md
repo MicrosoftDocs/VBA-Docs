@@ -1,5 +1,5 @@
 ---
-title: AutoRecover.Time Property (Excel)
+title: AutoRecover.Time property (Excel)
 keywords: vbaxl10.chm696074
 f1_keywords:
 - vbaxl10.chm696074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover.Time Property (Excel)
+# AutoRecover.Time property (Excel)
 
 Sets or returns the time interval for the  **AutoRecover** object. Permissible values are integers from 1 to 120 minutes. The default value is 10 minutes. Read/write **Long** .
 

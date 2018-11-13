@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Column Property (Excel)
+title: TextFrame2.Column property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Column
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Column Property (Excel)
+# TextFrame2.Column property (Excel)
 
 Returns the  **TextColumn2** object that represents the columns within the text frame. Read-only.
 

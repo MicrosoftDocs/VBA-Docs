@@ -1,5 +1,5 @@
 ---
-title: Top10.Type Property (Excel)
+title: Top10.Type property (Excel)
 keywords: vbaxl10.chm822082
 f1_keywords:
 - vbaxl10.chm822082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Type Property (Excel)
+# Top10.Type property (Excel)
 
 Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
 

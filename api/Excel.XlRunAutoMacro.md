@@ -1,5 +1,5 @@
 ---
-title: XlRunAutoMacro Enumeration (Excel)
+title: xlRunAutoMacro enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRunAutoMacro
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRunAutoMacro Enumeration (Excel)
+# xlRunAutoMacro enumeration (Excel)
 
 Specifies the automatic macro to run.
 

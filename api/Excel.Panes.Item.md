@@ -1,5 +1,5 @@
 ---
-title: Panes.Item Property (Excel)
+title: Panes.Item property (Excel)
 keywords: vbaxl10.chm358074
 f1_keywords:
 - vbaxl10.chm358074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Item Property (Excel)
+# Panes.Item property (Excel)
 
 Returns a single object from a collection.
 

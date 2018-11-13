@@ -1,5 +1,5 @@
 ---
-title: PageSetup.DifferentFirstPageHeaderFooter Property (Excel)
+title: PageSetup.DifferentFirstPageHeaderFooter property (Excel)
 keywords: vbaxl10.chm473113
 f1_keywords:
 - vbaxl10.chm473113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.DifferentFirstPageHeaderFooter Property (Excel)
+# PageSetup.DifferentFirstPageHeaderFooter property (Excel)
 
  **True** if a different header or footer is used on the first page. Read/write **Boolean** .
 

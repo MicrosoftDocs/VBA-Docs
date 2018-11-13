@@ -1,5 +1,5 @@
 ---
-title: Application.AltStartupPath Property (Excel)
+title: Application.AltStartupPath property (Excel)
 keywords: vbaxl10.chm133078
 f1_keywords:
 - vbaxl10.chm133078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AltStartupPath Property (Excel)
+# Application.AltStartupPath property (Excel)
 
 Returns or sets the name of the alternate startup folder. Read/write  **String** .
 

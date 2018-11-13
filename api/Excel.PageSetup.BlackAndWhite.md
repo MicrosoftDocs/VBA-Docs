@@ -1,5 +1,5 @@
 ---
-title: PageSetup.BlackAndWhite Property (Excel)
+title: PageSetup.BlackAndWhite property (Excel)
 keywords: vbaxl10.chm473073
 f1_keywords:
 - vbaxl10.chm473073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.BlackAndWhite Property (Excel)
+# PageSetup.BlackAndWhite property (Excel)
 
  **True** if elements of the document will be printed in black and white. Read/write **Boolean** .
 

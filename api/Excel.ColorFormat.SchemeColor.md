@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.SchemeColor Property (Excel)
+title: ColorFormat.SchemeColor property (Excel)
 keywords: vbaxl10.chm105003
 f1_keywords:
 - vbaxl10.chm105003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.SchemeColor Property (Excel)
+# ColorFormat.SchemeColor property (Excel)
 
 Returns or sets an  **Integer** value that represents the color of a **Color** object, as an index in the current color.
 

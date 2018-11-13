@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLinked Property (Excel)
+title: TickLabels.NumberFormatLinked property (Excel)
 keywords: vbaxl10.chm616078
 f1_keywords:
 - vbaxl10.chm616078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.NumberFormatLinked Property (Excel)
+# TickLabels.NumberFormatLinked property (Excel)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
 

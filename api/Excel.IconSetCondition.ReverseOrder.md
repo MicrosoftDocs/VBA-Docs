@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.ReverseOrder Property (Excel)
+title: IconSetCondition.ReverseOrder property (Excel)
 keywords: vbaxl10.chm812083
 f1_keywords:
 - vbaxl10.chm812083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.ReverseOrder Property (Excel)
+# IconSetCondition.ReverseOrder property (Excel)
 
 Returns or sets a  **Boolean** value indicating if the order of icons is reversed for an icon set.
 

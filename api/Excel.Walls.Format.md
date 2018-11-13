@@ -1,5 +1,5 @@
 ---
-title: Walls.Format Property (Excel)
+title: Walls.Format property (Excel)
 keywords: vbaxl10.chm614084
 f1_keywords:
 - vbaxl10.chm614084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Format Property (Excel)
+# Walls.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

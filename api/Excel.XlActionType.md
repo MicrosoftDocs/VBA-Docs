@@ -1,23 +1,21 @@
 ---
-title: XlActionType Enumeration (Excel)
+title: xlActionType enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlActionType
+- Excel.xlActionType
 ms.assetid: 9a4489d3-6342-f86d-5eec-f9db2852f7c0
 ms.date: 06/08/2017
 ---
 
 
-# XlActionType Enumeration (Excel)
+# xlActionType enumeration (Excel)
 
 Specifies the action that should be performed.
 
-
-
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **xlActionTypeDrillthrough**|256|Drill through.|
-| **xlActionTypeReport**|128|Report.|
-| **xlActionTypeRowset**|16|Rowset.|
-| **xlActionTypeUrl**|1|URL.|
+| **xlActionTypeDrillthrough**|256|Drill through|
+| **xlActionTypeReport**|128|Report|
+| **xlActionTypeRowset**|16|Rowset|
+| **xlActionTypeUrl**|1|URL|
 

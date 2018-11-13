@@ -1,5 +1,5 @@
 ---
-title: XmlMap.PreserveNumberFormatting Property (Excel)
+title: XmlMap.PreserveNumberFormatting property (Excel)
 keywords: vbaxl10.chm754080
 f1_keywords:
 - vbaxl10.chm754080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.PreserveNumberFormatting Property (Excel)
+# XmlMap.PreserveNumberFormatting property (Excel)
 
  **True** if number formatting on cells mapped to the specified XML schema map will be preserved when the schema map is refreshed. The default value is **False** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaR1C1 Property (Excel)
+title: DataLabel.FormulaR1C1 property (Excel)
 keywords: vbaxl10.chm582109
 f1_keywords:
 - vbaxl10.chm582109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.FormulaR1C1 Property (Excel)
+# DataLabel.FormulaR1C1 property (Excel)
 
 Gets or sets a  **String** value that represents the formula of the object using R1C1-style notation, in English. Read/write.
 

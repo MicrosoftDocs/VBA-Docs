@@ -1,5 +1,5 @@
 ---
-title: XlFilterAction Enumeration (Excel)
+title: xlFilterAction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFilterAction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFilterAction Enumeration (Excel)
+# xlFilterAction enumeration (Excel)
 
 Specifies whether data is to be copied or left in place during a filter operation.
 

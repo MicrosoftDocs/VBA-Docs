@@ -1,5 +1,5 @@
 ---
-title: PivotItemList.Count Property (Excel)
+title: PivotItemList.Count property (Excel)
 keywords: vbaxl10.chm721073
 f1_keywords:
 - vbaxl10.chm721073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItemList.Count Property (Excel)
+# PivotItemList.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

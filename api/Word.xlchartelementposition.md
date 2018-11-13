@@ -1,12 +1,12 @@
 ---
-title: XlChartElementPosition Enumeration (Word)
+title: xlChartElementPosition Enumeration (Word)
 ms.prod: word
 ms.assetid: 96be8751-d642-dddf-3fd0-588d6cfe7410
 ms.date: 06/08/2017
 ---
 
 
-# XlChartElementPosition Enumeration (Word)
+# xlChartElementPosition Enumeration (Word)
 
 Specifies the position of the chart element.
 

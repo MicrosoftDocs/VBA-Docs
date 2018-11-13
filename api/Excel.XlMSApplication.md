@@ -1,5 +1,5 @@
 ---
-title: XlMSApplication Enumeration (Excel)
+title: xlMSApplication enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMSApplication
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlMSApplication Enumeration (Excel)
+# xlMSApplication enumeration (Excel)
 
 Specifies a Microsoft application.
 

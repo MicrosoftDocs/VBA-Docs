@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Type Property (Excel)
+title: FillFormat.Type property (Excel)
 keywords: vbaxl10.chm115023
 f1_keywords:
 - vbaxl10.chm115023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Type Property (Excel)
+# FillFormat.Type property (Excel)
 
 Returns a  **[MsoFillType](Office.MsoFillType.md)** value that represents the fill type.
 

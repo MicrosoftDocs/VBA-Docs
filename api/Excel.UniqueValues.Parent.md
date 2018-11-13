@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Parent Property (Excel)
+title: UniqueValues.Parent property (Excel)
 keywords: vbaxl10.chm825075
 f1_keywords:
 - vbaxl10.chm825075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Parent Property (Excel)
+# UniqueValues.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

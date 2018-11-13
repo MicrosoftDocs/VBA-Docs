@@ -1,5 +1,5 @@
 ---
-title: Font.Strikethrough Property (Excel)
+title: Font.Strikethrough property (Excel)
 keywords: vbaxl10.chm559083
 f1_keywords:
 - vbaxl10.chm559083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Strikethrough Property (Excel)
+# Font.Strikethrough property (Excel)
 
  **True** if the font is struck through with a horizontal line. Read/write **Boolean** .
 

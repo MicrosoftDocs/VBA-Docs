@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Parent Property (Excel)
+title: ShapeNode.Parent property (Excel)
 keywords: vbaxl10.chm111001
 f1_keywords:
 - vbaxl10.chm111001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.Parent Property (Excel)
+# ShapeNode.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

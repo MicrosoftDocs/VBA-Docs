@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebTables Property (Excel)
+title: QueryTable.WebTables property (Excel)
 keywords: vbaxl10.chm518124
 f1_keywords:
 - vbaxl10.chm518124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebTables Property (Excel)
+# QueryTable.WebTables property (Excel)
 
 Returns or sets a comma-delimited list of table names or table index numbers when you import a Web page into a query table. Read/write  **String** .
 

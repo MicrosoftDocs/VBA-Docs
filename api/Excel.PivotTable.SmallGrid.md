@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SmallGrid Property (Excel)
+title: PivotTable.SmallGrid property (Excel)
 keywords: vbaxl10.chm235134
 f1_keywords:
 - vbaxl10.chm235134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SmallGrid Property (Excel)
+# PivotTable.SmallGrid property (Excel)
 
  **True** if Microsoft Excel uses a grid that's two cells wide and two cells deep for a newly created PivotTable report. **False** if Excel uses a blank stencil outline. Read/write **Boolean** .
 

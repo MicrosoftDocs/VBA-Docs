@@ -1,5 +1,5 @@
 ---
-title: Filter.Operator Property (Excel)
+title: Filter.Operator property (Excel)
 keywords: vbaxl10.chm542077
 f1_keywords:
 - vbaxl10.chm542077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filter.Operator Property (Excel)
+# Filter.Operator property (Excel)
 
 Returns an  **[XlAutoFilterOperator](Excel.XlAutoFilterOperator.md)** value that represents the operator that associates the two criteria applied by the specified filter.
 

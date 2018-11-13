@@ -1,5 +1,5 @@
 ---
-title: Shape.OLEFormat Property (Excel)
+title: Shape.OLEFormat property (Excel)
 keywords: vbaxl10.chm636130
 f1_keywords:
 - vbaxl10.chm636130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.OLEFormat Property (Excel)
+# Shape.OLEFormat property (Excel)
 
 Returns an  **[OLEFormat](Excel.OLEFormat.md)** object that contains OLE object properties. Read-only.
 

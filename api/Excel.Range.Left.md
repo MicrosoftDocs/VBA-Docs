@@ -1,5 +1,5 @@
 ---
-title: Range.Left Property (Excel)
+title: Range.Left property (Excel)
 keywords: vbaxl10.chm144153
 f1_keywords:
 - vbaxl10.chm144153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Left Property (Excel)
+# Range.Left property (Excel)
 
 Returns a  **Variant** value that represents the distance, in points, from the left edge of column A to the left edge of the range.
 

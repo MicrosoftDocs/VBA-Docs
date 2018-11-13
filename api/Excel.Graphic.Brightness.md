@@ -1,5 +1,5 @@
 ---
-title: Graphic.Brightness Property (Excel)
+title: Graphic.Brightness property (Excel)
 keywords: vbaxl10.chm694073
 f1_keywords:
 - vbaxl10.chm694073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Brightness Property (Excel)
+# Graphic.Brightness property (Excel)
 
 Returns or sets the brightness of the specified picture or OLE object. The value for this property must be a number from 0.0 (dimmest) to 1.0 (brightest). Read/write  **Single** .
 

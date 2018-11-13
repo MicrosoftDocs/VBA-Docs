@@ -1,5 +1,5 @@
 ---
-title: XlPropertyDisplayedIn Enumeration (Excel)
+title: xlPropertyDisplayedIn enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPropertyDisplayedIn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPropertyDisplayedIn Enumeration (Excel)
+# xlPropertyDisplayedIn enumeration (Excel)
 
 Specifies where to display the property.
 

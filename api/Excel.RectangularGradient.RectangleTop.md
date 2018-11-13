@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient.RectangleTop Property (Excel)
+title: RectangularGradient.RectangleTop property (Excel)
 keywords: vbaxl10.chm857074
 f1_keywords:
 - vbaxl10.chm857074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient.RectangleTop Property (Excel)
+# RectangularGradient.RectangleTop property (Excel)
 
 Represents the point or vector that the gradient fill converges to. Read/write
 

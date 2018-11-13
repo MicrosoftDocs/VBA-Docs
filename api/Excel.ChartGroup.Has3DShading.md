@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Has3DShading Property (Excel)
+title: ChartGroup.Has3DShading property (Excel)
 keywords: vbaxl10.chm568100
 f1_keywords:
 - vbaxl10.chm568100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.Has3DShading Property (Excel)
+# ChartGroup.Has3DShading property (Excel)
 
 Returns or sets the 3D Shading property of a  **ChartGroup** object. Read/write **Boolean** .
 

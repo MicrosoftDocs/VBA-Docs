@@ -1,5 +1,5 @@
 ---
-title: PivotField.Position Property (Excel)
+title: PivotField.Position property (Excel)
 keywords: vbaxl10.chm240092
 f1_keywords:
 - vbaxl10.chm240092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Position Property (Excel)
+# PivotField.Position property (Excel)
 
 Returns or sets a Variant value that represents the position of the field (first, second, third, and so on) among all the fields in its orientation (Rows, Columns, Pages, Data).
 

@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternTintAndShade Property (Excel)
+title: Interior.PatternTintAndShade property (Excel)
 keywords: vbaxl10.chm551082
 f1_keywords:
 - vbaxl10.chm551082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.PatternTintAndShade Property (Excel)
+# Interior.PatternTintAndShade property (Excel)
 
 Returns or sets a tint and shade pattern for an  **Interior** object. Read/write **Variant** .
 

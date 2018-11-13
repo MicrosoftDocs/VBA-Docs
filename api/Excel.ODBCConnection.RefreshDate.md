@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.RefreshDate Property (Excel)
+title: ODBCConnection.RefreshDate property (Excel)
 keywords: vbaxl10.chm796080
 f1_keywords:
 - vbaxl10.chm796080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.RefreshDate Property (Excel)
+# ODBCConnection.RefreshDate property (Excel)
 
 Returns the date on which the ODBC connection was last refreshed. Read-only  **Date** .
 

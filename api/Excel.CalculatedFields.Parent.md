@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields.Parent Property (Excel)
+title: CalculatedFields.Parent property (Excel)
 keywords: vbaxl10.chm243075
 f1_keywords:
 - vbaxl10.chm243075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields.Parent Property (Excel)
+# CalculatedFields.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

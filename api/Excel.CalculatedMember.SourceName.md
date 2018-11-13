@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.SourceName Property (Excel)
+title: CalculatedMember.SourceName property (Excel)
 keywords: vbaxl10.chm686075
 f1_keywords:
 - vbaxl10.chm686075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.SourceName Property (Excel)
+# CalculatedMember.SourceName property (Excel)
 
 Returns a  **String** value that represents the specified object's name as it appears in the original source data for the specified PivotTable report.
 

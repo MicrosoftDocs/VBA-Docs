@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintGridlines Property (Excel)
+title: PageSetup.PrintGridlines property (Excel)
 keywords: vbaxl10.chm473093
 f1_keywords:
 - vbaxl10.chm473093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintGridlines Property (Excel)
+# PageSetup.PrintGridlines property (Excel)
 
  **True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean** .
 

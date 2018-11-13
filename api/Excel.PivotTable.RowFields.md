@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RowFields Property (Excel)
+title: PivotTable.RowFields property (Excel)
 keywords: vbaxl10.chm235093
 f1_keywords:
 - vbaxl10.chm235093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RowFields Property (Excel)
+# PivotTable.RowFields property (Excel)
 
 Returns an object that represents either a single field in a PivotTable report (a  **[PivotField](Excel.PivotField.md)** object) or a collection of all the fields (a **[PivotFields](Excel.PivotFields.md)** object) that are currently showing as row fields. Read-only.
 

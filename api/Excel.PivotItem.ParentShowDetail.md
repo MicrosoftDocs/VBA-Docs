@@ -1,5 +1,5 @@
 ---
-title: PivotItem.ParentShowDetail Property (Excel)
+title: PivotItem.ParentShowDetail property (Excel)
 keywords: vbaxl10.chm246080
 f1_keywords:
 - vbaxl10.chm246080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.ParentShowDetail Property (Excel)
+# PivotItem.ParentShowDetail property (Excel)
 
  **True** if the specified item is showing because one of its parents is showing detail. **False** if the specified item isn't showing because one of its parents is hiding detail. This property is available only if the item is grouped. Read-only **Boolean** .
 

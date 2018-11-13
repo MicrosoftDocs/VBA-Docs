@@ -1,5 +1,5 @@
 ---
-title: PivotTable.VacatedStyle Property (Excel)
+title: PivotTable.VacatedStyle property (Excel)
 keywords: vbaxl10.chm235129
 f1_keywords:
 - vbaxl10.chm235129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.VacatedStyle Property (Excel)
+# PivotTable.VacatedStyle property (Excel)
 
 Returns or sets the style applied to cells vacated when the PivotTable report is refreshed. The default value is a null string (no style is applied by default). Read/write  **String** .
 

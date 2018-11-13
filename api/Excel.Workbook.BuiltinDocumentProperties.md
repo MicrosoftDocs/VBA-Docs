@@ -1,5 +1,5 @@
 ---
-title: Workbook.BuiltinDocumentProperties Property (Excel)
+title: Workbook.BuiltinDocumentProperties property (Excel)
 keywords: vbaxl10.chm199081
 f1_keywords:
 - vbaxl10.chm199081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.BuiltinDocumentProperties Property (Excel)
+# Workbook.BuiltinDocumentProperties property (Excel)
 
 Returns a  **[DocumentProperties](./Office.DocumentProperties.md)** collection that represents all the built-in document properties for the specified workbook. Read-only.
 

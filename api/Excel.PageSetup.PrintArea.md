@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintArea Property (Excel)
+title: PageSetup.PrintArea property (Excel)
 keywords: vbaxl10.chm473092
 f1_keywords:
 - vbaxl10.chm473092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintArea Property (Excel)
+# PageSetup.PrintArea property (Excel)
 
 Returns or sets the range to be printed, as a string using A1-style references in the language of the macro. Read/write  **String** .
 

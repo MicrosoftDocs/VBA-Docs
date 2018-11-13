@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.DisplayZeros Property (Excel)
+title: WorksheetView.DisplayZeros property (Excel)
 keywords: vbaxl10.chm779077
 f1_keywords:
 - vbaxl10.chm779077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.DisplayZeros Property (Excel)
+# WorksheetView.DisplayZeros property (Excel)
 
  **True** if zero values are displayed. Read/write **Boolean** .
 

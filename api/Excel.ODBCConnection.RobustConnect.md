@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.RobustConnect Property (Excel)
+title: ODBCConnection.RobustConnect property (Excel)
 keywords: vbaxl10.chm796084
 f1_keywords:
 - vbaxl10.chm796084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.RobustConnect Property (Excel)
+# ODBCConnection.RobustConnect property (Excel)
 
 Returns or sets how ODBC connection connects to its data source. Read/write  **[XlRobustConnect](Excel.XlRobustConnect.md)** .
 

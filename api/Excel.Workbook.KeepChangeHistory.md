@@ -1,5 +1,5 @@
 ---
-title: Workbook.KeepChangeHistory Property (Excel)
+title: Workbook.KeepChangeHistory property (Excel)
 keywords: vbaxl10.chm199174
 f1_keywords:
 - vbaxl10.chm199174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.KeepChangeHistory Property (Excel)
+# Workbook.KeepChangeHistory property (Excel)
 
  **True** if change tracking is enabled for the shared workbook. Read/write **Boolean** .
 

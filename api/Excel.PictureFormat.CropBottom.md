@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropBottom Property (Excel)
+title: PictureFormat.CropBottom property (Excel)
 keywords: vbaxl10.chm113005
 f1_keywords:
 - vbaxl10.chm113005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropBottom Property (Excel)
+# PictureFormat.CropBottom property (Excel)
 
 Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single** .
 

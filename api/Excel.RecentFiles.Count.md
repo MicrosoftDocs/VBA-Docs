@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Count Property (Excel)
+title: RecentFiles.Count property (Excel)
 keywords: vbaxl10.chm172074
 f1_keywords:
 - vbaxl10.chm172074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Count Property (Excel)
+# RecentFiles.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Creator Property (Excel)
+title: Window.Creator property (Excel)
 keywords: vbaxl10.chm355074
 f1_keywords:
 - vbaxl10.chm355074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Creator Property (Excel)
+# Window.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCell.ServerActions Property (Excel)
+title: PivotCell.ServerActions property (Excel)
 keywords: vbaxl10.chm692090
 f1_keywords:
 - vbaxl10.chm692090
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.ServerActions Property (Excel)
+# PivotCell.ServerActions property (Excel)
 
 Represents a collection of  _actions_ consisting of OLAP-defined actions which can be executed. The actions are specific to PivotTables existing at a worksheet-level. Read-only
 

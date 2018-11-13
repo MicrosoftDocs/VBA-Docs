@@ -1,5 +1,5 @@
 ---
-title: Slicer.DisableMoveResizeUI Property (Excel)
+title: Slicer.DisableMoveResizeUI property (Excel)
 keywords: vbaxl10.chm905077
 f1_keywords:
 - vbaxl10.chm905077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.DisableMoveResizeUI Property (Excel)
+# Slicer.DisableMoveResizeUI property (Excel)
 
 Returns or sets whether the specified slicer can be moved or resized by using the user interface. Read/write.
 

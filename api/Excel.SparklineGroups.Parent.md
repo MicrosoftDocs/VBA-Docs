@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Parent Property (Excel)
+title: SparklineGroups.Parent property (Excel)
 keywords: vbaxl10.chm868075
 f1_keywords:
 - vbaxl10.chm868075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Parent Property (Excel)
+# SparklineGroups.Parent property (Excel)
 
 Returns the  **[Range](Excel.Range(object).md)** object for the specified object. Read-only.
 

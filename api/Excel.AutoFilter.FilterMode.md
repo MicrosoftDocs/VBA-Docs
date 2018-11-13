@@ -1,5 +1,5 @@
 ---
-title: AutoFilter.FilterMode Property (Excel)
+title: AutoFilter.FilterMode property (Excel)
 keywords: vbaxl10.chm538075
 f1_keywords:
 - vbaxl10.chm538075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter.FilterMode Property (Excel)
+# AutoFilter.FilterMode property (Excel)
 
 Returns  **True** if the worksheet is in the AutoFilter filter mode. Read-only **Boolean** .
 

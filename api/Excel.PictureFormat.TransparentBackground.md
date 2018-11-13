@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (Excel)
+title: PictureFormat.TransparentBackground property (Excel)
 keywords: vbaxl10.chm113010
 f1_keywords:
 - vbaxl10.chm113010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.TransparentBackground Property (Excel)
+# PictureFormat.TransparentBackground property (Excel)
 
 Use the  **[TransparencyColor](Excel.PictureFormat.TransparencyColor.md)** property to set the transparent color. Applies to bitmaps only. Read/write MsoTriState.
 

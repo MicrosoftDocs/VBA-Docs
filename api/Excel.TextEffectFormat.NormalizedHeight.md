@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Excel)
+title: TextEffectFormat.NormalizedHeight property (Excel)
 keywords: vbaxl10.chm118008
 f1_keywords:
 - vbaxl10.chm118008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (Excel)
+# TextEffectFormat.NormalizedHeight property (Excel)
 
  **True** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState** .
 

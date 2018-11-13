@@ -1,5 +1,5 @@
 ---
-title: Databar.BarColor Property (Excel)
+title: Databar.BarColor property (Excel)
 keywords: vbaxl10.chm810080
 f1_keywords:
 - vbaxl10.chm810080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.BarColor Property (Excel)
+# Databar.BarColor property (Excel)
 
 Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to modify the color of the bars in a data bar conditional format.
 

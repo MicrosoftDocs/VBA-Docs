@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Parent Property (Excel)
+title: XmlMap.Parent property (Excel)
 keywords: vbaxl10.chm753075
 f1_keywords:
 - vbaxl10.chm753075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.Parent Property (Excel)
+# XmlMap.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

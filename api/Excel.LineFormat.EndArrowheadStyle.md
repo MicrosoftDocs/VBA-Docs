@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadStyle Property (Excel)
+title: LineFormat.EndArrowheadStyle property (Excel)
 keywords: vbaxl10.chm110008
 f1_keywords:
 - vbaxl10.chm110008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.EndArrowheadStyle Property (Excel)
+# LineFormat.EndArrowheadStyle property (Excel)
 
 Returns or sets the style of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadStyle](Office.MsoArrowheadStyle.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Alignment Property (Excel)
+title: Phonetics.Alignment property (Excel)
 keywords: vbaxl10.chm658078
 f1_keywords:
 - vbaxl10.chm658078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Alignment Property (Excel)
+# Phonetics.Alignment property (Excel)
 
 Returns or sets a  **Long** value that represents the alignment for the specified phonetic text or tick label.
 

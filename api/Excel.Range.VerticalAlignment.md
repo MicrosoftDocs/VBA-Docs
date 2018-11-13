@@ -1,5 +1,5 @@
 ---
-title: Range.VerticalAlignment Property (Excel)
+title: Range.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm144218
 f1_keywords:
 - vbaxl10.chm144218
@@ -11,7 +11,7 @@ ms.date: 08/24/2017
 ---
 
 
-# Range.VerticalAlignment Property (Excel)
+# Range.VerticalAlignment property (Excel)
 
 Returns or sets a **Variant** value that represents the vertical alignment of the specified object. Read/write.
 

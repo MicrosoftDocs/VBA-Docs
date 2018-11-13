@@ -1,5 +1,5 @@
 ---
-title: XlSheetVisibility Enumeration (Excel)
+title: xlSheetVisibility enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSheetVisibility
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSheetVisibility Enumeration (Excel)
+# xlSheetVisibility enumeration (Excel)
 
 Specifies whether the object is visible.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinWidthValue Property (Excel)
+title: ChartGroup.BinWidthValue property (Excel)
 keywords: vbaxl10.chm568104
 f1_keywords:
 - vbaxl10.chm568104
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinWidthValue Property (Excel)
+# ChartGroup.BinWidthValue property (Excel)
 
 Specifies the number of points in each range. Read/write  **Double**.
 

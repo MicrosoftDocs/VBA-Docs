@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Position Property (Excel)
+title: DisplayUnitLabel.Position property (Excel)
 keywords: vbaxl10.chm673091
 f1_keywords:
 - vbaxl10.chm673091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Position Property (Excel)
+# DisplayUnitLabel.Position property (Excel)
 
 Returns or sets the position of the unit label on an axis in the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)** .
 

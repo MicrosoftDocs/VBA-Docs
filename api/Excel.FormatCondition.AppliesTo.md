@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.AppliesTo Property (Excel)
+title: FormatCondition.AppliesTo property (Excel)
 keywords: vbaxl10.chm512089
 f1_keywords:
 - vbaxl10.chm512089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.AppliesTo Property (Excel)
+# FormatCondition.AppliesTo property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 

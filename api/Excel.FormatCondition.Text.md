@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Text Property (Excel)
+title: FormatCondition.Text property (Excel)
 keywords: vbaxl10.chm512083
 f1_keywords:
 - vbaxl10.chm512083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Text Property (Excel)
+# FormatCondition.Text property (Excel)
 
 Returns or sets a  **String** value specifying the text string used by the conditional formatting rule.
 

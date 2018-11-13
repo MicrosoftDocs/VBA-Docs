@@ -1,5 +1,5 @@
 ---
-title: Page.CenterHeader Property (Excel)
+title: Page.CenterHeader property (Excel)
 keywords: vbaxl10.chm830074
 f1_keywords:
 - vbaxl10.chm830074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.CenterHeader Property (Excel)
+# Page.CenterHeader property (Excel)
 
 Specifies a picture or text to be center aligned in the page header.
 

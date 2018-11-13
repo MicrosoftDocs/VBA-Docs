@@ -1,5 +1,5 @@
 ---
-title: PivotCache.WorkbookConnection Property (Excel)
+title: PivotCache.WorkbookConnection property (Excel)
 keywords: vbaxl10.chm227107
 f1_keywords:
 - vbaxl10.chm227107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.WorkbookConnection Property (Excel)
+# PivotCache.WorkbookConnection property (Excel)
 
 Establishes a connection between the current workbook and the  **PivotCache** object. Read-only.
 

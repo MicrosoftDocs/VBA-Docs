@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.ReadingOrder Property (Excel)
+title: DisplayUnitLabel.ReadingOrder property (Excel)
 keywords: vbaxl10.chm673089
 f1_keywords:
 - vbaxl10.chm673089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.ReadingOrder Property (Excel)
+# DisplayUnitLabel.ReadingOrder property (Excel)
 
 Returns or sets the reading order for the specified object. Can be one of the following constants:  **xlRTL** (right-to-left), **xlLTR** (left-to-right), or **xlContext** . Read/write **Long** .
 

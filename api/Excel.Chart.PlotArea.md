@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotArea Property (Excel)
+title: Chart.PlotArea property (Excel)
 keywords: vbaxl10.chm149134
 f1_keywords:
 - vbaxl10.chm149134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotArea Property (Excel)
+# Chart.PlotArea property (Excel)
 
 Returns a  **[PlotArea](Excel.PlotArea(object).md)** object that represents the plot area of a chart. Read-only.
 

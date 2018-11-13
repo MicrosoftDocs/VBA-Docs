@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWorkbook Property (Excel)
+title: Application.ActiveWorkbook property (Excel)
 keywords: vbaxl10.chm183081
 f1_keywords:
 - vbaxl10.chm183081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveWorkbook Property (Excel)
+# Application.ActiveWorkbook property (Excel)
 
 Returns a  **[Workbook](Excel.Workbook.md)** object that represents the workbook in the active window (the window on top). Read-only. Returns **Nothing** if there are no windows open or if either the Info window or the Clipboard window is the active window.
 

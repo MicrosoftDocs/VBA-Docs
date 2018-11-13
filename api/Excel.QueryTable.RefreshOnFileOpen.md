@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RefreshOnFileOpen Property (Excel)
+title: QueryTable.RefreshOnFileOpen property (Excel)
 keywords: vbaxl10.chm518078
 f1_keywords:
 - vbaxl10.chm518078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RefreshOnFileOpen Property (Excel)
+# QueryTable.RefreshOnFileOpen property (Excel)
 
  **True** if the PivotTable cache or query table is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
 

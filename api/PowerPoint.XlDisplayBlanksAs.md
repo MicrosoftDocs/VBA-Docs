@@ -1,5 +1,5 @@
 ---
-title: XlDisplayBlanksAs Enumeration (PowerPoint)
+title: xlDisplayBlanksAs Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDisplayBlanksAs
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDisplayBlanksAs Enumeration (PowerPoint)
+# xlDisplayBlanksAs Enumeration (PowerPoint)
 
 Specifies how blank cells are plotted on a chart.
 

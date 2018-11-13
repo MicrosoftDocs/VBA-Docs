@@ -1,5 +1,5 @@
 ---
-title: XlLineStyle Enumeration (Excel)
+title: xlLineStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLineStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlLineStyle Enumeration (Excel)
+# xlLineStyle enumeration (Excel)
 
 Specifies the line style for the border.
 

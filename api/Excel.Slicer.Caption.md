@@ -1,5 +1,5 @@
 ---
-title: Slicer.Caption Property (Excel)
+title: Slicer.Caption property (Excel)
 keywords: vbaxl10.chm905074
 f1_keywords:
 - vbaxl10.chm905074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Caption Property (Excel)
+# Slicer.Caption property (Excel)
 
 Returns or sets the caption of the specified slicer. Read/write.
 

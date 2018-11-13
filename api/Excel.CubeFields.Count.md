@@ -1,5 +1,5 @@
 ---
-title: CubeFields.Count Property (Excel)
+title: CubeFields.Count property (Excel)
 keywords: vbaxl10.chm670073
 f1_keywords:
 - vbaxl10.chm670073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeFields.Count Property (Excel)
+# CubeFields.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

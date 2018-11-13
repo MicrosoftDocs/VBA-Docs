@@ -1,5 +1,5 @@
 ---
-title: XlPasteSpecialOperation Enumeration (Excel)
+title: xlPasteSpecialOperation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPasteSpecialOperation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPasteSpecialOperation Enumeration (Excel)
+# xlPasteSpecialOperation enumeration (Excel)
 
 Specifies how numeric data will be calculated with the destinations cells in the worksheet.
 

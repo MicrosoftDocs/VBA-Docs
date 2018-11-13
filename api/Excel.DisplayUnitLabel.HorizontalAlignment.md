@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.HorizontalAlignment Property (Excel)
+title: DisplayUnitLabel.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm673082
 f1_keywords:
 - vbaxl10.chm673082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.HorizontalAlignment Property (Excel)
+# DisplayUnitLabel.HorizontalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
 

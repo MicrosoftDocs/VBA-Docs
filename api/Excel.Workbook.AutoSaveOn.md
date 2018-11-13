@@ -1,5 +1,5 @@
 ---
-title: Workbook.AutoSaveOn Property (Excel)
+title: Workbook.AutoSaveOn property (Excel)
 keywords: vbaxl10.chm199287
 f1_keywords:
 - vbaxl10.chm199287
@@ -10,7 +10,7 @@ ms.date: 07/28/2017
 ---
 
 
-# Workbook.AutoSaveOn Property (Excel)
+# Workbook.AutoSaveOn property (Excel)
 
 **True** if the edits in the workbook are automatically saved. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.ReplacementList Property (Excel)
+title: AutoCorrect.ReplacementList property (Excel)
 keywords: vbaxl10.chm545076
 f1_keywords:
 - vbaxl10.chm545076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.ReplacementList Property (Excel)
+# AutoCorrect.ReplacementList property (Excel)
 
 Returns the array of AutoCorrect replacements.
 

@@ -1,5 +1,5 @@
 ---
-title: ListObject.Name Property (Excel)
+title: ListObject.Name property (Excel)
 keywords: vbaxl10.chm734088
 f1_keywords:
 - vbaxl10.chm734088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Name Property (Excel)
+# ListObject.Name property (Excel)
 
 Returns or sets a  **String** value that represents the name of the **[ListObject](Excel.ListObject.md)** object.
 

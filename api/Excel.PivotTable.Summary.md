@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Summary Property (Excel)
+title: PivotTable.Summary property (Excel)
 keywords: vbaxl10.chm235199
 f1_keywords:
 - vbaxl10.chm235199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Summary Property (Excel)
+# PivotTable.Summary property (Excel)
 
 Returns or sets the description associated with the alternative text string for the specified PivotTable. Read/write
 

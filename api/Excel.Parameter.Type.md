@@ -1,5 +1,5 @@
 ---
-title: Parameter.Type Property (Excel)
+title: Parameter.Type property (Excel)
 keywords: vbaxl10.chm523074
 f1_keywords:
 - vbaxl10.chm523074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.Type Property (Excel)
+# Parameter.Type property (Excel)
 
 Returns a  **[XlParameterType](Excel.XlParameterType.md)** value that represents the parameter type.
 

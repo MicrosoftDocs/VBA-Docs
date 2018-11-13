@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Count Property (Excel)
+title: ModelTableNameChanges.Count property (Excel)
 keywords: vbaxl10.chm958073
 f1_keywords:
 - vbaxl10.chm958073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Count Property (Excel)
+# ModelTableNameChanges.Count property (Excel)
 
 Returns a  **Long** value that represents the number of a [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) objects in a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) collection. Read-only.
 

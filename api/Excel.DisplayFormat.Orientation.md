@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Orientation Property (Excel)
+title: DisplayFormat.Orientation property (Excel)
 keywords: vbaxl10.chm893086
 f1_keywords:
 - vbaxl10.chm893086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Orientation Property (Excel)
+# DisplayFormat.Orientation property (Excel)
 
 Returns a value that represents the text orientation of the associated  **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

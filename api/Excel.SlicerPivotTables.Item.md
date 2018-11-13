@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.Item Property (Excel)
+title: SlicerPivotTables.Item property (Excel)
 keywords: vbaxl10.chm911074
 f1_keywords:
 - vbaxl10.chm911074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables.Item Property (Excel)
+# SlicerPivotTables.Item property (Excel)
 
 Returns a single  **[PivotTable](Excel.PivotTable.md)** object from the collection.
 

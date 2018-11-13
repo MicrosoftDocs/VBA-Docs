@@ -1,5 +1,5 @@
 ---
-title: Shape.Chart Property (Excel)
+title: Shape.Chart property (Excel)
 keywords: vbaxl10.chm636146
 f1_keywords:
 - vbaxl10.chm636146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Chart Property (Excel)
+# Shape.Chart property (Excel)
 
 Returns a  **[Chart](Excel.Chart(object).md)** object that represents the chart contained in the shape. Read-only.
 

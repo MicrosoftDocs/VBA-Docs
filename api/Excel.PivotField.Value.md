@@ -1,5 +1,5 @@
 ---
-title: PivotField.Value Property (Excel)
+title: PivotField.Value property (Excel)
 keywords: vbaxl10.chm240098
 f1_keywords:
 - vbaxl10.chm240098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Value Property (Excel)
+# PivotField.Value property (Excel)
 
 Returns or sets a  **String** value that represents the name of the specified field in the PivotTable report.
 

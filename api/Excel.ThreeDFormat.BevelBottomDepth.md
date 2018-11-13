@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomDepth Property (Excel)
+title: ThreeDFormat.BevelBottomDepth property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelBottomDepth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelBottomDepth Property (Excel)
+# ThreeDFormat.BevelBottomDepth property (Excel)
 
 Returns or sets the bottom depth when using the bevel effect on a  **ThreeDFormat** object. Read/write **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.Extent Property (Excel)
+title: VPageBreak.Extent property (Excel)
 keywords: vbaxl10.chm156077
 f1_keywords:
 - vbaxl10.chm156077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.Extent Property (Excel)
+# VPageBreak.Extent property (Excel)
 
 Returns the type of the specified page break: full-screen or only within a print area. Can be either of the following  **[XlPageBreakExtent](Excel.XlPageBreakExtent.md)** constants: **xlPageBreakFull** or **xlPageBreakPartial** . Read-only **Long** .
 

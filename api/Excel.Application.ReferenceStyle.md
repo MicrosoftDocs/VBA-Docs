@@ -1,5 +1,5 @@
 ---
-title: Application.ReferenceStyle Property (Excel)
+title: Application.ReferenceStyle property (Excel)
 keywords: vbaxl10.chm133197
 f1_keywords:
 - vbaxl10.chm133197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ReferenceStyle Property (Excel)
+# Application.ReferenceStyle property (Excel)
 
 Returns or sets how Microsoft Excel displays cell references and row and column headings in either A1 or R1C1 reference style. Read/write  **[XlReferenceStyle](Excel.XlReferenceStyle.md)** .
 

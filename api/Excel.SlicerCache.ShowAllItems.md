@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.ShowAllItems Property (Excel)
+title: SlicerCache.ShowAllItems property (Excel)
 keywords: vbaxl10.chm897088
 f1_keywords:
 - vbaxl10.chm897088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.ShowAllItems Property (Excel)
+# SlicerCache.ShowAllItems property (Excel)
 
 Returns or sets whether slicers connected to the specified slicer cache display items that have been deleted from in the corresponding PivotCache. Read/write
 

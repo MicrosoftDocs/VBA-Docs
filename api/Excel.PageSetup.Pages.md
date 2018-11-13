@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Pages Property (Excel)
+title: PageSetup.Pages property (Excel)
 keywords: vbaxl10.chm473116
 f1_keywords:
 - vbaxl10.chm473116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Pages Property (Excel)
+# PageSetup.Pages property (Excel)
 
 Returns or sets the count or item number of the pages in  **Pages** collection.
 

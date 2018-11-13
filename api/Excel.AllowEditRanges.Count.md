@@ -1,5 +1,5 @@
 ---
-title: AllowEditRanges.Count Property (Excel)
+title: AllowEditRanges.Count property (Excel)
 keywords: vbaxl10.chm724073
 f1_keywords:
 - vbaxl10.chm724073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRanges.Count Property (Excel)
+# AllowEditRanges.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

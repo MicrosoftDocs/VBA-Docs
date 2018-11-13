@@ -1,5 +1,5 @@
 ---
-title: PivotCell.PivotCellType Property (Excel)
+title: PivotCell.PivotCellType property (Excel)
 keywords: vbaxl10.chm692073
 f1_keywords:
 - vbaxl10.chm692073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.PivotCellType Property (Excel)
+# PivotCell.PivotCellType property (Excel)
 
 Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
 

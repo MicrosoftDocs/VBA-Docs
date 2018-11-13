@@ -1,5 +1,5 @@
 ---
-title: Parameters.Parent Property (Excel)
+title: Parameters.Parent property (Excel)
 keywords: vbaxl10.chm524075
 f1_keywords:
 - vbaxl10.chm524075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters.Parent Property (Excel)
+# Parameters.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

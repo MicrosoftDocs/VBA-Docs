@@ -1,5 +1,5 @@
 ---
-title: Characters.Parent Property (Excel)
+title: Characters.Parent property (Excel)
 keywords: vbaxl10.chm251075
 f1_keywords:
 - vbaxl10.chm251075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Parent Property (Excel)
+# Characters.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

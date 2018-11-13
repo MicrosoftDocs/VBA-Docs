@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnableAutoFilter Property (Excel)
+title: Worksheet.EnableAutoFilter property (Excel)
 keywords: vbaxl10.chm175094
 f1_keywords:
 - vbaxl10.chm175094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnableAutoFilter Property (Excel)
+# Worksheet.EnableAutoFilter property (Excel)
 
  **True** if AutoFilter arrows are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
 

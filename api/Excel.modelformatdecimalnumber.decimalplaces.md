@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDecimalNumber.DecimalPlaces Property (Excel)
+title: ModelFormatDecimalNumber.DecimalPlaces property (Excel)
 keywords: vbaxl10.chm986074
 f1_keywords:
 - vbaxl10.chm986074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDecimalNumber.DecimalPlaces Property (Excel)
+# ModelFormatDecimalNumber.DecimalPlaces property (Excel)
 
 Specifies the number of decimal places after the dot. Read/write  **Long**.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.HorizontalAlignment Property (Excel)
+title: Range.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm144146
 f1_keywords:
 - vbaxl10.chm144146
@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Range.HorizontalAlignment Property (Excel)
+# Range.HorizontalAlignment property (Excel)
 
 Returns or sets a **Variant** value that represents the horizontal alignment for the specified object. Read/write.
 

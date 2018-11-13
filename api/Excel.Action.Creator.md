@@ -1,5 +1,5 @@
 ---
-title: Action.Creator Property (Excel)
+title: Action.Creator property (Excel)
 keywords: vbaxl10.chm797074
 f1_keywords:
 - vbaxl10.chm797074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Creator Property (Excel)
+# Action.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

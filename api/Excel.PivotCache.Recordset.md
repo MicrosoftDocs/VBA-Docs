@@ -1,5 +1,5 @@
 ---
-title: PivotCache.Recordset Property (Excel)
+title: PivotCache.Recordset property (Excel)
 keywords: vbaxl10.chm227092
 f1_keywords:
 - vbaxl10.chm227092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.Recordset Property (Excel)
+# PivotCache.Recordset property (Excel)
 
 Returns or sets a  **Recordset** object that's used as the data source for the specified PivotTable cache. Read/write.
 

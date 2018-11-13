@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Border Property (Excel)
+title: CalloutFormat.Border property (Excel)
 keywords: vbaxl10.chm104010
 f1_keywords:
 - vbaxl10.chm104010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Border Property (Excel)
+# CalloutFormat.Border property (Excel)
 
 Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that represents the visibility options for the border of the object.
 

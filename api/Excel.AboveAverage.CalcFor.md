@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.CalcFor Property (Excel)
+title: AboveAverage.CalcFor property (Excel)
 keywords: vbaxl10.chm824088
 f1_keywords:
 - vbaxl10.chm824088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.CalcFor Property (Excel)
+# AboveAverage.CalcFor property (Excel)
 
 Returns or sets one of the constants of the **[xlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies the scope of data to be evaluated for the conditional format in a PivotTable report.
 

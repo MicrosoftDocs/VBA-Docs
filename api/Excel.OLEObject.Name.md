@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Name Property (Excel)
+title: OLEObject.Name property (Excel)
 keywords: vbaxl10.chm415086
 f1_keywords:
 - vbaxl10.chm415086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Name Property (Excel)
+# OLEObject.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

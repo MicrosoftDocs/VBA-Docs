@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourWidth Property (Excel)
+title: ThreeDFormat.ContourWidth property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ContourWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ContourWidth Property (Excel)
+# ThreeDFormat.ContourWidth property (Excel)
 
 Returns or sets the contour width for a  **ThreeDFormat** object. Read/write **Single** .
 

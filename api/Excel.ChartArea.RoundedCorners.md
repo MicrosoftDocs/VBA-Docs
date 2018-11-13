@@ -1,5 +1,5 @@
 ---
-title: ChartArea.RoundedCorners Property (Excel)
+title: ChartArea.RoundedCorners property (Excel)
 keywords: vbaxl10.chm620091
 f1_keywords:
 - vbaxl10.chm620091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.RoundedCorners Property (Excel)
+# ChartArea.RoundedCorners property (Excel)
 
  **True** if the chart area of the chart has rounded corners. Read/write **Boolean** .
 

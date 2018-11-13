@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (Excel)
+title: Chart.PlotBy property (Excel)
 keywords: vbaxl10.chm149155
 f1_keywords:
 - vbaxl10.chm149155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotBy Property (Excel)
+# Chart.PlotBy property (Excel)
 
 Returns or sets the way columns or rows are used as data series on the chart. Can be one of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows** . Read/write **Long** .
 

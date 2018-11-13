@@ -1,5 +1,5 @@
 ---
-title: XlChartItem Enumeration (PowerPoint)
+title: xlChartItem Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartItem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlChartItem Enumeration (PowerPoint)
+# xlChartItem Enumeration (PowerPoint)
 
 Specifies the type of the chart item.
 

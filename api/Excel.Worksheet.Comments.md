@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Comments Property (Excel)
+title: Worksheet.Comments property (Excel)
 keywords: vbaxl10.chm175139
 f1_keywords:
 - vbaxl10.chm175139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Comments Property (Excel)
+# Worksheet.Comments property (Excel)
 
 Returns a  **[Comments](Excel.Comments.md)** collection that represents all the comments for the specified worksheet. Read-only.
 

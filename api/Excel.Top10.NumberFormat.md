@@ -1,5 +1,5 @@
 ---
-title: Top10.NumberFormat Property (Excel)
+title: Top10.NumberFormat property (Excel)
 keywords: vbaxl10.chm822083
 f1_keywords:
 - vbaxl10.chm822083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.NumberFormat Property (Excel)
+# Top10.NumberFormat property (Excel)
 
 Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True** . Read/write **Variant** .
 

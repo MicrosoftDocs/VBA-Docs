@@ -1,5 +1,5 @@
 ---
-title: Filter.Count Property (Excel)
+title: Filter.Count property (Excel)
 keywords: vbaxl10.chm542078
 f1_keywords:
 - vbaxl10.chm542078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filter.Count Property (Excel)
+# Filter.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

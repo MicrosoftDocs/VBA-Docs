@@ -1,5 +1,5 @@
 ---
-title: XlSparkType Enumeration (Excel)
+title: xlSparkType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSparkType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSparkType Enumeration (Excel)
+# xlSparkType enumeration (Excel)
 
 Specifies the type of sparkline.
 

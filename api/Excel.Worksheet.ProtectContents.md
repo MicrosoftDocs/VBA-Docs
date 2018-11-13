@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ProtectContents Property (Excel)
+title: Worksheet.ProtectContents property (Excel)
 keywords: vbaxl10.chm174090
 f1_keywords:
 - vbaxl10.chm174090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ProtectContents Property (Excel)
+# Worksheet.ProtectContents property (Excel)
 
  **True** if the contents of the sheet are protected. This protects the individual cells. To turn on content protection, use the **[Protect](Excel.Worksheet.Protect.md)** method with the _Contents_ argument set to **True** . Read-only **Boolean** .
 

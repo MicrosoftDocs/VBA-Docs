@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.NumberAsText Property (Excel)
+title: ErrorCheckingOptions.NumberAsText property (Excel)
 keywords: vbaxl10.chm698077
 f1_keywords:
 - vbaxl10.chm698077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.NumberAsText Property (Excel)
+# ErrorCheckingOptions.NumberAsText property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain numbers written as text. **False** disables error checking for numbers written as text. Read/write **Boolean** .
 

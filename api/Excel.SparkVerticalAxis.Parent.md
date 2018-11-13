@@ -1,5 +1,5 @@
 ---
-title: SparkVerticalAxis.Parent Property (Excel)
+title: SparkVerticalAxis.Parent property (Excel)
 keywords: vbaxl10.chm880075
 f1_keywords:
 - vbaxl10.chm880075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkVerticalAxis.Parent Property (Excel)
+# SparkVerticalAxis.Parent property (Excel)
 
 Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ShowToolTips Property (Excel)
+title: Application.ShowToolTips property (Excel)
 keywords: vbaxl10.chm133215
 f1_keywords:
 - vbaxl10.chm133215
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowToolTips Property (Excel)
+# Application.ShowToolTips property (Excel)
 
  **True** if ToolTips are turned on. Read/write **Boolean** .
 

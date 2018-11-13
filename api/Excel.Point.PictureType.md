@@ -1,5 +1,5 @@
 ---
-title: Point.PictureType Property (Excel)
+title: Point.PictureType property (Excel)
 keywords: vbaxl10.chm576091
 f1_keywords:
 - vbaxl10.chm576091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.PictureType Property (Excel)
+# Point.PictureType property (Excel)
 
 Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a column or bar picture chart.
 

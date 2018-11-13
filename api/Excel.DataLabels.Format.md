@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Format Property (Excel)
+title: DataLabels.Format property (Excel)
 keywords: vbaxl10.chm584109
 f1_keywords:
 - vbaxl10.chm584109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Format Property (Excel)
+# DataLabels.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

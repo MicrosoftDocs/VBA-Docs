@@ -1,5 +1,5 @@
 ---
-title: CubeField.DragToData Property (Excel)
+title: CubeField.DragToData property (Excel)
 keywords: vbaxl10.chm668084
 f1_keywords:
 - vbaxl10.chm668084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.DragToData Property (Excel)
+# CubeField.DragToData property (Excel)
 
  **True** if the specified field can be dragged to the data position. The default value is **True** . Read/write **Boolean**
 

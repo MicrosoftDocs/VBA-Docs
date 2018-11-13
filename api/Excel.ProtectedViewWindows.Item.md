@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Item Property (Excel)
+title: ProtectedViewWindows.Item property (Excel)
 keywords: vbaxl10.chm913074
 f1_keywords:
 - vbaxl10.chm913074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Item Property (Excel)
+# ProtectedViewWindows.Item property (Excel)
 
 Returns a single object from a collection.
 

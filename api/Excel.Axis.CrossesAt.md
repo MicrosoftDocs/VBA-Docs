@@ -1,5 +1,5 @@
 ---
-title: Axis.CrossesAt Property (Excel)
+title: Axis.CrossesAt property (Excel)
 keywords: vbaxl10.chm561079
 f1_keywords:
 - vbaxl10.chm561079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.CrossesAt Property (Excel)
+# Axis.CrossesAt property (Excel)
 
 Returns or sets the point on the value axis where the category axis crosses it. Applies only to the value axis. Read/write  **Double** .
 

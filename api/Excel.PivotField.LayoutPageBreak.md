@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutPageBreak Property (Excel)
+title: PivotField.LayoutPageBreak property (Excel)
 keywords: vbaxl10.chm240121
 f1_keywords:
 - vbaxl10.chm240121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutPageBreak Property (Excel)
+# PivotField.LayoutPageBreak property (Excel)
 
  **True** if a page break is inserted after each field. The default value is **False** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Sort Property (Excel)
+title: QueryTable.Sort property (Excel)
 keywords: vbaxl10.chm518139
 f1_keywords:
 - vbaxl10.chm518139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Sort Property (Excel)
+# QueryTable.Sort property (Excel)
 
 Returns the sort criteria for the query table range. Read-only.
 

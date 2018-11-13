@@ -1,5 +1,5 @@
 ---
-title: ModelConnection.CommandText Property (Excel)
+title: ModelConnection.CommandText property (Excel)
 keywords: vbaxl10.chm922073
 f1_keywords:
 - vbaxl10.chm922073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection.CommandText Property (Excel)
+# ModelConnection.CommandText property (Excel)
 
 Returns or sets the command string for the specified data source.  **Variant** Read/Write
 

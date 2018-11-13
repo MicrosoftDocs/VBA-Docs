@@ -1,5 +1,5 @@
 ---
-title: XlConstants Enumeration (Word)
+title: xlConstants Enumeration (Word)
 ms.prod: word
 api_name:
 - Word.XlConstants
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlConstants Enumeration (Word)
+# xlConstants Enumeration (Word)
 
 Specifies a miscellaneous constant in Microsoft Word.
 

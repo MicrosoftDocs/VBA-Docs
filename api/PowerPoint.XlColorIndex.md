@@ -1,5 +1,5 @@
 ---
-title: XlColorIndex Enumeration (PowerPoint)
+title: xlColorIndex Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlColorIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlColorIndex Enumeration (PowerPoint)
+# xlColorIndex Enumeration (PowerPoint)
 
 Specifies the color of a selected feature, such as a border, font, or fill.
 

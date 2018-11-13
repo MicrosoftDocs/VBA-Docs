@@ -1,5 +1,5 @@
 ---
-title: Shape.TextEffect Property (Excel)
+title: Shape.TextEffect property (Excel)
 keywords: vbaxl10.chm636108
 f1_keywords:
 - vbaxl10.chm636108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.TextEffect Property (Excel)
+# Shape.TextEffect property (Excel)
 
 Returns a  **[TextEffectFormat](Excel.TextEffectFormat.md)** object that contains text-effect formatting properties for the specified shape. Read-only.
 

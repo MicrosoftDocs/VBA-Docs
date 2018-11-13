@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelPosition Enumeration (Excel)
+title: xlDataLabelPosition enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataLabelPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelPosition Enumeration (Excel)
+# xlDataLabelPosition enumeration (Excel)
 
 Specifies where the data label is positioned.
 

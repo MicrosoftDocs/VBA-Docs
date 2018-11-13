@@ -1,5 +1,5 @@
 ---
-title: Model.Creator Property (Excel)
+title: Model.Creator property (Excel)
 keywords: vbaxl10.chm941074
 f1_keywords:
 - vbaxl10.chm941074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.Creator Property (Excel)
+# Model.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

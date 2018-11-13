@@ -1,5 +1,5 @@
 ---
-title: Application.Caption Property (Excel)
+title: Application.Caption property (Excel)
 keywords: vbaxl10.chm133088
 f1_keywords:
 - vbaxl10.chm133088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Caption Property (Excel)
+# Application.Caption property (Excel)
 
 Returns or sets a  **String** value that represents the name that appears in the title bar of the main Microsoft Excel window.
 

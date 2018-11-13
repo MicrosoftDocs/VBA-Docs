@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Recordset Property (Excel)
+title: QueryTable.Recordset property (Excel)
 keywords: vbaxl10.chm518094
 f1_keywords:
 - vbaxl10.chm518094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Recordset Property (Excel)
+# QueryTable.Recordset property (Excel)
 
 Returns or sets a  **Recordset** object that's used as the data source for the specified query table. Read/write.
 

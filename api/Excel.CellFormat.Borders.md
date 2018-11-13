@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Borders Property (Excel)
+title: CellFormat.Borders property (Excel)
 keywords: vbaxl10.chm676073
 f1_keywords:
 - vbaxl10.chm676073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Borders Property (Excel)
+# CellFormat.Borders property (Excel)
 
 Returns or sets a  **[Borders](Excel.Borders.md)** collection that represents the search criteria based on the cell's border format.
 

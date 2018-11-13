@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Creator Property (Excel)
+title: ProtectedViewWindows.Creator property (Excel)
 keywords: vbaxl10.chm912074
 f1_keywords:
 - vbaxl10.chm912074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Creator Property (Excel)
+# ProtectedViewWindows.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

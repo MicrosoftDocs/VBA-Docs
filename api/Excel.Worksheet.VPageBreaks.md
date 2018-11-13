@@ -1,5 +1,5 @@
 ---
-title: Worksheet.VPageBreaks Property (Excel)
+title: Worksheet.VPageBreaks property (Excel)
 keywords: vbaxl10.chm175136
 f1_keywords:
 - vbaxl10.chm175136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.VPageBreaks Property (Excel)
+# Worksheet.VPageBreaks property (Excel)
 
 Returns a  **[VPageBreaks](Excel.Worksheet.VPageBreaks.md)** collection that represents the vertical page breaks on the sheet. Read-only.
 

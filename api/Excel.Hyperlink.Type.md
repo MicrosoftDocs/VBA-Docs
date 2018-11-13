@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Type Property (Excel)
+title: Hyperlink.Type property (Excel)
 keywords: vbaxl10.chm536079
 f1_keywords:
 - vbaxl10.chm536079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Type Property (Excel)
+# Hyperlink.Type property (Excel)
 
 Returns a  **Long** value, containing a **[MsoHyperlinkType](Office.MsoHyperlinkType.md)** constant, that represents the location of the HTML frame.
 

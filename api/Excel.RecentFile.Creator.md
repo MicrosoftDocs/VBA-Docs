@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Creator Property (Excel)
+title: RecentFile.Creator property (Excel)
 keywords: vbaxl10.chm169074
 f1_keywords:
 - vbaxl10.chm169074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Creator Property (Excel)
+# RecentFile.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

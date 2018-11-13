@@ -1,5 +1,5 @@
 ---
-title: Slicer.ActiveItem Property (Excel)
+title: Slicer.ActiveItem property (Excel)
 keywords: vbaxl10.chm905092
 f1_keywords:
 - vbaxl10.chm905092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.ActiveItem Property (Excel)
+# Slicer.ActiveItem property (Excel)
 
 Returns a  **[SlicerItem](Excel.SlicerItem.md)** object that represents the slicer button that is currently in focus for the specified slicer. Read-only.
 

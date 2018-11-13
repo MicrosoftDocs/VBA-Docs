@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Description Property (Excel)
+title: WorkbookConnection.Description property (Excel)
 keywords: vbaxl10.chm774074
 f1_keywords:
 - vbaxl10.chm774074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.Description Property (Excel)
+# WorkbookConnection.Description property (Excel)
 
 Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.Date1904 Property (Excel)
+title: Workbook.Date1904 property (Excel)
 keywords: vbaxl10.chm199095
 f1_keywords:
 - vbaxl10.chm199095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Date1904 Property (Excel)
+# Workbook.Date1904 property (Excel)
 
  **True** if the workbook uses the 1904 date system. Read/write **Boolean** .
 

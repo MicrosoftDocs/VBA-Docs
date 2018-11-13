@@ -1,5 +1,5 @@
 ---
-title: Windows.Item Property (Excel)
+title: Windows.Item property (Excel)
 keywords: vbaxl10.chm354075
 f1_keywords:
 - vbaxl10.chm354075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Item Property (Excel)
+# Windows.Item property (Excel)
 
 Returns a single object from a collection.
 

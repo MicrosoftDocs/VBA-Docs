@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerStyle Property (Excel)
+title: Series.MarkerStyle property (Excel)
 keywords: vbaxl10.chm578098
 f1_keywords:
 - vbaxl10.chm578098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerStyle Property (Excel)
+# Series.MarkerStyle property (Excel)
 
 Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Excel.XlMarkerStyle.md)** .
 

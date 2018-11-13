@@ -1,5 +1,5 @@
 ---
-title: Style.ShrinkToFit Property (Excel)
+title: Style.ShrinkToFit property (Excel)
 keywords: vbaxl10.chm177095
 f1_keywords:
 - vbaxl10.chm177095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.ShrinkToFit Property (Excel)
+# Style.ShrinkToFit property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if text automatically shrinks to fit in the available column width.
 

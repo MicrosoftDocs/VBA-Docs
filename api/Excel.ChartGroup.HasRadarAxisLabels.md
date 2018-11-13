@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasRadarAxisLabels Property (Excel)
+title: ChartGroup.HasRadarAxisLabels property (Excel)
 keywords: vbaxl10.chm568081
 f1_keywords:
 - vbaxl10.chm568081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasRadarAxisLabels Property (Excel)
+# ChartGroup.HasRadarAxisLabels property (Excel)
 
  **True** if a radar chart has axis labels. Applies only to radar charts. Read/write **Boolean** .
 

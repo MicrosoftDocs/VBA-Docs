@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReadOnlyRecommended Property (Excel)
+title: Workbook.ReadOnlyRecommended property (Excel)
 keywords: vbaxl10.chm199216
 f1_keywords:
 - vbaxl10.chm199216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ReadOnlyRecommended Property (Excel)
+# Workbook.ReadOnlyRecommended property (Excel)
 
  **True** if the workbook was saved as read-only recommended. Read-only **Boolean** .
 

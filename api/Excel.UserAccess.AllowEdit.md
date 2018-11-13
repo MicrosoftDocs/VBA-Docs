@@ -1,5 +1,5 @@
 ---
-title: UserAccess.AllowEdit Property (Excel)
+title: UserAccess.AllowEdit property (Excel)
 keywords: vbaxl10.chm727074
 f1_keywords:
 - vbaxl10.chm727074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccess.AllowEdit Property (Excel)
+# UserAccess.AllowEdit property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the user is allowed access to the specified range on a protected worksheet.
 

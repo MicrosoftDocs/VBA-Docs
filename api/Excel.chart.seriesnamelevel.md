@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesNameLevel Property (Excel)
+title: Chart.SeriesNameLevel property (Excel)
 keywords: vbaxl10.chm149196
 f1_keywords:
 - vbaxl10.chm149196
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SeriesNameLevel Property (Excel)
+# Chart.SeriesNameLevel property (Excel)
 
-Returns a  **[XlSeriesNameLevel Enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
+Returns a  **[xlSeriesNameLevel enumeration (Excel)](Excel.xlseriesnamelevel.md)** constant referring to the level of where the series names are being sourced from. **Integer** Read/Write.
 
 
 ## Syntax

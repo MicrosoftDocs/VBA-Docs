@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.PivotTables Property (Excel)
+title: SlicerCache.PivotTables property (Excel)
 keywords: vbaxl10.chm897078
 f1_keywords:
 - vbaxl10.chm897078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.PivotTables Property (Excel)
+# SlicerCache.PivotTables property (Excel)
 
 Returns a  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection that contains information about the PivotTables the slicer cache is currently filtering. Read-only
 

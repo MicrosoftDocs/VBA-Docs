@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Schemas Property (Excel)
+title: XmlMap.Schemas property (Excel)
 keywords: vbaxl10.chm754084
 f1_keywords:
 - vbaxl10.chm754084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.Schemas Property (Excel)
+# XmlMap.Schemas property (Excel)
 
  Returns an **[XmlSchemas](Excel.XmlSchemas.md)** collection that represents the schemas that the specified **[XmlMap](Excel.XmlMap.md)** object contains. Read-only.
 

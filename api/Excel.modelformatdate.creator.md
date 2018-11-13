@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDate.Creator Property (Excel)
+title: ModelFormatDate.Creator property (Excel)
 keywords: vbaxl10.chm983074
 f1_keywords:
 - vbaxl10.chm983074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDate.Creator Property (Excel)
+# ModelFormatDate.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

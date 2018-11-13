@@ -1,5 +1,5 @@
 ---
-title: Range.Value2 Property (Excel)
+title: Range.Value2 property (Excel)
 keywords: vbaxl10.chm144217
 f1_keywords:
 - vbaxl10.chm144217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Value2 Property (Excel)
+# Range.Value2 property (Excel)
 
 Returns or sets the cell value. Read/write  **Variant** .
 

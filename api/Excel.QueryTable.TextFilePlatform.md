@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFilePlatform Property (Excel)
+title: QueryTable.TextFilePlatform property (Excel)
 keywords: vbaxl10.chm518098
 f1_keywords:
 - vbaxl10.chm518098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFilePlatform Property (Excel)
+# QueryTable.TextFilePlatform property (Excel)
 
 Returns or sets the origin of the text file you're importing into the query table. This property determines which code page is used during the data import. Read/write  **[XlPlatform](Excel.XlPlatform.md)** .
 

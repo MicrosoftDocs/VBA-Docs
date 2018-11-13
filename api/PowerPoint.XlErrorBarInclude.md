@@ -1,5 +1,5 @@
 ---
-title: XlErrorBarInclude Enumeration (PowerPoint)
+title: xlErrorBarInclude Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarInclude
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlErrorBarInclude Enumeration (PowerPoint)
+# xlErrorBarInclude Enumeration (PowerPoint)
 
 Specifies which error-bar parts to include.
 

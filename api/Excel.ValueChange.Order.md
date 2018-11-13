@@ -1,5 +1,5 @@
 ---
-title: ValueChange.Order Property (Excel)
+title: ValueChange.Order property (Excel)
 keywords: vbaxl10.chm889073
 f1_keywords:
 - vbaxl10.chm889073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.Order Property (Excel)
+# ValueChange.Order property (Excel)
 
 Returns a value that indicates the order in which this change was performed relative to other changes in the  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection. Read-only
 

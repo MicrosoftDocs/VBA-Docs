@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScale Property (Excel)
+title: Axis.MaximumScale property (Excel)
 keywords: vbaxl10.chm561088
 f1_keywords:
 - vbaxl10.chm561088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MaximumScale Property (Excel)
+# Axis.MaximumScale property (Excel)
 
 Returns or sets the maximum value on the value axis. Read/write  **Double** .
 

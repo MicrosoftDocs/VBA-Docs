@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowDeletingColumns Property (Excel)
+title: Protection.AllowDeletingColumns property (Excel)
 keywords: vbaxl10.chm719079
 f1_keywords:
 - vbaxl10.chm719079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowDeletingColumns Property (Excel)
+# Protection.AllowDeletingColumns property (Excel)
 
 Returns  **True** if the deletion of columns is allowed on a protected worksheet. Read-only **Boolean** .
 

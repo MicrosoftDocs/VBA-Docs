@@ -1,5 +1,5 @@
 ---
-title: XlMouseButton Enumeration (Excel)
+title: xlMouseButton enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMouseButton
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlMouseButton Enumeration (Excel)
+# xlMouseButton enumeration (Excel)
 
 Specifies which mouse button was pressed.
 

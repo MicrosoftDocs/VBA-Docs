@@ -1,5 +1,5 @@
 ---
-title: PivotField.DragToPage Property (Excel)
+title: PivotField.DragToPage property (Excel)
 keywords: vbaxl10.chm240104
 f1_keywords:
 - vbaxl10.chm240104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DragToPage Property (Excel)
+# PivotField.DragToPage property (Excel)
 
  **True** if the field can be dragged to the page position. The default value is **True** . Read/write **Boolean** .
 

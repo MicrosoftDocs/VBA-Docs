@@ -1,5 +1,5 @@
 ---
-title: Shape.BlackWhiteMode Property (Excel)
+title: Shape.BlackWhiteMode property (Excel)
 keywords: vbaxl10.chm636118
 f1_keywords:
 - vbaxl10.chm636118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.BlackWhiteMode Property (Excel)
+# Shape.BlackWhiteMode property (Excel)
 
 Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)** .
 

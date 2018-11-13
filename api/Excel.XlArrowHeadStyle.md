@@ -1,18 +1,16 @@
 ---
-title: XlArrowHeadStyle Enumeration (Excel)
+title: xlArrowHeadStyle enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlArrowHeadStyle
+- Excel.xlArrowHeadStyle
 ms.assetid: 6666eb13-9c4f-298c-4297-11f618edfdf3
 ms.date: 06/08/2017
 ---
 
 
-# XlArrowHeadStyle Enumeration (Excel)
+# xlArrowHeadStyle enumeration (Excel)
 
 Specifies the type of arrowhead to apply at the end of a line.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

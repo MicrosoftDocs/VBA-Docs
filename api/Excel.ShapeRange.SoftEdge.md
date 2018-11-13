@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SoftEdge Property (Excel)
+title: ShapeRange.SoftEdge property (Excel)
 keywords: vbaxl10.chm640143
 f1_keywords:
 - vbaxl10.chm640143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.SoftEdge Property (Excel)
+# ShapeRange.SoftEdge property (Excel)
 
 Returns a  **[SoftEdgeFormat](./Office.SoftEdgeFormat.md)** object for a specified shape range that contains soft edge formatting properties for the shape range. Read-only.
 

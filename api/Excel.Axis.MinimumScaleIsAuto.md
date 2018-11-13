@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScaleIsAuto Property (Excel)
+title: Axis.MinimumScaleIsAuto property (Excel)
 keywords: vbaxl10.chm561091
 f1_keywords:
 - vbaxl10.chm561091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinimumScaleIsAuto Property (Excel)
+# Axis.MinimumScaleIsAuto property (Excel)
 
  **True** if Microsoft Excel calculates the minimum value for the value axis. Read/write **Boolean** .
 

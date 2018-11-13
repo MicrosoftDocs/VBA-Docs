@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutSubtotalLocation Property (Excel)
+title: PivotField.LayoutSubtotalLocation property (Excel)
 keywords: vbaxl10.chm240120
 f1_keywords:
 - vbaxl10.chm240120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutSubtotalLocation Property (Excel)
+# PivotField.LayoutSubtotalLocation property (Excel)
 
 Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
 

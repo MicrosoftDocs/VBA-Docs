@@ -1,5 +1,5 @@
 ---
-title: SlicerCaches.Creator Property (Excel)
+title: SlicerCaches.Creator property (Excel)
 keywords: vbaxl10.chm894074
 f1_keywords:
 - vbaxl10.chm894074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCaches.Creator Property (Excel)
+# SlicerCaches.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only.
 

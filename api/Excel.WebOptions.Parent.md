@@ -1,5 +1,5 @@
 ---
-title: WebOptions.Parent Property (Excel)
+title: WebOptions.Parent property (Excel)
 keywords: vbaxl10.chm661075
 f1_keywords:
 - vbaxl10.chm661075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.Parent Property (Excel)
+# WebOptions.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

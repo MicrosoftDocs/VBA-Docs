@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Rows Property (Excel)
+title: Worksheet.Rows property (Excel)
 keywords: vbaxl10.chm175122
 f1_keywords:
 - vbaxl10.chm175122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Rows Property (Excel)
+# Worksheet.Rows property (Excel)
 
 Returns a **[Range](Excel.Range(object).md)** object that represents all the rows on the specified worksheet. 
 

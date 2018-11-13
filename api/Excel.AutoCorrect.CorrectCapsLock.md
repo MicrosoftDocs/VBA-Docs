@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectCapsLock Property (Excel)
+title: AutoCorrect.CorrectCapsLock property (Excel)
 keywords: vbaxl10.chm545080
 f1_keywords:
 - vbaxl10.chm545080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectCapsLock Property (Excel)
+# AutoCorrect.CorrectCapsLock property (Excel)
 
  **True** if Microsoft Excel automatically corrects accidental use of the CAPS LOCK key. Read/write **Boolean** .
 

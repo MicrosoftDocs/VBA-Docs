@@ -1,5 +1,5 @@
 ---
-title: Font.Parent Property (Excel)
+title: Font.Parent property (Excel)
 keywords: vbaxl10.chm558075
 f1_keywords:
 - vbaxl10.chm558075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Parent Property (Excel)
+# Font.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

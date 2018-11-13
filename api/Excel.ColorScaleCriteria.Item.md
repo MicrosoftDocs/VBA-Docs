@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriteria.Item Property (Excel)
+title: ColorScaleCriteria.Item property (Excel)
 keywords: vbaxl10.chm807076
 f1_keywords:
 - vbaxl10.chm807076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriteria.Item Property (Excel)
+# ColorScaleCriteria.Item property (Excel)
 
 Returns a single  **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** object from the **ColorScaleCriteria** collection. Read-only.
 

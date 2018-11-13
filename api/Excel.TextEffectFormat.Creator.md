@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Creator Property (Excel)
+title: TextEffectFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextEffectFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Creator Property (Excel)
+# TextEffectFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

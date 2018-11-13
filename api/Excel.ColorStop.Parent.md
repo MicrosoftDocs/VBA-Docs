@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Parent Property (Excel)
+title: ColorStop.Parent property (Excel)
 keywords: vbaxl10.chm850075
 f1_keywords:
 - vbaxl10.chm850075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Parent Property (Excel)
+# ColorStop.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only
 

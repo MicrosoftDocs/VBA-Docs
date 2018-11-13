@@ -1,5 +1,5 @@
 ---
-title: Application.ArbitraryXMLSupportAvailable Property (Excel)
+title: Application.ArbitraryXMLSupportAvailable property (Excel)
 keywords: vbaxl10.chm133295
 f1_keywords:
 - vbaxl10.chm133295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ArbitraryXMLSupportAvailable Property (Excel)
+# Application.ArbitraryXMLSupportAvailable property (Excel)
 
  Returns a **Boolean** value that indicates whether the XML features in Microsoft Excel are available. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.FullNameURLEncoded Property (Excel)
+title: Workbook.FullNameURLEncoded property (Excel)
 keywords: vbaxl10.chm199203
 f1_keywords:
 - vbaxl10.chm199203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.FullNameURLEncoded Property (Excel)
+# Workbook.FullNameURLEncoded property (Excel)
 
 Returns a  **String** indicating the name of the object, including its path on disk, as a string. Read-only.
 

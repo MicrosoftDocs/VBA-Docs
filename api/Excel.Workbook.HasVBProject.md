@@ -1,5 +1,5 @@
 ---
-title: Workbook.HasVBProject Property (Excel)
+title: Workbook.HasVBProject property (Excel)
 keywords: vbaxl10.chm199250
 f1_keywords:
 - vbaxl10.chm199250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.HasVBProject Property (Excel)
+# Workbook.HasVBProject property (Excel)
 
 Returns a  **Boolean** that represents whether a workbook has an attached Microsoft Visual Basic for Applications project. Read-only **Boolean** .
 

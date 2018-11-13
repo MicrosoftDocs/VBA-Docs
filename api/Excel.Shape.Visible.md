@@ -1,5 +1,5 @@
 ---
-title: Shape.Visible Property (Excel)
+title: Shape.Visible property (Excel)
 keywords: vbaxl10.chm636114
 f1_keywords:
 - vbaxl10.chm636114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Visible Property (Excel)
+# Shape.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

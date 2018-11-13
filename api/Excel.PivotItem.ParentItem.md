@@ -1,5 +1,5 @@
 ---
-title: PivotItem.ParentItem Property (Excel)
+title: PivotItem.ParentItem property (Excel)
 keywords: vbaxl10.chm246079
 f1_keywords:
 - vbaxl10.chm246079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.ParentItem Property (Excel)
+# PivotItem.ParentItem property (Excel)
 
 Returns a  **PivotItem** object that represents the parent PivotTable item in the parent **[PivotField](Excel.PivotField.md)** object (the field must be grouped so that it has a parent). Read-only.
 

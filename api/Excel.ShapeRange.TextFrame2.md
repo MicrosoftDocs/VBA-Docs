@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame2 Property (Excel)
+title: ShapeRange.TextFrame2 property (Excel)
 keywords: vbaxl10.chm640140
 f1_keywords:
 - vbaxl10.chm640140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.TextFrame2 Property (Excel)
+# ShapeRange.TextFrame2 property (Excel)
 
 Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text formatting for the specified shape range. Read-only.
 

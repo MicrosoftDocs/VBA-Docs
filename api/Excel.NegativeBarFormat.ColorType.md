@@ -1,5 +1,5 @@
 ---
-title: NegativeBarFormat.ColorType Property (Excel)
+title: NegativeBarFormat.ColorType property (Excel)
 keywords: vbaxl10.chm887073
 f1_keywords:
 - vbaxl10.chm887073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NegativeBarFormat.ColorType Property (Excel)
+# NegativeBarFormat.ColorType property (Excel)
 
  Specifies whether to use the same fill color as positive data bars. Read/write
 

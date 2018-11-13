@@ -1,5 +1,5 @@
 ---
-title: Window.ActiveSheetView Property (Excel)
+title: Window.ActiveSheetView property (Excel)
 keywords: vbaxl10.chm356134
 f1_keywords:
 - vbaxl10.chm356134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActiveSheetView Property (Excel)
+# Window.ActiveSheetView property (Excel)
 
  Returns an object that represents the view of the active sheet in the specified window. Read-only.
 

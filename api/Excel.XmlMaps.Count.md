@@ -1,5 +1,5 @@
 ---
-title: XmlMaps.Count Property (Excel)
+title: XmlMaps.Count property (Excel)
 keywords: vbaxl10.chm756076
 f1_keywords:
 - vbaxl10.chm756076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMaps.Count Property (Excel)
+# XmlMaps.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

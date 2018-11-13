@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Application Property (Excel)
+title: ServerViewableItems.Application property (Excel)
 keywords: vbaxl10.chm832073
 f1_keywords:
 - vbaxl10.chm832073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Application Property (Excel)
+# ServerViewableItems.Application property (Excel)
 
 Returns an  **Application** object. Read-only.
 

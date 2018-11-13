@@ -1,5 +1,5 @@
 ---
-title: Workbook.UpdateLinks Property (Excel)
+title: Workbook.UpdateLinks property (Excel)
 keywords: vbaxl10.chm199197
 f1_keywords:
 - vbaxl10.chm199197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UpdateLinks Property (Excel)
+# Workbook.UpdateLinks property (Excel)
 
 Returns or sets an  **[XlUpdateLink](Excel.XlUpdateLinks.md)** constant indicating a workbook's setting for updating embedded OLE links. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowDataLabelsOverMaximum Property (Excel)
+title: Chart.ShowDataLabelsOverMaximum property (Excel)
 keywords: vbaxl10.chm149176
 f1_keywords:
 - vbaxl10.chm149176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowDataLabelsOverMaximum Property (Excel)
+# Chart.ShowDataLabelsOverMaximum property (Excel)
 
 Returns or sets whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write  **Boolean** .
 

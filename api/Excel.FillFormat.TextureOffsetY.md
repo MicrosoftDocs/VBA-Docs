@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetY Property (Excel)
+title: FillFormat.TextureOffsetY property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureOffsetY
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureOffsetY Property (Excel)
+# FillFormat.TextureOffsetY property (Excel)
 
 Returns the offset Y value for the specified fill. Read/write  **Single** .
 

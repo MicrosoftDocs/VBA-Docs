@@ -1,5 +1,5 @@
 ---
-title: PivotCell.Range Property (Excel)
+title: PivotCell.Range property (Excel)
 keywords: vbaxl10.chm692080
 f1_keywords:
 - vbaxl10.chm692080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.Range Property (Excel)
+# PivotCell.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range the specified PivotCell applies to.
 
