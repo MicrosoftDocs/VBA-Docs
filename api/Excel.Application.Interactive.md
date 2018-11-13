@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 Blocking user input will prevent the user from interfering with the macro as it moves or activates Microsoft Excel objects.
 
-This property is useful if you're using DDE or OLE Automation to communicate with Microsoft Excel from another application.
+This property is useful if you are using DDE or OLE Automation to communicate with Microsoft Excel from another application.
 
 If you set this property to  **False** , don't forget to set it back to **True** . Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
 

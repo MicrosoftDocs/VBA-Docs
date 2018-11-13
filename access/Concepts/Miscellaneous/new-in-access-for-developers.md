@@ -92,7 +92,7 @@ When bound to a data source, List Detail, Datasheet, and Blank views contain an 
 
 Access 2013 apps support two controls that are new to Access; the AutoComplete control and the Related Items control.
 
-The AutoComplete control displays a list of records that match what you're typing into the box. The following figure shows an AutoComplete control bound to a list of employees.
+The AutoComplete control displays a list of records that match what you are typing into the box. The following figure shows an AutoComplete control bound to a list of employees.
 
 ![AutoComplete control](../../../images/odc_Access15_WhatsNewInAccessforDevelopers_Figure10.jpg)
 

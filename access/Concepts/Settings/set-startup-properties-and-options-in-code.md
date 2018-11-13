@@ -15,7 +15,7 @@ Startup properties affect how your database application appears when it's opened
 
 To view the **Access Options** dialog box, select the **Microsoft Office Button**, and then select **Access Options**.
 
-You can set options in the **Access Options** dialog box to change various aspects of the application's environment while you're working in it. For example, you can set form, report, table, and query default options.
+You can set options in the **Access Options** dialog box to change various aspects of the application's environment while you are working in it. For example, you can set form, report, table, and query default options.
 
 The following topics provide specific information about setting startup properties and options in code.
 

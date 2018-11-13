@@ -45,7 +45,7 @@ In some cases, such as when a shape that has a  **ForeignType** property of **vi
 
 While a Visio instance is firing a query or cancel event, it will respond to inquiries from client code but will refuse to perform operations. Client code can show forms or message boxes while responding to a query or cancel event.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 

@@ -89,7 +89,7 @@ Me.Controls(0)
 ```
 
 
- **Note**  You can use the  **Me** keyword to represent a **Form** or **Report** object within code only if you're referring to the form or report from code within the class module. If you're referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
+ **Note**  You can use the  **Me** keyword to represent a **Form** or **Report** object within code only if you are referring to the form or report from code within the class module. If you are referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
 
 Each  **Control** object is denoted by a particular intrinsic constant. For example, the intrinsic constant **acTextBox** is associated with a text box control, and **acCommandButton** is associated with a command button. The constants for the various Microsoft Access controls are set forth in the control's **ControlType** property.
 
@@ -107,7 +107,7 @@ Set txt = Forms!Employees!LastName
 ```
 
 
- **Note**  If a control is an ActiveX control, then you must declare a variable of type  **Control** to represent it; you cannot use a specific type. If you're not certain what type of control a variable will point to, declare the variable as type **Control**.
+ **Note**  If a control is an ActiveX control, then you must declare a variable of type  **Control** to represent it; you cannot use a specific type. If you are not certain what type of control a variable will point to, declare the variable as type **Control**.
 
 The option group control can contain other controls within its  **Controls** collection, including option button, check box, toggle button, and label controls.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileParseType property (Excel)
 
-Returns or sets the column format for the data in the text file that you're importing into a query table. Read/Write [xlTextParsingType enumeration (Excel)](Excel.xlTextParsingType.md)
+Returns or sets the column format for the data in the text file that you are importing into a query table. Read/Write [xlTextParsingType enumeration (Excel)](Excel.xlTextParsingType.md)
 
 
 ## Syntax

@@ -37,7 +37,7 @@ For applications developed with Visual Basic and compiled to an .exe file,  **Co
 MyApp cmdlineargs
 ```
 
-To find how command line arguments can be changed in the user interface of the application you're using, search Help for "command line arguments."
+To find how command line arguments can be changed in the user interface of the application you are using, search Help for "command line arguments."
 
 ## Example
 

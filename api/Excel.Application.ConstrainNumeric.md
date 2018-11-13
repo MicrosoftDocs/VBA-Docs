@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property is available only if you're using Microsoft Windows for Pen Computing. If you try to set this property under any other operating system, an error occurs.
+This property is available only if you are using Microsoft Windows for Pen Computing. If you try to set this property under any other operating system, an error occurs.
 
 
 ## Example

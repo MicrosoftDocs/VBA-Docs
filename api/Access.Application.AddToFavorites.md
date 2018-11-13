@@ -25,7 +25,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 ## Remarks
 
-When applied to the **Application** object, the **AddToFavorites** method adds the name of the current database to the Favorites folder. For example, if you're working in the Northwind sample database, applying the **AddToFavorites** method to the **Application** object adds the hyperlink address of the Northwind database to the Favorites folder.
+When applied to the **Application** object, the **AddToFavorites** method adds the name of the current database to the Favorites folder. For example, if you are working in the Northwind sample database, applying the **AddToFavorites** method to the **Application** object adds the hyperlink address of the Northwind database to the Favorites folder.
 
 
 ## See also

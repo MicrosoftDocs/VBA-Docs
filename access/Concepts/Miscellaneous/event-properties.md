@@ -27,7 +27,7 @@ To run the event procedure associated with the event, select **[Event Procedure]
 > [!NOTE] 
 > Although using an event procedure is the recommended method for running Visual Basic code in response to an event, you can also run a user-defined function when an event occurs. To run a user-defined function, place an equal sign (=) before the function name and parentheses after it, as in **=** _functionname_ **( )**.
 
-You can set event properties in the [property sheet](https://msdn.microsoft.com/library/03349d86-f107-9e49-89df-62f55f3a0735%28Office.15%29.aspx) for an object, in a macro , or by using Visual Basic. Note that you can't set any event properties while you're formatting or printing a form or report.
+You can set event properties in the [property sheet](https://msdn.microsoft.com/library/03349d86-f107-9e49-89df-62f55f3a0735%28Office.15%29.aspx) for an object, in a macro, or by using Visual Basic. Note that you can't set any event properties while you are formatting or printing a form or report.
 
 > [!TIP] 
 > You can use builders to help you set an event property. To use them, click the **Build** button

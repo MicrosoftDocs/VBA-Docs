@@ -39,7 +39,7 @@ To work around this problem, convert the spreadsheets to a later version of Exce
 
 ### TransferText and TransferSpreadsheet actions
 
-In Access, you can't use a SQL statement to specify data to export when you're using the TransferText action or the TransferSpreadsheet action. Instead of using a SQL statement, you must first create a query and then specify the name of the query in the Table Name argument.
+In Access, you can't use a SQL statement to specify data to export when you are using the TransferText action or the TransferSpreadsheet action. Instead of using a SQL statement, you must first create a query and then specify the name of the query in the Table Name argument.
 
 ### Comparisons involving Null values
 

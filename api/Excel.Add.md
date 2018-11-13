@@ -33,7 +33,7 @@ Creates a new trend line. Returns a Trendline object.
 | **xlPower**|
 
  **Order** Optional **Variant**. Required if  **_Type_** is **xlPolynomial**. The trendline order. Must be an integer from 2 through 6.
- **Period** Optional **Variant**. Required if  **_Type_** is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you're adding a trendline to.
+ **Period** Optional **Variant**. Required if  **_Type_** is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.
  **Forward** Optional **Variant**. The number of periods (or units on a scatter chart) that the trendline extends forward.
  **Backward** Optional **Variant**. The number of periods (or units on a scatter chart) that the trendline extends backward.
  **Intercept** Optional **Variant**. The trendline intercept. If this argument is omitted, the intercept is automatically set by the regression.

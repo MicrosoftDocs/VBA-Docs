@@ -33,7 +33,7 @@ Returns or sets the print quality. Read/write  **Variant** .
 
 ## Example
 
-This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you?re using.
+This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you are using.
 
 
 ```vb

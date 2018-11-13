@@ -66,7 +66,7 @@ Answer3 = MsgBox("Are you happy with your salary?", 4, "Question 3")
 
 ```
 
-If you're not interested in the return value of a function, you can call a function the same way you call a **Sub** procedure. Omit the parentheses, list the arguments, and do not assign the function to a variable, as shown in the following example.
+If you are not interested in the return value of a function, you can call a function the same way you call a **Sub** procedure. Omit the parentheses, list the arguments, and do not assign the function to a variable, as shown in the following example.
 
 ```vb
 MsgBox "Task Completed!", 0, "Task Box" 

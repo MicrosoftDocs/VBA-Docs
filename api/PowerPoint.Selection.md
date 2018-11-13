@@ -68,7 +68,7 @@ The following example cuts the selected text in the active window and places it 
 ActiveWindow.Selection.TextRange.Cut
 ```
 
-The following example duplicates all the slides in the selection (if you're in slide view, this duplicates the current slide).
+The following example duplicates all the slides in the selection (if you are in slide view, this duplicates the current slide).
 
 
 

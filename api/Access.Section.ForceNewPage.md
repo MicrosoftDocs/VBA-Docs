@@ -36,7 +36,7 @@ The **ForceNewPage** property uses the following settings.
 
 |**Setting**|**Visual Basic**|**Description**|
 |:-----|:-----|:-----|
-|None|0|(Default) The current section (the section for which you're setting the property) is printed on the current page.|
+|None|0|(Default) The current section (the section for which you are setting the property) is printed on the current page.|
 |Before Section|1|The current section is printed at the top of a new page.|
 |After Section|2|The section immediately following the current section is printed at the top of a new page.|
 |Before & After|3|The current section is printed at the top of a new page, and the next section is printed at the top of a new page.|

@@ -43,7 +43,7 @@ If your application can have more than one form loaded at a time, use the **Acti
 
 When the **Close** event occurs, you can open another window or request the user's name to make a log entry indicating who used the form or report.
 
-If you're trying to decide whether to use the **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you're dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display. Similarly, the **Unload** event can be canceled, but the **Close** event can't.
+If you are trying to decide whether to use the **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you are dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display. Similarly, the **Unload** event can be canceled, but the **Close** event can't.
 
 
 ## Example

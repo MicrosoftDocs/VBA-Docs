@@ -25,7 +25,7 @@ Returns the Microsoft Excel build number. Read-only  **Long** .
 
 ## Remarks
 
-It's usually safer to test the  **[Version](Excel.Application.Version.md)** property, unless you're sure you need to know the build number.
+It's usually safer to test the  **[Version](Excel.Application.Version.md)** property, unless you are sure you need to know the build number.
 
 
 ## Example

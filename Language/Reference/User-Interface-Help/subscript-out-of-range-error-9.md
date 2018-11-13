@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Elements of [arrays](../../Glossary/vbe-glossary.md#array) and members of [collections](../../Glossary/vbe-glossary.md#collection) can only be accessed within their defined ranges. This error has the following causes and solutions:
 
-- You referenced a nonexistent array element. The subscript may be larger or smaller than the range of possible subscripts, or the array may not have dimensions assigned at this point in the application. Check the [declaration](../../Glossary/vbe-glossary.md#declaration) of the array to verify its upper and lower bounds. Use the **UBound** and **LBound** functions to condition array accesses if you're working with arrays that are redimensioned. If the index is specified as a [variable](../../Glossary/vbe-glossary.md#variable), check the spelling of the variable name.
+- You referenced a nonexistent array element. The subscript may be larger or smaller than the range of possible subscripts, or the array may not have dimensions assigned at this point in the application. Check the [declaration](../../Glossary/vbe-glossary.md#declaration) of the array to verify its upper and lower bounds. Use the **UBound** and **LBound** functions to condition array accesses if you are working with arrays that are redimensioned. If the index is specified as a [variable](../../Glossary/vbe-glossary.md#variable), check the spelling of the variable name.
     
 - You declared an array but didn't specify the number of elements. For example, the following code causes this error:
     

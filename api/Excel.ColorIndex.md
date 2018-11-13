@@ -37,7 +37,7 @@ This property specifies a color as an index into the color palette. The followin
 
 ## Example
 
-The following examples assume that you're using the default color palette.
+The following examples assume that you are using the default color palette.
 
 This example sets the color of the major gridlines for the value axis.
 

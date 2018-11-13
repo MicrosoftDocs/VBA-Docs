@@ -29,7 +29,7 @@ The default value is  **True**.
 
 This property controls the displaying of the shortcut menus for a form and for any of its controls. If the  **ShortcutMenu** property is set to **False**, shortcut menus aren't displayed when you right-click a form or any of its controls.
 
-If you're developing a wizard, you might want to hide shortcut menus on your wizard forms to prevent the user from viewing or using them. This is especially true for forms that display choices. For example, the  **ShortcutMenu** property for the Startup form in the Northwind sample database is set to No. This prevents users from displaying shortcut menus for the form or controls on the form.
+If you are developing a wizard, you might want to hide shortcut menus on your wizard forms to prevent the user from viewing or using them. This is especially true for forms that display choices. For example, the  **ShortcutMenu** property for the Startup form in the Northwind sample database is set to No. This prevents users from displaying shortcut menus for the form or controls on the form.
 
 
 ## Example
