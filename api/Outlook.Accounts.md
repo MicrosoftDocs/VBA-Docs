@@ -51,7 +51,6 @@ The purpose of the  **Accounts** collection object and the **Account** object is
 
 ## See also
 
-
-[Outlook Object Model Reference](./overview/Outlook/object-model.md)
-[How to: Send an Email Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
-[Accounts Object Members](./overview/Outlook.md)
+- [Outlook Object Model reference](overview/Outlook/object-model.md)
+- [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+- [Accounts object members](overview/Outlook.md)

@@ -26,6 +26,6 @@ For more information, see the following topics:
     
 -  [How to: Specify whether a form prompts the user, opens, or is sent](../Specifying-Form-Behavior/specify-whether-a-form-prompts-the-user-opens-or-is-sent.md)
     
--  [How to: Pre-address a reply form to a public folder or an email address](pre-address-a-reply-form-to-a-public-folder-or-an-email-address.md)
+-  [How to: Pre-address a reply form to a public folder or an email address](pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
     
 

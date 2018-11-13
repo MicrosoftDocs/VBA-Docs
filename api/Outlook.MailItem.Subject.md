@@ -20,7 +20,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read/
 
  _expression_. `Subject`
 
- _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
+ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
@@ -56,11 +56,6 @@ End Sub
 
 ## See also
 
-
-[MailItem Object](Outlook.MailItem.md)
-
-
-
-[Send an Email Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
+- [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
 

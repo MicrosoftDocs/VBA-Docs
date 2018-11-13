@@ -10651,8 +10651,8 @@
 ##### [Identify the Global Address list or a set of address lists with a store](../outlook/Concepts/Address-Book/identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
 ##### [List the groups that my manager belongs to](../outlook/Concepts/Address-Book/list-the-groups-that-my-manager-belongs-to.md)
 ##### [List the name and Office location of each manager belonging to an Exchange distribution list](../outlook/Concepts/Address-Book/list-the-name-and-office-location-of-each-manager-belonging-to-an-exchange-distr.md)
-##### [Map a display name to an email address](../outlook/Concepts/Address-Book/map-a-display-name-to-an-email-address.md)
-##### [Obtain the email address of a recipient](../outlook/Concepts/Address-Book/obtain-the-email-address-of-a-recipient.md)
+##### [Map a display name to an email address](../outlook/Concepts/Address-Book/map-a-display-name-to-an-e-mail-address.md)
+##### [Obtain the email address of a recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
 ##### [Programmatically change the display format for all Contacts](../outlook/Concepts/Address-Book/programmatically-change-the-display-format-for-all-contacts.md)
 #### Attachments
 ##### [Attach a file to an Outlook email message](../outlook/Concepts/Attachments/attach-a-file-to-an-outlook-email-message.md)
@@ -10777,7 +10777,7 @@
 ##### [Disable a standard reply form](../outlook/Concepts/Configuring-Forms/disable-a-standard-reply-form.md)
 ##### [Hide or show form pages](../outlook/Concepts/Configuring-Forms/hide-or-show-form-pages.md)
 ##### [Make separate compose and read versions for a form](../outlook/Concepts/Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
-##### [Pre-address a reply form to a public folder or an email address](../outlook/Concepts/Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-email-address.md)
+##### [Pre-address a reply form to a public folder or an email address](../outlook/Concepts/Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
 ##### [Set the background color of a form](../outlook/Concepts/Configuring-Forms/set-the-background-color-of-a-form.md)
 ##### [Specify icons to be displayed for a form region](../outlook/Concepts/Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)
 ##### [Use standard reply and forward headers on a form](../outlook/Concepts/Configuring-Forms/use-standard-reply-and-forward-headers-on-a-form.md)
@@ -10973,7 +10973,7 @@
 ##### [Enumerate the Contacts folder and set custom property for only Contact items](../outlook/How-to/Items-Folders-and-Stores/enumerate-the-contacts-folder-and-set-custom-property-for-only-contact-items.md)
 ##### [Import appointment XML data into Outlook Appointment objects](../outlook/How-to/Items-Folders-and-Stores/import-appointment-xml-data-into-outlook-appointment-objects-outlook.md)
 ##### [Obtain a Folder object from a Folder path](../outlook/How-to/Items-Folders-and-Stores/obtain-a-folder-object-from-a-folder-path.md)
-##### [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
+##### [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 ##### [Specify an Internet encoding scheme for the body and attachments of a message](../outlook/How-to/Items-Folders-and-Stores/specify-an-internet-encoding-scheme-for-the-body-and-attachments-of-a-message.md)
 #### Navigation
 ##### [Customize the navigation pane](../outlook/How-to/Navigation/customizing-the-navigation-pane.md)
@@ -11006,7 +11006,7 @@
 ##### [Manage rules in the Outlook Object Model](../outlook/How-to/Rules/managing-rules-in-the-outlook-object-model.md)
 ##### [Specify rule actions](../outlook/How-to/Rules/specifying-rule-actions.md)
 ##### [Specify rule conditions](../outlook/How-to/Rules/specifying-rule-conditions.md)
-##### [Create a rule to move specific emails to a folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-emails-to-a-folder.md)
+##### [Create a rule to move specific emails to a folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md)
 #### Search and filter
 ##### [Enumerate, search, and filter items in a folder](../outlook/How-to/Search-and-Filter/enumerating-searching-and-filtering-items-in-a-folder.md)
 ##### [Table](../outlook/How-to/Search-and-Filter/table.md)

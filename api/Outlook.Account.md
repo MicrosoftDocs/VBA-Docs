@@ -207,5 +207,5 @@ End Namespace
 
 
 [Account Object Members](./overview/Outlook.md)
-[How to: Send an Email Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-email-given-the-smtp-address-of-an-account-outlook.md)
+[Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
