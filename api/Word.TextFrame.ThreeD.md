@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ThreeD Property (Word)
+title: TextFrame.ThreeD property (Word)
 keywords: vbawd10.chm162665368
 f1_keywords:
 - vbawd10.chm162665368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.ThreeD Property (Word)
+# TextFrame.ThreeD property (Word)
 
 Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect formatting properties for the specified text frame. Read-only.
 

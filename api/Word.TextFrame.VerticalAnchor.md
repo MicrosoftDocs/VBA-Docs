@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalAnchor Property (Word)
+title: TextFrame.VerticalAnchor property (Word)
 keywords: vbawd10.chm162665363
 f1_keywords:
 - vbawd10.chm162665363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.VerticalAnchor Property (Word)
+# TextFrame.VerticalAnchor property (Word)
 
 Returns or sets an  **MsoVerticalAnchor** constant that represents the vertical alignment of the text within a shape. Read/write.
 

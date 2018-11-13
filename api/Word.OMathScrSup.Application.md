@@ -1,5 +1,5 @@
 ---
-title: OMathScrSup.Application Property (Word)
+title: OMathScrSup.Application property (Word)
 keywords: vbawd10.chm119930980
 f1_keywords:
 - vbawd10.chm119930980
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSup.Application Property (Word)
+# OMathScrSup.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

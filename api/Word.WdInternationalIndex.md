@@ -1,5 +1,5 @@
 ---
-title: WdInternationalIndex Enumeration (Word)
+title: WdInternationalIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInternationalIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdInternationalIndex Enumeration (Word)
+# WdInternationalIndex enumeration (Word)
 
 Specifies information specific to the current country/region and international settings.
 

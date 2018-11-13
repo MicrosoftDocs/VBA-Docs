@@ -1,5 +1,5 @@
 ---
-title: Frame.TextWrap Property (Word)
+title: Frame.TextWrap property (Word)
 keywords: vbawd10.chm153747468
 f1_keywords:
 - vbawd10.chm153747468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.TextWrap Property (Word)
+# Frame.TextWrap property (Word)
 
  **True** if document text wraps around the specified frame. Read/write **Boolean** .
 

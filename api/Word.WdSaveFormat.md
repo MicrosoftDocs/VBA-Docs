@@ -1,5 +1,5 @@
 ---
-title: WdSaveFormat Enumeration (Word)
+title: WdSaveFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSaveFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSaveFormat Enumeration (Word)
+# WdSaveFormat enumeration (Word)
 
 Specifies the format to use when saving a document.
 

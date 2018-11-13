@@ -1,5 +1,5 @@
 ---
-title: WdReplace Enumeration (Word)
+title: WdReplace enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReplace
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdReplace Enumeration (Word)
+# WdReplace enumeration (Word)
 
 Specifies the number of replacements to be made when find and replace is used.
 

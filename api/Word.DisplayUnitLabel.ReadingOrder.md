@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.ReadingOrder Property (Word)
+title: DisplayUnitLabel.ReadingOrder property (Word)
 keywords: vbawd10.chm94568466
 f1_keywords:
 - vbawd10.chm94568466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.ReadingOrder Property (Word)
+# DisplayUnitLabel.ReadingOrder property (Word)
 
 Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long** .
 

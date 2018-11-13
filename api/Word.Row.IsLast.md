@@ -1,5 +1,5 @@
 ---
-title: Row.IsLast Property (Word)
+title: Row.IsLast property (Word)
 keywords: vbawd10.chm156237834
 f1_keywords:
 - vbawd10.chm156237834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.IsLast Property (Word)
+# Row.IsLast property (Word)
 
  **True** if the specified row is the last one in the table. Read-only **Boolean** .
 

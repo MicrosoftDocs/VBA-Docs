@@ -1,5 +1,5 @@
 ---
-title: Global.AddIns Property (Word)
+title: Global.AddIns property (Word)
 keywords: vbawd10.chm163119126
 f1_keywords:
 - vbawd10.chm163119126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.AddIns Property (Word)
+# Global.AddIns property (Word)
 
 Returns an  **[AddIns](Word.addins.md)** collection that represents all available add-ins, regardless of whether they're currently loaded. Read-only.
 

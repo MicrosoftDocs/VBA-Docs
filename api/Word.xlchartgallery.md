@@ -1,12 +1,12 @@
 ---
-title: xlChartGallery Enumeration (Word)
+title: xlChartGallery enumeration (Word)
 ms.prod: word
 ms.assetid: 28187e1c-ae42-f666-abb6-775c368d3691
 ms.date: 06/08/2017
 ---
 
 
-# xlChartGallery Enumeration (Word)
+# xlChartGallery enumeration (Word)
 
 Specifies a chart gallery.
 

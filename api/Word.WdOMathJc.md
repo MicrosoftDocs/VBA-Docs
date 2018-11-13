@@ -1,5 +1,5 @@
 ---
-title: WdOMathJc Enumeration (Word)
+title: WdOMathJc enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathJc
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathJc Enumeration (Word)
+# WdOMathJc enumeration (Word)
 
 Specifies the default justification for equations.
 

@@ -1,5 +1,5 @@
 ---
-title: Sources.Count Property (Word)
+title: Sources.Count property (Word)
 ms.prod: word
 api_name:
 - Word.Sources.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sources.Count Property (Word)
+# Sources.Count property (Word)
 
 Returns the number of items in the  **Sources** collection. Read-only **Long** .
 

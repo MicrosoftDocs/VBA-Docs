@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Previous Property (Word)
+title: MailMergeField.Previous property (Word)
 keywords: vbawd10.chm152961033
 f1_keywords:
 - vbawd10.chm152961033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Previous Property (Word)
+# MailMergeField.Previous property (Word)
 
 Returns the previous mail merge field in the collection of mail merge fields. Read-only.
 

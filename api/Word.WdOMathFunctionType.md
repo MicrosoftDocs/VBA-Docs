@@ -1,5 +1,5 @@
 ---
-title: WdOMathFunctionType Enumeration (Word)
+title: WdOMathFunctionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathFunctionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathFunctionType Enumeration (Word)
+# WdOMathFunctionType enumeration (Word)
 
 Specifies the type of equation function.
 

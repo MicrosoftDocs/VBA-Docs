@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthoritiesCategory.Parent Property (Word)
+title: TableOfAuthoritiesCategory.Parent property (Word)
 keywords: vbawd10.chm158794730
 f1_keywords:
 - vbawd10.chm158794730
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthoritiesCategory.Parent Property (Word)
+# TableOfAuthoritiesCategory.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TableOfAuthoritiesCategory** object.
 

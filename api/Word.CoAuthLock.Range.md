@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Range Property (Word)
+title: CoAuthLock.Range property (Word)
 keywords: vbawd10.chm260046851
 f1_keywords:
 - vbawd10.chm260046851
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Range Property (Word)
+# CoAuthLock.Range property (Word)
 
 Returns a [Range](Word.Range.md) object that represents the portion of a document that is contained in the specified object. Read-only.
 

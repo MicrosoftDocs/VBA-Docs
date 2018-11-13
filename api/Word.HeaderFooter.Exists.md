@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Exists Property (Word)
+title: HeaderFooter.Exists property (Word)
 keywords: vbawd10.chm159711236
 f1_keywords:
 - vbawd10.chm159711236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Exists Property (Word)
+# HeaderFooter.Exists property (Word)
 
  **True** if the specified **HeaderFooter** object exists. Read/write **Boolean** .
 

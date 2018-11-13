@@ -1,5 +1,5 @@
 ---
-title: TabStop.Alignment Property (Word)
+title: TabStop.Alignment property (Word)
 keywords: vbawd10.chm156500068
 f1_keywords:
 - vbawd10.chm156500068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Alignment Property (Word)
+# TabStop.Alignment property (Word)
 
 Returns or sets a  **WdTabAlignment** constant that represents the alignment for the specified tab stop. Read/write.
 

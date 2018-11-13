@@ -1,5 +1,5 @@
 ---
-title: Footnotes.NumberStyle Property (Word)
+title: Footnotes.NumberStyle property (Word)
 keywords: vbawd10.chm155320421
 f1_keywords:
 - vbawd10.chm155320421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.NumberStyle Property (Word)
+# Footnotes.NumberStyle property (Word)
 
 Returns or sets the number style for the footnotes. Read/write  **WdNoteNumberStyle** .
 

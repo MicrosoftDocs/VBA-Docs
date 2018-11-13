@@ -1,5 +1,5 @@
 ---
-title: UpBars.Format Property (Word)
+title: UpBars.Format property (Word)
 keywords: vbawd10.chm180944903
 f1_keywords:
 - vbawd10.chm180944903
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Format Property (Word)
+# UpBars.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Name Property (Word)
+title: Document.Name property (Word)
 keywords: vbawd10.chm158007296
 f1_keywords:
 - vbawd10.chm158007296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Name Property (Word)
+# Document.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

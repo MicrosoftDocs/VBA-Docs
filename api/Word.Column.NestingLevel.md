@@ -1,5 +1,5 @@
 ---
-title: Column.NestingLevel Property (Word)
+title: Column.NestingLevel property (Word)
 keywords: vbawd10.chm156172393
 f1_keywords:
 - vbawd10.chm156172393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.NestingLevel Property (Word)
+# Column.NestingLevel property (Word)
 
 Returns the nesting level of the specified column. Read-only  **Long** .
 

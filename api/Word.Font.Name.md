@@ -1,5 +1,5 @@
 ---
-title: Font.Name Property (Word)
+title: Font.Name property (Word)
 keywords: vbawd10.chm156369038
 f1_keywords:
 - vbawd10.chm156369038
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Name Property (Word)
+# Font.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

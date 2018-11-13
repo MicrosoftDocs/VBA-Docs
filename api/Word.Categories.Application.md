@@ -1,5 +1,5 @@
 ---
-title: Categories.Application Property (Word)
+title: Categories.Application property (Word)
 keywords: vbawd10.chm126551016
 f1_keywords:
 - vbawd10.chm126551016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Categories.Application Property (Word)
+# Categories.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

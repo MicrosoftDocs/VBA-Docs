@@ -1,5 +1,5 @@
 ---
-title: Cell.ID Property (Word)
+title: Cell.ID property (Word)
 keywords: vbawd10.chm156106867
 f1_keywords:
 - vbawd10.chm156106867
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.ID Property (Word)
+# Cell.ID property (Word)
 
 Returns or sets the identifying label for the specified object when the current document is saved as a Web page. Read/write  **String** .
 

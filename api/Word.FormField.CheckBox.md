@@ -1,5 +1,5 @@
 ---
-title: FormField.CheckBox Property (Word)
+title: FormField.CheckBox property (Word)
 keywords: vbawd10.chm153616396
 f1_keywords:
 - vbawd10.chm153616396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.CheckBox Property (Word)
+# FormField.CheckBox property (Word)
 
 Returns a  **[CheckBox](Word.CheckBox.md)** object that represents a check box form field. Read-only.
 

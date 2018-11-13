@@ -1,5 +1,5 @@
 ---
-title: AddIn.Application Property (Word)
+title: AddIn.Application property (Word)
 keywords: vbawd10.chm159253480
 f1_keywords:
 - vbawd10.chm159253480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Application Property (Word)
+# AddIn.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

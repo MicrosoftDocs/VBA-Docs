@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldName.Application Property (Word)
+title: MailMergeFieldName.Application property (Word)
 keywords: vbawd10.chm152765416
 f1_keywords:
 - vbawd10.chm152765416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFieldName.Application Property (Word)
+# MailMergeFieldName.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

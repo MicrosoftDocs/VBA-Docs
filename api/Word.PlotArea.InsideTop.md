@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideTop Property (Word)
+title: PlotArea.InsideTop property (Word)
 keywords: vbawd10.chm53479044
 f1_keywords:
 - vbawd10.chm53479044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideTop Property (Word)
+# PlotArea.InsideTop property (Word)
 
 Returns or sets the distance, in points, from the chart edge to the inside top edge of the plot area. Read/write  **Double** .
 

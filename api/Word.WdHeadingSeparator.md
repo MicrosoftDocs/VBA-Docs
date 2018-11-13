@@ -1,5 +1,5 @@
 ---
-title: WdHeadingSeparator Enumeration (Word)
+title: WdHeadingSeparator enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHeadingSeparator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHeadingSeparator Enumeration (Word)
+# WdHeadingSeparator enumeration (Word)
 
 Specifies the type of text separator to place between headings in an index.
 

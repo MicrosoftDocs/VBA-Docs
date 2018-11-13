@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Name Property (Word)
+title: ListTemplate.Name property (Word)
 keywords: vbawd10.chm160366595
 f1_keywords:
 - vbawd10.chm160366595
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.Name Property (Word)
+# ListTemplate.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

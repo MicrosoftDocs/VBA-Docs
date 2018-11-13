@@ -1,5 +1,5 @@
 ---
-title: Options.ShowReadabilityStatistics Property (Word)
+title: Options.ShowReadabilityStatistics property (Word)
 keywords: vbawd10.chm162988311
 f1_keywords:
 - vbawd10.chm162988311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowReadabilityStatistics Property (Word)
+# Options.ShowReadabilityStatistics property (Word)
 
  **True** if Microsoft Word displays a list of summary statistics, including measures of readability, when it has finished checking grammar. Read/write **Boolean** .
 

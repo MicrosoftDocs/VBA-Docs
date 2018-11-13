@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.PlainTextStyle Property (Word)
+title: EmailOptions.PlainTextStyle property (Word)
 keywords: vbawd10.chm165347445
 f1_keywords:
 - vbawd10.chm165347445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.PlainTextStyle Property (Word)
+# EmailOptions.PlainTextStyle property (Word)
 
 Returns the  **[Style](Word.Style.md)** object that represents the text attributes for e-mail messages that are sent or received using plain text.
 

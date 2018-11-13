@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Parent Property (Word)
+title: HiLoLines.Parent property (Word)
 keywords: vbawd10.chm235995136
 f1_keywords:
 - vbawd10.chm235995136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Parent Property (Word)
+# HiLoLines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

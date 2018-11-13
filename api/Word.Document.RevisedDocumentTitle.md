@@ -1,5 +1,5 @@
 ---
-title: Document.RevisedDocumentTitle Property (Word)
+title: Document.RevisedDocumentTitle property (Word)
 keywords: vbawd10.chm158007816
 f1_keywords:
 - vbawd10.chm158007816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RevisedDocumentTitle Property (Word)
+# Document.RevisedDocumentTitle property (Word)
 
 Returns a  **String** that represents the document title for a revised document after running a legal-blackline document compare function. Read-only.
 

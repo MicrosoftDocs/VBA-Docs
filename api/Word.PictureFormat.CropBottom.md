@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropBottom Property (Word)
+title: PictureFormat.CropBottom property (Word)
 keywords: vbawd10.chm164298855
 f1_keywords:
 - vbawd10.chm164298855
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropBottom Property (Word)
+# PictureFormat.CropBottom property (Word)
 
 Returns or sets the number of points that are cropped off the bottom of the specified picture or OLE object. Read/write  **Single** .
 

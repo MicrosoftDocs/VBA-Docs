@@ -1,5 +1,5 @@
 ---
-title: Range.Information Property (Word)
+title: Range.Information property (Word)
 keywords: vbawd10.chm157155641
 f1_keywords:
 - vbawd10.chm157155641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Information Property (Word)
+# Range.Information property (Word)
 
 Returns information about the specified range. Read-only  **Variant** .
 

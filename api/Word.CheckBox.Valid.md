@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Valid Property (Word)
+title: CheckBox.Valid property (Word)
 keywords: vbawd10.chm153485312
 f1_keywords:
 - vbawd10.chm153485312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Valid Property (Word)
+# CheckBox.Valid property (Word)
 
  **True** if the specified form field object is a valid check box form field. Read-only **Boolean** .
 

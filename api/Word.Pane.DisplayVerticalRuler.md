@@ -1,5 +1,5 @@
 ---
-title: Pane.DisplayVerticalRuler Property (Word)
+title: Pane.DisplayVerticalRuler property (Word)
 keywords: vbawd10.chm157286405
 f1_keywords:
 - vbawd10.chm157286405
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.DisplayVerticalRuler Property (Word)
+# Pane.DisplayVerticalRuler property (Word)
 
  **True** if a vertical ruler is displayed for the specified pane. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.GroupChar Property (Word)
+title: OMathFunction.GroupChar property (Word)
 keywords: vbawd10.chm22151281
 f1_keywords:
 - vbawd10.chm22151281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.GroupChar Property (Word)
+# OMathFunction.GroupChar property (Word)
 
 Returns an  **[OMathGroupChar](Word.OMathGroupChar.md)** object that represents a horizontal character placed above or below text in an equation, often with the purpose of grouping the text visually. Read-only.
 

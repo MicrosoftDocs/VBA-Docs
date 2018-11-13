@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Application Property (Word)
+title: BuildingBlock.Application property (Word)
 keywords: vbawd10.chm203621352
 f1_keywords:
 - vbawd10.chm203621352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Application Property (Word)
+# BuildingBlock.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

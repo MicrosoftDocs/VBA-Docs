@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Capabilities Property (Word)
+title: Broadcast.Capabilities property (Word)
 keywords: vbawd10.chm36438019
 f1_keywords:
 - vbawd10.chm36438019
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.Capabilities Property (Word)
+# Broadcast.Capabilities property (Word)
 
 Returns a  **Long** that represents the capabilities of the specified broadcast. Read-only.
 

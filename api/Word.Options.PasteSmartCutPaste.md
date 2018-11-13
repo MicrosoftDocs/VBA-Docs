@@ -1,5 +1,5 @@
 ---
-title: Options.PasteSmartCutPaste Property (Word)
+title: Options.PasteSmartCutPaste property (Word)
 keywords: vbawd10.chm162988470
 f1_keywords:
 - vbawd10.chm162988470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteSmartCutPaste Property (Word)
+# Options.PasteSmartCutPaste property (Word)
 
  **True** if Microsoft Word intelligently pastes selections into a document. Read/write **Boolean** .
 

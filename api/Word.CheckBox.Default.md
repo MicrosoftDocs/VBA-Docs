@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Default Property (Word)
+title: CheckBox.Default property (Word)
 keywords: vbawd10.chm153485315
 f1_keywords:
 - vbawd10.chm153485315
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Default Property (Word)
+# CheckBox.Default property (Word)
 
 Returns or sets the default check box value.  **True** if the default value is checked. Read/write **Boolean** .
 

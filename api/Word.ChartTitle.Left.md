@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Left Property (Word)
+title: ChartTitle.Left property (Word)
 keywords: vbawd10.chm65273862
 f1_keywords:
 - vbawd10.chm65273862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Left Property (Word)
+# ChartTitle.Left property (Word)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double** .
 

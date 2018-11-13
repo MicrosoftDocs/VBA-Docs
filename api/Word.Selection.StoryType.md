@@ -1,5 +1,5 @@
 ---
-title: Selection.StoryType Property (Word)
+title: Selection.StoryType property (Word)
 keywords: vbawd10.chm158662663
 f1_keywords:
 - vbawd10.chm158662663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.StoryType Property (Word)
+# Selection.StoryType property (Word)
 
 Returns the story type for the specified selection. Read-only  **WdStoryType** .
 

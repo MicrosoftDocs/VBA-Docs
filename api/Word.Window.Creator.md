@@ -1,5 +1,5 @@
 ---
-title: Window.Creator Property (Word)
+title: Window.Creator property (Word)
 keywords: vbawd10.chm157418473
 f1_keywords:
 - vbawd10.chm157418473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Creator Property (Word)
+# Window.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdRowHeightRule Enumeration (Word)
+title: WdRowHeightRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRowHeightRule
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRowHeightRule Enumeration (Word)
+# WdRowHeightRule enumeration (Word)
 
 Specifies the rule for determining the height of the specified cells or rows.
 

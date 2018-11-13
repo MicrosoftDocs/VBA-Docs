@@ -1,5 +1,5 @@
 ---
-title: Points.Creator Property (Word)
+title: Points.Creator property (Word)
 keywords: vbawd10.chm10485909
 f1_keywords:
 - vbawd10.chm10485909
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points.Creator Property (Word)
+# Points.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Width Property (Word)
+title: TextColumns.Width property (Word)
 keywords: vbawd10.chm158531686
 f1_keywords:
 - vbawd10.chm158531686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Width Property (Word)
+# TextColumns.Width property (Word)
 
 Returns or sets the width of the Word art text effects, in points. Read/write  **Long** .
 

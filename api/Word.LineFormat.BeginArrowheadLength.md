@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadLength Property (Word)
+title: LineFormat.BeginArrowheadLength property (Word)
 keywords: vbawd10.chm164233317
 f1_keywords:
 - vbawd10.chm164233317
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.BeginArrowheadLength Property (Word)
+# LineFormat.BeginArrowheadLength property (Word)
 
 Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadLength** .
 

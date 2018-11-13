@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 keywords: vbawd10.chm165347600
 f1_keywords:
 - vbawd10.chm165347600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks property (Word)
 
  **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically changed to hyperlinks as you type. Read/write **Boolean** .
 

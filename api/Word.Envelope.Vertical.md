@@ -1,5 +1,5 @@
 ---
-title: Envelope.Vertical Property (Word)
+title: Envelope.Vertical property (Word)
 keywords: vbawd10.chm152567830
 f1_keywords:
 - vbawd10.chm152567830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Vertical Property (Word)
+# Envelope.Vertical property (Word)
 
  **True** vertically orients text on Asian envelopes. Read/write **Boolean** .
 

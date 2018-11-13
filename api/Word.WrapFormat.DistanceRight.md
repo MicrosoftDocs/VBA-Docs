@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceRight Property (Word)
+title: WrapFormat.DistanceRight property (Word)
 keywords: vbawd10.chm163774569
 f1_keywords:
 - vbawd10.chm163774569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.DistanceRight Property (Word)
+# WrapFormat.DistanceRight property (Word)
 
  Returns or sets the distance (in points) between the document text and the right edge of the text-free area surrounding the specified shape. Read/write **Single** .
 

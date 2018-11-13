@@ -1,5 +1,5 @@
 ---
-title: XMLNode.BaseName Property (Word)
+title: XMLNode.BaseName property (Word)
 keywords: vbawd10.chm37748736
 f1_keywords:
 - vbawd10.chm37748736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.BaseName Property (Word)
+# XMLNode.BaseName property (Word)
 
 Returns a  **String** that represents the name of the element without any prefix.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Rad Property (Word)
+title: OMathFunction.Rad property (Word)
 keywords: vbawd10.chm22151288
 f1_keywords:
 - vbawd10.chm22151288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Rad Property (Word)
+# OMathFunction.Rad property (Word)
 
 Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathematical radical function. Read-only.
 

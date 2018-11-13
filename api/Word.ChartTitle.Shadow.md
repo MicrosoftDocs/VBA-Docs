@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Shadow Property (Word)
+title: ChartTitle.Shadow property (Word)
 keywords: vbawd10.chm65273866
 f1_keywords:
 - vbawd10.chm65273866
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Shadow Property (Word)
+# ChartTitle.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

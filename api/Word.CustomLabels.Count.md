@@ -1,5 +1,5 @@
 ---
-title: CustomLabels.Count Property (Word)
+title: CustomLabels.Count property (Word)
 keywords: vbawd10.chm152436737
 f1_keywords:
 - vbawd10.chm152436737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabels.Count Property (Word)
+# CustomLabels.Count property (Word)
 
 Returns a  **Long** that represents the number of items in the collection. Read-only.
 

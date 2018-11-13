@@ -1,5 +1,5 @@
 ---
-title: FileConverter.CanSave Property (Word)
+title: FileConverter.CanSave property (Word)
 keywords: vbawd10.chm161021956
 f1_keywords:
 - vbawd10.chm161021956
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.CanSave Property (Word)
+# FileConverter.CanSave property (Word)
 
  **True** if the specified file converter is designed to save files. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: DownBars.Name Property (Word)
+title: DownBars.Name property (Word)
 keywords: vbawd10.chm107151470
 f1_keywords:
 - vbawd10.chm107151470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Name Property (Word)
+# DownBars.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

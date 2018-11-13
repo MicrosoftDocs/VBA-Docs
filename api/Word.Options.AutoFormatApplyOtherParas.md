@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyOtherParas Property (Word)
+title: Options.AutoFormatApplyOtherParas property (Word)
 keywords: vbawd10.chm162988285
 f1_keywords:
 - vbawd10.chm162988285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatApplyOtherParas Property (Word)
+# Options.AutoFormatApplyOtherParas property (Word)
 
  **True** if styles are automatically applied to paragraphs that aren't headings or list items when Word formats a document or range automatically. Read/write **Boolean** .
 

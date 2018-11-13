@@ -1,5 +1,5 @@
 ---
-title: Window.VerticalPercentScrolled Property (Word)
+title: Window.VerticalPercentScrolled property (Word)
 keywords: vbawd10.chm157417496
 f1_keywords:
 - vbawd10.chm157417496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.VerticalPercentScrolled Property (Word)
+# Window.VerticalPercentScrolled property (Word)
 
 Returns or sets the vertical scroll position as a percentage of the document length. Read/write  **Long** .
 

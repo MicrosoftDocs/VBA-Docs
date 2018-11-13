@@ -1,5 +1,5 @@
 ---
-title: Styles.Count Property (Word)
+title: Styles.Count property (Word)
 keywords: vbawd10.chm153944065
 f1_keywords:
 - vbawd10.chm153944065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Count Property (Word)
+# Styles.Count property (Word)
 
 Returns a  **Long** that represents the number of styles in the collection. Read-only.
 

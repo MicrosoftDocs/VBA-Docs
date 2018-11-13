@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Command Property (Word)
+title: KeysBoundTo.Command property (Word)
 keywords: vbawd10.chm160890884
 f1_keywords:
 - vbawd10.chm160890884
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Command Property (Word)
+# KeysBoundTo.Command property (Word)
 
 Returns a  **String** that represents the command assigned to the specified key combination. Read-only.
 

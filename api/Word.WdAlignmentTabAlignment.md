@@ -1,5 +1,5 @@
 ---
-title: WdAlignmentTabAlignment Enumeration (Word)
+title: WdAlignmentTabAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAlignmentTabAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAlignmentTabAlignment Enumeration (Word)
+# WdAlignmentTabAlignment enumeration (Word)
 
 Specifies tab alignment.
 

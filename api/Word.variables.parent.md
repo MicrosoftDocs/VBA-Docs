@@ -1,5 +1,5 @@
 ---
-title: Variables.Parent Property (Word)
+title: Variables.Parent property (Word)
 keywords: vbawd10.chm157615082
 f1_keywords:
 - vbawd10.chm157615082
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Parent Property (Word)
+# Variables.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Variables** object.
 

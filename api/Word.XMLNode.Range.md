@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Range Property (Word)
+title: XMLNode.Range property (Word)
 keywords: vbawd10.chm37748737
 f1_keywords:
 - vbawd10.chm37748737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Range Property (Word)
+# XMLNode.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
 

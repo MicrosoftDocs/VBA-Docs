@@ -1,5 +1,5 @@
 ---
-title: Page.Top Property (Word)
+title: Page.Top property (Word)
 keywords: vbawd10.chm11075587
 f1_keywords:
 - vbawd10.chm11075587
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Top Property (Word)
+# Page.Top property (Word)
 
 Returns a  **Long** that represents the top edge of the page. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Has3DShading Property (Word)
+title: ChartGroup.Has3DShading property (Word)
 keywords: vbawd10.chm263454766
 f1_keywords:
 - vbawd10.chm263454766
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.Has3DShading Property (Word)
+# ChartGroup.Has3DShading property (Word)
 
  **True** if a chart group has three-dimensional shading. Read/write **Boolean** .
 

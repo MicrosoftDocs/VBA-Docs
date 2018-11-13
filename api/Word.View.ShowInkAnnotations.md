@@ -1,5 +1,5 @@
 ---
-title: View.ShowInkAnnotations Property (Word)
+title: View.ShowInkAnnotations property (Word)
 keywords: vbawd10.chm161808432
 f1_keywords:
 - vbawd10.chm161808432
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowInkAnnotations Property (Word)
+# View.ShowInkAnnotations property (Word)
 
 Returns or sets  **Boolean** that shows or hides handwritten ink annotations. **True** displays ink annotations. **False** hides ink annotations.
 

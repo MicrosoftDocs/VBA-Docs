@@ -1,5 +1,5 @@
 ---
-title: Section.Parent Property (Word)
+title: Section.Parent property (Word)
 keywords: vbawd10.chm156828650
 f1_keywords:
 - vbawd10.chm156828650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Parent Property (Word)
+# Section.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Section** object.
 

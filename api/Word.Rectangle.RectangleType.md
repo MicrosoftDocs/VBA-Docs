@@ -1,5 +1,5 @@
 ---
-title: Rectangle.RectangleType Property (Word)
+title: Rectangle.RectangleType property (Word)
 keywords: vbawd10.chm234029058
 f1_keywords:
 - vbawd10.chm234029058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.RectangleType Property (Word)
+# Rectangle.RectangleType property (Word)
 
 Returns a  **WdRectangleType** constant that represents the type for the specified rectangle.
 

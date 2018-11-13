@@ -1,5 +1,5 @@
 ---
-title: Break.Range Property (Word)
+title: Break.Range property (Word)
 keywords: vbawd10.chm200343554
 f1_keywords:
 - vbawd10.chm200343554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Break.Range Property (Word)
+# Break.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 

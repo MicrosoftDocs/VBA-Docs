@@ -1,5 +1,5 @@
 ---
-title: Options.AutoCreateNewDrawings Property (Word)
+title: Options.AutoCreateNewDrawings property (Word)
 keywords: vbawd10.chm162988483
 f1_keywords:
 - vbawd10.chm162988483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoCreateNewDrawings Property (Word)
+# Options.AutoCreateNewDrawings property (Word)
 
  **True** for Microsoft Word to draw newly created shapes in a drawing canvas. Read/write **Boolean** .
 

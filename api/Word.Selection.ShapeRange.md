@@ -1,5 +1,5 @@
 ---
-title: Selection.ShapeRange Property (Word)
+title: Selection.ShapeRange property (Word)
 keywords: vbawd10.chm158663660
 f1_keywords:
 - vbawd10.chm158663660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ShapeRange Property (Word)
+# Selection.ShapeRange property (Word)
 
 Returns a  **[ShapeRange](Word.shaperange.md)** collection that represents all the **Shape** objects in the selection. Read-only.
 

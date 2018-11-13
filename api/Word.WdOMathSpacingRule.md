@@ -1,5 +1,5 @@
 ---
-title: WdOMathSpacingRule Enumeration (Word)
+title: WdOMathSpacingRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathSpacingRule
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathSpacingRule Enumeration (Word)
+# WdOMathSpacingRule enumeration (Word)
 
 Specifies spacing for an equation.
 

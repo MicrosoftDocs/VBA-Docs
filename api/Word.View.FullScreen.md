@@ -1,5 +1,5 @@
 ---
-title: View.FullScreen Property (Word)
+title: View.FullScreen property (Word)
 keywords: vbawd10.chm161808385
 f1_keywords:
 - vbawd10.chm161808385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.FullScreen Property (Word)
+# View.FullScreen property (Word)
 
  **True** if the window is in full-screen view. Read/write **Boolean** .
 

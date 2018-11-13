@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SalutationType Property (Word)
+title: LetterContent.SalutationType property (Word)
 keywords: vbawd10.chm161546351
 f1_keywords:
 - vbawd10.chm161546351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SalutationType Property (Word)
+# LetterContent.SalutationType property (Word)
 
 Returns or sets the type of salutation for a letter created by the Letter Wizard. Read/write  **WdSalutationType** .
 

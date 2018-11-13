@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.IncludePageNumbers Property (Word)
+title: TableOfContents.IncludePageNumbers property (Word)
 keywords: vbawd10.chm152240136
 f1_keywords:
 - vbawd10.chm152240136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.IncludePageNumbers Property (Word)
+# TableOfContents.IncludePageNumbers property (Word)
 
  **True** if page numbers are included in the table of contents. Read/write **Boolean** .
 

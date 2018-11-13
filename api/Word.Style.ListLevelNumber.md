@@ -1,5 +1,5 @@
 ---
-title: Style.ListLevelNumber Property (Word)
+title: Style.ListLevelNumber property (Word)
 keywords: vbawd10.chm153878543
 f1_keywords:
 - vbawd10.chm153878543
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.ListLevelNumber Property (Word)
+# Style.ListLevelNumber property (Word)
 
 Returns the list level for the specified style. Read-only  **Long** .
 

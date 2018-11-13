@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DateDisplayLocale Property (Word)
+title: ContentControl.DateDisplayLocale property (Word)
 keywords: vbawd10.chm266534935
 f1_keywords:
 - vbawd10.chm266534935
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.DateDisplayLocale Property (Word)
+# ContentControl.DateDisplayLocale property (Word)
 
 Returns a  **WdLanguageID** that represents the language format for the date displayed in a date content control. Read/write.
 

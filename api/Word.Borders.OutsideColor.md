@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideColor Property (Word)
+title: Borders.OutsideColor property (Word)
 keywords: vbawd10.chm154927137
 f1_keywords:
 - vbawd10.chm154927137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.OutsideColor Property (Word)
+# Borders.OutsideColor property (Word)
 
 Returns or sets the 24-bit color of the outside borders. .
 

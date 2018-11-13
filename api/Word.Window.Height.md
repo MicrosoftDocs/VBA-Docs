@@ -1,5 +1,5 @@
 ---
-title: Window.Height Property (Word)
+title: Window.Height property (Word)
 keywords: vbawd10.chm157417480
 f1_keywords:
 - vbawd10.chm157417480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Height Property (Word)
+# Window.Height property (Word)
 
 Returns or sets the height of the window (in points). Read/write Long.
 

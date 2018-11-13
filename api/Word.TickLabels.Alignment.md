@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Alignment Property (Word)
+title: TickLabels.Alignment property (Word)
 keywords: vbawd10.chm167051284
 f1_keywords:
 - vbawd10.chm167051284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Alignment Property (Word)
+# TickLabels.Alignment property (Word)
 
 Returns or sets the alignment for the specified phonetic text or tick label. Read/write  **Long** .
 

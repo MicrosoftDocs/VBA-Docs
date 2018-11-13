@@ -1,5 +1,5 @@
 ---
-title: WdWrapType Enumeration (Word)
+title: WdWrapType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWrapType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWrapType Enumeration (Word)
+# WdWrapType enumeration (Word)
 
 Specifies how to wrap text around a shape.
 

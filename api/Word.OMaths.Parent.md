@@ -1,5 +1,5 @@
 ---
-title: OMaths.Parent Property (Word)
+title: OMaths.Parent property (Word)
 keywords: vbawd10.chm122355814
 f1_keywords:
 - vbawd10.chm122355814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMaths.Parent Property (Word)
+# OMaths.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMaths** object.
 

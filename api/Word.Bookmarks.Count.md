@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Count Property (Word)
+title: Bookmarks.Count property (Word)
 keywords: vbawd10.chm157745154
 f1_keywords:
 - vbawd10.chm157745154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.Count Property (Word)
+# Bookmarks.Count property (Word)
 
 Returns the number of items in the  **Bookmarks** collection. Read-only **Long** .
 

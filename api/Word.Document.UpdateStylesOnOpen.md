@@ -1,5 +1,5 @@
 ---
-title: Document.UpdateStylesOnOpen Property (Word)
+title: Document.UpdateStylesOnOpen property (Word)
 keywords: vbawd10.chm158007362
 f1_keywords:
 - vbawd10.chm158007362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.UpdateStylesOnOpen Property (Word)
+# Document.UpdateStylesOnOpen property (Word)
 
  **True** if the styles in the specified document are updated to match the styles in the attached template each time the document is opened. Read/write **Boolean** .
 

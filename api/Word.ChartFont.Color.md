@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Color Property (Word)
+title: ChartFont.Color property (Word)
 keywords: vbawd10.chm255918084
 f1_keywords:
 - vbawd10.chm255918084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Color Property (Word)
+# ChartFont.Color property (Word)
 
 Returns or sets the primary color of the object. Read/write  **Variant** .
 

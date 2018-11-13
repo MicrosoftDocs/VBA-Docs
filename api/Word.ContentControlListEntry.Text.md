@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Text Property (Word)
+title: ContentControlListEntry.Text property (Word)
 keywords: vbawd10.chm147456000
 f1_keywords:
 - vbawd10.chm147456000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Text Property (Word)
+# ContentControlListEntry.Text property (Word)
 
 Returns or sets a  **String** that represents the display text of a list item for a drop-down list or combo box content control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Find.Application Property (Word)
+title: Find.Application property (Word)
 keywords: vbawd10.chm162530280
 f1_keywords:
 - vbawd10.chm162530280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Application Property (Word)
+# Find.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

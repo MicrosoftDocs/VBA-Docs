@@ -1,5 +1,5 @@
 ---
-title: Pane.View Property (Word)
+title: Pane.View property (Word)
 keywords: vbawd10.chm157286410
 f1_keywords:
 - vbawd10.chm157286410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.View Property (Word)
+# Pane.View property (Word)
 
 Returns a  **View** object that represents the view for the specified pane.
 

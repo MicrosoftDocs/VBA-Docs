@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Drop Property (Word)
+title: CalloutFormat.Drop property (Word)
 keywords: vbawd10.chm163905641
 f1_keywords:
 - vbawd10.chm163905641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Drop Property (Word)
+# CalloutFormat.Drop property (Word)
 
 Returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single** .
 

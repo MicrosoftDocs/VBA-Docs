@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.RotateWithShape Property (Word)
+title: ShadowFormat.RotateWithShape property (Word)
 keywords: vbawd10.chm164364398
 f1_keywords:
 - vbawd10.chm164364398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.RotateWithShape Property (Word)
+# ShadowFormat.RotateWithShape property (Word)
 
 Returns or sets an  **MsoTriState** that represents whether to rotate the shadow when rotating the shape. Read/write.
 

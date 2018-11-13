@@ -1,5 +1,5 @@
 ---
-title: Shape.Name Property (Word)
+title: Shape.Name property (Word)
 keywords: vbawd10.chm161480819
 f1_keywords:
 - vbawd10.chm161480819
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Name Property (Word)
+# Shape.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

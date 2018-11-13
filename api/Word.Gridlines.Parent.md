@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Parent Property (Word)
+title: Gridlines.Parent property (Word)
 keywords: vbawd10.chm11468950
 f1_keywords:
 - vbawd10.chm11468950
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Parent Property (Word)
+# Gridlines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

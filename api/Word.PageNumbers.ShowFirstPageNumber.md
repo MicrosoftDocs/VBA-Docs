@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.ShowFirstPageNumber Property (Word)
+title: PageNumbers.ShowFirstPageNumber property (Word)
 keywords: vbawd10.chm159776776
 f1_keywords:
 - vbawd10.chm159776776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.ShowFirstPageNumber Property (Word)
+# PageNumbers.ShowFirstPageNumber property (Word)
 
  **True** if the page number appears on the first page in the section. Read/write **Boolean** .
 

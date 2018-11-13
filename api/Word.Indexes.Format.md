@@ -1,5 +1,5 @@
 ---
-title: Indexes.Format Property (Word)
+title: Indexes.Format property (Word)
 keywords: vbawd10.chm159121410
 f1_keywords:
 - vbawd10.chm159121410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.Format Property (Word)
+# Indexes.Format property (Word)
 
 Returns or sets a  **WdIndexFormat** that represents the formatting for the indexes in the specified document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: WdOMathShapeType Enumeration (Word)
+title: WdOMathShapeType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathShapeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathShapeType Enumeration (Word)
+# WdOMathShapeType enumeration (Word)
 
 Specifies the appearance of delimiters (parentheses, braces, brackets) in relationship to the content that they surround.
 

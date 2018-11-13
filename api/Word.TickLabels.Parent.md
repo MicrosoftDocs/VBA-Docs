@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Parent Property (Word)
+title: TickLabels.Parent property (Word)
 keywords: vbawd10.chm167051264
 f1_keywords:
 - vbawd10.chm167051264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Parent Property (Word)
+# TickLabels.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

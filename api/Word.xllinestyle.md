@@ -1,12 +1,12 @@
 ---
-title: xlLineStyle Enumeration (Word)
+title: xlLineStyle enumeration (Word)
 ms.prod: word
 ms.assetid: b2d00c5f-f769-deab-be78-545e7f8f1fab
 ms.date: 06/08/2017
 ---
 
 
-# xlLineStyle Enumeration (Word)
+# xlLineStyle enumeration (Word)
 
 Specifies the line style for the border.
 

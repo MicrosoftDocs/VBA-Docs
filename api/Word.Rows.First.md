@@ -1,5 +1,5 @@
 ---
-title: Rows.First Property (Word)
+title: Rows.First property (Word)
 keywords: vbawd10.chm155975690
 f1_keywords:
 - vbawd10.chm155975690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.First Property (Word)
+# Rows.First property (Word)
 
 Returns a  **[Row](Word.Row.md)** object that represents the first item in the **Rows** collection.
 

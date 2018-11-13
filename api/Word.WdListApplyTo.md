@@ -1,5 +1,5 @@
 ---
-title: WdListApplyTo Enumeration (Word)
+title: WdListApplyTo enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListApplyTo
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdListApplyTo Enumeration (Word)
+# WdListApplyTo enumeration (Word)
 
 Specifies the portion of a list to which to apply a list template.
 

@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdate.Range Property (Word)
+title: CoAuthUpdate.Range property (Word)
 keywords: vbawd10.chm247791617
 f1_keywords:
 - vbawd10.chm247791617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdate.Range Property (Word)
+# CoAuthUpdate.Range property (Word)
 
 Returns a [Range](Word.Range.md) object that represents the portion of a document that is contained in the specified object. Read-only.
 

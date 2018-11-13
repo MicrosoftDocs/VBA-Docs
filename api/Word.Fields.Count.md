@@ -1,5 +1,5 @@
 ---
-title: Fields.Count Property (Word)
+title: Fields.Count property (Word)
 keywords: vbawd10.chm154140673
 f1_keywords:
 - vbawd10.chm154140673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Count Property (Word)
+# Fields.Count property (Word)
 
 Returns a  **Long** that represents the number of fields in the collection. Read-only.
 

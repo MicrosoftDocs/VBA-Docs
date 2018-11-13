@@ -1,5 +1,5 @@
 ---
-title: WdUseFormattingFrom Enumeration (Word)
+title: WdUseFormattingFrom enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdUseFormattingFrom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdUseFormattingFrom Enumeration (Word)
+# WdUseFormattingFrom enumeration (Word)
 
 Specifies a source to copy formatting from.
 

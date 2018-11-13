@@ -1,5 +1,5 @@
 ---
-title: View.ShowOptionalBreaks Property (Word)
+title: View.ShowOptionalBreaks property (Word)
 keywords: vbawd10.chm161808415
 f1_keywords:
 - vbawd10.chm161808415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowOptionalBreaks Property (Word)
+# View.ShowOptionalBreaks property (Word)
 
  **True** if Microsoft Word displays optional line breaks. Read/write **Boolean** .
 

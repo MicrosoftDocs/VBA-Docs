@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyHeadings Property (Word)
+title: Options.AutoFormatApplyHeadings property (Word)
 keywords: vbawd10.chm162988282
 f1_keywords:
 - vbawd10.chm162988282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatApplyHeadings Property (Word)
+# Options.AutoFormatApplyHeadings property (Word)
 
  **True** if styles are automatically applied to headings when Word formats a document or range automatically. Read/write **Boolean** .
 

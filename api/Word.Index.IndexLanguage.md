@@ -1,5 +1,5 @@
 ---
-title: Index.IndexLanguage Property (Word)
+title: Index.IndexLanguage property (Word)
 keywords: vbawd10.chm159186954
 f1_keywords:
 - vbawd10.chm159186954
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.IndexLanguage Property (Word)
+# Index.IndexLanguage property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the sorting language to use for the specified index. Read/write .
 

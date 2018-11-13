@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Args Property (Word)
+title: OMathFunction.Args property (Word)
 keywords: vbawd10.chm22151272
 f1_keywords:
 - vbawd10.chm22151272
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Args Property (Word)
+# OMathFunction.Args property (Word)
 
 Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments for an equation. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistics.Parent Property (Word)
+title: ReadabilityStatistics.Parent property (Word)
 keywords: vbawd10.chm162399210
 f1_keywords:
 - vbawd10.chm162399210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistics.Parent Property (Word)
+# ReadabilityStatistics.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ReadabilityStatistics** object.
 

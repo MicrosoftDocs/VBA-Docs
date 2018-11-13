@@ -1,5 +1,5 @@
 ---
-title: Selection.Find Property (Word)
+title: Selection.Find property (Word)
 keywords: vbawd10.chm158662918
 f1_keywords:
 - vbawd10.chm158662918
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Find Property (Word)
+# Selection.Find property (Word)
 
 Returns a  **[Find](Word.Find.md)** object that contains the criteria for a find operation. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdCursorMovement Enumeration (Word)
+title: WdCursorMovement enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCursorMovement
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCursorMovement Enumeration (Word)
+# WdCursorMovement enumeration (Word)
 
 Specifies how the insertion point progresses within bidirectional text.
 

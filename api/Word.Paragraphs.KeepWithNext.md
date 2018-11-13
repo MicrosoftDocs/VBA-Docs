@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.KeepWithNext Property (Word)
+title: Paragraphs.KeepWithNext property (Word)
 keywords: vbawd10.chm156762215
 f1_keywords:
 - vbawd10.chm156762215
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.KeepWithNext Property (Word)
+# Paragraphs.KeepWithNext property (Word)
 
  **True** if the specified paragraphs remain on the same page as the paragraphs that follow it when Microsoft Word repaginates the document. Read/write **Long** .
 

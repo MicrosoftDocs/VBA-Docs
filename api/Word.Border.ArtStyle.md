@@ -1,5 +1,5 @@
 ---
-title: Border.ArtStyle Property (Word)
+title: Border.ArtStyle property (Word)
 keywords: vbawd10.chm154861573
 f1_keywords:
 - vbawd10.chm154861573
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.ArtStyle Property (Word)
+# Border.ArtStyle property (Word)
 
 Returns or sets the graphical page-border design for a document. Read/write  **WdPageBorderArt** .
 

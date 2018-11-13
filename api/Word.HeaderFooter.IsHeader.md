@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.IsHeader Property (Word)
+title: HeaderFooter.IsHeader property (Word)
 keywords: vbawd10.chm159711235
 f1_keywords:
 - vbawd10.chm159711235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.IsHeader Property (Word)
+# HeaderFooter.IsHeader property (Word)
 
  **True** if the specified **HeaderFooter** object is a header. Read-only **Boolean** .
 

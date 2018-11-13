@@ -1,5 +1,5 @@
 ---
-title: Application.FontNames Property (Word)
+title: Application.FontNames property (Word)
 keywords: vbawd10.chm158334987
 f1_keywords:
 - vbawd10.chm158334987
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FontNames Property (Word)
+# Application.FontNames property (Word)
 
 Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available fonts. Read-only.
 

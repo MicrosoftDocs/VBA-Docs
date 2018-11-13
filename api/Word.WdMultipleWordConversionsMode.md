@@ -1,5 +1,5 @@
 ---
-title: WdMultipleWordConversionsMode Enumeration (Word)
+title: WdMultipleWordConversionsMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMultipleWordConversionsMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMultipleWordConversionsMode Enumeration (Word)
+# WdMultipleWordConversionsMode enumeration (Word)
 
 Specifies the direction for conversion between Hangul and Hanja.
 

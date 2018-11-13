@@ -1,5 +1,5 @@
 ---
-title: View.Panning Property (Word)
+title: View.Panning property (Word)
 keywords: vbawd10.chm161808439
 f1_keywords:
 - vbawd10.chm161808439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Panning Property (Word)
+# View.Panning property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word is in Panning mode. Read/write.
 

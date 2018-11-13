@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Duplicate Property (Word)
+title: LetterContent.Duplicate property (Word)
 keywords: vbawd10.chm161546250
 f1_keywords:
 - vbawd10.chm161546250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Duplicate Property (Word)
+# LetterContent.Duplicate property (Word)
 
 Returns a read-only  **LetterContent** object that represents the contents of a letter created by the Letter Wizard.
 

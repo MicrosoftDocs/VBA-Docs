@@ -1,5 +1,5 @@
 ---
-title: ListLevel.NumberPosition Property (Word)
+title: ListLevel.NumberPosition property (Word)
 keywords: vbawd10.chm160235525
 f1_keywords:
 - vbawd10.chm160235525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.NumberPosition Property (Word)
+# ListLevel.NumberPosition property (Word)
 
 Returns or sets the position (in points) of the number or bullet for the specified  **ListLevel** object. Read/write **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.Parent Property (Word)
+title: HorizontalLineFormat.Parent property (Word)
 keywords: vbawd10.chm165544938
 f1_keywords:
 - vbawd10.chm165544938
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.Parent Property (Word)
+# HorizontalLineFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **HorizontalLineFormat** object.
 

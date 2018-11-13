@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientAddress Property (Word)
+title: LetterContent.RecipientAddress property (Word)
 keywords: vbawd10.chm161546349
 f1_keywords:
 - vbawd10.chm161546349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.RecipientAddress Property (Word)
+# LetterContent.RecipientAddress property (Word)
 
 Returns or sets the mailing address of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String** .
 

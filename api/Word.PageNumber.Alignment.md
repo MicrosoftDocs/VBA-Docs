@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Alignment Property (Word)
+title: PageNumber.Alignment property (Word)
 keywords: vbawd10.chm159842307
 f1_keywords:
 - vbawd10.chm159842307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Alignment Property (Word)
+# PageNumber.Alignment property (Word)
 
 Returns or sets a  **WdPageNumberAlignment** constant that represents the alignment for the page number. Read/write.
 

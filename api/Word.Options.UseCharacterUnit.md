@@ -1,5 +1,5 @@
 ---
-title: Options.UseCharacterUnit Property (Word)
+title: Options.UseCharacterUnit property (Word)
 keywords: vbawd10.chm162988378
 f1_keywords:
 - vbawd10.chm162988378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseCharacterUnit Property (Word)
+# Options.UseCharacterUnit property (Word)
 
  **True** if Microsoft Word uses characters as the default measurement unit for the current document. Read/write **Boolean** .
 

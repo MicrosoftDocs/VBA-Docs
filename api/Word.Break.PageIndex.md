@@ -1,5 +1,5 @@
 ---
-title: Break.PageIndex Property (Word)
+title: Break.PageIndex property (Word)
 keywords: vbawd10.chm200343555
 f1_keywords:
 - vbawd10.chm200343555
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Break.PageIndex Property (Word)
+# Break.PageIndex property (Word)
 
 Returns a  **Long** that represents the page number on which the specified break occurs.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.OddAndEvenPagesHeaderFooter Property (Word)
+title: PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 keywords: vbawd10.chm158400627
 f1_keywords:
 - vbawd10.chm158400627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.OddAndEvenPagesHeaderFooter Property (Word)
+# PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 
  **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Long** .
 

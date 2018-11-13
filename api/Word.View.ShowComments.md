@@ -1,5 +1,5 @@
 ---
-title: View.ShowComments Property (Word)
+title: View.ShowComments property (Word)
 keywords: vbawd10.chm161808419
 f1_keywords:
 - vbawd10.chm161808419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowComments Property (Word)
+# View.ShowComments property (Word)
 
  **True** for Microsoft Word to display the comments in a document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Height Property (Word)
+title: CustomLabel.Height property (Word)
 keywords: vbawd10.chm152371205
 f1_keywords:
 - vbawd10.chm152371205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Height Property (Word)
+# CustomLabel.Height property (Word)
 
 Returns or sets the height of a specified custom mailing label, in points. Read/write  **Single** .
 

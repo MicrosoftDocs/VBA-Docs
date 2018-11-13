@@ -1,5 +1,5 @@
 ---
-title: WdEnableCancelKey Enumeration (Word)
+title: WdEnableCancelKey enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEnableCancelKey
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEnableCancelKey Enumeration (Word)
+# WdEnableCancelKey enumeration (Word)
 
 Specifies whether CTRL+BREAK can or cannot interrupt a macro
 

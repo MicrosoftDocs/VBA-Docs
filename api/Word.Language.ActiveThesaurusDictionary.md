@@ -1,5 +1,5 @@
 ---
-title: Language.ActiveThesaurusDictionary Property (Word)
+title: Language.ActiveThesaurusDictionary property (Word)
 keywords: vbawd10.chm158138384
 f1_keywords:
 - vbawd10.chm158138384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.ActiveThesaurusDictionary Property (Word)
+# Language.ActiveThesaurusDictionary property (Word)
 
 Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active thesaurus dictionary for the specified language.
 

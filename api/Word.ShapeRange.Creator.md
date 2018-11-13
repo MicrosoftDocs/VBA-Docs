@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Creator Property (Word)
+title: ShapeRange.Creator property (Word)
 keywords: vbawd10.chm162864961
 f1_keywords:
 - vbawd10.chm162864961
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Creator Property (Word)
+# ShapeRange.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

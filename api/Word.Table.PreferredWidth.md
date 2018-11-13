@@ -1,5 +1,5 @@
 ---
-title: Table.PreferredWidth Property (Word)
+title: Table.PreferredWidth property (Word)
 keywords: vbawd10.chm156303471
 f1_keywords:
 - vbawd10.chm156303471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.PreferredWidth Property (Word)
+# Table.PreferredWidth property (Word)
 
 Returns or sets the preferred width (in points or as a percentage of the window width) for the specified table. Read/write  **Single** .
 

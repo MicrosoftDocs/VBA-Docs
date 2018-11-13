@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageWidth Property (Word)
+title: PageSetup.PageWidth property (Word)
 keywords: vbawd10.chm158400617
 f1_keywords:
 - vbawd10.chm158400617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PageWidth Property (Word)
+# PageSetup.PageWidth property (Word)
 
 Returns or sets the width of the page in points. Read/write  **Single** .
 

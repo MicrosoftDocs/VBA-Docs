@@ -1,5 +1,5 @@
 ---
-title: Selection.LanguageID Property (Word)
+title: Selection.LanguageID property (Word)
 keywords: vbawd10.chm158662809
 f1_keywords:
 - vbawd10.chm158662809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.LanguageID Property (Word)
+# Selection.LanguageID property (Word)
 
 Returns or sets the language for the specified object. Read/write .
 

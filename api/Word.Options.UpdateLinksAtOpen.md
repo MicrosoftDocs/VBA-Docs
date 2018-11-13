@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateLinksAtOpen Property (Word)
+title: Options.UpdateLinksAtOpen property (Word)
 keywords: vbawd10.chm162988055
 f1_keywords:
 - vbawd10.chm162988055
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UpdateLinksAtOpen Property (Word)
+# Options.UpdateLinksAtOpen property (Word)
 
  **True** if Microsoft Word automatically updates all embedded OLE links in a document when it is opened. Read/write **Boolean** .
 

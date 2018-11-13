@@ -1,5 +1,5 @@
 ---
-title: InlineShape.ScaleWidth Property (Word)
+title: InlineShape.ScaleWidth property (Word)
 keywords: vbawd10.chm162005003
 f1_keywords:
 - vbawd10.chm162005003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.ScaleWidth Property (Word)
+# InlineShape.ScaleWidth property (Word)
 
 Scales the width of the specified inline shape relative to its original size. Read/write  **Single** .
 

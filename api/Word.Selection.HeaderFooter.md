@@ -1,5 +1,5 @@
 ---
-title: Selection.HeaderFooter Property (Word)
+title: Selection.HeaderFooter property (Word)
 keywords: vbawd10.chm158662962
 f1_keywords:
 - vbawd10.chm158662962
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.HeaderFooter Property (Word)
+# Selection.HeaderFooter property (Word)
 
 Returns a  **[HeaderFooter](Word.HeaderFooter.md)** object for the specified selection. Read-only.
 

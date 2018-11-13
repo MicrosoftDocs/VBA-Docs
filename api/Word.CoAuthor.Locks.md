@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.Locks Property (Word)
+title: CoAuthor.Locks property (Word)
 keywords: vbawd10.chm81068036
 f1_keywords:
 - vbawd10.chm81068036
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthor.Locks Property (Word)
+# CoAuthor.Locks property (Word)
 
 Returns a [CoAuthLocks](Word.CoAuthLocks.md) collection that represents the locks in the document that are associated with the specified co author. Read-only.
 

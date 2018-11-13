@@ -1,5 +1,5 @@
 ---
-title: Index.RightAlignPageNumbers Property (Word)
+title: Index.RightAlignPageNumbers property (Word)
 keywords: vbawd10.chm159186946
 f1_keywords:
 - vbawd10.chm159186946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.RightAlignPageNumbers Property (Word)
+# Index.RightAlignPageNumbers property (Word)
 
  **True** if page numbers are aligned with the right margin in an index. Read/write **Boolean** .
 

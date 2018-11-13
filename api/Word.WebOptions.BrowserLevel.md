@@ -1,5 +1,5 @@
 ---
-title: WebOptions.BrowserLevel Property (Word)
+title: WebOptions.BrowserLevel property (Word)
 keywords: vbawd10.chm165937154
 f1_keywords:
 - vbawd10.chm165937154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.BrowserLevel Property (Word)
+# WebOptions.BrowserLevel property (Word)
 
 Returns or sets  **WdBrowserLevel** that represents the level of Web browser at which you want to target the specified Web page. Read/write.
 

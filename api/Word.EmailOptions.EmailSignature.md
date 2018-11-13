@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.EmailSignature Property (Word)
+title: EmailOptions.EmailSignature property (Word)
 keywords: vbawd10.chm165347436
 f1_keywords:
 - vbawd10.chm165347436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.EmailSignature Property (Word)
+# EmailOptions.EmailSignature property (Word)
 
 Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents the signatures Microsoft Word appends to outgoing e-mail messages. Read-only.
 

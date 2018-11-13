@@ -1,5 +1,5 @@
 ---
-title: TabStop.Previous Property (Word)
+title: TabStop.Previous property (Word)
 keywords: vbawd10.chm156500073
 f1_keywords:
 - vbawd10.chm156500073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Previous Property (Word)
+# TabStop.Previous property (Word)
 
 Returns the previous tab stop in the collection. Read-only.
 

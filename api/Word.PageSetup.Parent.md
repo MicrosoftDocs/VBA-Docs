@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Parent Property (Word)
+title: PageSetup.Parent property (Word)
 keywords: vbawd10.chm158401514
 f1_keywords:
 - vbawd10.chm158401514
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Parent Property (Word)
+# PageSetup.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **PageSetup** object.
 

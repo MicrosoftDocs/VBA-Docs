@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.HeaderSourceName Property (Word)
+title: MailMergeDataSource.HeaderSourceName property (Word)
 keywords: vbawd10.chm152895490
 f1_keywords:
 - vbawd10.chm152895490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.HeaderSourceName Property (Word)
+# MailMergeDataSource.HeaderSourceName property (Word)
 
 Returns the path and file name of the header source attached to the specified mail merge main document. Read-only  **String** .
 

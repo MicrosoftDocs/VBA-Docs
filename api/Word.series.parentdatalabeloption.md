@@ -1,5 +1,5 @@
 ---
-title: Series.ParentDataLabelOption Property (Word)
+title: Series.ParentDataLabelOption property (Word)
 keywords: vbawd10.chm123734856
 f1_keywords:
 - vbawd10.chm123734856
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ParentDataLabelOption Property (Word)
+# Series.ParentDataLabelOption property (Word)
 
 Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](Word.xlparentdatalabeloptions.md).
 

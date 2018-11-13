@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Column Property (Word)
+title: Bookmark.Column property (Word)
 keywords: vbawd10.chm157810693
 f1_keywords:
 - vbawd10.chm157810693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Column Property (Word)
+# Bookmark.Column property (Word)
 
  **True** if the specified bookmark is a table column. Read-only **Boolean** .
 

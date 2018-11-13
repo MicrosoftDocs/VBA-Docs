@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Name Property (Word)
+title: ShapeRange.Name property (Word)
 keywords: vbawd10.chm162857075
 f1_keywords:
 - vbawd10.chm162857075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Name Property (Word)
+# ShapeRange.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

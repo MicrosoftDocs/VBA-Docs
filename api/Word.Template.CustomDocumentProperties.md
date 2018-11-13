@@ -1,5 +1,5 @@
 ---
-title: Template.CustomDocumentProperties Property (Word)
+title: Template.CustomDocumentProperties property (Word)
 keywords: vbawd10.chm157941769
 f1_keywords:
 - vbawd10.chm157941769
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.CustomDocumentProperties Property (Word)
+# Template.CustomDocumentProperties property (Word)
 
 Returns a  **DocumentProperties** collection that represents all the custom document properties for the specified document.
 

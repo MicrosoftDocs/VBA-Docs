@@ -1,5 +1,5 @@
 ---
-title: WdNumberStyleWordBasicBiDi Enumeration (Word)
+title: WdNumberStyleWordBasicBiDi enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberStyleWordBasicBiDi
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNumberStyleWordBasicBiDi Enumeration (Word)
+# WdNumberStyleWordBasicBiDi enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 

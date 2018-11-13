@@ -1,5 +1,5 @@
 ---
-title: WdIndexSortBy Enumeration (Word)
+title: WdIndexSortBy enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIndexSortBy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdIndexSortBy Enumeration (Word)
+# WdIndexSortBy enumeration (Word)
 
 Specifies the criteria by which Word sorts the specified index.
 

@@ -1,5 +1,5 @@
 ---
-title: WdShapePositionRelative Enumeration (Word)
+title: WdShapePositionRelative enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdShapePositionRelative
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdShapePositionRelative Enumeration (Word)
+# WdShapePositionRelative enumeration (Word)
 
 Specifies whether the  **LeftRelative** or **TopRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object is valid.
 

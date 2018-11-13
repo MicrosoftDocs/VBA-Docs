@@ -1,5 +1,5 @@
 ---
-title: WdHeaderFooterIndex Enumeration (Word)
+title: WdHeaderFooterIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHeaderFooterIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHeaderFooterIndex Enumeration (Word)
+# WdHeaderFooterIndex enumeration (Word)
 
 Returns the specified header or footer in a document or section.
 

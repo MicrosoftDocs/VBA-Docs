@@ -1,5 +1,5 @@
 ---
-title: Shape.Nodes Property (Word)
+title: Shape.Nodes property (Word)
 keywords: vbawd10.chm161480820
 f1_keywords:
 - vbawd10.chm161480820
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Nodes Property (Word)
+# Shape.Nodes property (Word)
 
 Returns a  **[ShapeNodes](Word.shapenodes.md)** collection that represents the geometric description of the specified shape.
 

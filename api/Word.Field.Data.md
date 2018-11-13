@@ -1,5 +1,5 @@
 ---
-title: Field.Data Property (Word)
+title: Field.Data property (Word)
 keywords: vbawd10.chm154075141
 f1_keywords:
 - vbawd10.chm154075141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Data Property (Word)
+# Field.Data property (Word)
 
 Returns or sets data in an ADDIN field. Read/write  **String** .
 

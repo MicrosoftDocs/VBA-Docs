@@ -1,5 +1,5 @@
 ---
-title: Options.ShortMenuNames Property (Word)
+title: Options.ShortMenuNames property (Word)
 keywords: vbawd10.chm162988060
 f1_keywords:
 - vbawd10.chm162988060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShortMenuNames Property (Word)
+# Options.ShortMenuNames property (Word)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **ShortMenuNames** property for the **Options** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

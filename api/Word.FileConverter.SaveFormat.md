@@ -1,5 +1,5 @@
 ---
-title: FileConverter.SaveFormat Property (Word)
+title: FileConverter.SaveFormat property (Word)
 keywords: vbawd10.chm161021954
 f1_keywords:
 - vbawd10.chm161021954
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.SaveFormat Property (Word)
+# FileConverter.SaveFormat property (Word)
 
 Returns the file format of the specified document or file converter. Read-only  **Long** .
 

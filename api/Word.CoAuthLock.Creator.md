@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Creator Property (Word)
+title: CoAuthLock.Creator property (Word)
 keywords: vbawd10.chm260047849
 f1_keywords:
 - vbawd10.chm260047849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Creator Property (Word)
+# CoAuthLock.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

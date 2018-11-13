@@ -1,5 +1,5 @@
 ---
-title: UpBars.Parent Property (Word)
+title: UpBars.Parent property (Word)
 keywords: vbawd10.chm180945046
 f1_keywords:
 - vbawd10.chm180945046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Parent Property (Word)
+# UpBars.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

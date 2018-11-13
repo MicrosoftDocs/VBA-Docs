@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Parent Property (Word)
+title: ContentControl.Parent property (Word)
 keywords: vbawd10.chm266535914
 f1_keywords:
 - vbawd10.chm266535914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Parent Property (Word)
+# ContentControl.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ContentControl** object.
 

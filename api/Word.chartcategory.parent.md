@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.Parent Property (Word)
+title: ChartCategory.Parent property (Word)
 keywords: vbawd10.chm143392918
 f1_keywords:
 - vbawd10.chm143392918
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.Parent Property (Word)
+# ChartCategory.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ChartCategory** object.
 

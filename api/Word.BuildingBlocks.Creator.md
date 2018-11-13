@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Creator Property (Word)
+title: BuildingBlocks.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks.Creator Property (Word)
+# BuildingBlocks.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

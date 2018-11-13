@@ -1,5 +1,5 @@
 ---
-title: DropLines.Border Property (Word)
+title: DropLines.Border property (Word)
 keywords: vbawd10.chm104988675
 f1_keywords:
 - vbawd10.chm104988675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Border Property (Word)
+# DropLines.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ScreenTip Property (Word)
+title: Hyperlink.ScreenTip property (Word)
 keywords: vbawd10.chm161285107
 f1_keywords:
 - vbawd10.chm161285107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.ScreenTip Property (Word)
+# Hyperlink.ScreenTip property (Word)
 
 Returns or sets the text that appears as a ScreenTip when the mouse pointer is positioned over the specified hyperlink. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Sections.First Property (Word)
+title: Sections.First property (Word)
 keywords: vbawd10.chm156893187
 f1_keywords:
 - vbawd10.chm156893187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.First Property (Word)
+# Sections.First property (Word)
 
 Returns a  **[Section](Word.Section.md)** object that represents the first item in the **Sections** collection.
 

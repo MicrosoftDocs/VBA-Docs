@@ -1,5 +1,5 @@
 ---
-title: OMathMatRows.Creator Property (Word)
+title: OMathMatRows.Creator property (Word)
 keywords: vbawd10.chm55050341
 f1_keywords:
 - vbawd10.chm55050341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRows.Creator Property (Word)
+# OMathMatRows.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

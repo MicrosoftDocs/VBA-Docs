@@ -1,5 +1,5 @@
 ---
-title: Page.Left Property (Word)
+title: Page.Left property (Word)
 keywords: vbawd10.chm11075586
 f1_keywords:
 - vbawd10.chm11075586
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Left Property (Word)
+# Page.Left property (Word)
 
 Returns a  **Long** that represents the left edge of the page. Read-only.
 

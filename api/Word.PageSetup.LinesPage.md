@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LinesPage Property (Word)
+title: PageSetup.LinesPage property (Word)
 keywords: vbawd10.chm158400636
 f1_keywords:
 - vbawd10.chm158400636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LinesPage Property (Word)
+# PageSetup.LinesPage property (Word)
 
 Returns or sets the number of lines per page in the document grid. Read/write  **Single** .
 

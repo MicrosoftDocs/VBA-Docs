@@ -1,5 +1,5 @@
 ---
-title: Options.PasteMergeFromPPT Property (Word)
+title: Options.PasteMergeFromPPT property (Word)
 keywords: vbawd10.chm162988465
 f1_keywords:
 - vbawd10.chm162988465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteMergeFromPPT Property (Word)
+# Options.PasteMergeFromPPT property (Word)
 
  **True** to merge text formatting when pasting from Microsoft PowerPoint. Read/write **Boolean** .
 

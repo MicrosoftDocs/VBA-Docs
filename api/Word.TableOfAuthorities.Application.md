@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Application Property (Word)
+title: TableOfAuthorities.Application property (Word)
 keywords: vbawd10.chm152110056
 f1_keywords:
 - vbawd10.chm152110056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Application Property (Word)
+# TableOfAuthorities.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

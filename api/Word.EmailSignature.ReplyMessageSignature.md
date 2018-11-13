@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.ReplyMessageSignature Property (Word)
+title: EmailSignature.ReplyMessageSignature property (Word)
 keywords: vbawd10.chm165412968
 f1_keywords:
 - vbawd10.chm165412968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.ReplyMessageSignature Property (Word)
+# EmailSignature.ReplyMessageSignature property (Word)
 
 Returns or sets the signature that Microsoft Word appends to e-mail message replies. Read/write  **String** .
 

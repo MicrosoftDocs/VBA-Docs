@@ -1,5 +1,5 @@
 ---
-title: Cell.Height Property (Word)
+title: Cell.Height property (Word)
 keywords: vbawd10.chm156106759
 f1_keywords:
 - vbawd10.chm156106759
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Height Property (Word)
+# Cell.Height property (Word)
 
 Returns or sets the height of the specified table cell. .
 

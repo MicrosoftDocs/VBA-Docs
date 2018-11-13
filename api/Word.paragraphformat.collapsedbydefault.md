@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.CollapsedByDefault Property (Word)
+title: ParagraphFormat.CollapsedByDefault property (Word)
 keywords: vbawd10.chm156434568
 f1_keywords:
 - vbawd10.chm156434568
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.CollapsedByDefault Property (Word)
+# ParagraphFormat.CollapsedByDefault property (Word)
 
 Returns or sets whether the specified paragraph format is collapsed by default. Read-write  **Long**.
 

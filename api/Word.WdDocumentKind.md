@@ -1,5 +1,5 @@
 ---
-title: WdDocumentKind Enumeration (Word)
+title: WdDocumentKind enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocumentKind
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocumentKind Enumeration (Word)
+# WdDocumentKind enumeration (Word)
 
 Specifies the format type that Microsoft Word uses when automatically formatting a document.
 

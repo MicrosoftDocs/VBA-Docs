@@ -1,5 +1,5 @@
 ---
-title: WdTextOrientation Enumeration (Word)
+title: WdTextOrientation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTextOrientation Enumeration (Word)
+# WdTextOrientation enumeration (Word)
 
 Specifies the text direction in a range or selection.
 

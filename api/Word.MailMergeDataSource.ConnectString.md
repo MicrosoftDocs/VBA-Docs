@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ConnectString Property (Word)
+title: MailMergeDataSource.ConnectString property (Word)
 keywords: vbawd10.chm152895493
 f1_keywords:
 - vbawd10.chm152895493
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.ConnectString Property (Word)
+# MailMergeDataSource.ConnectString property (Word)
 
 Returns the connection string for the specified mail merge data source. Read-only  **String** .
 

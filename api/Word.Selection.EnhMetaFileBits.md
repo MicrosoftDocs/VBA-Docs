@@ -1,5 +1,5 @@
 ---
-title: Selection.EnhMetaFileBits Property (Word)
+title: Selection.EnhMetaFileBits property (Word)
 keywords: vbawd10.chm158662971
 f1_keywords:
 - vbawd10.chm158662971
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.EnhMetaFileBits Property (Word)
+# Selection.EnhMetaFileBits property (Word)
 
 Returns a  **Variant** that represents a picture representation of how a selection or range of text appears.
 

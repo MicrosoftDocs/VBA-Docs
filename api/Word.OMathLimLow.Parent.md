@@ -1,5 +1,5 @@
 ---
-title: OMathLimLow.Parent Property (Word)
+title: OMathLimLow.Parent property (Word)
 keywords: vbawd10.chm91619430
 f1_keywords:
 - vbawd10.chm91619430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimLow.Parent Property (Word)
+# OMathLimLow.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathLimLow** object.
 

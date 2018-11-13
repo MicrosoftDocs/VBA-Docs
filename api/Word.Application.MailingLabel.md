@@ -1,5 +1,5 @@
 ---
-title: Application.MailingLabel Property (Word)
+title: Application.MailingLabel property (Word)
 keywords: vbawd10.chm158334994
 f1_keywords:
 - vbawd10.chm158334994
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailingLabel Property (Word)
+# Application.MailingLabel property (Word)
 
 Returns a  **[MailingLabel](Word.MailingLabel.md)** object that represents a mailing label.
 

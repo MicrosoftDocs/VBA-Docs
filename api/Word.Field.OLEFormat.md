@@ -1,5 +1,5 @@
 ---
-title: Field.OLEFormat Property (Word)
+title: Field.OLEFormat property (Word)
 keywords: vbawd10.chm154075147
 f1_keywords:
 - vbawd10.chm154075147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.OLEFormat Property (Word)
+# Field.OLEFormat property (Word)
 
 Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified field. Read-only.
 

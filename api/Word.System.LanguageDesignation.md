@@ -1,5 +1,5 @@
 ---
-title: System.LanguageDesignation Property (Word)
+title: System.LanguageDesignation property (Word)
 keywords: vbawd10.chm154468358
 f1_keywords:
 - vbawd10.chm154468358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.LanguageDesignation Property (Word)
+# System.LanguageDesignation property (Word)
 
 Returns the designated language of the system software. Read-only  **String** .
 

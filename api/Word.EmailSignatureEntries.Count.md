@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntries.Count Property (Word)
+title: EmailSignatureEntries.Count property (Word)
 keywords: vbawd10.chm166002689
 f1_keywords:
 - vbawd10.chm166002689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntries.Count Property (Word)
+# EmailSignatureEntries.Count property (Word)
 
 Returns a  **Long** that represents the number of e-mail signature entries in the collection. Read-only.
 

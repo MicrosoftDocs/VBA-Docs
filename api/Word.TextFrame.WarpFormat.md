@@ -1,5 +1,5 @@
 ---
-title: TextFrame.WarpFormat Property (Word)
+title: TextFrame.WarpFormat property (Word)
 keywords: vbawd10.chm162665366
 f1_keywords:
 - vbawd10.chm162665366
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.WarpFormat Property (Word)
+# TextFrame.WarpFormat property (Word)
 
 Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write [MsoWarpFormat](./Office.MsoWarpFormat.md).
 

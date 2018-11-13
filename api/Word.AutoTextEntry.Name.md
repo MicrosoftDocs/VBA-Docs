@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Name Property (Word)
+title: AutoTextEntry.Name property (Word)
 keywords: vbawd10.chm154533890
 f1_keywords:
 - vbawd10.chm154533890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Name Property (Word)
+# AutoTextEntry.Name property (Word)
 
 Returns or sets the name of the specified object.Read/write  **String** .
 

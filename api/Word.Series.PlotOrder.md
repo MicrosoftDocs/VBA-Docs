@@ -1,5 +1,5 @@
 ---
-title: Series.PlotOrder Property (Word)
+title: Series.PlotOrder property (Word)
 keywords: vbawd10.chm123732196
 f1_keywords:
 - vbawd10.chm123732196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PlotOrder Property (Word)
+# Series.PlotOrder property (Word)
 
 Returns or sets the plot order for the selected series within the chart group. Read/write  **Long** .
 

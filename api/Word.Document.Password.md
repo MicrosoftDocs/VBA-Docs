@@ -1,5 +1,5 @@
 ---
-title: Document.Password Property (Word)
+title: Document.Password property (Word)
 keywords: vbawd10.chm158007381
 f1_keywords:
 - vbawd10.chm158007381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Password Property (Word)
+# Document.Password property (Word)
 
 Sets a password that must be supplied to open the specified document. Write-only  **String** .
 

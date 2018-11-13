@@ -1,5 +1,5 @@
 ---
-title: TickLabels.MultiLevel Property (Word)
+title: TickLabels.MultiLevel property (Word)
 keywords: vbawd10.chm167051286
 f1_keywords:
 - vbawd10.chm167051286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.MultiLevel Property (Word)
+# TickLabels.MultiLevel property (Word)
 
 Returns or sets a value that indicates whether an axis is multilevel. Read/write  **Boolean** .
 

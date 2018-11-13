@@ -1,5 +1,5 @@
 ---
-title: Shading.Parent Property (Word)
+title: Shading.Parent property (Word)
 keywords: vbawd10.chm154797034
 f1_keywords:
 - vbawd10.chm154797034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.Parent Property (Word)
+# Shading.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Shading** object.
 

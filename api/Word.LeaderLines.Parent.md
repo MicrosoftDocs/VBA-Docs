@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Parent Property (Word)
+title: LeaderLines.Parent property (Word)
 keywords: vbawd10.chm207749270
 f1_keywords:
 - vbawd10.chm207749270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Parent Property (Word)
+# LeaderLines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

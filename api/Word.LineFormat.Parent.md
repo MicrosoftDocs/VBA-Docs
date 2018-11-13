@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Parent Property (Word)
+title: LineFormat.Parent property (Word)
 keywords: vbawd10.chm164233217
 f1_keywords:
 - vbawd10.chm164233217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Parent Property (Word)
+# LineFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **LineFormat** object.
 

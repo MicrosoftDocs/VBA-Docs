@@ -1,5 +1,5 @@
 ---
-title: ListLevel.PictureBullet Property (Word)
+title: ListLevel.PictureBullet property (Word)
 keywords: vbawd10.chm160235534
 f1_keywords:
 - vbawd10.chm160235534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.PictureBullet Property (Word)
+# ListLevel.PictureBullet property (Word)
 
 Returns an  **[InlineShape](Word.InlineShape.md)** object that represents a picture bullet.
 

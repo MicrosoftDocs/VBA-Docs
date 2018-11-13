@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DownBars Property (Word)
+title: ChartGroup.DownBars property (Word)
 keywords: vbawd10.chm263454724
 f1_keywords:
 - vbawd10.chm263454724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.DownBars Property (Word)
+# ChartGroup.DownBars property (Word)
 
 Returns the down bars on a line chart. Read-only  **[DownBars](Word.DownBars.md)** .
 

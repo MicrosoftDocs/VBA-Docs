@@ -1,5 +1,5 @@
 ---
-title: FirstLetterException.Name Property (Word)
+title: FirstLetterException.Name property (Word)
 keywords: vbawd10.chm155516930
 f1_keywords:
 - vbawd10.chm155516930
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterException.Name Property (Word)
+# FirstLetterException.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Reflection Property (Word)
+title: InlineShape.Reflection property (Word)
 keywords: vbawd10.chm162005146
 f1_keywords:
 - vbawd10.chm162005146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Reflection Property (Word)
+# InlineShape.Reflection property (Word)
 
 Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a shape. Read-only.
 

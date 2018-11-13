@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetThreeDFormat Property (Word)
+title: ThreeDFormat.PresetThreeDFormat property (Word)
 keywords: vbawd10.chm164626540
 f1_keywords:
 - vbawd10.chm164626540
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetThreeDFormat Property (Word)
+# ThreeDFormat.PresetThreeDFormat property (Word)
 
 Returns the preset extrusion format. Read-only  **MsoPresetThreeDFormat** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Type Property (Word)
+title: OMathFunction.Type property (Word)
 keywords: vbawd10.chm22151168
 f1_keywords:
 - vbawd10.chm22151168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Type Property (Word)
+# OMathFunction.Type property (Word)
 
 Returns a  **[WdOMathFunctionType](Word.WdOMathFunctionType.md)** constant that represents the type of function. Read-only.
 

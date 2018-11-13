@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderCompany Property (Word)
+title: LetterContent.SenderCompany property (Word)
 keywords: vbawd10.chm161546362
 f1_keywords:
 - vbawd10.chm161546362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderCompany Property (Word)
+# LetterContent.SenderCompany property (Word)
 
 Returns or sets the company name of the person creating a letter with the Letter Wizard. Read/write  **String** .
 

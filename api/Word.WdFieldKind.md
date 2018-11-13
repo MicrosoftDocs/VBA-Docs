@@ -1,5 +1,5 @@
 ---
-title: WdFieldKind Enumeration (Word)
+title: WdFieldKind enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFieldKind
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFieldKind Enumeration (Word)
+# WdFieldKind enumeration (Word)
 
 Specifies the type of field for a  **Field** object.
 

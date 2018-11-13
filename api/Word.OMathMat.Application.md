@@ -1,5 +1,5 @@
 ---
-title: OMathMat.Application Property (Word)
+title: OMathMat.Application property (Word)
 keywords: vbawd10.chm176029796
 f1_keywords:
 - vbawd10.chm176029796
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.Application Property (Word)
+# OMathMat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

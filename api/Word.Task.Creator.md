@@ -1,5 +1,5 @@
 ---
-title: Task.Creator Property (Word)
+title: Task.Creator property (Word)
 keywords: vbawd10.chm159515625
 f1_keywords:
 - vbawd10.chm159515625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Creator Property (Word)
+# Task.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

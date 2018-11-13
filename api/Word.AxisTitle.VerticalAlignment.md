@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.VerticalAlignment Property (Word)
+title: AxisTitle.VerticalAlignment property (Word)
 keywords: vbawd10.chm98238480
 f1_keywords:
 - vbawd10.chm98238480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.VerticalAlignment Property (Word)
+# AxisTitle.VerticalAlignment property (Word)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant** .
 

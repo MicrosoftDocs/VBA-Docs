@@ -1,5 +1,5 @@
 ---
-title: Paragraph.AddSpaceBetweenFarEastAndDigit Property (Word)
+title: Paragraph.AddSpaceBetweenFarEastAndDigit property (Word)
 keywords: vbawd10.chm156696698
 f1_keywords:
 - vbawd10.chm156696698
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.AddSpaceBetweenFarEastAndDigit Property (Word)
+# Paragraph.AddSpaceBetweenFarEastAndDigit property (Word)
 
  **True** if Microsoft Word is set to automatically add spaces between Japanese text and numbers for the specified paragraphs. This property returns **wdUndefined** if it's set to **True** for only some of the specified paragraphs. Read/write **Long** .
 

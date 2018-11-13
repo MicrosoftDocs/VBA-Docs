@@ -1,5 +1,5 @@
 ---
-title: Revision.Index Property (Word)
+title: Revision.Index property (Word)
 keywords: vbawd10.chm159449093
 f1_keywords:
 - vbawd10.chm159449093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Index Property (Word)
+# Revision.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.Creator Property (Word)
+title: UndoRecord.Creator property (Word)
 keywords: vbawd10.chm56099817
 f1_keywords:
 - vbawd10.chm56099817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.Creator Property (Word)
+# UndoRecord.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

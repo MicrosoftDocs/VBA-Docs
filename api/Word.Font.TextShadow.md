@@ -1,5 +1,5 @@
 ---
-title: Font.TextShadow Property (Word)
+title: Font.TextShadow property (Word)
 keywords: vbawd10.chm156369065
 f1_keywords:
 - vbawd10.chm156369065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.TextShadow Property (Word)
+# Font.TextShadow property (Word)
 
 Returns a [ShadowFormat](Word.ShadowFormat.md) object that specifies the shadow formatting for the specified font.
 

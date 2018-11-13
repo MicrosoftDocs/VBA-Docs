@@ -1,5 +1,5 @@
 ---
-title: Axes.Parent Property (Word)
+title: Axes.Parent property (Word)
 keywords: vbawd10.chm93388950
 f1_keywords:
 - vbawd10.chm93388950
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Parent Property (Word)
+# Axes.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

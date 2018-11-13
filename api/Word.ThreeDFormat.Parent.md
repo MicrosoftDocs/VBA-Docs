@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Parent Property (Word)
+title: ThreeDFormat.Parent property (Word)
 keywords: vbawd10.chm164626433
 f1_keywords:
 - vbawd10.chm164626433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Parent Property (Word)
+# ThreeDFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ThreeDFormat** object.
 

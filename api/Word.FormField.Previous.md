@@ -1,5 +1,5 @@
 ---
-title: FormField.Previous Property (Word)
+title: FormField.Previous property (Word)
 keywords: vbawd10.chm153616399
 f1_keywords:
 - vbawd10.chm153616399
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Previous Property (Word)
+# FormField.Previous property (Word)
 
 Returns the previous form field in the collection. Read-only.
 

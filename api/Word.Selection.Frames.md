@@ -1,5 +1,5 @@
 ---
-title: Selection.Frames Property (Word)
+title: Selection.Frames property (Word)
 keywords: vbawd10.chm158662722
 f1_keywords:
 - vbawd10.chm158662722
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Frames Property (Word)
+# Selection.Frames property (Word)
 
 Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a selection. Read-only.
 

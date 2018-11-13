@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields.Application Property (Word)
+title: MappedDataFields.Application property (Word)
 keywords: vbawd10.chm135529448
 f1_keywords:
 - vbawd10.chm135529448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields.Application Property (Word)
+# MappedDataFields.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

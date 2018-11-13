@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Width Property (Word)
+title: ShapeRange.Width property (Word)
 keywords: vbawd10.chm162857088
 f1_keywords:
 - vbawd10.chm162857088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Width Property (Word)
+# ShapeRange.Width property (Word)
 
 Returns or sets the width, in points, of the shapes within the range. Read/write  **Long** .
 

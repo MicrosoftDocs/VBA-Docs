@@ -1,5 +1,5 @@
 ---
-title: Endnotes.ContinuationNotice Property (Word)
+title: Endnotes.ContinuationNotice property (Word)
 keywords: vbawd10.chm155254890
 f1_keywords:
 - vbawd10.chm155254890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.ContinuationNotice Property (Word)
+# Endnotes.ContinuationNotice property (Word)
 
 Returns a  **Range** object that represents the endnote continuation notice. Read-only.
 

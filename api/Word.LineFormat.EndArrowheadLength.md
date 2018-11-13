@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadLength Property (Word)
+title: LineFormat.EndArrowheadLength property (Word)
 keywords: vbawd10.chm164233321
 f1_keywords:
 - vbawd10.chm164233321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.EndArrowheadLength Property (Word)
+# LineFormat.EndArrowheadLength property (Word)
 
 Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **MsoArrowheadLength** .
 

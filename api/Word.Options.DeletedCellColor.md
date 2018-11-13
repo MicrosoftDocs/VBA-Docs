@@ -1,5 +1,5 @@
 ---
-title: Options.DeletedCellColor Property (Word)
+title: Options.DeletedCellColor property (Word)
 keywords: vbawd10.chm162988497
 f1_keywords:
 - vbawd10.chm162988497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DeletedCellColor Property (Word)
+# Options.DeletedCellColor property (Word)
 
 Returns or sets a  **WdCellColor** constant that represents the color for a deleted cell. Read/write.
 

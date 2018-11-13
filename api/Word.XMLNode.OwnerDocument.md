@@ -1,5 +1,5 @@
 ---
-title: XMLNode.OwnerDocument Property (Word)
+title: XMLNode.OwnerDocument property (Word)
 keywords: vbawd10.chm37748747
 f1_keywords:
 - vbawd10.chm37748747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.OwnerDocument Property (Word)
+# XMLNode.OwnerDocument property (Word)
 
 Returns a  **Document** object that represents the parent document of the specified XML element.
 

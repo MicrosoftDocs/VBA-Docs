@@ -1,5 +1,5 @@
 ---
-title: Range.TopLevelTables Property (Word)
+title: Range.TopLevelTables property (Word)
 keywords: vbawd10.chm157155652
 f1_keywords:
 - vbawd10.chm157155652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TopLevelTables Property (Word)
+# Range.TopLevelTables property (Word)
 
 Returns a  **Tables** collection that represents the tables at the outermost nesting level in the current range. Read-only.
 

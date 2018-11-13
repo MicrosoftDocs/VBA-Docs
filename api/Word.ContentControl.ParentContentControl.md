@@ -1,5 +1,5 @@
 ---
-title: ContentControl.ParentContentControl Property (Word)
+title: ContentControl.ParentContentControl property (Word)
 keywords: vbawd10.chm266534928
 f1_keywords:
 - vbawd10.chm266534928
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.ParentContentControl Property (Word)
+# ContentControl.ParentContentControl property (Word)
 
 Returns a  **ContentControl** that represents the parent content control for a content control that is nested inside a rich-text control or group control. Read-only.
 

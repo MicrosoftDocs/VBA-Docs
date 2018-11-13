@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveWritingStyle Property (Word)
+title: Document.ActiveWritingStyle property (Word)
 keywords: vbawd10.chm158007386
 f1_keywords:
 - vbawd10.chm158007386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ActiveWritingStyle Property (Word)
+# Document.ActiveWritingStyle property (Word)
 
 Returns or sets the writing style for a specified language in the specified document. Read/write  **String** .
 

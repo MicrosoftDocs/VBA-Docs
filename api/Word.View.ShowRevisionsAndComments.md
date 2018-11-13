@@ -1,5 +1,5 @@
 ---
-title: View.ShowRevisionsAndComments Property (Word)
+title: View.ShowRevisionsAndComments property (Word)
 keywords: vbawd10.chm161808418
 f1_keywords:
 - vbawd10.chm161808418
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowRevisionsAndComments Property (Word)
+# View.ShowRevisionsAndComments property (Word)
 
  **True** for Microsoft Word to display revisions and comments that were made to a document with Track Changes enabled. Read/write **Boolean** .
 

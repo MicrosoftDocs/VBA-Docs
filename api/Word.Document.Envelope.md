@@ -1,5 +1,5 @@
 ---
-title: Document.Envelope Property (Word)
+title: Document.Envelope property (Word)
 keywords: vbawd10.chm158007324
 f1_keywords:
 - vbawd10.chm158007324
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Envelope Property (Word)
+# Document.Envelope property (Word)
 
 Returns an  **[Envelope](Word.Envelope.md)** object that represents an envelope and envelope features in a document. Read-only.
 

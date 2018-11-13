@@ -1,5 +1,5 @@
 ---
-title: Options.MonthNames Property (Word)
+title: Options.MonthNames property (Word)
 keywords: vbawd10.chm162988434
 f1_keywords:
 - vbawd10.chm162988434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MonthNames Property (Word)
+# Options.MonthNames property (Word)
 
 Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMonthNames** .
 

@@ -1,5 +1,5 @@
 ---
-title: Line.Left Property (Word)
+title: Line.Left property (Word)
 keywords: vbawd10.chm49610755
 f1_keywords:
 - vbawd10.chm49610755
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Left Property (Word)
+# Line.Left property (Word)
 
 Returns a  **Long** that represents the number of pixels from the left edge of the page to the left edge of a line.
 

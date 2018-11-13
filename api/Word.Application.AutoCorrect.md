@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrect Property (Word)
+title: Application.AutoCorrect property (Word)
 keywords: vbawd10.chm158334986
 f1_keywords:
 - vbawd10.chm158334986
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoCorrect Property (Word)
+# Application.AutoCorrect property (Word)
 
 Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 

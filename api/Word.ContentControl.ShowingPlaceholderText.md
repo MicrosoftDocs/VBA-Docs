@@ -1,5 +1,5 @@
 ---
-title: ContentControl.ShowingPlaceholderText Property (Word)
+title: ContentControl.ShowingPlaceholderText property (Word)
 keywords: vbawd10.chm266534931
 f1_keywords:
 - vbawd10.chm266534931
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.ShowingPlaceholderText Property (Word)
+# ContentControl.ShowingPlaceholderText property (Word)
 
 Returns a  **Boolean** that indicates whether the placeholder text for the content control is displayed. Read-only.
 

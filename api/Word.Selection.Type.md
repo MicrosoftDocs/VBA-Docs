@@ -1,5 +1,5 @@
 ---
-title: Selection.Type Property (Word)
+title: Selection.Type property (Word)
 keywords: vbawd10.chm158662662
 f1_keywords:
 - vbawd10.chm158662662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Type Property (Word)
+# Selection.Type property (Word)
 
 Returns the selection type. Read-only  **[WdSelectionType](Word.WdSelectionType.md)** .
 

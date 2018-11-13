@@ -1,5 +1,5 @@
 ---
-title: Global.WordBasic Property (Word)
+title: Global.WordBasic property (Word)
 keywords: vbawd10.chm163119110
 f1_keywords:
 - vbawd10.chm163119110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.WordBasic Property (Word)
+# Global.WordBasic property (Word)
 
 Returns an Automation object (Word.Basic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
 

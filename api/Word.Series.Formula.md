@@ -1,5 +1,5 @@
 ---
-title: Series.Formula Property (Word)
+title: Series.Formula property (Word)
 keywords: vbawd10.chm123732229
 f1_keywords:
 - vbawd10.chm123732229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Formula Property (Word)
+# Series.Formula property (Word)
 
 Returns or sets the object's formula in A1-style notation and in the language of the macro. Read/write  **String** .
 

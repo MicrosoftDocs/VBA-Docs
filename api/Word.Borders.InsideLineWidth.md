@@ -1,5 +1,5 @@
 ---
-title: Borders.InsideLineWidth Property (Word)
+title: Borders.InsideLineWidth property (Word)
 keywords: vbawd10.chm154927112
 f1_keywords:
 - vbawd10.chm154927112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.InsideLineWidth Property (Word)
+# Borders.InsideLineWidth property (Word)
 
 Returns or sets the line width of the inside border of an object. .
 

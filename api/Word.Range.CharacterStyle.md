@@ -1,5 +1,5 @@
 ---
-title: Range.CharacterStyle Property (Word)
+title: Range.CharacterStyle property (Word)
 keywords: vbawd10.chm157155748
 f1_keywords:
 - vbawd10.chm157155748
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CharacterStyle Property (Word)
+# Range.CharacterStyle property (Word)
 
 Returns a  **Variant** that represents the style used to format one or more characters. Read-only.
 

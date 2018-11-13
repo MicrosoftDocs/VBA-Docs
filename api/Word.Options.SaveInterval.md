@@ -1,5 +1,5 @@
 ---
-title: Options.SaveInterval Property (Word)
+title: Options.SaveInterval property (Word)
 keywords: vbawd10.chm162988077
 f1_keywords:
 - vbawd10.chm162988077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SaveInterval Property (Word)
+# Options.SaveInterval property (Word)
 
 Returns or sets the time interval in minutes for saving AutoRecover information. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.TabLeader Property (Word)
+title: TableOfAuthorities.TabLeader property (Word)
 keywords: vbawd10.chm152109068
 f1_keywords:
 - vbawd10.chm152109068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.TabLeader Property (Word)
+# TableOfAuthorities.TabLeader property (Word)
 
 Returns or sets the leader character that appears between entries and their associated page numbers in a table of authorities. Read/write  **WdTabLeader** .
 

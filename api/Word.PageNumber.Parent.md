@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Parent Property (Word)
+title: PageNumber.Parent property (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Parent Property (Word)
+# PageNumber.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **PageNumber** object.
 

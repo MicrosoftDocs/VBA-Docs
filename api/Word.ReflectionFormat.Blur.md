@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Blur Property (Word)
+title: ReflectionFormat.Blur property (Word)
 keywords: vbawd10.chm67043333
 f1_keywords:
 - vbawd10.chm67043333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Blur Property (Word)
+# ReflectionFormat.Blur property (Word)
 
 Returns or sets a  **Single** that specifies the degree of blur effect applied to the specified object. Read/write.
 

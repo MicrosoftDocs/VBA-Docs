@@ -1,5 +1,5 @@
 ---
-title: Axis.CategoryType Property (Word)
+title: Axis.CategoryType property (Word)
 keywords: vbawd10.chm113049665
 f1_keywords:
 - vbawd10.chm113049665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.CategoryType Property (Word)
+# Axis.CategoryType property (Word)
 
 Returns or sets the category axis type. Read/write  **[XlCategoryType](Word.xlcategorytype.md)** .
 

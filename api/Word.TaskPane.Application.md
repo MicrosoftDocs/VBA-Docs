@@ -1,5 +1,5 @@
 ---
-title: TaskPane.Application Property (Word)
+title: TaskPane.Application property (Word)
 keywords: vbawd10.chm81921000
 f1_keywords:
 - vbawd10.chm81921000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPane.Application Property (Word)
+# TaskPane.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

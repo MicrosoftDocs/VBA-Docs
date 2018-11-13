@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeDefineStyles Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeDefineStyles property (Word)
 keywords: vbawd10.chm165347598
 f1_keywords:
 - vbawd10.chm165347598
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeDefineStyles Property (Word)
+# EmailOptions.AutoFormatAsYouTypeDefineStyles property (Word)
 
  **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean** .
 

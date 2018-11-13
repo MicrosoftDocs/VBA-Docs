@@ -1,5 +1,5 @@
 ---
-title: Style.Type Property (Word)
+title: Style.Type property (Word)
 keywords: vbawd10.chm153878531
 f1_keywords:
 - vbawd10.chm153878531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Type Property (Word)
+# Style.Type property (Word)
 
 Returns the style type. Read-only  **[WdStyleType](Word.WdStyleType.md)** .
 

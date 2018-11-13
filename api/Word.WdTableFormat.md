@@ -1,5 +1,5 @@
 ---
-title: WdTableFormat Enumeration (Word)
+title: WdTableFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTableFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTableFormat Enumeration (Word)
+# WdTableFormat enumeration (Word)
 
 Specifies the predefined format to apply to a table.
 

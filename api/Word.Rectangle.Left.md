@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Left Property (Word)
+title: Rectangle.Left property (Word)
 keywords: vbawd10.chm234029059
 f1_keywords:
 - vbawd10.chm234029059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Left Property (Word)
+# Rectangle.Left property (Word)
 
 Returns a  **Long** that represents the number of pixels from the left edge of the page to the left edge of a rectangle.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.MaxDist Property (Word)
+title: OMathEqArray.MaxDist property (Word)
 keywords: vbawd10.chm174129256
 f1_keywords:
 - vbawd10.chm174129256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.MaxDist Property (Word)
+# OMathEqArray.MaxDist property (Word)
 
 Returns or sets a  **Boolean** that represents that the equations in an equation array are distributed equally within the margins of its container, such as a column, cell, or page width. Read/write.
 

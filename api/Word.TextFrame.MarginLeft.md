@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginLeft Property (Word)
+title: TextFrame.MarginLeft property (Word)
 keywords: vbawd10.chm162660453
 f1_keywords:
 - vbawd10.chm162660453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.MarginLeft Property (Word)
+# TextFrame.MarginLeft property (Word)
 
 Returns or sets the distance (in points) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

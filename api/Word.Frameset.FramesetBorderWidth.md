@@ -1,5 +1,5 @@
 ---
-title: Frameset.FramesetBorderWidth Property (Word)
+title: Frameset.FramesetBorderWidth property (Word)
 keywords: vbawd10.chm165806100
 f1_keywords:
 - vbawd10.chm165806100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FramesetBorderWidth Property (Word)
+# Frameset.FramesetBorderWidth property (Word)
 
 Returns or sets the width (in points) of the borders surrounding the frames on the specified frames page. Read/write  **Single** .
 

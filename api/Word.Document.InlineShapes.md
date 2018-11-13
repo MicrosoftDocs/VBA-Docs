@@ -1,5 +1,5 @@
 ---
-title: Document.InlineShapes Property (Word)
+title: Document.InlineShapes property (Word)
 keywords: vbawd10.chm158007364
 f1_keywords:
 - vbawd10.chm158007364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.InlineShapes Property (Word)
+# Document.InlineShapes property (Word)
 
 Returns an  **[InlineShapes](Word.Document.InlineShapes.md)** collection that represents all the **[InlineShape](Word.InlineShape.md)** objects in a document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Name Property (Word)
+title: Hyperlink.Name property (Word)
 keywords: vbawd10.chm161285099
 f1_keywords:
 - vbawd10.chm161285099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Name Property (Word)
+# Hyperlink.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

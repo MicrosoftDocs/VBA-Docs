@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsMode Enumeration (Word)
+title: WdRevisionsMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsMode Enumeration (Word)
+# WdRevisionsMode enumeration (Word)
 
 Specifies whether Microsoft Word displays balloons in the margin or inline with the document's text.
 

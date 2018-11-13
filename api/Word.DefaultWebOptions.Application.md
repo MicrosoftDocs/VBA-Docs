@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Application Property (Word)
+title: DefaultWebOptions.Application property (Word)
 keywords: vbawd10.chm165872616
 f1_keywords:
 - vbawd10.chm165872616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Application Property (Word)
+# DefaultWebOptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

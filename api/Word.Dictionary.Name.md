@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Name Property (Word)
+title: Dictionary.Name property (Word)
 keywords: vbawd10.chm162332672
 f1_keywords:
 - vbawd10.chm162332672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.Name Property (Word)
+# Dictionary.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

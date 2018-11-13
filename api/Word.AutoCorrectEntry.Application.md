@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Application Property (Word)
+title: AutoCorrectEntry.Application property (Word)
 keywords: vbawd10.chm155649000
 f1_keywords:
 - vbawd10.chm155649000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.Application Property (Word)
+# AutoCorrectEntry.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

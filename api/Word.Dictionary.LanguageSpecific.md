@@ -1,5 +1,5 @@
 ---
-title: Dictionary.LanguageSpecific Property (Word)
+title: Dictionary.LanguageSpecific property (Word)
 keywords: vbawd10.chm162332677
 f1_keywords:
 - vbawd10.chm162332677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.LanguageSpecific Property (Word)
+# Dictionary.LanguageSpecific property (Word)
 
  **True** if the custom dictionary is to be used only with text formatted for a specific language. Read/write **Boolean** .
 

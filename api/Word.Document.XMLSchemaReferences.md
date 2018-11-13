@@ -1,5 +1,5 @@
 ---
-title: Document.XMLSchemaReferences Property (Word)
+title: Document.XMLSchemaReferences property (Word)
 keywords: vbawd10.chm158007757
 f1_keywords:
 - vbawd10.chm158007757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.XMLSchemaReferences Property (Word)
+# Document.XMLSchemaReferences property (Word)
 
 Returns an XMLSchemaReferences collection that represents the schemas attached to a document.
 

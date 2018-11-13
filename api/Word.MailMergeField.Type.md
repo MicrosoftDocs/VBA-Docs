@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Type Property (Word)
+title: MailMergeField.Type property (Word)
 keywords: vbawd10.chm152961024
 f1_keywords:
 - vbawd10.chm152961024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Type Property (Word)
+# MailMergeField.Type property (Word)
 
 Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)** .
 

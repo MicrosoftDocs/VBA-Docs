@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 keywords: vbawd10.chm165347596
 f1_keywords:
 - vbawd10.chm165347596
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 
  **True** if manual emphasis characters are automatically replaced with character formatting as you type; for example, "*bold*" is changed to " **bold** ". Read/write **Boolean** .
 

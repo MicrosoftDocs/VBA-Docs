@@ -1,5 +1,5 @@
 ---
-title: Field.LinkFormat Property (Word)
+title: Field.LinkFormat property (Word)
 keywords: vbawd10.chm154075146
 f1_keywords:
 - vbawd10.chm154075146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.LinkFormat Property (Word)
+# Field.LinkFormat property (Word)
 
 Returns a  **LinkFormat** object that represents the link options of the specified field. Read/only.
 

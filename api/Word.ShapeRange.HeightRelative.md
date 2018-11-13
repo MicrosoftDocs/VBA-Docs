@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HeightRelative Property (Word)
+title: ShapeRange.HeightRelative property (Word)
 keywords: vbawd10.chm162857163
 f1_keywords:
 - vbawd10.chm162857163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.HeightRelative Property (Word)
+# ShapeRange.HeightRelative property (Word)
 
 Returns or sets a  **Single** that represents the percentage of the target shape to which the range of shapes is sized. Read/write.
 

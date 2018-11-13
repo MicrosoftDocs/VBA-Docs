@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsException.Application Property (Word)
+title: TwoInitialCapsException.Application property (Word)
 keywords: vbawd10.chm155386856
 f1_keywords:
 - vbawd10.chm155386856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsException.Application Property (Word)
+# TwoInitialCapsException.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

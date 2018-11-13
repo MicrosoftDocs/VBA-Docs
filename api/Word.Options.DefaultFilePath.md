@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultFilePath Property (Word)
+title: Options.DefaultFilePath property (Word)
 keywords: vbawd10.chm162988097
 f1_keywords:
 - vbawd10.chm162988097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultFilePath Property (Word)
+# Options.DefaultFilePath property (Word)
 
 Returns or sets default folders for items such as documents, templates, and graphics. Read/write  **String** .
 

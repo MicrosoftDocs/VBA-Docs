@@ -1,5 +1,5 @@
 ---
-title: Selection.TopLevelTables Property (Word)
+title: Selection.TopLevelTables property (Word)
 keywords: vbawd10.chm158663662
 f1_keywords:
 - vbawd10.chm158663662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.TopLevelTables Property (Word)
+# Selection.TopLevelTables property (Word)
 
 Returns a  **[Tables](Word.tables.md)** collection that represents the tables at the outermost nesting level in the current selection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisGroup Property (Word)
+title: Axis.AxisGroup property (Word)
 keywords: vbawd10.chm113049602
 f1_keywords:
 - vbawd10.chm113049602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisGroup Property (Word)
+# Axis.AxisGroup property (Word)
 
 Returns the type of axis group. Read-only  **[XlAxisGroup](Word.xlaxisgroup.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.PresetShape Property (Word)
+title: TextEffectFormat.PresetShape property (Word)
 keywords: vbawd10.chm164561003
 f1_keywords:
 - vbawd10.chm164561003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.PresetShape Property (Word)
+# TextEffectFormat.PresetShape property (Word)
 
 Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape** .
 

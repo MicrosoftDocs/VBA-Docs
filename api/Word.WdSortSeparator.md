@@ -1,5 +1,5 @@
 ---
-title: WdSortSeparator Enumeration (Word)
+title: WdSortSeparator enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSortSeparator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSortSeparator Enumeration (Word)
+# WdSortSeparator enumeration (Word)
 
 Specifies the type of field separator.
 

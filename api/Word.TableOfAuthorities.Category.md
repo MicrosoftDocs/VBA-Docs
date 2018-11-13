@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Category Property (Word)
+title: TableOfAuthorities.Category property (Word)
 keywords: vbawd10.chm152109059
 f1_keywords:
 - vbawd10.chm152109059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Category Property (Word)
+# TableOfAuthorities.Category property (Word)
 
 Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long** .
 

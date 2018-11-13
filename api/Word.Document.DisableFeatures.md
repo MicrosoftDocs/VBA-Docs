@@ -1,5 +1,5 @@
 ---
-title: Document.DisableFeatures Property (Word)
+title: Document.DisableFeatures property (Word)
 keywords: vbawd10.chm158007633
 f1_keywords:
 - vbawd10.chm158007633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DisableFeatures Property (Word)
+# Document.DisableFeatures property (Word)
 
  **True** disables all features introduced after the version specified in the **[DisableFeaturesIntroducedAfter](Word.Document.DisableFeaturesIntroducedAfter.md)** property. The default value is **False** . Read/write **Boolean** .
 

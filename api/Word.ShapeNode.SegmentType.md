@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (Word)
+title: ShapeNode.SegmentType property (Word)
 keywords: vbawd10.chm164429926
 f1_keywords:
 - vbawd10.chm164429926
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.SegmentType Property (Word)
+# ShapeNode.SegmentType property (Word)
 
 Returns a value that indicates whether the segment associated with the specified node is straight or curved. Read-only  **MsoSegmentType** .
 

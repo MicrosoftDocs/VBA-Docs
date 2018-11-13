@@ -1,5 +1,5 @@
 ---
-title: WdRevisionType Enumeration (Word)
+title: WdRevisionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionType Enumeration (Word)
+# WdRevisionType enumeration (Word)
 
 Specifies the type of a change that is marked with a revision mark.
 

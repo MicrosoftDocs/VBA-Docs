@@ -1,5 +1,5 @@
 ---
-title: Document.OpenEncoding Property (Word)
+title: Document.OpenEncoding property (Word)
 keywords: vbawd10.chm158007628
 f1_keywords:
 - vbawd10.chm158007628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OpenEncoding Property (Word)
+# Document.OpenEncoding property (Word)
 
 Returns the encoding used to open the specified document. Read-only  **MsoEncoding** .
 

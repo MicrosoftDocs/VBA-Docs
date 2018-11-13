@@ -1,5 +1,5 @@
 ---
-title: WdMailSystem Enumeration (Word)
+title: WdMailSystem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailSystem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailSystem Enumeration (Word)
+# WdMailSystem enumeration (Word)
 
 Specifies the type of mail system.
 

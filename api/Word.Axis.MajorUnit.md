@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnit Property (Word)
+title: Axis.MajorUnit property (Word)
 keywords: vbawd10.chm113049620
 f1_keywords:
 - vbawd10.chm113049620
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorUnit Property (Word)
+# Axis.MajorUnit property (Word)
 
 Returns or sets the major units for the value axis. Read/write  **Double** .
 

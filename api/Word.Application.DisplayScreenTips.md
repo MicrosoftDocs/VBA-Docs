@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScreenTips Property (Word)
+title: Application.DisplayScreenTips property (Word)
 keywords: vbawd10.chm158335075
 f1_keywords:
 - vbawd10.chm158335075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayScreenTips Property (Word)
+# Application.DisplayScreenTips property (Word)
 
  **True** if comments, footnotes, endnotes, and hyperlinks are displayed as tips. Text marked as having comments is highlighted. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: View.ShowMarkupAreaHighlight Property (Word)
+title: View.ShowMarkupAreaHighlight property (Word)
 keywords: vbawd10.chm161808436
 f1_keywords:
 - vbawd10.chm161808436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowMarkupAreaHighlight Property (Word)
+# View.ShowMarkupAreaHighlight property (Word)
 
 Returns or sets a  **Boolean** that represents whether the markup area that shows revision and comment balloons is shaded. Read/write.
 

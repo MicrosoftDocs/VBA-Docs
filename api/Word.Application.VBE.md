@@ -1,5 +1,5 @@
 ---
-title: Application.VBE Property (Word)
+title: Application.VBE property (Word)
 keywords: vbawd10.chm158335037
 f1_keywords:
 - vbawd10.chm158335037
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.VBE Property (Word)
+# Application.VBE property (Word)
 
 Returns a VBE object that represents the Visual Basic Editor.
 

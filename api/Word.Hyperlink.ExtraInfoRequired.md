@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.ExtraInfoRequired Property (Word)
+title: Hyperlink.ExtraInfoRequired property (Word)
 keywords: vbawd10.chm161285105
 f1_keywords:
 - vbawd10.chm161285105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.ExtraInfoRequired Property (Word)
+# Hyperlink.ExtraInfoRequired property (Word)
 
  **True** if extra information is required to resolve the specified hyperlink. Read-only **Boolean** .
 

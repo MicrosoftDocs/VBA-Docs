@@ -1,5 +1,5 @@
 ---
-title: LetterContent.LetterheadSize Property (Word)
+title: LetterContent.LetterheadSize property (Word)
 keywords: vbawd10.chm161546347
 f1_keywords:
 - vbawd10.chm161546347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.LetterheadSize Property (Word)
+# LetterContent.LetterheadSize property (Word)
 
 Returns or sets the amount of space (in points) to be reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write  **Single** .
 

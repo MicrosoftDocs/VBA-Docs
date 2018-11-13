@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.EndChar Property (Word)
+title: OMathDelim.EndChar property (Word)
 keywords: vbawd10.chm145096810
 f1_keywords:
 - vbawd10.chm145096810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.EndChar Property (Word)
+# OMathDelim.EndChar property (Word)
 
 Returns or sets an  **Integer** that represents the ending delimiter character in a delimiter object. Read/write.
 

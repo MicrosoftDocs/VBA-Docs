@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToSides Property (Word)
+title: Point.ApplyPictToSides property (Word)
 keywords: vbawd10.chm262145659
 f1_keywords:
 - vbawd10.chm262145659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyPictToSides Property (Word)
+# Point.ApplyPictToSides property (Word)
 
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean** .
 

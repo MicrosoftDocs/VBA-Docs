@@ -1,5 +1,5 @@
 ---
-title: ContentControl.LockContents Property (Word)
+title: ContentControl.LockContents property (Word)
 keywords: vbawd10.chm266534915
 f1_keywords:
 - vbawd10.chm266534915
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.LockContents Property (Word)
+# ContentControl.LockContents property (Word)
 
 Returns or sets a  **Boolean** that represents whether the user can edit the contents of a content control. Read/write.
 

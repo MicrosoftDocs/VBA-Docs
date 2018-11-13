@@ -1,5 +1,5 @@
 ---
-title: WdCountry Enumeration (Word)
+title: WdCountry enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCountry
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCountry Enumeration (Word)
+# WdCountry enumeration (Word)
 
 Specifies the country/region setting of the current system.
 

@@ -1,5 +1,5 @@
 ---
-title: WdExportOptimizeFor Enumeration (Word)
+title: WdExportOptimizeFor enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportOptimizeFor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdExportOptimizeFor Enumeration (Word)
+# WdExportOptimizeFor enumeration (Word)
 
 Specifies the resolution and quality of the exported document.
 

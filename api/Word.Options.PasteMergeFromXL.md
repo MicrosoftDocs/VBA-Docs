@@ -1,5 +1,5 @@
 ---
-title: Options.PasteMergeFromXL Property (Word)
+title: Options.PasteMergeFromXL property (Word)
 keywords: vbawd10.chm162988466
 f1_keywords:
 - vbawd10.chm162988466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteMergeFromXL Property (Word)
+# Options.PasteMergeFromXL property (Word)
 
  **True** to merge table formatting when pasting from Microsoft Excel. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Transparency Property (Word)
+title: ReflectionFormat.Transparency property (Word)
 keywords: vbawd10.chm67043330
 f1_keywords:
 - vbawd10.chm67043330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Transparency Property (Word)
+# ReflectionFormat.Transparency property (Word)
 
 Returns or sets the degree of transparency for the reflection effect as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single** .
 

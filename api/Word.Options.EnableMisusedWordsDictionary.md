@@ -1,5 +1,5 @@
 ---
-title: Options.EnableMisusedWordsDictionary Property (Word)
+title: Options.EnableMisusedWordsDictionary property (Word)
 keywords: vbawd10.chm162988370
 f1_keywords:
 - vbawd10.chm162988370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableMisusedWordsDictionary Property (Word)
+# Options.EnableMisusedWordsDictionary property (Word)
 
  **True** if Microsoft Word checks for misused words when checking the spelling and grammar in a document. Read/write **Boolean** .
 

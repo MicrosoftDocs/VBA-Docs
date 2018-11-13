@@ -1,5 +1,5 @@
 ---
-title: Options.StoreRSIDOnSave Property (Word)
+title: Options.StoreRSIDOnSave property (Word)
 keywords: vbawd10.chm162988479
 f1_keywords:
 - vbawd10.chm162988479
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.StoreRSIDOnSave Property (Word)
+# Options.StoreRSIDOnSave property (Word)
 
  **True** for Microsoft Word to assign a random number to changes in a document, each time a document is saved, to facilitate comparing and merging documents. Read/write **Boolean** .
 

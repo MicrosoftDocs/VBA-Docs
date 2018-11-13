@@ -1,5 +1,5 @@
 ---
-title: WdGutterStyle Enumeration (Word)
+title: WdGutterStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGutterStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdGutterStyle Enumeration (Word)
+# WdGutterStyle enumeration (Word)
 
 Specifies where the gutter appears in the document.
 

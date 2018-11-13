@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Range Property (Word)
+title: ContentControl.Range property (Word)
 keywords: vbawd10.chm266534913
 f1_keywords:
 - vbawd10.chm266534913
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Range Property (Word)
+# ContentControl.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** that represents the contents of the content control in the active document. Read-only.
 

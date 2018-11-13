@@ -1,5 +1,5 @@
 ---
-title: Frameset.Parent Property (Word)
+title: Frameset.Parent property (Word)
 keywords: vbawd10.chm165807082
 f1_keywords:
 - vbawd10.chm165807082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.Parent Property (Word)
+# Frameset.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Frameset** object.
 

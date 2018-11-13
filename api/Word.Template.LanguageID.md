@@ -1,5 +1,5 @@
 ---
-title: Template.LanguageID Property (Word)
+title: Template.LanguageID property (Word)
 keywords: vbawd10.chm157941764
 f1_keywords:
 - vbawd10.chm157941764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.LanguageID Property (Word)
+# Template.LanguageID property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified range. Read/write.
 

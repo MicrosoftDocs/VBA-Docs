@@ -1,5 +1,5 @@
 ---
-title: Range.DisableCharacterSpaceGrid Property (Word)
+title: Range.DisableCharacterSpaceGrid property (Word)
 keywords: vbawd10.chm157155469
 f1_keywords:
 - vbawd10.chm157155469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DisableCharacterSpaceGrid Property (Word)
+# Range.DisableCharacterSpaceGrid property (Word)
 
  **True** if Microsoft Word ignores the number of characters per line for the corresponding **Range** object. Read/write **Boolean** .
 

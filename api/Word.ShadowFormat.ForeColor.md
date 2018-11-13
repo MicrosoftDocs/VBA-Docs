@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.ForeColor Property (Word)
+title: ShadowFormat.ForeColor property (Word)
 keywords: vbawd10.chm164364388
 f1_keywords:
 - vbawd10.chm164364388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.ForeColor Property (Word)
+# ShadowFormat.ForeColor property (Word)
 
 Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the foreground color for the fill, line, or shadow. Read/write.
 

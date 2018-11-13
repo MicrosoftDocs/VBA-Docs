@@ -1,5 +1,5 @@
 ---
-title: Shape.Reflection Property (Word)
+title: Shape.Reflection property (Word)
 keywords: vbawd10.chm161480858
 f1_keywords:
 - vbawd10.chm161480858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Reflection Property (Word)
+# Shape.Reflection property (Word)
 
 Returns a  **[ReflectionFormat](Word.ReflectionFormat.md)** object that represents the reflection formatting for a shape. Read-only.
 

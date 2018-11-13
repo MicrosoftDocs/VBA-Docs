@@ -1,5 +1,5 @@
 ---
-title: Windows.SyncScrollingSideBySide Property (Word)
+title: Windows.SyncScrollingSideBySide property (Word)
 keywords: vbawd10.chm157352939
 f1_keywords:
 - vbawd10.chm157352939
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.SyncScrollingSideBySide Property (Word)
+# Windows.SyncScrollingSideBySide property (Word)
 
  **True** enables scrolling the contents of the windows at the same time. Read/write **Boolean** .
 

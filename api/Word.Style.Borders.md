@@ -1,5 +1,5 @@
 ---
-title: Style.Borders Property (Word)
+title: Style.Borders property (Word)
 keywords: vbawd10.chm153878536
 f1_keywords:
 - vbawd10.chm153878536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Borders Property (Word)
+# Style.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified style.
 

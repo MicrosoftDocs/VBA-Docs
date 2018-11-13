@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Count Property (Word)
+title: Conflicts.Count property (Word)
 keywords: vbawd10.chm174391301
 f1_keywords:
 - vbawd10.chm174391301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.Count Property (Word)
+# Conflicts.Count property (Word)
 
 Returns the number of items in the  **Conflicts** collection. Read-only.
 

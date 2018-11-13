@@ -1,5 +1,5 @@
 ---
-title: Paragraph.TabStops Property (Word)
+title: Paragraph.TabStops property (Word)
 keywords: vbawd10.chm156697679
 f1_keywords:
 - vbawd10.chm156697679
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.TabStops Property (Word)
+# Paragraph.TabStops property (Word)
 
 Returns or sets a  **TabStops** collection that represents all the custom tab stops for the specified paragraph. Read/write.
 

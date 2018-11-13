@@ -1,5 +1,5 @@
 ---
-title: WdOLEPlacement Enumeration (Word)
+title: WdOLEPlacement enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOLEPlacement
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOLEPlacement Enumeration (Word)
+# WdOLEPlacement enumeration (Word)
 
 Specifies the placement for an OLE object.
 

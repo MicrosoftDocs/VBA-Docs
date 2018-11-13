@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Count Property (Word)
+title: KeysBoundTo.Count property (Word)
 keywords: vbawd10.chm160890882
 f1_keywords:
 - vbawd10.chm160890882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Count Property (Word)
+# KeysBoundTo.Count property (Word)
 
 Returns a  **Long** that represents the number of keys in the collection. Read-only.
 

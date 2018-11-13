@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LockAnchor Property (Word)
+title: ShapeRange.LockAnchor property (Word)
 keywords: vbawd10.chm162857262
 f1_keywords:
 - vbawd10.chm162857262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.LockAnchor Property (Word)
+# ShapeRange.LockAnchor property (Word)
 
  **True** if the anchor for the specified **ShapeRange** object is locked to the anchoring range. Read/write **Long** .
 

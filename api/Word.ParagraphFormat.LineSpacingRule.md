@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacingRule Property (Word)
+title: ParagraphFormat.LineSpacingRule property (Word)
 keywords: vbawd10.chm156434542
 f1_keywords:
 - vbawd10.chm156434542
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.LineSpacingRule Property (Word)
+# ParagraphFormat.LineSpacingRule property (Word)
 
 Returns or sets the line spacing for the specified paragraph formatting. Read/write  **[WdLineSpacing](Word.WdLineSpacing.md)** .
 

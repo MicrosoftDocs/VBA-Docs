@@ -1,5 +1,5 @@
 ---
-title: Series.Creator Property (Word)
+title: Series.Creator property (Word)
 keywords: vbawd10.chm123732117
 f1_keywords:
 - vbawd10.chm123732117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Creator Property (Word)
+# Series.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

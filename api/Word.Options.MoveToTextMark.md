@@ -1,5 +1,5 @@
 ---
-title: Options.MoveToTextMark Property (Word)
+title: Options.MoveToTextMark property (Word)
 keywords: vbawd10.chm162988492
 f1_keywords:
 - vbawd10.chm162988492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MoveToTextMark Property (Word)
+# Options.MoveToTextMark property (Word)
 
  Returns or sets a **[WdMoveToTextMark](Word.WdMoveToTextMark.md)** constant that represents the type of revision mark to use for moved text. Read/write.
 

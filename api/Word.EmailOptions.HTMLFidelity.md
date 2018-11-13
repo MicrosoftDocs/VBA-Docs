@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.HTMLFidelity Property (Word)
+title: EmailOptions.HTMLFidelity property (Word)
 keywords: vbawd10.chm165347635
 f1_keywords:
 - vbawd10.chm165347635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.HTMLFidelity Property (Word)
+# EmailOptions.HTMLFidelity property (Word)
 
 Strips HTML tags used for opening HTML files in Word but not required for display. Read/write  **WdEmailHTMLFidelity** .
 

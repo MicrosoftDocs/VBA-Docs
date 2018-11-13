@@ -1,5 +1,5 @@
 ---
-title: TextInput.Parent Property (Word)
+title: TextInput.Parent property (Word)
 keywords: vbawd10.chm153551850
 f1_keywords:
 - vbawd10.chm153551850
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Parent Property (Word)
+# TextInput.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TextInput** object.
 

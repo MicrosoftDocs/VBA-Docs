@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Top Property (Word)
+title: ChartTitle.Top property (Word)
 keywords: vbawd10.chm65273870
 f1_keywords:
 - vbawd10.chm65273870
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Top Property (Word)
+# ChartTitle.Top property (Word)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double** .
 

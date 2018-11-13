@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.Parent Property (Word)
+title: OMathEqArray.Parent property (Word)
 keywords: vbawd10.chm174129254
 f1_keywords:
 - vbawd10.chm174129254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.Parent Property (Word)
+# OMathEqArray.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathEqArray** object.
 

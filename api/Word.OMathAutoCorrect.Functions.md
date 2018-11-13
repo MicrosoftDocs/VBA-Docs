@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.Functions Property (Word)
+title: OMathAutoCorrect.Functions property (Word)
 keywords: vbawd10.chm258474090
 f1_keywords:
 - vbawd10.chm258474090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.Functions Property (Word)
+# OMathAutoCorrect.Functions property (Word)
 
 Returns an  **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** collection that represents the recognized functions that are automatically corrected using the equation autocorrect feature. Read-only.
 

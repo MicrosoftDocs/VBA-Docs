@@ -1,5 +1,5 @@
 ---
-title: Global.Name Property (Word)
+title: Global.Name property (Word)
 keywords: vbawd10.chm163119104
 f1_keywords:
 - vbawd10.chm163119104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Name Property (Word)
+# Global.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

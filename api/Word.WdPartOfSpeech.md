@@ -1,5 +1,5 @@
 ---
-title: WdPartOfSpeech Enumeration (Word)
+title: WdPartOfSpeech enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPartOfSpeech
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPartOfSpeech Enumeration (Word)
+# WdPartOfSpeech enumeration (Word)
 
 Specifies the part of speech that a word represents when returned by the Word thesaurus service.
 

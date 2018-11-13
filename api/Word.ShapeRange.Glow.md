@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Glow Property (Word)
+title: ShapeRange.Glow property (Word)
 keywords: vbawd10.chm162857113
 f1_keywords:
 - vbawd10.chm162857113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Glow Property (Word)
+# ShapeRange.Glow property (Word)
 
 Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for a range of shapes. Read-only.
 

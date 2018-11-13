@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Application Property (Word)
+title: FirstLetterExceptions.Application property (Word)
 keywords: vbawd10.chm155583464
 f1_keywords:
 - vbawd10.chm155583464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions.Application Property (Word)
+# FirstLetterExceptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

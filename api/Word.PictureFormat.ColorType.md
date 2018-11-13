@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorType Property (Word)
+title: PictureFormat.ColorType property (Word)
 keywords: vbawd10.chm164298853
 f1_keywords:
 - vbawd10.chm164298853
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.ColorType Property (Word)
+# PictureFormat.ColorType property (Word)
 
 Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **MsoPictureColorType** .
 

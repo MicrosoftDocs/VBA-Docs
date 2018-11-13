@@ -1,5 +1,5 @@
 ---
-title: Range.Updates Property (Word)
+title: Range.Updates property (Word)
 keywords: vbawd10.chm157155833
 f1_keywords:
 - vbawd10.chm157155833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Updates Property (Word)
+# Range.Updates property (Word)
 
 Returns a [CoAuthUpdates](./overview/Word.md) collection object that represents all updates that were merged into the specified range at the last explicit save. Read-only.
 

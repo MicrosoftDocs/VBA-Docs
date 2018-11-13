@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.HorizontalFlip Property (Word)
+title: ShapeRange.HorizontalFlip property (Word)
 keywords: vbawd10.chm162857070
 f1_keywords:
 - vbawd10.chm162857070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.HorizontalFlip Property (Word)
+# ShapeRange.HorizontalFlip property (Word)
 
 Indicates that a range of shapes has been flipped horizontally. Read-only  **MsoTriState** .
 

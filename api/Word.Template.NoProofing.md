@@ -1,5 +1,5 @@
 ---
-title: Template.NoProofing Property (Word)
+title: Template.NoProofing property (Word)
 keywords: vbawd10.chm157941777
 f1_keywords:
 - vbawd10.chm157941777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.NoProofing Property (Word)
+# Template.NoProofing property (Word)
 
  **True** if the spelling and grammar checker ignores documents based on this template. Read/write **Long** .
 

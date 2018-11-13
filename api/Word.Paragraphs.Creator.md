@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Creator Property (Word)
+title: Paragraphs.Creator property (Word)
 keywords: vbawd10.chm156763113
 f1_keywords:
 - vbawd10.chm156763113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Creator Property (Word)
+# Paragraphs.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.EndnoteOptions Property (Word)
+title: Selection.EndnoteOptions property (Word)
 keywords: vbawd10.chm158663681
 f1_keywords:
 - vbawd10.chm158663681
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.EndnoteOptions Property (Word)
+# Selection.EndnoteOptions property (Word)
 
 Returns an  **[EndnoteOptions](Word.EndnoteOptions.md)** object that represents the endnotes in a selection.
 

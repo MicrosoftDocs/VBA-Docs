@@ -1,5 +1,5 @@
 ---
-title: AddIn.Name Property (Word)
+title: AddIn.Name property (Word)
 keywords: vbawd10.chm159252480
 f1_keywords:
 - vbawd10.chm159252480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Name Property (Word)
+# AddIn.Name property (Word)
 
 Returns the name of an add-in. Read-only  **String** .
 

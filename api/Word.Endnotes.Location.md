@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Location Property (Word)
+title: Endnotes.Location property (Word)
 keywords: vbawd10.chm155254884
 f1_keywords:
 - vbawd10.chm155254884
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Location Property (Word)
+# Endnotes.Location property (Word)
 
 Returns or sets the position of all endnotes. Read/write  **[WdEndnoteLocation](Word.WdEndnoteLocation.md)** . .
 

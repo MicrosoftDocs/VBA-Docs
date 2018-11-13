@@ -1,5 +1,5 @@
 ---
-title: WdCompareTarget Enumeration (Word)
+title: WdCompareTarget enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompareTarget
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCompareTarget Enumeration (Word)
+# WdCompareTarget enumeration (Word)
 
 Specifies the target document for displaying document comparison differences.
 

@@ -1,5 +1,5 @@
 ---
-title: System.CountryRegion Property (Word)
+title: System.CountryRegion property (Word)
 keywords: vbawd10.chm154468455
 f1_keywords:
 - vbawd10.chm154468455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.CountryRegion Property (Word)
+# System.CountryRegion property (Word)
 
 Returns the country/region designation of the system. Read-only  **WdCountry** .
 

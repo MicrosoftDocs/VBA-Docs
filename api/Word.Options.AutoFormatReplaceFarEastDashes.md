@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceFarEastDashes Property (Word)
+title: Options.AutoFormatReplaceFarEastDashes property (Word)
 keywords: vbawd10.chm162988327
 f1_keywords:
 - vbawd10.chm162988327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatReplaceFarEastDashes Property (Word)
+# Options.AutoFormatReplaceFarEastDashes property (Word)
 
  **True** if long vowel sound and dash use is corrected when Microsoft Word formats a document or range automatically. Read/write **Boolean** .
 

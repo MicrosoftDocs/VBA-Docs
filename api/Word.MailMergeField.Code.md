@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Code Property (Word)
+title: MailMergeField.Code property (Word)
 keywords: vbawd10.chm152961029
 f1_keywords:
 - vbawd10.chm152961029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Code Property (Word)
+# MailMergeField.Code property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a field's code. Read/write.
 

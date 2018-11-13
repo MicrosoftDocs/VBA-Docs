@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultLegalBlackline Property (Word)
+title: Application.DefaultLegalBlackline property (Word)
 keywords: vbawd10.chm158335435
 f1_keywords:
 - vbawd10.chm158335435
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultLegalBlackline Property (Word)
+# Application.DefaultLegalBlackline property (Word)
 
  **True** for Microsoft Word to compare and merge documents using the **Legal blackline** option in the **Compare and Merge Documents** dialog box. Read/write **Boolean** .
 

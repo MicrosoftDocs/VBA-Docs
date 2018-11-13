@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMinorGridlines Property (Word)
+title: Axis.HasMinorGridlines property (Word)
 keywords: vbawd10.chm113049613
 f1_keywords:
 - vbawd10.chm113049613
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.HasMinorGridlines Property (Word)
+# Axis.HasMinorGridlines property (Word)
 
  **True** if the axis has minor gridlines. Read/write **Boolean** .
 

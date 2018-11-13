@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.NewMessageSignature Property (Word)
+title: EmailSignature.NewMessageSignature property (Word)
 keywords: vbawd10.chm165412967
 f1_keywords:
 - vbawd10.chm165412967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.NewMessageSignature Property (Word)
+# EmailSignature.NewMessageSignature property (Word)
 
 Returns or sets the signature that Microsoft Word appends to new e-mail messages. Read/write  **String** .
 

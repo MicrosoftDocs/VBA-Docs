@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Hyphenation Property (Word)
+title: Paragraph.Hyphenation property (Word)
 keywords: vbawd10.chm156696689
 f1_keywords:
 - vbawd10.chm156696689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Hyphenation Property (Word)
+# Paragraph.Hyphenation property (Word)
 
  **True** if the specified paragraphs are included in automatic hyphenation. **False** if the specified paragraphs are to be excluded from automatic hyphenation. Read/write **Long** .
 

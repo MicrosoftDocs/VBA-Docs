@@ -1,5 +1,5 @@
 ---
-title: Global.Options Property (Word)
+title: Global.Options property (Word)
 keywords: vbawd10.chm163119197
 f1_keywords:
 - vbawd10.chm163119197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Options Property (Word)
+# Global.Options property (Word)
 
 Returns an  **Options** object that represents application settings in Microsoft Word.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Selection Property (Word)
+title: Window.Selection property (Word)
 keywords: vbawd10.chm157417476
 f1_keywords:
 - vbawd10.chm157417476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Selection Property (Word)
+# Window.Selection property (Word)
 
 Returns the  **Selection** object that represents a selected range or the insertion point. Read-only.
 

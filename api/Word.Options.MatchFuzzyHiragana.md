@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyHiragana Property (Word)
+title: Options.MatchFuzzyHiragana property (Word)
 keywords: vbawd10.chm162988343
 f1_keywords:
 - vbawd10.chm162988343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyHiragana Property (Word)
+# Options.MatchFuzzyHiragana property (Word)
 
  **True** if Microsoft Word ignores the distinction between hiragana and katakana during a search. Read/write **Boolean** .
 

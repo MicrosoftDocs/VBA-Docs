@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Parent Property (Word)
+title: ShadowFormat.Parent property (Word)
 keywords: vbawd10.chm164364289
 f1_keywords:
 - vbawd10.chm164364289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Parent Property (Word)
+# ShadowFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ShadowFormat** object.
 

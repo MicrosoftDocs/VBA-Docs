@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Count Property (Word)
+title: DataLabels.Count property (Word)
 keywords: vbawd10.chm207487094
 f1_keywords:
 - vbawd10.chm207487094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Count Property (Word)
+# DataLabels.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

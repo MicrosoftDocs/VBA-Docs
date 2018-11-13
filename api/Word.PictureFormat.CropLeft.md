@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropLeft Property (Word)
+title: PictureFormat.CropLeft property (Word)
 keywords: vbawd10.chm164298856
 f1_keywords:
 - vbawd10.chm164298856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropLeft Property (Word)
+# PictureFormat.CropLeft property (Word)
 
 Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single** .
 

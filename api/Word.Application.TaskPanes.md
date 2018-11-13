@@ -1,5 +1,5 @@
 ---
-title: Application.TaskPanes Property (Word)
+title: Application.TaskPanes property (Word)
 keywords: vbawd10.chm158335433
 f1_keywords:
 - vbawd10.chm158335433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TaskPanes Property (Word)
+# Application.TaskPanes property (Word)
 
 Returns a  **[TaskPanes](Word.TaskPanes.md)** collection that represents the most commonly performed tasks in Microsoft Word.
 

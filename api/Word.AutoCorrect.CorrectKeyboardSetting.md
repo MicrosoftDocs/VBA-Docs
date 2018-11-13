@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectKeyboardSetting Property (Word)
+title: AutoCorrect.CorrectKeyboardSetting property (Word)
 keywords: vbawd10.chm155779090
 f1_keywords:
 - vbawd10.chm155779090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectKeyboardSetting Property (Word)
+# AutoCorrect.CorrectKeyboardSetting property (Word)
 
  **True** if Microsoft Word automatically transposes words to their native alphabet if you type text in a language other than the current keyboard language. Read/write **Boolean** .
 

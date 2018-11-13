@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.Application Property (Word)
+title: OMathAutoCorrect.Application property (Word)
 keywords: vbawd10.chm258474084
 f1_keywords:
 - vbawd10.chm258474084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.Application Property (Word)
+# OMathAutoCorrect.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

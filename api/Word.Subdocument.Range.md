@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Range Property (Word)
+title: Subdocument.Range property (Word)
 keywords: vbawd10.chm159973378
 f1_keywords:
 - vbawd10.chm159973378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Range Property (Word)
+# Subdocument.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that's contained within the subdocument.
 

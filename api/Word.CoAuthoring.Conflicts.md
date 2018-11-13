@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Conflicts Property (Word)
+title: CoAuthoring.Conflicts property (Word)
 keywords: vbawd10.chm254869511
 f1_keywords:
 - vbawd10.chm254869511
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Conflicts Property (Word)
+# CoAuthoring.Conflicts property (Word)
 
 Returns a  **[Conflicts](Word.Conflicts.md)** collection that represents all the conflicts in a document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Template.BuildingBlockEntries Property (Word)
+title: Template.BuildingBlockEntries property (Word)
 keywords: vbawd10.chm157941779
 f1_keywords:
 - vbawd10.chm157941779
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.BuildingBlockEntries Property (Word)
+# Template.BuildingBlockEntries property (Word)
 
 Returns a  **[BuildingBlockEntries](Word.BuildingBlockEntries.md)** collection that represents the collection of building block entries in a template. Read-only.
 

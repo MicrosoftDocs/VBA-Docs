@@ -1,5 +1,5 @@
 ---
-title: Series.HasErrorBars Property (Word)
+title: Series.HasErrorBars property (Word)
 keywords: vbawd10.chm123732128
 f1_keywords:
 - vbawd10.chm123732128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.HasErrorBars Property (Word)
+# Series.HasErrorBars property (Word)
 
  **True** if the series has error bars. Read/write **Boolean** .
 

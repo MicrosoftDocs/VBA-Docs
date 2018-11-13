@@ -1,5 +1,5 @@
 ---
-title: Series.IsFiltered Property (Word)
+title: Series.IsFiltered property (Word)
 keywords: vbawd10.chm123734855
 f1_keywords:
 - vbawd10.chm123734855
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.IsFiltered Property (Word)
+# Series.IsFiltered property (Word)
 
 Returns or sets a  **Boolean** that determines whether the specified chart series is filtered out from the chart. Read-write.
 

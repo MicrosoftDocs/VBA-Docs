@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Range Property (Word)
+title: InlineShape.Range property (Word)
 keywords: vbawd10.chm162004994
 f1_keywords:
 - vbawd10.chm162004994
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Range Property (Word)
+# InlineShape.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within an inline shape.
 

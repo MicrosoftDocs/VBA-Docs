@@ -1,5 +1,5 @@
 ---
-title: ListLevel.StartAt Property (Word)
+title: ListLevel.StartAt property (Word)
 keywords: vbawd10.chm160235530
 f1_keywords:
 - vbawd10.chm160235530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.StartAt Property (Word)
+# ListLevel.StartAt property (Word)
 
 Returns or sets the starting number for the specified  **ListLevel** object. Read/write **Long** .
 

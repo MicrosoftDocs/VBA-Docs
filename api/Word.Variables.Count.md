@@ -1,5 +1,5 @@
 ---
-title: Variables.Count Property (Word)
+title: Variables.Count property (Word)
 keywords: vbawd10.chm157614082
 f1_keywords:
 - vbawd10.chm157614082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Count Property (Word)
+# Variables.Count property (Word)
 
 Returns a  **Long** that represents the number of variables in the collection.
 

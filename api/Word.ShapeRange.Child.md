@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Child Property (Word)
+title: ShapeRange.Child property (Word)
 keywords: vbawd10.chm162857096
 f1_keywords:
 - vbawd10.chm162857096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Child Property (Word)
+# ShapeRange.Child property (Word)
 
  **True** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **MsoTriState** .
 

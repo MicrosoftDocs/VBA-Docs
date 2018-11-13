@@ -1,5 +1,5 @@
 ---
-title: ChartFont.StrikeThrough Property (Word)
+title: ChartFont.StrikeThrough property (Word)
 keywords: vbawd10.chm255918100
 f1_keywords:
 - vbawd10.chm255918100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.StrikeThrough Property (Word)
+# ChartFont.StrikeThrough property (Word)
 
  **True** if the font is struck through with a horizontal line. Read/write **Boolean** .
 

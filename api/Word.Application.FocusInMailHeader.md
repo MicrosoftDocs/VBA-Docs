@@ -1,5 +1,5 @@
 ---
-title: Application.FocusInMailHeader Property (Word)
+title: Application.FocusInMailHeader property (Word)
 keywords: vbawd10.chm158335362
 f1_keywords:
 - vbawd10.chm158335362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FocusInMailHeader Property (Word)
+# Application.FocusInMailHeader property (Word)
 
  **True** if the insertion point is in an e-mail header field (the To: field, for example). Read-only **Boolean** .
 

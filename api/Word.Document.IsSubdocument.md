@@ -1,5 +1,5 @@
 ---
-title: Document.IsSubdocument Property (Word)
+title: Document.IsSubdocument property (Word)
 keywords: vbawd10.chm158007354
 f1_keywords:
 - vbawd10.chm158007354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.IsSubdocument Property (Word)
+# Document.IsSubdocument property (Word)
 
  **True** if the specified document is a subdocument of a master document. Read-only **Boolean** .
 

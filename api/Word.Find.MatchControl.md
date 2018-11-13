@@ -1,5 +1,5 @@
 ---
-title: Find.MatchControl Property (Word)
+title: Find.MatchControl property (Word)
 keywords: vbawd10.chm162529383
 f1_keywords:
 - vbawd10.chm162529383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchControl Property (Word)
+# Find.MatchControl property (Word)
 
  **True** if find operations match text with matching bidirectional control characters in a right-to-left language document. Read/write **Boolean** .
 

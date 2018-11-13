@@ -1,5 +1,5 @@
 ---
-title: Styles.Parent Property (Word)
+title: Styles.Parent property (Word)
 keywords: vbawd10.chm153945066
 f1_keywords:
 - vbawd10.chm153945066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Parent Property (Word)
+# Styles.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Styles** object.
 

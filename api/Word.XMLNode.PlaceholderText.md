@@ -1,5 +1,5 @@
 ---
-title: XMLNode.PlaceholderText Property (Word)
+title: XMLNode.PlaceholderText property (Word)
 keywords: vbawd10.chm37748761
 f1_keywords:
 - vbawd10.chm37748761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.PlaceholderText Property (Word)
+# XMLNode.PlaceholderText property (Word)
 
 Sets or returns a  **String** that represents the text displayed for an element that contains no text.
 

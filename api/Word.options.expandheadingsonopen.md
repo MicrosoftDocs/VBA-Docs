@@ -1,5 +1,5 @@
 ---
-title: Options.ExpandHeadingsOnOpen Property (Word)
+title: Options.ExpandHeadingsOnOpen property (Word)
 keywords: vbawd10.chm162988546
 f1_keywords:
 - vbawd10.chm162988546
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ExpandHeadingsOnOpen Property (Word)
+# Options.ExpandHeadingsOnOpen property (Word)
 
  **True** to expand all headings in the document when the document opens. Read/write **Boolean**.
 

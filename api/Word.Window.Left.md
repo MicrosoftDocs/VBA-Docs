@@ -1,5 +1,5 @@
 ---
-title: Window.Left Property (Word)
+title: Window.Left property (Word)
 keywords: vbawd10.chm157417477
 f1_keywords:
 - vbawd10.chm157417477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Left Property (Word)
+# Window.Left property (Word)
 
 Returns or sets a  **Long** that represents the horizontal position of the specified window, measured in points. Read/write.
 

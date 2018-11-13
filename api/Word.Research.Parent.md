@@ -1,5 +1,5 @@
 ---
-title: Research.Parent Property (Word)
+title: Research.Parent property (Word)
 ms.prod: word
 api_name:
 - Word.Research.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.Parent Property (Word)
+# Research.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Research** object.
 

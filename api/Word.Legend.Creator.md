@@ -1,5 +1,5 @@
 ---
-title: Legend.Creator Property (Word)
+title: Legend.Creator property (Word)
 keywords: vbawd10.chm147194005
 f1_keywords:
 - vbawd10.chm147194005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Creator Property (Word)
+# Legend.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

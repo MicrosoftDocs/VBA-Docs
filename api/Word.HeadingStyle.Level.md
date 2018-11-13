@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle.Level Property (Word)
+title: HeadingStyle.Level property (Word)
 keywords: vbawd10.chm160104450
 f1_keywords:
 - vbawd10.chm160104450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyle.Level Property (Word)
+# HeadingStyle.Level property (Word)
 
 Returns or sets the level for the heading style in a table of contents or table of figures. Read/write  **Integer** .
 

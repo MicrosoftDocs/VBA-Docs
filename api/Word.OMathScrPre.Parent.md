@@ -1,5 +1,5 @@
 ---
-title: OMathScrPre.Parent Property (Word)
+title: OMathScrPre.Parent property (Word)
 keywords: vbawd10.chm202244198
 f1_keywords:
 - vbawd10.chm202244198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrPre.Parent Property (Word)
+# OMathScrPre.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathScrPre** object.
 

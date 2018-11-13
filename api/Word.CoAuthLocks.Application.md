@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks.Application Property (Word)
+title: CoAuthLocks.Application property (Word)
 keywords: vbawd10.chm180487144
 f1_keywords:
 - vbawd10.chm180487144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLocks.Application Property (Word)
+# CoAuthLocks.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

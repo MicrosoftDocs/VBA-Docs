@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.TabLeader Property (Word)
+title: TableOfFigures.TabLeader property (Word)
 keywords: vbawd10.chm153157644
 f1_keywords:
 - vbawd10.chm153157644
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.TabLeader Property (Word)
+# TableOfFigures.TabLeader property (Word)
 
 Returns or sets the character between entries and their page numbers in an table of figures. Read/write  **[WdTabLeader](Word.WdTabLeader.md)** .
 

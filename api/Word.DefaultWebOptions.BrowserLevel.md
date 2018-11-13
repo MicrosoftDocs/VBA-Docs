@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.BrowserLevel Property (Word)
+title: DefaultWebOptions.BrowserLevel property (Word)
 keywords: vbawd10.chm165871618
 f1_keywords:
 - vbawd10.chm165871618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.BrowserLevel Property (Word)
+# DefaultWebOptions.BrowserLevel property (Word)
 
 Returns or sets a  **WdBrowserLevel** constant that represents the level of the Web browser for which you want to target new Web pages created in Microsoft Word. Read/write.
 

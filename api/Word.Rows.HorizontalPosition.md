@@ -1,5 +1,5 @@
 ---
-title: Rows.HorizontalPosition Property (Word)
+title: Rows.HorizontalPosition property (Word)
 keywords: vbawd10.chm155975695
 f1_keywords:
 - vbawd10.chm155975695
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.HorizontalPosition Property (Word)
+# Rows.HorizontalPosition property (Word)
 
 Returns or sets the horizontal distance between the edge of the rows and the item specified by the  **RelativeHorizontalPosition** property. Read/write **Single** .
 

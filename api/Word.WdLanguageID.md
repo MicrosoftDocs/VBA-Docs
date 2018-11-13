@@ -1,5 +1,5 @@
 ---
-title: WdLanguageID Enumeration (Word)
+title: WdLanguageID enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLanguageID
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLanguageID Enumeration (Word)
+# WdLanguageID enumeration (Word)
 
 Specifies the language to use.
 

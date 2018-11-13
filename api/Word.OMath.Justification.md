@@ -1,5 +1,5 @@
 ---
-title: OMath.Justification Property (Word)
+title: OMath.Justification property (Word)
 keywords: vbawd10.chm176357491
 f1_keywords:
 - vbawd10.chm176357491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Justification Property (Word)
+# OMath.Justification property (Word)
 
 Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justification for an equation. Read/write.
 

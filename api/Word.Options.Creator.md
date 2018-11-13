@@ -1,5 +1,5 @@
 ---
-title: Options.Creator Property (Word)
+title: Options.Creator property (Word)
 keywords: vbawd10.chm162989033
 f1_keywords:
 - vbawd10.chm162989033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.Creator Property (Word)
+# Options.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

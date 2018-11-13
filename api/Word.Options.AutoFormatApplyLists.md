@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyLists Property (Word)
+title: Options.AutoFormatApplyLists property (Word)
 keywords: vbawd10.chm162988283
 f1_keywords:
 - vbawd10.chm162988283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatApplyLists Property (Word)
+# Options.AutoFormatApplyLists property (Word)
 
  **True** if styles are automatically applied to lists when Word formats a document or range automatically. Read/write **Boolean** .
 

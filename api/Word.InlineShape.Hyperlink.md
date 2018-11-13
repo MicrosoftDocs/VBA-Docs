@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Hyperlink Property (Word)
+title: InlineShape.Hyperlink property (Word)
 keywords: vbawd10.chm162004999
 f1_keywords:
 - vbawd10.chm162004999
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Hyperlink Property (Word)
+# InlineShape.Hyperlink property (Word)
 
 Returns a  **Hyperlink** object that represents the hyperlink associated with the specified inline shape. Read-only.
 

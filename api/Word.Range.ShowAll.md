@@ -1,5 +1,5 @@
 ---
-title: Range.ShowAll Property (Word)
+title: Range.ShowAll property (Word)
 keywords: vbawd10.chm157155736
 f1_keywords:
 - vbawd10.chm157155736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ShowAll Property (Word)
+# Range.ShowAll property (Word)
 
  **True** if all nonprinting characters (such as hidden text, tab marks, space marks, and paragraph marks) are displayed. Read/write **Boolean** .
 

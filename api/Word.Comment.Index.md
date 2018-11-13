@@ -1,5 +1,5 @@
 ---
-title: Comment.Index Property (Word)
+title: Comment.Index property (Word)
 keywords: vbawd10.chm154993646
 f1_keywords:
 - vbawd10.chm154993646
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Index Property (Word)
+# Comment.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

@@ -1,12 +1,12 @@
 ---
-title: xlHAlign Enumeration (Word)
+title: xlHAlign enumeration (Word)
 ms.prod: word
 ms.assetid: 7f53b35d-5d32-ecaf-62fa-fe6bc867f304
 ms.date: 06/08/2017
 ---
 
 
-# xlHAlign Enumeration (Word)
+# xlHAlign enumeration (Word)
 
 Specifies the horizontal alignment for the object.
 

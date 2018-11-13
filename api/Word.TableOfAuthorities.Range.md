@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Range Property (Word)
+title: TableOfAuthorities.Range property (Word)
 keywords: vbawd10.chm152109067
 f1_keywords:
 - vbawd10.chm152109067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Range Property (Word)
+# TableOfAuthorities.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within a table of authorities.
 

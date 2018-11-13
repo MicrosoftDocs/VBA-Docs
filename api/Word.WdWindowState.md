@@ -1,5 +1,5 @@
 ---
-title: WdWindowState Enumeration (Word)
+title: WdWindowState enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWindowState
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWindowState Enumeration (Word)
+# WdWindowState enumeration (Word)
 
 Specifies the state of the current document window or task window.
 

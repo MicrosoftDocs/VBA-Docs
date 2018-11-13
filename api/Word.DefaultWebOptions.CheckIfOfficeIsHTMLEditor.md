@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Word)
+title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Word)
 keywords: vbawd10.chm165871623
 f1_keywords:
 - vbawd10.chm165871623
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Word)
+# DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Word)
 
  **True** if Microsoft Word checks to see whether an Office application is the default HTML editor when you start Word. Read/write **Boolean** .
 

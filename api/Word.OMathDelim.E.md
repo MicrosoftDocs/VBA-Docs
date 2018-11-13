@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.E Property (Word)
+title: OMathDelim.E property (Word)
 keywords: vbawd10.chm145096807
 f1_keywords:
 - vbawd10.chm145096807
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.E Property (Word)
+# OMathDelim.E property (Word)
 
 Returns an  **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
 

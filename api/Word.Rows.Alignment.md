@@ -1,5 +1,5 @@
 ---
-title: Rows.Alignment Property (Word)
+title: Rows.Alignment property (Word)
 keywords: vbawd10.chm155975684
 f1_keywords:
 - vbawd10.chm155975684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Alignment Property (Word)
+# Rows.Alignment property (Word)
 
 Returns or sets a  **WdRowAlignment** constant that represents the alignment for the specified rows. Read/write.
 

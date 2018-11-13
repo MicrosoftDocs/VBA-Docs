@@ -1,5 +1,5 @@
 ---
-title: Index.Application Property (Word)
+title: Index.Application property (Word)
 keywords: vbawd10.chm159187944
 f1_keywords:
 - vbawd10.chm159187944
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Application Property (Word)
+# Index.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

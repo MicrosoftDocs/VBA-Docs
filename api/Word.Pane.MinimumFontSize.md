@@ -1,5 +1,5 @@
 ---
-title: Pane.MinimumFontSize Property (Word)
+title: Pane.MinimumFontSize property (Word)
 keywords: vbawd10.chm157286415
 f1_keywords:
 - vbawd10.chm157286415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.MinimumFontSize Property (Word)
+# Pane.MinimumFontSize property (Word)
 
 Returns or sets the minimum font size (in points) displayed for the specified pane. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.Width Property (Word)
+title: Axis.Width property (Word)
 keywords: vbawd10.chm113049669
 f1_keywords:
 - vbawd10.chm113049669
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Width Property (Word)
+# Axis.Width property (Word)
 
 Returns the width, in points, of the object. Read-only  **Double** .
 

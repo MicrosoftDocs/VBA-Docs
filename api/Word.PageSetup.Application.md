@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Application Property (Word)
+title: PageSetup.Application property (Word)
 keywords: vbawd10.chm158401512
 f1_keywords:
 - vbawd10.chm158401512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Application Property (Word)
+# PageSetup.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

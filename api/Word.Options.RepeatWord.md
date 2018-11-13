@@ -1,5 +1,5 @@
 ---
-title: Options.RepeatWord Property (Word)
+title: Options.RepeatWord property (Word)
 keywords: vbawd10.chm162988515
 f1_keywords:
 - vbawd10.chm162988515
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RepeatWord Property (Word)
+# Options.RepeatWord property (Word)
 
 Returns or sets a  **Boolean** that represents whether to mark words that are repeated when spelling is checked. **True** flags repeated words. Read/write.
 

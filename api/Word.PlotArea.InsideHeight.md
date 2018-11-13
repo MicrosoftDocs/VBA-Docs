@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideHeight Property (Word)
+title: PlotArea.InsideHeight property (Word)
 keywords: vbawd10.chm53479046
 f1_keywords:
 - vbawd10.chm53479046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideHeight Property (Word)
+# PlotArea.InsideHeight property (Word)
 
 Returns or sets the inside height, in points, of the plot area. Read/write  **Double** .
 

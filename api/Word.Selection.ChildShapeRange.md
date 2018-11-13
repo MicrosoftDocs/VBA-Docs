@@ -1,5 +1,5 @@
 ---
-title: Selection.ChildShapeRange Property (Word)
+title: Selection.ChildShapeRange property (Word)
 keywords: vbawd10.chm158663677
 f1_keywords:
 - vbawd10.chm158663677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ChildShapeRange Property (Word)
+# Selection.ChildShapeRange property (Word)
 
 Returns a  **[ShapeRange](Word.shaperange.md)** collection representing the child shapes contained within a selection.
 

@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry.Name Property (Word)
+title: EmailSignatureEntry.Name property (Word)
 keywords: vbawd10.chm166068226
 f1_keywords:
 - vbawd10.chm166068226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry.Name Property (Word)
+# EmailSignatureEntry.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

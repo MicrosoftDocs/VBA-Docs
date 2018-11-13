@@ -1,5 +1,5 @@
 ---
-title: Selection.End Property (Word)
+title: Selection.End property (Word)
 keywords: vbawd10.chm158662660
 f1_keywords:
 - vbawd10.chm158662660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.End Property (Word)
+# Selection.End property (Word)
 
 Returns or sets the ending character position of a selection. Read/write  **Long** .
 

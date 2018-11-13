@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientCode Property (Word)
+title: LetterContent.RecipientCode property (Word)
 keywords: vbawd10.chm161546366
 f1_keywords:
 - vbawd10.chm161546366
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.RecipientCode Property (Word)
+# LetterContent.RecipientCode property (Word)
 
 Returns or sets the recipient code. Read/write  **String** .
 

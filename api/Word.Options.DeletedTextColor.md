@@ -1,5 +1,5 @@
 ---
-title: Options.DeletedTextColor Property (Word)
+title: Options.DeletedTextColor property (Word)
 keywords: vbawd10.chm162988093
 f1_keywords:
 - vbawd10.chm162988093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DeletedTextColor Property (Word)
+# Options.DeletedTextColor property (Word)
 
 Returns or sets the color of text that is deleted while change tracking is enabled. Read/write  **WdColorIndex** .
 

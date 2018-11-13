@@ -1,5 +1,5 @@
 ---
-title: Replacement.Style Property (Word)
+title: Replacement.Style property (Word)
 keywords: vbawd10.chm162594828
 f1_keywords:
 - vbawd10.chm162594828
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Style Property (Word)
+# Replacement.Style property (Word)
 
 Returns or sets the style for the specified object. To set this property, specify the local name of the style, an integer, a  **[WdBuiltinStyle](Word.WdBuiltinStyle.md)** constant, or an object that represents the style. Read/write **Variant** .
 

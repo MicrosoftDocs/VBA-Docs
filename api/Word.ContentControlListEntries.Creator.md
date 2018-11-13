@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Creator Property (Word)
+title: ContentControlListEntries.Creator property (Word)
 keywords: vbawd10.chm230948965
 f1_keywords:
 - vbawd10.chm230948965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Creator Property (Word)
+# ContentControlListEntries.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

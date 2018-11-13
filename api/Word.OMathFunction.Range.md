@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Range Property (Word)
+title: OMathFunction.Range property (Word)
 keywords: vbawd10.chm22151271
 f1_keywords:
 - vbawd10.chm22151271
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Range Property (Word)
+# OMathFunction.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
 

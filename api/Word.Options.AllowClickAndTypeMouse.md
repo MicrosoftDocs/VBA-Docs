@@ -1,5 +1,5 @@
 ---
-title: Options.AllowClickAndTypeMouse Property (Word)
+title: Options.AllowClickAndTypeMouse property (Word)
 keywords: vbawd10.chm162988445
 f1_keywords:
 - vbawd10.chm162988445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowClickAndTypeMouse Property (Word)
+# Options.AllowClickAndTypeMouse property (Word)
 
  **True** if Click and Type functionality is enabled. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Language.NameLocal Property (Word)
+title: Language.NameLocal property (Word)
 keywords: vbawd10.chm158138368
 f1_keywords:
 - vbawd10.chm158138368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.NameLocal Property (Word)
+# Language.NameLocal property (Word)
 
 Returns the name of a proofing tool language in the language of the user. Read-only  **String** .
 

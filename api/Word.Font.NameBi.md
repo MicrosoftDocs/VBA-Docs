@@ -1,5 +1,5 @@
 ---
-title: Font.NameBi Property (Word)
+title: Font.NameBi property (Word)
 keywords: vbawd10.chm156369059
 f1_keywords:
 - vbawd10.chm156369059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.NameBi Property (Word)
+# Font.NameBi property (Word)
 
 Returns or sets the name of the font in a right-to-left language document. Read/write  **String** .
 

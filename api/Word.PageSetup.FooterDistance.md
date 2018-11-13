@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FooterDistance Property (Word)
+title: PageSetup.FooterDistance property (Word)
 keywords: vbawd10.chm158400625
 f1_keywords:
 - vbawd10.chm158400625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.FooterDistance Property (Word)
+# PageSetup.FooterDistance property (Word)
 
 Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single** .
 

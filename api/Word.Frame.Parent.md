@@ -1,5 +1,5 @@
 ---
-title: Frame.Parent Property (Word)
+title: Frame.Parent property (Word)
 keywords: vbawd10.chm153748458
 f1_keywords:
 - vbawd10.chm153748458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Parent Property (Word)
+# Frame.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Frame** object.
 

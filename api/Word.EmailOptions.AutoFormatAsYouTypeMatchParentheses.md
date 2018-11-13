@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeMatchParentheses Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeMatchParentheses property (Word)
 keywords: vbawd10.chm165347628
 f1_keywords:
 - vbawd10.chm165347628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeMatchParentheses Property (Word)
+# EmailOptions.AutoFormatAsYouTypeMatchParentheses property (Word)
 
  **True** for Microsoft Word to automatically correct improperly paired parentheses. Read/write.
 

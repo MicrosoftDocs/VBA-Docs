@@ -1,5 +1,5 @@
 ---
-title: Document.Content Property (Word)
+title: Document.Content property (Word)
 keywords: vbawd10.chm158007337
 f1_keywords:
 - vbawd10.chm158007337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Content Property (Word)
+# Document.Content property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the main document story. Read-only.
 

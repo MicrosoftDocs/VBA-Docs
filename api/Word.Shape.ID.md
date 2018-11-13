@@ -1,5 +1,5 @@
 ---
-title: Shape.ID Property (Word)
+title: Shape.ID property (Word)
 keywords: vbawd10.chm161480843
 f1_keywords:
 - vbawd10.chm161480843
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ID Property (Word)
+# Shape.ID property (Word)
 
 Returns the identification type for the specified shape. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Format Property (Word)
+title: Point.Format property (Word)
 keywords: vbawd10.chm262144046
 f1_keywords:
 - vbawd10.chm262144046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Format Property (Word)
+# Point.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdDefaultTableBehavior Enumeration (Word)
+title: WdDefaultTableBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDefaultTableBehavior
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDefaultTableBehavior Enumeration (Word)
+# WdDefaultTableBehavior enumeration (Word)
 
 Specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit).
 

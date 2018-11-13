@@ -1,5 +1,5 @@
 ---
-title: Options.PortugalReform Property (Word)
+title: Options.PortugalReform property (Word)
 keywords: vbawd10.chm162988533
 f1_keywords:
 - vbawd10.chm162988533
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PortugalReform Property (Word)
+# Options.PortugalReform property (Word)
 
 Returns or sets the mode for the European Portuguese speller. Read/write [WdPortugueseReform](Word.WdPortugueseReform.md).
 

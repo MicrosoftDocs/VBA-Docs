@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Title Property (Word)
+title: ShapeRange.Title property (Word)
 keywords: vbawd10.chm162857166
 f1_keywords:
 - vbawd10.chm162857166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Title Property (Word)
+# ShapeRange.Title property (Word)
 
 Returns or sets a  **String** that contains a title for the shapes in the specified shape range. Read/write.
 

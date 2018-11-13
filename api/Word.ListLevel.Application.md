@@ -1,5 +1,5 @@
 ---
-title: ListLevel.Application Property (Word)
+title: ListLevel.Application property (Word)
 keywords: vbawd10.chm160236520
 f1_keywords:
 - vbawd10.chm160236520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.Application Property (Word)
+# ListLevel.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Left Property (Word)
+title: DisplayUnitLabel.Left property (Word)
 keywords: vbawd10.chm94568454
 f1_keywords:
 - vbawd10.chm94568454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Left Property (Word)
+# DisplayUnitLabel.Left property (Word)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double** .
 

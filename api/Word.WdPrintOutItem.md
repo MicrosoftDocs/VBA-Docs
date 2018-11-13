@@ -1,5 +1,5 @@
 ---
-title: WdPrintOutItem Enumeration (Word)
+title: WdPrintOutItem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPrintOutItem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPrintOutItem Enumeration (Word)
+# WdPrintOutItem enumeration (Word)
 
 Specifies the item to print.
 

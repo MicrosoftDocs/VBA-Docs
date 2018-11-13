@@ -1,5 +1,5 @@
 ---
-title: Font.Hidden Property (Word)
+title: Font.Hidden property (Word)
 keywords: vbawd10.chm156369028
 f1_keywords:
 - vbawd10.chm156369028
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Hidden Property (Word)
+# Font.Hidden property (Word)
 
  **True** if the font is formatted as hidden text. Read/write **Long** .
 

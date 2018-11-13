@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentInspectors Property (Word)
+title: Document.DocumentInspectors property (Word)
 keywords: vbawd10.chm158007806
 f1_keywords:
 - vbawd10.chm158007806
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DocumentInspectors Property (Word)
+# Document.DocumentInspectors property (Word)
 
 Returns a  **DocumentInspectors** collection that enables you to locate hidden personal information, such as author name, company name, and revision date. Read-only.
 

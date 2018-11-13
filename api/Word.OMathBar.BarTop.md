@@ -1,5 +1,5 @@
 ---
-title: OMathBar.BarTop Property (Word)
+title: OMathBar.BarTop property (Word)
 keywords: vbawd10.chm99680360
 f1_keywords:
 - vbawd10.chm99680360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBar.BarTop Property (Word)
+# OMathBar.BarTop property (Word)
 
 Returns or sets a  **Boolean** that represents the position of a bar in a bar object. **True** specifies a mathematical overbar. **False** specifies a mathematical underbar. Read/write.
 

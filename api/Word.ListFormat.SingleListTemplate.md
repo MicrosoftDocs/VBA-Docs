@@ -1,5 +1,5 @@
 ---
-title: ListFormat.SingleListTemplate Property (Word)
+title: ListFormat.SingleListTemplate property (Word)
 keywords: vbawd10.chm163577929
 f1_keywords:
 - vbawd10.chm163577929
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.SingleListTemplate Property (Word)
+# ListFormat.SingleListTemplate property (Word)
 
  **True** if the entire **ListFormat** object uses the same list template. Read-only **Boolean** .
 

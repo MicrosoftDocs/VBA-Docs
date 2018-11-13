@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.ViewType Property (Word)
+title: TextRetrievalMode.ViewType property (Word)
 keywords: vbawd10.chm154730496
 f1_keywords:
 - vbawd10.chm154730496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.ViewType Property (Word)
+# TextRetrievalMode.ViewType property (Word)
 
 Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType** .
 

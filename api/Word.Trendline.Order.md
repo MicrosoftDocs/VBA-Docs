@@ -1,5 +1,5 @@
 ---
-title: Trendline.Order Property (Word)
+title: Trendline.Order property (Word)
 keywords: vbawd10.chm26345664
 f1_keywords:
 - vbawd10.chm26345664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Order Property (Word)
+# Trendline.Order property (Word)
 
 Returns or sets the trendline order (an integer greater than 1) when the trendline type is  **xlPolynomial** . Read/write **Long** .
 

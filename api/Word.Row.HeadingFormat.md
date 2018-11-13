@@ -1,5 +1,5 @@
 ---
-title: Row.HeadingFormat Property (Word)
+title: Row.HeadingFormat property (Word)
 keywords: vbawd10.chm156237829
 f1_keywords:
 - vbawd10.chm156237829
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.HeadingFormat Property (Word)
+# Row.HeadingFormat property (Word)
 
  **True** if the specified row or rows are formatted as a table heading. Rows formatted as table headings are repeated when a table spans more than one page. Can be **True** , **False** or **wdUndefined** . Read/write **Long** .
 

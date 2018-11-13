@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationX Property (Word)
+title: ThreeDFormat.RotationX property (Word)
 keywords: vbawd10.chm164626541
 f1_keywords:
 - vbawd10.chm164626541
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.RotationX Property (Word)
+# ThreeDFormat.RotationX property (Word)
 
 Returns or sets the rotation of the extruded shape around the x-axis in degrees. Read/write  **Single** .
 

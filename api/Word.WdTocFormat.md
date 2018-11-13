@@ -1,5 +1,5 @@
 ---
-title: WdTocFormat Enumeration (Word)
+title: WdTocFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTocFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTocFormat Enumeration (Word)
+# WdTocFormat enumeration (Word)
 
 Specifies the type of formatting to apply to the table of contents in the active document.
 

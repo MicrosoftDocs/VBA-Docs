@@ -1,5 +1,5 @@
 ---
-title: Series.PictureType Property (Word)
+title: Series.PictureType property (Word)
 keywords: vbawd10.chm123732129
 f1_keywords:
 - vbawd10.chm123732129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PictureType Property (Word)
+# Series.PictureType property (Word)
 
 Returns or sets a value that specifies how pictures are displayed on a column or bar picture chart. Read/write  **[XlChartPictureType](Word.xlchartpicturetype.md)** .
 

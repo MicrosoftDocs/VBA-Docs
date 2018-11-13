@@ -1,5 +1,5 @@
 ---
-title: Template.Path Property (Word)
+title: Template.Path property (Word)
 keywords: vbawd10.chm157941761
 f1_keywords:
 - vbawd10.chm157941761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.Path Property (Word)
+# Template.Path property (Word)
 
 Returns the path to the specified document template. Read-only  **String** .
 

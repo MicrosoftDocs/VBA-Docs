@@ -1,5 +1,5 @@
 ---
-title: xlReadingOrder Enumeration (Word)
+title: xlReadingOrder enumeration (Word)
 ms.prod: word
 api_name:
 - Word.XlReadingOrder
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# xlReadingOrder Enumeration (Word)
+# xlReadingOrder enumeration (Word)
 
 Specifies the reading order for the specified object.
 

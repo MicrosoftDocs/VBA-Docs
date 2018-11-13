@@ -1,5 +1,5 @@
 ---
-title: Legend.Position Property (Word)
+title: Legend.Position property (Word)
 keywords: vbawd10.chm147193989
 f1_keywords:
 - vbawd10.chm147193989
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Position Property (Word)
+# Legend.Position property (Word)
 
 Returns or sets the position of the legend on the chart. Read/write  **[XlLegendPosition](Word.xllegendposition.md)** .
 

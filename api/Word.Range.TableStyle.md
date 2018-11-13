@@ -1,5 +1,5 @@
 ---
-title: Range.TableStyle Property (Word)
+title: Range.TableStyle property (Word)
 keywords: vbawd10.chm157155751
 f1_keywords:
 - vbawd10.chm157155751
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TableStyle Property (Word)
+# Range.TableStyle property (Word)
 
 Returns a  **Variant** that represents the style used to format a table. Read-only.
 

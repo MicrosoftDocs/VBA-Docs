@@ -1,5 +1,5 @@
 ---
-title: Range.OMaths Property (Word)
+title: Range.OMaths property (Word)
 keywords: vbawd10.chm157155674
 f1_keywords:
 - vbawd10.chm157155674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.OMaths Property (Word)
+# Range.OMaths property (Word)
 
 Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the specified range. Read-only.
 

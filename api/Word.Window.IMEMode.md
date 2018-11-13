@@ -1,5 +1,5 @@
 ---
-title: Window.IMEMode Property (Word)
+title: Window.IMEMode property (Word)
 keywords: vbawd10.chm157417502
 f1_keywords:
 - vbawd10.chm157417502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.IMEMode Property (Word)
+# Window.IMEMode property (Word)
 
 Returns or sets the default start-up mode for the Japanese Input Method Editor (IME). Read/write  **WdIMEMode** .
 

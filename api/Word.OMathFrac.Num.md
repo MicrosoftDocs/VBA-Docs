@@ -1,5 +1,5 @@
 ---
-title: OMathFrac.Num Property (Word)
+title: OMathFrac.Num property (Word)
 keywords: vbawd10.chm158597223
 f1_keywords:
 - vbawd10.chm158597223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac.Num Property (Word)
+# OMathFrac.Num property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the numerator for a fraction. Read-only.
 

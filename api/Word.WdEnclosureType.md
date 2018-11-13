@@ -1,5 +1,5 @@
 ---
-title: WdEnclosureType Enumeration (Word)
+title: WdEnclosureType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEnclosureType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEnclosureType Enumeration (Word)
+# WdEnclosureType enumeration (Word)
 
 Specifies the type of symbol to use as an enclosure.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Format Property (Word)
+title: ChartArea.Format property (Word)
 keywords: vbawd10.chm160038935
 f1_keywords:
 - vbawd10.chm160038935
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Format Property (Word)
+# ChartArea.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

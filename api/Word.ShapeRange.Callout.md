@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Callout Property (Word)
+title: ShapeRange.Callout property (Word)
 keywords: vbawd10.chm162857063
 f1_keywords:
 - vbawd10.chm162857063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Callout Property (Word)
+# ShapeRange.Callout property (Word)
 
 Returns a  **[CalloutFormat](Word.CalloutFormat.md)** object that contains callout formatting properties for the specified shape. Read-only.
 

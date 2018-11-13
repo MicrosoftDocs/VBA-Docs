@@ -1,5 +1,5 @@
 ---
-title: Categories.Count Property (Word)
+title: Categories.Count property (Word)
 keywords: vbawd10.chm126550017
 f1_keywords:
 - vbawd10.chm126550017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Categories.Count Property (Word)
+# Categories.Count property (Word)
 
 Returns the number of items in the  **Categories** collection. Read-only **Long** .
 

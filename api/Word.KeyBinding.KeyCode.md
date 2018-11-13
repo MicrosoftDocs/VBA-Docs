@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyCode Property (Word)
+title: KeyBinding.KeyCode property (Word)
 keywords: vbawd10.chm160956422
 f1_keywords:
 - vbawd10.chm160956422
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.KeyCode Property (Word)
+# KeyBinding.KeyCode property (Word)
 
 Returns a unique number for the first key in the specified key binding. Read-only  **Long** .
 

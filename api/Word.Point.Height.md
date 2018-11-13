@@ -1,5 +1,5 @@
 ---
-title: Point.Height Property (Word)
+title: Point.Height property (Word)
 keywords: vbawd10.chm262146652
 f1_keywords:
 - vbawd10.chm262146652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Height Property (Word)
+# Point.Height property (Word)
 
 Returns the height, in points, of the object. Read-only.
 

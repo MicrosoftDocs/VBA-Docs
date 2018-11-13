@@ -1,5 +1,5 @@
 ---
-title: Template.Name Property (Word)
+title: Template.Name property (Word)
 keywords: vbawd10.chm157941760
 f1_keywords:
 - vbawd10.chm157941760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.Name Property (Word)
+# Template.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

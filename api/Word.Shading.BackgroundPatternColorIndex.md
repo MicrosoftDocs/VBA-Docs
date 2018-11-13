@@ -1,5 +1,5 @@
 ---
-title: Shading.BackgroundPatternColorIndex Property (Word)
+title: Shading.BackgroundPatternColorIndex property (Word)
 keywords: vbawd10.chm154796034
 f1_keywords:
 - vbawd10.chm154796034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.BackgroundPatternColorIndex Property (Word)
+# Shading.BackgroundPatternColorIndex property (Word)
 
 Returns or sets the color that's applied to the background of the  **Shading** object. Read/write **WdColorIndex** .
 

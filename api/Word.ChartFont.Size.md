@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Size Property (Word)
+title: ChartFont.Size property (Word)
 keywords: vbawd10.chm255918098
 f1_keywords:
 - vbawd10.chm255918098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Size Property (Word)
+# ChartFont.Size property (Word)
 
 Returns or sets the size of the font. Read/write  **Variant** .
 

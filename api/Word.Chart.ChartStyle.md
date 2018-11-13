@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartStyle Property (Word)
+title: Chart.ChartStyle property (Word)
 keywords: vbawd10.chm79366561
 f1_keywords:
 - vbawd10.chm79366561
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartStyle Property (Word)
+# Chart.ChartStyle property (Word)
 
 Returns or sets the chart style for the chart. Read/write  **Variant** .
 

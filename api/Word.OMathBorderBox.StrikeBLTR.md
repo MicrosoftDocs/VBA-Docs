@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.StrikeBLTR Property (Word)
+title: OMathBorderBox.StrikeBLTR property (Word)
 keywords: vbawd10.chm116260974
 f1_keywords:
 - vbawd10.chm116260974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.StrikeBLTR Property (Word)
+# OMathBorderBox.StrikeBLTR property (Word)
 
 Returns or sets a  **Boolean** that represents a diagonal strikethrough from lower left to upper right. Read/write.
 

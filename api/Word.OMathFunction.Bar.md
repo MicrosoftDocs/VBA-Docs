@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Bar Property (Word)
+title: OMathFunction.Bar property (Word)
 keywords: vbawd10.chm22151274
 f1_keywords:
 - vbawd10.chm22151274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Bar Property (Word)
+# OMathFunction.Bar property (Word)
 
 Returns an  **[OMathBar](Word.OMathBar.md)** object that represents the mathematical overbar for an object. Read-only.
 

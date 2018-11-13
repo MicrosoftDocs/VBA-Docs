@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Updates Property (Word)
+title: CoAuthoring.Updates property (Word)
 keywords: vbawd10.chm254869510
 f1_keywords:
 - vbawd10.chm254869510
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Updates Property (Word)
+# CoAuthoring.Updates property (Word)
 
 Returns a  **[CoAuthUpdates](./overview/Word.md)** collection that represents the most recent updates that were merged into the document. Read-only.
 

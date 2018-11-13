@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Angle Property (Word)
+title: CalloutFormat.Angle property (Word)
 keywords: vbawd10.chm163905637
 f1_keywords:
 - vbawd10.chm163905637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Angle Property (Word)
+# CalloutFormat.Angle property (Word)
 
 Returns or sets the angle of the callout line. Read/write  **[MsoCalloutAngleType](./Office.MsoCalloutAngleType.md)** .
 

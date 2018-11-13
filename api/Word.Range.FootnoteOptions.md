@@ -1,5 +1,5 @@
 ---
-title: Range.FootnoteOptions Property (Word)
+title: Range.FootnoteOptions property (Word)
 keywords: vbawd10.chm157155738
 f1_keywords:
 - vbawd10.chm157155738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FootnoteOptions Property (Word)
+# Range.FootnoteOptions property (Word)
 
 Returns  **FootnoteOptions** object that represents the footnotes in a selection or range.
 

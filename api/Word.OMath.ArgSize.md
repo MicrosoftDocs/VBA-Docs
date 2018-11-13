@@ -1,5 +1,5 @@
 ---
-title: OMath.ArgSize Property (Word)
+title: OMath.ArgSize property (Word)
 keywords: vbawd10.chm176357489
 f1_keywords:
 - vbawd10.chm176357489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ArgSize Property (Word)
+# OMath.ArgSize property (Word)
 
 Returns or sets a  **Long** that represents the script size of an argument, for example, text, script, or script-script. Read/write.
 

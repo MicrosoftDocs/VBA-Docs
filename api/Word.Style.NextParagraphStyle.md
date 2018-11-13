@@ -1,5 +1,5 @@
 ---
-title: Style.NextParagraphStyle Property (Word)
+title: Style.NextParagraphStyle property (Word)
 keywords: vbawd10.chm153878533
 f1_keywords:
 - vbawd10.chm153878533
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NextParagraphStyle Property (Word)
+# Style.NextParagraphStyle property (Word)
 
 Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant** .
 

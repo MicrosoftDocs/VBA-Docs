@@ -1,5 +1,5 @@
 ---
-title: PageSetup.GutterStyle Property (Word)
+title: PageSetup.GutterStyle property (Word)
 keywords: vbawd10.chm158400641
 f1_keywords:
 - vbawd10.chm158400641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.GutterStyle Property (Word)
+# PageSetup.GutterStyle property (Word)
 
 Returns or sets whether Microsoft Word uses gutters for the current document based on a right-to-left language or a left-to-right language. Read/write  **WdGutterStyleOld** .
 

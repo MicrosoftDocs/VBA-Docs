@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Type Property (Word)
+title: Dictionary.Type property (Word)
 keywords: vbawd10.chm162332676
 f1_keywords:
 - vbawd10.chm162332676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.Type Property (Word)
+# Dictionary.Type property (Word)
 
 Returns the dictionary type. Read-only  **WdDictionaryType** .
 

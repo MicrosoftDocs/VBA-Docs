@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyDates Property (Word)
+title: Options.AutoFormatAsYouTypeApplyDates property (Word)
 keywords: vbawd10.chm162988330
 f1_keywords:
 - vbawd10.chm162988330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyDates Property (Word)
+# Options.AutoFormatAsYouTypeApplyDates property (Word)
 
  **True** for Microsoft Word to automatically apply the Date style to dates as you type. Read/write.
 

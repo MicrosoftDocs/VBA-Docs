@@ -1,5 +1,5 @@
 ---
-title: Line.Parent Property (Word)
+title: Line.Parent property (Word)
 keywords: vbawd10.chm49611754
 f1_keywords:
 - vbawd10.chm49611754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Parent Property (Word)
+# Line.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Line** object.
 

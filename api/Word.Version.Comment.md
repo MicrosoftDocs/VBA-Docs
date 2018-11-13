@@ -1,5 +1,5 @@
 ---
-title: Version.Comment Property (Word)
+title: Version.Comment property (Word)
 keywords: vbawd10.chm162792428
 f1_keywords:
 - vbawd10.chm162792428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version.Comment Property (Word)
+# Version.Comment property (Word)
 
 Returns the comment associated with the specified version of a document. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdFarEastLineBreakLanguageID Enumeration (Word)
+title: WdFarEastLineBreakLanguageID enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFarEastLineBreakLanguageID
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFarEastLineBreakLanguageID Enumeration (Word)
+# WdFarEastLineBreakLanguageID enumeration (Word)
 
 Specifies the East Asian language to use when breaking lines of text in the specified document or template.
 

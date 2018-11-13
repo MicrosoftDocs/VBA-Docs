@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.Name Property (Word)
+title: CoAuthor.Name property (Word)
 keywords: vbawd10.chm81068032
 f1_keywords:
 - vbawd10.chm81068032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthor.Name Property (Word)
+# CoAuthor.Name property (Word)
 
 Returns a  **String** that contains the display name of the specified co author. Read-only.
 

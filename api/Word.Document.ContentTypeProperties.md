@@ -1,5 +1,5 @@
 ---
-title: Document.ContentTypeProperties Property (Word)
+title: Document.ContentTypeProperties property (Word)
 keywords: vbawd10.chm158007792
 f1_keywords:
 - vbawd10.chm158007792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ContentTypeProperties Property (Word)
+# Document.ContentTypeProperties property (Word)
 
 Returns a  **MetaProperties** collection that represents the metadata stored in a document, such as author name, subject, and company. Read-only.
 

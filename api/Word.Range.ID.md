@@ -1,5 +1,5 @@
 ---
-title: Range.ID Property (Word)
+title: Range.ID property (Word)
 keywords: vbawd10.chm157155733
 f1_keywords:
 - vbawd10.chm157155733
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ID Property (Word)
+# Range.ID property (Word)
 
 Returns or sets the identification name for the specified range. Read/write  **String** .
 

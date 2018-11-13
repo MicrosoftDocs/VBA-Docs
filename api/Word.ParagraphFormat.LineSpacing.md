@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.LineSpacing Property (Word)
+title: ParagraphFormat.LineSpacing property (Word)
 keywords: vbawd10.chm156434541
 f1_keywords:
 - vbawd10.chm156434541
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.LineSpacing Property (Word)
+# ParagraphFormat.LineSpacing property (Word)
 
 Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single** .
 

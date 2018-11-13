@@ -1,5 +1,5 @@
 ---
-title: Application.UsableHeight Property (Word)
+title: Application.UsableHeight property (Word)
 keywords: vbawd10.chm158335010
 f1_keywords:
 - vbawd10.chm158335010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UsableHeight Property (Word)
+# Application.UsableHeight property (Word)
 
 Returns the maximum height (in points) to which you can set the height of a Microsoft Word document window. Read-only  **Long** .
 

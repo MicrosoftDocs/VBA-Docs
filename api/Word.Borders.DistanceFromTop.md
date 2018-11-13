@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromTop Property (Word)
+title: Borders.DistanceFromTop property (Word)
 keywords: vbawd10.chm154927108
 f1_keywords:
 - vbawd10.chm154927108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.DistanceFromTop Property (Word)
+# Borders.DistanceFromTop property (Word)
 
 Returns or sets the space (in points) between the text and the top border. Read/write  **Long** .
 

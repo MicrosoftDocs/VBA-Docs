@@ -1,5 +1,5 @@
 ---
-title: WdEditorType Enumeration (Word)
+title: WdEditorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEditorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEditorType Enumeration (Word)
+# WdEditorType enumeration (Word)
 
 Specifies a user or group of users for a document.
 

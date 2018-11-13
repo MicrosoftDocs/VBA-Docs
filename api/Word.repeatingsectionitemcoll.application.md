@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl.Application Property (Word)
+title: RepeatingSectionItemColl.Application property (Word)
 keywords: vbawd10.chm171115496
 f1_keywords:
 - vbawd10.chm171115496
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl.Application Property (Word)
+# RepeatingSectionItemColl.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

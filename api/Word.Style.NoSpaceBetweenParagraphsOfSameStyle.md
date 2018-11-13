@@ -1,5 +1,5 @@
 ---
-title: Style.NoSpaceBetweenParagraphsOfSameStyle Property (Word)
+title: Style.NoSpaceBetweenParagraphsOfSameStyle property (Word)
 keywords: vbawd10.chm153878548
 f1_keywords:
 - vbawd10.chm153878548
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NoSpaceBetweenParagraphsOfSameStyle Property (Word)
+# Style.NoSpaceBetweenParagraphsOfSameStyle property (Word)
 
  **True** for Microsoft Word to remove spacing between paragraphs that are formatted using the same style. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Perspective Property (Word)
+title: ThreeDFormat.Perspective property (Word)
 keywords: vbawd10.chm164626535
 f1_keywords:
 - vbawd10.chm164626535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Perspective Property (Word)
+# ThreeDFormat.Perspective property (Word)
 
  **MsoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **MsoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write **MsoTriState** .
 

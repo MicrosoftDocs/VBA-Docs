@@ -1,5 +1,5 @@
 ---
-title: Global.Tasks Property (Word)
+title: Global.Tasks property (Word)
 keywords: vbawd10.chm163119132
 f1_keywords:
 - vbawd10.chm163119132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Tasks Property (Word)
+# Global.Tasks property (Word)
 
 Returns a  **Tasks** collection that represents all the applications that are running.
 

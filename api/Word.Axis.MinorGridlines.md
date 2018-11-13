@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorGridlines Property (Word)
+title: Axis.MinorGridlines property (Word)
 keywords: vbawd10.chm113049636
 f1_keywords:
 - vbawd10.chm113049636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorGridlines Property (Word)
+# Axis.MinorGridlines property (Word)
 
 Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](Word.GridLines.md)** .
 

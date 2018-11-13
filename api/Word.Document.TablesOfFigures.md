@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfFigures Property (Word)
+title: Document.TablesOfFigures property (Word)
 keywords: vbawd10.chm158007321
 f1_keywords:
 - vbawd10.chm158007321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TablesOfFigures Property (Word)
+# Document.TablesOfFigures property (Word)
 
 Returns a  **[TablesOfFigures](Word.Document.TablesOfFigures.md)** collection that represents the tables of figures in the specified document. Read-only.
 

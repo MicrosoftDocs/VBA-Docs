@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideLineWidth Property (Word)
+title: Borders.OutsideLineWidth property (Word)
 keywords: vbawd10.chm154927113
 f1_keywords:
 - vbawd10.chm154927113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.OutsideLineWidth Property (Word)
+# Borders.OutsideLineWidth property (Word)
 
 Returns or sets the line width of the outside border of an object. Read/write.
 

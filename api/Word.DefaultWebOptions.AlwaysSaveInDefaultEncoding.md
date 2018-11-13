@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.AlwaysSaveInDefaultEncoding Property (Word)
+title: DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Word)
 keywords: vbawd10.chm165871630
 f1_keywords:
 - vbawd10.chm165871630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.AlwaysSaveInDefaultEncoding Property (Word)
+# DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Word)
 
  **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. Read/write **Boolean** .
 

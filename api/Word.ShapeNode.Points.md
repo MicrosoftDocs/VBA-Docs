@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Points Property (Word)
+title: ShapeNode.Points property (Word)
 keywords: vbawd10.chm164429925
 f1_keywords:
 - vbawd10.chm164429925
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.Points Property (Word)
+# ShapeNode.Points property (Word)
 
 Returns the position of the specified node as a coordinate pair. Read-only  **Variant** .
 

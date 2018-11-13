@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultTrayID Property (Word)
+title: Options.DefaultTrayID property (Word)
 keywords: vbawd10.chm162988072
 f1_keywords:
 - vbawd10.chm162988072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultTrayID Property (Word)
+# Options.DefaultTrayID property (Word)
 
 Returns or sets the default tray your printer uses to print documents. Read/write  **WdPaperTray** .
 

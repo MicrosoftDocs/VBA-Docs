@@ -1,5 +1,5 @@
 ---
-title: TabStop.Next Property (Word)
+title: TabStop.Next property (Word)
 keywords: vbawd10.chm156500072
 f1_keywords:
 - vbawd10.chm156500072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Next Property (Word)
+# TabStop.Next property (Word)
 
 Returns the next tabstop in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.ThemeName Property (Word)
+title: EmailOptions.ThemeName property (Word)
 keywords: vbawd10.chm165347442
 f1_keywords:
 - vbawd10.chm165347442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.ThemeName Property (Word)
+# EmailOptions.ThemeName property (Word)
 
 Returns or sets the name of the theme plus any theme formatting options to use for new e-mail messages. Read/write  **String** .
 

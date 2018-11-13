@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Encoding Property (Word)
+title: DefaultWebOptions.Encoding property (Word)
 keywords: vbawd10.chm165871629
 f1_keywords:
 - vbawd10.chm165871629
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Encoding Property (Word)
+# DefaultWebOptions.Encoding property (Word)
 
 Returns or sets the document encoding (code page or character set) to be used by the Web browser when you view the saved document. Read/write  **MsoEncoding** .
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Count Property (Word)
+title: ProtectedViewWindows.Count property (Word)
 keywords: vbawd10.chm82313217
 f1_keywords:
 - vbawd10.chm82313217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Count Property (Word)
+# ProtectedViewWindows.Count property (Word)
 
 Returns a  **Long** that represents the number of protected view windows in the collection. Read-only.
 

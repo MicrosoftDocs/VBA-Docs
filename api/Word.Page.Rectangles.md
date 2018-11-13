@@ -1,5 +1,5 @@
 ---
-title: Page.Rectangles Property (Word)
+title: Page.Rectangles property (Word)
 keywords: vbawd10.chm11075590
 f1_keywords:
 - vbawd10.chm11075590
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Rectangles Property (Word)
+# Page.Rectangles property (Word)
 
 Returns a  **Rectangles** collection that represents a portion of text or graphics in a page in a document.
 

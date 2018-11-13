@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Application Property (Word)
+title: Footnotes.Application property (Word)
 keywords: vbawd10.chm155321320
 f1_keywords:
 - vbawd10.chm155321320
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Application Property (Word)
+# Footnotes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

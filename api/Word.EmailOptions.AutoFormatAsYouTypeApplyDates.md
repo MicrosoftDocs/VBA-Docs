@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyDates Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyDates property (Word)
 keywords: vbawd10.chm165347626
 f1_keywords:
 - vbawd10.chm165347626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyDates Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyDates property (Word)
 
  **True** for Microsoft Word to automatically apply the Date style to dates as you type. Read/write.
 

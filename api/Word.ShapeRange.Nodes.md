@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Nodes Property (Word)
+title: ShapeRange.Nodes property (Word)
 keywords: vbawd10.chm162857076
 f1_keywords:
 - vbawd10.chm162857076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Nodes Property (Word)
+# ShapeRange.Nodes property (Word)
 
 Returns a  **ShapeNodes** collection that represents the geometric description of the specified shape.
 

@@ -1,5 +1,5 @@
 ---
-title: Page.Width Property (Word)
+title: Page.Width property (Word)
 keywords: vbawd10.chm11075588
 f1_keywords:
 - vbawd10.chm11075588
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Width Property (Word)
+# Page.Width property (Word)
 
 Returns a  **Long** that represents the width, in points, of the paper defined in the **Page Setup** dialog box. Read-only **Long** .
 

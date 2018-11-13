@@ -1,5 +1,5 @@
 ---
-title: Range.TextVisibleOnScreen Property (Word)
+title: Range.TextVisibleOnScreen property (Word)
 keywords: vbawd10.chm157155835
 f1_keywords:
 - vbawd10.chm157155835
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TextVisibleOnScreen Property (Word)
+# Range.TextVisibleOnScreen property (Word)
 
 Returns a  **Long** that indicates whether the text in the specified range is visible on the screen. Read-only.
 

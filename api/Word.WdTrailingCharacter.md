@@ -1,5 +1,5 @@
 ---
-title: WdTrailingCharacter Enumeration (Word)
+title: WdTrailingCharacter enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTrailingCharacter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTrailingCharacter Enumeration (Word)
+# WdTrailingCharacter enumeration (Word)
 
 Specifies the character inserted after the number for a numbered list item.
 

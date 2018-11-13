@@ -1,5 +1,5 @@
 ---
-title: Document.Signatures Property (Word)
+title: Document.Signatures property (Word)
 keywords: vbawd10.chm158007635
 f1_keywords:
 - vbawd10.chm158007635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Signatures Property (Word)
+# Document.Signatures property (Word)
 
 Returns a  **SignatureSet** collection that represents the digital signatures for a document.
 

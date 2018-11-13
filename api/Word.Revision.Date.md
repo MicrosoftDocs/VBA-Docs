@@ -1,5 +1,5 @@
 ---
-title: Revision.Date Property (Word)
+title: Revision.Date property (Word)
 keywords: vbawd10.chm159449090
 f1_keywords:
 - vbawd10.chm159449090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Date Property (Word)
+# Revision.Date property (Word)
 
 The date and time that the tracked change was made. Read-only  **Date** .
 

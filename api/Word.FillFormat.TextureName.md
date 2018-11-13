@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureName Property (Word)
+title: FillFormat.TextureName property (Word)
 keywords: vbawd10.chm164102253
 f1_keywords:
 - vbawd10.chm164102253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureName Property (Word)
+# FillFormat.TextureName property (Word)
 
 Returns the name of the custom texture file for the specified fill. Read-only  **String** .
 

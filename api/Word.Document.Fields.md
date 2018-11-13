@@ -1,5 +1,5 @@
 ---
-title: Document.Fields Property (Word)
+title: Document.Fields property (Word)
 keywords: vbawd10.chm158007316
 f1_keywords:
 - vbawd10.chm158007316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Fields Property (Word)
+# Document.Fields property (Word)
 
 Returns a  **[Fields](Word.fields.md)** collection that represents all the fields in the document. Read-only.
 

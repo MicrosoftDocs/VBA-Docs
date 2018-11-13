@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions.Count Property (Word)
+title: SpellingSuggestions.Count property (Word)
 keywords: vbawd10.chm162136065
 f1_keywords:
 - vbawd10.chm162136065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestions.Count Property (Word)
+# SpellingSuggestions.Count property (Word)
 
 Returns a  **Long** that represents the number of spelling suggestions in the collection. Read-only.
 

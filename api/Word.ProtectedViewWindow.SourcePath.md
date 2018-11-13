@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourcePath Property (Word)
+title: ProtectedViewWindow.SourcePath property (Word)
 keywords: vbawd10.chm231735307
 f1_keywords:
 - vbawd10.chm231735307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.SourcePath Property (Word)
+# ProtectedViewWindow.SourcePath property (Word)
 
 Returns the path of the source file for the specified protected view window. Read-only  **String** .
 

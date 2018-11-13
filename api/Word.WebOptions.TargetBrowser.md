@@ -1,5 +1,5 @@
 ---
-title: WebOptions.TargetBrowser Property (Word)
+title: WebOptions.TargetBrowser property (Word)
 keywords: vbawd10.chm165937164
 f1_keywords:
 - vbawd10.chm165937164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.TargetBrowser Property (Word)
+# WebOptions.TargetBrowser property (Word)
 
 Sets or returns an  **MsoTargetBrowser** constant representing the target browser for documents viewed in a Web browser. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerBackgroundColorIndex Property (Word)
+title: LegendKey.MarkerBackgroundColorIndex property (Word)
 keywords: vbawd10.chm266207306
 f1_keywords:
 - vbawd10.chm266207306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerBackgroundColorIndex Property (Word)
+# LegendKey.MarkerBackgroundColorIndex property (Word)
 
 Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 

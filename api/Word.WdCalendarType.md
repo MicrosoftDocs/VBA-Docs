@@ -1,5 +1,5 @@
 ---
-title: WdCalendarType Enumeration (Word)
+title: WdCalendarType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCalendarType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCalendarType Enumeration (Word)
+# WdCalendarType enumeration (Word)
 
 Specifies a calendar type.
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Offset Property (Word)
+title: TickLabels.Offset property (Word)
 keywords: vbawd10.chm167051282
 f1_keywords:
 - vbawd10.chm167051282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Offset Property (Word)
+# TickLabels.Offset property (Word)
 
 Returns or sets the distance between the levels of labels, and the distance between the first level and the axis line. Read/write  **Long** .
 

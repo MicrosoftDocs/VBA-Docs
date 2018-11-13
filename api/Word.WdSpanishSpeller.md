@@ -1,5 +1,5 @@
 ---
-title: WdSpanishSpeller Enumeration (Word)
+title: WdSpanishSpeller enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSpanishSpeller
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSpanishSpeller Enumeration (Word)
+# WdSpanishSpeller enumeration (Word)
 
 Specifies the Spanish speller modes.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Thumbnails Property (Word)
+title: Window.Thumbnails property (Word)
 keywords: vbawd10.chm157417509
 f1_keywords:
 - vbawd10.chm157417509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Thumbnails Property (Word)
+# Window.Thumbnails property (Word)
 
 Sets or returns a  **Boolean** that represents whether thumbnail images of the pages in a document are displayed along the left side of the Microsoft Word document window.
 

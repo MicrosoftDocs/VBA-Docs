@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions.SpellingErrorType Property (Word)
+title: SpellingSuggestions.SpellingErrorType property (Word)
 keywords: vbawd10.chm162136066
 f1_keywords:
 - vbawd10.chm162136066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestions.SpellingErrorType Property (Word)
+# SpellingSuggestions.SpellingErrorType property (Word)
 
 Returns the spelling error type. Read-only  **WdSpellingErrorType** .
 

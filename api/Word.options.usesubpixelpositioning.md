@@ -1,5 +1,5 @@
 ---
-title: Options.UseSubPixelPositioning Property (Word)
+title: Options.UseSubPixelPositioning property (Word)
 keywords: vbawd10.chm162988541
 f1_keywords:
 - vbawd10.chm162988541
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseSubPixelPositioning Property (Word)
+# Options.UseSubPixelPositioning property (Word)
 
 Returns or sets a  **Boolean** that specifies whether sub-pixel positioning is enabled. Read-write.
 

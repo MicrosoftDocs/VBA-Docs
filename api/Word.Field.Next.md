@@ -1,5 +1,5 @@
 ---
-title: Field.Next Property (Word)
+title: Field.Next property (Word)
 keywords: vbawd10.chm154075142
 f1_keywords:
 - vbawd10.chm154075142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Next Property (Word)
+# Field.Next property (Word)
 
 Returns the next object in the collection. Read-only.
 

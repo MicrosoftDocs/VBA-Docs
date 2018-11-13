@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.CustomXMLNode Property (Word)
+title: XMLMapping.CustomXMLNode property (Word)
 keywords: vbawd10.chm199688194
 f1_keywords:
 - vbawd10.chm199688194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.CustomXMLNode Property (Word)
+# XMLMapping.CustomXMLNode property (Word)
 
 Returns a  **CustomXMLNode** object that represents the custom XML node in the data store to which the content control in the document maps.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment.IsInk Property (Word)
+title: Comment.IsInk property (Word)
 keywords: vbawd10.chm154993652
 f1_keywords:
 - vbawd10.chm154993652
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.IsInk Property (Word)
+# Comment.IsInk property (Word)
 
 Returns a  **Boolean** that represents whether a comment is a handwritten comment.
 

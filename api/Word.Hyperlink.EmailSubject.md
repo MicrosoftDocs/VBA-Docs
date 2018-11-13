@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.EmailSubject Property (Word)
+title: Hyperlink.EmailSubject property (Word)
 keywords: vbawd10.chm161285106
 f1_keywords:
 - vbawd10.chm161285106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.EmailSubject Property (Word)
+# Hyperlink.EmailSubject property (Word)
 
 Returns or sets the text string for the specified hyperlink's subject line. Read/write  **String** .
 

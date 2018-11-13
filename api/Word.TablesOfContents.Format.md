@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Format Property (Word)
+title: TablesOfContents.Format property (Word)
 keywords: vbawd10.chm152305666
 f1_keywords:
 - vbawd10.chm152305666
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents.Format Property (Word)
+# TablesOfContents.Format property (Word)
 
 Returns or sets the formatting for the tables of contents in the specified document. Read/write  **WdTocFormat** .
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.ReadingOrder Property (Word)
+title: TickLabels.ReadingOrder property (Word)
 keywords: vbawd10.chm167051277
 f1_keywords:
 - vbawd10.chm167051277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.ReadingOrder Property (Word)
+# TickLabels.ReadingOrder property (Word)
 
 Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long** .
 

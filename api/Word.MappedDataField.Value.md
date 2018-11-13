@@ -1,5 +1,5 @@
 ---
-title: MappedDataField.Value Property (Word)
+title: MappedDataField.Value property (Word)
 keywords: vbawd10.chm107544580
 f1_keywords:
 - vbawd10.chm107544580
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataField.Value Property (Word)
+# MappedDataField.Value property (Word)
 
 Returns the contents of the mail merge data field or mapped data field for the current record. Read-only  **String** .
 

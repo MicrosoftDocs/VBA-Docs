@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Application Property (Word)
+title: FileConverters.Application property (Word)
 keywords: vbawd10.chm161088488
 f1_keywords:
 - vbawd10.chm161088488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverters.Application Property (Word)
+# FileConverters.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: WdSalutationType Enumeration (Word)
+title: WdSalutationType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSalutationType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSalutationType Enumeration (Word)
+# WdSalutationType enumeration (Word)
 
 Specifies the type of salutation to use for a letter.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.ShowMenuFloaties Property (Word)
+title: Options.ShowMenuFloaties property (Word)
 keywords: vbawd10.chm162988501
 f1_keywords:
 - vbawd10.chm162988501
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowMenuFloaties Property (Word)
+# Options.ShowMenuFloaties property (Word)
 
 Returns or sets a  **Boolean** that represents whether to display mini toolbars when the user right-clicks in the document window. Read/write.
 

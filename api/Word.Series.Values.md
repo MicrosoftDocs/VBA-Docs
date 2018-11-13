@@ -1,5 +1,5 @@
 ---
-title: Series.Values Property (Word)
+title: Series.Values property (Word)
 keywords: vbawd10.chm123732132
 f1_keywords:
 - vbawd10.chm123732132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Values Property (Word)
+# Series.Values property (Word)
 
 Returns or sets a collection of all the values in the series. Read/write  **Variant** .
 

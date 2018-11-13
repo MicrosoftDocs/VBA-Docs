@@ -1,5 +1,5 @@
 ---
-title: Global.ListGalleries Property (Word)
+title: Global.ListGalleries property (Word)
 keywords: vbawd10.chm163119169
 f1_keywords:
 - vbawd10.chm163119169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ListGalleries Property (Word)
+# Global.ListGalleries property (Word)
 
 Returns a  **ListGalleries** collection that represents the three list template galleries (**Bulleted**,  **Numbered**, and  **Outline Numbered**).
 

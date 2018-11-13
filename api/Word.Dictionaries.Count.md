@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Count Property (Word)
+title: Dictionaries.Count property (Word)
 keywords: vbawd10.chm162267137
 f1_keywords:
 - vbawd10.chm162267137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.Count Property (Word)
+# Dictionaries.Count property (Word)
 
 Returns a  **Long** that represents the number of dictionaries in the collection. Read-only.
 

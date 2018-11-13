@@ -1,5 +1,5 @@
 ---
-title: Find.MatchSoundsLike Property (Word)
+title: Find.MatchSoundsLike property (Word)
 keywords: vbawd10.chm162529296
 f1_keywords:
 - vbawd10.chm162529296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchSoundsLike Property (Word)
+# Find.MatchSoundsLike property (Word)
 
  **True** if words that sound similar to the text to find are returned by the find operation. Read/write **Boolean** .
 

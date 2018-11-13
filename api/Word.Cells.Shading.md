@@ -1,5 +1,5 @@
 ---
-title: Cells.Shading Property (Word)
+title: Cells.Shading property (Word)
 keywords: vbawd10.chm155844709
 f1_keywords:
 - vbawd10.chm155844709
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Shading Property (Word)
+# Cells.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified object.
 

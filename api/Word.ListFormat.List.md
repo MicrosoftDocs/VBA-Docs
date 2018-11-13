@@ -1,5 +1,5 @@
 ---
-title: ListFormat.List Property (Word)
+title: ListFormat.List property (Word)
 keywords: vbawd10.chm163577925
 f1_keywords:
 - vbawd10.chm163577925
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.List Property (Word)
+# ListFormat.List property (Word)
 
 Returns a  **[List](Word.List.md)** object that represents the first formatted list contained in the specified **ListFormat** object.
 

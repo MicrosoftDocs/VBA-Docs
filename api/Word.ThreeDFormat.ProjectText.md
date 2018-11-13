@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ProjectText Property (Word)
+title: ThreeDFormat.ProjectText property (Word)
 keywords: vbawd10.chm164626557
 f1_keywords:
 - vbawd10.chm164626557
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ProjectText Property (Word)
+# ThreeDFormat.ProjectText property (Word)
 
 Returns or sets an  **MsoTriState** constant that represents whether text on a shape rotates with shape. **msoTrue** rotates the text. Read/write.
 

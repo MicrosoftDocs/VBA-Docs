@@ -1,5 +1,5 @@
 ---
-title: Options.TabIndentKey Property (Word)
+title: Options.TabIndentKey property (Word)
 keywords: vbawd10.chm162988104
 f1_keywords:
 - vbawd10.chm162988104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.TabIndentKey Property (Word)
+# Options.TabIndentKey property (Word)
 
  **True** if the TAB and BACKSPACE keys can be used to increase and decrease, respectively, the left indent of paragraphs and if the BACKSPACE key can be used to change right-aligned paragraphs to centered paragraphs and centered paragraphs to left-aligned paragraphs. Read/write **Boolean** .
 

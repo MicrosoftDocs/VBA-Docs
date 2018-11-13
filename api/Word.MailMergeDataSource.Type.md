@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Type Property (Word)
+title: MailMergeDataSource.Type property (Word)
 keywords: vbawd10.chm152895491
 f1_keywords:
 - vbawd10.chm152895491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Type Property (Word)
+# MailMergeDataSource.Type property (Word)
 
 Returns the type of mail merge data source. Read-only  **[WdMailMergeDataSource](Word.WdMailMergeDataSource.md)** .
 

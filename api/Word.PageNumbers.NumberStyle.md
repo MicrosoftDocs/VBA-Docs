@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.NumberStyle Property (Word)
+title: PageNumbers.NumberStyle property (Word)
 keywords: vbawd10.chm159776770
 f1_keywords:
 - vbawd10.chm159776770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.NumberStyle Property (Word)
+# PageNumbers.NumberStyle property (Word)
 
 Returns or sets a  **[WdPageNumberStyle](Word.WdPageNumberStyle.md)** constant that represents the number style. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.SendMailAttach Property (Word)
+title: Options.SendMailAttach property (Word)
 keywords: vbawd10.chm162988056
 f1_keywords:
 - vbawd10.chm162988056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SendMailAttach Property (Word)
+# Options.SendMailAttach property (Word)
 
  **True** if the **Send To** command on the **File** menu inserts the active document as an attachment to a mail message. Read/write **Boolean** .
 

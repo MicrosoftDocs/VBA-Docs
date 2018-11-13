@@ -1,5 +1,5 @@
 ---
-title: WdPageNumberStyle Enumeration (Word)
+title: WdPageNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageNumberStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPageNumberStyle Enumeration (Word)
+# WdPageNumberStyle enumeration (Word)
 
 Specifies the style to apply to page numbers.
 

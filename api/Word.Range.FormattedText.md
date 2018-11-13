@@ -1,5 +1,5 @@
 ---
-title: Range.FormattedText Property (Word)
+title: Range.FormattedText property (Word)
 keywords: vbawd10.chm157155330
 f1_keywords:
 - vbawd10.chm157155330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FormattedText Property (Word)
+# Range.FormattedText property (Word)
 
 Returns or sets a  **Range** object that includes the formatted text in the specified range or selection. Read/write.
 

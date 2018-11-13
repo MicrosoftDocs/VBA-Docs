@@ -1,5 +1,5 @@
 ---
-title: OMath.AlignPoint Property (Word)
+title: OMath.AlignPoint property (Word)
 keywords: vbawd10.chm176357492
 f1_keywords:
 - vbawd10.chm176357492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.AlignPoint Property (Word)
+# OMath.AlignPoint property (Word)
 
 Returns or sets a  **Long** that represents the character position of the alignment point in the equation. Read/write.
 

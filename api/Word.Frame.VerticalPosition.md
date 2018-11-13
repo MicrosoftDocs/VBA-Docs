@@ -1,5 +1,5 @@
 ---
-title: Frame.VerticalPosition Property (Word)
+title: Frame.VerticalPosition property (Word)
 keywords: vbawd10.chm153747466
 f1_keywords:
 - vbawd10.chm153747466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.VerticalPosition Property (Word)
+# Frame.VerticalPosition property (Word)
 
 Returns or sets the vertical distance between the edge of the frame and the item specified by the  **RelativeVerticalPosition** property. Read/write **Single** .
 

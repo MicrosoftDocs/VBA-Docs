@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Characters Property (Word)
+title: ChartTitle.Characters property (Word)
 keywords: vbawd10.chm65273858
 f1_keywords:
 - vbawd10.chm65273858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Characters Property (Word)
+# ChartTitle.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 

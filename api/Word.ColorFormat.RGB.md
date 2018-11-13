@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (Word)
+title: ColorFormat.RGB property (Word)
 keywords: vbawd10.chm163971072
 f1_keywords:
 - vbawd10.chm163971072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.RGB Property (Word)
+# ColorFormat.RGB property (Word)
 
 Returns or sets the red-green-blue (RGB) value of the specified color. Read/write  **Long** .
 

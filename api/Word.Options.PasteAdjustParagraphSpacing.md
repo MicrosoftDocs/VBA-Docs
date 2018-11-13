@@ -1,5 +1,5 @@
 ---
-title: Options.PasteAdjustParagraphSpacing Property (Word)
+title: Options.PasteAdjustParagraphSpacing property (Word)
 keywords: vbawd10.chm162988462
 f1_keywords:
 - vbawd10.chm162988462
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteAdjustParagraphSpacing Property (Word)
+# Options.PasteAdjustParagraphSpacing property (Word)
 
  **True** if Microsoft Word automatically adjusts the spacing of paragraphs when cutting and pasting selections. Read/write **Boolean** .
 

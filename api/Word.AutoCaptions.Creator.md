@@ -1,5 +1,5 @@
 ---
-title: AutoCaptions.Creator Property (Word)
+title: AutoCaptions.Creator property (Word)
 keywords: vbawd10.chm158991337
 f1_keywords:
 - vbawd10.chm158991337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaptions.Creator Property (Word)
+# AutoCaptions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

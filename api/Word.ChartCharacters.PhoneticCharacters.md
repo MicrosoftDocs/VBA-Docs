@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.PhoneticCharacters Property (Word)
+title: ChartCharacters.PhoneticCharacters property (Word)
 keywords: vbawd10.chm250742258
 f1_keywords:
 - vbawd10.chm250742258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCharacters.PhoneticCharacters Property (Word)
+# ChartCharacters.PhoneticCharacters property (Word)
 
 Returns or sets the phonetic text for the object. Read/write  **String** .
 

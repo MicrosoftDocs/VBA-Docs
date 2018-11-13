@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Creator Property (Word)
+title: OMathNary.Creator property (Word)
 keywords: vbawd10.chm25428069
 f1_keywords:
 - vbawd10.chm25428069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Creator Property (Word)
+# OMathNary.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

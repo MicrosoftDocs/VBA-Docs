@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Authors Property (Word)
+title: CoAuthoring.Authors property (Word)
 keywords: vbawd10.chm254869505
 f1_keywords:
 - vbawd10.chm254869505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Authors Property (Word)
+# CoAuthoring.Authors property (Word)
 
  Returns a **[CoAuthors](Word.CoAuthors.md)** collection that represents all the co authors currently editing the document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdAraSpeller Enumeration (Word)
+title: WdAraSpeller enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAraSpeller
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAraSpeller Enumeration (Word)
+# WdAraSpeller enumeration (Word)
 
 Specifies spelling rules for the Arabic spelling checker.
 

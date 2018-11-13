@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Letterhead Property (Word)
+title: LetterContent.Letterhead property (Word)
 keywords: vbawd10.chm161546345
 f1_keywords:
 - vbawd10.chm161546345
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Letterhead Property (Word)
+# LetterContent.Letterhead property (Word)
 
  **True** if space is reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Boolean** . The **[LetterheadSize](Word.LetterContent.LetterheadSize.md)** property controls the size of the reserved letterhead space.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatDeleteAutoSpaces Property (Word)
+title: Options.AutoFormatDeleteAutoSpaces property (Word)
 keywords: vbawd10.chm162988328
 f1_keywords:
 - vbawd10.chm162988328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatDeleteAutoSpaces Property (Word)
+# Options.AutoFormatDeleteAutoSpaces property (Word)
 
  **True** if spaces inserted between Japanese and Latin text will be deleted when Microsoft Word formats a document or range automatically. Read/write **Boolean** .
 

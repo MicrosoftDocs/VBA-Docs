@@ -1,5 +1,5 @@
 ---
-title: Chart.PivotLayout Property (Word)
+title: Chart.PivotLayout property (Word)
 keywords: vbawd10.chm79365910
 f1_keywords:
 - vbawd10.chm79365910
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PivotLayout Property (Word)
+# Chart.PivotLayout property (Word)
 
 Not supported for this object.
 

@@ -1,5 +1,5 @@
 ---
-title: Walls.PictureType Property (Word)
+title: Walls.PictureType property (Word)
 keywords: vbawd10.chm25165985
 f1_keywords:
 - vbawd10.chm25165985
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.PictureType Property (Word)
+# Walls.PictureType property (Word)
 
 Returns or sets a value that specifies how pictures are displayed on the walls and faces of a 3-D chart. Read/write  **Variant** .
 

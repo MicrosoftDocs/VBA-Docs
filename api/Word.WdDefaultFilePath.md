@@ -1,5 +1,5 @@
 ---
-title: WdDefaultFilePath Enumeration (Word)
+title: WdDefaultFilePath enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDefaultFilePath
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDefaultFilePath Enumeration (Word)
+# WdDefaultFilePath enumeration (Word)
 
 Specifies a default folder for files related to Microsoft Word.
 

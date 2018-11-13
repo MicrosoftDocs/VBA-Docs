@@ -1,5 +1,5 @@
 ---
-title: Global.KeyBindings Property (Word)
+title: Global.KeyBindings property (Word)
 keywords: vbawd10.chm163119173
 f1_keywords:
 - vbawd10.chm163119173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.KeyBindings Property (Word)
+# Global.KeyBindings property (Word)
 
 Returns a  **KeyBindings** collection that represents customized key assignments, which include a key code, a key category, and a command.
 

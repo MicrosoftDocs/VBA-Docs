@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.Application Property (Word)
+title: XMLSchemaReferences.Application property (Word)
 keywords: vbawd10.chm116130792
 f1_keywords:
 - vbawd10.chm116130792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.Application Property (Word)
+# XMLSchemaReferences.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

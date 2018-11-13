@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Nary Property (Word)
+title: OMathFunction.Nary property (Word)
 keywords: vbawd10.chm22151285
 f1_keywords:
 - vbawd10.chm22151285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Nary Property (Word)
+# OMathFunction.Nary property (Word)
 
 Returns an  **[OMathNary](Word.OMathNary.md)** object that represents the n-ary operation. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Object Property (Word)
+title: OLEFormat.Object property (Word)
 keywords: vbawd10.chm154337294
 f1_keywords:
 - vbawd10.chm154337294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Object Property (Word)
+# OLEFormat.Object property (Word)
 
 Returns an  **Object** that represents the specified OLE object's top-level interface. .
 

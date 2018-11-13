@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TrailingCharacter Property (Word)
+title: ListLevel.TrailingCharacter property (Word)
 keywords: vbawd10.chm160235523
 f1_keywords:
 - vbawd10.chm160235523
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.TrailingCharacter Property (Word)
+# ListLevel.TrailingCharacter property (Word)
 
 Returns or sets the character inserted after the number for the specified list level. Read/write  **WdTrailingCharacter** .
 

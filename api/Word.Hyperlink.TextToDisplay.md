@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.TextToDisplay Property (Word)
+title: Hyperlink.TextToDisplay property (Word)
 keywords: vbawd10.chm161285108
 f1_keywords:
 - vbawd10.chm161285108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.TextToDisplay Property (Word)
+# Hyperlink.TextToDisplay property (Word)
 
 Returns or sets the specified hyperlink's visible text in a document. Read/write  **String** .
 

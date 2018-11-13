@@ -1,5 +1,5 @@
 ---
-title: Global.CustomDictionaries Property (Word)
+title: Global.CustomDictionaries property (Word)
 keywords: vbawd10.chm163119199
 f1_keywords:
 - vbawd10.chm163119199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.CustomDictionaries Property (Word)
+# Global.CustomDictionaries property (Word)
 
 Returns a  **[Dictionaries](Word.dictionaries.md)** object that represents the collection of active custom dictionaries. Read-only.
 

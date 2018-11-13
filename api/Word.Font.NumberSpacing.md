@@ -1,5 +1,5 @@
 ---
-title: Font.NumberSpacing Property (Word)
+title: Font.NumberSpacing property (Word)
 keywords: vbawd10.chm156369072
 f1_keywords:
 - vbawd10.chm156369072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.NumberSpacing Property (Word)
+# Font.NumberSpacing property (Word)
 
 Returns or sets the number spacing setting for a font. Read/write [WdNumberSpacing](Word.WdNumberSpacing.md).
 

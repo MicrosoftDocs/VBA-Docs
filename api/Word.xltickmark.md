@@ -1,12 +1,12 @@
 ---
-title: xlTickMark Enumeration (Word)
+title: xlTickMark enumeration (Word)
 ms.prod: word
 ms.assetid: 8ae235d4-3cdc-b05a-3faf-5975df68d8cf
 ms.date: 06/08/2017
 ---
 
 
-# xlTickMark Enumeration (Word)
+# xlTickMark enumeration (Word)
 
 Specifies the position of major and minor tick marks for an axis.
 

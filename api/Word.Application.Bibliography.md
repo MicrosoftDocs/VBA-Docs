@@ -1,5 +1,5 @@
 ---
-title: Application.Bibliography Property (Word)
+title: Application.Bibliography property (Word)
 keywords: vbawd10.chm158335448
 f1_keywords:
 - vbawd10.chm158335448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Bibliography Property (Word)
+# Application.Bibliography property (Word)
 
 Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references sources stored in Microsoft Word. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdDiacriticColor Enumeration (Word)
+title: WdDiacriticColor enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDiacriticColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDiacriticColor Enumeration (Word)
+# WdDiacriticColor enumeration (Word)
 
 Specifies whether to apply a different color to diacritics in bi-directional or Latin style languages.
 

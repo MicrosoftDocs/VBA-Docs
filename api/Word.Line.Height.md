@@ -1,5 +1,5 @@
 ---
-title: Line.Height Property (Word)
+title: Line.Height property (Word)
 keywords: vbawd10.chm49610758
 f1_keywords:
 - vbawd10.chm49610758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Height Property (Word)
+# Line.Height property (Word)
 
 Returns or sets the height of a line.
 

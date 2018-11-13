@@ -1,5 +1,5 @@
 ---
-title: Application.EmailOptions Property (Word)
+title: Application.EmailOptions property (Word)
 keywords: vbawd10.chm158335365
 f1_keywords:
 - vbawd10.chm158335365
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EmailOptions Property (Word)
+# Application.EmailOptions property (Word)
 
 Returns an  **[EmailOptions](Word.EmailOptions.md)** object that represents the global preferences for e-mail authoring. Read-only.
 

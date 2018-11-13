@@ -1,5 +1,5 @@
 ---
-title: Document.OMathRightMargin Property (Word)
+title: Document.OMathRightMargin property (Word)
 keywords: vbawd10.chm158007828
 f1_keywords:
 - vbawd10.chm158007828
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathRightMargin Property (Word)
+# Document.OMathRightMargin property (Word)
 
 Returns or sets a  **Single** that represents the right margin for equations. Read/write.
 

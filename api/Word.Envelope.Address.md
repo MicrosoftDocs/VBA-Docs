@@ -1,5 +1,5 @@
 ---
-title: Envelope.Address Property (Word)
+title: Envelope.Address property (Word)
 keywords: vbawd10.chm152567809
 f1_keywords:
 - vbawd10.chm152567809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Address Property (Word)
+# Envelope.Address property (Word)
 
 Returns the envelope delivery address as a  **Range** object. Read-only.
 

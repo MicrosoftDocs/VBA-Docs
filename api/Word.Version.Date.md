@@ -1,5 +1,5 @@
 ---
-title: Version.Date Property (Word)
+title: Version.Date property (Word)
 keywords: vbawd10.chm162792429
 f1_keywords:
 - vbawd10.chm162792429
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version.Date Property (Word)
+# Version.Date property (Word)
 
 The date and time that the document version was saved. Read-only  **Date** .
 

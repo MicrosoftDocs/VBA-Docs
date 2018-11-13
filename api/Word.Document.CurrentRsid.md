@@ -1,5 +1,5 @@
 ---
-title: Document.CurrentRsid Property (Word)
+title: Document.CurrentRsid property (Word)
 keywords: vbawd10.chm158007859
 f1_keywords:
 - vbawd10.chm158007859
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CurrentRsid Property (Word)
+# Document.CurrentRsid property (Word)
 
 Returns a  **Long** that represents a random number that Word assigns to changes in a document. Read-only.
 

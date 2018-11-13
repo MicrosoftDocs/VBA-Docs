@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Brightness Property (Word)
+title: ColorFormat.Brightness property (Word)
 keywords: vbawd10.chm163971273
 f1_keywords:
 - vbawd10.chm163971273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Brightness Property (Word)
+# ColorFormat.Brightness property (Word)
 
 Returns a  **Single** that represents the brightness of a specified shape color. Read/write.
 

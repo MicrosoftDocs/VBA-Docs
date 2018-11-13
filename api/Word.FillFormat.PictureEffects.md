@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PictureEffects Property (Word)
+title: FillFormat.PictureEffects property (Word)
 keywords: vbawd10.chm164102266
 f1_keywords:
 - vbawd10.chm164102266
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PictureEffects Property (Word)
+# FillFormat.PictureEffects property (Word)
 
 Returns a [PictureEffects](./Office.PictureEffects.md) object that can be used to apply picture effects to the specified fill formatting. Read-only.
 

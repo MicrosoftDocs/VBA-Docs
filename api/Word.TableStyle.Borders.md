@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Borders Property (Word)
+title: TableStyle.Borders property (Word)
 keywords: vbawd10.chm244776963
 f1_keywords:
 - vbawd10.chm244776963
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Borders Property (Word)
+# TableStyle.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

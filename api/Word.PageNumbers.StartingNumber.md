@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.StartingNumber Property (Word)
+title: PageNumbers.StartingNumber property (Word)
 keywords: vbawd10.chm159776775
 f1_keywords:
 - vbawd10.chm159776775
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.StartingNumber Property (Word)
+# PageNumbers.StartingNumber property (Word)
 
 Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
 

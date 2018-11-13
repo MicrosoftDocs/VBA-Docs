@@ -1,5 +1,5 @@
 ---
-title: Options.SplitCellColor Property (Word)
+title: Options.SplitCellColor property (Word)
 keywords: vbawd10.chm162988499
 f1_keywords:
 - vbawd10.chm162988499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SplitCellColor Property (Word)
+# Options.SplitCellColor property (Word)
 
 Returns or sets a  **WdCellColor** that represents the color for split table cells. Read/write.
 

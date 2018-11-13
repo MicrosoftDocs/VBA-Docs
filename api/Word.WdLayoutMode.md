@@ -1,5 +1,5 @@
 ---
-title: WdLayoutMode Enumeration (Word)
+title: WdLayoutMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLayoutMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLayoutMode Enumeration (Word)
+# WdLayoutMode enumeration (Word)
 
 Specifies how text is laid out in the layout mode for the current document.
 

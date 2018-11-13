@@ -1,5 +1,5 @@
 ---
-title: Application.KeysBoundTo Property (Word)
+title: Application.KeysBoundTo property (Word)
 keywords: vbawd10.chm158335046
 f1_keywords:
 - vbawd10.chm158335046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.KeysBoundTo Property (Word)
+# Application.KeysBoundTo property (Word)
 
 Returns a  **[KeysBoundTo](Word.keysboundto.md)** object that represents all the key combinations assigned to the specified item.
 

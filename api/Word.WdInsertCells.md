@@ -1,5 +1,5 @@
 ---
-title: WdInsertCells Enumeration (Word)
+title: WdInsertCells enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInsertCells
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdInsertCells Enumeration (Word)
+# WdInsertCells enumeration (Word)
 
 Specifies where and what type of cells to add to an existing table.
 

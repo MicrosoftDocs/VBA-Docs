@@ -1,5 +1,5 @@
 ---
-title: InlineShape.LinkFormat Property (Word)
+title: InlineShape.LinkFormat property (Word)
 keywords: vbawd10.chm162004995
 f1_keywords:
 - vbawd10.chm162004995
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.LinkFormat Property (Word)
+# InlineShape.LinkFormat property (Word)
 
 Returns a  **LinkFormat** object that represents the link options of the specified inline shape that is linked to a file. Read/only.
 

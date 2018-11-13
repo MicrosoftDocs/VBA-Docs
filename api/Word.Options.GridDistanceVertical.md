@@ -1,5 +1,5 @@
 ---
-title: Options.GridDistanceVertical Property (Word)
+title: Options.GridDistanceVertical property (Word)
 keywords: vbawd10.chm162988114
 f1_keywords:
 - vbawd10.chm162988114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.GridDistanceVertical Property (Word)
+# Options.GridDistanceVertical property (Word)
 
 Returns or sets the amount of vertical space between the invisible gridlines that Word uses when you draw, move, and resize AutoShapes or East Asian characters in new documents. Read/write  **Single** .
 

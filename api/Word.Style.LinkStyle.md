@@ -1,5 +1,5 @@
 ---
-title: Style.LinkStyle Property (Word)
+title: Style.LinkStyle property (Word)
 keywords: vbawd10.chm153878632
 f1_keywords:
 - vbawd10.chm153878632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.LinkStyle Property (Word)
+# Style.LinkStyle property (Word)
 
 Sets or returns a  **Variant** that represents a link between a paragraph and a character style. Read/write.
 

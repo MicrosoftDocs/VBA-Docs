@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Parent Property (Word)
+title: ReflectionFormat.Parent property (Word)
 keywords: vbawd10.chm67044330
 f1_keywords:
 - vbawd10.chm67044330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Parent Property (Word)
+# ReflectionFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ReflectionFormat** object.
 

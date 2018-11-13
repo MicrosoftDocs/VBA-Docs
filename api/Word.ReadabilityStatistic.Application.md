@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic.Application Property (Word)
+title: ReadabilityStatistic.Application property (Word)
 keywords: vbawd10.chm162464744
 f1_keywords:
 - vbawd10.chm162464744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistic.Application Property (Word)
+# ReadabilityStatistic.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

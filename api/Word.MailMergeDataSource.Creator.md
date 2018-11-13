@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Creator Property (Word)
+title: MailMergeDataSource.Creator property (Word)
 keywords: vbawd10.chm152896489
 f1_keywords:
 - vbawd10.chm152896489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Creator Property (Word)
+# MailMergeDataSource.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

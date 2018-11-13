@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Application Property (Word)
+title: ProtectedViewWindow.Application property (Word)
 keywords: vbawd10.chm231736296
 f1_keywords:
 - vbawd10.chm231736296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Application Property (Word)
+# ProtectedViewWindow.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

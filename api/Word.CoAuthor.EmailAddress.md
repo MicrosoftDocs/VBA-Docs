@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.EmailAddress Property (Word)
+title: CoAuthor.EmailAddress property (Word)
 keywords: vbawd10.chm81068037
 f1_keywords:
 - vbawd10.chm81068037
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthor.EmailAddress Property (Word)
+# CoAuthor.EmailAddress property (Word)
 
 Returns a string that specifies the e-mail address of the specified co author. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.DifferentFirstPageHeaderFooter Property (Word)
+title: PageSetup.DifferentFirstPageHeaderFooter property (Word)
 keywords: vbawd10.chm158400628
 f1_keywords:
 - vbawd10.chm158400628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.DifferentFirstPageHeaderFooter Property (Word)
+# PageSetup.DifferentFirstPageHeaderFooter property (Word)
 
  **True** if a different header or footer is used on the first page. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
 

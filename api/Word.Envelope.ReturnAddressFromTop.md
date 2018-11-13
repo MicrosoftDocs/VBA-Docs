@@ -1,5 +1,5 @@
 ---
-title: Envelope.ReturnAddressFromTop Property (Word)
+title: Envelope.ReturnAddressFromTop property (Word)
 keywords: vbawd10.chm152567824
 f1_keywords:
 - vbawd10.chm152567824
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.ReturnAddressFromTop Property (Word)
+# Envelope.ReturnAddressFromTop property (Word)
 
 Returns or sets the distance (in points) between the top edge of the envelope and the return address. Read/write  **Single** .
 

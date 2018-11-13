@@ -1,5 +1,5 @@
 ---
-title: Shape.Rotation Property (Word)
+title: Shape.Rotation property (Word)
 keywords: vbawd10.chm161480821
 f1_keywords:
 - vbawd10.chm161480821
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Rotation Property (Word)
+# Shape.Rotation property (Word)
 
 Returns or sets the number of degrees the specified shape is rotated around the z-axis. A positive value indicates clockwise rotation; a negative value indicates counterclockwise rotation. Read/write  **Single** .
 

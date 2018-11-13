@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.PictureFormat Property (Word)
+title: ChartFormat.PictureFormat property (Word)
 keywords: vbawd10.chm203030532
 f1_keywords:
 - vbawd10.chm203030532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.PictureFormat Property (Word)
+# ChartFormat.PictureFormat property (Word)
 
 Returns a  **[PictureFormat](Word.PictureFormat.md)** object for a specified chart that contains pictures. Read-only.
 

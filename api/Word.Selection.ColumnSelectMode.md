@@ -1,5 +1,5 @@
 ---
-title: Selection.ColumnSelectMode Property (Word)
+title: Selection.ColumnSelectMode property (Word)
 keywords: vbawd10.chm158663063
 f1_keywords:
 - vbawd10.chm158663063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ColumnSelectMode Property (Word)
+# Selection.ColumnSelectMode property (Word)
 
  **True** if column selection mode is active. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdFramesetSizeType Enumeration (Word)
+title: WdFramesetSizeType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramesetSizeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFramesetSizeType Enumeration (Word)
+# WdFramesetSizeType enumeration (Word)
 
 Specifies how to interpret the height or width of a specified frame on a frames page.
 

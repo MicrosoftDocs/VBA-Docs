@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.QueryString Property (Word)
+title: MailMergeDataSource.QueryString property (Word)
 keywords: vbawd10.chm152895494
 f1_keywords:
 - vbawd10.chm152895494
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.QueryString Property (Word)
+# MailMergeDataSource.QueryString property (Word)
 
 Returns or sets the query string (SQL statement) used to retrieve a subset of the data in a mail merge data source. Read/write  **String** .
 

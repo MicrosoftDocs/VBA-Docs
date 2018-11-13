@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Parent Property (Word)
+title: CoAuthoring.Parent property (Word)
 keywords: vbawd10.chm254870506
 f1_keywords:
 - vbawd10.chm254870506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Parent Property (Word)
+# CoAuthoring.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **[CoAuthoring](Word.CoAuthoring.md)** object.
 

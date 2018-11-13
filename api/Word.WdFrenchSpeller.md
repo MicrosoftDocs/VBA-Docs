@@ -1,5 +1,5 @@
 ---
-title: WdFrenchSpeller Enumeration (Word)
+title: WdFrenchSpeller enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFrenchSpeller
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFrenchSpeller Enumeration (Word)
+# WdFrenchSpeller enumeration (Word)
 
 Indicates which version of French to use when using the French language spelling checker dictionaries.
 

@@ -1,5 +1,5 @@
 ---
-title: WdWordDialog Enumeration (Word)
+title: WdWordDialog enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWordDialog
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWordDialog Enumeration (Word)
+# WdWordDialog enumeration (Word)
 
 Indicates the Microsoft Word dialog boxes with which you can work and specifies arguments, if applicable, that you can use to get or set values in a dialog box.
 

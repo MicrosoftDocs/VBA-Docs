@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartArea Property (Word)
+title: Chart.ChartArea property (Word)
 keywords: vbawd10.chm79364157
 f1_keywords:
 - vbawd10.chm79364157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartArea Property (Word)
+# Chart.ChartArea property (Word)
 
 Returns the complete chart area for the chart. Read-only  **[ChartArea](Word.ChartArea.md)** .
 

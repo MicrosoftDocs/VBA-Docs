@@ -1,5 +1,5 @@
 ---
-title: Frame.HeightRule Property (Word)
+title: Frame.HeightRule property (Word)
 keywords: vbawd10.chm153747457
 f1_keywords:
 - vbawd10.chm153747457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.HeightRule Property (Word)
+# Frame.HeightRule property (Word)
 
 Returns or sets a  **WdFrameSizeRule** that represents the rule for determining the height of the specified frame. Read/write.
 

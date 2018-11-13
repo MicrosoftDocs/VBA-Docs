@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.Creator Property (Word)
+title: AutoCorrectEntries.Creator property (Word)
 keywords: vbawd10.chm155714537
 f1_keywords:
 - vbawd10.chm155714537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.Creator Property (Word)
+# AutoCorrectEntries.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

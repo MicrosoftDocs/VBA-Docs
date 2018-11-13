@@ -1,5 +1,5 @@
 ---
-title: Series.Smooth Property (Word)
+title: Series.Smooth property (Word)
 keywords: vbawd10.chm123732131
 f1_keywords:
 - vbawd10.chm123732131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Smooth Property (Word)
+# Series.Smooth property (Word)
 
  **True** if curve smoothing is enabled for the line chart or scatter chart. Read/write **Boolean** .
 

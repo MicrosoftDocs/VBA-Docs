@@ -1,5 +1,5 @@
 ---
-title: Font.StylisticSet Property (Word)
+title: Font.StylisticSet property (Word)
 keywords: vbawd10.chm156369074
 f1_keywords:
 - vbawd10.chm156369074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.StylisticSet Property (Word)
+# Font.StylisticSet property (Word)
 
 Specifies the stylistic set for the specified font. Read/write [WdStylisticSet](Word.WdStylisticSet.md).
 

@@ -1,5 +1,5 @@
 ---
-title: Task.Application Property (Word)
+title: Task.Application property (Word)
 keywords: vbawd10.chm159515624
 f1_keywords:
 - vbawd10.chm159515624
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Application Property (Word)
+# Task.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

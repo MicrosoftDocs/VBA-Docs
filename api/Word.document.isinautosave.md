@@ -1,5 +1,5 @@
 ---
-title: Document.IsInAutosave Property (Word)
+title: Document.IsInAutosave property (Word)
 keywords: vbawd10.chm158007915
 f1_keywords:
 - vbawd10.chm158007915
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.IsInAutosave Property (Word)
+# Document.IsInAutosave property (Word)
 
 Returns  **False** if the most recent firing of the [Application.DocumentBeforeSave Event (Word)](Word.Application.DocumentBeforeSave.md) event was the result of a manual save by the user, and not an automatic save. Read-only.
 

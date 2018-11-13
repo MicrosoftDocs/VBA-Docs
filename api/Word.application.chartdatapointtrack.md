@@ -1,5 +1,5 @@
 ---
-title: Application.ChartDataPointTrack Property (Word)
+title: Application.ChartDataPointTrack property (Word)
 keywords: vbawd10.chm158335470
 f1_keywords:
 - vbawd10.chm158335470
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ChartDataPointTrack Property (Word)
+# Application.ChartDataPointTrack property (Word)
 
 Returns or sets a  **Boolean** that specifies whether charts use cell-reference data-point tracking. Read-write.
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.RightAlignPageNumbers Property (Word)
+title: TableOfFigures.RightAlignPageNumbers property (Word)
 keywords: vbawd10.chm153157635
 f1_keywords:
 - vbawd10.chm153157635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.RightAlignPageNumbers Property (Word)
+# TableOfFigures.RightAlignPageNumbers property (Word)
 
  **True** if page numbers are aligned with the right margin in an table of figures. Read/write **Boolean** .
 

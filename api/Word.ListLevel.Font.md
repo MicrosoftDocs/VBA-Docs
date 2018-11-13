@@ -1,5 +1,5 @@
 ---
-title: ListLevel.Font Property (Word)
+title: ListLevel.Font property (Word)
 keywords: vbawd10.chm160235532
 f1_keywords:
 - vbawd10.chm160235532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.Font Property (Word)
+# ListLevel.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
 

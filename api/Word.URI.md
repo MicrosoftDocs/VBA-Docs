@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.URI Property (Word)
+title: XMLNamespace.URI property (Word)
 keywords: vbawd10.chm2293762
 f1_keywords:
 - vbawd10.chm2293762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.URI Property (Word)
+# XMLNamespace.URI property (Word)
 
 Returns a  **String** that represents the Uniform Resource Identifier (URI) of the associated namespace.
 

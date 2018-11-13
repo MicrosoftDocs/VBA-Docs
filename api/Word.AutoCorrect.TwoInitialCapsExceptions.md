@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.TwoInitialCapsExceptions Property (Word)
+title: AutoCorrect.TwoInitialCapsExceptions property (Word)
 keywords: vbawd10.chm155779081
 f1_keywords:
 - vbawd10.chm155779081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.TwoInitialCapsExceptions Property (Word)
+# AutoCorrect.TwoInitialCapsExceptions property (Word)
 
 Returns a  **[TwoInitialCapsExceptions](Word.twoinitialcapsexceptions.md)** collection that represents the list of terms containing mixed capitalization that Word won't correct automatically.
 

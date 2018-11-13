@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Count Property (Word)
+title: ListEntries.Count property (Word)
 keywords: vbawd10.chm153354241
 f1_keywords:
 - vbawd10.chm153354241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntries.Count Property (Word)
+# ListEntries.Count property (Word)
 
 Returns a  **Long** that represents the number of list entries in the collection. Read-only.
 

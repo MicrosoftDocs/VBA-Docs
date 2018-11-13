@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.RecordCount Property (Word)
+title: MailMergeDataSource.RecordCount property (Word)
 keywords: vbawd10.chm152895500
 f1_keywords:
 - vbawd10.chm152895500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.RecordCount Property (Word)
+# MailMergeDataSource.RecordCount property (Word)
 
 Returns a  **Long** that represents the number of records in the data source. Read-only.
 

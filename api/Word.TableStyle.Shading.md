@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Shading Property (Word)
+title: TableStyle.Shading property (Word)
 keywords: vbawd10.chm244776975
 f1_keywords:
 - vbawd10.chm244776975
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Shading Property (Word)
+# TableStyle.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified table style.
 

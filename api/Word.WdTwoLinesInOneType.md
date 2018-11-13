@@ -1,5 +1,5 @@
 ---
-title: WdTwoLinesInOneType Enumeration (Word)
+title: WdTwoLinesInOneType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTwoLinesInOneType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTwoLinesInOneType Enumeration (Word)
+# WdTwoLinesInOneType enumeration (Word)
 
 Specifies the character to use to enclose two lines being written into one.
 

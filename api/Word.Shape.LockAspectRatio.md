@@ -1,5 +1,5 @@
 ---
-title: Shape.LockAspectRatio Property (Word)
+title: Shape.LockAspectRatio property (Word)
 keywords: vbawd10.chm161480817
 f1_keywords:
 - vbawd10.chm161480817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.LockAspectRatio Property (Word)
+# Shape.LockAspectRatio property (Word)
 
  **MsoTrue** if the specified shape retains its original proportions when you resize it. **MsoFalse** if you can change the height and width of the shape independently of one another when you resize it. Read/write **MsoTriState** .
 

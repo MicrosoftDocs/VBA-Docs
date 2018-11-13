@@ -1,12 +1,12 @@
 ---
-title: xlDisplayBlanksAs Enumeration (Word)
+title: xlDisplayBlanksAs enumeration (Word)
 ms.prod: word
 ms.assetid: 58ff67ef-2ec3-a599-cb8f-1393215cb07a
 ms.date: 06/08/2017
 ---
 
 
-# xlDisplayBlanksAs Enumeration (Word)
+# xlDisplayBlanksAs enumeration (Word)
 
 Specifies how blank cells are plotted on a chart.
 

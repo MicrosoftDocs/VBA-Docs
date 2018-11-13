@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UpperHeadingLevel Property (Word)
+title: TableOfFigures.UpperHeadingLevel property (Word)
 keywords: vbawd10.chm153157638
 f1_keywords:
 - vbawd10.chm153157638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.UpperHeadingLevel Property (Word)
+# TableOfFigures.UpperHeadingLevel property (Word)
 
 Returns or sets the starting heading level for a table of figures. Read/write  **Long** .
 

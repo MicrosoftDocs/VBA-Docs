@@ -1,5 +1,5 @@
 ---
-title: Table.Style Property (Word)
+title: Table.Style property (Word)
 keywords: vbawd10.chm156303561
 f1_keywords:
 - vbawd10.chm156303561
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Style Property (Word)
+# Table.Style property (Word)
 
 Returns or sets the style for the specified table. Read/write  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Position Property (Word)
+title: AxisTitle.Position property (Word)
 keywords: vbawd10.chm98240135
 f1_keywords:
 - vbawd10.chm98240135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Position Property (Word)
+# AxisTitle.Position property (Word)
 
 Returns or sets the position of the axis title on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)** .
 

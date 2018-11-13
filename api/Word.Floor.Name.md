@@ -1,5 +1,5 @@
 ---
-title: Floor.Name Property (Word)
+title: Floor.Name property (Word)
 keywords: vbawd10.chm46006382
 f1_keywords:
 - vbawd10.chm46006382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Name Property (Word)
+# Floor.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

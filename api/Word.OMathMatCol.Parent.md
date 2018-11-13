@@ -1,5 +1,5 @@
 ---
-title: OMathMatCol.Parent Property (Word)
+title: OMathMatCol.Parent property (Word)
 keywords: vbawd10.chm24445030
 f1_keywords:
 - vbawd10.chm24445030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCol.Parent Property (Word)
+# OMathMatCol.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathMatCol** object.
 

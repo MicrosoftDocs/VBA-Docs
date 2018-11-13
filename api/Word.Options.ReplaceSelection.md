@@ -1,5 +1,5 @@
 ---
-title: Options.ReplaceSelection Property (Word)
+title: Options.ReplaceSelection property (Word)
 keywords: vbawd10.chm162988099
 f1_keywords:
 - vbawd10.chm162988099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ReplaceSelection Property (Word)
+# Options.ReplaceSelection property (Word)
 
  **True** if the result of typing or pasting replaces the selection. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Locked Property (Word)
+title: MailMergeField.Locked property (Word)
 keywords: vbawd10.chm152961027
 f1_keywords:
 - vbawd10.chm152961027
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Locked Property (Word)
+# MailMergeField.Locked property (Word)
 
  **True** if the specified field is locked. Read/write **Boolean** .
 

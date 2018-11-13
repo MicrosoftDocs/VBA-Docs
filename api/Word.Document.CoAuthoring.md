@@ -1,5 +1,5 @@
 ---
-title: Document.CoAuthoring Property (Word)
+title: Document.CoAuthoring property (Word)
 keywords: vbawd10.chm158007896
 f1_keywords:
 - vbawd10.chm158007896
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CoAuthoring Property (Word)
+# Document.CoAuthoring property (Word)
 
 Returns a [CoAuthoring](Word.CoAuthoring.md) object that provides the entry point into the co authoring object model. Read-only.
 

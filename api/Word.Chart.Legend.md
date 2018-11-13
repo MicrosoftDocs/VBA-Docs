@@ -1,5 +1,5 @@
 ---
-title: Chart.Legend Property (Word)
+title: Chart.Legend property (Word)
 keywords: vbawd10.chm79364180
 f1_keywords:
 - vbawd10.chm79364180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Legend Property (Word)
+# Chart.Legend property (Word)
 
 Returns the legend for the chart. Read-only  **[Legend](Word.Legend.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.PathFormat Property (Word)
+title: TextFrame.PathFormat property (Word)
 keywords: vbawd10.chm162665365
 f1_keywords:
 - vbawd10.chm162665365
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.PathFormat Property (Word)
+# TextFrame.PathFormat property (Word)
 
 Returns or sets the path type for the specified text frame. Read/write  **MsoPathType** .
 

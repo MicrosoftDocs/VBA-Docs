@@ -1,5 +1,5 @@
 ---
-title: Languages.Parent Property (Word)
+title: Languages.Parent property (Word)
 keywords: vbawd10.chm158204906
 f1_keywords:
 - vbawd10.chm158204906
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Languages.Parent Property (Word)
+# Languages.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Languages** object.
 

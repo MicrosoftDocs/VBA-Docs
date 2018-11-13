@@ -1,5 +1,5 @@
 ---
-title: TextInput.Valid Property (Word)
+title: TextInput.Valid property (Word)
 keywords: vbawd10.chm153550848
 f1_keywords:
 - vbawd10.chm153550848
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Valid Property (Word)
+# TextInput.Valid property (Word)
 
  **True** if the specified form field object is a valid check box form field. Read-only **Boolean** . .
 

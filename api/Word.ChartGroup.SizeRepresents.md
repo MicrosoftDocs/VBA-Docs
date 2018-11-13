@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SizeRepresents Property (Word)
+title: ChartGroup.SizeRepresents property (Word)
 keywords: vbawd10.chm263454754
 f1_keywords:
 - vbawd10.chm263454754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SizeRepresents Property (Word)
+# ChartGroup.SizeRepresents property (Word)
 
 Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long** .
 

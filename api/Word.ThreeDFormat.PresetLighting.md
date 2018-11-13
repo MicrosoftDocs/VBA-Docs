@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLighting Property (Word)
+title: ThreeDFormat.PresetLighting property (Word)
 keywords: vbawd10.chm164626544
 f1_keywords:
 - vbawd10.chm164626544
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLighting Property (Word)
+# ThreeDFormat.PresetLighting property (Word)
 
 Returns or sets an  **MsoBevelType** constant that represents the lighting preset. Read/write.
 

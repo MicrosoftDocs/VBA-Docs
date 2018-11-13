@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnitIsAuto Property (Word)
+title: Axis.MajorUnitIsAuto property (Word)
 keywords: vbawd10.chm113049626
 f1_keywords:
 - vbawd10.chm113049626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorUnitIsAuto Property (Word)
+# Axis.MajorUnitIsAuto property (Word)
 
  **True** if Microsoft Word calculates the major units for the value axis. Read/write **Boolean** .
 

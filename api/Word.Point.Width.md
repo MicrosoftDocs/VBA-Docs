@@ -1,5 +1,5 @@
 ---
-title: Point.Width Property (Word)
+title: Point.Width property (Word)
 keywords: vbawd10.chm262146653
 f1_keywords:
 - vbawd10.chm262146653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Width Property (Word)
+# Point.Width property (Word)
 
 Returns the width, in points, of the object. Read-only.
 

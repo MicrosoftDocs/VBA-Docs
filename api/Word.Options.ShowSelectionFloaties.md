@@ -1,5 +1,5 @@
 ---
-title: Options.ShowSelectionFloaties Property (Word)
+title: Options.ShowSelectionFloaties property (Word)
 keywords: vbawd10.chm162988500
 f1_keywords:
 - vbawd10.chm162988500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowSelectionFloaties Property (Word)
+# Options.ShowSelectionFloaties property (Word)
 
 Returns or sets a  **Boolean** that represents whether mini toolbars display when a user selects text. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.Border Property (Word)
+title: Axis.Border property (Word)
 keywords: vbawd10.chm113049678
 f1_keywords:
 - vbawd10.chm113049678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Border Property (Word)
+# Axis.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

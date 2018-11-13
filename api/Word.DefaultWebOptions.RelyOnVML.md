@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.RelyOnVML Property (Word)
+title: DefaultWebOptions.RelyOnVML property (Word)
 keywords: vbawd10.chm165871625
 f1_keywords:
 - vbawd10.chm165871625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.RelyOnVML Property (Word)
+# DefaultWebOptions.RelyOnVML property (Word)
 
  **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False** . Read/write **Boolean** .
 

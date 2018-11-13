@@ -1,5 +1,5 @@
 ---
-title: WdCompatibility Enumeration (Word)
+title: WdCompatibility enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompatibility
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCompatibility Enumeration (Word)
+# WdCompatibility enumeration (Word)
 
 Specifies a compatibility option.
 

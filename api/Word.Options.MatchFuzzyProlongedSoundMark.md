@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyProlongedSoundMark Property (Word)
+title: Options.MatchFuzzyProlongedSoundMark property (Word)
 keywords: vbawd10.chm162988349
 f1_keywords:
 - vbawd10.chm162988349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyProlongedSoundMark Property (Word)
+# Options.MatchFuzzyProlongedSoundMark property (Word)
 
  **True** if Microsoft Word ignores the distinction between short and long vowel sounds during a search. Read/write **Boolean** .
 

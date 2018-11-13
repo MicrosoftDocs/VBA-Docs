@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TextColumns Property (Word)
+title: PageSetup.TextColumns property (Word)
 keywords: vbawd10.chm158400631
 f1_keywords:
 - vbawd10.chm158400631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.TextColumns Property (Word)
+# PageSetup.TextColumns property (Word)
 
 Returns a  **[TextColumns](Word(textcolumns).md)** collection that represents the set of text columns for the specified **PageSetup** object.
 

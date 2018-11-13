@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideLeft Property (Word)
+title: PlotArea.InsideLeft property (Word)
 keywords: vbawd10.chm53479043
 f1_keywords:
 - vbawd10.chm53479043
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideLeft Property (Word)
+# PlotArea.InsideLeft property (Word)
 
 Returns or sets the distance, in points, from the chart edge to the inside left edge of the plot area. Read/write  **Double** .
 

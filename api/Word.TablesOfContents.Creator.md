@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Creator Property (Word)
+title: TablesOfContents.Creator property (Word)
 keywords: vbawd10.chm152306665
 f1_keywords:
 - vbawd10.chm152306665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents.Creator Property (Word)
+# TablesOfContents.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

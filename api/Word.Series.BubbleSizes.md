@@ -1,5 +1,5 @@
 ---
-title: Series.BubbleSizes Property (Word)
+title: Series.BubbleSizes property (Word)
 keywords: vbawd10.chm123733632
 f1_keywords:
 - vbawd10.chm123733632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.BubbleSizes Property (Word)
+# Series.BubbleSizes property (Word)
 
 Returns or sets a string that refers to the worksheet cells that contain the x-value, y-value, and size data for the bubble chart. Read/write  **Variant** .
 

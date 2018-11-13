@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.Found Property (Word)
+title: SynonymInfo.Found property (Word)
 keywords: vbawd10.chm161153026
 f1_keywords:
 - vbawd10.chm161153026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.Found Property (Word)
+# SynonymInfo.Found property (Word)
 
  **True** if the thesaurus finds synonyms, antonyms, related words, or related expressions for the word or phrase. Read-only **Boolean** .
 

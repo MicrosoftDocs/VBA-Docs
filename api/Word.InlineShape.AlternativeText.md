@@ -1,5 +1,5 @@
 ---
-title: InlineShape.AlternativeText Property (Word)
+title: InlineShape.AlternativeText property (Word)
 keywords: vbawd10.chm162005123
 f1_keywords:
 - vbawd10.chm162005123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.AlternativeText Property (Word)
+# InlineShape.AlternativeText property (Word)
 
 Returns or sets a  **String** that represents the alternative text associated with a shape in a Web page. Read/write.
 

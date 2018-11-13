@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ClassType Property (Word)
+title: OLEFormat.ClassType property (Word)
 keywords: vbawd10.chm154337282
 f1_keywords:
 - vbawd10.chm154337282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.ClassType Property (Word)
+# OLEFormat.ClassType property (Word)
 
 Returns or sets the class type for the specified OLE object, picture, or field. Read/write  **String** .
 

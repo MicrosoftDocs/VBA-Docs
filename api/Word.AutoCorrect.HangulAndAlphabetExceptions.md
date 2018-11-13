@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.HangulAndAlphabetExceptions Property (Word)
+title: AutoCorrect.HangulAndAlphabetExceptions property (Word)
 keywords: vbawd10.chm155779085
 f1_keywords:
 - vbawd10.chm155779085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.HangulAndAlphabetExceptions Property (Word)
+# AutoCorrect.HangulAndAlphabetExceptions property (Word)
 
 Returns a  **[HangulAndAlphabetExceptions](Word.hangulandalphabetexceptions.md)** collection that represents the list of Hangul and alphabet AutoCorrect exceptions.
 

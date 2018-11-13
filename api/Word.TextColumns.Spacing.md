@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Spacing Property (Word)
+title: TextColumns.Spacing property (Word)
 keywords: vbawd10.chm158531687
 f1_keywords:
 - vbawd10.chm158531687
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Spacing Property (Word)
+# TextColumns.Spacing property (Word)
 
 Returns or sets the spacing (in points) between columns. Read/write  **Single** .
 

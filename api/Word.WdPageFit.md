@@ -1,5 +1,5 @@
 ---
-title: WdPageFit Enumeration (Word)
+title: WdPageFit enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageFit
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPageFit Enumeration (Word)
+# WdPageFit enumeration (Word)
 
 Specifies the view setting for a page.
 

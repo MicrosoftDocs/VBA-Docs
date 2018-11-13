@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientAngle Property (Word)
+title: FillFormat.GradientAngle property (Word)
 keywords: vbawd10.chm164102267
 f1_keywords:
 - vbawd10.chm164102267
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientAngle Property (Word)
+# FillFormat.GradientAngle property (Word)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write.
 

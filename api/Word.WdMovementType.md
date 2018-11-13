@@ -1,5 +1,5 @@
 ---
-title: WdMovementType Enumeration (Word)
+title: WdMovementType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMovementType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMovementType Enumeration (Word)
+# WdMovementType enumeration (Word)
 
 Specifies the way the selection is moved.
 

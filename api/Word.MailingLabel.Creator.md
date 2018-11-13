@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.Creator Property (Word)
+title: MailingLabel.Creator property (Word)
 keywords: vbawd10.chm152503273
 f1_keywords:
 - vbawd10.chm152503273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.Creator Property (Word)
+# MailingLabel.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

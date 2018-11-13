@@ -1,5 +1,5 @@
 ---
-title: ListLevels.Parent Property (Word)
+title: ListLevels.Parent property (Word)
 keywords: vbawd10.chm160302058
 f1_keywords:
 - vbawd10.chm160302058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevels.Parent Property (Word)
+# ListLevels.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ListLevels** object.
 

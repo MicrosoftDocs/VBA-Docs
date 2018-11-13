@@ -1,5 +1,5 @@
 ---
-title: Series.ChartType Property (Word)
+title: Series.ChartType property (Word)
 keywords: vbawd10.chm123733368
 f1_keywords:
 - vbawd10.chm123733368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ChartType Property (Word)
+# Series.ChartType property (Word)
 
 Returns or sets the chart type. Read/write  **[XlChartType](./Excel.XlChartType.md)** .
 

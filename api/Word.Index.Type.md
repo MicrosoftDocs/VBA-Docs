@@ -1,5 +1,5 @@
 ---
-title: Index.Type Property (Word)
+title: Index.Type property (Word)
 keywords: vbawd10.chm159186947
 f1_keywords:
 - vbawd10.chm159186947
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Type Property (Word)
+# Index.Type property (Word)
 
 Returns or sets the index type. Read/write  **[WdIndexType](Word.WdIndexType.md)** .
 

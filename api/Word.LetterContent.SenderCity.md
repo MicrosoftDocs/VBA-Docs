@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderCity Property (Word)
+title: LetterContent.SenderCity property (Word)
 keywords: vbawd10.chm161546369
 f1_keywords:
 - vbawd10.chm161546369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderCity Property (Word)
+# LetterContent.SenderCity property (Word)
 
 Returns or sets the sender's city. Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
 

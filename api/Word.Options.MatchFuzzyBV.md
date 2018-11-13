@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyBV Property (Word)
+title: Options.MatchFuzzyBV property (Word)
 keywords: vbawd10.chm162988351
 f1_keywords:
 - vbawd10.chm162988351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyBV Property (Word)
+# Options.MatchFuzzyBV property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe143_ZA06051648.gif)" and "

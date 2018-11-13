@@ -1,5 +1,5 @@
 ---
-title: Selection.Flags Property (Word)
+title: Selection.Flags property (Word)
 keywords: vbawd10.chm158663058
 f1_keywords:
 - vbawd10.chm158663058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Flags Property (Word)
+# Selection.Flags property (Word)
 
 Returns or sets properties of the selection. Read/write  **WdSelectionFlags** .
 

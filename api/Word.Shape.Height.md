@@ -1,5 +1,5 @@
 ---
-title: Shape.Height Property (Word)
+title: Shape.Height property (Word)
 keywords: vbawd10.chm161480813
 f1_keywords:
 - vbawd10.chm161480813
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Height Property (Word)
+# Shape.Height property (Word)
 
 Returns or sets the height (in points) of the specified shape. Read/write  **Single** .
 

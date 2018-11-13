@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Orientation Property (Word)
+title: AxisTitle.Orientation property (Word)
 keywords: vbawd10.chm98238472
 f1_keywords:
 - vbawd10.chm98238472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Orientation Property (Word)
+# AxisTitle.Orientation property (Word)
 
 Returns or sets the text orientation. Read/write  **Long** .
 

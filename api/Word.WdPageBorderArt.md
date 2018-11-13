@@ -1,5 +1,5 @@
 ---
-title: WdPageBorderArt Enumeration (Word)
+title: WdPageBorderArt enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageBorderArt
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPageBorderArt Enumeration (Word)
+# WdPageBorderArt enumeration (Word)
 
 Specifies the graphical page border setting of a page.
 

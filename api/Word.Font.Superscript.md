@@ -1,5 +1,5 @@
 ---
-title: Font.Superscript Property (Word)
+title: Font.Superscript property (Word)
 keywords: vbawd10.chm156369035
 f1_keywords:
 - vbawd10.chm156369035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Superscript Property (Word)
+# Font.Superscript property (Word)
 
  **True** if the font is formatted as superscript. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdBuiltInProperty Enumeration (Word)
+title: WdBuiltInProperty enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBuiltInProperty
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBuiltInProperty Enumeration (Word)
+# WdBuiltInProperty enumeration (Word)
 
 Specifies a built-in document property.
 

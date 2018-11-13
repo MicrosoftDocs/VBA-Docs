@@ -1,5 +1,5 @@
 ---
-title: Document.Lists Property (Word)
+title: Document.Lists property (Word)
 keywords: vbawd10.chm158007360
 f1_keywords:
 - vbawd10.chm158007360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Lists Property (Word)
+# Document.Lists property (Word)
 
 Returns a  **[Lists](Word.lists.md)** collection that contains all the formatted lists in the specified document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdDocPartInsertOptions Enumeration (Word)
+title: WdDocPartInsertOptions enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocPartInsertOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocPartInsertOptions Enumeration (Word)
+# WdDocPartInsertOptions enumeration (Word)
 
 Specifies how a building block is inserted into a document.
 

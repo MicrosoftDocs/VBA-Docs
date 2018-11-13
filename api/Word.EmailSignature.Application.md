@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.Application Property (Word)
+title: EmailSignature.Application property (Word)
 keywords: vbawd10.chm165412964
 f1_keywords:
 - vbawd10.chm165412964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.Application Property (Word)
+# EmailSignature.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

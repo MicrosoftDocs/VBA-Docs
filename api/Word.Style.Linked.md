@@ -1,5 +1,5 @@
 ---
-title: Style.Linked Property (Word)
+title: Style.Linked property (Word)
 keywords: vbawd10.chm153878554
 f1_keywords:
 - vbawd10.chm153878554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Linked Property (Word)
+# Style.Linked property (Word)
 
 Returns a **Boolean** that represents whether a style is a linked style that can be used for both paragraph and character formatting. Read-only.
 

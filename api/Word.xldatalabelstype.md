@@ -1,12 +1,12 @@
 ---
-title: xlDataLabelsType Enumeration (Word)
+title: xlDataLabelsType enumeration (Word)
 ms.prod: word
 ms.assetid: 66b0b21f-7f33-0fbd-6d24-db722109d330
 ms.date: 06/08/2017
 ---
 
 
-# xlDataLabelsType Enumeration (Word)
+# xlDataLabelsType enumeration (Word)
 
 Specifies the type of data label to apply.
 

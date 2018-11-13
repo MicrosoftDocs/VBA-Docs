@@ -1,5 +1,5 @@
 ---
-title: DropLines.Parent Property (Word)
+title: DropLines.Parent property (Word)
 keywords: vbawd10.chm104988674
 f1_keywords:
 - vbawd10.chm104988674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Parent Property (Word)
+# DropLines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

@@ -1,5 +1,5 @@
 ---
-title: Columns.Width Property (Word)
+title: Columns.Width property (Word)
 keywords: vbawd10.chm155910147
 f1_keywords:
 - vbawd10.chm155910147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Width Property (Word)
+# Columns.Width property (Word)
 
 Returns or sets the width of the specified columns, in points. Read/write  **Long** .
 

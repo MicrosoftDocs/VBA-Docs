@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Name Property (Word)
+title: CustomProperty.Name property (Word)
 keywords: vbawd10.chm232783873
 f1_keywords:
 - vbawd10.chm232783873
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Name Property (Word)
+# CustomProperty.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

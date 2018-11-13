@@ -1,5 +1,5 @@
 ---
-title: WdMergeSubType Enumeration (Word)
+title: WdMergeSubType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMergeSubType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMergeSubType Enumeration (Word)
+# WdMergeSubType enumeration (Word)
 
 Specifies the data source to be attached to the current document.
 

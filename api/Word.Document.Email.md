@@ -1,5 +1,5 @@
 ---
-title: Document.Email Property (Word)
+title: Document.Email property (Word)
 keywords: vbawd10.chm158007615
 f1_keywords:
 - vbawd10.chm158007615
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Email Property (Word)
+# Document.Email property (Word)
 
 Returns an  **[Email](Word.Email.md)** object that contains all the e-mail-related properties of the current document. Read-only.
 

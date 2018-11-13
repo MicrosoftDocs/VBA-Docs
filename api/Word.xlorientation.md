@@ -1,12 +1,12 @@
 ---
-title: xlOrientation Enumeration (Word)
+title: xlOrientation enumeration (Word)
 ms.prod: word
 ms.assetid: 28baaaa4-3ac7-350e-512c-e6f8c5651486
 ms.date: 06/08/2017
 ---
 
 
-# xlOrientation Enumeration (Word)
+# xlOrientation enumeration (Word)
 
 Specifies the text orientation.
 

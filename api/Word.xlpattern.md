@@ -1,12 +1,12 @@
 ---
-title: xlPattern Enumeration (Word)
+title: xlPattern enumeration (Word)
 ms.prod: word
 ms.assetid: 743430eb-203e-7446-818e-79bbcd186b0e
 ms.date: 06/08/2017
 ---
 
 
-# xlPattern Enumeration (Word)
+# xlPattern enumeration (Word)
 
 Specifies the interior pattern of a chart or interior object.
 

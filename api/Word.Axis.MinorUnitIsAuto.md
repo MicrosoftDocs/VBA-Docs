@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnitIsAuto Property (Word)
+title: Axis.MinorUnitIsAuto property (Word)
 keywords: vbawd10.chm113049641
 f1_keywords:
 - vbawd10.chm113049641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorUnitIsAuto Property (Word)
+# Axis.MinorUnitIsAuto property (Word)
 
  **True** if Microsoft Word calculates minor units for the value axis. Read/write **Boolean** .
 

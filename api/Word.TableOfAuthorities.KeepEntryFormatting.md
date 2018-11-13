@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.KeepEntryFormatting Property (Word)
+title: TableOfAuthorities.KeepEntryFormatting property (Word)
 keywords: vbawd10.chm152109058
 f1_keywords:
 - vbawd10.chm152109058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.KeepEntryFormatting Property (Word)
+# TableOfAuthorities.KeepEntryFormatting property (Word)
 
  **True** if formatting from table of authorities entries is applied to the entries in the specified table of authorities. Read/write **Boolean** .
 

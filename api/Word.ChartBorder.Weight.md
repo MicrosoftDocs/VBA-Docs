@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Weight Property (Word)
+title: ChartBorder.Weight property (Word)
 keywords: vbawd10.chm61014022
 f1_keywords:
 - vbawd10.chm61014022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartBorder.Weight Property (Word)
+# ChartBorder.Weight property (Word)
 
 Returns or sets the weight of the border. Read/write  **[XlBorderWeight](Word.xlborderweight.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Borders.JoinBorders Property (Word)
+title: Borders.JoinBorders property (Word)
 keywords: vbawd10.chm154927130
 f1_keywords:
 - vbawd10.chm154927130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.JoinBorders Property (Word)
+# Borders.JoinBorders property (Word)
 
  **True** if vertical borders at the edges of paragraphs and tables are removed so that the horizontal borders can connect to the page border. Read/write **Boolean** .
 

@@ -1,12 +1,12 @@
 ---
-title: xlChartSplitType Enumeration (Word)
+title: xlChartSplitType enumeration (Word)
 ms.prod: word
 ms.assetid: 8305530b-c62d-acaf-9b74-8c67797e2339
 ms.date: 06/08/2017
 ---
 
 
-# xlChartSplitType Enumeration (Word)
+# xlChartSplitType enumeration (Word)
 
 Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
 

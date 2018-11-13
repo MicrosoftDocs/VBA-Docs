@@ -1,5 +1,5 @@
 ---
-title: OMathFunc.E Property (Word)
+title: OMathFunc.E property (Word)
 keywords: vbawd10.chm182386792
 f1_keywords:
 - vbawd10.chm182386792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunc.E Property (Word)
+# OMathFunc.E property (Word)
 
 Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
 

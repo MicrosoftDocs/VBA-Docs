@@ -1,5 +1,5 @@
 ---
-title: Selection.Rows Property (Word)
+title: Selection.Rows property (Word)
 keywords: vbawd10.chm158662959
 f1_keywords:
 - vbawd10.chm158662959
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Rows Property (Word)
+# Selection.Rows property (Word)
 
 Returns a  **[Rows](Word.rows.md)** collection that represents all the table rows in a range, selection, or table. Read-only.
 

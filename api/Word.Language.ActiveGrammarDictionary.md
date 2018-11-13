@@ -1,5 +1,5 @@
 ---
-title: Language.ActiveGrammarDictionary Property (Word)
+title: Language.ActiveGrammarDictionary property (Word)
 keywords: vbawd10.chm158138381
 f1_keywords:
 - vbawd10.chm158138381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.ActiveGrammarDictionary Property (Word)
+# Language.ActiveGrammarDictionary property (Word)
 
 Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active grammar dictionary for the specified language. Read-only.
 

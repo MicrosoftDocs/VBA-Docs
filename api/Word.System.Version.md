@@ -1,5 +1,5 @@
 ---
-title: System.Version Property (Word)
+title: System.Version property (Word)
 keywords: vbawd10.chm154468355
 f1_keywords:
 - vbawd10.chm154468355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.Version Property (Word)
+# System.Version property (Word)
 
 Returns the version number of the operating system. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (Word)
+title: Chart.HasAxis property (Word)
 keywords: vbawd10.chm79364150
 f1_keywords:
 - vbawd10.chm79364150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasAxis Property (Word)
+# Chart.HasAxis property (Word)
 
 Returns or sets which axes exist on the chart. Read/write  **Variant** .
 

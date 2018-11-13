@@ -1,5 +1,5 @@
 ---
-title: WdStyleSheetPrecedence Enumeration (Word)
+title: WdStyleSheetPrecedence enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStyleSheetPrecedence
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStyleSheetPrecedence Enumeration (Word)
+# WdStyleSheetPrecedence enumeration (Word)
 
 Specifies the level of importance of a style sheet compared with other cascading style sheets attached to the Web document.
 

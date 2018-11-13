@@ -1,5 +1,5 @@
 ---
-title: WdDictionaryType Enumeration (Word)
+title: WdDictionaryType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDictionaryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDictionaryType Enumeration (Word)
+# WdDictionaryType enumeration (Word)
 
 Specifies a proofing tool type.
 

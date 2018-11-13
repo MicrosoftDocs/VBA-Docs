@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.DefaultSorting Property (Word)
+title: Bookmarks.DefaultSorting property (Word)
 keywords: vbawd10.chm157745155
 f1_keywords:
 - vbawd10.chm157745155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.DefaultSorting Property (Word)
+# Bookmarks.DefaultSorting property (Word)
 
 Returns or sets the sorting option for bookmark names displayed in the  **Bookmark** dialog box (**Insert** menu). Read/write **WdBookmarkSortBy** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.RTFInClipboard Property (Word)
+title: Options.RTFInClipboard property (Word)
 keywords: vbawd10.chm162988061
 f1_keywords:
 - vbawd10.chm162988061
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RTFInClipboard Property (Word)
+# Options.RTFInClipboard property (Word)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **RTFInClipboard** property for the **Options** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

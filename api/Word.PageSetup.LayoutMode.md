@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LayoutMode Property (Word)
+title: PageSetup.LayoutMode property (Word)
 keywords: vbawd10.chm158400643
 f1_keywords:
 - vbawd10.chm158400643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LayoutMode Property (Word)
+# PageSetup.LayoutMode property (Word)
 
 Returns or sets the layout mode for the current document. Read/write  **WdLayoutMode** .
 

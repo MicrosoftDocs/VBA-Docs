@@ -1,5 +1,5 @@
 ---
-title: Paragraph.DropCap Property (Word)
+title: Paragraph.DropCap property (Word)
 keywords: vbawd10.chm156696589
 f1_keywords:
 - vbawd10.chm156696589
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.DropCap Property (Word)
+# Paragraph.DropCap property (Word)
 
 Returns a  **[DropCap](Word.DropCap.md)** object that represents a dropped capital letter for the specified paragraph. Read-only.
 

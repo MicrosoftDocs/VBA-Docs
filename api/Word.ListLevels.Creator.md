@@ -1,5 +1,5 @@
 ---
-title: ListLevels.Creator Property (Word)
+title: ListLevels.Creator property (Word)
 keywords: vbawd10.chm160302057
 f1_keywords:
 - vbawd10.chm160302057
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevels.Creator Property (Word)
+# ListLevels.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShape.HasChart Property (Word)
+title: InlineShape.HasChart property (Word)
 keywords: vbawd10.chm162005140
 f1_keywords:
 - vbawd10.chm162005140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.HasChart Property (Word)
+# InlineShape.HasChart property (Word)
 
  **True** if the specified shape is a chart. Read-only.
 

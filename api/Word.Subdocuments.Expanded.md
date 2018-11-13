@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Expanded Property (Word)
+title: Subdocuments.Expanded property (Word)
 keywords: vbawd10.chm159907842
 f1_keywords:
 - vbawd10.chm159907842
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Expanded Property (Word)
+# Subdocuments.Expanded property (Word)
 
  **True** if the subdocuments in the specified document are expanded. Read/write **Boolean** .
 

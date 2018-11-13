@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.NoShade Property (Word)
+title: HorizontalLineFormat.NoShade property (Word)
 keywords: vbawd10.chm165543939
 f1_keywords:
 - vbawd10.chm165543939
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.NoShade Property (Word)
+# HorizontalLineFormat.NoShade property (Word)
 
  **True** if Microsoft Word draws the specified horizontal line without 3-D shading. Read/write **Boolean** .
 

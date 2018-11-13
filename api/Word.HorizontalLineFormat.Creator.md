@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.Creator Property (Word)
+title: HorizontalLineFormat.Creator property (Word)
 keywords: vbawd10.chm165544937
 f1_keywords:
 - vbawd10.chm165544937
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.Creator Property (Word)
+# HorizontalLineFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Footnotes.ContinuationSeparator Property (Word)
+title: Footnotes.ContinuationSeparator property (Word)
 keywords: vbawd10.chm155320425
 f1_keywords:
 - vbawd10.chm155320425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.ContinuationSeparator Property (Word)
+# Footnotes.ContinuationSeparator property (Word)
 
 Returns a  **Range** object that represents the footnote continuation separator. Read-only.
 

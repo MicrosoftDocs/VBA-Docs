@@ -1,5 +1,5 @@
 ---
-title: Global.FontNames Property (Word)
+title: Global.FontNames property (Word)
 keywords: vbawd10.chm163119115
 f1_keywords:
 - vbawd10.chm163119115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.FontNames Property (Word)
+# Global.FontNames property (Word)
 
 Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available fonts. Read-only.
 

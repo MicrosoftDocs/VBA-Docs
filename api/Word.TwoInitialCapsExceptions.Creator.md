@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions.Creator Property (Word)
+title: TwoInitialCapsExceptions.Creator property (Word)
 keywords: vbawd10.chm155452393
 f1_keywords:
 - vbawd10.chm155452393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsExceptions.Creator Property (Word)
+# TwoInitialCapsExceptions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

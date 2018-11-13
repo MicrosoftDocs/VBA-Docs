@@ -1,5 +1,5 @@
 ---
-title: Cell.Range Property (Word)
+title: Cell.Range property (Word)
 keywords: vbawd10.chm156106752
 f1_keywords:
 - vbawd10.chm156106752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Range Property (Word)
+# Cell.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 

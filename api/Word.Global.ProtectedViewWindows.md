@@ -1,5 +1,5 @@
 ---
-title: Global.ProtectedViewWindows Property (Word)
+title: Global.ProtectedViewWindows property (Word)
 keywords: vbawd10.chm163119218
 f1_keywords:
 - vbawd10.chm163119218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ProtectedViewWindows Property (Word)
+# Global.ProtectedViewWindows property (Word)
 
 Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that represents the open protected view windows. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UndoRecord Property (Word)
+title: Application.UndoRecord property (Word)
 keywords: vbawd10.chm158335462
 f1_keywords:
 - vbawd10.chm158335462
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UndoRecord Property (Word)
+# Application.UndoRecord property (Word)
 
 Returns an [UndoRecord](Word.UndoRecord.md) object that provides a custom entry point into the undo stack. Read-only.
 

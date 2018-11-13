@@ -1,5 +1,5 @@
 ---
-title: Trendline.DataLabel Property (Word)
+title: Trendline.DataLabel property (Word)
 keywords: vbawd10.chm26345630
 f1_keywords:
 - vbawd10.chm26345630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.DataLabel Property (Word)
+# Trendline.DataLabel property (Word)
 
 Returns the data label that is associated with the trendline. Read-only  **[DataLabel](Word.DataLabel.md)** .
 

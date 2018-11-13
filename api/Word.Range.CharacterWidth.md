@@ -1,5 +1,5 @@
 ---
-title: Range.CharacterWidth Property (Word)
+title: Range.CharacterWidth property (Word)
 keywords: vbawd10.chm157155654
 f1_keywords:
 - vbawd10.chm157155654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CharacterWidth Property (Word)
+# Range.CharacterWidth property (Word)
 
 Returns or sets the character width of the specified range. Read/write  **WdCharacterWidth** .
 

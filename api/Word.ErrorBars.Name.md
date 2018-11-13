@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Name Property (Word)
+title: ErrorBars.Name property (Word)
 keywords: vbawd10.chm74842222
 f1_keywords:
 - vbawd10.chm74842222
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Name Property (Word)
+# ErrorBars.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

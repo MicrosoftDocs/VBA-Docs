@@ -1,5 +1,5 @@
 ---
-title: Shape.HeightRelative Property (Word)
+title: Shape.HeightRelative property (Word)
 keywords: vbawd10.chm161480907
 f1_keywords:
 - vbawd10.chm161480907
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.HeightRelative Property (Word)
+# Shape.HeightRelative property (Word)
 
 Returns or sets a  **Single** that represents the percentage of the relative height of a shape. Read/write.
 

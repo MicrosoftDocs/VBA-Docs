@@ -1,5 +1,5 @@
 ---
-title: Pane.Parent Property (Word)
+title: Pane.Parent property (Word)
 keywords: vbawd10.chm157287402
 f1_keywords:
 - vbawd10.chm157287402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Parent Property (Word)
+# Pane.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Pane** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBars Property (Word)
+title: Series.ErrorBars property (Word)
 keywords: vbawd10.chm123732127
 f1_keywords:
 - vbawd10.chm123732127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ErrorBars Property (Word)
+# Series.ErrorBars property (Word)
 
 Returns the error bars for the series. Read-only  **[ErrorBars](Word.ErrorBars.md)** .
 

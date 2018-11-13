@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Column Property (Word)
+title: TextFrame.Column property (Word)
 keywords: vbawd10.chm162665367
 f1_keywords:
 - vbawd10.chm162665367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Column Property (Word)
+# TextFrame.Column property (Word)
 
 This object, member, or enumeration is deprecated and is not intended to be used in your code.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.PickerDialog Property (Word)
+title: Application.PickerDialog property (Word)
 keywords: vbawd10.chm158335465
 f1_keywords:
 - vbawd10.chm158335465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PickerDialog Property (Word)
+# Application.PickerDialog property (Word)
 
 Returns a [PickerDialog](./Office.PickerDialog.md) object that provides the functionality to select people or data in a dialog box. Read-only.
 

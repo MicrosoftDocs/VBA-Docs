@@ -1,5 +1,5 @@
 ---
-title: Range.WordOpenXML Property (Word)
+title: Range.WordOpenXML property (Word)
 keywords: vbawd10.chm157155754
 f1_keywords:
 - vbawd10.chm157155754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.WordOpenXML Property (Word)
+# Range.WordOpenXML property (Word)
 
 Returns a  **String** that represents the XML contained within the range in the Microsoft Word Open XML format. Read-only.
 

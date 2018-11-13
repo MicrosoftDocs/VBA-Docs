@@ -1,5 +1,5 @@
 ---
-title: Document.Hyperlinks Property (Word)
+title: Document.Hyperlinks property (Word)
 keywords: vbawd10.chm158007357
 f1_keywords:
 - vbawd10.chm158007357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Hyperlinks Property (Word)
+# Document.Hyperlinks property (Word)
 
 Returns a  **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathAcc.Char Property (Word)
+title: OMathAcc.Char property (Word)
 keywords: vbawd10.chm235208808
 f1_keywords:
 - vbawd10.chm235208808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAcc.Char Property (Word)
+# OMathAcc.Char property (Word)
 
 Returns or sets an  **Integer** that represents the accent character for the accent object. Read/write.
 

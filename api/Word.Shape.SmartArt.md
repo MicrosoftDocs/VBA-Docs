@@ -1,5 +1,5 @@
 ---
-title: Shape.SmartArt Property (Word)
+title: Shape.SmartArt property (Word)
 keywords: vbawd10.chm161480860
 f1_keywords:
 - vbawd10.chm161480860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.SmartArt Property (Word)
+# Shape.SmartArt property (Word)
 
 Returns a [SmartArt](./Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified shape. Read-only.
 

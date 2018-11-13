@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginRight Property (Word)
+title: TextFrame.MarginRight property (Word)
 keywords: vbawd10.chm162660454
 f1_keywords:
 - vbawd10.chm162660454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.MarginRight Property (Word)
+# TextFrame.MarginRight property (Word)
 
 Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

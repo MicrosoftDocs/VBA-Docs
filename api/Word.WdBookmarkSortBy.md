@@ -1,5 +1,5 @@
 ---
-title: WdBookmarkSortBy Enumeration (Word)
+title: WdBookmarkSortBy enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBookmarkSortBy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBookmarkSortBy Enumeration (Word)
+# WdBookmarkSortBy enumeration (Word)
 
 Specifies the sorting option for bookmark names displayed in the  **Bookmark** dialog box.
 

@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (Word)
+title: FreeformBuilder.Parent property (Word)
 keywords: vbawd10.chm164167681
 f1_keywords:
 - vbawd10.chm164167681
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.Parent Property (Word)
+# FreeformBuilder.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FreeformBuilder** object.
 

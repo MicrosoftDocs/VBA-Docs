@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.Alignment Property (Word)
+title: HorizontalLineFormat.Alignment property (Word)
 keywords: vbawd10.chm165543940
 f1_keywords:
 - vbawd10.chm165543940
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.Alignment Property (Word)
+# HorizontalLineFormat.Alignment property (Word)
 
 Returns or sets a  **WdHorizontalLineAlignment** constant that represents the alignment for the specified horizontal line. Read/write.
 

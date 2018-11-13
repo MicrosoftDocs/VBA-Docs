@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference.NamespaceURI Property (Word)
+title: XMLSchemaReference.NamespaceURI property (Word)
 keywords: vbawd10.chm32505858
 f1_keywords:
 - vbawd10.chm32505858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference.NamespaceURI Property (Word)
+# XMLSchemaReference.NamespaceURI property (Word)
 
 Returns a  **String** that represents the Uniform Resource Identifier (URI) of the schema namespace for the specified object. Read-only.
 

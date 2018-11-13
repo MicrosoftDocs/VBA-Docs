@@ -1,5 +1,5 @@
 ---
-title: Comment.Range Property (Word)
+title: Comment.Range property (Word)
 keywords: vbawd10.chm154993643
 f1_keywords:
 - vbawd10.chm154993643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Range Property (Word)
+# Comment.Range property (Word)
 
 Returns a  **Range** object that represents the contents of a comment.
 

@@ -1,5 +1,5 @@
 ---
-title: Conflict.Parent Property (Word)
+title: Conflict.Parent property (Word)
 keywords: vbawd10.chm78709738
 f1_keywords:
 - vbawd10.chm78709738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflict.Parent Property (Word)
+# Conflict.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Conflict** object.
 

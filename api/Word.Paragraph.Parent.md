@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Parent Property (Word)
+title: Paragraph.Parent property (Word)
 keywords: vbawd10.chm156697578
 f1_keywords:
 - vbawd10.chm156697578
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Parent Property (Word)
+# Paragraph.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Paragraph** object.
 

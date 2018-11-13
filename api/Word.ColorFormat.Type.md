@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Type Property (Word)
+title: ColorFormat.Type property (Word)
 keywords: vbawd10.chm163971173
 f1_keywords:
 - vbawd10.chm163971173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Type Property (Word)
+# ColorFormat.Type property (Word)
 
 Returns or sets the shape color type. Read-only  **MsoColorType** .
 

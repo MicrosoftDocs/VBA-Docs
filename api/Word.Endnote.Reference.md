@@ -1,5 +1,5 @@
 ---
-title: Endnote.Reference Property (Word)
+title: Endnote.Reference property (Word)
 keywords: vbawd10.chm155058181
 f1_keywords:
 - vbawd10.chm155058181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnote.Reference Property (Word)
+# Endnote.Reference property (Word)
 
 Returns a  **Range** object that represents an endnote reference mark.
 

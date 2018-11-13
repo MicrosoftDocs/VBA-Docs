@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Characters Property (Word)
+title: DisplayUnitLabel.Characters property (Word)
 keywords: vbawd10.chm94568450
 f1_keywords:
 - vbawd10.chm94568450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Characters Property (Word)
+# DisplayUnitLabel.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 

@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.LinkToPrevious Property (Word)
+title: HeaderFooter.LinkToPrevious property (Word)
 keywords: vbawd10.chm159711238
 f1_keywords:
 - vbawd10.chm159711238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.LinkToPrevious Property (Word)
+# HeaderFooter.LinkToPrevious property (Word)
 
  **True** if the specified header or footer is linked to the corresponding header or footer in the previous section. Read/write **Boolean** .
 

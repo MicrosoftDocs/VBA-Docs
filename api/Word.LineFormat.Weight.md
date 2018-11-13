@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Weight Property (Word)
+title: LineFormat.Weight property (Word)
 keywords: vbawd10.chm164233329
 f1_keywords:
 - vbawd10.chm164233329
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Weight Property (Word)
+# LineFormat.Weight property (Word)
 
 Returns or sets the thickness of the specified line in points. Read/write  **Single** .
 

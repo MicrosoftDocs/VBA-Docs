@@ -1,5 +1,5 @@
 ---
-title: WebOptions.PixelsPerInch Property (Word)
+title: WebOptions.PixelsPerInch property (Word)
 keywords: vbawd10.chm165937161
 f1_keywords:
 - vbawd10.chm165937161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.PixelsPerInch Property (Word)
+# WebOptions.PixelsPerInch property (Word)
 
 Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. Read/write  **Long** .
 

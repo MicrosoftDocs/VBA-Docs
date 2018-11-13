@@ -1,5 +1,5 @@
 ---
-title: Page.Parent Property (Word)
+title: Page.Parent property (Word)
 keywords: vbawd10.chm11076586
 f1_keywords:
 - vbawd10.chm11076586
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Parent Property (Word)
+# Page.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Page** object.
 

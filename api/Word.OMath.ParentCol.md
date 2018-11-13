@@ -1,5 +1,5 @@
 ---
-title: OMath.ParentCol Property (Word)
+title: OMath.ParentCol property (Word)
 keywords: vbawd10.chm176357485
 f1_keywords:
 - vbawd10.chm176357485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ParentCol Property (Word)
+# OMath.ParentCol property (Word)
 
 Returns an  **[OMathMatCol](Word.OMathMatCol.md)** object that represents the parent column in a matrix. Read-only.
 

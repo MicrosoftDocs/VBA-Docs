@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedPropertiesMark Property (Word)
+title: Options.RevisedPropertiesMark property (Word)
 keywords: vbawd10.chm162988108
 f1_keywords:
 - vbawd10.chm162988108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RevisedPropertiesMark Property (Word)
+# Options.RevisedPropertiesMark property (Word)
 
 Returns or sets the mark used to show formatting changes while change tracking is enabled. Read/write  **WdRevisedPropertiesMark** .
 

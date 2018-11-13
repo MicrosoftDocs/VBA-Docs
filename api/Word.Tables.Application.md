@@ -1,5 +1,5 @@
 ---
-title: Tables.Application Property (Word)
+title: Tables.Application property (Word)
 keywords: vbawd10.chm156042216
 f1_keywords:
 - vbawd10.chm156042216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Application Property (Word)
+# Tables.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

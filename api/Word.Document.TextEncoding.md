@@ -1,5 +1,5 @@
 ---
-title: Document.TextEncoding Property (Word)
+title: Document.TextEncoding property (Word)
 keywords: vbawd10.chm158007653
 f1_keywords:
 - vbawd10.chm158007653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TextEncoding Property (Word)
+# Document.TextEncoding property (Word)
 
 Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding** .
 

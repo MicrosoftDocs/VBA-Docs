@@ -1,5 +1,5 @@
 ---
-title: Options.InsertedCellColor Property (Word)
+title: Options.InsertedCellColor property (Word)
 keywords: vbawd10.chm162988496
 f1_keywords:
 - vbawd10.chm162988496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.InsertedCellColor Property (Word)
+# Options.InsertedCellColor property (Word)
 
 Returns or sets a  **WdCellColor** constant that represents the color for an inserted table cell. Read/write.
 

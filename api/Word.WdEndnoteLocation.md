@@ -1,5 +1,5 @@
 ---
-title: WdEndnoteLocation Enumeration (Word)
+title: WdEndnoteLocation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEndnoteLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEndnoteLocation Enumeration (Word)
+# WdEndnoteLocation enumeration (Word)
 
 Specifies the position of endnotes.
 

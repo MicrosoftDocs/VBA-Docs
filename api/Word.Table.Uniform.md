@@ -1,5 +1,5 @@
 ---
-title: Table.Uniform Property (Word)
+title: Table.Uniform property (Word)
 keywords: vbawd10.chm156303465
 f1_keywords:
 - vbawd10.chm156303465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Uniform Property (Word)
+# Table.Uniform property (Word)
 
  **True** if all the rows in a table have the same number of columns. Read-only **Boolean** .
 

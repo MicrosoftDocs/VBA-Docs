@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Count Property (Word)
+title: Dialogs.Count property (Word)
 keywords: vbawd10.chm152043521
 f1_keywords:
 - vbawd10.chm152043521
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Count Property (Word)
+# Dialogs.Count property (Word)
 
 Returns a  **Long** that represents the number of dialog boxes in the collection. Read-only.
 

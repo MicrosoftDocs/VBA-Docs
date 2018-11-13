@@ -1,5 +1,5 @@
 ---
-title: WdSpellingErrorType Enumeration (Word)
+title: WdSpellingErrorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSpellingErrorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSpellingErrorType Enumeration (Word)
+# WdSpellingErrorType enumeration (Word)
 
 Specifies a spelling error type.
 

@@ -1,5 +1,5 @@
 ---
-title: WdOMathBreakBin Enumeration (Word)
+title: WdOMathBreakBin enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathBreakBin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathBreakBin Enumeration (Word)
+# WdOMathBreakBin enumeration (Word)
 
 Specifies where Microsoft Word places binary operators when equations span two or more lines.
 

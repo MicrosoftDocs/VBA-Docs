@@ -1,12 +1,12 @@
 ---
-title: WdContentControlAppearance Enumeration (Word)
+title: WdContentControlAppearance enumeration (Word)
 ms.prod: word
 ms.assetid: a85138c7-2dc8-ed37-0994-244440b2bc21
 ms.date: 06/08/2017
 ---
 
 
-# WdContentControlAppearance Enumeration (Word)
+# WdContentControlAppearance enumeration (Word)
 
 Constants that represent the visualizations for a content control, passed to and returned by the [ContentControl.Appearance](Word.contentcontrol.appearance.md) property.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.FormulaLocal Property (Word)
+title: ChartTitle.FormulaLocal property (Word)
 keywords: vbawd10.chm65273898
 f1_keywords:
 - vbawd10.chm65273898
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.FormulaLocal Property (Word)
+# ChartTitle.FormulaLocal property (Word)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
 

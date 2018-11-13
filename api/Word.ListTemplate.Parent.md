@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Parent Property (Word)
+title: ListTemplate.Parent property (Word)
 keywords: vbawd10.chm160367594
 f1_keywords:
 - vbawd10.chm160367594
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.Parent Property (Word)
+# ListTemplate.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ListTemplate** object.
 

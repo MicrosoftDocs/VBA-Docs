@@ -1,5 +1,5 @@
 ---
-title: Window.Parent Property (Word)
+title: Window.Parent property (Word)
 keywords: vbawd10.chm157418474
 f1_keywords:
 - vbawd10.chm157418474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Parent Property (Word)
+# Window.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Window** object.
 

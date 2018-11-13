@@ -1,5 +1,5 @@
 ---
-title: Chart.DataTable Property (Word)
+title: Chart.DataTable property (Word)
 ms.prod: word
 api_name:
 - Word.Chart.DataTable
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.DataTable Property (Word)
+# Chart.DataTable property (Word)
 
 Returns the chart data table. Read-only  **[DataTable](Word.DataTable.md)** .
 

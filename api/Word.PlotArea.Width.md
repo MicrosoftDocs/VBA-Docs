@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Width Property (Word)
+title: PlotArea.Width property (Word)
 keywords: vbawd10.chm53477498
 f1_keywords:
 - vbawd10.chm53477498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Width Property (Word)
+# PlotArea.Width property (Word)
 
 Returns or sets the width, in points, of the object. Read/write  **Double** .
 

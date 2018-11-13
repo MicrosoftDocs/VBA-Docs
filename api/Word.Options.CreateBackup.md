@@ -1,5 +1,5 @@
 ---
-title: Options.CreateBackup Property (Word)
+title: Options.CreateBackup property (Word)
 keywords: vbawd10.chm162988073
 f1_keywords:
 - vbawd10.chm162988073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CreateBackup Property (Word)
+# Options.CreateBackup property (Word)
 
  **True** if Word creates a backup copy each time a document is saved. Read/write **Boolean** .
 

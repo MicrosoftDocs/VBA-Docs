@@ -1,5 +1,5 @@
 ---
-title: Document.EnforceStyle Property (Word)
+title: Document.EnforceStyle property (Word)
 keywords: vbawd10.chm158007767
 f1_keywords:
 - vbawd10.chm158007767
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.EnforceStyle Property (Word)
+# Document.EnforceStyle property (Word)
 
 Returns or sets a  **Boolean** that represents whether formatting restrictions are enforced in a protected document.
 

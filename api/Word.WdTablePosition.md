@@ -1,5 +1,5 @@
 ---
-title: WdTablePosition Enumeration (Word)
+title: WdTablePosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTablePosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTablePosition Enumeration (Word)
+# WdTablePosition enumeration (Word)
 
 Specifies the relative position of a table in the document.
 

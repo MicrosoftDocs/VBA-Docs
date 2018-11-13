@@ -1,5 +1,5 @@
 ---
-title: Application.UserInitials Property (Word)
+title: Application.UserInitials property (Word)
 keywords: vbawd10.chm158335029
 f1_keywords:
 - vbawd10.chm158335029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserInitials Property (Word)
+# Application.UserInitials property (Word)
 
 Returns or sets the user's initials, which Microsoft Word uses to construct comment marks. Read/write  **String** .
 

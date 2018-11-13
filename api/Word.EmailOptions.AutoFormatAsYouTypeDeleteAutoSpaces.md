@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeDeleteAutoSpaces Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeDeleteAutoSpaces property (Word)
 keywords: vbawd10.chm165347630
 f1_keywords:
 - vbawd10.chm165347630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeDeleteAutoSpaces Property (Word)
+# EmailOptions.AutoFormatAsYouTypeDeleteAutoSpaces property (Word)
 
  **True** for Microsoft Word to automatically delete spaces inserted between Japanese and Latin text as you type. Read/write.
 

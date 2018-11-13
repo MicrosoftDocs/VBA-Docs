@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparentBackground Property (Word)
+title: PictureFormat.TransparentBackground property (Word)
 keywords: vbawd10.chm164298860
 f1_keywords:
 - vbawd10.chm164298860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.TransparentBackground Property (Word)
+# PictureFormat.TransparentBackground property (Word)
 
  **MsoTrue** if the parts of the picture that are defined with a transparent color actually appear transparent. Use the **TransparencyColor** property to set the transparent color. Applies to bitmaps only. Read/write **MsoTriState** .
 

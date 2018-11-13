@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat.RGB Property (Word)
+title: ChartColorFormat.RGB property (Word)
 keywords: vbawd10.chm12059679
 f1_keywords:
 - vbawd10.chm12059679
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartColorFormat.RGB Property (Word)
+# ChartColorFormat.RGB property (Word)
 
 Returns the red-green-blue value of the specified color. Read-only  **Long** .
 

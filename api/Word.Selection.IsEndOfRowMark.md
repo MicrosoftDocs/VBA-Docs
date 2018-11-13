@@ -1,5 +1,5 @@
 ---
-title: Selection.IsEndOfRowMark Property (Word)
+title: Selection.IsEndOfRowMark property (Word)
 keywords: vbawd10.chm158662963
 f1_keywords:
 - vbawd10.chm158662963
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.IsEndOfRowMark Property (Word)
+# Selection.IsEndOfRowMark property (Word)
 
  **True** if the specified selection or range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean** .
 

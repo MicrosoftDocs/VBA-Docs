@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UpperHeadingLevel Property (Word)
+title: TableOfContents.UpperHeadingLevel property (Word)
 keywords: vbawd10.chm152240131
 f1_keywords:
 - vbawd10.chm152240131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.UpperHeadingLevel Property (Word)
+# TableOfContents.UpperHeadingLevel property (Word)
 
 Returns or sets the starting heading level for a table of contents. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Parent Property (Word)
+title: Footnotes.Parent property (Word)
 keywords: vbawd10.chm155321322
 f1_keywords:
 - vbawd10.chm155321322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Parent Property (Word)
+# Footnotes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Footnotes** object.
 

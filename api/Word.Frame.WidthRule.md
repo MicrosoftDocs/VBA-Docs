@@ -1,5 +1,5 @@
 ---
-title: Frame.WidthRule Property (Word)
+title: Frame.WidthRule property (Word)
 keywords: vbawd10.chm153747458
 f1_keywords:
 - vbawd10.chm153747458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.WidthRule Property (Word)
+# Frame.WidthRule property (Word)
 
 Returns or sets the rule used to determine the width of a frame. Read/write  **WdFrameSizeRule** .
 

@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.TopMargin Property (Word)
+title: CustomLabel.TopMargin property (Word)
 keywords: vbawd10.chm152371203
 f1_keywords:
 - vbawd10.chm152371203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.TopMargin Property (Word)
+# CustomLabel.TopMargin property (Word)
 
 Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .
 

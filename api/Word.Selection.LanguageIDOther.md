@@ -1,5 +1,5 @@
 ---
-title: Selection.LanguageIDOther Property (Word)
+title: Selection.LanguageIDOther property (Word)
 keywords: vbawd10.chm158662811
 f1_keywords:
 - vbawd10.chm158662811
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.LanguageIDOther Property (Word)
+# Selection.LanguageIDOther property (Word)
 
 Returns or sets the language for the specified object. Read/write  **WdLanguageID** .
 

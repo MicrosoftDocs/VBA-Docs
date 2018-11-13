@@ -1,5 +1,5 @@
 ---
-title: Shape.PictureFormat Property (Word)
+title: Shape.PictureFormat property (Word)
 keywords: vbawd10.chm161480822
 f1_keywords:
 - vbawd10.chm161480822
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.PictureFormat Property (Word)
+# Shape.PictureFormat property (Word)
 
 Returns a  **PictureFormat** object that contains picture formatting properties for the specified object. Read-only.
 

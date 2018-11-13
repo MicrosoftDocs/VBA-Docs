@@ -1,5 +1,5 @@
 ---
-title: WdColorIndex Enumeration (Word)
+title: WdColorIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdColorIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdColorIndex Enumeration (Word)
+# WdColorIndex enumeration (Word)
 
 Specifies the color to apply.
 

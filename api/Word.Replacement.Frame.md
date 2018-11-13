@@ -1,5 +1,5 @@
 ---
-title: Replacement.Frame Property (Word)
+title: Replacement.Frame property (Word)
 keywords: vbawd10.chm162594834
 f1_keywords:
 - vbawd10.chm162594834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Frame Property (Word)
+# Replacement.Frame property (Word)
 
 Returns a  **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style or find-and-replace operation. Read-only.
 

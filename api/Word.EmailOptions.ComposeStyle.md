@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.ComposeStyle Property (Word)
+title: EmailOptions.ComposeStyle property (Word)
 keywords: vbawd10.chm165347437
 f1_keywords:
 - vbawd10.chm165347437
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.ComposeStyle Property (Word)
+# EmailOptions.ComposeStyle property (Word)
 
 Returns a  **[Style](Word.Style.md)** object that represents the style used to compose new e-mail messages. Read-only.
 

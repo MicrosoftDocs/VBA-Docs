@@ -1,5 +1,5 @@
 ---
-title: Revision.FormatDescription Property (Word)
+title: Revision.FormatDescription property (Word)
 keywords: vbawd10.chm159449097
 f1_keywords:
 - vbawd10.chm159449097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.FormatDescription Property (Word)
+# Revision.FormatDescription property (Word)
 
 Returns a  **String** representing a description of tracked formatting changes in a revision. Read-only.
 

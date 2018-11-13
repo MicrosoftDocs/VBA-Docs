@@ -1,5 +1,5 @@
 ---
-title: Application.EmailTemplate Property (Word)
+title: Application.EmailTemplate property (Word)
 keywords: vbawd10.chm158335427
 f1_keywords:
 - vbawd10.chm158335427
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EmailTemplate Property (Word)
+# Application.EmailTemplate property (Word)
 
 Returns or sets a  **String** that represents the document template to use when sending e-mail messages. Read/write.
 

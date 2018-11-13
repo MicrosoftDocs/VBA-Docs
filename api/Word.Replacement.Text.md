@@ -1,5 +1,5 @@
 ---
-title: Replacement.Text Property (Word)
+title: Replacement.Text property (Word)
 keywords: vbawd10.chm162594831
 f1_keywords:
 - vbawd10.chm162594831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Text Property (Word)
+# Replacement.Text property (Word)
 
 Returns or sets the text to replace. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdKeyCategory Enumeration (Word)
+title: WdKeyCategory enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdKeyCategory
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdKeyCategory Enumeration (Word)
+# WdKeyCategory enumeration (Word)
 
 Specifies the type of item assigned to the key binding.
 

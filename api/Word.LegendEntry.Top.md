@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Top Property (Word)
+title: LegendEntry.Top property (Word)
 keywords: vbawd10.chm4784254
 f1_keywords:
 - vbawd10.chm4784254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Top Property (Word)
+# LegendEntry.Top property (Word)
 
 Returns the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read-only  **Double** .
 

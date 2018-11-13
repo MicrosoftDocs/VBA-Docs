@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureVerticalScale Property (Word)
+title: FillFormat.TextureVerticalScale property (Word)
 keywords: vbawd10.chm164102263
 f1_keywords:
 - vbawd10.chm164102263
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureVerticalScale Property (Word)
+# FillFormat.TextureVerticalScale property (Word)
 
 Returns or sets a  **Single** that specifies the vertical scaling factor for the texture fill. Read/write.
 

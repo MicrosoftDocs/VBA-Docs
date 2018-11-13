@@ -1,5 +1,5 @@
 ---
-title: XMLNode.LastChild Property (Word)
+title: XMLNode.LastChild property (Word)
 keywords: vbawd10.chm37748746
 f1_keywords:
 - vbawd10.chm37748746
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.LastChild Property (Word)
+# XMLNode.LastChild property (Word)
 
 Returns an  **XMLNode** object that represents the last child node of an XML element.
 

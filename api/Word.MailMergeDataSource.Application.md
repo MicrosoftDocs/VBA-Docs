@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Application Property (Word)
+title: MailMergeDataSource.Application property (Word)
 keywords: vbawd10.chm152896488
 f1_keywords:
 - vbawd10.chm152896488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Application Property (Word)
+# MailMergeDataSource.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

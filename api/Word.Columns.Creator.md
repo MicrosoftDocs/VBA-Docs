@@ -1,5 +1,5 @@
 ---
-title: Columns.Creator Property (Word)
+title: Columns.Creator property (Word)
 keywords: vbawd10.chm155911145
 f1_keywords:
 - vbawd10.chm155911145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Creator Property (Word)
+# Columns.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

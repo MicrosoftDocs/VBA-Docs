@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsExceptions.Parent Property (Word)
+title: OtherCorrectionsExceptions.Parent property (Word)
 keywords: vbawd10.chm165610474
 f1_keywords:
 - vbawd10.chm165610474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsExceptions.Parent Property (Word)
+# OtherCorrectionsExceptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OtherCorrectionsExceptions** object.
 

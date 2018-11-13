@@ -1,5 +1,5 @@
 ---
-title: Chart.HasDataTable Property (Word)
+title: Chart.HasDataTable property (Word)
 keywords: vbawd10.chm79365492
 f1_keywords:
 - vbawd10.chm79365492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasDataTable Property (Word)
+# Chart.HasDataTable property (Word)
 
  **True** if the chart has a data table. Read/write **Boolean** .
 

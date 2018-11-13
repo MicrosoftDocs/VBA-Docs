@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.Parent Property (Word)
+title: SynonymInfo.Parent property (Word)
 keywords: vbawd10.chm161154026
 f1_keywords:
 - vbawd10.chm161154026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.Parent Property (Word)
+# SynonymInfo.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **SynonymInfo** object.
 

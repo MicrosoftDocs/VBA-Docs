@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyKanji Property (Word)
+title: Options.MatchFuzzyKanji property (Word)
 keywords: vbawd10.chm162988347
 f1_keywords:
 - vbawd10.chm162988347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyKanji Property (Word)
+# Options.MatchFuzzyKanji property (Word)
 
  **True** if Microsoft Word ignores the distinction between standard and nonstandard kanji ideography during a search. Read/write **Boolean** .
 

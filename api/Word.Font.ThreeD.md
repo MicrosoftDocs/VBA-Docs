@@ -1,5 +1,5 @@
 ---
-title: Font.ThreeD Property (Word)
+title: Font.ThreeD property (Word)
 keywords: vbawd10.chm156369068
 f1_keywords:
 - vbawd10.chm156369068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ThreeD Property (Word)
+# Font.ThreeD property (Word)
 
 Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect formatting properties for the specified font. Read-only.
 

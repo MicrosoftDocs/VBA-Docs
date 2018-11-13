@@ -1,5 +1,5 @@
 ---
-title: Range.Cells Property (Word)
+title: Range.Cells property (Word)
 keywords: vbawd10.chm157155385
 f1_keywords:
 - vbawd10.chm157155385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Cells Property (Word)
+# Range.Cells property (Word)
 
 Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a range. Read-only.
 

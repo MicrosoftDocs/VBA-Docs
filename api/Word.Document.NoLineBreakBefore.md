@@ -1,5 +1,5 @@
 ---
-title: Document.NoLineBreakBefore Property (Word)
+title: Document.NoLineBreakBefore property (Word)
 keywords: vbawd10.chm158007608
 f1_keywords:
 - vbawd10.chm158007608
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.NoLineBreakBefore Property (Word)
+# Document.NoLineBreakBefore property (Word)
 
 Returns or sets the kinsoku characters before which Microsoft Word will not break a line. Read/write  **String** .
 

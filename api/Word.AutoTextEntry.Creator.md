@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Creator Property (Word)
+title: AutoTextEntry.Creator property (Word)
 keywords: vbawd10.chm154534889
 f1_keywords:
 - vbawd10.chm154534889
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Creator Property (Word)
+# AutoTextEntry.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

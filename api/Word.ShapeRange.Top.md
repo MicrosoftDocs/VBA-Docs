@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Top Property (Word)
+title: ShapeRange.Top property (Word)
 keywords: vbawd10.chm162857083
 f1_keywords:
 - vbawd10.chm162857083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Top Property (Word)
+# ShapeRange.Top property (Word)
 
 Returns or sets the vertical position of the specified shape or shape range in points. Read/write  **Single** .
 

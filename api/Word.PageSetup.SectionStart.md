@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SectionStart Property (Word)
+title: PageSetup.SectionStart property (Word)
 keywords: vbawd10.chm158400626
 f1_keywords:
 - vbawd10.chm158400626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.SectionStart Property (Word)
+# PageSetup.SectionStart property (Word)
 
 Returns or sets the type of section break for the specified object. Read/write  **WdSectionStart** .
 

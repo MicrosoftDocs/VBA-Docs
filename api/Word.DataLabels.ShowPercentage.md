@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowPercentage Property (Word)
+title: DataLabels.ShowPercentage property (Word)
 keywords: vbawd10.chm207489001
 f1_keywords:
 - vbawd10.chm207489001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowPercentage Property (Word)
+# DataLabels.ShowPercentage property (Word)
 
  **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean** .
 

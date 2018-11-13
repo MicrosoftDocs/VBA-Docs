@@ -1,5 +1,5 @@
 ---
-title: WdDocumentViewDirection Enumeration (Word)
+title: WdDocumentViewDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocumentViewDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocumentViewDirection Enumeration (Word)
+# WdDocumentViewDirection enumeration (Word)
 
 Specifies the alignment and reading order for the entire document.
 

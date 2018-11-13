@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.ReplaceText Property (Word)
+title: OMathAutoCorrect.ReplaceText property (Word)
 keywords: vbawd10.chm258474087
 f1_keywords:
 - vbawd10.chm258474087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.ReplaceText Property (Word)
+# OMathAutoCorrect.ReplaceText property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word automatically replaces strings in equations with the corresponding math AutoCorrect definitions. Read/write.
 

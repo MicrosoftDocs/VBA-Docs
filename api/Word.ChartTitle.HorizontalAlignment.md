@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.HorizontalAlignment Property (Word)
+title: ChartTitle.HorizontalAlignment property (Word)
 keywords: vbawd10.chm65273860
 f1_keywords:
 - vbawd10.chm65273860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.HorizontalAlignment Property (Word)
+# ChartTitle.HorizontalAlignment property (Word)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
 

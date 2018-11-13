@@ -1,5 +1,5 @@
 ---
-title: Application.OMathAutoCorrect Property (Word)
+title: Application.OMathAutoCorrect property (Word)
 keywords: vbawd10.chm158335451
 f1_keywords:
 - vbawd10.chm158335451
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OMathAutoCorrect Property (Word)
+# Application.OMathAutoCorrect property (Word)
 
 Returns an  **OMathAutoCorrect** object that represents the auto correct entries for equations. Read-only.
 

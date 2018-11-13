@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Type Property (Word)
+title: LinkFormat.Type property (Word)
 keywords: vbawd10.chm154206224
 f1_keywords:
 - vbawd10.chm154206224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Type Property (Word)
+# LinkFormat.Type property (Word)
 
 Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)** .
 

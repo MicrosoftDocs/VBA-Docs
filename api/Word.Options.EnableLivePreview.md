@@ -1,5 +1,5 @@
 ---
-title: Options.EnableLivePreview Property (Word)
+title: Options.EnableLivePreview property (Word)
 keywords: vbawd10.chm162988504
 f1_keywords:
 - vbawd10.chm162988504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableLivePreview Property (Word)
+# Options.EnableLivePreview property (Word)
 
 Sets or returns a  **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. **True** shows a preview in your document before applying the command. Read/write.
 

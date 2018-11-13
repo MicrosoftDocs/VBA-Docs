@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Orientation Property (Word)
+title: ChartTitle.Orientation property (Word)
 keywords: vbawd10.chm65273864
 f1_keywords:
 - vbawd10.chm65273864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Orientation Property (Word)
+# ChartTitle.Orientation property (Word)
 
 Returns or sets the text orientation. Read/write  **Long** .
 

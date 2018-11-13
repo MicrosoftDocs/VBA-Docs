@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.TabLeader Property (Word)
+title: TableOfContents.TabLeader property (Word)
 keywords: vbawd10.chm152240138
 f1_keywords:
 - vbawd10.chm152240138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.TabLeader Property (Word)
+# TableOfContents.TabLeader property (Word)
 
 Returns or sets the character between entries and their page numbers in an index, table of authorities, table of contents, or table of figures. Read/write  **[WdTabLeader](Word.WdTabLeader.md)** .
 

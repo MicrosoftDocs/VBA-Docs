@@ -1,5 +1,5 @@
 ---
-title: DataTable.Parent Property (Word)
+title: DataTable.Parent property (Word)
 keywords: vbawd10.chm46399500
 f1_keywords:
 - vbawd10.chm46399500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Parent Property (Word)
+# DataTable.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

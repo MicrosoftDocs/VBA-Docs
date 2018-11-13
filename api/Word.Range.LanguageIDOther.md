@@ -1,5 +1,5 @@
 ---
-title: Range.LanguageIDOther Property (Word)
+title: Range.LanguageIDOther property (Word)
 keywords: vbawd10.chm157155650
 f1_keywords:
 - vbawd10.chm157155650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.LanguageIDOther Property (Word)
+# Range.LanguageIDOther property (Word)
 
 Returns or sets the language for the specified range. Read/write  **WdLanguageID** .
 

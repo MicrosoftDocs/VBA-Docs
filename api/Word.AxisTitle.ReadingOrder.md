@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.ReadingOrder Property (Word)
+title: AxisTitle.ReadingOrder property (Word)
 keywords: vbawd10.chm98238482
 f1_keywords:
 - vbawd10.chm98238482
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.ReadingOrder Property (Word)
+# AxisTitle.ReadingOrder property (Word)
 
 Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long** .
 

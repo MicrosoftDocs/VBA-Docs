@@ -1,5 +1,5 @@
 ---
-title: OMathBreak.AlignAt Property (Word)
+title: OMathBreak.AlignAt property (Word)
 keywords: vbawd10.chm97845353
 f1_keywords:
 - vbawd10.chm97845353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak.AlignAt Property (Word)
+# OMathBreak.AlignAt property (Word)
 
 Returns or sets a  **Long** that represents the operator in one line, to which Microsoft Word aligns consecutive lines in an equation. Read/write.
 

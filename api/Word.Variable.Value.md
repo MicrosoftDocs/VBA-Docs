@@ -1,5 +1,5 @@
 ---
-title: Variable.Value Property (Word)
+title: Variable.Value property (Word)
 keywords: vbawd10.chm157679616
 f1_keywords:
 - vbawd10.chm157679616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variable.Value Property (Word)
+# Variable.Value property (Word)
 
 Returns or sets the value of a document variable. Read/write  **String** .
 

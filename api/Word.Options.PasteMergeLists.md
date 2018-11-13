@@ -1,5 +1,5 @@
 ---
-title: Options.PasteMergeLists Property (Word)
+title: Options.PasteMergeLists property (Word)
 keywords: vbawd10.chm162988482
 f1_keywords:
 - vbawd10.chm162988482
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteMergeLists Property (Word)
+# Options.PasteMergeLists property (Word)
 
  **True** to merge the formatting of pasted lists with surrounding lists. Read/write **Boolean** .
 

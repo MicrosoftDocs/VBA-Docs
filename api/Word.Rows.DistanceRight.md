@@ -1,5 +1,5 @@
 ---
-title: Rows.DistanceRight Property (Word)
+title: Rows.DistanceRight property (Word)
 keywords: vbawd10.chm155975701
 f1_keywords:
 - vbawd10.chm155975701
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.DistanceRight Property (Word)
+# Rows.DistanceRight property (Word)
 
 Returns or sets the distance (in points) between the document text and the right edge of the specified table. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: View.TableGridlines Property (Word)
+title: View.TableGridlines property (Word)
 keywords: vbawd10.chm161808409
 f1_keywords:
 - vbawd10.chm161808409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.TableGridlines Property (Word)
+# View.TableGridlines property (Word)
 
  **True** if table gridlines are displayed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Application Property (Word)
+title: ContentControl.Application property (Word)
 keywords: vbawd10.chm266535912
 f1_keywords:
 - vbawd10.chm266535912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Application Property (Word)
+# ContentControl.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

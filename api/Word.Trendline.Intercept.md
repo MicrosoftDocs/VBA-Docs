@@ -1,5 +1,5 @@
 ---
-title: Trendline.Intercept Property (Word)
+title: Trendline.Intercept property (Word)
 keywords: vbawd10.chm26345658
 f1_keywords:
 - vbawd10.chm26345658
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Intercept Property (Word)
+# Trendline.Intercept property (Word)
 
 Returns or sets the point where the trendline crosses the value axis. Read/write  **Double** .
 

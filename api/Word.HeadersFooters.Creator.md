@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Creator Property (Word)
+title: HeadersFooters.Creator property (Word)
 keywords: vbawd10.chm159646697
 f1_keywords:
 - vbawd10.chm159646697
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadersFooters.Creator Property (Word)
+# HeadersFooters.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

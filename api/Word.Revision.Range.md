@@ -1,5 +1,5 @@
 ---
-title: Revision.Range Property (Word)
+title: Revision.Range property (Word)
 keywords: vbawd10.chm159449091
 f1_keywords:
 - vbawd10.chm159449091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Range Property (Word)
+# Revision.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that's contained within a revision mark.
 

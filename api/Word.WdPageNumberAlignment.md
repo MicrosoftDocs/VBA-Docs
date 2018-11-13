@@ -1,5 +1,5 @@
 ---
-title: WdPageNumberAlignment Enumeration (Word)
+title: WdPageNumberAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPageNumberAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPageNumberAlignment Enumeration (Word)
+# WdPageNumberAlignment enumeration (Word)
 
 Specifies the alignment to apply to page numbers.
 

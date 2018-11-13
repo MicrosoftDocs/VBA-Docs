@@ -1,5 +1,5 @@
 ---
-title: FormField.Name Property (Word)
+title: FormField.Name property (Word)
 keywords: vbawd10.chm153616386
 f1_keywords:
 - vbawd10.chm153616386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Name Property (Word)
+# FormField.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

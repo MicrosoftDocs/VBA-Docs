@@ -1,5 +1,5 @@
 ---
-title: Range.GrammaticalErrors Property (Word)
+title: Range.GrammaticalErrors property (Word)
 keywords: vbawd10.chm157155643
 f1_keywords:
 - vbawd10.chm157155643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.GrammaticalErrors Property (Word)
+# Range.GrammaticalErrors property (Word)
 
 Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the sentences that failed the grammar check on the specified document or range. Read-only.
 

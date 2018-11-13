@@ -1,5 +1,5 @@
 ---
-title: Frameset.FrameDefaultURL Property (Word)
+title: Frameset.FrameDefaultURL property (Word)
 keywords: vbawd10.chm165806116
 f1_keywords:
 - vbawd10.chm165806116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FrameDefaultURL Property (Word)
+# Frameset.FrameDefaultURL property (Word)
 
 Returns or sets the Web page or other document to be displayed in the specified frame when the frames page is opened. Read/write  **String** .
 

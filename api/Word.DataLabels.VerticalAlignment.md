@@ -1,5 +1,5 @@
 ---
-title: DataLabels.VerticalAlignment Property (Word)
+title: DataLabels.VerticalAlignment property (Word)
 keywords: vbawd10.chm207487113
 f1_keywords:
 - vbawd10.chm207487113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.VerticalAlignment Property (Word)
+# DataLabels.VerticalAlignment property (Word)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant** .
 

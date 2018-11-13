@@ -1,5 +1,5 @@
 ---
-title: WdWindowType Enumeration (Word)
+title: WdWindowType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWindowType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWindowType Enumeration (Word)
+# WdWindowType enumeration (Word)
 
 Specifies the type of window.
 

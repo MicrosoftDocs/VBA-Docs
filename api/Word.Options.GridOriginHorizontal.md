@@ -1,5 +1,5 @@
 ---
-title: Options.GridOriginHorizontal Property (Word)
+title: Options.GridOriginHorizontal property (Word)
 keywords: vbawd10.chm162988115
 f1_keywords:
 - vbawd10.chm162988115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.GridOriginHorizontal Property (Word)
+# Options.GridOriginHorizontal property (Word)
 
 Returns or sets the point, relative to the left edge of the page, where you want the invisible grid for drawing, moving, and resizing AutoShapes or East Asian characters to begin in new documents. Read/write  **Single** .
 

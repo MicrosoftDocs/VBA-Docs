@@ -1,5 +1,5 @@
 ---
-title: Options.DisableFeaturesbyDefault Property (Word)
+title: Options.DisableFeaturesbyDefault property (Word)
 keywords: vbawd10.chm162988460
 f1_keywords:
 - vbawd10.chm162988460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DisableFeaturesbyDefault Property (Word)
+# Options.DisableFeaturesbyDefault property (Word)
 
  **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](Word.Options.DisableFeaturesIntroducedAfterbyDefault.md)** . The default value is **False** . Read/write **Boolean** .
 

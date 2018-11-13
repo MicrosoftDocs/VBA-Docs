@@ -1,5 +1,5 @@
 ---
-title: Selection.Document Property (Word)
+title: Selection.Document property (Word)
 keywords: vbawd10.chm158663659
 f1_keywords:
 - vbawd10.chm158663659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Document Property (Word)
+# Selection.Document property (Word)
 
 Returns a  **[Document](Word.Document.md)** object associated with the specified selection. Read-only.
 

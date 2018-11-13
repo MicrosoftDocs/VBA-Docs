@@ -1,5 +1,5 @@
 ---
-title: Shape.Anchor Property (Word)
+title: Shape.Anchor property (Word)
 keywords: vbawd10.chm161481205
 f1_keywords:
 - vbawd10.chm161481205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Anchor Property (Word)
+# Shape.Anchor property (Word)
 
 Returns a  **Range** object that represents the anchoring range for the specified shape or shape range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XMLNodes.Count Property (Word)
+title: XMLNodes.Count property (Word)
 keywords: vbawd10.chm255983618
 f1_keywords:
 - vbawd10.chm255983618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNodes.Count Property (Word)
+# XMLNodes.Count property (Word)
 
 Returns a  **Long** that represents the number of XML elements in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Endnotes.StartingNumber Property (Word)
+title: Endnotes.StartingNumber property (Word)
 keywords: vbawd10.chm155254886
 f1_keywords:
 - vbawd10.chm155254886
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.StartingNumber Property (Word)
+# Endnotes.StartingNumber property (Word)
 
 Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
 

@@ -1,12 +1,12 @@
 ---
-title: xlLegendPosition Enumeration (Word)
+title: xlLegendPosition enumeration (Word)
 ms.prod: word
 ms.assetid: 02581a70-ef8e-7bb7-f8f4-f741c459ac85
 ms.date: 06/08/2017
 ---
 
 
-# xlLegendPosition Enumeration (Word)
+# xlLegendPosition enumeration (Word)
 
 Specifies the position of the legend on a chart.
 

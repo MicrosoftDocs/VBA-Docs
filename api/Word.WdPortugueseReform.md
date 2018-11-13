@@ -1,5 +1,5 @@
 ---
-title: WdPortugueseReform Enumeration (Word)
+title: WdPortugueseReform enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPortugueseReform
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPortugueseReform Enumeration (Word)
+# WdPortugueseReform enumeration (Word)
 
 Specifies the mode for the Brazilian or European Portuguese spellers. Read/write.
 

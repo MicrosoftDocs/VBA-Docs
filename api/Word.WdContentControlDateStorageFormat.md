@@ -1,5 +1,5 @@
 ---
-title: WdContentControlDateStorageFormat Enumeration (Word)
+title: WdContentControlDateStorageFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdContentControlDateStorageFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdContentControlDateStorageFormat Enumeration (Word)
+# WdContentControlDateStorageFormat enumeration (Word)
 
 Indicates how the date for a date content control is stored or retrieved when the date control is bound to an XML node in the document's data store.
 

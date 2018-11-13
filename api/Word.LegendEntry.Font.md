@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Font Property (Word)
+title: LegendEntry.Font property (Word)
 keywords: vbawd10.chm4784274
 f1_keywords:
 - vbawd10.chm4784274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Font Property (Word)
+# LegendEntry.Font property (Word)
 
 Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFont.md)** .
 

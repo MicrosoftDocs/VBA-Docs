@@ -1,5 +1,5 @@
 ---
-title: Document.Sections Property (Word)
+title: Document.Sections property (Word)
 keywords: vbawd10.chm158007311
 f1_keywords:
 - vbawd10.chm158007311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Sections Property (Word)
+# Document.Sections property (Word)
 
 Returns a  **[Section](Word.Section.md)** collection that represents the sections in the specified document. Read-only.
 

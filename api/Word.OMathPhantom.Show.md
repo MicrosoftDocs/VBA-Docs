@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.Show Property (Word)
+title: OMathPhantom.Show property (Word)
 keywords: vbawd10.chm88146024
 f1_keywords:
 - vbawd10.chm88146024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.Show Property (Word)
+# OMathPhantom.Show property (Word)
 
 Returns or sets a  **Boolean** that represents whether the contents of a phantom object are visible. Read/write.
 

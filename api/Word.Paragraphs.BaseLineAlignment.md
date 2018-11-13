@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.BaseLineAlignment Property (Word)
+title: Paragraphs.BaseLineAlignment property (Word)
 keywords: vbawd10.chm156762235
 f1_keywords:
 - vbawd10.chm156762235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.BaseLineAlignment Property (Word)
+# Paragraphs.BaseLineAlignment property (Word)
 
 Returns or sets a  **WdBaselineAlignment** constant that represents the vertical position of fonts on a line. Read/write.
 

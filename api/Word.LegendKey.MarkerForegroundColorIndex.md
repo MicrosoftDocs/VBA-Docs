@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerForegroundColorIndex Property (Word)
+title: LegendKey.MarkerForegroundColorIndex property (Word)
 keywords: vbawd10.chm266207308
 f1_keywords:
 - vbawd10.chm266207308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerForegroundColorIndex Property (Word)
+# LegendKey.MarkerForegroundColorIndex property (Word)
 
 Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 

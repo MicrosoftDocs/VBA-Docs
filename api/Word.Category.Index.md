@@ -1,5 +1,5 @@
 ---
-title: Category.Index Property (Word)
+title: Category.Index property (Word)
 keywords: vbawd10.chm190709761
 f1_keywords:
 - vbawd10.chm190709761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category.Index Property (Word)
+# Category.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

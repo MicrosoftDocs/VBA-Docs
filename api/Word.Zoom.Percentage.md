@@ -1,5 +1,5 @@
 ---
-title: Zoom.Percentage Property (Word)
+title: Zoom.Percentage property (Word)
 keywords: vbawd10.chm161873920
 f1_keywords:
 - vbawd10.chm161873920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zoom.Percentage Property (Word)
+# Zoom.Percentage property (Word)
 
 Returns or sets the magnification for a window as a percentage. Read/write  **Long** .
 

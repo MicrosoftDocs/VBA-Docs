@@ -1,5 +1,5 @@
 ---
-title: Rows.SpaceBetweenColumns Property (Word)
+title: Rows.SpaceBetweenColumns property (Word)
 keywords: vbawd10.chm155975686
 f1_keywords:
 - vbawd10.chm155975686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.SpaceBetweenColumns Property (Word)
+# Rows.SpaceBetweenColumns property (Word)
 
 Returns or sets the distance (in points) between text in adjacent columns of the specified row or rows. Read/write  **Single** .
 

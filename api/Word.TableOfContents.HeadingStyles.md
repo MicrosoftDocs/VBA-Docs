@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.HeadingStyles Property (Word)
+title: TableOfContents.HeadingStyles property (Word)
 keywords: vbawd10.chm152240134
 f1_keywords:
 - vbawd10.chm152240134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.HeadingStyles Property (Word)
+# TableOfContents.HeadingStyles property (Word)
 
 Returns a  **[HeadingStyles](Word.headingstyles.md)** object that represents additional styles used to compile a table of contents or table of figures (styles other than the Heading 1 - Heading 9 styles). Read-only.
 

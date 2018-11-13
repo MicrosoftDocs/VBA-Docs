@@ -1,5 +1,5 @@
 ---
-title: Range.Editors Property (Word)
+title: Range.Editors property (Word)
 keywords: vbawd10.chm157155671
 f1_keywords:
 - vbawd10.chm157155671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Editors Property (Word)
+# Range.Editors property (Word)
 
 Returns an  **Editors** object that represents all the users authorized to modify a selection or range within a document.
 

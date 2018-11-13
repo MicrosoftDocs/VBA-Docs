@@ -1,5 +1,5 @@
 ---
-title: Range.ListFormat Property (Word)
+title: Range.ListFormat property (Word)
 keywords: vbawd10.chm157155396
 f1_keywords:
 - vbawd10.chm157155396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ListFormat Property (Word)
+# Range.ListFormat property (Word)
 
 Returns a  **[ListFormat](Word.ListFormat.md)** object that represents all the list formatting characteristics of a range. Read-only.
 

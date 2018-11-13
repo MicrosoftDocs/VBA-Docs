@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.LineStyle Property (Word)
+title: ChartBorder.LineStyle property (Word)
 keywords: vbawd10.chm61014020
 f1_keywords:
 - vbawd10.chm61014020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartBorder.LineStyle Property (Word)
+# ChartBorder.LineStyle property (Word)
 
 Returns or sets the line style for the border. Read/write  **[XlLineStyle](Word.xllinestyle.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
 

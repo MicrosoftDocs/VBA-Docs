@@ -1,5 +1,5 @@
 ---
-title: Paragraph.ListNumberOriginal Property (Word)
+title: Paragraph.ListNumberOriginal property (Word)
 keywords: vbawd10.chm156696713
 f1_keywords:
 - vbawd10.chm156696713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.ListNumberOriginal Property (Word)
+# Paragraph.ListNumberOriginal property (Word)
 
 Returns an  **Integer** that represents the original list level for a paragraph. Read-only.
 

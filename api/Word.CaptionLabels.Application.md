@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Application Property (Word)
+title: CaptionLabels.Application property (Word)
 keywords: vbawd10.chm158860264
 f1_keywords:
 - vbawd10.chm158860264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels.Application Property (Word)
+# CaptionLabels.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

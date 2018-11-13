@@ -1,5 +1,5 @@
 ---
-title: Interior.Color Property (Word)
+title: Interior.Color property (Word)
 keywords: vbawd10.chm2818048
 f1_keywords:
 - vbawd10.chm2818048
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Color Property (Word)
+# Interior.Color property (Word)
 
 Returns or sets the primary color of the object. Read/write  **Variant** .
 

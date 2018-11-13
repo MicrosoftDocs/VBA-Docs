@@ -1,5 +1,5 @@
 ---
-title: Shape.Vertices Property (Word)
+title: Shape.Vertices property (Word)
 keywords: vbawd10.chm161480830
 f1_keywords:
 - vbawd10.chm161480830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Vertices Property (Word)
+# Shape.Vertices property (Word)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. Read-only  **Variant** .
 

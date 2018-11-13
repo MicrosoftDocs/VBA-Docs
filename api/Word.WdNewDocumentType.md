@@ -1,5 +1,5 @@
 ---
-title: WdNewDocumentType Enumeration (Word)
+title: WdNewDocumentType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNewDocumentType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNewDocumentType Enumeration (Word)
+# WdNewDocumentType enumeration (Word)
 
 Specifies the type of new document to create.
 

@@ -1,5 +1,5 @@
 ---
-title: WdFieldType Enumeration (Word)
+title: WdFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFieldType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFieldType Enumeration (Word)
+# WdFieldType enumeration (Word)
 
 Specifies a Microsoft Word field. Unless otherwise specified, the field types described in this enumeration can be added interactively to a Word document by using the  **Field** dialog box. See the Word Help for more information about specific field codes.
 

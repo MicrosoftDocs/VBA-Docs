@@ -1,5 +1,5 @@
 ---
-title: OMathMat.Cell Property (Word)
+title: OMathMat.Cell property (Word)
 keywords: vbawd10.chm176029801
 f1_keywords:
 - vbawd10.chm176029801
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.Cell Property (Word)
+# OMathMat.Cell property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix. Read-only.
 

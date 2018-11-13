@@ -1,5 +1,5 @@
 ---
-title: UpBars.Application Property (Word)
+title: UpBars.Application property (Word)
 keywords: vbawd10.chm180945044
 f1_keywords:
 - vbawd10.chm180945044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Application Property (Word)
+# UpBars.Application property (Word)
 
 When used without an object qualifier, returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.DiacriticColor Property (Word)
+title: Font.DiacriticColor property (Word)
 keywords: vbawd10.chm156369061
 f1_keywords:
 - vbawd10.chm156369061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.DiacriticColor Property (Word)
+# Font.DiacriticColor property (Word)
 
 Returns or sets the 24-bit color to be used for diacritics for the specified  **Font** object. Read/write.
 

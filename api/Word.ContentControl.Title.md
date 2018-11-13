@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Title Property (Word)
+title: ContentControl.Title property (Word)
 keywords: vbawd10.chm266534924
 f1_keywords:
 - vbawd10.chm266534924
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Title Property (Word)
+# ContentControl.Title property (Word)
 
 Returns or sets a  **String** that represents the title for a content control. Read/write.
 

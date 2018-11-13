@@ -1,5 +1,5 @@
 ---
-title: LetterContent.EnclosureNumber Property (Word)
+title: LetterContent.EnclosureNumber property (Word)
 keywords: vbawd10.chm161546357
 f1_keywords:
 - vbawd10.chm161546357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.EnclosureNumber Property (Word)
+# LetterContent.EnclosureNumber property (Word)
 
 Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String** .
 

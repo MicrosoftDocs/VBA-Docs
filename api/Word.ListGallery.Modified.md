@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Modified Property (Word)
+title: ListGallery.Modified property (Word)
 keywords: vbawd10.chm160694373
 f1_keywords:
 - vbawd10.chm160694373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery.Modified Property (Word)
+# ListGallery.Modified property (Word)
 
  **True** if the specified list template is not the built-in list template for that position in the list gallery. Read-only **Boolean** .
 

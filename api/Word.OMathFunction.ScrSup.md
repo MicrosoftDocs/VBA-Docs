@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.ScrSup Property (Word)
+title: OMathFunction.ScrSup property (Word)
 keywords: vbawd10.chm22151291
 f1_keywords:
 - vbawd10.chm22151291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.ScrSup Property (Word)
+# OMathFunction.ScrSup property (Word)
 
 Returns an  **[OMathScrSup](Word.OMathScrSup.md)** object that represents the mathematical superscript function. Read-only.
 

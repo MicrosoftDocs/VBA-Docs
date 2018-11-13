@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.Parent Property (Word)
+title: AutoTextEntries.Parent property (Word)
 keywords: vbawd10.chm154600426
 f1_keywords:
 - vbawd10.chm154600426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries.Parent Property (Word)
+# AutoTextEntries.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **AutoTextEntries** collection.
 

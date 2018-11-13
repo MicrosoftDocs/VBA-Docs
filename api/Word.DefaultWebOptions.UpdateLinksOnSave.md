@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.UpdateLinksOnSave Property (Word)
+title: DefaultWebOptions.UpdateLinksOnSave property (Word)
 keywords: vbawd10.chm165871621
 f1_keywords:
 - vbawd10.chm165871621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.UpdateLinksOnSave Property (Word)
+# DefaultWebOptions.UpdateLinksOnSave property (Word)
 
  **True** if hyperlinks and paths to all supporting files are automatically updated before you save the document as a Web page. Read/write **Boolean** .
 

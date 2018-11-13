@@ -1,5 +1,5 @@
 ---
-title: MailMessage.Parent Property (Word)
+title: MailMessage.Parent property (Word)
 keywords: vbawd10.chm163185642
 f1_keywords:
 - vbawd10.chm163185642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.Parent Property (Word)
+# MailMessage.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **MailMessage** object.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowRange Property (Word)
+title: DataLabels.ShowRange property (Word)
 keywords: vbawd10.chm207489005
 f1_keywords:
 - vbawd10.chm207489005
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowRange Property (Word)
+# DataLabels.ShowRange property (Word)
 
 Set to  **True** to display the **Value From Cells** range field in all the chart data labels for a specified chart. Set to **False** to hide that field. Read/write **Boolean**.
 

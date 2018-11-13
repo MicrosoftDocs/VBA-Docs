@@ -1,5 +1,5 @@
 ---
-title: Series.Has3DEffect Property (Word)
+title: Series.Has3DEffect property (Word)
 keywords: vbawd10.chm123733633
 f1_keywords:
 - vbawd10.chm123733633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Has3DEffect Property (Word)
+# Series.Has3DEffect property (Word)
 
  **True** if the series has a three-dimensional appearance. Read/write **Boolean** .
 

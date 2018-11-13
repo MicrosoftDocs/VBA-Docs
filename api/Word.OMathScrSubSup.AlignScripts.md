@@ -1,5 +1,5 @@
 ---
-title: OMathScrSubSup.AlignScripts Property (Word)
+title: OMathScrSubSup.AlignScripts property (Word)
 keywords: vbawd10.chm181665898
 f1_keywords:
 - vbawd10.chm181665898
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSubSup.AlignScripts Property (Word)
+# OMathScrSubSup.AlignScripts property (Word)
 
 Returns or sets a  **Boolean** that represents whether to horizontally align subscripts and superscripts in the sub-superscript object. Read/write.
 

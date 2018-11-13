@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.ReadingOrder Property (Word)
+title: ChartTitle.ReadingOrder property (Word)
 keywords: vbawd10.chm65273874
 f1_keywords:
 - vbawd10.chm65273874
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.ReadingOrder Property (Word)
+# ChartTitle.ReadingOrder property (Word)
 
 Returns or sets an  **[XlReadingOrder](Word.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long** .
 

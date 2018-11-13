@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyString Property (Word)
+title: KeyBinding.KeyString property (Word)
 keywords: vbawd10.chm160956418
 f1_keywords:
 - vbawd10.chm160956418
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.KeyString Property (Word)
+# KeyBinding.KeyString property (Word)
 
 Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A). Read-only  **String** .
 

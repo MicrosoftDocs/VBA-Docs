@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.RelatedExpressionList Property (Word)
+title: SynonymInfo.RelatedExpressionList property (Word)
 keywords: vbawd10.chm161153033
 f1_keywords:
 - vbawd10.chm161153033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.RelatedExpressionList Property (Word)
+# SynonymInfo.RelatedExpressionList property (Word)
 
 Returns a list of expressions related to the specified word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
 

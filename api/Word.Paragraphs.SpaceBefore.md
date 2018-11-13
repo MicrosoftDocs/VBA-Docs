@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.SpaceBefore Property (Word)
+title: Paragraphs.SpaceBefore property (Word)
 keywords: vbawd10.chm156762223
 f1_keywords:
 - vbawd10.chm156762223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.SpaceBefore Property (Word)
+# Paragraphs.SpaceBefore property (Word)
 
 Returns or sets the spacing (in points) before the specified paragraphs. Read/write  **Single** .
 

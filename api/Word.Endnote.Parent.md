@@ -1,5 +1,5 @@
 ---
-title: Endnote.Parent Property (Word)
+title: Endnote.Parent property (Word)
 keywords: vbawd10.chm155059178
 f1_keywords:
 - vbawd10.chm155059178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnote.Parent Property (Word)
+# Endnote.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Endnote** object.
 

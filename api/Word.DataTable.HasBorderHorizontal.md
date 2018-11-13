@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderHorizontal Property (Word)
+title: DataTable.HasBorderHorizontal property (Word)
 keywords: vbawd10.chm46399490
 f1_keywords:
 - vbawd10.chm46399490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.HasBorderHorizontal Property (Word)
+# DataTable.HasBorderHorizontal property (Word)
 
  **True** if the chart data table has horizontal cell borders. Read/write **Boolean** .
 

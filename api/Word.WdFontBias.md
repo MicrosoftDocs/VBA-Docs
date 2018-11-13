@@ -1,5 +1,5 @@
 ---
-title: WdFontBias Enumeration (Word)
+title: WdFontBias enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFontBias
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFontBias Enumeration (Word)
+# WdFontBias enumeration (Word)
 
 Specifies the font bias for symbols.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Document Property (Word)
+title: Window.Document property (Word)
 keywords: vbawd10.chm157417474
 f1_keywords:
 - vbawd10.chm157417474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Document Property (Word)
+# Window.Document property (Word)
 
 Returns a  **[Document](Word.Document.md)** object associated with the specified pane, window, or selection. Read-only.
 

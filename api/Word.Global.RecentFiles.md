@@ -1,5 +1,5 @@
 ---
-title: Global.RecentFiles Property (Word)
+title: Global.RecentFiles property (Word)
 keywords: vbawd10.chm163119111
 f1_keywords:
 - vbawd10.chm163119111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.RecentFiles Property (Word)
+# Global.RecentFiles property (Word)
 
 Returns a  **RecentFiles** collection that represents the most recently accessed files.
 

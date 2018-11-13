@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatPreserveStyles Property (Word)
+title: Options.AutoFormatPreserveStyles property (Word)
 keywords: vbawd10.chm162988291
 f1_keywords:
 - vbawd10.chm162988291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatPreserveStyles Property (Word)
+# Options.AutoFormatPreserveStyles property (Word)
 
  **True** if previously applied styles are preserved when Word formats a document or range automatically. Read/write **Boolean** .
 

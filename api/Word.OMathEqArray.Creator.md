@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.Creator Property (Word)
+title: OMathEqArray.Creator property (Word)
 keywords: vbawd10.chm174129253
 f1_keywords:
 - vbawd10.chm174129253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.Creator Property (Word)
+# OMathEqArray.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.LanguageDetected Property (Word)
+title: Selection.LanguageDetected property (Word)
 keywords: vbawd10.chm158663663
 f1_keywords:
 - vbawd10.chm158663663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.LanguageDetected Property (Word)
+# Selection.LanguageDetected property (Word)
 
 Returns or sets a  **Boolean** that specifies whether Microsoft Word has detected the language of the selected text.
 

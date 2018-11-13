@@ -1,5 +1,5 @@
 ---
-title: View.ReadingLayoutActualView Property (Word)
+title: View.ReadingLayoutActualView property (Word)
 keywords: vbawd10.chm161808434
 f1_keywords:
 - vbawd10.chm161808434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ReadingLayoutActualView Property (Word)
+# View.ReadingLayoutActualView property (Word)
 
 Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are displayed using the same layout as printed pages.
 

@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Creator Property (Word)
+title: FullSeriesCollection.Creator property (Word)
 keywords: vbawd10.chm73990293
 f1_keywords:
 - vbawd10.chm73990293
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Creator Property (Word)
+# FullSeriesCollection.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

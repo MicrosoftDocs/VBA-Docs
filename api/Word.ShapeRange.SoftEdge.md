@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SoftEdge Property (Word)
+title: ShapeRange.SoftEdge property (Word)
 keywords: vbawd10.chm162857112
 f1_keywords:
 - vbawd10.chm162857112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.SoftEdge Property (Word)
+# ShapeRange.SoftEdge property (Word)
 
 Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents the soft edge formatting for a range of shapes. Read-only.
 

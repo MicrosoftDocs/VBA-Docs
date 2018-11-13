@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormat Property (Word)
+title: TickLabels.NumberFormat property (Word)
 keywords: vbawd10.chm167051268
 f1_keywords:
 - vbawd10.chm167051268
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.NumberFormat Property (Word)
+# TickLabels.NumberFormat property (Word)
 
 Returns or sets the format code for the object. Read/write  **String** .
 

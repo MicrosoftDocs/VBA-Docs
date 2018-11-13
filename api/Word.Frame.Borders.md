@@ -1,5 +1,5 @@
 ---
-title: Frame.Borders Property (Word)
+title: Frame.Borders property (Word)
 keywords: vbawd10.chm153748556
 f1_keywords:
 - vbawd10.chm153748556
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Borders Property (Word)
+# Frame.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified frame.
 

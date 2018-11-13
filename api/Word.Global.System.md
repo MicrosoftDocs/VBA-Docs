@@ -1,5 +1,5 @@
 ---
-title: Global.System Property (Word)
+title: Global.System property (Word)
 keywords: vbawd10.chm163119113
 f1_keywords:
 - vbawd10.chm163119113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.System Property (Word)
+# Global.System property (Word)
 
 Returns a  **System** object, which can be used to return system-related information and perform system-related tasks.
 

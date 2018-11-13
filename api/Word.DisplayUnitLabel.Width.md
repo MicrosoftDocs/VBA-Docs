@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Width Property (Word)
+title: DisplayUnitLabel.Width property (Word)
 keywords: vbawd10.chm94568570
 f1_keywords:
 - vbawd10.chm94568570
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Width Property (Word)
+# DisplayUnitLabel.Width property (Word)
 
 Returns the width, in points, of the object. Read-only.
 

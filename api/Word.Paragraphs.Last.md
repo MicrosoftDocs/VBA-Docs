@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Last Property (Word)
+title: Paragraphs.Last property (Word)
 keywords: vbawd10.chm156762116
 f1_keywords:
 - vbawd10.chm156762116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Last Property (Word)
+# Paragraphs.Last property (Word)
 
 Returns a  **Paragraph** object that represents the last item in the collection of paragraphs.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.EmphasisMark Property (Word)
+title: Range.EmphasisMark property (Word)
 keywords: vbawd10.chm157155468
 f1_keywords:
 - vbawd10.chm157155468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EmphasisMark Property (Word)
+# Range.EmphasisMark property (Word)
 
 Returns or sets the emphasis mark for a character or designated character string. Read/write  **WdEmphasisMark** .
 

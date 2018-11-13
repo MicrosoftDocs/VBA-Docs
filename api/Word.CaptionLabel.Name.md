@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.Name Property (Word)
+title: CaptionLabel.Name property (Word)
 keywords: vbawd10.chm158924800
 f1_keywords:
 - vbawd10.chm158924800
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.Name Property (Word)
+# CaptionLabel.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

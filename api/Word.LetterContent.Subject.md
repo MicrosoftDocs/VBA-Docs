@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Subject Property (Word)
+title: LetterContent.Subject property (Word)
 keywords: vbawd10.chm161546356
 f1_keywords:
 - vbawd10.chm161546356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Subject Property (Word)
+# LetterContent.Subject property (Word)
 
 Returns or sets the subject text of a letter created by the Letter Wizard. Read/write  **String** .
 

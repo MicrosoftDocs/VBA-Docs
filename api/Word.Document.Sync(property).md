@@ -1,5 +1,5 @@
 ---
-title: Document.Sync Property (Word)
+title: Document.Sync property (Word)
 keywords: vbawd10.chm158007762
 f1_keywords:
 - vbawd10.chm158007762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Sync Property (Word)
+# Document.Sync property (Word)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

@@ -1,5 +1,5 @@
 ---
-title: TableStyle.LeftPadding Property (Word)
+title: TableStyle.LeftPadding property (Word)
 keywords: vbawd10.chm244776965
 f1_keywords:
 - vbawd10.chm244776965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.LeftPadding Property (Word)
+# TableStyle.LeftPadding property (Word)
 
 Returns or sets the amount of space (in points) to add to the left of the contents of all the cells in a table. Read/write  **Single** .
 

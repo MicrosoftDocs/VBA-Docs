@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Name Property (Word)
+title: AutoCorrectEntry.Name property (Word)
 keywords: vbawd10.chm155648002
 f1_keywords:
 - vbawd10.chm155648002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.Name Property (Word)
+# AutoCorrectEntry.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

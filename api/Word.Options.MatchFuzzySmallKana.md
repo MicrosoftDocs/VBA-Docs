@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzySmallKana Property (Word)
+title: Options.MatchFuzzySmallKana property (Word)
 keywords: vbawd10.chm162988344
 f1_keywords:
 - vbawd10.chm162988344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzySmallKana Property (Word)
+# Options.MatchFuzzySmallKana property (Word)
 
  **True** if Microsoft Word ignores the distinction between diphthongs and double consonants during a search. Read/write **Boolean** .
 

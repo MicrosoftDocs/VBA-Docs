@@ -1,5 +1,5 @@
 ---
-title: TaskPanes.Application Property (Word)
+title: TaskPanes.Application property (Word)
 ms.prod: word
 api_name:
 - Word.TaskPanes.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPanes.Application Property (Word)
+# TaskPanes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

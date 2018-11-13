@@ -1,5 +1,5 @@
 ---
-title: WdPasteOptions Enumeration (Word)
+title: WdPasteOptions enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPasteOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPasteOptions Enumeration (Word)
+# WdPasteOptions enumeration (Word)
 
 Indicates how to paste copied text.
 

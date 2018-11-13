@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Value Property (Word)
+title: ContentControlListEntry.Value property (Word)
 keywords: vbawd10.chm147456104
 f1_keywords:
 - vbawd10.chm147456104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Value Property (Word)
+# ContentControlListEntry.Value property (Word)
 
 Returns or sets a  **String** that represents the programmatic value of an item in a drop-down list or combo box content control. Read/write.
 

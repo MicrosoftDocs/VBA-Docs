@@ -1,5 +1,5 @@
 ---
-title: Selection.Orientation Property (Word)
+title: Selection.Orientation property (Word)
 keywords: vbawd10.chm158663066
 f1_keywords:
 - vbawd10.chm158663066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Orientation Property (Word)
+# Selection.Orientation property (Word)
 
 Returns or sets the orientation of text in a selection when the Text Direction feature is enabled. Read/write  **WdTextOrientation** .
 

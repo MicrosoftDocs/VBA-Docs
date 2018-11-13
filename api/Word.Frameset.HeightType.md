@@ -1,5 +1,5 @@
 ---
-title: Frameset.HeightType Property (Word)
+title: Frameset.HeightType property (Word)
 keywords: vbawd10.chm165806082
 f1_keywords:
 - vbawd10.chm165806082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.HeightType Property (Word)
+# Frameset.HeightType property (Word)
 
 Returns or sets the width type for the specified frame on a frames page. Read/write  **WdFramesetSizeType** .
 

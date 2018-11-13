@@ -1,5 +1,5 @@
 ---
-title: Table.Rows Property (Word)
+title: Table.Rows property (Word)
 keywords: vbawd10.chm156303461
 f1_keywords:
 - vbawd10.chm156303461
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Rows Property (Word)
+# Table.Rows property (Word)
 
 Returns a  **Rows** collection that represents all the table rows within a table. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.BackgroundPrintingStatus Property (Word)
+title: Application.BackgroundPrintingStatus property (Word)
 keywords: vbawd10.chm158335062
 f1_keywords:
 - vbawd10.chm158335062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.BackgroundPrintingStatus Property (Word)
+# Application.BackgroundPrintingStatus property (Word)
 
 Returns the number of print jobs in the background printing queue. Read-only  **Long** .
 

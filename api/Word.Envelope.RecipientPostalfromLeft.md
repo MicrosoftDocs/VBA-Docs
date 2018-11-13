@@ -1,5 +1,5 @@
 ---
-title: Envelope.RecipientPostalfromLeft Property (Word)
+title: Envelope.RecipientPostalfromLeft property (Word)
 keywords: vbawd10.chm152567833
 f1_keywords:
 - vbawd10.chm152567833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.RecipientPostalfromLeft Property (Word)
+# Envelope.RecipientPostalfromLeft property (Word)
 
 Returns or sets a  **Single** that represents the position, measured in points, of the recipient's postal code from the left edge of the envelope. Read/write.
 

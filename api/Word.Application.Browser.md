@@ -1,5 +1,5 @@
 ---
-title: Application.Browser Property (Word)
+title: Application.Browser property (Word)
 keywords: vbawd10.chm158334992
 f1_keywords:
 - vbawd10.chm158334992
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Browser Property (Word)
+# Application.Browser property (Word)
 
 Returns a  **[Browser](Word.Browser.md)** object that represents the **Select Browse Object** tool on the vertical scroll bar. Read-only.
 

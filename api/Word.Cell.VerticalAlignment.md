@@ -1,5 +1,5 @@
 ---
-title: Cell.VerticalAlignment Property (Word)
+title: Cell.VerticalAlignment property (Word)
 keywords: vbawd10.chm156107856
 f1_keywords:
 - vbawd10.chm156107856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.VerticalAlignment Property (Word)
+# Cell.VerticalAlignment property (Word)
 
 Returns or sets the vertical alignment of text in one or more cells of a table. Read/write  **WdCellVerticalAlignment** .
 

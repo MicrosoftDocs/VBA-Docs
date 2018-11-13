@@ -1,5 +1,5 @@
 ---
-title: DataLabels.HorizontalAlignment Property (Word)
+title: DataLabels.HorizontalAlignment property (Word)
 keywords: vbawd10.chm207487112
 f1_keywords:
 - vbawd10.chm207487112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.HorizontalAlignment Property (Word)
+# DataLabels.HorizontalAlignment property (Word)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
 

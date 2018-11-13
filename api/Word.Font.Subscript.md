@@ -1,5 +1,5 @@
 ---
-title: Font.Subscript Property (Word)
+title: Font.Subscript property (Word)
 keywords: vbawd10.chm156369034
 f1_keywords:
 - vbawd10.chm156369034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Subscript Property (Word)
+# Font.Subscript property (Word)
 
  **True** if the font is formatted as subscript. Read/write **Long** .
 

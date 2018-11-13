@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.Parent Property (Word)
+title: XMLNamespace.Parent property (Word)
 keywords: vbawd10.chm2294762
 f1_keywords:
 - vbawd10.chm2294762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.Parent Property (Word)
+# XMLNamespace.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **XMLNamespace** object.
 

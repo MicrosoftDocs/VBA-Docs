@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Width Property (Word)
+title: LegendEntry.Width property (Word)
 keywords: vbawd10.chm4784250
 f1_keywords:
 - vbawd10.chm4784250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Width Property (Word)
+# LegendEntry.Width property (Word)
 
 Returns the width, in points, of the object. Read-only  **Double** .
 

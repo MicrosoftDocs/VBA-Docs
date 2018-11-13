@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.InvalidComments Property (Word)
+title: MailMergeDataSource.InvalidComments property (Word)
 keywords: vbawd10.chm152895503
 f1_keywords:
 - vbawd10.chm152895503
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.InvalidComments Property (Word)
+# MailMergeDataSource.InvalidComments property (Word)
 
 If the  **[InvalidAddress](Word.MailMergeDataSource.InvalidAddress.md)** property is **True** , returns or sets a **String** that describes an invalid address error. Read/write.
 

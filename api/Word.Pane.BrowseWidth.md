@@ -1,5 +1,5 @@
 ---
-title: Pane.BrowseWidth Property (Word)
+title: Pane.BrowseWidth property (Word)
 keywords: vbawd10.chm157286417
 f1_keywords:
 - vbawd10.chm157286417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.BrowseWidth Property (Word)
+# Pane.BrowseWidth property (Word)
 
 Returns the width (in points) of the area in which text wraps in the specified pane. Read-only  **Long** .
 

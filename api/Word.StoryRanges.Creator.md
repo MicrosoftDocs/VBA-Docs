@@ -1,5 +1,5 @@
 ---
-title: StoryRanges.Creator Property (Word)
+title: StoryRanges.Creator property (Word)
 keywords: vbawd10.chm160170985
 f1_keywords:
 - vbawd10.chm160170985
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StoryRanges.Creator Property (Word)
+# StoryRanges.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

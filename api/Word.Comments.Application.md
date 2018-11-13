@@ -1,5 +1,5 @@
 ---
-title: Comments.Application Property (Word)
+title: Comments.Application property (Word)
 keywords: vbawd10.chm155190248
 f1_keywords:
 - vbawd10.chm155190248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Application Property (Word)
+# Comments.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

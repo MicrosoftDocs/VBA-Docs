@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.ScrPre Property (Word)
+title: OMathFunction.ScrPre property (Word)
 keywords: vbawd10.chm22151287
 f1_keywords:
 - vbawd10.chm22151287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.ScrPre Property (Word)
+# OMathFunction.ScrPre property (Word)
 
 Returns an  **[OMathScrPre](Word.OMathScrPre.md)** object that represents a superscript and subscript to the left of the base. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.InvalidAddress Property (Word)
+title: MailMergeDataSource.InvalidAddress property (Word)
 keywords: vbawd10.chm152895502
 f1_keywords:
 - vbawd10.chm152895502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.InvalidAddress Property (Word)
+# MailMergeDataSource.InvalidAddress property (Word)
 
  **True** for Microsoft Word to mark a record in a mail merge data source if it contains invalid data in an address field. Read/write **Boolean** .
 

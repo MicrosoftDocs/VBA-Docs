@@ -1,5 +1,5 @@
 ---
-title: DropLines.Creator Property (Word)
+title: DropLines.Creator property (Word)
 keywords: vbawd10.chm104988821
 f1_keywords:
 - vbawd10.chm104988821
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Creator Property (Word)
+# DropLines.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

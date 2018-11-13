@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Contrast Property (Word)
+title: PictureFormat.Contrast property (Word)
 keywords: vbawd10.chm164298854
 f1_keywords:
 - vbawd10.chm164298854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Contrast Property (Word)
+# PictureFormat.Contrast property (Word)
 
 Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdStoryType Enumeration (Word)
+title: WdStoryType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStoryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStoryType Enumeration (Word)
+# WdStoryType enumeration (Word)
 
 Specifies the story type of a selection or item.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsCountValue Property (Word)
+title: ChartGroup.BinsCountValue property (Word)
 keywords: vbawd10.chm263457613
 f1_keywords:
 - vbawd10.chm263457613
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BinsCountValue Property (Word)
+# ChartGroup.BinsCountValue property (Word)
 
 Specifies the number of bins in the histogram chart. Read/write  **Long**.
 

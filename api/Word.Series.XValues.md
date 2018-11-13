@@ -1,5 +1,5 @@
 ---
-title: Series.XValues Property (Word)
+title: Series.XValues property (Word)
 keywords: vbawd10.chm123733079
 f1_keywords:
 - vbawd10.chm123733079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.XValues Property (Word)
+# Series.XValues property (Word)
 
 Returns or sets an array of x values for a chart series. Read/write  **Variant** .
 

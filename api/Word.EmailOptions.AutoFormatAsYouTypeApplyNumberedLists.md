@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 keywords: vbawd10.chm165347591
 f1_keywords:
 - vbawd10.chm165347591
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 
  **True** if paragraphs are automatically formatted as numbered lists. Read/write **Boolean** .
 

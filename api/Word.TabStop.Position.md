@@ -1,5 +1,5 @@
 ---
-title: TabStop.Position Property (Word)
+title: TabStop.Position property (Word)
 keywords: vbawd10.chm156500070
 f1_keywords:
 - vbawd10.chm156500070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Position Property (Word)
+# TabStop.Position property (Word)
 
 Returns or sets the position of a tab stop relative to the left margin. Read/write  **Single** .
 

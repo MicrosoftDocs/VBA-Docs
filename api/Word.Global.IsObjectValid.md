@@ -1,5 +1,5 @@
 ---
-title: Global.IsObjectValid Property (Word)
+title: Global.IsObjectValid property (Word)
 keywords: vbawd10.chm163119213
 f1_keywords:
 - vbawd10.chm163119213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.IsObjectValid Property (Word)
+# Global.IsObjectValid property (Word)
 
  **True** if the specified variable that references an object is valid. Read-only **Boolean** .
 

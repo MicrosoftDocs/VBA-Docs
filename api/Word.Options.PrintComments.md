@@ -1,5 +1,5 @@
 ---
-title: Options.PrintComments Property (Word)
+title: Options.PrintComments property (Word)
 keywords: vbawd10.chm162988065
 f1_keywords:
 - vbawd10.chm162988065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintComments Property (Word)
+# Options.PrintComments property (Word)
 
  **True** if Microsoft Word prints comments, starting on a new page at the end of the document. Read/write **Boolean** .
 

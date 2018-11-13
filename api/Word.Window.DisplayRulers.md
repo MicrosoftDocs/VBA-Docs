@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayRulers Property (Word)
+title: Window.DisplayRulers property (Word)
 keywords: vbawd10.chm157417484
 f1_keywords:
 - vbawd10.chm157417484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayRulers Property (Word)
+# Window.DisplayRulers property (Word)
 
  **True** if rulers are displayed for the specified window or pane. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Revision.Style Property (Word)
+title: Revision.Style property (Word)
 keywords: vbawd10.chm159449096
 f1_keywords:
 - vbawd10.chm159449096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Style Property (Word)
+# Revision.Style property (Word)
 
 Returns a  **Style** object that represents the style associated with a revision mark.
 

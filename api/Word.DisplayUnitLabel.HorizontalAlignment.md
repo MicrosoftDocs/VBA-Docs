@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.HorizontalAlignment Property (Word)
+title: DisplayUnitLabel.HorizontalAlignment property (Word)
 keywords: vbawd10.chm94568452
 f1_keywords:
 - vbawd10.chm94568452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.HorizontalAlignment Property (Word)
+# DisplayUnitLabel.HorizontalAlignment property (Word)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
 

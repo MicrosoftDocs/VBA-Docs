@@ -1,5 +1,5 @@
 ---
-title: Options.EnableHangulHanjaRecentOrdering Property (Word)
+title: Options.EnableHangulHanjaRecentOrdering property (Word)
 keywords: vbawd10.chm162988374
 f1_keywords:
 - vbawd10.chm162988374
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableHangulHanjaRecentOrdering Property (Word)
+# Options.EnableHangulHanjaRecentOrdering property (Word)
 
  **True** if Microsoft Word displays the most recently used words at the top of the suggestions list during conversion between Hangul and Hanja. Read/write **Boolean** .
 

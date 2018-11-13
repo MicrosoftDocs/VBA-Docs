@@ -1,5 +1,5 @@
 ---
-title: View.ShowFirstLineOnly Property (Word)
+title: View.ShowFirstLineOnly property (Word)
 keywords: vbawd10.chm161808392
 f1_keywords:
 - vbawd10.chm161808392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowFirstLineOnly Property (Word)
+# View.ShowFirstLineOnly property (Word)
 
  **True** if only the first line of body text is shown in outline view. Read/write **Boolean** .
 

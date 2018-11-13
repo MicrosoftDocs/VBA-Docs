@@ -1,5 +1,5 @@
 ---
-title: Editor.Application Property (Word)
+title: Editor.Application property (Word)
 keywords: vbawd10.chm225575912
 f1_keywords:
 - vbawd10.chm225575912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.Application Property (Word)
+# Editor.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

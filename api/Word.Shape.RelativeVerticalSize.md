@@ -1,5 +1,5 @@
 ---
-title: Shape.RelativeVerticalSize Property (Word)
+title: Shape.RelativeVerticalSize property (Word)
 keywords: vbawd10.chm161480909
 f1_keywords:
 - vbawd10.chm161480909
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.RelativeVerticalSize Property (Word)
+# Shape.RelativeVerticalSize property (Word)
 
 Returns or sets a  **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the relative vertical size of a shape. Read/write.
 

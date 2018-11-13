@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Separator Property (Word)
+title: Footnotes.Separator property (Word)
 keywords: vbawd10.chm155320424
 f1_keywords:
 - vbawd10.chm155320424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Separator Property (Word)
+# Footnotes.Separator property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the footnote separator.
 

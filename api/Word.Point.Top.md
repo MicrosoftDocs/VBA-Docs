@@ -1,5 +1,5 @@
 ---
-title: Point.Top Property (Word)
+title: Point.Top property (Word)
 keywords: vbawd10.chm262146655
 f1_keywords:
 - vbawd10.chm262146655
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Top Property (Word)
+# Point.Top property (Word)
 
 Returns a value that represents the distance, in points, from the top edge of the object to the top edge of the chart area. Read-only.
 

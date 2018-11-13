@@ -1,5 +1,5 @@
 ---
-title: Window.Caption Property (Word)
+title: Window.Caption property (Word)
 keywords: vbawd10.chm157417472
 f1_keywords:
 - vbawd10.chm157417472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Caption Property (Word)
+# Window.Caption property (Word)
 
 Returns or sets the caption text for the window that is displayed in the title bar of the document or application window. Read/write  **String** .
 

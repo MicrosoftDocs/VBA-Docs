@@ -1,5 +1,5 @@
 ---
-title: Window.Top Property (Word)
+title: Window.Top property (Word)
 keywords: vbawd10.chm157417478
 f1_keywords:
 - vbawd10.chm157417478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Top Property (Word)
+# Window.Top property (Word)
 
 Returns or sets the vertical position of the specified document window, in points. Read/write  **Long** .
 

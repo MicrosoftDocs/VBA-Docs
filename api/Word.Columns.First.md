@@ -1,5 +1,5 @@
 ---
-title: Columns.First Property (Word)
+title: Columns.First property (Word)
 keywords: vbawd10.chm155910244
 f1_keywords:
 - vbawd10.chm155910244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.First Property (Word)
+# Columns.First property (Word)
 
 Returns a  **[Column](Word.Column.md)** object that represents the first item in the **Columns** collection.
 

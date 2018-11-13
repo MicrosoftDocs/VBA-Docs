@@ -1,5 +1,5 @@
 ---
-title: WdIndexType Enumeration (Word)
+title: WdIndexType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIndexType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdIndexType Enumeration (Word)
+# WdIndexType enumeration (Word)
 
 Specifies the type of index.
 

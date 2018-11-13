@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Parent Property (Word)
+title: TextFrame.Parent property (Word)
 keywords: vbawd10.chm162660353
 f1_keywords:
 - vbawd10.chm162660353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Parent Property (Word)
+# TextFrame.Parent property (Word)
 
 Returns a  **Shape** object that represents the parent shape of the text frame.
 

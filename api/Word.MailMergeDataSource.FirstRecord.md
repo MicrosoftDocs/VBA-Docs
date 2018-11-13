@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FirstRecord Property (Word)
+title: MailMergeDataSource.FirstRecord property (Word)
 keywords: vbawd10.chm152895496
 f1_keywords:
 - vbawd10.chm152895496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.FirstRecord Property (Word)
+# MailMergeDataSource.FirstRecord property (Word)
 
 Returns or sets the number of the first record to be merged in a mail merge operation. Read/write  **Long** .
 

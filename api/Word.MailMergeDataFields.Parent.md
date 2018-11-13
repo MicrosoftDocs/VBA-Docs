@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataFields.Parent Property (Word)
+title: MailMergeDataFields.Parent property (Word)
 keywords: vbawd10.chm152699882
 f1_keywords:
 - vbawd10.chm152699882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataFields.Parent Property (Word)
+# MailMergeDataFields.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **MailMergeDataFields** object.
 

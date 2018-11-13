@@ -1,5 +1,5 @@
 ---
-title: WdTabLeader Enumeration (Word)
+title: WdTabLeader enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTabLeader
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTabLeader Enumeration (Word)
+# WdTabLeader enumeration (Word)
 
 Specifies the character to use as the leader with formatted tabs.
 

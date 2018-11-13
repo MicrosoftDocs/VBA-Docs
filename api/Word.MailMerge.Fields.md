@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Fields Property (Word)
+title: MailMerge.Fields property (Word)
 keywords: vbawd10.chm153092101
 f1_keywords:
 - vbawd10.chm153092101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.Fields Property (Word)
+# MailMerge.Fields property (Word)
 
 Returns a read-only  **MailMergeFields** collection that represents all the mail merge fields in the specified document.
 

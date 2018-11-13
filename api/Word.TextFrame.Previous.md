@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Previous Property (Word)
+title: TextFrame.Previous property (Word)
 keywords: vbawd10.chm162665354
 f1_keywords:
 - vbawd10.chm162665354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Previous Property (Word)
+# TextFrame.Previous property (Word)
 
 Returns a  **TextFrame** object that represents the previous text frame in a collection of shapes. Read-only.
 

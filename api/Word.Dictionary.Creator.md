@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Creator Property (Word)
+title: Dictionary.Creator property (Word)
 keywords: vbawd10.chm162333673
 f1_keywords:
 - vbawd10.chm162333673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.Creator Property (Word)
+# Dictionary.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

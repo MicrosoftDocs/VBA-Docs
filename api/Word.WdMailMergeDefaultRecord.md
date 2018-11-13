@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeDefaultRecord Enumeration (Word)
+title: WdMailMergeDefaultRecord enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeDefaultRecord
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeDefaultRecord Enumeration (Word)
+# WdMailMergeDefaultRecord enumeration (Word)
 
 Specifies the default record to use in a mail merge process.
 

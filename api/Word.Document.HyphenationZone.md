@@ -1,5 +1,5 @@
 ---
-title: Document.HyphenationZone Property (Word)
+title: Document.HyphenationZone property (Word)
 keywords: vbawd10.chm158007309
 f1_keywords:
 - vbawd10.chm158007309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.HyphenationZone Property (Word)
+# Document.HyphenationZone property (Word)
 
 Returns or sets the width of the hyphenation zone, in points. Read/write  **Long** .
 

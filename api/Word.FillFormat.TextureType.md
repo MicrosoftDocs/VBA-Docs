@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (Word)
+title: FillFormat.TextureType property (Word)
 keywords: vbawd10.chm164102254
 f1_keywords:
 - vbawd10.chm164102254
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureType Property (Word)
+# FillFormat.TextureType property (Word)
 
 Returns the texture type for the specified fill. Read-only  **MsoTextureType** .
 

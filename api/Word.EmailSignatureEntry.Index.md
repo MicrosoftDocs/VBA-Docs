@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry.Index Property (Word)
+title: EmailSignatureEntry.Index property (Word)
 keywords: vbawd10.chm166068225
 f1_keywords:
 - vbawd10.chm166068225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry.Index Property (Word)
+# EmailSignatureEntry.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

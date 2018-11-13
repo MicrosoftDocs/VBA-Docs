@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Top Property (Word)
+title: DataLabel.Top property (Word)
 keywords: vbawd10.chm233898110
 f1_keywords:
 - vbawd10.chm233898110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Top Property (Word)
+# DataLabel.Top property (Word)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of the first row (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double** .
 

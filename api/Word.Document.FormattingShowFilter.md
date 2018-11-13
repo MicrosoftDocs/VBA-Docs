@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowFilter Property (Word)
+title: Document.FormattingShowFilter property (Word)
 keywords: vbawd10.chm158007748
 f1_keywords:
 - vbawd10.chm158007748
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowFilter Property (Word)
+# Document.FormattingShowFilter property (Word)
 
 Sets or returns a  **WdShowFilter** constant that represents the styles and formatting displayed in the **Styles and Formatting** task pane. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Broadcast.State Property (Word)
+title: Broadcast.State property (Word)
 keywords: vbawd10.chm36438018
 f1_keywords:
 - vbawd10.chm36438018
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.State Property (Word)
+# Broadcast.State property (Word)
 
 Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-enumeration-office.md) constant that describes the current broadcast state. Read-only.
 

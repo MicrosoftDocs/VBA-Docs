@@ -1,5 +1,5 @@
 ---
-title: Application.NewDocument Property (Word)
+title: Application.NewDocument property (Word)
 keywords: vbawd10.chm158335430
 f1_keywords:
 - vbawd10.chm158335430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NewDocument Property (Word)
+# Application.NewDocument property (Word)
 
 Returns a  **NewFile** object that represents a document listed on the **New** tab.
 

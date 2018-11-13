@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Superscript Property (Word)
+title: ChartFont.Superscript property (Word)
 keywords: vbawd10.chm255918104
 f1_keywords:
 - vbawd10.chm255918104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Superscript Property (Word)
+# ChartFont.Superscript property (Word)
 
  **True** if the font is formatted as superscript. The default is **False** . Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: FormField.OwnHelp Property (Word)
+title: FormField.OwnHelp property (Word)
 keywords: vbawd10.chm153616389
 f1_keywords:
 - vbawd10.chm153616389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.OwnHelp Property (Word)
+# FormField.OwnHelp property (Word)
 
 Specifies the source of the text that's displayed in a message box when a form field has the focus and the user presses F1. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Find.MatchSuffix Property (Word)
+title: Find.MatchSuffix property (Word)
 keywords: vbawd10.chm162529386
 f1_keywords:
 - vbawd10.chm162529386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchSuffix Property (Word)
+# Find.MatchSuffix property (Word)
 
  **True** to match words ending with the search string. Read/write.
 

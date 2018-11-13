@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference.Location Property (Word)
+title: XMLSchemaReference.Location property (Word)
 keywords: vbawd10.chm32505859
 f1_keywords:
 - vbawd10.chm32505859
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference.Location Property (Word)
+# XMLSchemaReference.Location property (Word)
 
 Returns a  **String** that represents the physical location of an XML schema. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LetterContent.InfoBlock Property (Word)
+title: LetterContent.InfoBlock property (Word)
 keywords: vbawd10.chm161546365
 f1_keywords:
 - vbawd10.chm161546365
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.InfoBlock Property (Word)
+# LetterContent.InfoBlock property (Word)
 
 Associated with the Letter Wizard in Microsoft Word. Not used in the U.S. English version of Word.
 

@@ -1,5 +1,5 @@
 ---
-title: Rows.Creator Property (Word)
+title: Rows.Creator property (Word)
 keywords: vbawd10.chm155976681
 f1_keywords:
 - vbawd10.chm155976681
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Creator Property (Word)
+# Rows.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

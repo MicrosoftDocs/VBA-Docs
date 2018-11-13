@@ -1,5 +1,5 @@
 ---
-title: Interior.InvertIfNegative Property (Word)
+title: Interior.InvertIfNegative property (Word)
 keywords: vbawd10.chm2818052
 f1_keywords:
 - vbawd10.chm2818052
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.InvertIfNegative Property (Word)
+# Interior.InvertIfNegative property (Word)
 
  **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant** .
 

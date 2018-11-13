@@ -1,5 +1,5 @@
 ---
-title: WdInformation Enumeration (Word)
+title: WdInformation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInformation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdInformation Enumeration (Word)
+# WdInformation enumeration (Word)
 
 Specifies the type of information returned about a specified selection or range.
 

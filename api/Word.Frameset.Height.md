@@ -1,5 +1,5 @@
 ---
-title: Frameset.Height Property (Word)
+title: Frameset.Height property (Word)
 keywords: vbawd10.chm165806084
 f1_keywords:
 - vbawd10.chm165806084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.Height Property (Word)
+# Frameset.Height property (Word)
 
 Returns or sets a  **Float** that represents the height (in points) of the specified **Frameset** object. Read/write.
 

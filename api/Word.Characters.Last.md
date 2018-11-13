@@ -1,5 +1,5 @@
 ---
-title: Characters.Last Property (Word)
+title: Characters.Last property (Word)
 keywords: vbawd10.chm157089796
 f1_keywords:
 - vbawd10.chm157089796
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Last Property (Word)
+# Characters.Last property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the last character in the collection.
 

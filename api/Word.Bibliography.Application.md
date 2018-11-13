@@ -1,5 +1,5 @@
 ---
-title: Bibliography.Application Property (Word)
+title: Bibliography.Application property (Word)
 keywords: vbawd10.chm101646436
 f1_keywords:
 - vbawd10.chm101646436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.Application Property (Word)
+# Bibliography.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

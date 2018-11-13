@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.Name Property (Word)
+title: ChartCategory.Name property (Word)
 keywords: vbawd10.chm143392878
 f1_keywords:
 - vbawd10.chm143392878
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.Name Property (Word)
+# ChartCategory.Name property (Word)
 
 Returns or sets a  **String** that represents the name of a chart category. Read/write.
 

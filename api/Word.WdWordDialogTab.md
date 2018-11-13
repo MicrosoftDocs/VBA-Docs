@@ -1,5 +1,5 @@
 ---
-title: WdWordDialogTab Enumeration (Word)
+title: WdWordDialogTab enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWordDialogTab
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWordDialogTab Enumeration (Word)
+# WdWordDialogTab enumeration (Word)
 
 Specifies the active tab when the specified dialog box is displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: Sources.Application Property (Word)
+title: Sources.Application property (Word)
 keywords: vbawd10.chm40567784
 f1_keywords:
 - vbawd10.chm40567784
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sources.Application Property (Word)
+# Sources.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

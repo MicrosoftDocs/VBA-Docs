@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScale Property (Word)
+title: Axis.MaximumScale property (Word)
 keywords: vbawd10.chm113049628
 f1_keywords:
 - vbawd10.chm113049628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MaximumScale Property (Word)
+# Axis.MaximumScale property (Word)
 
 Returns or sets the maximum value on the value axis. Read/write  **Double** .
 

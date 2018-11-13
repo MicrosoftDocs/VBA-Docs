@@ -1,5 +1,5 @@
 ---
-title: Table.TopPadding Property (Word)
+title: Table.TopPadding property (Word)
 keywords: vbawd10.chm156303473
 f1_keywords:
 - vbawd10.chm156303473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.TopPadding Property (Word)
+# Table.TopPadding property (Word)
 
 Returns or sets the amount of space (in points) to add above the contents of all the cells in a table. Read/write  **Single** .
 

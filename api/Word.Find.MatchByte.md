@@ -1,5 +1,5 @@
 ---
-title: Find.MatchByte Property (Word)
+title: Find.MatchByte property (Word)
 keywords: vbawd10.chm162529321
 f1_keywords:
 - vbawd10.chm162529321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchByte Property (Word)
+# Find.MatchByte property (Word)
 
  **True** if Microsoft Word distinguishes between full-width and half-width letters or characters during a search. Read/write **Boolean** .
 

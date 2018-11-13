@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Border Property (Word)
+title: Gridlines.Border property (Word)
 keywords: vbawd10.chm11468928
 f1_keywords:
 - vbawd10.chm11468928
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Border Property (Word)
+# Gridlines.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

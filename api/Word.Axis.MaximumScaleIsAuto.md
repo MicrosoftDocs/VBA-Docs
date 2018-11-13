@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScaleIsAuto Property (Word)
+title: Axis.MaximumScaleIsAuto property (Word)
 keywords: vbawd10.chm113049630
 f1_keywords:
 - vbawd10.chm113049630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MaximumScaleIsAuto Property (Word)
+# Axis.MaximumScaleIsAuto property (Word)
 
  **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean** .
 

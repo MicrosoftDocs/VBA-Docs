@@ -1,5 +1,5 @@
 ---
-title: Document.PrintRevisions Property (Word)
+title: Document.PrintRevisions property (Word)
 keywords: vbawd10.chm158007611
 f1_keywords:
 - vbawd10.chm158007611
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PrintRevisions Property (Word)
+# Document.PrintRevisions property (Word)
 
  **True** if revision marks are printed with the document. **False** if revision marks aren't printed (that is, tracked changes are printed as if they'd been accepted). Read/write **Boolean** .
 

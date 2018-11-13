@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Parent Property (Word)
+title: PictureFormat.Parent property (Word)
 keywords: vbawd10.chm164298753
 f1_keywords:
 - vbawd10.chm164298753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Parent Property (Word)
+# PictureFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **PictureFormat** object.
 

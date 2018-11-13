@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowFont Property (Word)
+title: Document.FormattingShowFont property (Word)
 keywords: vbawd10.chm158007744
 f1_keywords:
 - vbawd10.chm158007744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowFont Property (Word)
+# Document.FormattingShowFont property (Word)
 
  **True** for Microsoft Word to display font formatting in the **Styles and Formatting** task pane. Read/write **Boolean** .
 

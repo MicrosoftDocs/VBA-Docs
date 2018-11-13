@@ -1,5 +1,5 @@
 ---
-title: FormField.Next Property (Word)
+title: FormField.Next property (Word)
 keywords: vbawd10.chm153616398
 f1_keywords:
 - vbawd10.chm153616398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Next Property (Word)
+# FormField.Next property (Word)
 
 Returns the next form field in the collection. Read-only.
 

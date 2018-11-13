@@ -1,5 +1,5 @@
 ---
-title: Application.PortraitFontNames Property (Word)
+title: Application.PortraitFontNames property (Word)
 keywords: vbawd10.chm158334989
 f1_keywords:
 - vbawd10.chm158334989
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PortraitFontNames Property (Word)
+# Application.PortraitFontNames property (Word)
 
 Returns a  **[FontNames](Word.FontNames.md)** object that includes the names of all the available portrait fonts.
 

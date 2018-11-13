@@ -1,5 +1,5 @@
 ---
-title: Tables.Creator Property (Word)
+title: Tables.Creator property (Word)
 keywords: vbawd10.chm156042217
 f1_keywords:
 - vbawd10.chm156042217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Creator Property (Word)
+# Tables.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

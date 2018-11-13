@@ -1,5 +1,5 @@
 ---
-title: Options.SequenceCheck Property (Word)
+title: Options.SequenceCheck property (Word)
 keywords: vbawd10.chm162988458
 f1_keywords:
 - vbawd10.chm162988458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SequenceCheck Property (Word)
+# Options.SequenceCheck property (Word)
 
  **True** to check the sequence of independent characters for South Asian text. Read/write **Boolean** .
 

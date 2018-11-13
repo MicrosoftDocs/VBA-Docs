@@ -1,5 +1,5 @@
 ---
-title: Zoom.PageColumns Property (Word)
+title: Zoom.PageColumns property (Word)
 keywords: vbawd10.chm161873923
 f1_keywords:
 - vbawd10.chm161873923
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zoom.PageColumns Property (Word)
+# Zoom.PageColumns property (Word)
 
 Returns or sets the number of pages to be displayed side by side on-screen at the same time in print layout view or print preview. Read/write  **Long** .
 

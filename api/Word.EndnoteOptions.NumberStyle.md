@@ -1,5 +1,5 @@
 ---
-title: EndnoteOptions.NumberStyle Property (Word)
+title: EndnoteOptions.NumberStyle property (Word)
 keywords: vbawd10.chm23593061
 f1_keywords:
 - vbawd10.chm23593061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EndnoteOptions.NumberStyle Property (Word)
+# EndnoteOptions.NumberStyle property (Word)
 
 Returns or sets the number style for the endnotes. Read/write  **WdNoteNumberStyle** .
 

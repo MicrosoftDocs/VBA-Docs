@@ -1,5 +1,5 @@
 ---
-title: Frameset.FrameDisplayBorders Property (Word)
+title: Frameset.FrameDisplayBorders property (Word)
 keywords: vbawd10.chm165806115
 f1_keywords:
 - vbawd10.chm165806115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FrameDisplayBorders Property (Word)
+# Frameset.FrameDisplayBorders property (Word)
 
  **True** if the frame borders on the specified frames page are displayed. Read/write **Boolean** .
 

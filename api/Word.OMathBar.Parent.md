@@ -1,5 +1,5 @@
 ---
-title: OMathBar.Parent Property (Word)
+title: OMathBar.Parent property (Word)
 keywords: vbawd10.chm99680358
 f1_keywords:
 - vbawd10.chm99680358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBar.Parent Property (Word)
+# OMathBar.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathBar** object.
 

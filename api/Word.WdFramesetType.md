@@ -1,5 +1,5 @@
 ---
-title: WdFramesetType Enumeration (Word)
+title: WdFramesetType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramesetType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFramesetType Enumeration (Word)
+# WdFramesetType enumeration (Word)
 
 Specifies the type of frame.
 

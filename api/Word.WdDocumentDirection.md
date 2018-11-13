@@ -1,5 +1,5 @@
 ---
-title: WdDocumentDirection Enumeration (Word)
+title: WdDocumentDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocumentDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocumentDirection Enumeration (Word)
+# WdDocumentDirection enumeration (Word)
 
 Specifies the direction to flow the text in a document.
 

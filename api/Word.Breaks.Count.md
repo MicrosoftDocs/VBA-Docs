@@ -1,5 +1,5 @@
 ---
-title: Breaks.Count Property (Word)
+title: Breaks.Count property (Word)
 keywords: vbawd10.chm50921474
 f1_keywords:
 - vbawd10.chm50921474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Breaks.Count Property (Word)
+# Breaks.Count property (Word)
 
 Returns the number of items in the  **Breaks** collection. Read-only **Long** .
 

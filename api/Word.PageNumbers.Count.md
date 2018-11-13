@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.Count Property (Word)
+title: PageNumbers.Count property (Word)
 keywords: vbawd10.chm159776769
 f1_keywords:
 - vbawd10.chm159776769
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.Count Property (Word)
+# PageNumbers.Count property (Word)
 
 Returns a  **Long** that represents the number of page numbers in the collection. Read-only.
 

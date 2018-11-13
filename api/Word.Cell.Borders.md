@@ -1,5 +1,5 @@
 ---
-title: Cell.Borders Property (Word)
+title: Cell.Borders property (Word)
 keywords: vbawd10.chm156107852
 f1_keywords:
 - vbawd10.chm156107852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Borders Property (Word)
+# Cell.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Pane.HorizontalPercentScrolled Property (Word)
+title: Pane.HorizontalPercentScrolled property (Word)
 keywords: vbawd10.chm157286413
 f1_keywords:
 - vbawd10.chm157286413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.HorizontalPercentScrolled Property (Word)
+# Pane.HorizontalPercentScrolled property (Word)
 
 Returns or sets the horizontal scroll position as a percentage of the document width. Read/write  **Long** .
 

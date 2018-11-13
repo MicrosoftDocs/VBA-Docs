@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Shadow Property (Word)
+title: DataLabels.Shadow property (Word)
 keywords: vbawd10.chm207487079
 f1_keywords:
 - vbawd10.chm207487079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Shadow Property (Word)
+# DataLabels.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

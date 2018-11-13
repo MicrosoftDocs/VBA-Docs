@@ -1,5 +1,5 @@
 ---
-title: Document.CompatibilityMode Property (Word)
+title: Document.CompatibilityMode property (Word)
 keywords: vbawd10.chm158007863
 f1_keywords:
 - vbawd10.chm158007863
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CompatibilityMode Property (Word)
+# Document.CompatibilityMode property (Word)
 
 Returns a  **Long** that specifies the compatibility mode that Word uses when opening the document. Read-only.
 

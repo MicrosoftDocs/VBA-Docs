@@ -1,5 +1,5 @@
 ---
-title: Document.TextLineEnding Property (Word)
+title: Document.TextLineEnding property (Word)
 keywords: vbawd10.chm158007654
 f1_keywords:
 - vbawd10.chm158007654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TextLineEnding Property (Word)
+# Document.TextLineEnding property (Word)
 
 Returns or sets a  **WdLineEndingType** constant indicating how Microsoft Word marks the line and paragraph breaks in documents saved as text files. Read/write.
 

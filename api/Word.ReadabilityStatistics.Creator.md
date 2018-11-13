@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistics.Creator Property (Word)
+title: ReadabilityStatistics.Creator property (Word)
 keywords: vbawd10.chm162399209
 f1_keywords:
 - vbawd10.chm162399209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistics.Creator Property (Word)
+# ReadabilityStatistics.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

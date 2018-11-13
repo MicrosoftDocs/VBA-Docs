@@ -1,5 +1,5 @@
 ---
-title: Document.UseMathDefaults Property (Word)
+title: Document.UseMathDefaults property (Word)
 keywords: vbawd10.chm158007856
 f1_keywords:
 - vbawd10.chm158007856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.UseMathDefaults Property (Word)
+# Document.UseMathDefaults property (Word)
 
 Returns or sets a  **Boolean** that represents whether to use the default math settings when creating new equations. Read/write.
 

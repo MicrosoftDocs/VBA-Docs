@@ -1,5 +1,5 @@
 ---
-title: WdReadingLayoutMargin Enumeration (Word)
+title: WdReadingLayoutMargin enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReadingLayoutMargin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdReadingLayoutMargin Enumeration (Word)
+# WdReadingLayoutMargin enumeration (Word)
 
 Specifies whether margins are visible or hidden when a document is viewed in Full Screen Reading view.
 

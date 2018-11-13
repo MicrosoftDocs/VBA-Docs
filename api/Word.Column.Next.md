@@ -1,5 +1,5 @@
 ---
-title: Column.Next Property (Word)
+title: Column.Next property (Word)
 keywords: vbawd10.chm156172391
 f1_keywords:
 - vbawd10.chm156172391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Next Property (Word)
+# Column.Next property (Word)
 
 Returns the next column in a collection of table columns. Read-only.
 

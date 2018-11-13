@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedPropertiesColor Property (Word)
+title: Options.RevisedPropertiesColor property (Word)
 keywords: vbawd10.chm162988109
 f1_keywords:
 - vbawd10.chm162988109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RevisedPropertiesColor Property (Word)
+# Options.RevisedPropertiesColor property (Word)
 
 Returns or sets the color used to mark formatting changes while change tracking is enabled. Read/write  **WdColorIndex** .
 

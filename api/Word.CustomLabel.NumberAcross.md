@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.NumberAcross Property (Word)
+title: CustomLabel.NumberAcross property (Word)
 keywords: vbawd10.chm152371209
 f1_keywords:
 - vbawd10.chm152371209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.NumberAcross Property (Word)
+# CustomLabel.NumberAcross property (Word)
 
 Returns or sets the number of custom mailing labels across a page. Read/write  **Long** .
 

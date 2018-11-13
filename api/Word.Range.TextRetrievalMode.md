@@ -1,5 +1,5 @@
 ---
-title: Range.TextRetrievalMode Property (Word)
+title: Range.TextRetrievalMode property (Word)
 keywords: vbawd10.chm157155390
 f1_keywords:
 - vbawd10.chm157155390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TextRetrievalMode Property (Word)
+# Range.TextRetrievalMode property (Word)
 
 Returns a  **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that controls how text is retrieved from the specified **Range** . Read/write.
 

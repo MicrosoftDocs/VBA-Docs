@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.FirstLetterExceptions Property (Word)
+title: AutoCorrect.FirstLetterExceptions property (Word)
 keywords: vbawd10.chm155779079
 f1_keywords:
 - vbawd10.chm155779079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.FirstLetterExceptions Property (Word)
+# AutoCorrect.FirstLetterExceptions property (Word)
 
 Returns a  **[FirstLetterExceptions](Word.firstletterexceptions.md)** collection that represents the list of abbreviations after which Word won't automatically capitalize the next letter. Read-only.
 

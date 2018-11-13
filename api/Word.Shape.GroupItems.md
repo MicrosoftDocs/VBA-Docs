@@ -1,5 +1,5 @@
 ---
-title: Shape.GroupItems Property (Word)
+title: Shape.GroupItems property (Word)
 keywords: vbawd10.chm161480812
 f1_keywords:
 - vbawd10.chm161480812
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.GroupItems Property (Word)
+# Shape.GroupItems property (Word)
 
 Returns a  **[GroupShapes](Word.groupshapes.md)** object that represents the individual shapes in the specified group. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.Top Property (Word)
+title: Application.Top property (Word)
 keywords: vbawd10.chm158335064
 f1_keywords:
 - vbawd10.chm158335064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Top Property (Word)
+# Application.Top property (Word)
 
 Returns or sets the vertical position of the active document. Read/write  **Long** .
 

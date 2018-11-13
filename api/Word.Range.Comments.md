@@ -1,5 +1,5 @@
 ---
-title: Range.Comments Property (Word)
+title: Range.Comments property (Word)
 keywords: vbawd10.chm157155384
 f1_keywords:
 - vbawd10.chm157155384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Comments Property (Word)
+# Range.Comments property (Word)
 
 Returns a  **[Comments](Word.comments.md)** collection that represents all the comments in the specified document, selection, or range. Read-only.
 

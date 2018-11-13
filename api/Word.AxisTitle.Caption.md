@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Caption Property (Word)
+title: AxisTitle.Caption property (Word)
 keywords: vbawd10.chm98238464
 f1_keywords:
 - vbawd10.chm98238464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Caption Property (Word)
+# AxisTitle.Caption property (Word)
 
 Returns or sets a  **String** value that represents the axis title text.
 

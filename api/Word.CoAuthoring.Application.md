@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Application Property (Word)
+title: CoAuthoring.Application property (Word)
 keywords: vbawd10.chm254870504
 f1_keywords:
 - vbawd10.chm254870504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Application Property (Word)
+# CoAuthoring.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

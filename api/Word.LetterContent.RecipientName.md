@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientName Property (Word)
+title: LetterContent.RecipientName property (Word)
 keywords: vbawd10.chm161546348
 f1_keywords:
 - vbawd10.chm161546348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.RecipientName Property (Word)
+# LetterContent.RecipientName property (Word)
 
 Returns or sets the name of the person who'll be receiving the letter created by the Letter Wizard. Read/write  **String** .
 

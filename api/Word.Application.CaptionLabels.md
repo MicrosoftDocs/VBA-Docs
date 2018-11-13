@@ -1,5 +1,5 @@
 ---
-title: Application.CaptionLabels Property (Word)
+title: Application.CaptionLabels property (Word)
 keywords: vbawd10.chm158334996
 f1_keywords:
 - vbawd10.chm158334996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CaptionLabels Property (Word)
+# Application.CaptionLabels property (Word)
 
 Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents all the available caption labels. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Language.Name Property (Word)
+title: Language.Name property (Word)
 keywords: vbawd10.chm158138380
 f1_keywords:
 - vbawd10.chm158138380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.Name Property (Word)
+# Language.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

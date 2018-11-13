@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.Parent Property (Word)
+title: OMathAutoCorrect.Parent property (Word)
 keywords: vbawd10.chm258474086
 f1_keywords:
 - vbawd10.chm258474086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.Parent Property (Word)
+# OMathAutoCorrect.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathAutoCorrect** object.
 

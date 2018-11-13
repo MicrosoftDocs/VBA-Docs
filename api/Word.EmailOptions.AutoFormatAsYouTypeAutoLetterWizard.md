@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeAutoLetterWizard Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeAutoLetterWizard property (Word)
 keywords: vbawd10.chm165347632
 f1_keywords:
 - vbawd10.chm165347632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeAutoLetterWizard Property (Word)
+# EmailOptions.AutoFormatAsYouTypeAutoLetterWizard property (Word)
 
  **True** for Microsoft Word to automatically start the Letter Wizard when the user enters a letter salutation or closing. Read/write.
 

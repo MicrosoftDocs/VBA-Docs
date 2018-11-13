@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.PageNumberSeparator Property (Word)
+title: TableOfAuthorities.PageNumberSeparator property (Word)
 keywords: vbawd10.chm152109066
 f1_keywords:
 - vbawd10.chm152109066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.PageNumberSeparator Property (Word)
+# TableOfAuthorities.PageNumberSeparator property (Word)
 
 Returns of sets the characters (up to five) that separate individual page references in a table of authorities. Read/write  **String** .
 

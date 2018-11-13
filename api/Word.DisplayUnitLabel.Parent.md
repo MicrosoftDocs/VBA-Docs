@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Parent Property (Word)
+title: DisplayUnitLabel.Parent property (Word)
 keywords: vbawd10.chm94568475
 f1_keywords:
 - vbawd10.chm94568475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Parent Property (Word)
+# DisplayUnitLabel.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

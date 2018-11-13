@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Chart Property (Word)
+title: InlineShape.Chart property (Word)
 keywords: vbawd10.chm162005141
 f1_keywords:
 - vbawd10.chm162005141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Chart Property (Word)
+# InlineShape.Chart property (Word)
 
 Returns a  **Chart** object that represents a chart within the collection of inline shapes in a document. Read-only.
 

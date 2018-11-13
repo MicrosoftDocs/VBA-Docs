@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Word)
+title: Hyperlink.SubAddress property (Word)
 keywords: vbawd10.chm161285197
 f1_keywords:
 - vbawd10.chm161285197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.SubAddress Property (Word)
+# Hyperlink.SubAddress property (Word)
 
 Returns or sets a named location in the destination of the specified hyperlink. Read/write  **String** .
 

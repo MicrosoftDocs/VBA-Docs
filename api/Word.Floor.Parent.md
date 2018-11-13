@@ -1,5 +1,5 @@
 ---
-title: Floor.Parent Property (Word)
+title: Floor.Parent property (Word)
 keywords: vbawd10.chm46006422
 f1_keywords:
 - vbawd10.chm46006422
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Parent Property (Word)
+# Floor.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

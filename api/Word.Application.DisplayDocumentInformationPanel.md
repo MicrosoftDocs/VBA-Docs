@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayDocumentInformationPanel Property (Word)
+title: Application.DisplayDocumentInformationPanel property (Word)
 keywords: vbawd10.chm158335452
 f1_keywords:
 - vbawd10.chm158335452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayDocumentInformationPanel Property (Word)
+# Application.DisplayDocumentInformationPanel property (Word)
 
 Returns or sets a  **Boolean** that represents whether the document properties panel is displayed. Read/write.
 

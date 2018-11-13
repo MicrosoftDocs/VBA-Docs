@@ -1,5 +1,5 @@
 ---
-title: Frameset.ChildFramesetItem Property (Word)
+title: Frameset.ChildFramesetItem property (Word)
 keywords: vbawd10.chm165806086
 f1_keywords:
 - vbawd10.chm165806086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.ChildFramesetItem Property (Word)
+# Frameset.ChildFramesetItem property (Word)
 
 Returns the  **Frameset** object that represents the child **Frameset** object specified by the Index argument. Read-only.
 

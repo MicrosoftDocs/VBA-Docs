@@ -1,5 +1,5 @@
 ---
-title: OMathBreak.Parent Property (Word)
+title: OMathBreak.Parent property (Word)
 keywords: vbawd10.chm97845351
 f1_keywords:
 - vbawd10.chm97845351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak.Parent Property (Word)
+# OMathBreak.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathBreak** object.
 

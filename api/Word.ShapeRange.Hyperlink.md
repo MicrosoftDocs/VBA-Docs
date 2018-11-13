@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Hyperlink Property (Word)
+title: ShapeRange.Hyperlink property (Word)
 keywords: vbawd10.chm162857961
 f1_keywords:
 - vbawd10.chm162857961
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Hyperlink Property (Word)
+# ShapeRange.Hyperlink property (Word)
 
 Returns a  **Hyperlink** object that represents the hyperlink associated with the specified **ShapeRange** object. Read-only.
 

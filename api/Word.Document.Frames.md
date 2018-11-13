@@ -1,5 +1,5 @@
 ---
-title: Document.Frames Property (Word)
+title: Document.Frames property (Word)
 keywords: vbawd10.chm158007319
 f1_keywords:
 - vbawd10.chm158007319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Frames Property (Word)
+# Document.Frames property (Word)
 
 Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a document. Read-only.
 

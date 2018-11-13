@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Parent Property (Word)
+title: OMathFunction.Parent property (Word)
 keywords: vbawd10.chm22151270
 f1_keywords:
 - vbawd10.chm22151270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Parent Property (Word)
+# OMathFunction.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathFunction** object.
 

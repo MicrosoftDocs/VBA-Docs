@@ -1,5 +1,5 @@
 ---
-title: Options.EnvelopeFeederInstalled Property (Word)
+title: Options.EnvelopeFeederInstalled property (Word)
 keywords: vbawd10.chm162988067
 f1_keywords:
 - vbawd10.chm162988067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnvelopeFeederInstalled Property (Word)
+# Options.EnvelopeFeederInstalled property (Word)
 
  **True** if the current printer has a special feeder for envelopes. Read-only **Boolean** .
 

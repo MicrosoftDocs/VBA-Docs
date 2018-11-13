@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (Word)
+title: FillFormat.GradientStyle property (Word)
 keywords: vbawd10.chm164102248
 f1_keywords:
 - vbawd10.chm164102248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientStyle Property (Word)
+# FillFormat.GradientStyle property (Word)
 
 Returns the gradient style for the specified fill. Read-only  **MsoGradientStyle** .
 

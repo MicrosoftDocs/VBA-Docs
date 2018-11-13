@@ -1,5 +1,5 @@
 ---
-title: Rows.LeftIndent Property (Word)
+title: Rows.LeftIndent property (Word)
 keywords: vbawd10.chm155975689
 f1_keywords:
 - vbawd10.chm155975689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.LeftIndent Property (Word)
+# Rows.LeftIndent property (Word)
 
 Returns or sets a  **Single** that represents the left indent value (in points) for the specified table rows. Read/write.
 

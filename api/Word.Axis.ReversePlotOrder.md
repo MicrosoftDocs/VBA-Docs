@@ -1,5 +1,5 @@
 ---
-title: Axis.ReversePlotOrder Property (Word)
+title: Axis.ReversePlotOrder property (Word)
 keywords: vbawd10.chm113049643
 f1_keywords:
 - vbawd10.chm113049643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.ReversePlotOrder Property (Word)
+# Axis.ReversePlotOrder property (Word)
 
  **True** if Microsoft Word plots data points from last to first. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Parent Property (Word)
+title: CustomProperties.Parent property (Word)
 keywords: vbawd10.chm232850410
 f1_keywords:
 - vbawd10.chm232850410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Parent Property (Word)
+# CustomProperties.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CustomProperties** object.
 

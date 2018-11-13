@@ -1,5 +1,5 @@
 ---
-title: ChartFont.ColorIndex Property (Word)
+title: ChartFont.ColorIndex property (Word)
 keywords: vbawd10.chm255918086
 f1_keywords:
 - vbawd10.chm255918086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.ColorIndex Property (Word)
+# ChartFont.ColorIndex property (Word)
 
 Returns or sets the color of the font. Read/write  **Variant** .
 

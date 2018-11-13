@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Parent Property (Word)
+title: FileConverter.Parent property (Word)
 keywords: vbawd10.chm161022954
 f1_keywords:
 - vbawd10.chm161022954
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.Parent Property (Word)
+# FileConverter.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FileConverter** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Cell.PreferredWidthType Property (Word)
+title: Cell.PreferredWidthType property (Word)
 keywords: vbawd10.chm156106868
 f1_keywords:
 - vbawd10.chm156106868
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.PreferredWidthType Property (Word)
+# Cell.PreferredWidthType property (Word)
 
 Returns or sets the preferred unit of measurement to use for the width of the specified cell. Read-only  **WdPreferredWidthType** .
 

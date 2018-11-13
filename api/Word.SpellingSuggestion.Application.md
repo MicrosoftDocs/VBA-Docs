@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestion.Application Property (Word)
+title: SpellingSuggestion.Application property (Word)
 keywords: vbawd10.chm162202600
 f1_keywords:
 - vbawd10.chm162202600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestion.Application Property (Word)
+# SpellingSuggestion.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

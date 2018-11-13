@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.ReplaceTextFromSpellingChecker Property (Word)
+title: AutoCorrect.ReplaceTextFromSpellingChecker property (Word)
 keywords: vbawd10.chm155779087
 f1_keywords:
 - vbawd10.chm155779087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.ReplaceTextFromSpellingChecker Property (Word)
+# AutoCorrect.ReplaceTextFromSpellingChecker property (Word)
 
  **True** if Microsoft Word automatically replaces misspelled text with suggestions from the spelling checker as the user types. Word only replaces words that contain a single misspelling and for which the spelling dictionary only lists one alternative. Read/write **Boolean** .
 

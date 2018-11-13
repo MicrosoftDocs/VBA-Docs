@@ -1,5 +1,5 @@
 ---
-title: Range.IsEndOfRowMark Property (Word)
+title: Range.IsEndOfRowMark property (Word)
 keywords: vbawd10.chm157155635
 f1_keywords:
 - vbawd10.chm157155635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.IsEndOfRowMark Property (Word)
+# Range.IsEndOfRowMark property (Word)
 
  **True** if the specified range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean** .
 

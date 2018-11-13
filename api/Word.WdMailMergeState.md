@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeState Enumeration (Word)
+title: WdMailMergeState enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeState
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeState Enumeration (Word)
+# WdMailMergeState enumeration (Word)
 
 Specifies the state of a mail merge operation.
 

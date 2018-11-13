@@ -1,5 +1,5 @@
 ---
-title: WdEmphasisMark Enumeration (Word)
+title: WdEmphasisMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEmphasisMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEmphasisMark Enumeration (Word)
+# WdEmphasisMark enumeration (Word)
 
 Specifies the type of emphasis mark to use for a character or designated character string.
 

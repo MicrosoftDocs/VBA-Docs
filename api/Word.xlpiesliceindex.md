@@ -1,12 +1,12 @@
 ---
-title: xlPieSliceIndex Enumeration (Word)
+title: xlPieSliceIndex enumeration (Word)
 ms.prod: word
 ms.assetid: 3745028d-34b0-eaff-4437-d5df00b5ce52
 ms.date: 06/08/2017
 ---
 
 
-# xlPieSliceIndex Enumeration (Word)
+# xlPieSliceIndex enumeration (Word)
 
 Specifies which position on the slice to return the coordinate of.
 

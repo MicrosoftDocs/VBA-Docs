@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.HeaderSourceType Property (Word)
+title: MailMergeDataSource.HeaderSourceType property (Word)
 keywords: vbawd10.chm152895492
 f1_keywords:
 - vbawd10.chm152895492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.HeaderSourceType Property (Word)
+# MailMergeDataSource.HeaderSourceType property (Word)
 
 Returns a value that indicates the way the header source is being supplied for the mail merge operation. Read-only  **WdMailMergeDataSource** .
 

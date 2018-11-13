@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayAlerts Property (Word)
+title: Application.DisplayAlerts property (Word)
 keywords: vbawd10.chm158335070
 f1_keywords:
 - vbawd10.chm158335070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayAlerts Property (Word)
+# Application.DisplayAlerts property (Word)
 
 Returns or sets the way certain alerts and messages are handled while a macro is running. Read/write  **WdAlertLevel** .
 

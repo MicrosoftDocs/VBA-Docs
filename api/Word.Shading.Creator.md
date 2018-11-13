@@ -1,5 +1,5 @@
 ---
-title: Shading.Creator Property (Word)
+title: Shading.Creator property (Word)
 keywords: vbawd10.chm154797033
 f1_keywords:
 - vbawd10.chm154797033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.Creator Property (Word)
+# Shading.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

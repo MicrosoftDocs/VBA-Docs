@@ -1,5 +1,5 @@
 ---
-title: Application.RecentFiles Property (Word)
+title: Application.RecentFiles property (Word)
 keywords: vbawd10.chm158334983
 f1_keywords:
 - vbawd10.chm158334983
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RecentFiles Property (Word)
+# Application.RecentFiles property (Word)
 
 Returns a  **[RecentFiles](Word.recentfiles.md)** collection that represents the most recently accessed files.
 

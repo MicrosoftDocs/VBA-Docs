@@ -1,5 +1,5 @@
 ---
-title: WdJustificationMode Enumeration (Word)
+title: WdJustificationMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdJustificationMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdJustificationMode Enumeration (Word)
+# WdJustificationMode enumeration (Word)
 
 Specifies the character spacing adjustment for a document.
 

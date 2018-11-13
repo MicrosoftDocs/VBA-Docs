@@ -1,5 +1,5 @@
 ---
-title: Cell.Previous Property (Word)
+title: Cell.Previous property (Word)
 keywords: vbawd10.chm156106856
 f1_keywords:
 - vbawd10.chm156106856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Previous Property (Word)
+# Cell.Previous property (Word)
 
 Returns a  **Cell** object that represents the previous table cell in the **[Cells](Word.cells.md)** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LegendKey.InvertIfNegative Property (Word)
+title: LegendKey.InvertIfNegative property (Word)
 keywords: vbawd10.chm266207364
 f1_keywords:
 - vbawd10.chm266207364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.InvertIfNegative Property (Word)
+# LegendKey.InvertIfNegative property (Word)
 
  **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant** .
 

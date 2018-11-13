@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Size Property (Word)
+title: ShadowFormat.Size property (Word)
 keywords: vbawd10.chm164364397
 f1_keywords:
 - vbawd10.chm164364397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Size Property (Word)
+# ShadowFormat.Size property (Word)
 
 Returns or sets a  **Single** that represents the width of the shadow. Read/write.
 

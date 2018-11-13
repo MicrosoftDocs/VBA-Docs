@@ -1,5 +1,5 @@
 ---
-title: CheckBox.AutoSize Property (Word)
+title: CheckBox.AutoSize property (Word)
 keywords: vbawd10.chm153485313
 f1_keywords:
 - vbawd10.chm153485313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.AutoSize Property (Word)
+# CheckBox.AutoSize property (Word)
 
  **True** sizes the check box or text frame according to the font size of the surrounding text. **False** sizes the check box or text frame according to the **Size** property. Read/write **Boolean** .
 

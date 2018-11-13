@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SecondPlotSize Property (Word)
+title: ChartGroup.SecondPlotSize property (Word)
 keywords: vbawd10.chm263454764
 f1_keywords:
 - vbawd10.chm263454764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SecondPlotSize Property (Word)
+# ChartGroup.SecondPlotSize property (Word)
 
 Returns or sets the size, as a percentage of the primary pie, of the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Long** .
 

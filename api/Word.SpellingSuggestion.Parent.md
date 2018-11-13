@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestion.Parent Property (Word)
+title: SpellingSuggestion.Parent property (Word)
 keywords: vbawd10.chm162202602
 f1_keywords:
 - vbawd10.chm162202602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestion.Parent Property (Word)
+# SpellingSuggestion.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **SpellingSuggestion** object.
 

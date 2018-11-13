@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Value Property (Word)
+title: AutoTextEntry.Value property (Word)
 keywords: vbawd10.chm154533888
 f1_keywords:
 - vbawd10.chm154533888
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Value Property (Word)
+# AutoTextEntry.Value property (Word)
 
 Returns or sets the value of the AutoText entry. Read/write  **String** .
 

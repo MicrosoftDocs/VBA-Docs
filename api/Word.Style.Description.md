@@ -1,5 +1,5 @@
 ---
-title: Style.Description Property (Word)
+title: Style.Description property (Word)
 keywords: vbawd10.chm153878530
 f1_keywords:
 - vbawd10.chm153878530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Description Property (Word)
+# Style.Description property (Word)
 
 Returns the description of the specified style. Read-only  **String** .
 

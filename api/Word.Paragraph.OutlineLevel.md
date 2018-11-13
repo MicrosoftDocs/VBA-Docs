@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlineLevel Property (Word)
+title: Paragraph.OutlineLevel property (Word)
 keywords: vbawd10.chm156696778
 f1_keywords:
 - vbawd10.chm156696778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.OutlineLevel Property (Word)
+# Paragraph.OutlineLevel property (Word)
 
 Returns or sets the outline level for the specified paragraph. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)** .
 

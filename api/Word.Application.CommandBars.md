@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Word)
+title: Application.CommandBars property (Word)
 keywords: vbawd10.chm158335033
 f1_keywords:
 - vbawd10.chm158335033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CommandBars Property (Word)
+# Application.CommandBars property (Word)
 
 Returns a  **CommandBars** collection that represents the menu bar and all the toolbars in Microsoft Word.
 

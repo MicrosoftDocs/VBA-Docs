@@ -1,5 +1,5 @@
 ---
-title: Cell.Tables Property (Word)
+title: Cell.Tables property (Word)
 keywords: vbawd10.chm156106858
 f1_keywords:
 - vbawd10.chm156106858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Tables Property (Word)
+# Cell.Tables property (Word)
 
 Returns a  **[Tables](Word.tables.md)** collection that represents all the nested tables inside the specified table cell. Read-only.
 

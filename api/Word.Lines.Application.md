@@ -1,5 +1,5 @@
 ---
-title: Lines.Application Property (Word)
+title: Lines.Application property (Word)
 keywords: vbawd10.chm67109864
 f1_keywords:
 - vbawd10.chm67109864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lines.Application Property (Word)
+# Lines.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

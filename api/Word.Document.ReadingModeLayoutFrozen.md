@@ -1,5 +1,5 @@
 ---
-title: Document.ReadingModeLayoutFrozen Property (Word)
+title: Document.ReadingModeLayoutFrozen property (Word)
 keywords: vbawd10.chm158007777
 f1_keywords:
 - vbawd10.chm158007777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReadingModeLayoutFrozen Property (Word)
+# Document.ReadingModeLayoutFrozen property (Word)
 
 Sets or returns a  **Boolean** that represents whether pages displayed in reading layout view are frozen to a specified size for inserting handwritten markup into a document.
 

@@ -1,5 +1,5 @@
 ---
-title: LetterContent.ReturnAddressShortForm Property (Word)
+title: LetterContent.ReturnAddressShortForm property (Word)
 keywords: vbawd10.chm161546368
 f1_keywords:
 - vbawd10.chm161546368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.ReturnAddressShortForm Property (Word)
+# LetterContent.ReturnAddressShortForm property (Word)
 
 Returns or sets the short form address. Read/write  **String** .
 

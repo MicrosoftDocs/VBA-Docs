@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabels Property (Word)
+title: Axis.TickLabels property (Word)
 keywords: vbawd10.chm113049650
 f1_keywords:
 - vbawd10.chm113049650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabels Property (Word)
+# Axis.TickLabels property (Word)
 
 Returns the tick-mark labels for the specified axis. Read-only  **[TickLabels](Word.TickLabels.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (Word)
+title: Hyperlinks.Count property (Word)
 keywords: vbawd10.chm161218561
 f1_keywords:
 - vbawd10.chm161218561
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Count Property (Word)
+# Hyperlinks.Count property (Word)
 
 Returns a  **Long** that represents the number of hyperlinks in the collection. Read-only.
 

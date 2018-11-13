@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UseHyperlinks Property (Word)
+title: TableOfContents.UseHyperlinks property (Word)
 keywords: vbawd10.chm152240139
 f1_keywords:
 - vbawd10.chm152240139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.UseHyperlinks Property (Word)
+# TableOfContents.UseHyperlinks property (Word)
 
 Returns or sets whether entries in a table of contents should be formatted as hyperlinks when publishing to the Web. Read/write  **Boolean** .
 

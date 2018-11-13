@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Accent Property (Word)
+title: CalloutFormat.Accent property (Word)
 keywords: vbawd10.chm163905636
 f1_keywords:
 - vbawd10.chm163905636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Accent Property (Word)
+# CalloutFormat.Accent property (Word)
 
  **True** if a vertical accent bar separates the callout text from the callout line. Read/write **MsoTriState** .
 

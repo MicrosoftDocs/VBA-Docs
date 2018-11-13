@@ -1,5 +1,5 @@
 ---
-title: Selection.StoryLength Property (Word)
+title: Selection.StoryLength property (Word)
 keywords: vbawd10.chm158662808
 f1_keywords:
 - vbawd10.chm158662808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.StoryLength Property (Word)
+# Selection.StoryLength property (Word)
 
 Returns the number of characters in the story that contains the specified selection. Read-only  **Long** .
 

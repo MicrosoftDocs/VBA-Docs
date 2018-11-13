@@ -1,5 +1,5 @@
 ---
-title: Tables.Count Property (Word)
+title: Tables.Count property (Word)
 keywords: vbawd10.chm156041218
 f1_keywords:
 - vbawd10.chm156041218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Count Property (Word)
+# Tables.Count property (Word)
 
 Returns a  **Long** that represents the number of tables in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathMat.Align Property (Word)
+title: OMathMat.Align property (Word)
 keywords: vbawd10.chm176029802
 f1_keywords:
 - vbawd10.chm176029802
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.Align Property (Word)
+# OMathMat.Align property (Word)
 
 Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** constant that represents the vertical alignment for a matrix. Read/write.
 

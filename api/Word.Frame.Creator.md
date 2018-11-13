@@ -1,5 +1,5 @@
 ---
-title: Frame.Creator Property (Word)
+title: Frame.Creator property (Word)
 keywords: vbawd10.chm153748457
 f1_keywords:
 - vbawd10.chm153748457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Creator Property (Word)
+# Frame.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

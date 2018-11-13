@@ -1,5 +1,5 @@
 ---
-title: Axis.HasDisplayUnitLabel Property (Word)
+title: Axis.HasDisplayUnitLabel property (Word)
 keywords: vbawd10.chm113049675
 f1_keywords:
 - vbawd10.chm113049675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.HasDisplayUnitLabel Property (Word)
+# Axis.HasDisplayUnitLabel property (Word)
 
  **True** if the label specified by the **[DisplayUnit](Word.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Word.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default is **True** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdRectangleType Enumeration (Word)
+title: WdRectangleType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRectangleType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRectangleType Enumeration (Word)
+# WdRectangleType enumeration (Word)
 
 Specifies the type of rectangle and the information it contains.
 

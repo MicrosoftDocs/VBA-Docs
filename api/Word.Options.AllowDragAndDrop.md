@@ -1,5 +1,5 @@
 ---
-title: Options.AllowDragAndDrop Property (Word)
+title: Options.AllowDragAndDrop property (Word)
 keywords: vbawd10.chm162988100
 f1_keywords:
 - vbawd10.chm162988100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowDragAndDrop Property (Word)
+# Options.AllowDragAndDrop property (Word)
 
  **True** if dragging can be used to move or copy a selection. Read/write **Boolean** .
 

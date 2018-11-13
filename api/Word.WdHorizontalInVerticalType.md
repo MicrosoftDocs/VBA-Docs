@@ -1,5 +1,5 @@
 ---
-title: WdHorizontalInVerticalType Enumeration (Word)
+title: WdHorizontalInVerticalType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHorizontalInVerticalType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHorizontalInVerticalType Enumeration (Word)
+# WdHorizontalInVerticalType enumeration (Word)
 
 Specifies the format of horizontal text set within vertical text.
 

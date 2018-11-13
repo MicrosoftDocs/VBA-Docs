@@ -1,5 +1,5 @@
 ---
-title: Application.Language Property (Word)
+title: Application.Language property (Word)
 keywords: vbawd10.chm158335367
 f1_keywords:
 - vbawd10.chm158335367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Language Property (Word)
+# Application.Language property (Word)
 
 Returns an  **MsoLanguageID** constant that represents the language selected for the Microsoft Word user interface.
 

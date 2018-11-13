@@ -1,5 +1,5 @@
 ---
-title: Shading.Texture Property (Word)
+title: Shading.Texture property (Word)
 keywords: vbawd10.chm154796035
 f1_keywords:
 - vbawd10.chm154796035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.Texture Property (Word)
+# Shading.Texture property (Word)
 
 Returns or sets the shading texture for the specified object. Read/write  **WdTextureIndex** .
 

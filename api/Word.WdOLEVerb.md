@@ -1,5 +1,5 @@
 ---
-title: WdOLEVerb Enumeration (Word)
+title: WdOLEVerb enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOLEVerb
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOLEVerb Enumeration (Word)
+# WdOLEVerb enumeration (Word)
 
 Specifies the action associated with the verb that the OLE object should perform.
 

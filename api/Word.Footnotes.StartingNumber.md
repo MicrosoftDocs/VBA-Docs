@@ -1,5 +1,5 @@
 ---
-title: Footnotes.StartingNumber Property (Word)
+title: Footnotes.StartingNumber property (Word)
 keywords: vbawd10.chm155320422
 f1_keywords:
 - vbawd10.chm155320422
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.StartingNumber Property (Word)
+# Footnotes.StartingNumber property (Word)
 
 Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
 

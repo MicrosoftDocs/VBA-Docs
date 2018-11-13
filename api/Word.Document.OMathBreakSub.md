@@ -1,5 +1,5 @@
 ---
-title: Document.OMathBreakSub Property (Word)
+title: Document.OMathBreakSub property (Word)
 keywords: vbawd10.chm158007825
 f1_keywords:
 - vbawd10.chm158007825
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathBreakSub Property (Word)
+# Document.OMathBreakSub property (Word)
 
 Returns or sets a  **[WdOMathBreakSub](Word.WdOMathBreakSub.md)** constant that represents how Microsoft Word handles a subtraction operator that falls before a line break. Read/write.
 

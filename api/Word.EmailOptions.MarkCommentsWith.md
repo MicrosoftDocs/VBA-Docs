@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.MarkCommentsWith Property (Word)
+title: EmailOptions.MarkCommentsWith property (Word)
 keywords: vbawd10.chm165347434
 f1_keywords:
 - vbawd10.chm165347434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.MarkCommentsWith Property (Word)
+# EmailOptions.MarkCommentsWith property (Word)
 
 Returns or sets the string with which Microsoft Word marks comments in e-mail messages. Read/write  **String** .
 

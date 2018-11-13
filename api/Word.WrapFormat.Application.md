@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Application Property (Word)
+title: WrapFormat.Application property (Word)
 keywords: vbawd10.chm163775464
 f1_keywords:
 - vbawd10.chm163775464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.Application Property (Word)
+# WrapFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Axes.Count Property (Word)](http://msdn.microsoft.com/library/e182ef8e-eff1-eeb3-ae06-7764fa112a89%28Office.15%29.aspx)
+[Axes.Count property (Word)](http://msdn.microsoft.com/library/e182ef8e-eff1-eeb3-ae06-7764fa112a89%28Office.15%29.aspx)
 
 [Axes.Item Method (Word)](http://msdn.microsoft.com/library/18f63335-3043-3f52-28b0-8b515db655f3.aspx)
 

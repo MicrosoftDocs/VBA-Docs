@@ -1,5 +1,5 @@
 ---
-title: LetterContent.LetterheadLocation Property (Word)
+title: LetterContent.LetterheadLocation property (Word)
 keywords: vbawd10.chm161546346
 f1_keywords:
 - vbawd10.chm161546346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.LetterheadLocation Property (Word)
+# LetterContent.LetterheadLocation property (Word)
 
 Returns or sets the location of the preprinted letterhead in a letter created by the Letter Wizard. Read/write  **WdLetterheadLocation** .
 

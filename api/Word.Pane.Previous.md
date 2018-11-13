@@ -1,5 +1,5 @@
 ---
-title: Pane.Previous Property (Word)
+title: Pane.Previous property (Word)
 keywords: vbawd10.chm157286412
 f1_keywords:
 - vbawd10.chm157286412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Previous Property (Word)
+# Pane.Previous property (Word)
 
 Returns a  **Pane** object that represents the previous document pane in the collection. Read-only.
 

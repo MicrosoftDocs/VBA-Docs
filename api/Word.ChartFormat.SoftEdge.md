@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.SoftEdge Property (Word)
+title: ChartFormat.SoftEdge property (Word)
 keywords: vbawd10.chm203030534
 f1_keywords:
 - vbawd10.chm203030534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.SoftEdge Property (Word)
+# ChartFormat.SoftEdge property (Word)
 
 Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** .
 

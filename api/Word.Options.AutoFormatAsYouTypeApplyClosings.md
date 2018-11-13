@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyClosings Property (Word)
+title: Options.AutoFormatAsYouTypeApplyClosings property (Word)
 keywords: vbawd10.chm162988331
 f1_keywords:
 - vbawd10.chm162988331
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyClosings Property (Word)
+# Options.AutoFormatAsYouTypeApplyClosings property (Word)
 
  **True** for Microsoft Word to automatically apply the Closing style to letter closings as you type. Read/write **Boolean** .
 

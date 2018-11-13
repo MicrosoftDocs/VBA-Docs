@@ -1,5 +1,5 @@
 ---
-title: TabStops.Count Property (Word)
+title: TabStops.Count property (Word)
 keywords: vbawd10.chm156565506
 f1_keywords:
 - vbawd10.chm156565506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Count Property (Word)
+# TabStops.Count property (Word)
 
 Returns a  **Long** that represents the number of tab stops in the collection. Read-only.
 

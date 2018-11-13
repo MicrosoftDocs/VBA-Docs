@@ -1,5 +1,5 @@
 ---
-title: View.ShowDrawings Property (Word)
+title: View.ShowDrawings property (Word)
 keywords: vbawd10.chm161808398
 f1_keywords:
 - vbawd10.chm161808398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowDrawings Property (Word)
+# View.ShowDrawings property (Word)
 
  **True** if objects created with the drawing tools are displayed in print layout view. Read/write **Boolean** .
 

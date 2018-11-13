@@ -1,5 +1,5 @@
 ---
-title: Options.StrictRussianE Property (Word)
+title: Options.StrictRussianE property (Word)
 keywords: vbawd10.chm162988529
 f1_keywords:
 - vbawd10.chm162988529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.StrictRussianE Property (Word)
+# Options.StrictRussianE property (Word)
 
  **True** if the spelling checker uses spelling rules regarding Russian words that use the strict ë character. Read/write.
 

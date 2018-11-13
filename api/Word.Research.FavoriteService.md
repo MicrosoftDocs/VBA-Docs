@@ -1,5 +1,5 @@
 ---
-title: Research.FavoriteService Property (Word)
+title: Research.FavoriteService property (Word)
 keywords: vbawd10.chm201655275
 f1_keywords:
 - vbawd10.chm201655275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.FavoriteService Property (Word)
+# Research.FavoriteService property (Word)
 
 Returns or sets a  **String** that specifies the favorite research service.
 

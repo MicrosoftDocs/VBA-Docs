@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Count Property (Word)
+title: Endnotes.Count property (Word)
 keywords: vbawd10.chm155254786
 f1_keywords:
 - vbawd10.chm155254786
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Count Property (Word)
+# Endnotes.Count property (Word)
 
 Returns a  **Long** that represents the number of endnotes in the collection. Read-only.
 

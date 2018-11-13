@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Creator Property (Word)
+title: InlineShape.Creator property (Word)
 keywords: vbawd10.chm162005993
 f1_keywords:
 - vbawd10.chm162005993
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Creator Property (Word)
+# InlineShape.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

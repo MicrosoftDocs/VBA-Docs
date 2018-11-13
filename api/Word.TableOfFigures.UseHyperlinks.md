@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UseHyperlinks Property (Word)
+title: TableOfFigures.UseHyperlinks property (Word)
 keywords: vbawd10.chm153157645
 f1_keywords:
 - vbawd10.chm153157645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.UseHyperlinks Property (Word)
+# TableOfFigures.UseHyperlinks property (Word)
 
 Returns or sets whether entries in a table of figures should be formatted as hyperlinks when publishing to the Web. Read/write  **Boolean** .
 

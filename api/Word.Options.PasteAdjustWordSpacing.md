@@ -1,5 +1,5 @@
 ---
-title: Options.PasteAdjustWordSpacing Property (Word)
+title: Options.PasteAdjustWordSpacing property (Word)
 keywords: vbawd10.chm162988461
 f1_keywords:
 - vbawd10.chm162988461
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteAdjustWordSpacing Property (Word)
+# Options.PasteAdjustWordSpacing property (Word)
 
  **True** if Microsoft Word automatically adjusts the spacing of words when cutting and pasting selections. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.Format Property (Word)
+title: TablesOfAuthorities.Format property (Word)
 keywords: vbawd10.chm152174594
 f1_keywords:
 - vbawd10.chm152174594
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.Format Property (Word)
+# TablesOfAuthorities.Format property (Word)
 
 Returns or sets the formatting for the tables of authorities in the specified document. Read/write  **WdToaFormat** .
 

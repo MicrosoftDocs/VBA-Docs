@@ -1,5 +1,5 @@
 ---
-title: Document.GridSpaceBetweenVerticalLines Property (Word)
+title: Document.GridSpaceBetweenVerticalLines property (Word)
 keywords: vbawd10.chm158007603
 f1_keywords:
 - vbawd10.chm158007603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GridSpaceBetweenVerticalLines Property (Word)
+# Document.GridSpaceBetweenVerticalLines property (Word)
 
 Returns or sets the interval at which Microsoft Word displays vertical character gridlines in print layout view. Read/write  **Long** .
 

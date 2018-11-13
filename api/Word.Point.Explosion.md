@@ -1,5 +1,5 @@
 ---
-title: Point.Explosion Property (Word)
+title: Point.Explosion property (Word)
 keywords: vbawd10.chm262144182
 f1_keywords:
 - vbawd10.chm262144182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Explosion Property (Word)
+# Point.Explosion property (Word)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyHF Property (Word)
+title: Options.MatchFuzzyHF property (Word)
 keywords: vbawd10.chm162988353
 f1_keywords:
 - vbawd10.chm162988353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyHF Property (Word)
+# Options.MatchFuzzyHF property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe283_ZA06051762.gif)

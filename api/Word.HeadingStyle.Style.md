@@ -1,5 +1,5 @@
 ---
-title: HeadingStyle.Style Property (Word)
+title: HeadingStyle.Style property (Word)
 keywords: vbawd10.chm160104448
 f1_keywords:
 - vbawd10.chm160104448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyle.Style Property (Word)
+# HeadingStyle.Style property (Word)
 
 Returns or sets the style for a heading. Read/write  **Variant** .
 

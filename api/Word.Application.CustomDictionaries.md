@@ -1,5 +1,5 @@
 ---
-title: Application.CustomDictionaries Property (Word)
+title: Application.CustomDictionaries property (Word)
 keywords: vbawd10.chm158335071
 f1_keywords:
 - vbawd10.chm158335071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CustomDictionaries Property (Word)
+# Application.CustomDictionaries property (Word)
 
 Returns a  **[Dictionaries](Word.dictionaries.md)** object that represents the collection of active custom dictionaries. Read-only.
 

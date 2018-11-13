@@ -1,5 +1,5 @@
 ---
-title: Template.FarEastLineBreakLanguage Property (Word)
+title: Template.FarEastLineBreakLanguage property (Word)
 keywords: vbawd10.chm157941778
 f1_keywords:
 - vbawd10.chm157941778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.FarEastLineBreakLanguage Property (Word)
+# Template.FarEastLineBreakLanguage property (Word)
 
 Returns or sets the East Asian language to use when breaking lines of text in the specified document or template. Read/write  **WdFarEastLineBreakLanguageID** .
 

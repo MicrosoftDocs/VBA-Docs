@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Parent Property (Word)
+title: ListEntries.Parent property (Word)
 keywords: vbawd10.chm153355242
 f1_keywords:
 - vbawd10.chm153355242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntries.Parent Property (Word)
+# ListEntries.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ListEntries** object.
 

@@ -1,5 +1,5 @@
 ---
-title: WdExportItem Enumeration (Word)
+title: WdExportItem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportItem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdExportItem Enumeration (Word)
+# WdExportItem enumeration (Word)
 
 Specifies whether to export the document with markup.
 

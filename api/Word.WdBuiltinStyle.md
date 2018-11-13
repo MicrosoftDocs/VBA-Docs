@@ -1,5 +1,5 @@
 ---
-title: WdBuiltinStyle Enumeration (Word)
+title: WdBuiltinStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBuiltinStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBuiltinStyle Enumeration (Word)
+# WdBuiltinStyle enumeration (Word)
 
 Specifies a built-in Microsoft Word style.
 

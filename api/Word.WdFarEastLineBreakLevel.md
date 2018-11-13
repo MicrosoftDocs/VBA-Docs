@@ -1,5 +1,5 @@
 ---
-title: WdFarEastLineBreakLevel Enumeration (Word)
+title: WdFarEastLineBreakLevel enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFarEastLineBreakLevel
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFarEastLineBreakLevel Enumeration (Word)
+# WdFarEastLineBreakLevel enumeration (Word)
 
 Specifies the line break control level for the specified document.
 

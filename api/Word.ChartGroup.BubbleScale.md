@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BubbleScale Property (Word)
+title: ChartGroup.BubbleScale property (Word)
 keywords: vbawd10.chm263454756
 f1_keywords:
 - vbawd10.chm263454756
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BubbleScale Property (Word)
+# ChartGroup.BubbleScale property (Word)
 
 Returns or sets the scale factor for bubbles in the specified chart group. Read/write  **Long** .
 

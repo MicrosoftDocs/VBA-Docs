@@ -1,5 +1,5 @@
 ---
-title: TabStop.CustomTab Property (Word)
+title: TabStop.CustomTab property (Word)
 keywords: vbawd10.chm156500071
 f1_keywords:
 - vbawd10.chm156500071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.CustomTab Property (Word)
+# TabStop.CustomTab property (Word)
 
  **True** if the specified tab stop is a custom tab stop. Read-only **Boolean** .
 

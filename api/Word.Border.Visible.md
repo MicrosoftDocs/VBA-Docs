@@ -1,5 +1,5 @@
 ---
-title: Border.Visible Property (Word)
+title: Border.Visible property (Word)
 keywords: vbawd10.chm154861568
 f1_keywords:
 - vbawd10.chm154861568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.Visible Property (Word)
+# Border.Visible property (Word)
 
  **True** if the specified object is visible. Read/write **Boolean** .
 

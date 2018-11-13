@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropRight Property (Word)
+title: PictureFormat.CropRight property (Word)
 keywords: vbawd10.chm164298857
 f1_keywords:
 - vbawd10.chm164298857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropRight Property (Word)
+# PictureFormat.CropRight property (Word)
 
 Returns or sets the number of points that are cropped off the right side of the specified picture or OLE object. Read/write  **Single** .
 

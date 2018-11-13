@@ -1,5 +1,5 @@
 ---
-title: DataTable.Border Property (Word)
+title: DataTable.Border property (Word)
 keywords: vbawd10.chm46399496
 f1_keywords:
 - vbawd10.chm46399496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Border Property (Word)
+# DataTable.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

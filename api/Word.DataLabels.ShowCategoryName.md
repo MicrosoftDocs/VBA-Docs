@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowCategoryName Property (Word)
+title: DataLabels.ShowCategoryName property (Word)
 keywords: vbawd10.chm207488999
 f1_keywords:
 - vbawd10.chm207488999
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowCategoryName Property (Word)
+# DataLabels.ShowCategoryName property (Word)
 
  **True** to display the category name for the data labels on a chart. **False** to hide the name. Read/write **Boolean** .
 

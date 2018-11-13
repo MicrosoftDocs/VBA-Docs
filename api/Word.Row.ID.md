@@ -1,5 +1,5 @@
 ---
-title: Row.ID Property (Word)
+title: Row.ID property (Word)
 keywords: vbawd10.chm156237931
 f1_keywords:
 - vbawd10.chm156237931
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.ID Property (Word)
+# Row.ID property (Word)
 
 Returns or sets the identifying label for the specified table row when the document is saved as a Web page. Read/write  **String** .
 

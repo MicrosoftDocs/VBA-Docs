@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunctions.Parent Property (Word)
+title: OMathRecognizedFunctions.Parent property (Word)
 keywords: vbawd10.chm143065190
 f1_keywords:
 - vbawd10.chm143065190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunctions.Parent Property (Word)
+# OMathRecognizedFunctions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathRecognizedFunctions** object.
 

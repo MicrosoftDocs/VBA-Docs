@@ -1,5 +1,5 @@
 ---
-title: WdVerticalAlignment Enumeration (Word)
+title: WdVerticalAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdVerticalAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdVerticalAlignment Enumeration (Word)
+# WdVerticalAlignment enumeration (Word)
 
 Specifies the type of vertical alignment to apply.
 

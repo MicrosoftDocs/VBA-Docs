@@ -1,5 +1,5 @@
 ---
-title: Document.RemovePersonalInformation Property (Word)
+title: Document.RemovePersonalInformation property (Word)
 keywords: vbawd10.chm158007640
 f1_keywords:
 - vbawd10.chm158007640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemovePersonalInformation Property (Word)
+# Document.RemovePersonalInformation property (Word)
 
  **True** if Microsoft Word removes all user information from comments, revisions, and the Properties dialog box upon saving a document. Read/write **Boolean** .
 

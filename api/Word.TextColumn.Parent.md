@@ -1,5 +1,5 @@
 ---
-title: TextColumn.Parent Property (Word)
+title: TextColumn.Parent property (Word)
 keywords: vbawd10.chm158598122
 f1_keywords:
 - vbawd10.chm158598122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn.Parent Property (Word)
+# TextColumn.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TextColumn** object.
 

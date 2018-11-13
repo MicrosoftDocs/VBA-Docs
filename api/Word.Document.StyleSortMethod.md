@@ -1,5 +1,5 @@
 ---
-title: Document.StyleSortMethod Property (Word)
+title: Document.StyleSortMethod property (Word)
 keywords: vbawd10.chm158007789
 f1_keywords:
 - vbawd10.chm158007789
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.StyleSortMethod Property (Word)
+# Document.StyleSortMethod property (Word)
 
 Returns or sets a **[WdStyleSort](Word.WdStyleSort.md)** constant that represents the sort method to use when sorting styles in the **Styles** task pane. Read/write.
 

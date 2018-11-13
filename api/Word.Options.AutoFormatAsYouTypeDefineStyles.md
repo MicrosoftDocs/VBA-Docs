@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeDefineStyles Property (Word)
+title: Options.AutoFormatAsYouTypeDefineStyles property (Word)
 keywords: vbawd10.chm162988302
 f1_keywords:
 - vbawd10.chm162988302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeDefineStyles Property (Word)
+# Options.AutoFormatAsYouTypeDefineStyles property (Word)
 
  **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean** .
 

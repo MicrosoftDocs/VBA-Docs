@@ -1,5 +1,5 @@
 ---
-title: Application.Version Property (Word)
+title: Application.Version property (Word)
 keywords: vbawd10.chm158335000
 f1_keywords:
 - vbawd10.chm158335000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Version Property (Word)
+# Application.Version property (Word)
 
 Returns the Microsoft Word version number. Read-only  **String** .
 

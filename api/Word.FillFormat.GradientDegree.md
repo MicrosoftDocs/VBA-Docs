@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (Word)
+title: FillFormat.GradientDegree property (Word)
 keywords: vbawd10.chm164102247
 f1_keywords:
 - vbawd10.chm164102247
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientDegree Property (Word)
+# FillFormat.GradientDegree property (Word)
 
 Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Parent Property (Word)
+title: XSLTransform.Parent property (Word)
 keywords: vbawd10.chm76743658
 f1_keywords:
 - vbawd10.chm76743658
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.Parent Property (Word)
+# XSLTransform.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **XSLTransform** object.
 

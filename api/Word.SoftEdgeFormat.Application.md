@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Application Property (Word)
+title: SoftEdgeFormat.Application property (Word)
 keywords: vbawd10.chm184091624
 f1_keywords:
 - vbawd10.chm184091624
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Application Property (Word)
+# SoftEdgeFormat.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Word application. Read-only.
 

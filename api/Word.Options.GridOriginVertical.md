@@ -1,5 +1,5 @@
 ---
-title: Options.GridOriginVertical Property (Word)
+title: Options.GridOriginVertical property (Word)
 keywords: vbawd10.chm162988116
 f1_keywords:
 - vbawd10.chm162988116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.GridOriginVertical Property (Word)
+# Options.GridOriginVertical property (Word)
 
 Returns or sets the point, relative to the top of the page, where you want the invisible grid for drawing, moving, and resizing AutoShapes or East Asian characters to begin in new documents. Read/write  **Single** .
 

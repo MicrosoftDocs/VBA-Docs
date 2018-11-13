@@ -1,5 +1,5 @@
 ---
-title: PageSetup.BookFoldPrinting Property (Word)
+title: PageSetup.BookFoldPrinting property (Word)
 keywords: vbawd10.chm158401735
 f1_keywords:
 - vbawd10.chm158401735
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.BookFoldPrinting Property (Word)
+# PageSetup.BookFoldPrinting property (Word)
 
  **True** for Microsoft Word to print a document in a series of booklets so the printed pages can be folded and read as a book. Read/write **Boolean** .
 

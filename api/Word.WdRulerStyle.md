@@ -1,5 +1,5 @@
 ---
-title: WdRulerStyle Enumeration (Word)
+title: WdRulerStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRulerStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRulerStyle Enumeration (Word)
+# WdRulerStyle enumeration (Word)
 
 Specifies the way Word adjusts the table when the left indent is changed.
 

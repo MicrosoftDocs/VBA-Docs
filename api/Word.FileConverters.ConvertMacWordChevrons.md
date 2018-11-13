@@ -1,5 +1,5 @@
 ---
-title: FileConverters.ConvertMacWordChevrons Property (Word)
+title: FileConverters.ConvertMacWordChevrons property (Word)
 keywords: vbawd10.chm161087490
 f1_keywords:
 - vbawd10.chm161087490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverters.ConvertMacWordChevrons Property (Word)
+# FileConverters.ConvertMacWordChevrons property (Word)
 
 Controls whether text enclosed in chevron characters (« ») is converted to merge fields. Read/write  **Long** . .
 

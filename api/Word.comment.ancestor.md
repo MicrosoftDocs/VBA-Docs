@@ -1,5 +1,5 @@
 ---
-title: Comment.Ancestor Property (Word)
+title: Comment.Ancestor property (Word)
 keywords: vbawd10.chm154993654
 f1_keywords:
 - vbawd10.chm154993654
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Ancestor Property (Word)
+# Comment.Ancestor property (Word)
 
 For comments that are replies to existing comments, returns the parent  **Comment** object; for new (top-level) comments, returns null. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.OMathLeftMargin Property (Word)
+title: Document.OMathLeftMargin property (Word)
 keywords: vbawd10.chm158007827
 f1_keywords:
 - vbawd10.chm158007827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathLeftMargin Property (Word)
+# Document.OMathLeftMargin property (Word)
 
 Returns or sets a  **Single** that represents the left margin for equations. Read/write.
 

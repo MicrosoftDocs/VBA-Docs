@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectDays Property (Word)
+title: AutoCorrect.CorrectDays property (Word)
 keywords: vbawd10.chm155779073
 f1_keywords:
 - vbawd10.chm155779073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectDays Property (Word)
+# AutoCorrect.CorrectDays property (Word)
 
  **True** if Word automatically capitalizes the first letter of days of the week. Read/write **Boolean** .
 

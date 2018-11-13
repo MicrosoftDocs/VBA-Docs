@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.PageNumbers Property (Word)
+title: HeaderFooter.PageNumbers property (Word)
 keywords: vbawd10.chm159711237
 f1_keywords:
 - vbawd10.chm159711237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.PageNumbers Property (Word)
+# HeaderFooter.PageNumbers property (Word)
 
 Returns a  **[PageNumbers](Word.pagenumbers.md)** collection that represents all the page number fields included in the specified header or footer.
 

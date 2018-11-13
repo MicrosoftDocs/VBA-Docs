@@ -1,5 +1,5 @@
 ---
-title: Font.NameOther Property (Word)
+title: Font.NameOther property (Word)
 keywords: vbawd10.chm156369054
 f1_keywords:
 - vbawd10.chm156369054
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.NameOther Property (Word)
+# Font.NameOther property (Word)
 
 Returns or sets the font used for characters with character codes from 128 through 255. Read/write  **String** .
 

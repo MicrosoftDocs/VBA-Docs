@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Word)
+title: Application.Assistance property (Word)
 keywords: vbawd10.chm158335453
 f1_keywords:
 - vbawd10.chm158335453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Assistance Property (Word)
+# Application.Assistance property (Word)
 
 Returns an  **Assistance** object that represents the Microsoft Office Help Viewer. Read-only.
 

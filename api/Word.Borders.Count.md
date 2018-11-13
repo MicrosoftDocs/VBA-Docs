@@ -1,5 +1,5 @@
 ---
-title: Borders.Count Property (Word)
+title: Borders.Count property (Word)
 keywords: vbawd10.chm154927105
 f1_keywords:
 - vbawd10.chm154927105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Count Property (Word)
+# Borders.Count property (Word)
 
 Returns the number of items in the  **Borders** collection. Read-only **Long** .
 

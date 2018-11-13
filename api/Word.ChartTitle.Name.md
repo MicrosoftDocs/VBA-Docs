@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Name Property (Word)
+title: ChartTitle.Name property (Word)
 keywords: vbawd10.chm65273882
 f1_keywords:
 - vbawd10.chm65273882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Name Property (Word)
+# ChartTitle.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Browser.Parent Property (Word)
+title: Browser.Parent property (Word)
 keywords: vbawd10.chm154010602
 f1_keywords:
 - vbawd10.chm154010602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser.Parent Property (Word)
+# Browser.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Browser** object.
 

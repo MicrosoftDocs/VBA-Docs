@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Position Property (Word)
+title: DisplayUnitLabel.Position property (Word)
 keywords: vbawd10.chm94570119
 f1_keywords:
 - vbawd10.chm94570119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Position Property (Word)
+# DisplayUnitLabel.Position property (Word)
 
 Returns or sets the position of the unit label on an axis in the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)** .
 

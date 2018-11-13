@@ -1,5 +1,5 @@
 ---
-title: Rectangles.Application Property (Word)
+title: Rectangles.Application property (Word)
 ms.prod: word
 api_name:
 - Word.Rectangles.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangles.Application Property (Word)
+# Rectangles.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

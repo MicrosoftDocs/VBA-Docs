@@ -1,5 +1,5 @@
 ---
-title: WdRelativeVerticalPosition Enumeration (Word)
+title: WdRelativeVerticalPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeVerticalPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRelativeVerticalPosition Enumeration (Word)
+# WdRelativeVerticalPosition enumeration (Word)
 
 Specifies to what the vertical position of a frame, a shape, or a group of rows is relative.
 

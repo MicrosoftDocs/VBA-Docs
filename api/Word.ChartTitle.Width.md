@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Width Property (Word)
+title: ChartTitle.Width property (Word)
 keywords: vbawd10.chm65273893
 f1_keywords:
 - vbawd10.chm65273893
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Width Property (Word)
+# ChartTitle.Width property (Word)
 
 Returns the width, in points, of the object. Read-only.
 

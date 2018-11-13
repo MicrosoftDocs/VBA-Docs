@@ -1,5 +1,5 @@
 ---
-title: Line.Top Property (Word)
+title: Line.Top property (Word)
 keywords: vbawd10.chm49610756
 f1_keywords:
 - vbawd10.chm49610756
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Top Property (Word)
+# Line.Top property (Word)
 
 Returns a  **Long** that represents the number of pixels from the top of the page to the top of a line.
 

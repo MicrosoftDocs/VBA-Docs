@@ -1,5 +1,5 @@
 ---
-title: Trendline.NameIsAuto Property (Word)
+title: Trendline.NameIsAuto property (Word)
 keywords: vbawd10.chm26345660
 f1_keywords:
 - vbawd10.chm26345660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.NameIsAuto Property (Word)
+# Trendline.NameIsAuto property (Word)
 
  **True** if Microsoft Word automatically determines the name of the trendline. Read/write **Boolean** .
 

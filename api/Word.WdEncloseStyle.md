@@ -1,5 +1,5 @@
 ---
-title: WdEncloseStyle Enumeration (Word)
+title: WdEncloseStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEncloseStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEncloseStyle Enumeration (Word)
+# WdEncloseStyle enumeration (Word)
 
 Specifies the relative size of an enclosure.
 

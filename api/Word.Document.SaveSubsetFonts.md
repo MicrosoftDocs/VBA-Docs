@@ -1,5 +1,5 @@
 ---
-title: Document.SaveSubsetFonts Property (Word)
+title: Document.SaveSubsetFonts property (Word)
 keywords: vbawd10.chm158007349
 f1_keywords:
 - vbawd10.chm158007349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SaveSubsetFonts Property (Word)
+# Document.SaveSubsetFonts property (Word)
 
  **True** if Microsoft Word saves a subset of the embedded TrueType fonts with the document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Dialog.Type Property (Word)
+title: Dialog.Type property (Word)
 keywords: vbawd10.chm163053568
 f1_keywords:
 - vbawd10.chm163053568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Type Property (Word)
+# Dialog.Type property (Word)
 
 Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDialog](Word.WdWordDialog.md)** .
 

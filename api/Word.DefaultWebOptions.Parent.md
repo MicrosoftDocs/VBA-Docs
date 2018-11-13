@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Parent Property (Word)
+title: DefaultWebOptions.Parent property (Word)
 keywords: vbawd10.chm165872618
 f1_keywords:
 - vbawd10.chm165872618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Parent Property (Word)
+# DefaultWebOptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **DefaultWebOptions** object.
 

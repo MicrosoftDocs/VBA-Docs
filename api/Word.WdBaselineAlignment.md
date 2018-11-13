@@ -1,5 +1,5 @@
 ---
-title: WdBaselineAlignment Enumeration (Word)
+title: WdBaselineAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBaselineAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBaselineAlignment Enumeration (Word)
+# WdBaselineAlignment enumeration (Word)
 
 Specifies the vertical position of fonts on a line.
 

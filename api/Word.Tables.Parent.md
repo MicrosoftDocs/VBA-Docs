@@ -1,5 +1,5 @@
 ---
-title: Tables.Parent Property (Word)
+title: Tables.Parent property (Word)
 keywords: vbawd10.chm156042218
 f1_keywords:
 - vbawd10.chm156042218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Parent Property (Word)
+# Tables.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Tables** object.
 

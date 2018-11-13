@@ -1,5 +1,5 @@
 ---
-title: OMathBreak.Range Property (Word)
+title: OMathBreak.Range property (Word)
 keywords: vbawd10.chm97845352
 f1_keywords:
 - vbawd10.chm97845352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak.Range Property (Word)
+# OMathBreak.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that is contained in the specified object. Read-only.
 

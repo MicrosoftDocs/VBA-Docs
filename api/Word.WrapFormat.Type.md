@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Type Property (Word)
+title: WrapFormat.Type property (Word)
 keywords: vbawd10.chm163774564
 f1_keywords:
 - vbawd10.chm163774564
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.Type Property (Word)
+# WrapFormat.Type property (Word)
 
 Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.WdWrapType.md)** .
 

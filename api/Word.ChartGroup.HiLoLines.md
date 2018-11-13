@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HiLoLines Property (Word)
+title: ChartGroup.HiLoLines property (Word)
 keywords: vbawd10.chm263454740
 f1_keywords:
 - vbawd10.chm263454740
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HiLoLines Property (Word)
+# ChartGroup.HiLoLines property (Word)
 
 Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](Word.HiLoLines.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Parent Property (Word)
+title: InlineShapes.Parent property (Word)
 keywords: vbawd10.chm162071530
 f1_keywords:
 - vbawd10.chm162071530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.Parent Property (Word)
+# InlineShapes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **InlineShapes** object.
 

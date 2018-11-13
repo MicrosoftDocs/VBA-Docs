@@ -1,12 +1,12 @@
 ---
-title: xlTrendlineType Enumeration (Word)
+title: xlTrendlineType enumeration (Word)
 ms.prod: word
 ms.assetid: 9ace4a00-2f01-ed25-0250-3a0ae2f4b6d7
 ms.date: 06/08/2017
 ---
 
 
-# xlTrendlineType Enumeration (Word)
+# xlTrendlineType enumeration (Word)
 
 Specifies how the trendline that smoothes out fluctuations in the data is calculated.
 

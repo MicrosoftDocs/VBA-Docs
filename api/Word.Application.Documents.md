@@ -1,5 +1,5 @@
 ---
-title: Application.Documents Property (Word)
+title: Application.Documents property (Word)
 keywords: vbawd10.chm158334982
 f1_keywords:
 - vbawd10.chm158334982
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Documents Property (Word)
+# Application.Documents property (Word)
 
 Returns a  **[Documents](Word.documents.md)** collection that represents all the open documents. Read-only.
 

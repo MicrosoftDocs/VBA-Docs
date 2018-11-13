@@ -1,5 +1,5 @@
 ---
-title: WdMailerPriority Enumeration (Word)
+title: WdMailerPriority enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailerPriority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailerPriority Enumeration (Word)
+# WdMailerPriority enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 

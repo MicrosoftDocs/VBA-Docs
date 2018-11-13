@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.Creator Property (Word)
+title: OMathPhantom.Creator property (Word)
 keywords: vbawd10.chm88146021
 f1_keywords:
 - vbawd10.chm88146021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.Creator Property (Word)
+# OMathPhantom.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

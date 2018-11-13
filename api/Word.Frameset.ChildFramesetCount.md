@@ -1,5 +1,5 @@
 ---
-title: Frameset.ChildFramesetCount Property (Word)
+title: Frameset.ChildFramesetCount property (Word)
 keywords: vbawd10.chm165806085
 f1_keywords:
 - vbawd10.chm165806085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.ChildFramesetCount Property (Word)
+# Frameset.ChildFramesetCount property (Word)
 
 Returns the number of child  **Frameset** objects associated with the specified **Frameset** object. Read-only **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.Count Property (Word)
+title: HangulHanjaConversionDictionaries.Count property (Word)
 keywords: vbawd10.chm165675009
 f1_keywords:
 - vbawd10.chm165675009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.Count Property (Word)
+# HangulHanjaConversionDictionaries.Count property (Word)
 
 Returns a  **Long** that represents the number of dictionaries in the collection. Read-only.
 

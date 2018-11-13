@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SplitType Property (Word)
+title: ChartGroup.SplitType property (Word)
 keywords: vbawd10.chm263454760
 f1_keywords:
 - vbawd10.chm263454760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SplitType Property (Word)
+# ChartGroup.SplitType property (Word)
 
 Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[XlChartSplitType](Word.xlchartsplittype.md)** .
 

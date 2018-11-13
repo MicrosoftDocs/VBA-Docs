@@ -1,5 +1,5 @@
 ---
-title: Font.SmallCaps Property (Word)
+title: Font.SmallCaps property (Word)
 keywords: vbawd10.chm156369029
 f1_keywords:
 - vbawd10.chm156369029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.SmallCaps Property (Word)
+# Font.SmallCaps property (Word)
 
  **True** if the font is formatted as small capital letters. Read/write **Long** .
 

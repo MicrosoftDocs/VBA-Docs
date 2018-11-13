@@ -1,5 +1,5 @@
 ---
-title: HeadingStyles.Count Property (Word)
+title: HeadingStyles.Count property (Word)
 keywords: vbawd10.chm160038913
 f1_keywords:
 - vbawd10.chm160038913
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles.Count Property (Word)
+# HeadingStyles.Count property (Word)
 
 Returns a  **Long** that represents the number of heading styles in the collection. Read-only.
 

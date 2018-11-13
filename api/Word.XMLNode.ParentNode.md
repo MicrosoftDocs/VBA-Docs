@@ -1,5 +1,5 @@
 ---
-title: XMLNode.ParentNode Property (Word)
+title: XMLNode.ParentNode property (Word)
 keywords: vbawd10.chm37748744
 f1_keywords:
 - vbawd10.chm37748744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.ParentNode Property (Word)
+# XMLNode.ParentNode property (Word)
 
 Returns an  **XMLNode** object that represents the parent element of the specified element.
 

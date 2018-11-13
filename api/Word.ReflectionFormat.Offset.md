@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Offset Property (Word)
+title: ReflectionFormat.Offset property (Word)
 keywords: vbawd10.chm67043332
 f1_keywords:
 - vbawd10.chm67043332
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Offset Property (Word)
+# ReflectionFormat.Offset property (Word)
 
 Returns or sets the amount of separation, in points, of the reflected image from the shape. Read/write.
 

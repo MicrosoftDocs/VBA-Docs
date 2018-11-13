@@ -1,5 +1,5 @@
 ---
-title: WdReferenceType Enumeration (Word)
+title: WdReferenceType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReferenceType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdReferenceType Enumeration (Word)
+# WdReferenceType enumeration (Word)
 
 Specifies the type of item to be cross referenced.
 

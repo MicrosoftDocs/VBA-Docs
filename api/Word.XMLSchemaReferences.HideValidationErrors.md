@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.HideValidationErrors Property (Word)
+title: XMLSchemaReferences.HideValidationErrors property (Word)
 keywords: vbawd10.chm116129797
 f1_keywords:
 - vbawd10.chm116129797
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.HideValidationErrors Property (Word)
+# XMLSchemaReferences.HideValidationErrors property (Word)
 
 Returns a  **Boolean** indicating whether Word displays schema validation errors for the current XML document. Read/write.
 

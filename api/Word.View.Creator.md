@@ -1,5 +1,5 @@
 ---
-title: View.Creator Property (Word)
+title: View.Creator property (Word)
 keywords: vbawd10.chm161809385
 f1_keywords:
 - vbawd10.chm161809385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Creator Property (Word)
+# View.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

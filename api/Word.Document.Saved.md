@@ -1,5 +1,5 @@
 ---
-title: Document.Saved Property (Word)
+title: Document.Saved property (Word)
 keywords: vbawd10.chm158007336
 f1_keywords:
 - vbawd10.chm158007336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Saved Property (Word)
+# Document.Saved property (Word)
 
  **True** if the specified document or template has not changed since it was last saved. **False** if Microsoft Word displays a prompt to save changes when the document is closed. Read/write **Boolean** .
 

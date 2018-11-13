@@ -1,5 +1,5 @@
 ---
-title: RecentFile.ReadOnly Property (Word)
+title: RecentFile.ReadOnly property (Word)
 keywords: vbawd10.chm157548546
 f1_keywords:
 - vbawd10.chm157548546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.ReadOnly Property (Word)
+# RecentFile.ReadOnly property (Word)
 
  **True** if changes to the document cannot be saved to the original document. Read/write **Boolean** .
 

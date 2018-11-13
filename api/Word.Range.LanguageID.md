@@ -1,5 +1,5 @@
 ---
-title: Range.LanguageID Property (Word)
+title: Range.LanguageID property (Word)
 keywords: vbawd10.chm157155481
 f1_keywords:
 - vbawd10.chm157155481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.LanguageID Property (Word)
+# Range.LanguageID property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified range. Read/write.
 

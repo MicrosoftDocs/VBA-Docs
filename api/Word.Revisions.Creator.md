@@ -1,5 +1,5 @@
 ---
-title: Revisions.Creator Property (Word)
+title: Revisions.Creator property (Word)
 keywords: vbawd10.chm159384553
 f1_keywords:
 - vbawd10.chm159384553
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revisions.Creator Property (Word)
+# Revisions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

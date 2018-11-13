@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopType Property (Word)
+title: ThreeDFormat.BevelTopType property (Word)
 keywords: vbawd10.chm164626546
 f1_keywords:
 - vbawd10.chm164626546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelTopType Property (Word)
+# ThreeDFormat.BevelTopType property (Word)
 
 Returns or sets an  **MsoPresetCamera** constant that represents the bevel type for the top bevel. Read/write.
 

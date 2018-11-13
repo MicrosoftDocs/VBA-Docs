@@ -1,5 +1,5 @@
 ---
-title: Variables.Application Property (Word)
+title: Variables.Application property (Word)
 keywords: vbawd10.chm157615080
 f1_keywords:
 - vbawd10.chm157615080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Application Property (Word)
+# Variables.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

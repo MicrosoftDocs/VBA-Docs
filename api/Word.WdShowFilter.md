@@ -1,5 +1,5 @@
 ---
-title: WdShowFilter Enumeration (Word)
+title: WdShowFilter enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdShowFilter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdShowFilter Enumeration (Word)
+# WdShowFilter enumeration (Word)
 
 Specifies the styles and formatting to display in the  **Styles and Formatting** task pane.
 

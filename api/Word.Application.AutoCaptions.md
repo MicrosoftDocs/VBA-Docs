@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCaptions Property (Word)
+title: Application.AutoCaptions property (Word)
 keywords: vbawd10.chm158334997
 f1_keywords:
 - vbawd10.chm158334997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoCaptions Property (Word)
+# Application.AutoCaptions property (Word)
 
 Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
 

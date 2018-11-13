@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Style Property (Word)
+title: ParagraphFormat.Style property (Word)
 keywords: vbawd10.chm156434532
 f1_keywords:
 - vbawd10.chm156434532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Style Property (Word)
+# ParagraphFormat.Style property (Word)
 
 Returns or sets the style for the specified object. Read/write  **Variant** .
 

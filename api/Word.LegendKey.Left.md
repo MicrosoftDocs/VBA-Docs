@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Left Property (Word)
+title: LegendKey.Left property (Word)
 keywords: vbawd10.chm266207359
 f1_keywords:
 - vbawd10.chm266207359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Left Property (Word)
+# LegendKey.Left property (Word)
 
 Returns the distance, in points, from the left edge of the object to the left edge of the chart area. Read-only  **Double** .
 

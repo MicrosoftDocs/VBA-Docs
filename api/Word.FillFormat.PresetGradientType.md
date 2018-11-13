@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradientType Property (Word)
+title: FillFormat.PresetGradientType property (Word)
 keywords: vbawd10.chm164102251
 f1_keywords:
 - vbawd10.chm164102251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetGradientType Property (Word)
+# FillFormat.PresetGradientType property (Word)
 
 Returns the preset gradient type for the specified fill. Read-only  **MsoPresetGradientType** .
 

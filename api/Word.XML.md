@@ -1,5 +1,5 @@
 ---
-title: XMLNode.XML Property (Word)
+title: XMLNode.XML property (Word)
 keywords: vbawd10.chm37748741
 f1_keywords:
 - vbawd10.chm37748741
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.XML Property (Word)
+# XMLNode.XML property (Word)
 
 Returns a  **String** that represents the text, with or without XML markup, that is contained within an XML node. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.SaveFormsData Property (Word)
+title: Document.SaveFormsData property (Word)
 keywords: vbawd10.chm158007347
 f1_keywords:
 - vbawd10.chm158007347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SaveFormsData Property (Word)
+# Document.SaveFormsData property (Word)
 
  **True** if Microsoft Word saves the data entered in a form as a tab-delimited record for use in a database. Read/write **Boolean** .
 

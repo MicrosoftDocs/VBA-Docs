@@ -1,5 +1,5 @@
 ---
-title: Application.IsObjectValid Property (Word)
+title: Application.IsObjectValid property (Word)
 keywords: vbawd10.chm158335085
 f1_keywords:
 - vbawd10.chm158335085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IsObjectValid Property (Word)
+# Application.IsObjectValid property (Word)
 
  **True** if the specified variable that references an object is valid. Read-only **Boolean** .
 

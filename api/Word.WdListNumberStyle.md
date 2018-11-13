@@ -1,5 +1,5 @@
 ---
-title: WdListNumberStyle Enumeration (Word)
+title: WdListNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListNumberStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdListNumberStyle Enumeration (Word)
+# WdListNumberStyle enumeration (Word)
 
 Specifies the numeric style to apply to a list.
 

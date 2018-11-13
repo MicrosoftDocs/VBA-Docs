@@ -1,5 +1,5 @@
 ---
-title: WdLineSpacing Enumeration (Word)
+title: WdLineSpacing enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineSpacing
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLineSpacing Enumeration (Word)
+# WdLineSpacing enumeration (Word)
 
 Specifies a line spacing format to be applied to a paragraph.
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Position Property (Word)
+title: DataLabels.Position property (Word)
 keywords: vbawd10.chm207487109
 f1_keywords:
 - vbawd10.chm207487109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Position Property (Word)
+# DataLabels.Position property (Word)
 
 Returns or sets the position of the data labels. Read/write  **[XlDataLabelPosition](Word.xldatalabelposition.md)** .
 

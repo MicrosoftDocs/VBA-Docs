@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Width Property (Word)
+title: DataLabel.Width property (Word)
 keywords: vbawd10.chm233900021
 f1_keywords:
 - vbawd10.chm233900021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Width Property (Word)
+# DataLabel.Width property (Word)
 
 Gets or sets the width, in points, of the object. Read/write  **Double**.
 

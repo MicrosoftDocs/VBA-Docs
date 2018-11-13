@@ -1,5 +1,5 @@
 ---
-title: DropCap.DistanceFromText Property (Word)
+title: DropCap.DistanceFromText property (Word)
 keywords: vbawd10.chm156631053
 f1_keywords:
 - vbawd10.chm156631053
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.DistanceFromText Property (Word)
+# DropCap.DistanceFromText property (Word)
 
 Returns or sets a  **Single** that represents the distance (in points) between the dropped capital letter and the paragraph text. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.ParagraphFormat Property (Word)
+title: ConditionalStyle.ParagraphFormat property (Word)
 keywords: vbawd10.chm91029513
 f1_keywords:
 - vbawd10.chm91029513
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.ParagraphFormat Property (Word)
+# ConditionalStyle.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified conditional style. Read/write.
 

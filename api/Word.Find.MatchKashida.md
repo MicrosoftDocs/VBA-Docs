@@ -1,5 +1,5 @@
 ---
-title: Find.MatchKashida Property (Word)
+title: Find.MatchKashida property (Word)
 keywords: vbawd10.chm162529380
 f1_keywords:
 - vbawd10.chm162529380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchKashida Property (Word)
+# Find.MatchKashida property (Word)
 
  **True** if find operations match text with matching kashidas in an Arabic language document. Read/write **Boolean** .
 

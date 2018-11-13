@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListType Property (Word)
+title: ListFormat.ListType property (Word)
 keywords: vbawd10.chm163577930
 f1_keywords:
 - vbawd10.chm163577930
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListType Property (Word)
+# ListFormat.ListType property (Word)
 
 Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType** .
 

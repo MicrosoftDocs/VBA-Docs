@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Description Property (Word)
+title: BuildingBlock.Description property (Word)
 keywords: vbawd10.chm203620356
 f1_keywords:
 - vbawd10.chm203620356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Description Property (Word)
+# BuildingBlock.Description property (Word)
 
 Returns or sets a  **String** that represents the description for a building block. Read/write.
 

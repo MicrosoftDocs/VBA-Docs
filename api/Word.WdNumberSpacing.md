@@ -1,5 +1,5 @@
 ---
-title: WdNumberSpacing Enumeration (Word)
+title: WdNumberSpacing enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberSpacing
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNumberSpacing Enumeration (Word)
+# WdNumberSpacing enumeration (Word)
 
 Specifies the number spacing setting for an OpenType font.
 

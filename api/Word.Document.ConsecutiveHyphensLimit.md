@@ -1,5 +1,5 @@
 ---
-title: Document.ConsecutiveHyphensLimit Property (Word)
+title: Document.ConsecutiveHyphensLimit property (Word)
 keywords: vbawd10.chm158007310
 f1_keywords:
 - vbawd10.chm158007310
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ConsecutiveHyphensLimit Property (Word)
+# Document.ConsecutiveHyphensLimit property (Word)
 
 Returns or sets the maximum number of consecutive lines that can end with hyphens. Read/write.  **Long** .
 

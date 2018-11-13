@@ -1,5 +1,5 @@
 ---
-title: WdGoToDirection Enumeration (Word)
+title: WdGoToDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGoToDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdGoToDirection Enumeration (Word)
+# WdGoToDirection enumeration (Word)
 
 Specifies the position to which a selection or the insertion point is moved in relation to an object or to itself.
 

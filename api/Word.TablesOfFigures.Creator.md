@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Creator Property (Word)
+title: TablesOfFigures.Creator property (Word)
 keywords: vbawd10.chm153224169
 f1_keywords:
 - vbawd10.chm153224169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Creator Property (Word)
+# TablesOfFigures.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

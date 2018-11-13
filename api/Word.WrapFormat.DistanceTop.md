@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceTop Property (Word)
+title: WrapFormat.DistanceTop property (Word)
 keywords: vbawd10.chm163774566
 f1_keywords:
 - vbawd10.chm163774566
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.DistanceTop Property (Word)
+# WrapFormat.DistanceTop property (Word)
 
 Returns or sets the distance (in points) between the document text and the top edge of the text-free area surrounding the specified shape. Read/write  **Single** .
 

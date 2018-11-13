@@ -1,5 +1,5 @@
 ---
-title: ListLevel.NumberStyle Property (Word)
+title: ListLevel.NumberStyle property (Word)
 keywords: vbawd10.chm160235524
 f1_keywords:
 - vbawd10.chm160235524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.NumberStyle Property (Word)
+# ListLevel.NumberStyle property (Word)
 
 Returns or sets the number style for the  **ListLevel** object. Read/write **WdListNumberStyle** .
 

@@ -1,5 +1,5 @@
 ---
-title: View.ShowTabs Property (Word)
+title: View.ShowTabs property (Word)
 keywords: vbawd10.chm161808399
 f1_keywords:
 - vbawd10.chm161808399
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowTabs Property (Word)
+# View.ShowTabs property (Word)
 
  **True** if tab characters are displayed. Read/write **Boolean** .
 

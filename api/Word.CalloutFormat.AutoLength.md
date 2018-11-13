@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.AutoLength Property (Word)
+title: CalloutFormat.AutoLength property (Word)
 keywords: vbawd10.chm163905639
 f1_keywords:
 - vbawd10.chm163905639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.AutoLength Property (Word)
+# CalloutFormat.AutoLength property (Word)
 
  **MsoTrue** to automatically sets the length of the callout line. Read-only **MsoTriState** .
 

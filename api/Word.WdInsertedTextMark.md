@@ -1,5 +1,5 @@
 ---
-title: WdInsertedTextMark Enumeration (Word)
+title: WdInsertedTextMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInsertedTextMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdInsertedTextMark Enumeration (Word)
+# WdInsertedTextMark enumeration (Word)
 
 Specifies the formatting of text that is inserted while change tracking is enabled.
 

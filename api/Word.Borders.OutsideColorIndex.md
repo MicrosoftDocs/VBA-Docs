@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideColorIndex Property (Word)
+title: Borders.OutsideColorIndex property (Word)
 keywords: vbawd10.chm154927115
 f1_keywords:
 - vbawd10.chm154927115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.OutsideColorIndex Property (Word)
+# Borders.OutsideColorIndex property (Word)
 
 Returns or sets the color of the outside borders. Read/write  **WdColorIndex** .
 

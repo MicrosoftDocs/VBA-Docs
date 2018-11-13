@@ -1,5 +1,5 @@
 ---
-title: LineFormat.InsetPen Property (Word)
+title: LineFormat.InsetPen property (Word)
 keywords: vbawd10.chm164233330
 f1_keywords:
 - vbawd10.chm164233330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.InsetPen Property (Word)
+# LineFormat.InsetPen property (Word)
 
  **MsoTrue** to draw lines inside a specified shape. Read/write **MsoTriState** .
 

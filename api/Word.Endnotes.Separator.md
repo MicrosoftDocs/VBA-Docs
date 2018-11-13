@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Separator Property (Word)
+title: Endnotes.Separator property (Word)
 keywords: vbawd10.chm155254888
 f1_keywords:
 - vbawd10.chm155254888
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Separator Property (Word)
+# Endnotes.Separator property (Word)
 
 Returns a  **Range** object that represents the endnote separator.
 

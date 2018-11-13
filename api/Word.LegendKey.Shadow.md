@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Shadow Property (Word)
+title: LegendKey.Shadow property (Word)
 keywords: vbawd10.chm266207335
 f1_keywords:
 - vbawd10.chm266207335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Shadow Property (Word)
+# LegendKey.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

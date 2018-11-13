@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailSubject Property (Word)
+title: MailMerge.MailSubject property (Word)
 keywords: vbawd10.chm153092106
 f1_keywords:
 - vbawd10.chm153092106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailSubject Property (Word)
+# MailMerge.MailSubject property (Word)
 
 Returns or sets the subject line used when the mail merge destination is electronic mail. Read/write  **String** .
 

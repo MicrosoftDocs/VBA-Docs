@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.StrikeV Property (Word)
+title: OMathBorderBox.StrikeV property (Word)
 keywords: vbawd10.chm116260973
 f1_keywords:
 - vbawd10.chm116260973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.StrikeV Property (Word)
+# OMathBorderBox.StrikeV property (Word)
 
 Returns or sets a  **Boolean** that represents a vertical strikethrough. Read/write.
 

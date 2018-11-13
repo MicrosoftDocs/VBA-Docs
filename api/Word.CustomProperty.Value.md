@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Value Property (Word)
+title: CustomProperty.Value property (Word)
 keywords: vbawd10.chm232783872
 f1_keywords:
 - vbawd10.chm232783872
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Value Property (Word)
+# CustomProperty.Value property (Word)
 
 Returns or sets the value of a custom property. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.BarShape Property (Word)
+title: Chart.BarShape property (Word)
 keywords: vbawd10.chm79364168
 f1_keywords:
 - vbawd10.chm79364168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.BarShape Property (Word)
+# Chart.BarShape property (Word)
 
 Returns or sets the shape used for every series in a 3-D bar or column chart. Read/write  **[XlBarShape](Word.xlbarshape.md)** .
 

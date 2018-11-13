@@ -1,5 +1,5 @@
 ---
-title: MappedDataField.DataFieldName Property (Word)
+title: MappedDataField.DataFieldName property (Word)
 keywords: vbawd10.chm107544578
 f1_keywords:
 - vbawd10.chm107544578
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataField.DataFieldName Property (Word)
+# MappedDataField.DataFieldName property (Word)
 
 Sets or returns a  **String** that represents the name of the field in the mail merge data source to which a mapped data field maps. Read/write.
 

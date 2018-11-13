@@ -1,5 +1,5 @@
 ---
-title: Application.ActivePrinter Property (Word)
+title: Application.ActivePrinter property (Word)
 keywords: vbawd10.chm158335042
 f1_keywords:
 - vbawd10.chm158335042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActivePrinter Property (Word)
+# Application.ActivePrinter property (Word)
 
 Returns or sets the name of the active printer. Read/write  **String** .
 

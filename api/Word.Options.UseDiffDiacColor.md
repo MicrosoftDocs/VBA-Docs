@@ -1,5 +1,5 @@
 ---
-title: Options.UseDiffDiacColor Property (Word)
+title: Options.UseDiffDiacColor property (Word)
 keywords: vbawd10.chm162988452
 f1_keywords:
 - vbawd10.chm162988452
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseDiffDiacColor Property (Word)
+# Options.UseDiffDiacColor property (Word)
 
  **True** if you can set the color of diacritics in the current document. Read/write **Boolean** .
 

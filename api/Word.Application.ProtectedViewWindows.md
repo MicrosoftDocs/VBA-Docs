@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindows Property (Word)
+title: Application.ProtectedViewWindows property (Word)
 keywords: vbawd10.chm158335466
 f1_keywords:
 - vbawd10.chm158335466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ProtectedViewWindows Property (Word)
+# Application.ProtectedViewWindows property (Word)
 
 Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) collection that represents all protected view windows. Read-only.
 

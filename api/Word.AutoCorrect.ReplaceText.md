@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.ReplaceText Property (Word)
+title: AutoCorrect.ReplaceText property (Word)
 keywords: vbawd10.chm155779076
 f1_keywords:
 - vbawd10.chm155779076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.ReplaceText Property (Word)
+# AutoCorrect.ReplaceText property (Word)
 
  **True** if Microsoft Word automatically replaces specified text with entries from the AutoCorrect list. Read/write **Boolean** .
 

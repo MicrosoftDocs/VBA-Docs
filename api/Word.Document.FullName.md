@@ -1,5 +1,5 @@
 ---
-title: Document.FullName Property (Word)
+title: Document.FullName property (Word)
 keywords: vbawd10.chm158007325
 f1_keywords:
 - vbawd10.chm158007325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FullName Property (Word)
+# Document.FullName property (Word)
 
 Returns a  **String** that represents the name of a document, including the path. Read-only.
 

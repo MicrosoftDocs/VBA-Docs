@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Application Property (Word)
+title: CheckBox.Application property (Word)
 keywords: vbawd10.chm153486312
 f1_keywords:
 - vbawd10.chm153486312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Application Property (Word)
+# CheckBox.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

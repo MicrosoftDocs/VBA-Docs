@@ -1,5 +1,5 @@
 ---
-title: WdStylisticSet Enumeration (Word)
+title: WdStylisticSet enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStylisticSet
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStylisticSet Enumeration (Word)
+# WdStylisticSet enumeration (Word)
 
 Specifies the stylistic set to apply to the font.
 

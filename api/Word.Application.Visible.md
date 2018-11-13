@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (Word)
+title: Application.Visible property (Word)
 keywords: vbawd10.chm158334999
 f1_keywords:
 - vbawd10.chm158334999
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Visible Property (Word)
+# Application.Visible property (Word)
 
  **True** if the specified object is visible. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.TextFrame2 Property (Word)
+title: ChartFormat.TextFrame2 property (Word)
 keywords: vbawd10.chm203030535
 f1_keywords:
 - vbawd10.chm203030535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.TextFrame2 Property (Word)
+# ChartFormat.TextFrame2 property (Word)
 
 Returns the text formatting for the specified chart element. Read-only  **TextFrame2** .
 

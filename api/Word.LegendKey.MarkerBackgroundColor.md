@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerBackgroundColor Property (Word)
+title: LegendKey.MarkerBackgroundColor property (Word)
 keywords: vbawd10.chm266207305
 f1_keywords:
 - vbawd10.chm266207305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerBackgroundColor Property (Word)
+# LegendKey.MarkerBackgroundColor property (Word)
 
 Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write  **Long** .
 

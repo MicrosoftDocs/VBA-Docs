@@ -1,5 +1,5 @@
 ---
-title: Index.SortBy Property (Word)
+title: Index.SortBy property (Word)
 keywords: vbawd10.chm159186952
 f1_keywords:
 - vbawd10.chm159186952
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.SortBy Property (Word)
+# Index.SortBy property (Word)
 
 Returns or sets the sorting criteria for the specified index. Read/write  **WdIndexSortBy** .
 

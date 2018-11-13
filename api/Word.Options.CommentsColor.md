@@ -1,5 +1,5 @@
 ---
-title: Options.CommentsColor Property (Word)
+title: Options.CommentsColor property (Word)
 keywords: vbawd10.chm162988486
 f1_keywords:
 - vbawd10.chm162988486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CommentsColor Property (Word)
+# Options.CommentsColor property (Word)
 
 Returns or sets a  **WdColorIndex** constant that represents the color of comments in a document. Read/write.
 

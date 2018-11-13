@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors.Application Property (Word)
+title: ProofreadingErrors.Application property (Word)
 keywords: vbawd10.chm163251176
 f1_keywords:
 - vbawd10.chm163251176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProofreadingErrors.Application Property (Word)
+# ProofreadingErrors.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

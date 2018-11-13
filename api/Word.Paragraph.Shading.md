@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Shading Property (Word)
+title: Paragraph.Shading property (Word)
 keywords: vbawd10.chm156696692
 f1_keywords:
 - vbawd10.chm156696692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Shading Property (Word)
+# Paragraph.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified paragraph.
 

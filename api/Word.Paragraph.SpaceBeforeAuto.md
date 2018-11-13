@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SpaceBeforeAuto Property (Word)
+title: Paragraph.SpaceBeforeAuto property (Word)
 keywords: vbawd10.chm156696708
 f1_keywords:
 - vbawd10.chm156696708
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.SpaceBeforeAuto Property (Word)
+# Paragraph.SpaceBeforeAuto property (Word)
 
  **True** if Microsoft Word automatically sets the amount of spacing before the specified paragraphs. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Lists.Parent Property (Word)
+title: Lists.Parent property (Word)
 keywords: vbawd10.chm160629738
 f1_keywords:
 - vbawd10.chm160629738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lists.Parent Property (Word)
+# Lists.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Lists** object.
 

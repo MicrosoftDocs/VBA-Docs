@@ -1,5 +1,5 @@
 ---
-title: TextInput.Format Property (Word)
+title: TextInput.Format property (Word)
 keywords: vbawd10.chm153550851
 f1_keywords:
 - vbawd10.chm153550851
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Format Property (Word)
+# TextInput.Format property (Word)
 
 Returns the text formatting for the specified text box. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.LayoutInCell Property (Word)
+title: Shape.LayoutInCell property (Word)
 keywords: vbawd10.chm161480849
 f1_keywords:
 - vbawd10.chm161480849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.LayoutInCell Property (Word)
+# Shape.LayoutInCell property (Word)
 
 Returns a  **Long** that represents whether a shape in a table is displayed inside or outside the table.
 

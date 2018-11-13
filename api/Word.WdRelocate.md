@@ -1,5 +1,5 @@
 ---
-title: WdRelocate Enumeration (Word)
+title: WdRelocate enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelocate
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRelocate Enumeration (Word)
+# WdRelocate enumeration (Word)
 
 Specifies where a paragraph should be relocated in relation to its current position.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.IsSandboxed Property (Word)
+title: Application.IsSandboxed property (Word)
 keywords: vbawd10.chm158335468
 f1_keywords:
 - vbawd10.chm158335468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IsSandboxed Property (Word)
+# Application.IsSandboxed property (Word)
 
  **True** if the application window is a protected view window. Read-only.
 

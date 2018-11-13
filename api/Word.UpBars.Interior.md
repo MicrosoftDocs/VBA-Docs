@@ -1,5 +1,5 @@
 ---
-title: UpBars.Interior Property (Word)
+title: UpBars.Interior property (Word)
 keywords: vbawd10.chm180945025
 f1_keywords:
 - vbawd10.chm180945025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Interior Property (Word)
+# UpBars.Interior property (Word)
 
 Returns the interior of the object. Read-only  **[Interior](Word.Interior.md)** .
 

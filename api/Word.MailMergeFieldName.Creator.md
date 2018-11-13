@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldName.Creator Property (Word)
+title: MailMergeFieldName.Creator property (Word)
 keywords: vbawd10.chm152765417
 f1_keywords:
 - vbawd10.chm152765417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFieldName.Creator Property (Word)
+# MailMergeFieldName.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

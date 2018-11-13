@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeComparison Enumeration (Word)
+title: WdMailMergeComparison enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeComparison
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeComparison Enumeration (Word)
+# WdMailMergeComparison enumeration (Word)
 
 Specifies the type of comparison to use when a condition is added to a mail merge process.
 

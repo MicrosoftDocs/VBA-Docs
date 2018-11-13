@@ -1,5 +1,5 @@
 ---
-title: View.ShadeEditableRanges Property (Word)
+title: View.ShadeEditableRanges property (Word)
 keywords: vbawd10.chm161808431
 f1_keywords:
 - vbawd10.chm161808431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShadeEditableRanges Property (Word)
+# View.ShadeEditableRanges property (Word)
 
 Returns or sets a  **Long** that represents whether shading is applied to the ranges in a document for which users have permission to modify. .
 

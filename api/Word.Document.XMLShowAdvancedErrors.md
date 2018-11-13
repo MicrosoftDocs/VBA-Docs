@@ -1,5 +1,5 @@
 ---
-title: Document.XMLShowAdvancedErrors Property (Word)
+title: Document.XMLShowAdvancedErrors property (Word)
 keywords: vbawd10.chm158007774
 f1_keywords:
 - vbawd10.chm158007774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.XMLShowAdvancedErrors Property (Word)
+# Document.XMLShowAdvancedErrors property (Word)
 
 Returns or sets a  **Boolean** that represents whether error message text is generated from the built-in Microsoft Word error messages or from the Microsoft XML Core Services (MSXML) 5.0 component included with Office.
 

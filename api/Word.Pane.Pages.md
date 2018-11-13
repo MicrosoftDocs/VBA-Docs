@@ -1,5 +1,5 @@
 ---
-title: Pane.Pages Property (Word)
+title: Pane.Pages property (Word)
 keywords: vbawd10.chm157286419
 f1_keywords:
 - vbawd10.chm157286419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Pages Property (Word)
+# Pane.Pages property (Word)
 
 Returns a  **[Pages](Word.pages.md)** collection that represents the pages in a document.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Creator Property (Word)
+title: FillFormat.Creator property (Word)
 keywords: vbawd10.chm164103145
 f1_keywords:
 - vbawd10.chm164103145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Creator Property (Word)
+# FillFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

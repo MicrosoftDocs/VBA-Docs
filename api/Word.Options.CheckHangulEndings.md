@@ -1,5 +1,5 @@
 ---
-title: Options.CheckHangulEndings Property (Word)
+title: Options.CheckHangulEndings property (Word)
 keywords: vbawd10.chm162988373
 f1_keywords:
 - vbawd10.chm162988373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CheckHangulEndings Property (Word)
+# Options.CheckHangulEndings property (Word)
 
  **True** if Microsoft Word automatically detects Hangul endings and ignores them during conversion from Hangul to Hanja. Read/write **Boolean** .
 

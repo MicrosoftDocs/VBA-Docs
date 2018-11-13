@@ -1,5 +1,5 @@
 ---
-title: Columns.Count Property (Word)
+title: Columns.Count property (Word)
 keywords: vbawd10.chm155910146
 f1_keywords:
 - vbawd10.chm155910146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Count Property (Word)
+# Columns.Count property (Word)
 
 Returns a  **Long** that represents the number of columns in the collection. Read-only.
 

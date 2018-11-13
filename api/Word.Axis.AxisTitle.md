@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisTitle Property (Word)
+title: Axis.AxisTitle property (Word)
 keywords: vbawd10.chm113049603
 f1_keywords:
 - vbawd10.chm113049603
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisTitle Property (Word)
+# Axis.AxisTitle property (Word)
 
 Returns the title of the specified axis. Read-only  **[AxisTitle](Word.AxisTitle.md)** .
 

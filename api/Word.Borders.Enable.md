@@ -1,5 +1,5 @@
 ---
-title: Borders.Enable Property (Word)
+title: Borders.Enable property (Word)
 keywords: vbawd10.chm154927106
 f1_keywords:
 - vbawd10.chm154927106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Enable Property (Word)
+# Borders.Enable property (Word)
 
 Returns or sets border formatting for the specified object. Read/write  **Long** .
 

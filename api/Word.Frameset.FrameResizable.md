@@ -1,5 +1,5 @@
 ---
-title: Frameset.FrameResizable Property (Word)
+title: Frameset.FrameResizable property (Word)
 keywords: vbawd10.chm165806111
 f1_keywords:
 - vbawd10.chm165806111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FrameResizable Property (Word)
+# Frameset.FrameResizable property (Word)
 
  **True** if the user can resize the specified frame when the frames page is viewed in a Web browser. Read/write **Boolean** .
 

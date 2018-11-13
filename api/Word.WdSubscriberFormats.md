@@ -1,5 +1,5 @@
 ---
-title: WdSubscriberFormats Enumeration (Word)
+title: WdSubscriberFormats enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSubscriberFormats
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSubscriberFormats Enumeration (Word)
+# WdSubscriberFormats enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowClear Property (Word)
+title: Document.FormattingShowClear property (Word)
 keywords: vbawd10.chm158007745
 f1_keywords:
 - vbawd10.chm158007745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowClear Property (Word)
+# Document.FormattingShowClear property (Word)
 
  **True** for Microsoft Word to show clear formatting in the **Styles and Formatting** task pane. Read/write **Boolean** .
 

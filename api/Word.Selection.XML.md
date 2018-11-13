@@ -1,5 +1,5 @@
 ---
-title: Selection.XML Property (Word)
+title: Selection.XML property (Word)
 keywords: vbawd10.chm158662970
 f1_keywords:
 - vbawd10.chm158662970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.XML Property (Word)
+# Selection.XML property (Word)
 
 Returns a  **String** that represents the XML text in the specified object. .
 

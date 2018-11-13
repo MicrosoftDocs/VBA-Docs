@@ -1,5 +1,5 @@
 ---
-title: Shape.Type Property (Word)
+title: Shape.Type property (Word)
 keywords: vbawd10.chm161480828
 f1_keywords:
 - vbawd10.chm161480828
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Type Property (Word)
+# Shape.Type property (Word)
 
 Returns the type of inline shape. Read-only  **MsoShapeType** .
 

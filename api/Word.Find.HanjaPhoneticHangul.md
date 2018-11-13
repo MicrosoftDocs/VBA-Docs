@@ -1,5 +1,5 @@
 ---
-title: Find.HanjaPhoneticHangul Property (Word)
+title: Find.HanjaPhoneticHangul property (Word)
 keywords: vbawd10.chm162529389
 f1_keywords:
 - vbawd10.chm162529389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.HanjaPhoneticHangul Property (Word)
+# Find.HanjaPhoneticHangul property (Word)
 
 Returns or sets a  **Boolean** that represents whether to locate phonetic Hangul and hanja characters in a Korean langauge find operation. Read/write.
 

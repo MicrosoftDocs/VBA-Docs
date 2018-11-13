@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.OptimizeForBrowser Property (Word)
+title: DefaultWebOptions.OptimizeForBrowser property (Word)
 keywords: vbawd10.chm165871617
 f1_keywords:
 - vbawd10.chm165871617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.OptimizeForBrowser Property (Word)
+# DefaultWebOptions.OptimizeForBrowser property (Word)
 
  **True** if Microsoft Word optimizes new Web pages created in Word for the Web browser specified by the **[BrowserLevel](Word.DefaultWebOptions.BrowserLevel.md)** property. Read/write **Boolean** .
 

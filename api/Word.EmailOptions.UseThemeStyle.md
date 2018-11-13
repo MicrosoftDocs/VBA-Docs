@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.UseThemeStyle Property (Word)
+title: EmailOptions.UseThemeStyle property (Word)
 keywords: vbawd10.chm165347431
 f1_keywords:
 - vbawd10.chm165347431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.UseThemeStyle Property (Word)
+# EmailOptions.UseThemeStyle property (Word)
 
  **True** if new e-mail messages use the character style defined by the default e-mail message theme. Read/write **Boolean** .
 

@@ -13,8 +13,8 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Research.Creator Property (Word)](http://msdn.microsoft.com/library/5947e75d-97b3-0d6a-9241-1843ab76c635%28Office.15%29.aspx)
+[Research.Creator property (Word)](http://msdn.microsoft.com/library/5947e75d-97b3-0d6a-9241-1843ab76c635%28Office.15%29.aspx)
 
-[TaskPanes.Creator Property (Word)](http://msdn.microsoft.com/library/e94b0c6c-90a6-e221-2d56-966a197056bf%28Office.15%29.aspx)
+[TaskPanes.Creator property (Word)](http://msdn.microsoft.com/library/e94b0c6c-90a6-e221-2d56-966a197056bf%28Office.15%29.aspx)
 
 

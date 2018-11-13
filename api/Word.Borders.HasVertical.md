@@ -1,5 +1,5 @@
 ---
-title: Borders.HasVertical Property (Word)
+title: Borders.HasVertical property (Word)
 keywords: vbawd10.chm154927132
 f1_keywords:
 - vbawd10.chm154927132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.HasVertical Property (Word)
+# Borders.HasVertical property (Word)
 
  **True** if a vertical border can be applied to the specified object. Read-only **Boolean** .
 

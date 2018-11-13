@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeDestination Enumeration (Word)
+title: WdMailMergeDestination enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeDestination
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeDestination Enumeration (Word)
+# WdMailMergeDestination enumeration (Word)
 
 Specifies a destination for mail merge results.
 

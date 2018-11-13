@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Subscript Property (Word)
+title: ChartFont.Subscript property (Word)
 keywords: vbawd10.chm255918102
 f1_keywords:
 - vbawd10.chm255918102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Subscript Property (Word)
+# ChartFont.Subscript property (Word)
 
  **True** if the font is formatted as subscript. The default is **False** . Read/write **Variant** .
 

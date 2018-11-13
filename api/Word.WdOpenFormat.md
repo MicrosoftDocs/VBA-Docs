@@ -1,5 +1,5 @@
 ---
-title: WdOpenFormat Enumeration (Word)
+title: WdOpenFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOpenFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOpenFormat Enumeration (Word)
+# WdOpenFormat enumeration (Word)
 
 Specifies the format to use when opening a document.
 

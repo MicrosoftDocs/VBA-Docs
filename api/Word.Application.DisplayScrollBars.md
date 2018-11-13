@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayScrollBars Property (Word)
+title: Application.DisplayScrollBars property (Word)
 keywords: vbawd10.chm158335058
 f1_keywords:
 - vbawd10.chm158335058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayScrollBars Property (Word)
+# Application.DisplayScrollBars property (Word)
 
  **True** if Word displays a scroll bar in at least one document window. **False** if there are no scroll bars displayed in any window. Read/write **Boolean** .
 

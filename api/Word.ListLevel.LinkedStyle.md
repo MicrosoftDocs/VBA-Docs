@@ -1,5 +1,5 @@
 ---
-title: ListLevel.LinkedStyle Property (Word)
+title: ListLevel.LinkedStyle property (Word)
 keywords: vbawd10.chm160235531
 f1_keywords:
 - vbawd10.chm160235531
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.LinkedStyle Property (Word)
+# ListLevel.LinkedStyle property (Word)
 
 Returns or sets the name of the style that's linked to the specified  **ListLevel** object. Read/write **String** .
 

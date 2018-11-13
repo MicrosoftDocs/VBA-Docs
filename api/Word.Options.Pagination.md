@@ -1,5 +1,5 @@
 ---
-title: Options.Pagination Property (Word)
+title: Options.Pagination property (Word)
 keywords: vbawd10.chm162988051
 f1_keywords:
 - vbawd10.chm162988051
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.Pagination Property (Word)
+# Options.Pagination property (Word)
 
  **True** if Microsoft Word repaginates documents in the background. Read/write **Boolean** .
 

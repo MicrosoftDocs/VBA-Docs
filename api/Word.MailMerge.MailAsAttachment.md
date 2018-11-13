@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailAsAttachment Property (Word)
+title: MailMerge.MailAsAttachment property (Word)
 keywords: vbawd10.chm153092104
 f1_keywords:
 - vbawd10.chm153092104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailAsAttachment Property (Word)
+# MailMerge.MailAsAttachment property (Word)
 
  **True** if the merge documents are sent as attachments when the mail merge destination is an e-mail message or a fax. Read/write **Boolean** .
 

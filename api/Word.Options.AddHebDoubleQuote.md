@@ -1,5 +1,5 @@
 ---
-title: Options.AddHebDoubleQuote Property (Word)
+title: Options.AddHebDoubleQuote property (Word)
 keywords: vbawd10.chm162988451
 f1_keywords:
 - vbawd10.chm162988451
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AddHebDoubleQuote Property (Word)
+# Options.AddHebDoubleQuote property (Word)
 
  **True** if Microsoft Word encloses number formats in double quotation marks ("). Read/write **Boolean** .
 

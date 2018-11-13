@@ -1,5 +1,5 @@
 ---
-title: Table.RightPadding Property (Word)
+title: Table.RightPadding property (Word)
 keywords: vbawd10.chm156303476
 f1_keywords:
 - vbawd10.chm156303476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.RightPadding Property (Word)
+# Table.RightPadding property (Word)
 
 Returns or sets the amount of space (in points) to add to the right of the contents of all the cells in a table. Read/write  **Single** .
 

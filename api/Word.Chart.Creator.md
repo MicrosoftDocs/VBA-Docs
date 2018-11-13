@@ -1,5 +1,5 @@
 ---
-title: Chart.Creator Property (Word)
+title: Chart.Creator property (Word)
 keywords: vbawd10.chm79364245
 f1_keywords:
 - vbawd10.chm79364245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Creator Property (Word)
+# Chart.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

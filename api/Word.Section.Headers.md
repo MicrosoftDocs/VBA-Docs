@@ -1,5 +1,5 @@
 ---
-title: Section.Headers Property (Word)
+title: Section.Headers property (Word)
 keywords: vbawd10.chm156827769
 f1_keywords:
 - vbawd10.chm156827769
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Headers Property (Word)
+# Section.Headers property (Word)
 
 Returns a  **[HeadersFooters](Word.headersfooters.md)** collection that represents the headers for the specified section. Read-only.
 

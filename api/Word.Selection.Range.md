@@ -1,5 +1,5 @@
 ---
-title: Selection.Range Property (Word)
+title: Selection.Range property (Word)
 keywords: vbawd10.chm158663056
 f1_keywords:
 - vbawd10.chm158663056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Range Property (Word)
+# Selection.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: WdGoToItem Enumeration (Word)
+title: WdGoToItem enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGoToItem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdGoToItem Enumeration (Word)
+# WdGoToItem enumeration (Word)
 
 Specifies the type of item to move the insertion point or selection just prior to.
 

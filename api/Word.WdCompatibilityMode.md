@@ -1,5 +1,5 @@
 ---
-title: WdCompatibilityMode Enumeration (Word)
+title: WdCompatibilityMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompatibilityMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCompatibilityMode Enumeration (Word)
+# WdCompatibilityMode enumeration (Word)
 
 Specifies the compatibility mode that Word uses when opening a document.
 

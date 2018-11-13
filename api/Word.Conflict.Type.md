@@ -1,5 +1,5 @@
 ---
-title: Conflict.Type Property (Word)
+title: Conflict.Type property (Word)
 keywords: vbawd10.chm78708740
 f1_keywords:
 - vbawd10.chm78708740
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflict.Type Property (Word)
+# Conflict.Type property (Word)
 
 Returns the [WdRevisionType](Word.WdRevisionType.md)for the [Conflict](Word.Conflict.md) object. Read-only.
 

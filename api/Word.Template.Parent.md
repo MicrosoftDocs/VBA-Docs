@@ -1,5 +1,5 @@
 ---
-title: Template.Parent Property (Word)
+title: Template.Parent property (Word)
 keywords: vbawd10.chm157942762
 f1_keywords:
 - vbawd10.chm157942762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.Parent Property (Word)
+# Template.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Template** object.
 

@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderInitials Property (Word)
+title: LetterContent.SenderInitials property (Word)
 keywords: vbawd10.chm161546364
 f1_keywords:
 - vbawd10.chm161546364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderInitials Property (Word)
+# LetterContent.SenderInitials property (Word)
 
 Returns or sets the initials of the person creating a letter with the Letter Wizard. Read/write  **String** .
 

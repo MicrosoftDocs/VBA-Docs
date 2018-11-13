@@ -1,5 +1,5 @@
 ---
-title: Bibliography.Sources Property (Word)
+title: Bibliography.Sources property (Word)
 keywords: vbawd10.chm101646439
 f1_keywords:
 - vbawd10.chm101646439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.Sources Property (Word)
+# Bibliography.Sources property (Word)
 
 Returns a  **[Sources](Word.Sources.md)** collection that represents all the sources contained in a bibliography. Read-only.
 

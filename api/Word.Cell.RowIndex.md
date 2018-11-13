@@ -1,5 +1,5 @@
 ---
-title: Cell.RowIndex Property (Word)
+title: Cell.RowIndex property (Word)
 keywords: vbawd10.chm156106756
 f1_keywords:
 - vbawd10.chm156106756
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.RowIndex Property (Word)
+# Cell.RowIndex property (Word)
 
 Returns the number of the row that contains the specified cell. Read-only  **Long** .
 

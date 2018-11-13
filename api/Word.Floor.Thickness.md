@@ -1,5 +1,5 @@
 ---
-title: Floor.Thickness Property (Word)
+title: Floor.Thickness property (Word)
 keywords: vbawd10.chm46008691
 f1_keywords:
 - vbawd10.chm46008691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Thickness Property (Word)
+# Floor.Thickness property (Word)
 
 Returns or sets the thickness of the floor. Read/write  **Long** .
 

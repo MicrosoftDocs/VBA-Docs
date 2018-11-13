@@ -1,5 +1,5 @@
 ---
-title: Tasks.Parent Property (Word)
+title: Tasks.Parent property (Word)
 keywords: vbawd10.chm159581162
 f1_keywords:
 - vbawd10.chm159581162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks.Parent Property (Word)
+# Tasks.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Tasks** object.
 

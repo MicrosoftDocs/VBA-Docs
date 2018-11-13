@@ -1,5 +1,5 @@
 ---
-title: Walls.Name Property (Word)
+title: Walls.Name property (Word)
 keywords: vbawd10.chm25165934
 f1_keywords:
 - vbawd10.chm25165934
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Name Property (Word)
+# Walls.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

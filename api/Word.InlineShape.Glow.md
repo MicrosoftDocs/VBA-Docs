@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Glow Property (Word)
+title: InlineShape.Glow property (Word)
 keywords: vbawd10.chm162005145
 f1_keywords:
 - vbawd10.chm162005145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Glow Property (Word)
+# InlineShape.Glow property (Word)
 
 Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the formatting properties for a glow effect. Read-only.
 

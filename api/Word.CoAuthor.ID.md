@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.ID Property (Word)
+title: CoAuthor.ID property (Word)
 keywords: vbawd10.chm81068033
 f1_keywords:
 - vbawd10.chm81068033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthor.ID Property (Word)
+# CoAuthor.ID property (Word)
 
 Returns a  **String** that specifies a unique identifier for the specified author. Read-only.
 

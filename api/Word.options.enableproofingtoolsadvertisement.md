@@ -1,5 +1,5 @@
 ---
-title: Options.EnableProofingToolsAdvertisement Property (Word)
+title: Options.EnableProofingToolsAdvertisement property (Word)
 keywords: vbawd10.chm162988543
 f1_keywords:
 - vbawd10.chm162988543
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableProofingToolsAdvertisement Property (Word)
+# Options.EnableProofingToolsAdvertisement property (Word)
 
 Returns or sets a  **Boolean** value that, when **True**, specifies that users be notified when additional proofing tools are available for download. Read-write.
 

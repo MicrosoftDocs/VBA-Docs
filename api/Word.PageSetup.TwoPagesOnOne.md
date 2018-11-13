@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TwoPagesOnOne Property (Word)
+title: PageSetup.TwoPagesOnOne property (Word)
 keywords: vbawd10.chm158400633
 f1_keywords:
 - vbawd10.chm158400633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.TwoPagesOnOne Property (Word)
+# PageSetup.TwoPagesOnOne property (Word)
 
  **True** if Microsoft Word prints the specified document two pages per sheet. Read/write **Boolean** .
 

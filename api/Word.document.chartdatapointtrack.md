@@ -1,5 +1,5 @@
 ---
-title: Document.ChartDataPointTrack Property (Word)
+title: Document.ChartDataPointTrack property (Word)
 keywords: vbawd10.chm158007914
 f1_keywords:
 - vbawd10.chm158007914
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ChartDataPointTrack Property (Word)
+# Document.ChartDataPointTrack property (Word)
 
 Returns or sets a  **Boolean** that specifies whether charts in the active document use cell-reference data-point tracking. Read-write.
 

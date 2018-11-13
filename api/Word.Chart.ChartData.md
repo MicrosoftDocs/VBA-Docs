@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartData Property (Word)
+title: Chart.ChartData property (Word)
 keywords: vbawd10.chm79364189
 f1_keywords:
 - vbawd10.chm79364189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartData Property (Word)
+# Chart.ChartData property (Word)
 
 Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](Word.ChartData.md)** .
 

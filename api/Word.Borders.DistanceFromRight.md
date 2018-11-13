@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromRight Property (Word)
+title: Borders.DistanceFromRight property (Word)
 keywords: vbawd10.chm154927126
 f1_keywords:
 - vbawd10.chm154927126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.DistanceFromRight Property (Word)
+# Borders.DistanceFromRight property (Word)
 
 Returns or sets the space (in points) between the right edge of the text and the right border. Read/write  **Long** .
 

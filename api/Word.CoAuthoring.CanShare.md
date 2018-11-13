@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.CanShare Property (Word)
+title: CoAuthoring.CanShare property (Word)
 keywords: vbawd10.chm254869512
 f1_keywords:
 - vbawd10.chm254869512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.CanShare Property (Word)
+# CoAuthoring.CanShare property (Word)
 
 Returns a  **Boolean** that specifies whether this document can be co authored. Read-only.
 

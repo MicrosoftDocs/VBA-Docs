@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Included Property (Word)
+title: MailMergeDataSource.Included property (Word)
 keywords: vbawd10.chm152895501
 f1_keywords:
 - vbawd10.chm152895501
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Included Property (Word)
+# MailMergeDataSource.Included property (Word)
 
  **True** if a record is included in a mail merge. Read/write **Boolean** .
 

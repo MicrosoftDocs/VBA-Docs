@@ -1,5 +1,5 @@
 ---
-title: Options.ParagraphAlignmentGuides Property (Word)
+title: Options.ParagraphAlignmentGuides property (Word)
 keywords: vbawd10.chm162988539
 f1_keywords:
 - vbawd10.chm162988539
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ParagraphAlignmentGuides Property (Word)
+# Options.ParagraphAlignmentGuides property (Word)
 
 Returns or sets a  **Boolean** that specifies whether paragraph alignment guides are displayed in the user interface. Read-write.
 

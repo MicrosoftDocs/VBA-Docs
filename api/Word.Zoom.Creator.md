@@ -1,5 +1,5 @@
 ---
-title: Zoom.Creator Property (Word)
+title: Zoom.Creator property (Word)
 keywords: vbawd10.chm161874921
 f1_keywords:
 - vbawd10.chm161874921
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zoom.Creator Property (Word)
+# Zoom.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

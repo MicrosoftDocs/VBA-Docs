@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions.Creator Property (Word)
+title: HTMLDivisions.Creator property (Word)
 keywords: vbawd10.chm166200297
 f1_keywords:
 - vbawd10.chm166200297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions.Creator Property (Word)
+# HTMLDivisions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

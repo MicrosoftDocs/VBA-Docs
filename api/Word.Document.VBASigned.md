@@ -1,5 +1,5 @@
 ---
-title: Document.VBASigned Property (Word)
+title: Document.VBASigned property (Word)
 keywords: vbawd10.chm158007631
 f1_keywords:
 - vbawd10.chm158007631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.VBASigned Property (Word)
+# Document.VBASigned property (Word)
 
  **True** if the Microsoft Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only **Boolean** .
 

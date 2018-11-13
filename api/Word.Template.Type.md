@@ -1,5 +1,5 @@
 ---
-title: Template.Type Property (Word)
+title: Template.Type property (Word)
 keywords: vbawd10.chm157941766
 f1_keywords:
 - vbawd10.chm157941766
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.Type Property (Word)
+# Template.Type property (Word)
 
 Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)** .
 

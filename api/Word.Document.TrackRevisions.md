@@ -1,5 +1,5 @@
 ---
-title: Document.TrackRevisions Property (Word)
+title: Document.TrackRevisions property (Word)
 keywords: vbawd10.chm158007610
 f1_keywords:
 - vbawd10.chm158007610
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TrackRevisions Property (Word)
+# Document.TrackRevisions property (Word)
 
  **True** if changes are tracked in the specified document. Read/write **Boolean** .
 

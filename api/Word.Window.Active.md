@@ -1,5 +1,5 @@
 ---
-title: Window.Active Property (Word)
+title: Window.Active property (Word)
 keywords: vbawd10.chm157417498
 f1_keywords:
 - vbawd10.chm157417498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Active Property (Word)
+# Window.Active property (Word)
 
  **True** if the specified window is active. Read-only **Boolean** .
 

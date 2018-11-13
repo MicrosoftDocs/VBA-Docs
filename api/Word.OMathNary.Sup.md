@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Sup Property (Word)
+title: OMathNary.Sup property (Word)
 keywords: vbawd10.chm25428072
 f1_keywords:
 - vbawd10.chm25428072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Sup Property (Word)
+# OMathNary.Sup property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the upper limit of an n-ary operator. Read-only.
 

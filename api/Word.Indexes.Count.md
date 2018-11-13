@@ -1,5 +1,5 @@
 ---
-title: Indexes.Count Property (Word)
+title: Indexes.Count property (Word)
 keywords: vbawd10.chm159121409
 f1_keywords:
 - vbawd10.chm159121409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.Count Property (Word)
+# Indexes.Count property (Word)
 
 Returns a  **Long** that represents the number of indexes in the collection. Read-only.
 

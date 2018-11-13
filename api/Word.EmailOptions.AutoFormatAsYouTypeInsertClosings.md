@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeInsertClosings Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeInsertClosings property (Word)
 keywords: vbawd10.chm165347631
 f1_keywords:
 - vbawd10.chm165347631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeInsertClosings Property (Word)
+# EmailOptions.AutoFormatAsYouTypeInsertClosings property (Word)
 
  **True** for Microsoft Word to automatically insert the corresponding memo closing when the user enters a memo heading. Read/write.
 

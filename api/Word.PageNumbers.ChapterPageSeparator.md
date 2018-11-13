@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.ChapterPageSeparator Property (Word)
+title: PageNumbers.ChapterPageSeparator property (Word)
 keywords: vbawd10.chm159776773
 f1_keywords:
 - vbawd10.chm159776773
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.ChapterPageSeparator Property (Word)
+# PageNumbers.ChapterPageSeparator property (Word)
 
 Returns or sets the separator character used between the chapter number and the page number. Read/write  **[WdSeparatorType](Word.WdSeparatorType.md)** .
 

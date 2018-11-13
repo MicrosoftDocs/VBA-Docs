@@ -1,5 +1,5 @@
 ---
-title: Find.MatchCase Property (Word)
+title: Find.MatchCase property (Word)
 keywords: vbawd10.chm162529294
 f1_keywords:
 - vbawd10.chm162529294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchCase Property (Word)
+# Find.MatchCase property (Word)
 
  **True** if the find operation is case sensitive. The default is **False** . Read/write **Boolean** .
 

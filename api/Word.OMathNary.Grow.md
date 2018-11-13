@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Grow Property (Word)
+title: OMathNary.Grow property (Word)
 keywords: vbawd10.chm25428075
 f1_keywords:
 - vbawd10.chm25428075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Grow Property (Word)
+# OMathNary.Grow property (Word)
 
 Returns or sets a  **Boolean** that represents whether n-ary operators grow to the full height of the arguments that they contain. Read/write.
 

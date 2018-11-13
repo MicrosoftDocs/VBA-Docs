@@ -1,5 +1,5 @@
 ---
-title: Paragraph.IsStyleSeparator Property (Word)
+title: Paragraph.IsStyleSeparator property (Word)
 keywords: vbawd10.chm156696710
 f1_keywords:
 - vbawd10.chm156696710
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.IsStyleSeparator Property (Word)
+# Paragraph.IsStyleSeparator property (Word)
 
  **True** if a paragraph contains a special hidden paragraph mark that allows Microsoft Word to appear to join paragraphs of different paragraph styles. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Borders.SurroundFooter Property (Word)
+title: Borders.SurroundFooter property (Word)
 keywords: vbawd10.chm154927129
 f1_keywords:
 - vbawd10.chm154927129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.SurroundFooter Property (Word)
+# Borders.SurroundFooter property (Word)
 
  **True** if a page border encompasses the document footer. Read/write **Boolean** .
 

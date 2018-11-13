@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Parent Property (Word)
+title: ColorFormat.Parent property (Word)
 keywords: vbawd10.chm163971073
 f1_keywords:
 - vbawd10.chm163971073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Parent Property (Word)
+# ColorFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ColorFormat** object.
 

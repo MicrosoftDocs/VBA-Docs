@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Word)
+title: Application.COMAddIns property (Word)
 keywords: vbawd10.chm158335087
 f1_keywords:
 - vbawd10.chm158335087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.COMAddIns Property (Word)
+# Application.COMAddIns property (Word)
 
 Returns a reference to the  **COMAddIns** collection that represents all the Component Object Model (COM) add-ins currently loaded in Microsoft Word.
 

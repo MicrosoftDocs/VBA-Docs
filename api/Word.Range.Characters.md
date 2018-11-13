@@ -1,5 +1,5 @@
 ---
-title: Range.Characters Property (Word)
+title: Range.Characters property (Word)
 keywords: vbawd10.chm157155381
 f1_keywords:
 - vbawd10.chm157155381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Characters Property (Word)
+# Range.Characters property (Word)
 
 Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a range. Read-only.
 

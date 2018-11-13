@@ -1,5 +1,5 @@
 ---
-title: Walls.Creator Property (Word)
+title: Walls.Creator property (Word)
 keywords: vbawd10.chm25165973
 f1_keywords:
 - vbawd10.chm25165973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Creator Property (Word)
+# Walls.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

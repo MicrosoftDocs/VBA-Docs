@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Alignment Property (Word)
+title: Paragraphs.Alignment property (Word)
 keywords: vbawd10.chm156762213
 f1_keywords:
 - vbawd10.chm156762213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Alignment Property (Word)
+# Paragraphs.Alignment property (Word)
 
 Returns or sets a  **WdParagraphAlignment** constant that represents the alignment for the specified paragraphs. Read/write.
 

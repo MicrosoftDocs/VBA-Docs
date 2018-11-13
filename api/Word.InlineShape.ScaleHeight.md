@@ -1,5 +1,5 @@
 ---
-title: InlineShape.ScaleHeight Property (Word)
+title: InlineShape.ScaleHeight property (Word)
 keywords: vbawd10.chm162005002
 f1_keywords:
 - vbawd10.chm162005002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.ScaleHeight Property (Word)
+# InlineShape.ScaleHeight property (Word)
 
 Scales the height of the specified inline shape relative to its original size. Read/write  **Single** .
 

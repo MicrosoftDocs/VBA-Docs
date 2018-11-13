@@ -1,5 +1,5 @@
 ---
-title: Options.InlineConversion Property (Word)
+title: Options.InlineConversion property (Word)
 keywords: vbawd10.chm162988118
 f1_keywords:
 - vbawd10.chm162988118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.InlineConversion Property (Word)
+# Options.InlineConversion property (Word)
 
  **True** if Microsoft Word displays an unconfirmed character string in the Japanese Input Method Editor (IME) as an insertion between existing (confirmed) character strings. Read/write **Boolean** .
 

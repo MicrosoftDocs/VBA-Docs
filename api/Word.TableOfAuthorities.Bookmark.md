@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Bookmark Property (Word)
+title: TableOfAuthorities.Bookmark property (Word)
 keywords: vbawd10.chm152109060
 f1_keywords:
 - vbawd10.chm152109060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Bookmark Property (Word)
+# TableOfAuthorities.Bookmark property (Word)
 
 Returns or sets the name of the bookmark from which to collect table of authorities entries. Read/write  **String** .
 

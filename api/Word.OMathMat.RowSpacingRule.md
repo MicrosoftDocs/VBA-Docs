@@ -1,5 +1,5 @@
 ---
-title: OMathMat.RowSpacingRule Property (Word)
+title: OMathMat.RowSpacingRule property (Word)
 keywords: vbawd10.chm176029804
 f1_keywords:
 - vbawd10.chm176029804
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.RowSpacingRule Property (Word)
+# OMathMat.RowSpacingRule property (Word)
 
 Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for rows in a matrix. Read/write.
 

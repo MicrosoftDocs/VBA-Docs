@@ -1,5 +1,5 @@
 ---
-title: Document.Kind Property (Word)
+title: Document.Kind property (Word)
 keywords: vbawd10.chm158007339
 f1_keywords:
 - vbawd10.chm158007339
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Kind Property (Word)
+# Document.Kind property (Word)
 
 Returns or sets the format type that Microsoft Word uses when automatically formatting the specified document. Read/write  **[WdDocumentKind](Word.WdDocumentKind.md)** .
 

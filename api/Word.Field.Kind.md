@@ -1,5 +1,5 @@
 ---
-title: Field.Kind Property (Word)
+title: Field.Kind property (Word)
 keywords: vbawd10.chm154075139
 f1_keywords:
 - vbawd10.chm154075139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Kind Property (Word)
+# Field.Kind property (Word)
 
 Returns the type of link for a  **Field** object. Read-only **[WdFieldKind](Word.WdFieldKind.md)** .
 

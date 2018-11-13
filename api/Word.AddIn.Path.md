@@ -1,5 +1,5 @@
 ---
-title: AddIn.Path Property (Word)
+title: AddIn.Path property (Word)
 keywords: vbawd10.chm159252483
 f1_keywords:
 - vbawd10.chm159252483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Path Property (Word)
+# AddIn.Path property (Word)
 
 Returns the location of an installed add-in. Read-only  **String** .
 

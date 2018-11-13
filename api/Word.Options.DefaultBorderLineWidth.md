@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderLineWidth Property (Word)
+title: Options.DefaultBorderLineWidth property (Word)
 keywords: vbawd10.chm162988316
 f1_keywords:
 - vbawd10.chm162988316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultBorderLineWidth Property (Word)
+# Options.DefaultBorderLineWidth property (Word)
 
 Returns or sets the default line width of borders. Read/write  **WdLineWidth** .
 

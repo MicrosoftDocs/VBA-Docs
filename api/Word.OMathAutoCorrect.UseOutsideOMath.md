@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.UseOutsideOMath Property (Word)
+title: OMathAutoCorrect.UseOutsideOMath property (Word)
 keywords: vbawd10.chm258474088
 f1_keywords:
 - vbawd10.chm258474088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.UseOutsideOMath Property (Word)
+# OMathAutoCorrect.UseOutsideOMath property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word uses math autocorrect rules outside equations in a document. Read/write.
 

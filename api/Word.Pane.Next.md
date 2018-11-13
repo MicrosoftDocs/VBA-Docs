@@ -1,5 +1,5 @@
 ---
-title: Pane.Next Property (Word)
+title: Pane.Next property (Word)
 keywords: vbawd10.chm157286411
 f1_keywords:
 - vbawd10.chm157286411
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Next Property (Word)
+# Pane.Next property (Word)
 
 Returns a  **Pane** object that represents the next document pane in the collection. Read-only.
 

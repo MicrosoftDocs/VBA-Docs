@@ -1,5 +1,5 @@
 ---
-title: ListFormat.Creator Property (Word)
+title: ListFormat.Creator property (Word)
 keywords: vbawd10.chm163578857
 f1_keywords:
 - vbawd10.chm163578857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.Creator Property (Word)
+# ListFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

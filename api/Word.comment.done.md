@@ -1,5 +1,5 @@
 ---
-title: Comment.Done Property (Word)
+title: Comment.Done property (Word)
 keywords: vbawd10.chm154993653
 f1_keywords:
 - vbawd10.chm154993653
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Done Property (Word)
+# Comment.Done property (Word)
 
 Returns or sets a  **Boolean** whose value is **true** if the specified comment has been marked closed. Read-write.
 

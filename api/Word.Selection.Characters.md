@@ -1,5 +1,5 @@
 ---
-title: Selection.Characters Property (Word)
+title: Selection.Characters property (Word)
 keywords: vbawd10.chm158662709
 f1_keywords:
 - vbawd10.chm158662709
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Characters Property (Word)
+# Selection.Characters property (Word)
 
 Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document, range, or selection. Read-only.
 

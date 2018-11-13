@@ -1,5 +1,5 @@
 ---
-title: Style.NoProofing Property (Word)
+title: Style.NoProofing property (Word)
 keywords: vbawd10.chm153878546
 f1_keywords:
 - vbawd10.chm153878546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NoProofing Property (Word)
+# Style.NoProofing property (Word)
 
  **True** if the spelling and grammar checker ignores text formatted with this style. Read/write **Long** .
 

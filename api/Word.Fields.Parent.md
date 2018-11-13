@@ -1,5 +1,5 @@
 ---
-title: Fields.Parent Property (Word)
+title: Fields.Parent property (Word)
 keywords: vbawd10.chm154141674
 f1_keywords:
 - vbawd10.chm154141674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Parent Property (Word)
+# Fields.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Fields** object.
 

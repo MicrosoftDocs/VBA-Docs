@@ -1,5 +1,5 @@
 ---
-title: Application.BrowseExtraFileTypes Property (Word)
+title: Application.BrowseExtraFileTypes property (Word)
 keywords: vbawd10.chm158335084
 f1_keywords:
 - vbawd10.chm158335084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.BrowseExtraFileTypes Property (Word)
+# Application.BrowseExtraFileTypes property (Word)
 
 Set this property to "text/html" to allow hyperlinked HTML files to be opened in Microsoft Word (instead of the default Internet browser). Read/write  **String** .
 

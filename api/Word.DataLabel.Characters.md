@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Characters Property (Word)
+title: DataLabel.Characters property (Word)
 keywords: vbawd10.chm233898587
 f1_keywords:
 - vbawd10.chm233898587
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Characters Property (Word)
+# DataLabel.Characters property (Word)
 
 Returns a  **[ChartCharacters](Word.ChartCharacters.md)** object that represents a range of characters within the object text. You can use the **ChartCharacters** object to format characters within a text string.
 

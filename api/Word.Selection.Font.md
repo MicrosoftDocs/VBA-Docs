@@ -1,5 +1,5 @@
 ---
-title: Selection.Font Property (Word)
+title: Selection.Font property (Word)
 keywords: vbawd10.chm158662661
 f1_keywords:
 - vbawd10.chm158662661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Font Property (Word)
+# Selection.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write.
 

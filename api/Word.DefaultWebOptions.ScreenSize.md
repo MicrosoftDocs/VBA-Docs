@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.ScreenSize Property (Word)
+title: DefaultWebOptions.ScreenSize property (Word)
 keywords: vbawd10.chm165871627
 f1_keywords:
 - vbawd10.chm165871627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.ScreenSize Property (Word)
+# DefaultWebOptions.ScreenSize property (Word)
 
 Returns or sets the ideal minimum screen size (width by height, in pixels) that you should use when viewing the saved document in a Web browser. Read/write  **MsoScreenSize** .
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Left Property (Word)
+title: AxisTitle.Left property (Word)
 keywords: vbawd10.chm98238470
 f1_keywords:
 - vbawd10.chm98238470
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Left Property (Word)
+# AxisTitle.Left property (Word)
 
 Returns or sets the distance, in points, from the left edge of the object to the left edge of the chart area. Read/write  **Double** .
 

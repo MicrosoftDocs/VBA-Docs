@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.Parent Property (Word)
+title: OMathDelim.Parent property (Word)
 keywords: vbawd10.chm145096806
 f1_keywords:
 - vbawd10.chm145096806
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.Parent Property (Word)
+# OMathDelim.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathDelim** object.
 

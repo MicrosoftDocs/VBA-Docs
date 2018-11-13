@@ -1,5 +1,5 @@
 ---
-title: Envelope.ReturnAddress Property (Word)
+title: Envelope.ReturnAddress property (Word)
 keywords: vbawd10.chm152567810
 f1_keywords:
 - vbawd10.chm152567810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.ReturnAddress Property (Word)
+# Envelope.ReturnAddress property (Word)
 
 Returns a  **Range** object that represents the envelope return address.
 

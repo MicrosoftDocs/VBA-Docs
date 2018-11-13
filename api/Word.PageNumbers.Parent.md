@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.Parent Property (Word)
+title: PageNumbers.Parent property (Word)
 keywords: vbawd10.chm159777770
 f1_keywords:
 - vbawd10.chm159777770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.Parent Property (Word)
+# PageNumbers.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **PageNumbers** object.
 

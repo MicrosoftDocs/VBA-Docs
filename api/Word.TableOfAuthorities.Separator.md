@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Separator Property (Word)
+title: TableOfAuthorities.Separator property (Word)
 keywords: vbawd10.chm152109061
 f1_keywords:
 - vbawd10.chm152109061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Separator Property (Word)
+# TableOfAuthorities.Separator property (Word)
 
 Returns or sets up to five characters that appear between the sequence number and the page number in a table of authorities. Read/write  **String** .
 

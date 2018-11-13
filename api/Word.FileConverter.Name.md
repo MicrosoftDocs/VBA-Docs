@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Name Property (Word)
+title: FileConverter.Name property (Word)
 keywords: vbawd10.chm161021959
 f1_keywords:
 - vbawd10.chm161021959
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.Name Property (Word)
+# FileConverter.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

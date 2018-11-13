@@ -1,5 +1,5 @@
 ---
-title: Table.Title Property (Word)
+title: Table.Title property (Word)
 keywords: vbawd10.chm156303569
 f1_keywords:
 - vbawd10.chm156303569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Title Property (Word)
+# Table.Title property (Word)
 
 Returns or sets a  **String** that contains a title for the specified table. Read/write.
 

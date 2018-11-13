@@ -1,5 +1,5 @@
 ---
-title: Options.PrintHiddenText Property (Word)
+title: Options.PrintHiddenText property (Word)
 keywords: vbawd10.chm162988066
 f1_keywords:
 - vbawd10.chm162988066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintHiddenText Property (Word)
+# Options.PrintHiddenText property (Word)
 
  **True** if hidden text is printed. Read/write **Boolean** .
 

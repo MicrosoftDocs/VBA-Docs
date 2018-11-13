@@ -1,5 +1,5 @@
 ---
-title: Options.MarginAlignmentGuides Property (Word)
+title: Options.MarginAlignmentGuides property (Word)
 keywords: vbawd10.chm162988538
 f1_keywords:
 - vbawd10.chm162988538
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MarginAlignmentGuides Property (Word)
+# Options.MarginAlignmentGuides property (Word)
 
 Returns or sets a  **Boolean** that specifies whether margin alignment guides are displayed in the user interface. Read-write.
 

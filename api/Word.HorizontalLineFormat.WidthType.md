@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.WidthType Property (Word)
+title: HorizontalLineFormat.WidthType property (Word)
 keywords: vbawd10.chm165543941
 f1_keywords:
 - vbawd10.chm165543941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.WidthType Property (Word)
+# HorizontalLineFormat.WidthType property (Word)
 
 Returns or sets the width type for the specified  **HorizontalLineFormat** object. Read/write **WdHorizontalLineWidthType** .
 

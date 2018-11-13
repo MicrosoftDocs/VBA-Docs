@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Width Property (Word)
+title: InlineShape.Width property (Word)
 keywords: vbawd10.chm162005001
 f1_keywords:
 - vbawd10.chm162005001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Width Property (Word)
+# InlineShape.Width property (Word)
 
 Returns or sets the width, in points, of the specified inline shape. Read/write  **Long** .
 

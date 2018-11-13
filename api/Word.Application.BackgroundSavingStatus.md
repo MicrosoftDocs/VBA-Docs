@@ -1,5 +1,5 @@
 ---
-title: Application.BackgroundSavingStatus Property (Word)
+title: Application.BackgroundSavingStatus property (Word)
 keywords: vbawd10.chm158335061
 f1_keywords:
 - vbawd10.chm158335061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.BackgroundSavingStatus Property (Word)
+# Application.BackgroundSavingStatus property (Word)
 
 Returns the number of files queued up to be saved in the background. Read-only  **Long** .
 

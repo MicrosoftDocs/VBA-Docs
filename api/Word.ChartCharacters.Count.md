@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Count Property (Word)
+title: ChartCharacters.Count property (Word)
 keywords: vbawd10.chm250740854
 f1_keywords:
 - vbawd10.chm250740854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCharacters.Count Property (Word)
+# ChartCharacters.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

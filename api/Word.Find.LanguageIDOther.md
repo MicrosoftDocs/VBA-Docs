@@ -1,5 +1,5 @@
 ---
-title: Find.LanguageIDOther Property (Word)
+title: Find.LanguageIDOther property (Word)
 keywords: vbawd10.chm162529340
 f1_keywords:
 - vbawd10.chm162529340
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.LanguageIDOther Property (Word)
+# Find.LanguageIDOther property (Word)
 
 Returns or sets the language for the specified object. Read/write  **[WdLanguageID](Word.WdLanguageID.md)** .
 

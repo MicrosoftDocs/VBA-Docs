@@ -1,5 +1,5 @@
 ---
-title: Document.Shapes Property (Word)
+title: Document.Shapes property (Word)
 keywords: vbawd10.chm158007358
 f1_keywords:
 - vbawd10.chm158007358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Shapes Property (Word)
+# Document.Shapes property (Word)
 
 Returns a  **[Shapes](Word.shapes.md)** collection that represents all the **Shape** objects in the specified document. Read-only.
 

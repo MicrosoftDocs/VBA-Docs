@@ -1,5 +1,5 @@
 ---
-title: Range.ShapeRange Property (Word)
+title: Range.ShapeRange property (Word)
 keywords: vbawd10.chm157155639
 f1_keywords:
 - vbawd10.chm157155639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ShapeRange Property (Word)
+# Range.ShapeRange property (Word)
 
 Returns a  **[ShapeRange](Word.shapeRange.md)** collection that represents all the **Shape** objects in the specified range. Read-only.
 

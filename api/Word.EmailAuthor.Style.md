@@ -1,5 +1,5 @@
 ---
-title: EmailAuthor.Style Property (Word)
+title: EmailAuthor.Style property (Word)
 keywords: vbawd10.chm165085287
 f1_keywords:
 - vbawd10.chm165085287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailAuthor.Style Property (Word)
+# EmailAuthor.Style property (Word)
 
 Returns a  **Style** object that represents the style associated with the current e-mail author for unsent replies, forwards, or new e-mail messages.
 

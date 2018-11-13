@@ -1,5 +1,5 @@
 ---
-title: FootnoteOptions.LayoutColumns Property (Word)
+title: FootnoteOptions.LayoutColumns property (Word)
 keywords: vbawd10.chm170131560
 f1_keywords:
 - vbawd10.chm170131560
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FootnoteOptions.LayoutColumns Property (Word)
+# FootnoteOptions.LayoutColumns property (Word)
 
 Returns or sets the way footnotes are laid out in columns when the section containing the reference mark has multiple columns. Read-Write  **Long**.
 

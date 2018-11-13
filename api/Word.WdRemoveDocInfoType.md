@@ -1,5 +1,5 @@
 ---
-title: WdRemoveDocInfoType Enumeration (Word)
+title: WdRemoveDocInfoType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRemoveDocInfoType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRemoveDocInfoType Enumeration (Word)
+# WdRemoveDocInfoType enumeration (Word)
 
 Specifies the type of information to remove from a document.
 

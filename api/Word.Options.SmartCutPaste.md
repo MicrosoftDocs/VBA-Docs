@@ -1,5 +1,5 @@
 ---
-title: Options.SmartCutPaste Property (Word)
+title: Options.SmartCutPaste property (Word)
 keywords: vbawd10.chm162988103
 f1_keywords:
 - vbawd10.chm162988103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SmartCutPaste Property (Word)
+# Options.SmartCutPaste property (Word)
 
  **True** if Microsoft Word automatically adjusts the spacing between words and punctuation when cutting and pasting occurs. Read/write **Boolean** .
 

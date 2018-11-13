@@ -1,5 +1,5 @@
 ---
-title: Document.AutoSaveOn Property (Word)
+title: Document.AutoSaveOn property (Word)
 keywords: vbawd10.chm158007920
 f1_keywords:
 - vbawd10.chm158007920
@@ -10,7 +10,7 @@ ms.date: 07/28/2017
 ---
 
 
-# Document.AutoSaveOn Property (Word)
+# Document.AutoSaveOn property (Word)
 
 **True** if the edits in the document are automatically saved. Read/write **Boolean**.
 

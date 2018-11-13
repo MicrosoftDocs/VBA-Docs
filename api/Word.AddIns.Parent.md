@@ -1,5 +1,5 @@
 ---
-title: AddIns.Parent Property (Word)
+title: AddIns.Parent property (Word)
 keywords: vbawd10.chm159319018
 f1_keywords:
 - vbawd10.chm159319018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Parent Property (Word)
+# AddIns.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the **Addins** collection. This is usually an **[Application](Word.Application.md)** object.
 

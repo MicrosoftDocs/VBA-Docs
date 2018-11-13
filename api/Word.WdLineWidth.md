@@ -1,5 +1,5 @@
 ---
-title: WdLineWidth Enumeration (Word)
+title: WdLineWidth enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLineWidth Enumeration (Word)
+# WdLineWidth enumeration (Word)
 
 Specifies the width of an object's border.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Variables Property (Word)
+title: Document.Variables property (Word)
 keywords: vbawd10.chm158007322
 f1_keywords:
 - vbawd10.chm158007322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Variables Property (Word)
+# Document.Variables property (Word)
 
 Returns a  **[Variables](Word.variables.md)** collection that represents the variables stored in the specified document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.ZeroWid Property (Word)
+title: OMathPhantom.ZeroWid property (Word)
 keywords: vbawd10.chm88146025
 f1_keywords:
 - vbawd10.chm88146025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.ZeroWid Property (Word)
+# OMathPhantom.ZeroWid property (Word)
 
 Returns or sets a  **Boolean** that represents whether the width of a phantom object is ignored in the spacing of the layout. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetX Property (Word)
+title: FillFormat.TextureOffsetX property (Word)
 keywords: vbawd10.chm164102259
 f1_keywords:
 - vbawd10.chm164102259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureOffsetX Property (Word)
+# FillFormat.TextureOffsetX property (Word)
 
 Returns or sets a  **Long** that specifies the horizontal offset of the texture from the origin in points. Read/write.
 

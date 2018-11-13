@@ -1,5 +1,5 @@
 ---
-title: Shape.Adjustments Property (Word)
+title: Shape.Adjustments property (Word)
 keywords: vbawd10.chm161480804
 f1_keywords:
 - vbawd10.chm161480804
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Adjustments Property (Word)
+# Shape.Adjustments property (Word)
 
 Returns an  **[Adjustments](Word.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified **Shape** object that represents an AutoShape or WordArt. Read-only.
 

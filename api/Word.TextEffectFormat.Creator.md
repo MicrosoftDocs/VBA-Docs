@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Creator Property (Word)
+title: TextEffectFormat.Creator property (Word)
 keywords: vbawd10.chm164561897
 f1_keywords:
 - vbawd10.chm164561897
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Creator Property (Word)
+# TextEffectFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

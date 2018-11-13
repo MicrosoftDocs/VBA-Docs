@@ -1,5 +1,5 @@
 ---
-title: Application.AddIns Property (Word)
+title: Application.AddIns property (Word)
 keywords: vbawd10.chm158334998
 f1_keywords:
 - vbawd10.chm158334998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddIns Property (Word)
+# Application.AddIns property (Word)
 
 Returns an  **[AddIns](Word.addins.md)** collection that represents all available add-ins, regardless of whether they're currently loaded. Read-only.
 

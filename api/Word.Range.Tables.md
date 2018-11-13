@@ -1,5 +1,5 @@
 ---
-title: Range.Tables Property (Word)
+title: Range.Tables property (Word)
 keywords: vbawd10.chm157155378
 f1_keywords:
 - vbawd10.chm157155378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Tables Property (Word)
+# Range.Tables property (Word)
 
 Returns a  **Tables** collection that represents all the tables in the specified range. Read-only.
 

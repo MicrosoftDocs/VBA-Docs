@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Text Property (Word)
+title: AxisTitle.Text property (Word)
 keywords: vbawd10.chm98238476
 f1_keywords:
 - vbawd10.chm98238476
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Text Property (Word)
+# AxisTitle.Text property (Word)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

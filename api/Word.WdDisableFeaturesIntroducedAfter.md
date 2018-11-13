@@ -1,5 +1,5 @@
 ---
-title: WdDisableFeaturesIntroducedAfter Enumeration (Word)
+title: WdDisableFeaturesIntroducedAfter enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDisableFeaturesIntroducedAfter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDisableFeaturesIntroducedAfter Enumeration (Word)
+# WdDisableFeaturesIntroducedAfter enumeration (Word)
 
 Specifies the version of Microsoft Word for which to disable all features introduced after that version. 
 

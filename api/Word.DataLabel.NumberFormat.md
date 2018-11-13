@@ -1,5 +1,5 @@
 ---
-title: DataLabel.NumberFormat Property (Word)
+title: DataLabel.NumberFormat property (Word)
 keywords: vbawd10.chm233898177
 f1_keywords:
 - vbawd10.chm233898177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.NumberFormat Property (Word)
+# DataLabel.NumberFormat property (Word)
 
 Returns or sets the format code for the object. Read/write  **String** .
 

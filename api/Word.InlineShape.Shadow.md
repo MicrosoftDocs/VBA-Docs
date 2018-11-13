@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Shadow Property (Word)
+title: InlineShape.Shadow property (Word)
 keywords: vbawd10.chm162006093
 f1_keywords:
 - vbawd10.chm162006093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Shadow Property (Word)
+# InlineShape.Shadow property (Word)
 
 Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape. Read-only.
 

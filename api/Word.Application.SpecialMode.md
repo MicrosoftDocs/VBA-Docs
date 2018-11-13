@@ -1,5 +1,5 @@
 ---
-title: Application.SpecialMode Property (Word)
+title: Application.SpecialMode property (Word)
 keywords: vbawd10.chm158335006
 f1_keywords:
 - vbawd10.chm158335006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SpecialMode Property (Word)
+# Application.SpecialMode property (Word)
 
  **True** if Microsoft Word is in a special mode (for example, CopyText mode, or MoveText mode). Read-only **Boolean** .
 

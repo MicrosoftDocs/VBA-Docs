@@ -1,5 +1,5 @@
 ---
-title: Style.NameLocal Property (Word)
+title: Style.NameLocal property (Word)
 keywords: vbawd10.chm153878528
 f1_keywords:
 - vbawd10.chm153878528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.NameLocal Property (Word)
+# Style.NameLocal property (Word)
 
 Returns the name of a built-in style in the language of the user. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMath.ArgIndex Property (Word)
+title: OMath.ArgIndex property (Word)
 keywords: vbawd10.chm176357487
 f1_keywords:
 - vbawd10.chm176357487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ArgIndex Property (Word)
+# OMath.ArgIndex property (Word)
 
 Returns a  **Long** that represents the argument index of this component relative to the containing math object. Read-only.
 

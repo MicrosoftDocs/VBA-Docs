@@ -1,5 +1,5 @@
 ---
-title: Sentences.Count Property (Word)
+title: Sentences.Count property (Word)
 keywords: vbawd10.chm156958722
 f1_keywords:
 - vbawd10.chm156958722
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sentences.Count Property (Word)
+# Sentences.Count property (Word)
 
 Returns a  **Long** that represents the number of sentences in the collection. Read-only.
 

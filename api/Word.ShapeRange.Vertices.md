@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Vertices Property (Word)
+title: ShapeRange.Vertices property (Word)
 keywords: vbawd10.chm162857086
 f1_keywords:
 - vbawd10.chm162857086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Vertices Property (Word)
+# ShapeRange.Vertices property (Word)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. You can use the array returned by this property as an argument for the  **AddCurve** or **AddPolyLine** method. Read-only **Variant** .
 

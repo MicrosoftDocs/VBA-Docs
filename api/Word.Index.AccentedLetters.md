@@ -1,5 +1,5 @@
 ---
-title: Index.AccentedLetters Property (Word)
+title: Index.AccentedLetters property (Word)
 keywords: vbawd10.chm159186951
 f1_keywords:
 - vbawd10.chm159186951
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.AccentedLetters Property (Word)
+# Index.AccentedLetters property (Word)
 
  **True** if the specified index contains separate headings for accented letters (for example, words that begin with "À" are under one heading and words that begin with "A" are under another). Read/write **Boolean** .
 

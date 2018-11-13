@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Parent Property (Word)
+title: Dialogs.Parent property (Word)
 keywords: vbawd10.chm152044522
 f1_keywords:
 - vbawd10.chm152044522
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Parent Property (Word)
+# Dialogs.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Dialogs** object.
 

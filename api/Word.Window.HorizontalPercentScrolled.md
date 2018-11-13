@@ -1,5 +1,5 @@
 ---
-title: Window.HorizontalPercentScrolled Property (Word)
+title: Window.HorizontalPercentScrolled property (Word)
 keywords: vbawd10.chm157417495
 f1_keywords:
 - vbawd10.chm157417495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.HorizontalPercentScrolled Property (Word)
+# Window.HorizontalPercentScrolled property (Word)
 
 Returns or sets the horizontal scroll position as a percentage of the document width. Read/write  **Long** .
 

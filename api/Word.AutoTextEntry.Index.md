@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Index Property (Word)
+title: AutoTextEntry.Index property (Word)
 keywords: vbawd10.chm154533889
 f1_keywords:
 - vbawd10.chm154533889
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Index Property (Word)
+# AutoTextEntry.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

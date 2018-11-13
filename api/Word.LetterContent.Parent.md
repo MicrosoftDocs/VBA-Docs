@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Parent Property (Word)
+title: LetterContent.Parent property (Word)
 keywords: vbawd10.chm161547242
 f1_keywords:
 - vbawd10.chm161547242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Parent Property (Word)
+# LetterContent.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **LetterContent** object.
 

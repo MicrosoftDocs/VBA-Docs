@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.IsFiltered Property (Word)
+title: ChartCategory.IsFiltered property (Word)
 keywords: vbawd10.chm143395655
 f1_keywords:
 - vbawd10.chm143395655
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.IsFiltered Property (Word)
+# ChartCategory.IsFiltered property (Word)
 
 Returns or sets a  **Boolean** that determines whether the specified chart category is filtered out from the chart. Read-write.
 

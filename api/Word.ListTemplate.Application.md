@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Application Property (Word)
+title: ListTemplate.Application property (Word)
 keywords: vbawd10.chm160367592
 f1_keywords:
 - vbawd10.chm160367592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.Application Property (Word)
+# ListTemplate.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

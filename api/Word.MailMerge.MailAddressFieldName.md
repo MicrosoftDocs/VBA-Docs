@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailAddressFieldName Property (Word)
+title: MailMerge.MailAddressFieldName property (Word)
 keywords: vbawd10.chm153092105
 f1_keywords:
 - vbawd10.chm153092105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailAddressFieldName Property (Word)
+# MailMerge.MailAddressFieldName property (Word)
 
 Returns or sets the name of the field that contains e-mail addresses that are used when the mail merge destination is electronic mail. Read/write  **String** .
 

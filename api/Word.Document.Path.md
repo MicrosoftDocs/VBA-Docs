@@ -1,5 +1,5 @@
 ---
-title: Document.Path Property (Word)
+title: Document.Path property (Word)
 keywords: vbawd10.chm158007299
 f1_keywords:
 - vbawd10.chm158007299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Path Property (Word)
+# Document.Path property (Word)
 
 Returns the disk or Web path to the document. Read-only  **String** .
 

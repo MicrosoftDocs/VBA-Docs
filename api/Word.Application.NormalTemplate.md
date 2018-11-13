@@ -1,5 +1,5 @@
 ---
-title: Application.NormalTemplate Property (Word)
+title: Application.NormalTemplate property (Word)
 keywords: vbawd10.chm158334984
 f1_keywords:
 - vbawd10.chm158334984
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NormalTemplate Property (Word)
+# Application.NormalTemplate property (Word)
 
 Returns a  **[Template](Word.Template.md)** object that represents the Normal template.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Chart Property (Word)
+title: Shape.Chart property (Word)
 keywords: vbawd10.chm161480853
 f1_keywords:
 - vbawd10.chm161480853
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Chart Property (Word)
+# Shape.Chart property (Word)
 
 Returns a  **Chart** object that represents a chart within the collection of shapes in a document. Read-only.
 

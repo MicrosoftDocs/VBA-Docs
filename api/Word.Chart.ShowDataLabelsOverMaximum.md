@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowDataLabelsOverMaximum Property (Word)
+title: Chart.ShowDataLabelsOverMaximum property (Word)
 keywords: vbawd10.chm79364183
 f1_keywords:
 - vbawd10.chm79364183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowDataLabelsOverMaximum Property (Word)
+# Chart.ShowDataLabelsOverMaximum property (Word)
 
 Returns or sets a value that indicates whether to show the data labels when the value is greater than the maximum value on the value axis. Read/write  **Boolean** .
 

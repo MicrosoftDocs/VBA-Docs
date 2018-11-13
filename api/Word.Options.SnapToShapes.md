@@ -1,5 +1,5 @@
 ---
-title: Options.SnapToShapes Property (Word)
+title: Options.SnapToShapes property (Word)
 keywords: vbawd10.chm162988112
 f1_keywords:
 - vbawd10.chm162988112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SnapToShapes Property (Word)
+# Options.SnapToShapes property (Word)
 
  **True** if Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters. Read/write **Boolean** .
 

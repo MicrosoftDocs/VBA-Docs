@@ -1,5 +1,5 @@
 ---
-title: Application.Creator Property (Word)
+title: Application.Creator property (Word)
 keywords: vbawd10.chm158335977
 f1_keywords:
 - vbawd10.chm158335977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Creator Property (Word)
+# Application.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

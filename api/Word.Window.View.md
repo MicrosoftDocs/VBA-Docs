@@ -1,5 +1,5 @@
 ---
-title: Window.View Property (Word)
+title: Window.View property (Word)
 keywords: vbawd10.chm157417486
 f1_keywords:
 - vbawd10.chm157417486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.View Property (Word)
+# Window.View property (Word)
 
 Returns a  **[View](Word.View.md)** object that represents the view for the specified window or pane.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.SmartCursoring Property (Word)
+title: Options.SmartCursoring property (Word)
 keywords: vbawd10.chm162988491
 f1_keywords:
 - vbawd10.chm162988491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SmartCursoring Property (Word)
+# Options.SmartCursoring property (Word)
 
 Returns or sets a  **Boolean** that represents whether smart cursoring is enabled. **True** enables smart cursoring.
 

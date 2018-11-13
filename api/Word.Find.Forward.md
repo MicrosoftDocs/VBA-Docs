@@ -1,5 +1,5 @@
 ---
-title: Find.Forward Property (Word)
+title: Find.Forward property (Word)
 keywords: vbawd10.chm162529290
 f1_keywords:
 - vbawd10.chm162529290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Forward Property (Word)
+# Find.Forward property (Word)
 
  **True** if the find operation searches forward through the document. Read/write **Boolean** .
 

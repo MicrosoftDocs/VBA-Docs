@@ -1,5 +1,5 @@
 ---
-title: Selection.Cells Property (Word)
+title: Selection.Cells property (Word)
 keywords: vbawd10.chm158662713
 f1_keywords:
 - vbawd10.chm158662713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Cells Property (Word)
+# Selection.Cells property (Word)
 
 Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a selection. Read-only.
 

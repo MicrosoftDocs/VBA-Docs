@@ -1,5 +1,5 @@
 ---
-title: Column.Borders Property (Word)
+title: Column.Borders property (Word)
 keywords: vbawd10.chm156173388
 f1_keywords:
 - vbawd10.chm156173388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Borders Property (Word)
+# Column.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

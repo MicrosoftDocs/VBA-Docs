@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Crop Property (Word)
+title: PictureFormat.Crop property (Word)
 keywords: vbawd10.chm164298861
 f1_keywords:
 - vbawd10.chm164298861
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Crop Property (Word)
+# PictureFormat.Crop property (Word)
 
 Returns or sets a [Crop](./Office.Crop.md) object that represents an image cropping. Read/write.
 

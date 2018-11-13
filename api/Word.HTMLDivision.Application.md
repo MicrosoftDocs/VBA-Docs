@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.Application Property (Word)
+title: HTMLDivision.Application property (Word)
 keywords: vbawd10.chm166134760
 f1_keywords:
 - vbawd10.chm166134760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.Application Property (Word)
+# HTMLDivision.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

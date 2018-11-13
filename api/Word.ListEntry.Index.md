@@ -1,5 +1,5 @@
 ---
-title: ListEntry.Index Property (Word)
+title: ListEntry.Index property (Word)
 keywords: vbawd10.chm153288705
 f1_keywords:
 - vbawd10.chm153288705
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntry.Index Property (Word)
+# ListEntry.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

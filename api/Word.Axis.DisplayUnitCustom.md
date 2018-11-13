@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitCustom Property (Word)
+title: Axis.DisplayUnitCustom property (Word)
 keywords: vbawd10.chm113049673
 f1_keywords:
 - vbawd10.chm113049673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnitCustom Property (Word)
+# Axis.DisplayUnitCustom property (Word)
 
 If the value of the  **[DisplayUnit](Word.Axis.DisplayUnit.md)** property is **xlCustom** , returns or sets the value of the displayed units. Read/write **Double** .
 

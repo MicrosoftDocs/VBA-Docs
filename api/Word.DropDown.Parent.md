@@ -1,5 +1,5 @@
 ---
-title: DropDown.Parent Property (Word)
+title: DropDown.Parent property (Word)
 keywords: vbawd10.chm153420778
 f1_keywords:
 - vbawd10.chm153420778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Parent Property (Word)
+# DropDown.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **DropDown** object.
 

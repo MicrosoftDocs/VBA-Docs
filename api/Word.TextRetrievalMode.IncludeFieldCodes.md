@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.IncludeFieldCodes Property (Word)
+title: TextRetrievalMode.IncludeFieldCodes property (Word)
 keywords: vbawd10.chm154730499
 f1_keywords:
 - vbawd10.chm154730499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.IncludeFieldCodes Property (Word)
+# TextRetrievalMode.IncludeFieldCodes property (Word)
 
  **True** if the text retrieved from the specified range includes field codes. Read/write **Boolean** .
 

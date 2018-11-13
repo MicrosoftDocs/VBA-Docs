@@ -1,5 +1,5 @@
 ---
-title: Window.Panes Property (Word)
+title: Window.Panes property (Word)
 keywords: vbawd10.chm157417475
 f1_keywords:
 - vbawd10.chm157417475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Panes Property (Word)
+# Window.Panes property (Word)
 
 Returns a  **[Panes](Word.panes.md)** collection that represents all the window panes for the specified window.
 

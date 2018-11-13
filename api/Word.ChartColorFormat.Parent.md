@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat.Parent Property (Word)
+title: ChartColorFormat.Parent property (Word)
 keywords: vbawd10.chm12058774
 f1_keywords:
 - vbawd10.chm12058774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartColorFormat.Parent Property (Word)
+# ChartColorFormat.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

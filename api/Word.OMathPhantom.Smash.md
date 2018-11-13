@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.Smash Property (Word)
+title: OMathPhantom.Smash property (Word)
 keywords: vbawd10.chm88146029
 f1_keywords:
 - vbawd10.chm88146029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.Smash Property (Word)
+# OMathPhantom.Smash property (Word)
 
 Returns or sets a  **Boolean** that represents that the contents of the phantom are visible but that the height is not taken into account in the spacing of the layout. Read/write.
 

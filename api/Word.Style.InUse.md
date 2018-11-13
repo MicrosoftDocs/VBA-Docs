@@ -1,5 +1,5 @@
 ---
-title: Style.InUse Property (Word)
+title: Style.InUse property (Word)
 keywords: vbawd10.chm153878534
 f1_keywords:
 - vbawd10.chm153878534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.InUse Property (Word)
+# Style.InUse property (Word)
 
  **True** if the specified style is a built-in style that has been modified or applied in the document or a new style that has been created in the document. Read-only **Boolean** .
 

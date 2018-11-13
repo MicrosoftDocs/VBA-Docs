@@ -1,5 +1,5 @@
 ---
-title: Category.BuildingBlocks Property (Word)
+title: Category.BuildingBlocks property (Word)
 keywords: vbawd10.chm190709763
 f1_keywords:
 - vbawd10.chm190709763
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category.BuildingBlocks Property (Word)
+# Category.BuildingBlocks property (Word)
 
 Returns a  **[BuildingBlocks](Word.BuildingBlocks.md)** collection that represents the building blocks for a category. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.BibliographySort Property (Word)
+title: Options.BibliographySort property (Word)
 keywords: vbawd10.chm162988495
 f1_keywords:
 - vbawd10.chm162988495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.BibliographySort Property (Word)
+# Options.BibliographySort property (Word)
 
 Returns or sets a  **String** that represents the order in which to display sources in the **Source Manager** dialog box. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: View.SplitSpecial Property (Word)
+title: View.SplitSpecial property (Word)
 keywords: vbawd10.chm161808413
 f1_keywords:
 - vbawd10.chm161808413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.SplitSpecial Property (Word)
+# View.SplitSpecial property (Word)
 
 Returns or sets the active window pane. Read/write  **WdSpecialPane** .
 

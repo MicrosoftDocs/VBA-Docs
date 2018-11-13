@@ -1,5 +1,5 @@
 ---
-title: Bookmark.StoryType Property (Word)
+title: Bookmark.StoryType property (Word)
 keywords: vbawd10.chm157810694
 f1_keywords:
 - vbawd10.chm157810694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.StoryType Property (Word)
+# Bookmark.StoryType property (Word)
 
 Returns the story type for the specified range, selection, or bookmark. Read-only  **WdStoryType** .
 

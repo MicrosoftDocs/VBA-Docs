@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Caption Property (Word)
+title: ChartTitle.Caption property (Word)
 keywords: vbawd10.chm65273856
 f1_keywords:
 - vbawd10.chm65273856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Caption Property (Word)
+# ChartTitle.Caption property (Word)
 
 Returns or sets the chart title text. Read/write  **String** .
 

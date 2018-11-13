@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException.Application Property (Word)
+title: OtherCorrectionsException.Application property (Word)
 keywords: vbawd10.chm165741544
 f1_keywords:
 - vbawd10.chm165741544
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsException.Application Property (Word)
+# OtherCorrectionsException.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

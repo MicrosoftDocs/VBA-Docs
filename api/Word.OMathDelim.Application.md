@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.Application Property (Word)
+title: OMathDelim.Application property (Word)
 keywords: vbawd10.chm145096804
 f1_keywords:
 - vbawd10.chm145096804
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.Application Property (Word)
+# OMathDelim.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

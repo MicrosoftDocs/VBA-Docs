@@ -1,5 +1,5 @@
 ---
-title: LetterContent.ReturnAddress Property (Word)
+title: LetterContent.ReturnAddress property (Word)
 keywords: vbawd10.chm161546359
 f1_keywords:
 - vbawd10.chm161546359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.ReturnAddress Property (Word)
+# LetterContent.ReturnAddress property (Word)
 
 Returns or sets the return address for a letter created with the Letter Wizard. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Location Property (Word)
+title: Footnotes.Location property (Word)
 keywords: vbawd10.chm155320420
 f1_keywords:
 - vbawd10.chm155320420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Location Property (Word)
+# Footnotes.Location property (Word)
 
 Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation** .
 

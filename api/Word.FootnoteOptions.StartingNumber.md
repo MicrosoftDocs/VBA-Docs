@@ -1,5 +1,5 @@
 ---
-title: FootnoteOptions.StartingNumber Property (Word)
+title: FootnoteOptions.StartingNumber property (Word)
 keywords: vbawd10.chm170131558
 f1_keywords:
 - vbawd10.chm170131558
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FootnoteOptions.StartingNumber Property (Word)
+# FootnoteOptions.StartingNumber property (Word)
 
 Returns or sets the starting footnote number. Read/write  **Long** .
 

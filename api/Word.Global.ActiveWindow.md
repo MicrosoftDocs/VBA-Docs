@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveWindow Property (Word)
+title: Global.ActiveWindow property (Word)
 keywords: vbawd10.chm163119108
 f1_keywords:
 - vbawd10.chm163119108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ActiveWindow Property (Word)
+# Global.ActiveWindow property (Word)
 
 Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). Read-only.
 

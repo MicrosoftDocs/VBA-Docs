@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.TintAndShade Property (Word)
+title: ColorFormat.TintAndShade property (Word)
 keywords: vbawd10.chm163971175
 f1_keywords:
 - vbawd10.chm163971175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.TintAndShade Property (Word)
+# ColorFormat.TintAndShade property (Word)
 
 Returns a  **Single** that represents the lightening or darkening of a specified shape's color. Read/write.
 

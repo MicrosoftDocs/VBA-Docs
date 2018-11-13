@@ -1,5 +1,5 @@
 ---
-title: Document.GridOriginFromMargin Property (Word)
+title: Document.GridOriginFromMargin property (Word)
 keywords: vbawd10.chm158007604
 f1_keywords:
 - vbawd10.chm158007604
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GridOriginFromMargin Property (Word)
+# Document.GridOriginFromMargin property (Word)
 
  **True** if Microsoft Word starts the character grid from the upper-left corner of the page. Read/write **Boolean** .
 

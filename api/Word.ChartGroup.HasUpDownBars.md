@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasUpDownBars Property (Word)
+title: ChartGroup.HasUpDownBars property (Word)
 keywords: vbawd10.chm263454738
 f1_keywords:
 - vbawd10.chm263454738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasUpDownBars Property (Word)
+# ChartGroup.HasUpDownBars property (Word)
 
  **True** if a line chart has up and down bars. Read/write **Boolean** .
 

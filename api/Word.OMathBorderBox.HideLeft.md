@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.HideLeft Property (Word)
+title: OMathBorderBox.HideLeft property (Word)
 keywords: vbawd10.chm116260970
 f1_keywords:
 - vbawd10.chm116260970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.HideLeft Property (Word)
+# OMathBorderBox.HideLeft property (Word)
 
 Returns or sets a  **Boolean** that represents whether to hide the left border of an equation's bounding box. Read/write.
 

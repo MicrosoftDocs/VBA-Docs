@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.E Property (Word)
+title: OMathBorderBox.E property (Word)
 keywords: vbawd10.chm116260967
 f1_keywords:
 - vbawd10.chm116260967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.E Property (Word)
+# OMathBorderBox.E property (Word)
 
 Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
 

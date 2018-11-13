@@ -1,5 +1,5 @@
 ---
-title: TextInput.Type Property (Word)
+title: TextInput.Type property (Word)
 keywords: vbawd10.chm153550850
 f1_keywords:
 - vbawd10.chm153550850
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Type Property (Word)
+# TextInput.Type property (Word)
 
 Returns the type of text form field. Read-only  **[WdTextFormFieldType](Word.WdTextFormFieldType.md)** .
 

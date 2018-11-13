@@ -1,5 +1,5 @@
 ---
-title: WdMappedDataFields Enumeration (Word)
+title: WdMappedDataFields enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMappedDataFields
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMappedDataFields Enumeration (Word)
+# WdMappedDataFields enumeration (Word)
 
 Specifies a type of mapped data field.
 

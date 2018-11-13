@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.NumberStyle Property (Word)
+title: CaptionLabel.NumberStyle property (Word)
 keywords: vbawd10.chm158924804
 f1_keywords:
 - vbawd10.chm158924804
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.NumberStyle Property (Word)
+# CaptionLabel.NumberStyle property (Word)
 
 Returns or sets the number style for the  **CaptionLabel** object. Read/write **WdCaptionNumberStyle** .
 

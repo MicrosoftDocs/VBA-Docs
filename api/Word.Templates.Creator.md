@@ -1,5 +1,5 @@
 ---
-title: Templates.Creator Property (Word)
+title: Templates.Creator property (Word)
 keywords: vbawd10.chm161612777
 f1_keywords:
 - vbawd10.chm161612777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Templates.Creator Property (Word)
+# Templates.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

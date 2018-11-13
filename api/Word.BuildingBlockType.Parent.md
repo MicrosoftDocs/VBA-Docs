@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType.Parent Property (Word)
+title: BuildingBlockType.Parent property (Word)
 keywords: vbawd10.chm167379946
 f1_keywords:
 - vbawd10.chm167379946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockType.Parent Property (Word)
+# BuildingBlockType.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **BuildingBlockType** object.
 

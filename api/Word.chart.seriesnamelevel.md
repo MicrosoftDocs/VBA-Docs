@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesNameLevel Property (Word)
+title: Chart.SeriesNameLevel property (Word)
 keywords: vbawd10.chm79364334
 f1_keywords:
 - vbawd10.chm79364334
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SeriesNameLevel Property (Word)
+# Chart.SeriesNameLevel property (Word)
 
 Returns or sets an [XlSeriesNameLevel](Word.xlseriesnamelevel.md) constant that specifies the source level of the series names. Read-write.
 

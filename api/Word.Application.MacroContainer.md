@@ -1,5 +1,5 @@
 ---
-title: Application.MacroContainer Property (Word)
+title: Application.MacroContainer property (Word)
 keywords: vbawd10.chm158335031
 f1_keywords:
 - vbawd10.chm158335031
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MacroContainer Property (Word)
+# Application.MacroContainer property (Word)
 
 Returns a  **[Template](Word.Template.md)** or **[Document](Word.Document.md)** object that represents the template or document in which the module that contains the running procedure is stored.
 

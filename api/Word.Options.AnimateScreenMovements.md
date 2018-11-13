@@ -1,5 +1,5 @@
 ---
-title: Options.AnimateScreenMovements Property (Word)
+title: Options.AnimateScreenMovements property (Word)
 keywords: vbawd10.chm162988106
 f1_keywords:
 - vbawd10.chm162988106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AnimateScreenMovements Property (Word)
+# Options.AnimateScreenMovements property (Word)
 
  **True** if Word animates mouse movements, uses animated cursors, and animates actions such as background saving and find and replace operations. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: View.ReadingLayout Property (Word)
+title: View.ReadingLayout property (Word)
 keywords: vbawd10.chm161808429
 f1_keywords:
 - vbawd10.chm161808429
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ReadingLayout Property (Word)
+# View.ReadingLayout property (Word)
 
 Sets or returns a  **Boolean** that represents whether a document is being viewed in reading layout view. .
 

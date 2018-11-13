@@ -1,5 +1,5 @@
 ---
-title: OMathLimLow.Lim Property (Word)
+title: OMathLimLow.Lim property (Word)
 keywords: vbawd10.chm91619432
 f1_keywords:
 - vbawd10.chm91619432
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimLow.Lim Property (Word)
+# OMathLimLow.Lim property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the lower limit object. Read-only.
 

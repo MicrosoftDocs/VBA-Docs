@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Parent Property (Word)
+title: BuildingBlocks.Parent property (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks.Parent Property (Word)
+# BuildingBlocks.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **BuildingBlocks** object.
 

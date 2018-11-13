@@ -1,5 +1,5 @@
 ---
-title: WdArrangeStyle Enumeration (Word)
+title: WdArrangeStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdArrangeStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdArrangeStyle Enumeration (Word)
+# WdArrangeStyle enumeration (Word)
 
 Specifies the window arrangement.
 

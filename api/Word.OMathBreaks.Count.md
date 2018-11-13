@@ -1,5 +1,5 @@
 ---
-title: OMathBreaks.Count Property (Word)
+title: OMathBreaks.Count property (Word)
 keywords: vbawd10.chm61276264
 f1_keywords:
 - vbawd10.chm61276264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreaks.Count Property (Word)
+# OMathBreaks.Count property (Word)
 
 Returns the number of items in the  **OMathBreaks** collection. Read-only **Long** .
 

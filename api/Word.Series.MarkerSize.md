@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerSize Property (Word)
+title: Series.MarkerSize property (Word)
 keywords: vbawd10.chm123732199
 f1_keywords:
 - vbawd10.chm123732199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerSize Property (Word)
+# Series.MarkerSize property (Word)
 
 Returns or sets the data-marker size, in points. Read/write  **Long** .
 

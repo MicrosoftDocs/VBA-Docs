@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.HideTop Property (Word)
+title: OMathBorderBox.HideTop property (Word)
 keywords: vbawd10.chm116260968
 f1_keywords:
 - vbawd10.chm116260968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.HideTop Property (Word)
+# OMathBorderBox.HideTop property (Word)
 
 Returns or sets a  **Boolean** that represents whether to hide the top border of an equation's bounding box. Read/write.
 

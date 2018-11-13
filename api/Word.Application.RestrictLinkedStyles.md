@@ -1,5 +1,5 @@
 ---
-title: Application.RestrictLinkedStyles Property (Word)
+title: Application.RestrictLinkedStyles property (Word)
 keywords: vbawd10.chm158335450
 f1_keywords:
 - vbawd10.chm158335450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RestrictLinkedStyles Property (Word)
+# Application.RestrictLinkedStyles property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word allows linked styles. Read/write.
 

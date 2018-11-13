@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Creator Property (Word)
+title: GroupShapes.Creator property (Word)
 keywords: vbawd10.chm162930497
 f1_keywords:
 - vbawd10.chm162930497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Creator Property (Word)
+# GroupShapes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

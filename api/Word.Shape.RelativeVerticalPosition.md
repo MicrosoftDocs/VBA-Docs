@@ -1,5 +1,5 @@
 ---
-title: Shape.RelativeVerticalPosition Property (Word)
+title: Shape.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm161481005
 f1_keywords:
 - vbawd10.chm161481005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.RelativeVerticalPosition Property (Word)
+# Shape.RelativeVerticalPosition property (Word)
 
 Specifies the relative vertical position of a shape. Read/write  **WdRelativeVerticalPosition** .
 

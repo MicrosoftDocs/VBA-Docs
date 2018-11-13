@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Parent Property (Word)
+title: Subdocuments.Parent property (Word)
 keywords: vbawd10.chm159908842
 f1_keywords:
 - vbawd10.chm159908842
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Parent Property (Word)
+# Subdocuments.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Subdocuments** object.
 

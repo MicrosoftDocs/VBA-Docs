@@ -1,5 +1,5 @@
 ---
-title: OMathGroupChar.Parent Property (Word)
+title: OMathGroupChar.Parent property (Word)
 keywords: vbawd10.chm213123174
 f1_keywords:
 - vbawd10.chm213123174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathGroupChar.Parent Property (Word)
+# OMathGroupChar.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathGroupChar** object.
 

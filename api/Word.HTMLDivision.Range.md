@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.Range Property (Word)
+title: HTMLDivision.Range property (Word)
 keywords: vbawd10.chm166133761
 f1_keywords:
 - vbawd10.chm166133761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.Range Property (Word)
+# HTMLDivision.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that's contained in the specified object.
 

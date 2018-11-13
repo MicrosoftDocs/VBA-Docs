@@ -1,5 +1,5 @@
 ---
-title: Range.Subdocuments Property (Word)
+title: Range.Subdocuments property (Word)
 keywords: vbawd10.chm157155487
 f1_keywords:
 - vbawd10.chm157155487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Subdocuments Property (Word)
+# Range.Subdocuments property (Word)
 
 Returns a  **Subdocuments** collection that represents all the subdocuments in the specified range or document. Read-only.
 

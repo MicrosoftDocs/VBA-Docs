@@ -1,5 +1,5 @@
 ---
-title: Legend.Parent Property (Word)
+title: Legend.Parent property (Word)
 keywords: vbawd10.chm147194006
 f1_keywords:
 - vbawd10.chm147194006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Parent Property (Word)
+# Legend.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

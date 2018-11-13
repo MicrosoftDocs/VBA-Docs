@@ -1,5 +1,5 @@
 ---
-title: WdPrintOutPages Enumeration (Word)
+title: WdPrintOutPages enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPrintOutPages
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPrintOutPages Enumeration (Word)
+# WdPrintOutPages enumeration (Word)
 
 Specifies the type of pages to print.
 

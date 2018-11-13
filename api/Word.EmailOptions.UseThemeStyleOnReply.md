@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.UseThemeStyleOnReply Property (Word)
+title: EmailOptions.UseThemeStyleOnReply property (Word)
 keywords: vbawd10.chm165347446
 f1_keywords:
 - vbawd10.chm165347446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.UseThemeStyleOnReply Property (Word)
+# EmailOptions.UseThemeStyleOnReply property (Word)
 
  **True** for Microsoft Word to use a theme when replying to e-mail. Read/write **Boolean** .
 

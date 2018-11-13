@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Level Property (Word)
+title: Subdocument.Level property (Word)
 keywords: vbawd10.chm159973382
 f1_keywords:
 - vbawd10.chm159973382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Level Property (Word)
+# Subdocument.Level property (Word)
 
 Returns the heading level used to create the subdocument. Read-only  **Long** .
 

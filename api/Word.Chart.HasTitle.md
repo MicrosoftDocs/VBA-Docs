@@ -1,5 +1,5 @@
 ---
-title: Chart.HasTitle Property (Word)
+title: Chart.HasTitle property (Word)
 keywords: vbawd10.chm79364097
 f1_keywords:
 - vbawd10.chm79364097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasTitle Property (Word)
+# Chart.HasTitle property (Word)
 
  **True** if the axis or chart has a visible title. Read/write **Boolean** .
 

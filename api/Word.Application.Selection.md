@@ -1,5 +1,5 @@
 ---
-title: Application.Selection Property (Word)
+title: Application.Selection property (Word)
 keywords: vbawd10.chm158334981
 f1_keywords:
 - vbawd10.chm158334981
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Selection Property (Word)
+# Application.Selection property (Word)
 
 Returns the  **[Selection](Word.Selection.md)** object that represents a selected range or the insertion point. Read-only.
 

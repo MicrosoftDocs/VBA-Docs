@@ -1,5 +1,5 @@
 ---
-title: Trendline.InterceptIsAuto Property (Word)
+title: Trendline.InterceptIsAuto property (Word)
 keywords: vbawd10.chm26345659
 f1_keywords:
 - vbawd10.chm26345659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.InterceptIsAuto Property (Word)
+# Trendline.InterceptIsAuto property (Word)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean** .
 

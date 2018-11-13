@@ -1,5 +1,5 @@
 ---
-title: Document.FormsDesign Property (Word)
+title: Document.FormsDesign property (Word)
 keywords: vbawd10.chm158007396
 f1_keywords:
 - vbawd10.chm158007396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormsDesign Property (Word)
+# Document.FormsDesign property (Word)
 
  **True** if the specified document is in form design mode. Read-only **Boolean** .
 

@@ -1,12 +1,12 @@
 ---
-title: xlTimeUnit Enumeration (Word)
+title: xlTimeUnit enumeration (Word)
 ms.prod: word
 ms.assetid: 5777d780-5995-56b7-d820-0b61f0161b53
 ms.date: 06/08/2017
 ---
 
 
-# xlTimeUnit Enumeration (Word)
+# xlTimeUnit enumeration (Word)
 
 Specifies the unit of time for chart axes and data series.
 

@@ -1,5 +1,5 @@
 ---
-title: UpBars.Border Property (Word)
+title: UpBars.Border property (Word)
 keywords: vbawd10.chm180945024
 f1_keywords:
 - vbawd10.chm180945024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Border Property (Word)
+# UpBars.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

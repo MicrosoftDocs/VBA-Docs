@@ -1,5 +1,5 @@
 ---
-title: LineFormat.DashStyle Property (Word)
+title: LineFormat.DashStyle property (Word)
 keywords: vbawd10.chm164233320
 f1_keywords:
 - vbawd10.chm164233320
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.DashStyle Property (Word)
+# LineFormat.DashStyle property (Word)
 
 Returns or sets the dash style for the specified line. Read/write  **MsoLineDashStyle** .
 

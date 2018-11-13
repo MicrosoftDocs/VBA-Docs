@@ -1,5 +1,5 @@
 ---
-title: PageSetup.GutterPos Property (Word)
+title: PageSetup.GutterPos property (Word)
 keywords: vbawd10.chm158401734
 f1_keywords:
 - vbawd10.chm158401734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.GutterPos Property (Word)
+# PageSetup.GutterPos property (Word)
 
 Returns or sets on which side the gutter appears in a document. Read/write  **WdGutterStyle** .
 

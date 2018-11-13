@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.Application Property (Word)
+title: TextRetrievalMode.Application property (Word)
 keywords: vbawd10.chm154731496
 f1_keywords:
 - vbawd10.chm154731496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.Application Property (Word)
+# TextRetrievalMode.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

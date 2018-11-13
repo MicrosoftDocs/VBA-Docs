@@ -1,5 +1,5 @@
 ---
-title: Border.Inside Property (Word)
+title: Border.Inside property (Word)
 keywords: vbawd10.chm154861570
 f1_keywords:
 - vbawd10.chm154861570
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.Inside Property (Word)
+# Border.Inside property (Word)
 
  **True** if an inside border can be applied to the specified object. Read-only **Boolean** .
 

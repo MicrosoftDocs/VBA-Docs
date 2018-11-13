@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Parent Property (Word)
+title: ShapeNodes.Parent property (Word)
 keywords: vbawd10.chm164495361
 f1_keywords:
 - vbawd10.chm164495361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Parent Property (Word)
+# ShapeNodes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ShapeNodes** object.
 

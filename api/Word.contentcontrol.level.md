@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Level Property (Word)
+title: ContentControl.Level property (Word)
 keywords: vbawd10.chm266534945
 f1_keywords:
 - vbawd10.chm266534945
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Level Property (Word)
+# ContentControl.Level property (Word)
 
 Returns the level of the content control—whether the content control surrounds text, paragraphs, table cells, or table rows; or if it is inline. Read-only [WdContentControlLevel](Word.wdcontentcontrollevel.md).
 

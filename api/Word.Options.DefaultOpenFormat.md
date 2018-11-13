@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultOpenFormat Property (Word)
+title: Options.DefaultOpenFormat property (Word)
 keywords: vbawd10.chm162988318
 f1_keywords:
 - vbawd10.chm162988318
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultOpenFormat Property (Word)
+# Options.DefaultOpenFormat property (Word)
 
 Returns or sets the default file converter used to open documents. Can be a number returned by the  **OpenFormat** property, or one of the following **WdOpenFormat** constants.
 

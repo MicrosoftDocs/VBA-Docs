@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Creator Property (Word)
+title: CustomProperties.Creator property (Word)
 keywords: vbawd10.chm232850409
 f1_keywords:
 - vbawd10.chm232850409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Creator Property (Word)
+# CustomProperties.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

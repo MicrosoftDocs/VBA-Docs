@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Valid Property (Word)
+title: CustomLabel.Valid property (Word)
 keywords: vbawd10.chm152371213
 f1_keywords:
 - vbawd10.chm152371213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Valid Property (Word)
+# CustomLabel.Valid property (Word)
 
  **True** if the various properties (for example, **Height** , **Width** , and **NumberDown**) for the specified custom label work together to produce a valid mailing label. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdIndexFilter Enumeration (Word)
+title: WdIndexFilter enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIndexFilter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdIndexFilter Enumeration (Word)
+# WdIndexFilter enumeration (Word)
 
 Specifies how Microsoft Word classifies the first character of entries in the specified index.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToEnd Property (Word)
+title: Point.ApplyPictToEnd property (Word)
 keywords: vbawd10.chm262145661
 f1_keywords:
 - vbawd10.chm262145661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyPictToEnd Property (Word)
+# Point.ApplyPictToEnd property (Word)
 
  **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean** .
 

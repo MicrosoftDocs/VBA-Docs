@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[Chart.HasLegend Property (Word)](http://msdn.microsoft.com/library/057fedc3-4f23-9c28-3196-836523d83656%28Office.15%29.aspx)
+[Chart.HasLegend property (Word)](http://msdn.microsoft.com/library/057fedc3-4f23-9c28-3196-836523d83656%28Office.15%29.aspx)
 
 [Chart.Axes Method (Word)](http://msdn.microsoft.com/library/37f422b5-31f2-92ce-c04e-a837b0a3d407%28Office.15%29.aspx)
 

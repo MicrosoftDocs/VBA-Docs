@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowReportFilterFieldButtons Property (Word)
+title: Chart.ShowReportFilterFieldButtons property (Word)
 keywords: vbawd10.chm79366940
 f1_keywords:
 - vbawd10.chm79366940
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowReportFilterFieldButtons Property (Word)
+# Chart.ShowReportFilterFieldButtons property (Word)
 
 Returns or sets whether to display the report filter field buttons on a PivotChart. Read/write. Deprecated.
 

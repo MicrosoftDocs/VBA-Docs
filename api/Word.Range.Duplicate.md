@@ -1,5 +1,5 @@
 ---
-title: Range.Duplicate Property (Word)
+title: Range.Duplicate property (Word)
 keywords: vbawd10.chm157155334
 f1_keywords:
 - vbawd10.chm157155334
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Duplicate Property (Word)
+# Range.Duplicate property (Word)
 
 Returns a read-only  **Range** object that represents all the properties of the specified range.
 

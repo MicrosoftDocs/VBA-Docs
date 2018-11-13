@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Height Property (Word)
+title: ShapeRange.Height property (Word)
 keywords: vbawd10.chm162857069
 f1_keywords:
 - vbawd10.chm162857069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Height Property (Word)
+# ShapeRange.Height property (Word)
 
 Returns or sets the height of the specified shape range. Read/write  **Single** .
 

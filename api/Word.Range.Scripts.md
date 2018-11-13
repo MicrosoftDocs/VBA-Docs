@@ -1,5 +1,5 @@
 ---
-title: Range.Scripts Property (Word)
+title: Range.Scripts property (Word)
 keywords: vbawd10.chm157155653
 f1_keywords:
 - vbawd10.chm157155653
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Scripts Property (Word)
+# Range.Scripts property (Word)
 
 Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
 

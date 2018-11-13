@@ -1,5 +1,5 @@
 ---
-title: WdRelativeHorizontalSize Enumeration (Word)
+title: WdRelativeHorizontalSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRelativeHorizontalSize Enumeration (Word)
+# WdRelativeHorizontalSize enumeration (Word)
 
 Specifies the relative width of a shape using the value specified in the  **WidthRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object.
 

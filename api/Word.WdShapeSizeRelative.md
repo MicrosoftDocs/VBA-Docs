@@ -1,5 +1,5 @@
 ---
-title: WdShapeSizeRelative Enumeration (Word)
+title: WdShapeSizeRelative enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdShapeSizeRelative
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdShapeSizeRelative Enumeration (Word)
+# WdShapeSizeRelative enumeration (Word)
 
 Specifies whether the  **WidthRelative** or **HeightRelative** property for a **[Shape](Word.Shape.md)** or **[ShapeRange](Word.shaperange.md)** object is valid.
 

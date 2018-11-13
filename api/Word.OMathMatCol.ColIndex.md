@@ -1,5 +1,5 @@
 ---
-title: OMathMatCol.ColIndex Property (Word)
+title: OMathMatCol.ColIndex property (Word)
 keywords: vbawd10.chm24445032
 f1_keywords:
 - vbawd10.chm24445032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCol.ColIndex Property (Word)
+# OMathMatCol.ColIndex property (Word)
 
 Returns a  **Long** that represents the ordinal position of a column within the collection of columns in a matrix. Read-only.
 

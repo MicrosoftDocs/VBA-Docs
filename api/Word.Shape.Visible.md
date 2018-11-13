@@ -1,5 +1,5 @@
 ---
-title: Shape.Visible Property (Word)
+title: Shape.Visible property (Word)
 keywords: vbawd10.chm161480831
 f1_keywords:
 - vbawd10.chm161480831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Visible Property (Word)
+# Shape.Visible property (Word)
 
  **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState** .
 

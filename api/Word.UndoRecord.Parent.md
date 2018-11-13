@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.Parent Property (Word)
+title: UndoRecord.Parent property (Word)
 keywords: vbawd10.chm56099818
 f1_keywords:
 - vbawd10.chm56099818
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.Parent Property (Word)
+# UndoRecord.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified[UndoRecord](Word.UndoRecord.md) object.
 

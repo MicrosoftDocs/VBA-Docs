@@ -1,5 +1,5 @@
 ---
-title: Shape.Hyperlink Property (Word)
+title: Shape.Hyperlink property (Word)
 keywords: vbawd10.chm161481705
 f1_keywords:
 - vbawd10.chm161481705
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Hyperlink Property (Word)
+# Shape.Hyperlink property (Word)
 
 Returns a  **Hyperlink** object that represents the hyperlink associated with a **Shape** object. Read-only.
 

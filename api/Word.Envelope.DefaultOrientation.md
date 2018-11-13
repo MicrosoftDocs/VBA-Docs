@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultOrientation Property (Word)
+title: Envelope.DefaultOrientation property (Word)
 keywords: vbawd10.chm152567827
 f1_keywords:
 - vbawd10.chm152567827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultOrientation Property (Word)
+# Envelope.DefaultOrientation property (Word)
 
 Returns or sets the default orientation for feeding envelopes. Read/write  **WdEnvelopeOrientation** .
 

@@ -1,5 +1,5 @@
 ---
-title: Document.MailMerge Property (Word)
+title: Document.MailMerge property (Word)
 keywords: vbawd10.chm158007323
 f1_keywords:
 - vbawd10.chm158007323
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.MailMerge Property (Word)
+# Document.MailMerge property (Word)
 
 Returns a  **[MailMerge](Word.MailMerge.md)** object that represents the mail merge functionality for the specified document. Read-only.
 

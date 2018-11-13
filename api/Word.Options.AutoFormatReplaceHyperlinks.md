@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceHyperlinks Property (Word)
+title: Options.AutoFormatReplaceHyperlinks property (Word)
 keywords: vbawd10.chm162988305
 f1_keywords:
 - vbawd10.chm162988305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatReplaceHyperlinks Property (Word)
+# Options.AutoFormatReplaceHyperlinks property (Word)
 
  **True** if e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean** .
 

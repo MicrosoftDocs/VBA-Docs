@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl.Parent Property (Word)
+title: RepeatingSectionItemColl.Parent property (Word)
 keywords: vbawd10.chm171115498
 f1_keywords:
 - vbawd10.chm171115498
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl.Parent Property (Word)
+# RepeatingSectionItemColl.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **RepeatingSectionItemColl** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Global.Documents Property (Word)
+title: Global.Documents property (Word)
 keywords: vbawd10.chm163119105
 f1_keywords:
 - vbawd10.chm163119105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Documents Property (Word)
+# Global.Documents property (Word)
 
 Returns a  **[Documents](Word.documents.md)** collection that represents all the open documents. Read-only.
 

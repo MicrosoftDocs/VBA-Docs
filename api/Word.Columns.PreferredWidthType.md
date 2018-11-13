@@ -1,5 +1,5 @@
 ---
-title: Columns.PreferredWidthType Property (Word)
+title: Columns.PreferredWidthType property (Word)
 keywords: vbawd10.chm155910250
 f1_keywords:
 - vbawd10.chm155910250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.PreferredWidthType Property (Word)
+# Columns.PreferredWidthType property (Word)
 
 Returns or sets the preferred unit of measurement to use for the width of the specified cells, columns, or table. Read/write  **WdPreferredWidthType** .
 

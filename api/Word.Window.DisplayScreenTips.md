@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayScreenTips Property (Word)
+title: Window.DisplayScreenTips property (Word)
 keywords: vbawd10.chm157417494
 f1_keywords:
 - vbawd10.chm157417494
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayScreenTips Property (Word)
+# Window.DisplayScreenTips property (Word)
 
  **True** if comments, footnotes, endnotes, and hyperlinks are displayed as tips. Read/write **Boolean** .
 

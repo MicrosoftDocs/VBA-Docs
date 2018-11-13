@@ -1,5 +1,5 @@
 ---
-title: Rows.Application Property (Word)
+title: Rows.Application property (Word)
 keywords: vbawd10.chm155976680
 f1_keywords:
 - vbawd10.chm155976680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Application Property (Word)
+# Rows.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

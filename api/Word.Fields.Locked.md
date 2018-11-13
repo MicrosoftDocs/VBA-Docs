@@ -1,5 +1,5 @@
 ---
-title: Fields.Locked Property (Word)
+title: Fields.Locked property (Word)
 keywords: vbawd10.chm154140674
 f1_keywords:
 - vbawd10.chm154140674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Locked Property (Word)
+# Fields.Locked property (Word)
 
  **True** if all fields in the **Fields** collection are locked. Read/write **Long** .
 

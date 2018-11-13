@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.Parent Property (Word)
+title: HTMLDivision.Parent property (Word)
 keywords: vbawd10.chm166134762
 f1_keywords:
 - vbawd10.chm166134762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.Parent Property (Word)
+# HTMLDivision.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **HTMLDivision** object.
 

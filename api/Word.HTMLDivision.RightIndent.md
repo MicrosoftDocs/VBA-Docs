@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.RightIndent Property (Word)
+title: HTMLDivision.RightIndent property (Word)
 keywords: vbawd10.chm166133764
 f1_keywords:
 - vbawd10.chm166133764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.RightIndent Property (Word)
+# HTMLDivision.RightIndent property (Word)
 
 Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single** .
 

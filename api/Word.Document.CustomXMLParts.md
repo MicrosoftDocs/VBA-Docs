@@ -1,5 +1,5 @@
 ---
-title: Document.CustomXMLParts Property (Word)
+title: Document.CustomXMLParts property (Word)
 keywords: vbawd10.chm158007817
 f1_keywords:
 - vbawd10.chm158007817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CustomXMLParts Property (Word)
+# Document.CustomXMLParts property (Word)
 
 Returns a  **[CustomXMLParts](./Office.CustomXMLParts.md)** collection that represents the custom XML in the XML data store. Read-only.
 

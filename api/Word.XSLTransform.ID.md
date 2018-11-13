@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.ID Property (Word)
+title: XSLTransform.ID property (Word)
 keywords: vbawd10.chm76742758
 f1_keywords:
 - vbawd10.chm76742758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.ID Property (Word)
+# XSLTransform.ID property (Word)
 
 Returns a  **String** containing the GUID assigned to the current[XSLTransform](Word.XSLTransform.md) object. Read-only.
 

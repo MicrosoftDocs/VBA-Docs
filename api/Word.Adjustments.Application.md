@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Application Property (Word)
+title: Adjustments.Application property (Word)
 keywords: vbawd10.chm163841000
 f1_keywords:
 - vbawd10.chm163841000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Application Property (Word)
+# Adjustments.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

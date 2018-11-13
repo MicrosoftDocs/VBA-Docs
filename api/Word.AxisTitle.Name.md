@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Name Property (Word)
+title: AxisTitle.Name property (Word)
 keywords: vbawd10.chm98238490
 f1_keywords:
 - vbawd10.chm98238490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Name Property (Word)
+# AxisTitle.Name property (Word)
 
 Returns a  **String** value that represents the name of the object.
 

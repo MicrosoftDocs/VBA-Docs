@@ -1,5 +1,5 @@
 ---
-title: WdChevronConvertRule Enumeration (Word)
+title: WdChevronConvertRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdChevronConvertRule
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdChevronConvertRule Enumeration (Word)
+# WdChevronConvertRule enumeration (Word)
 
 Specifies rules for converting text enclosed in chevron characters (? ?) to merge fields.
 

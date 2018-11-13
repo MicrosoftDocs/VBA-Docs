@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsOverflowValue Property (Word)
+title: ChartGroup.BinsOverflowValue property (Word)
 keywords: vbawd10.chm263457615
 f1_keywords:
 - vbawd10.chm263457615
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BinsOverflowValue Property (Word)
+# ChartGroup.BinsOverflowValue property (Word)
 
 If an [BinsOverflowEnabled](./Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write  **Double**.
 

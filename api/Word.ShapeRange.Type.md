@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Type Property (Word)
+title: ShapeRange.Type property (Word)
 keywords: vbawd10.chm162857084
 f1_keywords:
 - vbawd10.chm162857084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Type Property (Word)
+# ShapeRange.Type property (Word)
 
 Returns the shape type. Read-only  **MsoShapeType** .
 

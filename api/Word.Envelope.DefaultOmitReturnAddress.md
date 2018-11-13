@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultOmitReturnAddress Property (Word)
+title: Envelope.DefaultOmitReturnAddress property (Word)
 keywords: vbawd10.chm152567817
 f1_keywords:
 - vbawd10.chm152567817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultOmitReturnAddress Property (Word)
+# Envelope.DefaultOmitReturnAddress property (Word)
 
  **True** if the return address is omitted from envelopes by default. Read/write **Boolean** .
 

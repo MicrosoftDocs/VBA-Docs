@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsBalloonPrintOrientation Enumeration (Word)
+title: WdRevisionsBalloonPrintOrientation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonPrintOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsBalloonPrintOrientation Enumeration (Word)
+# WdRevisionsBalloonPrintOrientation enumeration (Word)
 
 Specifies the orientation of revision and comment balloons when they are printed.
 

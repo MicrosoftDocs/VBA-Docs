@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Caption Property (Word)
+title: DataLabel.Caption property (Word)
 keywords: vbawd10.chm233898123
 f1_keywords:
 - vbawd10.chm233898123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Caption Property (Word)
+# DataLabel.Caption property (Word)
 
 Returns or sets the data label text. Read/write  **String** .
 

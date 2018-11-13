@@ -1,5 +1,5 @@
 ---
-title: Chart.Rotation Property (Word)
+title: Chart.Rotation property (Word)
 keywords: vbawd10.chm79364112
 f1_keywords:
 - vbawd10.chm79364112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Rotation Property (Word)
+# Chart.Rotation property (Word)
 
 Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of the plot area around the z-axis). Read/write  **Variant** .
 

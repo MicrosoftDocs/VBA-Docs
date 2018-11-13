@@ -1,5 +1,5 @@
 ---
-title: View.ShowSpaces Property (Word)
+title: View.ShowSpaces property (Word)
 keywords: vbawd10.chm161808400
 f1_keywords:
 - vbawd10.chm161808400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowSpaces Property (Word)
+# View.ShowSpaces property (Word)
 
  **True** if space characters are displayed. Read/write **Boolean** .
 

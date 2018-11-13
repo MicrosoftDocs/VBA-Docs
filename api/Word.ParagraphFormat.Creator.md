@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Creator Property (Word)
+title: ParagraphFormat.Creator property (Word)
 keywords: vbawd10.chm156435433
 f1_keywords:
 - vbawd10.chm156435433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Creator Property (Word)
+# ParagraphFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

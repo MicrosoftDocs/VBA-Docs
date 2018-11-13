@@ -1,5 +1,5 @@
 ---
-title: ChartFont.FontStyle Property (Word)
+title: ChartFont.FontStyle property (Word)
 keywords: vbawd10.chm255918088
 f1_keywords:
 - vbawd10.chm255918088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.FontStyle Property (Word)
+# ChartFont.FontStyle property (Word)
 
 Returns or sets the font style. Read/write  **String** .
 

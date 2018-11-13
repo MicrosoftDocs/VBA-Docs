@@ -1,5 +1,5 @@
 ---
-title: WdNumberForm Enumeration (Word)
+title: WdNumberForm enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberForm
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNumberForm Enumeration (Word)
+# WdNumberForm enumeration (Word)
 
 Specifies the number form setting for an OpenType font.
 

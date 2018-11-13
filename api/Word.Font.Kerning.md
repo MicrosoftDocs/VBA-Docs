@@ -1,5 +1,5 @@
 ---
-title: Font.Kerning Property (Word)
+title: Font.Kerning property (Word)
 keywords: vbawd10.chm156369045
 f1_keywords:
 - vbawd10.chm156369045
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Kerning Property (Word)
+# Font.Kerning property (Word)
 
 Returns or sets the minimum font size for which Microsoft Word will adjust kerning automatically. Read/write  **Single** .
 

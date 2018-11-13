@@ -1,5 +1,5 @@
 ---
-title: Shapes.Count Property (Word)
+title: Shapes.Count property (Word)
 keywords: vbawd10.chm161415170
 f1_keywords:
 - vbawd10.chm161415170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.Count Property (Word)
+# Shapes.Count property (Word)
 
 Returns a  **Long** that represents the number of shapes in the collection. Read-only.
 

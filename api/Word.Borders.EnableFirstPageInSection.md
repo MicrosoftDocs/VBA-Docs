@@ -1,5 +1,5 @@
 ---
-title: Borders.EnableFirstPageInSection Property (Word)
+title: Borders.EnableFirstPageInSection property (Word)
 keywords: vbawd10.chm154927134
 f1_keywords:
 - vbawd10.chm154927134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.EnableFirstPageInSection Property (Word)
+# Borders.EnableFirstPageInSection property (Word)
 
  **True** if page borders are enabled for the first page in the section. Read/write **Boolean** .
 

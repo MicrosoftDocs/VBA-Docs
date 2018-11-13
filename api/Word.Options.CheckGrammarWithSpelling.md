@@ -1,5 +1,5 @@
 ---
-title: Options.CheckGrammarWithSpelling Property (Word)
+title: Options.CheckGrammarWithSpelling property (Word)
 keywords: vbawd10.chm162988317
 f1_keywords:
 - vbawd10.chm162988317
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CheckGrammarWithSpelling Property (Word)
+# Options.CheckGrammarWithSpelling property (Word)
 
  **True** if Word checks grammar while checking spelling. Read/write **Boolean** .
 

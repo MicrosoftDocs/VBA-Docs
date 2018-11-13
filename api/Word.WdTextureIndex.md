@@ -1,5 +1,5 @@
 ---
-title: WdTextureIndex Enumeration (Word)
+title: WdTextureIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextureIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTextureIndex Enumeration (Word)
+# WdTextureIndex enumeration (Word)
 
 Specifies the shading texture to use for a selected item.
 

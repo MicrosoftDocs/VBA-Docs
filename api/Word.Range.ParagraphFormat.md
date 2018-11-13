@@ -1,5 +1,5 @@
 ---
-title: Range.ParagraphFormat Property (Word)
+title: Range.ParagraphFormat property (Word)
 keywords: vbawd10.chm157156430
 f1_keywords:
 - vbawd10.chm157156430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ParagraphFormat Property (Word)
+# Range.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified range. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Range Property (Word)
+title: HeaderFooter.Range property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Range
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Range Property (Word)
+# HeaderFooter.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within the specified header or footer.
 

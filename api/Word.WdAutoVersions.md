@@ -1,5 +1,5 @@
 ---
-title: WdAutoVersions Enumeration (Word)
+title: WdAutoVersions enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAutoVersions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAutoVersions Enumeration (Word)
+# WdAutoVersions enumeration (Word)
 
 Specifies the state of the option for automatically saving document versions.
 

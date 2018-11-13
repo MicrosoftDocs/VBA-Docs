@@ -1,5 +1,5 @@
 ---
-title: OMathBar.Creator Property (Word)
+title: OMathBar.Creator property (Word)
 keywords: vbawd10.chm99680357
 f1_keywords:
 - vbawd10.chm99680357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBar.Creator Property (Word)
+# OMathBar.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

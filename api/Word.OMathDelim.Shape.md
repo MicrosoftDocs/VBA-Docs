@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.Shape Property (Word)
+title: OMathDelim.Shape property (Word)
 keywords: vbawd10.chm145096812
 f1_keywords:
 - vbawd10.chm145096812
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.Shape Property (Word)
+# OMathDelim.Shape property (Word)
 
 Returns or sets a  **[WdOMathShapeType](Word.WdOMathShapeType.md)** constant that represents the appearance of delimiters (for example, parentheses, braces, and brackets) in relationship to the content that they surround. Read/write.
 

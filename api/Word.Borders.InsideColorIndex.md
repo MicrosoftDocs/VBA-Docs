@@ -1,5 +1,5 @@
 ---
-title: Borders.InsideColorIndex Property (Word)
+title: Borders.InsideColorIndex property (Word)
 keywords: vbawd10.chm154927114
 f1_keywords:
 - vbawd10.chm154927114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.InsideColorIndex Property (Word)
+# Borders.InsideColorIndex property (Word)
 
 Returns or sets the color of the inside borders. Read/write  **WdColorIndex** .
 

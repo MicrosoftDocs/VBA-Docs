@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Range Property (Word)
+title: Rectangle.Range property (Word)
 keywords: vbawd10.chm234029063
 f1_keywords:
 - vbawd10.chm234029063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Range Property (Word)
+# Rectangle.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within a rectangle.
 

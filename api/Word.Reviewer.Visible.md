@@ -1,5 +1,5 @@
 ---
-title: Reviewer.Visible Property (Word)
+title: Reviewer.Visible property (Word)
 keywords: vbawd10.chm78512128
 f1_keywords:
 - vbawd10.chm78512128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewer.Visible Property (Word)
+# Reviewer.Visible property (Word)
 
  **True** if the specified object is visible. Read/write **Boolean** .
 

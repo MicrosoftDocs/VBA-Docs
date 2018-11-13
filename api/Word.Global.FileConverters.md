@@ -1,5 +1,5 @@
 ---
-title: Global.FileConverters Property (Word)
+title: Global.FileConverters property (Word)
 keywords: vbawd10.chm163119121
 f1_keywords:
 - vbawd10.chm163119121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.FileConverters Property (Word)
+# Global.FileConverters property (Word)
 
 Returns a  **[FileConverters](Word.fileconverters.md)** collection that represents all the file converters available to Microsoft Word. Read-only.
 

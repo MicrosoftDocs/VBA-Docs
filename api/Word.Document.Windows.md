@@ -1,5 +1,5 @@
 ---
-title: Document.Windows Property (Word)
+title: Document.Windows property (Word)
 keywords: vbawd10.chm158007330
 f1_keywords:
 - vbawd10.chm158007330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Windows Property (Word)
+# Document.Windows property (Word)
 
 Returns a  **[Windows](Word.windows.md)** collection that represents all windows for the specified document. Read-only.
 

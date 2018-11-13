@@ -1,5 +1,5 @@
 ---
-title: Words.First Property (Word)
+title: Words.First property (Word)
 keywords: vbawd10.chm157024259
 f1_keywords:
 - vbawd10.chm157024259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words.First Property (Word)
+# Words.First property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the first word in a collection of words.
 

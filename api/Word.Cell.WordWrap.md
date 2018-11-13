@@ -1,5 +1,5 @@
 ---
-title: Cell.WordWrap Property (Word)
+title: Cell.WordWrap property (Word)
 keywords: vbawd10.chm156106860
 f1_keywords:
 - vbawd10.chm156106860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.WordWrap Property (Word)
+# Cell.WordWrap property (Word)
 
  **True** if Microsoft Word wraps text to multiple lines and lengthens the cell so that the cell width remains the same. Read/write **Boolean** .
 

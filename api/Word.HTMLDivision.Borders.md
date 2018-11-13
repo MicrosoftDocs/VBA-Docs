@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.Borders Property (Word)
+title: HTMLDivision.Borders property (Word)
 keywords: vbawd10.chm166134860
 f1_keywords:
 - vbawd10.chm166134860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.Borders Property (Word)
+# HTMLDivision.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

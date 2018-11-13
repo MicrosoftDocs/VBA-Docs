@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMajorGridlines Property (Word)
+title: Axis.HasMajorGridlines property (Word)
 keywords: vbawd10.chm113049611
 f1_keywords:
 - vbawd10.chm113049611
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.HasMajorGridlines Property (Word)
+# Axis.HasMajorGridlines property (Word)
 
  **True** if the axis has major gridlines. Read/write **Boolean** .
 

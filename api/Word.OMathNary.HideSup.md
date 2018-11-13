@@ -1,5 +1,5 @@
 ---
-title: OMathNary.HideSup Property (Word)
+title: OMathNary.HideSup property (Word)
 keywords: vbawd10.chm25428078
 f1_keywords:
 - vbawd10.chm25428078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.HideSup Property (Word)
+# OMathNary.HideSup property (Word)
 
 Returns or sets a  **Boolean** that represents whether to hide the upper limit of an n-ary operator. Read/write.
 

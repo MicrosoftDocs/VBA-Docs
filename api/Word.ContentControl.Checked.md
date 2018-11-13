@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Checked Property (Word)
+title: ContentControl.Checked property (Word)
 keywords: vbawd10.chm266534940
 f1_keywords:
 - vbawd10.chm266534940
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Checked Property (Word)
+# ContentControl.Checked property (Word)
 
 Returns or sets a  **Boolean** that represents the current state (checked/unchecked) for a check box. Read/Write.
 

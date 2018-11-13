@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceFractions Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceFractions property (Word)
 keywords: vbawd10.chm165347595
 f1_keywords:
 - vbawd10.chm165347595
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceFractions Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceFractions property (Word)
 
  **True** if typed fractions are replaced with fractions from the current character set as you type; for example, "1/2" is replaced with "½." Read/write **Boolean** .
 

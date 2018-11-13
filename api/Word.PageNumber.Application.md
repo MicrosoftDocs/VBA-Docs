@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Application Property (Word)
+title: PageNumber.Application property (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Application Property (Word)
+# PageNumber.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

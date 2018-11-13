@@ -1,5 +1,5 @@
 ---
-title: Shape.BackgroundStyle Property (Word)
+title: Shape.BackgroundStyle property (Word)
 keywords: vbawd10.chm161480855
 f1_keywords:
 - vbawd10.chm161480855
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.BackgroundStyle Property (Word)
+# Shape.BackgroundStyle property (Word)
 
 Sets or returns the background style of the specified shape. Read/write [MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md).
 

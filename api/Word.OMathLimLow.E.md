@@ -1,5 +1,5 @@
 ---
-title: OMathLimLow.E Property (Word)
+title: OMathLimLow.E property (Word)
 keywords: vbawd10.chm91619431
 f1_keywords:
 - vbawd10.chm91619431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimLow.E Property (Word)
+# OMathLimLow.E property (Word)
 
 Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.KeyCategory Property (Word)
+title: KeysBoundTo.KeyCategory property (Word)
 keywords: vbawd10.chm160890883
 f1_keywords:
 - vbawd10.chm160890883
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.KeyCategory Property (Word)
+# KeysBoundTo.KeyCategory property (Word)
 
 Returns the type of item assigned to the specified key binding. Read-only  **WdKeyCategory** .
 

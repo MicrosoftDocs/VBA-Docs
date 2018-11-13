@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Parent Property (Word)
+title: SeriesLines.Parent property (Word)
 keywords: vbawd10.chm202702998
 f1_keywords:
 - vbawd10.chm202702998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Parent Property (Word)
+# SeriesLines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

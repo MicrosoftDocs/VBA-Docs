@@ -1,5 +1,5 @@
 ---
-title: DropCap.LinesToDrop Property (Word)
+title: DropCap.LinesToDrop property (Word)
 keywords: vbawd10.chm156631052
 f1_keywords:
 - vbawd10.chm156631052
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.LinesToDrop Property (Word)
+# DropCap.LinesToDrop property (Word)
 
 Returns or sets the height (in lines) of the specified dropped capital letter. Read/write  **Long** .
 

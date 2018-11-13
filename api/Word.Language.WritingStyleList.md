@@ -1,5 +1,5 @@
 ---
-title: Language.WritingStyleList Property (Word)
+title: Language.WritingStyleList property (Word)
 keywords: vbawd10.chm158138386
 f1_keywords:
 - vbawd10.chm158138386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.WritingStyleList Property (Word)
+# Language.WritingStyleList property (Word)
 
 Returns a string array that contains the names of all writing styles available for the specified language. Read-only  **Variant** .
 

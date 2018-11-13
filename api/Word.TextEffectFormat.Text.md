@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Text Property (Word)
+title: TextEffectFormat.Text property (Word)
 keywords: vbawd10.chm164561006
 f1_keywords:
 - vbawd10.chm164561006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Text Property (Word)
+# TextEffectFormat.Text property (Word)
 
 Returns or sets the text in the specified object. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathRad.Deg Property (Word)
+title: OMathRad.Deg property (Word)
 keywords: vbawd10.chm247791719
 f1_keywords:
 - vbawd10.chm247791719
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRad.Deg Property (Word)
+# OMathRad.Deg property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the degree for a radical. Read-only.
 

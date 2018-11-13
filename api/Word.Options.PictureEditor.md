@@ -1,5 +1,5 @@
 ---
-title: Options.PictureEditor Property (Word)
+title: Options.PictureEditor property (Word)
 keywords: vbawd10.chm162988105
 f1_keywords:
 - vbawd10.chm162988105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PictureEditor Property (Word)
+# Options.PictureEditor property (Word)
 
 Returns or sets the name of the application to use to edit pictures. Read/write  **String** .
 

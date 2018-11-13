@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.HangulAndAlphabetAutoAdd Property (Word)
+title: AutoCorrect.HangulAndAlphabetAutoAdd property (Word)
 keywords: vbawd10.chm155779086
 f1_keywords:
 - vbawd10.chm155779086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.HangulAndAlphabetAutoAdd Property (Word)
+# AutoCorrect.HangulAndAlphabetAutoAdd property (Word)
 
  **True** if Microsoft Word automatically adds words to the list of Hangul and alphabet AutoCorrect exceptions. Read/write **Boolean** .
 

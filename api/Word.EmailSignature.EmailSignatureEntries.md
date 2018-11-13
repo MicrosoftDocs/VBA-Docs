@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.EmailSignatureEntries Property (Word)
+title: EmailSignature.EmailSignatureEntries property (Word)
 keywords: vbawd10.chm165412969
 f1_keywords:
 - vbawd10.chm165412969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.EmailSignatureEntries Property (Word)
+# EmailSignature.EmailSignatureEntries property (Word)
 
 Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object that represents the e-mail signature entries in Microsoft Word. Read-only.
 

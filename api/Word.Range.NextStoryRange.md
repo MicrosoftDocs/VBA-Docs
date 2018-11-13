@@ -1,5 +1,5 @@
 ---
-title: Range.NextStoryRange Property (Word)
+title: Range.NextStoryRange property (Word)
 keywords: vbawd10.chm157155648
 f1_keywords:
 - vbawd10.chm157155648
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.NextStoryRange Property (Word)
+# Range.NextStoryRange property (Word)
 
 Returns a  **Range** object that refers to the next story. Read-only **Range** .
 

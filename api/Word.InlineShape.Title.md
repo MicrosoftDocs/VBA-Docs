@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Title Property (Word)
+title: InlineShape.Title property (Word)
 keywords: vbawd10.chm162005150
 f1_keywords:
 - vbawd10.chm162005150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Title Property (Word)
+# InlineShape.Title property (Word)
 
 Returns or sets a  **String** that contains a title for the specified inline shape. Read/write.
 

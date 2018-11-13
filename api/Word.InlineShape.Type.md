@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Type Property (Word)
+title: InlineShape.Type property (Word)
 keywords: vbawd10.chm162004998
 f1_keywords:
 - vbawd10.chm162004998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Type Property (Word)
+# InlineShape.Type property (Word)
 
 Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInlineShapeType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerStyle Property (Word)
+title: Point.MarkerStyle property (Word)
 keywords: vbawd10.chm262144072
 f1_keywords:
 - vbawd10.chm262144072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.MarkerStyle Property (Word)
+# Point.MarkerStyle property (Word)
 
 Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Word.xlmarkerstyle.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Type Property (Word)
+title: SoftEdgeFormat.Type property (Word)
 keywords: vbawd10.chm184090625
 f1_keywords:
 - vbawd10.chm184090625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Type Property (Word)
+# SoftEdgeFormat.Type property (Word)
 
 Returns or sets an  **MsoBevelType** constant that represents the bevel type for the edges of images that use soft edge formatting. Read/write.
 

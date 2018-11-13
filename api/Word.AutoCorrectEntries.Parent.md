@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.Parent Property (Word)
+title: AutoCorrectEntries.Parent property (Word)
 keywords: vbawd10.chm155714538
 f1_keywords:
 - vbawd10.chm155714538
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.Parent Property (Word)
+# AutoCorrectEntries.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **AutoCorrectEntries** collection, which is usually an **[AutoCorrect](Word.AutoCorrect.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Blur Property (Word)
+title: ShadowFormat.Blur property (Word)
 keywords: vbawd10.chm164364396
 f1_keywords:
 - vbawd10.chm164364396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Blur Property (Word)
+# ShadowFormat.Blur property (Word)
 
 Returns or sets a  **Single** that represents the blur level for a shadow format. Read/write.
 

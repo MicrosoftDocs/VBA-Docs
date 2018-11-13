@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Width Property (Word)
+title: CustomLabel.Width property (Word)
 keywords: vbawd10.chm152371206
 f1_keywords:
 - vbawd10.chm152371206
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Width Property (Word)
+# CustomLabel.Width property (Word)
 
 Returns or sets the width of a custom mailing label, in points. Read/write  **Long** .
 

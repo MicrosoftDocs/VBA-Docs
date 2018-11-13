@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinWidthValue Property (Word)
+title: ChartGroup.BinWidthValue property (Word)
 keywords: vbawd10.chm263457612
 f1_keywords:
 - vbawd10.chm263457612
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BinWidthValue Property (Word)
+# ChartGroup.BinWidthValue property (Word)
 
 Specifies the number of points in each range. Read/write  **Double**.
 

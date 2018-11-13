@@ -1,5 +1,5 @@
 ---
-title: Table.ID Property (Word)
+title: Table.ID property (Word)
 keywords: vbawd10.chm156303479
 f1_keywords:
 - vbawd10.chm156303479
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ID Property (Word)
+# Table.ID property (Word)
 
 Returns or sets the identifying label for the specified table when the document is saved as a Web page. Read/write  **String** .
 

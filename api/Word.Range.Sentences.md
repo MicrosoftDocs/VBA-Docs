@@ -1,5 +1,5 @@
 ---
-title: Range.Sentences Property (Word)
+title: Range.Sentences property (Word)
 keywords: vbawd10.chm157155380
 f1_keywords:
 - vbawd10.chm157155380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Sentences Property (Word)
+# Range.Sentences property (Word)
 
 Returns a  **Sentences** collection that represents all the sentences in the range. Read-only.
 

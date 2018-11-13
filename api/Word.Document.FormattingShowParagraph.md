@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowParagraph Property (Word)
+title: Document.FormattingShowParagraph property (Word)
 keywords: vbawd10.chm158007746
 f1_keywords:
 - vbawd10.chm158007746
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowParagraph Property (Word)
+# Document.FormattingShowParagraph property (Word)
 
  **True** for Microsoft Word to display paragraph formatting in the **Styles and Formatting** task pane. Read/write **Boolean** .
 

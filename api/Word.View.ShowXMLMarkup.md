@@ -1,5 +1,5 @@
 ---
-title: View.ShowXMLMarkup Property (Word)
+title: View.ShowXMLMarkup property (Word)
 keywords: vbawd10.chm161808430
 f1_keywords:
 - vbawd10.chm161808430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowXMLMarkup Property (Word)
+# View.ShowXMLMarkup property (Word)
 
 Returns a  **Long** that represents whether XML tags are visible in a document.
 

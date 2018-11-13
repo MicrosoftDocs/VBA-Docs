@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceOrdinals Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 keywords: vbawd10.chm165347594
 f1_keywords:
 - vbawd10.chm165347594
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceOrdinals Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 
  **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type; for example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean** .
 

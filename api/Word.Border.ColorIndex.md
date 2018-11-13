@@ -1,5 +1,5 @@
 ---
-title: Border.ColorIndex Property (Word)
+title: Border.ColorIndex property (Word)
 keywords: vbawd10.chm154861569
 f1_keywords:
 - vbawd10.chm154861569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.ColorIndex Property (Word)
+# Border.ColorIndex property (Word)
 
 Returns or sets the color for the specified border or font object. Read/write  **WdColorIndex** .
 

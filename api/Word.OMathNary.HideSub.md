@@ -1,5 +1,5 @@
 ---
-title: OMathNary.HideSub Property (Word)
+title: OMathNary.HideSub property (Word)
 keywords: vbawd10.chm25428077
 f1_keywords:
 - vbawd10.chm25428077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.HideSub Property (Word)
+# OMathNary.HideSub property (Word)
 
 Returns or sets a  **Boolean** that represents whether to hide the lower limit of an n-ary operator. Read/write.
 

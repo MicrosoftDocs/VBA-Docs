@@ -1,5 +1,5 @@
 ---
-title: OMathFunctions.Count Property (Word)
+title: OMathFunctions.Count property (Word)
 keywords: vbawd10.chm44302439
 f1_keywords:
 - vbawd10.chm44302439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunctions.Count Property (Word)
+# OMathFunctions.Count property (Word)
 
 Returns the number of items in the  **OMathFunctions** collection. Read-only **Long** .
 

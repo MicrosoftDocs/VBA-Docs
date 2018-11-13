@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Count Property (Word)
+title: TextColumns.Count property (Word)
 keywords: vbawd10.chm158531586
 f1_keywords:
 - vbawd10.chm158531586
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Count Property (Word)
+# TextColumns.Count property (Word)
 
 Returns a  **Long** that represents the number of text columns in the collection. Read-only.
 

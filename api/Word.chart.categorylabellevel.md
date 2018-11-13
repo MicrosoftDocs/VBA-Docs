@@ -1,5 +1,5 @@
 ---
-title: Chart.CategoryLabelLevel Property (Word)
+title: Chart.CategoryLabelLevel property (Word)
 keywords: vbawd10.chm79364333
 f1_keywords:
 - vbawd10.chm79364333
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.CategoryLabelLevel Property (Word)
+# Chart.CategoryLabelLevel property (Word)
 
 Returns or sets an [XlCategoryLabel](Word.xlcategorylabellevel.md) constant that specifies the source level of the chart category labels. Read-write.
 

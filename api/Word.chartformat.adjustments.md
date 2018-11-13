@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Adjustments Property (Word)
+title: ChartFormat.Adjustments property (Word)
 keywords: vbawd10.chm203030728
 f1_keywords:
 - vbawd10.chm203030728
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Adjustments Property (Word)
+# ChartFormat.Adjustments property (Word)
 
 Returns an [Adjustments](Word.Adjustments.md) object that contains a collection of adjustment values for the specified **Chart Format** object.
 

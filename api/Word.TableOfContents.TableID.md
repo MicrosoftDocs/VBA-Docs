@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.TableID Property (Word)
+title: TableOfContents.TableID property (Word)
 keywords: vbawd10.chm152240133
 f1_keywords:
 - vbawd10.chm152240133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.TableID Property (Word)
+# TableOfContents.TableID property (Word)
 
 Returns or sets a one-letter identifier that's used to build a table of contents from TOC fields. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListValue Property (Word)
+title: ListFormat.ListValue property (Word)
 keywords: vbawd10.chm163577927
 f1_keywords:
 - vbawd10.chm163577927
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListValue Property (Word)
+# ListFormat.ListValue property (Word)
 
 Returns the numeric value of the first paragraph in the range for the specified  **ListFormat** object. Read-only **Long** .
 

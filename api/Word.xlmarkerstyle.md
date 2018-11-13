@@ -1,12 +1,12 @@
 ---
-title: xlMarkerStyle Enumeration (Word)
+title: xlMarkerStyle enumeration (Word)
 ms.prod: word
 ms.assetid: 09985bc6-00e7-203d-efed-15b32f0c2666
 ms.date: 06/08/2017
 ---
 
 
-# xlMarkerStyle Enumeration (Word)
+# xlMarkerStyle enumeration (Word)
 
 Specifies the marker style for a point or series in a line chart, scatter chart, or radar chart.
 

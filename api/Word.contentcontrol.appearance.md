@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Appearance Property (Word)
+title: ContentControl.Appearance property (Word)
 keywords: vbawd10.chm266534944
 f1_keywords:
 - vbawd10.chm266534944
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Appearance Property (Word)
+# ContentControl.Appearance property (Word)
 
 Returns or sets the appearance of the content control. Read/write [WdContentControlAppearance](Word.wdcontentcontrolappearance.md).
 

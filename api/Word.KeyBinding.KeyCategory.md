@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyCategory Property (Word)
+title: KeyBinding.KeyCategory property (Word)
 keywords: vbawd10.chm160956420
 f1_keywords:
 - vbawd10.chm160956420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.KeyCategory Property (Word)
+# KeyBinding.KeyCategory property (Word)
 
 Returns the type of item assigned to the specified key binding. Read-only  **WdKeyCategory** .
 

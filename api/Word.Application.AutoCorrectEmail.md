@@ -1,5 +1,5 @@
 ---
-title: Application.AutoCorrectEmail Property (Word)
+title: Application.AutoCorrectEmail property (Word)
 keywords: vbawd10.chm158335432
 f1_keywords:
 - vbawd10.chm158335432
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoCorrectEmail Property (Word)
+# Application.AutoCorrectEmail property (Word)
 
 Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automatic corrections made to e-mail messages.
 

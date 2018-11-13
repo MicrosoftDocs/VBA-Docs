@@ -1,5 +1,5 @@
 ---
-title: TextColumns.EvenlySpaced Property (Word)
+title: TextColumns.EvenlySpaced property (Word)
 keywords: vbawd10.chm158531684
 f1_keywords:
 - vbawd10.chm158531684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.EvenlySpaced Property (Word)
+# TextColumns.EvenlySpaced property (Word)
 
  **True** if text columns are evenly spaced. Read/write **Long** .
 

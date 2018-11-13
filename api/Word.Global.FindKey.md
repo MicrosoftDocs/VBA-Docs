@@ -1,5 +1,5 @@
 ---
-title: Global.FindKey Property (Word)
+title: Global.FindKey property (Word)
 keywords: vbawd10.chm163119175
 f1_keywords:
 - vbawd10.chm163119175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.FindKey Property (Word)
+# Global.FindKey property (Word)
 
 Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the specified key combination. Read-only.
 

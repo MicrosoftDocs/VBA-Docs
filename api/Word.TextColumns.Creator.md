@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Creator Property (Word)
+title: TextColumns.Creator property (Word)
 keywords: vbawd10.chm158532585
 f1_keywords:
 - vbawd10.chm158532585
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Creator Property (Word)
+# TextColumns.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

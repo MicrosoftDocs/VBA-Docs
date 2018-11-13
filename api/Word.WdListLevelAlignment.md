@@ -1,5 +1,5 @@
 ---
-title: WdListLevelAlignment Enumeration (Word)
+title: WdListLevelAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListLevelAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdListLevelAlignment Enumeration (Word)
+# WdListLevelAlignment enumeration (Word)
 
 Specifies the alignment of a list level.
 

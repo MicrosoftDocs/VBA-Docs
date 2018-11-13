@@ -1,5 +1,5 @@
 ---
-title: StoryRanges.Application Property (Word)
+title: StoryRanges.Application property (Word)
 keywords: vbawd10.chm160170984
 f1_keywords:
 - vbawd10.chm160170984
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StoryRanges.Application Property (Word)
+# StoryRanges.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.SingleList Property (Word)
+title: ListFormat.SingleList property (Word)
 keywords: vbawd10.chm163577928
 f1_keywords:
 - vbawd10.chm163577928
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.SingleList Property (Word)
+# ListFormat.SingleList property (Word)
 
  **True** if the specified **ListFormat** object contains only one list. Read-only **Boolean** .
 

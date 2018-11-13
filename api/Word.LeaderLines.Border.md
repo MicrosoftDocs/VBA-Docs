@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Border Property (Word)
+title: LeaderLines.Border property (Word)
 keywords: vbawd10.chm207749248
 f1_keywords:
 - vbawd10.chm207749248
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Border Property (Word)
+# LeaderLines.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

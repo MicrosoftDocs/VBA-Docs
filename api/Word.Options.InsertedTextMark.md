@@ -1,5 +1,5 @@
 ---
-title: Options.InsertedTextMark Property (Word)
+title: Options.InsertedTextMark property (Word)
 keywords: vbawd10.chm162988089
 f1_keywords:
 - vbawd10.chm162988089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.InsertedTextMark Property (Word)
+# Options.InsertedTextMark property (Word)
 
 Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark** .
 

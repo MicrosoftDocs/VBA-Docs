@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveDateAndTime Property (Word)
+title: Document.RemoveDateAndTime property (Word)
 keywords: vbawd10.chm158007780
 f1_keywords:
 - vbawd10.chm158007780
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemoveDateAndTime Property (Word)
+# Document.RemoveDateAndTime property (Word)
 
 Sets or returns a  **Boolean** indicating whether a document stores the date and time metadata for tracked changes. .
 

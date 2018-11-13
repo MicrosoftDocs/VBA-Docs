@@ -1,5 +1,5 @@
 ---
-title: View.ShowHiddenText Property (Word)
+title: View.ShowHiddenText property (Word)
 keywords: vbawd10.chm161808403
 f1_keywords:
 - vbawd10.chm161808403
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowHiddenText Property (Word)
+# View.ShowHiddenText property (Word)
 
  **True** if text formatted as hidden text is displayed. Read/write **Boolean** .
 

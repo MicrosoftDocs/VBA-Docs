@@ -1,5 +1,5 @@
 ---
-title: Font.Outline Property (Word)
+title: Font.Outline property (Word)
 keywords: vbawd10.chm156369043
 f1_keywords:
 - vbawd10.chm156369043
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Outline Property (Word)
+# Font.Outline property (Word)
 
  **True** if the font is formatted as outline. Read/write **Long** .
 

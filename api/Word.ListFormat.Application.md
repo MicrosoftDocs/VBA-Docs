@@ -1,5 +1,5 @@
 ---
-title: ListFormat.Application Property (Word)
+title: ListFormat.Application property (Word)
 keywords: vbawd10.chm163578856
 f1_keywords:
 - vbawd10.chm163578856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.Application Property (Word)
+# ListFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,12 +1,12 @@
 ---
-title: xlPictureAppearance Enumeration (Word)
+title: xlPictureAppearance enumeration (Word)
 ms.prod: word
 ms.assetid: d676a180-e7ac-93c2-3285-8983b8cd938f
 ms.date: 06/08/2017
 ---
 
 
-# xlPictureAppearance Enumeration (Word)
+# xlPictureAppearance enumeration (Word)
 
 Specifies how the picture should be copied.
 

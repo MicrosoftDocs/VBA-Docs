@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionFileProperties Property (Word)
+title: Document.PasswordEncryptionFileProperties property (Word)
 keywords: vbawd10.chm158007666
 f1_keywords:
 - vbawd10.chm158007666
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PasswordEncryptionFileProperties Property (Word)
+# Document.PasswordEncryptionFileProperties property (Word)
 
  **True** if Microsoft Word encrypts file properties for password-protected documents. Read-only **Boolean** .
 

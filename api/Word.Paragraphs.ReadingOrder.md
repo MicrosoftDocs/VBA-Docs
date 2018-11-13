@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.ReadingOrder Property (Word)
+title: Paragraphs.ReadingOrder property (Word)
 keywords: vbawd10.chm156762243
 f1_keywords:
 - vbawd10.chm156762243
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.ReadingOrder Property (Word)
+# Paragraphs.ReadingOrder property (Word)
 
 Returns or sets the reading order of the specified paragraphs without changing their alignment. Read/write  **WdReadingOrder** .
 

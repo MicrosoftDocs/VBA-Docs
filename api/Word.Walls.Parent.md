@@ -1,5 +1,5 @@
 ---
-title: Walls.Parent Property (Word)
+title: Walls.Parent property (Word)
 keywords: vbawd10.chm25165974
 f1_keywords:
 - vbawd10.chm25165974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Parent Property (Word)
+# Walls.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

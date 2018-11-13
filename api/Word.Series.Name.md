@@ -1,5 +1,5 @@
 ---
-title: Series.Name Property (Word)
+title: Series.Name property (Word)
 keywords: vbawd10.chm123732078
 f1_keywords:
 - vbawd10.chm123732078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Name Property (Word)
+# Series.Name property (Word)
 
 Returns or sets the name of the object. Read/write  **String** .
 

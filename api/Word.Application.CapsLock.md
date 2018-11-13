@@ -1,5 +1,5 @@
 ---
-title: Application.CapsLock Property (Word)
+title: Application.CapsLock property (Word)
 keywords: vbawd10.chm158335024
 f1_keywords:
 - vbawd10.chm158335024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CapsLock Property (Word)
+# Application.CapsLock property (Word)
 
  **True** if the CAPS LOCK key is turned on. Read-only **Boolean** .
 

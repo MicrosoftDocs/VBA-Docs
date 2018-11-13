@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Count Property (Word)
+title: Footnotes.Count property (Word)
 keywords: vbawd10.chm155320322
 f1_keywords:
 - vbawd10.chm155320322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Count Property (Word)
+# Footnotes.Count property (Word)
 
 Returns a  **Long** that represents the number of footnotes in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.AllowPNG Property (Word)
+title: DefaultWebOptions.AllowPNG property (Word)
 keywords: vbawd10.chm165871626
 f1_keywords:
 - vbawd10.chm165871626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.AllowPNG Property (Word)
+# DefaultWebOptions.AllowPNG property (Word)
 
  **False** if PNG (Portable Network Graphics) is not allowed as an output format. Read/write **Boolean** .
 

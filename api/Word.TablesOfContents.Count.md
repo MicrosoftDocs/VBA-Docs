@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Count Property (Word)
+title: TablesOfContents.Count property (Word)
 keywords: vbawd10.chm152305665
 f1_keywords:
 - vbawd10.chm152305665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents.Count Property (Word)
+# TablesOfContents.Count property (Word)
 
 Returns a  **Long** that represents the number of tables of contents in the collection. Read-only.
 

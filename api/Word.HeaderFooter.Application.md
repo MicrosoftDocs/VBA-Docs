@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Application Property (Word)
+title: HeaderFooter.Application property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Application Property (Word)
+# HeaderFooter.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

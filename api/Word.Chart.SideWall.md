@@ -1,5 +1,5 @@
 ---
-title: Chart.SideWall Property (Word)
+title: Chart.SideWall property (Word)
 keywords: vbawd10.chm79366473
 f1_keywords:
 - vbawd10.chm79366473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SideWall Property (Word)
+# Chart.SideWall property (Word)
 
 Returns a  **[Walls](Word.Walls.md)** object that allows the user to individually format the side wall of a 3-D chart. Read-only.
 

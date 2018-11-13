@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionProvider Property (Word)
+title: Document.PasswordEncryptionProvider property (Word)
 keywords: vbawd10.chm158007663
 f1_keywords:
 - vbawd10.chm158007663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PasswordEncryptionProvider Property (Word)
+# Document.PasswordEncryptionProvider property (Word)
 
 Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Word uses when encrypting documents with passwords. Read-only.
 

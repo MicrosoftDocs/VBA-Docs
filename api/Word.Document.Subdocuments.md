@@ -1,5 +1,5 @@
 ---
-title: Document.Subdocuments Property (Word)
+title: Document.Subdocuments property (Word)
 keywords: vbawd10.chm158007341
 f1_keywords:
 - vbawd10.chm158007341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Subdocuments Property (Word)
+# Document.Subdocuments property (Word)
 
 Returns a  **[Subdocuments](Word.subdocuments.md)** collection that represents all the subdocuments in the specified document. Read-only.
 

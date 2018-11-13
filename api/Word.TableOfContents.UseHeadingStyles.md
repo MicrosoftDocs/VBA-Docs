@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.UseHeadingStyles Property (Word)
+title: TableOfContents.UseHeadingStyles property (Word)
 keywords: vbawd10.chm152240129
 f1_keywords:
 - vbawd10.chm152240129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.UseHeadingStyles Property (Word)
+# TableOfContents.UseHeadingStyles property (Word)
 
  **True** if built-in heading styles are used to create a table of contents. Read/write **Boolean** .
 

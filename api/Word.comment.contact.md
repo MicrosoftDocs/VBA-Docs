@@ -1,5 +1,5 @@
 ---
-title: Comment.Contact Property (Word)
+title: Comment.Contact property (Word)
 keywords: vbawd10.chm154993655
 f1_keywords:
 - vbawd10.chm154993655
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Contact Property (Word)
+# Comment.Contact property (Word)
 
 Returns a [CoAuthor](Word.CoAuthor.md) object that represents the author of the specified comment. Read-only.
 

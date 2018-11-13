@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Count Property (Word)
+title: Adjustments.Count property (Word)
 keywords: vbawd10.chm163840002
 f1_keywords:
 - vbawd10.chm163840002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Count Property (Word)
+# Adjustments.Count property (Word)
 
 Returns the number of items in the  **Adjustments** collection. Read-only **Long** .
 

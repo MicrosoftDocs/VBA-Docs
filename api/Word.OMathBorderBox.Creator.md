@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.Creator Property (Word)
+title: OMathBorderBox.Creator property (Word)
 keywords: vbawd10.chm116260965
 f1_keywords:
 - vbawd10.chm116260965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.Creator Property (Word)
+# OMathBorderBox.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

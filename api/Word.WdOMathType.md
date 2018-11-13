@@ -1,5 +1,5 @@
 ---
-title: WdOMathType Enumeration (Word)
+title: WdOMathType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathType Enumeration (Word)
+# WdOMathType enumeration (Word)
 
 Specifies the display format type of equation.
 

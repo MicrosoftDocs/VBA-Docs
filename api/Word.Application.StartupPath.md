@@ -1,5 +1,5 @@
 ---
-title: Application.StartupPath Property (Word)
+title: Application.StartupPath property (Word)
 keywords: vbawd10.chm158335059
 f1_keywords:
 - vbawd10.chm158335059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StartupPath Property (Word)
+# Application.StartupPath property (Word)
 
 Returns or sets the complete path of the startup folder, excluding the final separator. Read/write  **String** .
 

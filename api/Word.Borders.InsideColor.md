@@ -1,5 +1,5 @@
 ---
-title: Borders.InsideColor Property (Word)
+title: Borders.InsideColor property (Word)
 keywords: vbawd10.chm154927136
 f1_keywords:
 - vbawd10.chm154927136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.InsideColor Property (Word)
+# Borders.InsideColor property (Word)
 
 Returns or sets the 24-bit color of the inside borders. Read/write.
 

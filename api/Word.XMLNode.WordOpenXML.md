@@ -1,5 +1,5 @@
 ---
-title: XMLNode.WordOpenXML Property (Word)
+title: XMLNode.WordOpenXML property (Word)
 keywords: vbawd10.chm37748842
 f1_keywords:
 - vbawd10.chm37748842
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.WordOpenXML Property (Word)
+# XMLNode.WordOpenXML property (Word)
 
 Returns a  **String** that represents the XML for the node in the Microsoft Word Open XML format. Read-only.
 

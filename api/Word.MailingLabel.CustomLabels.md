@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.CustomLabels Property (Word)
+title: MailingLabel.CustomLabels property (Word)
 keywords: vbawd10.chm152502280
 f1_keywords:
 - vbawd10.chm152502280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.CustomLabels Property (Word)
+# MailingLabel.CustomLabels property (Word)
 
 Returns a  **[CustomLabels](Word.customlabels.md)** collection that represents the available custom mailing labels. Read-only.
 

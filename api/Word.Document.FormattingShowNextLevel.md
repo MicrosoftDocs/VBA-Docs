@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowNextLevel Property (Word)
+title: Document.FormattingShowNextLevel property (Word)
 keywords: vbawd10.chm158007818
 f1_keywords:
 - vbawd10.chm158007818
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowNextLevel Property (Word)
+# Document.FormattingShowNextLevel property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word shows the next heading level when the previous heading level is used. Read/write.
 

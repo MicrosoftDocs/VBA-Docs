@@ -1,5 +1,5 @@
 ---
-title: Point.DataLabel Property (Word)
+title: Point.DataLabel property (Word)
 keywords: vbawd10.chm262144158
 f1_keywords:
 - vbawd10.chm262144158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.DataLabel Property (Word)
+# Point.DataLabel property (Word)
 
 Returns the data label associated with the point. Read-only  **[DataLabel](Word.DataLabel.md)** .
 

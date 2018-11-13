@@ -1,5 +1,5 @@
 ---
-title: Font.Shading Property (Word)
+title: Font.Shading property (Word)
 keywords: vbawd10.chm156369049
 f1_keywords:
 - vbawd10.chm156369049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Shading Property (Word)
+# Font.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified font.
 

@@ -1,5 +1,5 @@
 ---
-title: Find.MatchAlefHamza Property (Word)
+title: Find.MatchAlefHamza property (Word)
 keywords: vbawd10.chm162529382
 f1_keywords:
 - vbawd10.chm162529382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchAlefHamza Property (Word)
+# Find.MatchAlefHamza property (Word)
 
  **True** if find operations match text with matching alef hamzas in an Arabic language document. Read/write **Boolean** .
 

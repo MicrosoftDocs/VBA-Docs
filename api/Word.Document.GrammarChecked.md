@@ -1,5 +1,5 @@
 ---
-title: Document.GrammarChecked Property (Word)
+title: Document.GrammarChecked property (Word)
 keywords: vbawd10.chm158007366
 f1_keywords:
 - vbawd10.chm158007366
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GrammarChecked Property (Word)
+# Document.GrammarChecked property (Word)
 
  **True** if a grammar check has been run on the specified range or document. Read/write **Boolean** .
 

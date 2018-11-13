@@ -1,5 +1,5 @@
 ---
-title: WdHelpType Enumeration (Word)
+title: WdHelpType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHelpType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHelpType Enumeration (Word)
+# WdHelpType enumeration (Word)
 
 Specifies the type of Help topic or window to display.
 

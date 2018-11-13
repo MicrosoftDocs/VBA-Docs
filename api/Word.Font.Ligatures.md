@@ -1,5 +1,5 @@
 ---
-title: Font.Ligatures Property (Word)
+title: Font.Ligatures property (Word)
 keywords: vbawd10.chm156369070
 f1_keywords:
 - vbawd10.chm156369070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Ligatures Property (Word)
+# Font.Ligatures property (Word)
 
 Returns or sets the ligatures setting for the specified  **Font** object. Read/write[WdLigatures](Word.WdLigatures.md).
 

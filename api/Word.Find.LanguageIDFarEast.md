@@ -1,5 +1,5 @@
 ---
-title: Find.LanguageIDFarEast Property (Word)
+title: Find.LanguageIDFarEast property (Word)
 keywords: vbawd10.chm162529309
 f1_keywords:
 - vbawd10.chm162529309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.LanguageIDFarEast Property (Word)
+# Find.LanguageIDFarEast property (Word)
 
 Returns or sets an East Asian language for the specified object. Read/write  **[WdLanguageID](Word.WdLanguageID.md)** .
 

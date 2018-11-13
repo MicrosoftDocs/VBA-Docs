@@ -1,5 +1,5 @@
 ---
-title: WdSpecialPane Enumeration (Word)
+title: WdSpecialPane enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSpecialPane
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSpecialPane Enumeration (Word)
+# WdSpecialPane enumeration (Word)
 
 Specifies an item to display in the active window pane.
 

@@ -334,18 +334,18 @@ The following tables summarize the new VBA language updates for Office 2016.
 
 |**Name**|**Description**|
 |:-----|:-----|
-|**[ChartGroup.BinsCountValue Property (Word)](../../api/Word.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write  **Long**.|
-|**[ChartGroup.BinsOverflowEnabled Property (Word)](../../api/Word.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the [BinsOverflowValue](../../api/Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.|
-|**[ChartGroup.BinsOverflowValue Property (Word)](../../api/Word.chartgroup.binsoverflowvalue.md)**|If an [BinsOverflowEnabled](../../api/Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
-|**[ChartGroup.BinsType Property (Word)](../../api/Word.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](../../api/Word.xlbinstype.md).|
-|**[ChartGroup.BinsUnderflowEnabled Property (Word)](../../api/Word.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [BinsUnderflowValue](../../api/Word.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.|
-|**[ChartGroup.BinsUnderflowValue Property (Word)](../../api/Word.chartgroup.binsunderflowvalue.md)**|If an [BinsUnderflowEnabled](../../api/Word.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.|
-|**[ChartGroup.BinWidthValue Property (Word)](../../api/Word.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write  **Double**.|
+|**[ChartGroup.BinsCountValue property (Word)](../../api/Word.chartgroup.binscountvalue.md)**|Specifies the number of bins in the histogram chart. Read/write  **Long**.|
+|**[ChartGroup.BinsOverflowEnabled property (Word)](../../api/Word.chartgroup.binsoverflowenabled.md)**|Specifies whether a bin for values above the [BinsOverflowValue](../../api/Excel.chartgroup.binsoverflowvalue.md) is enabled. Read/write **Boolean**.|
+|**[ChartGroup.BinsOverflowValue property (Word)](../../api/Word.chartgroup.binsoverflowvalue.md)**|If an [BinsOverflowEnabled](../../api/Excel.chartgroup.binsoverflowenabled.md) is **True**, specifies the value above which an overflow bin is displayed. Read/write **Double**.|
+|**[ChartGroup.BinsType property (Word)](../../api/Word.chartgroup.binstype.md)**|Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](../../api/Word.xlbinstype.md).|
+|**[ChartGroup.BinsUnderflowEnabled property (Word)](../../api/Word.chartgroup.binsunderflowenabled.md)**|Specifies whether a bin for values below the [BinsUnderflowValue](../../api/Word.chartgroup.binsunderflowvalue.md) is enabled. Read/write **Boolean**.|
+|**[ChartGroup.BinsUnderflowValue property (Word)](../../api/Word.chartgroup.binsunderflowvalue.md)**|If an [BinsUnderflowEnabled](../../api/Word.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write **Double**.|
+|**[ChartGroup.BinWidthValue property (Word)](../../api/Word.chartgroup.binwidthvalue.md)**|Specifies the number of points in each range. Read/write  **Double**.|
 |**[CoAuthUpdates Object (Word)](../../api/Word.coauthupdates.md)**|A collection of [CoAuthUpdate](../../api/Word.CoAuthUpdate.md) objects that represent the updates that were merged into the document at the last explicit save.|
-|**[Options.UseLocalUserInfo Property (Word)](../../api/Word.options.uselocaluserinfo.md)**||
-|**[Point.IsTotal Property (Word)](../../api/Word.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
-|**[Series.ParentDataLabelOption Property (Word)](../../api/Word.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](../../api/Word.xlparentdatalabeloptions.md).|
-|**[Series.QuartileCalculationInclusiveMedian Property (Word)](../../api/Word.series.quartilecalculationinclusivemedian.md)**|**True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.|
-|**[XlBinsType Enumeration (Word)](../../api/Word.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Word.chartgroup.binstype.md) property.|
-|**[XlParentDataLabelOptions Enumeration (Word)](../../api/Word.xlparentdatalabeloptions.md)**|Constants passed to and returned by the  **Series.ParentDataLabelOption** property.|
+|**[Options.UseLocalUserInfo property (Word)](../../api/Word.options.uselocaluserinfo.md)**||
+|**[Point.IsTotal property (Word)](../../api/Word.point.istotal.md)**|**True** if the point represents a total. Read/write **Boolean**.|
+|**[Series.ParentDataLabelOption property (Word)](../../api/Word.series.parentdatalabeloption.md)**|Specifies the parent data label option (banner, overlapping, or none) for the specified series within the chart group. Read/write [XLParentDataLabelOptions](../../api/Word.xlparentdatalabeloptions.md).|
+|**[Series.QuartileCalculationInclusiveMedian property (Word)](../../api/Word.series.quartilecalculationinclusivemedian.md)**|**True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.|
+|**[XlBinsType enumeration (Word)](../../api/Word.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Word.chartgroup.binstype.md) property.|
+|**[XlParentDataLabelOptions enumeration (Word)](../../api/Word.xlparentdatalabeloptions.md)**|Constants passed to and returned by the  **Series.ParentDataLabelOption** property.|
 

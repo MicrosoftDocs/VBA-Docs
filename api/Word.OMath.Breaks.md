@@ -1,5 +1,5 @@
 ---
-title: OMath.Breaks Property (Word)
+title: OMath.Breaks property (Word)
 keywords: vbawd10.chm176357490
 f1_keywords:
 - vbawd10.chm176357490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Breaks Property (Word)
+# OMath.Breaks property (Word)
 
 Returns an  **[OMathBreaks](Word.OMathBreaks.md)** collection that represents the line breaks in an equation. Read-only.
 

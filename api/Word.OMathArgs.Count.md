@@ -1,5 +1,5 @@
 ---
-title: OMathArgs.Count Property (Word)
+title: OMathArgs.Count property (Word)
 keywords: vbawd10.chm156958823
 f1_keywords:
 - vbawd10.chm156958823
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathArgs.Count Property (Word)
+# OMathArgs.Count property (Word)
 
 Returns the number of items in the  **OMathArgs** collection. Read-only **Long** .
 

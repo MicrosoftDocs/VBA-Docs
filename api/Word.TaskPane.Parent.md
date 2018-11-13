@@ -1,5 +1,5 @@
 ---
-title: TaskPane.Parent Property (Word)
+title: TaskPane.Parent property (Word)
 keywords: vbawd10.chm81921002
 f1_keywords:
 - vbawd10.chm81921002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPane.Parent Property (Word)
+# TaskPane.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TaskPane** object.
 

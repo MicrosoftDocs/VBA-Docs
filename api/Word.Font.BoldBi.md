@@ -1,5 +1,5 @@
 ---
-title: Font.BoldBi Property (Word)
+title: Font.BoldBi property (Word)
 keywords: vbawd10.chm156369056
 f1_keywords:
 - vbawd10.chm156369056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.BoldBi Property (Word)
+# Font.BoldBi property (Word)
 
  **True** if the font is formatted as bold. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.ActiveRecord Property (Word)
+title: MailMergeDataSource.ActiveRecord property (Word)
 keywords: vbawd10.chm152895495
 f1_keywords:
 - vbawd10.chm152895495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.ActiveRecord Property (Word)
+# MailMergeDataSource.ActiveRecord property (Word)
 
 Returns or sets the active mail merge record. Can be either a valid record number in the query result or one of the  **WdMailMergeActiveRecord** constants.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ID Property (Word)
+title: ShapeRange.ID property (Word)
 keywords: vbawd10.chm162857099
 f1_keywords:
 - vbawd10.chm162857099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ID Property (Word)
+# ShapeRange.ID property (Word)
 
 Returns the identification type for the range of shapes. Read-only  **Long** .
 

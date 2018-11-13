@@ -1,5 +1,5 @@
 ---
-title: Cells.HeightRule Property (Word)
+title: Cells.HeightRule property (Word)
 keywords: vbawd10.chm155844616
 f1_keywords:
 - vbawd10.chm155844616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.HeightRule Property (Word)
+# Cells.HeightRule property (Word)
 
 Returns or sets a  **WdRowHeightRule** constant that represents the rule for determining the height of the specified cells. Read/write .
 

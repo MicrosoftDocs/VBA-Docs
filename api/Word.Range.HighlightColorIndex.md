@@ -1,5 +1,5 @@
 ---
-title: Range.HighlightColorIndex Property (Word)
+title: Range.HighlightColorIndex property (Word)
 keywords: vbawd10.chm157155629
 f1_keywords:
 - vbawd10.chm157155629
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.HighlightColorIndex Property (Word)
+# Range.HighlightColorIndex property (Word)
 
 Returns or sets the highlight color for the specified range. Read/write  **WdColorIndex** .
 

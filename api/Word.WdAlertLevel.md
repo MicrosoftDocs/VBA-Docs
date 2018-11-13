@@ -1,5 +1,5 @@
 ---
-title: WdAlertLevel Enumeration (Word)
+title: WdAlertLevel enumeration (Word)
 keywords: vbawd10.chm0
 f1_keywords:
 - vbawd10.chm0
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAlertLevel Enumeration (Word)
+# WdAlertLevel enumeration (Word)
 
 Specifies the way certain alerts and messages are handled while a macro is running.
 

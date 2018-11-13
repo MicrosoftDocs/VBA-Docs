@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveProtectedViewWindow Property (Word)
+title: Application.ActiveProtectedViewWindow property (Word)
 keywords: vbawd10.chm158335467
 f1_keywords:
 - vbawd10.chm158335467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveProtectedViewWindow Property (Word)
+# Application.ActiveProtectedViewWindow property (Word)
 
 Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represents the active protected view window. Read-only.
 

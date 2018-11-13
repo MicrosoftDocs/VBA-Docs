@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Orientation Property (Word)
+title: DisplayUnitLabel.Orientation property (Word)
 keywords: vbawd10.chm94568456
 f1_keywords:
 - vbawd10.chm94568456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Orientation Property (Word)
+# DisplayUnitLabel.Orientation property (Word)
 
 Returns or sets the text orientation. Read/write  **Long** .
 

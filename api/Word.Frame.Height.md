@@ -1,5 +1,5 @@
 ---
-title: Frame.Height Property (Word)
+title: Frame.Height property (Word)
 keywords: vbawd10.chm153747460
 f1_keywords:
 - vbawd10.chm153747460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Height Property (Word)
+# Frame.Height property (Word)
 
 Returns or sets a  **Single** that represents the height (in points) of the specified frame. Read/write .
 

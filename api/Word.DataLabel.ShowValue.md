@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowValue Property (Word)
+title: DataLabel.ShowValue property (Word)
 keywords: vbawd10.chm233900008
 f1_keywords:
 - vbawd10.chm233900008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.ShowValue Property (Word)
+# DataLabel.ShowValue property (Word)
 
  **True** to display a specified chart's data label values. **False** to hide the values. Read/write **Boolean** .
 

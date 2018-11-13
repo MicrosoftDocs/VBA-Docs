@@ -1,5 +1,5 @@
 ---
-title: Options.AddControlCharacters Property (Word)
+title: Options.AddControlCharacters property (Word)
 keywords: vbawd10.chm162988439
 f1_keywords:
 - vbawd10.chm162988439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AddControlCharacters Property (Word)
+# Options.AddControlCharacters property (Word)
 
  **True** if Microsoft Word adds bidirectional control characters when cutting and copying text. Read/write **Boolean** .
 

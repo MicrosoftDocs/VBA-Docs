@@ -1,5 +1,5 @@
 ---
-title: Document.XMLSaveThroughXSLT Property (Word)
+title: Document.XMLSaveThroughXSLT property (Word)
 keywords: vbawd10.chm158007771
 f1_keywords:
 - vbawd10.chm158007771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.XMLSaveThroughXSLT Property (Word)
+# Document.XMLSaveThroughXSLT property (Word)
 
 Sets or returns a  **String** that specifies the path and file name for the Extensible Stylesheet Language Transformation (XSLT) to apply when a user saves a document.
 

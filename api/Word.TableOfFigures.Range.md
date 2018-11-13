@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.Range Property (Word)
+title: TableOfFigures.Range property (Word)
 keywords: vbawd10.chm153157640
 f1_keywords:
 - vbawd10.chm153157640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.Range Property (Word)
+# TableOfFigures.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within the specified table of figures.
 

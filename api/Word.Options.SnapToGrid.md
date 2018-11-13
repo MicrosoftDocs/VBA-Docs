@@ -1,5 +1,5 @@
 ---
-title: Options.SnapToGrid Property (Word)
+title: Options.SnapToGrid property (Word)
 keywords: vbawd10.chm162988111
 f1_keywords:
 - vbawd10.chm162988111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SnapToGrid Property (Word)
+# Options.SnapToGrid property (Word)
 
  **True** if AutoShapes or East Asian characters are automatically aligned with an invisible grid when they are drawn, moved, or resized. Read/write **Boolean** .
 

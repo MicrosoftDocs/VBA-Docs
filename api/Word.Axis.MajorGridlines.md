@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorGridlines Property (Word)
+title: Axis.MajorGridlines property (Word)
 keywords: vbawd10.chm113049617
 f1_keywords:
 - vbawd10.chm113049617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorGridlines Property (Word)
+# Axis.MajorGridlines property (Word)
 
 Returns the major gridlines for the specified axis. Read-only  **[Gridlines](Word.GridLines.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.InterpretHighAnsi Property (Word)
+title: Options.InterpretHighAnsi property (Word)
 keywords: vbawd10.chm162988450
 f1_keywords:
 - vbawd10.chm162988450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.InterpretHighAnsi Property (Word)
+# Options.InterpretHighAnsi property (Word)
 
 Returns or sets the high-ANSI text interpretation behavior. Read/write  **WdHighAnsiText** .
 

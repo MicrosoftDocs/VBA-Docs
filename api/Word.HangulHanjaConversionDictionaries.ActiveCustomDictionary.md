@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.ActiveCustomDictionary Property (Word)
+title: HangulHanjaConversionDictionaries.ActiveCustomDictionary property (Word)
 keywords: vbawd10.chm165675011
 f1_keywords:
 - vbawd10.chm165675011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.ActiveCustomDictionary Property (Word)
+# HangulHanjaConversionDictionaries.ActiveCustomDictionary property (Word)
 
 Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents the custom dictionary to which words will be added. Read/write.
 

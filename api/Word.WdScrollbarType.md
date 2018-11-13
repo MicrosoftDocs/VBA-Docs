@@ -1,5 +1,5 @@
 ---
-title: WdScrollbarType Enumeration (Word)
+title: WdScrollbarType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdScrollbarType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdScrollbarType Enumeration (Word)
+# WdScrollbarType enumeration (Word)
 
 Specifies when scroll bars are available for the specified frame when viewing its frames page in a Web browser.
 

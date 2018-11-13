@@ -1,5 +1,5 @@
 ---
-title: Borders.Parent Property (Word)
+title: Borders.Parent property (Word)
 keywords: vbawd10.chm154928106
 f1_keywords:
 - vbawd10.chm154928106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Parent Property (Word)
+# Borders.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Borders** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.Creator Property (Word)
+title: LineNumbering.Creator property (Word)
 keywords: vbawd10.chm158467049
 f1_keywords:
 - vbawd10.chm158467049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.Creator Property (Word)
+# LineNumbering.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

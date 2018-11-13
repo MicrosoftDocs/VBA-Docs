@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropTop Property (Word)
+title: PictureFormat.CropTop property (Word)
 keywords: vbawd10.chm164298858
 f1_keywords:
 - vbawd10.chm164298858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropTop Property (Word)
+# PictureFormat.CropTop property (Word)
 
 Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single** .
 

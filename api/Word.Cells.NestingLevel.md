@@ -1,5 +1,5 @@
 ---
-title: Cells.NestingLevel Property (Word)
+title: Cells.NestingLevel property (Word)
 keywords: vbawd10.chm155844710
 f1_keywords:
 - vbawd10.chm155844710
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.NestingLevel Property (Word)
+# Cells.NestingLevel property (Word)
 
 Returns the nesting level of the specified cells. Read-only  **Long** .
 

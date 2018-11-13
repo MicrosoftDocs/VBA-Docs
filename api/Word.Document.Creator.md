@@ -1,5 +1,5 @@
 ---
-title: Document.Creator Property (Word)
+title: Document.Creator property (Word)
 keywords: vbawd10.chm158008297
 f1_keywords:
 - vbawd10.chm158008297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Creator Property (Word)
+# Document.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Line.Range Property (Word)
+title: Line.Range property (Word)
 keywords: vbawd10.chm49610759
 f1_keywords:
 - vbawd10.chm49610759
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Range Property (Word)
+# Line.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within a line.
 

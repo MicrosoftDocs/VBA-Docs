@@ -1,5 +1,5 @@
 ---
-title: Style.Locked Property (Word)
+title: Style.Locked property (Word)
 keywords: vbawd10.chm153878550
 f1_keywords:
 - vbawd10.chm153878550
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Locked Property (Word)
+# Style.Locked property (Word)
 
  **True** if a style cannot be changed or edited. Read/write **Boolean** .
 

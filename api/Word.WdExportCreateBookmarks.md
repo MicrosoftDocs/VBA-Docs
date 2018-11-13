@@ -1,5 +1,5 @@
 ---
-title: WdExportCreateBookmarks Enumeration (Word)
+title: WdExportCreateBookmarks enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportCreateBookmarks
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdExportCreateBookmarks Enumeration (Word)
+# WdExportCreateBookmarks enumeration (Word)
 
 Specifies what bookmarks to include when exporting a document.
 

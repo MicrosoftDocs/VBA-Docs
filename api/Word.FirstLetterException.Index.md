@@ -1,5 +1,5 @@
 ---
-title: FirstLetterException.Index Property (Word)
+title: FirstLetterException.Index property (Word)
 keywords: vbawd10.chm155516929
 f1_keywords:
 - vbawd10.chm155516929
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterException.Index Property (Word)
+# FirstLetterException.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

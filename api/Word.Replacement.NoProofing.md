@@ -1,5 +1,5 @@
 ---
-title: Replacement.NoProofing Property (Word)
+title: Replacement.NoProofing property (Word)
 keywords: vbawd10.chm162594837
 f1_keywords:
 - vbawd10.chm162594837
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.NoProofing Property (Word)
+# Replacement.NoProofing property (Word)
 
  **True** if Microsoft Word replaces text that the spelling and grammar checker ignores. Read/write **Long** .
 

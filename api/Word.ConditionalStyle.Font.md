@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.Font Property (Word)
+title: ConditionalStyle.Font property (Word)
 keywords: vbawd10.chm91029514
 f1_keywords:
 - vbawd10.chm91029514
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.Font Property (Word)
+# ConditionalStyle.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write.
 

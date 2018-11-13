@@ -1,5 +1,5 @@
 ---
-title: WdRevisedPropertiesMark Enumeration (Word)
+title: WdRevisedPropertiesMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisedPropertiesMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisedPropertiesMark Enumeration (Word)
+# WdRevisedPropertiesMark enumeration (Word)
 
 Specifies how revisions are displayed when change tracking is enabled.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Permission Property (Word)
+title: Document.Permission property (Word)
 keywords: vbawd10.chm158007749
 f1_keywords:
 - vbawd10.chm158007749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Permission Property (Word)
+# Document.Permission property (Word)
 
 Returns a  **Permission** object that represents the permission settings in the specified document.
 

@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdate.Parent Property (Word)
+title: CoAuthUpdate.Parent property (Word)
 keywords: vbawd10.chm247792618
 f1_keywords:
 - vbawd10.chm247792618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdate.Parent Property (Word)
+# CoAuthUpdate.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CoAuthUpdate** object.
 

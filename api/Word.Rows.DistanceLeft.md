@@ -1,5 +1,5 @@
 ---
-title: Rows.DistanceLeft Property (Word)
+title: Rows.DistanceLeft property (Word)
 keywords: vbawd10.chm155975700
 f1_keywords:
 - vbawd10.chm155975700
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.DistanceLeft Property (Word)
+# Rows.DistanceLeft property (Word)
 
 Returns or sets the distance (in points) between the document text and the left edge of the specified table. Read/write  **Single** .
 

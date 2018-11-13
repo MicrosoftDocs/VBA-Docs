@@ -1,5 +1,5 @@
 ---
-title: WdRevisedLinesMark Enumeration (Word)
+title: WdRevisedLinesMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisedLinesMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisedLinesMark Enumeration (Word)
+# WdRevisedLinesMark enumeration (Word)
 
 Specifies where revisions are displayed when change tracking is enabled.
 

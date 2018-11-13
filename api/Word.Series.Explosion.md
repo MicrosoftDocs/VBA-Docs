@@ -1,5 +1,5 @@
 ---
-title: Series.Explosion Property (Word)
+title: Series.Explosion property (Word)
 keywords: vbawd10.chm123732150
 f1_keywords:
 - vbawd10.chm123732150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Explosion Property (Word)
+# Series.Explosion property (Word)
 
 Returns or sets the explosion value for a pie-chart or doughnut-chart slice. Read/write  **Long** .
 

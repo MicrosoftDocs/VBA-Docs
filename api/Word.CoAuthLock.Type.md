@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Type Property (Word)
+title: CoAuthLock.Type property (Word)
 keywords: vbawd10.chm260046849
 f1_keywords:
 - vbawd10.chm260046849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Type Property (Word)
+# CoAuthLock.Type property (Word)
 
 Returns a [WdLockType](Word.WdLockType.md) constant that specifies the lock type. Read-only.
 

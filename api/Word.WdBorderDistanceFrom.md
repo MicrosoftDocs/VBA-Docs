@@ -1,5 +1,5 @@
 ---
-title: WdBorderDistanceFrom Enumeration (Word)
+title: WdBorderDistanceFrom enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBorderDistanceFrom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBorderDistanceFrom Enumeration (Word)
+# WdBorderDistanceFrom enumeration (Word)
 
 Specifies whether a page border is measured from the edge of the page or from the text it surrounds.
 

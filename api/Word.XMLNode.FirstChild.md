@@ -1,5 +1,5 @@
 ---
-title: XMLNode.FirstChild Property (Word)
+title: XMLNode.FirstChild property (Word)
 keywords: vbawd10.chm37748745
 f1_keywords:
 - vbawd10.chm37748745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.FirstChild Property (Word)
+# XMLNode.FirstChild property (Word)
 
 Returns a  **DiagramNode** object that represents the first child node of a parent node. Read-only.
 

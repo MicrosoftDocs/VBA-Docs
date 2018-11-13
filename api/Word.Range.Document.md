@@ -1,5 +1,5 @@
 ---
-title: Range.Document Property (Word)
+title: Range.Document property (Word)
 keywords: vbawd10.chm157155737
 f1_keywords:
 - vbawd10.chm157155737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Document Property (Word)
+# Range.Document property (Word)
 
 Returns a  **[Document](Word.Document.md)** object associated with the specified range. Read-only.
 

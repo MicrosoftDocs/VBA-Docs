@@ -1,5 +1,5 @@
 ---
-title: Options.DiacriticColorVal Property (Word)
+title: Options.DiacriticColorVal property (Word)
 keywords: vbawd10.chm162988453
 f1_keywords:
 - vbawd10.chm162988453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DiacriticColorVal Property (Word)
+# Options.DiacriticColorVal property (Word)
 
 Returns or sets the 24-bit color to be used for diacritics in a right-to-left language document. Read/write.
 

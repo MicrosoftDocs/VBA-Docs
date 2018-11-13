@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayPasteOptions Property (Word)
+title: Options.DisplayPasteOptions property (Word)
 keywords: vbawd10.chm162988471
 f1_keywords:
 - vbawd10.chm162988471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DisplayPasteOptions Property (Word)
+# Options.DisplayPasteOptions property (Word)
 
  **True** for Microsoft Word to display the **Paste Options** button, which displays directly under newly pasted text. Read/write **Boolean** .
 

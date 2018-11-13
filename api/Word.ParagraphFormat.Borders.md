@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Borders Property (Word)
+title: ParagraphFormat.Borders property (Word)
 keywords: vbawd10.chm156435532
 f1_keywords:
 - vbawd10.chm156435532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Borders Property (Word)
+# ParagraphFormat.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

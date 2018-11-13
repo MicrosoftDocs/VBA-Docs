@@ -1,5 +1,5 @@
 ---
-title: Range.Words Property (Word)
+title: Range.Words property (Word)
 keywords: vbawd10.chm157155379
 f1_keywords:
 - vbawd10.chm157155379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Words Property (Word)
+# Range.Words property (Word)
 
 Returns a  **Words** collection that represents all the words in a range. Read-only.
 

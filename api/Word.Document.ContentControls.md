@@ -1,5 +1,5 @@
 ---
-title: Document.ContentControls Property (Word)
+title: Document.ContentControls property (Word)
 keywords: vbawd10.chm158007804
 f1_keywords:
 - vbawd10.chm158007804
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ContentControls Property (Word)
+# Document.ContentControls property (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.ID Property (Word)
+title: ContentControl.ID property (Word)
 keywords: vbawd10.chm266534930
 f1_keywords:
 - vbawd10.chm266534930
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.ID Property (Word)
+# ContentControl.ID property (Word)
 
 Returns a  **String** that represents the identification for a content control. Read-only.
 

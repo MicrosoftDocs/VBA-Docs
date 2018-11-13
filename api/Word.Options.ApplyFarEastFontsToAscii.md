@@ -1,5 +1,5 @@
 ---
-title: Options.ApplyFarEastFontsToAscii Property (Word)
+title: Options.ApplyFarEastFontsToAscii property (Word)
 keywords: vbawd10.chm162988359
 f1_keywords:
 - vbawd10.chm162988359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ApplyFarEastFontsToAscii Property (Word)
+# Options.ApplyFarEastFontsToAscii property (Word)
 
  **True** if Microsoft Word applies East Asian fonts to Latin text. Read/write **Boolean** .
 

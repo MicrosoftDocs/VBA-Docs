@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Application Property (Word)
+title: Conflicts.Application property (Word)
 keywords: vbawd10.chm174392296
 f1_keywords:
 - vbawd10.chm174392296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.Application Property (Word)
+# Conflicts.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

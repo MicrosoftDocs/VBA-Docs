@@ -1,5 +1,5 @@
 ---
-title: Task.Visible Property (Word)
+title: Task.Visible property (Word)
 keywords: vbawd10.chm159514630
 f1_keywords:
 - vbawd10.chm159514630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Visible Property (Word)
+# Task.Visible property (Word)
 
  **True** if the specified object is visible. Read/write **Boolean** .
 

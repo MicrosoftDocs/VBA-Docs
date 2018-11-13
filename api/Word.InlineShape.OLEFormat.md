@@ -1,5 +1,5 @@
 ---
-title: InlineShape.OLEFormat Property (Word)
+title: InlineShape.OLEFormat property (Word)
 keywords: vbawd10.chm162004997
 f1_keywords:
 - vbawd10.chm162004997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.OLEFormat Property (Word)
+# InlineShape.OLEFormat property (Word)
 
 Returns an  **OLEFormat** object that represents the OLE characteristics (other than linking) for the specified inline shape. Read-only.
 

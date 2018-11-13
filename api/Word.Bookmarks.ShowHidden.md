@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.ShowHidden Property (Word)
+title: Bookmarks.ShowHidden property (Word)
 keywords: vbawd10.chm157745156
 f1_keywords:
 - vbawd10.chm157745156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.ShowHidden Property (Word)
+# Bookmarks.ShowHidden property (Word)
 
  **True** if hidden bookmarks are included in the **Bookmarks** collection. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Footnote.Range Property (Word)
+title: Footnote.Range property (Word)
 keywords: vbawd10.chm155123716
 f1_keywords:
 - vbawd10.chm155123716
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote.Range Property (Word)
+# Footnote.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that's contained within the footnote.
 

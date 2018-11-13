@@ -1,5 +1,5 @@
 ---
-title: OMathFunc.FName Property (Word)
+title: OMathFunc.FName property (Word)
 keywords: vbawd10.chm182386791
 f1_keywords:
 - vbawd10.chm182386791
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunc.FName Property (Word)
+# OMathFunc.FName property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the name of a mathematical function, such as sin or cos. Read-only.
 

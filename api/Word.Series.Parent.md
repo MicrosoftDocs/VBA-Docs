@@ -1,5 +1,5 @@
 ---
-title: Series.Parent Property (Word)
+title: Series.Parent property (Word)
 keywords: vbawd10.chm123732118
 f1_keywords:
 - vbawd10.chm123732118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Parent Property (Word)
+# Series.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

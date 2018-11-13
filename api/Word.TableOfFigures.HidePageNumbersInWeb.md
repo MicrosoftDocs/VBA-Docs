@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.HidePageNumbersInWeb Property (Word)
+title: TableOfFigures.HidePageNumbersInWeb property (Word)
 keywords: vbawd10.chm153157646
 f1_keywords:
 - vbawd10.chm153157646
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.HidePageNumbersInWeb Property (Word)
+# TableOfFigures.HidePageNumbersInWeb property (Word)
 
 Returns or sets whether page numbers in a table of contents or a table of figures should be hidden when publishing to the Web. Read/write  **Boolean** .
 

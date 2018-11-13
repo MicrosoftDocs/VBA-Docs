@@ -1,5 +1,5 @@
 ---
-title: Border.Color Property (Word)
+title: Border.Color property (Word)
 keywords: vbawd10.chm154861575
 f1_keywords:
 - vbawd10.chm154861575
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.Color Property (Word)
+# Border.Color property (Word)
 
 Returns or sets the 24-bit color for the specified  **Border** object.
 

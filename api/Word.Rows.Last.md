@@ -1,5 +1,5 @@
 ---
-title: Rows.Last Property (Word)
+title: Rows.Last property (Word)
 keywords: vbawd10.chm155975691
 f1_keywords:
 - vbawd10.chm155975691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Last Property (Word)
+# Rows.Last property (Word)
 
 Returns the last item in the  **Rows** collection as a **Row** object.
 

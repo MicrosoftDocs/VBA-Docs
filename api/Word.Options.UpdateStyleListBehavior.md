@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateStyleListBehavior Property (Word)
+title: Options.UpdateStyleListBehavior property (Word)
 keywords: vbawd10.chm162988527
 f1_keywords:
 - vbawd10.chm162988527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UpdateStyleListBehavior Property (Word)
+# Options.UpdateStyleListBehavior property (Word)
 
 Returns or sets a [WdUpdateStyleListBehavior](Word.WdUpdateStyleListBehavior.md) constant that specifies the behavior Word should take when updating a style to match a selection that contains numbering or bullets. Read/write.
 

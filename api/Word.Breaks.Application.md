@@ -1,5 +1,5 @@
 ---
-title: Breaks.Application Property (Word)
+title: Breaks.Application property (Word)
 keywords: vbawd10.chm50922472
 f1_keywords:
 - vbawd10.chm50922472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Breaks.Application Property (Word)
+# Breaks.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

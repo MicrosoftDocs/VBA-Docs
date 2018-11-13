@@ -1,5 +1,5 @@
 ---
-title: Words.Parent Property (Word)
+title: Words.Parent property (Word)
 keywords: vbawd10.chm157025258
 f1_keywords:
 - vbawd10.chm157025258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words.Parent Property (Word)
+# Words.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Words** object.
 

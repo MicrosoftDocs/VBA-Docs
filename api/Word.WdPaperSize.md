@@ -1,5 +1,5 @@
 ---
-title: WdPaperSize Enumeration (Word)
+title: WdPaperSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPaperSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPaperSize Enumeration (Word)
+# WdPaperSize enumeration (Word)
 
 Specifies a paper size.
 

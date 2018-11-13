@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Position Property (Word)
+title: PlotArea.Position property (Word)
 keywords: vbawd10.chm53479047
 f1_keywords:
 - vbawd10.chm53479047
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Position Property (Word)
+# PlotArea.Position property (Word)
 
 Returns or sets the position of the plot area on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)** .
 

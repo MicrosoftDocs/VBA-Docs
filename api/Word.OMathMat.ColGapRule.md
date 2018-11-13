@@ -1,5 +1,5 @@
 ---
-title: OMathMat.ColGapRule Property (Word)
+title: OMathMat.ColGapRule property (Word)
 keywords: vbawd10.chm176029807
 f1_keywords:
 - vbawd10.chm176029807
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.ColGapRule Property (Word)
+# OMathMat.ColGapRule property (Word)
 
 Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant that represents the spacing rule for the space that appears between columns in a matrix. Read/write.
 

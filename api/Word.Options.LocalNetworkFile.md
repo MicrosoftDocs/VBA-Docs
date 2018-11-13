@@ -1,5 +1,5 @@
 ---
-title: Options.LocalNetworkFile Property (Word)
+title: Options.LocalNetworkFile property (Word)
 keywords: vbawd10.chm162988456
 f1_keywords:
 - vbawd10.chm162988456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.LocalNetworkFile Property (Word)
+# Options.LocalNetworkFile property (Word)
 
  **True** if Microsoft Word creates a local copy of a file on the user's computer when editing a file stored on a network server. Read/write **Boolean** .
 

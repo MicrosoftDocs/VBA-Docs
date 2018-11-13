@@ -1,5 +1,5 @@
 ---
-title: Comments.Count Property (Word)
+title: Comments.Count property (Word)
 keywords: vbawd10.chm155189250
 f1_keywords:
 - vbawd10.chm155189250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Count Property (Word)
+# Comments.Count property (Word)
 
 Returns a  **Long** that represents the number of items in the **Comments** collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: View.ColumnWidth Property (Word)
+title: View.ColumnWidth property (Word)
 keywords: vbawd10.chm161808448
 f1_keywords:
 - vbawd10.chm161808448
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ColumnWidth Property (Word)
+# View.ColumnWidth property (Word)
 
 Returns or gets a constant that determines the column width in reading mode. Read-write [WdColumnWidth](Word.wdcolumnwidth.md)
 

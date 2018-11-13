@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Top Property (Word)
+title: ProtectedViewWindow.Top property (Word)
 keywords: vbawd10.chm231735299
 f1_keywords:
 - vbawd10.chm231735299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Top Property (Word)
+# ProtectedViewWindow.Top property (Word)
 
 Returns or sets the vertical position, in points, of the specified protected view window. Read/write  **Long**
 

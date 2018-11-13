@@ -1,5 +1,5 @@
 ---
-title: Range.Shading Property (Word)
+title: Range.Shading property (Word)
 keywords: vbawd10.chm157155389
 f1_keywords:
 - vbawd10.chm157155389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Shading Property (Word)
+# Range.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadStyle Property (Word)
+title: LineFormat.BeginArrowheadStyle property (Word)
 keywords: vbawd10.chm164233318
 f1_keywords:
 - vbawd10.chm164233318
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.BeginArrowheadStyle Property (Word)
+# LineFormat.BeginArrowheadStyle property (Word)
 
 Returns or sets the style of the arrowhead at the beginning of the specified line. Read/write  **MsoArrowheadStyle** .
 

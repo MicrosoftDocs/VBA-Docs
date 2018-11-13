@@ -1,5 +1,5 @@
 ---
-title: UpBars.Name Property (Word)
+title: UpBars.Name property (Word)
 keywords: vbawd10.chm180945006
 f1_keywords:
 - vbawd10.chm180945006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Name Property (Word)
+# UpBars.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

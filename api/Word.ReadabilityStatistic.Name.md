@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic.Name Property (Word)
+title: ReadabilityStatistic.Name property (Word)
 keywords: vbawd10.chm162463744
 f1_keywords:
 - vbawd10.chm162463744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistic.Name Property (Word)
+# ReadabilityStatistic.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

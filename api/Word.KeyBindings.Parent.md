@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.Parent Property (Word)
+title: KeyBindings.Parent property (Word)
 keywords: vbawd10.chm160826346
 f1_keywords:
 - vbawd10.chm160826346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBindings.Parent Property (Word)
+# KeyBindings.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **KeyBindings** object.
 

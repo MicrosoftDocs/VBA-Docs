@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Parent Property (Word)
+title: ChartFont.Parent property (Word)
 keywords: vbawd10.chm255918230
 f1_keywords:
 - vbawd10.chm255918230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Parent Property (Word)
+# ChartFont.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

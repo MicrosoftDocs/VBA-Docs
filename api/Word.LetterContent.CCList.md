@@ -1,5 +1,5 @@
 ---
-title: LetterContent.CCList Property (Word)
+title: LetterContent.CCList property (Word)
 keywords: vbawd10.chm161546358
 f1_keywords:
 - vbawd10.chm161546358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.CCList Property (Word)
+# LetterContent.CCList property (Word)
 
 Returns or sets the carbon copy (CC) recipients for a letter created by the Letter Wizard. Read/write  **String** .
 

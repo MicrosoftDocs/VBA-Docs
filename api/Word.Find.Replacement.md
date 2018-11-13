@@ -1,5 +1,5 @@
 ---
-title: Find.Replacement Property (Word)
+title: Find.Replacement property (Word)
 keywords: vbawd10.chm162529305
 f1_keywords:
 - vbawd10.chm162529305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Replacement Property (Word)
+# Find.Replacement property (Word)
 
 Returns a  **[Replacement](Word.Replacement.md)** object that contains the criteria for a replace operation.
 

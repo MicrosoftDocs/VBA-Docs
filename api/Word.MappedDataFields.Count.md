@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields.Count Property (Word)
+title: MappedDataFields.Count property (Word)
 keywords: vbawd10.chm135528449
 f1_keywords:
 - vbawd10.chm135528449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields.Count Property (Word)
+# MappedDataFields.Count property (Word)
 
 Returns a  **Long** that represents the number of mapped data fields in the collection. Read-only.
 

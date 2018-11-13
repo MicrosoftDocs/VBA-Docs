@@ -1,5 +1,5 @@
 ---
-title: OMathGroupChar.Char Property (Word)
+title: OMathGroupChar.Char property (Word)
 keywords: vbawd10.chm213123176
 f1_keywords:
 - vbawd10.chm213123176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathGroupChar.Char Property (Word)
+# OMathGroupChar.Char property (Word)
 
 Returns or sets an  **Integer** that represents the character placed above or below text in a group character object. Read/write.
 

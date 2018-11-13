@@ -1,5 +1,5 @@
 ---
-title: FormField.TextInput Property (Word)
+title: FormField.TextInput property (Word)
 keywords: vbawd10.chm153616395
 f1_keywords:
 - vbawd10.chm153616395
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.TextInput Property (Word)
+# FormField.TextInput property (Word)
 
 Returns a  **[TextInput](Word.TextInput.md)** object that represents a text form field.
 

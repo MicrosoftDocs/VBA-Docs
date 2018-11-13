@@ -1,5 +1,5 @@
 ---
-title: ContentControl.PlaceholderText Property (Word)
+title: ContentControl.PlaceholderText property (Word)
 keywords: vbawd10.chm266534922
 f1_keywords:
 - vbawd10.chm266534922
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.PlaceholderText Property (Word)
+# ContentControl.PlaceholderText property (Word)
 
 Returns a  **BuildingBlock** object that represents the placeholder text for a content control. Read-only.
 

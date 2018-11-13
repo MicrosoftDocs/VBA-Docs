@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat.Type Property (Word)
+title: ChartColorFormat.Type property (Word)
 keywords: vbawd10.chm12058732
 f1_keywords:
 - vbawd10.chm12058732
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartColorFormat.Type Property (Word)
+# ChartColorFormat.Type property (Word)
 
 Returns the color format type. Read-only  **Long** .
 

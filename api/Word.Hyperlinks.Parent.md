@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Parent Property (Word)
+title: Hyperlinks.Parent property (Word)
 keywords: vbawd10.chm161219562
 f1_keywords:
 - vbawd10.chm161219562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Parent Property (Word)
+# Hyperlinks.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Hyperlinks** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Creator Property (Word)
+title: Endnotes.Creator property (Word)
 keywords: vbawd10.chm155255785
 f1_keywords:
 - vbawd10.chm155255785
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Creator Property (Word)
+# Endnotes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

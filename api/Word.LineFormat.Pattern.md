@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (Word)
+title: LineFormat.Pattern property (Word)
 keywords: vbawd10.chm164233325
 f1_keywords:
 - vbawd10.chm164233325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Pattern Property (Word)
+# LineFormat.Pattern property (Word)
 
 Returns or sets a value that represents the pattern applied to the specified line. Read/write  **MsoPatternType** .
 

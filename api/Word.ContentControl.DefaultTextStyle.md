@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DefaultTextStyle Property (Word)
+title: ContentControl.DefaultTextStyle property (Word)
 keywords: vbawd10.chm266534937
 f1_keywords:
 - vbawd10.chm266534937
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.DefaultTextStyle Property (Word)
+# ContentControl.DefaultTextStyle property (Word)
 
 Returns or sets a  **Variant** that represents the name of the character style to use to format text in a text content control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Count Property (Word)
+title: FirstLetterExceptions.Count property (Word)
 keywords: vbawd10.chm155582465
 f1_keywords:
 - vbawd10.chm155582465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions.Count Property (Word)
+# FirstLetterExceptions.Count property (Word)
 
 Returns a  **Long** that represents the number of first letter exceptions in the collection. Read-only.
 

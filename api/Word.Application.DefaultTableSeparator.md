@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultTableSeparator Property (Word)
+title: Application.DefaultTableSeparator property (Word)
 keywords: vbawd10.chm158335081
 f1_keywords:
 - vbawd10.chm158335081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultTableSeparator Property (Word)
+# Application.DefaultTableSeparator property (Word)
 
 Returns or sets the single character used to separate text into cells when text is converted to a table. Read/write  **String** .
 

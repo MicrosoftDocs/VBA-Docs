@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingSoftness Property (Word)
+title: ThreeDFormat.PresetLightingSoftness property (Word)
 keywords: vbawd10.chm164626538
 f1_keywords:
 - vbawd10.chm164626538
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLightingSoftness Property (Word)
+# ThreeDFormat.PresetLightingSoftness property (Word)
 
 Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness** .
 

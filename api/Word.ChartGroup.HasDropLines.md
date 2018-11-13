@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasDropLines Property (Word)
+title: ChartGroup.HasDropLines property (Word)
 keywords: vbawd10.chm263454730
 f1_keywords:
 - vbawd10.chm263454730
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasDropLines Property (Word)
+# ChartGroup.HasDropLines property (Word)
 
  **True** if the line chart or area chart has drop lines. Read/write **Boolean** .
 

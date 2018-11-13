@@ -1,5 +1,5 @@
 ---
-title: Point.SecondaryPlot Property (Word)
+title: Point.SecondaryPlot property (Word)
 keywords: vbawd10.chm262145662
 f1_keywords:
 - vbawd10.chm262145662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.SecondaryPlot Property (Word)
+# Point.SecondaryPlot property (Word)
 
  **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean** .
 

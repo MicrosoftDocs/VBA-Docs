@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyTables Property (Word)
+title: Options.AutoFormatAsYouTypeApplyTables property (Word)
 keywords: vbawd10.chm162988322
 f1_keywords:
 - vbawd10.chm162988322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyTables Property (Word)
+# Options.AutoFormatAsYouTypeApplyTables property (Word)
 
  **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. The plus signs become the column borders, and the hyphens become the column widths. Read/write **Boolean** .
 

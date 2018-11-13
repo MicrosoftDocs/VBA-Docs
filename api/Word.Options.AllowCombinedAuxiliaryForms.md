@@ -1,5 +1,5 @@
 ---
-title: Options.AllowCombinedAuxiliaryForms Property (Word)
+title: Options.AllowCombinedAuxiliaryForms property (Word)
 keywords: vbawd10.chm162988371
 f1_keywords:
 - vbawd10.chm162988371
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowCombinedAuxiliaryForms Property (Word)
+# Options.AllowCombinedAuxiliaryForms property (Word)
 
  **True** if Microsoft Word ignores auxiliary verb forms when checking spelling in a Korean language document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdNumberType Enumeration (Word)
+title: WdNumberType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNumberType Enumeration (Word)
+# WdNumberType enumeration (Word)
 
 Specifies the type of number.
 

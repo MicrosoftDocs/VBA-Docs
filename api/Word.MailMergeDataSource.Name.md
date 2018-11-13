@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.Name Property (Word)
+title: MailMergeDataSource.Name property (Word)
 keywords: vbawd10.chm152895489
 f1_keywords:
 - vbawd10.chm152895489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.Name Property (Word)
+# MailMergeDataSource.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

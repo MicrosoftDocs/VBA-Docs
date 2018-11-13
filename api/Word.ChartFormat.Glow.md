@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Glow Property (Word)
+title: ChartFormat.Glow property (Word)
 keywords: vbawd10.chm203030529
 f1_keywords:
 - vbawd10.chm203030529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Glow Property (Word)
+# ChartFormat.Glow property (Word)
 
 Returns the glow formatting properties for the chart element. Read-only  **[GlowFormat](Word.GlowFormat.md)** .
 

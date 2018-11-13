@@ -1,5 +1,5 @@
 ---
-title: InlineShape.HasSmartArt Property (Word)
+title: InlineShape.HasSmartArt property (Word)
 keywords: vbawd10.chm162005147
 f1_keywords:
 - vbawd10.chm162005147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.HasSmartArt Property (Word)
+# InlineShape.HasSmartArt property (Word)
 
 Returns  **True** if there is a SmartArt diagram present on the shape. Read-only.
 

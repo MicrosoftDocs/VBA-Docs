@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SavePictureWithDocument Property (Word)
+title: LinkFormat.SavePictureWithDocument property (Word)
 keywords: vbawd10.chm154206230
 f1_keywords:
 - vbawd10.chm154206230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.SavePictureWithDocument Property (Word)
+# LinkFormat.SavePictureWithDocument property (Word)
 
  **True** if the specified picture is saved with the document. Read/write **Boolean** .
 

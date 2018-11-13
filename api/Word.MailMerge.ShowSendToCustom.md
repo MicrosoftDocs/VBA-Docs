@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowSendToCustom Property (Word)
+title: MailMerge.ShowSendToCustom property (Word)
 keywords: vbawd10.chm153092109
 f1_keywords:
 - vbawd10.chm153092109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.ShowSendToCustom Property (Word)
+# MailMerge.ShowSendToCustom property (Word)
 
 Returns or sets a  **String** corresponding to the caption on a custom button on the Complete the merge step (step six) of the Mail Merge Wizard. Read/write.
 

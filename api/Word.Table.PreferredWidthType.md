@@ -1,5 +1,5 @@
 ---
-title: Table.PreferredWidthType Property (Word)
+title: Table.PreferredWidthType property (Word)
 keywords: vbawd10.chm156303472
 f1_keywords:
 - vbawd10.chm156303472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.PreferredWidthType Property (Word)
+# Table.PreferredWidthType property (Word)
 
 Returns or sets the preferred unit of measurement to use for the width of the specified table. Read/write  **[WdPreferredWidthType](Word.WdPreferredWidthType.md)** .
 

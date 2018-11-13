@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayLeftScrollBar Property (Word)
+title: Window.DisplayLeftScrollBar property (Word)
 keywords: vbawd10.chm157417506
 f1_keywords:
 - vbawd10.chm157417506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayLeftScrollBar Property (Word)
+# Window.DisplayLeftScrollBar property (Word)
 
  **True** if the vertical scroll bar appears on the left side of the document window. Read/write **Boolean** .
 

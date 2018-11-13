@@ -1,5 +1,5 @@
 ---
-title: Pane.Zooms Property (Word)
+title: Pane.Zooms property (Word)
 keywords: vbawd10.chm157286407
 f1_keywords:
 - vbawd10.chm157286407
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Zooms Property (Word)
+# Pane.Zooms property (Word)
 
 Returns a  **[Zooms](Word.zooms.md)** collection that represents the magnification options for each view (such as normal view, outline view or print layout view).
 

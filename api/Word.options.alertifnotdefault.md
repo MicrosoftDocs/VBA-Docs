@@ -1,5 +1,5 @@
 ---
-title: Options.AlertIfNotDefault Property (Word)
+title: Options.AlertIfNotDefault property (Word)
 keywords: vbawd10.chm162988542
 f1_keywords:
 - vbawd10.chm162988542
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AlertIfNotDefault Property (Word)
+# Options.AlertIfNotDefault property (Word)
 
 Returns or sets a  **Boolean** that is **True** if users are notified if Word is not the default program for viewing and editing documents. Read-write.
 

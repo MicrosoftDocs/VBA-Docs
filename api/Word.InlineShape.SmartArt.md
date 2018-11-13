@@ -1,5 +1,5 @@
 ---
-title: InlineShape.SmartArt Property (Word)
+title: InlineShape.SmartArt property (Word)
 keywords: vbawd10.chm162005148
 f1_keywords:
 - vbawd10.chm162005148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.SmartArt Property (Word)
+# InlineShape.SmartArt property (Word)
 
 Returns a [SmartArt](./Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified inline shape. Read-only.
 

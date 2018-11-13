@@ -1,5 +1,5 @@
 ---
-title: Conflict.Range Property (Word)
+title: Conflict.Range property (Word)
 keywords: vbawd10.chm78708739
 f1_keywords:
 - vbawd10.chm78708739
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflict.Range Property (Word)
+# Conflict.Range property (Word)
 
  Returns a [Range](Word.Range.md) object that represents the portion of a document that is contained in the specified object. Read-only.
 

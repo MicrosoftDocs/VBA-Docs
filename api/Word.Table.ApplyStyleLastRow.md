@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleLastRow Property (Word)
+title: Table.ApplyStyleLastRow property (Word)
 keywords: vbawd10.chm156303563
 f1_keywords:
 - vbawd10.chm156303563
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleLastRow Property (Word)
+# Table.ApplyStyleLastRow property (Word)
 
  **True** for Microsoft Word to apply last-row formatting to the last row of the specified table. Read/write **Boolean** .
 

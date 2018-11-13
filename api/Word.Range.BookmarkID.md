@@ -1,5 +1,5 @@
 ---
-title: Range.BookmarkID Property (Word)
+title: Range.BookmarkID property (Word)
 keywords: vbawd10.chm157155636
 f1_keywords:
 - vbawd10.chm157155636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.BookmarkID Property (Word)
+# Range.BookmarkID property (Word)
 
 Returns the number of the bookmark that encloses the beginning of the specified range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long** .
 

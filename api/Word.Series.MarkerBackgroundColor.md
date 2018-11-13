@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerBackgroundColor Property (Word)
+title: Series.MarkerBackgroundColor property (Word)
 keywords: vbawd10.chm123732041
 f1_keywords:
 - vbawd10.chm123732041
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerBackgroundColor Property (Word)
+# Series.MarkerBackgroundColor property (Word)
 
 Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write  **Long** .
 

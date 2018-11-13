@@ -1,5 +1,5 @@
 ---
-title: FormField.Type Property (Word)
+title: FormField.Type property (Word)
 keywords: vbawd10.chm153616384
 f1_keywords:
 - vbawd10.chm153616384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Type Property (Word)
+# FormField.Type property (Word)
 
 Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Separator Property (Word)
+title: DataLabels.Separator property (Word)
 keywords: vbawd10.chm207489003
 f1_keywords:
 - vbawd10.chm207489003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Separator Property (Word)
+# DataLabels.Separator property (Word)
 
 Sets or returns the separator for the data labels on a chart. Read/write  **Variant** .
 

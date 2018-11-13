@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Name Property (Word)
+title: DisplayUnitLabel.Name property (Word)
 keywords: vbawd10.chm94568474
 f1_keywords:
 - vbawd10.chm94568474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Name Property (Word)
+# DisplayUnitLabel.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

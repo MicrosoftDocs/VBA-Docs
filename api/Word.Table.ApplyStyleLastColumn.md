@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleLastColumn Property (Word)
+title: Table.ApplyStyleLastColumn property (Word)
 keywords: vbawd10.chm156303565
 f1_keywords:
 - vbawd10.chm156303565
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleLastColumn Property (Word)
+# Table.ApplyStyleLastColumn property (Word)
 
  **True** for Microsoft Word to apply last-column formatting to the last column of the specified table. Read/write **Boolean** .
 

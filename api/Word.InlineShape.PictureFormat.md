@@ -1,5 +1,5 @@
 ---
-title: InlineShape.PictureFormat Property (Word)
+title: InlineShape.PictureFormat property (Word)
 keywords: vbawd10.chm162005110
 f1_keywords:
 - vbawd10.chm162005110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.PictureFormat Property (Word)
+# InlineShape.PictureFormat property (Word)
 
 Returns a  **PictureFormat** object that contains picture formatting properties for the inline shape. Read-only.
 

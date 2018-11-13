@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerBackgroundColorIndex Property (Word)
+title: Series.MarkerBackgroundColorIndex property (Word)
 keywords: vbawd10.chm123732042
 f1_keywords:
 - vbawd10.chm123732042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerBackgroundColorIndex Property (Word)
+# Series.MarkerBackgroundColorIndex property (Word)
 
 Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 

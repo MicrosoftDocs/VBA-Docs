@@ -1,5 +1,5 @@
 ---
-title: Range.NoProofing Property (Word)
+title: Range.NoProofing property (Word)
 keywords: vbawd10.chm157155651
 f1_keywords:
 - vbawd10.chm157155651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.NoProofing Property (Word)
+# Range.NoProofing property (Word)
 
  **True** if the spelling and grammar checker ignores the specified text. Read/write **Long** .
 

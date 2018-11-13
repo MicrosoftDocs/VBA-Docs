@@ -1,5 +1,5 @@
 ---
-title: XMLNode.NextSibling Property (Word)
+title: XMLNode.NextSibling property (Word)
 keywords: vbawd10.chm37748742
 f1_keywords:
 - vbawd10.chm37748742
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.NextSibling Property (Word)
+# XMLNode.NextSibling property (Word)
 
 Returns an  **XMLNode** object that represents the next element in the document that is at the same level as the specified element.
 

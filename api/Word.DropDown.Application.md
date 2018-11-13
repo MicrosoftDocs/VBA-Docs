@@ -1,5 +1,5 @@
 ---
-title: DropDown.Application Property (Word)
+title: DropDown.Application property (Word)
 keywords: vbawd10.chm153420776
 f1_keywords:
 - vbawd10.chm153420776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Application Property (Word)
+# DropDown.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

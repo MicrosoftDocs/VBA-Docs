@@ -1,5 +1,5 @@
 ---
-title: ContentControl.RepeatingSectionItems Property (Word)
+title: ContentControl.RepeatingSectionItems property (Word)
 keywords: vbawd10.chm266534946
 f1_keywords:
 - vbawd10.chm266534946
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.RepeatingSectionItems Property (Word)
+# ContentControl.RepeatingSectionItems property (Word)
 
 Returns the collection of repeating section items in the specified repeating section content control. Read-only.
 

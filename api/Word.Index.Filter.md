@@ -1,5 +1,5 @@
 ---
-title: Index.Filter Property (Word)
+title: Index.Filter property (Word)
 keywords: vbawd10.chm159186953
 f1_keywords:
 - vbawd10.chm159186953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Filter Property (Word)
+# Index.Filter property (Word)
 
 Returns or sets a value that specifies how Microsoft Word classifies the first character of entries in the specified index.read/write  **Long** . Can be one of the following **wdIndexFilter** constants.
 

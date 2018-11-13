@@ -1,5 +1,5 @@
 ---
-title: DropDown.Default Property (Word)
+title: DropDown.Default property (Word)
 keywords: vbawd10.chm153419777
 f1_keywords:
 - vbawd10.chm153419777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Default Property (Word)
+# DropDown.Default property (Word)
 
 Returns or sets a  **Long** that represents the default drop-down item. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PrintBackground Property (Word)
+title: Options.PrintBackground property (Word)
 keywords: vbawd10.chm162988069
 f1_keywords:
 - vbawd10.chm162988069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintBackground Property (Word)
+# Options.PrintBackground property (Word)
 
  **True** if Microsoft Word prints in the background. Read/write **Boolean** .
 

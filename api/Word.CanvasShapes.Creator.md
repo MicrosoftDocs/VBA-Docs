@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Creator Property (Word)
+title: CanvasShapes.Creator property (Word)
 keywords: vbawd10.chm7544641
 f1_keywords:
 - vbawd10.chm7544641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.Creator Property (Word)
+# CanvasShapes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

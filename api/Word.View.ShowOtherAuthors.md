@@ -1,5 +1,5 @@
 ---
-title: View.ShowOtherAuthors Property (Word)
+title: View.ShowOtherAuthors property (Word)
 keywords: vbawd10.chm161808443
 f1_keywords:
 - vbawd10.chm161808443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowOtherAuthors Property (Word)
+# View.ShowOtherAuthors property (Word)
 
  **True** if other authors' presence should be visible in the document. Read/write **Boolean** .
 

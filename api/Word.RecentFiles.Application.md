@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Application Property (Word)
+title: RecentFiles.Application property (Word)
 keywords: vbawd10.chm157484008
 f1_keywords:
 - vbawd10.chm157484008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Application Property (Word)
+# RecentFiles.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

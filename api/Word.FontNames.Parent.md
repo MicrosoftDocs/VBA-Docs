@@ -1,5 +1,5 @@
 ---
-title: FontNames.Parent Property (Word)
+title: FontNames.Parent property (Word)
 keywords: vbawd10.chm158270442
 f1_keywords:
 - vbawd10.chm158270442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FontNames.Parent Property (Word)
+# FontNames.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FontNames** object.
 

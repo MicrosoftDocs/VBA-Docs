@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorTickMark Property (Word)
+title: Axis.MinorTickMark property (Word)
 keywords: vbawd10.chm113049637
 f1_keywords:
 - vbawd10.chm113049637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorTickMark Property (Word)
+# Axis.MinorTickMark property (Word)
 
 Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)** .
 

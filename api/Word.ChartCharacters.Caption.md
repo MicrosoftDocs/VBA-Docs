@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Caption Property (Word)
+title: ChartCharacters.Caption property (Word)
 keywords: vbawd10.chm250740875
 f1_keywords:
 - vbawd10.chm250740875
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCharacters.Caption Property (Word)
+# ChartCharacters.Caption property (Word)
 
 Returns the text of this range of characters. Read-only  **String** .
 

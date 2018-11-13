@@ -1,5 +1,5 @@
 ---
-title: Dictionary.ReadOnly Property (Word)
+title: Dictionary.ReadOnly property (Word)
 keywords: vbawd10.chm162332675
 f1_keywords:
 - vbawd10.chm162332675
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.ReadOnly Property (Word)
+# Dictionary.ReadOnly property (Word)
 
  **True** if the specified dictionary cannot be changed. Read-only **Boolean** .
 

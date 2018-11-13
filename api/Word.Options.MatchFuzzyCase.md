@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyCase Property (Word)
+title: Options.MatchFuzzyCase property (Word)
 keywords: vbawd10.chm162988341
 f1_keywords:
 - vbawd10.chm162988341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyCase Property (Word)
+# Options.MatchFuzzyCase property (Word)
 
  **True** if Microsoft Word ignores the distinction between uppercase and lowercase letters during a search. Read/write **Boolean** .
 

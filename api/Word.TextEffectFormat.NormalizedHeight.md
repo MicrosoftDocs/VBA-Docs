@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.NormalizedHeight Property (Word)
+title: TextEffectFormat.NormalizedHeight property (Word)
 keywords: vbawd10.chm164561002
 f1_keywords:
 - vbawd10.chm164561002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.NormalizedHeight Property (Word)
+# TextEffectFormat.NormalizedHeight property (Word)
 
  **MsoTrue** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState** .
 

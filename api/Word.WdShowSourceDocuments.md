@@ -1,5 +1,5 @@
 ---
-title: WdShowSourceDocuments Enumeration (Word)
+title: WdShowSourceDocuments enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdShowSourceDocuments
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdShowSourceDocuments Enumeration (Word)
+# WdShowSourceDocuments enumeration (Word)
 
 Specifies how to display source documents when two documents are compared using the Word Compare functions.
 

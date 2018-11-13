@@ -1,5 +1,5 @@
 ---
-title: HorizontalLineFormat.PercentWidth Property (Word)
+title: HorizontalLineFormat.PercentWidth property (Word)
 keywords: vbawd10.chm165543938
 f1_keywords:
 - vbawd10.chm165543938
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HorizontalLineFormat.PercentWidth Property (Word)
+# HorizontalLineFormat.PercentWidth property (Word)
 
 Returns or sets the length of the specified horizontal line expressed as a percentage of the window width. Read/write  **Single** .
 

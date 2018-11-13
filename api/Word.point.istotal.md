@@ -1,5 +1,5 @@
 ---
-title: Point.IsTotal Property (Word)
+title: Point.IsTotal property (Word)
 keywords: vbawd10.chm262146890
 f1_keywords:
 - vbawd10.chm262146890
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.IsTotal Property (Word)
+# Point.IsTotal property (Word)
 
  **True** if the point represents a total. Read/write **Boolean**.
 

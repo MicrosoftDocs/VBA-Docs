@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparencyColor Property (Word)
+title: PictureFormat.TransparencyColor property (Word)
 keywords: vbawd10.chm164298859
 f1_keywords:
 - vbawd10.chm164298859
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.TransparencyColor Property (Word)
+# PictureFormat.TransparencyColor property (Word)
 
 Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. Read/write  **Long** .
 

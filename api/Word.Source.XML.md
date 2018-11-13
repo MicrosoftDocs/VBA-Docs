@@ -1,5 +1,5 @@
 ---
-title: Source.XML Property (Word)
+title: Source.XML property (Word)
 keywords: vbawd10.chm140836969
 f1_keywords:
 - vbawd10.chm140836969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.XML Property (Word)
+# Source.XML property (Word)
 
 Returns a  **String** that represents the XML markup for a **Source** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.First Property (Word)
+title: Paragraphs.First property (Word)
 keywords: vbawd10.chm156762115
 f1_keywords:
 - vbawd10.chm156762115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.First Property (Word)
+# Paragraphs.First property (Word)
 
 Returns a  **[Paragraph](Word.Paragraph.md)** object that represents the first item in the **Paragraphs** collection.
 

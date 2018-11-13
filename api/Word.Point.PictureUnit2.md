@@ -1,5 +1,5 @@
 ---
-title: Point.PictureUnit2 Property (Word)
+title: Point.PictureUnit2 property (Word)
 keywords: vbawd10.chm262146649
 f1_keywords:
 - vbawd10.chm262146649
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.PictureUnit2 Property (Word)
+# Point.PictureUnit2 property (Word)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](Word.Point.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double** .
 

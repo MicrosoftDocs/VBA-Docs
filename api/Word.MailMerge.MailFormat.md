@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailFormat Property (Word)
+title: MailMerge.MailFormat property (Word)
 keywords: vbawd10.chm153092108
 f1_keywords:
 - vbawd10.chm153092108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailFormat Property (Word)
+# MailMerge.MailFormat property (Word)
 
 Returns a  **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an e-mail message. Read/write.
 

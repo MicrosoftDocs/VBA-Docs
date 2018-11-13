@@ -1,5 +1,5 @@
 ---
-title: Font.ColorIndex Property (Word)
+title: Font.ColorIndex property (Word)
 keywords: vbawd10.chm156369033
 f1_keywords:
 - vbawd10.chm156369033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ColorIndex Property (Word)
+# Font.ColorIndex property (Word)
 
 Returns or sets a  **WdColorIndex** constant that represents the color for the specified font. Read/write .
 

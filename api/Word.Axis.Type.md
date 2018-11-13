@@ -1,5 +1,5 @@
 ---
-title: Axis.Type Property (Word)
+title: Axis.Type property (Word)
 keywords: vbawd10.chm113049655
 f1_keywords:
 - vbawd10.chm113049655
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Type Property (Word)
+# Axis.Type property (Word)
 
 Returns the axis type. Read-only  **[XlAxisType](Word.xlaxistype.md)** .
 

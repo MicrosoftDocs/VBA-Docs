@@ -1,5 +1,5 @@
 ---
-title: OMath.ParentFunction Property (Word)
+title: OMath.ParentFunction property (Word)
 keywords: vbawd10.chm176357483
 f1_keywords:
 - vbawd10.chm176357483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ParentFunction Property (Word)
+# OMath.ParentFunction property (Word)
 
 Returns an  **[OMathFunction](Word.OMathFunction.md)** object that represents the parent, or containing, function. Read-only.
 
