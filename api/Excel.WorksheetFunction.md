@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction Object (Excel)
+title: WorksheetFunction object (Excel)
 keywords: vbaxl10.chm136072
 f1_keywords:
 - vbaxl10.chm136072
@@ -11,7 +11,7 @@ ms.date: 08/28/2018
 ---
 
 
-# WorksheetFunction Object (Excel)
+# WorksheetFunction object (Excel)
 
 Used as a container for Microsoft Excel worksheet functions that can be called from Visual Basic.
 

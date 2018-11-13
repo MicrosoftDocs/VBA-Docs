@@ -1,5 +1,5 @@
 ---
-title: UserAccessList Object (Excel)
+title: UserAccessList object (Excel)
 keywords: vbaxl10.chm726072
 f1_keywords:
 - vbaxl10.chm726072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccessList Object (Excel)
+# UserAccessList object (Excel)
 
 A collection of  **[UserAccess](Excel.UserAccess.md)** objects that represent the user access for protected ranges.
 

@@ -1,5 +1,5 @@
 ---
-title: UsedObjects Object (Excel)
+title: UsedObjects object (Excel)
 keywords: vbaxl10.chm677072
 f1_keywords:
 - vbaxl10.chm677072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UsedObjects Object (Excel)
+# UsedObjects object (Excel)
 
 Represents objects that have been allocated in a workbook.
 

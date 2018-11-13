@@ -1,5 +1,5 @@
 ---
-title: Axis Object (Excel)
+title: Axis object (Excel)
 keywords: vbaxl10.chm560072
 f1_keywords:
 - vbaxl10.chm560072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis Object (Excel)
+# Axis object (Excel)
 
 Represents a single axis in a chart.
 

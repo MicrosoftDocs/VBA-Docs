@@ -1,5 +1,5 @@
 ---
-title: Outline Object (Excel)
+title: Outline object (Excel)
 keywords: vbaxl10.chm454072
 f1_keywords:
 - vbaxl10.chm454072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline Object (Excel)
+# Outline object (Excel)
 
 Represents an outline on a worksheet.
 

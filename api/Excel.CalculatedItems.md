@@ -1,5 +1,5 @@
 ---
-title: CalculatedItems Object (Excel)
+title: CalculatedItems object (Excel)
 keywords: vbaxl10.chm249072
 f1_keywords:
 - vbaxl10.chm249072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedItems Object (Excel)
+# CalculatedItems object (Excel)
 
 A collection of  **[PivotItem](Excel.PivotItem.md)** objects that represent all the calculated items in the specified PivotTable report.
 

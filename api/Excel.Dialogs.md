@@ -1,5 +1,5 @@
 ---
-title: Dialogs Object (Excel)
+title: Dialogs object (Excel)
 keywords: vbaxl10.chm253072
 f1_keywords:
 - vbaxl10.chm253072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs Object (Excel)
+# Dialogs object (Excel)
 
 A collection of all the  **[Dialog](Excel.Dialog.md)** objects in Microsoft Excel.
 

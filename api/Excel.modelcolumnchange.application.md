@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) object.
+ _expression_ A variable that represents a [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object.
 
 
 ## Example

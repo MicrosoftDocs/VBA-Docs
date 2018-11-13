@@ -1,5 +1,5 @@
 ---
-title: ModelChanges Object (Excel)
+title: ModelChanges object (Excel)
 keywords: vbaxl10.chm959072
 f1_keywords:
 - vbaxl10.chm959072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges Object (Excel)
+# ModelChanges object (Excel)
 
 Represents changes made to the data model. 
 

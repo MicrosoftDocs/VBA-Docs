@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (Excel)
+title: AutoCorrect object (Excel)
 keywords: vbaxl10.chm544072
 f1_keywords:
 - vbaxl10.chm544072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect Object (Excel)
+# AutoCorrect object (Excel)
 
 Contains Microsoft Excel AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
 

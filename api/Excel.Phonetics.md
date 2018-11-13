@@ -1,5 +1,5 @@
 ﻿---
-title: Phonetics Object (Excel)
+title: Phonetics object (Excel)
 keywords: vbaxl10.chm657072
 f1_keywords:
 - vbaxl10.chm657072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics Object (Excel)
+# Phonetics object (Excel)
 
 A collection of all the  **[Phonetic](Excel.Phonetic.md)** objects in the specified range.
 

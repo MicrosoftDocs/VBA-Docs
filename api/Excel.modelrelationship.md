@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship Object (Excel)
+title: ModelRelationship object (Excel)
 keywords: vbaxl10.chm937072
 f1_keywords:
 - vbaxl10.chm937072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship Object (Excel)
+# ModelRelationship object (Excel)
 
 Represents a relationship, currently in the data model, between two tables.
 

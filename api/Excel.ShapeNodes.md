@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes Object (Excel)
+title: ShapeNodes object (Excel)
 keywords: vbaxl10.chm112000
 f1_keywords:
 - vbaxl10.chm112000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes Object (Excel)
+# ShapeNodes object (Excel)
 
 A collection of all the  **[ShapeNode](Excel.ShapeNode.md)** objects in the specified freeform.
 

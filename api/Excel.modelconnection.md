@@ -1,5 +1,5 @@
 ---
-title: ModelConnection Object (Excel)
+title: ModelConnection object (Excel)
 keywords: vbaxl10.chm921072
 f1_keywords:
 - vbaxl10.chm921072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection Object (Excel)
+# ModelConnection object (Excel)
 
 Contain information for the new Model Connection Type introduced in Excel 2013 to interact with the integrated data model.
 

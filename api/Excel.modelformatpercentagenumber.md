@@ -1,5 +1,5 @@
 ---
-title: ModelFormatPercentageNumber Object (Excel)
+title: ModelFormatPercentageNumber object (Excel)
 keywords: vbaxl10.chm989072
 f1_keywords:
 - vbaxl10.chm989072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatPercentageNumber Object (Excel)
+# ModelFormatPercentageNumber object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

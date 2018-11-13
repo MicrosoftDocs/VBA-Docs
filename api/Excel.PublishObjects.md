@@ -1,5 +1,5 @@
 ---
-title: PublishObjects Object (Excel)
+title: PublishObjects object (Excel)
 keywords: vbaxl10.chm649072
 f1_keywords:
 - vbaxl10.chm649072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects Object (Excel)
+# PublishObjects object (Excel)
 
 A collection of all  **[PublishObject](Excel.PublishObject.md)** objects in the workbook.
 

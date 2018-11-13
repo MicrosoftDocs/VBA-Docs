@@ -1,5 +1,5 @@
 ---
-title: XmlMap Object (Excel)
+title: XmlMap object (Excel)
 keywords: vbaxl10.chm753072
 f1_keywords:
 - vbaxl10.chm753072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap Object (Excel)
+# XmlMap object (Excel)
 
 Represents an XML map that has been added to a workbook.
 

@@ -1,5 +1,5 @@
 ---
-title: Panes Object (Excel)
+title: Panes object (Excel)
 keywords: vbaxl10.chm357072
 f1_keywords:
 - vbaxl10.chm357072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes Object (Excel)
+# Panes object (Excel)
 
 A collection of all the  **[Pane](Excel.Pane.md)** objects shown in the specified window.
 

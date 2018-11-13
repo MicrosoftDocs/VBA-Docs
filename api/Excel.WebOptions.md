@@ -1,5 +1,5 @@
 ---
-title: WebOptions Object (Excel)
+title: WebOptions object (Excel)
 keywords: vbaxl10.chm661072
 f1_keywords:
 - vbaxl10.chm661072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions Object (Excel)
+# WebOptions object (Excel)
 
 Contains workbook-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page.
 

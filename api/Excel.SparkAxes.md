@@ -1,5 +1,5 @@
 ---
-title: SparkAxes Object (Excel)
+title: SparkAxes object (Excel)
 keywords: vbaxl10.chm876072
 f1_keywords:
 - vbaxl10.chm876072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkAxes Object (Excel)
+# SparkAxes object (Excel)
 
 Represents the settings for the horizontal and vertical axes of a group of sparklines.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables Object (Excel)
+title: SlicerPivotTables object (Excel)
 keywords: vbaxl10.chm910072
 f1_keywords:
 - vbaxl10.chm910072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables Object (Excel)
+# SlicerPivotTables object (Excel)
 
 Represents information about the collection of PivotTables associated with the specified  **[SlicerCache](Excel.SlicerCache.md)** object.
 

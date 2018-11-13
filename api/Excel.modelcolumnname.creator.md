@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object.
+ _expression_ A variable that represents a [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object.
 
 
 ## Remarks

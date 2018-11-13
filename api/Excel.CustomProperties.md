@@ -1,5 +1,5 @@
 ---
-title: CustomProperties Object (Excel)
+title: CustomProperties object (Excel)
 keywords: vbaxl10.chm679072
 f1_keywords:
 - vbaxl10.chm679072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties Object (Excel)
+# CustomProperties object (Excel)
 
 A collection of  **CustomProperty** objects that represent additional information. The information can be used as metadata for XML.
 

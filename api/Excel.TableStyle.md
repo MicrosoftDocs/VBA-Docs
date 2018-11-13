@@ -1,5 +1,5 @@
 ---
-title: TableStyle Object (Excel)
+title: TableStyle object (Excel)
 keywords: vbaxl10.chm838072
 f1_keywords:
 - vbaxl10.chm838072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle Object (Excel)
+# TableStyle object (Excel)
 
 Represents a single style that can be applied to a table or slicer.
 

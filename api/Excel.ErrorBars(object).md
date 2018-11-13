@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Object (Excel)
+title: ErrorBars object (Excel)
 keywords: vbaxl10.chm623072
 f1_keywords:
 - vbaxl10.chm623072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars Object (Excel)
+# ErrorBars object (Excel)
 
 Represents the error bars on a chart series.
 

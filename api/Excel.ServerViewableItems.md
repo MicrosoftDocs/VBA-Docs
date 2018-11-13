@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems Object (Excel)
+title: ServerViewableItems object (Excel)
 keywords: vbaxl10.chm832072
 f1_keywords:
 - vbaxl10.chm832072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems Object (Excel)
+# ServerViewableItems object (Excel)
 
 A collection of objects that have been marked as viewable on the server.
 

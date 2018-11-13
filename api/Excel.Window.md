@@ -1,5 +1,5 @@
 ---
-title: Window Object (Excel)
+title: Window object (Excel)
 keywords: vbaxl10.chm355072
 f1_keywords:
 - vbaxl10.chm355072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window Object (Excel)
+# Window object (Excel)
 
 Represents a window.
 

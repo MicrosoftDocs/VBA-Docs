@@ -1,5 +1,5 @@
 ﻿---
-title: ShapeRange Object (Excel)
+title: ShapeRange object (Excel)
 keywords: vbaxl10.chm639072
 f1_keywords:
 - vbaxl10.chm639072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange Object (Excel)
+# ShapeRange object (Excel)
 
 Represents a shape range, which is a set of shapes on a document.
 

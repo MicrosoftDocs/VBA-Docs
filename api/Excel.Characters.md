@@ -1,5 +1,5 @@
 ---
-title: Characters Object (Excel)
+title: Characters object (Excel)
 keywords: vbaxl10.chm251072
 f1_keywords:
 - vbaxl10.chm251072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters Object (Excel)
+# Characters object (Excel)
 
 Represents characters in an object that contains text. 
 

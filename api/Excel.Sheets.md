@@ -1,5 +1,5 @@
 ---
-title: Sheets Object (Excel)
+title: Sheets object (Excel)
 keywords: vbaxl10.chm151072
 f1_keywords:
 - vbaxl10.chm151072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets Object (Excel)
+# Sheets object (Excel)
 
 A collection of all the sheets in the specified or active workbook.
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelChanges.TablesDeleted property (Excel)
 
-Returns a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were deleted from the model as part of a model operation. Read-only.
+Returns a [ModelTableNames object (Excel)](Excel.modeltablenames.md) collection of table names as strings representing all tables which were deleted from the model as part of a model operation. Read-only.
 
 
 ## Syntax

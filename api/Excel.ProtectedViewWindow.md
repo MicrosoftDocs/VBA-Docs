@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow Object (Excel)
+title: ProtectedViewWindow object (Excel)
 keywords: vbaxl10.chm914072
 f1_keywords:
 - vbaxl10.chm914072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow Object (Excel)
+# ProtectedViewWindow object (Excel)
 
 Represents a  **Protected View** window.
 

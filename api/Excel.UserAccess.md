@@ -1,5 +1,5 @@
 ---
-title: UserAccess Object (Excel)
+title: UserAccess object (Excel)
 keywords: vbaxl10.chm727072
 f1_keywords:
 - vbaxl10.chm727072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccess Object (Excel)
+# UserAccess object (Excel)
 
 Represents the user access for a protected range.
 

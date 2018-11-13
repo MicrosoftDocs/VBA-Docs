@@ -1,5 +1,5 @@
 ---
-title: ChartArea Object (Excel)
+title: ChartArea object (Excel)
 keywords: vbaxl10.chm619072
 f1_keywords:
 - vbaxl10.chm619072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea Object (Excel)
+# ChartArea object (Excel)
 
 Represents the chart area of a chart. 
 

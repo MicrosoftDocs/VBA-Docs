@@ -1,5 +1,5 @@
 ---
-title: ChartTitle Object (Excel)
+title: ChartTitle object (Excel)
 keywords: vbaxl10.chm562072
 f1_keywords:
 - vbaxl10.chm562072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle Object (Excel)
+# ChartTitle object (Excel)
 
 Represents the chart title.
 

@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [TextConnection Object (Excel)](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection object (Excel)](Excel.textconnection.md) object.
 
 
 ## Example

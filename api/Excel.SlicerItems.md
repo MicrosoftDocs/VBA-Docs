@@ -1,5 +1,5 @@
 ---
-title: SlicerItems Object (Excel)
+title: SlicerItems object (Excel)
 keywords: vbaxl10.chm908072
 f1_keywords:
 - vbaxl10.chm908072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItems Object (Excel)
+# SlicerItems object (Excel)
 
 Represents the collection of  **[SlicerItem](Excel.SlicerItem.md)** objects contained in a **[SlicerCache](Excel.SlicerCache.md)** or **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object.
 

@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelRelationship.ForeignKeyTable property (Excel)
 
-Contains the [ModelTable Object (Excel)](Excel.modeltable.md) object (Excel) representing the table on the many side of the one-to-many relationship. Read-only
+Contains the [ModelTable object (Excel)](Excel.modeltable.md) object (Excel) representing the table on the many side of the one-to-many relationship. Read-only
 
 
 ## Syntax
 
  _expression_. `ForeignKeyTable`
 
- _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CubeFields.GetMeasure method (Excel)
 
-Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an ?implicit measure? does not exist, a new implicit measure is created and added to the [CubeFields Object (Excel)](Excel.CubeFields.md) collection.
+Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an ?implicit measure? does not exist, a new implicit measure is created and added to the [CubeFields object (Excel)](Excel.CubeFields.md) collection.
 
 
 ## Syntax

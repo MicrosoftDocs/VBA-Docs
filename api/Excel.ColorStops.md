@@ -1,5 +1,5 @@
 ---
-title: ColorStops Object (Excel)
+title: ColorStops object (Excel)
 keywords: vbaxl10.chm852072
 f1_keywords:
 - vbaxl10.chm852072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStops Object (Excel)
+# ColorStops object (Excel)
 
 A collection of all the [ColorStop](Excel.ColorStop.md) objects for the specified series.
 

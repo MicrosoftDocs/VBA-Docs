@@ -1,5 +1,5 @@
 ---
-title: ChartObject Object (Excel)
+title: ChartObject object (Excel)
 keywords: vbaxl10.chm493072
 f1_keywords:
 - vbaxl10.chm493072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject Object (Excel)
+# ChartObject object (Excel)
 
 Represents an embedded chart on a worksheet.
 

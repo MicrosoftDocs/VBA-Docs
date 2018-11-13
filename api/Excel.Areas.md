@@ -1,5 +1,5 @@
 ---
-title: Areas Object (Excel)
+title: Areas object (Excel)
 keywords: vbaxl10.chm196072
 f1_keywords:
 - vbaxl10.chm196072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Areas Object (Excel)
+# Areas object (Excel)
 
 A collection of the areas, or contiguous blocks of cells, within a selection. 
 

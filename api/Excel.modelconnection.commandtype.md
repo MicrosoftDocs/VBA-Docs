@@ -18,7 +18,7 @@ Returns or sets one of the [xlCmdType enumeration (Excel)](Excel.xlCmdType.md) c
 
  _expression_. `CommandType`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+ _expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Remarks

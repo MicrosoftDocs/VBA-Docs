@@ -1,5 +1,5 @@
 ---
-title: DataLabel Object (Excel)
+title: DataLabel object (Excel)
 keywords: vbaxl10.chm581072
 f1_keywords:
 - vbaxl10.chm581072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel Object (Excel)
+# DataLabel object (Excel)
 
 Represents the data label on a chart point or trendline.
 

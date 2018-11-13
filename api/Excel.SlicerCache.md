@@ -1,5 +1,5 @@
 ---
-title: SlicerCache Object (Excel)
+title: SlicerCache object (Excel)
 keywords: vbaxl10.chm896072
 f1_keywords:
 - vbaxl10.chm896072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache Object (Excel)
+# SlicerCache object (Excel)
 
 Represents the current filter state for a slicer and information about which  **[PivotCache](Excel.PivotCache.md)** or **[WorkbookConnection](Excel.WorkbookConnection.md)** the slicer is connected to.
 

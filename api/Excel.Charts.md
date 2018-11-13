@@ -1,5 +1,5 @@
 ---
-title: Charts Object (Excel)
+title: Charts object (Excel)
 keywords: vbaxl10.chm216072
 f1_keywords:
 - vbaxl10.chm216072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts Object (Excel)
+# Charts object (Excel)
 
 A collection of all the chart sheets in the specified or active workbook.
 

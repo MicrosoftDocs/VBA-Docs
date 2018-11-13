@@ -1,5 +1,5 @@
 ---
-title: ValueChange Object (Excel)
+title: ValueChange object (Excel)
 keywords: vbaxl10.chm888072
 f1_keywords:
 - vbaxl10.chm888072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange Object (Excel)
+# ValueChange object (Excel)
 
 Represents a value that has been changed in a PivotTable report that is based on an OLAP data source.
 

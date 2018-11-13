@@ -1,5 +1,5 @@
 ---
-title: PivotItemList Object (Excel)
+title: PivotItemList object (Excel)
 keywords: vbaxl10.chm720072
 f1_keywords:
 - vbaxl10.chm720072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItemList Object (Excel)
+# PivotItemList object (Excel)
 
 A collection of all the  **[PivotItem](Excel.PivotItem.md)** objects in the specified PivotTable.
 

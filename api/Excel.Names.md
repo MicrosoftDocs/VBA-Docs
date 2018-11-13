@@ -1,5 +1,5 @@
 ﻿---
-title: Names Object (Excel)
+title: Names object (Excel)
 keywords: vbaxl10.chm487072
 f1_keywords:
 - vbaxl10.chm487072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Names Object (Excel)
+# Names object (Excel)
 
 A collection of all the  **[Name](Excel.Name.md)** objects in the application or workbook.
 

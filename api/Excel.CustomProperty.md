@@ -1,5 +1,5 @@
 ---
-title: CustomProperty Object (Excel)
+title: CustomProperty object (Excel)
 keywords: vbaxl10.chm681072
 f1_keywords:
 - vbaxl10.chm681072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty Object (Excel)
+# CustomProperty object (Excel)
 
 Represents identifier information. Identifier information can be used as metadata for XML.
 

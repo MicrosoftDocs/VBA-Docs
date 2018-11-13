@@ -1,5 +1,5 @@
 ---
-title: Interior Object (Excel)
+title: Interior object (Excel)
 keywords: vbaxl10.chm550072
 f1_keywords:
 - vbaxl10.chm550072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior Object (Excel)
+# Interior object (Excel)
 
 Represents the interior of an object.
 

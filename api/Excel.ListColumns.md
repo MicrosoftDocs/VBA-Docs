@@ -1,5 +1,5 @@
 ---
-title: ListColumns Object (Excel)
+title: ListColumns object (Excel)
 keywords: vbaxl10.chm735072
 f1_keywords:
 - vbaxl10.chm735072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumns Object (Excel)
+# ListColumns object (Excel)
 
 A collection of all the  **[ListColumn](Excel.ListColumn.md)** objects in the specified **[ListObject](Excel.ListObject.md)** object.
 

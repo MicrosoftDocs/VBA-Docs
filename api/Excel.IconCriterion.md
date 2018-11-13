@@ -1,5 +1,5 @@
 ---
-title: IconCriterion Object (Excel)
+title: IconCriterion object (Excel)
 keywords: vbaxl10.chm814072
 f1_keywords:
 - vbaxl10.chm814072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion Object (Excel)
+# IconCriterion object (Excel)
 
 Represents the criterion for an individual icon in an icon set. The criterion specifies the range of values and the threshold type associated with the icon in an icon set conditional formatting rule.
 

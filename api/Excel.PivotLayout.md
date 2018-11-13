@@ -1,5 +1,5 @@
 ---
-title: PivotLayout Object (Excel)
+title: PivotLayout object (Excel)
 keywords: vbaxl10.chm663072
 f1_keywords:
 - vbaxl10.chm663072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLayout Object (Excel)
+# PivotLayout object (Excel)
 
 Represents the placement of fields in a PivotChart report.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotLines Object (Excel)
+title: PivotLines object (Excel)
 keywords: vbaxl10.chm765072
 f1_keywords:
 - vbaxl10.chm765072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLines Object (Excel)
+# PivotLines object (Excel)
 
 The  **PivotLines** object is a collection of lines in a PivotTable, containing all lines on rows or columns of the pivot. Each line is a set of PivotCells.
 

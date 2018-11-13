@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureName Object (Excel)
+title: ModelMeasureName object (Excel)
 keywords: vbaxl10.chm969072
 f1_keywords:
 - vbaxl10.chm969072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureName Object (Excel)
+# ModelMeasureName object (Excel)
 
 An object representing a measure in the data model. 
 

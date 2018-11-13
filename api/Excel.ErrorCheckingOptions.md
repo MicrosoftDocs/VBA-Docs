@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions Object (Excel)
+title: ErrorCheckingOptions object (Excel)
 keywords: vbaxl10.chm697072
 f1_keywords:
 - vbaxl10.chm697072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions Object (Excel)
+# ErrorCheckingOptions object (Excel)
 
 Represents the error-checking options for an application.
 

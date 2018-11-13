@@ -1,5 +1,5 @@
 ---
-title: ModelTables Object (Excel)
+title: ModelTables object (Excel)
 keywords: vbaxl10.chm935072
 f1_keywords:
 - vbaxl10.chm935072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTables Object (Excel)
+# ModelTables object (Excel)
 
 Collection of model tables inside the Data Model.
 

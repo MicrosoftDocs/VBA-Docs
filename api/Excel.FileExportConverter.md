@@ -1,5 +1,5 @@
 ---
-title: FileExportConverter Object (Excel)
+title: FileExportConverter object (Excel)
 keywords: vbaxl10.chm862072
 f1_keywords:
 - vbaxl10.chm862072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverter Object (Excel)
+# FileExportConverter object (Excel)
 
 Represents a file converter that is used to save files.
 

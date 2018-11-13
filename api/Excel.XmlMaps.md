@@ -1,5 +1,5 @@
 ---
-title: XmlMaps Object (Excel)
+title: XmlMaps object (Excel)
 keywords: vbaxl10.chm755072
 f1_keywords:
 - vbaxl10.chm755072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMaps Object (Excel)
+# XmlMaps object (Excel)
 
 Represents the collection of  **[XmlMap](Excel.XmlMap.md)** objects that have been added to a workbook.
 

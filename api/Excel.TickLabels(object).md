@@ -1,5 +1,5 @@
 ---
-title: TickLabels Object (Excel)
+title: TickLabels object (Excel)
 keywords: vbaxl10.chm615072
 f1_keywords:
 - vbaxl10.chm615072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels Object (Excel)
+# TickLabels object (Excel)
 
 Represents the tick-mark labels associated with tick marks on a chart axis.
 

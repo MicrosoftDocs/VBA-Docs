@@ -1,5 +1,5 @@
 ---
-title: GroupShapes Object (Excel)
+title: GroupShapes object (Excel)
 keywords: vbaxl10.chm641072
 f1_keywords:
 - vbaxl10.chm641072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes Object (Excel)
+# GroupShapes object (Excel)
 
 Represents the individual shapes within a grouped shape.
 

@@ -1,5 +1,5 @@
 ---
-title: Graphic Object (Excel)
+title: Graphic object (Excel)
 keywords: vbaxl10.chm693072
 f1_keywords:
 - vbaxl10.chm693072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic Object (Excel)
+# Graphic object (Excel)
 
 Contains properties that apply to header and footer picture objects.
 

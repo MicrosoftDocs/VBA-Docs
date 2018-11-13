@@ -1,5 +1,5 @@
 ---
-title: LegendEntries Object (Excel)
+title: LegendEntries object (Excel)
 keywords: vbaxl10.chm587072
 f1_keywords:
 - vbaxl10.chm587072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries Object (Excel)
+# LegendEntries object (Excel)
 
 A collection of all the  **[LegendEntry](Excel.LegendEntry(object).md)** objects in the specified chart legend.
 

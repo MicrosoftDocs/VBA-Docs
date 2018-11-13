@@ -18,7 +18,7 @@ Returns or sets a  **String** indicating the Microsoft Office Data Connection fi
 
  _expression_. `SourceConnectionFile`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

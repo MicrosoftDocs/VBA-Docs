@@ -1,5 +1,5 @@
 ---
-title: Axes Object (Excel)
+title: Axes object (Excel)
 keywords: vbaxl10.chm571072
 f1_keywords:
 - vbaxl10.chm571072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes Object (Excel)
+# Axes object (Excel)
 
 A collection of all the  **[Axis](Excel.Axis(object).md)** objects in the specified chart.
 

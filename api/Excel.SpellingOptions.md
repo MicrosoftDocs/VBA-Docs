@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions Object (Excel)
+title: SpellingOptions object (Excel)
 keywords: vbaxl10.chm717072
 f1_keywords:
 - vbaxl10.chm717072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions Object (Excel)
+# SpellingOptions object (Excel)
 
 Represents the various spell checking options for a worksheet.
 

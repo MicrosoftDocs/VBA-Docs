@@ -1,5 +1,5 @@
 ---
-title: DataLabels Object (Excel)
+title: DataLabels object (Excel)
 keywords: vbaxl10.chm583072
 f1_keywords:
 - vbaxl10.chm583072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels Object (Excel)
+# DataLabels object (Excel)
 
 A collection of all the  **[DataLabel](Excel.DataLabel(object).md)** objects for the specified series.
 

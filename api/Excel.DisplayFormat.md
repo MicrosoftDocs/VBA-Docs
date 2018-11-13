@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat Object (Excel)
+title: DisplayFormat object (Excel)
 keywords: vbaxl10.chm892072
 f1_keywords:
 - vbaxl10.chm892072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat Object (Excel)
+# DisplayFormat object (Excel)
 
 Represents the display settings for an associated  **[Range](Excel.Range(object).md)** object. Read only.
 

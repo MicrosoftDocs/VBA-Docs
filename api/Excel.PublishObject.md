@@ -1,5 +1,5 @@
 ---
-title: PublishObject Object (Excel)
+title: PublishObject object (Excel)
 keywords: vbaxl10.chm651072
 f1_keywords:
 - vbaxl10.chm651072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject Object (Excel)
+# PublishObject object (Excel)
 
 Represents an item in a workbook that has been saved to a Web page and can be refreshed according to values specified by the properties and methods of the  **PublishObject** object.
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Border Object (Excel)
+title: Border object (Excel)
 keywords: vbaxl10.chm546072
 f1_keywords:
 - vbaxl10.chm546072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border Object (Excel)
+# Border object (Excel)
 
 Represents the border of an object.
 

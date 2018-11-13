@@ -1,5 +1,5 @@
 ---
-title: Dialog Object (Excel)
+title: Dialog object (Excel)
 keywords: vbaxl10.chm255072
 f1_keywords:
 - vbaxl10.chm255072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog Object (Excel)
+# Dialog object (Excel)
 
 Represents a built-in Microsoft Excel dialog box.
 

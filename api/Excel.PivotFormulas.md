@@ -1,5 +1,5 @@
 ---
-title: PivotFormulas Object (Excel)
+title: PivotFormulas object (Excel)
 keywords: vbaxl10.chm232072
 f1_keywords:
 - vbaxl10.chm232072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormulas Object (Excel)
+# PivotFormulas object (Excel)
 
 Represents the collection of formulas for a PivotTable report. Each formula is represented by a  **[PivotFormula](Excel.PivotFormula.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges Object (Excel)
+title: ModelTableNameChanges object (Excel)
 keywords: vbaxl10.chm957072
 f1_keywords:
 - vbaxl10.chm957072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges Object (Excel)
+# ModelTableNameChanges object (Excel)
 
-A collection of [ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) objects representing table names before and after a table name change in the Excel data model.
+A collection of [ModelTableNameChange object (Excel)](Excel.modeltablenamechange.md) objects representing table names before and after a table name change in the Excel data model.
 
 
 ## See also

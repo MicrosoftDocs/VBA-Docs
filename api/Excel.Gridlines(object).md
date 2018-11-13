@@ -1,5 +1,5 @@
 ---
-title: Gridlines Object (Excel)
+title: Gridlines object (Excel)
 keywords: vbaxl10.chm601072
 f1_keywords:
 - vbaxl10.chm601072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines Object (Excel)
+# Gridlines object (Excel)
 
 Represents major or minor gridlines on a chart axis.
 

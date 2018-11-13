@@ -1,5 +1,5 @@
 ---
-title: TimelineState Object (Excel)
+title: TimelineState object (Excel)
 keywords: vbaxl10.chm949072
 f1_keywords:
 - vbaxl10.chm949072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState Object (Excel)
+# TimelineState object (Excel)
 
-The timeline-specific state of a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
+The timeline-specific state of a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Remarks

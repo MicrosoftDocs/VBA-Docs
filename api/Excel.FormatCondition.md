@@ -1,5 +1,5 @@
 ---
-title: FormatCondition Object (Excel)
+title: FormatCondition object (Excel)
 keywords: vbaxl10.chm511072
 f1_keywords:
 - vbaxl10.chm511072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition Object (Excel)
+# FormatCondition object (Excel)
 
 Represents a conditional format.
 

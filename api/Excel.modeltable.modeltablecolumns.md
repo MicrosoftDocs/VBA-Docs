@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelTable.ModelTableColumns property (Excel)
 
-Collection of [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) that make up the ModelTable. Read-only
+Collection of [ModelTableColumns object (Excel)](Excel.modeltablecolumns.md) that make up the ModelTable. Read-only
 
 
 ## Syntax
 
  _expression_. `ModelTableColumns`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+ _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

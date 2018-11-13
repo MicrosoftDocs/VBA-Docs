@@ -1,5 +1,5 @@
 ---
-title: PivotTable Object (Excel)
+title: PivotTable object (Excel)
 keywords: vbaxl10.chm234072
 f1_keywords:
 - vbaxl10.chm234072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable Object (Excel)
+# PivotTable object (Excel)
 
 Represents a PivotTable report on a worksheet.
 

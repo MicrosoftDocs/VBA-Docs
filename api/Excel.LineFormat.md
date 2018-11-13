@@ -1,5 +1,5 @@
 ---
-title: LineFormat Object (Excel)
+title: LineFormat object (Excel)
 keywords: vbaxl10.chm110000
 f1_keywords:
 - vbaxl10.chm110000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat Object (Excel)
+# LineFormat object (Excel)
 
 Represents line and arrowhead formatting.
 

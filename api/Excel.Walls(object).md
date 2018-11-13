@@ -1,5 +1,5 @@
 ---
-title: Walls Object (Excel)
+title: Walls object (Excel)
 keywords: vbaxl10.chm613072
 f1_keywords:
 - vbaxl10.chm613072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls Object (Excel)
+# Walls object (Excel)
 
 Represents the walls of a 3-D chart. This object isn't a collection. There's no object that represents a single wall; you must return all the walls as a unit.
 

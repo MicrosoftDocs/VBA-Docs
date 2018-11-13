@@ -1,5 +1,5 @@
 ---
-title: HiLoLines Object (Excel)
+title: HiLoLines object (Excel)
 keywords: vbaxl10.chm599072
 f1_keywords:
 - vbaxl10.chm599072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines Object (Excel)
+# HiLoLines object (Excel)
 
 Represents the high-low lines in a chart group.
 

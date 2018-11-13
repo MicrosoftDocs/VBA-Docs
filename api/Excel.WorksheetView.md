@@ -1,5 +1,5 @@
 ---
-title: WorksheetView Object (Excel)
+title: WorksheetView object (Excel)
 keywords: vbaxl10.chm777072
 f1_keywords:
 - vbaxl10.chm777072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView Object (Excel)
+# WorksheetView object (Excel)
 
 An object that defines the behavior of a single worksheet view.
 

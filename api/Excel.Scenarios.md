@@ -1,5 +1,5 @@
 ---
-title: Scenarios Object (Excel)
+title: Scenarios object (Excel)
 keywords: vbaxl10.chm361072
 f1_keywords:
 - vbaxl10.chm361072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios Object (Excel)
+# Scenarios object (Excel)
 
 A collection of all the  **[Scenario](Excel.Scenario.md)** objects on the specified worksheet.
 

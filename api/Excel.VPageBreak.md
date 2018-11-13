@@ -1,5 +1,5 @@
 ---
-title: VPageBreak Object (Excel)
+title: VPageBreak object (Excel)
 keywords: vbaxl10.chm155072
 f1_keywords:
 - vbaxl10.chm155072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak Object (Excel)
+# VPageBreak object (Excel)
 
 Represents a vertical page break.
 

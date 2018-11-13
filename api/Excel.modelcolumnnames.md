@@ -1,5 +1,5 @@
 ---
-title: ModelColumnNames Object (Excel)
+title: ModelColumnNames object (Excel)
 keywords: vbaxl10.chm963072
 f1_keywords:
 - vbaxl10.chm963072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnNames Object (Excel)
+# ModelColumnNames object (Excel)
 
-A collection of [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects representing columns of tables in the data model.
+A collection of [ModelColumnName object (Excel)](Excel.modelcolumnname.md) objects representing columns of tables in the data model.
 
 
 ## See also

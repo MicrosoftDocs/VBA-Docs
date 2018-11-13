@@ -1,5 +1,5 @@
 ---
-title: DataBarBorder Object (Excel)
+title: DataBarBorder object (Excel)
 keywords: vbaxl10.chm884072
 f1_keywords:
 - vbaxl10.chm884072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataBarBorder Object (Excel)
+# DataBarBorder object (Excel)
 
 Represents the border of the data bars specified by a conditional formatting rule.
 

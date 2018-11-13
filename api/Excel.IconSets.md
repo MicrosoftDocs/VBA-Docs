@@ -1,5 +1,5 @@
 ---
-title: IconSets Object (Excel)
+title: IconSets object (Excel)
 keywords: vbaxl10.chm819072
 f1_keywords:
 - vbaxl10.chm819072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSets Object (Excel)
+# IconSets object (Excel)
 
 Represents a collection of icon sets used in an icon set conditional formatting rule.
 

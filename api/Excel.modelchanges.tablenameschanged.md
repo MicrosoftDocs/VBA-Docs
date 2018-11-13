@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelChanges.TableNamesChanged property (Excel)
 
-Returns a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) collection of[ModelTableNameChange Object (Excel)](Excel.modeltablenamechange.md) objects representing old and new names of all tables which were renamed in the model as part of a model operation. Read-only.
+Returns a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) collection of[ModelTableNameChange object (Excel)](Excel.modeltablenamechange.md) objects representing old and new names of all tables which were renamed in the model as part of a model operation. Read-only.
 
 
 ## Syntax

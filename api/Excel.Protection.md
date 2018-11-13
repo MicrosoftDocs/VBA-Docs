@@ -1,5 +1,5 @@
 ---
-title: Protection Object (Excel)
+title: Protection object (Excel)
 keywords: vbaxl10.chm719072
 f1_keywords:
 - vbaxl10.chm719072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection Object (Excel)
+# Protection object (Excel)
 
 Represents the various types of protection options available for a worksheet.
 

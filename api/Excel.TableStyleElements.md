@@ -1,5 +1,5 @@
 ---
-title: TableStyleElements Object (Excel)
+title: TableStyleElements object (Excel)
 keywords: vbaxl10.chm836072
 f1_keywords:
 - vbaxl10.chm836072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElements Object (Excel)
+# TableStyleElements object (Excel)
 
 Represents table style elements.
 

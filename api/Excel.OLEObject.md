@@ -1,5 +1,5 @@
 ---
-title: OLEObject Object (Excel)
+title: OLEObject object (Excel)
 keywords: vbaxl10.chm414072
 f1_keywords:
 - vbaxl10.chm414072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject Object (Excel)
+# OLEObject object (Excel)
 
 Represents an ActiveX control or a linked or embedded OLE object on a worksheet.
 

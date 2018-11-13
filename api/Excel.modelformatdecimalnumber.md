@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDecimalNumber Object (Excel)
+title: ModelFormatDecimalNumber object (Excel)
 keywords: vbaxl10.chm985072
 f1_keywords:
 - vbaxl10.chm985072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDecimalNumber Object (Excel)
+# ModelFormatDecimalNumber object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

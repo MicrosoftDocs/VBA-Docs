@@ -1,5 +1,5 @@
 ---
-title: Trendline Object (Excel)
+title: Trendline object (Excel)
 keywords: vbaxl10.chm593072
 f1_keywords:
 - vbaxl10.chm593072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline Object (Excel)
+# Trendline object (Excel)
 
 Represents a trendline in a chart.
 

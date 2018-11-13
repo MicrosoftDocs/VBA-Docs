@@ -1,5 +1,5 @@
 ---
-title: ModelFormatGeneral Object (Excel)
+title: ModelFormatGeneral object (Excel)
 keywords: vbaxl10.chm981072
 f1_keywords:
 - vbaxl10.chm981072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatGeneral Object (Excel)
+# ModelFormatGeneral object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

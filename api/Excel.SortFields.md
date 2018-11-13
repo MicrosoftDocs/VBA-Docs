@@ -1,5 +1,5 @@
 ---
-title: SortFields Object (Excel)
+title: SortFields object (Excel)
 keywords: vbaxl10.chm844072
 f1_keywords:
 - vbaxl10.chm844072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortFields Object (Excel)
+# SortFields object (Excel)
 
 The  **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
 

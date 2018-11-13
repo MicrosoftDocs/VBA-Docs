@@ -1,5 +1,5 @@
 ---
-title: Page Object (Excel)
+title: Page object (Excel)
 keywords: vbaxl10.chm830072
 f1_keywords:
 - vbaxl10.chm830072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page Object (Excel)
+# Page object (Excel)
 
 Represents a page in a workbook. Use the  **PageSetup** object and the related methods and properties for programmatically defining page layout in a workbook.
 

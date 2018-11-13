@@ -8,7 +8,7 @@ ms.prod: excel
 
 # Model.ModelMeasures property (Excel)
 
-Returns a [ModelMeasures Object (Excel)](Excel.modelmeasures.md) object that represents the collection of model measures in the data model. Read-only.
+Returns a [ModelMeasures object (Excel)](Excel.modelmeasures.md) object that represents the collection of model measures in the data model. Read-only.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: CellFormat Object (Excel)
+title: CellFormat object (Excel)
 keywords: vbaxl10.chm675072
 f1_keywords:
 - vbaxl10.chm675072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat Object (Excel)
+# CellFormat object (Excel)
 
 Represents the search criteria for the cell format.
 

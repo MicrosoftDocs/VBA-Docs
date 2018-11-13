@@ -1,5 +1,5 @@
 ---
-title: ChartFormat Object (Excel)
+title: ChartFormat object (Excel)
 keywords: vbaxl10.chm860072
 f1_keywords:
 - vbaxl10.chm860072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat Object (Excel)
+# ChartFormat object (Excel)
 
 Provides access to the Office Art formatting for chart elements. 
 

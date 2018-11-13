@@ -1,5 +1,5 @@
 ---
-title: ColorScale Object (Excel)
+title: ColorScale object (Excel)
 keywords: vbaxl10.chm805072
 f1_keywords:
 - vbaxl10.chm805072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale Object (Excel)
+# ColorScale object (Excel)
 
 Represents a color scale conditional formatting rule.
 

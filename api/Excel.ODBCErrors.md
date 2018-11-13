@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors Object (Excel)
+title: ODBCErrors object (Excel)
 keywords: vbaxl10.chm528072
 f1_keywords:
 - vbaxl10.chm528072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCErrors Object (Excel)
+# ODBCErrors object (Excel)
 
 A collection of  **[ODBCError](Excel.ODBCError.md)** objects.
 

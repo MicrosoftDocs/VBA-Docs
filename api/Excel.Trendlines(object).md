@@ -1,5 +1,5 @@
 ---
-title: Trendlines Object (Excel)
+title: Trendlines object (Excel)
 keywords: vbaxl10.chm591072
 f1_keywords:
 - vbaxl10.chm591072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines Object (Excel)
+# Trendlines object (Excel)
 
 A collection of all the  **[Trendline](Excel.Trendline(object).md)** objects for the specified series.
 

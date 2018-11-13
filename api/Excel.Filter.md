@@ -1,5 +1,5 @@
 ---
-title: Filter Object (Excel)
+title: Filter object (Excel)
 keywords: vbaxl10.chm541072
 f1_keywords:
 - vbaxl10.chm541072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filter Object (Excel)
+# Filter object (Excel)
 
 Represents a filter for a single column.
 

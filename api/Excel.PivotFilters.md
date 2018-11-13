@@ -1,5 +1,5 @@
 ---
-title: PivotFilters Object (Excel)
+title: PivotFilters object (Excel)
 keywords: vbaxl10.chm771072
 f1_keywords:
 - vbaxl10.chm771072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilters Object (Excel)
+# PivotFilters object (Excel)
 
 The  **PivotFilters** object is a collection of **PivotFilter** objects.
 

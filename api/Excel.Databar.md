@@ -1,5 +1,5 @@
 ---
-title: Databar Object (Excel)
+title: Databar object (Excel)
 keywords: vbaxl10.chm809072
 f1_keywords:
 - vbaxl10.chm809072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar Object (Excel)
+# Databar object (Excel)
 
 Represents a data bar conditional formating rule. Applying a data bar to a range helps you see the value of a cell relative to other cells.
 

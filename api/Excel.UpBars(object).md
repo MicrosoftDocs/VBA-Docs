@@ -1,5 +1,5 @@
 ---
-title: UpBars Object (Excel)
+title: UpBars object (Excel)
 keywords: vbaxl10.chm607072
 f1_keywords:
 - vbaxl10.chm607072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars Object (Excel)
+# UpBars object (Excel)
 
 Represents the up bars in a chart group.
 

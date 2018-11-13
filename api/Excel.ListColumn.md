@@ -1,5 +1,5 @@
 ---
-title: ListColumn Object (Excel)
+title: ListColumn object (Excel)
 keywords: vbaxl10.chm737072
 f1_keywords:
 - vbaxl10.chm737072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn Object (Excel)
+# ListColumn object (Excel)
 
 Represents a column in a table.
 

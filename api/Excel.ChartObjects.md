@@ -1,5 +1,5 @@
 ---
-title: ChartObjects Object (Excel)
+title: ChartObjects object (Excel)
 keywords: vbaxl10.chm495072
 f1_keywords:
 - vbaxl10.chm495072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects Object (Excel)
+# ChartObjects object (Excel)
 
 A collection of all the  **[ChartObject](Excel.ChartObject.md)** objects on the specified chart sheet, dialog sheet, or worksheet.
 

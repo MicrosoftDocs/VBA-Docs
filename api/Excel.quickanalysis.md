@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis Object (Excel)
+title: QuickAnalysis object (Excel)
 keywords: vbaxl10.chm919072
 f1_keywords:
 - vbaxl10.chm919072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis Object (Excel)
+# QuickAnalysis object (Excel)
 
 Object that enables single-click access to data analysis features such as formulas, conditional formatting, sparklines, tables, charts, and PivotTables.
 

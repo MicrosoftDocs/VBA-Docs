@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDate Object (Excel)
+title: ModelFormatDate object (Excel)
 keywords: vbaxl10.chm983072
 f1_keywords:
 - vbaxl10.chm983072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDate Object (Excel)
+# ModelFormatDate object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

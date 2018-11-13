@@ -1,5 +1,5 @@
 ---
-title: Worksheets Object (Excel)
+title: Worksheets object (Excel)
 keywords: vbaxl10.chm469072
 f1_keywords:
 - vbaxl10.chm469072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets Object (Excel)
+# Worksheets object (Excel)
 
 A collection of all the  **[Worksheet](Excel.Worksheet.md)** objects in the specified or active workbook. Each **Worksheet** object represents a worksheet.
 

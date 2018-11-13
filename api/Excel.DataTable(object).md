@@ -1,5 +1,5 @@
 ---
-title: DataTable Object (Excel)
+title: DataTable object (Excel)
 keywords: vbaxl10.chm625072
 f1_keywords:
 - vbaxl10.chm625072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable Object (Excel)
+# DataTable object (Excel)
 
 Represents a chart data table.
 

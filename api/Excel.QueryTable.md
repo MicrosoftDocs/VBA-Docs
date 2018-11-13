@@ -1,5 +1,5 @@
 ---
-title: QueryTable Object (Excel)
+title: QueryTable object (Excel)
 keywords: vbaxl10.chm517072
 f1_keywords:
 - vbaxl10.chm517072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable Object (Excel)
+# QueryTable object (Excel)
 
 Represents a worksheet table built from data returned from an external data source, such as an SQL server or a Microsoft Access database.
 

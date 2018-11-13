@@ -1,5 +1,5 @@
 ---
-title: PivotTables Object (Excel)
+title: PivotTables object (Excel)
 keywords: vbaxl10.chm237072
 f1_keywords:
 - vbaxl10.chm237072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTables Object (Excel)
+# PivotTables object (Excel)
 
 A collection of all the  **[PivotTable](Excel.PivotTable.md)** objects in the specified workbook.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFilter Object (Excel)
+title: AutoFilter object (Excel)
 keywords: vbaxl10.chm537072
 f1_keywords:
 - vbaxl10.chm537072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter Object (Excel)
+# AutoFilter object (Excel)
 
 Represents autofiltering for the specified worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection Object (Excel)
+title: CategoryCollection object (Excel)
 keywords: vbaxl10.chm947072
 f1_keywords:
 - vbaxl10.chm947072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection Object (Excel)
+# CategoryCollection object (Excel)
 
 Represents the collection of visible chart categories in the chart.
 

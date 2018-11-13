@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [TextConnection Object (Excel)](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection object (Excel)](Excel.textconnection.md) object.
 
 
 ## Remarks

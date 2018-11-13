@@ -1,5 +1,5 @@
 ---
-title: ConditionValue Object (Excel)
+title: ConditionValue object (Excel)
 keywords: vbaxl10.chm803072
 f1_keywords:
 - vbaxl10.chm803072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue Object (Excel)
+# ConditionValue object (Excel)
 
 Represents how the shortest bar or longest bar is evaluated for a data bar conditional formatting rule.
 

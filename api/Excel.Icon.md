@@ -1,5 +1,5 @@
 ---
-title: Icon Object (Excel)
+title: Icon object (Excel)
 keywords: vbaxl10.chm815072
 f1_keywords:
 - vbaxl10.chm815072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Icon Object (Excel)
+# Icon object (Excel)
 
 Represents a single icon in an icon set used in a conditional formatting rule.
 

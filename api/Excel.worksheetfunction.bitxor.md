@@ -18,7 +18,7 @@ Returns a bitwise 'Exclusive Or' of two numbers.
 
  _expression_. `Bitxor`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

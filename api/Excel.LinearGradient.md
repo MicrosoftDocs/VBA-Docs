@@ -1,5 +1,5 @@
 ---
-title: LinearGradient Object (Excel)
+title: LinearGradient object (Excel)
 keywords: vbaxl10.chm854072
 f1_keywords:
 - vbaxl10.chm854072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinearGradient Object (Excel)
+# LinearGradient object (Excel)
 
 The  **LinearGradient** object transitions through a series of colors in a linear manner along a specific angle.
 

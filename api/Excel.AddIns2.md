@@ -1,5 +1,5 @@
 ---
-title: AddIns2 Object (Excel)
+title: AddIns2 object (Excel)
 keywords: vbaxl10.chm866072
 f1_keywords:
 - vbaxl10.chm866072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns2 Object (Excel)
+# AddIns2 object (Excel)
 
 A collection of  **[AddIn](Excel.AddIn.md)** objects that represent all the add-ins that are currently available or open in Microsoft Excel, regardless of whether they are installed.
 

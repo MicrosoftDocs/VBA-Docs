@@ -1,5 +1,5 @@
 ---
-title: RecentFile Object (Excel)
+title: RecentFile object (Excel)
 keywords: vbaxl10.chm169072
 f1_keywords:
 - vbaxl10.chm169072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile Object (Excel)
+# RecentFile object (Excel)
 
 Represents a file in the list of recently used files.
 

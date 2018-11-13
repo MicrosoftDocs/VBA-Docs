@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Excel)
+title: Shape object (Excel)
 keywords: vbaxl10.chm635072
 f1_keywords:
 - vbaxl10.chm635072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape Object (Excel)
+# Shape object (Excel)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 

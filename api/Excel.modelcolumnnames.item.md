@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelColumnNames.Item method (Excel)
 
-Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection.
+Returns a single object from the [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection.
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) object.
+ _expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
 
 
 ## Parameters
@@ -31,7 +31,7 @@ Returns a single object from the [ModelColumnNames Object (Excel)](Excel.modelco
 
 ## Return value
 
-A [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object contained in the collection.
+A [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object contained in the collection.
 
 
 ## See also

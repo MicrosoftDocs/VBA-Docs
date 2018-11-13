@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient Object (Excel)
+title: RectangularGradient object (Excel)
 keywords: vbaxl10.chm856072
 f1_keywords:
 - vbaxl10.chm856072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient Object (Excel)
+# RectangularGradient object (Excel)
 
 The  **RectangularGradient** object transitions through a series of colors in a linear manner along a specific angle.
 

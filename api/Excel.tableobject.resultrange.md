@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TableObject.ResultRange property (Excel)
 
-Returns a [Range Object (Excel)](Excel.Range(object).md) object that represents the area of the worksheet occupied by the specified query table. Read-only
+Returns a [Range object (Excel)](Excel.Range(object).md) object that represents the area of the worksheet occupied by the specified query table. Read-only
 
 
 ## Syntax

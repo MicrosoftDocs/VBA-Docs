@@ -1,5 +1,5 @@
 ---
-title: Adjustments Object (Excel)
+title: Adjustments object (Excel)
 keywords: vbaxl10.chm103000
 f1_keywords:
 - vbaxl10.chm103000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments Object (Excel)
+# Adjustments object (Excel)
 
 Contains a collection of adjustment values for the specified AutoShape, WordArt object, or connector.
 

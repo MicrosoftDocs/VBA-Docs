@@ -1,5 +1,5 @@
 ---
-title: PivotLineCells Object (Excel)
+title: PivotLineCells object (Excel)
 keywords: vbaxl10.chm761072
 f1_keywords:
 - vbaxl10.chm761072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLineCells Object (Excel)
+# PivotLineCells object (Excel)
 
 Collection of  **PivotCell** objects for a specific PivotLine.
 

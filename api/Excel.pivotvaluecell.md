@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell Object (Excel)
+title: PivotValueCell object (Excel)
 keywords: vbaxl10.chm917072
 f1_keywords:
 - vbaxl10.chm917072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell Object (Excel)
+# PivotValueCell object (Excel)
 
 Provides a way to expose values of cells in the case that actual cells (**Range** objects) are not available.
 

@@ -18,7 +18,7 @@ Returns or sets the command string for the specified data source.  **Variant** R
 
  _expression_. `CommandType`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

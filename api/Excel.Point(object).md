@@ -1,5 +1,5 @@
 ---
-title: Point Object (Excel)
+title: Point object (Excel)
 keywords: vbaxl10.chm575072
 f1_keywords:
 - vbaxl10.chm575072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point Object (Excel)
+# Point object (Excel)
 
 Represents a single point in a series in a chart.
 

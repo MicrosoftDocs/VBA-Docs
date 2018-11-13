@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # PivotValueCell.PivotCell property (Excel)
 
-Returns the [PivotCell Object (Excel)](Excel.PivotCell.md) that specifies the location of the **PivotValueCell** . Read-only
+Returns the [PivotCell object (Excel)](Excel.PivotCell.md) that specifies the location of the **PivotValueCell** . Read-only
 
 
 ## Syntax
 
  _expression_. `PivotCell`
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+ _expression_ A variable that represents a [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object.
 
 
 ## Example

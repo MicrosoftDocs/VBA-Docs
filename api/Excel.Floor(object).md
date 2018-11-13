@@ -1,5 +1,5 @@
 ---
-title: Floor Object (Excel)
+title: Floor object (Excel)
 keywords: vbaxl10.chm611072
 f1_keywords:
 - vbaxl10.chm611072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor Object (Excel)
+# Floor object (Excel)
 
 Represents the floor of a 3-D chart.
 

@@ -1,5 +1,5 @@
 ---
-title: SortField Object (Excel)
+title: SortField object (Excel)
 keywords: vbaxl10.chm842072
 f1_keywords:
 - vbaxl10.chm842072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField Object (Excel)
+# SortField object (Excel)
 
 The  **SortField** object contains all the sort information for the **Worksheet**, **ListObject**, and **AutoFilter** objects.
 

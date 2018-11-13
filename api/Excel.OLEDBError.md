@@ -1,5 +1,5 @@
 ---
-title: OLEDBError Object (Excel)
+title: OLEDBError object (Excel)
 keywords: vbaxl10.chm653072
 f1_keywords:
 - vbaxl10.chm653072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBError Object (Excel)
+# OLEDBError object (Excel)
 
 Represents an OLE DB error returned by the most recent OLE DB query.
 

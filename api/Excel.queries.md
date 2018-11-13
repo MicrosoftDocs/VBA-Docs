@@ -1,5 +1,5 @@
 ---
-title: Queries Object (Excel)
+title: Queries object (Excel)
 keywords: vbaxl10.chm975072
 f1_keywords:
 - vbaxl10.chm975072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries Object (Excel)
+# Queries object (Excel)
 
 The collection of [WorkbookQuery](Excel.workbookquery.md) objects Introduced in Office 2016.
 

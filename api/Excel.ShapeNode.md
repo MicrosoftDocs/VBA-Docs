@@ -1,5 +1,5 @@
 ---
-title: ShapeNode Object (Excel)
+title: ShapeNode object (Excel)
 keywords: vbaxl10.chm111000
 f1_keywords:
 - vbaxl10.chm111000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode Object (Excel)
+# ShapeNode object (Excel)
 
 Represents the geometry and the geometry-editing properties of the nodes in a user-defined freeform.
 

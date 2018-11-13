@@ -1,5 +1,5 @@
 ---
-title: Parameters Object (Excel)
+title: Parameters object (Excel)
 keywords: vbaxl10.chm524072
 f1_keywords:
 - vbaxl10.chm524072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters Object (Excel)
+# Parameters object (Excel)
 
 A collection of  **[Parameter](Excel.Parameter.md)** objects for the specified query table.
 

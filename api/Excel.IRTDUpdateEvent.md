@@ -1,5 +1,5 @@
 ---
-title: IRTDUpdateEvent Object (Excel)
+title: IRTDUpdateEvent object (Excel)
 keywords: vbaxl10.chm500000
 f1_keywords:
 - vbaxl10.chm500000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRTDUpdateEvent Object (Excel)
+# IRTDUpdateEvent object (Excel)
 
 Represents real-time data update events.
 

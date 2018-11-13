@@ -1,5 +1,5 @@
 ---
-title: Windows Object (Excel)
+title: Windows object (Excel)
 keywords: vbaxl10.chm353072
 f1_keywords:
 - vbaxl10.chm353072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows Object (Excel)
+# Windows object (Excel)
 
 A collection of all the  **[Window](Excel.Window.md)** objects in Microsoft Excel.
 

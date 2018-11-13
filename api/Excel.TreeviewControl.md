@@ -1,5 +1,5 @@
 ---
-title: TreeviewControl Object (Excel)
+title: TreeviewControl object (Excel)
 keywords: vbaxl10.chm665072
 f1_keywords:
 - vbaxl10.chm665072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TreeviewControl Object (Excel)
+# TreeviewControl object (Excel)
 
 Represents the hierarchical member-selection control of a cube field.
 

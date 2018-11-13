@@ -1,5 +1,5 @@
 ---
-title: ChartGroups Object (Excel)
+title: ChartGroups object (Excel)
 keywords: vbaxl10.chm569072
 f1_keywords:
 - vbaxl10.chm569072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups Object (Excel)
+# ChartGroups object (Excel)
 
 Represents one or more series plotted in a chart with the same format.
 

@@ -1,5 +1,5 @@
 ---
-title: DialogSheetView Object (Excel)
+title: DialogSheetView object (Excel)
 keywords: vbaxl10.chm786072
 f1_keywords:
 - vbaxl10.chm786072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DialogSheetView Object (Excel)
+# DialogSheetView object (Excel)
 
 Represents the current  **Dialog** sheet view in a workbook.
 

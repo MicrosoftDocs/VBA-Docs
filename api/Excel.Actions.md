@@ -1,5 +1,5 @@
 ---
-title: Actions Object (Excel)
+title: Actions object (Excel)
 keywords: vbaxl10.chm799072
 f1_keywords:
 - vbaxl10.chm799072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Actions Object (Excel)
+# Actions object (Excel)
 
 A collection of all [Action](Excel.Action.md) objects for the specified series.
 

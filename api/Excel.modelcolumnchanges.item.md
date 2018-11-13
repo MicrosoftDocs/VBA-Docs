@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 
 # ModelColumnChanges.Item method (Excel)
 
-Returns a single object from the [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
+Returns a single object from the [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
+ _expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Parameters
@@ -31,7 +31,7 @@ Returns a single object from the [ModelColumnChanges Object (Excel)](Excel.model
 
 ## Return value
 
-A [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) object contained in the collection.
+A [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object contained in the collection.
 
 
 ## See also
