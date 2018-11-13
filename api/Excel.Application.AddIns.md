@@ -1,5 +1,5 @@
 ---
-title: Application.AddIns Property (Excel)
+title: Application.AddIns property (Excel)
 keywords: vbaxl10.chm132081
 f1_keywords:
 - vbaxl10.chm132081
@@ -11,21 +11,21 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddIns Property (Excel)
+# Application.AddIns property (Excel)
 
-Returns an  **[AddIns](Excel.AddIns.md)** collection that represents all the add-ins listed in the **Add-Ins** dialog box (**Add-Ins** command on the **Developer** tab). Read-only.
+Returns an **[AddIns](Excel.AddIns.md)** collection that represents all the add-ins listed in the **Add-Ins** dialog box (**Add-Ins** command on the **Developer** tab). Read-only.
 
 
 ## Syntax
 
- _expression_. `AddIns`
+_expression_. `AddIns`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks
 
-Using this method without an object qualifier is equivalent to  `Application.Addins`.
+Using this method without an object qualifier is equivalent to `Application.Addins`.
 
 
 ## Example
@@ -44,6 +44,5 @@ End If
 
 ## See also
 
-
-[Application Object](Excel.Application(object).md)
+- [Application object](Excel.Application(object).md)
 
