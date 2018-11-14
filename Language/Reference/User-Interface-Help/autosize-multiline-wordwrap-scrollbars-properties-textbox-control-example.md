@@ -19,9 +19,9 @@ To use this example, copy this sample code to the Declarations portion of a form
     
 - Four **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.
     
-To see the entire text placed in the **[TextBox](textbox-control.md)**, set **MultiLine** and **WordWrap** to **True** by clicking the **[ToggleButton](togglebutton-control.md)** controls.
+To see the entire text placed in the **TextBox**, set **MultiLine** and **WordWrap** to **True** by clicking the **ToggleButton** controls.
 
-When **MultiLine** is **True**, you can enter new lines of text by pressing SHIFT+ENTER. **ScrollBars** appears when you manually change the content of the **[TextBox](textbox-control.md)**.
+When **MultiLine** is **True**, you can enter new lines of text by pressing Shift+Enter. **ScrollBars** appears when you manually change the content of the **TextBox**.
 
 ```vb
 Private Sub UserForm_Initialize() 

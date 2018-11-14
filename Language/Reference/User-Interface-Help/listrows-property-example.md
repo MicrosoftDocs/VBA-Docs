@@ -1,32 +1,26 @@
 ---
-title: ListRows Property Example
+title: ListRows property example
 keywords: fm20.chm5225140
 f1_keywords:
 - fm20.chm5225140
 ms.prod: office
 ms.assetid: 2161f9e6-a524-b804-79de-acefbeb12180
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# ListRows Property Example
+# ListRows property example
 
-The following example uses a  **[SpinButton](spinbutton-control.md)** to control the number of rows in the drop-down list of a **[ComboBox](combobox-control.md)**. The user changes the value of the **[SpinButton](spinbutton-control.md)**, then clicks on the drop-down arrow of the **[ComboBox](combobox-control.md)** to display the list.
+The following example uses a **[SpinButton](spinbutton-control.md)** to control the number of rows in the drop-down list of a **[ComboBox](combobox-control.md)**. The user changes the value of the **SpinButton**, and then clicks on the drop-down arrow of the **ComboBox** to display the list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **[ComboBox](combobox-control.md)** named ComboBox1.
+- A **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- A  **[SpinButton](spinbutton-control.md)** named SpinButton1.
+- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
     
-- A  **[Label](label-control.md)** named Label1.
+- A **[Label](label-control.md)** named Label1.
     
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 

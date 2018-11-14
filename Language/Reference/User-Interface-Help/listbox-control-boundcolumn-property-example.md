@@ -1,32 +1,26 @@
 ---
-title: ListBox Control, BoundColumn Property Example
+title: ListBox control, BoundColumn property example
 keywords: fm20.chm5225170
 f1_keywords:
 - fm20.chm5225170
 ms.prod: office
 ms.assetid: 17b19e02-5db4-459b-533e-73220730de01
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# ListBox Control, BoundColumn Property Example
+# ListBox control, BoundColumn property example
 
-The following example demonstrates how the  **BoundColumn** property influences the value of a **[ListBox](listbox-control.md)**. The user can choose to set the value of the **[ListBox](listbox-control.md)** to the index value of the specified row, or to a specified column of data in the **[ListBox](listbox-control.md)**.
+The following example demonstrates how the **[BoundColumn](boundcolumn-property.md)** property influences the value of a **[ListBox](listbox-control.md)**. The user can choose to set the value of the **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **[ListBox](listbox-control.md)** named ListBox1.
+- A **[ListBox](listbox-control.md)** named ListBox1.
     
-- A  **[Label](label-control.md)** named Label1.
+- A **[Label](label-control.md)** named Label1.
     
-- Three  **[OptionButton](optionbutton-control.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
+- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
     
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 

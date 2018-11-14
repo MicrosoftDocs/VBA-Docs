@@ -11,7 +11,7 @@ ms.date: 11/14/2018
 
 # AddControl event, Add method example
 
-The following example uses the **[Add](add-method-microsoft-forms.md)** method to add a control to a form at run time and uses the **[AddControl](addcontrol-event.md)** event as confirmation that the control was added.
+The following example uses the **[Add](add-method-microsoft-forms.md)** method to add a control to a form at run time, and uses the **[AddControl](addcontrol-event.md)** event as confirmation that the control was added.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 

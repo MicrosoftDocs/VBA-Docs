@@ -1,33 +1,28 @@
 ---
-title: SpinDown, SpinUp Events, Delay Property Example
+title: SpinDown, SpinUp events, Delay property example
 keywords: fm20.chm5225147
 f1_keywords:
 - fm20.chm5225147
 ms.prod: office
 ms.assetid: a7c32938-d1b3-9962-8333-716ab8b09337
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# SpinDown, SpinUp Events, Delay Property Example
+# SpinDown, SpinUp events, Delay property example
 
-The following example demonstrates the time interval between successive  **Change**, **SpinUp**, and **SpinDown** events that occur when a user holds down the mouse button to change the value of a **[SpinButton](spinbutton-control.md)** or **[ScrollBar](scrollbar-control.md)**.
+The following example demonstrates the time interval between successive **[Change](change-event.md)**, **[SpinUp and SpinDown](spindown-spinup-events.md)** events that occur when a user holds down the mouse button to change the value of a **[SpinButton](spinbutton-control.md)** or **[ScrollBar](scrollbar-control.md)**.
 
-In this example, the user chooses a delay setting, then clicks and holds down either side of a  **[SpinButton](spinbutton-control.md)**. The **SpinUp** and **SpinDown** events are recorded in a **[ListBox](listbox-control.md)** as they are initiated.
+In this example, the user chooses a delay setting, and then clicks and holds down either side of a **SpinButton**. The **SpinUp** and **SpinDown** events are recorded in a **[ListBox](listbox-control.md)** as they are initiated.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **[SpinButton](spinbutton-control.md)** named SpinButton1.
+- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
     
-- Two  **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
     
-- A  **[ListBox](listbox-control.md)** named ListBox1.
+- A **[ListBox](listbox-control.md)** named ListBox1.
     
-
-
-
 
 ```vb
 Dim EventCount As Long 

@@ -1,20 +1,19 @@
 ---
-title: Controls Collection, Move Method Example
+title: Controls collection, Move method example
 keywords: fm20.chm5225192
 f1_keywords:
 - fm20.chm5225192
 ms.prod: office
 ms.assetid: 14694f03-8d28-9808-b413-96555f0fbc4b
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# Controls Collection, Move Method Example
+# Controls collection, Move method example
 
-The following example accesses individual controls from the  **Controls** collection using a **For Each...Next** loop. When the user presses CommandButton1, the other controls are placed in a column along the left edge of the form using the **Move** method.
+The following example accesses individual controls from the **[Controls](controls-collection-microsoft-forms.md)** collection by using a **For Each...Next** loop. When the user presses CommandButton1, the other controls are placed in a column along the left edge of the form by using the **[Move](move-method.md)** method.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **[CommandButton](commandbutton-control.md)** named CommandButton1 and several other controls.
-
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[CommandButton](commandbutton-control.md)** named CommandButton1 and several other controls.
 
 
 ```vb
@@ -46,7 +45,7 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb

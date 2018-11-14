@@ -1,32 +1,26 @@
 ---
-title: Parent Property Example
+title: Parent property example
 keywords: fm20.chm5225195
 f1_keywords:
 - fm20.chm5225195
 ms.prod: office
 ms.assetid: cad2ce98-5c96-c8b0-4592-f3ffdfdaaed8
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# Parent Property Example
+# Parent property example
 
-The following example uses the  **Parent** property to refer to the control or form that contains a specific control.
+The following example uses the **[Parent](parent-propertya-microsoft-forms.md)** property to refer to the control or form that contains a specific control.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Two  **[Label](label-control.md)** controls named Label1 and Label2.
+- Two **[Label](label-control.md)** controls named Label1 and Label2.
     
-- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 - One or more additional controls of your choice.
     
-
-
-
 
 ```vb
 Dim MyControl As Object 

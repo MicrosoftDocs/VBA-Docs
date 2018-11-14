@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example uses the **[Add](add-method-microsoft-forms.md)**, **[Cut](cut-method-microsoft-forms.md)**, and **[Paste](paste-method-microsoft-forms.md)** methods to cut and paste a control from a **[Page](page-object.md)** of a **[MultiPage](multipage-control.md)**. The control involved in the cut and paste operations is dynamically added to the form.
 
-This example assumes the user will add, cut, and then paste the new control.
+This example assumes that the user will add, cut, and then paste the new control.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 

@@ -1,33 +1,27 @@
 ---
-title: CanUndo, CanRedo Properties, UndoAction, RedoAction Methods Example
+title: CanUndo, CanRedo properties, UndoAction, RedoAction methods example
 keywords: fm20.chm5225169
 f1_keywords:
 - fm20.chm5225169
 ms.prod: office
 ms.assetid: 4c32245c-e209-9343-8351-9fc709b31e66
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# CanUndo, CanRedo Properties, UndoAction, RedoAction Methods Example
+# CanUndo, CanRedo properties, UndoAction, RedoAction methods example
 
-The following example demonstrates how to undo or redo text editing within a text box or within the text area of a  **[ComboBox](combobox-control.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **CanUndo** and **CanRedo** properties, and the **UndoAction** and **RedoAction** methods.
+The following example demonstrates how to undo or redo text editing within a text box or within the text area of a **[ComboBox](combobox-control.md)**. This sample checks whether an undo or redo operation can occur and then performs the appropriate action. The sample uses the **[CanUndo](canundo-property.md)** and **[CanRedo](canredo-property.md)** properties, and the **[UndoAction](undoaction-method.md)** and **[RedoAction](redoaction-method.md)** methods.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **[TextBox](textbox-control.md)** named TextBox1.
+- A **[TextBox](textbox-control.md)** named TextBox1.
     
-- A  **[ComboBox](combobox-control.md)** named ComboBox1.
+- A **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- Two  **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
+- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
-
-
-
-
+    
 ```vb
 Private Sub CommandButton1_Click() 
  If UserForm1.CanUndo = True Then 

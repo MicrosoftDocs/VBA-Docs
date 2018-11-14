@@ -1,32 +1,28 @@
 ---
-title: SetFocus Method, LineCount, TextLength Properties Example
+title: SetFocus method, LineCount, TextLength properties example
 keywords: fm20.chm5225149
 f1_keywords:
 - fm20.chm5225149
 ms.prod: office
 ms.assetid: 00b01a7c-f5f5-bc90-06a3-7f7a5bb71dc4
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# SetFocus Method, LineCount, TextLength Properties Example
+# SetFocus method, LineCount, TextLength properties example
 
-The following example counts the characters and the number of lines of text in a  **[TextBox](textbox-control.md)** by using the **LineCount** and **TextLength** properties, and the **SetFocus** method. In this example, the user can type into a **[TextBox](textbox-control.md)**, and can retrieve current values of the **LineCount** and **TextLength** properties.
+The following example counts the characters and the number of lines of text in a **[TextBox](textbox-control.md)** by using the **[LineCount](linecount-property.md)** and **[TextLength](textlength-property.md)** properties, and the **[SetFocus](setfocus-method.md)** method. 
+
+In this example, the user can type into a **TextBox**, and can retrieve current values of the **LineCount** and **TextLength** properties.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
-
-
-
-- A  **[TextBox](textbox-control.md)** named TextBox1.
+- A **[TextBox](textbox-control.md)** named TextBox1.
     
-- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- Two  **[Label](label-control.md)** controls named Label1 and Label2.
+- Two **[Label](label-control.md)** controls named Label1 and Label2.
     
-
-
-
 
 ```vb
 'Type SHIFT+ENTER to start a new line in the text box. 
