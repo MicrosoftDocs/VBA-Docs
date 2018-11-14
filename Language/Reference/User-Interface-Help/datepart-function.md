@@ -18,7 +18,7 @@ Returns a **Variant** (**Integer**) containing the specified part of a given dat
 
 The **DatePart** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to return.|
 |**_date_**|Required. **Variant** (**Date**) value that you want to evaluate.|
@@ -46,7 +46,7 @@ The **_interval_** [argument](../../Glossary/vbe-glossary.md#argument) has these
 
 The **_firstdayofweek_** argument has these settings:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
 |**vbSunday**|1|Sunday (default)|
@@ -61,7 +61,7 @@ The **_firstdayofweek_** argument has these settings:
 
 The **_firstweekofyear_** argument has these settings:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
 |**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|

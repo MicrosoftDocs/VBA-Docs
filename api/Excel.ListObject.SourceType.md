@@ -1,5 +1,5 @@
 ---
-title: ListObject.SourceType Property (Excel)
+title: ListObject.SourceType property (Excel)
 keywords: vbaxl10.chm734093
 f1_keywords:
 - vbaxl10.chm734093
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.SourceType Property (Excel)
+# ListObject.SourceType property (Excel)
 
-Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
+Returns a  **[xlListObjectSourceType](Excel.XlListObjectSourceType.md)** value that represents the current source of the list.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[XlListObjectSourceType](Excel.XlListObjectSourceType.md)** value t
 
 ## Example
 
-The following sample code returns a  **XlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
+The following sample code returns a  **xlListObjectSourceType** constant indicating the source of the default list on Sheet1 of the active workbook.
 
 
 ```vb

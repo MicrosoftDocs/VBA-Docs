@@ -1,5 +1,5 @@
 ---
-title: Document.SelectContentControlsByTitle Method (Word)
+title: Document.SelectContentControlsByTitle method (Word)
 keywords: vbawd10.chm158007847
 f1_keywords:
 - vbawd10.chm158007847
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectContentControlsByTitle Method (Word)
+# Document.SelectContentControlsByTitle method (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the title specified in the Title parameter. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: View.NextHeaderFooter Method (Word)
+title: View.NextHeaderFooter method (Word)
 keywords: vbawd10.chm161808490
 f1_keywords:
 - vbawd10.chm161808490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.NextHeaderFooter Method (Word)
+# View.NextHeaderFooter method (Word)
 
 Moves to the next header or footer, depending on whether a header or footer is displayed in the view.
 

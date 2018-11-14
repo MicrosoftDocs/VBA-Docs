@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Index Property (Word)
+title: HeaderFooter.Index property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Index
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Index Property (Word)
+# HeaderFooter.Index property (Word)
 
 Returns a  **WdHeaderFooterIndex** that represents the specified header or footer in a document or section. Read-only.
 

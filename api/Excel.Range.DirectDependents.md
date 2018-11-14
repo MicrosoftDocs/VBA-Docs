@@ -1,5 +1,5 @@
 ---
-title: Range.DirectDependents Property (Excel)
+title: Range.DirectDependents property (Excel)
 keywords: vbaxl10.chm144118
 f1_keywords:
 - vbaxl10.chm144118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DirectDependents Property (Excel)
+# Range.DirectDependents property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range containing all the direct dependents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one dependent. Read-only **Range** object.
 

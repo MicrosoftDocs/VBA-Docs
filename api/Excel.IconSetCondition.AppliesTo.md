@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.AppliesTo Property (Excel)
+title: IconSetCondition.AppliesTo property (Excel)
 keywords: vbaxl10.chm812075
 f1_keywords:
 - vbaxl10.chm812075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.AppliesTo Property (Excel)
+# IconSetCondition.AppliesTo property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range to which the formatting rule is applied.
 

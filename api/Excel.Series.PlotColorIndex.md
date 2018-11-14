@@ -1,5 +1,5 @@
 ---
-title: Series.PlotColorIndex Property (Excel)
+title: Series.PlotColorIndex property (Excel)
 keywords: vbaxl10.chm578125
 f1_keywords:
 - vbaxl10.chm578125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PlotColorIndex Property (Excel)
+# Series.PlotColorIndex property (Excel)
 
 Returns an index value that is used internally to associate series formatting with chart elements. Read-only
 

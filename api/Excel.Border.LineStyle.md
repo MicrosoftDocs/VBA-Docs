@@ -1,5 +1,5 @@
 ---
-title: Border.LineStyle Property (Excel)
+title: Border.LineStyle property (Excel)
 keywords: vbaxl10.chm547075
 f1_keywords:
 - vbaxl10.chm547075
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.LineStyle Property (Excel)
+# Border.LineStyle property (Excel)
 
-Returns or sets the line style for the border. Read/write  **[XlLineStyle](Excel.XlLineStyle.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
+Returns or sets the line style for the border. Read/write  **[xlLineStyle](Excel.XlLineStyle.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
 
 
 ## Syntax

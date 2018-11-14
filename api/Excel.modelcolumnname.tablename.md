@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName.TableName Property (Excel)
+title: ModelColumnName.TableName property (Excel)
 keywords: vbaxl10.chm962073
 f1_keywords:
 - vbaxl10.chm962073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName.TableName Property (Excel)
+# ModelColumnName.TableName property (Excel)
 
  **String** representing a table name of a table in the data model. Read-only.
 

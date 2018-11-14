@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsBalloonMargin Enumeration (Word)
+title: WdRevisionsBalloonMargin enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonMargin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsBalloonMargin Enumeration (Word)
+# WdRevisionsBalloonMargin enumeration (Word)
 
 Specifies the margin where revision balloons should be displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Formula Property (Excel)
+title: ChartTitle.Formula property (Excel)
 keywords: vbaxl10.chm563097
 f1_keywords:
 - vbaxl10.chm563097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Formula Property (Excel)
+# ChartTitle.Formula property (Excel)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 

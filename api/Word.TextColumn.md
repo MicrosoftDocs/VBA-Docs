@@ -1,5 +1,5 @@
 ---
-title: TextColumn Object (Word)
+title: TextColumn object (Word)
 ms.prod: word
 api_name:
 - Word.TextColumn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn Object (Word)
+# TextColumn object (Word)
 
 Represents a single text column. The  **TextColumn** object is a member of the **[TextColumns](Word(textcolumns).md)** collection. The **TextColumns** collection includes all the columns in a document or section of a document.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Hwnd Property (Word)
+title: Window.Hwnd property (Word)
 keywords: vbawd10.chm157417511
 f1_keywords:
 - vbawd10.chm157417511
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Hwnd Property (Word)
+# Window.Hwnd property (Word)
 
 Returns a  **Long** that indicates the window handle of the specified window. Read-only.
 

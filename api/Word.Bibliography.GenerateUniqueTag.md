@@ -1,5 +1,5 @@
 ---
-title: Bibliography.GenerateUniqueTag Method (Word)
+title: Bibliography.GenerateUniqueTag method (Word)
 keywords: vbawd10.chm101646440
 f1_keywords:
 - vbawd10.chm101646440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.GenerateUniqueTag Method (Word)
+# Bibliography.GenerateUniqueTag method (Word)
 
 Generates a unique identification tag for a bibliography source and returns a  **String** that represents the tag.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControls Object (Word)
+title: ContentControls object (Word)
 ms.prod: word
 api_name:
 - Word.ContentControls
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControls Object (Word)
+# ContentControls object (Word)
 
 A collection of  **[ContentControl](Word.ContentControl.md)** objects. Content controls are bounded and potentially labeled regions in a document that serve as containers for specific types of content. Individual content controls may contain content such as dates, lists, or paragraphs of formatted text.
 

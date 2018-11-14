@@ -1,5 +1,5 @@
 ---
-title: Find.Format Property (Word)
+title: Find.Format property (Word)
 keywords: vbawd10.chm162529308
 f1_keywords:
 - vbawd10.chm162529308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Format Property (Word)
+# Find.Format property (Word)
 
  **True** if formatting is included in the find operation. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Parent Property (Excel)
+title: IconSetCondition.Parent property (Excel)
 keywords: vbaxl10.chm811075
 f1_keywords:
 - vbaxl10.chm811075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.Parent Property (Excel)
+# IconSetCondition.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

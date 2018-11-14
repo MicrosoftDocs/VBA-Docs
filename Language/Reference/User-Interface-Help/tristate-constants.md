@@ -15,7 +15,7 @@ These constants are only available when your project has an explicit reference t
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbTrue**|-1|True|
 |**vbFalse**| ;0|False|

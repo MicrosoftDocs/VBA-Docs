@@ -1,5 +1,5 @@
 ---
-title: Style.Locked Property (Excel)
+title: Style.Locked property (Excel)
 keywords: vbaxl10.chm177088
 f1_keywords:
 - vbaxl10.chm177088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Locked Property (Excel)
+# Style.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the object is locked.
 

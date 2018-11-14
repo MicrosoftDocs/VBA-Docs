@@ -20,17 +20,17 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
  _expression_. `Recipients`
 
- _expression_ A variable that represents a '[MailItem](Outlook.MailItem.md)' object.
+ _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks
 
-A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP e-mail address.
+A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP email address.
 
 
 ## Example
 
-This Visual Basic for Applications (VBA) example creates a new e-mail message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
+This Visual Basic for Applications (VBA) example creates a new email message, uses the  **[Add](Outlook.Recipients.Add.md)** method to add "Dan Wilson" as a **[To](Outlook.MailItem.To.md)** recipient, and displays the message.
 
 
 ```vb
@@ -56,12 +56,5 @@ End Sub
 
 ## See also
 
-
-[MailItem Object](Outlook.MailItem.md)
-
-
-
-[How to: Send an E-mail Given the SMTP Address of an Account](./overview/Outlook.md)
-
-[How to: Send an E-mail Given the SMTP Address of an Account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
+- [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 

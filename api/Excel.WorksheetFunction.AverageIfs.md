@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AverageIfs Method (Excel)
+title: WorksheetFunction.AverageIfs method (Excel)
 keywords: vbaxl10.chm137356
 f1_keywords:
 - vbaxl10.chm137356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.AverageIfs Method (Excel)
+# WorksheetFunction.AverageIfs method (Excel)
 
 Returns the average (arithmetic mean) of all cells that meet multiple criteria.
 

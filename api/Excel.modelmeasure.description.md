@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.Description Property (Excel)
+title: ModelMeasure.Description property (Excel)
 keywords: vbaxl10.chm978077
 f1_keywords:
 - vbaxl10.chm978077
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.Description Property (Excel)
+# ModelMeasure.Description property (Excel)
 
 The description of the model measure. Read/write  **String**.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PageAlignmentGuides Property (Word)
+title: Options.PageAlignmentGuides property (Word)
 keywords: vbawd10.chm162988537
 f1_keywords:
 - vbawd10.chm162988537
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PageAlignmentGuides Property (Word)
+# Options.PageAlignmentGuides property (Word)
 
 Returns or sets a  **Boolean** that specifies whether page alignment guides are displayed in the user interface. Read-write.
 

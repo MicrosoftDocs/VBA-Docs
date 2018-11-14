@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.IsValid Property (Excel)
+title: CalculatedMember.IsValid property (Excel)
 keywords: vbaxl10.chm686077
 f1_keywords:
 - vbaxl10.chm686077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.IsValid Property (Excel)
+# CalculatedMember.IsValid property (Excel)
 
 Returns a Boolean that indicates whether the specified calculated member has been successfully instantiated with the OLAP provider during the current session.
 

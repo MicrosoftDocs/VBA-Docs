@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GammaLn Method (Excel)
+title: WorksheetFunction.GammaLn method (Excel)
 keywords: vbaxl10.chm137175
 f1_keywords:
 - vbaxl10.chm137175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.GammaLn Method (Excel)
+# WorksheetFunction.GammaLn method (Excel)
 
 Returns the natural logarithm of the gamma function, ?(x).
 

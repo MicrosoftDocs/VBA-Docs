@@ -1,5 +1,5 @@
 ---
-title: Workbook.IsInplace Property (Excel)
+title: Workbook.IsInplace property (Excel)
 keywords: vbaxl10.chm199184
 f1_keywords:
 - vbaxl10.chm199184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.IsInplace Property (Excel)
+# Workbook.IsInplace property (Excel)
 
  **True** if the specified workbook is being edited in place. **False** if the workbook has been opened in Microsoft Excel for editing. Read-only **Boolean** .
 

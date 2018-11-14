@@ -1,5 +1,5 @@
 ---
-title: Lines.Item Method (Word)
+title: Lines.Item method (Word)
 keywords: vbawd10.chm67108864
 f1_keywords:
 - vbawd10.chm67108864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lines.Item Method (Word)
+# Lines.Item method (Word)
 
 Returns an individual  **Line** object in a collection.
 

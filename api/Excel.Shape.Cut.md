@@ -1,5 +1,5 @@
 ---
-title: Shape.Cut Method (Excel)
+title: Shape.Cut method (Excel)
 keywords: vbaxl10.chm636126
 f1_keywords:
 - vbaxl10.chm636126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Cut Method (Excel)
+# Shape.Cut method (Excel)
 
 Cuts the object to the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Errors Property (Excel)
+title: Range.Errors property (Excel)
 keywords: vbaxl10.chm144235
 f1_keywords:
 - vbaxl10.chm144235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Errors Property (Excel)
+# Range.Errors property (Excel)
 
 Allows the user to access error checking options.
 

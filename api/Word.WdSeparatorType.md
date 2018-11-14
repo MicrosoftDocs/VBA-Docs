@@ -1,5 +1,5 @@
 ---
-title: WdSeparatorType Enumeration (Word)
+title: WdSeparatorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSeparatorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSeparatorType Enumeration (Word)
+# WdSeparatorType enumeration (Word)
 
 Specifies the type of separator to place between items.
 

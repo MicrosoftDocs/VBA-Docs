@@ -1,5 +1,5 @@
 ---
-title: Row.Next Property (Word)
+title: Row.Next property (Word)
 keywords: vbawd10.chm156237928
 f1_keywords:
 - vbawd10.chm156237928
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Next Property (Word)
+# Row.Next property (Word)
 
 Returns a  **Row** object that represents the table row that is next in the collection of rows in a table. Read-only.
 

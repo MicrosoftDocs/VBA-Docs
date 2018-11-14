@@ -1,5 +1,5 @@
 ---
-title: Task.Top Property (Word)
+title: Task.Top property (Word)
 keywords: vbawd10.chm159514626
 f1_keywords:
 - vbawd10.chm159514626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Top Property (Word)
+# Task.Top property (Word)
 
 Returns or sets the vertical position, in points, of the specified window. Read/write  **Long** .
 

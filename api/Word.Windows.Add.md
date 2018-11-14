@@ -1,5 +1,5 @@
 ---
-title: Windows.Add Method (Word)
+title: Windows.Add method (Word)
 keywords: vbawd10.chm157351946
 f1_keywords:
 - vbawd10.chm157351946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Add Method (Word)
+# Windows.Add method (Word)
 
 Returns a  **Window** object that represents a new window of a document.
 

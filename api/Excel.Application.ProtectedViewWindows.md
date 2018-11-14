@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindows Property (Excel)
+title: Application.ProtectedViewWindows property (Excel)
 keywords: vbaxl10.chm133330
 f1_keywords:
 - vbaxl10.chm133330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ProtectedViewWindows Property (Excel)
+# Application.ProtectedViewWindows property (Excel)
 
 Returns a  **[ProtectedViewWindows](Excel.ProtectedViewWindows.md)** collection that represents all the **Protected View** windows that are open in the application. Read-only
 

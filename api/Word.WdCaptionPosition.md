@@ -1,5 +1,5 @@
 ---
-title: WdCaptionPosition Enumeration (Word)
+title: WdCaptionPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCaptionPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCaptionPosition Enumeration (Word)
+# WdCaptionPosition enumeration (Word)
 
 Specifies the position of the caption label text.
 

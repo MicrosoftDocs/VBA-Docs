@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Parent Property (Excel)
+title: DisplayFormat.Parent property (Excel)
 keywords: vbaxl10.chm892075
 f1_keywords:
 - vbaxl10.chm892075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Parent Property (Excel)
+# DisplayFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

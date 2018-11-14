@@ -1,5 +1,5 @@
 ---
-title: WdGranularity Enumeration (Word)
+title: WdGranularity enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGranularity
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdGranularity Enumeration (Word)
+# WdGranularity enumeration (Word)
 
 Specifies the granularity of changes to track when comparing two documents.
 

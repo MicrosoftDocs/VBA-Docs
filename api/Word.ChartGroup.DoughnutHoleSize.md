@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DoughnutHoleSize Property (Word)
+title: ChartGroup.DoughnutHoleSize property (Word)
 keywords: vbawd10.chm263454722
 f1_keywords:
 - vbawd10.chm263454722
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.DoughnutHoleSize Property (Word)
+# ChartGroup.DoughnutHoleSize property (Word)
 
 Returns or sets the size of the hole in a doughnut chart group. Read/write  **Long** .
 

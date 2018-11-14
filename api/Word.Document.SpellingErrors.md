@@ -1,5 +1,5 @@
 ---
-title: Document.SpellingErrors Property (Word)
+title: Document.SpellingErrors property (Word)
 keywords: vbawd10.chm158007394
 f1_keywords:
 - vbawd10.chm158007394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SpellingErrors Property (Word)
+# Document.SpellingErrors property (Word)
 
 Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that represents the words identified as spelling errors in the specified document or range. Read-only.
 

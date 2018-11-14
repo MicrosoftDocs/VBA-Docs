@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradientType Property (Excel)
+title: FillFormat.PresetGradientType property (Excel)
 keywords: vbaxl10.chm115018
 f1_keywords:
 - vbaxl10.chm115018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetGradientType Property (Excel)
+# FillFormat.PresetGradientType property (Excel)
 
 Returns the preset gradient type for the specified fill. Read-only  **[MsoPresetGradientType](Office.MsoPresetGradientType.md)** .
 

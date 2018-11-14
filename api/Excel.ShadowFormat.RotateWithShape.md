@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.RotateWithShape Property (Excel)
+title: ShadowFormat.RotateWithShape property (Excel)
 keywords: vbaxl10.chm114012
 f1_keywords:
 - vbaxl10.chm114012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.RotateWithShape Property (Excel)
+# ShadowFormat.RotateWithShape property (Excel)
 
 Returns or sets an  **[MsoTriState](./Office.MsoTriState.md)** that represents whether to rotate the shadow when rotating the shape. Read/write.
 

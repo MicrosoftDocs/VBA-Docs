@@ -22,7 +22,7 @@ Replaces the specified shape?s current picture with a new picture.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _FileName_|Required|STRING|Specifies the full path of the replacement picture.|

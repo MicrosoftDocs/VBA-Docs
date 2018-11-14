@@ -1,5 +1,5 @@
 ---
-title: Application.FindFile Method (Excel)
+title: Application.FindFile method (Excel)
 keywords: vbaxl10.chm133256
 f1_keywords:
 - vbaxl10.chm133256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FindFile Method (Excel)
+# Application.FindFile method (Excel)
 
 Displays the  **Open** dialog box.
 

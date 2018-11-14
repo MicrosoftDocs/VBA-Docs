@@ -1,12 +1,12 @@
 ---
-title: Borders Object (Word)
+title: Borders object (Word)
 ms.prod: word
 ms.assetid: 6dd1d4cc-2dcf-22c7-a299-4721a5543ba3
 ms.date: 06/08/2017
 ---
 
 
-# Borders Object (Word)
+# Borders object (Word)
 
 A collection of  **[Border](Word.Border.md)** objects that represent the borders of an object.
 

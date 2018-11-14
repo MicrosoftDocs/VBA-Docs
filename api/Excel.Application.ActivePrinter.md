@@ -1,5 +1,5 @@
 ---
-title: Application.ActivePrinter Property (Excel)
+title: Application.ActivePrinter property (Excel)
 keywords: vbaxl10.chm183078
 f1_keywords:
 - vbaxl10.chm183078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActivePrinter Property (Excel)
+# Application.ActivePrinter property (Excel)
 
 Returns or sets the name of the active printer. Read/write  **String** .
 

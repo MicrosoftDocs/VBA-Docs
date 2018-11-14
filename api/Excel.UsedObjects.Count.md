@@ -1,5 +1,5 @@
 ---
-title: UsedObjects.Count Property (Excel)
+title: UsedObjects.Count property (Excel)
 keywords: vbaxl10.chm678073
 f1_keywords:
 - vbaxl10.chm678073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UsedObjects.Count Property (Excel)
+# UsedObjects.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

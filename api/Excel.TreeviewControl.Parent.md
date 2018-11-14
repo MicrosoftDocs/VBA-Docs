@@ -1,5 +1,5 @@
 ---
-title: TreeviewControl.Parent Property (Excel)
+title: TreeviewControl.Parent property (Excel)
 keywords: vbaxl10.chm665075
 f1_keywords:
 - vbaxl10.chm665075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TreeviewControl.Parent Property (Excel)
+# TreeviewControl.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

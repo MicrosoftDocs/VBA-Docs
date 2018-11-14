@@ -1,5 +1,5 @@
 ---
-title: ColorScale.Formula Property (Excel)
+title: ColorScale.Formula property (Excel)
 keywords: vbaxl10.chm806076
 f1_keywords:
 - vbaxl10.chm806076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.Formula Property (Excel)
+# ColorScale.Formula property (Excel)
 
 Returns or sets a  **String** representing a formula that determines the values to which the icon set will be applied.
 

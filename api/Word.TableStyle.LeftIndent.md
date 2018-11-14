@@ -1,5 +1,5 @@
 ---
-title: TableStyle.LeftIndent Property (Word)
+title: TableStyle.LeftIndent property (Word)
 keywords: vbawd10.chm244776974
 f1_keywords:
 - vbawd10.chm244776974
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.LeftIndent Property (Word)
+# TableStyle.LeftIndent property (Word)
 
 Returns or sets a  **Single** that represents the left indent value (in points) for the rows in the specified table style. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntry.Value Property (Word)
+title: OMathAutoCorrectEntry.Value property (Word)
 keywords: vbawd10.chm251723881
 f1_keywords:
 - vbawd10.chm251723881
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrectEntry.Value Property (Word)
+# OMathAutoCorrectEntry.Value property (Word)
 
 Returns or sets a  **String** that represents the contents of an equation auto correct entry. Read/write.
 

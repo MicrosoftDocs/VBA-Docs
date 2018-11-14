@@ -1,5 +1,5 @@
 ---
-title: XlPrintErrors Enumeration (Excel)
+title: xlPrintErrors enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPrintErrors
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPrintErrors Enumeration (Excel)
+# xlPrintErrors enumeration (Excel)
 
 Specifies the type of print error displayed.
 

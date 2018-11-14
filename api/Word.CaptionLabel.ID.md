@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.ID Property (Word)
+title: CaptionLabel.ID property (Word)
 keywords: vbawd10.chm158924802
 f1_keywords:
 - vbawd10.chm158924802
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.ID Property (Word)
+# CaptionLabel.ID property (Word)
 
 Returns a  **WdCaptionLabelID** constant that represents the type for the specified caption label if the **BuiltIn** property of the **CaptionLabel** object is **True** . Read-only.
 

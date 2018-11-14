@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Application Property (Excel)
+title: ModelTableNameChanges.Application property (Excel)
 keywords: vbaxl10.chm957073
 f1_keywords:
 - vbaxl10.chm957073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Application Property (Excel)
+# ModelTableNameChanges.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
+ _expression_ A variable that represents a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) object.
 
 
 ## Example

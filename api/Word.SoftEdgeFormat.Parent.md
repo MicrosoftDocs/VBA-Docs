@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Parent Property (Word)
+title: SoftEdgeFormat.Parent property (Word)
 keywords: vbawd10.chm184091626
 f1_keywords:
 - vbawd10.chm184091626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Parent Property (Word)
+# SoftEdgeFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **SoftEdgeFormat** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Parent Property (Excel)
+title: FullSeriesCollection.Parent property (Excel)
 keywords: vbaxl10.chm944073
 f1_keywords:
 - vbaxl10.chm944073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Parent Property (Excel)
+# FullSeriesCollection.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[FullSeriesCollection](Excel.fullseriescollection.md) object. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[FullSe
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object.
+ _expression_ A variable that represents a [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object.
 
 
 ## Remarks

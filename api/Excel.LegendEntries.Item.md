@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Item Method (Excel)
+title: LegendEntries.Item method (Excel)
 keywords: vbaxl10.chm588075
 f1_keywords:
 - vbaxl10.chm588075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries.Item Method (Excel)
+# LegendEntries.Item method (Excel)
 
 Returns a single object from a collection.
 

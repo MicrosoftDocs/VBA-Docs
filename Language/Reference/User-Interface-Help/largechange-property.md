@@ -23,7 +23,7 @@ _object_. **LargeChange** [= _Long_ ]
 The  **LargeChange** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer that specifies the amount of change to the  **Value** property.|

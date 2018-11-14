@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.AddIndent Property (Excel)
+title: DisplayFormat.AddIndent property (Excel)
 keywords: vbaxl10.chm893077
 f1_keywords:
 - vbaxl10.chm893077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.AddIndent Property (Excel)
+# DisplayFormat.AddIndent property (Excel)
 
 Returns a value that indicates if Microsoft Excel automatically indents text of the associated  **[Range](Excel.Range(object).md)** object when the text alignment in a cell is set to equal distribution (either horizontally or vertically), as it is displayed in the current user interface. Read-only.
 

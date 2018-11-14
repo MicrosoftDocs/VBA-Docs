@@ -1,5 +1,5 @@
 ---
-title: Table.ConvertToText Method (Word)
+title: Table.ConvertToText method (Word)
 keywords: vbawd10.chm156303379
 f1_keywords:
 - vbawd10.chm156303379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ConvertToText Method (Word)
+# Table.ConvertToText method (Word)
 
 Converts a table to text and returns a  **Range** object that represents the delimited text.
 

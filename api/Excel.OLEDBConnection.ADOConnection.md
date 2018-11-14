@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ADOConnection Property (Excel)
+title: OLEDBConnection.ADOConnection property (Excel)
 keywords: vbaxl10.chm794073
 f1_keywords:
 - vbaxl10.chm794073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ADOConnection Property (Excel)
+# OLEDBConnection.ADOConnection property (Excel)
 
 Returns an ADO connection object if the PivotTable cache is connected to an OLE DB data source. Read-only.
 

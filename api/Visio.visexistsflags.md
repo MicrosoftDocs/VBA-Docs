@@ -15,7 +15,7 @@ Flags to be passed to the  **Shape.SectionExists** property and similar properti
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visExistsAnywhere**|0|The ShapeSheet section either exists locally in the shape or is inherited.|
 | **visExistsLocally**|1|The ShapeSheet section exists locally in the shape.|

@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchColorStyle Method (Word)
+title: Chart.ClearToMatchColorStyle method (Word)
 keywords: vbawd10.chm79366565
 f1_keywords:
 - vbawd10.chm79366565
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ClearToMatchColorStyle Method (Word)
+# Chart.ClearToMatchColorStyle method (Word)
 
 Clears all colors on the specified chart that do not follow the color style applied to the chart.
 

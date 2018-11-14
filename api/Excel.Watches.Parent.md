@@ -1,5 +1,5 @@
 ---
-title: Watches.Parent Property (Excel)
+title: Watches.Parent property (Excel)
 keywords: vbaxl10.chm687075
 f1_keywords:
 - vbaxl10.chm687075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watches.Parent Property (Excel)
+# Watches.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

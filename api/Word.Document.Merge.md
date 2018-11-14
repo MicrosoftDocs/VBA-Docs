@@ -1,5 +1,5 @@
 ---
-title: Document.Merge Method (Word)
+title: Document.Merge method (Word)
 keywords: vbawd10.chm158007658
 f1_keywords:
 - vbawd10.chm158007658
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Merge Method (Word)
+# Document.Merge method (Word)
 
 Merges the changes marked with revision marks from one document to another.
 

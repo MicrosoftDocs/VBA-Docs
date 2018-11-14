@@ -23,7 +23,7 @@ _object_. **SelStart** [= _Long_ ]
 The  **SelStart** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A numeric expression specifying the starting point of text selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**. The default value is zero.|

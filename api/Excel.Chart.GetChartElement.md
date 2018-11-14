@@ -1,5 +1,5 @@
 ---
-title: Chart.GetChartElement Method (Excel)
+title: Chart.GetChartElement method (Excel)
 keywords: vbaxl10.chm149161
 f1_keywords:
 - vbaxl10.chm149161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.GetChartElement Method (Excel)
+# Chart.GetChartElement method (Excel)
 
 Returns information about the chart element at specified X and Y coordinates. This method is unusual in that you specify values for only the first two arguments. Microsoft Excel fills in the other arguments, and your code should examine those values when the method returns.
 
@@ -82,9 +82,9 @@ The following table describes the meaning of  _Arg1_ and _Arg2_ after the method
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **[XlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary** .|
-|AxisType|Specifies the axis type. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[XlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **[xlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary** .|
+|AxisType|Specifies the axis type. Can be one of the following  **[xlAxisType](Excel.XlAxisType.md)** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[xlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the  **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field. -1 if the drop zone type is **xlDataField** .|
 |PointIndex|Specifies the offset within the  **[Points](Excel.Points(object).md)** collection for a specific point within a series. A value of ? 1 indicates that all data points are selected.|

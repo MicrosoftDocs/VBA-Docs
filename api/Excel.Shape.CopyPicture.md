@@ -1,5 +1,5 @@
 ---
-title: Shape.CopyPicture Method (Excel)
+title: Shape.CopyPicture method (Excel)
 keywords: vbaxl10.chm636127
 f1_keywords:
 - vbaxl10.chm636127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.CopyPicture Method (Excel)
+# Shape.CopyPicture method (Excel)
 
 Copies the selected object to the Clipboard as a picture.
 

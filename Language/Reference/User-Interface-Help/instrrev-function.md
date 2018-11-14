@@ -19,7 +19,7 @@ Returns the position of an occurrence of one string within another, from the end
 
 The **InstrRev** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_stringcheck_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
 |**_stringmatch_**|Required. String expression being searched for.|
@@ -30,7 +30,7 @@ The **InstrRev** function syntax has these [named arguments](../../Glossary/vbe-
 
 The **_compare_** argument can have the following values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the **Option Compare** statement.|
 |**vbBinaryCompare**| 0|Performs a binary comparison.|

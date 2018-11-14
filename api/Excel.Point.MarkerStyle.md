@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerStyle Property (Excel)
+title: Point.MarkerStyle property (Excel)
 keywords: vbaxl10.chm576089
 f1_keywords:
 - vbaxl10.chm576089
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.MarkerStyle Property (Excel)
+# Point.MarkerStyle property (Excel)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Excel.XlMarkerStyle.md)** .
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](Excel.XlMarkerStyle.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 
 
-| **XlMarkerStyle** can be one of these **XlMarkerStyle** constants.|
+| **xlMarkerStyle** can be one of these **xlMarkerStyle** constants.|
 | **xlMarkerStyleAutomatic** . Automatic markers|
 | **xlMarkerStyleCircle** . Circular markers|
 | **xlMarkerStyleDash** . Long bar markers|

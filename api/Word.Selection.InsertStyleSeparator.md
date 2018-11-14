@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertStyleSeparator Method (Word)
+title: Selection.InsertStyleSeparator method (Word)
 keywords: vbawd10.chm158663676
 f1_keywords:
 - vbawd10.chm158663676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertStyleSeparator Method (Word)
+# Selection.InsertStyleSeparator method (Word)
 
 Inserts a special hidden paragraph mark that allows Microsoft Word to join paragraphs formatted using different paragraph styles, so lead-in headings can be inserted into a table of contents.
 

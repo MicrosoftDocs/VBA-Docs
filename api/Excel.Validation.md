@@ -1,5 +1,5 @@
 ---
-title: Validation Object (Excel)
+title: Validation object (Excel)
 keywords: vbaxl10.chm531072
 f1_keywords:
 - vbaxl10.chm531072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation Object (Excel)
+# Validation object (Excel)
 
 Represents data validation for a worksheet range.
 

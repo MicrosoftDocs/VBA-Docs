@@ -1,5 +1,5 @@
 ---
-title: UpBars.Select Method (Excel)
+title: UpBars.Select method (Excel)
 keywords: vbaxl10.chm608075
 f1_keywords:
 - vbaxl10.chm608075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Select Method (Excel)
+# UpBars.Select method (Excel)
 
 Selects the object.
 

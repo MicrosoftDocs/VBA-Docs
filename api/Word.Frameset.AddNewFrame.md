@@ -1,5 +1,5 @@
 ---
-title: Frameset.AddNewFrame Method (Word)
+title: Frameset.AddNewFrame method (Word)
 keywords: vbawd10.chm165806130
 f1_keywords:
 - vbawd10.chm165806130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.AddNewFrame Method (Word)
+# Frameset.AddNewFrame method (Word)
 
 Adds a new frame to a frames page.
 

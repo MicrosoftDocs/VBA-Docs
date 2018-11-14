@@ -1,5 +1,5 @@
 ---
-title: HPageBreak.Delete Method (Excel)
+title: HPageBreak.Delete method (Excel)
 keywords: vbaxl10.chm159074
 f1_keywords:
 - vbaxl10.chm159074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak.Delete Method (Excel)
+# HPageBreak.Delete method (Excel)
 
 Deletes the object.
 

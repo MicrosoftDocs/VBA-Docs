@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.ClearManualFilter Method (Excel)
+title: SlicerCache.ClearManualFilter method (Excel)
 keywords: vbaxl10.chm897089
 f1_keywords:
 - vbaxl10.chm897089
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.ClearManualFilter Method (Excel)
+# SlicerCache.ClearManualFilter method (Excel)
 
 Clears the manual filter for the slicer cache.
 

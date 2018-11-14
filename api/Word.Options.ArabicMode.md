@@ -1,5 +1,5 @@
 ---
-title: Options.ArabicMode Property (Word)
+title: Options.ArabicMode property (Word)
 keywords: vbawd10.chm162988444
 f1_keywords:
 - vbawd10.chm162988444
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ArabicMode Property (Word)
+# Options.ArabicMode property (Word)
 
 Returns or sets the mode for the Arabic spelling checker. Read/write  **WdAraSpeller** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.EditHeaderSource Method (Word)
+title: MailMerge.EditHeaderSource method (Word)
 keywords: vbawd10.chm153092204
 f1_keywords:
 - vbawd10.chm153092204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.EditHeaderSource Method (Word)
+# MailMerge.EditHeaderSource method (Word)
 
 Opens the header source attached to a mail merge main document, or activates the header source if it is already open.
 

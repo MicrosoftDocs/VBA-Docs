@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Creator Property (Excel)
+title: ModelTableNameChanges.Creator property (Excel)
 keywords: vbaxl10.chm957074
 f1_keywords:
 - vbaxl10.chm957074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Creator Property (Excel)
+# ModelTableNameChanges.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
+ _expression_ A variable that represents a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) object.
 
 
 ## Remarks

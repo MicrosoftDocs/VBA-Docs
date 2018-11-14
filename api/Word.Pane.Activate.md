@@ -1,5 +1,5 @@
 ---
-title: Pane.Activate Method (Word)
+title: Pane.Activate method (Word)
 keywords: vbawd10.chm157286500
 f1_keywords:
 - vbawd10.chm157286500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Activate Method (Word)
+# Pane.Activate method (Word)
 
 Activates the specified pane.
 

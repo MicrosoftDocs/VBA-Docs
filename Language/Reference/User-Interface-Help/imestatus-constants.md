@@ -16,7 +16,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 The constants for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME (default)|
 |**vbIMEModeOn**|1|IME on|
@@ -31,7 +31,7 @@ The constants for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) a
 The constant values for the Korean locale are as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME(default)|
 |**vbIMEModeAlphaFull**|7|Full-width Alphanumeric mode|
@@ -42,7 +42,7 @@ The constant values for the Korean locale are as follows:
 The constant values for the Chinese locale are as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME (default)|
 |**vbIMEModeOn**|1|IME on|

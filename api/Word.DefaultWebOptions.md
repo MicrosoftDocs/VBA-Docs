@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions Object (Word)
+title: DefaultWebOptions object (Word)
 ms.prod: word
 api_name:
 - Word.DefaultWebOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions Object (Word)
+# DefaultWebOptions object (Word)
 
 Contains global application-level attributes used by Microsoft Word when you open a Web page or save a document as a Web page.
 

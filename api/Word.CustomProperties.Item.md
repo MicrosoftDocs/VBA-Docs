@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Item Method (Word)
+title: CustomProperties.Item method (Word)
 keywords: vbawd10.chm232849408
 f1_keywords:
 - vbawd10.chm232849408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Item Method (Word)
+# CustomProperties.Item method (Word)
 
 Returns a  **CustomProperty** object in a collection.
 

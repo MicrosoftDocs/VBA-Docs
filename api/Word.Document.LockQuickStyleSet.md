@@ -1,5 +1,5 @@
 ---
-title: Document.LockQuickStyleSet Property (Word)
+title: Document.LockQuickStyleSet property (Word)
 keywords: vbawd10.chm158007814
 f1_keywords:
 - vbawd10.chm158007814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.LockQuickStyleSet Property (Word)
+# Document.LockQuickStyleSet property (Word)
 
 Returns or sets a  **Boolean** that represents whether users can change which set of Quick Styles is being used. Read/write.
 

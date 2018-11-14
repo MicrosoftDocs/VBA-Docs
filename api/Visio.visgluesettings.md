@@ -15,7 +15,7 @@ Flags passed to or returned by the  **Document.GlueSettings** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGlueToConnectionPoints**|&H8|Glue to connection points.|
 | **visGlueToDisabled**|&H8000|Disable glue.|

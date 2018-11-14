@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors.Count Property (Excel)
+title: ODBCErrors.Count property (Excel)
 keywords: vbaxl10.chm529073
 f1_keywords:
 - vbaxl10.chm529073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCErrors.Count Property (Excel)
+# ODBCErrors.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

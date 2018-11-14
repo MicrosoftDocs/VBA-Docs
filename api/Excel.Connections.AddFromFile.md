@@ -1,5 +1,5 @@
 ---
-title: Connections.AddFromFile Method (Excel)
+title: Connections.AddFromFile method (Excel)
 keywords: vbaxl10.chm776080
 f1_keywords:
 - vbaxl10.chm776080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.AddFromFile Method (Excel)
+# Connections.AddFromFile method (Excel)
 
 Adds a connection from the specified file.
 

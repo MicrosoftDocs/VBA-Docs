@@ -1,5 +1,5 @@
 ---
-title: Range.Delete Method (Excel)
+title: Range.Delete method (Excel)
 keywords: vbaxl10.chm144115
 f1_keywords:
 - vbaxl10.chm144115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Delete Method (Excel)
+# Range.Delete method (Excel)
 
 Deletes the object.
 
@@ -29,7 +29,7 @@ Deletes the object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Shift_|Optional| **Variant**|Used only with  **[Range](Excel.Range(object).md)** objects. Specifies how to shift cells to replace deleted cells. Can be one of the following **[XlDeleteShiftDirection](Excel.XlDeleteShiftDirection.md)** constants: **xlShiftToLeft** or **xlShiftUp** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
+| _Shift_|Optional| **Variant**|Used only with  **[Range](Excel.Range(object).md)** objects. Specifies how to shift cells to replace deleted cells. Can be one of the following **[xlDeleteShiftDirection](Excel.XlDeleteShiftDirection.md)** constants: **xlShiftToLeft** or **xlShiftUp** . If this argument is omitted, Microsoft Excel decides based on the shape of the range.|
 
 ## Return value
 

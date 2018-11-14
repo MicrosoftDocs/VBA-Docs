@@ -1,5 +1,5 @@
 ---
-title: List.ConvertNumbersToText Method (Word)
+title: List.ConvertNumbersToText method (Word)
 keywords: vbawd10.chm160563301
 f1_keywords:
 - vbawd10.chm160563301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.ConvertNumbersToText Method (Word)
+# List.ConvertNumbersToText method (Word)
 
 Changes the list numbers and LISTNUM fields in the specified  **List** object.
 

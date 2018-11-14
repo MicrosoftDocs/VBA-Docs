@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayMemberPropertyTooltips Property (Excel)
+title: PivotTable.DisplayMemberPropertyTooltips property (Excel)
 keywords: vbaxl10.chm235160
 f1_keywords:
 - vbaxl10.chm235160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayMemberPropertyTooltips Property (Excel)
+# PivotTable.DisplayMemberPropertyTooltips property (Excel)
 
 Controls whether or not to display member properties in tooltips. Read/write  **Boolean** .
 

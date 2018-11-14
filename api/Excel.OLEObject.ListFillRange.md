@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ListFillRange Property (Excel)
+title: OLEObject.ListFillRange property (Excel)
 keywords: vbaxl10.chm417082
 f1_keywords:
 - vbaxl10.chm417082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.ListFillRange Property (Excel)
+# OLEObject.ListFillRange property (Excel)
 
 Returns or sets the worksheet range used to fill the specified list box. Setting this property destroys any existing list in the list box. Read/write  **String** .
 

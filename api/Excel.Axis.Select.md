@@ -1,5 +1,5 @@
 ---
-title: Axis.Select Method (Excel)
+title: Axis.Select method (Excel)
 keywords: vbaxl10.chm561098
 f1_keywords:
 - vbaxl10.chm561098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Select Method (Excel)
+# Axis.Select method (Excel)
 
 Selects the object.
 

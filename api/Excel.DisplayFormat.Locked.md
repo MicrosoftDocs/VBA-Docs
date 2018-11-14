@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Locked Property (Excel)
+title: DisplayFormat.Locked property (Excel)
 keywords: vbaxl10.chm893082
 f1_keywords:
 - vbaxl10.chm893082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Locked Property (Excel)
+# DisplayFormat.Locked property (Excel)
 
 Returns a value that indicates if the associated  **[Range](Excel.Range(object).md)** object is locked as it is displayed in the current user interface. Read-only.
 

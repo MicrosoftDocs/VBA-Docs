@@ -1,5 +1,5 @@
 ---
-title: Global.AutoCorrect Property (Word)
+title: Global.AutoCorrect property (Word)
 keywords: vbawd10.chm163119114
 f1_keywords:
 - vbawd10.chm163119114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.AutoCorrect Property (Word)
+# Global.AutoCorrect property (Word)
 
 Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that contains the current AutoCorrect options, entries, and exceptions. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.TextColor Property (Word)
+title: Font.TextColor property (Word)
 keywords: vbawd10.chm156369069
 f1_keywords:
 - vbawd10.chm156369069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.TextColor Property (Word)
+# Font.TextColor property (Word)
 
 Returns a [ColorFormat](Word.ColorFormat.md) object that represents the color for the specified font. Read-only.
 

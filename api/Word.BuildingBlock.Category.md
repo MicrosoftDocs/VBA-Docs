@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Category Property (Word)
+title: BuildingBlock.Category property (Word)
 keywords: vbawd10.chm203620358
 f1_keywords:
 - vbawd10.chm203620358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Category Property (Word)
+# BuildingBlock.Category property (Word)
 
 Returns a  **[Category](Word.Category.md)** object that represents the category for a building block. Read-only.
 

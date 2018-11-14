@@ -1,5 +1,5 @@
 ---
-title: Document.WriteReserved Property (Word)
+title: Document.WriteReserved property (Word)
 keywords: vbawd10.chm158007384
 f1_keywords:
 - vbawd10.chm158007384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.WriteReserved Property (Word)
+# Document.WriteReserved property (Word)
 
  **True** if the specified document is protected with a write password. Read-only **Boolean** .
 

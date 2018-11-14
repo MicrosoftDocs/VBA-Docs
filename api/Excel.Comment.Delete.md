@@ -1,5 +1,5 @@
 ---
-title: Comment.Delete Method (Excel)
+title: Comment.Delete method (Excel)
 keywords: vbaxl10.chm516077
 f1_keywords:
 - vbaxl10.chm516077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Delete Method (Excel)
+# Comment.Delete method (Excel)
 
 Deletes the object.
 

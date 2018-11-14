@@ -1,5 +1,5 @@
 ---
-title: CubeField.ShowInFieldList Property (Excel)
+title: CubeField.ShowInFieldList property (Excel)
 keywords: vbaxl10.chm668092
 f1_keywords:
 - vbaxl10.chm668092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.ShowInFieldList Property (Excel)
+# CubeField.ShowInFieldList property (Excel)
 
 When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean** .
 

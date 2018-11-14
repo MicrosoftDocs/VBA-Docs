@@ -24,7 +24,7 @@ For MultiPage **Private Sub**_object_ _**Zoom(**_index_**As Long**, _Percent_**A
 The  **Zoom** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|

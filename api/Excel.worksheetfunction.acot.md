@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Acot Method (Excel)
+title: WorksheetFunction.Acot method (Excel)
 keywords: vbaxl10.chm137421
 f1_keywords:
 - vbaxl10.chm137421
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Acot Method (Excel)
+# WorksheetFunction.Acot method (Excel)
 
 Returns the arccotangent of a number, in radians in the range 0 to Pi.
 
@@ -18,14 +18,14 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
 
  _expression_. `Acot`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The cotangent of the angle you want.|
 

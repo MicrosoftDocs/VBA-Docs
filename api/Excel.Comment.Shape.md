@@ -1,5 +1,5 @@
 ---
-title: Comment.Shape Property (Excel)
+title: Comment.Shape property (Excel)
 keywords: vbaxl10.chm516074
 f1_keywords:
 - vbaxl10.chm516074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Shape Property (Excel)
+# Comment.Shape property (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached to the specified comment.
 

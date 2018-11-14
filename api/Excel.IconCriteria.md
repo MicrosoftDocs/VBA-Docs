@@ -1,5 +1,5 @@
 ---
-title: IconCriteria Object (Excel)
+title: IconCriteria object (Excel)
 keywords: vbaxl10.chm813072
 f1_keywords:
 - vbaxl10.chm813072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriteria Object (Excel)
+# IconCriteria object (Excel)
 
 Represents the collection of  **[IconCriterion](Excel.IconCriterion.md)** objects. Each **IconCriterion** represents the values and threshold type for each icon in an icon set conditional formatting rule.
 

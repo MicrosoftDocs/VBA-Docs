@@ -1,5 +1,5 @@
 ---
-title: Broadcast Object (Word)
+title: Broadcast object (Word)
 keywords: vbawd10.chm556
 f1_keywords:
 - vbawd10.chm556
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast Object (Word)
+# Broadcast object (Word)
 
 Represents a Windows Live 2012 Broadcast Service broadcast session.
 

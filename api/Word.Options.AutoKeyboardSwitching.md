@@ -1,5 +1,5 @@
 ---
-title: Options.AutoKeyboardSwitching Property (Word)
+title: Options.AutoKeyboardSwitching property (Word)
 keywords: vbawd10.chm162988431
 f1_keywords:
 - vbawd10.chm162988431
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoKeyboardSwitching Property (Word)
+# Options.AutoKeyboardSwitching property (Word)
 
- **True** if Microsoft Word automatically switches the keyboard language to match what you're typing at any given time. Read/write **Boolean** .
+ **True** if Microsoft Word automatically switches the keyboard language to match what you are typing at any given time. Read/write **Boolean** .
 
 
 ## Syntax

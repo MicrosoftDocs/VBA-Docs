@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection Object (Excel)
+title: OLEDBConnection object (Excel)
 keywords: vbaxl10.chm793072
 f1_keywords:
 - vbaxl10.chm793072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection Object (Excel)
+# OLEDBConnection object (Excel)
 
 Represents the OLE DB connection.
 

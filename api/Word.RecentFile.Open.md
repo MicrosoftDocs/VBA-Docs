@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Open Method (Word)
+title: RecentFile.Open method (Word)
 keywords: vbawd10.chm157548548
 f1_keywords:
 - vbawd10.chm157548548
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Open Method (Word)
+# RecentFile.Open method (Word)
 
 Opens the specified object. Returns a  **Document** object representing the opened document.
 

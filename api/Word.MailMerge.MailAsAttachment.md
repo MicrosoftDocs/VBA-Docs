@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailAsAttachment Property (Word)
+title: MailMerge.MailAsAttachment property (Word)
 keywords: vbawd10.chm153092104
 f1_keywords:
 - vbawd10.chm153092104
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailAsAttachment Property (Word)
+# MailMerge.MailAsAttachment property (Word)
 
- **True** if the merge documents are sent as attachments when the mail merge destination is an e-mail message or a fax. Read/write **Boolean** .
+ **True** if the merge documents are sent as attachments when the mail merge destination is an email message or a fax. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example performs a mail merge operation and sends the merge results as attachments to e-mail messages. The e-mail addresses are stored in the MailAddress merge field.
+This example performs a mail merge operation and sends the merge results as attachments to email messages. The email addresses are stored in the MailAddress merge field.
 
 
 ```vb

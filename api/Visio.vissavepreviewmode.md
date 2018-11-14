@@ -15,7 +15,7 @@ Values passed to and returned by the  **Document.SavePreviewMode** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSavePreviewDraft1st**|1|The first page; includes only Microsoft Visio shapes. Does not include embedded objects, text, or gradient fills.|
 | **visSavePreviewDraftAll**|4|All file pages; includes only Visio shapes. Does not include embedded objects, text, or gradient fills.|

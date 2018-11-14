@@ -1,5 +1,5 @@
 ---
-title: Application.ListCommands Method (Word)
+title: Application.ListCommands method (Word)
 keywords: vbawd10.chm158335322
 f1_keywords:
 - vbawd10.chm158335322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ListCommands Method (Word)
+# Application.ListCommands method (Word)
 
 Creates a new document and then inserts a table of Word commands along with their associated shortcut keys and menu assignments.
 

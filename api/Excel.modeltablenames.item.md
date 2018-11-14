@@ -1,5 +1,5 @@
 ---
-title: ModelTableNames.Item Method (Excel)
+title: ModelTableNames.Item method (Excel)
 keywords: vbaxl10.chm954074
 f1_keywords:
 - vbaxl10.chm954074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNames.Item Method (Excel)
+# ModelTableNames.Item method (Excel)
 
 Returns a single object from the  **ModelTableNames** collection.
 
@@ -18,14 +18,14 @@ Returns a single object from the  **ModelTableNames** collection.
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) object.
+ _expression_ A variable that represents a [ModelTableNames object (Excel)](Excel.modeltablenames.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name of the object.|
 

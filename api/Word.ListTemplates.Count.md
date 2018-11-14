@@ -1,5 +1,5 @@
 ---
-title: ListTemplates.Count Property (Word)
+title: ListTemplates.Count property (Word)
 keywords: vbawd10.chm160432130
 f1_keywords:
 - vbawd10.chm160432130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplates.Count Property (Word)
+# ListTemplates.Count property (Word)
 
 Returns a  **Long** that represents the number of list templates in the collection. Read-only.
 

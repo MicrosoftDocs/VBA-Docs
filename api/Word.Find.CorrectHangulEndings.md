@@ -1,5 +1,5 @@
 ---
-title: Find.CorrectHangulEndings Property (Word)
+title: Find.CorrectHangulEndings property (Word)
 keywords: vbawd10.chm162529341
 f1_keywords:
 - vbawd10.chm162529341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.CorrectHangulEndings Property (Word)
+# Find.CorrectHangulEndings property (Word)
 
  **True** if Microsoft Word automatically corrects Hangul endings when replacing Hangul text. Read/write **Boolean** .
 

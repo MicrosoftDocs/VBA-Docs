@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DStDev Method (Excel)
+title: WorksheetFunction.DStDev method (Excel)
 keywords: vbaxl10.chm137099
 f1_keywords:
 - vbaxl10.chm137099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DStDev Method (Excel)
+# WorksheetFunction.DStDev method (Excel)
 
 Estimates the standard deviation of a population based on a sample by using the numbers in a column of a list or database that match conditions that you specify.
 

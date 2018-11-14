@@ -1,5 +1,5 @@
 ---
-title: Application.Tasks Property (Word)
+title: Application.Tasks property (Word)
 keywords: vbawd10.chm158335004
 f1_keywords:
 - vbawd10.chm158335004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Tasks Property (Word)
+# Application.Tasks property (Word)
 
 Returns a  **[Tasks](Word.tasks.md)** collection that represents all the applications that are running.
 

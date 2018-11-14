@@ -1,5 +1,5 @@
 ---
-title: Workbook.UserStatus Property (Excel)
+title: Workbook.UserStatus property (Excel)
 keywords: vbaxl10.chm199163
 f1_keywords:
 - vbaxl10.chm199163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UserStatus Property (Excel)
+# Workbook.UserStatus property (Excel)
 
 Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant** .
 

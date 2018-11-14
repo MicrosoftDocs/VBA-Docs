@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Format Property (Word)
+title: DisplayUnitLabel.Format property (Word)
 keywords: vbawd10.chm94568481
 f1_keywords:
 - vbawd10.chm94568481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Format Property (Word)
+# DisplayUnitLabel.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

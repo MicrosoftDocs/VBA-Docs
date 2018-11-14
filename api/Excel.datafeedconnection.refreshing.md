@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.Refreshing Property (Excel)
+title: DataFeedConnection.Refreshing property (Excel)
 keywords: vbaxl10.chm928079
 f1_keywords:
 - vbaxl10.chm928079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.Refreshing Property (Excel)
+# DataFeedConnection.Refreshing property (Excel)
 
  **True** if an OLE DB query is in progress for the specified data source connection. **Boolean** Read/Write
 
@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `Refreshing`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

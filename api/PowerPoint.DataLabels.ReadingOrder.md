@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ReadingOrder Property (PowerPoint)
 
-Returns or sets an  **[XlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
+Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant that represents the reading order for the specified object. Read/write **Long**.
 
 
 ## Syntax

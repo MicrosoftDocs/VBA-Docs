@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PageSetup Property (Excel)
+title: Worksheet.PageSetup property (Excel)
 keywords: vbaxl10.chm174085
 f1_keywords:
 - vbaxl10.chm174085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.PageSetup Property (Excel)
+# Worksheet.PageSetup property (Excel)
 
 Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page setup settings for the specified object. Read-only.
 

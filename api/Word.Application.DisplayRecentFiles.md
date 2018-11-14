@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayRecentFiles Property (Word)
+title: Application.DisplayRecentFiles property (Word)
 keywords: vbawd10.chm158335032
 f1_keywords:
 - vbawd10.chm158335032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayRecentFiles Property (Word)
+# Application.DisplayRecentFiles property (Word)
 
  **True** if the names of recently used files are displayed on the **File** menu. Read/write **Boolean** .
 

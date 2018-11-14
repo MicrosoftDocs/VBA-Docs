@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFromLeft Property (Word)
+title: Borders.DistanceFromLeft property (Word)
 keywords: vbawd10.chm154927124
 f1_keywords:
 - vbawd10.chm154927124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.DistanceFromLeft Property (Word)
+# Borders.DistanceFromLeft property (Word)
 
 Returns or sets the space (in points) between the text and the left border. Read/write  **Long** .
 

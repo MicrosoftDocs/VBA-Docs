@@ -20,7 +20,7 @@ Inserts a cell or a range of cells into the datasheet and shifts other cells awa
  _expression_ Required. An expression that returns one of the objects in the Applies To list.
 
  **Shift** Optional
- **XlInsertShiftDirection**
+ **xlInsertShiftDirection**
 . Specifies which way to shift the cells.
 
 

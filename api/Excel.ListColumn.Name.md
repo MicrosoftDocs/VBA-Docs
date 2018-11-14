@@ -1,5 +1,5 @@
 ---
-title: ListColumn.Name Property (Excel)
+title: ListColumn.Name property (Excel)
 keywords: vbaxl10.chm738077
 f1_keywords:
 - vbaxl10.chm738077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.Name Property (Excel)
+# ListColumn.Name property (Excel)
 
 Returns or sets a  **String** value that represents the name of the list column.
 

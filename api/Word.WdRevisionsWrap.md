@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsWrap Enumeration (Word)
+title: WdRevisionsWrap enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsWrap Enumeration (Word)
+# WdRevisionsWrap enumeration (Word)
 
 Specifies how revision marks are displayed in the document.
 

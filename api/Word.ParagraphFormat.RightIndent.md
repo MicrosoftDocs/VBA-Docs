@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.RightIndent Property (Word)
+title: ParagraphFormat.RightIndent property (Word)
 keywords: vbawd10.chm156434538
 f1_keywords:
 - vbawd10.chm156434538
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.RightIndent Property (Word)
+# ParagraphFormat.RightIndent property (Word)
 
 Returns or sets the right indent (in points) for the specified paragraphs. Read/write  **Single** .
 

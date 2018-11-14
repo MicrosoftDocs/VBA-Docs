@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.RefreshPeriod Property (Excel)
+title: DataFeedConnection.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm928081
 f1_keywords:
 - vbaxl10.chm928081
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.RefreshPeriod Property (Excel)
+# DataFeedConnection.RefreshPeriod property (Excel)
 
 Returns or sets the number of minutes between refreshes.  **Long** Read/Write
 
@@ -18,7 +18,7 @@ Returns or sets the number of minutes between refreshes.  **Long** Read/Write
 
  _expression_. `RefreshPeriod`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

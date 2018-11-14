@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.Creator Property (Excel)
+title: ModelChanges.Creator property (Excel)
 keywords: vbaxl10.chm959074
 f1_keywords:
 - vbaxl10.chm959074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.Creator Property (Excel)
+# ModelChanges.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

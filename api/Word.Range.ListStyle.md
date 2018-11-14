@@ -1,5 +1,5 @@
 ---
-title: Range.ListStyle Property (Word)
+title: Range.ListStyle property (Word)
 keywords: vbawd10.chm157155750
 f1_keywords:
 - vbawd10.chm157155750
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ListStyle Property (Word)
+# Range.ListStyle property (Word)
 
 Returns a  **Variant** that represents the style used to format a bulleted list or numbered list. Read-only.
 

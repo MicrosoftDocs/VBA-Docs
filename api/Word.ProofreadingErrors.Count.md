@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors.Count Property (Word)
+title: ProofreadingErrors.Count property (Word)
 keywords: vbawd10.chm163250177
 f1_keywords:
 - vbawd10.chm163250177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProofreadingErrors.Count Property (Word)
+# ProofreadingErrors.Count property (Word)
 
 Returns a  **Long** that represents the number of proofreading errors in the collection. Read-only.
 

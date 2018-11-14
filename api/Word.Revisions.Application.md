@@ -1,5 +1,5 @@
 ---
-title: Revisions.Application Property (Word)
+title: Revisions.Application property (Word)
 keywords: vbawd10.chm159384552
 f1_keywords:
 - vbawd10.chm159384552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revisions.Application Property (Word)
+# Revisions.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

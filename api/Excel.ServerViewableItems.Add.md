@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Add Method (Excel)
+title: ServerViewableItems.Add method (Excel)
 keywords: vbaxl10.chm833074
 f1_keywords:
 - vbaxl10.chm833074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Add Method (Excel)
+# ServerViewableItems.Add method (Excel)
 
 Adds a reference to the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection.
 

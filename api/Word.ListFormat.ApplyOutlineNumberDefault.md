@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ApplyOutlineNumberDefault Method (Word)
+title: ListFormat.ApplyOutlineNumberDefault method (Word)
 keywords: vbawd10.chm163578070
 f1_keywords:
 - vbawd10.chm163578070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ApplyOutlineNumberDefault Method (Word)
+# ListFormat.ApplyOutlineNumberDefault method (Word)
 
 Adds the default outline-numbering scheme to the paragraphs in the range for the specified  **ListFormat** object.
 

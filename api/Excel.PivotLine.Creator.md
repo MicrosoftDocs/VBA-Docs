@@ -1,5 +1,5 @@
 ---
-title: PivotLine.Creator Property (Excel)
+title: PivotLine.Creator property (Excel)
 keywords: vbaxl10.chm763074
 f1_keywords:
 - vbaxl10.chm763074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine.Creator Property (Excel)
+# PivotLine.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

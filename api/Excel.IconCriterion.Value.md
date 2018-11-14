@@ -1,5 +1,5 @@
 ---
-title: IconCriterion.Value Property (Excel)
+title: IconCriterion.Value property (Excel)
 keywords: vbaxl10.chm814075
 f1_keywords:
 - vbaxl10.chm814075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion.Value Property (Excel)
+# IconCriterion.Value property (Excel)
 
 Returns or sets the threshold value for an icon in a conditional format. Read/write  **Variant** .
 

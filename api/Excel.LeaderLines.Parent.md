@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Parent Property (Excel)
+title: LeaderLines.Parent property (Excel)
 keywords: vbaxl10.chm605075
 f1_keywords:
 - vbaxl10.chm605075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Parent Property (Excel)
+# LeaderLines.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

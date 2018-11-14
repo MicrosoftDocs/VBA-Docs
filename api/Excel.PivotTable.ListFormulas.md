@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ListFormulas Method (Excel)
+title: PivotTable.ListFormulas method (Excel)
 keywords: vbaxl10.chm235111
 f1_keywords:
 - vbaxl10.chm235111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ListFormulas Method (Excel)
+# PivotTable.ListFormulas method (Excel)
 
 Creates a list of calculated PivotTable items and fields on a separate worksheet.
 

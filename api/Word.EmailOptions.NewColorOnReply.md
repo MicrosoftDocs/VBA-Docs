@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.NewColorOnReply Property (Word)
+title: EmailOptions.NewColorOnReply property (Word)
 keywords: vbawd10.chm165347444
 f1_keywords:
 - vbawd10.chm165347444
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.NewColorOnReply Property (Word)
+# EmailOptions.NewColorOnReply property (Word)
 
- **True** specifies whether a user needs to choose a new color for reply text when replying to e-mail. Read/write **Boolean** .
+ **True** specifies whether a user needs to choose a new color for reply text when replying to email. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **NewColorOnReply** property if you want the reply text of e-mail messages sent from Microsoft Word to be a different color than the original message.
+Use the  **NewColorOnReply** property if you want the reply text of email messages sent from Microsoft Word to be a different color than the original message.
 
 
 ## Example
 
-This example checks to see if a user needs to choose a new color for e-mail reply text and, if not, sets the reply font color to blue.
+This example checks to see if a user needs to choose a new color for email reply text and, if not, sets the reply font color to blue.
 
 
 ```vb

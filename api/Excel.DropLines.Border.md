@@ -1,5 +1,5 @@
 ---
-title: DropLines.Border Property (Excel)
+title: DropLines.Border property (Excel)
 keywords: vbaxl10.chm604076
 f1_keywords:
 - vbaxl10.chm604076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Border Property (Excel)
+# DropLines.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

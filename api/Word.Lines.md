@@ -1,5 +1,5 @@
 ---
-title: Lines Object (Word)
+title: Lines object (Word)
 ms.prod: word
 api_name:
 - Word.Lines
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lines Object (Word)
+# Lines object (Word)
 
 A collection of  **Line** objects that represents the lines in a **Rectangle** object that is of type **wdTextRectangle** .
 

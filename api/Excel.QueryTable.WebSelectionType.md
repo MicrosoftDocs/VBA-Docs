@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebSelectionType Property (Excel)
+title: QueryTable.WebSelectionType property (Excel)
 keywords: vbaxl10.chm518122
 f1_keywords:
 - vbaxl10.chm518122
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebSelectionType Property (Excel)
+# QueryTable.WebSelectionType property (Excel)
 
-Returns or sets a value that determines whether an entire Web page, all tables on the Web page, or only specific tables on the Web page are imported into a query table. Read/write  **[XlWebSelectionType](Excel.XlWebSelectionType.md)** .
+Returns or sets a value that determines whether an entire Web page, all tables on the Web page, or only specific tables on the Web page are imported into a query table. Read/write  **[xlWebSelectionType](Excel.XlWebSelectionType.md)** .
 
 
 ## Syntax

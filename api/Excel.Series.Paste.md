@@ -1,5 +1,5 @@
 ---
-title: Series.Paste Method (Excel)
+title: Series.Paste method (Excel)
 keywords: vbaxl10.chm578100
 f1_keywords:
 - vbaxl10.chm578100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Paste Method (Excel)
+# Series.Paste method (Excel)
 
 Pastes a picture from the Clipboard as the marker on the selected series.
 

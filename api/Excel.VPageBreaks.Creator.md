@@ -1,5 +1,5 @@
 ---
-title: VPageBreaks.Creator Property (Excel)
+title: VPageBreaks.Creator property (Excel)
 keywords: vbaxl10.chm166074
 f1_keywords:
 - vbaxl10.chm166074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreaks.Creator Property (Excel)
+# VPageBreaks.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

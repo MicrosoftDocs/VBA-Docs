@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Value Property (Excel)
+title: CustomProperty.Value property (Excel)
 keywords: vbaxl10.chm682074
 f1_keywords:
 - vbaxl10.chm682074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Value Property (Excel)
+# CustomProperty.Value property (Excel)
 
 Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
 

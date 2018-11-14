@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearParagraphDirectFormatting Method (Word)
+title: Selection.ClearParagraphDirectFormatting method (Word)
 keywords: vbawd10.chm158663696
 f1_keywords:
 - vbawd10.chm158663696
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearParagraphDirectFormatting Method (Word)
+# Selection.ClearParagraphDirectFormatting method (Word)
 
 Removes paragraph formatting that has been applied manually (using the buttons on the ribbon or through the dialog boxes) from the selected text.
 

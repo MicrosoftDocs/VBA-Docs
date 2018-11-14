@@ -1,5 +1,5 @@
 ---
-title: Rows.RelativeVerticalPosition Property (Word)
+title: Rows.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm155975699
 f1_keywords:
 - vbawd10.chm155975699
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.RelativeVerticalPosition Property (Word)
+# Rows.RelativeVerticalPosition property (Word)
 
 Specifies the relative vertical position of a group of rows. Read/write  **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.SmartDocument Property (Excel)
+title: Workbook.SmartDocument property (Excel)
 keywords: vbaxl10.chm199227
 f1_keywords:
 - vbaxl10.chm199227
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SmartDocument Property (Excel)
+# Workbook.SmartDocument property (Excel)
 
 Returns a  **SmartDocument** object that represents the settings for a smart document solution. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockTypes.Count Property (Word)
+title: BuildingBlockTypes.Count property (Word)
 keywords: vbawd10.chm189792257
 f1_keywords:
 - vbawd10.chm189792257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockTypes.Count Property (Word)
+# BuildingBlockTypes.Count property (Word)
 
 Returns the number of items in the  **BuildingBlockTypes** collection. Read-only **Long** .
 

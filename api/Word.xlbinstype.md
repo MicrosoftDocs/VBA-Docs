@@ -1,12 +1,12 @@
 ---
-title: XlBinsType Enumeration (Word)
+title: xlBinsType enumeration (Word)
 ms.assetid: 945e729b-f0a0-fc0f-d198-c85aab081d7e
 ms.prod: word
 ms.date: 06/08/2017
 ---
 
 
-# XlBinsType Enumeration (Word)
+# xlBinsType enumeration (Word)
 
 Constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.binstype.md) property.
 

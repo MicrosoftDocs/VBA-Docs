@@ -1,5 +1,5 @@
 ---
-title: Sparkline Object (Excel)
+title: Sparkline object (Excel)
 keywords: vbaxl10.chm874072
 f1_keywords:
 - vbaxl10.chm874072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sparkline Object (Excel)
+# Sparkline object (Excel)
 
 Represents a single sparkline.
 

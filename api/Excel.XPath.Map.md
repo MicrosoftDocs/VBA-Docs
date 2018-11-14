@@ -1,5 +1,5 @@
 ---
-title: XPath.Map Property (Excel)
+title: XPath.Map property (Excel)
 keywords: vbaxl10.chm760075
 f1_keywords:
 - vbaxl10.chm760075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath.Map Property (Excel)
+# XPath.Map property (Excel)
 
 Returns an  **[XmlMap](Excel.XmlMap.md)** object that represents the schema map that contains the specified **[XPath](Excel.XPath.md)** object. Read-only.
 

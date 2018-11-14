@@ -1,5 +1,5 @@
 ---
-title: Range.ListParagraphs Property (Word)
+title: Range.ListParagraphs property (Word)
 keywords: vbawd10.chm157155485
 f1_keywords:
 - vbawd10.chm157155485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ListParagraphs Property (Word)
+# Range.ListParagraphs property (Word)
 
 Returns a  **ListParagraphs** collection that represents all the numbered paragraphs in the range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Borders.Shadow Property (Word)
+title: Borders.Shadow property (Word)
 keywords: vbawd10.chm154927109
 f1_keywords:
 - vbawd10.chm154927109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Shadow Property (Word)
+# Borders.Shadow property (Word)
 
  **True** if the specified border is formatted as shadowed. Read/write **Boolean** .
 

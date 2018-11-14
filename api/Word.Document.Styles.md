@@ -1,5 +1,5 @@
 ---
-title: Document.Styles Property (Word)
+title: Document.Styles property (Word)
 keywords: vbawd10.chm158007318
 f1_keywords:
 - vbawd10.chm158007318
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Styles Property (Word)
+# Document.Styles property (Word)
 
 Returns a  **[Styles](Word.styles.md)** collection for the specified document. Read-only.
 

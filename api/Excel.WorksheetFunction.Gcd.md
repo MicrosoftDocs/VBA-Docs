@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Gcd Method (Excel)
+title: WorksheetFunction.Gcd method (Excel)
 keywords: vbaxl10.chm137349
 f1_keywords:
 - vbaxl10.chm137349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Gcd Method (Excel)
+# WorksheetFunction.Gcd method (Excel)
 
 Returns the greatest common divisor of two or more integers. The greatest common divisor is the largest integer that divides both number1 and number2 without a remainder.
 

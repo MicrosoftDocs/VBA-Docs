@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourceName Property (Word)
+title: ProtectedViewWindow.SourceName property (Word)
 keywords: vbawd10.chm231735306
 f1_keywords:
 - vbawd10.chm231735306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.SourceName Property (Word)
+# ProtectedViewWindow.SourceName property (Word)
 
 Returns the name of the source file for the specified protected view window. Read-only  **String** .
 

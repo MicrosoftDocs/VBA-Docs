@@ -1,5 +1,5 @@
 ---
-title: Application.RecentFiles Property (Excel)
+title: Application.RecentFiles property (Excel)
 keywords: vbaxl10.chm133170
 f1_keywords:
 - vbaxl10.chm133170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RecentFiles Property (Excel)
+# Application.RecentFiles property (Excel)
 
 Returns a  **[RecentFiles](Excel.RecentFiles.md)** collection that represents the list of recently used files.
 

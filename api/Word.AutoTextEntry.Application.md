@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.Application Property (Word)
+title: AutoTextEntry.Application property (Word)
 keywords: vbawd10.chm154534888
 f1_keywords:
 - vbawd10.chm154534888
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.Application Property (Word)
+# AutoTextEntry.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

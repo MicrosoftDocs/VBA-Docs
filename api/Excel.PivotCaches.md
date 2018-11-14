@@ -1,5 +1,5 @@
 ---
-title: PivotCaches Object (Excel)
+title: PivotCaches object (Excel)
 keywords: vbaxl10.chm228072
 f1_keywords:
 - vbaxl10.chm228072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCaches Object (Excel)
+# PivotCaches object (Excel)
 
 Represents the collection of memory caches from the PivotTable reports in a workbook.
 

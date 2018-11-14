@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Position Property (Excel)
+title: ColorStop.Position property (Excel)
 keywords: vbaxl10.chm851077
 f1_keywords:
 - vbaxl10.chm851077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Position Property (Excel)
+# ColorStop.Position property (Excel)
 
 Returns or sets the position of the  **ColorStop** . Read/write
 

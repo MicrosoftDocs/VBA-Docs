@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters.Font Property (Word)
+title: ChartCharacters.Font property (Word)
 keywords: vbawd10.chm250740882
 f1_keywords:
 - vbawd10.chm250740882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCharacters.Font Property (Word)
+# ChartCharacters.Font property (Word)
 
 Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFont.md)** .
 

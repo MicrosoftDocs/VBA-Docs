@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IntRate Method (Excel)
+title: WorksheetFunction.IntRate method (Excel)
 keywords: vbaxl10.chm137310
 f1_keywords:
 - vbaxl10.chm137310
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IntRate Method (Excel)
+# WorksheetFunction.IntRate method (Excel)
 
 Returns the interest rate for a fully invested security.
 

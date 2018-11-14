@@ -1,5 +1,5 @@
 ---
-title: Application.DataEntryMode Property (Excel)
+title: Application.DataEntryMode property (Excel)
 keywords: vbaxl10.chm133102
 f1_keywords:
 - vbaxl10.chm133102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DataEntryMode Property (Excel)
+# Application.DataEntryMode property (Excel)
 
 Returns or sets Data Entry mode, as shown in the following table. When in Data Entry mode, you can enter data only in the unlocked cells in the currently selected range. Read/write  **Long** .
 

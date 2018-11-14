@@ -1,5 +1,5 @@
 ---
-title: Editor Object (Word)
+title: Editor object (Word)
 keywords: vbawd10.chm3442
 f1_keywords:
 - vbawd10.chm3442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor Object (Word)
+# Editor object (Word)
 
 Represents a single user who has been given specific permissions to edit portions of a document. 
 

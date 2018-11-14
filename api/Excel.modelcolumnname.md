@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName Object (Excel)
+title: ModelColumnName object (Excel)
 keywords: vbaxl10.chm961072
 f1_keywords:
 - vbaxl10.chm961072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName Object (Excel)
+# ModelColumnName object (Excel)
 
 An object representing the name of a column in the data model. 
 

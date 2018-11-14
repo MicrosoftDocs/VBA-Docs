@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Flip Method (Word)
+title: ShapeRange.Flip method (Word)
 keywords: vbawd10.chm162856975
 f1_keywords:
 - vbawd10.chm162856975
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Flip Method (Word)
+# ShapeRange.Flip method (Word)
 
 Flips a shape horizontally or vertically.
 

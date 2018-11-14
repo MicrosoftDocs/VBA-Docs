@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthoritiesCategory Object (Word)
+title: TableOfAuthoritiesCategory object (Word)
 keywords: vbawd10.chm2423
 f1_keywords:
 - vbawd10.chm2423
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthoritiesCategory Object (Word)
+# TableOfAuthoritiesCategory object (Word)
 
 Represents a single table of authorities category. The  **TableOfAuthoritiesCategories** object is a member of the **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection.
 

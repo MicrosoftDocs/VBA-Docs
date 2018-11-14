@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Creator Property (Word)
+title: CheckBox.Creator property (Word)
 keywords: vbawd10.chm153486313
 f1_keywords:
 - vbawd10.chm153486313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Creator Property (Word)
+# CheckBox.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

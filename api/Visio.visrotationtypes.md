@@ -15,7 +15,7 @@ Rotation type constants to be passed to the  **Selection.Rotate** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRotateSelectionWithPin**|1|Rotate the selection around a pin.|
 | **visRotateSelection**|0|Rotate the selection relative to the center of the selection.|

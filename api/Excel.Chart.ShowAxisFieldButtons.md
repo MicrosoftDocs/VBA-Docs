@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAxisFieldButtons Property (Excel)
+title: Chart.ShowAxisFieldButtons property (Excel)
 keywords: vbaxl10.chm149191
 f1_keywords:
 - vbaxl10.chm149191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowAxisFieldButtons Property (Excel)
+# Chart.ShowAxisFieldButtons property (Excel)
 
 Returns or sets whether to display axis field buttons on a PivotChart. Read/write
 

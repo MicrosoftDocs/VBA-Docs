@@ -52,7 +52,7 @@ The  _fUniqueID_ parameter controls the behavior of the **UniqueID** property. I
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetGUID**|0|Returns the unique ID string only if the shape already has a unique ID. Otherwise it returns a zero-length string ("").|
 | **visGetOrMakeGUID**|1| Returns the unique ID string of the shape. If the shape does not yet have a unique ID, it assigns one to the shape and returns the new ID.|

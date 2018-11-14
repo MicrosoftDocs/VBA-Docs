@@ -1,5 +1,5 @@
 ---
-title: Document.FitToPages Method (Word)
+title: Document.FitToPages method (Word)
 keywords: vbawd10.chm158007400
 f1_keywords:
 - vbawd10.chm158007400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FitToPages Method (Word)
+# Document.FitToPages method (Word)
 
 Decreases the font size of text just enough so that the document will fit on one fewer pages.
 

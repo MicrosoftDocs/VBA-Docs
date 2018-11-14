@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendKey.MarkerStyle Property (PowerPoint)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](PowerPoint.XlMarkerStyle.md)**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 ## Remarks
 
- **MarkerStyle** can be one of the following **XlMarkerStyle** constants:
+ **MarkerStyle** can be one of the following **xlMarkerStyle** constants:
 
 
 -  **xlMarkerStyleAutomatic** —Automatic markers.

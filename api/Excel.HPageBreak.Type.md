@@ -1,5 +1,5 @@
 ---
-title: HPageBreak.Type Property (Excel)
+title: HPageBreak.Type property (Excel)
 keywords: vbaxl10.chm159076
 f1_keywords:
 - vbaxl10.chm159076
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak.Type Property (Excel)
+# HPageBreak.Type property (Excel)
 
-Returns or sets a  **[XlPageBreak](Excel.XlPageBreak.md)** value that represents the page break type.
+Returns or sets a  **[xlPageBreak](Excel.XlPageBreak.md)** value that represents the page break type.
 
 
 ## Syntax

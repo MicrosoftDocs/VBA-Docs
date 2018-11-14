@@ -1,5 +1,5 @@
 ---
-title: FillFormat.ForeColor Property (Excel)
+title: FillFormat.ForeColor property (Excel)
 keywords: vbaxl10.chm115012
 f1_keywords:
 - vbaxl10.chm115012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.ForeColor Property (Excel)
+# FillFormat.ForeColor property (Excel)
 
 Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the specified foreground fill or solid color.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SlicerCacheType Property (Excel)
+title: SlicerCache.SlicerCacheType property (Excel)
 keywords: vbaxl10.chm897093
 f1_keywords:
 - vbaxl10.chm897093
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SlicerCacheType Property (Excel)
+# SlicerCache.SlicerCacheType property (Excel)
 
 Returns the type of the slicer cache - slicer or timeline. Read-only
 
@@ -18,12 +18,12 @@ Returns the type of the slicer cache - slicer or timeline. Read-only
 
  _expression_. `SlicerCacheType`
 
- _expression_ A variable that represents a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
+ _expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Returns
 
-[XlSlicerCacheType Enumeration (Excel)](Excel.xlslicercachetype.md)
+[xlSlicerCacheType enumeration (Excel)](Excel.xlslicercachetype.md)
 
 
 ## Property value

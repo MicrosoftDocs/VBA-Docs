@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Select Method (Excel)
+title: ChartArea.Select method (Excel)
 keywords: vbaxl10.chm620075
 f1_keywords:
 - vbaxl10.chm620075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Select Method (Excel)
+# ChartArea.Select method (Excel)
 
 Selects the object.
 

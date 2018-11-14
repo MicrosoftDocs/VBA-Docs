@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Application Property (Word)
+title: BuildingBlocks.Application property (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks.Application Property (Word)
+# BuildingBlocks.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

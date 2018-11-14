@@ -1,5 +1,5 @@
 ---
-title: Application.NumLock Property (Word)
+title: Application.NumLock property (Word)
 keywords: vbawd10.chm158335025
 f1_keywords:
 - vbawd10.chm158335025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NumLock Property (Word)
+# Application.NumLock property (Word)
 
 Returns the state of the NUM LOCK key.  **True** if the keys on the numeric keypad insert numbers, **False** if the keys move the insertion point. Read-only **Boolean** .
 

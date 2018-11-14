@@ -1,5 +1,5 @@
 ---
-title: View.RevisionsFilter Property (Word)
+title: View.RevisionsFilter property (Word)
 keywords: vbawd10.chm161808446
 f1_keywords:
 - vbawd10.chm161808446
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.RevisionsFilter Property (Word)
+# View.RevisionsFilter property (Word)
 
 Returns an instance of a  **RevisionsFilter** object. Read-only.
 

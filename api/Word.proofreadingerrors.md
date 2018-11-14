@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors Object (Word)
+title: ProofreadingErrors object (Word)
 keywords: vbawd10.chm2491
 f1_keywords:
 - vbawd10.chm2491
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProofreadingErrors Object (Word)
+# ProofreadingErrors object (Word)
 
 A collection of spelling and grammatical errors for the specified document or range.
 

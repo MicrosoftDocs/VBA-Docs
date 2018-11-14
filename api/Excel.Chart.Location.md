@@ -1,5 +1,5 @@
 ---
-title: Chart.Location Method (Excel)
+title: Chart.Location method (Excel)
 keywords: vbaxl10.chm149125
 f1_keywords:
 - vbaxl10.chm149125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Location Method (Excel)
+# Chart.Location method (Excel)
 
 Moves the chart to a new location.
 
@@ -29,7 +29,7 @@ Moves the chart to a new location.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Where_|Required| **[XlChartLocation](Excel.XlChartLocation.md)**|Where to move the chart.|
+| _Where_|Required| **[xlChartLocation](Excel.XlChartLocation.md)**|Where to move the chart.|
 | _Name_|Optional| **Variant**|Required if  _Where_ is **xlLocationAsObject** . The name of the sheet where the chart will be embedded if _Where_ is **xlLocationAsObject** or the name of the new sheet if _Where_ is **xlLocationAsNewSheet** .|
 
 ## Return value

@@ -23,7 +23,7 @@ _object_. **DragBehavior** [= _fmDragBehavior_ ]
 The  **DragBehavior** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmDragBehavior_|Optional. Specifies whether the drag-and-drop feature is enabled.|
@@ -32,7 +32,7 @@ The  **DragBehavior** property syntax has these parts:
 The settings for  _fmDragBehavior_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDragBehaviorDisabled_|0|Does not allow a drag-and-drop action (default).|
 | _fmDragBehaviorEnabled_|1|Allows a drag-and-drop action.|

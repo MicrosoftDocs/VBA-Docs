@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup Object (Excel)
+title: SparklineGroup object (Excel)
 keywords: vbaxl10.chm870072
 f1_keywords:
 - vbaxl10.chm870072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup Object (Excel)
+# SparklineGroup object (Excel)
 
 Represents a group of sparklines.
 

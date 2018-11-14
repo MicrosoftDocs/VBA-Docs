@@ -1,5 +1,5 @@
 ---
-title: Index.NumberOfColumns Property (Word)
+title: Index.NumberOfColumns property (Word)
 keywords: vbawd10.chm159186948
 f1_keywords:
 - vbawd10.chm159186948
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.NumberOfColumns Property (Word)
+# Index.NumberOfColumns property (Word)
 
 Sets or returns the number of columns for each page of an index. Read/write  **Long** .
 

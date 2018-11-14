@@ -1,5 +1,5 @@
 ---
-title: Table.UpdateAutoFormat Method (Word)
+title: Table.UpdateAutoFormat method (Word)
 keywords: vbawd10.chm156303375
 f1_keywords:
 - vbawd10.chm156303375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.UpdateAutoFormat Method (Word)
+# Table.UpdateAutoFormat method (Word)
 
 Updates the table with the characteristics of a predefined table format.
 

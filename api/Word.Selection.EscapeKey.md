@@ -1,5 +1,5 @@
 ---
-title: Selection.EscapeKey Method (Word)
+title: Selection.EscapeKey method (Word)
 keywords: vbawd10.chm158663162
 f1_keywords:
 - vbawd10.chm158663162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.EscapeKey Method (Word)
+# Selection.EscapeKey method (Word)
 
 Cancels a mode such as extend or column select (equivalent to pressing the ESC key).
 

@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.Source Property (Excel)
+title: ModelChanges.Source property (Excel)
 keywords: vbaxl10.chm960083
 f1_keywords:
 - vbaxl10.chm960083
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelChanges.Source Property (Excel)
+# ModelChanges.Source property (Excel)
 
 Returns the source of the data model. Read-only. 
 
@@ -28,7 +28,7 @@ The source can be either Excel or a PowerPivot Add-in.
 
 ## Property value
 
- **XlModelChangeSource**
+ **xlModelChangeSource**
 
 
 ## See also

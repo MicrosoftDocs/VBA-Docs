@@ -1,5 +1,5 @@
 ---
-title: Workbook.PasswordEncryptionFileProperties Property (Excel)
+title: Workbook.PasswordEncryptionFileProperties property (Excel)
 keywords: vbaxl10.chm199215
 f1_keywords:
 - vbaxl10.chm199215
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PasswordEncryptionFileProperties Property (Excel)
+# Workbook.PasswordEncryptionFileProperties property (Excel)
 
  **True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean** .
 

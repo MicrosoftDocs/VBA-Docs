@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Type Property (Word)
+title: Hyperlink.Type property (Word)
 keywords: vbawd10.chm161285101
 f1_keywords:
 - vbawd10.chm161285101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Type Property (Word)
+# Hyperlink.Type property (Word)
 
 Returns the hyperlink type. Read-only  **MsoHyperlinkType** .
 

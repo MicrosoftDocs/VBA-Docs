@@ -1,5 +1,5 @@
 ---
-title: Range.ParagraphStyle Property (Word)
+title: Range.ParagraphStyle property (Word)
 keywords: vbawd10.chm157155749
 f1_keywords:
 - vbawd10.chm157155749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ParagraphStyle Property (Word)
+# Range.ParagraphStyle property (Word)
 
 Returns a  **Variant** that represents the style used to format a paragraph. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PromptUpdateStyle Property (Word)
+title: Options.PromptUpdateStyle property (Word)
 keywords: vbawd10.chm162988473
 f1_keywords:
 - vbawd10.chm162988473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PromptUpdateStyle Property (Word)
+# Options.PromptUpdateStyle property (Word)
 
  **True** displays a message asking the user to verify whether they want to reformat a style or reapply the original style formatting when changing the formatting of styles. Read/write **Boolean** .
 

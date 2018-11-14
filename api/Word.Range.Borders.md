@@ -1,5 +1,5 @@
 ---
-title: Range.Borders Property (Word)
+title: Range.Borders property (Word)
 keywords: vbawd10.chm157156428
 f1_keywords:
 - vbawd10.chm157156428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Borders Property (Word)
+# Range.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified object.
 

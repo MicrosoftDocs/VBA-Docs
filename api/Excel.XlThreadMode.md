@@ -1,5 +1,5 @@
 ---
-title: XlThreadMode Enumeration (Excel)
+title: xlThreadMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlThreadMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlThreadMode Enumeration (Excel)
+# xlThreadMode enumeration (Excel)
 
 Specifies the control over the multi-threaded calculation mode.
 

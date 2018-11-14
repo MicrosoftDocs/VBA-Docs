@@ -1,5 +1,5 @@
 ---
-title: OMathMatRow.Args Property (Word)
+title: OMathMatRow.Args property (Word)
 keywords: vbawd10.chm196477031
 f1_keywords:
 - vbawd10.chm196477031
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRow.Args Property (Word)
+# OMathMatRow.Args property (Word)
 
 Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments in a matrix row. Read-only.
 

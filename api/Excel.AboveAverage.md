@@ -1,5 +1,5 @@
 ---
-title: AboveAverage Object (Excel)
+title: AboveAverage object (Excel)
 keywords: vbaxl10.chm823072
 f1_keywords:
 - vbaxl10.chm823072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage Object (Excel)
+# AboveAverage object (Excel)
 
 Represents an above average visual of a conditional formatting rule. Applying a color or fill to a range or selection to help you see the value of a cells relative to other cells.
 

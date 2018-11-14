@@ -1,5 +1,5 @@
 ---
-title: Font.NameFarEast Property (Word)
+title: Font.NameFarEast property (Word)
 keywords: vbawd10.chm156369052
 f1_keywords:
 - vbawd10.chm156369052
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.NameFarEast Property (Word)
+# Font.NameFarEast property (Word)
 
 Returns or sets an East Asian font name. Read/write  **String** .
 

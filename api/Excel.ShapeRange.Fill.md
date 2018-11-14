@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Fill Property (Excel)
+title: ShapeRange.Fill property (Excel)
 keywords: vbaxl10.chm640103
 f1_keywords:
 - vbaxl10.chm640103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Fill Property (Excel)
+# ShapeRange.Fill property (Excel)
 
 Returns a  **[FillFormat](Excel.FillFormat.md)** object for a specified shape or a **[ChartFillFormat](./Excel.ChartFillFormat.md)** object for a specified chart that contains fill formatting properties for the shape or chart. Read-only.
 

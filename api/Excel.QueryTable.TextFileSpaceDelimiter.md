@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileSpaceDelimiter Property (Excel)
+title: QueryTable.TextFileSpaceDelimiter property (Excel)
 keywords: vbaxl10.chm518106
 f1_keywords:
 - vbaxl10.chm518106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileSpaceDelimiter Property (Excel)
+# QueryTable.TextFileSpaceDelimiter property (Excel)
 
  **True** if the space character is the delimiter when you import a text file into a query table. The default value is **False** . Read/write **Boolean** .
 

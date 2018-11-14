@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Address Property (Word)
+title: Hyperlink.Address property (Word)
 keywords: vbawd10.chm161285196
 f1_keywords:
 - vbawd10.chm161285196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Address Property (Word)
+# Hyperlink.Address property (Word)
 
 Returns or sets the address (for example, a file name or URL) of the specified hyperlink. Read/write  **String** .
 

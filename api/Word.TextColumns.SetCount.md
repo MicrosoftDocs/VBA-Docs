@@ -1,5 +1,5 @@
 ---
-title: TextColumns.SetCount Method (Word)
+title: TextColumns.SetCount method (Word)
 keywords: vbawd10.chm158531786
 f1_keywords:
 - vbawd10.chm158531786
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.SetCount Method (Word)
+# TextColumns.SetCount method (Word)
 
 Arranges text into the specified number of text columns.
 

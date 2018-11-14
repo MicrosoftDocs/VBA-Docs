@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Select Method (Word)
+title: PlotArea.Select method (Word)
 keywords: vbawd10.chm53477611
 f1_keywords:
 - vbawd10.chm53477611
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Select Method (Word)
+# PlotArea.Select method (Word)
 
 Selects the object.
 

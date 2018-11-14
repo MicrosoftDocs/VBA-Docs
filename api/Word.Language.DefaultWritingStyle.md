@@ -1,5 +1,5 @@
 ---
-title: Language.DefaultWritingStyle Property (Word)
+title: Language.DefaultWritingStyle property (Word)
 keywords: vbawd10.chm158138385
 f1_keywords:
 - vbawd10.chm158138385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.DefaultWritingStyle Property (Word)
+# Language.DefaultWritingStyle property (Word)
 
 Returns or sets the default writing style used by the grammar checker for the specified language. Read/write  **String** .
 

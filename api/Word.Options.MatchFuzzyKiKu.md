@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyKiKu Property (Word)
+title: Options.MatchFuzzyKiKu property (Word)
 keywords: vbawd10.chm162988356
 f1_keywords:
 - vbawd10.chm162988356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyKiKu Property (Word)
+# Options.MatchFuzzyKiKu property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe107_ZA06051631.gif)" and "

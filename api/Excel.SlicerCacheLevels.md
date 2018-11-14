@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevels Object (Excel)
+title: SlicerCacheLevels object (Excel)
 keywords: vbaxl10.chm898072
 f1_keywords:
 - vbaxl10.chm898072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevels Object (Excel)
+# SlicerCacheLevels object (Excel)
 
 Represents the collection of hierarchy levels for the OLAP data source that is filtered by a slicer.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName.Creator Property (Excel)
+title: ModelColumnName.Creator property (Excel)
 keywords: vbaxl10.chm961074
 f1_keywords:
 - vbaxl10.chm961074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName.Creator Property (Excel)
+# ModelColumnName.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object.
+ _expression_ A variable that represents a [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object.
 
 
 ## Remarks

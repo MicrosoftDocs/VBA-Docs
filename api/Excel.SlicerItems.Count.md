@@ -1,5 +1,5 @@
 ---
-title: SlicerItems.Count Property (Excel)
+title: SlicerItems.Count property (Excel)
 keywords: vbaxl10.chm909073
 f1_keywords:
 - vbaxl10.chm909073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItems.Count Property (Excel)
+# SlicerItems.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only.
 

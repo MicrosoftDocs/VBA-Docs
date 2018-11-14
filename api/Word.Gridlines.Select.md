@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Select Method (Word)
+title: Gridlines.Select method (Word)
 keywords: vbawd10.chm11469035
 f1_keywords:
 - vbawd10.chm11469035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Select Method (Word)
+# Gridlines.Select method (Word)
 
 Selects the object.
 

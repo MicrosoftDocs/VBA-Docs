@@ -1,5 +1,5 @@
 ---
-title: FileExportConverters.Item Property (Excel)
+title: FileExportConverters.Item property (Excel)
 keywords: vbaxl10.chm865076
 f1_keywords:
 - vbaxl10.chm865076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverters.Item Property (Excel)
+# FileExportConverters.Item property (Excel)
 
 Returns an individual  **[FileExportConverter](Excel.FileExportConverter.md)** object from a collection.
 

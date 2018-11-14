@@ -1,5 +1,5 @@
 ---
-title: Application.MultiThreadedCalculation Property (Excel)
+title: Application.MultiThreadedCalculation property (Excel)
 keywords: vbaxl10.chm133314
 f1_keywords:
 - vbaxl10.chm133314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MultiThreadedCalculation Property (Excel)
+# Application.MultiThreadedCalculation property (Excel)
 
 Returns a  **MultiThreadedCalculation** object that controls the multi-threaded recalculation settings. Read-only.
 

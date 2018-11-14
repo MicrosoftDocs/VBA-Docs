@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.Index Property (Excel)
+title: SlicerCache.Index property (Excel)
 keywords: vbaxl10.chm897073
 f1_keywords:
 - vbaxl10.chm897073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.Index Property (Excel)
+# SlicerCache.Index property (Excel)
 
  Returns the index of the specified **[SlicerCache](Excel.SlicerCache.md)** object in the **[SlicerCaches](Excel.SlicerCaches.md)** collection. Read-only
 

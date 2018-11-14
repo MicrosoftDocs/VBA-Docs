@@ -1,5 +1,5 @@
 ---
-title: OLEObject.LinkedCell Property (Excel)
+title: OLEObject.LinkedCell property (Excel)
 keywords: vbaxl10.chm417081
 f1_keywords:
 - vbaxl10.chm417081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.LinkedCell Property (Excel)
+# OLEObject.LinkedCell property (Excel)
 
 Returns or sets the worksheet range linked to the control's value. If you place a value in the cell, the control takes this value. Likewise, if you change the value of the control, that value is also placed in the cell. Read/write  **String** .
 

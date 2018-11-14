@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartTitle Property (Word)
+title: Chart.ChartTitle property (Word)
 keywords: vbawd10.chm79364099
 f1_keywords:
 - vbawd10.chm79364099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartTitle Property (Word)
+# Chart.ChartTitle property (Word)
 
 Returns the title of the specified chart. Read-only  **[ChartTitle](Word.ChartTitle.md)** .
 

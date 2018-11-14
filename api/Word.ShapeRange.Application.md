@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Application Property (Word)
+title: ShapeRange.Application property (Word)
 keywords: vbawd10.chm162864960
 f1_keywords:
 - vbawd10.chm162864960
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Application Property (Word)
+# ShapeRange.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

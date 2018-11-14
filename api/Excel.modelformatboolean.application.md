@@ -1,5 +1,5 @@
 ---
-title: ModelFormatBoolean.Application Property (Excel)
+title: ModelFormatBoolean.Application property (Excel)
 keywords: vbaxl10.chm995073
 f1_keywords:
 - vbaxl10.chm995073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatBoolean.Application Property (Excel)
+# ModelFormatBoolean.Application property (Excel)
 
 When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 

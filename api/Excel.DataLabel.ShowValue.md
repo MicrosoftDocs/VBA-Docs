@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowValue Property (Excel)
+title: DataLabel.ShowValue property (Excel)
 keywords: vbaxl10.chm582101
 f1_keywords:
 - vbaxl10.chm582101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.ShowValue Property (Excel)
+# DataLabel.ShowValue property (Excel)
 
 Returns or sets a  **Boolean** corresponding to a specified chart's data label values display behavior. **True** displays the values. **False** to hide. Read/write.
 

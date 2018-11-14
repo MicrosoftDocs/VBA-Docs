@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Add Method (Word)
+title: BuildingBlocks.Add method (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks.Add
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks.Add Method (Word)
+# BuildingBlocks.Add method (Word)
 
 Creates a new building block and returns a  **BuildingBlock** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.TabHangingIndent Method (Word)
+title: Paragraphs.TabHangingIndent method (Word)
 keywords: vbawd10.chm156762416
 f1_keywords:
 - vbawd10.chm156762416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.TabHangingIndent Method (Word)
+# Paragraphs.TabHangingIndent method (Word)
 
 Sets a hanging indent to a specified number of tab stops.
 

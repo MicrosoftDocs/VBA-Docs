@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.Value Property (Excel)
+title: PivotValueCell.Value property (Excel)
 keywords: vbaxl10.chm918074
 f1_keywords:
 - vbaxl10.chm918074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.Value Property (Excel)
+# PivotValueCell.Value property (Excel)
 
 Returns the value at the location. The value is the value after  **ShowAs** and other calculations have been applied. Variant can be **Empty** , **Number** , **Date** , **String** , or **Error** value.
 

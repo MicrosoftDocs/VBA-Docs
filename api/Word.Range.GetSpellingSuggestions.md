@@ -1,5 +1,5 @@
 ---
-title: Range.GetSpellingSuggestions Method (Word)
+title: Range.GetSpellingSuggestions method (Word)
 keywords: vbawd10.chm157155537
 f1_keywords:
 - vbawd10.chm157155537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.GetSpellingSuggestions Method (Word)
+# Range.GetSpellingSuggestions method (Word)
 
 Returns a  **SpellingSuggestions** collection that represents the words suggested as spelling replacements for the first word in the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartObject.PrintObject Property (Excel)
+title: ChartObject.PrintObject property (Excel)
 keywords: vbaxl10.chm494089
 f1_keywords:
 - vbaxl10.chm494089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.PrintObject Property (Excel)
+# ChartObject.PrintObject property (Excel)
 
  **True** if the object will be printed when the document is printed. Read/write **Boolean** .
 

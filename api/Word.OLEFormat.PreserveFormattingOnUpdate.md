@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.PreserveFormattingOnUpdate Property (Word)
+title: OLEFormat.PreserveFormattingOnUpdate property (Word)
 keywords: vbawd10.chm154337392
 f1_keywords:
 - vbawd10.chm154337392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.PreserveFormattingOnUpdate Property (Word)
+# OLEFormat.PreserveFormattingOnUpdate property (Word)
 
  **True** preserves formatting done in Microsoft Word to a linked OLE object, such as a table linked to a Microsoft Excel spreadsheet. Read/write **Boolean** .
 

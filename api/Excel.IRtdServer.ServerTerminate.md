@@ -1,5 +1,5 @@
 ---
-title: IRtdServer.ServerTerminate Method (Excel)
+title: IRtdServer.ServerTerminate method (Excel)
 keywords: vbaxl10.chm500010
 f1_keywords:
 - vbaxl10.chm500010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRtdServer.ServerTerminate Method (Excel)
+# IRtdServer.ServerTerminate method (Excel)
 
 Terminates the connection to the real-time data server.
 

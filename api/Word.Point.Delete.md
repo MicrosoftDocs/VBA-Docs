@@ -1,5 +1,5 @@
 ---
-title: Point.Delete Method (Word)
+title: Point.Delete method (Word)
 keywords: vbawd10.chm262144117
 f1_keywords:
 - vbawd10.chm262144117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Delete Method (Word)
+# Point.Delete method (Word)
 
 Deletes the object.
 

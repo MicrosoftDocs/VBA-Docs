@@ -1,5 +1,5 @@
 ---
-title: Shape.Title Property (Excel)
+title: Shape.Title property (Excel)
 keywords: vbaxl10.chm636156
 f1_keywords:
 - vbaxl10.chm636156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Title Property (Excel)
+# Shape.Title property (Excel)
 
 Returns or sets the title of the alternative text associated with the specified shape. Read/write
 

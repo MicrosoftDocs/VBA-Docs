@@ -1,5 +1,5 @@
 ---
-title: Options.IgnoreMixedDigits Property (Word)
+title: Options.IgnoreMixedDigits property (Word)
 keywords: vbawd10.chm162988313
 f1_keywords:
 - vbawd10.chm162988313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.IgnoreMixedDigits Property (Word)
+# Options.IgnoreMixedDigits property (Word)
 
  **True** if words that contain numbers are ignored while checking spelling. Read/write **Boolean** .
 

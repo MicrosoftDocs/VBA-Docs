@@ -1,5 +1,5 @@
 ---
-title: Column.SetWidth Method (Word)
+title: Column.SetWidth method (Word)
 keywords: vbawd10.chm156172489
 f1_keywords:
 - vbawd10.chm156172489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.SetWidth Method (Word)
+# Column.SetWidth method (Word)
 
 Sets the width of a column in a table.
 

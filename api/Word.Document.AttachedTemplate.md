@@ -1,5 +1,5 @@
 ---
-title: Document.AttachedTemplate Property (Word)
+title: Document.AttachedTemplate property (Word)
 keywords: vbawd10.chm158007363
 f1_keywords:
 - vbawd10.chm158007363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AttachedTemplate Property (Word)
+# Document.AttachedTemplate property (Word)
 
 Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant** .
 

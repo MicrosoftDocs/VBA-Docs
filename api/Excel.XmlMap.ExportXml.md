@@ -1,5 +1,5 @@
 ---
-title: XmlMap.ExportXml Method (Excel)
+title: XmlMap.ExportXml method (Excel)
 keywords: vbaxl10.chm754090
 f1_keywords:
 - vbaxl10.chm754090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.ExportXml Method (Excel)
+# XmlMap.ExportXml method (Excel)
 
 Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.md)** object to a **String** variable.
 
@@ -40,7 +40,7 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 
 
-| **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants.|
+| **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants.|
 | **xlXmlExportSuccess** . Export successful. No errors to report.|
 | **xlXmlExportValidationFailed** . The data being exported failed schema validation, but was exported anyway.|
 

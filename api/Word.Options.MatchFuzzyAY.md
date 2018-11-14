@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyAY Property (Word)
+title: Options.MatchFuzzyAY property (Word)
 keywords: vbawd10.chm162988355
 f1_keywords:
 - vbawd10.chm162988355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyAY Property (Word)
+# Options.MatchFuzzyAY property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe289_ZA06051768.gif)" and "

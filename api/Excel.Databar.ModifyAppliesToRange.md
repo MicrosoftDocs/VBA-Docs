@@ -1,5 +1,5 @@
 ---
-title: Databar.ModifyAppliesToRange Method (Excel)
+title: Databar.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm810087
 f1_keywords:
 - vbaxl10.chm810087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.ModifyAppliesToRange Method (Excel)
+# Databar.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

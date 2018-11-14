@@ -1,5 +1,5 @@
 ---
-title: Application.MathCoprocessorAvailable Property (Word)
+title: Application.MathCoprocessorAvailable property (Word)
 keywords: vbawd10.chm158335012
 f1_keywords:
 - vbawd10.chm158335012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MathCoprocessorAvailable Property (Word)
+# Application.MathCoprocessorAvailable property (Word)
 
  **True** if a math coprocessor is installed and available to Microsoft Word. Read-only **Boolean** .
 

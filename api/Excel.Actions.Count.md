@@ -1,5 +1,5 @@
 ---
-title: Actions.Count Property (Excel)
+title: Actions.Count property (Excel)
 keywords: vbaxl10.chm800076
 f1_keywords:
 - vbaxl10.chm800076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Actions.Count Property (Excel)
+# Actions.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

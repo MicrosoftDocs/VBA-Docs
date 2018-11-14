@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.SetAllErrorFlags Method (Word)
+title: MailMergeDataSource.SetAllErrorFlags method (Word)
 keywords: vbawd10.chm152895592
 f1_keywords:
 - vbawd10.chm152895592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.SetAllErrorFlags Method (Word)
+# MailMergeDataSource.SetAllErrorFlags method (Word)
 
 Marks all records in a mail merge data source as containing invalid data in an address field.
 

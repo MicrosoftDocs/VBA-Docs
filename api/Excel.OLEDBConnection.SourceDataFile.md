@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.SourceDataFile Property (Excel)
+title: OLEDBConnection.SourceDataFile property (Excel)
 keywords: vbaxl10.chm794092
 f1_keywords:
 - vbaxl10.chm794092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.SourceDataFile Property (Excel)
+# OLEDBConnection.SourceDataFile property (Excel)
 
 Returns or sets a  **String** indicating the source data file for an OLE DB connection. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTable.SaveAsODC Method (Excel)
+title: QueryTable.SaveAsODC method (Excel)
 keywords: vbaxl10.chm518135
 f1_keywords:
 - vbaxl10.chm518135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.SaveAsODC Method (Excel)
+# QueryTable.SaveAsODC method (Excel)
 
 Saves the QueryTable cache source as an Microsoft Office Data Connection file.
 

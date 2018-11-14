@@ -1,5 +1,5 @@
 ---
-title: Shading.ForegroundPatternColorIndex Property (Word)
+title: Shading.ForegroundPatternColorIndex property (Word)
 keywords: vbawd10.chm154796033
 f1_keywords:
 - vbawd10.chm154796033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.ForegroundPatternColorIndex Property (Word)
+# Shading.ForegroundPatternColorIndex property (Word)
 
 Returns or sets the color that's applied to the foreground of the  **Shading** object. This color is applied to the dots and lines in the shading pattern. Read/write **WdColorIndex** .
 

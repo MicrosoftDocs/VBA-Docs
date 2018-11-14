@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotCache Method (Excel)
+title: PivotTable.PivotCache method (Excel)
 keywords: vbaxl10.chm235115
 f1_keywords:
 - vbaxl10.chm235115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotCache Method (Excel)
+# PivotTable.PivotCache method (Excel)
 
 Returns a  **[PivotCache](Excel.PivotCache.md)** object that represents the cache for the specified PivotTable report. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Path Property (Word)
+title: Subdocument.Path property (Word)
 keywords: vbawd10.chm159973380
 f1_keywords:
 - vbawd10.chm159973380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Path Property (Word)
+# Subdocument.Path property (Word)
 
 Returns the disk or Web path to the specified subdocument. Read-only  **String** .
 

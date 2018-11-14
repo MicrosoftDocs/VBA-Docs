@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.HarMean Method (Excel)
+title: WorksheetFunction.HarMean method (Excel)
 keywords: vbaxl10.chm137224
 f1_keywords:
 - vbaxl10.chm137224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.HarMean Method (Excel)
+# WorksheetFunction.HarMean method (Excel)
 
 Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.
 

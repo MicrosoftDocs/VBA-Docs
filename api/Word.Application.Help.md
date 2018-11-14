@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (Word)
+title: Application.Help method (Word)
 keywords: vbawd10.chm158335305
 f1_keywords:
 - vbawd10.chm158335305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Help Method (Word)
+# Application.Help method (Word)
 
 Displays installed Help information.
 

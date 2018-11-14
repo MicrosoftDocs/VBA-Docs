@@ -1,5 +1,5 @@
 ---
-title: View Object (Word)
+title: View object (Word)
 keywords: vbawd10.chm2469
 f1_keywords:
 - vbawd10.chm2469
@@ -11,7 +11,7 @@ ms.date: 08/15/2017
 ---
 
 
-# View Object (Word)
+# View object (Word)
 
 Contains the view attributes (such as show all, field shading, and table gridlines) for a window or pane.
 

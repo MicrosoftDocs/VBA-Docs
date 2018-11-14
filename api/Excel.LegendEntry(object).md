@@ -1,5 +1,5 @@
 ---
-title: LegendEntry Object (Excel)
+title: LegendEntry object (Excel)
 keywords: vbaxl10.chm585072
 f1_keywords:
 - vbaxl10.chm585072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry Object (Excel)
+# LegendEntry object (Excel)
 
 Represents a legend entry in a chart legend.
 

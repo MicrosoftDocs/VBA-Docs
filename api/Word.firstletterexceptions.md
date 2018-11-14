@@ -1,12 +1,12 @@
 ---
-title: FirstLetterExceptions Object (Word)
+title: FirstLetterExceptions object (Word)
 ms.prod: word
 ms.assetid: 5dc5cc43-a696-d80f-58f9-0f74dfcad0ed
 ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions Object (Word)
+# FirstLetterExceptions object (Word)
 
 A collection of  **FirstLetterException** objects that represent the abbreviations excluded from automatic correction.
 

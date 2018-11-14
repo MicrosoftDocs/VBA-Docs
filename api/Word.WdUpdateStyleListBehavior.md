@@ -1,5 +1,5 @@
 ---
-title: WdUpdateStyleListBehavior Enumeration (Word)
+title: WdUpdateStyleListBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdUpdateStyleListBehavior
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdUpdateStyleListBehavior Enumeration (Word)
+# WdUpdateStyleListBehavior enumeration (Word)
 
 Specifies the behavior Word should take when updating a style to match a selection that contains numbering or bullets.
 

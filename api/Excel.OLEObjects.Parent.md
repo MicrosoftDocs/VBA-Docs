@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Parent Property (Excel)
+title: OLEObjects.Parent property (Excel)
 keywords: vbaxl10.chm419073
 f1_keywords:
 - vbaxl10.chm419073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Parent Property (Excel)
+# OLEObjects.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

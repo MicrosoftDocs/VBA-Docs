@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.XPath Property (Word)
+title: XMLMapping.XPath property (Word)
 keywords: vbawd10.chm199688198
 f1_keywords:
 - vbawd10.chm199688198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.XPath Property (Word)
+# XMLMapping.XPath property (Word)
 
 Returns a  **String** that represents the XPath for the XML mapping, which evaluates to the currently mapped XML node. Read-only.
 

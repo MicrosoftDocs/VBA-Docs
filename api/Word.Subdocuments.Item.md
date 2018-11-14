@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Item Method (Word)
+title: Subdocuments.Item method (Word)
 keywords: vbawd10.chm159907840
 f1_keywords:
 - vbawd10.chm159907840
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Item Method (Word)
+# Subdocuments.Item method (Word)
 
 Returns an individual  **Subdocument** object in a collection.
 

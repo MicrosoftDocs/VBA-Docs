@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (Excel)
+title: Application.AutomationSecurity property (Excel)
 keywords: vbaxl10.chm133269
 f1_keywords:
 - vbaxl10.chm133269
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutomationSecurity Property (Excel)
+# Application.AutomationSecurity property (Excel)
 
 Returns or sets an  **[MsoAutomationSecurity](Office.MsoAutomationSecurity.md)** constant that represents the security mode Microsoft Excel uses when programmatically opening files. Read/write.
 

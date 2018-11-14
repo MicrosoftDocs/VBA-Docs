@@ -1,5 +1,5 @@
 ---
-title: Range.FlashFill Method (Excel)
+title: Range.FlashFill method (Excel)
 keywords: vbaxl10.chm144255
 f1_keywords:
 - vbaxl10.chm144255
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FlashFill Method (Excel)
+# Range.FlashFill method (Excel)
 
 TRUE indicates that the Excel Flash Fill feature has been enabled and active.
 

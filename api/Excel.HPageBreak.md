@@ -1,5 +1,5 @@
 ---
-title: HPageBreak Object (Excel)
+title: HPageBreak object (Excel)
 keywords: vbaxl10.chm158072
 f1_keywords:
 - vbaxl10.chm158072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak Object (Excel)
+# HPageBreak object (Excel)
 
 Represents a horizontal page break. 
 

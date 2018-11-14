@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 
 # Create a shortcut menu for a form, form control, or report
 
-When you're designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
+When you are designing a form or report, you may want to provide a method for a user to easily use a command that applies only to the current context. One way to do this is to create a custom shortcut menu and apply it to a form report, or control. The shortcut menu appears when the user right-clicks the object to which the shortcut menu is applied.
 
 In earlier versions of **Access**, you could use the **Customize** dialog box to create custom shortcut menus. In Access 2013, you must use Visual Basic for Applications (VBA) code to create a shortcut menu. This article describes you how to create a shortcut menu using VBA.
 

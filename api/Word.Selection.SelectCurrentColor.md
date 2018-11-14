@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentColor Method (Word)
+title: Selection.SelectCurrentColor method (Word)
 keywords: vbawd10.chm158663178
 f1_keywords:
 - vbawd10.chm158663178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentColor Method (Word)
+# Selection.SelectCurrentColor method (Word)
 
 Extends the selection forward until text with a different color is encountered.
 

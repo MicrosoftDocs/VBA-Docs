@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Acoth Method (Excel)
+title: WorksheetFunction.Acoth method (Excel)
 keywords: vbaxl10.chm137422
 f1_keywords:
 - vbaxl10.chm137422
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Acoth Method (Excel)
+# WorksheetFunction.Acoth method (Excel)
 
 Returns the inverse hyperbolic cotangent of a number.
 
@@ -25,7 +25,7 @@ Returns the inverse hyperbolic cotangent of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The hyperbolic cotangent of the angle that you want.|
 

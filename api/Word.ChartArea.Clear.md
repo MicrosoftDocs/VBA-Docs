@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Clear Method (Word)
+title: ChartArea.Clear method (Word)
 keywords: vbawd10.chm160039023
 f1_keywords:
 - vbawd10.chm160039023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Clear Method (Word)
+# ChartArea.Clear method (Word)
 
 Clears the entire object.
 

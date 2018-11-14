@@ -1,5 +1,5 @@
 ---
-title: TextFrame Object (Excel)
+title: TextFrame object (Excel)
 keywords: vbaxl10.chm643072
 f1_keywords:
 - vbaxl10.chm643072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame Object (Excel)
+# TextFrame object (Excel)
 
 Represents the text frame in a  **[Shape](Excel.Shape.md)** object. Contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame.
 

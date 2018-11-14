@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Copy Method (Word)
+title: MailMergeField.Copy method (Word)
 keywords: vbawd10.chm152961129
 f1_keywords:
 - vbawd10.chm152961129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Copy Method (Word)
+# MailMergeField.Copy method (Word)
 
 Copies the specified mail merge field to the Clipboard.
 

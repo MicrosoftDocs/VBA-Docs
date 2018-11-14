@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (Excel)
+title: FillFormat.GradientVariant property (Excel)
 keywords: vbaxl10.chm115016
 f1_keywords:
 - vbaxl10.chm115016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientVariant Property (Excel)
+# FillFormat.GradientVariant property (Excel)
 
 Returns the shade variant for the specified fill as an integer value from 1 through 4. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the  **Gradient** tab in the **Fill Effects** dialog box. Read-only **Long**
 

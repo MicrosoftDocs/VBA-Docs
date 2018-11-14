@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Reset Method (Word)
+title: ListGallery.Reset method (Word)
 keywords: vbawd10.chm160694372
 f1_keywords:
 - vbawd10.chm160694372
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery.Reset Method (Word)
+# ListGallery.Reset method (Word)
 
 Resets the list template specified by Index for the specified list gallery to the built-in list template format.
 

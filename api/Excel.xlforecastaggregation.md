@@ -1,12 +1,12 @@
 ---
-title: XlForecastAggregation Enumeration (Excel)
+title: xlForecastAggregation enumeration (Excel)
 ms.assetid: 00df6eeb-05ab-e004-7cee-56f520096f72
 ms.date: 06/08/2017
 ms.prod: excel
 ---
 
 
-# XlForecastAggregation Enumeration (Excel)
+# xlForecastAggregation enumeration (Excel)
 
 Constants passed to various  **WorksheetFunction** and **Workbook** statistical forecasting methods.
 

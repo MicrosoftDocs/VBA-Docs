@@ -1,5 +1,5 @@
 ---
-title: Chart.Refresh Method (Excel)
+title: Chart.Refresh method (Excel)
 keywords: vbaxl10.chm149164
 f1_keywords:
 - vbaxl10.chm149164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Refresh Method (Excel)
+# Chart.Refresh method (Excel)
 
 Causes the specified chart to be redrawn immediately.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Permut Method (Excel)
+title: WorksheetFunction.Permut method (Excel)
 keywords: vbaxl10.chm137203
 f1_keywords:
 - vbaxl10.chm137203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Permut Method (Excel)
+# WorksheetFunction.Permut method (Excel)
 
 Returns the number of permutations for a given number of objects that can be selected from number objects. A permutation is any set or subset of objects or events where internal order is significant. Permutations are different from combinations, for which the internal order is not significant. Use this function for lottery-style probability calculations.
 

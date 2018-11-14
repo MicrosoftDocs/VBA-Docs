@@ -1,5 +1,5 @@
 ---
-title: Workbook.CreateBackup Property (Excel)
+title: Workbook.CreateBackup property (Excel)
 keywords: vbaxl10.chm199093
 f1_keywords:
 - vbaxl10.chm199093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CreateBackup Property (Excel)
+# Workbook.CreateBackup property (Excel)
 
  **True** if a backup file is created when this file is saved. Read-only **Boolean** .
 

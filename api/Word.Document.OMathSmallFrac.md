@@ -1,5 +1,5 @@
 ---
-title: Document.OMathSmallFrac Property (Word)
+title: Document.OMathSmallFrac property (Word)
 keywords: vbawd10.chm158007835
 f1_keywords:
 - vbawd10.chm158007835
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathSmallFrac Property (Word)
+# Document.OMathSmallFrac property (Word)
 
 Returns or sets a  **Boolean** that represents whether to use small fractions in equations contained within the document. Read/write.
 

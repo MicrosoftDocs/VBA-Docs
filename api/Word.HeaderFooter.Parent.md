@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Parent Property (Word)
+title: HeaderFooter.Parent property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Parent Property (Word)
+# HeaderFooter.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **HeaderFooter** object.
 

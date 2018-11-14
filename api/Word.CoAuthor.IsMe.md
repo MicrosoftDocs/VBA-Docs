@@ -1,5 +1,5 @@
 ---
-title: CoAuthor.IsMe Property (Word)
+title: CoAuthor.IsMe property (Word)
 keywords: vbawd10.chm81068035
 f1_keywords:
 - vbawd10.chm81068035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthor.IsMe Property (Word)
+# CoAuthor.IsMe property (Word)
 
 Returns true if this author represents the current user. Read-only. 
 

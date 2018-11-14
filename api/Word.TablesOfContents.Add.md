@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Add Method (Word)
+title: TablesOfContents.Add method (Word)
 keywords: vbawd10.chm152305767
 f1_keywords:
 - vbawd10.chm152305767
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents.Add Method (Word)
+# TablesOfContents.Add method (Word)
 
 Returns a  **TableOfContents** object that represents a table of contents added to a document.
 

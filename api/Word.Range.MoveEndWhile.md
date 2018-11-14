@@ -1,5 +1,5 @@
 ---
-title: Range.MoveEndWhile Method (Word)
+title: Range.MoveEndWhile method (Word)
 keywords: vbawd10.chm157155442
 f1_keywords:
 - vbawd10.chm157155442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveEndWhile Method (Word)
+# Range.MoveEndWhile method (Word)
 
 Moves the ending character position of a range while any of the specified characters are found in the document.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Creator Property (Excel)
+title: ThreeDFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Creator Property (Excel)
+# ThreeDFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.DisplayDrawingObjects Property (Excel)
+title: Workbook.DisplayDrawingObjects property (Excel)
 keywords: vbaxl10.chm199098
 f1_keywords:
 - vbaxl10.chm199098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DisplayDrawingObjects Property (Excel)
+# Workbook.DisplayDrawingObjects property (Excel)
 
 Returns or sets how shapes are displayed. Read/write  **Long** .
 

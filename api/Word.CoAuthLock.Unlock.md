@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Unlock Method (Word)
+title: CoAuthLock.Unlock method (Word)
 keywords: vbawd10.chm260046854
 f1_keywords:
 - vbawd10.chm260046854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Unlock Method (Word)
+# CoAuthLock.Unlock method (Word)
 
 Unlocks the specified lock.
 

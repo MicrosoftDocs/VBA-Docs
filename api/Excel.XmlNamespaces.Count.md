@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces.Count Property (Excel)
+title: XmlNamespaces.Count property (Excel)
 keywords: vbaxl10.chm746075
 f1_keywords:
 - vbaxl10.chm746075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces.Count Property (Excel)
+# XmlNamespaces.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

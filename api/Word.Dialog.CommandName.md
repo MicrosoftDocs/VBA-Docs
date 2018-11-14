@@ -1,5 +1,5 @@
 ---
-title: Dialog.CommandName Property (Word)
+title: Dialog.CommandName property (Word)
 keywords: vbawd10.chm163085574
 f1_keywords:
 - vbawd10.chm163085574
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.CommandName Property (Word)
+# Dialog.CommandName property (Word)
 
 Returns the name of the procedure that displays the specified built-in dialog box. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CacheIndex Property (Excel)
+title: PivotTable.CacheIndex property (Excel)
 keywords: vbaxl10.chm235102
 f1_keywords:
 - vbaxl10.chm235102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CacheIndex Property (Excel)
+# PivotTable.CacheIndex property (Excel)
 
 Returns or sets the index number of the PivotTable cache. Read/write  **Long** .
 

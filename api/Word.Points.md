@@ -1,5 +1,5 @@
 ---
-title: Points Object (Word)
+title: Points object (Word)
 ms.prod: word
 api_name:
 - Word.Points
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points Object (Word)
+# Points object (Word)
 
 A collection of all the  **[Point](Word.Point.md)** objects in the specified series in a chart.
 

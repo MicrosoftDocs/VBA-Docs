@@ -23,7 +23,7 @@ Occurs after data in a control is changed through the user interface.
 The  **AfterUpdate** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

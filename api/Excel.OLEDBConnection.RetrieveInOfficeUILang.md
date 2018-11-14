@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.RetrieveInOfficeUILang Property (Excel)
+title: OLEDBConnection.RetrieveInOfficeUILang property (Excel)
 keywords: vbaxl10.chm794104
 f1_keywords:
 - vbaxl10.chm794104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.RetrieveInOfficeUILang Property (Excel)
+# OLEDBConnection.RetrieveInOfficeUILang property (Excel)
 
  **True** if the data and errors are to be retrieved in the Office user interface display language when available. Read/write **Boolean** .
 

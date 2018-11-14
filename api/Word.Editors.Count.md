@@ -1,5 +1,5 @@
 ---
-title: Editors.Count Property (Word)
+title: Editors.Count property (Word)
 keywords: vbawd10.chm9175042
 f1_keywords:
 - vbawd10.chm9175042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors.Count Property (Word)
+# Editors.Count property (Word)
 
 Returns a the  **Long** that represents the number of Editor objects in the collection. Read-only.
 

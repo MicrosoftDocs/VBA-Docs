@@ -1,5 +1,5 @@
 ---
-title: WdParagraphAlignment Enumeration (Word)
+title: WdParagraphAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdParagraphAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdParagraphAlignment Enumeration (Word)
+# WdParagraphAlignment enumeration (Word)
 
 Specifies the alignment of a paragraph.
 

@@ -1,5 +1,5 @@
 ---
-title: Broadcast.PresenterServiceUrl Property (Word)
+title: Broadcast.PresenterServiceUrl property (Word)
 keywords: vbawd10.chm36438020
 f1_keywords:
 - vbawd10.chm36438020
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.PresenterServiceUrl Property (Word)
+# Broadcast.PresenterServiceUrl property (Word)
 
 If a broadcast is in progress, returns a  **String** that represents the URL of the presenter service hosting the broadcast. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.HighlightMergeFields Property (Word)
+title: MailMerge.HighlightMergeFields property (Word)
 keywords: vbawd10.chm153092107
 f1_keywords:
 - vbawd10.chm153092107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.HighlightMergeFields Property (Word)
+# MailMerge.HighlightMergeFields property (Word)
 
  **True** to highlight the merge fields in a document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Document.ReadOnlyRecommended Property (Word)
+title: Document.ReadOnlyRecommended property (Word)
 keywords: vbawd10.chm158007348
 f1_keywords:
 - vbawd10.chm158007348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReadOnlyRecommended Property (Word)
+# Document.ReadOnlyRecommended property (Word)
 
  **True** if Microsoft Word displays a message box whenever a user opens the document, suggesting that it be opened as read-only. Read/write **Boolean** .
 

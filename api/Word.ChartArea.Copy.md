@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Copy Method (Word)
+title: ChartArea.Copy method (Word)
 keywords: vbawd10.chm160039463
 f1_keywords:
 - vbawd10.chm160039463
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Copy Method (Word)
+# ChartArea.Copy method (Word)
 
 Copies the object to the Clipboard.
 

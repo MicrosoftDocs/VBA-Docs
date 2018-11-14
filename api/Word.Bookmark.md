@@ -1,5 +1,5 @@
 ---
-title: Bookmark Object (Word)
+title: Bookmark object (Word)
 keywords: vbawd10.chm2408
 f1_keywords:
 - vbawd10.chm2408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark Object (Word)
+# Bookmark object (Word)
 
 Represents a single bookmark in a document, selection, or range. The  **Bookmark** object is a member of the **[Bookmarks](Word.bookmarks.md)** collection. The **Bookmarks** collection includes all the bookmarks listed in the **Bookmark** dialog box (**Insert** menu).
 

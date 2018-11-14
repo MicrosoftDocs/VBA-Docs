@@ -1,5 +1,5 @@
 ---
-title: Workbook.WebPagePreview Method (Excel)
+title: Workbook.WebPagePreview method (Excel)
 keywords: vbaxl10.chm199186
 f1_keywords:
 - vbaxl10.chm199186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.WebPagePreview Method (Excel)
+# Workbook.WebPagePreview method (Excel)
 
 Displays a preview of the specified workbook as it would look if saved as a Web page.
 

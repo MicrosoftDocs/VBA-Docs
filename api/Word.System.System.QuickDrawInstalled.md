@@ -1,5 +1,5 @@
 ---
-title: System.QuickDrawInstalled Property (Word)
+title: System.QuickDrawInstalled property (Word)
 keywords: vbawd10.chm154468367
 f1_keywords:
 - vbawd10.chm154468367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.QuickDrawInstalled Property (Word)
+# System.QuickDrawInstalled property (Word)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **QuickDrawInstalled** property for the **System** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

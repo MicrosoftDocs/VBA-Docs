@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Application Property (Excel)
+title: TextFrame2.Application property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Application Property (Excel)
+# TextFrame2.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object. Read-only.
 

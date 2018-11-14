@@ -1,5 +1,5 @@
 ---
-title: Range.GoToPrevious Method (Word)
+title: Range.GoToPrevious method (Word)
 keywords: vbawd10.chm157155503
 f1_keywords:
 - vbawd10.chm157155503
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.GoToPrevious Method (Word)
+# Range.GoToPrevious method (Word)
 
 Returns a  **Range** object that refers to the start position of the previous item or location specified by the What argument.
 

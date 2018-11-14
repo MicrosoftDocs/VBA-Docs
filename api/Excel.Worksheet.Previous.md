@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Previous Property (Excel)
+title: Worksheet.Previous property (Excel)
 keywords: vbaxl10.chm174086
 f1_keywords:
 - vbaxl10.chm174086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Previous Property (Excel)
+# Worksheet.Previous property (Excel)
 
 Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next sheet.
 

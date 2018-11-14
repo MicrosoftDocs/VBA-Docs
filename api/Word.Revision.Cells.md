@@ -1,5 +1,5 @@
 ---
-title: Revision.Cells Property (Word)
+title: Revision.Cells property (Word)
 keywords: vbawd10.chm159449099
 f1_keywords:
 - vbawd10.chm159449099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Cells Property (Word)
+# Revision.Cells property (Word)
 
 Returns a  **Cells** collection that represents the table cells that have been marked with revision marks. Read-only.
 

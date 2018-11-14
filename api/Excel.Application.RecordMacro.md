@@ -1,5 +1,5 @@
 ---
-title: Application.RecordMacro Method (Excel)
+title: Application.RecordMacro method (Excel)
 keywords: vbaxl10.chm133195
 f1_keywords:
 - vbaxl10.chm133195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RecordMacro Method (Excel)
+# Application.RecordMacro method (Excel)
 
 Records code if the macro recorder is on.
 

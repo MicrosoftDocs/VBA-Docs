@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoShowRange Property (Excel)
+title: PivotField.AutoShowRange property (Excel)
 keywords: vbaxl10.chm240116
 f1_keywords:
 - vbaxl10.chm240116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoShowRange Property (Excel)
+# PivotField.AutoShowRange property (Excel)
 
 Returns  **xlTop** if the top items are shown automatically in the specified PivotTable field; returns **xlBottom** if the bottom items are shown. Read-only **Long** .
 

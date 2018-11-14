@@ -1,5 +1,5 @@
 ---
-title: Chart.HasAxis Property (Excel)
+title: Chart.HasAxis property (Excel)
 keywords: vbaxl10.chm149113
 f1_keywords:
 - vbaxl10.chm149113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasAxis Property (Excel)
+# Chart.HasAxis property (Excel)
 
 Returns or sets which axes exist on the chart. Read/write  **Variant** .
 
@@ -29,8 +29,8 @@ Returns or sets which axes exist on the chart. Read/write  **Variant** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index1_|Required| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[XlAxisType](Excel.XlAxisType.md)** constants.|
-| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[XlAxisGroup](Excel.XlAxisGroup.md)** constants.|
+| _Index1_|Required| **Variant**|The axis type. Series axes apply only to 3-D charts. Can be one of the  **[xlAxisType](Excel.XlAxisType.md)** constants.|
+| _Index2_|Optional| **Variant**|The axis group. 3-D charts have only one set of axes. Can be one of the  **[xlAxisGroup](Excel.XlAxisGroup.md)** constants.|
 
 ## Remarks
 

@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents.Item Method (Word)
+title: TablesOfContents.Item method (Word)
 keywords: vbawd10.chm152305664
 f1_keywords:
 - vbawd10.chm152305664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents.Item Method (Word)
+# TablesOfContents.Item method (Word)
 
 Returns an individual  **TableOfContents** object in a collection.
 

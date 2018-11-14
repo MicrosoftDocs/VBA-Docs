@@ -1,5 +1,5 @@
 ---
-title: Page.Breaks Property (Word)
+title: Page.Breaks property (Word)
 keywords: vbawd10.chm11075591
 f1_keywords:
 - vbawd10.chm11075591
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Breaks Property (Word)
+# Page.Breaks property (Word)
 
 Returns a  **Breaks** collection that represents the breaks on a page. .
 

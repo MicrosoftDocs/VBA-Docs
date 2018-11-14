@@ -1,5 +1,5 @@
 ---
-title: Application.ClusterConnector Property (Excel)
+title: Application.ClusterConnector property (Excel)
 keywords: vbaxl10.chm133326
 f1_keywords:
 - vbaxl10.chm133326
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ClusterConnector Property (Excel)
+# Application.ClusterConnector property (Excel)
 
 Returns or sets the name of the High Performance Computing (HPC) Cluster Connector that is used to run user-defined functions in XLL add-ins. Read/write
 

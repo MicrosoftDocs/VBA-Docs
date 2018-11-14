@@ -1,5 +1,5 @@
 ---
-title: WdMergeTarget Enumeration (Word)
+title: WdMergeTarget enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMergeTarget
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMergeTarget Enumeration (Word)
+# WdMergeTarget enumeration (Word)
 
 Specifies the target for a Compare and Merge Documents process.
 

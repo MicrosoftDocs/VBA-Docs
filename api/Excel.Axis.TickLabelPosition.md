@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelPosition Property (Excel)
+title: Axis.TickLabelPosition property (Excel)
 keywords: vbaxl10.chm561099
 f1_keywords:
 - vbaxl10.chm561099
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabelPosition Property (Excel)
+# Axis.TickLabelPosition property (Excel)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](Excel.XlTickLabelPosition.md)** .
+Describes the position of tick-mark labels on the specified axis. Read/write  **[xlTickLabelPosition](Excel.XlTickLabelPosition.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write  **
 
 
 
-| **XlTickLabelPosition** can be one of these **XlTickLabelPosition** constants.|
+| **xlTickLabelPosition** can be one of these **xlTickLabelPosition** constants.|
 | **xlTickLabelPositionLow**|
 | **xlTickLabelPositionNone**|
 | **xlTickLabelPositionHigh**|

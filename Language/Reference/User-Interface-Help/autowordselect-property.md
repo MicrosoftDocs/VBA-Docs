@@ -23,7 +23,7 @@ _object_. **AutoWordSelect** [= _Boolean_ ]
 The  **AutoWordSelect** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Specifies the basic unit used to extend a selection.|

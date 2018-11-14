@@ -1,5 +1,5 @@
 ---
-title: Workbook.DocumentInspectors Property (Excel)
+title: Workbook.DocumentInspectors property (Excel)
 keywords: vbaxl10.chm199241
 f1_keywords:
 - vbaxl10.chm199241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DocumentInspectors Property (Excel)
+# Workbook.DocumentInspectors property (Excel)
 
 Returns a  **[DocumentInspectors](./Office.DocumentInspectors.md)** collection that represents the Document Inspector modules for the specified workbook. Read-only.
 

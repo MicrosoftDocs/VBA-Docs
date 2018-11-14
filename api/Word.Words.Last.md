@@ -1,5 +1,5 @@
 ---
-title: Words.Last Property (Word)
+title: Words.Last property (Word)
 keywords: vbawd10.chm157024260
 f1_keywords:
 - vbawd10.chm157024260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words.Last Property (Word)
+# Words.Last property (Word)
 
 Returns a  **Range** object that represents the last word in a collection of words.
 

@@ -1,5 +1,5 @@
 ---
-title: ListColumn.Total Property (Excel)
+title: ListColumn.Total property (Excel)
 keywords: vbaxl10.chm738083
 f1_keywords:
 - vbaxl10.chm738083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.Total Property (Excel)
+# ListColumn.Total property (Excel)
 
 Returns the Total row for a  **ListColumn** object. Read-only.
 

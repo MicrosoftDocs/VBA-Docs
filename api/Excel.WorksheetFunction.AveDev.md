@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.AveDev Method (Excel)
+title: WorksheetFunction.AveDev method (Excel)
 keywords: vbaxl10.chm137173
 f1_keywords:
 - vbaxl10.chm137173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.AveDev Method (Excel)
+# WorksheetFunction.AveDev method (Excel)
 
 Returns the average of the absolute deviations of data points from their mean. AveDev is a measure of the variability in a data set.
 

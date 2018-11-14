@@ -1,5 +1,5 @@
 ---
-title: Application.AutoFormatAsYouTypeReplaceHyperlinks Property (Excel)
+title: Application.AutoFormatAsYouTypeReplaceHyperlinks property (Excel)
 keywords: vbaxl10.chm133281
 f1_keywords:
 - vbaxl10.chm133281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutoFormatAsYouTypeReplaceHyperlinks Property (Excel)
+# Application.AutoFormatAsYouTypeReplaceHyperlinks property (Excel)
 
  **True** (default) if Microsoft Excel automatically formats hyperlinks as you type. **False** if Excel does not automatically format hyperlinks as you type. Read/write **Boolean** .
 

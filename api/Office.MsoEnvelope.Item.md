@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope.Item Property (Office)
 
-Gets a  **MailItem** object that can be used to send the document as an e-mail. Read-only.
+Gets a  **MailItem** object that can be used to send the document as an email. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Gets a  **MailItem** object that can be used to send the document as an e-mail. 
 
 ## Example
 
-The following example sends the active Microsoft Word document as an e-mail to the e-mail address that you pass to the subroutine.
+The following example sends the active Microsoft Word document as an email to the email address that you pass to the subroutine.
 
 
 ```vb
@@ -34,7 +34,7 @@ Sub SendMail(ByVal strRecipient As String)
  'Use a With...End With block to reference the msoEnvelope object. 
  With Application.ActiveDocument.MailEnvelope 
  
- 'Add some introductory text before the body of the e-mail message. 
+ 'Add some introductory text before the body of the email message. 
  .Introduction = "Please read this and send me your comments." 
  
  'Return a MailItem object that you can use to send the document. 

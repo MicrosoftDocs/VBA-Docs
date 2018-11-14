@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatScientificNumber Property (Excel)
+title: Model.ModelFormatScientificNumber property (Excel)
 keywords: vbaxl10.chm942087
 f1_keywords:
 - vbaxl10.chm942087
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatScientificNumber Property (Excel)
+# Model.ModelFormatScientificNumber property (Excel)
 
 Returns a [ModelFormatScientificNumber](Excel.modelformatscientificnumber.md) object that represents formatting of type scientific number in the data model. Read-only.
 

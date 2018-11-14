@@ -1,5 +1,5 @@
 ---
-title: QueryTable.SavePassword Property (Excel)
+title: QueryTable.SavePassword property (Excel)
 keywords: vbaxl10.chm518085
 f1_keywords:
 - vbaxl10.chm518085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.SavePassword Property (Excel)
+# QueryTable.SavePassword property (Excel)
 
  **True** if password information in an ODBC connection string is saved with the specified query. **False** if the password is removed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelSpacingIsAuto Property (Word)
+title: Axis.TickLabelSpacingIsAuto property (Word)
 keywords: vbawd10.chm113049624
 f1_keywords:
 - vbawd10.chm113049624
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabelSpacingIsAuto Property (Word)
+# Axis.TickLabelSpacingIsAuto property (Word)
 
 Returns or sets a value that indicates whether the tick label spacing is automatic. Read/write  **Boolean** .
 

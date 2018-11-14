@@ -1,5 +1,5 @@
 ---
-title: Panes.Add Method (Word)
+title: Panes.Add method (Word)
 keywords: vbawd10.chm157220867
 f1_keywords:
 - vbawd10.chm157220867
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Add Method (Word)
+# Panes.Add method (Word)
 
 Returns a  **Pane** object that represents a new pane to a window.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.MarginRight Property (Excel)
+title: TextFrame2.MarginRight property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.MarginRight
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.MarginRight Property (Excel)
+# TextFrame2.MarginRight property (Excel)
 
 Returns or sets the distance (in points) between the right edge of the text frame and the right edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

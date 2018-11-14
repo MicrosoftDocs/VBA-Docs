@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.MirrorIndents Property (Word)
+title: ParagraphFormat.MirrorIndents property (Word)
 keywords: vbawd10.chm156434566
 f1_keywords:
 - vbawd10.chm156434566
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.MirrorIndents Property (Word)
+# ParagraphFormat.MirrorIndents property (Word)
 
 Returns or sets a  **Long** that represents whether left and right indents are the same width. Can be **True** , **False** , or **wdUndefined** . Read/write.
 

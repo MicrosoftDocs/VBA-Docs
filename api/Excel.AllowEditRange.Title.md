@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange.Title Property (Excel)
+title: AllowEditRange.Title property (Excel)
 keywords: vbaxl10.chm725073
 f1_keywords:
 - vbaxl10.chm725073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange.Title Property (Excel)
+# AllowEditRange.Title property (Excel)
 
 Returns or sets the title of the range of cells that can edited on a protected sheet. Read/write  **String** .
 

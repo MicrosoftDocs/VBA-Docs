@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Select Method (Excel)
+title: SeriesLines.Select method (Excel)
 keywords: vbaxl10.chm598075
 f1_keywords:
 - vbaxl10.chm598075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Select Method (Excel)
+# SeriesLines.Select method (Excel)
 
 Selects the object.
 

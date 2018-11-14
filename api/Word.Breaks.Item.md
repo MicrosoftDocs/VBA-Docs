@@ -1,5 +1,5 @@
 ---
-title: Breaks.Item Method (Word)
+title: Breaks.Item method (Word)
 keywords: vbawd10.chm50921472
 f1_keywords:
 - vbawd10.chm50921472
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Breaks.Item Method (Word)
+# Breaks.Item method (Word)
 
 Returns an individual  **Break** object in a collection.
 

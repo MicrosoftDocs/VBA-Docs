@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Name Property (Excel)
+title: SeriesLines.Name property (Excel)
 keywords: vbaxl10.chm598074
 f1_keywords:
 - vbaxl10.chm598074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Name Property (Excel)
+# SeriesLines.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

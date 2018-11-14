@@ -1,5 +1,5 @@
 ---
-title: OMathRad.Parent Property (Word)
+title: OMathRad.Parent property (Word)
 keywords: vbawd10.chm247791718
 f1_keywords:
 - vbawd10.chm247791718
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRad.Parent Property (Word)
+# OMathRad.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathRad** object.
 

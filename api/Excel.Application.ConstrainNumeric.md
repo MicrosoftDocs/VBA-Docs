@@ -1,5 +1,5 @@
 ---
-title: Application.ConstrainNumeric Property (Excel)
+title: Application.ConstrainNumeric property (Excel)
 keywords: vbaxl10.chm133096
 f1_keywords:
 - vbaxl10.chm133096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ConstrainNumeric Property (Excel)
+# Application.ConstrainNumeric property (Excel)
 
  **True** if handwriting recognition is limited to numbers and punctuation only. Read/write **Boolean** .
 
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property is available only if you're using Microsoft Windows for Pen Computing. If you try to set this property under any other operating system, an error occurs.
+This property is available only if you are using Microsoft Windows for Pen Computing. If you try to set this property under any other operating system, an error occurs.
 
 
 ## Example

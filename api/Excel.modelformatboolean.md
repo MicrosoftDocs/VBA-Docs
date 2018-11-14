@@ -1,5 +1,5 @@
 ---
-title: ModelFormatBoolean Object (Excel)
+title: ModelFormatBoolean object (Excel)
 keywords: vbaxl10.chm995072
 f1_keywords:
 - vbaxl10.chm995072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatBoolean Object (Excel)
+# ModelFormatBoolean object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

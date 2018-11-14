@@ -1,5 +1,5 @@
 ---
-title: MailMerge.SuppressBlankLines Property (Word)
+title: MailMerge.SuppressBlankLines property (Word)
 keywords: vbawd10.chm153092103
 f1_keywords:
 - vbawd10.chm153092103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.SuppressBlankLines Property (Word)
+# MailMerge.SuppressBlankLines property (Word)
 
  **True** if blank lines are suppressed when mail merge fields in a mail merge main document are empty. Read/write **Boolean** .
 

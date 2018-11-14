@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl.Creator Property (Word)
+title: RepeatingSectionItemColl.Creator property (Word)
 keywords: vbawd10.chm171115497
 f1_keywords:
 - vbawd10.chm171115497
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl.Creator Property (Word)
+# RepeatingSectionItemColl.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

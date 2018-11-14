@@ -1,5 +1,5 @@
 ---
-title: Selection.CreateAutoTextEntry Method (Word)
+title: Selection.CreateAutoTextEntry method (Word)
 keywords: vbawd10.chm158663190
 f1_keywords:
 - vbawd10.chm158663190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.CreateAutoTextEntry Method (Word)
+# Selection.CreateAutoTextEntry method (Word)
 
 Adds a new  **[AutoTextEntry](Word.AutoTextEntry.md)** object to the **[AutoTextEntries](Word.autotextentries.md)** collection, based on the current selection.
 

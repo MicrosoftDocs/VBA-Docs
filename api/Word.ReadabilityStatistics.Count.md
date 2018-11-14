@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistics.Count Property (Word)
+title: ReadabilityStatistics.Count property (Word)
 keywords: vbawd10.chm162398209
 f1_keywords:
 - vbawd10.chm162398209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistics.Count Property (Word)
+# ReadabilityStatistics.Count property (Word)
 
 Returns a  **Long** that represents the number of readability statistics in the collection. Read-only.
 

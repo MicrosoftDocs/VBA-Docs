@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultTableStyle Property (Word)
+title: Document.DefaultTableStyle property (Word)
 keywords: vbawd10.chm158007661
 f1_keywords:
 - vbawd10.chm158007661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DefaultTableStyle Property (Word)
+# Document.DefaultTableStyle property (Word)
 
 Returns a  **Variant** that represents the table style that is applied to all newly created tables in a document. Read-only.
 

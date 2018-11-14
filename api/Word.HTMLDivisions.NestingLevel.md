@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions.NestingLevel Property (Word)
+title: HTMLDivisions.NestingLevel property (Word)
 keywords: vbawd10.chm166199298
 f1_keywords:
 - vbawd10.chm166199298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions.NestingLevel Property (Word)
+# HTMLDivisions.NestingLevel property (Word)
 
 Returns the nesting level of the specified HTML DIV elements. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbooks.Count Property (Excel)
+title: Workbooks.Count property (Excel)
 keywords: vbaxl10.chm203075
 f1_keywords:
 - vbaxl10.chm203075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.Count Property (Excel)
+# Workbooks.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

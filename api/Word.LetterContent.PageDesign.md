@@ -1,5 +1,5 @@
 ---
-title: LetterContent.PageDesign Property (Word)
+title: LetterContent.PageDesign property (Word)
 keywords: vbawd10.chm161546343
 f1_keywords:
 - vbawd10.chm161546343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.PageDesign Property (Word)
+# LetterContent.PageDesign property (Word)
 
 Returns or sets the name of the template attached to the document created by the Letter Wizard. Read/write  **String** .
 

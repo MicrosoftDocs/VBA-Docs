@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Word)
+title: Pages.Count property (Word)
 keywords: vbawd10.chm67239938
 f1_keywords:
 - vbawd10.chm67239938
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Count Property (Word)
+# Pages.Count property (Word)
 
 Returns a  **Long** that represents the number of pages in the collection. Read-only.
 

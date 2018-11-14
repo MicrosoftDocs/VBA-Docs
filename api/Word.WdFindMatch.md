@@ -1,5 +1,5 @@
 ---
-title: WdFindMatch Enumeration (Word)
+title: WdFindMatch enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFindMatch
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFindMatch Enumeration (Word)
+# WdFindMatch enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.Creator Property (Excel)
+title: SlicerPivotTables.Creator property (Excel)
 keywords: vbaxl10.chm910074
 f1_keywords:
 - vbaxl10.chm910074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables.Creator Property (Excel)
+# SlicerPivotTables.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

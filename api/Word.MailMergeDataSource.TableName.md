@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.TableName Property (Word)
+title: MailMergeDataSource.TableName property (Word)
 keywords: vbawd10.chm152895505
 f1_keywords:
 - vbawd10.chm152895505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.TableName Property (Word)
+# MailMergeDataSource.TableName property (Word)
 
 Returns a  **String** with the SQL query used to retrieve the records from the data source file attached to a mail merge document. Read-only.
 

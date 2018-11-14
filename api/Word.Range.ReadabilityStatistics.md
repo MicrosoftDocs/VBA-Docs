@@ -1,5 +1,5 @@
 ---
-title: Range.ReadabilityStatistics Property (Word)
+title: Range.ReadabilityStatistics property (Word)
 keywords: vbawd10.chm157155642
 f1_keywords:
 - vbawd10.chm157155642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ReadabilityStatistics Property (Word)
+# Range.ReadabilityStatistics property (Word)
 
 Returns a  **ReadabilityStatistics** collection that represents the readability statistics for the specified document or range. Read-only.
 

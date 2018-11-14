@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Empty Property (Word)
+title: Bookmark.Empty property (Word)
 keywords: vbawd10.chm157810690
 f1_keywords:
 - vbawd10.chm157810690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Empty Property (Word)
+# Bookmark.Empty property (Word)
 
  **True** if the specified bookmark is empty. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Close Method (Word)
+title: Document.Close method (Word)
 keywords: vbawd10.chm158008401
 f1_keywords:
 - vbawd10.chm158008401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Close Method (Word)
+# Document.Close method (Word)
 
 Closes the specified document.
 

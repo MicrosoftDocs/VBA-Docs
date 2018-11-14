@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TBillPrice Method (Excel)
+title: WorksheetFunction.TBillPrice method (Excel)
 keywords: vbaxl10.chm137316
 f1_keywords:
 - vbaxl10.chm137316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.TBillPrice Method (Excel)
+# WorksheetFunction.TBillPrice method (Excel)
 
 Returns the price per $100 face value for a Treasury bill.
 

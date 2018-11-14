@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldNames.Item Method (Word)
+title: MailMergeFieldNames.Item method (Word)
 keywords: vbawd10.chm152829952
 f1_keywords:
 - vbawd10.chm152829952
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFieldNames.Item Method (Word)
+# MailMergeFieldNames.Item method (Word)
 
 Returns an individual  **MailMergeFieldNames** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Shadow Property (Word)
+title: AxisTitle.Shadow property (Word)
 keywords: vbawd10.chm98238474
 f1_keywords:
 - vbawd10.chm98238474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Shadow Property (Word)
+# AxisTitle.Shadow property (Word)
 
 Returns or sets a value that determines whether the object has a shadow. Read/write  **Boolean** .
 

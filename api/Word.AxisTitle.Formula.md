@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Formula Property (Word)
+title: AxisTitle.Formula property (Word)
 keywords: vbawd10.chm98238502
 f1_keywords:
 - vbawd10.chm98238502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Formula Property (Word)
+# AxisTitle.Formula property (Word)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 

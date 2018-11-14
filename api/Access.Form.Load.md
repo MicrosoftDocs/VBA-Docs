@@ -44,7 +44,7 @@ When you first open a form, the following events occur in this order:
 
 Open → Load → Resize → Activate → Current
 
-If you're trying to decide whether to use the  **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you're dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display.
+If you are trying to decide whether to use the  **Open** or **Load** event for your macro or event procedure, one significant difference is that the **Open** event can be canceled, but the **Load** event can't. For example, if you are dynamically building a record source for a form in an event procedure for the form's **Open** event, you can cancel opening the form if there are no records to display.
 
 When you close a form, the following events occur in this order:
 

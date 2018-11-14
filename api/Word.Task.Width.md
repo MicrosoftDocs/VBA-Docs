@@ -1,5 +1,5 @@
 ---
-title: Task.Width Property (Word)
+title: Task.Width property (Word)
 keywords: vbawd10.chm159514627
 f1_keywords:
 - vbawd10.chm159514627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Width Property (Word)
+# Task.Width property (Word)
 
 Returns or sets the width of the specified  **Task** object, in points. Read/write **Long** .
 

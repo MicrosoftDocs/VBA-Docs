@@ -1,5 +1,5 @@
 ---
-title: SheetViews Object (Excel)
+title: SheetViews object (Excel)
 keywords: vbaxl10.chm791072
 f1_keywords:
 - vbaxl10.chm791072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SheetViews Object (Excel)
+# SheetViews object (Excel)
 
 A collection of all the sheet views in the specified or active workbook window.
 

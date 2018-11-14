@@ -1,5 +1,5 @@
 ---
-title: Document.HTMLDivisions Property (Word)
+title: Document.HTMLDivisions property (Word)
 keywords: vbawd10.chm158007638
 f1_keywords:
 - vbawd10.chm158007638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.HTMLDivisions Property (Word)
+# Document.HTMLDivisions property (Word)
 
 Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** collection that represents the HTML DIV elements in a Web document.
 

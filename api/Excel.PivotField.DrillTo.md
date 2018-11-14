@@ -1,5 +1,5 @@
 ---
-title: PivotField.DrillTo Method (Excel)
+title: PivotField.DrillTo method (Excel)
 keywords: vbaxl10.chm240138
 f1_keywords:
 - vbaxl10.chm240138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DrillTo Method (Excel)
+# PivotField.DrillTo method (Excel)
 
 The  **DrillTo** method supports drilling to a specified PivotField from another PivotField.
 

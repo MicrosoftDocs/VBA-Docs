@@ -1,5 +1,5 @@
 ---
-title: ListObject.ListRows Property (Excel)
+title: ListObject.ListRows property (Excel)
 keywords: vbaxl10.chm734087
 f1_keywords:
 - vbaxl10.chm734087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ListRows Property (Excel)
+# ListObject.ListRows property (Excel)
 
 Returns a  **[ListRows](Excel.ListRows.md)** object that represents all the rows of data in the **[ListObject](Excel.ListObject.md)** object. Read-only.
 

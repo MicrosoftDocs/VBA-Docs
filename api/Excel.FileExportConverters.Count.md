@@ -1,5 +1,5 @@
 ---
-title: FileExportConverters.Count Property (Excel)
+title: FileExportConverters.Count property (Excel)
 keywords: vbaxl10.chm865073
 f1_keywords:
 - vbaxl10.chm865073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverters.Count Property (Excel)
+# FileExportConverters.Count property (Excel)
 
 Returns a  **Long** that represents the number of file converters in the collection. Read-only.
 

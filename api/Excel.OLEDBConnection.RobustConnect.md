@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.RobustConnect Property (Excel)
+title: OLEDBConnection.RobustConnect property (Excel)
 keywords: vbaxl10.chm794088
 f1_keywords:
 - vbaxl10.chm794088
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.RobustConnect Property (Excel)
+# OLEDBConnection.RobustConnect property (Excel)
 
- Returns or sets how OLE DB connection connects to its data source. Read/write **[XlRobustConnect](Excel.XlRobustConnect.md)** .
+ Returns or sets how OLE DB connection connects to its data source. Read/write **[xlRobustConnect](Excel.XlRobustConnect.md)** .
 
 
 ## Syntax

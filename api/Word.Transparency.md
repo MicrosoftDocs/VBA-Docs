@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Transparency Property (Word)
+title: GlowFormat.Transparency property (Word)
 keywords: vbawd10.chm255852547
 f1_keywords:
 - vbawd10.chm255852547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Transparency Property (Word)
+# GlowFormat.Transparency property (Word)
 
 Returns or sets the degree of transparency for the glow effect as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single** .
 

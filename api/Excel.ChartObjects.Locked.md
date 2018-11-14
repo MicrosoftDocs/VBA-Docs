@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Locked Property (Excel)
+title: ChartObjects.Locked property (Excel)
 keywords: vbaxl10.chm497083
 f1_keywords:
 - vbaxl10.chm497083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Locked Property (Excel)
+# ChartObjects.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the objects are locked.
 

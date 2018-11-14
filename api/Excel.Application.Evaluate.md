@@ -1,5 +1,5 @@
 ---
-title: Application.Evaluate Method (Excel)
+title: Application.Evaluate method (Excel)
 keywords: vbaxl10.chm132095
 f1_keywords:
 - vbaxl10.chm132095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Evaluate Method (Excel)
+# Application.Evaluate method (Excel)
 
 Converts a Microsoft Excel name to an object or a value.
 

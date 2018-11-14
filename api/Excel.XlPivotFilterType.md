@@ -1,5 +1,5 @@
 ---
-title: XlPivotFilterType Enumeration (Excel)
+title: xlPivotFilterType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFilterType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotFilterType Enumeration (Excel)
+# xlPivotFilterType enumeration (Excel)
 
 The type of filter applied.
 

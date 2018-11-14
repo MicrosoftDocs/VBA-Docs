@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email1DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the first e-mail address for the contact. Read/write.
+Returns a  **String** representing the display name of the first email address for the contact. Read/write.
 
 
 ## Syntax

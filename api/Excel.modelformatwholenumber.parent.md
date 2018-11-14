@@ -1,5 +1,5 @@
 ---
-title: ModelFormatWholeNumber.Parent Property (Excel)
+title: ModelFormatWholeNumber.Parent property (Excel)
 keywords: vbaxl10.chm987075
 f1_keywords:
 - vbaxl10.chm987075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatWholeNumber.Parent Property (Excel)
+# ModelFormatWholeNumber.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

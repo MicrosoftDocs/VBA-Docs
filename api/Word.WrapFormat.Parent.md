@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Parent Property (Word)
+title: WrapFormat.Parent property (Word)
 keywords: vbawd10.chm163775466
 f1_keywords:
 - vbawd10.chm163775466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.Parent Property (Word)
+# WrapFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **WrapFormat** object.
 

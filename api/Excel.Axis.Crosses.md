@@ -1,5 +1,5 @@
 ---
-title: Axis.Crosses Property (Excel)
+title: Axis.Crosses property (Excel)
 keywords: vbaxl10.chm561078
 f1_keywords:
 - vbaxl10.chm561078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Crosses Property (Excel)
+# Axis.Crosses property (Excel)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long** .
 
@@ -25,7 +25,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 ## Remarks
 
-Can be one of the  **XlAxisCrosses** constants listed in the following table.
+Can be one of the  **xlAxisCrosses** constants listed in the following table.
 
 
 

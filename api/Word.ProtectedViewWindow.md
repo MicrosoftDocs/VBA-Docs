@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow Object (Word)
+title: ProtectedViewWindow object (Word)
 keywords: vbawd10.chm3536
 f1_keywords:
 - vbawd10.chm3536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow Object (Word)
+# ProtectedViewWindow object (Word)
 
 Represents a protected view window.
 

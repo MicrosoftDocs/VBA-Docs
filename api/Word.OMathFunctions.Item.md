@@ -1,5 +1,5 @@
 ---
-title: OMathFunctions.Item Method (Word)
+title: OMathFunctions.Item method (Word)
 keywords: vbawd10.chm44302336
 f1_keywords:
 - vbawd10.chm44302336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunctions.Item Method (Word)
+# OMathFunctions.Item method (Word)
 
 Returns an  **OMathFunction** object that represents the specified item in the collection.
 

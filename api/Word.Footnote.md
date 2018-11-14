@@ -1,5 +1,5 @@
 ---
-title: Footnote Object (Word)
+title: Footnote object (Word)
 keywords: vbawd10.chm2367
 f1_keywords:
 - vbawd10.chm2367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote Object (Word)
+# Footnote object (Word)
 
 Represents a footnote positioned at the bottom of the page or beneath text. The  **Footnote** object is a member of the **Footnotes** collection. The **[Footnotes](Word.footnotes.md)** collection represents the footnotes in a selection, range, or document.
 

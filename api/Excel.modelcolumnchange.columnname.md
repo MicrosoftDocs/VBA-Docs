@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChange.ColumnName Property (Excel)
+title: ModelColumnChange.ColumnName property (Excel)
 keywords: vbaxl10.chm966074
 f1_keywords:
 - vbaxl10.chm966074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChange.ColumnName Property (Excel)
+# ModelColumnChange.ColumnName property (Excel)
 
  **String** representing the name of a column for which the data type was changed. Read-only.
 

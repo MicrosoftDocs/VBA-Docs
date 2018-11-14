@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.DoubleQuote Property (Word)
+title: PageNumbers.DoubleQuote property (Word)
 keywords: vbawd10.chm159776778
 f1_keywords:
 - vbawd10.chm159776778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.DoubleQuote Property (Word)
+# PageNumbers.DoubleQuote property (Word)
 
  **True** if Microsoft Word encloses the specified **PageNumbers** object in double quotation marks ("). Read/write **Boolean** .
 

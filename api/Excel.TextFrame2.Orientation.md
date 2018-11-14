@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Orientation Property (Excel)
+title: TextFrame2.Orientation property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Orientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Orientation Property (Excel)
+# TextFrame2.Orientation property (Excel)
 
 Returns or sets a value that represents the text frame orientation. Read/write  **[MsoTextOrientation](./Office.MsoTextOrientation.md)** .
 

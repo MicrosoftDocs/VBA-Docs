@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Skew Method (Excel)
+title: WorksheetFunction.Skew method (Excel)
 keywords: vbaxl10.chm137227
 f1_keywords:
 - vbaxl10.chm137227
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Skew Method (Excel)
+# WorksheetFunction.Skew method (Excel)
 
 Returns the skewness of a distribution. Skewness characterizes the degree of asymmetry of a distribution around its mean. Positive skewness indicates a distribution with an asymmetric tail extending toward more positive values. Negative skewness indicates a distribution with an asymmetric tail extending toward more negative values.
 

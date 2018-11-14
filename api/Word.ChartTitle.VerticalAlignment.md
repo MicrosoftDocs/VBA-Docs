@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.VerticalAlignment Property (Word)
+title: ChartTitle.VerticalAlignment property (Word)
 keywords: vbawd10.chm65273872
 f1_keywords:
 - vbawd10.chm65273872
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.VerticalAlignment Property (Word)
+# ChartTitle.VerticalAlignment property (Word)
 
 Returns or sets the vertical alignment of the specified object. Read/write  **Variant** .
 
@@ -25,7 +25,7 @@ Returns or sets the vertical alignment of the specified object. Read/write  **Va
 
 ## Remarks
 
-You can set the value of this property to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
+You can set the value of this property to one of the following  **[xlConstants](Word.XlConstants.md)** constants:
 
 
 -  **xlBottom**

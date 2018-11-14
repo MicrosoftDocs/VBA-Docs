@@ -1,5 +1,5 @@
 ---
-title: Range.Hyperlinks Property (Word)
+title: Range.Hyperlinks property (Word)
 keywords: vbawd10.chm157155484
 f1_keywords:
 - vbawd10.chm157155484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Hyperlinks Property (Word)
+# Range.Hyperlinks property (Word)
 
 Returns a  **Hyperlinks** collection that represents all the hyperlinks in the specified range. Read-only.
 

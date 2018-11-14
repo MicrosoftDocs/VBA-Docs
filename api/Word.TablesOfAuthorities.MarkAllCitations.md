@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.MarkAllCitations Method (Word)
+title: TablesOfAuthorities.MarkAllCitations method (Word)
 keywords: vbawd10.chm152174694
 f1_keywords:
 - vbawd10.chm152174694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.MarkAllCitations Method (Word)
+# TablesOfAuthorities.MarkAllCitations method (Word)
 
 Inserts a TA (Table of Authorities Entry) field after all instances of the  **ShortCitation** text.
 

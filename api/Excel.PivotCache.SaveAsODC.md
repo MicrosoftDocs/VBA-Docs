@@ -1,5 +1,5 @@
 ---
-title: PivotCache.SaveAsODC Method (Excel)
+title: PivotCache.SaveAsODC method (Excel)
 keywords: vbaxl10.chm227106
 f1_keywords:
 - vbaxl10.chm227106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.SaveAsODC Method (Excel)
+# PivotCache.SaveAsODC method (Excel)
 
 Saves the PivotTable cache source as an Microsoft Office Data Connection file.
 

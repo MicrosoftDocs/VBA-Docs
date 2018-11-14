@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Excel)
+title: DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Excel)
 keywords: vbaxl10.chm660091
 f1_keywords:
 - vbaxl10.chm660091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Excel)
+# DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Excel)
 
  **True** if new Web pages can be saved as Web archives. Read/write **Boolean** .
 

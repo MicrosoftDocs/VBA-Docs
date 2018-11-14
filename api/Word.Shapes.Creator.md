@@ -1,5 +1,5 @@
 ---
-title: Shapes.Creator Property (Word)
+title: Shapes.Creator property (Word)
 keywords: vbawd10.chm161423169
 f1_keywords:
 - vbawd10.chm161423169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.Creator Property (Word)
+# Shapes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

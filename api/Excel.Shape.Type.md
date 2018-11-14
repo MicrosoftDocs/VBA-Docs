@@ -1,5 +1,5 @@
 ---
-title: Shape.Type Property (Excel)
+title: Shape.Type property (Excel)
 keywords: vbaxl10.chm636111
 f1_keywords:
 - vbaxl10.chm636111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Type Property (Excel)
+# Shape.Type property (Excel)
 
 Returns or sets a  **[MsoShapeType](./Office.MsoShapeType.md)** value that represents the shape type.
 

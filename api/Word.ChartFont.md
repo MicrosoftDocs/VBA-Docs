@@ -1,5 +1,5 @@
 ---
-title: ChartFont Object (Word)
+title: ChartFont object (Word)
 keywords: vbawd10.chm3905
 f1_keywords:
 - vbawd10.chm3905
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont Object (Word)
+# ChartFont object (Word)
 
 Contains the font attributes (font name, font size, color, and so on) for an object chart.
 

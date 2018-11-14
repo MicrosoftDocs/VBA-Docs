@@ -1,5 +1,5 @@
 ---
-title: Sheets.Add2 Method (Excel)
+title: Sheets.Add2 method (Excel)
 keywords: vbaxl10.chm152090
 f1_keywords:
 - vbaxl10.chm152090
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Add2 Method (Excel)
+# Sheets.Add2 method (Excel)
 
 This method is only implemented for the  **Charts** collection object and will produce a run time error if used on the **Sheets** and **Worksheets** objects.
 
@@ -25,7 +25,7 @@ This method is only implemented for the  **Charts** collection object and will p
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional|VARIANT|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional|VARIANT|An object that specifies the sheet after which the new sheet is added.|

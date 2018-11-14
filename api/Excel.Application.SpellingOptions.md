@@ -1,5 +1,5 @@
 ---
-title: Application.SpellingOptions Property (Excel)
+title: Application.SpellingOptions property (Excel)
 keywords: vbaxl10.chm133284
 f1_keywords:
 - vbaxl10.chm133284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SpellingOptions Property (Excel)
+# Application.SpellingOptions property (Excel)
 
 Returns a  **[SpellingOptions](Excel.SpellingOptions.md)** object that represents the spelling options of the application.
 

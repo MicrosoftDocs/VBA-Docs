@@ -1,5 +1,5 @@
 ---
-title: Document.OMathWrap Property (Word)
+title: Document.OMathWrap property (Word)
 keywords: vbawd10.chm158007831
 f1_keywords:
 - vbawd10.chm158007831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathWrap Property (Word)
+# Document.OMathWrap property (Word)
 
 Returns or sets a  **Single** that represents the placement of the second line of an equation that wraps to a new line. Read/write.
 

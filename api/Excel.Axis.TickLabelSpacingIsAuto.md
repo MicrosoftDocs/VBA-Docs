@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelSpacingIsAuto Property (Excel)
+title: Axis.TickLabelSpacingIsAuto property (Excel)
 keywords: vbaxl10.chm561118
 f1_keywords:
 - vbaxl10.chm561118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabelSpacingIsAuto Property (Excel)
+# Axis.TickLabelSpacingIsAuto property (Excel)
 
 Returns or sets whether or not the tick label spacing is automatic. Read/write  **Boolean** .
 

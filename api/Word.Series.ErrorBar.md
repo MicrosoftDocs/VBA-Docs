@@ -1,5 +1,5 @@
 ---
-title: Series.ErrorBar Method (Word)
+title: Series.ErrorBar method (Word)
 keywords: vbawd10.chm123732120
 f1_keywords:
 - vbawd10.chm123732120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ErrorBar Method (Word)
+# Series.ErrorBar method (Word)
 
 Applies error bars to the series.
 
@@ -29,9 +29,9 @@ Applies error bars to the series.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[XlErrorBarDirection](Word.xlerrorbardirection.md)**|One of the enumeration values that specifies the error bar direction.|
-| _Include_|Required| **[XlErrorBarInclude](Word.xlerrorbarinclude.md)**|One of the enumeration values that specifies the error bar parts to include.|
-| _Type_|Required| **[XlErrorBarType](Word.xlerrorbartype.md)**|One of the enumeration values that specifies the error bar type.|
+| _Direction_|Required| **[xlErrorBarDirection](Word.xlerrorbardirection.md)**|One of the enumeration values that specifies the error bar direction.|
+| _Include_|Required| **[xlErrorBarInclude](Word.xlerrorbarinclude.md)**|One of the enumeration values that specifies the error bar parts to include.|
+| _Type_|Required| **[xlErrorBarType](Word.xlerrorbartype.md)**|One of the enumeration values that specifies the error bar type.|
 | _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when Type is  **xlErrorBarTypeCustom** .|
 | _MinusValues_|Optional| **Variant**|The negative error amount when Type is  **xlErrorBarTypeCustom** .|
 

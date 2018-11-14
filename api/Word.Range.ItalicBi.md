@@ -1,5 +1,5 @@
 ---
-title: Range.ItalicBi Property (Word)
+title: Range.ItalicBi property (Word)
 keywords: vbawd10.chm157155729
 f1_keywords:
 - vbawd10.chm157155729
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ItalicBi Property (Word)
+# Range.ItalicBi property (Word)
 
  **True** if the font or range is formatted as italic. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Distribute Method (Excel)
+title: ShapeRange.Distribute method (Excel)
 keywords: vbaxl10.chm640080
 f1_keywords:
 - vbaxl10.chm640080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Distribute Method (Excel)
+# ShapeRange.Distribute method (Excel)
 
 Horizontally or vertically distributes the shapes in the specified range of shapes.
 

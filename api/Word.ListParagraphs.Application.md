@@ -1,5 +1,5 @@
 ---
-title: ListParagraphs.Application Property (Word)
+title: ListParagraphs.Application property (Word)
 keywords: vbawd10.chm160498664
 f1_keywords:
 - vbawd10.chm160498664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListParagraphs.Application Property (Word)
+# ListParagraphs.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

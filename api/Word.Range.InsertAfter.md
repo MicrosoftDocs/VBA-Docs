@@ -1,5 +1,5 @@
 ---
-title: Range.InsertAfter Method (Word)
+title: Range.InsertAfter method (Word)
 keywords: vbawd10.chm157155432
 f1_keywords:
 - vbawd10.chm157155432
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertAfter Method (Word)
+# Range.InsertAfter method (Word)
 
 Inserts the specified text at the end of a range.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathMat.PlcHoldHidden Property (Word)
+title: OMathMat.PlcHoldHidden property (Word)
 keywords: vbawd10.chm176029803
 f1_keywords:
 - vbawd10.chm176029803
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.PlcHoldHidden Property (Word)
+# OMathMat.PlcHoldHidden property (Word)
 
 Returns or sets a  **Boolean** that represents whether placeholders in a matrix are hidden from display. **True** hides placeholder text. Read/write.
 

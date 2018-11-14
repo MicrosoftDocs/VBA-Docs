@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeReplaceSymbols Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeReplaceSymbols property (Word)
 keywords: vbawd10.chm165347593
 f1_keywords:
 - vbawd10.chm165347593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeReplaceSymbols Property (Word)
+# EmailOptions.AutoFormatAsYouTypeReplaceSymbols property (Word)
 
  **True** if two consecutive hyphens (--) are replaced with an en dash (-) or an em dash (—) as you type. Read/write **Boolean** .
 

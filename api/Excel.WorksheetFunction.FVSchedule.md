@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FVSchedule Method (Excel)
+title: WorksheetFunction.FVSchedule method (Excel)
 keywords: vbaxl10.chm137352
 f1_keywords:
 - vbaxl10.chm137352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.FVSchedule Method (Excel)
+# WorksheetFunction.FVSchedule method (Excel)
 
 Returns the future value of an initial principal after applying a series of compound interest rates. Use FVSCHEDULE to calculate the future value of an investment with a variable or adjustable rate.
 

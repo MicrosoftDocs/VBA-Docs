@@ -1,5 +1,5 @@
 ---
-title: Range.Rows Property (Excel)
+title: Range.Rows property (Excel)
 keywords: vbaxl10.chm144191
 f1_keywords:
 - vbaxl10.chm144191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Rows Property (Excel)
+# Range.Rows property (Excel)
 
 Returns a **[Range](Excel.Range(object).md)** object that represents the rows in the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartView Object (Excel)
+title: ChartView object (Excel)
 keywords: vbaxl10.chm780072
 f1_keywords:
 - vbaxl10.chm780072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartView Object (Excel)
+# ChartView object (Excel)
 
 Represents a view of a chart.
 

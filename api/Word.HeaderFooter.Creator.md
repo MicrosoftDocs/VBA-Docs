@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Creator Property (Word)
+title: HeaderFooter.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.HeaderFooter.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Creator Property (Word)
+# HeaderFooter.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

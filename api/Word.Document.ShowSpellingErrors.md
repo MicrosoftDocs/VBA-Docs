@@ -1,5 +1,5 @@
 ---
-title: Document.ShowSpellingErrors Property (Word)
+title: Document.ShowSpellingErrors property (Word)
 keywords: vbawd10.chm158007369
 f1_keywords:
 - vbawd10.chm158007369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ShowSpellingErrors Property (Word)
+# Document.ShowSpellingErrors property (Word)
 
  **True** if Microsoft Word underlines spelling errors in the document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotVisibleOnly Property (Excel)
+title: Chart.PlotVisibleOnly property (Excel)
 keywords: vbaxl10.chm149135
 f1_keywords:
 - vbaxl10.chm149135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotVisibleOnly Property (Excel)
+# Chart.PlotVisibleOnly property (Excel)
 
  **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean** .
 

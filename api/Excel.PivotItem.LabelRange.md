@@ -1,5 +1,5 @@
 ---
-title: PivotItem.LabelRange Property (Excel)
+title: PivotItem.LabelRange property (Excel)
 keywords: vbaxl10.chm246077
 f1_keywords:
 - vbaxl10.chm246077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.LabelRange Property (Excel)
+# PivotItem.LabelRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the cells in the PivotTable report that contain the item. Read-only.
 

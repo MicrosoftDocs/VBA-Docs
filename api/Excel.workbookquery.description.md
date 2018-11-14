@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery.Description Property (Excel)
+title: WorkbookQuery.Description property (Excel)
 keywords: vbaxl10.chm974075
 f1_keywords:
 - vbaxl10.chm974075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery.Description Property (Excel)
+# WorkbookQuery.Description property (Excel)
 
 The description of the query. Read/write  **String**.
 

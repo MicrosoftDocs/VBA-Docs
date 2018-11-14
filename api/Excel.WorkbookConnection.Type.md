@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Type Property (Excel)
+title: WorkbookConnection.Type property (Excel)
 keywords: vbaxl10.chm774076
 f1_keywords:
 - vbaxl10.chm774076
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.Type Property (Excel)
+# WorkbookConnection.Type property (Excel)
 
-Returns the workbook connection type. Read-only  **[XlConnectionType](Excel.XlConnectionType.md)** .
+Returns the workbook connection type. Read-only  **[xlConnectionType](Excel.XlConnectionType.md)** .
 
 
 ## Syntax

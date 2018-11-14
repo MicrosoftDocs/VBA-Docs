@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbNormal**|0|Normal (default for **Dir** and **SetAttr**)|
 |**vbReadOnly**|1|Read-only|

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DCount Method (Excel)
+title: WorksheetFunction.DCount method (Excel)
 keywords: vbaxl10.chm137094
 f1_keywords:
 - vbaxl10.chm137094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DCount Method (Excel)
+# WorksheetFunction.DCount method (Excel)
 
 Counts the cells that contain numbers in a column of a list or database that match conditions that you specify.
 

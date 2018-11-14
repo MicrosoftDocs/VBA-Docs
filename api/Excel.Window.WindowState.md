@@ -1,5 +1,5 @@
 ---
-title: Window.WindowState Property (Excel)
+title: Window.WindowState property (Excel)
 keywords: vbaxl10.chm356125
 f1_keywords:
 - vbaxl10.chm356125
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.WindowState Property (Excel)
+# Window.WindowState property (Excel)
 
-Returns or sets the state of the window. Read/write  **[XlWindowState](Excel.XlWindowState.md)** .
+Returns or sets the state of the window. Read/write  **[xlWindowState](Excel.XlWindowState.md)** .
 
 
 ## Syntax

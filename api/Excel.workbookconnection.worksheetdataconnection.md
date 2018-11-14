@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.WorksheetDataConnection Property (Excel)
+title: WorkbookConnection.WorksheetDataConnection property (Excel)
 keywords: vbaxl10.chm774083
 f1_keywords:
 - vbaxl10.chm774083
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.WorksheetDataConnection Property (Excel)
+# WorkbookConnection.WorksheetDataConnection property (Excel)
 
 Returns an object that contains information for a connection from the PowerPivot Model to data within the workbook such as a range, named range, or table. Read-only
 
@@ -18,7 +18,7 @@ Returns an object that contains information for a connection from the PowerPivot
 
  _expression_. `WorksheetDataConnection`
 
- _expression_ A variable that represents a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object.
+ _expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Property value

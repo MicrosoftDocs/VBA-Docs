@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Creator Property (Excel)
+title: FillFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Creator Property (Excel)
+# FillFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

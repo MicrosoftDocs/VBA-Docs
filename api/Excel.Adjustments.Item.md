@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Item Property (Excel)
+title: Adjustments.Item property (Excel)
 keywords: vbaxl10.chm103003
 f1_keywords:
 - vbaxl10.chm103003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Item Property (Excel)
+# Adjustments.Item property (Excel)
 
 Returns or sets the adjustment value specified by the  **Index** argument. Read/write **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.AddFromRange Method (Word)
+title: Subdocuments.AddFromRange method (Word)
 keywords: vbawd10.chm159907941
 f1_keywords:
 - vbawd10.chm159907941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.AddFromRange Method (Word)
+# Subdocuments.AddFromRange method (Word)
 
 Creates one or more subdocuments from the text in the specified range and returns a  **SubDocument** object.
 

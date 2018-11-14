@@ -1,5 +1,5 @@
 ---
-title: Options.BrazilReform Property (Word)
+title: Options.BrazilReform property (Word)
 keywords: vbawd10.chm162988534
 f1_keywords:
 - vbawd10.chm162988534
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.BrazilReform Property (Word)
+# Options.BrazilReform property (Word)
 
 Returns or sets the mode for the Brazilian Portuguese speller. Read/write [WdPortugueseReform](Word.WdPortugueseReform.md).
 

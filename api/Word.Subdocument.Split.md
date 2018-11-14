@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Split Method (Word)
+title: Subdocument.Split method (Word)
 keywords: vbawd10.chm159973477
 f1_keywords:
 - vbawd10.chm159973477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Split Method (Word)
+# Subdocument.Split method (Word)
 
 Divides an existing subdocument into two subdocuments at the same level in master document view or outline view.
 

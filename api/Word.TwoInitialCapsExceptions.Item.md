@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions.Item Method (Word)
+title: TwoInitialCapsExceptions.Item method (Word)
 keywords: vbawd10.chm155451392
 f1_keywords:
 - vbawd10.chm155451392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsExceptions.Item Method (Word)
+# TwoInitialCapsExceptions.Item method (Word)
 
 Returns an individual  **TwoInitialCapsException** object in a collection.
 

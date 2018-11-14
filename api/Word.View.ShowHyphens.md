@@ -1,5 +1,5 @@
 ---
-title: View.ShowHyphens Property (Word)
+title: View.ShowHyphens property (Word)
 keywords: vbawd10.chm161808402
 f1_keywords:
 - vbawd10.chm161808402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowHyphens Property (Word)
+# View.ShowHyphens property (Word)
 
  **True** if optional hyphens are displayed. An optional hyphen indicates where to break a word when it falls at the end of a line. Read/write **Boolean** .
 

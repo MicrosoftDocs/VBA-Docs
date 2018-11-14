@@ -1,5 +1,5 @@
 ---
-title: Editors.Parent Property (Word)
+title: Editors.Parent property (Word)
 keywords: vbawd10.chm9176042
 f1_keywords:
 - vbawd10.chm9176042
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors.Parent Property (Word)
+# Editors.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Editors** object.
 

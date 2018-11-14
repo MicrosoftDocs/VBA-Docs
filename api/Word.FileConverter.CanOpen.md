@@ -1,5 +1,5 @@
 ---
-title: FileConverter.CanOpen Property (Word)
+title: FileConverter.CanOpen property (Word)
 keywords: vbawd10.chm161021957
 f1_keywords:
 - vbawd10.chm161021957
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.CanOpen Property (Word)
+# FileConverter.CanOpen property (Word)
 
  **True** if the specified file converter is designed to open files. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternThemeColor Property (Excel)
+title: Interior.PatternThemeColor property (Excel)
 keywords: vbaxl10.chm551081
 f1_keywords:
 - vbaxl10.chm551081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.PatternThemeColor Property (Excel)
+# Interior.PatternThemeColor property (Excel)
 
 Returns or sets a theme color pattern for an  **Interior** object. Read/write **Variant** .
 

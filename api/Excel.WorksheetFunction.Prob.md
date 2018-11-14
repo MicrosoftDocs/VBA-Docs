@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Prob Method (Excel)
+title: WorksheetFunction.Prob method (Excel)
 keywords: vbaxl10.chm137221
 f1_keywords:
 - vbaxl10.chm137221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Prob Method (Excel)
+# WorksheetFunction.Prob method (Excel)
 
 Returns the probability that values in a range are between two limits. If upper_limit is not supplied, returns the probability that values in x_range are equal to lower_limit.
 

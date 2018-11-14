@@ -1,5 +1,5 @@
 ---
-title: Table.NestingLevel Property (Word)
+title: Table.NestingLevel property (Word)
 keywords: vbawd10.chm156303468
 f1_keywords:
 - vbawd10.chm156303468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.NestingLevel Property (Word)
+# Table.NestingLevel property (Word)
 
 Returns the nesting level of the specified table. Read-only  **Long** .
 

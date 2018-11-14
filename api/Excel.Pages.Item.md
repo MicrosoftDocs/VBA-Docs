@@ -1,5 +1,5 @@
 ---
-title: Pages.Item Property (Excel)
+title: Pages.Item property (Excel)
 keywords: vbaxl10.chm831073
 f1_keywords:
 - vbaxl10.chm831073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Item Property (Excel)
+# Pages.Item property (Excel)
 
 Returns a  **Page** object that represents a collection of pages in a workbook. Read-only.
 

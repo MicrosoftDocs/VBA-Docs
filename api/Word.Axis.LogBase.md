@@ -1,5 +1,5 @@
 ---
-title: Axis.LogBase Property (Word)
+title: Axis.LogBase property (Word)
 keywords: vbawd10.chm113049622
 f1_keywords:
 - vbawd10.chm113049622
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.LogBase Property (Word)
+# Axis.LogBase property (Word)
 
 Returns or sets the base of the logarithm when you are using log scales. Read/write  **Double** .
 

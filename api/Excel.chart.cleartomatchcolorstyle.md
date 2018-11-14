@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchColorStyle Method (Excel)
+title: Chart.ClearToMatchColorStyle method (Excel)
 keywords: vbaxl10.chm149200
 f1_keywords:
 - vbaxl10.chm149200
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ClearToMatchColorStyle Method (Excel)
+# Chart.ClearToMatchColorStyle method (Excel)
 
 Clears all colors on the specified chart that do not follow the color style applied to the chart.
 

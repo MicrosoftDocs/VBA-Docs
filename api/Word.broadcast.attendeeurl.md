@@ -1,5 +1,5 @@
 ---
-title: Broadcast.AttendeeUrl Property (Word)
+title: Broadcast.AttendeeUrl property (Word)
 keywords: vbawd10.chm36438017
 f1_keywords:
 - vbawd10.chm36438017
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.AttendeeUrl Property (Word)
+# Broadcast.AttendeeUrl property (Word)
 
 If a broadcast is in progress, returns a  **String** that represents the URL of the attendee link. Read-only.
 

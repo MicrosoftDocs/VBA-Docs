@@ -1,5 +1,5 @@
 ---
-title: Axis.Top Property (Excel)
+title: Axis.Top property (Excel)
 keywords: vbaxl10.chm561110
 f1_keywords:
 - vbaxl10.chm561110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Top Property (Excel)
+# Axis.Top property (Excel)
 
 Returns a  **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 

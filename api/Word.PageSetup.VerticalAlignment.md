@@ -1,5 +1,5 @@
 ---
-title: PageSetup.VerticalAlignment Property (Word)
+title: PageSetup.VerticalAlignment property (Word)
 keywords: vbawd10.chm158400622
 f1_keywords:
 - vbawd10.chm158400622
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.VerticalAlignment Property (Word)
+# PageSetup.VerticalAlignment property (Word)
 
 Returns or sets the vertical alignment of text on each page in a document or section. Read/write  **[WdVerticalAlignment](Word.WdVerticalAlignment.md)** .
 

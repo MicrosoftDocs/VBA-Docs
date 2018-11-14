@@ -1,5 +1,5 @@
 ---
-title: Series.Delete Method (Excel)
+title: Series.Delete method (Excel)
 keywords: vbaxl10.chm578080
 f1_keywords:
 - vbaxl10.chm578080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Delete Method (Excel)
+# Series.Delete method (Excel)
 
 Deletes the object.
 

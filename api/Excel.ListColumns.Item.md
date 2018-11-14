@@ -1,5 +1,5 @@
 ---
-title: ListColumns.Item Property (Excel)
+title: ListColumns.Item property (Excel)
 keywords: vbaxl10.chm736076
 f1_keywords:
 - vbaxl10.chm736076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumns.Item Property (Excel)
+# ListColumns.Item property (Excel)
 
 Returns a single object from a collection.
 

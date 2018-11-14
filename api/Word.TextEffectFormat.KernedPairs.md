@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (Word)
+title: TextEffectFormat.KernedPairs property (Word)
 keywords: vbawd10.chm164561001
 f1_keywords:
 - vbawd10.chm164561001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.KernedPairs Property (Word)
+# TextEffectFormat.KernedPairs property (Word)
 
 Indicates that character pairs in a WordArt object have been kerned. Read/write  **MsoTriState** .
 

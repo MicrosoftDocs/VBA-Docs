@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.VaryByCategories Property (Word)
+title: ChartGroup.VaryByCategories property (Word)
 keywords: vbawd10.chm263454752
 f1_keywords:
 - vbawd10.chm263454752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.VaryByCategories Property (Word)
+# ChartGroup.VaryByCategories property (Word)
 
  **True** if Microsoft Word assigns a different color or pattern to each data marker. Read/write **Boolean** .
 

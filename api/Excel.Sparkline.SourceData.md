@@ -1,5 +1,5 @@
 ---
-title: Sparkline.SourceData Property (Excel)
+title: Sparkline.SourceData property (Excel)
 keywords: vbaxl10.chm875074
 f1_keywords:
 - vbaxl10.chm875074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sparkline.SourceData Property (Excel)
+# Sparkline.SourceData property (Excel)
 
 Returns or sets the range the contains the source data for a single sparkline. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: WdOMathFracType Enumeration (Word)
+title: WdOMathFracType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathFracType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathFracType Enumeration (Word)
+# WdOMathFracType enumeration (Word)
 
 Specifies the type of fraction bar.
 

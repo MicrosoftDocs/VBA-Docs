@@ -23,7 +23,7 @@ _object_. **PictureTiling** [= _Boolean_ ]
 The  **PictureTiling** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether a picture is repeated across a background.|

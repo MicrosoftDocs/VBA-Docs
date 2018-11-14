@@ -1,5 +1,5 @@
 ---
-title: XlConsolidationFunction Enumeration (Excel)
+title: xlConsolidationFunction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConsolidationFunction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlConsolidationFunction Enumeration (Excel)
+# xlConsolidationFunction enumeration (Excel)
 
 Specifies the subtotal function.
 

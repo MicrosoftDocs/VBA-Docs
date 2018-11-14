@@ -1,5 +1,5 @@
 ---
-title: Validation.AlertStyle Property (Excel)
+title: Validation.AlertStyle property (Excel)
 keywords: vbaxl10.chm532074
 f1_keywords:
 - vbaxl10.chm532074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.AlertStyle Property (Excel)
+# Validation.AlertStyle property (Excel)
 
-Returns the validation alert style. Read-only  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** .
+Returns the validation alert style. Read-only  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** .
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: View.ShowFormatChanges Property (Word)
+title: View.ShowFormatChanges property (Word)
 keywords: vbawd10.chm161808421
 f1_keywords:
 - vbawd10.chm161808421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowFormatChanges Property (Word)
+# View.ShowFormatChanges property (Word)
 
  **True** for Microsoft Word to display formatting changes made to a document with Track Changes enabled. Read/write **Boolean** .
 

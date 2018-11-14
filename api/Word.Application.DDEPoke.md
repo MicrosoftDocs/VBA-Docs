@@ -1,5 +1,5 @@
 ---
-title: Application.DDEPoke Method (Word)
+title: Application.DDEPoke method (Word)
 keywords: vbawd10.chm158335288
 f1_keywords:
 - vbawd10.chm158335288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEPoke Method (Word)
+# Application.DDEPoke method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to send data to an application.
 

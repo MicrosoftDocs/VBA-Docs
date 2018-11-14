@@ -1,5 +1,5 @@
 ---
-title: ColorStop Object (Excel)
+title: ColorStop object (Excel)
 keywords: vbaxl10.chm850072
 f1_keywords:
 - vbaxl10.chm850072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop Object (Excel)
+# ColorStop object (Excel)
 
 Represents the color stop point for a gradient fill in a range or selection.
 

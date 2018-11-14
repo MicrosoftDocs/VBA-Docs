@@ -23,7 +23,7 @@ The required  _pathname_ [argument](../../Glossary/vbe-glossary.md#argument) is 
 
 The value returned by **GetAttr** is the sum of the following attribute values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbNormal**|0|Normal.|
 |**vbReadOnly**|1|Read-only.|

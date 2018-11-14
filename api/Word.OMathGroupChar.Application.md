@@ -1,5 +1,5 @@
 ---
-title: OMathGroupChar.Application Property (Word)
+title: OMathGroupChar.Application property (Word)
 keywords: vbawd10.chm213123172
 f1_keywords:
 - vbawd10.chm213123172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathGroupChar.Application Property (Word)
+# OMathGroupChar.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

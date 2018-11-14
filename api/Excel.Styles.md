@@ -1,5 +1,5 @@
 ﻿---
-title: Styles Object (Excel)
+title: Styles object (Excel)
 keywords: vbaxl10.chm178072
 f1_keywords:
 - vbaxl10.chm178072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles Object (Excel)
+# Styles object (Excel)
 
 A collection of all the  **[Style](Excel.Style.md)** objects in the specified or active workbook.
 

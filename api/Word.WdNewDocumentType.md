@@ -1,5 +1,5 @@
 ---
-title: WdNewDocumentType Enumeration (Word)
+title: WdNewDocumentType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNewDocumentType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNewDocumentType Enumeration (Word)
+# WdNewDocumentType enumeration (Word)
 
 Specifies the type of new document to create.
 
@@ -17,7 +17,7 @@ Specifies the type of new document to create.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdNewBlankDocument**|0|Blank document.|
-| **wdNewEmailMessage**|2|E-mail message.|
+| **wdNewEmailMessage**|2|Email message.|
 | **wdNewFrameset**|3|Frameset.|
 | **wdNewWebPage**|1|Web page.|
 | **wdNewXMLDocument**|4|XML document.|

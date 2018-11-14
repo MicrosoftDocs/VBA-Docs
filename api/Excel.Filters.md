@@ -1,5 +1,5 @@
 ---
-title: Filters Object (Excel)
+title: Filters object (Excel)
 keywords: vbaxl10.chm539072
 f1_keywords:
 - vbaxl10.chm539072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filters Object (Excel)
+# Filters object (Excel)
 
 A collection of  **[Filter](Excel.Filter.md)** objects that represents all the filters in an autofiltered range.
 

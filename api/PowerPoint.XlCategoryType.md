@@ -1,5 +1,5 @@
 ---
-title: XlCategoryType Enumeration (PowerPoint)
+title: xlCategoryType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlCategoryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCategoryType Enumeration (PowerPoint)
+# xlCategoryType Enumeration (PowerPoint)
 
 Specifies the type of the category axis.
 

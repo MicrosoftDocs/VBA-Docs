@@ -1,5 +1,5 @@
 ---
-title: Series Object (Excel)
+title: Series object (Excel)
 keywords: vbaxl10.chm577072
 f1_keywords:
 - vbaxl10.chm577072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series Object (Excel)
+# Series object (Excel)
 
 Represents a series in a chart.
 

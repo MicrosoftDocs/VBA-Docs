@@ -1,5 +1,5 @@
 ---
-title: Top10.Interior Property (Excel)
+title: Top10.Interior property (Excel)
 keywords: vbaxl10.chm822079
 f1_keywords:
 - vbaxl10.chm822079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Interior Property (Excel)
+# Top10.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a cell's interior attributes for a conditional formatting rule that evaluates to **True** . Read-only.
 

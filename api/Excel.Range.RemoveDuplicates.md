@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Columns_|Required| **Variant**|Array of indexes of the columns that contain the duplicate information. |
-| _Header_|Optional| **XlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
+| _Header_|Optional| **xlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 
 ## Example
 

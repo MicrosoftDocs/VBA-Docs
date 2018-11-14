@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.AutoAdjustRightIndent Property (Word)
+title: ParagraphFormat.AutoAdjustRightIndent property (Word)
 keywords: vbawd10.chm156434556
 f1_keywords:
 - vbawd10.chm156434556
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.AutoAdjustRightIndent Property (Word)
+# ParagraphFormat.AutoAdjustRightIndent property (Word)
 
  **True** if Microsoft Word is set to automatically adjust the right indent for the specified paragraphs if you've specified a set number of characters per line. Returns **wdUndefined** if the **AutoAdjustRightIndent** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Parent Property (Excel)
+title: Shape.Parent property (Excel)
 keywords: vbaxl10.chm636073
 f1_keywords:
 - vbaxl10.chm636073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Parent Property (Excel)
+# Shape.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

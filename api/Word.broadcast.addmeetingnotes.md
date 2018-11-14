@@ -1,5 +1,5 @@
 ---
-title: Broadcast.AddMeetingNotes Method (Word)
+title: Broadcast.AddMeetingNotes method (Word)
 keywords: vbawd10.chm36438121
 f1_keywords:
 - vbawd10.chm36438121
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.AddMeetingNotes Method (Word)
+# Broadcast.AddMeetingNotes method (Word)
 
 Adds shared meeting notes for the specified broadcast that are accessible to attendees who use either Microsoft OneNote 2013 rich client or web app.
 
@@ -25,7 +25,7 @@ Adds shared meeting notes for the specified broadcast that are accessible to att
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _notesUrl_|Required|STRING|Specifies the URL where the shared meeting notes are stored, for attendees using the Microsoft OneNote 2013 rich client.|

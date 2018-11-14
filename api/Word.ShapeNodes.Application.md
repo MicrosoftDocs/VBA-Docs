@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Application Property (Word)
+title: ShapeNodes.Application property (Word)
 keywords: vbawd10.chm164496360
 f1_keywords:
 - vbawd10.chm164496360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Application Property (Word)
+# ShapeNodes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

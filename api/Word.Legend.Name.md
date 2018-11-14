@@ -1,5 +1,5 @@
 ---
-title: Legend.Name Property (Word)
+title: Legend.Name property (Word)
 keywords: vbawd10.chm147193966
 f1_keywords:
 - vbawd10.chm147193966
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Name Property (Word)
+# Legend.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

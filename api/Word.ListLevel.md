@@ -1,5 +1,5 @@
 ---
-title: ListLevel Object (Word)
+title: ListLevel object (Word)
 keywords: vbawd10.chm2445
 f1_keywords:
 - vbawd10.chm2445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel Object (Word)
+# ListLevel object (Word)
 
 Represents a single list level, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list. The  **ListLevel** object is a member of the **ListLevels** collection.
 

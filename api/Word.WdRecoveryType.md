@@ -1,5 +1,5 @@
 ---
-title: WdRecoveryType Enumeration (Word)
+title: WdRecoveryType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRecoveryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRecoveryType Enumeration (Word)
+# WdRecoveryType enumeration (Word)
 
 Specifies the formatting to use when pasting the selected table cells.
 

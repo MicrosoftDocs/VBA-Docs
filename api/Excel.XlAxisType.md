@@ -1,18 +1,16 @@
 ---
-title: XlAxisType Enumeration (Excel)
+title: xlAxisType enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlAxisType
+- Excel.xlAxisType
 ms.assetid: 4c8654a8-2268-3c1d-ea24-6c79153a69ec
 ms.date: 06/08/2017
 ---
 
 
-# XlAxisType Enumeration (Excel)
+# xlAxisType enumeration (Excel)
 
 Specifies the axis type.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

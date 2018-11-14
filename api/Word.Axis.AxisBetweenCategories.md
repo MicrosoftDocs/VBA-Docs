@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisBetweenCategories Property (Word)
+title: Axis.AxisBetweenCategories property (Word)
 keywords: vbawd10.chm113049600
 f1_keywords:
 - vbawd10.chm113049600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisBetweenCategories Property (Word)
+# Axis.AxisBetweenCategories property (Word)
 
  **True** if the value axis crosses the category axis between categories. Read/write **Boolean** .
 

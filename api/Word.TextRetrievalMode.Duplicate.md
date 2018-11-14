@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.Duplicate Property (Word)
+title: TextRetrievalMode.Duplicate property (Word)
 keywords: vbawd10.chm154730497
 f1_keywords:
 - vbawd10.chm154730497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.Duplicate Property (Word)
+# TextRetrievalMode.Duplicate property (Word)
 
 Returns a read-only  **TextRetrievalMode** object that represents options related to retrieving text from a **Range** object.
 

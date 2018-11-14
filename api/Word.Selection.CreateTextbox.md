@@ -1,5 +1,5 @@
 ---
-title: Selection.CreateTextbox Method (Word)
+title: Selection.CreateTextbox method (Word)
 keywords: vbawd10.chm158663179
 f1_keywords:
 - vbawd10.chm158663179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.CreateTextbox Method (Word)
+# Selection.CreateTextbox method (Word)
 
 Adds a default-size text box around the selection.
 

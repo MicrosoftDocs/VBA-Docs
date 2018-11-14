@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Parent Property (Excel)
+title: ThreeDFormat.Parent property (Excel)
 keywords: vbaxl10.chm119001
 f1_keywords:
 - vbaxl10.chm119001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Parent Property (Excel)
+# ThreeDFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

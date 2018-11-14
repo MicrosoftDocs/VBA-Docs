@@ -1,5 +1,5 @@
 ---
-title: Application.InputBox Method (Excel)
+title: Application.InputBox method (Excel)
 keywords: vbaxl10.chm133149
 f1_keywords:
 - vbaxl10.chm133149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.InputBox Method (Excel)
+# Application.InputBox method (Excel)
 
 Displays a dialog box for user input. Returns the information entered in the dialog box.
 

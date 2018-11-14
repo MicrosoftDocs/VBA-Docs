@@ -1,5 +1,5 @@
 ---
-title: Points Object (Excel)
+title: Points object (Excel)
 keywords: vbaxl10.chm573072
 f1_keywords:
 - vbaxl10.chm573072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points Object (Excel)
+# Points object (Excel)
 
 A collection of all the  **[Point](Excel.Point(object).md)** objects in the specified series in a chart.
 

@@ -1,5 +1,5 @@
 ---
-title: WdOMathBreakSub Enumeration (Word)
+title: WdOMathBreakSub enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathBreakSub
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathBreakSub Enumeration (Word)
+# WdOMathBreakSub enumeration (Word)
 
 Specifies how Microsoft Word handles a subtraction operator that falls before a line break.
 

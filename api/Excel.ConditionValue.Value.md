@@ -1,5 +1,5 @@
 ---
-title: ConditionValue.Value Property (Excel)
+title: ConditionValue.Value property (Excel)
 keywords: vbaxl10.chm804075
 f1_keywords:
 - vbaxl10.chm804075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue.Value Property (Excel)
+# ConditionValue.Value property (Excel)
 
 Returns or sets the shortest bar or longest bar threshold value for a data bar conditional format. Read/write  **Variant** .
 

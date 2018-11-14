@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Add Method (Word)
+title: TablesOfFigures.Add method (Word)
 keywords: vbawd10.chm153223612
 f1_keywords:
 - vbawd10.chm153223612
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Add Method (Word)
+# TablesOfFigures.Add method (Word)
 
 Returns a  **TableOfFigures** object that represents a table of figures added to a document.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (Word)
+title: FillFormat object (Word)
 keywords: vbawd10.chm2504
 f1_keywords:
 - vbawd10.chm2504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat Object (Word)
+# FillFormat object (Word)
 
 Represents fill formatting for a shape. A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill.
 

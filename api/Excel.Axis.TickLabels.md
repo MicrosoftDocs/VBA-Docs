@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabels Property (Excel)
+title: Axis.TickLabels property (Excel)
 keywords: vbaxl10.chm561100
 f1_keywords:
 - vbaxl10.chm561100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabels Property (Excel)
+# Axis.TickLabels property (Excel)
 
 Returns a  **[TickLabels](Excel.TickLabels(object).md)** object that represents the tick-mark labels for the specified axis. Read-only.
 

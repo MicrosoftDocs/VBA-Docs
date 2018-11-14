@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.CommandText Property (Excel)
+title: ODBCConnection.CommandText property (Excel)
 keywords: vbaxl10.chm796075
 f1_keywords:
 - vbaxl10.chm796075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.CommandText Property (Excel)
+# ODBCConnection.CommandText property (Excel)
 
 Returns or sets the command string for the specified data source. Read/write  **Variant** .
 

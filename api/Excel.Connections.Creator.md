@@ -1,5 +1,5 @@
 ---
-title: Connections.Creator Property (Excel)
+title: Connections.Creator property (Excel)
 keywords: vbaxl10.chm775074
 f1_keywords:
 - vbaxl10.chm775074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.Creator Property (Excel)
+# Connections.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

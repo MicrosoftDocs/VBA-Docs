@@ -1,5 +1,5 @@
 ---
-title: Validation.Value Property (Excel)
+title: Validation.Value property (Excel)
 keywords: vbaxl10.chm532090
 f1_keywords:
 - vbaxl10.chm532090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Value Property (Excel)
+# Validation.Value property (Excel)
 
 Returns a  **Boolean** value that indicates if all the validation criteria are met (that is, if the range contains valid data).
 

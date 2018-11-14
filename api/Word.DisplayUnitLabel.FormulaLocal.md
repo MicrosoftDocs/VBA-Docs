@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.FormulaLocal Property (Word)
+title: DisplayUnitLabel.FormulaLocal property (Word)
 keywords: vbawd10.chm94568490
 f1_keywords:
 - vbawd10.chm94568490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.FormulaLocal Property (Word)
+# DisplayUnitLabel.FormulaLocal property (Word)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
 

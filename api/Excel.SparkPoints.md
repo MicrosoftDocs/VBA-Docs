@@ -1,5 +1,5 @@
 ---
-title: SparkPoints Object (Excel)
+title: SparkPoints object (Excel)
 keywords: vbaxl10.chm872072
 f1_keywords:
 - vbaxl10.chm872072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints Object (Excel)
+# SparkPoints object (Excel)
 
 Represents the settings of the markers for points of data on a sparkline.
 

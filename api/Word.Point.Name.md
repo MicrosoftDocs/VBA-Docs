@@ -1,5 +1,5 @@
 ---
-title: Point.Name Property (Word)
+title: Point.Name property (Word)
 keywords: vbawd10.chm262146651
 f1_keywords:
 - vbawd10.chm262146651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Name Property (Word)
+# Point.Name property (Word)
 
 Returns the object name. Read-only.
 

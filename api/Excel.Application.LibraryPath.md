@@ -1,5 +1,5 @@
 ---
-title: Application.LibraryPath Property (Excel)
+title: Application.LibraryPath property (Excel)
 keywords: vbaxl10.chm133155
 f1_keywords:
 - vbaxl10.chm133155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LibraryPath Property (Excel)
+# Application.LibraryPath property (Excel)
 
 Returns the path to the Library folder, but without the final separator. Read-only  **String** .
 

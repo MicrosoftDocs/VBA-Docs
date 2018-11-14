@@ -1,5 +1,5 @@
 ---
-title: Range.Rows Property (Word)
+title: Range.Rows property (Word)
 keywords: vbawd10.chm157155631
 f1_keywords:
 - vbawd10.chm157155631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Rows Property (Word)
+# Range.Rows property (Word)
 
 Returns a  **Rows** collection that represents all the table rows in a range. Read-only.
 

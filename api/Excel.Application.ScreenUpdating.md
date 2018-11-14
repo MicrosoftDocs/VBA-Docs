@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Excel)
+title: Application.ScreenUpdating property (Excel)
 keywords: vbaxl10.chm133205
 f1_keywords:
 - vbaxl10.chm133205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ScreenUpdating Property (Excel)
+# Application.ScreenUpdating property (Excel)
 
  **True** if screen updating is turned on. Read/write **Boolean** .
 

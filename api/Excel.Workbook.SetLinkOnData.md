@@ -1,5 +1,5 @@
 ---
-title: Workbook.SetLinkOnData Method (Excel)
+title: Workbook.SetLinkOnData method (Excel)
 keywords: vbaxl10.chm199151
 f1_keywords:
 - vbaxl10.chm199151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SetLinkOnData Method (Excel)
+# Workbook.SetLinkOnData method (Excel)
 
 Sets the name of a procedure that runs whenever a DDE link is updated.
 

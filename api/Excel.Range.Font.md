@@ -1,5 +1,5 @@
 ---
-title: Range.Font Property (Excel)
+title: Range.Font property (Excel)
 keywords: vbaxl10.chm144131
 f1_keywords:
 - vbaxl10.chm144131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Font Property (Excel)
+# Range.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

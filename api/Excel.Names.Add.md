@@ -1,5 +1,5 @@
 ---
-title: Names.Add Method (Excel)
+title: Names.Add method (Excel)
 keywords: vbaxl10.chm488073
 f1_keywords:
 - vbaxl10.chm488073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Names.Add Method (Excel)
+# Names.Add method (Excel)
 
 Defines a new name for a range of cells.
 

@@ -1,5 +1,5 @@
 ---
-title: StyleSheets.Application Property (Word)
+title: StyleSheets.Application property (Word)
 keywords: vbawd10.chm209585128
 f1_keywords:
 - vbawd10.chm209585128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheets.Application Property (Word)
+# StyleSheets.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

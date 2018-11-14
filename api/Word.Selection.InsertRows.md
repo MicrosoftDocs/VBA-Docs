@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertRows Method (Word)
+title: Selection.InsertRows method (Word)
 keywords: vbawd10.chm158663184
 f1_keywords:
 - vbawd10.chm158663184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertRows Method (Word)
+# Selection.InsertRows method (Word)
 
 Inserts the specified number of new rows above the row that contains the selection. If the selection isn't in a table, an error occurs.
 

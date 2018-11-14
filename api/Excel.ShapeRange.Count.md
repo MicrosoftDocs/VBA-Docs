@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Count Property (Excel)
+title: ShapeRange.Count property (Excel)
 keywords: vbaxl10.chm640073
 f1_keywords:
 - vbaxl10.chm640073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Count Property (Excel)
+# ShapeRange.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Creator Property (Excel)
+title: DefaultWebOptions.Creator property (Excel)
 keywords: vbaxl10.chm659074
 f1_keywords:
 - vbaxl10.chm659074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Creator Property (Excel)
+# DefaultWebOptions.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

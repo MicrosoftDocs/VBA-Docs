@@ -1,5 +1,5 @@
 ---
-title: Global.Repeat Method (Word)
+title: Global.Repeat method (Word)
 keywords: vbawd10.chm163119409
 f1_keywords:
 - vbawd10.chm163119409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Repeat Method (Word)
+# Global.Repeat method (Word)
 
 Repeats the most recent editing action one or more times. Returns  **True** if the commands were repeated successfully.
 

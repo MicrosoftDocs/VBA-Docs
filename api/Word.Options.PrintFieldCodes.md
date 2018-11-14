@@ -1,5 +1,5 @@
 ---
-title: Options.PrintFieldCodes Property (Word)
+title: Options.PrintFieldCodes property (Word)
 keywords: vbawd10.chm162988064
 f1_keywords:
 - vbawd10.chm162988064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintFieldCodes Property (Word)
+# Options.PrintFieldCodes property (Word)
 
  **True** if Microsoft Word prints field codes instead of field results. Read/write **Boolean** .
 

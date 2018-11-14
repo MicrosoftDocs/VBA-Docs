@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectedShape Property (Excel)
+title: ConnectorFormat.BeginConnectedShape property (Excel)
 keywords: vbaxl10.chm646078
 f1_keywords:
 - vbaxl10.chm646078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.BeginConnectedShape Property (Excel)
+# ConnectorFormat.BeginConnectedShape property (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents the shape that the beginning of the specified connector is attached to. Read-only.
 

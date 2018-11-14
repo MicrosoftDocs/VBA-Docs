@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Parent Property (Excel)
+title: PageSetup.Parent property (Excel)
 keywords: vbaxl10.chm472075
 f1_keywords:
 - vbaxl10.chm472075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Parent Property (Excel)
+# PageSetup.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

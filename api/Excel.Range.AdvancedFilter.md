@@ -1,5 +1,5 @@
 ---
-title: Range.AdvancedFilter Method (Excel)
+title: Range.AdvancedFilter method (Excel)
 keywords: vbaxl10.chm144078
 f1_keywords:
 - vbaxl10.chm144078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AdvancedFilter Method (Excel)
+# Range.AdvancedFilter method (Excel)
 
 Filters or copies data from a list based on a criteria range. If the initial selection is a single cell, that cell's current region is used.
 
@@ -29,7 +29,7 @@ Filters or copies data from a list based on a criteria range. If the initial sel
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Action_|Required| **[XlFilterAction](Excel.XlFilterAction.md)**|One of the constants of  **XlFilterAction** specifying whether to make a copy or filter the list in place.|
+| _Action_|Required| **[xlFilterAction](Excel.XlFilterAction.md)**|One of the constants of  **xlFilterAction** specifying whether to make a copy or filter the list in place.|
 | _CriteriaRange_|Optional| **Variant**|The criteria range. If this argument is omitted, there are no criteria.|
 | _CopyToRange_|Optional| **Variant**|The destination range for the copied rows if  _Action_ is **xlFilterCopy** . Otherwise, this argument is ignored.|
 | _Unique_|Optional| **Variant**| **True** to filter unique records only. **False** to filter all records that meet the criteria. The default value is **False** .|

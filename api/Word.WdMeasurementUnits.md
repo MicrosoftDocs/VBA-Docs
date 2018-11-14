@@ -1,5 +1,5 @@
 ---
-title: WdMeasurementUnits Enumeration (Word)
+title: WdMeasurementUnits enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMeasurementUnits
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMeasurementUnits Enumeration (Word)
+# WdMeasurementUnits enumeration (Word)
 
 Specifies a unit of measure to use.
 

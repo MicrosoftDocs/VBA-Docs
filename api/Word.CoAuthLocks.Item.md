@@ -1,5 +1,5 @@
 ---
-title: CoAuthLocks.Item Method (Word)
+title: CoAuthLocks.Item method (Word)
 keywords: vbawd10.chm180486144
 f1_keywords:
 - vbawd10.chm180486144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLocks.Item Method (Word)
+# CoAuthLocks.Item method (Word)
 
 Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collection.
 

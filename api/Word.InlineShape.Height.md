@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Height Property (Word)
+title: InlineShape.Height property (Word)
 keywords: vbawd10.chm162005000
 f1_keywords:
 - vbawd10.chm162005000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Height Property (Word)
+# InlineShape.Height property (Word)
 
 Returns or sets the height of an inline shape. Read/write  **Single** .
 

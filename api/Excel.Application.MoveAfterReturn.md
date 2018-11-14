@@ -1,5 +1,5 @@
 ---
-title: Application.MoveAfterReturn Property (Excel)
+title: Application.MoveAfterReturn property (Excel)
 keywords: vbaxl10.chm133168
 f1_keywords:
 - vbaxl10.chm133168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MoveAfterReturn Property (Excel)
+# Application.MoveAfterReturn property (Excel)
 
  **True** if the active cell will be moved as soon as the ENTER (RETURN) key is pressed. Read/write **Boolean** .
 

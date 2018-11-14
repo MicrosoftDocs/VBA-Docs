@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.Position Property (Word)
+title: CaptionLabel.Position property (Word)
 keywords: vbawd10.chm158924807
 f1_keywords:
 - vbawd10.chm158924807
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.Position Property (Word)
+# CaptionLabel.Position property (Word)
 
 Returns or sets the position of caption label text. Read/write  **WdCaptionPosition** .
 

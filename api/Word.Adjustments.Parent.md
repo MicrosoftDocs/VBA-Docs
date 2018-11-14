@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Parent Property (Word)
+title: Adjustments.Parent property (Word)
 keywords: vbawd10.chm163840001
 f1_keywords:
 - vbawd10.chm163840001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Parent Property (Word)
+# Adjustments.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified object. This is usually a **Shape** or **ShapeRange** object.
 

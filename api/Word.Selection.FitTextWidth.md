@@ -1,5 +1,5 @@
 ---
-title: Selection.FitTextWidth Property (Word)
+title: Selection.FitTextWidth property (Word)
 keywords: vbawd10.chm158663664
 f1_keywords:
 - vbawd10.chm158663664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.FitTextWidth Property (Word)
+# Selection.FitTextWidth property (Word)
 
 Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection. Read/write  **Single** .
 

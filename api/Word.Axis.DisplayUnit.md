@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnit Property (Word)
+title: Axis.DisplayUnit property (Word)
 keywords: vbawd10.chm113049671
 f1_keywords:
 - vbawd10.chm113049671
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnit Property (Word)
+# Axis.DisplayUnit property (Word)
 
-Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](Word.xldisplayunit.md)** , **xlCustom** , or **xlNone** .
+Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit](Word.xldisplayunit.md)** , **xlCustom** , or **xlNone** .
 
 
 ## Syntax

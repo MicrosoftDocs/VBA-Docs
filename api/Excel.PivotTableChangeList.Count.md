@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList.Count Property (Excel)
+title: PivotTableChangeList.Count property (Excel)
 keywords: vbaxl10.chm891076
 f1_keywords:
 - vbaxl10.chm891076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTableChangeList.Count Property (Excel)
+# PivotTableChangeList.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

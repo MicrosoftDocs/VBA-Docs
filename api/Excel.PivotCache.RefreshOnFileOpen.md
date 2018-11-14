@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RefreshOnFileOpen Property (Excel)
+title: PivotCache.RefreshOnFileOpen property (Excel)
 keywords: vbaxl10.chm227083
 f1_keywords:
 - vbaxl10.chm227083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RefreshOnFileOpen Property (Excel)
+# PivotCache.RefreshOnFileOpen property (Excel)
 
  **True** if the PivotTable cache is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
 

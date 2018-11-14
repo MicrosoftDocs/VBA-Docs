@@ -1,5 +1,5 @@
 ---
-title: Range.Table Method (Excel)
+title: Range.Table method (Excel)
 keywords: vbaxl10.chm144208
 f1_keywords:
 - vbaxl10.chm144208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Table Method (Excel)
+# Range.Table method (Excel)
 
 Creates a data table based on input values and formulas that you define on a worksheet.
 

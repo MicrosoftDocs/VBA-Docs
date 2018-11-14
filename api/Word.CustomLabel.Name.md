@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Name Property (Word)
+title: CustomLabel.Name property (Word)
 keywords: vbawd10.chm152371202
 f1_keywords:
 - vbawd10.chm152371202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Name Property (Word)
+# CustomLabel.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **CustomLabel** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.Select Method (Word)
+title: Axis.Select method (Word)
 keywords: vbawd10.chm113049647
 f1_keywords:
 - vbawd10.chm113049647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Select Method (Word)
+# Axis.Select method (Word)
 
 Selects the object.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelFormatBoolean.Parent Property (Excel)
+title: ModelFormatBoolean.Parent property (Excel)
 keywords: vbaxl10.chm995075
 f1_keywords:
 - vbaxl10.chm995075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatBoolean.Parent Property (Excel)
+# ModelFormatBoolean.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

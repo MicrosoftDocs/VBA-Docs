@@ -1,5 +1,5 @@
 ---
-title: IRTDUpdateEvent.HeartbeatInterval Property (Excel)
+title: IRTDUpdateEvent.HeartbeatInterval property (Excel)
 keywords: vbaxl10.chm500002
 f1_keywords:
 - vbaxl10.chm500002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRTDUpdateEvent.HeartbeatInterval Property (Excel)
+# IRTDUpdateEvent.HeartbeatInterval property (Excel)
 
 Returns or sets a  **Long** for the interval between updates for real-time data. Read/write.
 

@@ -15,7 +15,7 @@ Values related to the IDs of Microsoft Visio masters and pages.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visInvalMasterID**|-1|An ID no master will ever have.|
 | **visInvalPageID**|-1|An ID no master will ever have.|

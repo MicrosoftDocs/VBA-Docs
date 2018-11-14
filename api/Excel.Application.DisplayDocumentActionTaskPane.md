@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayDocumentActionTaskPane Property (Excel)
+title: Application.DisplayDocumentActionTaskPane property (Excel)
 keywords: vbaxl10.chm133293
 f1_keywords:
 - vbaxl10.chm133293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayDocumentActionTaskPane Property (Excel)
+# Application.DisplayDocumentActionTaskPane property (Excel)
 
 Set to  **True** to display the **Document Actions** task pane; set to **False** to hide the **Document Actions** task pane. Read/write **Boolean** .
 

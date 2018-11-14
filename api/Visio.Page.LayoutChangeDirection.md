@@ -42,7 +42,7 @@ The  _Direction_ parameter must be one of the following **VisLayoutDirection** c
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutDirRotateRight**|0|Rotates the diagram 90 degrees clockwise.|
 | **visLayoutDirRotateLeft**|1|Rotates the diagram 90 degrees counterclockwise.|

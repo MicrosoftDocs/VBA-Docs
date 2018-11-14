@@ -1,5 +1,5 @@
 ---
-title: PivotField.DragToHide Property (Excel)
+title: PivotField.DragToHide property (Excel)
 keywords: vbaxl10.chm240103
 f1_keywords:
 - vbaxl10.chm240103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DragToHide Property (Excel)
+# PivotField.DragToHide property (Excel)
 
  **True** if the field can be hidden by being dragged off the PivotTable report. The default value is **True** . Read/write **Boolean** .
 

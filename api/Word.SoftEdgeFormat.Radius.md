@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Radius Property (Word)
+title: SoftEdgeFormat.Radius property (Word)
 keywords: vbawd10.chm184090626
 f1_keywords:
 - vbawd10.chm184090626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Radius Property (Word)
+# SoftEdgeFormat.Radius property (Word)
 
 Returns or sets a  **Single** that represents the length of the radius for a soft edge effect. Read/write.
 

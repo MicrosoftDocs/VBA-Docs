@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Position Property (Excel)
+title: PlotArea.Position property (Excel)
 keywords: vbaxl10.chm618092
 f1_keywords:
 - vbaxl10.chm618092
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Position Property (Excel)
+# PlotArea.Position property (Excel)
 
-Returns or sets the position of the plot area on the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)** .
+Returns or sets the position of the plot area on the chart. Read/write  **[xlChartElementPosition](Excel.XlChartElementPosition.md)** .
 
 
 ## Syntax

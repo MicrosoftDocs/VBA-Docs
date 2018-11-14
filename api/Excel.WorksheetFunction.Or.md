@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Or Method (Excel)
+title: WorksheetFunction.Or method (Excel)
 keywords: vbaxl10.chm137093
 f1_keywords:
 - vbaxl10.chm137093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Or Method (Excel)
+# WorksheetFunction.Or method (Excel)
 
 Returns TRUE if any argument is TRUE; returns FALSE if all arguments are FALSE.
 

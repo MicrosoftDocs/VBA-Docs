@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Median Method (Excel)
+title: WorksheetFunction.Median method (Excel)
 keywords: vbaxl10.chm137162
 f1_keywords:
 - vbaxl10.chm137162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Median Method (Excel)
+# WorksheetFunction.Median method (Excel)
 
 Returns the median of the given numbers. The median is the number in the middle of a set of numbers.
 

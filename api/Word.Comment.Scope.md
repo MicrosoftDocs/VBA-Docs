@@ -1,5 +1,5 @@
 ---
-title: Comment.Scope Property (Word)
+title: Comment.Scope property (Word)
 keywords: vbawd10.chm154993645
 f1_keywords:
 - vbawd10.chm154993645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Scope Property (Word)
+# Comment.Scope property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the range of text marked by the specified comment.
 

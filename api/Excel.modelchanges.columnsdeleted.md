@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.ColumnsDeleted Property (Excel)
+title: ModelChanges.ColumnsDeleted property (Excel)
 keywords: vbaxl10.chm960079
 f1_keywords:
 - vbaxl10.chm960079
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.ColumnsDeleted Property (Excel)
+# ModelChanges.ColumnsDeleted property (Excel)
 
-Returns a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects which represent all columns which were deleted as part of a model operation. Read-only.
+Returns a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName object (Excel)](Excel.modelcolumnname.md) objects which represent all columns which were deleted as part of a model operation. Read-only.
 
 
 ## Syntax

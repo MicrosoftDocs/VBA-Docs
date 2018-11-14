@@ -20,7 +20,7 @@ The  **VisToParts** return codes indicate the part of a shape to which a connect
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectionPoint**|100 + row index of connection point|Connect to specified connection point on target shape.|
 | **visConnectToError**|-1|Error connecting to shape.|

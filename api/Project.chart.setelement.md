@@ -20,7 +20,7 @@ Adds the specified element to a chart or to a selected object on a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RHS_|Required|**MsoChartElementType**|One of the enumeration constants for the chart element type to add.|
 

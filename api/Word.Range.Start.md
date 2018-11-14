@@ -1,5 +1,5 @@
 ---
-title: Range.Start Property (Word)
+title: Range.Start property (Word)
 keywords: vbawd10.chm157155331
 f1_keywords:
 - vbawd10.chm157155331
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Start Property (Word)
+# Range.Start property (Word)
 
 Returns or sets the starting character position of a range. Read/write  **Long** .
 

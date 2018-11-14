@@ -1,5 +1,5 @@
 ---
-title: Charts.Copy Method (Excel)
+title: Charts.Copy method (Excel)
 keywords: vbaxl10.chm217073
 f1_keywords:
 - vbaxl10.chm217073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.Copy Method (Excel)
+# Charts.Copy method (Excel)
 
 Copies the sheet to another location in the workbook.
 

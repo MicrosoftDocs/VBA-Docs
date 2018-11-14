@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Application Property (Word)
+title: OLEFormat.Application property (Word)
 keywords: vbawd10.chm154338280
 f1_keywords:
 - vbawd10.chm154338280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Application Property (Word)
+# OLEFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

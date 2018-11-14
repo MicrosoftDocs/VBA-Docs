@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Text Property (Word)
+title: DisplayUnitLabel.Text property (Word)
 keywords: vbawd10.chm94568460
 f1_keywords:
 - vbawd10.chm94568460
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Text Property (Word)
+# DisplayUnitLabel.Text property (Word)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

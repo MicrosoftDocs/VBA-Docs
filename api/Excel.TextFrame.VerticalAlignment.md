@@ -1,5 +1,5 @@
 ---
-title: TextFrame.VerticalAlignment Property (Excel)
+title: TextFrame.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm644080
 f1_keywords:
 - vbaxl10.chm644080
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.VerticalAlignment Property (Excel)
+# TextFrame.VerticalAlignment property (Excel)
 
-Returns or sets a  **[XlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
+Returns or sets a  **[xlVAlign](Excel.XlVAlign.md)** value that represents the vertical alignment of the specified object.
 
 
 ## Syntax

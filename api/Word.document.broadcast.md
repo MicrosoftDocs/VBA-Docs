@@ -1,5 +1,5 @@
 ---
-title: Document.Broadcast Property (Word)
+title: Document.Broadcast property (Word)
 keywords: vbawd10.chm158007906
 f1_keywords:
 - vbawd10.chm158007906
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Broadcast Property (Word)
+# Document.Broadcast property (Word)
 
 Returns a [Broadcast](Word.broadcast.md) object that represents a broadcast session, in which presenters can present Word documents to remote participants over the web without the participants needing to have rich clients installed.
 

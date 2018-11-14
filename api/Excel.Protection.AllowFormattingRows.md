@@ -1,5 +1,5 @@
 ---
-title: Protection.AllowFormattingRows Property (Excel)
+title: Protection.AllowFormattingRows property (Excel)
 keywords: vbaxl10.chm719075
 f1_keywords:
 - vbaxl10.chm719075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Protection.AllowFormattingRows Property (Excel)
+# Protection.AllowFormattingRows property (Excel)
 
 Returns  **True** if the formatting of rows is allowed on a protected worksheet. Read-only **Boolean** .
 

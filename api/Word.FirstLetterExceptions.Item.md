@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Item Method (Word)
+title: FirstLetterExceptions.Item method (Word)
 keywords: vbawd10.chm155582464
 f1_keywords:
 - vbawd10.chm155582464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions.Item Method (Word)
+# FirstLetterExceptions.Item method (Word)
 
 Returns an individual  **FirstLetterException** object in a collection.
 

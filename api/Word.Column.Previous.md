@@ -1,5 +1,5 @@
 ---
-title: Column.Previous Property (Word)
+title: Column.Previous property (Word)
 keywords: vbawd10.chm156172392
 f1_keywords:
 - vbawd10.chm156172392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Previous Property (Word)
+# Column.Previous property (Word)
 
 Returns the previous column in a collection of table columns. Read-only.
 

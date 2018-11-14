@@ -1,5 +1,5 @@
 ---
-title: InlineShape.GroupItems Property (Word)
+title: InlineShape.GroupItems property (Word)
 keywords: vbawd10.chm162005125
 f1_keywords:
 - vbawd10.chm162005125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.GroupItems Property (Word)
+# InlineShape.GroupItems property (Word)
 
 Returns a  **[GroupShapes](Word.groupshapes.md)** collection that represents the shapes that are grouped together for an inline shape. Read-only.
 

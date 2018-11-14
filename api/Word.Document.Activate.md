@@ -1,5 +1,5 @@
 ---
-title: Document.Activate Method (Word)
+title: Document.Activate method (Word)
 keywords: vbawd10.chm158007409
 f1_keywords:
 - vbawd10.chm158007409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Activate Method (Word)
+# Document.Activate method (Word)
 
 Activates the specified document so that it becomes the active document.
 

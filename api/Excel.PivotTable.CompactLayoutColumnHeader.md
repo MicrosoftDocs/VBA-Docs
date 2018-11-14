@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CompactLayoutColumnHeader Property (Excel)
+title: PivotTable.CompactLayoutColumnHeader property (Excel)
 keywords: vbaxl10.chm235180
 f1_keywords:
 - vbaxl10.chm235180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CompactLayoutColumnHeader Property (Excel)
+# PivotTable.CompactLayoutColumnHeader property (Excel)
 
 Specifies the caption that is displayed in the column header of a PivotTable when in compact row layout form. Read/write  **String** .
 

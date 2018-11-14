@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayFormulaAutoComplete Property (Excel)
+title: Application.DisplayFormulaAutoComplete property (Excel)
 keywords: vbaxl10.chm133307
 f1_keywords:
 - vbaxl10.chm133307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayFormulaAutoComplete Property (Excel)
+# Application.DisplayFormulaAutoComplete property (Excel)
 
 Gets or sets whether to show a list of relevant functions and defined names when building cell formulas. Read/write  **Boolean** .
 

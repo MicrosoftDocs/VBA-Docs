@@ -1,5 +1,5 @@
 ---
-title: Range.AllowEdit Property (Excel)
+title: Range.AllowEdit property (Excel)
 keywords: vbaxl10.chm144239
 f1_keywords:
 - vbaxl10.chm144239
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AllowEdit Property (Excel)
+# Range.AllowEdit property (Excel)
 
 Returns a  **Boolean** value that indicates if the range can be edited on a protected worksheet.
 

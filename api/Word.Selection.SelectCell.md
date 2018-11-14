@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCell Method (Word)
+title: Selection.SelectCell method (Word)
 keywords: vbawd10.chm158663192
 f1_keywords:
 - vbawd10.chm158663192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCell Method (Word)
+# Selection.SelectCell method (Word)
 
 Selects the entire cell containing the current selection.
 

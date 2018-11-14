@@ -1,5 +1,5 @@
 ---
-title: Global.ActiveDocument Property (Word)
+title: Global.ActiveDocument property (Word)
 keywords: vbawd10.chm163119107
 f1_keywords:
 - vbawd10.chm163119107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ActiveDocument Property (Word)
+# Global.ActiveDocument property (Word)
 
 Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). Read-only.
 

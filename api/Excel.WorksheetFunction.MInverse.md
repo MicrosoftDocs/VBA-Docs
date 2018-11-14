@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MInverse Method (Excel)
+title: WorksheetFunction.MInverse method (Excel)
 keywords: vbaxl10.chm137138
 f1_keywords:
 - vbaxl10.chm137138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MInverse Method (Excel)
+# WorksheetFunction.MInverse method (Excel)
 
 Returns the inverse matrix for the matrix stored in an array.
 

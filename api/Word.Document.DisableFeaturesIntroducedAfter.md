@@ -1,5 +1,5 @@
 ---
-title: Document.DisableFeaturesIntroducedAfter Property (Word)
+title: Document.DisableFeaturesIntroducedAfter property (Word)
 keywords: vbawd10.chm158007639
 f1_keywords:
 - vbawd10.chm158007639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DisableFeaturesIntroducedAfter Property (Word)
+# Document.DisableFeaturesIntroducedAfter property (Word)
 
 Disables all features introduced after a specified version of Microsoft Word in the document only. Read/write  **WdDisableFeaturesIntroducedAfter** .
 

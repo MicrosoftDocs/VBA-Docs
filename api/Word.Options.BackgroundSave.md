@@ -1,5 +1,5 @@
 ---
-title: Options.BackgroundSave Property (Word)
+title: Options.BackgroundSave property (Word)
 keywords: vbawd10.chm162988078
 f1_keywords:
 - vbawd10.chm162988078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.BackgroundSave Property (Word)
+# Options.BackgroundSave property (Word)
 
  **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean** .
 

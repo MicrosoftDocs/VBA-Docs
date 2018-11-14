@@ -1,5 +1,5 @@
 ---
-title: Selection.GoToEditableRange Method (Word)
+title: Selection.GoToEditableRange method (Word)
 keywords: vbawd10.chm158663683
 f1_keywords:
 - vbawd10.chm158663683
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.GoToEditableRange Method (Word)
+# Selection.GoToEditableRange method (Word)
 
 Returns a  **Range** object that represents an area of a document that can be modified by the specified user or group of users.
 
@@ -29,7 +29,7 @@ Returns a  **Range** object that represents an area of a document that can be mo
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users. If omitted, selects all ranges for which all users have permissions to edit.|
+| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users. If omitted, selects all ranges for which all users have permissions to edit.|
 
 ## Return value
 

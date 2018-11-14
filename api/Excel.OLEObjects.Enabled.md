@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Enabled Property (Excel)
+title: OLEObjects.Enabled property (Excel)
 keywords: vbaxl10.chm419080
 f1_keywords:
 - vbaxl10.chm419080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Enabled Property (Excel)
+# OLEObjects.Enabled property (Excel)
 
  **True** if the object is enabled. Read/write **Boolean** .
 

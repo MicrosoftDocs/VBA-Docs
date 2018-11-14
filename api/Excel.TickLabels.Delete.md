@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Delete Method (Excel)
+title: TickLabels.Delete method (Excel)
 keywords: vbaxl10.chm616074
 f1_keywords:
 - vbaxl10.chm616074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Delete Method (Excel)
+# TickLabels.Delete method (Excel)
 
 Deletes the object.
 

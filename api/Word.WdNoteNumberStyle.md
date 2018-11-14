@@ -1,5 +1,5 @@
 ---
-title: WdNoteNumberStyle Enumeration (Word)
+title: WdNoteNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNoteNumberStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNoteNumberStyle Enumeration (Word)
+# WdNoteNumberStyle enumeration (Word)
 
 Specifies the number style to apply to endnotes, endnote options, footnotes, or footnote options.
 

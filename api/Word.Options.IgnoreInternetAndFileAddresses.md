@@ -1,5 +1,5 @@
 ---
-title: Options.IgnoreInternetAndFileAddresses Property (Word)
+title: Options.IgnoreInternetAndFileAddresses property (Word)
 keywords: vbawd10.chm162988310
 f1_keywords:
 - vbawd10.chm162988310
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.IgnoreInternetAndFileAddresses Property (Word)
+# Options.IgnoreInternetAndFileAddresses property (Word)
 
- **True** if file name extensions, MS-DOS paths, e-mail addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are ignored while checking spelling. Read/write **Boolean** .
+ **True** if file name extensions, MS-DOS paths, email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are ignored while checking spelling. Read/write **Boolean** .
 
 
 ## Syntax

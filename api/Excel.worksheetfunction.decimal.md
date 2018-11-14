@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Decimal Method (Excel)
+title: WorksheetFunction.Decimal method (Excel)
 keywords: vbaxl10.chm137445
 f1_keywords:
 - vbaxl10.chm137445
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Decimal Method (Excel)
+# WorksheetFunction.Decimal method (Excel)
 
 Converts a text representation of a number in a given base into a decimal number.
 
@@ -18,14 +18,14 @@ Converts a text representation of a number in a given base into a decimal number
 
  _expression_. `Decimal`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|The number that you want to convert.|
 | _Arg2_|Required|DOUBLE|The base Radix of the number you are converting.|

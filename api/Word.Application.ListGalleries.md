@@ -1,5 +1,5 @@
 ---
-title: Application.ListGalleries Property (Word)
+title: Application.ListGalleries property (Word)
 keywords: vbawd10.chm158335041
 f1_keywords:
 - vbawd10.chm158335041
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ListGalleries Property (Word)
+# Application.ListGalleries property (Word)
 
 Returns a  **[ListGalleries](Word.listgalleries.md)** collection that represents the three list template galleries. .
 

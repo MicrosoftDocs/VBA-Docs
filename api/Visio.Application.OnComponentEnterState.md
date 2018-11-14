@@ -49,7 +49,7 @@ Following are constants and values for  _uStateID_, which are declared by the Vi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visComponentStateModal**|1|The state being identified is a modal state.|
 | **visModalDeferEvents**|&H10000|Causes Visio to attempt to defer firing events while modal. By default, Visio defers firing events when displaying its own dialog boxes, but does not defer firing events when client code has caused a dialog box to appear.In the case of several nested modal scopes, if any scope is deferring events, all scopes within the outermost scope that is deferring events will defer events.This flag only has an effect when Visio is entering a modal scope. When exiting a modal scope, Visio behaves as it did when entering the scope.|

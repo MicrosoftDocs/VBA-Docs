@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Execute Method (Word)
+title: KeyBinding.Execute method (Word)
 keywords: vbawd10.chm160956519
 f1_keywords:
 - vbawd10.chm160956519
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Execute Method (Word)
+# KeyBinding.Execute method (Word)
 
 Runs the command associated with the specified key combination.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Mat Property (Word)
+title: OMathFunction.Mat property (Word)
 keywords: vbawd10.chm22151284
 f1_keywords:
 - vbawd10.chm22151284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Mat Property (Word)
+# OMathFunction.Mat property (Word)
 
 Returns an  **[OMathMat](Word.OMathMat.md)** object that represents a mathematical matrix. Read-only.
 

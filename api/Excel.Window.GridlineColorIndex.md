@@ -1,5 +1,5 @@
 ---
-title: Window.GridlineColorIndex Property (Excel)
+title: Window.GridlineColorIndex property (Excel)
 keywords: vbaxl10.chm356094
 f1_keywords:
 - vbaxl10.chm356094
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.GridlineColorIndex Property (Excel)
+# Window.GridlineColorIndex property (Excel)
 
-Returns or sets the gridline color as an index into the current color palette or as the following  **[XlColorIndex](Excel.XlColorIndex.md)** constant.
+Returns or sets the gridline color as an index into the current color palette or as the following  **[xlColorIndex](Excel.XlColorIndex.md)** constant.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the gridline color as an index into the current color palette or
 
 
 
-| **XlColorIndex** can be the following **XlColorIndex** constant.|
+| **xlColorIndex** can be the following **xlColorIndex** constant.|
 | **xlColorIndexAutomatic**|
 
 Set this property to  **xlColorIndexAutomatic** to specify the automatic color.

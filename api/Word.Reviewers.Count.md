@@ -1,5 +1,5 @@
 ---
-title: Reviewers.Count Property (Word)
+title: Reviewers.Count property (Word)
 keywords: vbawd10.chm211419138
 f1_keywords:
 - vbawd10.chm211419138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewers.Count Property (Word)
+# Reviewers.Count property (Word)
 
 Returns a  **Long** that represents the number of reviewers in the collection. Read-only.
 

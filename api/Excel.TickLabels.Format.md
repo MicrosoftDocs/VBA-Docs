@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Format Property (Excel)
+title: TickLabels.Format property (Excel)
 keywords: vbaxl10.chm616088
 f1_keywords:
 - vbaxl10.chm616088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Format Property (Excel)
+# TickLabels.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

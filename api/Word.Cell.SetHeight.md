@@ -1,5 +1,5 @@
 ---
-title: Cell.SetHeight Method (Word)
+title: Cell.SetHeight method (Word)
 keywords: vbawd10.chm156106955
 f1_keywords:
 - vbawd10.chm156106955
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.SetHeight Method (Word)
+# Cell.SetHeight method (Word)
 
 Sets the height of table cells.
 

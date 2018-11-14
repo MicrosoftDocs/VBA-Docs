@@ -1,5 +1,5 @@
 ---
-title: Workbook.PrintPreview Method (Excel)
+title: Workbook.PrintPreview method (Excel)
 keywords: vbaxl10.chm199128
 f1_keywords:
 - vbaxl10.chm199128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PrintPreview Method (Excel)
+# Workbook.PrintPreview method (Excel)
 
 Shows a preview of the object as it would look when printed.
 

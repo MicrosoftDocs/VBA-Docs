@@ -1,5 +1,5 @@
 ---
-title: SortField.SortOnValue Property (Excel)
+title: SortField.SortOnValue property (Excel)
 keywords: vbaxl10.chm843074
 f1_keywords:
 - vbaxl10.chm843074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.SortOnValue Property (Excel)
+# SortField.SortOnValue property (Excel)
 
 Retun the value on which the sort is performed for the specified  **SortField** object. Read-only.
 

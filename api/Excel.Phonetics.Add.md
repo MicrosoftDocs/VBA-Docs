@@ -1,5 +1,5 @@
 ---
-title: Phonetics.Add Method (Excel)
+title: Phonetics.Add method (Excel)
 keywords: vbaxl10.chm658082
 f1_keywords:
 - vbaxl10.chm658082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetics.Add Method (Excel)
+# Phonetics.Add method (Excel)
 
 Adds phonetic text to the specified cell.
 

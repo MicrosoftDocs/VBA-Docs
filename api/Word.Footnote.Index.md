@@ -1,5 +1,5 @@
 ---
-title: Footnote.Index Property (Word)
+title: Footnote.Index property (Word)
 keywords: vbawd10.chm155123718
 f1_keywords:
 - vbawd10.chm155123718
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote.Index Property (Word)
+# Footnote.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

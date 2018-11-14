@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors.Item Method (Word)
+title: ProofreadingErrors.Item method (Word)
 keywords: vbawd10.chm163250176
 f1_keywords:
 - vbawd10.chm163250176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProofreadingErrors.Item Method (Word)
+# ProofreadingErrors.Item method (Word)
 
 Returns an individual  **Range** object in a collection.
 

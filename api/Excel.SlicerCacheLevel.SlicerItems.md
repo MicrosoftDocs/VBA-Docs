@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.SlicerItems Property (Excel)
+title: SlicerCacheLevel.SlicerItems property (Excel)
 keywords: vbaxl10.chm901073
 f1_keywords:
 - vbaxl10.chm901073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.SlicerItems Property (Excel)
+# SlicerCacheLevel.SlicerItems property (Excel)
 
 Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the collection of all slicer items for the specified level. Read-only
 

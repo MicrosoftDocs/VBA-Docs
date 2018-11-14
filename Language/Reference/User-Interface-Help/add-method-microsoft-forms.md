@@ -22,7 +22,7 @@ For other controls **Set**_Control_ = _object_. **Add(**_ProgID_ [, _Name_ [, _V
 The  **Add** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _Name_|Optional. Specifies the name of the object being added. If a name is not specified, the system generates a default name based on the rules of the application where the form is used.|

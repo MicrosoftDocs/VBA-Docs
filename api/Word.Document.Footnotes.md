@@ -1,5 +1,5 @@
 ---
-title: Document.Footnotes Property (Word)
+title: Document.Footnotes property (Word)
 keywords: vbawd10.chm158007303
 f1_keywords:
 - vbawd10.chm158007303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Footnotes Property (Word)
+# Document.Footnotes property (Word)
 
 Returns a  **[Footnotes](Word.footnotes.md)** collection that represents all the footnotes in a document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.Name Property (Word)
+title: AutoCaption.Name property (Word)
 keywords: vbawd10.chm159055872
 f1_keywords:
 - vbawd10.chm159055872
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaption.Name Property (Word)
+# AutoCaption.Name property (Word)
 
 Returns or sets the name of the specified object. Read-only  **String** .
 

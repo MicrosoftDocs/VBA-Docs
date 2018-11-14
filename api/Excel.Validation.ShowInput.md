@@ -1,5 +1,5 @@
 ---
-title: Validation.ShowInput Property (Excel)
+title: Validation.ShowInput property (Excel)
 keywords: vbaxl10.chm532088
 f1_keywords:
 - vbaxl10.chm532088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.ShowInput Property (Excel)
+# Validation.ShowInput property (Excel)
 
  **True** if the data validation input message will be displayed whenever the user selects a cell in the data validation range. Read/write **Boolean** .
 

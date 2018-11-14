@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.ActiveCustomDictionary Property (Word)
+title: Dictionaries.ActiveCustomDictionary property (Word)
 keywords: vbawd10.chm162267139
 f1_keywords:
 - vbawd10.chm162267139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.ActiveCustomDictionary Property (Word)
+# Dictionaries.ActiveCustomDictionary property (Word)
 
 Returns or sets a  **[Dictionary](Word.Dictionary.md)** object that represents the custom dictionary to which words will be added. Read/write.
 

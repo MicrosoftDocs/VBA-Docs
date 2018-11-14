@@ -1,5 +1,5 @@
 ---
-title: OLEDBError.Number Property (Excel)
+title: OLEDBError.Number property (Excel)
 keywords: vbaxl10.chm654076
 f1_keywords:
 - vbaxl10.chm654076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBError.Number Property (Excel)
+# OLEDBError.Number property (Excel)
 
 Returns a numeric value that specifies an error. The error number corresponds to a unique trap number corresponding to an error condition that resulted after the most recent OLE DB query. Read-only  **Long** .
 

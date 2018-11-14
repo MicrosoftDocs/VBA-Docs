@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderJobTitle Property (Word)
+title: LetterContent.SenderJobTitle property (Word)
 keywords: vbawd10.chm161546363
 f1_keywords:
 - vbawd10.chm161546363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderJobTitle Property (Word)
+# LetterContent.SenderJobTitle property (Word)
 
 Returns or sets the job title of the person creating a letter with the Letter Wizard. Read/write  **String** .
 

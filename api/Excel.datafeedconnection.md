@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection Object (Excel)
+title: DataFeedConnection object (Excel)
 keywords: vbaxl10.chm927072
 f1_keywords:
 - vbaxl10.chm927072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection Object (Excel)
+# DataFeedConnection object (Excel)
 
 Contains the data and functionality needed to connect to data feeds. The same object is used for all Data Feed types.
 

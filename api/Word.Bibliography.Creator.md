@@ -1,5 +1,5 @@
 ---
-title: Bibliography.Creator Property (Word)
+title: Bibliography.Creator property (Word)
 keywords: vbawd10.chm101646437
 f1_keywords:
 - vbawd10.chm101646437
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.Creator Property (Word)
+# Bibliography.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

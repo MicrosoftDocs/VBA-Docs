@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserTextured Method (Word)
+title: FillFormat.UserTextured method (Word)
 keywords: vbawd10.chm164102162
 f1_keywords:
 - vbawd10.chm164102162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.UserTextured Method (Word)
+# FillFormat.UserTextured method (Word)
 
 Fills the specified shape with small tiles of an image.
 

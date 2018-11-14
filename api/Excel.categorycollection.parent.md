@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Parent Property (Excel)
+title: CategoryCollection.Parent property (Excel)
 keywords: vbaxl10.chm948073
 f1_keywords:
 - vbaxl10.chm948073
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection.Parent Property (Excel)
+# CategoryCollection.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[CategoryCollection Object (Excel)](Excel.categorycollection.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[CategoryCollection object (Excel)](Excel.categorycollection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [CategoryCollection Object (Excel)](Excel.categorycollection.md) object.
+ _expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
 
 
 ## Remarks

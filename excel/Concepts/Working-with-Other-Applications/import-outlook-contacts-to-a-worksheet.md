@@ -48,7 +48,7 @@ Sub Import_Contacts()
         .Cells(1, 3).Value = "Postal Code"
         .Cells(1, 4).Value = "City"
         .Cells(1, 5).Value = "Contact Person"
-        .Cells(1, 6).Value = "E-mail"
+        .Cells(1, 6).Value = "Email"
         With .Range("A1:F1")
             .Font.Bold = True
             .Font.ColorIndex = 10

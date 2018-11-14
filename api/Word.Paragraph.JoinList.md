@@ -1,5 +1,5 @@
 ---
-title: Paragraph.JoinList Method (Word)
+title: Paragraph.JoinList method (Word)
 keywords: vbawd10.chm156696915
 f1_keywords:
 - vbawd10.chm156696915
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.JoinList Method (Word)
+# Paragraph.JoinList method (Word)
 
 Joins a list paragraph with the closest list above or below the specified paragraph.
 

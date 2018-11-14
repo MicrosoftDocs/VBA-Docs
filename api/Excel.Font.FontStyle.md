@@ -1,5 +1,5 @@
 ---
-title: Font.FontStyle Property (Excel)
+title: Font.FontStyle property (Excel)
 keywords: vbaxl10.chm559077
 f1_keywords:
 - vbaxl10.chm559077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.FontStyle Property (Excel)
+# Font.FontStyle property (Excel)
 
 Returns or sets the font style. Read/write  **String** .
 

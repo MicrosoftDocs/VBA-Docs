@@ -1,5 +1,5 @@
 ---
-title: PivotAxis.PivotLines Property (Excel)
+title: PivotAxis.PivotLines property (Excel)
 keywords: vbaxl10.chm768073
 f1_keywords:
 - vbaxl10.chm768073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotAxis.PivotLines Property (Excel)
+# PivotAxis.PivotLines property (Excel)
 
 Returns the PivotLines attached to the specified  **PivotAxis** object. Read-only.
 

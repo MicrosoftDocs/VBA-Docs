@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SqrtPi Method (Excel)
+title: WorksheetFunction.SqrtPi method (Excel)
 keywords: vbaxl10.chm137293
 f1_keywords:
 - vbaxl10.chm137293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SqrtPi Method (Excel)
+# WorksheetFunction.SqrtPi method (Excel)
 
 Returns the square root of (number * pi).
 

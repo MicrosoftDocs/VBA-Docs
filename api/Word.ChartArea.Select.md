@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Select Method (Word)
+title: ChartArea.Select method (Word)
 keywords: vbawd10.chm160039147
 f1_keywords:
 - vbawd10.chm160039147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Select Method (Word)
+# ChartArea.Select method (Word)
 
 Selects the object.
 

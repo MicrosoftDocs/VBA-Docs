@@ -1,5 +1,5 @@
 ---
-title: ChartData.ActivateChartDataWindow Method (Word)
+title: ChartData.ActivateChartDataWindow method (Word)
 keywords: vbawd10.chm190382084
 f1_keywords:
 - vbawd10.chm190382084
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData.ActivateChartDataWindow Method (Word)
+# ChartData.ActivateChartDataWindow method (Word)
 
 Opens a Excel data grid window that contains the full source data for the specified chart.
 

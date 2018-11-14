@@ -1,5 +1,5 @@
 ---
-title: Frame.Shading Property (Word)
+title: Frame.Shading property (Word)
 keywords: vbawd10.chm153747469
 f1_keywords:
 - vbawd10.chm153747469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Shading Property (Word)
+# Frame.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
 

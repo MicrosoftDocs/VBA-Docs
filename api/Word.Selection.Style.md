@@ -1,5 +1,5 @@
 ---
-title: Selection.Style Property (Word)
+title: Selection.Style property (Word)
 keywords: vbawd10.chm158662664
 f1_keywords:
 - vbawd10.chm158662664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Style Property (Word)
+# Selection.Style property (Word)
 
 Returns or sets the style for the specified object. To set this property, specify the local name of the style, an integer, a  **WdBuiltinStyle** constant, or an object that represents the style. For a list of valid constants, consult the Microsoft Visual Basic Object Browser. Read/write **Variant** .
 

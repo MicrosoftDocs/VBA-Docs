@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Name Property (Excel)
+title: ChartTitle.Name property (Excel)
 keywords: vbaxl10.chm563074
 f1_keywords:
 - vbaxl10.chm563074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Name Property (Excel)
+# ChartTitle.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

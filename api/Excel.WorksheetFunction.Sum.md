@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Sum Method (Excel)
+title: WorksheetFunction.Sum method (Excel)
 keywords: vbaxl10.chm137077
 f1_keywords:
 - vbaxl10.chm137077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Sum Method (Excel)
+# WorksheetFunction.Sum method (Excel)
 
 Adds all the numbers in a range of cells.
 

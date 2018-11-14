@@ -1,5 +1,5 @@
 ---
-title: StoryRanges.Count Property (Word)
+title: StoryRanges.Count property (Word)
 keywords: vbawd10.chm160169986
 f1_keywords:
 - vbawd10.chm160169986
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StoryRanges.Count Property (Word)
+# StoryRanges.Count property (Word)
 
 Returns a  **Long** that represents the number of story ranges in the collection. Read-only.
 

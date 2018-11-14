@@ -1,5 +1,5 @@
 ---
-title: WdSmartTagControlType Enumeration (Word)
+title: WdSmartTagControlType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSmartTagControlType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSmartTagControlType Enumeration (Word)
+# WdSmartTagControlType enumeration (Word)
 
 Specifies the type of control associated with a  **SmartTagAction** object.
 

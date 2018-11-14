@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.OffsetY Property (Word)
+title: ShadowFormat.OffsetY property (Word)
 keywords: vbawd10.chm164364391
 f1_keywords:
 - vbawd10.chm164364391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.OffsetY Property (Word)
+# ShadowFormat.OffsetY property (Word)
 
 Returns or sets the vertical offset (in points) of the shadow from the specified shape. Read/write  **Single** .
 

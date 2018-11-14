@@ -1,5 +1,5 @@
 ---
-title: WdSpellingWordType Enumeration (Word)
+title: WdSpellingWordType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSpellingWordType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSpellingWordType Enumeration (Word)
+# WdSpellingWordType enumeration (Word)
 
 Specifies the way Microsoft Word makes spelling suggestions.
 

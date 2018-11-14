@@ -1,5 +1,5 @@
 ---
-title: Rows.DistanceTop Property (Word)
+title: Rows.DistanceTop property (Word)
 keywords: vbawd10.chm155975693
 f1_keywords:
 - vbawd10.chm155975693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.DistanceTop Property (Word)
+# Rows.DistanceTop property (Word)
 
 Returns or sets the distance (in points) between the document text and the top edge of the specified table. Read/write  **Single** .
 

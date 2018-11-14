@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Top Property (Word)
+title: Rectangle.Top property (Word)
 keywords: vbawd10.chm234029060
 f1_keywords:
 - vbawd10.chm234029060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Top Property (Word)
+# Rectangle.Top property (Word)
 
 Returns a  **Long** that represents the number of pixels from the top of the page to the top of a rectangle.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Next Method (Word)
+title: Range.Next method (Word)
 keywords: vbawd10.chm157155433
 f1_keywords:
 - vbawd10.chm157155433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Next Method (Word)
+# Range.Next method (Word)
 
 Returns a  **Range** object that represents the specified unit relative to the specified range.
 

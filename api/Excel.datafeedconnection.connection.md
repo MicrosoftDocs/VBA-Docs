@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.Connection Property (Excel)
+title: DataFeedConnection.Connection property (Excel)
 keywords: vbaxl10.chm928076
 f1_keywords:
 - vbaxl10.chm928076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.Connection Property (Excel)
+# DataFeedConnection.Connection property (Excel)
 
 Returns or sets a string that contains Service Contract settings that enable Microsoft Excel to connect to a Data Feed data source.  **Variant** Read/Write
 
@@ -18,7 +18,7 @@ Returns or sets a string that contains Service Contract settings that enable Mic
 
  _expression_. `Connection`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

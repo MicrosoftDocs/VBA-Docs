@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Trend Method (Excel)
+title: WorksheetFunction.Trend method (Excel)
 keywords: vbaxl10.chm137104
 f1_keywords:
 - vbaxl10.chm137104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Trend Method (Excel)
+# WorksheetFunction.Trend method (Excel)
 
 Returns values along a linear trend. Fits a straight line (using the method of least squares) to the arrays known_y's and known_x's. Returns the y-values along that line for the array of new_x's that you specify.
 

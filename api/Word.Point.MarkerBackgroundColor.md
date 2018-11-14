@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerBackgroundColor Property (Word)
+title: Point.MarkerBackgroundColor property (Word)
 keywords: vbawd10.chm262144073
 f1_keywords:
 - vbawd10.chm262144073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.MarkerBackgroundColor Property (Word)
+# Point.MarkerBackgroundColor property (Word)
 
 Sets the marker background color as an RGB value or returns the corresponding color index value. Read/write  **Long** .
 

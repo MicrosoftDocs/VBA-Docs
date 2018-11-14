@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayAutoCompleteTips Property (Word)
+title: Application.DisplayAutoCompleteTips property (Word)
 keywords: vbawd10.chm158335068
 f1_keywords:
 - vbawd10.chm158335068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayAutoCompleteTips Property (Word)
+# Application.DisplayAutoCompleteTips property (Word)
 
  **True** if Word displays tips that suggest text for completing words, dates, or phrases as you type. Read/write **Boolean** .
 

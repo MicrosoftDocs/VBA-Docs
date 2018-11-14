@@ -1,5 +1,5 @@
 ---
-title: LegendKey.InvertIfNegative Property (Excel)
+title: LegendKey.InvertIfNegative property (Excel)
 keywords: vbaxl10.chm590079
 f1_keywords:
 - vbaxl10.chm590079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.InvertIfNegative Property (Excel)
+# LegendKey.InvertIfNegative property (Excel)
 
  **True** if Microsoft Excel inverts the pattern in the item when it corresponds to a negative number. Read/write **Boolean** .
 

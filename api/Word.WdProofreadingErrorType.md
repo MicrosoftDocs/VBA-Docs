@@ -1,5 +1,5 @@
 ---
-title: WdProofreadingErrorType Enumeration (Word)
+title: WdProofreadingErrorType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdProofreadingErrorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdProofreadingErrorType Enumeration (Word)
+# WdProofreadingErrorType enumeration (Word)
 
 Specifies the type of proofreading error returned by the Word proofreading process.
 

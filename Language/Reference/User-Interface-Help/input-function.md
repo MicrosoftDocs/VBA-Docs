@@ -19,7 +19,7 @@ Returns [String](../../Glossary/vbe-glossary.md#string-data-type) containing cha
 The **Input** function syntax has these parts:
 
 ## Parameters
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _number_|Required. Any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) specifying the number of characters to return.|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|

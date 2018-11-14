@@ -1,5 +1,5 @@
 ---
-title: Point.Name Property (Excel)
+title: Point.Name property (Excel)
 keywords: vbaxl10.chm576108
 f1_keywords:
 - vbaxl10.chm576108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Name Property (Excel)
+# Point.Name property (Excel)
 
 Returns the object name. Read-only.
 

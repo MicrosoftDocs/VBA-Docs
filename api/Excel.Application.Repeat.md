@@ -1,5 +1,5 @@
 ---
-title: Application.Repeat Method (Excel)
+title: Application.Repeat method (Excel)
 keywords: vbaxl10.chm133200
 f1_keywords:
 - vbaxl10.chm133200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Repeat Method (Excel)
+# Application.Repeat method (Excel)
 
 Repeats the last user-interface action.
 

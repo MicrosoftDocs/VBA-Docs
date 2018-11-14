@@ -1,5 +1,5 @@
 ---
-title: XlPivotTableMissingItems Enumeration (Excel)
+title: xlPivotTableMissingItems enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotTableMissingItems
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotTableMissingItems Enumeration (Excel)
+# xlPivotTableMissingItems enumeration (Excel)
 
 Specifies the maximum number of unique items allowed per PivotField.
 

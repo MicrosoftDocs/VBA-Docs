@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Index Property (Word)
+title: ContentControlListEntry.Index property (Word)
 keywords: vbawd10.chm147456105
 f1_keywords:
 - vbawd10.chm147456105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Index Property (Word)
+# ContentControlListEntry.Index property (Word)
 
 Returns or sets a  **Long** that represents the ordinal position of a content control list item in the collection of list items. Read/write.
 

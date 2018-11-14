@@ -21,7 +21,7 @@ _result_**=** **Not**_expression_
 The  **Not** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression_|Required; any expression.|

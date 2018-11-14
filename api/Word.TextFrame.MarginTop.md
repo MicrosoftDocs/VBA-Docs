@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginTop Property (Word)
+title: TextFrame.MarginTop property (Word)
 keywords: vbawd10.chm162660455
 f1_keywords:
 - vbawd10.chm162660455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.MarginTop Property (Word)
+# TextFrame.MarginTop property (Word)
 
 Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

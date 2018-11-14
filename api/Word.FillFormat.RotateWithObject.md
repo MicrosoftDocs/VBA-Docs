@@ -1,5 +1,5 @@
 ---
-title: FillFormat.RotateWithObject Property (Word)
+title: FillFormat.RotateWithObject property (Word)
 keywords: vbawd10.chm164102265
 f1_keywords:
 - vbawd10.chm164102265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.RotateWithObject Property (Word)
+# FillFormat.RotateWithObject property (Word)
 
 Returns or sets whether the fill rotates with the specified shape. Read/write.
 

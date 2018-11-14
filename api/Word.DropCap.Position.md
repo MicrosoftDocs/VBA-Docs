@@ -1,5 +1,5 @@
 ---
-title: DropCap.Position Property (Word)
+title: DropCap.Position property (Word)
 keywords: vbawd10.chm156631050
 f1_keywords:
 - vbawd10.chm156631050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.Position Property (Word)
+# DropCap.Position property (Word)
 
 Returns or sets the position of a dropped capital letter. Read/write  **WdDropPosition** .
 

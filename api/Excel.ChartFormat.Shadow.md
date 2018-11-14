@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Shadow Property (Excel)
+title: ChartFormat.Shadow property (Excel)
 keywords: vbaxl10.chm861077
 f1_keywords:
 - vbaxl10.chm861077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Shadow Property (Excel)
+# ChartFormat.Shadow property (Excel)
 
 Returns a  **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow formatting properties for the chart element. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Height Property (Word)
+title: Rectangle.Height property (Word)
 keywords: vbawd10.chm234029062
 f1_keywords:
 - vbawd10.chm234029062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Height Property (Word)
+# Rectangle.Height property (Word)
 
 Returns a  **Long** that represents the height of a rectangle, in pixels.
 

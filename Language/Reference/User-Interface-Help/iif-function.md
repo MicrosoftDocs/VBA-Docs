@@ -19,7 +19,7 @@ Returns one of two parts, depending on the evaluation of an [expression](../../G
 
 The **IIf** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_expr_**|Required. Expression you want to evaluate.|
 |**_truepart_**|Required. Value or expression returned if **_expr_** is **True**.|

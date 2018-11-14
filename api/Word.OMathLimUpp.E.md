@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp.E Property (Word)
+title: OMathLimUpp.E property (Word)
 keywords: vbawd10.chm113639527
 f1_keywords:
 - vbawd10.chm113639527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp.E Property (Word)
+# OMathLimUpp.E property (Word)
 
 Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
 

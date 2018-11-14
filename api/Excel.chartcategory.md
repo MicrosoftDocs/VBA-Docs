@@ -1,5 +1,5 @@
 ---
-title: ChartCategory Object (Excel)
+title: ChartCategory object (Excel)
 keywords: vbaxl10.chm945072
 f1_keywords:
 - vbaxl10.chm945072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory Object (Excel)
+# ChartCategory object (Excel)
 
 Specifies a chart type's category.
 

@@ -1,5 +1,5 @@
 ---
-title: UsedObjects.Parent Property (Excel)
+title: UsedObjects.Parent property (Excel)
 keywords: vbaxl10.chm677075
 f1_keywords:
 - vbaxl10.chm677075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UsedObjects.Parent Property (Excel)
+# UsedObjects.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

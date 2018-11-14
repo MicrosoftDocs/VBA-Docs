@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PriceMat Method (Excel)
+title: WorksheetFunction.PriceMat method (Excel)
 keywords: vbaxl10.chm137308
 f1_keywords:
 - vbaxl10.chm137308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.PriceMat Method (Excel)
+# WorksheetFunction.PriceMat method (Excel)
 
 Returns the price per $100 face value of a security that pays interest at maturity.
 

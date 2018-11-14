@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormatLinked Property (Excel)
+title: DataLabels.NumberFormatLinked property (Excel)
 keywords: vbaxl10.chm584094
 f1_keywords:
 - vbaxl10.chm584094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.NumberFormatLinked Property (Excel)
+# DataLabels.NumberFormatLinked property (Excel)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
 

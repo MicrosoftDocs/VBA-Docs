@@ -1,5 +1,5 @@
 ---
-title: WdCheckInVersionType Enumeration (Word)
+title: WdCheckInVersionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCheckInVersionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCheckInVersionType Enumeration (Word)
+# WdCheckInVersionType enumeration (Word)
 
 Specifies the type of version for the document checked in when using the  **CheckIn** method. Applies to documents stored in a SharePoint library.
 

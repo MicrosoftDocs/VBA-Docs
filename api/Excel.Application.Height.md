@@ -1,5 +1,5 @@
 ---
-title: Application.Height Property (Excel)
+title: Application.Height property (Excel)
 keywords: vbaxl10.chm133145
 f1_keywords:
 - vbaxl10.chm133145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Height Property (Excel)
+# Application.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the main application window.
 

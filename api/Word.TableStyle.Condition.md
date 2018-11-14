@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Condition Method (Word)
+title: TableStyle.Condition method (Word)
 keywords: vbawd10.chm244776976
 f1_keywords:
 - vbawd10.chm244776976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Condition Method (Word)
+# TableStyle.Condition method (Word)
 
 Returns a  **[ConditionalStyle](Word.ConditionalStyle.md)** object that represents special style formatting for a portion of a table.
 

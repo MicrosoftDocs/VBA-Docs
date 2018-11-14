@@ -1,5 +1,5 @@
 ---
-title: Font.NumberForm Property (Word)
+title: Font.NumberForm property (Word)
 keywords: vbawd10.chm156369071
 f1_keywords:
 - vbawd10.chm156369071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.NumberForm Property (Word)
+# Font.NumberForm property (Word)
 
 Returns or sets the number form setting for an OpenType font. Read/write [WdNumberForm](Word.WdNumberForm.md).
 

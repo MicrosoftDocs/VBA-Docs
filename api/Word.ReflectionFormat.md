@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat Object (Word)
+title: ReflectionFormat object (Word)
 keywords: vbawd10.chm1023
 f1_keywords:
 - vbawd10.chm1023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat Object (Word)
+# ReflectionFormat object (Word)
 
 Represents the reflection formatting for a shape or range of shapes.
 

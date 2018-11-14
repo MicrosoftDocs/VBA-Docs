@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object (Word)
+title: LeaderLines object (Word)
 keywords: vbawd10.chm3170
 f1_keywords:
 - vbawd10.chm3170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines Object (Word)
+# LeaderLines object (Word)
 
 Represents leader lines on a chart. Leader lines connect data labels to data points.
 

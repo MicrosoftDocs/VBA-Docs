@@ -1,5 +1,5 @@
 ---
-title: Axis.MaximumScaleIsAuto Property (Excel)
+title: Axis.MaximumScaleIsAuto property (Excel)
 keywords: vbaxl10.chm561089
 f1_keywords:
 - vbaxl10.chm561089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MaximumScaleIsAuto Property (Excel)
+# Axis.MaximumScaleIsAuto property (Excel)
 
  **True** if Microsoft Excel calculates the maximum value for the value axis. Read/write **Boolean** .
 

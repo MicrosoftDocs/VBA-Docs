@@ -14,11 +14,11 @@ There are a few things to consider when you select the standard Outlook form for
 
 - Routing versus folder-based solutions
     
-  If you plan to distribute the custom form by e-mail, choose the standard mail message form. If you plan to post the custom form in a public folder, choose the standard post form.
+  If you plan to distribute the custom form by email, choose the standard mail message form. If you plan to post the custom form in a public folder, choose the standard post form.
     
 - Built-in fields on the standard form
     
-  Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an e-mail message, click **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](../Forms/using-the-field-chooser.md).
+  Select the form for the type of item that has fields best suited to the needs of your custom solution. Each type of Outlook item has a set of fields built into it. For example, to see all of the fields that are available in an email message, click **All Mail Fields** in the **Field Chooser**. For more information, see  [Using the Field Chooser](../Forms/using-the-field-chooser.md).
     
 - Extent of customization
     

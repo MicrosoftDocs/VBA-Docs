@@ -1,5 +1,5 @@
 ---
-title: Selection.TypeBackspace Method (Word)
+title: Selection.TypeBackspace method (Word)
 keywords: vbawd10.chm158663169
 f1_keywords:
 - vbawd10.chm158663169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.TypeBackspace Method (Word)
+# Selection.TypeBackspace method (Word)
 
 Deletes the character preceding a collapsed selection (an insertion point).
 

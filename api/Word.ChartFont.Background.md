@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Background Property (Word)
+title: ChartFont.Background property (Word)
 keywords: vbawd10.chm255918080
 f1_keywords:
 - vbawd10.chm255918080
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Background Property (Word)
+# ChartFont.Background property (Word)
 
-Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[XlBackground](Word.xlbackground.md)** .
+Returns or sets the type of background for text used in charts. Read/write  **Variant** that is set to one of the constants of **[xlBackground](Word.xlbackground.md)** .
 
 
 ## Syntax

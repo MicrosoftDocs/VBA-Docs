@@ -1,5 +1,5 @@
 ---
-title: ChartData.IsLinked Property (Word)
+title: ChartData.IsLinked property (Word)
 keywords: vbawd10.chm190382082
 f1_keywords:
 - vbawd10.chm190382082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData.IsLinked Property (Word)
+# ChartData.IsLinked property (Word)
 
  **True** if the data for the chart is linked to an external Microsoft Excel workbook. Read-only **Boolean** .
 

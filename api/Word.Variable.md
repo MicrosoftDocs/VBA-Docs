@@ -1,5 +1,5 @@
 ---
-title: Variable Object (Word)
+title: Variable object (Word)
 keywords: vbawd10.chm2406
 f1_keywords:
 - vbawd10.chm2406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variable Object (Word)
+# Variable object (Word)
 
 Represents a variable stored as part of a document. Document variables are used to preserve macro settings in between macro sessions. The  **Variable** object is a member of the **[Variables](Word.variables.md)** collection. The **Variables** collection includes all the document variables in a document or template.
 

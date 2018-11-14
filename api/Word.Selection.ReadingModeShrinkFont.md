@@ -1,5 +1,5 @@
 ---
-title: Selection.ReadingModeShrinkFont Method (Word)
+title: Selection.ReadingModeShrinkFont method (Word)
 keywords: vbawd10.chm158663694
 f1_keywords:
 - vbawd10.chm158663694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ReadingModeShrinkFont Method (Word)
+# Selection.ReadingModeShrinkFont method (Word)
 
 Decreases the size of the displayed text one point size when the document is displayed in Reading mode.
 

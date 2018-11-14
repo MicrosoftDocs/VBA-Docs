@@ -1,5 +1,5 @@
 ---
-title: ModelTableNames.Creator Property (Excel)
+title: ModelTableNames.Creator property (Excel)
 keywords: vbaxl10.chm953074
 f1_keywords:
 - vbaxl10.chm953074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNames.Creator Property (Excel)
+# ModelTableNames.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelTableNames Object (Excel)](Excel.modeltablenames.md) object.
+ _expression_ A variable that represents a [ModelTableNames object (Excel)](Excel.modeltablenames.md) object.
 
 
 ## Remarks

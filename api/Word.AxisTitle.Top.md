@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Top Property (Word)
+title: AxisTitle.Top property (Word)
 keywords: vbawd10.chm98238478
 f1_keywords:
 - vbawd10.chm98238478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Top Property (Word)
+# AxisTitle.Top property (Word)
 
 Returns or sets the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart). Read/write  **Double** .
 

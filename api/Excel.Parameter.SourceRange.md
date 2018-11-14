@@ -1,5 +1,5 @@
 ---
-title: Parameter.SourceRange Property (Excel)
+title: Parameter.SourceRange property (Excel)
 keywords: vbaxl10.chm523077
 f1_keywords:
 - vbaxl10.chm523077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.SourceRange Property (Excel)
+# Parameter.SourceRange property (Excel)
 
 Returns a  **Range** object that represents the cell that contains the value of the specified query parameter. Read-only.
 

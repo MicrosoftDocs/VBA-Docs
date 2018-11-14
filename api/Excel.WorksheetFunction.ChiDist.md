@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiDist Method (Excel)
+title: WorksheetFunction.ChiDist method (Excel)
 keywords: vbaxl10.chm137178
 f1_keywords:
 - vbaxl10.chm137178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiDist Method (Excel)
+# WorksheetFunction.ChiDist method (Excel)
 
 Returns the one-tailed probability of the chi-squared distribution. 
 

@@ -1,5 +1,5 @@
 ---
-title: Styles.Creator Property (Excel)
+title: Styles.Creator property (Excel)
 keywords: vbaxl10.chm178074
 f1_keywords:
 - vbaxl10.chm178074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Creator Property (Excel)
+# Styles.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

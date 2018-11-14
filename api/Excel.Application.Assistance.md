@@ -1,5 +1,5 @@
 ---
-title: Application.Assistance Property (Excel)
+title: Application.Assistance property (Excel)
 keywords: vbaxl10.chm133309
 f1_keywords:
 - vbaxl10.chm133309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Assistance Property (Excel)
+# Application.Assistance property (Excel)
 
 Returns an  **[IAssistance](Office.IAssistance.md)** object for Microsoft Excel that represents the Microsoft Office Help Viewer. Read-only.
 

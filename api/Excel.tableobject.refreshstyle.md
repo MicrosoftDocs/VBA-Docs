@@ -1,5 +1,5 @@
 ---
-title: TableObject.RefreshStyle Property (Excel)
+title: TableObject.RefreshStyle property (Excel)
 keywords: vbaxl10.chm916075
 f1_keywords:
 - vbaxl10.chm916075
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.RefreshStyle Property (Excel)
+# TableObject.RefreshStyle property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a record set returned by a query. [XlCellInsertionMode Enumeration (Excel)](Excel.XlCellInsertionMode.md) Read/Write
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a record set returned by a query. [xlCellInsertionMode enumeration (Excel)](Excel.xlCellInsertionMode.md) Read/Write
 
 
 ## Syntax

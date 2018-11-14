@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontSize Property (Word)
+title: TextEffectFormat.FontSize property (Word)
 keywords: vbawd10.chm164561000
 f1_keywords:
 - vbawd10.chm164561000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontSize Property (Word)
+# TextEffectFormat.FontSize property (Word)
 
 Returns or sets the font size for the specified WordArt, in points. Read/write  **Single** .
 

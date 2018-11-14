@@ -1,5 +1,5 @@
 ---
-title: TextInput Object (Word)
+title: TextInput object (Word)
 keywords: vbawd10.chm2343
 f1_keywords:
 - vbawd10.chm2343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput Object (Word)
+# TextInput object (Word)
 
 Represents a single text form field.
 

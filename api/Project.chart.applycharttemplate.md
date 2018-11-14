@@ -20,7 +20,7 @@ Applies a standard or custom chart type to a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _bstrFileName_|Required|**String**|The file name for a chart template.|

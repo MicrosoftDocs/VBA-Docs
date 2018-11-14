@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.DefaultLabelName Property (Word)
+title: MailingLabel.DefaultLabelName property (Word)
 keywords: vbawd10.chm152502281
 f1_keywords:
 - vbawd10.chm152502281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.DefaultLabelName Property (Word)
+# MailingLabel.DefaultLabelName property (Word)
 
 Returns or sets the name for the default mailing label. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Slicer.Left Property (Excel)
+title: Slicer.Left property (Excel)
 keywords: vbaxl10.chm905076
 f1_keywords:
 - vbaxl10.chm905076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Left Property (Excel)
+# Slicer.Left property (Excel)
 
 Returns or sets the horizontal position of the specified slicer, in points, relative to the upper-left corner of cell A1 on a worksheet. Read/write.
 

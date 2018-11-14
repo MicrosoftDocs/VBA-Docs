@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Application Property (Word)
+title: Bookmarks.Application property (Word)
 keywords: vbawd10.chm157746152
 f1_keywords:
 - vbawd10.chm157746152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.Application Property (Word)
+# Bookmarks.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

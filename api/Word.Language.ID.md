@@ -1,5 +1,5 @@
 ---
-title: Language.ID Property (Word)
+title: Language.ID property (Word)
 keywords: vbawd10.chm158138378
 f1_keywords:
 - vbawd10.chm158138378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.ID Property (Word)
+# Language.ID property (Word)
 
 Returns a number that identifies the specified language. Read-only  **WdLanguageID** .
 

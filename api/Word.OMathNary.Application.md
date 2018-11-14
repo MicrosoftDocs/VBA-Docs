@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Application Property (Word)
+title: OMathNary.Application property (Word)
 keywords: vbawd10.chm25428068
 f1_keywords:
 - vbawd10.chm25428068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Application Property (Word)
+# OMathNary.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

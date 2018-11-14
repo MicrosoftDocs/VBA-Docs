@@ -1,5 +1,5 @@
 ---
-title: Template.KerningByAlgorithm Property (Word)
+title: Template.KerningByAlgorithm property (Word)
 keywords: vbawd10.chm157941772
 f1_keywords:
 - vbawd10.chm157941772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.KerningByAlgorithm Property (Word)
+# Template.KerningByAlgorithm property (Word)
 
  **True** if Microsoft Word kerns half-width Latin characters and punctuation marks in the specified document. Read/write **Boolean** .
 

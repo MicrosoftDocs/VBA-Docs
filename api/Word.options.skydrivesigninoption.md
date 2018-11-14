@@ -1,5 +1,5 @@
 ---
-title: Options.SkyDriveSignInOption Property (Word)
+title: Options.SkyDriveSignInOption property (Word)
 keywords: vbawd10.chm162988545
 f1_keywords:
 - vbawd10.chm162988545
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SkyDriveSignInOption Property (Word)
+# Options.SkyDriveSignInOption property (Word)
 
  **True** to give users the option to sign in to Microsoft OneDriveand other cloud locations. Read/write **Boolean**.
 

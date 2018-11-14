@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.SeriesColor Property (Excel)
+title: SparklineGroup.SeriesColor property (Excel)
 keywords: vbaxl10.chm871085
 f1_keywords:
 - vbaxl10.chm871085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.SeriesColor Property (Excel)
+# SparklineGroup.SeriesColor property (Excel)
 
 Returns a  **[FormatColor](Excel.FormatColor.md)** object that represents the main series color for the sparkline group. Read-only.
 

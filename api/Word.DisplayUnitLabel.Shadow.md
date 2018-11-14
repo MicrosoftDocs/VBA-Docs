@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Shadow Property (Word)
+title: DisplayUnitLabel.Shadow property (Word)
 keywords: vbawd10.chm94568458
 f1_keywords:
 - vbawd10.chm94568458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Shadow Property (Word)
+# DisplayUnitLabel.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

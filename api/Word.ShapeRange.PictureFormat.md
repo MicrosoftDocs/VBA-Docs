@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PictureFormat Property (Word)
+title: ShapeRange.PictureFormat property (Word)
 keywords: vbawd10.chm162857078
 f1_keywords:
 - vbawd10.chm162857078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.PictureFormat Property (Word)
+# ShapeRange.PictureFormat property (Word)
 
 Returns a  **PictureFormat** object that contains picture formatting properties for the specified range of shapes. Read-only.
 

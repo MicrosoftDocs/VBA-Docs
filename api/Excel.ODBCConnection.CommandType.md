@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.CommandType Property (Excel)
+title: ODBCConnection.CommandType property (Excel)
 keywords: vbaxl10.chm796076
 f1_keywords:
 - vbaxl10.chm796076
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.CommandType Property (Excel)
+# ODBCConnection.CommandType property (Excel)
 
-Returns or sets one of the  **XlCmdType** constants. Read/write **[XlCmdType](Excel.XlCmdType.md)** .
+Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Excel.XlCmdType.md)** .
 
 
 ## Syntax

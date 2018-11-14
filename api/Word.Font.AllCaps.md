@@ -1,5 +1,5 @@
 ---
-title: Font.AllCaps Property (Word)
+title: Font.AllCaps property (Word)
 keywords: vbawd10.chm156369030
 f1_keywords:
 - vbawd10.chm156369030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.AllCaps Property (Word)
+# Font.AllCaps property (Word)
 
  **True** if the font is formatted as all capital letters. Read/write **Long** .
 

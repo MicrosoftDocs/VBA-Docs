@@ -15,7 +15,7 @@ Measurement system types to be passed to the  **Documents.AddEx** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMSDefault**|0|Choose metric or U.S., depending on regional options set in Control Panel.|
 | **visMSMetric**|1|Metric measurement system.|

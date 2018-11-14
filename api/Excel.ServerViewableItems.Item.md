@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Item Method (Excel)
+title: ServerViewableItems.Item method (Excel)
 keywords: vbaxl10.chm833077
 f1_keywords:
 - vbaxl10.chm833077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Item Method (Excel)
+# ServerViewableItems.Item method (Excel)
 
 Returns a single object from the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection.
 

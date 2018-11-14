@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceBottom Property (Word)
+title: WrapFormat.DistanceBottom property (Word)
 keywords: vbawd10.chm163774567
 f1_keywords:
 - vbawd10.chm163774567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.DistanceBottom Property (Word)
+# WrapFormat.DistanceBottom property (Word)
 
 Returns or sets the distance (in points) between the document text and the bottom edge of the text-free area surrounding the specified shape. Read/write  **Single** .
 

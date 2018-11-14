@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DMax Method (Excel)
+title: WorksheetFunction.DMax method (Excel)
 keywords: vbaxl10.chm137098
 f1_keywords:
 - vbaxl10.chm137098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DMax Method (Excel)
+# WorksheetFunction.DMax method (Excel)
 
 Returns the largest number in a column of a list or database that matches conditions you that specify.
 

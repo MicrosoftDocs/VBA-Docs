@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.KernedPairs Property (Excel)
+title: TextEffectFormat.KernedPairs property (Excel)
 keywords: vbaxl10.chm118007
 f1_keywords:
 - vbaxl10.chm118007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.KernedPairs Property (Excel)
+# TextEffectFormat.KernedPairs property (Excel)
 
  **True** if character pairs in the specified WordArt are kerned. Read/write **MsoTriState** .
 

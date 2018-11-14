@@ -1,5 +1,5 @@
 ---
-title: View.ReadingLayoutTruncateMargins Property (Word)
+title: View.ReadingLayoutTruncateMargins property (Word)
 keywords: vbawd10.chm161808438
 f1_keywords:
 - vbawd10.chm161808438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ReadingLayoutTruncateMargins Property (Word)
+# View.ReadingLayoutTruncateMargins property (Word)
 
 Returns or sets a  **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** constant that represents whether margins are visible or hidden when a document is viewed in Full Screen Reading view. Read/write.
 

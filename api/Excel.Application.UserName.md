@@ -1,5 +1,5 @@
 ---
-title: Application.UserName Property (Excel)
+title: Application.UserName property (Excel)
 keywords: vbaxl10.chm133225
 f1_keywords:
 - vbaxl10.chm133225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserName Property (Excel)
+# Application.UserName property (Excel)
 
 Returns or sets the name of the current user. Read/write  **String** .
 

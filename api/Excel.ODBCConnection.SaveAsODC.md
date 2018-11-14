@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.SaveAsODC Method (Excel)
+title: ODBCConnection.SaveAsODC method (Excel)
 keywords: vbaxl10.chm796085
 f1_keywords:
 - vbaxl10.chm796085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.SaveAsODC Method (Excel)
+# ODBCConnection.SaveAsODC method (Excel)
 
 Saves the ODBC connection as a Microsoft Office Data Connection file.
 

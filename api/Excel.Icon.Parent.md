@@ -1,5 +1,5 @@
 ---
-title: Icon.Parent Property (Excel)
+title: Icon.Parent property (Excel)
 keywords: vbaxl10.chm816073
 f1_keywords:
 - vbaxl10.chm816073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Icon.Parent Property (Excel)
+# Icon.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

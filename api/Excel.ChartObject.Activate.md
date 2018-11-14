@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Activate Method (Excel)
+title: ChartObject.Activate method (Excel)
 keywords: vbaxl10.chm494098
 f1_keywords:
 - vbaxl10.chm494098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Activate Method (Excel)
+# ChartObject.Activate method (Excel)
 
 Makes the current chart the active chart.
 

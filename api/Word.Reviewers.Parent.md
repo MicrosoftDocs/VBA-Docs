@@ -1,5 +1,5 @@
 ---
-title: Reviewers.Parent Property (Word)
+title: Reviewers.Parent property (Word)
 keywords: vbawd10.chm211420138
 f1_keywords:
 - vbawd10.chm211420138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewers.Parent Property (Word)
+# Reviewers.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Reviewers** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Template.FullName Property (Word)
+title: Template.FullName property (Word)
 keywords: vbawd10.chm157941767
 f1_keywords:
 - vbawd10.chm157941767
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.FullName Property (Word)
+# Template.FullName property (Word)
 
 Specifies the name of a template, including the drive or Web path. Read-only  **String** .
 

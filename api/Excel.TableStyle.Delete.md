@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Delete Method (Excel)
+title: TableStyle.Delete method (Excel)
 keywords: vbaxl10.chm839080
 f1_keywords:
 - vbaxl10.chm839080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Delete Method (Excel)
+# TableStyle.Delete method (Excel)
 
 Deletes the  **[TableStyle](Excel.TableStyle.md)** object.
 

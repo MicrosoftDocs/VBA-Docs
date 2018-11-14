@@ -1,5 +1,5 @@
 ---
-title: WdAutoMacros Enumeration (Word)
+title: WdAutoMacros enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAutoMacros
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAutoMacros Enumeration (Word)
+# WdAutoMacros enumeration (Word)
 
 Specifies an auto macro that is stored in the document.
 

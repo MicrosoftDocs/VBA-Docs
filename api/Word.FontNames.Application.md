@@ -1,5 +1,5 @@
 ---
-title: FontNames.Application Property (Word)
+title: FontNames.Application property (Word)
 keywords: vbawd10.chm158270440
 f1_keywords:
 - vbawd10.chm158270440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FontNames.Application Property (Word)
+# FontNames.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

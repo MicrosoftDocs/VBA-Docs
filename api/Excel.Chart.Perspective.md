@@ -1,5 +1,5 @@
 ---
-title: Chart.Perspective Property (Excel)
+title: Chart.Perspective property (Excel)
 keywords: vbaxl10.chm149130
 f1_keywords:
 - vbaxl10.chm149130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Perspective Property (Excel)
+# Chart.Perspective property (Excel)
 
 Returns or sets a  **Long** value that represents the perspective for the 3-D chart view.
 

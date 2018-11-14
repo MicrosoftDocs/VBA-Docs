@@ -1,5 +1,5 @@
 ---
-title: FootnoteOptions Object (Word)
+title: FootnoteOptions object (Word)
 keywords: vbawd10.chm2596
 f1_keywords:
 - vbawd10.chm2596
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FootnoteOptions Object (Word)
+# FootnoteOptions object (Word)
 
 Represents the properties assigned to a range or selection of footnotes in a document.
 

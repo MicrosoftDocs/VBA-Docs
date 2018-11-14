@@ -1,5 +1,5 @@
 ---
-title: TimelineState.Application Property (Excel)
+title: TimelineState.Application property (Excel)
 keywords: vbaxl10.chm949073
 f1_keywords:
 - vbaxl10.chm949073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.Application Property (Excel)
+# TimelineState.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [TimelineState Object (Excel)](Excel.timelinestate.md) object.
+ _expression_ A variable that represents a [TimelineState object (Excel)](Excel.timelinestate.md) object.
 
 
 ## Example

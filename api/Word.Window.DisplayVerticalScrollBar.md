@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayVerticalScrollBar Property (Word)
+title: Window.DisplayVerticalScrollBar property (Word)
 keywords: vbawd10.chm157417491
 f1_keywords:
 - vbawd10.chm157417491
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayVerticalScrollBar Property (Word)
+# Window.DisplayVerticalScrollBar property (Word)
 
  **True** if a vertical scroll bar is displayed for the specified window. Read/write **Boolean** .
 

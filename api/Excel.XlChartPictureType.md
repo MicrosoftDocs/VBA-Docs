@@ -1,5 +1,5 @@
 ---
-title: XlChartPictureType Enumeration (Excel)
+title: xlChartPictureType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartPictureType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlChartPictureType Enumeration (Excel)
+# xlChartPictureType enumeration (Excel)
 
 Specifies how pictures are displayed on a column, bar picture chart, or legend key.
 

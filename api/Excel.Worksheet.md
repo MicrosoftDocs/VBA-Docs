@@ -1,5 +1,5 @@
 ---
-title: Worksheet Object (Excel)
+title: Worksheet object (Excel)
 keywords: vbaxl10.chm173072
 f1_keywords:
 - vbaxl10.chm173072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet Object (Excel)
+# Worksheet object (Excel)
 
 Represents a worksheet.
 

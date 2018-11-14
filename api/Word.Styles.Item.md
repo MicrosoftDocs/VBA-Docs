@@ -1,5 +1,5 @@
 ---
-title: Styles.Item Method (Word)
+title: Styles.Item method (Word)
 keywords: vbawd10.chm153944064
 f1_keywords:
 - vbawd10.chm153944064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Item Method (Word)
+# Styles.Item method (Word)
 
 Returns an individual  **Style** object in a collection.
 

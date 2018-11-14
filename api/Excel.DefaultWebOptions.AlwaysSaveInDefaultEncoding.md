@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.AlwaysSaveInDefaultEncoding Property (Excel)
+title: DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Excel)
 keywords: vbaxl10.chm660087
 f1_keywords:
 - vbaxl10.chm660087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.AlwaysSaveInDefaultEncoding Property (Excel)
+# DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Excel)
 
  **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. **False** if the original encoding of the file is used. The default value is **False** . Read/write **Boolean** .
 

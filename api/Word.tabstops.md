@@ -1,5 +1,5 @@
 ---
-title: TabStops Object (Word)
+title: TabStops object (Word)
 keywords: vbawd10.chm2389
 f1_keywords:
 - vbawd10.chm2389
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops Object (Word)
+# TabStops object (Word)
 
 A collection of  **[TabStop](Word.TabStop.md)** objects that represent the custom and default tabs for a paragraph or group of paragraphs.
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel Object (Word)
+title: DisplayUnitLabel object (Word)
 keywords: vbawd10.chm1443
 f1_keywords:
 - vbawd10.chm1443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel Object (Word)
+# DisplayUnitLabel object (Word)
 
 Represents a unit label on an axis in the specified chart.
 

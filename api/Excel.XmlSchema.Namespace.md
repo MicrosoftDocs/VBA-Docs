@@ -1,5 +1,5 @@
 ---
-title: XmlSchema.Namespace Property (Excel)
+title: XmlSchema.Namespace property (Excel)
 keywords: vbaxl10.chm750073
 f1_keywords:
 - vbaxl10.chm750073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchema.Namespace Property (Excel)
+# XmlSchema.Namespace property (Excel)
 
 Returns an  **[XmlNamespace](Excel.XmlNamespace.md)** object that represents the target namespace for the specified schema. Read-only.
 

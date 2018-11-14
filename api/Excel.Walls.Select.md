@@ -1,5 +1,5 @@
 ---
-title: Walls.Select Method (Excel)
+title: Walls.Select method (Excel)
 keywords: vbaxl10.chm614075
 f1_keywords:
 - vbaxl10.chm614075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Select Method (Excel)
+# Walls.Select method (Excel)
 
 Selects the object.
 

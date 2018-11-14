@@ -1,5 +1,5 @@
 ---
-title: LegendKey.PictureType Property (Excel)
+title: LegendKey.PictureType property (Excel)
 keywords: vbaxl10.chm590086
 f1_keywords:
 - vbaxl10.chm590086
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.PictureType Property (Excel)
+# LegendKey.PictureType property (Excel)
 
-Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a legend key.
+Returns or sets a  **[xlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a legend key.
 
 
 ## Syntax

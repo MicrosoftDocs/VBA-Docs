@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Subtotal Method (Excel)
+title: WorksheetFunction.Subtotal method (Excel)
 keywords: vbaxl10.chm137240
 f1_keywords:
 - vbaxl10.chm137240
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Subtotal Method (Excel)
+# WorksheetFunction.Subtotal method (Excel)
 
 Creates subtotals. 
 

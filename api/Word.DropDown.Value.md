@@ -1,5 +1,5 @@
 ---
-title: DropDown.Value Property (Word)
+title: DropDown.Value property (Word)
 keywords: vbawd10.chm153419778
 f1_keywords:
 - vbawd10.chm153419778
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Value Property (Word)
+# DropDown.Value property (Word)
 
 Returns or sets the number of the selected item in a drop-down form field. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Walls.Name Property (Excel)
+title: Walls.Name property (Excel)
 keywords: vbaxl10.chm614074
 f1_keywords:
 - vbaxl10.chm614074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Name Property (Excel)
+# Walls.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

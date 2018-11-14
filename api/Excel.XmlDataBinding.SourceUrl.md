@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding.SourceUrl Property (Excel)
+title: XmlDataBinding.SourceUrl property (Excel)
 keywords: vbaxl10.chm748077
 f1_keywords:
 - vbaxl10.chm748077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlDataBinding.SourceUrl Property (Excel)
+# XmlDataBinding.SourceUrl property (Excel)
 
  Returns a **String** that represents the path to the XML data file or the Web service that provides the source data for the specified data binding. Read-only.
 

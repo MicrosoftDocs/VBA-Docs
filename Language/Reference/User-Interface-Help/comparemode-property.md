@@ -24,7 +24,7 @@ _object_. **CompareMode** [ = _compare_ ]
 The  **CompareMode** property has the following parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _compare_|Optional. If provided,  _compare_ is a value representing the comparison mode used by functions such as **StrComp**.|
@@ -33,7 +33,7 @@ The  **CompareMode** property has the following parts:
 The  _compare_ argument can have the following values:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
 |**vbBinaryCompare**| 0|Performs a binary comparison.|

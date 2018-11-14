@@ -1,5 +1,5 @@
 ---
-title: Point.Shadow Property (Excel)
+title: Point.Shadow property (Excel)
 keywords: vbaxl10.chm576097
 f1_keywords:
 - vbaxl10.chm576097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Shadow Property (Excel)
+# Point.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

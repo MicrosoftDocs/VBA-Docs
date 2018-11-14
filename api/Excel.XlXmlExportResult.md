@@ -1,5 +1,5 @@
 ---
-title: XlXmlExportResult Enumeration (Excel)
+title: xlXmlExportResult enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlExportResult
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlXmlExportResult Enumeration (Excel)
+# xlXmlExportResult enumeration (Excel)
 
 Specifies the results of the save or export operation.
 

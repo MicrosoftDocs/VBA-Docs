@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.DistanceLeft Property (Word)
+title: WrapFormat.DistanceLeft property (Word)
 keywords: vbawd10.chm163774568
 f1_keywords:
 - vbawd10.chm163774568
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.DistanceLeft Property (Word)
+# WrapFormat.DistanceLeft property (Word)
 
 Returns or sets the distance (in points) between the document text and the left edge of the text-free area surrounding the specified shape. Read/write  **Single** .
 

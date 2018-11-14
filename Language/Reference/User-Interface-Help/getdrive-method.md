@@ -24,7 +24,7 @@ _object_. **GetDrive**_drivespec_
 The  **GetDrive** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _drivespec_|Required. The  _drivespec_ argument can be a drive letter (c), a drive letter with a colon appended (c:), a drive letter with a colon and path separator appended (c:\), or any network share specification (\\computer2\share1).|

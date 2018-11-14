@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileOtherDelimiter Property (Excel)
+title: TextConnection.TextFileOtherDelimiter property (Excel)
 keywords: vbaxl10.chm926080
 f1_keywords:
 - vbaxl10.chm926080
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileOtherDelimiter Property (Excel)
+# TextConnection.TextFileOtherDelimiter property (Excel)
 
 Returns or sets the character used as the delimiter when you import a text file into a query table. The default value is  **null** . Read/Write **String** .
 

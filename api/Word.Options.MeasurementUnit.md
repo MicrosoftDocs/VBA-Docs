@@ -1,5 +1,5 @@
 ---
-title: Options.MeasurementUnit Property (Word)
+title: Options.MeasurementUnit property (Word)
 keywords: vbawd10.chm162988058
 f1_keywords:
 - vbawd10.chm162988058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MeasurementUnit Property (Word)
+# Options.MeasurementUnit property (Word)
 
 Returns or sets the standard measurement unit for Microsoft Word. Read/write  **WdMeasurementUnits** .
 

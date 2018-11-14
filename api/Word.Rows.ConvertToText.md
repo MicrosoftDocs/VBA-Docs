@@ -1,5 +1,5 @@
 ---
-title: Rows.ConvertToText Method (Word)
+title: Rows.ConvertToText method (Word)
 keywords: vbawd10.chm155975890
 f1_keywords:
 - vbawd10.chm155975890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.ConvertToText Method (Word)
+# Rows.ConvertToText method (Word)
 
 Converts rows in a table to text and returns a  **Range** object that represents the delimited text.
 

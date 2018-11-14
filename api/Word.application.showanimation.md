@@ -1,5 +1,5 @@
 ---
-title: Application.ShowAnimation Property (Word)
+title: Application.ShowAnimation property (Word)
 keywords: vbawd10.chm158335471
 f1_keywords:
 - vbawd10.chm158335471
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowAnimation Property (Word)
+# Application.ShowAnimation property (Word)
 
 This object or member is deprecated and is not intended to be used in your code.
 

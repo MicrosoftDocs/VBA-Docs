@@ -1,5 +1,5 @@
 ---
-title: LegendKey.ClearFormats Method (Excel)
+title: LegendKey.ClearFormats method (Excel)
 keywords: vbaxl10.chm590075
 f1_keywords:
 - vbaxl10.chm590075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.ClearFormats Method (Excel)
+# LegendKey.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

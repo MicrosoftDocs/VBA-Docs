@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Parent Property (Word)
+title: ListGallery.Parent property (Word)
 keywords: vbawd10.chm160695274
 f1_keywords:
 - vbawd10.chm160695274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery.Parent Property (Word)
+# ListGallery.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ListGallery** object.
 

@@ -1,5 +1,5 @@
 ---
-title: WdLetterheadLocation Enumeration (Word)
+title: WdLetterheadLocation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLetterheadLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLetterheadLocation Enumeration (Word)
+# WdLetterheadLocation enumeration (Word)
 
 Specifies a location to place letterhead in a letter created by the Letter Wizard.
 

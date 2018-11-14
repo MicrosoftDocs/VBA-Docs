@@ -1,5 +1,5 @@
 ---
-title: Cell.Formula Method (Word)
+title: Cell.Formula method (Word)
 keywords: vbawd10.chm156106953
 f1_keywords:
 - vbawd10.chm156106953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Formula Method (Word)
+# Cell.Formula method (Word)
 
 Inserts an = (Formula) field that contains the specified formula into a table cell.
 

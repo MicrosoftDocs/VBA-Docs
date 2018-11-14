@@ -1,5 +1,5 @@
 ---
-title: PivotField.AllItemsVisible Property (Excel)
+title: PivotField.AllItemsVisible property (Excel)
 keywords: vbaxl10.chm240152
 f1_keywords:
 - vbaxl10.chm240152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AllItemsVisible Property (Excel)
+# PivotField.AllItemsVisible property (Excel)
 
 Used to retrieve a Boolean value that indicates whether or not any manual filtering is applied to the PivotField. Read-only.
 

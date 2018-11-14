@@ -15,7 +15,7 @@ X parameters to pass to the  **Window.Scroll** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visScrollLeftPage**|2|Scroll horizontally so that the left edge of the drawing page is centered in the window.|
 | **visScrollLeft**|0|Scroll horizontally to the left the same distance as clicking the left scroll button.|

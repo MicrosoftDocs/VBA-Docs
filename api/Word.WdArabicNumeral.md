@@ -1,5 +1,5 @@
 ---
-title: WdArabicNumeral Enumeration (Word)
+title: WdArabicNumeral enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdArabicNumeral
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdArabicNumeral Enumeration (Word)
+# WdArabicNumeral enumeration (Word)
 
 Specifies the numeral style for an Arabic-language document.
 

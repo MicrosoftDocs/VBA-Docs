@@ -1,5 +1,5 @@
 ---
-title: WdProtectedViewCloseReason Enumeration (Word)
+title: WdProtectedViewCloseReason enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdProtectedViewCloseReason
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdProtectedViewCloseReason Enumeration (Word)
+# WdProtectedViewCloseReason enumeration (Word)
 
 Specifies how the [Protected View](Word.ProtectedViewWindow.md) window was closed.
 

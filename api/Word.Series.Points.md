@@ -1,5 +1,5 @@
 ---
-title: Series.Points Method (Word)
+title: Series.Points method (Word)
 keywords: vbawd10.chm123732038
 f1_keywords:
 - vbawd10.chm123732038
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Points Method (Word)
+# Series.Points method (Word)
 
 Returns a collection of all the points in the series.
 

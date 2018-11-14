@@ -1,5 +1,5 @@
 ---
-title: ListObject.Active Property (Excel)
+title: ListObject.Active property (Excel)
 keywords: vbaxl10.chm734081
 f1_keywords:
 - vbaxl10.chm734081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Active Property (Excel)
+# ListObject.Active property (Excel)
 
  Returns a **Boolean** value indicating whether a **[ListObject](Excel.ListObject.md)** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean** .
 

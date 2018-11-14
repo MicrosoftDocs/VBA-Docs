@@ -1,5 +1,5 @@
 ---
-title: Document.OMathNarySupSubLim Property (Word)
+title: Document.OMathNarySupSubLim property (Word)
 keywords: vbawd10.chm158007833
 f1_keywords:
 - vbawd10.chm158007833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathNarySupSubLim Property (Word)
+# Document.OMathNarySupSubLim property (Word)
 
 Returns or sets a  **Boolean** that represents the default location of limits for n-ary objects other than integrals. Read/write.
 

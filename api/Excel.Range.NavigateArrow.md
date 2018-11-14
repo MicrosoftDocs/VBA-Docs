@@ -1,5 +1,5 @@
 ---
-title: Range.NavigateArrow Method (Excel)
+title: Range.NavigateArrow method (Excel)
 keywords: vbaxl10.chm144163
 f1_keywords:
 - vbaxl10.chm144163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.NavigateArrow Method (Excel)
+# Range.NavigateArrow method (Excel)
 
 Navigates a tracer arrow for the specified range to the precedent, dependent, or error-causing cell or cells. Selects the precedent, dependent, or error cells and returns a  **[Range](Excel.Range(object).md)** object that represents the new selection. This method causes an error if it's applied to a cell without visible tracer arrows.
 

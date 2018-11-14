@@ -1,5 +1,5 @@
 ---
-title: Scenario.Comment Property (Excel)
+title: Scenario.Comment property (Excel)
 keywords: vbaxl10.chm364075
 f1_keywords:
 - vbaxl10.chm364075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Comment Property (Excel)
+# Scenario.Comment property (Excel)
 
 Returns or sets a  **String** value that represents the comment associated with the scenario.
 

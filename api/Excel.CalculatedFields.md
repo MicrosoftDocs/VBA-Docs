@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields Object (Excel)
+title: CalculatedFields object (Excel)
 keywords: vbaxl10.chm243072
 f1_keywords:
 - vbaxl10.chm243072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields Object (Excel)
+# CalculatedFields object (Excel)
 
 A collection of  **[PivotField](Excel.PivotField.md)** objects that represents all the calculated fields in the specified PivotTable report.
 

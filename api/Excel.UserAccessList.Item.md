@@ -1,5 +1,5 @@
 ---
-title: UserAccessList.Item Property (Excel)
+title: UserAccessList.Item property (Excel)
 keywords: vbaxl10.chm726074
 f1_keywords:
 - vbaxl10.chm726074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccessList.Item Property (Excel)
+# UserAccessList.Item property (Excel)
 
 Returns a single object from a collection.
 

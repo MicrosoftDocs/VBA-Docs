@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Base Method (Excel)
+title: WorksheetFunction.Base method (Excel)
 keywords: vbaxl10.chm137444
 f1_keywords:
 - vbaxl10.chm137444
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Base Method (Excel)
+# WorksheetFunction.Base method (Excel)
 
 Converts a number into a text representation with the given radix (base).
 
@@ -25,7 +25,7 @@ Converts a number into a text representation with the given radix (base).
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The number that you want to convert.|
 | _Arg2_|Required|DOUBLE|The base Radix that you want to convert the number into.|

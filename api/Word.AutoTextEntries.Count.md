@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.Count Property (Word)
+title: AutoTextEntries.Count property (Word)
 keywords: vbawd10.chm154599425
 f1_keywords:
 - vbawd10.chm154599425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries.Count Property (Word)
+# AutoTextEntries.Count property (Word)
 
 Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)** collection. Read-only **Long** .
 

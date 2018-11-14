@@ -1,5 +1,5 @@
 ---
-title: Floor Object (Word)
+title: Floor object (Word)
 keywords: vbawd10.chm702
 f1_keywords:
 - vbawd10.chm702
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor Object (Word)
+# Floor object (Word)
 
 Represents the floor of a 3-D chart.
 

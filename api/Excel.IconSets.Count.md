@@ -1,5 +1,5 @@
 ---
-title: IconSets.Count Property (Excel)
+title: IconSets.Count property (Excel)
 keywords: vbaxl10.chm820073
 f1_keywords:
 - vbaxl10.chm820073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSets.Count Property (Excel)
+# IconSets.Count property (Excel)
 
 Returns a  **Long** value that specifies the number of icon sets available in the workbook. Read-only.
 

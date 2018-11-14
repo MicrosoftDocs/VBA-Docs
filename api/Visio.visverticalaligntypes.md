@@ -15,7 +15,7 @@ Vertical alignment type values to pass to the  **Selection.Align** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visVertAlignBottom**|3|Align to bottom of primary selected shape.|
 | **visVertAlignMiddle**|2|Align to middle of primary selected shape.|

@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Clear Method (Excel)
+title: CellFormat.Clear method (Excel)
 keywords: vbaxl10.chm676088
 f1_keywords:
 - vbaxl10.chm676088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Clear Method (Excel)
+# CellFormat.Clear method (Excel)
 
 Clears the criterias set in the  **[FindFormat](Excel.Application.FindFormat.md)** and **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties.
 

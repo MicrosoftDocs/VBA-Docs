@@ -1,5 +1,5 @@
 ---
-title: XlDynamicFilterCriteria Enumeration (Excel)
+title: xlDynamicFilterCriteria enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDynamicFilterCriteria
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDynamicFilterCriteria Enumeration (Excel)
+# xlDynamicFilterCriteria enumeration (Excel)
 
 Specifies the filter criterion.
 

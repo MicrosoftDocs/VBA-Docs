@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileTabDelimiter Property (Excel)
+title: TextConnection.TextFileTabDelimiter property (Excel)
 keywords: vbaxl10.chm926087
 f1_keywords:
 - vbaxl10.chm926087
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileTabDelimiter Property (Excel)
+# TextConnection.TextFileTabDelimiter property (Excel)
 
  **True** if the tab character is the delimiter when you import a text file into a query table. The default value is **False** . Read/Write **Boolean**
 

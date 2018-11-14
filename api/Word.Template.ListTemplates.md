@@ -1,5 +1,5 @@
 ---
-title: Template.ListTemplates Property (Word)
+title: Template.ListTemplates property (Word)
 keywords: vbawd10.chm157941770
 f1_keywords:
 - vbawd10.chm157941770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.ListTemplates Property (Word)
+# Template.ListTemplates property (Word)
 
 Returns a  **[ListTemplates](Word.listtemplates.md)** collection that represents all the list formats for the specified template. Read-only.
 

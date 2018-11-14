@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.lcid Property (Excel)
+title: ListDataFormat.lcid property (Excel)
 keywords: vbaxl10.chm758078
 f1_keywords:
 - vbaxl10.chm758078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.lcid Property (Excel)
+# ListDataFormat.lcid property (Excel)
 
 Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.ListColumn.md)** object that is specified in the schema definition. Read-only **Long** .
 

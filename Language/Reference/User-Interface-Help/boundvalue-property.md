@@ -23,7 +23,7 @@ _object_. **BoundValue** [= _Variant_ ]
 The  **BoundValue** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The current state or content of the control.|

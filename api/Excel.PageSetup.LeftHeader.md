@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftHeader Property (Excel)
+title: PageSetup.LeftHeader property (Excel)
 keywords: vbaxl10.chm473087
 f1_keywords:
 - vbaxl10.chm473087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftHeader Property (Excel)
+# PageSetup.LeftHeader property (Excel)
 
 Returns or sets the alignment of text on the left header of a workbook or section.
 

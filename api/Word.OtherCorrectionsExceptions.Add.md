@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsExceptions.Add Method (Word)
+title: OtherCorrectionsExceptions.Add method (Word)
 keywords: vbawd10.chm165609573
 f1_keywords:
 - vbawd10.chm165609573
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsExceptions.Add Method (Word)
+# OtherCorrectionsExceptions.Add method (Word)
 
 Returns an  **OtherCorrectionsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Parent Property (Word)
+title: ProtectedViewWindow.Parent property (Word)
 keywords: vbawd10.chm231736298
 f1_keywords:
 - vbawd10.chm231736298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Parent Property (Word)
+# ProtectedViewWindow.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ProtectedViewWindow** object.
 

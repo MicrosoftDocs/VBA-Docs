@@ -1,5 +1,5 @@
 ---
-title: TextConnection Object (Excel)
+title: TextConnection object (Excel)
 keywords: vbaxl10.chm925072
 f1_keywords:
 - vbaxl10.chm925072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection Object (Excel)
+# TextConnection object (Excel)
 
 Contains Service Contract settings that enable Microsoft Excel to connect to a Data Feed data source.
 

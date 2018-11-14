@@ -1,5 +1,5 @@
 ---
-title: Document.WebPagePreview Method (Word)
+title: Document.WebPagePreview method (Word)
 keywords: vbawd10.chm158007621
 f1_keywords:
 - vbawd10.chm158007621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.WebPagePreview Method (Word)
+# Document.WebPagePreview method (Word)
 
 Displays a preview of the current document as it would look if saved as a Web page.
 

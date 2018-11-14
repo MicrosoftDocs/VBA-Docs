@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.RelatedWordList Property (Word)
+title: SynonymInfo.RelatedWordList property (Word)
 keywords: vbawd10.chm161153034
 f1_keywords:
 - vbawd10.chm161153034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.RelatedWordList Property (Word)
+# SynonymInfo.RelatedWordList property (Word)
 
 Returns a list of words related to the specified word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
 

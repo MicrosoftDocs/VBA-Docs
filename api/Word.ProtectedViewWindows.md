@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows Object (Word)
+title: ProtectedViewWindows object (Word)
 ms.prod: word
 api_name:
 - Word.ProtectedViewWindows
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows Object (Word)
+# ProtectedViewWindows object (Word)
 
 A collection of all the [ProtectedViewWindow](Word.ProtectedViewWindow.md) objects that are currently open in Word.
 

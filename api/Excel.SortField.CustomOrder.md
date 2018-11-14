@@ -1,5 +1,5 @@
 ---
-title: SortField.CustomOrder Property (Excel)
+title: SortField.CustomOrder property (Excel)
 keywords: vbaxl10.chm843077
 f1_keywords:
 - vbaxl10.chm843077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.CustomOrder Property (Excel)
+# SortField.CustomOrder property (Excel)
 
 Specifies a custom order to sort the fields. Read/write  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathScrSubSup.RemoveSub Method (Word)
+title: OMathScrSubSup.RemoveSub method (Word)
 keywords: vbawd10.chm181665992
 f1_keywords:
 - vbawd10.chm181665992
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSubSup.RemoveSub Method (Word)
+# OMathScrSubSup.RemoveSub method (Word)
 
 Removes the subscript for an equation and returns an  **OMathFunction** object that represents the updated equation without the subscript.
 

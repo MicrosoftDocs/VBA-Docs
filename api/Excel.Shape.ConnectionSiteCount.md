@@ -1,5 +1,5 @@
 ---
-title: Shape.ConnectionSiteCount Property (Excel)
+title: Shape.ConnectionSiteCount property (Excel)
 keywords: vbaxl10.chm636093
 f1_keywords:
 - vbaxl10.chm636093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ConnectionSiteCount Property (Excel)
+# Shape.ConnectionSiteCount property (Excel)
 
 Returns the number of connection sites on the specified shape. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.IconCriteria Property (Excel)
+title: IconSetCondition.IconCriteria property (Excel)
 keywords: vbaxl10.chm812088
 f1_keywords:
 - vbaxl10.chm812088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.IconCriteria Property (Excel)
+# IconSetCondition.IconCriteria property (Excel)
 
 Returns an  **[IconCriteria](Excel.IconCriteria.md)** collection, which represents the set of criteria for an icon set conditional formatting rule.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Justify Method (Excel)
+title: Range.Justify method (Excel)
 keywords: vbaxl10.chm144152
 f1_keywords:
 - vbaxl10.chm144152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Justify Method (Excel)
+# Range.Justify method (Excel)
 
 Rearranges the text in a range so that it fills the range evenly.
 

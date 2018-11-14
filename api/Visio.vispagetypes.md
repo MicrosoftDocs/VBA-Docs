@@ -15,7 +15,7 @@ Type codes returned by the  **Page.Type** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPageTypeInval**|0|Not a Microsoft Visio page.|
 | **visTypeBackground**|2|A background page.|

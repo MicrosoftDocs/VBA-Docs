@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetExceptions.Item Method (Word)
+title: HangulAndAlphabetExceptions.Item method (Word)
 keywords: vbawd10.chm164691968
 f1_keywords:
 - vbawd10.chm164691968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetExceptions.Item Method (Word)
+# HangulAndAlphabetExceptions.Item method (Word)
 
 Returns an individual  **HangulAndAlphabetException** object in a collection.
 

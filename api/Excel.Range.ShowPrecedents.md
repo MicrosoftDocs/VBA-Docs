@@ -1,5 +1,5 @@
 ---
-title: Range.ShowPrecedents Method (Excel)
+title: Range.ShowPrecedents method (Excel)
 keywords: vbaxl10.chm144198
 f1_keywords:
 - vbaxl10.chm144198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ShowPrecedents Method (Excel)
+# Range.ShowPrecedents method (Excel)
 
 Draws tracer arrows to the direct precedents of the range.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.ScaleType Property (Excel)
+title: Axis.ScaleType property (Excel)
 keywords: vbaxl10.chm561097
 f1_keywords:
 - vbaxl10.chm561097
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.ScaleType Property (Excel)
+# Axis.ScaleType property (Excel)
 
-Returns or sets the value axis scale type. Read/write  **[XlScaleType](Excel.XlScaleType.md)** .
+Returns or sets the value axis scale type. Read/write  **[xlScaleType](Excel.XlScaleType.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the value axis scale type. Read/write  **[XlScaleType](Excel.XlS
 
 
 
-| **XlScaleType** can be one of these **XlScaleType** constants.|
+| **xlScaleType** can be one of these **xlScaleType** constants.|
 | **xlScaleLinear**|
 | **xlScaleLogarithmic**|
 

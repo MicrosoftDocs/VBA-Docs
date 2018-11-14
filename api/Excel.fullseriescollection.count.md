@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Count Property (Excel)
+title: FullSeriesCollection.Count property (Excel)
 keywords: vbaxl10.chm944074
 f1_keywords:
 - vbaxl10.chm944074
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Count Property (Excel)
+# FullSeriesCollection.Count property (Excel)
 
-Returns a  **Long** value that represents the number of[Series Object (Excel)](Excel.Series(object).md) objects in the [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md) object. Read-only.
+Returns a  **Long** value that represents the number of[Series object (Excel)](Excel.Series(object).md) objects in the [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [FullSeriesCollection Object (Excel)](Excel.fullseriescollection.md)object.
+ _expression_ A variable that represents a [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md)object.
 
 
 ## Property value

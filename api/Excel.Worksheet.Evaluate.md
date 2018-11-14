@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Evaluate Method (Excel)
+title: Worksheet.Evaluate method (Excel)
 keywords: vbaxl10.chm175098
 f1_keywords:
 - vbaxl10.chm175098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Evaluate Method (Excel)
+# Worksheet.Evaluate method (Excel)
 
 Converts a Microsoft Excel name to an object or a value.
 

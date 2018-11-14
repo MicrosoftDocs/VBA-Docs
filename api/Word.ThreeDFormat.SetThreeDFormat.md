@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetThreeDFormat Method (Word)
+title: ThreeDFormat.SetThreeDFormat method (Word)
 keywords: vbawd10.chm164626445
 f1_keywords:
 - vbawd10.chm164626445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetThreeDFormat Method (Word)
+# ThreeDFormat.SetThreeDFormat method (Word)
 
 Sets the preset extrusion format.
 

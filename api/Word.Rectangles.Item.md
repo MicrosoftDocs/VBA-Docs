@@ -1,5 +1,5 @@
 ---
-title: Rectangles.Item Method (Word)
+title: Rectangles.Item method (Word)
 ms.prod: word
 api_name:
 - Word.Rectangles.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangles.Item Method (Word)
+# Rectangles.Item method (Word)
 
 Returns an individual  **Rectangle** object in a collection.
 

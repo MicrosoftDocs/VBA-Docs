@@ -1,5 +1,5 @@
 ---
-title: Selection.ParagraphFormat Property (Word)
+title: Selection.ParagraphFormat property (Word)
 keywords: vbawd10.chm158663758
 f1_keywords:
 - vbawd10.chm158663758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ParagraphFormat Property (Word)
+# Selection.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified selection. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.Parent Property (Excel)
+title: ChartCategory.Parent property (Excel)
 keywords: vbaxl10.chm946073
 f1_keywords:
 - vbaxl10.chm946073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.Parent Property (Excel)
+# ChartCategory.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

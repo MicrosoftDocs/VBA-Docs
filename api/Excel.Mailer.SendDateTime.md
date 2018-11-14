@@ -1,5 +1,5 @@
 ---
-title: Mailer.SendDateTime Property (Excel)
+title: Mailer.SendDateTime property (Excel)
 keywords: vbaxl10.chm499077
 f1_keywords:
 - vbaxl10.chm499077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.SendDateTime Property (Excel)
+# Mailer.SendDateTime property (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

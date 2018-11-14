@@ -1,5 +1,5 @@
 ---
-title: Document.Indexes Property (Word)
+title: Document.Indexes property (Word)
 keywords: vbawd10.chm158007335
 f1_keywords:
 - vbawd10.chm158007335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Indexes Property (Word)
+# Document.Indexes property (Word)
 
 Returns an  **[Indexes](Word.indexes.md)** collection that represents all the indexes in the specified document. Read-only.
 

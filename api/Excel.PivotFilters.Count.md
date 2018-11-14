@@ -1,5 +1,5 @@
 ---
-title: PivotFilters.Count Property (Excel)
+title: PivotFilters.Count property (Excel)
 keywords: vbaxl10.chm772076
 f1_keywords:
 - vbaxl10.chm772076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilters.Count Property (Excel)
+# PivotFilters.Count property (Excel)
 
 Returns the number of items in the  **PivotFilters** collection. Read-only.
 

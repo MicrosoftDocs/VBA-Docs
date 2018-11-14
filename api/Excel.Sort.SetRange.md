@@ -1,5 +1,5 @@
 ---
-title: Sort.SetRange Method (Excel)
+title: Sort.SetRange method (Excel)
 keywords: vbaxl10.chm847079
 f1_keywords:
 - vbaxl10.chm847079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.SetRange Method (Excel)
+# Sort.SetRange method (Excel)
 
 Sets the range over which the sort occurs.
 

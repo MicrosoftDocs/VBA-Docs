@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames.Item Method (Excel)
+title: ModelMeasureNames.Item method (Excel)
 keywords: vbaxl10.chm972074
 f1_keywords:
 - vbaxl10.chm972074
@@ -9,29 +9,29 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames.Item Method (Excel)
+# ModelMeasureNames.Item method (Excel)
 
-Returns a single object from the [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
+Returns a single object from the [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelMeasureNames Object (Excel)](Excel.modelmeasurenames.md) object.
+ _expression_ A variable that represents a [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
 ## Return value
 
-A [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) object contained in the collection.
+A [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object contained in the collection.
 
 
 ## See also

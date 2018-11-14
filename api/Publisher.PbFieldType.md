@@ -21,7 +21,7 @@ Represents the field type.
 |:-----|:-----|:-----|
 | **pbFieldDateTime**|4|Date and time|
 | **pbFieldHyperlinkAbsolutePage**|11| Absolute page hyperlink|
-| **pbFieldHyperlinkEmail**|12|E-mail hyperlink|
+| **pbFieldHyperlinkEmail**|12|Email hyperlink|
 | **pbFieldHyperlinkFile**|13|File hyperlink|
 | **pbFieldHyperlinkRelativePage**|10|Relative page hyperlink|
 | **pbFieldHyperlinkURL**|9|URL hyperlink|

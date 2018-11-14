@@ -1,5 +1,5 @@
 ---
-title: Chart.Floor Property (Word)
+title: Chart.Floor property (Word)
 keywords: vbawd10.chm79364153
 f1_keywords:
 - vbawd10.chm79364153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Floor Property (Word)
+# Chart.Floor property (Word)
 
 Returns the floor of the 3-D chart. Read-only  **[Floor](Word.Floor.md)** .
 

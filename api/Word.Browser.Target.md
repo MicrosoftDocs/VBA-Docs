@@ -1,5 +1,5 @@
 ---
-title: Browser.Target Property (Word)
+title: Browser.Target property (Word)
 keywords: vbawd10.chm154009601
 f1_keywords:
 - vbawd10.chm154009601
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser.Target Property (Word)
+# Browser.Target property (Word)
 
 Returns or sets the document item that the  **Previous** and **Next** methods locate. Read/write **WdBrowseTarget** .
 

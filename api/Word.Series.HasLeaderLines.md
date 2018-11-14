@@ -1,5 +1,5 @@
 ---
-title: Series.HasLeaderLines Property (Word)
+title: Series.HasLeaderLines property (Word)
 keywords: vbawd10.chm123733362
 f1_keywords:
 - vbawd10.chm123733362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.HasLeaderLines Property (Word)
+# Series.HasLeaderLines property (Word)
 
  **True** if the series has leader lines. Read/write **Boolean** .
 

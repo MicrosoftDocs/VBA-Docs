@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerSize Property (Word)
+title: LegendKey.MarkerSize property (Word)
 keywords: vbawd10.chm266207463
 f1_keywords:
 - vbawd10.chm266207463
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerSize Property (Word)
+# LegendKey.MarkerSize property (Word)
 
 Returns or sets the data-marker size, in points. Read/write  **Long** .
 

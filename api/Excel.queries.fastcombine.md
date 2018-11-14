@@ -1,5 +1,5 @@
 ---
-title: Queries.FastCombine Property (Excel)
+title: Queries.FastCombine property (Excel)
 keywords: vbaxl10.chm976078
 f1_keywords:
 - vbaxl10.chm976078
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.FastCombine Property (Excel)
+# Queries.FastCombine property (Excel)
 
  **True** to enable the fast combine feature, as long as the workbook is open. Read/write **Boolean**.
 

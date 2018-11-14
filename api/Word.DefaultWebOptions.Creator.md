@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Creator Property (Word)
+title: DefaultWebOptions.Creator property (Word)
 keywords: vbawd10.chm165872617
 f1_keywords:
 - vbawd10.chm165872617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Creator Property (Word)
+# DefaultWebOptions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

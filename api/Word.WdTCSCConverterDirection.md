@@ -1,5 +1,5 @@
 ---
-title: WdTCSCConverterDirection Enumeration (Word)
+title: WdTCSCConverterDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTCSCConverterDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTCSCConverterDirection Enumeration (Word)
+# WdTCSCConverterDirection enumeration (Word)
 
 Specifies how to convert between Traditional Chinese and Simplified Chinese.
 

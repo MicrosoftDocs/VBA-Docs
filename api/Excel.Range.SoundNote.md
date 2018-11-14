@@ -1,5 +1,5 @@
 ---
-title: Range.SoundNote Property (Excel)
+title: Range.SoundNote property (Excel)
 keywords: vbaxl10.chm144202
 f1_keywords:
 - vbaxl10.chm144202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SoundNote Property (Excel)
+# Range.SoundNote property (Excel)
 
 This property should not be used. Sound notes have been removed from Microsoft Excel.
 

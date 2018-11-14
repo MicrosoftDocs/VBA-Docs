@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Text Method (Excel)
+title: WorksheetFunction.Text method (Excel)
 keywords: vbaxl10.chm137102
 f1_keywords:
 - vbaxl10.chm137102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Text Method (Excel)
+# WorksheetFunction.Text method (Excel)
 
 Converts a value to text in a specific number format.
 

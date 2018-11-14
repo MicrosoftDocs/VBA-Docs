@@ -1,5 +1,5 @@
 ---
-title: OMathMat.ColSpacing Property (Word)
+title: OMathMat.ColSpacing property (Word)
 keywords: vbawd10.chm176029806
 f1_keywords:
 - vbawd10.chm176029806
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.ColSpacing Property (Word)
+# OMathMat.ColSpacing property (Word)
 
 Returns or sets a  **Long** that represents the spacing for columns in a matrix. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.Top Property (Excel)
+title: Shape.Top property (Excel)
 keywords: vbaxl10.chm636110
 f1_keywords:
 - vbaxl10.chm636110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Top Property (Excel)
+# Shape.Top property (Excel)
 
 Returns or sets a  **Single** value that represents the distance, in points, from the top edge of the topmost shape in the shape range to the top edge of the worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.View Property (Excel)
+title: Window.View property (Excel)
 keywords: vbaxl10.chm356127
 f1_keywords:
 - vbaxl10.chm356127
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.View Property (Excel)
+# Window.View property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[XlWindowView](Excel.XlWindowView.md)** .
+Returns or sets the view showing in the window. Read/write  **[xlWindowView](Excel.XlWindowView.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the view showing in the window. Read/write  **[XlWindowView](Exc
 
 
 
-| **XlWindowView** can be one of these **XlWindowView** constants.|
+| **xlWindowView** can be one of these **xlWindowView** constants.|
 | **xlNormalView**|
 | **xlPageBreakPreview**|
 | **xlPageLayoutView**|

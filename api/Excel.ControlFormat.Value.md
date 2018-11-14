@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.Value Property (Excel)
+title: ControlFormat.Value property (Excel)
 keywords: vbaxl10.chm630091
 f1_keywords:
 - vbaxl10.chm630091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.Value Property (Excel)
+# ControlFormat.Value property (Excel)
 
 Returns or sets a  **Long** value that represents the name of specified control format.
 

@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.PortugalReform Property (Excel)
+title: SpellingOptions.PortugalReform property (Excel)
 keywords: vbaxl10.chm717090
 f1_keywords:
 - vbaxl10.chm717090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.PortugalReform Property (Excel)
+# SpellingOptions.PortugalReform property (Excel)
 
 Returns or sets the mode for checking the spelling of European Portuguese. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the mode for checking the spelling of European Portuguese. Read/
 
 ## Return value
 
- **[XlPortugueseReform](Excel.XlPortugueseReform.md)**
+ **[xlPortugueseReform](Excel.XlPortugueseReform.md)**
 
 
 ## Remarks

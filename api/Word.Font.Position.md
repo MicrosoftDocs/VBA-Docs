@@ -1,5 +1,5 @@
 ---
-title: Font.Position Property (Word)
+title: Font.Position property (Word)
 keywords: vbawd10.chm156369039
 f1_keywords:
 - vbawd10.chm156369039
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Position Property (Word)
+# Font.Position property (Word)
 
 Returns or sets the position of text (in points) relative to the base line. Read/write  **Long** .
 

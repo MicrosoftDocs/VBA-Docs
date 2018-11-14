@@ -1,5 +1,5 @@
 ---
-title: Cell.Select Method (Word)
+title: Cell.Select method (Word)
 keywords: vbawd10.chm156172287
 f1_keywords:
 - vbawd10.chm156172287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Select Method (Word)
+# Cell.Select method (Word)
 
 Selects the specified object.
 

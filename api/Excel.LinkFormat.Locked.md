@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Locked Property (Excel)
+title: LinkFormat.Locked property (Excel)
 keywords: vbaxl10.chm634074
 f1_keywords:
 - vbaxl10.chm634074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Locked Property (Excel)
+# LinkFormat.Locked property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the object is locked.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MaxChange Property (Excel)
+title: Application.MaxChange property (Excel)
 keywords: vbaxl10.chm133162
 f1_keywords:
 - vbaxl10.chm133162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MaxChange Property (Excel)
+# Application.MaxChange property (Excel)
 
 Returns or sets the maximum amount of change between each iteration as Microsoft Excel resolves circular references. Read/write  **Double** .
 

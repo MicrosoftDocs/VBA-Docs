@@ -1,5 +1,5 @@
 ---
-title: WdInlineShapeType Enumeration (Word)
+title: WdInlineShapeType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdInlineShapeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdInlineShapeType Enumeration (Word)
+# WdInlineShapeType enumeration (Word)
 
 Specifies a shape type for inline shapes.
 

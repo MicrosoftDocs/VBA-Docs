@@ -1,5 +1,5 @@
 ---
-title: Selection Object (Word)
+title: Selection object (Word)
 keywords: vbawd10.chm2421
 f1_keywords:
 - vbawd10.chm2421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection Object (Word)
+# Selection object (Word)
 
 Represents the current selection in a window or pane. A selection represents either a selected (or highlighted) area in the document, or it represents the insertion point if nothing in the document is selected. There can be only one  **Selection** object per document window pane, and only one **Selection** object in the entire application can be active.
 

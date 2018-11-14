@@ -1,5 +1,5 @@
 ---
-title: Global.PrintPreview Property (Word)
+title: Global.PrintPreview property (Word)
 keywords: vbawd10.chm163119131
 f1_keywords:
 - vbawd10.chm163119131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.PrintPreview Property (Word)
+# Global.PrintPreview property (Word)
 
  **True** if print preview is the current view. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.EnableDrilldown Property (Excel)
+title: PivotTable.EnableDrilldown property (Excel)
 keywords: vbaxl10.chm235106
 f1_keywords:
 - vbaxl10.chm235106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.EnableDrilldown Property (Excel)
+# PivotTable.EnableDrilldown property (Excel)
 
  **True** if drilldown is enabled. The default value is **True** . Read/write **Boolean** .
 

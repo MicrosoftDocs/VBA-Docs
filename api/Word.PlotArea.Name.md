@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Name Property (Word)
+title: PlotArea.Name property (Word)
 keywords: vbawd10.chm53477486
 f1_keywords:
 - vbawd10.chm53477486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Name Property (Word)
+# PlotArea.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

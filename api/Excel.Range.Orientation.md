@@ -1,5 +1,5 @@
 ---
-title: Range.Orientation Property (Excel)
+title: Range.Orientation property (Excel)
 keywords: vbaxl10.chm144170
 f1_keywords:
 - vbaxl10.chm144170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Orientation Property (Excel)
+# Range.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 

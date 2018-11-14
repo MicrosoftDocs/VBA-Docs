@@ -1,5 +1,5 @@
 ---
-title: XmlMap.DataBinding Property (Excel)
+title: XmlMap.DataBinding property (Excel)
 keywords: vbaxl10.chm754085
 f1_keywords:
 - vbaxl10.chm754085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.DataBinding Property (Excel)
+# XmlMap.DataBinding property (Excel)
 
 Returns an  **[XmlDataBinding](Excel.XmlDataBinding.md)** object that represents the binding associated with the specified schema map. Read-only.
 

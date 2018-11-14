@@ -1,5 +1,5 @@
 ---
-title: Range.CopyPicture Method (Excel)
+title: Range.CopyPicture method (Excel)
 keywords: vbaxl10.chm144106
 f1_keywords:
 - vbaxl10.chm144106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CopyPicture Method (Excel)
+# Range.CopyPicture method (Excel)
 
 Copies the selected object to the Clipboard as a picture.  **Variant** .
 
@@ -29,8 +29,8 @@ Copies the selected object to the Clipboard as a picture.  **Variant** .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied.|
-| _Format_|Optional| **[XlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture.|
+| _Appearance_|Optional| **[xlPictureAppearance](Excel.XlPictureAppearance.md)**|. Specifies how the picture should be copied.|
+| _Format_|Optional| **[xlCopyPictureFormat](Excel.XlCopyPictureFormat.md)**|. The format of the picture.|
 
 ## Return value
 

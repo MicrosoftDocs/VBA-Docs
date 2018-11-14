@@ -1,5 +1,5 @@
 ---
-title: Frame.HorizontalDistanceFromText Property (Word)
+title: Frame.HorizontalDistanceFromText property (Word)
 keywords: vbawd10.chm153747459
 f1_keywords:
 - vbawd10.chm153747459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.HorizontalDistanceFromText Property (Word)
+# Frame.HorizontalDistanceFromText property (Word)
 
 Returns or sets the horizontal distance between a frame and the surrounding text, in points. Read/write  **Single** .
 

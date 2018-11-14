@@ -1,5 +1,5 @@
 ---
-title: TextFrame.AutoSize Property (Excel)
+title: TextFrame.AutoSize property (Excel)
 keywords: vbaxl10.chm644081
 f1_keywords:
 - vbaxl10.chm644081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.AutoSize Property (Excel)
+# TextFrame.AutoSize property (Excel)
 
  **True** if the size of the specified object is changed automatically to fit text within its boundaries. Read/write **Boolean** .
 

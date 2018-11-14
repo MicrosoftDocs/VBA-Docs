@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Creator Property (Word)
+title: Conflicts.Creator property (Word)
 keywords: vbawd10.chm174392297
 f1_keywords:
 - vbawd10.chm174392297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.Creator Property (Word)
+# Conflicts.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

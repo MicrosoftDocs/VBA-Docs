@@ -1,5 +1,5 @@
 ---
-title: OMathDelim Object (Word)
+title: OMathDelim object (Word)
 keywords: vbawd10.chm2214
 f1_keywords:
 - vbawd10.chm2214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim Object (Word)
+# OMathDelim object (Word)
 
 Represents a delimiter object, consisting of opening and closing delimiters (such as parentheses, braces, brackets, or vertical bars), and one or more elements contained inside the delimiters.
 

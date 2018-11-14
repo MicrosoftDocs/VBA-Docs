@@ -1,5 +1,5 @@
 ---
-title: OtherCorrectionsException.Name Property (Word)
+title: OtherCorrectionsException.Name property (Word)
 keywords: vbawd10.chm165740546
 f1_keywords:
 - vbawd10.chm165740546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OtherCorrectionsException.Name Property (Word)
+# OtherCorrectionsException.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

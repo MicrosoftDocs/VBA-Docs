@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatGeneral Property (Excel)
+title: Model.ModelFormatGeneral property (Excel)
 keywords: vbaxl10.chm942082
 f1_keywords:
 - vbaxl10.chm942082
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatGeneral Property (Excel)
+# Model.ModelFormatGeneral property (Excel)
 
 Returns a [ModelFormatGeneral](Excel.modelformatgeneral.md) object that represents formatting of type general in the data model. Read-only.
 

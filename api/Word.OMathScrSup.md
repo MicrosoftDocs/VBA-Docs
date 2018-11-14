@@ -1,5 +1,5 @@
 ---
-title: OMathScrSup Object (Word)
+title: OMathScrSup object (Word)
 keywords: vbawd10.chm1830
 f1_keywords:
 - vbawd10.chm1830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSup Object (Word)
+# OMathScrSup object (Word)
 
 Represents an equation with a base that contains a superscript.
 

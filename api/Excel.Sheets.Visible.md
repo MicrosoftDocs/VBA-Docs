@@ -1,5 +1,5 @@
 ---
-title: Sheets.Visible Property (Excel)
+title: Sheets.Visible property (Excel)
 keywords: vbaxl10.chm152086
 f1_keywords:
 - vbaxl10.chm152086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Visible Property (Excel)
+# Sheets.Visible property (Excel)
 
 Returns or sets a  **Variant** value that determines whether the object is visible.
 

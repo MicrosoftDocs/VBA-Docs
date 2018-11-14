@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayGridLines Property (Word)
+title: Options.DisplayGridLines property (Word)
 keywords: vbawd10.chm162988338
 f1_keywords:
 - vbawd10.chm162988338
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DisplayGridLines Property (Word)
+# Options.DisplayGridLines property (Word)
 
  **True** if Microsoft Word displays the document grid. This property is the equivalent of the **Gridlines** command on the **View** menu. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: RTD.RestartServers Method (Excel)
+title: RTD.RestartServers method (Excel)
 keywords: vbaxl10.chm728075
 f1_keywords:
 - vbaxl10.chm728075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RTD.RestartServers Method (Excel)
+# RTD.RestartServers method (Excel)
 
 Reconnects to a real-time data server (RTD).
 

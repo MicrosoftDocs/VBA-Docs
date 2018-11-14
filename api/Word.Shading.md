@@ -1,5 +1,5 @@
 ---
-title: Shading Object (Word)
+title: Shading object (Word)
 keywords: vbawd10.chm2362
 f1_keywords:
 - vbawd10.chm2362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading Object (Word)
+# Shading object (Word)
 
 Contains shading attributes for an object.
 

@@ -23,7 +23,7 @@ _object_. **MatchEntry** [= _fmMatchEntry_ ]
 The  **MatchEntry** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmMatchEntry_|Optional. The rule used to match entries in the list.|
@@ -32,7 +32,7 @@ The  **MatchEntry** property syntax has these parts:
 The settings for  _fmMatchEntry_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmMatchEntryFirstLetter_|0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter [cycles](../../Glossary/glossary-vba.md#cycle) through all entries beginning with that letter.|
 | _FmMatchEntryComplete_|1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|

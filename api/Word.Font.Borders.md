@@ -1,5 +1,5 @@
 ---
-title: Font.Borders Property (Word)
+title: Font.Borders property (Word)
 keywords: vbawd10.chm156369996
 f1_keywords:
 - vbawd10.chm156369996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Borders Property (Word)
+# Font.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified font.
 

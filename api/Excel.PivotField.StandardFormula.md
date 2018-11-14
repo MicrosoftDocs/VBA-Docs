@@ -1,5 +1,5 @@
 ---
-title: PivotField.StandardFormula Property (Excel)
+title: PivotField.StandardFormula property (Excel)
 keywords: vbaxl10.chm240128
 f1_keywords:
 - vbaxl10.chm240128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.StandardFormula Property (Excel)
+# PivotField.StandardFormula property (Excel)
 
 Returns or sets a  **String** specifying formulas with standard English (United States) formatting. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeReplaceQuotes Property (Word)
+title: Options.AutoFormatAsYouTypeReplaceQuotes property (Word)
 keywords: vbawd10.chm162988296
 f1_keywords:
 - vbawd10.chm162988296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeReplaceQuotes Property (Word)
+# Options.AutoFormatAsYouTypeReplaceQuotes property (Word)
 
  **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean** .
 

@@ -43,7 +43,7 @@ The following possible values for  _Distribute_ are declared in **VisDistributeT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDistHorzCenter**|2|Distributes shapes horizontally so that their bottom edges are uniformly spaced.|
 | **visDistHorzLeft**|1|Distributes shapes horizontally so that their left edges are uniformly spaced.|

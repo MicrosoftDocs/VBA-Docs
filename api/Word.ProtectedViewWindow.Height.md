@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Height Property (Word)
+title: ProtectedViewWindow.Height property (Word)
 keywords: vbawd10.chm231735301
 f1_keywords:
 - vbawd10.chm231735301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Height Property (Word)
+# ProtectedViewWindow.Height property (Word)
 
 Returns or sets the height of the protected view window. Read/write  **Long** .
 

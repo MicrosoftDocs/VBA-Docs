@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.ClearAll Method (Word)
+title: Dictionaries.ClearAll method (Word)
 keywords: vbawd10.chm162267238
 f1_keywords:
 - vbawd10.chm162267238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.ClearAll Method (Word)
+# Dictionaries.ClearAll method (Word)
 
 Unloads all of the custom or conversion dictionaries.
 

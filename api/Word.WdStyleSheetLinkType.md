@@ -1,5 +1,5 @@
 ---
-title: WdStyleSheetLinkType Enumeration (Word)
+title: WdStyleSheetLinkType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStyleSheetLinkType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStyleSheetLinkType Enumeration (Word)
+# WdStyleSheetLinkType enumeration (Word)
 
 Specifies how to associate a style sheet with the document.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CenterFooter Property (Excel)
+title: PageSetup.CenterFooter property (Excel)
 keywords: vbaxl10.chm473075
 f1_keywords:
 - vbaxl10.chm473075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CenterFooter Property (Excel)
+# PageSetup.CenterFooter property (Excel)
 
 Center aligns the footer information in the  **PageSetup** object. Read/write **String** .
 

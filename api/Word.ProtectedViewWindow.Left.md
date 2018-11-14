@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Left Property (Word)
+title: ProtectedViewWindow.Left property (Word)
 keywords: vbawd10.chm231735298
 f1_keywords:
 - vbawd10.chm231735298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Left Property (Word)
+# ProtectedViewWindow.Left property (Word)
 
 Returns or sets a  **Long** , in points, that represents the horizontal position of the specified protected view window. Read/write.
 

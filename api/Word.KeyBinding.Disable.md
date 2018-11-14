@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Disable Method (Word)
+title: KeyBinding.Disable method (Word)
 keywords: vbawd10.chm160956518
 f1_keywords:
 - vbawd10.chm160956518
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Disable Method (Word)
+# KeyBinding.Disable method (Word)
 
 Removes the specified key combination if it is currently assigned to a command. After you use this method, the key combination has no effect.
 

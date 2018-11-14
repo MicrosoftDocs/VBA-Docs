@@ -1,5 +1,5 @@
 ---
-title: Validation.Modify Method (Excel)
+title: Validation.Modify method (Excel)
 keywords: vbaxl10.chm532085
 f1_keywords:
 - vbaxl10.chm532085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Modify Method (Excel)
+# Validation.Modify method (Excel)
 
 Modifies data validation for a range.
 
@@ -29,9 +29,9 @@ Modifies data validation for a range.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|An  **XlDVType** value that represents the validation type.|
-| _AlertStyle_|Optional| **Variant**|An  **[XlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|
-| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the data validation operator.|
+| _Type_|Optional| **Variant**|An  **xlDVType** value that represents the validation type.|
+| _AlertStyle_|Optional| **Variant**|An  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** value that represents the validation alert style.|
+| _Operator_|Optional| **Variant**|An  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the data validation operator.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation.|
 | _Formula2_|Optional| **Variant**|The second part of the data validation when  **Operator** is **xlBetween** or **xlNotBetween** ; otherwise, this argument is ignored.|
 

@@ -1,5 +1,5 @@
 ---
-title: Document.FreezeLayout Method (Word)
+title: Document.FreezeLayout method (Word)
 keywords: vbawd10.chm158007849
 f1_keywords:
 - vbawd10.chm158007849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FreezeLayout Method (Word)
+# Document.FreezeLayout method (Word)
 
 In Web view, fixes the layout of the document as it currently appears so that line breaks remain fixed and ink annotations do not move when you resize the window.
 

@@ -1,5 +1,5 @@
 ---
-title: Phonetic.Parent Property (Excel)
+title: Phonetic.Parent property (Excel)
 keywords: vbaxl10.chm627075
 f1_keywords:
 - vbaxl10.chm627075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetic.Parent Property (Excel)
+# Phonetic.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

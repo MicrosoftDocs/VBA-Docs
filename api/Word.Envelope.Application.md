@@ -1,5 +1,5 @@
 ---
-title: Envelope.Application Property (Word)
+title: Envelope.Application property (Word)
 keywords: vbawd10.chm152568808
 f1_keywords:
 - vbawd10.chm152568808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Application Property (Word)
+# Envelope.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

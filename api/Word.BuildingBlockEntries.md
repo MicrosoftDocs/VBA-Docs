@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries Object (Word)
+title: BuildingBlockEntries object (Word)
 keywords: vbawd10.chm553
 f1_keywords:
 - vbawd10.chm553
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockEntries Object (Word)
+# BuildingBlockEntries object (Word)
 
 Represents a collection of all  **[BuildingBlock](Word.BuildingBlock.md)** objects in a template.
 

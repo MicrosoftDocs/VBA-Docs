@@ -1,5 +1,5 @@
 ---
-title: Borders.InsideLineStyle Property (Word)
+title: Borders.InsideLineStyle property (Word)
 keywords: vbawd10.chm154927110
 f1_keywords:
 - vbawd10.chm154927110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.InsideLineStyle Property (Word)
+# Borders.InsideLineStyle property (Word)
 
 Returns or sets the inside border for the specified object. .
 

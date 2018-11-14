@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SlicerCacheLevels Property (Excel)
+title: SlicerCache.SlicerCacheLevels property (Excel)
 keywords: vbaxl10.chm897079
 f1_keywords:
 - vbaxl10.chm897079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SlicerCacheLevels Property (Excel)
+# SlicerCache.SlicerCacheLevels property (Excel)
 
 Returns the collection of  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** objects that represent the levels of an OLAP hierarchy on which the specified slicer cache is based. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: Documents.CheckOut Method (Word)
+title: Documents.CheckOut method (Word)
 keywords: vbawd10.chm158072848
 f1_keywords:
 - vbawd10.chm158072848
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.CheckOut Method (Word)
+# Documents.CheckOut method (Word)
 
 Copies a specified document from a server to a local computer for editing.
 

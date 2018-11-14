@@ -34,7 +34,7 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRegionalUIOptionsHide**|0|Always hides regional UI.|
 | **visRegionalUIOptionsShow**|1|Always shows regional UI|

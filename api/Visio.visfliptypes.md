@@ -15,7 +15,7 @@ Type constants to pass to the  **Selection.Flip** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFlipSelectionWithPin**|1|Flip the selection around a pin.|
 | **visFlipSelection**|0|Flip the selection around its center.|

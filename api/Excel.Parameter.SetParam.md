@@ -1,5 +1,5 @@
 ---
-title: Parameter.SetParam Method (Excel)
+title: Parameter.SetParam method (Excel)
 keywords: vbaxl10.chm523079
 f1_keywords:
 - vbaxl10.chm523079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.SetParam Method (Excel)
+# Parameter.SetParam method (Excel)
 
 Defines a parameter for the specified query table.
 
@@ -29,7 +29,7 @@ Defines a parameter for the specified query table.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlParameterType](Excel.XlParameterType.md)**|One of the constants of  **XlParameterType** which specifies the parameter type.|
+| _Type_|Required| **[xlParameterType](Excel.XlParameterType.md)**|One of the constants of  **xlParameterType** which specifies the parameter type.|
 | _Value_|Required| **Variant**|The value of the specified parameter, as shown in the description of the  _Type_ argument.|
 
 ## Remarks
@@ -38,7 +38,7 @@ Defines a parameter for the specified query table.
 
 
 
-| **XlParameterType** can be one of these **XlParameterType** constants.|
+| **xlParameterType** can be one of these **xlParameterType** constants.|
 | **xlConstant** . Uses the value specified by the _Value_ argument.|
 | **xlPrompt** . Displays a dialog box that prompts the user for the value. The _Value_ argument specifies the text shown in the dialog box.|
 | **xlRange** . Uses the value of the cell in the upper-left corner of the range. The _Value_ argument specifies a **[Range](Excel.Range(object).md)** object|

@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Creator Property (Word)
+title: HiLoLines.Creator property (Word)
 keywords: vbawd10.chm235995285
 f1_keywords:
 - vbawd10.chm235995285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Creator Property (Word)
+# HiLoLines.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

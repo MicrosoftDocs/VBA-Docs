@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.Creator Property (Excel)
+title: PivotValueCell.Creator property (Excel)
 keywords: vbaxl10.chm917074
 f1_keywords:
 - vbaxl10.chm917074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.Creator Property (Excel)
+# PivotValueCell.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+ _expression_ A variable that represents a [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object.
 
 
 ## Remarks

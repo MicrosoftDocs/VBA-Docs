@@ -1,5 +1,5 @@
 ---
-title: Replacement.Parent Property (Word)
+title: Replacement.Parent property (Word)
 keywords: vbawd10.chm162595818
 f1_keywords:
 - vbawd10.chm162595818
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Parent Property (Word)
+# Replacement.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Replacement** object.
 

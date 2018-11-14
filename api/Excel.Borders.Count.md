@@ -1,5 +1,5 @@
 ---
-title: Borders.Count Property (Excel)
+title: Borders.Count property (Excel)
 keywords: vbaxl10.chm181075
 f1_keywords:
 - vbaxl10.chm181075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Count Property (Excel)
+# Borders.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

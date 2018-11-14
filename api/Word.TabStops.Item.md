@@ -1,5 +1,5 @@
 ---
-title: TabStops.Item Method (Word)
+title: TabStops.Item method (Word)
 keywords: vbawd10.chm156565504
 f1_keywords:
 - vbawd10.chm156565504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Item Method (Word)
+# TabStops.Item method (Word)
 
 Returns an individual  **TabStop** object in a collection.
 

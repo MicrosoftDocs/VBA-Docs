@@ -1,5 +1,5 @@
 ---
-title: Document.HyphenateCaps Property (Word)
+title: Document.HyphenateCaps property (Word)
 keywords: vbawd10.chm158007308
 f1_keywords:
 - vbawd10.chm158007308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.HyphenateCaps Property (Word)
+# Document.HyphenateCaps property (Word)
 
  **True** if words in all capital letters can be hyphenated. Read/write **Boolean** .
 

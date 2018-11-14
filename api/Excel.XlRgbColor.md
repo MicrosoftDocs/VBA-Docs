@@ -1,5 +1,5 @@
 ---
-title: XlRgbColor Enumeration (Excel)
+title: xlRgbColor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRgbColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRgbColor Enumeration (Excel)
+# xlRgbColor enumeration (Excel)
 
 Specifies the RGB color.
 

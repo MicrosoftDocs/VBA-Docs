@@ -1,5 +1,5 @@
 ---
-title: Shape.Glow Property (Word)
+title: Shape.Glow property (Word)
 keywords: vbawd10.chm161480857
 f1_keywords:
 - vbawd10.chm161480857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Glow Property (Word)
+# Shape.Glow property (Word)
 
 Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow formatting for a shape. Read-only.
 

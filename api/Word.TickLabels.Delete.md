@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Delete Method (Word)
+title: TickLabels.Delete method (Word)
 keywords: vbawd10.chm167051265
 f1_keywords:
 - vbawd10.chm167051265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Delete Method (Word)
+# TickLabels.Delete method (Word)
 
 Deletes the object.
 

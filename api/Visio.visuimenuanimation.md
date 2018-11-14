@@ -18,7 +18,7 @@ Values used in conjunction with the  **UIObject.MenuAnimationStyle** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMenuAnimationNone**|0|Animations appear immediately.|
 | **visMenuAnimationRandom**|1|Animations unfold or slide randomly.|

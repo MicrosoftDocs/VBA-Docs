@@ -1,5 +1,5 @@
 ---
-title: Endnote.Range Property (Word)
+title: Endnote.Range property (Word)
 keywords: vbawd10.chm155058180
 f1_keywords:
 - vbawd10.chm155058180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnote.Range Property (Word)
+# Endnote.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 

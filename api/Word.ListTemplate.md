@@ -1,5 +1,5 @@
 ﻿---
-title: ListTemplate Object (Word)
+title: ListTemplate object (Word)
 keywords: vbawd10.chm2447
 f1_keywords:
 - vbawd10.chm2447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate Object (Word)
+# ListTemplate object (Word)
 
 Represents a single list template that includes all the formatting that defines a list. The  **ListTemplate** object is a member of the **ListTemplates** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.IncludeAlignment Property (Excel)
+title: Style.IncludeAlignment property (Excel)
 keywords: vbaxl10.chm177080
 f1_keywords:
 - vbaxl10.chm177080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IncludeAlignment Property (Excel)
+# Style.IncludeAlignment property (Excel)
 
  **True** if the style includes the **AddIndent** , **HorizontalAlignment** , **VerticalAlignment** , **WrapText** , **IndentLevel** , and **Orientation** properties. Read/write **Boolean** .
 

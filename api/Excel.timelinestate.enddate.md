@@ -1,5 +1,5 @@
 ---
-title: TimelineState.EndDate Property (Excel)
+title: TimelineState.EndDate property (Excel)
 keywords: vbaxl10.chm950074
 f1_keywords:
 - vbaxl10.chm950074
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.EndDate Property (Excel)
+# TimelineState.EndDate property (Excel)
 
-Returns the end of the filtering date range (equals to [TimelineState.StartDate Property (Excel)](Excel.timelinestate.startdate.md) if range is a single day). **Variant** Read-only
+Returns the end of the filtering date range (equals to [TimelineState.StartDate property (Excel)](Excel.timelinestate.startdate.md) if range is a single day). **Variant** Read-only
 
 
 ## Syntax
@@ -26,9 +26,9 @@ Returns the end of the filtering date range (equals to [TimelineState.StartDate 
 This property will return an error for either of the following conditions:
 
 
-- [TimelineState.SingleRangeFilterState Property (Excel)](Excel.timelinestate.singlerangefilterstate.md) == **False**
+- [TimelineState.SingleRangeFilterState property (Excel)](Excel.timelinestate.singlerangefilterstate.md) == **False**
     
-- [SlicerCache.FilterCleared Property (Excel)](Excel.slicercache.filtercleared.md) == **True**
+- [SlicerCache.FilterCleared property (Excel)](Excel.slicercache.filtercleared.md) == **True**
     
 
 ## Property value

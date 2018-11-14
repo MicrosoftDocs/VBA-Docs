@@ -15,7 +15,7 @@ These constants are only available when your project has an explicit reference t
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**WindowsFolder**|0|The Windows folder contains files installed by the Windows operating system.|
 |**SystemFolder**|1|The System folder contains libraries, fonts, and device drivers.|

@@ -15,7 +15,7 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **vis1DBeginX**|0|BeginX Cell (1-D Endpoints Section)|
 | **vis1DBeginY**|1|BeginY Cell (1-D Endpoints Section)|

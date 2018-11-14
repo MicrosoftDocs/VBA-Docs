@@ -1,5 +1,5 @@
 ---
-title: Document.LanguageDetected Property (Word)
+title: Document.LanguageDetected property (Word)
 keywords: vbawd10.chm158007617
 f1_keywords:
 - vbawd10.chm158007617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.LanguageDetected Property (Word)
+# Document.LanguageDetected property (Word)
 
 Returns or sets a value that specifies whether Microsoft Word has detected the language of the specified text. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Application Property (Word)
+title: Subdocuments.Application property (Word)
 keywords: vbawd10.chm159908840
 f1_keywords:
 - vbawd10.chm159908840
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Application Property (Word)
+# Subdocuments.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

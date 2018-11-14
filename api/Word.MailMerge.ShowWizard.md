@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ShowWizard Method (Word)
+title: MailMerge.ShowWizard method (Word)
 keywords: vbawd10.chm153092210
 f1_keywords:
 - vbawd10.chm153092210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.ShowWizard Method (Word)
+# MailMerge.ShowWizard method (Word)
 
 Displays the Mail Merge Wizard in a document.
 

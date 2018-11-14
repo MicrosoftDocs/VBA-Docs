@@ -1,5 +1,5 @@
 ---
-title: Slicer.RowHeight Property (Excel)
+title: Slicer.RowHeight property (Excel)
 keywords: vbaxl10.chm905080
 f1_keywords:
 - vbaxl10.chm905080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.RowHeight Property (Excel)
+# Slicer.RowHeight property (Excel)
 
 Returns or sets the height, in points, of each row in the specified slicer. Read/write.
 

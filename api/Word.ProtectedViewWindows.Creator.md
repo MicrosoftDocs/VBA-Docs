@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Creator Property (Word)
+title: ProtectedViewWindows.Creator property (Word)
 keywords: vbawd10.chm82314217
 f1_keywords:
 - vbawd10.chm82314217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Creator Property (Word)
+# ProtectedViewWindows.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Shapes Object (Word)
+title: Shapes object (Word)
 keywords: vbawd10.chm2463
 f1_keywords:
 - vbawd10.chm2463
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes Object (Word)
+# Shapes object (Word)
 
 A collection of  **Shape** objects that represent all the shapes in a document or all the shapes in all the headers and footers in a document. Each **[Shape](Word.Shape.md)** object represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, or picture.
 

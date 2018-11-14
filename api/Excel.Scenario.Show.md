@@ -1,5 +1,5 @@
 ---
-title: Scenario.Show Method (Excel)
+title: Scenario.Show method (Excel)
 keywords: vbaxl10.chm364081
 f1_keywords:
 - vbaxl10.chm364081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Show Method (Excel)
+# Scenario.Show method (Excel)
 
 Shows the scenario by inserting its values on the worksheet. The affected cells are the changing cells of the scenario.
 

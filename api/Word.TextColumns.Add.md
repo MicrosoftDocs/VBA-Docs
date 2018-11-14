@@ -1,5 +1,5 @@
 ---
-title: TextColumns.Add Method (Word)
+title: TextColumns.Add method (Word)
 keywords: vbawd10.chm158531785
 f1_keywords:
 - vbawd10.chm158531785
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.Add Method (Word)
+# TextColumns.Add method (Word)
 
 Returns a  **TextColumn** object that represents a new text column added to a section or document.
 

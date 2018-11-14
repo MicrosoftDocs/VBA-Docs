@@ -1,5 +1,5 @@
 ---
-title: Speech.Speak Method (Excel)
+title: Speech.Speak method (Excel)
 keywords: vbaxl10.chm718073
 f1_keywords:
 - vbaxl10.chm718073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Speech.Speak Method (Excel)
+# Speech.Speak method (Excel)
 
 Microsoft Excel plays back the text string that is passed as an argument.
 

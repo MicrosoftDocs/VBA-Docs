@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace Object (Word)
+title: XMLNamespace object (Word)
 keywords: vbawd10.chm35
 f1_keywords:
 - vbawd10.chm35
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace Object (Word)
+# XMLNamespace object (Word)
 
 Represents an individual schema within the Schema Library. 
 

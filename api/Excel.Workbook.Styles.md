@@ -1,5 +1,5 @@
 ---
-title: Workbook.Styles Property (Excel)
+title: Workbook.Styles property (Excel)
 keywords: vbaxl10.chm199154
 f1_keywords:
 - vbaxl10.chm199154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Styles Property (Excel)
+# Workbook.Styles property (Excel)
 
 Returns a  **[Styles](Excel.Styles.md)** collection that represents all the styles in the specified workbook. Read-only.
 

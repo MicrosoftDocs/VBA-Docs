@@ -1,5 +1,5 @@
 ---
-title: Application.TransitionNavigKeys Property (Excel)
+title: Application.TransitionNavigKeys property (Excel)
 keywords: vbaxl10.chm133220
 f1_keywords:
 - vbaxl10.chm133220
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.TransitionNavigKeys Property (Excel)
+# Application.TransitionNavigKeys property (Excel)
 
  **True** if transition navigation keys are active. Read/write **Boolean** .
 

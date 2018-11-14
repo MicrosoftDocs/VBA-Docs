@@ -1,5 +1,5 @@
 ---
-title: Series.Type Property (Word)
+title: Series.Type property (Word)
 keywords: vbawd10.chm123732076
 f1_keywords:
 - vbawd10.chm123732076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Type Property (Word)
+# Series.Type property (Word)
 
 Returns or sets the series type. Read/write  **Long** .
 
@@ -25,7 +25,7 @@ Returns or sets the series type. Read/write  **Long** .
 
 ## Remarks
 
-You can use the following  **[XlConstants](Word.XlConstants.md)** constants for this property:
+You can use the following  **[xlConstants](Word.XlConstants.md)** constants for this property:
 
 
 -  **xlColumn**

@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding.Parent Property (Excel)
+title: XmlDataBinding.Parent property (Excel)
 keywords: vbaxl10.chm747075
 f1_keywords:
 - vbaxl10.chm747075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlDataBinding.Parent Property (Excel)
+# XmlDataBinding.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

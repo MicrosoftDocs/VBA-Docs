@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSub Method (Excel)
+title: WorksheetFunction.ImSub method (Excel)
 keywords: vbaxl10.chm137273
 f1_keywords:
 - vbaxl10.chm137273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSub Method (Excel)
+# WorksheetFunction.ImSub method (Excel)
 
 Returns the difference of two complex numbers in x + yi or x + yj text format.
 

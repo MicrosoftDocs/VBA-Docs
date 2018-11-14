@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Height Property (Word)
+title: ChartTitle.Height property (Word)
 keywords: vbawd10.chm65273890
 f1_keywords:
 - vbawd10.chm65273890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Height Property (Word)
+# ChartTitle.Height property (Word)
 
 Returns the height, in points, of the object. Read-only.
 

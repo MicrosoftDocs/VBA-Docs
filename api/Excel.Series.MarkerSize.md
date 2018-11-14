@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerSize Property (Excel)
+title: Series.MarkerSize property (Excel)
 keywords: vbaxl10.chm578097
 f1_keywords:
 - vbaxl10.chm578097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerSize Property (Excel)
+# Series.MarkerSize property (Excel)
 
 Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long** .
 

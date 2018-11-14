@@ -1,5 +1,5 @@
 ---
-title: Sections.Count Property (Word)
+title: Sections.Count property (Word)
 keywords: vbawd10.chm156893186
 f1_keywords:
 - vbawd10.chm156893186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.Count Property (Word)
+# Sections.Count property (Word)
 
 Returns a  **Long** that represents the number of sections in the collection. Read-only.
 

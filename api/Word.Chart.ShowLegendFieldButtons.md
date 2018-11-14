@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowLegendFieldButtons Property (Word)
+title: Chart.ShowLegendFieldButtons property (Word)
 keywords: vbawd10.chm79366941
 f1_keywords:
 - vbawd10.chm79366941
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowLegendFieldButtons Property (Word)
+# Chart.ShowLegendFieldButtons property (Word)
 
 Returns or sets whether to display legend field buttons on a PivotChart. Read/write. Deprecated.
 

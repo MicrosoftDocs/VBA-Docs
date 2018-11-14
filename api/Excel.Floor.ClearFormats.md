@@ -1,5 +1,5 @@
 ---
-title: Floor.ClearFormats Method (Excel)
+title: Floor.ClearFormats method (Excel)
 keywords: vbaxl10.chm612077
 f1_keywords:
 - vbaxl10.chm612077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.ClearFormats Method (Excel)
+# Floor.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

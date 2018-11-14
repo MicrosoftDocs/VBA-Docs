@@ -1,5 +1,5 @@
 ---
-title: Chart.PivotLayout Property (Excel)
+title: Chart.PivotLayout property (Excel)
 keywords: vbaxl10.chm149165
 f1_keywords:
 - vbaxl10.chm149165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PivotLayout Property (Excel)
+# Chart.PivotLayout property (Excel)
 
 Returns a  **[PivotLayout](Excel.PivotLayout.md)** object that represents the placement of fields in a PivotTable report and the placement of axes in a PivotChart report. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEndUntil Method (Word)
+title: Selection.MoveEndUntil method (Word)
 keywords: vbawd10.chm158662773
 f1_keywords:
 - vbawd10.chm158662773
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveEndUntil Method (Word)
+# Selection.MoveEndUntil method (Word)
 
 Moves the end position of the specified selection until any of the specified characters are found in the document.
 

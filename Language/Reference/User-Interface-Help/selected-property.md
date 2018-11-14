@@ -23,7 +23,7 @@ _object_. **Selected(**_index_**)** [= _Boolean_ ]
 The  **Selected** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. An integer with a range from 0 to one less than the number of items in the list.|

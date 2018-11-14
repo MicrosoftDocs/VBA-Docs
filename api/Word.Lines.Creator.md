@@ -1,5 +1,5 @@
 ---
-title: Lines.Creator Property (Word)
+title: Lines.Creator property (Word)
 keywords: vbawd10.chm67109865
 f1_keywords:
 - vbawd10.chm67109865
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lines.Creator Property (Word)
+# Lines.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

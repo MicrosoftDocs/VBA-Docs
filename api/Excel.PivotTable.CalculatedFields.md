@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CalculatedFields Method (Excel)
+title: PivotTable.CalculatedFields method (Excel)
 keywords: vbaxl10.chm235103
 f1_keywords:
 - vbaxl10.chm235103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CalculatedFields Method (Excel)
+# PivotTable.CalculatedFields method (Excel)
 
 Returns a  **[CalculatedFields](Excel.CalculatedFields.md)** collection that represents all the calculated fields in the specified PivotTable report. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (Excel)
+title: ThreeDFormat.PresetLightingDirection property (Excel)
 keywords: vbaxl10.chm119010
 f1_keywords:
 - vbaxl10.chm119010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (Excel)
+# ThreeDFormat.PresetLightingDirection property (Excel)
 
 Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection** .
 

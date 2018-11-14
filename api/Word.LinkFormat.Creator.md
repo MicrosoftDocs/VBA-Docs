@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Creator Property (Word)
+title: LinkFormat.Creator property (Word)
 keywords: vbawd10.chm154207209
 f1_keywords:
 - vbawd10.chm154207209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Creator Property (Word)
+# LinkFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

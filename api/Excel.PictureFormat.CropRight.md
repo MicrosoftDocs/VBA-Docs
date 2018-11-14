@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.CropRight Property (Excel)
+title: PictureFormat.CropRight property (Excel)
 keywords: vbaxl10.chm113007
 f1_keywords:
 - vbaxl10.chm113007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.CropRight Property (Excel)
+# PictureFormat.CropRight property (Excel)
 
 Returns or sets the number of points that are cropped off the right side of the specified picture or OLE object. Read/write  **Single** .
 

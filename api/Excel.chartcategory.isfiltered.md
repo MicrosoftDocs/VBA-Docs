@@ -1,5 +1,5 @@
 ---
-title: ChartCategory.IsFiltered Property (Excel)
+title: ChartCategory.IsFiltered property (Excel)
 keywords: vbaxl10.chm946075
 f1_keywords:
 - vbaxl10.chm946075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory.IsFiltered Property (Excel)
+# ChartCategory.IsFiltered property (Excel)
 
 Returns  **TRUE** when the user filters out a series. **Boolean** Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.GroupItems Property (Excel)
+title: Shape.GroupItems property (Excel)
 keywords: vbaxl10.chm636097
 f1_keywords:
 - vbaxl10.chm636097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.GroupItems Property (Excel)
+# Shape.GroupItems property (Excel)
 
 Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the individual shapes in the specified group. Use the **[Item](Excel.GroupShapes.Item.md)** method of the **GroupShapes** object to return a single shape from the group. Applies to **Shape** objects that represent grouped shapes. Read-only.
 

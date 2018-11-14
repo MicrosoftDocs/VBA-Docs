@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks Object (Excel)
+title: Hyperlinks object (Excel)
 keywords: vbaxl10.chm533072
 f1_keywords:
 - vbaxl10.chm533072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks Object (Excel)
+# Hyperlinks object (Excel)
 
 Represents the collection of hyperlinks for a worksheet or range.
 

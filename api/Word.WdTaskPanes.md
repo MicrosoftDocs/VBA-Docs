@@ -1,5 +1,5 @@
 ---
-title: WdTaskPanes Enumeration (Word)
+title: WdTaskPanes enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTaskPanes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTaskPanes Enumeration (Word)
+# WdTaskPanes enumeration (Word)
 
 Specifies the type of task pane.
 

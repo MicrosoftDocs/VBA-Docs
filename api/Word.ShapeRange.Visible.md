@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Visible Property (Word)
+title: ShapeRange.Visible property (Word)
 keywords: vbawd10.chm162857087
 f1_keywords:
 - vbawd10.chm162857087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Visible Property (Word)
+# ShapeRange.Visible property (Word)
 
  **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState** .
 

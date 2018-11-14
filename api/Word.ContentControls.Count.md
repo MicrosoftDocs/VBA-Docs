@@ -1,5 +1,5 @@
 ---
-title: ContentControls.Count Property (Word)
+title: ContentControls.Count property (Word)
 keywords: vbawd10.chm157745255
 f1_keywords:
 - vbawd10.chm157745255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControls.Count Property (Word)
+# ContentControls.Count property (Word)
 
 Returns the number of items in the  **ContentControls** collection. Read-only **Long** .
 

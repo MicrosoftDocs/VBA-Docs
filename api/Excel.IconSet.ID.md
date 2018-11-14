@@ -1,5 +1,5 @@
 ---
-title: IconSet.ID Property (Excel)
+title: IconSet.ID property (Excel)
 keywords: vbaxl10.chm818073
 f1_keywords:
 - vbaxl10.chm818073
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSet.ID Property (Excel)
+# IconSet.ID property (Excel)
 
-Returns one of the constants of the  **[XlIconSet](Excel.XlIconSet.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
+Returns one of the constants of the  **[xlIconSet](Excel.XlIconSet.md)** enumeration, which specifies the name of the icon set used in an icon set conditional formatting rule.
 
 
 ## Syntax

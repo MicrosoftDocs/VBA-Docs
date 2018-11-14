@@ -17,7 +17,7 @@ Returns or sets a value indicating whether a command button is the Cancel button
 The  **Cancel** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the object is the Cancel button.|
 

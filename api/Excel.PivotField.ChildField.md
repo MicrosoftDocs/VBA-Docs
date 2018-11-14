@@ -1,5 +1,5 @@
 ---
-title: PivotField.ChildField Property (Excel)
+title: PivotField.ChildField property (Excel)
 keywords: vbaxl10.chm240075
 f1_keywords:
 - vbaxl10.chm240075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ChildField Property (Excel)
+# PivotField.ChildField property (Excel)
 
 Returns a  **[PivotField](Excel.PivotField.md)** object that represents the child field for the specified field (if the field is grouped and has a child field). Read-only.
 

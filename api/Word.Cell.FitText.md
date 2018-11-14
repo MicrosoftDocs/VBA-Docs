@@ -1,5 +1,5 @@
 ---
-title: Cell.FitText Property (Word)
+title: Cell.FitText property (Word)
 keywords: vbawd10.chm156106862
 f1_keywords:
 - vbawd10.chm156106862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.FitText Property (Word)
+# Cell.FitText property (Word)
 
  **True** if Microsoft Word visually reduces the size of text typed into a cell so that it fits within the column width. Read/write **Boolean** .
 

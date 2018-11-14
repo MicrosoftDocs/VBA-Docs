@@ -1,5 +1,5 @@
 ---
-title: Selection.HasChildShapeRange Property (Word)
+title: Selection.HasChildShapeRange property (Word)
 keywords: vbawd10.chm158663678
 f1_keywords:
 - vbawd10.chm158663678
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.HasChildShapeRange Property (Word)
+# Selection.HasChildShapeRange property (Word)
 
  **True** if the selection contains child shapes. Read-only **Boolean** .
 

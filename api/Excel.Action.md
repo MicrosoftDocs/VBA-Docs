@@ -1,5 +1,5 @@
 ---
-title: Action Object (Excel)
+title: Action object (Excel)
 keywords: vbaxl10.chm797072
 f1_keywords:
 - vbaxl10.chm797072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action Object (Excel)
+# Action object (Excel)
 
 Represents an action to be executed in a Pivottable or sheet data.
 

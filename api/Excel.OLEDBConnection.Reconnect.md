@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Reconnect Method (Excel)
+title: OLEDBConnection.Reconnect method (Excel)
 keywords: vbaxl10.chm794105
 f1_keywords:
 - vbaxl10.chm794105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.Reconnect Method (Excel)
+# OLEDBConnection.Reconnect method (Excel)
 
 Drops and then reconnects the specified connection.
 

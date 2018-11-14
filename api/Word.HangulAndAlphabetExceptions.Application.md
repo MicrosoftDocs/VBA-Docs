@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetExceptions.Application Property (Word)
+title: HangulAndAlphabetExceptions.Application property (Word)
 keywords: vbawd10.chm164692968
 f1_keywords:
 - vbawd10.chm164692968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetExceptions.Application Property (Word)
+# HangulAndAlphabetExceptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

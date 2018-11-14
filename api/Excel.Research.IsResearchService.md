@@ -1,5 +1,5 @@
 ---
-title: Research.IsResearchService Method (Excel)
+title: Research.IsResearchService method (Excel)
 keywords: vbaxl10.chm849074
 f1_keywords:
 - vbaxl10.chm849074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.IsResearchService Method (Excel)
+# Research.IsResearchService method (Excel)
 
 Indicates whether the GUID specified in the  _ServiceID_ parameter corresponds to a currently configured service.
 

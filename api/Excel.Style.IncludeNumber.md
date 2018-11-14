@@ -1,5 +1,5 @@
 ---
-title: Style.IncludeNumber Property (Excel)
+title: Style.IncludeNumber property (Excel)
 keywords: vbaxl10.chm177083
 f1_keywords:
 - vbaxl10.chm177083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IncludeNumber Property (Excel)
+# Style.IncludeNumber property (Excel)
 
  **True** if the style includes the **NumberFormat** property. Read/write **Boolean**
 

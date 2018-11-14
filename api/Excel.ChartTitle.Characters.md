@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Characters Property (Excel)
+title: ChartTitle.Characters property (Excel)
 keywords: vbaxl10.chm563081
 f1_keywords:
 - vbaxl10.chm563081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Characters Property (Excel)
+# ChartTitle.Characters property (Excel)
 
 Returns a  **[Characters](Excel.Characters.md)** object that represents a range of characters within the object text. You can use the **Characters** object to format characters within a text string.
 

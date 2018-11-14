@@ -1,5 +1,5 @@
 ---
-title: Shape.Width Property (Word)
+title: Shape.Width property (Word)
 keywords: vbawd10.chm161480832
 f1_keywords:
 - vbawd10.chm161480832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Width Property (Word)
+# Shape.Width property (Word)
 
 Returns or sets the width, in points, of the specified shape. Read/write  **Long** .
 

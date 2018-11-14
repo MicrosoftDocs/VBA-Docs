@@ -1,5 +1,5 @@
 ---
-title: TextFrame2 Object (Excel)
+title: TextFrame2 object (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2 Object (Excel)
+# TextFrame2 object (Excel)
 
 Represents the text frame in a  **[Shape](Excel.Shape.md)**, **[ShapeRange](Excel.ShapeRange.md)**, or **[ChartFormat](Excel.ChartFormat.md)** object.
 

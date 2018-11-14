@@ -1,5 +1,5 @@
 ---
-title: System.MSInfo Method (Word)
+title: System.MSInfo method (Word)
 keywords: vbawd10.chm154468453
 f1_keywords:
 - vbawd10.chm154468453
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.MSInfo Method (Word)
+# System.MSInfo method (Word)
 
 Starts the Microsoft System Information application if it is not running, or switches to it if it is already running.
 

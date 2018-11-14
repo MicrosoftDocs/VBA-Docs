@@ -1,5 +1,5 @@
 ---
-title: PivotField.DragToColumn Property (Excel)
+title: PivotField.DragToColumn property (Excel)
 keywords: vbaxl10.chm240102
 f1_keywords:
 - vbaxl10.chm240102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DragToColumn Property (Excel)
+# PivotField.DragToColumn property (Excel)
 
  **True** if the specified field can be dragged to the column position. The default value is **True** . Read/write **Boolean** .
 

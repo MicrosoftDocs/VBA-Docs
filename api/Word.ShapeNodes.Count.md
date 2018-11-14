@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Count Property (Word)
+title: ShapeNodes.Count property (Word)
 keywords: vbawd10.chm164495362
 f1_keywords:
 - vbawd10.chm164495362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Count Property (Word)
+# ShapeNodes.Count property (Word)
 
 Returns a  **Long** that represents the number of shape nodes in the collection. Read-only.
 

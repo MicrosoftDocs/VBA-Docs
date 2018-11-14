@@ -1,5 +1,5 @@
 ---
-title: AutoCaption Object (Word)
+title: AutoCaption object (Word)
 keywords: vbawd10.chm2427
 f1_keywords:
 - vbawd10.chm2427
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaption Object (Word)
+# AutoCaption object (Word)
 
 Represents a single caption that can be automatically added when items such as tables, pictures, or OLE objects are inserted into a document. The  **AutoCaption** object is a member of the **[AutoCaptions](Word.autocaptions.md)** collection. The **AutoCaptions** collection contains all the captions listed in the **AutoCaption** dialog box.
 

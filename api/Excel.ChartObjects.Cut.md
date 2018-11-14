@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Cut Method (Excel)
+title: ChartObjects.Cut method (Excel)
 keywords: vbaxl10.chm497077
 f1_keywords:
 - vbaxl10.chm497077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Cut Method (Excel)
+# ChartObjects.Cut method (Excel)
 
 Cuts the object to the Clipboard.
 

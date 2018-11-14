@@ -60,7 +60,7 @@ The  _Flags_ argument indicates what data type the returned results should be ex
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetFloats**|0|Results returned as doubles (VT_R8).|
 | **visGetTruncatedInts**|1|Results returned as truncated long integers (VT_I4).|

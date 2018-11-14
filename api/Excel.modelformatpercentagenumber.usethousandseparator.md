@@ -1,5 +1,5 @@
 ---
-title: ModelFormatPercentageNumber.UseThousandSeparator Property (Excel)
+title: ModelFormatPercentageNumber.UseThousandSeparator property (Excel)
 keywords: vbaxl10.chm990073
 f1_keywords:
 - vbaxl10.chm990073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatPercentageNumber.UseThousandSeparator Property (Excel)
+# ModelFormatPercentageNumber.UseThousandSeparator property (Excel)
 
 Specifies whether to display commas between thousands. Read/write  **Boolean**.
 

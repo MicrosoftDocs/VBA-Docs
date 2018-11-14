@@ -1,5 +1,5 @@
 ---
-title: Options.AllowAccentedUppercase Property (Word)
+title: Options.AllowAccentedUppercase property (Word)
 keywords: vbawd10.chm162988033
 f1_keywords:
 - vbawd10.chm162988033
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowAccentedUppercase Property (Word)
+# Options.AllowAccentedUppercase property (Word)
 
  **True** if accents are retained when a French language character is changed to uppercase. Read/write **Boolean** .
 

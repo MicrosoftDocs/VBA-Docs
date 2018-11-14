@@ -22,7 +22,7 @@ _object_. **OldLeft**
 The  **OldLeft** and **OldTop** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

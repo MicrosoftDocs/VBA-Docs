@@ -1,5 +1,5 @@
 ---
-title: Outline.ShowLevels Method (Excel)
+title: Outline.ShowLevels method (Excel)
 keywords: vbaxl10.chm455074
 f1_keywords:
 - vbaxl10.chm455074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.ShowLevels Method (Excel)
+# Outline.ShowLevels method (Excel)
 
 Displays the specified number of row and/or column levels of an outline.
 

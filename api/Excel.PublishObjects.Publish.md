@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Publish Method (Excel)
+title: PublishObjects.Publish method (Excel)
 keywords: vbaxl10.chm650079
 f1_keywords:
 - vbaxl10.chm650079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects.Publish Method (Excel)
+# PublishObjects.Publish method (Excel)
 
 Saves a copy of the item or items in the spreadsheet that have been added to the  **PublishObjects** collection to a Web page.
 

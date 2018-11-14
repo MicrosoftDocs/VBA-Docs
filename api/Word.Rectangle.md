@@ -1,5 +1,5 @@
 ---
-title: Rectangle Object (Word)
+title: Rectangle object (Word)
 keywords: vbawd10.chm3571
 f1_keywords:
 - vbawd10.chm3571
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle Object (Word)
+# Rectangle object (Word)
 
 Represents a portion of text or a graphic in a page. Use the  **Rectangle** object and related methods and properties for programmatically defining page layout in a document.
 

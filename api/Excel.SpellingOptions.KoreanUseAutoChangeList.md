@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.KoreanUseAutoChangeList Property (Excel)
+title: SpellingOptions.KoreanUseAutoChangeList property (Excel)
 keywords: vbaxl10.chm717081
 f1_keywords:
 - vbaxl10.chm717081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.KoreanUseAutoChangeList Property (Excel)
+# SpellingOptions.KoreanUseAutoChangeList property (Excel)
 
 When set to  **True** , this enables Microsoft Excel to use the auto-change list for Korean words when using the spelling checker. Read/write **Boolean** .
 

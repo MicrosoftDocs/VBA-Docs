@@ -43,7 +43,7 @@ The  _PublishDataRecordsets_ parameter must be one of the following **VisPublish
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPublishDataRecordsetsAll**|0|Publish all data recordsets in the document.|
 | **visPublishDataRecordsetsNone**|1|Publish none of the data recordsets in the document.|

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Count Property (Word)
+title: ShapeRange.Count property (Word)
 keywords: vbawd10.chm162856962
 f1_keywords:
 - vbawd10.chm162856962
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Count Property (Word)
+# ShapeRange.Count property (Word)
 
 Returns a  **Long** that represents the number of shapes in the collection. Read-only.
 

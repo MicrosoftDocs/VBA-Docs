@@ -1,5 +1,5 @@
 ---
-title: Research Object (Word)
+title: Research object (Word)
 ms.prod: word
 api_name:
 - Word.Research
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research Object (Word)
+# Research object (Word)
 
 Provides access to the research service feature of Microsoft Word.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.EnableAutoComplete Property (Excel)
+title: Application.EnableAutoComplete property (Excel)
 keywords: vbaxl10.chm133130
 f1_keywords:
 - vbaxl10.chm133130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableAutoComplete Property (Excel)
+# Application.EnableAutoComplete property (Excel)
 
  **True** if the AutoComplete feature is enabled. Read/write **Boolean** .
 

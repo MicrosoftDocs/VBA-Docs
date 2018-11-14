@@ -1,5 +1,5 @@
 ---
-title: WdListGalleryType Enumeration (Word)
+title: WdListGalleryType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListGalleryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdListGalleryType Enumeration (Word)
+# WdListGalleryType enumeration (Word)
 
 Specifies the type of list from a list template gallery.
 

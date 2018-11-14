@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ConnectorFormat Property (Excel)
+title: ShapeRange.ConnectorFormat property (Excel)
 keywords: vbaxl10.chm640102
 f1_keywords:
 - vbaxl10.chm640102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ConnectorFormat Property (Excel)
+# ShapeRange.ConnectorFormat property (Excel)
 
 Returns a  **[ConnectorFormat](Excel.ConnectorFormat.md)** object that contains connector formatting properties. Applies to a **[ShapeRange](Excel.ShapeRange.md)** objects that represent connectors. Read-only.
 

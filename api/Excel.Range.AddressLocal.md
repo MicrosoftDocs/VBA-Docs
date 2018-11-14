@@ -1,5 +1,5 @@
 ---
-title: Range.AddressLocal Property (Excel)
+title: Range.AddressLocal property (Excel)
 keywords: vbaxl10.chm144077
 f1_keywords:
 - vbaxl10.chm144077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AddressLocal Property (Excel)
+# Range.AddressLocal property (Excel)
 
 Returns the range reference for the specified range in the language of the user. Read-only  **String** .
 
@@ -31,7 +31,7 @@ Returns the range reference for the specified range in the language of the user.
 |:-----|:-----|:-----|:-----|
 | _RowAbsolute_|Optional| **Variant**| **True** to return the row part of the reference as an absolute reference. The default value is **True** .|
 | _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True** .|
-| _ReferenceStyle_|Optional| **[XlReferenceStyle](Excel.XlReferenceStyle.md)**|One of the constants for  **XlReferenceStyle** specifying A1-style or R1C1-style reference.|
+| _ReferenceStyle_|Optional| **[xlReferenceStyle](Excel.XlReferenceStyle.md)**|One of the constants for  **xlReferenceStyle** specifying A1-style or R1C1-style reference.|
 | _External_|Optional| **Variant**| **True** to return an external reference. **False** to return a local reference. The default value is **False** .|
 | _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are both set to **False** and _ReferenceStyle_ is set to **xlR1C1** , you must include a starting point for the relative reference. This argument is a **Range** object that defines the starting point for the reference.|
 

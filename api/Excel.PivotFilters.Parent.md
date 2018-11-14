@@ -1,5 +1,5 @@
 ---
-title: PivotFilters.Parent Property (Excel)
+title: PivotFilters.Parent property (Excel)
 keywords: vbaxl10.chm771075
 f1_keywords:
 - vbaxl10.chm771075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilters.Parent Property (Excel)
+# PivotFilters.Parent property (Excel)
 
 Returns the parent object for the specified  **PivotFilters** object. Read-only.
 

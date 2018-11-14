@@ -1,5 +1,5 @@
 ---
-title: ModelMeasures Object (Excel)
+title: ModelMeasures object (Excel)
 keywords: vbaxl10.chm979072
 f1_keywords:
 - vbaxl10.chm979072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasures Object (Excel)
+# ModelMeasures object (Excel)
 
 Represents: a collection of  **ModelMeasure** objects.
 

@@ -18,7 +18,7 @@ Displays a message in a dialog box, waits for the user to click a button, and re
 
 The **MsgBox** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return - linefeed character combination (**Chr(** 13 **)** & **Chr(** 10 **)**) between each line.|
 |**_buttons_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the sum of values specifying the number and type of buttons to display, the icon style to use, the identity of the default button, and the modality of the message box. If omitted, the default value for **_buttons_** is 0.|
@@ -30,7 +30,7 @@ The **MsgBox** function syntax has these [named arguments](../../Glossary/vbe-gl
 
 The **_buttons_** [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOKOnly**|0|Display  **OK** button only.|
 |**vbOKCancel**|1|Display  **OK** and **Cancel** buttons.|
@@ -60,7 +60,7 @@ The first group of values (0-5) describes the number and type of buttons display
 
 ## Return values
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOK**|1|**OK**|
 |**vbCancel**|2|**Cancel**|

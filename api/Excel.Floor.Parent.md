@@ -1,5 +1,5 @@
 ---
-title: Floor.Parent Property (Excel)
+title: Floor.Parent property (Excel)
 keywords: vbaxl10.chm612073
 f1_keywords:
 - vbaxl10.chm612073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Parent Property (Excel)
+# Floor.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

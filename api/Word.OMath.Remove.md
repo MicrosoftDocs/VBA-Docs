@@ -1,5 +1,5 @@
 ---
-title: OMath.Remove Method (Word)
+title: OMath.Remove method (Word)
 keywords: vbawd10.chm176357578
 f1_keywords:
 - vbawd10.chm176357578
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Remove Method (Word)
+# OMath.Remove method (Word)
 
 Removes an equation from the collection of equations in a document, range, or selection.
 

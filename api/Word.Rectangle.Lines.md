@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Lines Property (Word)
+title: Rectangle.Lines property (Word)
 keywords: vbawd10.chm234029064
 f1_keywords:
 - vbawd10.chm234029064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Lines Property (Word)
+# Rectangle.Lines property (Word)
 
 Returns a  **[Lines](Word.Lines.md)** collection that represents the lines in a specified portion of text in a page.
 

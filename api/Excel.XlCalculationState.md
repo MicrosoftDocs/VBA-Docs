@@ -1,14 +1,14 @@
 ---
-title: XlCalculationState Enumeration (Excel)
+title: xlCalculationState enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlCalculationState
+- Excel.xlCalculationState
 ms.assetid: b0c7a454-e78f-17cc-4e5c-f7742a9857f6
 ms.date: 06/08/2017
 ---
 
 
-# XlCalculationState Enumeration (Excel)
+# xlCalculationState enumeration (Excel)
 
 Specifies the calculation state of the application.
 

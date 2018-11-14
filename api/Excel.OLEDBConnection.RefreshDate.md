@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.RefreshDate Property (Excel)
+title: OLEDBConnection.RefreshDate property (Excel)
 keywords: vbaxl10.chm794084
 f1_keywords:
 - vbaxl10.chm794084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.RefreshDate Property (Excel)
+# OLEDBConnection.RefreshDate property (Excel)
 
 Returns the date on which the OLE DB connection was last refreshed. Read-only  **Date** .
 

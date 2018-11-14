@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldName.Index Property (Word)
+title: MailMergeFieldName.Index property (Word)
 keywords: vbawd10.chm152764417
 f1_keywords:
 - vbawd10.chm152764417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFieldName.Index Property (Word)
+# MailMergeFieldName.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

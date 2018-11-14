@@ -1,5 +1,5 @@
 ---
-title: Window.LargeScroll Method (Excel)
+title: Window.LargeScroll method (Excel)
 keywords: vbaxl10.chm356097
 f1_keywords:
 - vbaxl10.chm356097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.LargeScroll Method (Excel)
+# Window.LargeScroll method (Excel)
 
 Scrolls the contents of the window by pages.
 

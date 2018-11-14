@@ -1,5 +1,5 @@
 ---
-title: Top10.Delete Method (Excel)
+title: Top10.Delete method (Excel)
 keywords: vbaxl10.chm822086
 f1_keywords:
 - vbaxl10.chm822086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Delete Method (Excel)
+# Top10.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

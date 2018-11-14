@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDecimalNumber.Parent Property (Excel)
+title: ModelFormatDecimalNumber.Parent property (Excel)
 keywords: vbaxl10.chm985075
 f1_keywords:
 - vbaxl10.chm985075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDecimalNumber.Parent Property (Excel)
+# ModelFormatDecimalNumber.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

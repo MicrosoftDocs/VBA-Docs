@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddChart2 Method (Excel)
+title: Shapes.AddChart2 method (Excel)
 keywords: vbaxl10.chm638096
 f1_keywords:
 - vbaxl10.chm638096
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddChart2 Method (Excel)
+# Shapes.AddChart2 method (Excel)
 
 Adds a chart to the document. Returns a  **Shape** object that represents a chart and adds it to the specified collection.
 
@@ -25,9 +25,9 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in  **XlChartType**. |
+| _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in  **xlChartType**. |
 | _XlChartType_|Optional|VARIANT|The type of chart.|
 | _Left_|Optional|VARIANT|The position, in points, of the left edge of the chart, relative to the anchor.|
 | _Top_|Optional|VARIANT|The position, in points, of the top edge of the chart, relative to the anchor.|

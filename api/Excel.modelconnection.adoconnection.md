@@ -1,5 +1,5 @@
 ---
-title: ModelConnection.ADOConnection Property (Excel)
+title: ModelConnection.ADOConnection property (Excel)
 keywords: vbaxl10.chm922075
 f1_keywords:
 - vbaxl10.chm922075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection.ADOConnection Property (Excel)
+# ModelConnection.ADOConnection property (Excel)
 
 The ADO Connection Object is used to create an open connection to a data source. Enables addins, such as Powerview, to create a direct connection to the engine and hence the data model.  **ADOConnection** object Read-only.
 
@@ -18,7 +18,7 @@ The ADO Connection Object is used to create an open connection to a data source.
 
  _expression_. `ADOConnection`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+ _expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Property value

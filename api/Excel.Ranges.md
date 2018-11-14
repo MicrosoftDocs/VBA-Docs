@@ -1,5 +1,5 @@
 ---
-title: Ranges Object (Excel)
+title: Ranges object (Excel)
 keywords: vbaxl10.chm827072
 f1_keywords:
 - vbaxl10.chm827072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ranges Object (Excel)
+# Ranges object (Excel)
 
 A collection of  **[Range](Excel.Range(object).md)** objects.
 

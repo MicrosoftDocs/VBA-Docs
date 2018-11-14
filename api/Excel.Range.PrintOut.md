@@ -1,5 +1,5 @@
 ---
-title: Range.PrintOut Method (Excel)
+title: Range.PrintOut method (Excel)
 keywords: vbaxl10.chm144244
 f1_keywords:
 - vbaxl10.chm144244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PrintOut Method (Excel)
+# Range.PrintOut method (Excel)
 
 Prints the object.
 

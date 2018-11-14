@@ -1,5 +1,5 @@
 ---
-title: HPageBreak.Creator Property (Excel)
+title: HPageBreak.Creator property (Excel)
 keywords: vbaxl10.chm158074
 f1_keywords:
 - vbaxl10.chm158074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreak.Creator Property (Excel)
+# HPageBreak.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

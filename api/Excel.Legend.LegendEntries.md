@@ -1,5 +1,5 @@
 ---
-title: Legend.LegendEntries Method (Excel)
+title: Legend.LegendEntries method (Excel)
 keywords: vbaxl10.chm622079
 f1_keywords:
 - vbaxl10.chm622079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.LegendEntries Method (Excel)
+# Legend.LegendEntries method (Excel)
 
 Returns an object that represents either a single legend entry (a  **[LegendEntry](Excel.LegendEntry(object).md)** object) or a collection of legend entries (a **[LegendEntries](Excel.LegendEntries(object).md)** object) for the legend.
 

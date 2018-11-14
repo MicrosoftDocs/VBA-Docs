@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.LegendKey Property (Word)
+title: LegendEntry.LegendKey property (Word)
 keywords: vbawd10.chm4784302
 f1_keywords:
 - vbawd10.chm4784302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.LegendKey Property (Word)
+# LegendEntry.LegendKey property (Word)
 
 Returns the legend key that is associated with the entry. Read-only  **[LegendKey](Word.LegendKey.md)** .
 

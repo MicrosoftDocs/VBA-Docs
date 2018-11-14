@@ -1,5 +1,5 @@
 ---
-title: XlRobustConnect Enumeration (Excel)
+title: xlRobustConnect enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRobustConnect
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRobustConnect Enumeration (Excel)
+# xlRobustConnect enumeration (Excel)
 
 Specifies how the PivotTable cache or a query table connects to its data source.
 

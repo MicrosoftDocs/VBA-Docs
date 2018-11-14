@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Follow Method (Word)
+title: Hyperlink.Follow method (Word)
 keywords: vbawd10.chm161284200
 f1_keywords:
 - vbawd10.chm161284200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Follow Method (Word)
+# Hyperlink.Follow method (Word)
 
 Displays a cached document associated with the specified  **Hyperlink** object, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 

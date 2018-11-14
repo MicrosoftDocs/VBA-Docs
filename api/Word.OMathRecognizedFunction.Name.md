@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunction.Name Property (Word)
+title: OMathRecognizedFunction.Name property (Word)
 keywords: vbawd10.chm227737704
 f1_keywords:
 - vbawd10.chm227737704
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunction.Name Property (Word)
+# OMathRecognizedFunction.Name property (Word)
 
 Returns a  **String** that represents the name of an equation recognized function. Read-only.
 

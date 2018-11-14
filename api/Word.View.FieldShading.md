@@ -1,5 +1,5 @@
 ---
-title: View.FieldShading Property (Word)
+title: View.FieldShading property (Word)
 keywords: vbawd10.chm161808407
 f1_keywords:
 - vbawd10.chm161808407
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.FieldShading Property (Word)
+# View.FieldShading property (Word)
 
 Returns or sets on-screen shading for fields. Read/write  **WdFieldShading** .
 

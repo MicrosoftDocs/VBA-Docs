@@ -1,5 +1,5 @@
 ---
-title: Application.Dialogs Property (Word)
+title: Application.Dialogs property (Word)
 keywords: vbawd10.chm158334995
 f1_keywords:
 - vbawd10.chm158334995
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Dialogs Property (Word)
+# Application.Dialogs property (Word)
 
 Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 

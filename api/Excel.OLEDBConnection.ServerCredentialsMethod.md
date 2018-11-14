@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ServerCredentialsMethod Property (Excel)
+title: OLEDBConnection.ServerCredentialsMethod property (Excel)
 keywords: vbaxl10.chm794097
 f1_keywords:
 - vbaxl10.chm794097
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ServerCredentialsMethod Property (Excel)
+# OLEDBConnection.ServerCredentialsMethod property (Excel)
 
-Returns or sets the type of credentials that should be used for server authentication. Read/write  **[XlCredentialsMethod](Excel.XlCredentialsMethod.md)** .
+Returns or sets the type of credentials that should be used for server authentication. Read/write  **[xlCredentialsMethod](Excel.XlCredentialsMethod.md)** .
 
 
 ## Syntax

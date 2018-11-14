@@ -1,5 +1,5 @@
 ---
-title: WdSaveOptions Enumeration (Word)
+title: WdSaveOptions enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSaveOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSaveOptions Enumeration (Word)
+# WdSaveOptions enumeration (Word)
 
 Specifies how pending changes should be handled.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Activate Method (Excel)
+title: Range.Activate method (Excel)
 keywords: vbaxl10.chm144074
 f1_keywords:
 - vbaxl10.chm144074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Activate Method (Excel)
+# Range.Activate method (Excel)
 
 Activates a single cell, which must be inside the current selection. To select a range of cells, use the  **[Select](Excel.Range.Select.md)** method.
 

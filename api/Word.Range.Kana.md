@@ -1,5 +1,5 @@
 ---
-title: Range.Kana Property (Word)
+title: Range.Kana property (Word)
 keywords: vbawd10.chm157155655
 f1_keywords:
 - vbawd10.chm157155655
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Kana Property (Word)
+# Range.Kana property (Word)
 
 Returns or sets whether the specified range of Japanese language text is hiragana or katakana. Read/write  **WdKana** .
 

@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Creator Property (Word)
+title: Subdocument.Creator property (Word)
 keywords: vbawd10.chm159974377
 f1_keywords:
 - vbawd10.chm159974377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Creator Property (Word)
+# Subdocument.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

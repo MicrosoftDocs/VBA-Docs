@@ -1,5 +1,5 @@
 ---
-title: Document.IsMasterDocument Property (Word)
+title: Document.IsMasterDocument property (Word)
 keywords: vbawd10.chm158007342
 f1_keywords:
 - vbawd10.chm158007342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.IsMasterDocument Property (Word)
+# Document.IsMasterDocument property (Word)
 
  **True** if the specified document is a master document. Read-only **Boolean** .
 

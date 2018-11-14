@@ -1,5 +1,5 @@
 ---
-title: Point.Copy Method (Excel)
+title: Point.Copy method (Excel)
 keywords: vbaxl10.chm576077
 f1_keywords:
 - vbaxl10.chm576077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Copy Method (Excel)
+# Point.Copy method (Excel)
 
 If the point has a picture fill, then this method copies the picture to the Clipboard.
 

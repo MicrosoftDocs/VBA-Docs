@@ -15,7 +15,7 @@ Selection types to be passed to the  **CreateSelection** method of the **Master*
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelTypeAll**|1|A selection that initially contains all shapes. |
 | **visSelTypeByDataGraphic**|6|A selection that initially contains all shapes that have a given type of data graphic appled.|

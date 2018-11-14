@@ -1,5 +1,5 @@
 ---
-title: Style Object (Word)
+title: Style object (Word)
 keywords: vbawd10.chm2348
 f1_keywords:
 - vbawd10.chm2348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style Object (Word)
+# Style object (Word)
 
 Represents a single built-in or user-defined style. The  **Style** object includes style attributes (such as font, font style, and paragraph spacing) as properties of the **Style** object. The **Style** object is a member of the **Styles** collection. The **[Styles](Word.styles.md)** collection includes all the styles in the specified document.
 

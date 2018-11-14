@@ -1,5 +1,5 @@
 ---
-title: Scenario.Index Property (Excel)
+title: Scenario.Index property (Excel)
 keywords: vbaxl10.chm364078
 f1_keywords:
 - vbaxl10.chm364078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Index Property (Excel)
+# Scenario.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

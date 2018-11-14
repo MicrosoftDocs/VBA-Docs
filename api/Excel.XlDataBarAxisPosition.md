@@ -1,5 +1,5 @@
 ---
-title: XlDataBarAxisPosition Enumeration (Excel)
+title: xlDataBarAxisPosition enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataBarAxisPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataBarAxisPosition Enumeration (Excel)
+# xlDataBarAxisPosition enumeration (Excel)
 
 Specifies the axis position for a range of cells with conditional formatting as data bars.
 

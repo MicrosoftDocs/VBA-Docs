@@ -66,7 +66,6 @@ End Sub
 
 ## See also
 
-- [MailItem object](Outlook.MailItem.md)
 - [Send an email given the SMTP address of an account](../outlook/How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
 
 

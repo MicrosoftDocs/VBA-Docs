@@ -1,5 +1,5 @@
 ---
-title: ContentControl.BuildingBlockCategory Property (Word)
+title: ContentControl.BuildingBlockCategory property (Word)
 keywords: vbawd10.chm266534934
 f1_keywords:
 - vbawd10.chm266534934
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.BuildingBlockCategory Property (Word)
+# ContentControl.BuildingBlockCategory property (Word)
 
 Returns or sets a  **String** that represents the category for a building block content control. Read/write.
 

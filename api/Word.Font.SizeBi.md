@@ -1,5 +1,5 @@
 ---
-title: Font.SizeBi Property (Word)
+title: Font.SizeBi property (Word)
 keywords: vbawd10.chm156369058
 f1_keywords:
 - vbawd10.chm156369058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.SizeBi Property (Word)
+# Font.SizeBi property (Word)
 
 Returns or sets the font size in points. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CustomListCount Property (Excel)
+title: Application.CustomListCount property (Excel)
 keywords: vbaxl10.chm133100
 f1_keywords:
 - vbaxl10.chm133100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CustomListCount Property (Excel)
+# Application.CustomListCount property (Excel)
 
 Returns the number of defined custom lists (including built-in lists). Read-only  **Long** .
 

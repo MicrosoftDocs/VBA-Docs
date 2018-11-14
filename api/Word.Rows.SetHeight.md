@@ -1,5 +1,5 @@
 ---
-title: Rows.SetHeight Method (Word)
+title: Rows.SetHeight method (Word)
 keywords: vbawd10.chm155975883
 f1_keywords:
 - vbawd10.chm155975883
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.SetHeight Method (Word)
+# Rows.SetHeight method (Word)
 
 Sets the height of table rows.
 

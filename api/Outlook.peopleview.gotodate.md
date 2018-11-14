@@ -28,7 +28,7 @@ Version Added: Outlook 2013
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Date_|Required| **Date**|The date to which the view should be changed.|

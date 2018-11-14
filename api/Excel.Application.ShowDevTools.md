@@ -1,5 +1,5 @@
 ---
-title: Application.ShowDevTools Property (Excel)
+title: Application.ShowDevTools property (Excel)
 keywords: vbaxl10.chm133301
 f1_keywords:
 - vbaxl10.chm133301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowDevTools Property (Excel)
+# Application.ShowDevTools property (Excel)
 
 Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.MarkComments Property (Word)
+title: EmailOptions.MarkComments property (Word)
 keywords: vbawd10.chm165347435
 f1_keywords:
 - vbawd10.chm165347435
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.MarkComments Property (Word)
+# EmailOptions.MarkComments property (Word)
 
- **True** if Microsoft Word marks the user's comments in e-mail messages. Read/write **Boolean** .
+ **True** if Microsoft Word marks the user's comments in email messages. Read/write **Boolean** .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property marks comments with the value of the  **[MarkCommentsWith](Word.Em
 
 ## Example
 
-This example sets Word to mark comments in e-mail messages with the initials "WK."
+This example sets Word to mark comments in email messages with the initials "WK."
 
 
 ```vb

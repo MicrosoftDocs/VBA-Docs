@@ -1,5 +1,5 @@
 ---
-title: XMLNamespaces.Count Property (Word)
+title: XMLNamespaces.Count property (Word)
 keywords: vbawd10.chm248971266
 f1_keywords:
 - vbawd10.chm248971266
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespaces.Count Property (Word)
+# XMLNamespaces.Count property (Word)
 
 Returns a  **Long** that represents the number of XML namespaces in the collection. Read-only.
 

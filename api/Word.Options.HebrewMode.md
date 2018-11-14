@@ -1,5 +1,5 @@
 ---
-title: Options.HebrewMode Property (Word)
+title: Options.HebrewMode property (Word)
 keywords: vbawd10.chm162988443
 f1_keywords:
 - vbawd10.chm162988443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.HebrewMode Property (Word)
+# Options.HebrewMode property (Word)
 
 Returns or sets the mode for the Hebrew spelling checker. Read/write  **WdHebSpellStart** .
 

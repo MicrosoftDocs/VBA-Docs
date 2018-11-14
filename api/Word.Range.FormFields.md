@@ -1,5 +1,5 @@
 ---
-title: Range.FormFields Property (Word)
+title: Range.FormFields property (Word)
 keywords: vbawd10.chm157155393
 f1_keywords:
 - vbawd10.chm157155393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FormFields Property (Word)
+# Range.FormFields property (Word)
 
 Returns a  **[FormFields](Word.formfields.md)** collection that represents all the form fields in the range. Read-only.
 

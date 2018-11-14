@@ -1,5 +1,5 @@
 ---
-title: CubeField.DragToRow Property (Excel)
+title: CubeField.DragToRow property (Excel)
 keywords: vbaxl10.chm668083
 f1_keywords:
 - vbaxl10.chm668083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.DragToRow Property (Excel)
+# CubeField.DragToRow property (Excel)
 
  **True** if the field can be dragged to the row position. The default value is **True** . Read/write **Boolean** .
 

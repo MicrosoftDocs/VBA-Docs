@@ -1,5 +1,5 @@
 ---
-title: Options.Overtype Property (Word)
+title: Options.Overtype property (Word)
 keywords: vbawd10.chm162988098
 f1_keywords:
 - vbawd10.chm162988098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.Overtype Property (Word)
+# Options.Overtype property (Word)
 
  **True** if Overtype mode is active. Read/write **Boolean** .
 

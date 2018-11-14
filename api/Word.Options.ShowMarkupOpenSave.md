@@ -1,5 +1,5 @@
 ---
-title: Options.ShowMarkupOpenSave Property (Word)
+title: Options.ShowMarkupOpenSave property (Word)
 keywords: vbawd10.chm162988490
 f1_keywords:
 - vbawd10.chm162988490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowMarkupOpenSave Property (Word)
+# Options.ShowMarkupOpenSave property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word displays hidden markup when opening or saving a file.
 

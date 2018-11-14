@@ -1,5 +1,5 @@
 ---
-title: WdRelativeHorizontalPosition Enumeration (Word)
+title: WdRelativeHorizontalPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRelativeHorizontalPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRelativeHorizontalPosition Enumeration (Word)
+# WdRelativeHorizontalPosition enumeration (Word)
 
 Specifies to what the horizontal position of a frame, a shape, or a group of rows is relative.
 

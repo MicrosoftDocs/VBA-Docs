@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateLinksAtPrint Property (Word)
+title: Options.UpdateLinksAtPrint property (Word)
 keywords: vbawd10.chm162988068
 f1_keywords:
 - vbawd10.chm162988068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UpdateLinksAtPrint Property (Word)
+# Options.UpdateLinksAtPrint property (Word)
 
  **True** if Microsoft Word updates embedded links to other files before printing a document. Read/write **Boolean** .
 

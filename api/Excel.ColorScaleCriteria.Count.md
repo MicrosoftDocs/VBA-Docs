@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriteria.Count Property (Excel)
+title: ColorScaleCriteria.Count property (Excel)
 keywords: vbaxl10.chm807073
 f1_keywords:
 - vbaxl10.chm807073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriteria.Count Property (Excel)
+# ColorScaleCriteria.Count property (Excel)
 
 Returns a  **Long** value that specifies the number of criteria for a color scale conditional format rule. Read-only.
 

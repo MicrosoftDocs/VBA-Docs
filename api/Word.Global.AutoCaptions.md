@@ -1,5 +1,5 @@
 ---
-title: Global.AutoCaptions Property (Word)
+title: Global.AutoCaptions property (Word)
 keywords: vbawd10.chm163119125
 f1_keywords:
 - vbawd10.chm163119125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.AutoCaptions Property (Word)
+# Global.AutoCaptions property (Word)
 
 Returns an  **[AutoCaptions](Word.autocaptions.md)** collection that represents the captions that are automatically added when items such as tables and pictures are inserted into a document. Read-only.
 

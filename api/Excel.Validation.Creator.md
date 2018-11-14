@@ -1,5 +1,5 @@
 ---
-title: Validation.Creator Property (Excel)
+title: Validation.Creator property (Excel)
 keywords: vbaxl10.chm531074
 f1_keywords:
 - vbaxl10.chm531074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.Creator Property (Excel)
+# Validation.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

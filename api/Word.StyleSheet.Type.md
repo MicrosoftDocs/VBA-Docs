@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Type Property (Word)
+title: StyleSheet.Type property (Word)
 keywords: vbawd10.chm166658053
 f1_keywords:
 - vbawd10.chm166658053
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Type Property (Word)
+# StyleSheet.Type property (Word)
 
 Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.WdStyleSheetLinkType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Extensions Property (Word)
+title: FileConverter.Extensions property (Word)
 keywords: vbawd10.chm161021960
 f1_keywords:
 - vbawd10.chm161021960
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.Extensions Property (Word)
+# FileConverter.Extensions property (Word)
 
 Returns the file name extensions associated with the specified  **FileConverter** object. Read-only **String** .
 

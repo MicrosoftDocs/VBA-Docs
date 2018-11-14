@@ -1,5 +1,5 @@
 ---
-title: Editors.Creator Property (Word)
+title: Editors.Creator property (Word)
 keywords: vbawd10.chm9176041
 f1_keywords:
 - vbawd10.chm9176041
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors.Creator Property (Word)
+# Editors.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

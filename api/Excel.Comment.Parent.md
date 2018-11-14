@@ -1,5 +1,5 @@
 ---
-title: Comment.Parent Property (Excel)
+title: Comment.Parent property (Excel)
 keywords: vbaxl10.chm515075
 f1_keywords:
 - vbaxl10.chm515075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Parent Property (Excel)
+# Comment.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

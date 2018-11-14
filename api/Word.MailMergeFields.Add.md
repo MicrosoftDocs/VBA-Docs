@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.Add Method (Word)
+title: MailMergeFields.Add method (Word)
 keywords: vbawd10.chm153026661
 f1_keywords:
 - vbawd10.chm153026661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.Add Method (Word)
+# MailMergeFields.Add method (Word)
 
 Returns a  **MailMergeField** object that represents a mail merge field added to the data source document.
 

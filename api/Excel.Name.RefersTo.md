@@ -1,5 +1,5 @@
 ---
-title: Name.RefersTo Property (Excel)
+title: Name.RefersTo property (Excel)
 keywords: vbaxl10.chm490080
 f1_keywords:
 - vbaxl10.chm490080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.RefersTo Property (Excel)
+# Name.RefersTo property (Excel)
 
 Returns or sets the formula that the name is defined to refer to, in the language of the macro and in A1-style notation, beginning with an equal sign. Read/write  **String** .
 

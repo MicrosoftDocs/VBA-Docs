@@ -1,5 +1,5 @@
 ---
-title: XMLNode.NodeValue Property (Word)
+title: XMLNode.NodeValue property (Word)
 keywords: vbawd10.chm37748752
 f1_keywords:
 - vbawd10.chm37748752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.NodeValue Property (Word)
+# XMLNode.NodeValue property (Word)
 
  Returns or sets a **String** that represents the value of an XML element. Read/write.
 

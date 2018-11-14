@@ -1,5 +1,5 @@
 ---
-title: WdViewType Enumeration (Word)
+title: WdViewType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdViewType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdViewType Enumeration (Word)
+# WdViewType enumeration (Word)
 
 Specifies the view type.
 

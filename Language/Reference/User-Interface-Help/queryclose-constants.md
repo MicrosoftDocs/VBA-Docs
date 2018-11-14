@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbFormControlMenu**|0|The user chose the  **Close** command from the **Control** menu on the form.|
 |**vbFormCode**|1|The  **Unload** statement is invoked from code.|

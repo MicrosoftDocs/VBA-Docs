@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.IncludeInLayout Property (Word)
+title: ChartTitle.IncludeInLayout property (Word)
 keywords: vbawd10.chm65276274
 f1_keywords:
 - vbawd10.chm65276274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.IncludeInLayout Property (Word)
+# ChartTitle.IncludeInLayout property (Word)
 
  **True** if a chart title will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
 

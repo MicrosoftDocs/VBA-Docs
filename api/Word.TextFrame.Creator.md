@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Creator Property (Word)
+title: TextFrame.Creator property (Word)
 keywords: vbawd10.chm162668353
 f1_keywords:
 - vbawd10.chm162668353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Creator Property (Word)
+# TextFrame.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

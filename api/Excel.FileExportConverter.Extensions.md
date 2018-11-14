@@ -1,5 +1,5 @@
 ---
-title: FileExportConverter.Extensions Property (Excel)
+title: FileExportConverter.Extensions property (Excel)
 keywords: vbaxl10.chm863073
 f1_keywords:
 - vbaxl10.chm863073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverter.Extensions Property (Excel)
+# FileExportConverter.Extensions property (Excel)
 
 Returns the file name extensions associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only **String** .
 

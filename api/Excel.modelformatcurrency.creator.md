@@ -1,5 +1,5 @@
 ---
-title: ModelFormatCurrency.Creator Property (Excel)
+title: ModelFormatCurrency.Creator property (Excel)
 keywords: vbaxl10.chm993074
 f1_keywords:
 - vbaxl10.chm993074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatCurrency.Creator Property (Excel)
+# ModelFormatCurrency.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

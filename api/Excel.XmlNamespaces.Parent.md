@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces.Parent Property (Excel)
+title: XmlNamespaces.Parent property (Excel)
 keywords: vbaxl10.chm745075
 f1_keywords:
 - vbaxl10.chm745075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces.Parent Property (Excel)
+# XmlNamespaces.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

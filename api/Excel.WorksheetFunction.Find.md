@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Find Method (Excel)
+title: WorksheetFunction.Find method (Excel)
 keywords: vbaxl10.chm137129
 f1_keywords:
 - vbaxl10.chm137129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Find Method (Excel)
+# WorksheetFunction.Find method (Excel)
 
 Finds specific information in a worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: XlFixedFormatQuality Enumeration (Excel)
+title: xlFixedFormatQuality enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFixedFormatQuality
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlFixedFormatQuality Enumeration (Excel)
+# xlFixedFormatQuality enumeration (Excel)
 
 Specifies the quality of speadsheets saved in different fixed formats.
 

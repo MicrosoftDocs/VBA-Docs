@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Me Property (Word)
+title: CoAuthoring.Me property (Word)
 keywords: vbawd10.chm254869506
 f1_keywords:
 - vbawd10.chm254869506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Me Property (Word)
+# CoAuthoring.Me property (Word)
 
 Returns a  **[CoAuthor](Word.CoAuthor.md)** object that represents the current user. Read-only.
 

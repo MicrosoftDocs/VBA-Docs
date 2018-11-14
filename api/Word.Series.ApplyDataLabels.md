@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (Word)
+title: Series.ApplyDataLabels method (Word)
 keywords: vbawd10.chm123733890
 f1_keywords:
 - vbawd10.chm123733890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyDataLabels Method (Word)
+# Series.ApplyDataLabels method (Word)
 
 Applies data labels to a series.
 
@@ -27,7 +27,7 @@ Applies data labels to a series.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Word.xldatalabelstype.md)**|The type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Word.xldatalabelstype.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Word.Chart.md)** and **[Series](Word.Series.md)** objects, **True** if the series has leader lines.|
@@ -40,7 +40,7 @@ Applies data labels to a series.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 -  **xlDataLabelsShowBubbleSizes** The bubble size for the data label.
     

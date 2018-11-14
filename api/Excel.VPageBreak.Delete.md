@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.Delete Method (Excel)
+title: VPageBreak.Delete method (Excel)
 keywords: vbaxl10.chm156074
 f1_keywords:
 - vbaxl10.chm156074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.Delete Method (Excel)
+# VPageBreak.Delete method (Excel)
 
 Deletes the object.
 

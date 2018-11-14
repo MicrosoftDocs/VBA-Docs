@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Caption Property (Excel)
+title: DataLabel.Caption property (Excel)
 keywords: vbaxl10.chm582080
 f1_keywords:
 - vbaxl10.chm582080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Caption Property (Excel)
+# DataLabel.Caption property (Excel)
 
 Returns or sets a  **String** value that represents the data label text.
 

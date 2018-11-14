@@ -1,5 +1,5 @@
 ---
-title: DropLines Object (Excel)
+title: DropLines object (Excel)
 keywords: vbaxl10.chm603072
 f1_keywords:
 - vbaxl10.chm603072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines Object (Excel)
+# DropLines object (Excel)
 
 Represents the drop lines in a chart group.
 

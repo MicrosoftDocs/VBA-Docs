@@ -1,5 +1,5 @@
 ---
-title: Application.Cursor Property (Excel)
+title: Application.Cursor property (Excel)
 keywords: vbaxl10.chm133099
 f1_keywords:
 - vbaxl10.chm133099
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Cursor Property (Excel)
+# Application.Cursor property (Excel)
 
-Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write  **[XlMousePointer](Excel.XlMousePointer.md)** .
+Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/write  **[xlMousePointer](Excel.XlMousePointer.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the appearance of the mouse pointer in Microsoft Excel. Read/wri
 
 
 
-| **XlMousePointer** can be one of these **XlMousePointer** constants.|
+| **xlMousePointer** can be one of these **xlMousePointer** constants.|
 | **xlDefault** . The default pointer.|
 | **xlIBeam** . The I-beam pointer.|
 | **xlNorthwestArrow** . The northwest-arrow pointer.|

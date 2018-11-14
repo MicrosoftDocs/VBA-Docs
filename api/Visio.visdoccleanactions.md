@@ -15,7 +15,7 @@ Flags passed to the  **Document.Clean** method that indicate which document cond
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocCleanActAll**|&H3FFF|Perform all actions.|
 | **visDocCleanActBadDisplayLists**|&H100|Detect invalid display list linkages.|

@@ -1,5 +1,5 @@
 ---
-title: Research.Creator Property (Word)
+title: Research.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.Research.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.Creator Property (Word)
+# Research.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

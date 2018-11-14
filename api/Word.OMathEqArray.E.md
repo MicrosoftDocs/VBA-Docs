@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.E Property (Word)
+title: OMathEqArray.E property (Word)
 keywords: vbawd10.chm174129255
 f1_keywords:
 - vbawd10.chm174129255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.E Property (Word)
+# OMathEqArray.E property (Word)
 
 Returns an  **OMathArgs** object that represents the list of arguments for the specified equation object. Read-only.
 

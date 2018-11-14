@@ -20,7 +20,7 @@ Writes data from a [variable](../../Glossary/vbe-glossary.md#variable) to a disk
 The  **Put** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _recnumber_|Optional.  **Variant** (**Long**). Record number (**Random** mode files) or byte number (**Binary** mode files) at which writing begins.|

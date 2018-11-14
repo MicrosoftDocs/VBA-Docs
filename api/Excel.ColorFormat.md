@@ -1,5 +1,5 @@
 ---
-title: ColorFormat Object (Excel)
+title: ColorFormat object (Excel)
 keywords: vbaxl10.chm105000
 f1_keywords:
 - vbaxl10.chm105000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat Object (Excel)
+# ColorFormat object (Excel)
 
 Represents the color of a one-color object, the foreground or background color of an object with a gradient or patterned fill, or the pointer color.
 

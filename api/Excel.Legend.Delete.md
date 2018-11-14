@@ -1,5 +1,5 @@
 ---
-title: Legend.Delete Method (Excel)
+title: Legend.Delete method (Excel)
 keywords: vbaxl10.chm622077
 f1_keywords:
 - vbaxl10.chm622077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Delete Method (Excel)
+# Legend.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Section.ProtectedForForms Property (Word)
+title: Section.ProtectedForForms property (Word)
 keywords: vbawd10.chm156827771
 f1_keywords:
 - vbawd10.chm156827771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.ProtectedForForms Property (Word)
+# Section.ProtectedForForms property (Word)
 
  **True** if the specified section is protected for forms. Read/write **Boolean** .
 

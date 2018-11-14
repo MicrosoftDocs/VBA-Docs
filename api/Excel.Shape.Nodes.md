@@ -1,5 +1,5 @@
 ---
-title: Shape.Nodes Property (Excel)
+title: Shape.Nodes property (Excel)
 keywords: vbaxl10.chm636104
 f1_keywords:
 - vbaxl10.chm636104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Nodes Property (Excel)
+# Shape.Nodes property (Excel)
 
 Returns a  **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the geometric description of the specified shape.
 

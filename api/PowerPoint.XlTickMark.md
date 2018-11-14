@@ -1,5 +1,5 @@
 ---
-title: XlTickMark Enumeration (PowerPoint)
+title: xlTickMark Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTickMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTickMark Enumeration (PowerPoint)
+# xlTickMark Enumeration (PowerPoint)
 
 Specifies the position of major and minor tick marks for an axis.
 

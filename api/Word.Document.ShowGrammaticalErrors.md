@@ -1,5 +1,5 @@
 ---
-title: Document.ShowGrammaticalErrors Property (Word)
+title: Document.ShowGrammaticalErrors property (Word)
 keywords: vbawd10.chm158007368
 f1_keywords:
 - vbawd10.chm158007368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ShowGrammaticalErrors Property (Word)
+# Document.ShowGrammaticalErrors property (Word)
 
  **True** if grammatical errors are marked by a wavy green line in the specified document. Read/write **Boolean** .
 

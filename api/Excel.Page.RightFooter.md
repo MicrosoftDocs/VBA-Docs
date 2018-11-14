@@ -1,5 +1,5 @@
 ---
-title: Page.RightFooter Property (Excel)
+title: Page.RightFooter property (Excel)
 keywords: vbaxl10.chm830078
 f1_keywords:
 - vbaxl10.chm830078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.RightFooter Property (Excel)
+# Page.RightFooter property (Excel)
 
 Specifies a picture or text to be right aligned in the page footer.
 

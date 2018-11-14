@@ -1,5 +1,5 @@
 ---
-title: Selection.Sort Method (Word)
+title: Selection.Sort method (Word)
 keywords: vbawd10.chm158663679
 f1_keywords:
 - vbawd10.chm158663679
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Sort Method (Word)
+# Selection.Sort method (Word)
 
 Sorts the paragraphs in the specified selection.
 

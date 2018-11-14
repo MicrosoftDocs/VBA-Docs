@@ -1,5 +1,5 @@
 ---
-title: PivotCache.SourceType Property (Excel)
+title: PivotCache.SourceType property (Excel)
 keywords: vbaxl10.chm227101
 f1_keywords:
 - vbaxl10.chm227101
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.SourceType Property (Excel)
+# PivotCache.SourceType property (Excel)
 
-Returns a  **[XlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
+Returns a  **[xlPivotTableSourceType](Excel.XlPivotTableSourceType.md)** value that represents the type of item being published.
 
 
 ## Syntax

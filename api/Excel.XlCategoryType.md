@@ -1,14 +1,14 @@
 ---
-title: XlCategoryType Enumeration (Excel)
+title: xlCategoryType enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlCategoryType
+- Excel.xlCategoryType
 ms.assetid: 2308ced5-c04f-5f71-7239-8dea35c93f20
 ms.date: 06/08/2017
 ---
 
 
-# XlCategoryType Enumeration (Excel)
+# xlCategoryType enumeration (Excel)
 
 Specifies the type of the category axis.
 

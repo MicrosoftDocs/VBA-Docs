@@ -1,5 +1,5 @@
 ---
-title: Row.Cells Property (Word)
+title: Row.Cells property (Word)
 keywords: vbawd10.chm156237924
 f1_keywords:
 - vbawd10.chm156237924
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Cells Property (Word)
+# Row.Cells property (Word)
 
 Returns a  **[Cells](Word.cells.md)** collection that represents the table cells in a column, row, selection, or range. Read-only.
 

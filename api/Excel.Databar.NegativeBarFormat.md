@@ -1,5 +1,5 @@
 ---
-title: Databar.NegativeBarFormat Property (Excel)
+title: Databar.NegativeBarFormat property (Excel)
 keywords: vbaxl10.chm810095
 f1_keywords:
 - vbaxl10.chm810095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.NegativeBarFormat Property (Excel)
+# Databar.NegativeBarFormat property (Excel)
 
 Returns the  **[NegativeBarFormat](Excel.NegativeBarFormat.md)** object associated with a data bar conditional formatting rule. Read-only
 

@@ -21,7 +21,7 @@ _object_**.CreateEventProc(**_eventname_, _objectname_**) As Long**
 The  **CreateEventProc** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _eventname_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the event you want to add to the [module](../../Glossary/vbe-glossary.md#module).|

@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.ModifyAppliesToRange Method (Excel)
+title: AboveAverage.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm824085
 f1_keywords:
 - vbaxl10.chm824085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.ModifyAppliesToRange Method (Excel)
+# AboveAverage.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

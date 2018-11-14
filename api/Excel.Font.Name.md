@@ -1,5 +1,5 @@
 ---
-title: Font.Name Property (Excel)
+title: Font.Name property (Excel)
 keywords: vbaxl10.chm559079
 f1_keywords:
 - vbaxl10.chm559079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Name Property (Excel)
+# Font.Name property (Excel)
 
 Returns or sets a  **Variant** value that represents the name of the object.
 

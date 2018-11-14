@@ -1,5 +1,5 @@
 ---
-title: Paragraph.OutlineDemote Method (Word)
+title: Paragraph.OutlineDemote method (Word)
 keywords: vbawd10.chm156696903
 f1_keywords:
 - vbawd10.chm156696903
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.OutlineDemote Method (Word)
+# Paragraph.OutlineDemote method (Word)
 
 Applies the next heading level style (Heading 1 through Heading 8) to the specified paragraph or paragraphs.
 

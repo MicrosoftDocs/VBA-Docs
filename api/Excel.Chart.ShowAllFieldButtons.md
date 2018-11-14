@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAllFieldButtons Property (Excel)
+title: Chart.ShowAllFieldButtons property (Excel)
 keywords: vbaxl10.chm149193
 f1_keywords:
 - vbaxl10.chm149193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowAllFieldButtons Property (Excel)
+# Chart.ShowAllFieldButtons property (Excel)
 
 Returns or sets whether to display all field buttons on a PivotChart. Read/write
 

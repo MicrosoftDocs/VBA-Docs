@@ -1,5 +1,5 @@
 ---
-title: WdStyleSort Enumeration (Word)
+title: WdStyleSort enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStyleSort
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStyleSort Enumeration (Word)
+# WdStyleSort enumeration (Word)
 
 Indicates how to sort styles in the  **Styles** task pane.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HorizontalAnchor Property (Word)
+title: TextFrame.HorizontalAnchor property (Word)
 keywords: vbawd10.chm162665364
 f1_keywords:
 - vbawd10.chm162665364
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.HorizontalAnchor Property (Word)
+# TextFrame.HorizontalAnchor property (Word)
 
 Returns or sets the horizontal alignment of text in a text frame. Read/write  **[MsoHorizontalAnchor](./Office.MsoHorizontalAnchor.md)** .
 

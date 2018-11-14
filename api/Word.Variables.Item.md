@@ -1,5 +1,5 @@
 ---
-title: Variables.Item Method (Word)
+title: Variables.Item method (Word)
 keywords: vbawd10.chm157614080
 f1_keywords:
 - vbawd10.chm157614080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Item Method (Word)
+# Variables.Item method (Word)
 
 Returns an individual  **Variable** object in a collection.
 

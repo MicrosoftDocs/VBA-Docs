@@ -1,5 +1,5 @@
 ---
-title: Options.SpanishMode Property (Word)
+title: Options.SpanishMode property (Word)
 keywords: vbawd10.chm162988530
 f1_keywords:
 - vbawd10.chm162988530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SpanishMode Property (Word)
+# Options.SpanishMode property (Word)
 
 Returns or sets the mode for the Spanish speller. Read/write [WdSpanishSpeller](Word.WdSpanishSpeller.md).
 

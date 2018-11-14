@@ -1,5 +1,5 @@
 ---
-title: Axes.Parent Property (Excel)
+title: Axes.Parent property (Excel)
 keywords: vbaxl10.chm571075
 f1_keywords:
 - vbaxl10.chm571075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Parent Property (Excel)
+# Axes.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

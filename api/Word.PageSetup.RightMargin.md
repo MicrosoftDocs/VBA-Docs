@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightMargin Property (Word)
+title: PageSetup.RightMargin property (Word)
 keywords: vbawd10.chm158400615
 f1_keywords:
 - vbawd10.chm158400615
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightMargin Property (Word)
+# PageSetup.RightMargin property (Word)
 
 Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. Read/write  **Single** .
 

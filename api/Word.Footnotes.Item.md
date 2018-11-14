@@ -1,5 +1,5 @@
 ---
-title: Footnotes.Item Method (Word)
+title: Footnotes.Item method (Word)
 keywords: vbawd10.chm155320320
 f1_keywords:
 - vbawd10.chm155320320
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.Item Method (Word)
+# Footnotes.Item method (Word)
 
 Returns an individual  **Footnote** object in a collection.
 

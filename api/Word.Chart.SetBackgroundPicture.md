@@ -1,5 +1,5 @@
 ---
-title: Chart.SetBackgroundPicture Method (Word)
+title: Chart.SetBackgroundPicture method (Word)
 keywords: vbawd10.chm79364161
 f1_keywords:
 - vbawd10.chm79364161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetBackgroundPicture Method (Word)
+# Chart.SetBackgroundPicture method (Word)
 
 Sets the background graphic for a chart.
 

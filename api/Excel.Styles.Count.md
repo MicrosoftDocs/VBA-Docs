@@ -1,5 +1,5 @@
 ---
-title: Styles.Count Property (Excel)
+title: Styles.Count property (Excel)
 keywords: vbaxl10.chm179074
 f1_keywords:
 - vbaxl10.chm179074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Count Property (Excel)
+# Styles.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

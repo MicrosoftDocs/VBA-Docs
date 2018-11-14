@@ -1,5 +1,5 @@
 ---
-title: XlWindowType Enumeration (Excel)
+title: xlWindowType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWindowType Enumeration (Excel)
+# xlWindowType enumeration (Excel)
 
 Specifies how the chart is displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.USDollar Method (Excel)
+title: WorksheetFunction.USDollar method (Excel)
 keywords: vbaxl10.chm137153
 f1_keywords:
 - vbaxl10.chm137153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.USDollar Method (Excel)
+# WorksheetFunction.USDollar method (Excel)
 
 Converts a number to text format and applies a currency symbol. The name of the method (and the symbol that it applies) depends upon the language settings.
 

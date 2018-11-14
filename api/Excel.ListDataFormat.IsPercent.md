@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.IsPercent Property (Excel)
+title: ListDataFormat.IsPercent property (Excel)
 keywords: vbaxl10.chm758077
 f1_keywords:
 - vbaxl10.chm758077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.IsPercent Property (Excel)
+# ListDataFormat.IsPercent property (Excel)
 
 Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](Excel.ListColumn.md)** object will be shown in percentage formatting. Read-only **Boolean** . Read-only.
 

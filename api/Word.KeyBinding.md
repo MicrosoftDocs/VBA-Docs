@@ -1,5 +1,5 @@
 ---
-title: KeyBinding Object (Word)
+title: KeyBinding object (Word)
 keywords: vbawd10.chm2456
 f1_keywords:
 - vbawd10.chm2456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding Object (Word)
+# KeyBinding object (Word)
 
 Represents a custom key assignment in the current context. The  **KeyBinding** object is a member of the **KeyBindings** collection.
 

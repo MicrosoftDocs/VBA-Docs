@@ -1,5 +1,5 @@
 ---
-title: Global.DDEInitiate Method (Word)
+title: Global.DDEInitiate method (Word)
 keywords: vbawd10.chm163119415
 f1_keywords:
 - vbawd10.chm163119415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.DDEInitiate Method (Word)
+# Global.DDEInitiate method (Word)
 
 Opens a dynamic data exchange (DDE) channel to another application, and returns the channel number.
 

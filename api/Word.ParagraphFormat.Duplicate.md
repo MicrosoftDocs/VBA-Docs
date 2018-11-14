@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Duplicate Property (Word)
+title: ParagraphFormat.Duplicate property (Word)
 keywords: vbawd10.chm156434442
 f1_keywords:
 - vbawd10.chm156434442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Duplicate Property (Word)
+# ParagraphFormat.Duplicate property (Word)
 
 Returns a read-only  **ParagraphFormat** object that represents the paragraph formatting of the specified paragraph.
 

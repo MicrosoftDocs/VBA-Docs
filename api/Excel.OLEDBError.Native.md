@@ -1,5 +1,5 @@
 ---
-title: OLEDBError.Native Property (Excel)
+title: OLEDBError.Native property (Excel)
 keywords: vbaxl10.chm654075
 f1_keywords:
 - vbaxl10.chm654075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBError.Native Property (Excel)
+# OLEDBError.Native property (Excel)
 
 Returns a provider-specific numeric value that specifies an error. The error number corresponds to an error condition that resulted after the most recent OLE DB query. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.ShowGrid Property (Word)
+title: PageSetup.ShowGrid property (Word)
 keywords: vbawd10.chm158400640
 f1_keywords:
 - vbawd10.chm158400640
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.ShowGrid Property (Word)
+# PageSetup.ShowGrid property (Word)
 
  **True** to display the page grid. **False** to hide it. Read/write **Boolean**.
 

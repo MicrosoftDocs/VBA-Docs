@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Creator Property (Excel)
+title: FreeformBuilder.Creator property (Excel)
 keywords: vbaxl10.chm647074
 f1_keywords:
 - vbaxl10.chm647074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.Creator Property (Excel)
+# FreeformBuilder.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

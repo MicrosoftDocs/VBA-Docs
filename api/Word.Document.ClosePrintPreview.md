@@ -1,5 +1,5 @@
 ---
-title: Document.ClosePrintPreview Method (Word)
+title: Document.ClosePrintPreview method (Word)
 keywords: vbawd10.chm158007554
 f1_keywords:
 - vbawd10.chm158007554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ClosePrintPreview Method (Word)
+# Document.ClosePrintPreview method (Word)
 
 Switches the specified document from print preview to the previous view.
 

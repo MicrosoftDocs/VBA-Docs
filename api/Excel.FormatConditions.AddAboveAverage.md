@@ -1,5 +1,5 @@
 ---
-title: FormatConditions.AddAboveAverage Method (Excel)
+title: FormatConditions.AddAboveAverage method (Excel)
 keywords: vbaxl10.chm510083
 f1_keywords:
 - vbaxl10.chm510083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatConditions.AddAboveAverage Method (Excel)
+# FormatConditions.AddAboveAverage method (Excel)
 
 Returns a new  **[AboveAverage](Excel.AboveAverage.md)** object representing a conditional formatting rule for the specified range.
 

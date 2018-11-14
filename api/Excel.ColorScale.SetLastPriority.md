@@ -1,5 +1,5 @@
 ---
-title: ColorScale.SetLastPriority Method (Excel)
+title: ColorScale.SetLastPriority method (Excel)
 keywords: vbaxl10.chm806079
 f1_keywords:
 - vbaxl10.chm806079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.SetLastPriority Method (Excel)
+# ColorScale.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 

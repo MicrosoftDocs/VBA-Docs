@@ -1,5 +1,5 @@
 ---
-title: Workbook.DefaultTableStyle Property (Excel)
+title: Workbook.DefaultTableStyle property (Excel)
 keywords: vbaxl10.chm199247
 f1_keywords:
 - vbaxl10.chm199247
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DefaultTableStyle Property (Excel)
+# Workbook.DefaultTableStyle property (Excel)
 
 Specifies the table style from the  **TableStyles** collection that is used as the default TableStyle. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.KeyCode2 Property (Word)
+title: KeyBinding.KeyCode2 property (Word)
 keywords: vbawd10.chm160956423
 f1_keywords:
 - vbawd10.chm160956423
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.KeyCode2 Property (Word)
+# KeyBinding.KeyCode2 property (Word)
 
 Returns a unique number for the second key in the specified key binding. Read-only  **Long** .
 

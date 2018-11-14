@@ -1,5 +1,5 @@
 ---
-title: FormField.Copy Method (Word)
+title: FormField.Copy method (Word)
 keywords: vbawd10.chm153616485
 f1_keywords:
 - vbawd10.chm153616485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Copy Method (Word)
+# FormField.Copy method (Word)
 
 Copies the specified form field to the Clipboard.
 

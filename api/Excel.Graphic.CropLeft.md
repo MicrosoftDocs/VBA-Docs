@@ -1,5 +1,5 @@
 ---
-title: Graphic.CropLeft Property (Excel)
+title: Graphic.CropLeft property (Excel)
 keywords: vbaxl10.chm694077
 f1_keywords:
 - vbaxl10.chm694077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.CropLeft Property (Excel)
+# Graphic.CropLeft property (Excel)
 
 Returns or sets the number of points that are cropped off the left side of the specified picture or OLE object. Read/write  **Single** .
 

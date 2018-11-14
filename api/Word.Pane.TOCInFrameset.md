@@ -1,5 +1,5 @@
 ---
-title: Pane.TOCInFrameset Method (Word)
+title: Pane.TOCInFrameset method (Word)
 keywords: vbawd10.chm157286507
 f1_keywords:
 - vbawd10.chm157286507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.TOCInFrameset Method (Word)
+# Pane.TOCInFrameset method (Word)
 
 Creates a table of contents based on the specified document and puts it in a new frame on the left side of the frames page.
 

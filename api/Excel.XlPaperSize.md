@@ -1,5 +1,5 @@
 ---
-title: XlPaperSize Enumeration (Excel)
+title: xlPaperSize enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPaperSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPaperSize Enumeration (Excel)
+# xlPaperSize enumeration (Excel)
 
 Specifies the size of the paper.
 

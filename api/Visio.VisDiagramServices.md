@@ -18,7 +18,7 @@ Specifies constants that represent diagram services. These constants are passed 
 Version Added: Visio 2010 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visServiceNone**|0|No diagram services.|
 | **visServiceAll**|-1|All diagram services.|

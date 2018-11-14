@@ -1,5 +1,5 @@
 ---
-title: WdTextboxTightWrap Enumeration (Word)
+title: WdTextboxTightWrap enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextboxTightWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTextboxTightWrap Enumeration (Word)
+# WdTextboxTightWrap enumeration (Word)
 
 Specifies how Microsoft Word tightly wraps text around text boxes.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.EndnoteOptions Property (Word)
+title: Range.EndnoteOptions property (Word)
 keywords: vbawd10.chm157155739
 f1_keywords:
 - vbawd10.chm157155739
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EndnoteOptions Property (Word)
+# Range.EndnoteOptions property (Word)
 
 Returns an  **EndnoteOptions** object that represents the endnotes in a range.
 

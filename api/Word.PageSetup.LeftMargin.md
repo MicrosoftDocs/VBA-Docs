@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftMargin Property (Word)
+title: PageSetup.LeftMargin property (Word)
 keywords: vbawd10.chm158400614
 f1_keywords:
 - vbawd10.chm158400614
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftMargin Property (Word)
+# PageSetup.LeftMargin property (Word)
 
 Returns or sets the distance (in points) between the left edge of the page and the left boundary of the body text. Read/write  **Single** .
 

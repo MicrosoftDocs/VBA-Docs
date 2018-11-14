@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileThousandsSeparator Property (Excel)
+title: QueryTable.TextFileThousandsSeparator property (Excel)
 keywords: vbaxl10.chm518119
 f1_keywords:
 - vbaxl10.chm518119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileThousandsSeparator Property (Excel)
+# QueryTable.TextFileThousandsSeparator property (Excel)
 
 Returns or sets the thousands separator character thatMicrosoft Excel uses when you import a text file into a query table. The default is the system thousands separator character. Read/write  **String** .
 

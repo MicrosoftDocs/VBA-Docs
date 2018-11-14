@@ -15,7 +15,7 @@ Attribute codes returned by the  **Font.Attributes** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFont0Alias**|128|Used instead of font 0 (the default font). The font 0 alias is used in some localized versions of Microsoft Visio and is controlled by means of entries in the registry. |
 

@@ -1,5 +1,5 @@
 ---
-title: Window.EnvelopeVisible Property (Word)
+title: Window.EnvelopeVisible property (Word)
 keywords: vbawd10.chm157417505
 f1_keywords:
 - vbawd10.chm157417505
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.EnvelopeVisible Property (Word)
+# Window.EnvelopeVisible property (Word)
 
- **True** if the e-mail message header is visible in the document window. The default value is **False** . Read/write **Boolean** .
+ **True** if the email message header is visible in the document window. The default value is **False** . Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property has no effect if the document isn't an e-mail message.
+This property has no effect if the document isn't an email message.
 
 
 ## Example
 
-This example displays the e-mail message header.
+This example displays the email message header.
 
 
 ```vb

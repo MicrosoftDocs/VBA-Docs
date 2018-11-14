@@ -1,5 +1,5 @@
 ---
-title: Parameters.Add Method (Excel)
+title: Parameters.Add method (Excel)
 keywords: vbaxl10.chm525073
 f1_keywords:
 - vbaxl10.chm525073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameters.Add Method (Excel)
+# Parameters.Add method (Excel)
 
 Creates a new query parameter.
 
@@ -30,7 +30,7 @@ Creates a new query parameter.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the specified parameter. The parameter name should match the parameter clause in the SQL statement.|
-| _iDataType_|Optional| **Variant**|The data type of the parameter. Can be any  **[XlParameterDataType](Excel.XlParameterDataType.md)** constant. These values correspond to ODBC data types. They indicate the type of value the ODBC driver is expecting to receive. Microsoft Excel and the ODBC driver manager will coerce the parameter value given in Microsoft Excel into the correct data type for the driver.|
+| _iDataType_|Optional| **Variant**|The data type of the parameter. Can be any  **[xlParameterDataType](Excel.XlParameterDataType.md)** constant. These values correspond to ODBC data types. They indicate the type of value the ODBC driver is expecting to receive. Microsoft Excel and the ODBC driver manager will coerce the parameter value given in Microsoft Excel into the correct data type for the driver.|
 
 ## Return value
 

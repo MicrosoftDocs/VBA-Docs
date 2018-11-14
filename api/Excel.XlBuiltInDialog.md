@@ -1,14 +1,14 @@
 ---
-title: XlBuiltInDialog Enumeration (Excel)
+title: xlBuiltInDialog enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlBuiltInDialog
+- Excel.xlBuiltInDialog
 ms.assetid: 18f10073-3793-f7e8-4361-72011e60cd4c
 ms.date: 06/08/2017
 ---
 
 
-# XlBuiltInDialog Enumeration (Excel)
+# xlBuiltInDialog enumeration (Excel)
 
 Specifies which dialog box to display.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayExcel4Menus Property (Excel)
+title: Application.DisplayExcel4Menus property (Excel)
 keywords: vbaxl10.chm133124
 f1_keywords:
 - vbaxl10.chm133124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayExcel4Menus Property (Excel)
+# Application.DisplayExcel4Menus property (Excel)
 
  **True** if Microsoft Excel displays version 4.0 menu bars. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ispmt Method (Excel)
+title: WorksheetFunction.Ispmt method (Excel)
 keywords: vbaxl10.chm137244
 f1_keywords:
 - vbaxl10.chm137244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ispmt Method (Excel)
+# WorksheetFunction.Ispmt method (Excel)
 
 Calculates the interest paid during a specific period of an investment. This function is provided for compatibility with Lotus 1-2-3.
 

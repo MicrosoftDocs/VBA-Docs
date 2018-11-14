@@ -1,5 +1,5 @@
 ---
-title: Paragraph.WordWrap Property (Word)
+title: Paragraph.WordWrap property (Word)
 keywords: vbawd10.chm156696694
 f1_keywords:
 - vbawd10.chm156696694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.WordWrap Property (Word)
+# Paragraph.WordWrap property (Word)
 
  **True** if Microsoft Word wraps Latin text in the middle of a word in the specified paragraphs or text frames. Read/write **Long** .
 

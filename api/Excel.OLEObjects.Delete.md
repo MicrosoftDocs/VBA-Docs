@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Delete Method (Excel)
+title: OLEObjects.Delete method (Excel)
 keywords: vbaxl10.chm419078
 f1_keywords:
 - vbaxl10.chm419078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Delete Method (Excel)
+# OLEObjects.Delete method (Excel)
 
 Deletes the object.
 

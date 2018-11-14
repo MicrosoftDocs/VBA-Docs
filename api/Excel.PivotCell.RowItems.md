@@ -1,5 +1,5 @@
 ---
-title: PivotCell.RowItems Property (Excel)
+title: PivotCell.RowItems property (Excel)
 keywords: vbaxl10.chm692078
 f1_keywords:
 - vbaxl10.chm692078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.RowItems Property (Excel)
+# PivotCell.RowItems property (Excel)
 
 Returns a  **[PivotItemList](Excel.PivotItemList.md)** collection that corresponds to the items on the category axis that represent the selected cell.
 

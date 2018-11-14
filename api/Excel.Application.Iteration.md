@@ -1,5 +1,5 @@
 ---
-title: Application.Iteration Property (Excel)
+title: Application.Iteration property (Excel)
 keywords: vbaxl10.chm133152
 f1_keywords:
 - vbaxl10.chm133152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Iteration Property (Excel)
+# Application.Iteration property (Excel)
 
  **True** if Microsoft Excel will use iteration to resolve circular references. Read/write **Boolean** .
 

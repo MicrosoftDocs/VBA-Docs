@@ -1,5 +1,5 @@
 ---
-title: Find.IgnorePunct Property (Word)
+title: Find.IgnorePunct property (Word)
 keywords: vbawd10.chm162529388
 f1_keywords:
 - vbawd10.chm162529388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.IgnorePunct Property (Word)
+# Find.IgnorePunct property (Word)
 
 Returns or sets a  **Boolean** that represents whether a find operation should ignore punctuation in found text. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyLayout Method (Excel)
+title: Chart.ApplyLayout method (Excel)
 keywords: vbaxl10.chm149174
 f1_keywords:
 - vbaxl10.chm149174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyLayout Method (Excel)
+# Chart.ApplyLayout method (Excel)
 
 Applies the layouts shown in the ribbon.
 
@@ -30,7 +30,7 @@ Applies the layouts shown in the ribbon.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **Long**|Specifies the type of layout. The type of layout is denoted by a number from 1 to 10.|
-| _ChartType_|Optional| **[XlChartType](Excel.XlChartType.md)**|The type of chart.|
+| _ChartType_|Optional| **[xlChartType](Excel.XlChartType.md)**|The type of chart.|
 
 ## Remarks
 

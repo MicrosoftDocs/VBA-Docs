@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Creator Property (Word)
+title: KeysBoundTo.Creator property (Word)
 keywords: vbawd10.chm160891881
 f1_keywords:
 - vbawd10.chm160891881
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Creator Property (Word)
+# KeysBoundTo.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

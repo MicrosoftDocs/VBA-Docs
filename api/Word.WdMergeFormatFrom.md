@@ -1,5 +1,5 @@
 ---
-title: WdMergeFormatFrom Enumeration (Word)
+title: WdMergeFormatFrom enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMergeFormatFrom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMergeFormatFrom Enumeration (Word)
+# WdMergeFormatFrom enumeration (Word)
 
 Specifies the document from which to retain formatting during a document compare function.
 

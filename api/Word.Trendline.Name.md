@@ -1,5 +1,5 @@
 ---
-title: Trendline.Name Property (Word)
+title: Trendline.Name property (Word)
 keywords: vbawd10.chm26345582
 f1_keywords:
 - vbawd10.chm26345582
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Name Property (Word)
+# Trendline.Name property (Word)
 
 Returns or sets name of the object. Read/write  **String** .
 

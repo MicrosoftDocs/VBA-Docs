@@ -1,5 +1,5 @@
 ---
-title: Frame.Copy Method (Word)
+title: Frame.Copy method (Word)
 keywords: vbawd10.chm153747557
 f1_keywords:
 - vbawd10.chm153747557
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Copy Method (Word)
+# Frame.Copy method (Word)
 
 Copies the specified frame to the Clipboard.
 

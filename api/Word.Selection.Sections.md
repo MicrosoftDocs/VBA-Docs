@@ -1,5 +1,5 @@
 ---
-title: Selection.Sections Property (Word)
+title: Selection.Sections property (Word)
 keywords: vbawd10.chm158662714
 f1_keywords:
 - vbawd10.chm158662714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Sections Property (Word)
+# Selection.Sections property (Word)
 
 Returns a  **[Sections](Word.sections.md)** collection that represents the sections in the specified selection. Read-only.
 

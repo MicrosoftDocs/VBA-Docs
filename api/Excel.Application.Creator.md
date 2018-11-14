@@ -1,5 +1,5 @@
 ---
-title: Application.Creator Property (Excel)
+title: Application.Creator property (Excel)
 keywords: vbaxl10.chm182074
 f1_keywords:
 - vbaxl10.chm182074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Creator Property (Excel)
+# Application.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

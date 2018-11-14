@@ -1,5 +1,5 @@
 ---
-title: ListObject.SharePointURL Property (Excel)
+title: ListObject.SharePointURL property (Excel)
 keywords: vbaxl10.chm734095
 f1_keywords:
 - vbaxl10.chm734095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.SharePointURL Property (Excel)
+# ListObject.SharePointURL property (Excel)
 
  Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String** .
 

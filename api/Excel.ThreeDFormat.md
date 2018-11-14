@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat Object (Excel)
+title: ThreeDFormat object (Excel)
 keywords: vbaxl10.chm120000
 f1_keywords:
 - vbaxl10.chm120000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat Object (Excel)
+# ThreeDFormat object (Excel)
 
 Represents a shape's three-dimensional formatting.
 

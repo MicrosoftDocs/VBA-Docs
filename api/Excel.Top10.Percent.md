@@ -1,5 +1,5 @@
 ---
-title: Top10.Percent Property (Excel)
+title: Top10.Percent property (Excel)
 keywords: vbaxl10.chm822078
 f1_keywords:
 - vbaxl10.chm822078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Percent Property (Excel)
+# Top10.Percent property (Excel)
 
 Returns or sets a  **Boolean** value, specifying if the rank is determined by a percentage value.
 

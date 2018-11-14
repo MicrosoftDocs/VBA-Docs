@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PaperSize Property (Word)
+title: PageSetup.PaperSize property (Word)
 keywords: vbawd10.chm158400632
 f1_keywords:
 - vbawd10.chm158400632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PaperSize Property (Word)
+# PageSetup.PaperSize property (Word)
 
 Returns or sets the paper size. Read/write  **WdPaperSize** .
 

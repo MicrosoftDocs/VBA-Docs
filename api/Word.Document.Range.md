@@ -1,5 +1,5 @@
 ---
-title: Document.Range Method (Word)
+title: Document.Range method (Word)
 keywords: vbawd10.chm158009296
 f1_keywords:
 - vbawd10.chm158009296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Range Method (Word)
+# Document.Range method (Word)
 
 Returns a  **Range** object by using the specified starting and ending character positions.
 

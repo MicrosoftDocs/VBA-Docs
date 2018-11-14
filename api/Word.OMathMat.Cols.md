@@ -1,5 +1,5 @@
 ---
-title: OMathMat.Cols Property (Word)
+title: OMathMat.Cols property (Word)
 keywords: vbawd10.chm176029800
 f1_keywords:
 - vbawd10.chm176029800
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.Cols Property (Word)
+# OMathMat.Cols property (Word)
 
 Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents the columns in a matrix. Read-only.
 

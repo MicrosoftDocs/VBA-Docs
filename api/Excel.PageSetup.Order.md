@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Order Property (Excel)
+title: PageSetup.Order property (Excel)
 keywords: vbaxl10.chm473089
 f1_keywords:
 - vbaxl10.chm473089
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Order Property (Excel)
+# PageSetup.Order property (Excel)
 
-Returns or sets a  **[XlOrder](Excel.XlOrder.md)** value that represents the order that Microsoft Excel uses to number pages when printing a large worksheet.
+Returns or sets a  **[xlOrder](Excel.XlOrder.md)** value that represents the order that Microsoft Excel uses to number pages when printing a large worksheet.
 
 
 ## Syntax

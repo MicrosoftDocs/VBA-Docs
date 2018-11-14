@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Count Property (Word)
+title: SeriesCollection.Count property (Word)
 keywords: vbawd10.chm150405238
 f1_keywords:
 - vbawd10.chm150405238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Count Property (Word)
+# SeriesCollection.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

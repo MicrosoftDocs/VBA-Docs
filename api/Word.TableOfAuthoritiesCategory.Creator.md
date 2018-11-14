@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthoritiesCategory.Creator Property (Word)
+title: TableOfAuthoritiesCategory.Creator property (Word)
 keywords: vbawd10.chm158794729
 f1_keywords:
 - vbawd10.chm158794729
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthoritiesCategory.Creator Property (Word)
+# TableOfAuthoritiesCategory.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

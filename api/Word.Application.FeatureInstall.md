@@ -1,5 +1,5 @@
 ---
-title: Application.FeatureInstall Property (Word)
+title: Application.FeatureInstall property (Word)
 keywords: vbawd10.chm158335423
 f1_keywords:
 - vbawd10.chm158335423
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FeatureInstall Property (Word)
+# Application.FeatureInstall property (Word)
 
 Returns or sets how Microsoft Word handles calls to methods and properties that require features not yet installed. Read/write  **MsoFeatureInstall** .
 

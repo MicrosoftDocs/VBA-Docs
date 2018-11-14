@@ -1,5 +1,5 @@
 ---
-title: WdLinkType Enumeration (Word)
+title: WdLinkType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLinkType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLinkType Enumeration (Word)
+# WdLinkType enumeration (Word)
 
 Specifies the type of link.
 

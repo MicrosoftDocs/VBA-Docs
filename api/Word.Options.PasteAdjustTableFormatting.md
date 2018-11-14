@@ -1,5 +1,5 @@
 ---
-title: Options.PasteAdjustTableFormatting Property (Word)
+title: Options.PasteAdjustTableFormatting property (Word)
 keywords: vbawd10.chm162988463
 f1_keywords:
 - vbawd10.chm162988463
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteAdjustTableFormatting Property (Word)
+# Options.PasteAdjustTableFormatting property (Word)
 
  **True** if Microsoft Word automatically adjusts the formatting of tables when cutting and pasting selections. Read/write **Boolean** .
 

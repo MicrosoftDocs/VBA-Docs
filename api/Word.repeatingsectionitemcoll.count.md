@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl.Count Property (Word)
+title: RepeatingSectionItemColl.Count property (Word)
 keywords: vbawd10.chm171114497
 f1_keywords:
 - vbawd10.chm171114497
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl.Count Property (Word)
+# RepeatingSectionItemColl.Count property (Word)
 
 Returns a  **Long** that represents the number of repeating section items in the collection. Read-only.
 

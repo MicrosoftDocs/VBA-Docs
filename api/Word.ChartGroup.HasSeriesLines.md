@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasSeriesLines Property (Word)
+title: ChartGroup.HasSeriesLines property (Word)
 keywords: vbawd10.chm263454736
 f1_keywords:
 - vbawd10.chm263454736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasSeriesLines Property (Word)
+# ChartGroup.HasSeriesLines property (Word)
 
  **True** if a stacked column chart or bar chart has series lines or if a pie-of-pie chart or bar-of-pie chart has connector lines between the two sections. Read/write **Boolean** .
 

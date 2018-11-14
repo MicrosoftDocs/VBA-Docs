@@ -1,5 +1,5 @@
 ---
-title: AddIn.CLSID Property (Excel)
+title: AddIn.CLSID property (Excel)
 keywords: vbaxl10.chm185083
 f1_keywords:
 - vbaxl10.chm185083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.CLSID Property (Excel)
+# AddIn.CLSID property (Excel)
 
 Returns a read-only unique identifier, or CLSID, identifying an object, as a  **String** .
 

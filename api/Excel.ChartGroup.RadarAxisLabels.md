@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.RadarAxisLabels Property (Excel)
+title: ChartGroup.RadarAxisLabels property (Excel)
 keywords: vbaxl10.chm568087
 f1_keywords:
 - vbaxl10.chm568087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.RadarAxisLabels Property (Excel)
+# ChartGroup.RadarAxisLabels property (Excel)
 
 Returns a  **[TickLabels](Excel.TickLabels(object).md)** object that represents the radar axis labels for the specified chart group. Read-only.
 

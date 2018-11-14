@@ -1,5 +1,5 @@
 ---
-title: Shape.Adjustments Property (Excel)
+title: Shape.Adjustments property (Excel)
 keywords: vbaxl10.chm636089
 f1_keywords:
 - vbaxl10.chm636089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Adjustments Property (Excel)
+# Shape.Adjustments property (Excel)
 
 Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified shape. Applies to any **[Shape](Excel.Shape.md)** object that represents an AutoShape, WordArt, or a connector.
 

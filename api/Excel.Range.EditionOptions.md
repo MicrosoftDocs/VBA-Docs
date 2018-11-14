@@ -1,5 +1,5 @@
 ---
-title: Range.EditionOptions Method (Excel)
+title: Range.EditionOptions method (Excel)
 keywords: vbaxl10.chm144120
 f1_keywords:
 - vbaxl10.chm144120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EditionOptions Method (Excel)
+# Range.EditionOptions method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
@@ -29,12 +29,12 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlEditionType**|See help included with Microsoft Office Macintosh Edition.|
-| _Option_|Required| **XlEditionOptionsOption**|See help included with Microsoft Office Macintosh Edition.|
+| _Type_|Required| **xlEditionType**|See help included with Microsoft Office Macintosh Edition.|
+| _Option_|Required| **xlEditionOptionsOption**|See help included with Microsoft Office Macintosh Edition.|
 | _Name_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
 | _Reference_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Appearance_|Optional| **XlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
-| _ChartSize_|Optional| **XlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
+| _Appearance_|Optional| **xlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
+| _ChartSize_|Optional| **xlPictureAppearance**|See help included with Microsoft Office Macintosh Edition.|
 | _Format_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
 
 ## Return value

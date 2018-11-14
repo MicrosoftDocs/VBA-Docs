@@ -1,5 +1,5 @@
 ---
-title: Document.ApplyTheme Method (Word)
+title: Document.ApplyTheme method (Word)
 keywords: vbawd10.chm158007618
 f1_keywords:
 - vbawd10.chm158007618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ApplyTheme Method (Word)
+# Document.ApplyTheme method (Word)
 
 Applies a theme to an open document.
 

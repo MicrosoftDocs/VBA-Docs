@@ -1,5 +1,5 @@
 ---
-title: Pages.Item Method (Word)
+title: Pages.Item method (Word)
 keywords: vbawd10.chm67239936
 f1_keywords:
 - vbawd10.chm67239936
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Item Method (Word)
+# Pages.Item method (Word)
 
 Returns an individual  **Page** object in a collection.
 

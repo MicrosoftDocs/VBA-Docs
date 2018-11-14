@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Path Property (Word)
+title: FileConverter.Path property (Word)
 keywords: vbawd10.chm161021958
 f1_keywords:
 - vbawd10.chm161021958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.Path Property (Word)
+# FileConverter.Path property (Word)
 
 Returns the disk or Web path to the specified object. Read-only  **String** .
 

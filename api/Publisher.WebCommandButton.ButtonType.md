@@ -35,7 +35,7 @@ The  **ButtonType** property value can be one of the **[PbCommandButtonType](Pub
 
 ## Example
 
-This example creates a new Web command submit button, assigns text to appear on its face, and specifies an e-mail address to which to send the form data.
+This example creates a new Web command submit button, assigns text to appear on its face, and specifies an email address to which to send the form data.
 
 
 ```vb

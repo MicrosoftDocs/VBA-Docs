@@ -1,5 +1,5 @@
 ---
-title: IconCriteria.Count Property (Excel)
+title: IconCriteria.Count property (Excel)
 keywords: vbaxl10.chm813073
 f1_keywords:
 - vbaxl10.chm813073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriteria.Count Property (Excel)
+# IconCriteria.Count property (Excel)
 
 Returns a  **Long** value that specifies the number of criteria for an icon set conditional format rule. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdCellVerticalAlignment Enumeration (Word)
+title: WdCellVerticalAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCellVerticalAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCellVerticalAlignment Enumeration (Word)
+# WdCellVerticalAlignment enumeration (Word)
 
 Specifies the vertical alignment of text in one or more cells of a table.
 

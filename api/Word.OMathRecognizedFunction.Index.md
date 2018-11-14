@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunction.Index Property (Word)
+title: OMathRecognizedFunction.Index property (Word)
 keywords: vbawd10.chm227737703
 f1_keywords:
 - vbawd10.chm227737703
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunction.Index Property (Word)
+# OMathRecognizedFunction.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

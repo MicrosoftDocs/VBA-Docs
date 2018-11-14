@@ -1,5 +1,5 @@
 ---
-title: Series.FormulaR1C1 Property (Word)
+title: Series.FormulaR1C1 property (Word)
 keywords: vbawd10.chm123732232
 f1_keywords:
 - vbawd10.chm123732232
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.FormulaR1C1 Property (Word)
+# Series.FormulaR1C1 property (Word)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String** .
 

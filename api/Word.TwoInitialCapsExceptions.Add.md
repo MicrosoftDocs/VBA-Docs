@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions.Add Method (Word)
+title: TwoInitialCapsExceptions.Add method (Word)
 keywords: vbawd10.chm155451493
 f1_keywords:
 - vbawd10.chm155451493
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsExceptions.Add Method (Word)
+# TwoInitialCapsExceptions.Add method (Word)
 
 Returns a  **TwoInitialCapsException** object that represents a new exception added to the list of AutoCorrect exceptions.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerItems.Creator Property (Excel)
+title: SlicerItems.Creator property (Excel)
 keywords: vbaxl10.chm908074
 f1_keywords:
 - vbaxl10.chm908074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItems.Creator Property (Excel)
+# SlicerItems.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientDegree Property (Excel)
+title: FillFormat.GradientDegree property (Excel)
 keywords: vbaxl10.chm115014
 f1_keywords:
 - vbaxl10.chm115014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientDegree Property (Excel)
+# FillFormat.GradientDegree property (Excel)
 
 Returns the gradient degree of the specified one-color shaded fill as a floating-point value from 0.0 (dark) through 1.0 (light). Read-only  **Single** .
 

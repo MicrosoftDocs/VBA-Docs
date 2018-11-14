@@ -83,7 +83,7 @@ Me.Controls(0)
 ```
 
 
- **Note**  You can use the  **Me** keyword to represent a form or report within code only if you're referring to the form or report from code within the form module or report module. If you're referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
+ **Note**  You can use the  **Me** keyword to represent a form or report within code only if you are referring to the form or report from code within the form module or report module. If you are referring to a form or report from a standard module or a different form's or report's module, you must use the full reference to the form or report.
 
 To work with the controls on a section of a form or report, use the  **Section** property to return a reference to a **Section** object. Then refer to the **Controls** collection of the **Section** object.
 

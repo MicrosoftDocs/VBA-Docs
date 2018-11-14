@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ServerFontStyle Property (Excel)
+title: OLEDBConnection.ServerFontStyle property (Excel)
 keywords: vbaxl10.chm794101
 f1_keywords:
 - vbaxl10.chm794101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ServerFontStyle Property (Excel)
+# OLEDBConnection.ServerFontStyle property (Excel)
 
  **True** if the font style format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
 

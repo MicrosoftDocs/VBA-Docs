@@ -1,5 +1,5 @@
 ---
-title: XlSummaryRow Enumeration (Excel)
+title: xlSummaryRow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSummaryRow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSummaryRow Enumeration (Excel)
+# xlSummaryRow enumeration (Excel)
 
 Specifies the location of the summary rows in the outline.
 

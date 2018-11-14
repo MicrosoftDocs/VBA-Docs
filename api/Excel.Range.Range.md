@@ -1,5 +1,5 @@
 ---
-title: Range.Range Property (Excel)
+title: Range.Range property (Excel)
 keywords: vbaxl10.chm144184
 f1_keywords:
 - vbaxl10.chm144184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Range Property (Excel)
+# Range.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents a cell or a range of cells.
 

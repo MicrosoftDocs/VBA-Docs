@@ -1,5 +1,5 @@
 ---
-title: ListObject Object (Excel)
+title: ListObject object (Excel)
 keywords: vbaxl10.chm733072
 f1_keywords:
 - vbaxl10.chm733072
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject Object (Excel)
+# ListObject object (Excel)
 
-Represents a [ListObject Object (Excel)](Excel.ListObject.md) object in the **ListObjects** collection.
+Represents a [ListObject object (Excel)](Excel.ListObject.md) object in the **ListObjects** collection.
 
 
 ## Remarks

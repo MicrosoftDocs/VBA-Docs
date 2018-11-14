@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.StrikeH Property (Word)
+title: OMathBorderBox.StrikeH property (Word)
 keywords: vbawd10.chm116260972
 f1_keywords:
 - vbawd10.chm116260972
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.StrikeH Property (Word)
+# OMathBorderBox.StrikeH property (Word)
 
 Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/write.
 

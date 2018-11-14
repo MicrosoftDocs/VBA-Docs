@@ -1,5 +1,5 @@
 ---
-title: Document.TransformDocument Method (Word)
+title: Document.TransformDocument method (Word)
 keywords: vbawd10.chm158007796
 f1_keywords:
 - vbawd10.chm158007796
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TransformDocument Method (Word)
+# Document.TransformDocument method (Word)
 
 Applies the specified Extensible Stylesheet Language Transformation (XSLT) file to the specified document and replaces the document with the results.
 

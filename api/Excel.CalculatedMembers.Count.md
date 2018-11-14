@@ -1,5 +1,5 @@
 ---
-title: CalculatedMembers.Count Property (Excel)
+title: CalculatedMembers.Count property (Excel)
 keywords: vbaxl10.chm684073
 f1_keywords:
 - vbaxl10.chm684073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMembers.Count Property (Excel)
+# CalculatedMembers.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

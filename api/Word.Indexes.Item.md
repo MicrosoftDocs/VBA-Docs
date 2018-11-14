@@ -1,5 +1,5 @@
 ---
-title: Indexes.Item Method (Word)
+title: Indexes.Item method (Word)
 keywords: vbawd10.chm159121408
 f1_keywords:
 - vbawd10.chm159121408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.Item Method (Word)
+# Indexes.Item method (Word)
 
 Returns an individual  **Index** object in a collection.
 

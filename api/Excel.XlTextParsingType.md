@@ -1,5 +1,5 @@
 ---
-title: XlTextParsingType Enumeration (Excel)
+title: xlTextParsingType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTextParsingType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTextParsingType Enumeration (Excel)
+# xlTextParsingType enumeration (Excel)
 
 Specifies the column format for the data in the text file that you are importing into a query table.
 

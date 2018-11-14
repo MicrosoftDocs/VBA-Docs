@@ -1,5 +1,5 @@
 ---
-title: OLEObject.OLEType Property (Excel)
+title: OLEObject.OLEType property (Excel)
 keywords: vbaxl10.chm417077
 f1_keywords:
 - vbaxl10.chm417077
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.OLEType Property (Excel)
+# OLEObject.OLEType property (Excel)
 
-Returns the OLE object type. Can be one of the following  **XlOLEType** constants: **xlOLELink** or **xlOLEEmbed** . Returns **xlOLELink** if the object is linked (it exists outside of the file), or returns **xlOLEEmbed** if the object is embedded (it's entirely contained within the file). Read-only **Long** .
+Returns the OLE object type. Can be one of the following  **xlOLEType** constants: **xlOLELink** or **xlOLEEmbed** . Returns **xlOLELink** if the object is linked (it exists outside of the file), or returns **xlOLEEmbed** if the object is embedded (it's entirely contained within the file). Read-only **Long** .
 
 
 ## Syntax

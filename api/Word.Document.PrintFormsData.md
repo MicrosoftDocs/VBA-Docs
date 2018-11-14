@@ -1,5 +1,5 @@
 ---
-title: Document.PrintFormsData Property (Word)
+title: Document.PrintFormsData property (Word)
 keywords: vbawd10.chm158007379
 f1_keywords:
 - vbawd10.chm158007379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PrintFormsData Property (Word)
+# Document.PrintFormsData property (Word)
 
  **True** if Microsoft Word prints onto a preprinted form only the data entered in the corresponding online form. Read/write **Boolean** .
 

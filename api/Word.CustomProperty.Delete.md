@@ -1,5 +1,5 @@
 ---
-title: CustomProperty.Delete Method (Word)
+title: CustomProperty.Delete method (Word)
 keywords: vbawd10.chm232783883
 f1_keywords:
 - vbawd10.chm232783883
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperty.Delete Method (Word)
+# CustomProperty.Delete method (Word)
 
 Deletes the specified custom property.
 

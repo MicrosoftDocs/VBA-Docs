@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerForegroundColor Property (Excel)
+title: LegendKey.MarkerForegroundColor property (Excel)
 keywords: vbaxl10.chm590082
 f1_keywords:
 - vbaxl10.chm590082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerForegroundColor Property (Excel)
+# LegendKey.MarkerForegroundColor property (Excel)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write  **Long** .
 

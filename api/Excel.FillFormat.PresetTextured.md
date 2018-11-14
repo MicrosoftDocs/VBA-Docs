@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetTextured Method (Excel)
+title: FillFormat.PresetTextured method (Excel)
 keywords: vbaxl10.chm115006
 f1_keywords:
 - vbaxl10.chm115006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetTextured Method (Excel)
+# FillFormat.PresetTextured method (Excel)
 
 Sets the specified fill format to a preset texture.
 

@@ -1,5 +1,5 @@
 ---
-title: ColorStops.Add Method (Excel)
+title: ColorStops.Add method (Excel)
 keywords: vbaxl10.chm853074
 f1_keywords:
 - vbaxl10.chm853074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStops.Add Method (Excel)
+# ColorStops.Add method (Excel)
 
 Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
 

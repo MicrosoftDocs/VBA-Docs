@@ -1,5 +1,5 @@
 ---
-title: Document.GetWorkflowTasks Method (Word)
+title: Document.GetWorkflowTasks method (Word)
 keywords: vbawd10.chm158007807
 f1_keywords:
 - vbawd10.chm158007807
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GetWorkflowTasks Method (Word)
+# Document.GetWorkflowTasks method (Word)
 
 Returns a **WorkflowTasks** collection that represents the workflow tasks assigned to a document.
 

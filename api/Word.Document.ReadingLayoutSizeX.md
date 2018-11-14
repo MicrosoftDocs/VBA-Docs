@@ -1,5 +1,5 @@
 ---
-title: Document.ReadingLayoutSizeX Property (Word)
+title: Document.ReadingLayoutSizeX property (Word)
 keywords: vbawd10.chm158007787
 f1_keywords:
 - vbawd10.chm158007787
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReadingLayoutSizeX Property (Word)
+# Document.ReadingLayoutSizeX property (Word)
 
 Sets or returns a  **Long** that represents the width of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
 

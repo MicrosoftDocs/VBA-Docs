@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.RelationshipChange Property (Excel)
+title: ModelChanges.RelationshipChange property (Excel)
 keywords: vbaxl10.chm960077
 f1_keywords:
 - vbaxl10.chm960077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.RelationshipChange Property (Excel)
+# ModelChanges.RelationshipChange property (Excel)
 
  When **True** , one or more relationships in the model were changed (added, deleted or modified) as part of a model operation. When **False** , no relationships were changed during the operation. **Boolean** Read-only.
 

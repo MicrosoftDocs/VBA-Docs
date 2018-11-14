@@ -1,5 +1,5 @@
 ---
-title: PivotField.DatabaseSort Property (Excel)
+title: PivotField.DatabaseSort property (Excel)
 keywords: vbaxl10.chm240130
 f1_keywords:
 - vbaxl10.chm240130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DatabaseSort Property (Excel)
+# PivotField.DatabaseSort property (Excel)
 
 When set to  **True** , manual repositioning of items in a PivotTable field is allowed. Returns **True** , if the field has no manually positioned items. Read/write **Boolean** .
 

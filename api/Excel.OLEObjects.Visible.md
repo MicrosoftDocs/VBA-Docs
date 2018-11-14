@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Visible Property (Excel)
+title: OLEObjects.Visible property (Excel)
 keywords: vbaxl10.chm419090
 f1_keywords:
 - vbaxl10.chm419090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Visible Property (Excel)
+# OLEObjects.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

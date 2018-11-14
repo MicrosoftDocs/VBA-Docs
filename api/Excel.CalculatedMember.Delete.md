@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.Delete Method (Excel)
+title: CalculatedMember.Delete method (Excel)
 keywords: vbaxl10.chm686079
 f1_keywords:
 - vbaxl10.chm686079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.Delete Method (Excel)
+# CalculatedMember.Delete method (Excel)
 
 Deletes the object.
 

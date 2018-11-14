@@ -20,7 +20,7 @@ Assigns the value of an [expression](../../Glossary/vbe-glossary.md#expression) 
 The  **Let** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Let**|Optional. Explicit use of the  **Let**[keyword](../../Glossary/vbe-glossary.md#keyword) is a matter of style, but it is usually omitted.|
 | _varname_|Required. Name of the variable or property; follows standard variable naming conventions.|

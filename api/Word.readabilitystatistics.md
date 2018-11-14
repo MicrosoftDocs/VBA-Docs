@@ -1,12 +1,12 @@
 ---
-title: ReadabilityStatistics Object (Word)
+title: ReadabilityStatistics object (Word)
 ms.prod: word
 ms.assetid: eabef73c-f837-435a-cfec-b76082cc0f7e
 ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistics Object (Word)
+# ReadabilityStatistics object (Word)
 
 A collection of  **[ReadabilityStatistic](Word.ReadabilityStatistic.md)** objects for a document or range.
 

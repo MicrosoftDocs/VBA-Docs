@@ -1,5 +1,5 @@
 ---
-title: Font.Spacing Property (Word)
+title: Font.Spacing property (Word)
 keywords: vbawd10.chm156369040
 f1_keywords:
 - vbawd10.chm156369040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Spacing Property (Word)
+# Font.Spacing property (Word)
 
 Returns or sets the spacing (in points) between characters. Read/write  **Single** .
 

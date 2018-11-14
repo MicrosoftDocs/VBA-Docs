@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DevSq Method (Excel)
+title: WorksheetFunction.DevSq method (Excel)
 keywords: vbaxl10.chm137222
 f1_keywords:
 - vbaxl10.chm137222
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DevSq Method (Excel)
+# WorksheetFunction.DevSq method (Excel)
 
 Returns the sum of squares of deviations of data points from their sample mean.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerCaches Object (Excel)
+title: SlicerCaches object (Excel)
 keywords: vbaxl10.chm894072
 f1_keywords:
 - vbaxl10.chm894072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCaches Object (Excel)
+# SlicerCaches object (Excel)
 
 Represents the collection of slicer caches associated with the specified workbook.
 

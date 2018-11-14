@@ -1,5 +1,5 @@
 ---
-title: PageSetup.MirrorMargins Property (Word)
+title: PageSetup.MirrorMargins property (Word)
 keywords: vbawd10.chm158400623
 f1_keywords:
 - vbawd10.chm158400623
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.MirrorMargins Property (Word)
+# PageSetup.MirrorMargins property (Word)
 
  **True** if the inside and outside margins of facing pages are the same width. Read/write **Long** .
 

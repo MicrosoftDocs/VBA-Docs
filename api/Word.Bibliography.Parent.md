@@ -1,5 +1,5 @@
 ---
-title: Bibliography.Parent Property (Word)
+title: Bibliography.Parent property (Word)
 keywords: vbawd10.chm101646438
 f1_keywords:
 - vbawd10.chm101646438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.Parent Property (Word)
+# Bibliography.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Bibliography** object.
 

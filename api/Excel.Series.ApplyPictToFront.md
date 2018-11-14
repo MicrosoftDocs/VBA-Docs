@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToFront Property (Excel)
+title: Series.ApplyPictToFront property (Excel)
 keywords: vbaxl10.chm578116
 f1_keywords:
 - vbaxl10.chm578116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyPictToFront Property (Excel)
+# Series.ApplyPictToFront property (Excel)
 
  **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean** .
 

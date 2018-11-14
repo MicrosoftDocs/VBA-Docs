@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Aggregate Method (Excel)
+title: WorksheetFunction.Aggregate method (Excel)
 keywords: vbaxl10.chm137358
 f1_keywords:
 - vbaxl10.chm137358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Aggregate Method (Excel)
+# WorksheetFunction.Aggregate method (Excel)
 
 Returns an aggregate in a list or database.
 

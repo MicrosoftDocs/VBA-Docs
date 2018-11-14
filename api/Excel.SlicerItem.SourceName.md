@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.SourceName Property (Excel)
+title: SlicerItem.SourceName property (Excel)
 keywords: vbaxl10.chm907076
 f1_keywords:
 - vbaxl10.chm907076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.SourceName Property (Excel)
+# SlicerItem.SourceName property (Excel)
 
 Returns the source name of the slicer item. Read-only.
 

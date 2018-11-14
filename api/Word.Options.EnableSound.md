@@ -1,5 +1,5 @@
 ---
-title: Options.EnableSound Property (Word)
+title: Options.EnableSound property (Word)
 keywords: vbawd10.chm162988053
 f1_keywords:
 - vbawd10.chm162988053
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableSound Property (Word)
+# Options.EnableSound property (Word)
 
  **True** if Word makes the computer respond with a sound whenever an error occurs. Read/write **Boolean** .
 

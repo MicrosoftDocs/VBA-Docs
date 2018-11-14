@@ -1,5 +1,5 @@
 ---
-title: OMathScrSubSup.Sup Property (Word)
+title: OMathScrSubSup.Sup property (Word)
 keywords: vbawd10.chm181665897
 f1_keywords:
 - vbawd10.chm181665897
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSubSup.Sup Property (Word)
+# OMathScrSubSup.Sup property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the superscript for a subscript-superscript object. Read-only.
 

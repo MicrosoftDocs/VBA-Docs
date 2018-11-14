@@ -1,5 +1,5 @@
 ---
-title: Options.OMathCopyLF Property (Word)
+title: Options.OMathCopyLF property (Word)
 keywords: vbawd10.chm162988520
 f1_keywords:
 - vbawd10.chm162988520
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.OMathCopyLF Property (Word)
+# Options.OMathCopyLF property (Word)
 
 Returns or sets a  **Boolean** that represents how equations are represented in plain text. **True** indicates equations are represented in Linear Format. **False** indicates equations are represented in MathML. Read/write.
 

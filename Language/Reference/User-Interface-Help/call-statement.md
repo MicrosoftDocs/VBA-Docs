@@ -20,7 +20,7 @@ Transfers control to a  **Sub** procedure, **Function** procedure, or [dynamic-l
 The  **Call** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Call**|Optional; [keyword](../../Glossary/vbe-glossary.md#keyword). If specified, you must enclose  _argumentlist_ in parentheses. For example:<p>```Call MyProc(0)```</p>|
 | _name_|Required. Name of the procedure to call.|

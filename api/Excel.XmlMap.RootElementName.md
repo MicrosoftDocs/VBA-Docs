@@ -1,5 +1,5 @@
 ---
-title: XmlMap.RootElementName Property (Excel)
+title: XmlMap.RootElementName property (Excel)
 keywords: vbaxl10.chm754082
 f1_keywords:
 - vbaxl10.chm754082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.RootElementName Property (Excel)
+# XmlMap.RootElementName property (Excel)
 
  Returns a **String** that represents the name of the root element for the specified XML schema map. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.HorizontalAlignment Property (Excel)
+title: Range.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm144146
 f1_keywords:
 - vbaxl10.chm144146
@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Range.HorizontalAlignment Property (Excel)
+# Range.HorizontalAlignment property (Excel)
 
 Returns or sets a **Variant** value that represents the horizontal alignment for the specified object. Read/write.
 
@@ -24,7 +24,7 @@ Returns or sets a **Variant** value that represents the horizontal alignment for
 
 ## Remarks
 
-The value of this property can be set to one of the **[XlHAlign](Excel.XlHAlign.md)** constants (**xlHAlignCenter**, **xlHAlignCenterAcrossSelection**, **xlHAlignDistributed**, **xlHAlignFill**, **xlHAlignGeneral**, **xlHAlignJustify**, **xlHAlignLeft**, or **xlHAlignRight**).
+The value of this property can be set to one of the **[xlHAlign](Excel.XlHAlign.md)** constants (**xlHAlignCenter**, **xlHAlignCenterAcrossSelection**, **xlHAlignDistributed**, **xlHAlignFill**, **xlHAlignGeneral**, **xlHAlignJustify**, **xlHAlignLeft**, or **xlHAlignRight**).
 
 Some of these constants may not be available to you, depending on the language support (U.S. English, for example) that you've selected or installed.
 

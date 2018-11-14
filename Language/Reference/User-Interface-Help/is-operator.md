@@ -21,7 +21,7 @@ _result_**=**_object1_**Is**_object2_
 The  **Is** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric variable.|
 | _object1_|Required; any object name.|

@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.DeleteAll Method (Excel)
+title: ServerViewableItems.DeleteAll method (Excel)
 keywords: vbaxl10.chm833076
 f1_keywords:
 - vbaxl10.chm833076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.DeleteAll Method (Excel)
+# ServerViewableItems.DeleteAll method (Excel)
 
 Deletes references to all the objects in the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection in the workbook.
 

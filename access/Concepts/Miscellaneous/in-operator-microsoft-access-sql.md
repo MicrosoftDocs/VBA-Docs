@@ -22,7 +22,7 @@ _expr_ [ **Not** ] **In**( _value1, value2, …_ )
 
 The **In** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expr_|Expression identifying the field that contains the data you want to evaluate.|
 | _value1_, _value2_|Expression or list of expressions against which you want to evaluate _expr_.|

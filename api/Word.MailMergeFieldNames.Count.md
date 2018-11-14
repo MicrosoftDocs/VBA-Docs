@@ -1,5 +1,5 @@
 ---
-title: MailMergeFieldNames.Count Property (Word)
+title: MailMergeFieldNames.Count property (Word)
 keywords: vbawd10.chm152829953
 f1_keywords:
 - vbawd10.chm152829953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFieldNames.Count Property (Word)
+# MailMergeFieldNames.Count property (Word)
 
 Returns a  **Long** that represents the number of mail merge field names in the collection. Read-only.
 

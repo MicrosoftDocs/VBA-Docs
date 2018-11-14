@@ -1,5 +1,5 @@
 ---
-title: ModelFormatGeneral.Parent Property (Excel)
+title: ModelFormatGeneral.Parent property (Excel)
 keywords: vbaxl10.chm981075
 f1_keywords:
 - vbaxl10.chm981075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatGeneral.Parent Property (Excel)
+# ModelFormatGeneral.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

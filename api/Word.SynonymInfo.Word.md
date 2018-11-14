@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.Word Property (Word)
+title: SynonymInfo.Word property (Word)
 keywords: vbawd10.chm161153025
 f1_keywords:
 - vbawd10.chm161153025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.Word Property (Word)
+# SynonymInfo.Word property (Word)
 
 Returns the word or phrase that was looked up by the thesaurus. Read-only  **String** .
 

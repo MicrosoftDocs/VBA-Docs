@@ -1,5 +1,5 @@
 ---
-title: Selection.NoProofing Property (Word)
+title: Selection.NoProofing property (Word)
 keywords: vbawd10.chm158663661
 f1_keywords:
 - vbawd10.chm158663661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.NoProofing Property (Word)
+# Selection.NoProofing property (Word)
 
  **True** if the spelling and grammar checker ignores the specified text. Returns **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text. Read/write **Long** .
 

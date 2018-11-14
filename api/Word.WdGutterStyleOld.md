@@ -1,5 +1,5 @@
 ---
-title: WdGutterStyleOld Enumeration (Word)
+title: WdGutterStyleOld enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdGutterStyleOld
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdGutterStyleOld Enumeration (Word)
+# WdGutterStyleOld enumeration (Word)
 
 Specifies whether the gutter style should conform to left-to-right text flow or right-to-left text flow.
 

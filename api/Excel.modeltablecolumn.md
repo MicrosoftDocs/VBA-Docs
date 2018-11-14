@@ -1,5 +1,5 @@
 ---
-title: ModelTableColumn Object (Excel)
+title: ModelTableColumn object (Excel)
 keywords: vbaxl10.chm929072
 f1_keywords:
 - vbaxl10.chm929072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableColumn Object (Excel)
+# ModelTableColumn object (Excel)
 
-Represent a single column inside a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+Represent a single column inside a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Remarks

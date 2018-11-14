@@ -1,5 +1,5 @@
 ---
-title: Options.MapPaperSize Property (Word)
+title: Options.MapPaperSize property (Word)
 keywords: vbawd10.chm162988321
 f1_keywords:
 - vbawd10.chm162988321
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MapPaperSize Property (Word)
+# Options.MapPaperSize property (Word)
 
  **True** if documents formatted for another country's/region's standard paper size (for example, A4) are automatically adjusted so that they're printed correctly on your country's/region's standard paper size (for example, Letter). Read/write **Boolean** .
 

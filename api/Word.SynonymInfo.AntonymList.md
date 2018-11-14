@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.AntonymList Property (Word)
+title: SynonymInfo.AntonymList property (Word)
 keywords: vbawd10.chm161153032
 f1_keywords:
 - vbawd10.chm161153032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.AntonymList Property (Word)
+# SynonymInfo.AntonymList property (Word)
 
 Returns a list of antonyms for the word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
 

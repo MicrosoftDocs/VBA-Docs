@@ -1,5 +1,5 @@
 ---
-title: Selection.Move Method (Word)
+title: Selection.Move method (Word)
 keywords: vbawd10.chm158662765
 f1_keywords:
 - vbawd10.chm158662765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Move Method (Word)
+# Selection.Move method (Word)
 
 Collapses the specified selection to its start or end position and then moves the collapsed object by the specified number of units. This method returns a  **Long** value that represents the number of units by which the selection was moved, or it returns 0 (zero) if the move was unsuccessful.
 

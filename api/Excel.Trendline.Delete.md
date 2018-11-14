@@ -1,5 +1,5 @@
 ---
-title: Trendline.Delete Method (Excel)
+title: Trendline.Delete method (Excel)
 keywords: vbaxl10.chm594078
 f1_keywords:
 - vbaxl10.chm594078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Delete Method (Excel)
+# Trendline.Delete method (Excel)
 
 Deletes the object.
 

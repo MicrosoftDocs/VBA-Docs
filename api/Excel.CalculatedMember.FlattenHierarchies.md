@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.FlattenHierarchies Property (Excel)
+title: CalculatedMember.FlattenHierarchies property (Excel)
 keywords: vbaxl10.chm686084
 f1_keywords:
 - vbaxl10.chm686084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.FlattenHierarchies Property (Excel)
+# CalculatedMember.FlattenHierarchies property (Excel)
 
 Returns or sets whether items from all levels of the hierarchy of the specified named set are displayed in the same field of a PivotTable report based on an OLAP cube. **Boolean** Read/write
 

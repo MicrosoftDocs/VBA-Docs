@@ -1,5 +1,5 @@
 ---
-title: Document.Bibliography Property (Word)
+title: Document.Bibliography property (Word)
 keywords: vbawd10.chm158007812
 f1_keywords:
 - vbawd10.chm158007812
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Bibliography Property (Word)
+# Document.Bibliography property (Word)
 
 Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the bibliography references contained within a document. Read-only.
 

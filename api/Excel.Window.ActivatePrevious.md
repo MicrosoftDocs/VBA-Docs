@@ -1,5 +1,5 @@
 ---
-title: Window.ActivatePrevious Method (Excel)
+title: Window.ActivatePrevious method (Excel)
 keywords: vbaxl10.chm356075
 f1_keywords:
 - vbaxl10.chm356075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActivatePrevious Method (Excel)
+# Window.ActivatePrevious method (Excel)
 
 Activates the specified window and then activates the window at the back of the window z-order.
 

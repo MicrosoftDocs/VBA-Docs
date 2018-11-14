@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Select Method (Word)
+title: ShapeRange.Select method (Word)
 keywords: vbawd10.chm162856985
 f1_keywords:
 - vbawd10.chm162856985
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Select Method (Word)
+# ShapeRange.Select method (Word)
 
 Selects the specified range of shapes.
 

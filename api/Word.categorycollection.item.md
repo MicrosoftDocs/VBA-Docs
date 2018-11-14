@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Item Method (Word)
+title: CategoryCollection.Item method (Word)
 keywords: vbawd10.chm204275712
 f1_keywords:
 - vbawd10.chm204275712
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection.Item Method (Word)
+# CategoryCollection.Item method (Word)
 
 Returns an individual chart category.
 
@@ -25,7 +25,7 @@ Returns an individual chart category.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Required|VARIANT|The name or index number for the object.|

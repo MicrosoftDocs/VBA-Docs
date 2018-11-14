@@ -1,5 +1,5 @@
 ---
-title: Options.CursorMovement Property (Word)
+title: Options.CursorMovement property (Word)
 keywords: vbawd10.chm162988435
 f1_keywords:
 - vbawd10.chm162988435
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CursorMovement Property (Word)
+# Options.CursorMovement property (Word)
 
 Returns or sets how the insertion point progresses within bidirectional text. Read/write  **WdCursorMovement** .
 

@@ -1,5 +1,5 @@
 ---
-title: Find.ClearFormatting Method (Word)
+title: Find.ClearFormatting method (Word)
 keywords: vbawd10.chm162529311
 f1_keywords:
 - vbawd10.chm162529311
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.ClearFormatting Method (Word)
+# Find.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from the text specified in a find or replace operation.
 

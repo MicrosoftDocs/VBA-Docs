@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsView Enumeration (Word)
+title: WdRevisionsView enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsView
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsView Enumeration (Word)
+# WdRevisionsView enumeration (Word)
 
 Specifies whether Word displays the original version of a document or a version with revisions and formatting changes applied.
 

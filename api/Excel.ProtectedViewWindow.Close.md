@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Close Method (Excel)
+title: ProtectedViewWindow.Close method (Excel)
 keywords: vbaxl10.chm914086
 f1_keywords:
 - vbaxl10.chm914086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Close Method (Excel)
+# ProtectedViewWindow.Close method (Excel)
 
 Closes the specified  **Protected View** window.
 

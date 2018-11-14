@@ -19,7 +19,7 @@ Executes a method of an object, or sets or returns a property of an [object](../
 
 The **CallByName** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_object_**|Required: **Variant** (**Object**). The name of the object on which the function will be executed.|
 |**_procname_**|Required: **Variant** (**String**). A string expression containing the name of a property or method of the object.|

@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Count Property (Word)
+title: RecentFiles.Count property (Word)
 keywords: vbawd10.chm157483009
 f1_keywords:
 - vbawd10.chm157483009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Count Property (Word)
+# RecentFiles.Count property (Word)
 
 Returns a  **Long** that represents the number of recent files in the collection. Read-only.
 

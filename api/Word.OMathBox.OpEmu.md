@@ -1,5 +1,5 @@
 ---
-title: OMathBox.OpEmu Property (Word)
+title: OMathBox.OpEmu property (Word)
 keywords: vbawd10.chm134086760
 f1_keywords:
 - vbawd10.chm134086760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBox.OpEmu Property (Word)
+# OMathBox.OpEmu property (Word)
 
 Returns or sets a  **Boolean** that represents that the box and its contents behave as a single operator and inherit the properties of an operator. Read/write.
 

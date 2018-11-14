@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertParagraphBefore Method (Word)
+title: Selection.InsertParagraphBefore method (Word)
 keywords: vbawd10.chm158662868
 f1_keywords:
 - vbawd10.chm158662868
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertParagraphBefore Method (Word)
+# Selection.InsertParagraphBefore method (Word)
 
 Inserts a new paragraph before the specified selection or range.
 

@@ -1,5 +1,5 @@
 ---
-title: View.MailMergeDataView Property (Word)
+title: View.MailMergeDataView property (Word)
 keywords: vbawd10.chm161808389
 f1_keywords:
 - vbawd10.chm161808389
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.MailMergeDataView Property (Word)
+# View.MailMergeDataView property (Word)
 
  **True** if mail merge data is displayed instead of mail merge fields in the specified window. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddOLEObject Method (Word)
+title: Shapes.AddOLEObject method (Word)
 keywords: vbawd10.chm161415192
 f1_keywords:
 - vbawd10.chm161415192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddOLEObject Method (Word)
+# Shapes.AddOLEObject method (Word)
 
 Creates an OLE object. Returns the  **InlineShape** object that represents the new OLE object.
 

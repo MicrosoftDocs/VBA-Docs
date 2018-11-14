@@ -1,5 +1,5 @@
 ---
-title: XlAxisType Enumeration (PowerPoint)
+title: xlAxisType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlAxisType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlAxisType Enumeration (PowerPoint)
+# xlAxisType Enumeration (PowerPoint)
 
 Specifies the axis type.
 

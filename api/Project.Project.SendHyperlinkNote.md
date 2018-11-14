@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Project.SendHyperlinkNote Property (Project)
 
- **True** if resources receive e-mail notification Obsolete in Project. Read/write **Boolean**.
+ **True** if resources receive email notification Obsolete in Project. Read/write **Boolean**.
 
 
 ## Syntax

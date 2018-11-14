@@ -1,5 +1,5 @@
 ---
-title: OMathNary Object (Word)
+title: OMathNary object (Word)
 keywords: vbawd10.chm388
 f1_keywords:
 - vbawd10.chm388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary Object (Word)
+# OMathNary object (Word)
 
 Represents the mathematical n-ary object, consisting of an n-ary object, a base (or operand), and optional upper limits and lower limits.
 

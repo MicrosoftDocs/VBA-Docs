@@ -1,5 +1,5 @@
 ---
-title: Chart.Elevation Property (Word)
+title: Chart.Elevation property (Word)
 keywords: vbawd10.chm79364102
 f1_keywords:
 - vbawd10.chm79364102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Elevation Property (Word)
+# Chart.Elevation property (Word)
 
 Returns or sets the elevation, in degrees, of the 3-D chart view. Read/write  **Long** .
 

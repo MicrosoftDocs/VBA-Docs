@@ -1,5 +1,5 @@
 ---
-title: XmlNamespace.Creator Property (Excel)
+title: XmlNamespace.Creator property (Excel)
 keywords: vbaxl10.chm743074
 f1_keywords:
 - vbaxl10.chm743074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespace.Creator Property (Excel)
+# XmlNamespace.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

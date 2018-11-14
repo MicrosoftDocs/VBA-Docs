@@ -14,7 +14,7 @@ ms.date: 06/08/2017
 # Background Property
 
 Returns or sets the text background type. This property is used only for text on charts. Read/write 
- **XlBackground**
+ **xlBackground**
 .
 
 

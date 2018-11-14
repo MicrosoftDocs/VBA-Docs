@@ -1,5 +1,5 @@
 ---
-title: Range.MDX Property (Excel)
+title: Range.MDX property (Excel)
 keywords: vbaxl10.chm144245
 f1_keywords:
 - vbaxl10.chm144245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MDX Property (Excel)
+# Range.MDX property (Excel)
 
 Returns the MDX name for the specified  **Range** object. Read-only **String** .
 

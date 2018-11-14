@@ -1,5 +1,5 @@
 ---
-title: WdSectionStart Enumeration (Word)
+title: WdSectionStart enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSectionStart
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSectionStart Enumeration (Word)
+# WdSectionStart enumeration (Word)
 
 Specifies the type of section break for the specified item.
 

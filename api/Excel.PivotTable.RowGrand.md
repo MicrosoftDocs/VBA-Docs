@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RowGrand Property (Excel)
+title: PivotTable.RowGrand property (Excel)
 keywords: vbaxl10.chm235094
 f1_keywords:
 - vbaxl10.chm235094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RowGrand Property (Excel)
+# PivotTable.RowGrand property (Excel)
 
  **True** if the PivotTable report shows grand totals for rows. Read/write **Boolean** .
 

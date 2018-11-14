@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fv Method (Excel)
+title: WorksheetFunction.Fv method (Excel)
 keywords: vbaxl10.chm137108
 f1_keywords:
 - vbaxl10.chm137108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Fv Method (Excel)
+# WorksheetFunction.Fv method (Excel)
 
 Returns the future value of an investment based on periodic, constant payments and a constant interest rate.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Sort Method (Word)
+title: Range.Sort method (Word)
 keywords: vbawd10.chm157155812
 f1_keywords:
 - vbawd10.chm157155812
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Sort Method (Word)
+# Range.Sort method (Word)
 
 Sorts the paragraphs in the specified range.
 

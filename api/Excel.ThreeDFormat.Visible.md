@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Visible Property (Excel)
+title: ThreeDFormat.Visible property (Excel)
 keywords: vbaxl10.chm119016
 f1_keywords:
 - vbaxl10.chm119016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Visible Property (Excel)
+# ThreeDFormat.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

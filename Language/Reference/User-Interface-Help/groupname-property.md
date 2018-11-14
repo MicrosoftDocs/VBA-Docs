@@ -23,7 +23,7 @@ _object_. **GroupName** [= _String_ ]
 The  **GroupName** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid  **OptionButton**.|
 | _String_|Optional. The name of the group that includes the  **OptionButton**. Use the same setting for all buttons in the group. The default setting is an empty string.|

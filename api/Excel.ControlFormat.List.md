@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.List Method (Excel)
+title: ControlFormat.List method (Excel)
 keywords: vbaxl10.chm630080
 f1_keywords:
 - vbaxl10.chm630080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.List Method (Excel)
+# ControlFormat.List method (Excel)
 
 Returns or sets the text entries in the specified list box or a combo box, as an array of strings, or returns or sets a single text entry. An error occurs if there are no entries in the list.
 

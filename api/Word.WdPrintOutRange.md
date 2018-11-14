@@ -1,5 +1,5 @@
 ---
-title: WdPrintOutRange Enumeration (Word)
+title: WdPrintOutRange enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPrintOutRange
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPrintOutRange Enumeration (Word)
+# WdPrintOutRange enumeration (Word)
 
 Specifies a range to print.
 

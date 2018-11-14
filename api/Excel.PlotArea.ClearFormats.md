@@ -1,5 +1,5 @@
 ---
-title: PlotArea.ClearFormats Method (Excel)
+title: PlotArea.ClearFormats method (Excel)
 keywords: vbaxl10.chm618077
 f1_keywords:
 - vbaxl10.chm618077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.ClearFormats Method (Excel)
+# PlotArea.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

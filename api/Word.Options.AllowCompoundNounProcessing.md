@@ -1,5 +1,5 @@
 ---
-title: Options.AllowCompoundNounProcessing Property (Word)
+title: Options.AllowCompoundNounProcessing property (Word)
 keywords: vbawd10.chm162988379
 f1_keywords:
 - vbawd10.chm162988379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowCompoundNounProcessing Property (Word)
+# Options.AllowCompoundNounProcessing property (Word)
 
  **True** if Microsoft Word ignores compound nouns when checking spelling in a Korean language document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.CategoryType Property (Excel)
+title: Axis.CategoryType property (Excel)
 keywords: vbaxl10.chm561108
 f1_keywords:
 - vbaxl10.chm561108
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.CategoryType Property (Excel)
+# Axis.CategoryType property (Excel)
 
-Returns or sets the category axis type. Read/write  **[XlCategoryType](Excel.XlCategoryType.md)** .
+Returns or sets the category axis type. Read/write  **[xlCategoryType](Excel.XlCategoryType.md)** .
 
 
 ## Syntax

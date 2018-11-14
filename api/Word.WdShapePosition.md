@@ -1,5 +1,5 @@
 ---
-title: WdShapePosition Enumeration (Word)
+title: WdShapePosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdShapePosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdShapePosition Enumeration (Word)
+# WdShapePosition enumeration (Word)
 
 Specifies the relative position of the specified shape.
 

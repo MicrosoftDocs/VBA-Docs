@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ServerFillColor Property (Excel)
+title: OLEDBConnection.ServerFillColor property (Excel)
 keywords: vbaxl10.chm794100
 f1_keywords:
 - vbaxl10.chm794100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ServerFillColor Property (Excel)
+# OLEDBConnection.ServerFillColor property (Excel)
 
  **True** if the fill color format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
 

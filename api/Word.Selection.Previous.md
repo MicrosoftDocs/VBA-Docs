@@ -1,5 +1,5 @@
 ---
-title: Selection.Previous Method (Word)
+title: Selection.Previous method (Word)
 keywords: vbawd10.chm158662762
 f1_keywords:
 - vbawd10.chm158662762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Previous Method (Word)
+# Selection.Previous method (Word)
 
 Moves the selected text by the specified number of units, and returns a  **Range** object relative to the collapsed selection.
 

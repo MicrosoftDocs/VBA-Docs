@@ -1,5 +1,5 @@
 ---
-title: WdToaFormat Enumeration (Word)
+title: WdToaFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdToaFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdToaFormat Enumeration (Word)
+# WdToaFormat enumeration (Word)
 
 Specifies the type of formatting to apply to the table of authorities in the active document.
 

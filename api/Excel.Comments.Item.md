@@ -1,5 +1,5 @@
 ---
-title: Comments.Item Method (Excel)
+title: Comments.Item method (Excel)
 keywords: vbaxl10.chm514074
 f1_keywords:
 - vbaxl10.chm514074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Item Method (Excel)
+# Comments.Item method (Excel)
 
 Returns a single object from a collection.
 

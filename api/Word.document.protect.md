@@ -1,5 +1,5 @@
 ---
-title: Document.Protect Method (Word)
+title: Document.Protect method (Word)
 keywords: vbawd10.chm158007763
 f1_keywords:
 - vbawd10.chm158007763
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Protect Method (Word)
+# Document.Protect method (Word)
 
 Protects the specified document from unauthorized changes.
 
@@ -25,7 +25,7 @@ Protects the specified document from unauthorized changes.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Type_|Required| **WdProtectionType**|The type of protection to apply.|

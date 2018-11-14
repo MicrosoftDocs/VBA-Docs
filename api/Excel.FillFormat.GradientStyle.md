@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStyle Property (Excel)
+title: FillFormat.GradientStyle property (Excel)
 keywords: vbaxl10.chm115015
 f1_keywords:
 - vbaxl10.chm115015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientStyle Property (Excel)
+# FillFormat.GradientStyle property (Excel)
 
 Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](Office.MsoGradientStyle.md)** .
 

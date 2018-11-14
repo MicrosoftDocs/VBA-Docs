@@ -1,5 +1,5 @@
 ---
-title: Worksheet.TransitionExpEval Property (Excel)
+title: Worksheet.TransitionExpEval property (Excel)
 keywords: vbaxl10.chm175073
 f1_keywords:
 - vbaxl10.chm175073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.TransitionExpEval Property (Excel)
+# Worksheet.TransitionExpEval property (Excel)
 
  **True** if Microsoft Excel uses Lotus 1-2-3 expression evaluation rules for the worksheet. Read/write **Boolean** .
 

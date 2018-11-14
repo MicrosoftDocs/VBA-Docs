@@ -1,5 +1,5 @@
 ---
-title: Tables.Item Method (Word)
+title: Tables.Item method (Word)
 keywords: vbawd10.chm156041216
 f1_keywords:
 - vbawd10.chm156041216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tables.Item Method (Word)
+# Tables.Item method (Word)
 
 Returns an individual  **Table** object in a collection.
 

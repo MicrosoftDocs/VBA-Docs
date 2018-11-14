@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowSeriesName Property (Word)
+title: DataLabel.ShowSeriesName property (Word)
 keywords: vbawd10.chm233900006
 f1_keywords:
 - vbawd10.chm233900006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.ShowSeriesName Property (Word)
+# DataLabel.ShowSeriesName property (Word)
 
  **True** to show the series name for the data labels on a chart. **False** to hide the series name. Read/write **Boolean** .
 

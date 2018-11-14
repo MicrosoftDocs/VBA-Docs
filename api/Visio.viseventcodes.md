@@ -15,7 +15,7 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visActCodeAdvise**|2| **AddAdvise** action code|
 | **visActCodeRunAddon**|1| **RunAddon** action code|

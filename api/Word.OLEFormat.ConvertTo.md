@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ConvertTo Method (Word)
+title: OLEFormat.ConvertTo method (Word)
 keywords: vbawd10.chm154337390
 f1_keywords:
 - vbawd10.chm154337390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.ConvertTo Method (Word)
+# OLEFormat.ConvertTo method (Word)
 
 Converts the specified OLE object from one class to another, making it possible for you to edit the object in a different server application, or changing how the object is displayed in the document.
 

@@ -1,5 +1,5 @@
 ---
-title: TaskPane.Visible Property (Word)
+title: TaskPane.Visible property (Word)
 keywords: vbawd10.chm81921003
 f1_keywords:
 - vbawd10.chm81921003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPane.Visible Property (Word)
+# TaskPane.Visible property (Word)
 
  **True** if the specified object is visible. Read/write **Boolean** .
 

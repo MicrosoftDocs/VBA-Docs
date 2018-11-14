@@ -1,5 +1,5 @@
 ---
-title: Workbook.PasswordEncryptionKeyLength Property (Excel)
+title: Workbook.PasswordEncryptionKeyLength property (Excel)
 keywords: vbaxl10.chm199213
 f1_keywords:
 - vbaxl10.chm199213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PasswordEncryptionKeyLength Property (Excel)
+# Workbook.PasswordEncryptionKeyLength property (Excel)
 
 Returns a  **Long** indicating the key length of the algorithm Microsoft Excel uses when encrypting passwords for the specified workbook. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: List.CountNumberedItems Method (Word)
+title: List.CountNumberedItems method (Word)
 keywords: vbawd10.chm160563303
 f1_keywords:
 - vbawd10.chm160563303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.CountNumberedItems Method (Word)
+# List.CountNumberedItems method (Word)
 
 Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **List** object.
 

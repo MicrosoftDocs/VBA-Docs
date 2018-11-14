@@ -1,5 +1,5 @@
 ---
-title: Selection.Columns Property (Word)
+title: Selection.Columns property (Word)
 keywords: vbawd10.chm158662958
 f1_keywords:
 - vbawd10.chm158662958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Columns Property (Word)
+# Selection.Columns property (Word)
 
 Returns a  **Columns** collection that represents all the table columns in a selection. Read-only.
 

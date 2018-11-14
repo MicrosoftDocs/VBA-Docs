@@ -1,5 +1,5 @@
 ---
-title: Application.Calculation Property (Excel)
+title: Application.Calculation property (Excel)
 keywords: vbaxl10.chm133084
 f1_keywords:
 - vbaxl10.chm133084
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Calculation Property (Excel)
+# Application.Calculation property (Excel)
 
-Returns or sets a  **[XlCalculation](Excel.XlCalculation.md)** value that represents the calculation mode.
+Returns or sets a  **[xlCalculation](Excel.XlCalculation.md)** value that represents the calculation mode.
 
 
 ## Syntax

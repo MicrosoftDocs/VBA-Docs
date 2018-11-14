@@ -1,5 +1,5 @@
 ---
-title: Window.DocumentMap Property (Word)
+title: Window.DocumentMap property (Word)
 keywords: vbawd10.chm157417497
 f1_keywords:
 - vbawd10.chm157417497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DocumentMap Property (Word)
+# Window.DocumentMap property (Word)
 
  **True** if the document map is visible. Read/write **Boolean** .
 

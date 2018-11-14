@@ -1,5 +1,5 @@
 ---
-title: ListObject.AutoFilter Property (Excel)
+title: ListObject.AutoFilter property (Excel)
 keywords: vbaxl10.chm734099
 f1_keywords:
 - vbaxl10.chm734099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.AutoFilter Property (Excel)
+# ListObject.AutoFilter property (Excel)
 
 Filters a  **table** using the AutoFilter feature. Read-only.
 

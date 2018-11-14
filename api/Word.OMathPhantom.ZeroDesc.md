@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.ZeroDesc Property (Word)
+title: OMathPhantom.ZeroDesc property (Word)
 keywords: vbawd10.chm88146027
 f1_keywords:
 - vbawd10.chm88146027
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.ZeroDesc Property (Word)
+# OMathPhantom.ZeroDesc property (Word)
 
 Returns or sets a  **Boolean** that represents whether the descent of the phantom contents is ignored in the spacing of the layout. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.Add Method (Word)
+title: KeyBindings.Add method (Word)
 keywords: vbawd10.chm160825445
 f1_keywords:
 - vbawd10.chm160825445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBindings.Add Method (Word)
+# KeyBindings.Add method (Word)
 
 Returns a  **KeyBinding** object that represents a new shortcut key for a macro, built-in command, font, AutoText entry, style, or symbol.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Endnotes Property (Word)
+title: Selection.Endnotes property (Word)
 keywords: vbawd10.chm158662711
 f1_keywords:
 - vbawd10.chm158662711
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Endnotes Property (Word)
+# Selection.Endnotes property (Word)
 
 Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes conatined within a selection. Read-only.
 

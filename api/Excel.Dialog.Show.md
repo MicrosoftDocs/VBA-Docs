@@ -1,5 +1,5 @@
 ---
-title: Dialog.Show Method (Excel)
+title: Dialog.Show method (Excel)
 keywords: vbaxl10.chm256073
 f1_keywords:
 - vbaxl10.chm256073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.Show Method (Excel)
+# Dialog.Show method (Excel)
 
 Displays the built-in dialog box, waits for the user to input data and returns a  **Boolean** value that represents the user's response.
 

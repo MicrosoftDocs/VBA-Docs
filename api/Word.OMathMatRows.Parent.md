@@ -1,5 +1,5 @@
 ---
-title: OMathMatRows.Parent Property (Word)
+title: OMathMatRows.Parent property (Word)
 keywords: vbawd10.chm55050342
 f1_keywords:
 - vbawd10.chm55050342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRows.Parent Property (Word)
+# OMathMatRows.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathMatRows** object.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.OtherPagesTray Property (Word)
+title: PageSetup.OtherPagesTray property (Word)
 keywords: vbawd10.chm158400621
 f1_keywords:
 - vbawd10.chm158400621
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.OtherPagesTray Property (Word)
+# PageSetup.OtherPagesTray property (Word)
 
 Returns or sets the paper tray to be used for all but the first page of a document or section. Read/write  **WdPaperTray** .
 

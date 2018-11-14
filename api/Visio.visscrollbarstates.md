@@ -15,7 +15,7 @@ Constants passed to and returned by the  **Window.ShowScrollBars** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visScrollBarBoth**|&H5|Show both scrollbars.|
 | **visScrollBarHoriz**|&H1|Show the horizontal scrollbar.|

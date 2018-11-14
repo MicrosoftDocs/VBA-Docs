@@ -1,5 +1,5 @@
 ---
-title: Range.WrapText Property (Excel)
+title: Range.WrapText property (Excel)
 keywords: vbaxl10.chm144221
 f1_keywords:
 - vbaxl10.chm144221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.WrapText Property (Excel)
+# Range.WrapText property (Excel)
 
 Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the text in the object.
 

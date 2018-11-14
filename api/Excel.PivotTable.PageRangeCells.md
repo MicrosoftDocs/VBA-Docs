@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageRangeCells Property (Excel)
+title: PivotTable.PageRangeCells property (Excel)
 keywords: vbaxl10.chm235088
 f1_keywords:
 - vbaxl10.chm235088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageRangeCells Property (Excel)
+# PivotTable.PageRangeCells property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents only the cells in the specified PivotTable report that contain the page fields and item drop-down lists.
 

@@ -1,5 +1,5 @@
 ---
-title: XlRowCol Enumeration (Excel)
+title: xlRowCol enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRowCol
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlRowCol Enumeration (Excel)
+# xlRowCol enumeration (Excel)
 
 Specifies whether the values corresponding to a particular data series are in rows or columns.
 

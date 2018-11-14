@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftFooterPicture Property (Excel)
+title: PageSetup.LeftFooterPicture property (Excel)
 keywords: vbaxl10.chm473109
 f1_keywords:
 - vbaxl10.chm473109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftFooterPicture Property (Excel)
+# PageSetup.LeftFooterPicture property (Excel)
 
 Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture for the left section of the footer. Used to set attributes about the picture.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotAxis.Parent Property (Excel)
+title: PivotAxis.Parent property (Excel)
 keywords: vbaxl10.chm767075
 f1_keywords:
 - vbaxl10.chm767075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotAxis.Parent Property (Excel)
+# PivotAxis.Parent property (Excel)
 
 Returns the parent object for the specified  **PivotAxis** object. Read-only.
 

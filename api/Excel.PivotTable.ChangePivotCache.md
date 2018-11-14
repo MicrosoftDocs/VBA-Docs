@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ChangePivotCache Method (Excel)
+title: PivotTable.ChangePivotCache method (Excel)
 keywords: vbaxl10.chm235184
 f1_keywords:
 - vbaxl10.chm235184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ChangePivotCache Method (Excel)
+# PivotTable.ChangePivotCache method (Excel)
 
 Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)** .
 

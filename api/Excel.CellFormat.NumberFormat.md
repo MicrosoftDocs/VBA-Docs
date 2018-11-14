@@ -1,5 +1,5 @@
 ---
-title: CellFormat.NumberFormat Property (Excel)
+title: CellFormat.NumberFormat property (Excel)
 keywords: vbaxl10.chm676076
 f1_keywords:
 - vbaxl10.chm676076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.NumberFormat Property (Excel)
+# CellFormat.NumberFormat property (Excel)
 
 Returns or sets a  **Variant** value that represents the format code for the object.
 

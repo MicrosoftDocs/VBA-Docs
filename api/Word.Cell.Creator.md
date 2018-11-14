@@ -1,5 +1,5 @@
 ---
-title: Cell.Creator Property (Word)
+title: Cell.Creator property (Word)
 keywords: vbawd10.chm156107753
 f1_keywords:
 - vbawd10.chm156107753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Creator Property (Word)
+# Cell.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

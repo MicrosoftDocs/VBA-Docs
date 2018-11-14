@@ -1,5 +1,5 @@
 ---
-title: System.PrivateProfileString Property (Word)
+title: System.PrivateProfileString property (Word)
 keywords: vbawd10.chm154468362
 f1_keywords:
 - vbawd10.chm154468362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.PrivateProfileString Property (Word)
+# System.PrivateProfileString property (Word)
 
 Returns or sets a string in a settings file or the Microsoft Windows registry. Read/write  **String** .
 

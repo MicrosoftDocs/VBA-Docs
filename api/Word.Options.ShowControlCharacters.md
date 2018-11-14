@@ -1,5 +1,5 @@
 ---
-title: Options.ShowControlCharacters Property (Word)
+title: Options.ShowControlCharacters property (Word)
 keywords: vbawd10.chm162988438
 f1_keywords:
 - vbawd10.chm162988438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowControlCharacters Property (Word)
+# Options.ShowControlCharacters property (Word)
 
  **True** if bidirectional control characters are visible in the current document. Read/write **Boolean** .
 

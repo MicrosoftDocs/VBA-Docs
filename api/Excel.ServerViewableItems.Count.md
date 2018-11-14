@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Count Property (Excel)
+title: ServerViewableItems.Count property (Excel)
 keywords: vbaxl10.chm833073
 f1_keywords:
 - vbaxl10.chm833073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Count Property (Excel)
+# ServerViewableItems.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

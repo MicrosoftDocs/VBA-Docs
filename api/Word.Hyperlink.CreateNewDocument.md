@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.CreateNewDocument Method (Word)
+title: Hyperlink.CreateNewDocument method (Word)
 keywords: vbawd10.chm161284202
 f1_keywords:
 - vbawd10.chm161284202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.CreateNewDocument Method (Word)
+# Hyperlink.CreateNewDocument method (Word)
 
 Creates a new document linked to the specified hyperlink.
 

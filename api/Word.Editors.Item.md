@@ -1,5 +1,5 @@
 ---
-title: Editors.Item Method (Word)
+title: Editors.Item method (Word)
 keywords: vbawd10.chm9175040
 f1_keywords:
 - vbawd10.chm9175040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors.Item Method (Word)
+# Editors.Item method (Word)
 
 Returns an  **Editor** object that represents a specific user or a group of users who have been given permission to edit a portion of a document.
 
@@ -29,7 +29,7 @@ Returns an  **Editor** object that represents a specific user or a group of user
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**| Can be either a **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users.|
+| _Index_|Required| **Variant**| Can be either a **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users.|
 
 ## Return value
 

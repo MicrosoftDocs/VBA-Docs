@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures Object (Word)
+title: TableOfFigures object (Word)
 keywords: vbawd10.chm2337
 f1_keywords:
 - vbawd10.chm2337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures Object (Word)
+# TableOfFigures object (Word)
 
 Represents a single table of figures in a document. The  **TableOfFigures** object is a member of the **[TablesOfFigures](Word.tablesoffigures.md)** collection. The **TablesOfFigures** collection includes all the tables of figures in a document.
 

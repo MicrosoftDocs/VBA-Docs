@@ -1,5 +1,5 @@
 ---
-title: Options.AutoWordSelection Property (Word)
+title: Options.AutoWordSelection property (Word)
 keywords: vbawd10.chm162988101
 f1_keywords:
 - vbawd10.chm162988101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoWordSelection Property (Word)
+# Options.AutoWordSelection property (Word)
 
  **True** if dragging selects one word at a time instead of one character at a time. Read/write **Boolean** .
 

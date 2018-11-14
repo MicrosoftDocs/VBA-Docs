@@ -1,5 +1,5 @@
 ---
-title: Cell.PreferredWidth Property (Word)
+title: Cell.PreferredWidth property (Word)
 keywords: vbawd10.chm156106861
 f1_keywords:
 - vbawd10.chm156106861
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.PreferredWidth Property (Word)
+# Cell.PreferredWidth property (Word)
 
 Returns or sets the preferred width (in points or as a percentage of the window width) for the specified cell. Read/write  **Single** .
 

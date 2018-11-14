@@ -1,5 +1,5 @@
 ---
-title: Options.SuggestFromMainDictionaryOnly Property (Word)
+title: Options.SuggestFromMainDictionaryOnly property (Word)
 keywords: vbawd10.chm162988314
 f1_keywords:
 - vbawd10.chm162988314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SuggestFromMainDictionaryOnly Property (Word)
+# Options.SuggestFromMainDictionaryOnly property (Word)
 
  **True** if Microsoft Word draws spelling suggestions from the main dictionary only. Read/write **Boolean** .
 

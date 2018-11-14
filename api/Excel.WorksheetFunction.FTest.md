@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FTest Method (Excel)
+title: WorksheetFunction.FTest method (Excel)
 keywords: vbaxl10.chm137214
 f1_keywords:
 - vbaxl10.chm137214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.FTest Method (Excel)
+# WorksheetFunction.FTest method (Excel)
 
 Returns the result of an F-test. An F-test returns the two-tailed probability that the variances in array1 and array2 are not significantly different. Use this function to determine whether two samples have different variances. For example, given test scores from public and private schools, you can test whether these schools have different levels of test score diversity.
 

@@ -1,5 +1,5 @@
 ---
-title: Top10.Parent Property (Excel)
+title: Top10.Parent property (Excel)
 keywords: vbaxl10.chm821075
 f1_keywords:
 - vbaxl10.chm821075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Parent Property (Excel)
+# Top10.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

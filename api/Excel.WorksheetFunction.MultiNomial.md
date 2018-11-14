@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.MultiNomial Method (Excel)
+title: WorksheetFunction.MultiNomial method (Excel)
 keywords: vbaxl10.chm137350
 f1_keywords:
 - vbaxl10.chm137350
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.MultiNomial Method (Excel)
+# WorksheetFunction.MultiNomial method (Excel)
 
 Returns the ratio of the factorial of a sum of values to the product of factorials.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbooks.Add Method (Excel)
+title: Workbooks.Add method (Excel)
 keywords: vbaxl10.chm203073
 f1_keywords:
 - vbaxl10.chm203073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.Add Method (Excel)
+# Workbooks.Add method (Excel)
 
 Creates a new workbook. The new workbook becomes the active workbook.
 

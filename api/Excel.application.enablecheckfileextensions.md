@@ -1,5 +1,5 @@
 ---
-title: Application.EnableCheckFileExtensions Property (Excel)
+title: Application.EnableCheckFileExtensions property (Excel)
 keywords: vbaxl10.chm133344
 f1_keywords:
 - vbaxl10.chm133344
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Application.EnableCheckFileExtensions Property (Excel)
+# Application.EnableCheckFileExtensions property (Excel)
 
  **True** to enable the **Tell me if Microsoft Excel isn't the default program for viewing and editing spreadsheets** dialog box. Read/write **Boolean** .
 

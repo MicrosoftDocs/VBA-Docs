@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CenterFooterPicture Property (Excel)
+title: PageSetup.CenterFooterPicture property (Excel)
 keywords: vbaxl10.chm473107
 f1_keywords:
 - vbaxl10.chm473107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CenterFooterPicture Property (Excel)
+# PageSetup.CenterFooterPicture property (Excel)
 
 Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture for the center section of the footer. Used to set attributes about the picture.
 

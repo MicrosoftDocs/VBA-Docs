@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Count Property (Excel)
+title: DataLabels.Count property (Excel)
 keywords: vbaxl10.chm584105
 f1_keywords:
 - vbaxl10.chm584105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Count Property (Excel)
+# DataLabels.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

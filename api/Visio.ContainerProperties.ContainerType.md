@@ -34,7 +34,7 @@ The value of the  **ContainerType** property can be one of the following **VisCo
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerTypeNormal**|0|Member shapes are not arranged in a list.|
 | **visContainerTypeList**|1|Member shapes are arranged in a list.|

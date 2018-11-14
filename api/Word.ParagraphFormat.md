@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat Object (Word)
+title: ParagraphFormat object (Word)
 keywords: vbawd10.chm2387
 f1_keywords:
 - vbawd10.chm2387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat Object (Word)
+# ParagraphFormat object (Word)
 
 Represents all the formatting for a paragraph.
 

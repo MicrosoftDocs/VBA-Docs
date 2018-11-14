@@ -1,5 +1,5 @@
 ---
-title: Name.CategoryLocal Property (Excel)
+title: Name.CategoryLocal property (Excel)
 keywords: vbaxl10.chm490076
 f1_keywords:
 - vbaxl10.chm490076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.CategoryLocal Property (Excel)
+# Name.CategoryLocal property (Excel)
 
 Returns or sets the category for the specified name, in the language of the user, if the name refers to a custom function or command. Read/write  **String** .
 

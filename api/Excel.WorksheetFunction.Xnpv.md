@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Xnpv Method (Excel)
+title: WorksheetFunction.Xnpv method (Excel)
 keywords: vbaxl10.chm137307
 f1_keywords:
 - vbaxl10.chm137307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Xnpv Method (Excel)
+# WorksheetFunction.Xnpv method (Excel)
 
 Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double** .
 

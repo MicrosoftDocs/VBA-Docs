@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.RefreshPeriod Property (Excel)
+title: OLEDBConnection.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm794087
 f1_keywords:
 - vbaxl10.chm794087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.RefreshPeriod Property (Excel)
+# OLEDBConnection.RefreshPeriod property (Excel)
 
 Returns or sets the number of minutes between refreshes. Read/write  **Long** .
 

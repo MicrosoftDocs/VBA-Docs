@@ -1,5 +1,5 @@
 ---
-title: Shape.WrapFormat Property (Word)
+title: Shape.WrapFormat property (Word)
 keywords: vbawd10.chm161481007
 f1_keywords:
 - vbawd10.chm161481007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.WrapFormat Property (Word)
+# Shape.WrapFormat property (Word)
 
 Returns a  **WrapFormat** object that contains the properties for wrapping text around the specified shape. Read-only.
 

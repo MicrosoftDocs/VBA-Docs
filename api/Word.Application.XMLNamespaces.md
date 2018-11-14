@@ -1,5 +1,5 @@
 ---
-title: Application.XMLNamespaces Property (Word)
+title: Application.XMLNamespaces property (Word)
 keywords: vbawd10.chm158335439
 f1_keywords:
 - vbawd10.chm158335439
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.XMLNamespaces Property (Word)
+# Application.XMLNamespaces property (Word)
 
 Returns an  **** collection that represents the XML schemas in the Schema Library.
 

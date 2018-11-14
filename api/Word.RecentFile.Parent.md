@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Parent Property (Word)
+title: RecentFile.Parent property (Word)
 keywords: vbawd10.chm157549546
 f1_keywords:
 - vbawd10.chm157549546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Parent Property (Word)
+# RecentFile.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **RecentFile** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelFormatWholeNumber.Creator Property (Excel)
+title: ModelFormatWholeNumber.Creator property (Excel)
 keywords: vbaxl10.chm987074
 f1_keywords:
 - vbaxl10.chm987074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatWholeNumber.Creator Property (Excel)
+# ModelFormatWholeNumber.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

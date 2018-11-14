@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Growth Method (Excel)
+title: WorksheetFunction.Growth method (Excel)
 keywords: vbaxl10.chm137106
 f1_keywords:
 - vbaxl10.chm137106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Growth Method (Excel)
+# WorksheetFunction.Growth method (Excel)
 
 Calculates predicted exponential growth by using existing data. GROWTH returns the y-values for a series of new x-values that you specify by using existing x-values and y-values. You can also use the GROWTH worksheet function to fit an exponential curve to existing x-values and y-values.
 

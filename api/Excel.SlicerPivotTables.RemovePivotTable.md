@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.RemovePivotTable Method (Excel)
+title: SlicerPivotTables.RemovePivotTable method (Excel)
 keywords: vbaxl10.chm911078
 f1_keywords:
 - vbaxl10.chm911078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables.RemovePivotTable Method (Excel)
+# SlicerPivotTables.RemovePivotTable method (Excel)
 
 Removes a reference to a PivotTable from the  **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection.
 

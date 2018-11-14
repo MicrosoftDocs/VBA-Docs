@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Creator Property (Word)
+title: StyleSheet.Creator property (Word)
 keywords: vbawd10.chm166659049
 f1_keywords:
 - vbawd10.chm166659049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Creator Property (Word)
+# StyleSheet.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: TableStyleElements.Item Method (Excel)
+title: TableStyleElements.Item method (Excel)
 keywords: vbaxl10.chm837074
 f1_keywords:
 - vbaxl10.chm837074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElements.Item Method (Excel)
+# TableStyleElements.Item method (Excel)
 
 Returns a single object from a collection.
 
@@ -29,7 +29,7 @@ Returns a single object from a collection.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlTableStyleElementType**|A table style element.|
+| _Index_|Required| **xlTableStyleElementType**|A table style element.|
 
 ## Return value
 

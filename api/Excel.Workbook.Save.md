@@ -1,5 +1,5 @@
 ---
-title: Workbook.Save Method (Excel)
+title: Workbook.Save method (Excel)
 keywords: vbaxl10.chm199144
 f1_keywords:
 - vbaxl10.chm199144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Save Method (Excel)
+# Workbook.Save method (Excel)
 
 Saves changes to the specified workbook.
 

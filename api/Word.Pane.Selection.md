@@ -1,5 +1,5 @@
 ---
-title: Pane.Selection Property (Word)
+title: Pane.Selection property (Word)
 keywords: vbawd10.chm157286403
 f1_keywords:
 - vbawd10.chm157286403
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Selection Property (Word)
+# Pane.Selection property (Word)
 
 Returns the  **Selection** object that represents a selection or the insertion point within a document pane. Read-only.
 

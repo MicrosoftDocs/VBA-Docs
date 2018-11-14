@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object (Excel)
+title: AxisTitle object (Excel)
 keywords: vbaxl10.chm564072
 f1_keywords:
 - vbaxl10.chm564072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle Object (Excel)
+# AxisTitle object (Excel)
 
 Represents a chart axis title.
 

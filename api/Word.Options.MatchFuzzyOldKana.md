@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyOldKana Property (Word)
+title: Options.MatchFuzzyOldKana property (Word)
 keywords: vbawd10.chm162988348
 f1_keywords:
 - vbawd10.chm162988348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyOldKana Property (Word)
+# Options.MatchFuzzyOldKana property (Word)
 
  **True** if Microsoft Word ignores the distinction between new kana and old kana characters during a search. Read/write **Boolean** .
 

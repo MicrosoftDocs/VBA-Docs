@@ -1,5 +1,5 @@
 ---
-title: Graphic.LockAspectRatio Property (Excel)
+title: Graphic.LockAspectRatio property (Excel)
 keywords: vbaxl10.chm694082
 f1_keywords:
 - vbaxl10.chm694082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.LockAspectRatio Property (Excel)
+# Graphic.LockAspectRatio property (Excel)
 
  **True** if the specified shape retains its original proportions when you resize it. **False** if you can change the height and width of the shape independently of one another when you resize it. Read/write **[MsoTriState](Office.MsoTriState.md)** .
 

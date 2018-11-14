@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Height Property (Excel)
+title: DataLabel.Height property (Excel)
 keywords: vbaxl10.chm582113
 f1_keywords:
 - vbaxl10.chm582113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Height Property (Excel)
+# DataLabel.Height property (Excel)
 
 Returns the height, in points, of the object. Read/Write.
 

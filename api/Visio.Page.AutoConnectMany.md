@@ -45,7 +45,7 @@ For the  _PlacementDirs()_ parameter, pass an array of values from the **VisAuto
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |visAutoConnectDirDown|2|Connect down.|
 |visAutoConnectDirLeft|3|Connect to the left.|

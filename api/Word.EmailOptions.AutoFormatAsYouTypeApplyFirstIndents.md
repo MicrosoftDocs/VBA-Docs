@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyFirstIndents Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyFirstIndents property (Word)
 keywords: vbawd10.chm165347625
 f1_keywords:
 - vbawd10.chm165347625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyFirstIndents Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyFirstIndents property (Word)
 
  **True** for Microsoft Word to automatically replace a space entered at the beginning of a paragraph with a first-line indent. Read/write.
 

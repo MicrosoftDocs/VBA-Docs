@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Context Property (Word)
+title: KeysBoundTo.Context property (Word)
 keywords: vbawd10.chm160890890
 f1_keywords:
 - vbawd10.chm160890890
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Context Property (Word)
+# KeysBoundTo.Context property (Word)
 
 Returns an  **Object** that represents the storage location of the specified key binding. Read-only.
 

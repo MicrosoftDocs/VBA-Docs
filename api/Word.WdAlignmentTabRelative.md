@@ -1,5 +1,5 @@
 ---
-title: WdAlignmentTabRelative Enumeration (Word)
+title: WdAlignmentTabRelative enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAlignmentTabRelative
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAlignmentTabRelative Enumeration (Word)
+# WdAlignmentTabRelative enumeration (Word)
 
 Specifies whether Microsoft Word calculates the alignment for a tab relative to the section margins or the paragraph indents.
 

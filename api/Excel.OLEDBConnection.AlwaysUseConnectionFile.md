@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.AlwaysUseConnectionFile Property (Excel)
+title: OLEDBConnection.AlwaysUseConnectionFile property (Excel)
 keywords: vbaxl10.chm794099
 f1_keywords:
 - vbaxl10.chm794099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.AlwaysUseConnectionFile Property (Excel)
+# OLEDBConnection.AlwaysUseConnectionFile property (Excel)
 
  **True** if the connection file is always used to establish connection to the data source. Read/write **Boolean** .
 

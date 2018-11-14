@@ -1,5 +1,5 @@
 ---
-title: Validation.ErrorMessage Property (Excel)
+title: Validation.ErrorMessage property (Excel)
 keywords: vbaxl10.chm532079
 f1_keywords:
 - vbaxl10.chm532079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.ErrorMessage Property (Excel)
+# Validation.ErrorMessage property (Excel)
 
 Returns or sets the data validation error message. Read/write  **String** .
 

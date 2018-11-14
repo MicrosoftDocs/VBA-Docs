@@ -1,5 +1,5 @@
 ---
-title: Border.LineWidth Property (Word)
+title: Border.LineWidth property (Word)
 keywords: vbawd10.chm154861572
 f1_keywords:
 - vbawd10.chm154861572
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.LineWidth Property (Word)
+# Border.LineWidth property (Word)
 
 Returns or sets the line width of an object's border. Read/write.
 

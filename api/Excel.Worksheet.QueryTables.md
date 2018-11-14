@@ -1,5 +1,5 @@
 ---
-title: Worksheet.QueryTables Property (Excel)
+title: Worksheet.QueryTables property (Excel)
 keywords: vbaxl10.chm175137
 f1_keywords:
 - vbaxl10.chm175137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.QueryTables Property (Excel)
+# Worksheet.QueryTables property (Excel)
 
 Returns the  **[QueryTables](Excel.QueryTables.md)** collection that represents all the query tables on the specified worksheet. Read-only.
 

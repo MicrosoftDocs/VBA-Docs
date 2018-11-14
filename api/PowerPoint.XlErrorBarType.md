@@ -1,5 +1,5 @@
 ---
-title: XlErrorBarType Enumeration (PowerPoint)
+title: xlErrorBarType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlErrorBarType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlErrorBarType Enumeration (PowerPoint)
+# xlErrorBarType Enumeration (PowerPoint)
 
 Specifies the range marked by error bars.
 

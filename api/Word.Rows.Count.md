@@ -1,5 +1,5 @@
 ---
-title: Rows.Count Property (Word)
+title: Rows.Count property (Word)
 keywords: vbawd10.chm155975682
 f1_keywords:
 - vbawd10.chm155975682
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.Count Property (Word)
+# Rows.Count property (Word)
 
 Returns a  **Long** that represents the number of rows in the collection. Read-only.
 

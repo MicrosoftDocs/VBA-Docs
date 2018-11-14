@@ -1,5 +1,5 @@
 ---
-title: ValueChange.Parent Property (Excel)
+title: ValueChange.Parent property (Excel)
 keywords: vbaxl10.chm888075
 f1_keywords:
 - vbaxl10.chm888075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.Parent Property (Excel)
+# ValueChange.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

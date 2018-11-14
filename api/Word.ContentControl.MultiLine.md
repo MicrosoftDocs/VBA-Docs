@@ -1,5 +1,5 @@
 ---
-title: ContentControl.MultiLine Property (Word)
+title: ContentControl.MultiLine property (Word)
 keywords: vbawd10.chm266534927
 f1_keywords:
 - vbawd10.chm266534927
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.MultiLine Property (Word)
+# ContentControl.MultiLine property (Word)
 
 Returns a  **Boolean** that represents whether a text content control allows multiple lines of text. Read/write.
 

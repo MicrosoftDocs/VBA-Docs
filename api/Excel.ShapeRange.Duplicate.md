@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Duplicate Method (Excel)
+title: ShapeRange.Duplicate method (Excel)
 keywords: vbaxl10.chm640081
 f1_keywords:
 - vbaxl10.chm640081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Duplicate Method (Excel)
+# ShapeRange.Duplicate method (Excel)
 
 Duplicates the object and returns a reference to the new copy.
 

@@ -20,7 +20,7 @@ Reads data from an open sequential file and assigns the data to [variables](../.
 The  **Input #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _varlist_|Required. Comma-delimited list of variables that are assigned values read from the file — can't be an [array](../../Glossary/vbe-glossary.md#array) or [object variable](../../Glossary/vbe-glossary.md#object-variable). However, variables that describe an element of an array or [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) may be used.|

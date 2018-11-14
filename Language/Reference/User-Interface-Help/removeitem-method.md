@@ -23,7 +23,7 @@ _Boolean_ = _object_. **RemoveItem**_index_
 The  **RemoveItem** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. Specifies the row to delete. The number of the first row is 0; the number of the second row is 1, and so on.|

@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Borders Property (Word)
+title: InlineShape.Borders property (Word)
 keywords: vbawd10.chm162006092
 f1_keywords:
 - vbawd10.chm162006092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Borders Property (Word)
+# InlineShape.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified shape.
 

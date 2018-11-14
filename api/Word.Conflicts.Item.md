@@ -1,5 +1,5 @@
 ---
-title: Conflicts.Item Method (Word)
+title: Conflicts.Item method (Word)
 keywords: vbawd10.chm174391296
 f1_keywords:
 - vbawd10.chm174391296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.Item Method (Word)
+# Conflicts.Item method (Word)
 
 Returns an individual  **Conflicts** object in a collection.
 

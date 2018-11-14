@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.Application Property (Word)
+title: EmailOptions.Application property (Word)
 keywords: vbawd10.chm165347428
 f1_keywords:
 - vbawd10.chm165347428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.Application Property (Word)
+# EmailOptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.FieldOfView Property (Excel)
+title: ThreeDFormat.FieldOfView property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.FieldOfView
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.FieldOfView Property (Excel)
+# ThreeDFormat.FieldOfView property (Excel)
 
 Returns or sets the angle at which a  **ThreeDFormat** object can be viewed. Read/write **Single** .
 

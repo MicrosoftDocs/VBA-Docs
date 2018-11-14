@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropLeft Method (Word)
+title: ShapeRange.CanvasCropLeft method (Word)
 keywords: vbawd10.chm162857100
 f1_keywords:
 - vbawd10.chm162857100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.CanvasCropLeft Method (Word)
+# ShapeRange.CanvasCropLeft method (Word)
 
 Crops a percentage of the width of a drawing canvas from the left side of the canvas.
 

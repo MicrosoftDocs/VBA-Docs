@@ -1,5 +1,5 @@
 ---
-title: Sparkline.ModifySourceData Method (Excel)
+title: Sparkline.ModifySourceData method (Excel)
 keywords: vbaxl10.chm875076
 f1_keywords:
 - vbaxl10.chm875076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sparkline.ModifySourceData Method (Excel)
+# Sparkline.ModifySourceData method (Excel)
 
 Modifies the source data for a single sparkline.
 

@@ -1,5 +1,5 @@
 ---
-title: AllowEditRanges.Item Property (Excel)
+title: AllowEditRanges.Item property (Excel)
 keywords: vbaxl10.chm724074
 f1_keywords:
 - vbaxl10.chm724074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRanges.Item Property (Excel)
+# AllowEditRanges.Item property (Excel)
 
 Returns a single object from a collection.
 

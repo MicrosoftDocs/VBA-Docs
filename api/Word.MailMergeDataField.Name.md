@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataField.Name Property (Word)
+title: MailMergeDataField.Name property (Word)
 keywords: vbawd10.chm152633345
 f1_keywords:
 - vbawd10.chm152633345
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataField.Name Property (Word)
+# MailMergeDataField.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

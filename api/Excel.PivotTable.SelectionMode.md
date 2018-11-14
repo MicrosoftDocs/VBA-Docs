@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SelectionMode Property (Excel)
+title: PivotTable.SelectionMode property (Excel)
 keywords: vbaxl10.chm235125
 f1_keywords:
 - vbaxl10.chm235125
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SelectionMode Property (Excel)
+# PivotTable.SelectionMode property (Excel)
 
-Returns or sets the PivotTable report structured selection mode. Read/write  **[XlPTSelectionMode](Excel.XlPTSelectionMode.md)** .
+Returns or sets the PivotTable report structured selection mode. Read/write  **[xlPTSelectionMode](Excel.XlPTSelectionMode.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the PivotTable report structured selection mode. Read/write  **[
 
 
 
-| **XlPTSelectionMode** can be one of these **XlPTSelectionMode** constants.|
+| **xlPTSelectionMode** can be one of these **xlPTSelectionMode** constants.|
 | **xlBlanks**|
 | **xlButton**|
 | **xlDataAndLabel**|

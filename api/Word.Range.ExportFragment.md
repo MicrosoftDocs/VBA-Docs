@@ -1,5 +1,5 @@
 ---
-title: Range.ExportFragment Method (Word)
+title: Range.ExportFragment method (Word)
 keywords: vbawd10.chm157155753
 f1_keywords:
 - vbawd10.chm157155753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ExportFragment Method (Word)
+# Range.ExportFragment method (Word)
 
  Exports the selected range into a document for use as a document fragment.
 

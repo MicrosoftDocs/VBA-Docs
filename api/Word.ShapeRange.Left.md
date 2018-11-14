@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Left Property (Word)
+title: ShapeRange.Left property (Word)
 keywords: vbawd10.chm162857071
 f1_keywords:
 - vbawd10.chm162857071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Left Property (Word)
+# ShapeRange.Left property (Word)
 
 Returns or sets a  **Single** that represents the horizontal position, measured in points, of the specified range of shapes. Can also be any valid **[WdShapePosition](Word.WdShapePosition.md)** constant. Read/write.
 

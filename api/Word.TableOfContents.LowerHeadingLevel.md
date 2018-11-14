@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.LowerHeadingLevel Property (Word)
+title: TableOfContents.LowerHeadingLevel property (Word)
 keywords: vbawd10.chm152240132
 f1_keywords:
 - vbawd10.chm152240132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.LowerHeadingLevel Property (Word)
+# TableOfContents.LowerHeadingLevel property (Word)
 
 Returns or sets the ending heading level for a table of contents or table of figures. Read/write  **Long** .
 

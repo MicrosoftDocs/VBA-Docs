@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Name Property (Word)
+title: Bookmark.Name property (Word)
 keywords: vbawd10.chm157810688
 f1_keywords:
 - vbawd10.chm157810688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Name Property (Word)
+# Bookmark.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

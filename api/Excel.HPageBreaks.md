@@ -1,5 +1,5 @@
 ---
-title: HPageBreaks Object (Excel)
+title: HPageBreaks object (Excel)
 keywords: vbaxl10.chm163072
 f1_keywords:
 - vbaxl10.chm163072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreaks Object (Excel)
+# HPageBreaks object (Excel)
 
 The collection of horizontal page breaks within the print area.
 

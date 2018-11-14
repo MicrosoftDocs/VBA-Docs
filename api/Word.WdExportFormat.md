@@ -1,5 +1,5 @@
 ---
-title: WdExportFormat Enumeration (Word)
+title: WdExportFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdExportFormat Enumeration (Word)
+# WdExportFormat enumeration (Word)
 
 Specifies format to use for exporting a document.
 

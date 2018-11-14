@@ -1,5 +1,5 @@
 ---
-title: DropDown.Valid Property (Word)
+title: DropDown.Valid property (Word)
 keywords: vbawd10.chm153419776
 f1_keywords:
 - vbawd10.chm153419776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Valid Property (Word)
+# DropDown.Valid property (Word)
 
  **True** if the specified form field object is a valid drop down form field. Read-only **Boolean** .
 

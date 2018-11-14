@@ -1,5 +1,5 @@
 ---
-title: Document.SmartDocument Property (Word)
+title: Document.SmartDocument property (Word)
 keywords: vbawd10.chm158007758
 f1_keywords:
 - vbawd10.chm158007758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SmartDocument Property (Word)
+# Document.SmartDocument property (Word)
 
 Returns a  **SmartDocument** object that represents the settings for a smart document solution.
 

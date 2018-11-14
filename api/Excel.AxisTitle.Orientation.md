@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Orientation Property (Excel)
+title: AxisTitle.Orientation property (Excel)
 keywords: vbaxl10.chm565083
 f1_keywords:
 - vbaxl10.chm565083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Orientation Property (Excel)
+# AxisTitle.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 

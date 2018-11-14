@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectHangulAndAlphabet Property (Word)
+title: AutoCorrect.CorrectHangulAndAlphabet property (Word)
 keywords: vbawd10.chm155779084
 f1_keywords:
 - vbawd10.chm155779084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectHangulAndAlphabet Property (Word)
+# AutoCorrect.CorrectHangulAndAlphabet property (Word)
 
  **True** if Microsoft Word automatically applies the correct font to Latin words typed in the middle of Hangul text or vice versa. Read/write **Boolean** .
 

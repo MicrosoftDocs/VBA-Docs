@@ -1,5 +1,5 @@
 ---
-title: NegativeBarFormat Object (Excel)
+title: NegativeBarFormat object (Excel)
 keywords: vbaxl10.chm886072
 f1_keywords:
 - vbaxl10.chm886072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NegativeBarFormat Object (Excel)
+# NegativeBarFormat object (Excel)
 
 Represents the color settings of the data bars for negative values that are defined by a data bar conditional formating rule.
 

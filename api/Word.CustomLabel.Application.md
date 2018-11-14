@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Application Property (Word)
+title: CustomLabel.Application property (Word)
 keywords: vbawd10.chm152372200
 f1_keywords:
 - vbawd10.chm152372200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Application Property (Word)
+# CustomLabel.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

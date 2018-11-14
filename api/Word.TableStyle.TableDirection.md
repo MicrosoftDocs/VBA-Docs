@@ -1,5 +1,5 @@
 ---
-title: TableStyle.TableDirection Property (Word)
+title: TableStyle.TableDirection property (Word)
 keywords: vbawd10.chm244776972
 f1_keywords:
 - vbawd10.chm244776972
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.TableDirection Property (Word)
+# TableStyle.TableDirection property (Word)
 
 Returns or sets the direction in which Microsoft Word orders cells in the specified table style. Read/write  **[WdTableDirection](Word.WdTableDirection.md)** .
 

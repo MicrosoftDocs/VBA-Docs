@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Tracking Property (Word)
+title: TextEffectFormat.Tracking property (Word)
 keywords: vbawd10.chm164561007
 f1_keywords:
 - vbawd10.chm164561007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Tracking Property (Word)
+# TextEffectFormat.Tracking property (Word)
 
 Returns or sets the ratio of the horizontal space allotted to each character in the specified WordArt in relation to the width of the character. Read/write  **Single** .
 

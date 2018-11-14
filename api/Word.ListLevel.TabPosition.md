@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TabPosition Property (Word)
+title: ListLevel.TabPosition property (Word)
 keywords: vbawd10.chm160235528
 f1_keywords:
 - vbawd10.chm160235528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.TabPosition Property (Word)
+# ListLevel.TabPosition property (Word)
 
 Returns or sets the tab position for the specified  **ListLevel** object. Read/write **Single** .
 

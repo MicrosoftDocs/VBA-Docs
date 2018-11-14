@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Complex Method (Excel)
+title: WorksheetFunction.Complex method (Excel)
 keywords: vbaxl10.chm137288
 f1_keywords:
 - vbaxl10.chm137288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Complex Method (Excel)
+# WorksheetFunction.Complex method (Excel)
 
 Converts real and imaginary coefficients into a complex number of the form x + yi or x + yj.
 

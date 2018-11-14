@@ -1,5 +1,5 @@
 ---
-title: Range.Font Property (Word)
+title: Range.Font property (Word)
 keywords: vbawd10.chm157155333
 f1_keywords:
 - vbawd10.chm157155333
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Font Property (Word)
+# Range.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.SubscribeTo Method (Excel)
+title: Range.SubscribeTo method (Excel)
 keywords: vbaxl10.chm144205
 f1_keywords:
 - vbaxl10.chm144205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SubscribeTo Method (Excel)
+# Range.SubscribeTo method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
@@ -30,7 +30,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Edition_|Required| **String**|See help included with Microsoft Office Macintosh Edition.|
-| _Format_|Optional| **XlSubscribeToFormat**|See help included with Microsoft Office Macintosh Edition.|
+| _Format_|Optional| **xlSubscribeToFormat**|See help included with Microsoft Office Macintosh Edition.|
 
 ## Return value
 

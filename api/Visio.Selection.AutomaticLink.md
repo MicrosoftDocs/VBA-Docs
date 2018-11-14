@@ -58,7 +58,7 @@ For the optional AutoLinkBehavior parameter, you can pass a combination of one o
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoLinkDontReplaceExistingLinks**|16|Do not replace existing links.|
 | **visAutoLinkGenericProgressBar**|2|Show generic progress bar instead of more detailed one.|

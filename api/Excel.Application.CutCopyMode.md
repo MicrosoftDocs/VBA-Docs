@@ -1,5 +1,5 @@
 ---
-title: Application.CutCopyMode Property (Excel)
+title: Application.CutCopyMode property (Excel)
 keywords: vbaxl10.chm133101
 f1_keywords:
 - vbaxl10.chm133101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CutCopyMode Property (Excel)
+# Application.CutCopyMode property (Excel)
 
 Returns or sets the status of Cut or Copy mode. Can be  **True** , **False** , or an **[XLCutCopyMode](Excel.XlCutCopyMode.md)** constant, as shown in the following tables. Read/write **Long** .
 

@@ -23,7 +23,7 @@ _object_. **IMEMode** [= _fmIMEMode_ ]
 The  **IMEMode** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmIMEMode_|Optional. The mode of the Input Method Editor (IME).|
@@ -32,7 +32,7 @@ The  **IMEMode** property syntax has these parts:
 The settings for  _fmIMEMode_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmIMEModeNoControl_|0|Does not control IME (default).|
 | _fmIMEModeOn_|1|IME on.|

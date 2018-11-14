@@ -1,5 +1,5 @@
 ---
-title: Walls.Paste Method (Excel)
+title: Walls.Paste method (Excel)
 keywords: vbaxl10.chm614081
 f1_keywords:
 - vbaxl10.chm614081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Paste Method (Excel)
+# Walls.Paste method (Excel)
 
 Pastes a picture from the Clipboard on the walls of the specified chart. 
 

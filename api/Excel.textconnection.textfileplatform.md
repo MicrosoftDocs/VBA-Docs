@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFilePlatform Property (Excel)
+title: TextConnection.TextFilePlatform property (Excel)
 keywords: vbaxl10.chm926082
 f1_keywords:
 - vbaxl10.chm926082
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFilePlatform Property (Excel)
+# TextConnection.TextFilePlatform property (Excel)
 
-Returns or sets the origin of the text file you're importing into the query table. This property determines which code page is used during the data import. Read/write [XlPlatform Enumeration (Excel)](Excel.XlPlatform.md)
+Returns or sets the origin of the text file you are importing into the query table. This property determines which code page is used during the data import. Read/write [xlPlatform enumeration (Excel)](Excel.xlPlatform.md)
 
 
 ## Syntax

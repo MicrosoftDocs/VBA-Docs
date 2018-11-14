@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayHorizontalScrollBar Property (Word)
+title: Window.DisplayHorizontalScrollBar property (Word)
 keywords: vbawd10.chm157417492
 f1_keywords:
 - vbawd10.chm157417492
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayHorizontalScrollBar Property (Word)
+# Window.DisplayHorizontalScrollBar property (Word)
 
  **True** if a horizontal scroll bar is displayed for the specified window. Read/write **Boolean** .
 

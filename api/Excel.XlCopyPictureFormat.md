@@ -1,5 +1,5 @@
 ---
-title: XlCopyPictureFormat Enumeration (Excel)
+title: xlCopyPictureFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCopyPictureFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCopyPictureFormat Enumeration (Excel)
+# xlCopyPictureFormat enumeration (Excel)
 
 Specifies the format of the picture being copied.
 

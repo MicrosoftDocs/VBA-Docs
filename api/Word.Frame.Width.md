@@ -1,5 +1,5 @@
 ---
-title: Frame.Width Property (Word)
+title: Frame.Width property (Word)
 keywords: vbawd10.chm153747467
 f1_keywords:
 - vbawd10.chm153747467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Width Property (Word)
+# Frame.Width property (Word)
 
 Returns or sets the width (in points) of the frame, in points. Read/write  **Long** .
 

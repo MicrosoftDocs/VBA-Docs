@@ -1,5 +1,5 @@
 ---
-title: Application.FindKey Property (Word)
+title: Application.FindKey property (Word)
 keywords: vbawd10.chm158335047
 f1_keywords:
 - vbawd10.chm158335047
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FindKey Property (Word)
+# Application.FindKey property (Word)
 
 Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the specified key combination. Read-only.
 

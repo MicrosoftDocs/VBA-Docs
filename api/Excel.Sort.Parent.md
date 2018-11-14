@@ -1,5 +1,5 @@
 ---
-title: Sort.Parent Property (Excel)
+title: Sort.Parent property (Excel)
 keywords: vbaxl10.chm846075
 f1_keywords:
 - vbaxl10.chm846075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.Parent Property (Excel)
+# Sort.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

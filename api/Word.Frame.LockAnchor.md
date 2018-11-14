@@ -1,5 +1,5 @@
 ---
-title: Frame.LockAnchor Property (Word)
+title: Frame.LockAnchor property (Word)
 keywords: vbawd10.chm153747462
 f1_keywords:
 - vbawd10.chm153747462
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.LockAnchor Property (Word)
+# Frame.LockAnchor property (Word)
 
  **True** if the specified frame is locked. Read/write **Boolean** .
 

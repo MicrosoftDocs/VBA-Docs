@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientAngle Property (Excel)
+title: FillFormat.GradientAngle property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientAngle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientAngle Property (Excel)
+# FillFormat.GradientAngle property (Excel)
 
 Returns or sets the angle of the gradient fill for the specified fill format. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.OutlineNumbered Property (Word)
+title: ListTemplate.OutlineNumbered property (Word)
 keywords: vbawd10.chm160366593
 f1_keywords:
 - vbawd10.chm160366593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.OutlineNumbered Property (Word)
+# ListTemplate.OutlineNumbered property (Word)
 
  **True** if the specified **ListTemplate** object is outline numbered. Read/write **Boolean** .
 

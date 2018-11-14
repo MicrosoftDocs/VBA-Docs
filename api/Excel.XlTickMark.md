@@ -1,5 +1,5 @@
 ---
-title: XlTickMark Enumeration (Excel)
+title: xlTickMark enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTickMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTickMark Enumeration (Excel)
+# xlTickMark enumeration (Excel)
 
 Specifies the position of major and minor tick marks for an axis.
 

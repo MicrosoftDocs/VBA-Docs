@@ -1,5 +1,5 @@
 ---
-title: Axis.Height Property (Word)
+title: Axis.Height property (Word)
 keywords: vbawd10.chm113049670
 f1_keywords:
 - vbawd10.chm113049670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Height Property (Word)
+# Axis.Height property (Word)
 
 Returns the height, in points, of the object. Read-only  **Double** .
 

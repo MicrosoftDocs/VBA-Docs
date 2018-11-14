@@ -1,5 +1,5 @@
 ---
-title: Application.FileValidation Property (Word)
+title: Application.FileValidation property (Word)
 keywords: vbawd10.chm158335469
 f1_keywords:
 - vbawd10.chm158335469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileValidation Property (Word)
+# Application.FileValidation property (Word)
 
 Returns or sets how Word will validate files before opening them. Read/write [MsoFileValidationMode](./Office.MsoFileValidationMode.md).
 

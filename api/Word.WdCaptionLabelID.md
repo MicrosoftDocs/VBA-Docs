@@ -1,5 +1,5 @@
 ---
-title: WdCaptionLabelID Enumeration (Word)
+title: WdCaptionLabelID enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCaptionLabelID
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCaptionLabelID Enumeration (Word)
+# WdCaptionLabelID enumeration (Word)
 
 Specifies the type for a caption label.
 

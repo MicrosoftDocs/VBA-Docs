@@ -1,5 +1,5 @@
 ---
-title: Options.RevisionsBalloonPrintOrientation Property (Word)
+title: Options.RevisionsBalloonPrintOrientation property (Word)
 keywords: vbawd10.chm162988485
 f1_keywords:
 - vbawd10.chm162988485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RevisionsBalloonPrintOrientation Property (Word)
+# Options.RevisionsBalloonPrintOrientation property (Word)
 
 Returns or sets a  **WdRevisionsBalloonPrintOrientation** constant that represents the direction of revision and comment balloons when they are printed. Read/write.
 

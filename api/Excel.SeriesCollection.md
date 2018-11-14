@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (Excel)
+title: SeriesCollection object (Excel)
 keywords: vbaxl10.chm579072
 f1_keywords:
 - vbaxl10.chm579072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection Object (Excel)
+# SeriesCollection object (Excel)
 
 A collection of all the **[Series](./Excel.Series(object).md)** objects in the specified chart or chart group.
 

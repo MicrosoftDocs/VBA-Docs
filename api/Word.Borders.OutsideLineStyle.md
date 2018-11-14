@@ -1,5 +1,5 @@
 ---
-title: Borders.OutsideLineStyle Property (Word)
+title: Borders.OutsideLineStyle property (Word)
 keywords: vbawd10.chm154927111
 f1_keywords:
 - vbawd10.chm154927111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.OutsideLineStyle Property (Word)
+# Borders.OutsideLineStyle property (Word)
 
 Returns or sets the outside border for the specified object. .
 

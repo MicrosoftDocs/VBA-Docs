@@ -1,5 +1,5 @@
 ---
-title: Chart.BackWall Property (Word)
+title: Chart.BackWall property (Word)
 keywords: vbawd10.chm79366474
 f1_keywords:
 - vbawd10.chm79366474
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.BackWall Property (Word)
+# Chart.BackWall property (Word)
 
 Returns an object that allows the user to individually format the back wall of a 3-D chart. Read-only  **[Walls](Word.Walls.md)** .
 

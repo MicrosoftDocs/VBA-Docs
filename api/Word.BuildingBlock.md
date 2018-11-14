@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock Object (Word)
+title: BuildingBlock object (Word)
 keywords: vbawd10.chm3107
 f1_keywords:
 - vbawd10.chm3107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock Object (Word)
+# BuildingBlock object (Word)
 
 Represents a building block in a template. A building block is pre-built content, similar to autotext, that may contain text, images, and formatting.
 

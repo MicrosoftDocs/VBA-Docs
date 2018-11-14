@@ -1,5 +1,5 @@
 ---
-title: Application.Excel4IntlMacroSheets Property (Excel)
+title: Application.Excel4IntlMacroSheets property (Excel)
 keywords: vbaxl10.chm132117
 f1_keywords:
 - vbaxl10.chm132117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Excel4IntlMacroSheets Property (Excel)
+# Application.Excel4IntlMacroSheets property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the Microsoft Excel 4.0 international macro sheets in the specified workbook. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PreferCloudSaveLocations Property (Word)
+title: Options.PreferCloudSaveLocations property (Word)
 keywords: vbawd10.chm162988544
 f1_keywords:
 - vbawd10.chm162988544
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PreferCloudSaveLocations Property (Word)
+# Options.PreferCloudSaveLocations property (Word)
 
  **True** to save new documents in web locations by default. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.GoToNext Method (Word)
+title: Range.GoToNext method (Word)
 keywords: vbawd10.chm157155502
 f1_keywords:
 - vbawd10.chm157155502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.GoToNext Method (Word)
+# Range.GoToNext method (Word)
 
 Returns a  **Range** object that refers to the start position of the next item or location specified by the What argument. .
 

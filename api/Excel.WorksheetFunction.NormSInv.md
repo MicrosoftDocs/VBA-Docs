@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NormSInv Method (Excel)
+title: WorksheetFunction.NormSInv method (Excel)
 keywords: vbaxl10.chm137200
 f1_keywords:
 - vbaxl10.chm137200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NormSInv Method (Excel)
+# WorksheetFunction.NormSInv method (Excel)
 
 Returns the inverse of the standard normal cumulative distribution. The distribution has a mean of zero and a standard deviation of one.
 

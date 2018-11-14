@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Binom_Inv Method (Excel)
+title: WorksheetFunction.Binom_Inv method (Excel)
 keywords: vbaxl10.chm137415
 f1_keywords:
 - vbaxl10.chm137415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Binom_Inv Method (Excel)
+# WorksheetFunction.Binom_Inv method (Excel)
 
 Returns the inverse of the individual term binomial distribution probability.
 

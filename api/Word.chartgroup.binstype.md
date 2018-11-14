@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsType Property (Word)
+title: ChartGroup.BinsType property (Word)
 keywords: vbawd10.chm263457611
 f1_keywords:
 - vbawd10.chm263457611
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BinsType Property (Word)
+# ChartGroup.BinsType property (Word)
 
 Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](Word.xlbinstype.md).
 

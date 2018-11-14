@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.NumberFormatLocal Property (Excel)
+title: DisplayFormat.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm893085
 f1_keywords:
 - vbaxl10.chm893085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.NumberFormatLocal Property (Excel)
+# DisplayFormat.NumberFormatLocal property (Excel)
 
 Returns a value that represents the format code of the associated  **[Range](Excel.Range(object).md)** as a string in the language of the user as it is displayed in the current user interface. Read-only.
 

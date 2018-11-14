@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Atan2 Method (Excel)
+title: WorksheetFunction.Atan2 method (Excel)
 keywords: vbaxl10.chm137118
 f1_keywords:
 - vbaxl10.chm137118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Atan2 Method (Excel)
+# WorksheetFunction.Atan2 method (Excel)
 
 Returns the arctangent, or inverse tangent, of the specified x- and y-coordinates. The arctangent is the angle from the x-axis to a line containing the origin (0, 0) and a point with coordinates (x_num, y_num). The angle is given in radians between -pi and pi, excluding -pi.
 

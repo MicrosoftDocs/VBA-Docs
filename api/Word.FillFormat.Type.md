@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Type Property (Word)
+title: FillFormat.Type property (Word)
 keywords: vbawd10.chm164102256
 f1_keywords:
 - vbawd10.chm164102256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Type Property (Word)
+# FillFormat.Type property (Word)
 
 Returns the shape fill format type. Read-only  **MsoFillType** .
 

@@ -1,5 +1,5 @@
 ---
-title: Series.Trendlines Method (Excel)
+title: Series.Trendlines method (Excel)
 keywords: vbaxl10.chm578107
 f1_keywords:
 - vbaxl10.chm578107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Trendlines Method (Excel)
+# Series.Trendlines method (Excel)
 
 Returns an object that represents a single trendline (a  **[Trendline](Excel.Trendline(object).md)** object) or a collection of all the trendlines (a **[Trendlines](Excel.Trendlines(object).md)** collection) for the series.
 

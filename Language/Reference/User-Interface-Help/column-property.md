@@ -23,7 +23,7 @@ _object_. **Column(**_column, row_**)** [= _Variant_ ]
 The  **Column** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _column_|Optional. An integer with a range from 0 to one less than the total number of columns.|

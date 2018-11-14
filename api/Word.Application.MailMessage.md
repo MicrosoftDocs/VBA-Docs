@@ -1,5 +1,5 @@
 ---
-title: Application.MailMessage Property (Word)
+title: Application.MailMessage property (Word)
 keywords: vbawd10.chm158335324
 f1_keywords:
 - vbawd10.chm158335324
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailMessage Property (Word)
+# Application.MailMessage property (Word)
 
-Returns a  **[MailMessage](Word.MailMessage.md)** object that represents the active e-mail message.
+Returns a  **[MailMessage](Word.MailMessage.md)** object that represents the active email message.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[MailMessage](Word.MailMessage.md)** object that represents the act
 
 ## Example
 
-This example displays the  **Select Names** dialog box for the active e-mail message.
+This example displays the  **Select Names** dialog box for the active email message.
 
 
 ```vb

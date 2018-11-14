@@ -1,5 +1,5 @@
 ---
-title: Workbook.EnableConnections Method (Excel)
+title: Workbook.EnableConnections method (Excel)
 keywords: vbaxl10.chm199258
 f1_keywords:
 - vbaxl10.chm199258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.EnableConnections Method (Excel)
+# Workbook.EnableConnections method (Excel)
 
 The  **EnableConnections** method allows developers to programmatically enable data connections within the workbook for the user.
 

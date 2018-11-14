@@ -1,5 +1,5 @@
 ---
-title: XlConstants Enumeration (PowerPoint)
+title: xlConstants Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlConstants
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlConstants Enumeration (PowerPoint)
+# xlConstants Enumeration (PowerPoint)
 
 Specifies a miscellaneous constant in Microsoft Word.
 

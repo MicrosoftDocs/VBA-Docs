@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PercentRank Method (Excel)
+title: WorksheetFunction.PercentRank method (Excel)
 keywords: vbaxl10.chm137233
 f1_keywords:
 - vbaxl10.chm137233
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.PercentRank Method (Excel)
+# WorksheetFunction.PercentRank method (Excel)
 
 Returns the rank of a value in a data set as a percentage of the data set. This function can be used to evaluate the relative standing of a value within a data set. For example, you can use PERCENTRANK to evaluate the standing of an aptitude test score among all scores for the test.
 

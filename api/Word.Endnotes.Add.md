@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Add Method (Word)
+title: Endnotes.Add method (Word)
 keywords: vbawd10.chm155254788
 f1_keywords:
 - vbawd10.chm155254788
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Add Method (Word)
+# Endnotes.Add method (Word)
 
 Returns an  **Endnote** object that represents an endnote added to a range.
 

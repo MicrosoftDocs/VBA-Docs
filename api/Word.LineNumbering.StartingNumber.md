@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.StartingNumber Property (Word)
+title: LineNumbering.StartingNumber property (Word)
 keywords: vbawd10.chm158466149
 f1_keywords:
 - vbawd10.chm158466149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.StartingNumber Property (Word)
+# LineNumbering.StartingNumber property (Word)
 
 Returns or sets the starting line number. Read/write  **Long** .
 

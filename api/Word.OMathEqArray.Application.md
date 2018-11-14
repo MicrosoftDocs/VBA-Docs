@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.Application Property (Word)
+title: OMathEqArray.Application property (Word)
 keywords: vbawd10.chm174129252
 f1_keywords:
 - vbawd10.chm174129252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.Application Property (Word)
+# OMathEqArray.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

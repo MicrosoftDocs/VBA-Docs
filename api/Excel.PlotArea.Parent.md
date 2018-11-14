@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Parent Property (Excel)
+title: PlotArea.Parent property (Excel)
 keywords: vbaxl10.chm618073
 f1_keywords:
 - vbaxl10.chm618073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Parent Property (Excel)
+# PlotArea.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

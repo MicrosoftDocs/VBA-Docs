@@ -1,5 +1,5 @@
 ---
-title: Selection.Cut Method (Word)
+title: Selection.Cut method (Word)
 keywords: vbawd10.chm158662775
 f1_keywords:
 - vbawd10.chm158662775
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Cut Method (Word)
+# Selection.Cut method (Word)
 
 Removes the specified object from the document and moves it to the Clipboard.
 

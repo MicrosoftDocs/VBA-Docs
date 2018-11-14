@@ -1,5 +1,5 @@
 ---
-title: ConditionValue.Modify Method (Excel)
+title: ConditionValue.Modify method (Excel)
 keywords: vbaxl10.chm804073
 f1_keywords:
 - vbaxl10.chm804073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue.Modify Method (Excel)
+# ConditionValue.Modify method (Excel)
 
 Modifies how the longest bar or shortest bar is evaluated for a data bar conditional formatting rule. 
 
@@ -29,7 +29,7 @@ Modifies how the longest bar or shortest bar is evaluated for a data bar conditi
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _newtype_|Required| **[XlConditionValueTypes](Excel.XlConditionValueTypes.md)**|Specifies how the shortest bar or longest bar is evaluated. The default value is  **xlConditionLowestValue** for the shortest bar and **xlConditionHighestValue** for the longest bar.|
+| _newtype_|Required| **[xlConditionValueTypes](Excel.XlConditionValueTypes.md)**|Specifies how the shortest bar or longest bar is evaluated. The default value is  **xlConditionLowestValue** for the shortest bar and **xlConditionHighestValue** for the longest bar.|
 | _newvalue_|Optional| **Variant**|The value assigned to the shortest or longest data bar. Depending on the  _newtype_ argument, this can be a number or a formula that evaluates to a number.|
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsExceptions Object (Word)
+title: TwoInitialCapsExceptions object (Word)
 keywords: vbawd10.chm2372
 f1_keywords:
 - vbawd10.chm2372
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsExceptions Object (Word)
+# TwoInitialCapsExceptions object (Word)
 
 A collection of  **[TwoInitialCapsException](Word.TwoInitialCapsException.md)** objects that represent all the items listed in the **Don't correct** box on the **INitial CAps** tab in the **AutoCorrect Exceptions** dialog box.
 

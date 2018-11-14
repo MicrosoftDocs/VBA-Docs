@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.IncrementContrast Method (Excel)
+title: PictureFormat.IncrementContrast method (Excel)
 keywords: vbaxl10.chm113021
 f1_keywords:
 - vbaxl10.chm113021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.IncrementContrast Method (Excel)
+# PictureFormat.IncrementContrast method (Excel)
 
 Changes the contrast of the picture by the specified amount. Use the  **[Contrast](Excel.PictureFormat.Contrast.md)** property to set the absolute contrast for the picture.
 

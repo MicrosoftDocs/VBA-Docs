@@ -1,5 +1,5 @@
 ---
-title: Pane Object (Excel)
+title: Pane object (Excel)
 keywords: vbaxl10.chm359072
 f1_keywords:
 - vbaxl10.chm359072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane Object (Excel)
+# Pane object (Excel)
 
 Represents a pane of a window.
 

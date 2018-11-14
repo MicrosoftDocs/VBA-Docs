@@ -1,5 +1,5 @@
 ---
-title: Application.Run Method (Word)
+title: Application.Run method (Word)
 keywords: vbawd10.chm158335421
 f1_keywords:
 - vbawd10.chm158335421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Run Method (Word)
+# Application.Run method (Word)
 
 Runs a Visual Basic macro.
 

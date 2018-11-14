@@ -1,5 +1,5 @@
 ---
-title: Window.UsableHeight Property (Word)
+title: Window.UsableHeight property (Word)
 keywords: vbawd10.chm157417504
 f1_keywords:
 - vbawd10.chm157417504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.UsableHeight Property (Word)
+# Window.UsableHeight property (Word)
 
 Returns the height (in points) of the active working area in the specified document window. Read-only  **Long** . .
 

@@ -24,7 +24,7 @@ _object_**.GetSpecialFolder(**_folderspec_**)**
 The  **GetSpecialFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _folderspec_|Required. The name of the special folder to be returned. Can be any of the constants shown in the Settings section.|
@@ -33,7 +33,7 @@ The  **GetSpecialFolder** method syntax has these parts:
 The  _folderspec_ argument can have any of the following values:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**WindowsFolder**|0|The Windows folder contains files installed by the Windows operating system.|
 |**SystemFolder**|1|The System folder contains libraries, fonts, and device drivers.|

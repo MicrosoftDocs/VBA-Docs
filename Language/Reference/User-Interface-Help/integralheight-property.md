@@ -23,7 +23,7 @@ _object_. **IntegralHeight** [= _Boolean_ ]
 The  **IntegralHeight** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the list displays partial lines of text.|

@@ -1,5 +1,5 @@
 ---
-title: RTD.ThrottleInterval Property (Excel)
+title: RTD.ThrottleInterval property (Excel)
 keywords: vbaxl10.chm728073
 f1_keywords:
 - vbaxl10.chm728073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RTD.ThrottleInterval Property (Excel)
+# RTD.ThrottleInterval property (Excel)
 
 Returns or sets a  **Long** indicating the time interval between updates. Read/write.
 

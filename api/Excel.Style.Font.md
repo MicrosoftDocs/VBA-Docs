@@ -1,5 +1,5 @@
 ---
-title: Style.Font Property (Excel)
+title: Style.Font property (Excel)
 keywords: vbaxl10.chm177077
 f1_keywords:
 - vbaxl10.chm177077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Font Property (Excel)
+# Style.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

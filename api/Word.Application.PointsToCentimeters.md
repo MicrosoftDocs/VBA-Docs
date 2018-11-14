@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToCentimeters Method (Word)
+title: Application.PointsToCentimeters method (Word)
 keywords: vbawd10.chm158335357
 f1_keywords:
 - vbawd10.chm158335357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PointsToCentimeters Method (Word)
+# Application.PointsToCentimeters method (Word)
 
 Converts a measurement from points to centimeters (1 centimeter = 28.35 points). Returns the converted measurement as a  **Single** .
 

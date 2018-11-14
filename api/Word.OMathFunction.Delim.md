@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Delim Property (Word)
+title: OMathFunction.Delim property (Word)
 keywords: vbawd10.chm22151277
 f1_keywords:
 - vbawd10.chm22151277
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Delim Property (Word)
+# OMathFunction.Delim property (Word)
 
 Returns an  **[OMathDelim](Word.OMathDelim.md)** object that represents the delimiter function. Read-only.
 

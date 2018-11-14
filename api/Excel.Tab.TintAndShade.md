@@ -1,5 +1,5 @@
 ---
-title: Tab.TintAndShade Property (Excel)
+title: Tab.TintAndShade property (Excel)
 keywords: vbaxl10.chm723076
 f1_keywords:
 - vbaxl10.chm723076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tab.TintAndShade Property (Excel)
+# Tab.TintAndShade property (Excel)
 
 Returns or sets a  **Single** that lightens or darkens a color.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Rri Method (Excel)
+title: WorksheetFunction.Rri method (Excel)
 keywords: vbaxl10.chm137452
 f1_keywords:
 - vbaxl10.chm137452
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Rri Method (Excel)
+# WorksheetFunction.Rri method (Excel)
 
 Returns an equivalent interest rate for the growth of an investment.
 
@@ -18,14 +18,14 @@ Returns an equivalent interest rate for the growth of an investment.
 
  _expression_. `Rri`_(Arg1,_ _Arg2,_ _Arg3)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Number of periods for the investment.|
 | _Arg2_|Required|DOUBLE|Present value of the investment.|

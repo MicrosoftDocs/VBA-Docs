@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutForm Property (Excel)
+title: PivotField.LayoutForm property (Excel)
 keywords: vbaxl10.chm240122
 f1_keywords:
 - vbaxl10.chm240122
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutForm Property (Excel)
+# PivotField.LayoutForm property (Excel)
 
-Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)** .
+Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[xlLayoutFormType](Excel.XlLayoutFormType.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 
 
 
-| **XlLayoutFormType** can be one of these **XlLayoutFormType** constants.|
+| **xlLayoutFormType** can be one of these **xlLayoutFormType** constants.|
 | **xlTabular** . Default.|
 | **xlOutline** . The **[LayoutSubtotalLocation](Excel.PivotField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
 

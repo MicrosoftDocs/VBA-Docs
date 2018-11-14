@@ -1,5 +1,5 @@
 ---
-title: Bibliography Object (Word)
+title: Bibliography object (Word)
 keywords: vbawd10.chm1551
 f1_keywords:
 - vbawd10.chm1551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography Object (Word)
+# Bibliography object (Word)
 
 Represents the list of sources available attached to the document (in the current list) or the list of sources available in the application (in the master list).
 

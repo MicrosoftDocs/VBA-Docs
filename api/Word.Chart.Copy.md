@@ -1,5 +1,5 @@
 ---
-title: Chart.Copy Method (Word)
+title: Chart.Copy method (Word)
 keywords: vbawd10.chm79364647
 f1_keywords:
 - vbawd10.chm79364647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Copy Method (Word)
+# Chart.Copy method (Word)
 
 Not supported for this object.
 

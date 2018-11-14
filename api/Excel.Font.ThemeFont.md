@@ -1,5 +1,5 @@
 ---
-title: Font.ThemeFont Property (Excel)
+title: Font.ThemeFont property (Excel)
 keywords: vbaxl10.chm559089
 f1_keywords:
 - vbaxl10.chm559089
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ThemeFont Property (Excel)
+# Font.ThemeFont property (Excel)
 
-Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[XlThemeFont](Excel.XlThemeFont.md)** .
+Returns or sets the theme font in the applied font scheme that is associated with the specified object. Read/write  **[xlThemeFont](Excel.XlThemeFont.md)** .
 
 
 ## Syntax

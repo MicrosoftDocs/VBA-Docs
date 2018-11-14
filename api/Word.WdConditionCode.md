@@ -1,5 +1,5 @@
 ---
-title: WdConditionCode Enumeration (Word)
+title: WdConditionCode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdConditionCode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdConditionCode Enumeration (Word)
+# WdConditionCode enumeration (Word)
 
 Specifies the area of a table to which to apply special style formatting.
 

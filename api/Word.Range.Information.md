@@ -1,5 +1,5 @@
 ---
-title: Range.Information Property (Word)
+title: Range.Information property (Word)
 keywords: vbawd10.chm157155641
 f1_keywords:
 - vbawd10.chm157155641
@@ -11,30 +11,25 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Information Property (Word)
+# Range.Information property (Word)
 
-Returns information about the specified range. Read-only  **Variant** .
-
+Returns information about the specified range. Read-only **Variant**.
 
 ## Syntax
 
- _expression_. `Information`( `_Type_` )
+_expression_. `Information`( _Type_ )
 
- _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
-
+_expression_ Required. A variable that represents a [Range](Word.Range.md) object.
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **WdInformation**|The information type.|
+| _Type_|Required| **wdInformation**|The information type.|
 
 ## Example
 
 If the tenth word is in a table, this example selects the table.
-
 
 ```vb
 If ActiveDocument.Words(10).Information(wdWithInTable) Then _ 
@@ -42,8 +37,4 @@ If ActiveDocument.Words(10).Information(wdWithInTable) Then _
 ```
 
 
-## See also
-
-
-[Range Object](Word.Range.md)
 

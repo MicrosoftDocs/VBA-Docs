@@ -1,5 +1,5 @@
 ---
-title: Slicer.SlicerCache Property (Excel)
+title: Slicer.SlicerCache property (Excel)
 keywords: vbaxl10.chm905085
 f1_keywords:
 - vbaxl10.chm905085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.SlicerCache Property (Excel)
+# Slicer.SlicerCache property (Excel)
 
 Returns the  **[SlicerCache](Excel.SlicerCache.md)** object associated with the slicer. Read-only.
 

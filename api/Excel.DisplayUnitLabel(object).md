@@ -1,5 +1,5 @@
 ﻿---
-title: DisplayUnitLabel Object (Excel)
+title: DisplayUnitLabel object (Excel)
 keywords: vbaxl10.chm672072
 f1_keywords:
 - vbaxl10.chm672072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel Object (Excel)
+# DisplayUnitLabel object (Excel)
 
 Represents a unit label on an axis in the specified chart.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControls.Item Method (Word)
+title: ContentControls.Item method (Word)
 ms.prod: word
 api_name:
 - Word.ContentControls.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControls.Item Method (Word)
+# ContentControls.Item method (Word)
 
 Returns a  **[ContentControl](Word.ContentControl.md)** object that represents the specified content control within the collection of content controls in a document.
 

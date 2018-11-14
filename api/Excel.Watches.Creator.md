@@ -1,5 +1,5 @@
 ---
-title: Watches.Creator Property (Excel)
+title: Watches.Creator property (Excel)
 keywords: vbaxl10.chm687074
 f1_keywords:
 - vbaxl10.chm687074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watches.Creator Property (Excel)
+# Watches.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

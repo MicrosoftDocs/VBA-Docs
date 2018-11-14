@@ -1,5 +1,5 @@
 ---
-title: Application.FixedDecimalPlaces Property (Excel)
+title: Application.FixedDecimalPlaces property (Excel)
 keywords: vbaxl10.chm133139
 f1_keywords:
 - vbaxl10.chm133139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FixedDecimalPlaces Property (Excel)
+# Application.FixedDecimalPlaces property (Excel)
 
 Returns or sets the number of fixed decimal places used when the  **[FixedDecimal](Excel.Application.FixedDecimal.md)** property is set to **True** . Read/write **Long** .
 

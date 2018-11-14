@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Duration Method (Excel)
+title: WorksheetFunction.Duration method (Excel)
 keywords: vbaxl10.chm137334
 f1_keywords:
 - vbaxl10.chm137334
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Duration Method (Excel)
+# WorksheetFunction.Duration method (Excel)
 
 Returns the Macauley duration for an assumed par value of $100. Duration is defined as the weighted average of the present value of the cash flows and is used as a measure of a bond price's response to changes in yield.
 

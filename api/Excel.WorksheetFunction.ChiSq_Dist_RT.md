@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiSq_Dist_RT Method (Excel)
+title: WorksheetFunction.ChiSq_Dist_RT method (Excel)
 keywords: vbaxl10.chm137399
 f1_keywords:
 - vbaxl10.chm137399
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiSq_Dist_RT Method (Excel)
+# WorksheetFunction.ChiSq_Dist_RT method (Excel)
 
 Returns the right-tailed probability of the chi-squared distribution.
 

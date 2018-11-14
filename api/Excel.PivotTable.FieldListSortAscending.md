@@ -1,5 +1,5 @@
 ---
-title: PivotTable.FieldListSortAscending Property (Excel)
+title: PivotTable.FieldListSortAscending property (Excel)
 keywords: vbaxl10.chm235181
 f1_keywords:
 - vbaxl10.chm235181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.FieldListSortAscending Property (Excel)
+# PivotTable.FieldListSortAscending property (Excel)
 
 Controls the sort order of fields in the PivotTable Field List. When this property is set to  **True** , the fields are sorted in ascending order. When it is set to **False** , the fields are sorted in data source order. Read/write.
 

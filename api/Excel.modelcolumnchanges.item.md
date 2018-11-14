@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChanges.Item Method (Excel)
+title: ModelColumnChanges.Item method (Excel)
 keywords: vbaxl10.chm968074
 f1_keywords:
 - vbaxl10.chm968074
@@ -9,29 +9,29 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChanges.Item Method (Excel)
+# ModelColumnChanges.Item method (Excel)
 
-Returns a single object from the [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
+Returns a single object from the [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) object.
+ _expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
 ## Return value
 
-A [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) object contained in the collection.
+A [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object contained in the collection.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PivotField.ClearAllFilters Method (Excel)
+title: PivotField.ClearAllFilters method (Excel)
 keywords: vbaxl10.chm240154
 f1_keywords:
 - vbaxl10.chm240154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ClearAllFilters Method (Excel)
+# PivotField.ClearAllFilters method (Excel)
 
 Calling this method deletes all filters currently applied to the PivotField. This includes deleting all filters from the  **PivotFilters** collection of the PivotField and removing any manual filtering applied to the PivotField as well. If the PivotField is in the Report Filter area, the item selected will be set to the default item.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.Left Property (Excel)
+title: Axis.Left property (Excel)
 keywords: vbaxl10.chm561109
 f1_keywords:
 - vbaxl10.chm561109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Left Property (Excel)
+# Axis.Left property (Excel)
 
 Returns a  **Double** value that represents the distance, in points, from the left edge of the object to the left edge of the chart area.
 

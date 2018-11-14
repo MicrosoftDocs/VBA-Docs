@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.IncludeSequenceName Property (Word)
+title: TableOfAuthorities.IncludeSequenceName property (Word)
 keywords: vbawd10.chm152109062
 f1_keywords:
 - vbawd10.chm152109062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.IncludeSequenceName Property (Word)
+# TableOfAuthorities.IncludeSequenceName property (Word)
 
 Returns or sets the Sequence (SEQ) field identifier for a table of authorities. Read/write  **String** .
 

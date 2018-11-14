@@ -1,5 +1,5 @@
 ---
-title: Document.PageSetup Property (Word)
+title: Document.PageSetup property (Word)
 keywords: vbawd10.chm158008397
 f1_keywords:
 - vbawd10.chm158008397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PageSetup Property (Word)
+# Document.PageSetup property (Word)
 
 Returns a  **PageSetup** object that is associated with the specified document.
 

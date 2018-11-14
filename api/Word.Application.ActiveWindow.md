@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveWindow Property (Word)
+title: Application.ActiveWindow property (Word)
 keywords: vbawd10.chm158334980
 f1_keywords:
 - vbawd10.chm158334980
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveWindow Property (Word)
+# Application.ActiveWindow property (Word)
 
 Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). If there are no windows open, an error occurs. Read-only.
 

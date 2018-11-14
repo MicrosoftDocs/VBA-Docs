@@ -15,7 +15,7 @@ Flags to be passed to or returned by the  **Document.Protection** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visProtectBackgrounds**|&H8|Protect document backgrounds from user customization.|
 | **visProtectMasters**|&H4|Protect document masters from user customization.|

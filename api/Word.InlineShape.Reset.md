@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Reset Method (Word)
+title: InlineShape.Reset method (Word)
 keywords: vbawd10.chm162005093
 f1_keywords:
 - vbawd10.chm162005093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Reset Method (Word)
+# InlineShape.Reset method (Word)
 
 Removes changes that were made to an inline shape.
 

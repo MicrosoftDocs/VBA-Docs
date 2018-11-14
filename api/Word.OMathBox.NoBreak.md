@@ -1,5 +1,5 @@
 ---
-title: OMathBox.NoBreak Property (Word)
+title: OMathBox.NoBreak property (Word)
 keywords: vbawd10.chm134086761
 f1_keywords:
 - vbawd10.chm134086761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBox.NoBreak Property (Word)
+# OMathBox.NoBreak property (Word)
 
 Returns or sets a  **Boolean** that represents whether breaks are allowed inside the box object. Read/write.
 

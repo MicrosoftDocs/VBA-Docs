@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter Object (Excel)
+title: HeaderFooter object (Excel)
 keywords: vbaxl10.chm829072
 f1_keywords:
 - vbaxl10.chm829072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter Object (Excel)
+# HeaderFooter object (Excel)
 
 Represents a single header or footer. The  **HeaderFooter** object is a member of the **HeadersFooters** collection.
 

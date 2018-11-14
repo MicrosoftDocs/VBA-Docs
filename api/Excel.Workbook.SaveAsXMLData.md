@@ -1,5 +1,5 @@
 ---
-title: Workbook.SaveAsXMLData Method (Excel)
+title: Workbook.SaveAsXMLData method (Excel)
 keywords: vbaxl10.chm199232
 f1_keywords:
 - vbaxl10.chm199232
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SaveAsXMLData Method (Excel)
+# Workbook.SaveAsXMLData method (Excel)
 
 Exports the data that has been mapped to the specified XML schema map to an XML data file.
 

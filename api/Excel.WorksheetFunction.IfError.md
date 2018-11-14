@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IfError Method (Excel)
+title: WorksheetFunction.IfError method (Excel)
 keywords: vbaxl10.chm137357
 f1_keywords:
 - vbaxl10.chm137357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IfError Method (Excel)
+# WorksheetFunction.IfError method (Excel)
 
 Returns a value you specify if a formula evaluates to an error; otherwise, returns the result of the formula. Use the IFERROR function to trap and handle errors in a formula.
 

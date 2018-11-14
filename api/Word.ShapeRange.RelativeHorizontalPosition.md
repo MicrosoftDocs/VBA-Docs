@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RelativeHorizontalPosition Property (Word)
+title: ShapeRange.RelativeHorizontalPosition property (Word)
 keywords: vbawd10.chm162857260
 f1_keywords:
 - vbawd10.chm162857260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.RelativeHorizontalPosition Property (Word)
+# ShapeRange.RelativeHorizontalPosition property (Word)
 
 Specifies the relative horizontal position of a range of shapes. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
 

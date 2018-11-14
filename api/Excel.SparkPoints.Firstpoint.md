@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Firstpoint Property (Excel)
+title: SparkPoints.Firstpoint property (Excel)
 keywords: vbaxl10.chm873077
 f1_keywords:
 - vbaxl10.chm873077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Firstpoint Property (Excel)
+# SparkPoints.Firstpoint property (Excel)
 
 Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the first point of data on a sparkline. Read-only
 

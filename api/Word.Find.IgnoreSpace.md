@@ -1,5 +1,5 @@
 ---
-title: Find.IgnoreSpace Property (Word)
+title: Find.IgnoreSpace property (Word)
 keywords: vbawd10.chm162529387
 f1_keywords:
 - vbawd10.chm162529387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.IgnoreSpace Property (Word)
+# Find.IgnoreSpace property (Word)
 
  Returns or sets a **Boolean** that represents whether a find operation should ignore extra white space in found text. Read/write.
 

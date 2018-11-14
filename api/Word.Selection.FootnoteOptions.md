@@ -1,5 +1,5 @@
 ---
-title: Selection.FootnoteOptions Property (Word)
+title: Selection.FootnoteOptions property (Word)
 keywords: vbawd10.chm158663680
 f1_keywords:
 - vbawd10.chm158663680
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.FootnoteOptions Property (Word)
+# Selection.FootnoteOptions property (Word)
 
 Returns  **[FootnoteOptions](Word.FootnoteOptions.md)** object that represents the footnotes in a selection.
 

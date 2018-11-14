@@ -1,5 +1,5 @@
 ---
-title: Range.End Property (Word)
+title: Range.End property (Word)
 keywords: vbawd10.chm157155332
 f1_keywords:
 - vbawd10.chm157155332
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.End Property (Word)
+# Range.End property (Word)
 
 Returns or sets the ending character position of a range. Read/write  **Long** .
 

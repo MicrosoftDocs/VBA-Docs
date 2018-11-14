@@ -18,7 +18,7 @@ Represents an Outlook reminder.
 
 ## Remarks
 
-Reminders allow users to keep track of upcoming appointments by scheduling a pop-up dialog box to appear at a given time. In addition to appointments, reminders can occur for tasks, contacts and e-mail messages.
+Reminders allow users to keep track of upcoming appointments by scheduling a pop-up dialog box to appear at a given time. In addition to appointments, reminders can occur for tasks, contacts and email messages.
 
 Use  **[Reminders](./Outlook.Application.Reminders.md)** ( _index_ ), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
 

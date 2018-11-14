@@ -1,5 +1,5 @@
 ---
-title: Cell.Application Property (Word)
+title: Cell.Application property (Word)
 keywords: vbawd10.chm156107752
 f1_keywords:
 - vbawd10.chm156107752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Application Property (Word)
+# Cell.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

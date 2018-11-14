@@ -1,12 +1,12 @@
 ---
-title: XlCategoryLabelLevel Enumeration (Word)
+title: xlCategoryLabelLevel enumeration (Word)
 ms.prod: word
 ms.assetid: 928d0096-9743-1cd6-842f-12050faefdf3
 ms.date: 06/08/2017
 ---
 
 
-# XlCategoryLabelLevel Enumeration (Word)
+# xlCategoryLabelLevel enumeration (Word)
 
 Constants that represent chart category-label levels, passed to and returned by the [Chart.CategoryLabelLevel](Word.chart.categorylabellevel.md) property.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.CalculationInterruptKey Property (Excel)
+title: Application.CalculationInterruptKey property (Excel)
 keywords: vbaxl10.chm133266
 f1_keywords:
 - vbaxl10.chm133266
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculationInterruptKey Property (Excel)
+# Application.CalculationInterruptKey property (Excel)
 
-Sets or returns an  **[XlCalculationInterruptKey](Excel.XlCalculationInterruptKey.md)** constant that specifies the key that can interrupt Microsoft Excel when performing calculations. Read/write.
+Sets or returns an  **[xlCalculationInterruptKey](Excel.XlCalculationInterruptKey.md)** constant that specifies the key that can interrupt Microsoft Excel when performing calculations. Read/write.
 
 
 ## Syntax

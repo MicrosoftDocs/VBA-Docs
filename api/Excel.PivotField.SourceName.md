@@ -1,5 +1,5 @@
 ---
-title: PivotField.SourceName Property (Excel)
+title: PivotField.SourceName property (Excel)
 keywords: vbaxl10.chm240093
 f1_keywords:
 - vbaxl10.chm240093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.SourceName Property (Excel)
+# PivotField.SourceName property (Excel)
 
 Returns a  **String** value that represents the specified object?s name as it appears in the original source data for the specified PivotTable report.
 

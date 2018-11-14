@@ -1,5 +1,5 @@
 ---
-title: WdPaperTray Enumeration (Word)
+title: WdPaperTray enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPaperTray
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPaperTray Enumeration (Word)
+# WdPaperTray enumeration (Word)
 
 Specifies a printer paper tray.
 

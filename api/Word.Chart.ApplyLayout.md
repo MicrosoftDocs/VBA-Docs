@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyLayout Method (Word)
+title: Chart.ApplyLayout method (Word)
 keywords: vbawd10.chm79366564
 f1_keywords:
 - vbawd10.chm79366564
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyLayout Method (Word)
+# Chart.ApplyLayout method (Word)
 
 Applies the layouts shown in the ribbon.
 
@@ -30,7 +30,7 @@ Applies the layouts shown in the ribbon.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required| **Long**|The type of layout. The type of layout is denoted by a number from 1 to 10.|
-| _ChartType_|Optional| **Variant**|An  **[XlChartType](./Excel.XlChartType.md)** constant that represents the type of chart.|
+| _ChartType_|Optional| **Variant**|An  **[xlChartType](./Excel.XlChartType.md)** constant that represents the type of chart.|
 
 ## Remarks
 

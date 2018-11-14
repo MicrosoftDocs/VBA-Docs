@@ -1,5 +1,5 @@
 ---
-title: Find.MatchWholeWord Property (Word)
+title: Find.MatchWholeWord property (Word)
 keywords: vbawd10.chm162529297
 f1_keywords:
 - vbawd10.chm162529297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchWholeWord Property (Word)
+# Find.MatchWholeWord property (Word)
 
  **True** if the find operation locates only entire words and not text that's part of a larger word. Read/write **Boolean** .
 

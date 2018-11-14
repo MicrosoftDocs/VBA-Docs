@@ -23,7 +23,7 @@ _object_. **Tag** [= _String_ ]
 The  **Tag** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression identifying the object. The default is a zero-length string ("").|

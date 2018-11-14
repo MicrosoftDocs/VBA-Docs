@@ -19,7 +19,7 @@ Returns a **String** representing the name of a file, directory, or folder that 
 
 The **Dir** function syntax has these parts.
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _pathname_|Optional. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive. A zero-length string ("") is returned if _pathname_ is not found.|
 | _attributes_|Optional. [Constant](../../Glossary/vbe-glossary.md#constant) or [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), whose sum specifies file attributes. If omitted, returns files that match  _pathname_ but have no attributes.|
@@ -28,7 +28,7 @@ The **Dir** function syntax has these parts.
 
 The _attributes_ [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbNormal**|0|(Default) Specifies files with no attributes.|
 |**vbReadOnly**|1|Specifies read-only files in addition to files with no attributes.|

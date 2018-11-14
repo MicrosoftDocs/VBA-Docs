@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference Object (Word)
+title: XMLSchemaReference object (Word)
 keywords: vbawd10.chm496
 f1_keywords:
 - vbawd10.chm496
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference Object (Word)
+# XMLSchemaReference object (Word)
 
 Represents an individual schema that is attached to a document.
 

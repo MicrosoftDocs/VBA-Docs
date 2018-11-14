@@ -1,5 +1,5 @@
 ---
-title: Selection.HomeKey Method (Word)
+title: Selection.HomeKey method (Word)
 keywords: vbawd10.chm158663160
 f1_keywords:
 - vbawd10.chm158663160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.HomeKey Method (Word)
+# Selection.HomeKey method (Word)
 
 Moves or extends the selection to the beginning of the specified unit. This method returns an integer that indicates the number of characters the selection was actually moved, or it returns 0 (zero) if the move was unsuccessful.This method corresponds to functionality of the HOME key.
 

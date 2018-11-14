@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Count Property (Word)
+title: HeadersFooters.Count property (Word)
 keywords: vbawd10.chm159645697
 f1_keywords:
 - vbawd10.chm159645697
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadersFooters.Count Property (Word)
+# HeadersFooters.Count property (Word)
 
 Returns a  **Long** that represents the number of headers and/or footers in the collection. Read-only.
 

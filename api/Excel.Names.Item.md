@@ -1,5 +1,5 @@
 ---
-title: Names.Item Method (Excel)
+title: Names.Item method (Excel)
 keywords: vbaxl10.chm488074
 f1_keywords:
 - vbaxl10.chm488074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Names.Item Method (Excel)
+# Names.Item method (Excel)
 
 Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
 

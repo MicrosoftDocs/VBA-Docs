@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.LegendKey Property (Excel)
+title: LegendEntry.LegendKey property (Excel)
 keywords: vbaxl10.chm586077
 f1_keywords:
 - vbaxl10.chm586077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.LegendKey Property (Excel)
+# LegendEntry.LegendKey property (Excel)
 
 Returns a  **[LegendKey](Excel.LegendKey(object).md)** object that represents the legend key associated with the entry.
 

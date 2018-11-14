@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.IconName Property (Word)
+title: OLEFormat.IconName property (Word)
 keywords: vbawd10.chm154337287
 f1_keywords:
 - vbawd10.chm154337287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.IconName Property (Word)
+# OLEFormat.IconName property (Word)
 
 Returns or sets the program file in which the icon for an OLE object is stored. Read/write  **String** .
 

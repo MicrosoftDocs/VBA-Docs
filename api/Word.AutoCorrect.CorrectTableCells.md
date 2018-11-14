@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectTableCells Property (Word)
+title: AutoCorrect.CorrectTableCells property (Word)
 keywords: vbawd10.chm155779091
 f1_keywords:
 - vbawd10.chm155779091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectTableCells Property (Word)
+# AutoCorrect.CorrectTableCells property (Word)
 
  **True** to automatically capitalize the first letter of table cells. Read/write **Boolean** .
 

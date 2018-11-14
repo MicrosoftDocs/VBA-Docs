@@ -1,5 +1,5 @@
 ---
-title: Application.StatusBar Property (Excel)
+title: Application.StatusBar property (Excel)
 keywords: vbaxl10.chm133213
 f1_keywords:
 - vbaxl10.chm133213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StatusBar Property (Excel)
+# Application.StatusBar property (Excel)
 
 Returns or sets the text in the status bar. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Clear Method (Excel)
+title: SparklineGroups.Clear method (Excel)
 keywords: vbaxl10.chm869078
 f1_keywords:
 - vbaxl10.chm869078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Clear Method (Excel)
+# SparklineGroups.Clear method (Excel)
 
 Clears the selected sparklines.
 

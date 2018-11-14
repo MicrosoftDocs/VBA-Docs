@@ -1,5 +1,5 @@
 ---
-title: PivotField.EnableItemSelection Property (Excel)
+title: PivotField.EnableItemSelection property (Excel)
 keywords: vbaxl10.chm240134
 f1_keywords:
 - vbaxl10.chm240134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.EnableItemSelection Property (Excel)
+# PivotField.EnableItemSelection property (Excel)
 
 When set to  **False** , disables the ability to use the field dropdown in the user interface. The default value is **True** . Read/write **Boolean** .
 

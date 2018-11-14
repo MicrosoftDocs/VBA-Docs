@@ -1,5 +1,5 @@
 ---
-title: Scenario.Delete Method (Excel)
+title: Scenario.Delete method (Excel)
 keywords: vbaxl10.chm364076
 f1_keywords:
 - vbaxl10.chm364076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario.Delete Method (Excel)
+# Scenario.Delete method (Excel)
 
 Deletes the object.
 

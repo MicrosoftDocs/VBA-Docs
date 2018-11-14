@@ -1,5 +1,5 @@
 ---
-title: XlOLEType Enumeration (Excel)
+title: xlOLEType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOLEType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlOLEType Enumeration (Excel)
+# xlOLEType enumeration (Excel)
 
 Specifies the OLE object type.
 

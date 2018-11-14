@@ -1,5 +1,5 @@
 ---
-title: Windows.Arrange Method (Excel)
+title: Windows.Arrange method (Excel)
 keywords: vbaxl10.chm354073
 f1_keywords:
 - vbaxl10.chm354073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Arrange Method (Excel)
+# Windows.Arrange method (Excel)
 
 Arranges the windows on the screen.
 
@@ -29,7 +29,7 @@ Arranges the windows on the screen.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ArrangeStyle_|Optional| **[XlArrangeStyle](Excel.XlArrangeStyle.md)**|One of the constants of  **XlArrangeStyle** specifying how the windows are arranged.|
+| _ArrangeStyle_|Optional| **[xlArrangeStyle](Excel.XlArrangeStyle.md)**|One of the constants of  **xlArrangeStyle** specifying how the windows are arranged.|
 | _ActiveWorkbook_|Optional| **Variant**| **True** to arrange only the visible windows of the active workbook. **False** to arrange all windows. The default value is **False** .|
 | _SyncHorizontal_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling horizontally. **False** to not synchronize the windows. The default value is **False** .|
 | _SyncVertical_|Optional| **Variant**|Ignored if  _ActiveWorkbook_ is **False** or omitted. **True** to synchronize the windows of the active workbook when scrolling vertically. **False** to not synchronize the windows. The default value is **False** .|
@@ -45,7 +45,7 @@ Variant
 
 
 
-| **XlArrangeStyle** can be one of these **XlArrangeStyle** constants.|
+| **xlArrangeStyle** can be one of these **xlArrangeStyle** constants.|
 | **xlArrangeStyleCascade** . Windows are cascaded.|
 | **xlArrangeStyleTiled**_default_ . Windows are tiled|
 | **xlArrangeStyleHorizontal** . Windows are arranged horizontally.|

@@ -1,5 +1,5 @@
 ---
-title: Window.StyleAreaWidth Property (Word)
+title: Window.StyleAreaWidth property (Word)
 keywords: vbawd10.chm157417493
 f1_keywords:
 - vbawd10.chm157417493
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.StyleAreaWidth Property (Word)
+# Window.StyleAreaWidth property (Word)
 
 Returns or sets the width of the style area in points. Read/write  **Single** .
 

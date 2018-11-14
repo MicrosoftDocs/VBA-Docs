@@ -1,5 +1,5 @@
 ---
-title: Workbook.CheckInWithVersion Method (Excel)
+title: Workbook.CheckInWithVersion method (Excel)
 keywords: vbaxl10.chm199238
 f1_keywords:
 - vbaxl10.chm199238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CheckInWithVersion Method (Excel)
+# Workbook.CheckInWithVersion method (Excel)
 
 Saves a workbook to a server from a local computer, and sets the local workbook to read-only so that it cannot be edited locally.
 

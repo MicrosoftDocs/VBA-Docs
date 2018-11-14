@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerSize Property (Excel)
+title: LegendKey.MarkerSize property (Excel)
 keywords: vbaxl10.chm590084
 f1_keywords:
 - vbaxl10.chm590084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerSize Property (Excel)
+# LegendKey.MarkerSize property (Excel)
 
 Returns or sets the data-marker size, in points. Can be a value from 2 through 72. Read/write  **Long** .
 

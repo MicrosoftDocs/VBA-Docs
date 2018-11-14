@@ -1,5 +1,5 @@
 ---
-title: XlPieSliceIndex Enumeration (Excel)
+title: xlPieSliceIndex enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPieSliceIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPieSliceIndex Enumeration (Excel)
+# xlPieSliceIndex enumeration (Excel)
 
 Specifies which position on the slice to return the coordinate of.
 

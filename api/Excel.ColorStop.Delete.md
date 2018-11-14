@@ -1,5 +1,5 @@
 ---
-title: ColorStop.Delete Method (Excel)
+title: ColorStop.Delete method (Excel)
 keywords: vbaxl10.chm851073
 f1_keywords:
 - vbaxl10.chm851073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStop.Delete Method (Excel)
+# ColorStop.Delete method (Excel)
 
 Deletes the represented object.
 

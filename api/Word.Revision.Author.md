@@ -1,5 +1,5 @@
 ---
-title: Revision.Author Property (Word)
+title: Revision.Author property (Word)
 keywords: vbawd10.chm159449089
 f1_keywords:
 - vbawd10.chm159449089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Author Property (Word)
+# Revision.Author property (Word)
 
 Returns the name of the user who made the specified tracked change. Read-only  **String** .
 

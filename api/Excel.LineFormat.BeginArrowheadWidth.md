@@ -1,5 +1,5 @@
 ---
-title: LineFormat.BeginArrowheadWidth Property (Excel)
+title: LineFormat.BeginArrowheadWidth property (Excel)
 keywords: vbaxl10.chm110005
 f1_keywords:
 - vbaxl10.chm110005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.BeginArrowheadWidth Property (Excel)
+# LineFormat.BeginArrowheadWidth property (Excel)
 
 Returns or sets the width of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** .
 

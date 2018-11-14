@@ -1,5 +1,5 @@
 ---
-title: Indexes.MarkAllEntries Method (Word)
+title: Indexes.MarkAllEntries method (Word)
 keywords: vbawd10.chm159121510
 f1_keywords:
 - vbawd10.chm159121510
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.MarkAllEntries Method (Word)
+# Indexes.MarkAllEntries method (Word)
 
 Inserts an XE (Index Entry) field after all instances of the text in  **Range** .
 

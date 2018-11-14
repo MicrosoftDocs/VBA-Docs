@@ -1,5 +1,5 @@
 ---
-title: XMLMapping Object (Word)
+title: XMLMapping object (Word)
 keywords: vbawd10.chm3047
 f1_keywords:
 - vbawd10.chm3047
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping Object (Word)
+# XMLMapping object (Word)
 
 Represents the XML mapping on a  **[ContentControl](Word.ContentControl.md)** object between custom XML and a content control. An XML mapping is a link between the text in a content control and an XML element in the custom XML data store for this document.
 

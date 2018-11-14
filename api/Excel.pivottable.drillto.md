@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DrillTo Method (Excel)
+title: PivotTable.DrillTo method (Excel)
 keywords: vbaxl10.chm235208
 f1_keywords:
 - vbaxl10.chm235208
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DrillTo Method (Excel)
+# PivotTable.DrillTo method (Excel)
 
 Enables you to drill to a location within an OLAP or PowerPivot based cube hierarchy.
 
@@ -18,14 +18,14 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
 
  _expression_. `DrillTo`_(PivotItem,_ _CubeField,_ _PivotLine)_
 
- _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
+ _expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill operation is performed.|
 | _CubeField_|Required|CUBEFIELD|The target hierarchy being drilled to.|

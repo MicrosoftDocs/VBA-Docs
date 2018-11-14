@@ -20,7 +20,7 @@ Reads data from an open disk file into a [variable](../../Glossary/vbe-glossary.
 The **Get** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _recnumber_|Optional. **Variant** (**Long**). Record number (**Random** mode files) or byte number (**Binary** mode files) at which reading begins.|

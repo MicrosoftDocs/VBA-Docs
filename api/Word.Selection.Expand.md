@@ -1,5 +1,5 @@
 ---
-title: Selection.Expand Method (Word)
+title: Selection.Expand method (Word)
 keywords: vbawd10.chm158662785
 f1_keywords:
 - vbawd10.chm158662785
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Expand Method (Word)
+# Selection.Expand method (Word)
 
 Expands the specified range or selection. Returns the number of characters added to the range or selection.  **Long** .
 

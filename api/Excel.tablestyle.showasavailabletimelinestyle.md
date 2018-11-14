@@ -1,5 +1,5 @@
 ---
-title: TableStyle.ShowAsAvailableTimelineStyle Property (Excel)
+title: TableStyle.ShowAsAvailableTimelineStyle property (Excel)
 keywords: vbaxl10.chm839083
 f1_keywords:
 - vbaxl10.chm839083
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.ShowAsAvailableTimelineStyle Property (Excel)
+# TableStyle.ShowAsAvailableTimelineStyle property (Excel)
 
 Returns or sets whether the specified table style is shown as available in the timeline styles gallery.  **Boolean** . Read/write
 
@@ -18,7 +18,7 @@ Returns or sets whether the specified table style is shown as available in the t
 
  _expression_. `ShowAsAvailableTimelineStyle`
 
- _expression_ A variable that represents a [TableStyle Object (Excel)](Excel.TableStyle.md) object.
+ _expression_ A variable that represents a [TableStyle object (Excel)](Excel.TableStyle.md) object.
 
 
 ## Property value

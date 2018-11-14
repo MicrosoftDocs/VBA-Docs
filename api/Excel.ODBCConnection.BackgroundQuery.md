@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.BackgroundQuery Property (Excel)
+title: ODBCConnection.BackgroundQuery property (Excel)
 keywords: vbaxl10.chm796073
 f1_keywords:
 - vbaxl10.chm796073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.BackgroundQuery Property (Excel)
+# ODBCConnection.BackgroundQuery property (Excel)
 
  **True** if queries for the ODBC connection are performed asynchronously (in the background). Read/write **Boolean** .
 

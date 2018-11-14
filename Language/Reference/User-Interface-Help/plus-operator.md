@@ -21,7 +21,7 @@ _result_ **=** _expression1 + expression2_.
 The  **+** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any [expression](../../Glossary/vbe-glossary.md#expression).|

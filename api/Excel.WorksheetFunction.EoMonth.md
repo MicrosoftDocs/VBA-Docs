@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.EoMonth Method (Excel)
+title: WorksheetFunction.EoMonth method (Excel)
 keywords: vbaxl10.chm137326
 f1_keywords:
 - vbaxl10.chm137326
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.EoMonth Method (Excel)
+# WorksheetFunction.EoMonth method (Excel)
 
 Returns the serial number for the last day of the month that is the indicated number of months before or after start_date. Use EOMONTH to calculate maturity dates or due dates that fall on the last day of the month.
 

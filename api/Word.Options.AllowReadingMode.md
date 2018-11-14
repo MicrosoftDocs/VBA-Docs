@@ -1,5 +1,5 @@
 ---
-title: Options.AllowReadingMode Property (Word)
+title: Options.AllowReadingMode property (Word)
 keywords: vbawd10.chm162988489
 f1_keywords:
 - vbawd10.chm162988489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowReadingMode Property (Word)
+# Options.AllowReadingMode property (Word)
 
  **True** indicates that Microsoft Word opens documents in Reading Layout view. Read/write **Boolean** .
 

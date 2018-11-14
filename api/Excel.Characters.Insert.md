@@ -1,5 +1,5 @@
 ---
-title: Characters.Insert Method (Excel)
+title: Characters.Insert method (Excel)
 keywords: vbaxl10.chm252077
 f1_keywords:
 - vbaxl10.chm252077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Insert Method (Excel)
+# Characters.Insert method (Excel)
 
 Inserts a string preceding the selected characters.
 

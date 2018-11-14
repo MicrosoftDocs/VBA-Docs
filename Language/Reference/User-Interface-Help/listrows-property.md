@@ -23,7 +23,7 @@ _object_. **ListRows** [= _Long_ ]
 The  **ListRows** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer indicating the maximum number of rows. The default value is 8.|

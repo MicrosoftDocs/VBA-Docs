@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (Excel)
+title: ShapeRange.Item method (Excel)
 keywords: vbaxl10.chm640074
 f1_keywords:
 - vbaxl10.chm640074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Item Method (Excel)
+# ShapeRange.Item method (Excel)
 
 Returns a single object from a collection.
 

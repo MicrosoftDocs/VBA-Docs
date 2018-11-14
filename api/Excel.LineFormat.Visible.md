@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Visible Property (Excel)
+title: LineFormat.Visible property (Excel)
 keywords: vbaxl10.chm110014
 f1_keywords:
 - vbaxl10.chm110014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Visible Property (Excel)
+# LineFormat.Visible property (Excel)
 
 Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 

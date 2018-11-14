@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.ModifyAppliesToRange Method (Excel)
+title: FormatCondition.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm512090
 f1_keywords:
 - vbaxl10.chm512090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.ModifyAppliesToRange Method (Excel)
+# FormatCondition.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

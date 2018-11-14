@@ -1,5 +1,5 @@
 ---
-title: Envelope.ReturnAddressStyle Property (Word)
+title: Envelope.ReturnAddressStyle property (Word)
 keywords: vbawd10.chm152567826
 f1_keywords:
 - vbawd10.chm152567826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.ReturnAddressStyle Property (Word)
+# Envelope.ReturnAddressStyle property (Word)
 
 Returns a  **[Style](Word.Style.md)** object that represents the return address style for the envelope.
 

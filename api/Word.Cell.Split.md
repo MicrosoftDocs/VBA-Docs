@@ -1,5 +1,5 @@
 ---
-title: Cell.Split Method (Word)
+title: Cell.Split method (Word)
 keywords: vbawd10.chm156106957
 f1_keywords:
 - vbawd10.chm156106957
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Split Method (Word)
+# Cell.Split method (Word)
 
 Splits a single table cell into multiple cells.
 

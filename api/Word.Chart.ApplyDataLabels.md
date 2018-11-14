@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (Word)
+title: Chart.ApplyDataLabels method (Word)
 keywords: vbawd10.chm79366018
 f1_keywords:
 - vbawd10.chm79366018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyDataLabels Method (Word)
+# Chart.ApplyDataLabels method (Word)
 
 Applies data labels to all the series in a chart.
 
@@ -29,7 +29,7 @@ Applies data labels to all the series in a chart.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Word.xldatalabelstype.md)**|One of the enumeration values that specifies the type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Word.xldatalabelstype.md)**|One of the enumeration values that specifies the type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Word.Chart.md)** and **[Series](Word.Series.md)** objects, **True** if the series has leader lines.|
@@ -42,7 +42,7 @@ Applies data labels to all the series in a chart.
 
 ## Remarks
 
-The Type parameter can be one of the following  **XlDataLabelsType** constants:
+The Type parameter can be one of the following  **xlDataLabelsType** constants:
 
 
 -  **xlDataLabelsShowBubbleSizes** ?The bubble size for the data label.

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DataBodyRange Property (Excel)
+title: PivotTable.DataBodyRange property (Excel)
 keywords: vbaxl10.chm235078
 f1_keywords:
 - vbaxl10.chm235078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DataBodyRange Property (Excel)
+# PivotTable.DataBodyRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range of values in a PivotTable. Read-only.
 

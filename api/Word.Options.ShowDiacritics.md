@@ -1,5 +1,5 @@
 ---
-title: Options.ShowDiacritics Property (Word)
+title: Options.ShowDiacritics property (Word)
 keywords: vbawd10.chm162988437
 f1_keywords:
 - vbawd10.chm162988437
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowDiacritics Property (Word)
+# Options.ShowDiacritics property (Word)
 
  **True** if diacritics are visible in a right-to-left language document. Read/write **Boolean** .
 

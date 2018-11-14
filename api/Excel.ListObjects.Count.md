@@ -1,5 +1,5 @@
 ---
-title: ListObjects.Count Property (Excel)
+title: ListObjects.Count property (Excel)
 keywords: vbaxl10.chm732077
 f1_keywords:
 - vbaxl10.chm732077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObjects.Count Property (Excel)
+# ListObjects.Count property (Excel)
 
 Returns an  **Integer** value that represents the number of objects in the collection.
 

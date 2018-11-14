@@ -1,5 +1,5 @@
 ---
-title: DataTable.Border Property (Excel)
+title: DataTable.Border property (Excel)
 keywords: vbaxl10.chm626077
 f1_keywords:
 - vbaxl10.chm626077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Border Property (Excel)
+# DataTable.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

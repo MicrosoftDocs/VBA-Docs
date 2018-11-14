@@ -1,5 +1,5 @@
 ---
-title: ModelFormatCurrency.Parent Property (Excel)
+title: ModelFormatCurrency.Parent property (Excel)
 keywords: vbaxl10.chm993075
 f1_keywords:
 - vbaxl10.chm993075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatCurrency.Parent Property (Excel)
+# ModelFormatCurrency.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

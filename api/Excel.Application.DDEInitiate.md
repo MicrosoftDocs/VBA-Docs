@@ -1,5 +1,5 @@
 ---
-title: Application.DDEInitiate Method (Excel)
+title: Application.DDEInitiate method (Excel)
 keywords: vbaxl10.chm132090
 f1_keywords:
 - vbaxl10.chm132090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEInitiate Method (Excel)
+# Application.DDEInitiate method (Excel)
 
 Opens a DDE channel to an application.
 
@@ -30,7 +30,7 @@ Opens a DDE channel to an application.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _App_|Required| **String**|The application name.|
-| _Topic_|Required| **String**|Describes something in the application to which you're opening a channel ? usually a document of that application.|
+| _Topic_|Required| **String**|Describes something in the application to which you are opening a channel ? usually a document of that application.|
 
 ## Return value
 

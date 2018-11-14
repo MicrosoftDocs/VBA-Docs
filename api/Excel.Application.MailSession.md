@@ -1,5 +1,5 @@
 ---
-title: Application.MailSession Property (Excel)
+title: Application.MailSession property (Excel)
 keywords: vbaxl10.chm133159
 f1_keywords:
 - vbaxl10.chm133159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailSession Property (Excel)
+# Application.MailSession property (Excel)
 
 Returns the MAPI mail session number as a hexadecimal string (if there's an active session), or returns  **null** if there's no session. Read-only **Variant** .
 

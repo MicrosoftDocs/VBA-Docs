@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Range Property (Word)
+title: Paragraph.Range property (Word)
 keywords: vbawd10.chm156696576
 f1_keywords:
 - vbawd10.chm156696576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Range Property (Word)
+# Paragraph.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within the specified paragraph.
 

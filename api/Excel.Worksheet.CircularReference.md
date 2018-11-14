@@ -1,5 +1,5 @@
 ---
-title: Worksheet.CircularReference Property (Excel)
+title: Worksheet.CircularReference property (Excel)
 keywords: vbaxl10.chm175084
 f1_keywords:
 - vbaxl10.chm175084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.CircularReference Property (Excel)
+# Worksheet.CircularReference property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range containing the first circular reference on the sheet, or returns **Nothing** if there's no circular reference on the sheet. The circular reference must be removed before calculation can proceed.
 

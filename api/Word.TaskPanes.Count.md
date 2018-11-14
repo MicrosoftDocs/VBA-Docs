@@ -1,5 +1,5 @@
 ---
-title: TaskPanes.Count Property (Word)
+title: TaskPanes.Count property (Word)
 keywords: vbawd10.chm201654274
 f1_keywords:
 - vbawd10.chm201654274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPanes.Count Property (Word)
+# TaskPanes.Count property (Word)
 
 Returns a  **Long** that represents the number of task panes in the collection. Read-only.
 

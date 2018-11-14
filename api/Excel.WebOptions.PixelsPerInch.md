@@ -1,5 +1,5 @@
 ---
-title: WebOptions.PixelsPerInch Property (Excel)
+title: WebOptions.PixelsPerInch property (Excel)
 keywords: vbaxl10.chm662080
 f1_keywords:
 - vbaxl10.chm662080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.PixelsPerInch Property (Excel)
+# WebOptions.PixelsPerInch property (Excel)
 
 Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. The range of settings is usually from 19 to 480, and common settings for popular screen sizes are 72, 96, and 120. The default setting is 96. Read/write  **Long** .
 

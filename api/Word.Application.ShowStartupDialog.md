@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStartupDialog Property (Word)
+title: Application.ShowStartupDialog property (Word)
 keywords: vbawd10.chm158335431
 f1_keywords:
 - vbawd10.chm158335431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowStartupDialog Property (Word)
+# Application.ShowStartupDialog property (Word)
 
  **True** to display the **Task Pane** when starting Microsoft Word. Read/write **Boolean** .
 

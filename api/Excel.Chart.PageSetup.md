@@ -1,5 +1,5 @@
 ---
-title: Chart.PageSetup Property (Excel)
+title: Chart.PageSetup property (Excel)
 keywords: vbaxl10.chm148085
 f1_keywords:
 - vbaxl10.chm148085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PageSetup Property (Excel)
+# Chart.PageSetup property (Excel)
 
 Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page setup settings for the specified object. Read-only.
 

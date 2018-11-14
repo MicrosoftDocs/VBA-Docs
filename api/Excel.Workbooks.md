@@ -1,5 +1,5 @@
 ---
-title: Workbooks Object (Excel)
+title: Workbooks object (Excel)
 keywords: vbaxl10.chm202072
 f1_keywords:
 - vbaxl10.chm202072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks Object (Excel)
+# Workbooks object (Excel)
 
 A collection of all the  **[Workbook](Excel.Workbook.md)** objects that are currently open in the Microsoft Excel application.
 

@@ -1,12 +1,12 @@
 ---
-title: PageNumbers Object (Word)
+title: PageNumbers object (Word)
 ms.prod: word
 ms.assetid: 9090f96e-d898-ace6-35fa-f6e59c527ea2
 ms.date: 06/08/2017
 ---
 
 
-# PageNumbers Object (Word)
+# PageNumbers object (Word)
 
 A collection of  **PageNumber** objects that represent the page numbers in a single header or footer.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DropdownListEntries Property (Word)
+title: ContentControl.DropdownListEntries property (Word)
 keywords: vbawd10.chm266534921
 f1_keywords:
 - vbawd10.chm266534921
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.DropdownListEntries Property (Word)
+# ContentControl.DropdownListEntries property (Word)
 
 Returns a  **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection that represents the items in a drop-down list content control or in a combo box content control. Read-only.
 

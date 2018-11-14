@@ -1,5 +1,5 @@
 ---
-title: Comment.Edit Method (Word)
+title: Comment.Edit method (Word)
 keywords: vbawd10.chm154993651
 f1_keywords:
 - vbawd10.chm154993651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Edit Method (Word)
+# Comment.Edit method (Word)
 
 Opens the specified OLE object for editing in the application it was created in.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.UnderlineColor Property (Word)
+title: Font.UnderlineColor property (Word)
 keywords: vbawd10.chm156369062
 f1_keywords:
 - vbawd10.chm156369062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.UnderlineColor Property (Word)
+# Font.UnderlineColor property (Word)
 
 Returns or sets the 24-bit color of the underline for the specified  **Font** object. .
 

@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Borders Property (Excel)
+title: UniqueValues.Borders property (Excel)
 keywords: vbaxl10.chm826078
 f1_keywords:
 - vbaxl10.chm826078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Borders Property (Excel)
+# UniqueValues.Borders property (Excel)
 
 Returns a  **[Borders](Excel.Borders.md)** collection that specifies the formatting of cell borders if the conditional formatting rule evaluates to **True** . Read-only.
 

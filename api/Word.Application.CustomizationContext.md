@@ -1,5 +1,5 @@
 ---
-title: Application.CustomizationContext Property (Word)
+title: Application.CustomizationContext property (Word)
 keywords: vbawd10.chm158335044
 f1_keywords:
 - vbawd10.chm158335044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CustomizationContext Property (Word)
+# Application.CustomizationContext property (Word)
 
 Returns or sets a  **[Template](Word.Template.md)** or **[Document](Word.Document.md)** object that represents the template or document in which changes to menu bars, toolbars, and key bindings are stored. Read/write.
 

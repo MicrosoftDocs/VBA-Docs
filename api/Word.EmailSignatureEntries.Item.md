@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntries.Item Method (Word)
+title: EmailSignatureEntries.Item method (Word)
 keywords: vbawd10.chm166002688
 f1_keywords:
 - vbawd10.chm166002688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntries.Item Method (Word)
+# EmailSignatureEntries.Item method (Word)
 
 Returns an individual  **EmailSignatureEntry** object in a collection.
 

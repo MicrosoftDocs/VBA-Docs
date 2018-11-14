@@ -1,5 +1,5 @@
 ---
-title: CustomView.Creator Property (Excel)
+title: CustomView.Creator property (Excel)
 keywords: vbaxl10.chm507074
 f1_keywords:
 - vbaxl10.chm507074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.Creator Property (Excel)
+# CustomView.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

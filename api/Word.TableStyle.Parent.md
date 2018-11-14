@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Parent Property (Word)
+title: TableStyle.Parent property (Word)
 keywords: vbawd10.chm244777060
 f1_keywords:
 - vbawd10.chm244777060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Parent Property (Word)
+# TableStyle.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TableStyle** object.
 

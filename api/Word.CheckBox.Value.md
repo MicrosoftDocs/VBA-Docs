@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Value Property (Word)
+title: CheckBox.Value property (Word)
 keywords: vbawd10.chm153485316
 f1_keywords:
 - vbawd10.chm153485316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Value Property (Word)
+# CheckBox.Value property (Word)
 
  **True** if the check box is selected. Read/write **Boolean** .
 

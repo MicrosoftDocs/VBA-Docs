@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.RestartNumberingAtSection Property (Word)
+title: PageNumbers.RestartNumberingAtSection property (Word)
 keywords: vbawd10.chm159776774
 f1_keywords:
 - vbawd10.chm159776774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.RestartNumberingAtSection Property (Word)
+# PageNumbers.RestartNumberingAtSection property (Word)
 
  **True** if page numbering starts at 1 again at the beginning of the specified section. Read/write **Boolean** .
 

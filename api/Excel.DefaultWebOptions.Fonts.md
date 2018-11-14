@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Fonts Property (Excel)
+title: DefaultWebOptions.Fonts property (Excel)
 keywords: vbaxl10.chm660088
 f1_keywords:
 - vbaxl10.chm660088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Fonts Property (Excel)
+# DefaultWebOptions.Fonts property (Excel)
 
 Returns the  **[WebPageFonts](Office.WebPageFonts.md)** collection representing the set of fonts Microsoft Excel uses when you open a Web page in Excel and there is either no font information specified in the Web page, or the current default font can't display the character set in the Web page. Read-only.
 

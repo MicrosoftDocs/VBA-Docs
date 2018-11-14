@@ -1,5 +1,5 @@
 ---
-title: CubeFields.AddSet Method (Excel)
+title: CubeFields.AddSet method (Excel)
 keywords: vbaxl10.chm670077
 f1_keywords:
 - vbaxl10.chm670077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeFields.AddSet Method (Excel)
+# CubeFields.AddSet method (Excel)
 
 Adds a new  **[CubeField](Excel.CubeField.md)** object to the **[CubeFields](Excel.CubeFields.md)** collection. The **CubeField** object corresponds to a set defined on the Online Analytical Processing (OLAP) provider for the cube.
 

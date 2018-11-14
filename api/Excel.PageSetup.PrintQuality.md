@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintQuality Property (Excel)
+title: PageSetup.PrintQuality property (Excel)
 keywords: vbaxl10.chm473096
 f1_keywords:
 - vbaxl10.chm473096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintQuality Property (Excel)
+# PageSetup.PrintQuality property (Excel)
 
 Returns or sets the print quality. Read/write  **Variant** .
 
@@ -33,7 +33,7 @@ Returns or sets the print quality. Read/write  **Variant** .
 
 ## Example
 
-This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you?re using.
+This example sets the print quality on a printer with non-square pixels. The array specifies both horizontal and vertical print quality. This example may cause an error, depending on the printer driver you are using.
 
 
 ```vb

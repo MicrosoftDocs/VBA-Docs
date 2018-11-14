@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderOutline Property (Word)
+title: DataTable.HasBorderOutline property (Word)
 keywords: vbawd10.chm46399494
 f1_keywords:
 - vbawd10.chm46399494
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.HasBorderOutline Property (Word)
+# DataTable.HasBorderOutline property (Word)
 
  **True** if the chart data table has outline borders. Read/write **Boolean** .
 

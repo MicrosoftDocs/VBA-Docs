@@ -1,5 +1,5 @@
 ---
-title: Document.Container Property (Word)
+title: Document.Container property (Word)
 keywords: vbawd10.chm158007378
 f1_keywords:
 - vbawd10.chm158007378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Container Property (Word)
+# Document.Container property (Word)
 
 Returns the object that represents the container application for the specified document. Read-only  **Object** .
 

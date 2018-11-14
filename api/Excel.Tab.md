@@ -1,5 +1,5 @@
 ---
-title: Tab Object (Excel)
+title: Tab object (Excel)
 keywords: vbaxl10.chm722072
 f1_keywords:
 - vbaxl10.chm722072

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Document Property (Word)
+title: ProtectedViewWindow.Document property (Word)
 keywords: vbawd10.chm231735297
 f1_keywords:
 - vbawd10.chm231735297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Document Property (Word)
+# ProtectedViewWindow.Document property (Word)
 
 Returns a [Document](Word.Document.md) object associated with the protected view window. Read-only.
 

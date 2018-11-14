@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.ColumnsChanged Property (Excel)
+title: ModelChanges.ColumnsChanged property (Excel)
 keywords: vbaxl10.chm960080
 f1_keywords:
 - vbaxl10.chm960080
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.ColumnsChanged Property (Excel)
+# ModelChanges.ColumnsChanged property (Excel)
 
-Returns a [ModelColumnChanges Object (Excel)](Excel.modelcolumnchanges.md) collection of[ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) objects which represent table names and column names of all table columns for which the data type was changed (might add more types of changes here in the future) as part of a model operation. Read-only.
+Returns a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) collection of[ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) objects which represent table names and column names of all table columns for which the data type was changed (might add more types of changes here in the future) as part of a model operation. Read-only.
 
 
 ## Syntax

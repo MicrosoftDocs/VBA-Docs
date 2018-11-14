@@ -38,7 +38,7 @@ The Microsoft Outlook View Control displays information about a specific folder 
 | **[NewForm](../../../api/Outlook.viewctl.newfo.md)**|Displays the Microsoft Outlook  **Choose Form** dialog box.|
 | **[NewJournalEntry](../../../api/Outlook.viewctl.newjournalent.md)**|Creates and displays a new journal entry.|
 | **[NewMeetingRequest](../../../api/Outlook.viewctl.newmeetingreque.md)**|Creates and displays a new meeting request.|
-| **[NewMessage](../../../api/Outlook.viewctl.newmessa.md)**|Creates and displays a new e-mail message.|
+| **[NewMessage](../../../api/Outlook.viewctl.newmessa.md)**|Creates and displays a new email message.|
 | **[NewNote](../../../api/Outlook.viewctl.newno.md)**|Creates and displays a new note item.|
 | **[NewPost](../../../api/Outlook.viewctl.newpo.md)**|Creates and displays a new post item.|
 | **[NewTask](../../../api/Outlook.viewctl.newta.md)**|Creates and displays a new task.|

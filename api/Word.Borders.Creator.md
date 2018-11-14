@@ -1,5 +1,5 @@
 ---
-title: Borders.Creator Property (Word)
+title: Borders.Creator property (Word)
 keywords: vbawd10.chm154928105
 f1_keywords:
 - vbawd10.chm154928105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Creator Property (Word)
+# Borders.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

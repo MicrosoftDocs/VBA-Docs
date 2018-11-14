@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SectionDirection Property (Word)
+title: PageSetup.SectionDirection property (Word)
 keywords: vbawd10.chm158400642
 f1_keywords:
 - vbawd10.chm158400642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.SectionDirection Property (Word)
+# PageSetup.SectionDirection property (Word)
 
 Returns or sets the reading order and alignment for the specified sections. Read/write  **WdSectionDirection** .
 

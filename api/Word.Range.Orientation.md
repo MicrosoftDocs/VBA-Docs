@@ -1,5 +1,5 @@
 ---
-title: Range.Orientation Property (Word)
+title: Range.Orientation property (Word)
 keywords: vbawd10.chm157155645
 f1_keywords:
 - vbawd10.chm157155645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Orientation Property (Word)
+# Range.Orientation property (Word)
 
 Returns or sets the orientation of text in a range when the Text Direction feature is enabled. Read/write  **WdTextOrientation** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddIf Method (Word)
+title: MailMergeFields.AddIf method (Word)
 keywords: vbawd10.chm153026664
 f1_keywords:
 - vbawd10.chm153026664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddIf Method (Word)
+# MailMergeFields.AddIf method (Word)
 
 Adds an IF field to a mail merge main document. Returns a  **MailMergeField** object.
 

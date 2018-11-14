@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.FieldOfView Property (Word)
+title: ThreeDFormat.FieldOfView property (Word)
 keywords: vbawd10.chm164626556
 f1_keywords:
 - vbawd10.chm164626556
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.FieldOfView Property (Word)
+# ThreeDFormat.FieldOfView property (Word)
 
 Returns or sets a  **Single** that represents the amount of perspective for a shape. Read/write.
 

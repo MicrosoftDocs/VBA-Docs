@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeInsertClosings Property (Word)
+title: Options.AutoFormatAsYouTypeInsertClosings property (Word)
 keywords: vbawd10.chm162988335
 f1_keywords:
 - vbawd10.chm162988335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeInsertClosings Property (Word)
+# Options.AutoFormatAsYouTypeInsertClosings property (Word)
 
  **True** for Microsoft Word to automatically insert the corresponding memo closing when the user enters a memo heading. Read/write.
 

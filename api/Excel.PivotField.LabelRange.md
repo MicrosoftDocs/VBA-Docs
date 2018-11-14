@@ -1,5 +1,5 @@
 ---
-title: PivotField.LabelRange Property (Excel)
+title: PivotField.LabelRange property (Excel)
 keywords: vbaxl10.chm240084
 f1_keywords:
 - vbaxl10.chm240084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LabelRange Property (Excel)
+# PivotField.LabelRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell (or cells) that contain the field label. Read-only
 

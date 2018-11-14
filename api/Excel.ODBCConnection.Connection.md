@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.Connection Property (Excel)
+title: ODBCConnection.Connection property (Excel)
 keywords: vbaxl10.chm796077
 f1_keywords:
 - vbaxl10.chm796077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.Connection Property (Excel)
+# ODBCConnection.Connection property (Excel)
 
 Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: FileExportConverters.Creator Property (Excel)
+title: FileExportConverters.Creator property (Excel)
 keywords: vbaxl10.chm864074
 f1_keywords:
 - vbaxl10.chm864074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverters.Creator Property (Excel)
+# FileExportConverters.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

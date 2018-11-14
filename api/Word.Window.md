@@ -1,5 +1,5 @@
 ---
-title: Window Object (Word)
+title: Window object (Word)
 keywords: vbawd10.chm2402
 f1_keywords:
 - vbawd10.chm2402
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window Object (Word)
+# Window object (Word)
 
 Represents a window. Many document characteristics, such as scroll bars and rulers, are actually properties of the window.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Caption Property (Excel)
+title: ChartTitle.Caption property (Excel)
 keywords: vbaxl10.chm563080
 f1_keywords:
 - vbaxl10.chm563080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Caption Property (Excel)
+# ChartTitle.Caption property (Excel)
 
 Returns or sets a  **String** value that represents the chart title text.
 

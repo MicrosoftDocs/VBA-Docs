@@ -1,5 +1,5 @@
 ---
-title: View.SeekView Property (Word)
+title: View.SeekView property (Word)
 keywords: vbawd10.chm161808412
 f1_keywords:
 - vbawd10.chm161808412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.SeekView Property (Word)
+# View.SeekView property (Word)
 
 Returns or sets the document element displayed in print layout view. Read/write  **WdSeekView** .
 

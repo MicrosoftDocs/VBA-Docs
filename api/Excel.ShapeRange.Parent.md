@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Parent Property (Excel)
+title: ShapeRange.Parent property (Excel)
 keywords: vbaxl10.chm639075
 f1_keywords:
 - vbaxl10.chm639075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Parent Property (Excel)
+# ShapeRange.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

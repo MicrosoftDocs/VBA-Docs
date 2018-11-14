@@ -1,5 +1,5 @@
 ---
-title: Legend.Height Property (Word)
+title: Legend.Height property (Word)
 keywords: vbawd10.chm147193979
 f1_keywords:
 - vbawd10.chm147193979
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Height Property (Word)
+# Legend.Height property (Word)
 
 Returns or sets the height, in points, of the object. Read/write  **Double** .
 

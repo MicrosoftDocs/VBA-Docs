@@ -1,5 +1,5 @@
 ---
-title: Phonetic.CharacterType Property (Excel)
+title: Phonetic.CharacterType property (Excel)
 keywords: vbaxl10.chm628074
 f1_keywords:
 - vbaxl10.chm628074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetic.CharacterType Property (Excel)
+# Phonetic.CharacterType property (Excel)
 
-Returns or sets the type of phonetic text in the specified cell. Read/write  **[XlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)** .
+Returns or sets the type of phonetic text in the specified cell. Read/write  **[xlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)** .
 
 
 ## Syntax

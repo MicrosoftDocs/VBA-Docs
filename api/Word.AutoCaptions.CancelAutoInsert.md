@@ -1,5 +1,5 @@
 ---
-title: AutoCaptions.CancelAutoInsert Method (Word)
+title: AutoCaptions.CancelAutoInsert method (Word)
 keywords: vbawd10.chm158990436
 f1_keywords:
 - vbawd10.chm158990436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaptions.CancelAutoInsert Method (Word)
+# AutoCaptions.CancelAutoInsert method (Word)
 
 Prevents Word from automatically adding captions to any type of item.
 

@@ -1,5 +1,5 @@
 ---
-title: DropLines.Name Property (Excel)
+title: DropLines.Name property (Excel)
 keywords: vbaxl10.chm604074
 f1_keywords:
 - vbaxl10.chm604074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Name Property (Excel)
+# DropLines.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

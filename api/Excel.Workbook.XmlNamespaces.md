@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlNamespaces Property (Excel)
+title: Workbook.XmlNamespaces property (Excel)
 keywords: vbaxl10.chm199224
 f1_keywords:
 - vbaxl10.chm199224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.XmlNamespaces Property (Excel)
+# Workbook.XmlNamespaces property (Excel)
 
 Returns an  **[XmlNamespaces](Excel.XmlNamespaces.md)** collection that represents the XML namespaces contained in the specified workbook. Read-only.
 

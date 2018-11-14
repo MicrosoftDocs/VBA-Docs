@@ -1,5 +1,5 @@
 ---
-title: Name.Comment Property (Excel)
+title: Name.Comment property (Excel)
 keywords: vbaxl10.chm490089
 f1_keywords:
 - vbaxl10.chm490089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.Comment Property (Excel)
+# Name.Comment property (Excel)
 
 Returns or sets the comment associated with the name. Read/write  **String** .
 

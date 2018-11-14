@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Format Property (Excel)
+title: AxisTitle.Format property (Excel)
 keywords: vbaxl10.chm565091
 f1_keywords:
 - vbaxl10.chm565091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Format Property (Excel)
+# AxisTitle.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

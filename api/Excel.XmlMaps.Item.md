@@ -1,5 +1,5 @@
 ---
-title: XmlMaps.Item Property (Excel)
+title: XmlMaps.Item property (Excel)
 keywords: vbaxl10.chm756075
 f1_keywords:
 - vbaxl10.chm756075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMaps.Item Property (Excel)
+# XmlMaps.Item property (Excel)
 
 Returns a single object from a collection.
 

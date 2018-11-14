@@ -1,5 +1,5 @@
 ---
-title: Chart.Unprotect Method (Excel)
+title: Chart.Unprotect method (Excel)
 keywords: vbaxl10.chm148095
 f1_keywords:
 - vbaxl10.chm148095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Unprotect Method (Excel)
+# Chart.Unprotect method (Excel)
 
 Removes protection from a sheet or workbook. This method has no effect if the sheet or workbook isn't protected.
 

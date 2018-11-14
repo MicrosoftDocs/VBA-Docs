@@ -1,5 +1,5 @@
 ---
-title: Field.Unlink Method (Word)
+title: Field.Unlink method (Word)
 keywords: vbawd10.chm154075238
 f1_keywords:
 - vbawd10.chm154075238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Unlink Method (Word)
+# Field.Unlink method (Word)
 
 Replaces the specified field with its most recent result.
 

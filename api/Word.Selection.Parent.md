@@ -1,5 +1,5 @@
 ---
-title: Selection.Parent Property (Word)
+title: Selection.Parent property (Word)
 keywords: vbawd10.chm158663658
 f1_keywords:
 - vbawd10.chm158663658
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Parent Property (Word)
+# Selection.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **[Selection](Word.Selection.md)** object.
 

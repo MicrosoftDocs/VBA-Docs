@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.ShowIconOnly Property (Excel)
+title: IconSetCondition.ShowIconOnly property (Excel)
 keywords: vbaxl10.chm812085
 f1_keywords:
 - vbaxl10.chm812085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.ShowIconOnly Property (Excel)
+# IconSetCondition.ShowIconOnly property (Excel)
 
 Returns or sets a  **Boolean** value indicating if only the icon is displayed for an icon set conditional format.
 

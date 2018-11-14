@@ -1,5 +1,5 @@
 ---
-title: PivotField.MemoryUsed Property (Excel)
+title: PivotField.MemoryUsed property (Excel)
 keywords: vbaxl10.chm240109
 f1_keywords:
 - vbaxl10.chm240109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.MemoryUsed Property (Excel)
+# PivotField.MemoryUsed property (Excel)
 
 Returns the amount of memory currently being used by the object, in bytes. Read-only  **Long** .
 

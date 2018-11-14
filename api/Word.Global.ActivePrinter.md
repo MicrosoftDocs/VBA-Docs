@@ -1,5 +1,5 @@
 ---
-title: Global.ActivePrinter Property (Word)
+title: Global.ActivePrinter property (Word)
 keywords: vbawd10.chm163119170
 f1_keywords:
 - vbawd10.chm163119170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ActivePrinter Property (Word)
+# Global.ActivePrinter property (Word)
 
 Returns or sets the name of the active printer. Read/write  **String** .
 

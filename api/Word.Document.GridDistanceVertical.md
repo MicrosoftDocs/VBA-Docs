@@ -1,5 +1,5 @@
 ---
-title: Document.GridDistanceVertical Property (Word)
+title: Document.GridDistanceVertical property (Word)
 keywords: vbawd10.chm158007599
 f1_keywords:
 - vbawd10.chm158007599
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GridDistanceVertical Property (Word)
+# Document.GridDistanceVertical property (Word)
 
 Returns or sets a  **Single** that represents the amount of vertical space between the invisible gridlines that Microsoft Word uses when you draw, move, and resize AutoShapes or East Asian characters in the specified document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadWidth Property (Excel)
+title: LineFormat.EndArrowheadWidth property (Excel)
 keywords: vbaxl10.chm110009
 f1_keywords:
 - vbaxl10.chm110009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.EndArrowheadWidth Property (Excel)
+# LineFormat.EndArrowheadWidth property (Excel)
 
 Returns or sets the width of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadWidth](Office.MsoArrowheadWidth.md)** .
 

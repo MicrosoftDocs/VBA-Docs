@@ -1,5 +1,5 @@
 ---
-title: Workbook.EncryptionProvider Property (Excel)
+title: Workbook.EncryptionProvider property (Excel)
 keywords: vbaxl10.chm199262
 f1_keywords:
 - vbaxl10.chm199262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.EncryptionProvider Property (Excel)
+# Workbook.EncryptionProvider property (Excel)
 
 Returns a  **String** specifying the name of the algorithm encryption provider that Microsoft Office Excel 2007 uses when encrypting documents. Read/write.
 

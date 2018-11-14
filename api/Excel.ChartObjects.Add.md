@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Add Method (Excel)
+title: ChartObjects.Add method (Excel)
 keywords: vbaxl10.chm497103
 f1_keywords:
 - vbaxl10.chm497103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Add Method (Excel)
+# ChartObjects.Add method (Excel)
 
 Creates a new embedded chart.
 

@@ -1,5 +1,5 @@
 ---
-title: WdDropPosition Enumeration (Word)
+title: WdDropPosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDropPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDropPosition Enumeration (Word)
+# WdDropPosition enumeration (Word)
 
 Specifies the position of a dropped capital letter.
 

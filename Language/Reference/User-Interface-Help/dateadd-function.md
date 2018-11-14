@@ -18,7 +18,7 @@ Returns a **Variant** (**Date**) containing a date to which a specified time int
 
 The **DateAdd** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you want to add.|
 |**_number_**|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that is the number of intervals you want to add. It can be positive (to get dates in the future) or negative (to get dates in the past).|

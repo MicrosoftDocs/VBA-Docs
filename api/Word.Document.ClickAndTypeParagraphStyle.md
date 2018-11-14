@@ -1,5 +1,5 @@
 ---
-title: Document.ClickAndTypeParagraphStyle Property (Word)
+title: Document.ClickAndTypeParagraphStyle property (Word)
 keywords: vbawd10.chm158007624
 f1_keywords:
 - vbawd10.chm158007624
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ClickAndTypeParagraphStyle Property (Word)
+# Document.ClickAndTypeParagraphStyle property (Word)
 
 Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant** .
 

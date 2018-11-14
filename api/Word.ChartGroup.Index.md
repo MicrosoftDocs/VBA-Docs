@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.Index Property (Word)
+title: ChartGroup.Index property (Word)
 keywords: vbawd10.chm263454741
 f1_keywords:
 - vbawd10.chm263454741
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.Index Property (Word)
+# ChartGroup.Index property (Word)
 
 Returns the index number of the object within the collection of similar objects. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.ListDataValidation Property (Excel)
+title: ErrorCheckingOptions.ListDataValidation property (Excel)
 keywords: vbaxl10.chm698082
 f1_keywords:
 - vbaxl10.chm698082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.ListDataValidation Property (Excel)
+# ErrorCheckingOptions.ListDataValidation property (Excel)
 
 A  **Boolean** value that is **True** if data validation is enabled in a list. Read/write **Boolean** .
 

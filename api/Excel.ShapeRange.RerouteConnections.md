@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RerouteConnections Method (Excel)
+title: ShapeRange.RerouteConnections method (Excel)
 keywords: vbaxl10.chm640088
 f1_keywords:
 - vbaxl10.chm640088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.RerouteConnections Method (Excel)
+# ShapeRange.RerouteConnections method (Excel)
 
 This method reroutes all connectors attached to the specified shape; if the specified shape is a connector, it's rerouted.
 

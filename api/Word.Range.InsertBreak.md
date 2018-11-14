@@ -1,5 +1,5 @@
 ---
-title: Range.InsertBreak Method (Word)
+title: Range.InsertBreak method (Word)
 keywords: vbawd10.chm157155450
 f1_keywords:
 - vbawd10.chm157155450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertBreak Method (Word)
+# Range.InsertBreak method (Word)
 
 Inserts a page, column, or section break.
 

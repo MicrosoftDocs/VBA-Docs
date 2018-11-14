@@ -1,5 +1,5 @@
 ---
-title: Application.CheckLanguage Property (Word)
+title: Application.CheckLanguage property (Word)
 keywords: vbawd10.chm158335088
 f1_keywords:
 - vbawd10.chm158335088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CheckLanguage Property (Word)
+# Application.CheckLanguage property (Word)
 
  **True** if Microsoft Word automatically detects the language you are using as you type. Read/write **Boolean** .
 

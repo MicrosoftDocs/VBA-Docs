@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.Creator Property (Excel)
+title: TimelineViewState.Creator property (Excel)
 keywords: vbaxl10.chm951074
 f1_keywords:
 - vbaxl10.chm951074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.Creator Property (Excel)
+# TimelineViewState.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [TimelineViewState Object (Excel)](Excel.timelineviewstate.md) object.
+ _expression_ A variable that represents a [TimelineViewState object (Excel)](Excel.timelineviewstate.md) object.
 
 
 ## Remarks

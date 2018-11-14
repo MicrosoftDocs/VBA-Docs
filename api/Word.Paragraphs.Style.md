@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Style Property (Word)
+title: Paragraphs.Style property (Word)
 keywords: vbawd10.chm156762212
 f1_keywords:
 - vbawd10.chm156762212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Style Property (Word)
+# Paragraphs.Style property (Word)
 
 Returns or sets the style for the specified paragraphs. Read/write  **Variant** .
 

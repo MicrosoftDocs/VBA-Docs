@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.AutoUpdate Property (Word)
+title: LinkFormat.AutoUpdate property (Word)
 keywords: vbawd10.chm154206209
 f1_keywords:
 - vbawd10.chm154206209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.AutoUpdate Property (Word)
+# LinkFormat.AutoUpdate property (Word)
 
  **True** if the specified link is updated automatically when the container file is opened or when the source file is changed. Read/write **Boolean** .
 

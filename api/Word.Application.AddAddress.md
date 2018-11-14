@@ -1,5 +1,5 @@
 ---
-title: Application.AddAddress Method (Word)
+title: Application.AddAddress method (Word)
 keywords: vbawd10.chm158335297
 f1_keywords:
 - vbawd10.chm158335297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AddAddress Method (Word)
+# Application.AddAddress method (Word)
 
 Adds an entry to the address book. Each entry has values for one or more tag IDs.
 

@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.DragOff Method (Excel)
+title: VPageBreak.DragOff method (Excel)
 keywords: vbaxl10.chm156075
 f1_keywords:
 - vbaxl10.chm156075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.DragOff Method (Excel)
+# VPageBreak.DragOff method (Excel)
 
 Drags a page break out of the print area.
 
@@ -29,7 +29,7 @@ Drags a page break out of the print area.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Direction_|Required| **[XlDirection](Excel.XlDirection.md)**|The direction in which the page break is dragged.|
+| _Direction_|Required| **[xlDirection](Excel.XlDirection.md)**|The direction in which the page break is dragged.|
 | _RegionIndex_|Required| **Long**|The print-area region index for the page break (the region where the mouse pointer is located when the mouse button is pressed if the user drags the page break). If the print area is contiguous, there?s only one print region. If the print area is discontiguous, there?s more than one print region.|
 
 ## Remarks

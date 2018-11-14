@@ -1,5 +1,5 @@
 ---
-title: Font.DoubleStrikeThrough Property (Word)
+title: Font.DoubleStrikeThrough property (Word)
 keywords: vbawd10.chm156369032
 f1_keywords:
 - vbawd10.chm156369032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.DoubleStrikeThrough Property (Word)
+# Font.DoubleStrikeThrough property (Word)
 
  **True** if the specified font is formatted as double strikethrough text. .
 

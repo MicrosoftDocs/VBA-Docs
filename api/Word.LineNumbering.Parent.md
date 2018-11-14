@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.Parent Property (Word)
+title: LineNumbering.Parent property (Word)
 keywords: vbawd10.chm158467050
 f1_keywords:
 - vbawd10.chm158467050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.Parent Property (Word)
+# LineNumbering.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **LineNumbering** object.
 

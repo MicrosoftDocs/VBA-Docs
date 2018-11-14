@@ -1,5 +1,5 @@
 ---
-title: WdLockType Enumeration (Word)
+title: WdLockType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLockType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLockType Enumeration (Word)
+# WdLockType enumeration (Word)
 
 Specifies the type of lock for a  **[CoAuthLock](Word.CoAuthLock.md)** object.
 

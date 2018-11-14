@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileDecimalSeparator Property (Excel)
+title: TextConnection.TextFileDecimalSeparator property (Excel)
 keywords: vbaxl10.chm926078
 f1_keywords:
 - vbaxl10.chm926078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileDecimalSeparator Property (Excel)
+# TextConnection.TextFileDecimalSeparator property (Excel)
 
 Returns or sets the decimal separator character that Microsoft Excel uses when you import a text file into a query table. The default is the system decimal separator character. Read/Write  **String** .
 

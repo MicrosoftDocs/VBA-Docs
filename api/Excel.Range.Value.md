@@ -1,5 +1,5 @@
 ---
-title: Range.Value Property (Excel)
+title: Range.Value property (Excel)
 keywords: vbaxl10.chm144216
 f1_keywords:
 - vbaxl10.chm144216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Value Property (Excel)
+# Range.Value property (Excel)
 
 Returns or sets a  **Variant** value that represents the value of the specified range.
 

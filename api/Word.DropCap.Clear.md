@@ -1,5 +1,5 @@
 ---
-title: DropCap.Clear Method (Word)
+title: DropCap.Clear method (Word)
 keywords: vbawd10.chm156631140
 f1_keywords:
 - vbawd10.chm156631140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.Clear Method (Word)
+# DropCap.Clear method (Word)
 
 Removes the dropped capital letter formatting.
 

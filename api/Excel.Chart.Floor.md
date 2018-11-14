@@ -1,5 +1,5 @@
 ---
-title: Chart.Floor Property (Excel)
+title: Chart.Floor property (Excel)
 keywords: vbaxl10.chm149109
 f1_keywords:
 - vbaxl10.chm149109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Floor Property (Excel)
+# Chart.Floor property (Excel)
 
 Returns a  **[Floor](Excel.Floor(object).md)** object that represents the floor of the 3-D chart. Read-only.
 

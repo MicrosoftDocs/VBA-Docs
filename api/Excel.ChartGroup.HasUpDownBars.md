@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasUpDownBars Property (Excel)
+title: ChartGroup.HasUpDownBars property (Excel)
 keywords: vbaxl10.chm568083
 f1_keywords:
 - vbaxl10.chm568083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasUpDownBars Property (Excel)
+# ChartGroup.HasUpDownBars property (Excel)
 
  **True** if a line chart has up and down bars. Applies only to line charts. Read/write **Boolean** .
 

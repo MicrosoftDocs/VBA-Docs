@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationVertical Method (Word)
+title: ThreeDFormat.IncrementRotationVertical method (Word)
 keywords: vbawd10.chm164626450
 f1_keywords:
 - vbawd10.chm164626450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationVertical Method (Word)
+# ThreeDFormat.IncrementRotationVertical method (Word)
 
 Vertically rotates a shape on the y-axis using the specified incrementation value.
 

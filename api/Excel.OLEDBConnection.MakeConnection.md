@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.MakeConnection Method (Excel)
+title: OLEDBConnection.MakeConnection method (Excel)
 keywords: vbaxl10.chm794082
 f1_keywords:
 - vbaxl10.chm794082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.MakeConnection Method (Excel)
+# OLEDBConnection.MakeConnection method (Excel)
 
 Establishes a connection for the specified OLE DB connection.
 

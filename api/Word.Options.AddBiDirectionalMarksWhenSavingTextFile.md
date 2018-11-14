@@ -1,5 +1,5 @@
 ---
-title: Options.AddBiDirectionalMarksWhenSavingTextFile Property (Word)
+title: Options.AddBiDirectionalMarksWhenSavingTextFile property (Word)
 keywords: vbawd10.chm162988440
 f1_keywords:
 - vbawd10.chm162988440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AddBiDirectionalMarksWhenSavingTextFile Property (Word)
+# Options.AddBiDirectionalMarksWhenSavingTextFile property (Word)
 
  **True** if Microsoft Word adds bidirectional control characters when saving a document as a text file. Read/write **Boolean** .
 

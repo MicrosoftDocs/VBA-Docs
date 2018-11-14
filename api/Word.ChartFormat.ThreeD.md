@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.ThreeD Property (Word)
+title: ChartFormat.ThreeD property (Word)
 keywords: vbawd10.chm203030536
 f1_keywords:
 - vbawd10.chm203030536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.ThreeD Property (Word)
+# ChartFormat.ThreeD property (Word)
 
 Returns the 3-D-effect formatting properties for the specified chart. Read-only  **[ThreeDFormat](Word.ThreeDFormat.md)** .
 

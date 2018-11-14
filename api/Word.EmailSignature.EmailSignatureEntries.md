@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.EmailSignatureEntries Property (Word)
+title: EmailSignature.EmailSignatureEntries property (Word)
 keywords: vbawd10.chm165412969
 f1_keywords:
 - vbawd10.chm165412969
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.EmailSignatureEntries Property (Word)
+# EmailSignature.EmailSignatureEntries property (Word)
 
-Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object that represents the e-mail signature entries in Microsoft Word. Read-only.
+Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object that represents the email signature entries in Microsoft Word. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[EmailSignatureEntries](Word.EmailSignatureEntries.md)** object th
 
 ## Remarks
 
-An e-mail signature is standard text that ends an e-mail message, such as your name and telephone number. Use the  **EmailSignatureEntries** property to create and manage a collection of e-mail signatures that Word will use when creating e-mail messages.
+An email signature is standard text that ends an email message, such as your name and telephone number. Use the  **EmailSignatureEntries** property to create and manage a collection of email signatures that Word will use when creating email messages.
 
 
 ## Example

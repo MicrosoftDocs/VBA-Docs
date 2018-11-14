@@ -1,5 +1,5 @@
 ---
-title: Selection.EndOf Method (Word)
+title: Selection.EndOf method (Word)
 keywords: vbawd10.chm158662764
 f1_keywords:
 - vbawd10.chm158662764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.EndOf Method (Word)
+# Selection.EndOf method (Word)
 
 Moves or extends the ending character position of a range or selection to the end of the nearest specified text unit.
 

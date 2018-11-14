@@ -1,5 +1,5 @@
 ---
-title: CubeField.Delete Method (Excel)
+title: CubeField.Delete method (Excel)
 keywords: vbaxl10.chm668093
 f1_keywords:
 - vbaxl10.chm668093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Delete Method (Excel)
+# CubeField.Delete method (Excel)
 
 Deletes the object.
 

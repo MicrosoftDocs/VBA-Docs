@@ -1,5 +1,5 @@
 ---
-title: TextInput.Width Property (Word)
+title: TextInput.Width property (Word)
 keywords: vbawd10.chm153550852
 f1_keywords:
 - vbawd10.chm153550852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Width Property (Word)
+# TextInput.Width property (Word)
 
 Returns or sets the width, in points, of the specified text input field. Read/write  **Long** .
 

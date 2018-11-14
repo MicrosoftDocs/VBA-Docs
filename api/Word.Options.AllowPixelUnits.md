@@ -1,5 +1,5 @@
 ---
-title: Options.AllowPixelUnits Property (Word)
+title: Options.AllowPixelUnits property (Word)
 keywords: vbawd10.chm162988377
 f1_keywords:
 - vbawd10.chm162988377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowPixelUnits Property (Word)
+# Options.AllowPixelUnits property (Word)
 
  **True** if Microsoft Word uses pixels as the default unit of measurement for HTML features that support measurements. Read/write **Boolean** .
 

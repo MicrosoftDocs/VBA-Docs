@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Count Property (Word)
+title: ContentControlListEntries.Count property (Word)
 keywords: vbawd10.chm230948967
 f1_keywords:
 - vbawd10.chm230948967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Count Property (Word)
+# ContentControlListEntries.Count property (Word)
 
 Returns the number of items in the  **ContentControlListEntries** collection. Read-only **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WebDisableRedirections Property (Excel)
+title: QueryTable.WebDisableRedirections property (Excel)
 keywords: vbaxl10.chm518129
 f1_keywords:
 - vbaxl10.chm518129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WebDisableRedirections Property (Excel)
+# QueryTable.WebDisableRedirections property (Excel)
 
  **True** if Web query redirections are disabled for a **QueryTable** object. The default value is **False** . Read/write **Boolean** .
 

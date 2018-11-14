@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyIterationMark Property (Word)
+title: Options.MatchFuzzyIterationMark property (Word)
 keywords: vbawd10.chm162988346
 f1_keywords:
 - vbawd10.chm162988346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyIterationMark Property (Word)
+# Options.MatchFuzzyIterationMark property (Word)
 
  **True** if Microsoft Word ignores the distinction between types of repetition marks during a search. Read/write **Boolean** .
 

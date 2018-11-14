@@ -1,5 +1,5 @@
 ---
-title: WdSectionDirection Enumeration (Word)
+title: WdSectionDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSectionDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSectionDirection Enumeration (Word)
+# WdSectionDirection enumeration (Word)
 
 Specifies how Word displays the reading order and alignment for the specified sections.
 

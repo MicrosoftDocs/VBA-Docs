@@ -1,5 +1,5 @@
 ---
-title: Trendline.Forward2 Property (Word)
+title: Trendline.Forward2 property (Word)
 keywords: vbawd10.chm26348123
 f1_keywords:
 - vbawd10.chm26348123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Forward2 Property (Word)
+# Trendline.Forward2 property (Word)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write  **Double** .
 

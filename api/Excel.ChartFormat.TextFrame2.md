@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.TextFrame2 Property (Excel)
+title: ChartFormat.TextFrame2 property (Excel)
 keywords: vbaxl10.chm861079
 f1_keywords:
 - vbaxl10.chm861079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.TextFrame2 Property (Excel)
+# ChartFormat.TextFrame2 property (Excel)
 
 Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text formatting for the specified chart element. Read-only.
 

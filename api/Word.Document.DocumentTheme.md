@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentTheme Property (Word)
+title: Document.DocumentTheme property (Word)
 keywords: vbawd10.chm158007841
 f1_keywords:
 - vbawd10.chm158007841
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DocumentTheme Property (Word)
+# Document.DocumentTheme property (Word)
 
 Returns an  **OfficeTheme** object that represents the Microsoft Office theme applied to a document. Read-only.
 

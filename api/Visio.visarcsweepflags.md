@@ -15,7 +15,7 @@ Sweep flag constants used in conjunction with the  **DrawQuarterArc** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visArcSweepFlagConcave**|0|Concave arc|
 | **visArcSweepFlagConvex**|1|Convex arc|

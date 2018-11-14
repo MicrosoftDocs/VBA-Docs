@@ -1,5 +1,5 @@
 ---
-title: Options.PrintDraft Property (Word)
+title: Options.PrintDraft property (Word)
 keywords: vbawd10.chm162988319
 f1_keywords:
 - vbawd10.chm162988319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintDraft Property (Word)
+# Options.PrintDraft property (Word)
 
  **True** if Microsoft Word prints using minimal formatting. Read/write **Boolean** .
 

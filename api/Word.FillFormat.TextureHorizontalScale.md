@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureHorizontalScale Property (Word)
+title: FillFormat.TextureHorizontalScale property (Word)
 keywords: vbawd10.chm164102262
 f1_keywords:
 - vbawd10.chm164102262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureHorizontalScale Property (Word)
+# FillFormat.TextureHorizontalScale property (Word)
 
 Returns or sets a  **Single** that specifies the horizontal scaling factor for the texture fill. Read/write.
 

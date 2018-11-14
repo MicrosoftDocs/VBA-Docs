@@ -1,5 +1,5 @@
 ---
-title: Editor.Name Property (Word)
+title: Editor.Name property (Word)
 keywords: vbawd10.chm225575013
 f1_keywords:
 - vbawd10.chm225575013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.Name Property (Word)
+# Editor.Name property (Word)
 
 Returns or sets the name of the specified object. Read-only  **String** .
 

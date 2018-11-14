@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Alias Property (Word)
+title: XSLTransform.Alias property (Word)
 keywords: vbawd10.chm76742658
 f1_keywords:
 - vbawd10.chm76742658
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.Alias Property (Word)
+# XSLTransform.Alias property (Word)
 
 Returns a  **String** that represents the display name for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Tasks.Count Property (Word)
+title: Tasks.Count property (Word)
 keywords: vbawd10.chm159580161
 f1_keywords:
 - vbawd10.chm159580161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks.Count Property (Word)
+# Tasks.Count property (Word)
 
 Returns a  **Long** that represents the number of tasks in the collection. Read-only.
 

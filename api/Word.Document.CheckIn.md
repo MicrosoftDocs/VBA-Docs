@@ -1,5 +1,5 @@
 ---
-title: Document.CheckIn Method (Word)
+title: Document.CheckIn method (Word)
 keywords: vbawd10.chm158007645
 f1_keywords:
 - vbawd10.chm158007645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CheckIn Method (Word)
+# Document.CheckIn method (Word)
 
 Returns a document from a local computer to a server, and sets the local document to read-only so that it cannot be edited locally.
 

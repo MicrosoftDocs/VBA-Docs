@@ -1,5 +1,5 @@
 ---
-title: Chart.SaveChartTemplate Method (Excel)
+title: Chart.SaveChartTemplate method (Excel)
 keywords: vbaxl10.chm149181
 f1_keywords:
 - vbaxl10.chm149181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SaveChartTemplate Method (Excel)
+# Chart.SaveChartTemplate method (Excel)
 
 Saves a custom chart template to the list of available chart templates.
 

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Creator Property (Word)
+title: TickLabels.Creator property (Word)
 keywords: vbawd10.chm167051413
 f1_keywords:
 - vbawd10.chm167051413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Creator Property (Word)
+# TickLabels.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

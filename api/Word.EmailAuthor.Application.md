@@ -1,5 +1,5 @@
 ---
-title: EmailAuthor.Application Property (Word)
+title: EmailAuthor.Application property (Word)
 keywords: vbawd10.chm165086184
 f1_keywords:
 - vbawd10.chm165086184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailAuthor.Application Property (Word)
+# EmailAuthor.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

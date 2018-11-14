@@ -1,5 +1,5 @@
 ---
-title: Workbook.Password Property (Excel)
+title: Workbook.Password property (Excel)
 keywords: vbaxl10.chm199209
 f1_keywords:
 - vbaxl10.chm199209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Password Property (Excel)
+# Workbook.Password property (Excel)
 
 Returns or sets the password that must be supplied to open the specified workbook. Read/write  **String** .
 

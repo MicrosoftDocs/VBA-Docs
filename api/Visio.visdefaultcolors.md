@@ -15,7 +15,7 @@ Indices of colors in the default palette.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBlack**|0|Black|
 | **visBlue**|4|Blue|

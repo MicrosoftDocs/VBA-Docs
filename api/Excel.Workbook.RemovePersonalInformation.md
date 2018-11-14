@@ -1,5 +1,5 @@
 ---
-title: Workbook.RemovePersonalInformation Property (Excel)
+title: Workbook.RemovePersonalInformation property (Excel)
 keywords: vbaxl10.chm199202
 f1_keywords:
 - vbaxl10.chm199202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RemovePersonalInformation Property (Excel)
+# Workbook.RemovePersonalInformation property (Excel)
 
  **True** if personal information can be removed from the specified workbook. The default value is **False** . Read/write **Boolean** .
 

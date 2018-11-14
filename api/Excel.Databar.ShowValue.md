@@ -1,5 +1,5 @@
 ---
-title: Databar.ShowValue Property (Excel)
+title: Databar.ShowValue property (Excel)
 keywords: vbaxl10.chm810081
 f1_keywords:
 - vbaxl10.chm810081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.ShowValue Property (Excel)
+# Databar.ShowValue property (Excel)
 
 Returns or sets a  **Boolean** value that specifies if the value in the cell is displayed if the data bar conditional format is applied to the range.
 

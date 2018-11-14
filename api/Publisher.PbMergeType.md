@@ -20,7 +20,7 @@ Constants that specify the type of mail merge, passed to and returned by the  **
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **pbCatalogMerge**|3|Catalog merge|
-| **pbEmailMerge**|4|E-mail merge|
+| **pbEmailMerge**|4|Email merge|
 | **pbMailMerge**|2|Mail merge|
 | **pbMergeDefault**|0|Default merge|
 

@@ -1,5 +1,5 @@
 ---
-title: TextConnection.TextFileParseType Property (Excel)
+title: TextConnection.TextFileParseType property (Excel)
 keywords: vbaxl10.chm926081
 f1_keywords:
 - vbaxl10.chm926081
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.TextFileParseType Property (Excel)
+# TextConnection.TextFileParseType property (Excel)
 
-Returns or sets the column format for the data in the text file that you're importing into a query table. Read/Write [XlTextParsingType Enumeration (Excel)](Excel.XlTextParsingType.md)
+Returns or sets the column format for the data in the text file that you are importing into a query table. Read/Write [xlTextParsingType enumeration (Excel)](Excel.xlTextParsingType.md)
 
 
 ## Syntax

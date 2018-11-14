@@ -1,5 +1,5 @@
 ---
-title: Workbook.WebOptions Property (Excel)
+title: Workbook.WebOptions property (Excel)
 keywords: vbaxl10.chm199188
 f1_keywords:
 - vbaxl10.chm199188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.WebOptions Property (Excel)
+# Workbook.WebOptions property (Excel)
 
 Returns the  **[WebOptions](Excel.WebOptions.md)** collection, which contains workbook-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page. Read-only.
 

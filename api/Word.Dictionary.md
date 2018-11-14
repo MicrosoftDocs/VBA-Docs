@@ -1,5 +1,5 @@
 ---
-title: Dictionary Object (Word)
+title: Dictionary object (Word)
 keywords: vbawd10.chm2477
 f1_keywords:
 - vbawd10.chm2477
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary Object (Word)
+# Dictionary object (Word)
 
 Represents a dictionary.  **Dictionary** objects that represent custom dictionaries are members of the **[Dictionaries](Word.dictionaries.md)** collection. Other dictionary objects are returned by properties of the **[Languages](Word.languages.md)** collection; these include the **[ActiveSpellingDictionary](Word.Language.ActiveSpellingDictionary.md)** , **[ActiveGrammarDictionary](Word.Language.ActiveGrammarDictionary.md)** , **[ActiveThesaurusDictionary](Word.Language.ActiveThesaurusDictionary.md)** , and **[ActiveHyphenationDictionary](Word.Language.ActiveHyphenationDictionary.md)** properties.
 

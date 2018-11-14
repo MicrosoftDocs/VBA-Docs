@@ -1,5 +1,5 @@
 ---
-title: Document.WordOpenXML Property (Word)
+title: Document.WordOpenXML property (Word)
 keywords: vbawd10.chm158007838
 f1_keywords:
 - vbawd10.chm158007838
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.WordOpenXML Property (Word)
+# Document.WordOpenXML property (Word)
 
 Returns a  **String** that represents the flat XML format for the Word Open XML contents of the document. Read-only.
 

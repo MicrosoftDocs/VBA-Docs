@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnected Property (Excel)
+title: ConnectorFormat.BeginConnected property (Excel)
 keywords: vbaxl10.chm646077
 f1_keywords:
 - vbaxl10.chm646077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.BeginConnected Property (Excel)
+# ConnectorFormat.BeginConnected property (Excel)
 
  **True** if the beginning of the specified connector is connected to a shape. Read-only **[MsoTriState](Office.MsoTriState.md)** .
 

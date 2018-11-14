@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.PTCondition Property (Excel)
+title: IconSetCondition.PTCondition property (Excel)
 keywords: vbaxl10.chm812078
 f1_keywords:
 - vbaxl10.chm812078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.PTCondition Property (Excel)
+# IconSetCondition.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

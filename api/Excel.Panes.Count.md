@@ -1,5 +1,5 @@
 ---
-title: Panes.Count Property (Excel)
+title: Panes.Count property (Excel)
 keywords: vbaxl10.chm358073
 f1_keywords:
 - vbaxl10.chm358073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Count Property (Excel)
+# Panes.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

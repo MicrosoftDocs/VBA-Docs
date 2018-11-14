@@ -1,5 +1,5 @@
 ---
-title: TextFrame.ContainingRange Property (Word)
+title: TextFrame.ContainingRange property (Word)
 keywords: vbawd10.chm162661354
 f1_keywords:
 - vbawd10.chm162661354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.ContainingRange Property (Word)
+# TextFrame.ContainingRange property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the entire story in a series of shapes with linked text frames that the specified text frame belongs to. Read-only.
 

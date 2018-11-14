@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderCode Property (Word)
+title: LetterContent.SenderCode property (Word)
 keywords: vbawd10.chm161546370
 f1_keywords:
 - vbawd10.chm161546370
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderCode Property (Word)
+# LetterContent.SenderCode property (Word)
 
 Returns or sets the sender code. Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
 

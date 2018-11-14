@@ -1,5 +1,5 @@
 ---
-title: XMLNamespaces.Application Property (Word)
+title: XMLNamespaces.Application property (Word)
 keywords: vbawd10.chm248972264
 f1_keywords:
 - vbawd10.chm248972264
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespaces.Application Property (Word)
+# XMLNamespaces.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

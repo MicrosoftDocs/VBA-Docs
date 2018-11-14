@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Salutation Property (Word)
+title: LetterContent.Salutation property (Word)
 keywords: vbawd10.chm161546350
 f1_keywords:
 - vbawd10.chm161546350
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Salutation Property (Word)
+# LetterContent.Salutation property (Word)
 
 Returns or sets the salutation text for a letter created by the Letter Wizard. Read/write  **String** .
 

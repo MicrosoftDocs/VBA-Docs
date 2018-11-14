@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Effect Method (Excel)
+title: WorksheetFunction.Effect method (Excel)
 keywords: vbaxl10.chm137322
 f1_keywords:
 - vbaxl10.chm137322
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Effect Method (Excel)
+# WorksheetFunction.Effect method (Excel)
 
 Returns the effective annual interest rate, given the nominal annual interest rate and the number of compounding periods per year.
 

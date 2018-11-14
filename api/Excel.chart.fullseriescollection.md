@@ -22,7 +22,7 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 ## Parameters
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|VARIANT|The indexed number of the filtered out **Series** object.|
 

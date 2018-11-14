@@ -1,5 +1,5 @@
 ---
-title: Application.WindowState Property (Word)
+title: Application.WindowState property (Word)
 keywords: vbawd10.chm158335067
 f1_keywords:
 - vbawd10.chm158335067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.WindowState Property (Word)
+# Application.WindowState property (Word)
 
 Returns or sets the state of the specified document window or task window. Read/write  **WdWindowState** .
 

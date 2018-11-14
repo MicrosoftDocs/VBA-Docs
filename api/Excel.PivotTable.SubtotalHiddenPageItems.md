@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SubtotalHiddenPageItems Property (Excel)
+title: PivotTable.SubtotalHiddenPageItems property (Excel)
 keywords: vbaxl10.chm235118
 f1_keywords:
 - vbaxl10.chm235118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SubtotalHiddenPageItems Property (Excel)
+# PivotTable.SubtotalHiddenPageItems property (Excel)
 
  **True** if hidden page field items in the PivotTable report are included in row and column subtotals, block totals, and grand totals. The default value is **False** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Phonetic.Font Property (Excel)
+title: Phonetic.Font property (Excel)
 keywords: vbaxl10.chm628076
 f1_keywords:
 - vbaxl10.chm628076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetic.Font Property (Excel)
+# Phonetic.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

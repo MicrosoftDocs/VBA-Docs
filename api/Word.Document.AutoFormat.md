@@ -1,5 +1,5 @@
 ---
-title: Document.AutoFormat Method (Word)
+title: Document.AutoFormat method (Word)
 keywords: vbawd10.chm158007444
 f1_keywords:
 - vbawd10.chm158007444
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AutoFormat Method (Word)
+# Document.AutoFormat method (Word)
 
 Automatically formats a document.
 

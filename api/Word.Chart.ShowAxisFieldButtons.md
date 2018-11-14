@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAxisFieldButtons Property (Word)
+title: Chart.ShowAxisFieldButtons property (Word)
 keywords: vbawd10.chm79366942
 f1_keywords:
 - vbawd10.chm79366942
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowAxisFieldButtons Property (Word)
+# Chart.ShowAxisFieldButtons property (Word)
 
 Returns or sets whether to display axis field buttons on a PivotChart. Read/write. Depcrecated.
 

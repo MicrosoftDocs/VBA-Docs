@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyDataLabels Method (Excel)
+title: Series.ApplyDataLabels method (Excel)
 keywords: vbaxl10.chm578122
 f1_keywords:
 - vbaxl10.chm578122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyDataLabels Method (Excel)
+# Series.ApplyDataLabels method (Excel)
 
 Applies data labels to a series.
 
@@ -29,7 +29,7 @@ Applies data labels to a series.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(object).md)** objects, **True** if the series has leader lines.|
@@ -46,7 +46,7 @@ Applies data labels to a series.
 
 
 
-| **XlDataLabelsType** can be one of these **XlDataLabelsType** constants.|
+| **xlDataLabelsType** can be one of these **xlDataLabelsType** constants.|
 | **xlDataLabelsShowBubbleSizes** . The bubble size for the data label.|
 | **xlDataLabelsShowLabelAndPercent** . Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowPercent** . Percentage of the total. Available only for pie charts and doughnut charts.|

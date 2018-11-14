@@ -1,5 +1,5 @@
 ---
-title: ChartObject.RoundedCorners Property (Excel)
+title: ChartObject.RoundedCorners property (Excel)
 keywords: vbaxl10.chm494101
 f1_keywords:
 - vbaxl10.chm494101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.RoundedCorners Property (Excel)
+# ChartObject.RoundedCorners property (Excel)
 
  **True** if the embedded chart has rounded corners. Read/write **Boolean** .
 

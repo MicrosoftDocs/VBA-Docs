@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Locked Property (Excel)
+title: CellFormat.Locked property (Excel)
 keywords: vbaxl10.chm676085
 f1_keywords:
 - vbaxl10.chm676085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Locked Property (Excel)
+# CellFormat.Locked property (Excel)
 
 Returns or sets a  **Variant** value that indicates if the object is locked.
 

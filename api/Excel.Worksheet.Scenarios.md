@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Scenarios Method (Excel)
+title: Worksheet.Scenarios method (Excel)
 keywords: vbaxl10.chm175123
 f1_keywords:
 - vbaxl10.chm175123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Scenarios Method (Excel)
+# Worksheet.Scenarios method (Excel)
 
 Returns an object that represents either a single scenario (a  **[Scenario](Excel.Scenario.md)** object) or a collection of scenarios (a **[Scenarios](Excel.Scenarios.md)** object) on the worksheet.
 

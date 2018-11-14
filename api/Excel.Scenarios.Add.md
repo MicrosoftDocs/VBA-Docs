@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Add Method (Excel)
+title: Scenarios.Add method (Excel)
 keywords: vbaxl10.chm362073
 f1_keywords:
 - vbaxl10.chm362073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Add Method (Excel)
+# Scenarios.Add method (Excel)
 
 Creates a new scenario and adds it to the list of scenarios that are available for the current worksheet.
 

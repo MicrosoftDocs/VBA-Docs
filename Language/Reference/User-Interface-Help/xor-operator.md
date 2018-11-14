@@ -21,7 +21,7 @@ Used to perform a logical exclusion on two [expressions](../../Glossary/vbe-glos
 The  **Xor** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Optional; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|

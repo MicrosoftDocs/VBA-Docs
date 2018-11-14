@@ -1,5 +1,5 @@
 ---
-title: SlicerCaches.Item Property (Excel)
+title: SlicerCaches.Item property (Excel)
 keywords: vbaxl10.chm895074
 f1_keywords:
 - vbaxl10.chm895074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCaches.Item Property (Excel)
+# SlicerCaches.Item property (Excel)
 
 Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collection.
 

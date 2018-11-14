@@ -1,5 +1,5 @@
 ---
-title: Point.Select Method (Excel)
+title: Point.Select method (Excel)
 keywords: vbaxl10.chm576093
 f1_keywords:
 - vbaxl10.chm576093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Select Method (Excel)
+# Point.Select method (Excel)
 
 Selects the object.
 

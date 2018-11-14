@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Creator Property (Excel)
+title: ColorFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ColorFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Creator Property (Excel)
+# ColorFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

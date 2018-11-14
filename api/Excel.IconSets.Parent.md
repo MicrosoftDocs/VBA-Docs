@@ -1,5 +1,5 @@
 ---
-title: IconSets.Parent Property (Excel)
+title: IconSets.Parent property (Excel)
 keywords: vbaxl10.chm819075
 f1_keywords:
 - vbaxl10.chm819075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSets.Parent Property (Excel)
+# IconSets.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

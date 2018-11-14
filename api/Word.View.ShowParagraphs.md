@@ -1,5 +1,5 @@
 ---
-title: View.ShowParagraphs Property (Word)
+title: View.ShowParagraphs property (Word)
 keywords: vbawd10.chm161808401
 f1_keywords:
 - vbawd10.chm161808401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowParagraphs Property (Word)
+# View.ShowParagraphs property (Word)
 
  **True** if paragraph marks are displayed. Read/write **Boolean** .
 

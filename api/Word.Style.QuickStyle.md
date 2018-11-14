@@ -1,5 +1,5 @@
 ---
-title: Style.QuickStyle Property (Word)
+title: Style.QuickStyle property (Word)
 keywords: vbawd10.chm153878553
 f1_keywords:
 - vbawd10.chm153878553
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.QuickStyle Property (Word)
+# Style.QuickStyle property (Word)
 
 Returns or sets a  **Boolean** that represents whether the style corresponds to an available quick style. Read/write.
 

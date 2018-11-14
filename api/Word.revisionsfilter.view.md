@@ -1,5 +1,5 @@
 ---
-title: RevisionsFilter.View Property (Word)
+title: RevisionsFilter.View property (Word)
 keywords: vbawd10.chm40566785
 f1_keywords:
 - vbawd10.chm40566785
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RevisionsFilter.View Property (Word)
+# RevisionsFilter.View property (Word)
 
 Sets or returns a [WdRevisionsView](Word.WdRevisionsView.md) constant that represents the global option that specifies whether Word displays the original version of a document or the final version, which might have revisions and formatting changes applied. Read/write.
 

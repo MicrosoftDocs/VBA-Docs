@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Index Property (Excel)
+title: Worksheet.Index property (Excel)
 keywords: vbaxl10.chm174078
 f1_keywords:
 - vbaxl10.chm174078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Index Property (Excel)
+# Worksheet.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Sentences Property (Word)
+title: Document.Sentences property (Word)
 keywords: vbawd10.chm158007314
 f1_keywords:
 - vbawd10.chm158007314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Sentences Property (Word)
+# Document.Sentences property (Word)
 
 Returns a  **[Sentences](Word.sentences.md)** collection that represents all the sentences in the document. Read-only.
 

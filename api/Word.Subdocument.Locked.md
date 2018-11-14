@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Locked Property (Word)
+title: Subdocument.Locked property (Word)
 keywords: vbawd10.chm159973377
 f1_keywords:
 - vbawd10.chm159973377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Locked Property (Word)
+# Subdocument.Locked property (Word)
 
  **True** if a subdocument in a master document is locked. Read/write **Boolean.**
 

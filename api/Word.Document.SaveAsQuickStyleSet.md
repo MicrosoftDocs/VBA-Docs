@@ -1,5 +1,5 @@
 ---
-title: Document.SaveAsQuickStyleSet Method (Word)
+title: Document.SaveAsQuickStyleSet method (Word)
 keywords: vbawd10.chm158007820
 f1_keywords:
 - vbawd10.chm158007820
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SaveAsQuickStyleSet Method (Word)
+# Document.SaveAsQuickStyleSet method (Word)
 
 Saves the group of quick styles currently in use.
 

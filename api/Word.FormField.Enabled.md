@@ -1,5 +1,5 @@
 ---
-title: FormField.Enabled Property (Word)
+title: FormField.Enabled property (Word)
 keywords: vbawd10.chm153616393
 f1_keywords:
 - vbawd10.chm153616393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Enabled Property (Word)
+# FormField.Enabled property (Word)
 
  **True** if a form field is enabled. Read/write **Boolean** .
 

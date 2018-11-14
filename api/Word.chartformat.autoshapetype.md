@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.AutoShapeType Property (Word)
+title: ChartFormat.AutoShapeType property (Word)
 keywords: vbawd10.chm203030729
 f1_keywords:
 - vbawd10.chm203030729
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.AutoShapeType Property (Word)
+# ChartFormat.AutoShapeType property (Word)
 
 Returns or sets the auto shape type of the specified object. Read-write [MSOAutoShapeType](./Office.MsoAutoShapeType.md).
 

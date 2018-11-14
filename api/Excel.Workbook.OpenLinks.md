@@ -1,5 +1,5 @@
 ---
-title: Workbook.OpenLinks Method (Excel)
+title: Workbook.OpenLinks method (Excel)
 keywords: vbaxl10.chm199120
 f1_keywords:
 - vbaxl10.chm199120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.OpenLinks Method (Excel)
+# Workbook.OpenLinks method (Excel)
 
 Opens the supporting documents for a link or links.
 
@@ -31,7 +31,7 @@ Opens the supporting documents for a link or links.
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the Microsoft Excel or DDE/OLE link, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
 | _ReadOnly_|Optional| **Variant**| **True** to open documents as read-only. The default value is **False** .|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLink](Excel.XlLink.md)** that specifies the link type.|
+| _Type_|Optional| **Variant**|One of the constants of  **[xlLink](Excel.XlLink.md)** that specifies the link type.|
 
 ## Example
 

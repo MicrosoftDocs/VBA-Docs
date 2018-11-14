@@ -1,5 +1,5 @@
 ---
-title: System.VerticalResolution Property (Word)
+title: System.VerticalResolution property (Word)
 keywords: vbawd10.chm154468360
 f1_keywords:
 - vbawd10.chm154468360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.VerticalResolution Property (Word)
+# System.VerticalResolution property (Word)
 
 Returns the vertical screen resolution in pixels. Read-only  **Long** .
 

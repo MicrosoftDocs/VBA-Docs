@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.HorizontalAlignment Property (Word)
+title: AxisTitle.HorizontalAlignment property (Word)
 keywords: vbawd10.chm98238468
 f1_keywords:
 - vbawd10.chm98238468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.HorizontalAlignment Property (Word)
+# AxisTitle.HorizontalAlignment property (Word)
 
 Returns or sets the horizontal alignment for the specified object. Read/write  **Variant** .
 
@@ -25,7 +25,7 @@ Returns or sets the horizontal alignment for the specified object. Read/write  *
 
 ## Remarks
 
-The value of this property can be set to one of the following  **[XlConstants](Word.XlConstants.md)** constants:
+The value of this property can be set to one of the following  **[xlConstants](Word.XlConstants.md)** constants:
 
 
 -  **xlCenter**

@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Cut Method (Word)
+title: XMLNode.Cut method (Word)
 keywords: vbawd10.chm37748839
 f1_keywords:
 - vbawd10.chm37748839
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Cut Method (Word)
+# XMLNode.Cut method (Word)
 
 Removes the specified XML element from the document and places it on the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AllocationValue Property (Excel)
+title: PivotTable.AllocationValue property (Excel)
 keywords: vbaxl10.chm235188
 f1_keywords:
 - vbaxl10.chm235188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AllocationValue Property (Excel)
+# PivotTable.AllocationValue property (Excel)
 
 Returns or sets what value to allocate when performing what-if analysis on a PivotTable report based on an OLAP data source. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets what value to allocate when performing what-if analysis on a Piv
 
 ## Return value
 
- **[XlAllocationValue](Excel.XlAllocationValue.md)**
+ **[xlAllocationValue](Excel.XlAllocationValue.md)**
 
 
 ## Remarks

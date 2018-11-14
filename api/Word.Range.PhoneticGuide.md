@@ -1,5 +1,5 @@
 ---
-title: Range.PhoneticGuide Method (Word)
+title: Range.PhoneticGuide method (Word)
 keywords: vbawd10.chm157155552
 f1_keywords:
 - vbawd10.chm157155552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PhoneticGuide Method (Word)
+# Range.PhoneticGuide method (Word)
 
 Adds phonetic guides to the specified range.
 

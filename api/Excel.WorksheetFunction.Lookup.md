@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Lookup Method (Excel)
+title: WorksheetFunction.Lookup method (Excel)
 keywords: vbaxl10.chm137089
 f1_keywords:
 - vbaxl10.chm137089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Lookup Method (Excel)
+# WorksheetFunction.Lookup method (Excel)
 
 Returns a value either from a one-row or one-column range or from an array. The LOOKUP function has two syntax forms: the vector form and the array form.
 

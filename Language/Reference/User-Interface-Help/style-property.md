@@ -21,7 +21,7 @@ For MultiPage and TabStrip _object_. **Style** [= _fmTabStyle_ ]
 The  **Style** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmStyle_|Optional. Specifies how a user sets the value of a  **ComboBox**.|
@@ -31,7 +31,7 @@ The  **Style** property syntax has these parts:
 The settings for  _fmStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmStyleDropDownCombo_|0|The  **ComboBox** behaves as a drop-down combo box. The user can type a value in the edit region or select a value from the drop-down list (default).|
 | _fmStyleDropDownList_|2|The  **ComboBox** behaves as a list box. The user must choose a value from the list.|
@@ -39,7 +39,7 @@ The settings for  _fmStyle_ are:
 The settings for  _fmTabStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTabStyleTabs_|0|Displays tabs on the tab bar (default).|
 | _fmTabStyleButtons_|1|Displays buttons on the tab bar.|

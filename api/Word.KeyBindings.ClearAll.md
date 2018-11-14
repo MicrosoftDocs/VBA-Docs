@@ -1,5 +1,5 @@
 ---
-title: KeyBindings.ClearAll Method (Word)
+title: KeyBindings.ClearAll method (Word)
 keywords: vbawd10.chm160825446
 f1_keywords:
 - vbawd10.chm160825446
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBindings.ClearAll Method (Word)
+# KeyBindings.ClearAll method (Word)
 
 Clears all the customized key assignments and restores the original Microsoft Word shortcut key assignments.
 

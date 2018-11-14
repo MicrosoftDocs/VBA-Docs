@@ -1,5 +1,5 @@
 ---
-title: Application.EnableCancelKey Property (Word)
+title: Application.EnableCancelKey property (Word)
 keywords: vbawd10.chm158335076
 f1_keywords:
 - vbawd10.chm158335076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableCancelKey Property (Word)
+# Application.EnableCancelKey property (Word)
 
 Returns or sets the way that Word handles CTRL+BREAK user interruptions. Read/write  **WdEnableCancelKey** .
 

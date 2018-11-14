@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.SavePassword Property (Excel)
+title: OLEDBConnection.SavePassword property (Excel)
 keywords: vbaxl10.chm794090
 f1_keywords:
 - vbaxl10.chm794090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.SavePassword Property (Excel)
+# OLEDBConnection.SavePassword property (Excel)
 
  **True** if password information in an OLE DB connection string is saved in the connection string. **False** if the password is removed. Read/write **Boolean** .
 

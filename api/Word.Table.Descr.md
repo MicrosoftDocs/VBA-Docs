@@ -1,5 +1,5 @@
 ---
-title: Table.Descr Property (Word)
+title: Table.Descr property (Word)
 keywords: vbawd10.chm156303570
 f1_keywords:
 - vbawd10.chm156303570
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Descr Property (Word)
+# Table.Descr property (Word)
 
 Returns or sets a  **String** that contains a description for the specified table. Read/write.
 

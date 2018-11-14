@@ -1,5 +1,5 @@
 ---
-title: WdReferenceKind Enumeration (Word)
+title: WdReferenceKind enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReferenceKind
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdReferenceKind Enumeration (Word)
+# WdReferenceKind enumeration (Word)
 
 Specifies the information to include in a cross-reference.
 

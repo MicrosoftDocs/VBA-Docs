@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureTile Property (Excel)
+title: FillFormat.TextureTile property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureTile
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureTile Property (Excel)
+# FillFormat.TextureTile property (Excel)
 
 Returns the texture tile style for the specified fill. Read/write  **[MsoTriState](Office.MsoTriState.md)** .
 

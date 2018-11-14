@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (Word)
+title: Shapes.SelectAll method (Word)
 keywords: vbawd10.chm161415190
 f1_keywords:
 - vbawd10.chm161415190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.SelectAll Method (Word)
+# Shapes.SelectAll method (Word)
 
 Selects all the shapes in a collection of shapes.
 

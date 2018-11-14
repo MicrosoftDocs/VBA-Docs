@@ -1,5 +1,5 @@
 ---
-title: CubeField.Parent Property (Excel)
+title: CubeField.Parent property (Excel)
 keywords: vbaxl10.chm667075
 f1_keywords:
 - vbaxl10.chm667075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Parent Property (Excel)
+# CubeField.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

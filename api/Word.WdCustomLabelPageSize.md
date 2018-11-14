@@ -1,5 +1,5 @@
 ---
-title: WdCustomLabelPageSize Enumeration (Word)
+title: WdCustomLabelPageSize enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCustomLabelPageSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCustomLabelPageSize Enumeration (Word)
+# WdCustomLabelPageSize enumeration (Word)
 
 Specifies the page size for a custom mailing label.
 

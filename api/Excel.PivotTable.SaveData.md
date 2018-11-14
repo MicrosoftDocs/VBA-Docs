@@ -1,5 +1,5 @@
 ---
-title: PivotTable.SaveData Property (Excel)
+title: PivotTable.SaveData property (Excel)
 keywords: vbaxl10.chm235096
 f1_keywords:
 - vbaxl10.chm235096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.SaveData Property (Excel)
+# PivotTable.SaveData property (Excel)
 
  **True** if data for the PivotTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: System.Cursor Property (Word)
+title: System.Cursor property (Word)
 keywords: vbawd10.chm154468368
 f1_keywords:
 - vbawd10.chm154468368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.Cursor Property (Word)
+# System.Cursor property (Word)
 
 Returns or sets the state (shape) of the pointer. Can be one of the following  **WdCursorType** constants: **wdCursorIBeam** , **wdCursorNormal** , **wdCursorNorthwestArrow** , or **wdCursorWait** . Read/write **Long** .
 

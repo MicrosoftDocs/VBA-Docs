@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Creator Property (Word)
+title: LeaderLines.Creator property (Word)
 keywords: vbawd10.chm207749269
 f1_keywords:
 - vbawd10.chm207749269
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Creator Property (Word)
+# LeaderLines.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.NetworkTemplatesPath Property (Excel)
+title: Application.NetworkTemplatesPath property (Excel)
 keywords: vbaxl10.chm133173
 f1_keywords:
 - vbaxl10.chm133173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NetworkTemplatesPath Property (Excel)
+# Application.NetworkTemplatesPath property (Excel)
 
 Returns the network path where templates are stored. If the network path doesn't exist, this property returns an empty string. Read-only  **String** .
 

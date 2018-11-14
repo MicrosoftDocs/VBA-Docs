@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient.RectangleRight Property (Excel)
+title: RectangularGradient.RectangleRight property (Excel)
 keywords: vbaxl10.chm857077
 f1_keywords:
 - vbaxl10.chm857077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient.RectangleRight Property (Excel)
+# RectangularGradient.RectangleRight property (Excel)
 
 Represents the point or vector that the gradient fill converges to. Read/write
 

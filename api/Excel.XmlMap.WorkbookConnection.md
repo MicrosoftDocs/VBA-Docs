@@ -1,5 +1,5 @@
 ---
-title: XmlMap.WorkbookConnection Property (Excel)
+title: XmlMap.WorkbookConnection property (Excel)
 keywords: vbaxl10.chm754091
 f1_keywords:
 - vbaxl10.chm754091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.WorkbookConnection Property (Excel)
+# XmlMap.WorkbookConnection property (Excel)
 
 Retuns a new connection for the specified  **XMLMap** object. Read-only.
 

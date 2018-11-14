@@ -1,5 +1,5 @@
 ---
-title: Application.Worksheets Property (Excel)
+title: Application.Worksheets property (Excel)
 keywords: vbaxl10.chm132116
 f1_keywords:
 - vbaxl10.chm132116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Worksheets Property (Excel)
+# Application.Worksheets property (Excel)
 
 For an  **Application** object, returns a **[Sheets](Excel.Sheets.md)** collection that represents all the worksheets in the active workbook. For a **Workbook** object, returns a **[Sheets](Excel.Sheets.md)** collection that represents all the worksheets in the specified workbook. Read-only **Sheets** object.
 

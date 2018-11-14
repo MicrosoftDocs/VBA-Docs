@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions Object (Word)
+title: SpellingSuggestions object (Word)
 keywords: vbawd10.chm2474
 f1_keywords:
 - vbawd10.chm2474
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestions Object (Word)
+# SpellingSuggestions object (Word)
 
 A collection of  **SpellingSuggestion** objects that represent all the suggestions for a specified word or for the first word in the specified range.
 

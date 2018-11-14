@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Creator Property (Word)
+title: Trendlines.Creator property (Word)
 keywords: vbawd10.chm102367381
 f1_keywords:
 - vbawd10.chm102367381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Creator Property (Word)
+# Trendlines.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

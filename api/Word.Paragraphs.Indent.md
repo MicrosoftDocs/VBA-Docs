@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Indent Method (Word)
+title: Paragraphs.Indent method (Word)
 keywords: vbawd10.chm156762445
 f1_keywords:
 - vbawd10.chm156762445
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Indent Method (Word)
+# Paragraphs.Indent method (Word)
 
 Indents one or more paragraphs by one level.
 

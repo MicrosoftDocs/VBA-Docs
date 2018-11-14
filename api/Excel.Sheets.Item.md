@@ -1,5 +1,5 @@
 ---
-title: Sheets.Item Property (Excel)
+title: Sheets.Item property (Excel)
 keywords: vbaxl10.chm152078
 f1_keywords:
 - vbaxl10.chm152078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Item Property (Excel)
+# Sheets.Item property (Excel)
 
 Returns a single object from a collection.
 

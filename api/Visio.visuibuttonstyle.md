@@ -18,7 +18,7 @@ Constants describing the style of command bar buttons to be passed to and return
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visButtonAutomatic**|0|Default style.|
 | **visButtonCaption**|2|Text only (always).|

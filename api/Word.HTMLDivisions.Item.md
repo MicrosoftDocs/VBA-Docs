@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions.Item Method (Word)
+title: HTMLDivisions.Item method (Word)
 keywords: vbawd10.chm166199296
 f1_keywords:
 - vbawd10.chm166199296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions.Item Method (Word)
+# HTMLDivisions.Item method (Word)
 
 Returns an individual  **HTMLDivision** object in a collection.
 

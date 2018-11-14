@@ -1,5 +1,5 @@
 ---
-title: Template.JustificationMode Property (Word)
+title: Template.JustificationMode property (Word)
 keywords: vbawd10.chm157941773
 f1_keywords:
 - vbawd10.chm157941773
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.JustificationMode Property (Word)
+# Template.JustificationMode property (Word)
 
 Returns or sets the character spacing adjustment for the specified template. Read/write  **[WdJustificationMode](Word.WdJustificationMode.md)** .
 

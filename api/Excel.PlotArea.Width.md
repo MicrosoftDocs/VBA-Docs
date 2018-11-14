@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Width Property (Excel)
+title: PlotArea.Width property (Excel)
 keywords: vbaxl10.chm618083
 f1_keywords:
 - vbaxl10.chm618083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Width Property (Excel)
+# PlotArea.Width property (Excel)
 
 Returns or sets a  **Double** value that represents the width, in points, of the object.
 

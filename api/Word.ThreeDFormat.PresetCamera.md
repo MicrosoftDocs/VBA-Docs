@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetCamera Property (Word)
+title: ThreeDFormat.PresetCamera property (Word)
 keywords: vbawd10.chm164626552
 f1_keywords:
 - vbawd10.chm164626552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetCamera Property (Word)
+# ThreeDFormat.PresetCamera property (Word)
 
 Returns an  **MsoPresetCamera** constant that represents the camera presets. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Windows.CompareSideBySideWith Method (Word)
+title: Windows.CompareSideBySideWith method (Word)
 keywords: vbawd10.chm157351948
 f1_keywords:
 - vbawd10.chm157351948
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.CompareSideBySideWith Method (Word)
+# Windows.CompareSideBySideWith method (Word)
 
 Opens two windows in side by side mode. Returns a **Boolean** .
 

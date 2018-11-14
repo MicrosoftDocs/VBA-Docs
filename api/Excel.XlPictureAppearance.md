@@ -1,5 +1,5 @@
 ---
-title: XlPictureAppearance Enumeration (Excel)
+title: xlPictureAppearance enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPictureAppearance
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPictureAppearance Enumeration (Excel)
+# xlPictureAppearance enumeration (Excel)
 
 Specifies how the picture should be copied.
 

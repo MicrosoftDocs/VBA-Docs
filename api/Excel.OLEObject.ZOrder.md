@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ZOrder Property (Excel)
+title: OLEObject.ZOrder property (Excel)
 keywords: vbaxl10.chm415096
 f1_keywords:
 - vbaxl10.chm415096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.ZOrder Property (Excel)
+# OLEObject.ZOrder property (Excel)
 
 Returns the z-order position of the object. Read-only  **Long** .
 

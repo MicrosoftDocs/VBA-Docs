@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Width Property (Excel)
+title: DisplayUnitLabel.Width property (Excel)
 keywords: vbaxl10.chm673094
 f1_keywords:
 - vbaxl10.chm673094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Width Property (Excel)
+# DisplayUnitLabel.Width property (Excel)
 
 Returns the width, in points, of the object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.IgnoreUppercase Property (Word)
+title: Options.IgnoreUppercase property (Word)
 keywords: vbawd10.chm162988312
 f1_keywords:
 - vbawd10.chm162988312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.IgnoreUppercase Property (Word)
+# Options.IgnoreUppercase property (Word)
 
  **True** if words in all uppercase letters are ignored while checking spelling. Read/write **Boolean** .
 

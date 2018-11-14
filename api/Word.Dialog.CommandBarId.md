@@ -1,5 +1,5 @@
 ---
-title: Dialog.CommandBarId Property (Word)
+title: Dialog.CommandBarId property (Word)
 keywords: vbawd10.chm163085575
 f1_keywords:
 - vbawd10.chm163085575
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog.CommandBarId Property (Word)
+# Dialog.CommandBarId property (Word)
 
 Returns a  **Long** that represents the toolbar control id for a built-in Microsoft Word dialog box. Read-only.
 

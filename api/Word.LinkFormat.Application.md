@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Application Property (Word)
+title: LinkFormat.Application property (Word)
 keywords: vbawd10.chm154207208
 f1_keywords:
 - vbawd10.chm154207208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Application Property (Word)
+# LinkFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

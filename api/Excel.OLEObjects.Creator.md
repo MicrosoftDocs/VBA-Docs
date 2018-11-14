@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Creator Property (Excel)
+title: OLEObjects.Creator property (Excel)
 keywords: vbaxl10.chm418074
 f1_keywords:
 - vbaxl10.chm418074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Creator Property (Excel)
+# OLEObjects.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

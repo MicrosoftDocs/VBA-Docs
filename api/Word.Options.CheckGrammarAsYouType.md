@@ -1,5 +1,5 @@
 ---
-title: Options.CheckGrammarAsYouType Property (Word)
+title: Options.CheckGrammarAsYouType property (Word)
 keywords: vbawd10.chm162988309
 f1_keywords:
 - vbawd10.chm162988309
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CheckGrammarAsYouType Property (Word)
+# Options.CheckGrammarAsYouType property (Word)
 
  **True** if Word checks grammar and marks errors automatically as you type. Read/write **Boolean** .
 

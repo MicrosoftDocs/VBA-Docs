@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImLog2 Method (Excel)
+title: WorksheetFunction.ImLog2 method (Excel)
 keywords: vbaxl10.chm137279
 f1_keywords:
 - vbaxl10.chm137279
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImLog2 Method (Excel)
+# WorksheetFunction.ImLog2 method (Excel)
 
 Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.
 

@@ -15,7 +15,7 @@ Values returned by the  **Window.ViewFit** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFitNone**|0|No auto-fit.|
 | **visFitPage**|1|Fit whole page.|

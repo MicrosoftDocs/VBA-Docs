@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupNum Method (Excel)
+title: WorksheetFunction.CoupNum method (Excel)
 keywords: vbaxl10.chm137332
 f1_keywords:
 - vbaxl10.chm137332
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CoupNum Method (Excel)
+# WorksheetFunction.CoupNum method (Excel)
 
 Returns the number of coupons payable between the settlement date and maturity date, rounded up to the nearest whole coupon.
 

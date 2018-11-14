@@ -1,5 +1,5 @@
 ---
-title: ListColumns.Count Property (Excel)
+title: ListColumns.Count property (Excel)
 keywords: vbaxl10.chm736077
 f1_keywords:
 - vbaxl10.chm736077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumns.Count Property (Excel)
+# ListColumns.Count property (Excel)
 
 Returns an  **Integer** value that represents the number of objects in the collection.
 

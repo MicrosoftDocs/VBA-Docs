@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Delete Method (Word)
+title: ErrorBars.Delete method (Word)
 keywords: vbawd10.chm74842229
 f1_keywords:
 - vbawd10.chm74842229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Delete Method (Word)
+# ErrorBars.Delete method (Word)
 
 Deletes the object.
 

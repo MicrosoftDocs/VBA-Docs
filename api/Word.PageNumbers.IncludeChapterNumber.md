@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.IncludeChapterNumber Property (Word)
+title: PageNumbers.IncludeChapterNumber property (Word)
 keywords: vbawd10.chm159776771
 f1_keywords:
 - vbawd10.chm159776771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.IncludeChapterNumber Property (Word)
+# PageNumbers.IncludeChapterNumber property (Word)
 
  **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean** .
 

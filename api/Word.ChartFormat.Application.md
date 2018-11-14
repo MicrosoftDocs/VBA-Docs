@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Application Property (Word)
+title: ChartFormat.Application property (Word)
 keywords: vbawd10.chm203030676
 f1_keywords:
 - vbawd10.chm203030676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Application Property (Word)
+# ChartFormat.Application property (Word)
 
 When used without an object qualifier, returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application. When used with an object qualifier, returns an **Application** object that represents the creator of the specified object (you can use this property with an Automation object to return the application of that object). Read-only.
 

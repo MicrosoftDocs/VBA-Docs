@@ -1,5 +1,5 @@
 ---
-title: Document.WritePassword Property (Word)
+title: Document.WritePassword property (Word)
 keywords: vbawd10.chm158007382
 f1_keywords:
 - vbawd10.chm158007382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.WritePassword Property (Word)
+# Document.WritePassword property (Word)
 
 Sets a password for saving changes to the specified document. Write-only  **String** .
 

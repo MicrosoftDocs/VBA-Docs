@@ -1,5 +1,5 @@
 ---
-title: Window.WindowNumber Property (Word)
+title: Window.WindowNumber property (Word)
 keywords: vbawd10.chm157417490
 f1_keywords:
 - vbawd10.chm157417490
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.WindowNumber Property (Word)
+# Window.WindowNumber property (Word)
 
 Returns the window number of the document displayed in the specified window. For example, if the caption of the window is "Sales.doc:2", this property returns the number 2. Read-only  **Long** .
 

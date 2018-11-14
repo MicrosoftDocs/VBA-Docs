@@ -1,5 +1,5 @@
 ---
-title: Window.Top Property (Excel)
+title: Window.Top property (Excel)
 keywords: vbaxl10.chm356117
 f1_keywords:
 - vbaxl10.chm356117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Top Property (Excel)
+# Window.Top property (Excel)
 
 Returns or sets a  **Double** value that represents the distance, in points, from the top edge of the window to the top edge of the usable area (below the menus, any toolbars docked at the top, and the formula bar).
 

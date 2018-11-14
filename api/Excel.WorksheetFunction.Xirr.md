@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Xirr Method (Excel)
+title: WorksheetFunction.Xirr method (Excel)
 keywords: vbaxl10.chm137306
 f1_keywords:
 - vbaxl10.chm137306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Xirr Method (Excel)
+# WorksheetFunction.Xirr method (Excel)
 
 Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic. To calculate the internal rate of return for a series of periodic cash flows, use the IRR function.
 

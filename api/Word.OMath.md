@@ -1,5 +1,5 @@
 ---
-title: OMath Object (Word)
+title: OMath object (Word)
 keywords: vbawd10.chm2691
 f1_keywords:
 - vbawd10.chm2691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath Object (Word)
+# OMath object (Word)
 
 Represents an equation.  **OMath** objects are members of the **OMaths** collection.
 

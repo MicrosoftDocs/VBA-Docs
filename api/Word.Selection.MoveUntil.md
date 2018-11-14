@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveUntil Method (Word)
+title: Selection.MoveUntil method (Word)
 keywords: vbawd10.chm158662771
 f1_keywords:
 - vbawd10.chm158662771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveUntil Method (Word)
+# Selection.MoveUntil method (Word)
 
 Moves the specified selection until one of the specified characters is found in the document.
 

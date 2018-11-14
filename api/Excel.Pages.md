@@ -1,5 +1,5 @@
 ---
-title: Pages Object (Excel)
+title: Pages object (Excel)
 keywords: vbaxl10.chm831072
 f1_keywords:
 - vbaxl10.chm831072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages Object (Excel)
+# Pages object (Excel)
 
 A collection of pages in a document. Use the  **Pages** collection and the related objects and properties for programmatically defining page layout in a workbook.
 

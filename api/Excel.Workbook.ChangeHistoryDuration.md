@@ -1,5 +1,5 @@
 ---
-title: Workbook.ChangeHistoryDuration Property (Excel)
+title: Workbook.ChangeHistoryDuration property (Excel)
 keywords: vbaxl10.chm199080
 f1_keywords:
 - vbaxl10.chm199080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ChangeHistoryDuration Property (Excel)
+# Workbook.ChangeHistoryDuration property (Excel)
 
 Returns or sets the number of days shown in the shared workbook's change history. Read/write  **Long** .
 

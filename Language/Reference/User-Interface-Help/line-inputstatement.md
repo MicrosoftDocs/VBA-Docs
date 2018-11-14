@@ -20,7 +20,7 @@ Reads a single line from an open sequential file and assigns it to a [String](..
 The  **Line Input #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _varname_|Required. Valid [Variant](../../Glossary/vbe-glossary.md#variant-data-type) or **String** variable name.|

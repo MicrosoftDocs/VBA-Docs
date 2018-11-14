@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Shapes Property (Excel)
+title: Worksheet.Shapes property (Excel)
 keywords: vbaxl10.chm174098
 f1_keywords:
 - vbaxl10.chm174098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Shapes Property (Excel)
+# Worksheet.Shapes property (Excel)
 
 Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shapes on the worksheet. Read-only.
 

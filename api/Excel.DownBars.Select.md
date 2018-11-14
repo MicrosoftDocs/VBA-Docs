@@ -1,5 +1,5 @@
 ---
-title: DownBars.Select Method (Excel)
+title: DownBars.Select method (Excel)
 keywords: vbaxl10.chm610075
 f1_keywords:
 - vbaxl10.chm610075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Select Method (Excel)
+# DownBars.Select method (Excel)
 
 Selects the object.
 

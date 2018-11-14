@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.VisibleSlicerItemsList Property (Excel)
+title: SlicerCacheLevel.VisibleSlicerItemsList property (Excel)
 keywords: vbaxl10.chm901079
 f1_keywords:
 - vbaxl10.chm901079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.VisibleSlicerItemsList Property (Excel)
+# SlicerCacheLevel.VisibleSlicerItemsList property (Excel)
 
 Returns the list of slicer items that are currently included in the slicer filter. Read-only
 

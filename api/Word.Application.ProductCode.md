@@ -1,5 +1,5 @@
 ---
-title: Application.ProductCode Method (Word)
+title: Application.ProductCode method (Word)
 keywords: vbawd10.chm158335380
 f1_keywords:
 - vbawd10.chm158335380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ProductCode Method (Word)
+# Application.ProductCode method (Word)
 
 Returns the Microsoft Word globally unique identifier (GUID) as a  **String** .
 

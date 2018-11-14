@@ -112,7 +112,7 @@ This is not a good thing, especially with tables that contain hundreds or thousa
 
 ## The UNION operator
 
-Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and e-mail addresses by combining both tables.
+Although the **[UNION](../../../api/overview/Access.md)** operator, also known as a union query, is not technically a join, it is included here because it does involve combining data from multiple sources of data into one result set, which is similar to some types of joins. The **UNION** operator is used to splice together data from tables, **SELECT** statements, or queries, while leaving out any duplicate rows. Both data sources must have the same number of fields, but the fields do not have to be the same data type. Suppose that you have an Employees table that has the same structure as the Customers table, and you want to build a list of names and email addresses by combining both tables.
 
 
 ```sql

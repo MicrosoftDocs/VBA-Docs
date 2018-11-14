@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddLabel Method (Excel)
+title: Shapes.AddLabel method (Excel)
 keywords: vbaxl10.chm638080
 f1_keywords:
 - vbaxl10.chm638080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddLabel Method (Excel)
+# Shapes.AddLabel method (Excel)
 
 Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents the new label.
 

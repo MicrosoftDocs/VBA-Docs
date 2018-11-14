@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions.Creator Property (Word)
+title: SpellingSuggestions.Creator property (Word)
 keywords: vbawd10.chm162137065
 f1_keywords:
 - vbawd10.chm162137065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestions.Creator Property (Word)
+# SpellingSuggestions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

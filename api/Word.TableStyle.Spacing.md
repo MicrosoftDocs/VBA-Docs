@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Spacing Property (Word)
+title: TableStyle.Spacing property (Word)
 keywords: vbawd10.chm244776970
 f1_keywords:
 - vbawd10.chm244776970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Spacing Property (Word)
+# TableStyle.Spacing property (Word)
 
 Returns or sets the spacing (in points) between the cells in a table style. Read/write  **Single** .
 

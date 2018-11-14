@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Application Property (Word)
+title: LineFormat.Application property (Word)
 keywords: vbawd10.chm164234216
 f1_keywords:
 - vbawd10.chm164234216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Application Property (Word)
+# LineFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

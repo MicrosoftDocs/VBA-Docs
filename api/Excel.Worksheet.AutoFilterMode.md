@@ -1,5 +1,5 @@
 ---
-title: Worksheet.AutoFilterMode Property (Excel)
+title: Worksheet.AutoFilterMode property (Excel)
 keywords: vbaxl10.chm175075
 f1_keywords:
 - vbaxl10.chm175075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.AutoFilterMode Property (Excel)
+# Worksheet.AutoFilterMode property (Excel)
 
  **True** if the AutoFilter drop-down arrows are currently displayed on the sheet. This property is independent of the **FilterMode** property. Read/write **Boolean** .
 

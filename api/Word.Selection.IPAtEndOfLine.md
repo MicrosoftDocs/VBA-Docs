@@ -1,5 +1,5 @@
 ---
-title: Selection.IPAtEndOfLine Property (Word)
+title: Selection.IPAtEndOfLine property (Word)
 keywords: vbawd10.chm158663061
 f1_keywords:
 - vbawd10.chm158663061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.IPAtEndOfLine Property (Word)
+# Selection.IPAtEndOfLine property (Word)
 
  **True** if the insertion point is at the end of a line that wraps to the next line. Read-only **Boolean** .
 

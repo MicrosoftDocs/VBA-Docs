@@ -1,5 +1,5 @@
 ---
-title: Options.SmartParaSelection Property (Word)
+title: Options.SmartParaSelection property (Word)
 keywords: vbawd10.chm162988484
 f1_keywords:
 - vbawd10.chm162988484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.SmartParaSelection Property (Word)
+# Options.SmartParaSelection property (Word)
 
  **True** for Microsoft Word to include the paragraph mark in a selection when selecting most or all of a paragraph. Read/write **Boolean** .
 

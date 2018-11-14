@@ -1,14 +1,14 @@
 ---
-title: Model.CreateModelWorkbookConnection Method (Excel)
+title: Model.CreateModelWorkbookConnection method (Excel)
 ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
 ms.date: 06/08/2017
 ---
 
 
-# Model.CreateModelWorkbookConnection Method (Excel)
+# Model.CreateModelWorkbookConnection method (Excel)
 
-Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object of type[ModelConnection Object (Excel)](Excel.modelconnection.md). 
+Returns a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object of type[ModelConnection object (Excel)](Excel.modelconnection.md). 
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) objec
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ModelTable_|Required|VARIANT|Either a model table name or a model table object.|
 

@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontItalic Property (Word)
+title: TextEffectFormat.FontItalic property (Word)
 keywords: vbawd10.chm164560998
 f1_keywords:
 - vbawd10.chm164560998
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontItalic Property (Word)
+# TextEffectFormat.FontItalic property (Word)
 
 Italicizes WordArt text. Read/write  **MsoTriState** .
 

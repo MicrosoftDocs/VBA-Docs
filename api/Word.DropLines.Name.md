@@ -1,5 +1,5 @@
 ---
-title: DropLines.Name Property (Word)
+title: DropLines.Name property (Word)
 keywords: vbawd10.chm104988672
 f1_keywords:
 - vbawd10.chm104988672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Name Property (Word)
+# DropLines.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

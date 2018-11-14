@@ -1,5 +1,5 @@
 ---
-title: WebOptions.Application Property (Word)
+title: WebOptions.Application property (Word)
 keywords: vbawd10.chm165938152
 f1_keywords:
 - vbawd10.chm165938152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.Application Property (Word)
+# WebOptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

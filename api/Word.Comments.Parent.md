@@ -1,5 +1,5 @@
 ---
-title: Comments.Parent Property (Word)
+title: Comments.Parent property (Word)
 keywords: vbawd10.chm155190250
 f1_keywords:
 - vbawd10.chm155190250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments.Parent Property (Word)
+# Comments.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Comments** object.
 

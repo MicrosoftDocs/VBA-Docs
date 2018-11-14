@@ -1,5 +1,5 @@
 ---
-title: VPageBreak.Location Property (Excel)
+title: VPageBreak.Location property (Excel)
 keywords: vbaxl10.chm156078
 f1_keywords:
 - vbaxl10.chm156078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreak.Location Property (Excel)
+# VPageBreak.Location property (Excel)
 
 Returns the cell (a **Range** object) that defines the page-break location. Vertical page breaks are aligned with the left edge of the location cell. Read-only **[Range](Excel.Range(object).md)** .
 

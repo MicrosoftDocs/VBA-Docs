@@ -1,5 +1,5 @@
 ---
-title: Application.OrganizerRename Method (Word)
+title: Application.OrganizerRename method (Word)
 keywords: vbawd10.chm158335296
 f1_keywords:
 - vbawd10.chm158335296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OrganizerRename Method (Word)
+# Application.OrganizerRename method (Word)
 
 Renames the specified style, AutoText entry, toolbar, or macro project item in a document or template.
 

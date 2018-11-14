@@ -1,5 +1,5 @@
 ---
-title: WdEmailHTMLFidelity Enumeration (Word)
+title: WdEmailHTMLFidelity enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEmailHTMLFidelity
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEmailHTMLFidelity Enumeration (Word)
+# WdEmailHTMLFidelity enumeration (Word)
 
 Specifies whether to leave or remove HTML tags not required for display.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Tables Property (Word)
+title: Document.Tables property (Word)
 keywords: vbawd10.chm158007302
 f1_keywords:
 - vbawd10.chm158007302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Tables Property (Word)
+# Document.Tables property (Word)
 
 Returns a  **[Table](Word.Table.md)** collection that represents all the tables in the specified document. Read-only.
 

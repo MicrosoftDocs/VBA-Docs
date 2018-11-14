@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.VerticalAnchor Property (Excel)
+title: TextFrame2.VerticalAnchor property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.VerticalAnchor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.VerticalAnchor Property (Excel)
+# TextFrame2.VerticalAnchor property (Excel)
 
 Returns or sets the vertical anchor type for the specified text. Read/write  **[MsoVerticalAnchor](./Office.MsoVerticalAnchor.md)** .
 

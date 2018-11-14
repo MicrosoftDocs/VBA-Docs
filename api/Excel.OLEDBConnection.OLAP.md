@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.OLAP Property (Excel)
+title: OLEDBConnection.OLAP property (Excel)
 keywords: vbaxl10.chm794093
 f1_keywords:
 - vbaxl10.chm794093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.OLAP Property (Excel)
+# OLEDBConnection.OLAP property (Excel)
 
 Returns  **True** if the OLE DB connection is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
 

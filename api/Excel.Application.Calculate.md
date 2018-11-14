@@ -1,5 +1,5 @@
 ---
-title: Application.Calculate Method (Excel)
+title: Application.Calculate method (Excel)
 keywords: vbaxl10.chm183084
 f1_keywords:
 - vbaxl10.chm183084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Calculate Method (Excel)
+# Application.Calculate method (Excel)
 
 Calculates all open workbooks, a specific worksheet in a workbook, or a specified range of cells on a worksheet, as shown in the following table.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchStyle Method (Word)
+title: Chart.ClearToMatchStyle method (Word)
 keywords: vbawd10.chm79366562
 f1_keywords:
 - vbawd10.chm79366562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ClearToMatchStyle Method (Word)
+# Chart.ClearToMatchStyle method (Word)
 
 Clears the chart elements formatting to automatic.
 

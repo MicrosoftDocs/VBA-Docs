@@ -1,5 +1,5 @@
 ---
-title: TableObject.Creator Property (Excel)
+title: TableObject.Creator property (Excel)
 keywords: vbaxl10.chm915074
 f1_keywords:
 - vbaxl10.chm915074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.Creator Property (Excel)
+# TableObject.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [TableObject Object (Excel)](Excel.tableobject.md) object.
+ _expression_ A variable that represents a [TableObject object (Excel)](Excel.tableobject.md) object.
 
 
 ## Remarks

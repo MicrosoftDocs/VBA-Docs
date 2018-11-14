@@ -1,5 +1,5 @@
 ---
-title: OMathScrSubSup.Parent Property (Word)
+title: OMathScrSubSup.Parent property (Word)
 keywords: vbawd10.chm181665894
 f1_keywords:
 - vbawd10.chm181665894
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrSubSup.Parent Property (Word)
+# OMathScrSubSup.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathScrSubSup** object.
 

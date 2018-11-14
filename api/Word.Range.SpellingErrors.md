@@ -1,5 +1,5 @@
 ---
-title: Range.SpellingErrors Property (Word)
+title: Range.SpellingErrors property (Word)
 keywords: vbawd10.chm157155644
 f1_keywords:
 - vbawd10.chm157155644
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SpellingErrors Property (Word)
+# Range.SpellingErrors property (Word)
 
 Returns a  **ProofreadingErrors** collection that represents the words identified as spelling errors in the specified range. Read-only.
 

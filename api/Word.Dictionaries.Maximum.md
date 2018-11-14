@@ -1,5 +1,5 @@
 ---
-title: Dictionaries.Maximum Property (Word)
+title: Dictionaries.Maximum property (Word)
 keywords: vbawd10.chm162267138
 f1_keywords:
 - vbawd10.chm162267138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionaries.Maximum Property (Word)
+# Dictionaries.Maximum property (Word)
 
 Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long** .
 

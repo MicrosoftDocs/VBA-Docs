@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Border Property (Word)
+title: CalloutFormat.Border property (Word)
 keywords: vbawd10.chm163905640
 f1_keywords:
 - vbawd10.chm163905640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Border Property (Word)
+# CalloutFormat.Border property (Word)
 
 Returns or sets whether the text in the specified callout is surrounded by a border. Read/write  **MsoTriState** .
 

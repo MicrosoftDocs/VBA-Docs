@@ -1,5 +1,5 @@
 ---
-title: PivotCache.ADOConnection Property (Excel)
+title: PivotCache.ADOConnection property (Excel)
 keywords: vbaxl10.chm227097
 f1_keywords:
 - vbaxl10.chm227097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.ADOConnection Property (Excel)
+# PivotCache.ADOConnection property (Excel)
 
 Returns an  **ADO Connection** object if the PivotTable cache is connected to an OLE DB data source. The **ADOConnection** property exposes the Microsoft Excel connection to the data provider, allowing the user to write code within the context of the same session that Excel is using with ADO (relational source) or ADO MD (OLAP source). Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.Previous Property (Word)
+title: Window.Previous property (Word)
 keywords: vbawd10.chm157417489
 f1_keywords:
 - vbawd10.chm157417489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Previous Property (Word)
+# Window.Previous property (Word)
 
 Returns the previous document window in the collection open document windows. Read-only.
 

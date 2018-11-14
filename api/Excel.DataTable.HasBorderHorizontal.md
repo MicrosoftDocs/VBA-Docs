@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderHorizontal Property (Excel)
+title: DataTable.HasBorderHorizontal property (Excel)
 keywords: vbaxl10.chm626074
 f1_keywords:
 - vbaxl10.chm626074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.HasBorderHorizontal Property (Excel)
+# DataTable.HasBorderHorizontal property (Excel)
 
  **True** if the chart data table has horizontal cell borders. Read/write **Boolean** .
 

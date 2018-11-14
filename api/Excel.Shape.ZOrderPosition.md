@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrderPosition Property (Excel)
+title: Shape.ZOrderPosition property (Excel)
 keywords: vbaxl10.chm636116
 f1_keywords:
 - vbaxl10.chm636116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ZOrderPosition Property (Excel)
+# Shape.ZOrderPosition property (Excel)
 
 Returns the position of the specified shape in the z-order. Read-only  **Long** .Read-only
 

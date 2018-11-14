@@ -1,5 +1,5 @@
 ---
-title: Application.MouseAvailable Property (Word)
+title: Application.MouseAvailable property (Word)
 keywords: vbawd10.chm158335013
 f1_keywords:
 - vbawd10.chm158335013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MouseAvailable Property (Word)
+# Application.MouseAvailable property (Word)
 
  **True** if there is a mouse available for the system. Read-only **Boolean** .
 

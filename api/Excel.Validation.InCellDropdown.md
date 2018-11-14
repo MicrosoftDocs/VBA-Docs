@@ -1,5 +1,5 @@
 ---
-title: Validation.InCellDropdown Property (Excel)
+title: Validation.InCellDropdown property (Excel)
 keywords: vbaxl10.chm532077
 f1_keywords:
 - vbaxl10.chm532077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.InCellDropdown Property (Excel)
+# Validation.InCellDropdown property (Excel)
 
  **True** if data validation displays a drop-down list that contains acceptable values. Read/write **Boolean** .
 

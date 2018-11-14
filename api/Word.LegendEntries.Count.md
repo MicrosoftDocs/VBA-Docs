@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Count Property (Word)
+title: LegendEntries.Count property (Word)
 keywords: vbawd10.chm6815862
 f1_keywords:
 - vbawd10.chm6815862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries.Count Property (Word)
+# LegendEntries.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

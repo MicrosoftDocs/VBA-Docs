@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.UserDict Property (Excel)
+title: SpellingOptions.UserDict property (Excel)
 keywords: vbaxl10.chm717074
 f1_keywords:
 - vbaxl10.chm717074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.UserDict Property (Excel)
+# SpellingOptions.UserDict property (Excel)
 
 Instructs Microsoft Excel to create a custom dictionary to which new words can be added to, when performing spelling checks on a worksheet. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Italic Property (Word)
+title: ChartFont.Italic property (Word)
 keywords: vbawd10.chm255918090
 f1_keywords:
 - vbawd10.chm255918090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Italic Property (Word)
+# ChartFont.Italic property (Word)
 
  **True** if the font style is italic. Read/write **Boolean** .
 

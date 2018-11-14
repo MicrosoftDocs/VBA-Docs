@@ -1,5 +1,5 @@
 ---
-title: WdDocumentMedium Enumeration (Word)
+title: WdDocumentMedium enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocumentMedium
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocumentMedium Enumeration (Word)
+# WdDocumentMedium enumeration (Word)
 
 Specifies the type of document to which you are applying a theme.
 
@@ -17,6 +17,6 @@ Specifies the type of document to which you are applying a theme.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdDocument**|1|Document.|
-| **wdEmailMessage**|0|E-mail message.|
+| **wdEmailMessage**|0|Email message.|
 | **wdWebPage**|2|Web page.|
 

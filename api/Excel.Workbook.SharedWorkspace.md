@@ -1,5 +1,5 @@
 ---
-title: Workbook.SharedWorkspace Property (Excel)
+title: Workbook.SharedWorkspace property (Excel)
 keywords: vbaxl10.chm199221
 f1_keywords:
 - vbaxl10.chm199221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SharedWorkspace Property (Excel)
+# Workbook.SharedWorkspace property (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.BackgroundStyle Property (Excel)
+title: Shape.BackgroundStyle property (Excel)
 keywords: vbaxl10.chm636150
 f1_keywords:
 - vbaxl10.chm636150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.BackgroundStyle Property (Excel)
+# Shape.BackgroundStyle property (Excel)
 
 Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md)** .
 

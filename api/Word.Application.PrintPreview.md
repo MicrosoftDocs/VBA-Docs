@@ -1,5 +1,5 @@
 ---
-title: Application.PrintPreview Property (Word)
+title: Application.PrintPreview property (Word)
 keywords: vbawd10.chm158335003
 f1_keywords:
 - vbawd10.chm158335003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PrintPreview Property (Word)
+# Application.PrintPreview property (Word)
 
  **True** if print preview is the current view. Read/write **Boolean** .
 

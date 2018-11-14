@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.CancelRefresh Method (Excel)
+title: ODBCConnection.CancelRefresh method (Excel)
 keywords: vbaxl10.chm796074
 f1_keywords:
 - vbaxl10.chm796074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.CancelRefresh Method (Excel)
+# ODBCConnection.CancelRefresh method (Excel)
 
 Cancels all refresh operations in progress for the specified ODBC connection.
 

@@ -1,5 +1,5 @@
 ---
-title: List.SingleListTemplate Property (Word)
+title: List.SingleListTemplate property (Word)
 keywords: vbawd10.chm160563203
 f1_keywords:
 - vbawd10.chm160563203
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.SingleListTemplate Property (Word)
+# List.SingleListTemplate property (Word)
 
  **True** if the entire list uses the same list template. Read-only **Boolean** .
 

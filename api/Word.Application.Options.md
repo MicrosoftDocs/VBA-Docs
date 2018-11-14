@@ -1,5 +1,5 @@
 ---
-title: Application.Options Property (Word)
+title: Application.Options property (Word)
 keywords: vbawd10.chm158335069
 f1_keywords:
 - vbawd10.chm158335069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Options Property (Word)
+# Application.Options property (Word)
 
 Returns an  **[Options](Word.Options.md)** object that represents application settings in Microsoft Word.
 

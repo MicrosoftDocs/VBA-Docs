@@ -1,5 +1,5 @@
 ---
-title: WdUnderline Enumeration (Word)
+title: WdUnderline enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdUnderline
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdUnderline Enumeration (Word)
+# WdUnderline enumeration (Word)
 
 Specifies the type of underline to apply.
 

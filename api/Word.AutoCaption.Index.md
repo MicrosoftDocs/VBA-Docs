@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.Index Property (Word)
+title: AutoCaption.Index property (Word)
 keywords: vbawd10.chm159055874
 f1_keywords:
 - vbawd10.chm159055874
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaption.Index Property (Word)
+# AutoCaption.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

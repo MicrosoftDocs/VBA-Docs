@@ -1,5 +1,5 @@
 ---
-title: Font.Engrave Property (Word)
+title: Font.Engrave property (Word)
 keywords: vbawd10.chm156369046
 f1_keywords:
 - vbawd10.chm156369046
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Engrave Property (Word)
+# Font.Engrave property (Word)
 
  **True** if the font is formatted as engraved. Read/write **Long** .
 

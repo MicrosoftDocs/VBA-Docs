@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp.Application Property (Word)
+title: OMathLimUpp.Application property (Word)
 keywords: vbawd10.chm113639524
 f1_keywords:
 - vbawd10.chm113639524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp.Application Property (Word)
+# OMathLimUpp.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

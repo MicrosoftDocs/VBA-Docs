@@ -1,5 +1,5 @@
 ---
-title: QueryTable.AdjustColumnWidth Property (Excel)
+title: QueryTable.AdjustColumnWidth property (Excel)
 keywords: vbaxl10.chm518112
 f1_keywords:
 - vbaxl10.chm518112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.AdjustColumnWidth Property (Excel)
+# QueryTable.AdjustColumnWidth property (Excel)
 
  **True** if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. **False** if the column widths are not automatically adjusted with each refresh. The default value is **True** . Read/write **Boolean** .
 

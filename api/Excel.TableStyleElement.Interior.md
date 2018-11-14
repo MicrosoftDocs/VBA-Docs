@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.Interior Property (Excel)
+title: TableStyleElement.Interior property (Excel)
 keywords: vbaxl10.chm835074
 f1_keywords:
 - vbaxl10.chm835074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.Interior Property (Excel)
+# TableStyleElement.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object. Read-only.
 

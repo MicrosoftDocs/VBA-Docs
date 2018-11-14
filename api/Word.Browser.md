@@ -1,5 +1,5 @@
 ---
-title: Browser Object (Word)
+title: Browser object (Word)
 keywords: vbawd10.chm2350
 f1_keywords:
 - vbawd10.chm2350
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser Object (Word)
+# Browser object (Word)
 
 Represents the browser tool used to move the insertion point to objects in a document. This tool is composed of the three buttons at the bottom of the vertical scroll bar.
 

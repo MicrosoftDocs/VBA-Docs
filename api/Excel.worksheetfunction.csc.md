@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Csc Method (Excel)
+title: WorksheetFunction.Csc method (Excel)
 keywords: vbaxl10.chm137425
 f1_keywords:
 - vbaxl10.chm137425
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Csc Method (Excel)
+# WorksheetFunction.Csc method (Excel)
 
 Returns the cosecant of an angle.
 
@@ -18,14 +18,14 @@ Returns the cosecant of an angle.
 
  _expression_. `Csc`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The angle in radians for which you want the cosecant.|
 

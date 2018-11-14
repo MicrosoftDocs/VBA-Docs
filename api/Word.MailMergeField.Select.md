@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Select Method (Word)
+title: MailMergeField.Select method (Word)
 keywords: vbawd10.chm153026559
 f1_keywords:
 - vbawd10.chm153026559
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Select Method (Word)
+# MailMergeField.Select method (Word)
 
 Selects the specified mail merge field.
 

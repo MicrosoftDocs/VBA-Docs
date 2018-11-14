@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.LightAngle Property (Excel)
+title: ThreeDFormat.LightAngle property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.LightAngle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.LightAngle Property (Excel)
+# ThreeDFormat.LightAngle property (Excel)
 
 Returns or sets the angle of the extrusion lights set on a  **ThreeDFormat** object. Read/write **Single** .
 

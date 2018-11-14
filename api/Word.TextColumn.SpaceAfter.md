@@ -1,5 +1,5 @@
 ---
-title: TextColumn.SpaceAfter Property (Word)
+title: TextColumn.SpaceAfter property (Word)
 ms.prod: word
 api_name:
 - Word.TextColumn.SpaceAfter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn.SpaceAfter Property (Word)
+# TextColumn.SpaceAfter property (Word)
 
 Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single** .
 

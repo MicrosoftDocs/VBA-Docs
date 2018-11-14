@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.LeftRelative Property (Word)
+title: ShapeRange.LeftRelative property (Word)
 keywords: vbawd10.chm162857160
 f1_keywords:
 - vbawd10.chm162857160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.LeftRelative Property (Word)
+# ShapeRange.LeftRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative left position of a range of shapes. Read/write.
 

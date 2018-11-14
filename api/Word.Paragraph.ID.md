@@ -1,5 +1,5 @@
 ---
-title: Paragraph.ID Property (Word)
+title: Paragraph.ID property (Word)
 keywords: vbawd10.chm156696780
 f1_keywords:
 - vbawd10.chm156696780
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.ID Property (Word)
+# Paragraph.ID property (Word)
 
 Returns or sets the identifying label for the specified object when the current document is saved as a Web page. Read/write  **String** .
 

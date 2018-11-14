@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowTotals Property (Excel)
+title: ListObject.ShowTotals property (Excel)
 keywords: vbaxl10.chm734092
 f1_keywords:
 - vbaxl10.chm734092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowTotals Property (Excel)
+# ListObject.ShowTotals property (Excel)
 
 Gets or sets a  **Boolean** to indicate whether the Total row is visible. Read/write **Boolean** .
 

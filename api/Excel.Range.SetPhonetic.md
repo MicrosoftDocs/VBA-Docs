@@ -1,5 +1,5 @@
 ---
-title: Range.SetPhonetic Method (Excel)
+title: Range.SetPhonetic method (Excel)
 keywords: vbaxl10.chm144230
 f1_keywords:
 - vbaxl10.chm144230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SetPhonetic Method (Excel)
+# Range.SetPhonetic method (Excel)
 
 Creates  **[Phonetic](Excel.Phonetic.md)** objects for all the cells in the specified range.
 

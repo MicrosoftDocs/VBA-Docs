@@ -1,5 +1,5 @@
 ---
-title: Application.DecimalSeparator Property (Excel)
+title: Application.DecimalSeparator property (Excel)
 keywords: vbaxl10.chm133288
 f1_keywords:
 - vbaxl10.chm133288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DecimalSeparator Property (Excel)
+# Application.DecimalSeparator property (Excel)
 
 Sets or returns the character used for the decimal separator as a  **String** . Read/write.
 

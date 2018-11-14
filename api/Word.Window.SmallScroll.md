@@ -1,5 +1,5 @@
 ---
-title: Window.SmallScroll Method (Word)
+title: Window.SmallScroll method (Word)
 keywords: vbawd10.chm157417576
 f1_keywords:
 - vbawd10.chm157417576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SmallScroll Method (Word)
+# Window.SmallScroll method (Word)
 
 Scrolls a window or pane by the specified number of lines.
 

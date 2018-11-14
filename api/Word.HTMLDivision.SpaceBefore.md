@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.SpaceBefore Property (Word)
+title: HTMLDivision.SpaceBefore property (Word)
 keywords: vbawd10.chm166133765
 f1_keywords:
 - vbawd10.chm166133765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.SpaceBefore Property (Word)
+# HTMLDivision.SpaceBefore property (Word)
 
 Returns or sets the spacing (in points) before the specified HTML DIV element. Read/write  **Single** .
 

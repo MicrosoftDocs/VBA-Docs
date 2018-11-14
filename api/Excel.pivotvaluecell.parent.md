@@ -1,5 +1,5 @@
 ---
-title: PivotValueCell.Parent Property (Excel)
+title: PivotValueCell.Parent property (Excel)
 keywords: vbaxl10.chm917075
 f1_keywords:
 - vbaxl10.chm917075
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotValueCell.Parent Property (Excel)
+# PivotValueCell.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object.
+ _expression_ A variable that represents a [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object.
 
 
 ## Property value

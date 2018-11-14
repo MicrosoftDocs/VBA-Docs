@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.RadarAxisLabels Property (Word)
+title: ChartGroup.RadarAxisLabels property (Word)
 keywords: vbawd10.chm263454744
 f1_keywords:
 - vbawd10.chm263454744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.RadarAxisLabels Property (Word)
+# ChartGroup.RadarAxisLabels property (Word)
 
 Returns the radar axis labels for the specified chart group. Read-only  **[TickLabels](Word.TickLabels.md)** .
 

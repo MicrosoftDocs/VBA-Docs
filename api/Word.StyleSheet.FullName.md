@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.FullName Property (Word)
+title: StyleSheet.FullName property (Word)
 keywords: vbawd10.chm166658049
 f1_keywords:
 - vbawd10.chm166658049
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.FullName Property (Word)
+# StyleSheet.FullName property (Word)
 
 Specifies the name of a cascading style sheet, including the drive or Web path. Read-only  **String** .
 

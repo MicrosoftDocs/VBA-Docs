@@ -1,5 +1,5 @@
 ---
-title: Trendline.ClearFormats Method (Word)
+title: Trendline.ClearFormats method (Word)
 keywords: vbawd10.chm26345584
 f1_keywords:
 - vbawd10.chm26345584
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.ClearFormats Method (Word)
+# Trendline.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

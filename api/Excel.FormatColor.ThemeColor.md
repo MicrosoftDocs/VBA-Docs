@@ -1,5 +1,5 @@
 ---
-title: FormatColor.ThemeColor Property (Excel)
+title: FormatColor.ThemeColor property (Excel)
 keywords: vbaxl10.chm802075
 f1_keywords:
 - vbaxl10.chm802075
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor.ThemeColor Property (Excel)
+# FormatColor.ThemeColor property (Excel)
 
-Returns or sets one of the constants of the  **[XlThemeColor](Excel.XlThemeColor.md)** enumeration, specifying the theme color used in a threshold of a data bar or color scale conditional format.
+Returns or sets one of the constants of the  **[xlThemeColor](Excel.XlThemeColor.md)** enumeration, specifying the theme color used in a threshold of a data bar or color scale conditional format.
 
 
 ## Syntax

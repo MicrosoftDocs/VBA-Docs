@@ -1,5 +1,5 @@
 ---
-title: FillFormat.BackColor Property (Word)
+title: FillFormat.BackColor property (Word)
 keywords: vbawd10.chm164102244
 f1_keywords:
 - vbawd10.chm164102244
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.BackColor Property (Word)
+# FillFormat.BackColor property (Word)
 
 Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents the background color for the fill Read/write.
 

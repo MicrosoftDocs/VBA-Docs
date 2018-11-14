@@ -1,5 +1,5 @@
 ---
-title: Document.Type Property (Word)
+title: Document.Type property (Word)
 keywords: vbawd10.chm158007306
 f1_keywords:
 - vbawd10.chm158007306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Type Property (Word)
+# Document.Type property (Word)
 
 Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)** .
 

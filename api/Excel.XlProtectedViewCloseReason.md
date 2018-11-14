@@ -1,5 +1,5 @@
 ---
-title: XlProtectedViewCloseReason Enumeration (Excel)
+title: xlProtectedViewCloseReason enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlProtectedViewCloseReason
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlProtectedViewCloseReason Enumeration (Excel)
+# xlProtectedViewCloseReason enumeration (Excel)
 
 Specifies how the  **Protected View** window was closed.
 

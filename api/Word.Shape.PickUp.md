@@ -1,5 +1,5 @@
 ---
-title: Shape.PickUp Method (Word)
+title: Shape.PickUp method (Word)
 keywords: vbawd10.chm161480721
 f1_keywords:
 - vbawd10.chm161480721
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.PickUp Method (Word)
+# Shape.PickUp method (Word)
 
 Copies the formatting of the specified shape.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.EnableRefresh Property (Excel)
+title: PivotCache.EnableRefresh property (Excel)
 keywords: vbaxl10.chm227075
 f1_keywords:
 - vbaxl10.chm227075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.EnableRefresh Property (Excel)
+# PivotCache.EnableRefresh property (Excel)
 
  **True** if the PivotTable cache or query table can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
 

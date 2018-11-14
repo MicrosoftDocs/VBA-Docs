@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Parent Property (Excel)
+title: CellFormat.Parent property (Excel)
 keywords: vbaxl10.chm675075
 f1_keywords:
 - vbaxl10.chm675075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Parent Property (Excel)
+# CellFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

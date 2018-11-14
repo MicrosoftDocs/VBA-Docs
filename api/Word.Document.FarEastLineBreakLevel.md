@@ -1,5 +1,5 @@
 ---
-title: Document.FarEastLineBreakLevel Property (Word)
+title: Document.FarEastLineBreakLevel property (Word)
 keywords: vbawd10.chm158007607
 f1_keywords:
 - vbawd10.chm158007607
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FarEastLineBreakLevel Property (Word)
+# Document.FarEastLineBreakLevel property (Word)
 
 Returns or sets a  **WdFarEastLineBreakLevel** that represents the line break control level for the specified document. Read/write.
 

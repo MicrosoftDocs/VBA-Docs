@@ -1,5 +1,5 @@
 ---
-title: Zooms.Parent Property (Word)
+title: Zooms.Parent property (Word)
 keywords: vbawd10.chm161940458
 f1_keywords:
 - vbawd10.chm161940458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zooms.Parent Property (Word)
+# Zooms.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Zooms** object.
 

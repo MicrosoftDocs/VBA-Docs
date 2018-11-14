@@ -1,5 +1,5 @@
 ---
-title: PivotField.ChildItems Property (Excel)
+title: PivotField.ChildItems property (Excel)
 keywords: vbaxl10.chm240076
 f1_keywords:
 - vbaxl10.chm240076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ChildItems Property (Excel)
+# PivotField.ChildItems property (Excel)
 
 Returns an object that represents either a single PivotTable item (a  **[PivotItem](Excel.PivotItem.md)** object) or a collection of all the items (a **[PivotItems](Excel.PivotItems.md)** object) that are group children in the specified field, or children of the specified item. Read-only.
 

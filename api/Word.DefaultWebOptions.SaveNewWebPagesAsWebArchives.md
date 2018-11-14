@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Word)
+title: DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Word)
 keywords: vbawd10.chm165871634
 f1_keywords:
 - vbawd10.chm165871634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.SaveNewWebPagesAsWebArchives Property (Word)
+# DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Word)
 
  **True** for Microsoft Word to save new Web pages in the Single File Web Page (formerly known as Web Archive) format. Read/write **Boolean** .
 

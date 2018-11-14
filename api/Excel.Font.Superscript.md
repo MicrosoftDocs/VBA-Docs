@@ -1,5 +1,5 @@
 ---
-title: Font.Superscript Property (Excel)
+title: Font.Superscript property (Excel)
 keywords: vbaxl10.chm559085
 f1_keywords:
 - vbaxl10.chm559085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Superscript Property (Excel)
+# Font.Superscript property (Excel)
 
  **True** if the font is formatted as superscript; **False** by default. Read/write **Variant** .
 

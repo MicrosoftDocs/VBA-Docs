@@ -1,5 +1,5 @@
 ---
-title: WdOrientation Enumeration (Word)
+title: WdOrientation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOrientation Enumeration (Word)
+# WdOrientation enumeration (Word)
 
 Specifies a page layout orientation.
 

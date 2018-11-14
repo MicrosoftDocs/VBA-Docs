@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginConnectionSite Property (Excel)
+title: ConnectorFormat.BeginConnectionSite property (Excel)
 keywords: vbaxl10.chm646079
 f1_keywords:
 - vbaxl10.chm646079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.BeginConnectionSite Property (Excel)
+# ConnectorFormat.BeginConnectionSite property (Excel)
 
 Returns an integer that specifies the connection site that the beginning of a connector is connected to. Read-only  **Long** .
 

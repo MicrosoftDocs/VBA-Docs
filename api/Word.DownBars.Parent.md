@@ -1,5 +1,5 @@
 ---
-title: DownBars.Parent Property (Word)
+title: DownBars.Parent property (Word)
 keywords: vbawd10.chm107151510
 f1_keywords:
 - vbawd10.chm107151510
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Parent Property (Word)
+# DownBars.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

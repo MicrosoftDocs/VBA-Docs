@@ -1,5 +1,5 @@
 ---
-title: Rows.WrapAroundText Property (Word)
+title: Rows.WrapAroundText property (Word)
 keywords: vbawd10.chm155975692
 f1_keywords:
 - vbawd10.chm155975692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.WrapAroundText Property (Word)
+# Rows.WrapAroundText property (Word)
 
 Returns or sets whether text should wrap around the specified rows. Read/write  **Long** .
 

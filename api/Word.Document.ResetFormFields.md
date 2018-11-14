@@ -1,5 +1,5 @@
 ---
-title: Document.ResetFormFields Method (Word)
+title: Document.ResetFormFields method (Word)
 keywords: vbawd10.chm158007671
 f1_keywords:
 - vbawd10.chm158007671
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ResetFormFields Method (Word)
+# Document.ResetFormFields method (Word)
 
 Clears all form fields in a document, preparing the form to be filled in again.
 

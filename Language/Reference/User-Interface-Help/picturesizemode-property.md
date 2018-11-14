@@ -23,7 +23,7 @@ _object_. **PictureSizeMode** [= _fmPictureSizeMode_ ]
 The  **PictureSizeMode** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmPictureSizeMode_|Optional. The action to take if the picture and the form or page that contains it are not the same size.|
@@ -32,7 +32,7 @@ The  **PictureSizeMode** property syntax has these parts:
 The settings for  _fmPictureSizeMode_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmPictureSizeModeClip_|0|Crops any part of the picture that is larger than the form or page (default).|
 | _fmPictureSizeModeStretch_|1|Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction.|

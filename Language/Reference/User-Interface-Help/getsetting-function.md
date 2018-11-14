@@ -19,7 +19,7 @@ Returns a key setting value from an application's entry in the Windows [registry
 
 The **GetSetting** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_appname_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of the application or project whose key setting is requested. On the Macintosh, this is the filename of the initialization file in the Preferences folder in the System folder.|
 |**_section_**|Required. String expression containing the name of the section where the key setting is found.|

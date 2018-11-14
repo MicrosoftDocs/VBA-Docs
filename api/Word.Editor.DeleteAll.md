@@ -1,5 +1,5 @@
 ---
-title: Editor.DeleteAll Method (Word)
+title: Editor.DeleteAll method (Word)
 keywords: vbawd10.chm225575413
 f1_keywords:
 - vbawd10.chm225575413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.DeleteAll Method (Word)
+# Editor.DeleteAll method (Word)
 
 Deletes all editing permissions in a document for a specific user.
 

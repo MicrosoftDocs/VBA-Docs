@@ -1,5 +1,5 @@
 ---
-title: XlTickLabelPosition Enumeration (Excel)
+title: xlTickLabelPosition enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTickLabelPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTickLabelPosition Enumeration (Excel)
+# xlTickLabelPosition enumeration (Excel)
 
 Specifies the position of tick-mark labels on the specified axis.
 

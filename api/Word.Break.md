@@ -1,5 +1,5 @@
 ---
-title: Break Object (Word)
+title: Break object (Word)
 keywords: vbawd10.chm3057
 f1_keywords:
 - vbawd10.chm3057
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Break Object (Word)
+# Break object (Word)
 
 Represents individual page, column, and section breaks in a page. Use the  **Break** object and the related methods and properties for programmatically defining page layout in a document.
 

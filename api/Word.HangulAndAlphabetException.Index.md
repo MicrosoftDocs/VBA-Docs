@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException.Index Property (Word)
+title: HangulAndAlphabetException.Index property (Word)
 keywords: vbawd10.chm164757505
 f1_keywords:
 - vbawd10.chm164757505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetException.Index Property (Word)
+# HangulAndAlphabetException.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

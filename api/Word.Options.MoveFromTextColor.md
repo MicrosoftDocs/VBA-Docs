@@ -1,5 +1,5 @@
 ---
-title: Options.MoveFromTextColor Property (Word)
+title: Options.MoveFromTextColor property (Word)
 keywords: vbawd10.chm162988519
 f1_keywords:
 - vbawd10.chm162988519
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MoveFromTextColor Property (Word)
+# Options.MoveFromTextColor property (Word)
 
 Returns or sets a  **[WdColorIndex](Word.WdColorIndex.md)** constant that represents the color of moved text. Read/write.
 

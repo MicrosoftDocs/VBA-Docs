@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaLocal Property (Word)
+title: DataLabel.FormulaLocal property (Word)
 keywords: vbawd10.chm233900017
 f1_keywords:
 - vbawd10.chm233900017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.FormulaLocal Property (Word)
+# DataLabel.FormulaLocal property (Word)
 
 Returns or sets the formula for the object, using A1-style references in the language of the user. Read/write  **String** .
 

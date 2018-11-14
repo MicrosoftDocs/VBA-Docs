@@ -1,5 +1,5 @@
 ---
-title: Window.Index Property (Word)
+title: Window.Index property (Word)
 keywords: vbawd10.chm157417500
 f1_keywords:
 - vbawd10.chm157417500
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Index Property (Word)
+# Window.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyPunctuation Property (Word)
+title: Options.MatchFuzzyPunctuation property (Word)
 keywords: vbawd10.chm162988357
 f1_keywords:
 - vbawd10.chm162988357
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyPunctuation Property (Word)
+# Options.MatchFuzzyPunctuation property (Word)
 
  **True** if Microsoft Word ignores the distinction between types of punctuation marks during a search. Read/write **Boolean** .
 

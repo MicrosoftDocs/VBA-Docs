@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (Word)
+title: ShapeRange.Shadow property (Word)
 keywords: vbawd10.chm162857079
 f1_keywords:
 - vbawd10.chm162857079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Shadow Property (Word)
+# ShapeRange.Shadow property (Word)
 
 Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape.
 

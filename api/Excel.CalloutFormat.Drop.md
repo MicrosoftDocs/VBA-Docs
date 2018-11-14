@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Drop Property (Excel)
+title: CalloutFormat.Drop property (Excel)
 keywords: vbaxl10.chm104011
 f1_keywords:
 - vbaxl10.chm104011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Drop Property (Excel)
+# CalloutFormat.Drop property (Excel)
 
 For callouts with an explicitly set drop value, this property returns the vertical distance (in points) from the edge of the text bounding box to the place where the callout line attaches to the text box. Read-only  **Single** .
 

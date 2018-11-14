@@ -1,5 +1,5 @@
 ---
-title: Columns.Select Method (Word)
+title: Columns.Select method (Word)
 keywords: vbawd10.chm155910343
 f1_keywords:
 - vbawd10.chm155910343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Select Method (Word)
+# Columns.Select method (Word)
 
 Selects the specified table columns.
 

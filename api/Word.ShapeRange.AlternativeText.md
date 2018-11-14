@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AlternativeText Property (Word)
+title: ShapeRange.AlternativeText property (Word)
 keywords: vbawd10.chm162857091
 f1_keywords:
 - vbawd10.chm162857091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.AlternativeText Property (Word)
+# ShapeRange.AlternativeText property (Word)
 
 Returns or sets the alternative text associated with a shape in a Web page. Read/write  **String** .
 

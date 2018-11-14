@@ -1,5 +1,5 @@
 ---
-title: ListRow.Parent Property (Excel)
+title: ListRow.Parent property (Excel)
 keywords: vbaxl10.chm741075
 f1_keywords:
 - vbaxl10.chm741075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRow.Parent Property (Excel)
+# ListRow.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Frameset.FrameScrollbarType Property (Word)
+title: Frameset.FrameScrollbarType property (Word)
 keywords: vbawd10.chm165806110
 f1_keywords:
 - vbawd10.chm165806110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FrameScrollbarType Property (Word)
+# Frameset.FrameScrollbarType property (Word)
 
 Returns or sets when scroll bars are available for the specified frame when viewing its frames page in a Web browser. Read/write  **WdScrollbarType** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartGroups Method (Excel)
+title: Chart.ChartGroups method (Excel)
 keywords: vbaxl10.chm149087
 f1_keywords:
 - vbaxl10.chm149087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartGroups Method (Excel)
+# Chart.ChartGroups method (Excel)
 
 Returns an object that represents either a single chart group (a  **[ChartGroup](Excel.ChartGroup(object).md)** object) or a collection of all the chart groups in the chart (a **[ChartGroups](Excel.ChartGroups(object).md)** object). The returned collection includes every type of group.
 

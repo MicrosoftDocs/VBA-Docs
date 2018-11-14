@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Parent Property (Word)
+title: TablesOfFigures.Parent property (Word)
 keywords: vbawd10.chm153224170
 f1_keywords:
 - vbawd10.chm153224170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Parent Property (Word)
+# TablesOfFigures.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TablesOfFigures** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.FindNext Method (Excel)
+title: Range.FindNext method (Excel)
 keywords: vbaxl10.chm144129
 f1_keywords:
 - vbaxl10.chm144129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FindNext Method (Excel)
+# Range.FindNext method (Excel)
 
 Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the next cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. This does not affect the selection or the active cell.
 

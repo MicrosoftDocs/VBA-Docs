@@ -1,5 +1,5 @@
 ---
-title: WdWrapTypeMerged Enumeration (Word)
+title: WdWrapTypeMerged enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWrapTypeMerged
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWrapTypeMerged Enumeration (Word)
+# WdWrapTypeMerged enumeration (Word)
 
 Specifies how Microsoft Word wraps text around pictures.
 

@@ -15,7 +15,7 @@ Range constants to be used with the  **Document.PrintOut** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPrintAll**|0|Print all foreground pages.|
 | **visPrintCurrentPage**|2|Print current page.|

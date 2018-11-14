@@ -1,5 +1,5 @@
 ---
-title: QueryTable.MaintainConnection Property (Excel)
+title: QueryTable.MaintainConnection property (Excel)
 keywords: vbaxl10.chm518117
 f1_keywords:
 - vbaxl10.chm518117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.MaintainConnection Property (Excel)
+# QueryTable.MaintainConnection property (Excel)
 
  **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True** . Read/write **Boolean** .
 

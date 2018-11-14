@@ -1,5 +1,5 @@
 ---
-title: SlicerPivotTables.Parent Property (Excel)
+title: SlicerPivotTables.Parent property (Excel)
 keywords: vbaxl10.chm910075
 f1_keywords:
 - vbaxl10.chm910075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerPivotTables.Parent Property (Excel)
+# SlicerPivotTables.Parent property (Excel)
 
 Returns the  **[SlicerCache](Excel.SlicerCache.md)** object that is the parent of the specified **[SlicerPivotTables](Excel.SlicerPivotTables.md)** collection. Read-only.
 

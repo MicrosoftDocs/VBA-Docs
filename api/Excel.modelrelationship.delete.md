@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship.Delete Method (Excel)
+title: ModelRelationship.Delete method (Excel)
 keywords: vbaxl10.chm938078
 f1_keywords:
 - vbaxl10.chm938078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship.Delete Method (Excel)
+# ModelRelationship.Delete method (Excel)
 
 Deletes the relationship.
 
@@ -18,7 +18,7 @@ Deletes the relationship.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Return value

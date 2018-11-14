@@ -1,5 +1,5 @@
 ---
-title: Selection.Extend Method (Word)
+title: Selection.Extend method (Word)
 keywords: vbawd10.chm158662956
 f1_keywords:
 - vbawd10.chm158662956
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Extend Method (Word)
+# Selection.Extend method (Word)
 
 Turns on extend mode, or if extend mode is already on, extends the selection to the next larger unit of text.
 

@@ -1,5 +1,5 @@
 ---
-title: List.Creator Property (Word)
+title: List.Creator property (Word)
 keywords: vbawd10.chm160564201
 f1_keywords:
 - vbawd10.chm160564201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.Creator Property (Word)
+# List.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

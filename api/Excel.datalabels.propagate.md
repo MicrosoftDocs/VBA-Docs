@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Propagate Method (Excel)
+title: DataLabels.Propagate method (Excel)
 keywords: vbaxl10.chm584110
 f1_keywords:
 - vbaxl10.chm584110
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Propagate Method (Excel)
+# DataLabels.Propagate method (Excel)
 
 Enables you to take the contents and formatting of a single data label and apply it to every other data label on the series.
 
@@ -25,7 +25,7 @@ Enables you to take the contents and formatting of a single data label and apply
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number of the data label to propagate.|
 

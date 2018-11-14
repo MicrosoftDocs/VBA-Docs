@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.CanvasCropRight Method (Word)
+title: ShapeRange.CanvasCropRight method (Word)
 keywords: vbawd10.chm162857102
 f1_keywords:
 - vbawd10.chm162857102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.CanvasCropRight Method (Word)
+# ShapeRange.CanvasCropRight method (Word)
 
 Crops a percentage of the width of a drawing canvas from the right side of the canvas.
 

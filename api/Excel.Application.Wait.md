@@ -1,5 +1,5 @@
 ---
-title: Application.Wait Method (Excel)
+title: Application.Wait method (Excel)
 keywords: vbaxl10.chm133242
 f1_keywords:
 - vbaxl10.chm133242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Wait Method (Excel)
+# Application.Wait method (Excel)
 
 Pauses a running macro until a specified time. Returns  **True** if the specified time has arrived.
 

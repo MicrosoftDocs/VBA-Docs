@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.MeasureGroup Property (Excel)
+title: CalculatedMember.MeasureGroup property (Excel)
 keywords: vbaxl10.chm686085
 f1_keywords:
 - vbaxl10.chm686085
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.MeasureGroup Property (Excel)
+# CalculatedMember.MeasureGroup property (Excel)
 
 Returns the associated measure group.  **String** Read-only
 

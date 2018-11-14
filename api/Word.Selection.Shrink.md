@@ -1,5 +1,5 @@
 ---
-title: Selection.Shrink Method (Word)
+title: Selection.Shrink method (Word)
 keywords: vbawd10.chm158662957
 f1_keywords:
 - vbawd10.chm158662957
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Shrink Method (Word)
+# Selection.Shrink method (Word)
 
 Shrinks the selection to the next smaller unit of text.
 

@@ -25,7 +25,7 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path for the export.|
 | _FixedFormatType_|Required|**PpFixedFormatType**|The format to which the slides should be exported.|

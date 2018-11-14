@@ -1,5 +1,5 @@
 ---
-title: Revision.Type Property (Word)
+title: Revision.Type property (Word)
 keywords: vbawd10.chm159449092
 f1_keywords:
 - vbawd10.chm159449092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Type Property (Word)
+# Revision.Type property (Word)
 
 Returns the revision type. Read-only  **[WdRevisionType](Word.WdRevisionType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom Object (Word)
+title: OMathPhantom object (Word)
 keywords: vbawd10.chm1345
 f1_keywords:
 - vbawd10.chm1345
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom Object (Word)
+# OMathPhantom object (Word)
 
 Represents a phantom object, which has two primary uses: (1) adding the spacing of the phantom base without displaying that base or (2) suppressing part of the glyph from spacing considerations.
 

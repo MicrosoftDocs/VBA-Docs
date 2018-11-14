@@ -1,5 +1,5 @@
 ---
-title: Application.NextLetter Method (Word)
+title: Application.NextLetter method (Word)
 keywords: vbawd10.chm158335327
 f1_keywords:
 - vbawd10.chm158335327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NextLetter Method (Word)
+# Application.NextLetter method (Word)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about the  **NextLetter** method of the **Application** object, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

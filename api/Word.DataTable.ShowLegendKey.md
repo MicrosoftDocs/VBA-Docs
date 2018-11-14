@@ -1,5 +1,5 @@
 ---
-title: DataTable.ShowLegendKey Property (Word)
+title: DataTable.ShowLegendKey property (Word)
 keywords: vbawd10.chm46399488
 f1_keywords:
 - vbawd10.chm46399488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.ShowLegendKey Property (Word)
+# DataTable.ShowLegendKey property (Word)
 
  **True** if the data label legend key is visible. Read/write **Boolean** .
 

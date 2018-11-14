@@ -1,5 +1,5 @@
 ---
-title: WdFootnoteLocation Enumeration (Word)
+title: WdFootnoteLocation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFootnoteLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFootnoteLocation Enumeration (Word)
+# WdFootnoteLocation enumeration (Word)
 
 Specifies the position of footnotes.
 

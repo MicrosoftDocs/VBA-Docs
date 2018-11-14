@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.DefaultLaserTray Property (Word)
+title: MailingLabel.DefaultLaserTray property (Word)
 keywords: vbawd10.chm152502276
 f1_keywords:
 - vbawd10.chm152502276
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.DefaultLaserTray Property (Word)
+# MailingLabel.DefaultLaserTray property (Word)
 
 Returns or sets the default paper tray that contains sheets of mailing labels. Read/write  **WdPaperTray** .
 

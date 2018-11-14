@@ -1,12 +1,12 @@
 ---
-title: Fields Object (Word)
+title: Fields object (Word)
 ms.prod: word
 ms.assetid: c79065bb-ba29-22fd-a9d7-90bb10550035
 ms.date: 06/08/2017
 ---
 
 
-# Fields Object (Word)
+# Fields object (Word)
 
 A collection of  **Field** objects that represent all the fields in a selection, range, or document.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.Name Property (Excel)
+title: ModelMeasure.Name property (Excel)
 keywords: vbaxl10.chm978073
 f1_keywords:
 - vbaxl10.chm978073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.Name Property (Excel)
+# ModelMeasure.Name property (Excel)
 
 The name of the model measure. Read/write  **String**.
 

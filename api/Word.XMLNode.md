@@ -1,5 +1,5 @@
 ---
-title: XMLNode Object (Word)
+title: XMLNode object (Word)
 keywords: vbawd10.chm576
 f1_keywords:
 - vbawd10.chm576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode Object (Word)
+# XMLNode object (Word)
 
 Represents a single XML element applied to a document. 
 

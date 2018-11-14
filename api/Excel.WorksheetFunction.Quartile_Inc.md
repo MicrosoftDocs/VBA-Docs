@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Quartile_Inc Method (Excel)
+title: WorksheetFunction.Quartile_Inc method (Excel)
 keywords: vbaxl10.chm137378
 f1_keywords:
 - vbaxl10.chm137378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Quartile_Inc Method (Excel)
+# WorksheetFunction.Quartile_Inc method (Excel)
 
 Returns the quartile of a data set based on percentile values from 0..1, inclusive. Quartiles often are used in sales and survey data to divide populations into groups. For example, you can use QUARTILE_INC to find the top 25 percent of incomes in a population.
 

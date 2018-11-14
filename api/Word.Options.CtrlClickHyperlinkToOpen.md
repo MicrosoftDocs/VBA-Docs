@@ -1,5 +1,5 @@
 ---
-title: Options.CtrlClickHyperlinkToOpen Property (Word)
+title: Options.CtrlClickHyperlinkToOpen property (Word)
 keywords: vbawd10.chm162988467
 f1_keywords:
 - vbawd10.chm162988467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CtrlClickHyperlinkToOpen Property (Word)
+# Options.CtrlClickHyperlinkToOpen property (Word)
 
  **True** if Microsoft Word requires holding down the CTRL key while clicking to open a hyperlink. Read/write **Boolean** .
 

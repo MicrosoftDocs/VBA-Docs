@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsType Property (Excel)
+title: ChartGroup.BinsType property (Excel)
 keywords: vbaxl10.chm568103
 f1_keywords:
 - vbaxl10.chm568103
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ChartGroup.BinsType Property (Excel)
+# ChartGroup.BinsType property (Excel)
 
 Specifies how the horizontal axis of the histogram chart is formatted, by bins type. Read/write [XlBinsType](Excel.xlbinstype.md).
 

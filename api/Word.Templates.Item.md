@@ -1,5 +1,5 @@
 ---
-title: Templates.Item Method (Word)
+title: Templates.Item method (Word)
 keywords: vbawd10.chm161611776
 f1_keywords:
 - vbawd10.chm161611776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Templates.Item Method (Word)
+# Templates.Item method (Word)
 
 Returns an individual  **Template** object in a collection.
 

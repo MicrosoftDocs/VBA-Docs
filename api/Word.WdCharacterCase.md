@@ -1,5 +1,5 @@
 ---
-title: WdCharacterCase Enumeration (Word)
+title: WdCharacterCase enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCharacterCase
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCharacterCase Enumeration (Word)
+# WdCharacterCase enumeration (Word)
 
 Specifies the case of the text in the specified range.
 

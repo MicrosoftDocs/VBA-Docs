@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CoupDaysNc Method (Excel)
+title: WorksheetFunction.CoupDaysNc method (Excel)
 keywords: vbaxl10.chm137330
 f1_keywords:
 - vbaxl10.chm137330
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CoupDaysNc Method (Excel)
+# WorksheetFunction.CoupDaysNc method (Excel)
 
 Returns the number of days from the settlement date to the next coupon date.
 

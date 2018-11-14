@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Select Method (Excel)
+title: PlotArea.Select method (Excel)
 keywords: vbaxl10.chm618075
 f1_keywords:
 - vbaxl10.chm618075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Select Method (Excel)
+# PlotArea.Select method (Excel)
 
 Selects the object.
 

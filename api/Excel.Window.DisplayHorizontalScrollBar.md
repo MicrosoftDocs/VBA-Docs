@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayHorizontalScrollBar Property (Excel)
+title: Window.DisplayHorizontalScrollBar property (Excel)
 keywords: vbaxl10.chm356085
 f1_keywords:
 - vbaxl10.chm356085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayHorizontalScrollBar Property (Excel)
+# Window.DisplayHorizontalScrollBar property (Excel)
 
  **True** if the horizontal scroll bar is displayed. Read/write **Boolean** .
 

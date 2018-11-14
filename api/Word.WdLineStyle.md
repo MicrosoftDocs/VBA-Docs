@@ -1,5 +1,5 @@
 ---
-title: WdLineStyle Enumeration (Word)
+title: WdLineStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLineStyle Enumeration (Word)
+# WdLineStyle enumeration (Word)
 
 Specifies the border style for an object.
 

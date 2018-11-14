@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Text Property (Excel)
+title: HeaderFooter.Text property (Excel)
 keywords: vbaxl10.chm829073
 f1_keywords:
 - vbaxl10.chm829073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Text Property (Excel)
+# HeaderFooter.Text property (Excel)
 
 Returns or sets a  **Text** object that represents text included in the specified header or footer. Read/write.
 

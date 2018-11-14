@@ -28,7 +28,7 @@ You can set this property by using the query's property sheet or Data Access Obj
 
 ## Remarks
 
-When you're using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
+When you are using an ODBC database, such as Microsoft SQL Server, there may be delays due to network traffic or heavy use of the ODBC server. The **ODBCTimeout** property lets you specify how long Microsoft Access waits for a network connection before a time-out error occurs.
 
 ## See also
 

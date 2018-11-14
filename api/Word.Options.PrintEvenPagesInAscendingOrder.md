@@ -1,5 +1,5 @@
 ---
-title: Options.PrintEvenPagesInAscendingOrder Property (Word)
+title: Options.PrintEvenPagesInAscendingOrder property (Word)
 keywords: vbawd10.chm162988363
 f1_keywords:
 - vbawd10.chm162988363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintEvenPagesInAscendingOrder Property (Word)
+# Options.PrintEvenPagesInAscendingOrder property (Word)
 
  **True** if Microsoft Word prints even pages in ascending order during manual duplex printing. Read/write **Boolean** .
 

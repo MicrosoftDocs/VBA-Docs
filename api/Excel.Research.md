@@ -1,5 +1,5 @@
 ---
-title: Research Object (Excel)
+title: Research object (Excel)
 keywords: vbaxl10.chm848072
 f1_keywords:
 - vbaxl10.chm848072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research Object (Excel)
+# Research object (Excel)
 
 Represents the controls of a  **Research** query.
 

@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddShape Method (Word)
+title: CanvasShapes.AddShape method (Word)
 keywords: vbawd10.chm7536657
 f1_keywords:
 - vbawd10.chm7536657
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddShape Method (Word)
+# CanvasShapes.AddShape method (Word)
 
 Adds an AutoShape to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the AutoShape.
 

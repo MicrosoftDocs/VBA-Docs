@@ -1,5 +1,5 @@
 ---
-title: Template.BuildingBlockTypes Property (Word)
+title: Template.BuildingBlockTypes property (Word)
 keywords: vbawd10.chm157941780
 f1_keywords:
 - vbawd10.chm157941780
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.BuildingBlockTypes Property (Word)
+# Template.BuildingBlockTypes property (Word)
 
 Returns a  **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that represents the collection of building block types that are contained in a template. Read-only.
 

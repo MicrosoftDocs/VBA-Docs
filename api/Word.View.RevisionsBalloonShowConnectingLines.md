@@ -1,5 +1,5 @@
 ---
-title: View.RevisionsBalloonShowConnectingLines Property (Word)
+title: View.RevisionsBalloonShowConnectingLines property (Word)
 keywords: vbawd10.chm161808428
 f1_keywords:
 - vbawd10.chm161808428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.RevisionsBalloonShowConnectingLines Property (Word)
+# View.RevisionsBalloonShowConnectingLines property (Word)
 
  **True** for Microsoft Word to display connecting lines from the text to the revision and comment balloons. Read/write **Boolean** .
 

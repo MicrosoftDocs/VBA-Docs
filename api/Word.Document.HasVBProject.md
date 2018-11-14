@@ -1,5 +1,5 @@
 ---
-title: Document.HasVBProject Property (Word)
+title: Document.HasVBProject property (Word)
 keywords: vbawd10.chm158007844
 f1_keywords:
 - vbawd10.chm158007844
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.HasVBProject Property (Word)
+# Document.HasVBProject property (Word)
 
 Returns a  **Boolean** that represents whether a document has an attached Microsoft Visual Basic for Applications project. Read-only.
 

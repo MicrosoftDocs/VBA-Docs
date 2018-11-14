@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.SelectAll Method (Word)
+title: CanvasShapes.SelectAll method (Word)
 keywords: vbawd10.chm7536662
 f1_keywords:
 - vbawd10.chm7536662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.SelectAll Method (Word)
+# CanvasShapes.SelectAll method (Word)
 
 Selects all the shapes in a canvas.
 

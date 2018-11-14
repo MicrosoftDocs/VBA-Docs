@@ -1,5 +1,5 @@
 ---
-title: ModuleView.Application Property (Excel)
+title: ModuleView.Application property (Excel)
 keywords: vbaxl10.chm783073
 f1_keywords:
 - vbaxl10.chm783073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModuleView.Application Property (Excel)
+# ModuleView.Application property (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

@@ -1,18 +1,16 @@
 ---
-title: XlAllocationMethod Enumeration (Excel)
+title: xlAllocationMethod enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlAllocationMethod
+- Excel.xlAllocationMethod
 ms.assetid: ade163bf-81d2-f633-323a-603b7c96e867
 ms.date: 06/08/2017
 ---
 
 
-# XlAllocationMethod Enumeration (Excel)
+# xlAllocationMethod enumeration (Excel)
 
 Specifies the method to use to allocate values when performing what-if analysis on a PivotTable report based on an OLAP data source.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -21,6 +19,6 @@ Specifies the method to use to allocate values when performing what-if analysis 
 
 ## Remarks
 
-If the  **[AllocationMethod](Excel.PivotTable.AllocationMethod.md)** property is set to **xlWeightedAllocation** , you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property.
+If the **[AllocationMethod](Excel.PivotTable.AllocationMethod.md)** property is set to **xlWeightedAllocation**, you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property.
 
 

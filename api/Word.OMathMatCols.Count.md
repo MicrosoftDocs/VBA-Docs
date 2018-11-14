@@ -1,5 +1,5 @@
 ---
-title: OMathMatCols.Count Property (Word)
+title: OMathMatCols.Count property (Word)
 keywords: vbawd10.chm261881959
 f1_keywords:
 - vbawd10.chm261881959
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCols.Count Property (Word)
+# OMathMatCols.Count property (Word)
 
 Returns the number of items in the  **OMathMatCols** collection. Read-only **Long** .
 

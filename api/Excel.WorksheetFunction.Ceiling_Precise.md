@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ceiling_Precise Method (Excel)
+title: WorksheetFunction.Ceiling_Precise method (Excel)
 keywords: vbaxl10.chm137419
 f1_keywords:
 - vbaxl10.chm137419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ceiling_Precise Method (Excel)
+# WorksheetFunction.Ceiling_Precise method (Excel)
 
 Returns the specified number rounded to the nearest multiple of significance.
 

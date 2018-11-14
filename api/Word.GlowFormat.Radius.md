@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Radius Property (Word)
+title: GlowFormat.Radius property (Word)
 keywords: vbawd10.chm255852545
 f1_keywords:
 - vbawd10.chm255852545
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Radius Property (Word)
+# GlowFormat.Radius property (Word)
 
 Returns or sets a  **Single** that represents the length of the radius for a glow effect. Read/write.
 

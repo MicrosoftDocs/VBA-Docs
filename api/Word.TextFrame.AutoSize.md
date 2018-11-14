@@ -1,5 +1,5 @@
 ---
-title: TextFrame.AutoSize Property (Word)
+title: TextFrame.AutoSize property (Word)
 keywords: vbawd10.chm162665361
 f1_keywords:
 - vbawd10.chm162665361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.AutoSize Property (Word)
+# TextFrame.AutoSize property (Word)
 
 Returns or sets a  **Long** that represents whether a text frame is sized automatically. Read/write.
 

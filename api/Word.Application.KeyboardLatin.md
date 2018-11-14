@@ -1,5 +1,5 @@
 ---
-title: Application.KeyboardLatin Method (Word)
+title: Application.KeyboardLatin method (Word)
 keywords: vbawd10.chm158335376
 f1_keywords:
 - vbawd10.chm158335376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.KeyboardLatin Method (Word)
+# Application.KeyboardLatin method (Word)
 
 Sets the keyboard language to a left-to-right language and the text entry direction to left-to-right.
 

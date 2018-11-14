@@ -1,5 +1,5 @@
 ---
-title: WdBorderType Enumeration (Word)
+title: WdBorderType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBorderType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBorderType Enumeration (Word)
+# WdBorderType enumeration (Word)
 
 Specifies the type of border to be used.
 

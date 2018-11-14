@@ -1,5 +1,5 @@
 ---
-title: WdAutoFitBehavior Enumeration (Word)
+title: WdAutoFitBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdAutoFitBehavior
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdAutoFitBehavior Enumeration (Word)
+# WdAutoFitBehavior enumeration (Word)
 
 Specifies how Microsoft Word resizes a table when the AutoFit feature is used.
 

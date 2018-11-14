@@ -1,5 +1,5 @@
 ---
-title: Legend Object (Word)
+title: Legend object (Word)
 keywords: vbawd10.chm2246
 f1_keywords:
 - vbawd10.chm2246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend Object (Word)
+# Legend object (Word)
 
 Represents the legend in a chart. Each chart can have only one legend.
 

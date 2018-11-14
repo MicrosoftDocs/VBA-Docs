@@ -1,5 +1,5 @@
 ---
-title: AddIn.FullName Property (Excel)
+title: AddIn.FullName property (Excel)
 keywords: vbaxl10.chm185075
 f1_keywords:
 - vbaxl10.chm185075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.FullName Property (Excel)
+# AddIn.FullName property (Excel)
 
 Returns the name of the object, including its path on disk, as a string. Read-only  **String** .
 

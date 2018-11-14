@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.ThreeD Property (Excel)
+title: ChartFormat.ThreeD property (Excel)
 keywords: vbaxl10.chm861080
 f1_keywords:
 - vbaxl10.chm861080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.ThreeD Property (Excel)
+# ChartFormat.ThreeD property (Excel)
 
 Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-effect formatting properties for the specified chart. Read-only.
 

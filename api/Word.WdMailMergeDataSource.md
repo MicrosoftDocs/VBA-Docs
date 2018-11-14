@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeDataSource Enumeration (Word)
+title: WdMailMergeDataSource enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeDataSource
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeDataSource Enumeration (Word)
+# WdMailMergeDataSource enumeration (Word)
 
 Specifies the data source for a mail merge operation.
 

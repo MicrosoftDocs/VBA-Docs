@@ -1,5 +1,5 @@
 ---
-title: Envelope.RecipientPostalfromTop Property (Word)
+title: Envelope.RecipientPostalfromTop property (Word)
 keywords: vbawd10.chm152567834
 f1_keywords:
 - vbawd10.chm152567834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.RecipientPostalfromTop Property (Word)
+# Envelope.RecipientPostalfromTop property (Word)
 
 Returns or sets a  **Single** that represents the position, measured in points, of the recipient's postal code from the top edge of the envelope. Read/write.
 

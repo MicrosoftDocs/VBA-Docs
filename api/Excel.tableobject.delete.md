@@ -1,5 +1,5 @@
 ---
-title: TableObject.Delete Method (Excel)
+title: TableObject.Delete method (Excel)
 keywords: vbaxl10.chm916079
 f1_keywords:
 - vbaxl10.chm916079
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.Delete Method (Excel)
+# TableObject.Delete method (Excel)
 
 Deletes the  **TableObject** object.
 
@@ -18,7 +18,7 @@ Deletes the  **TableObject** object.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+ _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Return value

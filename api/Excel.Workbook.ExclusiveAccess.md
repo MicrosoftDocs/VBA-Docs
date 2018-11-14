@@ -1,5 +1,5 @@
 ---
-title: Workbook.ExclusiveAccess Method (Excel)
+title: Workbook.ExclusiveAccess method (Excel)
 keywords: vbaxl10.chm199099
 f1_keywords:
 - vbaxl10.chm199099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ExclusiveAccess Method (Excel)
+# Workbook.ExclusiveAccess method (Excel)
 
 Assigns the current user exclusive access to the workbook that's open as a shared list.
 

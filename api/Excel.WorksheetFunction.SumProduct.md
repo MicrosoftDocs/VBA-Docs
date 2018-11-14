@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumProduct Method (Excel)
+title: WorksheetFunction.SumProduct method (Excel)
 keywords: vbaxl10.chm137163
 f1_keywords:
 - vbaxl10.chm137163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumProduct Method (Excel)
+# WorksheetFunction.SumProduct method (Excel)
 
 Multiplies corresponding components in the given arrays, and returns the sum of those products.
 

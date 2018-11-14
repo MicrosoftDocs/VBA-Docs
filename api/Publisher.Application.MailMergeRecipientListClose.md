@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailMergeRecipientListClose Event (Publisher)
 
-Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **E-mail Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
+Fires when the user closes the  **Mail Merge Recipients** dialog box. (From the **Mail Merge** or **Email Merge** task pane, click **Edit Recipient List**). Also fires when the user closes the  **Catalog Merge Product List** dialog box, which opens when the user clicks **Edit Product List** in the **Catalog Merge** task pane.
 
 
 ## Syntax

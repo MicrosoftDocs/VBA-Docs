@@ -1,5 +1,5 @@
 ---
-title: OMathFrac.Type Property (Word)
+title: OMathFrac.Type property (Word)
 keywords: vbawd10.chm158597225
 f1_keywords:
 - vbawd10.chm158597225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac.Type Property (Word)
+# OMathFrac.Type property (Word)
 
 Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that represents the layout of a fraction, whether it is stacked, skewed, linear, or without a fraction bar. Read/write.
 

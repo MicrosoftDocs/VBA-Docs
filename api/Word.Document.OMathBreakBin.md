@@ -1,5 +1,5 @@
 ---
-title: Document.OMathBreakBin Property (Word)
+title: Document.OMathBreakBin property (Word)
 keywords: vbawd10.chm158007824
 f1_keywords:
 - vbawd10.chm158007824
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathBreakBin Property (Word)
+# Document.OMathBreakBin property (Word)
 
 Returns or sets a  **[WdOMathBreakBin](Word.WdOMathBreakBin.md)** constant that represents where Microsoft Word places binary operators when equations span two or more lines. Read/write.
 

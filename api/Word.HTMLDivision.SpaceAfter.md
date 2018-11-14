@@ -1,5 +1,5 @@
 ---
-title: HTMLDivision.SpaceAfter Property (Word)
+title: HTMLDivision.SpaceAfter property (Word)
 keywords: vbawd10.chm166133766
 f1_keywords:
 - vbawd10.chm166133766
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivision.SpaceAfter Property (Word)
+# HTMLDivision.SpaceAfter property (Word)
 
 Returns or sets the amount of spacing (in points) after the specified HTML DIV element. Read/write  **Single** .
 

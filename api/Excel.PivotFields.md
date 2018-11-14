@@ -1,5 +1,5 @@
 ---
-title: PivotFields Object (Excel)
+title: PivotFields object (Excel)
 keywords: vbaxl10.chm241072
 f1_keywords:
 - vbaxl10.chm241072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFields Object (Excel)
+# PivotFields object (Excel)
 
 A collection of all the  **[PivotField](Excel.PivotField.md)** objects in a PivotTable report.
 

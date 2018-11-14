@@ -1,5 +1,5 @@
 ---
-title: Template Object (Word)
+title: Template object (Word)
 keywords: vbawd10.chm2410
 f1_keywords:
 - vbawd10.chm2410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template Object (Word)
+# Template object (Word)
 
 Represents a document template. The  **Template** object is a member of the **[Templates](Word.templates.md)** collection. The **Templates** collection includes all the available **Template** objects.
 

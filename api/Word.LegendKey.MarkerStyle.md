@@ -1,5 +1,5 @@
 ---
-title: LegendKey.MarkerStyle Property (Word)
+title: LegendKey.MarkerStyle property (Word)
 keywords: vbawd10.chm266207304
 f1_keywords:
 - vbawd10.chm266207304
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.MarkerStyle Property (Word)
+# LegendKey.MarkerStyle property (Word)
 
-Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[XlMarkerStyle](Word.xlmarkerstyle.md)** .
+Returns or sets the marker style for a point or series in a line chart, scatter chart, or radar chart. Read/write  **[xlMarkerStyle](Word.xlmarkerstyle.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 ## Remarks
 
- **MarkerStyle** can be one of the following **XlMarkerStyle** constants:
+ **MarkerStyle** can be one of the following **xlMarkerStyle** constants:
 
 
 -  **xlMarkerStyleAutomatic** —Automatic markers.

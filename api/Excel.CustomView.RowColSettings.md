@@ -1,5 +1,5 @@
 ---
-title: CustomView.RowColSettings Property (Excel)
+title: CustomView.RowColSettings property (Excel)
 keywords: vbaxl10.chm508075
 f1_keywords:
 - vbaxl10.chm508075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.RowColSettings Property (Excel)
+# CustomView.RowColSettings property (Excel)
 
  **True** if the custom view includes settings for hidden rows and columns (including filter information). Read-only **Boolean** .
 

@@ -20,7 +20,7 @@ Copies a selected object to the Clipboard as a picture.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Appearance_|Optional|**Long**|Specifies how the picture should be copied. Can be one of the  **Excel.XlPictureAppearance** constants. The default value is **xlScreen** (1).|
 | _Format_|Optional|**Long**|Specifies the format of the picture. Can be one of the  **Excel.XlCopyPictureFormat** constants. The default value is **xlPicture** (-4147).|

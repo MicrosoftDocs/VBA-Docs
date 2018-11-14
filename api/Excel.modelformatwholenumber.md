@@ -1,5 +1,5 @@
 ---
-title: ModelFormatWholeNumber Object (Excel)
+title: ModelFormatWholeNumber object (Excel)
 keywords: vbaxl10.chm987072
 f1_keywords:
 - vbaxl10.chm987072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatWholeNumber Object (Excel)
+# ModelFormatWholeNumber object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntries.Add Method (Word)
+title: OMathAutoCorrectEntries.Add method (Word)
 keywords: vbawd10.chm247988424
 f1_keywords:
 - vbawd10.chm247988424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrectEntries.Add Method (Word)
+# OMathAutoCorrectEntries.Add method (Word)
 
 Creates an equation auto correct entry and returns an  **[OMathAutoCorrectEntry](Word.OMathAutoCorrectEntry.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.CustomDocumentProperties Property (Excel)
+title: Workbook.CustomDocumentProperties property (Excel)
 keywords: vbaxl10.chm199094
 f1_keywords:
 - vbaxl10.chm199094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CustomDocumentProperties Property (Excel)
+# Workbook.CustomDocumentProperties property (Excel)
 
 Returns or sets a  **[DocumentProperties](./Office.DocumentProperties.md)** collection that represents all the custom document properties for the specified workbook.
 

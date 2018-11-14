@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.EvaluateToError Property (Excel)
+title: ErrorCheckingOptions.EvaluateToError property (Excel)
 keywords: vbaxl10.chm698075
 f1_keywords:
 - vbaxl10.chm698075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.EvaluateToError Property (Excel)
+# ErrorCheckingOptions.EvaluateToError property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorrect Options** button, selected cells that contain formulas evaluating to an error. **False** disables error checking for cells that evaluate to an error value. Read/write **Boolean** .
 

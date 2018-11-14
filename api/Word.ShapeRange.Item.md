@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Item Method (Word)
+title: ShapeRange.Item method (Word)
 keywords: vbawd10.chm162856960
 f1_keywords:
 - vbawd10.chm162856960
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Item Method (Word)
+# ShapeRange.Item method (Word)
 
 Returns an individual  **Shape** object in a collection.
 

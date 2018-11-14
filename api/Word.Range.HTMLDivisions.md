@@ -1,5 +1,5 @@
 ---
-title: Range.HTMLDivisions Property (Word)
+title: Range.HTMLDivisions property (Word)
 keywords: vbawd10.chm157155734
 f1_keywords:
 - vbawd10.chm157155734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.HTMLDivisions Property (Word)
+# Range.HTMLDivisions property (Word)
 
 Returns an  **HTMLDivisions** object that represents an HTML division in a Web document.
 

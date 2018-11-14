@@ -21,7 +21,7 @@ _object_**.Export(**_filename_**)**
 The  **Export** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) specifying the name of the file that you want to export the component to.|

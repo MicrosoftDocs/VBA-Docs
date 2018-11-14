@@ -23,7 +23,7 @@ _object_. **WordWrap** [= _Boolean_ ]
 The  **WordWrap** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control expands to fit the text.|

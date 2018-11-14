@@ -1,5 +1,5 @@
 ---
-title: Column Object (Word)
+title: Column object (Word)
 keywords: vbawd10.chm2383
 f1_keywords:
 - vbawd10.chm2383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column Object (Word)
+# Column object (Word)
 
 Represents a single table column. The  **Column** object is a member of the **[Columns](Word.columns.md)** collection. The **Columns** collection includes all the columns in a table, selection, or range.
 

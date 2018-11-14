@@ -1,5 +1,5 @@
 ---
-title: TableObject.AdjustColumnWidth Property (Excel)
+title: TableObject.AdjustColumnWidth property (Excel)
 keywords: vbaxl10.chm916084
 f1_keywords:
 - vbaxl10.chm916084
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject.AdjustColumnWidth Property (Excel)
+# TableObject.AdjustColumnWidth property (Excel)
 
 Specifies if the column widths are automatically adjusted for the best fit each time you refresh the specified query table. The default value is  **True** . **Boolean** Read/Write
 
@@ -18,7 +18,7 @@ Specifies if the column widths are automatically adjusted for the best fit each 
 
  _expression_. `AdjustColumnWidth`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+ _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

@@ -1,5 +1,5 @@
 ---
-title: MappedDataField.DataFieldIndex Property (Word)
+title: MappedDataField.DataFieldIndex property (Word)
 keywords: vbawd10.chm107544581
 f1_keywords:
 - vbawd10.chm107544581
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataField.DataFieldIndex Property (Word)
+# MappedDataField.DataFieldIndex property (Word)
 
 Returns or sets a  **Long** that represents the corresponding field number in the mail merge data source to which a mapped data field maps. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel Object (Word)
+title: CaptionLabel object (Word)
 keywords: vbawd10.chm2425
 f1_keywords:
 - vbawd10.chm2425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel Object (Word)
+# CaptionLabel object (Word)
 
 Represents a single caption label. The  **CaptionLabel** object is a member of the **[CaptionLabels](Word.captionlabels.md)** collection. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.DeferAsyncQueries Property (Excel)
+title: Application.DeferAsyncQueries property (Excel)
 keywords: vbaxl10.chm133313
 f1_keywords:
 - vbaxl10.chm133313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DeferAsyncQueries Property (Excel)
+# Application.DeferAsyncQueries property (Excel)
 
 Gets or sets whether asychronous queries to OLAP data sources are executed when a worksheet is calculated by VBA code. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Orientation Property (Word)
+title: TextFrame.Orientation property (Word)
 keywords: vbawd10.chm162660456
 f1_keywords:
 - vbawd10.chm162660456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Orientation Property (Word)
+# TextFrame.Orientation property (Word)
 
 Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation** .
 

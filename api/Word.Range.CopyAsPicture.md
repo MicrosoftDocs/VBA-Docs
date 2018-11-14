@@ -1,5 +1,5 @@
 ---
-title: Range.CopyAsPicture Method (Word)
+title: Range.CopyAsPicture method (Word)
 keywords: vbawd10.chm157155495
 f1_keywords:
 - vbawd10.chm157155495
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CopyAsPicture Method (Word)
+# Range.CopyAsPicture method (Word)
 
 The  **CopyAsPicture** method works the same way as the **Copy** method.
 

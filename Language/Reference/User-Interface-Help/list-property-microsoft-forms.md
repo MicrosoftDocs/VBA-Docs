@@ -21,7 +21,7 @@ _object_. **List(**_row, column_**)** [= _Variant_ ]
 The  **List** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _row_|Required. An integer with a range from 0 to one less than the number of entries in the list.|

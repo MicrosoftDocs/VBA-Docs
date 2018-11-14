@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselI Method (Excel)
+title: WorksheetFunction.BesselI method (Excel)
 keywords: vbaxl10.chm137305
 f1_keywords:
 - vbaxl10.chm137305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BesselI Method (Excel)
+# WorksheetFunction.BesselI method (Excel)
 
 Returns the modified Bessel function, which is equivalent to the Bessel function evaluated for purely imaginary arguments.
 

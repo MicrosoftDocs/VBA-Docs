@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TopRelative Property (Word)
+title: ShapeRange.TopRelative property (Word)
 keywords: vbawd10.chm162857161
 f1_keywords:
 - vbawd10.chm162857161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.TopRelative Property (Word)
+# ShapeRange.TopRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative top position of a range of shapes. Read/write.
 

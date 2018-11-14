@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Text Property (Excel)
+title: AxisTitle.Text property (Excel)
 keywords: vbaxl10.chm565085
 f1_keywords:
 - vbaxl10.chm565085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Text Property (Excel)
+# AxisTitle.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SplitType Property (PowerPoint)
 
-Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[XlChartSplitType](PowerPoint.XlChartSplitType.md)**.
+Returns or sets the way the two sections of either a pie-of-pie chart or a bar-of-pie chart are split. Read/write  **[xlChartSplitType](PowerPoint.XlChartSplitType.md)**.
 
 
 ## Syntax

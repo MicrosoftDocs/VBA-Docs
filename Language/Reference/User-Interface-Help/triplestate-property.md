@@ -23,7 +23,7 @@ _object_. **TripleState** [= _Boolean_ ]
 The  **TripleState** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control supports the Null state.|

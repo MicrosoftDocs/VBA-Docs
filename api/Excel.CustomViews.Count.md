@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Count Property (Excel)
+title: CustomViews.Count property (Excel)
 keywords: vbaxl10.chm506073
 f1_keywords:
 - vbaxl10.chm506073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomViews.Count Property (Excel)
+# CustomViews.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

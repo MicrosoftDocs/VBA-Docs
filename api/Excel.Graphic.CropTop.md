@@ -1,5 +1,5 @@
 ---
-title: Graphic.CropTop Property (Excel)
+title: Graphic.CropTop property (Excel)
 keywords: vbaxl10.chm694079
 f1_keywords:
 - vbaxl10.chm694079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.CropTop Property (Excel)
+# Graphic.CropTop property (Excel)
 
 Returns or sets the number of points that are cropped off the top of the specified picture or OLE object. Read/write  **Single** .
 

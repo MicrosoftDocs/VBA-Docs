@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Fact Method (Excel)
+title: WorksheetFunction.Fact method (Excel)
 keywords: vbaxl10.chm137144
 f1_keywords:
 - vbaxl10.chm137144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Fact Method (Excel)
+# WorksheetFunction.Fact method (Excel)
 
 Returns the factorial of a number. The factorial of a number is equal to 1*2*3*...* number.
 

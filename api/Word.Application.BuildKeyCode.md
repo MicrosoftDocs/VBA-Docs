@@ -1,5 +1,5 @@
 ---
-title: Application.BuildKeyCode Method (Word)
+title: Application.BuildKeyCode method (Word)
 keywords: vbawd10.chm158335292
 f1_keywords:
 - vbawd10.chm158335292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.BuildKeyCode Method (Word)
+# Application.BuildKeyCode method (Word)
 
 Returns a unique number for the specified key combination.
 

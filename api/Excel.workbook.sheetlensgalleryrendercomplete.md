@@ -25,7 +25,7 @@ Occurs when a callout gallery?s icons (dynamic & static) have completed renderin
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required|OBJECT|A worksheet object.|
 

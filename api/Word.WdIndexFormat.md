@@ -1,5 +1,5 @@
 ---
-title: WdIndexFormat Enumeration (Word)
+title: WdIndexFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIndexFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdIndexFormat Enumeration (Word)
+# WdIndexFormat enumeration (Word)
 
 Specifies the formatting for indexes in a document.
 

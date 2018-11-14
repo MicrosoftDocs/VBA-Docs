@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Parent Property (Excel)
+title: QueryTable.Parent property (Excel)
 keywords: vbaxl10.chm517075
 f1_keywords:
 - vbaxl10.chm517075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Parent Property (Excel)
+# QueryTable.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

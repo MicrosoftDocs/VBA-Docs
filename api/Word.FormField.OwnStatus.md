@@ -1,5 +1,5 @@
 ---
-title: FormField.OwnStatus Property (Word)
+title: FormField.OwnStatus property (Word)
 keywords: vbawd10.chm153616390
 f1_keywords:
 - vbawd10.chm153616390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.OwnStatus Property (Word)
+# FormField.OwnStatus property (Word)
 
 Specifies the source of the text that's displayed in the status bar when a form field has the focus. Read/write  **Boolean** .
 

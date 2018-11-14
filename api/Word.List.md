@@ -1,5 +1,5 @@
 ---
-title: List Object (Word)
+title: List object (Word)
 keywords: vbawd10.chm2450
 f1_keywords:
 - vbawd10.chm2450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List Object (Word)
+# List object (Word)
 
 Represents a single list format that's been applied to specified paragraphs in a document. The  **List** object is a member of the **Lists** collection.
 

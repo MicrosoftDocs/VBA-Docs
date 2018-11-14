@@ -1,5 +1,5 @@
 ---
-title: Filter.On Property (Excel)
+title: Filter.On property (Excel)
 keywords: vbaxl10.chm542073
 f1_keywords:
 - vbaxl10.chm542073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filter.On Property (Excel)
+# Filter.On property (Excel)
 
  **True** if the specified filter is on. Read-only **Boolean** .
 

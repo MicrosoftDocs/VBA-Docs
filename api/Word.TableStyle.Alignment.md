@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Alignment Property (Word)
+title: TableStyle.Alignment property (Word)
 keywords: vbawd10.chm244776969
 f1_keywords:
 - vbawd10.chm244776969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Alignment Property (Word)
+# TableStyle.Alignment property (Word)
 
 Returns or sets a  **WdRowAlignment** constant that represents the alignment for the specified table style. Read/write.
 

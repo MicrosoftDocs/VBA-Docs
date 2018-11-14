@@ -1,5 +1,5 @@
 ---
-title: OMathScrPre.E Property (Word)
+title: OMathScrPre.E property (Word)
 keywords: vbawd10.chm202244201
 f1_keywords:
 - vbawd10.chm202244201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathScrPre.E Property (Word)
+# OMathScrPre.E property (Word)
 
 Returns an  **OMath** object that represents the base of the specified equation object. Read-only.
 

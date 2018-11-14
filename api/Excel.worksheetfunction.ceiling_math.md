@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ceiling_Math Method (Excel)
+title: WorksheetFunction.Ceiling_Math method (Excel)
 keywords: vbaxl10.chm137461
 f1_keywords:
 - vbaxl10.chm137461
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ceiling_Math Method (Excel)
+# WorksheetFunction.Ceiling_Math method (Excel)
 
 Rounds a number up, to the nearest integer or to the nearest multiple of significance.
 
@@ -18,14 +18,14 @@ Rounds a number up, to the nearest integer or to the nearest multiple of signifi
 
  _expression_. `Ceiling_Math`_(Arg1,_ _Arg2,_ _Arg3)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value you want to round.|
 | _Arg2_|Optional|VARIANT|The multiple to which you want to round.|

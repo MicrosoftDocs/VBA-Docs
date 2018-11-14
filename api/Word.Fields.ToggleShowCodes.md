@@ -1,5 +1,5 @@
 ---
-title: Fields.ToggleShowCodes Method (Word)
+title: Fields.ToggleShowCodes method (Word)
 keywords: vbawd10.chm154140772
 f1_keywords:
 - vbawd10.chm154140772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.ToggleShowCodes Method (Word)
+# Fields.ToggleShowCodes method (Word)
 
 Switches the display of the fields between field codes and field results. Use the  **ShowCodes** property to control the display of an individual field.
 

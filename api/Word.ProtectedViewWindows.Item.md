@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Item Method (Word)
+title: ProtectedViewWindows.Item method (Word)
 keywords: vbawd10.chm82313216
 f1_keywords:
 - vbawd10.chm82313216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Item Method (Word)
+# ProtectedViewWindows.Item method (Word)
 
 Returns an individual  **ProtectedViewWindows** object in a collection.
 

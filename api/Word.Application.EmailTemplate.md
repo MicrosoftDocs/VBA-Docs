@@ -1,5 +1,5 @@
 ---
-title: Application.EmailTemplate Property (Word)
+title: Application.EmailTemplate property (Word)
 keywords: vbawd10.chm158335427
 f1_keywords:
 - vbawd10.chm158335427
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EmailTemplate Property (Word)
+# Application.EmailTemplate property (Word)
 
-Returns or sets a  **String** that represents the document template to use when sending e-mail messages. Read/write.
+Returns or sets a  **String** that represents the document template to use when sending email messages. Read/write.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets a  **String** that represents the document template to use when 
 
 ## Remarks
 
-Use the  **EmailTemplate** property when Microsoft Word is specified as your e-mail editor, which you must do inside Microsoft Outlook.
+Use the  **EmailTemplate** property when Microsoft Word is specified as your email editor, which you must do inside Microsoft Outlook.
 
 
 ## Example
 
-This example instructs Word to use the template named "Email" for all new e-mail messages. This example assumes that you have a template named "Email" and that it is stored in the default template location.
+This example instructs Word to use the template named "Email" for all new email messages. This example assumes that you have a template named "Email" and that it is stored in the default template location.
 
 
 ```vb

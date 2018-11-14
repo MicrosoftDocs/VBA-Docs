@@ -1,5 +1,5 @@
 ---
-title: Name.RefersToR1C1 Property (Excel)
+title: Name.RefersToR1C1 property (Excel)
 keywords: vbaxl10.chm490086
 f1_keywords:
 - vbaxl10.chm490086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.RefersToR1C1 Property (Excel)
+# Name.RefersToR1C1 property (Excel)
 
 Returns or sets the formula that the name refers to. The formula is in the language of the macro, and it's in R1C1-style notation, beginning with an equal sign. Read/write  **String** .
 

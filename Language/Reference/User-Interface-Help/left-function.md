@@ -19,7 +19,7 @@ Returns a **Variant** (**String**) containing a specified number of characters f
 
 The **Left** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which the leftmost characters are returned. If **_string_** contains [Null](../../Glossary/vbe-glossary.md#null), Null is returned.|
 |**_length_**|Required; **Variant** (**Long**). [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) indicating how many characters to return. If 0, a zero-length string ("") is returned. If greater than or equal to the number of characters in **_string_**, the entire string is returned.|

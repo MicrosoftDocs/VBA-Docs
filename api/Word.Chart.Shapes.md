@@ -1,5 +1,5 @@
 ---
-title: Chart.Shapes Property (Word)
+title: Chart.Shapes property (Word)
 keywords: vbawd10.chm79364191
 f1_keywords:
 - vbawd10.chm79364191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Shapes Property (Word)
+# Chart.Shapes property (Word)
 
 Returns a collection that represents all the shapes on the chart sheet. Read-only  **[Shapes](Word.shapes.md)** .
 

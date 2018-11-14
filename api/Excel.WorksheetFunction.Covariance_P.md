@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Covariance_P Method (Excel)
+title: WorksheetFunction.Covariance_P method (Excel)
 keywords: vbaxl10.chm137363
 f1_keywords:
 - vbaxl10.chm137363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Covariance_P Method (Excel)
+# WorksheetFunction.Covariance_P method (Excel)
 
 Returns population covariance, the average of the products of deviations for each data point pair.
 

@@ -1,5 +1,5 @@
 ---
-title: CubeField.Position Property (Excel)
+title: CubeField.Position property (Excel)
 keywords: vbaxl10.chm668078
 f1_keywords:
 - vbaxl10.chm668078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Position Property (Excel)
+# CubeField.Position property (Excel)
 
 Returns or sets a  **Long** value that represents the position of the hierarchy field on the PivotTable report when it's dragged from the field well.
 

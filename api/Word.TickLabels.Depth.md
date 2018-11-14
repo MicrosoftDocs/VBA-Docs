@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Depth Property (Word)
+title: TickLabels.Depth property (Word)
 keywords: vbawd10.chm167051281
 f1_keywords:
 - vbawd10.chm167051281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Depth Property (Word)
+# TickLabels.Depth property (Word)
 
 Returns the number of levels of category tick labels. Read-only  **Long** .
 

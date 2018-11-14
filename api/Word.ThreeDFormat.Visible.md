@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Visible Property (Word)
+title: ThreeDFormat.Visible property (Word)
 keywords: vbawd10.chm164626543
 f1_keywords:
 - vbawd10.chm164626543
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Visible Property (Word)
+# ThreeDFormat.Visible property (Word)
 
  **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState** .
 

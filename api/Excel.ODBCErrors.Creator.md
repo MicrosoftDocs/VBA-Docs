@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors.Creator Property (Excel)
+title: ODBCErrors.Creator property (Excel)
 keywords: vbaxl10.chm528074
 f1_keywords:
 - vbaxl10.chm528074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCErrors.Creator Property (Excel)
+# ODBCErrors.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.InModel Property (Excel)
+title: WorkbookConnection.InModel property (Excel)
 keywords: vbaxl10.chm774087
 f1_keywords:
 - vbaxl10.chm774087
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.InModel Property (Excel)
+# WorkbookConnection.InModel property (Excel)
 
-Specifies whether or not the [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
+Specifies whether or not the [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
 
 
 ## Syntax
 
  _expression_. `InModel`
 
- _expression_ A variable that represents a [WorkbookConnection Object (Excel)](Excel.WorkbookConnection.md) object.
+ _expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

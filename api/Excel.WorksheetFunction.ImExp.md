@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImExp Method (Excel)
+title: WorksheetFunction.ImExp method (Excel)
 keywords: vbaxl10.chm137283
 f1_keywords:
 - vbaxl10.chm137283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImExp Method (Excel)
+# WorksheetFunction.ImExp method (Excel)
 
 Returns the exponential of a complex number in x + yi or x + yj text format.
 

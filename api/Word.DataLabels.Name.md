@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Name Property (Word)
+title: DataLabels.Name property (Word)
 keywords: vbawd10.chm207487086
 f1_keywords:
 - vbawd10.chm207487086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Name Property (Word)
+# DataLabels.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axes.Item Method (Excel)
+title: Axes.Item method (Excel)
 keywords: vbaxl10.chm572074
 f1_keywords:
 - vbaxl10.chm572074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Item Method (Excel)
+# Axes.Item method (Excel)
 
 Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** collection.
 
@@ -29,8 +29,8 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlAxisType](Excel.XlAxisType.md)**|The axis type.|
-| _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
+| _Type_|Required| **[xlAxisType](Excel.XlAxisType.md)**|The axis type.|
+| _AxisGroup_|Optional| **[xlAxisGroup](Excel.XlAxisGroup.md)**|The axis.|
 
 ## Return value
 

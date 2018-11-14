@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.AllowOverlap Property (Word)
+title: WrapFormat.AllowOverlap property (Word)
 keywords: vbawd10.chm163774570
 f1_keywords:
 - vbawd10.chm163774570
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.AllowOverlap Property (Word)
+# WrapFormat.AllowOverlap property (Word)
 
 Returns or sets a value that specifies whether a given shape can overlap other shapes. Read/write  **Long** .
 

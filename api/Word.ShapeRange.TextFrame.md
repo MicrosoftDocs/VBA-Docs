@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextFrame Property (Word)
+title: ShapeRange.TextFrame property (Word)
 keywords: vbawd10.chm162857081
 f1_keywords:
 - vbawd10.chm162857081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.TextFrame Property (Word)
+# ShapeRange.TextFrame property (Word)
 
 Returns a  **TextFrame** object that contains the text for the specified range of shapes.
 

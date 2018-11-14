@@ -1,5 +1,5 @@
 ---
-title: Series.PlotColorIndex Property (Word)
+title: Series.PlotColorIndex property (Word)
 keywords: vbawd10.chm123733892
 f1_keywords:
 - vbawd10.chm123733892
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PlotColorIndex Property (Word)
+# Series.PlotColorIndex property (Word)
 
 Returns an index value that is used internally to associate series formatting with chart elements. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdOrganizerObject Enumeration (Word)
+title: WdOrganizerObject enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOrganizerObject
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOrganizerObject Enumeration (Word)
+# WdOrganizerObject enumeration (Word)
 
 Specifies the type of object used by a delete, copy, or rename action.
 

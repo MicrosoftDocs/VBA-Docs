@@ -1,5 +1,5 @@
 ---
-title: Rows.AllowBreakAcrossPages Property (Word)
+title: Rows.AllowBreakAcrossPages property (Word)
 keywords: vbawd10.chm155975683
 f1_keywords:
 - vbawd10.chm155975683
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.AllowBreakAcrossPages Property (Word)
+# Rows.AllowBreakAcrossPages property (Word)
 
  **True** if the text in a table row or rows are allowed to split across a page break. Read/write **Long** .
 

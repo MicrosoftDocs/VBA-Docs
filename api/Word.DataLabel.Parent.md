@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Parent Property (Word)
+title: DataLabel.Parent property (Word)
 keywords: vbawd10.chm233898134
 f1_keywords:
 - vbawd10.chm233898134
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Parent Property (Word)
+# DataLabel.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

@@ -1,5 +1,5 @@
 ---
-title: Pane.Document Property (Word)
+title: Pane.Document property (Word)
 keywords: vbawd10.chm157286401
 f1_keywords:
 - vbawd10.chm157286401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Document Property (Word)
+# Pane.Document property (Word)
 
 Returns a  **[Document](Word.Document.md)** object associated with the specified pane. Read-only.
 

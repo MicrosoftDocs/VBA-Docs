@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Item Method (Word)
+title: TablesOfFigures.Item method (Word)
 keywords: vbawd10.chm153223168
 f1_keywords:
 - vbawd10.chm153223168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Item Method (Word)
+# TablesOfFigures.Item method (Word)
 
 Returns an individual  **TableOfFigures** object in a collection.
 

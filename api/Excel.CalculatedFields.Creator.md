@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields.Creator Property (Excel)
+title: CalculatedFields.Creator property (Excel)
 keywords: vbaxl10.chm243074
 f1_keywords:
 - vbaxl10.chm243074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields.Creator Property (Excel)
+# CalculatedFields.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

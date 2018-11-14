@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyByte Property (Word)
+title: Options.MatchFuzzyByte property (Word)
 keywords: vbawd10.chm162988342
 f1_keywords:
 - vbawd10.chm162988342
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyByte Property (Word)
+# Options.MatchFuzzyByte property (Word)
 
  **True** if Microsoft Word ignores the distinction between full-width and half-width characters (Latin or Japanese) during a search. Read/write **Boolean** .
 

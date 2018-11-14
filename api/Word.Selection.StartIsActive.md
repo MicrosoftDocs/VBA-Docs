@@ -1,5 +1,5 @@
 ---
-title: Selection.StartIsActive Property (Word)
+title: Selection.StartIsActive property (Word)
 keywords: vbawd10.chm158663060
 f1_keywords:
 - vbawd10.chm158663060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.StartIsActive Property (Word)
+# Selection.StartIsActive property (Word)
 
  **True** if the beginning of the selection is active. Read/write **Boolean** .
 

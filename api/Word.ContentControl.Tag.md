@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Tag Property (Word)
+title: ContentControl.Tag property (Word)
 keywords: vbawd10.chm266534939
 f1_keywords:
 - vbawd10.chm266534939
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Tag Property (Word)
+# ContentControl.Tag property (Word)
 
 Returns or sets a  **String** that represents a value to identify a content control. Read/write.
 

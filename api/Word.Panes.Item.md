@@ -1,5 +1,5 @@
 ---
-title: Panes.Item Method (Word)
+title: Panes.Item method (Word)
 keywords: vbawd10.chm157220864
 f1_keywords:
 - vbawd10.chm157220864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Item Method (Word)
+# Panes.Item method (Word)
 
 Returns the specified pane as a  **Pane** object.
 

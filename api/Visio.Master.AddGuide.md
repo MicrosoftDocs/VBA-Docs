@@ -46,7 +46,7 @@ The following constants declared by the Visio type library are valid values for 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPoint**|1|Guide point|
 | **visHorz**|2|Horizontal guide|

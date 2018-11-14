@@ -29,7 +29,7 @@ Creates a new trendline.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**[XlTrendlineType](PowerPoint.XlTrendlineType.md)**|One of the enumeration values that specifies the trendline type. The default is  **xlLinear**.|
+| _Type_|Optional|**[xlTrendlineType](PowerPoint.XlTrendlineType.md)**|One of the enumeration values that specifies the trendline type. The default is  **xlLinear**.|
 | _Order_|Optional|**Variant**|The trendline order. Required ifType is set to  **xlPolynomial**. If specified, the value must be an integer from 2 through 6.|
 | _Period_|Optional|**Variant**|The trendline period. Required ifType is set to  **xlMovingAvg**. If specified, the value must be an integer greater than 1 and less than the number of data points in the series to which you are adding a trendline.|
 | _Forward_|Optional|**Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|

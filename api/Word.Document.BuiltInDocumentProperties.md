@@ -1,5 +1,5 @@
 ---
-title: Document.BuiltInDocumentProperties Property (Word)
+title: Document.BuiltInDocumentProperties property (Word)
 keywords: vbawd10.chm158008296
 f1_keywords:
 - vbawd10.chm158008296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.BuiltInDocumentProperties Property (Word)
+# Document.BuiltInDocumentProperties property (Word)
 
 Returns a  **DocumentProperties** collection that represents all the built-in document properties for the specified document.
 

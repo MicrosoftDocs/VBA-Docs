@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.ReplyMessageSignature Property (Word)
+title: EmailSignature.ReplyMessageSignature property (Word)
 keywords: vbawd10.chm165412968
 f1_keywords:
 - vbawd10.chm165412968
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.ReplyMessageSignature Property (Word)
+# EmailSignature.ReplyMessageSignature property (Word)
 
-Returns or sets the signature that Microsoft Word appends to e-mail message replies. Read/write  **String** .
+Returns or sets the signature that Microsoft Word appends to email message replies. Read/write  **String** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the signature that Microsoft Word appends to e-mail message repl
 
 ## Remarks
 
-When setting this property, you must use the name of an e-mail signature that you have created in the  **E-mail Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
+When setting this property, you must use the name of an email signature that you have created in the  **Email Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
 
 
 ## Example
 
-This example changes the signature Word appends to e-mail message replies.
+This example changes the signature Word appends to email message replies.
 
 
 ```vb

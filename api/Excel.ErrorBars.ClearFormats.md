@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.ClearFormats Method (Excel)
+title: ErrorBars.ClearFormats method (Excel)
 keywords: vbaxl10.chm624078
 f1_keywords:
 - vbaxl10.chm624078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.ClearFormats Method (Excel)
+# ErrorBars.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

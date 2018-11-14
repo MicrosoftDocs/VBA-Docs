@@ -1,5 +1,5 @@
 ---
-title: ModelFormatGeneral.Creator Property (Excel)
+title: ModelFormatGeneral.Creator property (Excel)
 keywords: vbaxl10.chm981074
 f1_keywords:
 - vbaxl10.chm981074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatGeneral.Creator Property (Excel)
+# ModelFormatGeneral.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

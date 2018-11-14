@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Application Property (Word)
+title: ColorFormat.Application property (Word)
 keywords: vbawd10.chm163972072
 f1_keywords:
 - vbawd10.chm163972072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Application Property (Word)
+# ColorFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

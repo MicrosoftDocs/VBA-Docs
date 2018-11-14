@@ -1,5 +1,5 @@
 ---
-title: Revisions.Item Method (Word)
+title: Revisions.Item method (Word)
 keywords: vbawd10.chm159383552
 f1_keywords:
 - vbawd10.chm159383552
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revisions.Item Method (Word)
+# Revisions.Item method (Word)
 
 Returns an individual  **Revisions** object in a collection.
 

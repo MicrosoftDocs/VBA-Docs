@@ -1,5 +1,5 @@
 ---
-title: Error.Value Property (Excel)
+title: Error.Value property (Excel)
 keywords: vbaxl10.chm702073
 f1_keywords:
 - vbaxl10.chm702073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Error.Value Property (Excel)
+# Error.Value property (Excel)
 
 Returns a  **Boolean** value that indicates if all the validation criteria are met (that is, if the range contains valid data).
 

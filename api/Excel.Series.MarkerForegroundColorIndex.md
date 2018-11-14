@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerForegroundColorIndex Property (Excel)
+title: Series.MarkerForegroundColorIndex property (Excel)
 keywords: vbaxl10.chm578096
 f1_keywords:
 - vbaxl10.chm578096
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerForegroundColorIndex Property (Excel)
+# Series.MarkerForegroundColorIndex property (Excel)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Applies only to line, scatter, and radar charts. Read/write **Long** .
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Applies only to line, scatter, and radar charts. Read/write **Long** .
 
 
 ## Syntax

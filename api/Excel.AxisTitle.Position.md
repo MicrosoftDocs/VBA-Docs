@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Position Property (Excel)
+title: AxisTitle.Position property (Excel)
 keywords: vbaxl10.chm565090
 f1_keywords:
 - vbaxl10.chm565090
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Position Property (Excel)
+# AxisTitle.Position property (Excel)
 
-Returns or sets the position of the axis title on the chart. Read/write  **[XlChartElementPosition](Excel.XlChartElementPosition.md)** .
+Returns or sets the position of the axis title on the chart. Read/write  **[xlChartElementPosition](Excel.XlChartElementPosition.md)** .
 
 
 ## Syntax

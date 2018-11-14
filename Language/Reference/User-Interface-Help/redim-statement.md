@@ -20,7 +20,7 @@ Used at [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to rea
 The **ReDim** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Preserve**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) used to preserve the data in an existing [array](../../Glossary/vbe-glossary.md#array) when you change the size of the last dimension.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
@@ -30,7 +30,7 @@ The **ReDim** statement syntax has these parts:
 ## Remarks
 
 The **ReDim** [statement](../../Glossary/vbe-glossary.md#statement) is used to size or resize a dynamic array that has already been formally declared using a **Private**, **Public**, or **Dim** statement with empty parentheses (without dimension subscripts).
-You can use the **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed using an **As** _type_ clause, unless you're using the **Preserve** keyword, in which case, no changes of data type are permitted.
+You can use the **ReDim** statement repeatedly to change the number of elements and dimensions in an array. However, you can't declare an array of one data type and later use **ReDim** to change the array to another data type, unless the array is contained in a **Variant**. If the array is contained in a **Variant**, the type of the elements can be changed using an **As** _type_ clause, unless you are using the **Preserve** keyword, in which case, no changes of data type are permitted.
 If you use the **Preserve** keyword, you can resize only the last array dimension and you can't change the number of dimensions at all. For example, if your array has only one dimension, you can resize that dimension because it is the last and only dimension. However, if your array has two or more dimensions, you can change the size of only the last dimension and still preserve the contents of the array. The following example shows how you can increase the size of the last dimension of a dynamic array without erasing any existing data contained in the array.
 
 

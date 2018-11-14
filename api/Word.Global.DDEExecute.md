@@ -1,5 +1,5 @@
 ---
-title: Global.DDEExecute Method (Word)
+title: Global.DDEExecute method (Word)
 keywords: vbawd10.chm163119414
 f1_keywords:
 - vbawd10.chm163119414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.DDEExecute Method (Word)
+# Global.DDEExecute method (Word)
 
 Sends a command or series of commands to an application through the specified dynamic data exchange (DDE) channel.
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Orientation Property (Word)
+title: PageSetup.Orientation property (Word)
 keywords: vbawd10.chm158400619
 f1_keywords:
 - vbawd10.chm158400619
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Orientation Property (Word)
+# PageSetup.Orientation property (Word)
 
 Returns or sets the orientation of the page. Read/write  **[WdOrientation](Word.WdOrientation.md)** .
 

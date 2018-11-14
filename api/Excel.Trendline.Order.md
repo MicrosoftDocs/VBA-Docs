@@ -1,5 +1,5 @@
 ---
-title: Trendline.Order Property (Excel)
+title: Trendline.Order property (Excel)
 keywords: vbaxl10.chm594087
 f1_keywords:
 - vbaxl10.chm594087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Order Property (Excel)
+# Trendline.Order property (Excel)
 
 Returns or sets a  **Long** value that represents the trendline order (an integer greater than 1) when the trendline type is **xlPolynomial** .
 

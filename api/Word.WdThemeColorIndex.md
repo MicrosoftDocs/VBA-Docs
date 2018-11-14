@@ -1,5 +1,5 @@
 ---
-title: WdThemeColorIndex Enumeration (Word)
+title: WdThemeColorIndex enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdThemeColorIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdThemeColorIndex Enumeration (Word)
+# WdThemeColorIndex enumeration (Word)
 
 Specifies the theme colors for document themes.
 

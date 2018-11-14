@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Open Method (Excel)
+title: RecentFile.Open method (Excel)
 keywords: vbaxl10.chm170076
 f1_keywords:
 - vbaxl10.chm170076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Open Method (Excel)
+# RecentFile.Open method (Excel)
 
 Opens a recent workbook.
 

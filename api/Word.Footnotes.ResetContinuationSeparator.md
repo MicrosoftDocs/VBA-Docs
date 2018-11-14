@@ -1,5 +1,5 @@
 ---
-title: Footnotes.ResetContinuationSeparator Method (Word)
+title: Footnotes.ResetContinuationSeparator method (Word)
 keywords: vbawd10.chm155320328
 f1_keywords:
 - vbawd10.chm155320328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.ResetContinuationSeparator Method (Word)
+# Footnotes.ResetContinuationSeparator method (Word)
 
 Resets the footnote or endnote continuation separator to the default separator.
 

@@ -1,5 +1,5 @@
 ---
-title: XlChartLocation Enumeration (Excel)
+title: xlChartLocation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlChartLocation Enumeration (Excel)
+# xlChartLocation enumeration (Excel)
 
 Specifies where to relocate a chart.
 

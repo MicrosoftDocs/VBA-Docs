@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.NumberFormat Property (Excel)
+title: UniqueValues.NumberFormat property (Excel)
 keywords: vbaxl10.chm826081
 f1_keywords:
 - vbaxl10.chm826081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.NumberFormat Property (Excel)
+# UniqueValues.NumberFormat property (Excel)
 
 Returns or sets the number format applied to a cell if the conditional formatting rule evaluates to  **True** . Read/write **Variant** .
 

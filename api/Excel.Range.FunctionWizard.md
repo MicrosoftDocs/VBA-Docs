@@ -1,5 +1,5 @@
 ---
-title: Range.FunctionWizard Method (Excel)
+title: Range.FunctionWizard method (Excel)
 keywords: vbaxl10.chm144139
 f1_keywords:
 - vbaxl10.chm144139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FunctionWizard Method (Excel)
+# Range.FunctionWizard method (Excel)
 
 Starts the Function Wizard for the upper-left cell of the range.
 

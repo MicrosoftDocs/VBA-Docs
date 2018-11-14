@@ -1,5 +1,5 @@
 ---
-title: PivotCache.Parent Property (Excel)
+title: PivotCache.Parent property (Excel)
 keywords: vbaxl10.chm226075
 f1_keywords:
 - vbaxl10.chm226075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.Parent Property (Excel)
+# PivotCache.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Format Property (Excel)
+title: ErrorBars.Format property (Excel)
 keywords: vbaxl10.chm624080
 f1_keywords:
 - vbaxl10.chm624080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Format Property (Excel)
+# ErrorBars.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

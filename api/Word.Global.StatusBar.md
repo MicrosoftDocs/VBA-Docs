@@ -1,5 +1,5 @@
 ---
-title: Global.StatusBar Property (Word)
+title: Global.StatusBar property (Word)
 keywords: vbawd10.chm163119201
 f1_keywords:
 - vbawd10.chm163119201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.StatusBar Property (Word)
+# Global.StatusBar property (Word)
 
 This property is no longer supported in Microsoft Word Visual Basic for Applications.
 

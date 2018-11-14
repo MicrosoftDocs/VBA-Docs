@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Left Property (Excel)
+title: ShapeRange.Left property (Excel)
 keywords: vbaxl10.chm640107
 f1_keywords:
 - vbaxl10.chm640107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Left Property (Excel)
+# ShapeRange.Left property (Excel)
 
 Returns or sets a  **Single** value that represents the distance, in points, from the left edge of the object to the left edge of column A (on a worksheet) or the left edge of the chart area (on a chart).
 

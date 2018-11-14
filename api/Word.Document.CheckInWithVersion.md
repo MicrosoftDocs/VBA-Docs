@@ -1,5 +1,5 @@
 ---
-title: Document.CheckInWithVersion Method (Word)
+title: Document.CheckInWithVersion method (Word)
 keywords: vbawd10.chm158007797
 f1_keywords:
 - vbawd10.chm158007797
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CheckInWithVersion Method (Word)
+# Document.CheckInWithVersion method (Word)
 
 Saves a document to a server from a local computer, and sets the local document to read-only so that it cannot be edited locally.
 

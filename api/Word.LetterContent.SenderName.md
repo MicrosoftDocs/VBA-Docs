@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderName Property (Word)
+title: LetterContent.SenderName property (Word)
 keywords: vbawd10.chm161546360
 f1_keywords:
 - vbawd10.chm161546360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderName Property (Word)
+# LetterContent.SenderName property (Word)
 
 Returns or sets the name of the person creating a letter with the Letter Wizard. Read/write  **String** .
 

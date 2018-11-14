@@ -1,5 +1,5 @@
 ---
-title: Axis.AxisBetweenCategories Property (Excel)
+title: Axis.AxisBetweenCategories property (Excel)
 keywords: vbaxl10.chm561073
 f1_keywords:
 - vbaxl10.chm561073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.AxisBetweenCategories Property (Excel)
+# Axis.AxisBetweenCategories property (Excel)
 
  **True** if the value axis crosses the category axis between categories. Read/write **Boolean** .
 

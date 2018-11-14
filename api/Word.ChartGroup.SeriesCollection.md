@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SeriesCollection Method (Word)
+title: ChartGroup.SeriesCollection method (Word)
 keywords: vbawd10.chm263454745
 f1_keywords:
 - vbawd10.chm263454745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SeriesCollection Method (Word)
+# ChartGroup.SeriesCollection method (Word)
 
 Returns all the series in the chart group.
 

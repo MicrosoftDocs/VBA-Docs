@@ -1,5 +1,5 @@
 ---
-title: Watch.Source Property (Excel)
+title: Watch.Source property (Excel)
 keywords: vbaxl10.chm690074
 f1_keywords:
 - vbaxl10.chm690074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watch.Source Property (Excel)
+# Watch.Source property (Excel)
 
 Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.ListObject.SourceType.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery** .
 

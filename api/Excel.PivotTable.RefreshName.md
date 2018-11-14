@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RefreshName Property (Excel)
+title: PivotTable.RefreshName property (Excel)
 keywords: vbaxl10.chm235091
 f1_keywords:
 - vbaxl10.chm235091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RefreshName Property (Excel)
+# PivotTable.RefreshName property (Excel)
 
 Returns the name of the person who last refreshed the PivotTable report data. Read-only  **String** .
 

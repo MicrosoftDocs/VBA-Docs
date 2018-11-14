@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ShapeStyle Property (Word)
+title: ShapeRange.ShapeStyle property (Word)
 keywords: vbawd10.chm162857110
 f1_keywords:
 - vbawd10.chm162857110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ShapeStyle Property (Word)
+# ShapeRange.ShapeStyle property (Word)
 
 Returns or sets the shape style for the shapes in the specified shape range. Read/write [MsoShapeStyleIndex](./Office.MsoShapeStyleIndex.md).
 

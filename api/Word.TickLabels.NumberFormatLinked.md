@@ -1,5 +1,5 @@
 ---
-title: TickLabels.NumberFormatLinked Property (Word)
+title: TickLabels.NumberFormatLinked property (Word)
 keywords: vbawd10.chm167051270
 f1_keywords:
 - vbawd10.chm167051270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.NumberFormatLinked Property (Word)
+# TickLabels.NumberFormatLinked property (Word)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Column.IsFirst Property (Word)
+title: Column.IsFirst property (Word)
 keywords: vbawd10.chm156172292
 f1_keywords:
 - vbawd10.chm156172292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.IsFirst Property (Word)
+# Column.IsFirst property (Word)
 
  **True** if the specified column or row is the first one in the table. Read-only **Boolean** .
 

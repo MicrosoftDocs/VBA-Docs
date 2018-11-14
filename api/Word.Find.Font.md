@@ -1,5 +1,5 @@
 ---
-title: Find.Font Property (Word)
+title: Find.Font property (Word)
 keywords: vbawd10.chm162529291
 f1_keywords:
 - vbawd10.chm162529291
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Font Property (Word)
+# Find.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
 

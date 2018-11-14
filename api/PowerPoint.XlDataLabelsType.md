@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelsType Enumeration (PowerPoint)
+title: xlDataLabelsType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDataLabelsType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelsType Enumeration (PowerPoint)
+# xlDataLabelsType Enumeration (PowerPoint)
 
 Specifies the type of data label to apply.
 

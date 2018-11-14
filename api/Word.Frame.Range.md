@@ -1,5 +1,5 @@
 ---
-title: Frame.Range Property (Word)
+title: Frame.Range property (Word)
 keywords: vbawd10.chm153747471
 f1_keywords:
 - vbawd10.chm153747471
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Range Property (Word)
+# Frame.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained within the frame.
 

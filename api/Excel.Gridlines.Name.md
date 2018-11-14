@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Name Property (Excel)
+title: Gridlines.Name property (Excel)
 keywords: vbaxl10.chm602074
 f1_keywords:
 - vbaxl10.chm602074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Name Property (Excel)
+# Gridlines.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

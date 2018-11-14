@@ -1,5 +1,5 @@
 ---
-title: Point.Has3DEffect Property (Word)
+title: Point.Has3DEffect property (Word)
 keywords: vbawd10.chm262145665
 f1_keywords:
 - vbawd10.chm262145665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Has3DEffect Property (Word)
+# Point.Has3DEffect property (Word)
 
  **True** if a point has a three-dimensional appearance. Read/write **Boolean** .
 

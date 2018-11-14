@@ -24,7 +24,7 @@ Declares a type for an enumeration.
 The  **Enum** statement has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Specifies that the  **Enum** type is visible throughout the [project](../../Glossary/vbe-glossary.md#project).  **Enum** types are **Public** by default.|
 |**Private**|Optional. Specifies that the  **Enum** type is visible only within the [module](../../Glossary/vbe-glossary.md#module) in which it appears.|

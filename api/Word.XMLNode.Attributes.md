@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Attributes Property (Word)
+title: XMLNode.Attributes property (Word)
 keywords: vbawd10.chm37748751
 f1_keywords:
 - vbawd10.chm37748751
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Attributes Property (Word)
+# XMLNode.Attributes property (Word)
 
 Returns an  **XMLNodes** collection that represents the attributes for the specified element.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Creator Property (Excel)
+title: Range.Creator property (Excel)
 keywords: vbaxl10.chm143074
 f1_keywords:
 - vbaxl10.chm143074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Creator Property (Excel)
+# Range.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

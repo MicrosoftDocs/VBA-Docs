@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowHeaders Property (Excel)
+title: ListObject.ShowHeaders property (Excel)
 keywords: vbaxl10.chm734098
 f1_keywords:
 - vbaxl10.chm734098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowHeaders Property (Excel)
+# ListObject.ShowHeaders property (Excel)
 
 Returns or sets if the header information should be displayed for the specified  **ListObject** object. Read/write **Boolean** .
 

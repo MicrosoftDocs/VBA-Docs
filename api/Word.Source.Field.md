@@ -1,5 +1,5 @@
 ---
-title: Source.Field Property (Word)
+title: Source.Field property (Word)
 keywords: vbawd10.chm140836968
 f1_keywords:
 - vbawd10.chm140836968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.Field Property (Word)
+# Source.Field property (Word)
 
 Returns a  **String** that represents the value of a field in a bibliography source. Read-only.
 

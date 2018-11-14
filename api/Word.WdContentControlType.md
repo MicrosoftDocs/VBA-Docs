@@ -1,5 +1,5 @@
 ---
-title: WdContentControlType Enumeration (Word)
+title: WdContentControlType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdContentControlType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdContentControlType Enumeration (Word)
+# WdContentControlType enumeration (Word)
 
 Indicates the type of content control.
 

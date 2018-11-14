@@ -1,5 +1,5 @@
 ---
-title: Application.PreviousSelections Property (Excel)
+title: Application.PreviousSelections property (Excel)
 keywords: vbaxl10.chm133191
 f1_keywords:
 - vbaxl10.chm133191
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PreviousSelections Property (Excel)
+# Application.PreviousSelections property (Excel)
 
 Returns an array of the last four ranges or names selected. Each element in the array is a  **[Range](Excel.Range(object).md)** object. Read-only **Variant** .
 

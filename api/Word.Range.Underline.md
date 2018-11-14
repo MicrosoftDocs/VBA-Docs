@@ -1,5 +1,5 @@
 ---
-title: Range.Underline Property (Word)
+title: Range.Underline property (Word)
 keywords: vbawd10.chm157155467
 f1_keywords:
 - vbawd10.chm157155467
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Underline Property (Word)
+# Range.Underline property (Word)
 
 Returns or sets the type of underline applied to a range. Read/write  **WdUnderline** .
 

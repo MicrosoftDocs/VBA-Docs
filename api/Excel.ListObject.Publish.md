@@ -1,5 +1,5 @@
 ---
-title: ListObject.Publish Method (Excel)
+title: ListObject.Publish method (Excel)
 keywords: vbaxl10.chm734074
 f1_keywords:
 - vbaxl10.chm734074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Publish Method (Excel)
+# ListObject.Publish method (Excel)
 
 Publishes the  **[ListObject](Excel.ListObject.md)** object to a server that is running Microsoft SharePoint Foundation.
 

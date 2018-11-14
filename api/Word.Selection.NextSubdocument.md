@@ -1,5 +1,5 @@
 ---
-title: Selection.NextSubdocument Method (Word)
+title: Selection.NextSubdocument method (Word)
 keywords: vbawd10.chm158663170
 f1_keywords:
 - vbawd10.chm158663170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.NextSubdocument Method (Word)
+# Selection.NextSubdocument method (Word)
 
 Moves the selection to the next subdocument.
 

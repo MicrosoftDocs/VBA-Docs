@@ -1,5 +1,5 @@
 ---
-title: TextColumn.Width Property (Word)
+title: TextColumn.Width property (Word)
 ms.prod: word
 api_name:
 - Word.TextColumn.Width
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn.Width Property (Word)
+# TextColumn.Width property (Word)
 
 Returns or sets the width, in points, of the specified text columns. Read/write  **Long** .
 

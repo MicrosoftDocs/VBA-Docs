@@ -1,5 +1,5 @@
 ---
-title: XlDataLabelsType Enumeration (Excel)
+title: xlDataLabelsType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataLabelsType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataLabelsType Enumeration (Excel)
+# xlDataLabelsType enumeration (Excel)
 
 Specifies the type of data label to apply.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.InsertParagraphBefore Method (Word)
+title: Range.InsertParagraphBefore method (Word)
 keywords: vbawd10.chm157155540
 f1_keywords:
 - vbawd10.chm157155540
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertParagraphBefore Method (Word)
+# Range.InsertParagraphBefore method (Word)
 
 Inserts a new paragraph before the specified range.
 

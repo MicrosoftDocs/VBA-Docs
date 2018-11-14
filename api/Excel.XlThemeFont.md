@@ -1,5 +1,5 @@
 ---
-title: XlThemeFont Enumeration (Excel)
+title: xlThemeFont enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlThemeFont
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlThemeFont Enumeration (Excel)
+# xlThemeFont enumeration (Excel)
 
 Specifies the theme font to use.
 

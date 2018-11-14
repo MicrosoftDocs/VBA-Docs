@@ -1,5 +1,5 @@
 ---
-title: Options.ButtonFieldClicks Property (Word)
+title: Options.ButtonFieldClicks property (Word)
 keywords: vbawd10.chm162988059
 f1_keywords:
 - vbawd10.chm162988059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ButtonFieldClicks Property (Word)
+# Options.ButtonFieldClicks property (Word)
 
 Returns or sets the number of clicks (either one or two) required to run a GOTOBUTTON or MACROBUTTON field. Read/write  **Long** .
 

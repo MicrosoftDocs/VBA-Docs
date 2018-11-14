@@ -20,7 +20,7 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare p
 The **Private** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**WithEvents**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) that specifies that _varname_ is an [object variable](../../Glossary/vbe-glossary.md#object-variable) used to respond to events triggered by an [ActiveX object](../../Glossary/vbe-glossary.md#activex-object).  **WithEvents** is valid only in [class modules](../../Glossary/vbe-glossary.md#class-module). You can declare as many individual variables as you like using **WithEvents**, but you can't create [arrays](../../Glossary/vbe-glossary.md#array) with **WithEvents**. You can't use **New** with **WithEvents**.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
@@ -60,7 +60,7 @@ When variables are initialized, a numeric variable is initialized to 0, a variab
 
 
 > [!NOTE] 
-> When you use the **Private** statement in a procedure, you generally put the **Private** statement at the beginning of the procedure.
+> The **Private** statement cannot be used inside a procedure; use the **Dim** statement to declare local variables.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: ChartObject.ShapeRange Property (Excel)
+title: ChartObject.ShapeRange property (Excel)
 keywords: vbaxl10.chm494097
 f1_keywords:
 - vbaxl10.chm494097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.ShapeRange Property (Excel)
+# ChartObject.ShapeRange property (Excel)
 
 Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
 

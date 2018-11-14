@@ -1,5 +1,5 @@
 ---
-title: XlImportDataAs Enumeration (Excel)
+title: xlImportDataAs enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlImportDataAs
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlImportDataAs Enumeration (Excel)
+# xlImportDataAs enumeration (Excel)
 
 Specifies the format in which to return data from a database.
 

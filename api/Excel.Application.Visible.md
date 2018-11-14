@@ -1,5 +1,5 @@
 ---
-title: Application.Visible Property (Excel)
+title: Application.Visible property (Excel)
 keywords: vbaxl10.chm133229
 f1_keywords:
 - vbaxl10.chm133229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Visible Property (Excel)
+# Application.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

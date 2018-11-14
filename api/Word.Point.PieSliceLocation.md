@@ -1,5 +1,5 @@
 ---
-title: Point.PieSliceLocation Method (Word)
+title: Point.PieSliceLocation method (Word)
 keywords: vbawd10.chm262146656
 f1_keywords:
 - vbawd10.chm262146656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.PieSliceLocation Method (Word)
+# Point.PieSliceLocation method (Word)
 
 Returns the vertical or horizontal position of a point on a chart item, in points, from the top or left edge of the object to the top or left edge of the chart area.
 
@@ -29,8 +29,8 @@ Returns the vertical or horizontal position of a point on a chart item, in point
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _loc_|Required| **[XlPieSliceLocation](Word.xlpieslicelocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional| **[XlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint** .|
+| _loc_|Required| **[xlPieSliceLocation](Word.xlpieslicelocation.md)**|Specifies a horizontal or vertical coordinate.|
+| _Index_|Optional| **[xlPieSliceIndex](Word.xlpiesliceindex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint** .|
 
 ## Return value
 

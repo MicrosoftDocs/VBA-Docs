@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayZeros Property (Excel)
+title: Window.DisplayZeros property (Excel)
 keywords: vbaxl10.chm356090
 f1_keywords:
 - vbaxl10.chm356090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayZeros Property (Excel)
+# Window.DisplayZeros property (Excel)
 
  **True** if zero values are displayed. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Caption Property (Excel)
+title: AxisTitle.Caption property (Excel)
 keywords: vbaxl10.chm565078
 f1_keywords:
 - vbaxl10.chm565078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Caption Property (Excel)
+# AxisTitle.Caption property (Excel)
 
 Returns or sets a  **String** value that represents the axis title text.
 

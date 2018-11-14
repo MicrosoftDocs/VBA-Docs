@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Count Property (Word)
+title: Trendlines.Count property (Word)
 keywords: vbawd10.chm102367350
 f1_keywords:
 - vbawd10.chm102367350
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Count Property (Word)
+# Trendlines.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

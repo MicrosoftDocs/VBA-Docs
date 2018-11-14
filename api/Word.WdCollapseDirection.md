@@ -1,5 +1,5 @@
 ---
-title: WdCollapseDirection Enumeration (Word)
+title: WdCollapseDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCollapseDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCollapseDirection Enumeration (Word)
+# WdCollapseDirection enumeration (Word)
 
 Specifies the direction in which to collapse a range or selection.
 

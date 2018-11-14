@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.TextRange Property (Excel)
+title: TextFrame2.TextRange property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.TextRange
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.TextRange Property (Excel)
+# TextFrame2.TextRange property (Excel)
 
 Returns the  **[TextRange2](./Office.TextRange2.md)** object that represents the text in the object. Read-only.
 

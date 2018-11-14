@@ -1,5 +1,5 @@
 ---
-title: Application.DDEAppReturnCode Property (Excel)
+title: Application.DDEAppReturnCode property (Excel)
 keywords: vbaxl10.chm183089
 f1_keywords:
 - vbaxl10.chm183089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEAppReturnCode Property (Excel)
+# Application.DDEAppReturnCode property (Excel)
 
 Returns the application-specific DDE return code that was contained in the last DDE acknowledge message received by Microsoft Excel. Read-only  **Long** .
 

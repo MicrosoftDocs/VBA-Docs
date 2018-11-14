@@ -1,5 +1,5 @@
 ---
-title: QueryTable.WorkbookConnection Property (Excel)
+title: QueryTable.WorkbookConnection property (Excel)
 keywords: vbaxl10.chm518138
 f1_keywords:
 - vbaxl10.chm518138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.WorkbookConnection Property (Excel)
+# QueryTable.WorkbookConnection property (Excel)
 
 Returns the  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that the query table uses. Read-only.
 

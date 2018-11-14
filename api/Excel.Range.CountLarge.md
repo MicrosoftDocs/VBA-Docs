@@ -1,5 +1,5 @@
 ---
-title: Range.CountLarge Property (Excel)
+title: Range.CountLarge property (Excel)
 keywords: vbaxl10.chm144247
 f1_keywords:
 - vbaxl10.chm144247
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CountLarge Property (Excel)
+# Range.CountLarge property (Excel)
 
 Returns a value that represents the number of objects in the collection. Read-only  **Variant** .
 

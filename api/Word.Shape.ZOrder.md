@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrder Method (Word)
+title: Shape.ZOrder method (Word)
 keywords: vbawd10.chm161480728
 f1_keywords:
 - vbawd10.chm161480728
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ZOrder Method (Word)
+# Shape.ZOrder method (Word)
 
 Moves the specified shape in front of or behind other shapes in the collection (that is, changes the shape's position in the z-order).
 

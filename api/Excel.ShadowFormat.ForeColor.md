@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.ForeColor Property (Excel)
+title: ShadowFormat.ForeColor property (Excel)
 keywords: vbaxl10.chm114002
 f1_keywords:
 - vbaxl10.chm114002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.ForeColor Property (Excel)
+# ShadowFormat.ForeColor property (Excel)
 
 Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the specified foreground fill or solid color.
 

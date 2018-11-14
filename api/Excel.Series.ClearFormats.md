@@ -1,5 +1,5 @@
 ---
-title: Series.ClearFormats Method (Excel)
+title: Series.ClearFormats method (Excel)
 keywords: vbaxl10.chm578077
 f1_keywords:
 - vbaxl10.chm578077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ClearFormats Method (Excel)
+# Series.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

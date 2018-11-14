@@ -1,5 +1,5 @@
 ---
-title: Windows Object (Word)
+title: Windows object (Word)
 keywords: vbawd10.chm2401
 f1_keywords:
 - vbawd10.chm2401
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows Object (Word)
+# Windows object (Word)
 
 A collection of  **[Window](Word.Window.md)** objects that represent all the available windows. The **Windows** collection for the **Application** object contains all the windows in the application, whereas the **Windows** collection for the **Document** object contains only the windows that display the specified document.
 

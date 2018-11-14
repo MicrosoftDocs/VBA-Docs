@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.RelyOnCSS Property (Word)
+title: DefaultWebOptions.RelyOnCSS property (Word)
 keywords: vbawd10.chm165871619
 f1_keywords:
 - vbawd10.chm165871619
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.RelyOnCSS Property (Word)
+# DefaultWebOptions.RelyOnCSS property (Word)
 
  **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. Read/write **Boolean** .
 

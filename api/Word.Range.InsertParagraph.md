@@ -1,5 +1,5 @@
 ---
-title: Range.InsertParagraph Method (Word)
+title: Range.InsertParagraph method (Word)
 keywords: vbawd10.chm157155488
 f1_keywords:
 - vbawd10.chm157155488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertParagraph Method (Word)
+# Range.InsertParagraph method (Word)
 
 Replaces the specified range with a new paragraph.
 

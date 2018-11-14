@@ -1,5 +1,5 @@
 ---
-title: Model.Refresh Method (Excel)
+title: Model.Refresh method (Excel)
 keywords: vbaxl10.chm942075
 f1_keywords:
 - vbaxl10.chm942075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.Refresh Method (Excel)
+# Model.Refresh method (Excel)
 
 Refreshes all data sources associated with the model, fully reprocesses the model and updates all Excel data features associated with the Model.
 

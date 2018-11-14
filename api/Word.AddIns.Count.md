@@ -1,5 +1,5 @@
 ---
-title: AddIns.Count Property (Word)
+title: AddIns.Count property (Word)
 keywords: vbawd10.chm159318017
 f1_keywords:
 - vbawd10.chm159318017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Count Property (Word)
+# AddIns.Count property (Word)
 
 Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** collection. Read-only **Long** .
 

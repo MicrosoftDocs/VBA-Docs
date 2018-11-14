@@ -1,5 +1,5 @@
 ---
-title: Style.Application Property (Word)
+title: Style.Application property (Word)
 keywords: vbawd10.chm153879528
 f1_keywords:
 - vbawd10.chm153879528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Application Property (Word)
+# Style.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

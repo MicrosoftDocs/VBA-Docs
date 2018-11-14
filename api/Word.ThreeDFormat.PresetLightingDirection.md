@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingDirection Property (Word)
+title: ThreeDFormat.PresetLightingDirection property (Word)
 keywords: vbawd10.chm164626537
 f1_keywords:
 - vbawd10.chm164626537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLightingDirection Property (Word)
+# ThreeDFormat.PresetLightingDirection property (Word)
 
 Returns or sets the position of the light source relative to the extrusion. Read/write  **MsoPresetLightingDirection** .
 

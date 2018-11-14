@@ -1,5 +1,5 @@
 ---
-title: ContentControls.Add Method (Word)
+title: ContentControls.Add method (Word)
 keywords: vbawd10.chm157745153
 f1_keywords:
 - vbawd10.chm157745153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControls.Add Method (Word)
+# ContentControls.Add method (Word)
 
 Adds a new content control, of the type specified, into the active document and returns a  **[ContentControl](Word.ContentControl.md)** object that represents the new content control.
 

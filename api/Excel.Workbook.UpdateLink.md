@@ -1,5 +1,5 @@
 ---
-title: Workbook.UpdateLink Method (Excel)
+title: Workbook.UpdateLink method (Excel)
 keywords: vbaxl10.chm199160
 f1_keywords:
 - vbaxl10.chm199160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UpdateLink Method (Excel)
+# Workbook.UpdateLink method (Excel)
 
 Updates a Microsoft Excel, DDE, or OLE link (or links).
 
@@ -30,7 +30,7 @@ Updates a Microsoft Excel, DDE, or OLE link (or links).
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional| **Variant**|The name of the Microsoft Excel or DDE/OLE link to be updated, as returned from the  **[LinkSources](Excel.Workbook.LinkSources.md)** method.|
-| _Type_|Optional| **Variant**|One of the constants of  **[XlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
+| _Type_|Optional| **Variant**|One of the constants of  **[xlLinkType](Excel.XlLinkType.md)** specifying the type of link.|
 
 ## Remarks
 

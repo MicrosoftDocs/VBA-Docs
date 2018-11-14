@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.Item Method (Word)
+title: AutoTextEntries.Item method (Word)
 keywords: vbawd10.chm154599424
 f1_keywords:
 - vbawd10.chm154599424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries.Item Method (Word)
+# AutoTextEntries.Item method (Word)
 
 Returns an individual  **AutoTextEntry** object in a collection.
 

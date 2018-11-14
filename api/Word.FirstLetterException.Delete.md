@@ -1,5 +1,5 @@
 ---
-title: FirstLetterException.Delete Method (Word)
+title: FirstLetterException.Delete method (Word)
 keywords: vbawd10.chm155517029
 f1_keywords:
 - vbawd10.chm155517029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterException.Delete Method (Word)
+# FirstLetterException.Delete method (Word)
 
 Deletes the  **FirstLetterException** object.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Position Property (Word)
+title: ChartTitle.Position property (Word)
 keywords: vbawd10.chm65275527
 f1_keywords:
 - vbawd10.chm65275527
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Position Property (Word)
+# ChartTitle.Position property (Word)
 
-Returns or sets the position of the chart title on the chart. Read/write  **[XlChartElementPosition](Word.xlchartelementposition.md)** .
+Returns or sets the position of the chart title on the chart. Read/write  **[xlChartElementPosition](Word.xlchartelementposition.md)** .
 
 
 ## Syntax

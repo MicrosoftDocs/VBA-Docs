@@ -1,5 +1,5 @@
 ---
-title: ChartData.BreakLink Method (Word)
+title: ChartData.BreakLink method (Word)
 keywords: vbawd10.chm190382083
 f1_keywords:
 - vbawd10.chm190382083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData.BreakLink Method (Word)
+# ChartData.BreakLink method (Word)
 
 Removes the link between the data for a chart and a Microsoft Excel workbook.
 

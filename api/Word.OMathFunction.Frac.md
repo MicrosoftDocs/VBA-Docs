@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Frac Property (Word)
+title: OMathFunction.Frac property (Word)
 keywords: vbawd10.chm22151279
 f1_keywords:
 - vbawd10.chm22151279
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Frac Property (Word)
+# OMathFunction.Frac property (Word)
 
 Returns an  **[OMathFrac](Word.OMathFrac.md)** object that represents a fraction. Read-only.
 

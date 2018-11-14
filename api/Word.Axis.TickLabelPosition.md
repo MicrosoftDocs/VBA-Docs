@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelPosition Property (Word)
+title: Axis.TickLabelPosition property (Word)
 keywords: vbawd10.chm113049648
 f1_keywords:
 - vbawd10.chm113049648
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabelPosition Property (Word)
+# Axis.TickLabelPosition property (Word)
 
-Describes the position of tick-mark labels on the specified axis. Read/write  **[XlTickLabelPosition](Word.xlticklabelposition.md)** .
+Describes the position of tick-mark labels on the specified axis. Read/write  **[xlTickLabelPosition](Word.xlticklabelposition.md)** .
 
 
 ## Syntax

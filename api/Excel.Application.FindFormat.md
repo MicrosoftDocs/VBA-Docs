@@ -1,5 +1,5 @@
 ---
-title: Application.FindFormat Property (Excel)
+title: Application.FindFormat property (Excel)
 keywords: vbaxl10.chm133262
 f1_keywords:
 - vbaxl10.chm133262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FindFormat Property (Excel)
+# Application.FindFormat property (Excel)
 
 Sets or returns the search criteria for the type of cell formats to find.
 

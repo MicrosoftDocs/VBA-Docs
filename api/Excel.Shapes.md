@@ -1,5 +1,5 @@
 ﻿---
-title: Shapes Object (Excel)
+title: Shapes object (Excel)
 keywords: vbaxl10.chm637072
 f1_keywords:
 - vbaxl10.chm637072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes Object (Excel)
+# Shapes object (Excel)
 
 A collection of all the  **[Shape](Excel.Shape.md)** objects on the specified sheet.
 

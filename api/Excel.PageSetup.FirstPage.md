@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FirstPage Property (Excel)
+title: PageSetup.FirstPage property (Excel)
 keywords: vbaxl10.chm473118
 f1_keywords:
 - vbaxl10.chm473118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.FirstPage Property (Excel)
+# PageSetup.FirstPage property (Excel)
 
 Returns or sets the alignment of text on the first page of a workbook or section.
 

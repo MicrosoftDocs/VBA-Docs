@@ -1,5 +1,5 @@
 ---
-title: HeadingStyles.Parent Property (Word)
+title: HeadingStyles.Parent property (Word)
 keywords: vbawd10.chm160039914
 f1_keywords:
 - vbawd10.chm160039914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles.Parent Property (Word)
+# HeadingStyles.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **HeadingStyles** object.
 

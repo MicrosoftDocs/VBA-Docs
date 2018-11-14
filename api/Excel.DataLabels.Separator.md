@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Separator Property (Excel)
+title: DataLabels.Separator property (Excel)
 keywords: vbaxl10.chm584104
 f1_keywords:
 - vbaxl10.chm584104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Separator Property (Excel)
+# DataLabels.Separator property (Excel)
 
 Sets or returns a  **Variant** representing the separator used for the data labels on a chart. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.Fields Property (Word)
+title: Selection.Fields property (Word)
 keywords: vbawd10.chm158662720
 f1_keywords:
 - vbawd10.chm158662720
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Fields Property (Word)
+# Selection.Fields property (Word)
 
 Returns a read-only  **[Fields](Word.fields.md)** collection that represents all the fields in the selection.
 

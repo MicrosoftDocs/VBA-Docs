@@ -1,5 +1,5 @@
 ---
-title: Series.Delete Method (Word)
+title: Series.Delete method (Word)
 keywords: vbawd10.chm123732085
 f1_keywords:
 - vbawd10.chm123732085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Delete Method (Word)
+# Series.Delete method (Word)
 
 Deletes the object.
 

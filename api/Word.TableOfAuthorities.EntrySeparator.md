@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.EntrySeparator Property (Word)
+title: TableOfAuthorities.EntrySeparator property (Word)
 keywords: vbawd10.chm152109063
 f1_keywords:
 - vbawd10.chm152109063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.EntrySeparator Property (Word)
+# TableOfAuthorities.EntrySeparator property (Word)
 
 Returns or sets the characters (up to five) that separate a table of authorities entry and its page number. Read/write  **String** .
 

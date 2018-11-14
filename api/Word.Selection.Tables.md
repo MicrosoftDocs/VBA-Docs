@@ -1,5 +1,5 @@
 ---
-title: Selection.Tables Property (Word)
+title: Selection.Tables property (Word)
 keywords: vbawd10.chm158662706
 f1_keywords:
 - vbawd10.chm158662706
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Tables Property (Word)
+# Selection.Tables property (Word)
 
 Returns a  **[Tables](Word.tables.md)** collection that represents all the tables in the specified selection. Read-only.
 

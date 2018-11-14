@@ -1,5 +1,5 @@
 ---
-title: TableStyle.ShowAsAvailableTableStyle Property (Excel)
+title: TableStyle.ShowAsAvailableTableStyle property (Excel)
 keywords: vbaxl10.chm839078
 f1_keywords:
 - vbaxl10.chm839078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.ShowAsAvailableTableStyle Property (Excel)
+# TableStyle.ShowAsAvailableTableStyle property (Excel)
 
 Returns or sets a table style shown as available in the table styles gallery. Read/write  **Boolean** .
 

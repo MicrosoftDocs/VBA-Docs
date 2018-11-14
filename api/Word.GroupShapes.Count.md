@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Count Property (Word)
+title: GroupShapes.Count property (Word)
 keywords: vbawd10.chm162922498
 f1_keywords:
 - vbawd10.chm162922498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Count Property (Word)
+# GroupShapes.Count property (Word)
 
 Returns a  **Long** that represents the number of shapes in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Window.UsableHeight Property (Excel)
+title: Window.UsableHeight property (Excel)
 keywords: vbaxl10.chm356119
 f1_keywords:
 - vbaxl10.chm356119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.UsableHeight Property (Excel)
+# Window.UsableHeight property (Excel)
 
 Returns the maximum height of the space that a window can occupy in the application window area, in points. Read-only  **Double** .
 

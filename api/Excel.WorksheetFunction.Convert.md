@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Convert Method (Excel)
+title: WorksheetFunction.Convert method (Excel)
 keywords: vbaxl10.chm137344
 f1_keywords:
 - vbaxl10.chm137344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Convert Method (Excel)
+# WorksheetFunction.Convert method (Excel)
 
 Converts a number from one measurement system to another. For example, Convert can translate a table of distances in miles to a table of distances in kilometers.
 

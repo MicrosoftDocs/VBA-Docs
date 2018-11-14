@@ -1,5 +1,5 @@
 ---
-title: Style.Font Property (Word)
+title: Style.Font property (Word)
 keywords: vbawd10.chm153878538
 f1_keywords:
 - vbawd10.chm153878538
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Font Property (Word)
+# Style.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified style. Read/write **Font** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes Object (Word)
+title: ShapeNodes object (Word)
 keywords: vbawd10.chm2510
 f1_keywords:
 - vbawd10.chm2510
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes Object (Word)
+# ShapeNodes object (Word)
 
 A collection of all the  **[ShapeNode](Word.ShapeNode.md)** objects in the specified freeform. Each **ShapeNode** object represents either a node between segments in a freeform or a control point for a curved segment of a freeform.
 

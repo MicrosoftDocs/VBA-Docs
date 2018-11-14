@@ -1,5 +1,5 @@
 ---
-title: Interior.Gradient Property (Excel)
+title: Interior.Gradient property (Excel)
 keywords: vbaxl10.chm551083
 f1_keywords:
 - vbaxl10.chm551083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Gradient Property (Excel)
+# Interior.Gradient property (Excel)
 
 Returns or sets the **Gradient** property of an **Interior** object of a selection. Read-only
 

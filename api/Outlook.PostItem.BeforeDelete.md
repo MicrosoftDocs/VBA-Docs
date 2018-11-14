@@ -31,7 +31,7 @@ Occurs before an item (which is an instance of the parent object) is deleted.
 
 ## Remarks
 
-In order for this event to fire when an e-mail message, distribution list, journal entry, task, contact, or post are deleted through an action, an inspector must be open.
+In order for this event to fire when an email message, distribution list, journal entry, task, contact, or post are deleted through an action, an inspector must be open.
 
 The event occurs each time an item is deleted.
 

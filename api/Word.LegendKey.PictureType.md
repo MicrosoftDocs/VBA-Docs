@@ -1,5 +1,5 @@
 ---
-title: LegendKey.PictureType Property (Word)
+title: LegendKey.PictureType property (Word)
 keywords: vbawd10.chm266207393
 f1_keywords:
 - vbawd10.chm266207393
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.PictureType Property (Word)
+# LegendKey.PictureType property (Word)
 
-Returns or sets the way pictures are displayed on a legend key. Read/write  **[XlChartPictureType](Word.xlchartpicturetype.md)** .
+Returns or sets the way pictures are displayed on a legend key. Read/write  **[xlChartPictureType](Word.xlchartpicturetype.md)** .
 
 
 ## Syntax

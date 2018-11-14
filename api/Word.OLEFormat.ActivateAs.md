@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.ActivateAs Method (Word)
+title: OLEFormat.ActivateAs method (Word)
 keywords: vbawd10.chm154337391
 f1_keywords:
 - vbawd10.chm154337391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.ActivateAs Method (Word)
+# OLEFormat.ActivateAs method (Word)
 
 Sets the Windows registry value that determines the default application used to activate the specified OLE object.
 

@@ -21,7 +21,7 @@ _object_**.Add(**_component_**)**
 The  **Add** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _component_|Required. For the  **LinkedWindows** collection, an object. For the **VBComponents** collection, an enumerated[constant](../../Glossary/vbe-glossary.md#constant) representing a [class module](../../Glossary/vbe-glossary.md#class-module), a form, or a [standard module](../../Glossary/vbe-glossary.md#standard-module). For the  **VBProjects** collection, an enumerated constant representing a project type.|

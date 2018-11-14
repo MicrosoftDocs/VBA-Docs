@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Propagate Method (Word)
+title: DataLabels.Propagate method (Word)
 keywords: vbawd10.chm207489004
 f1_keywords:
 - vbawd10.chm207489004
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Propagate Method (Word)
+# DataLabels.Propagate method (Word)
 
 Propagates the contents and formatting of the specified data label to all the other data labels in the series.
 
@@ -25,7 +25,7 @@ Propagates the contents and formatting of the specified data label to all the ot
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Required|VARIANT|The index number in the  **DataLabels** collection of the data label to propagate.|

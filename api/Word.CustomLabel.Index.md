@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Index Property (Word)
+title: CustomLabel.Index property (Word)
 keywords: vbawd10.chm152371201
 f1_keywords:
 - vbawd10.chm152371201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Index Property (Word)
+# CustomLabel.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

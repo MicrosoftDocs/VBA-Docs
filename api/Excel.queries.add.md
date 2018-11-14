@@ -1,5 +1,5 @@
 ---
-title: Queries.Add Method (Excel)
+title: Queries.Add method (Excel)
 keywords: vbaxl10.chm976074
 f1_keywords:
 - vbaxl10.chm976074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.Add Method (Excel)
+# Queries.Add method (Excel)
 
 Adds a new [WorkbookQuery](Excel.workbookquery.md) object to the **Queries** collection.
 

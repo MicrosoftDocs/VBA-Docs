@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientVariant Property (Word)
+title: FillFormat.GradientVariant property (Word)
 keywords: vbawd10.chm164102249
 f1_keywords:
 - vbawd10.chm164102249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientVariant Property (Word)
+# FillFormat.GradientVariant property (Word)
 
 Returns the gradient variant for the specified fill as an integer value from 1 to 4 for most gradient fills. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Scripts Property (Word)
+title: Document.Scripts property (Word)
 keywords: vbawd10.chm158007616
 f1_keywords:
 - vbawd10.chm158007616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Scripts Property (Word)
+# Document.Scripts property (Word)
 
 Returns a  **Scripts** collection that represents the collection of HTML scripts in the specified object.
 

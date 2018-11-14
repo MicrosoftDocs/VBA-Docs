@@ -1,5 +1,5 @@
 ---
-title: XlColorIndex Enumeration (Excel)
+title: xlColorIndex enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlColorIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlColorIndex Enumeration (Excel)
+# xlColorIndex enumeration (Excel)
 
 Specifies the color of a selected feature, such as a border, font, or fill.
 

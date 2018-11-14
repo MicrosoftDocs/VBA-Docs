@@ -1,5 +1,5 @@
 ---
-title: Range.Bold Property (Word)
+title: Range.Bold property (Word)
 keywords: vbawd10.chm157155458
 f1_keywords:
 - vbawd10.chm157155458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Bold Property (Word)
+# Range.Bold property (Word)
 
  **True** if the range is formatted as bold. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Columns.PreferredWidth Property (Word)
+title: Columns.PreferredWidth property (Word)
 keywords: vbawd10.chm155910249
 f1_keywords:
 - vbawd10.chm155910249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.PreferredWidth Property (Word)
+# Columns.PreferredWidth property (Word)
 
 Returns or sets the preferred width (in points or as a percentage of the window width) for the specified columns. Read/write  **Single** .
 

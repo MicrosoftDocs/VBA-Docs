@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationY Method (Excel)
+title: ThreeDFormat.IncrementRotationY method (Excel)
 keywords: vbaxl10.chm119021
 f1_keywords:
 - vbaxl10.chm119021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationY Method (Excel)
+# ThreeDFormat.IncrementRotationY method (Excel)
 
 Changes the rotation of the specified shape around the y-axis by the specified number of degrees. Use the  **[RotationY](Excel.ThreeDFormat.RotationY.md)** property to set the absolute rotation of the shape around the y-axis.
 

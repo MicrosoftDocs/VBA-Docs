@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Creator Property (Excel)
+title: TextFrame2.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Creator Property (Excel)
+# TextFrame2.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

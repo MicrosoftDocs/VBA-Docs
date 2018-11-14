@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Publish Method (Excel)
+title: PublishObject.Publish method (Excel)
 keywords: vbaxl10.chm652074
 f1_keywords:
 - vbaxl10.chm652074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Publish Method (Excel)
+# PublishObject.Publish method (Excel)
 
 Saves an item or a collection of items in a document to a Web page.
 

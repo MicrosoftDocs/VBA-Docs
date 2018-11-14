@@ -1,5 +1,5 @@
 ---
-title: Databar.PercentMax Property (Excel)
+title: Databar.PercentMax property (Excel)
 keywords: vbaxl10.chm810079
 f1_keywords:
 - vbaxl10.chm810079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.PercentMax Property (Excel)
+# Databar.PercentMax property (Excel)
 
 Returns or sets a  **Long** value that specifies the length of the longest data bar as a percentage of cell width.
 

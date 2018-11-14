@@ -1,5 +1,5 @@
 ---
-title: Series.LeaderLines Property (Word)
+title: Series.LeaderLines property (Word)
 keywords: vbawd10.chm123733634
 f1_keywords:
 - vbawd10.chm123733634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.LeaderLines Property (Word)
+# Series.LeaderLines property (Word)
 
 Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)** .
 

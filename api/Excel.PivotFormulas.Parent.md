@@ -1,5 +1,5 @@
 ---
-title: PivotFormulas.Parent Property (Excel)
+title: PivotFormulas.Parent property (Excel)
 keywords: vbaxl10.chm232075
 f1_keywords:
 - vbaxl10.chm232075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormulas.Parent Property (Excel)
+# PivotFormulas.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

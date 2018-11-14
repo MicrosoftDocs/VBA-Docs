@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.FormulaHidden Property (Excel)
+title: DisplayFormat.FormulaHidden property (Excel)
 keywords: vbaxl10.chm893078
 f1_keywords:
 - vbaxl10.chm893078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.FormulaHidden Property (Excel)
+# DisplayFormat.FormulaHidden property (Excel)
 
 Returns a value that indicates if the formula of the associated  **[Range](Excel.Range(object).md)** object is hidden when the worksheet is protected as it is displayed in the current user interface. Read-only.
 

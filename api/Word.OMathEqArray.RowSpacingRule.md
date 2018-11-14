@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.RowSpacingRule Property (Word)
+title: OMathEqArray.RowSpacingRule property (Word)
 keywords: vbawd10.chm174129259
 f1_keywords:
 - vbawd10.chm174129259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.RowSpacingRule Property (Word)
+# OMathEqArray.RowSpacingRule property (Word)
 
 Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that represents the rule that defines spacing in an equation array. Read/write.
 

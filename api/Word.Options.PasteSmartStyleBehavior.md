@@ -1,5 +1,5 @@
 ---
-title: Options.PasteSmartStyleBehavior Property (Word)
+title: Options.PasteSmartStyleBehavior property (Word)
 keywords: vbawd10.chm162988464
 f1_keywords:
 - vbawd10.chm162988464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteSmartStyleBehavior Property (Word)
+# Options.PasteSmartStyleBehavior property (Word)
 
  **True** if Microsoft Word intelligently merges styles when pasting a selection from a different document. Read/write **Boolean** .
 

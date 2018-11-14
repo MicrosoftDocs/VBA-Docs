@@ -20,7 +20,7 @@ The value of the  **TraceFlags** property can be a combination of the following 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTraceAddonInvokes**|&H4|Add-on invocations.|
 | **visTraceAdvises**|&H2|Outgoing advise calls.|

@@ -1,5 +1,5 @@
 ---
-title: Options.AllowOpenInDraftView Property (Word)
+title: Options.AllowOpenInDraftView property (Word)
 keywords: vbawd10.chm162988522
 f1_keywords:
 - vbawd10.chm162988522
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AllowOpenInDraftView Property (Word)
+# Options.AllowOpenInDraftView property (Word)
 
 Returns or sets a  **Boolean** that represents whether to allow users to open documents in draft view. Read/write.
 

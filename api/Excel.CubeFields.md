@@ -1,5 +1,5 @@
 ---
-title: CubeFields Object (Excel)
+title: CubeFields object (Excel)
 keywords: vbaxl10.chm669072
 f1_keywords:
 - vbaxl10.chm669072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeFields Object (Excel)
+# CubeFields object (Excel)
 
 A collection of all  **[CubeField](Excel.CubeField.md)** objects in a PivotTable report that is based on an OLAP cube. Each **CubeField** object represents a hierarchy or measure field from the cube.
 

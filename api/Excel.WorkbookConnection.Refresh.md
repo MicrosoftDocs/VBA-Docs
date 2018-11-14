@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.Refresh Method (Excel)
+title: WorkbookConnection.Refresh method (Excel)
 keywords: vbaxl10.chm774081
 f1_keywords:
 - vbaxl10.chm774081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.Refresh Method (Excel)
+# WorkbookConnection.Refresh method (Excel)
 
 Refreshes a workbook connection.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToFront Property (Word)
+title: Point.ApplyPictToFront property (Word)
 keywords: vbawd10.chm262145660
 f1_keywords:
 - vbawd10.chm262145660
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyPictToFront Property (Word)
+# Point.ApplyPictToFront property (Word)
 
  **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean** .
 

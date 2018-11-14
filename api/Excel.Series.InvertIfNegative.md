@@ -1,5 +1,5 @@
 ---
-title: Series.InvertIfNegative Property (Excel)
+title: Series.InvertIfNegative property (Excel)
 keywords: vbaxl10.chm578092
 f1_keywords:
 - vbaxl10.chm578092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.InvertIfNegative Property (Excel)
+# Series.InvertIfNegative property (Excel)
 
  **True** if Microsoft Excel inverts the pattern in the item when it corresponds to a negative number. Read/write **Boolean** .
 

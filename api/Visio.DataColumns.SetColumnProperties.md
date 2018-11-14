@@ -51,7 +51,7 @@ Possible values for items in the Properties() parameter array are declared in  *
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
 | **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|
@@ -69,7 +69,7 @@ Possible values for items in the Values() parameter array depend on the correspo
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to set the value of a single property for two different columns in the most recently added recordset in the  **DataRecordsets** collection of the active document. The macro assumes that the most recently added recordset is one based on data in the ORGDATA.xls spreadsheet that is shipped with Visio. Sample code for adding that data recordset is shown in the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method topic. However, you can use this code with any data recordset that has at least two columns.
 
-The macro changes the display name of the first column to "Dept." and sets the  **Hyperlink** property of the second column to **True** . Thereafter (if you used ORGDATA as your data source), the e-mail address of shapes linked to data in the data recordset will act as a hyperlink.
+The macro changes the display name of the first column to "Dept." and sets the  **Hyperlink** property of the second column to **True** . Thereafter (if you used ORGDATA as your data source), the email address of shapes linked to data in the data recordset will act as a hyperlink.
 
 Note that changing the display name of a data column changes only its  **[DisplayName](Visio.DataColumn.DisplayName.md)** property, and does not change the column's programmatic name, which is specified by its **[Name](Visio.DataColumn.Name.md)** property.
 

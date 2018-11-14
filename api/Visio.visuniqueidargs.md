@@ -15,7 +15,7 @@ Action codes to be passed to the  **Shape.UniqueID** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeleteGUID**|2|Clear the unique ID of a shape and return a zero-length string ("").|
 | **visDeleteGUIDWithUndo**|4|Clear the unique ID of a shape and return a zero-length string (""). Undoable.|

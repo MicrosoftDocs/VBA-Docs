@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DeleteReplacement Method (Excel)
+title: AutoCorrect.DeleteReplacement method (Excel)
 keywords: vbaxl10.chm545075
 f1_keywords:
 - vbaxl10.chm545075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.DeleteReplacement Method (Excel)
+# AutoCorrect.DeleteReplacement method (Excel)
 
 Deletes an entry from the array of AutoCorrect replacements.
 

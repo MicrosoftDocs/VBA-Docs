@@ -1,5 +1,5 @@
 ---
-title: Cell.Row Property (Word)
+title: Cell.Row property (Word)
 keywords: vbawd10.chm156106854
 f1_keywords:
 - vbawd10.chm156106854
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Row Property (Word)
+# Cell.Row property (Word)
 
 Returns a  **[Row](Word.Row.md)** object that represents the row containing the specified cell.
 

@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (Word)
+title: CalloutFormat.Gap property (Word)
 keywords: vbawd10.chm163905643
 f1_keywords:
 - vbawd10.chm163905643
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Gap Property (Word)
+# CalloutFormat.Gap property (Word)
 
 Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write  **Single** .
 

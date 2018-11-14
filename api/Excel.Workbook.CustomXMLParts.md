@@ -1,5 +1,5 @@
 ---
-title: Workbook.CustomXMLParts Property (Excel)
+title: Workbook.CustomXMLParts property (Excel)
 keywords: vbaxl10.chm199251
 f1_keywords:
 - vbaxl10.chm199251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.CustomXMLParts Property (Excel)
+# Workbook.CustomXMLParts property (Excel)
 
 Returns a  **[CustomXMLParts](./Office.CustomXMLParts.md)** collection that represents the custom XML in the XML data store. Read-only.
 

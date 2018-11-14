@@ -1,5 +1,5 @@
 ---
-title: Replacement.ClearFormatting Method (Word)
+title: Replacement.ClearFormatting method (Word)
 keywords: vbawd10.chm162594836
 f1_keywords:
 - vbawd10.chm162594836
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.ClearFormatting Method (Word)
+# Replacement.ClearFormatting method (Word)
 
 Removes text and paragraph formatting from the text specified in a replace operation.
 

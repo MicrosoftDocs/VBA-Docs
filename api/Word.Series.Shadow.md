@@ -1,5 +1,5 @@
 ---
-title: Series.Shadow Property (Word)
+title: Series.Shadow property (Word)
 keywords: vbawd10.chm123732071
 f1_keywords:
 - vbawd10.chm123732071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Shadow Property (Word)
+# Series.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

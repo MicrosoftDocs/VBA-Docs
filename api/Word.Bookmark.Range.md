@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Range Property (Word)
+title: Bookmark.Range property (Word)
 keywords: vbawd10.chm157810689
 f1_keywords:
 - vbawd10.chm157810689
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Range Property (Word)
+# Bookmark.Range property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the portion of a document that's contained in the specified object.
 

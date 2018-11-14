@@ -1,5 +1,5 @@
 ---
-title: View.ShowTextBoundaries Property (Word)
+title: View.ShowTextBoundaries property (Word)
 keywords: vbawd10.chm161808396
 f1_keywords:
 - vbawd10.chm161808396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowTextBoundaries Property (Word)
+# View.ShowTextBoundaries property (Word)
 
  **True** if dotted lines are displayed around page margins, text columns, objects, and frames in print layout view. Read/write **Boolean** .
 

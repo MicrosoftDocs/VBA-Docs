@@ -1,5 +1,5 @@
 ---
-title: Speech.Direction Property (Excel)
+title: Speech.Direction property (Excel)
 keywords: vbaxl10.chm718074
 f1_keywords:
 - vbaxl10.chm718074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Speech.Direction Property (Excel)
+# Speech.Direction property (Excel)
 
-Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an **[XlSpeakDirection](Excel.XlSpeakDirection.md)** constant. Read/write.
+Returns or sets the order in which the cells will be spoken. The value of the  **Direction** property is an **[xlSpeakDirection](Excel.XlSpeakDirection.md)** constant. Read/write.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the order in which the cells will be spoken. The value of the  *
 
 
 
-| **XlSpeakDirection** can be one of these **XlSpeakDirection** constants.|
+| **xlSpeakDirection** can be one of these **xlSpeakDirection** constants.|
 | **xlSpeakByColumns**|
 | **xlSpeakByRows**|
 

@@ -1,5 +1,5 @@
 ---
-title: UserAccessList.Add Method (Excel)
+title: UserAccessList.Add method (Excel)
 keywords: vbaxl10.chm726075
 f1_keywords:
 - vbaxl10.chm726075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserAccessList.Add Method (Excel)
+# UserAccessList.Add method (Excel)
 
 Adds a user access list.
 

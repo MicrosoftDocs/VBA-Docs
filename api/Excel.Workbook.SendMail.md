@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendMail Method (Excel)
+title: Workbook.SendMail method (Excel)
 keywords: vbaxl10.chm199149
 f1_keywords:
 - vbaxl10.chm199149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SendMail Method (Excel)
+# Workbook.SendMail method (Excel)
 
 Sends the workbook by using the installed mail system.
 

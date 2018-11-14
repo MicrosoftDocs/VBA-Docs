@@ -1,5 +1,5 @@
 ---
-title: ColorStops.Clear Method (Excel)
+title: ColorStops.Clear method (Excel)
 keywords: vbaxl10.chm853078
 f1_keywords:
 - vbaxl10.chm853078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorStops.Clear Method (Excel)
+# ColorStops.Clear method (Excel)
 
 Clears the represented object.
 

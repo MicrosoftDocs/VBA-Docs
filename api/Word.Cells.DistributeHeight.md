@@ -1,5 +1,5 @@
 ---
-title: Cells.DistributeHeight Method (Word)
+title: Cells.DistributeHeight method (Word)
 keywords: vbawd10.chm155844814
 f1_keywords:
 - vbawd10.chm155844814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.DistributeHeight Method (Word)
+# Cells.DistributeHeight method (Word)
 
 Adjusts the height of the specified cells so that they are equal.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotFormula Object (Excel)
+title: PivotFormula object (Excel)
 keywords: vbaxl10.chm230072
 f1_keywords:
 - vbaxl10.chm230072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormula Object (Excel)
+# PivotFormula object (Excel)
 
 Represents a formula used to calculate results in a PivotTable report.
 

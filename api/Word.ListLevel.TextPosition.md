@@ -1,5 +1,5 @@
 ---
-title: ListLevel.TextPosition Property (Word)
+title: ListLevel.TextPosition property (Word)
 keywords: vbawd10.chm160235527
 f1_keywords:
 - vbawd10.chm160235527
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.TextPosition Property (Word)
+# ListLevel.TextPosition property (Word)
 
 Returns or sets the position (in points) for the second line of wrapping text for the specified  **ListLevel** object. Read/write **Single** .
 

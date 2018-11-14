@@ -1,5 +1,5 @@
 ---
-title: Shape.CanvasItems Property (Word)
+title: Shape.CanvasItems property (Word)
 keywords: vbawd10.chm161480842
 f1_keywords:
 - vbawd10.chm161480842
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.CanvasItems Property (Word)
+# Shape.CanvasItems property (Word)
 
 Returns a  **[CanvasShapes](Word.CanvasShapes.md)** object that represents a collection of shapes in a drawing canvas.
 

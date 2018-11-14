@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Acosh Method (Excel)
+title: WorksheetFunction.Acosh method (Excel)
 keywords: vbaxl10.chm137168
 f1_keywords:
 - vbaxl10.chm137168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Acosh Method (Excel)
+# WorksheetFunction.Acosh method (Excel)
 
 Returns the inverse hyperbolic cosine of a number. Number must be greater than or equal to 1. The inverse hyperbolic cosine is the value whose hyperbolic cosine is  _Arg1_, so Acosh(Cosh(number)) equals  _Arg1_.
 

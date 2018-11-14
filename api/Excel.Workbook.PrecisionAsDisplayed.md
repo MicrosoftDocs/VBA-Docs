@@ -1,5 +1,5 @@
 ---
-title: Workbook.PrecisionAsDisplayed Property (Excel)
+title: Workbook.PrecisionAsDisplayed property (Excel)
 keywords: vbaxl10.chm199126
 f1_keywords:
 - vbaxl10.chm199126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PrecisionAsDisplayed Property (Excel)
+# Workbook.PrecisionAsDisplayed property (Excel)
 
  **True** if calculations in this workbook will be done using only the precision of the numbers as they're displayed. Read/write **Boolean** .
 

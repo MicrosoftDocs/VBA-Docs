@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyZJ Property (Word)
+title: Options.MatchFuzzyZJ property (Word)
 keywords: vbawd10.chm162988354
 f1_keywords:
 - vbawd10.chm162988354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyZJ Property (Word)
+# Options.MatchFuzzyZJ property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe286_ZA06051765.gif)" and "

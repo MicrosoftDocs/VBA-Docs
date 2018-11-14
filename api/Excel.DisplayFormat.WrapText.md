@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.WrapText Property (Excel)
+title: DisplayFormat.WrapText property (Excel)
 keywords: vbaxl10.chm893090
 f1_keywords:
 - vbaxl10.chm893090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.WrapText Property (Excel)
+# DisplayFormat.WrapText property (Excel)
 
 Returns a value that indicates if Microsoft Excel wraps the text of the associated  **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

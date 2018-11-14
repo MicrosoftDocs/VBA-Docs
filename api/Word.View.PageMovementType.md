@@ -1,5 +1,5 @@
 ---
-title: View.PageMovementType Property (Word)
+title: View.PageMovementType property (Word)
 keywords: vbawd10.chm161808449
 f1_keywords:
 - vbawd10.chm161808449
@@ -9,7 +9,7 @@ api_name:
 ms.date: 08/15/2017
 ---
 
-# View.PageMovementType Property (Word)
+# View.PageMovementType property (Word)
 
 Returns or sets the page movement type. Read/write **[WdPageMovementType](Word.WdPageMovementType.md)**.
 

@@ -1,5 +1,5 @@
 ---
-title: ListLevels.Count Property (Word)
+title: ListLevels.Count property (Word)
 keywords: vbawd10.chm160301058
 f1_keywords:
 - vbawd10.chm160301058
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevels.Count Property (Word)
+# ListLevels.Count property (Word)
 
 Returns a  **Long** that represents the number of list levels in the collection. Read-only.
 

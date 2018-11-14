@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Select Method (Excel)
+title: TickLabels.Select method (Excel)
 keywords: vbaxl10.chm616081
 f1_keywords:
 - vbaxl10.chm616081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Select Method (Excel)
+# TickLabels.Select method (Excel)
 
 Selects the object.
 

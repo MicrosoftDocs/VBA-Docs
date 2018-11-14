@@ -1,5 +1,5 @@
 ---
-title: Field.Previous Property (Word)
+title: Field.Previous property (Word)
 keywords: vbawd10.chm154075143
 f1_keywords:
 - vbawd10.chm154075143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Previous Property (Word)
+# Field.Previous property (Word)
 
 Returns the previous object in the collection. Read-only.
 

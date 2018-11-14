@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.Parent Property (Excel)
+title: FreeformBuilder.Parent property (Excel)
 keywords: vbaxl10.chm647075
 f1_keywords:
 - vbaxl10.chm647075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.Parent Property (Excel)
+# FreeformBuilder.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

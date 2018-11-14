@@ -1,5 +1,5 @@
 ---
-title: Range.Frames Property (Word)
+title: Range.Frames property (Word)
 keywords: vbawd10.chm157155394
 f1_keywords:
 - vbawd10.chm157155394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Frames Property (Word)
+# Range.Frames property (Word)
 
 Returns a  **[Frames](Word.Frames.md)** collection that represents all the frames in a range. Read-only.
 

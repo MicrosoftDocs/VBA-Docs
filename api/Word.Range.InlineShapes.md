@@ -1,5 +1,5 @@
 ---
-title: Range.InlineShapes Property (Word)
+title: Range.InlineShapes property (Word)
 keywords: vbawd10.chm157155647
 f1_keywords:
 - vbawd10.chm157155647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InlineShapes Property (Word)
+# Range.InlineShapes property (Word)
 
 Returns an  **InlineShapes** collection that represents all the **InlineShape** objects in a range. Read-only.
 

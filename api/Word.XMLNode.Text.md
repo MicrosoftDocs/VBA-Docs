@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Text Property (Word)
+title: XMLNode.Text property (Word)
 keywords: vbawd10.chm37748738
 f1_keywords:
 - vbawd10.chm37748738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Text Property (Word)
+# XMLNode.Text property (Word)
 
 Returns or sets the text contained within the XML element. Read/write  **String** .
 

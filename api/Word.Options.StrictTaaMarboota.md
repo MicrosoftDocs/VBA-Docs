@@ -1,5 +1,5 @@
 ---
-title: Options.StrictTaaMarboota Property (Word)
+title: Options.StrictTaaMarboota property (Word)
 keywords: vbawd10.chm162988528
 f1_keywords:
 - vbawd10.chm162988528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.StrictTaaMarboota Property (Word)
+# Options.StrictTaaMarboota property (Word)
 
  **True** if the spelling checker uses spelling rules to flag Arabic words ending with haa instead of taa marboota. Read/write.
 

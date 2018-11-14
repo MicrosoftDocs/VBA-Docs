@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Application Property (Word)
+title: CanvasShapes.Application property (Word)
 keywords: vbawd10.chm7544640
 f1_keywords:
 - vbawd10.chm7544640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.Application Property (Word)
+# CanvasShapes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

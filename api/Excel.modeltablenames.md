@@ -1,5 +1,5 @@
 ---
-title: ModelTableNames Object (Excel)
+title: ModelTableNames object (Excel)
 keywords: vbaxl10.chm953072
 f1_keywords:
 - vbaxl10.chm953072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNames Object (Excel)
+# ModelTableNames object (Excel)
 
 A collection of table names representing tables in the Excel data model. 
 

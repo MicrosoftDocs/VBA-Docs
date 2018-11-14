@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddWebVideo Method (Word)
+title: Shapes.AddWebVideo method (Word)
 keywords: vbawd10.chm161415272
 f1_keywords:
 - vbawd10.chm161415272
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddWebVideo Method (Word)
+# Shapes.AddWebVideo method (Word)
 
 Adds a new web video to the document.
 
@@ -25,7 +25,7 @@ Adds a new web video to the document.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _EmbedCode_|Required|STRING|The HTML code to embed.|

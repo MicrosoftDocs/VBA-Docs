@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Activate Method (Word)
+title: ProtectedViewWindow.Activate method (Word)
 keywords: vbawd10.chm231735396
 f1_keywords:
 - vbawd10.chm231735396
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Activate Method (Word)
+# ProtectedViewWindow.Activate method (Word)
 
 Activates the specified protected view window.
 

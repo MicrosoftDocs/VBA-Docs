@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Parent Property (Word)
+title: FillFormat.Parent property (Word)
 keywords: vbawd10.chm164102145
 f1_keywords:
 - vbawd10.chm164102145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Parent Property (Word)
+# FillFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FillFormat** object.
 

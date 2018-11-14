@@ -1,5 +1,5 @@
 ---
-title: WdKey Enumeration (Word)
+title: WdKey enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdKey
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdKey Enumeration (Word)
+# WdKey enumeration (Word)
 
 Specifies a keyboard character. Although uppercase and lowercase characters are designated by using different values in a character encoding map, they share a single constant in this enumeration.
 

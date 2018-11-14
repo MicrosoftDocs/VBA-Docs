@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Arabic Method (Excel)
+title: WorksheetFunction.Arabic method (Excel)
 keywords: vbaxl10.chm137456
 f1_keywords:
 - vbaxl10.chm137456
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Arabic Method (Excel)
+# WorksheetFunction.Arabic method (Excel)
 
 Converts a Roman numeral to an Arabic numeral.
 
@@ -18,14 +18,14 @@ Converts a Roman numeral to an Arabic numeral.
 
  _expression_. `Arabic`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|The Roman numeral you want to convert.|
 

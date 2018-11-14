@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.Creator Property (Word)
+title: TextRetrievalMode.Creator property (Word)
 keywords: vbawd10.chm154731497
 f1_keywords:
 - vbawd10.chm154731497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.Creator Property (Word)
+# TextRetrievalMode.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

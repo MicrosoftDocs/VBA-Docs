@@ -1,5 +1,5 @@
 ---
-title: TextFrame.MarginTop Property (Excel)
+title: TextFrame.MarginTop property (Excel)
 keywords: vbaxl10.chm644076
 f1_keywords:
 - vbaxl10.chm644076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.MarginTop Property (Excel)
+# TextFrame.MarginTop property (Excel)
 
 Returns or sets the distance (in points) between the top of the text frame and the top of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

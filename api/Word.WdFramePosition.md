@@ -1,5 +1,5 @@
 ---
-title: WdFramePosition Enumeration (Word)
+title: WdFramePosition enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramePosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFramePosition Enumeration (Word)
+# WdFramePosition enumeration (Word)
 
 Specifies the reference point against which the frame position is calculated.
 

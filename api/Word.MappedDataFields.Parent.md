@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields.Parent Property (Word)
+title: MappedDataFields.Parent property (Word)
 keywords: vbawd10.chm135529450
 f1_keywords:
 - vbawd10.chm135529450
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields.Parent Property (Word)
+# MappedDataFields.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **MappedDataFields** object.
 

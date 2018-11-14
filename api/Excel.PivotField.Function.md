@@ -1,5 +1,5 @@
 ---
-title: PivotField.Function Property (Excel)
+title: PivotField.Function property (Excel)
 keywords: vbaxl10.chm240081
 f1_keywords:
 - vbaxl10.chm240081
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Function Property (Excel)
+# PivotField.Function property (Excel)
 
-Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** .
+Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)** .
 
 
 ## Syntax

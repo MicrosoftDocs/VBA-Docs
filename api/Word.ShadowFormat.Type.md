@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Type Property (Word)
+title: ShadowFormat.Type property (Word)
 keywords: vbawd10.chm164364393
 f1_keywords:
 - vbawd10.chm164364393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Type Property (Word)
+# ShadowFormat.Type property (Word)
 
 Returns or sets the shape shadow type. Read/write  **MsoShadowType** .
 

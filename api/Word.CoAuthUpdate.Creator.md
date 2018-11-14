@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdate.Creator Property (Word)
+title: CoAuthUpdate.Creator property (Word)
 keywords: vbawd10.chm247792617
 f1_keywords:
 - vbawd10.chm247792617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdate.Creator Property (Word)
+# CoAuthUpdate.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

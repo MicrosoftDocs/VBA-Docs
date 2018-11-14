@@ -1,5 +1,5 @@
 ---
-title: InlineShape.HorizontalLineFormat Property (Word)
+title: InlineShape.HorizontalLineFormat property (Word)
 keywords: vbawd10.chm162005111
 f1_keywords:
 - vbawd10.chm162005111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.HorizontalLineFormat Property (Word)
+# InlineShape.HorizontalLineFormat property (Word)
 
 Returns a  **[HorizontalLineFormat](Word.HorizontalLineFormat.md)** object that contains the horizontal line formatting for the specified **InlineShape** object. Read-only.
 

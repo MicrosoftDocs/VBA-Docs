@@ -13,7 +13,7 @@ ms.date: 08/24/2018
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbBlack**|0x0|Black|
 |**vbRed**|0xFF|Red|

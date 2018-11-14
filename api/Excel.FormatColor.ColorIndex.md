@@ -1,5 +1,5 @@
 ---
-title: FormatColor.ColorIndex Property (Excel)
+title: FormatColor.ColorIndex property (Excel)
 keywords: vbaxl10.chm802074
 f1_keywords:
 - vbaxl10.chm802074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor.ColorIndex Property (Excel)
+# FormatColor.ColorIndex property (Excel)
 
-Returns or sets one of the constants of the  **[XlColorIndex](Excel.XlColorIndex.md)** enumeration, specifying if the fill color is expressed as an index value into the current color palette.
+Returns or sets one of the constants of the  **[xlColorIndex](Excel.XlColorIndex.md)** enumeration, specifying if the fill color is expressed as an index value into the current color palette.
 
 
 ## Syntax

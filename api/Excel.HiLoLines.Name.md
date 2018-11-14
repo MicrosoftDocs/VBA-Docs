@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Name Property (Excel)
+title: HiLoLines.Name property (Excel)
 keywords: vbaxl10.chm600074
 f1_keywords:
 - vbaxl10.chm600074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Name Property (Excel)
+# HiLoLines.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

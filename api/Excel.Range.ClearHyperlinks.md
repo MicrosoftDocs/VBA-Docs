@@ -1,5 +1,5 @@
 ---
-title: Range.ClearHyperlinks Method (Excel)
+title: Range.ClearHyperlinks method (Excel)
 keywords: vbaxl10.chm144250
 f1_keywords:
 - vbaxl10.chm144250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ClearHyperlinks Method (Excel)
+# Range.ClearHyperlinks method (Excel)
 
 Removes all hyperlinks from the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Revisions Property (Word)
+title: Range.Revisions property (Word)
 keywords: vbawd10.chm157155478
 f1_keywords:
 - vbawd10.chm157155478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Revisions Property (Word)
+# Range.Revisions property (Word)
 
 Returns a  **Revisions** collection that represents the tracked changes in the range. Read-only.
 

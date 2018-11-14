@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayNoteIndicator Property (Excel)
+title: Application.DisplayNoteIndicator property (Excel)
 keywords: vbaxl10.chm133122
 f1_keywords:
 - vbaxl10.chm133122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayNoteIndicator Property (Excel)
+# Application.DisplayNoteIndicator property (Excel)
 
  **True** if cells containing notes display cell tips and contain note indicators (small dots in their upper-right corners). Read/write **Boolean** .
 

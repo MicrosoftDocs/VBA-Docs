@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.InsertOptions Property (Word)
+title: BuildingBlock.InsertOptions property (Word)
 keywords: vbawd10.chm203620359
 f1_keywords:
 - vbawd10.chm203620359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.InsertOptions Property (Word)
+# BuildingBlock.InsertOptions property (Word)
 
 Returns or sets a  **Long** that represents how to insert the contents of a building block into a document. Read/write.
 

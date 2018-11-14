@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextbox Method (Word)
+title: Shapes.AddTextbox method (Word)
 keywords: vbawd10.chm161415187
 f1_keywords:
 - vbawd10.chm161415187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddTextbox Method (Word)
+# Shapes.AddTextbox method (Word)
 
 Adds a text box to a drawing canvas.
 

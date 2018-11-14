@@ -1,5 +1,5 @@
 ---
-title: Document.OptimizeForWord97 Property (Word)
+title: Document.OptimizeForWord97 property (Word)
 keywords: vbawd10.chm158007630
 f1_keywords:
 - vbawd10.chm158007630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OptimizeForWord97 Property (Word)
+# Document.OptimizeForWord97 property (Word)
 
  **True** if Microsoft Word optimizes the current document for viewing in Microsoft Word 97 by disabling any incompatible formatting. Read/write **Boolean** .
 

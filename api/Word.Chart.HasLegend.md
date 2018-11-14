@@ -1,5 +1,5 @@
 ---
-title: Chart.HasLegend Property (Word)
+title: Chart.HasLegend property (Word)
 ms.prod: word
 api_name:
 - Word.Chart.HasLegend
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HasLegend Property (Word)
+# Chart.HasLegend property (Word)
 
  **True** if the chart has a legend. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields Object (Word)
+title: MappedDataFields object (Word)
 keywords: vbawd10.chm2068
 f1_keywords:
 - vbawd10.chm2068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields Object (Word)
+# MappedDataFields object (Word)
 
 A collection of  **MappedDataField** objects that represents all the mapped data fields available in Microsoft Word.
 

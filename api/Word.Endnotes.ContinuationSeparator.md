@@ -1,5 +1,5 @@
 ---
-title: Endnotes.ContinuationSeparator Property (Word)
+title: Endnotes.ContinuationSeparator property (Word)
 keywords: vbawd10.chm155254889
 f1_keywords:
 - vbawd10.chm155254889
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.ContinuationSeparator Property (Word)
+# Endnotes.ContinuationSeparator property (Word)
 
 Returns a  **Range** object that represents the endnote continuation separator. Read-only.
 

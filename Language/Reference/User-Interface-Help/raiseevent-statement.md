@@ -21,7 +21,7 @@ The required  _eventname_ is the name of an event declared within the [module](.
 
 The **RaiseEvent** statement syntax has these parts.
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _eventname_|Required. Name of the event to fire.|
 | _argumentlist_|Optional. Comma-delimited list of [variables](../../Glossary/vbe-glossary.md#variable), [arrays](../../Glossary/vbe-glossary.md#array), or [expressions](../../Glossary/vbe-glossary.md#expression) The _argumentlist_ must be enclosed by parentheses. If there are no [arguments](../../Glossary/vbe-glossary.md#argument), the parentheses must be omitted.|

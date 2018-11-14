@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriterion.FormatColor Property (Excel)
+title: ColorScaleCriterion.FormatColor property (Excel)
 keywords: vbaxl10.chm808076
 f1_keywords:
 - vbaxl10.chm808076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriterion.FormatColor Property (Excel)
+# ColorScaleCriterion.FormatColor property (Excel)
 
 Returns a  **[FormatColor](Excel.FormatColor.md)** object, which specifies the color assigned to the threshold of a color scale conditional format. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WdConstants Enumeration (Word)
+title: WdConstants enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdConstants
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdConstants Enumeration (Word)
+# WdConstants enumeration (Word)
 
 This enumeration groups together constants used with various Microsoft Word methods.
 

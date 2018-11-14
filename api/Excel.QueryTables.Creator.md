@@ -1,5 +1,5 @@
 ---
-title: QueryTables.Creator Property (Excel)
+title: QueryTables.Creator property (Excel)
 keywords: vbaxl10.chm520074
 f1_keywords:
 - vbaxl10.chm520074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTables.Creator Property (Excel)
+# QueryTables.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

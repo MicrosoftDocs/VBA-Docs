@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Value1 Property (Excel)
+title: PivotFilter.Value1 property (Excel)
 keywords: vbaxl10.chm770082
 f1_keywords:
 - vbaxl10.chm770082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Value1 Property (Excel)
+# PivotFilter.Value1 property (Excel)
 
 This property is a user-supplied parameter to define a filter for a PivotField. Read/write  **Variant** .
 

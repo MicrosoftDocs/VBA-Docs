@@ -1,5 +1,5 @@
 ---
-title: ReadabilityStatistic.Value Property (Word)
+title: ReadabilityStatistic.Value property (Word)
 keywords: vbawd10.chm162463745
 f1_keywords:
 - vbawd10.chm162463745
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReadabilityStatistic.Value Property (Word)
+# ReadabilityStatistic.Value property (Word)
 
 Returns the value of the grammar statistic. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Category.Parent Property (Word)
+title: Category.Parent property (Word)
 keywords: vbawd10.chm190710762
 f1_keywords:
 - vbawd10.chm190710762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category.Parent Property (Word)
+# Category.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Category** object.
 

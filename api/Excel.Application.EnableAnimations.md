@@ -1,5 +1,5 @@
 ---
-title: Application.EnableAnimations Property (Excel)
+title: Application.EnableAnimations property (Excel)
 keywords: vbaxl10.chm133080
 f1_keywords:
 - vbaxl10.chm133080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableAnimations Property (Excel)
+# Application.EnableAnimations property (Excel)
 
 This object, member, or enumeration is deprecated and is not intended to be used in your code.
 

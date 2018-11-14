@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureTile Property (Word)
+title: FillFormat.TextureTile property (Word)
 keywords: vbawd10.chm164102264
 f1_keywords:
 - vbawd10.chm164102264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureTile Property (Word)
+# FillFormat.TextureTile property (Word)
 
 Returns or sets whether the texture fill is tiled or centered. Read/write.
 

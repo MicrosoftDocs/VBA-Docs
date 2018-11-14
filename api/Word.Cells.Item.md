@@ -1,5 +1,5 @@
 ---
-title: Cells.Item Method (Word)
+title: Cells.Item method (Word)
 keywords: vbawd10.chm155844608
 f1_keywords:
 - vbawd10.chm155844608
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Item Method (Word)
+# Cells.Item method (Word)
 
 Returns an individual  **Cell** object in a collection.
 

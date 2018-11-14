@@ -1,5 +1,5 @@
 ---
-title: DownBars.Format Property (Excel)
+title: DownBars.Format property (Excel)
 keywords: vbaxl10.chm610080
 f1_keywords:
 - vbaxl10.chm610080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Format Property (Excel)
+# DownBars.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

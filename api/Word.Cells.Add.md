@@ -1,5 +1,5 @@
 ---
-title: Cells.Add Method (Word)
+title: Cells.Add method (Word)
 keywords: vbawd10.chm155844612
 f1_keywords:
 - vbawd10.chm155844612
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Add Method (Word)
+# Cells.Add method (Word)
 
 Returns a  **Cell** object that represents a cell added to a table.
 

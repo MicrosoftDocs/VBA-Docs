@@ -1,5 +1,5 @@
 ---
-title: XPath Object (Excel)
+title: XPath object (Excel)
 keywords: vbaxl10.chm759072
 f1_keywords:
 - vbaxl10.chm759072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath Object (Excel)
+# XPath object (Excel)
 
 Represents an XPath that has been mapped to a  **[Range](Excel.Range(object).md)** or **[ListColumn](Excel.ListColumn.md)** object.
 

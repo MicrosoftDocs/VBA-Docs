@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Names Property (Excel)
+title: Worksheet.Names property (Excel)
 keywords: vbaxl10.chm175107
 f1_keywords:
 - vbaxl10.chm175107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Names Property (Excel)
+# Worksheet.Names property (Excel)
 
 Returns a  **[Names](Excel.Names.md)** collection that represents all the worksheet-specific names (names defined with the "WorksheetName!" prefix). Read-only **Names** object.
 

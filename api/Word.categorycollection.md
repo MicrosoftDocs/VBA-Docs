@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection Object (Word)
+title: CategoryCollection object (Word)
 keywords: vbawd10.chm3117
 f1_keywords:
 - vbawd10.chm3117
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection Object (Word)
+# CategoryCollection object (Word)
 
 Represents the collection of visible chart categories in the document.
 

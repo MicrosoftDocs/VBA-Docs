@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection Object (Excel)
+title: WorkbookConnection object (Excel)
 keywords: vbaxl10.chm773072
 f1_keywords:
 - vbaxl10.chm773072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection Object (Excel)
+# WorkbookConnection object (Excel)
 
 A connection is a set of information needed to obtain data from an external data source other than an Microsoft Office Excel 2007 workbook. 
 

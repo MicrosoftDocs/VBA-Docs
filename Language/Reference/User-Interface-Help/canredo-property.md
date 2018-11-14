@@ -21,7 +21,7 @@ _object_. **CanRedo**
 
 The **CanRedo** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

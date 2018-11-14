@@ -1,5 +1,5 @@
 ---
-title: OMathArgs Object (Word)
+title: OMathArgs object (Word)
 ms.prod: word
 api_name:
 - Word.OMathArgs
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathArgs Object (Word)
+# OMathArgs object (Word)
 
 Represents a collection of arguments.
 

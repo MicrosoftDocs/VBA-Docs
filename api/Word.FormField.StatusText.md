@@ -1,5 +1,5 @@
 ---
-title: FormField.StatusText Property (Word)
+title: FormField.StatusText property (Word)
 keywords: vbawd10.chm153616392
 f1_keywords:
 - vbawd10.chm153616392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.StatusText Property (Word)
+# FormField.StatusText property (Word)
 
 Returns or sets the text that is displayed in the status bar when a form field has the focus. Read/write  **String** .
 

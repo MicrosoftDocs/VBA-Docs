@@ -33,7 +33,7 @@ Use the  **SharedWorkspaceMember** object's three distinct name properties to re
 
 - the  **Name** property returns the members display name;
     
-- the  **Email** property returns the member's e-mail address; and,
+- the  **Email** property returns the member's email address; and,
     
 - the  **DomainName** property returns the member's domain and user name in the format `domain\user`.
     
@@ -42,7 +42,7 @@ Use the  **SharedWorkspaceMember** object's three distinct name properties to re
 
 ## Example
 
-The following example displays the number of members in the active document's shared workspace, along with their names, domain user names, and e-mail addresses.
+The following example displays the number of members in the active document's shared workspace, along with their names, domain user names, and email addresses.
 
 
 ```vb

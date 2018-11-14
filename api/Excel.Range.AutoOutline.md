@@ -1,5 +1,5 @@
 ---
-title: Range.AutoOutline Method (Excel)
+title: Range.AutoOutline method (Excel)
 keywords: vbaxl10.chm144087
 f1_keywords:
 - vbaxl10.chm144087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AutoOutline Method (Excel)
+# Range.AutoOutline method (Excel)
 
 Automatically creates an outline for the specified range. If the range is a single cell, Microsoft Excel creates an outline for the entire sheet. The new outline replaces any existing outline.
 

@@ -1,5 +1,5 @@
 ---
-title: Frame.RelativeHorizontalPosition Property (Word)
+title: Frame.RelativeHorizontalPosition property (Word)
 keywords: vbawd10.chm153747463
 f1_keywords:
 - vbawd10.chm153747463
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.RelativeHorizontalPosition Property (Word)
+# Frame.RelativeHorizontalPosition property (Word)
 
 Specifies the relative horizontal position of a frame. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
 

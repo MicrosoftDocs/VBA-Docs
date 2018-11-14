@@ -1,5 +1,5 @@
 ---
-title: XlCubeFieldSubType Enumeration (Excel)
+title: xlCubeFieldSubType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCubeFieldSubType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCubeFieldSubType Enumeration (Excel)
+# xlCubeFieldSubType enumeration (Excel)
 
 Specifies the subtype of the CubeField.
 

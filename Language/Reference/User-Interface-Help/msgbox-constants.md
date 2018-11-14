@@ -18,7 +18,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOKOnly**|0|**OK** button only (default)|
 |**vbOKCancel**|1|**OK** and **Cancel** buttons|
@@ -45,7 +45,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbOK**|1|**OK** button pressed|
 |**vbCancel**|2|**Cancel** button pressed|

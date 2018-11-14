@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectSentenceCaps Property (Word)
+title: AutoCorrect.CorrectSentenceCaps property (Word)
 keywords: vbawd10.chm155779075
 f1_keywords:
 - vbawd10.chm155779075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectSentenceCaps Property (Word)
+# AutoCorrect.CorrectSentenceCaps property (Word)
 
  **True** if Word automatically capitalizes the first letter in each sentence. Read/write **Boolean** .
 

@@ -18,7 +18,7 @@ Constants describing the state of buttons in command bars to be passed to and re
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visButtonDown**|-1|Button is down.|
 | **visButtonUp**|q|Button is up.|

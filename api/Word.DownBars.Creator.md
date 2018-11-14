@@ -1,5 +1,5 @@
 ---
-title: DownBars.Creator Property (Word)
+title: DownBars.Creator property (Word)
 keywords: vbawd10.chm107151509
 f1_keywords:
 - vbawd10.chm107151509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Creator Property (Word)
+# DownBars.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

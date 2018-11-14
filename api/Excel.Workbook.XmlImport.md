@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlImport Method (Excel)
+title: Workbook.XmlImport method (Excel)
 keywords: vbaxl10.chm199226
 f1_keywords:
 - vbaxl10.chm199226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.XmlImport Method (Excel)
+# Workbook.XmlImport method (Excel)
 
 Imports an XML data file into the current workbook.
 
@@ -43,7 +43,7 @@ Imports an XML data file into the current workbook.
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|

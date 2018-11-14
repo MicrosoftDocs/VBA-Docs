@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Placement Property (Excel)
+title: ChartObject.Placement property (Excel)
 keywords: vbaxl10.chm494088
 f1_keywords:
 - vbaxl10.chm494088
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Placement Property (Excel)
+# ChartObject.Placement property (Excel)
 
-Returns or sets a  **Variant** value, containing an **[XlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
+Returns or sets a  **Variant** value, containing an **[xlPlacement](Excel.XlPlacement.md)** constant, that represents the way the object is attached to the cells below it.
 
 
 ## Syntax

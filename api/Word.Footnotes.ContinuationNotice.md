@@ -1,5 +1,5 @@
 ---
-title: Footnotes.ContinuationNotice Property (Word)
+title: Footnotes.ContinuationNotice property (Word)
 keywords: vbawd10.chm155320426
 f1_keywords:
 - vbawd10.chm155320426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnotes.ContinuationNotice Property (Word)
+# Footnotes.ContinuationNotice property (Word)
 
 Returns a  **Range** object that represents the footnote continuation notice. Read-only.
 

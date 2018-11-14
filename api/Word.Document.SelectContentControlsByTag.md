@@ -1,5 +1,5 @@
 ---
-title: Document.SelectContentControlsByTag Method (Word)
+title: Document.SelectContentControlsByTag method (Word)
 keywords: vbawd10.chm158007858
 f1_keywords:
 - vbawd10.chm158007858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectContentControlsByTag Method (Word)
+# Document.SelectContentControlsByTag method (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents all the content controls in a document with the tag value specified in the Tag parameter. Read-only.
 

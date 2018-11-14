@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.EqArray Property (Word)
+title: OMathFunction.EqArray property (Word)
 keywords: vbawd10.chm22151278
 f1_keywords:
 - vbawd10.chm22151278
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.EqArray Property (Word)
+# OMathFunction.EqArray property (Word)
 
 Returns an  **[OMathEqArray](Word.OMathEqArray.md)** object that represents an equation array function. Read-only.
 

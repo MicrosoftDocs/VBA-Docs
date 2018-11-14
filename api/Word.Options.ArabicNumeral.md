@@ -1,5 +1,5 @@
 ---
-title: Options.ArabicNumeral Property (Word)
+title: Options.ArabicNumeral property (Word)
 keywords: vbawd10.chm162988433
 f1_keywords:
 - vbawd10.chm162988433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ArabicNumeral Property (Word)
+# Options.ArabicNumeral property (Word)
 
 Returns or sets the numeral style for an Arabic language document. Read/write  **WdArabicNumeral** .
 

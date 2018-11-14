@@ -1,5 +1,5 @@
 ---
-title: XlDataSeriesType Enumeration (Excel)
+title: xlDataSeriesType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataSeriesType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataSeriesType Enumeration (Excel)
+# xlDataSeriesType enumeration (Excel)
 
 Specifies the data series to create.
 

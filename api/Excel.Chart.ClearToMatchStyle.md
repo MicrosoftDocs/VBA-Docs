@@ -1,5 +1,5 @@
 ---
-title: Chart.ClearToMatchStyle Method (Excel)
+title: Chart.ClearToMatchStyle method (Excel)
 keywords: vbaxl10.chm149185
 f1_keywords:
 - vbaxl10.chm149185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ClearToMatchStyle Method (Excel)
+# Chart.ClearToMatchStyle method (Excel)
 
 Clears the chart elements formatting to automatic.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnitIsAuto Property (Word)
+title: Axis.BaseUnitIsAuto property (Word)
 keywords: vbawd10.chm113049659
 f1_keywords:
 - vbawd10.chm113049659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.BaseUnitIsAuto Property (Word)
+# Axis.BaseUnitIsAuto property (Word)
 
  **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotBy Property (Word)
+title: Chart.PlotBy property (Word)
 keywords: vbawd10.chm79364298
 f1_keywords:
 - vbawd10.chm79364298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotBy Property (Word)
+# Chart.PlotBy property (Word)
 
 Returns or sets the way columns or rows are used as data series on the chart. Read/write  **Long** .
 
@@ -25,7 +25,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlRowCol](Word.xlrowcol.md)** constants:
+The value of this property can be one of the following  **[xlRowCol](Word.xlrowcol.md)** constants:
 
 
 -  **xlColumns**

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Count Property (Excel)
+title: ShapeNodes.Count property (Excel)
 keywords: vbaxl10.chm112002
 f1_keywords:
 - vbaxl10.chm112002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Count Property (Excel)
+# ShapeNodes.Count property (Excel)
 
 Returns an  **Integer** value that represents the number of objects in the collection.
 

@@ -15,7 +15,7 @@ These constants are only available when your project has an explicit reference t
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Normal**|0|Normal file. No attributes are set.|
 |**ReadOnly**|1|Read-only file. Attribute is read/write.|

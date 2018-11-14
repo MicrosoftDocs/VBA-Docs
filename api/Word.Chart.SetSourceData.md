@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (Word)
+title: Chart.SetSourceData method (Word)
 keywords: vbawd10.chm79365509
 f1_keywords:
 - vbawd10.chm79365509
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetSourceData Method (Word)
+# Chart.SetSourceData method (Word)
 
 Sets the source data range for the chart.
 
@@ -30,7 +30,7 @@ Sets the source data range for the chart.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **String**|The address of the chart data range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[XlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows** .|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data will be plotted. Can be either of the following  **[xlRowCol](Word.xlrowcol.md)** constants: **xlColumns** or **xlRows** .|
 
 ## Example
 

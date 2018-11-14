@@ -1,5 +1,5 @@
 ---
-title: PivotTable.AddFields Method (Excel)
+title: PivotTable.AddFields method (Excel)
 keywords: vbaxl10.chm235073
 f1_keywords:
 - vbaxl10.chm235073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.AddFields Method (Excel)
+# PivotTable.AddFields method (Excel)
 
 Adds row, column, and page fields to a PivotTable report or PivotChart report.
 

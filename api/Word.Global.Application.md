@@ -1,5 +1,5 @@
 ---
-title: Global.Application Property (Word)
+title: Global.Application property (Word)
 keywords: vbawd10.chm163120104
 f1_keywords:
 - vbawd10.chm163120104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Application Property (Word)
+# Global.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

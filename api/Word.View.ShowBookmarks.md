@@ -1,5 +1,5 @@
 ---
-title: View.ShowBookmarks Property (Word)
+title: View.ShowBookmarks property (Word)
 keywords: vbawd10.chm161808406
 f1_keywords:
 - vbawd10.chm161808406
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowBookmarks Property (Word)
+# View.ShowBookmarks property (Word)
 
  **True** if square brackets are displayed at the beginning and end of each bookmark. Read/write **Boolean** .
 

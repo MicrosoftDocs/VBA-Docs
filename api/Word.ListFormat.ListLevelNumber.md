@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListLevelNumber Property (Word)
+title: ListFormat.ListLevelNumber property (Word)
 keywords: vbawd10.chm163577924
 f1_keywords:
 - vbawd10.chm163577924
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListLevelNumber Property (Word)
+# ListFormat.ListLevelNumber property (Word)
 
 Returns or sets the list level for the first paragraph in the specified  **ListFormat** object. Read/write **Long** .
 

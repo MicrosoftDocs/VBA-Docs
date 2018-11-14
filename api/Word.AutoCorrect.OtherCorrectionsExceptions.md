@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.OtherCorrectionsExceptions Property (Word)
+title: AutoCorrect.OtherCorrectionsExceptions property (Word)
 keywords: vbawd10.chm155779089
 f1_keywords:
 - vbawd10.chm155779089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.OtherCorrectionsExceptions Property (Word)
+# AutoCorrect.OtherCorrectionsExceptions property (Word)
 
 Returns an  **[OtherCorrectionsExceptions](Word.othercorrectionsexceptions.md)** collection that represents the list of words that Microsoft Word won't correct automatically.
 

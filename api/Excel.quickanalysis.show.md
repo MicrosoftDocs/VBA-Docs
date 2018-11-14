@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis.Show Method (Excel)
+title: QuickAnalysis.Show method (Excel)
 keywords: vbaxl10.chm920073
 f1_keywords:
 - vbaxl10.chm920073
@@ -9,14 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis.Show Method (Excel)
+# QuickAnalysis.Show method (Excel)
 
 Displays specific members of the Analysis Lens user interface.
 
 
 ## Syntax
 
- _expression_. `Show`_(XlQuickAnalysisMode)_
+ _expression_. `Show`_(xlQuickAnalysisMode)_
 
  _expression_ A variable that represents a [QuickAnalysis](Excel.quickanalysis.md) object.
 
@@ -25,13 +25,13 @@ Displays specific members of the Analysis Lens user interface.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _XlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
+| _xlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
 
 ### Remarks
 
-When [XlQuickAnalysisMode Enumeration (Excel)](Excel.xlquickanalysismode.md) is set to any one of the following options, the resulting user interface is displayed:
+When [xlQuickAnalysisMode enumeration (Excel)](Excel.xlquickanalysismode.md) is set to any one of the following options, the resulting user interface is displayed:
 
 
 - If missing or set to  **xlLensOnly** = Show the button but no fly-outs

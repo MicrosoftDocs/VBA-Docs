@@ -1,5 +1,5 @@
 ---
-title: Point.Shadow Property (Word)
+title: Point.Shadow property (Word)
 keywords: vbawd10.chm262144103
 f1_keywords:
 - vbawd10.chm262144103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Shadow Property (Word)
+# Point.Shadow property (Word)
 
 Returns or sets a value that indicates whether the object has a shadow. Read/write  **Boolean** .
 

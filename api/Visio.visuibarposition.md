@@ -18,7 +18,7 @@ Values passed to and returned by the  **MenuSet.Position** and **Toolbar.Positio
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBarBottom**|3|Display docked at bottom of drawing window.|
 | **visBarFloating**|4|Float in drawing window.|

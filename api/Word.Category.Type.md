@@ -1,5 +1,5 @@
 ---
-title: Category.Type Property (Word)
+title: Category.Type property (Word)
 keywords: vbawd10.chm190709764
 f1_keywords:
 - vbawd10.chm190709764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category.Type Property (Word)
+# Category.Type property (Word)
 
 Returns a  **[BuildingBlockType](Word.BuildingBlockType.md)** object that represents the type of building block for a building block category. Read-only.
 

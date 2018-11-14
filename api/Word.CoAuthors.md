@@ -1,5 +1,5 @@
 ---
-title: CoAuthors Object (Word)
+title: CoAuthors object (Word)
 ms.prod: word
 api_name:
 - Word.CoAuthors
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthors Object (Word)
+# CoAuthors object (Word)
 
 A collection of all the  **[CoAuthor](Word.CoAuthor.md)** objects in the document.
 

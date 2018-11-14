@@ -1,5 +1,5 @@
 ---
-title: ModelTableColumns.Item Method (Excel)
+title: ModelTableColumns.Item method (Excel)
 keywords: vbaxl10.chm932074
 f1_keywords:
 - vbaxl10.chm932074
@@ -9,23 +9,23 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableColumns.Item Method (Excel)
+# ModelTableColumns.Item method (Excel)
 
-Returns a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) from the **ModelTableColumns** collection (Excel)
+Returns a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) from the **ModelTableColumns** collection (Excel)
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) object.
+ _expression_ A variable that represents a [ModelTableColumns object (Excel)](Excel.modeltablecolumns.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 

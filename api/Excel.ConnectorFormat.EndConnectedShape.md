@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectedShape Property (Excel)
+title: ConnectorFormat.EndConnectedShape property (Excel)
 keywords: vbaxl10.chm646081
 f1_keywords:
 - vbaxl10.chm646081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.EndConnectedShape Property (Excel)
+# ConnectorFormat.EndConnectedShape property (Excel)
 
 Returns a  **[Shape](Excel.Shape.md)** object that represents the shape that the end of the specified connector is attached to. Read-only.
 

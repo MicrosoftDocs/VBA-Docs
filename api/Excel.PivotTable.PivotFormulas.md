@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotFormulas Property (Excel)
+title: PivotTable.PivotFormulas property (Excel)
 keywords: vbaxl10.chm235116
 f1_keywords:
 - vbaxl10.chm235116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotFormulas Property (Excel)
+# PivotTable.PivotFormulas property (Excel)
 
 Returns a  **[PivotFormulas](Excel.PivotFormulas.md)** object that represents the collection of formulas for the specified PivotTable report. Read-only.
 

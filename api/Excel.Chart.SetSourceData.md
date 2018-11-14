@@ -1,5 +1,5 @@
 ---
-title: Chart.SetSourceData Method (Excel)
+title: Chart.SetSourceData method (Excel)
 keywords: vbaxl10.chm149162
 f1_keywords:
 - vbaxl10.chm149162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetSourceData Method (Excel)
+# Chart.SetSourceData method (Excel)
 
 Sets the source data range for the chart.
 
@@ -30,7 +30,7 @@ Sets the source data range for the chart.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Range**|The range that contains the source data.|
-| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following  **[XlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows** .|
+| _PlotBy_|Optional| **Variant**|Specifies the way the data is to be plotted. Can be either of the following  **[xlRowCol](Excel.XlRowCol.md)** constants: **xlColumns** or **xlRows** .|
 
 ## Example
 

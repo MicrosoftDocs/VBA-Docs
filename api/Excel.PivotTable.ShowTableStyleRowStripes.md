@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ShowTableStyleRowStripes Property (Excel)
+title: PivotTable.ShowTableStyleRowStripes property (Excel)
 keywords: vbaxl10.chm235173
 f1_keywords:
 - vbaxl10.chm235173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ShowTableStyleRowStripes Property (Excel)
+# PivotTable.ShowTableStyleRowStripes property (Excel)
 
 The  **ShowTableStyleRowStripes** property displays banded rows in which even rows are formatted differently from odd rows. This makes PivotTables easier to read. Read/write **Boolean** .
 

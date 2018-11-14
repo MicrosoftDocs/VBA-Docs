@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureName.Creator Property (Excel)
+title: ModelMeasureName.Creator property (Excel)
 keywords: vbaxl10.chm969074
 f1_keywords:
 - vbaxl10.chm969074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureName.Creator Property (Excel)
+# ModelMeasureName.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) object.
+ _expression_ A variable that represents a [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object.
 
 
 ## Remarks

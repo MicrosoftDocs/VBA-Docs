@@ -1,5 +1,5 @@
 ---
-title: HeadersFooters.Application Property (Word)
+title: HeadersFooters.Application property (Word)
 keywords: vbawd10.chm159646696
 f1_keywords:
 - vbawd10.chm159646696
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadersFooters.Application Property (Word)
+# HeadersFooters.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

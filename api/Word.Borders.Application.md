@@ -1,5 +1,5 @@
 ---
-title: Borders.Application Property (Word)
+title: Borders.Application property (Word)
 keywords: vbawd10.chm154928104
 f1_keywords:
 - vbawd10.chm154928104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Application Property (Word)
+# Borders.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

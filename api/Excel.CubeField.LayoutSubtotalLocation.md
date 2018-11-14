@@ -1,5 +1,5 @@
 ---
-title: CubeField.LayoutSubtotalLocation Property (Excel)
+title: CubeField.LayoutSubtotalLocation property (Excel)
 keywords: vbaxl10.chm668091
 f1_keywords:
 - vbaxl10.chm668091
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.LayoutSubtotalLocation Property (Excel)
+# CubeField.LayoutSubtotalLocation property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[XlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[xlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
 
 
 ## Syntax

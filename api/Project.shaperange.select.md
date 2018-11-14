@@ -20,7 +20,7 @@ Selects each shape in a shape range.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Replace_|Optional|**Variant**|**True** replaces the current selection with the new selection. **False** adds the new selection to the current selection. The default value is **True**.|
 | _Replace_|Optional|VARIANT||

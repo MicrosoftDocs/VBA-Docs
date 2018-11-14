@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.DistanceFromText Property (Word)
+title: LineNumbering.DistanceFromText property (Word)
 keywords: vbawd10.chm158466150
 f1_keywords:
 - vbawd10.chm158466150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.DistanceFromText Property (Word)
+# LineNumbering.DistanceFromText property (Word)
 
 Returns or sets the distance (in points) between the right edge of line numbers and the left edge of the document text. Read/write  **Single** .
 

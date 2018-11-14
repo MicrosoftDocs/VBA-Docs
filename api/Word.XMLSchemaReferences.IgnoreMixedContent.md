@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReferences.IgnoreMixedContent Property (Word)
+title: XMLSchemaReferences.IgnoreMixedContent property (Word)
 keywords: vbawd10.chm116129798
 f1_keywords:
 - vbawd10.chm116129798
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReferences.IgnoreMixedContent Property (Word)
+# XMLSchemaReferences.IgnoreMixedContent property (Word)
 
 Returns a  **Boolean** that represents whether Microsoft Word preforms validation on text nodes that have element siblings and specifies whether these text nodes are saved in XML when the **[XMLSaveDataOnly](./overview/Word.md)** property is **True** . Read/write.
 

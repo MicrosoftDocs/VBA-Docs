@@ -1,5 +1,5 @@
 ---
-title: PivotCell.DataField Property (Excel)
+title: PivotCell.DataField property (Excel)
 keywords: vbaxl10.chm692075
 f1_keywords:
 - vbaxl10.chm692075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.DataField Property (Excel)
+# PivotCell.DataField property (Excel)
 
 Returns a  **[PivotField](Excel.PivotField.md)** object that corresponds to the selected data field.
 
@@ -25,7 +25,7 @@ Returns a  **[PivotField](Excel.PivotField.md)** object that corresponds to the 
 
 ## Remarks
 
-This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[XlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal** .
+This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[xlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal** .
 
 
 ## Example

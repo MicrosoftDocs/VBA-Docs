@@ -1,5 +1,5 @@
 ---
-title: Shape.Placement Property (Excel)
+title: Shape.Placement property (Excel)
 keywords: vbaxl10.chm636124
 f1_keywords:
 - vbaxl10.chm636124
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Placement Property (Excel)
+# Shape.Placement property (Excel)
 
-Returns or sets an  **[XlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
+Returns or sets an  **[xlPlacement](Excel.XlPlacement.md)** value that represents the way the object is attached to the cells below it.
 
 
 ## Syntax

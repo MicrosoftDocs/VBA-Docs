@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.EndStyle Property (Word)
+title: ErrorBars.EndStyle property (Word)
 keywords: vbawd10.chm74843236
 f1_keywords:
 - vbawd10.chm74843236
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.EndStyle Property (Word)
+# ErrorBars.EndStyle property (Word)
 
 Returns or sets the end style for the error bars. Read/write  **Long** .
 
@@ -25,7 +25,7 @@ Returns or sets the end style for the error bars. Read/write  **Long** .
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlEndStyleCap](Word.xlendstylecap.md)** constants:
+The value of this property can be one of the following  **[xlEndStyleCap](Word.xlendstylecap.md)** constants:
 
 
 -  **xlCap**

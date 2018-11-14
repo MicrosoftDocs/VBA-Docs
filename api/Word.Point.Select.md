@@ -1,5 +1,5 @@
 ---
-title: Point.Select Method (Word)
+title: Point.Select method (Word)
 keywords: vbawd10.chm262144235
 f1_keywords:
 - vbawd10.chm262144235
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Select Method (Word)
+# Point.Select method (Word)
 
 Selects the object.
 

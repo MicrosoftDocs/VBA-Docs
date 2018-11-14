@@ -1,5 +1,5 @@
 ---
-title: System.Application Property (Word)
+title: System.Application property (Word)
 keywords: vbawd10.chm154469352
 f1_keywords:
 - vbawd10.chm154469352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.Application Property (Word)
+# System.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

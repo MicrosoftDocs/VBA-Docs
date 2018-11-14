@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveNumbers Method (Word)
+title: Document.RemoveNumbers method (Word)
 keywords: vbawd10.chm158007436
 f1_keywords:
 - vbawd10.chm158007436
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemoveNumbers Method (Word)
+# Document.RemoveNumbers method (Word)
 
 Removes numbers or bullets from the specified document.
 

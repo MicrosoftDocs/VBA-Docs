@@ -1,5 +1,5 @@
 ---
-title: HTMLDivisions.Count Property (Word)
+title: HTMLDivisions.Count property (Word)
 keywords: vbawd10.chm166199297
 f1_keywords:
 - vbawd10.chm166199297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HTMLDivisions.Count Property (Word)
+# HTMLDivisions.Count property (Word)
 
 Returns a  **Long** that represents the number of HTML DIV elements in the collection. Read-only.
 

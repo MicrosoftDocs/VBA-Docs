@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.Email2Address Property (Outlook)
 
-Returns or sets a  **String** representing the e-mail address of the second e-mail entry for the contact. Read/write.
+Returns or sets a  **String** representing the email address of the second email entry for the contact. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the e-mail address of the second e-ma
 
 ## Example
 
-This Visual Basic for Applications (VBA) example sets "someone@example.com" as the e-mail address for the second e-mail entry of a contact.
+This Visual Basic for Applications (VBA) example sets "someone@example.com" as the email address for the second email entry of a contact.
 
 
 ```vb

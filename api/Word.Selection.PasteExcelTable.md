@@ -1,5 +1,5 @@
 ---
-title: Selection.PasteExcelTable Method (Word)
+title: Selection.PasteExcelTable method (Word)
 keywords: vbawd10.chm158663670
 f1_keywords:
 - vbawd10.chm158663670
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PasteExcelTable Method (Word)
+# Selection.PasteExcelTable method (Word)
 
 Pastes and formats a Microsoft Excel table.
 

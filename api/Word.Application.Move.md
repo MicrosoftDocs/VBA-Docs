@@ -1,5 +1,5 @@
 ---
-title: Application.Move Method (Word)
+title: Application.Move method (Word)
 keywords: vbawd10.chm158335336
 f1_keywords:
 - vbawd10.chm158335336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Move Method (Word)
+# Application.Move method (Word)
 
 Positions a task window or the active document window.
 

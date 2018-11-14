@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.Borders Property (Word)
+title: ConditionalStyle.Borders property (Word)
 keywords: vbawd10.chm91029506
 f1_keywords:
 - vbawd10.chm91029506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.Borders Property (Word)
+# ConditionalStyle.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified **ConditionalStyle** object.
 

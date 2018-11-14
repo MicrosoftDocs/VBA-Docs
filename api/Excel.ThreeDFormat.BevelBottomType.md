@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomType Property (Excel)
+title: ThreeDFormat.BevelBottomType property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.BevelBottomType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelBottomType Property (Excel)
+# ThreeDFormat.BevelBottomType property (Excel)
 
 Returns or sets the bottom bevel type for a  **ThreeDFormat** object. Read/write **[MsoBevelType](./Office.MsoBevelType.md)** .
 

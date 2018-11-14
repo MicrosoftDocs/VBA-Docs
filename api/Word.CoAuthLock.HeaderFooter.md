@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.HeaderFooter Property (Word)
+title: CoAuthLock.HeaderFooter property (Word)
 keywords: vbawd10.chm260046852
 f1_keywords:
 - vbawd10.chm260046852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.HeaderFooter Property (Word)
+# CoAuthLock.HeaderFooter property (Word)
 
 This object or member has been deprecated. You should not use it in new applications.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.OLAP Property (Excel)
+title: PivotCache.OLAP property (Excel)
 keywords: vbaxl10.chm227100
 f1_keywords:
 - vbaxl10.chm227100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.OLAP Property (Excel)
+# PivotCache.OLAP property (Excel)
 
 Returns  **True** if the PivotTable cache is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
 

@@ -1,12 +1,12 @@
 ---
-title: AddIns Object (Word)
+title: AddIns object (Word)
 ms.prod: word
 ms.assetid: acf58e58-d3f6-23cf-677b-4780f7cbc24d
 ms.date: 06/08/2017
 ---
 
 
-# AddIns Object (Word)
+# AddIns object (Word)
 
 A collection of  **AddIn** objects that represents all the add-ins available to Word, regardless of whether or not they are currently loaded. The **AddIns** collection includes global templates or Word add-in libraries (WLLs) displayed in the **Templates and Add-ins** dialog box.
 

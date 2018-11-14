@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Fill Property (Word)
+title: ChartFormat.Fill property (Word)
 keywords: vbawd10.chm203030528
 f1_keywords:
 - vbawd10.chm203030528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Fill Property (Word)
+# ChartFormat.Fill property (Word)
 
 Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart element that contains fill formatting properties for the chart element. Read-only.
 

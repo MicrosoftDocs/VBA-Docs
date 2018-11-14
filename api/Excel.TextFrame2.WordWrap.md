@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WordWrap Property (Excel)
+title: TextFrame2.WordWrap property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.WordWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.WordWrap Property (Excel)
+# TextFrame2.WordWrap property (Excel)
 
 Returns or sets text break lines within or past the boundaries of the shape. Read/write  **[MsoTriState](./Office.MsoTriState.md)** .
 

@@ -19,7 +19,7 @@ Returns a **Variant** (**Long**) specifying the number of time intervals between
 
 The **DateDiff** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_interval_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that is the interval of time you use to calculate the difference between **_date1_** and **_date2_**.|
 |**_date1_**, **_date2_**|Required; **Variant** (**Date**). Two dates you want to use in the calculation.|
@@ -47,7 +47,7 @@ The **_interval_** [argument](../../Glossary/vbe-glossary.md#argument) has these
 
 The **_firstdayofweek_** argument has these settings:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
 |**vbSunday**|1|Sunday (default)|
@@ -60,7 +60,7 @@ The **_firstdayofweek_** argument has these settings:
 
 <br/>
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
 |**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|

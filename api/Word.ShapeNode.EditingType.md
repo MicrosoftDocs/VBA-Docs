@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.EditingType Property (Word)
+title: ShapeNode.EditingType property (Word)
 keywords: vbawd10.chm164429924
 f1_keywords:
 - vbawd10.chm164429924
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.EditingType Property (Word)
+# ShapeNode.EditingType property (Word)
 
 If the specified node is a vertex, this property returns a value that indicates how changes made to the node affect the two segments connected to the node. Read-only  **MsoEditingType** . .
 

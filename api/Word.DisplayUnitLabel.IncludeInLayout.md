@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.IncludeInLayout Property (Word)
+title: DisplayUnitLabel.IncludeInLayout property (Word)
 keywords: vbawd10.chm94570866
 f1_keywords:
 - vbawd10.chm94570866
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.IncludeInLayout Property (Word)
+# DisplayUnitLabel.IncludeInLayout property (Word)
 
  **True** if a display unit label will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
 

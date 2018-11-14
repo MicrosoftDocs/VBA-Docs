@@ -1,5 +1,5 @@
 ---
-title: StyleSheet Object (Word)
+title: StyleSheet object (Word)
 keywords: vbawd10.chm2543
 f1_keywords:
 - vbawd10.chm2543
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet Object (Word)
+# StyleSheet object (Word)
 
 Represents a single cascading style sheet attached to a Web document. The  **StyleSheet** object is a member of the **[StyleSheets](Word.StyleSheets.md)** collection. The **StyleSheets** collection contains all the cascading style sheets attached to a specified document.
 

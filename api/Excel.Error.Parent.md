@@ -1,5 +1,5 @@
 ---
-title: Error.Parent Property (Excel)
+title: Error.Parent property (Excel)
 keywords: vbaxl10.chm701075
 f1_keywords:
 - vbaxl10.chm701075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Error.Parent Property (Excel)
+# Error.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

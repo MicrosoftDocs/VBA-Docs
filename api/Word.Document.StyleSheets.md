@@ -1,5 +1,5 @@
 ---
-title: Document.StyleSheets Property (Word)
+title: Document.StyleSheets property (Word)
 keywords: vbawd10.chm158007656
 f1_keywords:
 - vbawd10.chm158007656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.StyleSheets Property (Word)
+# Document.StyleSheets property (Word)
 
 Returns a  **[StyleSheets](Word.StyleSheets.md)** collection that represents the Web style sheets attached to a document.
 

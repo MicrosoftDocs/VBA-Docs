@@ -1,5 +1,5 @@
 ---
-title: Sources.Add Method (Word)
+title: Sources.Add method (Word)
 keywords: vbawd10.chm40566891
 f1_keywords:
 - vbawd10.chm40566891
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sources.Add Method (Word)
+# Sources.Add method (Word)
 
 Add a new source to the sources listed in the  **Source Manager** dialog box.
 

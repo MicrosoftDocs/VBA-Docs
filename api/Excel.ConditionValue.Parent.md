@@ -1,5 +1,5 @@
 ---
-title: ConditionValue.Parent Property (Excel)
+title: ConditionValue.Parent property (Excel)
 keywords: vbaxl10.chm803075
 f1_keywords:
 - vbaxl10.chm803075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionValue.Parent Property (Excel)
+# ConditionValue.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

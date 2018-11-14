@@ -1,5 +1,5 @@
 ---
-title: Points.Creator Property (Excel)
+title: Points.Creator property (Excel)
 keywords: vbaxl10.chm573074
 f1_keywords:
 - vbaxl10.chm573074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points.Creator Property (Excel)
+# Points.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

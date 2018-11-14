@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeReplaceFractions Property (Word)
+title: Options.AutoFormatAsYouTypeReplaceFractions property (Word)
 keywords: vbawd10.chm162988299
 f1_keywords:
 - vbawd10.chm162988299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeReplaceFractions Property (Word)
+# Options.AutoFormatAsYouTypeReplaceFractions property (Word)
 
  **True** if typed fractions are replaced with fractions from the current character set as you type. For example, "1/2" is replaced with "½." Read/write **Boolean** .
 

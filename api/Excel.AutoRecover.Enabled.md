@@ -1,5 +1,5 @@
 ---
-title: AutoRecover.Enabled Property (Excel)
+title: AutoRecover.Enabled property (Excel)
 keywords: vbaxl10.chm696073
 f1_keywords:
 - vbaxl10.chm696073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover.Enabled Property (Excel)
+# AutoRecover.Enabled property (Excel)
 
  **True** if the object is enabled. Read/write **Boolean** .
 

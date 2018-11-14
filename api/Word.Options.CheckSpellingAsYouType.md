@@ -1,5 +1,5 @@
 ---
-title: Options.CheckSpellingAsYouType Property (Word)
+title: Options.CheckSpellingAsYouType property (Word)
 keywords: vbawd10.chm162988308
 f1_keywords:
 - vbawd10.chm162988308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CheckSpellingAsYouType Property (Word)
+# Options.CheckSpellingAsYouType property (Word)
 
  **True** if Microsoft Word checks spelling and marks errors automatically as you type. Read/write **Boolean** .
 

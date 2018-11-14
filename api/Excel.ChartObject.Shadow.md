@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Shadow Property (Excel)
+title: ChartObject.Shadow property (Excel)
 keywords: vbaxl10.chm494104
 f1_keywords:
 - vbaxl10.chm494104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Shadow Property (Excel)
+# ChartObject.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the font is a shadow font or if the object has a shadow.
 

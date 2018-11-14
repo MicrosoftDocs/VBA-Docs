@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Sort Property (Excel)
+title: Worksheet.Sort property (Excel)
 keywords: vbaxl10.chm175162
 f1_keywords:
 - vbaxl10.chm175162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Sort Property (Excel)
+# Worksheet.Sort property (Excel)
 
 Returns a  **[Sort](Excel.Sort.md)** object. Read-only.
 

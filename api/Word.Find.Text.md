@@ -1,5 +1,5 @@
 ---
-title: Find.Text Property (Word)
+title: Find.Text property (Word)
 keywords: vbawd10.chm162529302
 f1_keywords:
 - vbawd10.chm162529302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Text Property (Word)
+# Find.Text property (Word)
 
 Returns or sets the text to find. Read/write  **String** .
 

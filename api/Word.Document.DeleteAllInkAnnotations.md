@@ -1,5 +1,5 @@
 ---
-title: Document.DeleteAllInkAnnotations Method (Word)
+title: Document.DeleteAllInkAnnotations method (Word)
 keywords: vbawd10.chm158007775
 f1_keywords:
 - vbawd10.chm158007775
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DeleteAllInkAnnotations Method (Word)
+# Document.DeleteAllInkAnnotations method (Word)
 
 Deletes all handwritten ink annotations in a document.
 

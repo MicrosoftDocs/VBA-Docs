@@ -1,5 +1,5 @@
 ---
-title: Rows.HeadingFormat Property (Word)
+title: Rows.HeadingFormat property (Word)
 keywords: vbawd10.chm155975685
 f1_keywords:
 - vbawd10.chm155975685
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.HeadingFormat Property (Word)
+# Rows.HeadingFormat property (Word)
 
  **True** if the specified row or rows are formatted as a table heading. Read/write **Long** .
 

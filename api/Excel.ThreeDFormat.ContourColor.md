@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourColor Property (Excel)
+title: ThreeDFormat.ContourColor property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.ContourColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ContourColor Property (Excel)
+# ThreeDFormat.ContourColor property (Excel)
 
 Returns the contour color for a  **ThreeDFormat** object. Read-only **ColorFormat** .
 

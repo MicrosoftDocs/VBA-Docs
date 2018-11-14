@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.DisplayBlanksAs Property (Excel)
+title: SparklineGroup.DisplayBlanksAs property (Excel)
 keywords: vbaxl10.chm871088
 f1_keywords:
 - vbaxl10.chm871088
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.DisplayBlanksAs Property (Excel)
+# SparklineGroup.DisplayBlanksAs property (Excel)
 
 ## Syntax
 

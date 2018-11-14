@@ -1,5 +1,5 @@
 ---
-title: Document.TrackFormatting Property (Word)
+title: Document.TrackFormatting property (Word)
 keywords: vbawd10.chm158007798
 f1_keywords:
 - vbawd10.chm158007798
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TrackFormatting Property (Word)
+# Document.TrackFormatting property (Word)
 
 Returns or sets a ** Boolean** that represents whether to track formatting changes when change tracking is turned on. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.FullSeriesCollection Method (Word)
+title: Chart.FullSeriesCollection method (Word)
 keywords: vbawd10.chm79364332
 f1_keywords:
 - vbawd10.chm79364332
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.FullSeriesCollection Method (Word)
+# Chart.FullSeriesCollection method (Word)
 
 Returns the collection of all the series in the specified chart, or the specified series.
 
@@ -25,7 +25,7 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Optional|VARIANT|The index number in the series collection of the series to return.|

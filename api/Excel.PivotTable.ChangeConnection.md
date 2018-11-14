@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ChangeConnection Method (Excel)
+title: PivotTable.ChangeConnection method (Excel)
 keywords: vbaxl10.chm235183
 f1_keywords:
 - vbaxl10.chm235183
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ChangeConnection Method (Excel)
+# PivotTable.ChangeConnection method (Excel)
 
 Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)** .
 

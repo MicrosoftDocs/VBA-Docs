@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReadOnly Property (Excel)
+title: Workbook.ReadOnly property (Excel)
 keywords: vbaxl10.chm199133
 f1_keywords:
 - vbaxl10.chm199133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ReadOnly Property (Excel)
+# Workbook.ReadOnly property (Excel)
 
  Returns **True** if the object has been opened as read-only. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Count Property (Word)
+title: CaptionLabels.Count property (Word)
 keywords: vbawd10.chm158859265
 f1_keywords:
 - vbawd10.chm158859265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels.Count Property (Word)
+# CaptionLabels.Count property (Word)
 
 Returns a  **Long** that represents the number of caption labels in the collection. Read-only.
 

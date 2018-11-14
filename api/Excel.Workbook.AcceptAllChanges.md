@@ -1,5 +1,5 @@
 ---
-title: Workbook.AcceptAllChanges Method (Excel)
+title: Workbook.AcceptAllChanges method (Excel)
 keywords: vbaxl10.chm199177
 f1_keywords:
 - vbaxl10.chm199177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.AcceptAllChanges Method (Excel)
+# Workbook.AcceptAllChanges method (Excel)
 
 Accepts all changes in the specified shared workbook.
 

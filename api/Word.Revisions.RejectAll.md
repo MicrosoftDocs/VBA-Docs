@@ -1,5 +1,5 @@
 ---
-title: Revisions.RejectAll Method (Word)
+title: Revisions.RejectAll method (Word)
 keywords: vbawd10.chm159383654
 f1_keywords:
 - vbawd10.chm159383654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revisions.RejectAll Method (Word)
+# Revisions.RejectAll method (Word)
 
 
 

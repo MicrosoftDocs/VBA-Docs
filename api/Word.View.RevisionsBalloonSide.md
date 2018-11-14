@@ -1,5 +1,5 @@
 ---
-title: View.RevisionsBalloonSide Property (Word)
+title: View.RevisionsBalloonSide property (Word)
 keywords: vbawd10.chm161808426
 f1_keywords:
 - vbawd10.chm161808426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.RevisionsBalloonSide Property (Word)
+# View.RevisionsBalloonSide property (Word)
 
 Sets or returns a  **WdRevisionsBalloonMargin** constant that specifies whether Word displays revision balloons in the left or right margin in a document.
 

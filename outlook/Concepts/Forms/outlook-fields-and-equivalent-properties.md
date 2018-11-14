@@ -68,11 +68,11 @@ ms.date: 06/08/2017
 |Due By| **FlagDueBy**|
 |Due Date| **DueDate**|
 |Duration| **Duration**|
-|E-mail| **Email1Address**|
-|E-mail 2| **Email2Address**|
-|E-mail 3| **Email3Address**|
-|E-mail Selected|N/A|
-|E-mail Selector|N/A|
+|Email| **Email1Address**|
+|Email 2| **Email2Address**|
+|Email 3| **Email3Address**|
+|Email Selected|N/A|
+|Email Selector|N/A|
 |End| **End**|
 |Entry Type| **Type**|
 |Expires| **ExpiryTime**|

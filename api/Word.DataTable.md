@@ -1,5 +1,5 @@
 ---
-title: DataTable Object (Word)
+title: DataTable object (Word)
 keywords: vbawd10.chm708
 f1_keywords:
 - vbawd10.chm708
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable Object (Word)
+# DataTable object (Word)
 
 Represents a chart data table.
 

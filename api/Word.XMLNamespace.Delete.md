@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.Delete Method (Word)
+title: XMLNamespace.Delete method (Word)
 keywords: vbawd10.chm2293861
 f1_keywords:
 - vbawd10.chm2293861
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.Delete Method (Word)
+# XMLNamespace.Delete method (Word)
 
 Deletes the specified XML schema from the list of available XML schemas.
 

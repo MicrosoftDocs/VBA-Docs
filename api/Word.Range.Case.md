@@ -1,5 +1,5 @@
 ---
-title: Range.Case Property (Word)
+title: Range.Case property (Word)
 keywords: vbawd10.chm157155640
 f1_keywords:
 - vbawd10.chm157155640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Case Property (Word)
+# Range.Case property (Word)
 
 Returns or sets a  **WdCharacterCase** constant that represents the case of the text in the specified range. Read/write.
 

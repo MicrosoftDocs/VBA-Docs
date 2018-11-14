@@ -1,5 +1,5 @@
 ---
-title: MailMergeField Object (Word)
+title: MailMergeField object (Word)
 keywords: vbawd10.chm2334
 f1_keywords:
 - vbawd10.chm2334
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField Object (Word)
+# MailMergeField object (Word)
 
 Represents a single mail merge field in a document. The  **MailMergeDataField** object is a member of the **[MailMergeDataFields](Word.mailmergedatafields.md)** collection. The **MailMergeDataFields** collection includes all the mail merge related fields in a document.
 

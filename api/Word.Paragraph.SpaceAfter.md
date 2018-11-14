@@ -1,5 +1,5 @@
 ---
-title: Paragraph.SpaceAfter Property (Word)
+title: Paragraph.SpaceAfter property (Word)
 keywords: vbawd10.chm156696688
 f1_keywords:
 - vbawd10.chm156696688
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.SpaceAfter Property (Word)
+# Paragraph.SpaceAfter property (Word)
 
 Returns or sets the amount of spacing (in points) after the specified paragraph or text column. Read/write  **Single** .
 

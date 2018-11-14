@@ -1,5 +1,5 @@
 ---
-title: XmlNamespace Object (Excel)
+title: XmlNamespace object (Excel)
 keywords: vbaxl10.chm743072
 f1_keywords:
 - vbaxl10.chm743072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespace Object (Excel)
+# XmlNamespace object (Excel)
 
 Represents a namespace that has been added to a workbook.
 

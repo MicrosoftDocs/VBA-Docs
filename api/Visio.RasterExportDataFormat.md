@@ -34,7 +34,7 @@ The value of the  **RasterExportDataFormat** property must be one of the followi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterInterlace**|0|Interlace format, the default.|
 | **visRasterNonInterlace**|1|Non-interlace format.|

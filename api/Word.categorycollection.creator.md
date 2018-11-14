@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Creator Property (Word)
+title: CategoryCollection.Creator property (Word)
 keywords: vbawd10.chm204275861
 f1_keywords:
 - vbawd10.chm204275861
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection.Creator Property (Word)
+# CategoryCollection.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

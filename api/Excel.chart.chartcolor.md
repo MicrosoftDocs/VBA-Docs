@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartColor Property (Excel)
+title: Chart.ChartColor property (Excel)
 keywords: vbaxl10.chm149199
 f1_keywords:
 - vbaxl10.chm149199
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartColor Property (Excel)
+# Chart.ChartColor property (Excel)
 
 Returns or sets an  **Integer** that represents the color scheme for the chart. Read-write.
 

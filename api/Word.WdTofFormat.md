@@ -1,5 +1,5 @@
 ---
-title: WdTofFormat Enumeration (Word)
+title: WdTofFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTofFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTofFormat Enumeration (Word)
+# WdTofFormat enumeration (Word)
 
 Specifies the type of formatting to apply to the table of figures in the active document.
 

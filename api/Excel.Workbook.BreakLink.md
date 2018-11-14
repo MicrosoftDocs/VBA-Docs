@@ -1,5 +1,5 @@
 ---
-title: Workbook.BreakLink Method (Excel)
+title: Workbook.BreakLink method (Excel)
 keywords: vbaxl10.chm199198
 f1_keywords:
 - vbaxl10.chm199198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.BreakLink Method (Excel)
+# Workbook.BreakLink method (Excel)
 
 Converts formulas linked to other Microsoft Excel sources or OLE sources to values.
 
@@ -30,7 +30,7 @@ Converts formulas linked to other Microsoft Excel sources or OLE sources to valu
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the link.|
-| _Type_|Required| **[XlLinkType](Excel.XlLinkType.md)**|The type of link.|
+| _Type_|Required| **[xlLinkType](Excel.XlLinkType.md)**|The type of link.|
 
 ## Example
 

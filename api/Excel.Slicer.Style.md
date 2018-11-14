@@ -1,5 +1,5 @@
 ---
-title: Slicer.Style Property (Excel)
+title: Slicer.Style property (Excel)
 keywords: vbaxl10.chm905088
 f1_keywords:
 - vbaxl10.chm905088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Style Property (Excel)
+# Slicer.Style property (Excel)
 
 Returns or sets the style currently applied to the specified slicer. Read/write.
 

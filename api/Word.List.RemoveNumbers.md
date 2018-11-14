@@ -1,5 +1,5 @@
 ---
-title: List.RemoveNumbers Method (Word)
+title: List.RemoveNumbers method (Word)
 keywords: vbawd10.chm160563302
 f1_keywords:
 - vbawd10.chm160563302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.RemoveNumbers Method (Word)
+# List.RemoveNumbers method (Word)
 
 Removes numbers or bullets from the specified list.
 

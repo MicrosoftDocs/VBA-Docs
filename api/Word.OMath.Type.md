@@ -1,5 +1,5 @@
 ---
-title: OMath.Type Property (Word)
+title: OMath.Type property (Word)
 keywords: vbawd10.chm176357481
 f1_keywords:
 - vbawd10.chm176357481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Type Property (Word)
+# OMath.Type property (Word)
 
 Returns or sets a  **WdOMathType** constant that represents whether an equation is displayed inline with the text around it or displayed on its own line. Read/write.
 

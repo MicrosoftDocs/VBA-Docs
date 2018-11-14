@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.ColumnsAdded Property (Excel)
+title: ModelChanges.ColumnsAdded property (Excel)
 keywords: vbaxl10.chm960078
 f1_keywords:
 - vbaxl10.chm960078
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.ColumnsAdded Property (Excel)
+# ModelChanges.ColumnsAdded property (Excel)
 
-Returns a [ModelColumnNames Object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName Object (Excel)](Excel.modelcolumnname.md) objects which represent all columns added as part of a model operation. Read-only.
+Returns a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName object (Excel)](Excel.modelcolumnname.md) objects which represent all columns added as part of a model operation. Read-only.
 
 
 ## Syntax

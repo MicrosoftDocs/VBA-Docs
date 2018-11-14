@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Label Property (Word)
+title: OLEFormat.Label property (Word)
 keywords: vbawd10.chm154337292
 f1_keywords:
 - vbawd10.chm154337292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Label Property (Word)
+# OLEFormat.Label property (Word)
 
 Returns a string that's used to identify the portion of the source file that's being linked. Read-only  **String** .
 

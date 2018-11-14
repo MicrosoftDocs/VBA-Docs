@@ -1,5 +1,5 @@
 ---
-title: Shape.TopRelative Property (Word)
+title: Shape.TopRelative property (Word)
 keywords: vbawd10.chm161480905
 f1_keywords:
 - vbawd10.chm161480905
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.TopRelative Property (Word)
+# Shape.TopRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative top position of a shape. Read/write.
 

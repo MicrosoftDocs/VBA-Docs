@@ -1,5 +1,5 @@
 ---
-title: Workbook.NewWindow Method (Excel)
+title: Workbook.NewWindow method (Excel)
 keywords: vbaxl10.chm199116
 f1_keywords:
 - vbaxl10.chm199116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.NewWindow Method (Excel)
+# Workbook.NewWindow method (Excel)
 
 Creates a new window or a copy of the specified window.
 

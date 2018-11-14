@@ -1,5 +1,5 @@
 ---
-title: Global.KeyString Method (Word)
+title: Global.KeyString method (Word)
 keywords: vbawd10.chm163119421
 f1_keywords:
 - vbawd10.chm163119421
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.KeyString Method (Word)
+# Global.KeyString method (Word)
 
 Returns the key combination string for the specified keys (for example, CTRL+SHIFT+A).
 

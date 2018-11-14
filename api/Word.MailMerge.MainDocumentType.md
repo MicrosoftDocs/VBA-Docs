@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MainDocumentType Property (Word)
+title: MailMerge.MainDocumentType property (Word)
 keywords: vbawd10.chm153092097
 f1_keywords:
 - vbawd10.chm153092097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MainDocumentType Property (Word)
+# MailMerge.MainDocumentType property (Word)
 
 Returns or sets the mail merge main document type. Read/write  **WdMailMergeMainDocType** .
 

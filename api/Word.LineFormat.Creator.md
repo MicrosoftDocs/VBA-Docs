@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Creator Property (Word)
+title: LineFormat.Creator property (Word)
 keywords: vbawd10.chm164234217
 f1_keywords:
 - vbawd10.chm164234217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Creator Property (Word)
+# LineFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

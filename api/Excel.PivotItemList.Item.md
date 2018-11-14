@@ -1,5 +1,5 @@
 ---
-title: PivotItemList.Item Method (Excel)
+title: PivotItemList.Item method (Excel)
 keywords: vbaxl10.chm721074
 f1_keywords:
 - vbaxl10.chm721074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItemList.Item Method (Excel)
+# PivotItemList.Item method (Excel)
 
 Returns a single object from a collection.
 

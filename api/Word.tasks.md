@@ -1,5 +1,5 @@
 ---
-title: Tasks Object (Word)
+title: Tasks object (Word)
 keywords: vbawd10.chm2435
 f1_keywords:
 - vbawd10.chm2435
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks Object (Word)
+# Tasks object (Word)
 
 A collection of  **[Task](Word.Task.md)** objects that represents all the tasks currently running on the system.
 

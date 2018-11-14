@@ -64,7 +64,7 @@ Possible values for  _Format_ declared by the Visio type library in **VisPasteSp
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPasteBitmap**|2|Paste bitmap.|
 | **visPasteDIB**|8|Paste device-independent bitmap.|

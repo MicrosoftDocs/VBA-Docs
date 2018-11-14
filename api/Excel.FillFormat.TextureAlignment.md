@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureAlignment Property (Excel)
+title: FillFormat.TextureAlignment property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureAlignment Property (Excel)
+# FillFormat.TextureAlignment property (Excel)
 
 Returns or sets the text alignment for the specified  **FillFormat** object. Read/write.
 

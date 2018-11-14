@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Creator Property (Excel)
+title: ChartGroups.Creator property (Excel)
 keywords: vbaxl10.chm569074
 f1_keywords:
 - vbaxl10.chm569074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups.Creator Property (Excel)
+# ChartGroups.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

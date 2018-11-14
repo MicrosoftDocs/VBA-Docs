@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveThemeDisplayName Property (Word)
+title: Document.ActiveThemeDisplayName property (Word)
 keywords: vbawd10.chm158007837
 f1_keywords:
 - vbawd10.chm158007837
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ActiveThemeDisplayName Property (Word)
+# Document.ActiveThemeDisplayName property (Word)
 
 Returns the display name of the active theme for the specified document. Read-only  **String** .
 

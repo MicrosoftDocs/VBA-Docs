@@ -1,5 +1,5 @@
 ---
-title: Task Object (Word)
+title: Task object (Word)
 keywords: vbawd10.chm2434
 f1_keywords:
 - vbawd10.chm2434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task Object (Word)
+# Task object (Word)
 
 Represents a single task running on the system. The  **Task** object is a member of the **[Tasks](Word.tasks.md)** collection. The **Tasks** collection includes all the applications that are currently running on the system.
 

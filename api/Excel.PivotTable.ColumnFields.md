@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ColumnFields Property (Excel)
+title: PivotTable.ColumnFields property (Excel)
 keywords: vbaxl10.chm235074
 f1_keywords:
 - vbaxl10.chm235074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ColumnFields Property (Excel)
+# PivotTable.ColumnFields property (Excel)
 
 Returns an object that represents either a single PivotTable field (a  **[PivotField](Excel.PivotField.md)** object) or a collection of all the fields (a **[PivotFields](Excel.PivotFields.md)** object) that are currently shown as column fields. Read-only.
 

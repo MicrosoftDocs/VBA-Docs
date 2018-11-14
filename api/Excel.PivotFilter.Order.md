@@ -1,5 +1,5 @@
 ---
-title: PivotFilter.Order Property (Excel)
+title: PivotFilter.Order property (Excel)
 keywords: vbaxl10.chm770073
 f1_keywords:
 - vbaxl10.chm770073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFilter.Order Property (Excel)
+# PivotFilter.Order property (Excel)
 
 Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer** .
 

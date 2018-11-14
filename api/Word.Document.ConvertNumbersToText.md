@@ -1,5 +1,5 @@
 ---
-title: Document.ConvertNumbersToText Method (Word)
+title: Document.ConvertNumbersToText method (Word)
 keywords: vbawd10.chm158007437
 f1_keywords:
 - vbawd10.chm158007437
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ConvertNumbersToText Method (Word)
+# Document.ConvertNumbersToText method (Word)
 
 Changes the list numbers and LISTNUM fields in the specified Document to text. .
 

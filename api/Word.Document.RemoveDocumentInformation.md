@@ -1,5 +1,5 @@
 ---
-title: Document.RemoveDocumentInformation Method (Word)
+title: Document.RemoveDocumentInformation method (Word)
 keywords: vbawd10.chm158007791
 f1_keywords:
 - vbawd10.chm158007791
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RemoveDocumentInformation Method (Word)
+# Document.RemoveDocumentInformation method (Word)
 
 Removes sensitive information, properties, comments, and other metadata from a document.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DCountA Method (Excel)
+title: WorksheetFunction.DCountA method (Excel)
 keywords: vbaxl10.chm137152
 f1_keywords:
 - vbaxl10.chm137152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DCountA Method (Excel)
+# WorksheetFunction.DCountA method (Excel)
 
 Counts the nonblank cells in a column of a list or database that match conditions that you specify.
 

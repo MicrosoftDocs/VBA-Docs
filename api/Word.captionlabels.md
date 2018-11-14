@@ -1,12 +1,12 @@
 ---
-title: CaptionLabels Object (Word)
+title: CaptionLabels object (Word)
 ms.prod: word
 ms.assetid: 7d18c0d6-6d58-9841-4665-ab13e2e2ad9f
 ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels Object (Word)
+# CaptionLabels object (Word)
 
 A collection of  **[CaptionLabel](Word.CaptionLabel.md)** objects that represent the available caption labels. The items in the **CaptionLabels** collection are listed in the **Label** box in the **Caption** dialog box.
 

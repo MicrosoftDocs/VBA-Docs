@@ -29,7 +29,7 @@ Returns the current state of the player. Read-only.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ppPlaying**|0|Playing|
 |**ppPaused**|1|Paused|

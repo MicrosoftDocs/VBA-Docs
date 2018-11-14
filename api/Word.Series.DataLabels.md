@@ -1,5 +1,5 @@
 ---
-title: Series.DataLabels Method (Word)
+title: Series.DataLabels method (Word)
 keywords: vbawd10.chm123732125
 f1_keywords:
 - vbawd10.chm123732125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.DataLabels Method (Word)
+# Series.DataLabels method (Word)
 
 Returns an object that represents either a single data label (a  **[DataLabel](Word.DataLabel.md)** object) or a collection of all the data labels for the series (a **[DataLabels](Word.DataLabels.md)** collection).
 

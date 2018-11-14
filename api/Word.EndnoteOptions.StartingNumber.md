@@ -1,5 +1,5 @@
 ---
-title: EndnoteOptions.StartingNumber Property (Word)
+title: EndnoteOptions.StartingNumber property (Word)
 keywords: vbawd10.chm23593062
 f1_keywords:
 - vbawd10.chm23593062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EndnoteOptions.StartingNumber Property (Word)
+# EndnoteOptions.StartingNumber property (Word)
 
 Returns or sets the starting endnote number. Read/write  **Long** .
 

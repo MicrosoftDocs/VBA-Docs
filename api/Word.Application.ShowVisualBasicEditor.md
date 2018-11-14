@@ -1,5 +1,5 @@
 ---
-title: Application.ShowVisualBasicEditor Property (Word)
+title: Application.ShowVisualBasicEditor property (Word)
 keywords: vbawd10.chm158335082
 f1_keywords:
 - vbawd10.chm158335082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowVisualBasicEditor Property (Word)
+# Application.ShowVisualBasicEditor property (Word)
 
  **True** if the Visual Basic Editor window is visible. Read/write **Boolean** .
 

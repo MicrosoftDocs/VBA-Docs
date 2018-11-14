@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectInitialCaps Property (Word)
+title: AutoCorrect.CorrectInitialCaps property (Word)
 keywords: vbawd10.chm155779074
 f1_keywords:
 - vbawd10.chm155779074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectInitialCaps Property (Word)
+# AutoCorrect.CorrectInitialCaps property (Word)
 
  **True** if Word automatically makes the second letter lowercase if the first two letters of a word are typed in uppercase. For example, "WOrd" is corrected to "Word." Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.Sync Property (Excel)
+title: Workbook.Sync property (Excel)
 keywords: vbaxl10.chm199222
 f1_keywords:
 - vbaxl10.chm199222
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Sync Property (Excel)
+# Workbook.Sync property (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

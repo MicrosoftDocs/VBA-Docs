@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.CommandParameter Property (Word)
+title: KeysBoundTo.CommandParameter property (Word)
 keywords: vbawd10.chm160890885
 f1_keywords:
 - vbawd10.chm160890885
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.CommandParameter Property (Word)
+# KeysBoundTo.CommandParameter property (Word)
 
 Returns the command parameter assigned to the specified shortcut key. Read-only  **String** .
 

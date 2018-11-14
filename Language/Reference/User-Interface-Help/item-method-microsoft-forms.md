@@ -21,7 +21,7 @@ Returns a member of a [collection](../../Glossary/vbe-glossary.md#collection), e
 The  **Item** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _collectionindex_|Required. A member's position, or index, within a collection.|

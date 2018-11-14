@@ -1,5 +1,5 @@
 ---
-title: PivotTable.VisibleFields Property (Excel)
+title: PivotTable.VisibleFields property (Excel)
 keywords: vbaxl10.chm235101
 f1_keywords:
 - vbaxl10.chm235101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.VisibleFields Property (Excel)
+# PivotTable.VisibleFields property (Excel)
 
 Returns an object that represents either a single field in a PivotTable report (a  **[PivotField](Excel.PivotField.md)** object) or a collection of all the visible fields (a **[PivotFields](Excel.PivotFields.md)** object). Visible fields are shown as row, column, page or data fields. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.GetLetterContent Method (Word)
+title: Document.GetLetterContent method (Word)
 keywords: vbawd10.chm158007420
 f1_keywords:
 - vbawd10.chm158007420
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GetLetterContent Method (Word)
+# Document.GetLetterContent method (Word)
 
 Retrieves letter elements from the specified document and returns a  **[LetterContent](Word.LetterContent.md)** object.
 

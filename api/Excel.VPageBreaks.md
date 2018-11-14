@@ -1,5 +1,5 @@
 ---
-title: VPageBreaks Object (Excel)
+title: VPageBreaks object (Excel)
 keywords: vbaxl10.chm166072
 f1_keywords:
 - vbaxl10.chm166072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# VPageBreaks Object (Excel)
+# VPageBreaks object (Excel)
 
 A collection of vertical page breaks within the print area.
 

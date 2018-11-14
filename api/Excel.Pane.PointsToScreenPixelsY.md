@@ -1,5 +1,5 @@
 ---
-title: Pane.PointsToScreenPixelsY Method (Excel)
+title: Pane.PointsToScreenPixelsY method (Excel)
 keywords: vbaxl10.chm360082
 f1_keywords:
 - vbaxl10.chm360082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.PointsToScreenPixelsY Method (Excel)
+# Pane.PointsToScreenPixelsY method (Excel)
 
 Returns or sets the location of the pixel on the screen.
 

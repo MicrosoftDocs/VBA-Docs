@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Duplicate Method (Excel)
+title: OLEObject.Duplicate method (Excel)
 keywords: vbaxl10.chm415080
 f1_keywords:
 - vbaxl10.chm415080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Duplicate Method (Excel)
+# OLEObject.Duplicate method (Excel)
 
 Duplicates the object and returns a reference to the new copy.
 

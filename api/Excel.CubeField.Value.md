@@ -1,5 +1,5 @@
 ---
-title: CubeField.Value Property (Excel)
+title: CubeField.Value property (Excel)
 keywords: vbaxl10.chm668076
 f1_keywords:
 - vbaxl10.chm668076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Value Property (Excel)
+# CubeField.Value property (Excel)
 
 Returns a  **String** value that represents the name of the specified field.
 

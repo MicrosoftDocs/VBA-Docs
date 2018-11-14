@@ -1,5 +1,5 @@
 ---
-title: Frames.Item Method (Word)
+title: Frames.Item method (Word)
 keywords: vbawd10.chm153812992
 f1_keywords:
 - vbawd10.chm153812992
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frames.Item Method (Word)
+# Frames.Item method (Word)
 
 Returns an individual  **Frames** object in a collection.
 

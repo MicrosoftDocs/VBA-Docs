@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Name Property (Word)
+title: SeriesLines.Name property (Word)
 keywords: vbawd10.chm202702958
 f1_keywords:
 - vbawd10.chm202702958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Name Property (Word)
+# SeriesLines.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

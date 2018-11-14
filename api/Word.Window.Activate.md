@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Word)
+title: Window.Activate method (Word)
 keywords: vbawd10.chm157417572
 f1_keywords:
 - vbawd10.chm157417572
@@ -11,7 +11,7 @@ ms.date: 08/20/2018
 ---
 
 
-# Window.Activate Method (Word)
+# Window.Activate method (Word)
 
 Activates the specified window.
 

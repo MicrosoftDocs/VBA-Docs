@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileFixedColumnWidths Property (Excel)
+title: QueryTable.TextFileFixedColumnWidths property (Excel)
 keywords: vbaxl10.chm518109
 f1_keywords:
 - vbaxl10.chm518109
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileFixedColumnWidths Property (Excel)
+# QueryTable.TextFileFixedColumnWidths property (Excel)
 
-Returns or sets an array of integers that correspond to the widths of the columns (in characters) in the text file that you're importing into a query table. Valid widths are from 1 through 32767 characters. Read/write  **Variant** .
+Returns or sets an array of integers that correspond to the widths of the columns (in characters) in the text file that you are importing into a query table. Valid widths are from 1 through 32767 characters. Read/write  **Variant** .
 
 
 ## Syntax

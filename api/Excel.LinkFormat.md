@@ -1,5 +1,5 @@
 ---
-title: LinkFormat Object (Excel)
+title: LinkFormat object (Excel)
 keywords: vbaxl10.chm633072
 f1_keywords:
 - vbaxl10.chm633072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat Object (Excel)
+# LinkFormat object (Excel)
 
 Contains linked OLE object properties.
 

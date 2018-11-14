@@ -1,5 +1,5 @@
 ---
-title: Graphic.Parent Property (Excel)
+title: Graphic.Parent property (Excel)
 keywords: vbaxl10.chm693075
 f1_keywords:
 - vbaxl10.chm693075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Parent Property (Excel)
+# Graphic.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

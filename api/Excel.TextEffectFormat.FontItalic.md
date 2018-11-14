@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontItalic Property (Excel)
+title: TextEffectFormat.FontItalic property (Excel)
 keywords: vbaxl10.chm118004
 f1_keywords:
 - vbaxl10.chm118004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontItalic Property (Excel)
+# TextEffectFormat.FontItalic property (Excel)
 
 Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Endnotes.ResetContinuationSeparator Method (Word)
+title: Endnotes.ResetContinuationSeparator method (Word)
 keywords: vbawd10.chm155254792
 f1_keywords:
 - vbawd10.chm155254792
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.ResetContinuationSeparator Method (Word)
+# Endnotes.ResetContinuationSeparator method (Word)
 
 Resets the endnote continuation separator to the default separator.
 

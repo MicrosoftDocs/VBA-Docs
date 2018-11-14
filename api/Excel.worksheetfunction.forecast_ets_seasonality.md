@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast_ETS_Seasonality Method (Excel)
+title: WorksheetFunction.Forecast_ETS_Seasonality method (Excel)
 keywords: vbaxl10.chm137470
 f1_keywords:
 - vbaxl10.chm137470
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorksheetFunction.Forecast_ETS_Seasonality Method (Excel)
+# WorksheetFunction.Forecast_ETS_Seasonality method (Excel)
 
 Returns the length of the repetitive pattern Excel detects for the specified time series.
 

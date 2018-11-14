@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.PTCondition Property (Excel)
+title: FormatCondition.PTCondition property (Excel)
 keywords: vbaxl10.chm512093
 f1_keywords:
 - vbaxl10.chm512093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.PTCondition Property (Excel)
+# FormatCondition.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

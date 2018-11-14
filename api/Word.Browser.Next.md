@@ -1,5 +1,5 @@
 ---
-title: Browser.Next Method (Word)
+title: Browser.Next method (Word)
 keywords: vbawd10.chm154009701
 f1_keywords:
 - vbawd10.chm154009701
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser.Next Method (Word)
+# Browser.Next method (Word)
 
 Moves the selection to the next item indicated by the browser target. Use the  **Target** property to change the browser target.
 

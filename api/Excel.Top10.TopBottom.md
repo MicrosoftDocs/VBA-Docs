@@ -1,5 +1,5 @@
 ---
-title: Top10.TopBottom Property (Excel)
+title: Top10.TopBottom property (Excel)
 keywords: vbaxl10.chm822076
 f1_keywords:
 - vbaxl10.chm822076
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.TopBottom Property (Excel)
+# Top10.TopBottom property (Excel)
 
-Returns or sets one of the constants of the  **[XlTopBottom](Excel.XlTopBottom.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
+Returns or sets one of the constants of the  **[xlTopBottom](Excel.XlTopBottom.md)** enumeration, determining if the ranking is evaluated from the top or bottom.
 
 
 ## Syntax

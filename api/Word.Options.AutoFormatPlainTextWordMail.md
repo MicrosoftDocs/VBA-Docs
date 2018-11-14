@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatPlainTextWordMail Property (Word)
+title: Options.AutoFormatPlainTextWordMail property (Word)
 keywords: vbawd10.chm162988303
 f1_keywords:
 - vbawd10.chm162988303
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatPlainTextWordMail Property (Word)
+# Options.AutoFormatPlainTextWordMail property (Word)
 
- **True** if Word automatically formats plain-text e-mail messages when you open them in Word. Read/write **Boolean** .
+ **True** if Word automatically formats plain-text email messages when you open them in Word. Read/write **Boolean** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Example
 
-This example sets Word to automatically format any plain-text e-mail messages that are opened.
+This example sets Word to automatically format any plain-text email messages that are opened.
 
 
 ```vb

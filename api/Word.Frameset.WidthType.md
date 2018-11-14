@@ -1,5 +1,5 @@
 ---
-title: Frameset.WidthType Property (Word)
+title: Frameset.WidthType property (Word)
 keywords: vbawd10.chm165806081
 f1_keywords:
 - vbawd10.chm165806081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.WidthType Property (Word)
+# Frameset.WidthType property (Word)
 
 Returns or sets the width type for the specified  **Frameset** object. Read/write **WdFramesetSizeType** .
 

@@ -1,5 +1,5 @@
 ---
-title: Field.Delete Method (Word)
+title: Field.Delete method (Word)
 keywords: vbawd10.chm154075243
 f1_keywords:
 - vbawd10.chm154075243
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Delete Method (Word)
+# Field.Delete method (Word)
 
 Deletes the specified field.
 

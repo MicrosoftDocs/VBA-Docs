@@ -1,18 +1,16 @@
 ---
-title: XlAutoFillType Enumeration (Excel)
+title: xlAutoFillType enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlAutoFillType
+- Excel.xlAutoFillType
 ms.assetid: bfb09be7-8922-ef4b-751e-c8972536b723
 ms.date: 06/08/2017
 ---
 
 
-# XlAutoFillType Enumeration (Excel)
+# xlAutoFillType enumeration (Excel)
 
 Specifies how the target range is to be filled, based on the contents of the source range.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

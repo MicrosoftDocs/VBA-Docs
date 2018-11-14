@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces.Item Property (Excel)
+title: XmlNamespaces.Item property (Excel)
 keywords: vbaxl10.chm746074
 f1_keywords:
 - vbaxl10.chm746074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces.Item Property (Excel)
+# XmlNamespaces.Item property (Excel)
 
 Returns a single object from a collection.
 

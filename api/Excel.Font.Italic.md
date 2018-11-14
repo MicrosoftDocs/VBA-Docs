@@ -1,5 +1,5 @@
 ---
-title: Font.Italic Property (Excel)
+title: Font.Italic property (Excel)
 keywords: vbaxl10.chm559078
 f1_keywords:
 - vbaxl10.chm559078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Italic Property (Excel)
+# Font.Italic property (Excel)
 
  **True** if the font style is italic. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Borders Property (Excel)
+title: DisplayFormat.Borders property (Excel)
 keywords: vbaxl10.chm893073
 f1_keywords:
 - vbaxl10.chm893073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Borders Property (Excel)
+# DisplayFormat.Borders property (Excel)
 
 Returns a  **[Borders](Excel.Borders.md)** object that represents the borders of the associated **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FormatColor.TintAndShade Property (Excel)
+title: FormatColor.TintAndShade property (Excel)
 keywords: vbaxl10.chm802076
 f1_keywords:
 - vbaxl10.chm802076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor.TintAndShade Property (Excel)
+# FormatColor.TintAndShade property (Excel)
 
 Returns or sets a  **Single** that lightens or darkens the fill color of a cell for a threshold of a data bar or color scale conditional formatting rule.
 

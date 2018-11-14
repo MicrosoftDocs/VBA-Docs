@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionKeyLength Property (Word)
+title: Document.PasswordEncryptionKeyLength property (Word)
 keywords: vbawd10.chm158007665
 f1_keywords:
 - vbawd10.chm158007665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PasswordEncryptionKeyLength Property (Word)
+# Document.PasswordEncryptionKeyLength property (Word)
 
 Returns a  **Long** indicating the key length of the algorithm Microsoft Word uses when encrypting documents with passwords. Read-only.
 

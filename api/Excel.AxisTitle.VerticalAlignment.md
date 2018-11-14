@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.VerticalAlignment Property (Excel)
+title: AxisTitle.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm565087
 f1_keywords:
 - vbaxl10.chm565087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.VerticalAlignment Property (Excel)
+# AxisTitle.VerticalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
 

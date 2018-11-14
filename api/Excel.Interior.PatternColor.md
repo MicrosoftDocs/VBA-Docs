@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColor Property (Excel)
+title: Interior.PatternColor property (Excel)
 keywords: vbaxl10.chm551077
 f1_keywords:
 - vbaxl10.chm551077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.PatternColor Property (Excel)
+# Interior.PatternColor property (Excel)
 
 Returns or sets the color of the interior pattern as an RGB value. Read/write  **Variant** .
 

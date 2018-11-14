@@ -1,5 +1,5 @@
 ---
-title: Range.SpellingChecked Property (Word)
+title: Range.SpellingChecked property (Word)
 keywords: vbawd10.chm157155589
 f1_keywords:
 - vbawd10.chm157155589
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SpellingChecked Property (Word)
+# Range.SpellingChecked property (Word)
 
  **True** if spelling has been checked throughout the specified range or document. **False** if all or some of the range or document has not been checked for spelling. Read/write **Boolean** .
 

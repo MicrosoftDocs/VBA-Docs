@@ -1,5 +1,5 @@
 ---
-title: Index.HeadingSeparator Property (Word)
+title: Index.HeadingSeparator property (Word)
 keywords: vbawd10.chm159186945
 f1_keywords:
 - vbawd10.chm159186945
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.HeadingSeparator Property (Word)
+# Index.HeadingSeparator property (Word)
 
 Returns or sets the text between alphabetical groups (entries that start with the same letter) in the index. Corresponds to the \h switch for an INDEX field. Read/write  **WdHeadingSeparator** .
 

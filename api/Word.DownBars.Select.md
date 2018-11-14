@@ -1,5 +1,5 @@
 ---
-title: DownBars.Select Method (Word)
+title: DownBars.Select method (Word)
 keywords: vbawd10.chm107151595
 f1_keywords:
 - vbawd10.chm107151595
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Select Method (Word)
+# DownBars.Select method (Word)
 
 Selects the object.
 

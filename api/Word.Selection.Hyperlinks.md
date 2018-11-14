@@ -1,5 +1,5 @@
 ---
-title: Selection.Hyperlinks Property (Word)
+title: Selection.Hyperlinks property (Word)
 keywords: vbawd10.chm158662812
 f1_keywords:
 - vbawd10.chm158662812
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Hyperlinks Property (Word)
+# Selection.Hyperlinks property (Word)
 
 Returns a  **[Hyperlinks](Word.hyperlinks.md)** collection that represents all the hyperlinks in the specified selection. Read-only.
 

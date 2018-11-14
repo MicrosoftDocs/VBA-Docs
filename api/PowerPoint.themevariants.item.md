@@ -22,7 +22,7 @@ Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Integer**|The index number of the single  **ThemeVariant** object in the collection to be returned.|
 | _Index_|Required|INT||

@@ -1,5 +1,5 @@
 ---
-title: ListEntry.Name Property (Word)
+title: ListEntry.Name property (Word)
 keywords: vbawd10.chm153288706
 f1_keywords:
 - vbawd10.chm153288706
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntry.Name Property (Word)
+# ListEntry.Name property (Word)
 
 Returns or sets the name of the specified object. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.EvenPage Property (Excel)
+title: PageSetup.EvenPage property (Excel)
 keywords: vbaxl10.chm473117
 f1_keywords:
 - vbaxl10.chm473117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.EvenPage Property (Excel)
+# PageSetup.EvenPage property (Excel)
 
 Returns or sets the alignment of text on the even page of a workbook or section.
 

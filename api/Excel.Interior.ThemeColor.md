@@ -1,5 +1,5 @@
 ---
-title: Interior.ThemeColor Property (Excel)
+title: Interior.ThemeColor property (Excel)
 keywords: vbaxl10.chm551079
 f1_keywords:
 - vbaxl10.chm551079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.ThemeColor Property (Excel)
+# Interior.ThemeColor property (Excel)
 
 Returns or sets the theme color in the applied color scheme that is associated with the specified object. Read/write  **Variant** .
 

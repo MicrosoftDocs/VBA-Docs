@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Highpoint Property (Excel)
+title: SparkPoints.Highpoint property (Excel)
 keywords: vbaxl10.chm873075
 f1_keywords:
 - vbaxl10.chm873075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Highpoint Property (Excel)
+# SparkPoints.Highpoint property (Excel)
 
 Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of the marker for the highest point of data on a sparkline. Read-only
 

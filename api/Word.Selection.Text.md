@@ -1,5 +1,5 @@
 ---
-title: Selection.Text Property (Word)
+title: Selection.Text property (Word)
 keywords: vbawd10.chm158662656
 f1_keywords:
 - vbawd10.chm158662656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Text Property (Word)
+# Selection.Text property (Word)
 
 Returns or sets the text in the specified selection. Read/write  **String** .
 

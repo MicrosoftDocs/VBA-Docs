@@ -1,5 +1,5 @@
 ---
-title: Application.Caller Property (Excel)
+title: Application.Caller property (Excel)
 keywords: vbaxl10.chm133085
 f1_keywords:
 - vbaxl10.chm133085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Caller Property (Excel)
+# Application.Caller property (Excel)
 
 Returns information about how Visual Basic was called (for more information, see the Remarks section).
 

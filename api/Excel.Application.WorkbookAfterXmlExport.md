@@ -32,7 +32,7 @@ Occurs after Microsoft Excel saves or exports XML data from the specified workbo
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The target workbook.|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that was used to save or export data.|
 | _Url_|Required| **String**|The location of the XML file that was exported.|
-| _Result_|Required| **[XlXmlExportResult](Excel.XlXmlExportResult.md)**| Indicates the results of the save or export operation.|
+| _Result_|Required| **[xlXmlExportResult](Excel.XlXmlExportResult.md)**| Indicates the results of the save or export operation.|
 
 ## Return value
 
@@ -43,7 +43,7 @@ Nothing
 
 
 
-| **XlXmlExportResult** can be one of the following **XlXmlExportResult** constants|
+| **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants|
 | **xlXmlExportSuccess** . The XML data file was successfully exported.|
 | **xlXmlExportValidationFailed** . The contents of the XML data file do not match the specified schema map.|
 

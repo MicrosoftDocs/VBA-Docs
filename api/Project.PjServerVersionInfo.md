@@ -18,7 +18,7 @@ Contains constants that specify how to format data from Project Server versions.
 |:-----|:-----|:-----|
 |**pjServerVersionInfo_Unknown**|-2|The Project Server version is unknown.|
 |**pjServerVersionInfo_Error**|-1|Format error information.|
-|**pjServerVersionInfo_Email**|0|Format e-mail information.|
+|**pjServerVersionInfo_Email**|0|Format email information.|
 |**pjServerVersionInfo_P9**|900|Format information from Microsoft Project Central (Project Server 2000)|
 |**pjServerVersionInfo_P10**|1000|Format information from Project Server 2002|
 |**pjServerVersionInfo_P11**|1100|Format information from Project Server 2003|

@@ -1,5 +1,5 @@
 ---
-title: Application.CalculateBeforeSave Property (Excel)
+title: Application.CalculateBeforeSave property (Excel)
 keywords: vbaxl10.chm133083
 f1_keywords:
 - vbaxl10.chm133083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CalculateBeforeSave Property (Excel)
+# Application.CalculateBeforeSave property (Excel)
 
  **True** if workbooks are calculated before they're saved to disk (if the **[Calculation](Excel.Application.Calculation.md)** property is set to **xlManual**). This property is preserved even if you change the **Calculation** property. Read/write **Boolean** .
 

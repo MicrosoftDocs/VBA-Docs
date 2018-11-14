@@ -23,7 +23,7 @@ Applies the specified report template to the active report.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _TemplateId_|Optional|**[PjReportLayoutTemplateId](Project.pjreportlayouttemplateid.md)**|Specifies the kind of report; can be one of the following constants:  **pjReportLayoutComparison**,  **pjReportLayoutTitleAndChart**,  **pjReportLayoutTitleAndTable**, or  **pjReportLayoutTitleOnly**.|
 | _TemplateId_|Optional|PJREPORTLAYOUTTEMPLATEID||

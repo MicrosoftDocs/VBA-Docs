@@ -1,5 +1,5 @@
 ---
-title: Font.SetAsTemplateDefault Method (Word)
+title: Font.SetAsTemplateDefault method (Word)
 keywords: vbawd10.chm156368999
 f1_keywords:
 - vbawd10.chm156368999
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.SetAsTemplateDefault Method (Word)
+# Font.SetAsTemplateDefault method (Word)
 
 Sets the specified font formatting as the default for the active document and all new documents based on the active template.
 

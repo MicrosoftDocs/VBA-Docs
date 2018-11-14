@@ -1,5 +1,5 @@
 ---
-title: MultiThreadedCalculation.ThreadMode Property (Excel)
+title: MultiThreadedCalculation.ThreadMode property (Excel)
 keywords: vbaxl10.chm859074
 f1_keywords:
 - vbaxl10.chm859074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# MultiThreadedCalculation.ThreadMode Property (Excel)
+# MultiThreadedCalculation.ThreadMode property (Excel)
 
-Returns or sets the thread mode for the specified  **MultiThreadedCalculation** object. Read/write **XlThreadMode** .
+Returns or sets the thread mode for the specified  **MultiThreadedCalculation** object. Read/write **xlThreadMode** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the thread mode for the specified  **MultiThreadedCalculation** 
 
 ## Remarks
 
-You can set the thread mode to either  **XlThreadModeAutomatic** or **XlThreadModeManual** .
+You can set the thread mode to either  **xlThreadModeAutomatic** or **xlThreadModeManual** .
 
 
 ## See also

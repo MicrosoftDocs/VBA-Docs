@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Caption Property (Word)
+title: ProtectedViewWindow.Caption property (Word)
 keywords: vbawd10.chm231735296
 f1_keywords:
 - vbawd10.chm231735296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Caption Property (Word)
+# ProtectedViewWindow.Caption property (Word)
 
 Returns or sets the caption text that is displayed in the title bar of the document or protected view window. Read/write  **String** .
 

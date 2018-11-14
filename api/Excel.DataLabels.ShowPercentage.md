@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowPercentage Property (Excel)
+title: DataLabels.ShowPercentage property (Excel)
 keywords: vbaxl10.chm584102
 f1_keywords:
 - vbaxl10.chm584102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowPercentage Property (Excel)
+# DataLabels.ShowPercentage property (Excel)
 
  **True** to display the percentage value for the data labels on a chart. **False** to hide. Read/write **Boolean** .
 

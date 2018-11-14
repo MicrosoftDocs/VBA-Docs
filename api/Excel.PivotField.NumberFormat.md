@@ -1,5 +1,5 @@
 ---
-title: PivotField.NumberFormat Property (Excel)
+title: PivotField.NumberFormat property (Excel)
 keywords: vbaxl10.chm240086
 f1_keywords:
 - vbaxl10.chm240086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.NumberFormat Property (Excel)
+# PivotField.NumberFormat property (Excel)
 
 Returns or sets a  **String** value that represents the format code for the object.
 

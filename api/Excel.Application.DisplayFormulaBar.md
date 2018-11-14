@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayFormulaBar Property (Excel)
+title: Application.DisplayFormulaBar property (Excel)
 keywords: vbaxl10.chm133120
 f1_keywords:
 - vbaxl10.chm133120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayFormulaBar Property (Excel)
+# Application.DisplayFormulaBar property (Excel)
 
  **True** if the formula bar is displayed. Read/write **Boolean** .
 

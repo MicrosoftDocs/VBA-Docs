@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Select Method (Excel)
+title: DataLabels.Select method (Excel)
 keywords: vbaxl10.chm584075
 f1_keywords:
 - vbaxl10.chm584075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Select Method (Excel)
+# DataLabels.Select method (Excel)
 
 Selects the object.
 

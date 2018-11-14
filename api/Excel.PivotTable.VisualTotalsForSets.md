@@ -1,5 +1,5 @@
 ---
-title: PivotTable.VisualTotalsForSets Property (Excel)
+title: PivotTable.VisualTotalsForSets property (Excel)
 keywords: vbaxl10.chm235200
 f1_keywords:
 - vbaxl10.chm235200
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.VisualTotalsForSets Property (Excel)
+# PivotTable.VisualTotalsForSets property (Excel)
 
 Returns or sets whether to include filtered items in the totals of named sets for the specified PivotTable. Read/write
 

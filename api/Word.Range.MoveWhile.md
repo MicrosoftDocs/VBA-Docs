@@ -1,5 +1,5 @@
 ---
-title: Range.MoveWhile Method (Word)
+title: Range.MoveWhile method (Word)
 keywords: vbawd10.chm157155440
 f1_keywords:
 - vbawd10.chm157155440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveWhile Method (Word)
+# Range.MoveWhile method (Word)
 
 Moves the specified range while any of the specified characters are found in the document.
 

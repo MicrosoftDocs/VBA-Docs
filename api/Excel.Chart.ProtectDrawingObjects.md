@@ -1,5 +1,5 @@
 ---
-title: Chart.ProtectDrawingObjects Property (Excel)
+title: Chart.ProtectDrawingObjects property (Excel)
 keywords: vbaxl10.chm148091
 f1_keywords:
 - vbaxl10.chm148091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ProtectDrawingObjects Property (Excel)
+# Chart.ProtectDrawingObjects property (Excel)
 
  **True** if shapes are protected. To turn on shape protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _DrawingObjects_ argument set to **True** . Read-only **Boolean** .
 

@@ -1,12 +1,12 @@
 ---
-title: Bookmarks Object (Word)
+title: Bookmarks object (Word)
 ms.prod: word
 ms.assetid: 827bed64-3034-0eb4-401d-f117cdb98898
 ms.date: 06/08/2017
 ---
 
 
-# Bookmarks Object (Word)
+# Bookmarks object (Word)
 
 A collection of  **[Bookmark](Word.Bookmark.md)** objects that represent the bookmarks in the specified selection, range, or document.
 

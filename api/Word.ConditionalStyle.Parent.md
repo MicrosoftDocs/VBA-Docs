@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.Parent Property (Word)
+title: ConditionalStyle.Parent property (Word)
 keywords: vbawd10.chm91029604
 f1_keywords:
 - vbawd10.chm91029604
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.Parent Property (Word)
+# ConditionalStyle.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ConditionalStyle** object.
 

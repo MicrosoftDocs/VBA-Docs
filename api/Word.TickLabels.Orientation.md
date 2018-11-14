@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Orientation Property (Word)
+title: TickLabels.Orientation property (Word)
 keywords: vbawd10.chm167051274
 f1_keywords:
 - vbawd10.chm167051274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Orientation Property (Word)
+# TickLabels.Orientation property (Word)
 
 Returns or sets the text orientation. Read/write  **Long** .
 
@@ -25,7 +25,7 @@ Returns or sets the text orientation. Read/write  **Long** .
 
 ## Remarks
 
-The value of this property can be an integer from -90 through 90 degrees or one of the  **[XlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
+The value of this property can be an integer from -90 through 90 degrees or one of the  **[xlTickLabelOrientation](Word.xlticklabelorientation.md)** constants.
 
 
 ## See also

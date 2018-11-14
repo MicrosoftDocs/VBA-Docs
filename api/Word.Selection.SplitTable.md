@@ -1,5 +1,5 @@
 ---
-title: Selection.SplitTable Method (Word)
+title: Selection.SplitTable method (Word)
 keywords: vbawd10.chm158663182
 f1_keywords:
 - vbawd10.chm158663182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SplitTable Method (Word)
+# Selection.SplitTable method (Word)
 
 Inserts an empty paragraph above the first row in the selection. .
 

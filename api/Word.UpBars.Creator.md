@@ -1,5 +1,5 @@
 ---
-title: UpBars.Creator Property (Word)
+title: UpBars.Creator property (Word)
 keywords: vbawd10.chm180945045
 f1_keywords:
 - vbawd10.chm180945045
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Creator Property (Word)
+# UpBars.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

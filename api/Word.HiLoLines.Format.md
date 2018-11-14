@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Format Property (Word)
+title: HiLoLines.Format property (Word)
 keywords: vbawd10.chm235995141
 f1_keywords:
 - vbawd10.chm235995141
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Format Property (Word)
+# HiLoLines.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

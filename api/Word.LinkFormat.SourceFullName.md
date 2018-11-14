@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SourceFullName Property (Word)
+title: LinkFormat.SourceFullName property (Word)
 keywords: vbawd10.chm154206229
 f1_keywords:
 - vbawd10.chm154206229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.SourceFullName Property (Word)
+# LinkFormat.SourceFullName property (Word)
 
 Returns or sets the path and name of the source file for the specified linked OLE object, picture, or field. Read/write  **String** .
 

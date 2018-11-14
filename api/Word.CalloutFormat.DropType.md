@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.DropType Property (Word)
+title: CalloutFormat.DropType property (Word)
 keywords: vbawd10.chm163905642
 f1_keywords:
 - vbawd10.chm163905642
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.DropType Property (Word)
+# CalloutFormat.DropType property (Word)
 
 Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **MsoCalloutDropType** .
 

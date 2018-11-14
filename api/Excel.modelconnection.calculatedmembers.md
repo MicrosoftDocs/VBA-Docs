@@ -1,12 +1,12 @@
 ---
-title: ModelConnection.CalculatedMembers Property (Excel)
+title: ModelConnection.CalculatedMembers property (Excel)
 ms.assetid: 2969824d-b7a2-fb88-1066-cf5d36d8e9bb
 ms.date: 06/08/2017
 ms.prod: excel
 ---
 
 
-# ModelConnection.CalculatedMembers Property (Excel)
+# ModelConnection.CalculatedMembers property (Excel)
 
 Returns a [CalculatedMembers](Excel.CalculatedMembers.md) object that represents the calculated members in the model connection.
 

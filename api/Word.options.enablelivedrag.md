@@ -1,5 +1,5 @@
 ---
-title: Options.EnableLiveDrag Property (Word)
+title: Options.EnableLiveDrag property (Word)
 keywords: vbawd10.chm162988540
 f1_keywords:
 - vbawd10.chm162988540
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableLiveDrag Property (Word)
+# Options.EnableLiveDrag property (Word)
 
 Returns or sets a  **Boolean** that is **True** if live drag is enabled. Read-write.
 

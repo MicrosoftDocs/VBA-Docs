@@ -1,5 +1,5 @@
 ---
-title: Range.ParentContentControl Property (Word)
+title: Range.ParentContentControl property (Word)
 keywords: vbawd10.chm157155829
 f1_keywords:
 - vbawd10.chm157155829
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ParentContentControl Property (Word)
+# Range.ParentContentControl property (Word)
 
 Returns a  **ContentControl** object that represents the parent content control for the specified range. Read-only.
 

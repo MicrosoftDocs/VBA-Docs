@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Format Property (Word)
+title: LegendKey.Format property (Word)
 keywords: vbawd10.chm266207265
 f1_keywords:
 - vbawd10.chm266207265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Format Property (Word)
+# LegendKey.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

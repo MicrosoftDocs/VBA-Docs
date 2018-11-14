@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlImportXml Method (Excel)
+title: Workbook.XmlImportXml method (Excel)
 keywords: vbaxl10.chm199231
 f1_keywords:
 - vbaxl10.chm199231
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.XmlImportXml Method (Excel)
+# Workbook.XmlImportXml method (Excel)
 
 Imports an XML data stream that has been previously loaded into memory. Excel uses the first qualifying map found or if the destination range is specified, Excel will automatically list the data.
 
@@ -43,7 +43,7 @@ Imports an XML data stream that has been previously loaded into memory. Excel us
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|

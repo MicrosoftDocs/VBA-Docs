@@ -1,5 +1,5 @@
 ---
-title: ValueChange.Creator Property (Excel)
+title: ValueChange.Creator property (Excel)
 keywords: vbaxl10.chm888074
 f1_keywords:
 - vbaxl10.chm888074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.Creator Property (Excel)
+# ValueChange.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

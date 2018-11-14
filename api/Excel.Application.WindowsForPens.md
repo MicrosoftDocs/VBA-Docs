@@ -1,5 +1,5 @@
 ---
-title: Application.WindowsForPens Property (Excel)
+title: Application.WindowsForPens property (Excel)
 keywords: vbaxl10.chm133233
 f1_keywords:
 - vbaxl10.chm133233
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.WindowsForPens Property (Excel)
+# Application.WindowsForPens property (Excel)
 
  **True** if the computer is running under Microsoft Windows for Pen Computing. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnit Property (Excel)
+title: Axis.DisplayUnit property (Excel)
 keywords: vbaxl10.chm561113
 f1_keywords:
 - vbaxl10.chm561113
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnit Property (Excel)
+# Axis.DisplayUnit property (Excel)
 
-Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit](Excel.XlDisplayUnit.md)** , **xlCustom** , or **xlNone** .
+Returns or sets the unit label for the value axis. Read/write  **[xlDisplayUnit](Excel.XlDisplayUnit.md)** , **xlCustom** , or **xlNone** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the unit label for the value axis. Read/write  **[XlDisplayUnit]
 
 
 
-| **XlDisplayUnit** can be one of these **XlDisplayUnit** constants.|
+| **xlDisplayUnit** can be one of these **xlDisplayUnit** constants.|
 | **xlHundredMillions**|
 | **xlHundredThousands**|
 | **xlMillions**|

@@ -1,5 +1,5 @@
 ---
-title: View.ShowPicturePlaceHolders Property (Word)
+title: View.ShowPicturePlaceHolders property (Word)
 keywords: vbawd10.chm161808405
 f1_keywords:
 - vbawd10.chm161808405
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowPicturePlaceHolders Property (Word)
+# View.ShowPicturePlaceHolders property (Word)
 
  **True** if blank boxes are displayed as placeholders for pictures. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderLineStyle Property (Word)
+title: Options.DefaultBorderLineStyle property (Word)
 keywords: vbawd10.chm162988307
 f1_keywords:
 - vbawd10.chm162988307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultBorderLineStyle Property (Word)
+# Options.DefaultBorderLineStyle property (Word)
 
 Returns or sets the default border line style. Read/write  **WdLineStyle** .
 

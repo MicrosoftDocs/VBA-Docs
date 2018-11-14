@@ -1,5 +1,5 @@
 ---
-title: Document Object (Word)
+title: Document object (Word)
 keywords: vbawd10.chm2411
 f1_keywords:
 - vbawd10.chm2411
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document Object (Word)
+# Document object (Word)
 
 Represents a document. The  **Document** object is a member of the **[Documents](https://msdn.microsoft.com/vba/word-vba/articles/documents-object-word)** collection. The **Documents** collection contains all the **Document** objects that are currently open in Word.
 

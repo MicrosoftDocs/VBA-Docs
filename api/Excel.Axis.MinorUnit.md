@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnit Property (Excel)
+title: Axis.MinorUnit property (Excel)
 keywords: vbaxl10.chm561094
 f1_keywords:
 - vbaxl10.chm561094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorUnit Property (Excel)
+# Axis.MinorUnit property (Excel)
 
 Returns or sets the minor units on the value axis. Read/write  **Double** .
 

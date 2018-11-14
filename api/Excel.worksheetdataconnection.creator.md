@@ -1,5 +1,5 @@
 ---
-title: WorksheetDataConnection.Creator Property (Excel)
+title: WorksheetDataConnection.Creator property (Excel)
 keywords: vbaxl10.chm923074
 f1_keywords:
 - vbaxl10.chm923074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetDataConnection.Creator Property (Excel)
+# WorksheetDataConnection.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [WorksheetDataConnection Object (Excel)](Excel.worksheetdataconnection.md) object.
+ _expression_ A variable that represents a [WorksheetDataConnection object (Excel)](Excel.worksheetdataconnection.md) object.
 
 
 ## Remarks

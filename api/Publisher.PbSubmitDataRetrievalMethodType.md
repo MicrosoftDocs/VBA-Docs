@@ -19,7 +19,7 @@ Represents the way data from a Web form is processed.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **pbSubmitDataRetrievalEmail**|2|Processes form data by sending an e-mail message to a specified e-mail address.|
+| **pbSubmitDataRetrievalEmail**|2|Processes form data by sending an email message to a specified email address.|
 | **pbSubmitDataRetrievalProgram**|3|Processes form data using a script program provided by your Internet service provider.|
 | **pbSubmitDataRetrievalSaveOnServer**|1|Saves form data to a file stored on your Web server.|
 

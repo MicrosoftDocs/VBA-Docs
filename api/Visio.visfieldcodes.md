@@ -15,7 +15,7 @@ Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFCodeAngle**|2|Angle.|
 | **visFCodeBackgroundName**|0|Background name.|

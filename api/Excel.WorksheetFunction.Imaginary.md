@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Imaginary Method (Excel)
+title: WorksheetFunction.Imaginary method (Excel)
 keywords: vbaxl10.chm137286
 f1_keywords:
 - vbaxl10.chm137286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Imaginary Method (Excel)
+# WorksheetFunction.Imaginary method (Excel)
 
 Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.
 

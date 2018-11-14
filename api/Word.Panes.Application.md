@@ -1,5 +1,5 @@
 ---
-title: Panes.Application Property (Word)
+title: Panes.Application property (Word)
 keywords: vbawd10.chm157221864
 f1_keywords:
 - vbawd10.chm157221864
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Panes.Application Property (Word)
+# Panes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

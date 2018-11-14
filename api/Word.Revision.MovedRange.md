@@ -1,5 +1,5 @@
 ---
-title: Revision.MovedRange Property (Word)
+title: Revision.MovedRange property (Word)
 keywords: vbawd10.chm159449098
 f1_keywords:
 - vbawd10.chm159449098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.MovedRange Property (Word)
+# Revision.MovedRange property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a range of text that was moved from one place to another in a document with tracked changes. Read-only.
 

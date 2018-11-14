@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CountBlank Method (Excel)
+title: WorksheetFunction.CountBlank method (Excel)
 keywords: vbaxl10.chm137243
 f1_keywords:
 - vbaxl10.chm137243
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CountBlank Method (Excel)
+# WorksheetFunction.CountBlank method (Excel)
 
 Counts empty cells in a specified range of cells.
 

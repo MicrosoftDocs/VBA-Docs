@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.TransparencyColor Property (Excel)
+title: PictureFormat.TransparencyColor property (Excel)
 keywords: vbaxl10.chm113009
 f1_keywords:
 - vbaxl10.chm113009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.TransparencyColor Property (Excel)
+# PictureFormat.TransparencyColor property (Excel)
 
 Returns or sets the transparent color for the specified picture as a red-green-blue (RGB) value. For this property to take effect, the  **[TransparentBackground](Excel.PictureFormat.TransparentBackground.md)** property must be set to **True** . Applies to bitmaps only. Read/write **Long** .
 

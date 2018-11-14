@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Parent Property (Word)
+title: CalloutFormat.Parent property (Word)
 keywords: vbawd10.chm163905537
 f1_keywords:
 - vbawd10.chm163905537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Parent Property (Word)
+# CalloutFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CalloutFormat** object.
 

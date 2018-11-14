@@ -1,5 +1,5 @@
 ---
-title: Application.Repeat Method (Word)
+title: Application.Repeat method (Word)
 keywords: vbawd10.chm158335281
 f1_keywords:
 - vbawd10.chm158335281
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Repeat Method (Word)
+# Application.Repeat method (Word)
 
 Repeats the most recent editing action one or more times. Returns  **True** if the commands were repeated successfully.
 

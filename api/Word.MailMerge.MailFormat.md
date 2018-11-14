@@ -1,5 +1,5 @@
 ---
-title: MailMerge.MailFormat Property (Word)
+title: MailMerge.MailFormat property (Word)
 keywords: vbawd10.chm153092108
 f1_keywords:
 - vbawd10.chm153092108
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.MailFormat Property (Word)
+# MailMerge.MailFormat property (Word)
 
-Returns a  **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an e-mail message. Read/write.
+Returns a  **WdMailMergeMailFormat** constant that represents the format to use when the mail merge destination is an email message. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ The  **MailFormat** property is ignored if the **MailAsAttachment** property is 
 
 ## Example
 
-This example merges the active document to an e-mail message and formats it using HTML.
+This example merges the active document to an email message and formats it using HTML.
 
 
 ```vb

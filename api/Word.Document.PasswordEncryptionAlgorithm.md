@@ -1,5 +1,5 @@
 ---
-title: Document.PasswordEncryptionAlgorithm Property (Word)
+title: Document.PasswordEncryptionAlgorithm property (Word)
 keywords: vbawd10.chm158007664
 f1_keywords:
 - vbawd10.chm158007664
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PasswordEncryptionAlgorithm Property (Word)
+# Document.PasswordEncryptionAlgorithm property (Word)
 
 Returns a  **String** indicating the algorithm Microsoft Word uses for encrypting documents with passwords. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Shadow Property (Word)
+title: ChartFormat.Shadow property (Word)
 keywords: vbawd10.chm203030533
 f1_keywords:
 - vbawd10.chm203030533
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Shadow Property (Word)
+# ChartFormat.Shadow property (Word)
 
 Returns shadow formatting properties for the chart element. Read-only  **[ShadowFormat](Word.ShadowFormat.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdSortOrder Enumeration (Word)
+title: WdSortOrder enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSortOrder
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSortOrder Enumeration (Word)
+# WdSortOrder enumeration (Word)
 
 Specifies the sort direction.
 

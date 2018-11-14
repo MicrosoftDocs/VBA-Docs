@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Parent Property (Excel)
+title: CustomProperties.Parent property (Excel)
 keywords: vbaxl10.chm679075
 f1_keywords:
 - vbaxl10.chm679075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Parent Property (Excel)
+# CustomProperties.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

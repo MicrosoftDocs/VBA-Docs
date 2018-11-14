@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Destination Property (Word)
+title: MailMerge.Destination property (Word)
 keywords: vbawd10.chm153092099
 f1_keywords:
 - vbawd10.chm153092099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.Destination Property (Word)
+# MailMerge.Destination property (Word)
 
 Returns or sets the destination of the mail merge results. Read/write  **WdMailMergeDestination** .
 

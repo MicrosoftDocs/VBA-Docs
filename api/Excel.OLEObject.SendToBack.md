@@ -1,5 +1,5 @@
 ---
-title: OLEObject.SendToBack Method (Excel)
+title: OLEObject.SendToBack method (Excel)
 keywords: vbaxl10.chm415091
 f1_keywords:
 - vbaxl10.chm415091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.SendToBack Method (Excel)
+# OLEObject.SendToBack method (Excel)
 
 Sends the object to the back of the z-order.
 

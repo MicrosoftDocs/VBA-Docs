@@ -19,7 +19,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 The **DDB** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_cost_**|Required. **Double** specifying initial cost of the asset.|
 |**_salvage_**|Required. **Double** specifying value of the asset at the end of its useful life.|

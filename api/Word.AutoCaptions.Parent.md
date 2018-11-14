@@ -1,5 +1,5 @@
 ---
-title: AutoCaptions.Parent Property (Word)
+title: AutoCaptions.Parent property (Word)
 keywords: vbawd10.chm158991338
 f1_keywords:
 - vbawd10.chm158991338
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaptions.Parent Property (Word)
+# AutoCaptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **AutoCaptions** collection.
 

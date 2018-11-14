@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Add Method (Word)
+title: SeriesCollection.Add method (Word)
 keywords: vbawd10.chm150405301
 f1_keywords:
 - vbawd10.chm150405301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Add Method (Word)
+# SeriesCollection.Add method (Word)
 
 Adds one or more new series to the collection.
 
@@ -30,7 +30,7 @@ Adds one or more new series to the collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data as a string representation of a range contained in the  **[Workbook](Word.ChartData.Workbook.md)** property of the **[ChartData](Word.ChartData.md)** object for the chart.|
-| _Rowcol_|Optional| **[XlRowCol](Word.xlrowcol.md)**|One of the enumeration values that specifies whether the new values are in the rows or columns of the specified range.|
+| _Rowcol_|Optional| **[xlRowCol](Word.xlrowcol.md)**|One of the enumeration values that specifies whether the new values are in the rows or columns of the specified range.|
 | _SeriesLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the data series. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Microsoft Word attempts to determine the location of the series name from the contents of the first row or column.|
 | _CategoryLabels_|Optional| **Variant**| **True** if the first row or column contains the name of the category labels. **False** if the first row or column contains the first data point of the series. If this argument is omitted, Word attempts to determine the location of the category label from the contents of the first row or column.|
 | _Replace_|Optional| **Variant**|If CategoryLabels is  **True** and Replace is **True** , the specified categories replace the categories that currently exist for the series. If Replace is **False** , the existing categories will not be replaced. The default is **False** .|

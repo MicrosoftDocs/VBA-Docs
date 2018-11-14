@@ -1,5 +1,5 @@
 ---
-title: Application.MouseAvailable Property (Excel)
+title: Application.MouseAvailable property (Excel)
 keywords: vbaxl10.chm133167
 f1_keywords:
 - vbaxl10.chm133167
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MouseAvailable Property (Excel)
+# Application.MouseAvailable property (Excel)
 
  **True** if a mouse is available. Read-only **Boolean** .
 

@@ -23,7 +23,7 @@ Links to a SharePoint tasks list.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SiteURL_|Optional|**String**|The URL of the SharePoint site.|
 | _TaskListName_|Optional|**String**|The name of the SharePoint task list.|

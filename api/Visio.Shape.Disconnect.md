@@ -45,7 +45,7 @@ Unglues the specified connector end points and offsets them the specified amount
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectorBeginPoint**|0|The begin point of the connector.|
 | **visConnectorEndPoint**|1|The end point of the connector.|

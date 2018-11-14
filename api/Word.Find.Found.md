@@ -1,5 +1,5 @@
 ---
-title: Find.Found Property (Word)
+title: Find.Found property (Word)
 keywords: vbawd10.chm162529292
 f1_keywords:
 - vbawd10.chm162529292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Found Property (Word)
+# Find.Found property (Word)
 
  **True** if the search produces a match. Read-only **Boolean** .
 

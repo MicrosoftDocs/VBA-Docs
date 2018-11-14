@@ -22,7 +22,7 @@ _object_. **Copy**_destination_ [, _overwrite_ ]
 The  **Copy** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _destination_|Required. Destination where the file or folder is to be copied. Wildcard characters are not allowed.|

@@ -1,5 +1,5 @@
 ---
-title: Chart.DepthPercent Property (Excel)
+title: Chart.DepthPercent property (Excel)
 keywords: vbaxl10.chm149099
 f1_keywords:
 - vbaxl10.chm149099
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.DepthPercent Property (Excel)
+# Chart.DepthPercent property (Excel)
 
 Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long** .
 

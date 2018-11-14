@@ -1,5 +1,5 @@
 ---
-title: Workbook.ExportAsFixedFormat Method (Excel)
+title: Workbook.ExportAsFixedFormat method (Excel)
 keywords: vbaxl10.chm199260
 f1_keywords:
 - vbaxl10.chm199260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ExportAsFixedFormat Method (Excel)
+# Workbook.ExportAsFixedFormat method (Excel)
 
 The  **ExportAsFixedFormat** method is used to publish a workbook to either the PDF or XPS format.
 
@@ -29,7 +29,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlFixedFormatType**|Can be either  **xlTypePDF** or **xlTypeXPS** .|
+| _Type_|Required| **xlFixedFormatType**|Can be either  **xlTypePDF** or **xlTypeXPS** .|
 | _Filename_|Optional| **Variant**|A string that indicates the name of the file to be saved. You can include a full path or Excel saves the file in the current folder.|
 | _Quality_|Optional| **Variant**|Can be set to either  **xlQualityStandard** or **xlQualityMinimum** .|
 | _IncludeDocProperties_|Optional| **Variant**|Set to  **True** to indicate that document properties should be included or set to **False** to indicate that they are omitted.|

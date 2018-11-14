@@ -1,5 +1,5 @@
 ---
-title: Speech Object (Excel)
+title: Speech object (Excel)
 keywords: vbaxl10.chm718072
 f1_keywords:
 - vbaxl10.chm718072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Speech Object (Excel)
+# Speech object (Excel)
 
 Contains methods and properties that pertain to speech.
 

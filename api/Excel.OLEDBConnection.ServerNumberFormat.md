@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.ServerNumberFormat Property (Excel)
+title: OLEDBConnection.ServerNumberFormat property (Excel)
 keywords: vbaxl10.chm794102
 f1_keywords:
 - vbaxl10.chm794102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.ServerNumberFormat Property (Excel)
+# OLEDBConnection.ServerNumberFormat property (Excel)
 
  **True** if the number format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
 

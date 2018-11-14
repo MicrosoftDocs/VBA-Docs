@@ -1,5 +1,5 @@
 ---
-title: Range.AddComment Method (Excel)
+title: Range.AddComment method (Excel)
 keywords: vbaxl10.chm144222
 f1_keywords:
 - vbaxl10.chm144222
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AddComment Method (Excel)
+# Range.AddComment method (Excel)
 
 Adds a comment to the range.
 

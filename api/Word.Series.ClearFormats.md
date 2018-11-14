@@ -1,5 +1,5 @@
 ---
-title: Series.ClearFormats Method (Word)
+title: Series.ClearFormats method (Word)
 keywords: vbawd10.chm123732080
 f1_keywords:
 - vbawd10.chm123732080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ClearFormats Method (Word)
+# Series.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

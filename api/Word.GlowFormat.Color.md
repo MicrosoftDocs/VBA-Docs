@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Color Property (Word)
+title: GlowFormat.Color property (Word)
 keywords: vbawd10.chm255852546
 f1_keywords:
 - vbawd10.chm255852546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Color Property (Word)
+# GlowFormat.Color property (Word)
 
 Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the color for a glow effect. Read-only.
 

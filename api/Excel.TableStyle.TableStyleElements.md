@@ -1,5 +1,5 @@
 ---
-title: TableStyle.TableStyleElements Property (Excel)
+title: TableStyle.TableStyleElements property (Excel)
 keywords: vbaxl10.chm839077
 f1_keywords:
 - vbaxl10.chm839077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.TableStyleElements Property (Excel)
+# TableStyle.TableStyleElements property (Excel)
 
 Returns the  **[TableStyleElements](Excel.TableStyleElements.md)** object. Read-only.
 

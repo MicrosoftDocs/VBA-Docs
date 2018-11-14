@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Value Property (Word)
+title: AutoCorrectEntry.Value property (Word)
 keywords: vbawd10.chm155648003
 f1_keywords:
 - vbawd10.chm155648003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.Value Property (Word)
+# AutoCorrectEntry.Value property (Word)
 
 Returns or sets the value of the AutoCorrect entry. Read/write  **String** .
 

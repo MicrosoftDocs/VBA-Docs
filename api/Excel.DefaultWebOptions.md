@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions Object (Excel)
+title: DefaultWebOptions object (Excel)
 keywords: vbaxl10.chm659072
 f1_keywords:
 - vbaxl10.chm659072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions Object (Excel)
+# DefaultWebOptions object (Excel)
 
 Contains global application-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page. You can return or set attributes either at the application (global) level or at the workbook level.
 

@@ -1,5 +1,5 @@
 ---
-title: Fields.Item Method (Word)
+title: Fields.Item method (Word)
 keywords: vbawd10.chm154140672
 f1_keywords:
 - vbawd10.chm154140672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Item Method (Word)
+# Fields.Item method (Word)
 
 Returns an individual  **Field** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Mode_Mult Method (Excel)
+title: WorksheetFunction.Mode_Mult method (Excel)
 keywords: vbaxl10.chm137368
 f1_keywords:
 - vbaxl10.chm137368
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Mode_Mult Method (Excel)
+# WorksheetFunction.Mode_Mult method (Excel)
 
 Returns a vertical array of the most frequently occurring, or repetitive, values in an array or range of data.
 

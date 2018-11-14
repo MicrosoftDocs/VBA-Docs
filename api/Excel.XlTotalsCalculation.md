@@ -1,5 +1,5 @@
 ---
-title: XlTotalsCalculation Enumeration (Excel)
+title: xlTotalsCalculation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTotalsCalculation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTotalsCalculation Enumeration (Excel)
+# xlTotalsCalculation enumeration (Excel)
 
 Specifies the type of calculation in the Totals row of a list column.
 

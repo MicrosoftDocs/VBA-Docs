@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Object Property (Excel)
+title: OLEFormat.Object property (Excel)
 keywords: vbaxl10.chm632074
 f1_keywords:
 - vbaxl10.chm632074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Object Property (Excel)
+# OLEFormat.Object property (Excel)
 
 Returns the OLE Automation object associated with this OLE object. Read-only  **Object** .
 

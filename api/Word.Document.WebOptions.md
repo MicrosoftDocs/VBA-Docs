@@ -1,5 +1,5 @@
 ---
-title: Document.WebOptions Property (Word)
+title: Document.WebOptions property (Word)
 keywords: vbawd10.chm158007626
 f1_keywords:
 - vbawd10.chm158007626
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.WebOptions Property (Word)
+# Document.WebOptions property (Word)
 
 Returns the  **[WebOptions](Word.WebOptions.md)** object, which contains document-level attributes used by Microsoft Word when you save a document as a Web page or open a Web page. Read-only.
 

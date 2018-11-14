@@ -1,5 +1,5 @@
 ---
-title: Range.Dependents Property (Excel)
+title: Range.Dependents property (Excel)
 keywords: vbaxl10.chm144116
 f1_keywords:
 - vbaxl10.chm144116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Dependents Property (Excel)
+# Range.Dependents property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range containing all the dependents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one dependent. Read-only **Range** object.
 

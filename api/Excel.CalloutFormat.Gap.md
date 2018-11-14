@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Gap Property (Excel)
+title: CalloutFormat.Gap property (Excel)
 keywords: vbaxl10.chm104013
 f1_keywords:
 - vbaxl10.chm104013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Gap Property (Excel)
+# CalloutFormat.Gap property (Excel)
 
 Returns or sets the horizontal distance (in points) between the end of the callout line and the text bounding box. Read/write  **Single** .
 

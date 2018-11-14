@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntry.StyleName Property (Word)
+title: AutoTextEntry.StyleName property (Word)
 keywords: vbawd10.chm154533891
 f1_keywords:
 - vbawd10.chm154533891
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntry.StyleName Property (Word)
+# AutoTextEntry.StyleName property (Word)
 
 Returns the name of the style applied to the specified AutoText entry. Read-only  **String** .
 

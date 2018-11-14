@@ -1,5 +1,5 @@
 ---
-title: Chart.AutoScaling Property (Excel)
+title: Chart.AutoScaling property (Excel)
 keywords: vbaxl10.chm149080
 f1_keywords:
 - vbaxl10.chm149080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.AutoScaling Property (Excel)
+# Chart.AutoScaling property (Excel)
 
  **True** if Microsoft Excel scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property must be **True** . Read/write **Boolean** .
 

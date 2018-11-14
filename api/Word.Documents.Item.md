@@ -1,5 +1,5 @@
 ---
-title: Documents.Item Method (Word)
+title: Documents.Item method (Word)
 keywords: vbawd10.chm158072832
 f1_keywords:
 - vbawd10.chm158072832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.Item Method (Word)
+# Documents.Item method (Word)
 
 Returns an individual  **Document** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Application Property (Word)
+title: Hyperlink.Application property (Word)
 keywords: vbawd10.chm161285096
 f1_keywords:
 - vbawd10.chm161285096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Application Property (Word)
+# Hyperlink.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

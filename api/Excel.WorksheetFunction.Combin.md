@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Combin Method (Excel)
+title: WorksheetFunction.Combin method (Excel)
 keywords: vbaxl10.chm137180
 f1_keywords:
 - vbaxl10.chm137180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Combin Method (Excel)
+# WorksheetFunction.Combin method (Excel)
 
 Returns the number of combinations for a given number of items. Use Combin to determine the total possible number of groups for a given number of items.
 

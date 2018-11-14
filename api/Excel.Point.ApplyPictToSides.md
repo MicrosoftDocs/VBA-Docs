@@ -1,5 +1,5 @@
 ---
-title: Point.ApplyPictToSides Property (Excel)
+title: Point.ApplyPictToSides property (Excel)
 keywords: vbaxl10.chm576094
 f1_keywords:
 - vbaxl10.chm576094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ApplyPictToSides Property (Excel)
+# Point.ApplyPictToSides property (Excel)
 
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean** .
 

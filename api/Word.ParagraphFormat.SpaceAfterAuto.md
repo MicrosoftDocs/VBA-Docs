@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.SpaceAfterAuto Property (Word)
+title: ParagraphFormat.SpaceAfterAuto property (Word)
 keywords: vbawd10.chm156434565
 f1_keywords:
 - vbawd10.chm156434565
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.SpaceAfterAuto Property (Word)
+# ParagraphFormat.SpaceAfterAuto property (Word)
 
  **True** if Microsoft Word automatically sets the amount of spacing after the specified paragraphs. Read/write **Long** .
 

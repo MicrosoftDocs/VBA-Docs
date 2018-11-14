@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.ObjectThemeColor Property (Word)
+title: ColorFormat.ObjectThemeColor property (Word)
 keywords: vbawd10.chm163971272
 f1_keywords:
 - vbawd10.chm163971272
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.ObjectThemeColor Property (Word)
+# ColorFormat.ObjectThemeColor property (Word)
 
  Returns or sets a **[WdThemeColorIndex](Word.WdThemeColorIndex.md)** constant that represents the theme color for a color format. Read/write.
 

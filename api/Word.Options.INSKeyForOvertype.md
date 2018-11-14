@@ -1,5 +1,5 @@
 ---
-title: Options.INSKeyForOvertype Property (Word)
+title: Options.INSKeyForOvertype property (Word)
 keywords: vbawd10.chm162988514
 f1_keywords:
 - vbawd10.chm162988514
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.INSKeyForOvertype Property (Word)
+# Options.INSKeyForOvertype property (Word)
 
  **True** if the INS key can be used for switching Overtype on and off. Read/write **Boolean** .
 

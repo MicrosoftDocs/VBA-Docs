@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzySpace Property (Word)
+title: Options.MatchFuzzySpace property (Word)
 keywords: vbawd10.chm162988358
 f1_keywords:
 - vbawd10.chm162988358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzySpace Property (Word)
+# Options.MatchFuzzySpace property (Word)
 
  **True** if Microsoft Word ignores the distinction between space markers used during a search. Read/write **Boolean** .
 

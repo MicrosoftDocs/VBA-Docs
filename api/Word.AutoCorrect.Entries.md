@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.Entries Property (Word)
+title: AutoCorrect.Entries property (Word)
 keywords: vbawd10.chm155779078
 f1_keywords:
 - vbawd10.chm155779078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.Entries Property (Word)
+# AutoCorrect.Entries property (Word)
 
 Returns an  **[AutoCorrectEntries](Word.autocorrectentries.md)** collection that represents the current list of AutoCorrect entries.
 

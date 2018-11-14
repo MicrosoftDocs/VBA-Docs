@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Application Property (Word)
+title: FillFormat.Application property (Word)
 keywords: vbawd10.chm164103144
 f1_keywords:
 - vbawd10.chm164103144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Application Property (Word)
+# FillFormat.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

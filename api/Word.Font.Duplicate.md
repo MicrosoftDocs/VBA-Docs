@@ -1,5 +1,5 @@
 ---
-title: Font.Duplicate Property (Word)
+title: Font.Duplicate property (Word)
 keywords: vbawd10.chm156368906
 f1_keywords:
 - vbawd10.chm156368906
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Duplicate Property (Word)
+# Font.Duplicate property (Word)
 
 Returns a copy of a **Font** object that represents the character formatting of the specified font.
 

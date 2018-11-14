@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Font Property (Word)
+title: TickLabels.Font property (Word)
 keywords: vbawd10.chm167051266
 f1_keywords:
 - vbawd10.chm167051266
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Font Property (Word)
+# TickLabels.Font property (Word)
 
 Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFont.md)** .
 

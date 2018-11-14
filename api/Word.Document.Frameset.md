@@ -1,5 +1,5 @@
 ---
-title: Document.Frameset Property (Word)
+title: Document.Frameset property (Word)
 keywords: vbawd10.chm158007623
 f1_keywords:
 - vbawd10.chm158007623
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Frameset Property (Word)
+# Document.Frameset property (Word)
 
 Returns a  **[Frameset](Word.Frameset.md)** object that represents an entire frames page or a single frame on a frames page. Read-only.
 

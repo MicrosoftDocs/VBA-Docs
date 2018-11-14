@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl.Item Method (Word)
+title: RepeatingSectionItemColl.Item method (Word)
 keywords: vbawd10.chm171114496
 f1_keywords:
 - vbawd10.chm171114496
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl.Item Method (Word)
+# RepeatingSectionItemColl.Item method (Word)
 
 Returns an individual repeating section item.
 
@@ -25,7 +25,7 @@ Returns an individual repeating section item.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Required|INT32|The index number of the item in the collection.|

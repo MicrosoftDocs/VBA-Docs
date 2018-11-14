@@ -1,5 +1,5 @@
 ---
-title: View.ShowAllHeadings Method (Word)
+title: View.ShowAllHeadings method (Word)
 keywords: vbawd10.chm161808487
 f1_keywords:
 - vbawd10.chm161808487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowAllHeadings Method (Word)
+# View.ShowAllHeadings method (Word)
 
 Switches between showing all text (headings and body text) and showing only headings.
 

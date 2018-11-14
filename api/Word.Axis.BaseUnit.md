@@ -1,5 +1,5 @@
 ---
-title: Axis.BaseUnit Property (Word)
+title: Axis.BaseUnit property (Word)
 keywords: vbawd10.chm113049657
 f1_keywords:
 - vbawd10.chm113049657
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.BaseUnit Property (Word)
+# Axis.BaseUnit property (Word)
 
-Returns or sets the base unit for the specified category axis. Read/write  **[XlTimeUnit](Word.xltimeunit.md)** .
+Returns or sets the base unit for the specified category axis. Read/write  **[xlTimeUnit](Word.xltimeunit.md)** .
 
 
 ## Syntax

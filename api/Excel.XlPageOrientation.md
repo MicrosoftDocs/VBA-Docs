@@ -1,5 +1,5 @@
 ---
-title: XlPageOrientation Enumeration (Excel)
+title: xlPageOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPageOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPageOrientation Enumeration (Excel)
+# xlPageOrientation enumeration (Excel)
 
 Specifies the page orientation when the worksheet is printed.
 

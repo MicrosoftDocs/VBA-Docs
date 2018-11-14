@@ -1,5 +1,5 @@
 ---
-title: ChartObject.TopLeftCell Property (Excel)
+title: ChartObject.TopLeftCell property (Excel)
 keywords: vbaxl10.chm494093
 f1_keywords:
 - vbaxl10.chm494093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.TopLeftCell Property (Excel)
+# ChartObject.TopLeftCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
 

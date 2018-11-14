@@ -1,5 +1,5 @@
 ---
-title: Email.CurrentEmailAuthor Property (Word)
+title: Email.CurrentEmailAuthor property (Word)
 keywords: vbawd10.chm165478505
 f1_keywords:
 - vbawd10.chm165478505
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Email.CurrentEmailAuthor Property (Word)
+# Email.CurrentEmailAuthor property (Word)
 
-Returns an  **[EmailAuthor](Word.EmailAuthor.md)** object that represents the author of the current e-mail message. Read-only.
+Returns an  **[EmailAuthor](Word.EmailAuthor.md)** object that represents the author of the current email message. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[EmailAuthor](Word.EmailAuthor.md)** object that represents the au
 
 ## Example
 
-This example returns the name of the style associated with the current e-mail author.
+This example returns the name of the style associated with the current email author.
 
 
 ```vb

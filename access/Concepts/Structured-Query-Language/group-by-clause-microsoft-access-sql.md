@@ -20,7 +20,7 @@ SELECT  _fieldlist_ FROM _table_ WHERE _criteria_ [GROUP BY _groupfieldlist_ ]
 
 A SELECT statement containing a GROUP BY clause has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _fieldlist_|The name of the field or fields to be retrieved along with any field-name aliases, SQL aggregate functions, selection predicates ([ALL, DISTINCT, DISTINCTROW, or TOP](all-distinct-distinctrow-top-predicates-microsoft-access-sql.md)), or other SELECT statement options.|
 | _table_|The name of the table from which records are retrieved. For more information, see the [FROM](from-clause-microsoft-access-sql.md) clause.|

@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.TwoInitialCapsAutoAdd Property (Word)
+title: AutoCorrect.TwoInitialCapsAutoAdd property (Word)
 keywords: vbawd10.chm155779082
 f1_keywords:
 - vbawd10.chm155779082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.TwoInitialCapsAutoAdd Property (Word)
+# AutoCorrect.TwoInitialCapsAutoAdd property (Word)
 
  **True** if Microsoft Word automatically adds words to the list of AutoCorrect Initial Caps exceptions. A word is added to this list if you delete and then retype the uppercase letter (following the initial uppercase letter) that Word changed to lowercase. Read/write **Boolean** .
 

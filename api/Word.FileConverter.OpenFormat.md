@@ -1,5 +1,5 @@
 ---
-title: FileConverter.OpenFormat Property (Word)
+title: FileConverter.OpenFormat property (Word)
 keywords: vbawd10.chm161021955
 f1_keywords:
 - vbawd10.chm161021955
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.OpenFormat Property (Word)
+# FileConverter.OpenFormat property (Word)
 
 Returns the file format of the specified file converter. Read-only  **Long** .
 

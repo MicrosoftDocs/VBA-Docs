@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Log Method (Excel)
+title: WorksheetFunction.Log method (Excel)
 keywords: vbaxl10.chm137124
 f1_keywords:
 - vbaxl10.chm137124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Log Method (Excel)
+# WorksheetFunction.Log method (Excel)
 
 Returns the logarithm of a number to the base you specify.
 

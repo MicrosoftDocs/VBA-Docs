@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Line Property (Word)
+title: ChartFormat.Line property (Word)
 keywords: vbawd10.chm203030530
 f1_keywords:
 - vbawd10.chm203030530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Line Property (Word)
+# ChartFormat.Line property (Word)
 
 Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](Word.LineFormat.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMessage.ReplyAll Method (Word)
+title: MailMessage.ReplyAll method (Word)
 keywords: vbawd10.chm163184983
 f1_keywords:
 - vbawd10.chm163184983
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.ReplyAll Method (Word)
+# MailMessage.ReplyAll method (Word)
 
-Opens a new e-mail message — with the sender's and all other recipients' addresses on the  **To** and **Cc** lines, as appropriate — for replying to the active message.
+Opens a new email message — with the sender's and all other recipients' addresses on the  **To** and **Cc** lines, as appropriate — for replying to the active message.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Opens a new e-mail message — with the sender's and all other recipients' addre
 
 ## Example
 
-This example opens a new e-mail message for replying to the active message.
+This example opens a new email message for replying to the active message.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: OMathBorderBox.Application Property (Word)
+title: OMathBorderBox.Application property (Word)
 keywords: vbawd10.chm116260964
 f1_keywords:
 - vbawd10.chm116260964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBorderBox.Application Property (Word)
+# OMathBorderBox.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -24,7 +24,7 @@ For the Controls collection _object_. **Move(** X, Y **)**
 The  **Move** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _Left_|Optional. [Single-precision value](../../Glossary/vbe-glossary.md#single-data-type), in points, indicating the horizontal coordinate for the left edge of the object.|

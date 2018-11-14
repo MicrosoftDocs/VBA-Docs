@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.Active Property (Word)
+title: LineNumbering.Active property (Word)
 keywords: vbawd10.chm158466152
 f1_keywords:
 - vbawd10.chm158466152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.Active Property (Word)
+# LineNumbering.Active property (Word)
 
  **True** if line numbering is active for the specified document, section, or sections. Read/write **Long** .
 

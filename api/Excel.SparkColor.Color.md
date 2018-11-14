@@ -1,5 +1,5 @@
 ---
-title: SparkColor.Color Property (Excel)
+title: SparkColor.Color property (Excel)
 keywords: vbaxl10.chm883074
 f1_keywords:
 - vbaxl10.chm883074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkColor.Color Property (Excel)
+# SparkColor.Color property (Excel)
 
 Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to set the color of the horizontal axis or the markers for points in a sparkline. Read-only
 

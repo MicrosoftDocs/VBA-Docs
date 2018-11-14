@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotArea Property (Word)
+title: Chart.PlotArea property (Word)
 keywords: vbawd10.chm79364154
 f1_keywords:
 - vbawd10.chm79364154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotArea Property (Word)
+# Chart.PlotArea property (Word)
 
 Returns the plot area of a chart. Read-only  **[PlotArea](Word.PlotArea.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.MailEnvelope Property (Excel)
+title: Worksheet.MailEnvelope property (Excel)
 keywords: vbaxl10.chm175150
 f1_keywords:
 - vbaxl10.chm175150
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.MailEnvelope Property (Excel)
+# Worksheet.MailEnvelope property (Excel)
 
-Rrepresents an e-mail header for a document.
+Rrepresents an email header for a document.
 
 
 ## Syntax

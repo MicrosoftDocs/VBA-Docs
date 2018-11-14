@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Paste Method (Excel)
+title: Worksheet.Paste method (Excel)
 keywords: vbaxl10.chm175115
 f1_keywords:
 - vbaxl10.chm175115
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Paste Method (Excel)
+# Worksheet.Paste method (Excel)
 
 Pastes the contents of the Clipboard onto the sheet.
 

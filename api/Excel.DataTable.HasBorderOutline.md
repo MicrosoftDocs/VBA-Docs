@@ -1,5 +1,5 @@
 ---
-title: DataTable.HasBorderOutline Property (Excel)
+title: DataTable.HasBorderOutline property (Excel)
 keywords: vbaxl10.chm626076
 f1_keywords:
 - vbaxl10.chm626076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.HasBorderOutline Property (Excel)
+# DataTable.HasBorderOutline property (Excel)
 
  **True** if the chart data table has outline borders. Read/write **Boolean** .
 

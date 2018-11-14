@@ -1,5 +1,5 @@
 ---
-title: View.ShowHighlight Property (Word)
+title: View.ShowHighlight property (Word)
 keywords: vbawd10.chm161808397
 f1_keywords:
 - vbawd10.chm161808397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowHighlight Property (Word)
+# View.ShowHighlight property (Word)
 
  **True** if highlight formatting is displayed and printed with a document. Read/write **Boolean** .
 

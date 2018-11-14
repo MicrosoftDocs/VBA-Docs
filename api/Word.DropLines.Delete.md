@@ -1,5 +1,5 @@
 ---
-title: DropLines.Delete Method (Word)
+title: DropLines.Delete method (Word)
 keywords: vbawd10.chm104988676
 f1_keywords:
 - vbawd10.chm104988676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Delete Method (Word)
+# DropLines.Delete method (Word)
 
 Deletes the object.
 

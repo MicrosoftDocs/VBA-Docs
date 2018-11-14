@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntries.Item Method (Word)
+title: OMathAutoCorrectEntries.Item method (Word)
 keywords: vbawd10.chm247988224
 f1_keywords:
 - vbawd10.chm247988224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrectEntries.Item Method (Word)
+# OMathAutoCorrectEntries.Item method (Word)
 
 Returns an  **OMathAutoCorrectEntry** object that represents the specified item in the collection.
 

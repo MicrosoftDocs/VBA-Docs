@@ -21,7 +21,7 @@ _object_. **BackStyle** [= _fmBackStyle_ ]
 The  **BackStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmBackStyle_|Optional. Specifies the control background.|
@@ -30,7 +30,7 @@ The  **BackStyle** property syntax has these parts:
 The settings for  _fmBackStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmBackStyleTransparent_|0|The background is transparent.|
 | _fmBackStyleOpaque_|1|The background is opaque (default).|

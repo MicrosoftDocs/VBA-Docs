@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SortUsingCustomLists Property (Excel)
+title: SlicerCache.SortUsingCustomLists property (Excel)
 keywords: vbaxl10.chm897087
 f1_keywords:
 - vbaxl10.chm897087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SortUsingCustomLists Property (Excel)
+# SlicerCache.SortUsingCustomLists property (Excel)
 
 Returns or sets whether items in the specified slicer cache will be sorted by the custom lists. Read/write
 

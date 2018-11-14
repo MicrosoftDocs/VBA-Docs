@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.WindowState Property (Excel)
+title: ProtectedViewWindow.WindowState property (Excel)
 keywords: vbaxl10.chm914083
 f1_keywords:
 - vbaxl10.chm914083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.WindowState Property (Excel)
+# ProtectedViewWindow.WindowState property (Excel)
 
 Returns or sets the state of the specified  **Protected View** window. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the state of the specified  **Protected View** window. Read/writ
 
 ## Return value
 
- **[XlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
+ **[xlProtectedViewWindowState](Excel.XlProtectedViewWindowState.md)**
 
 
 ## Example

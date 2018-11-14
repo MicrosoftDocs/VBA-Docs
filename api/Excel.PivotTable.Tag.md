@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Tag Property (Excel)
+title: PivotTable.Tag property (Excel)
 keywords: vbaxl10.chm235127
 f1_keywords:
 - vbaxl10.chm235127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Tag Property (Excel)
+# PivotTable.Tag property (Excel)
 
 Returns or sets a string saved with the PivotTable report. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray Object (Word)
+title: OMathEqArray object (Word)
 keywords: vbawd10.chm2657
 f1_keywords:
 - vbawd10.chm2657
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray Object (Word)
+# OMathEqArray object (Word)
 
 Represents a mathematical equation array object, consisting of one or more equations that can be vertically justified as a unit respect to surrounding text on the line.
 

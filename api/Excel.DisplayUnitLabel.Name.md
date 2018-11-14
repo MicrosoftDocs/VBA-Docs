@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Name Property (Excel)
+title: DisplayUnitLabel.Name property (Excel)
 keywords: vbaxl10.chm673073
 f1_keywords:
 - vbaxl10.chm673073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Name Property (Excel)
+# DisplayUnitLabel.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

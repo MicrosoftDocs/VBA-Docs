@@ -1,5 +1,5 @@
 ---
-title: HiLoLines Object (Word)
+title: HiLoLines object (Word)
 keywords: vbawd10.chm3601
 f1_keywords:
 - vbawd10.chm3601
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines Object (Word)
+# HiLoLines object (Word)
 
 Represents the high-low lines in a chart group.
 

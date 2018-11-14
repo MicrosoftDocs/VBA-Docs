@@ -1,5 +1,5 @@
 ---
-title: Shape.IncrementTop Method (Excel)
+title: Shape.IncrementTop method (Excel)
 keywords: vbaxl10.chm636080
 f1_keywords:
 - vbaxl10.chm636080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.IncrementTop Method (Excel)
+# Shape.IncrementTop method (Excel)
 
 Moves the specified shape vertically by the specified number of points.
 

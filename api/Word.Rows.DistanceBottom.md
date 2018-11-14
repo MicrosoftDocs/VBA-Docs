@@ -1,5 +1,5 @@
 ---
-title: Rows.DistanceBottom Property (Word)
+title: Rows.DistanceBottom property (Word)
 keywords: vbawd10.chm155975694
 f1_keywords:
 - vbawd10.chm155975694
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.DistanceBottom Property (Word)
+# Rows.DistanceBottom property (Word)
 
 Returns or sets the distance (in points) between the document text and the bottom edge of the specified table. Read/write  **Single** .
 

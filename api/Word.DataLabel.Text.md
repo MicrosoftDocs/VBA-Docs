@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Text Property (Word)
+title: DataLabel.Text property (Word)
 keywords: vbawd10.chm233898122
 f1_keywords:
 - vbawd10.chm233898122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Text Property (Word)
+# DataLabel.Text property (Word)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdFramesetNewFrameLocation Enumeration (Word)
+title: WdFramesetNewFrameLocation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFramesetNewFrameLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFramesetNewFrameLocation Enumeration (Word)
+# WdFramesetNewFrameLocation enumeration (Word)
 
 Specifies the position of a new frame in relation to an existing frame.
 

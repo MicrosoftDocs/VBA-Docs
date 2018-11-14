@@ -1,5 +1,5 @@
 ---
-title: PageSetup.ScaleWithDocHeaderFooter Property (Excel)
+title: PageSetup.ScaleWithDocHeaderFooter property (Excel)
 keywords: vbaxl10.chm473114
 f1_keywords:
 - vbaxl10.chm473114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.ScaleWithDocHeaderFooter Property (Excel)
+# PageSetup.ScaleWithDocHeaderFooter property (Excel)
 
 Returns or sets if the header and footer should be scaled with the document when the size of the document changes. Read/write  **Boolean** .
 

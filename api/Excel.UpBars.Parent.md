@@ -1,5 +1,5 @@
 ---
-title: UpBars.Parent Property (Excel)
+title: UpBars.Parent property (Excel)
 keywords: vbaxl10.chm608073
 f1_keywords:
 - vbaxl10.chm608073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars.Parent Property (Excel)
+# UpBars.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

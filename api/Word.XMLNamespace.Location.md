@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.Location Property (Word)
+title: XMLNamespace.Location property (Word)
 keywords: vbawd10.chm2293763
 f1_keywords:
 - vbawd10.chm2293763
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.Location Property (Word)
+# XMLNamespace.Location property (Word)
 
 Returns or sets a  **String** that represents the physical location of the namespace of an XML schema in the Schema Library. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.MoveEnd Method (Word)
+title: Selection.MoveEnd method (Word)
 keywords: vbawd10.chm158662767
 f1_keywords:
 - vbawd10.chm158662767
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.MoveEnd Method (Word)
+# Selection.MoveEnd method (Word)
 
 Moves the ending character position of a range or selection.
 

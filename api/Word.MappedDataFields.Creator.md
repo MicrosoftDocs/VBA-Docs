@@ -1,5 +1,5 @@
 ---
-title: MappedDataFields.Creator Property (Word)
+title: MappedDataFields.Creator property (Word)
 keywords: vbawd10.chm135529449
 f1_keywords:
 - vbawd10.chm135529449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataFields.Creator Property (Word)
+# MappedDataFields.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

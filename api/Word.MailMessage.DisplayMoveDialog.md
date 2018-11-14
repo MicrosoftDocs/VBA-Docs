@@ -1,5 +1,5 @@
 ---
-title: MailMessage.DisplayMoveDialog Method (Word)
+title: MailMessage.DisplayMoveDialog method (Word)
 keywords: vbawd10.chm163184976
 f1_keywords:
 - vbawd10.chm163184976
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.DisplayMoveDialog Method (Word)
+# MailMessage.DisplayMoveDialog method (Word)
 
-Displays the  **Move** dialog box, in which the user can specify a new location for the active e-mail message in an available message store.
+Displays the  **Move** dialog box, in which the user can specify a new location for the active email message in an available message store.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Displays the  **Move** dialog box, in which the user can specify a new location 
 
 ## Remarks
 
-This method is available only if you are using Word as your e-mail editor.
+This method is available only if you are using Word as your email editor.
 
 
 ## Example
 
-This example displays the  **Move** dialog box for the active e-mail message.
+This example displays the  **Move** dialog box for the active email message.
 
 
 ```vb

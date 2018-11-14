@@ -1,5 +1,5 @@
 ---
-title: Options.StrictFinalYaa Property (Word)
+title: Options.StrictFinalYaa property (Word)
 keywords: vbawd10.chm162988442
 f1_keywords:
 - vbawd10.chm162988442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.StrictFinalYaa Property (Word)
+# Options.StrictFinalYaa property (Word)
 
  **True** if the spelling checker uses spelling rules regarding Arabic words ending with the letter yaa. Read/write **Boolean** .
 

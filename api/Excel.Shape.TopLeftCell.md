@@ -1,5 +1,5 @@
 ---
-title: Shape.TopLeftCell Property (Excel)
+title: Shape.TopLeftCell property (Excel)
 keywords: vbaxl10.chm636122
 f1_keywords:
 - vbaxl10.chm636122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.TopLeftCell Property (Excel)
+# Shape.TopLeftCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the upper-left corner of the specified object. Read-only.
 

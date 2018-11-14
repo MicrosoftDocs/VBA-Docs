@@ -1,5 +1,5 @@
 ---
-title: PivotLine.PivotLineCellsFull Property (Excel)
+title: PivotLine.PivotLineCellsFull property (Excel)
 keywords: vbaxl10.chm764076
 f1_keywords:
 - vbaxl10.chm764076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine.PivotLineCellsFull Property (Excel)
+# PivotLine.PivotLineCellsFull property (Excel)
 
 Retrieves all of the  **PivotLine** cells including those that are hidden in compact form. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: SparkVerticalAxis.MinScaleType Property (Excel)
+title: SparkVerticalAxis.MinScaleType property (Excel)
 keywords: vbaxl10.chm881073
 f1_keywords:
 - vbaxl10.chm881073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkVerticalAxis.MinScaleType Property (Excel)
+# SparkVerticalAxis.MinScaleType property (Excel)
 
 Returns or sets how the minimum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets how the minimum value of the vertical axis of the sparkline is s
 
 ## Return value
 
- **[XlSparkScale](Excel.XlSparkScale.md)**
+ **[xlSparkScale](Excel.XlSparkScale.md)**
 
 
 ## See also

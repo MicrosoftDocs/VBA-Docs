@@ -1,5 +1,5 @@
 ---
-title: Mailer.Parent Property (Excel)
+title: Mailer.Parent property (Excel)
 keywords: vbaxl10.chm498075
 f1_keywords:
 - vbaxl10.chm498075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.Parent Property (Excel)
+# Mailer.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

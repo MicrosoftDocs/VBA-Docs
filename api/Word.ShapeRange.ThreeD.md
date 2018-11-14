@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ThreeD Property (Word)
+title: ShapeRange.ThreeD property (Word)
 keywords: vbawd10.chm162857082
 f1_keywords:
 - vbawd10.chm162857082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ThreeD Property (Word)
+# ShapeRange.ThreeD property (Word)
 
 Returns a  **ThreeDFormat** object that contains 3-D formatting properties for the specified range of shapes. Read-only.
 

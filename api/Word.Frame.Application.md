@@ -1,5 +1,5 @@
 ---
-title: Frame.Application Property (Word)
+title: Frame.Application property (Word)
 keywords: vbawd10.chm153748456
 f1_keywords:
 - vbawd10.chm153748456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.Application Property (Word)
+# Frame.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

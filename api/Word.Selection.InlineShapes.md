@@ -1,5 +1,5 @@
 ---
-title: Selection.InlineShapes Property (Word)
+title: Selection.InlineShapes property (Word)
 keywords: vbawd10.chm158663067
 f1_keywords:
 - vbawd10.chm158663067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InlineShapes Property (Word)
+# Selection.InlineShapes property (Word)
 
 Returns an  **[InlineShapes](Word.inlineshapes.md)** collection that represents all the **InlineShape** objects in a selection. Read-only.
 

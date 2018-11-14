@@ -1,5 +1,5 @@
 ---
-title: WdFindWrap Enumeration (Word)
+title: WdFindWrap enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFindWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFindWrap Enumeration (Word)
+# WdFindWrap enumeration (Word)
 
 Specifies wrap behavior if a selection or range is specified for a find operation and the search text isn't found in the selection or range.
 

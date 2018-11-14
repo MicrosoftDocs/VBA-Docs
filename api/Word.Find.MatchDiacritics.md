@@ -1,5 +1,5 @@
 ---
-title: Find.MatchDiacritics Property (Word)
+title: Find.MatchDiacritics property (Word)
 keywords: vbawd10.chm162529381
 f1_keywords:
 - vbawd10.chm162529381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchDiacritics Property (Word)
+# Find.MatchDiacritics property (Word)
 
  **True** if find operations match text with matching diacritics in a right-to-left language document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotLineCells.Full Property (Excel)
+title: PivotLineCells.Full property (Excel)
 keywords: vbaxl10.chm762077
 f1_keywords:
 - vbaxl10.chm762077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLineCells.Full Property (Excel)
+# PivotLineCells.Full property (Excel)
 
 When  **True**, all of the  **PivotLineCells** in the **PivotLine** (including those that are hidden in compact form) are retrieved. **Boolean** Read-only
 

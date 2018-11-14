@@ -1,5 +1,5 @@
 ---
-title: EndnoteOptions Object (Word)
+title: EndnoteOptions object (Word)
 ms.prod: word
 api_name:
 - Word.EndnoteOptions
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EndnoteOptions Object (Word)
+# EndnoteOptions object (Word)
 
 Represents the properties assigned to a range or selection of endnotes in a document.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.UserPicture Method (Word)
+title: FillFormat.UserPicture method (Word)
 keywords: vbawd10.chm164102161
 f1_keywords:
 - vbawd10.chm164102161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.UserPicture Method (Word)
+# FillFormat.UserPicture method (Word)
 
 Fills the specified shape with one large image. .
 

@@ -1,5 +1,5 @@
 ---
-title: ListRows Object (Excel)
+title: ListRows object (Excel)
 keywords: vbaxl10.chm739072
 f1_keywords:
 - vbaxl10.chm739072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRows Object (Excel)
+# ListRows object (Excel)
 
 A collection of all the  **[ListRow](Excel.ListRow.md)** objects in the specified **[ListObject](Excel.ListObject.md)** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.ClearOutline Method (Excel)
+title: Range.ClearOutline method (Excel)
 keywords: vbaxl10.chm144098
 f1_keywords:
 - vbaxl10.chm144098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ClearOutline Method (Excel)
+# Range.ClearOutline method (Excel)
 
 Clears the outline for the specified range.
 

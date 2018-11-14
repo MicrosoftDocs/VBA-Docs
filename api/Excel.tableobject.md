@@ -1,5 +1,5 @@
 ---
-title: TableObject Object (Excel)
+title: TableObject object (Excel)
 keywords: vbaxl10.chm915072
 f1_keywords:
 - vbaxl10.chm915072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableObject Object (Excel)
+# TableObject object (Excel)
 
 Represents a worksheet table built from data returned from a PowerPivot model.
 

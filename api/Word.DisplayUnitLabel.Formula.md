@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Formula Property (Word)
+title: DisplayUnitLabel.Formula property (Word)
 keywords: vbawd10.chm94568486
 f1_keywords:
 - vbawd10.chm94568486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Formula Property (Word)
+# DisplayUnitLabel.Formula property (Word)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 

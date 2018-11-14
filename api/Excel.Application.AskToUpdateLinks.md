@@ -1,5 +1,5 @@
 ---
-title: Application.AskToUpdateLinks Property (Excel)
+title: Application.AskToUpdateLinks property (Excel)
 keywords: vbaxl10.chm133079
 f1_keywords:
 - vbaxl10.chm133079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AskToUpdateLinks Property (Excel)
+# Application.AskToUpdateLinks property (Excel)
 
  **True** if Microsoft Excel asks the user to update links when opening files with links. **False** if links are automatically updated with no dialog box. Read/write **Boolean** .
 

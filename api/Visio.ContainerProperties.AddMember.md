@@ -43,7 +43,7 @@ The  _addOptions_ parameter value must be one of the following **VisMemberAddOpt
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMemberAddUseResizeSetting**|0|Defer to the setting of the  **[ContainerProperties.ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property.|
 | **visMemberAddExpandContainer**|1|Expand the container to fit the incoming shapes.|

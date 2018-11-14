@@ -1,5 +1,5 @@
 ---
-title: FillFormat Object (Excel)
+title: FillFormat object (Excel)
 keywords: vbaxl10.chm115000
 f1_keywords:
 - vbaxl10.chm115000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat Object (Excel)
+# FillFormat object (Excel)
 
 Represents fill formatting for a shape.
 

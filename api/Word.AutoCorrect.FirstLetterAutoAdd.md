@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.FirstLetterAutoAdd Property (Word)
+title: AutoCorrect.FirstLetterAutoAdd property (Word)
 keywords: vbawd10.chm155779080
 f1_keywords:
 - vbawd10.chm155779080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.FirstLetterAutoAdd Property (Word)
+# AutoCorrect.FirstLetterAutoAdd property (Word)
 
  **True** if Word automatically adds abbreviations to the list of AutoCorrect First Letter exceptions. Read/write **Boolean** .
 

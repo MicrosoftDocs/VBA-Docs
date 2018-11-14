@@ -1,5 +1,5 @@
 ---
-title: Options.UseLocalUserInfo Property (Word)
+title: Options.UseLocalUserInfo property (Word)
 keywords: vbawd10.chm162988547
 f1_keywords:
 - vbawd10.chm162988547
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseLocalUserInfo Property (Word)
+# Options.UseLocalUserInfo property (Word)
 
 ## Syntax
 

@@ -1,5 +1,5 @@
 ---
-title: WdDateLanguage Enumeration (Word)
+title: WdDateLanguage enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDateLanguage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDateLanguage Enumeration (Word)
+# WdDateLanguage enumeration (Word)
 
 Specifies the language format to apply to the current date, time, or both.
 

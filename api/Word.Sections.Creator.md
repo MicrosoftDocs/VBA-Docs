@@ -1,5 +1,5 @@
 ---
-title: Sections.Creator Property (Word)
+title: Sections.Creator property (Word)
 keywords: vbawd10.chm156894185
 f1_keywords:
 - vbawd10.chm156894185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.Creator Property (Word)
+# Sections.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

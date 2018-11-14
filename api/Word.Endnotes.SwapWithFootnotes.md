@@ -1,5 +1,5 @@
 ---
-title: Endnotes.SwapWithFootnotes Method (Word)
+title: Endnotes.SwapWithFootnotes method (Word)
 keywords: vbawd10.chm155254790
 f1_keywords:
 - vbawd10.chm155254790
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.SwapWithFootnotes Method (Word)
+# Endnotes.SwapWithFootnotes method (Word)
 
 Converts all endnotes in a document to footnotes and vice versa.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.Delete Method (Excel)
+title: Style.Delete method (Excel)
 keywords: vbaxl10.chm177076
 f1_keywords:
 - vbaxl10.chm177076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Delete Method (Excel)
+# Style.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: ListObject.Comment Property (Excel)
+title: ListObject.Comment property (Excel)
 keywords: vbaxl10.chm734106
 f1_keywords:
 - vbaxl10.chm734106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Comment Property (Excel)
+# ListObject.Comment property (Excel)
 
 Returns or sets the comment associated with the list object. Read/write  **String** .
 

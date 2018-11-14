@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayFormulas Property (Excel)
+title: Window.DisplayFormulas property (Excel)
 keywords: vbaxl10.chm356082
 f1_keywords:
 - vbaxl10.chm356082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayFormulas Property (Excel)
+# Window.DisplayFormulas property (Excel)
 
  **True** if the window is displaying formulas; **False** if the window is displaying values. Read/write **Boolean** .
 

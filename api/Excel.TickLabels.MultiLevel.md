@@ -1,5 +1,5 @@
 ---
-title: TickLabels.MultiLevel Property (Excel)
+title: TickLabels.MultiLevel property (Excel)
 keywords: vbaxl10.chm616087
 f1_keywords:
 - vbaxl10.chm616087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.MultiLevel Property (Excel)
+# TickLabels.MultiLevel property (Excel)
 
 Sets whether an axis is multilevel or not. Read/write  **Boolean** .
 

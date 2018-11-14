@@ -1,5 +1,5 @@
 ---
-title: Borders.ColorIndex Property (Excel)
+title: Borders.ColorIndex property (Excel)
 keywords: vbaxl10.chm181074
 f1_keywords:
 - vbaxl10.chm181074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.ColorIndex Property (Excel)
+# Borders.ColorIndex property (Excel)
 
 Returns or sets a  **Variant** value that represents the color of all four borders.
 
@@ -27,7 +27,7 @@ Returns or sets a  **Variant** value that represents the color of all four borde
 
 This property returns  **Null** if all four borders aren't the same color.
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Excel.XlColorIndex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Excel.XlColorIndex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

@@ -23,7 +23,7 @@ _object_. **BorderColor** [= _Long_ ]
 The  **BorderColor** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A value or constant that determines the border color of an object.|

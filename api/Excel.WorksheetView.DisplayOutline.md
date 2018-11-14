@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.DisplayOutline Property (Excel)
+title: WorksheetView.DisplayOutline property (Excel)
 keywords: vbaxl10.chm779076
 f1_keywords:
 - vbaxl10.chm779076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.DisplayOutline Property (Excel)
+# WorksheetView.DisplayOutline property (Excel)
 
  **True** if outline symbols are displayed. Read/write **Boolean** .
 

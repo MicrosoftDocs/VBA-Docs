@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Delete Method (Excel)
+title: UniqueValues.Delete method (Excel)
 keywords: vbaxl10.chm826084
 f1_keywords:
 - vbaxl10.chm826084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Delete Method (Excel)
+# UniqueValues.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

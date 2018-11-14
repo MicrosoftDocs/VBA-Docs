@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Name Property (Excel)
+title: RecentFile.Name property (Excel)
 keywords: vbaxl10.chm170073
 f1_keywords:
 - vbaxl10.chm170073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Name Property (Excel)
+# RecentFile.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

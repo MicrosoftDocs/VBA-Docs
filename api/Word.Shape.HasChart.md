@@ -1,5 +1,5 @@
 ---
-title: Shape.HasChart Property (Word)
+title: Shape.HasChart property (Word)
 keywords: vbawd10.chm161480852
 f1_keywords:
 - vbawd10.chm161480852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.HasChart Property (Word)
+# Shape.HasChart property (Word)
 
  **True** if the specified shape has a chart. Read-only.
 

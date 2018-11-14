@@ -1,5 +1,5 @@
 ---
-title: PivotField.Subtotals Property (Excel)
+title: PivotField.Subtotals property (Excel)
 keywords: vbaxl10.chm240094
 f1_keywords:
 - vbaxl10.chm240094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Subtotals Property (Excel)
+# PivotField.Subtotals property (Excel)
 
 Returns or sets subtotals displayed with the specified field. Valid only for nondata fields. Read/write  **Variant** .
 

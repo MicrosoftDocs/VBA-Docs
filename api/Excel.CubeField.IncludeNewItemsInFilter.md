@@ -1,5 +1,5 @@
 ---
-title: CubeField.IncludeNewItemsInFilter Property (Excel)
+title: CubeField.IncludeNewItemsInFilter property (Excel)
 keywords: vbaxl10.chm668095
 f1_keywords:
 - vbaxl10.chm668095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.IncludeNewItemsInFilter Property (Excel)
+# CubeField.IncludeNewItemsInFilter property (Excel)
 
 The  **IncludeNewItemsInFilter** property is used to track included/excluded items in OLAP PivotTables. Read/write.
 

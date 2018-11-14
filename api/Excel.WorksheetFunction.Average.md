@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Average Method (Excel)
+title: WorksheetFunction.Average method (Excel)
 keywords: vbaxl10.chm137078
 f1_keywords:
 - vbaxl10.chm137078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Average Method (Excel)
+# WorksheetFunction.Average method (Excel)
 
 Returns the average (arithmetic mean) of the arguments.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.CheckSpelling Method (Word)
+title: Document.CheckSpelling method (Word)
 keywords: vbawd10.chm158007428
 f1_keywords:
 - vbawd10.chm158007428
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CheckSpelling Method (Word)
+# Document.CheckSpelling method (Word)
 
 Begins a spelling check for the specified document or range. .
 

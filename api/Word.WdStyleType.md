@@ -1,5 +1,5 @@
 ---
-title: WdStyleType Enumeration (Word)
+title: WdStyleType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStyleType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStyleType Enumeration (Word)
+# WdStyleType enumeration (Word)
 
 Specifies the style type to apply.
 

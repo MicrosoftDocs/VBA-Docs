@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces.InstallManifest Method (Excel)
+title: XmlNamespaces.InstallManifest method (Excel)
 keywords: vbaxl10.chm746078
 f1_keywords:
 - vbaxl10.chm746078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces.InstallManifest Method (Excel)
+# XmlNamespaces.InstallManifest method (Excel)
 
 Installs the specified XML expansion pack on the user's computer, making an XML smart document solution available to one or more users.
 

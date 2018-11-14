@@ -1,5 +1,5 @@
 ---
-title: DataLabel.AutoText Property (Word)
+title: DataLabel.AutoText property (Word)
 keywords: vbawd10.chm233898119
 f1_keywords:
 - vbawd10.chm233898119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.AutoText Property (Word)
+# DataLabel.AutoText property (Word)
 
  **True** if the object automatically generates appropriate text based on context. Read/write **Boolean** .
 

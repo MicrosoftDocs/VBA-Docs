@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftHeaderPicture Property (Excel)
+title: PageSetup.LeftHeaderPicture property (Excel)
 keywords: vbaxl10.chm473108
 f1_keywords:
 - vbaxl10.chm473108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftHeaderPicture Property (Excel)
+# PageSetup.LeftHeaderPicture property (Excel)
 
 Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture for the left section of the header. Used to set attributes about the picture.
 

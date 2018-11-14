@@ -1,5 +1,5 @@
 ---
-title: Font Object (Excel)
+title: Font object (Excel)
 keywords: vbaxl10.chm558072
 f1_keywords:
 - vbaxl10.chm558072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font Object (Excel)
+# Font object (Excel)
 
 Contains the font attributes (font name, font size, color, and so on) for an object.
 

@@ -1,5 +1,5 @@
 ---
-title: TabStops.Before Method (Word)
+title: TabStops.Before method (Word)
 keywords: vbawd10.chm156565606
 f1_keywords:
 - vbawd10.chm156565606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Before Method (Word)
+# TabStops.Before method (Word)
 
 Returns the next  **TabStop** object to the left of Position.
 

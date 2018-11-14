@@ -1,5 +1,5 @@
 ---
-title: Slicers.Add Method (Excel)
+title: Slicers.Add method (Excel)
 keywords: vbaxl10.chm903077
 f1_keywords:
 - vbaxl10.chm903077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicers.Add Method (Excel)
+# Slicers.Add method (Excel)
 
 Creates a new slicer and returns a  **[Slicer](Excel.Slicer.md)** object.
 

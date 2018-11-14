@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.BinsUnderflowValue Property (Word)
+title: ChartGroup.BinsUnderflowValue property (Word)
 keywords: vbawd10.chm263457617
 f1_keywords:
 - vbawd10.chm263457617
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.BinsUnderflowValue Property (Word)
+# ChartGroup.BinsUnderflowValue property (Word)
 
 If an [BinsUnderflowEnabled](Word.chartgroup.binsunderflowenabled.md) is **True**, specifies the value below which an underflow bin is displayed. Read/write  **Double**.
 

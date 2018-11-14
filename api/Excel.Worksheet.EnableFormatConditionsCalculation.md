@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnableFormatConditionsCalculation Property (Excel)
+title: Worksheet.EnableFormatConditionsCalculation property (Excel)
 keywords: vbaxl10.chm175161
 f1_keywords:
 - vbaxl10.chm175161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnableFormatConditionsCalculation Property (Excel)
+# Worksheet.EnableFormatConditionsCalculation property (Excel)
 
 Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean** .
 

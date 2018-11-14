@@ -1,5 +1,5 @@
 ---
-title: FormField.Application Property (Word)
+title: FormField.Application property (Word)
 keywords: vbawd10.chm153617384
 f1_keywords:
 - vbawd10.chm153617384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Application Property (Word)
+# FormField.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.Caption Property (Excel)
+title: SlicerItem.Caption property (Excel)
 keywords: vbaxl10.chm907074
 f1_keywords:
 - vbaxl10.chm907074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.Caption Property (Excel)
+# SlicerItem.Caption property (Excel)
 
 Returns the label text for the slicer item. Read-only.
 

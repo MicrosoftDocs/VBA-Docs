@@ -1,5 +1,5 @@
 ---
-title: ListLevel.Alignment Property (Word)
+title: ListLevel.Alignment property (Word)
 keywords: vbawd10.chm160235526
 f1_keywords:
 - vbawd10.chm160235526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.Alignment Property (Word)
+# ListLevel.Alignment property (Word)
 
 Returns or sets a  **WdListLevelAlignment** constant that represents the alignment for the list level of the list template. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorTickMark Property (Word)
+title: Axis.MajorTickMark property (Word)
 keywords: vbawd10.chm113049618
 f1_keywords:
 - vbawd10.chm113049618
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorTickMark Property (Word)
+# Axis.MajorTickMark property (Word)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Word.xltickmark.md)** .
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](Word.xltickmark.md)** .
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
 ## Remarks
 
- **MajorTickMark** can be set to one of the following **XlTickMark** constants:
+ **MajorTickMark** can be set to one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**

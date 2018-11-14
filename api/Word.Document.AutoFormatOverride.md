@@ -1,5 +1,5 @@
 ---
-title: Document.AutoFormatOverride Property (Word)
+title: Document.AutoFormatOverride property (Word)
 keywords: vbawd10.chm158007768
 f1_keywords:
 - vbawd10.chm158007768
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AutoFormatOverride Property (Word)
+# Document.AutoFormatOverride property (Word)
 
 Returns or sets a  **Boolean** that represents whether automatic formatting options override formatting restrictions in a document where formatting restrictions are in effect.
 

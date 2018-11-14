@@ -1,5 +1,5 @@
 ---
-title: PivotTable.GetPivotData Method (Excel)
+title: PivotTable.GetPivotData method (Excel)
 keywords: vbaxl10.chm235139
 f1_keywords:
 - vbaxl10.chm235139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.GetPivotData Method (Excel)
+# PivotTable.GetPivotData method (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object with information about a data item in a PivotTable report.
 

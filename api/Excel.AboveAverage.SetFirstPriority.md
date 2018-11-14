@@ -1,5 +1,5 @@
 ---
-title: AboveAverage.SetFirstPriority Method (Excel)
+title: AboveAverage.SetFirstPriority method (Excel)
 keywords: vbaxl10.chm824082
 f1_keywords:
 - vbaxl10.chm824082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AboveAverage.SetFirstPriority Method (Excel)
+# AboveAverage.SetFirstPriority method (Excel)
 
 Sets the priority value for this conditional formatting rule to "1" so that it will be evaluated before all other rules on the worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Field Object (Word)
+title: Field object (Word)
 keywords: vbawd10.chm2351
 f1_keywords:
 - vbawd10.chm2351
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field Object (Word)
+# Field object (Word)
 
 Represents a field. The  **Field** object is a member of the **Fields** collection. The **[Fields](Word.fields.md)** collection represents the fields in a selection, range, or document.
 

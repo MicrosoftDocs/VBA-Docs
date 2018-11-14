@@ -1,5 +1,5 @@
 ---
-title: Subdocuments.Count Property (Word)
+title: Subdocuments.Count property (Word)
 keywords: vbawd10.chm159907841
 f1_keywords:
 - vbawd10.chm159907841
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocuments.Count Property (Word)
+# Subdocuments.Count property (Word)
 
 Returns a  **Long** that represents the number of subdocuments in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.IconLabel Property (Word)
+title: OLEFormat.IconLabel property (Word)
 keywords: vbawd10.chm154337290
 f1_keywords:
 - vbawd10.chm154337290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.IconLabel Property (Word)
+# OLEFormat.IconLabel property (Word)
 
 Returns or sets the text displayed below the icon for an OLE object. Read/write  **String** .
 

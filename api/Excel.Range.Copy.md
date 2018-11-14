@@ -1,5 +1,5 @@
 ---
-title: Range.Copy Method (Excel)
+title: Range.Copy method (Excel)
 keywords: vbaxl10.chm144104
 f1_keywords:
 - vbaxl10.chm144104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Copy Method (Excel)
+# Range.Copy method (Excel)
 
 Copies the range to the specified range or to the Clipboard.
 

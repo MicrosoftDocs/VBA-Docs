@@ -1,5 +1,5 @@
 ---
-title: XlPivotConditionScope Enumeration (Excel)
+title: xlPivotConditionScope enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotConditionScope
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotConditionScope Enumeration (Excel)
+# xlPivotConditionScope enumeration (Excel)
 
 This enumeration specifies the conditional formatting applied for filtering values from the  **PivotTable** object.
 

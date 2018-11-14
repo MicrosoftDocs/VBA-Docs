@@ -1,5 +1,5 @@
 ---
-title: Range.UnMerge Method (Excel)
+title: Range.UnMerge method (Excel)
 keywords: vbaxl10.chm144159
 f1_keywords:
 - vbaxl10.chm144159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.UnMerge Method (Excel)
+# Range.UnMerge method (Excel)
 
 Separates a merged area into individual cells.
 

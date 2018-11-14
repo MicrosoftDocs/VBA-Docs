@@ -1,5 +1,5 @@
 ---
-title: Application.ArbitraryXMLSupportAvailable Property (Word)
+title: Application.ArbitraryXMLSupportAvailable property (Word)
 keywords: vbawd10.chm158335441
 f1_keywords:
 - vbawd10.chm158335441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ArbitraryXMLSupportAvailable Property (Word)
+# Application.ArbitraryXMLSupportAvailable property (Word)
 
 Returns a  **Boolean** that represents whether Microsoft Word accepts custom XML schemas. **True** indicates that Word accepts custom XML schemas.
 

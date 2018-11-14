@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.Delete Method (Word)
+title: XMLMapping.Delete method (Word)
 keywords: vbawd10.chm199688196
 f1_keywords:
 - vbawd10.chm199688196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.Delete Method (Word)
+# XMLMapping.Delete method (Word)
 
 Deletes the XML mapping from the parent content control.
 

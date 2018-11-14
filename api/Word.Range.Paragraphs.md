@@ -1,5 +1,5 @@
 ---
-title: Range.Paragraphs Property (Word)
+title: Range.Paragraphs property (Word)
 keywords: vbawd10.chm157155387
 f1_keywords:
 - vbawd10.chm157155387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Paragraphs Property (Word)
+# Range.Paragraphs property (Word)
 
 Returns a  **Paragraphs** collection that represents all the paragraphs in the specified range. Read-only.
 

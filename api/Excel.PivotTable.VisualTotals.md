@@ -1,5 +1,5 @@
 ---
-title: PivotTable.VisualTotals Property (Excel)
+title: PivotTable.VisualTotals property (Excel)
 keywords: vbaxl10.chm235149
 f1_keywords:
 - vbaxl10.chm235149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.VisualTotals Property (Excel)
+# PivotTable.VisualTotals property (Excel)
 
  **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean** .
 

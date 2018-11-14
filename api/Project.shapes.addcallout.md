@@ -20,7 +20,7 @@ Creates a borderless line callout in a report. Returns a  **Shape** object that 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required|**MsoCalloutType**|The type of callout.|
 | _Left_|Required|**Single**|The position, in points, of the left edge of the bounding box for the callout.|

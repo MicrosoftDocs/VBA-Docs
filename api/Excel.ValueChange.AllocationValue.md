@@ -1,5 +1,5 @@
 ---
-title: ValueChange.AllocationValue Property (Excel)
+title: ValueChange.AllocationValue property (Excel)
 keywords: vbaxl10.chm889078
 f1_keywords:
 - vbaxl10.chm889078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.AllocationValue Property (Excel)
+# ValueChange.AllocationValue property (Excel)
 
 Returns what value to allocate when performing what-if analysis. Read-only
 
@@ -25,7 +25,7 @@ Returns what value to allocate when performing what-if analysis. Read-only
 
 ## Return value
 
- **[XlAllocationValue](Excel.XlAllocationValue.md)**
+ **[xlAllocationValue](Excel.XlAllocationValue.md)**
 
 
 ## Remarks

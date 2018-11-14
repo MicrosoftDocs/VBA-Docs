@@ -1,5 +1,5 @@
 ---
-title: SortField.Priority Property (Excel)
+title: SortField.Priority property (Excel)
 keywords: vbaxl10.chm843079
 f1_keywords:
 - vbaxl10.chm843079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.Priority Property (Excel)
+# SortField.Priority property (Excel)
 
 Specifies the priority for the sort field. Read/write.
 

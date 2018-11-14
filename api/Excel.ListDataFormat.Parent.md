@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.Parent Property (Excel)
+title: ListDataFormat.Parent property (Excel)
 keywords: vbaxl10.chm757075
 f1_keywords:
 - vbaxl10.chm757075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.Parent Property (Excel)
+# ListDataFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

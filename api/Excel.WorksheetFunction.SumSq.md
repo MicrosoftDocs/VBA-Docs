@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumSq Method (Excel)
+title: WorksheetFunction.SumSq method (Excel)
 keywords: vbaxl10.chm137225
 f1_keywords:
 - vbaxl10.chm137225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumSq Method (Excel)
+# WorksheetFunction.SumSq method (Excel)
 
 Returns the sum of the squares of the arguments.
 

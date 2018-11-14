@@ -1,5 +1,5 @@
 ---
-title: LetterContent.RecipientGender Property (Word)
+title: LetterContent.RecipientGender property (Word)
 keywords: vbawd10.chm161546367
 f1_keywords:
 - vbawd10.chm161546367
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.RecipientGender Property (Word)
+# LetterContent.RecipientGender property (Word)
 
 Returns or sets the recipient's gender, if known. Not used in the U.S. English version of Microsoft Word. Read/write  **WdSalutationGender** .
 

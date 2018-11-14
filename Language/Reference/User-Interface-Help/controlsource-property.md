@@ -23,7 +23,7 @@ _object_. **ControlSource** [= _String_ ]
 The  **ControlSource** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. Specifies the worksheet cell linked to the  **Value** property of a control.|

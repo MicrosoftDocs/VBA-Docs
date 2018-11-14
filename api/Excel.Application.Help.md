@@ -1,5 +1,5 @@
 ---
-title: Application.Help Method (Excel)
+title: Application.Help method (Excel)
 keywords: vbaxl10.chm133146
 f1_keywords:
 - vbaxl10.chm133146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Help Method (Excel)
+# Application.Help method (Excel)
 
 Displays a Help topic.
 

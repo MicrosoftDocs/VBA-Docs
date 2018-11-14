@@ -1,5 +1,5 @@
 ---
-title: Options.ConvertHighAnsiToFarEast Property (Word)
+title: Options.ConvertHighAnsiToFarEast property (Word)
 keywords: vbawd10.chm162988360
 f1_keywords:
 - vbawd10.chm162988360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ConvertHighAnsiToFarEast Property (Word)
+# Options.ConvertHighAnsiToFarEast property (Word)
 
  **True** if Microsoft Word converts text that is associated with an East Asian font to the appropriate font when it opens a document. Read/write **Boolean** .
 

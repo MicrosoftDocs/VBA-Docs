@@ -1,5 +1,5 @@
 ---
-title: XlOartHorizontalOverflow Enumeration (Excel)
+title: xlOartHorizontalOverflow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOartHorizontalOverflow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlOartHorizontalOverflow Enumeration (Excel)
+# xlOartHorizontalOverflow enumeration (Excel)
 
 Specifies the horizontal overflow setting for a text frame.
 

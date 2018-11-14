@@ -1,5 +1,5 @@
 ---
-title: Workbook.DisplayInkComments Property (Excel)
+title: Workbook.DisplayInkComments property (Excel)
 keywords: vbaxl10.chm199230
 f1_keywords:
 - vbaxl10.chm199230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.DisplayInkComments Property (Excel)
+# Workbook.DisplayInkComments property (Excel)
 
 A  **Boolean** value that determines whether ink comments are displayed in the workbook. Read/write **Boolean** .
 

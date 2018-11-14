@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient.RectangleBottom Property (Excel)
+title: RectangularGradient.RectangleBottom property (Excel)
 keywords: vbaxl10.chm857075
 f1_keywords:
 - vbaxl10.chm857075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient.RectangleBottom Property (Excel)
+# RectangularGradient.RectangleBottom property (Excel)
 
 Represents the point or vector that the gradient fill converges to. Read/write
 

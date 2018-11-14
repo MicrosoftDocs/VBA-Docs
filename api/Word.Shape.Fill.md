@@ -1,5 +1,5 @@
 ---
-title: Shape.Fill Property (Word)
+title: Shape.Fill property (Word)
 keywords: vbawd10.chm161480811
 f1_keywords:
 - vbawd10.chm161480811
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Fill Property (Word)
+# Shape.Fill property (Word)
 
 Returns a  **[FillFormat](Word.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
 

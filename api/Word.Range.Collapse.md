@@ -1,5 +1,5 @@
 ---
-title: Range.Collapse Method (Word)
+title: Range.Collapse method (Word)
 keywords: vbawd10.chm157155429
 f1_keywords:
 - vbawd10.chm157155429
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Collapse Method (Word)
+# Range.Collapse method (Word)
 
 Collapses a range or selection to the starting or ending position. After a range or selection is collapsed, the starting and ending points are equal.
 

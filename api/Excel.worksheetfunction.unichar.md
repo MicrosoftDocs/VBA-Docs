@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Unichar Method (Excel)
+title: WorksheetFunction.Unichar method (Excel)
 keywords: vbaxl10.chm137453
 f1_keywords:
 - vbaxl10.chm137453
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Unichar Method (Excel)
+# WorksheetFunction.Unichar method (Excel)
 
 Returns the Unicode character referenced by the given numeric value.
 
@@ -18,14 +18,14 @@ Returns the Unicode character referenced by the given numeric value.
 
  _expression_. `Unichar`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Unicode number representing a character.|
 

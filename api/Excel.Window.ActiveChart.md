@@ -1,5 +1,5 @@
 ---
-title: Window.ActiveChart Property (Excel)
+title: Window.ActiveChart property (Excel)
 keywords: vbaxl10.chm356077
 f1_keywords:
 - vbaxl10.chm356077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActiveChart Property (Excel)
+# Window.ActiveChart property (Excel)
 
 Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active chart (either an embedded chart or a chart sheet). An embedded chart is considered active when it's either selected or activated. When no chart is active, this property returns **Nothing** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotLine.LineType Property (Excel)
+title: PivotLine.LineType property (Excel)
 keywords: vbaxl10.chm764073
 f1_keywords:
 - vbaxl10.chm764073
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine.LineType Property (Excel)
+# PivotLine.LineType property (Excel)
 
-Returns an  **[XlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
+Returns an  **[xlPivotLineType](Excel.XlPivotLineType.md)** constant that indicates the type of PivotLine. Read-only.
 
 
 ## Syntax

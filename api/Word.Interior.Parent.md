@@ -1,5 +1,5 @@
 ---
-title: Interior.Parent Property (Word)
+title: Interior.Parent property (Word)
 keywords: vbawd10.chm2818198
 f1_keywords:
 - vbawd10.chm2818198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Parent Property (Word)
+# Interior.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

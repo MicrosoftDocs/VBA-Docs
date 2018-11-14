@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentSpacing Method (Word)
+title: Selection.SelectCurrentSpacing method (Word)
 keywords: vbawd10.chm158663175
 f1_keywords:
 - vbawd10.chm158663175
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentSpacing Method (Word)
+# Selection.SelectCurrentSpacing method (Word)
 
 Extends the selection forward until a paragraph with different line spacing is encountered.
 

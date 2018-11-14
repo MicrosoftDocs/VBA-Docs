@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.VLookup Method (Excel)
+title: WorksheetFunction.VLookup method (Excel)
 keywords: vbaxl10.chm137123
 f1_keywords:
 - vbaxl10.chm137123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.VLookup Method (Excel)
+# WorksheetFunction.VLookup method (Excel)
 
 Searches for a value in the first column of a table array and returns a value in the same row from another column in the table array. 
 

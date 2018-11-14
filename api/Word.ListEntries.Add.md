@@ -1,5 +1,5 @@
 ---
-title: ListEntries.Add Method (Word)
+title: ListEntries.Add method (Word)
 keywords: vbawd10.chm153354341
 f1_keywords:
 - vbawd10.chm153354341
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntries.Add Method (Word)
+# ListEntries.Add method (Word)
 
 Returns a  **ListEntry** object that represents an item added to a drop-down form field.
 

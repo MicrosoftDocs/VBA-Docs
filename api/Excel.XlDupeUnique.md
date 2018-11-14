@@ -1,5 +1,5 @@
 ---
-title: XlDupeUnique Enumeration (Excel)
+title: xlDupeUnique enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDupeUnique
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDupeUnique Enumeration (Excel)
+# xlDupeUnique enumeration (Excel)
 
 Specifies whether duplicate or unique values shoud be displayed.
 

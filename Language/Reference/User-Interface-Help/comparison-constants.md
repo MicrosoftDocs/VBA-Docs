@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) are defined i
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|

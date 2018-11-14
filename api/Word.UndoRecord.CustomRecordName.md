@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.CustomRecordName Property (Word)
+title: UndoRecord.CustomRecordName property (Word)
 keywords: vbawd10.chm56098820
 f1_keywords:
 - vbawd10.chm56098820
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.CustomRecordName Property (Word)
+# UndoRecord.CustomRecordName property (Word)
 
 Returns a  **String** that specifies the entry that appears on the undo stack when all custom undo actions have completed. Read-only.
 

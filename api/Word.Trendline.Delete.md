@@ -1,5 +1,5 @@
 ---
-title: Trendline.Delete Method (Word)
+title: Trendline.Delete method (Word)
 keywords: vbawd10.chm26345589
 f1_keywords:
 - vbawd10.chm26345589
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Delete Method (Word)
+# Trendline.Delete method (Word)
 
 Deletes the object.
 

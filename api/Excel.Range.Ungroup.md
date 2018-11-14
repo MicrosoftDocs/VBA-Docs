@@ -1,5 +1,5 @@
 ---
-title: Range.Ungroup Method (Excel)
+title: Range.Ungroup method (Excel)
 keywords: vbaxl10.chm144212
 f1_keywords:
 - vbaxl10.chm144212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Ungroup Method (Excel)
+# Range.Ungroup method (Excel)
 
 Promotes a range in an outline (that is, decreases its outline level). The specified range must be a row or column, or a range of rows or columns. If the range is in a PivotTable report, this method ungroups the items contained in the range.
 

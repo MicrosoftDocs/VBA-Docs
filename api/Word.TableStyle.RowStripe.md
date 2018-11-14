@@ -1,5 +1,5 @@
 ---
-title: TableStyle.RowStripe Property (Word)
+title: TableStyle.RowStripe property (Word)
 keywords: vbawd10.chm244776977
 f1_keywords:
 - vbawd10.chm244776977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.RowStripe Property (Word)
+# TableStyle.RowStripe property (Word)
 
 Returns or sets a  **Long** that represents the number of rows to include in the banding when a style specifies odd- or even-row banding. Read/write.
 

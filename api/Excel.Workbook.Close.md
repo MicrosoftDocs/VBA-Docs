@@ -1,5 +1,5 @@
 ---
-title: Workbook.Close Method (Excel)
+title: Workbook.Close method (Excel)
 keywords: vbaxl10.chm199085
 f1_keywords:
 - vbaxl10.chm199085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Close Method (Excel)
+# Workbook.Close method (Excel)
 
 Closes the object.
 

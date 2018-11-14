@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.ModelConnection Property (Excel)
+title: WorkbookConnection.ModelConnection property (Excel)
 keywords: vbaxl10.chm774082
 f1_keywords:
 - vbaxl10.chm774082
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.ModelConnection Property (Excel)
+# WorkbookConnection.ModelConnection property (Excel)
 
 Returns an object that contains information for the new Model Connection Type introduced in Excel 2013 to interact with the integrated Data Model. Read-only
 

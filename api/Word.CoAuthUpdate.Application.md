@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdate.Application Property (Word)
+title: CoAuthUpdate.Application property (Word)
 keywords: vbawd10.chm247792616
 f1_keywords:
 - vbawd10.chm247792616
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdate.Application Property (Word)
+# CoAuthUpdate.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Shadow Property (Excel)
+title: ShapeRange.Shadow property (Excel)
 keywords: vbaxl10.chm640114
 f1_keywords:
 - vbaxl10.chm640114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Shadow Property (Excel)
+# ShapeRange.Shadow property (Excel)
 
 Returns a read-only  **[ShadowFormat](Excel.ShadowFormat.md)** object that contains shadow formatting properties for the specified shape or shapes.
 

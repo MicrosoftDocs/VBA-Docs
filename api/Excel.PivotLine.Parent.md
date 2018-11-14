@@ -1,5 +1,5 @@
 ---
-title: PivotLine.Parent Property (Excel)
+title: PivotLine.Parent property (Excel)
 keywords: vbaxl10.chm763075
 f1_keywords:
 - vbaxl10.chm763075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine.Parent Property (Excel)
+# PivotLine.Parent property (Excel)
 
 Returns the parent object for the specified  **PivotLine** object. Read-only.
 

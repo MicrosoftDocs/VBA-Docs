@@ -1,5 +1,5 @@
 ---
-title: Selection.Comments Property (Word)
+title: Selection.Comments property (Word)
 keywords: vbawd10.chm158662712
 f1_keywords:
 - vbawd10.chm158662712
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Comments Property (Word)
+# Selection.Comments property (Word)
 
 Returns a  **[Comments](Word.comments.md)** collection that represents all the comments in the specified. Read-only.
 

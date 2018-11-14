@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.Parent Property (Word)
+title: XMLMapping.Parent property (Word)
 keywords: vbawd10.chm199689194
 f1_keywords:
 - vbawd10.chm199689194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.Parent Property (Word)
+# XMLMapping.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **XMLMapping** object.
 

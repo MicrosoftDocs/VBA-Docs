@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.MaxDrillthroughRecords Property (Excel)
+title: OLEDBConnection.MaxDrillthroughRecords property (Excel)
 keywords: vbaxl10.chm794095
 f1_keywords:
 - vbaxl10.chm794095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.MaxDrillthroughRecords Property (Excel)
+# OLEDBConnection.MaxDrillthroughRecords property (Excel)
 
 Returns or sets the maximum number of records to retrieve. Read/write  **Long** .
 

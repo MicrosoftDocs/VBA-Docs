@@ -1,5 +1,5 @@
 ---
-title: Column.Shading Property (Word)
+title: Column.Shading property (Word)
 keywords: vbawd10.chm156172390
 f1_keywords:
 - vbawd10.chm156172390
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Shading Property (Word)
+# Column.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified column.
 

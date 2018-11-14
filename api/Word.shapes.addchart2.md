@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddChart2 Method (Word)
+title: Shapes.AddChart2 method (Word)
 keywords: vbawd10.chm161415273
 f1_keywords:
 - vbawd10.chm161415273
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddChart2 Method (Word)
+# Shapes.AddChart2 method (Word)
 
 Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that represents a chart and adds it to the specified collection.
 
@@ -25,7 +25,7 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Style_|Optional|INT32|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|

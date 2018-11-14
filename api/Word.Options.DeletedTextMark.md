@@ -1,5 +1,5 @@
 ---
-title: Options.DeletedTextMark Property (Word)
+title: Options.DeletedTextMark property (Word)
 keywords: vbawd10.chm162988090
 f1_keywords:
 - vbawd10.chm162988090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DeletedTextMark Property (Word)
+# Options.DeletedTextMark property (Word)
 
 Returns or sets the format of text that is deleted while change tracking is enabled. Read/write  **WdDeletedTextMark** .
 

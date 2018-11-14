@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.IncludeCategoryHeader Property (Word)
+title: TableOfAuthorities.IncludeCategoryHeader property (Word)
 keywords: vbawd10.chm152109065
 f1_keywords:
 - vbawd10.chm152109065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.IncludeCategoryHeader Property (Word)
+# TableOfAuthorities.IncludeCategoryHeader property (Word)
 
  **True** if the category name for a group of entries appears in the table of authorities. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Revision.Parent Property (Word)
+title: Revision.Parent property (Word)
 keywords: vbawd10.chm159450090
 f1_keywords:
 - vbawd10.chm159450090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Parent Property (Word)
+# Revision.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Revision** object.
 

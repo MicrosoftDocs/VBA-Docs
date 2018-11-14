@@ -1,5 +1,5 @@
 ---
-title: Axis.TickLabelSpacing Property (Word)
+title: Axis.TickLabelSpacing property (Word)
 keywords: vbawd10.chm113049651
 f1_keywords:
 - vbawd10.chm113049651
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickLabelSpacing Property (Word)
+# Axis.TickLabelSpacing property (Word)
 
 Returns or sets the number of categories or series between tick-mark labels. Read/write  **Long** .
 

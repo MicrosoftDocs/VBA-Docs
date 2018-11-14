@@ -1,5 +1,5 @@
 ---
-title: Point.ClearFormats Method (Excel)
+title: Point.ClearFormats method (Excel)
 keywords: vbaxl10.chm576076
 f1_keywords:
 - vbaxl10.chm576076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ClearFormats Method (Excel)
+# Point.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Version.Delete Method (Word)
+title: Version.Delete method (Word)
 keywords: vbawd10.chm162791526
 f1_keywords:
 - vbawd10.chm162791526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version.Delete Method (Word)
+# Version.Delete method (Word)
 
 Deletes the specified version.
 

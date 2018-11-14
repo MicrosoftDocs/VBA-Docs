@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Text Property (Excel)
+title: DisplayUnitLabel.Text property (Excel)
 keywords: vbaxl10.chm673086
 f1_keywords:
 - vbaxl10.chm673086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Text Property (Excel)
+# DisplayUnitLabel.Text property (Excel)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

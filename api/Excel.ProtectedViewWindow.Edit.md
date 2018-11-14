@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Edit Method (Excel)
+title: ProtectedViewWindow.Edit method (Excel)
 keywords: vbaxl10.chm914087
 f1_keywords:
 - vbaxl10.chm914087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Edit Method (Excel)
+# ProtectedViewWindow.Edit method (Excel)
 
 Opens the workbook that is open in the specified  **Protected View** window for editing.
 

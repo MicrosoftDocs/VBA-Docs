@@ -1,5 +1,5 @@
 ---
-title: Selection.WordOpenXML Property (Word)
+title: Selection.WordOpenXML property (Word)
 keywords: vbawd10.chm158662973
 f1_keywords:
 - vbawd10.chm158662973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.WordOpenXML Property (Word)
+# Selection.WordOpenXML property (Word)
 
 Returns a  **String** that represents the XML contained within the selection in the Microsoft Word Open XML format. Read-only.
 

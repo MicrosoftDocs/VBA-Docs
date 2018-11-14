@@ -1,5 +1,5 @@
 ---
-title: Range.SortByHeadings Method (Word)
+title: Range.SortByHeadings method (Word)
 keywords: vbawd10.chm157155836
 f1_keywords:
 - vbawd10.chm157155836
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SortByHeadings Method (Word)
+# Range.SortByHeadings method (Word)
 
 Sorts the headings in the specified range.
 
@@ -25,7 +25,7 @@ Sorts the headings in the specified range.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _SortFieldType_|Optional|VARIANT|The sort field type to use. Can be one of the [WdSortFieldType](Word.WdSortFieldType.md) constants. The default value is **wdSortFieldAlphanumeric**. Depending on the language support (U.S. English, for example) that you have selected or installed, some of these constants may not be available to you.|

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.InGridDropZones Property (Excel)
+title: PivotTable.InGridDropZones property (Excel)
 keywords: vbaxl10.chm235169
 f1_keywords:
 - vbaxl10.chm235169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.InGridDropZones Property (Excel)
+# PivotTable.InGridDropZones property (Excel)
 
 This property is used to toggle in-grid drop zones for a  **PivotTable** object. In some cases, it also affects the layout of the PivotTable. Read/write **Boolean** .
 

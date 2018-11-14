@@ -1,5 +1,5 @@
 ---
-title: Comment.Next Method (Excel)
+title: Comment.Next method (Excel)
 keywords: vbaxl10.chm516078
 f1_keywords:
 - vbaxl10.chm516078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Next Method (Excel)
+# Comment.Next method (Excel)
 
 Returns a  **[Comment](Excel.Comment.md)** object that represents the next comment.
 

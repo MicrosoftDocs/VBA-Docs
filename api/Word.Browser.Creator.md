@@ -1,5 +1,5 @@
 ---
-title: Browser.Creator Property (Word)
+title: Browser.Creator property (Word)
 keywords: vbawd10.chm154010601
 f1_keywords:
 - vbawd10.chm154010601
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Browser.Creator Property (Word)
+# Browser.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

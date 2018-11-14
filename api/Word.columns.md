@@ -1,12 +1,12 @@
 ---
-title: Columns Object (Word)
+title: Columns object (Word)
 ms.prod: word
 ms.assetid: 7c2d1353-cbc4-a162-83a1-6cac1300266f
 ms.date: 06/08/2017
 ---
 
 
-# Columns Object (Word)
+# Columns object (Word)
 
 A collection of  **[Column](Word.Column.md)** objects that represent the columns in a table.
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UseFields Property (Word)
+title: TableOfFigures.UseFields property (Word)
 keywords: vbawd10.chm153157641
 f1_keywords:
 - vbawd10.chm153157641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.UseFields Property (Word)
+# TableOfFigures.UseFields property (Word)
 
  **True** if Table of Contents Entry (TC) fields are used to create a table of figures. Read/write **Boolean** .
 

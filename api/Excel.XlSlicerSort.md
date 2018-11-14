@@ -1,5 +1,5 @@
 ---
-title: XlSlicerSort Enumeration (Excel)
+title: xlSlicerSort enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSlicerSort
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSlicerSort Enumeration (Excel)
+# xlSlicerSort enumeration (Excel)
 
 Specifies whether items displayed in the slicer are sorted, and if they are sorted, whether they are sorted in ascending or descending order by item captions.
 

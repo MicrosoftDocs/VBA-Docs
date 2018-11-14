@@ -1,5 +1,5 @@
 ---
-title: PivotCell.PivotItem Property (Excel)
+title: PivotCell.PivotItem property (Excel)
 keywords: vbaxl10.chm692077
 f1_keywords:
 - vbaxl10.chm692077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.PivotItem Property (Excel)
+# PivotCell.PivotItem property (Excel)
 
 Returns a  **[PivotItem](Excel.PivotItem.md)** object that represents the PivotTable item containing the upper-left corner of the specified range.
 

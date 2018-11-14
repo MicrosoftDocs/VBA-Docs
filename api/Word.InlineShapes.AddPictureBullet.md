@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddPictureBullet Method (Word)
+title: InlineShapes.AddPictureBullet method (Word)
 keywords: vbawd10.chm162070634
 f1_keywords:
 - vbawd10.chm162070634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddPictureBullet Method (Word)
+# InlineShapes.AddPictureBullet method (Word)
 
 Adds a picture bullet based on an image file to the current document. Returns an  **[InlineShape](Word.InlineShape.md)** object.
 

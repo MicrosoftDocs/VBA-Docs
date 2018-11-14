@@ -1,5 +1,5 @@
 ---
-title: Comments Object (Excel)
+title: Comments object (Excel)
 keywords: vbaxl10.chm513072
 f1_keywords:
 - vbaxl10.chm513072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comments Object (Excel)
+# Comments object (Excel)
 
 A collection of cell comments.
 

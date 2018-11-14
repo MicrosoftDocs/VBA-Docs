@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddFormControl Method (Excel)
+title: Shapes.AddFormControl method (Excel)
 keywords: vbaxl10.chm638090
 f1_keywords:
 - vbaxl10.chm638090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddFormControl Method (Excel)
+# Shapes.AddFormControl method (Excel)
 
 Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object that represents the new control.
 
@@ -29,7 +29,7 @@ Creates a Microsoft Excel control. Returns a  **[Shape](Excel.Shape.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlFormControl](Excel.XlFormControl.md)**|The Microsoft Excel control type. You cannot create an edit box on a worksheet.|
+| _Type_|Required| **[xlFormControl](Excel.XlFormControl.md)**|The Microsoft Excel control type. You cannot create an edit box on a worksheet.|
 | _Left_|Required| **Long**|The initial coordinates of the new object (in points) relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
 | _Top_|Required| **Long**|The initial coordinates of the new object (in points) relative to the upper-left corner of cell A1 on a worksheet or to the upper-left corner of a chart.|
 | _Width_|Required| **Long**|The initial size of the new object, in points.|

@@ -1,5 +1,5 @@
 ---
-title: Find.MatchAllWordForms Property (Word)
+title: Find.MatchAllWordForms property (Word)
 keywords: vbawd10.chm162529293
 f1_keywords:
 - vbawd10.chm162529293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchAllWordForms Property (Word)
+# Find.MatchAllWordForms property (Word)
 
  **True** if all forms of the text to find are found by the find operation (for instance, if the text to find is "sit," "sat" and "sitting" are found as well). Read/write **Boolean** .
 

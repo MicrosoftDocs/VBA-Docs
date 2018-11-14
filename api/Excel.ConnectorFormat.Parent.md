@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.Parent Property (Excel)
+title: ConnectorFormat.Parent property (Excel)
 keywords: vbaxl10.chm645075
 f1_keywords:
 - vbaxl10.chm645075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.Parent Property (Excel)
+# ConnectorFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

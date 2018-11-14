@@ -1,5 +1,5 @@
 ---
-title: Replacement.Highlight Property (Word)
+title: Replacement.Highlight property (Word)
 keywords: vbawd10.chm162594833
 f1_keywords:
 - vbawd10.chm162594833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Highlight Property (Word)
+# Replacement.Highlight property (Word)
 
  **True** if highlight formatting is applied to the replacement text. Read/write **Long** .
 

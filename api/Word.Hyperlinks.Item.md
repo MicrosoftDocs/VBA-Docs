@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Item Method (Word)
+title: Hyperlinks.Item method (Word)
 keywords: vbawd10.chm161218560
 f1_keywords:
 - vbawd10.chm161218560
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Item Method (Word)
+# Hyperlinks.Item method (Word)
 
 Returns an individual  **Hyperlink** object in a collection.
 

@@ -15,7 +15,7 @@ Values passed to the  _Data_ argument of the **CreateSelection** method when the
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeSelBitmap**|16|A shape that is a bitmap.|
 | **visTypeSelGroup**|1|A shape that contains other shapes.|

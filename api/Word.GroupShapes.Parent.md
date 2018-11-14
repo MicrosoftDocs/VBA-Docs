@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Parent Property (Word)
+title: GroupShapes.Parent property (Word)
 keywords: vbawd10.chm162922497
 f1_keywords:
 - vbawd10.chm162922497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Parent Property (Word)
+# GroupShapes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **GroupShapes** object.
 

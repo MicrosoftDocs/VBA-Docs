@@ -1,5 +1,5 @@
 ---
-title: Application.International Property (Word)
+title: Application.International property (Word)
 keywords: vbawd10.chm158335022
 f1_keywords:
 - vbawd10.chm158335022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.International Property (Word)
+# Application.International property (Word)
 
 Returns information about the current country/region and international settings. Read-only  **Variant** .
 

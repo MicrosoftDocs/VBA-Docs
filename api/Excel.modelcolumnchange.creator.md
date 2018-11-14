@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChange.Creator Property (Excel)
+title: ModelColumnChange.Creator property (Excel)
 keywords: vbaxl10.chm965074
 f1_keywords:
 - vbaxl10.chm965074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChange.Creator Property (Excel)
+# ModelColumnChange.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) object.
+ _expression_ A variable that represents a [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object.
 
 
 ## Remarks

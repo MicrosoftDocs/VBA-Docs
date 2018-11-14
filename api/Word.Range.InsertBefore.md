@@ -1,5 +1,5 @@
 ---
-title: Range.InsertBefore Method (Word)
+title: Range.InsertBefore method (Word)
 keywords: vbawd10.chm157155430
 f1_keywords:
 - vbawd10.chm157155430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertBefore Method (Word)
+# Range.InsertBefore method (Word)
 
 Inserts the specified text before the specified range.
 

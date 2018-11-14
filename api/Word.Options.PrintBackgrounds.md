@@ -1,5 +1,5 @@
 ---
-title: Options.PrintBackgrounds Property (Word)
+title: Options.PrintBackgrounds property (Word)
 keywords: vbawd10.chm162988488
 f1_keywords:
 - vbawd10.chm162988488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintBackgrounds Property (Word)
+# Options.PrintBackgrounds property (Word)
 
 Returns a  **Boolean** that represents whether background colors and images are printed when a document is printed.
 

@@ -15,7 +15,7 @@ The [keyword](../Glossary/vbe-glossary.md#keyword) you selected can't be found i
 
 The keyword you want help on may be contained within an [object library](../Glossary/vbe-glossary.md#object-library) that is not referenced. Make sure references are set to the appropriate object libraries for all objects used in your code.
 
-The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you're looking for.
+The easiest way to get help on a specific keyword is to position the insertion point anywhere within the keyword and press F1. You don't have to select the keyword. In fact, if you select only a portion of the keyword, or more than a single word, Help won't find what you are looking for.
 
 The **Value** property topic is displayed when you press F1 with the insertion point between the "a" and the "l" in the **Value** keyword as shown in the following example.
 

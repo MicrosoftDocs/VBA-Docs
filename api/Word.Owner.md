@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Owner Property (Word)
+title: CoAuthLock.Owner property (Word)
 keywords: vbawd10.chm260046850
 f1_keywords:
 - vbawd10.chm260046850
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Owner Property (Word)
+# CoAuthLock.Owner property (Word)
 
 Returns the  **[CoAuthor](Word.CoAuthor.md)** that owns the specified lock. Read-only.
 

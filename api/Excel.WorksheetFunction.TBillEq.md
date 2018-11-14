@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TBillEq Method (Excel)
+title: WorksheetFunction.TBillEq method (Excel)
 keywords: vbaxl10.chm137315
 f1_keywords:
 - vbaxl10.chm137315
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.TBillEq Method (Excel)
+# WorksheetFunction.TBillEq method (Excel)
 
 Returns the bond-equivalent yield for a Treasury bill.
 

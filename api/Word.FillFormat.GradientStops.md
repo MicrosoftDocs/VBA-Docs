@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStops Property (Word)
+title: FillFormat.GradientStops property (Word)
 keywords: vbawd10.chm164102258
 f1_keywords:
 - vbawd10.chm164102258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientStops Property (Word)
+# FillFormat.GradientStops property (Word)
 
 Returns the [GradientStops](./Office.GradientStops.md) collection associated with the specified fill format. Read-only.
 

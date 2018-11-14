@@ -1,5 +1,5 @@
 ---
-title: ModelTableColumn.Name Property (Excel)
+title: ModelTableColumn.Name property (Excel)
 keywords: vbaxl10.chm930073
 f1_keywords:
 - vbaxl10.chm930073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableColumn.Name Property (Excel)
+# ModelTableColumn.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 
@@ -18,7 +18,7 @@ Returns a  **String** value that represents the name of the object.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object.
+ _expression_ A variable that represents a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object.
 
 
 ## Property value

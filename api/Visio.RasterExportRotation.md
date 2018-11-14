@@ -34,7 +34,7 @@ The value of the  **RasterExportRotation** property must be one of the following
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterNoRotation**|0|No rotation, the default.|
 | **visRasterRotateLeft**|1|Rotate left.|

@@ -1,5 +1,5 @@
 ---
-title: XlWindowView Enumeration (Excel)
+title: xlWindowView enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowView
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWindowView Enumeration (Excel)
+# xlWindowView enumeration (Excel)
 
 Specifies the view showing in the window.
 

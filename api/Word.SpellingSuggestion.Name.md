@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestion.Name Property (Word)
+title: SpellingSuggestion.Name property (Word)
 keywords: vbawd10.chm162201600
 f1_keywords:
 - vbawd10.chm162201600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestion.Name Property (Word)
+# SpellingSuggestion.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

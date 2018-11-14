@@ -1,5 +1,5 @@
 ---
-title: ErrorBars Object (Word)
+title: ErrorBars object (Word)
 keywords: vbawd10.chm1142
 f1_keywords:
 - vbawd10.chm1142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars Object (Word)
+# ErrorBars object (Word)
 
 Represents the error bars on a chart series.
 

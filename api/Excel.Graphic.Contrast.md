@@ -1,5 +1,5 @@
 ---
-title: Graphic.Contrast Property (Excel)
+title: Graphic.Contrast property (Excel)
 keywords: vbaxl10.chm694075
 f1_keywords:
 - vbaxl10.chm694075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Contrast Property (Excel)
+# Graphic.Contrast property (Excel)
 
 Returns or sets the contrast for the specified picture or OLE object. The value for this property must be a number from 0.0 (the least contrast) to 1.0 (the greatest contrast). Read/write  **Single** .
 

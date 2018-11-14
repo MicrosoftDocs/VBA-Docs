@@ -20,7 +20,7 @@ Declares [variables](../../Glossary/vbe-glossary.md#variable) and allocates stor
 The  **Dim** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**WithEvents**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) that specifies that _varname_ is an [object variable](../../Glossary/vbe-glossary.md#object-variable) used to respond to events triggered by an [ActiveX object](../../Glossary/vbe-glossary.md#activex-object).  **WithEvents** is valid only in [class modules](../../Glossary/vbe-glossary.md#class-module). You can declare as many individual variables as you like using  **WithEvents**, but you can't create[arrays](../../Glossary/vbe-glossary.md#array) with **WithEvents**. You can't use **New** with **WithEvents**.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|

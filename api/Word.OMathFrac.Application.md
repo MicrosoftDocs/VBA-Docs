@@ -1,5 +1,5 @@
 ---
-title: OMathFrac.Application Property (Word)
+title: OMathFrac.Application property (Word)
 ms.prod: word
 api_name:
 - Word.OMathFrac.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac.Application Property (Word)
+# OMathFrac.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

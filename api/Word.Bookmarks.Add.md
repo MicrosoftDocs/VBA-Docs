@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Add Method (Word)
+title: Bookmarks.Add method (Word)
 keywords: vbawd10.chm157745157
 f1_keywords:
 - vbawd10.chm157745157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.Add Method (Word)
+# Bookmarks.Add method (Word)
 
 Returns a  **Bookmark** object that represents a bookmark added to a range.
 

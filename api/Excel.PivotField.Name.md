@@ -1,5 +1,5 @@
 ---
-title: PivotField.Name Property (Excel)
+title: PivotField.Name property (Excel)
 keywords: vbaxl10.chm240085
 f1_keywords:
 - vbaxl10.chm240085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Name Property (Excel)
+# PivotField.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

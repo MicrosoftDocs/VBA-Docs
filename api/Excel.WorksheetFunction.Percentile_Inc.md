@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Percentile_Inc Method (Excel)
+title: WorksheetFunction.Percentile_Inc method (Excel)
 keywords: vbaxl10.chm137373
 f1_keywords:
 - vbaxl10.chm137373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Percentile_Inc Method (Excel)
+# WorksheetFunction.Percentile_Inc method (Excel)
 
 Returns the k-th percentile of values in a range. You can use this function to establish a threshold of acceptance. For example, you can examine candidates who score above the 90th percentile.
 

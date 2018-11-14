@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.RequireManualUpdate Property (Excel)
+title: SlicerCache.RequireManualUpdate property (Excel)
 keywords: vbaxl10.chm897096
 f1_keywords:
 - vbaxl10.chm897096
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.RequireManualUpdate Property (Excel)
+# SlicerCache.RequireManualUpdate property (Excel)
 
  **True** when manual updates of the slicer cache required. **Boolean** Read/Write
 

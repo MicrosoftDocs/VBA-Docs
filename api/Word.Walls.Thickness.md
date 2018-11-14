@@ -1,5 +1,5 @@
 ---
-title: Walls.Thickness Property (Word)
+title: Walls.Thickness property (Word)
 keywords: vbawd10.chm25168243
 f1_keywords:
 - vbawd10.chm25168243
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Walls.Thickness Property (Word)
+# Walls.Thickness property (Word)
 
 Returns or sets the thickness of the wall. Read/write  **Long** .
 

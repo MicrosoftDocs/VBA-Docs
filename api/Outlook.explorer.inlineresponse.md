@@ -23,7 +23,7 @@ Occurs when the user performs an action that causes an inline response to appear
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Object**|Represents the inline response item.|
 | _Item_|Required|OBJECT||

@@ -1,5 +1,5 @@
 ---
-title: Shape.WidthRelative Property (Word)
+title: Shape.WidthRelative property (Word)
 keywords: vbawd10.chm161480906
 f1_keywords:
 - vbawd10.chm161480906
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.WidthRelative Property (Word)
+# Shape.WidthRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative width of a shape. Read/write.
 

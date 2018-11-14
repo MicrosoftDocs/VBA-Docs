@@ -25,7 +25,7 @@ Returns a  **Boolean** that indicates **True** if the recipient has been validat
 
 ## Remarks
 
-If similar names exist for a recipient in an Address Book, you can resolve the recipient by specifying the recipient's full SMTP e-mail address.
+If similar names exist for a recipient in an Address Book, you can resolve the recipient by specifying the recipient's full SMTP email address.
 
 
 ## Example

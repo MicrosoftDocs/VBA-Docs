@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Color Property (Word)
+title: ContentControl.Color property (Word)
 keywords: vbawd10.chm266534943
 f1_keywords:
 - vbawd10.chm266534943
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Color Property (Word)
+# ContentControl.Color property (Word)
 
 Returns or sets the color of the content control. Read/write [WdColor](Word.contentcontrol.color.md).
 

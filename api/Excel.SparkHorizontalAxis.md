@@ -1,5 +1,5 @@
 ---
-title: SparkHorizontalAxis Object (Excel)
+title: SparkHorizontalAxis object (Excel)
 keywords: vbaxl10.chm878072
 f1_keywords:
 - vbaxl10.chm878072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkHorizontalAxis Object (Excel)
+# SparkHorizontalAxis object (Excel)
 
 Represents the settings for the horizontal axes of a group of sparklines.
 

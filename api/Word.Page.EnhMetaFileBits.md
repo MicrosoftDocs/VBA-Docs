@@ -1,5 +1,5 @@
 ---
-title: Page.EnhMetaFileBits Property (Word)
+title: Page.EnhMetaFileBits property (Word)
 keywords: vbawd10.chm11075592
 f1_keywords:
 - vbawd10.chm11075592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.EnhMetaFileBits Property (Word)
+# Page.EnhMetaFileBits property (Word)
 
 Returns a  **Variant** that represents a picture representation of how a page of text appears. Read-only.
 

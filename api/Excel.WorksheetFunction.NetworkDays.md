@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.NetworkDays Method (Excel)
+title: WorksheetFunction.NetworkDays method (Excel)
 keywords: vbaxl10.chm137348
 f1_keywords:
 - vbaxl10.chm137348
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.NetworkDays Method (Excel)
+# WorksheetFunction.NetworkDays method (Excel)
 
 Returns the number of whole working days between start_date and end_date. Working days exclude weekends and any dates identified in holidays. Use NETWORKDAYS to calculate employee benefits that accrue based on the number of days worked during a specific term.
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Columns Property (Excel)
+title: Worksheet.Columns property (Excel)
 keywords: vbaxl10.chm175086
 f1_keywords:
 - vbaxl10.chm175086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Columns Property (Excel)
+# Worksheet.Columns property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the columns on the specified worksheet.
 

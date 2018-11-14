@@ -1,5 +1,5 @@
 ---
-title: View.Zoom Property (Word)
+title: View.Zoom property (Word)
 keywords: vbawd10.chm161808394
 f1_keywords:
 - vbawd10.chm161808394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Zoom Property (Word)
+# View.Zoom property (Word)
 
 Returns a  **[Zoom](Word.Zoom.md)** object that represents the magnification for the specified view.
 

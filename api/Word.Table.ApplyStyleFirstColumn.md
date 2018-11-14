@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleFirstColumn Property (Word)
+title: Table.ApplyStyleFirstColumn property (Word)
 keywords: vbawd10.chm156303564
 f1_keywords:
 - vbawd10.chm156303564
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleFirstColumn Property (Word)
+# Table.ApplyStyleFirstColumn property (Word)
 
  **True** for Microsoft Word to apply first-column formatting to the first column of the specified table. Read/write **Boolean** .
 

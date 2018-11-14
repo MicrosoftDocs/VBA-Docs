@@ -38,7 +38,7 @@ Nothing
 
 The _resolution_ parameter must be one of the following **VisRasterExportResolution** constants.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**visRasterUseScreenResolution**|0|Use screen resolution.|
 |**visRasterUsePrinterResolution**|1|Use printer resolution.|
@@ -53,7 +53,7 @@ If _resolution_ is **visRasterUseCustomResolution**, **SetRasterExportResolution
 
 The _resolutionUnits_ parameter must be one of the following **VisRasterExportResolutionUnits** constants.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**visRasterPixelsPerInch**|0|Pixels per inch.|
 |**visRasterPixelsPerCm**|1|Pixels per centimeter.|

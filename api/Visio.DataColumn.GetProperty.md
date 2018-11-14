@@ -52,7 +52,7 @@ Possible values for the Property parameter are declared in  **VisDataColumnPrope
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
 | **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|

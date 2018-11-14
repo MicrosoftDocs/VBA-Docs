@@ -1,5 +1,5 @@
 ---
-title: Floor.Format Property (Excel)
+title: Floor.Format property (Excel)
 keywords: vbaxl10.chm612083
 f1_keywords:
 - vbaxl10.chm612083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Format Property (Excel)
+# Floor.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

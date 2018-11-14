@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddTextEffect Method (Excel)
+title: Shapes.AddTextEffect method (Excel)
 keywords: vbaxl10.chm638085
 f1_keywords:
 - vbaxl10.chm638085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddTextEffect Method (Excel)
+# Shapes.AddTextEffect method (Excel)
 
 Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that represents the new WordArt object.
 

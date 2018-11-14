@@ -1,5 +1,5 @@
 ---
-title: Application.EnableLivePreview Property (Excel)
+title: Application.EnableLivePreview property (Excel)
 keywords: vbaxl10.chm133302
 f1_keywords:
 - vbaxl10.chm133302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableLivePreview Property (Excel)
+# Application.EnableLivePreview property (Excel)
 
 Sets or returns a  **Boolean** that represents whether to show or hide gallery previews that appear when using galleries that support previewing. Setting this property to **True** shows a preview of your workbook before applying the command. Read/write **Boolean** .
 

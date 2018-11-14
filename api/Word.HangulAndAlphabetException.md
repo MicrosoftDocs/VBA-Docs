@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException Object (Word)
+title: HangulAndAlphabetException object (Word)
 keywords: vbawd10.chm2514
 f1_keywords:
 - vbawd10.chm2514
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetException Object (Word)
+# HangulAndAlphabetException object (Word)
 
 Represents a single Hangul or alphabet AutoCorrect exception. The  **HangulAndAlphabetException** object is a member of the **HangulAndAlphabetExceptions** collection.
 

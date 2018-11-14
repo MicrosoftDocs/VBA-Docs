@@ -1,5 +1,5 @@
 ---
-title: Application.ShowClipboard Method (Word)
+title: Application.ShowClipboard method (Word)
 keywords: vbawd10.chm158335325
 f1_keywords:
 - vbawd10.chm158335325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowClipboard Method (Word)
+# Application.ShowClipboard method (Word)
 
 Displays the  **Clipboard** task pane.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.Count Property (Word)
+title: Characters.Count property (Word)
 keywords: vbawd10.chm157089794
 f1_keywords:
 - vbawd10.chm157089794
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.Count Property (Word)
+# Characters.Count property (Word)
 
 Returns the number of characters in the  **Characters** collection. Read-only **Long** .
 

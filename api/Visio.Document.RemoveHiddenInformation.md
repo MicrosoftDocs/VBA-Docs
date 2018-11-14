@@ -42,7 +42,7 @@ For the  _VisRemoveHiddenInfoItems_ parameter, pass a combination of one or more
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRHIPersonalInfo**|1|Removes personal information.|
 | **visRHIDataRecordsets**|16|Removes data recordsets.|

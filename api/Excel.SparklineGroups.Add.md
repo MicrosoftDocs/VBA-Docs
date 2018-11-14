@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Add Method (Excel)
+title: SparklineGroups.Add method (Excel)
 keywords: vbaxl10.chm869073
 f1_keywords:
 - vbaxl10.chm869073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Add Method (Excel)
+# SparklineGroups.Add method (Excel)
 
 Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
@@ -29,7 +29,7 @@ Creates a new sparkline group and returns a  **[SparklineGroup](Excel.SparklineG
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **XlSparkType**|The type of sparkline.|
+| _Type_|Required| **xlSparkType**|The type of sparkline.|
 | _SourceData_|Required| **String**|Represents the range to use to create the sparkline.|
 
 ## Return value

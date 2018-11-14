@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Format Property (Word)
+title: Paragraphs.Format property (Word)
 keywords: vbawd10.chm156763214
 f1_keywords:
 - vbawd10.chm156763214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Format Property (Word)
+# Paragraphs.Format property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the formatting of the specified paragraph or paragraphs.
 

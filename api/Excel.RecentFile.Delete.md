@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Delete Method (Excel)
+title: RecentFile.Delete method (Excel)
 keywords: vbaxl10.chm170077
 f1_keywords:
 - vbaxl10.chm170077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Delete Method (Excel)
+# RecentFile.Delete method (Excel)
 
 Deletes the object.
 

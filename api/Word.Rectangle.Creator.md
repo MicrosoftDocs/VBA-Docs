@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Creator Property (Word)
+title: Rectangle.Creator property (Word)
 keywords: vbawd10.chm234030057
 f1_keywords:
 - vbawd10.chm234030057
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Creator Property (Word)
+# Rectangle.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

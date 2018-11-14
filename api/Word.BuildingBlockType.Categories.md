@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType.Categories Property (Word)
+title: BuildingBlockType.Categories property (Word)
 keywords: vbawd10.chm167378964
 f1_keywords:
 - vbawd10.chm167378964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockType.Categories Property (Word)
+# BuildingBlockType.Categories property (Word)
 
 Returns a  **Categories** collection that represents the categories for a building block type. Read-only.
 

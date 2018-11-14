@@ -31,7 +31,7 @@ Occurs after an existing XML data connection is refreshed or after new XML data 
 |:-----|:-----|:-----|:-----|
 | _Map_|Required| **[XmlMap](Excel.XmlMap.md)**|The XML map that will be used to import data.|
 | _IsRefresh_|Required| **Boolean**| **True** if the event was triggered by refreshing an existing connection to XML data; **False** if the event was triggered by importing from a different data source.|
-| _Result_|Required| **[XlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
+| _Result_|Required| **[xlXmlImportResult](Excel.XlXmlImportResult.md)**|Indicates the results of the refresh or import operation.|
 
 ## Return value
 
@@ -44,7 +44,7 @@ Nothing
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants:|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants:|
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The contents of the XML data file do not match the specified schema map.|

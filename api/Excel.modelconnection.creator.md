@@ -1,5 +1,5 @@
 ---
-title: ModelConnection.Creator Property (Excel)
+title: ModelConnection.Creator property (Excel)
 keywords: vbaxl10.chm921074
 f1_keywords:
 - vbaxl10.chm921074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection.Creator Property (Excel)
+# ModelConnection.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+ _expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Remarks

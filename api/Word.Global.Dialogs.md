@@ -1,5 +1,5 @@
 ---
-title: Global.Dialogs Property (Word)
+title: Global.Dialogs property (Word)
 keywords: vbawd10.chm163119123
 f1_keywords:
 - vbawd10.chm163119123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Dialogs Property (Word)
+# Global.Dialogs property (Word)
 
 Returns a  **[Dialogs](Word.dialogs.md)** collection that represents all the built-in dialog boxes in Word. Read-only.
 

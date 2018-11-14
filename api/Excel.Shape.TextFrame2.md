@@ -1,5 +1,5 @@
 ---
-title: Shape.TextFrame2 Property (Excel)
+title: Shape.TextFrame2 property (Excel)
 keywords: vbaxl10.chm636148
 f1_keywords:
 - vbaxl10.chm636148
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.TextFrame2 Property (Excel)
+# Shape.TextFrame2 property (Excel)
 
 Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text formatting for the specified shape. Read-only.
 

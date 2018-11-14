@@ -1,5 +1,5 @@
 ---
-title: WdTableDirection Enumeration (Word)
+title: WdTableDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTableDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTableDirection Enumeration (Word)
+# WdTableDirection enumeration (Word)
 
 Specifies the direction in which Microsoft Word orders cells in the specified table or row.
 

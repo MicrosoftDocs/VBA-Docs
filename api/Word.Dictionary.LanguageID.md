@@ -1,5 +1,5 @@
 ---
-title: Dictionary.LanguageID Property (Word)
+title: Dictionary.LanguageID property (Word)
 keywords: vbawd10.chm162332674
 f1_keywords:
 - vbawd10.chm162332674
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.LanguageID Property (Word)
+# Dictionary.LanguageID property (Word)
 
 Returns or sets a  **[WdLanguageID](Word.WdLanguageID.md)** constant that represents the language for the specified object. Read/write.
 

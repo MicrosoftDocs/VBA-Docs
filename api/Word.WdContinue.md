@@ -1,5 +1,5 @@
 ---
-title: WdContinue Enumeration (Word)
+title: WdContinue enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdContinue
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdContinue Enumeration (Word)
+# WdContinue enumeration (Word)
 
 Specifies whether the formatting from the previous list can be continued.
 

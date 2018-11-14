@@ -1,5 +1,5 @@
 ---
-title: Name.NameLocal Property (Excel)
+title: Name.NameLocal property (Excel)
 keywords: vbaxl10.chm490084
 f1_keywords:
 - vbaxl10.chm490084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.NameLocal Property (Excel)
+# Name.NameLocal property (Excel)
 
 Returns or sets the name of the object, in the language of the user. Read/write  **String** .
 

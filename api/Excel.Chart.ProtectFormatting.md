@@ -1,5 +1,5 @@
 ---
-title: Chart.ProtectFormatting Property (Excel)
+title: Chart.ProtectFormatting property (Excel)
 keywords: vbaxl10.chm149157
 f1_keywords:
 - vbaxl10.chm149157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ProtectFormatting Property (Excel)
+# Chart.ProtectFormatting property (Excel)
 
  **True** if chart formatting cannot be modified by the user. Read/write **Boolean** .
 

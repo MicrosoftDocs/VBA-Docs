@@ -1,5 +1,5 @@
 ---
-title: WebOptions.TargetBrowser Property (Excel)
+title: WebOptions.TargetBrowser property (Excel)
 keywords: vbaxl10.chm662085
 f1_keywords:
 - vbaxl10.chm662085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.TargetBrowser Property (Excel)
+# WebOptions.TargetBrowser property (Excel)
 
 Returns or sets an  **[MsoTargetBrowser](./Office.MsoTargetBrowser.md)** constant indicating the browser version. Read/write.
 

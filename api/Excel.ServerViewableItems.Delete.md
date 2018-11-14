@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Delete Method (Excel)
+title: ServerViewableItems.Delete method (Excel)
 keywords: vbaxl10.chm833075
 f1_keywords:
 - vbaxl10.chm833075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Delete Method (Excel)
+# ServerViewableItems.Delete method (Excel)
 
 Deletes a reference to an object in the  **[ServerViewableItems](Excel.ServerViewableItems.md)** collection in the workbook.
 

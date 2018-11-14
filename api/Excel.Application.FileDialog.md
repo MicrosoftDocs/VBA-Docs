@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Excel)
+title: Application.FileDialog property (Excel)
 keywords: vbaxl10.chm133270
 f1_keywords:
 - vbaxl10.chm133270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileDialog Property (Excel)
+# Application.FileDialog property (Excel)
 
 Returns a  **[FileDialog](Office.FileDialog.md)** object representing an instance of the file dialog.
 

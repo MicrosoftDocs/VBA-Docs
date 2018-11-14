@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddFillIn Method (Word)
+title: MailMergeFields.AddFillIn method (Word)
 keywords: vbawd10.chm153026663
 f1_keywords:
 - vbawd10.chm153026663
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddFillIn Method (Word)
+# MailMergeFields.AddFillIn method (Word)
 
 Adds a FILLIN field to a mail merge main document. Returns a  **MailMergeField** object.
 

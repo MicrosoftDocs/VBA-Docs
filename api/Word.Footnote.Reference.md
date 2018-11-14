@@ -1,5 +1,5 @@
 ---
-title: Footnote.Reference Property (Word)
+title: Footnote.Reference property (Word)
 keywords: vbawd10.chm155123717
 f1_keywords:
 - vbawd10.chm155123717
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote.Reference Property (Word)
+# Footnote.Reference property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a footnote reference mark.
 

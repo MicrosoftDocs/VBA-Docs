@@ -1,5 +1,5 @@
 ---
-title: Adjustments.Item Property (Word)
+title: Adjustments.Item property (Word)
 keywords: vbawd10.chm163840000
 f1_keywords:
 - vbawd10.chm163840000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Adjustments.Item Property (Word)
+# Adjustments.Item property (Word)
 
 Returns or sets the adjustment value specified by the  _Index_ argument. Read/write **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: System.FreeDiskSpace Property (Word)
+title: System.FreeDiskSpace property (Word)
 keywords: vbawd10.chm154468356
 f1_keywords:
 - vbawd10.chm154468356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.FreeDiskSpace Property (Word)
+# System.FreeDiskSpace property (Word)
 
 Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long** .
 

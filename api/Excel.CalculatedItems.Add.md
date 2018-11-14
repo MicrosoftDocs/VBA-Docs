@@ -1,5 +1,5 @@
 ---
-title: CalculatedItems.Add Method (Excel)
+title: CalculatedItems.Add method (Excel)
 keywords: vbaxl10.chm250078
 f1_keywords:
 - vbaxl10.chm250078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedItems.Add Method (Excel)
+# CalculatedItems.Add method (Excel)
 
 Creates a new calculated item. Returns a  **[PivotItem](Excel.PivotItem.md)** object.
 

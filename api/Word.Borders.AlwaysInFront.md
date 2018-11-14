@@ -1,5 +1,5 @@
 ---
-title: Borders.AlwaysInFront Property (Word)
+title: Borders.AlwaysInFront property (Word)
 keywords: vbawd10.chm154927127
 f1_keywords:
 - vbawd10.chm154927127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.AlwaysInFront Property (Word)
+# Borders.AlwaysInFront property (Word)
 
  **True** if page borders are displayed in front of the document text. Read/write **Boolean** .
 

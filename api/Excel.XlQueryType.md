@@ -1,5 +1,5 @@
 ---
-title: XlQueryType Enumeration (Excel)
+title: xlQueryType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlQueryType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlQueryType Enumeration (Excel)
+# xlQueryType enumeration (Excel)
 
 Specifies the type of query used by Microsoft Excel to populate the query table or PivotTable cache.
 

@@ -1,12 +1,12 @@
 ---
-title: Rows Object (Word)
+title: Rows object (Word)
 ms.prod: word
 ms.assetid: cd83d0ef-f743-1886-54de-497017c5f542
 ms.date: 06/08/2017
 ---
 
 
-# Rows Object (Word)
+# Rows object (Word)
 
 A collection of  **[Row](Word.Row.md)** objects that represent the table rows in the specified selection, range, or table.
 

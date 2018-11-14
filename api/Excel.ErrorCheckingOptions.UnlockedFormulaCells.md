@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.UnlockedFormulaCells Property (Excel)
+title: ErrorCheckingOptions.UnlockedFormulaCells property (Excel)
 keywords: vbaxl10.chm698080
 f1_keywords:
 - vbaxl10.chm698080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.UnlockedFormulaCells Property (Excel)
+# ErrorCheckingOptions.UnlockedFormulaCells property (Excel)
 
 When set to  **True** (default), Microsoft Excel identifies selected cells that are unlocked and contain a formula. **False** disables error checking for unlocked cells that contain formulas. Read/write **Boolean** .
 

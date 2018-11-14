@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Asin Method (Excel)
+title: WorksheetFunction.Asin method (Excel)
 keywords: vbaxl10.chm137119
 f1_keywords:
 - vbaxl10.chm137119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Asin Method (Excel)
+# WorksheetFunction.Asin method (Excel)
 
 Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whose sine is  _Arg1_. The returned angle is given in radians in the range -pi/2 to pi/2.
 

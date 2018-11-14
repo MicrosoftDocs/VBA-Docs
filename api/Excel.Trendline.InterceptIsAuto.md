@@ -1,5 +1,5 @@
 ---
-title: Trendline.InterceptIsAuto Property (Excel)
+title: Trendline.InterceptIsAuto property (Excel)
 keywords: vbaxl10.chm594084
 f1_keywords:
 - vbaxl10.chm594084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.InterceptIsAuto Property (Excel)
+# Trendline.InterceptIsAuto property (Excel)
 
  **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean** .
 

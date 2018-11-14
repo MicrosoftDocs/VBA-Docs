@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Size Property (Excel)
+title: ShadowFormat.Size property (Excel)
 keywords: vbaxl10.chm114011
 f1_keywords:
 - vbaxl10.chm114011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Size Property (Excel)
+# ShadowFormat.Size property (Excel)
 
 Returns or sets the size of the specified shadow. Read/write  **Single** .
 

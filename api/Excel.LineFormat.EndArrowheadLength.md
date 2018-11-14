@@ -1,5 +1,5 @@
 ---
-title: LineFormat.EndArrowheadLength Property (Excel)
+title: LineFormat.EndArrowheadLength property (Excel)
 keywords: vbaxl10.chm110007
 f1_keywords:
 - vbaxl10.chm110007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.EndArrowheadLength Property (Excel)
+# LineFormat.EndArrowheadLength property (Excel)
 
 Returns or sets the length of the arrowhead at the end of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)** .
 

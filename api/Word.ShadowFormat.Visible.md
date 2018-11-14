@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Visible Property (Word)
+title: ShadowFormat.Visible property (Word)
 keywords: vbawd10.chm164364394
 f1_keywords:
 - vbawd10.chm164364394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Visible Property (Word)
+# ShadowFormat.Visible property (Word)
 
  **True** if the specified object, or the formatting applied to it, is visible. Read/write **MsoTriState** .
 

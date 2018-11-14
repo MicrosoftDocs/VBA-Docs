@@ -1,5 +1,5 @@
 ---
-title: WdIMEMode Enumeration (Word)
+title: WdIMEMode enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdIMEMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdIMEMode Enumeration (Word)
+# WdIMEMode enumeration (Word)
 
 Specifies the default start-up mode for the Japanese Input Method Editor (IME).
 

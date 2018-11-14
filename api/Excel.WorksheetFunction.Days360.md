@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Days360 Method (Excel)
+title: WorksheetFunction.Days360 method (Excel)
 keywords: vbaxl10.chm137160
 f1_keywords:
 - vbaxl10.chm137160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Days360 Method (Excel)
+# WorksheetFunction.Days360 method (Excel)
 
 Returns the number of days between two dates based on a 360-day year (twelve 30-day months), which is used in some accounting calculations.
 

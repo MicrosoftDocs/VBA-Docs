@@ -1,5 +1,5 @@
 ---
-title: AddIn.Installed Property (Excel)
+title: AddIn.Installed property (Excel)
 keywords: vbaxl10.chm185076
 f1_keywords:
 - vbaxl10.chm185076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Installed Property (Excel)
+# AddIn.Installed property (Excel)
 
  **True** if the add-in is installed or to install the add-in, **False** if the add-in is uninstalled or to uninstall the add-in. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: DownBars Object (Excel)
+title: DownBars object (Excel)
 keywords: vbaxl10.chm609072
 f1_keywords:
 - vbaxl10.chm609072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars Object (Excel)
+# DownBars object (Excel)
 
 Represents the down bars in a chart group.
 

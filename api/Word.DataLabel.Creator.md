@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Creator Property (Word)
+title: DataLabel.Creator property (Word)
 keywords: vbawd10.chm233898133
 f1_keywords:
 - vbawd10.chm233898133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Creator Property (Word)
+# DataLabel.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

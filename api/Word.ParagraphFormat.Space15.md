@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Space15 Method (Word)
+title: ParagraphFormat.Space15 method (Word)
 keywords: vbawd10.chm156434746
 f1_keywords:
 - vbawd10.chm156434746
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Space15 Method (Word)
+# ParagraphFormat.Space15 method (Word)
 
 Formats the specified paragraphs with 1.5-line spacing.
 

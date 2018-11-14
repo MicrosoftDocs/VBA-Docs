@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.NoTextRotation Property (Excel)
+title: TextFrame2.NoTextRotation property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.NoTextRotation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.NoTextRotation Property (Excel)
+# TextFrame2.NoTextRotation property (Excel)
 
 Returns or sets whether text remains flat when the specified object is rotated. Read/write
 

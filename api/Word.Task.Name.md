@@ -1,5 +1,5 @@
 ---
-title: Task.Name Property (Word)
+title: Task.Name property (Word)
 keywords: vbawd10.chm159514624
 f1_keywords:
 - vbawd10.chm159514624
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Name Property (Word)
+# Task.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

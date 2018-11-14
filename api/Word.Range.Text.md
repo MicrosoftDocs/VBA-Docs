@@ -1,5 +1,5 @@
 ---
-title: Range.Text Property (Word)
+title: Range.Text property (Word)
 keywords: vbawd10.chm157155328
 f1_keywords:
 - vbawd10.chm157155328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Text Property (Word)
+# Range.Text property (Word)
 
 Returns or sets the text in the specified range or selection. Read/write  **String** . Read/write **String** .
 

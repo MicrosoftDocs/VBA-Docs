@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.CharacterUnitRightIndent Property (Word)
+title: Paragraphs.CharacterUnitRightIndent property (Word)
 keywords: vbawd10.chm156762238
 f1_keywords:
 - vbawd10.chm156762238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.CharacterUnitRightIndent Property (Word)
+# Paragraphs.CharacterUnitRightIndent property (Word)
 
 Returns or sets the right indent value (in characters) for the specified paragraphs. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.DataType Property (Excel)
+title: PivotField.DataType property (Excel)
 keywords: vbaxl10.chm240079
 f1_keywords:
 - vbaxl10.chm240079
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.DataType Property (Excel)
+# PivotField.DataType property (Excel)
 
-Returns a  **[XlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that represents the type of data in the PivotTable field.
+Returns a  **[xlPivotFieldDataType](Excel.XlPivotFieldDataType.md)** value that represents the type of data in the PivotTable field.
 
 
 ## Syntax

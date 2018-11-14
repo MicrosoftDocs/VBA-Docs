@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Parent Property (Excel)
+title: Gridlines.Parent property (Excel)
 keywords: vbaxl10.chm602073
 f1_keywords:
 - vbaxl10.chm602073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Parent Property (Excel)
+# Gridlines.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

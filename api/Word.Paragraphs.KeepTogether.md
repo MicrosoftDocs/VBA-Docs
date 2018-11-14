@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.KeepTogether Property (Word)
+title: Paragraphs.KeepTogether property (Word)
 keywords: vbawd10.chm156762214
 f1_keywords:
 - vbawd10.chm156762214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.KeepTogether Property (Word)
+# Paragraphs.KeepTogether property (Word)
 
  **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long** .
 

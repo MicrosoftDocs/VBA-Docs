@@ -1,5 +1,5 @@
 ---
-title: ChartData.Workbook Property (Word)
+title: ChartData.Workbook property (Word)
 keywords: vbawd10.chm190382080
 f1_keywords:
 - vbawd10.chm190382080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartData.Workbook Property (Word)
+# ChartData.Workbook property (Word)
 
 Returns the workbook that contains the chart data associated with the chart. Read-only  **Object** .
 

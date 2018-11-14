@@ -1,5 +1,5 @@
 ---
-title: Conflicts.AcceptAll Method (Word)
+title: Conflicts.AcceptAll method (Word)
 keywords: vbawd10.chm174391397
 f1_keywords:
 - vbawd10.chm174391397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Conflicts.AcceptAll Method (Word)
+# Conflicts.AcceptAll method (Word)
 
 Accepts all of the user's changes, removes the conflicts, and merges the changes into the server copy of the document.
 

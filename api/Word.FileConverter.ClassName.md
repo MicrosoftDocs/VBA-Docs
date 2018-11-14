@@ -1,5 +1,5 @@
 ---
-title: FileConverter.ClassName Property (Word)
+title: FileConverter.ClassName property (Word)
 keywords: vbawd10.chm161021953
 f1_keywords:
 - vbawd10.chm161021953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.ClassName Property (Word)
+# FileConverter.ClassName property (Word)
 
 Returns a unique name that identifies the file converter. Read-only  **String** .
 

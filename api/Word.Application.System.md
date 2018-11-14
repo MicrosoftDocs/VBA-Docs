@@ -1,5 +1,5 @@
 ---
-title: Application.System Property (Word)
+title: Application.System property (Word)
 keywords: vbawd10.chm158334985
 f1_keywords:
 - vbawd10.chm158334985
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.System Property (Word)
+# Application.System property (Word)
 
 Returns a  **[System](Word.System.md)** object, which can be used to return system-related information and perform system-related tasks.
 

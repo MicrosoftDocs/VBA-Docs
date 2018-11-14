@@ -1,5 +1,5 @@
 ---
-title: Chart.ApplyDataLabels Method (Excel)
+title: Chart.ApplyDataLabels method (Excel)
 keywords: vbaxl10.chm149171
 f1_keywords:
 - vbaxl10.chm149171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ApplyDataLabels Method (Excel)
+# Chart.ApplyDataLabels method (Excel)
 
 Applies data labels to all the series in a chart.
 
@@ -29,7 +29,7 @@ Applies data labels to all the series in a chart.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **[XlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
+| _Type_|Optional| **[xlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
 | _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(object).md)** objects, **True** if the series has leader lines.|
@@ -42,7 +42,7 @@ Applies data labels to all the series in a chart.
 
 ## Remarks
 
-**XlDataLabelsType** can be one of these **XlDataLabelsType** constants.
+**xlDataLabelsType** can be one of these **xlDataLabelsType** constants.
 
 | **Constant** | **Description** |
 |---|---|

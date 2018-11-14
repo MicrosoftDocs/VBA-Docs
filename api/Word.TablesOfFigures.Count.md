@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Count Property (Word)
+title: TablesOfFigures.Count property (Word)
 keywords: vbawd10.chm153223169
 f1_keywords:
 - vbawd10.chm153223169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Count Property (Word)
+# TablesOfFigures.Count property (Word)
 
 Returns a  **Long** that represents the number of tables of figures in the collection. Read-only.
 

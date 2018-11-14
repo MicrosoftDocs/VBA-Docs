@@ -1,5 +1,5 @@
 ---
-title: XlSearchWithin Enumeration (Excel)
+title: xlSearchWithin enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSearchWithin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSearchWithin Enumeration (Excel)
+# xlSearchWithin enumeration (Excel)
 
 Specifies the extent of the search for the range.
 

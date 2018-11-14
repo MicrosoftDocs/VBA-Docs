@@ -1,5 +1,5 @@
 ---
-title: TextInput.Creator Property (Word)
+title: TextInput.Creator property (Word)
 keywords: vbawd10.chm153551849
 f1_keywords:
 - vbawd10.chm153551849
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Creator Property (Word)
+# TextInput.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

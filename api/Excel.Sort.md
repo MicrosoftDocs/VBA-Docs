@@ -1,5 +1,5 @@
 ---
-title: Sort Object (Excel)
+title: Sort object (Excel)
 keywords: vbaxl10.chm846072
 f1_keywords:
 - vbaxl10.chm846072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort Object (Excel)
+# Sort object (Excel)
 
 Represents a sort of a range of data.
 

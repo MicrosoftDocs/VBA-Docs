@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearContents Method (Word)
+title: ChartArea.ClearContents method (Word)
 keywords: vbawd10.chm160039025
 f1_keywords:
 - vbawd10.chm160039025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.ClearContents Method (Word)
+# ChartArea.ClearContents method (Word)
 
 Clears the data from a chart but leaves the formatting.
 

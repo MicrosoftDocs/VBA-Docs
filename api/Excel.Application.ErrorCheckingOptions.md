@@ -1,5 +1,5 @@
 ---
-title: Application.ErrorCheckingOptions Property (Excel)
+title: Application.ErrorCheckingOptions property (Excel)
 keywords: vbaxl10.chm133280
 f1_keywords:
 - vbaxl10.chm133280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ErrorCheckingOptions Property (Excel)
+# Application.ErrorCheckingOptions property (Excel)
 
 Returns an  **[ErrorCheckingOptions](Excel.ErrorCheckingOptions.md)** object, which represents the error checking options for an application.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.TotalsAnnotation Property (Excel)
+title: PivotTable.TotalsAnnotation property (Excel)
 keywords: vbaxl10.chm235136
 f1_keywords:
 - vbaxl10.chm235136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.TotalsAnnotation Property (Excel)
+# PivotTable.TotalsAnnotation property (Excel)
 
  **True** if an asterisk (\*) is displayed next to each subtotal and grand total value in the specified PivotTable report if the report is based on an OLAP data source. The default value is **True**. Read/write **Boolean**.
 

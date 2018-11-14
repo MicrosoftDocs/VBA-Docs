@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.Item Method (Word)
+title: PageNumbers.Item method (Word)
 keywords: vbawd10.chm159776768
 f1_keywords:
 - vbawd10.chm159776768
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.Item Method (Word)
+# PageNumbers.Item method (Word)
 
 Returns an individual  **PageNumber** object in a collection.
 

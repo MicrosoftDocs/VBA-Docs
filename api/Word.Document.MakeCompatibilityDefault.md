@@ -1,5 +1,5 @@
 ---
-title: Document.MakeCompatibilityDefault Method (Word)
+title: Document.MakeCompatibilityDefault method (Word)
 keywords: vbawd10.chm158007415
 f1_keywords:
 - vbawd10.chm158007415
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.MakeCompatibilityDefault Method (Word)
+# Document.MakeCompatibilityDefault method (Word)
 
 Sets the compatibility options.
 

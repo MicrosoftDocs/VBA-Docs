@@ -1,5 +1,5 @@
 ---
-title: Slicers.Parent Property (Excel)
+title: Slicers.Parent property (Excel)
 keywords: vbaxl10.chm902075
 f1_keywords:
 - vbaxl10.chm902075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicers.Parent Property (Excel)
+# Slicers.Parent property (Excel)
 
 Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the specified **[Slicers](Excel.Slicers.md)** collection. Read-only.
 

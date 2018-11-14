@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.Add Method (Word)
+title: TablesOfAuthorities.Add method (Word)
 keywords: vbawd10.chm152174692
 f1_keywords:
 - vbawd10.chm152174692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.Add Method (Word)
+# TablesOfAuthorities.Add method (Word)
 
 Returns a  **TableOfAuthorities** object that represents a table of authorities added to a document.
 

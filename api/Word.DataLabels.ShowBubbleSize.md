@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowBubbleSize Property (Word)
+title: DataLabels.ShowBubbleSize property (Word)
 keywords: vbawd10.chm207489002
 f1_keywords:
 - vbawd10.chm207489002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowBubbleSize Property (Word)
+# DataLabels.ShowBubbleSize property (Word)
 
  **True** to show the bubble size for the data labels on a chart. **False** to hide the bubble size. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.InsertDatabase Method (Word)
+title: Range.InsertDatabase method (Word)
 keywords: vbawd10.chm157155522
 f1_keywords:
 - vbawd10.chm157155522
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertDatabase Method (Word)
+# Range.InsertDatabase method (Word)
 
 Retrieves data from a data source (for example, a separate Microsoft Word document, a Microsoft Excel worksheet, or a Microsoft Access database) and inserts the data as a table in place of the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Dist Method (Excel)
+title: WorksheetFunction.T_Dist method (Excel)
 keywords: vbaxl10.chm137383
 f1_keywords:
 - vbaxl10.chm137383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.T_Dist Method (Excel)
+# WorksheetFunction.T_Dist method (Excel)
 
 Returns a Student t-distribution where a numeric value (x) is a calculated value of t for which the Percentage Points are computed.
 

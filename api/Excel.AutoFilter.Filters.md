@@ -1,5 +1,5 @@
 ---
-title: AutoFilter.Filters Property (Excel)
+title: AutoFilter.Filters property (Excel)
 keywords: vbaxl10.chm538074
 f1_keywords:
 - vbaxl10.chm538074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter.Filters Property (Excel)
+# AutoFilter.Filters property (Excel)
 
 Returns a  **[Filters](Excel.Filters.md)** collection that represents all the filters in an autofiltered range. Read-only.
 

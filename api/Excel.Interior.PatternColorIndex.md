@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColorIndex Property (Excel)
+title: Interior.PatternColorIndex property (Excel)
 keywords: vbaxl10.chm551078
 f1_keywords:
 - vbaxl10.chm551078
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.PatternColorIndex Property (Excel)
+# Interior.PatternColorIndex property (Excel)
 
-Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[XlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the color of the interior pattern as an index into the current color palette, or as one of the following **[xlColorIndex](Excel.XlColorIndex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 
 
 ## Syntax

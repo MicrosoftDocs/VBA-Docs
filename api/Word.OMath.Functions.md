@@ -1,5 +1,5 @@
 ---
-title: OMath.Functions Property (Word)
+title: OMath.Functions property (Word)
 keywords: vbawd10.chm176357480
 f1_keywords:
 - vbawd10.chm176357480
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.Functions Property (Word)
+# OMath.Functions property (Word)
 
 Returns an  **[OMathFunctions](Word.OMathFunctions.md)** collection that represents the functions contained within an equation. Read-only.
 

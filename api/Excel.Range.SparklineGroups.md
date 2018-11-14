@@ -1,5 +1,5 @@
 ---
-title: Range.SparklineGroups Property (Excel)
+title: Range.SparklineGroups property (Excel)
 keywords: vbaxl10.chm144249
 f1_keywords:
 - vbaxl10.chm144249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SparklineGroups Property (Excel)
+# Range.SparklineGroups property (Excel)
 
 Returns a  **[SparklineGroups](Excel.SparklineGroups.md)** object that represents an existing group of sparklines from the specified range. Read-only
 

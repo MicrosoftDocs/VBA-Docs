@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.UseHeadingStyles Property (Word)
+title: TableOfFigures.UseHeadingStyles property (Word)
 keywords: vbawd10.chm153157636
 f1_keywords:
 - vbawd10.chm153157636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.UseHeadingStyles Property (Word)
+# TableOfFigures.UseHeadingStyles property (Word)
 
  **True** if built-in heading styles are used to create a table of figures. Read/write **Boolean** .
 

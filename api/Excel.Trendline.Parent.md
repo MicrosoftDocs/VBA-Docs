@@ -1,5 +1,5 @@
 ---
-title: Trendline.Parent Property (Excel)
+title: Trendline.Parent property (Excel)
 keywords: vbaxl10.chm594073
 f1_keywords:
 - vbaxl10.chm594073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Parent Property (Excel)
+# Trendline.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

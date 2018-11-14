@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CharsLine Property (Word)
+title: PageSetup.CharsLine property (Word)
 keywords: vbawd10.chm158400635
 f1_keywords:
 - vbawd10.chm158400635
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CharsLine Property (Word)
+# PageSetup.CharsLine property (Word)
 
 Returns or sets the number of characters per line in the document grid. Read/write  **Single** .
 

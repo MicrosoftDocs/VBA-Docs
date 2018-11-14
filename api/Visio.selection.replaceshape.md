@@ -22,7 +22,7 @@ Replaces the specified selection with one or more instances of the master passed
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape or shapes to drop. Must be either a [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md) object.|

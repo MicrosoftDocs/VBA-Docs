@@ -1,5 +1,5 @@
 ---
-title: Application.Intersect Method (Excel)
+title: Application.Intersect method (Excel)
 keywords: vbaxl10.chm183099
 f1_keywords:
 - vbaxl10.chm183099
@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 ---
 
 
-# Application.Intersect Method (Excel)
+# Application.Intersect method (Excel)
 
 Returns a [Range](Excel.Range(object).md) object that represents the rectangular intersection of two or more ranges. If one or more ranges from a different worksheet are specified, an error will be returned.
 

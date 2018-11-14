@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding Object (Excel)
+title: XmlDataBinding object (Excel)
 keywords: vbaxl10.chm747072
 f1_keywords:
 - vbaxl10.chm747072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlDataBinding Object (Excel)
+# XmlDataBinding object (Excel)
 
 Represents the connection to the source data for an  **[XmlMap](Excel.XmlMap.md)** object.
 

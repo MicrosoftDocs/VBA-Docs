@@ -1,5 +1,5 @@
 ---
-title: Queries.Count Property (Excel)
+title: Queries.Count property (Excel)
 keywords: vbaxl10.chm976073
 f1_keywords:
 - vbaxl10.chm976073
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Queries.Count Property (Excel)
+# Queries.Count property (Excel)
 
 Returns an integer that represents the number of objects in the collection.
 

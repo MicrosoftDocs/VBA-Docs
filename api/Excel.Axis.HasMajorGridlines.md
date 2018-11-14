@@ -1,5 +1,5 @@
 ---
-title: Axis.HasMajorGridlines Property (Excel)
+title: Axis.HasMajorGridlines property (Excel)
 keywords: vbaxl10.chm561081
 f1_keywords:
 - vbaxl10.chm561081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.HasMajorGridlines Property (Excel)
+# Axis.HasMajorGridlines property (Excel)
 
  **True** if the axis has major gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean** .
 

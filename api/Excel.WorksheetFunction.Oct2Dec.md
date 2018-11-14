@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Oct2Dec Method (Excel)
+title: WorksheetFunction.Oct2Dec method (Excel)
 keywords: vbaxl10.chm137269
 f1_keywords:
 - vbaxl10.chm137269
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Oct2Dec Method (Excel)
+# WorksheetFunction.Oct2Dec method (Excel)
 
 Converts an octal number to decimal.
 

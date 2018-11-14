@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.SegmentType Property (Excel)
+title: ShapeNode.SegmentType property (Excel)
 keywords: vbaxl10.chm111005
 f1_keywords:
 - vbaxl10.chm111005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.SegmentType Property (Excel)
+# ShapeNode.SegmentType property (Excel)
 
 Returns a value that indicates whether the segment associated with the specified node is straight or curved. If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve** . Read-only **MsoSegmentType** .
 

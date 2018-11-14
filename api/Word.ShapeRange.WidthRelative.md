@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.WidthRelative Property (Word)
+title: ShapeRange.WidthRelative property (Word)
 keywords: vbawd10.chm162857162
 f1_keywords:
 - vbawd10.chm162857162
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.WidthRelative Property (Word)
+# ShapeRange.WidthRelative property (Word)
 
 Returns or sets a  **Single** that represents the relative width of a range of shapes. Read/write.
 

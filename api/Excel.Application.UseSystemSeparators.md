@@ -1,5 +1,5 @@
 ---
-title: Application.UseSystemSeparators Property (Excel)
+title: Application.UseSystemSeparators property (Excel)
 keywords: vbaxl10.chm133290
 f1_keywords:
 - vbaxl10.chm133290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UseSystemSeparators Property (Excel)
+# Application.UseSystemSeparators property (Excel)
 
  **True** (default) if the system separators of Microsoft Excel are enabled. Read/write **Boolean** .
 

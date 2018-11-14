@@ -22,7 +22,7 @@ Occurs after a shape-replacement operation.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _sel_|Required|IVSELECTION|A [Selection](Visio.Selection.md) object that represents the replacement shape or shapes.|

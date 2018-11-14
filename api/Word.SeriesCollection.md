@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection Object (Word)
+title: SeriesCollection object (Word)
 keywords: vbawd10.chm2295
 f1_keywords:
 - vbawd10.chm2295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection Object (Word)
+# SeriesCollection object (Word)
 
 Represents a collection of all the  **[Series](Word.Series.md)** objects in the specified chart or chart group.
 

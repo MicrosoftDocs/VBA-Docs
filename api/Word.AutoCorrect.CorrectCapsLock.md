@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectCapsLock Property (Word)
+title: AutoCorrect.CorrectCapsLock property (Word)
 keywords: vbawd10.chm155779083
 f1_keywords:
 - vbawd10.chm155779083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectCapsLock Property (Word)
+# AutoCorrect.CorrectCapsLock property (Word)
 
  **True** if Word automatically corrects instances in which you use the CAPS LOCK key inadvertently as you type. Read/write **Boolean** .
 

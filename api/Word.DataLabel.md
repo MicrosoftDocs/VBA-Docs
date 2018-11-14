@@ -1,5 +1,5 @@
 ---
-title: DataLabel Object (Word)
+title: DataLabel object (Word)
 keywords: vbawd10.chm3569
 f1_keywords:
 - vbawd10.chm3569
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel Object (Word)
+# DataLabel object (Word)
 
 Represents the data label on a chart point or trendline.
 

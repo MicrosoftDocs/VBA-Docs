@@ -1,5 +1,5 @@
 ---
-title: Application.MailLogoff Method (Excel)
+title: Application.MailLogoff method (Excel)
 keywords: vbaxl10.chm133157
 f1_keywords:
 - vbaxl10.chm133157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailLogoff Method (Excel)
+# Application.MailLogoff method (Excel)
 
 Closes a MAPI mail session established by Microsoft Excel.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Select Method (Excel)
+title: OLEObjects.Select method (Excel)
 keywords: vbaxl10.chm419087
 f1_keywords:
 - vbaxl10.chm419087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Select Method (Excel)
+# OLEObjects.Select method (Excel)
 
 Selects the object.
 

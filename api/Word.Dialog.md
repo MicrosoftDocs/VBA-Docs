@@ -1,5 +1,5 @@
 ---
-title: Dialog Object (Word)
+title: Dialog object (Word)
 keywords: vbawd10.chm2488
 f1_keywords:
 - vbawd10.chm2488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialog Object (Word)
+# Dialog object (Word)
 
 Represents a built-in dialog box. The  **Dialog** object is a member of the **[Dialogs](Word.dialogs.md)** collection. The **Dialogs** collection contains all the built-in dialog boxes in Word. You cannot create a new built-in dialog box or add one to the **Dialogs** collection.
 

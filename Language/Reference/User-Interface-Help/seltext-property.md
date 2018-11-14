@@ -23,7 +23,7 @@ _object_. **SelText** [= _String_ ]
 The  **SelText** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression containing the selected text.|

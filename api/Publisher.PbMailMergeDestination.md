@@ -21,6 +21,6 @@ The destination of the mail merge or catalog merge results.
 |:-----|:-----|:-----|
 | **pbMergeToExistingPublication**|3| **Default** Merge to an exisiting presentation.|
 | **pbMergeToNewPublication**|2|Merge to a new presentation.|
-| **pbSendEmail**|4|Merge and send as an e-mail message.|
+| **pbSendEmail**|4|Merge and send as an email message.|
 | **pbSendToPrinter**|1|Merge and send to the printer.|
 

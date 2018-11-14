@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.MeaningCount Property (Word)
+title: SynonymInfo.MeaningCount property (Word)
 keywords: vbawd10.chm161153027
 f1_keywords:
 - vbawd10.chm161153027
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.MeaningCount Property (Word)
+# SynonymInfo.MeaningCount property (Word)
 
 Returns the number of entries in the list of meanings found in the thesaurus for the word or phrase. Returns 0 (zero) if no meanings were found. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.FlashFillMode Property (Excel)
+title: Application.FlashFillMode property (Excel)
 keywords: vbaxl10.chm133342
 f1_keywords:
 - vbaxl10.chm133342
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FlashFillMode Property (Excel)
+# Application.FlashFillMode property (Excel)
 
  **True** if the Flash Fill feature is enabled. **Boolean** Read/Write
 

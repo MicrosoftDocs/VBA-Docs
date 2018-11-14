@@ -1,5 +1,5 @@
 ---
-title: Selection.ItalicRun Method (Word)
+title: Selection.ItalicRun method (Word)
 keywords: vbawd10.chm158663259
 f1_keywords:
 - vbawd10.chm158663259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ItalicRun Method (Word)
+# Selection.ItalicRun method (Word)
 
 Adds the italic character format to or removes it from the current run.
 

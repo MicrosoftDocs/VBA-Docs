@@ -1,5 +1,5 @@
 ---
-title: Find.MatchPrefix Property (Word)
+title: Find.MatchPrefix property (Word)
 keywords: vbawd10.chm162529385
 f1_keywords:
 - vbawd10.chm162529385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchPrefix Property (Word)
+# Find.MatchPrefix property (Word)
 
  **True** to match words beginning with the search string. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.CalculatedMembersInFilters Property (Excel)
+title: PivotTable.CalculatedMembersInFilters property (Excel)
 keywords: vbaxl10.chm235202
 f1_keywords:
 - vbaxl10.chm235202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.CalculatedMembersInFilters Property (Excel)
+# PivotTable.CalculatedMembersInFilters property (Excel)
 
 Returns or sets whether to evaluate calculated members from OLAP servers in filters. Read/write
 

@@ -22,7 +22,7 @@ _object_. **GetFileName(**_pathspec_**)**
 The  **GetFileName** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _pathspec_|Required. The path (absolute or relative) to a specific file.|

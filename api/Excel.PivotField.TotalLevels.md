@@ -1,5 +1,5 @@
 ---
-title: PivotField.TotalLevels Property (Excel)
+title: PivotField.TotalLevels property (Excel)
 keywords: vbaxl10.chm240097
 f1_keywords:
 - vbaxl10.chm240097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.TotalLevels Property (Excel)
+# PivotField.TotalLevels property (Excel)
 
 Returns the total number of fields in the current field group. If the field isn't grouped, or if the data source is OLAP-based,  **TotalLevels** returns the value 1. Read-only **Long** .
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Subject Property (Publisher)
 
-Gets or sets the subject line of the merged e-mail message. Read/write.
+Gets or sets the subject line of the merged email message. Read/write.
 
 
 ## Syntax

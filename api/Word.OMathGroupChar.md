@@ -1,5 +1,5 @@
 ---
-title: OMathGroupChar Object (Word)
+title: OMathGroupChar object (Word)
 keywords: vbawd10.chm3252
 f1_keywords:
 - vbawd10.chm3252
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathGroupChar Object (Word)
+# OMathGroupChar object (Word)
 
 Represents a group character object, consisting of a character drawn above or below text, often with the purpose of visually grouping items.
 

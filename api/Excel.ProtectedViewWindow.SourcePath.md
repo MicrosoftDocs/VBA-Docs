@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourcePath Property (Excel)
+title: ProtectedViewWindow.SourcePath property (Excel)
 keywords: vbaxl10.chm914082
 f1_keywords:
 - vbaxl10.chm914082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.SourcePath Property (Excel)
+# ProtectedViewWindow.SourcePath property (Excel)
 
 Returns the path of the source file that is open in the specified  **Protected View** window. Read-only
 

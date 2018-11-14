@@ -1,5 +1,5 @@
 ---
-title: Application.SharePointVersion Method (Excel)
+title: Application.SharePointVersion method (Excel)
 keywords: vbaxl10.chm133315
 f1_keywords:
 - vbaxl10.chm133315
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SharePointVersion Method (Excel)
+# Application.SharePointVersion method (Excel)
 
 Returns the version number of SharePoint Foundation instances running at site for the specified URL.
 

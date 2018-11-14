@@ -1,5 +1,5 @@
 ---
-title: Connections.Count Property (Excel)
+title: Connections.Count property (Excel)
 keywords: vbaxl10.chm776073
 f1_keywords:
 - vbaxl10.chm776073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections.Count Property (Excel)
+# Connections.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

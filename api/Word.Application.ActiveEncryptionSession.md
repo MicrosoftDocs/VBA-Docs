@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveEncryptionSession Property (Word)
+title: Application.ActiveEncryptionSession property (Word)
 keywords: vbawd10.chm158335455
 f1_keywords:
 - vbawd10.chm158335455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveEncryptionSession Property (Word)
+# Application.ActiveEncryptionSession property (Word)
 
 Returns a  **Long** that represents the encryption session associated with the active document. Read-only.
 

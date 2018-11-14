@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToInches Method (Word)
+title: Application.PointsToInches method (Word)
 keywords: vbawd10.chm158335356
 f1_keywords:
 - vbawd10.chm158335356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PointsToInches Method (Word)
+# Application.PointsToInches method (Word)
 
 Converts a measurement from points to inches (1 inch = 72 points). Returns the converted measurement as a  **Single** .
 

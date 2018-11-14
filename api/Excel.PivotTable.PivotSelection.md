@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotSelection Property (Excel)
+title: PivotTable.PivotSelection property (Excel)
 keywords: vbaxl10.chm235124
 f1_keywords:
 - vbaxl10.chm235124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotSelection Property (Excel)
+# PivotTable.PivotSelection property (Excel)
 
 Returns or sets the PivotTable selection in standard PivotTable report selection format. Read/write  **String** .
 

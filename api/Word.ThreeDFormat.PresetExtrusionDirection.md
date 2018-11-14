@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetExtrusionDirection Property (Word)
+title: ThreeDFormat.PresetExtrusionDirection property (Word)
 keywords: vbawd10.chm164626536
 f1_keywords:
 - vbawd10.chm164626536
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetExtrusionDirection Property (Word)
+# ThreeDFormat.PresetExtrusionDirection property (Word)
 
 Returns the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read/write  **MsoPresetExtrusionDirection** .
 

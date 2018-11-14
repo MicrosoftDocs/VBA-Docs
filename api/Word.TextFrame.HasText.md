@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HasText Property (Word)
+title: TextFrame.HasText property (Word)
 keywords: vbawd10.chm162665360
 f1_keywords:
 - vbawd10.chm162665360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.HasText Property (Word)
+# TextFrame.HasText property (Word)
 
  **True** if the specified shape has text associated with it. Read-only **Boolean** .
 

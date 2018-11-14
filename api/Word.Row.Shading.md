@@ -1,5 +1,5 @@
 ---
-title: Row.Shading Property (Word)
+title: Row.Shading property (Word)
 keywords: vbawd10.chm156237927
 f1_keywords:
 - vbawd10.chm156237927
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Shading Property (Word)
+# Row.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotLine.Position Property (Excel)
+title: PivotLine.Position property (Excel)
 keywords: vbaxl10.chm764074
 f1_keywords:
 - vbaxl10.chm764074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine.Position Property (Excel)
+# PivotLine.Position property (Excel)
 
 Returns or sets the position of the  **PivotLine** object. Read-only.
 

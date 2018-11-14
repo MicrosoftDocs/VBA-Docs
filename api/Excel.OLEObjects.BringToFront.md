@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.BringToFront Method (Excel)
+title: OLEObjects.BringToFront method (Excel)
 keywords: vbaxl10.chm419074
 f1_keywords:
 - vbaxl10.chm419074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.BringToFront Method (Excel)
+# OLEObjects.BringToFront method (Excel)
 
 Brings the object to the front of the z-order.
 

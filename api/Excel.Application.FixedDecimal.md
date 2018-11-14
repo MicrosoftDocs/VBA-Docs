@@ -1,5 +1,5 @@
 ---
-title: Application.FixedDecimal Property (Excel)
+title: Application.FixedDecimal property (Excel)
 keywords: vbaxl10.chm133138
 f1_keywords:
 - vbaxl10.chm133138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FixedDecimal Property (Excel)
+# Application.FixedDecimal property (Excel)
 
 All data entered after this property is set to  **True** will be formatted with the number of fixed decimal places set by the **[FixedDecimalPlaces](Excel.Application.FixedDecimalPlaces.md)** property. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdSeekView Enumeration (Word)
+title: WdSeekView enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSeekView
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSeekView Enumeration (Word)
+# WdSeekView enumeration (Word)
 
 Specifies the document element to display in the print layout view.
 

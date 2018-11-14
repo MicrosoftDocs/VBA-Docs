@@ -1,5 +1,5 @@
 ---
-title: PivotTable.ErrorString Property (Excel)
+title: PivotTable.ErrorString property (Excel)
 keywords: vbaxl10.chm235109
 f1_keywords:
 - vbaxl10.chm235109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.ErrorString Property (Excel)
+# PivotTable.ErrorString property (Excel)
 
 Returns or sets a  **String** value that represents the string displayed in cells that contain errors when the **[DisplayErrorString](Excel.PivotTable.DisplayErrorString.md)** property is **True** .
 

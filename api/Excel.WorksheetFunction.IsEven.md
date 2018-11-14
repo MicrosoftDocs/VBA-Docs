@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsEven Method (Excel)
+title: WorksheetFunction.IsEven method (Excel)
 keywords: vbaxl10.chm137297
 f1_keywords:
 - vbaxl10.chm137297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsEven Method (Excel)
+# WorksheetFunction.IsEven method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value is even.
 

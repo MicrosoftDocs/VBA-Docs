@@ -1,5 +1,5 @@
 ---
-title: Workbook.AutoUpdateFrequency Property (Excel)
+title: Workbook.AutoUpdateFrequency property (Excel)
 keywords: vbaxl10.chm199078
 f1_keywords:
 - vbaxl10.chm199078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.AutoUpdateFrequency Property (Excel)
+# Workbook.AutoUpdateFrequency property (Excel)
 
 Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long** .
 

@@ -37,7 +37,7 @@ The following possible values for the  **Type** property are from the **VisGraph
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeIconSet**|2|Represents an  **Icon Set** graphic item.|
 | **visTypeTextCallout**|3|Represents a  **Text** graphic item.|

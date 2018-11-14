@@ -1,5 +1,5 @@
 ---
-title: TextFrame.BreakForwardLink Method (Word)
+title: TextFrame.BreakForwardLink method (Word)
 keywords: vbawd10.chm162665356
 f1_keywords:
 - vbawd10.chm162665356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.BreakForwardLink Method (Word)
+# TextFrame.BreakForwardLink method (Word)
 
 Breaks the forward link for the specified text frame, if such a link exists.
 

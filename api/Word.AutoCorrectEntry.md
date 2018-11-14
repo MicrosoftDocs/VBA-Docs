@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry Object (Word)
+title: AutoCorrectEntry object (Word)
 keywords: vbawd10.chm2375
 f1_keywords:
 - vbawd10.chm2375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry Object (Word)
+# AutoCorrectEntry object (Word)
 
 Represents a single AutoCorrect entry. The  **AutoCorrectEntry** object is a member of the **AutoCorrectEntries** collection. The **[AutoCorrectEntries](Word.autocorrectentries.md)** collection includes the entries in the **AutoCorrect** dialog box.
 

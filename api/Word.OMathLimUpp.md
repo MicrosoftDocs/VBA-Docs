@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp Object (Word)
+title: OMathLimUpp object (Word)
 keywords: vbawd10.chm1734
 f1_keywords:
 - vbawd10.chm1734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp Object (Word)
+# OMathLimUpp object (Word)
 
 Represents the upper limit mathematical construct, consisting of text on the baseline and reduced-size text immediately above it.
 

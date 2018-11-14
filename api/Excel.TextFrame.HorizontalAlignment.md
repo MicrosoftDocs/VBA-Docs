@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HorizontalAlignment Property (Excel)
+title: TextFrame.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm644079
 f1_keywords:
 - vbaxl10.chm644079
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.HorizontalAlignment Property (Excel)
+# TextFrame.HorizontalAlignment property (Excel)
 
-Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets a  **[xlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax

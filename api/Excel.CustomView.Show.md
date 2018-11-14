@@ -1,5 +1,5 @@
 ---
-title: CustomView.Show Method (Excel)
+title: CustomView.Show method (Excel)
 keywords: vbaxl10.chm508076
 f1_keywords:
 - vbaxl10.chm508076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.Show Method (Excel)
+# CustomView.Show method (Excel)
 
 Displays the object.
 

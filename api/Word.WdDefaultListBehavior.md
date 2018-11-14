@@ -1,5 +1,5 @@
 ---
-title: WdDefaultListBehavior Enumeration (Word)
+title: WdDefaultListBehavior enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDefaultListBehavior
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDefaultListBehavior Enumeration (Word)
+# WdDefaultListBehavior enumeration (Word)
 
 Specifies the default list behavior for a list.
 

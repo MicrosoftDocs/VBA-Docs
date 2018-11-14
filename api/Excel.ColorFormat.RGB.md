@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.RGB Property (Excel)
+title: ColorFormat.RGB property (Excel)
 keywords: vbaxl10.chm105002
 f1_keywords:
 - vbaxl10.chm105002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.RGB Property (Excel)
+# ColorFormat.RGB property (Excel)
 
 Returns or sets a  **Long** value that represents the red-green-blue value of the specified color.
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.IncludeLabel Property (Word)
+title: TableOfFigures.IncludeLabel property (Word)
 keywords: vbawd10.chm153157634
 f1_keywords:
 - vbawd10.chm153157634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.IncludeLabel Property (Word)
+# TableOfFigures.IncludeLabel property (Word)
 
  **True** if the caption label and caption number are included in a table of figures. Read/write **Boolean** .
 

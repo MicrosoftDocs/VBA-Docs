@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Item Method (Word)
+title: ChartGroups.Item method (Word)
 keywords: vbawd10.chm77004800
 f1_keywords:
 - vbawd10.chm77004800
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups.Item Method (Word)
+# ChartGroups.Item method (Word)
 
 Returns a single object from a collection.
 

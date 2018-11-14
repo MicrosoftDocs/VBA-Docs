@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Line Property (Word)
+title: InlineShape.Line property (Word)
 keywords: vbawd10.chm162005104
 f1_keywords:
 - vbawd10.chm162005104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Line Property (Word)
+# InlineShape.Line property (Word)
 
 Returns a  **LineFormat** object that contains line formatting properties for the specified shape. Read-only.
 

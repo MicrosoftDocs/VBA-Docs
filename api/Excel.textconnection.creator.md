@@ -1,5 +1,5 @@
 ---
-title: TextConnection.Creator Property (Excel)
+title: TextConnection.Creator property (Excel)
 keywords: vbaxl10.chm925074
 f1_keywords:
 - vbaxl10.chm925074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.Creator Property (Excel)
+# TextConnection.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [TextConnection Object (Excel)](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection object (Excel)](Excel.textconnection.md) object.
 
 
 ## Remarks

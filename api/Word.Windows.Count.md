@@ -1,5 +1,5 @@
 ---
-title: Windows.Count Property (Word)
+title: Windows.Count property (Word)
 keywords: vbawd10.chm157351938
 f1_keywords:
 - vbawd10.chm157351938
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Count Property (Word)
+# Windows.Count property (Word)
 
 Returns a  **Long** that represents the number of windows in the collection. Read-only.
 

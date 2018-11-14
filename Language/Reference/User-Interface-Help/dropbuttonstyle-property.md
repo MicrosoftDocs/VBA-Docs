@@ -23,7 +23,7 @@ _object_. **DropButtonStyle** [= _fmDropButtonStyle_ ]
 The  **DropButtonStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmDropButtonStyle_|Optional. The appearance of the drop button.|
@@ -32,7 +32,7 @@ The  **DropButtonStyle** property syntax has these parts:
 The settings for  _fmDropButtonStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDropButtonStylePlain_|0|Displays a plain button, with no symbol.|
 | _fmDropButtonStyleArrow_|1|Displays a down arrow (default).|

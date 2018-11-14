@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ClearArrows Method (Excel)
+title: Worksheet.ClearArrows method (Excel)
 keywords: vbaxl10.chm175085
 f1_keywords:
 - vbaxl10.chm175085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ClearArrows Method (Excel)
+# Worksheet.ClearArrows method (Excel)
 
 Clears the tracer arrows from the worksheet. Tracer arrows are added by using the auditing feature.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.MoveUp Method (Word)
+title: ContentControlListEntry.MoveUp method (Word)
 keywords: vbawd10.chm147456107
 f1_keywords:
 - vbawd10.chm147456107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.MoveUp Method (Word)
+# ContentControlListEntry.MoveUp method (Word)
 
 Moves an item in a drop-down list or combo box content control up one item, so that it is before the item that originally preceded it.
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Shadow Property (Excel)
+title: AxisTitle.Shadow property (Excel)
 keywords: vbaxl10.chm565084
 f1_keywords:
 - vbaxl10.chm565084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Shadow Property (Excel)
+# AxisTitle.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToMillimeters Method (Word)
+title: Application.PointsToMillimeters method (Word)
 keywords: vbawd10.chm158335358
 f1_keywords:
 - vbawd10.chm158335358
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PointsToMillimeters Method (Word)
+# Application.PointsToMillimeters method (Word)
 
 Converts a measurement from points to millimeters (1 millimeter = 2.835 points). Returns the converted measurement as a  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdDocumentType Enumeration (Word)
+title: WdDocumentType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDocumentType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDocumentType Enumeration (Word)
+# WdDocumentType enumeration (Word)
 
 Specifies a document type.
 

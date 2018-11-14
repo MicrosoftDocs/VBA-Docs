@@ -1,5 +1,5 @@
 ---
-title: WdEditionType Enumeration (Word)
+title: WdEditionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEditionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEditionType Enumeration (Word)
+# WdEditionType enumeration (Word)
 
 This enumeration has been deprecated and should not be used.
 

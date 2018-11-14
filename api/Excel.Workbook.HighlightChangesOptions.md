@@ -1,5 +1,5 @@
 ---
-title: Workbook.HighlightChangesOptions Method (Excel)
+title: Workbook.HighlightChangesOptions method (Excel)
 keywords: vbaxl10.chm199172
 f1_keywords:
 - vbaxl10.chm199172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.HighlightChangesOptions Method (Excel)
+# Workbook.HighlightChangesOptions method (Excel)
 
 Controls how changes are shown in a shared workbook.
 
@@ -29,7 +29,7 @@ Controls how changes are shown in a shared workbook.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _When_|Optional| **Variant**|The changes that are shown. Can be one of the following  **[XlHighlightChangesTime](Excel.XlHighlightChangesTime.md)** constants: **xlSinceMyLastSave** , **xlAllChanges** , or **xlNotYetReviewed** .|
+| _When_|Optional| **Variant**|The changes that are shown. Can be one of the following  **[xlHighlightChangesTime](Excel.XlHighlightChangesTime.md)** constants: **xlSinceMyLastSave** , **xlAllChanges** , or **xlNotYetReviewed** .|
 | _Who_|Optional| **Variant**|The user or users whose changes are shown. Can be "Everyone," "Everyone but Me," or the name of one of the users of the shared workbook.|
 | _Where_|Optional| **Variant**|An A1-style range reference that specifies the area to check for changes.|
 

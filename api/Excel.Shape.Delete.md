@@ -1,5 +1,5 @@
 ---
-title: Shape.Delete Method (Excel)
+title: Shape.Delete method (Excel)
 keywords: vbaxl10.chm636075
 f1_keywords:
 - vbaxl10.chm636075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Delete Method (Excel)
+# Shape.Delete method (Excel)
 
 Deletes the object.
 

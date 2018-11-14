@@ -1,5 +1,5 @@
 ---
-title: Sheets.Parent Property (Excel)
+title: Sheets.Parent property (Excel)
 keywords: vbaxl10.chm151075
 f1_keywords:
 - vbaxl10.chm151075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Parent Property (Excel)
+# Sheets.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

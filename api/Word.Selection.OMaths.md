@@ -1,5 +1,5 @@
 ---
-title: Selection.OMaths Property (Word)
+title: Selection.OMaths property (Word)
 keywords: vbawd10.chm158662972
 f1_keywords:
 - vbawd10.chm158662972
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.OMaths Property (Word)
+# Selection.OMaths property (Word)
 
 Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath](Word.OMath.md)** objects within the current selection. Read-only.
 

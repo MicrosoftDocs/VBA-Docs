@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.NextCitation Method (Word)
+title: TablesOfAuthorities.NextCitation method (Word)
 keywords: vbawd10.chm152174695
 f1_keywords:
 - vbawd10.chm152174695
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.NextCitation Method (Word)
+# TablesOfAuthorities.NextCitation method (Word)
 
 Finds and selects the next instance of the text specified by the ShortCitation parameter.
 

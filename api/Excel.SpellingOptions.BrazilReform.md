@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.BrazilReform Property (Excel)
+title: SpellingOptions.BrazilReform property (Excel)
 keywords: vbaxl10.chm717091
 f1_keywords:
 - vbaxl10.chm717091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.BrazilReform Property (Excel)
+# SpellingOptions.BrazilReform property (Excel)
 
 Returns or sets the mode for checking the spelling of Brazilian Portuguese. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the mode for checking the spelling of Brazilian Portuguese. Read
 
 ## Return value
 
- **[XlPortugueseReform](Excel.XlPortugueseReform.md)**
+ **[xlPortugueseReform](Excel.XlPortugueseReform.md)**
 
 
 ## Remarks

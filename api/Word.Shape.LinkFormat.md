@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (Word)
+title: Shape.LinkFormat property (Word)
 keywords: vbawd10.chm161481206
 f1_keywords:
 - vbawd10.chm161481206
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.LinkFormat Property (Word)
+# Shape.LinkFormat property (Word)
 
 Returns a  **LinkFormat** object that represents the link options of a shape that is linked to a file. Read/only.
 

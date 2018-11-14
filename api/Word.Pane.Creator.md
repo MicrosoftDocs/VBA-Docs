@@ -1,5 +1,5 @@
 ---
-title: Pane.Creator Property (Word)
+title: Pane.Creator property (Word)
 keywords: vbawd10.chm157287401
 f1_keywords:
 - vbawd10.chm157287401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Creator Property (Word)
+# Pane.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Application Property (Word)
+title: InlineShapes.Application property (Word)
 keywords: vbawd10.chm162071528
 f1_keywords:
 - vbawd10.chm162071528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.Application Property (Word)
+# InlineShapes.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

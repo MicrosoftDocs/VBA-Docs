@@ -1,5 +1,5 @@
 ---
-title: Frame.VerticalDistanceFromText Property (Word)
+title: Frame.VerticalDistanceFromText property (Word)
 keywords: vbawd10.chm153747465
 f1_keywords:
 - vbawd10.chm153747465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.VerticalDistanceFromText Property (Word)
+# Frame.VerticalDistanceFromText property (Word)
 
 Returns or sets the vertical distance (in points) between a frame and the surrounding text. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultTray Property (Word)
+title: Options.DefaultTray property (Word)
 keywords: vbawd10.chm162988071
 f1_keywords:
 - vbawd10.chm162988071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultTray Property (Word)
+# Options.DefaultTray property (Word)
 
 Returns or sets the default tray your printer uses to print documents. Read/write  **String** .
 

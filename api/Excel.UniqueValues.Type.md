@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Type Property (Excel)
+title: UniqueValues.Type property (Excel)
 keywords: vbaxl10.chm826080
 f1_keywords:
 - vbaxl10.chm826080
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Type Property (Excel)
+# UniqueValues.Type property (Excel)
 
-Returns one of the constants of the  **[XlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
+Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatConditionType.md)** enumeration, which specifies the type of conditional format. Read-only.
 
 
 ## Syntax

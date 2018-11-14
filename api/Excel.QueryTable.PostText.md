@@ -1,5 +1,5 @@
 ---
-title: QueryTable.PostText Property (Excel)
+title: QueryTable.PostText property (Excel)
 keywords: vbaxl10.chm518089
 f1_keywords:
 - vbaxl10.chm518089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.PostText Property (Excel)
+# QueryTable.PostText property (Excel)
 
 Returns or sets the string used with the post method of inputting data into a Web server to return data from a Web query. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFormat Method (Word)
+title: Table.AutoFormat method (Word)
 keywords: vbawd10.chm156303374
 f1_keywords:
 - vbawd10.chm156303374
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.AutoFormat Method (Word)
+# Table.AutoFormat method (Word)
 
 Applies a predefined look to a table.
 

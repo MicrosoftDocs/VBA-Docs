@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeApplyTables property (Word)
 keywords: vbawd10.chm165347618
 f1_keywords:
 - vbawd10.chm165347618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeApplyTables Property (Word)
+# EmailOptions.AutoFormatAsYouTypeApplyTables property (Word)
 
  **True** if Word automatically creates a table when you type a plus sign, a series of hyphens, another plus sign, and so on, and then press ENTER. Read/write **Boolean** .
 

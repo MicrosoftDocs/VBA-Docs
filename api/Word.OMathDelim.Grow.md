@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.Grow Property (Word)
+title: OMathDelim.Grow property (Word)
 keywords: vbawd10.chm145096811
 f1_keywords:
 - vbawd10.chm145096811
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.Grow Property (Word)
+# OMathDelim.Grow property (Word)
 
 Returns or sets a  **Boolean** that represents whether delimiter characters grow to the full height of the arguments that they contain. Read/write.
 

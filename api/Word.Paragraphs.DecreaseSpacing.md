@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.DecreaseSpacing Method (Word)
+title: Paragraphs.DecreaseSpacing method (Word)
 keywords: vbawd10.chm156762448
 f1_keywords:
 - vbawd10.chm156762448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.DecreaseSpacing Method (Word)
+# Paragraphs.DecreaseSpacing method (Word)
 
 Decreases the spacing before and after paragraphs in six-point increments.
 

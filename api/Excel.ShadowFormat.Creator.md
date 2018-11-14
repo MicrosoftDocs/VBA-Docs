@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Creator Property (Excel)
+title: ShadowFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Creator Property (Excel)
+# ShadowFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

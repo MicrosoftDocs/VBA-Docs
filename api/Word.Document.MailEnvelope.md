@@ -1,5 +1,5 @@
 ---
-title: Document.MailEnvelope Property (Word)
+title: Document.MailEnvelope property (Word)
 keywords: vbawd10.chm158007632
 f1_keywords:
 - vbawd10.chm158007632
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.MailEnvelope Property (Word)
+# Document.MailEnvelope property (Word)
 
-Returns an  **MsoEnvelope** object that represents an e-mail header for a document.
+Returns an  **MsoEnvelope** object that represents an email header for a document.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **MsoEnvelope** object that represents an e-mail header for a docume
 
 ## Example
 
-This example sets the comments for the e-mail header of the active document.
+This example sets the comments for the email header of the active document.
 
 
 ```vb

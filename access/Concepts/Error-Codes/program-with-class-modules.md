@@ -34,7 +34,7 @@ abc.ListNames
 
 When you open a form in Form view, whether from the user interface or from Visual Basic, you create an instance of that form's class module. In other words, you designate space in memory where the object now exists, and you can then call its methods and set or return its properties from code, as you would for any built-in object. The same is true when you open a report in Print Preview.
 
-When you refer to a form in Visual Basic code, you're usually working with the default instance of the form's class. A form's class has only one default instance. You can also create multiple instances of the same form's class from Visual Basic. When you create multiple instances of a form's class, you create nondefault instances.
+When you refer to a form in Visual Basic code, you are usually working with the default instance of the form's class. A form's class has only one default instance. You can also create multiple instances of the same form's class from Visual Basic. When you create multiple instances of a form's class, you create nondefault instances.
 
 There are four ways to create the default instance of a form. You can open an existing form by using the user interface, by executing the **[OpenForm](../../../api/Access.DoCmd.OpenForm.md)** method of the **[DoCmd](../../../api/Access.DoCmd.md)** object, by calling the **[CreateForm](../../../api/Access.Application.CreateForm.md)** method and switching the new form into Form view, or by using Visual Basic to create a variable of type **Form** to refer to the default instance. The following example opens an Employees form and points a **Form** object variable to it:
 

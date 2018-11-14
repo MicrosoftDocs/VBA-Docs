@@ -1,5 +1,5 @@
 ---
-title: Floor.Name Property (Excel)
+title: Floor.Name property (Excel)
 keywords: vbaxl10.chm612074
 f1_keywords:
 - vbaxl10.chm612074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Floor.Name Property (Excel)
+# Floor.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

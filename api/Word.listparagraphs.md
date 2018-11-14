@@ -1,12 +1,12 @@
 ---
-title: ListParagraphs Object (Word)
+title: ListParagraphs object (Word)
 ms.prod: word
 ms.assetid: 759c510b-bca1-0b4b-005c-5a3783dd8e96
 ms.date: 06/08/2017
 ---
 
 
-# ListParagraphs Object (Word)
+# ListParagraphs object (Word)
 
 A collection of  **Paragraph** objects that represents the paragraphs of the specified document, list, or range that have list formatting applied.
 

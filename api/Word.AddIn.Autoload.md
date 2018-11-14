@@ -1,5 +1,5 @@
 ---
-title: AddIn.Autoload Property (Word)
+title: AddIn.Autoload property (Word)
 keywords: vbawd10.chm159252486
 f1_keywords:
 - vbawd10.chm159252486
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Autoload Property (Word)
+# AddIn.Autoload property (Word)
 
  **True** if the specified add-in is automatically loaded when Word is started. Add-ins located in the Startup folder in the Word program folder are automatically loaded. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Cells.SetWidth Method (Word)
+title: Cells.SetWidth method (Word)
 keywords: vbawd10.chm155844810
 f1_keywords:
 - vbawd10.chm155844810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.SetWidth Method (Word)
+# Cells.SetWidth method (Word)
 
 Sets the width of columns or cells in a table.
 

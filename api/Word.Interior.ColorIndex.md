@@ -1,5 +1,5 @@
 ---
-title: Interior.ColorIndex Property (Word)
+title: Interior.ColorIndex property (Word)
 keywords: vbawd10.chm2818050
 f1_keywords:
 - vbawd10.chm2818050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.ColorIndex Property (Word)
+# Interior.ColorIndex property (Word)
 
 Returns or sets the color of the interior. Read/write  **Variant** .
 
@@ -25,7 +25,7 @@ Returns or sets the color of the interior. Read/write  **Variant** .
 
 ## Remarks
 
-The color is specified as an index value into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants:
+The color is specified as an index value into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants:
 
 
 -  **xlColorIndexAutomatic**

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayImmediateItems Property (Excel)
+title: PivotTable.DisplayImmediateItems property (Excel)
 keywords: vbaxl10.chm235146
 f1_keywords:
 - vbaxl10.chm235146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayImmediateItems Property (Excel)
+# PivotTable.DisplayImmediateItems property (Excel)
 
 Returns or sets a  **Boolean** that indicates whether items in the row and column areas are visible when the data area of the PivotTable is empty. Set this property to **False** to hide the items in the row and column areas when the data area of the PivotTable is empty. The default value is **True** .
 

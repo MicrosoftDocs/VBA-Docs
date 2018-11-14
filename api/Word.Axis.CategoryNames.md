@@ -1,5 +1,5 @@
 ---
-title: Axis.CategoryNames Property (Word)
+title: Axis.CategoryNames property (Word)
 keywords: vbawd10.chm113049604
 f1_keywords:
 - vbawd10.chm113049604
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.CategoryNames Property (Word)
+# Axis.CategoryNames property (Word)
 
 Returns or sets all the category names as a text array for the specified axis. Read/write  **Variant** .
 

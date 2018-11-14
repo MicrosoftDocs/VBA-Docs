@@ -1,12 +1,12 @@
 ---
-title: XlAxisCrosses Enumeration (Word)
+title: xlAxisCrosses enumeration (Word)
 ms.prod: word
 ms.assetid: 614181e7-483a-8742-c27b-31b598528e17
 ms.date: 06/08/2017
 ---
 
 
-# XlAxisCrosses Enumeration (Word)
+# xlAxisCrosses enumeration (Word)
 
 Specifies the point on the specified axis where the other axis crosses.
 

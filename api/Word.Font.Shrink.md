@@ -1,5 +1,5 @@
 ---
-title: Font.Shrink Method (Word)
+title: Font.Shrink method (Word)
 keywords: vbawd10.chm156368997
 f1_keywords:
 - vbawd10.chm156368997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Shrink Method (Word)
+# Font.Shrink method (Word)
 
 Decreases the font size to the next available size.
 

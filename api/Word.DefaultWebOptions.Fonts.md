@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.Fonts Property (Word)
+title: DefaultWebOptions.Fonts property (Word)
 keywords: vbawd10.chm165871631
 f1_keywords:
 - vbawd10.chm165871631
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.Fonts Property (Word)
+# DefaultWebOptions.Fonts property (Word)
 
 Returns the  **WebPageFonts** collection representing the set of fonts that Microsoft Word uses when you open a Web page in Word.
 

@@ -1,5 +1,5 @@
 ---
-title: Legend.IncludeInLayout Property (Excel)
+title: Legend.IncludeInLayout property (Excel)
 keywords: vbaxl10.chm622090
 f1_keywords:
 - vbaxl10.chm622090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.IncludeInLayout Property (Excel)
+# Legend.IncludeInLayout property (Excel)
 
  **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default value is **True** . Read/write **Boolean** .
 

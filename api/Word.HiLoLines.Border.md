@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Border Property (Word)
+title: HiLoLines.Border property (Word)
 keywords: vbawd10.chm235995139
 f1_keywords:
 - vbawd10.chm235995139
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Border Property (Word)
+# HiLoLines.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

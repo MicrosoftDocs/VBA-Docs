@@ -20,7 +20,7 @@ Exports a chart in a graphic file format.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstr_|Required|**String**|The path and name of the exported file.|
 | _varFilterName_|Optional|**Variant**|The language-independent name of the graphic filter as it appears in the registry ( `HKLM\\SOFTWARE\Wow6432Node\Microsoft\Shared Tools\Graphics Filters`).|

@@ -1,5 +1,5 @@
 ---
-title: Window.Type Property (Word)
+title: Window.Type property (Word)
 keywords: vbawd10.chm157417487
 f1_keywords:
 - vbawd10.chm157417487
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Type Property (Word)
+# Window.Type property (Word)
 
 Returns the window type. Read-only  **[WdWindowType](Word.WdWindowType.md)** .
 

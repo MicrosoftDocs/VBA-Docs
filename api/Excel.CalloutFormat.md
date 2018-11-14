@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat Object (Excel)
+title: CalloutFormat object (Excel)
 keywords: vbaxl10.chm104000
 f1_keywords:
 - vbaxl10.chm104000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat Object (Excel)
+# CalloutFormat object (Excel)
 
 Contains properties and methods that apply to line callouts.
 

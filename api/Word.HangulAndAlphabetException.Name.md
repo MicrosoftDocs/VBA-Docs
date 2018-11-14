@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetException.Name Property (Word)
+title: HangulAndAlphabetException.Name property (Word)
 keywords: vbawd10.chm164757506
 f1_keywords:
 - vbawd10.chm164757506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetException.Name Property (Word)
+# HangulAndAlphabetException.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

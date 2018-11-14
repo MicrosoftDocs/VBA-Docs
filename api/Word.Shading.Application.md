@@ -1,5 +1,5 @@
 ---
-title: Shading.Application Property (Word)
+title: Shading.Application property (Word)
 keywords: vbawd10.chm154797032
 f1_keywords:
 - vbawd10.chm154797032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.Application Property (Word)
+# Shading.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

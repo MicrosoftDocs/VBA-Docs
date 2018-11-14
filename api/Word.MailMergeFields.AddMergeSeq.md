@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddMergeSeq Method (Word)
+title: MailMergeFields.AddMergeSeq method (Word)
 keywords: vbawd10.chm153026666
 f1_keywords:
 - vbawd10.chm153026666
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddMergeSeq Method (Word)
+# MailMergeFields.AddMergeSeq method (Word)
 
 Adds a MERGESEQ field to a mail merge main document. Returns a  **MailMergeField** object.
 

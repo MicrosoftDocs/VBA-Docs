@@ -1,5 +1,5 @@
 ---
-title: Application.Build Property (Excel)
+title: Application.Build property (Excel)
 keywords: vbaxl10.chm133082
 f1_keywords:
 - vbaxl10.chm133082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Build Property (Excel)
+# Application.Build property (Excel)
 
 Returns the Microsoft Excel build number. Read-only  **Long** .
 
@@ -25,7 +25,7 @@ Returns the Microsoft Excel build number. Read-only  **Long** .
 
 ## Remarks
 
-It's usually safer to test the  **[Version](Excel.Application.Version.md)** property, unless you're sure you need to know the build number.
+It's usually safer to test the  **[Version](Excel.Application.Version.md)** property, unless you are sure you need to know the build number.
 
 
 ## Example

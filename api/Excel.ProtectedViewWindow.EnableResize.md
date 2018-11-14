@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.EnableResize Property (Excel)
+title: ProtectedViewWindow.EnableResize property (Excel)
 keywords: vbaxl10.chm914075
 f1_keywords:
 - vbaxl10.chm914075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.EnableResize Property (Excel)
+# ProtectedViewWindow.EnableResize property (Excel)
 
  **True** if the **Protected View** window can be resized. Read/write
 

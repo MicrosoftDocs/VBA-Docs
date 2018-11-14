@@ -1,5 +1,5 @@
 ---
-title: Range.ListHeaderRows Property (Excel)
+title: Range.ListHeaderRows property (Excel)
 keywords: vbaxl10.chm144154
 f1_keywords:
 - vbaxl10.chm144154
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ListHeaderRows Property (Excel)
+# Range.ListHeaderRows property (Excel)
 
 Returns the number of header rows for the specified range. Read-only  **Long** .
 

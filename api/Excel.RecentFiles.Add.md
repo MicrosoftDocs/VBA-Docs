@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Add Method (Excel)
+title: RecentFiles.Add method (Excel)
 keywords: vbaxl10.chm172077
 f1_keywords:
 - vbaxl10.chm172077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Add Method (Excel)
+# RecentFiles.Add method (Excel)
 
 Adds a file to the list of recently used files.
 

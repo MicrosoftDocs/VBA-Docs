@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.EnableRefresh Property (Excel)
+title: ODBCConnection.EnableRefresh property (Excel)
 keywords: vbaxl10.chm796078
 f1_keywords:
 - vbaxl10.chm796078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.EnableRefresh Property (Excel)
+# ODBCConnection.EnableRefresh property (Excel)
 
  **True** if the connection can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
 

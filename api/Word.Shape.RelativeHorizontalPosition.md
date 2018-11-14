@@ -1,5 +1,5 @@
 ---
-title: Shape.RelativeHorizontalPosition Property (Word)
+title: Shape.RelativeHorizontalPosition property (Word)
 keywords: vbawd10.chm161481004
 f1_keywords:
 - vbawd10.chm161481004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.RelativeHorizontalPosition Property (Word)
+# Shape.RelativeHorizontalPosition property (Word)
 
 Specifies to the relative horizontal position of a shape. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
 

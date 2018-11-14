@@ -1,5 +1,5 @@
 ---
-title: LineFormat.ForeColor Property (Excel)
+title: LineFormat.ForeColor property (Excel)
 keywords: vbaxl10.chm110010
 f1_keywords:
 - vbaxl10.chm110010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.ForeColor Property (Excel)
+# LineFormat.ForeColor property (Excel)
 
 Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the specified foreground fill or solid color.
 

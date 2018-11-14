@@ -1,5 +1,5 @@
 ---
-title: DownBars.Parent Property (Excel)
+title: DownBars.Parent property (Excel)
 keywords: vbaxl10.chm610073
 f1_keywords:
 - vbaxl10.chm610073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Parent Property (Excel)
+# DownBars.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

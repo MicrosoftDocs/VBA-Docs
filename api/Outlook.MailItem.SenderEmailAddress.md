@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.SenderEmailAddress Property (Outlook)
 
-Returns a  **String** that represents the e-mail address of the sender of the Outlook item. Read-only.
+Returns a  **String** that represents the email address of the sender of the Outlook item. Read-only.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the  **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender e-mail address in the Test folder.
+The following Microsoft Visual Basic for Applications (VBA) example loops all items in a folder named Test in the  **Inbox** and sets the yellow flag on items sent by 'someone@example.com'. To run this example without errors, make sure the Test folder exists in the default **Inbox** folder and replace 'someone@example.com' with a valid sender email address in the Test folder.
 
 
 ```vb

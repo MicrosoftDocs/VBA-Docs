@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Workbook Property (Excel)
+title: ProtectedViewWindow.Workbook property (Excel)
 keywords: vbaxl10.chm914084
 f1_keywords:
 - vbaxl10.chm914084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Workbook Property (Excel)
+# ProtectedViewWindow.Workbook property (Excel)
 
 Returns an object that represents the workbook that is open in the specified  **Protected View** window. Read-only
 

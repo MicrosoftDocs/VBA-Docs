@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorUnitIsAuto Property (Excel)
+title: Axis.MajorUnitIsAuto property (Excel)
 keywords: vbaxl10.chm561087
 f1_keywords:
 - vbaxl10.chm561087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorUnitIsAuto Property (Excel)
+# Axis.MajorUnitIsAuto property (Excel)
 
  **True** if Microsoft Excel calculates the major units for the value axis. Read/write **Boolean** .
 

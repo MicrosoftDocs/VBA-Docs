@@ -1,5 +1,5 @@
 ---
-title: PivotCaches.Item Method (Excel)
+title: PivotCaches.Item method (Excel)
 keywords: vbaxl10.chm229074
 f1_keywords:
 - vbaxl10.chm229074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCaches.Item Method (Excel)
+# PivotCaches.Item method (Excel)
 
 Returns a single object from a collection.
 

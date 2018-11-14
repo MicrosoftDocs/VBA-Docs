@@ -1,5 +1,5 @@
 ---
-title: Chart.DepthPercent Property (Word)
+title: Chart.DepthPercent property (Word)
 keywords: vbawd10.chm79364100
 f1_keywords:
 - vbawd10.chm79364100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.DepthPercent Property (Word)
+# Chart.DepthPercent property (Word)
 
 Returns or sets the depth of a 3-D chart as a percentage of the chart width (between 20 and 2000 percent). Read/write  **Long** .
 

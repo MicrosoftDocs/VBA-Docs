@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.Alias Property (Word)
+title: XMLNamespace.Alias property (Word)
 keywords: vbawd10.chm2293764
 f1_keywords:
 - vbawd10.chm2293764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.Alias Property (Word)
+# XMLNamespace.Alias property (Word)
 
 Returns a  **String** that represents the display name for the specified object.
 

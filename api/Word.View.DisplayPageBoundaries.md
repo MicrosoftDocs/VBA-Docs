@@ -1,5 +1,5 @@
 ---
-title: View.DisplayPageBoundaries Property (Word)
+title: View.DisplayPageBoundaries property (Word)
 keywords: vbawd10.chm161808416
 f1_keywords:
 - vbawd10.chm161808416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.DisplayPageBoundaries Property (Word)
+# View.DisplayPageBoundaries property (Word)
 
  **True** to display the top and bottom margins (white space) and the gray area (gray space) between pages in a document. Read/write **Boolean** .
 

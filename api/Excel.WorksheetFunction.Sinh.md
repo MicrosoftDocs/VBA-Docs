@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Sinh Method (Excel)
+title: WorksheetFunction.Sinh method (Excel)
 keywords: vbaxl10.chm137164
 f1_keywords:
 - vbaxl10.chm137164
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Sinh Method (Excel)
+# WorksheetFunction.Sinh method (Excel)
 
 Returns the hyperbolic sine of a number.
 

@@ -1,5 +1,5 @@
 ﻿---
-title: Name Object (Excel)
+title: Name object (Excel)
 keywords: vbaxl10.chm489072
 f1_keywords:
 - vbaxl10.chm489072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name Object (Excel)
+# Name object (Excel)
 
 Represents a defined name for a range of cells. Names can be either built-in names — such as Database, Print_Area, and Auto_Open — or custom names.
 

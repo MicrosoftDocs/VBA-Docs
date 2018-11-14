@@ -1,5 +1,5 @@
 ---
-title: Chart.PlotVisibleOnly Property (Word)
+title: Chart.PlotVisibleOnly property (Word)
 ms.prod: word
 api_name:
 - Word.Chart.PlotVisibleOnly
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.PlotVisibleOnly Property (Word)
+# Chart.PlotVisibleOnly property (Word)
 
  **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean** .
 

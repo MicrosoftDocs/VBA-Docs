@@ -1,5 +1,5 @@
 ---
-title: Document.Reload Method (Word)
+title: Document.Reload method (Word)
 keywords: vbawd10.chm158007433
 f1_keywords:
 - vbawd10.chm158007433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Reload Method (Word)
+# Document.Reload method (Word)
 
 Reloads a cached document by resolving the hyperlink to the document and downloading it.
 

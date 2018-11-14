@@ -1,5 +1,5 @@
 ---
-title: Pane.SmallScroll Method (Word)
+title: Pane.SmallScroll method (Word)
 keywords: vbawd10.chm157286503
 f1_keywords:
 - vbawd10.chm157286503
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.SmallScroll Method (Word)
+# Pane.SmallScroll method (Word)
 
 Scrolls a window by the specified number of lines.
 

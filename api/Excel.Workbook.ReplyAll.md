@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReplyAll Method (Excel)
+title: Workbook.ReplyAll method (Excel)
 keywords: vbaxl10.chm199137
 f1_keywords:
 - vbaxl10.chm199137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ReplyAll Method (Excel)
+# Workbook.ReplyAll method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

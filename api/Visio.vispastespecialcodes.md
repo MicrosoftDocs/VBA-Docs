@@ -15,7 +15,7 @@ Format codes passed to the  **PasteSpecial** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPasteBitmap**|2|Paste bitmap.|
 | **visPasteDIB**|8|Paste device-independent bitmap.|

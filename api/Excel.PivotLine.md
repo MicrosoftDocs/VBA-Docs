@@ -1,5 +1,5 @@
 ---
-title: PivotLine Object (Excel)
+title: PivotLine object (Excel)
 keywords: vbaxl10.chm763072
 f1_keywords:
 - vbaxl10.chm763072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotLine Object (Excel)
+# PivotLine object (Excel)
 
 A  **PivotLine** object is a line of rows or columns in an Excel PivotTable.
 

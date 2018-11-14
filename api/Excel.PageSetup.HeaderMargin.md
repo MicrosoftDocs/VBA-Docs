@@ -1,5 +1,5 @@
 ---
-title: PageSetup.HeaderMargin Property (Excel)
+title: PageSetup.HeaderMargin property (Excel)
 keywords: vbaxl10.chm473085
 f1_keywords:
 - vbaxl10.chm473085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.HeaderMargin Property (Excel)
+# PageSetup.HeaderMargin property (Excel)
 
 Returns or sets the distance from the top of the page to the header, in points. Read/write  **Double** .
 

@@ -1,5 +1,5 @@
 ---
-title: AutoFilter.ApplyFilter Method (Excel)
+title: AutoFilter.ApplyFilter method (Excel)
 keywords: vbaxl10.chm538077
 f1_keywords:
 - vbaxl10.chm538077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter.ApplyFilter Method (Excel)
+# AutoFilter.ApplyFilter method (Excel)
 
 Applies the specified  **Autofilter** object.
 

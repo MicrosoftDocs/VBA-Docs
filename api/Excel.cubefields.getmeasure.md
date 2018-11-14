@@ -1,5 +1,5 @@
 ---
-title: CubeFields.GetMeasure Method (Excel)
+title: CubeFields.GetMeasure method (Excel)
 keywords: vbaxl10.chm670078
 f1_keywords:
 - vbaxl10.chm670078
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeFields.GetMeasure Method (Excel)
+# CubeFields.GetMeasure method (Excel)
 
-Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an ?implicit measure? does not exist, a new implicit measure is created and added to the [CubeFields Object (Excel)](Excel.CubeFields.md) collection.
+Given an attribute hierarchy, returns an implicit measure for the given function that corresponds to this attribute. If an ?implicit measure? does not exist, a new implicit measure is created and added to the [CubeFields object (Excel)](Excel.CubeFields.md) collection.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AttributeHierarchy_|Required|VARIANT|The unique cube field that is an attribute hierarchy (XlCubeFieldType = xlHierarchy and XlCubeFieldSubType = xlCubeAttribute).|
 | _Function_|Required|XLCONSOLIDATIONFUNCTION|The function performed in the added data field.|

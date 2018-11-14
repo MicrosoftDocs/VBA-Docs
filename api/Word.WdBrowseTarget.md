@@ -1,5 +1,5 @@
 ---
-title: WdBrowseTarget Enumeration (Word)
+title: WdBrowseTarget enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBrowseTarget
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBrowseTarget Enumeration (Word)
+# WdBrowseTarget enumeration (Word)
 
 Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Previous](Word.Browser.Previous.md)** method locates, and places the insertion point before the next or previous instance of the item.
 

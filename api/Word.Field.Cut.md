@@ -1,5 +1,5 @@
 ---
-title: Field.Cut Method (Word)
+title: Field.Cut method (Word)
 keywords: vbawd10.chm154075242
 f1_keywords:
 - vbawd10.chm154075242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Cut Method (Word)
+# Field.Cut method (Word)
 
 Removes the specified field from the document and places it on the Clipboard.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IfNa Method (Excel)
+title: WorksheetFunction.IfNa method (Excel)
 keywords: vbaxl10.chm137460
 f1_keywords:
 - vbaxl10.chm137460
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IfNa Method (Excel)
+# WorksheetFunction.IfNa method (Excel)
 
 Returns the value you specify if the expression resolves to #N/A, otherwise returns the result of the expression.
 
@@ -18,14 +18,14 @@ Returns the value you specify if the expression resolves to #N/A, otherwise retu
 
  _expression_. `IfNa`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|VARIANT|value: Any value or expression or reference.|
 | _Arg2_|Required|VARIANT|value_if_na: Any value or expression or reference.|

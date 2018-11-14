@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Item Method (Excel)
+title: OLEObjects.Item method (Excel)
 keywords: vbaxl10.chm422090
 f1_keywords:
 - vbaxl10.chm422090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Item Method (Excel)
+# OLEObjects.Item method (Excel)
 
 Returns a single object from a collection.
 

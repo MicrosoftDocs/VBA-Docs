@@ -1,5 +1,5 @@
 ---
-title: Range.Select Method (Word)
+title: Range.Select method (Word)
 keywords: vbawd10.chm157220863
 f1_keywords:
 - vbawd10.chm157220863
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Select Method (Word)
+# Range.Select method (Word)
 
 Selects the specified range.
 

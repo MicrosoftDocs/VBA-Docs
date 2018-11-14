@@ -1,5 +1,5 @@
 ---
-title: Worksheet.StandardHeight Property (Excel)
+title: Worksheet.StandardHeight property (Excel)
 keywords: vbaxl10.chm175129
 f1_keywords:
 - vbaxl10.chm175129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.StandardHeight Property (Excel)
+# Worksheet.StandardHeight property (Excel)
 
 Returns the standard (default) height of all the rows in the worksheet, in points. Read-only  **Double** .
 

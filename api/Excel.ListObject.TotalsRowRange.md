@@ -1,5 +1,5 @@
 ---
-title: ListObject.TotalsRowRange Property (Excel)
+title: ListObject.TotalsRowRange property (Excel)
 keywords: vbaxl10.chm734094
 f1_keywords:
 - vbaxl10.chm734094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.TotalsRowRange Property (Excel)
+# ListObject.TotalsRowRange property (Excel)
 
  Returns a **[Range](Excel.Range(object).md)** representing the Total row, if any, from a specified **ListObject** object. Read-only.
 

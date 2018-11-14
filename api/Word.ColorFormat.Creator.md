@@ -1,5 +1,5 @@
 ---
-title: ColorFormat.Creator Property (Word)
+title: ColorFormat.Creator property (Word)
 keywords: vbawd10.chm163972073
 f1_keywords:
 - vbawd10.chm163972073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorFormat.Creator Property (Word)
+# ColorFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

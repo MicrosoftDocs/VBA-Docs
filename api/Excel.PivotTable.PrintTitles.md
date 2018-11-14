@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PrintTitles Property (Excel)
+title: PivotTable.PrintTitles property (Excel)
 keywords: vbaxl10.chm235131
 f1_keywords:
 - vbaxl10.chm235131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PrintTitles Property (Excel)
+# PivotTable.PrintTitles property (Excel)
 
  **True** if the print titles for the worksheet are set based on the PivotTable report. **False** if the print titles for the worksheet are used. The default value is **False** . Read/write **Boolean** .
 

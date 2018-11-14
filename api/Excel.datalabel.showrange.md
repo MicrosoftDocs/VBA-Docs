@@ -1,5 +1,5 @@
 ---
-title: DataLabel.ShowRange Property (Excel)
+title: DataLabel.ShowRange property (Excel)
 keywords: vbaxl10.chm582112
 f1_keywords:
 - vbaxl10.chm582112
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.ShowRange Property (Excel)
+# DataLabel.ShowRange property (Excel)
 
 Used to toggle the  **Range** field if it exists on the data label range. **Boolean** Read/Write
 

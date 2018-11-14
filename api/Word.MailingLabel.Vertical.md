@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.Vertical Property (Word)
+title: MailingLabel.Vertical property (Word)
 keywords: vbawd10.chm152502282
 f1_keywords:
 - vbawd10.chm152502282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.Vertical Property (Word)
+# MailingLabel.Vertical property (Word)
 
  **True** vertically orients text on Asian mailing labels. Read/write **Boolean** .
 

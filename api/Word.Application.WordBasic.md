@@ -1,5 +1,5 @@
 ---
-title: Application.WordBasic Property (Word)
+title: Application.WordBasic property (Word)
 keywords: vbawd10.chm158334977
 f1_keywords:
 - vbawd10.chm158334977
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.WordBasic Property (Word)
+# Application.WordBasic property (Word)
 
 Returns an automation object (WordBasic) that includes methods for all the WordBasic statements and functions available in Word version 6.0 and Word for Windows 95. Read-only.
 

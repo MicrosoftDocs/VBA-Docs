@@ -1,5 +1,5 @@
 ---
-title: CubeField.HasMemberProperties Property (Excel)
+title: CubeField.HasMemberProperties property (Excel)
 keywords: vbaxl10.chm668086
 f1_keywords:
 - vbaxl10.chm668086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.HasMemberProperties Property (Excel)
+# CubeField.HasMemberProperties property (Excel)
 
 Returns  **True** when there are member properties specified to be displayed for the cube field. Read-only **Boolean** .
 

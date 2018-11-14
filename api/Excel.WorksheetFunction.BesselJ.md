@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselJ Method (Excel)
+title: WorksheetFunction.BesselJ method (Excel)
 keywords: vbaxl10.chm137302
 f1_keywords:
 - vbaxl10.chm137302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BesselJ Method (Excel)
+# WorksheetFunction.BesselJ method (Excel)
 
 Returns the Bessel function.
 

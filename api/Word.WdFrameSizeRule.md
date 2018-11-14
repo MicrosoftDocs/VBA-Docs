@@ -1,5 +1,5 @@
 ---
-title: WdFrameSizeRule Enumeration (Word)
+title: WdFrameSizeRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFrameSizeRule
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFrameSizeRule Enumeration (Word)
+# WdFrameSizeRule enumeration (Word)
 
 Specifies how Word interprets the rule used to determine the height or width of a frame.
 

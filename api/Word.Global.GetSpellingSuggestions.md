@@ -1,5 +1,5 @@
 ---
-title: Global.GetSpellingSuggestions Method (Word)
+title: Global.GetSpellingSuggestions method (Word)
 keywords: vbawd10.chm163119431
 f1_keywords:
 - vbawd10.chm163119431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.GetSpellingSuggestions Method (Word)
+# Global.GetSpellingSuggestions method (Word)
 
 Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection that represents the words suggested as spelling replacements for a given word.
 

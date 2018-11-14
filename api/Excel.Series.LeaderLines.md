@@ -1,5 +1,5 @@
 ---
-title: Series.LeaderLines Property (Excel)
+title: Series.LeaderLines property (Excel)
 keywords: vbaxl10.chm578121
 f1_keywords:
 - vbaxl10.chm578121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.LeaderLines Property (Excel)
+# Series.LeaderLines property (Excel)
 
 Returns a  **LeaderLines** object that represents the leader lines for the series. Read-only.
 

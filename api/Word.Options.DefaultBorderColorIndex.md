@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderColorIndex Property (Word)
+title: Options.DefaultBorderColorIndex property (Word)
 keywords: vbawd10.chm162988369
 f1_keywords:
 - vbawd10.chm162988369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultBorderColorIndex Property (Word)
+# Options.DefaultBorderColorIndex property (Word)
 
 Returns or sets the default line color for borders. Read/write  **WdColorIndex** .
 

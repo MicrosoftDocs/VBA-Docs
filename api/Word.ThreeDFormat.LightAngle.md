@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.LightAngle Property (Word)
+title: ThreeDFormat.LightAngle property (Word)
 keywords: vbawd10.chm164626558
 f1_keywords:
 - vbawd10.chm164626558
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.LightAngle Property (Word)
+# ThreeDFormat.LightAngle property (Word)
 
 Returns or sets a  **Single** that represents angle of the lighting. Read/write.
 

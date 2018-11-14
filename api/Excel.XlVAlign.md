@@ -1,5 +1,5 @@
 ---
-title: XlVAlign Enumeration (Excel)
+title: xlVAlign enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlVAlign
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlVAlign Enumeration (Excel)
+# xlVAlign enumeration (Excel)
 
 Specifies the vertical alignment for the object.
 

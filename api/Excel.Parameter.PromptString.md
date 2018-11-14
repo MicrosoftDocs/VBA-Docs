@@ -1,5 +1,5 @@
 ---
-title: Parameter.PromptString Property (Excel)
+title: Parameter.PromptString property (Excel)
 keywords: vbaxl10.chm523075
 f1_keywords:
 - vbaxl10.chm523075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.PromptString Property (Excel)
+# Parameter.PromptString property (Excel)
 
 Returns the phrase that prompts the user for a parameter value in a parameter query. Read-only  **String** .
 

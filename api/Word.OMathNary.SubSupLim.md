@@ -1,5 +1,5 @@
 ---
-title: OMathNary.SubSupLim Property (Word)
+title: OMathNary.SubSupLim property (Word)
 keywords: vbawd10.chm25428076
 f1_keywords:
 - vbawd10.chm25428076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.SubSupLim Property (Word)
+# OMathNary.SubSupLim property (Word)
 
 Returns or sets a  **Boolean** that represents the positioning of n-ary limits in the subscript-superscript or upper limit-lower limit position. Read/write.
 

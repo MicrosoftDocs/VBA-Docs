@@ -1,14 +1,14 @@
 ---
-title: XlChartElementPosition Enumeration (Excel)
+title: xlChartElementPosition enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlChartElementPosition
+- Excel.xlChartElementPosition
 ms.assetid: 37de7a13-ac72-42e8-7eca-a845b84ff4a0
 ms.date: 06/08/2017
 ---
 
 
-# XlChartElementPosition Enumeration (Excel)
+# xlChartElementPosition enumeration (Excel)
 
 Specifies the position of the chart element.
 

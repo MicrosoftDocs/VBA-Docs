@@ -1,5 +1,5 @@
 ---
-title: Worksheet.EnableSelection Property (Excel)
+title: Worksheet.EnableSelection property (Excel)
 keywords: vbaxl10.chm175095
 f1_keywords:
 - vbaxl10.chm175095
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.EnableSelection Property (Excel)
+# Worksheet.EnableSelection property (Excel)
 
-Returns or sets what can be selected on the sheet. Read/write  **[XlEnableSelection](Excel.XlEnableSelection.md)** .
+Returns or sets what can be selected on the sheet. Read/write  **[xlEnableSelection](Excel.XlEnableSelection.md)** .
 
 
 ## Syntax

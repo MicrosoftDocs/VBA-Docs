@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockEntries.Count Property (Word)
+title: BuildingBlockEntries.Count property (Word)
 keywords: vbawd10.chm36241409
 f1_keywords:
 - vbawd10.chm36241409
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockEntries.Count Property (Word)
+# BuildingBlockEntries.Count property (Word)
 
 Returns the number of items in the  **BuildingBlockEntries** collection. Read-only **Long** .
 

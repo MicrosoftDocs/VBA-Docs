@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyFirstIndents Property (Word)
+title: Options.AutoFormatApplyFirstIndents property (Word)
 keywords: vbawd10.chm162988323
 f1_keywords:
 - vbawd10.chm162988323
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatApplyFirstIndents Property (Word)
+# Options.AutoFormatApplyFirstIndents property (Word)
 
  **True** if Microsoft Word replaces a space entered at the beginning of a paragraph with a first-line indent when Word formats a document or range automatically. Read/write **Boolean** .
 

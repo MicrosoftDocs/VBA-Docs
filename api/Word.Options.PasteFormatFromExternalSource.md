@@ -1,5 +1,5 @@
 ---
-title: Options.PasteFormatFromExternalSource Property (Word)
+title: Options.PasteFormatFromExternalSource property (Word)
 keywords: vbawd10.chm162988512
 f1_keywords:
 - vbawd10.chm162988512
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteFormatFromExternalSource Property (Word)
+# Options.PasteFormatFromExternalSource property (Word)
 
 Returns or sets a  **[WdPasteOptions](Word.WdPasteOptions.md)** constant that represents how text is pasted when text is copied from an external source, such as a Web page. Read/write.
 

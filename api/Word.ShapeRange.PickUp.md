@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PickUp Method (Word)
+title: ShapeRange.PickUp method (Word)
 keywords: vbawd10.chm162856980
 f1_keywords:
 - vbawd10.chm162856980
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.PickUp Method (Word)
+# ShapeRange.PickUp method (Word)
 
 Copies the formatting of the specified shape.
 

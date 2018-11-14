@@ -1,5 +1,5 @@
 ---
-title: ContentControl.SetUncheckedSymbol Method (Word)
+title: ContentControl.SetUncheckedSymbol method (Word)
 keywords: vbawd10.chm266534942
 f1_keywords:
 - vbawd10.chm266534942
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.SetUncheckedSymbol Method (Word)
+# ContentControl.SetUncheckedSymbol method (Word)
 
 Sets the symbol used to represent the unchecked state of a check box content control.
 

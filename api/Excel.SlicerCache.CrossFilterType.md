@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.CrossFilterType Property (Excel)
+title: SlicerCache.CrossFilterType property (Excel)
 keywords: vbaxl10.chm897084
 f1_keywords:
 - vbaxl10.chm897084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.CrossFilterType Property (Excel)
+# SlicerCache.CrossFilterType property (Excel)
 
 Returns or sets whether a slicer is participating in cross filtering with other slicers that share the same slicer cache, and how cross filtering is displayed. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets whether a slicer is participating in cross filtering with other 
 
 ## Return value
 
- **[XlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
+ **[xlSlicerCrossFilterType](Excel.XlSlicerCrossFilterType.md)**
 
 
 ## Remarks

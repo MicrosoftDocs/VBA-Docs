@@ -1,5 +1,5 @@
 ---
-title: View.PageColor Property (Word)
+title: View.PageColor property (Word)
 keywords: vbawd10.chm161808447
 f1_keywords:
 - vbawd10.chm161808447
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.PageColor Property (Word)
+# View.PageColor property (Word)
 
 Returns and sets the page color in Reading mode. Read-write [WdPageColor](Word.wdpagecolor.md).
 

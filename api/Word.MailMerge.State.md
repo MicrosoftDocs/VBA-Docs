@@ -1,5 +1,5 @@
 ---
-title: MailMerge.State Property (Word)
+title: MailMerge.State property (Word)
 keywords: vbawd10.chm153092098
 f1_keywords:
 - vbawd10.chm153092098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.State Property (Word)
+# MailMerge.State property (Word)
 
 Returns the current state of a mail merge operation. Read-only  **WdMailMergeState** .
 

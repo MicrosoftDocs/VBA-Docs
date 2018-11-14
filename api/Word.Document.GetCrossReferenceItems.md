@@ -1,5 +1,5 @@
 ---
-title: Document.GetCrossReferenceItems Method (Word)
+title: Document.GetCrossReferenceItems method (Word)
 keywords: vbawd10.chm158007443
 f1_keywords:
 - vbawd10.chm158007443
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GetCrossReferenceItems Method (Word)
+# Document.GetCrossReferenceItems method (Word)
 
 Returns an array of items that can be cross-referenced based on the specified cross-reference type.
 

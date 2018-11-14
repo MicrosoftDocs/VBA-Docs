@@ -1,5 +1,5 @@
 ---
-title: ChartArea Object (Word)
+title: ChartArea object (Word)
 ms.prod: word
 api_name:
 - Word.ChartArea
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea Object (Word)
+# ChartArea object (Word)
 
 Represents the chart area of a chart. 
 

@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Duplicate Method (Excel)
+title: ChartObject.Duplicate method (Excel)
 keywords: vbaxl10.chm494080
 f1_keywords:
 - vbaxl10.chm494080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Duplicate Method (Excel)
+# ChartObject.Duplicate method (Excel)
 
 Duplicates the object and returns a reference to the new copy.
 

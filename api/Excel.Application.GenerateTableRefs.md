@@ -1,5 +1,5 @@
 ---
-title: Application.GenerateTableRefs Property (Excel)
+title: Application.GenerateTableRefs property (Excel)
 keywords: vbaxl10.chm133308
 f1_keywords:
 - vbaxl10.chm133308
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GenerateTableRefs Property (Excel)
+# Application.GenerateTableRefs property (Excel)
 
 The  **GenerateTableRefs** property determines whether the traditional notation method or the new structured referencing notation method is used for referencing tables in formulas. Read/write.
 

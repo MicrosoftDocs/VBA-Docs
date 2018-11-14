@@ -1,5 +1,5 @@
 ---
-title: Shape.Title Property (Word)
+title: Shape.Title property (Word)
 keywords: vbawd10.chm161480862
 f1_keywords:
 - vbawd10.chm161480862
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Title Property (Word)
+# Shape.Title property (Word)
 
 Returns or sets a  **String** that contains a title for the specified shape. Read/write.
 

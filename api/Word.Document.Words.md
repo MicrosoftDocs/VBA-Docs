@@ -1,5 +1,5 @@
 ---
-title: Document.Words Property (Word)
+title: Document.Words property (Word)
 keywords: vbawd10.chm158007313
 f1_keywords:
 - vbawd10.chm158007313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Words Property (Word)
+# Document.Words property (Word)
 
 Returns a  **[Words](Word.words.md)** collection that represents all the words in a document. Read-only.
 

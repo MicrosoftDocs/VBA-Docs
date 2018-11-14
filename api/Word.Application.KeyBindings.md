@@ -1,5 +1,5 @@
 ---
-title: Application.KeyBindings Property (Word)
+title: Application.KeyBindings property (Word)
 keywords: vbawd10.chm158335045
 f1_keywords:
 - vbawd10.chm158335045
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.KeyBindings Property (Word)
+# Application.KeyBindings property (Word)
 
 Returns a  **[KeyBindings](Word.keybindings.md)** collection that represents customized key assignments, which include a key code, a key category, and a command.
 

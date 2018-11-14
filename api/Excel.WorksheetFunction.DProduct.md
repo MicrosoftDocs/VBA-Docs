@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DProduct Method (Excel)
+title: WorksheetFunction.DProduct method (Excel)
 keywords: vbaxl10.chm137145
 f1_keywords:
 - vbaxl10.chm137145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DProduct Method (Excel)
+# WorksheetFunction.DProduct method (Excel)
 
 Multiplies the values in a column of a list or database that match conditions that you specify.
 

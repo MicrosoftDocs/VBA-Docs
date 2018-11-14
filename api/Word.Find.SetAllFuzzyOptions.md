@@ -1,5 +1,5 @@
 ---
-title: Find.SetAllFuzzyOptions Method (Word)
+title: Find.SetAllFuzzyOptions method (Word)
 keywords: vbawd10.chm162529312
 f1_keywords:
 - vbawd10.chm162529312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.SetAllFuzzyOptions Method (Word)
+# Find.SetAllFuzzyOptions method (Word)
 
 Activates all nonspecific search options associated with Japanese text.
 

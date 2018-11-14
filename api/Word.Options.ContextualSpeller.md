@@ -1,5 +1,5 @@
 ---
-title: Options.ContextualSpeller Property (Word)
+title: Options.ContextualSpeller property (Word)
 keywords: vbawd10.chm162988517
 f1_keywords:
 - vbawd10.chm162988517
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ContextualSpeller Property (Word)
+# Options.ContextualSpeller property (Word)
 
 Returns or sets a  **Boolean** that represents whether to use the contextual speller to check spelling based on the context of a word and the words around it. Read/write.
 

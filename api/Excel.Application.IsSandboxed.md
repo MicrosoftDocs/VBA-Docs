@@ -1,5 +1,5 @@
 ---
-title: Application.IsSandboxed Property (Excel)
+title: Application.IsSandboxed property (Excel)
 keywords: vbaxl10.chm133332
 f1_keywords:
 - vbaxl10.chm133332
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IsSandboxed Property (Excel)
+# Application.IsSandboxed property (Excel)
 
 Returns  **True** if the specified workbook is open in a **Protected View** window. Read-only
 

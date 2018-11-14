@@ -27,7 +27,7 @@ Opens a calendar view of a specific date.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _newDate_|Required| **String**|The specific date in the calendar to view.|
 

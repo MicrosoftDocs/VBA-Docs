@@ -1,5 +1,5 @@
 ---
-title: Index.TabLeader Property (Word)
+title: Index.TabLeader property (Word)
 keywords: vbawd10.chm159186950
 f1_keywords:
 - vbawd10.chm159186950
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.TabLeader Property (Word)
+# Index.TabLeader property (Word)
 
 Returns or sets the leader character between entries in an index and their associated page numbers. Read/write  **WdTabLeader** .
 

@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Open Method (Word)
+title: Subdocument.Open method (Word)
 keywords: vbawd10.chm159973478
 f1_keywords:
 - vbawd10.chm159973478
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Open Method (Word)
+# Subdocument.Open method (Word)
 
 Opens the specified subdocument. Returns a  **Document** object that represents the opened subdocument.
 

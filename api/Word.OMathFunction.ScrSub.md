@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.ScrSub Property (Word)
+title: OMathFunction.ScrSub property (Word)
 keywords: vbawd10.chm22151289
 f1_keywords:
 - vbawd10.chm22151289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.ScrSub Property (Word)
+# OMathFunction.ScrSub property (Word)
 
 Represents an  **[OMathScrSub](Word.OMathScrSub.md)** object that represents the mathematical subscript function. Read-only.
 

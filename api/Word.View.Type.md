@@ -1,5 +1,5 @@
 ---
-title: View.Type Property (Word)
+title: View.Type property (Word)
 keywords: vbawd10.chm161808384
 f1_keywords:
 - vbawd10.chm161808384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Type Property (Word)
+# View.Type property (Word)
 
 Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows Object (Excel)
+title: ProtectedViewWindows object (Excel)
 keywords: vbaxl10.chm912072
 f1_keywords:
 - vbaxl10.chm912072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows Object (Excel)
+# ProtectedViewWindows object (Excel)
 
 A collection of the  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** objects that represent all the **Protected View** windows that are currently open in the application.
 

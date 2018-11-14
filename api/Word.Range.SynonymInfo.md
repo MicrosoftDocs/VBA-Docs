@@ -1,5 +1,5 @@
 ---
-title: Range.SynonymInfo Property (Word)
+title: Range.SynonymInfo property (Word)
 keywords: vbawd10.chm157155483
 f1_keywords:
 - vbawd10.chm157155483
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SynonymInfo Property (Word)
+# Range.SynonymInfo property (Word)
 
 Returns a  **SynonymInfo** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the contents of a range.
 

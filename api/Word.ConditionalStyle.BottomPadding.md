@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.BottomPadding Property (Word)
+title: ConditionalStyle.BottomPadding property (Word)
 keywords: vbawd10.chm91029507
 f1_keywords:
 - vbawd10.chm91029507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.BottomPadding Property (Word)
+# ConditionalStyle.BottomPadding property (Word)
 
 Returns or sets a  **Single** that represents the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write.
 

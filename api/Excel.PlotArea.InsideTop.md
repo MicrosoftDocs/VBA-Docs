@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideTop Property (Excel)
+title: PlotArea.InsideTop property (Excel)
 keywords: vbaxl10.chm618089
 f1_keywords:
 - vbaxl10.chm618089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideTop Property (Excel)
+# PlotArea.InsideTop property (Excel)
 
 Returns the distance from the chart edge to the inside top edge of the plot area, in points. Read-write  **Double** .
 

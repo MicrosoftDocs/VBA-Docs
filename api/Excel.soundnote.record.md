@@ -1,5 +1,5 @@
 ---
-title: SoundNote.Record Method (Excel)
+title: SoundNote.Record method (Excel)
 keywords: vbaxl10.chm258076
 f1_keywords:
 - vbaxl10.chm258076
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# SoundNote.Record Method (Excel)
+# SoundNote.Record method (Excel)
 
 Records the sound note.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.Delete Method (Word)
+title: Style.Delete method (Word)
 keywords: vbawd10.chm153878628
 f1_keywords:
 - vbawd10.chm153878628
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Delete Method (Word)
+# Style.Delete method (Word)
 
 Deletes the specified style.
 

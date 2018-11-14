@@ -1,5 +1,5 @@
 ---
-title: Options.IMEAutomaticControl Property (Word)
+title: Options.IMEAutomaticControl property (Word)
 keywords: vbawd10.chm162988119
 f1_keywords:
 - vbawd10.chm162988119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.IMEAutomaticControl Property (Word)
+# Options.IMEAutomaticControl property (Word)
 
  **True** if Microsoft Word is set to automatically open and close the Japanese Input Method Editor (IME). Read/write **Boolean** .
 

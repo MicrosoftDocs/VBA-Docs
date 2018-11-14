@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.Parent Property (Excel)
+title: ModelChanges.Parent property (Excel)
 keywords: vbaxl10.chm959075
 f1_keywords:
 - vbaxl10.chm959075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.Parent Property (Excel)
+# ModelChanges.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelChanges](Excel.modelchanges.md) object. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [ModelChanges Object (Excel)](Excel.modelchanges.md) object.
+ _expression_ A variable that represents a [ModelChanges object (Excel)](Excel.modelchanges.md) object.
 
 
 ## Property value

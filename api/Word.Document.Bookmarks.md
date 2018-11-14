@@ -1,5 +1,5 @@
 ---
-title: Document.Bookmarks Property (Word)
+title: Document.Bookmarks property (Word)
 keywords: vbawd10.chm158007300
 f1_keywords:
 - vbawd10.chm158007300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Bookmarks Property (Word)
+# Document.Bookmarks property (Word)
 
 Returns a  **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document. Read-only.
 

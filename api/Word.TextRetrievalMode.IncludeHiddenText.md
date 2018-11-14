@@ -1,5 +1,5 @@
 ---
-title: TextRetrievalMode.IncludeHiddenText Property (Word)
+title: TextRetrievalMode.IncludeHiddenText property (Word)
 keywords: vbawd10.chm154730498
 f1_keywords:
 - vbawd10.chm154730498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRetrievalMode.IncludeHiddenText Property (Word)
+# TextRetrievalMode.IncludeHiddenText property (Word)
 
  **True** if the text retrieved from the specified range includes hidden text. Read/write **Boolean** .
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GroupLevel.SortOrder property (Access)
 
-You use the  **SortOrder** property to specify the sort order for fields and expressions in a report. For example, if you're printing a list of suppliers, you can sort the records alphabetically by company name. Read/write **Boolean**.
+You use the  **SortOrder** property to specify the sort order for fields and expressions in a report. For example, if you are printing a list of suppliers, you can sort the records alphabetically by company name. Read/write **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Category.Name Property (Word)
+title: Category.Name property (Word)
 keywords: vbawd10.chm190709762
 f1_keywords:
 - vbawd10.chm190709762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Category.Name Property (Word)
+# Category.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

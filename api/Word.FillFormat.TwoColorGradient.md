@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (Word)
+title: FillFormat.TwoColorGradient method (Word)
 keywords: vbawd10.chm164102160
 f1_keywords:
 - vbawd10.chm164102160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TwoColorGradient Method (Word)
+# FillFormat.TwoColorGradient method (Word)
 
 Sets the specified fill to a two-color gradient.
 

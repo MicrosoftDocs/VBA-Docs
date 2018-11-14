@@ -1,5 +1,5 @@
 ---
-title: Global.CentimetersToPoints Method (Word)
+title: Global.CentimetersToPoints method (Word)
 keywords: vbawd10.chm163119475
 f1_keywords:
 - vbawd10.chm163119475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.CentimetersToPoints Method (Word)
+# Global.CentimetersToPoints method (Word)
 
 Converts a measurement from centimeters to points (1 cm = 28.35 points). Returns the converted measurement as a  **Single** .
 

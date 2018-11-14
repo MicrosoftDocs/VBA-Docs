@@ -1,5 +1,5 @@
 ---
-title: Application.SynonymInfo Property (Word)
+title: Application.SynonymInfo property (Word)
 keywords: vbawd10.chm158335035
 f1_keywords:
 - vbawd10.chm158335035
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SynonymInfo Property (Word)
+# Application.SynonymInfo property (Word)
 
 Returns a  **[SynonymInfo](Word.SynonymInfo.md)** object that contains information from the thesaurus on synonyms, antonyms, or related words and expressions for the specified word or phrase.
 

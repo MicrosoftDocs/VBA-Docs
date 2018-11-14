@@ -25,7 +25,7 @@ Occurs after a Query table connected to the Data Model is updated on a worksheet
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required|TABLEOBJECT|The Query table with data from the Data Model.|
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitCustom Property (Excel)
+title: Axis.DisplayUnitCustom property (Excel)
 keywords: vbaxl10.chm561114
 f1_keywords:
 - vbaxl10.chm561114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnitCustom Property (Excel)
+# Axis.DisplayUnitCustom property (Excel)
 
 If the value of the  **[DisplayUnit](Excel.Axis.DisplayUnit.md)** property is **xlCustom** , the **DisplayUnitCustom** property returns or sets the value of the displayed units. The value must be from 0 through 10E307. Read/write **Double** .
 

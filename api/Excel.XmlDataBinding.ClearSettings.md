@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding.ClearSettings Method (Excel)
+title: XmlDataBinding.ClearSettings method (Excel)
 keywords: vbaxl10.chm748076
 f1_keywords:
 - vbaxl10.chm748076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlDataBinding.ClearSettings Method (Excel)
+# XmlDataBinding.ClearSettings method (Excel)
 
 Removes the specified data binding.
 

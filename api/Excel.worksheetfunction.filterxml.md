@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FilterXML Method (Excel)
+title: WorksheetFunction.FilterXML method (Excel)
 keywords: vbaxl10.chm137465
 f1_keywords:
 - vbaxl10.chm137465
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.FilterXML Method (Excel)
+# WorksheetFunction.FilterXML method (Excel)
 
 Get specific data from the returned XML, typically from a  **WebService** function call.
 
@@ -25,7 +25,7 @@ Get specific data from the returned XML, typically from a  **WebService** functi
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Valid xml string.|
 | _Arg2_|Required|STRING|XPath query string.|

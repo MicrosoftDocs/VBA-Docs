@@ -1,5 +1,5 @@
 ---
-title: View.WrapToWindow Property (Word)
+title: View.WrapToWindow property (Word)
 keywords: vbawd10.chm161808404
 f1_keywords:
 - vbawd10.chm161808404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.WrapToWindow Property (Word)
+# View.WrapToWindow property (Word)
 
  **True** if lines wrap at the right edge of the document window rather than at the right margin or the right column boundary. Read/write **Boolean** .
 

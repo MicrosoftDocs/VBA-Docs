@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BahtText Method (Excel)
+title: WorksheetFunction.BahtText method (Excel)
 keywords: vbaxl10.chm137249
 f1_keywords:
 - vbaxl10.chm137249
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BahtText Method (Excel)
+# WorksheetFunction.BahtText method (Excel)
 
 Converts a number to Thai text and adds a suffix of "Baht."
 

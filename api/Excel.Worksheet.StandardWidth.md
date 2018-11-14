@@ -1,5 +1,5 @@
 ---
-title: Worksheet.StandardWidth Property (Excel)
+title: Worksheet.StandardWidth property (Excel)
 keywords: vbaxl10.chm175130
 f1_keywords:
 - vbaxl10.chm175130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.StandardWidth Property (Excel)
+# Worksheet.StandardWidth property (Excel)
 
 Returns or sets the standard (default) width of all the columns in the worksheet. Read/write  **Double** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Roman Method (Excel)
+title: WorksheetFunction.Roman method (Excel)
 keywords: vbaxl10.chm137245
 f1_keywords:
 - vbaxl10.chm137245
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Roman Method (Excel)
+# WorksheetFunction.Roman method (Excel)
 
 Converts an arabic numeral to roman, as text.
 

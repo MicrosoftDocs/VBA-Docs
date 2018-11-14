@@ -1,5 +1,5 @@
 ---
-title: XlSummaryColumn Enumeration (Excel)
+title: xlSummaryColumn enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSummaryColumn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSummaryColumn Enumeration (Excel)
+# xlSummaryColumn enumeration (Excel)
 
 Specifies the location of the summary columns in the outline.
 

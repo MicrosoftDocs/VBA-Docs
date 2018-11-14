@@ -1,5 +1,5 @@
 ---
-title: Range.ContentControls Property (Word)
+title: Range.ContentControls property (Word)
 keywords: vbawd10.chm157155752
 f1_keywords:
 - vbawd10.chm157155752
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ContentControls Property (Word)
+# Range.ContentControls property (Word)
 
 Returns a  **[ContentControls](Word.ContentControls.md)** collection that represents the content controls contained within a range. Read-only.
 

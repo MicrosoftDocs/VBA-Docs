@@ -1,5 +1,5 @@
 ---
-title: Range.FillUp Method (Excel)
+title: Range.FillUp method (Excel)
 keywords: vbaxl10.chm144127
 f1_keywords:
 - vbaxl10.chm144127
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FillUp Method (Excel)
+# Range.FillUp method (Excel)
 
 Fills up from the bottom cell or cells in the specified range to the top of the range. The contents and formatting of the cell or cells in the bottom row of a range are copied into the rest of the rows in the range.
 

@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.SpanishModes Property (Excel)
+title: SpellingOptions.SpanishModes property (Excel)
 keywords: vbaxl10.chm717089
 f1_keywords:
 - vbaxl10.chm717089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.SpanishModes Property (Excel)
+# SpellingOptions.SpanishModes property (Excel)
 
 Returns or sets the mode for checking the spelling of Spanish. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the mode for checking the spelling of Spanish. Read/write
 
 ## Return value
 
- **[XlSpanishModes](Excel.XlSpanishModes.md)**
+ **[xlSpanishModes](Excel.XlSpanishModes.md)**
 
 
 ## See also

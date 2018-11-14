@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Delete Method (Word)
+title: LeaderLines.Delete method (Word)
 keywords: vbawd10.chm207749237
 f1_keywords:
 - vbawd10.chm207749237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Delete Method (Word)
+# LeaderLines.Delete method (Word)
 
 Deletes the object.
 

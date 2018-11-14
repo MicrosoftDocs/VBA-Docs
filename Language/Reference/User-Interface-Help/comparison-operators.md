@@ -23,7 +23,7 @@ _result_**=**_expression1_ _comparisonoperator_ _expression2_
 [Comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression_|Required; any expression.|

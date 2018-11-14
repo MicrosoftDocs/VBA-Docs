@@ -1,5 +1,5 @@
 ---
-title: Axes.Count Property (Word)
+title: Axes.Count property (Word)
 ms.prod: word
 api_name:
 - Word.Axes.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Count Property (Word)
+# Axes.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

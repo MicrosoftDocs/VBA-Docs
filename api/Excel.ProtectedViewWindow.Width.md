@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Width Property (Excel)
+title: ProtectedViewWindow.Width property (Excel)
 keywords: vbaxl10.chm914079
 f1_keywords:
 - vbaxl10.chm914079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Width Property (Excel)
+# ProtectedViewWindow.Width property (Excel)
 
 Returns or sets a value that specifies the width, in points, of the specified  **Protected View** window. Read/write
 

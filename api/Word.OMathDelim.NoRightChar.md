@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.NoRightChar Property (Word)
+title: OMathDelim.NoRightChar property (Word)
 keywords: vbawd10.chm145096814
 f1_keywords:
 - vbawd10.chm145096814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.NoRightChar Property (Word)
+# OMathDelim.NoRightChar property (Word)
 
 Returns or sets a  **Boolean** that represents whether to hide the closing delimiter in a delimiter object. Read/write.
 

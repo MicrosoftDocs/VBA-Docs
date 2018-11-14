@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureName.MeasureName Property (Excel)
+title: ModelMeasureName.MeasureName property (Excel)
 keywords: vbaxl10.chm970074
 f1_keywords:
 - vbaxl10.chm970074
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureName.MeasureName Property (Excel)
+# ModelMeasureName.MeasureName property (Excel)
 
- **String** representing the new name a measure which was added to the [ModelTable Object (Excel)](Excel.modeltable.md) identified by the [ModelMeasureName.TableName Property (Excel)](Excel.modelmeasurename.tablename.md) property. Read-only.
+ **String** representing the new name a measure which was added to the [ModelTable object (Excel)](Excel.modeltable.md) identified by the [ModelMeasureName.TableName property (Excel)](Excel.modelmeasurename.tablename.md) property. Read-only.
 
 
 ## Syntax

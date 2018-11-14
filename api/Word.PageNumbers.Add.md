@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.Add Method (Word)
+title: PageNumbers.Add method (Word)
 keywords: vbawd10.chm159776869
 f1_keywords:
 - vbawd10.chm159776869
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.Add Method (Word)
+# PageNumbers.Add method (Word)
 
 Returns a  **PageNumber** object that represents page numbers added to a header or footer in a section.
 

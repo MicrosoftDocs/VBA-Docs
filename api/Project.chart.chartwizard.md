@@ -20,7 +20,7 @@ Modifies the properties and formatting of a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varSource_|Optional|**Variant**|The source data for a new chart. If the  _varSource_ argument is omitted, Project edits the active report or the selected chart on the active report.|
 | _varGallery_|Optional|**Variant**|One of the constants of the  **Office.XlChartType** enumeration, which specifies the chart type.|

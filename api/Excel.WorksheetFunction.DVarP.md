@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DVarP Method (Excel)
+title: WorksheetFunction.DVarP method (Excel)
 keywords: vbaxl10.chm137150
 f1_keywords:
 - vbaxl10.chm137150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DVarP Method (Excel)
+# WorksheetFunction.DVarP method (Excel)
 
 Calculates the variance of a population based on the entire population by using the numbers in a column of a list or database that match conditions that you specify.
 

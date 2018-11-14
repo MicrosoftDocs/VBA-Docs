@@ -1,5 +1,5 @@
 ---
-title: Global.IsSandboxed Property (Word)
+title: Global.IsSandboxed property (Word)
 keywords: vbawd10.chm163119220
 f1_keywords:
 - vbawd10.chm163119220
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.IsSandboxed Property (Word)
+# Global.IsSandboxed property (Word)
 
  **True** if the application window is a protected view window. Read-only.
 

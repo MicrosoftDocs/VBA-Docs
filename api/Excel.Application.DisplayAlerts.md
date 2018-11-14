@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayAlerts Property (Excel)
+title: Application.DisplayAlerts property (Excel)
 keywords: vbaxl10.chm133119
 f1_keywords:
 - vbaxl10.chm133119
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayAlerts Property (Excel)
+# Application.DisplayAlerts property (Excel)
 
  **True** if Microsoft Excel displays certain alerts and messages while a macro is running. Read/write **Boolean** .
 

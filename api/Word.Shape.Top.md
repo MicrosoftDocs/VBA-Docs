@@ -1,5 +1,5 @@
 ---
-title: Shape.Top Property (Word)
+title: Shape.Top property (Word)
 keywords: vbawd10.chm161480827
 f1_keywords:
 - vbawd10.chm161480827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Top Property (Word)
+# Shape.Top property (Word)
 
 Returns or sets the vertical position of the specified shape or shape range in points. Read/write  **Single** .
 

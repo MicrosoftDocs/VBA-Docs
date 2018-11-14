@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyHeadings Property (Word)
+title: Options.AutoFormatAsYouTypeApplyHeadings property (Word)
 keywords: vbawd10.chm162988292
 f1_keywords:
 - vbawd10.chm162988292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyHeadings Property (Word)
+# Options.AutoFormatAsYouTypeApplyHeadings property (Word)
 
  **True** if styles are automatically applied to headings as you type. Read/write **Boolean** .
 

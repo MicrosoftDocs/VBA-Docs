@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Sln Method (Excel)
+title: WorksheetFunction.Sln method (Excel)
 keywords: vbaxl10.chm137133
 f1_keywords:
 - vbaxl10.chm137133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Sln Method (Excel)
+# WorksheetFunction.Sln method (Excel)
 
 Returns the straight-line depreciation of an asset for one period.
 

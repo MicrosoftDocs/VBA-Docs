@@ -22,7 +22,7 @@ _object_. **Max** [= _Long_ ]
 The  **Max** and **Min** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A numeric expression specifying the maximum or minimum  **Value** property setting.|

@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.ReplyStyle Property (Word)
+title: EmailOptions.ReplyStyle property (Word)
 keywords: vbawd10.chm165347438
 f1_keywords:
 - vbawd10.chm165347438
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.ReplyStyle Property (Word)
+# EmailOptions.ReplyStyle property (Word)
 
-Returns a  **[Style](Word.Style.md)** object that represents the style used when replying to e-mail messages.
+Returns a  **[Style](Word.Style.md)** object that represents the style used when replying to email messages.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **[Style](Word.Style.md)** object that represents the style used when
 
 ## Example
 
-This example displays the name of the default style used when replying to e-mail messages.
+This example displays the name of the default style used when replying to email messages.
 
 
 ```vb

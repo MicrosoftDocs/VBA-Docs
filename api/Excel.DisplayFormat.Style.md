@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Style Property (Excel)
+title: DisplayFormat.Style property (Excel)
 keywords: vbaxl10.chm893076
 f1_keywords:
 - vbaxl10.chm893076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Style Property (Excel)
+# DisplayFormat.Style property (Excel)
 
 Returns a value, containing a  **[Style](Excel.Style.md)** object, that represents the style of the associated **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface.
 

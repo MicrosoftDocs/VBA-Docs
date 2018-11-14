@@ -1,5 +1,5 @@
 ---
-title: UniqueValues.Creator Property (Excel)
+title: UniqueValues.Creator property (Excel)
 keywords: vbaxl10.chm825074
 f1_keywords:
 - vbaxl10.chm825074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues.Creator Property (Excel)
+# UniqueValues.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

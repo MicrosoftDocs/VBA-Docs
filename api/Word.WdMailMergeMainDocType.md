@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeMainDocType Enumeration (Word)
+title: WdMailMergeMainDocType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeMainDocType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeMainDocType Enumeration (Word)
+# WdMailMergeMainDocType enumeration (Word)
 
 Specifies a type of mail merge document.
 
@@ -18,7 +18,7 @@ Specifies a type of mail merge document.
 |:-----|:-----|:-----|
 | **wdCatalog**|3|Catalog.|
 | **wdDirectory**|3|Directory.|
-| **wdEMail**|4|E-mail message.|
+| **wdEMail**|4|Email message.|
 | **wdEnvelopes**|2|Envelope.|
 | **wdFax**|5|Fax.|
 | **wdFormLetters**|0|Form letter.|

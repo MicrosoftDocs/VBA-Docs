@@ -1,5 +1,5 @@
 ---
-title: FormField.EntryMacro Property (Word)
+title: FormField.EntryMacro property (Word)
 keywords: vbawd10.chm153616387
 f1_keywords:
 - vbawd10.chm153616387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.EntryMacro Property (Word)
+# FormField.EntryMacro property (Word)
 
 Returns or sets an entry macro name for the specified form field (CheckBox, DropDown, or TextInput). Read/write  **String** .
 

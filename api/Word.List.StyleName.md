@@ -1,5 +1,5 @@
 ---
-title: List.StyleName Property (Word)
+title: List.StyleName property (Word)
 keywords: vbawd10.chm160563204
 f1_keywords:
 - vbawd10.chm160563204
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.StyleName Property (Word)
+# List.StyleName property (Word)
 
 Returns the name of the style applied to the specified AutoText entry. Read-only  **String** .
 

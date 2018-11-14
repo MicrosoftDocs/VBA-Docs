@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.PrintOut Method (Word)
+title: MailingLabel.PrintOut method (Word)
 keywords: vbawd10.chm152502377
 f1_keywords:
 - vbawd10.chm152502377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.PrintOut Method (Word)
+# MailingLabel.PrintOut method (Word)
 
 Prints a label or a page of labels with the same address.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RecordCount Property (Excel)
+title: PivotCache.RecordCount property (Excel)
 keywords: vbaxl10.chm227079
 f1_keywords:
 - vbaxl10.chm227079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RecordCount Property (Excel)
+# PivotCache.RecordCount property (Excel)
 
 Returns the number of records in the PivotTable cache or the number of cache records that contain the specified item. Read-only  **Long** .
 

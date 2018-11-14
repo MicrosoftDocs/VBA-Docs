@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayHeadings Property (Excel)
+title: Window.DisplayHeadings property (Excel)
 keywords: vbaxl10.chm356084
 f1_keywords:
 - vbaxl10.chm356084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayHeadings Property (Excel)
+# Window.DisplayHeadings property (Excel)
 
  **True** if both row and column headings are displayed; **False** if no headings are displayed. Read/write **Boolean** .
 

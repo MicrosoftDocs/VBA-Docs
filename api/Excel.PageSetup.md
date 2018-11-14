@@ -1,5 +1,5 @@
 ---
-title: PageSetup Object (Excel)
+title: PageSetup object (Excel)
 keywords: vbaxl10.chm472072
 f1_keywords:
 - vbaxl10.chm472072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup Object (Excel)
+# PageSetup object (Excel)
 
 Represents the page setup description.
 

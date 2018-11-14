@@ -1,5 +1,5 @@
 ---
-title: PivotCell.PivotTable Property (Excel)
+title: PivotCell.PivotTable property (Excel)
 keywords: vbaxl10.chm692074
 f1_keywords:
 - vbaxl10.chm692074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.PivotTable Property (Excel)
+# PivotCell.PivotTable property (Excel)
 
 Returns a  **[PivotTable](Excel.PivotTable.md)** object that represents the PivotTable report associated with the PivotCell.
 

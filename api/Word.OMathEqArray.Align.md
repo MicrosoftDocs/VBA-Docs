@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.Align Property (Word)
+title: OMathEqArray.Align property (Word)
 keywords: vbawd10.chm174129258
 f1_keywords:
 - vbawd10.chm174129258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.Align Property (Word)
+# OMathEqArray.Align property (Word)
 
 Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that represents the type of vertical alignment for an equation array with respect to the text that surrounds the array. Read/write.
 

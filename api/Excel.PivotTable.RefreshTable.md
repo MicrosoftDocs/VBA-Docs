@@ -1,5 +1,5 @@
 ---
-title: PivotTable.RefreshTable Method (Excel)
+title: PivotTable.RefreshTable method (Excel)
 keywords: vbaxl10.chm235092
 f1_keywords:
 - vbaxl10.chm235092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.RefreshTable Method (Excel)
+# PivotTable.RefreshTable method (Excel)
 
 Refreshes the PivotTable report from the source data. Returns  **True** if it's successful.
 

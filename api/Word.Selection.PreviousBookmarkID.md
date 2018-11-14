@@ -1,5 +1,5 @@
 ---
-title: Selection.PreviousBookmarkID Property (Word)
+title: Selection.PreviousBookmarkID property (Word)
 keywords: vbawd10.chm158662965
 f1_keywords:
 - vbawd10.chm158662965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PreviousBookmarkID Property (Word)
+# Selection.PreviousBookmarkID property (Word)
 
 Returns the number of the last bookmark that starts before or at the same place as the specified selection or range; returns 0 (zero) if there is no corresponding bookmark. Read-only  **Long** .
 

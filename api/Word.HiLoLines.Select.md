@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Select Method (Word)
+title: HiLoLines.Select method (Word)
 keywords: vbawd10.chm235995138
 f1_keywords:
 - vbawd10.chm235995138
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Select Method (Word)
+# HiLoLines.Select method (Word)
 
 Selects the object.
 

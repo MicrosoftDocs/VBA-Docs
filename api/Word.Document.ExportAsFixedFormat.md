@@ -1,5 +1,5 @@
 ---
-title: Document.ExportAsFixedFormat Method (Word)
+title: Document.ExportAsFixedFormat method (Word)
 keywords: vbawd10.chm158007848
 f1_keywords:
 - vbawd10.chm158007848
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ExportAsFixedFormat Method (Word)
+# Document.ExportAsFixedFormat method (Word)
 
 Saves a document as PDF or XPS format.
 

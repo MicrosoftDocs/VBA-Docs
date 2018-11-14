@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtLayouts Property (Word)
+title: Application.SmartArtLayouts property (Word)
 keywords: vbawd10.chm158335457
 f1_keywords:
 - vbawd10.chm158335457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtLayouts Property (Word)
+# Application.SmartArtLayouts property (Word)
 
 Returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
 

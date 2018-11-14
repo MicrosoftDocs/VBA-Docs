@@ -1,5 +1,5 @@
 ---
-title: Range.Interior Property (Excel)
+title: Range.Interior property (Excel)
 keywords: vbaxl10.chm144150
 f1_keywords:
 - vbaxl10.chm144150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Interior Property (Excel)
+# Range.Interior property (Excel)
 
 Returns an  **[Interior](Excel.Interior(object).md)** object that represents the interior of the specified object.
 

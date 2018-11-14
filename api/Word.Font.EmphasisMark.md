@@ -1,5 +1,5 @@
 ---
-title: Font.EmphasisMark Property (Word)
+title: Font.EmphasisMark property (Word)
 keywords: vbawd10.chm156369050
 f1_keywords:
 - vbawd10.chm156369050
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.EmphasisMark Property (Word)
+# Font.EmphasisMark property (Word)
 
 Returns or sets a  **WdEmphasisMark** constant that represents the emphasis mark for a character or designated character string. Read/write.
 

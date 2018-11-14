@@ -1,5 +1,5 @@
 ---
-title: Application.ShowChartTipValues Property (Excel)
+title: Application.ShowChartTipValues property (Excel)
 keywords: vbaxl10.chm133209
 f1_keywords:
 - vbaxl10.chm133209
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowChartTipValues Property (Excel)
+# Application.ShowChartTipValues property (Excel)
 
  **True** if charts show chart tip values. The default value is **True** . Read/write **Boolean** .
 

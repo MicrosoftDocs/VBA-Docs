@@ -1,5 +1,5 @@
 ---
-title: PivotFields.Parent Property (Excel)
+title: PivotFields.Parent property (Excel)
 keywords: vbaxl10.chm242073
 f1_keywords:
 - vbaxl10.chm242073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFields.Parent Property (Excel)
+# PivotFields.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

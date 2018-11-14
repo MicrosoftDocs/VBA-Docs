@@ -1,5 +1,5 @@
 ---
-title: Document.ReturnToLastReadPosition Method (Word)
+title: Document.ReturnToLastReadPosition method (Word)
 keywords: vbawd10.chm158007868
 f1_keywords:
 - vbawd10.chm158007868
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReturnToLastReadPosition Method (Word)
+# Document.ReturnToLastReadPosition method (Word)
 
 Returns the active document to the last saved reading position, and returns an integer that represents that position.
 

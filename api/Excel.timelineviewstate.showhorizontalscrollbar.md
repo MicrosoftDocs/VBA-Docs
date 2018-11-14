@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.ShowHorizontalScrollbar Property (Excel)
+title: TimelineViewState.ShowHorizontalScrollbar property (Excel)
 keywords: vbaxl10.chm952076
 f1_keywords:
 - vbaxl10.chm952076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.ShowHorizontalScrollbar Property (Excel)
+# TimelineViewState.ShowHorizontalScrollbar property (Excel)
 
 Get or set whether the control's horizontal scrollbar is displayed.  **Boolean** Read/Write
 

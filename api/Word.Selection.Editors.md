@@ -1,5 +1,5 @@
 ---
-title: Selection.Editors Property (Word)
+title: Selection.Editors property (Word)
 keywords: vbawd10.chm158662969
 f1_keywords:
 - vbawd10.chm158662969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Editors Property (Word)
+# Selection.Editors property (Word)
 
 Returns an  **[Editors](Word.Editors.md)** object that represents all the users authorized to modify a selection within a document.
 

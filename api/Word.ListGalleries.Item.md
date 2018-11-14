@@ -1,5 +1,5 @@
 ---
-title: ListGalleries.Item Method (Word)
+title: ListGalleries.Item method (Word)
 keywords: vbawd10.chm160759808
 f1_keywords:
 - vbawd10.chm160759808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGalleries.Item Method (Word)
+# ListGalleries.Item method (Word)
 
 Returns an individual  **ListGalleries** object in a collection.
 

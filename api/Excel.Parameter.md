@@ -1,5 +1,5 @@
 ---
-title: Parameter Object (Excel)
+title: Parameter object (Excel)
 keywords: vbaxl10.chm522072
 f1_keywords:
 - vbaxl10.chm522072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter Object (Excel)
+# Parameter object (Excel)
 
 Represents a single parameter used in a parameter query.
 

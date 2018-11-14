@@ -1,5 +1,5 @@
 ---
-title: Variables.Creator Property (Word)
+title: Variables.Creator property (Word)
 keywords: vbawd10.chm157615081
 f1_keywords:
 - vbawd10.chm157615081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Creator Property (Word)
+# Variables.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

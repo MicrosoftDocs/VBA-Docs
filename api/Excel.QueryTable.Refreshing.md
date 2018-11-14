@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Refreshing Property (Excel)
+title: QueryTable.Refreshing property (Excel)
 keywords: vbaxl10.chm518079
 f1_keywords:
 - vbaxl10.chm518079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Refreshing Property (Excel)
+# QueryTable.Refreshing property (Excel)
 
  **True** if there is a background query in progress for the specified query table. Read only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Parameter.RefreshOnChange Property (Excel)
+title: Parameter.RefreshOnChange property (Excel)
 keywords: vbaxl10.chm523080
 f1_keywords:
 - vbaxl10.chm523080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Parameter.RefreshOnChange Property (Excel)
+# Parameter.RefreshOnChange property (Excel)
 
  **True** if the specified query table is refreshed whenever you change the parameter value of a parameter query. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Cosh Method (Excel)
+title: WorksheetFunction.Cosh method (Excel)
 keywords: vbaxl10.chm137165
 f1_keywords:
 - vbaxl10.chm137165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Cosh Method (Excel)
+# WorksheetFunction.Cosh method (Excel)
 
 Returns the hyperbolic cosine of a number.
 

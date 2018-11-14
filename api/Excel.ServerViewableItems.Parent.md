@@ -1,5 +1,5 @@
 ---
-title: ServerViewableItems.Parent Property (Excel)
+title: ServerViewableItems.Parent property (Excel)
 keywords: vbaxl10.chm832075
 f1_keywords:
 - vbaxl10.chm832075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerViewableItems.Parent Property (Excel)
+# ServerViewableItems.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

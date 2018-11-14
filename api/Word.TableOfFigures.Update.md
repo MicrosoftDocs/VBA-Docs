@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.Update Method (Word)
+title: TableOfFigures.Update method (Word)
 keywords: vbawd10.chm153157734
 f1_keywords:
 - vbawd10.chm153157734
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.Update Method (Word)
+# TableOfFigures.Update method (Word)
 
 Updates the entries shown in a table of figures.
 

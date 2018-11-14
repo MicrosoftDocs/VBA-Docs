@@ -1,5 +1,5 @@
 ---
-title: Window.ActiveCell Property (Excel)
+title: Window.ActiveCell property (Excel)
 keywords: vbaxl10.chm356076
 f1_keywords:
 - vbaxl10.chm356076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActiveCell Property (Excel)
+# Window.ActiveCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the active cell in the active window (the window on top) or in the specified window. If the window isn't displaying a worksheet, this property fails. Read-only.
 

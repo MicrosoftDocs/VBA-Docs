@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelBottomDepth Property (Word)
+title: ThreeDFormat.BevelBottomDepth property (Word)
 keywords: vbawd10.chm164626551
 f1_keywords:
 - vbawd10.chm164626551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelBottomDepth Property (Word)
+# ThreeDFormat.BevelBottomDepth property (Word)
 
 Returns or sets a  **Single** that represents the depth of the bottom bevel. Read/write.
 

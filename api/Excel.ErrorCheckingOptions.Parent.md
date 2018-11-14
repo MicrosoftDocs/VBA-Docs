@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.Parent Property (Excel)
+title: ErrorCheckingOptions.Parent property (Excel)
 keywords: vbaxl10.chm697075
 f1_keywords:
 - vbaxl10.chm697075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.Parent Property (Excel)
+# ErrorCheckingOptions.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

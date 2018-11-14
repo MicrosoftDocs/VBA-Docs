@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.Name Property (Excel)
+title: SlicerCache.Name property (Excel)
 keywords: vbaxl10.chm897080
 f1_keywords:
 - vbaxl10.chm897080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.Name Property (Excel)
+# SlicerCache.Name property (Excel)
 
 Returns or sets the name of the slicer cache.
 

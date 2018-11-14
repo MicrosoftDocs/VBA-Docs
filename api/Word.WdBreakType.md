@@ -1,5 +1,5 @@
 ---
-title: WdBreakType Enumeration (Word)
+title: WdBreakType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBreakType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBreakType Enumeration (Word)
+# WdBreakType enumeration (Word)
 
 Specifies type of break.
 

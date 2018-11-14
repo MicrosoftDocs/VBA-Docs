@@ -22,7 +22,7 @@ _object_. **Name** [= _newname_ ]
 The  **Name** property has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|

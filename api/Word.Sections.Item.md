@@ -1,5 +1,5 @@
 ---
-title: Sections.Item Method (Word)
+title: Sections.Item method (Word)
 keywords: vbawd10.chm156893184
 f1_keywords:
 - vbawd10.chm156893184
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.Item Method (Word)
+# Sections.Item method (Word)
 
 Returns an individual  **Section** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: WdOLEType Enumeration (Word)
+title: WdOLEType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOLEType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOLEType Enumeration (Word)
+# WdOLEType enumeration (Word)
 
 Specifies the type of an OLE object.
 

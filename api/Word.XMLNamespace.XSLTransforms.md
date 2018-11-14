@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.XSLTransforms Property (Word)
+title: XMLNamespace.XSLTransforms property (Word)
 keywords: vbawd10.chm2293765
 f1_keywords:
 - vbawd10.chm2293765
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.XSLTransforms Property (Word)
+# XMLNamespace.XSLTransforms property (Word)
 
 Returns an XSLTransforms collection that represents the Extensible Stylesheet Language Transformation (XSLT) files specified for use with a schema.
 

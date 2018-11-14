@@ -1,5 +1,5 @@
 ---
-title: Workbook.SaveCopyAs Method (Excel)
+title: Workbook.SaveCopyAs method (Excel)
 keywords: vbaxl10.chm199146
 f1_keywords:
 - vbaxl10.chm199146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SaveCopyAs Method (Excel)
+# Workbook.SaveCopyAs method (Excel)
 
 Saves a copy of the workbook to a file but doesn't modify the open workbook in memory.
 

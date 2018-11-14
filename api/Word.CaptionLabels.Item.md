@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Item Method (Word)
+title: CaptionLabels.Item method (Word)
 keywords: vbawd10.chm158859264
 f1_keywords:
 - vbawd10.chm158859264
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels.Item Method (Word)
+# CaptionLabels.Item method (Word)
 
 Returns an individual  **CaptionLabel** object in a collection.
 

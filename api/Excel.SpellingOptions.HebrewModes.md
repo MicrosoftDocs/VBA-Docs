@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.HebrewModes Property (Excel)
+title: SpellingOptions.HebrewModes property (Excel)
 keywords: vbaxl10.chm717083
 f1_keywords:
 - vbaxl10.chm717083
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.HebrewModes Property (Excel)
+# SpellingOptions.HebrewModes property (Excel)
 
-Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebrewModes](Excel.XlHebrewModes.md)** .
+Returns or sets the mode for the Hebrew spelling checker. Read/write  **[xlHebrewModes](Excel.XlHebrewModes.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the mode for the Hebrew spelling checker. Read/write  **[XlHebre
 
 
 
-| **XlHebrewModes** can be one of these **XlHebrewModes** constants.|
+| **xlHebrewModes** can be one of these **xlHebrewModes** constants.|
 | **xlHebrewFullScript** (default) The conventional script type as required by the Hebrew Language Academy when writing non-diacritisized text.|
 | **xlHebrewMixedAuthorizedScript** The Hebrew traditional script.|
 | **xlHebrewMixedScript** In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any non-conventional spelling variation what is known to the speller.|

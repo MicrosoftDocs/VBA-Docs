@@ -1,5 +1,5 @@
 ---
-title: Selection.Copy Method (Word)
+title: Selection.Copy method (Word)
 keywords: vbawd10.chm158662776
 f1_keywords:
 - vbawd10.chm158662776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Copy Method (Word)
+# Selection.Copy method (Word)
 
 Copies the specified selection to the Clipboard.
 

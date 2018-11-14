@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Parent Property (Word)
+title: ShapeRange.Parent property (Word)
 keywords: vbawd10.chm162856961
 f1_keywords:
 - vbawd10.chm162856961
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Parent Property (Word)
+# ShapeRange.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ShapeRange** object.
 

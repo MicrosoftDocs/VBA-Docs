@@ -1,5 +1,5 @@
 ---
-title: Tasks.ExitWindows Method (Word)
+title: Tasks.ExitWindows method (Word)
 keywords: vbawd10.chm159580163
 f1_keywords:
 - vbawd10.chm159580163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Tasks.ExitWindows Method (Word)
+# Tasks.ExitWindows method (Word)
 
 Closes all open applications, quits Microsoft Windows, and logs the current user off.
 

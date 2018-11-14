@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Creator Property (Excel)
+title: PictureFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.PictureFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Creator Property (Excel)
+# PictureFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

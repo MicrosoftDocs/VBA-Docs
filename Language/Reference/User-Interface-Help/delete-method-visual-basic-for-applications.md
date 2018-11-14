@@ -22,7 +22,7 @@ _object_. **Delete**_force_
 The  **Delete** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _force_|Optional.  **Boolean** value that is **True** if files or folders with the read-only attribute set are to be deleted; **False** (default) if they are not.|

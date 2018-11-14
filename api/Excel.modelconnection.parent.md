@@ -1,5 +1,5 @@
 ---
-title: ModelConnection.Parent Property (Excel)
+title: ModelConnection.Parent property (Excel)
 keywords: vbaxl10.chm921075
 f1_keywords:
 - vbaxl10.chm921075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelConnection.Parent Property (Excel)
+# ModelConnection.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified[ModelConnection](Excel.modelconnection.md) object. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **Object** that represents the parent object of the specified[ModelC
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [ModelConnection Object (Excel)](Excel.modelconnection.md) object.
+ _expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Property value

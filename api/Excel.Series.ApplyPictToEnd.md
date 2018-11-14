@@ -1,5 +1,5 @@
 ---
-title: Series.ApplyPictToEnd Property (Excel)
+title: Series.ApplyPictToEnd property (Excel)
 keywords: vbaxl10.chm578117
 f1_keywords:
 - vbaxl10.chm578117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.ApplyPictToEnd Property (Excel)
+# Series.ApplyPictToEnd property (Excel)
 
  **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean** .
 

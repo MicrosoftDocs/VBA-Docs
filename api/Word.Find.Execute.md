@@ -1,5 +1,5 @@
 ---
-title: Find.Execute Method (Word)
+title: Find.Execute method (Word)
 keywords: vbawd10.chm162529724
 f1_keywords:
 - vbawd10.chm162529724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Execute Method (Word)
+# Find.Execute method (Word)
 
 Runs the specified find operation. Returns  **True** if the find operation is successful. **Boolean** .
 

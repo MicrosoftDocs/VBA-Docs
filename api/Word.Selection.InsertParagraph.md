@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertParagraph Method (Word)
+title: Selection.InsertParagraph method (Word)
 keywords: vbawd10.chm158662816
 f1_keywords:
 - vbawd10.chm158662816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertParagraph Method (Word)
+# Selection.InsertParagraph method (Word)
 
 Replaces the specified selection with a new paragraph.
 

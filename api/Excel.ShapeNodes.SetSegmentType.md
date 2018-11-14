@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetSegmentType Method (Excel)
+title: ShapeNodes.SetSegmentType method (Excel)
 keywords: vbaxl10.chm112011
 f1_keywords:
 - vbaxl10.chm112011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetSegmentType Method (Excel)
+# ShapeNodes.SetSegmentType method (Excel)
 
 Sets the segment type of the segment that follows the node specified by  _Index_. If the node is a control point for a curved segment, this method sets the segment type for that curve. Note that this may affect the total number of nodes by inserting or deleting adjacent nodes.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Creator Property (Word)
+title: OMathFunction.Creator property (Word)
 keywords: vbawd10.chm22151269
 f1_keywords:
 - vbawd10.chm22151269
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Creator Property (Word)
+# OMathFunction.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

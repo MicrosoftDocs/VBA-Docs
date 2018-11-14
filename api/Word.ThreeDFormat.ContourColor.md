@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ContourColor Property (Word)
+title: ThreeDFormat.ContourColor property (Word)
 keywords: vbawd10.chm164626555
 f1_keywords:
 - vbawd10.chm164626555
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ContourColor Property (Word)
+# ThreeDFormat.ContourColor property (Word)
 
 Returns or sets a  **ColorFormat** object that represents color of the contour of a shape. Read/write.
 

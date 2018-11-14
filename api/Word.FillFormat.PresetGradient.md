@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PresetGradient Method (Word)
+title: FillFormat.PresetGradient method (Word)
 keywords: vbawd10.chm164102157
 f1_keywords:
 - vbawd10.chm164102157
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PresetGradient Method (Word)
+# FillFormat.PresetGradient method (Word)
 
 Sets the specified fill to a preset gradient.
 

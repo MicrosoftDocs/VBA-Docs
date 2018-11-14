@@ -1,5 +1,5 @@
 ---
-title: Application.Width Property (Word)
+title: Application.Width property (Word)
 keywords: vbawd10.chm158335065
 f1_keywords:
 - vbawd10.chm158335065
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Width Property (Word)
+# Application.Width property (Word)
 
 Returns or sets the width of the application window, in points. Read/write  **Long** .
 

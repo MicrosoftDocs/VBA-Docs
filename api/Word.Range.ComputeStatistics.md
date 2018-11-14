@@ -1,5 +1,5 @@
 ---
-title: Range.ComputeStatistics Method (Word)
+title: Range.ComputeStatistics method (Word)
 keywords: vbawd10.chm157155506
 f1_keywords:
 - vbawd10.chm157155506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ComputeStatistics Method (Word)
+# Range.ComputeStatistics method (Word)
 
 Returns a  **Long** that represents a statistic based on the contents of the specified range.
 

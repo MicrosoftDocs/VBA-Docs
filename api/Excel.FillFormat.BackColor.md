@@ -1,5 +1,5 @@
 ---
-title: FillFormat.BackColor Property (Excel)
+title: FillFormat.BackColor property (Excel)
 keywords: vbaxl10.chm115011
 f1_keywords:
 - vbaxl10.chm115011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.BackColor Property (Excel)
+# FillFormat.BackColor property (Excel)
 
 Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the specified fill background color.
 

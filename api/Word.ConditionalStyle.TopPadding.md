@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.TopPadding Property (Word)
+title: ConditionalStyle.TopPadding property (Word)
 keywords: vbawd10.chm91029508
 f1_keywords:
 - vbawd10.chm91029508
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.TopPadding Property (Word)
+# ConditionalStyle.TopPadding property (Word)
 
 Returns or sets the amount of space (in points) to add above the contents of a single cell or all the cells in a table. Read/write  **Single** .
 

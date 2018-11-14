@@ -1,5 +1,5 @@
 ---
-title: LeaderLines Object (Excel)
+title: LeaderLines object (Excel)
 keywords: vbaxl10.chm605072
 f1_keywords:
 - vbaxl10.chm605072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines Object (Excel)
+# LeaderLines object (Excel)
 
 Represents leader lines on a chart. Leader lines connect data labels to data points.
 

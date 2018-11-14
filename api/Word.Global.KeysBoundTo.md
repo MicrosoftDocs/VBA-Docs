@@ -1,5 +1,5 @@
 ---
-title: Global.KeysBoundTo Property (Word)
+title: Global.KeysBoundTo property (Word)
 keywords: vbawd10.chm163119174
 f1_keywords:
 - vbawd10.chm163119174
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.KeysBoundTo Property (Word)
+# Global.KeysBoundTo property (Word)
 
 Returns a  **KeysBoundTo** object that represents all the key combinations assigned to the specified item.
 

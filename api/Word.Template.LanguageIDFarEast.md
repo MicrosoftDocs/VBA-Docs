@@ -1,5 +1,5 @@
 ---
-title: Template.LanguageIDFarEast Property (Word)
+title: Template.LanguageIDFarEast property (Word)
 keywords: vbawd10.chm157941771
 f1_keywords:
 - vbawd10.chm157941771
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.LanguageIDFarEast Property (Word)
+# Template.LanguageIDFarEast property (Word)
 
 Returns or sets an East Asian language for the specified object. Read/write  **WdLanguageID** .
 

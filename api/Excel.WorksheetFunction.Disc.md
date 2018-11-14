@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Disc Method (Excel)
+title: WorksheetFunction.Disc method (Excel)
 keywords: vbaxl10.chm137312
 f1_keywords:
 - vbaxl10.chm137312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Disc Method (Excel)
+# WorksheetFunction.Disc method (Excel)
 
 Returns the discount rate for a security.
 

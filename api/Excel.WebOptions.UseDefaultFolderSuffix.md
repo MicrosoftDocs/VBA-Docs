@@ -1,5 +1,5 @@
 ---
-title: WebOptions.UseDefaultFolderSuffix Method (Excel)
+title: WebOptions.UseDefaultFolderSuffix method (Excel)
 keywords: vbaxl10.chm662084
 f1_keywords:
 - vbaxl10.chm662084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.UseDefaultFolderSuffix Method (Excel)
+# WebOptions.UseDefaultFolderSuffix method (Excel)
 
 Sets the folder suffix for the specified document to the default suffix for the language support you have selected or installed.
 

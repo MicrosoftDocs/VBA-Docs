@@ -1,5 +1,5 @@
 ---
-title: Workbook.FollowHyperlink Method (Excel)
+title: Workbook.FollowHyperlink method (Excel)
 keywords: vbaxl10.chm199182
 f1_keywords:
 - vbaxl10.chm199182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.FollowHyperlink Method (Excel)
+# Workbook.FollowHyperlink method (Excel)
 
 Displays a cached document, if it?s already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 

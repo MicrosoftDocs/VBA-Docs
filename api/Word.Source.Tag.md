@@ -1,5 +1,5 @@
 ---
-title: Source.Tag Property (Word)
+title: Source.Tag property (Word)
 keywords: vbawd10.chm140836967
 f1_keywords:
 - vbawd10.chm140836967
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.Tag Property (Word)
+# Source.Tag property (Word)
 
 Returns a  **String** that represents an internal identifying label for a source. Read-only.
 

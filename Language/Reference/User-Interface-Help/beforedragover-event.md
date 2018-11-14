@@ -26,7 +26,7 @@ For other controls **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**A
 The  **BeforeDragOver** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the  **Page** in a **MultiPage** that the drag-and-drop operation will affect.|
@@ -42,7 +42,7 @@ The  **BeforeDragOver** event syntax has these parts:
 The settings for  _DragState_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDragStateEnter_|0|Mouse pointer is within range of a target.|
 | _fmDragStateLeave_|1|Mouse pointer is outside the range of a target.|
@@ -51,7 +51,7 @@ The settings for  _DragState_ are:
 The settings for  _Effect_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDropEffectNone_|0|Does not copy or move the drop source to the drop target.|
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
@@ -61,7 +61,7 @@ The settings for  _Effect_ are:
 The settings for  _Shift_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|

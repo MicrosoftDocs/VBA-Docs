@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Parent Property (Excel)
+title: ShadowFormat.Parent property (Excel)
 keywords: vbaxl10.chm114001
 f1_keywords:
 - vbaxl10.chm114001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Parent Property (Excel)
+# ShadowFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

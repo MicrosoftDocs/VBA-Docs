@@ -1,5 +1,5 @@
 ---
-title: WdWordDialogTab Enumeration (Word)
+title: WdWordDialogTab enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdWordDialogTab
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdWordDialogTab Enumeration (Word)
+# WdWordDialogTab enumeration (Word)
 
 Specifies the active tab when the specified dialog box is displayed.
 
@@ -16,9 +16,9 @@ Specifies the active tab when the specified dialog box is displayed.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdDialogEmailOptionsTabQuoting**|1900002| **General** tab of the **E-mail Options** dialog box.|
-| **wdDialogEmailOptionsTabSignature**|1900000| **E-mail Signature** tab of the **E-mail Options** dialog box.|
-| **wdDialogEmailOptionsTabStationary**|1900001| **Personal Stationary** tab of the **E-mail Options** dialog box.|
+| **wdDialogEmailOptionsTabQuoting**|1900002| **General** tab of the **Email Options** dialog box.|
+| **wdDialogEmailOptionsTabSignature**|1900000| **Email Signature** tab of the **Email Options** dialog box.|
+| **wdDialogEmailOptionsTabStationary**|1900001| **Personal Stationary** tab of the **Email Options** dialog box.|
 | **wdDialogFilePageSetupTabCharsLines**|150004| **Margins** tab of the **Page Setup** dialog box, with **Apply To** drop-down list active.|
 | **wdDialogFilePageSetupTabLayout**|150003| **Layout** tab of the **Page Setup** dialog box.|
 | **wdDialogFilePageSetupTabMargins**|150000| **Margins** tab of the **Page Setup** dialog box.|

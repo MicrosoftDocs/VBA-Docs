@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Application Property (Word)
+title: XSLTransform.Application property (Word)
 keywords: vbawd10.chm76743656
 f1_keywords:
 - vbawd10.chm76743656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.Application Property (Word)
+# XSLTransform.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.ProtectChartObject Property (Excel)
+title: ChartObjects.ProtectChartObject property (Excel)
 keywords: vbaxl10.chm497098
 f1_keywords:
 - vbaxl10.chm497098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.ProtectChartObject Property (Excel)
+# ChartObjects.ProtectChartObject property (Excel)
 
  **True** if the embedded chart frame cannot be moved, resized, or deleted through the user interface. Read/write **Boolean** .
 

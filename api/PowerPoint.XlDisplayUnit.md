@@ -1,5 +1,5 @@
 ---
-title: XlDisplayUnit Enumeration (PowerPoint)
+title: xlDisplayUnit Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlDisplayUnit
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDisplayUnit Enumeration (PowerPoint)
+# xlDisplayUnit Enumeration (PowerPoint)
 
 Specifies the display unit label for an axis.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayFieldCaptions Property (Excel)
+title: PivotTable.DisplayFieldCaptions property (Excel)
 keywords: vbaxl10.chm235165
 f1_keywords:
 - vbaxl10.chm235165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayFieldCaptions Property (Excel)
+# PivotTable.DisplayFieldCaptions property (Excel)
 
 Controls whether or not filter buttons and PivotField captions for rows and columns are displayed in the grid. Read/write.
 

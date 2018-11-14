@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormatLocal Property (Excel)
+title: DataLabels.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm584095
 f1_keywords:
 - vbaxl10.chm584095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.NumberFormatLocal Property (Excel)
+# DataLabels.NumberFormatLocal property (Excel)
 
 Returns or sets a  **Variant** value that represents the format code for the object as a string in the language of the user.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.TextboxTightWrap Property (Word)
+title: ParagraphFormat.TextboxTightWrap property (Word)
 keywords: vbawd10.chm156434567
 f1_keywords:
 - vbawd10.chm156434567
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.TextboxTightWrap Property (Word)
+# ParagraphFormat.TextboxTightWrap property (Word)
 
 Returns or sets a  **[WdTextboxTightWrap](Word.WdTextboxTightWrap.md)** constant that represents how tightly text wraps around shapes or text boxes. Read/write.
 

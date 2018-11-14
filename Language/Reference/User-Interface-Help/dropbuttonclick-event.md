@@ -23,7 +23,7 @@ Occurs whenever the drop-down list appears or disappears.
 The  **DropButtonClick** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowAllFieldButtons Property (Word)
+title: Chart.ShowAllFieldButtons property (Word)
 keywords: vbawd10.chm79366944
 f1_keywords:
 - vbawd10.chm79366944
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowAllFieldButtons Property (Word)
+# Chart.ShowAllFieldButtons property (Word)
 
 Returns or sets whether to display all field buttons on a PivotChart. Read/write. Deprecated.
 

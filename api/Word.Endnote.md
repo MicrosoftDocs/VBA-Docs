@@ -1,5 +1,5 @@
 ---
-title: Endnote Object (Word)
+title: Endnote object (Word)
 keywords: vbawd10.chm2366
 f1_keywords:
 - vbawd10.chm2366
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnote Object (Word)
+# Endnote object (Word)
 
 Represents an endnote. The  **Endnote** object is a member of the **Endnotes** collection, which represents the endnotes in a selection, range, or document.
 

@@ -1,5 +1,5 @@
 ---
-title: Scenario Object (Excel)
+title: Scenario object (Excel)
 keywords: vbaxl10.chm363072
 f1_keywords:
 - vbaxl10.chm363072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenario Object (Excel)
+# Scenario object (Excel)
 
 Represents a scenario on a worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Comments Property (Word)
+title: Document.Comments property (Word)
 keywords: vbawd10.chm158007305
 f1_keywords:
 - vbawd10.chm158007305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Comments Property (Word)
+# Document.Comments property (Word)
 
 Returns a  **[Comments](Word.comments.md)** collection that represents all the comments in the specified document. Read-only.
 

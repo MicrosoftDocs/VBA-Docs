@@ -1,5 +1,5 @@
 ---
-title: XlListDataType Enumeration (Excel)
+title: xlListDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlListDataType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlListDataType Enumeration (Excel)
+# xlListDataType enumeration (Excel)
 
 Specifies the data type of a list column connected to a Microsoft SharePoint Foundation site.
 

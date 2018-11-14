@@ -1,5 +1,5 @@
 ---
-title: ProofreadingErrors.Creator Property (Word)
+title: ProofreadingErrors.Creator property (Word)
 keywords: vbawd10.chm163251177
 f1_keywords:
 - vbawd10.chm163251177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProofreadingErrors.Creator Property (Word)
+# ProofreadingErrors.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

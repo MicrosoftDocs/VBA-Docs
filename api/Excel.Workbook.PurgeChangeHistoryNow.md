@@ -1,5 +1,5 @@
 ---
-title: Workbook.PurgeChangeHistoryNow Method (Excel)
+title: Workbook.PurgeChangeHistoryNow method (Excel)
 keywords: vbaxl10.chm199176
 f1_keywords:
 - vbaxl10.chm199176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PurgeChangeHistoryNow Method (Excel)
+# Workbook.PurgeChangeHistoryNow method (Excel)
 
 Removes entries from the change log for the specified workbook.
 

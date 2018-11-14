@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Parent Property (Excel)
+title: WorksheetFunction.Parent property (Excel)
 keywords: vbaxl10.chm136075
 f1_keywords:
 - vbaxl10.chm136075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Parent Property (Excel)
+# WorksheetFunction.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

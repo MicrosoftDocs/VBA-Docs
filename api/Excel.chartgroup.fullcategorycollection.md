@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.FullCategoryCollection Method (Excel)
+title: ChartGroup.FullCategoryCollection method (Excel)
 keywords: vbaxl10.chm568101
 f1_keywords:
 - vbaxl10.chm568101
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.FullCategoryCollection Method (Excel)
+# ChartGroup.FullCategoryCollection method (Excel)
 
 Returns an object that represents a collection of all of the visible and filtered categories (a [CategoryCollection](Excel.categorycollection.md) collection) in the chart group.
 
@@ -25,7 +25,7 @@ Returns an object that represents a collection of all of the visible and filtere
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Optional|VARIANT|The name or number of the categories.|
 

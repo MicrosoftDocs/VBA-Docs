@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PercentRank_Exc Method (Excel)
+title: WorksheetFunction.PercentRank_Exc method (Excel)
 keywords: vbaxl10.chm137374
 f1_keywords:
 - vbaxl10.chm137374
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.PercentRank_Exc Method (Excel)
+# WorksheetFunction.PercentRank_Exc method (Excel)
 
 Returns the rank of a value in a data set as a percentage (0..1, exclusive) of the data set.
 

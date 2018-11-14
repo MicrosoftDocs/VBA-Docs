@@ -1,5 +1,5 @@
 ---
-title: SortField.Key Property (Excel)
+title: SortField.Key property (Excel)
 keywords: vbaxl10.chm843075
 f1_keywords:
 - vbaxl10.chm843075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SortField.Key Property (Excel)
+# SortField.Key property (Excel)
 
 Specifies the range that is currently being sorted on. Read-only.
 

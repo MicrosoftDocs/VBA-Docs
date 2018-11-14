@@ -1,12 +1,12 @@
 ---
-title: XlVAlign Enumeration (Word)
+title: xlVAlign enumeration (Word)
 ms.prod: word
 ms.assetid: 80dbd66a-49e2-5a82-8593-9fe56097e0f7
 ms.date: 06/08/2017
 ---
 
 
-# XlVAlign Enumeration (Word)
+# xlVAlign enumeration (Word)
 
 Specifies the vertical alignment for the object.
 

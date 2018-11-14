@@ -1,5 +1,5 @@
 ---
-title: Chart.MailEnvelope Property (Excel)
+title: Chart.MailEnvelope property (Excel)
 keywords: vbaxl10.chm149170
 f1_keywords:
 - vbaxl10.chm149170
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.MailEnvelope Property (Excel)
+# Chart.MailEnvelope property (Excel)
 
-Rrepresents an e-mail header for a document.
+Rrepresents an email header for a document.
 
 
 ## Syntax

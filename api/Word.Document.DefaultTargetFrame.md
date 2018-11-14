@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultTargetFrame Property (Word)
+title: Document.DefaultTargetFrame property (Word)
 keywords: vbawd10.chm158007636
 f1_keywords:
 - vbawd10.chm158007636
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DefaultTargetFrame Property (Word)
+# Document.DefaultTargetFrame property (Word)
 
 Returns or sets a  **String** indicating the browser frame in which to display a Web page reached through a hyperlink. Read/write.
 

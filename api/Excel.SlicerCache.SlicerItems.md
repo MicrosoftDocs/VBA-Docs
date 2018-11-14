@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SlicerItems Property (Excel)
+title: SlicerCache.SlicerItems property (Excel)
 keywords: vbaxl10.chm897083
 f1_keywords:
 - vbaxl10.chm897083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SlicerItems Property (Excel)
+# SlicerCache.SlicerItems property (Excel)
 
 Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the collection of all items in the slicer cache. Read-only
 

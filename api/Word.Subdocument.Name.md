@@ -1,5 +1,5 @@
 ---
-title: Subdocument.Name Property (Word)
+title: Subdocument.Name property (Word)
 keywords: vbawd10.chm159973379
 f1_keywords:
 - vbawd10.chm159973379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.Name Property (Word)
+# Subdocument.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

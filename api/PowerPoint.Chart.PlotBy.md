@@ -25,7 +25,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 
 ## Remarks
 
-The value of this property can be one of the following  **[XlRowCol](PowerPoint.XlRowCol.md)** constants:
+The value of this property can be one of the following  **[xlRowCol](PowerPoint.XlRowCol.md)** constants:
 
 
 -  **xlColumns**

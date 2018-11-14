@@ -1,5 +1,5 @@
 ---
-title: WdExportRange Enumeration (Word)
+title: WdExportRange enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdExportRange
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdExportRange Enumeration (Word)
+# WdExportRange enumeration (Word)
 
 Specifies how much of the document to export.
 

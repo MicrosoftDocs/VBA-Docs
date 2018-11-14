@@ -1,5 +1,5 @@
 ---
-title: Templates.Application Property (Word)
+title: Templates.Application property (Word)
 keywords: vbawd10.chm161612776
 f1_keywords:
 - vbawd10.chm161612776
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Templates.Application Property (Word)
+# Templates.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

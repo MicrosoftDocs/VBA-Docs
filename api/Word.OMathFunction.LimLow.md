@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.LimLow Property (Word)
+title: OMathFunction.LimLow property (Word)
 keywords: vbawd10.chm22151282
 f1_keywords:
 - vbawd10.chm22151282
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.LimLow Property (Word)
+# OMathFunction.LimLow property (Word)
 
 Returns an  **[OMathLimLow](Word.OMathLimLow.md)** object that represents the lower limit for a function. Read-only.
 

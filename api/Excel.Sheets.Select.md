@@ -1,5 +1,5 @@
 ---
-title: Sheets.Select Method (Excel)
+title: Sheets.Select method (Excel)
 keywords: vbaxl10.chm152083
 f1_keywords:
 - vbaxl10.chm152083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sheets.Select Method (Excel)
+# Sheets.Select method (Excel)
 
 Selects the object.
 

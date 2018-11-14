@@ -1,5 +1,5 @@
 ---
-title: PivotCache.LocalConnection Property (Excel)
+title: PivotCache.LocalConnection property (Excel)
 keywords: vbaxl10.chm227094
 f1_keywords:
 - vbaxl10.chm227094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.LocalConnection Property (Excel)
+# PivotCache.LocalConnection property (Excel)
 
 Returns or sets the connection string to an offline cube file. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Window.ScrollIntoView Method (Word)
+title: Window.ScrollIntoView method (Word)
 keywords: vbawd10.chm157417583
 f1_keywords:
 - vbawd10.chm157417583
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ScrollIntoView Method (Word)
+# Window.ScrollIntoView method (Word)
 
 Scrolls through the document window so the specified range or shape is displayed in the document window.
 

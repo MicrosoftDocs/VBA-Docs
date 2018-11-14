@@ -1,5 +1,5 @@
 ---
-title: DataTable.Format Property (Excel)
+title: DataTable.Format property (Excel)
 keywords: vbaxl10.chm626082
 f1_keywords:
 - vbaxl10.chm626082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Format Property (Excel)
+# DataTable.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

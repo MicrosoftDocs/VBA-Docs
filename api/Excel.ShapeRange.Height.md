@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Height Property (Excel)
+title: ShapeRange.Height property (Excel)
 keywords: vbaxl10.chm640105
 f1_keywords:
 - vbaxl10.chm640105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Height Property (Excel)
+# ShapeRange.Height property (Excel)
 
 Returns or sets a  **Single** value that represents the height, in points, of the object.
 

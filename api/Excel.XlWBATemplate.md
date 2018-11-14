@@ -1,5 +1,5 @@
 ---
-title: XlWBATemplate Enumeration (Excel)
+title: xlWBATemplate enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWBATemplate
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlWBATemplate Enumeration (Excel)
+# xlWBATemplate enumeration (Excel)
 
 Specifies the type of workbook to create. The new workbook contains a single sheet of the specified type.
 

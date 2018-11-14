@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontName Property (Excel)
+title: TextEffectFormat.FontName property (Excel)
 keywords: vbaxl10.chm118005
 f1_keywords:
 - vbaxl10.chm118005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontName Property (Excel)
+# TextEffectFormat.FontName property (Excel)
 
 Returns or sets the name of the font in the specified WordArt. Read/write  **String** .
 

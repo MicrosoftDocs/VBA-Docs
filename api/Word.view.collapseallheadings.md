@@ -1,5 +1,5 @@
 ---
-title: View.CollapseAllHeadings Method (Word)
+title: View.CollapseAllHeadings method (Word)
 keywords: vbawd10.chm161809492
 f1_keywords:
 - vbawd10.chm161809492
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.CollapseAllHeadings Method (Word)
+# View.CollapseAllHeadings method (Word)
 
 Collapses all the headings in the document.
 

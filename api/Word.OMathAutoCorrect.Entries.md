@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrect.Entries Property (Word)
+title: OMathAutoCorrect.Entries property (Word)
 keywords: vbawd10.chm258474089
 f1_keywords:
 - vbawd10.chm258474089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrect.Entries Property (Word)
+# OMathAutoCorrect.Entries property (Word)
 
 Returns an  **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collection that represents the collection of equation autocorrect entries within the equation autocorrect feature. Read-only.
 

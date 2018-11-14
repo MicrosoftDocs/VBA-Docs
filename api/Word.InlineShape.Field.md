@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Field Property (Word)
+title: InlineShape.Field property (Word)
 keywords: vbawd10.chm162004996
 f1_keywords:
 - vbawd10.chm162004996
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Field Property (Word)
+# InlineShape.Field property (Word)
 
 Returns a  **Field** object that represents the field associated with the specified inline shape. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ProtectScenarios Property (Excel)
+title: Worksheet.ProtectScenarios property (Excel)
 keywords: vbaxl10.chm174093
 f1_keywords:
 - vbaxl10.chm174093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ProtectScenarios Property (Excel)
+# Worksheet.ProtectScenarios property (Excel)
 
  **True** if the worksheet scenarios are protected. Read-only **Boolean** .
 

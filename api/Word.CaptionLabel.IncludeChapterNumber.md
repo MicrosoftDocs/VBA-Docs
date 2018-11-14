@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.IncludeChapterNumber Property (Word)
+title: CaptionLabel.IncludeChapterNumber property (Word)
 keywords: vbawd10.chm158924803
 f1_keywords:
 - vbawd10.chm158924803
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.IncludeChapterNumber Property (Word)
+# CaptionLabel.IncludeChapterNumber property (Word)
 
  **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean** .
 

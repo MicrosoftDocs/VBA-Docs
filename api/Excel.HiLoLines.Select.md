@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Select Method (Excel)
+title: HiLoLines.Select method (Excel)
 keywords: vbaxl10.chm600075
 f1_keywords:
 - vbaxl10.chm600075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Select Method (Excel)
+# HiLoLines.Select method (Excel)
 
 Selects the object.
 

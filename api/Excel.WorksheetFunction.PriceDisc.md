@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.PriceDisc Method (Excel)
+title: WorksheetFunction.PriceDisc method (Excel)
 keywords: vbaxl10.chm137313
 f1_keywords:
 - vbaxl10.chm137313
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.PriceDisc Method (Excel)
+# WorksheetFunction.PriceDisc method (Excel)
 
 Returns the price per $100 face value of a discounted security.
 

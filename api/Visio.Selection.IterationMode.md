@@ -49,7 +49,7 @@ The value of the  **IterationMode** property is a combination of the following v
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelModeSkipSuper**|&H0100 |Selection does not report superselected shapes. |
 | **visSelModeOnlySuper**|&H0200 |Selection only reports superselected shapes. |

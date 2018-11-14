@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Acos Method (Excel)
+title: WorksheetFunction.Acos method (Excel)
 keywords: vbaxl10.chm137120
 f1_keywords:
 - vbaxl10.chm137120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Acos Method (Excel)
+# WorksheetFunction.Acos method (Excel)
 
 Returns the arccosine, or inverse cosine, of a number. The arccosine is the angle whose cosine is  _Arg1_. The returned angle is given in radians in the range 0 (zero) to pi.
 

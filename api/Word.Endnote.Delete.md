@@ -1,5 +1,5 @@
 ---
-title: Endnote.Delete Method (Word)
+title: Endnote.Delete method (Word)
 keywords: vbawd10.chm155058186
 f1_keywords:
 - vbawd10.chm155058186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnote.Delete Method (Word)
+# Endnote.Delete method (Word)
 
 Deletes the specified endnote.
 

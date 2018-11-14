@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.AlwaysUseConnectionFile Property (Excel)
+title: ODBCConnection.AlwaysUseConnectionFile property (Excel)
 keywords: vbaxl10.chm796092
 f1_keywords:
 - vbaxl10.chm796092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.AlwaysUseConnectionFile Property (Excel)
+# ODBCConnection.AlwaysUseConnectionFile property (Excel)
 
  **True** if the connection file is always used to establish connection to the data source. Read/write **Boolean** .
 

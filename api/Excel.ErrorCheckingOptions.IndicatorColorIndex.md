@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.IndicatorColorIndex Property (Excel)
+title: ErrorCheckingOptions.IndicatorColorIndex property (Excel)
 keywords: vbaxl10.chm698074
 f1_keywords:
 - vbaxl10.chm698074
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.IndicatorColorIndex Property (Excel)
+# ErrorCheckingOptions.IndicatorColorIndex property (Excel)
 
-Returns or sets the color of the indicator for error checking options. Read/write  **[XlColorIndex](Excel.XlColorIndex.md)** .
+Returns or sets the color of the indicator for error checking options. Read/write  **[xlColorIndex](Excel.XlColorIndex.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the color of the indicator for error checking options. Read/writ
 
 
 
-| **XlColorIndex** can be one of these **XlColorIndex** constants.|
+| **xlColorIndex** can be one of these **xlColorIndex** constants.|
 | **xlColorIndexAutomatic** The default system color.|
 | **xlColorIndexNone** Not used with this property.|
 

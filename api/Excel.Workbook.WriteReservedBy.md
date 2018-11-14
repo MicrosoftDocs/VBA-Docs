@@ -1,5 +1,5 @@
 ---
-title: Workbook.WriteReservedBy Property (Excel)
+title: Workbook.WriteReservedBy property (Excel)
 keywords: vbaxl10.chm199168
 f1_keywords:
 - vbaxl10.chm199168
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.WriteReservedBy Property (Excel)
+# Workbook.WriteReservedBy property (Excel)
 
 Returns the name of the user who currently has write permission for the workbook. Read-only  **String** .
 

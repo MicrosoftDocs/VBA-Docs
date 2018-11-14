@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedLinesMark Property (Word)
+title: Options.RevisedLinesMark property (Word)
 keywords: vbawd10.chm162988091
 f1_keywords:
 - vbawd10.chm162988091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RevisedLinesMark Property (Word)
+# Options.RevisedLinesMark property (Word)
 
 Returns or sets the placement of changed lines in a document with tracked changes. Read/write  **WdRevisedLinesMark** .
 

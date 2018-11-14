@@ -1,5 +1,5 @@
 ---
-title: Pane.VerticalPercentScrolled Property (Word)
+title: Pane.VerticalPercentScrolled property (Word)
 keywords: vbawd10.chm157286414
 f1_keywords:
 - vbawd10.chm157286414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.VerticalPercentScrolled Property (Word)
+# Pane.VerticalPercentScrolled property (Word)
 
 Returns or sets the vertical scroll position as a percentage of the document length. Read/write  **Long** .
 

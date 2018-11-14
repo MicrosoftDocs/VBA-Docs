@@ -1,5 +1,5 @@
 ---
-title: Chart.SetDefaultChart Method (Excel)
+title: Chart.SetDefaultChart method (Excel)
 keywords: vbaxl10.chm149182
 f1_keywords:
 - vbaxl10.chm149182
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetDefaultChart Method (Excel)
+# Chart.SetDefaultChart method (Excel)
 
 Specifies the name of the chart template that Microsoft Excel uses when creating new charts.
 

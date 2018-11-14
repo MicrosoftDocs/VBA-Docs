@@ -1,5 +1,5 @@
 ---
-title: GroupShapes.Parent Property (Excel)
+title: GroupShapes.Parent property (Excel)
 keywords: vbaxl10.chm641075
 f1_keywords:
 - vbaxl10.chm641075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GroupShapes.Parent Property (Excel)
+# GroupShapes.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

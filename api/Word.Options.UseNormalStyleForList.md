@@ -1,5 +1,5 @@
 ---
-title: Options.UseNormalStyleForList Property (Word)
+title: Options.UseNormalStyleForList property (Word)
 keywords: vbawd10.chm162988521
 f1_keywords:
 - vbawd10.chm162988521
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseNormalStyleForList Property (Word)
+# Options.UseNormalStyleForList property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word uses the Normal style for bullets and numbering. Read/write.
 

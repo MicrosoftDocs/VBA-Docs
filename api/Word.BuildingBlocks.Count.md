@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks.Count Property (Word)
+title: BuildingBlocks.Count property (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks.Count Property (Word)
+# BuildingBlocks.Count property (Word)
 
 Returns the number of items in the  **BuildingBlocks** collection. Read-only **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.ImportFragment Method (Word)
+title: Range.ImportFragment method (Word)
 keywords: vbawd10.chm157155830
 f1_keywords:
 - vbawd10.chm157155830
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ImportFragment Method (Word)
+# Range.ImportFragment method (Word)
 
 Imports a document fragment into the document at the specified range.
 

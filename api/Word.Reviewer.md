@@ -1,5 +1,5 @@
 ---
-title: Reviewer Object (Word)
+title: Reviewer object (Word)
 keywords: vbawd10.chm1198
 f1_keywords:
 - vbawd10.chm1198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewer Object (Word)
+# Reviewer object (Word)
 
 Represents a single reviewer of a document in which changes have been tracked. The  **Reviewer** object is a member of the **[Reviewers](Word.Reviewers.md)** collection.
 

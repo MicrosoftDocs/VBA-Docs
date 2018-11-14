@@ -1,5 +1,5 @@
 ---
-title: Shape.TextFrame2 Property (Word)
+title: Shape.TextFrame2 property (Word)
 keywords: vbawd10.chm161480859
 f1_keywords:
 - vbawd10.chm161480859
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.TextFrame2 Property (Word)
+# Shape.TextFrame2 property (Word)
 
 Returns a  **TextFrame2** object that contains the text for the specified shape. Read-only.
 

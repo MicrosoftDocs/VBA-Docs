@@ -1,5 +1,5 @@
 ---
-title: Document.DocumentLibraryVersions Property (Word)
+title: Document.DocumentLibraryVersions property (Word)
 keywords: vbawd10.chm158007772
 f1_keywords:
 - vbawd10.chm158007772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DocumentLibraryVersions Property (Word)
+# Document.DocumentLibraryVersions property (Word)
 
 Returns a  **DocumentLibraryVersions** collection that represents the collection of versions of a shared document that has versioning enabled and that is stored in a document library on a server.
 

@@ -23,7 +23,7 @@ _object_. **Accelerator** [= _String_ ]
 The  **Accelerator** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. The character to use as the accelerator key.|

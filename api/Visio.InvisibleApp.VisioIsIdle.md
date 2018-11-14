@@ -49,7 +49,7 @@ A client program can use the  **VisioIsIdle** event as a signal to perform its o
 
 The  **VisioIsIdle** event is not the equivalent of a standard timer event. Client programs that need to be called on a periodic basis should use standard timer techniques, because the duration in which Visio is idle (calls **WaitMessage**) is unpredictable. For client programs that are only monitoring Visio activity, however, the **VisioIsIdle** event can be sufficient, because until **WaitMessage** returns to Visio, there cannot have been any Visio activity since the **VisioIsIdle** event was last fired.
 
-If you're using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
+If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 
 If you want to create your own  **Event** objects, use the **Add** or **AddAdvise** method. To create an **Event** object that runs an add-on, use the **Add** method as it applies to the **EventList** collection. To create an **Event** object that receives notification, use the **AddAdvise** method. To find an event code for the event you want to create, see [Event codes](../visio/Concepts/event-codesvisio.md).
 

@@ -43,7 +43,7 @@ The  _FormatType_ parameter must be one of the following **VisContainerFormatTyp
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerFormatLockMembership**|0|Apply one of the  **[LockMembership](Visio.ContainerProperties.LockMembership.md)** property values, as specified in _FormatValue_.  _FormatValue_ is required, and must be of type **Boolean** (preferred) or another type that can be converted to **Boolean** .|
 | **visContainerFormatContainerAutoResize**|1|Apply one of the  **[ResizeAsNeeded](Visio.ContainerProperties.ResizeAsNeeded.md)** property values, as specified in _FormatValue_. Applies to normal containers only.  _FormatValue_ is required, must be of type **Short** (preferred) or of another type that can be converted to **Short** , and must be equal to a constant in the range of those in the **[VisContainerAutoResize](Visio.VisContainerAutoResize.md)** enumeration.|

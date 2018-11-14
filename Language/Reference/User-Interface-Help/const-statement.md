@@ -20,7 +20,7 @@ Declares [constants](../../Glossary/vbe-glossary.md#constant) for use in place o
 The  **Const** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) used at [module level](../../Glossary/vbe-glossary.md#module-level) to declare constants that are available to all [procedures](../../Glossary/vbe-glossary.md#procedure) in all [modules](../../Glossary/vbe-glossary.md#module). Not allowed in procedures.|
 |**Private**|Optional. Keyword used at module level to declare constants that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made. Not allowed in procedures.|

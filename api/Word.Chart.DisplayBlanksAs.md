@@ -1,5 +1,5 @@
 ---
-title: Chart.DisplayBlanksAs Property (Word)
+title: Chart.DisplayBlanksAs property (Word)
 keywords: vbawd10.chm79364114
 f1_keywords:
 - vbawd10.chm79364114
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.DisplayBlanksAs Property (Word)
+# Chart.DisplayBlanksAs property (Word)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](Word.xldisplayblanksas.md)** constants. Read/write **Long** .
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[xlDisplayBlanksAs](Word.xldisplayblanksas.md)** constants. Read/write **Long** .
 
 
 ## Syntax

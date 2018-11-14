@@ -1,5 +1,5 @@
 ---
-title: View.ConflictMode Property (Word)
+title: View.ConflictMode property (Word)
 keywords: vbawd10.chm161808442
 f1_keywords:
 - vbawd10.chm161808442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ConflictMode Property (Word)
+# View.ConflictMode property (Word)
 
  **True** if the document is in conflict mode view. Read/write.
 

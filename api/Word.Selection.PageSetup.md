@@ -1,5 +1,5 @@
 ---
-title: Selection.PageSetup Property (Word)
+title: Selection.PageSetup property (Word)
 keywords: vbawd10.chm158663757
 f1_keywords:
 - vbawd10.chm158663757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.PageSetup Property (Word)
+# Selection.PageSetup property (Word)
 
 Returns a  **[PageSetup](Word.PageSetup.md)** object that's associated with the specified selection.
 

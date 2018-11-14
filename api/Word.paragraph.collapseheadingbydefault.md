@@ -1,5 +1,5 @@
 ---
-title: Paragraph.CollapseHeadingByDefault Property (Word)
+title: Paragraph.CollapseHeadingByDefault property (Word)
 keywords: vbawd10.chm156697780
 f1_keywords:
 - vbawd10.chm156697780
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.CollapseHeadingByDefault Property (Word)
+# Paragraph.CollapseHeadingByDefault property (Word)
 
 Returns or sets whether the specified paragraph is collapsed by default when the document loads. Read-write  **Boolean**.
 

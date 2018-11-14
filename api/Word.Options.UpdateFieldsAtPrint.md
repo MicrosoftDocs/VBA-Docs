@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateFieldsAtPrint Property (Word)
+title: Options.UpdateFieldsAtPrint property (Word)
 keywords: vbawd10.chm162988062
 f1_keywords:
 - vbawd10.chm162988062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UpdateFieldsAtPrint Property (Word)
+# Options.UpdateFieldsAtPrint property (Word)
 
  **True** if Microsoft Word updates fields automatically before printing a document. Read/write **Boolean** .
 

@@ -22,7 +22,7 @@ Sets the color, style, and optionally the embellishment of the variant of the th
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _variantColor_|Required|INT16|The index of the color variant to apply. Possible values are from 0 to 3.|

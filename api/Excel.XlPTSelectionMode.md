@@ -1,5 +1,5 @@
 ---
-title: XlPTSelectionMode Enumeration (Excel)
+title: xlPTSelectionMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPTSelectionMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPTSelectionMode Enumeration (Excel)
+# xlPTSelectionMode enumeration (Excel)
 
 Specifies what can be selected in a PivotTable during a structured selection. These constants can be combined to select multiple types.
 

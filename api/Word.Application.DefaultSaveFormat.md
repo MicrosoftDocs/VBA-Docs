@@ -1,5 +1,5 @@
 ---
-title: Application.DefaultSaveFormat Property (Word)
+title: Application.DefaultSaveFormat property (Word)
 keywords: vbawd10.chm158335040
 f1_keywords:
 - vbawd10.chm158335040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DefaultSaveFormat Property (Word)
+# Application.DefaultSaveFormat property (Word)
 
 Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String** .
 

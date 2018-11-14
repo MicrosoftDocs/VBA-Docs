@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.PageRangeSeparator Property (Word)
+title: TableOfAuthorities.PageRangeSeparator property (Word)
 keywords: vbawd10.chm152109064
 f1_keywords:
 - vbawd10.chm152109064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.PageRangeSeparator Property (Word)
+# TableOfAuthorities.PageRangeSeparator property (Word)
 
 Returns or sets the characters (up to five) that separate a range of pages in a table of authorities. Read/write  **String** .
 

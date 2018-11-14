@@ -1,5 +1,5 @@
 ---
-title: Series.QuartileCalculationInclusiveMedian Property (Word)
+title: Series.QuartileCalculationInclusiveMedian property (Word)
 keywords: vbawd10.chm123734857
 f1_keywords:
 - vbawd10.chm123734857
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.QuartileCalculationInclusiveMedian Property (Word)
+# Series.QuartileCalculationInclusiveMedian property (Word)
 
  **True** if the series uses an inclusive median quartile calculation method. Read/write **Boolean**.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.JustificationMode Property (Word)
+title: Document.JustificationMode property (Word)
 keywords: vbawd10.chm158007606
 f1_keywords:
 - vbawd10.chm158007606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.JustificationMode Property (Word)
+# Document.JustificationMode property (Word)
 
 Returns or sets the character spacing adjustment for the specified document. Read/write  **[WdJustificationMode](Word.WdJustificationMode.md)** .
 

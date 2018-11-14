@@ -1,5 +1,5 @@
 ---
-title: Sentences.First Property (Word)
+title: Sentences.First property (Word)
 keywords: vbawd10.chm156958723
 f1_keywords:
 - vbawd10.chm156958723
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sentences.First Property (Word)
+# Sentences.First property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the first sentence in a collection of sentences within a document, range, or selection.
 

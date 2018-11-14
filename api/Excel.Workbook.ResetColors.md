@@ -1,5 +1,5 @@
 ---
-title: Workbook.ResetColors Method (Excel)
+title: Workbook.ResetColors method (Excel)
 keywords: vbaxl10.chm199180
 f1_keywords:
 - vbaxl10.chm199180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ResetColors Method (Excel)
+# Workbook.ResetColors method (Excel)
 
 Resets the color palette to the default colors.
 

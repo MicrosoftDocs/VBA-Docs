@@ -1,5 +1,5 @@
 ---
-title: ModelChanges.UnknownChange Property (Excel)
+title: ModelChanges.UnknownChange property (Excel)
 keywords: vbaxl10.chm960082
 f1_keywords:
 - vbaxl10.chm960082
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelChanges.UnknownChange Property (Excel)
+# ModelChanges.UnknownChange property (Excel)
 
  **True** when a non-specified change was made to the model as part of a model transaction. **Boolean** Read-only
 

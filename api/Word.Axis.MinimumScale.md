@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScale Property (Word)
+title: Axis.MinimumScale property (Word)
 keywords: vbawd10.chm113049632
 f1_keywords:
 - vbawd10.chm113049632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinimumScale Property (Word)
+# Axis.MinimumScale property (Word)
 
 Returns or sets the minimum value on the value axis. Read/write  **Double** .
 

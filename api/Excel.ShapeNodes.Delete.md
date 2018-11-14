@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.Delete Method (Excel)
+title: ShapeNodes.Delete method (Excel)
 keywords: vbaxl10.chm112007
 f1_keywords:
 - vbaxl10.chm112007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.Delete Method (Excel)
+# ShapeNodes.Delete method (Excel)
 
 Deletes the object.
 

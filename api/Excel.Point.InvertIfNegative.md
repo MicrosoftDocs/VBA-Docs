@@ -1,5 +1,5 @@
 ---
-title: Point.InvertIfNegative Property (Excel)
+title: Point.InvertIfNegative property (Excel)
 keywords: vbaxl10.chm576083
 f1_keywords:
 - vbaxl10.chm576083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.InvertIfNegative Property (Excel)
+# Point.InvertIfNegative property (Excel)
 
  **True** if Microsoft Excel inverts the pattern in the item when it corresponds to a negative number. Read/write **Boolean** .
 

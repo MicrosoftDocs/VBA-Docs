@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.RelyOnCSS Property (Word)
+title: EmailOptions.RelyOnCSS property (Word)
 keywords: vbawd10.chm165347634
 f1_keywords:
 - vbawd10.chm165347634
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.RelyOnCSS Property (Word)
+# EmailOptions.RelyOnCSS property (Word)
 
  **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: LegendEntries.Item Method (Word)
+title: LegendEntries.Item method (Word)
 keywords: vbawd10.chm6815744
 f1_keywords:
 - vbawd10.chm6815744
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntries.Item Method (Word)
+# LegendEntries.Item method (Word)
 
 Returns a single object from a collection.
 

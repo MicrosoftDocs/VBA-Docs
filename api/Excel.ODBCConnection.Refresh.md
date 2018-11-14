@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.Refresh Method (Excel)
+title: ODBCConnection.Refresh method (Excel)
 keywords: vbaxl10.chm796079
 f1_keywords:
 - vbaxl10.chm796079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.Refresh Method (Excel)
+# ODBCConnection.Refresh method (Excel)
 
 Refreshes an ODBC connection.
 

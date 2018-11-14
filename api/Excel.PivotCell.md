@@ -1,5 +1,5 @@
 ---
-title: PivotCell Object (Excel)
+title: PivotCell object (Excel)
 keywords: vbaxl10.chm691072
 f1_keywords:
 - vbaxl10.chm691072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell Object (Excel)
+# PivotCell object (Excel)
 
 Represents a cell in a PivotTable report.
 

@@ -1,5 +1,5 @@
 ---
-title: Rectangles.Count Property (Word)
+title: Rectangles.Count property (Word)
 ms.prod: word
 api_name:
 - Word.Rectangles.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangles.Count Property (Word)
+# Rectangles.Count property (Word)
 
 Returns a  **Long** that represents the number of rectangles in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.Type Property (Word)
+title: Trendline.Type property (Word)
 keywords: vbawd10.chm26345580
 f1_keywords:
 - vbawd10.chm26345580
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Type Property (Word)
+# Trendline.Type property (Word)
 
-Returns or sets the trendline type. Read/write  **[XlTrendlineType](Word.xltrendlinetype.md)** .
+Returns or sets the trendline type. Read/write  **[xlTrendlineType](Word.xltrendlinetype.md)** .
 
 
 ## Syntax

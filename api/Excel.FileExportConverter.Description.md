@@ -1,5 +1,5 @@
 ---
-title: FileExportConverter.Description Property (Excel)
+title: FileExportConverter.Description property (Excel)
 keywords: vbaxl10.chm863074
 f1_keywords:
 - vbaxl10.chm863074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverter.Description Property (Excel)
+# FileExportConverter.Description property (Excel)
 
 Returns the description for the file converter. Read-only  **String** .
 

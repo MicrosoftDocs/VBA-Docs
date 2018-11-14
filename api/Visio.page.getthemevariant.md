@@ -22,7 +22,7 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _pVariantColor_|Required|INT16|The index of the color variant applied. Possible values are from 0 to 3.Out parameter.|

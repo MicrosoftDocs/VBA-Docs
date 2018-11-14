@@ -1,5 +1,5 @@
 ---
-title: WdOMathHorizAlignType Enumeration (Word)
+title: WdOMathHorizAlignType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathHorizAlignType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathHorizAlignType Enumeration (Word)
+# WdOMathHorizAlignType enumeration (Word)
 
 Specifies the horizontal alignment for an equation.
 

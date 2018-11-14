@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList Object (Excel)
+title: PivotTableChangeList object (Excel)
 keywords: vbaxl10.chm890072
 f1_keywords:
 - vbaxl10.chm890072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTableChangeList Object (Excel)
+# PivotTableChangeList object (Excel)
 
 Represents the list of changes a user has made to value cells in a PivotTable report based on an OLAP data source.
 

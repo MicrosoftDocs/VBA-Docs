@@ -1,5 +1,5 @@
 ---
-title: Document.Save Method (Word)
+title: Document.Save method (Word)
 keywords: vbawd10.chm158007404
 f1_keywords:
 - vbawd10.chm158007404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Save Method (Word)
+# Document.Save method (Word)
 
 Saves the specified document.
 

@@ -28,7 +28,7 @@ FROM  _tableexpression_ IN { _path_ | [" _path_ " " _type_ "] | ["" [ _type_; DA
 
 A SELECT statement containing an IN clause has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _destination_|The name of the external table into which data is inserted.|
 | _tableexpression_|The name of the table or tables from which data is retrieved. This argument can be a single table name, a saved query, or a compound resulting from an [INNER JOIN](https://msdn.microsoft.com/library/8d16c74c-02c6-12b7-b180-3e7744ef65f3%28Office.15%29.aspx), [LEFT JOIN](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx), or [RIGHT JOIN](https://msdn.microsoft.com/library/9c10525f-98b1-fd4f-8b40-07a32c5c6502%28Office.15%29.aspx).|

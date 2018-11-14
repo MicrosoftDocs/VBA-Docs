@@ -1,5 +1,5 @@
 ---
-title: Window.SelectedSheets Property (Excel)
+title: Window.SelectedSheets property (Excel)
 keywords: vbaxl10.chm356108
 f1_keywords:
 - vbaxl10.chm356108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SelectedSheets Property (Excel)
+# Window.SelectedSheets property (Excel)
 
 Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the selected sheets in the specified window. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: RecentFiles.Maximum Property (Word)
+title: RecentFiles.Maximum property (Word)
 keywords: vbawd10.chm157483010
 f1_keywords:
 - vbawd10.chm157483010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFiles.Maximum Property (Word)
+# RecentFiles.Maximum property (Word)
 
 Returns or sets the maximum number of recently used files that can appear on the  **File** menu. Can be a number from 0 (zero) through 9. Read/write **Long** .
 

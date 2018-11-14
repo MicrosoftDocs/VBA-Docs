@@ -1,5 +1,5 @@
 ---
-title: CubeField.CurrentPageName Property (Excel)
+title: CubeField.CurrentPageName property (Excel)
 keywords: vbaxl10.chm668100
 f1_keywords:
 - vbaxl10.chm668100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.CurrentPageName Property (Excel)
+# CubeField.CurrentPageName property (Excel)
 
 Returns or sets the page name for a CubeField. Read/write  **String** .
 

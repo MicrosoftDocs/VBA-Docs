@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.MappedDataFields Property (Word)
+title: MailMergeDataSource.MappedDataFields property (Word)
 keywords: vbawd10.chm152895504
 f1_keywords:
 - vbawd10.chm152895504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.MappedDataFields Property (Word)
+# MailMergeDataSource.MappedDataFields property (Word)
 
 Returns a  **[MappedDataFields](Word.MappedDataFields.md)** collection that represents the mapped data fields available in Microsoft Word.
 

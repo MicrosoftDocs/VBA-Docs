@@ -1,5 +1,5 @@
 ---
-title: HeadingStyles.Application Property (Word)
+title: HeadingStyles.Application property (Word)
 keywords: vbawd10.chm160039912
 f1_keywords:
 - vbawd10.chm160039912
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeadingStyles.Application Property (Word)
+# HeadingStyles.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.ClearFormats Method (Word)
+title: Point.ClearFormats method (Word)
 keywords: vbawd10.chm262144112
 f1_keywords:
 - vbawd10.chm262144112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.ClearFormats Method (Word)
+# Point.ClearFormats method (Word)
 
 Clears the formatting of the object.
 

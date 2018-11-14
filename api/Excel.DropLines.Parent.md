@@ -1,5 +1,5 @@
 ---
-title: DropLines.Parent Property (Excel)
+title: DropLines.Parent property (Excel)
 keywords: vbaxl10.chm604073
 f1_keywords:
 - vbaxl10.chm604073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Parent Property (Excel)
+# DropLines.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

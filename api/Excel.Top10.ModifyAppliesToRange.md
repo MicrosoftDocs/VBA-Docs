@@ -1,5 +1,5 @@
 ---
-title: Top10.ModifyAppliesToRange Method (Excel)
+title: Top10.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm822087
 f1_keywords:
 - vbaxl10.chm822087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.ModifyAppliesToRange Method (Excel)
+# Top10.ModifyAppliesToRange method (Excel)
 
 Sets the cell range to which this formatting rule applies.
 

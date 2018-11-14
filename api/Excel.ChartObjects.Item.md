@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Item Method (Excel)
+title: ChartObjects.Item method (Excel)
 keywords: vbaxl10.chm497106
 f1_keywords:
 - vbaxl10.chm497106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Item Method (Excel)
+# ChartObjects.Item method (Excel)
 
 Returns a single object from a collection.
 

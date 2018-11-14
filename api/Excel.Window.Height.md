@@ -1,5 +1,5 @@
 ---
-title: Window.Height Property (Excel)
+title: Window.Height property (Excel)
 keywords: vbaxl10.chm356095
 f1_keywords:
 - vbaxl10.chm356095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Height Property (Excel)
+# Window.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the window.
 

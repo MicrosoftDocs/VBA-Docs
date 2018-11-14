@@ -1,5 +1,5 @@
 ---
-title: SparkColor.Parent Property (Excel)
+title: SparkColor.Parent property (Excel)
 keywords: vbaxl10.chm882075
 f1_keywords:
 - vbaxl10.chm882075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkColor.Parent Property (Excel)
+# SparkColor.Parent property (Excel)
 
 Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the specified object. Read-only.
 

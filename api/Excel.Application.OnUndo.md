@@ -1,5 +1,5 @@
 ---
-title: Application.OnUndo Method (Excel)
+title: Application.OnUndo method (Excel)
 keywords: vbaxl10.chm133185
 f1_keywords:
 - vbaxl10.chm133185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnUndo Method (Excel)
+# Application.OnUndo method (Excel)
 
 Sets the text of the  **Undo** command and the name of the procedure that's run if you choose the **Undo** command after running the procedure that sets this property.
 

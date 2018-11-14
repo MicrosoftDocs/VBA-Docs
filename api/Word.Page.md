@@ -1,5 +1,5 @@
 ---
-title: Page Object (Word)
+title: Page object (Word)
 keywords: vbawd10.chm169
 f1_keywords:
 - vbawd10.chm169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page Object (Word)
+# Page object (Word)
 
 Represents a page in a document. Use the  **Page** object and the related methods and properties for programmatically defining page layout in a document.
 

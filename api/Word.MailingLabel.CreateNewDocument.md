@@ -1,5 +1,5 @@
 ---
-title: MailingLabel.CreateNewDocument Method (Word)
+title: MailingLabel.CreateNewDocument method (Word)
 keywords: vbawd10.chm152502376
 f1_keywords:
 - vbawd10.chm152502376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel.CreateNewDocument Method (Word)
+# MailingLabel.CreateNewDocument method (Word)
 
 Creates a new label document using either the default label options or ones that you specify. Returns a  **Document** object that represents the new document.
 

@@ -1,5 +1,5 @@
 ---
-title: XlOrientation Enumeration (PowerPoint)
+title: xlOrientation Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlOrientation Enumeration (PowerPoint)
+# xlOrientation Enumeration (PowerPoint)
 
 Specifies the text orientation.
 

@@ -1,12 +1,12 @@
 ---
-title: WdContentControlLevel Enumeration (Word)
+title: WdContentControlLevel enumeration (Word)
 ms.prod: word
 ms.assetid: b4d96be5-e53f-2ed2-aa45-c1e783311e48
 ms.date: 06/08/2017
 ---
 
 
-# WdContentControlLevel Enumeration (Word)
+# WdContentControlLevel enumeration (Word)
 
 Constants that represent the possible levels for a content control, returned by the [ContentControl.Level](Word.contentcontrol.level.md) property.
 

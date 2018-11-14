@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TwoColorGradient Method (Excel)
+title: FillFormat.TwoColorGradient method (Excel)
 keywords: vbaxl10.chm115008
 f1_keywords:
 - vbaxl10.chm115008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TwoColorGradient Method (Excel)
+# FillFormat.TwoColorGradient method (Excel)
 
 Sets the specified fill to a two-color gradient.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Tanh Method (Excel)
+title: WorksheetFunction.Tanh method (Excel)
 keywords: vbaxl10.chm137166
 f1_keywords:
 - vbaxl10.chm137166
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Tanh Method (Excel)
+# WorksheetFunction.Tanh method (Excel)
 
 Returns the hyperbolic tangent of a number.
 

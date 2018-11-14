@@ -23,7 +23,7 @@ _object_**.Lines(**_startline_, _count_**) As String**
 The  **Lines** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line number in which to start.|

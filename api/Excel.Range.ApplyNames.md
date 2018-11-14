@@ -1,5 +1,5 @@
 ---
-title: Range.ApplyNames Method (Excel)
+title: Range.ApplyNames method (Excel)
 keywords: vbaxl10.chm144079
 f1_keywords:
 - vbaxl10.chm144079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ApplyNames Method (Excel)
+# Range.ApplyNames method (Excel)
 
 Applies names to the cells in the specified range.
 
@@ -34,7 +34,7 @@ Applies names to the cells in the specified range.
 | _UseRowColumnNames_|Optional| **Variant**| **True** to use the names of row and column ranges that contain the specified range if names for the range cannot be found. **False** to ignore the _OmitColumn_ and _OmitRow_ arguments. The default value is **True** .|
 | _OmitColumn_|Optional| **Variant**| **True** to replace the entire reference with the row-oriented name. The column-oriented name can be omitted only if the referenced cell is in the same column as the formula and is within a row-oriented named range. The default value is **True** .|
 | _OmitRow_|Optional| **Variant**| **True** to replace the entire reference with the column-oriented name. The row-oriented name can be omitted only if the referenced cell is in the same row as the formula and is within a column-oriented named range. The default value is **True** .|
-| _Order_|Optional| **[XlApplyNamesOrder](Excel.XlApplyNamesOrder.md)**|Determines which range name is listed first when a cell reference is replaced by a row-oriented and column-oriented range name.|
+| _Order_|Optional| **[xlApplyNamesOrder](Excel.XlApplyNamesOrder.md)**|Determines which range name is listed first when a cell reference is replaced by a row-oriented and column-oriented range name.|
 | _AppendLast_|Optional| **Variant**| **True** to replace the definitions of the names in _Names_ and also replace the definitions of the last names that were defined. **False** to replace the definitions of the names in _Names_ only. The default value is **False** .|
 
 ## Return value

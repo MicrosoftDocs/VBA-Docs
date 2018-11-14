@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Delete Method (Word)
+title: MailMergeField.Delete method (Word)
 keywords: vbawd10.chm152961131
 f1_keywords:
 - vbawd10.chm152961131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Delete Method (Word)
+# MailMergeField.Delete method (Word)
 
 Deletes the specified mail merge field.
 

@@ -1,5 +1,5 @@
 ---
-title: WdFlowDirection Enumeration (Word)
+title: WdFlowDirection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFlowDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFlowDirection Enumeration (Word)
+# WdFlowDirection enumeration (Word)
 
 Specifies the direction in which text flows from one text column to the next.
 

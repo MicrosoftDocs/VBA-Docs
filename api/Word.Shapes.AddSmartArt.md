@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddSmartArt Method (Word)
+title: Shapes.AddSmartArt method (Word)
 keywords: vbawd10.chm161415196
 f1_keywords:
 - vbawd10.chm161415196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddSmartArt Method (Word)
+# Shapes.AddSmartArt method (Word)
 
 Inserts the specified SmartArt graphic into the active document.
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.PageBreakBefore Property (Word)
+title: Paragraphs.PageBreakBefore property (Word)
 keywords: vbawd10.chm156762216
 f1_keywords:
 - vbawd10.chm156762216
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.PageBreakBefore Property (Word)
+# Paragraphs.PageBreakBefore property (Word)
 
  **True** if a page break is forced before the specified paragraphs. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
 

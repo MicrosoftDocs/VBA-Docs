@@ -1,5 +1,5 @@
 ---
-title: Sparkline.Location Property (Excel)
+title: Sparkline.Location property (Excel)
 keywords: vbaxl10.chm875073
 f1_keywords:
 - vbaxl10.chm875073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sparkline.Location Property (Excel)
+# Sparkline.Location property (Excel)
 
 Returns or sets the location of a single sparkline. Read/write
 

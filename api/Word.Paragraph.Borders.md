@@ -1,5 +1,5 @@
 ---
-title: Paragraph.Borders Property (Word)
+title: Paragraph.Borders property (Word)
 keywords: vbawd10.chm156697676
 f1_keywords:
 - vbawd10.chm156697676
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.Borders Property (Word)
+# Paragraph.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders for the specified paragraph.
 

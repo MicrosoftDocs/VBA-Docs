@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Add Method (Excel)
+title: ModelRelationships.Add method (Excel)
 keywords: vbaxl10.chm940077
 f1_keywords:
 - vbaxl10.chm940077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Add Method (Excel)
+# ModelRelationships.Add method (Excel)
 
 Adds a new relationship to the model.
 
@@ -18,17 +18,17 @@ Adds a new relationship to the model.
 
  _expression_. `Add`_(ForeignKeyColumn,_ _PrimaryKeyColumn)_
 
- _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object (Excel).
+ _expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object (Excel).
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ForeignKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column in the table on the many side of the one-to-many relationship.|
-| _PrimaryKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.|
+| _ForeignKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column in the table on the many side of the one-to-many relationship.|
+| _PrimaryKeyColumn_|Required|MODELTABLECOLUMN|A [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.|
 
 ## Return value
 

@@ -1,5 +1,5 @@
 ---
-title: DownBars Object (Word)
+title: DownBars object (Word)
 ms.prod: word
 api_name:
 - Word.DownBars
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars Object (Word)
+# DownBars object (Word)
 
 Represents the down bars in a chart group.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoShowCount Property (Excel)
+title: PivotField.AutoShowCount property (Excel)
 keywords: vbaxl10.chm240117
 f1_keywords:
 - vbaxl10.chm240117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoShowCount Property (Excel)
+# PivotField.AutoShowCount property (Excel)
 
 Returns the number of top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **Long** .
 

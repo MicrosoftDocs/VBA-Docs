@@ -1,5 +1,5 @@
 ---
-title: Application.FileDialog Property (Word)
+title: Application.FileDialog property (Word)
 keywords: vbawd10.chm158335426
 f1_keywords:
 - vbawd10.chm158335426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileDialog Property (Word)
+# Application.FileDialog property (Word)
 
 Returns a  **FileDialog** object which represents a single instance of a file dialog box.
 

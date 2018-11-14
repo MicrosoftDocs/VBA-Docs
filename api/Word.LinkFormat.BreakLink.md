@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.BreakLink Method (Word)
+title: LinkFormat.BreakLink method (Word)
 keywords: vbawd10.chm154206312
 f1_keywords:
 - vbawd10.chm154206312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.BreakLink Method (Word)
+# LinkFormat.BreakLink method (Word)
 
 Breaks the link between the source file and the specified OLE object, picture, or linked field.
 

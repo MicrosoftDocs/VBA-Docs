@@ -1,5 +1,5 @@
 ---
-title: SparkHorizontalAxis.Axis Property (Excel)
+title: SparkHorizontalAxis.Axis property (Excel)
 keywords: vbaxl10.chm879073
 f1_keywords:
 - vbaxl10.chm879073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkHorizontalAxis.Axis Property (Excel)
+# SparkHorizontalAxis.Axis property (Excel)
 
 Returns a  **[SparkColor](Excel.SparkColor.md)** object that specifies the color of the horizontal axis of the sparkline. Read-only
 

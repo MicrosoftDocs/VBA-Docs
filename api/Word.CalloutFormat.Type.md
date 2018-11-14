@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.Type Property (Word)
+title: CalloutFormat.Type property (Word)
 keywords: vbawd10.chm163905645
 f1_keywords:
 - vbawd10.chm163905645
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.Type Property (Word)
+# CalloutFormat.Type property (Word)
 
 Returns or sets the callout type. Read/write  **MsoCalloutType** .
 

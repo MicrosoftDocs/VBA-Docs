@@ -1,5 +1,5 @@
 ---
-title: Global.ChangeFileOpenDirectory Method (Word)
+title: Global.ChangeFileOpenDirectory method (Word)
 keywords: vbawd10.chm163119459
 f1_keywords:
 - vbawd10.chm163119459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.ChangeFileOpenDirectory Method (Word)
+# Global.ChangeFileOpenDirectory method (Word)
 
 Sets the folder in which Word searches for documents. .
 

@@ -1,5 +1,5 @@
 ---
-title: Axes.Creator Property (Word)
+title: Axes.Creator property (Word)
 keywords: vbawd10.chm93388949
 f1_keywords:
 - vbawd10.chm93388949
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axes.Creator Property (Word)
+# Axes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

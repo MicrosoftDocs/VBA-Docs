@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery.Formula Property (Excel)
+title: WorkbookQuery.Formula property (Excel)
 keywords: vbaxl10.chm974074
 f1_keywords:
 - vbaxl10.chm974074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery.Formula Property (Excel)
+# WorkbookQuery.Formula property (Excel)
 
 The Power Query M formula for the object. Read-only  **String**.
 

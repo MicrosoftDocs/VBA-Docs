@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageFieldOrder Property (Excel)
+title: PivotTable.PageFieldOrder property (Excel)
 keywords: vbaxl10.chm235119
 f1_keywords:
 - vbaxl10.chm235119
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageFieldOrder Property (Excel)
+# PivotTable.PageFieldOrder property (Excel)
 
-Returns or sets the order in which page fields are added to the PivotTable report's layout. Can be one of the following  **[XlOrder](Excel.XlOrder.md)** constants: **xlDownThenOver** or **xlOverThenDown** . The default constant is **xlDownThenOver** . Read/write **Long** .
+Returns or sets the order in which page fields are added to the PivotTable report's layout. Can be one of the following  **[xlOrder](Excel.XlOrder.md)** constants: **xlDownThenOver** or **xlOverThenDown** . The default constant is **xlDownThenOver** . Read/write **Long** .
 
 
 ## Syntax

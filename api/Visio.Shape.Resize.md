@@ -44,7 +44,7 @@ Resizes the shape by moving shape handles as specified.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visResizeDirE**|0|Right, middle shape handle.|
 | **visResizeDirNE**|1|Right, top shape handle.|

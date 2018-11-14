@@ -1,5 +1,5 @@
 ---
-title: Global.HangulHanjaDictionaries Property (Word)
+title: Global.HangulHanjaDictionaries property (Word)
 keywords: vbawd10.chm163119214
 f1_keywords:
 - vbawd10.chm163119214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.HangulHanjaDictionaries Property (Word)
+# Global.HangulHanjaDictionaries property (Word)
 
 Returns a  **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictionaries.md)** collection that represents all the active custom conversion dictionaries.
 

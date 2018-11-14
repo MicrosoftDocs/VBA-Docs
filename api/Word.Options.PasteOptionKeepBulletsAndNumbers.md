@@ -1,5 +1,5 @@
 ---
-title: Options.PasteOptionKeepBulletsAndNumbers Property (Word)
+title: Options.PasteOptionKeepBulletsAndNumbers property (Word)
 keywords: vbawd10.chm162988513
 f1_keywords:
 - vbawd10.chm162988513
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PasteOptionKeepBulletsAndNumbers Property (Word)
+# Options.PasteOptionKeepBulletsAndNumbers property (Word)
 
 Returns or sets a  **Boolean** that represents whether to keep bullets and numbering when selecting **Keep text only** from the **Paste Options** context menu. Read/write.
 

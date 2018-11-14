@@ -1,5 +1,5 @@
 ---
-title: AutoRecover Object (Excel)
+title: AutoRecover object (Excel)
 keywords: vbaxl10.chm695072
 f1_keywords:
 - vbaxl10.chm695072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoRecover Object (Excel)
+# AutoRecover object (Excel)
 
 Represents the automatic recovery features of a workbook. 
 

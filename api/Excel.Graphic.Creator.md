@@ -1,5 +1,5 @@
 ---
-title: Graphic.Creator Property (Excel)
+title: Graphic.Creator property (Excel)
 keywords: vbaxl10.chm693074
 f1_keywords:
 - vbaxl10.chm693074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Creator Property (Excel)
+# Graphic.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

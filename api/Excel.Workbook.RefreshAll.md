@@ -1,5 +1,5 @@
 ---
-title: Workbook.RefreshAll Method (Excel)
+title: Workbook.RefreshAll method (Excel)
 keywords: vbaxl10.chm199135
 f1_keywords:
 - vbaxl10.chm199135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.RefreshAll Method (Excel)
+# Workbook.RefreshAll method (Excel)
 
 Refreshes all external data ranges and PivotTable reports in the specified workbook.
 

@@ -23,7 +23,7 @@ _object_. **BorderStyle** [= _fmBorderStyle_ ]
 The  **BorderStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmBorderStyle_|Optional. Specifies the border style.|
@@ -32,7 +32,7 @@ The  **BorderStyle** property syntax has these parts:
 The settings for  _fmBorderStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmBorderStyleNone_|0|The control has no visible border line.|
 | _fmBorderStyleSingle_|1|The control has a single-line border (default).|

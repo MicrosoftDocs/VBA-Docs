@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Start Method (Word)
+title: Broadcast.Start method (Word)
 keywords: vbawd10.chm36438117
 f1_keywords:
 - vbawd10.chm36438117
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.Start Method (Word)
+# Broadcast.Start method (Word)
 
 Initiates the specified broadcast session.
 
@@ -25,7 +25,7 @@ Initiates the specified broadcast session.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _serverUrl_|Required|STRING|The URL of the broadcast server.|

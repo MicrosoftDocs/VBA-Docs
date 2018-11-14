@@ -1,5 +1,5 @@
 ---
-title: Range.Top Property (Excel)
+title: Range.Top property (Excel)
 keywords: vbaxl10.chm144211
 f1_keywords:
 - vbaxl10.chm144211
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Top Property (Excel)
+# Range.Top property (Excel)
 
 Returns a  **Variant** value that represents the distance, in points, from the top edge of row 1 to the top edge of the range.
 

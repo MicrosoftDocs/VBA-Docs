@@ -1,5 +1,5 @@
 ---
-title: Range.PasteAndFormat Method (Word)
+title: Range.PasteAndFormat method (Word)
 keywords: vbawd10.chm157155740
 f1_keywords:
 - vbawd10.chm157155740
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteAndFormat Method (Word)
+# Range.PasteAndFormat method (Word)
 
 Pastes the selected table cells and formats them as specified.
 

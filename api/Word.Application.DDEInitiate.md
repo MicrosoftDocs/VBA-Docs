@@ -1,5 +1,5 @@
 ---
-title: Application.DDEInitiate Method (Word)
+title: Application.DDEInitiate method (Word)
 keywords: vbawd10.chm158335287
 f1_keywords:
 - vbawd10.chm158335287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEInitiate Method (Word)
+# Application.DDEInitiate method (Word)
 
 Opens a dynamic data exchange (DDE) channel to another application, and returns the channel number.
 

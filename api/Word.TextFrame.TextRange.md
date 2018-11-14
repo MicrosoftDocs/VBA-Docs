@@ -1,5 +1,5 @@
 ---
-title: TextFrame.TextRange Property (Word)
+title: TextFrame.TextRange property (Word)
 keywords: vbawd10.chm162661353
 f1_keywords:
 - vbawd10.chm162661353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.TextRange Property (Word)
+# TextFrame.TextRange property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the text in the specified text frame.
 

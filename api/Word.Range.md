@@ -1,5 +1,5 @@
 ---
-title: Range Object (Word)
+title: Range object (Word)
 keywords: vbawd10.chm2398
 f1_keywords:
 - vbawd10.chm2398
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range Object (Word)
+# Range object (Word)
 
 Represents a contiguous area in a document. Each  **Range** object is defined by a starting and ending character position.
 

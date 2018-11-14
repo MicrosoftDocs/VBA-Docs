@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Binom_Dist_Range Method (Excel)
+title: WorksheetFunction.Binom_Dist_Range method (Excel)
 keywords: vbaxl10.chm137447
 f1_keywords:
 - vbaxl10.chm137447
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Binom_Dist_Range Method (Excel)
+# WorksheetFunction.Binom_Dist_Range method (Excel)
 
 Returns the probability of a trial result using a binomial distribution.
 
@@ -18,14 +18,14 @@ Returns the probability of a trial result using a binomial distribution.
 
  _expression_. `Binom_Dist_Range`_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The number of independent trials.|
 | _Arg2_|Required|DOUBLE|The probability of success on each trial.|

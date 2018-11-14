@@ -1,5 +1,5 @@
 ---
-title: FileConverters.Count Property (Word)
+title: FileConverters.Count property (Word)
 keywords: vbawd10.chm161087489
 f1_keywords:
 - vbawd10.chm161087489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverters.Count Property (Word)
+# FileConverters.Count property (Word)
 
 Returns a  **Long** that represents the number of file converters in the collection. Read-only.
 

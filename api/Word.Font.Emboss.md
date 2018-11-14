@@ -1,5 +1,5 @@
 ---
-title: Font.Emboss Property (Word)
+title: Font.Emboss property (Word)
 keywords: vbawd10.chm156369044
 f1_keywords:
 - vbawd10.chm156369044
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Emboss Property (Word)
+# Font.Emboss property (Word)
 
  **True** if the specified font is formatted as embossed. Read/write **Long** .
 

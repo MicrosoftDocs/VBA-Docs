@@ -1,5 +1,5 @@
 ---
-title: IconSets.Item Property (Excel)
+title: IconSets.Item property (Excel)
 keywords: vbaxl10.chm820076
 f1_keywords:
 - vbaxl10.chm820076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSets.Item Property (Excel)
+# IconSets.Item property (Excel)
 
 Returns a single  **[IconSet](Excel.IconSet.md)** object from the **IconSets** collection. Read-only.
 

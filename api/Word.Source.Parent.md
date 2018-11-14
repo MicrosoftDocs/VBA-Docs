@@ -1,5 +1,5 @@
 ---
-title: Source.Parent Property (Word)
+title: Source.Parent property (Word)
 keywords: vbawd10.chm140836966
 f1_keywords:
 - vbawd10.chm140836966
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.Parent Property (Word)
+# Source.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Source** object.
 

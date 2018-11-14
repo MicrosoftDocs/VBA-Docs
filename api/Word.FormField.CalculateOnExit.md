@@ -1,5 +1,5 @@
 ---
-title: FormField.CalculateOnExit Property (Word)
+title: FormField.CalculateOnExit property (Word)
 keywords: vbawd10.chm153616400
 f1_keywords:
 - vbawd10.chm153616400
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.CalculateOnExit Property (Word)
+# FormField.CalculateOnExit property (Word)
 
  **True** if references to the specified form field are automatically updated whenever the field is exited. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ModelTableNameChanges.Item Method (Excel)
+title: ModelTableNameChanges.Item method (Excel)
 keywords: vbaxl10.chm958074
 f1_keywords:
 - vbaxl10.chm958074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableNameChanges.Item Method (Excel)
+# ModelTableNameChanges.Item method (Excel)
 
 Returns a single object from the  **ModelTableNameChanges** collection.
 
@@ -18,14 +18,14 @@ Returns a single object from the  **ModelTableNameChanges** collection.
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelTableNameChanges Object (Excel)](Excel.modeltablenamechanges.md) object.
+ _expression_ A variable that represents a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 

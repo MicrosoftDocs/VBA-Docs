@@ -1,5 +1,5 @@
 ---
-title: Global.LanguageSettings Property (Word)
+title: Global.LanguageSettings property (Word)
 keywords: vbawd10.chm163119215
 f1_keywords:
 - vbawd10.chm163119215
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.LanguageSettings Property (Word)
+# Global.LanguageSettings property (Word)
 
 Returns a  **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
 

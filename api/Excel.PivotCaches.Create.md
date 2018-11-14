@@ -1,5 +1,5 @@
 ---
-title: PivotCaches.Create Method (Excel)
+title: PivotCaches.Create method (Excel)
 keywords: vbaxl10.chm229078
 f1_keywords:
 - vbaxl10.chm229078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCaches.Create Method (Excel)
+# PivotCaches.Create method (Excel)
 
 Creates a new PivotCache.
 
@@ -29,7 +29,7 @@ Creates a new PivotCache.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SourceType_|Required| **XlPivotTableSourceType**| _SourceType_ can be one of these **xlPivotTableSourceType** constants: **xlConsolidation** , **xlDatabase** , or **xlExternal** .|
+| _SourceType_|Required| **xlPivotTableSourceType**| _SourceType_ can be one of these **xlPivotTableSourceType** constants: **xlConsolidation** , **xlDatabase** , or **xlExternal** .|
 | _SourceData_|Optional| **Variant**|The data for the new PivotTable cache.|
 | _Version_|Optional| **Variant**|Version of the PivotTable. The version can be one of the [xlPivotTableVersionList](Excel.XlPivotTableVersionList.md) constants.|
 

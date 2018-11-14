@@ -1,5 +1,5 @@
 ---
-title: OMathFrac.Creator Property (Word)
+title: OMathFrac.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.OMathFrac.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac.Creator Property (Word)
+# OMathFrac.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Field.Type Property (Word)
+title: Field.Type property (Word)
 keywords: vbawd10.chm154075137
 f1_keywords:
 - vbawd10.chm154075137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Type Property (Word)
+# Field.Type property (Word)
 
 Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)** .
 

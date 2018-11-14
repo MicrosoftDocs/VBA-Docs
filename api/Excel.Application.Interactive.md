@@ -1,5 +1,5 @@
 ---
-title: Application.Interactive Property (Excel)
+title: Application.Interactive property (Excel)
 keywords: vbaxl10.chm133150
 f1_keywords:
 - vbaxl10.chm133150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Interactive Property (Excel)
+# Application.Interactive property (Excel)
 
  **True** if Microsoft Excel is in interactive mode; this property is usually **True** . If you set the this property to **False** , Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean** .
 
@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 Blocking user input will prevent the user from interfering with the macro as it moves or activates Microsoft Excel objects.
 
-This property is useful if you're using DDE or OLE Automation to communicate with Microsoft Excel from another application.
+This property is useful if you are using DDE or OLE Automation to communicate with Microsoft Excel from another application.
 
 If you set this property to  **False** , don't forget to set it back to **True** . Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
 

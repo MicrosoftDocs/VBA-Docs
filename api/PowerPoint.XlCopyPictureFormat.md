@@ -1,5 +1,5 @@
 ---
-title: XlCopyPictureFormat Enumeration (PowerPoint)
+title: xlCopyPictureFormat Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlCopyPictureFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCopyPictureFormat Enumeration (PowerPoint)
+# xlCopyPictureFormat Enumeration (PowerPoint)
 
 Specifies the format of the picture being copied.
 

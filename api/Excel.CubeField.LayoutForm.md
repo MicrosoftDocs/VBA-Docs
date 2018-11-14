@@ -1,5 +1,5 @@
 ---
-title: CubeField.LayoutForm Property (Excel)
+title: CubeField.LayoutForm property (Excel)
 keywords: vbaxl10.chm668087
 f1_keywords:
 - vbaxl10.chm668087
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.LayoutForm Property (Excel)
+# CubeField.LayoutForm property (Excel)
 
-Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[XlLayoutFormType](Excel.XlLayoutFormType.md)** .
+Returns or sets the way the specified PivotTable items appear—in table format or in outline format. Read/write  **[xlLayoutFormType](Excel.XlLayoutFormType.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 
 
 
-| **XlLayoutFormType** can be one of these **XlLayoutFormType** constants.|
+| **xlLayoutFormType** can be one of these **xlLayoutFormType** constants.|
 | **xlTabular** . Default.|
 | **xlOutline** . The **[LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)** property specifies where the subtotal appears in the PivotTable report.|
 

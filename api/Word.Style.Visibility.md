@@ -1,5 +1,5 @@
 ---
-title: Style.Visibility Property (Word)
+title: Style.Visibility property (Word)
 keywords: vbawd10.chm153878547
 f1_keywords:
 - vbawd10.chm153878547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Visibility Property (Word)
+# Style.Visibility property (Word)
 
  **True** if the specified style is visible as a recommended style in the **Styles** gallery and in the **Styles** task pane. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.GetDefaultTheme Method (Word)
+title: Application.GetDefaultTheme method (Word)
 keywords: vbawd10.chm158335392
 f1_keywords:
 - vbawd10.chm158335392
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetDefaultTheme Method (Word)
+# Application.GetDefaultTheme method (Word)
 
-Returns a  **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, e-mail messages, or Web pages.
+Returns a  **String** that represents the name of the default theme plus the theme formatting options Microsoft Word uses for new documents, email messages, or Web pages.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ Returns a  **String** that represents the name of the default theme plus the the
 
 ## Remarks
 
-You can also use the  **ThemeName** property to return and set the default theme for new e-mail messages.
+You can also use the  **ThemeName** property to return and set the default theme for new email messages.
 
 
 ## Example

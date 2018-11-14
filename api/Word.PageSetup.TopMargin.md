@@ -1,5 +1,5 @@
 ---
-title: PageSetup.TopMargin Property (Word)
+title: PageSetup.TopMargin property (Word)
 keywords: vbawd10.chm158400612
 f1_keywords:
 - vbawd10.chm158400612
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.TopMargin Property (Word)
+# PageSetup.TopMargin property (Word)
 
 Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single** .
 

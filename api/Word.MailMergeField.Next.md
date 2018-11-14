@@ -1,5 +1,5 @@
 ---
-title: MailMergeField.Next Property (Word)
+title: MailMergeField.Next property (Word)
 keywords: vbawd10.chm152961032
 f1_keywords:
 - vbawd10.chm152961032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeField.Next Property (Word)
+# MailMergeField.Next property (Word)
 
 Returns the next mail merge field in the collection of mail merge fields. Read-only.
 

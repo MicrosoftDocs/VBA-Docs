@@ -1,5 +1,5 @@
 ---
-title: Application.Windows Property (Excel)
+title: Application.Windows property (Excel)
 keywords: vbaxl10.chm183114
 f1_keywords:
 - vbaxl10.chm183114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Windows Property (Excel)
+# Application.Windows property (Excel)
 
 Returns a  **[Windows](Excel.Windows.md)** collection that represents all the windows in all the workbooks. Read-only **Windows** object.
 

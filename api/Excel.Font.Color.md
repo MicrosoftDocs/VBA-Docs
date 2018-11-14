@@ -1,5 +1,5 @@
 ---
-title: Font.Color Property (Excel)
+title: Font.Color property (Excel)
 keywords: vbaxl10.chm559075
 f1_keywords:
 - vbaxl10.chm559075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Color Property (Excel)
+# Font.Color property (Excel)
 
 Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant** .
 

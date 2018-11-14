@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Fill Property (Word)
+title: ShapeRange.Fill property (Word)
 keywords: vbawd10.chm162857067
 f1_keywords:
 - vbawd10.chm162857067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Fill Property (Word)
+# ShapeRange.Fill property (Word)
 
 Returns a  **[FillFormat](Word.FillFormat.md)** object that contains fill formatting properties for the specified shape. Read-only.
 

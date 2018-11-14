@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces.Value Property (Excel)
+title: XmlNamespaces.Value property (Excel)
 keywords: vbaxl10.chm746076
 f1_keywords:
 - vbaxl10.chm746076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces.Value Property (Excel)
+# XmlNamespaces.Value property (Excel)
 
 Returns a  **String** value that represents the XML namespaces that have been added to the workbook.
 

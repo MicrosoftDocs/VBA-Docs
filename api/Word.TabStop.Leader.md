@@ -1,5 +1,5 @@
 ---
-title: TabStop.Leader Property (Word)
+title: TabStop.Leader property (Word)
 keywords: vbawd10.chm156500069
 f1_keywords:
 - vbawd10.chm156500069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Leader Property (Word)
+# TabStop.Leader property (Word)
 
 Returns or sets the leader for the specified  **TabStop** object. Read/write **WdTabLeader** .
 

@@ -1,5 +1,5 @@
 ---
-title: IRTDUpdateEvent.Disconnect Method (Excel)
+title: IRTDUpdateEvent.Disconnect method (Excel)
 keywords: vbaxl10.chm500003
 f1_keywords:
 - vbaxl10.chm500003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRTDUpdateEvent.Disconnect Method (Excel)
+# IRTDUpdateEvent.Disconnect method (Excel)
 
 Instructs the real-time data server (RTD) to disconnect from the specified  **IRTDUpdateEvent** object.
 

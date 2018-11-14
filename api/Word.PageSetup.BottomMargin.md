@@ -1,5 +1,5 @@
 ---
-title: PageSetup.BottomMargin Property (Word)
+title: PageSetup.BottomMargin property (Word)
 keywords: vbawd10.chm158400613
 f1_keywords:
 - vbawd10.chm158400613
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.BottomMargin Property (Word)
+# PageSetup.BottomMargin property (Word)
 
 Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. Read/write  **Single** .
 

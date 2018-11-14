@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItem.Delete Method (Word)
+title: RepeatingSectionItem.Delete method (Word)
 keywords: vbawd10.chm227999748
 f1_keywords:
 - vbawd10.chm227999748
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItem.Delete Method (Word)
+# RepeatingSectionItem.Delete method (Word)
 
 Deletes the specified repeating section item.
 

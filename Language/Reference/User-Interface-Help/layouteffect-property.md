@@ -21,7 +21,7 @@ _object_. **LayoutEffect**
 
 The **LayoutEffect** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 
@@ -29,7 +29,7 @@ The **LayoutEffect** property syntax has these parts:
 
 The **LayoutEffect** property return values are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmLayoutEffectNone_|0|The control was not moved.|
 | _fmLayoutEffectInitiate_|1|The control moved.|

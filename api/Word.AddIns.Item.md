@@ -1,5 +1,5 @@
 ---
-title: AddIns.Item Method (Word)
+title: AddIns.Item method (Word)
 keywords: vbawd10.chm159318016
 f1_keywords:
 - vbawd10.chm159318016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Item Method (Word)
+# AddIns.Item method (Word)
 
 Returns an individual object in a collection.
 

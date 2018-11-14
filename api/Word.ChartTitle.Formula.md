@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Formula Property (Word)
+title: ChartTitle.Formula property (Word)
 keywords: vbawd10.chm65273894
 f1_keywords:
 - vbawd10.chm65273894
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Formula Property (Word)
+# ChartTitle.Formula property (Word)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 

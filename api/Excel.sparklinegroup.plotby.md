@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.PlotBy Property (Excel)
+title: SparklineGroup.PlotBy property (Excel)
 keywords: vbaxl10.chm871091
 f1_keywords:
 - vbaxl10.chm871091
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.PlotBy Property (Excel)
+# SparklineGroup.PlotBy property (Excel)
 
 Returns or sets how to plot the sparkline when the data on which it is based is in a square-shaped range. Read/write.
 
@@ -23,7 +23,7 @@ Returns or sets how to plot the sparkline when the data on which it is based is 
 
 ## Return value
 
- **[XlSparklineRowCol](Excel.XlSparklineRowCol.md)**
+ **[xlSparklineRowCol](Excel.XlSparklineRowCol.md)**
 
 
 ## Remarks

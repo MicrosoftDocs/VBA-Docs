@@ -1,5 +1,5 @@
 ---
-title: Application.GoBack Method (Word)
+title: Application.GoBack method (Word)
 keywords: vbawd10.chm158335304
 f1_keywords:
 - vbawd10.chm158335304
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GoBack Method (Word)
+# Application.GoBack method (Word)
 
 Moves the insertion point among the last three locations where editing occurred in the active document (the same as pressing SHIFT+F5).
 

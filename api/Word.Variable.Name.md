@@ -1,5 +1,5 @@
 ---
-title: Variable.Name Property (Word)
+title: Variable.Name property (Word)
 keywords: vbawd10.chm157679617
 f1_keywords:
 - vbawd10.chm157679617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variable.Name Property (Word)
+# Variable.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

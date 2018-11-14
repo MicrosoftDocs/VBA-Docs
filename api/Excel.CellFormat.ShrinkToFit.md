@@ -1,5 +1,5 @@
 ---
-title: CellFormat.ShrinkToFit Property (Excel)
+title: CellFormat.ShrinkToFit property (Excel)
 keywords: vbaxl10.chm676083
 f1_keywords:
 - vbaxl10.chm676083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.ShrinkToFit Property (Excel)
+# CellFormat.ShrinkToFit property (Excel)
 
 Returns or sets a  **Variant** value that indicates if text automatically shrinks to fit in the available column width.
 

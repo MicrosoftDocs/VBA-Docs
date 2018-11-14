@@ -1,5 +1,5 @@
 ---
-title: Chart.SetElement Method (Word)
+title: Chart.SetElement method (Word)
 ms.prod: word
 api_name:
 - Word.Chart.SetElement
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetElement Method (Word)
+# Chart.SetElement method (Word)
 
 Sets chart elements on a chart. Read/write  **MsoChartElementType** .
 

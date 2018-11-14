@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Type Property (Word)
+title: ContentControl.Type property (Word)
 keywords: vbawd10.chm266534917
 f1_keywords:
 - vbawd10.chm266534917
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Type Property (Word)
+# ContentControl.Type property (Word)
 
 Returns or sets a  **[WdContentControlType](Word.WdContentControlType.md)** that represents the type for a content control. Read/write.
 

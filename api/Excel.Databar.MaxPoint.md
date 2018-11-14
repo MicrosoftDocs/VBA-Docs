@@ -1,5 +1,5 @@
 ---
-title: Databar.MaxPoint Property (Excel)
+title: Databar.MaxPoint property (Excel)
 keywords: vbaxl10.chm810077
 f1_keywords:
 - vbaxl10.chm810077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.MaxPoint Property (Excel)
+# Databar.MaxPoint property (Excel)
 
 Returns a  **[ConditionValue](Excel.ConditionValue.md)** object that specifies how the longest bar is evaluated for a data bar conditional format.
 

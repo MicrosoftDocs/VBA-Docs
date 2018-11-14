@@ -1,5 +1,5 @@
 ---
-title: Global.PortraitFontNames Property (Word)
+title: Global.PortraitFontNames property (Word)
 keywords: vbawd10.chm163119117
 f1_keywords:
 - vbawd10.chm163119117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.PortraitFontNames Property (Word)
+# Global.PortraitFontNames property (Word)
 
 Returns a  **FontNames** object that includes the names of all the available portrait fonts.
 

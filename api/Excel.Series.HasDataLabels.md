@@ -1,5 +1,5 @@
 ---
-title: Series.HasDataLabels Property (Excel)
+title: Series.HasDataLabels property (Excel)
 keywords: vbaxl10.chm578088
 f1_keywords:
 - vbaxl10.chm578088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.HasDataLabels Property (Excel)
+# Series.HasDataLabels property (Excel)
 
  **True** if the series has data labels. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: View.MarkupMode Property (Word)
+title: View.MarkupMode property (Word)
 keywords: vbawd10.chm161808441
 f1_keywords:
 - vbawd10.chm161808441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.MarkupMode Property (Word)
+# View.MarkupMode property (Word)
 
 Returns or sets a  **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that represents the display mode for tracked changes. Read/write.
 

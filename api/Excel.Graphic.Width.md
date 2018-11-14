@@ -1,5 +1,5 @@
 ---
-title: Graphic.Width Property (Excel)
+title: Graphic.Width property (Excel)
 keywords: vbaxl10.chm694083
 f1_keywords:
 - vbaxl10.chm694083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Width Property (Excel)
+# Graphic.Width property (Excel)
 
 Returns or sets a  **Single** value that represents the width, in points, of the object.
 

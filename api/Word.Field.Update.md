@@ -1,5 +1,5 @@
 ---
-title: Field.Update Method (Word)
+title: Field.Update method (Word)
 keywords: vbawd10.chm154075237
 f1_keywords:
 - vbawd10.chm154075237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Update Method (Word)
+# Field.Update method (Word)
 
 Updates the result of the field. Returns  **True** if the field is updated successfully.
 

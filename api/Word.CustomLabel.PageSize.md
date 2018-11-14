@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.PageSize Property (Word)
+title: CustomLabel.PageSize property (Word)
 keywords: vbawd10.chm152371212
 f1_keywords:
 - vbawd10.chm152371212
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.PageSize Property (Word)
+# CustomLabel.PageSize property (Word)
 
 Returns or sets the page size for the specified custom mailing label. Read/write  **WdCustomLabelPageSize** .
 

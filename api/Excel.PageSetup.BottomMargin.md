@@ -1,5 +1,5 @@
 ---
-title: PageSetup.BottomMargin Property (Excel)
+title: PageSetup.BottomMargin property (Excel)
 keywords: vbaxl10.chm473074
 f1_keywords:
 - vbaxl10.chm473074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.BottomMargin Property (Excel)
+# PageSetup.BottomMargin property (Excel)
 
 Returns or sets the size of the bottom margin, in points. Read/write  **Double** .
 

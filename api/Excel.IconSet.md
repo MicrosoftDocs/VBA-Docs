@@ -1,5 +1,5 @@
 ---
-title: IconSet Object (Excel)
+title: IconSet object (Excel)
 keywords: vbaxl10.chm817072
 f1_keywords:
 - vbaxl10.chm817072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSet Object (Excel)
+# IconSet object (Excel)
 
 Represents a single set of icons that are used in an icon set conditional formatting rule.
 
@@ -20,7 +20,7 @@ Represents a single set of icons that are used in an icon set conditional format
 
 The  **IconSet** object is a child object of the **[IconSets](Excel.IconSets.md)** collection.
 
-The icon set for the conditional format is assigned by using the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **[IconSetCondition](Excel.IconSetCondition.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **[Workbook](Excel.Workbook.md)** object. See the example for details.
+The icon set for the conditional format is assigned by using the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **[IconSetCondition](Excel.IconSetCondition.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[xlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **[Workbook](Excel.Workbook.md)** object. See the example for details.
 
 
 ## Example

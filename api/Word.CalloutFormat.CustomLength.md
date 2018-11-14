@@ -1,5 +1,5 @@
 ---
-title: CalloutFormat.CustomLength Method (Word)
+title: CalloutFormat.CustomLength method (Word)
 keywords: vbawd10.chm163905548
 f1_keywords:
 - vbawd10.chm163905548
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalloutFormat.CustomLength Method (Word)
+# CalloutFormat.CustomLength method (Word)
 
 Specifies that the first segment of the callout line (the segment attached to the text callout box) retain a fixed length whenever the callout is moved.
 

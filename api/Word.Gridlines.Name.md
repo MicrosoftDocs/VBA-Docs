@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Name Property (Word)
+title: Gridlines.Name property (Word)
 keywords: vbawd10.chm11468910
 f1_keywords:
 - vbawd10.chm11468910
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Name Property (Word)
+# Gridlines.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

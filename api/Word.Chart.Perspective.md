@@ -1,5 +1,5 @@
 ---
-title: Chart.Perspective Property (Word)
+title: Chart.Perspective property (Word)
 keywords: vbawd10.chm79364108
 f1_keywords:
 - vbawd10.chm79364108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Perspective Property (Word)
+# Chart.Perspective property (Word)
 
 Returns or sets the perspective for the 3-D chart view. Read/write  **Long** .
 

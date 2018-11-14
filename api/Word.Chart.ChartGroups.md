@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartGroups Property (Word)
+title: Chart.ChartGroups property (Word)
 ms.prod: word
 api_name:
 - Word.Chart.ChartGroups
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartGroups Property (Word)
+# Chart.ChartGroups property (Word)
 
 Returns an object that represents either a single chart group or a collection of all the chart groups in the chart.
 

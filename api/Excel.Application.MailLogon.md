@@ -1,5 +1,5 @@
 ---
-title: Application.MailLogon Method (Excel)
+title: Application.MailLogon method (Excel)
 keywords: vbaxl10.chm133158
 f1_keywords:
 - vbaxl10.chm133158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailLogon Method (Excel)
+# Application.MailLogon method (Excel)
 
 Logs in to MAPI Mail or Microsoft Exchange and establishes a mail session. If Microsoft Mail isn't already running, you must use this method to establish a mail session before mail or document routing functions can be used.
 

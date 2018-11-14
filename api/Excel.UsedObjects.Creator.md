@@ -1,5 +1,5 @@
 ---
-title: UsedObjects.Creator Property (Excel)
+title: UsedObjects.Creator property (Excel)
 keywords: vbaxl10.chm677074
 f1_keywords:
 - vbaxl10.chm677074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UsedObjects.Creator Property (Excel)
+# UsedObjects.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

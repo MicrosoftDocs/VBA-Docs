@@ -1,5 +1,5 @@
 ---
-title: Selection.ClearParagraphStyle Method (Word)
+title: Selection.ClearParagraphStyle method (Word)
 keywords: vbawd10.chm158663686
 f1_keywords:
 - vbawd10.chm158663686
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ClearParagraphStyle Method (Word)
+# Selection.ClearParagraphStyle method (Word)
 
 Removes paragraph formatting that has been applied through paragraph styles from the selected text.
 

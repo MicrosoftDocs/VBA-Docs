@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Excel)
+title: DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Excel)
 keywords: vbaxl10.chm660079
 f1_keywords:
 - vbaxl10.chm660079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.CheckIfOfficeIsHTMLEditor Property (Excel)
+# DefaultWebOptions.CheckIfOfficeIsHTMLEditor property (Excel)
 
  **True** if Microsoft Excel checks to see whether an Office application is the default HTML editor when you start Excel. **False** if Excel does not perform this check. The default value is **True** . Read/write **Boolean** .
 

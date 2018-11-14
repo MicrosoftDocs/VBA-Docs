@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.BevelTopInset Property (Word)
+title: ThreeDFormat.BevelTopInset property (Word)
 keywords: vbawd10.chm164626547
 f1_keywords:
 - vbawd10.chm164626547
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.BevelTopInset Property (Word)
+# ThreeDFormat.BevelTopInset property (Word)
 
 Returns or sets a  **Single** that represents the inset size for the top bevel. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.OnRepeat Method (Excel)
+title: Application.OnRepeat method (Excel)
 keywords: vbaxl10.chm133181
 f1_keywords:
 - vbaxl10.chm133181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnRepeat Method (Excel)
+# Application.OnRepeat method (Excel)
 
 Sets the  **Repeat** item and the name of the procedure that will run if you choose the **Repeat** command after running the procedure that sets this property.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.UpdateFromFile Method (Excel)
+title: Workbook.UpdateFromFile method (Excel)
 keywords: vbaxl10.chm199159
 f1_keywords:
 - vbaxl10.chm199159
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UpdateFromFile Method (Excel)
+# Workbook.UpdateFromFile method (Excel)
 
 Updates a read-only workbook from the saved disk version of the workbook if the disk version is more recent than the copy of the workbook that is loaded in memory. If the disk copy hasn't changed since the workbook was loaded, the in-memory copy of the workbook isn't reloaded.
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.Refresh Method (Word)
+title: Chart.Refresh method (Word)
 keywords: vbawd10.chm79364187
 f1_keywords:
 - vbawd10.chm79364187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Refresh Method (Word)
+# Chart.Refresh method (Word)
 
 Causes the specified chart to be redrawn immediately.
 

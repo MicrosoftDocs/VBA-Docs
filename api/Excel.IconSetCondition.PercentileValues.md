@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.PercentileValues Property (Excel)
+title: IconSetCondition.PercentileValues property (Excel)
 keywords: vbaxl10.chm812084
 f1_keywords:
 - vbaxl10.chm812084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.PercentileValues Property (Excel)
+# IconSetCondition.PercentileValues property (Excel)
 
 Returns or sets a  **Boolean** value indicating if the thresholds for an icon set conditional format are determined by using percentiles.
 

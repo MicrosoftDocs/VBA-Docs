@@ -1,5 +1,5 @@
 ---
-title: XlPivotCellType Enumeration (Excel)
+title: xlPivotCellType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotCellType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotCellType Enumeration (Excel)
+# xlPivotCellType enumeration (Excel)
 
 Specifies the  **PivotTable** entity to which the cell corresponds.
 

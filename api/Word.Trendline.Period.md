@@ -1,5 +1,5 @@
 ---
-title: Trendline.Period Property (Word)
+title: Trendline.Period property (Word)
 keywords: vbawd10.chm26345656
 f1_keywords:
 - vbawd10.chm26345656
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Period Property (Word)
+# Trendline.Period property (Word)
 
 Returns or sets the period for the moving-average trendline. Read/write  **Long** .
 

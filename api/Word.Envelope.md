@@ -1,5 +1,5 @@
 ---
-title: Envelope Object (Word)
+title: Envelope object (Word)
 keywords: vbawd10.chm2328
 f1_keywords:
 - vbawd10.chm2328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope Object (Word)
+# Envelope object (Word)
 
 Represents an envelope attached to a document.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TrimMean Method (Excel)
+title: WorksheetFunction.TrimMean method (Excel)
 keywords: vbaxl10.chm137235
 f1_keywords:
 - vbaxl10.chm137235
@@ -11,7 +11,7 @@ ms.date: 08/28/2018
 ---
 
 
-# WorksheetFunction.TrimMean Method (Excel)
+# WorksheetFunction.TrimMean method (Excel)
 
 Returns the mean of the interior of a data set. TRIMMEAN calculates the mean taken by excluding a percentage of data points from the top and bottom tails of a data set. You can use this function when you wish to exclude outlying data from your analysis.
 

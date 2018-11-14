@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.RotationY Property (Word)
+title: ThreeDFormat.RotationY property (Word)
 keywords: vbawd10.chm164626542
 f1_keywords:
 - vbawd10.chm164626542
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.RotationY Property (Word)
+# ThreeDFormat.RotationY property (Word)
 
 Returns or sets the rotation of the extruded shape around the y-axis, in degrees. Read/write  **Single** .
 

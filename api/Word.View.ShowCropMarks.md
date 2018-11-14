@@ -1,5 +1,5 @@
 ---
-title: View.ShowCropMarks Property (Word)
+title: View.ShowCropMarks property (Word)
 keywords: vbawd10.chm161808440
 f1_keywords:
 - vbawd10.chm161808440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowCropMarks Property (Word)
+# View.ShowCropMarks property (Word)
 
 Returns or sets a  **Boolean** that represents whether to show crop marks in the corners of pages to indicate where margins are located. Read/write.
 

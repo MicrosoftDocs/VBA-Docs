@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry.Creator Property (Word)
+title: EmailSignatureEntry.Creator property (Word)
 keywords: vbawd10.chm166069225
 f1_keywords:
 - vbawd10.chm166069225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry.Creator Property (Word)
+# EmailSignatureEntry.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -50,7 +50,7 @@ The  _CalendarID_ argument should be one of the following values, which are decl
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCalWestern**|0|Western|
 | **visCalArabicHijri**|1|Arabic Hijiri|

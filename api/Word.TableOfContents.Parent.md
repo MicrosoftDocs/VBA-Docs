@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.Parent Property (Word)
+title: TableOfContents.Parent property (Word)
 keywords: vbawd10.chm152241130
 f1_keywords:
 - vbawd10.chm152241130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.Parent Property (Word)
+# TableOfContents.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TableOfContents** object.
 

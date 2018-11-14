@@ -1,5 +1,5 @@
 ---
-title: Windows.ResetPositionsSideBySide Method (Excel)
+title: Windows.ResetPositionsSideBySide method (Excel)
 keywords: vbaxl10.chm354081
 f1_keywords:
 - vbaxl10.chm354081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.ResetPositionsSideBySide Method (Excel)
+# Windows.ResetPositionsSideBySide method (Excel)
 
 Resets the position of two worksheet windows that are being compared side by side.
 

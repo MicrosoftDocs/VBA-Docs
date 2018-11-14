@@ -1,5 +1,5 @@
 ---
-title: Frame Object (Word)
+title: Frame object (Word)
 keywords: vbawd10.chm2346
 f1_keywords:
 - vbawd10.chm2346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame Object (Word)
+# Frame object (Word)
 
 Represents a frame. The  **Frame** object is a member of the **Frames** collection. The **[Frames](Word.Frames.md)** collection includes all frames in a selection, range, or document.
 

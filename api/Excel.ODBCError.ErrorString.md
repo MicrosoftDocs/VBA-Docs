@@ -1,5 +1,5 @@
 ---
-title: ODBCError.ErrorString Property (Excel)
+title: ODBCError.ErrorString property (Excel)
 keywords: vbaxl10.chm527074
 f1_keywords:
 - vbaxl10.chm527074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCError.ErrorString Property (Excel)
+# ODBCError.ErrorString property (Excel)
 
 Returns a  **String** value that represents the ODBC error string.
 

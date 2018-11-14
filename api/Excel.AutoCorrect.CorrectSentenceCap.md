@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.CorrectSentenceCap Property (Excel)
+title: AutoCorrect.CorrectSentenceCap property (Excel)
 keywords: vbaxl10.chm545079
 f1_keywords:
 - vbaxl10.chm545079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.CorrectSentenceCap Property (Excel)
+# AutoCorrect.CorrectSentenceCap property (Excel)
 
  **True** if Microsoft Excel automatically corrects sentence (first word) capitalization. Read/write **Boolean** .
 

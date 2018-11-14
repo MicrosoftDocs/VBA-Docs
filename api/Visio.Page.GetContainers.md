@@ -42,7 +42,7 @@ The  _NestedOptions_ parameter must be one of the following **VisContainerNested
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerIncludeNested**|0|Include shapes that are in nested containers.|
 | **visContainerExcludeNested**|1|Exclude shapes that are in nested containers.|

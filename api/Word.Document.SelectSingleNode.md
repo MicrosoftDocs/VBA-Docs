@@ -1,5 +1,5 @@
 ---
-title: Document.SelectSingleNode Method (Word)
+title: Document.SelectSingleNode method (Word)
 keywords: vbawd10.chm158007784
 f1_keywords:
 - vbawd10.chm158007784
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectSingleNode Method (Word)
+# Document.SelectSingleNode method (Word)
 
 Returns an  **XMLNode** object that represents the first node that matches the XPath parameter in the specified document.
 

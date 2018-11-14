@@ -1,5 +1,5 @@
 ---
-title: PivotCell.PivotCellType Property (Excel)
+title: PivotCell.PivotCellType property (Excel)
 keywords: vbaxl10.chm692073
 f1_keywords:
 - vbaxl10.chm692073
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.PivotCellType Property (Excel)
+# PivotCell.PivotCellType property (Excel)
 
-Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
+Returns one of the  **[xlPivotCellType](Excel.XlPivotCellType.md)** constants that identifies the PivotTable entity the cell corresponds to. Read-only.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns one of the  **[XlPivotCellType](Excel.XlPivotCellType.md)** constants th
 
 
 
-| **XlPivotCellType** can be one of these **XlPivotCellType** constants.|
+| **xlPivotCellType** can be one of these **xlPivotCellType** constants.|
 | **xlPivotCellBlankCell** A structural blank cell in the PivotTable.|
 | **xlPivotCellCustomSubtotal** A cell in the row or column area that is a custom subtotal.|
 | **xlPivotCellDataField** A data field label (not the **Data** button).|

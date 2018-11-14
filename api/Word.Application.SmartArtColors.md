@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtColors Property (Word)
+title: Application.SmartArtColors property (Word)
 keywords: vbawd10.chm158335459
 f1_keywords:
 - vbawd10.chm158335459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtColors Property (Word)
+# Application.SmartArtColors property (Word)
 
 Returns a [SmartArtColors](./Office.SmartArtColors.md) object that represents the set of color styles that are currently loaded in the application. Read-only.
 

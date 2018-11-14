@@ -1,5 +1,5 @@
 ---
-title: ColorScaleCriterion Object (Excel)
+title: ColorScaleCriterion object (Excel)
 keywords: vbaxl10.chm808072
 f1_keywords:
 - vbaxl10.chm808072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScaleCriterion Object (Excel)
+# ColorScaleCriterion object (Excel)
 
 Represents the criteria for the minimum, midpoint, or maximum thresholds for a color format conditional format.
 

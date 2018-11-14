@@ -1,5 +1,5 @@
 ---
-title: XSLTransform.Location Property (Word)
+title: XSLTransform.Location property (Word)
 keywords: vbawd10.chm76742659
 f1_keywords:
 - vbawd10.chm76742659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XSLTransform.Location Property (Word)
+# XSLTransform.Location property (Word)
 
 Returns or sets a  **String** that represents the physical location of the XSL transform for the namespace of an XML schema in the Schema Library. Read/write.
 

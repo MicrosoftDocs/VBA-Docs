@@ -1,5 +1,5 @@
 ---
-title: Name.RefersToRange Property (Excel)
+title: Name.RefersToRange property (Excel)
 keywords: vbaxl10.chm490088
 f1_keywords:
 - vbaxl10.chm490088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.RefersToRange Property (Excel)
+# Name.RefersToRange property (Excel)
 
 Returns the  **[Range](Excel.Range(object).md)** object referred to by a **Name** object. Read-only.
 

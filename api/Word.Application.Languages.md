@@ -1,5 +1,5 @@
 ---
-title: Application.Languages Property (Word)
+title: Application.Languages property (Word)
 keywords: vbawd10.chm158334990
 f1_keywords:
 - vbawd10.chm158334990
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Languages Property (Word)
+# Application.Languages property (Word)
 
 Returns a  **[Languages](Word.languages.md)** collection that represents the proofing languages listed in the **Language** dialog box.
 

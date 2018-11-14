@@ -1,5 +1,5 @@
 ---
-title: Cells.Parent Property (Word)
+title: Cells.Parent property (Word)
 keywords: vbawd10.chm155845610
 f1_keywords:
 - vbawd10.chm155845610
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Parent Property (Word)
+# Cells.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Cells** object.
 

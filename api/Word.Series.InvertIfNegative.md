@@ -1,5 +1,5 @@
 ---
-title: Series.InvertIfNegative Property (Word)
+title: Series.InvertIfNegative property (Word)
 keywords: vbawd10.chm123732100
 f1_keywords:
 - vbawd10.chm123732100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.InvertIfNegative Property (Word)
+# Series.InvertIfNegative property (Word)
 
  **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Selection.IsEqual Method (Word)
+title: Selection.IsEqual method (Word)
 keywords: vbawd10.chm158662827
 f1_keywords:
 - vbawd10.chm158662827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.IsEqual Method (Word)
+# Selection.IsEqual method (Word)
 
  **True** if the selection to which this method is applied is equal to the range specified by the Range argument.
 

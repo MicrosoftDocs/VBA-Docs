@@ -29,7 +29,7 @@ End With
 
 Use  **Axes**( _type_,  _group_), where  _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object.
 
- _Type_ can be one of the following **XlAxisType**constants.
+ _Type_ can be one of the following **xlAxisType**constants.
 
 
 
@@ -37,7 +37,7 @@ Use  **Axes**( _type_,  _group_), where  _type_ is the axis type and _group_ is 
 | **xlCategory**|
 | **xlSeries** **xlValue**|
 
- _Group_ can be either of the following **XlAxisGroup** constants: **xlPrimary** or **xlSecondary**. For more information, see the  **[Axes](Excel.Axes-graph-method.md)** method. 
+ _Group_ can be either of the following **xlAxisGroup** constants: **xlPrimary** or **xlSecondary**. For more information, see the  **[Axes](Excel.Axes-graph-method.md)** method. 
 
 The following example sets the title text for the category axis.
 

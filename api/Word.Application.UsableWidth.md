@@ -1,5 +1,5 @@
 ---
-title: Application.UsableWidth Property (Word)
+title: Application.UsableWidth property (Word)
 keywords: vbawd10.chm158335009
 f1_keywords:
 - vbawd10.chm158335009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UsableWidth Property (Word)
+# Application.UsableWidth property (Word)
 
 Returns the maximum width (in points) to which you can set the width of a Microsoft Word document window. Read-only  **Long** .
 

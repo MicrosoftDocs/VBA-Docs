@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Creator Property (Word)
+title: ChartFont.Creator property (Word)
 keywords: vbawd10.chm255918229
 f1_keywords:
 - vbawd10.chm255918229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Creator Property (Word)
+# ChartFont.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

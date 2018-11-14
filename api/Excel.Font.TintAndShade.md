@@ -1,5 +1,5 @@
 ---
-title: Font.TintAndShade Property (Excel)
+title: Font.TintAndShade property (Excel)
 keywords: vbaxl10.chm559088
 f1_keywords:
 - vbaxl10.chm559088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.TintAndShade Property (Excel)
+# Font.TintAndShade property (Excel)
 
 Returns or sets a  **Single** that lightens or darkens a color.
 

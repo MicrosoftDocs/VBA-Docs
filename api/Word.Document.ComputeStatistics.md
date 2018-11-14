@@ -1,5 +1,5 @@
 ---
-title: Document.ComputeStatistics Method (Word)
+title: Document.ComputeStatistics method (Word)
 keywords: vbawd10.chm158007414
 f1_keywords:
 - vbawd10.chm158007414
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ComputeStatistics Method (Word)
+# Document.ComputeStatistics method (Word)
 
 Returns a statistic based on the contents of the specified document.  **Long** .
 

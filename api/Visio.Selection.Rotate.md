@@ -48,7 +48,7 @@ The following possible values for  _RotationType_ are declared in **VisRotationT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRotateSelectionWithPin**|1|Rotates the selection around a pin.|
 | **visRotateSelection**|0|Rotates the selection relative to the center of the selection.|

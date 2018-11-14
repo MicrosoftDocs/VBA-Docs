@@ -1,5 +1,5 @@
 ---
-title: Application.Value Property (Excel)
+title: Application.Value property (Excel)
 keywords: vbaxl10.chm133226
 f1_keywords:
 - vbaxl10.chm133226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Value Property (Excel)
+# Application.Value property (Excel)
 
 Returns a  **String** value that represents the name of the application.
 

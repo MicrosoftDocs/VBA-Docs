@@ -1,5 +1,5 @@
 ---
-title: OMathMat.ColGap Property (Word)
+title: OMathMat.ColGap property (Word)
 keywords: vbawd10.chm176029808
 f1_keywords:
 - vbawd10.chm176029808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.ColGap Property (Word)
+# OMathMat.ColGap property (Word)
 
 Returns or sets a  **Long** that represents the spacing between columns in a matrix. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HiLoLines Property (Excel)
+title: ChartGroup.HiLoLines property (Excel)
 keywords: vbaxl10.chm568084
 f1_keywords:
 - vbaxl10.chm568084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HiLoLines Property (Excel)
+# ChartGroup.HiLoLines property (Excel)
 
 Returns a  **[HiLoLines](Excel.HiLoLines(object).md)** object that represents the high-low lines for a series on a line chart. Applies only to line charts. Read-only.
 

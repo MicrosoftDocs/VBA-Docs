@@ -1,5 +1,5 @@
 ---
-title: Range.Validation Property (Excel)
+title: Range.Validation property (Excel)
 keywords: vbaxl10.chm144215
 f1_keywords:
 - vbaxl10.chm144215
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Validation Property (Excel)
+# Range.Validation property (Excel)
 
 Returns the  **[Validation](Excel.Validation.md)** object that represents data validation for the specified range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.MergedCellColor Property (Word)
+title: Options.MergedCellColor property (Word)
 keywords: vbawd10.chm162988498
 f1_keywords:
 - vbawd10.chm162988498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MergedCellColor Property (Word)
+# Options.MergedCellColor property (Word)
 
 Returns or sets a  **WdCellColor** constant that represents the color for merged table cells. Read/write.
 

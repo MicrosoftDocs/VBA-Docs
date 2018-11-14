@@ -1,5 +1,5 @@
 ---
-title: WdStatistic Enumeration (Word)
+title: WdStatistic enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdStatistic
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdStatistic Enumeration (Word)
+# WdStatistic enumeration (Word)
 
 Specifies a statistic to return from a selection or item.
 

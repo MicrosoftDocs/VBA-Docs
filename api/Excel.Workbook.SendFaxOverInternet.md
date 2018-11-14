@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendFaxOverInternet Method (Excel)
+title: Workbook.SendFaxOverInternet method (Excel)
 keywords: vbaxl10.chm199223
 f1_keywords:
 - vbaxl10.chm199223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SendFaxOverInternet Method (Excel)
+# Workbook.SendFaxOverInternet method (Excel)
 
 Sends a worksheet as a fax to the specfied recipients.
 
@@ -29,7 +29,7 @@ Sends a worksheet as a fax to the specfied recipients.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and e-mail addresses of the people to whom the fax will be sent. Separate multiple recipients with a semicolon.|
+| _Recipients_|Optional| **Variant**|A  **String** that represents the fax numbers and email addresses of the people to whom the fax will be sent. Separate multiple recipients with a semicolon.|
 | _Subject_|Optional| **Variant**|A  **String** that represents the subject line for the faxed document.|
 | _ShowMessage_|Optional| **Variant**| **True** displays the fax message before sending it. **False** sends the fax without displaying the fax message.|
 

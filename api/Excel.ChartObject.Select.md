@@ -1,5 +1,5 @@
 ---
-title: ChartObject.Select Method (Excel)
+title: ChartObject.Select method (Excel)
 keywords: vbaxl10.chm494090
 f1_keywords:
 - vbaxl10.chm494090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.Select Method (Excel)
+# ChartObject.Select method (Excel)
 
 Selects the object.
 

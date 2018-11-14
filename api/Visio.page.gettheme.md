@@ -22,7 +22,7 @@ Returns a  **Variant** that represents the specified theme component of the spec
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _eThemeType_|Required|[VISTHEMETYPES](Visio.visthemetypes.md)|Specifies the type of the theme component to return.|

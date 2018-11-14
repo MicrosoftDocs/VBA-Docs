@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Irr Method (Excel)
+title: WorksheetFunction.Irr method (Excel)
 keywords: vbaxl10.chm137113
 f1_keywords:
 - vbaxl10.chm137113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Irr Method (Excel)
+# WorksheetFunction.Irr method (Excel)
 
 Returns the internal rate of return for a series of cash flows represented by the numbers in values. These cash flows do not have to be even, as they would be for an annuity. However, the cash flows must occur at regular intervals, such as monthly or annually. The internal rate of return is the interest rate received for an investment consisting of payments (negative values) and income (positive values) that occur at regular periods.
 

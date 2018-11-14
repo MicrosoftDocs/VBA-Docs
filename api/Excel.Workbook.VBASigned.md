@@ -1,5 +1,5 @@
 ---
-title: Workbook.VBASigned Property (Excel)
+title: Workbook.VBASigned property (Excel)
 keywords: vbaxl10.chm199195
 f1_keywords:
 - vbaxl10.chm199195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.VBASigned Property (Excel)
+# Workbook.VBASigned property (Excel)
 
  **True** if the Visual Basic for Applications project for the specified workbook has been digitally signed. Read-only **Boolean** .
 

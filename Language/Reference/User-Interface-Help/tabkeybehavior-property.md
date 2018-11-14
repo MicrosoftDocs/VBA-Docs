@@ -23,7 +23,7 @@ _object_. **TabKeyBehavior** [= _Boolean_ ]
 The  **TabKeyBehavior** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. The effect of pressing TAB.|

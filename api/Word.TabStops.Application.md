@@ -1,5 +1,5 @@
 ---
-title: TabStops.Application Property (Word)
+title: TabStops.Application property (Word)
 keywords: vbawd10.chm156566504
 f1_keywords:
 - vbawd10.chm156566504
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Application Property (Word)
+# TabStops.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

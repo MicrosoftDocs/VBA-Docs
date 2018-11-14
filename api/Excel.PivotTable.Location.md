@@ -1,5 +1,5 @@
 ---
-title: PivotTable.Location Property (Excel)
+title: PivotTable.Location property (Excel)
 keywords: vbaxl10.chm235185
 f1_keywords:
 - vbaxl10.chm235185
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.Location Property (Excel)
+# PivotTable.Location property (Excel)
 
 Gets or sets a  **String** that represents the top-left cell in the body of the specified **[PivotTable](Excel.PivotTable.md)** . Read/write.
 

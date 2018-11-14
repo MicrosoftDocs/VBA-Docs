@@ -1,5 +1,5 @@
 ---
-title: Page.Creator Property (Word)
+title: Page.Creator property (Word)
 keywords: vbawd10.chm11076585
 f1_keywords:
 - vbawd10.chm11076585
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Creator Property (Word)
+# Page.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

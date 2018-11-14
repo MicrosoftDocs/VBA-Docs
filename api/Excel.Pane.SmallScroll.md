@@ -1,5 +1,5 @@
 ---
-title: Pane.SmallScroll Method (Excel)
+title: Pane.SmallScroll method (Excel)
 keywords: vbaxl10.chm360078
 f1_keywords:
 - vbaxl10.chm360078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.SmallScroll Method (Excel)
+# Pane.SmallScroll method (Excel)
 
 Scrolls the contents of the window by rows or columns.
 

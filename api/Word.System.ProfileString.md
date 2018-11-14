@@ -1,5 +1,5 @@
 ---
-title: System.ProfileString Property (Word)
+title: System.ProfileString property (Word)
 keywords: vbawd10.chm154468361
 f1_keywords:
 - vbawd10.chm154468361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.ProfileString Property (Word)
+# System.ProfileString property (Word)
 
 Returns or sets a value for an entry in the Windows registry under the following subkey: `HKEY_CURRENT_USER\Software\Microsoft\Office\version\Word`. Read/write  **String** .
 

@@ -20,7 +20,7 @@ Selects and returns a value from a list of [arguments](../../Glossary/vbe-glossa
 The **Choose** function syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _index_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or field that results in a value between 1 and the number of available choices.|
 | _choice_|Required. [Variant expression](../../Glossary/vbe-glossary.md#variant-expression) containing one of the possible choices.|

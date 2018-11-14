@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.DollarDe Method (Excel)
+title: WorksheetFunction.DollarDe method (Excel)
 keywords: vbaxl10.chm137319
 f1_keywords:
 - vbaxl10.chm137319
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.DollarDe Method (Excel)
+# WorksheetFunction.DollarDe method (Excel)
 
 Converts a dollar price expressed as a fraction into a dollar price expressed as a decimal number. Use DOLLARDE to convert fractional dollar numbers, such as securities prices, to decimal numbers.
 

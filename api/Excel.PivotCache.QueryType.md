@@ -1,5 +1,5 @@
 ---
-title: PivotCache.QueryType Property (Excel)
+title: PivotCache.QueryType property (Excel)
 keywords: vbaxl10.chm227089
 f1_keywords:
 - vbaxl10.chm227089
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.QueryType Property (Excel)
+# PivotCache.QueryType property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[XlQueryType](Excel.XlQueryType.md)** .
+Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[xlQueryType](Excel.XlQueryType.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Indicates the type of query used by Microsoft Excel to populate the PivotTable c
 
 
 
-| **XlQueryType** can be one of these **XlQueryType** constants.|
+| **xlQueryType** can be one of these **xlQueryType** constants.|
 | **xlTextImport** . Based on a text file, for query tables only|
 | **xlOLEDBQuery** . Based on an OLE DB query, including OLAP data sources|
 | **xlWebQuery** . Based on a Web page, for query tables only|

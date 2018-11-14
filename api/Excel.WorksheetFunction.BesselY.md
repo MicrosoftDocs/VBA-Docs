@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.BesselY Method (Excel)
+title: WorksheetFunction.BesselY method (Excel)
 keywords: vbaxl10.chm137304
 f1_keywords:
 - vbaxl10.chm137304
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.BesselY Method (Excel)
+# WorksheetFunction.BesselY method (Excel)
 
 Returns the Bessel function, which is also called the Weber function or the Neumann function.
 

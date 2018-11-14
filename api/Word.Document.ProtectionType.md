@@ -1,5 +1,5 @@
 ---
-title: Document.ProtectionType Property (Word)
+title: Document.ProtectionType property (Word)
 keywords: vbawd10.chm158007356
 f1_keywords:
 - vbawd10.chm158007356
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ProtectionType Property (Word)
+# Document.ProtectionType property (Word)
 
 Returns the protection type for the specified document. Can be one of the following  **WdProtectionType** constants: **wdAllowOnlyComments** , **wdAllowOnlyFormFields** , **wdAllowOnlyReading** , **wdAllowOnlyRevisions** , or **wdNoProtection** .
 

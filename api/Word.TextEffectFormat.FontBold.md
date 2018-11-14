@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.FontBold Property (Word)
+title: TextEffectFormat.FontBold property (Word)
 keywords: vbawd10.chm164560997
 f1_keywords:
 - vbawd10.chm164560997
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.FontBold Property (Word)
+# TextEffectFormat.FontBold property (Word)
 
 Sets the font to bold for the specified Word Art shape. Read/write  **MsoTriState** .
 

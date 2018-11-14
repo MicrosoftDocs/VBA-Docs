@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImSinh Method (Excel)
+title: WorksheetFunction.ImSinh method (Excel)
 keywords: vbaxl10.chm137463
 f1_keywords:
 - vbaxl10.chm137463
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImSinh Method (Excel)
+# WorksheetFunction.ImSinh method (Excel)
 
 Returns the hyperbolic sine of a complex number.
 
@@ -18,14 +18,14 @@ Returns the hyperbolic sine of a complex number.
 
  _expression_. `ImSinh`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the hyperbolic sine.|
 

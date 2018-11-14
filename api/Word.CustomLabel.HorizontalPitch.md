@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.HorizontalPitch Property (Word)
+title: CustomLabel.HorizontalPitch property (Word)
 keywords: vbawd10.chm152371208
 f1_keywords:
 - vbawd10.chm152371208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.HorizontalPitch Property (Word)
+# CustomLabel.HorizontalPitch property (Word)
 
 Returns or sets the horizontal distance (in points) between the left edge of one custom mailing label and the left edge of the next mailing label. Read/write  **Single** .
 

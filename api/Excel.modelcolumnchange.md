@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChange Object (Excel)
+title: ModelColumnChange object (Excel)
 keywords: vbaxl10.chm965072
 f1_keywords:
 - vbaxl10.chm965072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChange Object (Excel)
+# ModelColumnChange object (Excel)
 
 An object representing a column in a table in the Excel data model for which the data type was changed. 
 

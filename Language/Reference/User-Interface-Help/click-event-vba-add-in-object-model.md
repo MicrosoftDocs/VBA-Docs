@@ -21,7 +21,7 @@ Occurs when the  **OnAction**[property](../../Glossary/vbe-glossary.md#property)
 The Click event syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_ctrl_**|Required; [Object](../../Glossary/vbe-glossary.md#object). Specifies the object that is the source of the Click event.|
 |**_handled_**|Required; [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type). If  **True**, other[add-ins](../../Glossary/vbe-glossary.md#add-in) should handle the event. If **False**, the action of the command bar item has not been handled.|

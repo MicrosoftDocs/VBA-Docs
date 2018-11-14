@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange.Range Property (Excel)
+title: AllowEditRange.Range property (Excel)
 keywords: vbaxl10.chm725074
 f1_keywords:
 - vbaxl10.chm725074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange.Range Property (Excel)
+# AllowEditRange.Range property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents a subset of the ranges that can be edited edited on a protected worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.EnableCancelKey Property (Excel)
+title: Application.EnableCancelKey property (Excel)
 keywords: vbaxl10.chm133131
 f1_keywords:
 - vbaxl10.chm133131
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.EnableCancelKey Property (Excel)
+# Application.EnableCancelKey property (Excel)
 
-Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[XlEnableCancelKey](Excel.XlEnableCancelKey.md)** .
+Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[xlEnableCancelKey](Excel.XlEnableCancelKey.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user 
 
 
 
-| **XlEnableCancelKey** can be one of these **XlEnableCancelKey** constants.|
+| **xlEnableCancelKey** can be one of these **xlEnableCancelKey** constants.|
 | **xlDisabled** . Cancel key trapping is completely disabled.|
 | **xlErrorHandler** . The interrupt is sent to the running procedure as an error, trappable by an error handler set up with an `On Error GoTo` statement. The trappable error code is 18.|
 | **xlInterrupt** . The current procedure is interrupted, and the user can debug or end the procedure.|

@@ -1,5 +1,5 @@
 ---
-title: SparkVerticalAxis.Creator Property (Excel)
+title: SparkVerticalAxis.Creator property (Excel)
 keywords: vbaxl10.chm880074
 f1_keywords:
 - vbaxl10.chm880074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkVerticalAxis.Creator Property (Excel)
+# SparkVerticalAxis.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

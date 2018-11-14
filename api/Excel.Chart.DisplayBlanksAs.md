@@ -1,5 +1,5 @@
 ---
-title: Chart.DisplayBlanksAs Property (Excel)
+title: Chart.DisplayBlanksAs property (Excel)
 keywords: vbaxl10.chm149101
 f1_keywords:
 - vbaxl10.chm149101
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.DisplayBlanksAs Property (Excel)
+# Chart.DisplayBlanksAs property (Excel)
 
-Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[XlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long** .
+Returns or sets the way that blank cells are plotted on a chart. Can be one of the  **[xlDisplayBlanksAs](Excel.XlDisplayBlanksAs.md)** constants. Read/write **Long** .
 
 
 ## Syntax

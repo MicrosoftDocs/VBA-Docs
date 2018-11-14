@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Delete Method (Word)
+title: InlineShape.Delete method (Word)
 keywords: vbawd10.chm162005094
 f1_keywords:
 - vbawd10.chm162005094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Delete Method (Word)
+# InlineShape.Delete method (Word)
 
 Deletes the specified inline shape.
 

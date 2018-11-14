@@ -1,5 +1,5 @@
 ---
-title: PlotArea Object (Word)
+title: PlotArea object (Word)
 keywords: vbawd10.chm816
 f1_keywords:
 - vbawd10.chm816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea Object (Word)
+# PlotArea object (Word)
 
 Represents the plot area of a chart.
 

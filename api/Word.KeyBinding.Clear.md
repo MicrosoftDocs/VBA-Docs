@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Clear Method (Word)
+title: KeyBinding.Clear method (Word)
 keywords: vbawd10.chm160956517
 f1_keywords:
 - vbawd10.chm160956517
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Clear Method (Word)
+# KeyBinding.Clear method (Word)
 
 Removes the specified key binding from the  **KeyBindings** collection and resets a built-in command to its default key assignment.
 

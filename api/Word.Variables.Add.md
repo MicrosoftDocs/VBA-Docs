@@ -1,5 +1,5 @@
 ---
-title: Variables.Add Method (Word)
+title: Variables.Add method (Word)
 keywords: vbawd10.chm157614087
 f1_keywords:
 - vbawd10.chm157614087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variables.Add Method (Word)
+# Variables.Add method (Word)
 
 Returns a  **Variable** object that represents a variable added to a document.
 

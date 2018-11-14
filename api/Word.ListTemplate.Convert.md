@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.Convert Method (Word)
+title: ListTemplate.Convert method (Word)
 keywords: vbawd10.chm160366693
 f1_keywords:
 - vbawd10.chm160366693
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.Convert Method (Word)
+# ListTemplate.Convert method (Word)
 
 Converts a multiple-level list to a single-level list, or vice versa.
 

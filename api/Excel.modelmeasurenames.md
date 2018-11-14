@@ -1,5 +1,5 @@
 ---
-title: ModelMeasureNames Object (Excel)
+title: ModelMeasureNames object (Excel)
 keywords: vbaxl10.chm971072
 f1_keywords:
 - vbaxl10.chm971072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelMeasureNames Object (Excel)
+# ModelMeasureNames object (Excel)
 
-A collection of [ModelMeasureName Object (Excel)](Excel.modelmeasurename.md) objects representing names of measures in the Excel data model.
+A collection of [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) objects representing names of measures in the Excel data model.
 
 
 ## See also

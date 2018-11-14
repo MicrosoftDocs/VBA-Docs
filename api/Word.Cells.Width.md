@@ -1,5 +1,5 @@
 ---
-title: Cells.Width Property (Word)
+title: Cells.Width property (Word)
 keywords: vbawd10.chm155844614
 f1_keywords:
 - vbawd10.chm155844614
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Width Property (Word)
+# Cells.Width property (Word)
 
 Returns or sets the width of the table cells, in points. Read/write  **Long** .
 

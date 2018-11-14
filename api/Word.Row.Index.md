@@ -1,5 +1,5 @@
 ---
-title: Row.Index Property (Word)
+title: Row.Index property (Word)
 keywords: vbawd10.chm156237836
 f1_keywords:
 - vbawd10.chm156237836
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Index Property (Word)
+# Row.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureAlignment Property (Word)
+title: FillFormat.TextureAlignment property (Word)
 keywords: vbawd10.chm164102261
 f1_keywords:
 - vbawd10.chm164102261
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureAlignment Property (Word)
+# FillFormat.TextureAlignment property (Word)
 
 Returns or sets the alignment (the origin of the coordinate grid) for the tiling of the texture fill. Read/write.
 

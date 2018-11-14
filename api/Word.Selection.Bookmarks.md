@@ -1,5 +1,5 @@
 ---
-title: Selection.Bookmarks Property (Word)
+title: Selection.Bookmarks property (Word)
 keywords: vbawd10.chm158662731
 f1_keywords:
 - vbawd10.chm158662731
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Bookmarks Property (Word)
+# Selection.Bookmarks property (Word)
 
 Returns a  **[Bookmarks](Word.bookmarks.md)** collection that represents all the bookmarks in a document, range, or selection. Read-only.
 

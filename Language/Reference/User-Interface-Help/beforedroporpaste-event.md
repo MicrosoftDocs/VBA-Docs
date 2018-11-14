@@ -26,7 +26,7 @@ For other controls **Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_
 The  **BeforeDropOrPaste** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the  **Page** in a **MultiPage** that the drop or paste operation will affect.|
@@ -42,7 +42,7 @@ The  **BeforeDropOrPaste** event syntax has these parts:
 The settings for  _Action_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmActionPaste_|2|Pastes the selected object into the drop target.|
 | _fmActionDragDrop_|3|Indicates the user has dragged the object from its source to the drop target and dropped it on the drop target.|
@@ -50,7 +50,7 @@ The settings for  _Action_ are:
 The settings for  _Effect_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDropEffectNone_|0|Does not copy or move the [drop source](../../Glossary/glossary-vba.md#drop-source) to the drop target.|
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|
@@ -60,7 +60,7 @@ The settings for  _Effect_ are:
 The settings for  _Shift_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|

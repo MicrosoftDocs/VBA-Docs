@@ -1,5 +1,5 @@
 ---
-title: DataLabels.ShowLegendKey Property (Excel)
+title: DataLabels.ShowLegendKey property (Excel)
 keywords: vbaxl10.chm584096
 f1_keywords:
 - vbaxl10.chm584096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.ShowLegendKey Property (Excel)
+# DataLabels.ShowLegendKey property (Excel)
 
  **True** if the data label legend key is visible. Read/write **Boolean** .
 

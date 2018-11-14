@@ -1,5 +1,5 @@
 ---
-title: Filters.Item Property (Excel)
+title: Filters.Item property (Excel)
 keywords: vbaxl10.chm540075
 f1_keywords:
 - vbaxl10.chm540075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Filters.Item Property (Excel)
+# Filters.Item property (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Transparency Property (Word)
+title: FillFormat.Transparency property (Word)
 keywords: vbawd10.chm164102255
 f1_keywords:
 - vbawd10.chm164102255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Transparency Property (Word)
+# FillFormat.Transparency property (Word)
 
 Returns or sets the degree of transparency of the specified fillfor a shape as a value between 0.0 (opaque) and 1.0 (clear). Read/write  **Single** .
 

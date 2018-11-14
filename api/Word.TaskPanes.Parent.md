@@ -1,5 +1,5 @@
 ---
-title: TaskPanes.Parent Property (Word)
+title: TaskPanes.Parent property (Word)
 ms.prod: word
 api_name:
 - Word.TaskPanes.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPanes.Parent Property (Word)
+# TaskPanes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TaskPanes** object.
 

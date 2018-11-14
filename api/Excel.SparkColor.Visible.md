@@ -1,5 +1,5 @@
 ---
-title: SparkColor.Visible Property (Excel)
+title: SparkColor.Visible property (Excel)
 keywords: vbaxl10.chm883073
 f1_keywords:
 - vbaxl10.chm883073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkColor.Visible Property (Excel)
+# SparkColor.Visible property (Excel)
 
 Returns of sets whether the point is visible. Read/write
 

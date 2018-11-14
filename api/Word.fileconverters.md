@@ -1,12 +1,12 @@
 ---
-title: FileConverters Object (Word)
+title: FileConverters object (Word)
 ms.prod: word
 ms.assetid: b9b8fc53-1c8e-224d-726a-4edf172ca647
 ms.date: 06/08/2017
 ---
 
 
-# FileConverters Object (Word)
+# FileConverters object (Word)
 
 A collection of  **FileConverter** objects that represent all the file converters available for opening and saving files.
 

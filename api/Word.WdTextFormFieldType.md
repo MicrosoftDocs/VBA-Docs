@@ -1,5 +1,5 @@
 ---
-title: WdTextFormFieldType Enumeration (Word)
+title: WdTextFormFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTextFormFieldType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTextFormFieldType Enumeration (Word)
+# WdTextFormFieldType enumeration (Word)
 
 Specifies the text form field type.
 

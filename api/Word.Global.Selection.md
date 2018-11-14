@@ -1,5 +1,5 @@
 ---
-title: Global.Selection Property (Word)
+title: Global.Selection property (Word)
 keywords: vbawd10.chm163119109
 f1_keywords:
 - vbawd10.chm163119109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Selection Property (Word)
+# Global.Selection property (Word)
 
 Returns a  **Selection** object that represents a selected range or the insertion point. Read-only.
 

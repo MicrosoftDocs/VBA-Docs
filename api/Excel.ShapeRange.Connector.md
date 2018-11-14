@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Connector Property (Excel)
+title: ShapeRange.Connector property (Excel)
 keywords: vbaxl10.chm640101
 f1_keywords:
 - vbaxl10.chm640101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Connector Property (Excel)
+# ShapeRange.Connector property (Excel)
 
  **True** if the specified shape is a connector. Read-only **[MsoTriState](./Office.MsoTriState.md)** .
 

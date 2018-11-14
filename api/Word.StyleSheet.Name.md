@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Name Property (Word)
+title: StyleSheet.Name property (Word)
 keywords: vbawd10.chm166658051
 f1_keywords:
 - vbawd10.chm166658051
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Name Property (Word)
+# StyleSheet.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

@@ -19,7 +19,7 @@ _object_**.SaveAs** **(**_newfilename_**As String)**
 
 The **SaveAs** method syntax has these parts.
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _newfilename_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the new filename for the component to be saved.|

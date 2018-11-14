@@ -1,5 +1,5 @@
 ---
-title: Documents.AddBlogDocument Method (Word)
+title: Documents.AddBlogDocument method (Word)
 keywords: vbawd10.chm158072853
 f1_keywords:
 - vbawd10.chm158072853
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.AddBlogDocument Method (Word)
+# Documents.AddBlogDocument method (Word)
 
 Returns a  **Document** object that represents a new blog document that Microsoft Word publishes to the account described by the first three parameters.
 

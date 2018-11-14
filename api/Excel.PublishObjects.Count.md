@@ -1,5 +1,5 @@
 ---
-title: PublishObjects.Count Property (Excel)
+title: PublishObjects.Count property (Excel)
 keywords: vbaxl10.chm650074
 f1_keywords:
 - vbaxl10.chm650074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObjects.Count Property (Excel)
+# PublishObjects.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

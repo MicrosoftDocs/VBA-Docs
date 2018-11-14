@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Substitute Method (Excel)
+title: WorksheetFunction.Substitute method (Excel)
 keywords: vbaxl10.chm137128
 f1_keywords:
 - vbaxl10.chm137128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Substitute Method (Excel)
+# WorksheetFunction.Substitute method (Excel)
 
 Substitutes new_text for old_text in a text string. Use SUBSTITUTE when you want to replace specific text in a text string; use REPLACE when you want to replace any text that occurs in a specific location in a text string.
 

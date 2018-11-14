@@ -1,5 +1,5 @@
 ---
-title: Application.ShowMenuFloaties Property (Excel)
+title: Application.ShowMenuFloaties property (Excel)
 keywords: vbaxl10.chm133300
 f1_keywords:
 - vbaxl10.chm133300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowMenuFloaties Property (Excel)
+# Application.ShowMenuFloaties property (Excel)
 
 Returns or sets a  **Boolean** that represents whether to display **Mini toolbars** when the user right-clicks in the workbook window. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
 

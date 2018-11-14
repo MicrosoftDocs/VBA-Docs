@@ -21,7 +21,7 @@ _object_**.AddFromGuid(**_guid_, _major_, _minor_**)** **As Reference**
 The  **AddFromGuid** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _guid_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression)representing the GUID of the reference.|

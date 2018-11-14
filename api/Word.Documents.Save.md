@@ -1,5 +1,5 @@
 ---
-title: Documents.Save Method (Word)
+title: Documents.Save method (Word)
 keywords: vbawd10.chm158072845
 f1_keywords:
 - vbawd10.chm158072845
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Documents.Save Method (Word)
+# Documents.Save method (Word)
 
 Saves all the documents in the  **Documents** collection.
 

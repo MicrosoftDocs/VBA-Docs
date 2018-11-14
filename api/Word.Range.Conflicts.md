@@ -1,5 +1,5 @@
 ---
-title: Range.Conflicts Property (Word)
+title: Range.Conflicts property (Word)
 keywords: vbawd10.chm157155834
 f1_keywords:
 - vbawd10.chm157155834
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Conflicts Property (Word)
+# Range.Conflicts property (Word)
 
 Returns a [Conflicts](Word.Conflicts.md) collection object that contains all the conflict objects in the range. Read-only.
 

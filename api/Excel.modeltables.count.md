@@ -1,5 +1,5 @@
 ---
-title: ModelTables.Count Property (Excel)
+title: ModelTables.Count property (Excel)
 keywords: vbaxl10.chm936073
 f1_keywords:
 - vbaxl10.chm936073
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTables.Count Property (Excel)
+# ModelTables.Count property (Excel)
 
-Returns a  **Long** value that represents the number of[ModelTable Object (Excel)](Excel.modeltable.md) objects in a [ModelTables Object (Excel)](Excel.modeltables.md) collection. Read-only.
+Returns a  **Long** value that represents the number of[ModelTable object (Excel)](Excel.modeltable.md) objects in a [ModelTables object (Excel)](Excel.modeltables.md) collection. Read-only.
 
 
 ## Syntax
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [ModelTables Object (Excel)](Excel.modeltables.md) object.
+ _expression_ A variable that represents a [ModelTables object (Excel)](Excel.modeltables.md) object.
 
 
 ## Property value

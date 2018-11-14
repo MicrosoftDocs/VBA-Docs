@@ -1,5 +1,5 @@
 ---
-title: Envelope.Creator Property (Word)
+title: Envelope.Creator property (Word)
 keywords: vbawd10.chm152568809
 f1_keywords:
 - vbawd10.chm152568809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Creator Property (Word)
+# Envelope.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

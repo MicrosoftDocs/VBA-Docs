@@ -1,5 +1,5 @@
 ---
-title: FormatCondition.Modify Method (Excel)
+title: FormatCondition.Modify method (Excel)
 keywords: vbaxl10.chm512082
 f1_keywords:
 - vbaxl10.chm512082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatCondition.Modify Method (Excel)
+# FormatCondition.Modify method (Excel)
 
 Modifies an existing conditional format.
 
@@ -29,8 +29,8 @@ Modifies an existing conditional format.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Required| **[XlFormatConditionType](Excel.XlFormatConditionType.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
-| _Operator_|Optional| **Variant**|An  **[XlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression** .|
+| _Type_|Required| **[xlFormatConditionType](Excel.XlFormatConditionType.md)**|Specifies whether the conditional format is based on a cell value or an expression.|
+| _Operator_|Optional| **Variant**|An  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** value that represents the conditional format operator. This parameter is ignored if _Type_ is set to **xlExpression** .|
 | _Formula1_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula.|
 | _Formula2_|Optional| **Variant**|The value or expression associated with the conditional format. Can be a constant value, a string value, a cell reference, or a formula..|
 

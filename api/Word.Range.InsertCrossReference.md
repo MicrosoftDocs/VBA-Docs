@@ -1,5 +1,5 @@
 ---
-title: Range.InsertCrossReference Method (Word)
+title: Range.InsertCrossReference method (Word)
 keywords: vbawd10.chm157155746
 f1_keywords:
 - vbawd10.chm157155746
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertCrossReference Method (Word)
+# Range.InsertCrossReference method (Word)
 
 Inserts a cross-reference to a heading, bookmark, footnote, or endnote, or to an item for which a caption label is defined (for example, an equation, figure, or table).
 

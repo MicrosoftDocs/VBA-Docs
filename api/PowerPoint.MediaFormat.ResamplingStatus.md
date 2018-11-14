@@ -34,7 +34,7 @@ PpMediaTaskStatus
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ppMediaTaskStatusNone**|0|No status|
 |**ppMediaTaskStatusInProgress**|1|In progress|

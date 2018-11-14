@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection Object (Excel)
+title: ODBCConnection object (Excel)
 keywords: vbaxl10.chm795072
 f1_keywords:
 - vbaxl10.chm795072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection Object (Excel)
+# ODBCConnection object (Excel)
 
 Represents the ODBC connection.
 

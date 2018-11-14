@@ -1,5 +1,5 @@
 ---
-title: Style.Table Property (Word)
+title: Style.Table property (Word)
 keywords: vbawd10.chm153878549
 f1_keywords:
 - vbawd10.chm153878549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Table Property (Word)
+# Style.Table property (Word)
 
 Returns a  **[TableStyle](Word.tableStyle.md)** object representing properties that can be applied to a table using a table style.
 

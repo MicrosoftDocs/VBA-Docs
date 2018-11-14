@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ParentGroup Property (Word)
+title: ShapeRange.ParentGroup property (Word)
 keywords: vbawd10.chm162857097
 f1_keywords:
 - vbawd10.chm162857097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ParentGroup Property (Word)
+# ShapeRange.ParentGroup property (Word)
 
 Returns a  **Shape** object that represents the common parent shape of a range of shapes.
 

@@ -1,5 +1,5 @@
 ---
-title: Section.Borders Property (Word)
+title: Section.Borders property (Word)
 keywords: vbawd10.chm156828748
 f1_keywords:
 - vbawd10.chm156828748
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Borders Property (Word)
+# Section.Borders property (Word)
 
 Returns a  **[Borders](Word.borders.md)** collection that represents all the borders in the section.
 

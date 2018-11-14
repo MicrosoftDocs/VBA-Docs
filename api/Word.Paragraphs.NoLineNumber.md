@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.NoLineNumber Property (Word)
+title: Paragraphs.NoLineNumber property (Word)
 keywords: vbawd10.chm156762217
 f1_keywords:
 - vbawd10.chm156762217
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.NoLineNumber Property (Word)
+# Paragraphs.NoLineNumber property (Word)
 
  **True** if line numbers are repressed for the specified paragraphs. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
 

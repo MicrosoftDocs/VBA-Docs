@@ -1,5 +1,5 @@
 ---
-title: Legend.Width Property (Word)
+title: Legend.Width property (Word)
 keywords: vbawd10.chm147193978
 f1_keywords:
 - vbawd10.chm147193978
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Width Property (Word)
+# Legend.Width property (Word)
 
 Returns or sets the width, in points, of the object. Read/write  **Double** .
 

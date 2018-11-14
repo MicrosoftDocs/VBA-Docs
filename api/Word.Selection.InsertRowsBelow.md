@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertRowsBelow Method (Word)
+title: Selection.InsertRowsBelow method (Word)
 keywords: vbawd10.chm158663193
 f1_keywords:
 - vbawd10.chm158663193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertRowsBelow Method (Word)
+# Selection.InsertRowsBelow method (Word)
 
 Inserts rows below the current selection.
 

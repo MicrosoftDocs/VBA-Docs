@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.RichText Property (Word)
+title: AutoCorrectEntry.RichText property (Word)
 keywords: vbawd10.chm155648004
 f1_keywords:
 - vbawd10.chm155648004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.RichText Property (Word)
+# AutoCorrectEntry.RichText property (Word)
 
  **True** if formatting is stored with the AutoCorrect entry replacement text. Read-only **Boolean** .
 

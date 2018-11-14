@@ -1,5 +1,5 @@
 ---
-title: Source.Cited Property (Word)
+title: Source.Cited property (Word)
 keywords: vbawd10.chm140836971
 f1_keywords:
 - vbawd10.chm140836971
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Source.Cited Property (Word)
+# Source.Cited property (Word)
 
 Returns a  **Boolean** that represents whether a source has been cited in a document. Read-only.
 

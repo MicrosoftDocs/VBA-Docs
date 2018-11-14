@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Delete Method (Excel)
+title: ErrorBars.Delete method (Excel)
 keywords: vbaxl10.chm624077
 f1_keywords:
 - vbaxl10.chm624077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Delete Method (Excel)
+# ErrorBars.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Zooms.Item Method (Word)
+title: Zooms.Item method (Word)
 keywords: vbawd10.chm161939456
 f1_keywords:
 - vbawd10.chm161939456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zooms.Item Method (Word)
+# Zooms.Item method (Word)
 
 Returns the specified  **Zoom** object.
 

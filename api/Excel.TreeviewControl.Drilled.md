@@ -1,5 +1,5 @@
 ---
-title: TreeviewControl.Drilled Property (Excel)
+title: TreeviewControl.Drilled property (Excel)
 keywords: vbaxl10.chm666074
 f1_keywords:
 - vbaxl10.chm666074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TreeviewControl.Drilled Property (Excel)
+# TreeviewControl.Drilled property (Excel)
 
 Sets the "drilled" (expanded, or visible) status of the cube field members in the hierarchical member-selection control of a cube field. This property is used primarily for macro recording and isn't intended for any other use. Read/write.
 

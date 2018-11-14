@@ -1,5 +1,5 @@
 ---
-title: Document.Final Property (Word)
+title: Document.Final property (Word)
 keywords: vbawd10.chm158007823
 f1_keywords:
 - vbawd10.chm158007823
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Final Property (Word)
+# Document.Final property (Word)
 
 Returns or sets a  **Boolean** that indicates whether a document is final. Read/write.
 

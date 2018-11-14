@@ -1,5 +1,5 @@
 ---
-title: Series.Paste Method (Word)
+title: Series.Paste method (Word)
 keywords: vbawd10.chm123732179
 f1_keywords:
 - vbawd10.chm123732179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Paste Method (Word)
+# Series.Paste method (Word)
 
 Pastes a picture from the Clipboard as the marker on the selected series.
 

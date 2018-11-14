@@ -1,5 +1,5 @@
 ---
-title: CellFormat.HorizontalAlignment Property (Excel)
+title: CellFormat.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm676080
 f1_keywords:
 - vbaxl10.chm676080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.HorizontalAlignment Property (Excel)
+# CellFormat.HorizontalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
 

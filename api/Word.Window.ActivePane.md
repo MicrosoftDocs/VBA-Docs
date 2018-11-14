@@ -1,5 +1,5 @@
 ---
-title: Window.ActivePane Property (Word)
+title: Window.ActivePane property (Word)
 keywords: vbawd10.chm157417473
 f1_keywords:
 - vbawd10.chm157417473
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.ActivePane Property (Word)
+# Window.ActivePane property (Word)
 
 Returns a  **[Pane](Word.Pane.md)** object that represents the active pane for the specified window. Read-only.
 

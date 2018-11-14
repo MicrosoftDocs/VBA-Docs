@@ -1,5 +1,5 @@
 ---
-title: SparklineGroups.Group Method (Excel)
+title: SparklineGroups.Group method (Excel)
 keywords: vbaxl10.chm869080
 f1_keywords:
 - vbaxl10.chm869080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroups.Group Method (Excel)
+# SparklineGroups.Group method (Excel)
 
 Groups the selected sparklines.
 

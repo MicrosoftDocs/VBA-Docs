@@ -1,5 +1,5 @@
 ---
-title: Shape.ZOrderPosition Property (Word)
+title: Shape.ZOrderPosition property (Word)
 keywords: vbawd10.chm161480833
 f1_keywords:
 - vbawd10.chm161480833
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ZOrderPosition Property (Word)
+# Shape.ZOrderPosition property (Word)
 
 Returns a  **Long** that represents the position of the specified shape in the z-order. Read-only.
 

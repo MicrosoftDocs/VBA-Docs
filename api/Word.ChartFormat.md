@@ -1,5 +1,5 @@
 ---
-title: ChartFormat Object (Word)
+title: ChartFormat object (Word)
 keywords: vbawd10.chm3098
 f1_keywords:
 - vbawd10.chm3098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat Object (Word)
+# ChartFormat object (Word)
 
 Provides access to the OfficeArt formatting for chart elements. 
 

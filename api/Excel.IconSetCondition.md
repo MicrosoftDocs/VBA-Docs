@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition Object (Excel)
+title: IconSetCondition object (Excel)
 keywords: vbaxl10.chm811072
 f1_keywords:
 - vbaxl10.chm811072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition Object (Excel)
+# IconSetCondition object (Excel)
 
 Represents an icon set conditional formatting rule.
 

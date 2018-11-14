@@ -1,5 +1,5 @@
 ---
-title: Shape.ScaleWidth Method (Word)
+title: Shape.ScaleWidth method (Word)
 keywords: vbawd10.chm161480724
 f1_keywords:
 - vbawd10.chm161480724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ScaleWidth Method (Word)
+# Shape.ScaleWidth method (Word)
 
 Scales the width of the shape by a specified factor.
 

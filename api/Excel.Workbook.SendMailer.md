@@ -1,5 +1,5 @@
 ---
-title: Workbook.SendMailer Method (Excel)
+title: Workbook.SendMailer method (Excel)
 keywords: vbaxl10.chm199150
 f1_keywords:
 - vbaxl10.chm199150
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SendMailer Method (Excel)
+# Workbook.SendMailer method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
@@ -30,7 +30,7 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileFormat_|Optional| **Variant**|See help included with Microsoft Office Macintosh Edition.|
-| _Priority_|Optional| **XlPriority**|See help included with Microsoft Office Macintosh Edition.|
+| _Priority_|Optional| **xlPriority**|See help included with Microsoft Office Macintosh Edition.|
 
 ## See also
 

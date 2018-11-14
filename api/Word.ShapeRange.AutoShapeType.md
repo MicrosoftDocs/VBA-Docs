@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AutoShapeType Property (Word)
+title: ShapeRange.AutoShapeType property (Word)
 keywords: vbawd10.chm162857061
 f1_keywords:
 - vbawd10.chm162857061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.AutoShapeType Property (Word)
+# ShapeRange.AutoShapeType property (Word)
 
 Returns or sets the shape type for the specified  **ShapeRange** object, which must represent an AutoShape other than a line or freeform drawing. Read/write **MsoAutoShapeType** .
 

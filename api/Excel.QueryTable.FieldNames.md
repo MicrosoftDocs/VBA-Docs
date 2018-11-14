@@ -1,5 +1,5 @@
 ---
-title: QueryTable.FieldNames Property (Excel)
+title: QueryTable.FieldNames property (Excel)
 keywords: vbaxl10.chm518074
 f1_keywords:
 - vbaxl10.chm518074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.FieldNames Property (Excel)
+# QueryTable.FieldNames property (Excel)
 
  **True** if field names from the data source appear as column headings for the returned data. The default value is **True** . Read/write **Boolean** .
 

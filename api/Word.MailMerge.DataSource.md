@@ -1,5 +1,5 @@
 ---
-title: MailMerge.DataSource Property (Word)
+title: MailMerge.DataSource property (Word)
 keywords: vbawd10.chm153092100
 f1_keywords:
 - vbawd10.chm153092100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.DataSource Property (Word)
+# MailMerge.DataSource property (Word)
 
 Returns a  **[MailMergeDataSource](Word.MailMergeDataSource.md)** object that refers to the data source attached to a mail merge main document. Read-only.
 

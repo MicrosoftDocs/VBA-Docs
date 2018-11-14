@@ -1,5 +1,5 @@
 ---
-title: View.ShowFieldCodes Property (Word)
+title: View.ShowFieldCodes property (Word)
 keywords: vbawd10.chm161808388
 f1_keywords:
 - vbawd10.chm161808388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowFieldCodes Property (Word)
+# View.ShowFieldCodes property (Word)
 
  **True** if field codes are displayed. Read/write **Boolean** .
 

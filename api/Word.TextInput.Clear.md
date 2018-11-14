@@ -1,5 +1,5 @@
 ---
-title: TextInput.Clear Method (Word)
+title: TextInput.Clear method (Word)
 keywords: vbawd10.chm153550949
 f1_keywords:
 - vbawd10.chm153550949
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextInput.Clear Method (Word)
+# TextInput.Clear method (Word)
 
 Deletes the text from the specified text form field.
 

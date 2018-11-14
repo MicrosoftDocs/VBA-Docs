@@ -1,5 +1,5 @@
 ---
-title: WdProtectionType Enumeration (Word)
+title: WdProtectionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdProtectionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdProtectionType Enumeration (Word)
+# WdProtectionType enumeration (Word)
 
 Specifies the type of protection applied to the current document.
 

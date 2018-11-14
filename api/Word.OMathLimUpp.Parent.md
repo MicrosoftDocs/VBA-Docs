@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp.Parent Property (Word)
+title: OMathLimUpp.Parent property (Word)
 keywords: vbawd10.chm113639526
 f1_keywords:
 - vbawd10.chm113639526
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp.Parent Property (Word)
+# OMathLimUpp.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathLimUpp** object.
 

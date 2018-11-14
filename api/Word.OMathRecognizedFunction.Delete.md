@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunction.Delete Method (Word)
+title: OMathRecognizedFunction.Delete method (Word)
 keywords: vbawd10.chm227737800
 f1_keywords:
 - vbawd10.chm227737800
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunction.Delete Method (Word)
+# OMathRecognizedFunction.Delete method (Word)
 
 Deletes the specified recognized function from the list of the recognized functions.
 

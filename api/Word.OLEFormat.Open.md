@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Open Method (Word)
+title: OLEFormat.Open method (Word)
 keywords: vbawd10.chm154337387
 f1_keywords:
 - vbawd10.chm154337387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Open Method (Word)
+# OLEFormat.Open method (Word)
 
 Opens the specified  **OLEFormat** object.
 

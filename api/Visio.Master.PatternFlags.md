@@ -38,7 +38,7 @@ If you can use the **PatternFlags** property as a pattern (non-zero), the proper
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMasIsLinePat**|&H1 |Line pattern |
 | **visMasIsLineEnd**|&H2 |Line end pattern |

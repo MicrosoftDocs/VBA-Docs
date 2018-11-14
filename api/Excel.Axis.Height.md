@@ -1,5 +1,5 @@
 ---
-title: Axis.Height Property (Excel)
+title: Axis.Height property (Excel)
 keywords: vbaxl10.chm561112
 f1_keywords:
 - vbaxl10.chm561112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Height Property (Excel)
+# Axis.Height property (Excel)
 
 Returns a  **Double** value that represents the height, in points, of the object.
 

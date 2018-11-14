@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Passim Property (Word)
+title: TableOfAuthorities.Passim property (Word)
 keywords: vbawd10.chm152109057
 f1_keywords:
 - vbawd10.chm152109057
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Passim Property (Word)
+# TableOfAuthorities.Passim property (Word)
 
  **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean** .
 

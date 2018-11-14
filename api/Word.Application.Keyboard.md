@@ -1,5 +1,5 @@
 ---
-title: Application.Keyboard Method (Word)
+title: Application.Keyboard method (Word)
 keywords: vbawd10.chm158335422
 f1_keywords:
 - vbawd10.chm158335422
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Keyboard Method (Word)
+# Application.Keyboard method (Word)
 
 Returns or sets the keyboard language and layout settings.
 

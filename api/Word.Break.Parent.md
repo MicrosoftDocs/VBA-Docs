@@ -1,5 +1,5 @@
 ---
-title: Break.Parent Property (Word)
+title: Break.Parent property (Word)
 keywords: vbawd10.chm200344554
 f1_keywords:
 - vbawd10.chm200344554
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Break.Parent Property (Word)
+# Break.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Break** object.
 

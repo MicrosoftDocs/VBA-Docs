@@ -1,5 +1,5 @@
 ---
-title: UpBars Object (Word)
+title: UpBars object (Word)
 keywords: vbawd10.chm2761
 f1_keywords:
 - vbawd10.chm2761
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UpBars Object (Word)
+# UpBars object (Word)
 
 Represents the up bars in a chart group.
 

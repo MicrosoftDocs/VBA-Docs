@@ -1,5 +1,5 @@
 ---
-title: Names.Count Property (Excel)
+title: Names.Count property (Excel)
 keywords: vbaxl10.chm488076
 f1_keywords:
 - vbaxl10.chm488076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Names.Count Property (Excel)
+# Names.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

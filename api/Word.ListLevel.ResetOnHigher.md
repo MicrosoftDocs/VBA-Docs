@@ -1,5 +1,5 @@
 ---
-title: ListLevel.ResetOnHigher Property (Word)
+title: ListLevel.ResetOnHigher property (Word)
 keywords: vbawd10.chm160235533
 f1_keywords:
 - vbawd10.chm160235533
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.ResetOnHigher Property (Word)
+# ListLevel.ResetOnHigher property (Word)
 
 Sets or returns the list level that must appear before the specified list level restarts numbering at 1. Read/write  **Long** .
 

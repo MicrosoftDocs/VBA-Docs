@@ -1,5 +1,5 @@
 ---
-title: GlowFormat Object (Word)
+title: GlowFormat object (Word)
 keywords: vbawd10.chm3904
 f1_keywords:
 - vbawd10.chm3904
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat Object (Word)
+# GlowFormat object (Word)
 
 Represents the glow formatting for a shape or range of shapes.
 

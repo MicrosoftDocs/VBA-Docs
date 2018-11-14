@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Test Method (Excel)
+title: WorksheetFunction.T_Test method (Excel)
 keywords: vbaxl10.chm137412
 f1_keywords:
 - vbaxl10.chm137412
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.T_Test Method (Excel)
+# WorksheetFunction.T_Test method (Excel)
 
 Returns the probability associated with a Student t-Test. Use T_TEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.
 

@@ -1,5 +1,5 @@
 ---
-title: ModelTable.SourceWorkbookConnection Property (Excel)
+title: ModelTable.SourceWorkbookConnection property (Excel)
 keywords: vbaxl10.chm934076
 f1_keywords:
 - vbaxl10.chm934076
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTable.SourceWorkbookConnection Property (Excel)
+# ModelTable.SourceWorkbookConnection property (Excel)
 
 Returns the Workbook Connection from which the model table originated. Read-only 
 
@@ -18,7 +18,7 @@ Returns the Workbook Connection from which the model table originated. Read-only
 
  _expression_. `SourceWorkbookConnection`
 
- _expression_ A variable that represents a [ModelTable Object (Excel)](Excel.modeltable.md) object.
+ _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

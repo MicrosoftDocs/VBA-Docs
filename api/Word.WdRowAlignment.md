@@ -1,5 +1,5 @@
 ---
-title: WdRowAlignment Enumeration (Word)
+title: WdRowAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRowAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRowAlignment Enumeration (Word)
+# WdRowAlignment enumeration (Word)
 
 Specifies alignment for the content in selected rows.
 

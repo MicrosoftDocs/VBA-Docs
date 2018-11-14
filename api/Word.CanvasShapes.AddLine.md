@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddLine Method (Word)
+title: CanvasShapes.AddLine method (Word)
 keywords: vbawd10.chm7536654
 f1_keywords:
 - vbawd10.chm7536654
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddLine Method (Word)
+# CanvasShapes.AddLine method (Word)
 
 Adds a line to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the line and adds it to the **CanvasShapes** collection.
 

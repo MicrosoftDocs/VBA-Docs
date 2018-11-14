@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Hex2Bin Method (Excel)
+title: WorksheetFunction.Hex2Bin method (Excel)
 keywords: vbaxl10.chm137261
 f1_keywords:
 - vbaxl10.chm137261
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Hex2Bin Method (Excel)
+# WorksheetFunction.Hex2Bin method (Excel)
 
 Converts a hexadecimal number to binary.
 

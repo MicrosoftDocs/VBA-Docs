@@ -1,5 +1,5 @@
 ---
-title: Hyperlinks.Count Property (Excel)
+title: Hyperlinks.Count property (Excel)
 keywords: vbaxl10.chm534074
 f1_keywords:
 - vbaxl10.chm534074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlinks.Count Property (Excel)
+# Hyperlinks.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

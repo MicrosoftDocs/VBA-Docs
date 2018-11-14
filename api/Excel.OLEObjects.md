@@ -1,5 +1,5 @@
 ---
-title: OLEObjects Object (Excel)
+title: OLEObjects object (Excel)
 keywords: vbaxl10.chm418072
 f1_keywords:
 - vbaxl10.chm418072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects Object (Excel)
+# OLEObjects object (Excel)
 
 A collection of all the  **[OLEObject](Excel.OLEObject.md)** objects on the specified worksheet.
 

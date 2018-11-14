@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharedWorkspaceMember.Email Property (Office)
 
-Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
+Gets the email name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
 
 
 > [!NOTE] 
@@ -29,7 +29,7 @@ Gets the e-mail name of the specified  **SharedWorkspaceMember** in the format u
 
 ## Example
 
-The following example extracts the e-mail domain name from the  **Email** property of each shared workspace member and lists members who have e-mail addresses at the "example.com" domain.
+The following example extracts the email domain name from the  **Email** property of each shared workspace member and lists members who have email addresses at the "example.com" domain.
 
 
 ```vb
@@ -44,7 +44,7 @@ Dim swsMember As Office.SharedWorkspaceMember
         End If 
     Next 
     MsgBox strMemberList, vbInformation + vbOKOnly, _ 
-        "Members with example.com e-mail" 
+        "Members with example.com email" 
     Set swsMember = Nothing
 ```
 

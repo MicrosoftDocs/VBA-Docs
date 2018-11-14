@@ -1,5 +1,5 @@
 ---
-title: InlineShape.IsPictureBullet Property (Word)
+title: InlineShape.IsPictureBullet property (Word)
 keywords: vbawd10.chm162005124
 f1_keywords:
 - vbawd10.chm162005124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.IsPictureBullet Property (Word)
+# InlineShape.IsPictureBullet property (Word)
 
  **True** indicates that an **InlineShape** object is a picture bullet. Read-only **Boolean** .
 

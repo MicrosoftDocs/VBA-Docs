@@ -1,5 +1,5 @@
 ---
-title: Worksheets.Add Method (Excel)
+title: Worksheets.Add method (Excel)
 keywords: vbaxl10.chm470073
 f1_keywords:
 - vbaxl10.chm470073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheets.Add Method (Excel)
+# Worksheets.Add method (Excel)
 
 Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the active sheet.
 
@@ -32,7 +32,7 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
 | _Before_|Optional| **Variant**|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional| **Variant**|An object that specifies the sheet after which the new sheet is added.|
 | _Count_|Optional| **Variant**|The number of sheets to be added. The default value is one.|
-| _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following  **[XlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet** , **xlChart** , **xlExcel4MacroSheet** , or **xlExcel4IntlMacroSheet** . If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet** .|
+| _Type_|Optional| **Variant**|Specifies the sheet type. Can be one of the following  **[xlSheetType](Excel.XlSheetType.md)** constants: **xlWorksheet** , **xlChart** , **xlExcel4MacroSheet** , or **xlExcel4IntlMacroSheet** . If you are inserting a sheet based on an existing template, specify the path to the template. The default value is **xlWorksheet** .|
 
 ## Return value
 

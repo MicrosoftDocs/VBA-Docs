@@ -1,5 +1,5 @@
 ---
-title: Document.XMLUseXSLTWhenSaving Property (Word)
+title: Document.XMLUseXSLTWhenSaving property (Word)
 keywords: vbawd10.chm158007770
 f1_keywords:
 - vbawd10.chm158007770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.XMLUseXSLTWhenSaving Property (Word)
+# Document.XMLUseXSLTWhenSaving property (Word)
 
 Returns a  **Boolean** that represents whether to save a document through an Extensible Stylesheet Language Transformation (XSLT). **True** saves a document through an XSLT.
 

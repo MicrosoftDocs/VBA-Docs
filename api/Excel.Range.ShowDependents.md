@@ -1,5 +1,5 @@
 ---
-title: Range.ShowDependents Method (Excel)
+title: Range.ShowDependents method (Excel)
 keywords: vbaxl10.chm144195
 f1_keywords:
 - vbaxl10.chm144195
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ShowDependents Method (Excel)
+# Range.ShowDependents method (Excel)
 
 Draws tracer arrows to the direct dependents of the range.
 

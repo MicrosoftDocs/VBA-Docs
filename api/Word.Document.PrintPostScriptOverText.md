@@ -1,5 +1,5 @@
 ---
-title: Document.PrintPostScriptOverText Property (Word)
+title: Document.PrintPostScriptOverText property (Word)
 keywords: vbawd10.chm158007376
 f1_keywords:
 - vbawd10.chm158007376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.PrintPostScriptOverText Property (Word)
+# Document.PrintPostScriptOverText property (Word)
 
  **True** if PRINT field instructions (such as PostScript commands) in a document are to be printed on top of text and graphics when a PostScript printer is used. Read/write **Boolean** .
 

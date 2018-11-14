@@ -1,5 +1,5 @@
 ---
-title: RTD Object (Excel)
+title: RTD object (Excel)
 keywords: vbaxl10.chm728072
 f1_keywords:
 - vbaxl10.chm728072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RTD Object (Excel)
+# RTD object (Excel)
 
 Represents a real-time data object.
 

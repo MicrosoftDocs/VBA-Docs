@@ -1,5 +1,5 @@
 ---
-title: Application.StatusBar Property (Word)
+title: Application.StatusBar property (Word)
 keywords: vbawd10.chm158335073
 f1_keywords:
 - vbawd10.chm158335073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.StatusBar Property (Word)
+# Application.StatusBar property (Word)
 
 This property is no longer supported in Microsoft Word Visual Basic for Applications.
 

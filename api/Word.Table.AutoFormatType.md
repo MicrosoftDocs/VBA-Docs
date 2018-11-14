@@ -1,5 +1,5 @@
 ---
-title: Table.AutoFormatType Property (Word)
+title: Table.AutoFormatType property (Word)
 keywords: vbawd10.chm156303466
 f1_keywords:
 - vbawd10.chm156303466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.AutoFormatType Property (Word)
+# Table.AutoFormatType property (Word)
 
 Returns the type of automatic formatting that's been applied to the specified table. Read-only  **Long** .
 

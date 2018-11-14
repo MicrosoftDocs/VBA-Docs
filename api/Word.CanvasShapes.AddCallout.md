@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.AddCallout Method (Word)
+title: CanvasShapes.AddCallout method (Word)
 keywords: vbawd10.chm7536650
 f1_keywords:
 - vbawd10.chm7536650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.AddCallout Method (Word)
+# CanvasShapes.AddCallout method (Word)
 
 Adds a borderless line callout to a drawing canvas. Returns a  **[Shape](Word.Shape.md)** object that represents the callout.
 

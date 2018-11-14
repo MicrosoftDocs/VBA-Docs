@@ -1,5 +1,5 @@
 ---
-title: QueryTable.SaveData Property (Excel)
+title: QueryTable.SaveData property (Excel)
 keywords: vbaxl10.chm518095
 f1_keywords:
 - vbaxl10.chm518095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.SaveData Property (Excel)
+# QueryTable.SaveData property (Excel)
 
  **True** if data for the QueryTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean** .
 

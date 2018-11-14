@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ipmt Method (Excel)
+title: WorksheetFunction.Ipmt method (Excel)
 keywords: vbaxl10.chm137140
 f1_keywords:
 - vbaxl10.chm137140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ipmt Method (Excel)
+# WorksheetFunction.Ipmt method (Excel)
 
 Returns the interest payment for a given period for an investment based on periodic, constant payments and a constant interest rate.
 

@@ -1,5 +1,5 @@
 ---
-title: WdHorizontalLineAlignment Enumeration (Word)
+title: WdHorizontalLineAlignment enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHorizontalLineAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHorizontalLineAlignment Enumeration (Word)
+# WdHorizontalLineAlignment enumeration (Word)
 
 Specifies the alignment of a horizontal line.
 

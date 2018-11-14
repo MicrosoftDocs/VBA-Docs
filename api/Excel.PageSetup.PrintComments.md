@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PrintComments Property (Excel)
+title: PageSetup.PrintComments property (Excel)
 keywords: vbaxl10.chm473104
 f1_keywords:
 - vbaxl10.chm473104
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PrintComments Property (Excel)
+# PageSetup.PrintComments property (Excel)
 
-Returns or sets the way comments are printed with the sheet. Read/write  **[XlPrintLocation](Excel.XlPrintLocation.md)** .
+Returns or sets the way comments are printed with the sheet. Read/write  **[xlPrintLocation](Excel.XlPrintLocation.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the way comments are printed with the sheet. Read/write  **[XlPr
 
 
 
-| **XlPrintLocation** can be one of these **XlPrintLocation** constants.|
+| **xlPrintLocation** can be one of these **xlPrintLocation** constants.|
 | **xlPrintInPlace**|
 | **xlPrintNoComments**|
 | **xlPrintSheetEnd**|

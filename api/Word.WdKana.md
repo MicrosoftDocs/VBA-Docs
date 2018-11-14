@@ -1,5 +1,5 @@
 ---
-title: WdKana Enumeration (Word)
+title: WdKana enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdKana
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdKana Enumeration (Word)
+# WdKana enumeration (Word)
 
 Specifies the format of the selected Japanese text.
 

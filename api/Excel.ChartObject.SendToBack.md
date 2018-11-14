@@ -1,5 +1,5 @@
 ---
-title: ChartObject.SendToBack Method (Excel)
+title: ChartObject.SendToBack method (Excel)
 keywords: vbaxl10.chm494091
 f1_keywords:
 - vbaxl10.chm494091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.SendToBack Method (Excel)
+# ChartObject.SendToBack method (Excel)
 
 Sends the object to the back of the z-order.
 

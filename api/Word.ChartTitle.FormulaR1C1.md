@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.FormulaR1C1 Property (Word)
+title: ChartTitle.FormulaR1C1 property (Word)
 keywords: vbawd10.chm65273896
 f1_keywords:
 - vbawd10.chm65273896
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.FormulaR1C1 Property (Word)
+# ChartTitle.FormulaR1C1 property (Word)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the macro. Read/write  **String** .
 

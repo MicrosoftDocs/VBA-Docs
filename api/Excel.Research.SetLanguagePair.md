@@ -1,5 +1,5 @@
 ---
-title: Research.SetLanguagePair Method (Excel)
+title: Research.SetLanguagePair method (Excel)
 keywords: vbaxl10.chm849075
 f1_keywords:
 - vbaxl10.chm849075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.SetLanguagePair Method (Excel)
+# Research.SetLanguagePair method (Excel)
 
 Sets the languages for the translation service.
 

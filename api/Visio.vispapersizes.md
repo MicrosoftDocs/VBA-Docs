@@ -15,7 +15,7 @@ Flags passed to or returned by the  **Document.PaperSize** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPaperSizeA3**|8|A3 297 x 420 mm|
 | **visPaperSizeA4**|9|A4 210 x 297 mm|

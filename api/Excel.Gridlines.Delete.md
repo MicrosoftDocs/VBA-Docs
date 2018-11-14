@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Delete Method (Excel)
+title: Gridlines.Delete method (Excel)
 keywords: vbaxl10.chm602077
 f1_keywords:
 - vbaxl10.chm602077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Delete Method (Excel)
+# Gridlines.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotAxis Object (Excel)
+title: PivotAxis object (Excel)
 keywords: vbaxl10.chm767072
 f1_keywords:
 - vbaxl10.chm767072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotAxis Object (Excel)
+# PivotAxis object (Excel)
 
 The  **PivotAxis** object is used for asymmetric drilling in a PivotTable.
 

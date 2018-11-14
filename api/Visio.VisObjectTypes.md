@@ -17,7 +17,7 @@ Specifies codes returned by the  **ObjectType** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visObjTypeAddon**|31|[Addon](Visio.Addon.md) object|
 | **visObjTypeAddons**|32|[Addons](Visio.Addons.md) collection|

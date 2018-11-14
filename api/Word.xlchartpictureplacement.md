@@ -1,12 +1,12 @@
 ---
-title: XlChartPicturePlacement Enumeration (Word)
+title: xlChartPicturePlacement enumeration (Word)
 ms.prod: word
 ms.assetid: 2759ceb8-3a36-d7fd-016b-8b7f75586010
 ms.date: 06/08/2017
 ---
 
 
-# XlChartPicturePlacement Enumeration (Word)
+# xlChartPicturePlacement enumeration (Word)
 
 Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
 

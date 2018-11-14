@@ -1,5 +1,5 @@
 ---
-title: Global.PointsToPixels Method (Word)
+title: Global.PointsToPixels method (Word)
 keywords: vbawd10.chm163119489
 f1_keywords:
 - vbawd10.chm163119489
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.PointsToPixels Method (Word)
+# Global.PointsToPixels method (Word)
 
 Converts a measurement from points to pixels. Returns the converted measurement as a  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: ListGallery.ListTemplates Property (Word)
+title: ListGallery.ListTemplates property (Word)
 keywords: vbawd10.chm160694273
 f1_keywords:
 - vbawd10.chm160694273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery.ListTemplates Property (Word)
+# ListGallery.ListTemplates property (Word)
 
 Returns a  **ListTemplates** collection that represents all the list formats for the specified list gallery. Read-only.
 

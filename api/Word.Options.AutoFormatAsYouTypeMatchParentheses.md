@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeMatchParentheses Property (Word)
+title: Options.AutoFormatAsYouTypeMatchParentheses property (Word)
 keywords: vbawd10.chm162988332
 f1_keywords:
 - vbawd10.chm162988332
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeMatchParentheses Property (Word)
+# Options.AutoFormatAsYouTypeMatchParentheses property (Word)
 
  **True** for Microsoft Word to automatically correct improperly paired parentheses. Read/write.
 

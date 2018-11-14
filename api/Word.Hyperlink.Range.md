@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Range Property (Word)
+title: Hyperlink.Range property (Word)
 keywords: vbawd10.chm161285102
 f1_keywords:
 - vbawd10.chm161285102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Range Property (Word)
+# Hyperlink.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within a hyperlink.
 

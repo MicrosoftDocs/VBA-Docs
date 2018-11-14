@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.Creator Property (Word)
+title: OMathDelim.Creator property (Word)
 keywords: vbawd10.chm145096805
 f1_keywords:
 - vbawd10.chm145096805
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.Creator Property (Word)
+# OMathDelim.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetEditingType Method (Word)
+title: ShapeNodes.SetEditingType method (Word)
 keywords: vbawd10.chm164495373
 f1_keywords:
 - vbawd10.chm164495373
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetEditingType Method (Word)
+# ShapeNodes.SetEditingType method (Word)
 
 Sets the editing type of the node specified by Index. .
 

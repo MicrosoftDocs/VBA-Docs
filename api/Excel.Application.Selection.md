@@ -1,5 +1,5 @@
 ---
-title: Application.Selection Property (Excel)
+title: Application.Selection property (Excel)
 keywords: vbaxl10.chm183107
 f1_keywords:
 - vbaxl10.chm183107
@@ -11,7 +11,7 @@ ms.date: 04/25/2018
 ---
 
 
-# Application.Selection Property (Excel)
+# Application.Selection property (Excel)
 
 Returns the currently selected object in the active worksheet for an **[Application](Excel.Application(object).md)** object. Returns `Nothing` if no objects are selected. Use the `Select` method to set the selection, and use `TypeName` to discover the kind of object that is selected. 
 

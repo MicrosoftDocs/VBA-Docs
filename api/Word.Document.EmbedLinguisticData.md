@@ -1,5 +1,5 @@
 ---
-title: Document.EmbedLinguisticData Property (Word)
+title: Document.EmbedLinguisticData property (Word)
 keywords: vbawd10.chm158007673
 f1_keywords:
 - vbawd10.chm158007673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.EmbedLinguisticData Property (Word)
+# Document.EmbedLinguisticData property (Word)
 
  **True** for Microsoft Word to embed speech and handwriting so that data can be converted back to speech or handwriting. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: HangulHanjaConversionDictionaries.Maximum Property (Word)
+title: HangulHanjaConversionDictionaries.Maximum property (Word)
 keywords: vbawd10.chm165675010
 f1_keywords:
 - vbawd10.chm165675010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulHanjaConversionDictionaries.Maximum Property (Word)
+# HangulHanjaConversionDictionaries.Maximum property (Word)
 
 Returns the maximum number of custom or conversion dictionaries allowed. Read-only  **Long** .
 

@@ -1,12 +1,12 @@
 ---
-title: Comments Object (Word)
+title: Comments object (Word)
 ms.prod: word
 ms.assetid: e384b37a-50e3-a214-52a8-6fda2acc4991
 ms.date: 06/08/2017
 ---
 
 
-# Comments Object (Word)
+# Comments object (Word)
 
 A collection of  **[Comment](Word.Comment.md)** objects that represent the comments in a selection, range, or document.
 

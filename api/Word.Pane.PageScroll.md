@@ -1,5 +1,5 @@
 ---
-title: Pane.PageScroll Method (Word)
+title: Pane.PageScroll method (Word)
 keywords: vbawd10.chm157286505
 f1_keywords:
 - vbawd10.chm157286505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.PageScroll Method (Word)
+# Pane.PageScroll method (Word)
 
 Scrolls through the specified window page by page.
 

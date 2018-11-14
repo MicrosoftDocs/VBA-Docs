@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfAuthorities Property (Word)
+title: Document.TablesOfAuthorities property (Word)
 keywords: vbawd10.chm158007328
 f1_keywords:
 - vbawd10.chm158007328
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TablesOfAuthorities Property (Word)
+# Document.TablesOfAuthorities property (Word)
 
 Returns a  **[TableOfAuthorities](Word.TableOfAuthorities.md)** collection that represents the tables of authorities in the specified document. Read-only.
 

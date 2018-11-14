@@ -1,5 +1,5 @@
 ---
-title: Language.SpellingDictionaryType Property (Word)
+title: Language.SpellingDictionaryType property (Word)
 keywords: vbawd10.chm158138387
 f1_keywords:
 - vbawd10.chm158138387
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.SpellingDictionaryType Property (Word)
+# Language.SpellingDictionaryType property (Word)
 
 Returns or sets the proofing tool type. Read/write  **WdDictionaryType** .
 

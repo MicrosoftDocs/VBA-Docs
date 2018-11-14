@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.CountIfs Method (Excel)
+title: WorksheetFunction.CountIfs method (Excel)
 keywords: vbaxl10.chm137354
 f1_keywords:
 - vbaxl10.chm137354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.CountIfs Method (Excel)
+# WorksheetFunction.CountIfs method (Excel)
 
 Counts the number of cells within a range that meet multiple criteria.
 

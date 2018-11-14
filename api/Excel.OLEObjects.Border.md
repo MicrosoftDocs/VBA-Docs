@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Border Property (Excel)
+title: OLEObjects.Border property (Excel)
 keywords: vbaxl10.chm420073
 f1_keywords:
 - vbaxl10.chm420073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Border Property (Excel)
+# OLEObjects.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

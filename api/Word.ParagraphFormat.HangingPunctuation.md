@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.HangingPunctuation Property (Word)
+title: ParagraphFormat.HangingPunctuation property (Word)
 keywords: vbawd10.chm156434551
 f1_keywords:
 - vbawd10.chm156434551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.HangingPunctuation Property (Word)
+# ParagraphFormat.HangingPunctuation property (Word)
 
  **True** if hanging punctuation is enabled for the specified paragraphs. This property returns **wdUndefined** if it's set to **True** for only some of the specified paragraphs. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Index.Range Property (Word)
+title: Index.Range property (Word)
 keywords: vbawd10.chm159186949
 f1_keywords:
 - vbawd10.chm159186949
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Index.Range Property (Word)
+# Index.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within an index.
 

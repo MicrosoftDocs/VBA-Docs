@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Select Method (Excel)
+title: DisplayUnitLabel.Select method (Excel)
 keywords: vbaxl10.chm673074
 f1_keywords:
 - vbaxl10.chm673074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Select Method (Excel)
+# DisplayUnitLabel.Select method (Excel)
 
 Selects the object.
 

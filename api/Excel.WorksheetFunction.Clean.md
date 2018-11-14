@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Clean Method (Excel)
+title: WorksheetFunction.Clean method (Excel)
 keywords: vbaxl10.chm137136
 f1_keywords:
 - vbaxl10.chm137136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Clean Method (Excel)
+# WorksheetFunction.Clean method (Excel)
 
 Removes all nonprintable characters from text.
 

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Target Property (Word)
+title: Hyperlink.Target property (Word)
 keywords: vbawd10.chm161285109
 f1_keywords:
 - vbawd10.chm161285109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Target Property (Word)
+# Hyperlink.Target property (Word)
 
 Returns or sets the name of the frame or window in which to load the hyperlink. Read/write  **String** .
 

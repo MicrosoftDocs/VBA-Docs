@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultBorderColor Property (Word)
+title: Options.DefaultBorderColor property (Word)
 keywords: vbawd10.chm162988376
 f1_keywords:
 - vbawd10.chm162988376
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultBorderColor Property (Word)
+# Options.DefaultBorderColor property (Word)
 
 Returns or sets the default 24-bit color to use for new  **[Border](Word.Border.md)** objects. Read/write.
 

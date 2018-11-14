@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.Refreshing Property (Excel)
+title: OLEDBConnection.Refreshing property (Excel)
 keywords: vbaxl10.chm794085
 f1_keywords:
 - vbaxl10.chm794085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.Refreshing Property (Excel)
+# OLEDBConnection.Refreshing property (Excel)
 
  **True** if a background OLE DB query is in progress for the specified OLE DB connection. Read/write **Boolean** .
 

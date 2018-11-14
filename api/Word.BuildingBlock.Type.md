@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Type Property (Word)
+title: BuildingBlock.Type property (Word)
 keywords: vbawd10.chm203620355
 f1_keywords:
 - vbawd10.chm203620355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Type Property (Word)
+# BuildingBlock.Type property (Word)
 
 Returns a  **BuildingBlockType** object that represents the type for a building block. Read-only.
 

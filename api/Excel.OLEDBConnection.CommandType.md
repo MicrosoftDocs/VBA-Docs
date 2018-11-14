@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.CommandType Property (Excel)
+title: OLEDBConnection.CommandType property (Excel)
 keywords: vbaxl10.chm794077
 f1_keywords:
 - vbaxl10.chm794077
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.CommandType Property (Excel)
+# OLEDBConnection.CommandType property (Excel)
 
-Returns or sets one of the  **XlCmdType** constants. Read/write **[XlCmdType](Excel.XlCmdType.md)** .
+Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Excel.XlCmdType.md)** .
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Application.MoveAfterReturnDirection Property (Excel)
+title: Application.MoveAfterReturnDirection property (Excel)
 keywords: vbaxl10.chm133169
 f1_keywords:
 - vbaxl10.chm133169
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MoveAfterReturnDirection Property (Excel)
+# Application.MoveAfterReturnDirection property (Excel)
 
-Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write  **[XlDirection](Excel.XlDirection.md)** .
+Returns or sets the direction in which the active cell is moved when the user presses ENTER. Read/write  **[xlDirection](Excel.XlDirection.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the direction in which the active cell is moved when the user pr
 
 
 
-| **XlDirection** can be one of these **XlDirection** constants.|
+| **xlDirection** can be one of these **xlDirection** constants.|
 | **xlDown**|
 | **xlToLeft**|
 | **xlToRight**|

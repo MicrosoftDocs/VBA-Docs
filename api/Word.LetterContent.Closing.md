@@ -1,5 +1,5 @@
 ---
-title: LetterContent.Closing Property (Word)
+title: LetterContent.Closing property (Word)
 keywords: vbawd10.chm161546361
 f1_keywords:
 - vbawd10.chm161546361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.Closing Property (Word)
+# LetterContent.Closing property (Word)
 
 Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write  **String** .
 

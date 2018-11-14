@@ -1,5 +1,5 @@
 ---
-title: ListGalleries.Count Property (Word)
+title: ListGalleries.Count property (Word)
 keywords: vbawd10.chm160759810
 f1_keywords:
 - vbawd10.chm160759810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGalleries.Count Property (Word)
+# ListGalleries.Count property (Word)
 
 Returns a  **Long** that represents the number of list galleries in the collection. Read-only.
 

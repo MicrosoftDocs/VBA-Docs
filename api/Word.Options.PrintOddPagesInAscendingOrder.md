@@ -1,5 +1,5 @@
 ---
-title: Options.PrintOddPagesInAscendingOrder Property (Word)
+title: Options.PrintOddPagesInAscendingOrder property (Word)
 keywords: vbawd10.chm162988362
 f1_keywords:
 - vbawd10.chm162988362
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintOddPagesInAscendingOrder Property (Word)
+# Options.PrintOddPagesInAscendingOrder property (Word)
 
  **True** if Microsoft Word prints odd pages in ascending order during manual duplex printing. Read/write **Boolean** .
 

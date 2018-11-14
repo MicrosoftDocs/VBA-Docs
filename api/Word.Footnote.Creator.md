@@ -1,5 +1,5 @@
 ---
-title: Footnote.Creator Property (Word)
+title: Footnote.Creator property (Word)
 keywords: vbawd10.chm155124713
 f1_keywords:
 - vbawd10.chm155124713
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Footnote.Creator Property (Word)
+# Footnote.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

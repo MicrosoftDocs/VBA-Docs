@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis Object (Excel)
+title: QuickAnalysis object (Excel)
 keywords: vbaxl10.chm919072
 f1_keywords:
 - vbaxl10.chm919072
@@ -9,14 +9,14 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis Object (Excel)
+# QuickAnalysis object (Excel)
 
 Object that enables single-click access to data analysis features such as formulas, conditional formatting, sparklines, tables, charts, and PivotTables.
 
 
 ## Example
 
-This sample illustrates using the [QuickAnalysis.Hide Method (Excel)](Excel.quickanalysis.hide.md) method of the **QuickAnalysis** object. In this example, the _1_ argument specifies that, if displayed, the Conditional Formatting & Sparklines callouts are hidden.
+This sample illustrates using the [QuickAnalysis.Hide method (Excel)](Excel.quickanalysis.hide.md) method of the **QuickAnalysis** object. In this example, the _1_ argument specifies that, if displayed, the Conditional Formatting & Sparklines callouts are hidden.
 
 
 ```vb

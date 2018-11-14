@@ -1,5 +1,5 @@
 ---
-title: Windows.ResetPositionsSideBySide Method (Word)
+title: Windows.ResetPositionsSideBySide method (Word)
 keywords: vbawd10.chm157351950
 f1_keywords:
 - vbawd10.chm157351950
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.ResetPositionsSideBySide Method (Word)
+# Windows.ResetPositionsSideBySide method (Word)
 
 Resets two document windows that are in the  **Compare side by side with** view mode.
 

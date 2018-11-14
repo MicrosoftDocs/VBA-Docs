@@ -1,5 +1,5 @@
 ---
-title: Mailer Object (Excel)
+title: Mailer object (Excel)
 keywords: vbaxl10.chm498072
 f1_keywords:
 - vbaxl10.chm498072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer Object (Excel)
+# Mailer object (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

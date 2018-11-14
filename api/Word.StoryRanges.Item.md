@@ -1,5 +1,5 @@
 ---
-title: StoryRanges.Item Method (Word)
+title: StoryRanges.Item method (Word)
 keywords: vbawd10.chm160169984
 f1_keywords:
 - vbawd10.chm160169984
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StoryRanges.Item Method (Word)
+# StoryRanges.Item method (Word)
 
 Returns a single story of a range or selection as a  **Range** object.
 

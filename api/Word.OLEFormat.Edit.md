@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Edit Method (Word)
+title: OLEFormat.Edit method (Word)
 keywords: vbawd10.chm154337386
 f1_keywords:
 - vbawd10.chm154337386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Edit Method (Word)
+# OLEFormat.Edit method (Word)
 
 Opens the specified OLE object for editing in the application it was created in.
 

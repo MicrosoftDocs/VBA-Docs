@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Orientation Property (Excel)
+title: ChartTitle.Orientation property (Excel)
 keywords: vbaxl10.chm563085
 f1_keywords:
 - vbaxl10.chm563085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Orientation Property (Excel)
+# ChartTitle.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 

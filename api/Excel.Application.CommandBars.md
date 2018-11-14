@@ -1,5 +1,5 @@
 ---
-title: Application.CommandBars Property (Excel)
+title: Application.CommandBars property (Excel)
 keywords: vbaxl10.chm183088
 f1_keywords:
 - vbaxl10.chm183088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CommandBars Property (Excel)
+# Application.CommandBars property (Excel)
 
 Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the Microsoft Excel command bars. Read-only.
 

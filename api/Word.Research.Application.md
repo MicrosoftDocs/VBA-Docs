@@ -1,5 +1,5 @@
 ---
-title: Research.Application Property (Word)
+title: Research.Application property (Word)
 ms.prod: word
 api_name:
 - Word.Research.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Research.Application Property (Word)
+# Research.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Creator Property (Excel)
+title: ChartObjects.Creator property (Excel)
 keywords: vbaxl10.chm495074
 f1_keywords:
 - vbaxl10.chm495074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Creator Property (Excel)
+# ChartObjects.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

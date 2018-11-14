@@ -1,5 +1,5 @@
 ---
-title: TextFrame.Overflowing Property (Word)
+title: TextFrame.Overflowing property (Word)
 keywords: vbawd10.chm162665355
 f1_keywords:
 - vbawd10.chm162665355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.Overflowing Property (Word)
+# TextFrame.Overflowing property (Word)
 
  **True** if the text inside the specified text frame doesn't all fit within the frame. Read-only **Boolean** .
 

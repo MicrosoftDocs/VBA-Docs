@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 # HorizontalAlignment Property (Graph)
 
 Returns or sets the horizontal alignment for the specified object. Read/write 
- **XlHAlign**
+ **xlHAlign**
 .
 
 

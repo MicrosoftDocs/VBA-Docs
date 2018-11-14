@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Line Property (Word)
+title: ShapeRange.Line property (Word)
 keywords: vbawd10.chm162857072
 f1_keywords:
 - vbawd10.chm162857072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Line Property (Word)
+# ShapeRange.Line property (Word)
 
 Returns a  **LineFormat** object that contains line formatting properties for the specified range of shapes. Read-only.
 

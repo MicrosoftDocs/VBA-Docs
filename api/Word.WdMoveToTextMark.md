@@ -1,5 +1,5 @@
 ---
-title: WdMoveToTextMark Enumeration (Word)
+title: WdMoveToTextMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMoveToTextMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMoveToTextMark Enumeration (Word)
+# WdMoveToTextMark enumeration (Word)
 
 Marks the moved-to text when text in a document with tracked changes is moved from one place to another.
 

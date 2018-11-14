@@ -1,5 +1,5 @@
 ---
-title: Range.MoveStartUntil Method (Word)
+title: Range.MoveStartUntil method (Word)
 keywords: vbawd10.chm157155444
 f1_keywords:
 - vbawd10.chm157155444
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveStartUntil Method (Word)
+# Range.MoveStartUntil method (Word)
 
 Moves the start position of the specified range until one of the specified characters is found in the document.
 

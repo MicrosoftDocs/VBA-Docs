@@ -1,5 +1,5 @@
 ---
-title: Pages.Count Property (Excel)
+title: Pages.Count property (Excel)
 keywords: vbaxl10.chm831075
 f1_keywords:
 - vbaxl10.chm831075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pages.Count Property (Excel)
+# Pages.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

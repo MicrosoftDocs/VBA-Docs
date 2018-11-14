@@ -1,5 +1,5 @@
 ---
-title: XMLNode.ChildNodes Property (Word)
+title: XMLNode.ChildNodes property (Word)
 keywords: vbawd10.chm37748749
 f1_keywords:
 - vbawd10.chm37748749
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.ChildNodes Property (Word)
+# XMLNode.ChildNodes property (Word)
 
 Returns an  **XMLNodes** collection that represents the child elements of a specified element.
 

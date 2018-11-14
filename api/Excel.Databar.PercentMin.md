@@ -1,5 +1,5 @@
 ---
-title: Databar.PercentMin Property (Excel)
+title: Databar.PercentMin property (Excel)
 keywords: vbaxl10.chm810078
 f1_keywords:
 - vbaxl10.chm810078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.PercentMin Property (Excel)
+# Databar.PercentMin property (Excel)
 
 Returns or sets a  **Long** value that specifies the length of the shortest data bar as a percentage of cell width.
 

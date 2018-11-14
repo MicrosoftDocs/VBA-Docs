@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.TabIndentKey Property (Word)
+title: EmailOptions.TabIndentKey property (Word)
 keywords: vbawd10.chm165347637
 f1_keywords:
 - vbawd10.chm165347637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.TabIndentKey Property (Word)
+# EmailOptions.TabIndentKey property (Word)
 
  **True** if the TAB and BACKSPACE keys can be used to increase and decrease, respectively, the left indent of paragraphs and if the BACKSPACE key can be used to change right-aligned paragraphs to centered paragraphs and centered paragraphs to left-aligned paragraphs. Read/write **Boolean** .
 

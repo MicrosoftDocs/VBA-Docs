@@ -1,5 +1,5 @@
 ---
-title: IRTDUpdateEvent.UpdateNotify Method (Excel)
+title: IRTDUpdateEvent.UpdateNotify method (Excel)
 keywords: vbaxl10.chm500001
 f1_keywords:
 - vbaxl10.chm500001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRTDUpdateEvent.UpdateNotify Method (Excel)
+# IRTDUpdateEvent.UpdateNotify method (Excel)
 
 The real-time data (RTD) server uses this method to notify Microsoft Excel that new data has been received.
 

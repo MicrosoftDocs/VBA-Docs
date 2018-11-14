@@ -1,5 +1,5 @@
 ---
-title: Range.SetListLevel Method (Word)
+title: Range.SetListLevel method (Word)
 keywords: vbawd10.chm157155755
 f1_keywords:
 - vbawd10.chm157155755
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.SetListLevel Method (Word)
+# Range.SetListLevel method (Word)
 
 Sets the list level for one or more items in a numbered list.
 

@@ -1,5 +1,5 @@
 ---
-title: Comment.Replies Property (Word)
+title: Comment.Replies property (Word)
 keywords: vbawd10.chm154993657
 f1_keywords:
 - vbawd10.chm154993657
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Replies Property (Word)
+# Comment.Replies property (Word)
 
 Returns a [Comments](Word.comments.md) collection of **Comment** objects that are children of the specified comment. Read-only.
 

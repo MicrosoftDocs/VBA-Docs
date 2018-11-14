@@ -37,7 +37,7 @@ Represents an action that is run when a  **[Rule](Outlook.Rule.md)** object exec
 
 The Rules object model provides partial parity with the Rules and Alerts Wizard in the Outlook user interface. It supports the most commonly used rule actions and conditions. Although it does not support creating rules with each rule action or rule condition that the Wizard supports, you can still enumerate and enable these rule actions and conditions in existing rules. 
 
-For more information on rule actions, see [Specifying Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md) and [How to: Create a Rule to Move Specific E-mails to a Folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md).
+For more information on rule actions, see [Specifying Rule Actions](../outlook/How-to/Rules/specifying-rule-actions.md) and [How to: Create a Rule to Move Specific Emails to a Folder](../outlook/How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md).
 
 
 ## Properties

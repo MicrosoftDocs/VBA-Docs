@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Font Property (Excel)
+title: DisplayFormat.Font property (Excel)
 keywords: vbaxl10.chm893075
 f1_keywords:
 - vbaxl10.chm893075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Font Property (Excel)
+# DisplayFormat.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the associated **[Range](Excel.Range(object).md)** as it is displayed in the current user interface. Read-only.
 

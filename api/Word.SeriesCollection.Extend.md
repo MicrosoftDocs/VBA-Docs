@@ -1,5 +1,5 @@
 ---
-title: SeriesCollection.Extend Method (Word)
+title: SeriesCollection.Extend method (Word)
 keywords: vbawd10.chm150405347
 f1_keywords:
 - vbawd10.chm150405347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesCollection.Extend Method (Word)
+# SeriesCollection.Extend method (Word)
 
 Adds new data points to an existing series collection.
 
@@ -30,7 +30,7 @@ Adds new data points to an existing series collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required| **Variant**|The new data to be added to the  **SeriesCollection** object, represented as an A1-style range reference.|
-| _Rowcol_|Optional| **Variant**|One of the  **[XlRowCol](Word.xlrowcol.md)** enumeration values that specifies whether the new values are in the rows or columns of the given range source. If this argument is omitted, Microsoft Word attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
+| _Rowcol_|Optional| **Variant**|One of the  **[xlRowCol](Word.xlrowcol.md)** enumeration values that specifies whether the new values are in the rows or columns of the given range source. If this argument is omitted, Microsoft Word attempts to determine where the values are by the size and orientation of the selected range or by the dimensions of the array.|
 | _CategoryLabels_|Optional| **Variant**| **True** to have the first row or column contain the name of the category labels. **False** to have the first row or column contain the first data point of the series. If this argument is omitted, Word attempts to determine the location of the category label from the contents of the first row or column.|
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Style Property (Excel)
+title: ShadowFormat.Style property (Excel)
 keywords: vbaxl10.chm114009
 f1_keywords:
 - vbaxl10.chm114009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Style Property (Excel)
+# ShadowFormat.Style property (Excel)
 
 Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](./Office.MsoShadowStyle.md)** .
 

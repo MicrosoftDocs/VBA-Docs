@@ -1,5 +1,5 @@
 ---
-title: Comment.Text Method (Excel)
+title: Comment.Text method (Excel)
 keywords: vbaxl10.chm516076
 f1_keywords:
 - vbaxl10.chm516076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Text Method (Excel)
+# Comment.Text method (Excel)
 
 Sets comment text.
 

@@ -1,5 +1,5 @@
 ---
-title: DropLines.Format Property (Word)
+title: DropLines.Format property (Word)
 keywords: vbawd10.chm104988677
 f1_keywords:
 - vbawd10.chm104988677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Format Property (Word)
+# DropLines.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

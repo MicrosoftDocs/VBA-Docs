@@ -1,5 +1,5 @@
 ---
-title: Range.Precedents Property (Excel)
+title: Range.Precedents property (Excel)
 keywords: vbaxl10.chm144178
 f1_keywords:
 - vbaxl10.chm144178
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Precedents Property (Excel)
+# Range.Precedents property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the precedents of a cell. This can be a multiple selection (a union of **Range** objects) if there's more than one precedent. Read-only.
 

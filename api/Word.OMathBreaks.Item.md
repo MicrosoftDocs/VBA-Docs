@@ -1,5 +1,5 @@
 ---
-title: OMathBreaks.Item Method (Word)
+title: OMathBreaks.Item method (Word)
 keywords: vbawd10.chm61276160
 f1_keywords:
 - vbawd10.chm61276160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreaks.Item Method (Word)
+# OMathBreaks.Item method (Word)
 
 Returns an  **OMathBreak** object that represents the specified item in the collection.
 

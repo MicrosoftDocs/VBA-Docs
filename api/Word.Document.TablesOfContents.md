@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfContents Property (Word)
+title: Document.TablesOfContents property (Word)
 keywords: vbawd10.chm158007327
 f1_keywords:
 - vbawd10.chm158007327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TablesOfContents Property (Word)
+# Document.TablesOfContents property (Word)
 
 Returns a  **[TablesOfContents](Word.tablesofcontents.md)** collection that represents the tables of contents in the specified document. Read-only.
 

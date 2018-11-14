@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Text Property (Word)
+title: ChartTitle.Text property (Word)
 keywords: vbawd10.chm65273868
 f1_keywords:
 - vbawd10.chm65273868
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Text Property (Word)
+# ChartTitle.Text property (Word)
 
 Returns or sets the text for the specified object. Read/write  **String** .
 

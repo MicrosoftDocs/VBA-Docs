@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.Separator Property (Word)
+title: CaptionLabel.Separator property (Word)
 keywords: vbawd10.chm158924806
 f1_keywords:
 - vbawd10.chm158924806
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.Separator Property (Word)
+# CaptionLabel.Separator property (Word)
 
 Returns or sets the character between the chapter number and the sequence number. Read/write  **WdSeparatorType** .
 

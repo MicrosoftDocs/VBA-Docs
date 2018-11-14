@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleHeadingRows Property (Word)
+title: Table.ApplyStyleHeadingRows property (Word)
 keywords: vbawd10.chm156303562
 f1_keywords:
 - vbawd10.chm156303562
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleHeadingRows Property (Word)
+# Table.ApplyStyleHeadingRows property (Word)
 
  **True** for Microsoft Word to apply heading-row formatting to the first row of the selected table. Read/write **Boolean** .
 

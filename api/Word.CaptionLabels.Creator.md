@@ -1,5 +1,5 @@
 ---
-title: CaptionLabels.Creator Property (Word)
+title: CaptionLabels.Creator property (Word)
 keywords: vbawd10.chm158860265
 f1_keywords:
 - vbawd10.chm158860265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabels.Creator Property (Word)
+# CaptionLabels.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

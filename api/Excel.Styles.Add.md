@@ -1,5 +1,5 @@
 ---
-title: Styles.Add Method (Excel)
+title: Styles.Add method (Excel)
 keywords: vbaxl10.chm179073
 f1_keywords:
 - vbaxl10.chm179073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Styles.Add Method (Excel)
+# Styles.Add method (Excel)
 
 Creates a new style and adds it to the list of styles that are available for the current workbook.
 

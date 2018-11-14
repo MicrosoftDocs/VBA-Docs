@@ -1,5 +1,5 @@
 ﻿---
-title: Application Object (Word)
+title: Application object (Word)
 keywords: vbawd10.chm2416
 f1_keywords:
 - vbawd10.chm2416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application Object (Word)
+# Application object (Word)
 
 Represents the Microsoft Word application. The  **Application** object includes properties and methods that return top-level objects. For example, the **[ActiveDocument](./Word.Application.ActiveDocument.md)** property returns a **[Document](Word.Document.md)** object.
 

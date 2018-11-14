@@ -1,5 +1,5 @@
 ---
-title: MailMergeFields.AddAsk Method (Word)
+title: MailMergeFields.AddAsk method (Word)
 keywords: vbawd10.chm153026662
 f1_keywords:
 - vbawd10.chm153026662
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeFields.AddAsk Method (Word)
+# MailMergeFields.AddAsk method (Word)
 
 Adds an ASK field to a mail merge main document. Returns a  **MailMergeField** object.
 

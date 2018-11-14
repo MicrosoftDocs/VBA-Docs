@@ -1,5 +1,5 @@
 ---
-title: Model.ModelFormatDecimalNumber Property (Excel)
+title: Model.ModelFormatDecimalNumber property (Excel)
 keywords: vbaxl10.chm942084
 f1_keywords:
 - vbaxl10.chm942084
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Model.ModelFormatDecimalNumber Property (Excel)
+# Model.ModelFormatDecimalNumber property (Excel)
 
 Returns a [ModelFormatDecimalNumber](Excel.modelformatdecimalnumber.md) object that represents formatting of type decimal number in the data model. Read-only.
 

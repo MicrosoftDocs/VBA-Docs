@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.FarEastLineBreakControl Property (Word)
+title: ParagraphFormat.FarEastLineBreakControl property (Word)
 keywords: vbawd10.chm156434549
 f1_keywords:
 - vbawd10.chm156434549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.FarEastLineBreakControl Property (Word)
+# ParagraphFormat.FarEastLineBreakControl property (Word)
 
  **True** if Microsoft Word applies East Asian line-breaking rules to the specified paragraphs. Returns **wdUndefined** if the **FarEastLineBreakControl** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
 

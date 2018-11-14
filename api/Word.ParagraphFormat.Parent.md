@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.Parent Property (Word)
+title: ParagraphFormat.Parent property (Word)
 keywords: vbawd10.chm156435434
 f1_keywords:
 - vbawd10.chm156435434
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.Parent Property (Word)
+# ParagraphFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ParagraphFormat** object.
 

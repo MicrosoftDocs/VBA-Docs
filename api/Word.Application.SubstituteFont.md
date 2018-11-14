@@ -1,5 +1,5 @@
 ---
-title: Application.SubstituteFont Method (Word)
+title: Application.SubstituteFont method (Word)
 keywords: vbawd10.chm158335280
 f1_keywords:
 - vbawd10.chm158335280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SubstituteFont Method (Word)
+# Application.SubstituteFont method (Word)
 
 Sets font-mapping options.
 

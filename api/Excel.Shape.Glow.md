@@ -1,5 +1,5 @@
 ---
-title: Shape.Glow Property (Excel)
+title: Shape.Glow property (Excel)
 keywords: vbaxl10.chm636152
 f1_keywords:
 - vbaxl10.chm636152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Glow Property (Excel)
+# Shape.Glow property (Excel)
 
 Returns a  **[GlowFormat](./Office.GlowFormat.md)** object for a specified shape that contains glow formatting properties for the shape. Read-only.
 

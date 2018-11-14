@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorGridlines Property (Excel)
+title: Axis.MajorGridlines property (Excel)
 keywords: vbaxl10.chm561084
 f1_keywords:
 - vbaxl10.chm561084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorGridlines Property (Excel)
+# Axis.MajorGridlines property (Excel)
 
 Returns a  **[Gridlines](Excel.Gridlines(object).md)** object that represents the major gridlines for the specified axis. Only axes in the primary axis group can have gridlines. Read-only.
 

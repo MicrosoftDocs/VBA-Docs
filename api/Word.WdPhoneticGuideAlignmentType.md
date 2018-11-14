@@ -1,5 +1,5 @@
 ---
-title: WdPhoneticGuideAlignmentType Enumeration (Word)
+title: WdPhoneticGuideAlignmentType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPhoneticGuideAlignmentType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPhoneticGuideAlignmentType Enumeration (Word)
+# WdPhoneticGuideAlignmentType enumeration (Word)
 
 Specifies the alignment of phonetic text that is added to the specified range.
 

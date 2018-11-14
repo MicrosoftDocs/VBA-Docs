@@ -1,5 +1,5 @@
 ---
-title: PageNumbers.HeadingLevelForChapter Property (Word)
+title: PageNumbers.HeadingLevelForChapter property (Word)
 keywords: vbawd10.chm159776772
 f1_keywords:
 - vbawd10.chm159776772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumbers.HeadingLevelForChapter Property (Word)
+# PageNumbers.HeadingLevelForChapter property (Word)
 
 Returns or sets the heading level style that's applied to the chapter titles in the document. Read/write  **Long** .
 

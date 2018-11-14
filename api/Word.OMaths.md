@@ -1,5 +1,5 @@
 ---
-title: OMaths Object (Word)
+title: OMaths object (Word)
 keywords: vbawd10.chm1867
 f1_keywords:
 - vbawd10.chm1867
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMaths Object (Word)
+# OMaths object (Word)
 
 A collection of equations. Use the  **OMath** object to access individual members of the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Outline.Creator Property (Excel)
+title: Outline.Creator property (Excel)
 keywords: vbaxl10.chm454074
 f1_keywords:
 - vbaxl10.chm454074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Outline.Creator Property (Excel)
+# Outline.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

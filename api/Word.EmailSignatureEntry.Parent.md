@@ -1,5 +1,5 @@
 ---
-title: EmailSignatureEntry.Parent Property (Word)
+title: EmailSignatureEntry.Parent property (Word)
 keywords: vbawd10.chm166069226
 f1_keywords:
 - vbawd10.chm166069226
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignatureEntry.Parent Property (Word)
+# EmailSignatureEntry.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **EmailSignatureEntry** object.
 

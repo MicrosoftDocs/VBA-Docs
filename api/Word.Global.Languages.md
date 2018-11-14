@@ -1,5 +1,5 @@
 ---
-title: Global.Languages Property (Word)
+title: Global.Languages property (Word)
 keywords: vbawd10.chm163119118
 f1_keywords:
 - vbawd10.chm163119118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Languages Property (Word)
+# Global.Languages property (Word)
 
 Returns a  **Languages** collection that represents the proofing languages listed in the **Language** dialog box.
 

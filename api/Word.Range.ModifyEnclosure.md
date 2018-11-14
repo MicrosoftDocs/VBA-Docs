@@ -1,5 +1,5 @@
 ---
-title: Range.ModifyEnclosure Method (Word)
+title: Range.ModifyEnclosure method (Word)
 keywords: vbawd10.chm157155551
 f1_keywords:
 - vbawd10.chm157155551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ModifyEnclosure Method (Word)
+# Range.ModifyEnclosure method (Word)
 
 Adds, modifies, or removes an enclosure around the specified character or characters.
 

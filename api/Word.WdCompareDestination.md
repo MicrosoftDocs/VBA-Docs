@@ -1,5 +1,5 @@
 ---
-title: WdCompareDestination Enumeration (Word)
+title: WdCompareDestination enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCompareDestination
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCompareDestination Enumeration (Word)
+# WdCompareDestination enumeration (Word)
 
 When comparing two files for differences, specifies whether to create a new file or mark the differences between the two documents in the original document or the revised document.
 

@@ -1,12 +1,12 @@
 ---
-title: XlBackground Enumeration (Word)
+title: xlBackground enumeration (Word)
 ms.prod: word
 ms.assetid: f2754210-2e22-c46d-0147-7371a74fdde9
 ms.date: 06/08/2017
 ---
 
 
-# XlBackground Enumeration (Word)
+# xlBackground enumeration (Word)
 
 Specifies the background type for text in charts.
 

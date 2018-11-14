@@ -1,5 +1,5 @@
 ---
-title: Databar.PTCondition Property (Excel)
+title: Databar.PTCondition property (Excel)
 keywords: vbaxl10.chm810088
 f1_keywords:
 - vbaxl10.chm810088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Databar.PTCondition Property (Excel)
+# Databar.PTCondition property (Excel)
 
 Returns a  **Boolean** value indicating if the conditional format is being applied to a PivotTable. Read-only.
 

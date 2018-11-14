@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Delete Method (Word)
+title: AxisTitle.Delete method (Word)
 keywords: vbawd10.chm98238488
 f1_keywords:
 - vbawd10.chm98238488
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Delete Method (Word)
+# AxisTitle.Delete method (Word)
 
 Deletes the object.
 

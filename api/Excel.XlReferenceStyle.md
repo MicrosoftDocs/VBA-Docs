@@ -1,5 +1,5 @@
 ---
-title: XlReferenceStyle Enumeration (Excel)
+title: xlReferenceStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlReferenceStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlReferenceStyle Enumeration (Excel)
+# xlReferenceStyle enumeration (Excel)
 
 Specifies the reference style.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.OMathJc Property (Word)
+title: Document.OMathJc property (Word)
 keywords: vbawd10.chm158007826
 f1_keywords:
 - vbawd10.chm158007826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathJc Property (Word)
+# Document.OMathJc property (Word)
 
 Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** constant that represents the default justification—left, right, centered, or centered as a group—of a group of equations. Read/write.
 

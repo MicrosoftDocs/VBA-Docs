@@ -1,5 +1,5 @@
 ---
-title: Range.FormulaArray Property (Excel)
+title: Range.FormulaArray property (Excel)
 keywords: vbaxl10.chm144133
 f1_keywords:
 - vbaxl10.chm144133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FormulaArray Property (Excel)
+# Range.FormulaArray property (Excel)
 
 Returns or sets the array formula of a range. Returns (or can be set to) a single formula or a Visual Basic array. If the specified range doesn't contain an array formula, this property returns  **null** . Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: ModelFormatDate.Parent Property (Excel)
+title: ModelFormatDate.Parent property (Excel)
 keywords: vbaxl10.chm983075
 f1_keywords:
 - vbaxl10.chm983075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatDate.Parent Property (Excel)
+# ModelFormatDate.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

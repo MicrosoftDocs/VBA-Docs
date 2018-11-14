@@ -1,5 +1,5 @@
 ---
-title: CubeField.CubeFieldType Property (Excel)
+title: CubeField.CubeFieldType property (Excel)
 keywords: vbaxl10.chm668073
 f1_keywords:
 - vbaxl10.chm668073
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.CubeFieldType Property (Excel)
+# CubeField.CubeFieldType property (Excel)
 
-Indicates whether the OLAP cube field is a hierarchy field or a measure field. Can be one of the  **[XlCubeFieldType](Excel.XlCubeFieldType.md)** constants.
+Indicates whether the OLAP cube field is a hierarchy field or a measure field. Can be one of the  **[xlCubeFieldType](Excel.XlCubeFieldType.md)** constants.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange Object (Excel)
+title: AllowEditRange object (Excel)
 keywords: vbaxl10.chm725072
 f1_keywords:
 - vbaxl10.chm725072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange Object (Excel)
+# AllowEditRange object (Excel)
 
 Represents the cells that can be edited on a protected worksheet.
 

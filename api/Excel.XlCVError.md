@@ -1,5 +1,5 @@
 ---
-title: XlCVError Enumeration (Excel)
+title: xlCVError enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCVError
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCVError Enumeration (Excel)
+# xlCVError enumeration (Excel)
 
 Specifies the cell error number and value.
 

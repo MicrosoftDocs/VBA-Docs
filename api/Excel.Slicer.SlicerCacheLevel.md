@@ -1,5 +1,5 @@
 ---
-title: Slicer.SlicerCacheLevel Property (Excel)
+title: Slicer.SlicerCacheLevel property (Excel)
 keywords: vbaxl10.chm905086
 f1_keywords:
 - vbaxl10.chm905086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.SlicerCacheLevel Property (Excel)
+# Slicer.SlicerCacheLevel property (Excel)
 
 Returns the  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object associated with the slicer. Read-only.
 

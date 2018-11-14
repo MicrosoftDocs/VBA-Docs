@@ -1,5 +1,5 @@
 ---
-title: PivotCache.UpgradeOnRefresh Property (Excel)
+title: PivotCache.UpgradeOnRefresh property (Excel)
 keywords: vbaxl10.chm227109
 f1_keywords:
 - vbaxl10.chm227109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.UpgradeOnRefresh Property (Excel)
+# PivotCache.UpgradeOnRefresh property (Excel)
 
 Contains information on whether to upgrade the PivotCache and all connected PivotTables on the next refresh. Read/write  **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Style.Frame Property (Word)
+title: Style.Frame property (Word)
 keywords: vbawd10.chm153878539
 f1_keywords:
 - vbawd10.chm153878539
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Frame Property (Word)
+# Style.Frame property (Word)
 
 Returns a  **[Frame](Word.Frame.md)** object that represents the frame formatting for the specified style. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast_ETS_ConfInt Method (Excel)
+title: WorksheetFunction.Forecast_ETS_ConfInt method (Excel)
 keywords: vbaxl10.chm137469
 f1_keywords:
 - vbaxl10.chm137469
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorksheetFunction.Forecast_ETS_ConfInt Method (Excel)
+# WorksheetFunction.Forecast_ETS_ConfInt method (Excel)
 
 Returns a confidence interval for the forecast value at the specified target date.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.IncludeBorder Property (Excel)
+title: Style.IncludeBorder property (Excel)
 keywords: vbaxl10.chm177081
 f1_keywords:
 - vbaxl10.chm177081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IncludeBorder Property (Excel)
+# Style.IncludeBorder property (Excel)
 
  **True** if the style includes the **Color** , **ColorIndex** , **LineStyle** , and **Weight** border properties. Read/write **Boolean** .
 

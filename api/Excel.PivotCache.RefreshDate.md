@@ -1,5 +1,5 @@
 ---
-title: PivotCache.RefreshDate Property (Excel)
+title: PivotCache.RefreshDate property (Excel)
 keywords: vbaxl10.chm227081
 f1_keywords:
 - vbaxl10.chm227081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.RefreshDate Property (Excel)
+# PivotCache.RefreshDate property (Excel)
 
 Returns the date on which the cache was last refreshed. Read-only  **Date** .
 

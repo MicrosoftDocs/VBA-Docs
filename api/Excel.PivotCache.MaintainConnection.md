@@ -1,5 +1,5 @@
 ---
-title: PivotCache.MaintainConnection Property (Excel)
+title: PivotCache.MaintainConnection property (Excel)
 keywords: vbaxl10.chm227090
 f1_keywords:
 - vbaxl10.chm227090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.MaintainConnection Property (Excel)
+# PivotCache.MaintainConnection property (Excel)
 
  **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True** . Read/write **Boolean** .
 

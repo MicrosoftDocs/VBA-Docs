@@ -1,5 +1,5 @@
 ---
-title: Borders.EnableOtherPagesInSection Property (Word)
+title: Borders.EnableOtherPagesInSection property (Word)
 keywords: vbawd10.chm154927135
 f1_keywords:
 - vbawd10.chm154927135
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.EnableOtherPagesInSection Property (Word)
+# Borders.EnableOtherPagesInSection property (Word)
 
  **True** if page borders are enabled for all pages in the section except for the first page. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListTemplate Property (Word)
+title: ListFormat.ListTemplate property (Word)
 keywords: vbawd10.chm163577926
 f1_keywords:
 - vbawd10.chm163577926
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListTemplate Property (Word)
+# ListFormat.ListTemplate property (Word)
 
 Returns a  **ListTemplate** object that represents the list formatting for the specified **ListFormat** object.
 

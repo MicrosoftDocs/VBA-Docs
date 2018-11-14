@@ -1,5 +1,5 @@
 ---
-title: DropDown.ListEntries Property (Word)
+title: DropDown.ListEntries property (Word)
 keywords: vbawd10.chm153419779
 f1_keywords:
 - vbawd10.chm153419779
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.ListEntries Property (Word)
+# DropDown.ListEntries property (Word)
 
 Returns a  **[ListEntries](Word.listentries.md)** collection that represents all the items in a **DropDown** object.
 

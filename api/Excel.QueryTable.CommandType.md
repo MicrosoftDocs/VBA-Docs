@@ -1,5 +1,5 @@
 ---
-title: QueryTable.CommandType Property (Excel)
+title: QueryTable.CommandType property (Excel)
 keywords: vbaxl10.chm518114
 f1_keywords:
 - vbaxl10.chm518114
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.CommandType Property (Excel)
+# QueryTable.CommandType property (Excel)
 
-Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.QueryTable.CommandText.md)** property. The default value is **xlCmdSQL** . Read/write **XlCmdType** .
+Returns or sets one of the  **[xlCmdType](Excel.XlCmdType.md)** constants listed in the following table in the remarks section. The constant that is returned or set describes the value of the **[CommandText](Excel.QueryTable.CommandText.md)** property. The default value is **xlCmdSQL** . Read/write **xlCmdType** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets one of the  **[XlCmdType](Excel.XlCmdType.md)** constants listed
 
 
 
-| **XlCmdType** can be one of these **XlCmdType** constants.|
+| **xlCmdType** can be one of these **xlCmdType** constants.|
 | **xlCmdCube** . Contains a cube name for an OLAP data source.|
 | **xlCmdDefault** . Contains command text that the OLE DB provider understands.|
 | **xlCmdSql** . Contains an SQL statement.|

@@ -1,5 +1,5 @@
 ---
-title: Application.Templates Property (Word)
+title: Application.Templates property (Word)
 keywords: vbawd10.chm158335043
 f1_keywords:
 - vbawd10.chm158335043
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Templates Property (Word)
+# Application.Templates property (Word)
 
 Returns a  **[Templates](Word.templates.md)** collection that represents all the available templates—global templates and those attached to open documents.
 

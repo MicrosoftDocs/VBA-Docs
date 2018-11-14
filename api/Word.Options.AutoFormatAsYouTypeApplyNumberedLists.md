@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+title: Options.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 keywords: vbawd10.chm162988295
 f1_keywords:
 - vbawd10.chm162988295
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyNumberedLists Property (Word)
+# Options.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 
  **True** if paragraphs are automatically formatted as numbered lists with a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character after the ENTER key is pressed. Read/write **Boolean** .
 

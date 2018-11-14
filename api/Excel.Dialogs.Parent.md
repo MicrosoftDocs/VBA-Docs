@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Parent Property (Excel)
+title: Dialogs.Parent property (Excel)
 keywords: vbaxl10.chm253075
 f1_keywords:
 - vbaxl10.chm253075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Parent Property (Excel)
+# Dialogs.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

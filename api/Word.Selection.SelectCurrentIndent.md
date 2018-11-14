@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentIndent Method (Word)
+title: Selection.SelectCurrentIndent method (Word)
 keywords: vbawd10.chm158663176
 f1_keywords:
 - vbawd10.chm158663176
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentIndent Method (Word)
+# Selection.SelectCurrentIndent method (Word)
 
 Extends the selection forward until text with different left or right paragraph indents is encountered.
 

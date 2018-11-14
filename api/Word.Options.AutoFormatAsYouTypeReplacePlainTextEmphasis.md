@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+title: Options.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 keywords: vbawd10.chm162988300
 f1_keywords:
 - vbawd10.chm162988300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeReplacePlainTextEmphasis Property (Word)
+# Options.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 
  **True** if manual emphasis characters are automatically replaced with character formatting as you type. For example, "*bold*" is changed to " **bold** " and "_underline_" is changed to "underline." Read/write **Boolean** .
 

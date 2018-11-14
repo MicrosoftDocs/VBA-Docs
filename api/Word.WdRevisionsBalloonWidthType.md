@@ -1,5 +1,5 @@
 ---
-title: WdRevisionsBalloonWidthType Enumeration (Word)
+title: WdRevisionsBalloonWidthType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdRevisionsBalloonWidthType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdRevisionsBalloonWidthType Enumeration (Word)
+# WdRevisionsBalloonWidthType enumeration (Word)
 
 Specifies how Microsoft Word measures the width of revision balloons.
 

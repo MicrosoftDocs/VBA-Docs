@@ -1,5 +1,5 @@
 ---
-title: CustomLabels.Creator Property (Word)
+title: CustomLabels.Creator property (Word)
 keywords: vbawd10.chm152437737
 f1_keywords:
 - vbawd10.chm152437737
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabels.Creator Property (Word)
+# CustomLabels.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

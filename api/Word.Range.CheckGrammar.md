@@ -1,5 +1,5 @@
 ---
-title: Range.CheckGrammar Method (Word)
+title: Range.CheckGrammar method (Word)
 keywords: vbawd10.chm157155532
 f1_keywords:
 - vbawd10.chm157155532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CheckGrammar Method (Word)
+# Range.CheckGrammar method (Word)
 
 Begins a spelling and grammar check for the specified range.
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.HorizontalAlignment Property (Excel)
+title: AxisTitle.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm565081
 f1_keywords:
 - vbaxl10.chm565081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.HorizontalAlignment Property (Excel)
+# AxisTitle.HorizontalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
 

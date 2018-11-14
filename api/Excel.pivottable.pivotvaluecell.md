@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PivotValueCell Method (Excel)
+title: PivotTable.PivotValueCell method (Excel)
 keywords: vbaxl10.chm235203
 f1_keywords:
 - vbaxl10.chm235203
@@ -9,23 +9,23 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PivotValueCell Method (Excel)
+# PivotTable.PivotValueCell method (Excel)
 
-Retrieve the [PivotValueCell Object (Excel)](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
+Retrieve the [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
 
 
 ## Syntax
 
  _expression_. `PivotValueCell`_(rowline,_ _columnline)_
 
- _expression_ A variable that represents a [PivotTable Object (Excel)](Excel.PivotTable.md) object.
+ _expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _rowline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
 | _columnline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|

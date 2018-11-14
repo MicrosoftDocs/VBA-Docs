@@ -23,7 +23,7 @@ _object_. **CurX** [= _Long_ ]
 The  **CurX** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. Indicates the current position, measured in himetrics. A himetric is 0.0001 meter.|

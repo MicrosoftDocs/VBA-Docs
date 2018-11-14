@@ -1,5 +1,5 @@
 ---
-title: WorksheetDataConnection Object (Excel)
+title: WorksheetDataConnection object (Excel)
 keywords: vbaxl10.chm923072
 f1_keywords:
 - vbaxl10.chm923072
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetDataConnection Object (Excel)
+# WorksheetDataConnection object (Excel)
 
 Used to import data into the Data Model from data on the worksheet such as ranges and tables.
 

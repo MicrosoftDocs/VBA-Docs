@@ -1,5 +1,5 @@
 ---
-title: Name.Value Property (Excel)
+title: Name.Value property (Excel)
 keywords: vbaxl10.chm490082
 f1_keywords:
 - vbaxl10.chm490082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.Value Property (Excel)
+# Name.Value property (Excel)
 
 Returns or sets a  **String** value that represents the formula that the name is defined to refer to.
 

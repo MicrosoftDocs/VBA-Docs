@@ -1,5 +1,5 @@
 ---
-title: XmlMap.ImportXml Method (Excel)
+title: XmlMap.ImportXml method (Excel)
 keywords: vbaxl10.chm754088
 f1_keywords:
 - vbaxl10.chm754088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.ImportXml Method (Excel)
+# XmlMap.ImportXml method (Excel)
 
 Imports XML data from a  **String** variable into cells that have been mapped to the specified **[XmlMap](Excel.XmlMap.md)** object.
 
@@ -41,7 +41,7 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
 
 
-| **XlXmlImportResult** can be one of the following **XlXmlImportResult** constants.|
+| **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
 | **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
 | **xlXmlImportSuccess** . The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|

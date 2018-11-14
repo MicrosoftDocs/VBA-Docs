@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Application Property (Word)
+title: ContentControlListEntries.Application property (Word)
 keywords: vbawd10.chm230948964
 f1_keywords:
 - vbawd10.chm230948964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Application Property (Word)
+# ContentControlListEntries.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

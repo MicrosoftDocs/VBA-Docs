@@ -1,5 +1,5 @@
 ---
-title: DisplayFormat.Characters Property (Excel)
+title: DisplayFormat.Characters property (Excel)
 keywords: vbaxl10.chm893074
 f1_keywords:
 - vbaxl10.chm893074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayFormat.Characters Property (Excel)
+# DisplayFormat.Characters property (Excel)
 
 Returns a  **[Characters](Excel.Characters.md)** object that represents a range of characters within the text of the associated **[Range](Excel.Range(object).md)** object as it is displayed in the current user interface. Read-only.
 

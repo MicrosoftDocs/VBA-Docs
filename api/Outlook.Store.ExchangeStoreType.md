@@ -25,7 +25,7 @@ Returns a constant in the  **[OlExchangeStoreType](Outlook.OlExchangeStoreType.m
 
 ## Remarks
 
-The  **ExchangeStoreType** property distinguishes among different Exchange store types, such as primary Exchange mailbox, Exchange mailbox, Public Folder store, or non-Exchange store. This property does not distinguish among every type of store including Hotmail, HTTP, IMAP, and so forth. Use **[Account.AccountType](Outlook.Account.AccountType.md)** for the type of server associated with an e-mail account, such as Exchange, HTTP, IMAP, or POP3.
+The  **ExchangeStoreType** property distinguishes among different Exchange store types, such as primary Exchange mailbox, Exchange mailbox, Public Folder store, or non-Exchange store. This property does not distinguish among every type of store including Hotmail, HTTP, IMAP, and so forth. Use **[Account.AccountType](Outlook.Account.AccountType.md)** for the type of server associated with an email account, such as Exchange, HTTP, IMAP, or POP3.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoSortField Property (Excel)
+title: PivotField.AutoSortField property (Excel)
 keywords: vbaxl10.chm240114
 f1_keywords:
 - vbaxl10.chm240114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoSortField Property (Excel)
+# PivotField.AutoSortField property (Excel)
 
 Returns the name of the data field used to sort the specified PivotTable field automatically. Read-only  **String** .
 

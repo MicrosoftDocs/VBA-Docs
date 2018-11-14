@@ -1,5 +1,5 @@
 ---
-title: OMathMatRow.Delete Method (Word)
+title: OMathMatRow.Delete method (Word)
 keywords: vbawd10.chm196477128
 f1_keywords:
 - vbawd10.chm196477128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRow.Delete Method (Word)
+# OMathMatRow.Delete method (Word)
 
 Deletes the specified matrix row.
 

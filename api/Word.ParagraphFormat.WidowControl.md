@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat.WidowControl Property (Word)
+title: ParagraphFormat.WidowControl property (Word)
 keywords: vbawd10.chm156434546
 f1_keywords:
 - vbawd10.chm156434546
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat.WidowControl Property (Word)
+# ParagraphFormat.WidowControl property (Word)
 
  **True** if the first and last lines in the specified paragraph remain on the same page as the rest of the paragraph when Word repaginates the document. Can be **True** , **False** or **wdUndefined** . Read/write **Long** .
 

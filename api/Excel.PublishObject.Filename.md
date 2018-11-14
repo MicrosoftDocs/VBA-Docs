@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Filename Property (Excel)
+title: PublishObject.Filename property (Excel)
 keywords: vbaxl10.chm652081
 f1_keywords:
 - vbaxl10.chm652081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Filename Property (Excel)
+# PublishObject.Filename property (Excel)
 
 Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Series.MarkerForegroundColor Property (Excel)
+title: Series.MarkerForegroundColor property (Excel)
 keywords: vbaxl10.chm578095
 f1_keywords:
 - vbaxl10.chm578095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.MarkerForegroundColor Property (Excel)
+# Series.MarkerForegroundColor property (Excel)
 
 Sets the marker foreground color as an RGB value or returns the corresponding color index value. Applies only to line, scatter, and radar charts. Read/write  **Long** .
 

@@ -24,7 +24,7 @@ _object_. **Key(**_key_**)** = _newkey_
 The  **Key** property has the following parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required.  _Key_ value being changed.|

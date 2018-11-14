@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Copy Method (Excel)
+title: OLEObject.Copy method (Excel)
 keywords: vbaxl10.chm415076
 f1_keywords:
 - vbaxl10.chm415076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Copy Method (Excel)
+# OLEObject.Copy method (Excel)
 
 Copies the object to the Clipboard.
 

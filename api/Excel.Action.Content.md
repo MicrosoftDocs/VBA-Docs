@@ -1,5 +1,5 @@
 ---
-title: Action.Content Property (Excel)
+title: Action.Content property (Excel)
 keywords: vbaxl10.chm798077
 f1_keywords:
 - vbaxl10.chm798077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Action.Content Property (Excel)
+# Action.Content property (Excel)
 
 Returns the content associated to the  **Action** object. Read-only **String** .
 

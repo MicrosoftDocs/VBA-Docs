@@ -1,5 +1,5 @@
 ---
-title: DataLabels.Shadow Property (Excel)
+title: DataLabels.Shadow property (Excel)
 keywords: vbaxl10.chm584086
 f1_keywords:
 - vbaxl10.chm584086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.Shadow Property (Excel)
+# DataLabels.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

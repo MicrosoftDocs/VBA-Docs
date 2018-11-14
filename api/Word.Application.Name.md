@@ -1,5 +1,5 @@
 ---
-title: Application.Name Property (Word)
+title: Application.Name property (Word)
 keywords: vbawd10.chm158334976
 f1_keywords:
 - vbawd10.chm158334976
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Name Property (Word)
+# Application.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

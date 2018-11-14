@@ -1,12 +1,12 @@
 ---
-title: Languages Object (Word)
+title: Languages object (Word)
 ms.prod: word
 ms.assetid: e3b1d3f3-de1b-d2fe-962f-5a589842d1b0
 ms.date: 06/08/2017
 ---
 
 
-# Languages Object (Word)
+# Languages object (Word)
 
 A collection of  **Language** objects that represent languages used for proofing or formatting in Word.
 

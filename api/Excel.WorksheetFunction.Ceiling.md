@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Ceiling Method (Excel)
+title: WorksheetFunction.Ceiling method (Excel)
 keywords: vbaxl10.chm137192
 f1_keywords:
 - vbaxl10.chm137192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Ceiling Method (Excel)
+# WorksheetFunction.Ceiling method (Excel)
 
 Returns number rounded up, away from zero, to the nearest multiple of significance.
 

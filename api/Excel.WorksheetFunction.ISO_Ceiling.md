@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ISO_Ceiling Method (Excel)
+title: WorksheetFunction.ISO_Ceiling method (Excel)
 keywords: vbaxl10.chm137393
 f1_keywords:
 - vbaxl10.chm137393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ISO_Ceiling Method (Excel)
+# WorksheetFunction.ISO_Ceiling method (Excel)
 
 Returns a number that is rounded up to the nearest integer or to the nearest multiple of significance.
 

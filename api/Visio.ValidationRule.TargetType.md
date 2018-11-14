@@ -34,7 +34,7 @@ Valid validation-rule targets include documents, pages, and shapes. The  **Targe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRuleTargetShape**|0|The rule applies to shapes in the document.|
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|

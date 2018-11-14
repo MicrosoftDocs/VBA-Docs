@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.StEyx Method (Excel)
+title: WorksheetFunction.StEyx method (Excel)
 keywords: vbaxl10.chm137218
 f1_keywords:
 - vbaxl10.chm137218
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.StEyx Method (Excel)
+# WorksheetFunction.StEyx method (Excel)
 
 Returns the standard error of the predicted y-value for each x in the regression. The standard error is a measure of the amount of error in the prediction of y for an individual x.
 

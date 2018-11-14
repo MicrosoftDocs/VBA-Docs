@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.AlwaysUseConnectionFile Property (Excel)
+title: DataFeedConnection.AlwaysUseConnectionFile property (Excel)
 keywords: vbaxl10.chm928073
 f1_keywords:
 - vbaxl10.chm928073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.AlwaysUseConnectionFile Property (Excel)
+# DataFeedConnection.AlwaysUseConnectionFile property (Excel)
 
  **True** if the connection file is always used to establish connection to the data source. **Boolean** . Read/Write
 
@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
  _expression_. `AlwaysUseConnectionFile`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

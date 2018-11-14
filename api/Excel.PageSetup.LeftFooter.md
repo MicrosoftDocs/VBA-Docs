@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LeftFooter Property (Excel)
+title: PageSetup.LeftFooter property (Excel)
 keywords: vbaxl10.chm473086
 f1_keywords:
 - vbaxl10.chm473086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LeftFooter Property (Excel)
+# PageSetup.LeftFooter property (Excel)
 
 Returns or sets the alignment of text on the left footer of a workbook or section.
 

@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (Word)
+title: FreeformBuilder.ConvertToShape method (Word)
 keywords: vbawd10.chm164167691
 f1_keywords:
 - vbawd10.chm164167691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (Word)
+# FreeformBuilder.ConvertToShape method (Word)
 
 Creates a shape that has the geometric characteristics of the specified object. Returns a  **[Shape](Word.Shape.md)** object that represents the new shape.
 

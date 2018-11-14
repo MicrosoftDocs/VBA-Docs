@@ -1,5 +1,5 @@
 ---
-title: SeriesLines Object (Word)
+title: SeriesLines object (Word)
 keywords: vbawd10.chm3093
 f1_keywords:
 - vbawd10.chm3093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines Object (Word)
+# SeriesLines object (Word)
 
 Represents series lines in a chart group.
 

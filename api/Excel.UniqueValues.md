@@ -1,5 +1,5 @@
 ---
-title: UniqueValues Object (Excel)
+title: UniqueValues object (Excel)
 keywords: vbaxl10.chm825072
 f1_keywords:
 - vbaxl10.chm825072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UniqueValues Object (Excel)
+# UniqueValues object (Excel)
 
 The  **UniqueValues** object uses the **DupeUnique** property to returns or sets an enum that determines whether the rule should look for duplicate or unique values in the range.
 

@@ -25,7 +25,7 @@ Combines all of the shapes in the range to create a single new shape.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MergeCmd_|Required|**MsoMergeCmd**|The merge operation to perform on the shape range.|
 | _PrimaryShape_|Optional|**Shape**|The shape that the resulting shape inherits its formatting from.|

@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Parent Property (Excel)
+title: TickLabels.Parent property (Excel)
 keywords: vbaxl10.chm616073
 f1_keywords:
 - vbaxl10.chm616073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Parent Property (Excel)
+# TickLabels.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

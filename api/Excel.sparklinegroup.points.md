@@ -1,5 +1,5 @@
 ---
-title: SparklineGroup.Points Property (Excel)
+title: SparklineGroup.Points property (Excel)
 keywords: vbaxl10.chm871086
 f1_keywords:
 - vbaxl10.chm871086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparklineGroup.Points Property (Excel)
+# SparklineGroup.Points property (Excel)
 
 Returns the associated  **[SparkPoints](Excel.SparkPoints.md)** object for the sparkline group. Read-only.
 

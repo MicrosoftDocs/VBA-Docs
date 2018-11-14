@@ -1,5 +1,5 @@
 ---
-title: Application.MailSystem Property (Word)
+title: Application.MailSystem property (Word)
 keywords: vbawd10.chm158335080
 f1_keywords:
 - vbawd10.chm158335080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MailSystem Property (Word)
+# Application.MailSystem property (Word)
 
 Returns the mail system (or systems) installed on the host computer. Read-only  **WdMailSystem** .
 

@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Command Property (Word)
+title: KeyBinding.Command property (Word)
 keywords: vbawd10.chm160956417
 f1_keywords:
 - vbawd10.chm160956417
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Command Property (Word)
+# KeyBinding.Command property (Word)
 
 Returns the command assigned to the specified key combination. Read-only  **String** .
 

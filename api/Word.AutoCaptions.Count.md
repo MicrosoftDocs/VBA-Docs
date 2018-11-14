@@ -1,5 +1,5 @@
 ---
-title: AutoCaptions.Count Property (Word)
+title: AutoCaptions.Count property (Word)
 keywords: vbawd10.chm158990337
 f1_keywords:
 - vbawd10.chm158990337
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaptions.Count Property (Word)
+# AutoCaptions.Count property (Word)
 
 Returns the number of items in the  **AutoCaptions** collection. Read-only **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfContents.Range Property (Word)
+title: TableOfContents.Range property (Word)
 keywords: vbawd10.chm152240137
 f1_keywords:
 - vbawd10.chm152240137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents.Range Property (Word)
+# TableOfContents.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within the specified table of contents.
 

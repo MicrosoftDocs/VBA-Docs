@@ -1,5 +1,5 @@
 ---
-title: XlPrintLocation Enumeration (Excel)
+title: xlPrintLocation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPrintLocation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPrintLocation Enumeration (Excel)
+# xlPrintLocation enumeration (Excel)
 
 Specifies the way that comments are printed with the sheet.
 

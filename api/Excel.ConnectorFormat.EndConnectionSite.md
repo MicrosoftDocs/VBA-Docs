@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.EndConnectionSite Property (Excel)
+title: ConnectorFormat.EndConnectionSite property (Excel)
 keywords: vbaxl10.chm646082
 f1_keywords:
 - vbaxl10.chm646082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.EndConnectionSite Property (Excel)
+# ConnectorFormat.EndConnectionSite property (Excel)
 
 Returns an integer that specifies the connection site that the end of a connector is connected to. Read-only  **Long** .
 

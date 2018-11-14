@@ -1,5 +1,5 @@
 ---
-title: Font.StrikeThrough Property (Word)
+title: Font.StrikeThrough property (Word)
 keywords: vbawd10.chm156369031
 f1_keywords:
 - vbawd10.chm156369031
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.StrikeThrough Property (Word)
+# Font.StrikeThrough property (Word)
 
  **True** if the font is formatted as strikethrough text. Read/write **Long** .
 

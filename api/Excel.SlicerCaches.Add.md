@@ -1,5 +1,5 @@
 ---
-title: SlicerCaches.Add Method (Excel)
+title: SlicerCaches.Add method (Excel)
 keywords: vbaxl10.chm895078
 f1_keywords:
 - vbaxl10.chm895078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCaches.Add Method (Excel)
+# SlicerCaches.Add method (Excel)
 
 Adds a new  **[SlicerCache](Excel.SlicerCache.md)** object to the collection.
 

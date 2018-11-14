@@ -1,5 +1,5 @@
 ---
-title: AutoTextEntries.Add Method (Word)
+title: AutoTextEntries.Add method (Word)
 keywords: vbawd10.chm154599525
 f1_keywords:
 - vbawd10.chm154599525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries.Add Method (Word)
+# AutoTextEntries.Add method (Word)
 
 Returns an  **AutoTextEntry** object that represents an AutoText entry added to the list of available AutoText entries.
 

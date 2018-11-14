@@ -1,5 +1,5 @@
 ---
-title: PivotField.ParentField Property (Excel)
+title: PivotField.ParentField property (Excel)
 keywords: vbaxl10.chm240089
 f1_keywords:
 - vbaxl10.chm240089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.ParentField Property (Excel)
+# PivotField.ParentField property (Excel)
 
 Returns a  **[PivotField](Excel.PivotField.md)** object that represents the PivotTable field that's the group parent of the specified object. The field must be grouped and must have a parent field. Read-only.
 

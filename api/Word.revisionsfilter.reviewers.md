@@ -1,5 +1,5 @@
 ---
-title: RevisionsFilter.Reviewers Property (Word)
+title: RevisionsFilter.Reviewers property (Word)
 keywords: vbawd10.chm40566787
 f1_keywords:
 - vbawd10.chm40566787
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RevisionsFilter.Reviewers Property (Word)
+# RevisionsFilter.Reviewers property (Word)
 
 Returns a [Reviewers](Word.Reviewers.md) object that represents the collection of reviewers of one or more documents.
 

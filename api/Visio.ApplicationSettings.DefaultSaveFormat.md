@@ -39,7 +39,7 @@ The following  **VisDefaultSaveFormats** constants, which are declared in the Vi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDefaultSaveCurrentBinary**|0|Binary format for current version of Visio.|
 | **visDefaultSaveCurrentXML**|2|XML format for current version of Visio.|

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthorities.Delete Method (Word)
+title: TableOfAuthorities.Delete method (Word)
 keywords: vbawd10.chm152109156
 f1_keywords:
 - vbawd10.chm152109156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthorities.Delete Method (Word)
+# TableOfAuthorities.Delete method (Word)
 
 Deletes the specified table of authorities.
 

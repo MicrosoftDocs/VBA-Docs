@@ -1,5 +1,5 @@
 ---
-title: Workbook.PublishObjects Property (Excel)
+title: Workbook.PublishObjects property (Excel)
 keywords: vbaxl10.chm199187
 f1_keywords:
 - vbaxl10.chm199187
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PublishObjects Property (Excel)
+# Workbook.PublishObjects property (Excel)
 
 Returns the  **[PublishObjects](Excel.PublishObjects.md)** collection. Read-only.
 

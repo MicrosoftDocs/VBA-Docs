@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Select Method (Word)
+title: ErrorBars.Select method (Word)
 keywords: vbawd10.chm74842347
 f1_keywords:
 - vbawd10.chm74842347
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Select Method (Word)
+# ErrorBars.Select method (Word)
 
 Selects the object.
 

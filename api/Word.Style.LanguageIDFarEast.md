@@ -1,5 +1,5 @@
 ---
-title: Style.LanguageIDFarEast Property (Word)
+title: Style.LanguageIDFarEast property (Word)
 keywords: vbawd10.chm153878544
 f1_keywords:
 - vbawd10.chm153878544
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.LanguageIDFarEast Property (Word)
+# Style.LanguageIDFarEast property (Word)
 
 Returns or sets an East Asian language for the specified object. Read/write  **[WdLanguageID](Word.WdLanguageID.md)** .
 

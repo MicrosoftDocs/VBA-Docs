@@ -23,7 +23,7 @@ _object_. **HelpContextID** [= _Long_ ]
 The  **HelpContextID** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A positive integer specifies the [context ID](../../Glossary/glossary-vba.md#context-id) of a topic in the Help file associated with the object. Zero indicates no Help topic is associated with the object (default). Must be a valid context ID in the specified Help file.|

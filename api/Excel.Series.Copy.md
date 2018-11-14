@@ -1,5 +1,5 @@
 ---
-title: Series.Copy Method (Excel)
+title: Series.Copy method (Excel)
 keywords: vbaxl10.chm578078
 f1_keywords:
 - vbaxl10.chm578078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Copy Method (Excel)
+# Series.Copy method (Excel)
 
 If the series has a picture fill, then this method copies the picture to the Clipboard.
 

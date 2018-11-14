@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Parent Property (Excel)
+title: SeriesLines.Parent property (Excel)
 keywords: vbaxl10.chm598073
 f1_keywords:
 - vbaxl10.chm598073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Parent Property (Excel)
+# SeriesLines.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: FormatColor Object (Excel)
+title: FormatColor object (Excel)
 keywords: vbaxl10.chm801072
 f1_keywords:
 - vbaxl10.chm801072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor Object (Excel)
+# FormatColor object (Excel)
 
 Represents the fill color specified for a threshold of a color scale conditional format or the color of the bar in a data bar conditional format.
 

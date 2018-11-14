@@ -1,5 +1,5 @@
 ---
-title: PivotTables.Creator Property (Excel)
+title: PivotTables.Creator property (Excel)
 keywords: vbaxl10.chm237074
 f1_keywords:
 - vbaxl10.chm237074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTables.Creator Property (Excel)
+# PivotTables.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Columns.Add Method (Word)
+title: Columns.Add method (Word)
 keywords: vbawd10.chm155910149
 f1_keywords:
 - vbawd10.chm155910149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Columns.Add Method (Word)
+# Columns.Add method (Word)
 
 Returns a  **Column** object that represents a column added to a table.
 

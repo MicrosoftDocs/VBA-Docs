@@ -1,5 +1,5 @@
 ---
-title: Options.CloudSignInOption Property (Word)
+title: Options.CloudSignInOption property (Word)
 keywords: vbawd10.chm162988548
 f1_keywords:
 - vbawd10.chm162988548
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.CloudSignInOption Property (Word)
+# Options.CloudSignInOption property (Word)
 
  **True** to give users the option to sign in to Microsoft OneDrive and other cloud locations. Read/write **Boolean**.
 

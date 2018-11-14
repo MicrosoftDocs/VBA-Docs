@@ -13,7 +13,7 @@ ms.date: 09/21/2018
 
 ## Errors and error handling
 
-When you're programming an application, you need to consider what happens when an error occurs. An error can occur in your application for one of two of reasons. First, some condition at the time the application is running makes otherwise valid code fail. For example, if your code attempts to open a table that the user has deleted, an error occurs. Second, your code may contain improper logic that prevents it from doing what you intended. For example, an error occurs if your code attempts to divide a value by zero.
+When you are programming an application, you need to consider what happens when an error occurs. An error can occur in your application for one of two of reasons. First, some condition at the time the application is running makes otherwise valid code fail. For example, if your code attempts to open a table that the user has deleted, an error occurs. Second, your code may contain improper logic that prevents it from doing what you intended. For example, an error occurs if your code attempts to divide a value by zero.
 
 If you've implemented no error handling, then Visual Basic halts execution and displays an error message when an error occurs in your code. The user of your application is likely to be confused and frustrated when this happens. You can forestall many problems by including thorough error-handling routines in your code to handle any error that may occur.
 

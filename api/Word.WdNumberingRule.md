@@ -1,5 +1,5 @@
 ---
-title: WdNumberingRule Enumeration (Word)
+title: WdNumberingRule enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdNumberingRule
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdNumberingRule Enumeration (Word)
+# WdNumberingRule enumeration (Word)
 
 Specifies the numbering rule to apply.
 

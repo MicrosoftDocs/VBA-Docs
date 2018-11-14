@@ -1,5 +1,5 @@
 ---
-title: QueryTables Object (Excel)
+title: QueryTables object (Excel)
 keywords: vbaxl10.chm520072
 f1_keywords:
 - vbaxl10.chm520072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTables Object (Excel)
+# QueryTables object (Excel)
 
 A collection of  **[QueryTable](Excel.QueryTable.md)** objects.
 

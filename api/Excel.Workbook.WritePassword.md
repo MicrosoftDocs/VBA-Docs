@@ -1,5 +1,5 @@
 ---
-title: Workbook.WritePassword Property (Excel)
+title: Workbook.WritePassword property (Excel)
 keywords: vbaxl10.chm199210
 f1_keywords:
 - vbaxl10.chm199210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.WritePassword Property (Excel)
+# Workbook.WritePassword property (Excel)
 
 Returns or sets a  **String** for the write password of a workbook. Read/write.
 

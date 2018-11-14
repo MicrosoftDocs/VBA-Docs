@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities.Count Property (Word)
+title: TablesOfAuthorities.Count property (Word)
 keywords: vbawd10.chm152174593
 f1_keywords:
 - vbawd10.chm152174593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities.Count Property (Word)
+# TablesOfAuthorities.Count property (Word)
 
 Returns a  **Long** that represents the number of tables of authorities in the collection. Read-only.
 

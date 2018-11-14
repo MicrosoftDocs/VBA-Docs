@@ -1,5 +1,5 @@
 ---
-title: PageSetup.Orientation Property (Excel)
+title: PageSetup.Orientation property (Excel)
 keywords: vbaxl10.chm473090
 f1_keywords:
 - vbaxl10.chm473090
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.Orientation Property (Excel)
+# PageSetup.Orientation property (Excel)
 
-Returns or sets a  **[XlPageOrientation](Excel.XlPageOrientation.md)** value that represents the portrait or landscape printing mode.
+Returns or sets a  **[xlPageOrientation](Excel.XlPageOrientation.md)** value that represents the portrait or landscape printing mode.
 
 
 ## Syntax

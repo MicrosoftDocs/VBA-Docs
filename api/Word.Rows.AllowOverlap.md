@@ -1,5 +1,5 @@
 ---
-title: Rows.AllowOverlap Property (Word)
+title: Rows.AllowOverlap property (Word)
 keywords: vbawd10.chm155975702
 f1_keywords:
 - vbawd10.chm155975702
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rows.AllowOverlap Property (Word)
+# Rows.AllowOverlap property (Word)
 
 Returns or sets a value that specifies whether the specified rows can overlap other rows.
 

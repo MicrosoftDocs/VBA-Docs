@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors Object (Excel)
+title: OLEDBErrors object (Excel)
 keywords: vbaxl10.chm655072
 f1_keywords:
 - vbaxl10.chm655072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBErrors Object (Excel)
+# OLEDBErrors object (Excel)
 
 A collection of  **[OLEDBError](Excel.OLEDBError.md)** objects.
 

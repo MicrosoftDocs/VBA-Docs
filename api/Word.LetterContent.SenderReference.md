@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderReference Property (Word)
+title: LetterContent.SenderReference property (Word)
 keywords: vbawd10.chm161546372
 f1_keywords:
 - vbawd10.chm161546372
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderReference Property (Word)
+# LetterContent.SenderReference property (Word)
 
 Not used in the U.S. English version of Microsoft Word. Read/write  **String** .
 

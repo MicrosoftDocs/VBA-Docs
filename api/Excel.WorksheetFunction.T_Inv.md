@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.T_Inv Method (Excel)
+title: WorksheetFunction.T_Inv method (Excel)
 keywords: vbaxl10.chm137386
 f1_keywords:
 - vbaxl10.chm137386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.T_Inv Method (Excel)
+# WorksheetFunction.T_Inv method (Excel)
 
 Returns the left-tailed inverse of the Student t-distribution.
 

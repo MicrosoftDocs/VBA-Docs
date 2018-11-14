@@ -9,7 +9,7 @@ author: FastExcel
 
 **Applies to:** Excel | Excel 2016 | Excel 2013 | Excel 2010 | Office 2016 | SharePoint Server 2010 | VBA
 
-Excel 2016 introduces new features that you can use to improve performance when you're working with large or complex Excel workbooks
+Excel 2016 introduces new features that you can use to improve performance when you are working with large or complex Excel workbooks
 
 ## VLOOKUP, HLOOKUP, MATCH improvements
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveDocument Property (Word)
+title: Application.ActiveDocument property (Word)
 keywords: vbawd10.chm158334979
 f1_keywords:
 - vbawd10.chm158334979
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveDocument Property (Word)
+# Application.ActiveDocument property (Word)
 
 Returns a  **[Document](Word.Document.md)** object that represents the active document (the document with the focus). If there are no documents open, an error occurs. Read-only.
 

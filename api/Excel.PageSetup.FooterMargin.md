@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FooterMargin Property (Excel)
+title: PageSetup.FooterMargin property (Excel)
 keywords: vbaxl10.chm473084
 f1_keywords:
 - vbaxl10.chm473084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.FooterMargin Property (Excel)
+# PageSetup.FooterMargin property (Excel)
 
 Returns or sets the distance from the bottom of the page to the footer, in points. Read/write  **Double** .
 

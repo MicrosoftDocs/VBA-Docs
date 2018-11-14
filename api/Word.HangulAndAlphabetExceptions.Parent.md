@@ -1,5 +1,5 @@
 ---
-title: HangulAndAlphabetExceptions.Parent Property (Word)
+title: HangulAndAlphabetExceptions.Parent property (Word)
 keywords: vbawd10.chm164692970
 f1_keywords:
 - vbawd10.chm164692970
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HangulAndAlphabetExceptions.Parent Property (Word)
+# HangulAndAlphabetExceptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **HangulAndAlphabetExceptions** object.
 

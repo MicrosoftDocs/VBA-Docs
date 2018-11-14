@@ -15,7 +15,7 @@ Only a picture can be assigned to the  **Picture**[property](../../Glossary/vbe-
 
 
 
-- You attempted to assign something to a  **Picture** property or a **Picture** object that isn't recognized as an icon, bitmap, or Microsoft Windows metafile. See the Help topics for the **Picture** object or **Picture** property of the object you're using to determine the acceptable picture types.
+- You attempted to assign something to a  **Picture** property or a **Picture** object that isn't recognized as an icon, bitmap, or Microsoft Windows metafile. See the Help topics for the **Picture** object or **Picture** property of the object you are using to determine the acceptable picture types.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

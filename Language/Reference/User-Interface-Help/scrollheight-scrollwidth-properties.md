@@ -22,7 +22,7 @@ _object_. **ScrollHeight** [= _Single_ ]
 The  **ScrollHeight** and **ScrollWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. The height or width of the scrollable region.|

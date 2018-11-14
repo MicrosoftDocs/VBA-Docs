@@ -15,7 +15,7 @@ Type codes returned by the  **Document.Type** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocTypeInval**|0|Not a Microsoft Visio document.|
 | **visTypeDrawing**|1|Document type is a drawing.|

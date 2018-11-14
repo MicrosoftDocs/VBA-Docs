@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (Word)
+title: Chart.Axes method (Word)
 ms.prod: word
 api_name:
 - Word.Chart.Axes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Axes Method (Word)
+# Chart.Axes method (Word)
 
 Returns a collection of axes on the chart.
 
@@ -26,8 +26,8 @@ Returns a collection of axes on the chart.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|The axis to return. Can be one of the following  **[XlAxisType](Word.xlaxistype.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional| **[XlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary** .
+| _Type_|Optional| **Variant**|The axis to return. Can be one of the following  **[xlAxisType](Word.xlaxistype.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
+| _AxisGroup_|Optional| **[xlAxisGroup](Word.xlaxisgroup.md)**|One of the enumeration values that specifies the axis group. The default is  **xlPrimary** .
  **Note**  3-D charts have only one axis group.
 
 |

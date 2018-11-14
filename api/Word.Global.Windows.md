@@ -1,5 +1,5 @@
 ---
-title: Global.Windows Property (Word)
+title: Global.Windows property (Word)
 keywords: vbawd10.chm163119106
 f1_keywords:
 - vbawd10.chm163119106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Windows Property (Word)
+# Global.Windows property (Word)
 
 Returns a  **Windows** collection that represents all open document windows. Read-only.
 

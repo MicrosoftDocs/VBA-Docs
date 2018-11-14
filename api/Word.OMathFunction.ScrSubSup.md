@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.ScrSubSup Property (Word)
+title: OMathFunction.ScrSubSup property (Word)
 keywords: vbawd10.chm22151290
 f1_keywords:
 - vbawd10.chm22151290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.ScrSubSup Property (Word)
+# OMathFunction.ScrSubSup property (Word)
 
 Returns an  **[OMathScrSubSup](Word.OMathScrSubSup.md)** object that represents a mathematical subscript-superscript object that consists of a base, a subscript, and a superscript. Read-only.
 

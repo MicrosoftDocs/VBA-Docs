@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Power Method (Excel)
+title: WorksheetFunction.Power method (Excel)
 keywords: vbaxl10.chm137237
 f1_keywords:
 - vbaxl10.chm137237
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Power Method (Excel)
+# WorksheetFunction.Power method (Excel)
 
 Returns the result of a number raised to a power.
 

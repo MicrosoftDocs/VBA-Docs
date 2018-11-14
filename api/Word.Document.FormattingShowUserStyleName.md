@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowUserStyleName Property (Word)
+title: Document.FormattingShowUserStyleName property (Word)
 keywords: vbawd10.chm158007819
 f1_keywords:
 - vbawd10.chm158007819
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowUserStyleName Property (Word)
+# Document.FormattingShowUserStyleName property (Word)
 
 Returns or sets a  **Boolean** that represents whether to show user-defined styles. Read/write.
 

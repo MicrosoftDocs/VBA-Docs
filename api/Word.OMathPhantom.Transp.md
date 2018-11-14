@@ -1,5 +1,5 @@
 ---
-title: OMathPhantom.Transp Property (Word)
+title: OMathPhantom.Transp property (Word)
 keywords: vbawd10.chm88146028
 f1_keywords:
 - vbawd10.chm88146028
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathPhantom.Transp Property (Word)
+# OMathPhantom.Transp property (Word)
 
 Returns or sets a  **Boolean** that represents whether a phantom object is transparent. Read/write.
 

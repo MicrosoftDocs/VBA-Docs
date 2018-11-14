@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Index Property (Excel)
+title: RecentFile.Index property (Excel)
 keywords: vbaxl10.chm170075
 f1_keywords:
 - vbaxl10.chm170075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Index Property (Excel)
+# RecentFile.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.PageRange Property (Excel)
+title: PivotTable.PageRange property (Excel)
 keywords: vbaxl10.chm235087
 f1_keywords:
 - vbaxl10.chm235087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.PageRange Property (Excel)
+# PivotTable.PageRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range that contains the page area in the PivotTable report. Read-only.
 

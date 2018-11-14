@@ -1,5 +1,5 @@
 ---
-title: List.ApplyListTemplate Method (Word)
+title: List.ApplyListTemplate method (Word)
 keywords: vbawd10.chm160563306
 f1_keywords:
 - vbawd10.chm160563306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.ApplyListTemplate Method (Word)
+# List.ApplyListTemplate method (Word)
 
 Applies a set of list-formatting characteristics to the specified  **ListFormat** object.
 

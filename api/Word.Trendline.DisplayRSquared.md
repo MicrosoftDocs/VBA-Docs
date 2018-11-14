@@ -1,5 +1,5 @@
 ---
-title: Trendline.DisplayRSquared Property (Word)
+title: Trendline.DisplayRSquared property (Word)
 keywords: vbawd10.chm26345661
 f1_keywords:
 - vbawd10.chm26345661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.DisplayRSquared Property (Word)
+# Trendline.DisplayRSquared property (Word)
 
  **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: DataLabels.NumberFormatLinked Property (Word)
+title: DataLabels.NumberFormatLinked property (Word)
 keywords: vbawd10.chm207487170
 f1_keywords:
 - vbawd10.chm207487170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels.NumberFormatLinked Property (Word)
+# DataLabels.NumberFormatLinked property (Word)
 
  **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
 

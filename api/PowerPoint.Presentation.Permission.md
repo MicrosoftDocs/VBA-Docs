@@ -46,7 +46,7 @@ The  **Permission** object model is available whether permissions are restricted
 
 ## Example
 
-The following example creates a new presentation and assigns the user with e-mail address "someone@example.com" read permission on the new presentation. The example will display the permissions of the owner and the new user.
+The following example creates a new presentation and assigns the user with email address "someone@example.com" read permission on the new presentation. The example will display the permissions of the owner and the new user.
 
 
 ```vb

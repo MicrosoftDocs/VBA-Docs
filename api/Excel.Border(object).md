@@ -1,5 +1,5 @@
 ﻿---
-title: Border Object (Excel)
+title: Border object (Excel)
 keywords: vbaxl10.chm546072
 f1_keywords:
 - vbaxl10.chm546072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border Object (Excel)
+# Border object (Excel)
 
 Represents the border of an object.
 
@@ -52,7 +52,7 @@ Worksheets("Sheet1").Range("A1:G1"). _
  Borders(xlEdgeBottom).Color = RGB(255, 0, 0)
 ```
 
- _Index_ can be one of the following **[XlBordersIndex](Excel.XlBordersIndex.md)** constants: **xlDiagonalDown**, **xlDiagonalUp**, **xlEdgeBottom**, **xlEdgeLeft**, **xlEdgeRight**, **xlEdgeTop**, **xlInsideHorizontal**, or **xlInsideVertical**.
+ _Index_ can be one of the following **[xlBordersIndex](Excel.XlBordersIndex.md)** constants: **xlDiagonalDown**, **xlDiagonalUp**, **xlEdgeBottom**, **xlEdgeLeft**, **xlEdgeRight**, **xlEdgeTop**, **xlInsideHorizontal**, or **xlInsideVertical**.
 
 
 ## Properties

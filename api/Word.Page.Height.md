@@ -1,5 +1,5 @@
 ---
-title: Page.Height Property (Word)
+title: Page.Height property (Word)
 keywords: vbawd10.chm11075589
 f1_keywords:
 - vbawd10.chm11075589
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.Height Property (Word)
+# Page.Height property (Word)
 
 Returns a  **Long** that represents the height of a page, in pixels.
 

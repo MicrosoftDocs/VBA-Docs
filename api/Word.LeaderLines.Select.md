@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Select Method (Word)
+title: LeaderLines.Select method (Word)
 keywords: vbawd10.chm207749355
 f1_keywords:
 - vbawd10.chm207749355
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Select Method (Word)
+# LeaderLines.Select method (Word)
 
 Selects the object.
 

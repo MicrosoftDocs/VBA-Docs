@@ -1,5 +1,5 @@
 ---
-title: HPageBreaks.Count Property (Excel)
+title: HPageBreaks.Count property (Excel)
 keywords: vbaxl10.chm164073
 f1_keywords:
 - vbaxl10.chm164073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreaks.Count Property (Excel)
+# HPageBreaks.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

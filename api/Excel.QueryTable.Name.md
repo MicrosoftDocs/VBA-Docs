@@ -1,5 +1,5 @@
 ---
-title: QueryTable.Name Property (Excel)
+title: QueryTable.Name property (Excel)
 keywords: vbaxl10.chm518073
 f1_keywords:
 - vbaxl10.chm518073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.Name Property (Excel)
+# QueryTable.Name property (Excel)
 
 Returns or sets a  **String** value representing the name of the object.
 

@@ -1,5 +1,5 @@
 ---
-title: CubeField.Caption Property (Excel)
+title: CubeField.Caption property (Excel)
 keywords: vbaxl10.chm668102
 f1_keywords:
 - vbaxl10.chm668102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.Caption Property (Excel)
+# CubeField.Caption property (Excel)
 
 Returns a  **String** value that represents the label text for the cube field.
 

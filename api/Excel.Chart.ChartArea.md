@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartArea Property (Excel)
+title: Chart.ChartArea property (Excel)
 keywords: vbaxl10.chm149086
 f1_keywords:
 - vbaxl10.chm149086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartArea Property (Excel)
+# Chart.ChartArea property (Excel)
 
 Returns a  **[ChartArea](Excel.ChartArea(object).md)** object that represents the complete chart area for the chart. Read-only.
 

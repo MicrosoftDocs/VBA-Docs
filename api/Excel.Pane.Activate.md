@@ -1,5 +1,5 @@
 ---
-title: Pane.Activate Method (Excel)
+title: Pane.Activate method (Excel)
 keywords: vbaxl10.chm360073
 f1_keywords:
 - vbaxl10.chm360073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Activate Method (Excel)
+# Pane.Activate method (Excel)
 
 Activates the pane. 
 

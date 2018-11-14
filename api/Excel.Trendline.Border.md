@@ -1,5 +1,5 @@
 ---
-title: Trendline.Border Property (Excel)
+title: Trendline.Border property (Excel)
 keywords: vbaxl10.chm594075
 f1_keywords:
 - vbaxl10.chm594075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Border Property (Excel)
+# Trendline.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

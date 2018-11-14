@@ -1,5 +1,5 @@
 ---
-title: QueryTable.ResetTimer Method (Excel)
+title: QueryTable.ResetTimer method (Excel)
 keywords: vbaxl10.chm518121
 f1_keywords:
 - vbaxl10.chm518121
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.ResetTimer Method (Excel)
+# QueryTable.ResetTimer method (Excel)
 
 Resets the refresh timer for the specified query table or PivotTable report to the last interval you set using the  **[RefreshPeriod](Excel.QueryTable.RefreshPeriod.md)** property.
 

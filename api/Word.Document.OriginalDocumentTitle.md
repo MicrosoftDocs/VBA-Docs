@@ -1,5 +1,5 @@
 ---
-title: Document.OriginalDocumentTitle Property (Word)
+title: Document.OriginalDocumentTitle property (Word)
 keywords: vbawd10.chm158007815
 f1_keywords:
 - vbawd10.chm158007815
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OriginalDocumentTitle Property (Word)
+# Document.OriginalDocumentTitle property (Word)
 
 Returns a  **String** that represents the document title for the original document after running a legal-blackline document compare function. Read-only.
 

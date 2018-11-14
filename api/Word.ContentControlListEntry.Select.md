@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Select Method (Word)
+title: ContentControlListEntry.Select method (Word)
 keywords: vbawd10.chm147456109
 f1_keywords:
 - vbawd10.chm147456109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Select Method (Word)
+# ContentControlListEntry.Select method (Word)
 
 Selects the list entry in a drop-down list or combo box content control and sets the text of the content control to the value of the item.
 

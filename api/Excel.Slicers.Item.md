@@ -1,5 +1,5 @@
 ---
-title: Slicers.Item Property (Excel)
+title: Slicers.Item property (Excel)
 keywords: vbaxl10.chm903074
 f1_keywords:
 - vbaxl10.chm903074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicers.Item Property (Excel)
+# Slicers.Item property (Excel)
 
 Returns a  **[Slicer](Excel.Slicer.md)** object from the collection. Read-only.
 

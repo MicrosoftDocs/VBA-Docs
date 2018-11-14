@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Application Property (Word)
+title: Dictionary.Application property (Word)
 keywords: vbawd10.chm162333672
 f1_keywords:
 - vbawd10.chm162333672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.Application Property (Word)
+# Dictionary.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

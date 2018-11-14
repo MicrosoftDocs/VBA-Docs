@@ -1,5 +1,5 @@
 ---
-title: Selection.Start Property (Word)
+title: Selection.Start property (Word)
 keywords: vbawd10.chm158662659
 f1_keywords:
 - vbawd10.chm158662659
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Start Property (Word)
+# Selection.Start property (Word)
 
 Returns or sets the starting character position of a selection. Read/write  **Long** .
 

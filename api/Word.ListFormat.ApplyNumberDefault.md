@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ApplyNumberDefault Method (Word)
+title: ListFormat.ApplyNumberDefault method (Word)
 keywords: vbawd10.chm163578069
 f1_keywords:
 - vbawd10.chm163578069
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ApplyNumberDefault Method (Word)
+# ListFormat.ApplyNumberDefault method (Word)
 
 Adds the default numbering scheme to the paragraphs in the range for the specified  **ListFormat** object.
 

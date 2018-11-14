@@ -1,5 +1,5 @@
 ---
-title: Application.PutFocusInMailHeader Method (Word)
+title: Application.PutFocusInMailHeader method (Word)
 keywords: vbawd10.chm158335440
 f1_keywords:
 - vbawd10.chm158335440
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PutFocusInMailHeader Method (Word)
+# Application.PutFocusInMailHeader method (Word)
 
-Places the insertion point in the  **To**line of the mail header if the document in the active window is an e-mail document.
+Places the insertion point in the  **To**line of the mail header if the document in the active window is an email document.
 
 
 ## Syntax

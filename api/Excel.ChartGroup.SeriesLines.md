@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SeriesLines Property (Excel)
+title: ChartGroup.SeriesLines property (Excel)
 keywords: vbaxl10.chm568089
 f1_keywords:
 - vbaxl10.chm568089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SeriesLines Property (Excel)
+# ChartGroup.SeriesLines property (Excel)
 
 Returns a  **[SeriesLines](Excel.SeriesLines(object).md)** object that represents the series lines for a 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie chart. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.Style Property (Word)
+title: Range.Style property (Word)
 keywords: vbawd10.chm157155479
 f1_keywords:
 - vbawd10.chm157155479
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Style Property (Word)
+# Range.Style property (Word)
 
 Returns or sets the style for the specified object. Read/write  **Variant** .
 

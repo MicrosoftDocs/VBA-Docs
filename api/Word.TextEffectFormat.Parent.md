@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat.Parent Property (Word)
+title: TextEffectFormat.Parent property (Word)
 keywords: vbawd10.chm164560897
 f1_keywords:
 - vbawd10.chm164560897
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat.Parent Property (Word)
+# TextEffectFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TextEffectFormat** object.
 

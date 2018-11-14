@@ -1,5 +1,5 @@
 ---
-title: TimelineViewState.Parent Property (Excel)
+title: TimelineViewState.Parent property (Excel)
 keywords: vbaxl10.chm951075
 f1_keywords:
 - vbaxl10.chm951075
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineViewState.Parent Property (Excel)
+# TimelineViewState.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TimelineViewState Object (Excel)](Excel.timelineviewstate.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[TimelineViewState object (Excel)](Excel.timelineviewstate.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [TimelineViewState Object (Excel)](Excel.timelineviewstate.md) object.
+ _expression_ A variable that represents a [TimelineViewState object (Excel)](Excel.timelineviewstate.md) object.
 
 
 ## Property value

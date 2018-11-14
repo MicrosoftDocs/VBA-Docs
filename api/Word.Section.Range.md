@@ -1,5 +1,5 @@
 ---
-title: Section.Range Property (Word)
+title: Section.Range property (Word)
 keywords: vbawd10.chm156827648
 f1_keywords:
 - vbawd10.chm156827648
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Range Property (Word)
+# Section.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that's contained in the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: XlTickLabelOrientation Enumeration (Excel)
+title: xlTickLabelOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTickLabelOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTickLabelOrientation Enumeration (Excel)
+# xlTickLabelOrientation enumeration (Excel)
 
 Specifies the text orientation for tick-mark labels.
 

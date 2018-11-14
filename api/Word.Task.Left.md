@@ -1,5 +1,5 @@
 ---
-title: Task.Left Property (Word)
+title: Task.Left property (Word)
 keywords: vbawd10.chm159514625
 f1_keywords:
 - vbawd10.chm159514625
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Task.Left Property (Word)
+# Task.Left property (Word)
 
 Returns or sets a  **Long** that represents the horizontal position of the specified task, measured in points. Read/write.
 

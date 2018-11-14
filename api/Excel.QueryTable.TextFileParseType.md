@@ -1,5 +1,5 @@
 ---
-title: QueryTable.TextFileParseType Property (Excel)
+title: QueryTable.TextFileParseType property (Excel)
 keywords: vbaxl10.chm518100
 f1_keywords:
 - vbaxl10.chm518100
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.TextFileParseType Property (Excel)
+# QueryTable.TextFileParseType property (Excel)
 
-Returns or sets the column format for the data in the text file that you're importing into a query table. Read/write  **[XlTextParsingType](Excel.XlTextParsingType.md)** .
+Returns or sets the column format for the data in the text file that you are importing into a query table. Read/write  **[xlTextParsingType](Excel.XlTextParsingType.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the column format for the data in the text file that you're impo
 
 
 
-| **XlTextParsingType** can be one of these **XlTextParsingType** constants.|
+| **xlTextParsingType** can be one of these **xlTextParsingType** constants.|
 | **xlFixedWidth** . Indicates that the data in the file is arranged in columns of fixed widths.|
 | **xlDelimited**_default_ . Iindicates the file is delimited by delimiter characters|
 

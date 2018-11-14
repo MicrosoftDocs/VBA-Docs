@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FieldNames Property (Word)
+title: MailMergeDataSource.FieldNames property (Word)
 keywords: vbawd10.chm152895498
 f1_keywords:
 - vbawd10.chm152895498
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.FieldNames Property (Word)
+# MailMergeDataSource.FieldNames property (Word)
 
 Returns a  **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection that represents the names of all the fields in the specified mail merge data source. Read-only.
 

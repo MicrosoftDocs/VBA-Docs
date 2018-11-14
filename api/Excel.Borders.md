@@ -1,5 +1,5 @@
 ---
-title: Borders Object (Excel)
+title: Borders object (Excel)
 keywords: vbaxl10.chm180072
 f1_keywords:
 - vbaxl10.chm180072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders Object (Excel)
+# Borders object (Excel)
 
 A collection of four  **[Border](Excel.Border(object).md)** objects that represent the four borders of a **[Range](Excel.Range(object).md)** or **[Style](Excel.Style.md)** object.
 

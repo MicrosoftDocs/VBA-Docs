@@ -1,5 +1,5 @@
 ---
-title: EndnoteOptions.Application Property (Word)
+title: EndnoteOptions.Application property (Word)
 keywords: vbawd10.chm23593960
 f1_keywords:
 - vbawd10.chm23593960
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EndnoteOptions.Application Property (Word)
+# EndnoteOptions.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

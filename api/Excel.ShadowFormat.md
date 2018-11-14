@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (Excel)
+title: ShadowFormat object (Excel)
 keywords: vbaxl10.chm114000
 f1_keywords:
 - vbaxl10.chm114000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat Object (Excel)
+# ShadowFormat object (Excel)
 
 Represents shadow formatting for a shape.
 

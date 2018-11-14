@@ -1,5 +1,5 @@
 ---
-title: OMaths.BuildUp Method (Word)
+title: OMaths.BuildUp method (Word)
 keywords: vbawd10.chm122355913
 f1_keywords:
 - vbawd10.chm122355913
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMaths.BuildUp Method (Word)
+# OMaths.BuildUp method (Word)
 
 Converts all equations in the collection to professional format.
 

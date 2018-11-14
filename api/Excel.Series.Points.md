@@ -1,5 +1,5 @@
 ---
-title: Series.Points Method (Excel)
+title: Series.Points method (Excel)
 keywords: vbaxl10.chm578104
 f1_keywords:
 - vbaxl10.chm578104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Points Method (Excel)
+# Series.Points method (Excel)
 
 Returns an object that represents a single point (a  **[Point](Excel.Point(object).md)** object) or a collection of all the points (a **[Points](Excel.Points(object).md)** collection) in the series. Read-only
 

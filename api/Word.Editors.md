@@ -1,5 +1,5 @@
 ---
-title: Editors Object (Word)
+title: Editors object (Word)
 keywords: vbawd10.chm140
 f1_keywords:
 - vbawd10.chm140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editors Object (Word)
+# Editors object (Word)
 
 A collection of  **Editor** objects that represents a collection of users or groups of users who have been given specific permissions to edit portions of a document.
 

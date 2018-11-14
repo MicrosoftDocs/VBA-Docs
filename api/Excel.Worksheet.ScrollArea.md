@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ScrollArea Property (Excel)
+title: Worksheet.ScrollArea property (Excel)
 keywords: vbaxl10.chm175124
 f1_keywords:
 - vbaxl10.chm175124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ScrollArea Property (Excel)
+# Worksheet.ScrollArea property (Excel)
 
 Returns or sets the range where scrolling is allowed, as an A1-style range reference. Cells outside the scroll area cannot be selected. Read/write  **String** .
 

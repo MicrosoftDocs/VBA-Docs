@@ -1,5 +1,5 @@
 ---
-title: View.ExpandAllHeadings Method (Word)
+title: View.ExpandAllHeadings method (Word)
 keywords: vbawd10.chm161809491
 f1_keywords:
 - vbawd10.chm161809491
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ExpandAllHeadings Method (Word)
+# View.ExpandAllHeadings method (Word)
 
 Expands all the headings in the document.
 

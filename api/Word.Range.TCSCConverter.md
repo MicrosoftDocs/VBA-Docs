@@ -1,5 +1,5 @@
 ---
-title: Range.TCSCConverter Method (Word)
+title: Range.TCSCConverter method (Word)
 keywords: vbawd10.chm157155827
 f1_keywords:
 - vbawd10.chm157155827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TCSCConverter Method (Word)
+# Range.TCSCConverter method (Word)
 
 Converts the specified range from Traditional Chinese to Simplified Chinese or vice versa.
 

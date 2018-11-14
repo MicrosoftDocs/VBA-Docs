@@ -1,5 +1,5 @@
 ---
-title: Application.RTD Property (Excel)
+title: Application.RTD property (Excel)
 keywords: vbaxl10.chm133292
 f1_keywords:
 - vbaxl10.chm133292
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RTD Property (Excel)
+# Application.RTD property (Excel)
 
 Returns an  **[RTD](Excel.RTD.md)** object.
 

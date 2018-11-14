@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.SourceDataFile Property (Excel)
+title: DataFeedConnection.SourceDataFile property (Excel)
 keywords: vbaxl10.chm928085
 f1_keywords:
 - vbaxl10.chm928085
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.SourceDataFile Property (Excel)
+# DataFeedConnection.SourceDataFile property (Excel)
 
 A path to the original file used to create the connection. In the case of an OData connection, this is the location of the *.atom or *.atomsvc file used to create the connection.  **String** Read/Write
 
@@ -18,7 +18,7 @@ A path to the original file used to create the connection. In the case of an ODa
 
  _expression_. `SourceDataFile`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

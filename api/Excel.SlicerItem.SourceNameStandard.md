@@ -1,5 +1,5 @@
 ---
-title: SlicerItem.SourceNameStandard Property (Excel)
+title: SlicerItem.SourceNameStandard property (Excel)
 keywords: vbaxl10.chm907077
 f1_keywords:
 - vbaxl10.chm907077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem.SourceNameStandard Property (Excel)
+# SlicerItem.SourceNameStandard property (Excel)
 
 Returns the slicer item's source name in standard English (United States) format settings. Read-only
 

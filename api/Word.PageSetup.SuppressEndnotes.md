@@ -1,5 +1,5 @@
 ---
-title: PageSetup.SuppressEndnotes Property (Word)
+title: PageSetup.SuppressEndnotes property (Word)
 keywords: vbawd10.chm158400629
 f1_keywords:
 - vbawd10.chm158400629
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.SuppressEndnotes Property (Word)
+# PageSetup.SuppressEndnotes property (Word)
 
  **True** if endnotes are printed at the end of the next section that doesn't suppress endnotes. Read/write **Long** .
 

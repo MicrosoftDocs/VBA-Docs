@@ -1,5 +1,5 @@
 ---
-title: Field.Result Property (Word)
+title: Field.Result property (Word)
 keywords: vbawd10.chm154075140
 f1_keywords:
 - vbawd10.chm154075140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Result Property (Word)
+# Field.Result property (Word)
 
 Returns a  **Range** object that represents a field's result. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.ViewMailMergeFieldCodes Property (Word)
+title: MailMerge.ViewMailMergeFieldCodes property (Word)
 keywords: vbawd10.chm153092102
 f1_keywords:
 - vbawd10.chm153092102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.ViewMailMergeFieldCodes Property (Word)
+# MailMerge.ViewMailMergeFieldCodes property (Word)
 
  **True** if merge field names are displayed in a mail merge main document. **False** if information from the current record is displayed. Read/write **Long** .
 

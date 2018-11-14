@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GeoMean Method (Excel)
+title: WorksheetFunction.GeoMean method (Excel)
 keywords: vbaxl10.chm137223
 f1_keywords:
 - vbaxl10.chm137223
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.GeoMean Method (Excel)
+# WorksheetFunction.GeoMean method (Excel)
 
 Returns the geometric mean of an array or range of positive data. For example, you can use GEOMEAN to calculate average growth rate given compound interest with variable rates.
 

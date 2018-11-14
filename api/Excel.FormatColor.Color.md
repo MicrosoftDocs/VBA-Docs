@@ -1,5 +1,5 @@
 ---
-title: FormatColor.Color Property (Excel)
+title: FormatColor.Color property (Excel)
 keywords: vbaxl10.chm802073
 f1_keywords:
 - vbaxl10.chm802073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormatColor.Color Property (Excel)
+# FormatColor.Color property (Excel)
 
 Returns or sets the fill color associated with a threshold for a data bar or color scale conditional formatting rule.
 

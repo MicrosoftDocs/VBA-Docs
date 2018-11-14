@@ -1,5 +1,5 @@
 ---
-title: Broadcast.SessionID Property (Word)
+title: Broadcast.SessionID property (Word)
 keywords: vbawd10.chm36438021
 f1_keywords:
 - vbawd10.chm36438021
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.SessionID Property (Word)
+# Broadcast.SessionID property (Word)
 
 If a broadcast is in progress, returns a  **String** that specifies the ID of the session. Read-only.
 

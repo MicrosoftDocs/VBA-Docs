@@ -1,5 +1,5 @@
 ---
-title: WdVisualSelection Enumeration (Word)
+title: WdVisualSelection enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdVisualSelection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdVisualSelection Enumeration (Word)
+# WdVisualSelection enumeration (Word)
 
 Specifies the selection behavior based on visual cursor movement in a right-to-left language document.
 

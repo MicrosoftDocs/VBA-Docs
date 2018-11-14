@@ -1,5 +1,5 @@
 ---
-title: Application.ShowSelectionFloaties Property (Excel)
+title: Application.ShowSelectionFloaties property (Excel)
 keywords: vbaxl10.chm133299
 f1_keywords:
 - vbaxl10.chm133299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowSelectionFloaties Property (Excel)
+# Application.ShowSelectionFloaties property (Excel)
 
 Returns or sets a  **Boolean** that represents whether **Mini toolbars** displays when a user selects text. **False** if **Mini toolbars** are displayed. Read/write **Boolean** .
 

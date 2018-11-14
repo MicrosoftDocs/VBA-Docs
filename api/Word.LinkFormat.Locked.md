@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Locked Property (Word)
+title: LinkFormat.Locked property (Word)
 keywords: vbawd10.chm154206221
 f1_keywords:
 - vbawd10.chm154206221
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Locked Property (Word)
+# LinkFormat.Locked property (Word)
 
  **True** if a **Field** , **InlineShape** , or **Shape** object is locked to prevent automatic updating. Read/write **Boolean** .
 

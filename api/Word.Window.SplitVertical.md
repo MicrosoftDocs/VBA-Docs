@@ -1,5 +1,5 @@
 ---
-title: Window.SplitVertical Property (Word)
+title: Window.SplitVertical property (Word)
 keywords: vbawd10.chm157417482
 f1_keywords:
 - vbawd10.chm157417482
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SplitVertical Property (Word)
+# Window.SplitVertical property (Word)
 
 Returns or sets the vertical split percentage for the specified window. Read/write  **Long** .
 

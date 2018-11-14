@@ -1,5 +1,5 @@
 ---
-title: Rectangles Object (Word)
+title: Rectangles object (Word)
 ms.prod: word
 api_name:
 - Word.Rectangles
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangles Object (Word)
+# Rectangles object (Word)
 
 A collection of  **Rectangle** objects in a page that represent portions of text and graphics. Use the **Rectangles** collection and related objects and properties for programmatically defining page layout in a document.
 

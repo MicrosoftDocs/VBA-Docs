@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.Delete Method (Excel)
+title: ModelMeasure.Delete method (Excel)
 keywords: vbaxl10.chm978078
 f1_keywords:
 - vbaxl10.chm978078
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.Delete Method (Excel)
+# ModelMeasure.Delete method (Excel)
 
 Deletes the model measure from the data model.
 

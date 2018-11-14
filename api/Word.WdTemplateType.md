@@ -1,5 +1,5 @@
 ---
-title: WdTemplateType Enumeration (Word)
+title: WdTemplateType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdTemplateType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdTemplateType Enumeration (Word)
+# WdTemplateType enumeration (Word)
 
 Specifies the type of template.
 

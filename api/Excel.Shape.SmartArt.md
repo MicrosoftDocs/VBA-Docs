@@ -1,5 +1,5 @@
 ---
-title: Shape.SmartArt Property (Excel)
+title: Shape.SmartArt property (Excel)
 keywords: vbaxl10.chm636155
 f1_keywords:
 - vbaxl10.chm636155
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.SmartArt Property (Excel)
+# Shape.SmartArt property (Excel)
 
 Returns an object that represents the SmartArt associated with the shape. Read-only
 

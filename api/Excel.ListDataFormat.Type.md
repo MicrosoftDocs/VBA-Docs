@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.Type Property (Excel)
+title: ListDataFormat.Type property (Excel)
 keywords: vbaxl10.chm758083
 f1_keywords:
 - vbaxl10.chm758083
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.Type Property (Excel)
+# ListDataFormat.Type property (Excel)
 
-Returns an  **[XlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
+Returns an  **[xlListDataType](Excel.XlListDataType.md)** value that represents the data type of the list column.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Document.ConvertVietDoc Method (Word)
+title: Document.ConvertVietDoc method (Word)
 keywords: vbawd10.chm158007743
 f1_keywords:
 - vbawd10.chm158007743
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ConvertVietDoc Method (Word)
+# Document.ConvertVietDoc method (Word)
 
 Reconverts a Vietnamese document to Unicode using a code page other than the default.
 

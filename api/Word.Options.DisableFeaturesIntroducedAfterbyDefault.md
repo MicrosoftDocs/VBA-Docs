@@ -1,5 +1,5 @@
 ---
-title: Options.DisableFeaturesIntroducedAfterbyDefault Property (Word)
+title: Options.DisableFeaturesIntroducedAfterbyDefault property (Word)
 keywords: vbawd10.chm162988469
 f1_keywords:
 - vbawd10.chm162988469
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DisableFeaturesIntroducedAfterbyDefault Property (Word)
+# Options.DisableFeaturesIntroducedAfterbyDefault property (Word)
 
 Disables all features introduced after a the specified version for all documents. Read/write  **WdDisableFeaturesIntroducedAfter** .
 

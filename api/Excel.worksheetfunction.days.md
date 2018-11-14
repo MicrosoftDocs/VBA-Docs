@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Days Method (Excel)
+title: WorksheetFunction.Days method (Excel)
 keywords: vbaxl10.chm137446
 f1_keywords:
 - vbaxl10.chm137446
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Days Method (Excel)
+# WorksheetFunction.Days method (Excel)
 
 Returns the number of days between the two dates.
 
@@ -18,14 +18,14 @@ Returns the number of days between the two dates.
 
  _expression_. `Days`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|
 | _Arg2_|Required|VARIANT|start_date(Arg2) and end_date (Arg1) are the two dates between which you want to know the number of days.|

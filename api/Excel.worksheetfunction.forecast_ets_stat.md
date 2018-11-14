@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Forecast_ETS_STAT Method (Excel)
+title: WorksheetFunction.Forecast_ETS_STAT method (Excel)
 keywords: vbaxl10.chm137472
 f1_keywords:
 - vbaxl10.chm137472
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorksheetFunction.Forecast_ETS_STAT Method (Excel)
+# WorksheetFunction.Forecast_ETS_STAT method (Excel)
 
 Returns a statistical value as a result of time series forecasting.
 

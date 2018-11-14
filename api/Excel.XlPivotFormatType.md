@@ -1,5 +1,5 @@
 ---
-title: XlPivotFormatType Enumeration (Excel)
+title: xlPivotFormatType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFormatType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotFormatType Enumeration (Excel)
+# xlPivotFormatType enumeration (Excel)
 
 Specifies the type of report formatting to be applied to the specified PivotTable report.
 

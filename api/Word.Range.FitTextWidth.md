@@ -1,5 +1,5 @@
 ---
-title: Range.FitTextWidth Property (Word)
+title: Range.FitTextWidth property (Word)
 keywords: vbawd10.chm157155592
 f1_keywords:
 - vbawd10.chm157155592
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.FitTextWidth Property (Word)
+# Range.FitTextWidth property (Word)
 
 Returns or sets the width (in the current measurement units) in which Microsoft Word fits the text in the current selection or range. Read/write  **Single** .
 

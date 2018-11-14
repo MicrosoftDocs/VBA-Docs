@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaR1C1Local Property (Word)
+title: DataLabel.FormulaR1C1Local property (Word)
 keywords: vbawd10.chm233900018
 f1_keywords:
 - vbawd10.chm233900018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.FormulaR1C1Local Property (Word)
+# DataLabel.FormulaR1C1Local property (Word)
 
 Returns or sets the formula for the object, using R1C1-style notation in the language of the user. Read/write  **String** .
 

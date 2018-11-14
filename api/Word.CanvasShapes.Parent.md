@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Parent Property (Word)
+title: CanvasShapes.Parent property (Word)
 keywords: vbawd10.chm7536641
 f1_keywords:
 - vbawd10.chm7536641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.Parent Property (Word)
+# CanvasShapes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CanvasShapes** object.
 

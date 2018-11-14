@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.Caption Property (Word)
+title: TableOfFigures.Caption property (Word)
 keywords: vbawd10.chm153157633
 f1_keywords:
 - vbawd10.chm153157633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.Caption Property (Word)
+# TableOfFigures.Caption property (Word)
 
 Returns or sets the label that identifies the items to be included in a table of figures. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship.Active Property (Excel)
+title: ModelRelationship.Active property (Excel)
 keywords: vbaxl10.chm938077
 f1_keywords:
 - vbaxl10.chm938077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship.Active Property (Excel)
+# ModelRelationship.Active property (Excel)
 
 When  **True** , the relationship is active. When **False** , this relationship is inactive. **Boolean** . Read/Write
 
@@ -18,7 +18,7 @@ When  **True** , the relationship is active. When **False** , this relationship 
 
  _expression_. `Active`
 
- _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

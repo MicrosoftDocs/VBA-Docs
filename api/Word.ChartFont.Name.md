@@ -1,5 +1,5 @@
 ---
-title: ChartFont.Name Property (Word)
+title: ChartFont.Name property (Word)
 keywords: vbawd10.chm255918092
 f1_keywords:
 - vbawd10.chm255918092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFont.Name Property (Word)
+# ChartFont.Name property (Word)
 
 Returns or sets the name of the object. Read/write  **String** .
 

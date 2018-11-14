@@ -1,5 +1,5 @@
 ---
-title: Application.GetOpenFilename Method (Excel)
+title: Application.GetOpenFilename method (Excel)
 keywords: vbaxl10.chm133142
 f1_keywords:
 - vbaxl10.chm133142
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetOpenFilename Method (Excel)
+# Application.GetOpenFilename method (Excel)
 
 Displays the standard  **Open** dialog box and gets a file name from the user without actually opening any files.
 

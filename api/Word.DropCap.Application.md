@@ -1,5 +1,5 @@
 ---
-title: DropCap.Application Property (Word)
+title: DropCap.Application property (Word)
 keywords: vbawd10.chm156632040
 f1_keywords:
 - vbawd10.chm156632040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.Application Property (Word)
+# DropCap.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

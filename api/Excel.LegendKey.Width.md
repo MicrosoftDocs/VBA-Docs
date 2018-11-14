@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Width Property (Excel)
+title: LegendKey.Width property (Excel)
 keywords: vbaxl10.chm590092
 f1_keywords:
 - vbaxl10.chm590092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Width Property (Excel)
+# LegendKey.Width property (Excel)
 
 Returns a  **Double** value that represents the width, in points, of the object.
 

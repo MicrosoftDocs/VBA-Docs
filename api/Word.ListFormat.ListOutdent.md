@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListOutdent Method (Word)
+title: ListFormat.ListOutdent method (Word)
 keywords: vbawd10.chm163578066
 f1_keywords:
 - vbawd10.chm163578066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListOutdent Method (Word)
+# ListFormat.ListOutdent method (Word)
 
 Decreases the list level of the paragraphs in the range for the specified  **ListFormat** object, in increments of one level.
 

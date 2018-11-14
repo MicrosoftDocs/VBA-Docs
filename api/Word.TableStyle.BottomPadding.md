@@ -1,5 +1,5 @@
 ---
-title: TableStyle.BottomPadding Property (Word)
+title: TableStyle.BottomPadding property (Word)
 keywords: vbawd10.chm244776964
 f1_keywords:
 - vbawd10.chm244776964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.BottomPadding Property (Word)
+# TableStyle.BottomPadding property (Word)
 
 Returns or sets the amount of space (in points) to add below the contents of a single cell or all the cells in a table. Read/write  **Single** .
 

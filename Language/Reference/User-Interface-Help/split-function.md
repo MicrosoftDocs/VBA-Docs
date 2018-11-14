@@ -19,7 +19,7 @@ Returns a zero-based, one-dimensional [array](../../Glossary/vbe-glossary.md#arr
 
 The **Split** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing substrings and delimiters. If _expression_ is a zero-length string(""), **Split** returns an empty array, that is, an array with no elements and no data.|
 |**_delimiter_**|Optional. String character used to identify substring limits. If omitted, the space character (" ") is assumed to be the delimiter. If **_delimiter_** is a zero-length string, a single-element array containing the entire **_expression_** string is returned.|
@@ -30,7 +30,7 @@ The **Split** function syntax has these [named arguments](../../Glossary/vbe-glo
 
 The **_compare_** argument can have the following values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|

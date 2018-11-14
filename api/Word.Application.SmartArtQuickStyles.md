@@ -1,5 +1,5 @@
 ---
-title: Application.SmartArtQuickStyles Property (Word)
+title: Application.SmartArtQuickStyles property (Word)
 keywords: vbawd10.chm158335458
 f1_keywords:
 - vbawd10.chm158335458
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SmartArtQuickStyles Property (Word)
+# Application.SmartArtQuickStyles property (Word)
 
 Returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object that represents the set of SmartArt styles that are currently loaded in the application. Read-only.
 

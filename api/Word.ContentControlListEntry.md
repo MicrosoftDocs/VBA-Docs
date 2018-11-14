@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry Object (Word)
+title: ContentControlListEntry object (Word)
 keywords: vbawd10.chm2250
 f1_keywords:
 - vbawd10.chm2250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry Object (Word)
+# ContentControlListEntry object (Word)
 
 A  **ContentControlListEntry** object represents a list item in a drop-down list or combo box content control. A **ContentControlListEntry** object is a member of the **[ContentControlListEntries](Word.ContentControlListEntries.md)** collection for a **ContentControl** object.
 

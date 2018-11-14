@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Format Property (Excel)
+title: DisplayUnitLabel.Format property (Excel)
 keywords: vbaxl10.chm673092
 f1_keywords:
 - vbaxl10.chm673092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Format Property (Excel)
+# DisplayUnitLabel.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

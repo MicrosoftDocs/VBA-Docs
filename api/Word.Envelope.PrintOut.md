@@ -1,5 +1,5 @@
 ---
-title: Envelope.PrintOut Method (Word)
+title: Envelope.PrintOut method (Word)
 keywords: vbawd10.chm152567914
 f1_keywords:
 - vbawd10.chm152567914
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.PrintOut Method (Word)
+# Envelope.PrintOut method (Word)
 
 Prints an envelope without adding the envelope to the active document.
 

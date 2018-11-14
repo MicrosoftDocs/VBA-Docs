@@ -1,5 +1,5 @@
 ---
-title: Point.Paste Method (Excel)
+title: Point.Paste method (Excel)
 keywords: vbaxl10.chm576090
 f1_keywords:
 - vbaxl10.chm576090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Paste Method (Excel)
+# Point.Paste method (Excel)
 
 Pastes a picture from the Clipboard as the marker on the selected point.
 

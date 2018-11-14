@@ -1,5 +1,5 @@
 ---
-title: Application.ExecuteExcel4Macro Method (Excel)
+title: Application.ExecuteExcel4Macro method (Excel)
 keywords: vbaxl10.chm132097
 f1_keywords:
 - vbaxl10.chm132097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ExecuteExcel4Macro Method (Excel)
+# Application.ExecuteExcel4Macro method (Excel)
 
 Runs a Microsoft Excel 4.0 macro function and then returns the result of the function. The return type depends on the function.
 

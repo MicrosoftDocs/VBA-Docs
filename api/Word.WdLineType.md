@@ -1,5 +1,5 @@
 ---
-title: WdLineType Enumeration (Word)
+title: WdLineType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLineType Enumeration (Word)
+# WdLineType enumeration (Word)
 
 Specifies whether a line is a line of text or a table row.
 

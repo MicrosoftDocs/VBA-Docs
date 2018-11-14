@@ -1,5 +1,5 @@
 ---
-title: Chart.ProtectData Property (Excel)
+title: Chart.ProtectData property (Excel)
 keywords: vbaxl10.chm149158
 f1_keywords:
 - vbaxl10.chm149158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ProtectData Property (Excel)
+# Chart.ProtectData property (Excel)
 
  **True** if series formulas cannot be modified by the user. Read/write **Boolean** .
 

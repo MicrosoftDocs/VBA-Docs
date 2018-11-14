@@ -1,5 +1,5 @@
 ---
-title: Borders.Item Property (Excel)
+title: Borders.Item property (Excel)
 keywords: vbaxl10.chm181076
 f1_keywords:
 - vbaxl10.chm181076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Item Property (Excel)
+# Borders.Item property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents one of the borders of either a range of cells or a style.
 
@@ -29,7 +29,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents one of t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **XlBordersIndex**|One of the constants of  **XlBordersIndex** .|
+| _Index_|Required| **xlBordersIndex**|One of the constants of  **xlBordersIndex** .|
 
 ## Remarks
 
@@ -37,7 +37,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents one of t
 
 
 
-| **XlBordersIndex** can be one of these **XlBordersIndex** constants.|
+| **xlBordersIndex** can be one of these **xlBordersIndex** constants.|
 | **xlDiagonalDown**|
 | **xlDiagonalUp**|
 | **xlEdgeBottom**|

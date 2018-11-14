@@ -1,5 +1,5 @@
 ---
-title: Bibliography.BibliographyStyle Property (Word)
+title: Bibliography.BibliographyStyle property (Word)
 keywords: vbawd10.chm101646441
 f1_keywords:
 - vbawd10.chm101646441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bibliography.BibliographyStyle Property (Word)
+# Bibliography.BibliographyStyle property (Word)
 
 Returns or sets a  **String** that represents the name of the active style to use for a bibliography. Read/write.
 

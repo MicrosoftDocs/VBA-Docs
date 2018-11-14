@@ -15,7 +15,7 @@ Values for various properties of a Microsoft Visio master.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAutomatic**|1|Generate icon automatically from shape data.|
 | **visCenter**|2|Master name center-aligned.|

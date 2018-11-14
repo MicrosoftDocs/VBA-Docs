@@ -1,5 +1,5 @@
 ---
-title: Shape.BottomRightCell Property (Excel)
+title: Shape.BottomRightCell property (Excel)
 keywords: vbaxl10.chm636123
 f1_keywords:
 - vbaxl10.chm636123
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.BottomRightCell Property (Excel)
+# Shape.BottomRightCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the lower-right corner of the object. Read-only.
 

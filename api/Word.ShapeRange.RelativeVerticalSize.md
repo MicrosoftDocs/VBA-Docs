@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.RelativeVerticalSize Property (Word)
+title: ShapeRange.RelativeVerticalSize property (Word)
 keywords: vbawd10.chm162857165
 f1_keywords:
 - vbawd10.chm162857165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.RelativeVerticalSize Property (Word)
+# ShapeRange.RelativeVerticalSize property (Word)
 
 Returns or sets a  **[WdRelativeVerticalSize](Word.WdRelativeVerticalSize.md)** constant that represents the object to which a range of shapes is relative. Read/write.
 

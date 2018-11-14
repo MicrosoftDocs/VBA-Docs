@@ -1,5 +1,5 @@
 ---
-title: Frameset.Type Property (Word)
+title: Frameset.Type property (Word)
 keywords: vbawd10.chm165806080
 f1_keywords:
 - vbawd10.chm165806080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.Type Property (Word)
+# Frameset.Type property (Word)
 
 Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFramesetType.md)** .
 

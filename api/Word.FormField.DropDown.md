@@ -1,5 +1,5 @@
 ---
-title: FormField.DropDown Property (Word)
+title: FormField.DropDown property (Word)
 keywords: vbawd10.chm153616397
 f1_keywords:
 - vbawd10.chm153616397
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.DropDown Property (Word)
+# FormField.DropDown property (Word)
 
 Returns a  **[DropDown](Word.DropDown.md)** object that represents a drop-down form field. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.MarginLeft Property (Excel)
+title: TextFrame2.MarginLeft property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.MarginLeft
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.MarginLeft Property (Excel)
+# TextFrame2.MarginLeft property (Excel)
 
 Returns or sets the distance (in points) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

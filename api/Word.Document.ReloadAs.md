@@ -1,5 +1,5 @@
 ---
-title: Document.ReloadAs Method (Word)
+title: Document.ReloadAs method (Word)
 keywords: vbawd10.chm158007627
 f1_keywords:
 - vbawd10.chm158007627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReloadAs Method (Word)
+# Document.ReloadAs method (Word)
 
 Reloads a document based on an HTML document, using the specified document encoding.
 

@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat Object (Word)
+title: ShadowFormat object (Word)
 keywords: vbawd10.chm2508
 f1_keywords:
 - vbawd10.chm2508
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat Object (Word)
+# ShadowFormat object (Word)
 
 Represents shadow formatting for a shape.
 

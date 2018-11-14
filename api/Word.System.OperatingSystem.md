@@ -1,5 +1,5 @@
 ---
-title: System.OperatingSystem Property (Word)
+title: System.OperatingSystem property (Word)
 keywords: vbawd10.chm154468353
 f1_keywords:
 - vbawd10.chm154468353
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.OperatingSystem Property (Word)
+# System.OperatingSystem property (Word)
 
 Returns the name of the current operating system (for example, "Windows" or "Windows NT"). Read-only  **String** .
 

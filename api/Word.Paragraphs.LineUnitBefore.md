@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.LineUnitBefore Property (Word)
+title: Paragraphs.LineUnitBefore property (Word)
 keywords: vbawd10.chm156762241
 f1_keywords:
 - vbawd10.chm156762241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.LineUnitBefore Property (Word)
+# Paragraphs.LineUnitBefore property (Word)
 
 Returns or sets the amount of spacing (in gridlines) before the specified paragraphs. Read/write  **Single** .
 

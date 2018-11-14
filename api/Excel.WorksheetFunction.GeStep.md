@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.GeStep Method (Excel)
+title: WorksheetFunction.GeStep method (Excel)
 keywords: vbaxl10.chm137296
 f1_keywords:
 - vbaxl10.chm137296
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.GeStep Method (Excel)
+# WorksheetFunction.GeStep method (Excel)
 
 Returns 1 if number ? step; returns 0 (zero) otherwise. Use this function to filter a set of values. For example, by summing several GESTEP functions you calculate the count of values that exceed a threshold.
 

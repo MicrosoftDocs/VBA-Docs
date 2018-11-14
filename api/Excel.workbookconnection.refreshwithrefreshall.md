@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.RefreshWithRefreshAll Property (Excel)
+title: WorkbookConnection.RefreshWithRefreshAll property (Excel)
 keywords: vbaxl10.chm774084
 f1_keywords:
 - vbaxl10.chm774084
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.RefreshWithRefreshAll Property (Excel)
+# WorkbookConnection.RefreshWithRefreshAll property (Excel)
 
 Determines if the connection should be refreshed when refresh all is executed.  **Boolean** . Read/Write
 

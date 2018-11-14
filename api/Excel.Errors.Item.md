@@ -1,5 +1,5 @@
 ---
-title: Errors.Item Property (Excel)
+title: Errors.Item property (Excel)
 keywords: vbaxl10.chm700073
 f1_keywords:
 - vbaxl10.chm700073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Errors.Item Property (Excel)
+# Errors.Item property (Excel)
 
 Returns a single member of the  **[Error](Excel.Error.md)** object.
 

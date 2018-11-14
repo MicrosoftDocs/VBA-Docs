@@ -1,5 +1,5 @@
 ---
-title: Range.Hyperlinks Property (Excel)
+title: Range.Hyperlinks property (Excel)
 keywords: vbaxl10.chm144228
 f1_keywords:
 - vbaxl10.chm144228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Hyperlinks Property (Excel)
+# Range.Hyperlinks property (Excel)
 
 Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the range.
 

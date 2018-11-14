@@ -1,5 +1,5 @@
 ---
-title: Document.CustomDocumentProperties Property (Word)
+title: Document.CustomDocumentProperties property (Word)
 keywords: vbawd10.chm158007298
 f1_keywords:
 - vbawd10.chm158007298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CustomDocumentProperties Property (Word)
+# Document.CustomDocumentProperties property (Word)
 
 Returns a  **DocumentProperties** collection that represents all the custom document properties for the specified document.
 

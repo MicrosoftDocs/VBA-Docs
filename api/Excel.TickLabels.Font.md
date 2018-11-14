@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Font Property (Excel)
+title: TickLabels.Font property (Excel)
 keywords: vbaxl10.chm616075
 f1_keywords:
 - vbaxl10.chm616075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Font Property (Excel)
+# TickLabels.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

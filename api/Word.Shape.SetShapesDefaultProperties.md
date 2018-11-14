@@ -1,5 +1,5 @@
 ---
-title: Shape.SetShapesDefaultProperties Method (Word)
+title: Shape.SetShapesDefaultProperties method (Word)
 keywords: vbawd10.chm161480726
 f1_keywords:
 - vbawd10.chm161480726
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.SetShapesDefaultProperties Method (Word)
+# Shape.SetShapesDefaultProperties method (Word)
 
 Applies the formatting of the default shape for a document to the specified shape.
 

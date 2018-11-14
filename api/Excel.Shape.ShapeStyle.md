@@ -1,5 +1,5 @@
 ---
-title: Shape.ShapeStyle Property (Excel)
+title: Shape.ShapeStyle property (Excel)
 keywords: vbaxl10.chm636149
 f1_keywords:
 - vbaxl10.chm636149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ShapeStyle Property (Excel)
+# Shape.ShapeStyle property (Excel)
 
 Returns or sets an  **[MsoShapeStyleIndex](./Office.MsoShapeStyleIndex.md)** that represents the shape style of shape range. Read/write.
 

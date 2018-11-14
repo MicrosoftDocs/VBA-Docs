@@ -1,5 +1,5 @@
 ---
-title: Selection.Paste Method (Word)
+title: Selection.Paste method (Word)
 keywords: vbawd10.chm158662777
 f1_keywords:
 - vbawd10.chm158662777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Paste Method (Word)
+# Selection.Paste method (Word)
 
 Inserts the contents of the Clipboard at the specified selection.
 

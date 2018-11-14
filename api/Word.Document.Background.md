@@ -1,5 +1,5 @@
 ---
-title: Document.Background Property (Word)
+title: Document.Background property (Word)
 keywords: vbawd10.chm158007365
 f1_keywords:
 - vbawd10.chm158007365
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Background Property (Word)
+# Document.Background property (Word)
 
 Returns a  **Shape** object that represents the background image for the specified document. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.ArabicModes Property (Excel)
+title: SpellingOptions.ArabicModes property (Excel)
 keywords: vbaxl10.chm717084
 f1_keywords:
 - vbaxl10.chm717084
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.ArabicModes Property (Excel)
+# SpellingOptions.ArabicModes property (Excel)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabicModes](Excel.XlArabicModes.md)** .
+Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabicModes](Excel.XlArabicModes.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **[XlArabi
 
 
 
-| **XlArabicModes** can be one of these **XlArabicModes** constants.|
+| **xlArabicModes** can be one of these **xlArabicModes** constants.|
 | **xlArabicNone** . The spelling checker ignores spelling rules regarding either Arabic words ending with the letter yaa or Arabic words beginning with an alef hamza.|
 | **xlArabicBothStrict** . The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|
 | **xlArabicStrictAlefHamza** . The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|

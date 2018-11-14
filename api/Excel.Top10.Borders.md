@@ -1,5 +1,5 @@
 ---
-title: Top10.Borders Property (Excel)
+title: Top10.Borders property (Excel)
 keywords: vbaxl10.chm822080
 f1_keywords:
 - vbaxl10.chm822080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.Borders Property (Excel)
+# Top10.Borders property (Excel)
 
 Returns a  **[Borders](Excel.Borders.md)** collection that specifies the formatting of cell borders if the conditional formatting rule evaluates to **True** . Read-only.
 

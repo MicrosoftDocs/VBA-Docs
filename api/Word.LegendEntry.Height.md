@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Height Property (Word)
+title: LegendEntry.Height property (Word)
 keywords: vbawd10.chm4784251
 f1_keywords:
 - vbawd10.chm4784251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Height Property (Word)
+# LegendEntry.Height property (Word)
 
 Returns the height, in points, of the object. Read-only  **Double** .
 

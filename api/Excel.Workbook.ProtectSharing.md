@@ -1,5 +1,5 @@
 ---
-title: Workbook.ProtectSharing Method (Excel)
+title: Workbook.ProtectSharing method (Excel)
 keywords: vbaxl10.chm199265
 f1_keywords:
 - vbaxl10.chm199265
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ProtectSharing Method (Excel)
+# Workbook.ProtectSharing method (Excel)
 
 Saves the workbook and protects it for sharing.
 

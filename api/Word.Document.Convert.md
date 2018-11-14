@@ -1,5 +1,5 @@
 ---
-title: Document.Convert Method (Word)
+title: Document.Convert method (Word)
 keywords: vbawd10.chm158007857
 f1_keywords:
 - vbawd10.chm158007857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Convert Method (Word)
+# Document.Convert method (Word)
 
 Converts file to the newest file format and enables all new features.
 

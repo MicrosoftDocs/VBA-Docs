@@ -1,5 +1,5 @@
 ---
-title: ODBCConnection.Refreshing Property (Excel)
+title: ODBCConnection.Refreshing property (Excel)
 keywords: vbaxl10.chm796081
 f1_keywords:
 - vbaxl10.chm796081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCConnection.Refreshing Property (Excel)
+# ODBCConnection.Refreshing property (Excel)
 
  **True** if a background ODBC query is in progress for the specified ODBC connection. Read/write **Boolean** .
 

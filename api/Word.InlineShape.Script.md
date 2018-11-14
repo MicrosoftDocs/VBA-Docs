@@ -1,5 +1,5 @@
 ---
-title: InlineShape.Script Property (Word)
+title: InlineShape.Script property (Word)
 keywords: vbawd10.chm162005114
 f1_keywords:
 - vbawd10.chm162005114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.Script Property (Word)
+# InlineShape.Script property (Word)
 
 Returns a  **Script** object, which represents a block of script or code associated with an image on the specified Web page.
 

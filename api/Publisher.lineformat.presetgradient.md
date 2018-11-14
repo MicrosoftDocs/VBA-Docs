@@ -22,7 +22,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 |Style|Required|MSOGRADIENTSTYLE||

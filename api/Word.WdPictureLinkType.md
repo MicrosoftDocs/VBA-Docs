@@ -1,5 +1,5 @@
 ---
-title: WdPictureLinkType Enumeration (Word)
+title: WdPictureLinkType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPictureLinkType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPictureLinkType Enumeration (Word)
+# WdPictureLinkType enumeration (Word)
 
 Specifies how a picture should be linked to a document.
 

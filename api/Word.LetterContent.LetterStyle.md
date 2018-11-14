@@ -1,5 +1,5 @@
 ---
-title: LetterContent.LetterStyle Property (Word)
+title: LetterContent.LetterStyle property (Word)
 keywords: vbawd10.chm161546344
 f1_keywords:
 - vbawd10.chm161546344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.LetterStyle Property (Word)
+# LetterContent.LetterStyle property (Word)
 
 Returns or sets the layout of a letter created by the Letter Wizard. Read/write  **WdLetterStyle** .
 

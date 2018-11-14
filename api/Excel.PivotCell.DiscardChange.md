@@ -1,5 +1,5 @@
 ---
-title: PivotCell.DiscardChange Method (Excel)
+title: PivotCell.DiscardChange method (Excel)
 keywords: vbaxl10.chm692086
 f1_keywords:
 - vbaxl10.chm692086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.DiscardChange Method (Excel)
+# PivotCell.DiscardChange method (Excel)
 
 Discards changes to the specified cell in a PivotTable report.
 

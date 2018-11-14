@@ -1,5 +1,5 @@
 ---
-title: Series.XValues Property (Excel)
+title: Series.XValues property (Excel)
 keywords: vbaxl10.chm578112
 f1_keywords:
 - vbaxl10.chm578112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.XValues Property (Excel)
+# Series.XValues property (Excel)
 
 Returns or sets an array of x values for a chart series. The  **XValues** property can be set to a range on a worksheet or to an array of values, but it cannot be a combination of both. Read/write **Variant** .
 

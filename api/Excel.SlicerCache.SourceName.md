@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.SourceName Property (Excel)
+title: SlicerCache.SourceName property (Excel)
 keywords: vbaxl10.chm897086
 f1_keywords:
 - vbaxl10.chm897086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.SourceName Property (Excel)
+# SlicerCache.SourceName property (Excel)
 
 Returns the name of the data source the slicer is connected to. Read-only
 

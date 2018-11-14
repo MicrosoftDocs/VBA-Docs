@@ -1,5 +1,5 @@
 ---
-title: OMathMat.RowSpacing Property (Word)
+title: OMathMat.RowSpacing property (Word)
 keywords: vbawd10.chm176029805
 f1_keywords:
 - vbawd10.chm176029805
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMat.RowSpacing Property (Word)
+# OMathMat.RowSpacing property (Word)
 
 Returns or sets a  **Long** that represents the spacing for rows in a matrix. Read/write.
 

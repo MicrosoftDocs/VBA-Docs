@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FitToPagesTall Property (Excel)
+title: PageSetup.FitToPagesTall property (Excel)
 keywords: vbaxl10.chm473082
 f1_keywords:
 - vbaxl10.chm473082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.FitToPagesTall Property (Excel)
+# PageSetup.FitToPagesTall property (Excel)
 
 Returns or sets the number of pages tall the worksheet will be scaled to when it's printed. Applies only to worksheets. Read/write  **Variant** .
 

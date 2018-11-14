@@ -1,5 +1,5 @@
 ---
-title: XMLNamespace.AttachToDocument Method (Word)
+title: XMLNamespace.AttachToDocument method (Word)
 keywords: vbawd10.chm2293860
 f1_keywords:
 - vbawd10.chm2293860
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNamespace.AttachToDocument Method (Word)
+# XMLNamespace.AttachToDocument method (Word)
 
 Attaches an XML schema to a document.
 

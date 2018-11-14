@@ -1,5 +1,5 @@
 ---
-title: SparkAxes.Creator Property (Excel)
+title: SparkAxes.Creator property (Excel)
 keywords: vbaxl10.chm876074
 f1_keywords:
 - vbaxl10.chm876074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkAxes.Creator Property (Excel)
+# SparkAxes.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.Creator Property (Word)
+title: PictureFormat.Creator property (Word)
 keywords: vbawd10.chm164299753
 f1_keywords:
 - vbawd10.chm164299753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.Creator Property (Word)
+# PictureFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

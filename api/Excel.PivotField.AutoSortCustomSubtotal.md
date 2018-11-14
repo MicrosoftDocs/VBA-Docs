@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoSortCustomSubtotal Property (Excel)
+title: PivotField.AutoSortCustomSubtotal property (Excel)
 keywords: vbaxl10.chm240149
 f1_keywords:
 - vbaxl10.chm240149
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoSortCustomSubtotal Property (Excel)
+# PivotField.AutoSortCustomSubtotal property (Excel)
 
 Returns the name of the custom subtotal used to sort the specified PivotTable field automatically. Read-only.
 

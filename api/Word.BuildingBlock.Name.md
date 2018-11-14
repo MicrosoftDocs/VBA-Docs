@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Name Property (Word)
+title: BuildingBlock.Name property (Word)
 keywords: vbawd10.chm203620354
 f1_keywords:
 - vbawd10.chm203620354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Name Property (Word)
+# BuildingBlock.Name property (Word)
 
 Returns or sets a  **String** that represents the name of a building block. Read/write.
 

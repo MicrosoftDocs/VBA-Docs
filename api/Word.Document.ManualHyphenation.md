@@ -1,5 +1,5 @@
 ---
-title: Document.ManualHyphenation Method (Word)
+title: Document.ManualHyphenation method (Word)
 keywords: vbawd10.chm158007401
 f1_keywords:
 - vbawd10.chm158007401
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ManualHyphenation Method (Word)
+# Document.ManualHyphenation method (Word)
 
 Initiates manual hyphenation of a document, one line at a time.
 

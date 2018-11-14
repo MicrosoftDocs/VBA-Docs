@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItem.InsertItemBefore Method (Word)
+title: RepeatingSectionItem.InsertItemBefore method (Word)
 keywords: vbawd10.chm227999746
 f1_keywords:
 - vbawd10.chm227999746
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItem.InsertItemBefore Method (Word)
+# RepeatingSectionItem.InsertItemBefore method (Word)
 
 Adds a repeating section item before the specified item and returns the new item.
 

@@ -1,5 +1,5 @@
 ---
-title: Pane.DisplayRulers Property (Word)
+title: Pane.DisplayRulers property (Word)
 keywords: vbawd10.chm157286404
 f1_keywords:
 - vbawd10.chm157286404
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.DisplayRulers Property (Word)
+# Pane.DisplayRulers property (Word)
 
  **True** if rulers are displayed for the specified pane. Read/write **Boolean** .
 

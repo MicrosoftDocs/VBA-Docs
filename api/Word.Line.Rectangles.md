@@ -1,5 +1,5 @@
 ---
-title: Line.Rectangles Property (Word)
+title: Line.Rectangles property (Word)
 keywords: vbawd10.chm49610760
 f1_keywords:
 - vbawd10.chm49610760
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Rectangles Property (Word)
+# Line.Rectangles property (Word)
 
 Returns a  **Rectangles** collection that represents a portion of text or graphics in a page in a document.
 

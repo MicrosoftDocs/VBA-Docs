@@ -1,5 +1,5 @@
 ---
-title: Sections.Last Property (Word)
+title: Sections.Last property (Word)
 keywords: vbawd10.chm156893188
 f1_keywords:
 - vbawd10.chm156893188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.Last Property (Word)
+# Sections.Last property (Word)
 
 Returns the last item in the  **Sections** collection as a **Section** object.
 

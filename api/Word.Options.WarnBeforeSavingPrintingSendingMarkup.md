@@ -1,5 +1,5 @@
 ---
-title: Options.WarnBeforeSavingPrintingSendingMarkup Property (Word)
+title: Options.WarnBeforeSavingPrintingSendingMarkup property (Word)
 keywords: vbawd10.chm162988478
 f1_keywords:
 - vbawd10.chm162988478
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.WarnBeforeSavingPrintingSendingMarkup Property (Word)
+# Options.WarnBeforeSavingPrintingSendingMarkup property (Word)
 
- **True** for Microsoft Word to display a warning when saving, printing, or sending as e-mail a document containing comments or tracked changes. Read/write **Boolean** .
+ **True** for Microsoft Word to display a warning when saving, printing, or sending as email a document containing comments or tracked changes. Read/write **Boolean** .
 
 
 ## Syntax

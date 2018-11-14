@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetMaterial Property (Word)
+title: ThreeDFormat.PresetMaterial property (Word)
 keywords: vbawd10.chm164626539
 f1_keywords:
 - vbawd10.chm164626539
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetMaterial Property (Word)
+# ThreeDFormat.PresetMaterial property (Word)
 
 Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial** .
 

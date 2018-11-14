@@ -1,5 +1,5 @@
 ---
-title: Sections.PageSetup Property (Word)
+title: Sections.PageSetup property (Word)
 keywords: vbawd10.chm156894285
 f1_keywords:
 - vbawd10.chm156894285
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sections.PageSetup Property (Word)
+# Sections.PageSetup property (Word)
 
 Returns a  **PageSetup** object that's associated with the specified document, range, section, sections, or selection.
 

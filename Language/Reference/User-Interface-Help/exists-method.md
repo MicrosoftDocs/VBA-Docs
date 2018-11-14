@@ -24,7 +24,7 @@ _object_. **Exists(**_key_**)**
 The  **Exists** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required.  _Key_ value being searched for in the **Dictionary** object.|

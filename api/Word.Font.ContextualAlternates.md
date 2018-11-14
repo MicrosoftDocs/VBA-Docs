@@ -1,5 +1,5 @@
 ---
-title: Font.ContextualAlternates Property (Word)
+title: Font.ContextualAlternates property (Word)
 keywords: vbawd10.chm156369073
 f1_keywords:
 - vbawd10.chm156369073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ContextualAlternates Property (Word)
+# Font.ContextualAlternates property (Word)
 
 Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long** .
 

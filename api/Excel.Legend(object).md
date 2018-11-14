@@ -1,5 +1,5 @@
 ---
-title: Legend Object (Excel)
+title: Legend object (Excel)
 keywords: vbaxl10.chm621072
 f1_keywords:
 - vbaxl10.chm621072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend Object (Excel)
+# Legend object (Excel)
 
 Represents the legend in a chart. Each chart can have only one legend.
 

@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.PartOfSpeechList Property (Word)
+title: SynonymInfo.PartOfSpeechList property (Word)
 keywords: vbawd10.chm161153029
 f1_keywords:
 - vbawd10.chm161153029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.PartOfSpeechList Property (Word)
+# SynonymInfo.PartOfSpeechList property (Word)
 
 Returns a list of the parts of speech corresponding to the meanings found for the word or phrase looked up in the thesaurus. The list is returned as an array of integers. Read-only  **Variant** .
 

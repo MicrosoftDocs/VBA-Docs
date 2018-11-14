@@ -1,5 +1,5 @@
 ---
-title: Application.SetDefaultTheme Method (Word)
+title: Application.SetDefaultTheme method (Word)
 keywords: vbawd10.chm158335390
 f1_keywords:
 - vbawd10.chm158335390
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.SetDefaultTheme Method (Word)
+# Application.SetDefaultTheme method (Word)
 
-Sets a default theme for Word to use with new documents, e-mail messages, or web pages.
+Sets a default theme for Word to use with new documents, email messages, or web pages.
 
 ## Syntax
 
@@ -44,12 +44,12 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 Setting a default theme will not apply that theme to the blank document automatically created when you start Word. Any new documents you create after that will have the default theme.
 
-You can also use the **ThemeName** property to return and set the default theme for new e-mail messages.
+You can also use the **ThemeName** property to return and set the default theme for new email messages.
 
 
 ## Example
 
-This example specifies that Word use the Blueprint theme for all new e-mail messages.
+This example specifies that Word use the Blueprint theme for all new email messages.
 
 ```vb
 Application.SetDefaultTheme "blueprnt", wdEmailMessage

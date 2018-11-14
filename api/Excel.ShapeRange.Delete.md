@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Delete Method (Excel)
+title: ShapeRange.Delete method (Excel)
 keywords: vbaxl10.chm640079
 f1_keywords:
 - vbaxl10.chm640079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Delete Method (Excel)
+# ShapeRange.Delete method (Excel)
 
 Deletes the object.
 

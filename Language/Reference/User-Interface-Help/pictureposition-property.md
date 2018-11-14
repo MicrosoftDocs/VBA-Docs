@@ -23,7 +23,7 @@ _object_. **PicturePosition** [= _fmPicturePosition_ ]
 The  **PicturePosition** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmPicturePosition_|Optional. How the picture aligns with its container.|
@@ -32,7 +32,7 @@ The  **PicturePosition** property syntax has these parts:
 The settings for  _fmPicturePosition_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmPicturePositionLeftTop_|0|The picture appears to the left of the caption. The caption is aligned with the top of the picture.|
 | _fmPicturePositionLeftCenter_|1|The picture appears to the left of the caption. The caption is centered relative to the picture.|

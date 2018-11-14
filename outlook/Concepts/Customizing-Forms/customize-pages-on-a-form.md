@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # Customize Pages on a Form
 
-In general, you can customize up to five pages on a form. For e-mail messages and posts, you can customize a sixth page, the  **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](../Forms/customizing-form-pages-and-form-regions.md).
+In general, you can customize up to five pages on a form. For email messages and posts, you can customize a sixth page, the  **Message** page; for contacts, you can customize the **General** page. You can also customize forms by using form regions. For a side-by-side comparison of both options, see [Customizing Form Pages and Form Regions](../Forms/customizing-form-pages-and-form-regions.md).
 
 
 ## Forms customized with form regions

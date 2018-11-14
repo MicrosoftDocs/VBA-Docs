@@ -22,7 +22,7 @@ Controls access by other processes to all or part of a file opened using the  **
 The  **Lock** and **Unlock** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _recordrange_|Optional. The range of records to lock or unlock.|

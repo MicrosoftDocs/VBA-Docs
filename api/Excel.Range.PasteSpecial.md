@@ -1,5 +1,5 @@
 ---
-title: Range.PasteSpecial Method (Excel)
+title: Range.PasteSpecial method (Excel)
 keywords: vbaxl10.chm144238
 f1_keywords:
 - vbaxl10.chm144238
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PasteSpecial Method (Excel)
+# Range.PasteSpecial method (Excel)
 
 Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the specified range.
 
@@ -29,8 +29,8 @@ Pastes a  **[Range](Excel.Range(object).md)** that has been copied into the spec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Paste_|Optional| **[XlPasteType](Excel.XlPasteType.md)**| The part of the range to be pasted, such as **xlPasteAll** or **xlPasteValues**.|
-| _Operation_|Optional| **[XlPasteSpecialOperation](Excel.XlPasteSpecialOperation.md)**| The paste operation, such as **xlPasteSpecialOperationAdd**.|
+| _Paste_|Optional| **[xlPasteType](Excel.XlPasteType.md)**| The part of the range to be pasted, such as **xlPasteAll** or **xlPasteValues**.|
+| _Operation_|Optional| **[xlPasteSpecialOperation](Excel.XlPasteSpecialOperation.md)**| The paste operation, such as **xlPasteSpecialOperationAdd**.|
 | _SkipBlanks_|Optional| **Variant**| **True** to have blank cells in the range on the clipboard not be pasted into the destination range. The default value is **False**.|
 | _Transpose_|Optional| **Variant**| **True** to transpose rows and columns when the range is pasted.The default value is **False**.|
 

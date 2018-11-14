@@ -1,5 +1,5 @@
 ---
-title: CustomViews Object (Excel)
+title: CustomViews object (Excel)
 keywords: vbaxl10.chm505072
 f1_keywords:
 - vbaxl10.chm505072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomViews Object (Excel)
+# CustomViews object (Excel)
 
 A collection of custom workbook views.
 

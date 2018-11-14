@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.IsRecordingCustomRecord Property (Word)
+title: UndoRecord.IsRecordingCustomRecord property (Word)
 keywords: vbawd10.chm56098819
 f1_keywords:
 - vbawd10.chm56098819
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.IsRecordingCustomRecord Property (Word)
+# UndoRecord.IsRecordingCustomRecord property (Word)
 
 Returns a  **Boolean** that specifies whether a custom undo action is being recorded. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: XlDisplayDrawingObjects Enumeration (Excel)
+title: xlDisplayDrawingObjects enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDisplayDrawingObjects
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDisplayDrawingObjects Enumeration (Excel)
+# xlDisplayDrawingObjects enumeration (Excel)
 
 Specifies how shapes are displayed.
 

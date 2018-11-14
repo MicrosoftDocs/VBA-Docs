@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery.Delete Method (Excel)
+title: WorkbookQuery.Delete method (Excel)
 keywords: vbaxl10.chm974077
 f1_keywords:
 - vbaxl10.chm974077
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery.Delete Method (Excel)
+# WorkbookQuery.Delete method (Excel)
 
 Deletes this query and its underlying connection and removes it from the  **Queries** collection.
 

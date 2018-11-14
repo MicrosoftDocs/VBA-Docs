@@ -1,5 +1,5 @@
 ---
-title: ListParagraphs.Count Property (Word)
+title: ListParagraphs.Count property (Word)
 keywords: vbawd10.chm160497666
 f1_keywords:
 - vbawd10.chm160497666
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListParagraphs.Count Property (Word)
+# ListParagraphs.Count property (Word)
 
 Returns a  **Long** that represents the number of list paragraphs in the collection. Read-only.
 

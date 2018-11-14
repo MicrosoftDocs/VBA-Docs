@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetMaterial Property (Excel)
+title: ThreeDFormat.PresetMaterial property (Excel)
 keywords: vbaxl10.chm119012
 f1_keywords:
 - vbaxl10.chm119012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetMaterial Property (Excel)
+# ThreeDFormat.PresetMaterial property (Excel)
 
 Returns or sets the extrusion surface material. Read/write  **MsoPresetMaterial** .
 

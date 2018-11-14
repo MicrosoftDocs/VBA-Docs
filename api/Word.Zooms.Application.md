@@ -1,5 +1,5 @@
 ---
-title: Zooms.Application Property (Word)
+title: Zooms.Application property (Word)
 keywords: vbawd10.chm161940456
 f1_keywords:
 - vbawd10.chm161940456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Zooms.Application Property (Word)
+# Zooms.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

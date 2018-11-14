@@ -1,5 +1,5 @@
 ---
-title: Options.RevisedLinesColor Property (Word)
+title: Options.RevisedLinesColor property (Word)
 keywords: vbawd10.chm162988094
 f1_keywords:
 - vbawd10.chm162988094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.RevisedLinesColor Property (Word)
+# Options.RevisedLinesColor property (Word)
 
 Returns or sets the color of changed lines in a document with tracked changes. Read/write  **WdColorIndex** .
 

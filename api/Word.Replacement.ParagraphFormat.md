@@ -1,5 +1,5 @@
 ---
-title: Replacement.ParagraphFormat Property (Word)
+title: Replacement.ParagraphFormat property (Word)
 keywords: vbawd10.chm162594827
 f1_keywords:
 - vbawd10.chm162594827
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.ParagraphFormat Property (Word)
+# Replacement.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified replacement operation. Read/write.
 

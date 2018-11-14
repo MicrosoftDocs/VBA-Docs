@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp.Lim Property (Word)
+title: OMathLimUpp.Lim property (Word)
 keywords: vbawd10.chm113639528
 f1_keywords:
 - vbawd10.chm113639528
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp.Lim Property (Word)
+# OMathLimUpp.Lim property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the upper limit object. Read-only.
 

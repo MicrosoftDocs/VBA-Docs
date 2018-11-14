@@ -1,5 +1,5 @@
 ---
-title: Range.PageSetup Property (Word)
+title: Range.PageSetup property (Word)
 keywords: vbawd10.chm157156429
 f1_keywords:
 - vbawd10.chm157156429
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.PageSetup Property (Word)
+# Range.PageSetup property (Word)
 
 Returns a  **PageSetup** object that's associated with the specified range.
 

@@ -1,12 +1,12 @@
 ---
-title: AutoTextEntries Object (Word)
+title: AutoTextEntries object (Word)
 ms.prod: word
 ms.assetid: 4e4d92b3-d259-84b7-061f-82065e177c29
 ms.date: 06/08/2017
 ---
 
 
-# AutoTextEntries Object (Word)
+# AutoTextEntries object (Word)
 
 A collection of  **[AutoCorrectEntry](Word.AutoCorrectEntry.md)** objects that represent the AutoText entries in a template. The **AutoTextEntries** collection includes all the entries listed on the **AutoText** tab in the **AutoCorrect** dialog box.
 

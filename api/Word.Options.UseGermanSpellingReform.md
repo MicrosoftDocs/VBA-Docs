@@ -1,5 +1,5 @@
 ---
-title: Options.UseGermanSpellingReform Property (Word)
+title: Options.UseGermanSpellingReform property (Word)
 keywords: vbawd10.chm162988447
 f1_keywords:
 - vbawd10.chm162988447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UseGermanSpellingReform Property (Word)
+# Options.UseGermanSpellingReform property (Word)
 
  **True** if Microsoft Word uses the German post-reform spelling rules when checking spelling. Read/write **Boolean** .
 

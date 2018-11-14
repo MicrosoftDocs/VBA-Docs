@@ -1,5 +1,5 @@
 ---
-title: Range.WholeStory Method (Word)
+title: Range.WholeStory method (Word)
 keywords: vbawd10.chm157155456
 f1_keywords:
 - vbawd10.chm157155456
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.WholeStory Method (Word)
+# Range.WholeStory method (Word)
 
 Expands a range to include the entire story.
 

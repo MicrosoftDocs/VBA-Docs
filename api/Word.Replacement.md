@@ -1,5 +1,5 @@
 ---
-title: Replacement Object (Word)
+title: Replacement object (Word)
 keywords: vbawd10.chm2481
 f1_keywords:
 - vbawd10.chm2481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement Object (Word)
+# Replacement object (Word)
 
 Represents the replace criteria for a find-and-replace operation. The properties and methods of the  **Replacement** object correspond to the options in the **Find and Replace** dialog box.
 

@@ -1,5 +1,5 @@
 ---
-title: Find.ClearHitHighlight Method (Word)
+title: Find.ClearHitHighlight method (Word)
 keywords: vbawd10.chm162529726
 f1_keywords:
 - vbawd10.chm162529726
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.ClearHitHighlight Method (Word)
+# Find.ClearHitHighlight method (Word)
 
 Removes the highlighting for all text located in a hit highlighting find operation, and returns a  **Boolean** that represents whether the operation was successful.
 

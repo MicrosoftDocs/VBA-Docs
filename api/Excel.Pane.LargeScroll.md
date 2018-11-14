@@ -1,5 +1,5 @@
 ---
-title: Pane.LargeScroll Method (Excel)
+title: Pane.LargeScroll method (Excel)
 keywords: vbaxl10.chm360075
 f1_keywords:
 - vbaxl10.chm360075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.LargeScroll Method (Excel)
+# Pane.LargeScroll method (Excel)
 
 Scrolls the contents of the window by pages.
 

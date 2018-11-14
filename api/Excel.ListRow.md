@@ -1,5 +1,5 @@
 ---
-title: ListRow Object (Excel)
+title: ListRow object (Excel)
 keywords: vbaxl10.chm741072
 f1_keywords:
 - vbaxl10.chm741072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRow Object (Excel)
+# ListRow object (Excel)
 
 Represents a row in a table. The  **ListRow** object is a member of the **[ListRows](Excel.ListRows.md)** collection.
 

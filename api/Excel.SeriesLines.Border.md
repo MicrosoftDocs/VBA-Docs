@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Border Property (Excel)
+title: SeriesLines.Border property (Excel)
 keywords: vbaxl10.chm598076
 f1_keywords:
 - vbaxl10.chm598076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Border Property (Excel)
+# SeriesLines.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

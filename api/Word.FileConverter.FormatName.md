@@ -1,5 +1,5 @@
 ---
-title: FileConverter.FormatName Property (Word)
+title: FileConverter.FormatName property (Word)
 keywords: vbawd10.chm161021952
 f1_keywords:
 - vbawd10.chm161021952
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.FormatName Property (Word)
+# FileConverter.FormatName property (Word)
 
 Returns the name of the specified file converter. Read-only  **String** .
 

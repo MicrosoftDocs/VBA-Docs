@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship.PrimaryKeyColumn Property (Excel)
+title: ModelRelationship.PrimaryKeyColumn property (Excel)
 keywords: vbaxl10.chm938076
 f1_keywords:
 - vbaxl10.chm938076
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship.PrimaryKeyColumn Property (Excel)
+# ModelRelationship.PrimaryKeyColumn property (Excel)
 
-Contains the [ModelTableColumn Object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.
+Contains the [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the primary key column in the table on the one side of the one-to-many relationship.
 
 
 ## Syntax
 
  _expression_. `PrimaryKeyColumn`
 
- _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

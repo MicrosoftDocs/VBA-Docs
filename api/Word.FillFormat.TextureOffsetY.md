@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureOffsetY Property (Word)
+title: FillFormat.TextureOffsetY property (Word)
 keywords: vbawd10.chm164102260
 f1_keywords:
 - vbawd10.chm164102260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureOffsetY Property (Word)
+# FillFormat.TextureOffsetY property (Word)
 
 Returns or sets a  **Long** that specifies the vertical offset of the texture from the origin in points. Read/write.
 

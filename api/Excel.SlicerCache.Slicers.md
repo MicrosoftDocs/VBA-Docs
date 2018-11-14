@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.Slicers Property (Excel)
+title: SlicerCache.Slicers property (Excel)
 keywords: vbaxl10.chm897077
 f1_keywords:
 - vbaxl10.chm897077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.Slicers Property (Excel)
+# SlicerCache.Slicers property (Excel)
 
 Returns a  **[Slicers](Excel.Slicers.md)** collection that contains the collection of **[Slicer](Excel.Slicer.md)** objects associated with the specified **[SlicerCache](Excel.SlicerCache.md)** . Read-only
 

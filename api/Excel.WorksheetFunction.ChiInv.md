@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ChiInv Method (Excel)
+title: WorksheetFunction.ChiInv method (Excel)
 keywords: vbaxl10.chm137179
 f1_keywords:
 - vbaxl10.chm137179
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ChiInv Method (Excel)
+# WorksheetFunction.ChiInv method (Excel)
 
 Returns the inverse of the one-tailed probability of the chi-squared distribution.
 

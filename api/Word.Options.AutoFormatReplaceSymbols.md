@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatReplaceSymbols Property (Word)
+title: Options.AutoFormatReplaceSymbols property (Word)
 keywords: vbawd10.chm162988287
 f1_keywords:
 - vbawd10.chm162988287
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatReplaceSymbols Property (Word)
+# Options.AutoFormatReplaceSymbols property (Word)
 
  **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean** .
 

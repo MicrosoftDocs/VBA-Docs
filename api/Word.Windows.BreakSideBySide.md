@@ -1,5 +1,5 @@
 ---
-title: Windows.BreakSideBySide Method (Word)
+title: Windows.BreakSideBySide method (Word)
 keywords: vbawd10.chm157351949
 f1_keywords:
 - vbawd10.chm157351949
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.BreakSideBySide Method (Word)
+# Windows.BreakSideBySide method (Word)
 
 Ends side by side mode if two windows are in side by side mode. Returns a  **Boolean** that represents whether the method was successful.
 

@@ -1,5 +1,5 @@
 ---
-title: WdReadingOrder Enumeration (Word)
+title: WdReadingOrder enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdReadingOrder
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdReadingOrder Enumeration (Word)
+# WdReadingOrder enumeration (Word)
 
 Specifies the text flow and reading order of the document.
 

@@ -1,5 +1,5 @@
 ---
-title: Paragraph.DisableLineHeightGrid Property (Word)
+title: Paragraph.DisableLineHeightGrid property (Word)
 keywords: vbawd10.chm156696701
 f1_keywords:
 - vbawd10.chm156696701
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.DisableLineHeightGrid Property (Word)
+# Paragraph.DisableLineHeightGrid property (Word)
 
  **True** if Microsoft Word aligns characters in the specified paragraphs to the line grid when a set number of lines per page is specified. Returns **wdUndefined** if the **DisableLineHeightGrid** property is set to **True** for only some of the specified paragraphs. Read/write **Long** .
 

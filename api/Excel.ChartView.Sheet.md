@@ -1,5 +1,5 @@
 ---
-title: ChartView.Sheet Property (Excel)
+title: ChartView.Sheet property (Excel)
 keywords: vbaxl10.chm781073
 f1_keywords:
 - vbaxl10.chm781073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartView.Sheet Property (Excel)
+# ChartView.Sheet property (Excel)
 
 Returns the sheet name for the specified  **[ChartView](Excel.ChartView.md)** object. Read-only.
 

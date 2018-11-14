@@ -1,5 +1,5 @@
 ---
-title: Border.LineStyle Property (Word)
+title: Border.LineStyle property (Word)
 keywords: vbawd10.chm154861571
 f1_keywords:
 - vbawd10.chm154861571
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.LineStyle Property (Word)
+# Border.LineStyle property (Word)
 
 Returns or sets the border line style for the specified object. Read/write  **WdLineStyle** .
 

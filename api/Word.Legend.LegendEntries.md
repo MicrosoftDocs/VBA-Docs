@@ -1,5 +1,5 @@
 ---
-title: Legend.LegendEntries Method (Word)
+title: Legend.LegendEntries method (Word)
 keywords: vbawd10.chm147194029
 f1_keywords:
 - vbawd10.chm147194029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.LegendEntries Method (Word)
+# Legend.LegendEntries method (Word)
 
 Returns a collection of legend entries for the legend.
 

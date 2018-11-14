@@ -19,7 +19,7 @@ Specifies information about the current user of a Web database.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**acWebUserEmail**|3|The current user's e-mail address.|
+|**acWebUserEmail**|3|The current user's email address.|
 |**acWebUserID**|0|The current user's member ID.|
 |**acWebUserLoginName**|2|The current user's login name.|
 |**acWebUserName**|1|The current user's display name.|

@@ -1,5 +1,5 @@
 ---
-title: OMathLimUpp.Creator Property (Word)
+title: OMathLimUpp.Creator property (Word)
 keywords: vbawd10.chm113639525
 f1_keywords:
 - vbawd10.chm113639525
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathLimUpp.Creator Property (Word)
+# OMathLimUpp.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

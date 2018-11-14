@@ -1,5 +1,5 @@
 ---
-title: Dialogs.Creator Property (Word)
+title: Dialogs.Creator property (Word)
 keywords: vbawd10.chm152044521
 f1_keywords:
 - vbawd10.chm152044521
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dialogs.Creator Property (Word)
+# Dialogs.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

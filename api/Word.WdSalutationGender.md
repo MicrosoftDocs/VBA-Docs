@@ -1,5 +1,5 @@
 ---
-title: WdSalutationGender Enumeration (Word)
+title: WdSalutationGender enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSalutationGender
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSalutationGender Enumeration (Word)
+# WdSalutationGender enumeration (Word)
 
 Specifies the gender to use in a salutation.
 

@@ -1,5 +1,5 @@
 ---
-title: Scenarios.CreateSummary Method (Excel)
+title: Scenarios.CreateSummary method (Excel)
 keywords: vbaxl10.chm362075
 f1_keywords:
 - vbaxl10.chm362075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.CreateSummary Method (Excel)
+# Scenarios.CreateSummary method (Excel)
 
 Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant** .
 
@@ -29,7 +29,7 @@ Creates a new worksheet that contains a summary report for the scenarios on the 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ReportType_|Optional| **[XlSummaryReportType](Excel.XlSummaryReportType.md)**|Specifies whether the summary report is a PivotTable or standard summary.|
+| _ReportType_|Optional| **[xlSummaryReportType](Excel.XlSummaryReportType.md)**|Specifies whether the summary report is a PivotTable or standard summary.|
 | _ResultCells_|Optional| **Variant**|A  **Range** object that represents the result cells on the specified worksheet. Normally, this range refers to one or more cells containing the formulas that depend on the changing cell values for your model ? that is, the cells that show the results of a particular scenario. If this argument is omitted, there are no result cells included in the report.|
 
 ## Return value

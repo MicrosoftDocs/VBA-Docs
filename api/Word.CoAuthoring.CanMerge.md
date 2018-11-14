@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.CanMerge Property (Word)
+title: CoAuthoring.CanMerge property (Word)
 keywords: vbawd10.chm254869513
 f1_keywords:
 - vbawd10.chm254869513
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.CanMerge Property (Word)
+# CoAuthoring.CanMerge property (Word)
 
 Returns a  **Boolean** that specifies whether the document can be auto-merged. Read-only.
 

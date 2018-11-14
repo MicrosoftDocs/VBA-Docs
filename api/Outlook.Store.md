@@ -13,12 +13,12 @@ ms.date: 06/08/2017
 
 # Store Object (Outlook)
 
-Represents a file on the local computer or a network drive that stores e-mail messages and other items for an account in the current profile.
+Represents a file on the local computer or a network drive that stores email messages and other items for an account in the current profile.
 
 
 ## Remarks
 
-A profile defines one or more e-mail accounts, and each e-mail account is associated with a server of a specific type. For an Exchange server, a store can be on the server, in an Exchange Public folder, or in a local Personal Folders File (.pst) or Offline Folder File (.ost). For a POP3, IMAP, or HTTP e-mail server, a store is a .pst file.
+A profile defines one or more email accounts, and each email account is associated with a server of a specific type. For an Exchange server, a store can be on the server, in an Exchange Public folder, or in a local Personal Folders File (.pst) or Offline Folder File (.ost). For a POP3, IMAP, or HTTP email server, a store is a .pst file.
 
 You can use the  **[Stores](Outlook.Stores.md)** and **Store** objects to enumerate all folders and search folders on all stores in the current session. Since getting the root folder or search folders in a store requires the store to be open and opening a store imposes an overhead on performance, you can check the **[Store.IsOpen](./Outlook.Store.IsOpen.md)** property before you decide to pursue the operation.
 

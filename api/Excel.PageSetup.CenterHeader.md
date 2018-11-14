@@ -1,5 +1,5 @@
 ---
-title: PageSetup.CenterHeader Property (Excel)
+title: PageSetup.CenterHeader property (Excel)
 keywords: vbaxl10.chm473076
 f1_keywords:
 - vbaxl10.chm473076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.CenterHeader Property (Excel)
+# PageSetup.CenterHeader property (Excel)
 
 Center aligns the header information in the  **PageSetup** object. Read/write **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: TableOfAuthoritiesCategory.Name Property (Word)
+title: TableOfAuthoritiesCategory.Name property (Word)
 keywords: vbawd10.chm158793728
 f1_keywords:
 - vbawd10.chm158793728
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfAuthoritiesCategory.Name Property (Word)
+# TableOfAuthoritiesCategory.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

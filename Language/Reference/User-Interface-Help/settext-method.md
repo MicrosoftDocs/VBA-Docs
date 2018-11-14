@@ -23,7 +23,7 @@ _object_. **SetText(**_StoreData_ [, _format_ ] **)**
 The **SetText** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _StoreData_|Required. Defines the data to store on the **DataObject**.|

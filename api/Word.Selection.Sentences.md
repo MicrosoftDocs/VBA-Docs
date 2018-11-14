@@ -1,5 +1,5 @@
 ---
-title: Selection.Sentences Property (Word)
+title: Selection.Sentences property (Word)
 keywords: vbawd10.chm158662708
 f1_keywords:
 - vbawd10.chm158662708
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Sentences Property (Word)
+# Selection.Sentences property (Word)
 
 Returns a  **[Sentences](Word.sentences.md)** collection that represents all the sentences in the selection. Read-only.
 

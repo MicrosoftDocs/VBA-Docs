@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItem.Range Property (Word)
+title: RepeatingSectionItem.Range property (Word)
 keywords: vbawd10.chm227999745
 f1_keywords:
 - vbawd10.chm227999745
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItem.Range Property (Word)
+# RepeatingSectionItem.Range property (Word)
 
 Returns the range of the specified repeating section item, excluding the start and end tags. Read-only.
 

@@ -43,7 +43,7 @@ The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLangLocal**|0|The page name is a local name.|
 | **visLangUniversal**|1|The page name is a universal name.|

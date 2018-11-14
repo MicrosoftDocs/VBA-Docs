@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.CategoryCollection Method (Word)
+title: ChartGroup.CategoryCollection method (Word)
 keywords: vbawd10.chm263454871
 f1_keywords:
 - vbawd10.chm263454871
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.CategoryCollection Method (Word)
+# ChartGroup.CategoryCollection method (Word)
 
 Returns all the visible categories in the chart group, or the specified visible category.
 
@@ -25,7 +25,7 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Optional|VARIANT|The index number in the visible category collection of the category to return.|

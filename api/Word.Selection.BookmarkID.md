@@ -1,5 +1,5 @@
 ---
-title: Selection.BookmarkID Property (Word)
+title: Selection.BookmarkID property (Word)
 keywords: vbawd10.chm158662964
 f1_keywords:
 - vbawd10.chm158662964
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.BookmarkID Property (Word)
+# Selection.BookmarkID property (Word)
 
 Returns the number of the bookmark that encloses the beginning of the specified selection. Read-only  **Long** .
 

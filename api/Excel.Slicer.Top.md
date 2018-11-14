@@ -1,5 +1,5 @@
 ---
-title: Slicer.Top Property (Excel)
+title: Slicer.Top property (Excel)
 keywords: vbaxl10.chm905075
 f1_keywords:
 - vbaxl10.chm905075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Top Property (Excel)
+# Slicer.Top property (Excel)
 
 Returns or sets the vertical position of the specified slicer, in points, relative to the upper-left corner of cell A1 on a worksheet. Read/write.
 

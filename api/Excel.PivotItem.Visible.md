@@ -1,5 +1,5 @@
 ---
-title: PivotItem.Visible Property (Excel)
+title: PivotItem.Visible property (Excel)
 keywords: vbaxl10.chm246085
 f1_keywords:
 - vbaxl10.chm246085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem.Visible Property (Excel)
+# PivotItem.Visible property (Excel)
 
 Returns or sets a  **Boolean** value that determines whether the object is visible. Read/write.
 

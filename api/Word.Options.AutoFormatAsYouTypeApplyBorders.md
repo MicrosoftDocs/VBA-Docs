@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyBorders Property (Word)
+title: Options.AutoFormatAsYouTypeApplyBorders property (Word)
 keywords: vbawd10.chm162988293
 f1_keywords:
 - vbawd10.chm162988293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyBorders Property (Word)
+# Options.AutoFormatAsYouTypeApplyBorders property (Word)
 
  **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean** .
 

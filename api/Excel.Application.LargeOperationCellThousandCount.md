@@ -1,5 +1,5 @@
 ---
-title: Application.LargeOperationCellThousandCount Property (Excel)
+title: Application.LargeOperationCellThousandCount property (Excel)
 keywords: vbaxl10.chm133312
 f1_keywords:
 - vbaxl10.chm133312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LargeOperationCellThousandCount Property (Excel)
+# Application.LargeOperationCellThousandCount property (Excel)
 
 Returns or sets the maximum number of cells needed in an operation beyond which an alert is triggered. Read/write  **Long** .
 

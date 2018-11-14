@@ -1,5 +1,5 @@
 ---
-title: ChartObject.BottomRightCell Property (Excel)
+title: ChartObject.BottomRightCell property (Excel)
 keywords: vbaxl10.chm494074
 f1_keywords:
 - vbaxl10.chm494074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.BottomRightCell Property (Excel)
+# ChartObject.BottomRightCell property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the cell that lies under the lower-right corner of the object. Read-only.
 

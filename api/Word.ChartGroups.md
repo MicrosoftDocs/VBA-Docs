@@ -1,5 +1,5 @@
 ---
-title: ChartGroups Object (Word)
+title: ChartGroups object (Word)
 ms.prod: word
 api_name:
 - Word.ChartGroups
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups Object (Word)
+# ChartGroups object (Word)
 
 Represents one or more series plotted in a chart with the same format.
 

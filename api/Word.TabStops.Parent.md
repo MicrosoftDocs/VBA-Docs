@@ -1,5 +1,5 @@
 ---
-title: TabStops.Parent Property (Word)
+title: TabStops.Parent property (Word)
 keywords: vbawd10.chm156566506
 f1_keywords:
 - vbawd10.chm156566506
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops.Parent Property (Word)
+# TabStops.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TabStops** object.
 

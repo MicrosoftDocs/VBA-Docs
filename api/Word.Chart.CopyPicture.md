@@ -1,5 +1,5 @@
 ---
-title: Chart.CopyPicture Method (Word)
+title: Chart.CopyPicture method (Word)
 keywords: vbawd10.chm79364163
 f1_keywords:
 - vbawd10.chm79364163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.CopyPicture Method (Word)
+# Chart.CopyPicture method (Word)
 
 Copies the selected object to the Clipboard as a picture.
 
@@ -29,9 +29,9 @@ Copies the selected object to the Clipboard as a picture.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **[XlPictureAppearance](Word.xlpictureappearance.md)**|One of the enumeration values that specifies how the picture should be copied. The default is  **xlScreen** .|
-| _Format_|Optional| **[XlCopyPictureFormat](Word.xlcopypictureformat.md)**|One of the enumeration values that specifies the format of the picture. The default is  **xlPicture** .|
-| _Size_|Optional| **XlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is  **xlPrinter** .|
+| _Appearance_|Optional| **[xlPictureAppearance](Word.xlpictureappearance.md)**|One of the enumeration values that specifies how the picture should be copied. The default is  **xlScreen** .|
+| _Format_|Optional| **[xlCopyPictureFormat](Word.xlcopypictureformat.md)**|One of the enumeration values that specifies the format of the picture. The default is  **xlPicture** .|
+| _Size_|Optional| **xlPictureAppearance**|One of the enumeration values that specifies the size of the copied picture when the object is a chart on a chart sheet (not embedded on a worksheet). The default is  **xlPrinter** .|
 
 ## See also
 

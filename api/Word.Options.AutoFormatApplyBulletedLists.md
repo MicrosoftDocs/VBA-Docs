@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatApplyBulletedLists Property (Word)
+title: Options.AutoFormatApplyBulletedLists property (Word)
 keywords: vbawd10.chm162988284
 f1_keywords:
 - vbawd10.chm162988284
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatApplyBulletedLists Property (Word)
+# Options.AutoFormatApplyBulletedLists property (Word)
 
  **True** if characters (such as asterisks, hyphens, and greater-than signs) at the beginning of list paragraphs are replaced with bullets from the **Bullets and Numbering** dialog box (**Format** menu) when Word formats a document or range automatically. Read/write **Boolean** .
 

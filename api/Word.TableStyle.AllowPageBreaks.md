@@ -1,5 +1,5 @@
 ---
-title: TableStyle.AllowPageBreaks Property (Word)
+title: TableStyle.AllowPageBreaks property (Word)
 keywords: vbawd10.chm244776962
 f1_keywords:
 - vbawd10.chm244776962
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.AllowPageBreaks Property (Word)
+# TableStyle.AllowPageBreaks property (Word)
 
 Allows Microsoft Word to break the specified table across pages. Read/write  **Boolean** .
 

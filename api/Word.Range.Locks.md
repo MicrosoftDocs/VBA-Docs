@@ -1,5 +1,5 @@
 ---
-title: Range.Locks Property (Word)
+title: Range.Locks property (Word)
 keywords: vbawd10.chm157155832
 f1_keywords:
 - vbawd10.chm157155832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Locks Property (Word)
+# Range.Locks property (Word)
 
 Returns a  **[CoAuthLocks](Word.CoAuthLocks.md)** collection object that represents all the locks in the range. Read-only.
 

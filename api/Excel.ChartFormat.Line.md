@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Line Property (Excel)
+title: ChartFormat.Line property (Excel)
 keywords: vbaxl10.chm861075
 f1_keywords:
 - vbaxl10.chm861075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Line Property (Excel)
+# ChartFormat.Line property (Excel)
 
 Returns a  **[LineFormat](Excel.LineFormat.md)** object that contains line formatting properties for the specified chart element. Read-only.
 

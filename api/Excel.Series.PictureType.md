@@ -1,5 +1,5 @@
 ---
-title: Series.PictureType Property (Excel)
+title: Series.PictureType property (Excel)
 keywords: vbaxl10.chm578101
 f1_keywords:
 - vbaxl10.chm578101
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.PictureType Property (Excel)
+# Series.PictureType property (Excel)
 
-Returns or sets a  **[XlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a column or bar picture chart.
+Returns or sets a  **[xlChartPictureType](Excel.XlChartPictureType.md)** value that represents the way pictures are displayed on a column or bar picture chart.
 
 
 ## Syntax

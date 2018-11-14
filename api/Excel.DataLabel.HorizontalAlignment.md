@@ -1,5 +1,5 @@
 ---
-title: DataLabel.HorizontalAlignment Property (Excel)
+title: DataLabel.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm582083
 f1_keywords:
 - vbaxl10.chm582083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.HorizontalAlignment Property (Excel)
+# DataLabel.HorizontalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the horizontal alignment for the specified object.
 

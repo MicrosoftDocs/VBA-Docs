@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Confidence_T Method (Excel)
+title: WorksheetFunction.Confidence_T method (Excel)
 keywords: vbaxl10.chm137360
 f1_keywords:
 - vbaxl10.chm137360
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Confidence_T Method (Excel)
+# WorksheetFunction.Confidence_T method (Excel)
 
 Returns the confidence interval for a population mean, using a Student's t distribution.
 

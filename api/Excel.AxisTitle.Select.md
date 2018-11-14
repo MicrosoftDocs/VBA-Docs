@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Select Method (Excel)
+title: AxisTitle.Select method (Excel)
 keywords: vbaxl10.chm565073
 f1_keywords:
 - vbaxl10.chm565073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Select Method (Excel)
+# AxisTitle.Select method (Excel)
 
 Selects the object.
 

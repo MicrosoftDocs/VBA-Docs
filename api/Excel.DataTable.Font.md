@@ -1,5 +1,5 @@
 ---
-title: DataTable.Font Property (Excel)
+title: DataTable.Font property (Excel)
 keywords: vbaxl10.chm626078
 f1_keywords:
 - vbaxl10.chm626078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Font Property (Excel)
+# DataTable.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PrintDrawingObjects Property (Word)
+title: Options.PrintDrawingObjects property (Word)
 keywords: vbawd10.chm162988070
 f1_keywords:
 - vbawd10.chm162988070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PrintDrawingObjects Property (Word)
+# Options.PrintDrawingObjects property (Word)
 
  **True** if Microsoft Word prints drawing objects. Read/write **Boolean** .
 

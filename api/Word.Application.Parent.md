@@ -1,5 +1,5 @@
 ---
-title: Application.Parent Property (Word)
+title: Application.Parent property (Word)
 keywords: vbawd10.chm158335978
 f1_keywords:
 - vbawd10.chm158335978
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Parent Property (Word)
+# Application.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Application** object.
 

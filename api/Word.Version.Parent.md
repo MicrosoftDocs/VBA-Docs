@@ -1,5 +1,5 @@
 ---
-title: Version.Parent Property (Word)
+title: Version.Parent property (Word)
 keywords: vbawd10.chm162792426
 f1_keywords:
 - vbawd10.chm162792426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Version.Parent Property (Word)
+# Version.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Version** object.
 

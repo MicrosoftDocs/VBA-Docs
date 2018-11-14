@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Format Property (Word)
+title: AxisTitle.Format property (Word)
 keywords: vbawd10.chm98238497
 f1_keywords:
 - vbawd10.chm98238497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Format Property (Word)
+# AxisTitle.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

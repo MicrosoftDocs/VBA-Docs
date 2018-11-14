@@ -1,5 +1,5 @@
 ---
-title: ShapeNodes.SetPosition Method (Word)
+title: ShapeNodes.SetPosition method (Word)
 keywords: vbawd10.chm164495374
 f1_keywords:
 - vbawd10.chm164495374
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNodes.SetPosition Method (Word)
+# ShapeNodes.SetPosition method (Word)
 
 Sets the location of the node specified by Index.
 

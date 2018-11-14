@@ -1,5 +1,5 @@
 ---
-title: XlTimeUnit Enumeration (Excel)
+title: xlTimeUnit enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTimeUnit
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTimeUnit Enumeration (Excel)
+# xlTimeUnit enumeration (Excel)
 
 Specifies the unit of time for chart axes and data series.
 

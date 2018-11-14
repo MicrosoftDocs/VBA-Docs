@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Visible Property (Word)
+title: ProtectedViewWindow.Visible property (Word)
 keywords: vbawd10.chm231735305
 f1_keywords:
 - vbawd10.chm231735305
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Visible Property (Word)
+# ProtectedViewWindow.Visible property (Word)
 
  **True** if the specified protected view window is visible. Read/write. **Boolean** .
 

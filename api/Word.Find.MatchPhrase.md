@@ -1,5 +1,5 @@
 ---
-title: Find.MatchPhrase Property (Word)
+title: Find.MatchPhrase property (Word)
 keywords: vbawd10.chm162529384
 f1_keywords:
 - vbawd10.chm162529384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.MatchPhrase Property (Word)
+# Find.MatchPhrase property (Word)
 
  **True** ignores all white space and control characters between words. Read/write.
 

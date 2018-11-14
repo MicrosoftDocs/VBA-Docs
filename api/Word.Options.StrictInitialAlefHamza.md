@@ -1,5 +1,5 @@
 ---
-title: Options.StrictInitialAlefHamza Property (Word)
+title: Options.StrictInitialAlefHamza property (Word)
 keywords: vbawd10.chm162988441
 f1_keywords:
 - vbawd10.chm162988441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.StrictInitialAlefHamza Property (Word)
+# Options.StrictInitialAlefHamza property (Word)
 
  **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza. Read/write **Boolean** .
 

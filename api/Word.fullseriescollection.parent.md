@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Parent Property (Word)
+title: FullSeriesCollection.Parent property (Word)
 keywords: vbawd10.chm73990294
 f1_keywords:
 - vbawd10.chm73990294
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Parent Property (Word)
+# FullSeriesCollection.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FullSeriesCollection** object.
 

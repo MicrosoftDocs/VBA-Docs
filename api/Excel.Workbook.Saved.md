@@ -1,5 +1,5 @@
 ---
-title: Workbook.Saved Property (Excel)
+title: Workbook.Saved property (Excel)
 keywords: vbaxl10.chm199147
 f1_keywords:
 - vbaxl10.chm199147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Saved Property (Excel)
+# Workbook.Saved property (Excel)
 
  **True** if no changes have been made to the specified workbook since it was last saved. Read/write **Boolean** .
 

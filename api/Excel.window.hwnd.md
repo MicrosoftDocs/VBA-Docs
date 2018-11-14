@@ -1,5 +1,5 @@
 ---
-title: Window.Hwnd Property (Excel)
+title: Window.Hwnd property (Excel)
 keywords: vbaxl10.chm356139
 f1_keywords:
 - vbaxl10.chm356139
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Window.Hwnd Property (Excel)
+# Window.Hwnd property (Excel)
 
 Returns a  **Long** that indicates the window handle of the specified window. Read-only.
 

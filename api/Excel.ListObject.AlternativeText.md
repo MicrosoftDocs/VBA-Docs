@@ -1,5 +1,5 @@
 ---
-title: ListObject.AlternativeText Property (Excel)
+title: ListObject.AlternativeText property (Excel)
 keywords: vbaxl10.chm734108
 f1_keywords:
 - vbaxl10.chm734108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.AlternativeText Property (Excel)
+# ListObject.AlternativeText property (Excel)
 
 Returns or sets the descriptive (alternative) text string for the specified table. Read/write
 

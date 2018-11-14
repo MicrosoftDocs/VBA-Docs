@@ -1,5 +1,5 @@
 ---
-title: FillFormat.TextureType Property (Excel)
+title: FillFormat.TextureType property (Excel)
 keywords: vbaxl10.chm115021
 f1_keywords:
 - vbaxl10.chm115021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.TextureType Property (Excel)
+# FillFormat.TextureType property (Excel)
 
 Returns the texture type for the specified fill. Read-only  **[MsoTextureType](Office.MsoTextureType.md)** .
 

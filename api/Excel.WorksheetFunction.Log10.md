@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Log10 Method (Excel)
+title: WorksheetFunction.Log10 method (Excel)
 keywords: vbaxl10.chm137087
 f1_keywords:
 - vbaxl10.chm137087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Log10 Method (Excel)
+# WorksheetFunction.Log10 method (Excel)
 
 Returns the base-10 logarithm of a number.
 

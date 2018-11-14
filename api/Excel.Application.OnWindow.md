@@ -1,5 +1,5 @@
 ---
-title: Application.OnWindow Property (Excel)
+title: Application.OnWindow property (Excel)
 keywords: vbaxl10.chm133186
 f1_keywords:
 - vbaxl10.chm133186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnWindow Property (Excel)
+# Application.OnWindow property (Excel)
 
 Returns or sets the name of the procedure that's run whenever you activate a window. Read/write  **String** .
 

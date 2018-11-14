@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorUnitScale Property (PowerPoint)
 
-Returns or sets the major unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[XlTimeUnit](PowerPoint.XlTimeUnit.md)**.
+Returns or sets the major unit scale value for the category axis when the  **[CategoryType](PowerPoint.Axis.CategoryType.md)** property is set to **xlTimeScale**. Read/write **[xlTimeUnit](PowerPoint.XlTimeUnit.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the major unit scale value for the category axis when the  **[Ca
 
 ## Remarks
 
- **MajorUnitScale** can be one of the following **XlTimeUnit** constants:
+ **MajorUnitScale** can be one of the following **xlTimeUnit** constants:
 
 
 -  **xlMonths**

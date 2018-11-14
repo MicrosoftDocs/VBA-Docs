@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertCells Method (Word)
+title: Selection.InsertCells method (Word)
 keywords: vbawd10.chm158662870
 f1_keywords:
 - vbawd10.chm158662870
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertCells Method (Word)
+# Selection.InsertCells method (Word)
 
 Adds cells to an existing table.
 

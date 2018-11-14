@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Delete Method (Excel)
+title: IconSetCondition.Delete method (Excel)
 keywords: vbaxl10.chm812082
 f1_keywords:
 - vbaxl10.chm812082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.Delete Method (Excel)
+# IconSetCondition.Delete method (Excel)
 
 Deletes the specified conditional formatting rule object.
 

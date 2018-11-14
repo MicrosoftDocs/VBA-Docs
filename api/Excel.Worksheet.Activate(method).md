@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Activate Method (Excel)
+title: Worksheet.Activate method (Excel)
 keywords: vbaxl10.chm174073
 f1_keywords:
 - vbaxl10.chm174073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Activate Method (Excel)
+# Worksheet.Activate method (Excel)
 
 Makes the current sheet the active sheet. 
 

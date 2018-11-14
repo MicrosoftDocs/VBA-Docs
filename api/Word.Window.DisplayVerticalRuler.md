@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayVerticalRuler Property (Word)
+title: Window.DisplayVerticalRuler property (Word)
 keywords: vbawd10.chm157417485
 f1_keywords:
 - vbawd10.chm157417485
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayVerticalRuler Property (Word)
+# Window.DisplayVerticalRuler property (Word)
 
  **True** if a vertical ruler is displayed for the specified window or pane. Read/write **Boolean** .
 

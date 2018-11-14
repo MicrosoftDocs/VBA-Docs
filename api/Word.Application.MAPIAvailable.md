@@ -1,5 +1,5 @@
 ---
-title: Application.MAPIAvailable Property (Word)
+title: Application.MAPIAvailable property (Word)
 keywords: vbawd10.chm158335074
 f1_keywords:
 - vbawd10.chm158335074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MAPIAvailable Property (Word)
+# Application.MAPIAvailable property (Word)
 
  **True** if MAPI is installed. Read-only **Boolean** .
 

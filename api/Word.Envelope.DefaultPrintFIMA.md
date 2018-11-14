@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultPrintFIMA Property (Word)
+title: Envelope.DefaultPrintFIMA property (Word)
 keywords: vbawd10.chm152567813
 f1_keywords:
 - vbawd10.chm152567813
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultPrintFIMA Property (Word)
+# Envelope.DefaultPrintFIMA property (Word)
 
  **True** to add a Facing Identification Mark (FIM-A) to envelopes by default. Read/write **Boolean** .
 

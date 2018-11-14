@@ -1,5 +1,5 @@
 ---
-title: Interior.Pattern Property (Word)
+title: Interior.Pattern property (Word)
 keywords: vbawd10.chm2818054
 f1_keywords:
 - vbawd10.chm2818054
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Pattern Property (Word)
+# Interior.Pattern property (Word)
 
-Returns or sets a  **Variant** value, containing an **[XlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
+Returns or sets a  **Variant** value, containing an **[xlPattern](Word.xlpattern.md)** constant, that represents the interior pattern.
 
 
 ## Syntax

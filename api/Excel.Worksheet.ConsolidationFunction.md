@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ConsolidationFunction Property (Excel)
+title: Worksheet.ConsolidationFunction property (Excel)
 keywords: vbaxl10.chm175087
 f1_keywords:
 - vbaxl10.chm175087
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ConsolidationFunction Property (Excel)
+# Worksheet.ConsolidationFunction property (Excel)
 
-Returns the function code used for the current consolidation. Can be one of the constants of  **[XlConsolidationFunction](Excel.XlConsolidationFunction.md)** . Read-only **Long** .
+Returns the function code used for the current consolidation. Can be one of the constants of  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)** . Read-only **Long** .
 
 
 ## Syntax

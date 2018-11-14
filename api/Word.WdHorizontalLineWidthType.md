@@ -1,5 +1,5 @@
 ---
-title: WdHorizontalLineWidthType Enumeration (Word)
+title: WdHorizontalLineWidthType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHorizontalLineWidthType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHorizontalLineWidthType Enumeration (Word)
+# WdHorizontalLineWidthType enumeration (Word)
 
 Specifies how Word interprets the width (length) of the specified horizontal line.
 

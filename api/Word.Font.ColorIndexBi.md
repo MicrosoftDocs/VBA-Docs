@@ -1,5 +1,5 @@
 ---
-title: Font.ColorIndexBi Property (Word)
+title: Font.ColorIndexBi property (Word)
 keywords: vbawd10.chm156369060
 f1_keywords:
 - vbawd10.chm156369060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.ColorIndexBi Property (Word)
+# Font.ColorIndexBi property (Word)
 
 Returns or sets the color for the specified  **Font** object in a right-to-left language document. Read/write **WdColorIndex** .
 

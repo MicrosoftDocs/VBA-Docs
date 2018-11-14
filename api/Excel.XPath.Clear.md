@@ -1,5 +1,5 @@
 ---
-title: XPath.Clear Method (Excel)
+title: XPath.Clear method (Excel)
 keywords: vbaxl10.chm760077
 f1_keywords:
 - vbaxl10.chm760077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XPath.Clear Method (Excel)
+# XPath.Clear method (Excel)
 
 Clears all XPath schema information for the mapped range. 
 

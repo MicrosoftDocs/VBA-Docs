@@ -1,5 +1,5 @@
 ---
-title: Window.SplitHorizontal Property (Excel)
+title: Window.SplitHorizontal property (Excel)
 keywords: vbaxl10.chm356113
 f1_keywords:
 - vbaxl10.chm356113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SplitHorizontal Property (Excel)
+# Window.SplitHorizontal property (Excel)
 
 Returns or sets the location of the horizontal window split, in points. Read/write  **Double** .
 

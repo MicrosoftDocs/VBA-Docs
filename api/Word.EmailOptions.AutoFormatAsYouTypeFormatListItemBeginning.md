@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 keywords: vbawd10.chm165347597
 f1_keywords:
 - vbawd10.chm165347597
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning Property (Word)
+# EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 
  **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean** .
 

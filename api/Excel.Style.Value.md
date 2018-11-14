@@ -1,5 +1,5 @@
 ---
-title: Style.Value Property (Excel)
+title: Style.Value property (Excel)
 keywords: vbaxl10.chm177096
 f1_keywords:
 - vbaxl10.chm177096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Value Property (Excel)
+# Style.Value property (Excel)
 
 Returns a  **String** value that represents the name of the specified style.
 

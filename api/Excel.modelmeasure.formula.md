@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.Formula Property (Excel)
+title: ModelMeasure.Formula property (Excel)
 keywords: vbaxl10.chm978075
 f1_keywords:
 - vbaxl10.chm978075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.Formula Property (Excel)
+# ModelMeasure.Formula property (Excel)
 
 The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **String**.
 

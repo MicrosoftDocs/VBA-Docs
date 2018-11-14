@@ -1,14 +1,14 @@
 ---
-title: XlBorderWeight Enumeration (Excel)
+title: xlBorderWeight enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlBorderWeight
+- Excel.xlBorderWeight
 ms.assetid: 44dd8e9d-144f-d208-1f62-ddb264933440
 ms.date: 06/08/2017
 ---
 
 
-# XlBorderWeight Enumeration (Excel)
+# xlBorderWeight enumeration (Excel)
 
 Specifies the weight of the border around a range.
 

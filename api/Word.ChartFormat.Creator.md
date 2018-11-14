@@ -1,5 +1,5 @@
 ---
-title: ChartFormat.Creator Property (Word)
+title: ChartFormat.Creator property (Word)
 keywords: vbawd10.chm203030677
 f1_keywords:
 - vbawd10.chm203030677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartFormat.Creator Property (Word)
+# ChartFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

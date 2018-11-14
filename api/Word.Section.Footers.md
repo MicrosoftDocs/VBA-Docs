@@ -1,5 +1,5 @@
 ---
-title: Section.Footers Property (Word)
+title: Section.Footers property (Word)
 keywords: vbawd10.chm156827770
 f1_keywords:
 - vbawd10.chm156827770
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Section.Footers Property (Word)
+# Section.Footers property (Word)
 
 Returns a  **[HeadersFooters](Word.headersfooters.md)** collection that represents the footers in the specified section. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: IRtdServer Object (Excel)
+title: IRtdServer object (Excel)
 keywords: vbaxl10.chm500004
 f1_keywords:
 - vbaxl10.chm500004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRtdServer Object (Excel)
+# IRtdServer object (Excel)
 
 Represents an interface for a real-time data server.
 

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.TransitionFormEntry Property (Excel)
+title: Worksheet.TransitionFormEntry property (Excel)
 keywords: vbaxl10.chm175132
 f1_keywords:
 - vbaxl10.chm175132
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.TransitionFormEntry Property (Excel)
+# Worksheet.TransitionFormEntry property (Excel)
 
  **True** if Microsoft Excel uses Lotus 1-2-3 formula entry rules for the worksheet. Read/write **Boolean** .
 

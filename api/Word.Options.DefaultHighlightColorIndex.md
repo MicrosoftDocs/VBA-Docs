@@ -1,5 +1,5 @@
 ---
-title: Options.DefaultHighlightColorIndex Property (Word)
+title: Options.DefaultHighlightColorIndex property (Word)
 keywords: vbawd10.chm162988306
 f1_keywords:
 - vbawd10.chm162988306
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DefaultHighlightColorIndex Property (Word)
+# Options.DefaultHighlightColorIndex property (Word)
 
 Returns or sets the color used to highlight text formatted with the  **Highlight** button (**Formatting** toolbar). Read/write **WdColorIndex** .
 

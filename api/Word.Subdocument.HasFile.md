@@ -1,5 +1,5 @@
 ---
-title: Subdocument.HasFile Property (Word)
+title: Subdocument.HasFile property (Word)
 keywords: vbawd10.chm159973381
 f1_keywords:
 - vbawd10.chm159973381
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Subdocument.HasFile Property (Word)
+# Subdocument.HasFile property (Word)
 
  **True** if the specified subdocument has been saved to a file. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: MailMerge.Check Method (Word)
+title: MailMerge.Check method (Word)
 keywords: vbawd10.chm153092202
 f1_keywords:
 - vbawd10.chm153092202
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.Check Method (Word)
+# MailMerge.Check method (Word)
 
 Simulates the mail merge operation, pausing to report each error as it occurs.
 

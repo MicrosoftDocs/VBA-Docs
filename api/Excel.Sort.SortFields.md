@@ -1,5 +1,5 @@
 ---
-title: Sort.SortFields Property (Excel)
+title: Sort.SortFields property (Excel)
 keywords: vbaxl10.chm847078
 f1_keywords:
 - vbaxl10.chm847078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sort.SortFields Property (Excel)
+# Sort.SortFields property (Excel)
 
 Returns the  **SortFields** object that represents the collection of sort fields associated with the **Sort** object. Read-only.
 

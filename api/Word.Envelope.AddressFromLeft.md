@@ -1,5 +1,5 @@
 ---
-title: Envelope.AddressFromLeft Property (Word)
+title: Envelope.AddressFromLeft property (Word)
 keywords: vbawd10.chm152567821
 f1_keywords:
 - vbawd10.chm152567821
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.AddressFromLeft Property (Word)
+# Envelope.AddressFromLeft property (Word)
 
 Returns or sets the distance (in points) between the left edge of the envelope and the delivery address. Read/write  **Single** .
 

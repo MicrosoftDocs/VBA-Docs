@@ -1,5 +1,5 @@
 ---
-title: WdHebSpellStart Enumeration (Word)
+title: WdHebSpellStart enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHebSpellStart
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHebSpellStart Enumeration (Word)
+# WdHebSpellStart enumeration (Word)
 
 Specifies which rules the Hebrew spelling checker will follow.
 

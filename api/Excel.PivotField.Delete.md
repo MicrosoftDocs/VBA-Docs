@@ -1,5 +1,5 @@
 ---
-title: PivotField.Delete Method (Excel)
+title: PivotField.Delete method (Excel)
 keywords: vbaxl10.chm240101
 f1_keywords:
 - vbaxl10.chm240101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Delete Method (Excel)
+# PivotField.Delete method (Excel)
 
 Deletes the object.
 

@@ -23,7 +23,7 @@ _object_. **ListIndex** [= _Variant_ ]
 The  **ListIndex** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The currently selected item in the control.|

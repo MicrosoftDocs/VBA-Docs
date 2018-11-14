@@ -1,5 +1,5 @@
 ---
-title: Global.Templates Property (Word)
+title: Global.Templates property (Word)
 keywords: vbawd10.chm163119171
 f1_keywords:
 - vbawd10.chm163119171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Templates Property (Word)
+# Global.Templates property (Word)
 
 Returns a  **Templates** collection that represents all the available templates—global templates and those attached to open documents.
 

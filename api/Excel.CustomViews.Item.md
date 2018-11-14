@@ -1,5 +1,5 @@
 ---
-title: CustomViews.Item Method (Excel)
+title: CustomViews.Item method (Excel)
 keywords: vbaxl10.chm506074
 f1_keywords:
 - vbaxl10.chm506074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomViews.Item Method (Excel)
+# CustomViews.Item method (Excel)
 
 Returns a single object from a collection.
 

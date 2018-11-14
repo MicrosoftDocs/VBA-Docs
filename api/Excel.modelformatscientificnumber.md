@@ -1,5 +1,5 @@
 ---
-title: ModelFormatScientificNumber Object (Excel)
+title: ModelFormatScientificNumber object (Excel)
 keywords: vbaxl10.chm991072
 f1_keywords:
 - vbaxl10.chm991072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatScientificNumber Object (Excel)
+# ModelFormatScientificNumber object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

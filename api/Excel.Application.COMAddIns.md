@@ -1,5 +1,5 @@
 ---
-title: Application.COMAddIns Property (Excel)
+title: Application.COMAddIns property (Excel)
 keywords: vbaxl10.chm133246
 f1_keywords:
 - vbaxl10.chm133246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.COMAddIns Property (Excel)
+# Application.COMAddIns property (Excel)
 
 Returns the  **[COMAddIns](Office.COMAddIns.md)** collection for Microsoft Excel, which represents the currently installed COM add-ins. Read-only.
 

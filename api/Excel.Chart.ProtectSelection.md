@@ -1,5 +1,5 @@
 ---
-title: Chart.ProtectSelection Property (Excel)
+title: Chart.ProtectSelection property (Excel)
 keywords: vbaxl10.chm149160
 f1_keywords:
 - vbaxl10.chm149160
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ProtectSelection Property (Excel)
+# Chart.ProtectSelection property (Excel)
 
  **True** if chart elements cannot be selected. Read/write **Boolean** .
 

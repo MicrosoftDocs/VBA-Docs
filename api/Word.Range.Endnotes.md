@@ -1,5 +1,5 @@
 ---
-title: Range.Endnotes Property (Word)
+title: Range.Endnotes property (Word)
 keywords: vbawd10.chm157155383
 f1_keywords:
 - vbawd10.chm157155383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Endnotes Property (Word)
+# Range.Endnotes property (Word)
 
 Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes in a range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Smooth Property (Word)
+title: LegendKey.Smooth property (Word)
 keywords: vbawd10.chm266207395
 f1_keywords:
 - vbawd10.chm266207395
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Smooth Property (Word)
+# LegendKey.Smooth property (Word)
 
  **True** if curve smoothing is turned on for the legend key. Read/write **Boolean** .
 

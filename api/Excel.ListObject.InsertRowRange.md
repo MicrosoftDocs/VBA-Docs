@@ -1,5 +1,5 @@
 ---
-title: ListObject.InsertRowRange Property (Excel)
+title: ListObject.InsertRowRange property (Excel)
 keywords: vbaxl10.chm734085
 f1_keywords:
 - vbaxl10.chm734085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.InsertRowRange Property (Excel)
+# ListObject.InsertRowRange property (Excel)
 
  Returns a **Range** object representing the Insert row, if any, of a specified **[ListObject](Excel.ListObject.md)** object. Read-only **Range** .
 

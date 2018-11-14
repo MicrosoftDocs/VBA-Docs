@@ -1,5 +1,5 @@
 ---
-title: Words.Item Method (Word)
+title: Words.Item method (Word)
 keywords: vbawd10.chm157024256
 f1_keywords:
 - vbawd10.chm157024256
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words.Item Method (Word)
+# Words.Item method (Word)
 
 Returns an individual  **Range** object in a collection.
 

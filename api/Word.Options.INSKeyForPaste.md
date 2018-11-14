@@ -1,5 +1,5 @@
 ---
-title: Options.INSKeyForPaste Property (Word)
+title: Options.INSKeyForPaste property (Word)
 keywords: vbawd10.chm162988102
 f1_keywords:
 - vbawd10.chm162988102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.INSKeyForPaste Property (Word)
+# Options.INSKeyForPaste property (Word)
 
  **True** if the INS key can be used for pasting the Clipboard contents. Read/write **Boolean** .
 

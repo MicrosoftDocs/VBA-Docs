@@ -1,5 +1,5 @@
 ---
-title: TabStop Object (Word)
+title: TabStop object (Word)
 keywords: vbawd10.chm2388
 f1_keywords:
 - vbawd10.chm2388
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop Object (Word)
+# TabStop object (Word)
 
 Represents a single tab stop. The  **TabStop** object is a member of the **[TabStops](Word.tabstops.md)** collection. The **TabStops** collection represents all the custom and default tab stops in a paragraph or group of paragraphs.
 

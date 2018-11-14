@@ -1,5 +1,5 @@
 ---
-title: Workbook.Parent Property (Excel)
+title: Workbook.Parent property (Excel)
 keywords: vbaxl10.chm198075
 f1_keywords:
 - vbaxl10.chm198075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Parent Property (Excel)
+# Workbook.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

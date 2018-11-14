@@ -20,7 +20,7 @@ Adds a custom report to the  **Reports** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
 | _Name_|Required|STRING||

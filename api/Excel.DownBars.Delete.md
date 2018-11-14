@@ -1,5 +1,5 @@
 ---
-title: DownBars.Delete Method (Excel)
+title: DownBars.Delete method (Excel)
 keywords: vbaxl10.chm610077
 f1_keywords:
 - vbaxl10.chm610077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DownBars.Delete Method (Excel)
+# DownBars.Delete method (Excel)
 
 Deletes the object.
 

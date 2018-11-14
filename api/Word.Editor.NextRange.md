@@ -1,5 +1,5 @@
 ---
-title: Editor.NextRange Property (Word)
+title: Editor.NextRange property (Word)
 keywords: vbawd10.chm225575015
 f1_keywords:
 - vbawd10.chm225575015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.NextRange Property (Word)
+# Editor.NextRange property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the next range for which a user has permissions to modify.
 

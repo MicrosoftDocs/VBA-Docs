@@ -1,5 +1,5 @@
 ---
-title: Replacement.Font Property (Word)
+title: Replacement.Font property (Word)
 keywords: vbawd10.chm162594826
 f1_keywords:
 - vbawd10.chm162594826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Replacement.Font Property (Word)
+# Replacement.Font property (Word)
 
 Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
 

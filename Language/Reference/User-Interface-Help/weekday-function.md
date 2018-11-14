@@ -19,7 +19,7 @@ Returns a **Variant** (**Integer**) containing a whole number representing the d
 
 The **Weekday** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_date_**|Required. [Variant](../../Glossary/vbe-glossary.md#variant-data-type), [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), [string expression](../../Glossary/vbe-glossary.md#string-expression), or any combination, that can represent a date. If **_date_** contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.|
 |**_firstdayofweek_**|Optional. A [constant](../../Glossary/vbe-glossary.md#constant) that specifies the first day of the week. If not specified, **vbSunday** is assumed.|
@@ -28,7 +28,7 @@ The **Weekday** function syntax has these [named arguments](../../Glossary/vbe-g
 
 The **_firstdayofweek_** argument has these settings:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use the NLS API setting.|
 |**vbSunday**|1|Sunday (default)|
@@ -43,7 +43,7 @@ The **_firstdayofweek_** argument has these settings:
 
 The **Weekday** function can return any of these values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbSunday**|1|Sunday|
 |**vbMonday**|2|Monday|

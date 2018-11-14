@@ -1,5 +1,5 @@
 ---
-title: Cells.Count Property (Word)
+title: Cells.Count property (Word)
 keywords: vbawd10.chm155844610
 f1_keywords:
 - vbawd10.chm155844610
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Count Property (Word)
+# Cells.Count property (Word)
 
 Returns the number of items in the  **Cells** collection. Read-only **Long** .
 

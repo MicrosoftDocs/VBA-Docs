@@ -1,5 +1,5 @@
 ---
-title: Workbook.ReloadAs Method (Excel)
+title: Workbook.ReloadAs method (Excel)
 keywords: vbaxl10.chm199189
 f1_keywords:
 - vbaxl10.chm199189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ReloadAs Method (Excel)
+# Workbook.ReloadAs method (Excel)
 
 Reloads a workbook based on an HTML document, using the specified document encoding.
 

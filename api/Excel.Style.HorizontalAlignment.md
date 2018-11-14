@@ -1,5 +1,5 @@
 ---
-title: Style.HorizontalAlignment Property (Excel)
+title: Style.HorizontalAlignment property (Excel)
 keywords: vbaxl10.chm177079
 f1_keywords:
 - vbaxl10.chm177079
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.HorizontalAlignment Property (Excel)
+# Style.HorizontalAlignment property (Excel)
 
-Returns or sets a  **[XlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
+Returns or sets a  **[xlHAlign](Excel.XlHAlign.md)** value that represents the horizontal alignment for the specified object.
 
 
 ## Syntax

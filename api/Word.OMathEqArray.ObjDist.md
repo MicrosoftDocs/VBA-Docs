@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.ObjDist Property (Word)
+title: OMathEqArray.ObjDist property (Word)
 keywords: vbawd10.chm174129257
 f1_keywords:
 - vbawd10.chm174129257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.ObjDist Property (Word)
+# OMathEqArray.ObjDist property (Word)
 
 Returns or sets a  **Boolean** that represents whether the equations in an equation array are spaced to the maximum width of the equation array. Read/write.
 

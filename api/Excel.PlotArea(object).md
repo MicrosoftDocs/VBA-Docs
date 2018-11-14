@@ -1,5 +1,5 @@
 ---
-title: PlotArea Object (Excel)
+title: PlotArea object (Excel)
 keywords: vbaxl10.chm617072
 f1_keywords:
 - vbaxl10.chm617072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea Object (Excel)
+# PlotArea object (Excel)
 
 Represents the plot area of a chart.
 

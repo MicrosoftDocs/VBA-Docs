@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Pv Method (Excel)
+title: WorksheetFunction.Pv method (Excel)
 keywords: vbaxl10.chm137107
 f1_keywords:
 - vbaxl10.chm137107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Pv Method (Excel)
+# WorksheetFunction.Pv method (Excel)
 
 Returns the present value of an investment. The present value is the total amount that a series of future payments is worth now. For example, when you borrow money, the loan amount is the present value to the lender.
 

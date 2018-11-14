@@ -1,5 +1,5 @@
 ---
-title: PictureFormat Object (Excel)
+title: PictureFormat object (Excel)
 keywords: vbaxl10.chm113000
 f1_keywords:
 - vbaxl10.chm113000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat Object (Excel)
+# PictureFormat object (Excel)
 
 Contains properties and methods that apply to pictures and OLE objects.
 

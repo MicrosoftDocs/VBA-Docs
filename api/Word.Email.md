@@ -1,5 +1,5 @@
 ---
-title: Email Object (Word)
+title: Email object (Word)
 keywords: vbawd10.chm2525
 f1_keywords:
 - vbawd10.chm2525
@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 ---
 
 
-# Email Object (Word)
+# Email object (Word)
 
-Represents an e-mail message.
+Represents an email message.
 
 
 ## Remarks
 
-Use the  **[Email](Word.Document.Email.md)** property to return the **Email** object. The **Email** object and its properties are valid only if the active document is an unsent forward, reply, or new e-mail message.
+Use the  **[Email](Word.Document.Email.md)** property to return the **Email** object. The **Email** object and its properties are valid only if the active document is an unsent forward, reply, or new email message.
 
-This example displays the name of the style associated with the current e-mail author.
+This example displays the name of the style associated with the current email author.
 
 
 

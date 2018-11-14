@@ -1,5 +1,5 @@
 ---
-title: Options.MultipleWordConversionsMode Property (Word)
+title: Options.MultipleWordConversionsMode property (Word)
 keywords: vbawd10.chm162988375
 f1_keywords:
 - vbawd10.chm162988375
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MultipleWordConversionsMode Property (Word)
+# Options.MultipleWordConversionsMode property (Word)
 
 Returns or sets the direction for conversion between Hangul and Hanja. Read/write  **WdMultipleWordConversionsMode** .
 

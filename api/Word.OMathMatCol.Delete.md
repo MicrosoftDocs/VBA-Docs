@@ -1,5 +1,5 @@
 ---
-title: OMathMatCol.Delete Method (Word)
+title: OMathMatCol.Delete method (Word)
 keywords: vbawd10.chm24445128
 f1_keywords:
 - vbawd10.chm24445128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCol.Delete Method (Word)
+# OMathMatCol.Delete method (Word)
 
 Deletes the specified matrix column.
 

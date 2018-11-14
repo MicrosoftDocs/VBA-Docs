@@ -1,5 +1,5 @@
 ---
-title: Envelope.RecipientNamefromTop Property (Word)
+title: Envelope.RecipientNamefromTop property (Word)
 keywords: vbawd10.chm152567832
 f1_keywords:
 - vbawd10.chm152567832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.RecipientNamefromTop Property (Word)
+# Envelope.RecipientNamefromTop property (Word)
 
 Returns or sets a  **Single** that represents the position, measured in points, of the recipient's name from the top edge of the envelope. Read/write.
 

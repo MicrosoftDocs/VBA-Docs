@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartTitle Property (Excel)
+title: Chart.ChartTitle property (Excel)
 keywords: vbaxl10.chm149089
 f1_keywords:
 - vbaxl10.chm149089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartTitle Property (Excel)
+# Chart.ChartTitle property (Excel)
 
 Returns a  **[ChartTitle](Excel.ChartTitle(object).md)** object that represents the title of the specified chart. Read-only.
 

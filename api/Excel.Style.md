@@ -1,5 +1,5 @@
 ---
-title: Style Object (Excel)
+title: Style object (Excel)
 keywords: vbaxl10.chm176072
 f1_keywords:
 - vbaxl10.chm176072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style Object (Excel)
+# Style object (Excel)
 
 Represents a style description for a range.
 

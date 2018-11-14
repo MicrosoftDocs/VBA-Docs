@@ -1,5 +1,5 @@
 ---
-title: Axis.Border Property (Excel)
+title: Axis.Border property (Excel)
 keywords: vbaxl10.chm561076
 f1_keywords:
 - vbaxl10.chm561076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Border Property (Excel)
+# Axis.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

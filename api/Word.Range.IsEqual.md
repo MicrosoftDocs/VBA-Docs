@@ -1,5 +1,5 @@
 ---
-title: Range.IsEqual Method (Word)
+title: Range.IsEqual method (Word)
 keywords: vbawd10.chm157155499
 f1_keywords:
 - vbawd10.chm157155499
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.IsEqual Method (Word)
+# Range.IsEqual method (Word)
 
  **True** if the range to which this method is applied is equal to the range specified by the Range argument.
 

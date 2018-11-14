@@ -1,5 +1,5 @@
 ---
-title: Font.Line Property (Word)
+title: Font.Line property (Word)
 keywords: vbawd10.chm156369067
 f1_keywords:
 - vbawd10.chm156369067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Line Property (Word)
+# Font.Line property (Word)
 
 Returns a [LineFormat](Word.LineFormat.md) object that specifies the formatting for a line. Read/write.
 

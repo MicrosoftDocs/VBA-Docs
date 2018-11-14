@@ -1,5 +1,5 @@
 ---
-title: WdCaptionNumberStyle Enumeration (Word)
+title: WdCaptionNumberStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCaptionNumberStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCaptionNumberStyle Enumeration (Word)
+# WdCaptionNumberStyle enumeration (Word)
 
 Specifies the number style to be used with the  **CaptionLabel** object.
 

@@ -1,5 +1,5 @@
 ---
-title: FontNames.Count Property (Word)
+title: FontNames.Count property (Word)
 keywords: vbawd10.chm158269442
 f1_keywords:
 - vbawd10.chm158269442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FontNames.Count Property (Word)
+# FontNames.Count property (Word)
 
 Returns a  **Long** that represents the number of font names in the collection. Read-only **Long** .
 

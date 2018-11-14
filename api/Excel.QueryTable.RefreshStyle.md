@@ -1,5 +1,5 @@
 ---
-title: QueryTable.RefreshStyle Property (Excel)
+title: QueryTable.RefreshStyle property (Excel)
 keywords: vbaxl10.chm518083
 f1_keywords:
 - vbaxl10.chm518083
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.RefreshStyle Property (Excel)
+# QueryTable.RefreshStyle property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[XlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[xlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 
 
 
-| **XlCellInsertionMode** can be one of these **XlCellInsertionMode** constants.|
+| **xlCellInsertionMode** can be one of these **xlCellInsertionMode** constants.|
 | **xlInsertDeleteCells** Partial rows are inserted or deleted to match the exact number of rows required for the new recordset.|
 | **xlOverwriteCells** No new cells or rows are added to the worksheet. Data in surrounding cells is overwritten to accommodate any overflow.|
 | **xlInsertEntireRows** Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|

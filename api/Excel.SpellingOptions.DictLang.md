@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.DictLang Property (Excel)
+title: SpellingOptions.DictLang property (Excel)
 keywords: vbaxl10.chm717073
 f1_keywords:
 - vbaxl10.chm717073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.DictLang Property (Excel)
+# SpellingOptions.DictLang property (Excel)
 
 Selects the dictionary language used when Microsoft Excel performs spelling checks. Read/write  **Long** .
 

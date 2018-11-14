@@ -1,5 +1,5 @@
 ---
-title: View.Parent Property (Word)
+title: View.Parent property (Word)
 keywords: vbawd10.chm161809386
 f1_keywords:
 - vbawd10.chm161809386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Parent Property (Word)
+# View.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **View** object.
 

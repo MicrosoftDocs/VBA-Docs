@@ -1,5 +1,5 @@
 ---
-title: Application.DDEExecute Method (Excel)
+title: Application.DDEExecute method (Excel)
 keywords: vbaxl10.chm132089
 f1_keywords:
 - vbaxl10.chm132089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DDEExecute Method (Excel)
+# Application.DDEExecute method (Excel)
 
 Runs a command or performs some other action or actions in another application by way of the specified DDE channel.
 

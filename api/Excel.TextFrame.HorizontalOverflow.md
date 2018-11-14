@@ -1,5 +1,5 @@
 ---
-title: TextFrame.HorizontalOverflow Property (Excel)
+title: TextFrame.HorizontalOverflow property (Excel)
 keywords: vbaxl10.chm644085
 f1_keywords:
 - vbaxl10.chm644085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.HorizontalOverflow Property (Excel)
+# TextFrame.HorizontalOverflow property (Excel)
 
 Returns or sets the horizontal overflow setting for the specified object. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the horizontal overflow setting for the specified object. Read/w
 
 ## Return value
 
- **[XlOartHorizontalOverflow](Excel.XlOartHorizontalOverflow.md)**
+ **[xlOartHorizontalOverflow](Excel.XlOartHorizontalOverflow.md)**
 
 
 ## Remarks

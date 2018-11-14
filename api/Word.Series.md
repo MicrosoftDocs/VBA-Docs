@@ -1,5 +1,5 @@
 ---
-title: Series Object (Word)
+title: Series object (Word)
 keywords: vbawd10.chm1888
 f1_keywords:
 - vbawd10.chm1888
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series Object (Word)
+# Series object (Word)
 
 Represents a series in a chart.
 

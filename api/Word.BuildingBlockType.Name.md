@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType.Name Property (Word)
+title: BuildingBlockType.Name property (Word)
 keywords: vbawd10.chm167378946
 f1_keywords:
 - vbawd10.chm167378946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockType.Name Property (Word)
+# BuildingBlockType.Name property (Word)
 
 Returns a  **String** that represents the localized name of a building block type. Read-only.
 

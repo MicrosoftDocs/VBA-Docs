@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeMailFormat Enumeration (Word)
+title: WdMailMergeMailFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeMailFormat
@@ -8,14 +8,14 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeMailFormat Enumeration (Word)
+# WdMailMergeMailFormat enumeration (Word)
 
-Specifies the format to use when the mail merge destination is an e-mail message.
+Specifies the format to use when the mail merge destination is an email message.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **wdMailFormatHTML**|1|Sends mail merge e-mail documents using HTML format.|
-| **wdMailFormatPlainText**|0|Sends mail merge e-mail documents using plain text.|
+| **wdMailFormatHTML**|1|Sends mail merge email documents using HTML format.|
+| **wdMailFormatPlainText**|0|Sends mail merge email documents using plain text.|
 

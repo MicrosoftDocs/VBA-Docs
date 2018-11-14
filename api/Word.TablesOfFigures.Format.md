@@ -1,5 +1,5 @@
 ---
-title: TablesOfFigures.Format Property (Word)
+title: TablesOfFigures.Format property (Word)
 keywords: vbawd10.chm153223170
 f1_keywords:
 - vbawd10.chm153223170
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfFigures.Format Property (Word)
+# TablesOfFigures.Format property (Word)
 
 Returns or sets the formatting for the tables of figures in the specified document. Read/write  **WdTofFormat** .
 

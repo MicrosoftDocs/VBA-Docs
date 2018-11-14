@@ -43,7 +43,7 @@ The following possible values for the  **DataGraphicHorizontalPosition** propert
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicFarLeft**|0|The right edge of the graphic item's alignment box is aligned with the left edge of the shape's alignment box.|
 | **visGraphicLeftEdge**|1|The vertical centerline of the graphic item's alignment box is aligned with the left edge of the shape's alignment box.|

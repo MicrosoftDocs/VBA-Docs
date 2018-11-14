@@ -1,5 +1,5 @@
 ---
-title: Shape.AutoShapeType Property (Excel)
+title: Shape.AutoShapeType property (Excel)
 keywords: vbaxl10.chm636091
 f1_keywords:
 - vbaxl10.chm636091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.AutoShapeType Property (Excel)
+# Shape.AutoShapeType property (Excel)
 
 Returns or sets the shape type for the specified  **[Shape](Excel.Shape.md)** or **[ShapeRange](Excel.ShapeRange.md)** object, which must represent an AutoShape other than a line, freeform drawing, or connector. Read/write **[MsoAutoShapeType](./Office.MsoAutoShapeType.md)** .
 

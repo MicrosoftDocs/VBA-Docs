@@ -1,5 +1,5 @@
 ---
-title: ModelFormatPercentageNumber.Parent Property (Excel)
+title: ModelFormatPercentageNumber.Parent property (Excel)
 keywords: vbaxl10.chm989075
 f1_keywords:
 - vbaxl10.chm989075
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatPercentageNumber.Parent Property (Excel)
+# ModelFormatPercentageNumber.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

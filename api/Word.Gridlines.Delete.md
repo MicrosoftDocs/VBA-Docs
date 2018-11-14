@@ -1,5 +1,5 @@
 ---
-title: Gridlines.Delete Method (Word)
+title: Gridlines.Delete method (Word)
 keywords: vbawd10.chm11468917
 f1_keywords:
 - vbawd10.chm11468917
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Gridlines.Delete Method (Word)
+# Gridlines.Delete method (Word)
 
 Deletes the object.
 

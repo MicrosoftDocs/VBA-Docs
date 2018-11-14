@@ -1,5 +1,5 @@
 ---
-title: Shape.Flip Method (Word)
+title: Shape.Flip method (Word)
 keywords: vbawd10.chm161480717
 f1_keywords:
 - vbawd10.chm161480717
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Flip Method (Word)
+# Shape.Flip method (Word)
 
 Flips a shape horizontally or vertically.
 

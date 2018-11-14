@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.LocaleID Property (Excel)
+title: OLEDBConnection.LocaleID property (Excel)
 keywords: vbaxl10.chm794107
 f1_keywords:
 - vbaxl10.chm794107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.LocaleID Property (Excel)
+# OLEDBConnection.LocaleID property (Excel)
 
 Returns or sets the locale identifier for the specified connection. Read/write
 

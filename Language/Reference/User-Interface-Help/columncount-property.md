@@ -23,7 +23,7 @@ _object_. **ColumnCount** [= _Long_ ]
 The  **ColumnCount** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. Specifies the number of columns to display.|

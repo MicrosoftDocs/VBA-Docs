@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Name Property (Word)
+title: ChartArea.Name property (Word)
 keywords: vbawd10.chm160039022
 f1_keywords:
 - vbawd10.chm160039022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Name Property (Word)
+# ChartArea.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Depth Property (Word)
+title: ThreeDFormat.Depth property (Word)
 keywords: vbawd10.chm164626532
 f1_keywords:
 - vbawd10.chm164626532
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Depth Property (Word)
+# ThreeDFormat.Depth property (Word)
 
 Returns or sets the depth of the shape's extrusion. Read/write  **Single** .
 

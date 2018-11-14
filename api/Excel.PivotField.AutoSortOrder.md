@@ -1,5 +1,5 @@
 ---
-title: PivotField.AutoSortOrder Property (Excel)
+title: PivotField.AutoSortOrder property (Excel)
 keywords: vbaxl10.chm240113
 f1_keywords:
 - vbaxl10.chm240113
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.AutoSortOrder Property (Excel)
+# PivotField.AutoSortOrder property (Excel)
 
-Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of  **[XlSortOrder](Excel.XlSortOrder.md)** . Read-only **Long** .
+Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of  **[xlSortOrder](Excel.XlSortOrder.md)** . Read-only **Long** .
 
 
 ## Syntax

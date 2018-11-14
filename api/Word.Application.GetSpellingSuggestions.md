@@ -1,5 +1,5 @@
 ---
-title: Application.GetSpellingSuggestions Method (Word)
+title: Application.GetSpellingSuggestions method (Word)
 keywords: vbawd10.chm158335303
 f1_keywords:
 - vbawd10.chm158335303
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.GetSpellingSuggestions Method (Word)
+# Application.GetSpellingSuggestions method (Word)
 
 Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection that represents the words suggested as spelling replacements for a given word.
 

@@ -1,5 +1,5 @@
 ---
-title: XlUpdateLinks Enumeration (Excel)
+title: xlUpdateLinks enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlUpdateLinks
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlUpdateLinks Enumeration (Excel)
+# xlUpdateLinks enumeration (Excel)
 
 Specifies a workbook's setting for updating embedded OLE links.
 

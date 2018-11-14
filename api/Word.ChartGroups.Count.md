@@ -1,5 +1,5 @@
 ---
-title: ChartGroups.Count Property (Word)
+title: ChartGroups.Count property (Word)
 keywords: vbawd10.chm77004918
 f1_keywords:
 - vbawd10.chm77004918
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroups.Count Property (Word)
+# ChartGroups.Count property (Word)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Update Method (Excel)
+title: LinkFormat.Update method (Excel)
 keywords: vbaxl10.chm634075
 f1_keywords:
 - vbaxl10.chm634075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Update Method (Excel)
+# LinkFormat.Update method (Excel)
 
 Updates the link.
 

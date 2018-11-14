@@ -1,5 +1,5 @@
 ---
-title: WdLetterStyle Enumeration (Word)
+title: WdLetterStyle enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLetterStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLetterStyle Enumeration (Word)
+# WdLetterStyle enumeration (Word)
 
 Specifies the layout of a letter created by the Letter Wizard.
 

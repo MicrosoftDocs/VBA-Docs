@@ -1,12 +1,12 @@
 ---
-title: XlSeriesNameLevel Enumeration (PowerPoint)
+title: xlSeriesNameLevel Enumeration (PowerPoint)
 ms.assetid: 9896c812-6cf4-d5d6-f9e2-c23a76c1dd7c
 ms.date: 06/08/2017
 ms.prod: powerpoint
 ---
 
 
-# XlSeriesNameLevel Enumeration (PowerPoint)
+# xlSeriesNameLevel Enumeration (PowerPoint)
 
 Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel](PowerPoint.chart.seriesnamelevel.md) property.
 

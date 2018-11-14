@@ -1,5 +1,5 @@
 ---
-title: XlXmlImportResult Enumeration (Excel)
+title: xlXmlImportResult enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlImportResult
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlXmlImportResult Enumeration (Excel)
+# xlXmlImportResult enumeration (Excel)
 
 Specifies the results of the refresh or import operation.
 

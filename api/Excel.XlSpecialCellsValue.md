@@ -1,5 +1,5 @@
 ---
-title: XlSpecialCellsValue Enumeration (Excel)
+title: xlSpecialCellsValue enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSpecialCellsValue
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSpecialCellsValue Enumeration (Excel)
+# xlSpecialCellsValue enumeration (Excel)
 
 Specifies cells with a particular type of value to include in the result.
 

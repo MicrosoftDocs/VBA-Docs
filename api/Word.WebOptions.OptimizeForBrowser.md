@@ -1,5 +1,5 @@
 ---
-title: WebOptions.OptimizeForBrowser Property (Word)
+title: WebOptions.OptimizeForBrowser property (Word)
 keywords: vbawd10.chm165937153
 f1_keywords:
 - vbawd10.chm165937153
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.OptimizeForBrowser Property (Word)
+# WebOptions.OptimizeForBrowser property (Word)
 
  **True** if Word optimizes the specified Web page for the Web browser specified by the **[BrowserLevel](Word.WebOptions.BrowserLevel.md)** property. Read/write **Boolean** .
 

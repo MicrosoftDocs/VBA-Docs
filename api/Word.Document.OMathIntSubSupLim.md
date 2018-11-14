@@ -1,5 +1,5 @@
 ---
-title: Document.OMathIntSubSupLim Property (Word)
+title: Document.OMathIntSubSupLim property (Word)
 keywords: vbawd10.chm158007832
 f1_keywords:
 - vbawd10.chm158007832
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.OMathIntSubSupLim Property (Word)
+# Document.OMathIntSubSupLim property (Word)
 
 Returns or sets a  **Boolean** that represents the default location of limits for integrals. Read/write.
 

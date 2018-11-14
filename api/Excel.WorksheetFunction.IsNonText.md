@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.IsNonText Method (Excel)
+title: WorksheetFunction.IsNonText method (Excel)
 keywords: vbaxl10.chm137146
 f1_keywords:
 - vbaxl10.chm137146
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.IsNonText Method (Excel)
+# WorksheetFunction.IsNonText method (Excel)
 
 Checks the type of value and returns TRUE or FALSE depending if the value refers to any item that is not text. (Note that this function returns TRUE if value refers to a blank cell.)
 

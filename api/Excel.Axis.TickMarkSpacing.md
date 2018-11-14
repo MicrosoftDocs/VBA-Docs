@@ -1,5 +1,5 @@
 ---
-title: Axis.TickMarkSpacing Property (Excel)
+title: Axis.TickMarkSpacing property (Excel)
 keywords: vbaxl10.chm561102
 f1_keywords:
 - vbaxl10.chm561102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.TickMarkSpacing Property (Excel)
+# Axis.TickMarkSpacing property (Excel)
 
 Returns or sets the number of categories or series between tick marks. Applies only to category and series axes. Can be a value from 1 through 31999. Read/write  **Long** .
 

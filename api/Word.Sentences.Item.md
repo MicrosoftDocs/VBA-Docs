@@ -1,5 +1,5 @@
 ---
-title: Sentences.Item Method (Word)
+title: Sentences.Item method (Word)
 ms.prod: word
 api_name:
 - Word.Sentences.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sentences.Item Method (Word)
+# Sentences.Item method (Word)
 
 Returns an individual  **Range** object in a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.TablesOfAuthoritiesCategories Property (Word)
+title: Document.TablesOfAuthoritiesCategories property (Word)
 keywords: vbawd10.chm158007334
 f1_keywords:
 - vbawd10.chm158007334
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TablesOfAuthoritiesCategories Property (Word)
+# Document.TablesOfAuthoritiesCategories property (Word)
 
 Returns a  **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.md)** collection that represents the available table of authorities categories for the specified document. Read-only.
 

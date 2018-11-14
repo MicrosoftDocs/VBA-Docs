@@ -1,5 +1,5 @@
 ---
-title: Chart.ShowReportFilterFieldButtons Property (Excel)
+title: Chart.ShowReportFilterFieldButtons property (Excel)
 keywords: vbaxl10.chm149189
 f1_keywords:
 - vbaxl10.chm149189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ShowReportFilterFieldButtons Property (Excel)
+# Chart.ShowReportFilterFieldButtons property (Excel)
 
 Returns or sets whether to display the report filter field buttons on a PivotChart. Read/write
 

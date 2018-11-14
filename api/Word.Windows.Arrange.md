@@ -1,5 +1,5 @@
 ---
-title: Windows.Arrange Method (Word)
+title: Windows.Arrange method (Word)
 keywords: vbawd10.chm157351947
 f1_keywords:
 - vbawd10.chm157351947
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Windows.Arrange Method (Word)
+# Windows.Arrange method (Word)
 
 Arranges all open document windows in the application workspace.
 

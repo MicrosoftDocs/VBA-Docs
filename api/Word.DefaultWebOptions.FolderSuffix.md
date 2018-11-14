@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.FolderSuffix Property (Word)
+title: DefaultWebOptions.FolderSuffix property (Word)
 keywords: vbawd10.chm165871632
 f1_keywords:
 - vbawd10.chm165871632
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.FolderSuffix Property (Word)
+# DefaultWebOptions.FolderSuffix property (Word)
 
 Returns a  **String** that represents the folder suffix that Microsoft Word uses when you save a document as a Web page, use long file names, or save supporting files in a separate folder. Read-only.
 

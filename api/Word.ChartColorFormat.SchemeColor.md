@@ -1,5 +1,5 @@
 ---
-title: ChartColorFormat.SchemeColor Property (Word)
+title: ChartColorFormat.SchemeColor property (Word)
 keywords: vbawd10.chm12060270
 f1_keywords:
 - vbawd10.chm12060270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartColorFormat.SchemeColor Property (Word)
+# ChartColorFormat.SchemeColor property (Word)
 
 Returns or sets the index of a color in the current color scheme. Read/write  **Long** .
 

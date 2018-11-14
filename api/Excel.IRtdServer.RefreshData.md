@@ -1,5 +1,5 @@
 ---
-title: IRtdServer.RefreshData Method (Excel)
+title: IRtdServer.RefreshData method (Excel)
 keywords: vbaxl10.chm500007
 f1_keywords:
 - vbaxl10.chm500007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRtdServer.RefreshData Method (Excel)
+# IRtdServer.RefreshData method (Excel)
 
 This method is called by Microsoft Excel to get new data. Returns a  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Delete Method (Word)
+title: SeriesLines.Delete method (Word)
 keywords: vbawd10.chm202702965
 f1_keywords:
 - vbawd10.chm202702965
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Delete Method (Word)
+# SeriesLines.Delete method (Word)
 
 Deletes the object.
 

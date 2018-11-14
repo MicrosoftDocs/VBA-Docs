@@ -1,5 +1,5 @@
 ---
-title: MultiThreadedCalculation Object (Excel)
+title: MultiThreadedCalculation object (Excel)
 keywords: vbaxl10.chm858072
 f1_keywords:
 - vbaxl10.chm858072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MultiThreadedCalculation Object (Excel)
+# MultiThreadedCalculation object (Excel)
 
 Returns or sets the concurrent calculation mode.
 

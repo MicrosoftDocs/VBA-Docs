@@ -1,5 +1,5 @@
 ---
-title: Line.Width Property (Word)
+title: Line.Width property (Word)
 keywords: vbawd10.chm49610757
 f1_keywords:
 - vbawd10.chm49610757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.Width Property (Word)
+# Line.Width property (Word)
 
 Returns or sets the width, in points, of a line. Read/write  **Long** .
 

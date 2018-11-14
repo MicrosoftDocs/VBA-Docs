@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # LegendKey.PictureType Property (PowerPoint)
 
-Returns or sets the way pictures are displayed on a legend key. Read/write  **[XlChartPictureType](PowerPoint.XlChartPictureType.md)**.
+Returns or sets the way pictures are displayed on a legend key. Read/write  **[xlChartPictureType](PowerPoint.XlChartPictureType.md)**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationZ Method (Word)
+title: ThreeDFormat.IncrementRotationZ method (Word)
 keywords: vbawd10.chm164626448
 f1_keywords:
 - vbawd10.chm164626448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationZ Method (Word)
+# ThreeDFormat.IncrementRotationZ method (Word)
 
 Rotates a shape on the z-axis using the specified incrementation.
 

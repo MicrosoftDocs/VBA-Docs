@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.Clear Method (Excel)
+title: TableStyleElement.Clear method (Excel)
 keywords: vbaxl10.chm835078
 f1_keywords:
 - vbaxl10.chm835078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.Clear Method (Excel)
+# TableStyleElement.Clear method (Excel)
 
 Clears the formatting for this element.
 

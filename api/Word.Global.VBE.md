@@ -1,5 +1,5 @@
 ---
-title: Global.VBE Property (Word)
+title: Global.VBE property (Word)
 keywords: vbawd10.chm163119165
 f1_keywords:
 - vbawd10.chm163119165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.VBE Property (Word)
+# Global.VBE property (Word)
 
 Returns a  **VBE** object that represents the Visual Basic Editor.
 

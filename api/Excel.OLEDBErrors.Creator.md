@@ -1,5 +1,5 @@
 ---
-title: OLEDBErrors.Creator Property (Excel)
+title: OLEDBErrors.Creator property (Excel)
 keywords: vbaxl10.chm655074
 f1_keywords:
 - vbaxl10.chm655074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBErrors.Creator Property (Excel)
+# OLEDBErrors.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

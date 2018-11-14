@@ -1,5 +1,5 @@
 ---
-title: Frameset Object (Word)
+title: Frameset object (Word)
 keywords: vbawd10.chm2530
 f1_keywords:
 - vbawd10.chm2530
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset Object (Word)
+# Frameset object (Word)
 
 Represents an entire frames page or a single frame on a frames page.
 

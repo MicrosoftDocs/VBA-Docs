@@ -1,5 +1,5 @@
 ---
-title: Application.RegisteredFunctions Property (Excel)
+title: Application.RegisteredFunctions property (Excel)
 keywords: vbaxl10.chm133198
 f1_keywords:
 - vbaxl10.chm133198
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RegisteredFunctions Property (Excel)
+# Application.RegisteredFunctions property (Excel)
 
 Returns information about functions in either dynamic-link libraries (DLLs) or code resources that were registered with the REGISTER or REGISTER.ID macro functions. Read-only  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Application.HighQualityModeForGraphics Property (Excel)
+title: Application.HighQualityModeForGraphics property (Excel)
 keywords: vbaxl10.chm133317
 f1_keywords:
 - vbaxl10.chm133317
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.HighQualityModeForGraphics Property (Excel)
+# Application.HighQualityModeForGraphics property (Excel)
 
 Returns or sets whether Excel uses high quality mode to print graphics. Read/write
 

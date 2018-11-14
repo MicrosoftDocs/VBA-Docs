@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.Add Method (Word)
+title: AutoCorrectEntries.Add method (Word)
 keywords: vbawd10.chm155713637
 f1_keywords:
 - vbawd10.chm155713637
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.Add Method (Word)
+# AutoCorrectEntries.Add method (Word)
 
 Returns an  **AutoCorrectEntry** object that represents a plain-text AutoCorrect entry added to the list of available AutoCorrect entries.
 

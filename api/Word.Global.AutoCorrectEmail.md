@@ -1,5 +1,5 @@
 ---
-title: Global.AutoCorrectEmail Property (Word)
+title: Global.AutoCorrectEmail property (Word)
 keywords: vbawd10.chm163119217
 f1_keywords:
 - vbawd10.chm163119217
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.AutoCorrectEmail Property (Word)
+# Global.AutoCorrectEmail property (Word)
 
-Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automatic corrections made to e-mail messages.
+Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automatic corrections made to email messages.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AutoCorrect](Word.AutoCorrect.md)** object that represents automa
 
 ## Example
 
-This example adds AutoCorrect entries for e-mail messages. After this code runs, every instance of "allways," "hte," and "hwen" that's typed in an e-mail message will be replaced with "always," "the," and "when," respectively.
+This example adds AutoCorrect entries for email messages. After this code runs, every instance of "allways," "hte," and "hwen" that's typed in an email message will be replaced with "always," "the," and "when," respectively.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: WdBuildingBlockTypes Enumeration (Word)
+title: WdBuildingBlockTypes enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBuildingBlockTypes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBuildingBlockTypes Enumeration (Word)
+# WdBuildingBlockTypes enumeration (Word)
 
 Specifies the type of building block.
 

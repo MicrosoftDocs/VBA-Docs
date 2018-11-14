@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.Parent Property (Word)
+title: CaptionLabel.Parent property (Word)
 keywords: vbawd10.chm158925802
 f1_keywords:
 - vbawd10.chm158925802
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.Parent Property (Word)
+# CaptionLabel.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CaptionLabel** object.
 

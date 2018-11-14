@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Visible Property (Excel)
+title: Worksheet.Visible property (Excel)
 keywords: vbaxl10.chm174097
 f1_keywords:
 - vbaxl10.chm174097
@@ -11,9 +11,9 @@ ms.date: 08/29/2018
 ---
 
 
-# Worksheet.Visible Property (Excel)
+# Worksheet.Visible property (Excel)
 
-Returns or sets an **[XlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
+Returns or sets an **[xlSheetVisibility](Excel.XlSheetVisibility.md)** value that determines whether the object is visible.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Hyperlink Object (Excel)
+title: Hyperlink object (Excel)
 keywords: vbaxl10.chm535072
 f1_keywords:
 - vbaxl10.chm535072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink Object (Excel)
+# Hyperlink object (Excel)
 
 Represents a hyperlink.
 

@@ -1,5 +1,5 @@
 ---
-title: Slicer.ColumnWidth Property (Excel)
+title: Slicer.ColumnWidth property (Excel)
 keywords: vbaxl10.chm905081
 f1_keywords:
 - vbaxl10.chm905081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.ColumnWidth Property (Excel)
+# Slicer.ColumnWidth property (Excel)
 
 Returns or sets the width, in points, of each column in the slicer. Read/write
 

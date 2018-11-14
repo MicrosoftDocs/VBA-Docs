@@ -1,5 +1,5 @@
 ---
-title: FormField.Result Property (Word)
+title: FormField.Result property (Word)
 keywords: vbawd10.chm153616394
 f1_keywords:
 - vbawd10.chm153616394
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Result Property (Word)
+# FormField.Result property (Word)
 
 Returns a  **String** that represents the result of the specified form field. Read/write.
 

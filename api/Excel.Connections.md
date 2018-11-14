@@ -1,5 +1,5 @@
 ---
-title: Connections Object (Excel)
+title: Connections object (Excel)
 keywords: vbaxl10.chm775072
 f1_keywords:
 - vbaxl10.chm775072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Connections Object (Excel)
+# Connections object (Excel)
 
 A collection of [WorkbookConnection](Excel.WorkbookConnection.md) objects for the specified workbook.
 

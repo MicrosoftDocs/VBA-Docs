@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.PickUp Method (Excel)
+title: ShapeRange.PickUp method (Excel)
 keywords: vbaxl10.chm640087
 f1_keywords:
 - vbaxl10.chm640087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.PickUp Method (Excel)
+# ShapeRange.PickUp method (Excel)
 
 Copies the formatting of the specified shape. Use the  **[Apply](Excel.ShapeRange.Apply.md)** method to apply the copied formatting to another shape.
 

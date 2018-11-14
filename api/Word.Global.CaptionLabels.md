@@ -1,5 +1,5 @@
 ---
-title: Global.CaptionLabels Property (Word)
+title: Global.CaptionLabels property (Word)
 keywords: vbawd10.chm163119124
 f1_keywords:
 - vbawd10.chm163119124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.CaptionLabels Property (Word)
+# Global.CaptionLabels property (Word)
 
 Returns a  **[CaptionLabels](Word.captionlabels.md)** collection that represents all the available caption labels. Read-only.
 

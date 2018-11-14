@@ -1,5 +1,5 @@
 ---
-title: ListObject.Summary Property (Excel)
+title: ListObject.Summary property (Excel)
 keywords: vbaxl10.chm734109
 f1_keywords:
 - vbaxl10.chm734109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.Summary Property (Excel)
+# ListObject.Summary property (Excel)
 
 Returns or sets the description associated with the alternative text string for the specified table. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.Parent Property (Excel)
+title: WorksheetView.Parent property (Excel)
 keywords: vbaxl10.chm777075
 f1_keywords:
 - vbaxl10.chm777075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.Parent Property (Excel)
+# WorksheetView.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

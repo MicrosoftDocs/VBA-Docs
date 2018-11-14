@@ -1,5 +1,5 @@
 ---
-title: Trendline.Format Property (Excel)
+title: Trendline.Format property (Excel)
 keywords: vbaxl10.chm594093
 f1_keywords:
 - vbaxl10.chm594093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Format Property (Excel)
+# Trendline.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

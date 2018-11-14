@@ -1,5 +1,5 @@
 ---
-title: Style.FormulaHidden Property (Excel)
+title: Style.FormulaHidden property (Excel)
 keywords: vbaxl10.chm177078
 f1_keywords:
 - vbaxl10.chm177078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.FormulaHidden Property (Excel)
+# Style.FormulaHidden property (Excel)
 
 Returns or sets a  **Boolean** value that indicates if the formula will be hidden when the worksheet is protected.
 

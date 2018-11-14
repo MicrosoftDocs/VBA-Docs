@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference.Parent Property (Word)
+title: XMLSchemaReference.Parent property (Word)
 keywords: vbawd10.chm32506858
 f1_keywords:
 - vbawd10.chm32506858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference.Parent Property (Word)
+# XMLSchemaReference.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **XMLSchemaReference** object.
 

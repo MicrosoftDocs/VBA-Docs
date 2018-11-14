@@ -1,5 +1,5 @@
 ---
-title: Mailer.BCCRecipients Property (Excel)
+title: Mailer.BCCRecipients property (Excel)
 keywords: vbaxl10.chm499073
 f1_keywords:
 - vbaxl10.chm499073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Mailer.BCCRecipients Property (Excel)
+# Mailer.BCCRecipients property (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

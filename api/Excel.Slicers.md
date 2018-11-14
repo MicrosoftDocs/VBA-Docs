@@ -1,5 +1,5 @@
 ---
-title: Slicers Object (Excel)
+title: Slicers object (Excel)
 keywords: vbaxl10.chm902072
 f1_keywords:
 - vbaxl10.chm902072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicers Object (Excel)
+# Slicers object (Excel)
 
 A collection of  **[Slicer](Excel.Slicer.md)** objects.
 

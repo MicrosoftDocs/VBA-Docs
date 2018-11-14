@@ -1,5 +1,5 @@
 ---
-title: Workbook.ApplyTheme Method (Excel)
+title: Workbook.ApplyTheme method (Excel)
 keywords: vbaxl10.chm199255
 f1_keywords:
 - vbaxl10.chm199255
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ApplyTheme Method (Excel)
+# Workbook.ApplyTheme method (Excel)
 
 Applies the specified theme to the current workbook.
 

@@ -1,5 +1,5 @@
 ---
-title: Range.CurrentRegion Property (Excel)
+title: Range.CurrentRegion property (Excel)
 keywords: vbaxl10.chm144111
 f1_keywords:
 - vbaxl10.chm144111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CurrentRegion Property (Excel)
+# Range.CurrentRegion property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the current region. The current region is a range bounded by any combination of blank rows and blank columns. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.LastRecord Property (Word)
+title: MailMergeDataSource.LastRecord property (Word)
 keywords: vbawd10.chm152895497
 f1_keywords:
 - vbawd10.chm152895497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.LastRecord Property (Word)
+# MailMergeDataSource.LastRecord property (Word)
 
 Returns or sets the number of the last record to be merged in a mail merge operation. Read/write  **Long** .
 

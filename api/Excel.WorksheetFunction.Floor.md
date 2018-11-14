@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Floor Method (Excel)
+title: WorksheetFunction.Floor method (Excel)
 keywords: vbaxl10.chm137189
 f1_keywords:
 - vbaxl10.chm137189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Floor Method (Excel)
+# WorksheetFunction.Floor method (Excel)
 
 Rounds number down, toward zero, to the nearest multiple of significance.
 

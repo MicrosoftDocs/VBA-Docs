@@ -1,5 +1,5 @@
 ---
-title: WdMonthNames Enumeration (Word)
+title: WdMonthNames enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMonthNames
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMonthNames Enumeration (Word)
+# WdMonthNames enumeration (Word)
 
 Specifies the format in which to display month names.
 

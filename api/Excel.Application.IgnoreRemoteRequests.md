@@ -1,5 +1,5 @@
 ---
-title: Application.IgnoreRemoteRequests Property (Excel)
+title: Application.IgnoreRemoteRequests property (Excel)
 keywords: vbaxl10.chm133147
 f1_keywords:
 - vbaxl10.chm133147
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.IgnoreRemoteRequests Property (Excel)
+# Application.IgnoreRemoteRequests property (Excel)
 
  **True** if remote DDE requests are ignored. Read/write **Boolean** .
 

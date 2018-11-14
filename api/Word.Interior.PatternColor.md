@@ -1,5 +1,5 @@
 ---
-title: Interior.PatternColor Property (Word)
+title: Interior.PatternColor property (Word)
 keywords: vbawd10.chm2818056
 f1_keywords:
 - vbawd10.chm2818056
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.PatternColor Property (Word)
+# Interior.PatternColor property (Word)
 
 Returns or sets the color of the interior pattern as an RGB value. Read/write  **Variant** .
 

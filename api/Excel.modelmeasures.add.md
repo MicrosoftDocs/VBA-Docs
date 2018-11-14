@@ -1,5 +1,5 @@
 ---
-title: ModelMeasures.Add Method (Excel)
+title: ModelMeasures.Add method (Excel)
 keywords: vbaxl10.chm980077
 f1_keywords:
 - vbaxl10.chm980077
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasures.Add Method (Excel)
+# ModelMeasures.Add method (Excel)
 
 Adds a model measure to the model.
 

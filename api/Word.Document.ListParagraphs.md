@@ -1,5 +1,5 @@
 ---
-title: Document.ListParagraphs Property (Word)
+title: Document.ListParagraphs property (Word)
 keywords: vbawd10.chm158007380
 f1_keywords:
 - vbawd10.chm158007380
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ListParagraphs Property (Word)
+# Document.ListParagraphs property (Word)
 
 Returns a  **ListParagraphs** object that represents all the numbered paragraphs in a document. Read-only.
 

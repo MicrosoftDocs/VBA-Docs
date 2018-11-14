@@ -1,5 +1,5 @@
 ---
-title: OMathGroupChar.CharTop Property (Word)
+title: OMathGroupChar.CharTop property (Word)
 keywords: vbawd10.chm213123177
 f1_keywords:
 - vbawd10.chm213123177
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathGroupChar.CharTop Property (Word)
+# OMathGroupChar.CharTop property (Word)
 
 Returns or sets a  **Boolean** that represents whether the grouping character is placed above the base text of the group character object. **False** displays the group character under the base text. Read/write.
 

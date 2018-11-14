@@ -1,5 +1,5 @@
 ---
-title: ControlFormat Object (Excel)
+title: ControlFormat object (Excel)
 keywords: vbaxl10.chm629072
 f1_keywords:
 - vbaxl10.chm629072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat Object (Excel)
+# ControlFormat object (Excel)
 
 Contains Microsoft Excel control properties.
 

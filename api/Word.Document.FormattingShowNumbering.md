@@ -1,5 +1,5 @@
 ---
-title: Document.FormattingShowNumbering Property (Word)
+title: Document.FormattingShowNumbering property (Word)
 keywords: vbawd10.chm158007747
 f1_keywords:
 - vbawd10.chm158007747
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FormattingShowNumbering Property (Word)
+# Document.FormattingShowNumbering property (Word)
 
  **True** for Microsoft Word to display number formatting in the **Styles and Formatting** task pane. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Creator Property (Excel)
+title: LineFormat.Creator property (Excel)
 ms.prod: excel
 api_name:
 - Excel.LineFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Creator Property (Excel)
+# LineFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

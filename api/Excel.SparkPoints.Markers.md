@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Markers Property (Excel)
+title: SparkPoints.Markers property (Excel)
 keywords: vbaxl10.chm873074
 f1_keywords:
 - vbaxl10.chm873074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Markers Property (Excel)
+# SparkPoints.Markers property (Excel)
 
 Returns a  **[SparkColor](Excel.SparkColor.md)** object that represents the color and visibility of markers for positive points of data on a sparkline. Read-only
 

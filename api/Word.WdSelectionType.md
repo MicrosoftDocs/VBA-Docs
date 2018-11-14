@@ -1,5 +1,5 @@
 ---
-title: WdSelectionType Enumeration (Word)
+title: WdSelectionType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSelectionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSelectionType Enumeration (Word)
+# WdSelectionType enumeration (Word)
 
 Specifies the type of selection.
 

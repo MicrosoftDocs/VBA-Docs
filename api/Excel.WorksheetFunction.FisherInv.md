@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.FisherInv Method (Excel)
+title: WorksheetFunction.FisherInv method (Excel)
 keywords: vbaxl10.chm137188
 f1_keywords:
 - vbaxl10.chm137188
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.FisherInv Method (Excel)
+# WorksheetFunction.FisherInv method (Excel)
 
 Returns the inverse of the Fisher transformation. Use this transformation when analyzing correlations between ranges or arrays of data. If y = FISHER(x), then FISHERINV(y) = x.
 

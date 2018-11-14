@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Creator Property (Word)
+title: DisplayUnitLabel.Creator property (Word)
 keywords: vbawd10.chm94568597
 f1_keywords:
 - vbawd10.chm94568597
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Creator Property (Word)
+# DisplayUnitLabel.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

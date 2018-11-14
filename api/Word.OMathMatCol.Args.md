@@ -1,5 +1,5 @@
 ---
-title: OMathMatCol.Args Property (Word)
+title: OMathMatCol.Args property (Word)
 keywords: vbawd10.chm24445031
 f1_keywords:
 - vbawd10.chm24445031
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatCol.Args Property (Word)
+# OMathMatCol.Args property (Word)
 
 Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the arguments in a matrix column. Read-only.
 

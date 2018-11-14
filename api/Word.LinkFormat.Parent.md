@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.Parent Property (Word)
+title: LinkFormat.Parent property (Word)
 keywords: vbawd10.chm154207210
 f1_keywords:
 - vbawd10.chm154207210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.Parent Property (Word)
+# LinkFormat.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **LinkFormat** object.
 

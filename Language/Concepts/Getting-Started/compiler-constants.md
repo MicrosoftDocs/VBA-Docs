@@ -31,7 +31,7 @@ This applies to both Winx and VBAx constants.
 On 16-bit development platforms, the compiler constants are defined as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Win16**|**True**|Indicates development environment is 16-bit compatible.|
 |**Win32**|**False**|Indicates that the development environment is not 32-bit compatible.|
@@ -40,7 +40,7 @@ On 16-bit development platforms, the compiler constants are defined as follows:
 On 32-bit development platforms, the compiler constants are defined as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Vba6**|**True**|Indicates that the development environment is Visual Basic for Applications, version 6.0 compatible.|
 |**Vba6**|**False**|Indicates that the development environment is not Visual Basic for Applications, version 6.0 compatible.|
@@ -55,7 +55,7 @@ On 32-bit development platforms, the compiler constants are defined as follows:
 On 64-bit development platforms, the compiler constants are defined as follows:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Vba6**|**True**|Indicates that the development environment is Visual Basic for Applications, version 6.0 compatible.|
 |**Vba6**|**False**|Indicates that the development environment is not Visual Basic for Applications, version 6.0 compatible.|

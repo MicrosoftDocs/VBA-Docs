@@ -1,5 +1,5 @@
 ---
-title: Borders.DistanceFrom Property (Word)
+title: Borders.DistanceFrom property (Word)
 keywords: vbawd10.chm154927133
 f1_keywords:
 - vbawd10.chm154927133
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.DistanceFrom Property (Word)
+# Borders.DistanceFrom property (Word)
 
 Returns or sets a value that indicates whether the specified page border is measured from the edge of the page or from the text it surrounds. Read/write  **WdBorderDistanceFrom** .
 

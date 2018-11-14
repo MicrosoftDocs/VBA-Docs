@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideWidth Property (Excel)
+title: PlotArea.InsideWidth property (Excel)
 keywords: vbaxl10.chm618090
 f1_keywords:
 - vbaxl10.chm618090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideWidth Property (Excel)
+# PlotArea.InsideWidth property (Excel)
 
 Returns the inside width of the plot area, in points. Read-write  **Double** .
 

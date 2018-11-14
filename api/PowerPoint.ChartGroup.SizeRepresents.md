@@ -25,7 +25,7 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write  *
 
 ## Remarks
 
-This property can be either of the following  **[XlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
+This property can be either of the following  **[xlSizeRepresents](PowerPoint.XlSizeRepresents.md)** constants:
 
 
 -  **xlSizeIsArea**

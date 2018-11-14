@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DownBars Property (Excel)
+title: ChartGroup.DownBars property (Excel)
 keywords: vbaxl10.chm568075
 f1_keywords:
 - vbaxl10.chm568075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.DownBars Property (Excel)
+# ChartGroup.DownBars property (Excel)
 
 Returns a  **[DownBars](Excel.DownBars(object).md)** object that represents the down bars on a line chart. Applies only to line charts. Read-only.
 

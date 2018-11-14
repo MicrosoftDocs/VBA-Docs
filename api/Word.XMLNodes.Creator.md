@@ -1,5 +1,5 @@
 ---
-title: XMLNodes.Creator Property (Word)
+title: XMLNodes.Creator property (Word)
 keywords: vbawd10.chm255984617
 f1_keywords:
 - vbawd10.chm255984617
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNodes.Creator Property (Word)
+# XMLNodes.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

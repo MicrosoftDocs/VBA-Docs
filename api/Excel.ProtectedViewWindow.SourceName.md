@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.SourceName Property (Excel)
+title: ProtectedViewWindow.SourceName property (Excel)
 keywords: vbaxl10.chm914081
 f1_keywords:
 - vbaxl10.chm914081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.SourceName Property (Excel)
+# ProtectedViewWindow.SourceName property (Excel)
 
 Returns the name of the source file that is open in the specified  **Protected View** window. Read-only
 

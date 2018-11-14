@@ -1,5 +1,5 @@
 ﻿---
-title: Phonetic Object (Excel)
+title: Phonetic object (Excel)
 keywords: vbaxl10.chm627072
 f1_keywords:
 - vbaxl10.chm627072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Phonetic Object (Excel)
+# Phonetic object (Excel)
 
 Contains information about a specific phonetic text string in a cell.
 

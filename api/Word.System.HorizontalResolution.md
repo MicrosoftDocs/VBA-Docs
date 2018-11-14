@@ -1,5 +1,5 @@
 ---
-title: System.HorizontalResolution Property (Word)
+title: System.HorizontalResolution property (Word)
 keywords: vbawd10.chm154468359
 f1_keywords:
 - vbawd10.chm154468359
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.HorizontalResolution Property (Word)
+# System.HorizontalResolution property (Word)
 
 Returns the horizontal display resolution, in pixels. Read-only  **Long** .
 

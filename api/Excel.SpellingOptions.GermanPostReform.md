@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.GermanPostReform Property (Excel)
+title: SpellingOptions.GermanPostReform property (Excel)
 keywords: vbaxl10.chm717079
 f1_keywords:
 - vbaxl10.chm717079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.GermanPostReform Property (Excel)
+# SpellingOptions.GermanPostReform property (Excel)
 
  **True** to check the spelling of words using the German post-reform rules. **False** cancels this feature. Read/write **Boolean** .
 

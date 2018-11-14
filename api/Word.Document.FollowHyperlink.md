@@ -1,5 +1,5 @@
 ---
-title: Document.FollowHyperlink Method (Word)
+title: Document.FollowHyperlink method (Word)
 keywords: vbawd10.chm158007431
 f1_keywords:
 - vbawd10.chm158007431
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.FollowHyperlink Method (Word)
+# Document.FollowHyperlink method (Word)
 
 Displays a cached document, if it has already been downloaded. Otherwise, this method resolves the hyperlink, downloads the target document, and displays the document in the appropriate application.
 

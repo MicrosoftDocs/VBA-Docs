@@ -1,5 +1,5 @@
 ---
-title: Shape.Script Property (Word)
+title: Shape.Script property (Word)
 keywords: vbawd10.chm161481207
 f1_keywords:
 - vbawd10.chm161481207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Script Property (Word)
+# Shape.Script property (Word)
 
 Returns a  **Script** object, which represents a block of script or code for an image on a Web page.
 

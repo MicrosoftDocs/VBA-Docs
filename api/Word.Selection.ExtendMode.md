@@ -1,5 +1,5 @@
 ---
-title: Selection.ExtendMode Property (Word)
+title: Selection.ExtendMode property (Word)
 keywords: vbawd10.chm158663062
 f1_keywords:
 - vbawd10.chm158663062
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.ExtendMode Property (Word)
+# Selection.ExtendMode property (Word)
 
  **True** if Extend mode is active. Read/write **Boolean** .
 

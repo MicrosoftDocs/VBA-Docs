@@ -1,5 +1,5 @@
 ---
-title: XlSpanishModes Enumeration (Excel)
+title: xlSpanishModes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSpanishModes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSpanishModes Enumeration (Excel)
+# xlSpanishModes enumeration (Excel)
 
 Specifies the mode for checking the spelling of Spanish.
 

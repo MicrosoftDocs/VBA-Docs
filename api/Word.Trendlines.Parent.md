@@ -1,5 +1,5 @@
 ---
-title: Trendlines.Parent Property (Word)
+title: Trendlines.Parent property (Word)
 keywords: vbawd10.chm102367382
 f1_keywords:
 - vbawd10.chm102367382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendlines.Parent Property (Word)
+# Trendlines.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

@@ -1,5 +1,5 @@
 ---
-title: SparkColor Object (Excel)
+title: SparkColor object (Excel)
 keywords: vbaxl10.chm882072
 f1_keywords:
 - vbaxl10.chm882072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkColor Object (Excel)
+# SparkColor object (Excel)
 
 Represents the color of the horizontal axis and the markers for points in a sparkline.
 

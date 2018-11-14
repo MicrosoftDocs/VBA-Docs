@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.SplitValue Property (Word)
+title: ChartGroup.SplitValue property (Word)
 keywords: vbawd10.chm263454762
 f1_keywords:
 - vbawd10.chm263454762
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.SplitValue Property (Word)
+# ChartGroup.SplitValue property (Word)
 
 Returns or sets the threshold value separating the two sections of either a pie-of-pie chart or a bar-of-pie chart. Read/write  **Variant** .
 

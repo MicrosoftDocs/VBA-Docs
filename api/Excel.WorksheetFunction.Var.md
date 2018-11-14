@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Var Method (Excel)
+title: WorksheetFunction.Var method (Excel)
 keywords: vbaxl10.chm137100
 f1_keywords:
 - vbaxl10.chm137100
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Var Method (Excel)
+# WorksheetFunction.Var method (Excel)
 
 Estimates variance based on a sample.
 

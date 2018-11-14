@@ -1,5 +1,5 @@
 ---
-title: Range.DisplayFormat Property (Excel)
+title: Range.DisplayFormat property (Excel)
 keywords: vbaxl10.chm144251
 f1_keywords:
 - vbaxl10.chm144251
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DisplayFormat Property (Excel)
+# Range.DisplayFormat property (Excel)
 
 Returns a  **[DisplayFormat](Excel.DisplayFormat.md)** object that represents the display settings for the specified range. Read-only
 

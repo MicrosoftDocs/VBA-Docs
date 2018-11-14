@@ -1,5 +1,5 @@
 ---
-title: Variable.Index Property (Word)
+title: Variable.Index property (Word)
 keywords: vbawd10.chm157679618
 f1_keywords:
 - vbawd10.chm157679618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variable.Index Property (Word)
+# Variable.Index property (Word)
 
 Returns a  **Long** that represents the ordinal position of a variable with in the collection of variables. Read-only.
 

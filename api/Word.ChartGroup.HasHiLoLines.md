@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.HasHiLoLines Property (Word)
+title: ChartGroup.HasHiLoLines property (Word)
 keywords: vbawd10.chm263454732
 f1_keywords:
 - vbawd10.chm263454732
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.HasHiLoLines Property (Word)
+# ChartGroup.HasHiLoLines property (Word)
 
  **True** if the line chart has high-low lines. Read/write **Boolean** .
 

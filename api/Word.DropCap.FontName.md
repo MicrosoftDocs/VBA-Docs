@@ -1,5 +1,5 @@
 ---
-title: DropCap.FontName Property (Word)
+title: DropCap.FontName property (Word)
 keywords: vbawd10.chm156631051
 f1_keywords:
 - vbawd10.chm156631051
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropCap.FontName Property (Word)
+# DropCap.FontName property (Word)
 
 Returns or sets a  **String** that represents the name of the font for the dropped capital letter. Read/write.
 

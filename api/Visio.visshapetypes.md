@@ -20,7 +20,7 @@ These codes are also used with the  **Event.GetFilterObjects** and **Event.SetFi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeBitmap**|32|Returned by  **Shape.ForeignType** if the shape is a bitmap.|
 | **visTypeDoc**|6|The document's  **DocumentSheet** .|

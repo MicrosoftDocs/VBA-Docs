@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DisplayNullString Property (Excel)
+title: PivotTable.DisplayNullString property (Excel)
 keywords: vbaxl10.chm235105
 f1_keywords:
 - vbaxl10.chm235105
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DisplayNullString Property (Excel)
+# PivotTable.DisplayNullString property (Excel)
 
  **True** if the PivotTable report displays a custom string in cells that contain null values. The default value is **True** . Read/write **Boolean** .
 

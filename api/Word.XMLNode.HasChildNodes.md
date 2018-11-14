@@ -1,5 +1,5 @@
 ---
-title: XMLNode.HasChildNodes Property (Word)
+title: XMLNode.HasChildNodes property (Word)
 keywords: vbawd10.chm37748753
 f1_keywords:
 - vbawd10.chm37748753
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.HasChildNodes Property (Word)
+# XMLNode.HasChildNodes property (Word)
 
 Returns a  **Boolean** that represents whether an XML node has child nodes. Read-only.
 

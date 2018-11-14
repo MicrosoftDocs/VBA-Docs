@@ -1,5 +1,5 @@
 ---
-title: HPageBreaks.Item Property (Excel)
+title: HPageBreaks.Item property (Excel)
 keywords: vbaxl10.chm165073
 f1_keywords:
 - vbaxl10.chm165073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HPageBreaks.Item Property (Excel)
+# HPageBreaks.Item property (Excel)
 
 Returns a single object from a collection.
 

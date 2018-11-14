@@ -1,5 +1,5 @@
 ---
-title: Document.UndoClear Method (Word)
+title: Document.UndoClear method (Word)
 keywords: vbawd10.chm158007550
 f1_keywords:
 - vbawd10.chm158007550
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.UndoClear Method (Word)
+# Document.UndoClear method (Word)
 
 Clears the list of actions that can be undone for the specified document.
 

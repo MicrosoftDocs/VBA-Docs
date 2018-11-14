@@ -1,5 +1,5 @@
 ---
-title: TablesOfAuthorities Object (Word)
+title: TablesOfAuthorities object (Word)
 keywords: vbawd10.chm2322
 f1_keywords:
 - vbawd10.chm2322
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfAuthorities Object (Word)
+# TablesOfAuthorities object (Word)
 
 A collection of  **[TableOfAuthorities](Word.TableOfAuthorities.md)** objects (TOA fields) that represents the tables of authorities in a document.
 

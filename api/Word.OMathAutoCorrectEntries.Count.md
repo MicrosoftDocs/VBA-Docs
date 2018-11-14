@@ -1,5 +1,5 @@
 ---
-title: OMathAutoCorrectEntries.Count Property (Word)
+title: OMathAutoCorrectEntries.Count property (Word)
 keywords: vbawd10.chm247988327
 f1_keywords:
 - vbawd10.chm247988327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathAutoCorrectEntries.Count Property (Word)
+# OMathAutoCorrectEntries.Count property (Word)
 
 Returns the number of items in the  **OMathAutoCorrectEntries** collection. Read-only **Long** .
 

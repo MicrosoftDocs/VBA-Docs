@@ -1,5 +1,5 @@
 ---
-title: Shape.Ungroup Method (Excel)
+title: Shape.Ungroup method (Excel)
 keywords: vbaxl10.chm636087
 f1_keywords:
 - vbaxl10.chm636087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Ungroup Method (Excel)
+# Shape.Ungroup method (Excel)
 
 Ungroups any grouped shapes in the specified shape or range of shapes. Disassembles pictures and OLE objects within the specified shape or range of shapes.
 

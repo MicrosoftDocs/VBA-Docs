@@ -1,5 +1,5 @@
 ---
-title: PivotTable.EnableWizard Property (Excel)
+title: PivotTable.EnableWizard property (Excel)
 keywords: vbaxl10.chm235108
 f1_keywords:
 - vbaxl10.chm235108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.EnableWizard Property (Excel)
+# PivotTable.EnableWizard property (Excel)
 
  **True** if the **PivotTable Wizard** is available. The default value is **True** . Read/write **Boolean** .
 

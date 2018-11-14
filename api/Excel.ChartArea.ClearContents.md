@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearContents Method (Excel)
+title: ChartArea.ClearContents method (Excel)
 keywords: vbaxl10.chm620078
 f1_keywords:
 - vbaxl10.chm620078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.ClearContents Method (Excel)
+# ChartArea.ClearContents method (Excel)
 
 Clears the data from a chart but leaves the formatting.
 

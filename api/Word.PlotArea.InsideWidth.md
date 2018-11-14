@@ -1,5 +1,5 @@
 ---
-title: PlotArea.InsideWidth Property (Word)
+title: PlotArea.InsideWidth property (Word)
 keywords: vbawd10.chm53479045
 f1_keywords:
 - vbawd10.chm53479045
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.InsideWidth Property (Word)
+# PlotArea.InsideWidth property (Word)
 
 Returns or sets the inside width, in points, of the plot area. Read/write  **Double** .
 

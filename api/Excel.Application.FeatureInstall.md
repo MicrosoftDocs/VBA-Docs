@@ -1,5 +1,5 @@
 ---
-title: Application.FeatureInstall Property (Excel)
+title: Application.FeatureInstall property (Excel)
 keywords: vbaxl10.chm133259
 f1_keywords:
 - vbaxl10.chm133259
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FeatureInstall Property (Excel)
+# Application.FeatureInstall property (Excel)
 
 Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](Office.MsoFeatureInstall.md)** constants listed in the following table. Read/write **MsoFeatureInstall** .
 

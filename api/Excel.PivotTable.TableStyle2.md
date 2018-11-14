@@ -1,5 +1,5 @@
 ---
-title: PivotTable.TableStyle2 Property (Excel)
+title: PivotTable.TableStyle2 property (Excel)
 keywords: vbaxl10.chm235171
 f1_keywords:
 - vbaxl10.chm235171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.TableStyle2 Property (Excel)
+# PivotTable.TableStyle2 property (Excel)
 
 The  **TableStyle2** property specifies the PivotTable style currently applied to the PivotTable. Read/write.
 

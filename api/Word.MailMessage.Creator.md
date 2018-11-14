@@ -1,5 +1,5 @@
 ---
-title: MailMessage.Creator Property (Word)
+title: MailMessage.Creator property (Word)
 keywords: vbawd10.chm163185641
 f1_keywords:
 - vbawd10.chm163185641
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMessage.Creator Property (Word)
+# MailMessage.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControls.Creator Property (Word)
+title: ContentControls.Creator property (Word)
 keywords: vbawd10.chm157745253
 f1_keywords:
 - vbawd10.chm157745253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControls.Creator Property (Word)
+# ContentControls.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

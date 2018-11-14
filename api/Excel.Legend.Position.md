@@ -1,5 +1,5 @@
 ---
-title: Legend.Position Property (Excel)
+title: Legend.Position property (Excel)
 keywords: vbaxl10.chm622080
 f1_keywords:
 - vbaxl10.chm622080
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.Position Property (Excel)
+# Legend.Position property (Excel)
 
-Returns or sets a  **[XlLegendPosition](Excel.XlLegendPosition.md)** value that represents the position of the legend on the chart.
+Returns or sets a  **[xlLegendPosition](Excel.XlLegendPosition.md)** value that represents the position of the legend on the chart.
 
 
 ## Syntax

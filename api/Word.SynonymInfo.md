@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo Object (Word)
+title: SynonymInfo object (Word)
 keywords: vbawd10.chm2459
 f1_keywords:
 - vbawd10.chm2459
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo Object (Word)
+# SynonymInfo object (Word)
 
 Represents the information about synonyms, antonyms, related words, or related expressions for the specified range or a given string.
 

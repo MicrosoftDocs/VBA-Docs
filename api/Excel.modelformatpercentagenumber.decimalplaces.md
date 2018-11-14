@@ -1,5 +1,5 @@
 ---
-title: ModelFormatPercentageNumber.DecimalPlaces Property (Excel)
+title: ModelFormatPercentageNumber.DecimalPlaces property (Excel)
 keywords: vbaxl10.chm990074
 f1_keywords:
 - vbaxl10.chm990074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatPercentageNumber.DecimalPlaces Property (Excel)
+# ModelFormatPercentageNumber.DecimalPlaces property (Excel)
 
 Specifies the number of decimal places after the dot. Read/write  **Long**.
 

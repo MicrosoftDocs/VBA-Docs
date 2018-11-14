@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Patterned Method (Excel)
+title: FillFormat.Patterned method (Excel)
 keywords: vbaxl10.chm115004
 f1_keywords:
 - vbaxl10.chm115004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Patterned Method (Excel)
+# FillFormat.Patterned method (Excel)
 
 Sets the specified fill to a pattern.
 

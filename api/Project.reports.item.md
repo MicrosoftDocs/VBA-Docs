@@ -20,7 +20,7 @@ Gets a single  **Report** object from the **Reports** collection. Read-only **Re
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|Name of the report or index number of the report.|
 

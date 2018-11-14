@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Glow Property (Excel)
+title: ShapeRange.Glow property (Excel)
 keywords: vbaxl10.chm640144
 f1_keywords:
 - vbaxl10.chm640144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Glow Property (Excel)
+# ShapeRange.Glow property (Excel)
 
 Returns a  **[GlowFormat](./Office.GlowFormat.md)** object for a specified shape range that contains glow formatting properties for the shape range. Read-only.
 

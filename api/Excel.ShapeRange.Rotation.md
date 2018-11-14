@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Rotation Property (Excel)
+title: ShapeRange.Rotation property (Excel)
 keywords: vbaxl10.chm640112
 f1_keywords:
 - vbaxl10.chm640112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Rotation Property (Excel)
+# ShapeRange.Rotation property (Excel)
 
 Returns or sets the rotation of the shape, in degrees. Read/write  **Single** .
 

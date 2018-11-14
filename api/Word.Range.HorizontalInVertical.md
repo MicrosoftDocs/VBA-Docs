@@ -1,5 +1,5 @@
 ---
-title: Range.HorizontalInVertical Property (Word)
+title: Range.HorizontalInVertical property (Word)
 keywords: vbawd10.chm157155593
 f1_keywords:
 - vbawd10.chm157155593
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.HorizontalInVertical Property (Word)
+# Range.HorizontalInVertical property (Word)
 
 Returns or sets the formatting for horizontal text set within vertical text. Read/write  **WdHorizontalInVerticalType** .
 

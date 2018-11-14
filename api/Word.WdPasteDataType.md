@@ -1,5 +1,5 @@
 ---
-title: WdPasteDataType Enumeration (Word)
+title: WdPasteDataType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPasteDataType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPasteDataType Enumeration (Word)
+# WdPasteDataType enumeration (Word)
 
 Specifies the format for the Clipboard contents when they are inserted into a document.
 

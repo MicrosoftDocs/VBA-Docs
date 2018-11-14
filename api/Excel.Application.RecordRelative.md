@@ -1,5 +1,5 @@
 ---
-title: Application.RecordRelative Property (Excel)
+title: Application.RecordRelative property (Excel)
 keywords: vbaxl10.chm133196
 f1_keywords:
 - vbaxl10.chm133196
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.RecordRelative Property (Excel)
+# Application.RecordRelative property (Excel)
 
  **True** if macros are recorded using relative references; **False** if recording is absolute. Read-only **Boolean** .
 

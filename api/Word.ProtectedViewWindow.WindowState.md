@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.WindowState Property (Word)
+title: ProtectedViewWindow.WindowState property (Word)
 keywords: vbawd10.chm231735302
 f1_keywords:
 - vbawd10.chm231735302
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.WindowState Property (Word)
+# ProtectedViewWindow.WindowState property (Word)
 
 Returns or sets the state of the specified protected view window. Read/write [WdWindowState](Word.WdWindowState.md).
 

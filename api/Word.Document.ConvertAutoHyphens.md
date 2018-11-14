@@ -1,5 +1,5 @@
 ---
-title: Document.ConvertAutoHyphens Method (Word)
+title: Document.ConvertAutoHyphens method (Word)
 keywords: vbawd10.chm158007946
 f1_keywords:
 - vbawd10.chm158007946
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ConvertAutoHyphens Method (Word)
+# Document.ConvertAutoHyphens method (Word)
 
 Converts hyphens created by automatic hyphenation to manual hyphens.
 

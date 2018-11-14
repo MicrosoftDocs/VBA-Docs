@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember Object (Excel)
+title: CalculatedMember object (Excel)
 keywords: vbaxl10.chm685072
 f1_keywords:
 - vbaxl10.chm685072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember Object (Excel)
+# CalculatedMember object (Excel)
 
 Represents the calculated fields, calculated items, and named sets for PivotTables with Online Analytical Processing (OLAP) data sources.
 

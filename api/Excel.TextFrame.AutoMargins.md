@@ -1,5 +1,5 @@
 ---
-title: TextFrame.AutoMargins Property (Excel)
+title: TextFrame.AutoMargins property (Excel)
 keywords: vbaxl10.chm644083
 f1_keywords:
 - vbaxl10.chm644083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame.AutoMargins Property (Excel)
+# TextFrame.AutoMargins property (Excel)
 
 Returns or sets whether Excel automatically calculates text frame margins. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: CoAuthors.Application Property (Word)
+title: CoAuthors.Application property (Word)
 keywords: vbawd10.chm179962856
 f1_keywords:
 - vbawd10.chm179962856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthors.Application Property (Word)
+# CoAuthors.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Microsoft Word application. Read-only.
 

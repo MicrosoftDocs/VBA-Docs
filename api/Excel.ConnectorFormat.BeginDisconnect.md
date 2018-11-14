@@ -1,5 +1,5 @@
 ---
-title: ConnectorFormat.BeginDisconnect Method (Excel)
+title: ConnectorFormat.BeginDisconnect method (Excel)
 keywords: vbaxl10.chm646074
 f1_keywords:
 - vbaxl10.chm646074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConnectorFormat.BeginDisconnect Method (Excel)
+# ConnectorFormat.BeginDisconnect method (Excel)
 
 Detaches the beginning of the specified connector from the shape it's attached to. This method doesn't alter the size or position of the connector: the beginning of the connector remains positioned at a connection site but is no longer connected. Use the  **[EndDisconnect](Excel.ConnectorFormat.EndDisconnect.md)** method to detach the end of the connector from a shape.
 

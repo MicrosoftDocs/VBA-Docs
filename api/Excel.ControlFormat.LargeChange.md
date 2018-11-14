@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.LargeChange Property (Excel)
+title: ControlFormat.LargeChange property (Excel)
 keywords: vbaxl10.chm630078
 f1_keywords:
 - vbaxl10.chm630078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.LargeChange Property (Excel)
+# ControlFormat.LargeChange property (Excel)
 
 Returns or sets the amount that the scroll box increments or decrements for a page scroll (when the user clicks in the scroll bar body region). Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Indexes.Parent Property (Word)
+title: Indexes.Parent property (Word)
 keywords: vbawd10.chm159122410
 f1_keywords:
 - vbawd10.chm159122410
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Indexes.Parent Property (Word)
+# Indexes.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Indexes** object.
 

@@ -20,7 +20,7 @@ Applies a custom chart type to a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChartType_|Required|**Office.XlChartType**|The type of chart.|
 | _TypeName_|Optional|**Variant**|The name of the chart type.|

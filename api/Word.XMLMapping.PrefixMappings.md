@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.PrefixMappings Property (Word)
+title: XMLMapping.PrefixMappings property (Word)
 keywords: vbawd10.chm199688199
 f1_keywords:
 - vbawd10.chm199688199
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.PrefixMappings Property (Word)
+# XMLMapping.PrefixMappings property (Word)
 
 Returns a  **String** that represents the prefix mappings used to evaluate the XPath for the current XML mapping. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: WrapFormat.Creator Property (Word)
+title: WrapFormat.Creator property (Word)
 keywords: vbawd10.chm163775465
 f1_keywords:
 - vbawd10.chm163775465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WrapFormat.Creator Property (Word)
+# WrapFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

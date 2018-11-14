@@ -1,5 +1,5 @@
 ---
-title: ModelColumnName.Application Property (Excel)
+title: ModelColumnName.Application property (Excel)
 keywords: vbaxl10.chm961073
 f1_keywords:
 - vbaxl10.chm961073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnName.Application Property (Excel)
+# ModelColumnName.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
@@ -18,7 +18,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [ModelColumnName Object (Excel)](Excel.modelcolumnname.md) object.
+ _expression_ A variable that represents a [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object.
 
 
 ## Example

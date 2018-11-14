@@ -1,5 +1,5 @@
 ---
-title: PageSetup.PageHeight Property (Word)
+title: PageSetup.PageHeight property (Word)
 keywords: vbawd10.chm158400618
 f1_keywords:
 - vbawd10.chm158400618
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.PageHeight Property (Word)
+# PageSetup.PageHeight property (Word)
 
 Returns or sets the height of the page in points. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.MoveStartWhile Method (Word)
+title: Range.MoveStartWhile method (Word)
 keywords: vbawd10.chm157155441
 f1_keywords:
 - vbawd10.chm157155441
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MoveStartWhile Method (Word)
+# Range.MoveStartWhile method (Word)
 
 Moves the start position of the specified range while any of the specified characters are found in the document.
 

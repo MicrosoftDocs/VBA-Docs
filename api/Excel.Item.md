@@ -21,7 +21,7 @@ Returns a single Axis object from an Axes collection.
 
  _expression_ Required. An expression that returns an [Axes](Excel.Axes(object).md) collection.
  **Type**Required 
- **XlAxisType**
+ **xlAxisType**
 . The axis type.
 
 
@@ -31,7 +31,7 @@ Returns a single Axis object from an Axes collection.
 | **xlValue**|
 
  **AxisGroup**Optional 
- **XlAxisGroup**
+ **xlAxisGroup**
 . The axis group.
 
 

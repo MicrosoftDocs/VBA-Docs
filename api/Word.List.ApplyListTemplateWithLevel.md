@@ -1,5 +1,5 @@
 ---
-title: List.ApplyListTemplateWithLevel Method (Word)
+title: List.ApplyListTemplateWithLevel method (Word)
 keywords: vbawd10.chm160563307
 f1_keywords:
 - vbawd10.chm160563307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.ApplyListTemplateWithLevel Method (Word)
+# List.ApplyListTemplateWithLevel method (Word)
 
 Applies a set of list-formatting characteristics, optionally for a specified level.
 

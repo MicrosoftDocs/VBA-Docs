@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Width Property (Word)
+title: ProtectedViewWindow.Width property (Word)
 keywords: vbawd10.chm231735300
 f1_keywords:
 - vbawd10.chm231735300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Width Property (Word)
+# ProtectedViewWindow.Width property (Word)
 
 Returns or sets the width, in points, of the specified protectd view window. Read/write  **Long** .
 

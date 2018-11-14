@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntry.Apply Method (Word)
+title: AutoCorrectEntry.Apply method (Word)
 keywords: vbawd10.chm155648102
 f1_keywords:
 - vbawd10.chm155648102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntry.Apply Method (Word)
+# AutoCorrectEntry.Apply method (Word)
 
 Replaces a range with the value of the specified AutoCorrect entry.
 

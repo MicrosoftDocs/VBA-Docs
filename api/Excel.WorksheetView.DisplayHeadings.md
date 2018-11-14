@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.DisplayHeadings Property (Excel)
+title: WorksheetView.DisplayHeadings property (Excel)
 keywords: vbaxl10.chm779075
 f1_keywords:
 - vbaxl10.chm779075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.DisplayHeadings Property (Excel)
+# WorksheetView.DisplayHeadings property (Excel)
 
  **True** if both row and column headings are displayed; **False** if no headings are displayed. Read/write **Boolean** .
 

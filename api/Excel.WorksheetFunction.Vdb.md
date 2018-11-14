@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Vdb Method (Excel)
+title: WorksheetFunction.Vdb method (Excel)
 keywords: vbaxl10.chm137161
 f1_keywords:
 - vbaxl10.chm137161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Vdb Method (Excel)
+# WorksheetFunction.Vdb method (Excel)
 
 Returns the depreciation of an asset for any period you specify, including partial periods, using the double-declining balance method or some other method you specify. VDB stands for variable declining balance.
 

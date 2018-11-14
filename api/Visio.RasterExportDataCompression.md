@@ -34,7 +34,7 @@ The value of the  **RasterExportDataCompression** property must be one of the fo
 
 
 
-|**Constant**|**Value**|**Description**|**Applicable File Format**|
+|Constant|Value|Description|**Applicable File Format**|
 |:-----|:-----|:-----|:-----|
 | **visRasterNone**|0|No compression, the default for BMP.|BMP|
 | **visRasterRLE**|1|RLE compression.|BMP|

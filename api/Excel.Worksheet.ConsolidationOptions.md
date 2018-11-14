@@ -1,5 +1,5 @@
 ---
-title: Worksheet.ConsolidationOptions Property (Excel)
+title: Worksheet.ConsolidationOptions property (Excel)
 keywords: vbaxl10.chm175088
 f1_keywords:
 - vbaxl10.chm175088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.ConsolidationOptions Property (Excel)
+# Worksheet.ConsolidationOptions property (Excel)
 
 Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True** , that option is set. Read-only **Variant** .
 

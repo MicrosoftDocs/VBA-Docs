@@ -1,5 +1,5 @@
 ---
-title: PivotCache.SourceData Property (Excel)
+title: PivotCache.SourceData property (Excel)
 keywords: vbaxl10.chm227086
 f1_keywords:
 - vbaxl10.chm227086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.SourceData Property (Excel)
+# PivotCache.SourceData property (Excel)
 
 Returns the data source for the PivotTable report, as shown in the following table. Read-write  **Variant** .
 

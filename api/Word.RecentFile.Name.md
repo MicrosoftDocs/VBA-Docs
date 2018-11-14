@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Name Property (Word)
+title: RecentFile.Name property (Word)
 keywords: vbawd10.chm157548544
 f1_keywords:
 - vbawd10.chm157548544
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Name Property (Word)
+# RecentFile.Name property (Word)
 
 Returns the name of the specified object. Read-only  **String** .
 

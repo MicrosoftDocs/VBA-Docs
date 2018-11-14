@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Price Method (Excel)
+title: WorksheetFunction.Price method (Excel)
 keywords: vbaxl10.chm137318
 f1_keywords:
 - vbaxl10.chm137318
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Price Method (Excel)
+# WorksheetFunction.Price method (Excel)
 
 Returns the price per $100 face value of a security that pays periodic interest.
 

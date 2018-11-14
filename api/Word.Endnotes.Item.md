@@ -1,5 +1,5 @@
 ---
-title: Endnotes.Item Method (Word)
+title: Endnotes.Item method (Word)
 keywords: vbawd10.chm155254784
 f1_keywords:
 - vbawd10.chm155254784
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.Item Method (Word)
+# Endnotes.Item method (Word)
 
 Returns an individual  **Endnote** object in a collection.
 

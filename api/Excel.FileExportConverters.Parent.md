@@ -1,5 +1,5 @@
 ---
-title: FileExportConverters.Parent Property (Excel)
+title: FileExportConverters.Parent property (Excel)
 keywords: vbaxl10.chm864075
 f1_keywords:
 - vbaxl10.chm864075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileExportConverters.Parent Property (Excel)
+# FileExportConverters.Parent property (Excel)
 
 Returns an  **Object** that represents the parent object of the specified **[FileExportConverters](Excel.FileExportConverters.md)** object. Read-only.
 

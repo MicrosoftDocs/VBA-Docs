@@ -23,7 +23,7 @@ Returns the text value of the specified cell in a  **ReportTable** object.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Row_|Required|**Long**|The row number in the table.|
 | _Col_|Required|**Long**|The column number in the table.|

@@ -1,5 +1,5 @@
 ---
-title: Axis.MinorUnit Property (Word)
+title: Axis.MinorUnit property (Word)
 keywords: vbawd10.chm113049639
 f1_keywords:
 - vbawd10.chm113049639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinorUnit Property (Word)
+# Axis.MinorUnit property (Word)
 
 Returns or sets the minor units on the value axis. Read/write  **Double** .
 

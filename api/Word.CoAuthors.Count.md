@@ -1,5 +1,5 @@
 ---
-title: CoAuthors.Count Property (Word)
+title: CoAuthors.Count property (Word)
 keywords: vbawd10.chm179961857
 f1_keywords:
 - vbawd10.chm179961857
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthors.Count Property (Word)
+# CoAuthors.Count property (Word)
 
 Returns the number of items in the [CoAuthors](Word.CoAuthors.md) collection. Read-only.
 

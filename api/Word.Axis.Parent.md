@@ -1,5 +1,5 @@
 ---
-title: Axis.Parent Property (Word)
+title: Axis.Parent property (Word)
 keywords: vbawd10.chm113049750
 f1_keywords:
 - vbawd10.chm113049750
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Parent Property (Word)
+# Axis.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

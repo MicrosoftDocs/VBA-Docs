@@ -1,5 +1,5 @@
 ---
-title: Application.FileExportConverters Property (Excel)
+title: Application.FileExportConverters property (Excel)
 keywords: vbaxl10.chm133318
 f1_keywords:
 - vbaxl10.chm133318
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.FileExportConverters Property (Excel)
+# Application.FileExportConverters property (Excel)
 
 Returns a  **[FileExportConverters](Excel.FileExportConverters.md)** collection that represents all the file converters for saving files available to Microsoft Excel. Read-only.
 

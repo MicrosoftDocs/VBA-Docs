@@ -1,5 +1,5 @@
 ---
-title: Field.Code Property (Word)
+title: Field.Code property (Word)
 keywords: vbawd10.chm154075136
 f1_keywords:
 - vbawd10.chm154075136
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Code Property (Word)
+# Field.Code property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents a field's code. Read/write.
 

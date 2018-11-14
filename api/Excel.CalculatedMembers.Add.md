@@ -1,5 +1,5 @@
 ---
-title: CalculatedMembers.Add Method (Excel)
+title: CalculatedMembers.Add method (Excel)
 keywords: vbaxl10.chm684078
 f1_keywords:
 - vbaxl10.chm684078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMembers.Add Method (Excel)
+# CalculatedMembers.Add method (Excel)
 
 Adds a calculated field or calculated item to a PivotTable. Returns a  **[CalculatedMember](Excel.CalculatedMember.md)** object.
 

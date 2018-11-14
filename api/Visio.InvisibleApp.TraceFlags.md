@@ -34,7 +34,7 @@ The value of the  **TraceFlags** property can be a combination of the following 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTraceEvents**|&H1|Event occurrences|
 | **visTraceAdvises**|&H2|Outgoing advise calls|

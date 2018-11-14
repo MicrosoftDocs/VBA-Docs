@@ -1,5 +1,5 @@
 ---
-title: FormFields.Shaded Property (Word)
+title: FormFields.Shaded property (Word)
 keywords: vbawd10.chm153681922
 f1_keywords:
 - vbawd10.chm153681922
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormFields.Shaded Property (Word)
+# FormFields.Shaded property (Word)
 
  **True** if shading is applied to form fields. Read/write **Boolean** .
 

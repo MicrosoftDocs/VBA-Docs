@@ -1,5 +1,5 @@
 ---
-title: FileConverter.Creator Property (Word)
+title: FileConverter.Creator property (Word)
 keywords: vbawd10.chm161022953
 f1_keywords:
 - vbawd10.chm161022953
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter.Creator Property (Word)
+# FileConverter.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

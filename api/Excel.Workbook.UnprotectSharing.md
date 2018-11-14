@@ -1,5 +1,5 @@
 ---
-title: Workbook.UnprotectSharing Method (Excel)
+title: Workbook.UnprotectSharing method (Excel)
 keywords: vbaxl10.chm199158
 f1_keywords:
 - vbaxl10.chm199158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.UnprotectSharing Method (Excel)
+# Workbook.UnprotectSharing method (Excel)
 
 Turns off protection for sharing and saves the workbook.
 

@@ -1,5 +1,5 @@
 ---
-title: Font.Fill Property (Word)
+title: Font.Fill property (Word)
 keywords: vbawd10.chm156369066
 f1_keywords:
 - vbawd10.chm156369066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Fill Property (Word)
+# Font.Fill property (Word)
 
 Returns a [FillFormat](Word.FillFormat.md) object that contains fill formatting properties for the font used by the specified range of text. Read-only.
 

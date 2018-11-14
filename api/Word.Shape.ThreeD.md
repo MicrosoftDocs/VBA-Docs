@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (Word)
+title: Shape.ThreeD property (Word)
 keywords: vbawd10.chm161480826
 f1_keywords:
 - vbawd10.chm161480826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ThreeD Property (Word)
+# Shape.ThreeD property (Word)
 
 Returns a  **ThreeDFormat** object that contains 3-D formatting properties for the specified shape. Read-only.
 

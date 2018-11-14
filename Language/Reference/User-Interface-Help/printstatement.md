@@ -20,7 +20,7 @@ Writes display-formatted data to a sequential file.
 The  **Print #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _outputlist_|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) or list of expressions to print.|

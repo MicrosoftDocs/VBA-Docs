@@ -15,7 +15,7 @@ Constants to pass to the  **Cell.ResultInt** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRound**|1|Round the result.|
 | **visTruncate**|0|Truncate the result.|

@@ -1,5 +1,5 @@
 ---
-title: Frame.RelativeVerticalPosition Property (Word)
+title: Frame.RelativeVerticalPosition property (Word)
 keywords: vbawd10.chm153747464
 f1_keywords:
 - vbawd10.chm153747464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frame.RelativeVerticalPosition Property (Word)
+# Frame.RelativeVerticalPosition property (Word)
 
 Specifies the relative vertical position of a frame. Read/write  **[WdRelativeVerticalPosition](Word.WdRelativeVerticalPosition.md)** .
 

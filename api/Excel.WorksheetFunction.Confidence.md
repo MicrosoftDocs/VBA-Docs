@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Confidence Method (Excel)
+title: WorksheetFunction.Confidence method (Excel)
 keywords: vbaxl10.chm137181
 f1_keywords:
 - vbaxl10.chm137181
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Confidence Method (Excel)
+# WorksheetFunction.Confidence method (Excel)
 
 Returns a value that you can use to construct a confidence interval for a population mean.
 

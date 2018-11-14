@@ -1,5 +1,5 @@
 ---
-title: PivotItem Object (Excel)
+title: PivotItem object (Excel)
 keywords: vbaxl10.chm245072
 f1_keywords:
 - vbaxl10.chm245072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItem Object (Excel)
+# PivotItem object (Excel)
 
 Represents an item in a PivotTable field.
 

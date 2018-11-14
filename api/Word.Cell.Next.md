@@ -1,5 +1,5 @@
 ---
-title: Cell.Next Property (Word)
+title: Cell.Next property (Word)
 keywords: vbawd10.chm156106855
 f1_keywords:
 - vbawd10.chm156106855
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Next Property (Word)
+# Cell.Next property (Word)
 
 Returns a  **Cell** object that represents the next table cell in the **Cells** collection. Read-only.
 

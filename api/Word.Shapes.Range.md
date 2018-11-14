@@ -1,5 +1,5 @@
 ---
-title: Shapes.Range Method (Word)
+title: Shapes.Range method (Word)
 keywords: vbawd10.chm161415189
 f1_keywords:
 - vbawd10.chm161415189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.Range Method (Word)
+# Shapes.Range method (Word)
 
 Returns a  **ShapeRange** object that represents the shapes within a range.
 

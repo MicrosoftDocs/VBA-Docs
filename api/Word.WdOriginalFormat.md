@@ -1,5 +1,5 @@
 ---
-title: WdOriginalFormat Enumeration (Word)
+title: WdOriginalFormat enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOriginalFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOriginalFormat Enumeration (Word)
+# WdOriginalFormat enumeration (Word)
 
 Specifies the document format. This enumeration is commonly used when saving a document.
 

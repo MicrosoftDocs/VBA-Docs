@@ -1,5 +1,5 @@
 ---
-title: BuildingBlockType.Creator Property (Word)
+title: BuildingBlockType.Creator property (Word)
 keywords: vbawd10.chm167379945
 f1_keywords:
 - vbawd10.chm167379945
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlockType.Creator Property (Word)
+# BuildingBlockType.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

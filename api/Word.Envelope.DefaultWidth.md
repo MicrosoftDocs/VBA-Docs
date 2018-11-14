@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultWidth Property (Word)
+title: Envelope.DefaultWidth property (Word)
 keywords: vbawd10.chm152567815
 f1_keywords:
 - vbawd10.chm152567815
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultWidth Property (Word)
+# Envelope.DefaultWidth property (Word)
 
 Returns or sets the default envelope width, in points. Read/write  **Single** .
 

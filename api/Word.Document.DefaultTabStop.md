@@ -1,5 +1,5 @@
 ---
-title: Document.DefaultTabStop Property (Word)
+title: Document.DefaultTabStop property (Word)
 keywords: vbawd10.chm158007344
 f1_keywords:
 - vbawd10.chm158007344
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DefaultTabStop Property (Word)
+# Document.DefaultTabStop property (Word)
 
 Returns or sets the interval (in points) between the default tab stops in the specified document. Read/write  **Single** .
 

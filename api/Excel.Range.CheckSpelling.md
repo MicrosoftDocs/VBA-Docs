@@ -1,5 +1,5 @@
 ---
-title: Range.CheckSpelling Method (Excel)
+title: Range.CheckSpelling method (Excel)
 keywords: vbaxl10.chm144093
 f1_keywords:
 - vbaxl10.chm144093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.CheckSpelling Method (Excel)
+# Range.CheckSpelling method (Excel)
 
 Checks the spelling of an object.
 

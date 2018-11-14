@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Parent Property (Excel)
+title: ErrorBars.Parent property (Excel)
 keywords: vbaxl10.chm624073
 f1_keywords:
 - vbaxl10.chm624073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Parent Property (Excel)
+# ErrorBars.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

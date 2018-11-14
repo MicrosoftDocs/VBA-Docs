@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.KoreanCombineAux Property (Excel)
+title: SpellingOptions.KoreanCombineAux property (Excel)
 keywords: vbaxl10.chm717080
 f1_keywords:
 - vbaxl10.chm717080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.KoreanCombineAux Property (Excel)
+# SpellingOptions.KoreanCombineAux property (Excel)
 
 When set to  **True** , Microsoft Excel combines Korean auxiliary verbs and adjectives when spelling is checked. Read/write **Boolean** .
 

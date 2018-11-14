@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Item Method (Word)
+title: CanvasShapes.Item method (Word)
 keywords: vbawd10.chm7536640
 f1_keywords:
 - vbawd10.chm7536640
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.Item Method (Word)
+# CanvasShapes.Item method (Word)
 
 Returns an individual  **Shape** object in a collection.
 

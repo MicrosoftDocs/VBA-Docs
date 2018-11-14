@@ -1,5 +1,5 @@
 ---
-title: DataFeedConnection.RefreshDate Property (Excel)
+title: DataFeedConnection.RefreshDate property (Excel)
 keywords: vbaxl10.chm928078
 f1_keywords:
 - vbaxl10.chm928078
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataFeedConnection.RefreshDate Property (Excel)
+# DataFeedConnection.RefreshDate property (Excel)
 
 Returns the date on which the OLE DB connection was last refreshed.  **Date** . Read-only
 
@@ -18,7 +18,7 @@ Returns the date on which the OLE DB connection was last refreshed.  **Date** . 
 
  _expression_. `RefreshDate`
 
- _expression_ A variable that represents a [DataFeedConnection Object (Excel)](Excel.datafeedconnection.md) object.
+ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

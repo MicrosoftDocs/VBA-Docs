@@ -1,5 +1,5 @@
 ---
-title: Application.MeasurementUnit Property (Excel)
+title: Application.MeasurementUnit property (Excel)
 keywords: vbaxl10.chm133298
 f1_keywords:
 - vbaxl10.chm133298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MeasurementUnit Property (Excel)
+# Application.MeasurementUnit property (Excel)
 
 Specifies the measurement unit used in the application. Read/write  **xlMeasurementUnit** .
 

@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.Count Property (Excel)
+title: OLEObjects.Count property (Excel)
 keywords: vbaxl10.chm422088
 f1_keywords:
 - vbaxl10.chm422088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.Count Property (Excel)
+# OLEObjects.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

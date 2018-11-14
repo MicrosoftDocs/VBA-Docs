@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList.Parent Property (Excel)
+title: PivotTableChangeList.Parent property (Excel)
 keywords: vbaxl10.chm890075
 f1_keywords:
 - vbaxl10.chm890075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTableChangeList.Parent Property (Excel)
+# PivotTableChangeList.Parent property (Excel)
 
 Returns the parent  **[PivotTable](Excel.PivotTable.md)** object for the specified **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection. Read-only.
 

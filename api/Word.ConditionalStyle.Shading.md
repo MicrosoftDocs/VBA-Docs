@@ -1,5 +1,5 @@
 ---
-title: ConditionalStyle.Shading Property (Word)
+title: ConditionalStyle.Shading property (Word)
 keywords: vbawd10.chm91029505
 f1_keywords:
 - vbawd10.chm91029505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ConditionalStyle.Shading Property (Word)
+# ConditionalStyle.Shading property (Word)
 
 Returns a  **Shading** object that represents the shading formatting for the style formatting of a table.
 

@@ -1,5 +1,5 @@
 ---
-title: View.ShowFormat Property (Word)
+title: View.ShowFormat property (Word)
 keywords: vbawd10.chm161808393
 f1_keywords:
 - vbawd10.chm161808393
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowFormat Property (Word)
+# View.ShowFormat property (Word)
 
  **True** if character formatting is visible in outline view. Read/write **Boolean** .
 

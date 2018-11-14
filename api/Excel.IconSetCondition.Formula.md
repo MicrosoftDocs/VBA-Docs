@@ -1,5 +1,5 @@
 ---
-title: IconSetCondition.Formula Property (Excel)
+title: IconSetCondition.Formula property (Excel)
 keywords: vbaxl10.chm812086
 f1_keywords:
 - vbaxl10.chm812086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconSetCondition.Formula Property (Excel)
+# IconSetCondition.Formula property (Excel)
 
 Returns or sets a  **String** representing a formula, which determines the values to which the icon set will be applied.
 

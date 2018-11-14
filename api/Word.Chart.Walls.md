@@ -1,5 +1,5 @@
 ---
-title: Chart.Walls Property (Word)
+title: Chart.Walls property (Word)
 keywords: vbawd10.chm79364152
 f1_keywords:
 - vbawd10.chm79364152
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Walls Property (Word)
+# Chart.Walls property (Word)
 
 Returns the walls of the 3-D chart. Read-only  **[Walls](Word.Walls.md)** .
 

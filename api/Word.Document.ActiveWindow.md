@@ -1,5 +1,5 @@
 ---
-title: Document.ActiveWindow Property (Word)
+title: Document.ActiveWindow property (Word)
 keywords: vbawd10.chm158007338
 f1_keywords:
 - vbawd10.chm158007338
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ActiveWindow Property (Word)
+# Document.ActiveWindow property (Word)
 
 Returns a  **[Window](Word.Window.md)** object that represents the active window (the window with the focus). Read-only.
 

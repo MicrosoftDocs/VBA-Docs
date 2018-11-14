@@ -1,5 +1,5 @@
 ---
-title: Find.ParagraphFormat Property (Word)
+title: Find.ParagraphFormat property (Word)
 keywords: vbawd10.chm162529298
 f1_keywords:
 - vbawd10.chm162529298
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.ParagraphFormat Property (Word)
+# Find.ParagraphFormat property (Word)
 
 Returns or sets a  **[ParagraphFormat](Word.ParagraphFormat.md)** object that represents the paragraph settings for the specified find operation. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImTan Method (Excel)
+title: WorksheetFunction.ImTan method (Excel)
 keywords: vbaxl10.chm137430
 f1_keywords:
 - vbaxl10.chm137430
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImTan Method (Excel)
+# WorksheetFunction.ImTan method (Excel)
 
 Returns the tangent of a complex number.
 
@@ -18,14 +18,14 @@ Returns the tangent of a complex number.
 
  _expression_. `ImTan`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction Object (Excel)](Excel.WorksheetFunction.md) object.
+ _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the tangent.|
 

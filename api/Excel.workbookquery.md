@@ -1,5 +1,5 @@
 ---
-title: WorkbookQuery Object (Excel)
+title: WorkbookQuery object (Excel)
 keywords: vbaxl10.chm973072
 f1_keywords:
 - vbaxl10.chm973072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# WorkbookQuery Object (Excel)
+# WorkbookQuery object (Excel)
 
 An object that represents a query that was created by Power Query. Introduced in Office 2016.
 

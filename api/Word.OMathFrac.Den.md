@@ -1,5 +1,5 @@
 ---
-title: OMathFrac.Den Property (Word)
+title: OMathFrac.Den property (Word)
 keywords: vbawd10.chm158597224
 f1_keywords:
 - vbawd10.chm158597224
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFrac.Den Property (Word)
+# OMathFrac.Den property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the denominator for an equation that contains a fraction. Read-only.
 

@@ -40,7 +40,7 @@ When you set the  **PaintPalette** property for a form or report, Microsoft Acce
 
  **Note**  Windows can have only one color palette active at a time. Microsoft Access allows you to have multiple graphics on a form, each using a different color palette. The  **PaintPalette** and **PaletteSource** properties let you specify which color palette a form should use when displaying graphics.
 
-You can use the  **ObjectPalette** property to make the palette of an application associated with an OLE object, bitmap, or other graphic contained in a control on a form or report available to the **PaintPalette** property. For example, to make the palette used in Microsoft Graph available when you're designing a form in Microsoft Access, you set the form's **PaintPalette** property to the **ObjectPalette** value of an existing chart control.
+You can use the  **ObjectPalette** property to make the palette of an application associated with an OLE object, bitmap, or other graphic contained in a control on a form or report available to the **PaintPalette** property. For example, to make the palette used in Microsoft Graph available when you are designing a form in Microsoft Access, you set the form's **PaintPalette** property to the **ObjectPalette** value of an existing chart control.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: Range.Hidden Property (Excel)
+title: Range.Hidden property (Excel)
 keywords: vbaxl10.chm144145
 f1_keywords:
 - vbaxl10.chm144145
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Hidden Property (Excel)
+# Range.Hidden property (Excel)
 
 Returns or sets a  **Variant** value that indicates if the rows or columns are hidden.
 

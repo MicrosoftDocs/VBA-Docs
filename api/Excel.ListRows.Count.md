@@ -1,5 +1,5 @@
 ---
-title: ListRows.Count Property (Excel)
+title: ListRows.Count property (Excel)
 keywords: vbaxl10.chm740077
 f1_keywords:
 - vbaxl10.chm740077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRows.Count Property (Excel)
+# ListRows.Count property (Excel)
 
 Returns an  **Integer** value that represents the number of objects in the collection.
 

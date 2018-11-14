@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder Object (Excel)
+title: FreeformBuilder object (Excel)
 keywords: vbaxl10.chm647072
 f1_keywords:
 - vbaxl10.chm647072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder Object (Excel)
+# FreeformBuilder object (Excel)
 
 Represents the geometry of a freeform while it's being built.
 

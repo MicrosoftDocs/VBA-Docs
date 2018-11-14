@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Asc Method (Excel)
+title: WorksheetFunction.Asc method (Excel)
 keywords: vbaxl10.chm137246
 f1_keywords:
 - vbaxl10.chm137246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Asc Method (Excel)
+# WorksheetFunction.Asc method (Excel)
 
 For Double-byte character set (DBCS) languages, changes full-width (double-byte) characters to half-width (single-byte) characters.
 

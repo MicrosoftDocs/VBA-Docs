@@ -1,5 +1,5 @@
 ---
-title: Document.TrackMoves Property (Word)
+title: Document.TrackMoves property (Word)
 keywords: vbawd10.chm158007795
 f1_keywords:
 - vbawd10.chm158007795
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.TrackMoves Property (Word)
+# Document.TrackMoves property (Word)
 
 Returns or sets a ** Boolean** that represents whether to mark moved text when Track Changes is turned on. Read/write.
 

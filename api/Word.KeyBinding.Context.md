@@ -1,5 +1,5 @@
 ---
-title: KeyBinding.Context Property (Word)
+title: KeyBinding.Context property (Word)
 keywords: vbawd10.chm160956426
 f1_keywords:
 - vbawd10.chm160956426
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeyBinding.Context Property (Word)
+# KeyBinding.Context property (Word)
 
 Returns an  **Object** that represents the storage location of the specified key binding. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.DisplayAsIcon Property (Word)
+title: OLEFormat.DisplayAsIcon property (Word)
 keywords: vbawd10.chm154337283
 f1_keywords:
 - vbawd10.chm154337283
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.DisplayAsIcon Property (Word)
+# OLEFormat.DisplayAsIcon property (Word)
 
  **True** if the specified object is displayed as an icon. Read/write **Boolean** .
 

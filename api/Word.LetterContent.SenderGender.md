@@ -1,5 +1,5 @@
 ---
-title: LetterContent.SenderGender Property (Word)
+title: LetterContent.SenderGender property (Word)
 keywords: vbawd10.chm161546371
 f1_keywords:
 - vbawd10.chm161546371
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.SenderGender Property (Word)
+# LetterContent.SenderGender property (Word)
 
 Returns or sets the gender used with the salutation. Not used in the U.S. English version of Microsoft Word. Read/write  **WdSalutationGender** .
 

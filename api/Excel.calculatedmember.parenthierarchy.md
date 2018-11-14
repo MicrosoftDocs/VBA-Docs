@@ -1,5 +1,5 @@
 ---
-title: CalculatedMember.ParentHierarchy Property (Excel)
+title: CalculatedMember.ParentHierarchy property (Excel)
 keywords: vbaxl10.chm686086
 f1_keywords:
 - vbaxl10.chm686086
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedMember.ParentHierarchy Property (Excel)
+# CalculatedMember.ParentHierarchy property (Excel)
 
  Returns the name of the current parent hierarchy from the hierarchies that are available on the cube. **String** Read-only
 

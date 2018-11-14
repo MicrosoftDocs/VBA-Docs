@@ -1,5 +1,5 @@
 ---
-title: Application.ShowStylePreviews Property (Word)
+title: Application.ShowStylePreviews property (Word)
 keywords: vbawd10.chm158335449
 f1_keywords:
 - vbawd10.chm158335449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ShowStylePreviews Property (Word)
+# Application.ShowStylePreviews property (Word)
 
 Returns or sets a  **Boolean** that represents whether Microsoft Word shows a preview of the formatting for styles in the **Styles** dialog box. Read/write.
 

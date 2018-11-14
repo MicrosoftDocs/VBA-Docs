@@ -1,5 +1,5 @@
 ---
-title: Sentences.Last Property (Word)
+title: Sentences.Last property (Word)
 keywords: vbawd10.chm156958724
 f1_keywords:
 - vbawd10.chm156958724
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sentences.Last Property (Word)
+# Sentences.Last property (Word)
 
 Returns a  **Range** object that represents the last sentence in a document, selection, or range.
 

@@ -1,5 +1,5 @@
 ---
-title: Workbook.ConnectionsDisabled Property (Excel)
+title: Workbook.ConnectionsDisabled property (Excel)
 keywords: vbaxl10.chm199257
 f1_keywords:
 - vbaxl10.chm199257
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.ConnectionsDisabled Property (Excel)
+# Workbook.ConnectionsDisabled property (Excel)
 
 Disables the external connections or links in the workbook. Read-only
 

@@ -25,7 +25,7 @@ _object_. **OpenTextFile(**_filename_ [ **,**_iomode_ [ **,**_create_ [ **,**_fo
 The  **OpenTextFile** method has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filename_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that identifies the file to open.|
@@ -36,7 +36,7 @@ The  **OpenTextFile** method has these parts:
 ## Settings
 The  _iomode_ argument can have any of the following settings:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
 |**ForWriting**|2|Open a file for writing only. Use this mode to replace an existing file with new data. You can't read from this file.|
@@ -45,7 +45,7 @@ The  _iomode_ argument can have any of the following settings:
 The  _format_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**TristateUseDefault**|-2|Opens the file using the system default.|
 |**TristateTrue**|-1|Opens the file as Unicode.|

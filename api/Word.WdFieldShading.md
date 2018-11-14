@@ -1,5 +1,5 @@
 ---
-title: WdFieldShading Enumeration (Word)
+title: WdFieldShading enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdFieldShading
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdFieldShading Enumeration (Word)
+# WdFieldShading enumeration (Word)
 
 Specifies when to apply on-screen shading for form fields.
 

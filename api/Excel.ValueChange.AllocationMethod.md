@@ -1,5 +1,5 @@
 ---
-title: ValueChange.AllocationMethod Property (Excel)
+title: ValueChange.AllocationMethod property (Excel)
 keywords: vbaxl10.chm889079
 f1_keywords:
 - vbaxl10.chm889079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ValueChange.AllocationMethod Property (Excel)
+# ValueChange.AllocationMethod property (Excel)
 
 Returns what method to use to allocate this value when performing what-if analysis. Read-only
 
@@ -25,7 +25,7 @@ Returns what method to use to allocate this value when performing what-if analys
 
 ## Return value
 
- **[XlAllocationMethod](Excel.XlAllocationMethod.md)**
+ **[xlAllocationMethod](Excel.XlAllocationMethod.md)**
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Border Property (Word)
+title: ErrorBars.Border property (Word)
 keywords: vbawd10.chm74842240
 f1_keywords:
 - vbawd10.chm74842240
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Border Property (Word)
+# ErrorBars.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

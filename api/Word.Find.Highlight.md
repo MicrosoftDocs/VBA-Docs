@@ -1,5 +1,5 @@
 ---
-title: Find.Highlight Property (Word)
+title: Find.Highlight property (Word)
 keywords: vbawd10.chm162529304
 f1_keywords:
 - vbawd10.chm162529304
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Highlight Property (Word)
+# Find.Highlight property (Word)
 
  **True** if highlight formatting is included in the find criteria. Read/write **Long** .
 

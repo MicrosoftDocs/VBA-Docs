@@ -1,5 +1,5 @@
 ---
-title: Font.Glow Property (Word)
+title: Font.Glow property (Word)
 keywords: vbawd10.chm156369063
 f1_keywords:
 - vbawd10.chm156369063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Glow Property (Word)
+# Font.Glow property (Word)
 
 Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow formatting for the font used by the specified range of text. Read-only.
 

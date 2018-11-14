@@ -21,7 +21,7 @@ _object_. **Value** [= _Variant_ ]
 The  **Value** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The state or content of the control.|

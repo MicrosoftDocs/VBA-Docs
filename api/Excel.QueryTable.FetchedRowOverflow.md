@@ -1,5 +1,5 @@
 ---
-title: QueryTable.FetchedRowOverflow Property (Excel)
+title: QueryTable.FetchedRowOverflow property (Excel)
 keywords: vbaxl10.chm518080
 f1_keywords:
 - vbaxl10.chm518080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.FetchedRowOverflow Property (Excel)
+# QueryTable.FetchedRowOverflow property (Excel)
 
  **True** if the number of rows returned by the last use of the **[Refresh](Excel.QueryTable.Refresh.md)** method is greater than the number of rows available on the worksheet. Read-only **Boolean** .
 

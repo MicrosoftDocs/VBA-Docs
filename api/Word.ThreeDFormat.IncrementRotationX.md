@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.IncrementRotationX Method (Word)
+title: ThreeDFormat.IncrementRotationX method (Word)
 keywords: vbawd10.chm164626442
 f1_keywords:
 - vbawd10.chm164626442
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.IncrementRotationX Method (Word)
+# ThreeDFormat.IncrementRotationX method (Word)
 
 Changes the rotation of the specified shape around the x-axis by the specified number of degrees.
 

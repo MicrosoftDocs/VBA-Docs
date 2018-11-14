@@ -1,5 +1,5 @@
 ---
-title: WdSortFieldType Enumeration (Word)
+title: WdSortFieldType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSortFieldType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSortFieldType Enumeration (Word)
+# WdSortFieldType enumeration (Word)
 
 Specifies the sort type to apply when sorting a column.
 

@@ -1,5 +1,5 @@
 ---
-title: MappedDataField.Name Property (Word)
+title: MappedDataField.Name property (Word)
 keywords: vbawd10.chm107544576
 f1_keywords:
 - vbawd10.chm107544576
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MappedDataField.Name Property (Word)
+# MappedDataField.Name property (Word)
 
 Returns name of the specified object. Read-only  **String** .
 

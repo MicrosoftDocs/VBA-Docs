@@ -1,5 +1,5 @@
 ---
-title: Slicer.Delete Method (Excel)
+title: Slicer.Delete method (Excel)
 keywords: vbaxl10.chm905089
 f1_keywords:
 - vbaxl10.chm905089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Delete Method (Excel)
+# Slicer.Delete method (Excel)
 
 Deletes the slicer and removes it from the associated  **[Slicers](Excel.Slicers.md)** collection.
 

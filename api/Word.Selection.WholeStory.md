@@ -1,5 +1,5 @@
 ---
-title: Selection.WholeStory Method (Word)
+title: Selection.WholeStory method (Word)
 keywords: vbawd10.chm158663180
 f1_keywords:
 - vbawd10.chm158663180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.WholeStory Method (Word)
+# Selection.WholeStory method (Word)
 
 Expands a selection to include the entire story.
 

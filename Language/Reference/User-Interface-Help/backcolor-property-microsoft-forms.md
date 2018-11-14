@@ -21,7 +21,7 @@ _object_. **BackColor** [= _Long_ ]
 The  **BackColor** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A value or constant that determines the background color of an object.|

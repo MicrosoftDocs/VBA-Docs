@@ -1,5 +1,5 @@
 ---
-title: InlineShape.TextEffect Property (Word)
+title: InlineShape.TextEffect property (Word)
 keywords: vbawd10.chm162005112
 f1_keywords:
 - vbawd10.chm162005112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShape.TextEffect Property (Word)
+# InlineShape.TextEffect property (Word)
 
 Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified inline shape. Read-only.
 

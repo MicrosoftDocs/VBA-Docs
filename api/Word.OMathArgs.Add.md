@@ -1,5 +1,5 @@
 ---
-title: OMathArgs.Add Method (Word)
+title: OMathArgs.Add method (Word)
 keywords: vbawd10.chm156958920
 f1_keywords:
 - vbawd10.chm156958920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathArgs.Add Method (Word)
+# OMathArgs.Add method (Word)
 
 Inserts an argument into an equation with variable number of arguments (**OMathDelim** and **OMathEqArray** objects) and returns an **OMath** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.MaxIterations Property (Excel)
+title: Application.MaxIterations property (Excel)
 keywords: vbaxl10.chm133163
 f1_keywords:
 - vbaxl10.chm133163
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MaxIterations Property (Excel)
+# Application.MaxIterations property (Excel)
 
 Returns or sets the maximum number of iterations that Microsoft Excel can use to resolve a circular reference. Read/write  **Long** .
 

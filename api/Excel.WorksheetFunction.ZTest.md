@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ZTest Method (Excel)
+title: WorksheetFunction.ZTest method (Excel)
 keywords: vbaxl10.chm137228
 f1_keywords:
 - vbaxl10.chm137228
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ZTest Method (Excel)
+# WorksheetFunction.ZTest method (Excel)
 
 Returns the one-tailed probability-value of a z-test. For a given hypothesized population mean, ZTEST returns the probability that the sample mean would be greater than the average of observations in the data set (array) ? that is, the observed sample mean.
 

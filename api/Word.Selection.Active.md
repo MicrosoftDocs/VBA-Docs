@@ -1,5 +1,5 @@
 ---
-title: Selection.Active Property (Word)
+title: Selection.Active property (Word)
 keywords: vbawd10.chm158663059
 f1_keywords:
 - vbawd10.chm158663059
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Active Property (Word)
+# Selection.Active property (Word)
 
  **True** if the selection in the specified window or pane is active. Read-only **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Range.AllocateChanges Method (Excel)
+title: Range.AllocateChanges method (Excel)
 keywords: vbaxl10.chm144253
 f1_keywords:
 - vbaxl10.chm144253
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.AllocateChanges Method (Excel)
+# Range.AllocateChanges method (Excel)
 
 Performs a writeback operation for all edited cells in a range based on an OLAP data source.
 

@@ -1,5 +1,5 @@
 ---
-title: XmlDataBinding.Refresh Method (Excel)
+title: XmlDataBinding.Refresh method (Excel)
 keywords: vbaxl10.chm748074
 f1_keywords:
 - vbaxl10.chm748074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlDataBinding.Refresh Method (Excel)
+# XmlDataBinding.Refresh method (Excel)
 
 Retrieves XML data using the current connection settings of the specified  **[XmlDataBinding](Excel.XmlDataBinding.md)** object.
 
@@ -25,7 +25,7 @@ Retrieves XML data using the current connection settings of the specified  **[Xm
 
 ## Return value
 
-An  **[XlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
+An  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the result of the method.
 
 
 ## See also

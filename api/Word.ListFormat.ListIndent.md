@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ListIndent Method (Word)
+title: ListFormat.ListIndent method (Word)
 keywords: vbawd10.chm163578067
 f1_keywords:
 - vbawd10.chm163578067
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ListIndent Method (Word)
+# ListFormat.ListIndent method (Word)
 
 Increases the list level of the paragraphs in the range for the specified  **ListFormat** object, in increments of one level.
 

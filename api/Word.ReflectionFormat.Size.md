@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Size Property (Word)
+title: ReflectionFormat.Size property (Word)
 keywords: vbawd10.chm67043331
 f1_keywords:
 - vbawd10.chm67043331
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Size Property (Word)
+# ReflectionFormat.Size property (Word)
 
 Returns or sets the size of the reflection as a percentage of the reflected shape from 0 to 100. Read/write.
 

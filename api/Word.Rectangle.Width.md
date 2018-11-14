@@ -1,5 +1,5 @@
 ---
-title: Rectangle.Width Property (Word)
+title: Rectangle.Width property (Word)
 keywords: vbawd10.chm234029061
 f1_keywords:
 - vbawd10.chm234029061
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Rectangle.Width Property (Word)
+# Rectangle.Width property (Word)
 
 Returns or sets a  **Long** that represents the width, in points, of a rectangle. Read/write **Long** .
 

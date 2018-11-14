@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Update Method (Excel)
+title: OLEObject.Update method (Excel)
 keywords: vbaxl10.chm417079
 f1_keywords:
 - vbaxl10.chm417079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Update Method (Excel)
+# OLEObject.Update method (Excel)
 
 Updates the link.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.NumberDown Property (Word)
+title: CustomLabel.NumberDown property (Word)
 keywords: vbawd10.chm152371210
 f1_keywords:
 - vbawd10.chm152371210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.NumberDown Property (Word)
+# CustomLabel.NumberDown property (Word)
 
 Returns or sets the number of custom mailing labels down the length of a page. Read/write  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.AddWebVideo Method (Word)
+title: InlineShapes.AddWebVideo method (Word)
 keywords: vbawd10.chm162070637
 f1_keywords:
 - vbawd10.chm162070637
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.AddWebVideo Method (Word)
+# InlineShapes.AddWebVideo method (Word)
 
 Adds a new web video to the document.
 
@@ -25,7 +25,7 @@ Adds a new web video to the document.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _EmbedCode_|Required|STRING|The embed code for the video.|

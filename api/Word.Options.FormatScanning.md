@@ -1,5 +1,5 @@
 ---
-title: Options.FormatScanning Property (Word)
+title: Options.FormatScanning property (Word)
 keywords: vbawd10.chm162988481
 f1_keywords:
 - vbawd10.chm162988481
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.FormatScanning Property (Word)
+# Options.FormatScanning property (Word)
 
  **True** for Microsoft Word to keep track of all formatting in a document. Read/write **Boolean** .
 

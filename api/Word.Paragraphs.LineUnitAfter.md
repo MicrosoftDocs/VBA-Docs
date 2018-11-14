@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.LineUnitAfter Property (Word)
+title: Paragraphs.LineUnitAfter property (Word)
 keywords: vbawd10.chm156762242
 f1_keywords:
 - vbawd10.chm156762242
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.LineUnitAfter Property (Word)
+# Paragraphs.LineUnitAfter property (Word)
 
 Returns or sets the amount of spacing (in gridlines) after the specified paragraphs. Read/write  **Single** .
 

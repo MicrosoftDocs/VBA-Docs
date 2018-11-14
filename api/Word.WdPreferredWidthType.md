@@ -1,5 +1,5 @@
 ---
-title: WdPreferredWidthType Enumeration (Word)
+title: WdPreferredWidthType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdPreferredWidthType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdPreferredWidthType Enumeration (Word)
+# WdPreferredWidthType enumeration (Word)
 
 Specifies the preferred unit of measure to use when measuring the width of an item.
 

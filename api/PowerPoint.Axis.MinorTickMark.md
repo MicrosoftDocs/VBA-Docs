@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorTickMark Property (PowerPoint)
 
-Returns or sets the type of minor tick mark for the specified axis. Read/write  **[XlTickMark](PowerPoint.XlTickMark.md)**.
+Returns or sets the type of minor tick mark for the specified axis. Read/write  **[xlTickMark](PowerPoint.XlTickMark.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write  
 
 ## Remarks
 
- **MinorTickMark** can be one of the following **XlTickMark** constants:
+ **MinorTickMark** can be one of the following **xlTickMark** constants:
 
 
 -  **xlTickMarkInside**

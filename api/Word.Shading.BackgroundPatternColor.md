@@ -1,5 +1,5 @@
 ---
-title: Shading.BackgroundPatternColor Property (Word)
+title: Shading.BackgroundPatternColor property (Word)
 keywords: vbawd10.chm154796037
 f1_keywords:
 - vbawd10.chm154796037
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shading.BackgroundPatternColor Property (Word)
+# Shading.BackgroundPatternColor property (Word)
 
 Returns or sets the 24-bit color that's applied to the background of the  **Shading** object. Read/write.
 

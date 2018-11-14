@@ -1,5 +1,5 @@
 ---
-title: Range.InsertDateTime Method (Word)
+title: Range.InsertDateTime method (Word)
 keywords: vbawd10.chm157155772
 f1_keywords:
 - vbawd10.chm157155772
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InsertDateTime Method (Word)
+# Range.InsertDateTime method (Word)
 
 Inserts the current date or time, or both, either as text or as a TIME field.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.Version Property (Excel)
+title: PivotCache.Version property (Excel)
 keywords: vbaxl10.chm227108
 f1_keywords:
 - vbaxl10.chm227108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.Version Property (Excel)
+# PivotCache.Version property (Excel)
 
 Returns the version of Microsoft Excel in which the PivotCache was created. Read-only.
 

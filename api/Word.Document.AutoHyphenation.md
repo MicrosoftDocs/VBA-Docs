@@ -1,5 +1,5 @@
 ---
-title: Document.AutoHyphenation Property (Word)
+title: Document.AutoHyphenation property (Word)
 keywords: vbawd10.chm158007307
 f1_keywords:
 - vbawd10.chm158007307
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.AutoHyphenation Property (Word)
+# Document.AutoHyphenation property (Word)
 
  **True** if automatic hyphenation is turned on for the specified document. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.PictureWrapType Property (Word)
+title: Options.PictureWrapType property (Word)
 keywords: vbawd10.chm162988468
 f1_keywords:
 - vbawd10.chm162988468
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.PictureWrapType Property (Word)
+# Options.PictureWrapType property (Word)
 
 Sets or returns a  **WdWrapTypeMerged** that indicates how Microsoft Word wraps text around pictures. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Sub Property (Word)
+title: OMathNary.Sub property (Word)
 keywords: vbawd10.chm25428071
 f1_keywords:
 - vbawd10.chm25428071
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Sub Property (Word)
+# OMathNary.Sub property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the lower limit of an n-ary operator. Read-only.
 

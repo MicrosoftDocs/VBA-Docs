@@ -1,5 +1,5 @@
 ---
-title: ModelRelationship.Creator Property (Excel)
+title: ModelRelationship.Creator property (Excel)
 keywords: vbaxl10.chm937074
 f1_keywords:
 - vbaxl10.chm937074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationship.Creator Property (Excel)
+# ModelRelationship.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object.
+ _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Remarks

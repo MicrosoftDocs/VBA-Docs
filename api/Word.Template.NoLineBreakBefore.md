@@ -1,5 +1,5 @@
 ---
-title: Template.NoLineBreakBefore Property (Word)
+title: Template.NoLineBreakBefore property (Word)
 keywords: vbawd10.chm157941775
 f1_keywords:
 - vbawd10.chm157941775
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.NoLineBreakBefore Property (Word)
+# Template.NoLineBreakBefore property (Word)
 
 Returns or sets the kinsoku characters before which Microsoft Word will not break a line. Read/write  **String** .
 

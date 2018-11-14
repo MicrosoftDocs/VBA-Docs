@@ -1,5 +1,5 @@
 ---
-title: Broadcast.Application Property (Word)
+title: Broadcast.Application property (Word)
 keywords: vbawd10.chm36439016
 f1_keywords:
 - vbawd10.chm36439016
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Broadcast.Application Property (Word)
+# Broadcast.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

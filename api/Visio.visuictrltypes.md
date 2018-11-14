@@ -18,7 +18,7 @@ Constants that describe control types, used in conjuction with the  **CntrlType*
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCtrlTypeBUTTON_OWNERDRAW**|33|Owner-draw push button.|
 | **visCtrlTypeBUTTON**|2|Push button.|

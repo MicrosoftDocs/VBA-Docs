@@ -1,5 +1,5 @@
 ---
-title: Shape.HorizontalFlip Property (Word)
+title: Shape.HorizontalFlip property (Word)
 keywords: vbawd10.chm161480814
 f1_keywords:
 - vbawd10.chm161480814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.HorizontalFlip Property (Word)
+# Shape.HorizontalFlip property (Word)
 
 Indicates that a shape has been flipped horizontally. Read-only  **MsoTriState** .
 

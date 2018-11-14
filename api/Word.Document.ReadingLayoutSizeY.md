@@ -1,5 +1,5 @@
 ---
-title: Document.ReadingLayoutSizeY Property (Word)
+title: Document.ReadingLayoutSizeY property (Word)
 keywords: vbawd10.chm158007788
 f1_keywords:
 - vbawd10.chm158007788
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReadingLayoutSizeY Property (Word)
+# Document.ReadingLayoutSizeY property (Word)
 
 Sets or returns a  **Long** that represents the height of pages in a document when it is displayed in reading layout view and is frozen for entering handwritten markup.
 

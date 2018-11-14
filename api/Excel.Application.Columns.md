@@ -1,5 +1,5 @@
 ---
-title: Application.Columns Property (Excel)
+title: Application.Columns property (Excel)
 keywords: vbaxl10.chm183087
 f1_keywords:
 - vbaxl10.chm183087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Columns Property (Excel)
+# Application.Columns property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents all the columns on the active worksheet. If the active document isn't a worksheet, the **Columns** property fails.
 

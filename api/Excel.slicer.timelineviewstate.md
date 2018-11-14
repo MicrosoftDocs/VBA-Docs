@@ -1,5 +1,5 @@
 ---
-title: Slicer.TimelineViewState Property (Excel)
+title: Slicer.TimelineViewState property (Excel)
 keywords: vbaxl10.chm905093
 f1_keywords:
 - vbaxl10.chm905093
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.TimelineViewState Property (Excel)
+# Slicer.TimelineViewState property (Excel)
 
 The timeline-specific state of the Slicer.  **TimelineViewState** Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.MarginBottom Property (Excel)
+title: TextFrame2.MarginBottom property (Excel)
 ms.prod: excel
 api_name:
 - Excel.TextFrame2.MarginBottom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.MarginBottom Property (Excel)
+# TextFrame2.MarginBottom property (Excel)
 
 Returns or sets the distance (in points) between the bottom of the text frame and the bottom of the inscribed rectangle of the shape that contains the text. Read/write  **Single** .
 

@@ -1,5 +1,5 @@
 ---
-title: FileConverter Object (Word)
+title: FileConverter object (Word)
 keywords: vbawd10.chm2457
 f1_keywords:
 - vbawd10.chm2457
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileConverter Object (Word)
+# FileConverter object (Word)
 
 Represents a file converter that's used to open or save files. The  **FileConverter** object is a member of the **FileConverters** collection. The **[FileConverters](Word.fileconverters.md)** collection contains all the installed file converters for opening and saving files.
 

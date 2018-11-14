@@ -1,5 +1,5 @@
 ---
-title: ODBCErrors.Parent Property (Excel)
+title: ODBCErrors.Parent property (Excel)
 keywords: vbaxl10.chm528075
 f1_keywords:
 - vbaxl10.chm528075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODBCErrors.Parent Property (Excel)
+# ODBCErrors.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

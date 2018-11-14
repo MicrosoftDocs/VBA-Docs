@@ -1,5 +1,5 @@
 ---
-title: WebOptions.RelyOnCSS Property (Excel)
+title: WebOptions.RelyOnCSS property (Excel)
 keywords: vbaxl10.chm662073
 f1_keywords:
 - vbaxl10.chm662073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebOptions.RelyOnCSS Property (Excel)
+# WebOptions.RelyOnCSS property (Excel)
 
  **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. Microsoft Excel creates a cascading style sheet file and saves it either to the specified folder or to the same folder as your Web page, depending on the value of the **[OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)** property. **False** if HTML <FONT> tags and cascading style sheets are used. The default value is **True** . Read/write **Boolean** .
 

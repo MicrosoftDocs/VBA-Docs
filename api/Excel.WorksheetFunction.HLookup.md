@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.HLookup Method (Excel)
+title: WorksheetFunction.HLookup method (Excel)
 keywords: vbaxl10.chm137122
 f1_keywords:
 - vbaxl10.chm137122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.HLookup Method (Excel)
+# WorksheetFunction.HLookup method (Excel)
 
 Searches for a value in the top row of a table or an array of values, and then returns a value in the same column from a row you specify in the table or array. Use HLOOKUP when your comparison values are located in a row across the top of a table of data, and you want to look down a specified number of rows. Use VLOOKUP when your comparison values are located in a column to the left of the data you want to find.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.PrintOut Method (Word)
+title: Application.PrintOut method (Word)
 keywords: vbawd10.chm158335424
 f1_keywords:
 - vbawd10.chm158335424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PrintOut Method (Word)
+# Application.PrintOut method (Word)
 
 Prints all or part of the specified document.
 

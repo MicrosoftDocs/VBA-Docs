@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Count Method (Excel)
+title: WorksheetFunction.Count method (Excel)
 keywords: vbaxl10.chm137074
 f1_keywords:
 - vbaxl10.chm137074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Count Method (Excel)
+# WorksheetFunction.Count method (Excel)
 
 Counts the number of cells that contain numbers and counts numbers within the list of arguments.
 

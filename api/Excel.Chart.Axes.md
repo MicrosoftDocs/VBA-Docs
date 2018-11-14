@@ -1,5 +1,5 @@
 ---
-title: Chart.Axes Method (Excel)
+title: Chart.Axes method (Excel)
 keywords: vbaxl10.chm149081
 f1_keywords:
 - vbaxl10.chm149081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Axes Method (Excel)
+# Chart.Axes method (Excel)
 
 Returns an object that represents either a single axis or a collection of the axes on the chart.
 
@@ -29,8 +29,8 @@ Returns an object that represents either a single axis or a collection of the ax
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[XlAxisType](Excel.XlAxisType.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
-| _AxisGroup_|Optional| **[XlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
+| _Type_|Optional| **Variant**|Specifies the axis to return. Can be one of the following  **[xlAxisType](Excel.XlAxisType.md)** constants: **xlValue** , **xlCategory** , or **xlSeriesAxis** (**xlSeriesAxis** is valid only for 3-D charts).|
+| _AxisGroup_|Optional| **[xlAxisGroup](Excel.XlAxisGroup.md)**|Specifies the axis group. If this argument is omitted, the primary group is used. 3-D charts have only one axis group.|
 
 ## Return value
 

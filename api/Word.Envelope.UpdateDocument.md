@@ -1,5 +1,5 @@
 ---
-title: Envelope.UpdateDocument Method (Word)
+title: Envelope.UpdateDocument method (Word)
 keywords: vbawd10.chm152567911
 f1_keywords:
 - vbawd10.chm152567911
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.UpdateDocument Method (Word)
+# Envelope.UpdateDocument method (Word)
 
 Updates the envelope in the document with the current envelope settings.
 

@@ -1,5 +1,5 @@
 ---
-title: TableStyle.Creator Property (Excel)
+title: TableStyle.Creator property (Excel)
 keywords: vbaxl10.chm838074
 f1_keywords:
 - vbaxl10.chm838074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.Creator Property (Excel)
+# TableStyle.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Application Property (Word)
+title: XMLNode.Application property (Word)
 keywords: vbawd10.chm37749736
 f1_keywords:
 - vbawd10.chm37749736
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Application Property (Word)
+# XMLNode.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

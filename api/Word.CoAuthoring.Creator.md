@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.Creator Property (Word)
+title: CoAuthoring.Creator property (Word)
 keywords: vbawd10.chm254870505
 f1_keywords:
 - vbawd10.chm254870505
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.Creator Property (Word)
+# CoAuthoring.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Options.MatchFuzzyTC Property (Word)
+title: Options.MatchFuzzyTC property (Word)
 keywords: vbawd10.chm162988352
 f1_keywords:
 - vbawd10.chm162988352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.MatchFuzzyTC Property (Word)
+# Options.MatchFuzzyTC property (Word)
 
  **True** if Microsoft Word ignores the distinction between "
 ![Symbol](../images/fe279_ZA06051758.gif)

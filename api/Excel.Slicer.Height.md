@@ -1,5 +1,5 @@
 ---
-title: Slicer.Height Property (Excel)
+title: Slicer.Height property (Excel)
 keywords: vbaxl10.chm905079
 f1_keywords:
 - vbaxl10.chm905079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Height Property (Excel)
+# Slicer.Height property (Excel)
 
 Returns or sets the height of the specified slicer, in points. Read/write.
 

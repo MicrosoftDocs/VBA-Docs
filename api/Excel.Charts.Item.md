@@ -1,5 +1,5 @@
 ---
-title: Charts.Item Property (Excel)
+title: Charts.Item property (Excel)
 keywords: vbaxl10.chm217076
 f1_keywords:
 - vbaxl10.chm217076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.Item Property (Excel)
+# Charts.Item property (Excel)
 
 Returns a single object from a collection.
 

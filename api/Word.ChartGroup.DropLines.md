@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.DropLines Property (Word)
+title: ChartGroup.DropLines property (Word)
 keywords: vbawd10.chm263454725
 f1_keywords:
 - vbawd10.chm263454725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.DropLines Property (Word)
+# ChartGroup.DropLines property (Word)
 
 Returns the drop lines for a series on a line chart or area chart. Read-only  **[DropLines](Word.DropLines.md)** .
 

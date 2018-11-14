@@ -1,5 +1,5 @@
 ---
-title: ListLevel.NumberFormat Property (Word)
+title: ListLevel.NumberFormat property (Word)
 keywords: vbawd10.chm160235522
 f1_keywords:
 - vbawd10.chm160235522
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListLevel.NumberFormat Property (Word)
+# ListLevel.NumberFormat property (Word)
 
 Returns or sets the number format for the specified list level. Read/write  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextConnection.Parent Property (Excel)
+title: TextConnection.Parent property (Excel)
 keywords: vbaxl10.chm925075
 f1_keywords:
 - vbaxl10.chm925075
@@ -9,16 +9,16 @@ ms.date: 06/08/2017
 ---
 
 
-# TextConnection.Parent Property (Excel)
+# TextConnection.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TextConnection Object (Excel)](Excel.textconnection.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified[TextConnection object (Excel)](Excel.textconnection.md) object. Read-only.
 
 
 ## Syntax
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [TextConnection Object (Excel)](Excel.textconnection.md) object.
+ _expression_ A variable that represents a [TextConnection object (Excel)](Excel.textconnection.md) object.
 
 
 ## Property value

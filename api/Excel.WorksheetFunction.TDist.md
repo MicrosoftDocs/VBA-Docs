@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.TDist Method (Excel)
+title: WorksheetFunction.TDist method (Excel)
 keywords: vbaxl10.chm137205
 f1_keywords:
 - vbaxl10.chm137205
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.TDist Method (Excel)
+# WorksheetFunction.TDist method (Excel)
 
 Returns the Percentage Points (probability) for the Student t-distribution where a numeric value (x) is a calculated value of t for which the Percentage Points are to be computed. The t-distribution is used in the hypothesis testing of small sample data sets. Use this function in place of a table of critical values for the t-distribution.
 

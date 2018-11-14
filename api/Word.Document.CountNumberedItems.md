@@ -1,5 +1,5 @@
 ---
-title: Document.CountNumberedItems Method (Word)
+title: Document.CountNumberedItems method (Word)
 keywords: vbawd10.chm158007438
 f1_keywords:
 - vbawd10.chm158007438
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CountNumberedItems Method (Word)
+# Document.CountNumberedItems method (Word)
 
 Returns the number of bulleted or numbered items and LISTNUM fields in the specified  **Document** object.
 

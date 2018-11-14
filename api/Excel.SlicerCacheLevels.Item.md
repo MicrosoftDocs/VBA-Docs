@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevels.Item Property (Excel)
+title: SlicerCacheLevels.Item property (Excel)
 keywords: vbaxl10.chm899074
 f1_keywords:
 - vbaxl10.chm899074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevels.Item Property (Excel)
+# SlicerCacheLevels.Item property (Excel)
 
 Returns the specified  **[SlicerCacheLevel](Excel.SlicerCacheLevel.md)** object from the collection, or if no level is specified, returns the first **SlicerCacheLevel** object in the collection.
 

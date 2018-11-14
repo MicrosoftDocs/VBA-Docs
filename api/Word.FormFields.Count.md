@@ -1,5 +1,5 @@
 ---
-title: FormFields.Count Property (Word)
+title: FormFields.Count property (Word)
 keywords: vbawd10.chm153681921
 f1_keywords:
 - vbawd10.chm153681921
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormFields.Count Property (Word)
+# FormFields.Count property (Word)
 
 Returns a  **Long** that represents the number of fields in the collection. Read-only.
 

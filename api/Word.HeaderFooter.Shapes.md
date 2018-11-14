@@ -1,5 +1,5 @@
 ---
-title: HeaderFooter.Shapes Property (Word)
+title: HeaderFooter.Shapes property (Word)
 keywords: vbawd10.chm159711239
 f1_keywords:
 - vbawd10.chm159711239
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HeaderFooter.Shapes Property (Word)
+# HeaderFooter.Shapes property (Word)
 
 Returns a  **Shapes** collection that represents all the **Shape** objects in a header or footer. Read-only.
 

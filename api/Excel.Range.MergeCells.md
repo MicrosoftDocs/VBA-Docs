@@ -1,5 +1,5 @@
 ---
-title: Range.MergeCells Property (Excel)
+title: Range.MergeCells property (Excel)
 keywords: vbaxl10.chm144161
 f1_keywords:
 - vbaxl10.chm144161
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.MergeCells Property (Excel)
+# Range.MergeCells property (Excel)
 
  **True** if the range contains merged cells. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Comment.Reference Property (Word)
+title: Comment.Reference property (Word)
 keywords: vbawd10.chm154993644
 f1_keywords:
 - vbawd10.chm154993644
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Reference Property (Word)
+# Comment.Reference property (Word)
 
 Returns a  **Range** object that represents a reference mark for a comment.
 

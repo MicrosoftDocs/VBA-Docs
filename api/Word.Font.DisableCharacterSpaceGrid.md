@@ -1,5 +1,5 @@
 ---
-title: Font.DisableCharacterSpaceGrid Property (Word)
+title: Font.DisableCharacterSpaceGrid property (Word)
 keywords: vbawd10.chm156369051
 f1_keywords:
 - vbawd10.chm156369051
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.DisableCharacterSpaceGrid Property (Word)
+# Font.DisableCharacterSpaceGrid property (Word)
 
  **True** if Microsoft Word ignores the number of characters per line for the corresponding **Font** object. Read/write **Boolean** .
 

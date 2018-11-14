@@ -1,5 +1,5 @@
 ---
-title: CoAuthUpdates.Count Property (Word)
+title: CoAuthUpdates.Count property (Word)
 keywords: vbawd10.chm217841665
 f1_keywords:
 - vbawd10.chm217841665
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthUpdates.Count Property (Word)
+# CoAuthUpdates.Count property (Word)
 
 Returns the number of items in the [CoAuthUpdates](./overview/Word.md) collection. Read-only.
 

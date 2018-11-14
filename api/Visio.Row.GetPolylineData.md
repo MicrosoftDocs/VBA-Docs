@@ -47,7 +47,7 @@ The  _Flags_ parameter is a bitmask that specifies options for returning points.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGeomExcludeLastPoint**|&H1 |Optional. The last point of the polyline (the X and Y cells in the row) will not be included in  _xyArray()_. |
 | **visGeomWHPct**|&H10 |The values returned in  _xyArray()_ will be percentages of width/height.|

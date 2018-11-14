@@ -1,5 +1,5 @@
 ---
-title: Top10.CalcFor Property (Excel)
+title: Top10.CalcFor property (Excel)
 keywords: vbaxl10.chm822090
 f1_keywords:
 - vbaxl10.chm822090
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.CalcFor Property (Excel)
+# Top10.CalcFor property (Excel)
 
-Returns or sets one of the constants of the  **[XlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies how the conditional format in a PivotTable report should be evaluated.
+Returns or sets one of the constants of the  **[xlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies how the conditional format in a PivotTable report should be evaluated.
 
 
 ## Syntax

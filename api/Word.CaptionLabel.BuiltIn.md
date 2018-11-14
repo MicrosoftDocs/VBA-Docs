@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.BuiltIn Property (Word)
+title: CaptionLabel.BuiltIn property (Word)
 keywords: vbawd10.chm158924801
 f1_keywords:
 - vbawd10.chm158924801
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.BuiltIn Property (Word)
+# CaptionLabel.BuiltIn property (Word)
 
  **True** if the specified caption label is one of the built-in caption labels in Word. Read-only **Boolean** .
 

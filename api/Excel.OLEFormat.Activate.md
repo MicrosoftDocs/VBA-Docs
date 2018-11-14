@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Activate Method (Excel)
+title: OLEFormat.Activate method (Excel)
 keywords: vbaxl10.chm632073
 f1_keywords:
 - vbaxl10.chm632073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Activate Method (Excel)
+# OLEFormat.Activate method (Excel)
 
 Activates the current ole object.
 

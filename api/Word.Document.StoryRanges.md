@@ -1,5 +1,5 @@
 ---
-title: Document.StoryRanges Property (Word)
+title: Document.StoryRanges property (Word)
 keywords: vbawd10.chm158007352
 f1_keywords:
 - vbawd10.chm158007352
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.StoryRanges Property (Word)
+# Document.StoryRanges property (Word)
 
 Returns a  **[StoryRanges](Word.storyranges.md)** collection that represents all the stories in the specified document. Read-only.
 

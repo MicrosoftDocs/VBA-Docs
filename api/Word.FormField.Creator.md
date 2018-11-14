@@ -1,5 +1,5 @@
 ---
-title: FormField.Creator Property (Word)
+title: FormField.Creator property (Word)
 keywords: vbawd10.chm153617385
 f1_keywords:
 - vbawd10.chm153617385
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FormField.Creator Property (Word)
+# FormField.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

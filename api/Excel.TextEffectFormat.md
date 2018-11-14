@@ -1,5 +1,5 @@
 ---
-title: TextEffectFormat Object (Excel)
+title: TextEffectFormat object (Excel)
 keywords: vbaxl10.chm118000
 f1_keywords:
 - vbaxl10.chm118000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextEffectFormat Object (Excel)
+# TextEffectFormat object (Excel)
 
 Contains properties and methods that apply to WordArt objects.
 

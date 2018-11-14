@@ -1,5 +1,5 @@
 ---
-title: Options.ConfirmConversions Property (Word)
+title: Options.ConfirmConversions property (Word)
 keywords: vbawd10.chm162988054
 f1_keywords:
 - vbawd10.chm162988054
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ConfirmConversions Property (Word)
+# Options.ConfirmConversions property (Word)
 
  **True** if Word displays the **Convert File** dialog box before it opens or inserts a file that isn't a Word document or template. In the **Convert File** dialog box, the user chooses the format to convert the file from. Read/write **Boolean** .
 

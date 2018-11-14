@@ -27,7 +27,7 @@ Sets or returns an  **[OlPermissionService](Outlook.OlPermissionService.md)** co
 
 This property is useful only if you have more than one permission identity for a particular SMTP address. 
 
-While you can view content that is protected by IRM on any computer running the 2007 Microsoft Office system or a later version, you must have Microsoft Office Professional Edition 2003, Microsoft Office Outlook 2007, or a later version of Outlook to create or send an e-mail that is protected by IRM.
+While you can view content that is protected by IRM on any computer running the 2007 Microsoft Office system or a later version, you must have Microsoft Office Professional Edition 2003, Microsoft Office Outlook 2007, or a later version of Outlook to create or send an email that is protected by IRM.
 
 
 ## See also

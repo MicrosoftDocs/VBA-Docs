@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Pattern Property (Excel)
+title: LineFormat.Pattern property (Excel)
 keywords: vbaxl10.chm110011
 f1_keywords:
 - vbaxl10.chm110011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Pattern Property (Excel)
+# LineFormat.Pattern property (Excel)
 
 Returns or sets an  **[MsoPatternType](Excel.LineFormat.Pattern.md)** value that represents the fill pattern.
 

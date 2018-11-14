@@ -1,5 +1,5 @@
 ---
-title: Bookmark.End Property (Word)
+title: Bookmark.End property (Word)
 keywords: vbawd10.chm157810692
 f1_keywords:
 - vbawd10.chm157810692
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.End Property (Word)
+# Bookmark.End property (Word)
 
 Returns or sets the ending character position of a selection, range, or bookmark. Read/write  **Long** .
 

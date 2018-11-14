@@ -1,5 +1,5 @@
 ---
-title: FreeformBuilder.ConvertToShape Method (Excel)
+title: FreeformBuilder.ConvertToShape method (Excel)
 keywords: vbaxl10.chm648074
 f1_keywords:
 - vbaxl10.chm648074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FreeformBuilder.ConvertToShape Method (Excel)
+# FreeformBuilder.ConvertToShape method (Excel)
 
 Creates a shape that has the geometric characteristics of the specified  **[FreeformBuilder](Excel.FreeformBuilder.md)** object. Returns a **[Shape](Excel.Shape.md)** object that represents the new shape.
 

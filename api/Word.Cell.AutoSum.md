@@ -1,5 +1,5 @@
 ---
-title: Cell.AutoSum Method (Word)
+title: Cell.AutoSum method (Word)
 keywords: vbawd10.chm156106958
 f1_keywords:
 - vbawd10.chm156106958
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.AutoSum Method (Word)
+# Cell.AutoSum method (Word)
 
 Inserts an = (Formula) field that calculates and displays the sum of the values in table cells above or to the left of the cell specified in the expression.
 

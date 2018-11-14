@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.Z Property (Word)
+title: ThreeDFormat.Z property (Word)
 keywords: vbawd10.chm164626545
 f1_keywords:
 - vbawd10.chm164626545
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.Z Property (Word)
+# ThreeDFormat.Z property (Word)
 
 Returns or sets a  **Single** that represents the z-axis for the shape. Read/write.
 

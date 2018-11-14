@@ -1,5 +1,5 @@
 ---
-title: XmlSchema Object (Excel)
+title: XmlSchema object (Excel)
 keywords: vbaxl10.chm749072
 f1_keywords:
 - vbaxl10.chm749072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlSchema Object (Excel)
+# XmlSchema object (Excel)
 
 Represents an XML schema contained by an  **[XmlMap](Excel.XmlMap.md)** object.
 

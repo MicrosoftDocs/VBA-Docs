@@ -1,5 +1,5 @@
 ---
-title: SlicerItem Object (Excel)
+title: SlicerItem object (Excel)
 keywords: vbaxl10.chm906072
 f1_keywords:
 - vbaxl10.chm906072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerItem Object (Excel)
+# SlicerItem object (Excel)
 
 Represents an item in a slicer.
 

@@ -1,5 +1,5 @@
 ---
-title: ListGallery.Creator Property (Word)
+title: ListGallery.Creator property (Word)
 keywords: vbawd10.chm160695273
 f1_keywords:
 - vbawd10.chm160695273
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListGallery.Creator Property (Word)
+# ListGallery.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

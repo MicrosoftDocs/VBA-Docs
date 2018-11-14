@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.AutoFillFormulasInLists Property (Excel)
+title: AutoCorrect.AutoFillFormulasInLists property (Excel)
 keywords: vbaxl10.chm545083
 f1_keywords:
 - vbaxl10.chm545083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.AutoFillFormulasInLists Property (Excel)
+# AutoCorrect.AutoFillFormulasInLists property (Excel)
 
 Affects the creation of calculated columns created by automatic fill-down lists. Read/write  **Boolean** .
 

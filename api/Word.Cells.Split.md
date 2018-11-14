@@ -1,5 +1,5 @@
 ---
-title: Cells.Split Method (Word)
+title: Cells.Split method (Word)
 keywords: vbawd10.chm155844813
 f1_keywords:
 - vbawd10.chm155844813
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.Split Method (Word)
+# Cells.Split method (Word)
 
 Splits a range of table cells.
 

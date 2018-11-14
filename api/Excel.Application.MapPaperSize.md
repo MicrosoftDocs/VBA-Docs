@@ -1,5 +1,5 @@
 ---
-title: Application.MapPaperSize Property (Excel)
+title: Application.MapPaperSize property (Excel)
 keywords: vbaxl10.chm133286
 f1_keywords:
 - vbaxl10.chm133286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.MapPaperSize Property (Excel)
+# Application.MapPaperSize property (Excel)
 
  **True** if documents formatted for the standard paper size of another country/region (for example, A4) are automatically adjusted so that they're printed correctly on the standard paper size (for example, Letter) of your country/region. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: WdCharacterWidth Enumeration (Word)
+title: WdCharacterWidth enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdCharacterWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdCharacterWidth Enumeration (Word)
+# WdCharacterWidth enumeration (Word)
 
 Specifies the character width of the specified range.
 

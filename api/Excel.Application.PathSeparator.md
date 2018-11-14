@@ -1,5 +1,5 @@
 ---
-title: Application.PathSeparator Property (Excel)
+title: Application.PathSeparator property (Excel)
 keywords: vbaxl10.chm133190
 f1_keywords:
 - vbaxl10.chm133190
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PathSeparator Property (Excel)
+# Application.PathSeparator property (Excel)
 
 Returns the path separator character ("\\"). Read-only  **String** .
 

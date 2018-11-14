@@ -1,5 +1,5 @@
 ---
-title: Dictionary.Path Property (Word)
+title: Dictionary.Path property (Word)
 keywords: vbawd10.chm162332673
 f1_keywords:
 - vbawd10.chm162332673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Dictionary.Path Property (Word)
+# Dictionary.Path property (Word)
 
 Returns the path to the specified dictionary. Read-only  **String** .
 

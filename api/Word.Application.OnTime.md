@@ -1,5 +1,5 @@
 ---
-title: Application.OnTime Method (Word)
+title: Application.OnTime method (Word)
 keywords: vbawd10.chm158335326
 f1_keywords:
 - vbawd10.chm158335326
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.OnTime Method (Word)
+# Application.OnTime method (Word)
 
 Starts a background timer that runs a macro at a specified time.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartCharacters Object (Word)
+title: ChartCharacters object (Word)
 ms.prod: word
 api_name:
 - Word.ChartCharacters
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCharacters Object (Word)
+# ChartCharacters object (Word)
 
 Represents characters in an object that contains text. 
 

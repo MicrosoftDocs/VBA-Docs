@@ -1,5 +1,5 @@
 ---
-title: Axis.MajorTickMark Property (Excel)
+title: Axis.MajorTickMark property (Excel)
 keywords: vbaxl10.chm561085
 f1_keywords:
 - vbaxl10.chm561085
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MajorTickMark Property (Excel)
+# Axis.MajorTickMark property (Excel)
 
-Returns or sets the type of major tick mark for the specified axis. Read/write  **[XlTickMark](Excel.XlTickMark.md)** .
+Returns or sets the type of major tick mark for the specified axis. Read/write  **[xlTickMark](Excel.XlTickMark.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the type of major tick mark for the specified axis. Read/write  
 
 
 
-| **XlTickMark** can be one of these **XlTickMark** constants.|
+| **xlTickMark** can be one of these **xlTickMark** constants.|
 | **xlTickMarkInside**|
 | **xlTickMarkOutside**|
 | **xlTickMarkCross**|

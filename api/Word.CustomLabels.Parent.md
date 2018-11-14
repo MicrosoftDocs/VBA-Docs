@@ -1,5 +1,5 @@
 ---
-title: CustomLabels.Parent Property (Word)
+title: CustomLabels.Parent property (Word)
 keywords: vbawd10.chm152437738
 f1_keywords:
 - vbawd10.chm152437738
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabels.Parent Property (Word)
+# CustomLabels.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **CustomLabels** object.
 

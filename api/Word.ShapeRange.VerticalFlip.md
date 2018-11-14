@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.VerticalFlip Property (Word)
+title: ShapeRange.VerticalFlip property (Word)
 keywords: vbawd10.chm162857085
 f1_keywords:
 - vbawd10.chm162857085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.VerticalFlip Property (Word)
+# ShapeRange.VerticalFlip property (Word)
 
  **True** if the specified shape is flipped around the vertical axis. Read-only **MsoTriState** .
 

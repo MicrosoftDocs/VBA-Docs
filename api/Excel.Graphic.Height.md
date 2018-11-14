@@ -1,5 +1,5 @@
 ---
-title: Graphic.Height Property (Excel)
+title: Graphic.Height property (Excel)
 keywords: vbaxl10.chm694081
 f1_keywords:
 - vbaxl10.chm694081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Height Property (Excel)
+# Graphic.Height property (Excel)
 
 Returns or sets a  **Single** value that represents the height, in points, of the object.
 

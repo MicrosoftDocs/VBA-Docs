@@ -25,7 +25,7 @@ Occurs when a table on a worksheet is updated.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required|OBJECT|The worksheet.|
 | _Target_|Required|TABLEOBJECT|The table.|

@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Group Method (Word)
+title: ShapeRange.Group method (Word)
 keywords: vbawd10.chm162856979
 f1_keywords:
 - vbawd10.chm162856979
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Group Method (Word)
+# ShapeRange.Group method (Word)
 
 Groups the shapes in the specified range, and returns the grouped shapes as a single  **Shape** object.
 

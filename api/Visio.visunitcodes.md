@@ -15,7 +15,7 @@ Unit codes used in conjunction with  **Cell.Result** and similar properties.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAcre**|36|Acre|
 | **visAngleUnits**|80|Angle units|

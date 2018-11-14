@@ -1,5 +1,5 @@
 ---
-title: Row.Previous Property (Word)
+title: Row.Previous property (Word)
 keywords: vbawd10.chm156237929
 f1_keywords:
 - vbawd10.chm156237929
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Previous Property (Word)
+# Row.Previous property (Word)
 
 Returns a  **Row** object that represents the table row that is previous to the specified row. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CubeField.AutoGroup Method (Excel)
+title: CubeField.AutoGroup method (Excel)
 keywords: vbaxl10.chm668105
 f1_keywords:
 - vbaxl10.chm668105
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# CubeField.AutoGroup Method (Excel)
+# CubeField.AutoGroup method (Excel)
 
 Automatically groups the cube fields in an OLAP cube, optionally in the specified orientation and/or at the specified position.
 

@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.SourceConnectionFile Property (Excel)
+title: OLEDBConnection.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm794091
 f1_keywords:
 - vbaxl10.chm794091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.SourceConnectionFile Property (Excel)
+# OLEDBConnection.SourceConnectionFile property (Excel)
 
 Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the connection. Read/write.
 

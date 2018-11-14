@@ -1,5 +1,5 @@
 ---
-title: PictureFormat.ColorType Property (Excel)
+title: PictureFormat.ColorType property (Excel)
 keywords: vbaxl10.chm113003
 f1_keywords:
 - vbaxl10.chm113003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureFormat.ColorType Property (Excel)
+# PictureFormat.ColorType property (Excel)
 
 Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write .
 

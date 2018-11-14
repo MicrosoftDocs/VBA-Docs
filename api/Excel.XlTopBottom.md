@@ -1,5 +1,5 @@
 ---
-title: XlTopBottom Enumeration (Excel)
+title: xlTopBottom enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTopBottom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTopBottom Enumeration (Excel)
+# xlTopBottom enumeration (Excel)
 
 Specifies the top 10 values from the top or bottom of a series of values.
 

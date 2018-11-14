@@ -1,5 +1,5 @@
 ---
-title: XlGradientFillType Enumeration (Excel)
+title: xlGradientFillType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlGradientFillType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlGradientFillType Enumeration (Excel)
+# xlGradientFillType enumeration (Excel)
 
 Specifies the type of  **gradient fill** .
 

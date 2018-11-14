@@ -36,7 +36,7 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visZoomNone**|0|Undefined zoom behavior; use the zoom behavior of the document or application|
 | **visZoomInPlaceContainer**|1|The container performs the zoom. This is the default.|

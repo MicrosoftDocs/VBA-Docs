@@ -1,5 +1,5 @@
 ---
-title: ListFormat.ApplyBulletDefault Method (Word)
+title: ListFormat.ApplyBulletDefault method (Word)
 keywords: vbawd10.chm163578068
 f1_keywords:
 - vbawd10.chm163578068
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.ApplyBulletDefault Method (Word)
+# ListFormat.ApplyBulletDefault method (Word)
 
 Adds bullets and formatting to the paragraphs in the range for the specified  **ListFormat** object.
 

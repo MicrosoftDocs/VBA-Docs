@@ -1,5 +1,5 @@
 ---
-title: Application.ActiveEncryptionSession Property (Excel)
+title: Application.ActiveEncryptionSession property (Excel)
 keywords: vbaxl10.chm133316
 f1_keywords:
 - vbaxl10.chm133316
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ActiveEncryptionSession Property (Excel)
+# Application.ActiveEncryptionSession property (Excel)
 
 Returns a  **Long** that represents the encryption session associated with the active document. Read-only.
 

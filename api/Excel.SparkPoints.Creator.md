@@ -1,5 +1,5 @@
 ---
-title: SparkPoints.Creator Property (Excel)
+title: SparkPoints.Creator property (Excel)
 keywords: vbaxl10.chm872074
 f1_keywords:
 - vbaxl10.chm872074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SparkPoints.Creator Property (Excel)
+# SparkPoints.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

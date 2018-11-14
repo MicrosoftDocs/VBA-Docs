@@ -22,7 +22,7 @@ Branch to one of several specified lines, depending on the value of an [expressi
 The **On...GoSub** and **On...GoTo** statement syntax has these parts.
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|Required. Any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that evaluates to a whole number between 0 and 255, inclusive. If _expression_ is any number other than a whole number, it is rounded before it is evaluated.|
 | _destinationlist_|Required. List of [line numbers](../../Glossary/vbe-glossary.md#line-number) or [line labels](../../Glossary/vbe-glossary.md#line-label) separated by commas.|

@@ -1,5 +1,5 @@
 ---
-title: Revision.Accept Method (Word)
+title: Revision.Accept method (Word)
 keywords: vbawd10.chm159449189
 f1_keywords:
 - vbawd10.chm159449189
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Revision.Accept Method (Word)
+# Revision.Accept method (Word)
 
 Accepts the specified tracked change, removes the revision mark, and incorporates the change into the document.
 

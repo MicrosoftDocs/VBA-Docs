@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Outline Property (Excel)
+title: Worksheet.Outline property (Excel)
 keywords: vbaxl10.chm175113
 f1_keywords:
 - vbaxl10.chm175113
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Outline Property (Excel)
+# Worksheet.Outline property (Excel)
 
 Returns an  **[Outline](Excel.Outline.md)** object that represents the outline for the specified worksheet. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Color Property (Word)
+title: ChartBorder.Color property (Word)
 keywords: vbawd10.chm61014016
 f1_keywords:
 - vbawd10.chm61014016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartBorder.Color Property (Word)
+# ChartBorder.Color property (Word)
 
 Returns or sets the primary color of the object. Read/write  **Variant** .
 

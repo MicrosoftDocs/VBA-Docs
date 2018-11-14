@@ -1,5 +1,5 @@
 ---
-title: Series.InvertColor Property (Word)
+title: Series.InvertColor property (Word)
 keywords: vbawd10.chm123734852
 f1_keywords:
 - vbawd10.chm123734852
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.InvertColor Property (Word)
+# Series.InvertColor property (Word)
 
 Returns or sets the fill color for negative data points in a series. Read/write.
 

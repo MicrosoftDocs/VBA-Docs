@@ -1,5 +1,5 @@
 ---
-title: Options.DisplayAlignmentGuides Property (Word)
+title: Options.DisplayAlignmentGuides property (Word)
 keywords: vbawd10.chm162988536
 f1_keywords:
 - vbawd10.chm162988536
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.DisplayAlignmentGuides Property (Word)
+# Options.DisplayAlignmentGuides property (Word)
 
 Returns or sets a  **Boolean** that specifies whether alignment guides are enabled in the user interface. Read-write.
 

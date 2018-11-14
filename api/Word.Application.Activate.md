@@ -1,5 +1,5 @@
 ---
-title: Application.Activate Method (Word)
+title: Application.Activate method (Word)
 keywords: vbawd10.chm158335361
 f1_keywords:
 - vbawd10.chm158335361
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Activate Method (Word)
+# Application.Activate method (Word)
 
 Activates the specified object.
 

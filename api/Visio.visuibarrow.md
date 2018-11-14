@@ -18,7 +18,7 @@ Values passed to and returned by the  **MenuSet.RowIndex** and **Toolbar.RowInde
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBarRowFirst**|0|First row.|
 | **visBarRowLast**|-1|Last row.|

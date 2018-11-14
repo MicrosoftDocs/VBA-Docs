@@ -1,5 +1,5 @@
 ---
-title: LineFormat.Transparency Property (Word)
+title: LineFormat.Transparency property (Word)
 keywords: vbawd10.chm164233327
 f1_keywords:
 - vbawd10.chm164233327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.Transparency Property (Word)
+# LineFormat.Transparency property (Word)
 
 Returns or sets the degree of transparency of line. Read/write  **Single** .
 

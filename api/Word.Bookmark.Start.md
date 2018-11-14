@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Start Property (Word)
+title: Bookmark.Start property (Word)
 keywords: vbawd10.chm157810691
 f1_keywords:
 - vbawd10.chm157810691
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Start Property (Word)
+# Bookmark.Start property (Word)
 
 Returns or sets the starting character position of a bookmark. Read/write  **Long** .
 

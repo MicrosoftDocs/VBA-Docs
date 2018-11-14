@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Top Property (Excel)
+title: LegendKey.Top property (Excel)
 keywords: vbaxl10.chm590091
 f1_keywords:
 - vbaxl10.chm590091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Top Property (Excel)
+# LegendKey.Top property (Excel)
 
 Returns a  **Double** value that represents the distance, in points, from the top edge of the object to the top of row 1 (on a worksheet) or the top of the chart area (on a chart).
 

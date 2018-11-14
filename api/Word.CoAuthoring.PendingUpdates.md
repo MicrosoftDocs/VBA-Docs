@@ -1,5 +1,5 @@
 ---
-title: CoAuthoring.PendingUpdates Property (Word)
+title: CoAuthoring.PendingUpdates property (Word)
 keywords: vbawd10.chm254869507
 f1_keywords:
 - vbawd10.chm254869507
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthoring.PendingUpdates Property (Word)
+# CoAuthoring.PendingUpdates property (Word)
 
 Returns  **true** if the document has pending updates that have not been accepted. Read-only.
 

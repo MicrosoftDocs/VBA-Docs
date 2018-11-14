@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.ThemeName Property (Word)
+title: EmailOptions.ThemeName property (Word)
 keywords: vbawd10.chm165347442
 f1_keywords:
 - vbawd10.chm165347442
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.ThemeName Property (Word)
+# EmailOptions.ThemeName property (Word)
 
-Returns or sets the name of the theme plus any theme formatting options to use for new e-mail messages. Read/write  **String** .
+Returns or sets the name of the theme plus any theme formatting options to use for new email messages. Read/write  **String** .
 
 
 ## Syntax
@@ -27,12 +27,12 @@ Returns or sets the name of the theme plus any theme formatting options to use f
 
 For an explanation of the value returned by this property, see the Name argument of the  **[ApplyTheme](Word.Document.ApplyTheme.md)** method. The value returned by this property may not correspond to the theme's display name as it appears in the Theme dialog box. To return a theme's display name, use the **[ActiveThemeDisplayName](Word.Document.ActiveThemeDisplayName.md)** property.
 
-You can also use the  **[GetDefaultTheme](Word.Application.GetDefaultTheme.md)** and **[SetDefaultTheme](Word.Application.SetDefaultTheme.md)** methods to return and set the default theme for new e-mail messages.
+You can also use the  **[GetDefaultTheme](Word.Application.GetDefaultTheme.md)** and **[SetDefaultTheme](Word.Application.SetDefaultTheme.md)** methods to return and set the default theme for new email messages.
 
 
 ## Example
 
-This example sets Microsoft Word to use the Blueprint theme with Vivid Colors for all new e-mail messages.
+This example sets Microsoft Word to use the Blueprint theme with Vivid Colors for all new email messages.
 
 
 ```vb

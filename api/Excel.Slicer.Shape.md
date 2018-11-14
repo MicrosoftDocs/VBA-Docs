@@ -1,5 +1,5 @@
 ---
-title: Slicer.Shape Property (Excel)
+title: Slicer.Shape property (Excel)
 keywords: vbaxl10.chm905087
 f1_keywords:
 - vbaxl10.chm905087
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicer.Shape Property (Excel)
+# Slicer.Shape property (Excel)
 
 Returns the  **[Shape](Excel.Shape.md)** object associated with the specified slicer. Read-only.
 

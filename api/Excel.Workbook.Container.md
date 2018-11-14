@@ -1,5 +1,5 @@
 ---
-title: Workbook.Container Property (Excel)
+title: Workbook.Container property (Excel)
 keywords: vbaxl10.chm199092
 f1_keywords:
 - vbaxl10.chm199092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Container Property (Excel)
+# Workbook.Container property (Excel)
 
 Returns the object that represents the container application for the specified OLE object. Read-only  **Object** .
 

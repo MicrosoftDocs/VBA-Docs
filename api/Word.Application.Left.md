@@ -1,5 +1,5 @@
 ---
-title: Application.Left Property (Word)
+title: Application.Left property (Word)
 keywords: vbawd10.chm158335063
 f1_keywords:
 - vbawd10.chm158335063
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Left Property (Word)
+# Application.Left property (Word)
 
 Returns or sets a  **Long** that represents the horizontal position of the active document, measured in points. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: LetterContent.MailingInstructions Property (Word)
+title: LetterContent.MailingInstructions property (Word)
 keywords: vbawd10.chm161546354
 f1_keywords:
 - vbawd10.chm161546354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent.MailingInstructions Property (Word)
+# LetterContent.MailingInstructions property (Word)
 
 Returns or sets the mailing instruction text for a letter created by the Letter Wizard (for example, "Certified Mail"). Read/write  **String** .
 

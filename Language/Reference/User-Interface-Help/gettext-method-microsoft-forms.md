@@ -21,7 +21,7 @@ _String_ = _object_. **GetText(** [ _format_ ] **)**
 The  **GetText** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _format_|Optional. A string or integer specifying the format of the data to retrieve from the  **DataObject**.|

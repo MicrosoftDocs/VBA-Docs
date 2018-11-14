@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.HypGeomDist Method (Excel)
+title: WorksheetFunction.HypGeomDist method (Excel)
 keywords: vbaxl10.chm137193
 f1_keywords:
 - vbaxl10.chm137193
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.HypGeomDist Method (Excel)
+# WorksheetFunction.HypGeomDist method (Excel)
 
 Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. Use HYPGEOMDIST for problems with a finite population, where each observation is either a success or a failure, and where each subset of a given size is chosen with equal likelihood.
 

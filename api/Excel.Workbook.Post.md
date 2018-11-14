@@ -1,5 +1,5 @@
 ---
-title: Workbook.Post Method (Excel)
+title: Workbook.Post method (Excel)
 keywords: vbaxl10.chm199125
 f1_keywords:
 - vbaxl10.chm199125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Post Method (Excel)
+# Workbook.Post method (Excel)
 
 Posts the specified workbook to a public folder. This method works only with a Microsoft Exchange client connected to a Microsoft Exchange server.
 

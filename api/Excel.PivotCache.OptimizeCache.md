@@ -1,5 +1,5 @@
 ---
-title: PivotCache.OptimizeCache Property (Excel)
+title: PivotCache.OptimizeCache property (Excel)
 keywords: vbaxl10.chm227078
 f1_keywords:
 - vbaxl10.chm227078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.OptimizeCache Property (Excel)
+# PivotCache.OptimizeCache property (Excel)
 
  **True** if the PivotTable cache is optimized when it's constructed. The default value is **False** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.EnableFieldDialog Property (Excel)
+title: PivotTable.EnableFieldDialog property (Excel)
 keywords: vbaxl10.chm235107
 f1_keywords:
 - vbaxl10.chm235107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.EnableFieldDialog Property (Excel)
+# PivotTable.EnableFieldDialog property (Excel)
 
  **True** if the **PivotTable Field** dialog box is available when the user double-clicks the PivotTable field. The default value is **True** . Read/write **Boolean** .
 

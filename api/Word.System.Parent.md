@@ -1,5 +1,5 @@
 ---
-title: System.Parent Property (Word)
+title: System.Parent property (Word)
 keywords: vbawd10.chm154469354
 f1_keywords:
 - vbawd10.chm154469354
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.Parent Property (Word)
+# System.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **System** object.
 

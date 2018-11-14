@@ -1,5 +1,5 @@
 ---
-title: WdMailMergeActiveRecord Enumeration (Word)
+title: WdMailMergeActiveRecord enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdMailMergeActiveRecord
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdMailMergeActiveRecord Enumeration (Word)
+# WdMailMergeActiveRecord enumeration (Word)
 
 Specifies the active record in a mail merge result set.
 

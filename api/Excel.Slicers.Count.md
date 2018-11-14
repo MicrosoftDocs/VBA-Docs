@@ -1,5 +1,5 @@
 ---
-title: Slicers.Count Property (Excel)
+title: Slicers.Count property (Excel)
 keywords: vbaxl10.chm903073
 f1_keywords:
 - vbaxl10.chm903073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Slicers.Count Property (Excel)
+# Slicers.Count property (Excel)
 
 Returns the number of objects in the collection.
 

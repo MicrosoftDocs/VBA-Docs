@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.ChapterStyleLevel Property (Word)
+title: CaptionLabel.ChapterStyleLevel property (Word)
 keywords: vbawd10.chm158924805
 f1_keywords:
 - vbawd10.chm158924805
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.ChapterStyleLevel Property (Word)
+# CaptionLabel.ChapterStyleLevel property (Word)
 
 Returns or sets the heading style that marks a new chapter when chapter numbers are included with the specified caption label. Read/write  **Long** .
 

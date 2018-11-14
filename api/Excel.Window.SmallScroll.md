@@ -1,5 +1,5 @@
 ---
-title: Window.SmallScroll Method (Excel)
+title: Window.SmallScroll method (Excel)
 keywords: vbaxl10.chm356110
 f1_keywords:
 - vbaxl10.chm356110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.SmallScroll Method (Excel)
+# Window.SmallScroll method (Excel)
 
 Scrolls the contents of the window by rows or columns.
 

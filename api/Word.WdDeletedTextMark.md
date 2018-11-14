@@ -1,5 +1,5 @@
 ---
-title: WdDeletedTextMark Enumeration (Word)
+title: WdDeletedTextMark enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDeletedTextMark
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDeletedTextMark Enumeration (Word)
+# WdDeletedTextMark enumeration (Word)
 
 Specifies the formatting of text that is deleted while change tracking is enabled.
 

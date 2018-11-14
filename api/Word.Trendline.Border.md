@@ -1,5 +1,5 @@
 ---
-title: Trendline.Border Property (Word)
+title: Trendline.Border property (Word)
 keywords: vbawd10.chm26345600
 f1_keywords:
 - vbawd10.chm26345600
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Border Property (Word)
+# Trendline.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightFooterPicture Property (Excel)
+title: PageSetup.RightFooterPicture property (Excel)
 keywords: vbaxl10.chm473111
 f1_keywords:
 - vbaxl10.chm473111
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightFooterPicture Property (Excel)
+# PageSetup.RightFooterPicture property (Excel)
 
 Returns a  **[Graphic](Excel.Graphic.md)** object that represents the picture for the right section of the footer. Used to set attributes of the picture.
 

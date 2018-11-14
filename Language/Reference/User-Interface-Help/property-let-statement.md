@@ -24,7 +24,7 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 The  **Property Let** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Indicates that the  **Property** **Let** procedure is accessible to all other procedures in all[modules](../../Glossary/vbe-glossary.md#module). If used in a module that contains an  **Option Private** statement, the procedure is not available outside the [project](../../Glossary/vbe-glossary.md#project).|
 |**Private**|Optional. Indicates that the  **Property** **Let** procedure is accessible only to other procedures in the module where it is declared.|
@@ -39,7 +39,7 @@ The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ] [ **=**_defaultvalue_ ]
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Optional**|Optional. Indicates that an argument is not required. If used, all subsequent arguments in  _arglist_ must also be optional and declared using the **Optional** keyword. Note that it is not possible for the right side of a **Property Let** expression to be **Optional**.|
 |**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md#by-value).|

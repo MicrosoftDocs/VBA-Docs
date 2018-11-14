@@ -1,5 +1,5 @@
 ---
-title: SheetViews.Count Property (Excel)
+title: SheetViews.Count property (Excel)
 keywords: vbaxl10.chm792073
 f1_keywords:
 - vbaxl10.chm792073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SheetViews.Count Property (Excel)
+# SheetViews.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

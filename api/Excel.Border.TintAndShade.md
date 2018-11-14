@@ -1,5 +1,5 @@
 ---
-title: Border.TintAndShade Property (Excel)
+title: Border.TintAndShade property (Excel)
 keywords: vbaxl10.chm547078
 f1_keywords:
 - vbaxl10.chm547078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Border.TintAndShade Property (Excel)
+# Border.TintAndShade property (Excel)
 
 Returns or sets a  **Single** that lightens or darkens a color.
 

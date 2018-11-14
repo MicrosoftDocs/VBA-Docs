@@ -1,5 +1,5 @@
 ---
-title: Document.Endnotes Property (Word)
+title: Document.Endnotes property (Word)
 keywords: vbawd10.chm158007304
 f1_keywords:
 - vbawd10.chm158007304
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Endnotes Property (Word)
+# Document.Endnotes property (Word)
 
 Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes in a document. Read-only.
 

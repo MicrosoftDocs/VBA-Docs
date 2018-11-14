@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.BegChar Property (Word)
+title: OMathDelim.BegChar property (Word)
 keywords: vbawd10.chm145096808
 f1_keywords:
 - vbawd10.chm145096808
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.BegChar Property (Word)
+# OMathDelim.BegChar property (Word)
 
 Returns or sets an  **Integer** that represents the beginning delimiter character in a delimiter object. Read/write.
 

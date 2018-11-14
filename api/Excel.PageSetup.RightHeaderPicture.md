@@ -1,5 +1,5 @@
 ---
-title: PageSetup.RightHeaderPicture Property (Excel)
+title: PageSetup.RightHeaderPicture property (Excel)
 keywords: vbaxl10.chm473110
 f1_keywords:
 - vbaxl10.chm473110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.RightHeaderPicture Property (Excel)
+# PageSetup.RightHeaderPicture property (Excel)
 
 Specifies the graphic image that should be displayed in the right header. Read-only.
 

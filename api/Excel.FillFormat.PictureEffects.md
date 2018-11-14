@@ -1,5 +1,5 @@
 ---
-title: FillFormat.PictureEffects Property (Excel)
+title: FillFormat.PictureEffects property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.PictureEffects
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.PictureEffects Property (Excel)
+# FillFormat.PictureEffects property (Excel)
 
 Returns an object that represents the picture or texture fill for the specified fill format. Read-only
 

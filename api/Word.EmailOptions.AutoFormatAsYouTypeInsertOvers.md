@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.AutoFormatAsYouTypeInsertOvers Property (Word)
+title: EmailOptions.AutoFormatAsYouTypeInsertOvers property (Word)
 keywords: vbawd10.chm165347633
 f1_keywords:
 - vbawd10.chm165347633
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.AutoFormatAsYouTypeInsertOvers Property (Word)
+# EmailOptions.AutoFormatAsYouTypeInsertOvers property (Word)
 
  **True** for Microsoft Word to automatically insert "以上" when the user enters "記" or "案". Read/write **Boolean** .
 

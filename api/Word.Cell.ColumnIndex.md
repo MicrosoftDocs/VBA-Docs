@@ -1,5 +1,5 @@
 ---
-title: Cell.ColumnIndex Property (Word)
+title: Cell.ColumnIndex property (Word)
 keywords: vbawd10.chm156106757
 f1_keywords:
 - vbawd10.chm156106757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.ColumnIndex Property (Word)
+# Cell.ColumnIndex property (Word)
 
 Returns the number of the table column that contains the specified cell. Read-only  **Long** .
 

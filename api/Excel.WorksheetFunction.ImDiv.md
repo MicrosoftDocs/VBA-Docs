@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImDiv Method (Excel)
+title: WorksheetFunction.ImDiv method (Excel)
 keywords: vbaxl10.chm137274
 f1_keywords:
 - vbaxl10.chm137274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImDiv Method (Excel)
+# WorksheetFunction.ImDiv method (Excel)
 
 Returns the quotient of two complex numbers in x + yi or x + yj text format.
 

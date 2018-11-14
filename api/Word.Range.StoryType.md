@@ -1,5 +1,5 @@
 ---
-title: Range.StoryType Property (Word)
+title: Range.StoryType property (Word)
 keywords: vbawd10.chm157155335
 f1_keywords:
 - vbawd10.chm157155335
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.StoryType Property (Word)
+# Range.StoryType property (Word)
 
 Returns the story type for the specified range, selection, or bookmark. Read-only  **[WdStoryType](Word.WdStoryType.md)** .
 

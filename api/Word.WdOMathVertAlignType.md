@@ -1,5 +1,5 @@
 ---
-title: WdOMathVertAlignType Enumeration (Word)
+title: WdOMathVertAlignType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOMathVertAlignType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOMathVertAlignType Enumeration (Word)
+# WdOMathVertAlignType enumeration (Word)
 
 Specifies the vertical alignment of equations within the shape canvas or the line, for inline equations.
 

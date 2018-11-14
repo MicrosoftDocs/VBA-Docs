@@ -1,5 +1,5 @@
 ---
-title: DataLabel.FormulaLocal Property (Excel)
+title: DataLabel.FormulaLocal property (Excel)
 keywords: vbaxl10.chm582110
 f1_keywords:
 - vbaxl10.chm582110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.FormulaLocal Property (Excel)
+# DataLabel.FormulaLocal property (Excel)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in the language of the user. Read/write.
 

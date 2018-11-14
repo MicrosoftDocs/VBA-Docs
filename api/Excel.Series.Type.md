@@ -1,5 +1,5 @@
 ---
-title: Series.Type Property (Excel)
+title: Series.Type property (Excel)
 keywords: vbaxl10.chm578108
 f1_keywords:
 - vbaxl10.chm578108
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Type Property (Excel)
+# Series.Type property (Excel)
 
 Returns or sets a Long value that represents the series type.
 

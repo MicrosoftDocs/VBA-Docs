@@ -1,5 +1,5 @@
 ---
-title: OLEObject.ShapeRange Property (Excel)
+title: OLEObject.ShapeRange property (Excel)
 keywords: vbaxl10.chm415097
 f1_keywords:
 - vbaxl10.chm415097
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.ShapeRange Property (Excel)
+# OLEObject.ShapeRange property (Excel)
 
 Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the specified object or objects. Read-only.
 

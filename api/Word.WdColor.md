@@ -1,5 +1,5 @@
 ---
-title: WdColor Enumeration (Word)
+title: WdColor enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdColor Enumeration (Word)
+# WdColor enumeration (Word)
 
 Specifies the 24-bit color to apply.
 

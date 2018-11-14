@@ -1,5 +1,5 @@
 ---
-title: Chart.HeightPercent Property (Word)
+title: Chart.HeightPercent property (Word)
 keywords: vbawd10.chm79364106
 f1_keywords:
 - vbawd10.chm79364106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.HeightPercent Property (Word)
+# Chart.HeightPercent property (Word)
 
 Returns or sets the height of a 3-D chart as a percentage of the chart width (from 5 through 500 percent). Read/write  **Long** .
 

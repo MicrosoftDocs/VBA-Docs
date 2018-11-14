@@ -1,5 +1,5 @@
 ---
-title: Selection.FormFields Property (Word)
+title: Selection.FormFields property (Word)
 keywords: vbawd10.chm158662721
 f1_keywords:
 - vbawd10.chm158662721
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.FormFields Property (Word)
+# Selection.FormFields property (Word)
 
 Returns a  **[FormFields](Word.formfields.md)** collection that represents all the form fields in the selection. Read-only.
 

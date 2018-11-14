@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.Count Property (Word)
+title: AutoCorrectEntries.Count property (Word)
 keywords: vbawd10.chm155713537
 f1_keywords:
 - vbawd10.chm155713537
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.Count Property (Word)
+# AutoCorrectEntries.Count property (Word)
 
 Returns the number of items in the  **AutoCorrectEntries** collection. Read-only **Long** .
 

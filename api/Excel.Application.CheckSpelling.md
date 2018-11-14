@@ -1,5 +1,5 @@
 ---
-title: Application.CheckSpelling Method (Excel)
+title: Application.CheckSpelling method (Excel)
 keywords: vbaxl10.chm133091
 f1_keywords:
 - vbaxl10.chm133091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CheckSpelling Method (Excel)
+# Application.CheckSpelling method (Excel)
 
 Checks the spelling of a single word.
 

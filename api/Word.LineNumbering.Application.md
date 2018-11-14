@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.Application Property (Word)
+title: LineNumbering.Application property (Word)
 keywords: vbawd10.chm158467048
 f1_keywords:
 - vbawd10.chm158467048
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.Application Property (Word)
+# LineNumbering.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

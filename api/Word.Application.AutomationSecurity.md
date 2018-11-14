@@ -1,5 +1,5 @@
 ---
-title: Application.AutomationSecurity Property (Word)
+title: Application.AutomationSecurity property (Word)
 keywords: vbawd10.chm158335425
 f1_keywords:
 - vbawd10.chm158335425
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.AutomationSecurity Property (Word)
+# Application.AutomationSecurity property (Word)
 
 Returns or sets an  **MsoAutomationSecurity** constant that represents the security setting Microsoft Word uses when programmatically opening files. .
 

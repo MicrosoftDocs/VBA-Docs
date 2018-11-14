@@ -1,5 +1,5 @@
 ---
-title: Font Object (Word)
+title: Font object (Word)
 keywords: vbawd10.chm2386
 f1_keywords:
 - vbawd10.chm2386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font Object (Word)
+# Font object (Word)
 
 Contains font attributes (such as font name, font size and color) for an object.
 

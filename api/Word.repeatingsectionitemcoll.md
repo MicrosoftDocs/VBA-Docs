@@ -1,5 +1,5 @@
 ---
-title: RepeatingSectionItemColl Object (Word)
+title: RepeatingSectionItemColl object (Word)
 keywords: vbawd10.chm2611
 f1_keywords:
 - vbawd10.chm2611
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RepeatingSectionItemColl Object (Word)
+# RepeatingSectionItemColl object (Word)
 
 Represents the collection of [RepeatingSectionItem](Word.repeatingsectionitem.md) objects.
 

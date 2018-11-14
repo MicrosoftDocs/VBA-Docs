@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Height Property (Excel)
+title: ProtectedViewWindow.Height property (Excel)
 keywords: vbaxl10.chm914076
 f1_keywords:
 - vbaxl10.chm914076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Height Property (Excel)
+# ProtectedViewWindow.Height property (Excel)
 
 Returns or sets a value that represents the height, in points, of the  **Protected View** window. Read/write
 

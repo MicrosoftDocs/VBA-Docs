@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Type Property (Word)
+title: ReflectionFormat.Type property (Word)
 keywords: vbawd10.chm67043329
 f1_keywords:
 - vbawd10.chm67043329
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Type Property (Word)
+# ReflectionFormat.Type property (Word)
 
 Returns or sets an  **MsoLightRigType** constant that represents the type and direction of the lighting for a shape reflection. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Row.Parent Property (Word)
+title: Row.Parent property (Word)
 keywords: vbawd10.chm156238826
 f1_keywords:
 - vbawd10.chm156238826
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Parent Property (Word)
+# Row.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Row** object.
 

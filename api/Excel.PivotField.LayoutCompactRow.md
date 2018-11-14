@@ -1,5 +1,5 @@
 ---
-title: PivotField.LayoutCompactRow Property (Excel)
+title: PivotField.LayoutCompactRow property (Excel)
 keywords: vbaxl10.chm240144
 f1_keywords:
 - vbaxl10.chm240144
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.LayoutCompactRow Property (Excel)
+# PivotField.LayoutCompactRow property (Excel)
 
 Specifies whether or not a PivotField is compacted (items of multiple PivotFields are displayed in a single column) when rows are selected. Read/write  **Boolean** .
 

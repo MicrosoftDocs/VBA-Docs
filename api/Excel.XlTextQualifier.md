@@ -1,5 +1,5 @@
 ---
-title: XlTextQualifier Enumeration (Excel)
+title: xlTextQualifier enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTextQualifier
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTextQualifier Enumeration (Excel)
+# xlTextQualifier enumeration (Excel)
 
 Specifies the delimiter to use to specify text.
 

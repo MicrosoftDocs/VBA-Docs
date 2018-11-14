@@ -1,5 +1,5 @@
 ---
-title: TimelineState.FilterValue2 Property (Excel)
+title: TimelineState.FilterValue2 property (Excel)
 keywords: vbaxl10.chm950077
 f1_keywords:
 - vbaxl10.chm950077
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TimelineState.FilterValue2 Property (Excel)
+# TimelineState.FilterValue2 property (Excel)
 
 Returns the 2nd value associated with the date filter (semantics vary by filter type).  **Variant** Read-only
 

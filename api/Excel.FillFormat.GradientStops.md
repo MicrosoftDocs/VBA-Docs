@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientStops Property (Excel)
+title: FillFormat.GradientStops property (Excel)
 ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientStops
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientStops Property (Excel)
+# FillFormat.GradientStops property (Excel)
 
 Returns the end point for the gradient fill. Read-only.
 

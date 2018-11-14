@@ -1,5 +1,5 @@
 ---
-title: Shape.ThreeD Property (Excel)
+title: Shape.ThreeD property (Excel)
 keywords: vbaxl10.chm636109
 f1_keywords:
 - vbaxl10.chm636109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ThreeD Property (Excel)
+# Shape.ThreeD property (Excel)
 
 Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D - effect formatting properties for the specified shape. Read-only.
 

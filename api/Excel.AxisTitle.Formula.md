@@ -1,5 +1,5 @@
 ---
-title: AxisTitle.Formula Property (Excel)
+title: AxisTitle.Formula property (Excel)
 keywords: vbaxl10.chm565094
 f1_keywords:
 - vbaxl10.chm565094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AxisTitle.Formula Property (Excel)
+# AxisTitle.Formula property (Excel)
 
 Gets or sets a  **String** value that represents the formula of the object using A1-style notation, in English. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Revisions Property (Word)
+title: Document.Revisions property (Word)
 keywords: vbawd10.chm158007326
 f1_keywords:
 - vbawd10.chm158007326
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Revisions Property (Word)
+# Document.Revisions property (Word)
 
 Returns a  **Revisions** collection that represents the tracked changes in the document or range. Read-only.
 

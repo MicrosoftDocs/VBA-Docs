@@ -1,5 +1,5 @@
 ---
-title: ListObject.ShowTableStyleColumnStripes Property (Excel)
+title: ListObject.ShowTableStyleColumnStripes property (Excel)
 keywords: vbaxl10.chm734104
 f1_keywords:
 - vbaxl10.chm734104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObject.ShowTableStyleColumnStripes Property (Excel)
+# ListObject.ShowTableStyleColumnStripes property (Excel)
 
 Returns or sets if the Column Stripes table style is used for the specified  **ListObject** object. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.RightAngleAxes Property (Word)
+title: Chart.RightAngleAxes property (Word)
 keywords: vbawd10.chm79364110
 f1_keywords:
 - vbawd10.chm79364110
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.RightAngleAxes Property (Word)
+# Chart.RightAngleAxes property (Word)
 
  **True** if the chart axes are at right angles, independent of chart rotation or elevation. Read/write **Boolean** .
 

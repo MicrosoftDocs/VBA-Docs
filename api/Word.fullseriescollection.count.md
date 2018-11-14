@@ -1,5 +1,5 @@
 ---
-title: FullSeriesCollection.Count Property (Word)
+title: FullSeriesCollection.Count property (Word)
 keywords: vbawd10.chm73990262
 f1_keywords:
 - vbawd10.chm73990262
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FullSeriesCollection.Count Property (Word)
+# FullSeriesCollection.Count property (Word)
 
 Returns a  **Long** that represents the number of full series in the collection. Read-only.
 

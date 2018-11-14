@@ -1,5 +1,5 @@
 ---
-title: Range.TextToColumns Method (Excel)
+title: Range.TextToColumns method (Excel)
 keywords: vbaxl10.chm144210
 f1_keywords:
 - vbaxl10.chm144210
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.TextToColumns Method (Excel)
+# Range.TextToColumns method (Excel)
 
 Parses a column of cells that contain text into several columns.
 
@@ -30,8 +30,8 @@ Parses a column of cells that contain text into several columns.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Destination_|Optional| **Variant**|A  **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
-| _DataType_|Optional| **[XlTextParsingType](Excel.XlTextParsingType.md)**|The format of the text to be split into columns.|
-| _TextQualifier_|Optional| **[XlTextQualifier](Excel.XlTextQualifier.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
+| _DataType_|Optional| **[xlTextParsingType](Excel.XlTextParsingType.md)**|The format of the text to be split into columns.|
+| _TextQualifier_|Optional| **[xlTextQualifier](Excel.XlTextQualifier.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
 | _ConsecutiveDelimiter_|Optional| **Variant**| **True** to have Microsoft Excel consider consecutive delimiters as one delimiter. The default value is **False** .|
 | _Tab_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the tab character be a delimiter. The default value is **False** .|
 | _Semicolon_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the semicolon be a delimiter. The default value is **False** .|
@@ -64,7 +64,7 @@ The following table shows the results of importing text into Excel for various i
 |Period|Comma|Period|Space|123 123.45|123,123.45 (numeric)|
 
 
-| **XlColumnDataType** can be one of these **XlColumnDataType** constants.|
+| **xlColumnDataType** can be one of these **xlColumnDataType** constants.|
 | **xlGeneralFormat** . General|
 | **xlTextFormat** . Text|
 | **xlMDYFormat** . MDY Date|

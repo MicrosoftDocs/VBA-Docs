@@ -1,5 +1,5 @@
 ---
-title: Selection.SelectCurrentFont Method (Word)
+title: Selection.SelectCurrentFont method (Word)
 keywords: vbawd10.chm158663173
 f1_keywords:
 - vbawd10.chm158663173
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.SelectCurrentFont Method (Word)
+# Selection.SelectCurrentFont method (Word)
 
 Extends the selection forward until text in a different font or font size is encountered.
 

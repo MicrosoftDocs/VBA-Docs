@@ -1,5 +1,5 @@
 ---
-title: Options.OptimizeForWord97byDefault Property (Word)
+title: Options.OptimizeForWord97byDefault property (Word)
 keywords: vbawd10.chm162988455
 f1_keywords:
 - vbawd10.chm162988455
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.OptimizeForWord97byDefault Property (Word)
+# Options.OptimizeForWord97byDefault property (Word)
 
  **True** if Microsoft Word optimizes all new documents for viewing in Word 97 by disabling any incompatible formatting. Read/write **Boolean** .
 

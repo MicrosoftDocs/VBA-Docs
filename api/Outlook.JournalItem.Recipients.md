@@ -25,7 +25,7 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 ## Remarks
 
-A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP e-mail address.
+A recipient can be specified by a string representing the recipient's display name, alias, or full SMTP email address.
 
 
 ## See also

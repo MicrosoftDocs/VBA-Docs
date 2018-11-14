@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Add Method (Word)
+title: CustomProperties.Add method (Word)
 keywords: vbawd10.chm232849413
 f1_keywords:
 - vbawd10.chm232849413
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Add Method (Word)
+# CustomProperties.Add method (Word)
 
 Returns a  **CustomProperty** object that represents s custom property added to a smart tag.
 

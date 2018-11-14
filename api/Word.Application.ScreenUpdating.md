@@ -1,5 +1,5 @@
 ---
-title: Application.ScreenUpdating Property (Word)
+title: Application.ScreenUpdating property (Word)
 keywords: vbawd10.chm158335002
 f1_keywords:
 - vbawd10.chm158335002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ScreenUpdating Property (Word)
+# Application.ScreenUpdating property (Word)
 
  **True** if screen updating is turned on. Read/write **Boolean** .
 

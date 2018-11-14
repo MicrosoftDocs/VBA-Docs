@@ -1,5 +1,5 @@
 ---
-title: ModelFormatCurrency Object (Excel)
+title: ModelFormatCurrency object (Excel)
 keywords: vbaxl10.chm993072
 f1_keywords:
 - vbaxl10.chm993072
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelFormatCurrency Object (Excel)
+# ModelFormatCurrency object (Excel)
 
 Represents the format to be used for a model measure in the data model.
 

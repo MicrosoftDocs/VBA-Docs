@@ -1,5 +1,5 @@
 ---
-title: Workbook.SetPasswordEncryptionOptions Method (Excel)
+title: Workbook.SetPasswordEncryptionOptions method (Excel)
 keywords: vbaxl10.chm199214
 f1_keywords:
 - vbaxl10.chm199214
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.SetPasswordEncryptionOptions Method (Excel)
+# Workbook.SetPasswordEncryptionOptions method (Excel)
 
 Sets the options for encrypting workbooks using passwords.
 

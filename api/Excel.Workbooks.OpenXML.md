@@ -1,5 +1,5 @@
 ---
-title: Workbooks.OpenXML Method (Excel)
+title: Workbooks.OpenXML method (Excel)
 keywords: vbaxl10.chm203088
 f1_keywords:
 - vbaxl10.chm203088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbooks.OpenXML Method (Excel)
+# Workbooks.OpenXML method (Excel)
 
 Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 
@@ -31,7 +31,7 @@ Opens an XML data file. Returns a  **[Workbook](Excel.Workbook.md)** object.
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The name of the file to open.|
 | _Stylesheets_|Optional| **Variant**|Either a single value or an array of values that specify which XSL Transformation (XSLT) stylesheet processing instructions to apply.|
-| _LoadOption_|Optional| **Variant**|Specifies how Excel opens the XML data file. Can be one of the  **[XlXmlLoadOption](Excel.XlXmlLoadOption.md)** constants.|
+| _LoadOption_|Optional| **Variant**|Specifies how Excel opens the XML data file. Can be one of the  **[xlXmlLoadOption](Excel.XlXmlLoadOption.md)** constants.|
 
 ## Return value
 
@@ -44,7 +44,7 @@ Workbook
 
 
 
-| **XlXmlLoadOption** can be one of these **XlXmlLoadOption** constants.|
+| **xlXmlLoadOption** can be one of these **xlXmlLoadOption** constants.|
 | **xlXmlLoadImportToList** Automatically creates an XML List and imports data into the list.|
 | **xlXmlLoadMapXml** Loads the XML file into the **XML Source** task pane.|
 | **xlXmlLoadOpenXml** Open XML files in the same way that Excel 2002 opens XML files (for backwards compatibility only).|

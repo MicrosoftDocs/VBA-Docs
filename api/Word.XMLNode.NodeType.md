@@ -1,5 +1,5 @@
 ---
-title: XMLNode.NodeType Property (Word)
+title: XMLNode.NodeType property (Word)
 keywords: vbawd10.chm37748748
 f1_keywords:
 - vbawd10.chm37748748
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.NodeType Property (Word)
+# XMLNode.NodeType property (Word)
 
 Returns a  **[WdXMLNodeType](./overview/Word.md)** constant that represents the type of node.
 

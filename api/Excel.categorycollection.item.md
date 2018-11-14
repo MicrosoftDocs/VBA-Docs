@@ -1,5 +1,5 @@
 ---
-title: CategoryCollection.Item Method (Excel)
+title: CategoryCollection.Item method (Excel)
 keywords: vbaxl10.chm948075
 f1_keywords:
 - vbaxl10.chm948075
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CategoryCollection.Item Method (Excel)
+# CategoryCollection.Item method (Excel)
 
 Returns a single object from the  **CategoryCollection** object.
 
@@ -25,13 +25,13 @@ Returns a single object from the  **CategoryCollection** object.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
 ## Return value
 
-[ChartCategory Object (Excel)](Excel.chartcategory.md)
+[ChartCategory object (Excel)](Excel.chartcategory.md)
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Shape.LinkFormat Property (Excel)
+title: Shape.LinkFormat property (Excel)
 keywords: vbaxl10.chm636129
 f1_keywords:
 - vbaxl10.chm636129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.LinkFormat Property (Excel)
+# Shape.LinkFormat property (Excel)
 
 Returns a  **[LinkFormat](Excel.LinkFormat.md)** object that contains linked OLE object properties. Read-only.
 

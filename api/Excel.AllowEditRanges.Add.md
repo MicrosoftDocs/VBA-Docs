@@ -1,5 +1,5 @@
 ---
-title: AllowEditRanges.Add Method (Excel)
+title: AllowEditRanges.Add method (Excel)
 keywords: vbaxl10.chm724075
 f1_keywords:
 - vbaxl10.chm724075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRanges.Add Method (Excel)
+# AllowEditRanges.Add method (Excel)
 
 Adds a range that can be edited on a protected worksheet. Returns a  **[AllowEditRange](Excel.AllowEditRange.md)** object.
 

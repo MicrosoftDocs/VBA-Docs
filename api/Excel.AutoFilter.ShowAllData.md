@@ -1,5 +1,5 @@
 ---
-title: AutoFilter.ShowAllData Method (Excel)
+title: AutoFilter.ShowAllData method (Excel)
 keywords: vbaxl10.chm538078
 f1_keywords:
 - vbaxl10.chm538078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoFilter.ShowAllData Method (Excel)
+# AutoFilter.ShowAllData method (Excel)
 
 Displays all the data returned by the  **AutoFilter** object.
 

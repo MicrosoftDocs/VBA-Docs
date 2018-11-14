@@ -1,5 +1,5 @@
 ---
-title: Range.HasFormula Property (Excel)
+title: Range.HasFormula property (Excel)
 keywords: vbaxl10.chm144143
 f1_keywords:
 - vbaxl10.chm144143
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.HasFormula Property (Excel)
+# Range.HasFormula property (Excel)
 
  **True** if all cells in the range contain formulas; **False** if none of the cells in the range contains a formula; **null** otherwise. Read-only **Variant** .
 

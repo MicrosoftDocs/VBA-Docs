@@ -1,5 +1,5 @@
 ---
-title: CalculatedFields.Item Method (Excel)
+title: CalculatedFields.Item method (Excel)
 keywords: vbaxl10.chm244075
 f1_keywords:
 - vbaxl10.chm244075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CalculatedFields.Item Method (Excel)
+# CalculatedFields.Item method (Excel)
 
 Returns a single object from a collection.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.DataPivotField Property (Excel)
+title: PivotTable.DataPivotField property (Excel)
 keywords: vbaxl10.chm235140
 f1_keywords:
 - vbaxl10.chm235140
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.DataPivotField Property (Excel)
+# PivotTable.DataPivotField property (Excel)
 
 Returns a  **[PivotField](Excel.PivotField.md)** object that represents all the data fields in a PivotTable. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.DetectLanguage Method (Word)
+title: Document.DetectLanguage method (Word)
 keywords: vbawd10.chm158007447
 f1_keywords:
 - vbawd10.chm158007447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.DetectLanguage Method (Word)
+# Document.DetectLanguage method (Word)
 
 Analyzes the specified text to determine the language that it is written in.
 

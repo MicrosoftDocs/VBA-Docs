@@ -1,5 +1,5 @@
 ---
-title: QueryTable.SourceConnectionFile Property (Excel)
+title: QueryTable.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm518131
 f1_keywords:
 - vbaxl10.chm518131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QueryTable.SourceConnectionFile Property (Excel)
+# QueryTable.SourceConnectionFile property (Excel)
 
 Returns or sets a  **String** indicating the Microsoft Office Data Connection file or similar file that was used to create the QueryTable. Read/write.
 

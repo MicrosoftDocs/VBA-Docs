@@ -1,5 +1,5 @@
 ---
-title: HiLoLines.Name Property (Word)
+title: HiLoLines.Name property (Word)
 keywords: vbawd10.chm235995137
 f1_keywords:
 - vbawd10.chm235995137
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# HiLoLines.Name Property (Word)
+# HiLoLines.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

@@ -1,5 +1,5 @@
 ---
-title: Shape.ControlFormat Property (Excel)
+title: Shape.ControlFormat property (Excel)
 keywords: vbaxl10.chm636128
 f1_keywords:
 - vbaxl10.chm636128
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.ControlFormat Property (Excel)
+# Shape.ControlFormat property (Excel)
 
 Returns a  **[ControlFormat](Excel.ControlFormat.md)** object that contains Microsoft Excel control properties. Read-only.
 

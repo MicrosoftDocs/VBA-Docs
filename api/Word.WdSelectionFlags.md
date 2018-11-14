@@ -1,5 +1,5 @@
 ---
-title: WdSelectionFlags Enumeration (Word)
+title: WdSelectionFlags enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdSelectionFlags
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdSelectionFlags Enumeration (Word)
+# WdSelectionFlags enumeration (Word)
 
 Specifies the properties of the selection.
 

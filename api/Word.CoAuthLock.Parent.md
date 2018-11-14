@@ -1,5 +1,5 @@
 ---
-title: CoAuthLock.Parent Property (Word)
+title: CoAuthLock.Parent property (Word)
 keywords: vbawd10.chm260047850
 f1_keywords:
 - vbawd10.chm260047850
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthLock.Parent Property (Word)
+# CoAuthLock.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **[CoAuthLock](Word.CoAuthLock.md)** object.
 

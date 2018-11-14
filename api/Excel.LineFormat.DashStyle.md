@@ -1,5 +1,5 @@
 ---
-title: LineFormat.DashStyle Property (Excel)
+title: LineFormat.DashStyle property (Excel)
 keywords: vbaxl10.chm110006
 f1_keywords:
 - vbaxl10.chm110006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineFormat.DashStyle Property (Excel)
+# LineFormat.DashStyle property (Excel)
 
 Returns or sets the dash style for the specified line. Can be one of the  **[MsoLineDashStyle](Office.MsoLineDashStyle.md)** contants. Read/write **Long** .
 

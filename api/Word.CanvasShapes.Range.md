@@ -1,5 +1,5 @@
 ---
-title: CanvasShapes.Range Method (Word)
+title: CanvasShapes.Range method (Word)
 keywords: vbawd10.chm7536661
 f1_keywords:
 - vbawd10.chm7536661
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CanvasShapes.Range Method (Word)
+# CanvasShapes.Range method (Word)
 
 Returns a  **ShapeRange** object.
 

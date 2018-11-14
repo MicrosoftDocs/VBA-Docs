@@ -1,5 +1,5 @@
 ---
-title: Frames.Count Property (Word)
+title: Frames.Count property (Word)
 keywords: vbawd10.chm153812993
 f1_keywords:
 - vbawd10.chm153812993
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frames.Count Property (Word)
+# Frames.Count property (Word)
 
 Returns a  **Long** that represents the number of frames in the collection. Read-only.
 

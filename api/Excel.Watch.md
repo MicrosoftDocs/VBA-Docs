@@ -1,5 +1,5 @@
 ---
-title: Watch Object (Excel)
+title: Watch object (Excel)
 keywords: vbaxl10.chm689072
 f1_keywords:
 - vbaxl10.chm689072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watch Object (Excel)
+# Watch object (Excel)
 
 Represents a range which is tracked when the worksheet is recalculated. The  **Watch** object allows users to verify the accuracy of their models and debug problems they encounter.
 

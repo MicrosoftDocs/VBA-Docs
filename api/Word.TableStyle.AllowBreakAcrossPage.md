@@ -1,5 +1,5 @@
 ---
-title: TableStyle.AllowBreakAcrossPage Property (Word)
+title: TableStyle.AllowBreakAcrossPage property (Word)
 keywords: vbawd10.chm244776973
 f1_keywords:
 - vbawd10.chm244776973
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.AllowBreakAcrossPage Property (Word)
+# TableStyle.AllowBreakAcrossPage property (Word)
 
 Sets or returns a  **Long** indicating whether lines in the rows of tables formatted with a specified style break across pages. Read/write.
 

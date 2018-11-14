@@ -1,5 +1,5 @@
 ---
-title: Chart.Tab Property (Excel)
+title: Chart.Tab property (Excel)
 keywords: vbaxl10.chm149169
 f1_keywords:
 - vbaxl10.chm149169
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Tab Property (Excel)
+# Chart.Tab property (Excel)
 
 Returns a  **[Tab](Excel.Tab.md)** object for a chart.
 

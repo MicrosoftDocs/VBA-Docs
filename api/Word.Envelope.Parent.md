@@ -1,5 +1,5 @@
 ---
-title: Envelope.Parent Property (Word)
+title: Envelope.Parent property (Word)
 keywords: vbawd10.chm152568810
 f1_keywords:
 - vbawd10.chm152568810
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.Parent Property (Word)
+# Envelope.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Envelope** object.
 

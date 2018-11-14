@@ -1,5 +1,5 @@
 ---
-title: ControlFormat.AddItem Method (Excel)
+title: ControlFormat.AddItem method (Excel)
 keywords: vbaxl10.chm630073
 f1_keywords:
 - vbaxl10.chm630073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ControlFormat.AddItem Method (Excel)
+# ControlFormat.AddItem method (Excel)
 
 Adds an item to a list box or a combo box.
 

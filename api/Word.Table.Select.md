@@ -1,5 +1,5 @@
 ---
-title: Table.Select Method (Word)
+title: Table.Select method (Word)
 keywords: vbawd10.chm156303560
 f1_keywords:
 - vbawd10.chm156303560
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.Select Method (Word)
+# Table.Select method (Word)
 
 Selects the specified table.
 

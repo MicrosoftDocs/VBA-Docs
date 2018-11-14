@@ -1,5 +1,5 @@
 ---
-title: Words.Count Property (Word)
+title: Words.Count property (Word)
 keywords: vbawd10.chm157024258
 f1_keywords:
 - vbawd10.chm157024258
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Words.Count Property (Word)
+# Words.Count property (Word)
 
 Returns a  **Long** that represents the number of words in the collection. Read-only.
 

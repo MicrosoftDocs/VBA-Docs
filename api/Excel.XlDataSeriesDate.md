@@ -1,5 +1,5 @@
 ---
-title: XlDataSeriesDate Enumeration (Excel)
+title: xlDataSeriesDate enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataSeriesDate
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlDataSeriesDate Enumeration (Excel)
+# xlDataSeriesDate enumeration (Excel)
 
 Specifies the type of date to apply to a data series.
 

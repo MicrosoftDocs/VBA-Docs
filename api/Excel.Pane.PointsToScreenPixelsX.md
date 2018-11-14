@@ -1,5 +1,5 @@
 ---
-title: Pane.PointsToScreenPixelsX Method (Excel)
+title: Pane.PointsToScreenPixelsX method (Excel)
 keywords: vbaxl10.chm360081
 f1_keywords:
 - vbaxl10.chm360081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.PointsToScreenPixelsX Method (Excel)
+# Pane.PointsToScreenPixelsX method (Excel)
 
 Returns or sets a pixel point on the screen.
 

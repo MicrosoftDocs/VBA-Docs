@@ -1,5 +1,5 @@
 ---
-title: Chart.Evaluate Method (Excel)
+title: Chart.Evaluate method (Excel)
 keywords: vbaxl10.chm149107
 f1_keywords:
 - vbaxl10.chm149107
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Evaluate Method (Excel)
+# Chart.Evaluate method (Excel)
 
 Converts a Microsoft Excel name to an object or a value.
 

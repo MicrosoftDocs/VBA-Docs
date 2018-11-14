@@ -1,5 +1,5 @@
 ---
-title: OMathMatRows.Count Property (Word)
+title: OMathMatRows.Count property (Word)
 keywords: vbawd10.chm55050343
 f1_keywords:
 - vbawd10.chm55050343
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRows.Count Property (Word)
+# OMathMatRows.Count property (Word)
 
 Returns the number of items in the  **OMathMatRows** collection. Read-only **Long** .
 

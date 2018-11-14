@@ -1,5 +1,5 @@
 ---
-title: Row.Range Property (Word)
+title: Row.Range property (Word)
 keywords: vbawd10.chm156237824
 f1_keywords:
 - vbawd10.chm156237824
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Range Property (Word)
+# Row.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained within the specified table row.
 

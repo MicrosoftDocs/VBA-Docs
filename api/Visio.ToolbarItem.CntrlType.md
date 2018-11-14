@@ -37,7 +37,7 @@ If you are adding a custom toolbar button, set the  **CntrlType** property to **
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCtrlTypeSPLITBUTTON_MRU_COMMAND**|18|Split button, with MRU command behavior.|
 | **visCtrlTypeBUTTON_OWNERDRAW**|33|Owner-draw push button.|

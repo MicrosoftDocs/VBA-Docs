@@ -22,7 +22,7 @@ Enter occurs before a control actually receives the [focus](../../Glossary/vbe-g
 The  **Enter** and **Exit** event syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event and the focus should remain at the current control.|

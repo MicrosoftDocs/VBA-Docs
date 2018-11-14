@@ -34,7 +34,7 @@ The value of the  **RasterExportOperation** property must be one of the followin
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterBaseline**|0|Baseline operation, the default.|
 | **visRasterProgressive**|1|Progressive operation.|

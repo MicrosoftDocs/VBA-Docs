@@ -1,5 +1,5 @@
 ---
-title: Application.CentimetersToPoints Method (Excel)
+title: Application.CentimetersToPoints method (Excel)
 keywords: vbaxl10.chm133090
 f1_keywords:
 - vbaxl10.chm133090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CentimetersToPoints Method (Excel)
+# Application.CentimetersToPoints method (Excel)
 
 Converts a measurement from centimeters to points (one point equals 0.035 centimeters).
 

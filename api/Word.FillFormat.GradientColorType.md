@@ -1,5 +1,5 @@
 ---
-title: FillFormat.GradientColorType Property (Word)
+title: FillFormat.GradientColorType property (Word)
 keywords: vbawd10.chm164102246
 f1_keywords:
 - vbawd10.chm164102246
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.GradientColorType Property (Word)
+# FillFormat.GradientColorType property (Word)
 
 Returns the gradient color type for the specified fill. Read-only  **MsoGradientColorType** .
 

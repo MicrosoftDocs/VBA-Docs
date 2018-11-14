@@ -1,5 +1,5 @@
 ---
-title: BuildingBlock.Insert Method (Word)
+title: BuildingBlock.Insert method (Word)
 keywords: vbawd10.chm203620454
 f1_keywords:
 - vbawd10.chm203620454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlock.Insert Method (Word)
+# BuildingBlock.Insert method (Word)
 
 Inserts the value of a building block into a document and returns a  **[Range](Word.Range.md)** object that represents the contents of the building block within the document.
 

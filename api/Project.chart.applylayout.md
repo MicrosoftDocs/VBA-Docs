@@ -23,7 +23,7 @@ Applies the specified chart layout and chart type to a selected chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Layout_|Required|**Long**|Specifies the type of layout, where the value corresponds to a  **Quick Layout** item on the ribbon.|
 | _varChartType_|Optional|**Variant**|Can be one of the  **Office.XlChartType** constants.|

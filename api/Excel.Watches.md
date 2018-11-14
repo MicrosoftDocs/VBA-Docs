@@ -1,5 +1,5 @@
 ---
-title: Watches Object (Excel)
+title: Watches object (Excel)
 keywords: vbaxl10.chm687072
 f1_keywords:
 - vbaxl10.chm687072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Watches Object (Excel)
+# Watches object (Excel)
 
 A collection of all the  **[Watch](Excel.Watches.md)** objects in a specified application.
 

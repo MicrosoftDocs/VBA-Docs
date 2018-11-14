@@ -1,5 +1,5 @@
 ---
-title: Range.ExportAsFixedFormat Method (Word)
+title: Range.ExportAsFixedFormat method (Word)
 keywords: vbawd10.chm157155831
 f1_keywords:
 - vbawd10.chm157155831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ExportAsFixedFormat Method (Word)
+# Range.ExportAsFixedFormat method (Word)
 
 Saves a portion of a document as PDF or XPS format.
 

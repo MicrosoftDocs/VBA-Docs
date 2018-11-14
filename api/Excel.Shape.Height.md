@@ -1,5 +1,5 @@
 ---
-title: Shape.Height Property (Excel)
+title: Shape.Height property (Excel)
 keywords: vbaxl10.chm636098
 f1_keywords:
 - vbaxl10.chm636098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Height Property (Excel)
+# Shape.Height property (Excel)
 
 Returns or sets a  **Single** value that represents the height, in points, of the object.
 

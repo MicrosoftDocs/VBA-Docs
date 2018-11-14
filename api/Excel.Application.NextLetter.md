@@ -1,5 +1,5 @@
 ---
-title: Application.NextLetter Method (Excel)
+title: Application.NextLetter method (Excel)
 keywords: vbaxl10.chm133172
 f1_keywords:
 - vbaxl10.chm133172
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.NextLetter Method (Excel)
+# Application.NextLetter method (Excel)
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 

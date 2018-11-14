@@ -1,5 +1,5 @@
 ---
-title: OMathEqArray.RowSpacing Property (Word)
+title: OMathEqArray.RowSpacing property (Word)
 keywords: vbawd10.chm174129260
 f1_keywords:
 - vbawd10.chm174129260
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathEqArray.RowSpacing Property (Word)
+# OMathEqArray.RowSpacing property (Word)
 
 Returns or sets a  **Long** that represents the spacing between the rows in an equation array. Read/write.
 

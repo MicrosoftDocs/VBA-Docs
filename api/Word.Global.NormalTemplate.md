@@ -1,5 +1,5 @@
 ---
-title: Global.NormalTemplate Property (Word)
+title: Global.NormalTemplate property (Word)
 keywords: vbawd10.chm163119112
 f1_keywords:
 - vbawd10.chm163119112
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.NormalTemplate Property (Word)
+# Global.NormalTemplate property (Word)
 
 Returns a  **Template** object that represents the Normal template.
 

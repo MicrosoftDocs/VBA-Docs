@@ -1,5 +1,5 @@
 ---
-title: WorkbookConnection.ModelTables Property (Excel)
+title: WorkbookConnection.ModelTables property (Excel)
 keywords: vbaxl10.chm774088
 f1_keywords:
 - vbaxl10.chm774088
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkbookConnection.ModelTables Property (Excel)
+# WorkbookConnection.ModelTables property (Excel)
 
-Returns a [ModelTables Object (Excel)](Excel.modeltables.md) object associated with the particular connection. Read-only
+Returns a [ModelTables object (Excel)](Excel.modeltables.md) object associated with the particular connection. Read-only
 
 
 ## Syntax

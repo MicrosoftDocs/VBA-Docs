@@ -10,13 +10,13 @@ ms.date: 06/08/2017
 
 # PjMailSystem Enumeration (Project)
 
-Contains constants that specify the type of e-mail system.
+Contains constants that specify the type of email system.
 
 
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjMAPI**|1|Microsoft Mail.|
-|**pjMAPICompatible**|2|E-mail system that is compatible with MAPI .|
-|**pjNoMailSystem**|0|Unrecognized or missing e-mail system.|
+|**pjMAPICompatible**|2|Email system that is compatible with MAPI .|
+|**pjNoMailSystem**|0|Unrecognized or missing email system.|
 

@@ -1,5 +1,5 @@
 ---
-title: XmlNamespaces Object (Excel)
+title: XmlNamespaces object (Excel)
 keywords: vbaxl10.chm745072
 f1_keywords:
 - vbaxl10.chm745072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlNamespaces Object (Excel)
+# XmlNamespaces object (Excel)
 
 Represents the collection of  **[XmlNamespace](Excel.XmlNamespace.md)** objects in a workbook.
 

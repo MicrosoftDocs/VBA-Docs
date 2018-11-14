@@ -1,5 +1,5 @@
 ---
-title: DropLines.Creator Property (Excel)
+title: DropLines.Creator property (Excel)
 keywords: vbaxl10.chm603074
 f1_keywords:
 - vbaxl10.chm603074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropLines.Creator Property (Excel)
+# DropLines.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

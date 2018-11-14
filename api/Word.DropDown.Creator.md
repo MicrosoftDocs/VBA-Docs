@@ -1,5 +1,5 @@
 ---
-title: DropDown.Creator Property (Word)
+title: DropDown.Creator property (Word)
 keywords: vbawd10.chm153420777
 f1_keywords:
 - vbawd10.chm153420777
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DropDown.Creator Property (Word)
+# DropDown.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Bin2Dec Method (Excel)
+title: WorksheetFunction.Bin2Dec method (Excel)
 keywords: vbaxl10.chm137270
 f1_keywords:
 - vbaxl10.chm137270
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Bin2Dec Method (Excel)
+# WorksheetFunction.Bin2Dec method (Excel)
 
 Converts a binary number to decimal.
 

@@ -1,5 +1,5 @@
 ---
-title: PivotTable.HiddenFields Property (Excel)
+title: PivotTable.HiddenFields property (Excel)
 keywords: vbaxl10.chm235083
 f1_keywords:
 - vbaxl10.chm235083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTable.HiddenFields Property (Excel)
+# PivotTable.HiddenFields property (Excel)
 
 Returns an object that represents either a single PivotTable field (a  **[PivotField](Excel.PivotField.md)** object) or a collection of all the fields (a **[PivotFields](Excel.PivotFields.md)** object) that are currently not shown as row, column, page, or data fields. Read-only.
 

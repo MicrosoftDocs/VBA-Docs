@@ -1,5 +1,5 @@
 ---
-title: Document.HasPassword Property (Word)
+title: Document.HasPassword property (Word)
 keywords: vbawd10.chm158007383
 f1_keywords:
 - vbawd10.chm158007383
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.HasPassword Property (Word)
+# Document.HasPassword property (Word)
 
  **True** if a password is required to open the specified document. Read-only **Boolean** .
 

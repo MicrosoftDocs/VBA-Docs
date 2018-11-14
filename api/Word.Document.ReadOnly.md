@@ -1,5 +1,5 @@
 ---
-title: Document.ReadOnly Property (Word)
+title: Document.ReadOnly property (Word)
 keywords: vbawd10.chm158007340
 f1_keywords:
 - vbawd10.chm158007340
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ReadOnly Property (Word)
+# Document.ReadOnly property (Word)
 
  **True** if changes to the document cannot be saved to the original document. Read-only **Boolean** .
 

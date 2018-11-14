@@ -1,5 +1,5 @@
 ---
-title: TableOfFigures.IncludePageNumbers Property (Word)
+title: TableOfFigures.IncludePageNumbers property (Word)
 keywords: vbawd10.chm153157639
 f1_keywords:
 - vbawd10.chm153157639
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfFigures.IncludePageNumbers Property (Word)
+# TableOfFigures.IncludePageNumbers property (Word)
 
  **True** if page numbers are included in the table of figures. Read/write **Boolean** .
 

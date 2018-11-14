@@ -1,5 +1,5 @@
 ---
-title: Range.InRange Method (Word)
+title: Range.InRange method (Word)
 keywords: vbawd10.chm157155454
 f1_keywords:
 - vbawd10.chm157155454
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.InRange Method (Word)
+# Range.InRange method (Word)
 
 Returns  **True** if the range to which the method is applied is contained in the range specified by the Range argument.
 

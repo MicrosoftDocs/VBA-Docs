@@ -1,5 +1,5 @@
 ---
-title: XlTextVisualLayoutType Enumeration (Excel)
+title: xlTextVisualLayoutType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTextVisualLayoutType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlTextVisualLayoutType Enumeration (Excel)
+# xlTextVisualLayoutType enumeration (Excel)
 
 Specifies whether the visual layout of the text being imported is left-to-right or right-to-left.
 

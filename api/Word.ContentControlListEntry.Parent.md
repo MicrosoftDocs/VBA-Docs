@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntry.Parent Property (Word)
+title: ContentControlListEntry.Parent property (Word)
 keywords: vbawd10.chm147456102
 f1_keywords:
 - vbawd10.chm147456102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntry.Parent Property (Word)
+# ContentControlListEntry.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **ContentControlListEntry** object.
 

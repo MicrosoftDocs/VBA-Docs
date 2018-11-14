@@ -1,5 +1,5 @@
 ---
-title: WdDeleteCells Enumeration (Word)
+title: WdDeleteCells enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdDeleteCells
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdDeleteCells Enumeration (Word)
+# WdDeleteCells enumeration (Word)
 
 Specifies a range of cells to be deleted from a table in a delete cells action or the behavior of the remaining cells after the deletion has occurred.
 

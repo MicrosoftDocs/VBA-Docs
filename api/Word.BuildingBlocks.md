@@ -1,5 +1,5 @@
 ---
-title: BuildingBlocks Object (Word)
+title: BuildingBlocks object (Word)
 ms.prod: word
 api_name:
 - Word.BuildingBlocks
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BuildingBlocks Object (Word)
+# BuildingBlocks object (Word)
 
 Represents a collection of  **[BuildingBlock](Word.BuildingBlock.md)** objects for a specific building block type and category in a template.
 

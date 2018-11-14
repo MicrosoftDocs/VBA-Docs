@@ -1,5 +1,5 @@
 ---
-title: ContentControl.DateCalendarType Property (Word)
+title: ContentControl.DateCalendarType property (Word)
 keywords: vbawd10.chm266534938
 f1_keywords:
 - vbawd10.chm266534938
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.DateCalendarType Property (Word)
+# ContentControl.DateCalendarType property (Word)
 
 Returns or sets a  **[WdCalendarType](Word.WdCalendarType.md)** constant that represents the calendar type for a calendar content control. Read/write.
 

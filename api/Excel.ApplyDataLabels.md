@@ -42,7 +42,7 @@ Applies data labels to a point, a series, or all the series in a chart.
  _expression_. **ApplyDataLabels**(**_Type_**,  **_LegendKey_**,  **_AutoText_**,  **_HasLeaderLines_**,  **_ShowSeriesName_**,  **_ShowCategoryName_**,  **_ShowValue_**,  **_ShowPercentage_**,  **_ShowBubbleSize_**,  **_Separator_**)
  _expression_ Required. An expression that returns one of the above objects.
  **Type**Optional 
- **XlDataLabelsType**
+ **xlDataLabelsType**
 . The data label type.
 
 

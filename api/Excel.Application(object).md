@@ -1,5 +1,5 @@
 ---
-title: Application Object (Excel)
+title: Application object (Excel)
 keywords: vbaxl10.chm182073
 f1_keywords:
 - vbaxl10.chm182073
@@ -10,7 +10,7 @@ ms.assetid: 19b73597-5cf9-4f56-8227-b5211f657f6f
 ms.date: 06/08/2017
 ---
 
-# Application Object (Excel)
+# Application object (Excel)
 
 Represents the entire Microsoft Excel application.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.Characters Property (Word)
+title: Document.Characters property (Word)
 keywords: vbawd10.chm158007315
 f1_keywords:
 - vbawd10.chm158007315
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Characters Property (Word)
+# Document.Characters property (Word)
 
 Returns a  **[Characters](Word.characters.md)** collection that represents the characters in a document. Read-only.
 

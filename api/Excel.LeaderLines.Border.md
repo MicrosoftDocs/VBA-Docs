@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Border Property (Excel)
+title: LeaderLines.Border property (Excel)
 keywords: vbaxl10.chm606073
 f1_keywords:
 - vbaxl10.chm606073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Border Property (Excel)
+# LeaderLines.Border property (Excel)
 
 Returns a  **[Border](Excel.Border(object).md)** object that represents the border of the object.
 

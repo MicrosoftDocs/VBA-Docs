@@ -1,5 +1,5 @@
 ---
-title: DataLabel.Delete Method (Word)
+title: DataLabel.Delete method (Word)
 keywords: vbawd10.chm233898101
 f1_keywords:
 - vbawd10.chm233898101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabel.Delete Method (Word)
+# DataLabel.Delete method (Word)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.EnableLegacyIMEMode Property (Word)
+title: Options.EnableLegacyIMEMode property (Word)
 keywords: vbawd10.chm162988524
 f1_keywords:
 - vbawd10.chm162988524
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.EnableLegacyIMEMode Property (Word)
+# Options.EnableLegacyIMEMode property (Word)
 
 Returns or sets a **Boolean** that represents whether to enable legacy IME mode. Read/write.
 

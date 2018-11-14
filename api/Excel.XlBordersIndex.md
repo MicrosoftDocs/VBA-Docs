@@ -1,14 +1,14 @@
 ---
-title: XlBordersIndex Enumeration (Excel)
+title: xlBordersIndex enumeration (Excel)
 ms.prod: excel
 api_name:
-- Excel.XlBordersIndex
+- Excel.xlBordersIndex
 ms.assetid: 91ab77e7-c54f-266d-fc61-7ce0bed1bd8c
 ms.date: 06/08/2017
 ---
 
 
-# XlBordersIndex Enumeration (Excel)
+# xlBordersIndex enumeration (Excel)
 
 Specifies the border to be retrieved.
 

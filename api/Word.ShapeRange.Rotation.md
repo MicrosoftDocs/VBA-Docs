@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Rotation Property (Word)
+title: ShapeRange.Rotation property (Word)
 keywords: vbawd10.chm162857077
 f1_keywords:
 - vbawd10.chm162857077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Rotation Property (Word)
+# ShapeRange.Rotation property (Word)
 
 Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write  **Single** .
 

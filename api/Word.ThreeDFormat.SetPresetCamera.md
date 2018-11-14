@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.SetPresetCamera Method (Word)
+title: ThreeDFormat.SetPresetCamera method (Word)
 keywords: vbawd10.chm164626447
 f1_keywords:
 - vbawd10.chm164626447
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.SetPresetCamera Method (Word)
+# ThreeDFormat.SetPresetCamera method (Word)
 
 Sets the camera presets for a shape.
 

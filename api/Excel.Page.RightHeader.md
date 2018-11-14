@@ -1,5 +1,5 @@
 ---
-title: Page.RightHeader Property (Excel)
+title: Page.RightHeader property (Excel)
 keywords: vbaxl10.chm830075
 f1_keywords:
 - vbaxl10.chm830075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Page.RightHeader Property (Excel)
+# Page.RightHeader property (Excel)
 
 Specifies a picture or text to be right aligned in the page header.
 

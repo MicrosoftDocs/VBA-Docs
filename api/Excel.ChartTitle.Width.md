@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.Width Property (Excel)
+title: ChartTitle.Width property (Excel)
 keywords: vbaxl10.chm563096
 f1_keywords:
 - vbaxl10.chm563096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.Width Property (Excel)
+# ChartTitle.Width property (Excel)
 
 Returns the width, in points, of the object. Read-only.
 

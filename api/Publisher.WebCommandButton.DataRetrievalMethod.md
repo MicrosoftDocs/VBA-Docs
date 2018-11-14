@@ -35,7 +35,7 @@ The  **DataRetrievalMethod** property value can be one of the **[PbSubmitDataRet
 
 ## Example
 
-This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an e-mail message to a specified e-mail address.
+This example sets Microsoft Publisher to process data on the Web form in the current publication by sending an email message to a specified email address.
 
 
 ```vb

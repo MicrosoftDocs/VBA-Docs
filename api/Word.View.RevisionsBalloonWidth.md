@@ -1,5 +1,5 @@
 ---
-title: View.RevisionsBalloonWidth Property (Word)
+title: View.RevisionsBalloonWidth property (Word)
 keywords: vbawd10.chm161808424
 f1_keywords:
 - vbawd10.chm161808424
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.RevisionsBalloonWidth Property (Word)
+# View.RevisionsBalloonWidth property (Word)
 
 Sets or returns a  **Single** representing the global setting in Microsoft Word that specifies the width of the revision balloons. Read/write.
 

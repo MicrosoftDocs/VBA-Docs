@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultHeight Property (Word)
+title: Envelope.DefaultHeight property (Word)
 keywords: vbawd10.chm152567814
 f1_keywords:
 - vbawd10.chm152567814
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultHeight Property (Word)
+# Envelope.DefaultHeight property (Word)
 
 Returns or sets the default envelope height, in points. Read/write  **Single** .
 

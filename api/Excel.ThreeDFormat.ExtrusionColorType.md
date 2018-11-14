@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColorType Property (Excel)
+title: ThreeDFormat.ExtrusionColorType property (Excel)
 keywords: vbaxl10.chm119007
 f1_keywords:
 - vbaxl10.chm119007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ExtrusionColorType Property (Excel)
+# ThreeDFormat.ExtrusionColorType property (Excel)
 
 Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write  **[MsoExtrusionColorType](./Office.MsoExtrusionColorType.md)** .
 

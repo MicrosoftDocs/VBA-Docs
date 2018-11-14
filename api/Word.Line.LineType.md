@@ -1,5 +1,5 @@
 ---
-title: Line.LineType Property (Word)
+title: Line.LineType property (Word)
 keywords: vbawd10.chm49610754
 f1_keywords:
 - vbawd10.chm49610754
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line.LineType Property (Word)
+# Line.LineType property (Word)
 
 Returns a  **wdLineType** constant that indicates whether a line is a text line or a table row.
 

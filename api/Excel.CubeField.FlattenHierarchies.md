@@ -1,5 +1,5 @@
 ---
-title: CubeField.FlattenHierarchies Property (Excel)
+title: CubeField.FlattenHierarchies property (Excel)
 keywords: vbaxl10.chm668103
 f1_keywords:
 - vbaxl10.chm668103
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CubeField.FlattenHierarchies Property (Excel)
+# CubeField.FlattenHierarchies property (Excel)
 
 Returns or sets whether items from all levels of hierarchies in a named set cube field are displayed in the same field of a PivotTable report based on an OLAP cube. Read/write
 

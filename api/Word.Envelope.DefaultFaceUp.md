@@ -1,5 +1,5 @@
 ---
-title: Envelope.DefaultFaceUp Property (Word)
+title: Envelope.DefaultFaceUp property (Word)
 keywords: vbawd10.chm152567828
 f1_keywords:
 - vbawd10.chm152567828
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.DefaultFaceUp Property (Word)
+# Envelope.DefaultFaceUp property (Word)
 
  **True** if envelopes are fed face up by default. Read/write **Boolean** .
 

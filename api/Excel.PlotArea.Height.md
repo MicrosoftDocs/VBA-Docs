@@ -1,5 +1,5 @@
 ---
-title: PlotArea.Height Property (Excel)
+title: PlotArea.Height property (Excel)
 keywords: vbaxl10.chm618078
 f1_keywords:
 - vbaxl10.chm618078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PlotArea.Height Property (Excel)
+# PlotArea.Height property (Excel)
 
 Returns or sets a  **Double** value that represents the height, in points, of the object.
 

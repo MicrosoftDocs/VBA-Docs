@@ -1,5 +1,5 @@
 ---
-title: Application.ThousandsSeparator Property (Excel)
+title: Application.ThousandsSeparator property (Excel)
 keywords: vbaxl10.chm133289
 f1_keywords:
 - vbaxl10.chm133289
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ThousandsSeparator Property (Excel)
+# Application.ThousandsSeparator property (Excel)
 
 Sets or returns the character used for the thousands separator as a  **String** . Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: Field.Copy Method (Word)
+title: Field.Copy method (Word)
 keywords: vbawd10.chm154075241
 f1_keywords:
 - vbawd10.chm154075241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Field.Copy Method (Word)
+# Field.Copy method (Word)
 
 Copies the specified field to the Clipboard.
 

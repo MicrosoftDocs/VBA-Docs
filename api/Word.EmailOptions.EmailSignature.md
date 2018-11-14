@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.EmailSignature Property (Word)
+title: EmailOptions.EmailSignature property (Word)
 keywords: vbawd10.chm165347436
 f1_keywords:
 - vbawd10.chm165347436
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.EmailSignature Property (Word)
+# EmailOptions.EmailSignature property (Word)
 
-Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents the signatures Microsoft Word appends to outgoing e-mail messages. Read-only.
+Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents the signatures Microsoft Word appends to outgoing email messages. Read-only.
 
 
 ## Syntax
@@ -25,16 +25,16 @@ Returns an  **[EmailSignature](Word.EmailSignature.md)** object that represents 
 
 ## Example
 
-This example displays the signature Word appends to new outgoing e-mail messages.
+This example displays the signature Word appends to new outgoing email messages.
 
 
 ```vb
 With Application.EmailOptions.EmailSignature 
  If .NewMessageSignature = "" Then 
  MsgBox "There is no signature for new " _ 
- & "e-mail messages!" 
+ & "email messages!" 
  Else 
- MsgBox "The signature for new e-mail" _ 
+ MsgBox "The signature for new email" _ 
  & "messages is: " & vbLf & vbLf _ 
  & .NewMessageSignature 
  End If 

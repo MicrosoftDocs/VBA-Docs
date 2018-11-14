@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.TextEffect Property (Word)
+title: ShapeRange.TextEffect property (Word)
 keywords: vbawd10.chm162857080
 f1_keywords:
 - vbawd10.chm162857080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.TextEffect Property (Word)
+# ShapeRange.TextEffect property (Word)
 
 Returns a  **TextEffectFormat** object that contains text-effect formatting properties for the specified shape. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Borders.Color Property (Excel)
+title: Borders.Color property (Excel)
 keywords: vbaxl10.chm181073
 f1_keywords:
 - vbaxl10.chm181073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Borders.Color Property (Excel)
+# Borders.Color property (Excel)
 
 Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotField.IsMemberProperty Property (Excel)
+title: PivotField.IsMemberProperty property (Excel)
 keywords: vbaxl10.chm240131
 f1_keywords:
 - vbaxl10.chm240131
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.IsMemberProperty Property (Excel)
+# PivotField.IsMemberProperty property (Excel)
 
 Returns  **True** when the PivotField contains member properties. Read-only **Boolean** .
 

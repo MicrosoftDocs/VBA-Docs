@@ -1,5 +1,5 @@
 ---
-title: Bookmark.Parent Property (Word)
+title: Bookmark.Parent property (Word)
 keywords: vbawd10.chm157811690
 f1_keywords:
 - vbawd10.chm157811690
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmark.Parent Property (Word)
+# Bookmark.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Bookmark** object.
 

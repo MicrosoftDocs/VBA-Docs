@@ -1,5 +1,5 @@
 ---
-title: Window.Close Method (Excel)
+title: Window.Close method (Excel)
 keywords: vbaxl10.chm356081
 f1_keywords:
 - vbaxl10.chm356081
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Close Method (Excel)
+# Window.Close method (Excel)
 
 Closes the object.
 

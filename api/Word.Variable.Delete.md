@@ -1,5 +1,5 @@
 ---
-title: Variable.Delete Method (Word)
+title: Variable.Delete method (Word)
 keywords: vbawd10.chm157679627
 f1_keywords:
 - vbawd10.chm157679627
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Variable.Delete Method (Word)
+# Variable.Delete method (Word)
 
 Deletes the specified variable.
 

@@ -1,5 +1,5 @@
 ---
-title: List.Range Property (Word)
+title: List.Range property (Word)
 keywords: vbawd10.chm160563201
 f1_keywords:
 - vbawd10.chm160563201
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# List.Range Property (Word)
+# List.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: PageNumber.Creator Property (Word)
+title: PageNumber.Creator property (Word)
 ms.prod: word
 api_name:
 - Word.PageNumber.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageNumber.Creator Property (Word)
+# PageNumber.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

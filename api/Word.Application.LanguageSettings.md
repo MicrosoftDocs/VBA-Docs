@@ -1,5 +1,5 @@
 ---
-title: Application.LanguageSettings Property (Word)
+title: Application.LanguageSettings property (Word)
 keywords: vbawd10.chm158335379
 f1_keywords:
 - vbawd10.chm158335379
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.LanguageSettings Property (Word)
+# Application.LanguageSettings property (Word)
 
 Returns a  **LanguageSettings** object, which contains information about the language settings in Microsoft Word.
 

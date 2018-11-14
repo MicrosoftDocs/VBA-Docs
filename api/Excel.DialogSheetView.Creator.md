@@ -1,5 +1,5 @@
 ---
-title: DialogSheetView.Creator Property (Excel)
+title: DialogSheetView.Creator property (Excel)
 keywords: vbaxl10.chm786074
 f1_keywords:
 - vbaxl10.chm786074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DialogSheetView.Creator Property (Excel)
+# DialogSheetView.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: TableStyle.ShowAsAvailablePivotTableStyle Property (Excel)
+title: TableStyle.ShowAsAvailablePivotTableStyle property (Excel)
 keywords: vbaxl10.chm839079
 f1_keywords:
 - vbaxl10.chm839079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyle.ShowAsAvailablePivotTableStyle Property (Excel)
+# TableStyle.ShowAsAvailablePivotTableStyle property (Excel)
 
 Sets or returns if a style is shown in the gallery for PivotTable styles or not. Read/write  **Boolean** .
 

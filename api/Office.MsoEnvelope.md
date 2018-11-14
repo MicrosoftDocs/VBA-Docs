@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MsoEnvelope Object (Office)
 
-Provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
+Provides access to functionality that lets you send documents as email messages directly from Microsoft Office applications.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Use the  **MailEnvelope** property of the **Document** object, **Chart** object 
 
 ## Example
 
-The following example sends the active Microsoft Word document as an e-mail message to the e-mail address that you pass to the subroutine.
+The following example sends the active Microsoft Word document as an email message to the email address that you pass to the subroutine.
 
 
 ```vb
@@ -32,7 +32,7 @@ Sub SendMail(ByVal strRecipient As String)
  'Use a With...End With block to reference the MsoEnvelope object. 
  With Application.ActiveDocument.MailEnvelope 
  
- 'Add some introductory text before the body of the e-mail. 
+ 'Add some introductory text before the body of the email. 
  .Introduction = "Please read this and send me your comments." 
  
  'Return a Microsoft Outlook MailItem object that 

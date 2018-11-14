@@ -1,5 +1,5 @@
 ---
-title: Reviewer.Creator Property (Word)
+title: Reviewer.Creator property (Word)
 keywords: vbawd10.chm78513129
 f1_keywords:
 - vbawd10.chm78513129
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Reviewer.Creator Property (Word)
+# Reviewer.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

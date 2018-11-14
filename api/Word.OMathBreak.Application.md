@@ -1,5 +1,5 @@
 ---
-title: OMathBreak.Application Property (Word)
+title: OMathBreak.Application property (Word)
 keywords: vbawd10.chm97845349
 f1_keywords:
 - vbawd10.chm97845349
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathBreak.Application Property (Word)
+# OMathBreak.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

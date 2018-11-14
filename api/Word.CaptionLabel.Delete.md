@@ -1,5 +1,5 @@
 ---
-title: CaptionLabel.Delete Method (Word)
+title: CaptionLabel.Delete method (Word)
 keywords: vbawd10.chm158924900
 f1_keywords:
 - vbawd10.chm158924900
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CaptionLabel.Delete Method (Word)
+# CaptionLabel.Delete method (Word)
 
 Deletes the specified caption label.
 

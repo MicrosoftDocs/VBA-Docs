@@ -23,7 +23,7 @@ _Boolean_ = _object_. **GetFormat(**_format_**)**
 The **GetFormat** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _format_|Required. An integer or string specifying a specific format that might exist in the **DataObject**. If the specified format exists in the **DataObject**, **GetFormat** returns **True**.|

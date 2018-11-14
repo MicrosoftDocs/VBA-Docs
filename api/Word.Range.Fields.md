@@ -1,5 +1,5 @@
 ---
-title: Range.Fields Property (Word)
+title: Range.Fields property (Word)
 keywords: vbawd10.chm157155392
 f1_keywords:
 - vbawd10.chm157155392
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Fields Property (Word)
+# Range.Fields property (Word)
 
 Returns a  **[Fields](Word.fields.md)** collection that represents all the fields in the range. Read-only.
 

@@ -19,7 +19,7 @@ Displays a prompt in a dialog box, waits for the user to input text or click a b
 
 The **InputBox** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_prompt_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) displayed as the message in the dialog box. The maximum length of **_prompt_** is approximately 1024 characters, depending on the width of the characters used. If **_prompt_** consists of more than one line, you can separate the lines using a carriage return character (**Chr(** 13 **)**), a linefeed character (**Chr(** 10 **)**), or carriage return-linefeed character combination (**Chr(** 13 **)** & **Chr(** 10 **)**) between each line.|
 |**_title_**|Optional. String expression displayed in the title bar of the dialog box. If you omit **_title_**, the application name is placed in the title bar.|

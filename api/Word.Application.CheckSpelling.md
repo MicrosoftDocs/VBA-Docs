@@ -1,5 +1,5 @@
 ---
-title: Application.CheckSpelling Method (Word)
+title: Application.CheckSpelling method (Word)
 keywords: vbawd10.chm158335300
 f1_keywords:
 - vbawd10.chm158335300
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.CheckSpelling Method (Word)
+# Application.CheckSpelling method (Word)
 
 Checks a string for spelling errors. Returns a  **Boolean** to indicate whether the string contains spelling errors. **True** if the string has no spelling errors.
 

@@ -19,7 +19,7 @@ Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glo
 
 The **Format** function syntax has these parts.
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |_Expression_|Required. Any valid expression.|
 |_Format_|Optional. A valid named or user-defined format expression.|
@@ -30,7 +30,7 @@ The **Format** function syntax has these parts.
 
 The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use NLS API setting.|
 |**vbSunday**|1|Sunday (default)|
@@ -43,7 +43,7 @@ The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the
 
 The _firstweekofyear_ [argument](../../Glossary/vbe-glossary.md#argument) has these settings.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use NLS API setting.|
 |**vbFirstJan1**|1|Start with week in which January 1 occurs (default).|

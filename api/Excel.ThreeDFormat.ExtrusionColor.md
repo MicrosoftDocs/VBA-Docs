@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.ExtrusionColor Property (Excel)
+title: ThreeDFormat.ExtrusionColor property (Excel)
 keywords: vbaxl10.chm119006
 f1_keywords:
 - vbaxl10.chm119006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.ExtrusionColor Property (Excel)
+# ThreeDFormat.ExtrusionColor property (Excel)
 
 Returns a  **[ColorFormat](Excel.ColorFormat.md)** object that represents the color of the shape's extrusion. Read-only.
 

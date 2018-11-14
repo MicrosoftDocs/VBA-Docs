@@ -1,5 +1,5 @@
 ---
-title: Workbook.PivotTables Property (Excel)
+title: Workbook.PivotTables property (Excel)
 keywords: vbaxl10.chm199275
 f1_keywords:
 - vbaxl10.chm199275
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.PivotTables Property (Excel)
+# Workbook.PivotTables property (Excel)
 
 Returns an object that represents a collection of all the PivotTable reports on a worksheet. Read-only.
 
@@ -18,12 +18,12 @@ Returns an object that represents a collection of all the PivotTable reports on 
 
  _expression_. `PivotTables`
 
- _expression_ A variable that represents a [Workbook Object (Excel)](Excel.Workbook.md) object.
+ _expression_ A variable that represents a [Workbook object (Excel)](Excel.Workbook.md) object.
 
 
 ## Returns
 
-[PivotTables Object (Excel)](Excel.PivotTables.md)
+[PivotTables object (Excel)](Excel.PivotTables.md)
 
 
 ## Property value

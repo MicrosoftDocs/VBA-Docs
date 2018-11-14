@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleHeight Method (Word)
+title: ShapeRange.ScaleHeight method (Word)
 keywords: vbawd10.chm162856983
 f1_keywords:
 - vbawd10.chm162856983
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ScaleHeight Method (Word)
+# ShapeRange.ScaleHeight method (Word)
 
 Scales the height of a range of shapes by a specified factor.
 

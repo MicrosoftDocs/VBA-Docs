@@ -1,5 +1,5 @@
 ---
-title: XmlMap.Name Property (Excel)
+title: XmlMap.Name property (Excel)
 keywords: vbaxl10.chm754074
 f1_keywords:
 - vbaxl10.chm754074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XmlMap.Name Property (Excel)
+# XmlMap.Name property (Excel)
 
 Returns or sets a  **String** value that represents the friendly name used to uniquely identify a mapping in the workbook.
 

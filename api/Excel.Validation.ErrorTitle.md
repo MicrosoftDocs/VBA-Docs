@@ -1,5 +1,5 @@
 ---
-title: Validation.ErrorTitle Property (Excel)
+title: Validation.ErrorTitle property (Excel)
 keywords: vbaxl10.chm532080
 f1_keywords:
 - vbaxl10.chm532080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Validation.ErrorTitle Property (Excel)
+# Validation.ErrorTitle property (Excel)
 
 Returns or sets the title of the data-validation error dialog box. Read/write  **String** .
 

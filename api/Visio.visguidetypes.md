@@ -15,7 +15,7 @@ Guide type codes to be passed to the  **Page.AddGuide** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visHorz**|2|Vertical guide|
 | **visPoint**|1|Guide point|

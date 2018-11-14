@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumXMY2 Method (Excel)
+title: WorksheetFunction.SumXMY2 method (Excel)
 keywords: vbaxl10.chm137207
 f1_keywords:
 - vbaxl10.chm137207
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumXMY2 Method (Excel)
+# WorksheetFunction.SumXMY2 method (Excel)
 
 Returns the sum of squares of differences of corresponding values in two arrays.
 

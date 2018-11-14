@@ -1,5 +1,5 @@
 ---
-title: Table.ApplyStyleRowBands Property (Word)
+title: Table.ApplyStyleRowBands property (Word)
 keywords: vbawd10.chm156303566
 f1_keywords:
 - vbawd10.chm156303566
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Table.ApplyStyleRowBands Property (Word)
+# Table.ApplyStyleRowBands property (Word)
 
 Returns or sets a  **Boolean** that represents whether to apply style bands to the rows in a table if an applied preset table style provides style banding for rows. Read/write.
 

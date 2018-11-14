@@ -1,5 +1,5 @@
 ---
-title: Trendline.Select Method (Excel)
+title: Trendline.Select method (Excel)
 keywords: vbaxl10.chm594089
 f1_keywords:
 - vbaxl10.chm594089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Select Method (Excel)
+# Trendline.Select method (Excel)
 
 Selects the object.
 

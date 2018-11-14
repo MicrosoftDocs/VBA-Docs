@@ -1,5 +1,5 @@
 ---
-title: OMathMatRow.RowIndex Property (Word)
+title: OMathMatRow.RowIndex property (Word)
 keywords: vbawd10.chm196477032
 f1_keywords:
 - vbawd10.chm196477032
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathMatRow.RowIndex Property (Word)
+# OMathMatRow.RowIndex property (Word)
 
 Returns or sets a  **Long** that represents the ordinal position of a matrix row within the collection of matrix rows. Read/write.
 

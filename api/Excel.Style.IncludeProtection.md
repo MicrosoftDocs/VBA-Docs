@@ -1,5 +1,5 @@
 ---
-title: Style.IncludeProtection Property (Excel)
+title: Style.IncludeProtection property (Excel)
 keywords: vbaxl10.chm177085
 f1_keywords:
 - vbaxl10.chm177085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.IncludeProtection Property (Excel)
+# Style.IncludeProtection property (Excel)
 
  **True** if the style includes the **FormulaHidden** and **Locked** protection properties. Read/write **Boolean** .
 

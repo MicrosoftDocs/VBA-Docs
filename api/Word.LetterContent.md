@@ -1,5 +1,5 @@
 ---
-title: LetterContent Object (Word)
+title: LetterContent object (Word)
 keywords: vbawd10.chm2465
 f1_keywords:
 - vbawd10.chm2465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LetterContent Object (Word)
+# LetterContent object (Word)
 
 Represents the elements of a letter created by the Letter Wizard.
 

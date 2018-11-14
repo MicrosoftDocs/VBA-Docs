@@ -1,5 +1,5 @@
 ---
-title: Range.DialogBox Method (Excel)
+title: Range.DialogBox method (Excel)
 keywords: vbaxl10.chm144117
 f1_keywords:
 - vbaxl10.chm144117
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.DialogBox Method (Excel)
+# Range.DialogBox method (Excel)
 
 Displays a dialog box defined by a dialog box definition table on a Microsoft Excel 4.0 macro sheet. Returns the number of the chosen control, or returns  **False** if the user clicks the **Cancel** button.
 

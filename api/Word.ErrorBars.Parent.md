@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.Parent Property (Word)
+title: ErrorBars.Parent property (Word)
 keywords: vbawd10.chm74842262
 f1_keywords:
 - vbawd10.chm74842262
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.Parent Property (Word)
+# ErrorBars.Parent property (Word)
 
 Returns the parent for the specified object. Read-only  **Object** .
 

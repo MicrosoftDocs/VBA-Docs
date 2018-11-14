@@ -15,7 +15,7 @@ Y parameters to pass to the  **Window.Scroll** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visScrollDownPage**|3|Scroll vertically so that the upper edge of the drawing page is centered in the window.|
 | **visScrollDown**|1|Scroll vertically down the same distance as clicking the down scroll button.|

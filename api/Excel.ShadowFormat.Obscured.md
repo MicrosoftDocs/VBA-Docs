@@ -1,5 +1,5 @@
 ---
-title: ShadowFormat.Obscured Property (Excel)
+title: ShadowFormat.Obscured property (Excel)
 keywords: vbaxl10.chm114003
 f1_keywords:
 - vbaxl10.chm114003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShadowFormat.Obscured Property (Excel)
+# ShadowFormat.Obscured property (Excel)
 
  **True** if the shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill. **False** if the shadow has no fill and the outline of the shadow is visible through the shape if the shape has no fill. Read/write **MsoTriState** .
 

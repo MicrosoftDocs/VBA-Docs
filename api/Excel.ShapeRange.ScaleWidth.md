@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.ScaleWidth Method (Excel)
+title: ShapeRange.ScaleWidth method (Excel)
 keywords: vbaxl10.chm640091
 f1_keywords:
 - vbaxl10.chm640091
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.ScaleWidth Method (Excel)
+# ShapeRange.ScaleWidth method (Excel)
 
 Scales the width of the shape by a specified factor. For pictures and OLE objects, you can indicate whether you want to scale the shape relative to the original or the current size. Shapes other than pictures and OLE objects are always scaled relative to their current width.
 

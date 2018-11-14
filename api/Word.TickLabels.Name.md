@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Name Property (Word)
+title: TickLabels.Name property (Word)
 keywords: vbawd10.chm167051267
 f1_keywords:
 - vbawd10.chm167051267
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Name Property (Word)
+# TickLabels.Name property (Word)
 
 Returns the name of the object. Read-only  **String** .
 

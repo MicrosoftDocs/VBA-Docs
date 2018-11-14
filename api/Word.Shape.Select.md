@@ -1,5 +1,5 @@
 ---
-title: Shape.Select Method (Word)
+title: Shape.Select method (Word)
 keywords: vbawd10.chm161480725
 f1_keywords:
 - vbawd10.chm161480725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Select Method (Word)
+# Shape.Select method (Word)
 
 Selects the specified shape.
 

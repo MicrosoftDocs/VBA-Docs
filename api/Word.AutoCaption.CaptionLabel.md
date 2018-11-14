@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.CaptionLabel Property (Word)
+title: AutoCaption.CaptionLabel property (Word)
 keywords: vbawd10.chm159055875
 f1_keywords:
 - vbawd10.chm159055875
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaption.CaptionLabel Property (Word)
+# AutoCaption.CaptionLabel property (Word)
 
 Returns or sets the caption label ("Figure," "Table," or "Equation," for example) of the specified caption. Read/write  **Variant** .
 

@@ -1,5 +1,5 @@
 ---
-title: Axis.MinimumScale Property (Excel)
+title: Axis.MinimumScale property (Excel)
 keywords: vbaxl10.chm561090
 f1_keywords:
 - vbaxl10.chm561090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.MinimumScale Property (Excel)
+# Axis.MinimumScale property (Excel)
 
 Returns or sets the minimum value on the value axis. Read/write  **Double** .
 

@@ -17,7 +17,7 @@ Specifies horizontal alignment type values to pass to the  **[Selection.Align](V
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visHorzAlignCenter**|2|Align to the center of the primary selected shape.|
 | **visHorzAlignLeft**|1|Align to the left of the primary selected shape.|

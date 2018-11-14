@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Vertices Property (Excel)
+title: ShapeRange.Vertices property (Excel)
 keywords: vbaxl10.chm640120
 f1_keywords:
 - vbaxl10.chm640120
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Vertices Property (Excel)
+# ShapeRange.Vertices property (Excel)
 
 Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. You can use the array returned by this property as an argument to the  **[AddCurve](Excel.Shapes.AddCurve.md)** method or **[AddPolyLine](Excel.Shapes.AddPolyline.md)** method. Read-only **Variant** .
 

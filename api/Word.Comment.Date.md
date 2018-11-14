@@ -1,5 +1,5 @@
 ---
-title: Comment.Date Property (Word)
+title: Comment.Date property (Word)
 keywords: vbawd10.chm154993650
 f1_keywords:
 - vbawd10.chm154993650
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Comment.Date Property (Word)
+# Comment.Date property (Word)
 
 Returns a  **Date** that represents the date and time that a comment was inserted. Read-only.
 

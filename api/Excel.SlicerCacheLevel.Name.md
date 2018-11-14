@@ -1,5 +1,5 @@
 ---
-title: SlicerCacheLevel.Name Property (Excel)
+title: SlicerCacheLevel.Name property (Excel)
 keywords: vbaxl10.chm901076
 f1_keywords:
 - vbaxl10.chm901076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCacheLevel.Name Property (Excel)
+# SlicerCacheLevel.Name property (Excel)
 
 Returns the MDX unique name of OLAP hierarchy level represented by the object.
 

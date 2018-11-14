@@ -1,5 +1,5 @@
 ---
-title: Options.UpdateFieldsWithTrackedChangesAtPrint Property (Word)
+title: Options.UpdateFieldsWithTrackedChangesAtPrint property (Word)
 keywords: vbawd10.chm162988535
 f1_keywords:
 - vbawd10.chm162988535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.UpdateFieldsWithTrackedChangesAtPrint Property (Word)
+# Options.UpdateFieldsWithTrackedChangesAtPrint property (Word)
 
  **True** if Word allows fields containing tracked changes to update before printing. Read/write.
 

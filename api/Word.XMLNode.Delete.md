@@ -1,5 +1,5 @@
 ---
-title: XMLNode.Delete Method (Word)
+title: XMLNode.Delete method (Word)
 keywords: vbawd10.chm37748836
 f1_keywords:
 - vbawd10.chm37748836
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.Delete Method (Word)
+# XMLNode.Delete method (Word)
 
 Deletes the specified XML element from an XML document.
 

@@ -1,5 +1,5 @@
 ---
-title: WdApplyQuickStyleSets Enumeration (Word)
+title: WdApplyQuickStyleSets enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdApplyQuickStyleSets
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdApplyQuickStyleSets Enumeration (Word)
+# WdApplyQuickStyleSets enumeration (Word)
 
 Specifies a Quick Style set to apply to the document.
 

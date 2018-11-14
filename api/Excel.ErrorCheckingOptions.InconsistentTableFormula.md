@@ -1,5 +1,5 @@
 ---
-title: ErrorCheckingOptions.InconsistentTableFormula Property (Excel)
+title: ErrorCheckingOptions.InconsistentTableFormula property (Excel)
 keywords: vbaxl10.chm698083
 f1_keywords:
 - vbaxl10.chm698083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorCheckingOptions.InconsistentTableFormula Property (Excel)
+# ErrorCheckingOptions.InconsistentTableFormula property (Excel)
 
 Returns  **True** if the table formula is inconsistent. Read/write **Boolean** .
 

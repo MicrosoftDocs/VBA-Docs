@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertParagraphAfter Method (Word)
+title: Selection.InsertParagraphAfter method (Word)
 keywords: vbawd10.chm158662817
 f1_keywords:
 - vbawd10.chm158662817
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertParagraphAfter Method (Word)
+# Selection.InsertParagraphAfter method (Word)
 
 Inserts a paragraph mark after a selection.
 

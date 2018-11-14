@@ -1,5 +1,5 @@
 ---
-title: Options.InsertedTextColor Property (Word)
+title: Options.InsertedTextColor property (Word)
 keywords: vbawd10.chm162988092
 f1_keywords:
 - vbawd10.chm162988092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.InsertedTextColor Property (Word)
+# Options.InsertedTextColor property (Word)
 
 Returns or sets the color of text that is inserted while change tracking is enabled. Read/write  **WdColorIndex** .
 

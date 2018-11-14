@@ -1,5 +1,5 @@
 ---
-title: Frameset.FramesetBorderColor Property (Word)
+title: Frameset.FramesetBorderColor property (Word)
 keywords: vbawd10.chm165806101
 f1_keywords:
 - vbawd10.chm165806101
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Frameset.FramesetBorderColor Property (Word)
+# Frameset.FramesetBorderColor property (Word)
 
 Returns or sets the color of the frame borders on the specified frames page. Read/write.
 

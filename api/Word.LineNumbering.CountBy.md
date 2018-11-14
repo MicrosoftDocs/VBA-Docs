@@ -1,5 +1,5 @@
 ---
-title: LineNumbering.CountBy Property (Word)
+title: LineNumbering.CountBy property (Word)
 keywords: vbawd10.chm158466151
 f1_keywords:
 - vbawd10.chm158466151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LineNumbering.CountBy Property (Word)
+# LineNumbering.CountBy property (Word)
 
 Returns or sets the numeric increment for line numbers. Read/write  **Long** .
 

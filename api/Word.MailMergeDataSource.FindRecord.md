@@ -1,5 +1,5 @@
 ---
-title: MailMergeDataSource.FindRecord Method (Word)
+title: MailMergeDataSource.FindRecord method (Word)
 keywords: vbawd10.chm152895590
 f1_keywords:
 - vbawd10.chm152895590
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMergeDataSource.FindRecord Method (Word)
+# MailMergeDataSource.FindRecord method (Word)
 
 Searches the contents of the specified mail merge data source for text in a particular field. Returns  **True** if the search text is found. **Boolean** .
 

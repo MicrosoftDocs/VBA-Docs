@@ -1,5 +1,5 @@
 ---
-title: Application.Volatile Method (Excel)
+title: Application.Volatile method (Excel)
 keywords: vbaxl10.chm133230
 f1_keywords:
 - vbaxl10.chm133230
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Volatile Method (Excel)
+# Application.Volatile method (Excel)
 
 Marks a user-defined function as volatile. A volatile function must be recalculated whenever calculation occurs in any cells on the worksheet. A nonvolatile function is recalculated only when the input variables change. This method has no effect if it's not inside a user-defined function used to calculate a worksheet cell.
 

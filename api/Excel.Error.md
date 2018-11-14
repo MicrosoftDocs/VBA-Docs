@@ -1,5 +1,5 @@
 ---
-title: Error Object (Excel)
+title: Error object (Excel)
 keywords: vbaxl10.chm701072
 f1_keywords:
 - vbaxl10.chm701072
@@ -10,7 +10,7 @@ ms.assetid: bc8c4e3c-c831-58fd-c367-4246ad510ba9
 ms.date: 06/08/2017
 ---
 
-# Error Object (Excel)
+# Error object (Excel)
 
 Represents a spreadsheet error for a range.
 

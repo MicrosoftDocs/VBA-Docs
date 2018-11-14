@@ -1,5 +1,5 @@
 ---
-title: AutoCaptions.Item Method (Word)
+title: AutoCaptions.Item method (Word)
 keywords: vbawd10.chm158990336
 f1_keywords:
 - vbawd10.chm158990336
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaptions.Item Method (Word)
+# AutoCaptions.Item method (Word)
 
 Returns an individual  **AutoCaption** object in a collection.
 

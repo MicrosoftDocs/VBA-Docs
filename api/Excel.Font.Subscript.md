@@ -1,5 +1,5 @@
 ---
-title: Font.Subscript Property (Excel)
+title: Font.Subscript property (Excel)
 keywords: vbaxl10.chm559084
 f1_keywords:
 - vbaxl10.chm559084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Subscript Property (Excel)
+# Font.Subscript property (Excel)
 
  **True** if the font is formatted as subscript. **False** by default. Read/write **Variant** .
 

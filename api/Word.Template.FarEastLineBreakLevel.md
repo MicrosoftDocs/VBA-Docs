@@ -1,5 +1,5 @@
 ---
-title: Template.FarEastLineBreakLevel Property (Word)
+title: Template.FarEastLineBreakLevel property (Word)
 keywords: vbawd10.chm157941774
 f1_keywords:
 - vbawd10.chm157941774
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Template.FarEastLineBreakLevel Property (Word)
+# Template.FarEastLineBreakLevel property (Word)
 
 Returns or sets the line break control level for the specified document. Read/write  **WdFarEastLineBreakLevel** .
 

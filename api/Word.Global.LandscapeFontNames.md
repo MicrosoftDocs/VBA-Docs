@@ -1,5 +1,5 @@
 ---
-title: Global.LandscapeFontNames Property (Word)
+title: Global.LandscapeFontNames property (Word)
 keywords: vbawd10.chm163119116
 f1_keywords:
 - vbawd10.chm163119116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.LandscapeFontNames Property (Word)
+# Global.LandscapeFontNames property (Word)
 
 Returns a  **FontNames** object that includes the names of all the available landscape fonts.
 

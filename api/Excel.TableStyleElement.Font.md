@@ -1,5 +1,5 @@
 ---
-title: TableStyleElement.Font Property (Excel)
+title: TableStyleElement.Font property (Excel)
 keywords: vbaxl10.chm835076
 f1_keywords:
 - vbaxl10.chm835076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableStyleElement.Font Property (Excel)
+# TableStyleElement.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object. Read-only.
 

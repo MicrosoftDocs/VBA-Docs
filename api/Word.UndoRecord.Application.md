@@ -1,5 +1,5 @@
 ---
-title: UndoRecord.Application Property (Word)
+title: UndoRecord.Application property (Word)
 keywords: vbawd10.chm56099816
 f1_keywords:
 - vbawd10.chm56099816
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UndoRecord.Application Property (Word)
+# UndoRecord.Application property (Word)
 
 Returns an [Application](Word.Application.md) object that represents the Word application. Read-only.
 

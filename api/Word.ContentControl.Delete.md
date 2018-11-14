@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Delete Method (Word)
+title: ContentControl.Delete method (Word)
 keywords: vbawd10.chm266534920
 f1_keywords:
 - vbawd10.chm266534920
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Delete Method (Word)
+# ContentControl.Delete method (Word)
 
 Deletes the specified content control and the contents of the content control.
 

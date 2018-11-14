@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindows.Open Method (Excel)
+title: ProtectedViewWindows.Open method (Excel)
 keywords: vbaxl10.chm913077
 f1_keywords:
 - vbaxl10.chm913077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindows.Open Method (Excel)
+# ProtectedViewWindows.Open method (Excel)
 
 Opens the specified workbook in a new  **Protected View** window.
 

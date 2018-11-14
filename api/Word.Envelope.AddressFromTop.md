@@ -1,5 +1,5 @@
 ---
-title: Envelope.AddressFromTop Property (Word)
+title: Envelope.AddressFromTop property (Word)
 keywords: vbawd10.chm152567822
 f1_keywords:
 - vbawd10.chm152567822
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Envelope.AddressFromTop Property (Word)
+# Envelope.AddressFromTop property (Word)
 
 Returns or sets the distance (in points) between the top edge of the envelope and the delivery address. Read/write  **Single** .
 

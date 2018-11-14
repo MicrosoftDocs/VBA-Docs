@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Shadow Property (Excel)
+title: OLEObject.Shadow property (Excel)
 keywords: vbaxl10.chm416075
 f1_keywords:
 - vbaxl10.chm416075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Shadow Property (Excel)
+# OLEObject.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

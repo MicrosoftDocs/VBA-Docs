@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.SubAddress Property (Excel)
+title: Hyperlink.SubAddress property (Excel)
 keywords: vbaxl10.chm536077
 f1_keywords:
 - vbaxl10.chm536077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.SubAddress Property (Excel)
+# Hyperlink.SubAddress property (Excel)
 
 Returns or sets the location within the document associated with the hyperlink. Read/write  **String** .
 

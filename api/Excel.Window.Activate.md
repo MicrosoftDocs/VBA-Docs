@@ -1,5 +1,5 @@
 ---
-title: Window.Activate Method (Excel)
+title: Window.Activate method (Excel)
 keywords: vbaxl10.chm356073
 f1_keywords:
 - vbaxl10.chm356073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Activate Method (Excel)
+# Window.Activate method (Excel)
 
 Brings the window to the front of the z-order. 
 

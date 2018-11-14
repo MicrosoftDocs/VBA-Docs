@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
+title: Options.AutoFormatAsYouTypeApplyBulletedLists property (Word)
 keywords: vbawd10.chm162988294
 f1_keywords:
 - vbawd10.chm162988294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeApplyBulletedLists Property (Word)
+# Options.AutoFormatAsYouTypeApplyBulletedLists property (Word)
 
  **True** if bullet characters (such as asterisks, hyphens, and greater-than signs) are replaced with bullets from the **Bullets And Numbering** dialog box (**Format** menu) as you type. Read/write **Boolean** .
 

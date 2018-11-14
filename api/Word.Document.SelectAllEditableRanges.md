@@ -1,5 +1,5 @@
 ---
-title: Document.SelectAllEditableRanges Method (Word)
+title: Document.SelectAllEditableRanges method (Word)
 keywords: vbawd10.chm158007764
 f1_keywords:
 - vbawd10.chm158007764
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.SelectAllEditableRanges Method (Word)
+# Document.SelectAllEditableRanges method (Word)
 
 Selects all ranges for which the specified user or group of users has permission to modify.
 
@@ -29,7 +29,7 @@ Selects all ranges for which the specified user or group of users has permission
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's e-mail alias (if in the same domain), an e-mail address, or a **WdEditorType** constant that represents a group of users. If omitted, only ranges for which all users have permissions will be selected.|
+| _EditorID_|Optional| **Variant**|Can be either a  **String** that represents the user's email alias (if in the same domain), an email address, or a **WdEditorType** constant that represents a group of users. If omitted, only ranges for which all users have permissions will be selected.|
 
 ## Example
 

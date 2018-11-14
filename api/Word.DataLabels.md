@@ -1,5 +1,5 @@
 ---
-title: DataLabels Object (Word)
+title: DataLabels object (Word)
 ms.prod: word
 api_name:
 - Word.DataLabels
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataLabels Object (Word)
+# DataLabels object (Word)
 
 A collection of all the  **[DataLabel](Word.DataLabel.md)** objects for the specified series.
 

@@ -499,7 +499,7 @@ Represent a single column in the  **ModelTable** object. Used when programmatica
 |:-----|:-----|:-----|:-----|
 | **Application**|Read-only| **Application**|Returns an object that represents the Microsoft Excel application.|
 | **Creator**|Read-only| **xlCreator**|Returns a 32-bit integer that indicates the application in which the specified object was created.|
-| **DataType**|Read-only| **XlParameterDataType**|Returns the data type of the column.|
+| **DataType**|Read-only| **xlParameterDataType**|Returns the data type of the column.|
 | **Name**|Read-only| **String**|Returns the name of the  **ModelTableColumn** object.|
 | **Parent**|Read-only| **Object**|Returns an  **Object** that represents the parent object of the specified **ModelTableColumn** object.|
 

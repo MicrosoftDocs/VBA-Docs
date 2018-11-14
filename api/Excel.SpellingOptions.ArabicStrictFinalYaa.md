@@ -1,5 +1,5 @@
 ---
-title: SpellingOptions.ArabicStrictFinalYaa Property (Excel)
+title: SpellingOptions.ArabicStrictFinalYaa property (Excel)
 keywords: vbaxl10.chm717086
 f1_keywords:
 - vbaxl10.chm717086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingOptions.ArabicStrictFinalYaa Property (Excel)
+# SpellingOptions.ArabicStrictFinalYaa property (Excel)
 
 Returns or sets whether the spelling checker uses rules regarding Arabic words ending with the letter yaa. Read/write
 

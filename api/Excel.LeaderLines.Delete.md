@@ -1,5 +1,5 @@
 ---
-title: LeaderLines.Delete Method (Excel)
+title: LeaderLines.Delete method (Excel)
 keywords: vbaxl10.chm606074
 f1_keywords:
 - vbaxl10.chm606074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LeaderLines.Delete Method (Excel)
+# LeaderLines.Delete method (Excel)
 
 Deletes the object.
 

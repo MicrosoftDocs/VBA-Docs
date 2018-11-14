@@ -1,5 +1,5 @@
 ---
-title: Endnotes.NumberingRule Property (Word)
+title: Endnotes.NumberingRule property (Word)
 keywords: vbawd10.chm155254887
 f1_keywords:
 - vbawd10.chm155254887
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Endnotes.NumberingRule Property (Word)
+# Endnotes.NumberingRule property (Word)
 
 Returns or sets the way endnotes are numbered after page breaks or section breaks. Read/write  **[WdNumberingRule](Word.WdNumberingRule.md)** .
 

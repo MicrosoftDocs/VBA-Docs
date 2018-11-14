@@ -1,5 +1,5 @@
 ---
-title: ContentControl.XMLMapping Property (Word)
+title: ContentControl.XMLMapping property (Word)
 keywords: vbawd10.chm266534916
 f1_keywords:
 - vbawd10.chm266534916
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.XMLMapping Property (Word)
+# ContentControl.XMLMapping property (Word)
 
 Returns an  **[XMLMapping](Word.XMLMapping.md)** object that represents the mapping of a content control to XML data in the data store of a document. Read-only.
 

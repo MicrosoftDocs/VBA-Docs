@@ -108,7 +108,7 @@ namespace AttachFileAddIn
  
             // Retrieve the account that has the specific SMTP address.
             Outlook.Account account = GetAccountForEmailAddress(application, smtpAddress);
-            // Use this account to send the e-mail.
+            // Use this account to send the email.
             newMail.SendUsingAccount = account;
             newMail.Send();
         }
@@ -194,7 +194,7 @@ Public Class ThisAddIn
  
         ' Retrieve the account that has the specific SMTP address.
         Dim account As Outlook.Account = GetAccountForEmailAddress(application, smtpAddress)
-        ' Use this account to send the e-mail.
+        ' Use this account to send the email.
         newMail.SendUsingAccount = account
         newMail.Send()
     End Sub

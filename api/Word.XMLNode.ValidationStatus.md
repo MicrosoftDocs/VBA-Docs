@@ -1,5 +1,5 @@
 ---
-title: XMLNode.ValidationStatus Property (Word)
+title: XMLNode.ValidationStatus property (Word)
 keywords: vbawd10.chm37748758
 f1_keywords:
 - vbawd10.chm37748758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.ValidationStatus Property (Word)
+# XMLNode.ValidationStatus property (Word)
 
  Returns a **WdXMLValidationStatus** constant that represents whether an element or attribute is valid according to the attached schema.
 

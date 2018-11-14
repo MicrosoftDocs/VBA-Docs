@@ -1,5 +1,5 @@
 ---
-title: Cell Object (Word)
+title: Cell object (Word)
 keywords: vbawd10.chm2382
 f1_keywords:
 - vbawd10.chm2382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell Object (Word)
+# Cell object (Word)
 
 Represents a single table cell. The  **Cell** object is a member of the **[Cells](Word.cells.md)** collection. The **Cells** collection represents all the cells in the specified object.
 

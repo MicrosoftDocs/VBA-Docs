@@ -1,5 +1,5 @@
 ---
-title: Chart.Elevation Property (Excel)
+title: Chart.Elevation property (Excel)
 keywords: vbaxl10.chm149106
 f1_keywords:
 - vbaxl10.chm149106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Elevation Property (Excel)
+# Chart.Elevation property (Excel)
 
 Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long** .
 

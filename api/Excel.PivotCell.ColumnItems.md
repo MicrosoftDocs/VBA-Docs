@@ -1,5 +1,5 @@
 ---
-title: PivotCell.ColumnItems Property (Excel)
+title: PivotCell.ColumnItems property (Excel)
 keywords: vbaxl10.chm692079
 f1_keywords:
 - vbaxl10.chm692079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.ColumnItems Property (Excel)
+# PivotCell.ColumnItems property (Excel)
 
 Returns a  **[PivotItemList](Excel.PivotItemList.md)** collection that corresponds to the items on the column axis that represent the selected range.
 

@@ -1,5 +1,5 @@
 ---
-title: Top10.SetLastPriority Method (Excel)
+title: Top10.SetLastPriority method (Excel)
 keywords: vbaxl10.chm822085
 f1_keywords:
 - vbaxl10.chm822085
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10.SetLastPriority Method (Excel)
+# Top10.SetLastPriority method (Excel)
 
 Sets the evaluation order for this conditional formatting rule so it is evaluated after all other rules on the worksheet.
 

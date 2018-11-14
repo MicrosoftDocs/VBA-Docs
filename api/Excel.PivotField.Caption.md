@@ -1,5 +1,5 @@
 ---
-title: PivotField.Caption Property (Excel)
+title: PivotField.Caption property (Excel)
 keywords: vbaxl10.chm240124
 f1_keywords:
 - vbaxl10.chm240124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotField.Caption Property (Excel)
+# PivotField.Caption property (Excel)
 
 Returns a  **String** value that represents the label text for the pivot field.
 

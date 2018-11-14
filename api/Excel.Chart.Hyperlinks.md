@@ -1,5 +1,5 @@
 ---
-title: Chart.Hyperlinks Property (Excel)
+title: Chart.Hyperlinks property (Excel)
 keywords: vbaxl10.chm149118
 f1_keywords:
 - vbaxl10.chm149118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Hyperlinks Property (Excel)
+# Chart.Hyperlinks property (Excel)
 
 Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the hyperlinks for the chart.
 

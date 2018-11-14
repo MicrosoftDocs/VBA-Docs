@@ -1,5 +1,5 @@
 ---
-title: Selection.Shading Property (Word)
+title: Selection.Shading property (Word)
 keywords: vbawd10.chm158662717
 f1_keywords:
 - vbawd10.chm158662717
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Shading Property (Word)
+# Selection.Shading property (Word)
 
 Returns a  **[Shading](Word.Shading.md)** object that refers to the shading formatting for the specified selection.
 

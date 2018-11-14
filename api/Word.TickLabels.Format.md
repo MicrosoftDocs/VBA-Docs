@@ -1,5 +1,5 @@
 ---
-title: TickLabels.Format Property (Word)
+title: TickLabels.Format property (Word)
 keywords: vbawd10.chm167051288
 f1_keywords:
 - vbawd10.chm167051288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TickLabels.Format Property (Word)
+# TickLabels.Format property (Word)
 
 Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
 

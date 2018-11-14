@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Orientation Property (Excel)
+title: DisplayUnitLabel.Orientation property (Excel)
 keywords: vbaxl10.chm673084
 f1_keywords:
 - vbaxl10.chm673084
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Orientation Property (Excel)
+# DisplayUnitLabel.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 

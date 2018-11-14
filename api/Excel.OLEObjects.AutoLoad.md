@@ -1,5 +1,5 @@
 ---
-title: OLEObjects.AutoLoad Property (Excel)
+title: OLEObjects.AutoLoad property (Excel)
 keywords: vbaxl10.chm421073
 f1_keywords:
 - vbaxl10.chm421073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObjects.AutoLoad Property (Excel)
+# OLEObjects.AutoLoad property (Excel)
 
  **True** if the OLE object is automatically loaded when the workbook that contains it is opened. Read/write **Boolean** .
 

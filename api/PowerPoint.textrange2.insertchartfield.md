@@ -23,7 +23,7 @@ This method applies only to data labels in a chart. Calling this method on any o
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChartFieldType_|Required|[MsoChartFieldType](./overview/Library-Reference/msochartfieldtype-enumeration-office.md)|Specifies the type of chart field to insert into a data label.|
 | _Formula_|Optional|**string**|Specifies a cell (or range) if the  **MsoChartFieldFormula** constant is passed in for the _ChartFieldType_ parameter.|

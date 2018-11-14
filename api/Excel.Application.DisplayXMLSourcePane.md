@@ -1,5 +1,5 @@
 ---
-title: Application.DisplayXMLSourcePane Method (Excel)
+title: Application.DisplayXMLSourcePane method (Excel)
 keywords: vbaxl10.chm133294
 f1_keywords:
 - vbaxl10.chm133294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.DisplayXMLSourcePane Method (Excel)
+# Application.DisplayXMLSourcePane method (Excel)
 
 Opens the  **XML Source** task pane and displays the XML map specified by the _XmlMap_ argument.
 

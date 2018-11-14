@@ -1,5 +1,5 @@
 ---
-title: ChartBorder.Creator Property (Word)
+title: ChartBorder.Creator property (Word)
 keywords: vbawd10.chm61014165
 f1_keywords:
 - vbawd10.chm61014165
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartBorder.Creator Property (Word)
+# ChartBorder.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

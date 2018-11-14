@@ -1,5 +1,5 @@
 ---
-title: Pane.ScrollColumn Property (Excel)
+title: Pane.ScrollColumn property (Excel)
 keywords: vbaxl10.chm360076
 f1_keywords:
 - vbaxl10.chm360076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.ScrollColumn Property (Excel)
+# Pane.ScrollColumn property (Excel)
 
 Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long** .
 

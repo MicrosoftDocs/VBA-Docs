@@ -1,5 +1,5 @@
 ---
-title: Cells.DistributeWidth Method (Word)
+title: Cells.DistributeWidth method (Word)
 keywords: vbawd10.chm155844815
 f1_keywords:
 - vbawd10.chm155844815
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cells.DistributeWidth Method (Word)
+# Cells.DistributeWidth method (Word)
 
 Adjusts the width of the specified cells so that they are equal.
 

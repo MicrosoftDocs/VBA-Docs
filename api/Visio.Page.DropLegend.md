@@ -47,7 +47,7 @@ The value of the  _populateFlags_ parameter must be one of the following **VisLe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLegendPopulate**|0|Insert the legend and populate it.|
 | **visLegendNoContents**|1|Insert the legend but do not populate it.|

@@ -1,5 +1,5 @@
 ---
-title: Range.ShowErrors Method (Excel)
+title: Range.ShowErrors method (Excel)
 keywords: vbaxl10.chm144197
 f1_keywords:
 - vbaxl10.chm144197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.ShowErrors Method (Excel)
+# Range.ShowErrors method (Excel)
 
 Draws tracer arrows through the precedents tree to the cell that's the source of the error, and returns the range that contains that cell.
 

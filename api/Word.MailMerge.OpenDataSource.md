@@ -1,5 +1,5 @@
 ---
-title: MailMerge.OpenDataSource Method (Word)
+title: MailMerge.OpenDataSource method (Word)
 keywords: vbawd10.chm153092208
 f1_keywords:
 - vbawd10.chm153092208
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailMerge.OpenDataSource Method (Word)
+# MailMerge.OpenDataSource method (Word)
 
 Attaches a data source to the specified document, which becomes a main document if it is not one already.
 

@@ -20,7 +20,7 @@ Used to define [conditional compiler constants](../../Glossary/vbe-glossary.md#c
 The **#Const** compiler directive syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _constname_|Required;  **Variant** (**String**). Name of the [constant](../../Glossary/vbe-glossary.md#constant); follows standard [variable](../../Glossary/vbe-glossary.md#variable) naming conventions.|
 | _expression_|Required. Literal, other conditional compiler constant, or any combination that includes any or all arithmetic or logical operators except  **Is**.|

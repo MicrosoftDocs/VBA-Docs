@@ -1,5 +1,5 @@
 ---
-title: Application.UserControl Property (Word)
+title: Application.UserControl property (Word)
 keywords: vbawd10.chm158335077
 f1_keywords:
 - vbawd10.chm158335077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserControl Property (Word)
+# Application.UserControl property (Word)
 
  **True** if the document or application was created or opened by the user. Read-only **Boolean** .
 

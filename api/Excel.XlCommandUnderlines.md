@@ -1,5 +1,5 @@
 ---
-title: XlCommandUnderlines Enumeration (Excel)
+title: xlCommandUnderlines enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCommandUnderlines
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlCommandUnderlines Enumeration (Excel)
+# xlCommandUnderlines enumeration (Excel)
 
 Specifies the state of the command underlines in Microsoft Excel for the Macintosh.
 

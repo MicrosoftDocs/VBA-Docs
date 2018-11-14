@@ -1,5 +1,5 @@
 ---
-title: Window.Left Property (Excel)
+title: Window.Left property (Excel)
 keywords: vbaxl10.chm356098
 f1_keywords:
 - vbaxl10.chm356098
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.Left Property (Excel)
+# Window.Left property (Excel)
 
 Returns or sets a  **Double** value that represents the distance, in points, from the left edge of the client area to the left edge of the window.
 

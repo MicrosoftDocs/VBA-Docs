@@ -1,5 +1,5 @@
 ---
-title: PivotItemList.Parent Property (Excel)
+title: PivotItemList.Parent property (Excel)
 keywords: vbaxl10.chm720075
 f1_keywords:
 - vbaxl10.chm720075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotItemList.Parent Property (Excel)
+# PivotItemList.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

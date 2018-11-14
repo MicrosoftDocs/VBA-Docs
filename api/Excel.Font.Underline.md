@@ -1,5 +1,5 @@
 ---
-title: Font.Underline Property (Excel)
+title: Font.Underline property (Excel)
 keywords: vbaxl10.chm559086
 f1_keywords:
 - vbaxl10.chm559086
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Underline Property (Excel)
+# Font.Underline property (Excel)
 
 Returns or sets the type of underline applied to the font. Read/write **Variant**.
 
@@ -25,7 +25,7 @@ Returns or sets the type of underline applied to the font. Read/write **Variant*
 
 ## Remarks
 
-Can be one of the **[XlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
+Can be one of the **[xlUnderlineStyle](Excel.XlUnderlineStyle.md)** constants.
 
 ## Example
 

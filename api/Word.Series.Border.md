@@ -1,5 +1,5 @@
 ---
-title: Series.Border Property (Word)
+title: Series.Border property (Word)
 keywords: vbawd10.chm123732096
 f1_keywords:
 - vbawd10.chm123732096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Series.Border Property (Word)
+# Series.Border property (Word)
 
 Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
 

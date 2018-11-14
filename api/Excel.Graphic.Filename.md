@@ -1,5 +1,5 @@
 ---
-title: Graphic.Filename Property (Excel)
+title: Graphic.Filename property (Excel)
 keywords: vbaxl10.chm694080
 f1_keywords:
 - vbaxl10.chm694080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Graphic.Filename Property (Excel)
+# Graphic.Filename property (Excel)
 
 Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write  **String** .
 

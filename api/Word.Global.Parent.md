@@ -1,5 +1,5 @@
 ---
-title: Global.Parent Property (Word)
+title: Global.Parent property (Word)
 keywords: vbawd10.chm163120106
 f1_keywords:
 - vbawd10.chm163120106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.Parent Property (Word)
+# Global.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Global** object.
 

@@ -1,5 +1,5 @@
 ---
-title: Document.UpdateStyles Method (Word)
+title: Document.UpdateStyles method (Word)
 keywords: vbawd10.chm158007423
 f1_keywords:
 - vbawd10.chm158007423
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.UpdateStyles Method (Word)
+# Document.UpdateStyles method (Word)
 
 Copies all styles from the attached template into the document, overwriting any existing styles in the document that have the same name.
 

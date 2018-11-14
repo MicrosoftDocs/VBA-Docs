@@ -1,5 +1,5 @@
 ---
-title: OLEFormat.Activate Method (Word)
+title: OLEFormat.Activate method (Word)
 keywords: vbawd10.chm154337384
 f1_keywords:
 - vbawd10.chm154337384
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat.Activate Method (Word)
+# OLEFormat.Activate method (Word)
 
 Activates the specified  **OLEFormat** object.
 

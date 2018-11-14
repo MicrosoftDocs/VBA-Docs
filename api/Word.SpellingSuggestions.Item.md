@@ -1,5 +1,5 @@
 ---
-title: SpellingSuggestions.Item Method (Word)
+title: SpellingSuggestions.Item method (Word)
 keywords: vbawd10.chm162136064
 f1_keywords:
 - vbawd10.chm162136064
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SpellingSuggestions.Item Method (Word)
+# SpellingSuggestions.Item method (Word)
 
 Returns an individual  **SpellingSuggestion** object in a collection.
 

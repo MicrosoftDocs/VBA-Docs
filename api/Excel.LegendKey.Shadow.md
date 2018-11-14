@@ -1,5 +1,5 @@
 ---
-title: LegendKey.Shadow Property (Excel)
+title: LegendKey.Shadow property (Excel)
 keywords: vbaxl10.chm590094
 f1_keywords:
 - vbaxl10.chm590094
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.Shadow Property (Excel)
+# LegendKey.Shadow property (Excel)
 
 Returns or sets a  **Boolean** value that determines if the object has a shadow.
 

@@ -1,5 +1,5 @@
 ---
-title: Options.ShowDevTools Property (Word)
+title: Options.ShowDevTools property (Word)
 keywords: vbawd10.chm162988502
 f1_keywords:
 - vbawd10.chm162988502
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.ShowDevTools Property (Word)
+# Options.ShowDevTools property (Word)
 
 Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write.
 

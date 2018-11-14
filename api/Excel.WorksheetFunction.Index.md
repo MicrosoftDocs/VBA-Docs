@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Index Method (Excel)
+title: WorksheetFunction.Index method (Excel)
 keywords: vbaxl10.chm137090
 f1_keywords:
 - vbaxl10.chm137090
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Index Method (Excel)
+# WorksheetFunction.Index method (Excel)
 
 Returns a value or the reference to a value from within a table or range. There are two forms of the INDEX function: the array form and the reference form.
 

@@ -1,5 +1,5 @@
 ---
-title: ContentControl.AllowInsertDeleteSection Property (Word)
+title: ContentControl.AllowInsertDeleteSection property (Word)
 keywords: vbawd10.chm266534948
 f1_keywords:
 - vbawd10.chm266534948
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.AllowInsertDeleteSection Property (Word)
+# ContentControl.AllowInsertDeleteSection property (Word)
 
 Gets or sets whether users can add or remove sections from the specified repeating section content control by using the user interface.
 

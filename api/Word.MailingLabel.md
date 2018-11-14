@@ -1,5 +1,5 @@
 ---
-title: MailingLabel Object (Word)
+title: MailingLabel object (Word)
 keywords: vbawd10.chm2327
 f1_keywords:
 - vbawd10.chm2327
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailingLabel Object (Word)
+# MailingLabel object (Word)
 
 Represents a mailing label.
 

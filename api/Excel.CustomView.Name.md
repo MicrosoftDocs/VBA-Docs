@@ -1,5 +1,5 @@
 ---
-title: CustomView.Name Property (Excel)
+title: CustomView.Name property (Excel)
 keywords: vbaxl10.chm508073
 f1_keywords:
 - vbaxl10.chm508073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomView.Name Property (Excel)
+# CustomView.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

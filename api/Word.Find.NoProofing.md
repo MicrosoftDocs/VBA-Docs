@@ -1,5 +1,5 @@
 ---
-title: Find.NoProofing Property (Word)
+title: Find.NoProofing property (Word)
 keywords: vbawd10.chm162529314
 f1_keywords:
 - vbawd10.chm162529314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.NoProofing Property (Word)
+# Find.NoProofing property (Word)
 
  **True** if Microsoft Word finds or replaces text that the spelling and grammar checker ignores. Read/write **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Name.MacroType Property (Excel)
+title: Name.MacroType property (Excel)
 keywords: vbaxl10.chm490078
 f1_keywords:
 - vbaxl10.chm490078
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Name.MacroType Property (Excel)
+# Name.MacroType property (Excel)
 
-Returns or sets what the name refers to. Read/write  **[XlXLMMacroType](Excel.XlXLMMacroType.md)** .
+Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.XlXLMMacroType.md)** .
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets what the name refers to. Read/write  **[XlXLMMacroType](Excel.Xl
 
 
 
-| **XlXLMMacroType** can be one of these **XlXLMMacroType** constants.|
+| **xlXLMMacroType** can be one of these **xlXLMMacroType** constants.|
 | **xlCommand** . The name refers to a user-defined macro.|
 | **xlFunction** . The name refers to a user-defined function.|
 | **xlNotXLM** . The name doesn't refer to a function or macro.|

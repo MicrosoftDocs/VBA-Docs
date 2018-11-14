@@ -1,5 +1,5 @@
 ---
-title: Document.Paragraphs Property (Word)
+title: Document.Paragraphs property (Word)
 keywords: vbawd10.chm158007312
 f1_keywords:
 - vbawd10.chm158007312
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Paragraphs Property (Word)
+# Document.Paragraphs property (Word)
 
 Returns a  **Paragraphs** collection that represents all the paragraphs in the specified document. Read-only.
 

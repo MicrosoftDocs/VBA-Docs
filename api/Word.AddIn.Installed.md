@@ -1,5 +1,5 @@
 ---
-title: AddIn.Installed Property (Word)
+title: AddIn.Installed property (Word)
 keywords: vbawd10.chm159252484
 f1_keywords:
 - vbawd10.chm159252484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIn.Installed Property (Word)
+# AddIn.Installed property (Word)
 
  **True** if the specified add-in is installed (loaded). Add-ins that are loaded are selected in the **Templates and Add-ins** dialog box. Read/write **Boolean** .
 

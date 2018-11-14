@@ -1,5 +1,5 @@
 ---
-title: Shapes.AddCallout Method (Excel)
+title: Shapes.AddCallout method (Excel)
 keywords: vbaxl10.chm638077
 f1_keywords:
 - vbaxl10.chm638077
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.AddCallout Method (Excel)
+# Shapes.AddCallout method (Excel)
 
  Creates a borderless line callout. Returns a **[Shape](Excel.Shape.md)** object that represents the new callout.
 

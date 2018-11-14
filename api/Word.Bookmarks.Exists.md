@@ -1,5 +1,5 @@
 ---
-title: Bookmarks.Exists Method (Word)
+title: Bookmarks.Exists method (Word)
 keywords: vbawd10.chm157745158
 f1_keywords:
 - vbawd10.chm157745158
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Bookmarks.Exists Method (Word)
+# Bookmarks.Exists method (Word)
 
 Determines whether the specified bookmark exists. Returns  **True** if the bookmark exists.
 

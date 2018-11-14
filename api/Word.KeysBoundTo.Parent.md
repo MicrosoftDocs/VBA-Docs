@@ -1,5 +1,5 @@
 ---
-title: KeysBoundTo.Parent Property (Word)
+title: KeysBoundTo.Parent property (Word)
 keywords: vbawd10.chm160891882
 f1_keywords:
 - vbawd10.chm160891882
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# KeysBoundTo.Parent Property (Word)
+# KeysBoundTo.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **KeysBoundTo** object.
 

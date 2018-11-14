@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Creator Property (Word)
+title: GlowFormat.Creator property (Word)
 keywords: vbawd10.chm255853545
 f1_keywords:
 - vbawd10.chm255853545
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Creator Property (Word)
+# GlowFormat.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

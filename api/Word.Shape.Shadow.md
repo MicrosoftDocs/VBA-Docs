@@ -1,5 +1,5 @@
 ---
-title: Shape.Shadow Property (Word)
+title: Shape.Shadow property (Word)
 keywords: vbawd10.chm161480823
 f1_keywords:
 - vbawd10.chm161480823
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Shadow Property (Word)
+# Shape.Shadow property (Word)
 
 Returns a  **ShadowFormat** object that represents the shadow formatting for the specified shape.
 

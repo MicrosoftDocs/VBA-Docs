@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Mode_Sngl Method (Excel)
+title: WorksheetFunction.Mode_Sngl method (Excel)
 keywords: vbaxl10.chm137369
 f1_keywords:
 - vbaxl10.chm137369
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Mode_Sngl Method (Excel)
+# WorksheetFunction.Mode_Sngl method (Excel)
 
 Returns the most frequently occurring, or repetitive, value in an array or range of data.
 

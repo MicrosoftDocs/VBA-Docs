@@ -21,7 +21,7 @@ Left aligns a string within a string [variable](../../Glossary/vbe-glossary.md#v
 The  **LSet** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _stringvar_|Required. Name of string [variable](../../Glossary/vbe-glossary.md#variable).|
 | _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be left-aligned within _stringvar._|

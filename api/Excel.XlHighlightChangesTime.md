@@ -1,5 +1,5 @@
 ---
-title: XlHighlightChangesTime Enumeration (Excel)
+title: xlHighlightChangesTime enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlHighlightChangesTime
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlHighlightChangesTime Enumeration (Excel)
+# xlHighlightChangesTime enumeration (Excel)
 
 Specifies which set of changes is shown in a shared workbook.
 

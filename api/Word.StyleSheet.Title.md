@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Title Property (Word)
+title: StyleSheet.Title property (Word)
 keywords: vbawd10.chm166658054
 f1_keywords:
 - vbawd10.chm166658054
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Title Property (Word)
+# StyleSheet.Title property (Word)
 
 Returns or sets a  **String** representing the title of a Web style sheet. Read/write.
 

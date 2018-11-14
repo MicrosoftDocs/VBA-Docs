@@ -1,5 +1,5 @@
 ---
-title: Languages.Item Method (Word)
+title: Languages.Item method (Word)
 keywords: vbawd10.chm158203904
 f1_keywords:
 - vbawd10.chm158203904
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Languages.Item Method (Word)
+# Languages.Item method (Word)
 
 Returns an individual  **Language** object in a collection.
 

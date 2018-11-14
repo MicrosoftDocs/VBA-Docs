@@ -1,5 +1,5 @@
 ---
-title: CoAuthors.Item Method (Word)
+title: CoAuthors.Item method (Word)
 keywords: vbawd10.chm179961856
 f1_keywords:
 - vbawd10.chm179961856
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CoAuthors.Item Method (Word)
+# CoAuthors.Item method (Word)
 
 Returns an individual  **CoAuthor** object in a collection.
 

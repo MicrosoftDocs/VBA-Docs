@@ -1,5 +1,5 @@
 ---
-title: ListTemplate.ListLevels Property (Word)
+title: ListTemplate.ListLevels property (Word)
 keywords: vbawd10.chm160366594
 f1_keywords:
 - vbawd10.chm160366594
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListTemplate.ListLevels Property (Word)
+# ListTemplate.ListLevels property (Word)
 
 Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate** .
 

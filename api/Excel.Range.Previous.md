@@ -1,5 +1,5 @@
 ---
-title: Range.Previous Property (Excel)
+title: Range.Previous property (Excel)
 keywords: vbaxl10.chm144180
 f1_keywords:
 - vbaxl10.chm144180
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Previous Property (Excel)
+# Range.Previous property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the next cell.
 

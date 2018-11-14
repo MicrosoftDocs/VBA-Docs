@@ -1,5 +1,5 @@
 ---
-title: Chart.Walls Property (Excel)
+title: Chart.Walls property (Excel)
 keywords: vbaxl10.chm149151
 f1_keywords:
 - vbaxl10.chm149151
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.Walls Property (Excel)
+# Chart.Walls property (Excel)
 
 Returns a  **[Walls](Excel.Walls(object).md)** object that represents the walls of the 3-D chart. Read-only.
 

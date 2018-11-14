@@ -1,12 +1,12 @@
 ---
-title: ListLevels Object (Word)
+title: ListLevels object (Word)
 ms.prod: word
 ms.assetid: 9165c008-c066-8d3e-9254-d9e0ab2ec091
 ms.date: 06/08/2017
 ---
 
 
-# ListLevels Object (Word)
+# ListLevels object (Word)
 
 A collection of  **ListLevel** objects that represents all the list levels of a list template, either the only level for a bulleted or numbered list or one of the nine levels of an outline numbered list.
 

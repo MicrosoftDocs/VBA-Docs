@@ -1,5 +1,5 @@
 ---
-title: AddIns.Unload Method (Word)
+title: AddIns.Unload method (Word)
 keywords: vbawd10.chm159318019
 f1_keywords:
 - vbawd10.chm159318019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AddIns.Unload Method (Word)
+# AddIns.Unload method (Word)
 
 Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ argument, removes them from the **AddIns** collection.
 

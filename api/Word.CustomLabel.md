@@ -1,5 +1,5 @@
 ---
-title: CustomLabel Object (Word)
+title: CustomLabel object (Word)
 keywords: vbawd10.chm2325
 f1_keywords:
 - vbawd10.chm2325
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel Object (Word)
+# CustomLabel object (Word)
 
 Represents a custom mailing label. The  **CustomLabel** object is a member of the **[CustomLabels](Word.customlabels.md)** collection. The **CustomLabels** collection contains all the custom mailing labels listed in the **Label Options** dialog box.
 

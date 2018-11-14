@@ -1,5 +1,5 @@
 ---
-title: DefaultWebOptions.OrganizeInFolder Property (Word)
+title: DefaultWebOptions.OrganizeInFolder property (Word)
 keywords: vbawd10.chm165871620
 f1_keywords:
 - vbawd10.chm165871620
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DefaultWebOptions.OrganizeInFolder Property (Word)
+# DefaultWebOptions.OrganizeInFolder property (Word)
 
  **True** if all supporting files, such as background textures and graphics, are organized in a separate folder when you save the specified document as a Web page. **False** if supporting files are saved in the same folder as the Web page. The default value is **True** . Read/write **Boolean** .
 

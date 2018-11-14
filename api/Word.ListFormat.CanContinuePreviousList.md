@@ -1,5 +1,5 @@
 ---
-title: ListFormat.CanContinuePreviousList Method (Word)
+title: ListFormat.CanContinuePreviousList method (Word)
 keywords: vbawd10.chm163578040
 f1_keywords:
 - vbawd10.chm163578040
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListFormat.CanContinuePreviousList Method (Word)
+# ListFormat.CanContinuePreviousList method (Word)
 
 Returns a  **WdContinue** constant (**wdContinueDisabled** , **wdResetList** , or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
 

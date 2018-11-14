@@ -1,5 +1,5 @@
 ---
-title: TableOfContents Object (Word)
+title: TableOfContents object (Word)
 ms.prod: word
 api_name:
 - Word.TableOfContents
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TableOfContents Object (Word)
+# TableOfContents object (Word)
 
 Represents a single table of contents in a document. The  **TableOfContents** object is a member of the **[TablesOfContents](Word.tablesofcontents.md)** collection. The **TablesOfContents** collection includes all the tables of contents in a document.
 

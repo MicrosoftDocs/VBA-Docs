@@ -1,5 +1,5 @@
 ---
-title: Workbook.Model Property (Excel)
+title: Workbook.Model property (Excel)
 keywords: vbaxl10.chm199276
 f1_keywords:
 - vbaxl10.chm199276
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.Model Property (Excel)
+# Workbook.Model property (Excel)
 
 Returns the top level  **Model** object which is the one Data Model for the workbook. Read-only
 

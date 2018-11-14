@@ -1,5 +1,5 @@
 ---
-title: ContentControl.Temporary Property (Word)
+title: ContentControl.Temporary property (Word)
 keywords: vbawd10.chm266534929
 f1_keywords:
 - vbawd10.chm266534929
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.Temporary Property (Word)
+# ContentControl.Temporary property (Word)
 
 Returns or sets a  **Boolean** that represents whether to remove a content control from the active document when the user edits the contents of the control. Read/write.
 

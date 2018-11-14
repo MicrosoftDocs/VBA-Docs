@@ -1,5 +1,5 @@
 ---
-title: ListColumn.XPath Property (Excel)
+title: ListColumn.XPath property (Excel)
 keywords: vbaxl10.chm738080
 f1_keywords:
 - vbaxl10.chm738080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListColumn.XPath Property (Excel)
+# ListColumn.XPath property (Excel)
 
 Returns an **[XPath](Excel.XPath.md)** object that represents the Xpath of the element mapped to the specified **[Range](Excel.Range(object).md)** object. The context of the range determines whether or not the action succeeds or returns an empty object. Read-only.
 

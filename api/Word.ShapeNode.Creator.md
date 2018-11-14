@@ -1,5 +1,5 @@
 ---
-title: ShapeNode.Creator Property (Word)
+title: ShapeNode.Creator property (Word)
 keywords: vbawd10.chm164430825
 f1_keywords:
 - vbawd10.chm164430825
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeNode.Creator Property (Word)
+# ShapeNode.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

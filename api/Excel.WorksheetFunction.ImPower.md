@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImPower Method (Excel)
+title: WorksheetFunction.ImPower method (Excel)
 keywords: vbaxl10.chm137275
 f1_keywords:
 - vbaxl10.chm137275
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImPower Method (Excel)
+# WorksheetFunction.ImPower method (Excel)
 
 Returns a complex number in x + yi or x + yj text format raised to a power.
 

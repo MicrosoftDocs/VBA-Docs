@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis.Creator Property (Excel)
+title: QuickAnalysis.Creator property (Excel)
 keywords: vbaxl10.chm919074
 f1_keywords:
 - vbaxl10.chm919074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis.Creator Property (Excel)
+# QuickAnalysis.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [QuickAnalysis Object (Excel)](Excel.quickanalysis.md) object.
+ _expression_ A variable that represents a [QuickAnalysis object (Excel)](Excel.quickanalysis.md) object.
 
 
 ## Remarks

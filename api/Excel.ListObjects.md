@@ -1,5 +1,5 @@
 ---
-title: ListObjects Object (Excel)
+title: ListObjects object (Excel)
 keywords: vbaxl10.chm731072
 f1_keywords:
 - vbaxl10.chm731072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListObjects Object (Excel)
+# ListObjects object (Excel)
 
 A collection of all the  **[ListObject](Excel.ListObject.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
 

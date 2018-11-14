@@ -1,5 +1,5 @@
 ---
-title: PivotTableChangeList.Item Property (Excel)
+title: PivotTableChangeList.Item property (Excel)
 keywords: vbaxl10.chm891075
 f1_keywords:
 - vbaxl10.chm891075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotTableChangeList.Item Property (Excel)
+# PivotTableChangeList.Item property (Excel)
 
 Returns a single  **[ValueChange](Excel.ValueChange.md)** object from the specified **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection.
 

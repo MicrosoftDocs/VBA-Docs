@@ -1,5 +1,5 @@
 ---
-title: WdListType Enumeration (Word)
+title: WdListType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdListType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdListType Enumeration (Word)
+# WdListType enumeration (Word)
 
 Specifies a type of list.
 

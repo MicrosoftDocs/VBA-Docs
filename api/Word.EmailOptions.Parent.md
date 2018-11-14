@@ -1,5 +1,5 @@
 ---
-title: EmailOptions.Parent Property (Word)
+title: EmailOptions.Parent property (Word)
 keywords: vbawd10.chm165347430
 f1_keywords:
 - vbawd10.chm165347430
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailOptions.Parent Property (Word)
+# EmailOptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **EmailOptions** object.
 

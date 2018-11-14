@@ -1,5 +1,5 @@
 ---
-title: Column.Index Property (Word)
+title: Column.Index property (Word)
 keywords: vbawd10.chm156172294
 f1_keywords:
 - vbawd10.chm156172294
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Index Property (Word)
+# Column.Index property (Word)
 
 Returns a  **Long** that represents the position of an item in a collection. Read-only.
 

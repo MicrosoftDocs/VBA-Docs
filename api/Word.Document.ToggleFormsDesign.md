@@ -1,5 +1,5 @@
 ---
-title: Document.ToggleFormsDesign Method (Word)
+title: Document.ToggleFormsDesign method (Word)
 keywords: vbawd10.chm158007440
 f1_keywords:
 - vbawd10.chm158007440
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.ToggleFormsDesign Method (Word)
+# Document.ToggleFormsDesign method (Word)
 
 Switches form design mode on or off.
 

@@ -1,5 +1,5 @@
 ---
-title: Style.Priority Property (Word)
+title: Style.Priority property (Word)
 keywords: vbawd10.chm153878551
 f1_keywords:
 - vbawd10.chm153878551
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Priority Property (Word)
+# Style.Priority property (Word)
 
 Returns or sets a  **Long** that represents the priority for sorting styles in the **Styles** task pane. Read/write.
 

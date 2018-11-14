@@ -1,5 +1,5 @@
 ---
-title: Axis.Crosses Property (Word)
+title: Axis.Crosses property (Word)
 keywords: vbawd10.chm113049606
 f1_keywords:
 - vbawd10.chm113049606
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.Crosses Property (Word)
+# Axis.Crosses property (Word)
 
 Returns or sets the point on the specified axis where the other axis crosses. Read/write  **Long** .
 
@@ -27,7 +27,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 This property is not available for radar charts. For 3-D charts, this property can be applied only to the value axis and indicates where the plane defined by the category axes crosses the value axis.
 
-You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category. **xlMinimum** and **xlMaximum** are constants in the **XlAxisCrosses** enumeration.
+You can use this property for both category and value axes. On the category axis,  **xlMinimum** sets the value axis to cross at the first category, and **xlMaximum** sets the value axis to cross at the last category. **xlMinimum** and **xlMaximum** are constants in the **xlAxisCrosses** enumeration.
 
 Note that  **xlMinimum** and **xlMaximum** can have different meanings, depending on the axis.
 

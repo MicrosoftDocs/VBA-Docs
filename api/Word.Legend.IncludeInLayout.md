@@ -1,5 +1,5 @@
 ---
-title: Legend.IncludeInLayout Property (Word)
+title: Legend.IncludeInLayout property (Word)
 keywords: vbawd10.chm147196274
 f1_keywords:
 - vbawd10.chm147196274
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Legend.IncludeInLayout Property (Word)
+# Legend.IncludeInLayout property (Word)
 
  **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: TextColumns.LineBetween Property (Word)
+title: TextColumns.LineBetween property (Word)
 keywords: vbawd10.chm158531685
 f1_keywords:
 - vbawd10.chm158531685
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumns.LineBetween Property (Word)
+# TextColumns.LineBetween property (Word)
 
  **True** if vertical lines appear between all the columns in the **TextColumns** collection. Read/write **Long** .
 

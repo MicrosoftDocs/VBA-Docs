@@ -1,5 +1,5 @@
 ---
-title: Find.HitHighlight Method (Word)
+title: Find.HitHighlight method (Word)
 keywords: vbawd10.chm162529725
 f1_keywords:
 - vbawd10.chm162529725
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.HitHighlight Method (Word)
+# Find.HitHighlight method (Word)
 
 Highlights all found matches and returns a **Boolean** that represents whether matches were found.
 
@@ -53,7 +53,7 @@ Boolean
 
 ## Remarks
 
-The **HitHighlight** method applies primarily to search highlighting in Office Outlook when Word is specified as the e-mail editor. However, you can use this method on documents inside Word if you want to highlight found text. Otherwise, use the **[Execute](Word.Find.Execute.md)** method.
+The **HitHighlight** method applies primarily to search highlighting in Office Outlook when Word is specified as the email editor. However, you can use this method on documents inside Word if you want to highlight found text. Otherwise, use the **[Execute](Word.Find.Execute.md)** method.
 
 ## See also
 

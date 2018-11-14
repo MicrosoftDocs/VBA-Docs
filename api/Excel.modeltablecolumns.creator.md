@@ -1,5 +1,5 @@
 ---
-title: ModelTableColumns.Creator Property (Excel)
+title: ModelTableColumns.Creator property (Excel)
 keywords: vbaxl10.chm931074
 f1_keywords:
 - vbaxl10.chm931074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelTableColumns.Creator Property (Excel)
+# ModelTableColumns.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 
@@ -18,7 +18,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ModelTableColumns Object (Excel)](Excel.modeltablecolumns.md) object.
+ _expression_ A variable that represents a [ModelTableColumns object (Excel)](Excel.modeltablecolumns.md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: PivotCache.Index Property (Excel)
+title: PivotCache.Index property (Excel)
 keywords: vbaxl10.chm227076
 f1_keywords:
 - vbaxl10.chm227076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCache.Index Property (Excel)
+# PivotCache.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

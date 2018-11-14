@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.SetShapesDefaultProperties Method (Word)
+title: ShapeRange.SetShapesDefaultProperties method (Word)
 keywords: vbawd10.chm162856986
 f1_keywords:
 - vbawd10.chm162856986
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.SetShapesDefaultProperties Method (Word)
+# ShapeRange.SetShapesDefaultProperties method (Word)
 
 Applies the formatting of a default shape for a document to the specified range of shapes.
 

@@ -1,5 +1,5 @@
 ---
-title: AutoCaption.AutoInsert Property (Word)
+title: AutoCaption.AutoInsert property (Word)
 keywords: vbawd10.chm159055873
 f1_keywords:
 - vbawd10.chm159055873
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCaption.AutoInsert Property (Word)
+# AutoCaption.AutoInsert property (Word)
 
  **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean** .
 

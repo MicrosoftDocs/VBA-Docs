@@ -1,5 +1,5 @@
 ---
-title: WorksheetView.DisplayFormulas Property (Excel)
+title: WorksheetView.DisplayFormulas property (Excel)
 keywords: vbaxl10.chm779074
 f1_keywords:
 - vbaxl10.chm779074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetView.DisplayFormulas Property (Excel)
+# WorksheetView.DisplayFormulas property (Excel)
 
 Returns or sets if formulas should be displayed or hidden in the current worksheet view. Read/write  **Boolean** .
 

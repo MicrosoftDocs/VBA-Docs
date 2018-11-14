@@ -22,7 +22,7 @@ Adds a new [Comment](Visio.comment.md) object to the **Comments** collection, an
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Text_|Required|STRING|The text of the comment to add.|

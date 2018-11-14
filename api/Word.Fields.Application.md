@@ -1,5 +1,5 @@
 ---
-title: Fields.Application Property (Word)
+title: Fields.Application property (Word)
 keywords: vbawd10.chm154141672
 f1_keywords:
 - vbawd10.chm154141672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Fields.Application Property (Word)
+# Fields.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

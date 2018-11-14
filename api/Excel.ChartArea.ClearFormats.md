@@ -1,5 +1,5 @@
 ---
-title: ChartArea.ClearFormats Method (Excel)
+title: ChartArea.ClearFormats method (Excel)
 keywords: vbaxl10.chm620082
 f1_keywords:
 - vbaxl10.chm620082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.ClearFormats Method (Excel)
+# ChartArea.ClearFormats method (Excel)
 
 Clears the formatting of the object.
 

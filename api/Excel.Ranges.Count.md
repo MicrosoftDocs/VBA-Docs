@@ -1,5 +1,5 @@
 ---
-title: Ranges.Count Property (Excel)
+title: Ranges.Count property (Excel)
 keywords: vbaxl10.chm828076
 f1_keywords:
 - vbaxl10.chm828076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ranges.Count Property (Excel)
+# Ranges.Count property (Excel)
 
 Returns the number of objects in the collection. Read-only  **Long** .
 

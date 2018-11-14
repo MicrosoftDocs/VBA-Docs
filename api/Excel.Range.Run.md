@@ -1,5 +1,5 @@
 ---
-title: Range.Run Method (Excel)
+title: Range.Run method (Excel)
 keywords: vbaxl10.chm144192
 f1_keywords:
 - vbaxl10.chm144192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Run Method (Excel)
+# Range.Run method (Excel)
 
 Runs the Microsoft Excel macro at this location. The range must be on a macro sheet.
 

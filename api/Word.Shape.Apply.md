@@ -1,5 +1,5 @@
 ---
-title: Shape.Apply Method (Word)
+title: Shape.Apply method (Word)
 keywords: vbawd10.chm161480714
 f1_keywords:
 - vbawd10.chm161480714
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape.Apply Method (Word)
+# Shape.Apply method (Word)
 
 Applies to the specified shape formatting that has been copied using the  **PickUp** method.
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.Mode Method (Excel)
+title: WorksheetFunction.Mode method (Excel)
 keywords: vbaxl10.chm137234
 f1_keywords:
 - vbaxl10.chm137234
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.Mode Method (Excel)
+# WorksheetFunction.Mode method (Excel)
 
 Returns the most frequently occurring, or repetitive, value in an array or range of data. 
 

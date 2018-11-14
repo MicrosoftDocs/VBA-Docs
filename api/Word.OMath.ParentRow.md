@@ -1,5 +1,5 @@
 ---
-title: OMath.ParentRow Property (Word)
+title: OMath.ParentRow property (Word)
 keywords: vbawd10.chm176357484
 f1_keywords:
 - vbawd10.chm176357484
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMath.ParentRow Property (Word)
+# OMath.ParentRow property (Word)
 
 Returns an  **[OMathMatRow](Word.OMathMatRow.md)** object that represents the parent row in a matrix. Read-only.
 

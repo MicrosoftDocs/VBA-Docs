@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Parent Property (Word)
+title: FirstLetterExceptions.Parent property (Word)
 keywords: vbawd10.chm155583466
 f1_keywords:
 - vbawd10.chm155583466
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions.Parent Property (Word)
+# FirstLetterExceptions.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **FirstLetterExceptions** object.
 

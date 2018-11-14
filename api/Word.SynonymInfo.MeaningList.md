@@ -1,5 +1,5 @@
 ---
-title: SynonymInfo.MeaningList Property (Word)
+title: SynonymInfo.MeaningList property (Word)
 keywords: vbawd10.chm161153028
 f1_keywords:
 - vbawd10.chm161153028
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SynonymInfo.MeaningList Property (Word)
+# SynonymInfo.MeaningList property (Word)
 
 Returns the list of meanings for the word or phrase. The list is returned as an array of strings. Read-only  **Variant** .
 

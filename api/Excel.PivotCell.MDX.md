@@ -1,5 +1,5 @@
 ---
-title: PivotCell.MDX Property (Excel)
+title: PivotCell.MDX property (Excel)
 keywords: vbaxl10.chm692089
 f1_keywords:
 - vbaxl10.chm692089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCell.MDX Property (Excel)
+# PivotCell.MDX property (Excel)
 
 Returns a tuple that provides the full MDX coordinates of the specified value cell in PivotTable with an OLAP data source. Read-only
 

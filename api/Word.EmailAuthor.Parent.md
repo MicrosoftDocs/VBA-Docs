@@ -1,5 +1,5 @@
 ---
-title: EmailAuthor.Parent Property (Word)
+title: EmailAuthor.Parent property (Word)
 keywords: vbawd10.chm165086186
 f1_keywords:
 - vbawd10.chm165086186
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailAuthor.Parent Property (Word)
+# EmailAuthor.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **EmailAuthor** object.
 

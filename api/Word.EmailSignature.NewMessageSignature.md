@@ -1,5 +1,5 @@
 ---
-title: EmailSignature.NewMessageSignature Property (Word)
+title: EmailSignature.NewMessageSignature property (Word)
 keywords: vbawd10.chm165412967
 f1_keywords:
 - vbawd10.chm165412967
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# EmailSignature.NewMessageSignature Property (Word)
+# EmailSignature.NewMessageSignature property (Word)
 
-Returns or sets the signature that Microsoft Word appends to new e-mail messages. Read/write  **String** .
+Returns or sets the signature that Microsoft Word appends to new email messages. Read/write  **String** .
 
 
 ## Syntax
@@ -25,12 +25,12 @@ Returns or sets the signature that Microsoft Word appends to new e-mail messages
 
 ## Remarks
 
-When setting this property, you must use the name of an e-mail signature that you have created in the  **E-mail Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
+When setting this property, you must use the name of an email signature that you have created in the  **Email Options** dialog box, available from the **General** tab of the **Options** dialog box (**Tools** menu).
 
 
 ## Example
 
-This example changes the signature Word appends to new outgoing e-mail messages.
+This example changes the signature Word appends to new outgoing email messages.
 
 
 ```vb

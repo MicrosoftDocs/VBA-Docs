@@ -1,5 +1,5 @@
 ---
-title: XlXmlLoadOption Enumeration (Excel)
+title: xlXmlLoadOption enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlLoadOption
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlXmlLoadOption Enumeration (Excel)
+# xlXmlLoadOption enumeration (Excel)
 
 Specifies how Excel opens the XML data file.
 

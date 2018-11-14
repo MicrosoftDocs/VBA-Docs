@@ -1,5 +1,5 @@
 ---
-title: Global.DDEPoke Method (Word)
+title: Global.DDEPoke method (Word)
 keywords: vbawd10.chm163119416
 f1_keywords:
 - vbawd10.chm163119416
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.DDEPoke Method (Word)
+# Global.DDEPoke method (Word)
 
 Uses an open dynamic data exchange (DDE) channel to send data to an application.
 

@@ -1,5 +1,5 @@
 ---
-title: Characters.First Property (Word)
+title: Characters.First property (Word)
 keywords: vbawd10.chm157089795
 f1_keywords:
 - vbawd10.chm157089795
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Characters.First Property (Word)
+# Characters.First property (Word)
 
 Returns a  **[Range](Word.Range.md)** object that represents the first character in the collection.
 

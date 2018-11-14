@@ -1,5 +1,5 @@
 ---
-title: Range.Sections Property (Word)
+title: Range.Sections property (Word)
 keywords: vbawd10.chm157155386
 f1_keywords:
 - vbawd10.chm157155386
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Sections Property (Word)
+# Range.Sections property (Word)
 
 Returns a  **Sections** collection that represents the sections in the specified range. Read-only.
 

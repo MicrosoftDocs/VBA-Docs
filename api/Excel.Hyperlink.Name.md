@@ -1,5 +1,5 @@
 ---
-title: Hyperlink.Name Property (Excel)
+title: Hyperlink.Name property (Excel)
 keywords: vbaxl10.chm536074
 f1_keywords:
 - vbaxl10.chm536074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Hyperlink.Name Property (Excel)
+# Hyperlink.Name property (Excel)
 
 Returns a  **String** value that represents the name of the object.
 

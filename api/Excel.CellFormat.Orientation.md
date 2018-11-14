@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Orientation Property (Excel)
+title: CellFormat.Orientation property (Excel)
 keywords: vbaxl10.chm676082
 f1_keywords:
 - vbaxl10.chm676082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Orientation Property (Excel)
+# CellFormat.Orientation property (Excel)
 
 Returns or sets a  **Variant** value that represents the text orientation.
 
@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that represents the text orientation.
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees or to one of the [**XlOrientation**](Excel.xlorientation.md) constants.
+The value of this property can be set to an integer value from -90 to 90 degrees or to one of the [**xlOrientation**](Excel.xlorientation.md) constants.
 
 ## See also
 

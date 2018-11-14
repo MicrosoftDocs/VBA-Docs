@@ -1,5 +1,5 @@
 ---
-title: ModelRelationships.Item Method (Excel)
+title: ModelRelationships.Item method (Excel)
 keywords: vbaxl10.chm940074
 f1_keywords:
 - vbaxl10.chm940074
@@ -9,29 +9,29 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelRelationships.Item Method (Excel)
+# ModelRelationships.Item method (Excel)
 
-Returns a single object from the [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
+Returns a single object from the [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
 
 
 ## Syntax
 
  _expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelRelationships Object (Excel)](Excel.modelrelationships.md) object.
+ _expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
 
 
 ## Parameters
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 
 ## Return value
 
-A [ModelRelationship Object (Excel)](Excel.modelrelationship.md) object contained in the collection.
+A [ModelRelationship object (Excel)](Excel.modelrelationship.md) object contained in the collection.
 
 
 ## See also

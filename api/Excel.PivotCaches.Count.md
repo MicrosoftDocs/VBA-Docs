@@ -1,5 +1,5 @@
 ---
-title: PivotCaches.Count Property (Excel)
+title: PivotCaches.Count property (Excel)
 keywords: vbaxl10.chm229073
 f1_keywords:
 - vbaxl10.chm229073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotCaches.Count Property (Excel)
+# PivotCaches.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ListEntry Object (Word)
+title: ListEntry object (Word)
 keywords: vbawd10.chm2339
 f1_keywords:
 - vbawd10.chm2339
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListEntry Object (Word)
+# ListEntry object (Word)
 
 Represents an item in a drop-down form field. The  **ListEntry** object is a member of the **ListEntries** collection. The **[ListEntries](Word.listentries.md)** collection includes all the items in a drop-down form field.
 

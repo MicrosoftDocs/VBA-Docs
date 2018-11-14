@@ -1,5 +1,5 @@
 ---
-title: Worksheet.CheckSpelling Method (Excel)
+title: Worksheet.CheckSpelling method (Excel)
 keywords: vbaxl10.chm175083
 f1_keywords:
 - vbaxl10.chm175083
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.CheckSpelling Method (Excel)
+# Worksheet.CheckSpelling method (Excel)
 
 Checks the spelling of an object.
 

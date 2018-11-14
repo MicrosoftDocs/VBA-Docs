@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Source Property (Excel)
+title: PublishObject.Source property (Excel)
 keywords: vbaxl10.chm652078
 f1_keywords:
 - vbaxl10.chm652078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Source Property (Excel)
+# PublishObject.Source property (Excel)
 
 Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.PublishObject.SourceType.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery** .
 

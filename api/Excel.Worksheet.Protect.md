@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Protect Method (Excel)
+title: Worksheet.Protect method (Excel)
 keywords: vbaxl10.chm175156
 f1_keywords:
 - vbaxl10.chm175156
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.Protect Method (Excel)
+# Worksheet.Protect method (Excel)
 
 Protects a worksheet so that it cannot be modified.
 

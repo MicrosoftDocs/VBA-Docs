@@ -1,5 +1,5 @@
 ---
-title: ModelColumnChanges Object (Excel)
+title: ModelColumnChanges object (Excel)
 keywords: vbaxl10.chm967072
 f1_keywords:
 - vbaxl10.chm967072
@@ -9,9 +9,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ModelColumnChanges Object (Excel)
+# ModelColumnChanges object (Excel)
 
-A collection of [ModelColumnChange Object (Excel)](Excel.modelcolumnchange.md) objects representing columns for which the data type was change in the Excel data model.
+A collection of [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) objects representing columns for which the data type was change in the Excel data model.
 
 
 ## See also

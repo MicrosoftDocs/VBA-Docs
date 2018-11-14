@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.ClearDateFilter Method (Excel)
+title: SlicerCache.ClearDateFilter method (Excel)
 keywords: vbaxl10.chm897098
 f1_keywords:
 - vbaxl10.chm897098
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.ClearDateFilter Method (Excel)
+# SlicerCache.ClearDateFilter method (Excel)
 
 Clears the filter for a timeline (date filter).
 
@@ -18,7 +18,7 @@ Clears the filter for a timeline (date filter).
 
  _expression_. `ClearDateFilter`
 
- _expression_ A variable that represents a [SlicerCache Object (Excel)](Excel.SlicerCache.md) object.
+ _expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Return value

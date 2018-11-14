@@ -1,5 +1,5 @@
 ---
-title: QuickAnalysis.Hide Method (Excel)
+title: QuickAnalysis.Hide method (Excel)
 keywords: vbaxl10.chm920074
 f1_keywords:
 - vbaxl10.chm920074
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# QuickAnalysis.Hide Method (Excel)
+# QuickAnalysis.Hide method (Excel)
 
 Hides specific members of the Analysis Lens user interface.
 
@@ -25,7 +25,7 @@ Hides specific members of the Analysis Lens user interface.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
 

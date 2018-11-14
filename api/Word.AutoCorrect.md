@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object (Word)
+title: AutoCorrect object (Word)
 keywords: vbawd10.chm2377
 f1_keywords:
 - vbawd10.chm2377
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect Object (Word)
+# AutoCorrect object (Word)
 
 Represents the AutoCorrect functionality in Word.
 

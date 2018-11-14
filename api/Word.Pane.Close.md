@@ -1,5 +1,5 @@
 ---
-title: Pane.Close Method (Word)
+title: Pane.Close method (Word)
 keywords: vbawd10.chm157286501
 f1_keywords:
 - vbawd10.chm157286501
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.Close Method (Word)
+# Pane.Close method (Word)
 
 Closes the specified Mail Merge data source, pane, or task.
 

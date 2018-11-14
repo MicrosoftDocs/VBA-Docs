@@ -1,5 +1,5 @@
 ---
-title: ChartArea.Width Property (Word)
+title: ChartArea.Width property (Word)
 keywords: vbawd10.chm160039034
 f1_keywords:
 - vbawd10.chm160039034
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartArea.Width Property (Word)
+# ChartArea.Width property (Word)
 
 Returns or sets the width, in points, of the object. Read/write  **Double** .
 

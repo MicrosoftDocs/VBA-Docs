@@ -1,5 +1,5 @@
 ---
-title: Top10 Object (Excel)
+title: Top10 object (Excel)
 keywords: vbaxl10.chm821072
 f1_keywords:
 - vbaxl10.chm821072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Top10 Object (Excel)
+# Top10 object (Excel)
 
 Represents a top ten visual of a conditional formatting rule. Applying a color to a range helps you see the value of a cell relative to other cells.
 

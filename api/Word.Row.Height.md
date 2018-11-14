@@ -1,5 +1,5 @@
 ---
-title: Row.Height Property (Word)
+title: Row.Height property (Word)
 keywords: vbawd10.chm156237831
 f1_keywords:
 - vbawd10.chm156237831
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Row.Height Property (Word)
+# Row.Height property (Word)
 
 Returns or sets the height (in points) of the specified row in a table. Read/write Single.
 

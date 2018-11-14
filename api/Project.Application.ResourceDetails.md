@@ -38,6 +38,6 @@ Displays the details from a MAPI-compliant address book for a resource.
 
 ## Remarks
 
-The  **ResourceDetails** method is available only in resource views. If no e-mail profile is available, Project displays a message that explains how to create a profile.
+The  **ResourceDetails** method is available only in resource views. If no email profile is available, Project displays a message that explains how to create a profile.
 
 

@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.ImLog10 Method (Excel)
+title: WorksheetFunction.ImLog10 method (Excel)
 keywords: vbaxl10.chm137280
 f1_keywords:
 - vbaxl10.chm137280
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.ImLog10 Method (Excel)
+# WorksheetFunction.ImLog10 method (Excel)
 
 Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.
 

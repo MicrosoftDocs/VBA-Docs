@@ -1,5 +1,5 @@
 ---
-title: Workbook.Queries Property (Excel)
+title: Workbook.Queries property (Excel)
 keywords: vbaxl10.chm199279
 f1_keywords:
 - vbaxl10.chm199279
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# Workbook.Queries Property (Excel)
+# Workbook.Queries property (Excel)
 
 ## Syntax
 

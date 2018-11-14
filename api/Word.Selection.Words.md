@@ -1,5 +1,5 @@
 ---
-title: Selection.Words Property (Word)
+title: Selection.Words property (Word)
 keywords: vbawd10.chm158662707
 f1_keywords:
 - vbawd10.chm158662707
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Words Property (Word)
+# Selection.Words property (Word)
 
 Returns a  **[Words](Word.words.md)** collection that represents all the words in a selection. Read-only.
 

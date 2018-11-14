@@ -1,5 +1,5 @@
 ---
-title: Point.PieSliceLocation Method (Excel)
+title: Point.PieSliceLocation method (Excel)
 keywords: vbaxl10.chm576109
 f1_keywords:
 - vbaxl10.chm576109
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.PieSliceLocation Method (Excel)
+# Point.PieSliceLocation method (Excel)
 
 Returns the vertical or horizontal position of a point on a chart item, in points, from the top or left edge of the object to the top or left edge of the chart area.
 
@@ -29,8 +29,8 @@ Returns the vertical or horizontal position of a point on a chart item, in point
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _loc_|Required| **[XlPieSliceLocation](Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
-| _Index_|Optional| **[XlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint** .|
+| _loc_|Required| **[xlPieSliceLocation](Excel.XlPieSliceLocation.md)**|Specifies a horizontal or vertical coordinate.|
+| _Index_|Optional| **[xlPieSliceIndex](Excel.XlPieSliceIndex.md)**|Specifies which pie slice position coordinate to return. The default value is  **xlOuterCenterPoint** .|
 
 ## Return value
 

@@ -1,5 +1,5 @@
 ---
-title: TwoInitialCapsException.Parent Property (Word)
+title: TwoInitialCapsException.Parent property (Word)
 keywords: vbawd10.chm155386858
 f1_keywords:
 - vbawd10.chm155386858
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TwoInitialCapsException.Parent Property (Word)
+# TwoInitialCapsException.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **TwoInitialCapsException** object.
 

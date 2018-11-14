@@ -1,5 +1,5 @@
 ---
-title: Selection.CopyAsPicture Method (Word)
+title: Selection.CopyAsPicture method (Word)
 keywords: vbawd10.chm158662823
 f1_keywords:
 - vbawd10.chm158662823
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.CopyAsPicture Method (Word)
+# Selection.CopyAsPicture method (Word)
 
 The  **CopyAsPicture** method works the same way as the **Copy** method.
 

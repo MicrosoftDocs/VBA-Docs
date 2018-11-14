@@ -1,5 +1,5 @@
 ---
-title: XMLNode.PreviousSibling Property (Word)
+title: XMLNode.PreviousSibling property (Word)
 keywords: vbawd10.chm37748743
 f1_keywords:
 - vbawd10.chm37748743
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLNode.PreviousSibling Property (Word)
+# XMLNode.PreviousSibling property (Word)
 
 Returns an  **XMLNode** object that represents the previous element in the document that is at the same level as the specified element.
 

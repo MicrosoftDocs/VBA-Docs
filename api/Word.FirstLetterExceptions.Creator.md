@@ -1,5 +1,5 @@
 ---
-title: FirstLetterExceptions.Creator Property (Word)
+title: FirstLetterExceptions.Creator property (Word)
 keywords: vbawd10.chm155583465
 f1_keywords:
 - vbawd10.chm155583465
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FirstLetterExceptions.Creator Property (Word)
+# FirstLetterExceptions.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.SetDefaultChart Method (Word)
+title: Chart.SetDefaultChart method (Word)
 keywords: vbawd10.chm79364171
 f1_keywords:
 - vbawd10.chm79364171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.SetDefaultChart Method (Word)
+# Chart.SetDefaultChart method (Word)
 
 Specifies the name of the chart template that Microsoft Word uses when it creates new charts.
 
@@ -29,7 +29,7 @@ Specifies the name of the chart template that Microsoft Word uses when it create
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required| **Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[XlChartGallery](Word.xlchartgallery.md)** constant, **xlBuiltIn** , to specify a built-in chart template.|
+| _Name_|Required| **Variant**|Specifies the name of the default chart template that Word uses when it creates new charts. This name can be set to either the name of a user-defined chart template in the gallery or a special  **[xlChartGallery](Word.xlchartgallery.md)** constant, **xlBuiltIn** , to specify a built-in chart template.|
 
 ## Example
 

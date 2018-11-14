@@ -1,5 +1,5 @@
 ---
-title: System.MathCoprocessorInstalled Property (Word)
+title: System.MathCoprocessorInstalled property (Word)
 keywords: vbawd10.chm154468363
 f1_keywords:
 - vbawd10.chm154468363
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# System.MathCoprocessorInstalled Property (Word)
+# System.MathCoprocessorInstalled property (Word)
 
  **True** if a math coprocessor is installed on the system. Read-only **Boolean** .
 

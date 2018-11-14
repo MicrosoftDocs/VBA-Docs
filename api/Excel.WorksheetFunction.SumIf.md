@@ -1,5 +1,5 @@
 ---
-title: WorksheetFunction.SumIf Method (Excel)
+title: WorksheetFunction.SumIf method (Excel)
 keywords: vbaxl10.chm137241
 f1_keywords:
 - vbaxl10.chm137241
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorksheetFunction.SumIf Method (Excel)
+# WorksheetFunction.SumIf method (Excel)
 
 Adds the cells specified by a given criteria.
 

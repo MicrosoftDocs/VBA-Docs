@@ -39,7 +39,7 @@ VBA7 Declare Statement Syntax
 [ **Public** |**Private** ] **Declare** **PtrSafe** **Function**_name_**Lib** **"**_libname_**"** [ **Alias** **"**_aliasname_**"** ] [ **(** [ _arglist_ ] **)** ] [ **As**_type_ ]
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Used to declare procedures that are available to all other procedures in all [modules](../../Glossary/vbe-glossary.md#module).|
 |**Private**|Optional. Used to declare procedures that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
@@ -58,7 +58,7 @@ The  _arglist_ argument has the following syntax and parts:
 [ **Optional** ] [ **ByVal** |**ByRef** ] [ **ParamArray** ] _varname_ [ **( )** ] [ **As**_type_ ]
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Optional**|Optional. Indicates that an argument is not required. If used, all subsequent arguments in  _arglist_ must also be optional and declared using the **Optional** keyword. **Optional** can't be used for any argument if **ParamArray** is used.|
 |**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md#by-value).|

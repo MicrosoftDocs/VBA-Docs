@@ -1,5 +1,5 @@
 ---
-title: Editor.Range Property (Word)
+title: Editor.Range property (Word)
 keywords: vbawd10.chm225575014
 f1_keywords:
 - vbawd10.chm225575014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Editor.Range Property (Word)
+# Editor.Range property (Word)
 
 Returns a  **Range** object that represents the portion of a document that is contained in the specified object.
 

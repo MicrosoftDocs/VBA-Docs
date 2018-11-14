@@ -1,12 +1,12 @@
 ---
-title: XlCopyPictureFormat Enumeration (Word)
+title: xlCopyPictureFormat enumeration (Word)
 ms.prod: word
 ms.assetid: 460876ff-d4d3-e79c-a56f-6ae278238ac9
 ms.date: 06/08/2017
 ---
 
 
-# XlCopyPictureFormat Enumeration (Word)
+# xlCopyPictureFormat enumeration (Word)
 
 Specifies the format of the picture being copied.
 

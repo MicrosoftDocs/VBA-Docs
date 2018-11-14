@@ -1,5 +1,5 @@
 ---
-title: TablesOfContents Object (Word)
+title: TablesOfContents object (Word)
 keywords: vbawd10.chm2324
 f1_keywords:
 - vbawd10.chm2324
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TablesOfContents Object (Word)
+# TablesOfContents object (Word)
 
 A collection of  **[TableOfContents](Word.TableOfContents.md)** objects that represent the tables of contents in a document.
 

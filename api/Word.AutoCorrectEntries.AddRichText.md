@@ -1,5 +1,5 @@
 ---
-title: AutoCorrectEntries.AddRichText Method (Word)
+title: AutoCorrectEntries.AddRichText method (Word)
 keywords: vbawd10.chm155713638
 f1_keywords:
 - vbawd10.chm155713638
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrectEntries.AddRichText Method (Word)
+# AutoCorrectEntries.AddRichText method (Word)
 
 Creates a formatted AutoCorrect entry, preserving all text attributes of the specified range. Returns an  **AutoCorrectEntry** object.
 

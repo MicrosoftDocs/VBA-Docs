@@ -1,5 +1,5 @@
 ---
-title: ModelMeasure.FormatInformation Property (Excel)
+title: ModelMeasure.FormatInformation property (Excel)
 keywords: vbaxl10.chm978076
 f1_keywords:
 - vbaxl10.chm978076
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasure.FormatInformation Property (Excel)
+# ModelMeasure.FormatInformation property (Excel)
 
 The format of the model measure. Read/write  **Variant**.
 

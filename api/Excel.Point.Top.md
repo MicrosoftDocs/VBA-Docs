@@ -1,5 +1,5 @@
 ---
-title: Point.Top Property (Excel)
+title: Point.Top property (Excel)
 keywords: vbaxl10.chm576106
 f1_keywords:
 - vbaxl10.chm576106
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Top Property (Excel)
+# Point.Top property (Excel)
 
 Returns a value that represents the distance, in points, from the top edge of the object to the top edge of the chart area. Read-only.
 

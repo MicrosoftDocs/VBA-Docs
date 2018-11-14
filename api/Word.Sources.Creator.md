@@ -1,5 +1,5 @@
 ---
-title: Sources.Creator Property (Word)
+title: Sources.Creator property (Word)
 keywords: vbawd10.chm40567785
 f1_keywords:
 - vbawd10.chm40567785
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sources.Creator Property (Word)
+# Sources.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the add-in was created. Read-only  **Long** .
 

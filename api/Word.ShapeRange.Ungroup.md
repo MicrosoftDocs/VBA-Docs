@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Ungroup Method (Word)
+title: ShapeRange.Ungroup method (Word)
 keywords: vbawd10.chm162856987
 f1_keywords:
 - vbawd10.chm162856987
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Ungroup Method (Word)
+# ShapeRange.Ungroup method (Word)
 
 Ungroups any grouped shapes in the specified range of shapes, disassembles pictures and OLE objects within the specified shape or range of shapes, and returns the ungrouped shapes as a single  **ShapeRange** object.
 

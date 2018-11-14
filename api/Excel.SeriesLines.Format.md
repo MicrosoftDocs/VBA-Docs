@@ -1,5 +1,5 @@
 ---
-title: SeriesLines.Format Property (Excel)
+title: SeriesLines.Format property (Excel)
 keywords: vbaxl10.chm598078
 f1_keywords:
 - vbaxl10.chm598078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SeriesLines.Format Property (Excel)
+# SeriesLines.Format property (Excel)
 
 Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 

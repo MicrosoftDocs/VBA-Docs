@@ -1,5 +1,5 @@
 ---
-title: OLEDBConnection.BackgroundQuery Property (Excel)
+title: OLEDBConnection.BackgroundQuery property (Excel)
 keywords: vbaxl10.chm794074
 f1_keywords:
 - vbaxl10.chm794074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEDBConnection.BackgroundQuery Property (Excel)
+# OLEDBConnection.BackgroundQuery property (Excel)
 
  **True** if queries for the OLE DB connection are performed asynchronously (in the background). Read/write **Boolean** .
 

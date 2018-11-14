@@ -1,5 +1,5 @@
 ---
-title: Document.GridSpaceBetweenHorizontalLines Property (Word)
+title: Document.GridSpaceBetweenHorizontalLines property (Word)
 keywords: vbawd10.chm158007602
 f1_keywords:
 - vbawd10.chm158007602
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.GridSpaceBetweenHorizontalLines Property (Word)
+# Document.GridSpaceBetweenHorizontalLines property (Word)
 
 Returns or sets the interval at which Microsoft Word displays horizontal character gridlines in print layout view. Read/write  **Long** .
 

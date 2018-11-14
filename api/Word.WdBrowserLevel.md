@@ -1,5 +1,5 @@
 ---
-title: WdBrowserLevel Enumeration (Word)
+title: WdBrowserLevel enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdBrowserLevel
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdBrowserLevel Enumeration (Word)
+# WdBrowserLevel enumeration (Word)
 
 Specifies the version of Web browser at which you want to target new Web pages created in Microsoft Word.
 

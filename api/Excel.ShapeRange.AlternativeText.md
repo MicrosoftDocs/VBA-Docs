@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.AlternativeText Property (Excel)
+title: ShapeRange.AlternativeText property (Excel)
 keywords: vbaxl10.chm640125
 f1_keywords:
 - vbaxl10.chm640125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.AlternativeText Property (Excel)
+# ShapeRange.AlternativeText property (Excel)
 
 Returns or sets the descriptive (alternative) text string for a  **[ShapeRange](Excel.ShapeRange.md)** object when the object is saved to a Web page. Read/write **String** .
 

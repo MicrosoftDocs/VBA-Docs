@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.OMath Property (Word)
+title: OMathFunction.OMath property (Word)
 keywords: vbawd10.chm22151293
 f1_keywords:
 - vbawd10.chm22151293
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.OMath Property (Word)
+# OMathFunction.OMath property (Word)
 
 Returns an  **[OMath](Word.OMath.md)** object that represents the equation. Read-only.
 

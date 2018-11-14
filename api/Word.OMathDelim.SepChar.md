@@ -1,5 +1,5 @@
 ---
-title: OMathDelim.SepChar Property (Word)
+title: OMathDelim.SepChar property (Word)
 keywords: vbawd10.chm145096809
 f1_keywords:
 - vbawd10.chm145096809
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathDelim.SepChar Property (Word)
+# OMathDelim.SepChar property (Word)
 
 Returns or sets an  **Integer** that represents the separator character in a delimiter object when the delimiter object contains two or more arguments. Read/write.
 

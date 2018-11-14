@@ -1,5 +1,5 @@
 ---
-title: Paragraph.IndentFirstLineCharWidth Method (Word)
+title: Paragraph.IndentFirstLineCharWidth method (Word)
 keywords: vbawd10.chm156696898
 f1_keywords:
 - vbawd10.chm156696898
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.IndentFirstLineCharWidth Method (Word)
+# Paragraph.IndentFirstLineCharWidth method (Word)
 
 Indents the first line of one or more paragraphs by a specified number of characters.
 

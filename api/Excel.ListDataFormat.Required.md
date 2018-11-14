@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat.Required Property (Excel)
+title: ListDataFormat.Required property (Excel)
 keywords: vbaxl10.chm758082
 f1_keywords:
 - vbaxl10.chm758082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat.Required Property (Excel)
+# ListDataFormat.Required property (Excel)
 
  Returns a **Boolean** value indicating whether the schema definition of a column requires data before the row is committed. Read-only **Boolean** .
 

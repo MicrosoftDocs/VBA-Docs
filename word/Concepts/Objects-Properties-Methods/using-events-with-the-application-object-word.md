@@ -1,5 +1,5 @@
 ---
-title: Using Events with the Application Object (Word)
+title: Using events with the Application object (Word)
 keywords: vbawd10.chm5214014
 f1_keywords:
 - vbawd10.chm5214014
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Using Events with the Application Object (Word)
+# Using events with the Application object (Word)
 
 To create an event handler for an event of the  **[Application](../../../api/Word.Application.md)** object, you need to complete the following three steps:
 

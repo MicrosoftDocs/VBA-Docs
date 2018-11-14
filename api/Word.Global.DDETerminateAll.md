@@ -1,5 +1,5 @@
 ---
-title: Global.DDETerminateAll Method (Word)
+title: Global.DDETerminateAll method (Word)
 keywords: vbawd10.chm163119419
 f1_keywords:
 - vbawd10.chm163119419
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Global.DDETerminateAll Method (Word)
+# Global.DDETerminateAll method (Word)
 
 Closes all dynamic data exchange (DDE) channels opened by Microsoft Word. .
 

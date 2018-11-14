@@ -1,5 +1,5 @@
 ---
-title: View.DisplayBackgrounds Property (Word)
+title: View.DisplayBackgrounds property (Word)
 keywords: vbawd10.chm161808433
 f1_keywords:
 - vbawd10.chm161808433
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.DisplayBackgrounds Property (Word)
+# View.DisplayBackgrounds property (Word)
 
 Returns or sets a  **Boolean** that represents whether background colors and images are shown when a document is displayed in print layout view. .
 

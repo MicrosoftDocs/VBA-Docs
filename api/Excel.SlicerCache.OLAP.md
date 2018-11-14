@@ -1,5 +1,5 @@
 ---
-title: SlicerCache.OLAP Property (Excel)
+title: SlicerCache.OLAP property (Excel)
 keywords: vbaxl10.chm897074
 f1_keywords:
 - vbaxl10.chm897074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SlicerCache.OLAP Property (Excel)
+# SlicerCache.OLAP property (Excel)
 
 Returns whether the slicer associated with the specified slicer cache is based on an OLAP data source. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: InlineShapes.Count Property (Word)
+title: InlineShapes.Count property (Word)
 keywords: vbawd10.chm162070529
 f1_keywords:
 - vbawd10.chm162070529
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# InlineShapes.Count Property (Word)
+# InlineShapes.Count property (Word)
 
 Returns a  **Long** that represents the number of inline shapes in the collection. Read-only.
 

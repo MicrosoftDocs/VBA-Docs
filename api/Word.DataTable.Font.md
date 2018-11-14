@@ -1,5 +1,5 @@
 ---
-title: DataTable.Font Property (Word)
+title: DataTable.Font property (Word)
 keywords: vbawd10.chm46399497
 f1_keywords:
 - vbawd10.chm46399497
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataTable.Font Property (Word)
+# DataTable.Font property (Word)
 
 Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFont.md)** .
 

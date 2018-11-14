@@ -1,5 +1,5 @@
 ---
-title: Range.XML Property (Word)
+title: Range.XML property (Word)
 keywords: vbawd10.chm157155672
 f1_keywords:
 - vbawd10.chm157155672
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.XML Property (Word)
+# Range.XML property (Word)
 
 Returns a  **String** that represents the XML text in the specified object. .
 

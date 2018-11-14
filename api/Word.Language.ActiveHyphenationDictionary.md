@@ -1,5 +1,5 @@
 ---
-title: Language.ActiveHyphenationDictionary Property (Word)
+title: Language.ActiveHyphenationDictionary property (Word)
 keywords: vbawd10.chm158138382
 f1_keywords:
 - vbawd10.chm158138382
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Language.ActiveHyphenationDictionary Property (Word)
+# Language.ActiveHyphenationDictionary property (Word)
 
 Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the active hyphenation dictionary for the specified language. Read-only.
 

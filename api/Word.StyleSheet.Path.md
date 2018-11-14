@@ -1,5 +1,5 @@
 ---
-title: StyleSheet.Path Property (Word)
+title: StyleSheet.Path property (Word)
 keywords: vbawd10.chm166658052
 f1_keywords:
 - vbawd10.chm166658052
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# StyleSheet.Path Property (Word)
+# StyleSheet.Path property (Word)
 
 Returns the disk or Web path to the specified style sheet. Read-only  **String** .
 

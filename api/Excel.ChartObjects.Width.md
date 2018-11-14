@@ -1,5 +1,5 @@
 ---
-title: ChartObjects.Width Property (Excel)
+title: ChartObjects.Width property (Excel)
 keywords: vbaxl10.chm497093
 f1_keywords:
 - vbaxl10.chm497093
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObjects.Width Property (Excel)
+# ChartObjects.Width property (Excel)
 
 Returns or sets a  **Double** value that represents the width, in points, of the object.
 

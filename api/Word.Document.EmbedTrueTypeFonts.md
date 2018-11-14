@@ -1,5 +1,5 @@
 ---
-title: Document.EmbedTrueTypeFonts Property (Word)
+title: Document.EmbedTrueTypeFonts property (Word)
 keywords: vbawd10.chm158007346
 f1_keywords:
 - vbawd10.chm158007346
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.EmbedTrueTypeFonts Property (Word)
+# Document.EmbedTrueTypeFonts property (Word)
 
  **True** if Microsoft Word embeds TrueType fonts in a document when it is saved. Read/write **Boolean** .
 

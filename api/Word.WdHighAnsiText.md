@@ -1,5 +1,5 @@
 ---
-title: WdHighAnsiText Enumeration (Word)
+title: WdHighAnsiText enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdHighAnsiText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdHighAnsiText Enumeration (Word)
+# WdHighAnsiText enumeration (Word)
 
 Specifies how Word interprets high-ANSI text.
 

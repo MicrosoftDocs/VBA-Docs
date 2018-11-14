@@ -1,5 +1,5 @@
 ---
-title: DataBarBorder.Type Property (Excel)
+title: DataBarBorder.Type property (Excel)
 keywords: vbaxl10.chm885073
 f1_keywords:
 - vbaxl10.chm885073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DataBarBorder.Type Property (Excel)
+# DataBarBorder.Type property (Excel)
 
 Returns or sets the type of border for data bars specified by a conditional formatting rule. Read/write
 
@@ -25,7 +25,7 @@ Returns or sets the type of border for data bars specified by a conditional form
 
 ## Return value
 
- **[XlDataBarBorderType](Excel.XlDataBarBorderType.md)**
+ **[xlDataBarBorderType](Excel.XlDataBarBorderType.md)**
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: Column.Parent Property (Word)
+title: Column.Parent property (Word)
 keywords: vbawd10.chm156173290
 f1_keywords:
 - vbawd10.chm156173290
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Column.Parent Property (Word)
+# Column.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **Column** object.
 

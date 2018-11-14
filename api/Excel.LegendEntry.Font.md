@@ -1,5 +1,5 @@
 ---
-title: LegendEntry.Font Property (Excel)
+title: LegendEntry.Font property (Excel)
 keywords: vbaxl10.chm586075
 f1_keywords:
 - vbaxl10.chm586075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendEntry.Font Property (Excel)
+# LegendEntry.Font property (Excel)
 
 Returns a  **[Font](Excel.Font(object).md)** object that represents the font of the specified object.
 

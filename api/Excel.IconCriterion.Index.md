@@ -1,5 +1,5 @@
 ---
-title: IconCriterion.Index Property (Excel)
+title: IconCriterion.Index property (Excel)
 keywords: vbaxl10.chm814073
 f1_keywords:
 - vbaxl10.chm814073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IconCriterion.Index Property (Excel)
+# IconCriterion.Index property (Excel)
 
 Returns a  **Long** value indicating which threshold the criteria represents. Read-only.
 

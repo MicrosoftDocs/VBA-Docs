@@ -1,5 +1,5 @@
 ---
-title: DisplayUnitLabel.Caption Property (Word)
+title: DisplayUnitLabel.Caption property (Word)
 keywords: vbawd10.chm94568448
 f1_keywords:
 - vbawd10.chm94568448
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DisplayUnitLabel.Caption Property (Word)
+# DisplayUnitLabel.Caption property (Word)
 
 Returns or sets the display unit label text. Read/write  **String** .
 

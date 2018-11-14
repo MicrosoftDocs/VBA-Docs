@@ -1,5 +1,5 @@
 ---
-title: Document.LockTheme Property (Word)
+title: Document.LockTheme property (Word)
 keywords: vbawd10.chm158007813
 f1_keywords:
 - vbawd10.chm158007813
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.LockTheme Property (Word)
+# Document.LockTheme property (Word)
 
 Returns or sets a  **Boolean** that represents whether a user can change a document theme. Read/write.
 

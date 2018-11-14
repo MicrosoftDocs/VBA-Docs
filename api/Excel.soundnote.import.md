@@ -1,5 +1,5 @@
 ---
-title: SoundNote.Import Method (Excel)
+title: SoundNote.Import method (Excel)
 keywords: vbaxl10.chm258074
 f1_keywords:
 - vbaxl10.chm258074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# SoundNote.Import Method (Excel)
+# SoundNote.Import method (Excel)
 
 Imports the specified sound note.
 

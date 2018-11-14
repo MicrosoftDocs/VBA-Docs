@@ -1,5 +1,5 @@
 ---
-title: Point.PictureUnit2 Property (Excel)
+title: Point.PictureUnit2 property (Excel)
 keywords: vbaxl10.chm576102
 f1_keywords:
 - vbaxl10.chm576102
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.PictureUnit2 Property (Excel)
+# Point.PictureUnit2 property (Excel)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType](Excel.Point.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double** .
 

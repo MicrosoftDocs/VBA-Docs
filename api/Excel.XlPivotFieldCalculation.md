@@ -1,5 +1,5 @@
 ---
-title: XlPivotFieldCalculation Enumeration (Excel)
+title: xlPivotFieldCalculation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFieldCalculation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlPivotFieldCalculation Enumeration (Excel)
+# xlPivotFieldCalculation enumeration (Excel)
 
 Specifies the type of calculation performed by a data PivotField when a custom calculation is used.
 

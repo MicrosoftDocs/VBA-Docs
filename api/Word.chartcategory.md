@@ -1,5 +1,5 @@
 ---
-title: ChartCategory Object (Word)
+title: ChartCategory object (Word)
 keywords: vbawd10.chm2188
 f1_keywords:
 - vbawd10.chm2188
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartCategory Object (Word)
+# ChartCategory object (Word)
 
 Represents all chart categories in the document, whether visible (unfiltered) or not.
 

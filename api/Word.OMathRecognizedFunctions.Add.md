@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunctions.Add Method (Word)
+title: OMathRecognizedFunctions.Add method (Word)
 keywords: vbawd10.chm143065288
 f1_keywords:
 - vbawd10.chm143065288
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunctions.Add Method (Word)
+# OMathRecognizedFunctions.Add method (Word)
 
 Creates a new recognized function and returns an  **OMathRecognizedFunction** object.
 

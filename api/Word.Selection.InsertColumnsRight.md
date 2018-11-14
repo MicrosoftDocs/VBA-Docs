@@ -1,5 +1,5 @@
 ---
-title: Selection.InsertColumnsRight Method (Word)
+title: Selection.InsertColumnsRight method (Word)
 keywords: vbawd10.chm158663194
 f1_keywords:
 - vbawd10.chm158663194
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.InsertColumnsRight Method (Word)
+# Selection.InsertColumnsRight method (Word)
 
 Inserts columns to the right of the current selection.
 

@@ -1,12 +1,12 @@
 ---
-title: PivotTable.HasAutoFormat Property (Excel)
+title: PivotTable.HasAutoFormat property (Excel)
 ms.assetid: dc60e0e8-3e52-431e-8037-7dd0890de7f8
 ms.date: 06/08/2017
 ms.prod: excel
 ---
 
 
-# PivotTable.HasAutoFormat Property (Excel)
+# PivotTable.HasAutoFormat property (Excel)
 
  **True** if the PivotTable report is automatically formatted when it's refreshed or when fields are moved. Read/write **Boolean** .
 

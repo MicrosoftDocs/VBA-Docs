@@ -1,5 +1,5 @@
 ---
-title: XlMailSystem Enumeration (Excel)
+title: xlMailSystem enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMailSystem
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlMailSystem Enumeration (Excel)
+# xlMailSystem enumeration (Excel)
 
 Specifies the mail system that is installed on the host computer.
 

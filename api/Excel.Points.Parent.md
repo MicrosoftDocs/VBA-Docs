@@ -1,5 +1,5 @@
 ---
-title: Points.Parent Property (Excel)
+title: Points.Parent property (Excel)
 keywords: vbaxl10.chm574073
 f1_keywords:
 - vbaxl10.chm574073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Points.Parent Property (Excel)
+# Points.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Interior.Creator Property (Word)
+title: Interior.Creator property (Word)
 keywords: vbawd10.chm2818197
 f1_keywords:
 - vbawd10.chm2818197
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Creator Property (Word)
+# Interior.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

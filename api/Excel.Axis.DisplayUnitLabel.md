@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitLabel Property (Excel)
+title: Axis.DisplayUnitLabel property (Excel)
 keywords: vbaxl10.chm561116
 f1_keywords:
 - vbaxl10.chm561116
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnitLabel Property (Excel)
+# Axis.DisplayUnitLabel property (Excel)
 
 Returns the  **[DisplayUnitLabel](Excel.DisplayUnitLabel(object).md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](Excel.Axis.HasDisplayUnitLabel.md)** property is set to **False** . Read-only.
 

@@ -1,12 +1,12 @@
 ---
-title: XlPivotFieldOrientation Enumeration (Word)
+title: xlPivotFieldOrientation enumeration (Word)
 ms.prod: word
 ms.assetid: 22557bfb-06e0-b481-691d-79ddd2793e52
 ms.date: 06/08/2017
 ---
 
 
-# XlPivotFieldOrientation Enumeration (Word)
+# xlPivotFieldOrientation enumeration (Word)
 
 Specifies the location of the field in a PivotTable report.
 

@@ -1,5 +1,5 @@
 ---
-title: Shapes.SelectAll Method (Excel)
+title: Shapes.SelectAll method (Excel)
 keywords: vbaxl10.chm638089
 f1_keywords:
 - vbaxl10.chm638089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shapes.SelectAll Method (Excel)
+# Shapes.SelectAll method (Excel)
 
 Selects all the shapes in the specified  **[Shapes](Excel.Shapes.md)** collection.
 

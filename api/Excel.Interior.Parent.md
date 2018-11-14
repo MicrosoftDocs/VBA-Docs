@@ -1,5 +1,5 @@
 ---
-title: Interior.Parent Property (Excel)
+title: Interior.Parent property (Excel)
 keywords: vbaxl10.chm550075
 f1_keywords:
 - vbaxl10.chm550075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Interior.Parent Property (Excel)
+# Interior.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

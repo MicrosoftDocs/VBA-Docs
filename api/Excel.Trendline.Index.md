@@ -1,5 +1,5 @@
 ---
-title: Trendline.Index Property (Excel)
+title: Trendline.Index property (Excel)
 keywords: vbaxl10.chm594082
 f1_keywords:
 - vbaxl10.chm594082
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Index Property (Excel)
+# Trendline.Index property (Excel)
 
 Returns a  **Long** value that represents the index number of the object within the collection of similar objects.
 

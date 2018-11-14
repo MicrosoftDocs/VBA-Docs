@@ -1,5 +1,5 @@
 ---
-title: Find.Style Property (Word)
+title: Find.Style property (Word)
 keywords: vbawd10.chm162529299
 f1_keywords:
 - vbawd10.chm162529299
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Find.Style Property (Word)
+# Find.Style property (Word)
 
 Returns or sets the style for the specified object. Read/write  **Variant** .
 

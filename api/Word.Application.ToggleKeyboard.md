@@ -1,5 +1,5 @@
 ---
-title: Application.ToggleKeyboard Method (Word)
+title: Application.ToggleKeyboard method (Word)
 keywords: vbawd10.chm158335378
 f1_keywords:
 - vbawd10.chm158335378
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ToggleKeyboard Method (Word)
+# Application.ToggleKeyboard method (Word)
 
 Switches the keyboard language setting between right-to-left and left-to-right languages.
 

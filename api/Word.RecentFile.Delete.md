@@ -1,5 +1,5 @@
 ---
-title: RecentFile.Delete Method (Word)
+title: RecentFile.Delete method (Word)
 keywords: vbawd10.chm157548549
 f1_keywords:
 - vbawd10.chm157548549
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RecentFile.Delete Method (Word)
+# RecentFile.Delete method (Word)
 
 Deletes the specified file on the list of recent files.
 

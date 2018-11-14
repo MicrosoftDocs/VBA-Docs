@@ -1,5 +1,5 @@
 ---
-title: Range.EnhMetaFileBits Property (Word)
+title: Range.EnhMetaFileBits property (Word)
 keywords: vbawd10.chm157155673
 f1_keywords:
 - vbawd10.chm157155673
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EnhMetaFileBits Property (Word)
+# Range.EnhMetaFileBits property (Word)
 
 Returns a  **Variant** that represents a picture representation of how a range of text appears.
 

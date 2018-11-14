@@ -1,5 +1,5 @@
 ---
-title: Style.Shading Property (Word)
+title: Style.Shading property (Word)
 keywords: vbawd10.chm153878535
 f1_keywords:
 - vbawd10.chm153878535
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.Shading Property (Word)
+# Style.Shading property (Word)
 
 Returns a  **Shading** object that refers to the shading formatting for the specified object.
 

@@ -1,5 +1,5 @@
 ---
-title: Model.Application Property (Excel)
+title: Model.Application property (Excel)
 keywords: vbaxl10.chm941073
 f1_keywords:
 - vbaxl10.chm941073
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Model.Application Property (Excel)
+# Model.Application property (Excel)
 
 Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 

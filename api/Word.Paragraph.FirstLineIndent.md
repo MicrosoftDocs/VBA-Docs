@@ -1,5 +1,5 @@
 ---
-title: Paragraph.FirstLineIndent Property (Word)
+title: Paragraph.FirstLineIndent property (Word)
 keywords: vbawd10.chm156696684
 f1_keywords:
 - vbawd10.chm156696684
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraph.FirstLineIndent Property (Word)
+# Paragraph.FirstLineIndent property (Word)
 
 Returns or sets the value (in points) for a first line or hanging indent. Use a positive value to set a first-line indent, and use a negative value to set a hanging indent. Read/write  **Single** .
 

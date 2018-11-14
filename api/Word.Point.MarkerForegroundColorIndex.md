@@ -1,5 +1,5 @@
 ---
-title: Point.MarkerForegroundColorIndex Property (Word)
+title: Point.MarkerForegroundColorIndex property (Word)
 keywords: vbawd10.chm262144076
 f1_keywords:
 - vbawd10.chm262144076
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.MarkerForegroundColorIndex Property (Word)
+# Point.MarkerForegroundColorIndex property (Word)
 
-Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[XlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the marker foreground color as an index into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
 
 
 ## Syntax

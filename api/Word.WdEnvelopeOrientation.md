@@ -1,5 +1,5 @@
 ---
-title: WdEnvelopeOrientation Enumeration (Word)
+title: WdEnvelopeOrientation enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdEnvelopeOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdEnvelopeOrientation Enumeration (Word)
+# WdEnvelopeOrientation enumeration (Word)
 
 Specifies the orientation of envelopes.
 

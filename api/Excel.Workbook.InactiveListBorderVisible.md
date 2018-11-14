@@ -1,5 +1,5 @@
 ---
-title: Workbook.InactiveListBorderVisible Property (Excel)
+title: Workbook.InactiveListBorderVisible property (Excel)
 keywords: vbaxl10.chm199229
 f1_keywords:
 - vbaxl10.chm199229
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.InactiveListBorderVisible Property (Excel)
+# Workbook.InactiveListBorderVisible property (Excel)
 
 A  **Boolean** value that specifies whether list borders are visible when a list is not active. Returns **True** if the border is visible. Read/write **Boolean** .
 

@@ -1,5 +1,5 @@
 ---
-title: PivotFormulas.Add Method (Excel)
+title: PivotFormulas.Add method (Excel)
 keywords: vbaxl10.chm233078
 f1_keywords:
 - vbaxl10.chm233078
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PivotFormulas.Add Method (Excel)
+# PivotFormulas.Add method (Excel)
 
 Creates a new PivotTable formula. 
 

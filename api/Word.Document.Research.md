@@ -1,5 +1,5 @@
 ---
-title: Document.Research Property (Word)
+title: Document.Research property (Word)
 keywords: vbawd10.chm158007822
 f1_keywords:
 - vbawd10.chm158007822
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.Research Property (Word)
+# Document.Research property (Word)
 
 Returns a  **Research** object that represents the research service for a document. Read-only.
 

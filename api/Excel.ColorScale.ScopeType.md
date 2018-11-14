@@ -1,5 +1,5 @@
 ---
-title: ColorScale.ScopeType Property (Excel)
+title: ColorScale.ScopeType property (Excel)
 keywords: vbaxl10.chm806083
 f1_keywords:
 - vbaxl10.chm806083
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ColorScale.ScopeType Property (Excel)
+# ColorScale.ScopeType property (Excel)
 
-Returns or sets one of the constants of the  **[XlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
+Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlPivotConditionScope.md)** enumeration, which determines the scope of the conditional format when it is applied to a PivotTable.
 
 
 ## Syntax

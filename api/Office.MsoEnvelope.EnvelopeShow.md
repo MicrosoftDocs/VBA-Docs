@@ -25,7 +25,7 @@ Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** obj
 
 ## Remarks
 
-The  **MsoEnvelope** object provides access to functionality that lets you send documents as e-mail messages directly from Microsoft Office applications.
+The  **MsoEnvelope** object provides access to functionality that lets you send documents as email messages directly from Microsoft Office applications.
 
 
 ## Example

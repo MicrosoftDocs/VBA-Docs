@@ -1,5 +1,5 @@
 ---
-title: PageSetup.FirstPageTray Property (Word)
+title: PageSetup.FirstPageTray property (Word)
 keywords: vbawd10.chm158400620
 f1_keywords:
 - vbawd10.chm158400620
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.FirstPageTray Property (Word)
+# PageSetup.FirstPageTray property (Word)
 
 Returns or sets the paper tray to use for the first page of a document or section. Read/write  **WdPaperTray** .
 

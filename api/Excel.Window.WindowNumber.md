@@ -1,5 +1,5 @@
 ---
-title: Window.WindowNumber Property (Excel)
+title: Window.WindowNumber property (Excel)
 keywords: vbaxl10.chm356124
 f1_keywords:
 - vbaxl10.chm356124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.WindowNumber Property (Excel)
+# Window.WindowNumber property (Excel)
 
 Returns the window number. For example, a window named "Book1.xls:2" has 2 as its window number. Most windows have the window number 1. Read-only  **Long** .
 

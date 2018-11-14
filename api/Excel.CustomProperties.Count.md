@@ -1,5 +1,5 @@
 ---
-title: CustomProperties.Count Property (Excel)
+title: CustomProperties.Count property (Excel)
 keywords: vbaxl10.chm680074
 f1_keywords:
 - vbaxl10.chm680074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomProperties.Count Property (Excel)
+# CustomProperties.Count property (Excel)
 
 Returns a  **Long** value that represents the number of objects in the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: Point.Height Property (Excel)
+title: Point.Height property (Excel)
 keywords: vbaxl10.chm576104
 f1_keywords:
 - vbaxl10.chm576104
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Point.Height Property (Excel)
+# Point.Height property (Excel)
 
 Returns the height, in points, of the object. Read-only.
 

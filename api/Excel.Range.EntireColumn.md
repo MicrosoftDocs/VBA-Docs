@@ -1,5 +1,5 @@
 ---
-title: Range.EntireColumn Property (Excel)
+title: Range.EntireColumn property (Excel)
 keywords: vbaxl10.chm144122
 f1_keywords:
 - vbaxl10.chm144122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.EntireColumn Property (Excel)
+# Range.EntireColumn property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the entire column (or columns) that contains the specified range. Read-only.
 

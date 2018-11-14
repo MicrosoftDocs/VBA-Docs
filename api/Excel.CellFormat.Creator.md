@@ -1,5 +1,5 @@
 ---
-title: CellFormat.Creator Property (Excel)
+title: CellFormat.Creator property (Excel)
 keywords: vbaxl10.chm675074
 f1_keywords:
 - vbaxl10.chm675074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CellFormat.Creator Property (Excel)
+# CellFormat.Creator property (Excel)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
 

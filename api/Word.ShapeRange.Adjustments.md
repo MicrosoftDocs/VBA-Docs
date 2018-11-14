@@ -1,5 +1,5 @@
 ---
-title: ShapeRange.Adjustments Property (Word)
+title: ShapeRange.Adjustments property (Word)
 keywords: vbawd10.chm162857060
 f1_keywords:
 - vbawd10.chm162857060
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ShapeRange.Adjustments Property (Word)
+# ShapeRange.Adjustments property (Word)
 
 Returns an  **[Adjustments](Word.Adjustments.md)** object that contains adjustment values for all the adjustments in the specified **ShapeRange** object that represents an AutoShape or WordArt. Read-only.
 

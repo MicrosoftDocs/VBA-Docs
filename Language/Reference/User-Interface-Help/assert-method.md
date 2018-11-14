@@ -23,7 +23,7 @@ _object_**.Assert**_booleanexpression_
 The  **Assert** method syntax has the following object qualifier and argument:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the  **Debug** object.|
 | _booleanexpression_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that evaluates to either **True** or **False**.|

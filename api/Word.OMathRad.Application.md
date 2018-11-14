@@ -1,5 +1,5 @@
 ---
-title: OMathRad.Application Property (Word)
+title: OMathRad.Application property (Word)
 keywords: vbawd10.chm247791716
 f1_keywords:
 - vbawd10.chm247791716
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRad.Application Property (Word)
+# OMathRad.Application property (Word)
 
 Returns an  **[Application](Word.Application.md)** object that represents the Microsoft Word application.
 

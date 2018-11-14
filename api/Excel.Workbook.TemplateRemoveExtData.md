@@ -1,5 +1,5 @@
 ---
-title: Workbook.TemplateRemoveExtData Property (Excel)
+title: Workbook.TemplateRemoveExtData property (Excel)
 keywords: vbaxl10.chm199171
 f1_keywords:
 - vbaxl10.chm199171
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.TemplateRemoveExtData Property (Excel)
+# Workbook.TemplateRemoveExtData property (Excel)
 
  **True** if external data references are removed when the workbook is saved as a template. Read/write **Boolean** .
 

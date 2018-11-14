@@ -1,5 +1,5 @@
 ---
-title: Pane.VisibleRange Property (Excel)
+title: Pane.VisibleRange property (Excel)
 keywords: vbaxl10.chm360079
 f1_keywords:
 - vbaxl10.chm360079
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Pane.VisibleRange Property (Excel)
+# Pane.VisibleRange property (Excel)
 
 Returns a  **[Range](Excel.Range(object).md)** object that represents the range of cells that are visible in the window or pane. If a column or row is partially visible, it's included in the range. Read-only.
 

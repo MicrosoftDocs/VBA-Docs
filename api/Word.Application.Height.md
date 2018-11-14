@@ -1,5 +1,5 @@
 ---
-title: Application.Height Property (Word)
+title: Application.Height property (Word)
 keywords: vbawd10.chm158335066
 f1_keywords:
 - vbawd10.chm158335066
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.Height Property (Word)
+# Application.Height property (Word)
 
 Returns or sets the height of the active document window in pixels. Read/write  **Long** .
 

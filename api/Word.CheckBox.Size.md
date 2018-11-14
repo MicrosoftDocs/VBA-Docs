@@ -1,5 +1,5 @@
 ---
-title: CheckBox.Size Property (Word)
+title: CheckBox.Size property (Word)
 keywords: vbawd10.chm153485314
 f1_keywords:
 - vbawd10.chm153485314
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CheckBox.Size Property (Word)
+# CheckBox.Size property (Word)
 
 Returns or sets the size of a check box, in points. Read/write  **Single** .
 

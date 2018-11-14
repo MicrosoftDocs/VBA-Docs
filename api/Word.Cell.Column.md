@@ -1,5 +1,5 @@
 ---
-title: Cell.Column Property (Word)
+title: Cell.Column property (Word)
 keywords: vbawd10.chm156106853
 f1_keywords:
 - vbawd10.chm156106853
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Cell.Column Property (Word)
+# Cell.Column property (Word)
 
 Returns a  **Column** object that represents the table column containing the specified cell. Read-only.
 

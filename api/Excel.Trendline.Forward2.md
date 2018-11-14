@@ -1,5 +1,5 @@
 ---
-title: Trendline.Forward2 Property (Excel)
+title: Trendline.Forward2 property (Excel)
 keywords: vbaxl10.chm594092
 f1_keywords:
 - vbaxl10.chm594092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Forward2 Property (Excel)
+# Trendline.Forward2 property (Excel)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends forward. Read/write  **Double** .
 

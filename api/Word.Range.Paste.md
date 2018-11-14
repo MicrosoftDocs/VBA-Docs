@@ -1,5 +1,5 @@
 ---
-title: Range.Paste Method (Word)
+title: Range.Paste method (Word)
 keywords: vbawd10.chm157155449
 f1_keywords:
 - vbawd10.chm157155449
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Range.Paste Method (Word)
+# Range.Paste method (Word)
 
 Inserts the contents of the Clipboard at the specified range.
 

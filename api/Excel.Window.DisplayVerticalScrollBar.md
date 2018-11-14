@@ -1,5 +1,5 @@
 ---
-title: Window.DisplayVerticalScrollBar Property (Excel)
+title: Window.DisplayVerticalScrollBar property (Excel)
 keywords: vbaxl10.chm356088
 f1_keywords:
 - vbaxl10.chm356088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Window.DisplayVerticalScrollBar Property (Excel)
+# Window.DisplayVerticalScrollBar property (Excel)
 
  **True** if the vertical scroll bar is displayed. Read/write **Boolean** .
 

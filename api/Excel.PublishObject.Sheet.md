@@ -1,5 +1,5 @@
 ---
-title: PublishObject.Sheet Property (Excel)
+title: PublishObject.Sheet property (Excel)
 keywords: vbaxl10.chm652076
 f1_keywords:
 - vbaxl10.chm652076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PublishObject.Sheet Property (Excel)
+# PublishObject.Sheet property (Excel)
 
 Returns the sheet name for the specified  **[PublishObject](Excel.PublishObject.md)** object. Read-only **String** .
 

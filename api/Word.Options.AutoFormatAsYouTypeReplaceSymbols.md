@@ -1,5 +1,5 @@
 ---
-title: Options.AutoFormatAsYouTypeReplaceSymbols Property (Word)
+title: Options.AutoFormatAsYouTypeReplaceSymbols property (Word)
 keywords: vbawd10.chm162988297
 f1_keywords:
 - vbawd10.chm162988297
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Options.AutoFormatAsYouTypeReplaceSymbols Property (Word)
+# Options.AutoFormatAsYouTypeReplaceSymbols property (Word)
 
  **True** if two consecutive hyphens (--) are replaced with an en dash (-) or an em dash (—) as you type. Read/write **Boolean** .If the hyphens are typed with leading and trailing spaces, Word replaces the hyphens with an en dash; if there are no trailing spaces, the hyphens are replaced with an em dash.
 

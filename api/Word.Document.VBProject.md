@@ -1,5 +1,5 @@
 ---
-title: Document.VBProject Property (Word)
+title: Document.VBProject property (Word)
 keywords: vbawd10.chm158007395
 f1_keywords:
 - vbawd10.chm158007395
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.VBProject Property (Word)
+# Document.VBProject property (Word)
 
 Returns the  **VBProject** object for the specified template or document.
 

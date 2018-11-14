@@ -1,5 +1,5 @@
 ---
-title: Paragraphs.Count Property (Word)
+title: Paragraphs.Count property (Word)
 keywords: vbawd10.chm156762114
 f1_keywords:
 - vbawd10.chm156762114
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Paragraphs.Count Property (Word)
+# Paragraphs.Count property (Word)
 
 Returns a  **Long** that represents the number of paragraphs in the collection. Read-only.
 

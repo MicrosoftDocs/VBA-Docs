@@ -1,5 +1,5 @@
 ---
-title: ChartTitle.VerticalAlignment Property (Excel)
+title: ChartTitle.VerticalAlignment property (Excel)
 keywords: vbaxl10.chm563089
 f1_keywords:
 - vbaxl10.chm563089
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartTitle.VerticalAlignment Property (Excel)
+# ChartTitle.VerticalAlignment property (Excel)
 
 Returns or sets a  **Variant** value that represents the vertical alignment of the specified object.
 

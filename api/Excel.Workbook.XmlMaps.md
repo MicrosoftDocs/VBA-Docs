@@ -1,5 +1,5 @@
 ---
-title: Workbook.XmlMaps Property (Excel)
+title: Workbook.XmlMaps property (Excel)
 keywords: vbaxl10.chm199225
 f1_keywords:
 - vbaxl10.chm199225
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Workbook.XmlMaps Property (Excel)
+# Workbook.XmlMaps property (Excel)
 
  Returns an **XmlMaps** collection that represents the schema maps that have been added to the specified workbook. Read-only.
 

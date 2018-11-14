@@ -1,5 +1,5 @@
 ---
-title: Scenarios.Item Method (Excel)
+title: Scenarios.Item method (Excel)
 keywords: vbaxl10.chm362076
 f1_keywords:
 - vbaxl10.chm362076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Scenarios.Item Method (Excel)
+# Scenarios.Item method (Excel)
 
 Returns a single object from a collection.
 

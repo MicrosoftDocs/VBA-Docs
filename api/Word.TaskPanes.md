@@ -1,5 +1,5 @@
 ---
-title: TaskPanes Object (Word)
+title: TaskPanes object (Word)
 ms.prod: word
 api_name:
 - Word.TaskPanes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TaskPanes Object (Word)
+# TaskPanes object (Word)
 
 A collection of  **TaskPane** objects that contains commonly performed tasks in Microsoft Word.
 

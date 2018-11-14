@@ -1,5 +1,5 @@
 ---
-title: Document.RunAutoMacro Method (Word)
+title: Document.RunAutoMacro method (Word)
 keywords: vbawd10.chm158007408
 f1_keywords:
 - vbawd10.chm158007408
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.RunAutoMacro Method (Word)
+# Document.RunAutoMacro method (Word)
 
 Runs an auto macro that's stored in the specified document. If the specified auto macro doesn't exist, nothing happens.
 

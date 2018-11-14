@@ -1,5 +1,5 @@
 ---
-title: Document.CanCheckin Method (Word)
+title: Document.CanCheckin method (Word)
 keywords: vbawd10.chm158007647
 f1_keywords:
 - vbawd10.chm158007647
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Document.CanCheckin Method (Word)
+# Document.CanCheckin method (Word)
 
  **True** if Microsoft Word can check in a specified document to a server. Read/write **Boolean** .
 

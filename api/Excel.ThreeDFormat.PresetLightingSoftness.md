@@ -1,5 +1,5 @@
 ---
-title: ThreeDFormat.PresetLightingSoftness Property (Excel)
+title: ThreeDFormat.PresetLightingSoftness property (Excel)
 keywords: vbaxl10.chm119011
 f1_keywords:
 - vbaxl10.chm119011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThreeDFormat.PresetLightingSoftness Property (Excel)
+# ThreeDFormat.PresetLightingSoftness property (Excel)
 
 Returns or sets the intensity of the extrusion lighting. Read/write  **MsoPresetLightingSoftness** .
 

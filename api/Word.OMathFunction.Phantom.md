@@ -1,5 +1,5 @@
 ---
-title: OMathFunction.Phantom Property (Word)
+title: OMathFunction.Phantom property (Word)
 keywords: vbawd10.chm22151286
 f1_keywords:
 - vbawd10.chm22151286
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathFunction.Phantom Property (Word)
+# OMathFunction.Phantom property (Word)
 
 Returns an  **[OMathPhantom](Word.OMathPhantom.md)** object that represents an object used for advanced layout of an equation. Read-only.
 

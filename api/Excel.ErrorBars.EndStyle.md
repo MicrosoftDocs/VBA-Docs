@@ -1,5 +1,5 @@
 ---
-title: ErrorBars.EndStyle Property (Excel)
+title: ErrorBars.EndStyle property (Excel)
 keywords: vbaxl10.chm624079
 f1_keywords:
 - vbaxl10.chm624079
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# ErrorBars.EndStyle Property (Excel)
+# ErrorBars.EndStyle property (Excel)
 
-Returns or sets the end style for the error bars. Can be one of the following  **[XlEndStyleCap](Excel.XlEndStyleCap.md)** constants: **xlCap** or **xlNoCap** . Read/write **Long** .
+Returns or sets the end style for the error bars. Can be one of the following  **[xlEndStyleCap](Excel.XlEndStyleCap.md)** constants: **xlCap** or **xlNoCap** . Read/write **Long** .
 
 
 ## Syntax

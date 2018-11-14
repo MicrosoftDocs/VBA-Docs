@@ -1,5 +1,5 @@
 ---
-title: Axis.DisplayUnitLabel Property (Word)
+title: Axis.DisplayUnitLabel property (Word)
 keywords: vbawd10.chm113049677
 f1_keywords:
 - vbawd10.chm113049677
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Axis.DisplayUnitLabel Property (Word)
+# Axis.DisplayUnitLabel property (Word)
 
 Returns the  **[DisplayUnitLabel](Word.DisplayUnitLabel.md)** object for the specified axis. Returns **null** if the **[HasDisplayUnitLabel](Word.Axis.HasDisplayUnitLabel.md)** property is set to **False** . Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: Shape Object (Word)
+title: Shape object (Word)
 keywords: vbawd10.chm2464
 f1_keywords:
 - vbawd10.chm2464
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Shape Object (Word)
+# Shape object (Word)
 
 Represents an object in the drawing layer, such as an AutoShape, freeform, OLE object, ActiveX control, or picture. The  **Shape** object is a member of the **[Shapes](Word.shapes.md)** collection, which includes all the shapes in the main story of a document or in all the headers and footers of a document.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.UserAddress Property (Word)
+title: Application.UserAddress property (Word)
 keywords: vbawd10.chm158335030
 f1_keywords:
 - vbawd10.chm158335030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.UserAddress Property (Word)
+# Application.UserAddress property (Word)
 
 Returns or sets the user's mailing address. Read/write  **String** .
 

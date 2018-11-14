@@ -1,5 +1,5 @@
 ---
-title: OMathNary.Parent Property (Word)
+title: OMathNary.Parent property (Word)
 keywords: vbawd10.chm25428070
 f1_keywords:
 - vbawd10.chm25428070
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathNary.Parent Property (Word)
+# OMathNary.Parent property (Word)
 
 Returns an  **Object** that represents the parent object of the specified **OMathNary** object.
 

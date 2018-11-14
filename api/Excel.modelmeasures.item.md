@@ -1,5 +1,5 @@
 ---
-title: ModelMeasures.Item Method (Excel)
+title: ModelMeasures.Item method (Excel)
 keywords: vbaxl10.chm980074
 f1_keywords:
 - vbaxl10.chm980074
@@ -9,7 +9,7 @@ ms.prod: excel
 ---
 
 
-# ModelMeasures.Item Method (Excel)
+# ModelMeasures.Item method (Excel)
 
 Returns a single object from a collection.
 

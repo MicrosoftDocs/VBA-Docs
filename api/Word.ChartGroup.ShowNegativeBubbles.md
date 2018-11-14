@@ -1,5 +1,5 @@
 ---
-title: ChartGroup.ShowNegativeBubbles Property (Word)
+title: ChartGroup.ShowNegativeBubbles property (Word)
 keywords: vbawd10.chm263454758
 f1_keywords:
 - vbawd10.chm263454758
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartGroup.ShowNegativeBubbles Property (Word)
+# ChartGroup.ShowNegativeBubbles property (Word)
 
  **True** if negative bubbles are shown for the chart group. Read/write **Boolean** .
 

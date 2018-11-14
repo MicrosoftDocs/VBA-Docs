@@ -1,5 +1,5 @@
 ---
-title: LegendKey.PictureUnit2 Property (Excel)
+title: LegendKey.PictureUnit2 property (Excel)
 keywords: vbaxl10.chm590095
 f1_keywords:
 - vbaxl10.chm590095
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LegendKey.PictureUnit2 Property (Excel)
+# LegendKey.PictureUnit2 property (Excel)
 
 Returns or sets the unit for each picture on the chart if the  **[PictureType ](Excel.LegendKey.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double** .
 

@@ -1,5 +1,5 @@
 ---
-title: Trendline.Backward2 Property (Word)
+title: Trendline.Backward2 property (Word)
 keywords: vbawd10.chm26348122
 f1_keywords:
 - vbawd10.chm26348122
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Trendline.Backward2 Property (Word)
+# Trendline.Backward2 property (Word)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Double** .
 

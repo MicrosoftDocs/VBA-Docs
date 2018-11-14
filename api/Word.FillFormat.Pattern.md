@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Pattern Property (Word)
+title: FillFormat.Pattern property (Word)
 keywords: vbawd10.chm164102250
 f1_keywords:
 - vbawd10.chm164102250
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Pattern Property (Word)
+# FillFormat.Pattern property (Word)
 
 Returns or sets a  **MsoPatternType** constant that represents the pattern applied to the specified fill or line. Read-only.
 

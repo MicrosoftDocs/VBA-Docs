@@ -1,5 +1,5 @@
 ---
-title: Application.ChartDataPointTrack Property (Excel)
+title: Application.ChartDataPointTrack property (Excel)
 keywords: vbaxl10.chm133341
 f1_keywords:
 - vbaxl10.chm133341
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.ChartDataPointTrack Property (Excel)
+# Application.ChartDataPointTrack property (Excel)
 
  **True** will cause all charts in newly created documents to use the cell reference tracking behavior. **Boolean**
 

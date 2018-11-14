@@ -1,5 +1,5 @@
 ---
-title: ContentControl.BuildingBlockType Property (Word)
+title: ContentControl.BuildingBlockType property (Word)
 keywords: vbawd10.chm266534933
 f1_keywords:
 - vbawd10.chm266534933
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControl.BuildingBlockType Property (Word)
+# ContentControl.BuildingBlockType property (Word)
 
 Returns or sets a  **WdBuildingBlockTypes** constant that represents they type of building block for a building block content control. Read/write.
 

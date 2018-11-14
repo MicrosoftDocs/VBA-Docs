@@ -1,5 +1,5 @@
 ---
-title: ProtectedViewWindow.Caption Property (Excel)
+title: ProtectedViewWindow.Caption property (Excel)
 keywords: vbaxl10.chm914074
 f1_keywords:
 - vbaxl10.chm914074
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ProtectedViewWindow.Caption Property (Excel)
+# ProtectedViewWindow.Caption property (Excel)
 
 Returns or sets a  **Variant** value that represents the name that appears in the title bar of the **Protected View** window. Read/write
 

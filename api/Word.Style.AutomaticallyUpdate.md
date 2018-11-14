@@ -1,5 +1,5 @@
 ---
-title: Style.AutomaticallyUpdate Property (Word)
+title: Style.AutomaticallyUpdate property (Word)
 keywords: vbawd10.chm153878541
 f1_keywords:
 - vbawd10.chm153878541
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Style.AutomaticallyUpdate Property (Word)
+# Style.AutomaticallyUpdate property (Word)
 
  **True** if the style is automatically redefined based on the selection. Read/write **Boolean** .
 

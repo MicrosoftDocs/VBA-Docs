@@ -1,5 +1,5 @@
 ---
-title: FillFormat.Parent Property (Excel)
+title: FillFormat.Parent property (Excel)
 keywords: vbaxl10.chm115001
 f1_keywords:
 - vbaxl10.chm115001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FillFormat.Parent Property (Excel)
+# FillFormat.Parent property (Excel)
 
 Returns the parent object for the specified object. Read-only.
 

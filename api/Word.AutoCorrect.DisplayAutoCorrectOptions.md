@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect.DisplayAutoCorrectOptions Property (Word)
+title: AutoCorrect.DisplayAutoCorrectOptions property (Word)
 keywords: vbawd10.chm155779092
 f1_keywords:
 - vbawd10.chm155779092
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AutoCorrect.DisplayAutoCorrectOptions Property (Word)
+# AutoCorrect.DisplayAutoCorrectOptions property (Word)
 
  **True** for Microsoft Word to display the **AutoCorrect Options** button. Read/write **Boolean** .
 

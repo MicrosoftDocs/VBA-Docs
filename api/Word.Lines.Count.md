@@ -1,5 +1,5 @@
 ---
-title: Lines.Count Property (Word)
+title: Lines.Count property (Word)
 keywords: vbawd10.chm67108866
 f1_keywords:
 - vbawd10.chm67108866
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Lines.Count Property (Word)
+# Lines.Count property (Word)
 
 Returns a  **Long** that represents the number of lines in the collection. Read-only.
 

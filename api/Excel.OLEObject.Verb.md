@@ -1,5 +1,5 @@
 ---
-title: OLEObject.Verb Method (Excel)
+title: OLEObject.Verb method (Excel)
 keywords: vbaxl10.chm417080
 f1_keywords:
 - vbaxl10.chm417080
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEObject.Verb Method (Excel)
+# OLEObject.Verb method (Excel)
 
 Sends a verb to the server of the specified OLE object.
 
@@ -29,7 +29,7 @@ Sends a verb to the server of the specified OLE object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Verb_|Optional| **[XlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **XlOLEVerb** constants **xlOpen** and **xlPrimary**).|
+| _Verb_|Optional| **[xlOLEVerb](Excel.XlOLEVerb.md)**|The verb that the server of the OLE object should act on. If this argument is omitted, the default verb is sent. The available verbs are determined by the object's source application. Typical verbs for an OLE object are Open and Primary (represented by the  **xlOLEVerb** constants **xlOpen** and **xlPrimary**).|
 
 ## Return value
 

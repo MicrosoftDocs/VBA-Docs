@@ -1,5 +1,5 @@
 ---
-title: AllowEditRange.Delete Method (Excel)
+title: AllowEditRange.Delete method (Excel)
 keywords: vbaxl10.chm725076
 f1_keywords:
 - vbaxl10.chm725076
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# AllowEditRange.Delete Method (Excel)
+# AllowEditRange.Delete method (Excel)
 
 Deletes the object.
 

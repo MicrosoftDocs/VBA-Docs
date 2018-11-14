@@ -1,5 +1,5 @@
 ---
-title: RectangularGradient.Application Property (Excel)
+title: RectangularGradient.Application property (Excel)
 keywords: vbaxl10.chm856073
 f1_keywords:
 - vbaxl10.chm856073
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RectangularGradient.Application Property (Excel)
+# RectangularGradient.Application property (Excel)
 
 When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 

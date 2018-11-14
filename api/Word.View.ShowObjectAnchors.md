@@ -1,5 +1,5 @@
 ---
-title: View.ShowObjectAnchors Property (Word)
+title: View.ShowObjectAnchors property (Word)
 keywords: vbawd10.chm161808395
 f1_keywords:
 - vbawd10.chm161808395
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.ShowObjectAnchors Property (Word)
+# View.ShowObjectAnchors property (Word)
 
  **True** if object anchors are displayed next to items that can be positioned in print layout view. Read/write **Boolean** .
 

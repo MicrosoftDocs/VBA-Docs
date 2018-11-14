@@ -1,5 +1,5 @@
 ---
-title: XMLSchemaReference.Delete Method (Word)
+title: XMLSchemaReference.Delete method (Word)
 keywords: vbawd10.chm32505956
 f1_keywords:
 - vbawd10.chm32505956
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLSchemaReference.Delete Method (Word)
+# XMLSchemaReference.Delete method (Word)
 
 Deletes the specified XML Schema Reference.
 

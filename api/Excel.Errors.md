@@ -1,5 +1,5 @@
 ---
-title: Errors Object (Excel)
+title: Errors object (Excel)
 keywords: vbaxl10.chm699072
 f1_keywords:
 - vbaxl10.chm699072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Errors Object (Excel)
+# Errors object (Excel)
 
 Represents the various spreadsheet errors for a range.
 

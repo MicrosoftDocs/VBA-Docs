@@ -1,5 +1,5 @@
 ---
-title: Charts.Delete Method (Excel)
+title: Charts.Delete method (Excel)
 keywords: vbaxl10.chm217075
 f1_keywords:
 - vbaxl10.chm217075
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Charts.Delete Method (Excel)
+# Charts.Delete method (Excel)
 
 Deletes the object.
 

@@ -1,5 +1,5 @@
 ---
-title: OMathRecognizedFunction Object (Word)
+title: OMathRecognizedFunction object (Word)
 keywords: vbawd10.chm3475
 f1_keywords:
 - vbawd10.chm3475
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OMathRecognizedFunction Object (Word)
+# OMathRecognizedFunction object (Word)
 
 Represents a recognized function. The  **OMathRecognizedFunction** object is a member of the **OMathRecognizedFunctions** collection.
 

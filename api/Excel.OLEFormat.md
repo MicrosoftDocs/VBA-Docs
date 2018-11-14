@@ -1,5 +1,5 @@
 ---
-title: OLEFormat Object (Excel)
+title: OLEFormat object (Excel)
 keywords: vbaxl10.chm631072
 f1_keywords:
 - vbaxl10.chm631072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OLEFormat Object (Excel)
+# OLEFormat object (Excel)
 
 Contains OLE object properties.
 

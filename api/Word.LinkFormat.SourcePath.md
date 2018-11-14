@@ -1,5 +1,5 @@
 ---
-title: LinkFormat.SourcePath Property (Word)
+title: LinkFormat.SourcePath property (Word)
 keywords: vbawd10.chm154206213
 f1_keywords:
 - vbawd10.chm154206213
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkFormat.SourcePath Property (Word)
+# LinkFormat.SourcePath property (Word)
 
 Returns the path of the source file for the specified linked OLE object, picture, or field. Read-only  **String** .
 

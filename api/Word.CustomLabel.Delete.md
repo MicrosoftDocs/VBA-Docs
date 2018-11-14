@@ -1,5 +1,5 @@
 ---
-title: CustomLabel.Delete Method (Word)
+title: CustomLabel.Delete method (Word)
 keywords: vbawd10.chm152371301
 f1_keywords:
 - vbawd10.chm152371301
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomLabel.Delete Method (Word)
+# CustomLabel.Delete method (Word)
 
 Deletes the specified custom label.
 

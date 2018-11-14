@@ -1,5 +1,5 @@
 ---
-title: XMLMapping.IsMapped Property (Word)
+title: XMLMapping.IsMapped property (Word)
 keywords: vbawd10.chm199688192
 f1_keywords:
 - vbawd10.chm199688192
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XMLMapping.IsMapped Property (Word)
+# XMLMapping.IsMapped property (Word)
 
 Returns a  **Boolean** that represents whether the content control in the document is mapped to an XML node in the document's XML data store. Read-only.
 

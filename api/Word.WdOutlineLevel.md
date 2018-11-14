@@ -1,5 +1,5 @@
 ---
-title: WdOutlineLevel Enumeration (Word)
+title: WdOutlineLevel enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdOutlineLevel
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdOutlineLevel Enumeration (Word)
+# WdOutlineLevel enumeration (Word)
 
 Specifies the outline level to apply to a paragraph.
 

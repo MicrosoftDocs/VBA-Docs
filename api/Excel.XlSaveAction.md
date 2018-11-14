@@ -1,5 +1,5 @@
 ---
-title: XlSaveAction Enumeration (Excel)
+title: xlSaveAction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveAction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# XlSaveAction Enumeration (Excel)
+# xlSaveAction enumeration (Excel)
 
 Specifies during file close if the file will be saved.
 

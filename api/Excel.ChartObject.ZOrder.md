@@ -1,5 +1,5 @@
 ---
-title: ChartObject.ZOrder Property (Excel)
+title: ChartObject.ZOrder property (Excel)
 keywords: vbaxl10.chm494096
 f1_keywords:
 - vbaxl10.chm494096
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ChartObject.ZOrder Property (Excel)
+# ChartObject.ZOrder property (Excel)
 
 Returns the z-order position of the object. Read-only  **Long** .
 

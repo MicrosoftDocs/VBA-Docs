@@ -1,5 +1,5 @@
 ---
-title: Selection.Paragraphs Property (Word)
+title: Selection.Paragraphs property (Word)
 keywords: vbawd10.chm158662715
 f1_keywords:
 - vbawd10.chm158662715
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Selection.Paragraphs Property (Word)
+# Selection.Paragraphs property (Word)
 
 Returns a  **[Paragraphs](Word.paragraphs.md)** collection that represents all the paragraphs in the specified selection. Read-only.
 

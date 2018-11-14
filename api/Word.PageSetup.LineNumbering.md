@@ -1,5 +1,5 @@
 ---
-title: PageSetup.LineNumbering Property (Word)
+title: PageSetup.LineNumbering property (Word)
 keywords: vbawd10.chm158400630
 f1_keywords:
 - vbawd10.chm158400630
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PageSetup.LineNumbering Property (Word)
+# PageSetup.LineNumbering property (Word)
 
 Returns or sets a  **[LineNumbering](Word.LineNumbering.md)** object that represents the line numbers for the specified **PageSetup** object.
 

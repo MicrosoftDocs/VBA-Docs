@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartColor Property (Word)
+title: Chart.ChartColor property (Word)
 keywords: vbawd10.chm79366563
 f1_keywords:
 - vbawd10.chm79366563
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartColor Property (Word)
+# Chart.ChartColor property (Word)
 
 Returns or sets an integer that represents the color scheme for the chart. Read-write.
 

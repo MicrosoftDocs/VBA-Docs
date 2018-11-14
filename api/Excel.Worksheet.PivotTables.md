@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PivotTables Method (Excel)
+title: Worksheet.PivotTables method (Excel)
 keywords: vbaxl10.chm175118
 f1_keywords:
 - vbaxl10.chm175118
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Worksheet.PivotTables Method (Excel)
+# Worksheet.PivotTables method (Excel)
 
 Returns an object that represents either a single PivotTable report (a  **[PivotTable](Excel.PivotTable.md)** object) or a collection of all the PivotTable reports (a **[PivotTables](Excel.PivotTables.md)** object) on a worksheet. Read-only.
 

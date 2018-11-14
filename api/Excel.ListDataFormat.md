@@ -1,5 +1,5 @@
 ---
-title: ListDataFormat Object (Excel)
+title: ListDataFormat object (Excel)
 keywords: vbaxl10.chm757072
 f1_keywords:
 - vbaxl10.chm757072
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ListDataFormat Object (Excel)
+# ListDataFormat object (Excel)
 
 The  **ListDataFormat** object holds all the data type properties of the **[ListColumn](Excel.ListColumn.md)** object. These properties are read-only.
 

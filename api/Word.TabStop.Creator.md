@@ -1,5 +1,5 @@
 ---
-title: TabStop.Creator Property (Word)
+title: TabStop.Creator property (Word)
 keywords: vbawd10.chm156500969
 f1_keywords:
 - vbawd10.chm156500969
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop.Creator Property (Word)
+# TabStop.Creator property (Word)
 
 Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
 

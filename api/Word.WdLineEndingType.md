@@ -1,5 +1,5 @@
 ---
-title: WdLineEndingType Enumeration (Word)
+title: WdLineEndingType enumeration (Word)
 ms.prod: word
 api_name:
 - Word.WdLineEndingType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WdLineEndingType Enumeration (Word)
+# WdLineEndingType enumeration (Word)
 
 Specifies how Microsoft Word marks the line and paragraph breaks in documents saved as text files.
 

@@ -24,7 +24,7 @@ _object_. **CreateTextFile(**_filename_ [ **,**_overwrite_ [ **,**_unicode_ ]] *
 The  **CreateTextFile** method has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject** or **Folder** object.|
 | _filename_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that identifies the file to create.|

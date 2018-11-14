@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailMergeEnvelope.Bcc Property (Publisher)
 
-Gets or sets a semicolon-delimited list of e-mail addresses that receive a blind carbon copy (BCC) of the e-mail message. Read/write.
+Gets or sets a semicolon-delimited list of email addresses that receive a blind carbon copy (BCC) of the email message. Read/write.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-Set the  **Bcc** property to a string of e-mail addresses separated by semicolons, as shown in the following example.
+Set the  **Bcc** property to a string of email addresses separated by semicolons, as shown in the following example.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Line Object (Word)
+title: Line object (Word)
 keywords: vbawd10.chm757
 f1_keywords:
 - vbawd10.chm757
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Line Object (Word)
+# Line object (Word)
 
 Represents an individual line in a **Rectangle** object of type wdTextRectangle. Use the **Line** object and related methods and properties to programmatically define page layout in a document.
 

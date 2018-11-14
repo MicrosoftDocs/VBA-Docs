@@ -1,5 +1,5 @@
 ---
-title: Font.Scaling Property (Word)
+title: Font.Scaling property (Word)
 keywords: vbawd10.chm156369041
 f1_keywords:
 - vbawd10.chm156369041
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font.Scaling Property (Word)
+# Font.Scaling property (Word)
 
 Returns or sets the scaling percentage applied to the font. Read/write  **Long** .
 

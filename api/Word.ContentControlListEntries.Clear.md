@@ -1,5 +1,5 @@
 ---
-title: ContentControlListEntries.Clear Method (Word)
+title: ContentControlListEntries.Clear method (Word)
 keywords: vbawd10.chm230948968
 f1_keywords:
 - vbawd10.chm230948968
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentControlListEntries.Clear Method (Word)
+# ContentControlListEntries.Clear method (Word)
 
 Clears all items from a drop-down list or combo box content control.
 

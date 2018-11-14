@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartObjects Method (Excel)
+title: Chart.ChartObjects method (Excel)
 keywords: vbaxl10.chm149088
 f1_keywords:
 - vbaxl10.chm149088
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Chart.ChartObjects Method (Excel)
+# Chart.ChartObjects method (Excel)
 
 Returns an object that represents either a single embedded chart (a  **[ChartObject](Excel.ChartObject.md)** object) or a collection of all the embedded charts (a **[ChartObjects](Excel.ChartObjects.md)** object) on the sheet.
 

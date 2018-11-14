@@ -43,7 +43,7 @@ The  _Flags_ parameter value must be combination of one of more of the following
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCenterViewDefault**|0|Display the page that contains the specified shape and center the view on the shape.|
 | **visCenterViewIfOffScreen**|1|Center the view only if the shape is currently off screen.|

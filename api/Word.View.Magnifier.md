@@ -1,5 +1,5 @@
 ---
-title: View.Magnifier Property (Word)
+title: View.Magnifier property (Word)
 keywords: vbawd10.chm161808391
 f1_keywords:
 - vbawd10.chm161808391
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# View.Magnifier Property (Word)
+# View.Magnifier property (Word)
 
  **True** if the pointer is displayed as a magnifying glass in print preview, indicating that the user can click to zoom in on a particular area of the page or zoom out to see an entire page or spread of pages. Read/write **Boolean** .
 
