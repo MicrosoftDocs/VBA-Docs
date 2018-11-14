@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # SelectedItem Property, TabStrip Control, Tab Object, Tabs Collection Example
 
-The following example accesses an individual tab of a  **TabStrip** in several ways:
+The following example accesses an individual tab of a  **[TabStrip](tabstrip-control.md)** in several ways:
 
 
 
@@ -26,7 +26,7 @@ The following example accesses an individual tab of a  **TabStrip** in several w
 - Using the  **SelectedItem** property.
     
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **TabStrip** named TabStrip1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **[TabStrip](tabstrip-control.md)** named TabStrip1.
 
 
 

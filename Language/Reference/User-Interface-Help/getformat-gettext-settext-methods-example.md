@@ -13,17 +13,17 @@ ms.date: 06/08/2017
 
 The following example uses the  **GetFormat**, **GetText**, and **SetText** methods to transfer text between a **DataObject** and the Clipboard.
 
-The user types text into a  **TextBox** and then can transfer it to a **DataObject** in a standard text format by clicking CommandButton1. Clicking CommandButton2 retrieves the text from the **DataObject**. Clicking CommandButton3 copies text from TextBox1 to the **DataObject** in a custom format. Clicking CommandButton4 retrieves the text from the **DataObject** in a custom format.
+The user types text into a  **[TextBox](textbox-control.md)** and then can transfer it to a **DataObject** in a standard text format by clicking CommandButton1. Clicking CommandButton2 retrieves the text from the **DataObject**. Clicking CommandButton3 copies text from TextBox1 to the **DataObject** in a custom format. Clicking CommandButton4 retrieves the text from the **DataObject** in a custom format.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **TextBox** named TextBox1.
+- A  **[TextBox](textbox-control.md)** named TextBox1.
     
-- Four  **CommandButton** controls named CommandButton1 through CommandButton4.
+- Four  **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton4.
     
-- A  **Label** named Label1.
+- A  **[Label](label-control.md)** named Label1.
     
 
 

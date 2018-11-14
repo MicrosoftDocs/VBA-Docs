@@ -40,10 +40,10 @@ The settings for  _Boolean_ are:
 ## Remarks
 
 For controls with captions, the  **AutoSize** property specifies whether the control automatically adjusts to display the entire caption.
-For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a  **ComboBox**, for example, setting **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
+For controls without captions, this property specifies whether the control automatically adjusts to display the information stored in the control. In a  **[ComboBox](combobox-control.md)**, for example, setting **AutoSize** to **True** automatically sets the width of the display area to match the length of the current text.
 For a single-line text box, setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the text box.
-For a multiline text box that contains no text, setting  **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the **TextBox**.
-For a multiline text box that contains text, setting  **AutoSize** to **True** automatically enlarges the **TextBox** vertically to display ithe entire text. The width of the **TextBox** does not change.
+For a multiline text box that contains no text, setting  **AutoSize** to **True** automatically displays the text as a column. The width of the text column is set to accommodate the widest letter of that font size. The height of the text column is set to display the entire text of the **[TextBox](textbox-control.md)**.
+For a multiline text box that contains text, setting  **AutoSize** to **True** automatically enlarges the **[TextBox](textbox-control.md)** vertically to display ithe entire text. The width of the **[TextBox](textbox-control.md)** does not change.
 
  **Note**  If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by **AutoSize**.
 

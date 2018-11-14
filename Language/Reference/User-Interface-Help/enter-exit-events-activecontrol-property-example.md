@@ -18,13 +18,13 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **ScrollBar** named ScrollBar1.
+- A  **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
     
-- A  **ListBox** named ListBox1.
+- A  **[ListBox](listbox-control.md)** named ListBox1.
     
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two  **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
     
-- A  **Frame** named Frame1.
+- A  **[Frame](frame-control.md)** named Frame1.
     
 
 

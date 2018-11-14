@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns the number of text lines in a  **TextBox** or **ComboBox**.
+Returns the number of text lines in a  **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
@@ -31,6 +31,6 @@ The  **LineCount** property syntax has these parts:
 
 The  **LineCount** property is read-only.
 
- **Note**  A  **ComboBox** will only have one line.
+ **Note**  A  **[ComboBox](combobox-control.md)** will only have one line.
 
 

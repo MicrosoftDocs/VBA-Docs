@@ -18,11 +18,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **Label** named Label1.
+- A  **[Label](label-control.md)** named Label1.
     
-- Four  **ToggleButton** controls named ToggleButton1 through ToggleButton4.
+- Four  **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.
     
-- A second  **Label** and a **TextBox** named Label2 and TextBox1.
+- A second  **[Label](label-control.md)** and a **[TextBox](textbox-control.md)** named Label2 and TextBox1.
     
 
 

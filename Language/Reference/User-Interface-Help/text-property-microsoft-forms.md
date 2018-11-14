@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets the text in a  **TextBox**. Changes the selected row in a **ComboBox** or **ListBox**.
+Returns or sets the text in a  **[TextBox](textbox-control.md)**. Changes the selected row in a **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)**.
 
 ## Syntax
 
@@ -28,9 +28,9 @@ The  **Text** property syntax has these parts:
 
 ## Remarks
 
-For a  **TextBox**, any value you assign to the **Text** property is also assigned to the **Value** property.
-For a  **ComboBox**, you can use **Text** to update the value of the control. If the value of **Text** matches an existing list entry, the value of the **ListIndex** property (the index of the current row) is set to the row that matches **Text**. If the value of **Text** does not match a row, **ListIndex** is set to -1.
-For a  **ListBox**, the value of **Text** must match an existing list entry. Specifying a value that does not match an existing list entry causes an error.
-You cannot use  **Text** to change the value of an entry in a **ComboBox** or **ListBox**; use the **Column** or **List** property for this purpose.
+For a  **[TextBox](textbox-control.md)**, any value you assign to the **Text** property is also assigned to the **Value** property.
+For a  **[ComboBox](combobox-control.md)**, you can use **Text** to update the value of the control. If the value of **Text** matches an existing list entry, the value of the **ListIndex** property (the index of the current row) is set to the row that matches **Text**. If the value of **Text** does not match a row, **ListIndex** is set to -1.
+For a  **[ListBox](listbox-control.md)**, the value of **Text** must match an existing list entry. Specifying a value that does not match an existing list entry causes an error.
+You cannot use  **Text** to change the value of an entry in a **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)**; use the **Column** or **List** property for this purpose.
 The  **ForeColor** property determines the color of the text.
 

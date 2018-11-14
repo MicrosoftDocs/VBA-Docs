@@ -17,7 +17,7 @@ A  **Load** statement or **Unload** statement has referenced an invalid object o
 
 - You tried to load or unload an object that isn't a loadable object, such as Screen, Printer, or Clipboard. Delete the erroneous statement from your code.
     
-- You tried to load or unload an existing control that isn't part of a [control array](../../Glossary/vbe-glossary.md#control-array). For example, assuming that a  **TextBox** with the **Name** property Text1 exists, `Load Text1`will cause this error.
+- You tried to load or unload an existing control that isn't part of a [control array](../../Glossary/vbe-glossary.md#control-array). For example, assuming that a  **[TextBox](textbox-control.md)** with the **Name** property Text1 exists, `Load Text1`will cause this error.
     
     Delete the erroneous statement from your code or change the reference to a control in a control array.
     

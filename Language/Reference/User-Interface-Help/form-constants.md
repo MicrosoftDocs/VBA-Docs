@@ -17,6 +17,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 |**Constant**|**Value**|**Decription**|
 |:-----|:-----|:-----|
-|**vbModeless**|0|**UserForm** is modeless.|
-|**vbModal**|1|**UserForm** is modal (default).|
+|**vbModeless**|0|**[UserForm](userform-window.md)** is modeless.|
+|**vbModal**|1|**[UserForm](userform-window.md)** is modal (default).|
 

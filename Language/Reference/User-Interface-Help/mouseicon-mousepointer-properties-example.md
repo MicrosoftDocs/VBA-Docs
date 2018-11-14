@@ -18,19 +18,19 @@ This example works in the following ways:
 
 
 
-- Choose a mouse pointer from the  **ListBox** to change the mouse pointer associated with the first **CommandButton**.
+- Choose a mouse pointer from the  **[ListBox](listbox-control.md)** to change the mouse pointer associated with the first **[CommandButton](commandbutton-control.md)**.
     
-- Click the first  **CommandButton** to associate its mouse pointer with the second **CommandButton**.
+- Click the first  **[CommandButton](commandbutton-control.md)** to associate its mouse pointer with the second **[CommandButton](commandbutton-control.md)**.
     
-- Click the second  **CommandButton** to load a custom icon for its mouse pointer.
+- Click the second  **[CommandButton](commandbutton-control.md)** to load a custom icon for its mouse pointer.
     
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two  **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
-- A  **ListBox** named ListBox1.
+- A  **[ListBox](listbox-control.md)** named ListBox1.
     
 
 

@@ -26,7 +26,7 @@ The  **SelLength** property syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _Long_|Optional. A numeric expression specifying the number of characters selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **ComboBox** or **TextBox**.|
+| _Long_|Optional. A numeric expression specifying the number of characters selected. For  **SelLength** and **SelStart**, the valid range of settings is 0 to the total number of characters in the edit area of a **[ComboBox](combobox-control.md)** or **[TextBox](textbox-control.md)**.|
 
 ## Remarks
 

@@ -11,16 +11,16 @@ ms.date: 06/08/2017
 
 # DropDown Method Example
 
-The following example uses the  **DropDown** method to display the list in a **ComboBox**. The user can display the list of a **ComboBox** by clicking the **CommandButton**.
+The following example uses the  **DropDown** method to display the list in a **[ComboBox](combobox-control.md)**. The user can display the list of a **[ComboBox](combobox-control.md)** by clicking the **[CommandButton](commandbutton-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ComboBox** named ComboBox1.
+- A  **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- A  **CommandButton** named CommandButton1.
+- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 
 

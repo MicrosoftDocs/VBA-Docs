@@ -17,9 +17,9 @@ Creates a functional and visual [control group](../../Glossary/glossary-vba.md#c
 
 ## Remarks
 
-All option buttons in a  **Frame** are mutually exclusive, so you can use the **Frame** to create an option group. You can also use a **Frame** to group controls with closely related contents.For example, in an application that processes customer orders, you might use a **Frame** to group the name, address, and account number of customers.
-You can also use a  **Frame** to create a group of toggle buttons, but the toggle buttons are not mutually exclusive.
-The default event for a  **Frame** is the Click event.
+All option buttons in a  **[Frame](frame-control.md)** are mutually exclusive, so you can use the **[Frame](frame-control.md)** to create an option group. You can also use a **[Frame](frame-control.md)** to group controls with closely related contents.For example, in an application that processes customer orders, you might use a **[Frame](frame-control.md)** to group the name, address, and account number of customers.
+You can also use a  **[Frame](frame-control.md)** to create a group of toggle buttons, but the toggle buttons are not mutually exclusive.
+The default event for a  **[Frame](frame-control.md)** is the Click event.
 
 ## Related Topics
 

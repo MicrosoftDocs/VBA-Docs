@@ -13,19 +13,19 @@ ms.date: 06/08/2017
 
 The following example uses the  **DragBehavior** and **EnterFieldBehavior** properties to demonstrate the different effects that you can provide when entering a control and when dragging information from one control to another.
 
-The sample uses two  **TextBox** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
+The sample uses two  **[TextBox](textbox-control.md)** controls. You can set **DragBehavior** and **EnterFieldBehavior** for each control and see the effects of dragging from one control to another.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **TextBox** named TextBox1.
+- A  **[TextBox](textbox-control.md)** named TextBox1.
     
-- Two  **ToggleButton** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
+- Two  **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2. These controls are associated with TextBox1.
     
-- A  **TextBox** named TextBox2.
+- A  **[TextBox](textbox-control.md)** named TextBox2.
     
-- Two  **ToggleButton** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
+- Two  **[ToggleButton](togglebutton-control.md)** controls named ToggleButton3 and ToggleButton4. These controls are associated with TextBox2.
     
 
 

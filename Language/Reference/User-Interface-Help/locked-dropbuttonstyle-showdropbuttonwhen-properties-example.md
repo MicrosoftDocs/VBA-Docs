@@ -11,15 +11,15 @@ ms.date: 06/08/2017
 
 # Locked, DropButtonStyle, ShowDropButtonWhen Properties Example
 
-The following example demonstrates the different symbols that you can specify for a drop-down arrow in a  **ComboBox** or **TextBox**. In this example, the user chooses a drop-down arrow style from a **ComboBox**. This example also uses the **Locked** property. To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
+The following example demonstrates the different symbols that you can specify for a drop-down arrow in a  **[ComboBox](combobox-control.md)** or **[TextBox](textbox-control.md)**. In this example, the user chooses a drop-down arrow style from a **[ComboBox](combobox-control.md)**. This example also uses the **Locked** property. To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
-- A  **ComboBox** named ComboBox1.
+- A  **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- A  **Label** named Label1.
+- A  **[Label](label-control.md)** named Label1.
     
-- A  **TextBox** named TextBox1 placed beneath Label1.
+- A  **[TextBox](textbox-control.md)** named TextBox1 placed beneath Label1.
     
 
 

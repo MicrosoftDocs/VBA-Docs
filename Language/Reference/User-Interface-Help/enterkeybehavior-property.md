@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Defines the effect of pressing ENTER in a  **TextBox**.
+Defines the effect of pressing ENTER in a  **[TextBox](textbox-control.md)**.
 
 ## Syntax
 

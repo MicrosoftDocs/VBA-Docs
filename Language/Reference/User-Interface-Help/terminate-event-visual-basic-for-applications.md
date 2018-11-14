@@ -22,7 +22,7 @@ The  _object_ placeholder represents an [object expression](../../Glossary/vbe-g
 
 ## Remarks
 
-The Terminate event occurs after the object is unloaded. The Terminate event isn't triggered if the instances of the  **UserForm** or [class](../../Glossary/vbe-glossary.md#class) are removed from memory because the application terminated abnormally. For example, if your application invokes the **End** statement before removing all existing instances of the class or **UserForm** from memory, the Terminate event isn't triggered for that class or **UserForm**.
+The Terminate event occurs after the object is unloaded. The Terminate event isn't triggered if the instances of the  **[UserForm](userform-window.md)** or [class](../../Glossary/vbe-glossary.md#class) are removed from memory because the application terminated abnormally. For example, if your application invokes the **End** statement before removing all existing instances of the class or **[UserForm](userform-window.md)** from memory, the Terminate event isn't triggered for that class or **[UserForm](userform-window.md)**.
 
 
 
@@ -46,6 +46,6 @@ End Sub
 
 ## Example
 
-The following event procedures cause a  **UserForm** to beep for a few seconds after the user clicks the client area to dismiss the form.
+The following event procedures cause a  **[UserForm](userform-window.md)** to beep for a few seconds after the user clicks the client area to dismiss the form.
 
 

@@ -33,9 +33,9 @@ The settings for the  **WhatsThisHelp** property are:
 There are two access techniques for providing What's This Help in an application. The  **WhatsThisHelp** property must be set to **True** for any of these techniques to work.
 
 
-- Providing a  **What's This** button on the title bar of the **UserForm** using the **WhatsThisButton** property. The mouse pointer changes to the What's This state (arrow with question mark). The topic displayed is identified by the **WhatsThisHelpID** property of the control clicked by the user.
+- Providing a  **What's This** button on the title bar of the **[UserForm](userform-window.md)** using the **WhatsThisButton** property. The mouse pointer changes to the What's This state (arrow with question mark). The topic displayed is identified by the **WhatsThisHelpID** property of the control clicked by the user.
     
-- Invoking the  **WhatsThisMode** method of a **UserForm**. This produces the same behavior as clicking the **What's This** button without using a button. For example, you can invoke this method from a command on a menu in the menu bar of the application.
+- Invoking the  **WhatsThisMode** method of a **[UserForm](userform-window.md)**. This produces the same behavior as clicking the **What's This** button without using a button. For example, you can invoke this method from a command on a menu in the menu bar of the application.
     
 
 

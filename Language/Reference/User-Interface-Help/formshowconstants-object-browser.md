@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # FormShowConstants (Object Browser)
 
-The  **FormShowConstants** module contains predefined **UserForm** constants. These constants can be used anywhere in your code.
+The  **FormShowConstants** module contains predefined **[UserForm](userform-window.md)** constants. These constants can be used anywhere in your code.
 
  **To get Help on a particular constant**
 

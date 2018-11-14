@@ -20,13 +20,13 @@ Hides an object but doesn't unload it.
 ## Syntax
 
 _object_. **Hide**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **[UserForm](userform-window.md)** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
 
 ## Remarks
 
 When an object is hidden, it's removed from the screen and its  **Visible** property is set to **False**. A hidden object's controls aren't accessible to the user, but they are available programmatically to the running application, to other processes that may be communicating with the application through Automation, and in Windows, to **Timer** control events.
-When a  **UserForm** is hidden, the user can't interact with the application until all code in the event procedure that caused the **UserForm** to be hidden has finished executing.
-If the  **UserForm** isn't loaded when the **Hide** method is invoked, the **Hide** method loads the **UserForm** but doesn't display it.
+When a  **[UserForm](userform-window.md)** is hidden, the user can't interact with the application until all code in the event procedure that caused the **[UserForm](userform-window.md)** to be hidden has finished executing.
+If the  **[UserForm](userform-window.md)** isn't loaded when the **Hide** method is invoked, the **Hide** method loads the **[UserForm](userform-window.md)** but doesn't display it.
 
 ## Example
 

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # InsideHeight, InsideWidth Properties Example
 
-The following example uses the  **InsideHeight** and **InsideWidth** properties to resize a **CommandButton**. The user clicks the **CommandButton** to resize it.
+The following example uses the  **InsideHeight** and **InsideWidth** properties to resize a **[CommandButton](commandbutton-control.md)**. The user clicks the **[CommandButton](commandbutton-control.md)** to resize it.
 
 
  **Note**   **InsideHeight** and **InsideWidth** are read-only properties.
@@ -21,7 +21,7 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **CommandButton** named CommandButton1.
+- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 
 

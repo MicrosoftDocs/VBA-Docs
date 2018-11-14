@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the width of the list in a  **ComboBox**.
+Specifies the width of the list in a  **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
@@ -26,7 +26,7 @@ The  **ListWidth** property syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _Variant_|Optional. The width of the list. A value of zero makes the list as wide as the  **ComboBox**. The default value is to make the list as wide as the text portion of the control.|
+| _Variant_|Optional. The width of the list. A value of zero makes the list as wide as the  **[ComboBox](combobox-control.md)**. The default value is to make the list as wide as the text portion of the control.|
 
 ## Remarks
 

@@ -32,13 +32,13 @@ The settings for  _Boolean_ are:
 
 |**Value**|**Description**|
 |:-----|:-----|
-|**True**|The  **CommandButton** is the default button.|
-|**False**|The  **CommandButton** is not the default button (default).|
+|**True**|The  **[CommandButton](commandbutton-control.md)** is the default button.|
+|**False**|The  **[CommandButton](commandbutton-control.md)** is not the default button (default).|
 
 ## Remarks
 
-A  **CommandButton** or an object that acts like a command button can be designated as the default command button. Only one object on a form can be the default command button. Setting the **Default** property to **True** for one object automatically sets it to **False** for all other objects on the form.
-To choose the default command button on an active form, the user can click the button, or press ENTER when no other  **CommandButton** has the [focus](../../Glossary/vbe-glossary.md#focus). Pressing ENTER when no other  **CommandButton** has the focus also initiates the KeyUp event for the default command button.
- **Default** is provided for[OLE container controls](../../Glossary/glossary-vba.md#ole-container-control) (Windows only) that specifically act like **CommandButton** controls.
+A  **[CommandButton](commandbutton-control.md)** or an object that acts like a command button can be designated as the default command button. Only one object on a form can be the default command button. Setting the **Default** property to **True** for one object automatically sets it to **False** for all other objects on the form.
+To choose the default command button on an active form, the user can click the button, or press ENTER when no other  **[CommandButton](commandbutton-control.md)** has the [focus](../../Glossary/vbe-glossary.md#focus). Pressing ENTER when no other  **[CommandButton](commandbutton-control.md)** has the focus also initiates the KeyUp event for the default command button.
+ **Default** is provided for[OLE container controls](../../Glossary/glossary-vba.md#ole-container-control) (Windows only) that specifically act like **[CommandButton](commandbutton-control.md)** controls.
  **Tip** You should consider making the Cancel button the default button for forms that support operations that can't be undone (such as delete). To do this, set both **Default** and the **Cancel** property to **True**.
 

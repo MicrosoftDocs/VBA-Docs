@@ -39,10 +39,10 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-A multiline  **TextBox** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
-A single-line  **TextBox** doesn't allow absolute line breaks and doesn't use vertical scroll bars.
+A multiline  **[TextBox](textbox-control.md)** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
+A single-line  **[TextBox](textbox-control.md)** doesn't allow absolute line breaks and doesn't use vertical scroll bars.
 Single-line controls ignore the value of the  **WordWrap** property.
 
- **Note**  If you change  **MultiLine** to **False** in a multiline **TextBox**, all the characters in the **TextBox** will be combined into one line, including non-printing characters (such as carriage returns and new-lines).
+ **Note**  If you change  **MultiLine** to **False** in a multiline **[TextBox](textbox-control.md)**, all the characters in the **[TextBox](textbox-control.md)** will be combined into one line, including non-printing characters (such as carriage returns and new-lines).
 
 

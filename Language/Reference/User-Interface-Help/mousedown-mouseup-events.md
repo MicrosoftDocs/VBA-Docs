@@ -25,10 +25,10 @@ The  **MouseDown** and **MouseUp** event syntaxes have these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** with the specified event.|
+| _index_|Required. The index of the page or tab in a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)** with the specified event.|
 | _Button_|Required. An integer value that identifies which mouse button caused the event.|
 | _Shift_|Required. The state of SHIFT, CTRL, and ALT.|
-| _X, Y_|Required. The horizontal or vertical position, in points, from the left or top edge of the form,  **Frame**, or **Page**.|
+| _X, Y_|Required. The horizontal or vertical position, in points, from the left or top edge of the form,  **[Frame](frame-control.md)**, or **Page**.|
 
 ## Settings
 The settings for  _Button_ are:
@@ -64,8 +64,8 @@ You can identify individual keyboard modifiers by using the following constants:
 
 ## Remarks
 
-For a  **MultiPage**, the MouseDown event occurs when the user presses a mouse button over the control.
-For a  **TabStrip**, the index argument identifies the tab where the user clicked. An index of -1 indicates the user did not click a tab. For example, if there are no tabs in the upper right corner of the control, clicking in the upper right corner sets the index to -1.
+For a  **[MultiPage](multipage-control.md)**, the MouseDown event occurs when the user presses a mouse button over the control.
+For a  **[TabStrip](tabstrip-control.md)**, the index argument identifies the tab where the user clicked. An index of -1 indicates the user did not click a tab. For example, if there are no tabs in the upper right corner of the control, clicking in the upper right corner sets the index to -1.
 For a form, the user can generate MouseDown and MouseUp events by pressing and releasing a mouse button in a blank area, record selector, or scroll bar on the form.
 The sequence of mouse-related events is:
 

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether a value entered in the text portion of a  **ComboBox** must match an entry in the existing list portion of the control. The user can enter non-matching values, but may not leave the control until a matching value is entered.
+Specifies whether a value entered in the text portion of a  **[ComboBox](combobox-control.md)** must match an entry in the existing list portion of the control. The user can enter non-matching values, but may not leave the control until a matching value is entered.
 
 ## Syntax
 
@@ -39,7 +39,7 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-If the  **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
+If the  **MatchRequired** property is **True**, the user cannot exit the **[ComboBox](combobox-control.md)** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 
  **Note**  Not all [containers](../../Glossary/vbe-glossary.md#container) enforce this property.
 

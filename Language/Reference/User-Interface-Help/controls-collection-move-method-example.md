@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 The following example accesses individual controls from the  **Controls** collection using a **For Each...Next** loop. When the user presses CommandButton1, the other controls are placed in a column along the left edge of the form using the **Move** method.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **CommandButton** named CommandButton1 and several other controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a  **[CommandButton](commandbutton-control.md)** named CommandButton1 and several other controls.
 
 
 

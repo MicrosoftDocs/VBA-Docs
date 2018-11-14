@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ListBox Control, BoundColumn Property Example
 
-The following example demonstrates how the  **BoundColumn** property influences the value of a **ListBox**. The user can choose to set the value of the **ListBox** to the index value of the specified row, or to a specified column of data in the **ListBox**.
+The following example demonstrates how the  **BoundColumn** property influences the value of a **[ListBox](listbox-control.md)**. The user can choose to set the value of the **[ListBox](listbox-control.md)** to the index value of the specified row, or to a specified column of data in the **[ListBox](listbox-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **ListBox** named ListBox1.
+- A  **[ListBox](listbox-control.md)** named ListBox1.
     
-- A  **Label** named Label1.
+- A  **[Label](label-control.md)** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1, OptionButton2, and OptionButton3.
+- Three  **[OptionButton](optionbutton-control.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
     
 
 

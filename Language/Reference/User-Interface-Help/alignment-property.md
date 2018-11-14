@@ -41,6 +41,6 @@ The settings for  _fmAlignment_ are:
 
 The caption text for a control is left-aligned.
 
- **Note**  Although the  **Alignment** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the **ToggleButton**.
+ **Note**  Although the  **Alignment** property exists on the **[ToggleButton](togglebutton-control.md)**, the property is disabled. You cannot set or return a value for this property on the **[ToggleButton](togglebutton-control.md)**.
 
 

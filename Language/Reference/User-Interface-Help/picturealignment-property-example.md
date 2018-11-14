@@ -18,11 +18,11 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **Frame** named Frame1.
+- A  **[Frame](frame-control.md)** named Frame1.
     
-- A  **SpinButton** named SpinButton1.
+- A  **[SpinButton](spinbutton-control.md)** named SpinButton1.
     
-- A  **TextBox** named TextBox1.
+- A  **[TextBox](textbox-control.md)** named TextBox1.
     
 
 

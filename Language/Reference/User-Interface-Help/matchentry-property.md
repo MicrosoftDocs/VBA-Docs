@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a value indicating how a  **ListBox** or **ComboBox** searches its list as the user types.
+Returns or sets a value indicating how a  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)** searches its list as the user types.
 
 ## Syntax
 
@@ -40,7 +40,7 @@ The settings for  _fmMatchEntry_ are:
 
 ## Remarks
 
-The  **MatchEntry** property searches entries from the **TextColumn** property of a **ListBox** or **ComboBox**.
+The  **MatchEntry** property searches entries from the **TextColumn** property of a **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.
 The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **BoundColumn** property become the value of the control. If the match is unambiguous, finding the match initiates the Click event.
 The control initiates the Click event as soon as the user types a sequence of characters that match exactly one entry in the list. As the user types, the entry is compared with the current row in the list and with the next row in the list. When the entry matches only the current row, the match is unambiguous.
 In Microsoft Forms, this is true regardless of whether the list is sorted. This means the control finds the first occurrence that matches the entry, based on the order of items in the list. For example, entering either "abc" or "bc" will initiate the Click event for the following list:

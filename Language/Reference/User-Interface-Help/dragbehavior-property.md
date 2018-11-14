@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether the system enables the drag-and-drop feature for a  **TextBox** or **ComboBox**.
+Specifies whether the system enables the drag-and-drop feature for a  **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
@@ -40,8 +40,8 @@ The settings for  _fmDragBehavior_ are:
 ## Remarks
 
 If the  **DragBehavior** property is enabled, dragging in a text box or combo box starts a drag-and-drop operation on the selected text. If **DragBehavior** is disabled, dragging in a text box or combo box selects text.
-The drop-down portion of a  **ComboBox** does not support drag-and-drop processes, nor does it support selection of list items within the text.
- **DragBehavior** has no effect on a **ComboBox** whose **Style** property is set to **fmStyleDropDownList**.
+The drop-down portion of a  **[ComboBox](combobox-control.md)** does not support drag-and-drop processes, nor does it support selection of list items within the text.
+ **DragBehavior** has no effect on a **[ComboBox](combobox-control.md)** whose **Style** property is set to **fmStyleDropDownList**.
 
  **Note**  You can combine the effects of the  **EnterFieldBehavior** property and **DragBehavior** to create a large number of text box styles.
 

@@ -28,5 +28,5 @@ The  **Count** property syntax has these parts:
 ## Remarks
 
 The  **Count** property is read only.
-Note that the index value for the first page or tab of a collection is zero, the value for the second page or tab is one, and so on. For example, if a  **MultiPage** contains two pages, the indexes of the pages are 0 and 1, and the value of **Count** is 2.
+Note that the index value for the first page or tab of a collection is zero, the value for the second page or tab is one, and so on. For example, if a  **[MultiPage](multipage-control.md)** contains two pages, the indexes of the pages are 0 and 1, and the value of **Count** is 2.
 

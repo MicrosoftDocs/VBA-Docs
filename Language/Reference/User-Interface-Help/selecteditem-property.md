@@ -25,7 +25,7 @@ The  **SelectedItem** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. A valid  **TabStrip** or **MultiPage**.|
+| _object_|Required. A valid  **[TabStrip](tabstrip-control.md)** or **[MultiPage](multipage-control.md)**.|
 
 ## Remarks
 

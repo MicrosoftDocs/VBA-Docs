@@ -28,6 +28,6 @@ The  **Index** property syntax has these parts:
 
 ## Remarks
 
-The  **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of **Pages** in a **MultiPage** or **Tabs** on a **TabStrip**. The index value for the first page or tab is zero, the index value of the second page or tab is one, and so on.
-In a  **MultiPage**, **Index** refers to a **Page** as well as the page's **Tab**. In a **TabStrip**, **Index** refers to the tab only.
+The  **Index** property specifies the order in which tabs appear. Changing the value of **Index** visually changes the order of **Pages** in a **[MultiPage](multipage-control.md)** or **Tabs** on a **[TabStrip](tabstrip-control.md)**. The index value for the first page or tab is zero, the index value of the second page or tab is one, and so on.
+In a  **[MultiPage](multipage-control.md)**, **Index** refers to a **Page** as well as the page's **Tab**. In a **[TabStrip](tabstrip-control.md)**, **Index** refers to the tab only.
 

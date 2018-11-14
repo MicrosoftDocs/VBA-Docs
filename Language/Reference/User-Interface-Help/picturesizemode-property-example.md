@@ -18,17 +18,17 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- A  **Frame** named Frame1.
+- A  **[Frame](frame-control.md)** named Frame1.
     
-- A  **SpinButton** named SpinButton1.
+- A  **[SpinButton](spinbutton-control.md)** named SpinButton1.
     
-- A  **TextBox** named TextBox1.
+- A  **[TextBox](textbox-control.md)** named TextBox1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three  **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
 
 
- **Note**  This example is an enhanced version of the  **PictureAlignment** property example, as the two properties complement each other. The enhancements are three **OptionButton** event subroutines that control whether the image is cropped, zoomed, or stretched.
+ **Note**  This example is an enhanced version of the  **PictureAlignment** property example, as the two properties complement each other. The enhancements are three **[OptionButton](optionbutton-control.md)** event subroutines that control whether the image is cropped, zoomed, or stretched.
 
 
 

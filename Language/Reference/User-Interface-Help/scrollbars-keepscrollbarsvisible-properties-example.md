@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # ScrollBars, KeepScrollBarsVisible Properties Example
 
-The following example uses the  **ScrollBars** and the **KeepScrollBarsVisible** properties to add scroll bars to a page of a **MultiPage** and to a **Frame**. The user chooses an option button that, in turn, specifies a value for **KeepScrollBarsVisible**.
+The following example uses the  **ScrollBars** and the **KeepScrollBarsVisible** properties to add scroll bars to a page of a **[MultiPage](multipage-control.md)** and to a **[Frame](frame-control.md)**. The user chooses an option button that, in turn, specifies a value for **KeepScrollBarsVisible**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **MultiPage** named MultiPage1.
+- A  **[MultiPage](multipage-control.md)** named MultiPage1.
     
-- A  **Frame** named Frame1.
+- A  **[Frame](frame-control.md)** named Frame1.
     
-- Four  **OptionButton** controls named OptionButton1 through OptionButton4.
+- Four  **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton4.
     
 
 

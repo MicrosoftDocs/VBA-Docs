@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Runs the current procedure if the cursor is in a procedure or runs the form if a form is currently active. This command becomes the  **Continue** command when you are in [break mode](../../Glossary/vbe-glossary.md#break-mode).
 
-If neither  **Code** window nor **UserForm** is active, this command becomes the **Run Macro** command.
+If neither  **Code** window nor **[UserForm](userform-window.md)** is active, this command becomes the **Run Macro** command.
 
  **Continue**
 Resumes running the current procedure or form.

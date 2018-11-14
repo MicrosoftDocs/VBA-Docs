@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the visual appearance of the list in a  **ListBox** or **ComboBox**.
+Specifies the visual appearance of the list in a  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
@@ -39,6 +39,6 @@ The settings for  _fmListStyle_ are:
 
 ## Remarks
 
-The  **ListStyle** property lets you change the visual presentation of a **ListBox** or **ComboBox**. By specifying a setting other than **fmListStylePlain**, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
+The  **ListStyle** property lets you change the visual presentation of a **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**. By specifying a setting other than **fmListStylePlain**, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
 If the control supports a single selection (the  **MultiSelect** property is set to **fmMultiSelectSingle**), the user can press one button in the group. If the control supports multi-select, the user can press two or more buttons in the group.
 

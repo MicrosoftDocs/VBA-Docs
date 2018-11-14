@@ -28,6 +28,6 @@ The  **Copy** method syntax has these parts:
 ## Remarks
 
 The original content remains on the object.
-The actual content that is copied depends on the object. For example, on a  **Page**, the **Copy** method copies the currently selected control or controls. On a **TextBox** or **ComboBox**, it copies the currently selected text.
-Using  **Copy** for a form, **Frame**, or **Page** copies the currently-active control.
+The actual content that is copied depends on the object. For example, on a  **Page**, the **Copy** method copies the currently selected control or controls. On a **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**, it copies the currently selected text.
+Using  **Copy** for a form, **[Frame](frame-control.md)**, or **Page** copies the currently-active control.
 

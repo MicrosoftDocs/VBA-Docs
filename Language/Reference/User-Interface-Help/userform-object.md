@@ -12,7 +12,7 @@ ms.date: 11/12/2018
 
 # UserForm object
 
-A **UserForm** [object](../../Glossary/vbe-glossary.md#object) is a window or dialog box that makes up part of an application's user interface.
+A **[UserForm](userform-window.md)** [object](../../Glossary/vbe-glossary.md#object) is a window or dialog box that makes up part of an application's user interface.
 
 The **UserForms** [collection](../../Glossary/vbe-glossary.md#collection) is a collection whose elements represent each loaded **UserForm** in an application. The **UserForms** collection has a **Count** property, an **Item** property, and an **Add** method. **Count** specifies the number of elements in the collection; **Item** (the default member) specifies a specific collection member; and **Add** places a new **UserForm** element in the collection.
 

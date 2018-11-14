@@ -11,24 +11,24 @@ ms.date: 06/08/2017
 
 # TopIndex Property Example
 
-The following example identifies the top item displayed in a  **ListBox** and the item that has the focus within the **ListBox**. This example uses the **TopIndex** property to identify the item displayed at the top of the **ListBox** and the **ListIndex** property to identify the item that has the focus. The user selects an item in the **ListBox**. The displayed values of **TopIndex** and **ListIndex** are updated when the user selects an item or when the user clicks the **CommandButton**..
+The following example identifies the top item displayed in a  **[ListBox](listbox-control.md)** and the item that has the focus within the **[ListBox](listbox-control.md)**. This example uses the **TopIndex** property to identify the item displayed at the top of the **[ListBox](listbox-control.md)** and the **ListIndex** property to identify the item that has the focus. The user selects an item in the **[ListBox](listbox-control.md)**. The displayed values of **TopIndex** and **ListIndex** are updated when the user selects an item or when the user clicks the **[CommandButton](commandbutton-control.md)**..
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **Label** named Label1.
+- A  **[Label](label-control.md)** named Label1.
     
-- A  **TextBox** named TextBox1.
+- A  **[TextBox](textbox-control.md)** named TextBox1.
     
-- A  **Label** named Label2.
+- A  **[Label](label-control.md)** named Label2.
     
-- A  **TextBox** named TextBox2.
+- A  **[TextBox](textbox-control.md)** named TextBox2.
     
-- A  **CommandButton** named CommandButton1.
+- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- A  **ListBox** named ListBox1.
+- A  **[ListBox](listbox-control.md)** named ListBox1.
     
 
 

@@ -21,7 +21,7 @@ You can open a  **Code** window from:
 
 - The  **Project** window, by selecting a form or module, and choosing the **View** **Code** button.
     
-- A  **UserForm** window, by double-clicking a [control](../../Glossary/vbe-glossary.md#control) or form, choosing **Code** from the **View** menu, or pressing F7.
+- A  **[UserForm](userform-window.md)** window, by double-clicking a [control](../../Glossary/vbe-glossary.md#control) or form, choosing **Code** from the **View** menu, or pressing F7.
     
 
 You can drag selected text to:

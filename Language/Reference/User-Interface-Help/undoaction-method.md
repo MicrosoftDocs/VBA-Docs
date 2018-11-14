@@ -29,7 +29,7 @@ The  **UndoAction** method syntax has these parts:
 
 ## Remarks
 
-The Undo command in the user interface uses the  **UndoAction** method. For example, if you paste text into a **TextBox**, you can use **UndoAction** to remove that text and restore the previous contents of the **TextBox**.
+The Undo command in the user interface uses the  **UndoAction** method. For example, if you paste text into a **[TextBox](textbox-control.md)**, you can use **UndoAction** to remove that text and restore the previous contents of the **[TextBox](textbox-control.md)**.
 Not all user actions can be undone. If an action cannot be undone, the Undo command is unavailable following the action.
 
  **Note**  If the  **CanUndo** property is **False**, the Undo command is not available in the user interface, and **UndoAction** is not valid in code.

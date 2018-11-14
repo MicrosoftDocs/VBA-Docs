@@ -30,7 +30,7 @@ The  **RedoAction** method syntax has these parts:
 ## Remarks
 
 Redo reverses the last Undo, which is not necessarily the last action taken. Not all actions can be undone.
-For example, after pasting text into a  **TextBox** and then choosing the Undo command to remove the text, you can choose the Redo command to put the text back in.
+For example, after pasting text into a  **[TextBox](textbox-control.md)** and then choosing the Undo command to remove the text, you can choose the Redo command to put the text back in.
 
  **Note**  If the  **CanRedo** property is **False**, the Redo command is not available in the user interface, and the **RedoAction** method is not valid in code.
 

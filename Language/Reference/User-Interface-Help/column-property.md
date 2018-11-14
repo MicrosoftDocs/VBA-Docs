@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies one or more items in a  **ListBox** or **ComboBox**.
+Specifies one or more items in a  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
@@ -28,7 +28,7 @@ The  **Column** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _column_|Optional. An integer with a range from 0 to one less than the total number of columns.|
 | _row_|Optional. An integer with a range from 0 to one less than the total number of rows.|
-| _Variant_|Optional. Specifies a single value, a column of values, or a two-dimensional array to load into a  **ListBox** or **ComboBox**.|
+| _Variant_|Optional. Specifies a single value, a column of values, or a two-dimensional array to load into a  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.|
 
 ## Settings
 If you specify both the column and row values,  **Column** reads or writes a specific item.

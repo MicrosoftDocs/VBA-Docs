@@ -13,7 +13,7 @@ ms.date: 09/17/2018
 
 # Tabs collection (Microsoft Forms)
 
-A **Tabs** collection includes all **Tabs** of a **TabStrip**.
+A **Tabs** collection includes all **Tabs** of a **[TabStrip](tabstrip-control.md)**.
 
 ## Remarks
 

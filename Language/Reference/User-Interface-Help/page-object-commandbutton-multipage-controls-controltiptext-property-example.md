@@ -11,20 +11,20 @@ ms.date: 06/08/2017
 
 # Page Object, CommandButton, MultiPage Controls, ControlTipText Property Example
 
-The following example defines the  **ControlTipText** property for three **CommandButton** controls and two **Page** objects in a **MultiPage**.
+The following example defines the  **ControlTipText** property for three **[CommandButton](commandbutton-control.md)** controls and two **Page** objects in a **[MultiPage](multipage-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- A  **MultiPage** named MultiPage1.
+- A  **[MultiPage](multipage-control.md)** named MultiPage1.
     
-- Three  **CommandButton** controls named CommandButton1 through CommandButton3.
+- Three  **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.
     
 
 
- **Note**  For an individual  **Page** of a **MultiPage**, **ControlTipText** becomes enabled when the **MultiPage** or a control on the current page of the **MultiPage** has the focus.
+ **Note**  For an individual  **Page** of a **[MultiPage](multipage-control.md)**, **ControlTipText** becomes enabled when the **[MultiPage](multipage-control.md)** or a control on the current page of the **[MultiPage](multipage-control.md)** has the focus.
 
 
 

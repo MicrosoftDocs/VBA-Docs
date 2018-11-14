@@ -29,7 +29,7 @@ The  **BeforeDragOver** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the  **Page** in a **MultiPage** that the drag-and-drop operation will affect.|
+| _index_|Required. The index of the  **Page** in a **[MultiPage](multipage-control.md)** that the drag-and-drop operation will affect.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 | _ctrl_|Required. The control being dragged over.|
 | _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a  **DataObject**.|
@@ -74,5 +74,5 @@ When a control handles this event, you can use the  _Effect_ argument to identif
 When  _Effect_ is set to **fmDropEffectCopy**, the drop source supports a copy or a cancel (**fmDropEffectNone**) operation.
 When  _Effect_ is set to **fmDropEffectMove**, the drop source supports a move or a cancel (**fmDropEffectNone**) operation.
 When  _Effect_ is set to **fmDropEffectNone**. the drop source supports a cancel operation.
-Most controls do not support drag-and-drop while  _Cancel_ is **False**, which is the default setting. This means the control rejects attempts to drag or drop anything on the control, and the control does not initiate the BeforeDropOrPaste event. The **TextBox** and **ComboBox** controls are exceptions to this; these controls support drag-and-drop operations even when _Cancel_ is **False**.
+Most controls do not support drag-and-drop while  _Cancel_ is **False**, which is the default setting. This means the control rejects attempts to drag or drop anything on the control, and the control does not initiate the BeforeDropOrPaste event. The **[TextBox](textbox-control.md)** and **[ComboBox](combobox-control.md)** controls are exceptions to this; these controls support drag-and-drop operations even when _Cancel_ is **False**.
 

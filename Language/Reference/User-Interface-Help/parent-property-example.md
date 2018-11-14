@@ -18,9 +18,9 @@ To use this example, copy this sample code to the Declarations portion of a form
 
 
 
-- Two  **Label** controls named Label1 and Label2.
+- Two  **[Label](label-control.md)** controls named Label1 and Label2.
     
-- A  **CommandButton** named CommandButton1.
+- A  **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 - One or more additional controls of your choice.
     

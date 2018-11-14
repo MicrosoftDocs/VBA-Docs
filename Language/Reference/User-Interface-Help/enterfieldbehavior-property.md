@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the selection behavior when entering a  **TextBox** or **ComboBox**.
+Specifies the selection behavior when entering a  **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 

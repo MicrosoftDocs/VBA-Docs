@@ -45,6 +45,6 @@ For controls that support Click, the following sequence of events leads to the D
 4. DblClick
     
 
-If a control, such as  **TextBox**, does not support Click, Click is omitted fom the order of events leading to the DblClick event.
+If a control, such as  **[TextBox](textbox-control.md)**, does not support Click, Click is omitted fom the order of events leading to the DblClick event.
 If the return value of  _Cancel_ is **True** when the user clicks twice, the control ignores the second click. This is useful if the second click reverses the effect of the first, such as double-clicking a toggle button. The _Cancel_ argument allows your form to ignore the second click, so that either clicking or double-clicking the button has the same effect.
 

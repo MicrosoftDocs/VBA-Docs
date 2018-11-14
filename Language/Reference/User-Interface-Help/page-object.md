@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-One page of a  **MultiPage** and a single member of a **Pages** collection.
+One page of a  **[MultiPage](multipage-control.md)** and a single member of a **Pages** collection.
 
 ## Remarks
 

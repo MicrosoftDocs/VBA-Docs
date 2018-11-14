@@ -11,18 +11,18 @@ ms.date: 06/08/2017
 
 # Index Property Example
 
-The following example uses the  **Index** property to change the order of the pages and tabs in a **MultiPage** and **TabStrip**. The user chooses CommandButton1 to move the third page and tab to the front of the **MultiPage** and **TabStrip**. The user chooses CommandButton2 to move the selected page and tab to the back of the **MultiPage** and **TabStrip**.
+The following example uses the  **Index** property to change the order of the pages and tabs in a **[MultiPage](multipage-control.md)** and **[TabStrip](tabstrip-control.md)**. The user chooses CommandButton1 to move the third page and tab to the front of the **[MultiPage](multipage-control.md)** and **[TabStrip](tabstrip-control.md)**. The user chooses CommandButton2 to move the selected page and tab to the back of the **[MultiPage](multipage-control.md)** and **[TabStrip](tabstrip-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
 
 
 
-- Two  **CommandButton** controls named CommandButton1 and CommandButton2.
+- Two  **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
-- A  **MultiPage** named MultiPage1.
+- A  **[MultiPage](multipage-control.md)** named MultiPage1.
     
-- A  **TabStrip** named TabStrip1.
+- A  **[TabStrip](tabstrip-control.md)** named TabStrip1.
     
 
 
