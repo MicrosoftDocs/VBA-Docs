@@ -52,7 +52,7 @@ The following code forces the user to click the **UserForm** client area to clos
 
 ```vb
 Private Sub UserForm_Activate()
-    UserForm1.Caption = "You must Click me to kill me!"
+    Me.Caption = "You must Click me to kill me!"
 End Sub
 
 Private Sub UserForm_Click()
@@ -62,7 +62,7 @@ End Sub
 Private Sub UserForm_QueryClose(Cancel As Integer, CloseMode As Integer)
     'Prevent user from closing with the Close box in the title bar.
     If CloseMode <> 1 Then Cancel = 1
-    UserForm1.Caption = "The Close box won't work! Click me!"
+    Me.Caption = "The Close box won't work! Click me!"
 End Sub
 ```
 

@@ -60,7 +60,7 @@ When variables are initialized, a numeric variable is initialized to 0, a variab
 
 
 > [!NOTE] 
-> When you use the **Private** statement in a procedure, you generally put the **Private** statement at the beginning of the procedure.
+> The **Private** statement cannot be used inside a procedure; use the **Dim** statement to declare local variables.
 
 
 ## Example
