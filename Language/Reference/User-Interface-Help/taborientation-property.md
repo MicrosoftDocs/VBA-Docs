@@ -23,7 +23,7 @@ _object_. **TabOrientation** [= _fmTabOrientation_ ]
 The  **TabOrientation** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTabOrientation_|Optional. Where the tabs will appear.|
@@ -32,7 +32,7 @@ The  **TabOrientation** property syntax has these parts:
 The settings for  _fmTabOrientation_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTabOrientationTop_|0|The tabs appear at the top of the control (default).|
 | _fmTabOrientationBottom_|1|The tabs appear at the bottom of the control.|

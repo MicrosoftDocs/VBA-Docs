@@ -25,7 +25,7 @@ Converts a Roman numeral to an Arabic numeral.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|The Roman numeral you want to convert.|
 

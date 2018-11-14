@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUpperCase**|1|Converts the string to uppercase characters.|
 |**vbLowerCase**|2|Converts the string to lowercase characters.|

@@ -34,7 +34,7 @@ Possible values for  **PageSizingBehavior** are declared in the Visio type libra
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visNeverResizePages**|0|Does not automatically resize pages under any circumstances. The default.|
 | **visResizePages**|1|Automatically resizes all pages when the Visio Drawing Control is resized or when a new document is loaded into it. Leaves shapes unchanged.|

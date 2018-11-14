@@ -20,7 +20,7 @@ Copies a custom report and creates a new report with the same content.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**Variant**|Name or  **Report** object of the report to copy.|
 | _NewName_|Required|**String**|Name of the new report.|

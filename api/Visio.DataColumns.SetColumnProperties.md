@@ -51,7 +51,7 @@ Possible values for items in the Properties() parameter array are declared in  *
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | ** visDataColumnPropertyCalendar**|3|Calendar of the data-column property.|
 | **visDataColumnPropertyCurrency**|5|Currency of the data-column property.|

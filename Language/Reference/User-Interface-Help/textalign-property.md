@@ -23,7 +23,7 @@ _object_. **TextAlign** [= _fmTextAlign_ ]
 The  **TextAlign** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTextAlign_|Optional. How text is aligned in the control.|
@@ -32,7 +32,7 @@ The  **TextAlign** property syntax has these parts:
 The settings for  _fmTextAlign_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTextAlignLeft_|1|Aligns the first character of displayed text with the left edge of the control's display or edit area (default).|
 | _fmTextAlignCenter_|2|Centers the text in the control's display or edit area.|

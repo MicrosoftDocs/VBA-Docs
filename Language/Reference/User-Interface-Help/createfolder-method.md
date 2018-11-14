@@ -21,7 +21,7 @@ _object_. **CreateFolder(**_foldername_**)**
 
 The **CreateFolder** method has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a **FileSystemObject**.|
 | _foldername_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that identifies the folder to create.|

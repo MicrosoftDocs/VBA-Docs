@@ -44,7 +44,7 @@ The  _Direction_ parameter must be one of the following **VisResizeDirection** c
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visResizeDirE**|0|Right, middle shape handle.|
 | **visResizeDirNE**|1|Right, top shape handle.|

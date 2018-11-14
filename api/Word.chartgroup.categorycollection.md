@@ -25,7 +25,7 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Optional|VARIANT|The index number in the visible category collection of the category to return.|

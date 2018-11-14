@@ -20,7 +20,7 @@ The  _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has th
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use NLS API setting.|
 |**vbSunday**|1|Sunday (default)|
@@ -35,7 +35,7 @@ The  _firstdayofyear_ argument has the following values:
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseSystem**|0|Use NLS API setting.|
 |**VbUseSystemDayOfWeek**|0|Use the day of the week specified in your system settings for the first day of the week.|
@@ -47,7 +47,7 @@ The  _firstdayofyear_ argument has the following values:
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbSunday**|1|Sunday|
 |**vbMonday**|2|Monday|

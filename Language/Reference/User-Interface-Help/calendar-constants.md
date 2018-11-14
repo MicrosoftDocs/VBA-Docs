@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbCalGreg**|0|Indicates that the Gregorian calendar is used.|
 |**vbCalHijri**|1|Indicates that the Hijri calendar is used.|

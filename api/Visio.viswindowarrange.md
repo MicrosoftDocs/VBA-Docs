@@ -15,7 +15,7 @@ Values to pass to the  **Windows.Arrange** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visArrangeCascade**|3|Cascade the windows.|
 | **visArrangeTileHorizontal**|2|Tile the windows horizontally.|

@@ -20,7 +20,7 @@ The  **VisSnapExtensions** constants specify the snap extensions currently activ
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSnapExtAlignmentBoxExtension**|&H1|Show alignment box extensions.|
 | **visSnapExtCenterAxes**|&H2|Show center alignment axes.|

@@ -20,7 +20,7 @@ Writes data to a sequential file.
 The  **Write #** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _outputlist_|Optional. One or more comma-delimited [numeric expressions](../../Glossary/vbe-glossary.md#numeric-expression) or [string expressions](../../Glossary/vbe-glossary.md#string-expression) to write to a file.|

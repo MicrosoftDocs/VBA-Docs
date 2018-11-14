@@ -22,7 +22,7 @@ Replaces the specified shape with an instance of the master passed as the first 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _MasterOrMasterShortcutToDrop_|Required|UNKNOWN|Specifies the replacement shape to drop. Must be either a [Master](Visio.Master.md) or [MasterShortcut](Visio.MasterShortcut.md) object.|

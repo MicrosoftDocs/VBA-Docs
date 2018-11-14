@@ -25,7 +25,7 @@ Get specific data from the returned XML, typically from a  **WebService** functi
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Valid xml string.|
 | _Arg2_|Required|STRING|XPath query string.|

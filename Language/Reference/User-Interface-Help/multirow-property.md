@@ -23,7 +23,7 @@ _object_. **MultiRow** [= _Boolean_ ]
 The  **MultiRow** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control has more than one row of tabs.|

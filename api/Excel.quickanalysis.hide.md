@@ -25,7 +25,7 @@ Hides specific members of the Analysis Lens user interface.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _XlQuickAnalysisMode_|Optional|XLQUICKANALYSISMODE||
 

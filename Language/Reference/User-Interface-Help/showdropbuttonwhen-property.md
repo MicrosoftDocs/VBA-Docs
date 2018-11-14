@@ -23,7 +23,7 @@ _object_. **ShowDropButtonWhen** [= _fmShowDropButtonWhen_ ]
 The  **ShowDropButtonWhen** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmShowDropButtonWhen_|Optional. The circumstances under which the drop-down button will be visible.|
@@ -32,7 +32,7 @@ The  **ShowDropButtonWhen** property syntax has these parts:
 The settings for  _fmShowDropButtonWhen_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShowDropButtonWhenNever_|0|Do not show the drop-down button under any circumstances.|
 | _fmShowDropButtonWhenFocus_|1|Show the drop-down button when the control has the focus.|

@@ -23,7 +23,7 @@ Opens the default web browser to a specified URL or the Windows Explorer to a sp
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _URL_|Optional|**String**|The URL to use for the browser address.|
 

@@ -34,7 +34,7 @@ Possible values for the  **DriverType** property are declared in the **PbDriverT
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbDriverTypeNonPostScript**|1|Non PostScript|
 | **pbDriverTypePostScript1**|2|PostScript 1|

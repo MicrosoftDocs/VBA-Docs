@@ -22,7 +22,7 @@ Returns a zero-based array containing subset of a string array based on a specif
 The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glossary.md#named-argument):
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_sourcearray_**|Required. One-dimensional array of strings to be searched.|
 |**_match_**|Required. String to search for.|
@@ -33,7 +33,7 @@ The  **Filter** function syntax has these[named argument](../../Glossary/vbe-glo
 The  **_compare_** argument can have the following values:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
 |**vbBinaryCompare**| 0|Performs a binary comparison.|

@@ -24,7 +24,7 @@ Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) a spec
 The  **For…Next** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _counter_|Required. Numeric [variable](../../Glossary/vbe-glossary.md#variable) used as a loop counter. The variable can't be a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) or an [array](../../Glossary/vbe-glossary.md#array) element.|
 | _start_|Required. Initial value of  _counter_.|

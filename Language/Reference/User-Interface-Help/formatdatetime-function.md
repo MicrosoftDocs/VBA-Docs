@@ -22,7 +22,7 @@ Returns an expression formatted as a date or time.
 The  **FormatDateTime** function syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _Date_|Required. Date expression to be formatted.|
 | _NamedFormat_|Optional. Numeric value that indicates the date/time format used. If omitted,  **vbGeneralDate** is used.|
@@ -31,7 +31,7 @@ The  **FormatDateTime** function syntax has these parts:
 The  _NamedFormat_ argument has the following settings:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbGeneralDate**|0|Display a date and/or time. If there is a date part, display it as a short date. If there is a time part, display it as a long time. If present, both parts are displayed.|
 |**vbLongDate**|1|Display a date using the long date format specified in your computer's regional settings.|

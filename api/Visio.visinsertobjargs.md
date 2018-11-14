@@ -15,7 +15,7 @@ Flags to be passed to the  **Page.InsertObject** and **Page.InsertFromFile** met
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visInsertAsControl**|8192|None.|
 | **visInsertAsEmbed**|16384|None.|

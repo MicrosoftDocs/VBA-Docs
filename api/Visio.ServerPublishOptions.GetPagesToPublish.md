@@ -44,7 +44,7 @@ The  _Flags_ parameter can be one of the following **VisLangFlags** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLangLocal**|0|The page name is a local name.|
 | **visLangUniversal**|1|The page name is a universal name.|
@@ -53,7 +53,7 @@ The  _PublishPages_ parameter can be one of the following **VisPublishPages** co
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPublishPageAll**|0|Publish all pages.|
 | **visPublishPageSelect**|1|Publish selected pages.|

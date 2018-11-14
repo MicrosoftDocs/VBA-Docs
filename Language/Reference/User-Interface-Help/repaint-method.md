@@ -23,7 +23,7 @@ _Boolean_ = _object_. **Repaint**
 The  **Repaint** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

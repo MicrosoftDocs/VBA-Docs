@@ -22,7 +22,7 @@ Returns a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) objec
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ModelTable_|Required|VARIANT|Either a model table name or a model table object.|
 

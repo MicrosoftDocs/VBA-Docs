@@ -55,7 +55,7 @@ Possible values for the Format parameter are shown in the following table and de
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|
@@ -64,7 +64,7 @@ Possible values for the Intent parameter are shown in the following table and de
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbIntentMinimum**|1|Squeeze the publication to the smallest file size. This satisfies the on-screen viewing scenario where the publication is viewed on a computer monitor.|
 | **pbIntentStandard**|2 |Distribute the publication as an email message or from a Web site. Note that the user does not know how the publication will be viewed: on-screen or printed from a desktop printer. Both the desktop printing scenario and the on-screen viewing scenario must be met by this intent.|

@@ -22,7 +22,7 @@ For other controls **Private Sub**_object_ _**MouseDown( ByVal**_Button_**As fmB
 The  **MouseDown** and **MouseUp** event syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** with the specified event.|
@@ -34,7 +34,7 @@ The  **MouseDown** and **MouseUp** event syntaxes have these parts:
 The settings for  _Button_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmButtonLeft_|1|The left button was pressed.|
 | _fmButtonRight_|2|The right button was pressed.|
@@ -56,7 +56,7 @@ The settings for  _Shift_ are:
 You can identify individual keyboard modifiers by using the following constants:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShiftMask_|1|Mask to detect SHIFT.|
 | _fmCtrlMask_|2|Mask to detect CTRL.|

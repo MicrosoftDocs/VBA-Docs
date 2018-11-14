@@ -38,7 +38,7 @@ The value of the  **DiagramServicesEnabled** property setting must be one or a b
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visServiceNone**|0|No diagram services.|
 | **visServiceAll**|-1|All diagram services.|

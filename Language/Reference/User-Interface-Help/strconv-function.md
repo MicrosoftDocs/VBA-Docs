@@ -19,7 +19,7 @@ Returns a **Variant** (**String**) converted as specified.
 
 The **StrConv** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be converted.|
 |**_conversion_**|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type). The sum of values specifying the type of conversion to perform.|
@@ -29,7 +29,7 @@ The **StrConv** function syntax has these [named arguments](../../Glossary/vbe-g
 
 The **_conversion_** [argument](../../Glossary/vbe-glossary.md#argument) settings are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUpperCase**|1|Converts the string to uppercase characters.|
 |**vbLowerCase**|2|Converts the string to lowercase characters.|

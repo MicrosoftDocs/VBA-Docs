@@ -21,7 +21,7 @@ _result_**=**_number_**^**_exponent_
 The  **^** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _number_|Required; any [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).|

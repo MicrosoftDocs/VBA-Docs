@@ -23,7 +23,7 @@ _object_. **Scroll(** [ _ActionX_ [, _ActionY_ ]] **)**
 The  **Scroll** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _ActionX_|Optional. Identifies the action to occur in the horizontal direction.|
@@ -33,7 +33,7 @@ The  **Scroll** method syntax has these parts:
 The settings for  _ActionX_ and _ActionY_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmScrollActionNoChange_|0|Do not scroll in the specified direction.|
 | _fmScrollActionLineUp_|1|Move up on a vertical scroll bar or left on a horizontal scroll bar. Movement is equivalent to pressing the up or left arrow key on the keyboard to move the scroll bar.|

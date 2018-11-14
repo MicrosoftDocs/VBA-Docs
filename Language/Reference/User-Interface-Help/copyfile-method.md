@@ -24,7 +24,7 @@ _object_. **CopyFile**_source_, _destination_ [, _overwrite_ ]
 The  **CopyFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. The  _object_ is always the name of a **FileSystemObject**.|
 | _source_|Required. Character string file specification, which can include wildcard characters, for one or more files to be copied.|

@@ -12,7 +12,7 @@ Specifies the screen resolution for a Web page.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **resSource**|0|Use resolution of the source image for output.|
 | **res180x260**|1|180 x 260 pixels|

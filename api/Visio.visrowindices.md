@@ -15,7 +15,7 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRow1stHyperlink**|0|Index of the first row in  **visSectionHyperlink** .|
 | **visRow3DRotationProperties**|30|Index of the row in  **visSectionObject** that defines the 3-D rotation properties of the shape.|

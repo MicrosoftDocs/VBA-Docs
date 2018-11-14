@@ -24,7 +24,7 @@ _object_. **GetFile(**_filespec_**)**
 The  **GetFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filespec_|Required. The  _filespec_ is the path (absolute or relative) to a specific file.|

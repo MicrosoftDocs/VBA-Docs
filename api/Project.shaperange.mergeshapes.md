@@ -20,7 +20,7 @@ The  **MergeShapes** method is not implemented in Project.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _MergeCmd_|Required|**[MsoMergeCmd](https://msdn.microsoft.com/library/office/jj227893%28v=office.15%29)**|The type of merge to perform.|
 | _PrimaryShape_|Optional|**Shape**|The primary shape for the merge.|

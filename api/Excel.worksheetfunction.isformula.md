@@ -25,7 +25,7 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|RANGE|Reference to the cell you want to test. Reference can be a cell reference, a formula, or name that refers to a cell.|
 

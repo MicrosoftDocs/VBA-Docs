@@ -19,7 +19,7 @@ Returns a **Variant** (**String**) indicating where a number occurs within a cal
 
 The **Partition** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_number_**|Required. Whole number that you want to evaluate against the ranges.|
 |**_start_**|Required. Whole number that is the start of the overall range of numbers. The number can't be less than 0.|

@@ -24,7 +24,7 @@ For other controls **Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmB
 The  **MouseMove** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
@@ -64,7 +64,7 @@ The settings for  _Shift_ are:
 You can identify individual keyboard modifiers by using the following constants:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShiftMask_|1|Mask to detect SHIFT.|
 | _fmCtrlMask_|2|Mask to detect CTRL.|

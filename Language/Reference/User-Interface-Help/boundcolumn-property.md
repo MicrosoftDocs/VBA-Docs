@@ -23,7 +23,7 @@ _object_. **BoundColumn** [= _Variant_ ]
 The  **BoundColumn** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. Indicates how the  **BoundColumn** value is selected.|

@@ -15,7 +15,7 @@ Run-type constants to be passed to the  **Characters.RunBegin** and **Characters
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visCharPropRow**|1|Reports runs of characters that have common character properties. Corresponds to a set of characters covered by one row in a shape's Character section.|
 | **visFieldRun**|20|Reports runs whose boundaries are between characters that are and aren't the result of the expansion of a text field, or between characters that are the result of the expansion of distinct text fields.|

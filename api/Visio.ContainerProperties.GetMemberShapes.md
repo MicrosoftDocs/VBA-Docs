@@ -42,7 +42,7 @@ The _ContainerFlags_ parameter can be one or more of the following **VisContaine
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerFlagsDefault**|0|Returns all shape types and includes items in nested containers.|
 | **visContainerFlagsExcludeContainers**|1|Excludes member shapes that are containers.|

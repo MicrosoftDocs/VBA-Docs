@@ -20,7 +20,7 @@ Gets an individual  **Series** object in the series collection. Read-only **Seri
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The number or name of the series collection.|
 

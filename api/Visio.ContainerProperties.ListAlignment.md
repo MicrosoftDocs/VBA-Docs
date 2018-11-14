@@ -34,7 +34,7 @@ Use the  **ListAlignment** property to position shapes along the axis that is pe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visListAlignLeftOrTop**|0|Left-align or top-align shapes.|
 | **visListDirCenterOrMiddle**|1|Center-align or middle-align shapes.|

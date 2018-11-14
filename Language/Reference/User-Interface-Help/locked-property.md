@@ -23,7 +23,7 @@ _object_. **Locked** [= _Boolean_ ]
 The  **Locked** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the control can be edited.|

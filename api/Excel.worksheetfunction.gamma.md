@@ -25,7 +25,7 @@ Returns the Gamma function value.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value for which you want to calculate Gamma.|
 

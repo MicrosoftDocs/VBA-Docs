@@ -23,7 +23,7 @@ _object_. **ZOrder(** [ _zPosition_ ] **)**
 The **ZOrder** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _zPosition_|Optional. A control's position, front or back, in the container's z-order.|
@@ -32,7 +32,7 @@ The **ZOrder** method syntax has these parts:
 The settings for  _zPosition_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTop_|0|Places the control at the front of the z-order. The control appears on top of other controls (default).|
 | _fmBottom_|1|Places the control at the back of the z-order. The control appears underneath other controls.|

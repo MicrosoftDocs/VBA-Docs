@@ -17,7 +17,7 @@ Flags used in conjunction with the  **Application.DefaultZoomBehavior** , **Docu
 ****
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visZoomInPlaceContainer**|1|The container performs the zoom.|
 | **visZoomNone**|0|Undefined zoom behavior; use the zoom behavior of the document or application.|

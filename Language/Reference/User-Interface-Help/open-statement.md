@@ -20,7 +20,7 @@ Enables input/output (I/O) to a file.
 The **Open** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _pathname_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name — may include directory or folder, and drive.|
 | _mode_|Required. [Keyword](../../Glossary/vbe-glossary.md#keyword) specifying the file mode: **Append**, **Binary**, **Input**, **Output**, or **Random**. If unspecified, the file is opened for **Random** access.|

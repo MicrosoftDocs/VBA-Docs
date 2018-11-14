@@ -22,7 +22,7 @@ _object_. **OldHeight**
 The  **OldHeight** and **OldWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

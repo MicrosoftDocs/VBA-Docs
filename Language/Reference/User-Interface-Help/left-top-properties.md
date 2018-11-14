@@ -22,7 +22,7 @@ _object_. **Left** [= _Single_ ]
 The  **Left** and **Top** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. A numeric expression specifying the coordinates of an object.|

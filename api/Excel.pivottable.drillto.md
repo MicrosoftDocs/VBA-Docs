@@ -25,7 +25,7 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill operation is performed.|
 | _CubeField_|Required|CUBEFIELD|The target hierarchy being drilled to.|

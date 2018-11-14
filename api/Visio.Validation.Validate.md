@@ -45,7 +45,7 @@ To validate all rule sets active in the document, pass  **Nothing** for _RuleSet
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visValidationDefault**|0|Validate document and open  **Issues** window. The default.|
 | **visValidationNoOpenWindow**|1|Validate document but do not open  **Issues** window.|

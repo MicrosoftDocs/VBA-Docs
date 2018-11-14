@@ -15,7 +15,7 @@ Row-type constants used in conjunction with the  **Shape.RowType** property and 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTagArcTo**|140|The row type of an ArcTo row in a Geometry section.|
 | **visTagCnnctNamed**|185|The row type of a row in a  **visSectionConnectionPts** section that has named rows.|

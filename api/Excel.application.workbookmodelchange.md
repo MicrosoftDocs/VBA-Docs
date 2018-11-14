@@ -25,7 +25,7 @@ Occurs when the data model is updated.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required|WORKBOOK|The workbook|
 | _Changes_|Required|MODELCHANGES|The changes to the data model.|

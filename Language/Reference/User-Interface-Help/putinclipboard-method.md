@@ -23,7 +23,7 @@ _object_. **PutInClipboard**
 The  **PutInClipboard** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

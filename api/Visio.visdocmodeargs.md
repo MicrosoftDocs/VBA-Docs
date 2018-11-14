@@ -15,7 +15,7 @@ Flags passed to or returned by the  **Document.Mode** property and IDs returned 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocModeDesign**|1|The document is in design mode.|
 | **visDocModeRun**|0|The document is in run mode.|

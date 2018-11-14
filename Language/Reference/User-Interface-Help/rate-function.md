@@ -19,7 +19,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 The **Rate** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_nper_**|Required. **Double** specifying total number of payment periods in the annuity. For example, if you make monthly payments on a four-year car loan, your loan has a total of 4 * 12 (or 48) payment periods.|
 |**_pmt_**|Required. **Double** specifying payment to be made each period. Payments usually contain principal and interest that doesn't change over the life of the annuity.|

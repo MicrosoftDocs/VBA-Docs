@@ -15,7 +15,7 @@ Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Wind
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |visAnchorBarAddon|10|Window created by an add-on that has tabs at the bottom when merged (floating, anchored, or docked window)|
 |visAnchorBarBuiltIn|6|Visio built-in window that has tabs at the bottom when merged?presently, the  **Custom Properties, Size & Position, Drawing Explorer, Master Explorer, Pan & Zoom and Validation Issues** windows (floating, anchored, or docked windows).|

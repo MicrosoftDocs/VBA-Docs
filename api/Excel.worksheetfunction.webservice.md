@@ -25,7 +25,7 @@ Underlying function that calls the web service asynchronously, using an HTTP GET
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|The URL of the web service to make the HTTP GET request to.|
 

@@ -22,7 +22,7 @@ Sets the theme for the specified page.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _varThemeIndex_|Required|VARIANT|The theme to apply.|

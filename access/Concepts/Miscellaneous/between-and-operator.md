@@ -22,7 +22,7 @@ _expr_ [ **Not** ] **Between** _value1_ **And** _value2_
 
 The **Between…And** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expr_|Expression identifying the field that contains the data you want to evaluate.|
 | _value1_, _value2_|Expressions against which you want to evaluate  _expr_.|

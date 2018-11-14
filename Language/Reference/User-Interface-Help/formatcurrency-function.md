@@ -22,7 +22,7 @@ Returns an expression formatted as a currency value using the currency symbol de
 The  **FormatCurrency** function syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _Expression_|Required. Expression to be formatted.|
 | _NumDigitsAfterDecimal_|Optional. Numeric value indicating how many places to the right of the decimal are displayed. Default value is -1, which indicates that the computer's regional settings are used.|
@@ -34,7 +34,7 @@ The  **FormatCurrency** function syntax has these parts:
 The  _IncludeLeadingDigit_, _UseParensForNegativeNumbers_, and _GroupDigits_ arguments have the following settings:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbTrue**|-1|True|
 |**vbFalse**| 0|False|

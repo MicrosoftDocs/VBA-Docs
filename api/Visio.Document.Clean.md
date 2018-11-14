@@ -54,7 +54,7 @@ The  _nTargets_ argument can be any combination of the values of the constants d
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocCleanTargAll**|&HFF|Examine all objects (default for  _nTargets_ ).|
 | **visDocCleanTargFPages**|&H1|Examine foreground pages.|

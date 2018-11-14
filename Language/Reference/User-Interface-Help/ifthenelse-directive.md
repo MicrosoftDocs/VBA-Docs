@@ -25,7 +25,7 @@ Conditionally compiles selected blocks of Visual Basic code.
 
 The  **#If...Then...#Else** directive syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|Required. Any [expression](../../Glossary/vbe-glossary.md#expression), consisting exclusively of one or more [conditional compiler constants](../../Glossary/vbe-glossary.md#conditional-compiler-constant), literals, and operators, that evaluates to  **True** or **False**.|
 | _statements_|Required. Visual Basic program lines or compiler directives that are evaluated if the associated expression is  **True**.|

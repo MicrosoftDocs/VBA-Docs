@@ -25,7 +25,7 @@ Returns the number of periods required by an investment to reach a specified val
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Interest rate per period.|
 | _Arg2_|Required|DOUBLE|Present value of the investment.|

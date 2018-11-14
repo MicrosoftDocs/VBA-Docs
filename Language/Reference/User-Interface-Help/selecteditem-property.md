@@ -23,7 +23,7 @@ _object_. **SelectedItem**
 The  **SelectedItem** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid  **TabStrip** or **MultiPage**.|
 

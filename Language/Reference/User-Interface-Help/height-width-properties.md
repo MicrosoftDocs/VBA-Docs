@@ -22,7 +22,7 @@ _object_. **Height** [= _Single_ ]
 The  **Height** and **Width** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. A numeric expression specifying the dimensions of an object.|

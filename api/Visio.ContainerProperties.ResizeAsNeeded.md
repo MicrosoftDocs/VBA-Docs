@@ -34,7 +34,7 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerAutoResizeNone**|0|Do not automatically resize container.|
 | **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|

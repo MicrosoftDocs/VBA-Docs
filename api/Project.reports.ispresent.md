@@ -20,7 +20,7 @@ Indicates whether the specified custom report exists in the project.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|Description|
 

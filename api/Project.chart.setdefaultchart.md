@@ -20,7 +20,7 @@ Specifies the name of the default chart template that Project uses when creating
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _varName_|Required|**Variant**|The name of the chart template. The name can be a string for the name of a chart in the gallery or a user-defined template, or the name can be a constant for a built-in chart template.|
 | _varName_|Required|VARIANT||

@@ -25,7 +25,7 @@ Returns the hyperbolic cotangent of a number
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The angle in radians for which you want the hyperbolic cotangent.|
 

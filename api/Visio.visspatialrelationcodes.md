@@ -20,7 +20,7 @@ The spatial relationship between shapes can be indicated by any combination of t
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialContainedIn**|&H4|A shape can be contained within another shape. Shape B is contained within shape A if shape A encloses every region and path of shape B.|
 | **visSpatialContain**|&H2|A shape can contain another shape. Shape A contains shape B if shape A encloses every region and path of shape B.|

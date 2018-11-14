@@ -22,7 +22,7 @@ Occur in sequence when a user presses and releases a key. KeyDown occurs when th
 The  **KeyDown** and **KeyUp** event syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _KeyCode_|Required. An integer that represents the key code of the key that was pressed or released.|
@@ -32,7 +32,7 @@ The  **KeyDown** and **KeyUp** event syntaxes have these parts:
 The settings for  _Shift_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmShiftMask_|1|SHIFT was pressed.|
 | _fmCtrlMask_|2|CTRL was pressed.|

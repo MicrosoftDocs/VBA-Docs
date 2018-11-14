@@ -23,7 +23,7 @@ _object_. **PasswordChar** [= _String_ ]
 The  **PasswordChar** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression specifying the placeholder character.|

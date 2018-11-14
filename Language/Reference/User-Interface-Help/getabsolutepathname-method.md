@@ -24,7 +24,7 @@ _object_. **GetAbsolutePathName(**_pathspec_**)**
 The  **GetAbsolutePathName** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _pathspec_|Required. Path specification to change to a complete and unambiguous path.|

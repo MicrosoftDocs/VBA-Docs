@@ -21,7 +21,7 @@ _result_**=**_expression1_ **Or** _expression2_
 The  **Or** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _expression1_|Required; any expression.|

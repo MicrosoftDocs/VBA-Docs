@@ -55,7 +55,7 @@ Possible values for the  _FixedFormat_ parameter are shown in the following tabl
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFixedFormatPDF**|1|PDF fixed format|
 | **visFixedFormatXPS**|2|XPS fixed format|
@@ -64,7 +64,7 @@ Possible values for the  _Intent_ parameter are shown in the following table and
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocExIntentPrint**|1|Intended to be published online and printed|
 | **visDocExIntentScreen**|0|Intended to be published only online|
@@ -73,7 +73,7 @@ Possible values for the  _PrintRange_ parameter are shown in the following table
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPrintAll**|0|Prints all foreground pages.|
 | **visPrintCurrentPage**|2|Prints the active page.|

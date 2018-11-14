@@ -20,7 +20,7 @@ You can set regional user interface (UI) options on the  **Set the Office Langua
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRegionalUIOptionsHide**|0|Always hide regional UI. |
 | **visRegionalUIOptionsShow**|1|Always show regional UI.|

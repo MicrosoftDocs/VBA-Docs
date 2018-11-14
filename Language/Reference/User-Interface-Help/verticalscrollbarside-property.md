@@ -23,7 +23,7 @@ _object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
 The  **VerticalScrollbarSide** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmVerticalScrollbarSide_|Optional. Where the scroll bar should appear.|
@@ -32,7 +32,7 @@ The  **VerticalScrollbarSide** property syntax has these parts:
 The settings for  _fmVerticalScrollbarSide_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmVerticalScrollbarSideRight_|0|Puts the scroll bar on the right side (default).|
 | _fmVerticalScrollBarSideLeft_|1|Puts the scroll bar on the left side.|

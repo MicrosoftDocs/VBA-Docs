@@ -21,7 +21,7 @@ _object_. **Orientation** [= _fmOrientation_ ]
 The  **Orientation** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmOrientation_|Optional. Orientation of the control.|
@@ -30,7 +30,7 @@ The  **Orientation** property syntax has these parts:
 The settings for  _fmOrientation_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmOrientationAuto_|-1|Automatically determines the orientation based upon the dimensions of the control (default).|
 | _FmOrientationVertical_|0|Control is rendered vertically.|

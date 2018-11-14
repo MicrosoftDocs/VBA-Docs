@@ -23,7 +23,7 @@ _object_**.AddCustom** (**ByVal**_progid_**As String**) **As VBComponent**
 The  **AddCustom** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _progid_|Required. The ProgID of the custom component to be created.|

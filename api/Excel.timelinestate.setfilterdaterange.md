@@ -25,7 +25,7 @@ Sets the Timeline?s filter.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _StartDate_|Required|VARIANT|The start of the filtering date range.|
 | _EndDate_|Required|VARIANT|The end of the filtering date range.|

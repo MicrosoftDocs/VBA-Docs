@@ -34,7 +34,7 @@ Returns the media mobilization profile for the specified media asset. Read-only.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ppResampleMediaProfileCustom**|1|Custom profile|
 |**ppResampleMediaProfileSmall**|2|Small profile|

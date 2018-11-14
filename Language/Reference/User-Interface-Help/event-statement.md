@@ -19,7 +19,7 @@ Declares a user-defined event.
 
 The **Event** statement has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Specifies that the **Event** is visible throughout the [project](../../Glossary/vbe-glossary.md#project). **Events** types are **Public** by default. Note that events can only be raised in the [module](../../Glossary/vbe-glossary.md#module) in which they are declared.|
 | _procedurename_|Required. Name of the event; follows standard variable naming conventions.|
@@ -30,7 +30,7 @@ The  _arglist_ argument has the following syntax and parts:
 
 [ **ByVal** |**ByRef** ] _varname_ [ ( ) ] [ **As**_type_ ]
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**ByVal**|Optional. Indicates that the [argument](../../Glossary/vbe-glossary.md#argument) is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
 |**ByRef**|Optional. Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference). **ByRef** is the default in Visual Basic.|

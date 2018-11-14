@@ -12,7 +12,7 @@ These constants are only available when your project has an explicit reference t
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Unknown**|0|Drive type can't be determined.|
 |**Removable**|1|Drive has removable media. This includes all floppy drives and many other varieties of storage devices.|

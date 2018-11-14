@@ -23,7 +23,7 @@ _object_. **Alignment** [= _fmAlignment_ ]
 The  **Alignment** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmAlignment_|Optional. Caption position.|
@@ -32,7 +32,7 @@ The  **Alignment** property syntax has these parts:
 The settings for  _fmAlignment_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmAlignmentLeft_|0|Places the caption to the left of the control.|
 | _fmAlignmentRight_|1|Places the caption to the right of the control (default).|

@@ -15,7 +15,7 @@ Flags passed to the  **Document.Clean** method to indicate which objects to exam
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDocCleanTargAll**|&HFF|Examine all objects.|
 | **visDocCleanTargBPages**|&H2|Examine background pages.|

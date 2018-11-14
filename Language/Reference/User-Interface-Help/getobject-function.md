@@ -19,14 +19,14 @@ Returns a reference to an object provided by an ActiveX component.
 
 The **GetObject** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_pathname_**|Optional; **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
 |**_class_**|Optional; **Variant** (**String**). A string representing the [class](../../Glossary/vbe-glossary.md#class) of the object.|
 
 The **_class_** [argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_._objecttype_ and has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _appname_|Required; **Variant** (**String**). The name of the application providing the object.|
 | _objecttype_|Required; **Variant** (**String**). The type or class of object to create.|

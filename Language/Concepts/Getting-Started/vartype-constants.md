@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbEmpty**|0|Uninitialized (default)|
 |**vbNull**|1|Contains no valid data|

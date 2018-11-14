@@ -21,7 +21,7 @@ _object_. **Count**
 The  **Count** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

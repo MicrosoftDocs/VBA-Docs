@@ -23,7 +23,7 @@ Occurs before data in a control is changed.
 The  **BeforeUpdate** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** cancels the update and indicates the application should handle the event.|

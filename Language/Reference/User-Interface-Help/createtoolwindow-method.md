@@ -23,7 +23,7 @@ _object_. **CreateToolWindow (**_AddInInst, ProgID, Caption, GuidPosition, DocOb
 The  **CreateToolWindow** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _AddInInst_|Required. An add-in instance variable representing an add-in in the development environment.|

@@ -25,7 +25,7 @@ Merges the changes in one presentation with another.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path, including filename, of the presentation to merge changes with.|
 | _Path_|Required|STRING||

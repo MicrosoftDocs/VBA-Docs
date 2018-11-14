@@ -25,7 +25,7 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Optional|VARIANT|The index number in the series collection of the series to return.|

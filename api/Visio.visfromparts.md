@@ -23,7 +23,7 @@ The  **VisFromParts** return codes indicate the part of a shape from which a con
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBeginX**|7|Connection is from the begin point x of a 1-D shape.|
 | **visBeginY**|8|Connection is from the begin point y of a 1-D shape.|

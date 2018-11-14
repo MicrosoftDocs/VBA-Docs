@@ -25,7 +25,7 @@ Returns a single object from the [ModelColumnNames object (Excel)](Excel.modelco
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name for the object.|
 

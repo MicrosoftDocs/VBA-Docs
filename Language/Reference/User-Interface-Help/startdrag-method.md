@@ -23,7 +23,7 @@ _fmDropEffect=Object_. **StartDrag _(_**_[Effect as fmDropEffect])_
 The  **StartDrag** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _Object_|Required. A valid object.|
 | _Effect_|Optional. Effect of the drop operation on the target control.|
@@ -32,7 +32,7 @@ The  **StartDrag** method syntax has these parts:
 The settings for  _Effect_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmDropEffectNone_|0|Does not copy or move the [drop source](../../Glossary/glossary-vba.md#drop-source) to the drop target.|
 | _fmDropEffectCopy_|1|Copies the drop source to the drop target.|

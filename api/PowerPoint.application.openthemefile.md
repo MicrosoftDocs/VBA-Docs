@@ -25,7 +25,7 @@ Opens the specified theme file (*thmx).
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _themeFileName_|Required|**String**|The path of the theme file (*.thmx) to open.|
 | _themeFileName_|Required|STRING||

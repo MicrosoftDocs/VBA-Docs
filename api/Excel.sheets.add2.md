@@ -25,7 +25,7 @@ This method is only implemented for the  **Charts** collection object and will p
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Before_|Optional|VARIANT|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional|VARIANT|An object that specifies the sheet after which the new sheet is added.|

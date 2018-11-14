@@ -25,7 +25,7 @@ Returns the arccotangent of a number, in radians in the range 0 to Pi.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The cotangent of the angle you want.|
 

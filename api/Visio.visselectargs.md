@@ -15,7 +15,7 @@ Selection-type constants to be passed to the  **Selection.Select** and **Window.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeselect**|1|Deselects a shape but leaves the rest of the selection unchanged.|
 | **visSelect**|2|Selects a shape but leaves the rest of the selection unchanged.|

@@ -25,7 +25,7 @@ Returns a bitwise OR of 2 numbers.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The decimal representation of the binary number you want to evaluate.|
 | _Arg2_|Required|DOUBLE|The decimal representation of the binary number you want to evaluate.|

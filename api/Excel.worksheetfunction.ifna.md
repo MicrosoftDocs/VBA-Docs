@@ -25,7 +25,7 @@ Returns the value you specify if the expression resolves to #N/A, otherwise retu
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|VARIANT|value: Any value or expression or reference.|
 | _Arg2_|Required|VARIANT|value_if_na: Any value or expression or reference.|

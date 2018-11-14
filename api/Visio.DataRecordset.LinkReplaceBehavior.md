@@ -37,7 +37,7 @@ The following constants for link replacement behaviors are declared by the Visio
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLinkReplaceAlways**|1|Always replace links when linking to a shape that has existing links|
 | **visLinkReplaceNever**|0|Never replace links when linking to a shape that has existing links|

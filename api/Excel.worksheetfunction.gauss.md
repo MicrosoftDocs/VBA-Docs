@@ -25,7 +25,7 @@ Returns 0.5 less than the standard normal cumulative distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value for which you want the distribution.|
 

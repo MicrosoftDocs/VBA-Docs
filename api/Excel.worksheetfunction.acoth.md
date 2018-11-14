@@ -25,7 +25,7 @@ Returns the inverse hyperbolic cotangent of a number.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The hyperbolic cotangent of the angle that you want.|
 

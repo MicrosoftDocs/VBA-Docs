@@ -25,7 +25,7 @@ Rounds a number up, to the nearest integer or to the nearest multiple of signifi
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The value you want to round.|
 | _Arg2_|Optional|VARIANT|The multiple to which you want to round.|

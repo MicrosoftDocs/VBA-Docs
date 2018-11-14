@@ -18,7 +18,7 @@ Specifies constants that determine the container format to change; passed to the
 Version Added: Visio 2010 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerFormatLockMembership**|0|Change whether container membership is locked. |
 | **visContainerFormatContainerAutoResize**|1|Change how the container resizes automatically.|

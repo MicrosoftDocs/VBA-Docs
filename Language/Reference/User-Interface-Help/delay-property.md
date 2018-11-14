@@ -23,7 +23,7 @@ _object_. **Delay** [= _Long_ ]
 The  **Delay** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. The delay, in milliseconds, between events.|

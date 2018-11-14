@@ -48,7 +48,7 @@ The following possible values for the  _SweepFlag_ argument are declared in **Vi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visArcSweepFlagConcave**|0|Concave arc|
 | **visArcSweepFlagConvex**|1|Convex arc|

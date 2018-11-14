@@ -23,7 +23,7 @@ _object_. **MaxLength** [= _Long_ ]
 The  **MaxLength** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. An integer indicating the allowable number of characters.|

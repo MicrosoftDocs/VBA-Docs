@@ -21,7 +21,7 @@ _object_. **Cut**
 The  **Cut** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

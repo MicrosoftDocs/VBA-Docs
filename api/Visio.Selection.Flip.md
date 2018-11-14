@@ -47,7 +47,7 @@ The following possible values for  _FlipDirection_ are declared in **VisFlipDire
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFlipHorizontal**|1|Flip the selection horizontally.|
 | **visFlipVertical**|2|Flip the selection vertically.|
@@ -56,7 +56,7 @@ The following possible values for  _FlipType_ are declared in **VisFlipTypes** i
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFlipSelectionWithPin**|1|Flip the selection about a pin.|
 | **visFlipSelection**|0|Flip the selection about its center.|

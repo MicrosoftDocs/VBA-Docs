@@ -23,7 +23,7 @@ _object_. **ControlTipText** [= _String_ ]
 The  **ControlTipText** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. The text that appears when the user holds the mouse pointer over a control.|

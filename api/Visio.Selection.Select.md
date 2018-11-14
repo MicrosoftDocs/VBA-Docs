@@ -45,7 +45,7 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeselect**|1|Cancels the selection of a shape but leaves the rest of the selection unchanged.|
 | **visSelect**|2|Selects a shape but leaves the rest of the selection unchanged.|

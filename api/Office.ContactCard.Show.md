@@ -45,7 +45,7 @@ Nothing
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**msoContactCardTypeEnterpriseContact**|0|Represents a contact card for an enterprise contact address.|
 |**msoContactCardTypePersonalContact**|1|Represents a contact card for a personal contact address.|

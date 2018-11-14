@@ -23,7 +23,7 @@ _object_. **Zoom** [= _Integer_ ]
 The  **Zoom** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Integer_|Optional. The percentage to increase or decrease the displayed image.|

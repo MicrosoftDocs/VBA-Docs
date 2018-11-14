@@ -42,7 +42,7 @@ Deletes additional shapes associated with the selection, such as connectors and 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDeleteNormal**|0|Match the deletion behavior in the user interface.|
 | **visDeleteHealConnectors**|1|Delete connectors attached to deleted shapes.|

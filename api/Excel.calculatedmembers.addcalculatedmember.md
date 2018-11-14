@@ -22,7 +22,7 @@ _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMe
 
 ## Parameters
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|STRING|The name of the calculated member.|
 | _Formula_|Required|VARIANT|The formula of the calculated member.|

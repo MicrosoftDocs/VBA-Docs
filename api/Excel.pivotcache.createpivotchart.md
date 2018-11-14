@@ -25,7 +25,7 @@ Creates a standalone PivotChart from a [PivotCache object (Excel)](Excel.PivotCa
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ChartDestination_|Required|VARIANT|The Destination worksheet|
 | _XlChartType_|Optional|VARIANT|The type of chart|

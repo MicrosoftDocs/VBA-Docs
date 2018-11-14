@@ -48,7 +48,7 @@ The  _SelType_ argument should be one of the following values, which are declare
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelTypeAll**|1|A selection that initially contains all shapes. |
 | **visSelTypeByDataGraphic**|6|A selection that initially contains all shapes that have a given type of data graphic appled.|
@@ -63,7 +63,7 @@ The optional  _IterationMode_ argument should be one of the following values, wh
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelModeOnlySub**|&H0800|Selection only reports subselected shapes.|
 | **visSelModeOnlySuper**|&H0200|Selection only reports superselected shapes.|
@@ -78,7 +78,7 @@ When the  _SelType_ argument is **visSelTypeByType** , possible _Data_ values sh
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visTypeSelBitmap**|16|A shape that is a bitmap.|
 | **visTypeSelGroup**|1|A shape that contains other shapes.|

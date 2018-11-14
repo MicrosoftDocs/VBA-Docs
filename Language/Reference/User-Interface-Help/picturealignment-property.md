@@ -23,7 +23,7 @@ _object_. **PictureAlignment** [= _fmPictureAlignment_ ]
 The  **PictureAlignment** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmPictureAlignment_|Optional. The position where the picture aligns with the control.|
@@ -32,7 +32,7 @@ The  **PictureAlignment** property syntax has these parts:
 The settings for  _fmPictureAlignment_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmPictureAlignmentTopLeft_|0|The top left corner.|
 | _fmPictureAlignmentTopRight_|1|The top right corner.|

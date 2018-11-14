@@ -25,7 +25,7 @@ Occurs after the sheet table has been updated.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required|OBJECT|The selected sheet.|
 | _Target_|Required|TABLEOBJECT|The selected table.|

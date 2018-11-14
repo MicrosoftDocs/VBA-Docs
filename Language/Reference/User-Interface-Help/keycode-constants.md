@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyLButton**|0x1|Left mouse button|
 |**vbKeyRButton**|0x2|Right mouse button|
@@ -53,7 +53,7 @@ The A key through the Z key are the same as the ASCII equivalents A - Z:
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyA**|65|A key|
 |**vbKeyB**|66|B key|
@@ -85,7 +85,7 @@ The A key through the Z key are the same as the ASCII equivalents A - Z:
 The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKey0**|48|0 key|
 |**vbKey1**|49|1 key|
@@ -101,7 +101,7 @@ The 0 key through 9 key are the same as their ASCII equivalents 0 - 9:
 The following constants represent keys on the numeric keypad:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyNumpad0**|0x60|0 key|
 |**vbKeyNumpad1**|0x61|1 key|
@@ -123,7 +123,7 @@ The following constants represent keys on the numeric keypad:
 The following constants represent function keys:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbKeyF1**|0x70|F1 key|
 |**vbKeyF2**|0x71|F2 key|

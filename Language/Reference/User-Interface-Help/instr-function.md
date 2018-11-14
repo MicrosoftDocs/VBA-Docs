@@ -19,7 +19,7 @@ Returns a **Variant** (**Long**) specifying the position of the first occurrence
 The **InStr** function syntax has these [arguments](../../Glossary/vbe-glossary.md#argument):
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains [Null](../../Glossary/vbe-glossary.md#null), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
 | _string1_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
@@ -30,7 +30,7 @@ The **InStr** function syntax has these [arguments](../../Glossary/vbe-glossary.
 
 The  _compare_ argument settings are as follows.
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----:|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|

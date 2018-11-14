@@ -23,7 +23,7 @@ _object_. **TransitionEffect** [= _fmTransitionEffect_ ]
 The  **TransitionEffect** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmTransitionEffect_|Optional. The transition effect you want between pages.|
@@ -32,7 +32,7 @@ The  **TransitionEffect** property syntax has these parts:
 The settings for  _fmTransitionEffect_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmTransitionEffectNone_|0|No special effect (default).|
 | _fmTransitionEffectCoverUp_|1|The new page covers the old page, moving from the bottom to the top.|

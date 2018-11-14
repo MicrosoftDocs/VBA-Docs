@@ -22,7 +22,7 @@ _object_. **InsideHeight**
 The  **InsideHeight** and **InsideWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

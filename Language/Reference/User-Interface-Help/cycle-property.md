@@ -23,7 +23,7 @@ _object_. **Cycle** [= _fmCycle_ ]
 The  **Cycle** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmCycle_|Optional. Specifies whether cycling includes controls nested in a  **Frame** or **MultiPage**.|
@@ -32,7 +32,7 @@ The  **Cycle** property syntax has these parts:
 The settings for  _fmCycle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmCycleAllForms_|0|[Cycles](../../Glossary/glossary-vba.md#cycle) through the controls on the form and the controls of the **Frame** and **MultiPage** controls that are currently displayed on the form.|
 | _fmCycleCurrentForm_|2|Cycles through the controls on the form,  **Frame**, or **MultiPage**. The focus stays within the form, **Frame**, or **MultiPage** until the focus is explicitly set to a control outside the form, **Frame**, or **MultiPage**.|

@@ -34,7 +34,7 @@ The value of the  **RasterExportColorFormat** property must be one of the follow
 
 
 
-|**Constant**|**Value**|**Description**|**Applicable File Formats**|
+|Constant|Value|Description|**Applicable File Formats**|
 |:-----|:-----|:-----|:-----|
 | **visRasterBiLevel**|0|Bi-level color format|BMP, PNG, TIFF|
 | **visRaster16Color**|1|16-color format|BMP, PNG, TIFF|

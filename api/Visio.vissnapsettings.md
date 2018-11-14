@@ -15,7 +15,7 @@ Flags passed to or returned by the  **Document.SnapSettings** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSnapToAlignmentBox**|&H200|Snap to the alignment box.|
 | **visSnapToConnectionPoints**|&H20|Snap to connection points.|

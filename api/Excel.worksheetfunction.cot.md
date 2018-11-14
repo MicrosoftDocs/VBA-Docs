@@ -25,7 +25,7 @@ Returns the cotangent of an angle.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The angle in radians for which you want the cotangent.|
 

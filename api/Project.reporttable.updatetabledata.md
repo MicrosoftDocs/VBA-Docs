@@ -23,7 +23,7 @@ Updates rows and columns in the report table to show the specified task or resou
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Task_|Required|**Boolean**|**True** to update task data in the **Field List** task pane; **False** to update resource data.|
 | _GroupName_|Optional|**String**|Name of the group in the  **Group By** drop-down list.|

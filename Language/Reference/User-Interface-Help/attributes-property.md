@@ -24,7 +24,7 @@ _object_. **Attributes** [= _newattributes_ ]
 The  **Attributes** property has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** or **Folder** object.|
 | _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
@@ -33,7 +33,7 @@ The  **Attributes** property has these parts:
 The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**Normal**|0|Normal file. No attributes are set.|
 |**ReadOnly**|1|Read-only file. Attribute is read/write.|

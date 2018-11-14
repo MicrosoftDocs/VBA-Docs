@@ -22,7 +22,7 @@ _variable_**=**_value_
 The  **=** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _variable_|Any variable or any writable property.|
 | _value_|Any numeric or string literal, [constant](../../Glossary/vbe-glossary.md#constant), or [expression](../../Glossary/vbe-glossary.md#expression).|

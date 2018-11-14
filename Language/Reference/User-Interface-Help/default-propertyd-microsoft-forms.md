@@ -21,7 +21,7 @@ _object_. **Default** [= _Boolean_ ]
 The  **Default** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the command button is the default.|

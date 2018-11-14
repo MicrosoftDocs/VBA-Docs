@@ -29,7 +29,7 @@ For all other controls **Private Sub**_object_ _**Click( )**
 The  **Click** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|

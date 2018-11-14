@@ -20,7 +20,7 @@ Applies data labels to all the series in a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional|**Office.XlDataLabelsType**|The type of data label to apply. The default value is  **xlDataLabelsShowValue**.|
 | _IMsoLegendKey_|Optional|**Variant**|**True** to show the legend key next to the point. The default value is **False**.|

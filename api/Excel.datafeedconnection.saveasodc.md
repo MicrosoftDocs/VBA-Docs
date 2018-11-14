@@ -25,7 +25,7 @@ Saves the data feed connection as a Microsoft Office Data Connection file.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ODCFileName_|Required|STRING|Location to save the file.|
 | _Description_|Optional|VARIANT|Description that will be saved in the file.|

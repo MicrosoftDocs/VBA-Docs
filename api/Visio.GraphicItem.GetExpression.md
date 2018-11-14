@@ -46,7 +46,7 @@ The Field value returned as an out parameter is one of the following values from
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicPropertyLabel**|1|The label of a shape data item.|
 | **visGraphicExpression**|2|The ShapeSheet formula of a shape data item.|

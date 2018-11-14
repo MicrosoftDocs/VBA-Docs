@@ -25,7 +25,7 @@ Enables you to drill up into the data within an OLAP or PowerPivot based cube hi
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PivotItem_|Required|PIVOTITEM|The member from which the drill up is performed.|
 | _PivotLine_|Optional|VARIANT|Specifies the line in the PivotTable where the operation starting member resides. In cases where PivotLine is not specified, defaults to the top PivotLine where the member appears.|

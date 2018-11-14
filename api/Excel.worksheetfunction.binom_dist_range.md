@@ -25,7 +25,7 @@ Returns the probability of a trial result using a binomial distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|The number of independent trials.|
 | _Arg2_|Required|DOUBLE|The probability of success on each trial.|

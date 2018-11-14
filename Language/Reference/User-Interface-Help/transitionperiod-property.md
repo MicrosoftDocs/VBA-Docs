@@ -23,7 +23,7 @@ _object_. **TransitionPeriod** [= _Long_ ]
 The  **TransitionPeriod** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. How long it takes to complete the transition from one page to another.|

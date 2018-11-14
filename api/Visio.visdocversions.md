@@ -15,7 +15,7 @@ Return values for the  **Document.Version** property.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visVersion100**|393216 (&H60000)|Visio version 2000 or 2002 document.|
 | **visVersion10**|65571 (&H10023)|Visio 1.0 document.|

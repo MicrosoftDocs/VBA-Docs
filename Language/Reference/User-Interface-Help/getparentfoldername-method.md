@@ -24,7 +24,7 @@ _object_. **GetParentFolderName(**_path_**)**
 The  **GetParentFolderName** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose parent folder name is to be returned.|

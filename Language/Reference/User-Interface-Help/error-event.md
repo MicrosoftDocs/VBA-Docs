@@ -24,7 +24,7 @@ For other controls **Private Sub**_object_ _**Error( ByVal**_Number_**As Integer
 The  **Error** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|

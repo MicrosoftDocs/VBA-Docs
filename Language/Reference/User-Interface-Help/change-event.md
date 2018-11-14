@@ -23,7 +23,7 @@ Occurs when the  **Value** property changes.
 The  **Change** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

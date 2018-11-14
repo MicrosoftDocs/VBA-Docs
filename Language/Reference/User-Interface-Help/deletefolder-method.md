@@ -24,7 +24,7 @@ _object_. **DeleteFolder**_folderspec_ [, _force_ ]
 The  **DeleteFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _folderspec_|Required. The name of the folder to delete. The  _folderspec_ can contain wildcard characters in the last path component.|

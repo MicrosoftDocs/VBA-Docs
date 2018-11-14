@@ -24,7 +24,7 @@ For MultiPage **Private Sub**_object_ _**AddControl(**_index_**As Long**, _ctrl_
 The  **AddControl** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the  **Page** that will contain the new control.|

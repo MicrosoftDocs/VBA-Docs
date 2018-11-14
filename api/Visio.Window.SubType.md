@@ -34,7 +34,7 @@ If the  **Type** property of a **Window** object returns any value other than **
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPageWin**|128 |A drawing window showing a page. |
 | **visPageGroupWin**|160 |A group editing window of a group on a page. |

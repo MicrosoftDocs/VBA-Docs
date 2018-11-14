@@ -15,7 +15,7 @@ Constants passed to and returned by the  **Selection.IterationMode** property an
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSelModeOnlySub**|&H0800|Selection reports only subselected shapes.|
 | **visSelModeOnlySuper**|&H0200|Selection reports only superselected shapes.|

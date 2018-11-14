@@ -22,7 +22,7 @@ Occurs when Visio incorporates changes from other users? versions of a document 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _coauthMergeObjects_|Required|IVCOAUTHMERGEEVENT|An object that represents different versions of the merged, co authored document.|

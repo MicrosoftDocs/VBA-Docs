@@ -15,7 +15,7 @@ Flags to be passed to the  **BoundingBox** method of various objects.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBBoxDrawingCoords**|&H2000|Return numbers in the drawing coordinate system of the page or master whose shapes are being considered. By default, the returned numbers are drawing units in the local coordinate system of the parent of the considered shapes.|
 | **visBBoxExtents**|&H4|Return a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the paths stroked by the shape's geometry.This rectangle may be larger or smaller than the shape's upright width-height box. The extents box determined for a shape of type  **visTypeForeignObject** equals that shape's upright width-height box.|

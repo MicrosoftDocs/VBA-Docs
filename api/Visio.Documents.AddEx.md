@@ -47,7 +47,7 @@ The  _MeasurementSystem_ argument should be one of the following members of **Vi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visMSDefault**|0|Choose metric or US depending on regional options set in Control Panel.|
 | **visMSMetric**|1|Metric measurement system.|
@@ -57,7 +57,7 @@ The  _Flags_ argument should be a combination of one or more of the following me
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAddDocked**|4|Adds a document in a docked window.|
 | **visAddHidden**|64|Adds a document in a hidden window.|

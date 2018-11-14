@@ -15,7 +15,7 @@ Flags to be passed to the ** Documents.AddEx** , **Documents.OpenEx** , and **Do
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visAddDeclineAutoRefresh**|1024|Adds a document without displaying the  **Configure Refresh** dialog box.|
 | **visAddDocked**|4|Adds a document in a docked window.|

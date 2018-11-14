@@ -22,7 +22,7 @@ Adds a new Workbook Connection to the model with the same properties as the one 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ConnectionToDataSource_|Required|WORKBOOKCONNECTION|The Workbook connection.|
 

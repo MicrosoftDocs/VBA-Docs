@@ -23,7 +23,7 @@ _object_. **SetDefaultTabOrder**
 The  **SetDefaultTabOrder** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

@@ -53,7 +53,7 @@ Possible values for  _PrintRange_ are shown in the following table and declared 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPrintAll**|0|Prints all foreground pages.|
 | **visPrintCurrentPage**|2|Prints the active page.|

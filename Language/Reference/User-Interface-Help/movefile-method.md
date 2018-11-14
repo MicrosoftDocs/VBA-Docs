@@ -24,7 +24,7 @@ _object_. **MoveFile**_source_, _destination_
 The  **MoveFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _source_|Required. The path to the file or files to be moved. The  _source_ argument string can contain wildcard characters in the last path component only.|

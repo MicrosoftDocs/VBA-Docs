@@ -25,7 +25,7 @@ Enables you to take the contents and formatting of a single data label and apply
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number of the data label to propagate.|
 

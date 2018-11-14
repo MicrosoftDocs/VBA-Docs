@@ -23,7 +23,7 @@ _object_. **TextLength**
 The  **TextLength** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

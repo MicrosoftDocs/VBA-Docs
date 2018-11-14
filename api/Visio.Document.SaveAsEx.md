@@ -45,7 +45,7 @@ The  _SaveFlags_ argument should be a combination of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSaveAsRO**|&H1|The document is saved as read-only.|
 | **visSaveAsWS**|&H2|The current workspace is saved with the file.|

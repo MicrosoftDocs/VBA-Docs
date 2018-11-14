@@ -43,7 +43,7 @@ The  _StencilType_ parameter value must be one of the following **VisBuiltInSten
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBuiltInStencilBackgrounds**|0|The hidden stencil that contains the shapes displayed in the  **Backgrounds** gallery (**Design** tab).|
 | **visBuiltInStencilBorders**|1|The hidden stencil that contains the shapes displayed in the  **Borders and Titles** gallery (**Design** tab).|

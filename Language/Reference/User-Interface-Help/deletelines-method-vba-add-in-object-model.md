@@ -21,7 +21,7 @@ _object_**.DeleteLines (**_startline_ [, _count_ ] **)**
 The  **DeleteLines** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the first line you want to delete.|

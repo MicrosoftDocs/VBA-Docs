@@ -17,7 +17,7 @@ Returns or sets a numeric value specifying the visual state of the window. Read/
 
 The **WindowState** property returns or sets the following values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbext_ws_Normal**|0|(Default) Normal|
 |**vbext_ws_Minimize**|1|Minimized (minimized to an icon)|

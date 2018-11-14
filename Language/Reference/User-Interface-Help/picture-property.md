@@ -23,7 +23,7 @@ _object_. **Picture** = **LoadPicture(**_pathname_**)**
 The  **Picture** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _pathname_|Required. The full path to a picture file.|

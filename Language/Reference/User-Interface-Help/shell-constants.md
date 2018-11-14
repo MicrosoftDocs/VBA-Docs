@@ -12,7 +12,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbHide**|0|Window is hidden and focus is passed to the hidden window.|
 |**vbNormalFocus**|1|Window has focus and is restored to its original size and position.|

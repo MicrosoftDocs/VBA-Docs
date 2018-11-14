@@ -23,7 +23,7 @@ _object_. **TextColumn** [= _Variant_ ]
 The  **TextColumn** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Variant_|Optional. The column to be displayed.|

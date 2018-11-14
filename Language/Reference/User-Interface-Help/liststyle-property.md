@@ -23,7 +23,7 @@ _object_. **ListStyle** [= _fmListStyle_ ]
 The  **ListStyle** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmListStyle_|Optional. The visual style of the list.|
@@ -32,7 +32,7 @@ The  **ListStyle** property syntax has these parts:
 The settings for  _fmListStyle_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmListStylePlain_|0|Looks like a regular list box, with the background of items highlighted.|
 | _fmListStyleOption_|1|Shows option buttons, or check boxes for a multi-select list (default). When the user selects an item from the group, the option button associated with that item is selected and the option buttons for the other items in the group are deselected.|

@@ -24,7 +24,7 @@ For other controls **Private Sub**_object_ _**DblClick( ByVal**_Cancel_**As MSFo
 The  **DblClick** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The position of a  **Page** or **Tab** object within a **Pages** or **Tabs** collection.|

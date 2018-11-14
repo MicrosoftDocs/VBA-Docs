@@ -18,7 +18,7 @@ Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Prote
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visBarNoChangeDock**|16|Can't be docked or floating.|
 | **visBarNoCustomize**|1|Can't be customized.|

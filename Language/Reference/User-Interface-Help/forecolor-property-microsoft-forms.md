@@ -21,7 +21,7 @@ _object_. **ForeColor** [= _Long_ ]
 The  **ForeColor** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Long_|Optional. A value or constant that determines the foreground color of an object.|

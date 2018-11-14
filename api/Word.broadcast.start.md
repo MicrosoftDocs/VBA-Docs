@@ -25,7 +25,7 @@ Initiates the specified broadcast session.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _serverUrl_|Required|STRING|The URL of the broadcast server.|

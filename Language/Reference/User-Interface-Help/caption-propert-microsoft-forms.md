@@ -21,7 +21,7 @@ _object_. **Caption** [= _String_ ]
 The  **Caption** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression that evaluates to the text displayed as the caption.|

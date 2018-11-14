@@ -26,7 +26,7 @@ _object_. **Bold** [= _Boolean_ ]
 The  **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _Boolean_|Optional. Specifies the font style.|

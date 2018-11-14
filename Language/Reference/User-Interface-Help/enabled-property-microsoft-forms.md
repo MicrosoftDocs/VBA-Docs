@@ -21,7 +21,7 @@ _object_. **Enabled** [= _Boolean_ ]
 The  **Enabled** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the object can respond to user-generated events.|

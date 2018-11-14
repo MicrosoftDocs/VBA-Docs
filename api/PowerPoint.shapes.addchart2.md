@@ -22,7 +22,7 @@ Adds a chart to the document. Returns a [Shape](PowerPoint.Shape.md) object that
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|**Long**|The chart style. Use "-1" to get the default style for the chart type specified in  **Type**.|
 | _Type_|Optional|[XLCHARTTYPE](./Excel.XlChartType.md)|The type of chart.|

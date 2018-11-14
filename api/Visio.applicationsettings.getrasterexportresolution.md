@@ -48,7 +48,7 @@ The  _pResolution_ parameter must be one of the following **VisRasterExportResol
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterUseScreenResolution**|0|Use screen resolution.|
 | **visRasterUsePrinterResolution**|1|Use printer resolution.|
@@ -61,7 +61,7 @@ The  _pResolutionUnits_ parameter must be one of the following **VisRasterExport
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterPixelsPerInch**|0|Pixels per inch.|
 | **visRasterPixelsPerCm**|1|Pixels per centimeter.|

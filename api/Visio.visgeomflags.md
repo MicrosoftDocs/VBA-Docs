@@ -15,7 +15,7 @@ Flags to pass to methods of the  **Row** object that get and put vertex arrays, 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGeomExcludeLastPoint**|1 (&H1)|The last point (the X and Y cells in the row) is not included in the data.|
 | **visGeomWHPct**|16 (&H10)|The X and Y values are percentages of width and height.|

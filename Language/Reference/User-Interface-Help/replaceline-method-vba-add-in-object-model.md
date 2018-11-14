@@ -21,7 +21,7 @@ _object_**.ReplaceLine(**_line_, _code_**)**
 The  **ReplaceLine** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _line_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the location of the line you want to replace.|

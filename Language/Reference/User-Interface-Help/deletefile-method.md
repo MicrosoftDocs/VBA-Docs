@@ -24,7 +24,7 @@ _object_. **DeleteFile**_filespec_ [, _force_ ]
 The  **DeleteFile** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _filespec_|Required. The name of the file to delete. The  _filespec_ can contain wildcard characters in the last path component.|

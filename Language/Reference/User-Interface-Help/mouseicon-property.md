@@ -23,7 +23,7 @@ _object_. **MouseIcon** = **LoadPicture(**_pathname_**)**
 The  **MouseIcon** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _pathname_|Required. A string expression specifying the path and filename of the file containing the custom icon.|

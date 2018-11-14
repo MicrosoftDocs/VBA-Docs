@@ -37,7 +37,7 @@ Constants for how a data recordset is refreshed are declared in the  **VisRefres
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRefreshNoReconciliationUI**|2|Disables the  **Refresh Conflicts** task pane in the Visio user interface (UI) after a refresh operation.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made in the shape data of shapes linked to data in this recordset since the previous refresh operation. See note.|

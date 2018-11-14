@@ -25,7 +25,7 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Style_|Optional|VARIANT|The chart style. Use "-1" to get the default style for the chart type specified in  **xlChartType**. |
 | _XlChartType_|Optional|VARIANT|The type of chart.|

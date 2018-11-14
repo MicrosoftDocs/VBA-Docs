@@ -24,7 +24,7 @@ For all other controls **Private Sub**_object_ _**Layout( )**
 The  **Layout** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _index_|Required. The index of the page in a  **MultiPage** that changed size.|

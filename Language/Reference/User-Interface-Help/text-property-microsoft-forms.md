@@ -21,7 +21,7 @@ _object_. **Text** [= _String_ ]
 The  **Text** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. A string expression specifying text. The default value is a zero-length string ("").|

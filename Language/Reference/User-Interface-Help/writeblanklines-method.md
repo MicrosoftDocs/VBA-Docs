@@ -24,7 +24,7 @@ _object_. **WriteBlankLines(**_lines_**)**
 The  **WriteBlankLines** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _lines_|Required. Number of newline characters you want to write to the file.|

@@ -24,7 +24,7 @@ _object_. **Read(**_characters_**)**
 The  **Read** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _characters_|Required. Number of characters you want to read from the file.|

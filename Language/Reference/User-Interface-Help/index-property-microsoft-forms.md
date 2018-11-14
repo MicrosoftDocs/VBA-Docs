@@ -21,7 +21,7 @@ _object_. **Index** [= _Integer_ ]
 The  **Index** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Integer_|Optional. The index of the currently selected  **Tab** object.|

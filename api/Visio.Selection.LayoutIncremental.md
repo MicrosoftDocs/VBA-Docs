@@ -47,7 +47,7 @@ The  _AlignOrSpace_ parameter must be one or the combination of both (3) of the 
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutIncrAlign**|1|Align shapes.|
 | **visLayoutIncrSpace**|2|Space shapes evenly.|
@@ -56,7 +56,7 @@ The _AlignHorizontal_ parameter must be one of the following **VisLayoutHorzAlig
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutHorzAlignNone**|0|Do not align horizontally.|
 | **visLayoutHorzAlignDefault**|1|Visio chooses how to align horizontally.|
@@ -68,7 +68,7 @@ The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlign
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visLayoutVertAlignNone**|0|Do not align vertically.|
 | **visLayoutVertAlignDefault**|1|Visio chooses how to align vertically.|

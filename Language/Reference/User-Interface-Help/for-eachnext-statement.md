@@ -24,7 +24,7 @@ Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) for ea
 The  **For...Each...Next** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _element_|Required. [Variable](../../Glossary/vbe-glossary.md#variable) used to iterate through the elements of the collection or array. For collections, _element_ can only be a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) variable, a generic object variable, or any specific object variable. For arrays, _element_ can only be a **Variant** variable.|
 | _group_|Required. Name of an object collection or array (except an array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)).|

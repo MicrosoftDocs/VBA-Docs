@@ -23,7 +23,7 @@ Updates the specified Project data on a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Task_|Required|**Boolean**|**True** to update the task data; otherwise, **False**.|
 | _Timephased_|Required|**Boolean**|**True** to update the timephased data; otherwise, **False**.|

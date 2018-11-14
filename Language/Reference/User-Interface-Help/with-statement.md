@@ -22,7 +22,7 @@ Executes a series of [statements](../../Glossary/vbe-glossary.md#statement) on a
 The  **With** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Name of an object or a user-defined type.|
 | _statements_|Optional. One or more statements to be executed on  _object_.|

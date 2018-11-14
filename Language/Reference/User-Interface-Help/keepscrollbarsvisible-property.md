@@ -23,7 +23,7 @@ _object_. **KeepScrollBarsVisible** [= _fmScrollBars_ ]
 The  **KeepScrollBarsVisible** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmScrollBars_|Optional. Where scroll bars are displayed.|
@@ -32,7 +32,7 @@ The  **KeepScrollBarsVisible** property syntax has these parts:
 The settings for  _fmScrollBars_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmScrollBarsNone_|0|Displays no scroll bars.|
 | _fmScrollBarsHorizontal_|1|Displays a horizontal scroll bar.|

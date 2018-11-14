@@ -22,7 +22,7 @@ Sets the quick style of the specified selection.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _lineMatrix_|Required|VISQUICKSTYLEMATRIXINDICES|Specifies the shape style index that determines the line-formatting properties (for example, dash type or weight) to retrieve from the active theme and variant.|

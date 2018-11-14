@@ -23,7 +23,7 @@ Displays the specified report.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required|**String**|The name of the report.|
 | _ApplyTo_|Optional|**Variant**|The  _ApplyTo_ parameter is not used in Project.|

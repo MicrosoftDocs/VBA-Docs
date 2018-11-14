@@ -20,7 +20,7 @@ Sets the position for the next read/write operation within a file opened using t
 The  **Seek** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _filenumber_|Required. Any valid [file number](../../Glossary/vbe-glossary.md#file-number).|
 | _position_|Required. Number in the range 1 - 2,147,483,647, inclusive, that indicates where the next read/write operation should occur.|

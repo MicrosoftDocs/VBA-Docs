@@ -25,7 +25,7 @@ Returns a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (E
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 

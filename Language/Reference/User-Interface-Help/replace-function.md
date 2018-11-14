@@ -19,7 +19,7 @@ Returns a string, which is a substring of a string expression beginning at the s
 
 The **Replace** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_expression_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing substring to replace.|
 |**_find_**|Required. Substring being searched for.|
@@ -32,7 +32,7 @@ The **Replace** function syntax has these [named arguments](../../Glossary/vbe-g
 
 The **_compare_** argument can have the following values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbUseCompareOption**|-1|Performs a comparison using the setting of the **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|

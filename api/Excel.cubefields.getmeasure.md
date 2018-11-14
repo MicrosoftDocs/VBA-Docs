@@ -25,7 +25,7 @@ Given an attribute hierarchy, returns an implicit measure for the given function
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _AttributeHierarchy_|Required|VARIANT|The unique cube field that is an attribute hierarchy (XlCubeFieldType = xlHierarchy and XlCubeFieldSubType = xlCubeAttribute).|
 | _Function_|Required|XLCONSOLIDATIONFUNCTION|The function performed in the added data field.|

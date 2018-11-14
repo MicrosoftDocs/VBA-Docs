@@ -24,7 +24,7 @@ _object_. **WriteLine(** [ _string_ ] **)**
 The  **WriteLine** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _string_|Optional. The text you want to write to the file. If omitted, a newline character is written to the file.|

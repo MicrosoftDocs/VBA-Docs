@@ -22,7 +22,7 @@ For all other controls and objects _object_. **Name** [= _String_ ]
 The  **Name** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _String_|Optional. The name you want to assign to the font or control.|

@@ -1,5 +1,5 @@
 ---
-title: Round Function
+title: Round function
 keywords: vblr6.chm1009020
 f1_keywords:
 - vblr6.chm1009020
@@ -9,26 +9,25 @@ ms.date: 06/08/2017
 ---
 
 
-# Round Function
+# Round function
 
-
-
- **Description**
 Returns a number rounded to a specified number of decimal places.
 
 ## Syntax
 
-**Round(**_expression_ [ **,**_numdecimalplaces_ ] **)**
-The  **Round** function syntax has these parts:
+**Round**( _expression_, [ _numdecimalplaces_ ] )
 
+The **Round** function syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|Required. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) being rounded.|
-| _numdecimalplaces_|Optional. Number indicating how many places to the right of the decimal are included in the rounding. If omitted, integers are returned by the  **Round** function.|
+| _numdecimalplaces_|Optional. Number indicating how many places to the right of the decimal are included in the rounding. If omitted, integers are returned by the **Round** function.|
 
- **Note**
-This VBA function returns something commonly referred to as bankers rounding. So be careful before using this function. For more predictable results use Worksheet Round functions in Excel VBA:
+> [!NOTE] 
+> This VBA function returns something commonly referred to as bankers rounding. So be careful before using this function. For more predictable results, use [Worksheet Round](../../../api/excel.worksheetfunction.round.md) functions in Excel VBA.
+
+
 ```vb
 ?Round(0.12335,4)
  0,1234

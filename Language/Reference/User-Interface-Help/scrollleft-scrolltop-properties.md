@@ -22,7 +22,7 @@ _object_. **ScrollLeft** [= _Single_ ]
 The  **ScrollLeft** and **ScrollTop** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. The distance from the edge of the form.|

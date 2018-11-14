@@ -34,7 +34,7 @@ The value of the  **RasterExportFlip** property must be either **visRasterNoFlip
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterNoFlip**|0|No flip, the default.|
 | **visRasterFlipHorizontal**|1|Flip horizontally.|

@@ -23,7 +23,7 @@ _String = object_. **GetFromClipboard( )**
 The  **GetFromClipboard** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 

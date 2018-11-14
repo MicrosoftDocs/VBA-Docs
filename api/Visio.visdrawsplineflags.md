@@ -15,7 +15,7 @@ Flags to pass to the  **DrawSpline** and **DrawPolyline** methods.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visPolyarcs**|256|Draw a sequence of arcs rather than a sequence of line segments.|
 | **visPolyline1D**|8|Draw a shape that has one-dimensional (1-D) behavior.|

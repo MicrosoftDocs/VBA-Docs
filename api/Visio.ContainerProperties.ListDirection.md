@@ -34,7 +34,7 @@ The value of the  **ListDirection** property can be one of the following **VisLi
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visListDirLeftToRight**|0|Shapes are arranged horizontally, from left to right.|
 | **visListDirRightToLeft**|1|Shapes are arranged horizontally, from right to left.|

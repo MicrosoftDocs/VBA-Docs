@@ -22,7 +22,7 @@ _result_ **=** _string_ **Like** _pattern_
 The  **Like** operator syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _result_|Required; any numeric [variable](../../Glossary/vbe-glossary.md#variable).|
 | _string_|Required; any [string expression](../../Glossary/vbe-glossary.md#string-expression).|

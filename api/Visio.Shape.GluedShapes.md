@@ -44,7 +44,7 @@ Returns an array that contains the identifiers of the shapes that are glued to a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGluedShapesAll1D**|0|Return all 1-D shapes that are glued to this shape.|
 | **visGluedShapesIncoming1D**|1|Return 1-D shapes whose end points are glued to this shape.|

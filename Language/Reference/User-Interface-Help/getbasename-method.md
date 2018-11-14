@@ -24,7 +24,7 @@ _object_. **GetBaseName(**_path_**)**
 The  **GetBaseName** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _path_|Required. The path specification for the component whose base name is to be returned.|

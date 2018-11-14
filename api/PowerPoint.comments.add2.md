@@ -25,7 +25,7 @@ Returns a  **[Comment](PowerPoint.Comment.md)** object that represents a new com
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Float**|The position, measured in points, of the left edge of the comment, relative to the left edge of the presentation.|
 | _Top_|Required|**Float**|The position, measured in points, of the top edge of the comment, relative to the top edge of the presentation.|

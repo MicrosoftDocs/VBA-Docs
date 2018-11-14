@@ -21,7 +21,7 @@ Evaluates a list of [expressions](../../Glossary/vbe-glossary.md#expression) and
 The  **Switch** function syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expr_|Required. [Variant expression](../../Glossary/vbe-glossary.md#variant-expression) you want to evaluate.|
 | _value_|Required. Value or expression to be returned if the corresponding expression is  **True**.|

@@ -23,7 +23,7 @@ _object_. **MousePointer** [= _fmMousePointer_ ]
 The  **MousePointer** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmMousePointer_|Optional. The shape you want for the mouse pointer.|
@@ -32,7 +32,7 @@ The  **MousePointer** property syntax has these parts:
 The settings for  _fmMousePointer_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmMousePointerDefault_|0|Standard pointer. The image is determined by the object (default).|
 | _fmMousePointerArrow_|1|Arrow.|

@@ -70,7 +70,7 @@ The  _Flags_ parameter should be a bitmask of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSetFormulas**|&H1|Treat strings in results as formulas.|
 | **visSetBlastGuards**|&H2|Override present cell values even if they're guarded.|

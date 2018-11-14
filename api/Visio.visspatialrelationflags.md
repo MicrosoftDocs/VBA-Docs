@@ -15,7 +15,7 @@ Flags passed to various properties of the  **Shape** object, including the **Dis
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSpatialBackToFront**|&H8|Order items back to front.|
 | **visSpatialFrontToBack**|&H4|Order items front to back.|

@@ -23,7 +23,7 @@ _object_**.ProcOfLine(**_line_, _prockind_**) As String**
 The  **ProcOfLine** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _line_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line to check.|

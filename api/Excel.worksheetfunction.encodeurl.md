@@ -25,7 +25,7 @@ URL encodes the argument.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Text to be encoded.|
 

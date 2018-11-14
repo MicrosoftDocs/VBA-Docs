@@ -21,7 +21,7 @@ _object_**.AddFromFile(**_filename_**)**
 The  **AddFromFile** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [string expression](../../Glossary/vbe-glossary.md#string-expression) specifying the name of the file you want to add to the project or module. If the file name isn't found and a path name isn't specified, the directories searched by the **Windows OpenFile** function are searched.|

@@ -22,7 +22,7 @@ Specifies the number of pixels set aside for off-screen memory in rendering a fr
 _object_. **DrawBuffer** [= _value_ ]
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _value_|An integer from 16,000 through 1,048,576 equal to the maximum number of pixels the object can render off-screen.|

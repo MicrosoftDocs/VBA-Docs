@@ -36,7 +36,7 @@ The value of the  **RasterExportColorReduction** property can be one of the foll
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterAdaptive**|0|Adaptive color reduction; the default for GIF files|
 | **visRasterDiffusion**|1|Diffusion color reduction|

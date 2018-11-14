@@ -25,7 +25,7 @@ Returns a single object from the [FullSeriesCollection object (Excel)](Excel.ful
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number for the object.|
 | _Index_|Required|VARIANT||

@@ -25,7 +25,7 @@ Applies a design template and theme variant to the slide.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|Specifies the name of the design template.|
 | _Variant_|Required|**String**|Specifies the name of the variant to apply.|

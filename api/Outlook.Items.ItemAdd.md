@@ -1,5 +1,5 @@
 ---
-title: Items.ItemAdd Event (Outlook)
+title: Items.ItemAdd event (Outlook)
 keywords: vbaol11.chm314
 f1_keywords:
 - vbaol11.chm314
@@ -7,25 +7,23 @@ ms.prod: outlook
 api_name:
 - Outlook.Items.ItemAdd
 ms.assetid: e46f5958-aff8-3a6b-b3df-5c4352b6c3d9
-ms.date: 06/08/2017
+ms.date: 11/13/2018
 ---
 
 
-# Items.ItemAdd Event (Outlook)
+# Items.ItemAdd event (Outlook)
 
 Occurs when one or more items are added to the specified collection. This event does not run when a large number of items are added to the folder at once. This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
 
 ## Syntax
 
- _expression_. `ItemAdd`( `_Item_` )
+_expression_. `ItemAdd`( _Item_ )
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](Outlook.Items.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,29 +31,23 @@ Occurs when one or more items are added to the specified collection. This event 
 
 ## Example
 
-In this Visual Basic for Applications (VBA) example, when a new contact is added to the  **Contacts** folder, the contact item is attached to an email message and sent to a distribution list named "Sales Team". The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
-
+In this Visual Basic for Applications (VBA) example, when a new contact is added to the **Contacts** folder, the contact item is attached to an email message and sent to a distribution list named "Sales Team." The sample code must be placed in a class module, and the `Initialize_handler` routine must be called before the event procedure can be called by Microsoft Outlook.
 
 ```vb
 Public WithEvents myOlItems As Outlook.Items 
- 
- 
- 
+
 Public Sub Initialize_handler() 
  
  Set myOlItems = Application.GetNamespace("MAPI").GetDefaultFolder(olFolderContacts).Items 
  
 End Sub 
  
- 
- 
+
 Private Sub myOlItems_ItemAdd(ByVal Item As Object) 
  
  Dim myOlMItem As Outlook.MailItem 
  
  Dim myOlAtts As Outlook.Attachments 
- 
- 
  
  Set myOlMItem = myOlApp.CreateItem(olMailItem) 
  
@@ -77,8 +69,5 @@ End Sub
 ```
 
 
-## See also
 
-
-[Items Object](Outlook.Items.md)
 

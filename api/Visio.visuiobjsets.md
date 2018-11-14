@@ -18,7 +18,7 @@ UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties 
 
 
 
-|**Constant**|**Value**|**Description**|**AccelTable**|**MenuSet**|**ToolbarSet**|
+|Constant|Value|Description|**AccelTable**|**MenuSet**|**ToolbarSet**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 | **visUIObjSetActiveXDoc**|18|Visio is running as an ActiveX document.|X|||
 | **visUIObjSetCntx_AddComments**|1000|Built-in commands available in the  **Customize** dialog box||X||

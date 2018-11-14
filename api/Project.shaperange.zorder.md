@@ -20,7 +20,7 @@ Moves the shape range in front of or behind other shapes (that is, changes the p
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ZOrderCmd_|Required|**[MsoZOrderCmd](https://msdn.microsoft.com/library/office/ff861432%28v=office.15%29)**|Specifies where to move the shape range relative to the other shapes.|
 | _ZOrderCmd_|Required|MSOZORDERCMD||

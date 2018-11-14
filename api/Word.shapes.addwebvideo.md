@@ -25,7 +25,7 @@ Adds a new web video to the document.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _EmbedCode_|Required|STRING|The HTML code to embed.|

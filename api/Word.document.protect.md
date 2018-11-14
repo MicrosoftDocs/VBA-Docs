@@ -25,7 +25,7 @@ Protects the specified document from unauthorized changes.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Type_|Required| **WdProtectionType**|The type of protection to apply.|

@@ -25,7 +25,7 @@ Occurs after the Excel data model is changed.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Changes_|Required|MODELCHANGES|[ModelChanges object (Excel)](Excel.modelchanges.md) object which includes changes made to the Excel data model during the last transaction.|
 

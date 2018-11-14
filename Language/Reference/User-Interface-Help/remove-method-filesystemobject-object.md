@@ -22,7 +22,7 @@ _object_. **Remove(**_key_**)**
 The  **Remove** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required.  _Key_ associated with the key, item pair you want to remove from the **Dictionary** object.|

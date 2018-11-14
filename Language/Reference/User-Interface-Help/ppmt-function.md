@@ -19,7 +19,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 The **PPmt** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_rate_**|Required. **Double** specifying interest rate per period. For example, if you get a car loan at an annual percentage rate (APR) of 10 percent and make monthly payments, the rate per period is 0.1/12, or 0.0083.|
 |**_per_**|Required. [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifying payment period in the range 1 through **_nper_**.|

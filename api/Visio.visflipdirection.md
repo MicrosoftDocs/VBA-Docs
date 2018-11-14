@@ -15,7 +15,7 @@ Direction constants to pass to the  **Selection.Flip** method.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFlipHorizontal**|1|Flip the selection horizontally.|
 | **visFlipVertical**|2|Flip the selection vertically.|

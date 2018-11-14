@@ -24,7 +24,7 @@ _object_. **Write(**_string_**)**
 The  **Write** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **TextStream** object.|
 | _string_|Required. The text you want to write to the file.|

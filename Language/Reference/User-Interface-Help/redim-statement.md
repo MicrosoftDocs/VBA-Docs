@@ -20,7 +20,7 @@ Used at [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to rea
 The **ReDim** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Preserve**|Optional. [Keyword](../../Glossary/vbe-glossary.md#keyword) used to preserve the data in an existing [array](../../Glossary/vbe-glossary.md#array) when you change the size of the last dimension.|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|

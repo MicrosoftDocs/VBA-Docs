@@ -21,7 +21,7 @@ _object_. **Visible** [= _Boolean_ ]
 The  **Visible** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Whether the object is visible or hidden.|

@@ -15,7 +15,7 @@ Text-field categories passed to the  **AddField** and **AddFieldEx** methods.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visFCatCustom**|0|Custom field.|
 | **visFCatDateTime**|1|Date/time field.|

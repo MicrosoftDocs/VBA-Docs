@@ -24,7 +24,7 @@ _object_. **OpenAsTextStream(** [ _iomode_, [ _format_ ]] **)**
 The  **OpenAsTextStream** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **File** object.|
 | _iomode_|Optional. Indicates input/output mode. Can be one of three constants:  **ForReading**, **ForWriting**, or **ForAppending**.|
@@ -34,7 +34,7 @@ The  **OpenAsTextStream** method syntax has these parts:
 The  _iomode_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ForReading**|1|Open a file for reading only. You can't write to this file.|
 |**ForWriting**|2|Open a file for writing. If a file with the same name exists, its previous contents are overwritten.|
@@ -43,7 +43,7 @@ The  _iomode_ argument can have any of the following settings:
 The  _format_ argument can have any of the following settings:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**TristateUseDefault**|-2|Opens the file using the system default.|
 |**TristateTrue**|-1|Opens the file as Unicode.|

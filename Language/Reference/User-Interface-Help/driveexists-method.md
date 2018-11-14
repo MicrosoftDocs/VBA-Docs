@@ -24,7 +24,7 @@ _object_. **DriveExists(**_drivespec_**)**
 The  **DriveExists** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _drivespec_|Required. A drive letter or a path specification for the root of the drive.|

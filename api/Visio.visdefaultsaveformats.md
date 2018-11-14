@@ -20,7 +20,7 @@ These options correspond to those available in the  **Save files in this format*
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDefaultSaveCurrent**|0|File format for current version of Microsoft Visio.|
 | **visDefaultSaveCurrentMacroEnabled**|3|Macro-enabled file format for current version of Visio.|

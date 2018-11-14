@@ -20,7 +20,7 @@ Used at [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to dec
 The  **Static** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _varname_|Required. Name of the variable; follows standard variable naming conventions.|
 | _subscripts_|Optional. Dimensions of an [array](../../Glossary/vbe-glossary.md#array) variable; up to 60 multiple dimensions may be declared. The _subscripts_ [argument](../../Glossary/vbe-glossary.md#argument) uses the following syntax: [ _lower_**To** ] _upper_ [ **,** [ _lower_**To** ] _upper_ ] **. . .** When not explicitly stated in _lower_, the lower bound of an array is controlled by the **Option** **Base** statement. The lower bound is zero if no **Option** **Base** statement is present.|

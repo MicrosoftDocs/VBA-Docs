@@ -17,7 +17,7 @@ Inserts code from a file into a code module.
 The  **InsertFile** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) specifying the file containing the code to insert into the code module.|

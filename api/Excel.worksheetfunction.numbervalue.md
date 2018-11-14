@@ -25,7 +25,7 @@ Converts text to number in a locale-independent manner.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|String representing the number you want to convert.|
 | _Arg2_|Required|STRING|Character used as the decimal separator in the string.|

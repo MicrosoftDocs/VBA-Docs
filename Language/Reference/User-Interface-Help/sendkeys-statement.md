@@ -19,7 +19,7 @@ Sends one or more keystrokes to the active window as if typed at the keyboard.
 
 The **SendKeys** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) specifying the keystrokes to send.|
 |**_Wait_**|Optional. [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value specifying the wait mode. If **False** (default), control is returned to the [procedure](../../Glossary/vbe-glossary.md#procedure) immediately after the keys are sent. If **True**, keystrokes must be processed before control is returned to the procedure.|

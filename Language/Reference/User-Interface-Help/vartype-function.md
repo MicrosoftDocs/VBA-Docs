@@ -23,7 +23,7 @@ The required  _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a
  ## Return Values
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbEmpty**|0|[Empty](../../Glossary/vbe-glossary.md#empty) (uninitialized)|
 |**vbNull**|1|[Null](../../Glossary/vbe-glossary.md#null) (no valid data)|

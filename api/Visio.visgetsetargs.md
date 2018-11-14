@@ -15,7 +15,7 @@ Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults**
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGetFloats**|0|Results returned as doubles (VT_R8).|
 | **visGetFormulasU**|5|Formulas returned in universal syntax (VT_BSTR).|

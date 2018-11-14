@@ -25,7 +25,7 @@ Retrieve the [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object for
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _rowline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
 | _columnline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|

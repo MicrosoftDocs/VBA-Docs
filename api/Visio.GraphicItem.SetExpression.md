@@ -46,7 +46,7 @@ The Field parameter should be one of the following values from the  **VisGraphic
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visGraphicPropertyLabel**|1|The label of a shape data item.|
 | **visGraphicExpression**|2|The ShapeSheet formula of a shape data item.|

@@ -23,7 +23,7 @@ Sets a source data range from Excel for a chart.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Source_|Required|**String**|The source data range.|
 | _PlotBy_|Optional|**Variant**|Specifies the way the data is plotted. Can be one of the following  **Office.XlRowCol** constants: **xlColumns** or **xlRows**.|

@@ -25,7 +25,7 @@ Returns the unit matrix for the specified dimension.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Integer specifying the dimension of the unit matrix that you want to return.|
 

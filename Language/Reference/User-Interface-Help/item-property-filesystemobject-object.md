@@ -22,7 +22,7 @@ _object_. **Item(**_key_**)** [= _newitem_ ]
 The  **Item** property has the following parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a collection or  **Dictionary** object.|
 | _key_|Required.  _Key_ associated with the item being retrieved or added.|

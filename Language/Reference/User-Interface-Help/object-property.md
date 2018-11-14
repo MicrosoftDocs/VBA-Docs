@@ -23,7 +23,7 @@ _object_. **Object** [. _property_ |. _method_ ]
 The  **Object** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. The name of an object you have added to the Microsoft Forms Toolbox.|
 | _property_|Optional. A property that has the same name as a standard Microsoft Forms property.|

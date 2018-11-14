@@ -25,7 +25,7 @@ Returns the value of the density function for a standard normal distribution.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Number for which you want the density of the standard normal distribution.|
 

@@ -25,7 +25,7 @@ Returns a logical exclusive OR of all arguments.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|VARIANT|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|
 | _Arg2_|Optional|VARIANT|1 to 254 conditions you want to test that can be either  **TRUE** or **FALSE** and can be logical values, arrays, or references.|

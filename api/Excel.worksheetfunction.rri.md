@@ -25,7 +25,7 @@ Returns an equivalent interest rate for the growth of an investment.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Number of periods for the investment.|
 | _Arg2_|Required|DOUBLE|Present value of the investment.|

@@ -24,7 +24,7 @@ _object_. **CopyFolder**_source_, _destination_ [, ove _r_ write]
 The  **CopyFolder** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **FileSystemObject**.|
 | _source_|Required. Character string folder specification, which can include wildcard characters, for one or more folders to be copied.|

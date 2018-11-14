@@ -48,7 +48,7 @@ The  _pSize_ parameter must be one of the following **VisRasterExportSize** cons
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterFitToScreenSize**|0|Use screen size.|
 | **visRasterFitToPrinterSize**|1|Use printer size.|
@@ -61,7 +61,7 @@ The  _pSizeUnits_ parameter must be one of the following **VisRasterExportSizeUn
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visRasterPixel**|0|Pixels|
 | **visRasterCm**|1|Centimeters|

@@ -48,7 +48,7 @@ For the PlacementDir parameter, pass a value from the  **VisAutoConnectDir** enu
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |visAutoConnectDirDown|2|Connect down.|
 |visAutoConnectDirLeft|3|Connect to the left.|

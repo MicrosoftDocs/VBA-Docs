@@ -25,7 +25,7 @@ Returns a single object from the  **ModelTableNames** collection.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number or name of the object.|
 

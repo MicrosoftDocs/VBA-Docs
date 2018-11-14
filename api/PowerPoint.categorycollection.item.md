@@ -25,7 +25,7 @@ Returns an individual chart category.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**VARIANT**|The name or index number for the object.|
 | _Index_|Required|VARIANT||

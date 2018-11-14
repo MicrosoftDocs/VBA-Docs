@@ -17,7 +17,7 @@ Returns a numeric or string value containing the type of object. Read-only.
 
 The **Type** property settings for the **Window** object are described in the following table:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbext_wt_CodeWindow**|0|**Code** window|
 |**vbext_wt_Designer**|1|[Designer](../../Glossary/vbe-glossary.md#designer)|
@@ -41,7 +41,7 @@ The **Type** property settings for the **Window** object are described in the fo
 
 The **Type** property settings for the **VBComponent** object are described in the following table:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbext_ct_StdModule**|1|[Standard module](../../Glossary/vbe-glossary.md#standard-module)|
 |**vbext_ct_ClassModule**|2|[Class module](../../Glossary/vbe-glossary.md#class-module)|
@@ -53,7 +53,7 @@ The **Type** property settings for the **VBComponent** object are described in t
 
 The **Type** property settings for the **Reference** object are described in the following table:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbext_rk_TypeLib**|0|[Type library](../../Glossary/vbe-glossary.md#type-library)|
 |**vbext_rk_Project**|1|[Project](../../Glossary/vbe-glossary.md#project)|
@@ -62,7 +62,7 @@ The **Type** property settings for the **Reference** object are described in the
 
 The **Type** property settings for the **VBProject** object are described in the following table:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbext_pt_HostProject**|100|Host Project|
 |**vbext_pt_StandAlone**|101|Standalone Project|

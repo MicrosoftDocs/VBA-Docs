@@ -25,7 +25,7 @@ Occurs after an object (shape, picture, text box, chart, SmartArt as examples) h
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _shp_|Required|[Shape](PowerPoint.Shape.md)|The shape that was resized.|
 | _shp_|Required|SHAPE||

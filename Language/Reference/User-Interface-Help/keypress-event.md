@@ -23,7 +23,7 @@ Occurs when the user presses an ANSI key.
 The  **KeyPress** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _KeyANSI_|Required. An integer value that represents a standard numeric ANSI key code.|

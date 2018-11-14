@@ -22,7 +22,7 @@ _object_. **TabFixedHeight** [= _Single_ ]
 The  **TabFixedHeight** and **TabFixedWidth** property syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Single_|Optional. The number of points of the height or width of the tabs on a  **TabStrip** or **MultiPage**.|

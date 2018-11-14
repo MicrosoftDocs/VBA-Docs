@@ -23,7 +23,7 @@ _object_. **AutoTab** [= _Boolean_ ]
 The  **AutoTab** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Boolean_|Optional. Specifies whether an automatic tab occurs.|

@@ -25,7 +25,7 @@ Returns the number (code point) corresponding to the first character of the text
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Character that you want the Unicode value of.|
 

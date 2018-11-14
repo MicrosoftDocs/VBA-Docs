@@ -21,7 +21,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifyin
 
 The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME (default)|
 |**vbIMEModeOn**|1|IME on|
@@ -37,7 +37,7 @@ The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#local
 
 The return values for the Korean locale are as follows:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME(default)|
 |**vbIMEModeAlphaFull**|7|Full-width Alphanumeric mode|
@@ -49,7 +49,7 @@ The return values for the Korean locale are as follows:
 
 The return values for the Chinese locale are as follows:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbIMEModeNoControl**|0|Don't control IME (default)|
 |**vbIMEModeOn**|1|IME on|

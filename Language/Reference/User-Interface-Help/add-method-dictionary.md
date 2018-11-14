@@ -22,7 +22,7 @@ _object_. **Add**_key_, _item_
 The  **Add** method has the following parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a  **Dictionary** object.|
 | _key_|Required. The key associated with the item being added.|

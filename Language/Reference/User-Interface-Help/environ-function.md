@@ -19,7 +19,7 @@ Returns the **String** associated with an operating system environment variable.
 
 The **Environ** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument).
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_envstring_**|Optional. [String expression](../../Glossary/vbe-glossary.md#string-expression) containing the name of an environment variable.|
 |**_number_**|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) corresponding to the numeric order of the environment string in the environment-string table. The **_number_** [argument](../../Glossary/vbe-glossary.md#argument) can be any numeric expression, but is rounded to a whole number before it is evaluated.|

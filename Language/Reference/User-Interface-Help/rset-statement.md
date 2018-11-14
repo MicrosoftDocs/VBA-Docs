@@ -20,7 +20,7 @@ Right aligns a string within a string [variable](../../Glossary/vbe-glossary.md#
 The **RSet** statement syntax has these parts.
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _stringvar_|Required. Name of string variable.|
 | _string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) to be right-aligned within _stringvar_.|

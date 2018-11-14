@@ -15,7 +15,7 @@ Logical indices of ShapeSheet sections for  **Shape** or **Style** objects.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSectionAction**|240|Stores the actions that appear on the shortcut menu.|
 | **visSectionAnnotation**|246|Index of a section whose rows represent annotations.|

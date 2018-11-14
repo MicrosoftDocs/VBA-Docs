@@ -42,7 +42,7 @@ Returns the membership state of the specified shape with respect to the containe
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visContainerMemberNotAMember**|0|The shape is not a member of the container.|
 | **visContainerMemberInterior**|1|The member shape is within the bounds of the container.|

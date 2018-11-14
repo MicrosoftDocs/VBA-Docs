@@ -21,7 +21,7 @@ _object_**.Import(**_filename_**) As VBComponent**
 The  **Import** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _filename_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) specifying path and file name of the component that you want to import the component from.|

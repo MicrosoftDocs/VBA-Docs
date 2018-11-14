@@ -25,7 +25,7 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|[PpGuideOrientation](PowerPoint.ppguideorientation.md)|Specifies the orientation of a drawing guide, either horizontal or vertical.|
 | _Position_|Required|**Float**|The position of the guide along the specified axis.|

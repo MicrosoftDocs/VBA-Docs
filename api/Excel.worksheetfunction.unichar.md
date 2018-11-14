@@ -25,7 +25,7 @@ Returns the Unicode character referenced by the given numeric value.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Unicode number representing a character.|
 

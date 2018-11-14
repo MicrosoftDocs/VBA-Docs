@@ -21,7 +21,7 @@ _object_**.Add  _item_,** **_key_,** **_before_,** **_after_**
 The  **Add** method syntax has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 |**_item_**|Required. An [expression](../../Glossary/vbe-glossary.md#expression) of any type that specifies the member to add to the [collection](../../Glossary/vbe-glossary.md#collection).|

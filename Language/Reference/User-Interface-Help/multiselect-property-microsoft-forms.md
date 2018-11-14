@@ -19,7 +19,7 @@ _object_. **MultiSelect** [= _fmMultiSelect_ ]
 
 The **MultiSelect** property syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmMultiSelect_|Optional. The selection mode that the control uses.|
@@ -28,7 +28,7 @@ The **MultiSelect** property syntax has these parts:
 
 The settings for _fmMultiSelect_ are:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmMultiSelectSingle_|0|Only one item can be selected (default).|
 | _fmMultiSelectMulti_|1|Pressing the SPACEBAR or clicking selects or deselects an item in the list.|

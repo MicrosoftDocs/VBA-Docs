@@ -21,7 +21,7 @@ _object_**.Find(**_target_, _startline_, _startcol_, _endline_, _endcol_ [, _who
 The  **Find** syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
 | _target_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the text or pattern you want to find.|

@@ -25,7 +25,7 @@ Returns the hyperbolic cosine of a complex number.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|STRING|Complex number for which you want the hyperbolic cosine.|
 

@@ -20,7 +20,7 @@ Creates a label in a report, and returns a  **Shape** object that represents the
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Orientation_|Required|**MsoTextOrientation**|The text orientation within the label.|
 | _Left_|Required|**Single**|The position (in points) of the left edge of the label relative to the left side of the report.|

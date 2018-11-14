@@ -25,7 +25,7 @@ Propagates the contents and formatting of the specified data label to all the ot
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Index_|Required|VARIANT|The index number in the  **DataLabels** collection of the data label to propagate.|

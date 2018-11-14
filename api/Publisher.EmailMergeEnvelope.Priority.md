@@ -34,7 +34,7 @@ Possible values for the  **Priority** property are declared in the **pbEmailMerg
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbPriorityNone**|0|No priority set|
 | **pbPriorityLow**|2|Low priority|

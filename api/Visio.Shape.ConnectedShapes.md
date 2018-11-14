@@ -43,7 +43,7 @@ The  _Flags_ value must be one of the following **VisConnectedShapesFlags** cons
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visConnectedShapesAllNodes**|0|Return IDs of shapes that are associated with both incoming and outgoing connections.|
 | **visConnectedShapesIncomingNodes**|1|Return IDs of shapes that are associated with incoming connections.|

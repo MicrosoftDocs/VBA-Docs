@@ -23,7 +23,7 @@ Opens or creates a project file from a project site on SharePoint, by using the 
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Optional|**String**|The name of the file to open or create.|
 

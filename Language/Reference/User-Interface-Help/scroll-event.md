@@ -25,7 +25,7 @@ For Frame **Private Sub**_object_ _**Scroll(**_ActionX_**As fmScrollAction**, _A
 The  **Scroll** event syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
 | _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
@@ -40,7 +40,7 @@ The  **Scroll** event syntax has these parts:
 The settings for  _ActionX_ and _ActionY_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmScrollActionNoChange_|0|No change occurred.|
 | _fmScrollActionLineUp_|1|A small distance up on a vertical scroll bar; a small distance to the left on a horizontal scroll bar. Movement is equivalent to pressing the up or left arrow keys on the keyboard to move the scroll bar.|

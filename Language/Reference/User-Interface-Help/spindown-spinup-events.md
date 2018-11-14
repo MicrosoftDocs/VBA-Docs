@@ -22,7 +22,7 @@ SpinDown occurs when the user clicks the lower or left spin-button arrow. SpinUp
 The  **SpinDown** and **SpinUp** event syntaxes have these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 

@@ -20,7 +20,7 @@ Adds a B?zier curve to a report, and returns a  **Shape** object that represents
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve.|
 | _SafeArrayOfPoints_|Required|VARIANT||

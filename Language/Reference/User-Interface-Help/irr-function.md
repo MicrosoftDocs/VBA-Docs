@@ -19,7 +19,7 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 The **IRR** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
 |**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|

@@ -21,7 +21,7 @@ Occurs before a **UserForm** closes.
 
 The **QueryClose** event syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md#argument) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
 | _closemode_|A value or [constant](../../Glossary/vbe-glossary.md#constant) indicating the cause of the QueryClose event.|
@@ -30,7 +30,7 @@ The **QueryClose** event syntax has these parts:
 
 The  _closemode_ argument returns the following values:
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbFormControlMenu**|0|The user has chosen the **Close** command from the **Control** menu on the **UserForm**.|
 |**vbFormCode**|1|The **Unload** statement is invoked from code.|

@@ -28,7 +28,7 @@ Version Added: Outlook 2013
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 |||||
 | _Name_|Required| **String**|The name of the new view.|

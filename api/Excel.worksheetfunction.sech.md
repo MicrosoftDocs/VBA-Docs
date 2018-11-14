@@ -25,7 +25,7 @@ Returns the hyperbolic secant of an angle.
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Arg1_|Required|DOUBLE|Angle in radians for which you want the hyperbolic secant.|
 

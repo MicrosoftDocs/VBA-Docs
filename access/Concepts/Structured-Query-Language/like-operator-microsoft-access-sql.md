@@ -21,7 +21,7 @@ _expression_ **Like** "_pattern_"
 
 The **Like** operator syntax has these parts:
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _expression_|SQL expression used in a [WHERE clause](where-clause-microsoft-access-sql.md).|
 | _pattern_|String or character string literal against which  _expression_ is compared.|

@@ -23,7 +23,7 @@ _Variant_ = _object_. **AddItem** [ _item_ [, _varIndex_ ]]
 The  **AddItem** method syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _Item_|Optional. Specifies the item or row to add. The number of the first item or row is 0; the number of the second item or row is 1, and so on.|

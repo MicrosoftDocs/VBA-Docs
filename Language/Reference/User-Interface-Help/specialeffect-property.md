@@ -24,7 +24,7 @@ For other controls _object_. **SpecialEffect** [= _fmSpecialEffect_ ]
 The  **SpecialEffect** property syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
 | _fmButtonEffect_|Optional. The desired visual appearance for a  **CheckBox**, **OptionButton**, or **ToggleButton**.|
@@ -34,7 +34,7 @@ The  **SpecialEffect** property syntax has these parts:
 The settings for  _fmSpecialEffect_ are:
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | _fmSpecialEffectFlat_|0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both. Default for  **Image** and **Label**, valid for all controls.|
 | _fmSpecialEffectRaised_|1|Object has a highlight on the top and left and a shadow on the bottom and right. Not valid for check boxes or option buttons.|

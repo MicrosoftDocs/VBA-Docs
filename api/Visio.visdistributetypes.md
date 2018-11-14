@@ -20,7 +20,7 @@ These constants correspond to the options available in the  **Distribute Shapes*
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visDistHorzCenter**|2|Distributes shapes hoirzontally so that their bottom edges are uniformly spaced. |
 | **visDistHorzLeft**|1|Distributes shapes horizontally so that their left edges are uniformly spaced. |

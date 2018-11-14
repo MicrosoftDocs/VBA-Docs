@@ -42,7 +42,7 @@ profile must be one of the following  **PpResampleMediaProfile** constants.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**ppResampleMediaProfileCustom**|1|Custom profile|
 |**ppResampleMediaProfileSmall**|2|Small profile|

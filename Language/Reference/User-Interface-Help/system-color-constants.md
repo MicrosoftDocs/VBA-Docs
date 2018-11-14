@@ -15,7 +15,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbScrollBars**|0x80000000|Scroll bar color|
 |**vbDesktop**|0x80000001|Desktop color|

@@ -63,7 +63,7 @@ The  _Flags_ parameter should be a bitmask of the following values.
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visSetBlastGuards**|&H2|Override present cell values even if they're guarded.|
 | **visSetTestCircular**|&H4|Test for establishment of circular cell references.|

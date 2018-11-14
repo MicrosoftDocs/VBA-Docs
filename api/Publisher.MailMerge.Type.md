@@ -34,7 +34,7 @@ Possible values for the  **Type** property are declared in the **PbMergeType** e
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **pbCatalogMerge**|3|Catalog merge|
 | **pbEmailMerge**|4|Email merge|

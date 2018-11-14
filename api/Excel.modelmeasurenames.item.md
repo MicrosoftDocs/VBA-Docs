@@ -25,7 +25,7 @@ Returns a single object from the [ModelMeasureNames object (Excel)](Excel.modelm
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|VARIANT|The index number for the object.|
 

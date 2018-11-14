@@ -43,7 +43,7 @@ For the  _eType_ parameter, pass a value from the **VisThemeTypes** enumeration,
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **visThemeTypeColor**|1|Color themes.|
 | **visThemeTypeEffect**|2|Effect themes.|

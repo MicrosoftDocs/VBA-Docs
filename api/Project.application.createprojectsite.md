@@ -23,7 +23,7 @@ Creates a site for the active project in a Project Web App instance on SharePoin
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ParentSiteUrl_|Optional|**Variant**|URL of the parent Project Web App site.|
 | _NewSiteName_|Optional|**Variant**|Name of the new project site.|

@@ -24,7 +24,7 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a 
 The  **Type** statement syntax has these parts:
 
 
-|**Part**|**Description**|
+|Part|Description|
 |:-----|:-----|
 |**Public**|Optional. Used to declare [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) that are available to all [procedures](../../Glossary/vbe-glossary.md#procedure) in all [modules](../../Glossary/vbe-glossary.md#module) in all [projects](../../Glossary/vbe-glossary.md#project).|
 |**Private**|Optional. Used to declare user-defined types that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|

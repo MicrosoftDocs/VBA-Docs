@@ -20,7 +20,7 @@ Saves a custom chart template to the list of available chart templates or to a f
 
 
 
-|**Name**|**Required/Optional**|**Data type**|**Description**|
+|Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _bstrFileName_|Required|**String**|The name of the chart template.|
 | _bstrFileName_|Required|STRING||

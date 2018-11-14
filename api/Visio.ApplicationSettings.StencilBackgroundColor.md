@@ -51,7 +51,7 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 
 
 
-|**Constant**|**Value**|**Description**|
+|Constant|Value|Description|
 |:-----|:-----|:-----|
 | **vbBlack**|0x0 |Black|
 | **vbRed**|0xFF |Red|
