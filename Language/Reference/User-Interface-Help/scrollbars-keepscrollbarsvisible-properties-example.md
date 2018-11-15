@@ -15,10 +15,8 @@ The following example uses the **[ScrollBars](scrollbars-property.md)** and the 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
-- A **[Frame](frame-control.md)** named Frame1.
-    
+- A **MultiPage** named MultiPage1.    
+- A **Frame** named Frame1.    
 - Four **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton4.
     
 

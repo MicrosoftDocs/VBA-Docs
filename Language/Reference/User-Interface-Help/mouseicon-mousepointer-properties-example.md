@@ -24,11 +24,9 @@ This example works in the following ways:
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.   
+- A **ListBox** named ListBox1.
     
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
-
 > [!NOTE] 
 > This example uses two icon files (identified by the .ico file extention in Windows) that are loaded by using the **LoadPicture** function. You should edit each **LoadPicture** function call to specify an icon file that resides on your system.
 

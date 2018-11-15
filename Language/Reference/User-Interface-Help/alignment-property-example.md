@@ -15,9 +15,9 @@ The following example demonstrates the **[Alignment](alignment-property.md)** pr
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
-- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
-    
-- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.   
+- A **ToggleButton** named ToggleButton1.
+ 
     
 ```vb
 Private Sub UserForm_Initialize() 

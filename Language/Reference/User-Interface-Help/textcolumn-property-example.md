@@ -19,8 +19,7 @@ This example also demonstrates how to load a multicolumn **ListBox** by using th
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
+- A **ListBox** named ListBox1.   
 - A **[TextBox](textbox-control.md)** named TextBox1.
     
 

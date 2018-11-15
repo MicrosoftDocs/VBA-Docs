@@ -17,17 +17,12 @@ The user selects an item in the **ListBox**. The displayed values of **TopIndex*
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **Label** named Label2.
-    
-- A **TextBox** named TextBox2.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[ListBox](listbox-control.md)** named ListBox1.
+- A **[Label](label-control.md)** named Label1.   
+- A **[TextBox](textbox-control.md)** named TextBox1.   
+- A **Label** named Label2.   
+- A **TextBox** named TextBox2.   
+- A **CommandButton** named CommandButton1.   
+- A **ListBox** named ListBox1.
     
 
 ```vb

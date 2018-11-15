@@ -15,9 +15,8 @@ The following example defines the **[ControlTipText](controltiptext-property.md)
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
-- Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.
+- A **MultiPage** named MultiPage1.   
+- Three **CommandButton** controls named CommandButton1 through CommandButton3.
     
 > [!NOTE] 
 > For an individual **Page** of a **MultiPage**, **ControlTipText** becomes enabled when the **MultiPage** or a control on the current page of the **MultiPage** has the focus.

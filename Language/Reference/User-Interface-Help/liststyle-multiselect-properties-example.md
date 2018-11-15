@@ -17,13 +17,10 @@ The user chooses a value for **ListStyle** using the **[ToggleButton](togglebutt
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
-- A **[Label](label-control.md)** named Label1.
-    
-- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
-    
-- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
+- A **ListBox** named ListBox1.    
+- A **[Label](label-control.md)** named Label1.    
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.   
+- A **ToggleButton** named ToggleButton1.
     
 
 ```vb

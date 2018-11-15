@@ -17,7 +17,7 @@ To use this example, follow these steps:
 
 1. Copy this sample code to the Declarations portion of a form.
     
-2. Add one large **[TextBox](textbox-control.md)** named TextBox1 to the form.
+2. Add one large **TextBox** named TextBox1 to the form.
     
 3. Add three **TextBox** controls named TextBox2, TextBox3, and TextBox4 in a column.
     

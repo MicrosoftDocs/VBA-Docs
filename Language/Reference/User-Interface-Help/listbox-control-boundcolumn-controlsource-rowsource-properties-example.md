@@ -16,11 +16,8 @@ The following example uses a range of worksheet cells in a **[ListBox](listbox-c
 To use this example:
 
 - Copy this sample code to the Declarations portion of a form. 
-
-- Make sure that the form contains a **[ListBox](listbox-control.md)** named ListBox1. 
-
+- Make sure that the form contains a **ListBox** named ListBox1. 
 - In the worksheet, enter data in cells A1:E4. 
-
 - Make sure cell A6 contains no data.
 
 

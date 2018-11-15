@@ -17,11 +17,9 @@ In this example, the user chooses a drop-down arrow style from a **ComboBox**. T
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- A **[Label](label-control.md)** named Label1.
-    
-- A **[TextBox](textbox-control.md)** named TextBox1 placed beneath Label1.
+- A **ComboBox** named ComboBox1.    
+- A **[Label](label-control.md)** named Label1.    
+- A **TextBox** named TextBox1 placed beneath Label1.
     
 
 ```vb

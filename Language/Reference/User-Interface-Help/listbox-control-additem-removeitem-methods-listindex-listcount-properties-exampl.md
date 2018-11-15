@@ -15,8 +15,7 @@ The following example adds and deletes the contents of a **[ListBox](listbox-con
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
+- A **ListBox** named ListBox1.   
 - Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
 

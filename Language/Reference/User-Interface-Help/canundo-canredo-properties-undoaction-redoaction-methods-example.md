@@ -15,13 +15,11 @@ The following example demonstrates how to undo or redo text editing within a tex
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
+- A **[TextBox](textbox-control.md)** named TextBox1.   
+- A **ComboBox** named ComboBox1.   
 - Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
-    
+
 ```vb
 Private Sub CommandButton1_Click() 
  If UserForm1.CanUndo = True Then 

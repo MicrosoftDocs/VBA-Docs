@@ -17,10 +17,8 @@ The user specifies a selection method by choosing an option button, and then sel
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[ListBox](listbox-control.md)** controls named ListBox1 and ListBox2.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
+- Two **ListBox** controls named ListBox1 and ListBox2.   
+- A **CommandButton** named CommandButton1.   
 - Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
 

@@ -15,8 +15,7 @@ The following example demonstrates the stand-alone **[ScrollBar](scrollbar-contr
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
-    
+- A **ScrollBar** named ScrollBar1.   
 - Two **[Label](label-control.md)** controls named Label1 and Label2. Label1 contains scaling information for the user. Label2 reports the delta value.
     
 

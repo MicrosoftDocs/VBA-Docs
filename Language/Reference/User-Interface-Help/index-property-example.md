@@ -19,11 +19,9 @@ The user chooses CommandButton2 to move the selected page and tab to the back of
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
-- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
+- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.   
+- A **MultiPage** named MultiPage1.    
+- A **TabStrip** named TabStrip1.
     
 
 ```vb

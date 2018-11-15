@@ -23,7 +23,7 @@ The following example accesses an individual tab of a **[TabStrip](tabstrip-cont
     
 - Using the **[SelectedItem](selecteditem-property.md)** property.
     
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[TabStrip](tabstrip-control.md)** named TabStrip1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **TabStrip** named TabStrip1.
 
 
 ```vb

@@ -17,8 +17,7 @@ The user can enter text into either **TextBox** and turn **AutoSize** on or off 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[TextBox](textbox-control.md)** controls named TextBox1 and TextBox2.
-    
+- Two **TextBox** controls named TextBox1 and TextBox2.   
 - A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
 

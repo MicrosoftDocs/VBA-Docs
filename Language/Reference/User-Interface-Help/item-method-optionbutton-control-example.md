@@ -17,13 +17,10 @@ The user chooses an option button for either the **Controls** collection or the 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[Label](label-control.md)** named Label1.
-    
-- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
+- A **CommandButton** named CommandButton1.    
+- A **Label** named Label1.   
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.    
+- A **MultiPage** named MultiPage1.
     
 
 ```vb

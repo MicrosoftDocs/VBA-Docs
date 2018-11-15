@@ -15,10 +15,8 @@ The following example uses the **[ColumnWidths](columnwidths-property.md)** prop
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
-- Three **[TextBox](textbox-control.md)** controls named TextBox1 through TextBox3.
-    
+- A **ListBox** named ListBox1.   
+- Three **TextBox** controls named TextBox1 through TextBox3.   
 - A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 

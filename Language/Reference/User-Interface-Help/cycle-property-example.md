@@ -15,10 +15,8 @@ The following example defines the **[Cycle](cycle-property.md)** property for a 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Frame](frame-control.md)** named Frame1.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1 that contains two objects named Page1 and Page2.
-    
+- A **Frame** named Frame1.    
+- A **MultiPage** named MultiPage1 that contains two objects named Page1 and Page2.    
 - Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
     
 In the form, the **Frame** and each **Page** of the **MultiPage** place a couple of controls, so you can see how **Cycle** affects the tab order of the **Frame** and **MultiPage**.

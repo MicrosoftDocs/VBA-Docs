@@ -15,8 +15,7 @@ The following example uses the **[Add](add-method-microsoft-forms.md)**, **[Clea
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
+- A **MultiPage** named MultiPage1.   
 - Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.
     
 

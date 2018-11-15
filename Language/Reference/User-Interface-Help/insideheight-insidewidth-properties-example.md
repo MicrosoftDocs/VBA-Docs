@@ -18,7 +18,7 @@ The following example uses the **[InsideHeight and InsideWidth](insideheight-ins
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
+- A **CommandButton** named CommandButton1.
     
 
 ```vb

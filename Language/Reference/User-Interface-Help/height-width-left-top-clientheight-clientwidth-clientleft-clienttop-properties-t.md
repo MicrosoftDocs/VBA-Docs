@@ -17,11 +17,9 @@ This code sample uses the following properties: **[Height and Width](height-widt
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
-    
-- An **[Image](image-control.md)** named Image1.
+- A **CommandButton** named CommandButton1.    
+- A **TabStrip** named TabStrip1.    
+- An **Image** named Image1.
     
 
 ```vb

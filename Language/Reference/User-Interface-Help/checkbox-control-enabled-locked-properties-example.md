@@ -20,13 +20,11 @@ This example also includes a second **[TextBox](textbox-control.md)** so you can
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- Two **[CheckBox](checkbox-control.md)** controls named CheckBox1 and CheckBox2.
-    
+- A **TextBox** named TextBox1.    
+- Two **CheckBox** controls named CheckBox1 and CheckBox2.    
 - A second **TextBox** named TextBox2.
     
-    
+
 ```vb
 Private Sub CheckBox1_Change() 
  TextBox2.Text = "TextBox2" 

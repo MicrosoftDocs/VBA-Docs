@@ -17,14 +17,10 @@ The user clicks a control to move and then clicks the **[CommandButton](commandb
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- An **[OptionButton](optionbutton-control.md)** named OptionButton1.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
+- A **[TextBox](textbox-control.md)** named TextBox1.    
+- A **[ComboBox](combobox-control.md)** named ComboBox1.    
+- An **[OptionButton](optionbutton-control.md)** named OptionButton1.    
+- A **CommandButton** named CommandButton1.    
 - A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
 

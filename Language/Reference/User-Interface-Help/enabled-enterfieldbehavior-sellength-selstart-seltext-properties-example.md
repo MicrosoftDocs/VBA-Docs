@@ -17,8 +17,7 @@ This example also uses the **[Enabled](enabled-property-microsoft-forms.md)** an
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- One large **[TextBox](textbox-control.md)** named TextBox1.
-    
+- One large **[TextBox](textbox-control.md)** named TextBox1.    
 - Three **TextBox** controls in a column named TextBox2 through TextBox4.
     
 
