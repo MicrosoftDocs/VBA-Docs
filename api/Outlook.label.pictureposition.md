@@ -24,7 +24,7 @@ The settings for  **PicturePosition** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The picture appears to the left of the caption. The caption is aligned with the top of the picture.|
 |1|The picture appears to the left of the caption. The caption is centered relative to the picture.|

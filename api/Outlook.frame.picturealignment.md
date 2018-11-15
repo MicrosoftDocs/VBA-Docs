@@ -27,7 +27,7 @@ The settings for  **PictureAlignment** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The top left corner.|
 |1|The top right corner.|

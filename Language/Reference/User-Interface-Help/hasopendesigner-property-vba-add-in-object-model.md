@@ -17,7 +17,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indi
 
 The **HasOpenDesigner** property returns these values:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The **VBComponent** object has an open **Design** window.|
 |**False**|The **VBComponent** object doesn't have an open **Design** window.|

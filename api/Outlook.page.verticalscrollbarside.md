@@ -24,7 +24,7 @@ The settings for  **VerticalScrollBarSide** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Puts the scroll bar on the right side (default).|
 |1|Puts the scroll bar on the left side.|

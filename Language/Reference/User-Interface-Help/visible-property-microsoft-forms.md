@@ -30,7 +30,7 @@ The  **Visible** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Object is visible (default).|
 |**False**|Object is hidden.|

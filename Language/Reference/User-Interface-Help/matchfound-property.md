@@ -29,7 +29,7 @@ The **MatchFound** property syntax has these parts:
 
 The **MatchFound** property return values are:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The contents of the **Value** property matches one of the records in the list.|
 |**False**|The contents of **Value** does not match any of the records in the list (default).|

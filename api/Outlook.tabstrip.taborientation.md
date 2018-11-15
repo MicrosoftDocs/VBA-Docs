@@ -24,7 +24,7 @@ The settings for  **TabOrientation** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The tabs appear at the top of the control (default).|
 |1|The tabs appear at the bottom of the control.|

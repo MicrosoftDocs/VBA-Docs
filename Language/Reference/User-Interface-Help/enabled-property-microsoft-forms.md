@@ -30,7 +30,7 @@ The  **Enabled** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The control can receive the focus and respond to user-generated events, and is accessible through code (default).|
 |**False**|The user cannot interact with the control by using the mouse, keystrokes, accelerators, or hotkeys. The control is generally still accessible through code.|

@@ -35,7 +35,7 @@ The settings for  _zPosition_ are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Places the control at the front of the z-order. The control appears on top of other controls (default).|
 |1|Places the control at the back of the z-order. The control appears underneath other controls.|

@@ -30,7 +30,7 @@ The  **Default** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The  **[CommandButton](commandbutton-control.md)** is the default button.|
 |**False**|The  **[CommandButton](commandbutton-control.md)** is not the default button (default).|

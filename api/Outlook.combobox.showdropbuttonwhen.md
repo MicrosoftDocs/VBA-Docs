@@ -27,7 +27,7 @@ The settings for  **ShowDropButtonWhen** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Do not show the drop-down button under any circumstances.|
 |1|Show the drop-down button when the control has the focus.|

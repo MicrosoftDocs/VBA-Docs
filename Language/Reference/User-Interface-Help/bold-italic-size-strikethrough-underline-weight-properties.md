@@ -36,7 +36,7 @@ The  **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Wei
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The text has the specified attribute (that is bold, italic, size, strikethrough or underline marks, or weight).|
 |**False**|The text does not have the specified attribute (default).|

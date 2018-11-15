@@ -32,7 +32,7 @@ The  **ColumnHeads** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Display column headings.|
 |**False**|Do not display column headings (default).|

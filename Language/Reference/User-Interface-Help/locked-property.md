@@ -32,7 +32,7 @@ The  **Locked** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|You can't edit the value.|
 |**False**|You can edit the value (default).|

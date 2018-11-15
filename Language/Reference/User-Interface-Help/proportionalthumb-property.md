@@ -32,7 +32,7 @@ The  **ProportionalThumb** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The scroll box is proportional in size to the scrolling region (default).|
 |**False**|The scroll box is a fixed size.|

@@ -24,7 +24,7 @@ The settings for  **ScrollBars** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays no scroll bars (default).|
 |1|Displays a horizontal scroll bar.|

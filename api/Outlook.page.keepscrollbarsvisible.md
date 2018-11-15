@@ -24,7 +24,7 @@ The settings for  **KeepScrollBarsVisible** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays no scroll bars.|
 |1|Displays a horizontal scroll bar.|

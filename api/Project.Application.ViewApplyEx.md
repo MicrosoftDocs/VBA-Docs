@@ -38,7 +38,7 @@ _expression_ An expression that returns an **Application** object.
 
 |||
 |:-----|:-----|
-|**Value**|**Description**|
+|Value|Description|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|

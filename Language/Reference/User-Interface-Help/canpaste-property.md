@@ -29,7 +29,7 @@ The **CanPaste** property syntax has these parts:
 
 The  **CanPaste** property return values are:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The object underneath the mouse pointer can receive information pasted from the Clipboard (default).|
 |**False**|The object underneath the mouse pointer cannot receive information pasted from the Clipboard.|

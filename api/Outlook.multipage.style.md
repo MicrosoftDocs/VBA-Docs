@@ -24,7 +24,7 @@ The settings of the  **Style** property are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays tabs on the tab bar (default).|
 |1|Displays buttons on the tab bar.|

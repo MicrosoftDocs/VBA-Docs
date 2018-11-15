@@ -29,7 +29,7 @@ The  **CanUndo** property syntax has these parts:
 
 The **CanUndo** property return values are:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The most recent user action can be undone.|
 |**False**|The most recent user action cannot be undone.|

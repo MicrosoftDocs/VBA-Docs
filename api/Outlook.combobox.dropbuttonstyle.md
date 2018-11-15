@@ -27,7 +27,7 @@ The possible values for  **DropButtonStyle** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Displays a plain button, with no symbol.|
 |1|Displays a down arrow (default).|

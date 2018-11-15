@@ -32,7 +32,7 @@ The  **HideSelection** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Selected text is not highlighted unless the control has the focus (default).|
 |**False**|Selected text always appears highlighted.|

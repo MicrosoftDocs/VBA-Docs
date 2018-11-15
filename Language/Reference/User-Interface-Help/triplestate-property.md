@@ -32,7 +32,7 @@ The  **TripleState** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The button clicks through three states.|
 |**False**|The button only supports True and False (default).|

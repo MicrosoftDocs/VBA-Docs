@@ -29,7 +29,7 @@ The **CanRedo** property syntax has these parts:
 
 The **CanRedo** property return values are:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The most recent Undo can be reversed.|
 |**False**|The most recent Undo is irreversible.|

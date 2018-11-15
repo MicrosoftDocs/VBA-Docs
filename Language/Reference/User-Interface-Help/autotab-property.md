@@ -32,7 +32,7 @@ The  **AutoTab** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Tab occurs.|
 |**False**|Tab does not occur (default).|

@@ -32,7 +32,7 @@ The  **TakeFocusOnClick** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The button takes the focus when clicked (default).|
 |**False**|The button does not take the focus when clicked.|

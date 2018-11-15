@@ -26,7 +26,7 @@ The  **DeliverableType** property can have the following values:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The task has no associated deliverable.|
 |1|The associated deliverable is produced by the task.|

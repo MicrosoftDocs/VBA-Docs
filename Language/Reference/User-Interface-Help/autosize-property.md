@@ -32,7 +32,7 @@ The  **AutoSize** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Automatically resizes the control to display its entire contents.|
 |**False**|Keeps the size of the control constant. Contents are clipped when they exceed the area of the control (default).|

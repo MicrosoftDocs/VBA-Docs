@@ -33,7 +33,7 @@ The **SetText** method syntax has these parts:
 The settings for  _format_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |1|Text format.|
 |A string or integer value other than 1|A user-defined **DataObject** format.|

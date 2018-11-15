@@ -27,7 +27,7 @@ The settings for  **PictureSizeMode** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Crops any part of the picture that is larger than the form or page (default).|
 |1|Stretches the picture to fill the form or page. This setting distorts the picture in either the horizontal or vertical direction.|

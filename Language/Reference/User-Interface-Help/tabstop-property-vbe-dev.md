@@ -27,7 +27,7 @@ The  **TabStop** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Designates the object as a tab stop (default).|
 |**False**|Bypasses the object when the user is tabbing, although the object still holds its place in the actual tab order, as determined by the  **TabIndex** property.|

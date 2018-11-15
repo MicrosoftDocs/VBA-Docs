@@ -17,7 +17,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indi
 
 The **BuiltIn** property returns these values:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The reference is a default reference that can't be removed.|
 |**False**|The reference isn't a default reference; it can be removed.|

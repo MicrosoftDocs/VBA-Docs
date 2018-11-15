@@ -16,7 +16,7 @@ You have entered an invalid expression in a Boolean filter used to determine whi
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |A string|A criteria that a record must satisfy in order to appear in the replicated table. The string is similar to an SQL WHERE clause, but you cannot specify subqueries, aggregate functions (such as Count), or user defined functions within the criteria.|
 |True|Replicate all records.|

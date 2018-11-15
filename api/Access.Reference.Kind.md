@@ -29,7 +29,7 @@ The  **Kind** property returns the following values:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**vbext_rk_Project**|The  **Reference** object represents a reference to a Visual Basic project.|
 |**vbext_rk_TypeLib**|The  **Reference** object represents a reference to a file that contains a type library.|

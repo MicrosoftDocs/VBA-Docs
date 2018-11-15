@@ -32,7 +32,7 @@ The  **BoundColumn** property syntax has these parts:
 The settings for  _Variant_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Assigns the value of the  **ListIndex** property to the control.|
 |1 or greater|Assigns the value from the specified column to the control. Columns are numbered from 1 when using this property (default).|

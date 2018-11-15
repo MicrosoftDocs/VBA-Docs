@@ -19,7 +19,7 @@ Returns or sets a value specifying the type of calendar to use with your [projec
 You can use one of two settings for  **Calendar**:
 
 
-|**Setting**|**Value**|**Description**|
+|**Setting**|Value|Description|
 |:-----|:-----|:-----|
 |**vbCalGreg**|0|Use Gregorian calendar (default).|
 |**vbCalHijri**|1|Use Hijri calendar.|

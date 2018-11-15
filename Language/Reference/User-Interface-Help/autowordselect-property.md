@@ -32,7 +32,7 @@ The  **AutoWordSelect** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Uses a word as the basic unit (default).|
 |**False**|Uses a character as the basic unit.|

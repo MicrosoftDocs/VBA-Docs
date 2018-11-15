@@ -24,7 +24,7 @@ The settings for  **SpecialEffect** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Object appears flat, distinguished from the surrounding form by a border, a change of color, or both. |
 |1|Object has a highlight on the top and left and a shadow on the bottom and right.|

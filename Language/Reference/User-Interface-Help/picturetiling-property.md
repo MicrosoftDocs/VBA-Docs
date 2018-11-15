@@ -32,7 +32,7 @@ The  **PictureTiling** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The picture is tiled across the background.|
 |**False**|The picture is not tiled across the background (default).|

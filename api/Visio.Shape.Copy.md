@@ -42,7 +42,7 @@ Possible values for  _Flags_ are declared by the Visio type library in **VisCutC
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|

@@ -32,7 +32,7 @@ The  **TabKeyBehavior** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Pressing TAB inserts a tab character in the edit region.|
 |**False**|Pressing TAB moves the focus to the next object in the tab order (default).|

@@ -127,7 +127,7 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 > The child **addressLike** element of the **action** element can contain one of the following values:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |----|----|
 | **forward**|Addresses the resulting item like a forward message that has no recipients specified. This also preserves attachments in the current item.|
 | **reply**|Addresses the resulting item as a standard reply, with the sender specified in the **To** line, and no one in the **CC** or **BCC** lines.|

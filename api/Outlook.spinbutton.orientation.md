@@ -24,7 +24,7 @@ The settings for  **Orientation** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |-1|Automatically determines the orientation based upon the dimensions of the control (default).|
 |0|Control is rendered vertically.|
