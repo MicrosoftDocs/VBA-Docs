@@ -1,12 +1,12 @@
 ---
-title: Concepts (Microsoft Forms)
+title: Microsoft Forms conceptual topics
 ms.prod: office
 ms.assetid: 13f7683b-9bc5-4036-b79d-edd774a3613d
 ms.date: 09/17/2018
 ---
 
 
-# Concepts (Microsoft Forms)
+# Microsoft Forms conceptual topics
 
 - [Active controls and selected controls](../../Concepts/Forms/active-controls-and-selected-controls.md)
 - [Add a control to a form](../../Concepts/Forms/add-a-control-to-a-form.md)
@@ -91,5 +91,8 @@ ms.date: 09/17/2018
 - [What is the difference between the DataObject and the Clipboard?](../../Concepts/Forms/what-is-the-difference-between-the-dataobject-and-the-clipboard.md)
 - [What is the Toolbox?](../../Concepts/Forms/what-is-the-toolbox.md)
 
-    
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
 
