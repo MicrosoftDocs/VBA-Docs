@@ -17,7 +17,7 @@ Contains constants that specify a line pattern.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjCloseDot**|2|Close dot.|
-|**pjContinuous**|1|Continous line.|
+|**pjContinuous**|1|Continuous line.|
 |**pjDash**|4|Dashed line.|
 |**pjDot**|3|Dotted line.|
 |**pjNoLines**|0|No line.|
