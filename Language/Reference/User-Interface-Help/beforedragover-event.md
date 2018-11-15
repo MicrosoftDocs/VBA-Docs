@@ -33,7 +33,7 @@ The **BeforeDragOver** event syntax has these parts:
 | _index_|Required. The index of the **Page** in a **[MultiPage](multipage-control.md)** that the drag-and-drop operation will affect.|
 | _Cancel_|Required. Event status. **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 | _ctrl_|Required. The control being dragged over.|
-| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a **DataObject**.|
+| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a **[DataObject](dataobject-object.md)**.|
 | _X, Y_|Required. The horizontal and vertical coordinates of the control's position. Both coordinates are measured in points.  _X_ is measured from the left edge of the control; _Y_ is measured from the top of the control..|
 | _DragState_|Required. Transition state of the data being dragged.|
 | _Effect_|Required. Operations supported by the [drop source](../../Glossary/glossary-vba.md#drop-source).|

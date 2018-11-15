@@ -34,7 +34,7 @@ The **BeforeDropOrPaste** event syntax has these parts:
 | _Cancel_|Required. Event status. **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 | _ctrl_|Required. The target control.|
 | _Action_|Required. Indicates the result, based on the current keyboard settings, of the pending drag-and-drop operation.|
-| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a **DataObject**.|
+| _Data_|Required. Data that is dragged in a drag-and-drop operation. The data is packaged in a **[DataObject](dataobject-object.md)**.|
 | _X, Y_|Required. The horizontal and vertical position of the mouse pointer when the drop occurs. Both coordinates are measured in points.  _X_ is measured from the left edge of the control; _Y_ is measured from the top of the control..|
 | _Effect_|Required. Effect of the drag-and-drop operation on the target control.|
 | _Shift_|Required. Specifies the state of SHIFT, CTRL, and ALT.|
