@@ -5,32 +5,23 @@ f1_keywords:
 - vbui6.chm1067396
 ms.prod: office
 ms.assetid: 95b11467-a9f8-a08a-dcfe-e09f96995b4a
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
 # Toolbox
 
-
 ![Toolbox](../../../images/toolbox_ZA01201770.gif)
 
+Displays the standard Visual Basic controls plus any ActiveX controls and insertable objects that you have added to your project.
 
-
-Displays the standard Visual Basic controls plus any ActiveX controls and insertable objects you have added to your project.
-
-
-
-
-- You can customize the  **Toolbox** by adding pages to it or by adding controls using the **Additional** **Controls** command from the **Tools** menu. When you add a page, a **Select** **Objects** tool is always available on the page.
+You can customize the **Toolbox** by adding pages to it or by adding controls by using the **Additional** **Controls** command from the **Tools** menu. When you add a page, a **Select Objects** tool is always available on the page.
     
-
-
-## Standard Toolbox Controls
-
+## Standard toolbox controls
 
 ![Standard toolbox controls](../../../images/tb_pntr_ZA01201663.gif) **Select Objects**
 
-Select Objects is the only item in the  **Toolbox** that doesn't draw a control. When you select it, you can only resize or move a control that has already been drawn on a form.
+Select Objects is the only item in the **Toolbox** that doesn't draw a control. When you select it, you can only resize or move a control that has already been drawn on a form.
 
 
 ![Label](../../../images/tb_label_ZA01201660.gif) **Label**
@@ -103,3 +94,6 @@ A spinner control you can use with another control to increment and decrement nu
 Displays a graphical image from a [bitmap](../../Glossary/vbe-glossary.md#bitmap), [icon](../../Glossary/vbe-glossary.md#icon), or [metafile](../../Glossary/vbe-glossary.md#metafile) on your form. Images displayed in an **Image** control can only be decorative and use fewer resources than a **PictureBox**.
 
 
+## See also
+
+- [Visual Basic language reference](visual-basic-language-reference.md)

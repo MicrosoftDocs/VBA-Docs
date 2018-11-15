@@ -29,7 +29,7 @@ The  **BeforeDropOrPaste** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the  **Page** in a **MultiPage** that the drop or paste operation will affect.|
+| _index_|Required. The index of the  **Page** in a **[MultiPage](multipage-control.md)** that the drop or paste operation will affect.|
 | _Cancel_|Required. Event status.  **False** indicates that the control should handle the event (default). **True** indicates the application handles the event.|
 | _ctrl_|Required. The target control.|
 | _Action_|Required. Indicates the result, based on the current keyboard settings, of the pending drag-and-drop operation.|
@@ -68,7 +68,7 @@ The settings for  _Shift_ are:
 
 ## Remarks
 
-For a  **MultiPage** or **TabStrip**, Visual Basic for Applications initiates this event when it transfers a data object to the control.
+For a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**, Visual Basic for Applications initiates this event when it transfers a data object to the control.
 For other controls, the system initiates this event immediately prior to the drop or paste operation.
 When a control handles this event, you can update the  _Action_ argument to identify the drag-and-drop action to perform. When _Effect_ is set to **fmDropEffectCopyOrMove**, you can assign _Action_ to **fmDropEffectNone**, **fmDropEffectCopy**, or **fmDropEffectMove**. When _Effect_ is set to **fmDropEffectCopy** or **fmDropEffectMove**, you can reassign _Action_ to **fmDropEffectNone**. You cannot reassign _Action_ when _Effect_ is set to **fmDropEffectNone**.
 

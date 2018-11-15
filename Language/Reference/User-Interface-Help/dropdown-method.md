@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Displays the list portion of a  **ComboBox**.
+Displays the list portion of a  **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 

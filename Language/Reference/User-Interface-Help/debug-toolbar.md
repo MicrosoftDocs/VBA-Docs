@@ -31,7 +31,7 @@ Turns design mode off and on.
 
 ![Run sub userform](../../../images/tbr_strt_ZA01201751.gif) **Run Sub/UserForm** or **Run Macro**
 
-Runs the current procedure if the cursor is in a procedure, runs the  **UserForm** if a **UserForm** is currently active, or runs a macro if neither the **Code** window nor a **UserForm** is active.
+Runs the current procedure if the cursor is in a procedure, runs the  **[UserForm](userform-window.md)** if a **[UserForm](userform-window.md)** is currently active, or runs a macro if neither the **Code** window nor a **[UserForm](userform-window.md)** is active.
 
 
 ![Break](../../../images/tbr_brk_ZA01201682.gif) **Break**

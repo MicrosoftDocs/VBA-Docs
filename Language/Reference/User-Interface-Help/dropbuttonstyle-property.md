@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the symbol displayed on the drop button in a  **ComboBox**.
+Specifies the symbol displayed on the drop button in a  **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 

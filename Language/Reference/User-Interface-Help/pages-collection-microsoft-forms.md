@@ -13,7 +13,7 @@ ms.date: 09/17/2018
 
 # Pages collection (Microsoft Forms)
 
-A **Pages** collection includes all the pages of a **MultiPage**.
+A **Pages** collection includes all the pages of a **[MultiPage](multipage-control.md)**.
 
 ## Remarks
 

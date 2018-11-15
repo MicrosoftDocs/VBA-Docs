@@ -1,31 +1,24 @@
 ---
-title: Alignment Property Example
+title: Alignment property example
 keywords: fm20.chm5225151
 f1_keywords:
 - fm20.chm5225151
 ms.prod: office
 ms.assetid: cd079dcf-c5d2-e259-3607-a2a8e2864e02
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# Alignment Property Example
+# Alignment property example
 
-The following example demonstrates the  **Alignment** property used with several **OptionButton** controls. In this example, the user can change the alignment by clicking a **ToggleButton**.
+The following example demonstrates the **[Alignment](alignment-property.md)** property used with several **[OptionButton](optionbutton-control.md)** controls. In this example, the user can change the alignment by clicking a **[ToggleButton](togglebutton-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
-
-
-
-- Two  **OptionButton** controls named OptionButton1 and OptionButton2.
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
-
-
-
-
 ```vb
 Private Sub UserForm_Initialize() 
  OptionButton1.Alignment = fmAlignmentLeft 

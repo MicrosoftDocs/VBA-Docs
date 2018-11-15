@@ -54,7 +54,7 @@ For a single-line control, you can display a horizontal scroll bar by using the 
 3. When  **AutoSize** is **True**, the control enlarges itself to accommodate the addition of a scroll bar unless the control is at or near its maximum size.
     
 
-For a multiline  **TextBox**, you can display scroll bars by using the **ScrollBars**, **WordWrap**, and **AutoSize** properties. Scroll bars are hidden or displayed according to the following rules:
+For a multiline  **[TextBox](textbox-control.md)**, you can display scroll bars by using the **ScrollBars**, **WordWrap**, and **AutoSize** properties. Scroll bars are hidden or displayed according to the following rules:
 
 
 1. When  **ScrollBars** is set to **fmScrollBarsNone**, no scroll bar is displayed.

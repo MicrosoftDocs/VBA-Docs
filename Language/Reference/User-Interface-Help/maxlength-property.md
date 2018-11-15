@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the maximum number of characters a user can enter in a  **TextBox** or **ComboBox**.
+Specifies the maximum number of characters a user can enter in a  **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 

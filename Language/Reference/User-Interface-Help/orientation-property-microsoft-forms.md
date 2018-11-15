@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies whether the  **SpinButton** or **ScrollBar** is oriented vertically or horizontally.
+Specifies whether the  **[SpinButton](spinbutton-control.md)** or **[ScrollBar](scrollbar-control.md)** is oriented vertically or horizontally.
 
 ## Syntax
 

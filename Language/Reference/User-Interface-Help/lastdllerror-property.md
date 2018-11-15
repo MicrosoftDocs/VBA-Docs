@@ -23,7 +23,7 @@ The  **LastDLLError**[property](../../Glossary/vbe-glossary.md#property) applies
 
 ## Example
 
-When pasted into a  **UserForm** module, the following code causes an attempt to call a DLL function. The call fails because the argument that is passed in (a null pointer) generates an error, and in any event, SQL can't be cancelled if it isn't running. The code following the call checks the return of the call, and then prints at the **LastDLLError** property of the **Err** object to reveal the error code. On systems without DLLs, **LastDLLError** always returns zero.
+When pasted into a  **[UserForm](userform-window.md)** module, the following code causes an attempt to call a DLL function. The call fails because the argument that is passed in (a null pointer) generates an error, and in any event, SQL can't be cancelled if it isn't running. The code following the call checks the return of the call, and then prints at the **LastDLLError** property of the **Err** object to reveal the error code. On systems without DLLs, **LastDLLError** always returns zero.
 
 
 ```vb

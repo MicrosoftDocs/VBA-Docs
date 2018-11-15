@@ -25,7 +25,7 @@ The  **TabFixedHeight** and **TabFixedWidth** property syntaxes have these parts
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _Single_|Optional. The number of points of the height or width of the tabs on a  **TabStrip** or **MultiPage**.|
+| _Single_|Optional. The number of points of the height or width of the tabs on a  **[TabStrip](tabstrip-control.md)** or **[MultiPage](multipage-control.md)**.|
 
 ## Settings
 If the value is 0, tab widths are automatically adjusted so that each tab is wide enough to accommodate its contents and each row of tabs spans the width of the control.

@@ -26,8 +26,8 @@ Displays the  **Debug** toolbar which contains buttons for common debugging task
 Displays the  **Edit** toolbar which contains buttons for common editing tasks.
  **Standard**
 Displays the  **Standard** toolbar which is the default toolbar.
- **UserForm**
-Displays the  **UserForm** toolbar which contains buttons specific to the form.
+ **[UserForm](userform-window.md)**
+Displays the  **[UserForm](userform-window.md)** toolbar which contains buttons specific to the form.
  **Customize**
 Displays the  **Customize** dialog box where you can customize or create toolbars and your menu bar.
 

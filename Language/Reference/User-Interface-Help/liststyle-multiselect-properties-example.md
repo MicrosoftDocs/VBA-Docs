@@ -1,34 +1,30 @@
 ---
-title: ListStyle, MultiSelect Properties Example
+title: ListStyle, MultiSelect properties example
 keywords: fm20.chm5225142
 f1_keywords:
 - fm20.chm5225142
 ms.prod: office
 ms.assetid: 8a5ea21b-fadb-994c-6df8-e40e29094f42
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# ListStyle, MultiSelect Properties Example
+# ListStyle, MultiSelect properties example
 
-The following example uses the  **ListStyle** and **MultiSelect** properties to control the appearance of a **ListBox**. The user chooses a value for **ListStyle** using the **ToggleButton** and chooses an **OptionButton** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
+The following example uses the **[ListStyle](liststyle-property.md)** and **[MultiSelect](multiselect-property-microsoft-forms.md)** properties to control the appearance of a **[ListBox](listbox-control.md)**. 
+
+The user chooses a value for **ListStyle** using the **[ToggleButton](togglebutton-control.md)** and chooses an **[OptionButton](optionbutton-control.md)** for one of the **MultiSelect** values. The appearance of the **ListBox** changes accordingly, as well as the selection behavior within the **ListBox**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **ListBox** named ListBox1.
+- A **[ListBox](listbox-control.md)** named ListBox1.
     
-- A  **Label** named Label1.
+- A **[Label](label-control.md)** named Label1.
     
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
-- A  **ToggleButton** named ToggleButton1.
+- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 

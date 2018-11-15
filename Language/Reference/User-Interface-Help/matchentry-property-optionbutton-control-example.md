@@ -1,30 +1,26 @@
 ---
-title: MatchEntry Property, OptionButton Control Example
+title: MatchEntry property, OptionButton control example
 keywords: fm20.chm5225120
 f1_keywords:
 - fm20.chm5225120
 ms.prod: office
 ms.assetid: c68bae6a-b2cc-8616-bffb-9b7369fd9749
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# MatchEntry Property, OptionButton Control Example
+# MatchEntry property, OptionButton control example
 
-The following example uses the  **MatchEntry** property to demonstrate character matching that is available for **ComboBox** and **ListBox**. In this example, the user can set the type of matching with the **OptionButton** controls and then type into the **ComboBox** to specify an item from its list.
+The following example uses the **[MatchEntry](matchentry-property.md)** property to demonstrate character matching that is available for **[ComboBox](combobox-control.md)** and **[ListBox](listbox-control.md)**. 
+
+In this example, the user can set the type of matching with the **[OptionButton](optionbutton-control.md)** controls, and then type into the **ComboBox** to specify an item from its list.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- Three  **OptionButton** controls named OptionButton1 through OptionButton3.
+- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
     
-- A  **ComboBox** named ComboBox1.
+- A **[ComboBox](combobox-control.md)** named ComboBox1.
     
-
-
-
 
 ```vb
 Private Sub OptionButton1_Click() 

@@ -27,6 +27,6 @@ The  **Paste** method syntax has these parts:
 
 ## Remarks
 
-Data pasted into a  **ComboBox** or **TextBox** is treated as text.
+Data pasted into a  **[ComboBox](combobox-control.md)** or **[TextBox](textbox-control.md)** is treated as text.
 When the paste method is used with a form, you can paste any object onto the form.
 

@@ -33,9 +33,9 @@ The  **AddItem** method syntax has these parts:
 
 If you supply a valid value for  _varIndex_, the **AddItem** method places the item or row at that position within the list. If you omit _varIndex_, the method adds the item or row at the end of the list.
 The value of  _varIndex_ must not be greater than the value of the **ListCount** property.
-For a multicolumn  **ListBox** or **ComboBox**, **AddItem** inserts an entire row, that is, it inserts an item for each column of the control. To assign values to an item beyond the first column, use the **List** or **Column** property and specify the row and column of the item.
+For a multicolumn  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**, **AddItem** inserts an entire row, that is, it inserts an item for each column of the control. To assign values to an item beyond the first column, use the **List** or **Column** property and specify the row and column of the item.
 If the control is bound to data, the  **AddItem** method fails.
 
- **Note**  You can add more than one row at a time to a  **ComboBox** or **ListBox** by using **List**.
+ **Note**  You can add more than one row at a time to a  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)** by using **List**.
 
 

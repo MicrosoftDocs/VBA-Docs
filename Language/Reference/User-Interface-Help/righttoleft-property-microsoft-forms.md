@@ -41,7 +41,7 @@ Microsoft Forms 2.0 controls that have the ability to exhibit bidirectional char
 
 |**Important**|
 |:-----|  
-|If you add Microsoft Forms 2.0 controls to a container surface that's not a Microsoft Forms 2.0 form (for example, if you add a  **TabStrip** control directly to an Arabic Word document), the control will behave as if the container has a **RightToLeft** property that's set to **False**.|
+|If you add Microsoft Forms 2.0 controls to a container surface that's not a Microsoft Forms 2.0 form (for example, if you add a  **[TabStrip](tabstrip-control.md)** control directly to an Arabic Word document), the control will behave as if the container has a **RightToLeft** property that's set to **False**.|
 
 |**Note**|
 |:-----|  

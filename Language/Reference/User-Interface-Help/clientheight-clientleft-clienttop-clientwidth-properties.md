@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Define the dimensions and location of the display area of a  **TabStrip**.
+Define the dimensions and location of the display area of a  **[TabStrip](tabstrip-control.md)**.
 
 ## Syntax
 
@@ -31,5 +31,5 @@ The  **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth** proper
 
 ## Remarks
 
-At [run time](../../Glossary/vbe-glossary.md#run-time),  **ClientLeft**, **ClientTop**, **ClientHeight**, and **ClientWidth** automatically store the coordinates and dimensions of the **TabStrip's** internal area, which is shared by objects in the **TabStrip**.
+At [run time](../../Glossary/vbe-glossary.md#run-time),  **ClientLeft**, **ClientTop**, **ClientHeight**, and **ClientWidth** automatically store the coordinates and dimensions of the **TabStrip's** internal area, which is shared by objects in the **[TabStrip](tabstrip-control.md)**.
 

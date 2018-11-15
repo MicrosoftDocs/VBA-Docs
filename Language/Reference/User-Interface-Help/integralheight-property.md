@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Indicates whether a  **ListBox** or **TextBox** displays full lines of text in a list or partial lines.
+Indicates whether a  **[ListBox](listbox-control.md)** or **[TextBox](textbox-control.md)** displays full lines of text in a list or partial lines.
 
 ## Syntax
 

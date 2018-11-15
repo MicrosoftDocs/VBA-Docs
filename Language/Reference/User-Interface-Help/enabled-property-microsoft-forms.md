@@ -37,7 +37,7 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed. If **Enabled** is **False** for an **Image**, the control does not initiate events but does not appear dimmed.
+Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed. If **Enabled** is **False** for an **[Image](image-control.md)**, the control does not initiate events but does not appear dimmed.
 The  **Enabled** and **Locked** properties work together to achieve the following effects:
 
 
@@ -51,7 +51,7 @@ The  **Enabled** and **Locked** properties work together to achieve the followin
     
 
 You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a command button with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the command button won't appear in the [tab order](../../Glossary/vbe-glossary.md#tab-order). However, if  **Enabled** is **True**, then the user can still click the command button, as long as **TakeFocusOnClick** is set to **True**.
-When the user tabs into an enabled  **MultiPage** or **TabStrip**, the first page or tab in the control receives the focus. If the first page or tab of a **MultiPage** or **TabStrip** is disabled, the first enabled page or tab of that control receives the focus. If all pages or tabs of a **MultiPage** or **TabStrip** are disabled, the control is disabled and cannot receive the focus.
-If a  **Frame** is disabled, all controls it contains are disabled.
-Clicking a disabled  **ListBox** does not initiate the Click event.
+When the user tabs into an enabled  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**, the first page or tab in the control receives the focus. If the first page or tab of a **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)** is disabled, the first enabled page or tab of that control receives the focus. If all pages or tabs of a **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)** are disabled, the control is disabled and cannot receive the focus.
+If a  **[Frame](frame-control.md)** is disabled, all controls it contains are disabled.
+Clicking a disabled  **[ListBox](listbox-control.md)** does not initiate the Click event.
 

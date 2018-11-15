@@ -32,5 +32,5 @@ You can use any integer that represents a valid color. You can also specify a co
 ## Remarks
 
 Use the  **ForeColor** property for controls on forms to make them easy to read or to convey a special meaning. For example, if a text box reports the number of units in stock, you can change the color of the text when the value falls below the reorder level.
-For a  **ScrollBar** or **SpinButton**, **ForeColor** sets the color of the arrows. For a **Frame**, **ForeColor** changes the color of the caption. For a **Font** object, **ForeColor** determines the color of the text.
+For a  **[ScrollBar](scrollbar-control.md)** or **[SpinButton](spinbutton-control.md)**, **ForeColor** sets the color of the arrows. For a **[Frame](frame-control.md)**, **ForeColor** changes the color of the caption. For a **Font** object, **ForeColor** determines the color of the text.
 

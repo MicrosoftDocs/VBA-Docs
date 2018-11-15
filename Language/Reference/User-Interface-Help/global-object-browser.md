@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Global (Object Browser)
 
-The  **Global** module contains procedures and properties used to perform operations on the **UserForm** object. These constants can be used anywhere in your code.
+The  **Global** module contains procedures and properties used to perform operations on the **[UserForm](userform-window.md)** object. These constants can be used anywhere in your code.
 
  **To get Help on a particular property or procedure**
 

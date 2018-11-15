@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Removes a member from a [collection](../../Glossary/vbe-glossary.md#collection); or, removes a control from a  **Frame**, **Page**, or form.
+Removes a member from a [collection](../../Glossary/vbe-glossary.md#collection); or, removes a control from a  **[Frame](frame-control.md)**, **Page**, or form.
 
 ## Syntax
 

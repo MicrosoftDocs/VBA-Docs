@@ -13,7 +13,7 @@ ms.date: 11/13/2018
 
 # Show method
 
-Displays a **UserForm** object.
+Displays a **[UserForm](userform-window.md)** object.
 
 ## Syntax
 

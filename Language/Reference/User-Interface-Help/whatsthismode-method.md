@@ -20,7 +20,7 @@ Causes the mouse pointer to change to the  **What's This** pointer and prepares 
 ## Syntax
 
 _object_. **WhatsThisMode**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **UserForm** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **[UserForm](userform-window.md)** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
 
 ## Remarks
 
@@ -28,7 +28,7 @@ Executing the  **WhatsThisMode** method places the application in the same state
 
 ## Example
 
-The following example changes the mouse pointer to the  **What's This** (question mark) pointer when the user clicks the **UserForm**. If neither the **WhatsThisHelp** or the **WhatsThisButton** property is set to **True** in the **Properties** window, the following invocation has no effect.
+The following example changes the mouse pointer to the  **What's This** (question mark) pointer when the user clicks the **[UserForm](userform-window.md)**. If neither the **WhatsThisHelp** or the **WhatsThisButton** property is set to **True** in the **Properties** window, the following invocation has no effect.
 
 
 ```vb

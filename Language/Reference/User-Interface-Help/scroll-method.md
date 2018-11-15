@@ -45,5 +45,5 @@ The settings for  _ActionX_ and _ActionY_ are:
 
 ## Remarks
 
-The  **Scroll** method applies scroll bars that appear on a form, **Frame**, or **Page** that is larger than its display area. This method does not apply to the stand-alone **ScrollBar** or to scroll bars that appear on a **TextBox**.
+The  **Scroll** method applies scroll bars that appear on a form, **[Frame](frame-control.md)**, or **Page** that is larger than its display area. This method does not apply to the stand-alone **[ScrollBar](scrollbar-control.md)** or to scroll bars that appear on a **[TextBox](textbox-control.md)**.
 

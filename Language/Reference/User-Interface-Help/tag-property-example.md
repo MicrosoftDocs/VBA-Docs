@@ -1,36 +1,30 @@
 ---
-title: Tag Property Example
+title: Tag property example
 keywords: fm20.chm5225129
 f1_keywords:
 - fm20.chm5225129
 ms.prod: office
 ms.assetid: 23ace8e6-5d8a-6b61-d69d-eb403be6e605
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# Tag Property Example
+# Tag property example
 
-The following example uses the  **Tag** property to store additional information about each control on the **UserForm**. The user clicks a control and then clicks the **CommandButton**. The contents of **Tag** for the appropriate control are returned in the **TextBox**.
+The following example uses the **[Tag](tag-property.md)** property to store additional information about each control on the **[UserForm](userform-window.md)**. The user clicks a control and then clicks the **[CommandButton](commandbutton-control.md)**. The contents of **Tag** for the appropriate control are returned in the **[TextBox](textbox-control.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **TextBox** named TextBox1.
+- A **[TextBox](textbox-control.md)** named TextBox1.
     
-- A  **CommandButton** named CommandButton1.
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- A  **ScrollBar** named ScrollBar1.
+- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
     
-- A  **ComboBox** named ComboBox1.
+- A **[ComboBox](combobox-control.md)** named ComboBox1.
     
-- A  **MultiPage** named MultiPage1.
+- A **[MultiPage](multipage-control.md)** named MultiPage1.
     
-
-
-
 
 ```vb
 Private Sub CommandButton1_Click() 

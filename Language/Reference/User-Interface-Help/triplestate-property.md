@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Determines whether a user can specify, from the user interface, the [Null](../../Glossary/vbe-glossary.md#null) state for a **CheckBox** or **ToggleButton**.
+Determines whether a user can specify, from the user interface, the [Null](../../Glossary/vbe-glossary.md#null) state for a **[CheckBox](checkbox-control.md)** or **[ToggleButton](togglebutton-control.md)**.
 
 ## Syntax
 
@@ -39,9 +39,9 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-Although the  **TripleState** property exists on the **OptionButton**, the property is disabled. Regardless of the value of **TripleState**, you cannot set the control to **Null** through the user interface.
+Although the  **TripleState** property exists on the **[OptionButton](optionbutton-control.md)**, the property is disabled. Regardless of the value of **TripleState**, you cannot set the control to **Null** through the user interface.
 When the  **TripleState** property is **True**, a user can choose from the values of **Null**, **True**, and **False**. The null value is displayed as a shaded button.
 When  **TripleState** is **False**, the user can choose either **True** or **False**.
 A control set to  **Null** does not initiate the Click event.
-Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **CheckBox** or **ToggleButton**, causing that control to appear shaded.
+Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **[CheckBox](checkbox-control.md)** or **[ToggleButton](togglebutton-control.md)**, causing that control to appear shaded.
 

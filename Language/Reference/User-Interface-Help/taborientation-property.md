@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the location of the tabs on a  **MultiPage** or **TabStrip**.
+Specifies the location of the tabs on a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**.
 
 ## Syntax
 

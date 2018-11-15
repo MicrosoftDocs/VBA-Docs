@@ -28,7 +28,7 @@ The  **Scroll** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
+| _index_|Required. The index of the page in a  **[MultiPage](multipage-control.md)** associated with this event.|
 | _ActionX_|Required. The action that occurred in the horizontal direction.|
 | _ActionY_|Required. The action that occurred in the vertical direction.|
 | _RequestDx_|Required. The distance, in points, you want the scroll bar to move in the horizontal direction.|
@@ -55,8 +55,8 @@ The settings for  _ActionX_ and _ActionY_ are:
 
 ## Remarks
 
-The Scroll events associated with a form,  **Frame**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
+The Scroll events associated with a form,  **[Frame](frame-control.md)**, or **Page** return the following arguments: _ActionX_, _ActionY_, _ActualX_, and _ActualY_. _ActionX_ and _ActionY_ identify the action that occurred. _ActualX_ and _ActualY_ identify the distance that the scroll box traveled.
 The default action is to calculate the new position of the scroll box and then scroll to that position.
-You can initiate a Scroll event by issuing a  **Scroll** method for a form, **Frame**, or **Page**. Users can generate Scroll events by moving the scroll box.
-The Scroll event associated with the stand-alone  **ScrollBar** indicates that the user moved the scroll box in either direction. This event is not initiated when the value of the **ScrollBar** changes by code or by the user clicking on parts of the **ScrollBar** other than the scroll box.
+You can initiate a Scroll event by issuing a  **Scroll** method for a form, **[Frame](frame-control.md)**, or **Page**. Users can generate Scroll events by moving the scroll box.
+The Scroll event associated with the stand-alone  **[ScrollBar](scrollbar-control.md)** indicates that the user moved the scroll box in either direction. This event is not initiated when the value of the **[ScrollBar](scrollbar-control.md)** changes by code or by the user clicking on parts of the **[ScrollBar](scrollbar-control.md)** other than the scroll box.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryClose event
 
-Occurs before a **UserForm** closes.
+Occurs before a **[UserForm](userform-window.md)** closes.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The **QueryClose** event syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md#argument) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **UserForm** and application from closing.|
+| _cancel_|An integer. Setting this [argument](../../Glossary/vbe-glossary.md#argument) to any value other than 0 stops the QueryClose event in all loaded user forms and prevents the **[UserForm](userform-window.md)** and application from closing.|
 | _closemode_|A value or [constant](../../Glossary/vbe-glossary.md#constant) indicating the cause of the QueryClose event.|
 
 ## Return values
@@ -32,7 +32,7 @@ The  _closemode_ argument returns the following values:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-|**vbFormControlMenu**|0|The user has chosen the **Close** command from the **Control** menu on the **UserForm**.|
+|**vbFormControlMenu**|0|The user has chosen the **Close** command from the **Control** menu on the **[UserForm](userform-window.md)**.|
 |**vbFormCode**|1|The **Unload** statement is invoked from code.|
 |**vbAppWindows**|2|The current Windows operating environment session is ending.|
 |**vbAppTaskManager**|3|The Windows **Task Manager** is closing the application.|
@@ -41,13 +41,13 @@ These constants are listed in the Visual Basic for Applications [object library]
 
 ## Remarks
 
-This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any **UserForm**, the application can prompt the user to save the data.
+This event is typically used to make sure there are no unfinished tasks in the user forms included in an application before that application closes. For example, if a user hasn't saved new data in any **[UserForm](userform-window.md)**, the application can prompt the user to save the data.
 
 When an application closes, you can use the **QueryClose** event procedure to set the **Cancel** property to **True**, stopping the closing process.
 
 ## Example
 
-The following code forces the user to click the **UserForm** client area to close it. If the user tries to use the **Close** box in the title bar, the _Cancel_ parameter is set to a nonzero value, preventing termination. However, if the user has clicked the client area, _CloseMode_ has the value 1 and `Unload Me` is executed.
+The following code forces the user to click the **[UserForm](userform-window.md)** client area to close it. If the user tries to use the **Close** box in the title bar, the _Cancel_ parameter is set to a nonzero value, preventing termination. However, if the user has clicked the client area, _CloseMode_ has the value 1 and `Unload Me` is executed.
 
 
 ```vb

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the source providing a list for a  **ComboBox** or **ListBox**.
+Specifies the source providing a list for a  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)**.
 
 ## Syntax
 
@@ -26,7 +26,7 @@ The  **RowSource** property syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _String_|Optional. The source of the list for the  **ComboBox** or **ListBox**.|
+| _String_|Optional. The source of the list for the  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)**.|
 
 ## Remarks
 

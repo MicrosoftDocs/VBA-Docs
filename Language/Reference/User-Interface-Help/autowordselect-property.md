@@ -39,6 +39,6 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-The  **AutoWordSelect** property specifies how the selection extends or contracts in the edit region of a **TextBox** or **ComboBox**.
+The  **AutoWordSelect** property specifies how the selection extends or contracts in the edit region of a **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 If the user places the insertion point in the middle of a word and then extends the selection while  **AutoWordSelect** is **True**, the selection includes the entire word.
 

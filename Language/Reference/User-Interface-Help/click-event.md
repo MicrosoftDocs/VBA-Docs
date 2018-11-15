@@ -32,19 +32,19 @@ The  **Click** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _index_|Required. The index of the page or tab in a  **MultiPage** or **TabStrip** associated with this event.|
+| _index_|Required. The index of the page or tab in a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)** associated with this event.|
 
 ## Remarks
 
-Of the two cases where the Click event occurs, the first case applies to the  **CommandButton**, **Frame**, **Image**, **Label**, **ScrollBar**, and **SpinButton**. The second case applies to the **CheckBox**, **ComboBox**, **ListBox**, **MultiPage**, **TabStrip**, and **ToggleButton**. It also applies to an **OptionButton** when the value changes to **True**.
+Of the two cases where the Click event occurs, the first case applies to the  **[CommandButton](commandbutton-control.md)**, **[Frame](frame-control.md)**, **[Image](image-control.md)**, **[Label](label-control.md)**, **[ScrollBar](scrollbar-control.md)**, and **[SpinButton](spinbutton-control.md)**. The second case applies to the **[CheckBox](checkbox-control.md)**, **[ComboBox](combobox-control.md)**, **[ListBox](listbox-control.md)**, **[MultiPage](multipage-control.md)**, **[TabStrip](tabstrip-control.md)**, and **[ToggleButton](togglebutton-control.md)**. It also applies to an **[OptionButton](optionbutton-control.md)** when the value changes to **True**.
 The following are examples of actions that initiate the Click event:
 
 
 - Clicking a blank area of a form or a disabled control (other than a list box) on the form.
     
-- Clicking a  **CommandButton**. If the command button doesn't already have the [focus](../../Glossary/vbe-glossary.md#focus), the Enter event occurs before the Click event.
+- Clicking a  **[CommandButton](commandbutton-control.md)**. If the command button doesn't already have the [focus](../../Glossary/vbe-glossary.md#focus), the Enter event occurs before the Click event.
     
-- Pressing the SPACEBAR when a  **CommandButton** has the focus.
+- Pressing the SPACEBAR when a  **[CommandButton](commandbutton-control.md)** has the focus.
     
 - Clicking a control.
     
@@ -68,13 +68,13 @@ When the Click event results from clicking a control, the sequence of events lea
 For some controls, the Click event occurs when the  **Value** property changes. However, using the Change event is the preferred technique for detecting a new value for a property. The following are examples of actions that initiate the Click event due to assigning a new value to a control:
 
 
-- Clicking a different page or tab in a  **MultiPage** or **TabStrip**. The **Value** property for these controls reflects the current **Page** or **Tab**. Clicking the current page or tab does not change the control's value and does not initiate the Click event.
+- Clicking a different page or tab in a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**. The **Value** property for these controls reflects the current **Page** or **Tab**. Clicking the current page or tab does not change the control's value and does not initiate the Click event.
     
-- Clicking a  **CheckBox** or **ToggleButton**, pressing the SPACEBAR when one of these controls has the focus, pressing the accelerator key for one of these controls, or changing the value of the control in code.
+- Clicking a  **[CheckBox](checkbox-control.md)** or **[ToggleButton](togglebutton-control.md)**, pressing the SPACEBAR when one of these controls has the focus, pressing the accelerator key for one of these controls, or changing the value of the control in code.
     
-- Changing the value of an  **OptionButton** to **True**. Setting one **OptionButton** in a group to **True** sets all other buttons in the group to **False**, but the Click event occurs only for the button whose value changes to **True**.
+- Changing the value of an  **[OptionButton](optionbutton-control.md)** to **True**. Setting one **[OptionButton](optionbutton-control.md)** in a group to **True** sets all other buttons in the group to **False**, but the Click event occurs only for the button whose value changes to **True**.
     
-- Selecting a value for a  **ComboBox** or **ListBox** so that it unquestionably matches an item in the control's drop-down list. For example, if a list is not sorted, the first match for characters typed in the edit region may not be the only match in the list, so choosing such a value does not initiate the Click event. In a sorted list, you can use entry-matching to ensure that a selected value is a unique match for text the user types.
+- Selecting a value for a  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)** so that it unquestionably matches an item in the control's drop-down list. For example, if a list is not sorted, the first match for characters typed in the edit region may not be the only match in the list, so choosing such a value does not initiate the Click event. In a sorted list, you can use entry-matching to ensure that a selected value is a unique match for text the user types.
     
 
 The Click event is not initiated when  **Value** is set to **Null**.

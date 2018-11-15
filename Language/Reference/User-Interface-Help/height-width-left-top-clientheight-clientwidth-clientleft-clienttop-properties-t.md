@@ -1,32 +1,28 @@
 ---
-title: Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example
+title: Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop properties example
 keywords: fm20.chm5225172
 f1_keywords:
 - fm20.chm5225172
 ms.prod: office
 ms.assetid: 26dd7b87-09f1-6f80-0966-913bc39635bd
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop Properties, TabStrip, Image Control Example
+# Height, Width, Left, Top, ClientHeight, ClientWidth, ClientLeft, ClientTop properties, TabStrip, Image control example
 
-The following example sets the dimensions of an  **Image** to the size of a **TabStrip's** client area when the user clicks a **CommandButton**. This code sample uses the following properties: **Height**, **Left**, **Top**, **Width**, **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth**.
+The following example sets the dimensions of an **[Image](image-control.md)** to the size of a **[TabStrip](tabstrip-control.md)** client area when the user clicks a **[CommandButton](commandbutton-control.md)**. 
+
+This code sample uses the following properties: **[Height and Width](height-width-properties.md)**, **[Left and Top](left-top-properties.md)**, and **[ClientHeight, ClientLeft, ClientTop, and ClientWidth](clientheight-clientleft-clienttop-clientwidth-properties.md)**.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-
-- A  **CommandButton** named CommandButton1.
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
-- A  **TabStrip** named TabStrip1.
+- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
     
-- An  **Image** named Image1.
+- An **[Image](image-control.md)** named Image1.
     
-
-
-
 
 ```vb
 Private Sub UserForm_Initialize() 
@@ -36,7 +32,7 @@ Private Sub UserForm_Initialize()
 End Sub
 ```
 
-
+<br/>
 
 
 ```vb

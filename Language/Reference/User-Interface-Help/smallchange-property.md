@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Specifies the amount of movement that occurs when the user clicks either scroll arrow in a  **ScrollBar** or **SpinButton**.
+Specifies the amount of movement that occurs when the user clicks either scroll arrow in a  **[ScrollBar](scrollbar-control.md)** or **[SpinButton](spinbutton-control.md)**.
 
 ## Syntax
 

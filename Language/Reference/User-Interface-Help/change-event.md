@@ -32,21 +32,21 @@ The Change event occurs when the setting of the  **Value** property changes, reg
 Here are some examples of actions that change the  **Value** property:
 
 
-- Clicking a  **CheckBox**, **OptionButton**, or **ToggleButton**.
+- Clicking a  **[CheckBox](checkbox-control.md)**, **[OptionButton](optionbutton-control.md)**, or **[ToggleButton](togglebutton-control.md)**.
     
-- Entering or selecting a new text value for a  **ComboBox**, **ListBox**, or **TextBox**.
+- Entering or selecting a new text value for a  **[ComboBox](combobox-control.md)**, **[ListBox](listbox-control.md)**, or **[TextBox](textbox-control.md)**.
     
-- Selecting a different tab on a  **TabStrip**.
+- Selecting a different tab on a  **[TabStrip](tabstrip-control.md)**.
     
-- Moving the scroll box in a  **ScrollBar**.
+- Moving the scroll box in a  **[ScrollBar](scrollbar-control.md)**.
     
-- Clicking the up arrow or down arrow on a  **SpinButton**.
+- Clicking the up arrow or down arrow on a  **[SpinButton](spinbutton-control.md)**.
     
-- Selecting a different page on a  **MultiPage**.
+- Selecting a different page on a  **[MultiPage](multipage-control.md)**.
 
 ## Remarks
 
-The Change event procedure can synchronize or coordinate data displayed among controls. For example, you can use the Change event procedure of a  **ScrollBar** to update the contents of a **TextBox** that displays the value of the **ScrollBar**. Or you can use a Change event procedure to display data and formulas in a work area and results in another area.
+The Change event procedure can synchronize or coordinate data displayed among controls. For example, you can use the Change event procedure of a  **[ScrollBar](scrollbar-control.md)** to update the contents of a **[TextBox](textbox-control.md)** that displays the value of the **[ScrollBar](scrollbar-control.md)**. Or you can use a Change event procedure to display data and formulas in a work area and results in another area.
 
  **Note**  In some cases, the Click event may also occur when the  **Value** property changes. However, using the Change event is the preferred technique for detecting a new value for a property.
 

@@ -40,5 +40,5 @@ The settings for  _fmTextAlign_ are:
 
 ## Remarks
 
-For a  **ComboBox**, the **TextAlign** property only affects the edit region; this property has no effect on the alignment of text in the list. For stand-alone labels, **TextAlign** determines the alignment of the label's caption.
+For a  **[ComboBox](combobox-control.md)**, the **TextAlign** property only affects the edit region; this property has no effect on the alignment of text in the list. For stand-alone labels, **TextAlign** determines the alignment of the label's caption.
 

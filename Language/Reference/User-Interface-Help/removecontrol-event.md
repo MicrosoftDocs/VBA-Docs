@@ -27,7 +27,7 @@ The  **RemoveControl** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** that contained the deleted control.|
+| _index_|Required. The index of the page in a  **[MultiPage](multipage-control.md)** that contained the deleted control.|
 | _ctrl_|Required. The deleted control.|
 
 ## Remarks

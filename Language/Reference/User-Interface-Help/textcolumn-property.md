@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Identifies the column in a  **ComboBox** or **ListBox** to store in the **Text** property when the user selects a row.
+Identifies the column in a  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)** to store in the **Text** property when the user selects a row.
 
 ## Syntax
 
@@ -34,6 +34,6 @@ Values for the  **TextColumn** property range from -1 to the number of columns i
 ## Remarks
 
 In a combo box, the system displays the column designated by the  **TextColumn** property in the text box portion of the control.
-When the user selects a row from a  **ComboBox** or **ListBox**, the column referenced by **TextColumn** is stored in the **Text** property.For example, you could set up a multicolumn **ListBox** that contains the names of holidays in one column and dates for the holidays in a second column. To present the holiday names to users, specify the first column as the **TextColumn**. To store the dates of the holidays, specify the second column as the **BoundColumn**. To hide the dates of the holidays, set the **ColumnWidths** property of the sceond column to zero.
-When the  **Text** property of a **ComboBox** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **TextColumn**.
+When the user selects a row from a  **[ComboBox](combobox-control.md)** or **[ListBox](listbox-control.md)**, the column referenced by **TextColumn** is stored in the **Text** property.For example, you could set up a multicolumn **[ListBox](listbox-control.md)** that contains the names of holidays in one column and dates for the holidays in a second column. To present the holiday names to users, specify the first column as the **TextColumn**. To store the dates of the holidays, specify the second column as the **BoundColumn**. To hide the dates of the holidays, set the **ColumnWidths** property of the sceond column to zero.
+When the  **Text** property of a **[ComboBox](combobox-control.md)** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **TextColumn**.
 

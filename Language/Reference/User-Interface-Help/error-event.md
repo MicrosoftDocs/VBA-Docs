@@ -27,7 +27,7 @@ The  **Error** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
+| _index_|Required. The index of the page in a  **[MultiPage](multipage-control.md)** associated with this event.|
 | _Number_|Required. Specifies a unique value that the control uses to identify the error.|
 | _Description_|Required. A textual description of the error.|
 | _SCode_|Required. Specifies the [OLE status code](../../Glossary/glossary-vba.md#ole-status-code) for the error. The low-order 16 bits specify a value that is identical to the _Number_ argument.|

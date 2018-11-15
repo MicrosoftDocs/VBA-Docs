@@ -13,14 +13,14 @@ ms.date: 08/24/2018
 
 # StartUpPosition property
 
-Returns or sets a value specifying the position of a **UserForm** when it first appears.
+Returns or sets a value specifying the position of a **[UserForm](userform-window.md)** when it first appears.
 You can use one of four settings for **StartUpPosition**:
 
 
 |**Setting**|**Value**|**Description**|
 |:-----|:-----|:-----|
 |**Manual**|0|No initial setting specified.|
-|**CenterOwner**|1|Center on the item to which the **UserForm** belongs.|
+|**CenterOwner**|1|Center on the item to which the **[UserForm](userform-window.md)** belongs.|
 |**CenterScreen**|2|Center on the whole screen.|
 |**WindowsDefault**|3|Position in upper-left corner of screen.|
 

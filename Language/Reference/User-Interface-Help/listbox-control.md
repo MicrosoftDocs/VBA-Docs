@@ -17,12 +17,12 @@ Displays a list of values and lets you select one or more.
 
 ## Remarks
 
-If the  **ListBox** is [bound](../../Glossary/glossary-vba.md#bound) to a [data source](../../Glossary/glossary-vba.md#data-source), then the  **ListBox** stores the selected value in that data source.
-The  **ListBox** can either appear as a list or as a group of **OptionButton** controls or **CheckBox** controls.
-The default property for a  **ListBox** is the **Value** property.
-The default event for a  **ListBox** is the Click event.
+If the  **[ListBox](listbox-control.md)** is [bound](../../Glossary/glossary-vba.md#bound) to a [data source](../../Glossary/glossary-vba.md#data-source), then the  **[ListBox](listbox-control.md)** stores the selected value in that data source.
+The  **[ListBox](listbox-control.md)** can either appear as a list or as a group of **[OptionButton](optionbutton-control.md)** controls or **[CheckBox](checkbox-control.md)** controls.
+The default property for a  **[ListBox](listbox-control.md)** is the **Value** property.
+The default event for a  **[ListBox](listbox-control.md)** is the Click event.
 
- **Note**  You can't drop text into a drop-down  **ListBox**.
+ **Note**  You can't drop text into a drop-down  **[ListBox](listbox-control.md)**.
 
 
 ## Related Topics

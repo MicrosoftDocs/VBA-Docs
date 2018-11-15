@@ -27,7 +27,7 @@ The  **Zoom** event syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object name.|
-| _index_|Required. The index of the page in a  **MultiPage** associated with this event.|
+| _index_|Required. The index of the page in a  **[MultiPage](multipage-control.md)** associated with this event.|
 | _Percent_|Required. The percentage the form is to be zoomed. Valid values range from 10 percent to 400 percent.|
 
 ## Remarks

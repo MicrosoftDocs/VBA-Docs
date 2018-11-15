@@ -1,33 +1,34 @@
 ---
-title: GetFormat, GetText, SetText Methods Example
+title: GetFormat, GetText, SetText methods example
 keywords: fm20.chm5225166
 f1_keywords:
 - fm20.chm5225166
 ms.prod: office
 ms.assetid: b17140cb-ab27-0073-8d7f-47eb91e31364
-ms.date: 06/08/2017
+ms.date: 11/14/2018
 ---
 
 
-# GetFormat, GetText, SetText Methods Example
+# GetFormat, GetText, SetText methods example
 
-The following example uses the  **GetFormat**, **GetText**, and **SetText** methods to transfer text between a **DataObject** and the Clipboard.
+The following example uses the **[GetFormat](getformat-method.md)**, **[GetText](gettext-method-microsoft-forms.md)**, and **[SetText](settext-method.md)** methods to transfer text between a **[DataObject](dataobject-object.md)** and the Clipboard.
 
-The user types text into a  **TextBox** and then can transfer it to a **DataObject** in a standard text format by clicking CommandButton1. Clicking CommandButton2 retrieves the text from the **DataObject**. Clicking CommandButton3 copies text from TextBox1 to the **DataObject** in a custom format. Clicking CommandButton4 retrieves the text from the **DataObject** in a custom format.
+The user types text into a **[TextBox](textbox-control.md)** and then can transfer it to a **DataObject** in a standard text format by clicking CommandButton1. 
+
+Clicking CommandButton2 retrieves the text from the **DataObject**. 
+
+Clicking CommandButton3 copies text from TextBox1 to the **DataObject** in a custom format. 
+
+Clicking CommandButton4 retrieves the text from the **DataObject** in a custom format.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-
-
-- A  **TextBox** named TextBox1.
+- A **[TextBox](textbox-control.md)** named TextBox1.
     
-- Four  **CommandButton** controls named CommandButton1 through CommandButton4.
+- Four **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton4.
     
-- A  **Label** named Label1.
+- A **[Label](label-control.md)** named Label1.
     
-
-
-
 
 ```vb
 Dim MyDataObject As DataObject 
