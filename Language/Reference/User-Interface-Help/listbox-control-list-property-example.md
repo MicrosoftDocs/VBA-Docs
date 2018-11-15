@@ -17,7 +17,7 @@ The following example swaps columns of a multicolumn **[ListBox](listbox-control
     
 - To initially load the **ListBox** with values from an array. In this usage, **List** has no subscripts.
     
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[ListBox](listbox-control.md)** named ListBox1 and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **ListBox** named ListBox1 and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
 
 
 

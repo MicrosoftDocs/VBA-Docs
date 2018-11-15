@@ -19,7 +19,7 @@ To use this example, follow these steps:
 
 1. Copy this sample code (except for the last event subroutine) to the Declarations portion of a form.
     
-2. Add a large **[TextBox](textbox-control.md)** named TextBox1, a **[ToggleButton](togglebutton-control.md)** named ToggleButton1, and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
+2. Add a large **TextBox** named TextBox1, a **[ToggleButton](togglebutton-control.md)** named ToggleButton1, and a **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 3. Insert a second form into this project named UserForm2.
     

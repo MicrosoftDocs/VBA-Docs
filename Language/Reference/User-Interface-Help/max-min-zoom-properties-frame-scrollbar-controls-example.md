@@ -19,15 +19,11 @@ This example also uses the **[Max and Min](max-min-properties.md)** properties t
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
-    
-- A second **Label** named Label2.
-    
-- A **[Frame](frame-control.md)** named Frame1.
-    
-- A **[TextBox](textbox-control.md)** named TextBox1 that is located inside Frame1.
+- A **[Label](label-control.md)** named Label1.    
+- A **ScrollBar** named ScrollBar1.   
+- A second **Label** named Label2.    
+- A **Frame** named Frame1.    
+- A **TextBox** named TextBox1 that is located inside Frame1.
     
 
 ```vb

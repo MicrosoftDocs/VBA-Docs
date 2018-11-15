@@ -15,10 +15,8 @@ The following example demonstrates a **[Font](font-object-microsoft-forms.md)** 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- Four **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.
-    
+- A **[Label](label-control.md)** named Label1.   
+- Four **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 through ToggleButton4.    
 - A second **Label** and a **[TextBox](textbox-control.md)** named Label2 and TextBox1.
     
 

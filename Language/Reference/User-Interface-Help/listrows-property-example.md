@@ -15,10 +15,8 @@ The following example uses a **[SpinButton](spinbutton-control.md)** to control 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
-    
+- A **ComboBox** named ComboBox1.   
+- A **SpinButton** named SpinButton1.   
 - A **[Label](label-control.md)** named Label1.
     
 

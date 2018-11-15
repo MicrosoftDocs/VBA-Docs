@@ -17,12 +17,9 @@ The user specifies the size for the form by using the **[SpinButton](spinbutton-
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
+- A **Label** named Label1.   
+- A **SpinButton** named SpinButton1.   
+- A **CommandButton** named CommandButton1.   
 - Other controls placed near the edges of the form.
     
 

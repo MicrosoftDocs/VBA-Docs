@@ -17,9 +17,8 @@ In this example, the user specifies whether the text portion of a **ComboBox** m
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- A **[CheckBox](checkbox-control.md)** named CheckBox1.
+- A **ComboBox** named ComboBox1.   
+- A **CheckBox** named CheckBox1.
     
 
 ```vb

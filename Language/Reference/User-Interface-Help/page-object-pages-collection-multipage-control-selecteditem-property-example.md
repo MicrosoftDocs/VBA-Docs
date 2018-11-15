@@ -23,7 +23,7 @@ The following example accesses an individual page of a **[MultiPage](multipage-c
     
 - Using the **[SelectedItem](selecteditem-property.md)** property.
     
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[MultiPage](multipage-control.md)** named MultiPage1.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **MultiPage** named MultiPage1.
 
 
 ```vb

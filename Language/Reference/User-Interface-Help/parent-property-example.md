@@ -15,10 +15,8 @@ The following example uses the **[Parent](parent-propertya-microsoft-forms.md)**
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[Label](label-control.md)** controls named Label1 and Label2.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
+- Two **[Label](label-control.md)** controls named Label1 and Label2.   
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.   
 - One or more additional controls of your choice.
     
 

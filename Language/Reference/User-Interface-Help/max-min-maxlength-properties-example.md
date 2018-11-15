@@ -15,12 +15,9 @@ The following example demonstrates the **[Max and Min](max-min-properties.md)** 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1 and a **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **Label** named Label2 and a **TextBox** named TextBox2.
-    
-- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
-    
+- A **[Label](label-control.md)** named Label1 and a **[TextBox](textbox-control.md)** named TextBox1.    
+- A **Label** named Label2 and a **TextBox** named TextBox2.    
+- A **ScrollBar** named ScrollBar1.   
 - A **Label** named Label3.
     
 

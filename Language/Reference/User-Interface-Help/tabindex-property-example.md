@@ -17,18 +17,12 @@ The user can also click on a control to display its **TabIndex**. The User can c
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[Frame](frame-control.md)** named Frame1.
-    
-- A **TextBox** in the **Frame** named TextBox2.
-    
-- Two **[CommandButton](commandbutton-control.md)** controls in the **Frame** named CommandButton1 and CommandButton2.
-    
-- A **[ScrollBar](scrollbar-control.md)** in the **Frame** named ScrollBar1.
-    
+- A **[Label](label-control.md)** named Label1.    
+- A **TextBox** named TextBox1.    
+- A **Frame** named Frame1.    
+- A **TextBox** in the **Frame** named TextBox2.    
+- Two **[CommandButton](commandbutton-control.md)** controls in the **Frame** named CommandButton1 and CommandButton2.   
+- A **[ScrollBar](scrollbar-control.md)** in the **Frame** named ScrollBar1.    
 - A **CommandButton** (not in the **Frame**) named CommandButton3.
     
 

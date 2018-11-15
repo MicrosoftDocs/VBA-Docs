@@ -17,9 +17,8 @@ This example assumes that the user will add, cut, and then paste the new control
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
+- Three **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton3.   
+- A **MultiPage** named MultiPage1.
 
 ```vb
 Dim MyTextBox As Control 

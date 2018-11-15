@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 This example changes the **[Accelerator](accelerator-property.md)** and **[Caption](caption-propert-microsoft-forms.md)** properties of a **[CommandButton](commandbutton-control.md)** each time the user clicks the button by using the mouse or the accelerator key. The [Click](click-event.md) event contains the code to change the **Accelerator** and **Caption** properties.
 
-To try this example, paste the code into the Declarations section of a form containing a **[CommandButton](commandbutton-control.md)** named CommandButton1.
+To try this example, paste the code into the Declarations section of a form containing a **CommandButton** named CommandButton1.
 
 
 ```vb

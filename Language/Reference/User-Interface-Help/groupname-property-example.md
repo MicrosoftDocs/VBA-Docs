@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example uses the **[GroupName](groupname-property.md)** property to create two groups of **[OptionButton](optionbutton-control.md)** controls on the same form.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains five **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton5.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains five **OptionButton** controls named OptionButton1 through OptionButton5.
 
 
 ```vb

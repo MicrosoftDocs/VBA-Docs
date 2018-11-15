@@ -23,10 +23,8 @@ Clicking CommandButton4 retrieves the text from the **DataObject** in a custom f
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- Four **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton4.
-    
+- A **TextBox** named TextBox1.   
+- Four **[CommandButton](commandbutton-control.md)** controls named CommandButton1 through CommandButton4.    
 - A **[Label](label-control.md)** named Label1.
     
 

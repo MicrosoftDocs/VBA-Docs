@@ -17,10 +17,8 @@ The user controls the value of **TripleState** through ToggleButton2. The user c
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CheckBox](checkbox-control.md)** named CheckBox1.
-    
-- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
-    
+- A **CheckBox** named CheckBox1.    
+- A **ToggleButton** named ToggleButton1.   
 - A **ToggleButton** named ToggleButton2.
     
 

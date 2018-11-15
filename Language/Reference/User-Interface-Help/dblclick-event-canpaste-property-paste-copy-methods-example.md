@@ -19,12 +19,9 @@ The user clicks CommandButton1 to copy the **ComboBox** to the Clipboard. The us
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
+- A **[TextBox](textbox-control.md)** named TextBox1.   
+- A **ComboBox** named ComboBox1.    
+- A **MultiPage** named MultiPage1.    
 - A **[CommandButton](commandbutton-control.md)** named CommandButton1.
     
 

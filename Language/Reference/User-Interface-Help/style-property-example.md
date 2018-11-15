@@ -17,9 +17,8 @@ The user chooses a style by selecting an **[OptionButton](optionbutton-control.m
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
+- Two **OptionButton** controls named OptionButton1 and OptionButton2.    
+- A **ComboBox** named ComboBox1.
     
 
 ```vb

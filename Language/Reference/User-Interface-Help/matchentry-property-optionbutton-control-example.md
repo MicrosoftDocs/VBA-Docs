@@ -17,9 +17,8 @@ In this example, the user can set the type of matching with the **[OptionButton]
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.    
+- A **ComboBox** named ComboBox1.
     
 
 ```vb

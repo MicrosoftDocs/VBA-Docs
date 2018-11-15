@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example demonstrates moving all the controls on a form by using the **[Move](move-method.md)** method with the **[Controls](controls-collection-microsoft-forms.md)** collection. The user clicks on the **[CommandButton](commandbutton-control.md)** to move the controls.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[CommandButton](commandbutton-control.md)** named CommandButton1 and several other controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **CommandButton** named CommandButton1 and several other controls.
 
 ```vb
 Private Sub CommandButton1_Click() 

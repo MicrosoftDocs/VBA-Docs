@@ -15,16 +15,11 @@ The following example uses the **[Style](style-property.md)** property to specif
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Label](label-control.md)** named Label1.
-    
-- Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1 through OptionButton3.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
-- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
-    
-- Any control inside the **TabStrip**.
-    
+- A **Label** named Label1.    
+- Three **OptionButton** controls named OptionButton1 through OptionButton3.    
+- A **MultiPage** named MultiPage1.    
+- A **TabStrip** named TabStrip1.   
+- Any control inside the **TabStrip**.   
 - Any control in each page of the **MultiPage**.
     
 

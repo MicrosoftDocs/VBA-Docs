@@ -15,14 +15,10 @@ The following example uses the **[Tag](tag-property.md)** property to store addi
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
+- A **TextBox** named TextBox1.    
+- A **CommandButton** named CommandButton1.    
+- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.    
+- A **[ComboBox](combobox-control.md)** named ComboBox1.    
 - A **[MultiPage](multipage-control.md)** named MultiPage1.
     
 

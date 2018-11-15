@@ -15,9 +15,8 @@ The following example displays the **[Count](count-property-microsoft-forms.md)*
 
 To use this example, copy this sample code to the Declarations portion of a form. The form can contain any number of controls, with the following restrictions:
 
-- Names of **[MultiPage](multipage-control.md)** controls must start with `MultiPage`.
-    
-- Names of **[TabStrip](tabstrip-control.md)** controls must start with `TabStrip`.
+- Names of **MultiPage** controls must start with `MultiPage`.   
+- Names of **TabStrip** controls must start with `TabStrip`.
     
 > [!NOTE] 
 > You can add pages to a **MultiPage** or add tabs to a **TabStrip**. In Windows, double-click the control, and then right-click in the tab area of the control and choose **New Page** from the shortcut menu.

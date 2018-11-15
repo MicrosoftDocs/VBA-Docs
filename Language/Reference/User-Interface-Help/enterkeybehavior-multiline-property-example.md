@@ -15,8 +15,7 @@ The following example uses the **[EnterKeyBehavior](enterkeybehavior-property.md
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
+- A **TextBox** named TextBox1.    
 - Two **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2.
     
 

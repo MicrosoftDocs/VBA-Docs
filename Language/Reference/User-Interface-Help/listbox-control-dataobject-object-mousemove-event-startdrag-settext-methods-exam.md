@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example demonstrates a drag-and-drop operation from one **[ListBox](listbox-control.md)** to another by using a **[DataObject](dataobject-object.md)** to contain the dragged text. This code sample uses the **[SetText](settext-method.md)** and **[StartDrag](startdrag-method.md)** methods in the **[MouseMove](mousemove-event.md)** event to implement the drag-and-drop operation.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **[ListBox](listbox-control.md)** controls named ListBox1 and ListBox2. You also need to add choices to the second **ListBox**.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2. You also need to add choices to the second **ListBox**.
 
 
 ```vb

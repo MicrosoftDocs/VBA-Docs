@@ -15,8 +15,7 @@ The following example demonstrates the **[BorderStyle](borderstyle-property.md)*
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Six **[TextBox](textbox-control.md)** controls named TextBox1 through TextBox6.
-    
+- Six **[TextBox](textbox-control.md)** controls named TextBox1 through TextBox6.    
 - Two **[ToggleButton](togglebutton-control.md)** controls named ToggleButton1 and ToggleButton2.
     
 ```vb

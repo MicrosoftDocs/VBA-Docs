@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example loads a two-dimensional array with data and, in turn, loads two **[ListBox](listbox-control.md)** controls using the **[Column](column-property.md)** and **[List](list-property-microsoft-forms.md)** properties. Note that the **Column** property transposes the array elements during loading.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **[ListBox](listbox-control.md)** controls named ListBox1 and ListBox2.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains two **ListBox** controls named ListBox1 and ListBox2.
 
 
 ```vb

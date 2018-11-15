@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example uses a page of a **[MultiPage](multipage-control.md)** as a scrolling region. The user can use the scroll bars on Page2 of the **MultiPage** to gain access to parts of the page that are not initially displayed.
 
-To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **[MultiPage](multipage-control.md)** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
+To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains a **MultiPage** named MultiPage1, and that each page of the **MultiPage** contains one or more controls.
 
 > [!NOTE] 
 > Each page of a **MultiPage** is unique. Page1 has no scroll bars. Page2 has horizontal and vertical scroll bars.

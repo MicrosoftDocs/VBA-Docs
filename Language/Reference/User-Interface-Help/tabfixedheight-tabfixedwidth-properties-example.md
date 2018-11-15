@@ -17,13 +17,13 @@ The user clicks the **[SpinButton](spinbutton-control.md)** controls to adjust t
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
+- A **MultiPage** named MultiPage1.
     
-- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
+- A **TabStrip** named TabStrip1.
     
 - A **[Label](label-control.md)** named Label1 for the width control.
     
-- A **[SpinButton](spinbutton-control.md)** named SpinButton1 for the width control.
+- A **SpinButton** named SpinButton1 for the width control.
     
 - A **[TextBox](textbox-control.md)** named TextBox1 for the width control.
     

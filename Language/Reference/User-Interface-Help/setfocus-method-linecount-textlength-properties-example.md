@@ -17,10 +17,8 @@ In this example, the user can type into a **TextBox**, and can retrieve current 
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains the following controls:
 
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
+- A **TextBox** named TextBox1.   
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.    
 - Two **[Label](label-control.md)** controls named Label1 and Label2.
     
 

@@ -15,10 +15,8 @@ The following example demonstrates how the **[BoundColumn](boundcolumn-property.
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
-- A **[Label](label-control.md)** named Label1.
-    
+- A **ListBox** named ListBox1.   
+- A **[Label](label-control.md)** named Label1.   
 - Three **[OptionButton](optionbutton-control.md)** controls named OptionButton1, OptionButton2, and OptionButton3.
     
 

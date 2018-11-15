@@ -17,30 +17,18 @@ The user chooses a control by pressing Tab or by clicking the control. Depending
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[TextBox](textbox-control.md)** named TextBox1.
-    
-- A **[CheckBox](checkbox-control.md)** named CheckBox1.
-    
-- A **[ComboBox](combobox-control.md)** named ComboBox1.
-    
-- A **CommandButton** named CommandButton2.
-    
-- A **[ListBox](listbox-control.md)** named ListBox1.
-    
-- A **[MultiPage](multipage-control.md)** named MultiPage1.
-    
-- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.
-    
-- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.
-    
-- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
-    
-- A **[TabStrip](tabstrip-control.md)** named TabStrip1.
-    
-- A **TextBox** named TextBox2.
-    
+- A **CommandButton** named CommandButton1.   
+- A **[TextBox](textbox-control.md)** named TextBox1.    
+- A **[CheckBox](checkbox-control.md)** named CheckBox1.   
+- A **[ComboBox](combobox-control.md)** named ComboBox1.    
+- A **CommandButton** named CommandButton2.   
+- A **[ListBox](listbox-control.md)** named ListBox1.   
+- A **[MultiPage](multipage-control.md)** named MultiPage1.   
+- Two **[OptionButton](optionbutton-control.md)** controls named OptionButton1 and OptionButton2.   
+- A **[ScrollBar](scrollbar-control.md)** named ScrollBar1.   
+- A **[SpinButton](spinbutton-control.md)** named SpinButton1.    
+- A **[TabStrip](tabstrip-control.md)** named TabStrip1.   
+- A **TextBox** named TextBox2.   
 - A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
 

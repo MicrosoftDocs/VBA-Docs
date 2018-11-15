@@ -15,10 +15,8 @@ The following example uses the **[PictureAlignment](picturealignment-property.md
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[Frame](frame-control.md)** named Frame1.
-    
-- A **[SpinButton](spinbutton-control.md)** named SpinButton1.
-    
+- A **[Frame](frame-control.md)** named Frame1.    
+- A **[SpinButton](spinbutton-control.md)** named SpinButton1.   
 - A **[TextBox](textbox-control.md)** named TextBox1.
     
 

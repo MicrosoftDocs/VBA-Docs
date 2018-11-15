@@ -15,8 +15,7 @@ The following example sets the [z-order](zorder-method.md) of a **[TextBox](text
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Three **[TextBox](textbox-control.md)** controls named TextBox1 through TextBox3.
-    
+- Three **TextBox** controls named TextBox1 through TextBox3.   
 - A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
     
 

@@ -17,8 +17,7 @@ The user clicks the **[CommandButton](commandbutton-control.md)** labeled **Move
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- Two **[CommandButton](commandbutton-control.md)** controls named CommandButton1 and CommandButton2.
-    
+- Two **CommandButton** controls named CommandButton1 and CommandButton2.    
 - A **[ComboBox](combobox-control.md)** named ComboBox1.
     
 

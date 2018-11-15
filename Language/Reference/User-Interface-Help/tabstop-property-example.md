@@ -15,10 +15,8 @@ The following example uses the **[TabStop](tabstop-property-vbe-dev.md)** proper
 
 To use this example, copy this sample code to the Declarations portion of a form. Make sure that the form contains:
 
-- A **[CommandButton](commandbutton-control.md)** named CommandButton1.
-    
-- A **[ToggleButton](togglebutton-control.md)** named ToggleButton1.
-    
+- A **[CommandButton](commandbutton-control.md)** named CommandButton1.    
+- A **ToggleButton** named ToggleButton1.    
 - One or two other controls, such as an **[OptionButton](optionbutton-control.md)** or **[ListBox](listbox-control.md)**.
     
 
