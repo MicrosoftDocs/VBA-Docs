@@ -29,7 +29,7 @@ The  **UserControl** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The current application was started by the user.|
 |**False**|The current application was started by another application with Automation.|

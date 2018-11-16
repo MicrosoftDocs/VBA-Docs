@@ -29,7 +29,7 @@ The setting for the  **MousePointer** property is an **Integer** value represent
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|(Default) The shape is determined by Microsoft Access|
 |1|Normal Select (Arrow)|

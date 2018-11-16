@@ -22,7 +22,7 @@ You can use the **Indexed** property to set a single-field index. An index speed
 
 The **Indexed** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |No|(Default) No index.|
 |Yes (Duplicates OK)|The index allows duplicates.|

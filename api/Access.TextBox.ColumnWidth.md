@@ -29,7 +29,7 @@ In Visual Basic , the  **ColumnWidth** property setting is an **Integer** value 
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Hides the column.|
 |?1|(Default) Sizes the column to the default width.|

@@ -26,7 +26,7 @@ You can use the **UniqueValues** property when you want to omit records that con
 
 The **UniqueValues** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Yes|Displays only the records in which the values of all fields displayed in Datasheet view are unique.|
 |No|(Default) Displays all records.|

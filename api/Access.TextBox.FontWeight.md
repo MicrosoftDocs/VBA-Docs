@@ -30,7 +30,7 @@ These properties are only available in [Visual Basic](../access/Concepts/Setting
 
 In Visual Basic, the **DatasheetFontWeight** property setting uses the following **Integer** values.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |100|Thin|
 |200|Extra Light|

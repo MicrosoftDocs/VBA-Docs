@@ -29,7 +29,7 @@ The  **LabelAlign** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|(Default) The label text aligns to the left.|
 |1|The label text aligns to the left.|

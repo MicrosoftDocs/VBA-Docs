@@ -20,7 +20,7 @@ You can set the **Format** property to predefined number formats or custom numbe
 
 The following table shows the predefined **Format** property settings for numbers.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |General Number|(Default) Display the number as entered.|
 |Currency|Use the thousand separator; follow the settings specified in the regional settings of Windows for negative amounts, decimal and currency symbols, and decimal places.|
@@ -88,7 +88,7 @@ The following are examples of the predefined number formats.
 
 The following are examples of custom number formats.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is **Null**.|
 |+0.0;-0.0;0.0|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|

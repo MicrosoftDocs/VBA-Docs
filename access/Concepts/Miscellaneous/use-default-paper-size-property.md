@@ -21,7 +21,7 @@ You can use the **Use Default Paper Size** property to specify whether or not th
 
 The **Use Default Paper Size** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**Yes**|Use the default paper size of the current printer when printing the form or report.|
 |**No**|(Default) Use the paper size specified when the form or report was designed when printing the form or report.|

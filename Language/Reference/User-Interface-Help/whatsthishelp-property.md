@@ -22,7 +22,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value that
 The settings for the  **WhatsThisHelp** property are:
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The application uses one of the What's This access techniques to start Windows Help and load a topic identified by the  **WhatsThisHelpID** property.|
 |**False**|(Default) The application uses the F1 key to start Windows Help and load the topic identified by the  **HelpContextID** property.|

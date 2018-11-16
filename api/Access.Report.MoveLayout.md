@@ -29,7 +29,7 @@ The  **MoveLayout** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|(Default) The section's  **Left** and **Top** properties are advanced to the next print location.|
 |**False**|The section's  **Left** and **Top** properties are unchanged.|

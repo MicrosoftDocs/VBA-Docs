@@ -28,7 +28,7 @@ The **DateAdd** function syntax has these [named arguments](../../Glossary/vbe-g
 
 The **_interval_** [argument](../../Glossary/vbe-glossary.md#argument) has these settings:
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |yyyy|Year|
 |q|Quarter|

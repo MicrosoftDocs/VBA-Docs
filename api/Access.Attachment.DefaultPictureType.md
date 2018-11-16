@@ -29,7 +29,7 @@ The  **DefaultPictureType** property uses the following settings.
 
 
 
-|**Setting**|**Value**|**Meaning**|
+|Setting|Value|Meaning|
 |:-----|:-----|:-----|
 |Embedded (Default)|0|The image is embedded with the specified  **Attachment** control.|
 |Linked|1|The image is stored outside of the database.|

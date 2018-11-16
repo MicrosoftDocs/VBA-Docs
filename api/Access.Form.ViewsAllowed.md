@@ -29,7 +29,7 @@ The  **ViewsAllowed** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|(Default) Users can switch between Form view and Datasheet view.|
 |1|Users can't switch to Datasheet view from Form view.|

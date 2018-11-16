@@ -30,7 +30,7 @@ The  **IMESentenceMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|**Visual Basic**|
+|Setting|Description|Visual Basic|
 |:-----|:-----|:-----|
 |Normal|(Default) Set IME Sentence Mode to ?Normal? mode.|0|
 |Plural|Set IME Sentence Mode to ?Plural? mode.|1|

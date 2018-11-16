@@ -29,7 +29,7 @@ The  **DrawStyle** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|(Default) Solid line, transparent interior|
 |1|Dash, transparent interior|

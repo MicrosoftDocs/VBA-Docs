@@ -22,7 +22,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value that
 The settings for the  **WhatsThisButton** property are:
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|Turns on display of the  **What's This Help** button.|
 |**False**|(Default) Turns off display of the  **What's This Help** button.|

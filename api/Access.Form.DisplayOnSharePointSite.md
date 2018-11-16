@@ -29,7 +29,7 @@ The  **DisplayOnSharePointSite** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Do Not Display|Do not make the form an available view. |
 |Follow Table Setting|(Default) Make the form available as a view if the form's parent table is configured to be displayed as a view.|

@@ -29,7 +29,7 @@ The  **IMEHold/Hold KanjiConversionMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |True|Maintains the Kanji Conversion Mode set in the last control.|
 |False|Does not maintain the Kanji Conversion Mode set in the last control (default).|

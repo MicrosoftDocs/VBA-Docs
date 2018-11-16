@@ -48,7 +48,7 @@ If you specify the width for some columns but leave the setting for others blank
 
 For example, the following settings are applied to a 4-inch list box with three columns.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |`1.5 in;0;2.5 in`|The first column is 1.5 inches, the second column is hidden, and the third column is 2.5 inches.|
 |`2 in;;2 in`|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|

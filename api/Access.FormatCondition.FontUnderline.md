@@ -37,7 +37,7 @@ The  **FontUnderline** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The text is underlined.|
 |**False**|(Default) The text isn't underlined.|

@@ -29,7 +29,7 @@ The  **ScaleMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Custom values used by one or more of the  **ScaleHeight**, **ScaleWidth**, **ScaleLeft**, and **ScaleTop** properties|
 |1|(Default) Twips|

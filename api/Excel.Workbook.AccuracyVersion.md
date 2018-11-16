@@ -34,7 +34,7 @@ By default, some of the worksheet functions from Excel 2007 and earlier versions
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Use the latest, most accurate algorithms (default)|
 |1|Use Excel 2007 or earlier version algorithms|

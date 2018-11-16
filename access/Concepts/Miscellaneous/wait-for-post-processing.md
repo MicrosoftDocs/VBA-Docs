@@ -24,7 +24,7 @@ The  **Wait For Post Processing** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**Yes**|Wait until processing of any operations triggered by a user change to form data is complete before proceeding with the next operation.|
 |**No**|(Default) Does not wait until processing of any operations triggered by a user change to form data is complete before proceeding with the next operation.|

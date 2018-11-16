@@ -29,7 +29,7 @@ The  **FillStyle** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0|Opaque|
 |1|(Default) Transparent|
