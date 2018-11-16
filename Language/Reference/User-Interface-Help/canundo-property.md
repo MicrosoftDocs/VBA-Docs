@@ -19,7 +19,7 @@ Indicates whether the last user action can be undone.
 
 _object_. **CanUndo**
 
-The  **CanUndo** property syntax has these parts:
+The **CanUndo** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -40,3 +40,8 @@ The **CanUndo** property return values are:
 
 Many user actions can be undone with the Undo command. The **CanUndo** property indicates whether the most recent action can be undone.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

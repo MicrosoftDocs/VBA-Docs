@@ -24,7 +24,7 @@ The settings for  **Value** are:
 
 
 
-|**Control**|**Description**|
+|Control|Description|
 |:-----|:-----|
 |Null|Indicates the item is in a null state, neither selected nor cleared.|
 |True| Indicates the item is selected.|

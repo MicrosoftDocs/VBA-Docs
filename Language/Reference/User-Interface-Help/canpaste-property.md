@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CanPaste
 ms.assetid: 697a2f98-8c42-663c-9ff7-0330d3977c43
-ms.date: 06/08/2017
+ms.date: 11/15/2018
 ---
 
 
@@ -27,7 +27,7 @@ The **CanPaste** property syntax has these parts:
 
 ## Return values
 
-The  **CanPaste** property return values are:
+The **CanPaste** property return values are:
 
 |Value|Description|
 |:-----|:-----|
@@ -42,4 +42,7 @@ If the Clipboard data is in a format that the current [target](../../Glossary/gl
 
 ## See also
 
-- [GetFormat method](./getformat-method.md)
+- [GetFormat method](getformat-method.md)
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
