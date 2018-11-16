@@ -1,5 +1,5 @@
 ---
-title: VerticalScrollbarSide Property
+title: VerticalScrollbarSide property
 keywords: fm20.chm5225112
 f1_keywords:
 - fm20.chm5225112
@@ -7,21 +7,19 @@ ms.prod: office
 api_name:
 - Office.VerticalScrollbarSide
 ms.assetid: 0439743b-3774-5778-7022-dbeea5ef8c39
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
-# VerticalScrollbarSide Property
-
-
+# VerticalScrollbarSide property
 
 Specifies whether a vertical scroll bar appears on the right or left side of a form or page.
 
 ## Syntax
 
 _object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
-The  **VerticalScrollbarSide** property syntax has these parts:
 
+The **VerticalScrollbarSide** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **VerticalScrollbarSide** property syntax has these parts:
 | _fmVerticalScrollbarSide_|Optional. Where the scroll bar should appear.|
 
 ## Settings
-The settings for  _fmVerticalScrollbarSide_ are:
 
+The settings for _fmVerticalScrollbarSide_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -39,5 +37,10 @@ The settings for  _fmVerticalScrollbarSide_ are:
 
 ## Remarks
 
-The  **VerticalScrollBarSide** property is particularly useful if the form will be used in an environment where reading occurs from right to left.
+The **VerticalScrollBarSide** property is particularly useful if the form will be used in an environment where reading occurs from right to left.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

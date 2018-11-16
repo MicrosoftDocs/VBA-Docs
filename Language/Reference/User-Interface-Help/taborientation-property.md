@@ -1,5 +1,5 @@
 ---
-title: TabOrientation Property
+title: TabOrientation property 
 keywords: fm20.chm5225100
 f1_keywords:
 - fm20.chm5225100
@@ -7,21 +7,19 @@ ms.prod: office
 api_name:
 - Office.TabOrientation
 ms.assetid: dc84899d-2c50-56d2-5178-f8bfaefaa165
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
-# TabOrientation Property
+# TabOrientation property 
 
-
-
-Specifies the location of the tabs on a  **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**.
+Specifies the location of the tabs on a **[MultiPage](multipage-control.md)** or **[TabStrip](tabstrip-control.md)**.
 
 ## Syntax
 
 _object_. **TabOrientation** [= _fmTabOrientation_ ]
-The  **TabOrientation** property syntax has these parts:
 
+The **TabOrientation** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **TabOrientation** property syntax has these parts:
 | _fmTabOrientation_|Optional. Where the tabs will appear.|
 
 ## Settings
-The settings for  _fmTabOrientation_ are:
 
+The settings for _fmTabOrientation_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -41,5 +39,10 @@ The settings for  _fmTabOrientation_ are:
 
 ## Remarks
 
-If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
+If you use TrueType fonts, the text rotates when the **TabOrientation** property is set to **fmTabOrientationLeft** or **fmTabOrientationRight**. If you use bitmapped fonts, the text does not rotate.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)
