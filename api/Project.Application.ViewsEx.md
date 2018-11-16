@@ -32,7 +32,7 @@ Displays the  **More Views** dialog box with the specified pane of the current v
 | _ApplyTo_|Optional|**Integer**|Specifies which pane of a split view is selected. The value can be one of the following:
 |||
 |:-----|:-----|
-|**Value**|**Description**|
+|Value|Description|
 |0|Primary (usually the top) pane of a split view|
 |1|Secondary (usually the bottom) pane of a split view|
 |4|Active pane|

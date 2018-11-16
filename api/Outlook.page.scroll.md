@@ -33,7 +33,7 @@ The settings for  _xAction_ and _yAction_ are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Do not scroll in the specified direction.|
 |1|Move up on a vertical scroll bar or left on a horizontal scroll bar. Movement is equivalent to pressing the up or left arrow key on the keyboard to move the scroll bar.|

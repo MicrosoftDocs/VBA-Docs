@@ -17,7 +17,7 @@ Returns or sets a value specifying the position of a **[UserForm](userform-windo
 You can use one of four settings for **StartUpPosition**:
 
 
-|**Setting**|**Value**|**Description**|
+|**Setting**|Value|Description|
 |:-----|:-----|:-----|
 |**Manual**|0|No initial setting specified.|
 |**CenterOwner**|1|Center on the item to which the **[UserForm](userform-window.md)** belongs.|

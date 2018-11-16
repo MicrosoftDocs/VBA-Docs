@@ -29,7 +29,7 @@ The  **HasContinued** property is set by Microsoft Access and is read-only in al
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Part of the current section has been printed on the previous page.|
 |**False**|Part of the current section hasn't been printed on the previous page.|

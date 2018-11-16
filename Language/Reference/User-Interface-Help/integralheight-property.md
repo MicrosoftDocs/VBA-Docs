@@ -32,7 +32,7 @@ The  **IntegralHeight** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The list resizes itself to display only complete items (default).|
 |**False**|The list does not resize itself even if the item is too tall to display completely.|

@@ -31,7 +31,7 @@ The following table lists the four basic values for ligatures.
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |Standard|Designed to enhance readability and attractiveness. Standard ligatures in Latin languages include "fi", "fl", and "ff".|
 |Contextual|Designed to enhance readability and attractiveness by providing the best ligature choice given the surrounding text.|

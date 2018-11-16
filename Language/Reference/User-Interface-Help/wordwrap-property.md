@@ -32,7 +32,7 @@ The  **WordWrap** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The text wraps (default).|
 |**False**|The text does not wrap.|

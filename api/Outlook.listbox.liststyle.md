@@ -24,7 +24,7 @@ The settings for  **ListStyle** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Looks like a regular list box, with the background of items highlighted.|
 |1|Shows option buttons, or check boxes for a multi-select list (default). When the user selects an item from the group, the option button associated with that item is selected and the option buttons for the other items in the group are deselected.|

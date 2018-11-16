@@ -2,7 +2,7 @@
 title: Visual Basic language reference
 ms.prod: office
 ms.assetid: ea3d048c-6984-42a0-8a27-27172aa69620
-ms.date: 09/17/2018
+ms.date: 11/15/2018
 ---
 
 
@@ -14,6 +14,7 @@ ms.date: 09/17/2018
 - [Directives](../directives.md)
 - [Error messages](../error-messages.md)
 - [Keyword summaries](../keyword-summaries.md)
+- [Microsoft Forms](reference-microsoft-forms.md)
 - [Operators](../operators.md)
 - [Statements](../statements.md)
 - [Strings](../strings.md)

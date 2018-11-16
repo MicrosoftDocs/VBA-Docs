@@ -32,7 +32,7 @@ The  **MultiRow** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Allows more than one row of tabs.|
 |**False**|Restricts tabs to a single row (default).|

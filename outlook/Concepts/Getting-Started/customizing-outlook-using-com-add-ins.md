@@ -56,7 +56,7 @@ When the COM add-in is first registered,  **LoadBehavior** can be set to any of 
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |2|Load at startup. The COM add-in is to be loaded and connected when Outlook starts.|
 |8|Load on demand. The COM add-in is to be loaded and connected only when the user requests it, such as by using the  **COM Add-ins** dialog box.|

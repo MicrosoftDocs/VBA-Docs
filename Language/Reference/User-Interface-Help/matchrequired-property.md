@@ -32,7 +32,7 @@ The  **MatchRequired** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The text entered must match an existing list entry.|
 |**False**|The text entered can be different from all existing list entries (default).|

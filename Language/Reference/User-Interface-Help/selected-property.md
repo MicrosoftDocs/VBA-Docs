@@ -33,7 +33,7 @@ The  **Selected** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The item is selected.|
 |**False**|The item is not selected.|

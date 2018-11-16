@@ -29,7 +29,7 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0 |Text 1|
 |1 (Default)|Background 1|

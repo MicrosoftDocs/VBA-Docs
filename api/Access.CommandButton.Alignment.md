@@ -29,7 +29,7 @@ The  **Alignment** property uses the following settings.
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|General alignment.|
 |1|Left alignment.|

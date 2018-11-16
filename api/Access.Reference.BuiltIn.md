@@ -29,7 +29,7 @@ The  **BuiltIn** property is available only by using Visual Basic and is read-on
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True** (?1)|The  **Reference** object refers to a default reference that can't be removed.|
 |**False** (0)|The  **Reference** object refers to a nondefault reference that isn't necessary for Microsoft Access to function properly.|

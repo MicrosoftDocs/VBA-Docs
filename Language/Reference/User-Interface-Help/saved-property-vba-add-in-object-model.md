@@ -17,7 +17,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indi
 
 The **Saved** property returns these values:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The object has not been edited since the last time it was saved.|
 |**False**|The object has been edited since the last time it was saved.|

@@ -24,7 +24,7 @@ The settings for  **MousePointer** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Standard pointer. The image is determined by the object (default).|
 |1|Arrow.|

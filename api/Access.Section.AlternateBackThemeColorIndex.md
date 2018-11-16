@@ -29,7 +29,7 @@ The  **AlternateBackThemeColorIndex** property uses one of the values listed in 
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0 |Text 1|
 |1 |Background 1|

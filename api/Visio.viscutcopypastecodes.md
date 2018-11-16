@@ -15,7 +15,7 @@ Flags to be passed to the  **Cut** , **Copy** , or **Paste** methods.
 
 
 
-|**Flag**|**Value**|**Description**|
+|**Flag**|Value|Description|
 |:-----|:-----|:-----|
 | **visCopyPasteNormal**|&H0|Follow default copying behavior.|
 | **visCopyPasteNoTranslate**|&H1|Copy shapes to their original coordinate locations.|

@@ -1,12 +1,12 @@
 ---
-title: Properties
+title: Properties (Microsoft Forms)
 ms.prod: office
 ms.assetid: 17d0ac0c-2fec-49cf-9508-52658cbef1d4
-ms.date: 09/17/2018
+ms.date: 11/15/2018
 ---
 
 
-# Properties
+# Properties (Microsoft Forms)
 
 - [Accelerator](accelerator-property.md)
 - [ActiveControl](activecontrol-property.md)

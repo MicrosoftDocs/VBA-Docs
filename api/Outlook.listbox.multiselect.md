@@ -27,7 +27,7 @@ The settings for  **MultiSelect** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Only one item can be selected (default).|
 |1|Pressing the  **SPACEBAR** or clicking selects or deselects an item in the list.|

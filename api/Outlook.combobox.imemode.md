@@ -29,7 +29,7 @@ The settings for fmIMEMode are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Does not control IME (default).|
 |1|IME on.|

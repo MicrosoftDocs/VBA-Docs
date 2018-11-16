@@ -11,7 +11,7 @@ ms.date: 11/14/2018
 
 # Paste, PutInClipboard, SetText methods example
 
-The following example demonstrates data movement from a **[TextBox](textbox-control.md)** to a **[DataObject](dataobject-object.md)**, from a **DataObject** to the Clipboard, and from the Clipboard to another **TextBox**. 
+The following example demonstrates data movement from a **[TextBox](textbox-control.md)** to a **[DataObject](dataobject-object.md)**, from a **[DataObject](dataobject-object.md)** to the Clipboard, and from the Clipboard to another **TextBox**. 
 
 The **[PutInClipboard](putinclipboard-method.md)** method transfers the data from a **DataObject** to the Clipboard. The **[SetText](settext-method.md)** and **[Paste](paste-method-microsoft-forms.md)** methods are also used.
 

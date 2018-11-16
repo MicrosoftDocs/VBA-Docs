@@ -13,7 +13,7 @@ ms.date: 11/14/2018
 
 The following example uses the **[GetFormat](getformat-method.md)**, **[GetText](gettext-method-microsoft-forms.md)**, and **[SetText](settext-method.md)** methods to transfer text between a **[DataObject](dataobject-object.md)** and the Clipboard.
 
-The user types text into a **[TextBox](textbox-control.md)** and then can transfer it to a **DataObject** in a standard text format by clicking CommandButton1. 
+The user types text into a **[TextBox](textbox-control.md)** and then can transfer it to a **[DataObject](dataobject-object.md)** in a standard text format by clicking CommandButton1. 
 
 Clicking CommandButton2 retrieves the text from the **DataObject**. 
 

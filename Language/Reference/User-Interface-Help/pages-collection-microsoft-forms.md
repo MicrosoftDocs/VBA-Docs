@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Pages
 ms.assetid: 42400a43-7a27-e7d4-16ee-cea265482758
-ms.date: 09/17/2018
+ms.date: 11/15/2018
 ---
 
 
@@ -23,3 +23,8 @@ A **Page** object has a unique name and index value within a **Pages** collectio
 
 The default value of a **Pages** collection identifies the current **Page** of a collection.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

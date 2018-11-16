@@ -19,7 +19,7 @@ For the **CodePane** object, returns a **Boolean** value that indicates whether 
 
 The **Visible** property returns the following values:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|(Default) Object is visible.|
 |**False**|Object is hidden.|

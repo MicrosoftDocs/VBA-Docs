@@ -29,7 +29,7 @@ The  **ThemeFontIndex** property uses one of the values listed in the following 
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Header font|
 |1 (Default)|Detail font|

@@ -17,7 +17,7 @@ Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indi
 
 The **IsBroken** property returns these values:
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The **Reference** object no longer points to a valid reference in the registry.|
 |**False**|The **Reference** object points to a valid reference in the registry.|

@@ -32,7 +32,7 @@ The  **EnterKeyBehavior** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Pressing ENTER creates a new line.|
 |**False**|Pressing ENTER moves the focus to the next object in the tab order (default).|

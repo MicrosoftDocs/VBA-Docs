@@ -24,7 +24,7 @@ The settings for  **MatchEntry** are:
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Basic matching. The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
 |1|Extended matching. As each character is typed, the control searches for an entry matching all characters entered (default).|

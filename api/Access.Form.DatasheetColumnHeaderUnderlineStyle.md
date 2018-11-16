@@ -29,7 +29,7 @@ Valid values are between zero and eight. Values greater than eight are ignored; 
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|Transparent border|
 |1|Solid|

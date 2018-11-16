@@ -29,7 +29,7 @@ The  **ShowDatePicker** property.
 
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |0|The date picker control is not displayed.|
 |1|The date picker control is displayed when the text box is bound to a Date field.|

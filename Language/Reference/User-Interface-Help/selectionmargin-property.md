@@ -32,7 +32,7 @@ The  **SelectionMargin** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|Clicking in margin causes selection of text (default).|
 |**False**|Clicking in margin does not cause selection of text.|

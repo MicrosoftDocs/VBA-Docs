@@ -32,7 +32,7 @@ The  **MultiLine** property syntax has these parts:
 The settings for  _Boolean_ are:
 
 
-|**Value**|**Description**|
+|Value|Description|
 |:-----|:-----|
 |**True**|The text is displayed across multiple lines (default).|
 |**False**|The text is not displayed across multiple lines.|
