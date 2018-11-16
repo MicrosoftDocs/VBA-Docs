@@ -1,5 +1,5 @@
 ---
-title: MatchRequired Property
+title: MatchRequired property
 keywords: fm20.chm2001500
 f1_keywords:
 - fm20.chm2001500
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# MatchRequired Property
+# MatchRequired property
 
-
-
-Specifies whether a value entered in the text portion of a  **[ComboBox](combobox-control.md)** must match an entry in the existing list portion of the control. The user can enter non-matching values, but may not leave the control until a matching value is entered.
+Specifies whether a value entered in the text portion of a **[ComboBox](combobox-control.md)** must match an entry in the existing list portion of the control. The user can enter non-matching values, but may not leave the control until a matching value is entered.
 
 ## Syntax
 
 _object_. **MatchRequired** [= _Boolean_ ]
-The  **MatchRequired** property syntax has these parts:
 
+The **MatchRequired** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **MatchRequired** property syntax has these parts:
 | _Boolean_|Optional. Whether the text entered must match an existing item in the list.|
 
 ## Settings
-The settings for  _Boolean_ are:
 
+The settings for _Boolean_ are:
 
 |Value|Description|
 |:-----|:-----|
@@ -39,8 +37,14 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-If the  **MatchRequired** property is **True**, the user cannot exit the **[ComboBox](combobox-control.md)** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
+If the **MatchRequired** property is **True**, the user cannot exit the **ComboBox** until the text entered matches an entry in the existing list. **MatchRequired** maintains the integrity of the list by requiring the user to select an existing entry.
 
- **Note**  Not all [containers](../../Glossary/vbe-glossary.md#container) enforce this property.
+> [!NOTE] 
+> Not all [containers](../../Glossary/vbe-glossary.md#container) enforce this property.
 
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

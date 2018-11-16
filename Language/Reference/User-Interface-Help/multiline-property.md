@@ -1,5 +1,5 @@
 ---
-title: MultiLine Property
+title: MultiLine property 
 keywords: fm20.chm2001560
 f1_keywords:
 - fm20.chm2001560
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# MultiLine Property
-
-
+# MultiLine property 
 
 Specifies whether a control can accept and display multiple lines of text.
 
 ## Syntax
 
 _object_. **MultiLine** [= _Boolean_ ]
-The  **MultiLine** property syntax has these parts:
 
+The **MultiLine** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **MultiLine** property syntax has these parts:
 | _Boolean_|Optional. Whether the control supports more than one line of text.|
 
 ## Settings
-The settings for  _Boolean_ are:
 
+The settings for _Boolean_ are:
 
 |Value|Description|
 |:-----|:-----|
@@ -39,10 +37,17 @@ The settings for  _Boolean_ are:
 
 ## Remarks
 
-A multiline  **[TextBox](textbox-control.md)** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
-A single-line  **[TextBox](textbox-control.md)** doesn't allow absolute line breaks and doesn't use vertical scroll bars.
-Single-line controls ignore the value of the  **WordWrap** property.
+A multiline **[TextBox](textbox-control.md)** allows absolute line breaks and adjusts its quantity of lines to accommodate the amount of text it holds. If needed, a multiline control can have vertical scroll bars.
 
- **Note**  If you change  **MultiLine** to **False** in a multiline **[TextBox](textbox-control.md)**, all the characters in the **[TextBox](textbox-control.md)** will be combined into one line, including non-printing characters (such as carriage returns and new-lines).
+A single-line **TextBox** doesn't allow absolute line breaks and doesn't use vertical scroll bars.
+Single-line controls ignore the value of the **WordWrap** property.
+
+> [!NOTE] 
+> If you change **MultiLine** to **False** in a multiline **TextBox**, all the characters in the **TextBox** will be combined into one line, including non-printing characters (such as carriage returns and new-lines).
 
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

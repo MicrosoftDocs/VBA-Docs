@@ -1,5 +1,5 @@
 ---
-title: MatchEntry Property
+title: MatchEntry property
 keywords: fm20.chm5225060
 f1_keywords:
 - fm20.chm5225060
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# MatchEntry Property
+# MatchEntry property
 
-
-
-Returns or sets a value indicating how a  **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)** searches its list as the user types.
+Returns or sets a value indicating how a **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)** searches its list as the user types.
 
 ## Syntax
 
 _object_. **MatchEntry** [= _fmMatchEntry_ ]
-The  **MatchEntry** property syntax has these parts:
 
+The **MatchEntry** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **MatchEntry** property syntax has these parts:
 | _fmMatchEntry_|Optional. The rule used to match entries in the list.|
 
 ## Settings
-The settings for  _fmMatchEntry_ are:
 
+The settings for _fmMatchEntry_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -40,9 +38,18 @@ The settings for  _fmMatchEntry_ are:
 
 ## Remarks
 
-The  **MatchEntry** property searches entries from the **TextColumn** property of a **[ListBox](listbox-control.md)** or **[ComboBox](combobox-control.md)**.
-The control searches the column identified by  **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **BoundColumn** property become the value of the control. If the match is unambiguous, finding the match initiates the Click event.
+The **MatchEntry** property searches entries from the **TextColumn** property of a **ListBox** or **ComboBox**.
+
+The control searches the column identified by **TextColumn** for an entry that matches the user's typed entry. Upon finding a match, the row containing the match is selected, the contents of the column are displayed, and the contents of its **BoundColumn** property become the value of the control. If the match is unambiguous, finding the match initiates the [Click](click-event.md) event.
+
 The control initiates the Click event as soon as the user types a sequence of characters that match exactly one entry in the list. As the user types, the entry is compared with the current row in the list and with the next row in the list. When the entry matches only the current row, the match is unambiguous.
-In Microsoft Forms, this is true regardless of whether the list is sorted. This means the control finds the first occurrence that matches the entry, based on the order of items in the list. For example, entering either "abc" or "bc" will initiate the Click event for the following list:
+
+In Microsoft Forms, this is true regardless of whether the list is sorted. This means that the control finds the first occurrence that matches the entry, based on the order of items in the list.
+
 Note that in either case, the matched entry is not unique; however, it is sufficiently different from the adjacent entry that the control interprets the match as unambiguous and initiates the Click event.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

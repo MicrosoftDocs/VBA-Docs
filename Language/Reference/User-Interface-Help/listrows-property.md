@@ -1,5 +1,5 @@
 ---
-title: ListRows Property
+title: ListRows property
 keywords: fm20.chm5225056
 f1_keywords:
 - fm20.chm5225056
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# ListRows Property
-
-
+# ListRows property
 
 Specifies the maximum number of rows to display in the list.
 
 ## Syntax
 
 _object_. **ListRows** [= _Long_ ]
-The  **ListRows** property syntax has these parts:
 
+The **ListRows** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -30,5 +28,10 @@ The  **ListRows** property syntax has these parts:
 
 ## Remarks
 
-If the number of items in the list exceeds the value of the  **ListRows** property, a scroll bar appears at the right edge of the list box portion of the combo box.
+If the number of items in the list exceeds the value of the **ListRows** property, a scroll bar appears at the right edge of the list box portion of the combo box.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

@@ -1,5 +1,5 @@
 ---
-title: EnterFieldBehavior Property
+title: EnterFieldBehavior property
 keywords: fm20.chm5225036
 f1_keywords:
 - fm20.chm5225036
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# EnterFieldBehavior Property
+# EnterFieldBehavior property
 
-
-
-Specifies the selection behavior when entering a  **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
+Specifies the selection behavior when entering a **[TextBox](textbox-control.md)** or **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
 _object_. **EnterFieldBehavior** [= _fmEnterFieldBehavior_ ]
-The  **EnterFieldBehavior** property syntax has these parts:
 
+The **EnterFieldBehavior** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **EnterFieldBehavior** property syntax has these parts:
 | _fmEnterFieldBehavior_|Optional. The desired selection behavior.|
 
 ## Settings
-The settings for  _fmEnterFieldBehavior_ are:
 
+The settings for _fmEnterFieldBehavior_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -39,5 +37,12 @@ The settings for  _fmEnterFieldBehavior_ are:
 
 ## Remarks
 
-The  **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives[focus](../../Glossary/vbe-glossary.md#focus) as a result of the **SetFocus** method. Following **SetFocus**, the contents of the control are not selected and the insertion point appears after the last character in the control's edit region.
+The **EnterFieldBehavior** property controls the way text is selected when the user tabs to the control, not when the control receives [focus](../../Glossary/vbe-glossary.md#focus) as a result of the **SetFocus** method. 
 
+Following **SetFocus**, the contents of the control are not selected, and the insertion point appears after the last character in the control's edit region.
+
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

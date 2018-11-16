@@ -1,5 +1,5 @@
 ---
-title: Max, Min Properties
+title: Max, Min properties
 keywords: fm20.chm5225063
 f1_keywords:
 - fm20.chm5225063
@@ -9,30 +9,37 @@ ms.date: 06/08/2017
 ---
 
 
-# Max, Min Properties
+# Max, Min properties
 
-
-
-Specify the maximum and minimum acceptable values for the  **Value** property of a **[ScrollBar](scrollbar-control.md)** or **[SpinButton](spinbutton-control.md)**.
+Specify the maximum and minimum acceptable values for the **[Value](value-property-microsoft-forms.md)** property of a **[ScrollBar](scrollbar-control.md)** or **[SpinButton](spinbutton-control.md)**.
 
 ## Syntax
 
-_object_. **Max** [= _Long_ ]
- _object_. **Min** [= _Long_ ]
-The  **Max** and **Min** property syntaxes have these parts:
-
+_object_. **Max** [= _Long_ ] <br/>
+_object_. **Min** [= _Long_ ]
+ 
+The **Max** and **Min** property syntaxes have these parts:
 
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. A valid object.|
-| _Long_|Optional. A numeric expression specifying the maximum or minimum  **Value** property setting.|
+| _Long_|Optional. A numeric expression specifying the maximum or minimum **Value** property setting.|
 
 ## Remarks
 
-Clicking a  **[SpinButton](spinbutton-control.md)** or moving the scroll box in a **[ScrollBar](scrollbar-control.md)** changes the **Value** property of the control.
-The value for the  **Max** property corresponds to the lowest position of a vertical **[ScrollBar](scrollbar-control.md)** or the rightmost position of a horizontal **[ScrollBar](scrollbar-control.md)**. The value for the **Min** property corresponds to the highest position of a vertical **[ScrollBar](scrollbar-control.md)** or the leftmost position of a horizontal **[ScrollBar](scrollbar-control.md)**.
+Clicking a **SpinButton** or moving the scroll box in a **ScrollBar** changes the **Value** property of the control.
+
+The value for the **Max** property corresponds to the lowest position of a vertical **ScrollBar** or the rightmost position of a horizontal **ScrollBar**. 
+
+The value for the **Min** property corresponds to the highest position of a vertical **ScrollBar** or the leftmost position of a horizontal **ScrollBar**.
+
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 
- **Note**   **Min** and **Max** refer to locations, not to relative values, on the **[ScrollBar](scrollbar-control.md)**. That is, the value of **Max** could be less than the value of **Min**. If this is the case, moving toward the **Max** (bottom) position means decreasing **Value**; moving toward the **Min** (top) position means increasing **Value**.
+> [!NOTE] 
+> **Min** and **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of **Max** could be less than the value of **Min**. If this is the case, moving toward the **Max** (bottom) position means decreasing **Value**; moving toward the **Min** (top) position means increasing **Value**.
 
+## See also
 
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

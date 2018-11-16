@@ -1,5 +1,5 @@
 ---
-title: Locked Property
+title: Locked property
 keywords: fm20.chm5225059
 f1_keywords:
 - fm20.chm5225059
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# Locked Property
-
-
+# Locked property
 
 Specifies whether a control can be edited.
 
 ## Syntax
 
 _object_. **Locked** [= _Boolean_ ]
-The  **Locked** property syntax has these parts:
 
+The **Locked** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **Locked** property syntax has these parts:
 | _Boolean_|Optional. Whether the control can be edited.|
 
 ## Settings
-The settings for  _Boolean_ are:
 
+The settings for  _Boolean_ are:
 
 |Value|Description|
 |:-----|:-----|
@@ -41,3 +39,8 @@ The settings for  _Boolean_ are:
 
 When a control is locked and enabled, it can still initiate events and can still receive the [focus](../../Glossary/vbe-glossary.md#focus).
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

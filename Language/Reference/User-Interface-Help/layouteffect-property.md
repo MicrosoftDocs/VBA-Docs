@@ -42,3 +42,8 @@ The Layout event is not initiated when you change the settings of the **Left**, 
 
 The Layout event sets **LayoutEffect** for any control that was involved in a move operation. For example, if you move a group of controls, **LayoutEffect** of each control is set.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

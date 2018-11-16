@@ -1,5 +1,5 @@
 ---
-title: ListCount Property
+title: ListCount property
 keywords: fm20.chm5225054
 f1_keywords:
 - fm20.chm5225054
@@ -11,24 +11,28 @@ ms.date: 06/08/2017
 ---
 
 
-# ListCount Property
-
-
+# ListCount property
 
 Returns the number of list entries in a control.
 
 ## Syntax
 
 _object_. **ListCount**
-The  **ListCount** property syntax has these parts:
 
+The **ListCount** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-|||
 | _object_|Required. A valid object.|
 
 ## Remarks
 
-The  **ListCount** property is read-only. **ListCount** is the number of rows over which you can scroll. **ListRows** is the maximum to display at once. **ListCount** is always one greater than the largest value for the **ListIndex** property, because index numbers begin with 0 and the count of items begins with 1. If no item is selected, **ListCount** is 0 and **ListIndex** is -1.
+The **ListCount** property is read-only. **ListCount** is the number of rows over which you can scroll. **ListRows** is the maximum to display at once. 
 
+**ListCount** is always one greater than the largest value for the **ListIndex** property, because index numbers begin with 0 and the count of items begins with 1. If no item is selected, **ListCount** is 0 and **ListIndex** is -1.
+
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

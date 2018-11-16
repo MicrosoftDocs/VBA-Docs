@@ -1,5 +1,5 @@
 ---
-title: DropButtonStyle Property
+title: DropButtonStyle property
 keywords: fm20.chm2001110
 f1_keywords:
 - fm20.chm2001110
@@ -11,17 +11,15 @@ ms.date: 06/08/2017
 ---
 
 
-# DropButtonStyle Property
+# DropButtonStyle property
 
-
-
-Specifies the symbol displayed on the drop button in a  **[ComboBox](combobox-control.md)**.
+Specifies the symbol displayed on the drop button in a **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
 _object_. **DropButtonStyle** [= _fmDropButtonStyle_ ]
-The  **DropButtonStyle** property syntax has these parts:
 
+The **DropButtonStyle** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **DropButtonStyle** property syntax has these parts:
 | _fmDropButtonStyle_|Optional. The appearance of the drop button.|
 
 ## Settings
-The settings for  _fmDropButtonStyle_ are:
 
+The settings for _fmDropButtonStyle_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -41,5 +39,10 @@ The settings for  _fmDropButtonStyle_ are:
 
 ## Remarks
 
-The recommended setting for showing items in a list is  **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
+The recommended setting for showing items in a list is **fmDropButtonStyleArrow**. If you want to use the drop button in another way, such as to display a dialog box, specify **fmDropButtonStyleEllipsis**, **fmDropButtonStylePlain**, or **fmDropButtonStyleReduce** and trap the DropButtonClick event.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

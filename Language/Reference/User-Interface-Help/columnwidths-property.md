@@ -43,9 +43,9 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 |Setting|Effect|
 |:------|:-----|
 |`90;72;90`|The first column is 90 points (1.25 inch); the second column is 72 points (1 inch); the third column is 90 points.|
-|`6 cm;0;6 cm`|The first column is 6 centimeters; the second column is hidden; the third column is 6 centimeters. Because part of the third column is visible, a horizontal scroll bar appears.|
+|`6 cm;0;6 cm`|The first column is 6 centimeters; the second column is hidden; the third column is 6 centimeters.<br/>Because part of the third column is visible, a horizontal scroll bar appears.|
 |`1.5 in;0;2.5 in`|The first column is 1.5 inches, the second column is hidden, and the third column is 2.5 inches.|
-|`2 in;;2 in`|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches. Because only half of the third column is visible, a horizontal scroll bar appears.|
+|`2 in;;2 in`|The first column is 2 inches, the second column is 1 inch (default), and the third column is 2 inches.<br/> Because only half of the third column is visible, a horizontal scroll bar appears.|
 |(Blank)|All three columns are the same width (1.33 inches).|
 
 ## Remarks
