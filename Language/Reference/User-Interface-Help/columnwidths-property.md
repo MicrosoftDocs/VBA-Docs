@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ColumnWidths
 ms.assetid: acc57c41-fcd1-dde4-bc9d-2c25d426fdc7
-ms.date: 11/15/2018
+ms.date: 11/16/2018
 ---
 
 

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ListStyle
 ms.assetid: b07cb0d3-7782-7fe4-dea2-9cfddebf3096
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 

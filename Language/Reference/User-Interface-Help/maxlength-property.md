@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MaxLength
 ms.assetid: 6cc016ef-333a-9e7a-aacb-323717915f9f
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 

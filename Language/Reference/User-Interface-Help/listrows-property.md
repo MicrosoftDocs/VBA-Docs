@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ListRows
 ms.assetid: 1dbb9197-8522-1b6e-d7c5-b7f2f650d2cb
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
