@@ -14,7 +14,7 @@ This error has the following causes and solutions:
 
 - If you are running WinHelp, the Windows Help application isn't available. If Winhelp.exe is on your machine, make sure it is on your path. If it isn't on your machine, run Microsoft Windows 9x or Microsoft Windows NT setup to install it.
     
-- If you are running HTMLHelp, if HH.exe is on your machine, make sure sure it is on your path. If it isn't on your computer, you must install it before you can view Help.
+- If you are running HTMLHelp, if HH.exe is on your machine, make sure it is on your path. If it isn't on your computer, you must install it before you can view Help.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
