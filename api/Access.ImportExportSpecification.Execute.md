@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ImportExportSpecification.Execute method (Access)
 
-Executes the specfied import or export specification.
+Executes the specified import or export specification.
 
 
 ## Syntax

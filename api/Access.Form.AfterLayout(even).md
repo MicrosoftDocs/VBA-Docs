@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.AfterLayout event (Access)
 
-Occurs after all charts in the specfied PivotChart view have been laid out, but before they have been rendered.
+Occurs after all charts in the specified PivotChart view have been laid out, but before they have been rendered.
 
 
 ## Syntax

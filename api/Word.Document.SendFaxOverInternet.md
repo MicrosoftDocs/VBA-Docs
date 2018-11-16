@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SendFaxOverInternet method (Word)
 
-Sends a document to a fax service provider, who faxes the document to one or more specfied recipients.
+Sends a document to a fax service provider, who faxes the document to one or more specified recipients.
 
 
 ## Syntax

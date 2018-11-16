@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CalculateRowMajorOrder method (Excel)
 
-Calculates a specfied range of cells.
+Calculates a specified range of cells.
 
 
 ## Syntax
