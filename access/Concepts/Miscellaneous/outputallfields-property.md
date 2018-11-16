@@ -26,7 +26,7 @@ You can use the **OutputAllFields** property to show all fields in the query's u
 
 The **OutputAllFields** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Yes|Displays all the fields in the underlying tables and in the field list of a form or report.|
 |No|(Default) Displays only fields that have the Show box selected in the query design grid.|

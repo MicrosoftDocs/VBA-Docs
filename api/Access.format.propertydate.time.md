@@ -19,7 +19,7 @@ You can set the **Format** property to predefined date and time formats or use c
 
 The following table shows the predefined **Format** property settings for the Date/Time data type.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |General Date|(Default) If the value is a date only, no time is displayed; if the value is a time only, no date is displayed. This setting is a combination of the Short Date and Long Time settings. Examples: 4/3/93, 05:34:00 PM, and 4/3/93 05:34:00 PM.|
 |Long Date|Same as the Long Date setting in the regional settings of Windows. Example: Saturday, April 3, 1993.|

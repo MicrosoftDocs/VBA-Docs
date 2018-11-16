@@ -26,7 +26,7 @@ You can use the **UniqueRecords** property to specify whether to return only uni
 
 The **UniqueRecords** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Yes|Doesn't return duplicate records.|
 |No|(Default) Returns duplicate records.|

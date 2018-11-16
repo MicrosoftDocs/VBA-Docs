@@ -29,7 +29,7 @@ The  **ControlSource** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |A field name|The  **ControlSource** property must be set to the name of a field that stores attachments.|
 

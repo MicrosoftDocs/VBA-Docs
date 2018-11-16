@@ -1,5 +1,5 @@
 ---
-title: MousePointer Property
+title: MousePointer property 
 keywords: fm20.chm2001550
 f1_keywords:
 - fm20.chm2001550
@@ -7,21 +7,19 @@ ms.prod: office
 api_name:
 - Office.MousePointer
 ms.assetid: ae574d87-e218-4d03-d423-0192768e82dc
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
-# MousePointer Property
-
-
+# MousePointer property 
 
 Specifies the type of pointer displayed when the user positions the mouse over a particular object.
 
 ## Syntax
 
 _object_. **MousePointer** [= _fmMousePointer_ ]
-The  **MousePointer** property syntax has these parts:
 
+The **MousePointer** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **MousePointer** property syntax has these parts:
 | _fmMousePointer_|Optional. The shape you want for the mouse pointer.|
 
 ## Settings
-The settings for  _fmMousePointer_ are:
 
+The settings for _fmMousePointer_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -48,10 +46,16 @@ The settings for  _fmMousePointer_ are:
 | _fmMousePointerAppStarting_|13|Arrow with an hourglass.|
 | _fmMousePointerHelp_|14|Arrow with a question mark.|
 | _fmMousePointerSizeAll_|15|Size all cursor (arrows pointing north, south, east, and west).|
-| _fmMousePointerCustom_|99|Uses the icon specified by the  **MouseIcon** property.|
+| _fmMousePointerCustom_|99|Uses the icon specified by the **MouseIcon** property.|
 
 ## Remarks
 
-Use the  **MousePointer** property when you want to indicate changes in functionality as the mouse pointer passes over controls on a form. For example, the hourglass setting (11) is useful to indicate that the user must wait for a process or operation to finish.
+Use the **MousePointer** property when you want to indicate changes in functionality as the mouse pointer passes over controls on a form. For example, the hourglass setting (11) is useful to indicate that the user must wait for a process or operation to finish.
+
 Some icons vary depending on system settings, such as the icons associated with desktop themes.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

@@ -37,7 +37,7 @@ The  **FontSize** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |8|(Default for all reports and controls except command buttons) The text is 8-point type.|
 |10|(Default for command buttons) The text is 10-point type.|

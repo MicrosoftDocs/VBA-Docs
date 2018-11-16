@@ -37,7 +37,7 @@ The  **FontBold** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The text is bold.|
 |**False**|(Default) The text isn't bold.|

@@ -29,7 +29,7 @@ The  **LeftGridlineWidth** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
 |1 to 6|The width as indicated in points. The default setting is 1 point.|

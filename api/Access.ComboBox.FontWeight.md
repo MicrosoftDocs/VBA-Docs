@@ -33,7 +33,7 @@ In Visual Basic, the  **DatasheetFontWeight** property setting uses the followin
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |100|Thin|
 |200|Extra Light|

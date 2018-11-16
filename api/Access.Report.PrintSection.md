@@ -29,7 +29,7 @@ The  **PrintSection** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|(Default) The section is printed.|
 |**False**|The section isn't printed.|

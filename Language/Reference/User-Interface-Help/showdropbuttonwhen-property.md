@@ -1,5 +1,5 @@
 ---
-title: ShowDropButtonWhen Property
+title: ShowDropButtonWhen property
 keywords: fm20.chm2001900
 f1_keywords:
 - fm20.chm2001900
@@ -7,21 +7,19 @@ ms.prod: office
 api_name:
 - Office.ShowDropButtonWhen
 ms.assetid: 82c7a038-a4fa-7253-ec24-c97e6841293e
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
-# ShowDropButtonWhen Property
+# ShowDropButtonWhen property
 
-
-
-Specifies when to show the drop-down button for a  **[ComboBox](combobox-control.md)** or **[TextBox](textbox-control.md)**.
+Specifies when to show the drop-down button for a **[ComboBox](combobox-control.md)** or **[TextBox](textbox-control.md)**.
 
 ## Syntax
 
 _object_. **ShowDropButtonWhen** [= _fmShowDropButtonWhen_ ]
-The  **ShowDropButtonWhen** property syntax has these parts:
 
+The **ShowDropButtonWhen** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **ShowDropButtonWhen** property syntax has these parts:
 | _fmShowDropButtonWhen_|Optional. The circumstances under which the drop-down button will be visible.|
 
 ## Settings
-The settings for  _fmShowDropButtonWhen_ are:
 
+The settings for _fmShowDropButtonWhen_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -38,5 +36,14 @@ The settings for  _fmShowDropButtonWhen_ are:
 | _fmShowDropButtonWhenFocus_|1|Show the drop-down button when the control has the focus.|
 | _fmShowDropButtonWhenAlways_|2|Always show the drop-down button.|
 
-For a  **[ComboBox](combobox-control.md)**, the default value is _fmShowDropButtonWhenAlways_; for a **[TextBox](textbox-control.md)**, the default value is _fmShowDropButtonWhenNever_.
+## Remarks
 
+For a **ComboBox**, the default value is _fmShowDropButtonWhenAlways_.
+
+For a **TextBox**, the default value is _fmShowDropButtonWhenNever_.
+
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

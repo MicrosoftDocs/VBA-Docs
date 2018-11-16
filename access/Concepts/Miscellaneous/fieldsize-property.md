@@ -28,7 +28,7 @@ If the **DataType** property is set to AutoNumber, the **FieldSize** property ca
 If the **DataType** property is set to Number, the **FieldSize** property settings and their values are related in the following way.
 
 
-|**Setting**|**Description**|**Decimal precision**|**Storage size**|
+|Setting|Description|Decimal precision|Storage size|
 |:-----|:-----|:-----|:-----|
 |Byte|Stores numbers from 0 to 255 (no fractions).|None|1 byte|
 |Decimal|Stores numbers from -10^38-1 through 10^38-1 (.adp)Stores numbers from -10^28-1 through 10^28-1 (.mdb, .accdb)|28|2 bytes|

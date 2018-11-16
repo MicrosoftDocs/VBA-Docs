@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MatchFound
 ms.assetid: db350684-1758-a849-c9e1-34714a00f1c3
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
@@ -38,3 +38,8 @@ The **MatchFound** property return values are:
 
 The **MatchFound** property is read-only. It is not applicable when the **MatchEntry** property is set to **fmMatchEntryNone**.
 
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

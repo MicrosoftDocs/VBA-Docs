@@ -37,7 +37,7 @@ The  **Selected** property is a zero-based array that contains the selected stat
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The list box item is selected.|
 |**False**|The list box item isn't selected.|

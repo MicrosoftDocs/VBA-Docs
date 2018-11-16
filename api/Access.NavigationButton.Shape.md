@@ -29,7 +29,7 @@ The  **Shape** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |0 (Default)|Rectangle|
 |1 |Rounded Rectangle|

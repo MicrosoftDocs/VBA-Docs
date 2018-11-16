@@ -37,7 +37,7 @@ The  **FontItalic** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|The text is italic.|
 |**False**|(Default) The text isn't italic.|

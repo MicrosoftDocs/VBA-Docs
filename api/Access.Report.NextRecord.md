@@ -29,7 +29,7 @@ The  **NextRecord** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True**|(Default) The section advances to the next record.|
 |**False**|The section doesn't advance to the next record.|

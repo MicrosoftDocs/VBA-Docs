@@ -1,5 +1,5 @@
 ---
-title: PicturePosition Property
+title: PicturePosition property
 keywords: fm20.chm5225079
 f1_keywords:
 - fm20.chm5225079
@@ -7,21 +7,19 @@ ms.prod: office
 api_name:
 - Office.PicturePosition
 ms.assetid: dee7f263-90a9-cdeb-981f-65dd5e118a18
-ms.date: 06/08/2017
+ms.date: 11/16/2018
 ---
 
 
-# PicturePosition Property
-
-
+# PicturePosition property
 
 Specifies the location of the picture relative to its caption.
 
 ## Syntax
 
 _object_. **PicturePosition** [= _fmPicturePosition_ ]
-The  **PicturePosition** property syntax has these parts:
 
+The **PicturePosition** property syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,8 +27,8 @@ The  **PicturePosition** property syntax has these parts:
 | _fmPicturePosition_|Optional. How the picture aligns with its container.|
 
 ## Settings
-The settings for  _fmPicturePosition_ are:
 
+The settings for _fmPicturePosition_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -51,5 +49,11 @@ The settings for  _fmPicturePosition_ are:
 ## Remarks
 
 The picture and the caption, as a unit, are centered on the control. If no caption exists, the picture's location is relative to the center of the control.
-This property is ignored if the  **Picture** property does not specify a picture.
 
+This property is ignored if the **Picture** property does not specify a picture.
+
+## See also
+
+- [Microsoft Forms examples](examples-microsoft-forms.md)
+- [Microsoft Forms reference](reference-microsoft-forms.md)
+- [Microsoft Forms concepts](concepts-microsoft-forms.md)

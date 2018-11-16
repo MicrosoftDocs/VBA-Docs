@@ -23,7 +23,7 @@ You can use the **AllowSpecialKeys** property to specify whether or not special 
 
 The **AllowSpecialKeys** property uses the following settings.
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**True** (-1)|Enable the special key sequences.|
 |**False** (0)|Disable the special key sequences.|

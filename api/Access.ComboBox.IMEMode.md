@@ -30,7 +30,7 @@ The  **IMEMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|**Visual Basic**|
+|Setting|Description|Visual Basic|
 |:-----|:-----|:-----|
 |No Control|Kanji Conversion Mode not set (default).|0|
 |On|Turns on Kanji Conversion Mode.|1|

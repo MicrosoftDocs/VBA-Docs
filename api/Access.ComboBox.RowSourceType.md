@@ -29,7 +29,7 @@ The  **RowSourceType** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |Table/Query|(Default) The data is from a table, query, or SQL statement specified by the  **RowSource** setting.|
 |Value List|The data is a list of items specified by the  **RowSource** setting.|

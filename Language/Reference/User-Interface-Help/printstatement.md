@@ -30,7 +30,7 @@ The  _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) settings a
 [{ **Spc(**_n_**)** |**Tab** [ **(**_n_**)** ]}] [ _expression_ ] [ _charpos_ ]
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |**Spc(**_n_**)**|Used to insert space characters in the output, where  _n_ is the number of space characters to insert.|
 |**Tab(**_n_**)**|Used to position the insertion point to an absolute column number, where  _n_ is the column number. Use **Tab** with no argument to position the insertion point at the beginning of the next [print zone](../../Glossary/vbe-glossary.md#print-zone).|

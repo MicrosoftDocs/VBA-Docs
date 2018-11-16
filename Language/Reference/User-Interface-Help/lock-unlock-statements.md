@@ -32,7 +32,7 @@ The  _recordrange_ [argument](../../Glossary/vbe-glossary.md#argument) settings 
  _recnumber_ | [ _start_ ] **To**_end_
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 | _recnumber_|Record number (**Random** mode files) or byte number (**Binary** mode files) at which locking or unlocking begins.|
 | _start_|Number of the first record or byte to lock or unlock.|

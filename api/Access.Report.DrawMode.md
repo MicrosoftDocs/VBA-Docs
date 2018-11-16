@@ -29,7 +29,7 @@ The  **DrawMode** property uses the following settings.
 
 
 
-|**Setting**|**Description**|
+|Setting|Description|
 |:-----|:-----|
 |1|Black pen color.|
 |2|The inverse of setting 15 (NotMergePen).|
