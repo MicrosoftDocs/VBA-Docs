@@ -45,7 +45,7 @@ The purpose of the  **EnumDirectories** method is to accept a string such as one
 
 If the  **EnumDirectories** method succeeds, _NameArray()_ returns a one-dimensional array of _n_ strings indexed from 0 to _n_ - 1. Each string is the fully qualified name of a folder that exists. The list names those folders designated in the path list that exist and all their subfolders.
 
-The  _NameArray()_ paramter is an out parameter that is allocated by the **EnumDirectories** method, and ownership is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications automatically free the strings referenced by the array's entries.)
+The  _NameArray()_ parameter is an out parameter that is allocated by the **EnumDirectories** method, and ownership is passed back to the caller. The caller should eventually perform the **SafeArrayDestroy** procedure on the returned array. (Microsoft Visual Basic and Visual Basic for Applications automatically free the strings referenced by the array's entries.)
 
 
 ## Example
