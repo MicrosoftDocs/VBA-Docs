@@ -17,9 +17,11 @@ Occurs when a form, **[Frame](frame-control.md)**, or **[MultiPage](multipage-co
 
 ## Syntax
 
-For MultiPage **Private Sub**_object_ _**Layout(**_index_**As Long)**
+For MultiPage <br/>
+**Private Sub**_object_ _**Layout(**_index_**As Long)**
 
-For all other controls **Private Sub**_object_ _**Layout( )**
+For all other controls <br/>
+**Private Sub**_object_ _**Layout( )**
 
 The **Layout** event syntax has these parts:
 

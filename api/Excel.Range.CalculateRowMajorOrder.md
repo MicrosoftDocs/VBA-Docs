@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CalculateRowMajorOrder method (Excel)
 
-Calculates a specfied range of cells.
+Calculates a specified range of cells.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-The  **CalculateRowMajorOrder** method calculates the specified range range cell-by-cell, from its top left corner to its to bottom right corner in row-major order. This is the same process that is used by Excel 2000 and earlier versions to calculate a range.
+The  **CalculateRowMajorOrder** method calculates the specified range cell-by-cell, from its top left corner to its to bottom right corner in row-major order. This is the same process that is used by Excel 2000 and earlier versions to calculate a range.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabControl.Change event (Access)
 
-The  **Change** event occurs when when you move from one page to another page.
+The  **Change** event occurs when you move from one page to another page.
 
 
 ## Syntax

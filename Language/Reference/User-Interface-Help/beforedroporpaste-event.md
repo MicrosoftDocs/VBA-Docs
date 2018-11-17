@@ -17,15 +17,47 @@ Occurs when the user is about to drop or paste data onto an object.
 
 ## Syntax
 
-For Frame **Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For Frame  <br/>
+**Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+_ctrl_**As Control**, <br/>
+**ByVal**_Action_**As fmAction**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**
 
-For MultiPage **Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For MultiPage  <br/>
+**Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, <br/>
+**ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+_ctrl_**As Control**, <br/>
+**ByVal**_Action_**As fmAction**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**
 
-For TabStrip **Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For TabStrip  <br/>
+**Private Sub**_object_ _**BeforeDropOrPaste(**_index_**As Long**, <br/>
+**ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+**ByVal**_Action_**As fmAction**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**
 
-For other controls **Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Action_**As fmAction**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For other controls  <br/>
+**Private Sub**_object_ _**BeforeDropOrPaste( ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+**ByVal**_Action_**As fmAction**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**
+
 The **BeforeDropOrPaste** event syntax has these parts:
-
 
 |Part|Description|
 |:-----|:-----|
@@ -41,7 +73,7 @@ The **BeforeDropOrPaste** event syntax has these parts:
 
 ## Settings
 
-The settings for  _Action_ are:
+The settings for _Action_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -50,7 +82,7 @@ The settings for  _Action_ are:
 
 <br/>
 
-The settings for  _Effect_ are:
+The settings for _Effect_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -61,7 +93,7 @@ The settings for  _Effect_ are:
 
 <br/>
 
-The settings for  _Shift_ are:
+The settings for _Shift_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

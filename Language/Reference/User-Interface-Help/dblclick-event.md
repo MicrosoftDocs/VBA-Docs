@@ -17,9 +17,12 @@ Occurs when the user points to an object and then clicks a mouse button twice.
 
 ## Syntax
 
-For MultiPage, TabStrip **Private Sub**_object_ _**DblClick(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean)**
+For MultiPage, TabStrip  <br/>
+**Private Sub**_object_ _**DblClick(**_index_**As Long**,  <br/>
+**ByVal**_Cancel_**As MSForms.ReturnBoolean)**
 
-For other controls **Private Sub**_object_ _**DblClick( ByVal**_Cancel_**As MSForms.ReturnBoolean)**
+For other controls  <br/>
+**Private Sub**_object_ _**DblClick( ByVal**_Cancel_**As MSForms.ReturnBoolean)**
 
 The **DblClick** event syntax has these parts:
 

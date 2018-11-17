@@ -32,7 +32,7 @@ Occurs when a chart element is double-clicked, before the default double-click a
 | _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default double-click action isn't performed when the procedure is finished.|
 | _Arg1_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
 | _Arg2_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
-| _ElementID_|Required| **Long**|The double-clicked object. The value of this parameter determines the expected values of  _Arg1_ and _Arg2_. For more information about this paramter, see the Remarks section.|
+| _ElementID_|Required| **Long**|The double-clicked object. The value of this parameter determines the expected values of  _Arg1_ and _Arg2_. For more information about this parameter, see the Remarks section.|
 
 ## Remarks
 

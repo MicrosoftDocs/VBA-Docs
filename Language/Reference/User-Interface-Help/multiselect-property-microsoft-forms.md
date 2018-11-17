@@ -24,7 +24,7 @@ The **MultiSelect** property syntax has these parts:
 | _object_|Required. A valid object.|
 | _fmMultiSelect_|Optional. The selection mode that the control uses.|
 
-### Settings
+## Settings
 
 The settings for _fmMultiSelect_ are:
 

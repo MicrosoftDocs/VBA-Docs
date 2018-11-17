@@ -17,9 +17,11 @@ Occurs when the value of the **Zoom** property changes.
 
 ## Syntax
 
-For Frame **Private Sub**_object_ _**Zoom(**_Percent_**As Integer)**
+For Frame <br/>
+**Private Sub**_object_ _**Zoom(**_Percent_**As Integer)** 
 
-For MultiPage **Private Sub**_object_ _**Zoom(**_index_**As Long**, _Percent_**As Integer)**
+For MultiPage <br/>
+**Private Sub**_object_ _**Zoom(**_index_**As Long**, _Percent_**As Integer)** 
 
 The **Zoom** event syntax has these parts:
 

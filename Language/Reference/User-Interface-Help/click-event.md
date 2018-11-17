@@ -20,9 +20,11 @@ Occurs in one of two cases:
 
 ## Syntax
 
-For MultiPage, TabStrip **Private Sub**_object_ _**Click(**_index_**As Long)**
+For MultiPage, TabStrip  <br/>
+**Private Sub**_object_ _**Click(**_index_**As Long)**
 
-For all other controls **Private Sub**_object_ _**Click( )**
+For all other controls  <br/>
+**Private Sub**_object_ _**Click( )**
 
 The **Click** event syntax has these parts:
 
