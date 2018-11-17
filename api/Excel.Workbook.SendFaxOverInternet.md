@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.SendFaxOverInternet method (Excel)
 
-Sends a worksheet as a fax to the specfied recipients.
+Sends a worksheet as a fax to the specified recipients.
 
 
 ## Syntax
