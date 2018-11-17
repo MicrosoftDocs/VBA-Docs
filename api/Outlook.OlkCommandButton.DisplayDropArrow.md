@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that enables the rendering of a downward-pointing
 
 ## Remarks
 
-This arrow is rendered on the right on the button in langauges written left-to-right and on the left in langauges written right-to-left. **True** to render the arrow on the button, **False** to disable the rendering.
+This arrow is rendered on the right on the button in languages written left-to-right and on the left in languages written right-to-left. **True** to render the arrow on the button, **False** to disable the rendering.
 
 
 ## See also
