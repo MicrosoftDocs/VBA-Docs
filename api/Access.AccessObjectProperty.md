@@ -66,7 +66,7 @@ CurrentProject.AllForms("Form1").Properties![name]
 With the same syntax forms, you can also refer to the  **Value** property of a **AccessObjectProperty** object. The context of the reference will determine whether you are referring to the **AccessObjectProperty** object itself or the **Value** property of the **AccessObjectProperty** object.
 
 
- **Note**  Properties in the  **AccessObjectProperties** collection are not stored and can be lost when when the object they are associated with is checked in or out using the Source Code Control add-in.
+ **Note**  Properties in the  **AccessObjectProperties** collection are not stored and can be lost when the object they are associated with is checked in or out using the Source Code Control add-in.
 
 
 ## Properties
