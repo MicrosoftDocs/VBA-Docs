@@ -17,9 +17,11 @@ Occurs when a control is deleted from the [container](../../Glossary/vbe-glossar
 
 ## Syntax
 
-For MultiPage **Private Sub**_object_ _**RemoveControl(**_index_**As Long**, _ctrl_**As Control)**
+For MultiPage <br/>
+**Private Sub**_object_ _**RemoveControl(**_index_**As Long**, _ctrl_**As Control)**
 
-For all other controls **Private Sub**_object_ _**RemoveControl(**_ctrl_**As Control)**
+For all other controls <br/>
+**Private Sub**_object_ _**RemoveControl(**_ctrl_**As Control)**
 
 The **RemoveControl** event syntax has these parts:
 

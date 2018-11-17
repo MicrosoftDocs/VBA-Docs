@@ -15,8 +15,7 @@ Enter occurs before a control actually receives the [focus](../../Glossary/vbe-g
 
 ## Syntax
 
-**Private Sub**_object_ _**Enter( )**
-
+**Private Sub**_object_ _**Enter( )** <br/>
 **Private Sub**_object_ _**Exit( ByVal**_Cancel_**As MSForms.ReturnBoolean)**
 
 The **Enter** and **Exit** event syntaxes have these parts:

@@ -17,15 +17,47 @@ Occurs when a drag-and-drop operation is in progress.
 
 ## Syntax
 
-For Frame **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For Frame  <br/>
+**Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+_ctrl_**As Control**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_DragState_**As fmDragState**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**  
 
-For MultiPage **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, _ctrl_**As Control**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For MultiPage  <br/>
+**Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, <br/>
+**ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+_ctrl_**As Control**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_DragState_**As fmDragState**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**  
 
-For TabStrip **Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, **ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For TabStrip   <br/>
+**Private Sub**_object_ _**BeforeDragOver(**_index_**As Long**, <br/>
+**ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_DragState_**As fmDragState**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**  
 
-For other controls **Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, **ByVal**_Data_**As DataObject**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single**, **ByVal**_DragState_**As fmDragState**, **ByVal**_Effect_**As MSForms.ReturnEffect**, **ByVal**_Shift_**As fmShiftState)**
+For other controls  <br/>
+**Private Sub**_object_ _**BeforeDragOver( ByVal**_Cancel_**As MSForms.ReturnBoolean**, <br/>
+**ByVal**_Data_**As DataObject**, <br/>
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single**, <br/>
+**ByVal**_DragState_**As fmDragState**, <br/>
+**ByVal**_Effect_**As MSForms.ReturnEffect**, <br/>
+**ByVal**_Shift_**As fmShiftState)**  
+
 The **BeforeDragOver** event syntax has these parts:
-
 
 |Part|Description|
 |:-----|:-----|
@@ -41,7 +73,7 @@ The **BeforeDragOver** event syntax has these parts:
 
 ## Settings
 
-The settings for  _DragState_ are:
+The settings for _DragState_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -51,7 +83,7 @@ The settings for  _DragState_ are:
 
 <br/>
 
-The settings for  _Effect_ are:
+The settings for _Effect_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -62,7 +94,7 @@ The settings for  _Effect_ are:
 
 <br/>
 
-The settings for  _Shift_ are:
+The settings for _Shift_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

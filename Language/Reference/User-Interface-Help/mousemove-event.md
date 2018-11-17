@@ -17,9 +17,18 @@ Occurs when the user moves the mouse.
 
 ## Syntax
 
-For MultiPage, TabStrip **Private Sub**_object_ _**MouseMove(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
+For MultiPage, TabStrip <br/>
+**Private Sub**_object_ _**MouseMove(**_index_**As Long**, <br/> 
+**ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**, <br/> 
+**ByVal**_X_**As Single**,  <br/>
+**ByVal**_Y_**As Single)** 
 
-For other controls **Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
+For other controls <br/>
+**Private Sub**_object_ _**MouseMove( ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**,  <br/>
+**ByVal**_X_**As Single**,  <br/>
+**ByVal**_Y_**As Single)** 
 
 The **MouseMove** event syntax has these parts:
 

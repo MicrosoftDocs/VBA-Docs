@@ -17,9 +17,11 @@ Occurs when a control is inserted onto a form, a **[Frame](frame-control.md)**, 
 
 ## Syntax
 
-For Frame **Private Sub**_object_ _**AddControl( )**
+For Frame  <br/>
+**Private Sub**_object_ _**AddControl( )**
 
-For MultiPage **Private Sub**_object_ _**AddControl(**_index_**As Long**, _ctrl_**As Control)**
+For MultiPage  <br/>
+**Private Sub**_object_ _**AddControl(**_index_**As Long**, _ctrl_**As Control)**
 
 The **AddControl** event syntax has these parts:
 

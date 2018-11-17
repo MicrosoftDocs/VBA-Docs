@@ -15,9 +15,25 @@ Occur when the user clicks a mouse button. MouseDown occurs when the user presse
 
 ## Syntax
 
-For MultiPage, TabStrip **Private Sub**_object_ _**MouseDown(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp(**_index_**As Long**, **ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
+For MultiPage, TabStrip <br/>
+**Private Sub**_object_ _**MouseDown(**_index_**As Long**, <br/> 
+**ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**, <br/> 
+**ByVal**_X_**As Single**, <br/> 
+**ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp(**_index_**As Long**, <br/> 
+**ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**, <br/> 
+**ByVal**_X_**As Single**, <br/> 
+**ByVal**_Y_**As Single)** 
 
-For other controls **Private Sub**_object_ _**MouseDown( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp( ByVal**_Button_**As fmButton**, **ByVal**_Shift_**As fmShiftState**, **ByVal**_X_**As Single**, **ByVal**_Y_**As Single)**
+For other controls <br/>
+**Private Sub**_object_ _**MouseDown( ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**, <br/> 
+**ByVal**_X_**As Single**, <br/>
+**ByVal**_Y_**As Single)** **Private Sub**_object_ _**MouseUp( ByVal**_Button_**As fmButton**, <br/> 
+**ByVal**_Shift_**As fmShiftState**, <br/> 
+**ByVal**_X_**As Single**, <br/> 
+**ByVal**_Y_**As Single)** 
 
 The **MouseDown** and **MouseUp** event syntaxes have these parts:
 

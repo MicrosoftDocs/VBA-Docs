@@ -15,8 +15,7 @@ Occur in sequence when a user presses and releases a key. KeyDown occurs when th
 
 ## Syntax
 
-**Private Sub**_object_ _**KeyDown( ByVal**_KeyCode_**As MSForms.ReturnInteger**, **ByVal**_Shift_**As fmShiftState)**
-
+**Private Sub**_object_ _**KeyDown( ByVal**_KeyCode_**As MSForms.ReturnInteger**, **ByVal**_Shift_**As fmShiftState)**<br/>
 **Private Sub**_object_ _**KeyUp( ByVal**_KeyCode_**As MSForms.ReturnInteger**, **ByVal**_Shift_**As fmShiftState)**
 
 The **KeyDown** and **KeyUp** event syntaxes have these parts:

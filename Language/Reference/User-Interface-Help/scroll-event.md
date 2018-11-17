@@ -17,11 +17,25 @@ Occurs when the scroll box is repositioned.
 
 ## Syntax
 
-For ScrollBar **Private Sub**_object_ _**Scroll( )**
+For ScrollBar <br/>
+**Private Sub**_object_ _**Scroll( )** 
 
-For MultiPage **Private Sub**_object_ _**Scroll(**_index_**As Long**, _ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
+For MultiPage <br/>
+**Private Sub**_object_ _**Scroll(**_index_**As Long**,  <br/>
+_ActionX_**As fmScrollAction**,  <br/>
+_ActionY_**As fmScrollAction**,  <br/>
+**ByVal**_RequestDx_**As Single**, <br/> 
+**ByVal**_RequestDy_**As Single**,  <br/>
+**ByVal**_ActualDx_**As MSForms.ReturnSingle**,  <br/>
+**ByVal**_ActualDy_**As MSForms.ReturnSingle)** 
 
-For Frame **Private Sub**_object_ _**Scroll(**_ActionX_**As fmScrollAction**, _ActionY_**As fmScrollAction**, **ByVal**_RequestDx_**As Single**, **ByVal**_RequestDy_**As Single**, **ByVal**_ActualDx_**As MSForms.ReturnSingle**, **ByVal**_ActualDy_**As MSForms.ReturnSingle)**
+For Frame <br/>
+**Private Sub**_object_ _**Scroll(**_ActionX_**As fmScrollAction**,  <br/>
+_ActionY_**As fmScrollAction**,  <br/>
+**ByVal**_RequestDx_**As Single**,  <br/>
+**ByVal**_RequestDy_**As Single**,  <br/>
+**ByVal**_ActualDx_**As MSForms.ReturnSingle**,  <br/>
+**ByVal**_ActualDy_**As MSForms.ReturnSingle)** 
 
 The **Scroll** event syntax has these parts:
 

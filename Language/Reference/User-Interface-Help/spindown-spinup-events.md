@@ -15,8 +15,7 @@ SpinDown occurs when the user clicks the lower or left spin-button arrow. SpinUp
 
 ## Syntax
 
-**Private Sub**_object_ _**SpinDown( )**
-
+**Private Sub**_object_ _**SpinDown( )** <br/>
 **Private Sub**_object_ _**SpinUp( )**
 
 The **SpinDown** and **SpinUp** event syntaxes have these parts:
