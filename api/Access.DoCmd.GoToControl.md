@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DoCmd.GoToControl method (Access)
 
-The  **GoToControl** method performs the GoToControl action action in Visual Basic.
+The  **GoToControl** method performs the GoToControl action in Visual Basic.
 
 
 ## Syntax
