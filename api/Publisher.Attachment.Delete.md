@@ -54,7 +54,7 @@ Public Sub Delete_Example()
  
  Set pubMailMerge = ThisDocument.MailMerge 
  Set pubEmailMergeEnvelope = pubMailMerge.EmailMergeEnvelope 
- Set pubAttachments = pubEmailMergeEnvelope.Attachemts 
+ Set pubAttachments = pubEmailMergeEnvelope.Attachments 
  
  Set pubAttachment = pubAttachments(1) 
  Debug.Print pubAttachments.Count 

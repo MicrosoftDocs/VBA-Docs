@@ -91,7 +91,7 @@ End Sub
 |**Name**|
 |:-----|
 |[Application](Publisher.EmailMergeEnvelope.Application.md)|
-|[Attachemts](Publisher.EmailMergeEnvelope.Attachemts.md)|
+|[Attachments](Publisher.EmailMergeEnvelope.Attachments.md)|
 |[Bcc](Publisher.EmailMergeEnvelope.Bcc.md)|
 |[Cc](Publisher.EmailMergeEnvelope.Cc.md)|
 |[Parent](Publisher.EmailMergeEnvelope.Parent.md)|
