@@ -29,7 +29,7 @@ Returns the name of the specified section as a  **String**.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** colleciton.|
+| _sectionIndex_|Required|**Integer**|The index of the section in the  **SectionProperties** collection.|
 
 ## Return value
 
