@@ -34,7 +34,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to a
  
 
  
-The data source referenced in this example is a simple tab-deliimited text file that contains three columns with the headings "First," "Last," and "Email Address" respectively.
+The data source referenced in this example is a simple tab-delimited text file that contains three columns with the headings "First," "Last," and "Email Address" respectively.
  
 
  
