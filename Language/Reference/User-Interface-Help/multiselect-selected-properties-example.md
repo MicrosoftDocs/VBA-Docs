@@ -11,7 +11,7 @@ ms.date: 11/14/2018
 
 # MultiSelect, Selected properties example
 
-The following example uses the **[MultiSelect](multiselect-property-microsoft-forms.md)** and **[Selected](selected-property.md)** properties to demonstate how the user can select one or more items in a **[ListBox](listbox-control.md)**. 
+The following example uses the **[MultiSelect](multiselect-property-microsoft-forms.md)** and **[Selected](selected-property.md)** properties to demonstrate how the user can select one or more items in a **[ListBox](listbox-control.md)**. 
 
 The user specifies a selection method by choosing an option button, and then selects an item(s) from the **ListBox**. The user can display the selected items in a second **ListBox** by clicking the **[CommandButton](commandbutton-control.md)**.
 

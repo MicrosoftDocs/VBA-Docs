@@ -30,7 +30,7 @@ VisRegionalUIOptions
 
 ## Remarks
 
-The following  **VisRegionalUIOptions** constants, which are declared in the Visio type libary, show the possible values for the **BIDITextUI** property.
+The following  **VisRegionalUIOptions** constants, which are declared in the Visio type library, show the possible values for the **BIDITextUI** property.
 
 
 

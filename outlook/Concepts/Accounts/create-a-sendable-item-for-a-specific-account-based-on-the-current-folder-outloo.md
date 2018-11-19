@@ -62,7 +62,9 @@ private void CreateMailItemFromAccount()
 
 ```
 
+
 The next method,  `CreateMeetingRequestFromAccount`, is similar to  `CreateMailItemFromAccount` except that it creates an **AppointmentItem** instead of a **MailItem**, and associates the  **AppointmentItem** with the account by using its [SendUsingAccount](../../../api/Outlook.AppointmentItem.SendUsingAccount.md) property. `CreateMeetingRequestFromAccount` creates an **AppointmentItem** in the Calendar folder of an account whose default delivery store is the same as the store for the folder that is displayed in the active explorer. `CreateMeetingRequestFromAccount` first identifies the appropriate account by matching the store of the current folder (obtained from the **Folder.Store** property) with the default delivery store of each account (otained with the **Account.DeliveryStore** property) that is defined in the **Accounts** collection for the session. `CreateMeetingRequestFromAccount` then creates the **AppointmentItem**. To associate the item with the account,  `CreateMeetingRequestFromAccount` assigns that account as the item's sending account by setting the [Account](../../../api/Outlook.Account.md) object to the **SendUsingAccount** property of the **AppointmentItem**. Assigning the  **SendUsingAccount** property is the important step because otherwise, the **AppointmentItem** is created for the primary account. At the end of the method, `CreateMeetingRequestFromAccount` displays the **AppointmentItem**. Note that if the current folder is not on a delivery store,  `CreateMeetingRequestFromAccount` simply creates the **AppointmentItem** for the primary account for the session.
+
 
 
 

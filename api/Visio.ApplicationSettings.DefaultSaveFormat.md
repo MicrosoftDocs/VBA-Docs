@@ -35,7 +35,7 @@ Setting the  **DefaultSaveFormat** property is equivalent to setting the **Save 
 
  **Note**  The  **DefaultSaveFormat** property setting has no effect on the file type in which Visio files are saved by the **Save** or **SaveAs** methods of the **Document** object. To control the file type in which a document is saved programatically, use the **Version** property of the **Document** object.
 
-The following  **VisDefaultSaveFormats** constants, which are declared in the Visio type libary, show the possible values for the **DefaultSaveFormat** property.
+The following  **VisDefaultSaveFormats** constants, which are declared in the Visio type library, show the possible values for the **DefaultSaveFormat** property.
 
 
 
