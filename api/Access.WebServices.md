@@ -23,7 +23,7 @@ Use the [WebServices](Access.Application.WebServices.md) property of the [Applic
 Use the following steps to install a Data Services data connection in your database.
 
 
-1. Obtain a Data Services data connection file of rthe data source that you want to connect to.
+1. Obtain a Data Services data connection file of the data source that you want to connect to.
     
 2. On the ribbon, click the  **External Data** tab.
     
