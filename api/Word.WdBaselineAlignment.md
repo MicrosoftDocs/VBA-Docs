@@ -19,6 +19,6 @@ Specifies the vertical position of fonts on a line.
 | **wdBaselineAlignAuto**|4|Microsoft Word automatically adjusts the baseline font alignment.|
 | **wdBaselineAlignBaseline**|2|Align to a baseline for the paragraph.|
 | **wdBaselineAlignCenter**|1|Align center points of each font.|
-| **wdBaselineAlignFarEast50**|3|Align using the baseline for Asian langauge font standards.|
+| **wdBaselineAlignFarEast50**|3|Align using the baseline for Asian language font standards.|
 | **wdBaselineAlignTop**|0|Align along top of each font.|
 
