@@ -52,8 +52,8 @@ Public Sub Add_Example()
  
  Dim pubAttachment As Publisher.Attachment 
  
- Set pubAttachment = ThisDocument.MailMerge.EmailMergeEnvelope.Attachemts.Add("C:\image.jpg") 
- Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.Attachemts.Count 
+ Set pubAttachment = ThisDocument.MailMerge.EmailMergeEnvelope.Attachments.Add("C:\image.jpg") 
+ Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.Attachments.Count 
  
 End Sub
 ```

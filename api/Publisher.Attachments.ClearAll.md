@@ -43,7 +43,7 @@ Public Sub ClearAll_Example()
  
  Set pubMailMerge = ThisDocument.MailMerge 
  Set pubEmailMergeEnvelope = pubMailMerge.EmailMergeEnvelope 
- Set pubAttachments = pubEmailMergeEnvelope.Attachemts 
+ Set pubAttachments = pubEmailMergeEnvelope.Attachments 
  
  Debug.Print pubAttachments.Count 
  pubAttachments.ClearAll 
