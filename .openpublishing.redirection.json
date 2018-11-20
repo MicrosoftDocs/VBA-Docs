@@ -311,6 +311,10 @@
         {
             "source_path": "language/reference/user-interface-help/carrot-operator.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/caret-operator"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/readme.md",
+            "redirect_url": "/office/vba/api/overview/language-reference"
         }
 
     ]
