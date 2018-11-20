@@ -30,7 +30,7 @@ Sets the languages for the translation service.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _LanguageFrom_|Required| **[WdLanguageID](Word.WdLanguageID.md)**|Specifies the language to translate from.|
-| _LanguageTo_|Required| **WdLanguageID**|Specifies the langauge to translate to.|
+| _LanguageTo_|Required| **WdLanguageID**|Specifies the language to translate to.|
 
 ## Return value
 

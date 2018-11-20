@@ -283,6 +283,30 @@
         {
             "source_path": "access/concepts/miscellaneous/xml.md",
             "redirect_url": "/office/vba/access/concepts/miscellaneous/concepts-access-vba-reference"
+        },
+        {
+            "source_path": "api/publisher.emailmergeenvelope.attachemts.md",
+            "redirect_url": "/office/vba/api/publisher.emailmergeenvelope.attachments"
+        },
+        {
+            "source_path": "language/reference/data-types.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/arithmetic-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/concatenation-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/user-interface-help/logical-operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+        },
+        {
+            "source_path": "language/reference/operators.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
         }
 
     ]

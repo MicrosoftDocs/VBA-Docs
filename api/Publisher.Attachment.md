@@ -44,7 +44,7 @@ Public Sub Attachment_Example()
  
  Set pubMailMerge = ThisDocument.MailMerge 
  Set pubEmailMergeEnvelope = pubMailMerge.EmailMergeEnvelope 
- Set pubAttachments = pubEmailMergeEnvelope.Attachemts 
+ Set pubAttachments = pubEmailMergeEnvelope.Attachments 
  
  Set pubAttachment = pubAttachments.Add("C:\image.bmp ") 
  

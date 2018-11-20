@@ -71,7 +71,7 @@ Specifies a compatibility option.
 | **wdAutofitLikeWW11**|57|Use Microsoft Word 2003 table autofit rules.|
 | **wdDontAutofitConstrainedTables**|56|Do not autofit tables next to wrapped objects.|
 | **wdDontUseIndentAsNumberingTabStop**|52|Do not use hanging indent as tab stop for bullets and numbering.|
-| **wdFELineBreak11**|53|Use Word 2003 hanging-punctuation rules in Asian langauges.|
+| **wdFELineBreak11**|53|Use Word 2003 hanging-punctuation rules in Asian languages.|
 | **wdHangulWidthLikeWW11**|59|Do not use proportional width for Korean characters.|
 | **wdSplitPgBreakAndParaMark**|60|Split apart page break and paragraph mark.|
 | **wdUnderlineTabInNumList**|58|Underline the tab character between the number and the text in numbered lists.|
