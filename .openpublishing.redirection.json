@@ -315,7 +315,19 @@
         {
             "source_path": "language/reference/user-interface-help/readme.md",
             "redirect_url": "/office/vba/api/overview/language-reference"
-        }
+        },
+        {
+            "source_path": "access/concepts/miscellaneous/ado-syntax-indexes.md",
+            "redirect_url": "/office/vba/access/concepts/miscellaneous/ado-for-visual-c-plus-plus-syntax-index-for-com"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visual-basic-definitions.md",
+            "redirect_url": "/office/vba/language/glossary/glossary-vba"
+          },
+          {
+            "source_path": "Language/Reference/User-Interface-Help/visual-basic-menus.md",
+            "redirect_url": "/office/vba/language/reference/menus-commands"
+          }
 
     ]
 }
