@@ -1,25 +1,23 @@
 ---
-title: ^ Operator
+title: ^ operator
 keywords: vblr6.chm1008849
 f1_keywords:
 - vblr6.chm1008849
 ms.prod: office
 ms.assetid: 9a2f874a-bf55-ae06-cf93-951d774eff0a
-ms.date: 06/08/2017
+ms.date: 11/19/2018
 ---
 
 
-# ^ Operator
-
-
+# ^ operator
 
 Used to raise a number to the power of an exponent.
 
 ## Syntax
 
-_result_**=**_number_**^**_exponent_
-The  **^** operator syntax has these parts:
+_result_=_number_**^**_exponent_
 
+The **^** operator syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -29,13 +27,13 @@ The  **^** operator syntax has these parts:
 
 ## Remarks
 
-A  _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single[expression](../../Glossary/vbe-glossary.md#expression), the  **^** operator is evaluated as it is encountered from left to right.
+A _number_ can be negative only if _exponent_ is an integer value. When more than one exponentiation is performed in a single [expression](../../Glossary/vbe-glossary.md#expression), the **^** operator is evaluated as it is encountered from left to right.
+
 Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a [Double](../../Glossary/vbe-glossary.md#double-data-type) or a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a **Double**. However, if either _number_ or _exponent_ is a [Null](../../Glossary/vbe-glossary.md#null) expression, _result_ is **Null**.
 
 ## Example
 
-This example uses the  **^** operator to raise a number to the power of an exponent.
-
+This example uses the **^** operator to raise a number to the power of an exponent.
 
 ```vb
 Dim MyValue
@@ -43,7 +41,8 @@ MyValue = 2 ^ 2    ' Returns 4.
 MyValue = 3 ^ 3 ^ 3    ' Returns 19683.
 MyValue = (-5) ^ 3    ' Returns -125.
 
-
 ```
 
+## See also
 
+- [Operator summary](operator-summary.md)
