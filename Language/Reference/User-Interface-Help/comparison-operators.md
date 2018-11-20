@@ -15,9 +15,9 @@ Used to compare [expressions](../../Glossary/vbe-glossary.md#expression).
 
 ## Syntax
 
-_result_=_expression1_ _comparisonoperator_ _expression2_ <br/>
-_result_=_object1_ **Is** _object2_ <br/>
-_result_=_string_ **Like** _pattern_ 
+_result_ = _expression1_ _comparisonoperator_ _expression2_ <br/>
+_result_ = _object1_ **Is** _object2_ <br/>
+_result_ = _string_ **Like** _pattern_ 
 
 [Comparison operators](../../Glossary/vbe-glossary.md#comparison-operator) have these parts:
 

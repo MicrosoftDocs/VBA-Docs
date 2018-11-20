@@ -20,9 +20,9 @@ _result_ = _number1_ **-** _number2_
 
 ### Syntax 2
 
-**-** number
+**`-`** number
 
-The **-** operator syntax has these parts:
+The **`-`** operator syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -33,7 +33,7 @@ The **-** operator syntax has these parts:
 
 ## Remarks
 
-In Syntax 1, the **-** operator is the arithmetic subtraction operator used to find the difference between two numbers. In Syntax 2, the **-** operator is used as the unary negation operator to indicate the negative value of an expression.
+In Syntax 1, the **`-`** operator is the arithmetic subtraction operator used to find the difference between two numbers. In Syntax 2, the **`-`** operator is used as the unary negation operator to indicate the negative value of an expression.
 
 The data type of _result_ is usually the same as that of the most precise expression. The order of precision, from least to most precise, is [Byte](../../Glossary/vbe-glossary.md#byte-data-type), [Integer](../../Glossary/vbe-glossary.md#integer-data-type), [Long](../../Glossary/vbe-glossary.md#long-data-type), [Single](../../Glossary/vbe-glossary.md#single-data-type), [Double](../../Glossary/vbe-glossary.md#double-data-type), [Currency](../../Glossary/vbe-glossary.md#currency-data-type), and [Decimal](../../Glossary/vbe-glossary.md#decimal-data-type). The following are exceptions to this order:
 

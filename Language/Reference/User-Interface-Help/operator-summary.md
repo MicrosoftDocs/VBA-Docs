@@ -14,10 +14,10 @@ ms.date: 11/19/2018
 
 |Types|Description|Operators|
 |:--------|:----------|:----|
-|[Arithmetic operators](arithmetic-operators.md)|Operators used to perform mathematical calculations.| - [* operator](operator.md)<br/>- [^ operator](carrot-operator.md)<br/>- [/ operator](forwardslash-operator.md)<br/>- [\ operator](backslash-operator.md)<br/>- [Mod operator](mod-operator.md)<br/>- [+ operator](plus-operator.md)<br/>- [- operator](minus-operator.md)<br/>|
-|[Comparison operators](comparison-operators.md)|Operators used to perform comparisons.|- [= operator](equals-operator.md)<br/>- [Is operator](is-operator.md)<br/>- [Like operator](like-operator.md)<br/>|
-|[Concatenation operators](concatenation-operators.md)|Operators used to combine strings.| - [& operator](ampersand-operator.md)<br/> - [+ operator](plus-operator.md)<br/> |
-|[Logical operators](logical-operators.md)|Operators used to perform logical operations.| - [And operator](and-operator.md)<br/>- [Eqv operator](eqv-operator.md)<br/>- [Imp operator](imp-operator.md)<br/>- [Not operator](not-operator.md)<br/>- [Or operator](or-operator.md)<br/>- [Xor operator](xor-operator.md)<br/>|
+|[Arithmetic operators](arithmetic-operators.md)|Operators used to perform mathematical calculations.| [* operator](operator.md)<br/> [^ operator](caret-operator.md)<br/> [/ operator](forwardslash-operator.md)<br/> [\ operator](backslash-operator.md)<br/> [Mod operator](mod-operator.md)<br/> [+ operator](plus-operator.md)<br/> [- operator](minus-operator.md)<br/>|
+|[Comparison operators](comparison-operators.md)|Operators used to perform comparisons.| [= operator](equals-operator.md)<br/> [Is operator](is-operator.md)<br/> [Like operator](like-operator.md)<br/>|
+|[Concatenation operators](concatenation-operators.md)|Operators used to combine strings.| [& operator](ampersand-operator.md)<br/>  [+ operator](plus-operator.md)<br/> |
+|[Logical operators](logical-operators.md)|Operators used to perform logical operations.| [And operator](and-operator.md)<br/> [Eqv operator](eqv-operator.md)<br/> [Imp operator](imp-operator.md)<br/> [Not operator](not-operator.md)<br/> [Or operator](or-operator.md)<br/> [Xor operator](xor-operator.md)<br/>|
 
 
 

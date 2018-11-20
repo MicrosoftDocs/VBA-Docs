@@ -15,7 +15,7 @@ Used to multiply two numbers.
 
 ## Syntax
 
-_result_=_number1_ * _number2_
+_result_ = _number1_ * _number2_
 
 The **\*** operator syntax has these parts:
 

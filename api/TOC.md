@@ -34767,7 +34767,7 @@
 ##### [Operator precedence](../Language/Reference/User-Interface-Help/operator-precedence.md)
 ##### [Comparison operators](../Language/Reference/User-Interface-Help/comparison-operators.md)
 ##### [* operator](../Language/Reference/User-Interface-Help/operator.md)
-##### [^ operator](../Language/Reference/User-Interface-Help/carrot-operator.md)
+##### [^ operator](../Language/Reference/User-Interface-Help/caret-operator.md)
 ##### [+ operator](../Language/Reference/User-Interface-Help/plus-operator.md)
 ##### [& operator](../Language/Reference/User-Interface-Help/ampersand-operator.md)
 ##### [= operator](../Language/Reference/User-Interface-Help/equals-operator.md)
