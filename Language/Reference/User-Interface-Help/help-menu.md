@@ -1,5 +1,5 @@
 ---
-title: Help Menu
+title: Help menu
 keywords: vbui6.chm2056466
 f1_keywords:
 - vbui6.chm2056466
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Help Menu
+# Help menu
 
 ## Microsoft Visual Basic for Applications Help
 
