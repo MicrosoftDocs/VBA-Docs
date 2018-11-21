@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Variable not yet created in this context
 
-A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before it can be displayed in the **Watch** window or the **Immediate** window, and before it can have values assigned to it in the **Immediate** window. This error has the following causes and solutions:
+A [variable](../../Glossary/vbe-glossary.md#variable) has to be created before it can be displayed in the Watch window or the Immediate window, and before it can have values assigned to it in the Immediate window. This error has the following causes and solutions:
 
 
 

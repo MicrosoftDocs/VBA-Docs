@@ -20,7 +20,7 @@ A watch expression is an expression you define to be monitored in the  **Watch**
 
 1. On the  **Debug** menu, click **Add Watch**. The **Add Watch** dialog box is displayed.
     
-2. If an [expression](../../Glossary/vbe-glossary.md#expression) is already selected in the **Code** window, it is automatically displayed in the **Expression** box. If no expression is displayed, enter the expression you want to evaluate. The expression can be a [variable](../../Glossary/vbe-glossary.md#variable), a [property](../../Glossary/vbe-glossary.md#property), a function call, or any other valid expression.
+2. If an [expression](../../Glossary/vbe-glossary.md#expression) is already selected in the Code window, it is automatically displayed in the **Expression** box. If no expression is displayed, enter the expression you want to evaluate. The expression can be a [variable](../../Glossary/vbe-glossary.md#variable), a [property](../../Glossary/vbe-glossary.md#property), a function call, or any other valid expression.
     
 3. Select a [module](../../Glossary/vbe-glossary.md#module) or [procedure](../../Glossary/vbe-glossary.md#procedure) context in the **Context** group to select the range for which the expression will be evaluated.
     

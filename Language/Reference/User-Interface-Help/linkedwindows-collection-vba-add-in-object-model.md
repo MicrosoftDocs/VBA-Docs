@@ -24,7 +24,7 @@ Use the  **LinkedWindows** collection to modify the [docked](../../Glossary/vbe-
 
 
 The  **LinkedWindowFrame** property of the **Window** object returns a **Window** object that has a valid **LinkedWindows** collection.
-Linked window frames contain all windows that can be linked or docked. This includes all windows except code windows, [designers](../../Glossary/vbe-glossary.md#designer), the [Object Browser](../../Glossary/vbe-glossary.md#object-browser) window, and the **Search and Replace** window.
+Linked window frames contain all windows that can be linked or docked. This includes all windows except code windows, [designers](../../Glossary/vbe-glossary.md#designer), the [Object Browser](../../Glossary/vbe-glossary.md#object-browser) window, and the Search and Replace window.
 If all the panes from one linked window frame are moved to another window, the linked window frame with no panes is destroyed. However, if all the panes are removed from the main window, it isn't destroyed.
 Use the  **Visible** property to check or set the visibility of a window.
 You can use the  **Add** method to add a window to the [collection](../../Glossary/vbe-glossary.md#collection) of currently linked windows. A window that is a pane in one linked window frame can be added to another linked window frame. Use the **Remove** method to remove a window from the collection of currently linked windows; this results in the window being unlinked or undocked.

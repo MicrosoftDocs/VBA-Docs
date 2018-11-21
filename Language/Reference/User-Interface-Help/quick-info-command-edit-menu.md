@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Quick Info Command (Edit Menu)
 
-Provides the syntax for a variable, function, statement, method, or procedure selected in the  **Code** window.
+Provides the syntax for a variable, function, statement, method, or procedure selected in the  Code window.
 
  **Quick** **Info** shows the syntax for the item and highlights the current parameter. For functions and procedures with parameters, the parameter appears bold as you type it, until you type the comma used to delineate it from the next parameter.
 

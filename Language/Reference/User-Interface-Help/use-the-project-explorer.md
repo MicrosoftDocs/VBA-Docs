@@ -23,7 +23,7 @@ The  **Project Explorer** displays a hierarchical list of the [projects](../../G
     
 2. Select an item from the collapsible tree that includes all projects and their components.
     
-3. Click the  **View Code** button to open the **Code** window to begin entering code. - or - Click the **View Object** button to open a window containing the specified object. - or - Click the **Toggle Folders** button to toggle between folder view and folder contents view.
+3. Click the  **View Code** button to open the Code window to begin entering code. - or - Click the **View Object** button to open a window containing the specified object. - or - Click the **Toggle Folders** button to toggle between folder view and folder contents view.
     
 
 

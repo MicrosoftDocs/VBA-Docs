@@ -15,7 +15,7 @@ ms.date: 11/12/2018
 
 The **Debug** object has two methods, _.Print_ and _.Assert_. 
 
-_.Print_ string expr sends string expr as output to the **Immediate** window at **Debug** [run time](../../Glossary/vbe-glossary.md#run-time).
+_.Print_ string expr sends string expr as output to the Immediate window at **Debug** [run time](../../Glossary/vbe-glossary.md#run-time).
 
 _.Assert_ expression evaluates expression and, if false, breakpoints in the debugger.
 

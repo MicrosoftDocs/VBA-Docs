@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 
 
-Prints text in the  **Immediate** window.
+Prints text in the  Immediate window.
 
 ## Syntax
 
@@ -42,7 +42,7 @@ The  _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) has the fo
 ## Remarks
 
 Multiple expressions can be separated with either a space or a semicolon.
-All data printed to the  **Immediate** window is properly formatted using the decimal separator for the [locale](../../Glossary/vbe-glossary.md#locale) settings specified for your system. The[keywords](../../Glossary/vbe-glossary.md#keyword) are output in the appropriate language for the [host application](../../Glossary/vbe-glossary.md#host-application).
+All data printed to the  Immediate window is properly formatted using the decimal separator for the [locale](../../Glossary/vbe-glossary.md#locale) settings specified for your system. The[keywords](../../Glossary/vbe-glossary.md#keyword) are output in the appropriate language for the [host application](../../Glossary/vbe-glossary.md#host-application).
 For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `True` or `False` is printed. The **True** and **False** keywords are translated according to the locale setting for the host application.
 [Date](../../Glossary/vbe-glossary.md#date-data-type) data is written using the standard short date format recognized by your system. When either the date or the time component is missing or zero, only the data provided is written.
 Nothing is written if  _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, if  _outputlist_ data is [Null](../../Glossary/vbe-glossary.md#null),  `Null` is output. The **Null** keyword is appropriately translated when it is output.
@@ -54,7 +54,7 @@ The  _object_ is required if the method is used outside a [module](../../Glossar
 
 ## Example
 
-Using the  **Print** method, this example displays the value of the variable `MyVar` in the **Immediate** window. Note that the **Print** method only applies to objects that can display text.
+Using the  **Print** method, this example displays the value of the variable `MyVar` in the Immediate window. Note that the **Print** method only applies to objects that can display text.
 
 
 ```vb

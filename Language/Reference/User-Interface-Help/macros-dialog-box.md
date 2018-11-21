@@ -42,11 +42,11 @@ Highlights the first line of the macro and places the Current Execution Line Ind
 
  **Edit**
 
-Opens the  **Code** window with the selected macro visible so you can modify your macro.
+Opens the  Code window with the selected macro visible so you can modify your macro.
 
  **Create**
 
-Opens a module in the  **Code** window so you can create a new macro.
+Opens a module in the  Code window so you can create a new macro.
 
  **Delete**
 

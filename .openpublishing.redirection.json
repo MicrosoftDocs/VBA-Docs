@@ -325,8 +325,32 @@
             "redirect_url": "/office/vba/language/glossary/glossary-vba"
           },
           {
-            "source_path": "Language/Reference/User-Interface-Help/visual-basic-menus.md",
+            "source_path": "language/reference/user-interface-help/visual-basic-menus.md",
             "redirect_url": "/office/vba/language/reference/menus-commands"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/copy-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/find-whole-word-only-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/group-members-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/show-hidden-members-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/view-definition-command-object-browser-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           }
 
     ]

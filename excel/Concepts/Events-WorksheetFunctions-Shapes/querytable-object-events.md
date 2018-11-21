@@ -11,7 +11,7 @@ ms.date: 11/13/2018
 
 # QueryTable object events
 
-**QueryTable** object events occur when a **QueryTable** object is refreshed. These events are enabled by default. To view the event procedures available for a particular sheet, right-click the sheet tab, and then click **View Code** on the shortcut menu. In the **Procedure** drop-down list box in the **Code** window, click the name of the event you want to use.
+**QueryTable** object events occur when a **QueryTable** object is refreshed. These events are enabled by default. To view the event procedures available for a particular sheet, right-click the sheet tab, and then click **View Code** on the shortcut menu. In the **Procedure** drop-down list box in the Code window, click the name of the event you want to use.
 
 -  [AfterRefresh](../../../api/Excel.QueryTable.AfterRefresh.md)
     

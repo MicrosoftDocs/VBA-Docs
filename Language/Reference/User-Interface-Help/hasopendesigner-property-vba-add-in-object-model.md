@@ -19,6 +19,6 @@ The **HasOpenDesigner** property returns these values:
 
 |Value|Description|
 |:-----|:-----|
-|**True**|The **VBComponent** object has an open **Design** window.|
-|**False**|The **VBComponent** object doesn't have an open **Design** window.|
+|**True**|The **VBComponent** object has an open Design window.|
+|**False**|The **VBComponent** object doesn't have an open Design window.|
 

@@ -82,7 +82,7 @@ Restores the last text editing Undo actions if no other actions have occurred si
 
 ![Run](../../../images/tbr_strt_ZA01201751.gif) **Run Sub/UserForm or Run Macro**
 
-Runs the current procedure if the cursor is in a procedure, runs the  **[UserForm](userform-window.md)** if a **UserForm** is currently active, or runs a macro if neither the **Code** window nor a **UserForm** is active.
+Runs the current procedure if the cursor is in a procedure, runs the  **[UserForm](userform-window.md)** if a **UserForm** is currently active, or runs a macro if neither the Code window nor a **UserForm** is active.
 
 
 ![Break](../../../images/tbr_brk_ZA01201682.gif) **Break**
@@ -107,7 +107,7 @@ Displays the  **Project** **Explorer**, which displays a hierarchical list of th
 
 ![Properties window](../../../images/tbr_prop_ZA01201727.gif) **Properties Window**
 
-Opens the  **Properties** window so you can view the properties of the selected control.
+Opens the  Properties window so you can view the properties of the selected control.
 
 
 ![Object browser](../../../images/tbr_obbr_ZA01201718.gif) **Object Browser**

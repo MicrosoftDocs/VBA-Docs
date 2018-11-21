@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Design Mode and Exit Design Mode Commands (Run Menu)
 
-Turns design mode on and off per project. Design mode is the time during which no code from the project is running and events from the host or project will not execute. You can leave design mode by executing a macro or using the  **Immediate** window.
+Turns design mode on and off per project. Design mode is the time during which no code from the project is running and events from the host or project will not execute. You can leave design mode by executing a macro or using the  Immediate window.
 
  **Design Mode Command**
 

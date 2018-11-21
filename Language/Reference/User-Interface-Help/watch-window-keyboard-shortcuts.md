@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Watch Window Keyboard Shortcuts
 
-Use these key combinations in the  **Watch** window:
+Use these key combinations in the  Watch window:
 
 
 

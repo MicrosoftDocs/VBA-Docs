@@ -34,6 +34,6 @@ Shows the value of the selected expression. The current value isn't displayed if
 
  **Add**
 
-Adds the expression to the  **Watch** window.
+Adds the expression to the  Watch window.
 
 

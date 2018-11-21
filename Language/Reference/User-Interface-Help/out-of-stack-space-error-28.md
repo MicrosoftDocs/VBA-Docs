@@ -28,5 +28,5 @@ The stack is a working area of memory that grows and shrinks dynamically with th
 - Your code triggered an event cascade. An event cascade is caused by triggering an event that calls an event procedure that's already on the stack. An event cascade is similar to an unterminated recursive procedure call, but it's less obvious, since the call is made by Visual Basic rather than by an explicit call in your code. Use the  **Calls** dialog box to view which procedures are active (on the stack).
     
 
-To display the  **Calls** dialog box, select the **Calls** button to the right of the [Procedure box](../../Glossary/vbe-glossary.md#procedure-box) in the **Debug** window or choose the **Calls** command. For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
+To display the  **Calls** dialog box, select the **Calls** button to the right of the [Procedure box](../../Glossary/vbe-glossary.md#procedure-box) in the Debug window or choose the **Calls** command. For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 

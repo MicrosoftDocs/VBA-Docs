@@ -11,12 +11,12 @@ ms.date: 06/08/2017
 
 # View Object and View Code Commands (Shortcut Menu)
 
-Allows you to view either the  **Design** window or the **Code** window.
+Allows you to view either the  Design window or the Code window.
 
  **View Object**
 
 Displays or activates the selected item.
 
  **View Code**
-Displays or activates the  **Code** window for a currently selected[object](../../Glossary/vbe-glossary.md#object).
+Displays or activates the  Code window for a currently selected[object](../../Glossary/vbe-glossary.md#object).
 

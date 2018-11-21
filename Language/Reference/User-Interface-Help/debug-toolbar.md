@@ -31,7 +31,7 @@ Turns design mode off and on.
 
 ![Run sub userform](../../../images/tbr_strt_ZA01201751.gif) **Run Sub/UserForm** or **Run Macro**
 
-Runs the current procedure if the cursor is in a procedure, runs the  **[UserForm](userform-window.md)** if a **[UserForm](userform-window.md)** is currently active, or runs a macro if neither the **Code** window nor a **[UserForm](userform-window.md)** is active.
+Runs the current procedure if the cursor is in a procedure, runs the  **[UserForm](userform-window.md)** if a **[UserForm](userform-window.md)** is currently active, or runs a macro if neither the Code window nor a **[UserForm](userform-window.md)** is active.
 
 
 ![Break](../../../images/tbr_brk_ZA01201682.gif) **Break**
@@ -56,7 +56,7 @@ Executes code one statement at a time.
 
 ![Step over](../../../images/tbr_stpo_ZA01201750.gif) **Step Over**
 
-Executes code one procedure or statement at a time in the  **Code** window.
+Executes code one procedure or statement at a time in the  Code window.
 
 
 ![Step out](../../../images/tbr_stot_ZA01201748.gif) **Step Out**
@@ -66,17 +66,17 @@ Executes the remaining lines of a procedure in which the current execution point
 
 ![Locals window](../../../images/tbr_lowd_ZA01201713.gif) **Locals Window**
 
-Displays the  **Locals** window.
+Displays the  Locals window.
 
 
 ![Immediate window](../../../images/tbr_imwd_ZA01201710.gif) **Immediate Window**
 
-Displays the  **Immediate** window.
+Displays the  Immediate window.
 
 
 ![Watch window](../../../images/tbr_wawd_ZA01201768.gif) **Watch Window**
 
-Displays the  **Watch** window.
+Displays the  Watch window.
 
 
 ![Quick watch](../../../images/tbr_qwat_ZA01201733.gif) **Quick Watch**

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Code Window General Use Keys
 
-Use these key combinations in the  **Code** window:
+Use these key combinations in the  Code window:
 
 
 

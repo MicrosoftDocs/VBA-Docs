@@ -42,7 +42,7 @@ With files opened for **Binary** access, an attempt to read through the file usi
 
 ## Example
 
-This example uses the **Input** function to read one character at a time from a file and print it to the **Immediate** window. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
+This example uses the **Input** function to read one character at a time from a file and print it to the Immediate window. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
 
 
 ```vb

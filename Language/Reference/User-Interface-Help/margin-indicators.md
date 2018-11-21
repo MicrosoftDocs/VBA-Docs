@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Visual Basic contains [margin indicators](../../Glossary/vbe-glossary.md#margin-indicator) that provide visual cues to certain actions during the editing of your code. If more than one action occurs on a line, the appropriate indicators also appear.
 
-The margin indicators appear in the Margin Indicator bar on left side of the  **Code** window.
+The margin indicators appear in the Margin Indicator bar on left side of the  Code window.
 
 You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** tab of the **Options** dialog box.
 

@@ -18,7 +18,6 @@ Built-in menus appear on the menu bar across the top of the Visual Basic window.
 Some of the commands have submenus that contains more specific commands. For example, the **Toolbars** command on the **View** menu has a submenu that contains the names of the toolbars and the **Customize** command. You can use the **Customize** command to modify the built-in menus or to add commands to the menu bar.
 
 - [Add-Ins menu](user-interface-help/add-ins-menu.md)
-- [Comment Block and Uncomment Block commands](user-interface-help/comment-block-and-uncomment-block-commands.md)
 - [Debug menu](user-interface-help/debug-menu.md)
 - [Edit menu](user-interface-help/edit-menu.md)
 - [File menu](user-interface-help/file-menu.md)
@@ -27,9 +26,9 @@ Some of the commands have submenus that contains more specific commands. For exa
 - [Insert menu](user-interface-help/insert-menu.md)
 - [Run menu](user-interface-help/run-menu.md)
 - [Tools menu](user-interface-help/tools-menu.md)
-- [UserForm command bar](user-interface-help/userform-command-bar.md)
 - [View menu](user-interface-help/view-menu.md)
 - [Window menu](user-interface-help/window-menu-commands.md)
+
 
 ## Shortcut menus
 
@@ -39,5 +38,7 @@ Shortcut menus are menus containing frequently used commands that appear when yo
 > To find information about a command on a menu, use the **Search Reference Index** command on the **Help** menu and search for the name of the command.
 
 
+## See also
 
-
+- [Comment Block and Uncomment Block commands](user-interface-help/comment-block-and-uncomment-block-commands.md)
+- [Zoom command](user-interface-help/zoom-command.md)

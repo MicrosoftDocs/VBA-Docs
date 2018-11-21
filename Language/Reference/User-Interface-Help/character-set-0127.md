@@ -12,7 +12,7 @@ ms.date: 08/24/2018
 # Character set (0 - 127)
 
 
-|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|
+|Code|Character|Code|Character|Code|Character|Code|Character|
 |-----:|:-----|-----:|:-----|-----:|:-----|-----:|:-----|
 |0||32|[space]|64|@|96|`|
 |1||33|!|65|A|97|a|

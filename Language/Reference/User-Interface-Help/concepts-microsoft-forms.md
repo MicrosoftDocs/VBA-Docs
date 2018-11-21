@@ -2,11 +2,13 @@
 title: Microsoft Forms conceptual topics
 ms.prod: office
 ms.assetid: 13f7683b-9bc5-4036-b79d-edd774a3613d
-ms.date: 11/15/2018
+ms.date: 11/21/2018
 ---
 
 
 # Microsoft Forms conceptual topics
+
+Information about **UserForms** and controls, and how to program with them by using Visual Basic.
 
 - [Active controls and selected controls](../../Concepts/Forms/active-controls-and-selected-controls.md)
 - [Add a control to a form](../../Concepts/Forms/add-a-control-to-a-form.md)

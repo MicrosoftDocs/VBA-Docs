@@ -2,7 +2,7 @@
 title: Error messages
 ms.prod: office
 ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
-ms.date: 09/17/2018
+ms.date: 11/21/2018
 ---
 
 
@@ -11,7 +11,7 @@ ms.date: 09/17/2018
 - [#Else clause must be preceded by a matching #If](User-Interface-Help/else-clause-must-be-preceded-by-a-matching-if.md)   
 - [#Else If, #Else, or #End If must be preceded by a matching #If](User-Interface-Help/else-ifelse-or-end-if-must-be-preceded-by-a-matching-if.md)   
 - [#ElseIf must be preceded by a matching #If or #ElseIf and followed by an #ElseIf, #Else, or #End If](User-Interface-Help/elseif-must-be-preceded-by-a-matching-if-or-elseif-and-followed-by-an-elseifelse.md)    
-- [<Item> is not a valid control type (Error 720)](User-Interface-Help/item-is-not-a-valid-control-type-error-720.md)   
+- [Item is not a valid control type (Error 720)](User-Interface-Help/item-is-not-a-valid-control-type-error-720.md)   
 - [A compatible ActiveX component must be a Visual Basic executable or a DLL](User-Interface-Help/a-compatible-activex-component-must-be-a-visual-basic-executable-or-a-dll.md)   
 - [A form can't be moved or sized while minimized or maximized](User-Interface-Help/a-form-can-t-be-moved-or-sized-while-minimized-or-maximized.md)   
 - [A module is not a valid type](User-Interface-Help/a-module-is-not-a-valid-type.md)   
@@ -106,7 +106,7 @@ ms.date: 09/17/2018
 - [Code execution has been interrupted](User-Interface-Help/code-execution-has-been-interrupted.md)
 - [Code resource lock error (Error 455)](User-Interface-Help/code-resource-lock-error-error-455.md)
 - [Code resource not found (Error 454)](User-Interface-Help/code-resource-not-found-error-454.md)
-- [Compile error in hidden module: <module name>](User-Interface-Help/compile-error-in-hidden-modulemodule-name.md)
+- [Compile error in hidden module: (module name)](User-Interface-Help/compile-error-in-hidden-modulemodule-name.md)
 - [Component could not successfully create requested object](User-Interface-Help/component-could-not-successfully-create-requested-object.md)
 - [Component 'item' or one of its dependencies not correctly registered: a file is missing or invalid](User-Interface-Help/component-item-or-one-of-its-dependencies-not-correctly-registered-a-file-is-mis.md)
 - [Component not correctly registered](User-Interface-Help/component-not-correctly-registered.md)
@@ -179,7 +179,7 @@ ms.date: 09/17/2018
 - [Expected variable or procedure, not Enum type](User-Interface-Help/expected-variable-or-procedure-not-enum-type.md)
 - [Expected variable or procedure, not module](User-Interface-Help/expected-variable-or-procedure-not-module.md)
 - [Expected variable or procedure, not project](User-Interface-Help/expected-variable-or-procedure-not-project.md)
-- [Expected: <various>](User-Interface-Help/expectedvarious.md)
+- [Expected: (various)](User-Interface-Help/expectedvarious.md)
 - [Expression too complex (Error 16)](User-Interface-Help/expression-too-complex-error-16.md)
 - [External name not defined](User-Interface-Help/external-name-not-defined.md)
 - [Failed to activate control 'item 1'. This control may be incompatible with your application. Make sure you are using the version of the control that was provided with your application.](User-Interface-Help/failed-to-activate-control-item-1this-control-may-be-incompatible-with-your-appl.md)
@@ -402,7 +402,7 @@ ms.date: 09/17/2018
 - [Procedure too large](User-Interface-Help/procedure-too-large.md)
 - [Procedure type mismatch](User-Interface-Help/procedure-type-mismatch.md)
 - [Programmatic ID string too long 'item'. The Programmatic ID must be 39 characters or less.](User-Interface-Help/programmatic-id-string-too-long-itemthe-programmatic-id-must-be-39-characters-or.md)
-- [Project <name> has been modified. Do you wish to save the changes now?](User-Interface-Help/project-name-has-been-modified-do-you-wish-to-save-the-changes-now.md)
+- [Project name has been modified. Do you wish to save the changes now?](User-Interface-Help/project-name-has-been-modified-do-you-wish-to-save-the-changes-now.md)
 - [Project contains too many procedure, variable, and constant names](User-Interface-Help/project-contains-too-many-procedure-variable-and-constant-names.md)
 - [Project file is read-only](User-Interface-Help/project-file-is-read-only.md)
 - [Project is unviewable.](User-Interface-Help/project-is-unviewable.md)
@@ -423,7 +423,7 @@ ms.date: 09/17/2018
 - [Resume without error (Error 20)](User-Interface-Help/resume-without-error-error-20.md)
 - [Return without GoSub (Error 3)](User-Interface-Help/return-without-gosub-error-3.md)
 - [RSet allowed only on strings](User-Interface-Help/rset-allowed-only-on-strings.md)
-- [Run-time error <number>:](User-Interface-Help/run-time-error-number.md)
+- [Run-time error number:](User-Interface-Help/run-time-error-number.md)
 - [Search string must be specified (VBE)](User-Interface-Help/search-string-must-be-specified-vbe.md)
 - [Search string must be specified](User-Interface-Help/search-string-must-be-specified.md)
 - [Search string too long or complex](User-Interface-Help/search-string-too-long-or-complex.md)

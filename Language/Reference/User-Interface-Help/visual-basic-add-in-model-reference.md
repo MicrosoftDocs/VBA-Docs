@@ -1,13 +1,14 @@
 ---
-title: Visual Basic add-in model reference
+title: Visual Basic Add-in Model reference
 ms.prod: office
 ms.assetid: 4cb81d38-3a23-4dd2-9541-3d623b1cd1a2
-ms.date: 09/17/2018
+ms.date: 11/21/2018
 ---
 
 
-# Visual Basic add-in model reference
+# Visual Basic Add-in Model reference
 
+Describes how to customize the Visual Basic Editor, and provides documentation for the object model that enables you to extend the environment.
 
 - [Collections](../Visual-Basic-Add-in-Model/collections-visual-basic-add-in-model.md)    
 - [Events](../Visual-Basic-Add-in-Model/events-visual-basic-add-in-model.md)   
