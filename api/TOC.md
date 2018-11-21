@@ -34991,11 +34991,11 @@
 #### [Strings](../Language/Reference/strings.md)
 ##### [Returns for CStr](../Language/Reference/User-Interface-Help/returns-for-cstr.md)
 #### Toolbars
-##### [Debug Toolbar](../Language/Reference/User-Interface-Help/debug-toolbar.md)
-##### [Editor Toolbar](../Language/Reference/User-Interface-Help/editor-toolbar.md)
-##### [Standard Toolbar](../Language/Reference/User-Interface-Help/standard-toolbar.md)
+##### [Debug toolbar](../Language/Reference/User-Interface-Help/debug-toolbar.md)
+##### [Editor toolbar](../Language/Reference/User-Interface-Help/editor-toolbar.md)
+##### [Standard toolbar](../Language/Reference/User-Interface-Help/standard-toolbar.md)
 ##### [Toolbox](../Language/Reference/User-Interface-Help/toolbox.md)
-#### Window elements
+#### [Window elements](window-elements.md)
 ##### [Code window](../Language/Reference/User-Interface-Help/code-window.md)
 ###### [Code window editing keys](../Language/Reference/User-Interface-Help/code-editing-keys.md)
 ###### [Code window general use keys](../Language/Reference/User-Interface-Help/code-window-general-use-keys.md)
