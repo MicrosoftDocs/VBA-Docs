@@ -1,7 +1,7 @@
 ---
 title: Language reference for Visual Basic for Applications (VBA)
 description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Visual Basic for Applications. 
-ms.date: 11/15/2018
+ms.date: 11/21/2018
 ---
 
 # Language reference for Visual Basic for Applications (VBA)
@@ -19,7 +19,7 @@ Use the table of contents in the navigation on the left to view the topics in th
 
 -  [Microsoft Forms conceptual topics](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/concepts-microsoft-forms)
     
-    Provides information about **Userforms** and controls, and how to program with them by using Visual Basic.
+    Provides information about **UserForms** and controls, and how to program with them by using Visual Basic.
   
 -  [Visual Basic how-to topics](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/visual-basic-how-to-topics)
     
@@ -27,7 +27,7 @@ Use the table of contents in the navigation on the left to view the topics in th
     
 -  [Visual Basic language reference](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/visual-basic-language-reference)
     
-    Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects.
+    Provides documentation about Visual Basic the language: all its methods, properties, statements, functions, operators, and objects. It also includes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
 
 -  [Visual Basic definitions](https://docs.microsoft.com/office/vba/language/glossary/glossary-vba)
     
