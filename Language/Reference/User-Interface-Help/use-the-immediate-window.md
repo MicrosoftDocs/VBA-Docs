@@ -11,25 +11,25 @@ ms.date: 06/08/2017
 
 # Use the Immediate Window
 
-The  **Immediate** window displays information resulting from debugging statements in your code or from commands typed directly into the window.
+The  Immediate window displays information resulting from debugging statements in your code or from commands typed directly into the window.
 
  **To display the Immediate window**
 
 
 
 
-- From the  **View** menu, choose **Immediate** window (CTRL+G)
+- From the  **View** menu, choose Immediate window (CTRL+G)
     
 
  **To execute code in the Immediate window**
 
 
-1. Type a line of code in the  **Immediate** window.
+1. Type a line of code in the  Immediate window.
     
 2. Press ENTER to execute the statement.
     
 
-Use the  **Immediate** window to:
+Use the  Immediate window to:
 
 
 - Test problematic or newly written code.
@@ -42,7 +42,7 @@ Use the  **Immediate** window to:
     
 - View debugging output while the program is running.
     
-     **Note**   **Immediate** window statements are executed in a context — that is, as if they are entered in a specific[module](../../Glossary/vbe-glossary.md#module).
+     **Note**   Immediate window statements are executed in a context — that is, as if they are entered in a specific[module](../../Glossary/vbe-glossary.md#module).
 
-If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md#property), or [methods](../../Glossary/vbe-glossary.md#method) while working in the **Immediate** window, select the [keyword](../../Glossary/vbe-glossary.md#keyword), the property name, or the method name, and press F1.
+If you need help on syntax for functions, statements, [properties](../../Glossary/vbe-glossary.md#property), or [methods](../../Glossary/vbe-glossary.md#method) while working in the Immediate window, select the [keyword](../../Glossary/vbe-glossary.md#keyword), the property name, or the method name, and press F1.
 

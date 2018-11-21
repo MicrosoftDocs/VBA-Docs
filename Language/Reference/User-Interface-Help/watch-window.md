@@ -21,7 +21,7 @@ You can:
 
 - Change the size of the column headers by dragging its border to the right to make it larger or to the left to make it smaller.
     
-- Drag a selected variable to the  **Immediate** window or the **Watch** window.
+- Drag a selected variable to the  Immediate window or the Watch window.
     
 - Close the window by clicking the Close box. If the Close box is not visible, double-click the  **Title** bar to make the Close box visible, then click it.
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
  **Undo**
 
-Reverses the last editing action, such as typing text in the  **Code** window or deleting controls. When you delete one or more controls, you can use the **Undo** command to restore the controls and all their properties.
+Reverses the last editing action, such as typing text in the  Code window or deleting controls. When you delete one or more controls, you can use the **Undo** command to restore the controls and all their properties.
 
 Toolbar shortcut 
 ![Toolbar button](../../../images/tbr_undo_ZA01201762.gif). Keyboard shortcuts: CTRL+Z or ALT+BACKSPACE.

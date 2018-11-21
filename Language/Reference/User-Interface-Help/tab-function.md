@@ -33,7 +33,7 @@ When you use the  **Tab** function with the **Print** method, the print surface 
 
 ## Example
 
-This example uses the  **Tab** function to position output in a file and in the **Immediate** window.
+This example uses the  **Tab** function to position output in a file and in the Immediate window.
 
 
 ```vb

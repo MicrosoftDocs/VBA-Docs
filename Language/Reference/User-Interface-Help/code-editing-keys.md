@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Code Editing Keys
 
-Use these key combinations to edit code in the  **Code** window:
+Use these key combinations to edit code in the  Code window:
 
 
 

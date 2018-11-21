@@ -1,5 +1,5 @@
 ---
-title: Additional Controls Dialog Box
+title: Additional Controls dialog box
 keywords: vbui6.chm2016019
 f1_keywords:
 - vbui6.chm2016019
@@ -9,8 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Additional Controls Dialog Box
-
+# Additional Controls dialog box
 
 ![Additional controls](../../../images/addctrid_ZA01201564.gif)
 

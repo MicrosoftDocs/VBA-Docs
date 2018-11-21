@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Immediate Window Keyboard Shortcuts
 
-Use these key combinations in the  **Immediate** window:
+Use these key combinations in the  Immediate window:
 
 
 
@@ -28,8 +28,8 @@ Use these key combinations in the  **Immediate** window:
 |DELETE or DEL|Delete the selected text without placing it on the  **Clipboard**.|
 |F2|Display the  **Object Browser**.|
 |CTRL+ENTER|Insert carriage return.|
-|CTRL+HOME|Move the cursor to the top of the  **Immediate** window.|
-|CTRL+END|Move the cursor to the end of the  **Immediate** window.|
+|CTRL+HOME|Move the cursor to the top of the  Immediate window.|
+|CTRL+END|Move the cursor to the end of the  Immediate window.|
 |SHIFT+F10|View shortcut menu.|
 |ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
 |ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|

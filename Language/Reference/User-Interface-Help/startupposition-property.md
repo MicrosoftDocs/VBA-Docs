@@ -26,7 +26,7 @@ You can use one of four settings for **StartUpPosition**:
 
 ## Remarks
 
-You can set the **StartUpPosition** property programmatically or from the **Properties** window.
+You can set the **StartUpPosition** property programmatically or from the Properties window.
 
 ## Example
 

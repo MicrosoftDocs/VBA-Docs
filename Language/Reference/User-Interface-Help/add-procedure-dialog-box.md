@@ -1,5 +1,5 @@
 ---
-title: Add Procedure Dialog Box
+title: Add Procedure dialog box
 keywords: vbui6.chm2018961
 f1_keywords:
 - vbui6.chm2018961
@@ -9,49 +9,41 @@ ms.date: 06/08/2017
 ---
 
 
-# Add Procedure Dialog Box
-
+# Add Procedure dialog box
 
 ![Add procedure dialog box](../../../images/insproc_ZA01201617.gif)
 
+Inserts a new [Sub](../../Glossary/vbe-glossary.md#sub-procedure), [Function](../../Glossary/vbe-glossary.md#function-procedure), or [Property](../../Glossary/vbe-glossary.md#property-procedure) procedure. The **Add Procedure** dialog box also allows you to set the [scope](../../Glossary/vbe-glossary.md#scope) to public or private, and make all local variables in the procedure static.
 
+The following sections describe the dialog box options.
 
-Inserts a new [Sub](../../Glossary/vbe-glossary.md#sub-procedure), [Function](../../Glossary/vbe-glossary.md#function-procedure), or [Property](../../Glossary/vbe-glossary.md#property-procedure) procedure. The **Add** **Procedure** dialog box also allows you to set the [scope](../../Glossary/vbe-glossary.md#scope) to public or private, and make all local variables in the procedure static.
-
-## Dialog Box Options
-
- **Name**
+## Name
 
 Lists a name for the new procedure.
 
- **Type**
+## Type
 
 Identifies the type of procedure to create.
 
-
-
-
-- Sub — Creates a new  **Sub** procedure.
+- Sub: Creates a new **Sub** procedure.
     
-- Function — Creates a new  **Function** procedure.
+- Function: Creates a new **Function** procedure.
     
-- Property — Creates a new  **Let** property and **Get** property procedure pair.
+- Property: Creates a new **Let** property and **Get** property procedure pair.
     
+## Scope
 
+Sets the procedure's scope to either **Public** or **Private**.
 
- **Scope**
+## All Local Variables as Statics
 
-Sets the procedure's scope to either  **Public** or **Private**.
+Adds the **Static** keyword to the procedure definition.
 
- **All Local Variables as Statics**
+## OK
 
-Adds the  **Static** keyword to the procedure definition.
+Inserts the procedure template in the Code window.
 
- **OK**
-
-Inserts the procedure template in the  **Code** window.
-
- **Cancel**
+## Cancel
 
 Closes the dialog box without inserting a new procedure.
 

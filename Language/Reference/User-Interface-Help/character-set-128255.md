@@ -11,7 +11,7 @@ ms.date: 08/24/2018
 
 # Character set (128 - 255)
 
-|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|**Code**|**Character**|
+|Code|Character|Code|Character|Code|Character|Code|Character|
 |-----:|:-----|-----:|:-----|-----:|:-----|-----:|:-----|
 |128|€|160|[space]|192|À|224|à|
 |129||161|¡|193|Á|225|á|

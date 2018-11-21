@@ -32,7 +32,7 @@ When you use the  **Print** method with a proportionally spaced font, the width 
 
 ## Example
 
-This example uses the  **Spc** function to position output in a file and in the **Immediate** window.
+This example uses the  **Spc** function to position output in a file and in the Immediate window.
 
 
 ```vb
@@ -43,7 +43,7 @@ Close #1    ' Close file.
 
 ```
 
-The following statement causes the text to be printed in the  **Immediate** window (using the **Print** method), preceded by 30 spaces.
+The following statement causes the text to be printed in the  Immediate window (using the **Print** method), preceded by 30 spaces.
 
 
 

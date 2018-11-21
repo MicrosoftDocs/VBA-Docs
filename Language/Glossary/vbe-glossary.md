@@ -456,7 +456,7 @@ A 4-byte integer ranging in value from -2,147,483,648 to 2,147,483,647. The ampe
 
 ## margin indicator
 
-An icon displayed in the  **Margin Indicator** bar in the **Code** window. Margin indicators provide visual cues during code editing.
+An icon displayed in the  **Margin Indicator** bar in the Code window. Margin indicators provide visual cues during code editing.
 
 
 ## MDI child
@@ -545,7 +545,7 @@ A combination of code and data that can be treated as a unit, for example, a con
 
 ## Object box
 
-A list box at the upper-left corner of the  **Code** window that lists the form and controls in the form to which the code is attached, or a list box located at the top of the **Properties** window that lists the form and its controls.
+A list box at the upper-left corner of the  Code window that lists the form and controls in the form to which the code is attached, or a list box located at the top of the **Properties** window that lists the form and its controls.
 
 
 ## Object Browser
@@ -625,7 +625,7 @@ A named sequence of statements executed as a unit. For example,  **Function**, *
 
 ## Procedure box
 
-A list box at the upper-right corner of the  **Code** window and the **Debug** window that displays the procedures recognized for the object displayed in the **Object** box.
+A list box at the upper-right corner of the  Code window and the **Debug** window that displays the procedures recognized for the object displayed in the **Object** box.
 
 
 ## procedure call

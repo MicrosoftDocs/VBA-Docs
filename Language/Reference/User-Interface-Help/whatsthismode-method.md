@@ -28,7 +28,7 @@ Executing the  **WhatsThisMode** method places the application in the same state
 
 ## Example
 
-The following example changes the mouse pointer to the  **What's This** (question mark) pointer when the user clicks the **[UserForm](userform-window.md)**. If neither the **WhatsThisHelp** or the **WhatsThisButton** property is set to **True** in the **Properties** window, the following invocation has no effect.
+The following example changes the mouse pointer to the  **What's This** (question mark) pointer when the user clicks the **[UserForm](userform-window.md)**. If neither the **WhatsThisHelp** or the **WhatsThisButton** property is set to **True** in the Properties window, the following invocation has no effect.
 
 
 ```vb

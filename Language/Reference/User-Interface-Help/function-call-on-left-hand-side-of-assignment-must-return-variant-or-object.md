@@ -17,7 +17,7 @@ A function call can appear on the left side of an assignment, but only if the re
 
 - The return type of the function on the left side of the assignment isn't a  **Variant** or **Object**. Change the return type. Note that if the return value is an object or a **Variant** that contains an object, the assignment is to the default[property](../../Glossary/vbe-glossary.md#property) of the object. If the **Variant** returned isn't an object, the assignment has no effect.
     
-- Everything in the call is correct, however, it can't be completed. For example, you may be trying to set a property that can only be set at design time. Enter design mode and set the property in the  **Property** window. Remove the code that tried to set the property programmatically.
+- Everything in the call is correct, however, it can't be completed. For example, you may be trying to set a property that can only be set at design time. Enter design mode and set the property in the Property window. Remove the code that tried to set the property programmatically.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).

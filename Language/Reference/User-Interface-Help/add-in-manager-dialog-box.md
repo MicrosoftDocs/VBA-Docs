@@ -1,5 +1,5 @@
 ---
-title: Add-In Manager Dialog Box
+title: Add-In Manager dialog box
 keywords: vbui6.chm181033
 f1_keywords:
 - vbui6.chm181033
@@ -9,8 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Add-In Manager Dialog Box
-
+# Add-In Manager dialog box
 
 ![Add-in manager](../../../images/va5lxy1_ZA01201779.gif)
 

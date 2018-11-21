@@ -21,7 +21,7 @@ Use these key combinations in all Visual Basic windows:
 |F8|Execute code one line at a time.|
 |SHIFT+F8|Execute [statements](../../Glossary/vbe-glossary.md#statement) one line at a time without stepping into[procedure calls](../../Glossary/vbe-glossary.md#procedure-call).|
 |CTRL+BREAK|Stop running a Visual Basic application.|
-|CTRL+G|Displays the  **Immediate** window.|
+|CTRL+G|Displays the  Immediate window.|
 |CTRL+TAB|Switch between windows.|
 |ALT+F5|Runs the error handler code or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|
 |ALT+F8|Steps into the error handler or returns the error to the calling procedure. Does not affect the setting for error trapping on the  **General** tab of the **Options** dialog box.|

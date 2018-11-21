@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Menu Shortcut Keys Available in the Code Window
 
-Use these key combinations for menu shortcuts in the  **Code** window:
+Use these key combinations for menu shortcuts in the  Code window:
 
 
 
@@ -29,9 +29,9 @@ Use these key combinations for menu shortcuts in the  **Code** window:
 |SHIFT+F2|**Definition**|
 |CTRL+SHIFT+F2|**Last** **Position**|
 |F2|**Object** **Browser**|
-|CTRL+G|**Immediate** Window|
+|CTRL+G|Immediate window|
 |CTRL+R|**Project** **Explorer**|
-|F4|**Properties** Window|
+|F4|Properties window|
 |F8|**Step Into**|
 |SHIFT+F8|**Step Over**|
 |CTRL+F8|**Run To Cursor**|

@@ -18,8 +18,8 @@ Use these key combinations in the  **Project** **Explorer**:
 |**Press**|**To**|
 |:-----|:-----|
 |ENTER|Open the selected file from the list, or expand and collapse the list to show its subentries.|
-|SHIFT+ENTER|Open the  **Code** window for the selected file.|
-|F7|Open the  **Code** window for the selected file.|
+|SHIFT+ENTER|Open the  Code window for the selected file.|
+|F7|Open the  Code window for the selected file.|
 |SHIFT+F10|View shortcut menu.|
 |HOME|Select the first file in the list.|
 |END|Select the last file in the list.|
