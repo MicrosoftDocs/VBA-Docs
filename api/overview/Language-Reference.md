@@ -37,9 +37,9 @@ Use the table of contents in the navigation on the left to view the topics in th
     
     Describes how to customize the Visual Basic editor, and provides documentation for the object model that enables you to extend the environment.
     
--  **Visual Basic user interface Help**
+-  [User Interface Help](https://docs.microsoft.com/office/vba/language/reference/user-interface-help/visual-basic-user-interface-help)
     
-    Describes user interface elements of the Visual Basic Editor, such as commands, dialog boxes, windows, and toolbars.
+    Describes common causes and solutions for any issues you may be having.
     
 ## See also
 
