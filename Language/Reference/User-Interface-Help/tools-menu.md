@@ -1,5 +1,5 @@
 ---
-title: Tools Menu
+title: Tools menu
 keywords: vbui6.chm2057563
 f1_keywords:
 - vbui6.chm2057563
@@ -9,14 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
-# Tools Menu
+# Tools menu
 
-[References](references-command-tools-menu.md)
+- [Digital Signature](digital-signature-command-tools-menu.md)
+- [Macros](macros-command-tools-menu.md)
+- [Options](options-command-tools-menu.md)
+- [Project Properties](project-name-properties-command-tools-menu.md)
+- [References](references-command-tools-menu.md)
 
-[Macros](macros-command-tools-menu.md)
-
-[Options](options-command-tools-menu.md)
-
-[<Project> Properties](project-name-properties-command-tools-menu.md)
-[Digital Signature](digital-signature-command-tools-menu.md)
 

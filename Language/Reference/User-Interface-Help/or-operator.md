@@ -15,7 +15,7 @@ Used to perform a logical disjunction on two [expressions](../../Glossary/vbe-gl
 
 ## Syntax
 
-_result_=_expression1_ **Or** _expression2_
+_result_ = _expression1_ **Or** _expression2_
 
 The **Or** operator syntax has these parts:
 

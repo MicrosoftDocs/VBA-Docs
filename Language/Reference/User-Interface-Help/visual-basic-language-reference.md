@@ -8,7 +8,6 @@ ms.date: 11/15/2018
 
 # Visual Basic language reference
 
-- [Ambiguous selection](../ambiguous-selection.md)
 - [Character sets](../character-sets.md)
 - [Data types](../data-types.md)
 - [Directives](../directives.md)
@@ -18,6 +17,7 @@ ms.date: 11/15/2018
 - [Operators](../operators.md)
 - [Statements](../statements.md)
 - [Strings](../strings.md)
+- [Window elements](../window-elements.md)
 - [Visual Basic Add-in Model](visual-basic-add-in-model-reference.md)
 
 ## Visual Basic for Applications

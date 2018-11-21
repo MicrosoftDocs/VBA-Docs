@@ -1,5 +1,5 @@
 ---
-title: Insert Menu
+title: Insert menu
 keywords: vbui6.chm2057559
 f1_keywords:
 - vbui6.chm2057559
@@ -9,18 +9,17 @@ ms.date: 06/08/2017
 ---
 
 
-# Insert Menu
+# Insert menu
 
-[Procedure](procedure-command-insert-menu.md)
+- [Class Module](module-and-class-module-commands-insert-menu.md)
+- [Components](components-command-insert-menu.md)
+- [File](file-command-insert-menu.md)
+- [Module](module-and-class-module-commands-insert-menu.md)
+- [Procedure](procedure-command-insert-menu.md)
+- [UserForm](userform-command-insert-menu.md)
 
-[UserForm](userform-command-insert-menu.md)
 
-[Module](module-and-class-module-commands-insert-menu.md)
-
-[Class Module](module-and-class-module-commands-insert-menu.md)
-[Components](components-command-insert-menu.md)
-[File](file-command-insert-menu.md)
-
- **Note**  Some menu items are not available in all editions of the Visual Basic Editor.
+> [!NOTE] 
+> Some menu items are not available in all editions of the Visual Basic Editor.
 
 

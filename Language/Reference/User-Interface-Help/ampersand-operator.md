@@ -31,7 +31,7 @@ If an _expression_ is not a string, it is converted to a **String** variant. The
 
 If both expressions are **[Null](../../Glossary/vbe-glossary.md#null)**, _result_ is **Null**. However, if only one _expression_ is **Null**, that expression is treated as a zero-length string ("") when concatenated with the other expression. Any expression that is **Empty** is also treated as a zero-length string.
 
-## Examples
+## Example
 
 This example uses the **&** operator to force string concatenation.
 
