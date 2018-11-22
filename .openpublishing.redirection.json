@@ -351,6 +351,10 @@
           {
             "source_path": "language/reference/user-interface-help/view-definition-command-object-browser-shortcut-menu.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-windowc-visual-basic-user-interface.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-window"
           }
 
     ]

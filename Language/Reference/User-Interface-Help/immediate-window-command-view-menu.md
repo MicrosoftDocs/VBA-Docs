@@ -1,22 +1,19 @@
 ---
-title: Immediate Window Command (View Menu)
+title: Immediate Window command (View Menu)
 keywords: vbui6.chm2051174
 f1_keywords:
 - vbui6.chm2051174
 ms.prod: office
 ms.assetid: 6d132a87-09c7-4e67-3e4a-c24787bb053f
-ms.date: 06/08/2017
+ms.date: 11/21/2018
 ---
 
 
-# Immediate Window Command (View Menu)
+# Immediate Window command (View Menu)
 
-Displays the  Immediate window and displays information resulting from debugging statements in your code or from commands typed directly into the window.
+Displays the [Immediate window](immediate-window.md), and displays information resulting from debugging statements in your code or from commands typed directly into the window.
 
 Use the Immediate window to:
-
-
-
 
 - Test problematic or newly written code.
     
@@ -29,6 +26,7 @@ Use the Immediate window to:
 - View debugging output while the program is running.
     
 
-Toolbar shortcut: 
-![Toolbar button](../../../images/tbr_imwd_ZA01201710.gif). Keyboard shortcut: CTRL+G.
+Toolbar shortcut: ![Toolbar button](../../../images/tbr_imwd_ZA01201710.gif)
+
+Keyboard shortcut: CTRL+G
 

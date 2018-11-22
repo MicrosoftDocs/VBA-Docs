@@ -1,23 +1,21 @@
 ---
-title: Code Window Keyboard Shortcuts
+title: Code window keyboard shortcuts
 keywords: vbui6.chm2019286
 f1_keywords:
 - vbui6.chm2019286
 ms.prod: office
 ms.assetid: dddf221f-b1d1-effd-a178-e86a96a53bd9
-ms.date: 06/08/2017
+ms.date: 11/21/2018
 ---
 
 
-# Code Window Keyboard Shortcuts
+# Code window keyboard shortcuts
 
-You can use the following shortcut keys to access commands in the  Code window.
+You can use the following shortcut keys to access commands in the [Code window](code-window.md).
 
-
-
-|**Description**|**Shortcut Keys**|
+|Description|Shortcut keys|
 |:-----|:-----|
-|View  Code window|F7|
+|View Code window|F7|
 |View [Object Browser](../../Glossary/vbe-glossary.md#object-browser)|F2|
 |Find|CTRL+F|
 |Replace|CTRL+H|

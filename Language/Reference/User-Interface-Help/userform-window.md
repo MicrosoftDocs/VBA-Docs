@@ -5,15 +5,15 @@ f1_keywords:
 - fm20.chm2000530
 ms.prod: office
 ms.assetid: 08749be4-b0ef-92c5-bdbb-cc505344c846
-ms.date: 11/15/2018
+ms.date: 11/21/2018
 ---
 
 
-# UserForm window
+# UserForm window 
 
-## Remarks
+![Userform window](../../../images/userform_ZA01201773.gif)
 
-Allows you to create the windows or dialog boxes in your project. You draw and view controls on a form.
+Allows you to create the windows or dialog boxes in your project. You draw and view [controls](../../Glossary/vbe-glossary.md#control) on a [form](../../Glossary/vbe-glossary.md#form).
 
 While you are designing a form:
 
@@ -26,7 +26,6 @@ While you are designing a form:
 
 ## See also
 
-- [Microsoft Forms examples](examples-microsoft-forms.md)
-- [Microsoft Forms reference](reference-microsoft-forms.md)
-- [Microsoft Forms concepts](concepts-microsoft-forms.md)
+- [UserForm window keyboard shortcuts](userform-window-keys.md)
+- [Window elements](../window-elements.md)
 
