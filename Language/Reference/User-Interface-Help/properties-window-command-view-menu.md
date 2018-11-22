@@ -1,5 +1,5 @@
 ---
-title: Properties Window Command (View Menu)
+title: Properties Window command (View Menu)
 keywords: vbui6.chm2012567
 f1_keywords:
 - vbui6.chm2012567
@@ -9,10 +9,12 @@ ms.date: 06/08/2017
 ---
 
 
-# Properties Window Command (View Menu)
+# Properties Window command (View Menu)
 
-Displays the  Properties window, which lists the design-time properties for a selected [form](../../Glossary/vbe-glossary.md#form), [control](../../Glossary/vbe-glossary.md#control), [class](../../Glossary/vbe-glossary.md#class), [project](../../Glossary/vbe-glossary.md#project) or [module](../../Glossary/vbe-glossary.md#module).
+Displays the [Properties window](properties-window.md), which lists the design-time properties for a selected [form](../../Glossary/vbe-glossary.md#form), [control](../../Glossary/vbe-glossary.md#control), [class](../../Glossary/vbe-glossary.md#class), [project](../../Glossary/vbe-glossary.md#project) or [module](../../Glossary/vbe-glossary.md#module).
 
 Toolbar shortcut: 
-![Toolbar button](../../../images/tbr_prop_ZA01201727.gif). Keyboard shortcut: F6.
+![Toolbar button](../../../images/tbr_prop_ZA01201727.gif). 
+
+Keyboard shortcut: F6.
 

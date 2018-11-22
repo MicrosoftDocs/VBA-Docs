@@ -351,6 +351,30 @@
           {
             "source_path": "language/reference/user-interface-help/view-definition-command-object-browser-shortcut-menu.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-windowc-visual-basic-user-interface.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/break-command-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/design-mode-and-exit-design-mode-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/reset-project-command-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-project-and-stop-project-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-sub-userform-continue-and-run-macro-commands-run-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
           }
 
     ]

@@ -2,7 +2,7 @@
 title: Objects (Microsoft Forms)
 ms.prod: office
 ms.assetid: dafc5e84-6a80-4822-86f5-f502b402b3c2
-ms.date: 09/17/2018
+ms.date: 11/21/2018
 ---
 
 
@@ -26,7 +26,7 @@ ms.date: 09/17/2018
 - [TabStrip control](tabstrip-control.md)
 - [TextBox control](textbox-control.md)
 - [ToggleButton control](togglebutton-control.md)
-- [UserForm window](userform-window.md)
+
 
     
 
