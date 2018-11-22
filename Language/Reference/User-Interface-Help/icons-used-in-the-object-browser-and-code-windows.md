@@ -11,7 +11,7 @@ ms.date: 11/21/2018
 
 # Code window and Object Browser icons
 
-The **[Object Browser](object-browser.md)** window and [Code window](code-window.md) contain many icons that represent classes and members. The following is a list of icons and what they represent.
+The [Object Browser window](object-browser.md) and [Code window](code-window.md) contain many icons that represent classes and members. The following is a list of icons and what they represent.
 
 |This icon...|Represents a...|
 |:-----------|:--------------|
