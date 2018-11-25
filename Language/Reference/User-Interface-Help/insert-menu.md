@@ -17,10 +17,10 @@ ms.date: 11/24/2018
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
 |**Class Module**|Creates a new [class module](../../Glossary/vbe-glossary.md#class-module) and adds it to your active project.|![Class Module Toolbar button](../../../images/tbr_cmod_ZA01201688.gif)|
-|**Components** |Displays the **Components** dialog box from which you can add designers to the **Insert** menu.| |
-|**File** |Displays the **Insert File** dialog box so that you can insert text from an existing module at the current cursor position. Not available when no editor is open.| |
+|**Components** |Displays the **[Components](components-dialog-box.md)** dialog box from which you can add designers to the **Insert** menu.| |
+|**File** |Displays the **[Insert File](insert-file-dialog-box.md)** dialog box so that you can insert text from an existing module at the current cursor position. Not available when no editor is open.| |
 |**Module**|Inserts a new [standard module](../../Glossary/vbe-glossary.md#standard-module) and adds it to your active project.|![Module Toolbar button](../../../images/tbr_mod_ZA01201714.gif)|
-|**Procedure** ||Inserts a new [Sub](../../Glossary/vbe-glossary.md#sub-procedure), [Function](../../Glossary/vbe-glossary.md#function-procedure), or [Property](../../Glossary/vbe-glossary.md#property-procedure) procedure into the active module. Not available if the module is not active.|![Procedure Toolbar button](../../../images/tbr_proc_ZA01201726.gif)|
+|**Procedure** |Inserts a new [Sub](../../Glossary/vbe-glossary.md#sub-procedure), [Function](../../Glossary/vbe-glossary.md#function-procedure), or [Property](../../Glossary/vbe-glossary.md#property-procedure) procedure into the active module. Not available if the module is not active.|![Procedure Toolbar button](../../../images/tbr_proc_ZA01201726.gif)|
 |**UserForm** |Creates a new form and adds it to your project.| |
 
 

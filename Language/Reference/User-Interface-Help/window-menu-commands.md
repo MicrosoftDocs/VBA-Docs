@@ -13,10 +13,10 @@ ms.date: 11/24/2018
 
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
-|**Split** |Toggles splitting the Code window in half horizontally. Only available when the Code window is active.|![Toolbar button](../../../images/tbr_splt_ZA01201747.gif)|
-|**Tile horizontally** |Tiles all open document windows in your project horizontally.|![Toolbar button](../../../images/tbr_tleh_ZA01201757.gif)| 
-|**Tile vertically** |Tiles all open document windows in your project vertically.|![Toolbar button](../../../images/tbr_tlev_ZA01201758.gif)|
-|**Cascade** |Rearranges all open document windows in your project so they overlap in a cascade.|![Toolbar button](../../../images/tbr_csde_ZA01201693.gif)|
+|**Split** |Toggles splitting the [Code window](code-window.md) in half horizontally. Only available when the Code window is active.|![Split Toolbar button](../../../images/tbr_splt_ZA01201747.gif)|
+|**Tile horizontally** |Tiles all open document windows in your project horizontally.|![Tile horizontally Toolbar button](../../../images/tbr_tleh_ZA01201757.gif)| 
+|**Tile vertically** |Tiles all open document windows in your project vertically.|![Tile vertically Toolbar button](../../../images/tbr_tlev_ZA01201758.gif)|
+|**Cascade** |Rearranges all open document windows in your project so they overlap in a cascade.|![Cascade Toolbar button](../../../images/tbr_csde_ZA01201693.gif)|
 |**Arrange icons** |Arranges the icons of any document windows that you have minimized neatly at the bottom left of the window.| |
 |**Window list** |Lists all open document windows.| |
 

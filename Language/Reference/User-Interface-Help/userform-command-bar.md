@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Contains buttons that are shortcuts to some commonly used menu items that are useful for working with forms.
 
-You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the **General** tab of the **Options** dialog box if you want to display ToolTips for the toolbar buttons.
+You can click a toolbar button once to carry out the action represented by that button. You can select the Show ToolTips option in the **General** tab of the **[Options](options-dialog-box.md)** dialog box if you want to display ToolTips for the toolbar buttons.
 
 
 ## Toolbar buttons

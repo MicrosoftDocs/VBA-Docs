@@ -14,7 +14,7 @@ ms.date: 11/24/2018
 
 |Command|Description|
 |:------|:----------|
-|**Additional Controls**|Displays the **Additional Controls** dialog box so that you can add controls.|
+|**Additional Controls**|Displays the **[Additional Controls](additional-controls-dialog-box.md)** dialog box so that you can add controls.|
 
 ## Close
 
@@ -26,7 +26,7 @@ ms.date: 11/24/2018
 
 |Command|Description|
 |:------|:----------|
-|**Collapse Parent**|Shrinks the list of items in the **Locals** or Watch window to the parent item. When you collapse a list, the icon to the left of the expression changes from a minus sign (-) to a plus sign (+).|
+|**Collapse Parent**|Shrinks the list of items in the [Locals window](locals-window.md) or [Watch window](watch-window.md) to the parent item. When you collapse a list, the icon to the left of the expression changes from a minus sign (-) to a plus sign (+).|
 
 ## Copy Here and Move Here
 
@@ -42,19 +42,19 @@ Allows you to use a drag-and-drop operation on controls on the form. Select a co
 
 |Command|Description|
 |:------|:----------|
-|**Customize** |Displays the **Customize** dialog box, where you can add, delete, modify, or create custom toolbars.|
+|**Customize** |Displays the **[Customize](customize-dialog-box.md)** dialog box, where you can add, delete, modify, or create custom toolbars.|
 
 ## Customize Item
 
 |Command|Description|
 |:------|:----------|
-|**Customize `<item>`** |Displays the **Customize Control** dialog box, where you can change the tool tip text or the control icon for the selected item.|
+|**Customize `<item>`** |Displays the **[Customize Control](customize-control-dialog-box.md)** dialog box, where you can change the tool tip text or the control icon for the selected item.|
 
 ## Definition
 
 |Command|Description|
 |:------|:----------|
-|**Definition**|Displays the location in the Code window where the variable or procedure under the pointer is defined. If the definition is in a referenced library, it is displayed in the **Object Browser**.|
+|**Definition**|Displays the location in the [Code window](code-window.md) where the variable or procedure under the pointer is defined. If the definition is in a referenced library, it is displayed in the **Object Browser**.|
 
 ## Delete Item, Delete Page, Delete Watch
 
@@ -96,7 +96,7 @@ Imports and exports pages.
 |Command|Description|
 |:------|:----------|
 |**Move** |Depending on whether a window or the **Toolbox** is active when you select the **Move** command, one of the following actions occurs:<br/>- Changes the pointer to a 
-![Cursor](../../../images/movecur_ZA01201626.gif) so you can move the active window to another location.<br/>- Displays the **Page Order** dialog box where you can change the order of the pages in your **Toolbox**.<br/><br/>You can move the selected page to the left or right of the other pages.|
+![Cursor](../../../images/movecur_ZA01201626.gif) so you can move the active window to another location.<br/>- Displays the **[Page Order](page-order-dialog-box.md)** dialog box where you can change the order of the pages in your **Toolbox**.<br/><br/>You can move the selected page to the left or right of the other pages.|
 
 ## New Page
 
@@ -104,11 +104,24 @@ Imports and exports pages.
 |:------|:----------|
 |**New Page** |Adds a new tabbed page with the name New Page. You can use the **Rename** command on the shortcut menu to change it. You can have more than one page with the name New Page. When you add a new page to the **Toolbox**, the page automatically contains the Pointer tool.|
 
+
+## Object Browser
+
+|Command|Description|
+|:------|:----------|
+|**Copy** | Copies the text for the selected class or member to the Clipboard.|
+|**Find Whole Word Only**  | Allows you to search for occurrences that exactly match the word you typed into the **Search Text** box of the **Object Browser**. |
+|**Group Members** | Toggles the **Members Of** pane between an alphabetical list of the members of the selected class and a list grouped by the member type.|
+|**Properties**  | Displays the **[Member Options](member-options-dialog-box.md)** dialog box where you type a description of the custom member and give it a Help Context ID and Help File name. Only available for items containing Basic code.|
+|**Show Hidden Members** | Shows and hides the hidden members in the **Object Browser** for each class. Hidden members are members that are not intended for use by the programmer of the reusable object and are not normally visible in the **Object Browser**. They appear as light gray text.|
+|**View Definition** | Takes you to the definition of the selected member.|
+
+
 ## Properties
 
 |Command|Description|
 |:------|:----------|
-|**Properties**| Opens the Properties window for the selected item.|
+|**Properties**| Opens the [Properties window](properties-window.md) for the selected item.|
 
 
 ## Rename
@@ -135,7 +148,7 @@ Imports and exports pages.
 
 ## View Object, View Code
 
-Allows you to view either the  Design window or the Code window.
+Allows you to view either the Design window or the Code window.
 
 |Command|Description|
 |:------|:----------|

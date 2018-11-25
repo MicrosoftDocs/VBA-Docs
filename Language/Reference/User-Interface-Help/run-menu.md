@@ -15,13 +15,13 @@ ms.date: 11/21/2018
 
 |Command|Description|Toolbar button|Keyboard shortcut|
 |:------|:----------|:-------------|:----------------|
-|**Break** | Stops execution of a program while it's running and switches to [break mode](../../Glossary/vbe-glossary.md#break-mode).<br/><br/>Any statement being executed when you choose this command is displayed in the Code window with ![Breakpoint](../../../images/wbrkpnt_ZA01201808.gif) in the left margin if you selected the Margin Indicator bar on the **Editor Format** tab of the **Options** dialog box.<br/><br/>If the application is waiting for events in the idle loop (no statement is being executed), no statement is highlighted until an event occurs.<br/><br/>Some editing changes made in break mode may require you to restart your program for the changes to take effect.|![Break Toolbar button](../../../images/tbr_brk_ZA01201682.gif) |CTRL+BREAK |
+|**Break** | Stops execution of a program while it's running and switches to [break mode](../../Glossary/vbe-glossary.md#break-mode).<br/><br/>Any statement being executed when you choose this command is displayed in the [Code window](code-window.md) with ![Breakpoint](../../../images/wbrkpnt_ZA01201808.gif) in the left margin if you selected the Margin Indicator bar on the **Editor Format** tab of the **[Options](options-dialog-box.md)** dialog box.<br/><br/>If the application is waiting for events in the idle loop (no statement is being executed), no statement is highlighted until an event occurs.<br/><br/>Some editing changes made in break mode may require you to restart your program for the changes to take effect.|![Break Toolbar button](../../../images/tbr_brk_ZA01201682.gif) |CTRL+BREAK |
 
 ## Design Mode, Exit Design Mode
 
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
-|**Design Mode** |Turns design mode on per project and then changes to **Exit Design Mode**. Design mode is the time during which no code from the project is running and events from the host or project will not execute. You can leave design mode by executing a macro or using the Immediate window.| | 
+|**Design Mode** |Turns design mode on per project and then changes to **Exit Design Mode**. Design mode is the time during which no code from the project is running and events from the host or project will not execute. You can leave design mode by executing a macro or using the [Immediate window](immediate-window.md).| | 
 |**Exit Design Mode** |Turns design mode off per project and clears all module level variables in the project.|![Exit Design Mode Toolbar button](../../../images/tbr_dsgm_ZA01201699.gif)| 
 
 ## Reset Project, Run Project, Stop Project

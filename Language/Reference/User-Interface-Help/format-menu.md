@@ -62,7 +62,7 @@ Changes the horizontal space between selected [objects](../../Glossary/vbe-gloss
 |Command|Description|Toolbar button|
 |:------|:----------|:-------------|
 |**Make Equal**|Moves the selected objects so that there is equal space between them by using the outermost objects as endpoints. The outermost objects do not move.|![Make Equal Toolbar button](../../../images/tbr_heql_ZA01201706.gif)|
-|**Increase**|Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Increase Toolbar button](../../../images/tbr_hinc_ZA01201707.gif)|
+|**Increase**|Increases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **[General](general-tab-options-dialog-box.md)** tab of the **[Options](options-dialog-box.md)** dialog box.|![Increase Toolbar button](../../../images/tbr_hinc_ZA01201707.gif)|
 |**Decrease**|Decreases horizontal spacing by one grid unit based on the object with focus. When an object has focus, white handles appear on its borders. You can change the size of your grid units on the **General** tab of the **Options** dialog box.|![Decrease Toolbar button](../../../images/tbr_hdec_ZA01201705.gif)|
 |**Remove**|Removes the horizontal space so that the objects are aligned with their edges touching based on the object with focus. When an object has focus, white handles appear on its borders.|![Remove Toolbar button](../../../images/tbr_hrem_ZA01201708.gif)|
 

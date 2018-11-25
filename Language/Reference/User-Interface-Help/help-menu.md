@@ -14,7 +14,7 @@ ms.date: 11/24/2018
 |Command|Description|Toolbar button|Keyboard shortcut|
 |:------|:----------|:-------------|:----------------|
 |**Microsoft Visual Basic for Applications Help**|Displays the help viewer for the associated application.|![VBA Help Toolbar button](../../../images/tbr_ahlp_ZA01201669.gif)| F1|
-|**About Microsoft Visual Basic for Applications**|Displays a dialog box with the version number, a copyright notice, and system information.|  |  |
+|**About Microsoft Visual Basic for Applications**|Displays a dialog box with the version number, a copyright notice, and system information.|||
 
 
 ## See also
