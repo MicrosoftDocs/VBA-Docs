@@ -2,12 +2,17 @@
 title: Add-Ins menu
 ms.prod: office
 ms.assetid: 650e3964-8789-aa51-cd0b-7a820f6dbc8d
-ms.date: 06/08/2017
+ms.date: 11/24/2018
 ---
 
 
 # Add-Ins menu
 
-- [Add-In Manager](add-in-manager-command-add-ins-menu.md)
+|Command|Description|
+|:------|:----------|
+|**Add-In Manager** | Displays the **[Add-In Manager](add-in-manager-dialog-box.md)** dialog box, which you use to load and unload add-ins to extend the Visual Basic for Applications development environment.
 
 
+## See also
+
+- [Menus and commands](../menus-commands.md)

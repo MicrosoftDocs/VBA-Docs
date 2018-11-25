@@ -37,18 +37,8 @@ You can get Help for the **Object** **Browser** by searching for Object Browser 
 |**Details** pane| |Shows the definition of the member. The **Details** pane contains a jump to the class or library to which the element belongs. Some members have jumps to their parent class.<br/><br/>For example, if the text in the **Details** pane states that Command1 is declared as a command button type, clicking the command button takes you to the **Command Button** class.<br/><br/>You can copy or drag text from the **Details** pane to the Code window.|
 |**Split** bar| |Splits the panes so that you can adjust their size. There are splits between the:<br/><br/>- **Classes** box and the **Members Of** box.<br/>- **Search Results** list and the **Classes** and **Members Of** boxes.<br/>- **Classes** and **Members Of** boxes and the **Details** pane.|
     
-## Object Browser shortcut menu
-
-|Command|Description|
-|:------|:----------|
-|**Copy** | Copies the text for the selected class or member to the Clipboard.|
-|**Find Whole Word Only**  | Allows you to search for occurrences that exactly match the word you typed into the **Search Text** box of the **Object Browser**. |
-|**Group Members** | Toggles the **Members Of** pane between an alphabetical list of the members of the selected class and a list grouped by the member type.|
-|**Properties**  | Displays the **Member Options** dialog box where you type a description of the custom member and give it a Help Context ID and Help File name. Only available for items containing Basic code.|
-|**Show Hidden Members** | Shows and hides the hidden members in the **Object Browser** for each class. Hidden members are members that are not intended for use by the programmer of the reusable object and are not normally visible in the **Object Browser**. They appear as light gray text.|
-|**View Definition** | Takes you to the definition of the selected member.|
-
 
 ## See also
 
 - [Code window and Object Browser icons](icons-used-in-the-object-browser-and-code-windows.md)
+- [Shortcut menu](shortcut-menu.md)

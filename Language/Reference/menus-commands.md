@@ -34,11 +34,10 @@ Some of the commands have submenus that contains more specific commands. For exa
 
 Shortcut menus are menus containing frequently used commands that appear when you click the right mouse button or press SHIFT+F10.
 
-> [!NOTE] 
-> To find information about a command on a menu, use the **Search Reference Index** command on the **Help** menu and search for the name of the command.
+For all the shortcut menu commands, see [Shortcut menu](user-interface-help/shortcut-menu.md). 
 
 
 ## See also
 
 - [Comment Block and Uncomment Block commands](user-interface-help/comment-block-and-uncomment-block-commands.md)
-- [Zoom command](user-interface-help/zoom-command.md)
+
