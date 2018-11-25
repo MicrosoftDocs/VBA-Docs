@@ -375,7 +375,378 @@
           {
             "source_path": "language/reference/user-interface-help/run-sub-userform-continue-and-run-macro-commands-run-menu.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/run-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/add-in-manager-command-add-ins-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/add-ins-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/add-watch-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/clear-all-breakpoints-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/compile-project-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/edit-watch-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/run-to-cursor-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/set-next-statement-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/show-next-statement-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/step-into-step-over-step-out-commands-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toggle-breakpoint-command-debug-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/debug-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/zoom-command.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-command-bar"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/additional-controls-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collapse-parent-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/copy-here-and-move-here-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/customize-item-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/customize-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/definition-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-item-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-page-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/delete-watch-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/dockable-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/help-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/hide-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/import-page-and-export-page-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/move-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-page-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/rename-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-command-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toggle-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/view-object-and-view-code-commands-shortcut-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/shortcut-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/call-stack-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/code-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/host-application-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/definition-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/immediate-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/last-position-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/locals-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-browser-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-explorer-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/tab-order-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbars-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbox-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/watch-window-command-view-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/view-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/additional-controls-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/digital-signature-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/macros-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/options-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-name-properties-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/quick-watch-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-command-tools-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/tools-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/components-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/file-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/module-and-class-module-commands-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procedure-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-command-insert-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/insert-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/align-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/arrange-buttons-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/center-in-form-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/group-and-ungroup-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/horizontal-spacing-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-same-size-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/order-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-to-fit-command-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/size-to-grid-command-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vertical-spacing-commands-format-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/format-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/closereturn-to-host-application-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/close-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/import-file-and-export-file-commands-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/open-project-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/print-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/remove-item-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/save-host-document-command-file-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/file-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/bookmarks-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/clearand-delete-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/complete-word-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/cut-copy-paste-and-delete-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/find-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/indent-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/outdent-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/parameter-info-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/quick-info-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/redo-undo-commands-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/replace-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-all-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-constant-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/select-member-command-edit-menu.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/comment-block-and-uncomment-block-commands.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
           }
-
     ]
 }

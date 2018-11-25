@@ -29,6 +29,17 @@ Displays a menu that you can use to create or remove placeholders in the [Code w
 |**Clear** |Deletes text only when a module is active.| | |
 |**Delete** |At other times, changes to the **Delete** command that deletes the currently selected control, text, or [watch expression](../../Glossary/vbe-glossary.md#watch-expression). You can undo the **Delete** command in the Code window or in the form if you deleted the control from the form. Not available at [run time](../../Glossary/vbe-glossary.md#run-time). |![Delete Toolbar button](../../../images/tbr_del_ZA01201696.gif) | DELETE |
 
+
+## Comment Block, Uncomment Block
+
+Adds and removes the comment character, an apostrophe, for each line of a selected block of text. If you do not have text selected and you choose the **Comment Block** or **Uncomment Block** command, the comment character is added or removed in the line where the pointer is located.
+
+|Command|Description|Toolbar button|
+|:------|:----------|:-------------|
+|**Comment Block**|Adds the comment character to each line of a selected block of text.|![Comment Block Toolbar button](../../../images/tbr_comt_ZA01201691.gif)|
+|**Uncomment Block**|Removes the comment character from each line of a selected block of text.|![Uncomment Block Toolbar button](../../../images/tbr_uncm_ZA01201761.gif)|
+
+
 ## Complete Word
 
 |Command|Description|Toolbar button|Keyboard shortcut|
