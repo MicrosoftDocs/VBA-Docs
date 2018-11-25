@@ -20,7 +20,7 @@ Displays a menu that you can use to create or remove placeholders in the [Code w
 |**Toggle Bookmark** | Toggles a bookmark on or off.|![Toggle Bookmark toolbar button](../../../images/tbr_tbmk_ZA01201753.gif)|
 |**Next Bookmark** | Moves the insertion point to the next bookmark. |![Next Bookmark toolbar button](../../../images/tbr_nxtb_ZA01201717.gif)| 
 |**Previous Bookmark** | Moves the insertion point to the previous bookmark.|![Previous Bookmark toolbar button](../../../images/tbr_prvb_ZA01201729.gif)| 
-|**Clear All Bookmarks**| Removes all bookmarks.|[Clear All Bookmarks toolbar button](../../../images/tbr_clrb_ZA01201687.gif)| 
+|**Clear All Bookmarks**| Removes all bookmarks.|![Clear All Bookmarks toolbar button](../../../images/tbr_clrb_ZA01201687.gif) | 
 
 ## Clear, Delete
 
@@ -53,8 +53,7 @@ Adds and removes the comment character, an apostrophe, for each line of a select
 |:------|:----------|:-------------|:----------------|
 |**Cut** |Removes the selected control or text and places it on the **Clipboard**. You must select at least one character or control for this command to be available. You can undo the **Cut** command when used on a control.|![Cut Toolbar button](../../../images/tbr_cut_ZA01201694.gif) |CTRL+X or SHIFT+DELETE |
 |**Copy** |Copies the selected control or text onto the **Clipboard**. You must select at least one character or control for this command to be available. You cannot undo the **Copy** command in the Code window.|![Copy Toolbar button](../../../images/tbr_copy_ZA01201692.gif) |CTRL+C or CTRL+INSERT |
-|**Paste** |Inserts the contents of the **Clipboard** at the current location. Text is placed at the insertion point.
-Pasted controls are placed in the middle of the form. You can undo the **Paste** command in the Code window or in the form if you pasted the control onto the form.|![Paste Toolbar button](../../../images/tbr_pste_ZA01201730.gif) |CTRL+V or SHIFT+INS |
+|**Paste** |Inserts the contents of the **Clipboard** at the current location. Text is placed at the insertion point. Pasted controls are placed in the middle of the form. You can undo the **Paste** command in the Code window or in the form if you pasted the control onto the form.|![Paste Toolbar button](../../../images/tbr_pste_ZA01201730.gif) |CTRL+V or SHIFT+INS |
 |**Delete** |Deletes the currently selected control, text, or [watch expression](../../Glossary/vbe-glossary.md#watch-expression). You can undo the **Delete** command only in the Code window. Not available at [run time](../../Glossary/vbe-glossary.md#run-time).<br/><br/>**NOTE**: To delete a file from your disk, use the standard deletion procedures for your operating system.|![Delete Toolbar button](../../../images/tbr_del_ZA01201696.gif) |DEL |
 
 

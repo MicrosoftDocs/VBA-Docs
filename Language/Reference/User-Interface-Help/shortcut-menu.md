@@ -95,8 +95,7 @@ Imports and exports pages.
 
 |Command|Description|
 |:------|:----------|
-|**Move** |Depending on whether a window or the **Toolbox** is active when you select the **Move** command, one of the following actions occurs:<br/>- Changes the pointer to a 
-![Cursor](../../../images/movecur_ZA01201626.gif) so you can move the active window to another location.<br/>- Displays the **[Page Order](page-order-dialog-box.md)** dialog box where you can change the order of the pages in your **Toolbox**.<br/><br/>You can move the selected page to the left or right of the other pages.|
+|**Move** |Depending on whether a window or the **Toolbox** is active when you select the **Move** command, one of the following actions occurs:<br/>- Changes the pointer to a ![Cursor](../../../images/movecur_ZA01201626.gif) so you can move the active window to another location.<br/>- Displays the **[Page Order](page-order-dialog-box.md)** dialog box where you can change the order of the pages in your **Toolbox**.<br/><br/>You can move the selected page to the left or right of the other pages.|
 
 ## New Page
 
