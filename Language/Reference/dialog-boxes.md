@@ -4,7 +4,7 @@ keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
 ms.prod: office
-ms.date: 11/26/2018
+ms.date: 11/26/2018 
 ---
 
 # Dialog boxes
@@ -33,7 +33,6 @@ ms.date: 11/26/2018
 - [Options dialog box](user-interface-help/options-dialog-box.md)
 - [Page Order dialog box](user-interface-help/page-order-dialog-box.md)
 - [Print Setup dialog box](user-interface-help/print-setup-dialog-box.md)
-- [Project Explorer dialog box](user-interface-help/project-explorer.md)
 - [Project Properties dialog box](user-interface-help/project-properties-dialog-box.md)
 - [Quick Watch dialog box](user-interface-help/quick-watch-dialog-box.md)
 - [References dialog box](user-interface-help/references-dialog-box.md)
