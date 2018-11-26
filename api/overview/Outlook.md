@@ -21,7 +21,7 @@ Use the table of contents in the navigation on the left to view the topics in th
 - [Object model reference](outlook/object-model.md): Provides reference materials for the Outlook object model.
 
 > [!NOTE] 
-> The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the [Visual Basic for Applications language reference](https://docs.microsoft.com/office/vba/api/overview/language-reference).
+> The Outlook Forms Script reference includes documentation for the more commonly used objects, controls, and members in Outlook forms. For more information, you can refer to the Microsoft Forms Visual Basic reference, which you can find in the [Visual Basic for Applications language reference](language-reference.md).
 
 
 ## See also

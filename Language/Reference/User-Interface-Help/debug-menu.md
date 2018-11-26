@@ -27,4 +27,5 @@ ms.date: 11/24/2018
 
 ## See also
 
+- [Debug toolbar](debug-toolbar.md)
 - [Menus and commands](../menus-commands.md)

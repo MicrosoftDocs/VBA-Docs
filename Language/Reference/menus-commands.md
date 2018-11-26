@@ -4,7 +4,7 @@ keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
 ms.prod: office
-ms.date: 11/20/2018
+ms.date: 11/26/2018
 ---
 
 # Menus and commands
@@ -39,5 +39,8 @@ For all the shortcut menu commands, see [Shortcut menu](user-interface-help/shor
 
 ## See also
 
-- [Comment Block and Uncomment Block commands](user-interface-help/comment-block-and-uncomment-block-commands.md)
+- [Dialog boxes](dialog-boxes.md)
+- [Error messages](error-messages.md)
+- [Toolbars](toolbars.md)
+- [Window elements](window-elements.md)
 
