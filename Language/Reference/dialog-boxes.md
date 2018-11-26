@@ -4,7 +4,7 @@ keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
 ms.prod: office
-ms.date: 11/21/2018
+ms.date: 11/26/2018
 ---
 
 # Dialog boxes
@@ -43,3 +43,9 @@ ms.date: 11/21/2018
 - [Tab Order dialog box](user-interface-help/tab-order-dialog-box.md)
 
 
+## See also
+
+- [Error messages](error-messages.md)
+- [Menus and commands](menus-commands.md)
+- [Toolbars](toolbars.md)
+- [Window elements](window-elements.md)

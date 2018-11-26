@@ -546,3 +546,11 @@ ms.date: 11/26/2018
 - [Wrong version of operating system; requires Windows NT 3.51 (build 'item1' or later) or Windows 95 (build 'item2' or later)](user-interface-help/wrong-version-of-operating-system-requires-windows-nt-3-51-build-item1-or-later.md)
 - [You must save a project before you can reference it](user-interface-help/you-must-save-a-project-before-you-can-reference-it.md)
 - [You must terminate the If block with an End If](user-interface-help/you-must-terminate-the-if-block-with-an-end-if.md)
+
+
+## See also
+
+- [Dialog boxes](dialog-boxes.md)
+- [Menus and commands](menus-commands.md)
+- [Toolbars](toolbars.md)
+- [Window elements](window-elements.md)
