@@ -1,7 +1,7 @@
 ---
 title: Library reference for Visual Basic for Applications (VBA)
 description: Conceptual overviews, programming tasks, samples, and references to guide you in developing solutions based on Office. 
-ms.date: 10/10/2018
+ms.date: 10/10/2018 
 ---
 
 # Library reference VBA
