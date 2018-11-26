@@ -105,5 +105,6 @@ For text edits, you can use **Undo** and **Redo** to restore up to twenty edits.
 
 ## See also
 
+- [Editor toolbar](editor-toolbar.md)
 - [Menus and commands](../menus-commands.md)
 

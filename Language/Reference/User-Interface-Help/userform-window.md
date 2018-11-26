@@ -26,6 +26,7 @@ While you are designing a form:
 
 ## See also
 
+- [UserForm toolbar](userform-command-bar.md)
 - [UserForm window keyboard shortcuts](userform-window-keys.md)
 - [Window elements](../window-elements.md)
 
