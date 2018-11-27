@@ -28,7 +28,7 @@ Displays a hierarchical list of the projects and all of the items contained in a
 ## See also
 
 - [Project Explorer keyboard shortcuts](project-explorer-keyboard-shortcuts.md)
-    
+- [Window elements](../window-elements.md)   
     
 
 
