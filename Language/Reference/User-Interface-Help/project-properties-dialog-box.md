@@ -25,10 +25,10 @@ The following table describes the tab options.
 
 |Option|Description|
 |:-----|:----------|
-|**Project Name**|Identifies your component in the Windows Registry and the **[Object Browser](object-browser/md)**. It is important that it has a unique name.<br/><br/>The project name is the name of the _type library_ for your component. The type library, or TypeLib, contains the description of the objects and interfaces provided by your component.<br/><br/>It is also used to qualify the names of classes. A combination of project name and class name is sometimes referred to as a _fully qualified class name_, or as a _programmatic ID_. The fully qualified class name may be required to correctly identify an object as belonging to your component.|
+|**Project Name**|Identifies your component in the Windows Registry and the **[Object Browser](object-browser.md)**. It is important that it has a unique name.<br/><br/>The project name is the name of the _type library_ for your component. The type library, or TypeLib, contains the description of the objects and interfaces provided by your component.<br/><br/>It is also used to qualify the names of classes. A combination of project name and class name is sometimes referred to as a _fully qualified class name_, or as a _programmatic ID_. The fully qualified class name may be required to correctly identify an object as belonging to your component.|
 |**Project Description**|Sets the descriptive text that is displayed in the **Description** pane at the bottom of the **Object Browser**.|
 |**Help File Name**|Displays the name of the Help file associated with the project.|
-|**Project Help Context ID**|Lists the context ID for the specific Help topic to be called when the user selects the ![Help button](../../../images/but_help_ZA01201583.gif) button while the application's [object library](../../Glossary/vbe-glossary.md#object-library) is selected in the [Object Browser](../../Glossary/vbe-glossary.md#object-browser).|
+|**Project Help Context ID**|Lists the context ID for the specific Help topic to be called when the user selects the ![Help button](../../../images/but_help_ZA01201583.gif) button while the application's [object library](../../Glossary/vbe-glossary.md#object-library) is selected in the **Object Browser**.|
 |**Conditional Compilation Arguments**|Lists the constant declarations used for conditional compilation. You can set multiple constants by separating them with colons, as in the following example: `conFrenchVersion=-1:conANSI=0` |
 
 ## Protection tab

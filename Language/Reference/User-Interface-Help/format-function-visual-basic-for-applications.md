@@ -167,7 +167,7 @@ The following table identifies the predefined date and time format names.
 
 |Format name|Description|
 |:-----|:-----|
-|**General Date**|Display a date and/or time. For real numbers, display a date and time, for example, 4/3/93 05:34 PM. If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
+|**General Date**|Display a date and/or time, for example, 4/3/93 05:34 PM. If there is no fractional part, display only a date, for example, 4/3/93. If there is no integer part, display time only, for example, 05:34 PM. Date display is determined by your system settings.|
 |**Long Date**|Display a date according to your system's long date format.|
 |**Medium Date**|Display a date using the medium date format appropriate for the language version of the [host application](../../Glossary/vbe-glossary.md#host-application).|
 |**Short Date**|Display a date using your system's short date format.|
@@ -218,7 +218,6 @@ The following table identifies characters you can use to create user-defined dat
 |dddd|Display the day as a full name (Sunday - Saturday). Localized.|
 |ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is  `m/d/yy`.|
 |dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is  `mmmm dd, yyyy`.|
-|aaaa|The same as dddd, only it's the localized version of the string.|
 |w|Display the day of the week as a number (1 for Sunday through 7 for Saturday).|
 |ww|Display the week of the year as a number (1 - 54).|
 |m|Display the month as a number without a leading zero (1 - 12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
@@ -230,11 +229,11 @@ The following table identifies characters you can use to create user-defined dat
 |yy|Display the year as a 2-digit number (00 - 99).|
 |yyyy|Display the year as a 4-digit number (100 - 9999).|
 |h|Display the hour as a number without a leading zero (0 - 23).|
-|Hh|Display the hour as a number with a leading zero (00 - 23).|
-|N|Display the minute as a number without a leading zero (0 - 59).|
-|Nn|Display the minute as a number with a leading zero (00 - 59).|
-|S|Display the second as a number without a leading zero (0 - 59).|
-|Ss|Display the second as a number with a leading zero (00 - 59).|
+|hh|Display the hour as a number with a leading zero (00 - 23).|
+|n|Display the minute as a number without a leading zero (0 - 59).|
+|nn|Display the minute as a number with a leading zero (00 - 59).|
+|s|Display the second as a number without a leading zero (0 - 59).|
+|ss|Display the second as a number with a leading zero (00 - 59).|
 |ttttt|Display a time as a complete time (including hour, minute, and second), formatted using the time separator defined by the time format recognized by your system. A leading zero is displayed if the leading zero option is selected and the time is before 10:00 A.M. or P.M. The default time format is `h:mm:ss`.|
 |AM/PM|Use the 12-hour clock and display an uppercase AM with any hour before noon; display an uppercase PM with any hour between noon and 11:59 P.M.|
 |am/pm|Use the 12-hour clock and display a lowercase AM with any hour before noon; display a lowercase PM with any hour between noon and 11:59 P.M.|

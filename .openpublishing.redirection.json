@@ -747,6 +747,58 @@
           {
             "source_path": "language/reference/user-interface-help/comment-block-and-uncomment-block-commands.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/edit-menu"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/controls-tab-components-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/components-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designers-tab-components-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/components-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commands-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/options-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/toolbars-tab-customize-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/customize-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/docking-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/editor-format-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/editor-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/general-tab-options-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/options-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/debugging-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/general-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/make-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/protection-tab-project-properties-dialog-box.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
           }
     ]
 }

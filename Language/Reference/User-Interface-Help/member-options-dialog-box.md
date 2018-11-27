@@ -22,8 +22,7 @@ The following table describes the dialog box options.
 |**Name**|Displays the name of the item selected in the **Classes** or the **Members Of** list.|
 |**Description**|Allows you to specify a string that shows up in the Details pane of the **[Object Browser](object-browser.md)**.|
 |**Help File**|Displays the Help file associated with the item listed in the **Name** box. This is set in the **Help File Name** box on the **General** tab of the **[Project Properties](project-properties-dialog-box.md)** dialog box.|
-|**Help Context ID**|Assigns a unique numeric value for the context ID. This value is used to find the appropriate Help topic in the file listed in the **Help File** box when the user presses F1 or the 
-![Help button](../../../images/but_help_ZA01201583.gif) button while looking at the procedure in the **Object Browser**.|
+|**Help Context ID**|Assigns a unique numeric value for the context ID. This value is used to find the appropriate Help topic in the file listed in the **Help File** box when the user presses F1 or the ![Help button](../../../images/but_help_ZA01201583.gif) button while looking at the procedure in the **Object Browser**.|
 
 
 ## See also
