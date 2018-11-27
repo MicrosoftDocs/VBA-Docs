@@ -10,8 +10,9 @@ ms.date: 11/24/2018
 
 # Find dialog box
 
+Allows you to search for specified text in a search range.
 
-## Dialog box options
+The following table describes the dialog box options.
 
 |Option |Description|
 |:------|:----------|
@@ -24,3 +25,9 @@ ms.date: 11/24/2018
 |**Find Next**|Finds and selects the next occurrence of the text specified in the **Find What** box.|
 |**Cancel**|Closes the dialog box without performing the search.|
 |**Replace**|Displays the **Replace** dialog box, retaining the information typed in the **Find What** box.|
+
+## See also
+
+- [Edit menu](edit-menu.md)
+- [Replace dialog box](replace-dialog-box.md)
+- [Dialog boxes](../dialog-boxes.md)

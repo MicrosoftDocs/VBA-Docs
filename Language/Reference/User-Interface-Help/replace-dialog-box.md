@@ -10,7 +10,9 @@ ms.date: 11/24/2018
 
 # Replace dialog box
 
-## Dialog box options
+Searches code in a project for specified text and replaces it with the new text specified.
+
+The following table describes the dialog box options.
 
 |Option|Description|
 |:-----|:----------|
@@ -26,4 +28,8 @@ ms.date: 11/24/2018
 |**Replace** |Confirms before replacing the search text with the replacement text.|
 |**Replace All** |Replaces all occurrences of the search text with the replacement text without stopping for confirmation.|
 
+## See also
 
+- [Edit menu](edit-menu.md)
+- [Find dialog box](find-dialog-box.md)
+- [Dialog boxes](../dialog-boxes.md)

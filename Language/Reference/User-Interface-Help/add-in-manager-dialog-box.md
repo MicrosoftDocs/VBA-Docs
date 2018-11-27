@@ -24,7 +24,7 @@ The following table describes the dialog box options.
 |**Available Add-Ins** (Add-Ins list)|Lists available add-ins.|
 |**Load Behavior** (Add-Ins list)|Displays the load behavior for the selected add-in.|
 |**Description**|Displays a description of what the add-in does.|
-|**Load Behavior**|- **Loaded/Unloaded** check box: Loads or unloads the selected add-in.<br/><br/>- **Load On Startup** check box: Loads the selected add-in on startup of the development environment.<br/><br/>- **Command Line** check box: Loads the selected add-in when the development environment is started from the command prompt or from a script.|
+|**Load Behavior**|**Loaded/Unloaded** check box: Loads or unloads the selected add-in.<br/><br/>**Load On Startup** check box: Loads the selected add-in on startup of the development environment.<br/><br/>**Command Line** check box: Loads the selected add-in when the development environment is started from the command prompt or from a script.|
 |**OK**|Updates the load behavior of selected add-ins.|
 |**Cancel**|Cancels all updates made in session.|
 

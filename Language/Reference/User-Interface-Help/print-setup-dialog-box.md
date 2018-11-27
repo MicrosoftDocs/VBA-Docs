@@ -13,6 +13,8 @@ ms.date: 11/24/2018
 
 ## Print dialog box options
 
+Use the **Print** dialog box to print forms and code to the printer specified in the Control Panel.
+
 |Option|Description|
 |:-----|:----------|
 |**Printer** |Identifies the printer to which you are printing.|
@@ -40,4 +42,6 @@ Use the **Print Setup** dialog box to select the printer, page orientation, and 
 |**Orientation**|Allows you to specify whether the program is to print in Portrait or Landscape orientation.|
 
 
+## See also
 
+- [Dialog boxes](../dialog-boxes.md)
