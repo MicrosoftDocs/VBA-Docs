@@ -41,4 +41,4 @@ You can get Help for the **Object** **Browser** by searching for Object Browser 
 ## See also
 
 - [Code window and Object Browser icons](icons-used-in-the-object-browser-and-code-windows.md)
-- [Shortcut menu](shortcut-menu.md)
+- [Window elements](../window-elements.md)
