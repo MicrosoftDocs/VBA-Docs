@@ -1,0 +1,39 @@
+I'm wrote the code (below) to create an excel macro to list functon arguments of a user defined function.
+The issue is:
+   The list won't show more than one input parameter (  ArgDesc ( )  )
+   
+   In the past my colleagues have use this code and would list multiple input parameters.
+   
+  Is this a bug with the excel program?
+   
+   Sub DescribeFunction()
+'This can be used to add help text to each function
+
+   Dim FuncName As String
+   Dim FuncDesc As String
+   Dim Category As String
+   Dim ArgDesc(1 To 2) As Variant
+  
+'type the function name in the quotes below
+   FuncName = "OilHeat_DSN100G_LOF"
+
+'type the help text in the quotes below
+   FuncDesc = " estimates the oil heat gain in (BTU/min) from input power (hp)and airend adiabatic efficiency (%) "
+   
+   Category = 14 'User Defined
+   
+'type the argument descriptions in the quotes below.  Add more arguments as needed, and change X in Dim ArgDesc(1 To X)
+ 'to a number at least as large as total number of arguments
+   ArgDesc(1) = " = Power, Airend input package (hp) "
+   ArgDesc(2) = " = System adiabatic efficiency (%)"
+   'ArgDesc(3) = "  "
+         
+   Application.MacroOptions _
+      Macro:=FuncName, _
+      Description:=FuncDesc, _
+      Category:=Category, _
+      ArgumentDescriptions:=ArgDesc()
+
+'run the macro called DescribeFunction, then save
+
+End Sub
