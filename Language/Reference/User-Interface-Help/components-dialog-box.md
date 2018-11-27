@@ -25,6 +25,8 @@ The following table describes the dialog box options.
 
 ## Controls tab
 
+![Controls tab](../../../images/addcc_ZA01201563.gif)
+
 Allows you to add controls to your project's Toolbox.
 
 > [!NOTE] 

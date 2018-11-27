@@ -20,8 +20,7 @@ The following table describes the dialog box options.
 |Option|Description|
 |:-----|:----------|
 |**Project Module Function**|Lists the procedures.|
-|**Show**|Moves the insertion point to the location where the call was made and turns on the Call Stack indicator 
-![Call stack indicator](../../../images/wcallst_ZA01201809.gif).|
+|**Show**|Moves the insertion point to the location where the call was made and turns on the Call Stack indicator ![Call stack indicator](../../../images/wcallst_ZA01201809.gif).|
 
 ## See also
 
