@@ -1,5 +1,6 @@
 ---
-title: Dialog boxes
+title: Dialog boxes (VBA)
+description: Information about the options available in Visual Basic for Applications (VBA) dialog boxes.
 keywords: vblr6.chm1103511
 f1_keywords:
 - vblr6.chm1103511
@@ -8,6 +9,8 @@ ms.date: 11/27/2018
 ---
 
 # Dialog boxes
+
+Information about the options available in Visual Basic for Applications dialog boxes.
 
 |Dialog box|Description|
 |:---------|:----------|

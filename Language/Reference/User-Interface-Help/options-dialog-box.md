@@ -23,8 +23,8 @@ Specifies the [Code window](code-window.md) and Project window settings.
 
 The following table describes the tab options.
 
-|Option|Description|
-|:-----|:----------|
+|Option|Settings|
+|:-----|:-------|
 |**Code Settings**|**Auto Syntax Check**: Determines whether Visual Basic should automatically verify correct syntax after you enter a line of code.<br/><br/>**Require Variable Declaration**: Determines whether explicit variable declarations are required in modules. Selecting this adds the **Option Explicit** statement to general declarations in any new module.<br/><br/>**Auto List Members**: Displays a list that contains information that would logically complete the statement at the current insertion point.<br/><br/>**Auto Quick Info**: Displays information about functions and their parameters as you type.<br/><br/>**Auto Data Tips**: Displays the value of the variable over which your cursor is placed. Available only in break mode.<br/><br/>**Auto Indent**: Allows you to tab the first line of code; all subsequent lines will start at that tab location.<br/><br/>**Tab Width**: Sets the tab width, which can range from 1 to 32 spaces; the default is 4 spaces.|
 |**Window Settings**|**Drag-and-Drop Text Editing**: Allows you to drag and drop elements within the current code and from the Code window into the [Immediate](immediate-window.md) or [Watch](watch-window.md) windows.<br/><br/>**Default to Full Module View**: Sets the default state for new modules to allow you to look at procedures in the Code window either as a single scrollable list or only at one procedure at a time. It does not change the way currently open modules are viewed.<br/><br/>**Procedure Separator**: Allows you to display or hide separator bars that appear at the end of each procedure in the Code window.|
     
@@ -52,8 +52,8 @@ Specifies the settings, error handling, and compile settings for your current Vi
 
 The following table describes the tab options.
 
-|Option|Description|
-|:-----|:----------|
+|Option|Description and settings|
+|:-----|:-----------------------|
 |**Form Grid Settings**|Determines the appearance of the form when it is edited.<br/><br/>**Show Grid**: Determines whether to show the grid.<br/><br/>**Grid Units**: Displays the grid units used for the form.<br/><br/>**Width**: Determines the width of grid cells on a form (2 to 60 points).<br/><br/>**Height**: Determines the height of grid cells on a form (2 to 60 points).<br/><br/>**Align Controls to Grid**: Automatically positions the outer edges of controls on grid lines.|
 |**Show ToolTips**|Displays ToolTips for the toolbar buttons.|
 |**Collapse Proj. Hides Windows**|Determines whether the project, **[UserForm](userform-window.md)**, object, or module windows are closed automatically when a project is collapsed in the **[Project Explorer](project-explorer.md)**.|
