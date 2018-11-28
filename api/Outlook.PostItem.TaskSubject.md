@@ -25,7 +25,7 @@ Returns or sets a  **String** value that represents the subject of the task for 
 
 ## Remarks
 
-This property returns the value of the  **[Subject](Outlook.PostItem.Subject.md)** property if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False** .
+This property returns the value of the  **[Subject](Outlook.PostItem.Subject.md)** property if the **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.AlwaysUseConnectionFile property (Excel)
 
- **True** if the connection file is always used to establish connection to the data source. Read/write **Boolean** .
+ **True** if the connection file is always used to establish connection to the data source. Read/write **Boolean**.
 
 
 ## Syntax

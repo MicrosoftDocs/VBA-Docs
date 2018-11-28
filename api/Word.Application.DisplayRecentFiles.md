@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayRecentFiles property (Word)
 
- **True** if the names of recently used files are displayed on the **File** menu. Read/write **Boolean** .
+ **True** if the names of recently used files are displayed on the **File** menu. Read/write **Boolean**.
 
 
 ## Syntax

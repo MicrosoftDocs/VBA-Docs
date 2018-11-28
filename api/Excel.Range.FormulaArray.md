@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.FormulaArray property (Excel)
 
-Returns or sets the array formula of a range. Returns (or can be set to) a single formula or a Visual Basic array. If the specified range doesn't contain an array formula, this property returns  **null** . Read/write **Variant** .
+Returns or sets the array formula of a range. Returns (or can be set to) a single formula or a Visual Basic array. If the specified range doesn't contain an array formula, this property returns  **null**. Read/write **Variant**.
 
 
 ## Syntax

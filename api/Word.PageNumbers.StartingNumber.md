@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumbers.StartingNumber property (Word)
 
-Returns or sets the starting note number, line number, or page number. Read/write  **Long** .
+Returns or sets the starting note number, line number, or page number. Read/write  **Long**.
 
 
 ## Syntax

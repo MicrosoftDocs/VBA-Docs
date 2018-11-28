@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.PreferredWidth property (Word)
 
-Returns or sets the preferred width (in points or as a percentage of the window width) for the specified column. Read/write  **Single** .
+Returns or sets the preferred width (in points or as a percentage of the window width) for the specified column. Read/write  **Single**.
 
 
 ## Syntax

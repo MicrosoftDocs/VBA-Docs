@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IgnoreRemoteRequests property (Excel)
 
- **True** if remote DDE requests are ignored. Read/write **Boolean** .
+ **True** if remote DDE requests are ignored. Read/write **Boolean**.
 
 
 ## Syntax

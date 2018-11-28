@@ -25,12 +25,12 @@ Returns or sets a  **Boolean** value that indicates whether calendar items that 
 
 ## Return value
 
- **True** if calendar items that do not occur within working hours should be included; otherwise, **False** .
+ **True** if calendar items that do not occur within working hours should be included; otherwise, **False**.
 
 
 ## Remarks
 
-This property must be set to  **False** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFullDetails** ..
+This property must be set to  **False** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFullDetails**..
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.IPAtEndOfLine property (Word)
 
- **True** if the insertion point is at the end of a line that wraps to the next line. Read-only **Boolean** .
+ **True** if the insertion point is at the end of a line that wraps to the next line. Read-only **Boolean**.
 
 
 ## Syntax

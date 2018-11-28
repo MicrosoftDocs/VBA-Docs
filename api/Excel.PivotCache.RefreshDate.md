@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.RefreshDate property (Excel)
 
-Returns the date on which the cache was last refreshed. Read-only  **Date** .
+Returns the date on which the cache was last refreshed. Read-only  **Date**.
 
 
 ## Syntax

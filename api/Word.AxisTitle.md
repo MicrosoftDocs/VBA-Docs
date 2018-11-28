@@ -20,7 +20,7 @@ Represents a chart axis title.
 
 Use the  **[AxisTitle](Word.Axis.AxisTitle.md)** property to return an **AxisTitle** object.
 
-The  **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Axis.HasTitle.md)** property for the axis is **True** .
+The  **AxisTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Axis.HasTitle.md)** property for the axis is **True**.
 
 
 ## Example

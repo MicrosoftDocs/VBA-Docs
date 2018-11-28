@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AddControlCharacters property (Word)
 
- **True** if Microsoft Word adds bidirectional control characters when cutting and copying text. Read/write **Boolean** .
+ **True** if Microsoft Word adds bidirectional control characters when cutting and copying text. Read/write **Boolean**.
 
 
 ## Syntax

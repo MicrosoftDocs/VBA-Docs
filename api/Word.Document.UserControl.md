@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.UserControl property (Word)
 
- **True** if the document was created or opened by the user. Read/write **Boolean** .
+ **True** if the document was created or opened by the user. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ ms.date: 06/08/2017
 This property returns  **False** if the document was created or opened programmatically from another Microsoft Office application with the **Open** method or the Visual Basic **CreateObject** or **GetObject** command.
 
 
- **Note**  If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True** .
+ **Note**  If Word is visible to the user or if you call the  **UserControl** property from within a Word code module, this property will always return **True**.
 
 
 ## Example

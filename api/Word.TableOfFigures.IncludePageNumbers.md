@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.IncludePageNumbers property (Word)
 
- **True** if page numbers are included in the table of figures. Read/write **Boolean** .
+ **True** if page numbers are included in the table of figures. Read/write **Boolean**.
 
 
 ## Syntax

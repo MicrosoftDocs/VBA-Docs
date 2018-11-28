@@ -48,7 +48,7 @@ Currently, only in-process solutions can use the  **Picture** property because t
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture** .
+4. Under  **Classes**, examine the class named  **StdPicture**.
     
 For details about the  **IPictureDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 

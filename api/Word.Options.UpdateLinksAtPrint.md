@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UpdateLinksAtPrint property (Word)
 
- **True** if Microsoft Word updates embedded links to other files before printing a document. Read/write **Boolean** .
+ **True** if Microsoft Word updates embedded links to other files before printing a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowHighlight property (Word)
 
- **True** if highlight formatting is displayed and printed with a document. Read/write **Boolean** .
+ **True** if highlight formatting is displayed and printed with a document. Read/write **Boolean**.
 
 
 ## Syntax

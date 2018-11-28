@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ApplyStyleLastRow property (Word)
 
- **True** for Microsoft Word to apply last-row formatting to the last row of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply last-row formatting to the last row of the specified table. Read/write **Boolean**.
 
 
 ## Syntax

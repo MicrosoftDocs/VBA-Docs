@@ -30,7 +30,7 @@ Returns whether the slicer associated with the specified slicer cache is based o
 
 ## Remarks
 
- **True** , if the slicer is based on an OLAP data source; otherwise **False** .
+ **True** , if the slicer is based on an OLAP data source; otherwise **False**.
 
 
 ## See also

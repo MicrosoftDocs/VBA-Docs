@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayInsertOptions property (Excel)
 
- **True** if the **Insert Options** button should be displayed. Read/write **Boolean** .
+ **True** if the **Insert Options** button should be displayed. Read/write **Boolean**.
 
 
 ## Syntax

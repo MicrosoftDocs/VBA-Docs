@@ -25,13 +25,13 @@ Returns or sets a  **Long** that specifies the number of characters in the curre
 
 ## Remarks
 
-The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)** .
+The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)**. The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)**.
 
 The default value is zero, which means no text is currently selected.
 
 The  **SelLength** property is always valid, even when the control does not have focus.
 
-Setting  **SelLength** to a value less than zero causes an error. Attempting to set the value greater than **MaxLength** results in setting **SelLength** to **MaxLength** .
+Setting  **SelLength** to a value less than zero causes an error. Attempting to set the value greater than **MaxLength** results in setting **SelLength** to **MaxLength**.
 
 
 ## See also

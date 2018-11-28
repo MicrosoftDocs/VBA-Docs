@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.RemovePersonalInformation property (Excel)
 
- **True** if personal information can be removed from the specified workbook. The default value is **False** . Read/write **Boolean** .
+ **True** if personal information can be removed from the specified workbook. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

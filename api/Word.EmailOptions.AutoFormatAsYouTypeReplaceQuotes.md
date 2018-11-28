@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeReplaceQuotes property (Word)
 
- **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean** .
+ **True** if straight quotation marks are automatically changed to smart (curly) quotation marks as you type. Read/write **Boolean**.
 
 
 ## Syntax

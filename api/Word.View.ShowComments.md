@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowComments property (Word)
 
- **True** for Microsoft Word to display the comments in a document. Read/write **Boolean** .
+ **True** for Microsoft Word to display the comments in a document. Read/write **Boolean**.
 
 
 ## Syntax

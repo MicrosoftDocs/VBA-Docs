@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableAutoFilter property (Excel)
 
- **True** if AutoFilter arrows are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
+ **True** if AutoFilter arrows are enabled when user-interface-only protection is turned on. Read/write **Boolean**.
 
 
 ## Syntax

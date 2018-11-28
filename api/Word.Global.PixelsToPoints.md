@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Global.PixelsToPoints method (Word)
 
-Converts a measurement from pixels to points. Returns the converted measurement as a  **Single** .
+Converts a measurement from pixels to points. Returns the converted measurement as a  **Single**.
 
 
 ## Syntax

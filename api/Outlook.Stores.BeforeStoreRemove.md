@@ -39,7 +39,7 @@ Outlook must be running in order for this event to fire. This event will fire wh
 
 - A store is removed by the user clicking the  **Close** command on the Shortcut menu.
     
-- A store is removed programmatically by calling  **[Namespace.RemoveStore](Outlook.NameSpace.RemoveStore.md)** .
+- A store is removed programmatically by calling  **[Namespace.RemoveStore](Outlook.NameSpace.RemoveStore.md)**.
     
 
 

@@ -25,7 +25,7 @@ Returns the  **[AddressEntry](Outlook.AddressEntry.md)** object corresponding to
 
 ## Remarks
 
-Accessing the  **AddressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](Outlook.Recipient.Resolved.md)** property is **True** .
+Accessing the  **AddressEntry** property forces resolution of an unresolved recipient name. If the name cannot be resolved, an error is returned. If the recipient is resolved, the **[Resolved](Outlook.Recipient.Resolved.md)** property is **True**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MatchFuzzySmallKana property (Word)
 
- **True** if Microsoft Word ignores the distinction between diphthongs and double consonants during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between diphthongs and double consonants during a search. Read/write **Boolean**.
 
 
 ## Syntax

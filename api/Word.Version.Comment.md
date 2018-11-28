@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Version.Comment property (Word)
 
-Returns the comment associated with the specified version of a document. Read-only  **String** .
+Returns the comment associated with the specified version of a document. Read-only  **String**.
 
 
 ## Syntax

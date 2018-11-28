@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Replacement.Font property (Word)
 
-Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font** .
+Returns or sets a  **[Font](Word.Font.md)** object that represents the character formatting of the specified object. Read/write **Font**.
 
 
 ## Syntax

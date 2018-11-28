@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LargeOperationCellThousandCount property (Excel)
 
-Returns or sets the maximum number of cells needed in an operation beyond which an alert is triggered. Read/write  **Long** .
+Returns or sets the maximum number of cells needed in an operation beyond which an alert is triggered. Read/write  **Long**.
 
 
 ## Syntax

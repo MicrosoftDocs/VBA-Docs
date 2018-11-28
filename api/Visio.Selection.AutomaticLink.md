@@ -68,12 +68,12 @@ For the optional AutoLinkBehavior parameter, you can pass a combination of one o
 | **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
 | **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
 
-You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks** . The method returns an error if you attempt to do so.
+You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLinks** and **visAutoLinkReplaceExistingLinks**. The method returns an error if you attempt to do so.
 
 If you pass a value for AutoLinkBehavior, it modifies the default behavior, which is as follows:
 
 
-- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt** , it is treated as if it were **visLinkReplaceAlways** .
+- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt** , it is treated as if it were **visLinkReplaceAlways**.
     
 - Link selected shapes and their subshapes.
     
@@ -81,7 +81,7 @@ If you pass a value for AutoLinkBehavior, it modifies the default behavior, whic
     
 - Apply data graphics.
     
-For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long** . Visio will return the array filled with the IDs of the shapes that were linked to data by the method.
+For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. Visio will return the array filled with the IDs of the shapes that were linked to data by the method.
 
 To provide Visio with enough information to create the links, you must supply at least one set of matching data: the name of a column in the data recordset, a shape attribute type, and, if necessary, a shape value, all at the same index position of the corresponding arrays you pass to the method. The shape attribute type indicates the attribute of the shape to base the matching upon. The attribute can be the value of a shape data item, shape text, or another of the values specified in the  **VisAutoLinkFieldTypes** enumeration.
 

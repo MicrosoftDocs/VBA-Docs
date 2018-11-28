@@ -1,5 +1,6 @@
 ---
-title: Object Browser window
+title: Object Browser (VBA)
+description: Displays the classes, properties, methods, events, and constants available from object libraries and the procedures in your project.
 keywords: vbui6.chm181036
 f1_keywords:
 - vbui6.chm181036
@@ -9,13 +10,15 @@ ms.date: 11/21/2018
 ---
 
 
-# Object Browser window
+# Object Browser
 
 ![Object browser](../../../images/objbrows_ZA01201634.gif)
 
+A dialog box in which you can examine the contents of an object library to get information about the objects provided.
+
 Displays the [classes](../../Glossary/vbe-glossary.md#class), properties, methods, events, and constants available from [object libraries](../../Glossary/vbe-glossary.md#object-library) and the [procedures](../../Glossary/vbe-glossary.md#procedure) in your project. You can use it to find and use objects you create, as well as objects from other applications.
 
-You can get Help for the **Object** **Browser** by searching for Object Browser in Help.
+You can get Help for the **Object Browser** by searching for Object Browser in Help.
 
 
 ## Window elements 

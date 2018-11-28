@@ -102,7 +102,7 @@ Err_Handler:
 End Sub
 ```
 
-The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add** .
+The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add**.
 
 
 

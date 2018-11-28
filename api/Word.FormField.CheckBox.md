@@ -25,7 +25,7 @@ Returns a  **[CheckBox](Word.CheckBox.md)** object that represents a check box f
 
 ## Remarks
 
-If the  **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
+If the  **CheckBox** property is applied to a **FormField** object that isn't a check box form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
 
 
 ## Example

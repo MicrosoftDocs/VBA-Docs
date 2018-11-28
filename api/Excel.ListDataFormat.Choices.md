@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.Choices property (Excel)
 
- Returns an **Array** of **String** values that contains the choices offered to the user by the **ListLookUp** , **ChoiceMulti** , and **Choice** data types of the **[DefaultValue](Excel.ListDataFormat.DefaultValue.md)** property. Read-only **Variant** .
+ Returns an **Array** of **String** values that contains the choices offered to the user by the **ListLookUp** , **ChoiceMulti** , and **Choice** data types of the **[DefaultValue](Excel.ListDataFormat.DefaultValue.md)** property. Read-only **Variant**.
 
 
 ## Syntax

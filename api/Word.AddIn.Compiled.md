@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Compiled property (Word)
 
- **True** if the specified add-in is a Word add-in library (WLL). **False** if the add-in is a template. Read-only **Boolean** .
+ **True** if the specified add-in is a Word add-in library (WLL). **False** if the add-in is a template. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchControl property (Word)
 
- **True** if find operations match text with matching bidirectional control characters in a right-to-left language document. Read/write **Boolean** .
+ **True** if find operations match text with matching bidirectional control characters in a right-to-left language document. Read/write **Boolean**.
 
 
 ## Syntax

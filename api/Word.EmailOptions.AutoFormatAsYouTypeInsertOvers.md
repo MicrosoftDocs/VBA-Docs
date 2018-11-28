@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeInsertOvers property (Word)
 
- **True** for Microsoft Word to automatically insert "以上" when the user enters "記" or "案". Read/write **Boolean** .
+ **True** for Microsoft Word to automatically insert "以上" when the user enters "記" or "案". Read/write **Boolean**.
 
 
 ## Syntax

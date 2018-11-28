@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Height property (Word)
 
-Returns or sets the height of the protected view window. Read/write  **Long** .
+Returns or sets the height of the protected view window. Read/write  **Long**.
 
 
 ## Syntax

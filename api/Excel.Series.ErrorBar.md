@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ErrorBar method (Excel)
 
-Applies error bars to the series.  **Variant** .
+Applies error bars to the series.  **Variant**.
 
 
 ## Syntax
@@ -32,8 +32,8 @@ Applies error bars to the series.  **Variant** .
 | _Direction_|Required| **[xlErrorBarDirection](Excel.XlErrorBarDirection.md)**|The error bar direction.|
 | _Include_|Required| **[xlErrorBarInclude](Excel.XlErrorBarInclude.md)**|The error bar parts to include.|
 | _Type_|Required| **[xlErrorBarType](Excel.XlErrorBarType.md)**|The error bar type.|
-| _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when  _Type_ is **xlErrorBarTypeCustom** .|
-| _MinusValues_|Optional| **Variant**|The negative error amount when  _Type_ is **xlErrorBarTypeCustom** .|
+| _Amount_|Optional| **Variant**|The error amount. Used for only the positive error amount when  _Type_ is **xlErrorBarTypeCustom**.|
+| _MinusValues_|Optional| **Variant**|The negative error amount when  _Type_ is **xlErrorBarTypeCustom**.|
 
 ## Return value
 

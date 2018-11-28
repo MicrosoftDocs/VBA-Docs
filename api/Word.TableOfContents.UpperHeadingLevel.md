@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.UpperHeadingLevel property (Word)
 
-Returns or sets the starting heading level for a table of contents. Read/write  **Long** .
+Returns or sets the starting heading level for a table of contents. Read/write  **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MailSession property (Excel)
 
-Returns the MAPI mail session number as a hexadecimal string (if there's an active session), or returns  **null** if there's no session. Read-only **Variant** .
+Returns the MAPI mail session number as a hexadecimal string (if there's an active session), or returns  **null** if there's no session. Read-only **Variant**.
 
 
 ## Syntax

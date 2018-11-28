@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Columns.RemoveAll Method (Outlook)
 
-Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)** .
+Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection and resets the **[Table](Outlook.Table.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection a
 
 ## Remarks
 
- **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table** . After a call to **RemoveAll** , **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
+ **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table**. After a call to **RemoveAll** , **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
 
 
 ## Example

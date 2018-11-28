@@ -30,6 +30,6 @@ Returns the  **[Shape](Visio.Shape.md)** object that is associated with the vali
 
 ## Remarks
 
- If the error is not associated with a specific shape, the **TargetShape** property returns **Nothing** .
+ If the error is not associated with a specific shape, the **TargetShape** property returns **Nothing**.
 
 

@@ -25,7 +25,7 @@ Specifies that the first segment of the callout line (the segment attached to th
 
 ## Remarks
 
-Applying this method sets the  **[AutoLength](Excel.CalloutFormat.AutoLength.md)** property to **True** .
+Applying this method sets the  **[AutoLength](Excel.CalloutFormat.AutoLength.md)** property to **True**.
 
 
 ## Example

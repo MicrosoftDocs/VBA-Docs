@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetExtrusionDirection property (Word)
 
-Returns the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read/write  **MsoPresetExtrusionDirection** .
+Returns the direction taken by the extrusion's sweep path leading away from the extruded shape (the front face of the extrusion). Read/write  **MsoPresetExtrusionDirection**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.HeadingFormat property (Word)
 
- **True** if the specified row or rows are formatted as a table heading. Rows formatted as table headings are repeated when a table spans more than one page. Can be **True** , **False** or **wdUndefined** . Read/write **Long** .
+ **True** if the specified row or rows are formatted as a table heading. Rows formatted as table headings are repeated when a table spans more than one page. Can be **True** , **False** or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

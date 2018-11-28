@@ -42,7 +42,7 @@ If UnitsNameOrCode is not provided, the  **FooterMargin** property will default 
 
 You can also set this value in the  **Margin** box under **Footer** in the **Header and Footer** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, and then in the  **Preview** group, click **Header & Footer**).
 
-Automation constants for representing units are declared by the Microsoft Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)** .
+Automation constants for representing units are declared by the Microsoft Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

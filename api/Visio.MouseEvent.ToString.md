@@ -32,7 +32,7 @@ String
 
  **ToString** is the default property of both **KeyboardEvent** and **MouseEvent** objects.
 
-When a  **KeyDown** , **KeyPress** , or **KeyUp** event fires, the **ToString** property returns a string that represents the properties of the **KeyboardEvent** object that gets passed to **VisEventProc** . The string has the following form:
+When a  **KeyDown** , **KeyPress** , or **KeyUp** event fires, the **ToString** property returns a string that represents the properties of the **KeyboardEvent** object that gets passed to **VisEventProc**. The string has the following form:
 
  _event code_ ; **KeyCode** property value; **KeyButtonState** property value; **KeyAscii** property value; **Window.Caption**
 
@@ -40,7 +40,7 @@ where  _event code_ returns the code of the event that fired and **Window.Captio
 
 713;0;4;76;Drawing1
 
-When a  **MouseDown** , **MouseMove** , or **MouseUp** event fires, the **ToString** property returns a string that represents the properties of the **MouseEvent** object that gets passed to **VisEventProc** . The string has the following form:
+When a  **MouseDown** , **MouseMove** , or **MouseUp** event fires, the **ToString** property returns a string that represents the properties of the **MouseEvent** object that gets passed to **VisEventProc**. The string has the following form:
 
  _event code_ ; **Button** property value; **KeyButtonState** property value; **x** property value; **y** property value; **Window.Caption**
 

@@ -55,7 +55,7 @@ The  **DrawRegion** method creates a new **Shape** object from pieces of the pat
     
 
 
-The  _Flags_ argument can be one or a combination of the following constants declared by the Visio type library in **VisDrawRegionFlags** .
+The  _Flags_ argument can be one or a combination of the following constants declared by the Visio type library in **VisDrawRegionFlags**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.HasFormula property (Excel)
 
- **True** if all cells in the range contain formulas; **False** if none of the cells in the range contains a formula; **null** otherwise. Read-only **Variant** .
+ **True** if all cells in the range contain formulas; **False** if none of the cells in the range contains a formula; **null** otherwise. Read-only **Variant**.
 
 
 ## Syntax

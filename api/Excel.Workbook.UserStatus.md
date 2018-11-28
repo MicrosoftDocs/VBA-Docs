@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.UserStatus property (Excel)
 
-Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant** .
+Returns a 1-based, two-dimensional array that provides information about each user who has the workbook open as a shared list. Read-only  **Variant**.
 
 
 ## Syntax

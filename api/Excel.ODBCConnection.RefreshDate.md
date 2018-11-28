@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.RefreshDate property (Excel)
 
-Returns the date on which the ODBC connection was last refreshed. Read-only  **Date** .
+Returns the date on which the ODBC connection was last refreshed. Read-only  **Date**.
 
 
 ## Syntax

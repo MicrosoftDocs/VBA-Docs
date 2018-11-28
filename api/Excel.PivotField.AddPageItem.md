@@ -34,7 +34,7 @@ Adds an additional item to a multiple item page field.
 
 ## Remarks
 
-To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  **[EnableMultiplePageItems](Excel.PivotField.EnableMultiplePageItems.md)** property must be set to **True** .
+To avoid run-time errors, the data source must be an OLAP source, the field chosen must currently be in the page position, and the  **[EnableMultiplePageItems](Excel.PivotField.EnableMultiplePageItems.md)** property must be set to **True**.
 
 
 ## Example

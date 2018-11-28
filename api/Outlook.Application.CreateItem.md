@@ -43,7 +43,7 @@ The  **CreateItem** method can only create default Outlook items. To create new 
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML** . The Body text of the email item will now appear in HTML format.
+The following Microsoft Visual Basic for Applications (VBA) example creates a new  **[MailItem](Outlook.MailItem.md)** object and sets the **BodyFormat** property to **olFormatHTML**. The Body text of the email item will now appear in HTML format.
 
 
 ```vb

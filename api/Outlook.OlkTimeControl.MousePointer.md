@@ -25,7 +25,7 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
 ## Remarks
 
-The default value is  **olMousePointerDefault** .
+The default value is  **olMousePointerDefault**.
 
 
 ## See also

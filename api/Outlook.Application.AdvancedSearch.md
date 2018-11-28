@@ -99,7 +99,7 @@ Sub TestAdvancedSearchComplete()
 End Sub
 ```
 
-The following Microsoft Visual Basic for Applications example uses the  **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True** . When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
+The following Microsoft Visual Basic for Applications example uses the  **AdvancedSearch** method to create a new search. The parameters of the search, as specified by the _Filter_ argument of the **AdvancedSearch** method, will return all items in the Inbox and Sent Items folders where the Subject phrase-matches or contains "Office". The user's Inbox and Sent Items folders are specified as the scope of the search and the **[SearchSubFolders](Outlook.Search.SearchSubFolders.md)** property is set to **True**. When the search is complete, the **[GetTable](Outlook.Search.GetTable.md)** method is called on the **[Search](Outlook.Search.md)** object for performant enumeration of search results.
 
 
 

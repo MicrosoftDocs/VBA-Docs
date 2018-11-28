@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SeriesLines property (Word)
 
-Returns the series lines for a 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie chart. Read-only  **[SeriesLines](Word.SeriesLines.md)** .
+Returns the series lines for a 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie chart. Read-only  **[SeriesLines](Word.SeriesLines.md)**.
 
 
 ## Syntax

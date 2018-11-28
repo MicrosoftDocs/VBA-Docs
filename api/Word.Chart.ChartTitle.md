@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartTitle property (Word)
 
-Returns the title of the specified chart. Read-only  **[ChartTitle](Word.ChartTitle.md)** .
+Returns the title of the specified chart. Read-only  **[ChartTitle](Word.ChartTitle.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the title of the specified chart. Read-only  **[ChartTitle](Word.ChartTi
 
 ## Remarks
 
-The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Chart.HasTitle.md)** property for the chart is **True** .
+The  **ChartTitle** object does not exist and cannot be used unless the **[HasTitle](Word.Chart.HasTitle.md)** property for the chart is **True**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.Path property (Word)
 
-Returns the disk or Web path to the specified subdocument. Read-only  **String** .
+Returns the disk or Web path to the specified subdocument. Read-only  **String**.
 
 
 ## Syntax

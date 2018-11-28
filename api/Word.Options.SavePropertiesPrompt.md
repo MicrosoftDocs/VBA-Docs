@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SavePropertiesPrompt property (Word)
 
- **True** if Microsoft Word prompts for document property information when saving a new document. Read/write **Boolean** .
+ **True** if Microsoft Word prompts for document property information when saving a new document. Read/write **Boolean**.
 
 
 ## Syntax

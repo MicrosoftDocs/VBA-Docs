@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UpdateLinksAtOpen property (Word)
 
- **True** if Microsoft Word automatically updates all embedded OLE links in a document when it is opened. Read/write **Boolean** .
+ **True** if Microsoft Word automatically updates all embedded OLE links in a document when it is opened. Read/write **Boolean**.
 
 
 ## Syntax

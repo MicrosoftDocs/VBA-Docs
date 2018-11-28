@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Ready property (Excel)
 
-Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean** .
+Returns  **True** when the Microsoft Excel application is ready; **False** when the Excel application is not ready. Read-only **Boolean**.
 
 
 ## Syntax

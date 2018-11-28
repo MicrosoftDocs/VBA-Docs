@@ -42,7 +42,7 @@ For built in dialog boxes, this method returns  **True** if the user clicks **OK
 
 You can use a single dialog box to change many properties at the same time. For example, you can use the Format Cells dialog box to change all the properties of the  **[Font](Excel.Font(object).md)** object.
 
-For some built-in dialog boxes (the  **Open** dialog box, for example), you can set initial values using _arg1_,  _arg2_, ...,  _arg30_. To find the arguments to set, locate the corresponding dialog box constant in  **Built-In Dialog Box Argument Lists** . For example, search for the **xlDialogOpen** constant to find the arguments for the **Open** dialog box. For more information about built-in dialog boxes, see the **Dialogs** collection.
+For some built-in dialog boxes (the  **Open** dialog box, for example), you can set initial values using _arg1_,  _arg2_, ...,  _arg30_. To find the arguments to set, locate the corresponding dialog box constant in  **Built-In Dialog Box Argument Lists**. For example, search for the **xlDialogOpen** constant to find the arguments for the **Open** dialog box. For more information about built-in dialog boxes, see the **Dialogs** collection.
 
 
 ## Example

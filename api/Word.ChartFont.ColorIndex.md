@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.ColorIndex property (Word)
 
-Returns or sets the color of the font. Read/write  **Variant** .
+Returns or sets the color of the font. Read/write  **Variant**.
 
 
 ## Syntax

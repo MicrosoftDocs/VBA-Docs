@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Body Property (Outlook)
 
-Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets a  **String** representing the clear-text body of the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

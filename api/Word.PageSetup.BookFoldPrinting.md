@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BookFoldPrinting property (Word)
 
- **True** for Microsoft Word to print a document in a series of booklets so the printed pages can be folded and read as a book. Read/write **Boolean** .
+ **True** for Microsoft Word to print a document in a series of booklets so the printed pages can be folded and read as a book. Read/write **Boolean**.
 
 
 ## Syntax

@@ -42,7 +42,7 @@ A  **Variant** object representing the storage that Outlook has allocated for th
 
 ## Remarks
 
-The add-in must check for the return value of  **GetFormRegionStorage** . A form region will not load if any of the following is true of the returned storage:
+The add-in must check for the return value of  **GetFormRegionStorage**. A form region will not load if any of the following is true of the returned storage:
 
 
 - The returned storage is a .OFS file specified with a non-local path.

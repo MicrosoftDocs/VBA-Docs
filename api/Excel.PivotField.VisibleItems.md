@@ -33,7 +33,7 @@ Returns an object that represents either a single visible PivotTable item (a  **
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **True** . There are no hidden items.
+For OLAP data sources, this property is read-only and always returns  **True**. There are no hidden items.
 
 
 ## Example

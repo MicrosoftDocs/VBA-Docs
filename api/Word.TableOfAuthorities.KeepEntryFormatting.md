@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.KeepEntryFormatting property (Word)
 
- **True** if formatting from table of authorities entries is applied to the entries in the specified table of authorities. Read/write **Boolean** .
+ **True** if formatting from table of authorities entries is applied to the entries in the specified table of authorities. Read/write **Boolean**.
 
 
 ## Syntax

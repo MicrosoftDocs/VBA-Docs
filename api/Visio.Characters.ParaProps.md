@@ -38,7 +38,7 @@ Integer
 
 ## Remarks
 
-The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in  **VisCellIndices** .
+The possible values of the CellIndex argument correspond to named cells in the Paragraph section of the ShapeSheet. Constants for CellIndex are declared by the Visio type library in  **VisCellIndices**.
 
 
 

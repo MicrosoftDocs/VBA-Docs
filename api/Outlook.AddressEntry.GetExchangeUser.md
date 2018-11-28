@@ -25,7 +25,7 @@ Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents t
 
 ## Return value
 
-An  **ExchangeUser** object that represents the **AddressEntry** . Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange user.
+An  **ExchangeUser** object that represents the **AddressEntry**. Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to an Exchange user.
 
 
 ## Remarks

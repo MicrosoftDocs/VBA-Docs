@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.InterceptIsAuto property (Excel)
 
- **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean** .
+ **True** if the point where the trendline crosses the value axis is automatically determined by the regression. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[Intercept](Excel.Trendline.InterceptIsAuto.md)** property sets this property to **False** .
+Setting the  **[Intercept](Excel.Trendline.InterceptIsAuto.md)** property sets this property to **False**.
 
 
 ## Example

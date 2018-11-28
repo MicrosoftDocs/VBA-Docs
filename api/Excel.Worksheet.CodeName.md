@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.CodeName property (Excel)
 
-Returns the code name for the object. Read-only  **String** .
+Returns the code name for the object. Read-only  **String**.
 
 
 ## Syntax

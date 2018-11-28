@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.ShowSeriesName property (Word)
 
- **True** to show the series name for the data labels on a chart. **False** to hide the series name. Read/write **Boolean** .
+ **True** to show the series name for the data labels on a chart. **False** to hide the series name. Read/write **Boolean**.
 
 
 ## Syntax

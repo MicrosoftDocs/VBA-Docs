@@ -25,7 +25,7 @@ Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatCon
 
 ## Remarks
 
-This property will always return a  **Long** value of "6", which is equivalent to **xlIconSet** .
+This property will always return a  **Long** value of "6", which is equivalent to **xlIconSet**.
 
 
 ## See also

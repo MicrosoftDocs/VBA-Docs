@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Hinstance property (Excel)
 
-Returns a handle to the instance of Excel represented by the [Application](Excel.Application(object).md) object. Read-only **Long** .
+Returns a handle to the instance of Excel represented by the [Application](Excel.Application(object).md) object. Read-only **Long**.
 
 
 ## Syntax

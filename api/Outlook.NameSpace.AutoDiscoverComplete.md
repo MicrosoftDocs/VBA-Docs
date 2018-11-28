@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.AutoDiscoverComplete Event (Outlook)
 
-Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange server that hosts the primary Exchange account and has the related information available in  **[NameSpace.AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)** .
+Occurs after Microsoft Outlook has finished accessing the auto-discovery service of the Microsoft Exchange server that hosts the primary Exchange account and has the related information available in  **[NameSpace.AutoDiscoverXml](Outlook.NameSpace.AutoDiscoverXml.md)**.
 
 
 ## Syntax

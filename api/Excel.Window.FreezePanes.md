@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.FreezePanes property (Excel)
 
- **True** if split panes are frozen. Read/write **Boolean** .
+ **True** if split panes are frozen. Read/write **Boolean**.
 
 
 ## Syntax

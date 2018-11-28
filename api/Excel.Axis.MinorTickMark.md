@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorTickMark property (Excel)
 
-Returns or sets the type of minor tick mark for the specified axis. Read/write  **[xlTickMark](Excel.XlTickMark.md)** .
+Returns or sets the type of minor tick mark for the specified axis. Read/write  **[xlTickMark](Excel.XlTickMark.md)**.
 
 
 ## Syntax

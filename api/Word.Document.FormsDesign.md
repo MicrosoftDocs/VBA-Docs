@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FormsDesign property (Word)
 
- **True** if the specified document is in form design mode. Read-only **Boolean** .
+ **True** if the specified document is in form design mode. Read-only **Boolean**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ When Word is in form design mode, the  **Control Toolbox** toolbar is displayed.
 
 ## Example
 
-This example displays a message box that indicates whether the active document is in form design mode. This example will always return  **False** .
+This example displays a message box that indicates whether the active document is in form design mode. This example will always return  **False**.
 
 
 ```vb

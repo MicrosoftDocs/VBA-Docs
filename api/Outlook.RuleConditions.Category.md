@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.Category Property (Outlook)
 
-Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object with a **[CategoryRuleCondition.ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)** of **olConditionCategory** . Read-only.
+Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object with a **[CategoryRuleCondition.ConditionType](Outlook.CategoryRuleCondition.ConditionType.md)** of **olConditionCategory**. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[CategoryRuleCondition](Outlook.CategoryRuleCondition.md)** object 
 
 Use the returned  **CategoryRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the message is assigned specific categories.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **CategoryRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[CategoryRuleCondition.Enabled](Outlook.CategoryRuleCondition.Enabled.md)** will be **True** .
+This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **CategoryRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[CategoryRuleCondition.Enabled](Outlook.CategoryRuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

@@ -29,7 +29,7 @@ Creates a picture from an existing file. Returns a  **[Shape](Excel.Shapes.md)**
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file from which the OLE object is to be created.|
 | _LinkToFile_|Required| **[MsoTriState](./Office.MsoTriState.md)**|Determines whether the picture will be linked to the file from which it was created.|
-| _SaveWithDocument_|Required| **[MsoTriState](./Office.MsoTriState.md)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse** .|
+| _SaveWithDocument_|Required| **[MsoTriState](./Office.MsoTriState.md)**|Determines whether the linked picture will be saved with the document into which it is inserted. This argument must be  **msoTrue** if LinkToFile is **msoFalse**.|
 | _Left_|Required| **Single**|The position, measured in points, of the left edge of the picture relative to the left edge of the worksheet.|
 | _Top_|Required| **Single**|The position, measured in points, of the top edge of the picture relative to the top edge of the worksheet.|
 | _Width_|Optional| **Single**|The width of the picture, measured in points.|

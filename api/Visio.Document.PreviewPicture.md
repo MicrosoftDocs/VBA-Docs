@@ -32,7 +32,7 @@ IPictureDisp
 
 The  **PreviewPicture** property returns and accepts only EMF files (enhanced metafiles). Microsoft Visio will raise an exception if the file you pass to **PreviewPicture** is a non-EMF file.
 
-To delete an existing preview, set the  **PreviewPicture** property to **Nothing** .
+To delete an existing preview, set the  **PreviewPicture** property to **Nothing**.
 
 You can use the  **PreviewPicture** property to include a preview picture in a template that does not have any diagrams stored in it.
 
@@ -49,7 +49,7 @@ To get information about the  **StdPicture** object that supports the **IPicture
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture** .
+4. Under  **Classes**, examine the class named  **StdPicture**.
     
 For details about the  **IPictureDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 

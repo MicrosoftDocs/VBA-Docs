@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrectEntry.Value property (Word)
 
-Returns or sets the value of the AutoCorrect entry. Read/write  **String** .
+Returns or sets the value of the AutoCorrect entry. Read/write  **String**.
 
 
 ## Syntax

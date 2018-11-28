@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.AutoFilterDateGrouping property (Excel)
 
- **True** if the auto filter for date grouping is currently displayed in the specified window. Read/write **Boolean** .
+ **True** if the auto filter for date grouping is currently displayed in the specified window. Read/write **Boolean**.
 
 
 ## Syntax

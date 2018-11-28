@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.ShowInFieldList property (Excel)
 
-When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean** .
+When set to  **True** (default), a **CubeField** object will be shown in the field list. Read/write **Boolean**.
 
 
 ## Syntax

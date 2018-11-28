@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.SaveLinkValues property (Excel)
 
- **True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean** .
+ **True** if Microsoft Excel saves external link values with the workbook. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Execute method (Word)
 
-Runs the specified find operation. Returns  **True** if the find operation is successful. **Boolean** .
+Runs the specified find operation. Returns  **True** if the find operation is successful. **Boolean**.
 
 
 ## Syntax

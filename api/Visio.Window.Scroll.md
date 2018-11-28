@@ -41,6 +41,6 @@ Nothing
 
 If the  **Window** object is not a built-in MDI or built-in docked stencil type, the **Scroll** method raises an exception.
 
-Constants representing ways to scroll horizontally are declared by the Visio type library in  **[VisWindowScrollX](Visio.viswindowscrollx.md)** , and constants representing ways to scroll vertically are declared in **[VisWindowScrollY](Visio.viswindowscrolly.md)** .
+Constants representing ways to scroll horizontally are declared by the Visio type library in  **[VisWindowScrollX](Visio.viswindowscrollx.md)** , and constants representing ways to scroll vertically are declared in **[VisWindowScrollY](Visio.viswindowscrolly.md)**.
 
 

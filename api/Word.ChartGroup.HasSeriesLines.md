@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasSeriesLines property (Word)
 
- **True** if a stacked column chart or bar chart has series lines or if a pie-of-pie chart or bar-of-pie chart has connector lines between the two sections. Read/write **Boolean** .
+ **True** if a stacked column chart or bar chart has series lines or if a pie-of-pie chart or bar-of-pie chart has connector lines between the two sections. Read/write **Boolean**.
 
 
 ## Syntax

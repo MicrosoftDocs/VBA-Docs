@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayAlerts property (Excel)
 
- **True** if Microsoft Excel displays certain alerts and messages while a macro is running. Read/write **Boolean** .
+ **True** if Microsoft Excel displays certain alerts and messages while a macro is running. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,14 +25,14 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The default value is  **True** . Set this property to **False** to suppress prompts and alert messages while a macro is running; when a message requires a response, Microsoft Excel chooses the default response.
+The default value is  **True**. Set this property to **False** to suppress prompts and alert messages while a macro is running; when a message requires a response, Microsoft Excel chooses the default response.
 
 If you set this property to  **False** , Microsoft Excel sets this property to **True** when the code is finished, unless you are running cross-process code.
 
 
 
 
- **Note**  When using the  **[SaveAs](Excel.Workbook.SaveAs.md)** method for workbooks to overwrite an existing file, the **Confirm Save As** dialog box has a default of **No**, while the  **Yes** response is selected by Excel when the **DisplayAlerts** property is set to **False** . The **Yes** response overwrites the existing file.When using the  **[SaveAs](Excel.Workbook.SaveAs.md)** method for workbooks to save a workbook that contains a Visual Basic for Applications (VBA) project in the Excel 5.0/95 file format, the **Microsoft Excel** dialog box has a default of **Yes**, while the  **Cancel** response is selected by Excel when the **DisplayAlerts** property is set to **False** . You cannot save a workbook that contains a VBA project using the Excel 5.0/95 file format.
+ **Note**  When using the  **[SaveAs](Excel.Workbook.SaveAs.md)** method for workbooks to overwrite an existing file, the **Confirm Save As** dialog box has a default of **No**, while the  **Yes** response is selected by Excel when the **DisplayAlerts** property is set to **False**. The **Yes** response overwrites the existing file.When using the  **[SaveAs](Excel.Workbook.SaveAs.md)** method for workbooks to save a workbook that contains a Visual Basic for Applications (VBA) project in the Excel 5.0/95 file format, the **Microsoft Excel** dialog box has a default of **Yes**, while the  **Cancel** response is selected by Excel when the **DisplayAlerts** property is set to **False**. You cannot save a workbook that contains a VBA project using the Excel 5.0/95 file format.
 
 
 ## Example

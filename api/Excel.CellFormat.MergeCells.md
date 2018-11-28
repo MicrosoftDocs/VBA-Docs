@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CellFormat.MergeCells property (Excel)
 
- **True** if the range or style contains merged cells. Read/write **Variant** .
+ **True** if the range or style contains merged cells. Read/write **Variant**.
 
 
 ## Syntax

@@ -30,6 +30,6 @@ Master
 
 ## Remarks
 
-If the  **Layers** collection is from a page rather than a master, its **Master** property returns **Nothing** .
+If the  **Layers** collection is from a page rather than a master, its **Master** property returns **Nothing**.
 
 

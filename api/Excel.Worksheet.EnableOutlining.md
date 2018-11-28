@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableOutlining property (Excel)
 
- **True** if outlining symbols are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
+ **True** if outlining symbols are enabled when user-interface-only protection is turned on. Read/write **Boolean**.
 
 
 ## Syntax

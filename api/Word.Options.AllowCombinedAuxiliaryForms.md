@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AllowCombinedAuxiliaryForms property (Word)
 
- **True** if Microsoft Word ignores auxiliary verb forms when checking spelling in a Korean language document. Read/write **Boolean** .
+ **True** if Microsoft Word ignores auxiliary verb forms when checking spelling in a Korean language document. Read/write **Boolean**.
 
 
 ## Syntax

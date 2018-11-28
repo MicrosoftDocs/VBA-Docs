@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.IncludeChapterNumber property (Word)
 
- **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean** .
+ **True** if a chapter number is included with page numbers or a caption label. Read/write **Boolean**.
 
 
 ## Syntax

@@ -33,6 +33,6 @@ Long
 
 ## Remarks
 
- **ID** is the default property of **GraphicItem** . The ID of each **GraphicItem** object is unique in the **GraphicItems** collection to which it belongs.
+ **ID** is the default property of **GraphicItem**. The ID of each **GraphicItem** object is unique in the **GraphicItems** collection to which it belongs.
 
 

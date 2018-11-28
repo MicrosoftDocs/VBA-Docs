@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.InvalidAddress property (Word)
 
- **True** for Microsoft Word to mark a record in a mail merge data source if it contains invalid data in an address field. Read/write **Boolean** .
+ **True** for Microsoft Word to mark a record in a mail merge data source if it contains invalid data in an address field. Read/write **Boolean**.
 
 
 ## Syntax

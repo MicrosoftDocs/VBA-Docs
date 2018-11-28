@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Engrave property (Word)
 
- **True** if the font is formatted as engraved. Read/write **Long** .
+ **True** if the font is formatted as engraved. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** . Setting **Engrave** to **True** sets **[Emboss](Word.Font.Emboss.md)** to **False** , and vice versa.
+Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle**. Setting **Engrave** to **True** sets **[Emboss](Word.Font.Emboss.md)** to **False** , and vice versa.
 
 
 ## Example

@@ -40,7 +40,7 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 Cell formulas that contain a specific unit of measure are displayed in those units regardless of the default text units setting. Many cell formulas, however, use implicit unit syntax and are displayed in default units.
 
-A program can create a cell whose formula is displayed in default units by setting the cell's  **Formula** property to a string in implicit unit syntax. For example, the formula "=8[pt,T]" is displayed as "8 pt" if the **DefaultTextUnits** property is **visPoints** and "0.6272" if the **DefaultTextUnits** property is **visCiceros** .
+A program can create a cell whose formula is displayed in default units by setting the cell's  **Formula** property to a string in implicit unit syntax. For example, the formula "=8[pt,T]" is displayed as "8 pt" if the **DefaultTextUnits** property is **visPoints** and "0.6272" if the **DefaultTextUnits** property is **visCiceros**.
 
 Alternatively, a program can use the following statement to set the cell's result to default text units: 
 
@@ -51,7 +51,7 @@ Alternatively, a program can use the following statement to set the cell's resul
 vsoCell.Result(visTextUnits) = 12
 ```
 
-In this case, the text is 12 points if the  **DefaultTextUnits** property is **visPoints** and 12 ciceros if the **DefaultTextUnits** property is **visCiceros** .
+In this case, the text is 12 points if the  **DefaultTextUnits** property is **visPoints** and 12 ciceros if the **DefaultTextUnits** property is **visCiceros**.
 
 For details about implicit units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

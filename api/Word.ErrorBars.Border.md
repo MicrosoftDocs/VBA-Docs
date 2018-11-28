@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.Border property (Word)
 
-Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)** .
+Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md)**.
 
 
 ## Syntax

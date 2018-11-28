@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.BuiltIn property (Word)
 
- **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean** .
+ **True** if the specified object is one of the built-in styles or caption labels in Word. Read-only **Boolean**.
 
 
 ## Syntax

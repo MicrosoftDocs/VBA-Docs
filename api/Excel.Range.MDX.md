@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.MDX property (Excel)
 
-Returns the MDX name for the specified  **Range** object. Read-only **String** .
+Returns the MDX name for the specified  **Range** object. Read-only **String**.
 
 
 ## Syntax

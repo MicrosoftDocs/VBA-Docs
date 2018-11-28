@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ProtectFormatting property (Excel)
 
- **True** if chart formatting cannot be modified by the user. Read/write **Boolean** .
+ **True** if chart formatting cannot be modified by the user. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property is not persisted when the file is saved. If you set this property to  **True** and then reopen the file, it will no longer be set to **True** .
+This property is not persisted when the file is saved. If you set this property to  **True** and then reopen the file, it will no longer be set to **True**.
 
 
 ## Example

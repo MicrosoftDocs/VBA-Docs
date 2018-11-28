@@ -54,13 +54,13 @@ The bounding rectangle returned for an individual shape depends on its  **Type**
 
 |**Constant**|**Description**|
 |:-----|:-----|
-| **visTypePage**|Equivalent to  **Page.BoundingBox** or **Master.BoundingBox** .|
+| **visTypePage**|Equivalent to  **Page.BoundingBox** or **Master.BoundingBox**.|
 | **visTypeGroup**|Rectangle that tightly encloses the group and its subshapes.|
 | **visTypeShape**|Determined rectangle depends on flags. See the following table.|
 | **visTypeForeignObject**|Determined rectangle depends on flags. See the following table.|
 | **visTypeGuide**|Determined rectangle depends on flags. See the following table.|
 
-The method will raise an exception for object type  **visTypeDoc** .
+The method will raise an exception for object type  **visTypeDoc**.
 
 The  _Flags_ argument has several bits that control the bounding box retrieved for each shape. If more than one of the bits described in the following table is set, the rectangle determined for the shape covers all rectangles implied by the bits.
 
@@ -74,7 +74,7 @@ The  _Flags_ argument has several bits that control the bounding box retrieved f
 | **visBBoxIncludeHidden**|&H10|Includes hidden geometry.|
 | **visBBoxIgnoreVisible**|&H20|Ignores visible geometry.|
 | **visBBoxIncludeDataGraphics**|&H10000|Includes data-graphic callout shapes (and their sub-shapes) that are applied to the shapes of the master. Off by default.|
-| **visBBoxIncludeGuides**|&H1000|Includes extents for shapes of type  **visTypeguide** . By default, the extents of shapes of type **visTypeGuide** are ignored.If you request guide extents, then only the _x_ positions of vertical guides and the _y_ positions of horizontal guides contribute to the rectangle that is returned. If any vertical guides are reported on, an infinite _y_ extent is returned. If any horizontal guides are reported on, an infinite _ x_ extent is returned. If any rotated guides are reported on, infinite _x_ and _y_ extents are returned.|
+| **visBBoxIncludeGuides**|&H1000|Includes extents for shapes of type  **visTypeguide**. By default, the extents of shapes of type **visTypeGuide** are ignored.If you request guide extents, then only the _x_ positions of vertical guides and the _y_ positions of horizontal guides contribute to the rectangle that is returned. If any vertical guides are reported on, an infinite _y_ extent is returned. If any horizontal guides are reported on, an infinite _ x_ extent is returned. If any rotated guides are reported on, infinite _x_ and _y_ extents are returned.|
 | **visBBoxDrawingCoords**|&H2000|Returns numbers in the drawing coordinate system of the page or master whose shapes are being considered. By default, the returned numbers are drawing units in the local coordinate system of the parent of the considered shapes.|
 | **visBBoxNoNonPrint**|&H4000|Ignores the extents of shapes that are nonprinting. A shape is nonprinting if the value of its NonPrinting cell is non-zero or it belongs only to nonprinting layers.|
 

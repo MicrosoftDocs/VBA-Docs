@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveThemeDisplayName property (Word)
 
-Returns the display name of the active theme for the specified document. Read-only  **String** .
+Returns the display name of the active theme for the specified document. Read-only  **String**.
 
 
 ## Syntax

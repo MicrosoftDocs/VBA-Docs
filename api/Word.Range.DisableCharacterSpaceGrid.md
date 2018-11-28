@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DisableCharacterSpaceGrid property (Word)
 
- **True** if Microsoft Word ignores the number of characters per line for the corresponding **Range** object. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the number of characters per line for the corresponding **Range** object. Read/write **Boolean**.
 
 
 ## Syntax

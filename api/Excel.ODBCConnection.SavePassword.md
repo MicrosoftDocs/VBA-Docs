@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.SavePassword property (Excel)
 
- **True** if password information in an ODBC connection string is saved in the connection string. **False** if the password is removed. Read/write **Boolean** .
+ **True** if password information in an ODBC connection string is saved in the connection string. **False** if the password is removed. Read/write **Boolean**.
 
 
 ## Syntax

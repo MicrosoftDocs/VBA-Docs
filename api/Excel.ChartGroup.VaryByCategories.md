@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.VaryByCategories property (Excel)
 
- **True** if Microsoft Excel assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean** .
+ **True** if Microsoft Excel assigns a different color or pattern to each data marker. The chart must contain only one series. Read/write **Boolean**.
 
 
 ## Syntax

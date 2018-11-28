@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.Enabled property (Word)
 
- **True** if a form field is enabled. Read/write **Boolean** .
+ **True** if a form field is enabled. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.AutoUpdate property (Excel)
 
- **True** if the **[LinkFormat](Excel.LinkFormat.md)** object is updated automatically when the source changes. Read-only **Boolean** .
+ **True** if the **[LinkFormat](Excel.LinkFormat.md)** object is updated automatically when the source changes. Read-only **Boolean**.
 
 
 ## Syntax

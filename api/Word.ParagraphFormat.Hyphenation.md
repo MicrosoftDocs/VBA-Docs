@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.Hyphenation property (Word)
 
- **True** if the specified paragraphs are included in automatic hyphenation. **False** if the specified paragraphs are to be excluded from automatic hyphenation. Read/write **Long** .
+ **True** if the specified paragraphs are included in automatic hyphenation. **False** if the specified paragraphs are to be excluded from automatic hyphenation. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** or **wdUndefined** .
+This property can be  **True** , **False** or **wdUndefined**.
 
 
 ## Example

@@ -40,7 +40,7 @@ Long
 
 ## Remarks
 
-Copying begins at the current row of the  **Recordset** object. After copying is completed, the **EOF** property of the **Recordset** object is **True** .
+Copying begins at the current row of the  **Recordset** object. After copying is completed, the **EOF** property of the **Recordset** object is **True**.
 
 
 ## Example

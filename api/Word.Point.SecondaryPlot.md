@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.SecondaryPlot property (Word)
 
- **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean** .
+ **True** if the point is in the secondary section of either a pie-of-pie chart or a bar-of-pie chart. Read/write **Boolean**.
 
 
 ## Syntax

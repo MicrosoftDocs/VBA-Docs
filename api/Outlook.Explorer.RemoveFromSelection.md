@@ -48,7 +48,7 @@ Outlook will return an error when you call the  **RemoveFromSelection** method u
     
 - The specified item has not been saved.
     
-- The specified item represents a  **[StorageItem](Outlook.StorageItem.md)** .
+- The specified item represents a  **[StorageItem](Outlook.StorageItem.md)**.
     
 - The current view is a conversation view.
     

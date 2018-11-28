@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Flags property (Word)
 
-Returns or sets properties of the selection. Read/write  **WdSelectionFlags** .
+Returns or sets properties of the selection. Read/write  **WdSelectionFlags**.
 
 
 ## Syntax

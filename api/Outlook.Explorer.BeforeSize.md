@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Explorer.BeforeSize Event (Outlook)
 
-Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)** .
+Occurs when the user sizes the current  **[Explorer](Outlook.Explorer.md)**.
 
 
 ## Syntax

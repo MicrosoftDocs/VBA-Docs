@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.RecipientReference property (Word)
 
-Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the reference line (for example, "In reply to:") for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax

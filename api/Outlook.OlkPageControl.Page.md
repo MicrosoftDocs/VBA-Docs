@@ -25,7 +25,7 @@ Returns or sets an  **[OlPageType](Outlook.OlPageType.md)** constant that specif
 
 ## Remarks
 
-The default value is  **olPageTypePlanner** .
+The default value is  **olPageTypePlanner**.
 
 
 ## See also

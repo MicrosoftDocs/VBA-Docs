@@ -30,11 +30,11 @@ Returns or sets whether items from all levels of hierarchies in a named set cube
 
 ## Remarks
 
- **True** if all hierarchies of the specified named set are displayed in the same field; otherwise **False** .
+ **True** if all hierarchies of the specified named set are displayed in the same field; otherwise **False**.
 
 The value of this property corresponds to the setting of the  **Display items from different levels in separate fields** check box on the **Layout & Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report that is based on an OLAP cube.
 
-This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet** .
+This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet**.
 
 
 ## Example

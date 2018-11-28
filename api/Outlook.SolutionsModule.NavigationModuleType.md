@@ -25,7 +25,7 @@ Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
 ## Remarks
 
-For the  **SolutionsModule** object, this property returns the value **olModuleSolutions** .
+For the  **SolutionsModule** object, this property returns the value **olModuleSolutions**.
 
 
 ## See also

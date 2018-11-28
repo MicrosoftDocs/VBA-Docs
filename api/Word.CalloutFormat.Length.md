@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Length property (Word)
 
-Returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only  **Single** .
+Returns the length (in points) of the first segment of the callout line (the segment attached to the text callout box). Read-only  **Single**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.UseStandardHeight property (Excel)
 
- **True** if the row height of the **Range** object equals the standard height of the sheet. Returns **Null** if the range contains more than one row and the rows aren't all the same height. Read/write **Variant** .
+ **True** if the row height of the **Range** object equals the standard height of the sheet. Returns **Null** if the range contains more than one row and the rows aren't all the same height. Read/write **Variant**.
 
 
 ## Syntax

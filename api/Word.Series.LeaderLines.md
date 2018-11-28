@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.LeaderLines property (Word)
 
-Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)** .
+Returns the leader lines for the series. Read-only  **[LeaderLines](Word.LeaderLines.md)**.
 
 
 ## Syntax

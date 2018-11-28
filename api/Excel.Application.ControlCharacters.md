@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ControlCharacters property (Excel)
 
- **True** if Microsoft Excel displays control characters for right-to-left languages. Read/write **Boolean** .
+ **True** if Microsoft Excel displays control characters for right-to-left languages. Read/write **Boolean**.
 
 
 ## Syntax

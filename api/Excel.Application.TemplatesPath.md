@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TemplatesPath property (Excel)
 
-Returns the local path where templates are stored. Read-only  **String** .
+Returns the local path where templates are stored. Read-only  **String**.
 
 
 ## Syntax

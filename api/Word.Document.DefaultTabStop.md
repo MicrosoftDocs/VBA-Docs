@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DefaultTabStop property (Word)
 
-Returns or sets the interval (in points) between the default tab stops in the specified document. Read/write  **Single** .
+Returns or sets the interval (in points) between the default tab stops in the specified document. Read/write  **Single**.
 
 
 ## Syntax

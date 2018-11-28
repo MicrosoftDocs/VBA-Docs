@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.UseThemeStyleOnReply property (Word)
 
- **True** for Microsoft Word to use a theme when replying to email. Read/write **Boolean** .
+ **True** for Microsoft Word to use a theme when replying to email. Read/write **Boolean**.
 
 
 ## Syntax

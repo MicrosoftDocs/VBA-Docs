@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.Type property (Word)
 
-Returns the hyperlink type. Read-only  **MsoHyperlinkType** .
+Returns the hyperlink type. Read-only  **MsoHyperlinkType**.
 
 
 ## Syntax

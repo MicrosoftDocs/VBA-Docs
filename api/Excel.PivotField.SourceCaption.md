@@ -25,7 +25,7 @@ The  **SourceCaption** property is applicable only for OLAP PivotTables, and ret
 
 ## Remarks
 
- You can use the **PivotField** . **Name** or the **PivotField** . **SourceName** for non-OLAP PivotTables.
+ You can use the **PivotField**. **Name** or the **PivotField**. **SourceName** for non-OLAP PivotTables.
 
 
 ## See also

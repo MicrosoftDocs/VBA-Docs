@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UseSystemSeparators property (Excel)
 
- **True** (default) if the system separators of Microsoft Excel are enabled. Read/write **Boolean** .
+ **True** (default) if the system separators of Microsoft Excel are enabled. Read/write **Boolean**.
 
 
 ## Syntax

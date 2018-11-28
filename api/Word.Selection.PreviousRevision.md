@@ -29,7 +29,7 @@ Locates and returns the previous tracked change as a  **Revision** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Wrap_|Optional| **Variant**| **True** to continue searching for a revision at the end of the document when the beginning of the document is reached. The default value is **False** .|
+| _Wrap_|Optional| **Variant**| **True** to continue searching for a revision at the end of the document when the beginning of the document is reached. The default value is **False**.|
 
 ## Return value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HasPassword property (Word)
 
- **True** if a password is required to open the specified document. Read-only **Boolean** .
+ **True** if a password is required to open the specified document. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Attachments Property (Outlook)
 
-Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all the attachments for the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

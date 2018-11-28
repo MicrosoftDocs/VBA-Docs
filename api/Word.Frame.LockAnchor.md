@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.LockAnchor property (Word)
 
- **True** if the specified frame is locked. Read/write **Boolean** .
+ **True** if the specified frame is locked. Read/write **Boolean**.
 
 
 ## Syntax

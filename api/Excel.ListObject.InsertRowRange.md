@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.InsertRowRange property (Excel)
 
- Returns a **Range** object representing the Insert row, if any, of a specified **[ListObject](Excel.ListObject.md)** object. Read-only **Range** .
+ Returns a **Range** object representing the Insert row, if any, of a specified **[ListObject](Excel.ListObject.md)** object. Read-only **Range**.
 
 
 ## Syntax

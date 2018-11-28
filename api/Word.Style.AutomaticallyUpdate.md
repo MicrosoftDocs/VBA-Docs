@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.AutomaticallyUpdate property (Word)
 
- **True** if the style is automatically redefined based on the selection. Read/write **Boolean** .
+ **True** if the style is automatically redefined based on the selection. Read/write **Boolean**.
 
 
 ## Syntax

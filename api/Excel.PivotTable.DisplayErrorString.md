@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DisplayErrorString property (Excel)
 
- **True** if the PivotTable report displays a custom error string in cells that contain errors. The default value is **False** . Read/write **Boolean** .
+ **True** if the PivotTable report displays a custom error string in cells that contain errors. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

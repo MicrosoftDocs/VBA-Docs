@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UseGermanSpellingReform property (Word)
 
- **True** if Microsoft Word uses the German post-reform spelling rules when checking spelling. Read/write **Boolean** .
+ **True** if Microsoft Word uses the German post-reform spelling rules when checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

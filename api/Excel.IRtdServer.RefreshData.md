@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IRtdServer.RefreshData method (Excel)
 
-This method is called by Microsoft Excel to get new data. Returns a  **Variant** .
+This method is called by Microsoft Excel to get new data. Returns a  **Variant**.
 
 
 ## Syntax

@@ -50,6 +50,6 @@ Deletes the additional shapes that are associated with the shape, such as connec
 | **visDeleteNoContainerMembers**|4|Do not delete unselected members of containers or lists.|
 | **visDeleteNoAssociatedCallouts**|8|Do not delete unselected callouts that are associated with shapes.|
 
-In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors** . If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
+In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors**. If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
 
 

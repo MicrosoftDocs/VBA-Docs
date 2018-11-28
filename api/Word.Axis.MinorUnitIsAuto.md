@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorUnitIsAuto property (Word)
 
- **True** if Microsoft Word calculates minor units for the value axis. Read/write **Boolean** .
+ **True** if Microsoft Word calculates minor units for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MinorUnit](Word.Axis.MinorUnit.md)** property sets this property to **False** .
+Setting the  **[MinorUnit](Word.Axis.MinorUnit.md)** property sets this property to **False**.
 
 
 ## Example

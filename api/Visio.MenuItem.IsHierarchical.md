@@ -33,7 +33,7 @@ Integer
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.
 
-The value of the  **CmdNum** property of a **MenuItem** object that represents a hierarchical menu should be zero (0). This corresponds to the Microsoft Visio constant **visCmdHierarchical** .
+The value of the  **CmdNum** property of a **MenuItem** object that represents a hierarchical menu should be zero (0). This corresponds to the Microsoft Visio constant **visCmdHierarchical**.
 
 
 ## Example

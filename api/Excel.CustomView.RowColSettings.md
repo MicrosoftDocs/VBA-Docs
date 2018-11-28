@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomView.RowColSettings property (Excel)
 
- **True** if the custom view includes settings for hidden rows and columns (including filter information). Read-only **Boolean** .
+ **True** if the custom view includes settings for hidden rows and columns (including filter information). Read-only **Boolean**.
 
 
 ## Syntax

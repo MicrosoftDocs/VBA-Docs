@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Has3DEffect property (Word)
 
- **True** if the series has a three-dimensional appearance. Read/write **Boolean** .
+ **True** if the series has a three-dimensional appearance. Read/write **Boolean**.
 
 
 ## Syntax

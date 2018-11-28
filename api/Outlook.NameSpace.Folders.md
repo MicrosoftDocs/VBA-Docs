@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # NameSpace.Folders Property (Outlook)
 
-Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[NameSpace](Outlook.NameSpace.md)** . Read-only.
+Returns the  **[Folders](Outlook.Folders.md)** collection that represents all the folders contained in the specified **[NameSpace](Outlook.NameSpace.md)**. Read-only.
 
 
 ## Syntax

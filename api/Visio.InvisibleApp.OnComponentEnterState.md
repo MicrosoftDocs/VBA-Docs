@@ -45,7 +45,7 @@ At present, the only state change supported by the  **OnComponentEnterState** me
 
 Most client code doesn't need to call the  **OnComponentEnterState** method when causing Visio to enter or leave the state of being modal, for example, when showing modal dialog boxes. Typically, this method is used by client code that shows dialog boxes other than Microsoft Visual Basic for Applications (VBA) forms and requires behavior different from the Visio default behavior.
 
-Following are constants and values for  _uStateID_, which are declared by the Visio type library in  **VisOnComponentEnterCodes** . Any of the following constants prefixed with **visModal** can be combined with **visComponentStateModal** to influence Visio behavior when transitioning to or from a modal state.
+Following are constants and values for  _uStateID_, which are declared by the Visio type library in  **VisOnComponentEnterCodes**. Any of the following constants prefixed with **visModal** can be combined with **visComponentStateModal** to influence Visio behavior when transitioning to or from a modal state.
 
 
 

@@ -28,13 +28,13 @@ Returns or sets a **Long** representing the type of recipient. Read/write.
 Depending on the type of recipient, this property returns or sets a **Long** corresponding to the numeric equivalent of one of the following constants:
 
 
-- **[JournalItem](Outlook.JournalItem.md)** recipient: the **[OlJournalRecipientType](Outlook.OlJournalRecipientType.md)** constant **olAssociatedContact** .
+- **[JournalItem](Outlook.JournalItem.md)** recipient: the **[OlJournalRecipientType](Outlook.OlJournalRecipientType.md)** constant **olAssociatedContact**.
     
-- **[MailItem](Outlook.MailItem.md)** recipient: one of the following **[OlMailRecipientType](Outlook.OlMailRecipientType.md)** constants: **olBCC** , **olCC** , **olOriginator** , or **olTo** .
+- **[MailItem](Outlook.MailItem.md)** recipient: one of the following **[OlMailRecipientType](Outlook.OlMailRecipientType.md)** constants: **olBCC** , **olCC** , **olOriginator** , or **olTo**.
     
-- **[MeetingItem](Outlook.MeetingItem.md)** recipient: one of the following **[OlMeetingRecipientType](Outlook.OlMeetingRecipientType.md)** constants: **olOptional** , **olOrganizer** , **olRequired** , or **olResource** .
+- **[MeetingItem](Outlook.MeetingItem.md)** recipient: one of the following **[OlMeetingRecipientType](Outlook.OlMeetingRecipientType.md)** constants: **olOptional** , **olOrganizer** , **olRequired** , or **olResource**.
     
-- **[TaskItem](Outlook.TaskItem.md)** recipient: either of the following **[OlTaskRecipientType](Outlook.OlTaskRecipientType.md)** constants: **olFinalStatus** , or **olUpdate** .
+- **[TaskItem](Outlook.TaskItem.md)** recipient: either of the following **[OlTaskRecipientType](Outlook.OlTaskRecipientType.md)** constants: **olFinalStatus** , or **olUpdate**.
     
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowDeletingColumns property (Excel)
 
-Returns  **True** if the deletion of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the deletion of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax

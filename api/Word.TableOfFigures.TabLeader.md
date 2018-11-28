@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.TabLeader property (Word)
 
-Returns or sets the character between entries and their page numbers in an table of figures. Read/write  **[WdTabLeader](Word.WdTabLeader.md)** .
+Returns or sets the character between entries and their page numbers in an table of figures. Read/write  **[WdTabLeader](Word.WdTabLeader.md)**.
 
 
 ## Syntax

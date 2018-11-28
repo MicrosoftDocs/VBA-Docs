@@ -58,7 +58,7 @@ The following example sets the fill for all the shapes in the selection, assumin
 Selection.ShapeRange.Fill.ForeColor.RGB = RGB(255, 0, 0)
 ```
 
-To add a  **Shape** object to the collection of shapes for the specified document and return a **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection: **AddCallout** , **AddCurve** , **AddLabel** , **AddLine** , **AddOleControl** , **AddOleObject** , **AddPolyline** , **AddShape** , **AddTextbox** , **AddTextEffect** , or **BuildFreeForm** . The following example adds a rectangle to the active document.
+To add a  **Shape** object to the collection of shapes for the specified document and return a **Shape** object that represents the newly created shape, use one of the following methods of the **Shapes** collection: **AddCallout** , **AddCurve** , **AddLabel** , **AddLine** , **AddOleControl** , **AddOleObject** , **AddPolyline** , **AddShape** , **AddTextbox** , **AddTextEffect** , or **BuildFreeForm**. The following example adds a rectangle to the active document.
 
 
 
@@ -73,7 +73,7 @@ Use the  **Group** or **Regroup** method to group a range of shapes and return a
 
 Every  **Shape** object is anchored to a range of text. A shape is anchored to the beginning of the first paragraph that contains the anchoring range. The shape will always remain on the same page as its anchor.
 
-You can view the anchor itself by setting the  **ShowObjectAnchors** property to **True** . The shape's **Top** and **Left** properties determine its vertical and horizontal positions. The shape's **RelativeHorizontalPosition** and **RelativeVerticalPosition** properties determine whether the position is measured from the anchoring paragraph, the column that contains the anchoring paragraph, the margin, or the edge of the page.
+You can view the anchor itself by setting the  **ShowObjectAnchors** property to **True**. The shape's **Top** and **Left** properties determine its vertical and horizontal positions. The shape's **RelativeHorizontalPosition** and **RelativeVerticalPosition** properties determine whether the position is measured from the anchoring paragraph, the column that contains the anchoring paragraph, the margin, or the edge of the page.
 
 If the  **LockAnchor** property for the shape is set to **True** , you cannot drag the anchor from its position on the page.
 

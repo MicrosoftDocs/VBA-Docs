@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EmbedLinguisticData property (Word)
 
- **True** for Microsoft Word to embed speech and handwriting so that data can be converted back to speech or handwriting. Read/write **Boolean** .
+ **True** for Microsoft Word to embed speech and handwriting so that data can be converted back to speech or handwriting. Read/write **Boolean**.
 
 
 ## Syntax

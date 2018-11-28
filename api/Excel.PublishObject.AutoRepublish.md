@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.AutoRepublish property (Excel)
 
-When a workbook is saved, Microsoft Excel determines if any item in the  **[PublishObjects](Excel.PublishObjects.md)** collection has the **AutoRepublish** property set to **True** and, if so, republishes it. The default value is **False** . Read/write **Boolean** .
+When a workbook is saved, Microsoft Excel determines if any item in the  **[PublishObjects](Excel.PublishObjects.md)** collection has the **AutoRepublish** property set to **True** and, if so, republishes it. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the true recipient for th
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedByName** .
+This property corresponds to the MAPI property  **PidTagReceivedByName**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.Bold property (Word)
 
- **True** if the font is bold. Read/write **Variant** .
+ **True** if the font is bold. Read/write **Variant**.
 
 
 ## Syntax

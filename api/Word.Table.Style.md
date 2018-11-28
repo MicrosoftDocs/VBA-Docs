@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Style property (Word)
 
-Returns or sets the style for the specified table. Read/write  **Variant** .
+Returns or sets the style for the specified table. Read/write  **Variant**.
 
 
 ## Syntax

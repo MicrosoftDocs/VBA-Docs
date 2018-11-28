@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Conflicts Property (Outlook)
 
-Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict with the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Return the  **[Conflicts](Outlook.Conflicts.md)** object that represents the items that are in conflict with the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

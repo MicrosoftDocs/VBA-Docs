@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.UpperHeadingLevel property (Word)
 
-Returns or sets the starting heading level for a table of figures. Read/write  **Long** .
+Returns or sets the starting heading level for a table of figures. Read/write  **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AllowReadingMode property (Word)
 
- **True** indicates that Microsoft Word opens documents in Reading Layout view. Read/write **Boolean** .
+ **True** indicates that Microsoft Word opens documents in Reading Layout view. Read/write **Boolean**.
 
 
 ## Syntax

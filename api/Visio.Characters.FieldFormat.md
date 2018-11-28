@@ -34,6 +34,6 @@ If the  **Characters** object does not contain a field or contains non-field cha
 
 Field formats correspond to the formats in the  **Format** list in the **Field** dialog box (click **Field** on the **Insert** tab).
 
-Constants for field formats are declared by the Microsoft Visio type library in  **[VisFieldFormats](Visio.visfieldformats.md)** .
+Constants for field formats are declared by the Microsoft Visio type library in  **[VisFieldFormats](Visio.visfieldformats.md)**.
 
 

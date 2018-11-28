@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.Criteria2 property (Excel)
 
-Returns the second filtered value for the specified column in a filtered range. Read-only  **Variant** .
+Returns the second filtered value for the specified column in a filtered range. Read-only  **Variant**.
 
 
 ## Syntax

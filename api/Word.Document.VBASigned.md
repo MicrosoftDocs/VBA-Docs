@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.VBASigned property (Word)
 
- **True** if the Microsoft Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only **Boolean** .
+ **True** if the Microsoft Visual Basic for Applications (VBA) project for the specified document has been digitally signed. Read-only **Boolean**.
 
 
 ## Syntax

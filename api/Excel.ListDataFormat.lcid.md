@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.lcid property (Excel)
 
-Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.ListColumn.md)** object that is specified in the schema definition. Read-only **Long** .
+Returns a  **Long** value that represents the LCID for the **[ListColumn](Excel.ListColumn.md)** object that is specified in the schema definition. Read-only **Long**.
 
 
 ## Syntax

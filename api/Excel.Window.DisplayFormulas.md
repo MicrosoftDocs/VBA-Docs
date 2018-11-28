@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayFormulas property (Excel)
 
- **True** if the window is displaying formulas; **False** if the window is displaying values. Read/write **Boolean** .
+ **True** if the window is displaying formulas; **False** if the window is displaying values. Read/write **Boolean**.
 
 
 ## Syntax

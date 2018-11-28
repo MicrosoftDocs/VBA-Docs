@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.IgnoreInternetAndFileAddresses property (Word)
 
- **True** if file name extensions, MS-DOS paths, email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are ignored while checking spelling. Read/write **Boolean** .
+ **True** if file name extensions, MS-DOS paths, email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are ignored while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

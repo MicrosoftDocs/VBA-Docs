@@ -65,7 +65,7 @@ Beginning with Visio 2002, if  _Flags_ contains **VisSpatialFrontToBack** , item
 
 If you don't specify  _ResultRoot_, this property returns a  **Selection** object that represents the shapes that meet certain criteria in relation to the specified shape. If you specify _ResultRoot_, this property returns a  **Selection** object that represents all the shapes in the **Shape** object specified by _ResultRoot_ that meet certain criteria in relation to the specified shape. For example, specify _ResultRoot_ to find all shapes within a group that are near a specified shape.
 
-If  _ResultRoot_ is specified but isn't on the same page or in the same master as the **Shape** object to which you are comparing it, the **SpatialNeighbors** property raises an exception and returns **Nothing** .
+If  _ResultRoot_ is specified but isn't on the same page or in the same master as the **Shape** object to which you are comparing it, the **SpatialNeighbors** property raises an exception and returns **Nothing**.
 
 When it compares two shapes, the  **SpatialNeighbors** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points.
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.HasText property (Excel)
 
-Returns whether the specified text frame has text. Read-only  **[MsoTriState](./Office.MsoTriState.md)** .
+Returns whether the specified text frame has text. Read-only  **[MsoTriState](./Office.MsoTriState.md)**.
 
 
 ## Syntax

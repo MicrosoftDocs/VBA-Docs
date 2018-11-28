@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.DistanceFromTop property (Word)
 
-Returns or sets the space (in points) between the text and the top border. Read/write  **Long** .
+Returns or sets the space (in points) between the text and the top border. Read/write  **Long**.
 
 
 ## Syntax

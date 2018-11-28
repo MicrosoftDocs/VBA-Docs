@@ -30,7 +30,7 @@ Applies the specified Extensible Stylesheet Language Transformation (XSLT) file 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path for the XSLT to use.|
-| _DataOnly_|Optional| **Boolean**| **True** applies the transformation only to the data in the document, excluding Microsoft Word XML. **False** applies the transform to the entire document, including Word XML. Default value is **True** .|
+| _DataOnly_|Optional| **Boolean**| **True** applies the transformation only to the data in the document, excluding Microsoft Word XML. **False** applies the transform to the entire document, including Word XML. Default value is **True**.|
 
 ## Example
 

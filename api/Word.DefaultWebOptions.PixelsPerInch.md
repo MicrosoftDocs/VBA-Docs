@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.PixelsPerInch property (Word)
 
-Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. Read/write  **Long** .
+Returns or sets the density (pixels per inch) of graphics images and table cells on a Web page. Read/write  **Long**.
 
 
 ## Syntax

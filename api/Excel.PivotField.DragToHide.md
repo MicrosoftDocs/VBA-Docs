@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DragToHide property (Excel)
 
- **True** if the field can be hidden by being dragged off the PivotTable report. The default value is **True** . Read/write **Boolean** .
+ **True** if the field can be hidden by being dragged off the PivotTable report. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

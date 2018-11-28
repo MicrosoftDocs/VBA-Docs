@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.VerticalAlignment property (Word)
 
-Returns or sets the vertical alignment of the specified object. Read/write  **Variant** .
+Returns or sets the vertical alignment of the specified object. Read/write  **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.InCellDropdown property (Excel)
 
- **True** if data validation displays a drop-down list that contains acceptable values. Read/write **Boolean** .
+ **True** if data validation displays a drop-down list that contains acceptable values. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property is ignored if the validation type isn't  **xlValidateList** .
+This property is ignored if the validation type isn't  **xlValidateList**.
 
 Use the  _Formula1_ argument of the **Add** or **Modify** method of the **Validation** object to specify the range that contains valid data.
 

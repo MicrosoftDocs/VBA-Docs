@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.RowGrand property (Excel)
 
- **True** if the PivotTable report shows grand totals for rows. Read/write **Boolean** .
+ **True** if the PivotTable report shows grand totals for rows. Read/write **Boolean**.
 
 
 ## Syntax

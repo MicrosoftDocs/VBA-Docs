@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
 ## Remarks
 
- The default value for this property is **False** .
+ The default value for this property is **False**.
 
 Setting  **AutoSize** to **True** automatically sets the width of the display area to the length of the text in the combo box. This behavior is similar to the single-line text box.
 

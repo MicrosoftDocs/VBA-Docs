@@ -30,7 +30,7 @@ Returns or sets whether the spelling checker uses rules to flag Arabic words end
 
 ## Remarks
 
- **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise **False** .
+ **True** if the spelling checker uses rules to flag Arabic words ending with haa instead of taa marboota; otherwise **False**.
 
 
 ## See also

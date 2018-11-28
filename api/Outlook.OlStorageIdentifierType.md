@@ -19,9 +19,9 @@ Specifies the type of identifier for a  **[StorageItem](Outlook.StorageItem.md)*
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olIdentifyByEntryID**|1|Identifies a  **StorageItem** by **[EntryID](Outlook.StorageItem.EntryID.md)** .|
+| **olIdentifyByEntryID**|1|Identifies a  **StorageItem** by **[EntryID](Outlook.StorageItem.EntryID.md)**.|
 | **olIdentifyByMessageClass**|2|Identifies a  **StorageItem** by message class.|
-| **olIdentifyBySubject**|0|Identifies a  **StorageItem** by **[Subject](Outlook.StorageItem.Subject.md)** .|
+| **olIdentifyBySubject**|0|Identifies a  **StorageItem** by **[Subject](Outlook.StorageItem.Subject.md)**.|
 
 ## Remarks
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayHorizontalScrollBar property (Word)
 
- **True** if a horizontal scroll bar is displayed for the specified window. Read/write **Boolean** .
+ **True** if a horizontal scroll bar is displayed for the specified window. Read/write **Boolean**.
 
 
 ## Syntax

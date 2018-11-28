@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoWordSelection property (Word)
 
- **True** if dragging selects one word at a time instead of one character at a time. Read/write **Boolean** .
+ **True** if dragging selects one word at a time instead of one character at a time. Read/write **Boolean**.
 
 
 ## Syntax

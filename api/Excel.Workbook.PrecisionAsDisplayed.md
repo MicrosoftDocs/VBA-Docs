@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PrecisionAsDisplayed property (Excel)
 
- **True** if calculations in this workbook will be done using only the precision of the numbers as they're displayed. Read/write **Boolean** .
+ **True** if calculations in this workbook will be done using only the precision of the numbers as they're displayed. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomProperty.Value property (Excel)
 
-Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)** .
+Synonym for  **[Borders.LineStyle](Excel.Borders.LineStyle.md)**.
 
 
 ## Syntax

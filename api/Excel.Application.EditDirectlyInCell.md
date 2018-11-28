@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EditDirectlyInCell property (Excel)
 
- **True** if Microsoft Excel allows editing in cells. Read/write **Boolean** .
+ **True** if Microsoft Excel allows editing in cells. Read/write **Boolean**.
 
 
 ## Syntax

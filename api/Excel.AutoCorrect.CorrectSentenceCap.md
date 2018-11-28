@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectSentenceCap property (Excel)
 
- **True** if Microsoft Excel automatically corrects sentence (first word) capitalization. Read/write **Boolean** .
+ **True** if Microsoft Excel automatically corrects sentence (first word) capitalization. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetShape property (Excel)
 
-Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape** .
+Returns or sets the shape of the specified WordArt. Read/write  **MsoPresetTextEffectShape**.
 
 
 ## Syntax

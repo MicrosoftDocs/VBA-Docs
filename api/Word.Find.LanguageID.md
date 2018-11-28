@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.LanguageID property (Word)
 
-Returns or sets the language for the specified  **Find** object. Read/write **[WdLanguageID](Word.WdLanguageID.md)** .
+Returns or sets the language for the specified  **Find** object. Read/write **[WdLanguageID](Word.WdLanguageID.md)**.
 
 
 ## Syntax

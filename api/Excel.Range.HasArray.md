@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.HasArray property (Excel)
 
- **True** if the specified cell is part of an array formula. Read-only **Variant** .
+ **True** if the specified cell is part of an array formula. Read-only **Variant**.
 
 
 ## Syntax

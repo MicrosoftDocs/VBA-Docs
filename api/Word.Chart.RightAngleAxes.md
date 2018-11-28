@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.RightAngleAxes property (Word)
 
- **True** if the chart axes are at right angles, independent of chart rotation or elevation. Read/write **Boolean** .
+ **True** if the chart axes are at right angles, independent of chart rotation or elevation. Read/write **Boolean**.
 
 
 ## Syntax

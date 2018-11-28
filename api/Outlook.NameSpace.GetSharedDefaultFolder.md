@@ -41,7 +41,7 @@ A  **Folder** object that represents the specified default folder for the specif
 
 This method is used in a delegation scenario, where one user has delegated access to another user for one or more of their default folders (for example, their shared  **Calendar** folder).
 
- _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks** . (The constants **olFolderDeletedItems** , **olFolderOutbox** , **olFolderJunk** , **olFolderConflicts** , **olFolderLocalFailures** , **olFolderServerFailures** , **olFolderSyncIssues** , **olPublicFoldersAllPublicFolders** , **olFolderRssSubscriptions** , **olFolderToDo** , **olFolderManagedEmail** , and **olFolderSentMail** cannot be specified for this argument.)
+ _FolderType_ can be one of the following **OlDefaultFolders** constants: **olFolderCalendar** , **olFolderContacts** , **olFolderDrafts** , **olFolderInbox** , **olFolderJournal** , **olFolderNotes** , or **olFolderTasks**. (The constants **olFolderDeletedItems** , **olFolderOutbox** , **olFolderJunk** , **olFolderConflicts** , **olFolderLocalFailures** , **olFolderServerFailures** , **olFolderSyncIssues** , **olPublicFoldersAllPublicFolders** , **olFolderRssSubscriptions** , **olFolderToDo** , **olFolderManagedEmail** , and **olFolderSentMail** cannot be specified for this argument.)
 
 
 ## Example

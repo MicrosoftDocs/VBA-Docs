@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.DragToRow property (Excel)
 
- **True** if the field can be dragged to the row position. The default value is **True** . Read/write **Boolean** .
+ **True** if the field can be dragged to the row position. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.Bookmark property (Word)
 
-Returns or sets the name of the bookmark from which to collect table of authorities entries. Read/write  **String** .
+Returns or sets the name of the bookmark from which to collect table of authorities entries. Read/write  **String**.
 
 
 ## Syntax

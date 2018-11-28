@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.OffsetY property (Word)
 
-Returns or sets the vertical offset (in points) of the shadow from the specified shape. Read/write  **Single** .
+Returns or sets the vertical offset (in points) of the shadow from the specified shape. Read/write  **Single**.
 
 
 ## Syntax

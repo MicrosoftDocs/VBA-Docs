@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.Connection property (Excel)
 
-Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant** .
+Returns or sets a string that contains OLE DB settings that enable Microsoft Excel to connect to an OLE DB data source. Read/write  **Variant**.
 
 
 ## Syntax

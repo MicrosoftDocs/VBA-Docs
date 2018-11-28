@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Adjustments.Item property (Word)
 
-Returns or sets the adjustment value specified by the  _Index_ argument. Read/write **Single** .
+Returns or sets the adjustment value specified by the  _Index_ argument. Read/write **Single**.
 
 
 ## Syntax

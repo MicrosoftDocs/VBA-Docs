@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.SmtpAddress Property (Outlook)
 
-Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) address for the **[Account](Outlook.Account.md)** . Read-only.
+Returns a  **String** representing the Simple Mail Transfer Protocol (SMTP) address for the **[Account](Outlook.Account.md)**. Read-only.
 
 
 ## Syntax

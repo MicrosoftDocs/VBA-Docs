@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.SingleListTemplate property (Word)
 
- **True** if the entire **ListFormat** object uses the same list template. Read-only **Boolean** .
+ **True** if the entire **ListFormat** object uses the same list template. Read-only **Boolean**.
 
 
 ## Syntax

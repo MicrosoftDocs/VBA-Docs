@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Scenarios.CreateSummary method (Excel)
 
-Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant** .
+Creates a new worksheet that contains a summary report for the scenarios on the specified worksheet.  **Variant**.
 
 
 ## Syntax

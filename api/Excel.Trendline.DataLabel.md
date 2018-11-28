@@ -25,7 +25,7 @@ Returns a  **[DataLabel](Excel.DataLabel(object).md)** object that represents th
 
 ## Remarks
 
-To turn on data labels for a trendline you need to set the  **[DisplayEquation](Excel.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](Excel.Trendline.DisplayRSquared.md)** property to **True** .
+To turn on data labels for a trendline you need to set the  **[DisplayEquation](Excel.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](Excel.Trendline.DisplayRSquared.md)** property to **True**.
 
 
 ## See also

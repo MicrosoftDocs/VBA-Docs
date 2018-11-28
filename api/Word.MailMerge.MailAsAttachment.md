@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.MailAsAttachment property (Word)
 
- **True** if the merge documents are sent as attachments when the mail merge destination is an email message or a fax. Read/write **Boolean** .
+ **True** if the merge documents are sent as attachments when the mail merge destination is an email message or a fax. Read/write **Boolean**.
 
 
 ## Syntax

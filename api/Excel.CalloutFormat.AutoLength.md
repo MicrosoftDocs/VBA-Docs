@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutoLength property (Excel)
 
-Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read/write **[MsoTriState](Office.MsoTriState.md)** .
+Applies only to callouts whose lines consist of more than one segment (types  **msoCalloutThree** and **msoCalloutFour**). Read/write **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
@@ -29,12 +29,12 @@ Applies only to callouts whose lines consist of more than one segment (types  **
 
 | **MsoTriState** can be one of these **MsoTriState** constants.|
 | **msoCTrue**|
-| **msoFalse** . The first segment of the callout retains the fixed length specified by the **Length** property whenever the callout is moved.|
+| **msoFalse**. The first segment of the callout retains the fixed length specified by the **Length** property whenever the callout is moved.|
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
-| **msoTrue** . The first segment of the callout line (the segment attached to the text callout box) is scaled automatically whenever the callout is moved.|
+| **msoTrue**. The first segment of the callout line (the segment attached to the text callout box) is scaled automatically whenever the callout is moved.|
 
-This property is read-only. Use the  **[AutomaticLength](Excel.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** , and use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set this property to **mosFalse** .
+This property is read-only. Use the  **[AutomaticLength](Excel.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** , and use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set this property to **mosFalse**.
 
 
 ## Example

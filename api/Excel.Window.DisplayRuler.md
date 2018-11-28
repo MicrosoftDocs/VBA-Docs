@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayRuler property (Excel)
 
- **True** if a ruler is displayed for the specified window. Read/write **Boolean** .
+ **True** if a ruler is displayed for the specified window. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ListChangesOnNewSheet property (Excel)
 
- **True** if changes to the shared workbook are shown on a separate worksheet. Read/write **Boolean** .
+ **True** if changes to the shared workbook are shown on a separate worksheet. Read/write **Boolean**.
 
 
 ## Syntax

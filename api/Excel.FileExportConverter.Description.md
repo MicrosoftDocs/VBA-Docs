@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverter.Description property (Excel)
 
-Returns the description for the file converter. Read-only  **String** .
+Returns the description for the file converter. Read-only  **String**.
 
 
 ## Syntax

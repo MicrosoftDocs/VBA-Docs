@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyleElement.StripeSize property (Excel)
 
-Returns or sets the size of banding. Read/write  **Long** .
+Returns or sets the size of banding. Read/write  **Long**.
 
 
 ## Syntax

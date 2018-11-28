@@ -38,7 +38,7 @@ String
 
 ## Remarks
 
-When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs** , **DocumentSavedAs** , **EnterScope** , **ExitScope** , **MarkerEvent** , **ShapesDeleted** , and **ShapeChanged** . Use the application's **EventInfo** property to obtain this information, when available.
+When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs** , **DocumentSavedAs** , **EnterScope** , **ExitScope** , **MarkerEvent** , **ShapesDeleted** , and **ShapeChanged**. Use the application's **EventInfo** property to obtain this information, when available.
 
 The  **EventInfo** property returns the following:
 
@@ -60,7 +60,7 @@ If an event target queries the  **EventInfo** property immediately after being t
 
 
 
- **Note**  Event handlers that use the Microsoft Visual Basic for Applications (VBA)  **WithEvents** keyword have access to only the most recent event and must use **visEvtIDMostRecent** .
+ **Note**  Event handlers that use the Microsoft Visual Basic for Applications (VBA)  **WithEvents** keyword have access to only the most recent event and must use **visEvtIDMostRecent**.
 
 To ensure that the information returned by the  **EventInfo** property is associated with the same event that triggered the add-on, the executable file can pass <sequence number> as an argument to the **EventInfo** property. You can obtain the sequence number of an event in the following ways:
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryType property (Word)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](Word.xlcategorytype.md)** .
+Returns or sets the category axis type. Read/write  **[xlCategoryType](Word.xlcategorytype.md)**.
 
 
 ## Syntax

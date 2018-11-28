@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Active property (Word)
 
- **True** if the selection in the specified window or pane is active. Read-only **Boolean** .
+ **True** if the selection in the specified window or pane is active. Read-only **Boolean**.
 
 
 ## Syntax

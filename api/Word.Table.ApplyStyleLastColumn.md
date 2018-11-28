@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ApplyStyleLastColumn property (Word)
 
- **True** for Microsoft Word to apply last-column formatting to the last column of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply last-column formatting to the last column of the specified table. Read/write **Boolean**.
 
 
 ## Syntax

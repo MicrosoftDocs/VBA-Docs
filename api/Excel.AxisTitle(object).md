@@ -20,7 +20,7 @@ Represents a chart axis title.
 
 Use the  **[AxisTitle](Excel.Axis.AxisTitle.md)** property to return an **AxisTitle** object.
 
-The  **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Axis.HasTitle.md)** property for the axis is **True** .
+The  **AxisTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Axis.HasTitle.md)** property for the axis is **True**.
 
 
 ## Example

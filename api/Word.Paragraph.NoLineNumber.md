@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.NoLineNumber property (Word)
 
- **True** if line numbers are repressed for the specified paragraph. Read/write **Long** .
+ **True** if line numbers are repressed for the specified paragraph. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** . Use the **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to set line numbers.
+This property can be  **True** , **False** , or **wdUndefined**. Use the **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **[PageSetup](Word.PageSetup.md)** object to set line numbers.
 
 
 ## Example

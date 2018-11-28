@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.LocalNetworkFile property (Word)
 
- **True** if Microsoft Word creates a local copy of a file on the user's computer when editing a file stored on a network server. Read/write **Boolean** .
+ **True** if Microsoft Word creates a local copy of a file on the user's computer when editing a file stored on a network server. Read/write **Boolean**.
 
 
 ## Syntax

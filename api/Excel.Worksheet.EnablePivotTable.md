@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnablePivotTable property (Excel)
 
- **True** if PivotTable controls and actions are enabled when user-interface-only protection is turned on. Read/write **Boolean** .
+ **True** if PivotTable controls and actions are enabled when user-interface-only protection is turned on. Read/write **Boolean**.
 
 
 ## Syntax

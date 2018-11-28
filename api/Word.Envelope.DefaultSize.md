@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultSize property (Word)
 
-Returns or sets the default envelope size. Read/write  **String** .
+Returns or sets the default envelope size. Read/write  **String**.
 
 
 ## Syntax

@@ -40,7 +40,7 @@ Adds a new, empty  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object to
 
 If the  _NameU_ parameter is not a valid string or if it matches the universal name of an existing rule set in the document, Microsoft Visio returns an Invalid Parameter error.
 
-The default property values of the new validation rule set are as follows:  **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]; **Enabled** = **True** ; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU** ; **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault** .
+The default property values of the new validation rule set are as follows:  **[Description](Visio.ValidationRuleSet.Description.md)** = [empty]; **Enabled** = **True** ; **[Name](Visio.ValidationRuleSet.Name.md)** = **NameU** ; **[RuleSetFlags](Visio.ValidationRuleSet.RuleSetFlags.md)** = **visRuleSetDefault**.
 
 
 ## Example

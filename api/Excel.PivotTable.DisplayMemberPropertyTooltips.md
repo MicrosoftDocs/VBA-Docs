@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.DisplayMemberPropertyTooltips property (Excel)
 
-Controls whether or not to display member properties in tooltips. Read/write  **Boolean** .
+Controls whether or not to display member properties in tooltips. Read/write  **Boolean**.
 
 
 ## Syntax

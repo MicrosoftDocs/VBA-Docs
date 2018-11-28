@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.VBASigned property (Excel)
 
- **True** if the Visual Basic for Applications project for the specified workbook has been digitally signed. Read-only **Boolean** .
+ **True** if the Visual Basic for Applications project for the specified workbook has been digitally signed. Read-only **Boolean**.
 
 
 ## Syntax

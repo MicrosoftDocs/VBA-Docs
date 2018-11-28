@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectHangulAndAlphabet property (Word)
 
- **True** if Microsoft Word automatically applies the correct font to Latin words typed in the middle of Hangul text or vice versa. Read/write **Boolean** .
+ **True** if Microsoft Word automatically applies the correct font to Latin words typed in the middle of Hangul text or vice versa. Read/write **Boolean**.
 
 
 ## Syntax

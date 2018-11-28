@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCError.SqlState property (Excel)
 
-Returns the SQL state error. Read-only  **String** .
+Returns the SQL state error. Read-only  **String**.
 
 
 ## Syntax

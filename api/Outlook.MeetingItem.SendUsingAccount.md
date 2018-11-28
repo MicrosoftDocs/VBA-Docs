@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MeetingItem.SendUsingAccount Property (Outlook)
 
-Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account to use to send the **[MeetingItem](Outlook.MeetingItem.md)** . Read/write.
+Returns or sets an  **[Account](Outlook.Account.md)** object that represents the account to use to send the **[MeetingItem](Outlook.MeetingItem.md)**. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 ## Remarks
 
-You can use the  **SendUsingAccount** property to specify the account that the **Send** method uses to send the **MeetingItem** . This property returns **Null** (**Nothing** in Visual Basic) if the account specified for the **MeetingItem** no longer exists.
+You can use the  **SendUsingAccount** property to specify the account that the **Send** method uses to send the **MeetingItem**. This property returns **Null** (**Nothing** in Visual Basic) if the account specified for the **MeetingItem** no longer exists.
 
 This property is read-only if the  **MeetingItem** is a received item, or if the **MeetingItem** has already been sent (that is, the **[Sent](Outlook.MeetingItem.Sent.md)** property of the object is set to **True**).
 

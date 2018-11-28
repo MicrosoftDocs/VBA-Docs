@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.LayoutSubtotalLocation property (Excel)
 
-Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[xlSubtototalLocationType](Excel.XlSubtototalLocationType.md)** .
+Returns or sets the position of the PivotTable field subtotals in relation to (either above or below) the specified field. Read/write  **[xlSubtototalLocationType](Excel.XlSubtototalLocationType.md)**.
 
 
 ## Syntax

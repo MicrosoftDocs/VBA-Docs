@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.HelpText property (Word)
 
-Returns or sets the text that's displayed in a message box when the form field has the focus and the user presses F1. Read/write  **String** .
+Returns or sets the text that's displayed in a message box when the form field has the focus and the user presses F1. Read/write  **String**.
 
 
 ## Syntax

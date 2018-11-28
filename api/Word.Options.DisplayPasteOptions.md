@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DisplayPasteOptions property (Word)
 
- **True** for Microsoft Word to display the **Paste Options** button, which displays directly under newly pasted text. Read/write **Boolean** .
+ **True** for Microsoft Word to display the **Paste Options** button, which displays directly under newly pasted text. Read/write **Boolean**.
 
 
 ## Syntax

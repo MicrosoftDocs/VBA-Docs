@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.FreeDiskSpace property (Word)
 
-Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long** .
+Returns the available disk space for the current drive, in bytes. Use the ChDrive statement to change the current drive. Read-only  **Long**.
 
 
 ## Syntax

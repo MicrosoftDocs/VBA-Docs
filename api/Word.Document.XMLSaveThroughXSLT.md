@@ -25,7 +25,7 @@ Sets or returns a  **String** that specifies the path and file name for the Exte
 
 ## Remarks
 
-The  **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](Word.Document.XMLUseXSLTWhenSaving.md)** property is set to **True** . If the **XMLUseXSLTWhenSaving** property is set to **False** , Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
+The  **XMLSaveThroughXSLT** property is only applicable when the **[XMLUseXSLTWhenSaving](Word.Document.XMLUseXSLTWhenSaving.md)** property is set to **True**. If the **XMLUseXSLTWhenSaving** property is set to **False** , Microsoft Word will ignore the **XMLSaveThroughXSLT** property.
 
 
 ## Example

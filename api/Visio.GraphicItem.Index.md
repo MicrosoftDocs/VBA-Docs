@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItem.Index Property (Visio)
 
-Gets or sets the ordinal position of a  **GraphicItem** object in the **GraphicItems** collection of a data graphic master—a **Master** object of type **visTypeDataGraphic** . Read/write.
+Gets or sets the ordinal position of a  **GraphicItem** object in the **GraphicItems** collection of a data graphic master—a **Master** object of type **visTypeDataGraphic**. Read/write.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

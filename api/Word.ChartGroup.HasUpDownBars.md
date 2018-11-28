@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasUpDownBars property (Word)
 
- **True** if a line chart has up and down bars. Read/write **Boolean** .
+ **True** if a line chart has up and down bars. Read/write **Boolean**.
 
 
 ## Syntax

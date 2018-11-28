@@ -25,7 +25,7 @@ Returns a  **String** representing the entry ID of the first email address for t
 
 ## Remarks
 
-This property corresponds to the MAPI named property  **dispidEmail1OriginalEntryID** .
+This property corresponds to the MAPI named property  **dispidEmail1OriginalEntryID**.
 
 If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **Email1EntryID** , you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[ContactItem.PropertyAccessor](Outlook.ContactItem.PropertyAccessor.md)** property, specifying the MAPI property **PidLidEmail1OriginalEntryId** property and its MAPI id namespace. The following code sample in VBA shows the workaround.
 

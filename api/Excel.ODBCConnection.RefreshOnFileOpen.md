@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.RefreshOnFileOpen property (Excel)
 
- **True** if the connection is automatically updated each time the workbook is opened. The default value is **False** . Read/write **Boolean** .
+ **True** if the connection is automatically updated each time the workbook is opened. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

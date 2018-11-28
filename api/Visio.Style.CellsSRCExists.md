@@ -48,7 +48,7 @@ The  _fExistsLocally_ argument specifies the scope of the search:
 
 
 
-- If  _fExistsLocally_ is non-zero (**True**), the **CellsSRCExists** property returns **True** only if the object contains the cell locally; if the cell is inherited, the **CellsSRCExists** property returns **False** .
+- If  _fExistsLocally_ is non-zero (**True**), the **CellsSRCExists** property returns **True** only if the object contains the cell locally; if the cell is inherited, the **CellsSRCExists** property returns **False**.
     
 - If  _fExistsLocally_ is zero (**False**), the **CellsSRCExists** property returns **True** if the object either contains or inherits the cell.
     

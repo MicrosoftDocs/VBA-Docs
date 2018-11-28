@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayHorizontalScrollBar property (Excel)
 
- **True** if the horizontal scroll bar is displayed. Read/write **Boolean** .
+ **True** if the horizontal scroll bar is displayed. Read/write **Boolean**.
 
 
 ## Syntax

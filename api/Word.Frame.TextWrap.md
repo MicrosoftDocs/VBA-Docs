@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frame.TextWrap property (Word)
 
- **True** if document text wraps around the specified frame. Read/write **Boolean** .
+ **True** if document text wraps around the specified frame. Read/write **Boolean**.
 
 
 ## Syntax

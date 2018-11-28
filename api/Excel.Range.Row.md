@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Row property (Excel)
 
-Returns the number of the first row of the first area in the range. Read-only  **Long** .
+Returns the number of the first row of the first area in the range. Read-only  **Long**.
 
 
 ## Syntax

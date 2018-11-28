@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.Exists property (Word)
 
- **True** if the specified **HeaderFooter** object exists. Read/write **Boolean** .
+ **True** if the specified **HeaderFooter** object exists. Read/write **Boolean**.
 
 
 ## Syntax

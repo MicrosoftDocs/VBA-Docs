@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.SuppressBlankLines property (Word)
 
- **True** if blank lines are suppressed when mail merge fields in a mail merge main document are empty. Read/write **Boolean** .
+ **True** if blank lines are suppressed when mail merge fields in a mail merge main document are empty. Read/write **Boolean**.
 
 
 ## Syntax

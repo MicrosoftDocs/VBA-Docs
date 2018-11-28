@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.IgnoreMixedDigits property (Word)
 
- **True** if words that contain numbers are ignored while checking spelling. Read/write **Boolean** .
+ **True** if words that contain numbers are ignored while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

@@ -32,7 +32,7 @@ Integer
 
 Must be an integer value from zero (0) to 120, representing the interval in minutes. The default is 0. If the value of the  **AutoRecoverInterval** property is less than or equal to 0, no automatic recovery copies are created.
 
-If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False** .
+If the value of the  **AutoRecoverInterval** property is greater than 0, automatic recovery is enabled for all documents in the Microsoft Visio instance. To disable automatic recovery for a particular document, set its **AutoRecover** property to **False**.
 
 
 ## Example

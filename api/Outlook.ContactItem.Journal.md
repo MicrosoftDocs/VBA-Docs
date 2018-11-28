@@ -25,7 +25,7 @@ Returns a  **Boolean** that indicates **True** if the transaction of the contact
 
 ## Remarks
 
-The default value is  **False** .
+The default value is  **False**.
 
 
 ## See also

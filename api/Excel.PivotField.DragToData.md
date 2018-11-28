@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.DragToData property (Excel)
 
- **True** if the specified field can be dragged to the data position. The default value is **True** . Read/write **Boolean**
+ **True** if the specified field can be dragged to the data position. The default value is **True**. Read/write **Boolean**
 
 
 ## Syntax

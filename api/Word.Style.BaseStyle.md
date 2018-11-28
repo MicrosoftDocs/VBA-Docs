@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.BaseStyle property (Word)
 
-Returns or sets an existing style on which you can base the formatting of another style. Read/write  **Variant** .
+Returns or sets an existing style on which you can base the formatting of another style. Read/write  **Variant**.
 
 
 ## Syntax

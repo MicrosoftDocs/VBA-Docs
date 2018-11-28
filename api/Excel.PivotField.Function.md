@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.Function property (Excel)
 
-Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)** .
+Returns or sets the function used to summarize the PivotTable field (data fields only). Read/write  **[xlConsolidationFunction](Excel.XlConsolidationFunction.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the function used to summarize the PivotTable field (data fields
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **xlUnknown** . For other data sources, this property cannot be set to **xlUnknown** .
+For OLAP data sources, this property is read-only and always returns  **xlUnknown**. For other data sources, this property cannot be set to **xlUnknown**.
 
 
 ## Example

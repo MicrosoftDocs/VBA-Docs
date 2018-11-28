@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.ChildFramesetCount property (Word)
 
-Returns the number of child  **Frameset** objects associated with the specified **Frameset** object. Read-only **Long** .
+Returns the number of child  **Frameset** objects associated with the specified **Frameset** object. Read-only **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the number of child  **Frameset** objects associated with the specified 
 
 ## Remarks
 
-This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset** . For more information on creating frames pages, see [Creating Frames Pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
+This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset**. For more information on creating frames pages, see [Creating Frames Pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 
 
 ## Example

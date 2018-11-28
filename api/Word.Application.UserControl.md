@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserControl property (Word)
 
- **True** if the document or application was created or opened by the user. Read-only **Boolean** .
+ **True** if the document or application was created or opened by the user. Read-only **Boolean**.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ ms.date: 06/08/2017
 The  **UserControl** property returns **False** if the application was created or opened programmatically from another Microsoft Office application with the **Open** method or the **CreateObject** or **GetObject** method.
 
 
- **Note**  If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True** .
+ **Note**  If Word is visible to the user, or if you call the  **UserControl** property of an **Application** object from within a code module, this property will always return **True**.
 
 
 ## Example

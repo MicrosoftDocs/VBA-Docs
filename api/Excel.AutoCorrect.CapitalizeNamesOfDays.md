@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CapitalizeNamesOfDays property (Excel)
 
- **True** if the first letter of day names is capitalized automatically. Read/write **Boolean** .
+ **True** if the first letter of day names is capitalized automatically. Read/write **Boolean**.
 
 
 ## Syntax

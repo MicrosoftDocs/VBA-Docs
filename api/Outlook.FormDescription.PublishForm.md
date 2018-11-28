@@ -82,7 +82,7 @@ This VBA example creates an appointment, obtains its  **FormDescription** object
 
 
 
-To view the form after you have published it, on the  **File** menu, point to **New**, and click  **Choose Form** . In the **Look in** box, click **Personal Forms Library** . To open your new form, double-click **Interview Scheduler**.
+To view the form after you have published it, on the  **File** menu, point to **New**, and click  **Choose Form**. In the **Look in** box, click **Personal Forms Library**. To open your new form, double-click **Interview Scheduler**.
 
 
 

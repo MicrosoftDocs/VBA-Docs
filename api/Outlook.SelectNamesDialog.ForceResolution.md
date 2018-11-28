@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that determines if Outlook must resolve all recip
 
 ## Remarks
 
-The default value is  **True** . If a recipient cannot be resolved, Outlook will prompt the user to resolve the ambiguous names. The user must have all recipients in the recipient edit box resolved before being able to click **OK**.
+The default value is  **True**. If a recipient cannot be resolved, Outlook will prompt the user to resolve the ambiguous names. The user must have all recipients in the recipient edit box resolved before being able to click **OK**.
 
  **ForceResolution** is ignored if the user clicks **Cancel** or the Close icon.
 

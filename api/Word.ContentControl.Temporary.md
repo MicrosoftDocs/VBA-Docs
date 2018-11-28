@@ -25,10 +25,10 @@ Returns or sets a  **Boolean** that represents whether to remove a content contr
 
 ## Remarks
 
-The default value is  **False** . This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
+The default value is  **False**. This property corresponds to the **Remove content control when contents are edited** check box in the **Content Control Properties** dialog box.
 
 
- **Note**  You cannot set this property if the  **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True** .
+ **Note**  You cannot set this property if the  **[LockContentControl](Word.ContentControl.LockContentControl.md)** property is set to **True**.
 
 
 ## See also

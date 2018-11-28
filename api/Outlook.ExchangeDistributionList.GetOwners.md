@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.GetOwners Method (Outlook)
 
-Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the owners of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** .
+Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object that contains all the owners of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns an  **[AddressEntries](Outlook.AddressEntries.md)** collection object th
 
 ## Return value
 
-An  **AddressEntries** collection object that contains **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the owners of the **ExchangeDistributionList** . Returns an **AddressEntries** object with a count of zero (0) if no owners can be found for the **ExchangeDistributionList** in the current session.
+An  **AddressEntries** collection object that contains **[AddressEntry](Outlook.AddressEntry.md)** objects representing all the owners of the **ExchangeDistributionList**. Returns an **AddressEntries** object with a count of zero (0) if no owners can be found for the **ExchangeDistributionList** in the current session.
 
 
 ## Remarks

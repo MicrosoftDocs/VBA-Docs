@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.ExtraInfoRequired property (Word)
 
- **True** if extra information is required to resolve the specified hyperlink. Read-only **Boolean** .
+ **True** if extra information is required to resolve the specified hyperlink. Read-only **Boolean**.
 
 
 ## Syntax

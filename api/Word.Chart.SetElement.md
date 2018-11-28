@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Chart.SetElement method (Word)
 
-Sets chart elements on a chart. Read/write  **MsoChartElementType** .
+Sets chart elements on a chart. Read/write  **MsoChartElementType**.
 
 
 ## Syntax

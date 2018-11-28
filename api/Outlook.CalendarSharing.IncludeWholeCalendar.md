@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether all calendar items i
 
 ## Return value
 
- **True** if all calendar items in the folder should be included; otherwise, **False** .
+ **True** if all calendar items in the folder should be included; otherwise, **False**.
 
 
 ## Remarks

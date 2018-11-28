@@ -30,7 +30,7 @@ Adds an  **ItemProperty** object to the **ItemProperties** collection.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Name_|Required| **String**|The name of the new item property object.|
-| _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new  **ItemProperty** .|
+| _Type_|Required| **[OlUserPropertyType](Outlook.OlUserPropertyType.md)**|The type of the new  **ItemProperty**.|
 | _AddToFolderFields_|Optional| **Variant**|Determines if the item property will be added to the folder fields.|
 | _DisplayFormat_|Optional| **Variant**|Defines the format of the field as it appears in a given folder.|
 

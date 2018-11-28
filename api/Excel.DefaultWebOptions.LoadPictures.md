@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.LoadPictures property (Excel)
 
- **True** if images are loaded when you open a document in Microsoft Excel, usually when the images and document were not created in Microsoft Excel. **False** if the images are not loaded. The default value is **True** . Read/write **Boolean** .
+ **True** if images are loaded when you open a document in Microsoft Excel, usually when the images and document were not created in Microsoft Excel. **False** if the images are not loaded. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

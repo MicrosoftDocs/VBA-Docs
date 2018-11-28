@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.IsPercent property (Excel)
 
-Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](Excel.ListColumn.md)** object will be shown in percentage formatting. Read-only **Boolean** . Read-only.
+Returns a  **Boolean** value. Returns **True** only if the number data for the **[ListColumn](Excel.ListColumn.md)** object will be shown in percentage formatting. Read-only **Boolean**. Read-only.
 
 
 ## Syntax

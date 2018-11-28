@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PasswordEncryptionFileProperties property (Word)
 
- **True** if Microsoft Word encrypts file properties for password-protected documents. Read-only **Boolean** .
+ **True** if Microsoft Word encrypts file properties for password-protected documents. Read-only **Boolean**.
 
 
 ## Syntax

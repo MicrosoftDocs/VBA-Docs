@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Lines object (Word)
 
-A collection of  **Line** objects that represents the lines in a **Rectangle** object that is of type **wdTextRectangle** .
+A collection of  **Line** objects that represents the lines in a **Rectangle** object that is of type **wdTextRectangle**.
 
 
 ## Remarks
@@ -25,7 +25,7 @@ Set objLines = ActiveDocument.ActiveWindow.Panes(1) _
  .Pages(1).Rectangles(1).Lines
 ```
 
-Use the  **RectangleType** property of the specified **Rectangle** object to determine whether the **Rectangle** object is of type **wdTextRectangle** . The following example returns the collection of lines in the first rectangle in the first page of the active document if the specified rectangle contains text.
+Use the  **RectangleType** property of the specified **Rectangle** object to determine whether the **Rectangle** object is of type **wdTextRectangle**. The following example returns the collection of lines in the first rectangle in the first page of the active document if the specified rectangle contains text.
 
 
 

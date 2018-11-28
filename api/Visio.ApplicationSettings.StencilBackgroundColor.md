@@ -47,7 +47,7 @@ For details about the  **GetSysColor** function, search for " **GetSysColor** " 
 
 The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the **Properties** window displays a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
-In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR** .
+In addition, you can use the following Microsoft Visual Basic for Applications (VBA) color constants for  **OLE_COLOR**.
 
 
 

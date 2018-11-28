@@ -25,7 +25,7 @@ Returns a  **[xlSourceType](Excel.XlSourceType.md)** value that represents the t
 
 ## Example
 
-This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
+This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True**. If no items in the document have been saved as Chart components, `blnChartFound` is **False**.
 
 
 ```vb

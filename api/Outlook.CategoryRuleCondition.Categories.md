@@ -29,7 +29,7 @@ You can assign an array with one element to evaluate a single category or an arr
 
 This property uses the character specified in the value name,  **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories.
 
-If a string specified by  **Categories** matches a category of the message, the condition evaluates to **True** .
+If a string specified by  **Categories** matches a category of the message, the condition evaluates to **True**.
 
 Outlook does not check to determine if the  **Categories** property contains category names that are in the master category list.
 

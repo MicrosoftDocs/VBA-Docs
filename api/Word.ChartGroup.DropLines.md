@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.DropLines property (Word)
 
-Returns the drop lines for a series on a line chart or area chart. Read-only  **[DropLines](Word.DropLines.md)** .
+Returns the drop lines for a series on a line chart or area chart. Read-only  **[DropLines](Word.DropLines.md)**.
 
 
 ## Syntax

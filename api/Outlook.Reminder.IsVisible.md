@@ -30,7 +30,7 @@ Returns a  **Boolean** that determines if the reminder is currently visible. Rea
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) example dismisses all reminders that are currently visible. For example, if the current reminder is active, the  **IsVisible** property will return **True** .
+The following Microsoft Visual Basic for Applications (VBA) example dismisses all reminders that are currently visible. For example, if the current reminder is active, the  **IsVisible** property will return **True**.
 
 
 ```vb

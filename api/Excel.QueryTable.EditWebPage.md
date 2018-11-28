@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.EditWebPage property (Excel)
 
-Returns or sets the web page Uniform Resource Locator (URL) for a web query. Read/write  **Variant** .
+Returns or sets the web page Uniform Resource Locator (URL) for a web query. Read/write  **Variant**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ If the  **EditWebPage** is not null then ignore the **[WebTables](Excel.QueryTab
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **EditWebPage** property applies only to **QueryTable** objects.
 

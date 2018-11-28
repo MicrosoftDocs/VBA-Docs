@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.IncludePageNumbers property (Word)
 
- **True** if page numbers are included in the table of contents. Read/write **Boolean** .
+ **True** if page numbers are included in the table of contents. Read/write **Boolean**.
 
 
 ## Syntax

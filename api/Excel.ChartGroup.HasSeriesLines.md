@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasSeriesLines property (Excel)
 
- **True** if a stacked column chart or bar chart has series lines or if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. Applies only to 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie charts. Read/write **Boolean** .
+ **True** if a stacked column chart or bar chart has series lines or if a Pie of Pie chart or Bar of Pie chart has connector lines between the two sections. Applies only to 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie charts. Read/write **Boolean**.
 
 
 ## Syntax

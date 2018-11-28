@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Format property (Word)
 
- **True** if formatting is included in the find operation. Read/write **Boolean** .
+ **True** if formatting is included in the find operation. Read/write **Boolean**.
 
 
 ## Syntax

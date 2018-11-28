@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.SurroundFooter property (Word)
 
- **True** if a page border encompasses the document footer. Read/write **Boolean** .
+ **True** if a page border encompasses the document footer. Read/write **Boolean**.
 
 
 ## Syntax

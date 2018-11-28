@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.BackgroundQuery property (Excel)
 
- **True** if queries for the PivotTable report are performed asynchronously (in the background). Read/write **Boolean** .
+ **True** if queries for the PivotTable report are performed asynchronously (in the background). Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, this property is read-only and always returns  **False** .
+For OLAP data sources, this property is read-only and always returns  **False**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Path property (Word)
 
-Returns the location of an installed add-in. Read-only  **String** .
+Returns the location of an installed add-in. Read-only  **String**.
 
 
 ## Syntax

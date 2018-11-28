@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ShowValue property (Word)
 
- **True** to display the data label values for a specified chart. **False** to hide the values. Read/write **Boolean** .
+ **True** to display the data label values for a specified chart. **False** to hide the values. Read/write **Boolean**.
 
 
 ## Syntax

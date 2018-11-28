@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.DisplayPageBreaks property (Excel)
 
- **True** if page breaks (both automatic and manual) on the specified worksheet are displayed. Read/write **Boolean** .
+ **True** if page breaks (both automatic and manual) on the specified worksheet are displayed. Read/write **Boolean**.
 
 
 ## Syntax

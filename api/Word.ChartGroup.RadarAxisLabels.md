@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.RadarAxisLabels property (Word)
 
-Returns the radar axis labels for the specified chart group. Read-only  **[TickLabels](Word.TickLabels.md)** .
+Returns the radar axis labels for the specified chart group. Read-only  **[TickLabels](Word.TickLabels.md)**.
 
 
 ## Syntax

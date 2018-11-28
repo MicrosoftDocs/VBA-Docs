@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the **[Store](Outlook.Sto
 
 ## Remarks
 
- **DisplayName** is the default property of the **Store** object. This property corresponds to the MAPI property, **PidTagDisplayName** .
+ **DisplayName** is the default property of the **Store** object. This property corresponds to the MAPI property, **PidTagDisplayName**.
 
  **DisplayName** is read-only. To change the **DisplayName** of a Personal Folders File (.pst), use the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object and the **[PropertyAccessor.SetProperty](Outlook.PropertyAccessor.SetProperty.md)** method.
 

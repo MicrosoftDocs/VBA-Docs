@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Type property (Word)
 
-Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)** .
+Returns the document type (template or document). Read-only  **[WdDocumentType](Word.WdDocumentType.md)**.
 
 
 ## Syntax

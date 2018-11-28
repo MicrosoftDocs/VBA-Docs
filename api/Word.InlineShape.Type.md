@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.Type property (Word)
 
-Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInlineShapeType.md)** .
+Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInlineShapeType.md)**.
 
 
 ## Syntax

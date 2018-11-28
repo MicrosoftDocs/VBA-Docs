@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.UserName Property (Outlook)
 
-Returns a  **String** representing the user name for the **[Account](Outlook.Account.md)** . Read-only.
+Returns a  **String** representing the user name for the **[Account](Outlook.Account.md)**. Read-only.
 
 
 ## Syntax

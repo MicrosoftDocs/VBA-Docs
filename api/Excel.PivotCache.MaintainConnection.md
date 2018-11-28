@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.MaintainConnection property (Excel)
 
- **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True** . Read/write **Boolean** .
+ **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can set the  **MaintainConnection** property only if the **[QueryType](Excel.QueryTable.QueryType.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery** .
+You can set the  **MaintainConnection** property only if the **[QueryType](Excel.QueryTable.QueryType.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery**.
 
 If you anticipate frequent queries to a server, setting this property to  **True** might improve performance by reducing reconnection time. Setting the property to **False** causes an open connection to be closed.
 

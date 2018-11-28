@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ConvertFormula method (Excel)
 
-Converts cell references in a formula between the A1 and R1C1 reference styles, between relative and absolute references, or both.  **Variant** .
+Converts cell references in a formula between the A1 and R1C1 reference styles, between relative and absolute references, or both.  **Variant**.
 
 
 ## Syntax

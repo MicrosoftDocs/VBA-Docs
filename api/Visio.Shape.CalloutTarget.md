@@ -32,7 +32,7 @@ Gets or sets the target shape that is associated with the callout shape by a cal
 
 If you attempt to get or set the  **CalloutTarget** property value on a shape that is not a callout, Microsoft Visio will return an **Inappropriate Source Object** error.
 
-If no target shape is associated with the callout shape, the  **CalloutTarget** property returns **Nothing** . Setting the property value to **Nothing** removes any target shapes that are associated with the callout shape.
+If no target shape is associated with the callout shape, the  **CalloutTarget** property returns **Nothing**. Setting the property value to **Nothing** removes any target shapes that are associated with the callout shape.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.Subscript property (Word)
 
- **True** if the font is formatted as subscript. The default is **False** . Read/write **Variant** .
+ **True** if the font is formatted as subscript. The default is **False**. Read/write **Variant**.
 
 
 ## Syntax

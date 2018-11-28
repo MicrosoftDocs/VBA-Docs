@@ -30,7 +30,7 @@ Distributes three or more selected shapes at regular intervals on the drawing pa
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Distribute_|Required| **VisDistributeTypes**|Specifies how the shapes are distributed. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates guides and glues selected shapes to them. If **False** , does not. Default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates guides and glues selected shapes to them. If **False** , does not. Default is **False**.|
 
 ## Return value
 

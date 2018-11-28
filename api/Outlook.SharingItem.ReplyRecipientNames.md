@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReplyRecipientNames Property (Outlook)
 
-Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns a semicolon-delimited  **String** list of reply recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

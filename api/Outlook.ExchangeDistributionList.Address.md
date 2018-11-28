@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Address Property (Outlook)
 
-Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read/write.
+Returns or sets a  **String** representing the X400 email address of the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax

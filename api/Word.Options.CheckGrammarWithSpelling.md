@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CheckGrammarWithSpelling property (Word)
 
- **True** if Word checks grammar while checking spelling. Read/write **Boolean** .
+ **True** if Word checks grammar while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

@@ -45,7 +45,7 @@ For more information on getting properties using the  **PropertyAccessor** objec
 
 ## Example
 
-The following code sample demonstrates how to use the  **GetProperty** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS** .
+The following code sample demonstrates how to use the  **GetProperty** method to read a MAPI property that belongs to a **[MailItem](Outlook.MailItem.md)** but which is not exposed in the Outlook object model, **PR_TRANSPORT_MESSAGE_HEADERS**.
 
 
 ```vb

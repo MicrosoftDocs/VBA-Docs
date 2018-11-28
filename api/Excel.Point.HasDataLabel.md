@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.HasDataLabel property (Excel)
 
- **True** if the point has a data label. Read/write **Boolean** .
+ **True** if the point has a data label. Read/write **Boolean**.
 
 
 ## Syntax

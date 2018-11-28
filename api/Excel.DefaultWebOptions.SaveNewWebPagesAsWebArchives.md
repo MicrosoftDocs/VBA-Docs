@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Excel)
 
- **True** if new Web pages can be saved as Web archives. Read/write **Boolean** .
+ **True** if new Web pages can be saved as Web archives. Read/write **Boolean**.
 
 
 ## Syntax

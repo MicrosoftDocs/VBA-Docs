@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.WriteReserved property (Word)
 
- **True** if the specified document is protected with a write password. Read-only **Boolean** .
+ **True** if the specified document is protected with a write password. Read-only **Boolean**.
 
 
 ## Syntax

@@ -30,6 +30,6 @@ Integer
 
 ## Remarks
 
-When you set the value of the  **IsDefaultLink** property to **True** for a **Hyperlink** object, the value for all other **Hyperlink** objects is automatically set to **False** . When you set the value of this property to **False** for a **Hyperlink** object, the other **Hyperlink** objects aren't affected.
+When you set the value of the  **IsDefaultLink** property to **True** for a **Hyperlink** object, the value for all other **Hyperlink** objects is automatically set to **False**. When you set the value of this property to **False** for a **Hyperlink** object, the other **Hyperlink** objects aren't affected.
 
 

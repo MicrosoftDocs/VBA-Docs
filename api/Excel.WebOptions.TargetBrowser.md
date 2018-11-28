@@ -30,11 +30,11 @@ Returns or sets an  **[MsoTargetBrowser](./Office.MsoTargetBrowser.md)** constan
 
 
 | **MsoTargetBrowser** can be one of these **MsoTargetBrowser** constants.|
-| **msoTargetBrowserIE4** . Microsoft Internet Explorer 4.0 or later.|
-| **msoTargetBrowserIE5** . Microsoft Internet Explorer 5.0 or later.|
-| **msoTargetBrowserIE6** . Microsoft Internet Explorer 6.0 or later.|
-| **msoTargetBrowserV3** . Microsoft Internet Explorer 3.0, Netscape Navigator 3.0, or later.|
-| **msoTargetBrowserV4** . Microsoft Internet Explorer 4.0, Netscape Navigator 4.0, or later.|
+| **msoTargetBrowserIE4**. Microsoft Internet Explorer 4.0 or later.|
+| **msoTargetBrowserIE5**. Microsoft Internet Explorer 5.0 or later.|
+| **msoTargetBrowserIE6**. Microsoft Internet Explorer 6.0 or later.|
+| **msoTargetBrowserV3**. Microsoft Internet Explorer 3.0, Netscape Navigator 3.0, or later.|
+| **msoTargetBrowserV4**. Microsoft Internet Explorer 4.0, Netscape Navigator 4.0, or later.|
 
 ## Example
 

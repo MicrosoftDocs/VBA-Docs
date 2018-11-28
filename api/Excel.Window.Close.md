@@ -35,7 +35,7 @@ Closes the object.
 
 ## Return value
 
- **True** if the method successfully closed the object; otherwise, **False** .
+ **True** if the method successfully closed the object; otherwise, **False**.
 
 
 ## Remarks

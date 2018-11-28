@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.HasErrorBars property (Word)
 
- **True** if the series has error bars. Read/write **Boolean** .
+ **True** if the series has error bars. Read/write **Boolean**.
 
 
 ## Syntax

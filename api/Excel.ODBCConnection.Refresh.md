@@ -31,7 +31,7 @@ After Microsoft Excel makes a successful connection, it stores the completed con
 
 After the database connection is made, the SQL query is validated. If the query is not valid, the  **Refresh** method fails with the SQL Syntax Error exception.
 
-If the query requires parameters, the  **[Parameters](Excel.Parameters.md)** collection must be initialized with parameter binding information before the **Refresh** method is called. If not enough parameters have been bound, the **Refresh** method fails with the Parameter Error exception. If parameters are set to prompt for their values, dialog boxes are displayed to the user regardless of the setting of the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property. If the user cancels a parameter dialog box, the **Refresh** method halts and returns **False** . If extra parameters are bound with the **Parameters** collection, these extra parameters are ignored.
+If the query requires parameters, the  **[Parameters](Excel.Parameters.md)** collection must be initialized with parameter binding information before the **Refresh** method is called. If not enough parameters have been bound, the **Refresh** method fails with the Parameter Error exception. If parameters are set to prompt for their values, dialog boxes are displayed to the user regardless of the setting of the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property. If the user cancels a parameter dialog box, the **Refresh** method halts and returns **False**. If extra parameters are bound with the **Parameters** collection, these extra parameters are ignored.
 
 The  **Refresh** method returns **True** if the query is successfully completed or started; it returns **False** if the user cancels a connection or parameter dialog box.
 

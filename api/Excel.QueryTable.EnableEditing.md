@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.EnableEditing property (Excel)
 
- **True** if the user can edit the specified query table. **False** if the user can only refresh the query table. Read/write **Boolean** .
+ **True** if the user can edit the specified query table. **False** if the user can only refresh the query table. Read/write **Boolean**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ This example sets query table one so that the user cannot edit it.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **EnableEditing** property.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoKeyboardSwitching property (Word)
 
- **True** if Microsoft Word automatically switches the keyboard language to match what you are typing at any given time. Read/write **Boolean** .
+ **True** if Microsoft Word automatically switches the keyboard language to match what you are typing at any given time. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To use this property, you must have the  **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True** .
+To use this property, you must have the  **[CheckLanguage](Word.Application.CheckLanguage.md)** property set to **True**.
 
 
 ## Example

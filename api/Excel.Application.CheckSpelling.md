@@ -35,7 +35,7 @@ Checks the spelling of a single word.
 
 ## Return value
 
- **True** if the word is found in one of the dictionaries; otherwise **False** .
+ **True** if the word is found in one of the dictionaries; otherwise **False**.
 
 
 ## Remarks

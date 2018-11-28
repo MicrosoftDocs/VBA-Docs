@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.MirrorMargins property (Word)
 
- **True** if the inside and outside margins of facing pages are the same width. Read/write **Long** .
+ **True** if the inside and outside margins of facing pages are the same width. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **MirrorMargins** property can be **True** , **False** , or **wdUndefined** . If the **MirrorMargins** property is set to **True** , the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
+The  **MirrorMargins** property can be **True** , **False** , or **wdUndefined**. If the **MirrorMargins** property is set to **True** , the **[LeftMargin](Word.PageSetup.LeftMargin.md)** property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
 
 
 ## Example

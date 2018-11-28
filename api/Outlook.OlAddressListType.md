@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlAddressListType Enumeration (Outlook)
 
-Represents the type of  **[AddressList](Outlook.AddressList.md)** .
+Represents the type of  **[AddressList](Outlook.AddressList.md)**.
 
 
 

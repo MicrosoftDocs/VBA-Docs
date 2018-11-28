@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Compatibility property (Word)
 
- **True** if the compatibility option specified by the Type argument is enabled. Compatibility options affect how a document is displayed in Microsoft Word. Read/write **Boolean** .
+ **True** if the compatibility option specified by the Type argument is enabled. Compatibility options affect how a document is displayed in Microsoft Word. Read/write **Boolean**.
 
 
 ## Syntax

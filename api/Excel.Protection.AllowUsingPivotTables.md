@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowUsingPivotTables property (Excel)
 
-Returns  **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the user is allowed to manipulate pivot tables on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax

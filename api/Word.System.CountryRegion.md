@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.CountryRegion property (Word)
 
-Returns the country/region designation of the system. Read-only  **WdCountry** .
+Returns the country/region designation of the system. Read-only  **WdCountry**.
 
 
 ## Syntax

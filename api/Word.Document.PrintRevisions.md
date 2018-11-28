@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PrintRevisions property (Word)
 
- **True** if revision marks are printed with the document. **False** if revision marks aren't printed (that is, tracked changes are printed as if they'd been accepted). Read/write **Boolean** .
+ **True** if revision marks are printed with the document. **False** if revision marks aren't printed (that is, tracked changes are printed as if they'd been accepted). Read/write **Boolean**.
 
 
 ## Syntax

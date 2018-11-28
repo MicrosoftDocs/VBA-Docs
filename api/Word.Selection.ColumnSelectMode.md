@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.ColumnSelectMode property (Word)
 
- **True** if column selection mode is active. Read/write **Boolean** .
+ **True** if column selection mode is active. Read/write **Boolean**.
 
 
 ## Syntax

@@ -71,7 +71,7 @@ This example shows how to create a class module that implements the  **IVisEvent
 
 Events other than  **MouseMove** fall under the default case (**Case Else**). In both cases, the **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired, including the drag-state extension and the _x-_ and _y-_ values of the location where the event fired, derived from the values of the **MouseEvent.X** and **MouseEvent.Y** properties. Finally, the function displays the message in the **Immediate** window.
 
- Copy this sample code into a new class module in VBA or Visual Basic, naming the module **clsEventSink** . You can then use the event-sink module that follows to create an instance of the **clsEventSink** class and an **Event** object for the **MouseMove** event that sends notifications of event firings to the class instance.
+ Copy this sample code into a new class module in VBA or Visual Basic, naming the module **clsEventSink**. You can then use the event-sink module that follows to create an instance of the **clsEventSink** class and an **Event** object for the **MouseMove** event that sends notifications of event firings to the class instance.
 
 
 

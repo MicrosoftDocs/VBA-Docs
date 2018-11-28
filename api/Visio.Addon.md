@@ -20,6 +20,6 @@ Represents an installed Microsoft Visio add-on.
 
 To retrieve an  **Addon** object, use the **Addons** collection of an **Application** object.
 
-The default property of an  **Addon** object is **Name** .
+The default property of an  **Addon** object is **Name**.
 
 

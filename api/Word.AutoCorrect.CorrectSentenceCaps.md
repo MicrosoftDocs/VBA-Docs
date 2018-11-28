@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectSentenceCaps property (Word)
 
- **True** if Word automatically capitalizes the first letter in each sentence. Read/write **Boolean** .
+ **True** if Word automatically capitalizes the first letter in each sentence. Read/write **Boolean**.
 
 
 ## Syntax

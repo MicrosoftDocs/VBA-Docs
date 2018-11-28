@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowControlCharacters property (Word)
 
- **True** if bidirectional control characters are visible in the current document. Read/write **Boolean** .
+ **True** if bidirectional control characters are visible in the current document. Read/write **Boolean**.
 
 
 ## Syntax

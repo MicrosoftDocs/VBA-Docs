@@ -41,7 +41,7 @@ For the Name parameter, use the complete macro path to ensure that the correct m
 
 Use the sum of the return values of the  **Now** function and either the **TimeValue** or **TimeSerial** function to set a timer to run a macro a specified amount of time after the statement is run. For example, use `Now+TimeValue("00:05:30")` to run a macro 5 minutes and 30 seconds after the statement is run.
 
-Word can maintain only one background timer set by  **OnTime** . If you start another timer before an existing timer runs, the existing timer is canceled.
+Word can maintain only one background timer set by  **OnTime**. If you start another timer before an existing timer runs, the existing timer is canceled.
 
 
 ## Example

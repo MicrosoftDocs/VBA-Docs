@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.Type property (Word)
 
-Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)** .
+Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)**.
 
 
 ## Syntax

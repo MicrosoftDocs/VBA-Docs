@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.INSKeyForPaste property (Word)
 
- **True** if the INS key can be used for pasting the Clipboard contents. Read/write **Boolean** .
+ **True** if the INS key can be used for pasting the Clipboard contents. Read/write **Boolean**.
 
 
 ## Syntax

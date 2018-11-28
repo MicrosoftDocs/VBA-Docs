@@ -25,7 +25,7 @@ Returns or sets an  **[olScrollBars](Outlook.OlScrollBars.md)** constant that sp
 
 ## Remarks
 
-The default value is  **olScrollBarsNone** .
+The default value is  **olScrollBarsNone**.
 
 
 ## See also

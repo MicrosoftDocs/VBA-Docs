@@ -799,6 +799,30 @@
           {
             "source_path": "language/reference/user-interface-help/protection-tab-project-properties-dialog-box.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/project-properties-dialog-box"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/code-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/code-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/project-explorer-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/project-explorer"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/properties-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/userform-window-keys.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/userform-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/watch-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/watch-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/immediate-window-keyboard-shortcuts.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/immediate-window"
           }
     ]
 }

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Legend property (Word)
 
-Returns the legend for the chart. Read-only  **[Legend](Word.Legend.md)** .
+Returns the legend for the chart. Read-only  **[Legend](Word.Legend.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayLeftScrollBar property (Word)
 
- **True** if the vertical scroll bar appears on the left side of the document window. Read/write **Boolean** .
+ **True** if the vertical scroll bar appears on the left side of the document window. Read/write **Boolean**.
 
 
 ## Syntax

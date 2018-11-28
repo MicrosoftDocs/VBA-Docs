@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Found property (Word)
 
- **True** if the search produces a match. Read-only **Boolean** .
+ **True** if the search produces a match. Read-only **Boolean**.
 
 
 ## Syntax

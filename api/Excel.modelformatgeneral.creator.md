@@ -11,7 +11,7 @@ ms.prod: excel
 
 # ModelFormatGeneral.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
 
 
 ## Syntax

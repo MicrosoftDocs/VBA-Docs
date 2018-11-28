@@ -34,7 +34,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 |:-----|:-----|:-----|:-----|
 | _ConnectionIDOrString_|Required| **Variant**|The ID of an existing  **[DataConnection](Visio.DataConnection.md)** object or the connection string to specify a new data-source connection.|
 | _CommandString_|Required| **String**|Query string that specifies the database table or Excel worksheet and the fields (columns) within the table or worksheet that contain the data you want to query.|
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to add. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 
 ## Return value
@@ -87,7 +87,7 @@ Unless you pass  **visDataRecordsetDelayQuery** as part of the AddOptions parame
 
 - Executes the query string specified in the CommandString parameter and retreive the resulting data.
     
-- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch** .
+- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch**.
     
 -  Assigns a row ID to each row in the data recordset. For more information about row IDs, see **[DataRecordset.GetDataRowIDs ](Visio.DataRecordset.GetDataRowIDs.md)** topic.
     

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.FullScreen property (Word)
 
- **True** if the window is in full-screen view. Read/write **Boolean** .
+ **True** if the window is in full-screen view. Read/write **Boolean**.
 
 
 ## Syntax

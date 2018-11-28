@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.PivotColumnAxis property (Excel)
 
-Returns a  **PivotAxis** object representing the entire column axis. Read-only **PivotAxis** .
+Returns a  **PivotAxis** object representing the entire column axis. Read-only **PivotAxis**.
 
 
 ## Syntax

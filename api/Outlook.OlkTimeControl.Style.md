@@ -25,7 +25,7 @@ Returns or sets an  **[OlTimeStyle](Outlook.OlTimeStyle.md)** constant that spec
 
 ## Remarks
 
-The default value is  **olTimeStyleTimeOnly** .
+The default value is  **olTimeStyleTimeOnly**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CanCheckin method (Word)
 
- **True** if Microsoft Word can check in a specified document to a server. Read/write **Boolean** .
+ **True** if Microsoft Word can check in a specified document to a server. Read/write **Boolean**.
 
 
 ## Syntax

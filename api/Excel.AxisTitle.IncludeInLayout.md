@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AxisTitle.IncludeInLayout property (Excel)
 
- **True** if an axis title will occupy the chart layout space when a chart layout is being determined. The default value is **True** . Read/write **Boolean** .
+ **True** if an axis title will occupy the chart layout space when a chart layout is being determined. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

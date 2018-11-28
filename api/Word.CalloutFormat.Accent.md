@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Accent property (Word)
 
- **True** if a vertical accent bar separates the callout text from the callout line. Read/write **MsoTriState** .
+ **True** if a vertical accent bar separates the callout text from the callout line. Read/write **MsoTriState**.
 
 
 ## Syntax

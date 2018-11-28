@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Visible property (Word)
 
- **True** if the specified object is visible. Read/write **Boolean** .
+ **True** if the specified object is visible. Read/write **Boolean**.
 
 
 ## Syntax

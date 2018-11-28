@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.FooterDistance property (Word)
 
-Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the footer and the bottom of the page. Read/write  **Single**.
 
 
 ## Syntax

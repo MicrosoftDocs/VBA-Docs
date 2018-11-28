@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CubeField.AllItemsVisible property (Excel)
 
- The **AllItemsVisible** property checks whether manual filtering is applied to a PivotField or CubeField. Read-only **Boolean** .
+ The **AllItemsVisible** property checks whether manual filtering is applied to a PivotField or CubeField. Read-only **Boolean**.
 
 
 ## Syntax

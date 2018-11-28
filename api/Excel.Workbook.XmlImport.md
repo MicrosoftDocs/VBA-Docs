@@ -31,7 +31,7 @@ Imports an XML data file into the current workbook.
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|A uniform resource locator (URL) or a uniform naming convention (UNC) path to a XML data file.|
 | _ImportMap_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply when importing the file. If the data was previously imported, contains a reference to the  **XmlMap** object containing the data.|
-| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True** . If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True** .|
+| _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True**. If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True**.|
 | _Destination_|Optional| **Variant**|Specifies the range where the list will be created. You only use the top left corner of the range.|
 
 ## Return value
@@ -44,9 +44,9 @@ Imports an XML data file into the current workbook.
 
 
 | **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
-| **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** . The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
+| **xlXmlImportSuccess**. The XML data file was successfully imported.|
+| **xlXmlImportValidationFailed**. The data being imported failed schema validation, but was imported anyway.|
 
 This method allows you to import data into the workbook from a file path. Excel uses the first qualifying map found, or if the destination range is specified, Excel will automatically list the data.
 

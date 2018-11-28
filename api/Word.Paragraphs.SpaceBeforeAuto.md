@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.SpaceBeforeAuto property (Word)
 
- **True** if Microsoft Word automatically sets the amount of spacing before the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word automatically sets the amount of spacing before the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property returns  **wdUndefined** if the **SpaceBeforeAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False** .
+This property returns  **wdUndefined** if the **SpaceBeforeAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
 
 If  **SpaceBeforeAuto** is set to **True** , the **SpaceBefore** property is ignored.
 

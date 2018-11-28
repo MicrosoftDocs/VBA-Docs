@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SnapToGrid property (Word)
 
- **True** if AutoShapes or East Asian characters are automatically aligned with an invisible grid when they are drawn, moved, or resized in the specified document. Read/write **Boolean** .
+ **True** if AutoShapes or East Asian characters are automatically aligned with an invisible grid when they are drawn, moved, or resized in the specified document. Read/write **Boolean**.
 
 
 ## Syntax

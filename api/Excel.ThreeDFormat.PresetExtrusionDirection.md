@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetExtrusionDirection property (Excel)
 
-Returns the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Read-only  **MsoPresetExtrusionDirection** .
+Returns the direction that the extrusion's sweep path takes away from the extruded shape (the front face of the extrusion). Read-only  **MsoPresetExtrusionDirection**.
 
 
 ## Syntax

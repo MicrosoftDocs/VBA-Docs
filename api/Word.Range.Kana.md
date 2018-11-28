@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Kana property (Word)
 
-Returns or sets whether the specified range of Japanese language text is hiragana or katakana. Read/write  **WdKana** .
+Returns or sets whether the specified range of Japanese language text is hiragana or katakana. Read/write  **WdKana**.
 
 
 ## Syntax

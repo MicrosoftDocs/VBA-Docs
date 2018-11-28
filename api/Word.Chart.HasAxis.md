@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.HasAxis property (Word)
 
-Returns or sets which axes exist on the chart. Read/write  **Variant** .
+Returns or sets which axes exist on the chart. Read/write  **Variant**.
 
 
 ## Syntax

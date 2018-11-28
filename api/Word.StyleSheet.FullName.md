@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheet.FullName property (Word)
 
-Specifies the name of a cascading style sheet, including the drive or Web path. Read-only  **String** .
+Specifies the name of a cascading style sheet, including the drive or Web path. Read-only  **String**.
 
 
 ## Syntax

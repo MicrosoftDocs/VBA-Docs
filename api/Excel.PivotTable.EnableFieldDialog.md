@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableFieldDialog property (Excel)
 
- **True** if the **PivotTable Field** dialog box is available when the user double-clicks the PivotTable field. The default value is **True** . Read/write **Boolean** .
+ **True** if the **PivotTable Field** dialog box is available when the user double-clicks the PivotTable field. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

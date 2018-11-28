@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies if a selection is displayed or hid
 
 ## Remarks
 
-The default value of this property is  **True** .
+The default value of this property is  **True**.
 
 
 ## See also

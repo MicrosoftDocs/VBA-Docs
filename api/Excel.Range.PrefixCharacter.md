@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.PrefixCharacter property (Excel)
 
-Returns the prefix character for the cell. Read-only  **Variant** .
+Returns the prefix character for the cell. Read-only  **Variant**.
 
 
 ## Syntax

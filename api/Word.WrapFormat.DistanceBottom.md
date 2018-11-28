@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WrapFormat.DistanceBottom property (Word)
 
-Returns or sets the distance (in points) between the document text and the bottom edge of the text-free area surrounding the specified shape. Read/write  **Single** .
+Returns or sets the distance (in points) between the document text and the bottom edge of the text-free area surrounding the specified shape. Read/write  **Single**.
 
 
 ## Syntax

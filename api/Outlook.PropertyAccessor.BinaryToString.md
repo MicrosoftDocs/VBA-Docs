@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PropertyAccessor.BinaryToString Method (Outlook)
 
-Converts the array of bytes specified by  _Value_ to a **String** .
+Converts the array of bytes specified by  _Value_ to a **String**.
 
 
 ## Syntax

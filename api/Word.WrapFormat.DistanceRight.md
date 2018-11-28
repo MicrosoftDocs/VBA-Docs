@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WrapFormat.DistanceRight property (Word)
 
- Returns or sets the distance (in points) between the document text and the right edge of the text-free area surrounding the specified shape. Read/write **Single** .
+ Returns or sets the distance (in points) between the document text and the right edge of the text-free area surrounding the specified shape. Read/write **Single**.
 
 
 ## Syntax

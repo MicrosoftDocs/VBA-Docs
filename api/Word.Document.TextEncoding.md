@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TextEncoding property (Word)
 
-Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding** .
+Returns or sets the code page, or character set, that Microsoft Word uses for a document saved as an encoded text file. Read/write  **MsoEncoding**.
 
 
 ## Syntax

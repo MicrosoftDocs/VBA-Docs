@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LockAnchor property (Word)
 
- **True** if the anchor of a **Shape** object is locked to the anchoring range. Read/write **Long** .
+ **True** if the anchor of a **Shape** object is locked to the anchoring range. Read/write **Long**.
 
 
 ## Syntax

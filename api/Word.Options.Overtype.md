@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.Overtype property (Word)
 
- **True** if Overtype mode is active. Read/write **Boolean** .
+ **True** if Overtype mode is active. Read/write **Boolean**.
 
 
 ## Syntax

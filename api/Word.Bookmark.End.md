@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.End property (Word)
 
-Returns or sets the ending character position of a selection, range, or bookmark. Read/write  **Long** .
+Returns or sets the ending character position of a selection, range, or bookmark. Read/write  **Long**.
 
 
 ## Syntax

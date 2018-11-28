@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.SoftEdge property (Word)
 
-Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** .
+Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)**.
 
 
 ## Syntax

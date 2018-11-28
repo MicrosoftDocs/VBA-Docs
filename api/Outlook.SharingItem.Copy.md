@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Copy Method (Outlook)
 
-Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)** .
+Creates another instance of a  **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

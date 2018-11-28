@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.FullName property (Word)
 
-Specifies the name of a template, including the drive or Web path. Read-only  **String** .
+Specifies the name of a template, including the drive or Web path. Read-only  **String**.
 
 
 ## Syntax

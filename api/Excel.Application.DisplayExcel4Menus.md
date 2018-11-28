@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayExcel4Menus property (Excel)
 
- **True** if Microsoft Excel displays version 4.0 menu bars. Read/write **Boolean** .
+ **True** if Microsoft Excel displays version 4.0 menu bars. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CreateBackup property (Excel)
 
- **True** if a backup file is created when this file is saved. Read-only **Boolean** .
+ **True** if a backup file is created when this file is saved. Read-only **Boolean**.
 
 
 ## Syntax

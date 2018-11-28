@@ -62,7 +62,7 @@ For an event to successfully pass through a command filter, it must satisfy the 
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For details about using command IDs to define event filters, see the  **SetFilterCommands** method.
 

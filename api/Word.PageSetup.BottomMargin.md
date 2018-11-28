@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BottomMargin property (Word)
 
-Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the bottom edge of the page and the bottom boundary of the body text. Read/write  **Single**.
 
 
 ## Syntax

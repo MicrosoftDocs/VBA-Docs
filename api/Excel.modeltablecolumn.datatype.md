@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # ModelTableColumn.DataType property (Excel)
 
-Returns the [xlParameterDataType enumeration (Excel)](Excel.xlParameterDataType.md) of the **ModelTableColumn** . Read-only
+Returns the [xlParameterDataType enumeration (Excel)](Excel.xlParameterDataType.md) of the **ModelTableColumn**. Read-only
 
 
 ## Syntax

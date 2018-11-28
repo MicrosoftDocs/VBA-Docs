@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchFuzzy property (Word)
 
- **True** if Microsoft Word uses the nonspecific search options for Japanese text during a search. Read/write **Boolean** .
+ **True** if Microsoft Word uses the nonspecific search options for Japanese text during a search. Read/write **Boolean**.
 
 
 ## Syntax

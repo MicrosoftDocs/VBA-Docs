@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.HasChildShapeRange property (Word)
 
- **True** if the selection contains child shapes. Read-only **Boolean** .
+ **True** if the selection contains child shapes. Read-only **Boolean**.
 
 
 ## Syntax

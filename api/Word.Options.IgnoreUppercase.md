@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.IgnoreUppercase property (Word)
 
- **True** if words in all uppercase letters are ignored while checking spelling. Read/write **Boolean** .
+ **True** if words in all uppercase letters are ignored while checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.FormDescription Property (Outlook)
 
-Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns the  **[FormDescription](Outlook.FormDescription.md)** object that represents the form description for the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

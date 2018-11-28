@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Type property (Word)
 
-Returns the selection type. Read-only  **[WdSelectionType](Word.WdSelectionType.md)** .
+Returns the selection type. Read-only  **[WdSelectionType](Word.WdSelectionType.md)**.
 
 
 ## Syntax

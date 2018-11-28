@@ -23,7 +23,7 @@ ms.date: 06/08/2017
 
 To retrieve a  **MenuItems** collection, use the **MenuItems** property of a **Menu** object or a **MenuItem** object.
 
-The default property of a  **MenuItems** collection is **Item** .
+The default property of a  **MenuItems** collection is **Item**.
 
 Unlike other Visio collections, the  **MenuItems** collection is indexed starting with zero (0) rather than 1.
 

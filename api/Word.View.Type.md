@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Type property (Word)
 
-Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)** .
+Returns or sets the view type. Read/write  **[WdViewType](Word.WdViewType.md)**.
 
 
 ## Syntax

@@ -33,7 +33,7 @@ Changes the rotation of the specified shape around the z-axis by the specified n
 
 ## Remarks
 
-Use the  **Rotation** property to set the absolute rotation of the shape. To rotate a three-dimensional shape around the x-axis or the y-axis, use the **[IncrementRotationX](Word.ThreeDFormat.IncrementRotationX.md)** or **[IncrementRotationY](Word.ThreeDFormat.IncrementRotationY.md)** method of the **[ThreeDFormat](Word.ThreeDFormat.md)** .
+Use the  **Rotation** property to set the absolute rotation of the shape. To rotate a three-dimensional shape around the x-axis or the y-axis, use the **[IncrementRotationX](Word.ThreeDFormat.IncrementRotationX.md)** or **[IncrementRotationY](Word.ThreeDFormat.IncrementRotationY.md)** method of the **[ThreeDFormat](Word.ThreeDFormat.md)**.
 
 
 ## See also

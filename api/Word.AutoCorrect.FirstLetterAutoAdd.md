@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.FirstLetterAutoAdd property (Word)
 
- **True** if Word automatically adds abbreviations to the list of AutoCorrect First Letter exceptions. Read/write **Boolean** .
+ **True** if Word automatically adds abbreviations to the list of AutoCorrect First Letter exceptions. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns or sets an  **[OlComboBoxStyle](Outlook.OlComboBoxStyle.md)** constant t
 
 ## Remarks
 
-The default value is  **olComboBoxStyleCombo** .
+The default value is  **olComboBoxStyleCombo**.
 
 
 ## See also

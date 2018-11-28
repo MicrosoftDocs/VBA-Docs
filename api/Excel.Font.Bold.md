@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Bold property (Excel)
 
- **True** if the font is bold. Read/write **Variant** .
+ **True** if the font is bold. Read/write **Variant**.
 
 
 ## Syntax

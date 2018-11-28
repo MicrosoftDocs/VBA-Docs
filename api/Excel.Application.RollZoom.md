@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RollZoom property (Excel)
 
- **True** if the IntelliMouse zooms instead of scrolling. Read/write **Boolean** .
+ **True** if the IntelliMouse zooms instead of scrolling. Read/write **Boolean**.
 
 
 ## Syntax

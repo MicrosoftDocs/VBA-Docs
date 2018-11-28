@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether this control displays full
 
 ## Remarks
 
-If this property is  **True** , the control displays fill lines of text; otherwise it displays partial lines. The default value is **True** .
+If this property is  **True** , the control displays fill lines of text; otherwise it displays partial lines. The default value is **True**.
 
 
 ## See also

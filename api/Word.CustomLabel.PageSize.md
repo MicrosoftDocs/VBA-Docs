@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.PageSize property (Word)
 
-Returns or sets the page size for the specified custom mailing label. Read/write  **WdCustomLabelPageSize** .
+Returns or sets the page size for the specified custom mailing label. Read/write  **WdCustomLabelPageSize**.
 
 
 ## Syntax

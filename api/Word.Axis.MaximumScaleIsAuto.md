@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MaximumScaleIsAuto property (Word)
 
- **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean** .
+ **True** if Microsoft Word calculates the maximum value for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MaximumScale](Word.Axis.MaximumScale.md)** property sets this property to **False** .
+Setting the  **[MaximumScale](Word.Axis.MaximumScale.md)** property sets this property to **False**.
 
 
 ## Example

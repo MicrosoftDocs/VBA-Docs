@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.IsCalculated property (Excel)
 
- **True** if the PivotTable field is a calculated field or item. Read-only **Boolean** .
+ **True** if the PivotTable field is a calculated field or item. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, this property always returns  **False** .
+For OLAP data sources, this property always returns  **False**.
 
 
 ## Example

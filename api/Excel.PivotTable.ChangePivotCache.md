@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ChangePivotCache method (Excel)
 
-Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)** .
+Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTable](Excel.PivotTable.md)**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Changes the  **[PivotCache](Excel.PivotCache.md)** of the specified **[PivotTabl
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specified **PivotTable** .|
+| _bstr_|Required| **String**|A  **PivotTable** or **PivotCache** object that represents the new **PivotCache** for the specified **PivotTable**.|
 
 ## Remarks
 

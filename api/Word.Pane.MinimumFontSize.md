@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.MinimumFontSize property (Word)
 
-Returns or sets the minimum font size (in points) displayed for the specified pane. Read/write  **Long** .
+Returns or sets the minimum font size (in points) displayed for the specified pane. Read/write  **Long**.
 
 
 ## Syntax

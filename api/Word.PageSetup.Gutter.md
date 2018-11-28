@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Gutter property (Word)
 
-Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write  **Single** .
+Returns or sets the amount (in points) of extra margin space added to each page in a document or section for binding. Read/write  **Single**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.FontStyle property (Excel)
 
-Returns or sets the font style. Read/write  **String** .
+Returns or sets the font style. Read/write  **String**.
 
 
 ## Syntax

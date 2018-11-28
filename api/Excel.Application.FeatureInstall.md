@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FeatureInstall property (Excel)
 
-Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](Office.MsoFeatureInstall.md)** constants listed in the following table. Read/write **MsoFeatureInstall** .
+Returns or sets a value (constant) that specifies how Microsoft Excel handles calls to methods and properties that require features that aren't yet installed. Can be one of the  **[MsoFeatureInstall](Office.MsoFeatureInstall.md)** constants listed in the following table. Read/write **MsoFeatureInstall**.
 
 
 ## Syntax
@@ -28,18 +28,18 @@ Returns or sets a value (constant) that specifies how Microsoft Excel handles ca
 
 
 | **MsoFeatureInstall** can be one of these **MsoFeatureInstall** constants.|
-| **msoFeatureInstallNone** . Generates a generic Automation error at run time when uninstalled features are called. This is the default constant.|
-| **msoFeatureInstallOnDemand** . Prompts the user to install new features.|
-| **msoFeatureInstallOnDemandWithUI** . Displays a progress meter during installation; doesn't prompt the user to install new features.|
+| **msoFeatureInstallNone**. Generates a generic Automation error at run time when uninstalled features are called. This is the default constant.|
+| **msoFeatureInstallOnDemand**. Prompts the user to install new features.|
+| **msoFeatureInstallOnDemandWithUI**. Displays a progress meter during installation; doesn't prompt the user to install new features.|
 
 You can use the  **msoFeatureInstallOnDemandWithUI** constant to prevent users from thinking that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
 
-If you have the  **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property set to **False** , users won't be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** . If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand** .
+If you have the  **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property set to **False** , users won't be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
 
 
 ## Example
 
-This example activates a new instance of Microsoft Word and checks the value of the  **FeatureInstall** property. Be sure to set a reference to the Microsoft Word object library. If the **FeatureInstall** property is set to **msoFeatureInstallNone** , the code displays a message box that asks the user whether they want to change the property setting. If the user responds Yes, the property is set to **msoFeatureInstallOnDemand** .
+This example activates a new instance of Microsoft Word and checks the value of the  **FeatureInstall** property. Be sure to set a reference to the Microsoft Word object library. If the **FeatureInstall** property is set to **msoFeatureInstallNone** , the code displays a message box that asks the user whether they want to change the property setting. If the user responds Yes, the property is set to **msoFeatureInstallOnDemand**.
 
 
 ```vb

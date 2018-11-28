@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObject.RoundedCorners property (Excel)
 
- **True** if the embedded chart has rounded corners. Read/write **Boolean** .
+ **True** if the embedded chart has rounded corners. Read/write **Boolean**.
 
 
 ## Syntax

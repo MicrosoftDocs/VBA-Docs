@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.OwnStatus property (Word)
 
-Specifies the source of the text that's displayed in the status bar when a form field has the focus. Read/write  **Boolean** .
+Specifies the source of the text that's displayed in the status bar when a form field has the focus. Read/write  **Boolean**.
 
 
 ## Syntax

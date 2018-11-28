@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a control can accept and d
 
 ## Remarks
 
-The default value is  **False** .
+The default value is  **False**.
 
 
 ## See also

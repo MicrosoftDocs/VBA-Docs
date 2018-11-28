@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumbers.DoubleQuote property (Word)
 
- **True** if Microsoft Word encloses the specified **PageNumbers** object in double quotation marks ("). Read/write **Boolean** .
+ **True** if Microsoft Word encloses the specified **PageNumbers** object in double quotation marks ("). Read/write **Boolean**.
 
 
 ## Syntax

@@ -38,11 +38,11 @@ A  **[Row](Outlook.Row.md)** object that represents the first row in the **Table
 
 ## Remarks
 
- **FindRow** always starts from the first row in the **Table** .
+ **FindRow** always starts from the first row in the **Table**.
 
- **FindRow** returns **Null** (**Nothing** in Visual Basic) if a property in _Filter_ does not exist in the specified namespace. The property is considered a named property in the MAPI property set, **PS_PUBLIC_STRINGS** . **FindRow** does not return an error in this case.
+ **FindRow** returns **Null** (**Nothing** in Visual Basic) if a property in _Filter_ does not exist in the specified namespace. The property is considered a named property in the MAPI property set, **PS_PUBLIC_STRINGS**. **FindRow** does not return an error in this case.
 
- **FindRow** returns an error if _Filter_ is a blank string or an invalid restriction. In cases where **FindRow** does not find any row, the current row will not be repositioned to where it was before the call to **FindRow** .
+ **FindRow** returns an error if _Filter_ is a blank string or an invalid restriction. In cases where **FindRow** does not find any row, the current row will not be repositioned to where it was before the call to **FindRow**.
 
 To use content indexing search in a  **Table** , use the **[Restrict](Outlook.Table.Restrict.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetCamera property (Excel)
 
-Returns or sets the extrusion preset camera for a  **ThreeDFormat** object. Read-only **[MsoPresetCamera](./Office.MsoPresetCamera.md)** .
+Returns or sets the extrusion preset camera for a  **ThreeDFormat** object. Read-only **[MsoPresetCamera](./Office.MsoPresetCamera.md)**.
 
 
 ## Syntax

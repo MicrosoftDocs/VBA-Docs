@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRetrievalMode.ViewType property (Word)
 
-Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType** .
+Returns or sets the view for the  **TextRetrievalMode** object. Read/write **WdViewType**.
 
 
 ## Syntax

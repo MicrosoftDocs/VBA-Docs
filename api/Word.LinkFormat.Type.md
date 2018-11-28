@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.Type property (Word)
 
-Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)** .
+Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)**.
 
 
 ## Syntax

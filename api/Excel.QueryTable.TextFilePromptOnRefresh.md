@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFilePromptOnRefresh property (Excel)
 
- **True** if you want to specify the name of the imported text file each time the query table is refreshed. The **Import Text File** dialog box allows you to specify the path and file name. The default value is **False** . Read/write **Boolean** .
+ **True** if you want to specify the name of the imported text file each time the query table is refreshed. The **Import Text File** dialog box allows you to specify the path and file name. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -33,7 +33,7 @@ The default value is  **True** in the user interface.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFilePromptOnRefresh** property applies only to **QueryTable** objects.
 

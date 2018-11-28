@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.MissingItemsLimit property (Excel)
 
-Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  **[xlPivotTableMissingItems](Excel.XlPivotTableMissingItems.md)** .
+Returns or sets the maximum quantity of unique items per PivotTable field that are retained even when they have no supporting data in the cache records. Read/write  **[xlPivotTableMissingItems](Excel.XlPivotTableMissingItems.md)**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ Returns or sets the maximum quantity of unique items per PivotTable field that a
 | **xlMissingItemsMax** The maximum number of unique items per PivotField allowed (32,500).|
 | **xlMissingItemsNone** No unique items per PivotField allowed (zero).|
 
-This property can be set to a value between 0 and 32500. If an integer less than zero is specified, this is equivalent to specifying  **xlMissingItemsDefault** . Integers greater than 32,500 can be specified but will have the same effect as specifying **xlMissingItemsMax** .
+This property can be set to a value between 0 and 32500. If an integer less than zero is specified, this is equivalent to specifying  **xlMissingItemsDefault**. Integers greater than 32,500 can be specified but will have the same effect as specifying **xlMissingItemsMax**.
 
 The  **MissingItemsLimit** property only works for non-OLAP PivotTables; otherwise, a run-time error can occur.
 

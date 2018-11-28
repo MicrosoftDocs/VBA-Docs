@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowMainTextLayer property (Word)
 
- **True** if the text in the specified document is visible when the header and footer areas are displayed. This property is equivalent to the **Show/Hide Document Text** button on the **Header and Footer** toolbar. Read/write **Boolean** .
+ **True** if the text in the specified document is visible when the header and footer areas are displayed. This property is equivalent to the **Show/Hide Document Text** button on the **Header and Footer** toolbar. Read/write **Boolean**.
 
 
 ## Syntax

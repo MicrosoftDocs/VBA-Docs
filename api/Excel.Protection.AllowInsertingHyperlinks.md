@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowInsertingHyperlinks property (Excel)
 
-Returns  **True** if the insertion of hyperlinks is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the insertion of hyperlinks is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax

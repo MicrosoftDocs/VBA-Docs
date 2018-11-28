@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.Type property (Word)
 
-Returns the shape fill format type. Read-only  **MsoFillType** .
+Returns the shape fill format type. Read-only  **MsoFillType**.
 
 
 ## Syntax

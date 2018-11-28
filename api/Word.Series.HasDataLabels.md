@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.HasDataLabels property (Word)
 
- **True** if the series has data labels. Read/write **Boolean** .
+ **True** if the series has data labels. Read/write **Boolean**.
 
 
 ## Syntax

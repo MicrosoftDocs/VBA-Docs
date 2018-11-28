@@ -32,7 +32,7 @@ Returns whether a PivotTable value cell has been edited or recalculated since th
 
 The value of the  **CellChanged** property is **xlCellNotChanged** by default.
 
-For PivotTable reports with non-OLAP data sources, the value of this property can be only either  **xlCellNotChanged** or **xlCellChanged** . It is **xlCellNotChanged** for cells that have not been edited, and is **xlCellChanged** for cells that have been edited. Discarding changes sets its value to **xlCellNotChanged** .
+For PivotTable reports with non-OLAP data sources, the value of this property can be only either  **xlCellNotChanged** or **xlCellChanged**. It is **xlCellNotChanged** for cells that have not been edited, and is **xlCellChanged** for cells that have been edited. Discarding changes sets its value to **xlCellNotChanged**.
 
 Applying and saving changes applies only to PivotTable reports with OLAP data sources. The following list of descriptions of the possible states of the  **CellChange** property apply only to PivotTables with OLAP data sources:
 

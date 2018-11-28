@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AllowCompoundNounProcessing property (Word)
 
- **True** if Microsoft Word ignores compound nouns when checking spelling in a Korean language document. Read/write **Boolean** .
+ **True** if Microsoft Word ignores compound nouns when checking spelling in a Korean language document. Read/write **Boolean**.
 
 
 ## Syntax

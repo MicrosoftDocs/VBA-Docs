@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.HasHorizontal property (Word)
 
- **True** if a horizontal border can be applied to the object. Read-only **Boolean** .
+ **True** if a horizontal border can be applied to the object. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.ChartType property (Word)
 
-Returns or sets the chart type. Read/write  **[xlChartType](./Excel.XlChartType.md)** .
+Returns or sets the chart type. Read/write  **[xlChartType](./Excel.XlChartType.md)**.
 
 
 ## Syntax

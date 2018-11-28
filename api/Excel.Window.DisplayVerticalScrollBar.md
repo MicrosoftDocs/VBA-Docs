@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayVerticalScrollBar property (Excel)
 
- **True** if the vertical scroll bar is displayed. Read/write **Boolean** .
+ **True** if the vertical scroll bar is displayed. Read/write **Boolean**.
 
 
 ## Syntax

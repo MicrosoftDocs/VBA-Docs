@@ -25,7 +25,7 @@ Returns or sets a  **String** indicating the path and file name of the sound fil
 
 ## Remarks
 
-This property is only valid if the  **[ReminderOverrideDefault](Outlook.AppointmentItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.AppointmentItem.ReminderPlaySound.md)** properties are set to **True** .
+This property is only valid if the  **[ReminderOverrideDefault](Outlook.AppointmentItem.ReminderOverrideDefault.md)** and **[ReminderPlaySound](Outlook.AppointmentItem.ReminderPlaySound.md)** properties are set to **True**.
 
 
 ## See also

@@ -29,8 +29,8 @@ Moves or extends the start position of the specified range or selection to the b
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. Can be any WdUnits constant except  **wdLine** . The default value is **wdWord** .|
-| _Extend_|Optional| **WdMovement**|Specifies whether to move or extend the start of the range. If you use  **wdMove** , both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend** , the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove** .|
+| _Unit_|Optional| **WdUnits**|The unit by which the start position of the specified range or selection is to be moved. Can be any WdUnits constant except  **wdLine**. The default value is **wdWord**.|
+| _Extend_|Optional| **WdMovement**|Specifies whether to move or extend the start of the range. If you use  **wdMove** , both ends of the range or selection are moved to the beginning of the specified unit. If you use **wdExtend** , the beginning of the range or selection is extended to the beginning of the specified unit. The default value is **wdMove**.|
 
 ## Remarks
 

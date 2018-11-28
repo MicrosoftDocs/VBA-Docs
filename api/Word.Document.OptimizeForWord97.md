@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.OptimizeForWord97 property (Word)
 
- **True** if Microsoft Word optimizes the current document for viewing in Microsoft Word 97 by disabling any incompatible formatting. Read/write **Boolean** .
+ **True** if Microsoft Word optimizes the current document for viewing in Microsoft Word 97 by disabling any incompatible formatting. Read/write **Boolean**.
 
 
 ## Syntax

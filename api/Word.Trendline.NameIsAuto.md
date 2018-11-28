@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.NameIsAuto property (Word)
 
- **True** if Microsoft Word automatically determines the name of the trendline. Read/write **Boolean** .
+ **True** if Microsoft Word automatically determines the name of the trendline. Read/write **Boolean**.
 
 
 ## Syntax

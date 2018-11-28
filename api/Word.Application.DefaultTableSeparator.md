@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultTableSeparator property (Word)
 
-Returns or sets the single character used to separate text into cells when text is converted to a table. Read/write  **String** .
+Returns or sets the single character used to separate text into cells when text is converted to a table. Read/write  **String**.
 
 
 ## Syntax

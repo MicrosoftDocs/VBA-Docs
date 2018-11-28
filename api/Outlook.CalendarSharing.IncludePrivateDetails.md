@@ -25,12 +25,12 @@ Returns or sets a  **Boolean** value that indicates whether private details for 
 
 ## Return value
 
- **True** if private details for calendar items should be included; otherwise, **False** .
+ **True** if private details for calendar items should be included; otherwise, **False**.
 
 
 ## Remarks
 
-This property must be set to  **false** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** .
+This property must be set to  **false** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly**.
 
 
 ## See also

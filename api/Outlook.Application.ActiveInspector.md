@@ -32,7 +32,7 @@ An  **Inspector** that represents the topmost inspector on the desktop.
 
  Use this method to access the **Inspector** object that the user is most likely to be viewing.
 
-If no inspector is active, returns  **Nothing** .
+If no inspector is active, returns  **Nothing**.
 
 
 ## Example

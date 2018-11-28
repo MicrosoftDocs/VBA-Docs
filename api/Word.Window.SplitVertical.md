@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.SplitVertical property (Word)
 
-Returns or sets the vertical split percentage for the specified window. Read/write  **Long** .
+Returns or sets the vertical split percentage for the specified window. Read/write  **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the vertical split percentage for the specified window. Read/wri
 
 ## Remarks
 
-To remove the split, set this property to zero (0) or set the  **[Split](Word.Window.Split.md)** property to **False** .
+To remove the split, set this property to zero (0) or set the  **[Split](Word.Window.Split.md)** property to **False**.
 
 
 ## Example

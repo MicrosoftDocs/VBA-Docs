@@ -25,7 +25,7 @@ Returns or sets one of the constants of the  **[xlFormatConditionOperator](Excel
 
 ## Remarks
 
-For an icon set conditional formatting rule, this property can be set to only one of the following two constants:  **xlGreater** or **xlGreaterEqual** .
+For an icon set conditional formatting rule, this property can be set to only one of the following two constants:  **xlGreater** or **xlGreaterEqual**.
 
 
 ## See also

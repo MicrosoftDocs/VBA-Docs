@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OMaths.Count property (Word)
 
-Returns the number of items in the  **OMaths** collection. Read-only **Long** .
+Returns the number of items in the  **OMaths** collection. Read-only **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.HasDisplayUnitLabel property (Excel)
 
- **True** if the label specified by the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Excel.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default value is **True** . Read/write **Boolean** .
+ **True** if the label specified by the **[DisplayUnit](Excel.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Excel.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

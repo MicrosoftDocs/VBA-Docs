@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.TableGridlines property (Word)
 
- **True** if table gridlines are displayed. Read/write **Boolean** .
+ **True** if table gridlines are displayed. Read/write **Boolean**.
 
 
 ## Syntax

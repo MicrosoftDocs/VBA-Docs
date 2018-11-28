@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Installed property (Excel)
 
- **True** if the add-in is installed or to install the add-in, **False** if the add-in is uninstalled or to uninstall the add-in. Read/write **Boolean** .
+ **True** if the add-in is installed or to install the add-in, **False** if the add-in is uninstalled or to uninstall the add-in. Read/write **Boolean**.
 
 
 ## Syntax

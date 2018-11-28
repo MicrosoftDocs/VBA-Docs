@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.HasText property (Word)
 
- **True** if the specified shape has text associated with it. Read-only **Boolean** .
+ **True** if the specified shape has text associated with it. Read-only **Boolean**.
 
 
 ## Syntax

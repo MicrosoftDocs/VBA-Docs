@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # PostItem.Open Event (Outlook)
 
-Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)** .
+Occurs when an instance of the parent object is being opened in an  **[Inspector](Outlook.Inspector.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.End property (Word)
 
-Returns or sets the ending character position of a selection. Read/write  **Long** .
+Returns or sets the ending character position of a selection. Read/write  **Long**.
 
 
 ## Syntax

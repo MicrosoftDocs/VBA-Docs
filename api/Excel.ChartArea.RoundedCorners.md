@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartArea.RoundedCorners property (Excel)
 
- **True** if the chart area of the chart has rounded corners. Read/write **Boolean** .
+ **True** if the chart area of the chart has rounded corners. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Shadow property (Word)
 
-Returns shadow formatting properties for the chart element. Read-only  **[ShadowFormat](Word.ShadowFormat.md)** .
+Returns shadow formatting properties for the chart element. Read-only  **[ShadowFormat](Word.ShadowFormat.md)**.
 
 
 ## Syntax

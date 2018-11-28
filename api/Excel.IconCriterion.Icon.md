@@ -25,7 +25,7 @@ Returns or specifies the icon for a criterion in an icon set conditional formatt
 
 ## Remarks
 
-After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property is changed to **xlCustomSet** .
+After you set the  **Icon** property for the icon criterion in an icon set conditional formatting rule, the **[IconSet](Excel.IconSetCondition.IconSet.md)** property is changed to **xlCustomSet**.
 
 
 ## Example

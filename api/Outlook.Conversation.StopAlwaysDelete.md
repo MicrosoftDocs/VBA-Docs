@@ -37,7 +37,7 @@ If the always-delete action has not been turned on,  **StopAlwaysDelete** does n
 
 If the always-delete action has been turned on (by calling the [SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md) method, **StopAlwaysDelete** moves existing conversation items in the Deleted Items folder to the Inbox.
 
-After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method on that conversation and store returns the constant **olDoNotDelete** .
+After calling the  **StopAlwaysDelete** method for a conversation in a store, calling the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method on that conversation and store returns the constant **olDoNotDelete**.
 
 If the store specified by the  _Store_ parameter represents a non-delivery store such as an archive .pst store, the stop-always-delete action is applied to conversation items in the default delivery store.
 

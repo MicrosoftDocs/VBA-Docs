@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the specific office location (for exa
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagOfficeLocation** .
+This property corresponds to the MAPI property  **PidTagOfficeLocation**.
 
 
 ## Example

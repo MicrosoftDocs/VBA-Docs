@@ -25,7 +25,7 @@ Returns or sets an  **[OlDragBehavior Enumeration](Outlook.OlDragBehavior.md)** 
 
 ## Remarks
 
-The default value is  **olDragDropDisabled** .
+The default value is  **olDragDropDisabled**.
 
 
 ## See also

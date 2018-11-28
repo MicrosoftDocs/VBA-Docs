@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatReplaceQuotes property (Word)
 
- **True** if straight quotation marks are automatically changed to smart (curly) quotation marks when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if straight quotation marks are automatically changed to smart (curly) quotation marks when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax

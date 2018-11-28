@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SmartParaSelection property (Word)
 
- **True** for Microsoft Word to include the paragraph mark in a selection when selecting most or all of a paragraph. Read/write **Boolean** .
+ **True** for Microsoft Word to include the paragraph mark in a selection when selecting most or all of a paragraph. Read/write **Boolean**.
 
 
 ## Syntax

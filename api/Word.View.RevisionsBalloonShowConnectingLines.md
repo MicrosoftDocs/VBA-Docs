@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.RevisionsBalloonShowConnectingLines property (Word)
 
- **True** for Microsoft Word to display connecting lines from the text to the revision and comment balloons. Read/write **Boolean** .
+ **True** for Microsoft Word to display connecting lines from the text to the revision and comment balloons. Read/write **Boolean**.
 
 
 ## Syntax

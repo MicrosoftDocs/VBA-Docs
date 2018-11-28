@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.GetOrganizer Method (Outlook)
 
-Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the organizer of the **[AppointmentItem](Outlook.AppointmentItem.md)** .
+Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the organizer of the **[AppointmentItem](Outlook.AppointmentItem.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Obtains the  **[AddressEntry](Outlook.AddressEntry.md)** object that contains in
 
 ## Return value
 
-An  **AddressEntry** object that represents the organizer of the **AppointmentItem** .
+An  **AddressEntry** object that represents the organizer of the **AppointmentItem**.
 
 
 ## See also

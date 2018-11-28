@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.TypeNReplace property (Word)
 
- **True** for Microsoft Word to replace illegal South Asian characters. Read/write **Boolean** .
+ **True** for Microsoft Word to replace illegal South Asian characters. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatReplaceFractions property (Word)
 
- **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "½." Read/write **Boolean** .
+ **True** if typed fractions are replaced with fractions from the current character set when Word formats a document or range automatically. For example, "1/2" is replaced with "½." Read/write **Boolean**.
 
 
 ## Syntax

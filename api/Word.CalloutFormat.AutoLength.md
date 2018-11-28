@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.AutoLength property (Word)
 
- **MsoTrue** to automatically sets the length of the callout line. Read-only **MsoTriState** .
+ **MsoTrue** to automatically sets the length of the callout line. Read-only **MsoTriState**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Use the  **AutomaticLength** method to set this property to **msoTrue** , and use the **CustomLength** method to set this property to **msoFalse** .
+Use the  **AutomaticLength** method to set this property to **msoTrue** , and use the **CustomLength** method to set this property to **msoFalse**.
 
 
 ## Example

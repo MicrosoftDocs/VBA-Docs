@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the whole, unparsed full name for the c
 
 ## Remarks
 
-This property is parsed into the  **[FirstName](Outlook.ContactItem.FirstName.md)** , **[MiddleName](Outlook.ContactItem.MiddleName.md)** , **[LastName](Outlook.ContactItem.LastName.md)** , and **[Suffix](Outlook.ContactItem.Suffix.md)** properties, which may be changed or typed independently if they are parsed incorrectly. Any changes or entries to the **FirstName** , **LastName** , **MiddleName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to **FullName** .
+This property is parsed into the  **[FirstName](Outlook.ContactItem.FirstName.md)** , **[MiddleName](Outlook.ContactItem.MiddleName.md)** , **[LastName](Outlook.ContactItem.LastName.md)** , and **[Suffix](Outlook.ContactItem.Suffix.md)** properties, which may be changed or typed independently if they are parsed incorrectly. Any changes or entries to the **FirstName** , **LastName** , **MiddleName** , or **Suffix** properties will be overwritten by any subsequent changes or entries to **FullName**.
 
 
 ## Example

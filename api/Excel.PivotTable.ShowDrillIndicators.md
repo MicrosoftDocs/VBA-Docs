@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ShowDrillIndicators property (Excel)
 
-The  **ShowDrillIndicators** property is used for toggling the display of drill indicators in the PivotTable. Read/write **Boolean** .
+The  **ShowDrillIndicators** property is used for toggling the display of drill indicators in the PivotTable. Read/write **Boolean**.
 
 
 ## Syntax

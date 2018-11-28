@@ -25,7 +25,7 @@ Returns or sets an  **[olMatchEntry](Outlook.OlMatchEntry.md)** constant that in
 
 ## Remarks
 
-The default value is  **olMatchEntryComplete** .
+The default value is  **olMatchEntryComplete**.
 
 
 ## See also

@@ -37,11 +37,11 @@ Creates and returns a  **[PivotTable](Excel.PivotTable.md)** object. This method
 | _ColumnGrand_|Optional| **Variant**| **True** to show grand totals for columns in the report.|
 | _SaveData_|Optional| **Variant**| **True** to save data with the report. **False** to save only the report definition.|
 | _HasAutoFormat_|Optional| **Variant**| **True** to have Microsoft Excel automatically format the report when it?s refreshed or when fields are moved.|
-| _AutoPage_|Optional| **Variant**|Valid only if  _SourceType_ is **xlConsolidation** . **True** to have Microsoft Excel create a page field for the consolidation. If _AutoPage_ is **False** , you must create the page field or fields.|
+| _AutoPage_|Optional| **Variant**|Valid only if  _SourceType_ is **xlConsolidation**. **True** to have Microsoft Excel create a page field for the consolidation. If _AutoPage_ is **False** , you must create the page field or fields.|
 | _Reserved_|Optional| **Variant**|Not used by Microsoft Excel.|
-| _BackgroundQuery_|Optional| **Variant**| **True** to have Excel perform queries for the report asynchronously (in the background). The default value is **False** .|
-| _OptimizeCache_|Optional| **Variant**| **True** to optimize the PivotTable cache when it's constructed. The default value is **False** .|
-| _PageFieldOrder_|Optional| **Variant**|The order in which page fields are added to the PivotTable report?s layout. Can be one of the following  **xlOrder** constants: **xlDownThenOver** or **xlOverThenDown** . The default value is **xlDownThenOver** .|
+| _BackgroundQuery_|Optional| **Variant**| **True** to have Excel perform queries for the report asynchronously (in the background). The default value is **False**.|
+| _OptimizeCache_|Optional| **Variant**| **True** to optimize the PivotTable cache when it's constructed. The default value is **False**.|
+| _PageFieldOrder_|Optional| **Variant**|The order in which page fields are added to the PivotTable report?s layout. Can be one of the following  **xlOrder** constants: **xlDownThenOver** or **xlOverThenDown**. The default value is **xlDownThenOver**.|
 | _PageFieldWrapCount_|Optional| **Variant**|The number of page fields in each column or row in the PivotTable report. The default value is 0 (zero).|
 | _ReadData_|Optional| **Variant**| **True** to create a PivotTable cache that contains all records from the external database; this cache can be very large. If _ReadData_ is **False** , you can set some of the fields asserver-based page fields before the data is actually read.|
 | _Connection_|Optional| **Variant**|A string that contains ODBC settings that allow Excel to connect to an ODBC data source. The connection string has the form "ODBC;<connection string>". This argument overrides any previous setting for the  **[PivotCache](Excel.PivotCache.md)** object?s **[Connection](Excel.PivotCache.Connection.md)** property.|

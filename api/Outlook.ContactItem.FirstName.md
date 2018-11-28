@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the first name for the contact. Read/
 
 ## Remarks
 
-This property is parsed from the  **[FullName](Outlook.ContactItem.FullName.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes of entries to **FullName** .
+This property is parsed from the  **[FullName](Outlook.ContactItem.FullName.md)** property, but may be changed or entered independently should it be parsed incorrectly. Note that any such changes or entries to this property will be overwritten by any subsequent changes of entries to **FullName**.
 
 
 ## See also

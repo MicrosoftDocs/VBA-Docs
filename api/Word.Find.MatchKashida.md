@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchKashida property (Word)
 
- **True** if find operations match text with matching kashidas in an Arabic language document. Read/write **Boolean** .
+ **True** if find operations match text with matching kashidas in an Arabic language document. Read/write **Boolean**.
 
 
 ## Syntax

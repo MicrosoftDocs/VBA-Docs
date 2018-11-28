@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartBorder.Weight property (Word)
 
-Returns or sets the weight of the border. Read/write  **[xlBorderWeight](Word.xlborderweight.md)** .
+Returns or sets the weight of the border. Read/write  **[xlBorderWeight](Word.xlborderweight.md)**.
 
 
 ## Syntax

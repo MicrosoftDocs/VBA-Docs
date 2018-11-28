@@ -25,7 +25,7 @@ The  **TableStyle2** property specifies the PivotTable style currently applied t
 
 ## Remarks
 
-The property is called TableStyle2 because there is an exisiting property named  **TableStyle** .
+The property is called TableStyle2 because there is an exisiting property named  **TableStyle**.
 
 
 ## Example

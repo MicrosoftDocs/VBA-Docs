@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideHeight property (Excel)
 
-Returns the inside height of the plot area, in points. Read-write  **Double** .
+Returns the inside height of the plot area, in points. Read-write  **Double**.
 
 
 ## Syntax

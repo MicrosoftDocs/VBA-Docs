@@ -32,7 +32,7 @@ The  **SaveOption** property is set when the **[View](Outlook.View.md)** object 
 
 The following Microsoft Visual Basic for Applications (VBA) example displays the names of all views that can be accessed by all users in the  **Notes** folder.
 
-The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **View** object and a **Boolean** value that indicates if the View interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True** .
+The following example locks the user interface for all views that are available to all users. The subroutine  `LockView` accepts the **View** object and a **Boolean** value that indicates if the View interface will be locked. In this example the procedure is always called with the **Boolean** value set to **True**.
 
 
 

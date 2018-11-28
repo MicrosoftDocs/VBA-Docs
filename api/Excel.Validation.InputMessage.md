@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.InputMessage property (Excel)
 
-Returns or sets the data validation input message. Read/write  **String** .
+Returns or sets the data validation input message. Read/write  **String**.
 
 
 ## Syntax

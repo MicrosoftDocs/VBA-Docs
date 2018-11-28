@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DisplayGridLines property (Word)
 
- **True** if Microsoft Word displays the document grid. This property is the equivalent of the **Gridlines** command on the **View** menu. Read/write **Boolean** .
+ **True** if Microsoft Word displays the document grid. This property is the equivalent of the **Gridlines** command on the **View** menu. Read/write **Boolean**.
 
 
 ## Syntax

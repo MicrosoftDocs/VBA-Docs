@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowDrawings property (Word)
 
- **True** if objects created with the drawing tools are displayed in print layout view. Read/write **Boolean** .
+ **True** if objects created with the drawing tools are displayed in print layout view. Read/write **Boolean**.
 
 
 ## Syntax

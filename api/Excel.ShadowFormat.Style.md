@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Style property (Excel)
 
-Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](./Office.MsoShadowStyle.md)** .
+Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle](./Office.MsoShadowStyle.md)**.
 
 
 ## Syntax

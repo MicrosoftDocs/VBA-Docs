@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.ShowNegativeBubbles property (Word)
 
- **True** if negative bubbles are shown for the chart group. Read/write **Boolean** .
+ **True** if negative bubbles are shown for the chart group. Read/write **Boolean**.
 
 
 ## Syntax

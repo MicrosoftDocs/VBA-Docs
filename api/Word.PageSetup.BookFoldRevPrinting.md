@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BookFoldRevPrinting property (Word)
 
- **True** for Microsoft Word to reverse the printing order for book fold printing of bidirectional or Asian language documents. Read/write **Boolean** .
+ **True** for Microsoft Word to reverse the printing order for book fold printing of bidirectional or Asian language documents. Read/write **Boolean**.
 
 
 ## Syntax

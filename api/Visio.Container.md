@@ -30,6 +30,6 @@ Object
 
 ## Remarks
 
-The interface returned is the result of querying the  **IOleContainer** interface provided by the containing object for **IDispatch** .
+The interface returned is the result of querying the  **IOleContainer** interface provided by the containing object for **IDispatch**.
 
 

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Chart.DataTable property (Word)
 
-Returns the chart data table. Read-only  **[DataTable](Word.DataTable.md)** .
+Returns the chart data table. Read-only  **[DataTable](Word.DataTable.md)**.
 
 
 ## Syntax

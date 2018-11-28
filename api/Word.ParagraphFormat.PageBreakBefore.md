@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.PageBreakBefore property (Word)
 
- **True** if a page break is forced before the specified paragraphs. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
+ **True** if a page break is forced before the specified paragraphs. Can be **True** , **False** , or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ The  **IncludeNewItemsInFilter** property is used to track included/excluded ite
 
 ## Remarks
 
-Default value is  **False** .
+Default value is  **False**.
 
 When this setting is set to  **True** , excluded items are tracked when manual filtering is applied. When this setting is set to **False** , included items are tracked when manual filtering is applied.
 

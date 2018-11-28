@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.Active property (Excel)
 
- Returns a **Boolean** value indicating whether a **[ListObject](Excel.ListObject.md)** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean** .
+ Returns a **Boolean** value indicating whether a **[ListObject](Excel.ListObject.md)** object in a worksheet is active—that is, whether the active cell is inside the range of the **ListObject** object. Read-only **Boolean**.
 
 
 ## Syntax

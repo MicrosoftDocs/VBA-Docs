@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CalculationVersion property (Excel)
 
-Returns a number whose rightmost four digits are the minor calculation engine version number, and whose other digits (on the left) are the major version of Microsoft Excel. Read-only  **Long** .
+Returns a number whose rightmost four digits are the minor calculation engine version number, and whose other digits (on the left) are the major version of Microsoft Excel. Read-only  **Long**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If the workbook was saved in an earlier version of Excel and if the workbook has
 
 ## Example
 
-This example compares the version of Microsoft Excel with the version of Excel that the workbook was last calculated in. If the two version numbers are different, the example sets the  `blnFullCalc` variable to **True** .
+This example compares the version of Microsoft Excel with the version of Excel that the workbook was last calculated in. If the two version numbers are different, the example sets the  `blnFullCalc` variable to **True**.
 
 
 ```vb

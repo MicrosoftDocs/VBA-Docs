@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Characters.PhoneticCharacters property (Excel)
 
-Returns or sets the phonetic text in the specified  **[Characters](Excel.Characters.md)** object. Read/write **String** .
+Returns or sets the phonetic text in the specified  **[Characters](Excel.Characters.md)** object. Read/write **String**.
 
 
 ## Syntax

@@ -54,7 +54,7 @@ Here is a string Visio might log when  **visTraceEvents** is set:
 
 The number after -event: is the code of the event that occurred. In this case 0x8040 is the code for the  **ShapeAdded** event. The text following the event code differs from event to event.
 
-Setting the  **visTraceAdvises** flag writes a line to the Immediate window just before Visio calls an event handler procedure and another line just after the event handler returns. This includes event procedures in Microsoft Visual Basic for Applications (VBA) projects, for example, procedures in **ThisDocument** . Here is an example of what you might see:
+Setting the  **visTraceAdvises** flag writes a line to the Immediate window just before Visio calls an event handler procedure and another line just after the event handler returns. This includes event procedures in Microsoft Visual Basic for Applications (VBA) projects, for example, procedures in **ThisDocument**. Here is an example of what you might see:
 
 
 

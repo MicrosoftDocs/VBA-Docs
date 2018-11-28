@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Interior.InvertIfNegative property (Word)
 
- **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant** .
+ **True** if Microsoft Word inverts the pattern in the object when it corresponds to a negative number. Read/write **Variant**.
 
 
 ## Syntax

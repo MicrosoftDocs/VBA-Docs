@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleAction.ActionType Property (Outlook)
 
-Returns a constant from the  **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the **[RuleAction](Outlook.RuleAction.md)** . Read-only.
+Returns a constant from the  **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the **[RuleAction](Outlook.RuleAction.md)**. Read-only.
 
 
 ## Syntax

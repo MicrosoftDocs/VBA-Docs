@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Documents.CanCheckOut method (Word)
 
- **True** if Microsoft Word can check out a specified document from a server. Read/write **Boolean** .
+ **True** if Microsoft Word can check out a specified document from a server. Read/write **Boolean**.
 
 
 ## Syntax

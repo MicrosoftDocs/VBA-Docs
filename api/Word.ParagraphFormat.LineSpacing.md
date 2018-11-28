@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LineSpacing property (Word)
 
-Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single** .
+Returns or sets the line spacing (in points) for the specified paragraphs. Read/write  **Single**.
 
 
 ## Syntax

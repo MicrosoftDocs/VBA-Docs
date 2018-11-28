@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.PlotVisibleOnly property (Excel)
 
- **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean** .
+ **True** if only visible cells are plotted. **False** if both visible and hidden cells are plotted. Read/write **Boolean**.
 
 
 ## Syntax

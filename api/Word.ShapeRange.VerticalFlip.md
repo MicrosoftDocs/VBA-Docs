@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.VerticalFlip property (Word)
 
- **True** if the specified shape is flipped around the vertical axis. Read-only **MsoTriState** .
+ **True** if the specified shape is flipped around the vertical axis. Read-only **MsoTriState**.
 
 
 ## Syntax

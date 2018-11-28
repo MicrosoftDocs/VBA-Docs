@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrectEntry.RichText property (Word)
 
- **True** if formatting is stored with the AutoCorrect entry replacement text. Read-only **Boolean** .
+ **True** if formatting is stored with the AutoCorrect entry replacement text. Read-only **Boolean**.
 
 
 ## Syntax

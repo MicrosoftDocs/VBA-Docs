@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItems.AddCopy Method (Visio)
 
-Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** .
+Adds a copy of a  **GraphicItem** object to the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -41,12 +41,12 @@ GraphicItem
 
 ## Remarks
 
-The  **GraphicItem** object you want to add must already exist in the **GraphicItems** collection of another **Master** object of type **visTypeDataGraphic** .
+The  **GraphicItem** object you want to add must already exist in the **GraphicItems** collection of another **Master** object of type **visTypeDataGraphic**.
 
 After you use the  **Master.Open** to open a copy of a **Master** object of type **visTypeDataGraphic** for editing, you must use the **[Master.Close](Visio.Master.Close.md)** method to commit any changes you made to the master while it was open. Closing a copy of a data-graphic master also reapplies the data graphic to all shapes to which it was previously applied.
 
 
- **Note**  For more information about why it is necessary to edit a copy of a master instead of the master itself, see  **[Master.Open](Visio.Master.Open.md)** .
+ **Note**  For more information about why it is necessary to edit a copy of a master instead of the master itself, see  **[Master.Open](Visio.Master.Open.md)**.
 
 
 ## Example

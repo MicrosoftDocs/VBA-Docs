@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Forward property (Word)
 
- **True** if the find operation searches forward through the document. Read/write **Boolean** .
+ **True** if the find operation searches forward through the document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.HorizontalAnchor property (Excel)
 
-Returns or sets the horizontal anchor type for the specified text. Read/write  **[MsoHorizontalAnchor](./Office.MsoHorizontalAnchor.md)** .
+Returns or sets the horizontal anchor type for the specified text. Read/write  **[MsoHorizontalAnchor](./Office.MsoHorizontalAnchor.md)**.
 
 
 ## Syntax

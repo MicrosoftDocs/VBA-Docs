@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.Name Property (Outlook)
 
-Returns a  **String** value that represents the name of the **[Column](Outlook.Column.md)** . Read-only.
+Returns a  **String** value that represents the name of the **[Column](Outlook.Column.md)**. Read-only.
 
 
 ## Syntax

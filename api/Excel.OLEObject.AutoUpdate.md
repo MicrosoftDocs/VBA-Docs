@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.AutoUpdate property (Excel)
 
- **True** if the OLE object is updated automatically when the source changes. Valid only if the object is linked (its **OLEType** property must be **xlOLELink**). Read-only **Boolean** .
+ **True** if the OLE object is updated automatically when the source changes. Valid only if the object is linked (its **OLEType** property must be **xlOLELink**). Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectTableCells property (Word)
 
- **True** to automatically capitalize the first letter of table cells. Read/write **Boolean** .
+ **True** to automatically capitalize the first letter of table cells. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Locked property (Word)
 
- **True** if a style cannot be changed or edited. Read/write **Boolean** .
+ **True** if a style cannot be changed or edited. Read/write **Boolean**.
 
 
 ## Syntax

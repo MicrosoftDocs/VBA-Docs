@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConnectorFormat.BeginConnected property (Excel)
 
- **True** if the beginning of the specified connector is connected to a shape. Read-only **[MsoTriState](Office.MsoTriState.md)** .
+ **True** if the beginning of the specified connector is connected to a shape. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ ms.date: 06/08/2017
 | **msoFalse**|
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
-| **msoTrue** . The beginning of the specified connector is connected to a shape.|
+| **msoTrue**. The beginning of the specified connector is connected to a shape.|
 
 ## Example
 

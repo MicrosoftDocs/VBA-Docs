@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.OLAP property (Excel)
 
-Returns  **True** if the PivotTable cache is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean** .
+Returns  **True** if the PivotTable cache is connected to an Online Analytical Processing (OLAP) server. Read-only **Boolean**.
 
 
 ## Syntax

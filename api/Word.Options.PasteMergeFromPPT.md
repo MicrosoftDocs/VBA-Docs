@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteMergeFromPPT property (Word)
 
- **True** to merge text formatting when pasting from Microsoft PowerPoint. Read/write **Boolean** .
+ **True** to merge text formatting when pasting from Microsoft PowerPoint. Read/write **Boolean**.
 
 
 ## Syntax

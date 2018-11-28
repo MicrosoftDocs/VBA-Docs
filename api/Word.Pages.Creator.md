@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pages.Creator property (Word)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long** .
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
 
 
 ## Syntax

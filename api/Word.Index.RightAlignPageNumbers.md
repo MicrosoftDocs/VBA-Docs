@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.RightAlignPageNumbers property (Word)
 
- **True** if page numbers are aligned with the right margin in an index. Read/write **Boolean** .
+ **True** if page numbers are aligned with the right margin in an index. Read/write **Boolean**.
 
 
 ## Syntax

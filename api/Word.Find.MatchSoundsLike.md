@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchSoundsLike property (Word)
 
- **True** if words that sound similar to the text to find are returned by the find operation. Read/write **Boolean** .
+ **True** if words that sound similar to the text to find are returned by the find operation. Read/write **Boolean**.
 
 
 ## Syntax

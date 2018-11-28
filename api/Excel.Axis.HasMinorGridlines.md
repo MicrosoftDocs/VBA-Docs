@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.HasMinorGridlines property (Excel)
 
- **True** if the axis has minor gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean** .
+ **True** if the axis has minor gridlines. Only axes in the primary axis group can have gridlines. Read/write **Boolean**.
 
 
 ## Syntax

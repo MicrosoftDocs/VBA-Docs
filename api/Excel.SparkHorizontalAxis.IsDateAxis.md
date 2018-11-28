@@ -30,7 +30,7 @@ Returns whether the horizontal axis of the sparkline is based on date values. Re
 
 ## Remarks
 
- **True** if the horizontal axis is based on date values; otherwise **False** .
+ **True** if the horizontal axis is based on date values; otherwise **False**.
 
 
 ## See also

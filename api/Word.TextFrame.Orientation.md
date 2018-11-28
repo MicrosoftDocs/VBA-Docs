@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Orientation property (Word)
 
-Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation** .
+Returns or sets the orientation of the text inside the frame. Read/write  **MsoTextOrientation**.
 
 
 ## Syntax

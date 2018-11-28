@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmarks.ShowHidden property (Word)
 
- **True** if hidden bookmarks are included in the **Bookmarks** collection. Read/write **Boolean** .
+ **True** if hidden bookmarks are included in the **Bookmarks** collection. Read/write **Boolean**.
 
 
 ## Syntax

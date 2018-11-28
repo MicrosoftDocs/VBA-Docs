@@ -21,7 +21,7 @@ Abstracts communication between one or more  **[DataRecordset](Visio.DataRecords
 
 ## Remarks
 
-The default property of the  **DataConnection** object is **ID** .
+The default property of the  **DataConnection** object is **ID**.
 
 When you add a new  **DataRecordset** object to the **DataRecordsets** collection (by using a method other than **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)**) and you do not specify an existing **DataConnection** object (by passing the connection string associated with it to the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method), Visio creates a new **DataConnection** object.
 

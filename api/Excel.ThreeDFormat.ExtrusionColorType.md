@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ExtrusionColorType property (Excel)
 
-Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write  **[MsoExtrusionColorType](./Office.MsoExtrusionColorType.md)** .
+Returns or sets a value that indicates whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Read/write  **[MsoExtrusionColorType](./Office.MsoExtrusionColorType.md)**.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Returns or sets a value that indicates whether the extrusion color is based on t
 
 
 | **MsoExtrusionColorType** can be one of these **MsoExtrusionColorType** constants.|
-| **msoExtrusionColorAutomatic** . Extrusion color based on shape fill.|
+| **msoExtrusionColorAutomatic**. Extrusion color based on shape fill.|
 | **msoExtrusionColorTypeMixed**|
-| **msoExtrusionColorCustom** . Extrusion color independent of shape fill.|
+| **msoExtrusionColorCustom**. Extrusion color independent of shape fill.|
 
 ## Example
 

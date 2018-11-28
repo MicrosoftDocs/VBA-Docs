@@ -48,7 +48,7 @@ Under the following conditions, Outlook returns an error when you call the  **Ad
     
 - The specified item has not been saved.
     
-- The specified item represents a  **[StorageItem](Outlook.StorageItem.md)** .
+- The specified item represents a  **[StorageItem](Outlook.StorageItem.md)**.
     
 - No current view exists for the active explorer.
     

@@ -25,7 +25,7 @@ Clears the  **[PostItem](Outlook.PostItem.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property to **False** .
+Calling this method sets the  **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask.md)** property to **False**.
 
 
 ## See also

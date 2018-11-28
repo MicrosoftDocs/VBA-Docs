@@ -38,12 +38,12 @@ Opens the specified document and adds it to the [Documents](Word.documents.md) c
 | _Revert_|Optional| **Variant**|Controls what happens if FileName is the name of an open document.  **True** to discard any unsaved changes to the open document and reopen the file. **False** to activate the open document.|
 | _WritePasswordDocument_|Optional| **Variant**|The password for saving changes to the document.|
 | _WritePasswordTemplate_|Optional| **Variant**|The password for saving changes to the template.|
-| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **[WdOpenFormat](Word.WdOpenFormat.md)** constants. The default is **wdOpenFormatAuto** .|
+| _Format_|Optional| **Variant**|The file converter to be used to open the document. Can be one of the  **[WdOpenFormat](Word.WdOpenFormat.md)** constants. The default is **wdOpenFormatAuto**.|
 | _Encoding_|Optional| **Variant**|The document encoding (code page or character set) to be used by Word when you view the saved document. Can be any valid  **[MsoEncoding](./Office.MsoEncoding.md)** constant. For the list of valid **MsoEncoding** constants, see the Object Browser in the Visual Basic Editor. The default is the system code page.|
-| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default is **True** .|
+| _Visible_|Optional| **Variant**| **True** if the document is opened in a visible window. The default is **True**.|
 | _OpenAndRepair_|Optional| **Variant**| **True** to repair the document to prevent document corruption.|
-| _DocumentDirection_|Optional| **Variant**|Indicates the horizontal flow of text in a document. Can be any valid  **[WdDocumentDirection](Word.WdDocumentDirection.md)** constant. The default is **wdLeftToRight** .|
-| _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the **Encoding** dialog box that Word displays if the text encoding cannot be recognized. The default is **False** .|
+| _DocumentDirection_|Optional| **Variant**|Indicates the horizontal flow of text in a document. Can be any valid  **[WdDocumentDirection](Word.WdDocumentDirection.md)** constant. The default is **wdLeftToRight**.|
+| _NoEncodingDialog_|Optional| **Variant**| **True** to skip displaying the **Encoding** dialog box that Word displays if the text encoding cannot be recognized. The default is **False**.|
 | _XMLTransform_|Optional| **Variant**|Specifies a transform to use.|
 
 ## Return value

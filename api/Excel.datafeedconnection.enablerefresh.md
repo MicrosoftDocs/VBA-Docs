@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.EnableRefresh property (Excel)
 
- **True** if the connection can be refreshed by the user. The default value is **True** . **Boolean** Read/Write
+ **True** if the connection can be refreshed by the user. The default value is **True**. **Boolean** Read/Write
 
 
 ## Syntax

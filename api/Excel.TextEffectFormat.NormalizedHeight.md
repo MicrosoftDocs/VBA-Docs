@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.NormalizedHeight property (Excel)
 
- **True** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState** .
+ **True** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState**.
 
 
 ## Syntax

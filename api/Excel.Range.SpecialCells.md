@@ -45,16 +45,16 @@ Range
 
 |**xlCellType constants**|**Value**|
 |:-----|:-----|
-| **xlCellTypeAllFormatConditions** . Cells of any format|-4172|
-| **xlCellTypeAllValidation** . Cells having validation criteria|-4174|
-| **xlCellTypeBlanks** . Empty cells|4|
-| **xlCellTypeComments** . Cells containing notes|-4144|
-| **xlCellTypeConstants** . Cells containing constants|2|
-| **xlCellTypeFormulas** . Cells containing formulas|-4123|
-| **xlCellTypeLastCell** . The last cell in the used range|11|
-| **xlCellTypeSameFormatConditions** . Cells having the same format|-4173|
-| **xlCellTypeSameValidation** . Cells having the same validation criteria|-4175|
-| **xlCellTypeVisible** . All visible cells|12|
+| **xlCellTypeAllFormatConditions**. Cells of any format|-4172|
+| **xlCellTypeAllValidation**. Cells having validation criteria|-4174|
+| **xlCellTypeBlanks**. Empty cells|4|
+| **xlCellTypeComments**. Cells containing notes|-4144|
+| **xlCellTypeConstants**. Cells containing constants|2|
+| **xlCellTypeFormulas**. Cells containing formulas|-4123|
+| **xlCellTypeLastCell**. The last cell in the used range|11|
+| **xlCellTypeSameFormatConditions**. Cells having the same format|-4173|
+| **xlCellTypeSameValidation**. Cells having the same validation criteria|-4175|
+| **xlCellTypeVisible**. All visible cells|12|
 
 
 |** XlSpecialCellsValue constants**|**Value**|

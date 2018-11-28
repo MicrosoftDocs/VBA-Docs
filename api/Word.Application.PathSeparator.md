@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator property (Word)
 
-Returns the character used to separate folder names. This property returns a backslash (\). Read-only  **String** .
+Returns the character used to separate folder names. This property returns a backslash (\). Read-only  **String**.
 
 
 ## Syntax

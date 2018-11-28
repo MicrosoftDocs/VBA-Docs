@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.MailAddressFieldName property (Word)
 
-Returns or sets the name of the field that contains email addresses that are used when the mail merge destination is electronic mail. Read/write  **String** .
+Returns or sets the name of the field that contains email addresses that are used when the mail merge destination is electronic mail. Read/write  **String**.
 
 
 ## Syntax

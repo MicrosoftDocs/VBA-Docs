@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.IncludeHeaderFooter property (Word)
 
- **True** if the header and footer from the page design template are included in a letter created by the Letter Wizard. Read/write **Boolean** . Use the **[PageDesign](Word.LetterContent.PageDesign.md)** property to set the name of the template attached to a document created by the Letter Wizard.
+ **True** if the header and footer from the page design template are included in a letter created by the Letter Wizard. Read/write **Boolean**. Use the **[PageDesign](Word.LetterContent.PageDesign.md)** property to set the name of the template attached to a document created by the Letter Wizard.
 
 
 ## Syntax

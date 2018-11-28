@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.InnerDetail property (Excel)
 
-Returns or sets the name of the field that will be shown as detail when the  **ShowDetail** property is **True** for the innermost row or column field. Read/write **String** .
+Returns or sets the name of the field that will be shown as detail when the  **ShowDetail** property is **True** for the innermost row or column field. Read/write **String**.
 
 
 ## Syntax

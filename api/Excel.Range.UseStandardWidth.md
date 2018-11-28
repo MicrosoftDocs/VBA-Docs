@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.UseStandardWidth property (Excel)
 
- **True** if the column width of the **Range** object equals the standard width of the sheet. Returns **null** if the range contains more than one column and the columns aren't all the same width. Read/write **Variant** .
+ **True** if the column width of the **Range** object equals the standard width of the sheet. Returns **null** if the range contains more than one column and the columns aren't all the same width. Read/write **Variant**.
 
 
 ## Syntax

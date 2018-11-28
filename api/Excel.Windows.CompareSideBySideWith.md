@@ -33,7 +33,7 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
 ## Return value
 
- **Boolean** .
+ **Boolean**.
 
 
 ## Remarks

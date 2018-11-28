@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.Points property (Word)
 
-Returns the position of the specified node as a coordinate pair. Read-only  **Variant** .
+Returns the position of the specified node as a coordinate pair. Read-only  **Variant**.
 
 
 ## Syntax

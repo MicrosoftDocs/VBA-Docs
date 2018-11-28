@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Visible property (Word)
 
- **True** if the specified protected view window is visible. Read/write. **Boolean** .
+ **True** if the specified protected view window is visible. Read/write. **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Some methods and properties may be unavailable if the Visible property is  **False** .
+Some methods and properties may be unavailable if the Visible property is  **False**.
 
 
 ## See also

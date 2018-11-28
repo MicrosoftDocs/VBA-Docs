@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CheckGrammarAsYouType property (Word)
 
- **True** if Word checks grammar and marks errors automatically as you type. Read/write **Boolean** .
+ **True** if Word checks grammar and marks errors automatically as you type. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property marks grammatical errors, but to see them on screen, you must set the  **[ShowGrammaticalErrors](Word.Document.ShowGrammaticalErrors.md)** property to **True** .
+This property marks grammatical errors, but to see them on screen, you must set the  **[ShowGrammaticalErrors](Word.Document.ShowGrammaticalErrors.md)** property to **True**.
 
 
 ## Example

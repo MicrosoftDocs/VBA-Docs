@@ -40,11 +40,11 @@ Scales the height of the shape by a specified factor. For pictures and OLE objec
 
 
 | **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue** . Does not apply to this property.|
-| **msoFalse** . Scale the shape relative to its current size.|
-| **msoTriStateMixed** . Does not apply to this property.|
-| **msoTriStateToggle** . Does not apply to this property.|
-| **msoTrue** . Scale the shape relative to its original size.|
+| **msoCTrue**. Does not apply to this property.|
+| **msoFalse**. Scale the shape relative to its current size.|
+| **msoTriStateMixed**. Does not apply to this property.|
+| **msoTriStateToggle**. Does not apply to this property.|
+| **msoTrue**. Scale the shape relative to its original size.|
 
 ## Example
 

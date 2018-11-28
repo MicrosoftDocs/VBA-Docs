@@ -43,9 +43,9 @@ To stop the always-move-to-folder action for conversations items in a store, cal
 
 
 
- **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete** .
+ **Note**  Setting the Deleted Items folder as the  _MoveToFolder_ parameter in **SetAlwaysMoveToFolder** is not equivalent to calling **[SetAlwaysDelete](Outlook.Conversation.SetAlwaysDelete.md)** on the same store and conversation. Setting the _MoveToFolder_ parameter to the Deleted Items folder results in the **[GetAlwaysDelete](Outlook.Conversation.GetAlwaysDelete.md)** method returning the value **olDoNotDelete**.
 
-The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder** .
+The  **[BeforeItemMove](Outlook.Folder.BeforeItemMove.md)** event of the **Folder** object occurs when you call **SetAlwaysMoveToFolder**.
 
 
 ## Example

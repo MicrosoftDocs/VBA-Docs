@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebOptions.AllowPNG property (Excel)
 
- **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a Web page. **False** if PNG is not allowed as an output format. The default value is **False** . Read/write **Boolean** .
+ **True** if PNG (Portable Network Graphics) is allowed as an image format when you save documents as a Web page. **False** if PNG is not allowed as an output format. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

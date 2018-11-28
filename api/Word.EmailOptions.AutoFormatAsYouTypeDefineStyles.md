@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeDefineStyles property (Word)
 
- **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean** .
+ **True** if Word automatically creates new styles based on manual formatting. Read/write **Boolean**.
 
 
 ## Syntax

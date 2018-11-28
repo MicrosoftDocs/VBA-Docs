@@ -30,7 +30,7 @@ Returns or sets the list of MDX unique names for members at all levels of the hi
 
 ## Remarks
 
-The  **VisibleSlicerItemsList** property is only applicable for slicers that are based on OLAP data sources (**SlicerCache** . **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**).
+The  **VisibleSlicerItemsList** property is only applicable for slicers that are based on OLAP data sources (**SlicerCache**. **[OLAP](Excel.SlicerCache.OLAP.md)** = **True**).
 
 
 ## See also

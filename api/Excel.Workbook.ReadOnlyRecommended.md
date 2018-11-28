@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ReadOnlyRecommended property (Excel)
 
- **True** if the workbook was saved as read-only recommended. Read-only **Boolean** .
+ **True** if the workbook was saved as read-only recommended. Read-only **Boolean**.
 
 
 ## Syntax

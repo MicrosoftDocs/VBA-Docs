@@ -38,7 +38,7 @@ An  **[Inspector](Outlook.Inspector.md)** object that represents a new inspector
 
 ## Remarks
 
-This method is essentially identical to the  **GetInspector** property of an Outlook item, such as **[MailItem](Outlook.MailItem.md)** .
+This method is essentially identical to the  **GetInspector** property of an Outlook item, such as **[MailItem](Outlook.MailItem.md)**.
 
 
 ## Example

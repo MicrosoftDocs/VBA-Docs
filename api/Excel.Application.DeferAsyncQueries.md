@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DeferAsyncQueries property (Excel)
 
-Gets or sets whether asychronous queries to OLAP data sources are executed when a worksheet is calculated by VBA code. Read/write  **Boolean** .
+Gets or sets whether asychronous queries to OLAP data sources are executed when a worksheet is calculated by VBA code. Read/write  **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientColorType property (Excel)
 
-Returns the gradient color type for the specified fill. Read-only  **[MsoGradientColorType](Office.MsoGradientColorType.md)** .
+Returns the gradient color type for the specified fill. Read-only  **[MsoGradientColorType](Office.MsoGradientColorType.md)**.
 
 
 ## Syntax

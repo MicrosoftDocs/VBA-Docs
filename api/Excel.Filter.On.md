@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Filter.On property (Excel)
 
- **True** if the specified filter is on. Read-only **Boolean** .
+ **True** if the specified filter is on. Read-only **Boolean**.
 
 
 ## Syntax

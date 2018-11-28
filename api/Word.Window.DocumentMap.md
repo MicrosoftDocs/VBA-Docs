@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DocumentMap property (Word)
 
- **True** if the document map is visible. Read/write **Boolean** .
+ **True** if the document map is visible. Read/write **Boolean**.
 
 
 ## Syntax

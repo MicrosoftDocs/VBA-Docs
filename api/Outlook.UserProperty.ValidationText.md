@@ -25,7 +25,7 @@ Returns or sets a  **String** specifying the validation text for the specified u
 
 ## Remarks
 
-The validation text is the error message that a user receives when the  **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)** .
+The validation text is the error message that a user receives when the  **[Value](Outlook.UserProperty.Value.md)** does not meet the criteria specified in **[ValidationFormula](Outlook.UserProperty.ValidationFormula.md)**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TransitionNavigKeys property (Excel)
 
- **True** if transition navigation keys are active. Read/write **Boolean** .
+ **True** if transition navigation keys are active. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveSubsetFonts property (Word)
 
- **True** if Microsoft Word saves a subset of the embedded TrueType fonts with the document. Read/write **Boolean** .
+ **True** if Microsoft Word saves a subset of the embedded TrueType fonts with the document. Read/write **Boolean**.
 
 
 ## Syntax

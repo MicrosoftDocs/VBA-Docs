@@ -36,6 +36,6 @@ The  **ContainsWorkspaceEx** property replaces the read-only **ContainsWorkspace
 
 Note also that in previous versions of Visio, to save a document along with workspace information, you used the  **[Document.SaveAs](Visio.Document.SaveAs.md)** method, passing it the **visSaveAsWS** constant.
 
-Starting with Visio 2007, by default, workspace information is saved with all documents except stencils. To specify that workspace information not be saved with a document, set  **ContainsWorkspaceEx** to **False** .
+Starting with Visio 2007, by default, workspace information is saved with all documents except stencils. To specify that workspace information not be saved with a document, set  **ContainsWorkspaceEx** to **False**.
 
 

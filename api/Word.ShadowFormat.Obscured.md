@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Obscured property (Word)
 
- **MsoTrue** if the shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill. **MsoFalse** if the shadow has no fill and the outline of the shadow is visible through the shape if the shape has no fill. Read/write **MsoTriState** .
+ **MsoTrue** if the shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill. **MsoFalse** if the shadow has no fill and the outline of the shadow is visible through the shape if the shape has no fill. Read/write **MsoTriState**.
 
 
 ## Syntax

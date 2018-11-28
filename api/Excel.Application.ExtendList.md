@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ExtendList property (Excel)
 
- **True** if Microsoft Excel automatically extends formatting and formulas to new data that is added to a list. Read/write **Boolean** .
+ **True** if Microsoft Excel automatically extends formatting and formulas to new data that is added to a list. Read/write **Boolean**.
 
 
 ## Syntax

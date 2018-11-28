@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CombineCharacters property (Word)
 
- **True** if the specified range contains combined characters. Read/write **Boolean** .
+ **True** if the specified range contains combined characters. Read/write **Boolean**.
 
 
 ## Syntax

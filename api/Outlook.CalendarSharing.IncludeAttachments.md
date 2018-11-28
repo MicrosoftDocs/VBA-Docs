@@ -25,12 +25,12 @@ Returns or sets a  **Boolean** value that indicates whether attachments for cale
 
 ## Return value
 
- **True** if attachments for calendar items should be included; otherwise, **False** .
+ **True** if attachments for calendar items should be included; otherwise, **False**.
 
 
 ## Remarks
 
-This property must be set to  **false** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFreeBusyAndSubject** .
+This property must be set to  **false** if the **[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)** property of the **CalendarSharing** object is set to **olFreeBusyOnly** or **olFreeBusyAndSubject**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorkbookConnection.Description property (Excel)
 
-Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String** .
+Returns or sets a brief description for a  **WorkbookConnection** object. Read/write **String**.
 
 
 ## Syntax

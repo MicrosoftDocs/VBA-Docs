@@ -40,7 +40,7 @@ The  **ViewFit** property applies to drawing windows only, and can have the foll
 | **visFitPage**| 1|
 | **visFitWidth**| 2|
 
-If the value of the window's  **Type** property is not **visDrawing** , the **ViewFit** property returns **visFitNone** . Attempting to set the **ViewFit** property of this type of window raises an exception.
+If the value of the window's  **Type** property is not **visDrawing** , the **ViewFit** property returns **visFitNone**. Attempting to set the **ViewFit** property of this type of window raises an exception.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 

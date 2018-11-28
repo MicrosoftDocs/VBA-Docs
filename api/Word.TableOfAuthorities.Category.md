@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.Category property (Word)
 
-Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long** .
+Returns or sets the category of entries to be included in a table of authorities. Read/write  **Long**.
 
 
 ## Syntax

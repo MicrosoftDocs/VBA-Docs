@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.IncludeProtection property (Excel)
 
- **True** if the style includes the **FormulaHidden** and **Locked** protection properties. Read/write **Boolean** .
+ **True** if the style includes the **FormulaHidden** and **Locked** protection properties. Read/write **Boolean**.
 
 
 ## Syntax

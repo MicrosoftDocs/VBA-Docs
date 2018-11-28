@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DefaultSaveFormat property (Word)
 
-Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String** .
+Returns or sets the default format that will appear in the  **Save as type** box in the **Save As** dialog box. Read/write **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.Has3DEffect property (Word)
 
- **True** if a point has a three-dimensional appearance. Read/write **Boolean** .
+ **True** if a point has a three-dimensional appearance. Read/write **Boolean**.
 
 
 ## Syntax

@@ -59,7 +59,7 @@ Once you have created a data recordset, the connection string and query command 
 
 If the data recordset is associated with a  **[DataConnection](Visio.DataConnection.md)** object—that is, if you added it to the **DataRecordsets** collection by using either the **Add** or **AddFromConnectionFile** method—you can use the **[DataConnection](Visio.DataRecordset.DataConnection.md)** property of the **DataRecordset** object to get the associated **DataConnection** object.
 
-The default property of a  **DataRecordset** object is **[ID](Visio.DataRecordset.ID.md)** . The **ID** property value identifies the **DataRecordset** in the **DataRecordsets** collection, and is unique within the collection for any given document.
+The default property of a  **DataRecordset** object is **[ID](Visio.DataRecordset.ID.md)**. The **ID** property value identifies the **DataRecordset** in the **DataRecordsets** collection, and is unique within the collection for any given document.
 
 You can use the  **[Name](Visio.DataRecordset.Name.md)** property of the **DataRecordset** object to associate a display name with the data recordset.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendEntry.LegendKey property (Word)
 
-Returns the legend key that is associated with the entry. Read-only  **[LegendKey](Word.LegendKey.md)** .
+Returns the legend key that is associated with the entry. Read-only  **[LegendKey](Word.LegendKey.md)**.
 
 
 ## Syntax

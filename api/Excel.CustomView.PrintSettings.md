@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomView.PrintSettings property (Excel)
 
- **True** if print settings are included in the custom view. Read-only **Boolean** .
+ **True** if print settings are included in the custom view. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SortField.DataOption property (Excel)
 
-Specifies how to sort text in the range specified in  **SortField** object. Read/write **[xlSortDataOption](Excel.XlSortDataOption.md)** .
+Specifies how to sort text in the range specified in  **SortField** object. Read/write **[xlSortDataOption](Excel.XlSortDataOption.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Specifies how to sort text in the range specified in  **SortField** object. Read
 
 ## Remarks
 
- **xlSortDataOption** can be either **xlSortNormal** or **xlSortTextAsNumbers** .
+ **xlSortDataOption** can be either **xlSortNormal** or **xlSortTextAsNumbers**.
 
 
 ## See also

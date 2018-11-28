@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ProtectedViewWindow.Active property (Word)
 
- **True** if the specified protected view window is active. Read-only **Boolean** .
+ **True** if the specified protected view window is active. Read-only **Boolean**.
 
 
 ## Syntax

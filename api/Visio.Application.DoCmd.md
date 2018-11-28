@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-Constants for Microsoft Visio command IDs are declared by the Visio type library in  **[VisUICmds](Visio.visuicmds.md)** and are prefixed with **visCmd** .
+Constants for Microsoft Visio command IDs are declared by the Visio type library in  **[VisUICmds](Visio.visuicmds.md)** and are prefixed with **visCmd**.
 
 The  **DoCmd** method works best with commands that display dialog boxes.
 

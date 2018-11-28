@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Floor property (Word)
 
-Returns the floor of the 3-D chart. Read-only  **[Floor](Word.Floor.md)** .
+Returns the floor of the 3-D chart. Read-only  **[Floor](Word.Floor.md)**.
 
 
 ## Syntax

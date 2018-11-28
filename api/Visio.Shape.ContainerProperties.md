@@ -30,6 +30,6 @@ Returns the  **[ContainerProperties](Visio.ContainerProperties.md)** object asso
 
 ## Remarks
 
-If the shape is not a container, the  **ContainerProperties** property returns **Nothing** .
+If the shape is not a container, the  **ContainerProperties** property returns **Nothing**.
 
 

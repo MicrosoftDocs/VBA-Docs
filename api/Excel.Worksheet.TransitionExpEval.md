@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.TransitionExpEval property (Excel)
 
- **True** if Microsoft Excel uses Lotus 1-2-3 expression evaluation rules for the worksheet. Read/write **Boolean** .
+ **True** if Microsoft Excel uses Lotus 1-2-3 expression evaluation rules for the worksheet. Read/write **Boolean**.
 
 
 ## Syntax

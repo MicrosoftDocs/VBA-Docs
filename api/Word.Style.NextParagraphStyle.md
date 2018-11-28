@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NextParagraphStyle property (Word)
 
-Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant** .
+Returns or sets the style to be applied automatically to a new paragraph that is inserted after a paragraph formatted with the specified style. Read/write  **Variant**.
 
 
 ## Syntax

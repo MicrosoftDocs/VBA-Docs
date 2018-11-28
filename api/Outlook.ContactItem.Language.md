@@ -25,7 +25,7 @@ Returns or sets a  **String** that represents the language in which the contact 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLanguage** .
+This property corresponds to the MAPI property  **PidTagLanguage**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.From Property (Outlook)
 
-Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionFrom** . Read-only.
+Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object with a **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)** of **olConditionFrom**. Read-only.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Returns a  **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object 
 
 ## Remarks
 
-Use the returned  **ToOrFromRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the sender of the message is in the specified list of **[Recipients](Outlook.Recipients.md)** .
+Use the returned  **ToOrFromRuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a new rule that specifies the condition or exception condition that the sender of the message is in the specified list of **[Recipients](Outlook.Recipients.md)**.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **ToOrFromRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[ToOrFromRuleCondition.Enabled](Outlook.ToOrFromRuleCondition.Enabled.md)** will be **True** .
+This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **ToOrFromRuleCondition** object regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[ToOrFromRuleCondition.Enabled](Outlook.ToOrFromRuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

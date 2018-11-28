@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ConfirmConversions property (Word)
 
- **True** if Word displays the **Convert File** dialog box before it opens or inserts a file that isn't a Word document or template. In the **Convert File** dialog box, the user chooses the format to convert the file from. Read/write **Boolean** .
+ **True** if Word displays the **Convert File** dialog box before it opens or inserts a file that isn't a Word document or template. In the **Convert File** dialog box, the user chooses the format to convert the file from. Read/write **Boolean**.
 
 
 ## Syntax

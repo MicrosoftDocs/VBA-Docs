@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableEvents property (Excel)
 
- **True** if events are enabled for the specified object. Read/write **Boolean** .
+ **True** if events are enabled for the specified object. Read/write **Boolean**.
 
 
 ## Syntax

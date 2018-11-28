@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Superscript property (Excel)
 
- **True** if the font is formatted as superscript; **False** by default. Read/write **Variant** .
+ **True** if the font is formatted as superscript; **False** by default. Read/write **Variant**.
 
 
 ## Syntax

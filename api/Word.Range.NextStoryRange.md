@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.NextStoryRange property (Word)
 
-Returns a  **Range** object that refers to the next story. Read-only **Range** .
+Returns a  **Range** object that refers to the next story. Read-only **Range**.
 
 
 ## Syntax

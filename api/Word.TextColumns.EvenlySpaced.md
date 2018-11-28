@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.EvenlySpaced property (Word)
 
- **True** if text columns are evenly spaced. Read/write **Long** .
+ **True** if text columns are evenly spaced. Read/write **Long**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **EvenlySpaced** property can be **True** , **False** , or **wdUndefined** .
+The  **EvenlySpaced** property can be **True** , **False** , or **wdUndefined**.
 
-If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True** . Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
+If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True**. Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
 
 
 ## Example

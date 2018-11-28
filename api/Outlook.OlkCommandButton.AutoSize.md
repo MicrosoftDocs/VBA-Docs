@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
 ## Remarks
 
- The default value for this property is **False** .
+ The default value for this property is **False**.
 
 For a button control, this property specifies whether the control automatically adjusts to display the entire caption value.
 

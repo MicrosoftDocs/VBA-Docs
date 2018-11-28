@@ -27,7 +27,7 @@ Returns a  **String** that uniquely identifies the **[Conversation](Outlook.Conv
 
 This property associates the conversation header with other items in the same conversation. These items and the conversation all have the same value in their  **ConversationID** property.
 
-This property corresponds with the MAPI property  **PidTagConversationId** .
+This property corresponds with the MAPI property  **PidTagConversationId**.
 
 
 ## See also

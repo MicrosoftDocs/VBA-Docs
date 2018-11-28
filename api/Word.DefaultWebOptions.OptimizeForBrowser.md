@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.OptimizeForBrowser property (Word)
 
- **True** if Microsoft Word optimizes new Web pages created in Word for the Web browser specified by the **[BrowserLevel](Word.DefaultWebOptions.BrowserLevel.md)** property. Read/write **Boolean** .
+ **True** if Microsoft Word optimizes new Web pages created in Word for the Web browser specified by the **[BrowserLevel](Word.DefaultWebOptions.BrowserLevel.md)** property. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.DataLabel property (Word)
 
-Returns the data label that is associated with the trendline. Read-only  **[DataLabel](Word.DataLabel.md)** .
+Returns the data label that is associated with the trendline. Read-only  **[DataLabel](Word.DataLabel.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the data label that is associated with the trendline. Read-only  **[Data
 
 ## Remarks
 
-To enable data labels for a trendline, you need to set the  **[DisplayEquation](Word.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](Word.Trendline.DisplayRSquared.md)** property to **True** .
+To enable data labels for a trendline, you need to set the  **[DisplayEquation](Word.Trendline.DisplayEquation.md)** property or the **[DisplayRSquared](Word.Trendline.DisplayRSquared.md)** property to **True**.
 
 
 ## See also

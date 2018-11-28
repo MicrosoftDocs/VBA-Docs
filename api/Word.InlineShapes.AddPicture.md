@@ -30,8 +30,8 @@ Adds a picture to a document. Returns an  **[InlineShape](Word.InlineShape.md)**
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the picture.|
-| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False** .|
-| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False** .|
+| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False**.|
+| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False**.|
 | _Range_|Optional| **Variant**|The location where the picture will be placed in the text. If the range isn't collapsed, the picture replaces the range; otherwise, the picture is inserted. If this argument is omitted, the picture is placed automatically.|
 
 ## See also

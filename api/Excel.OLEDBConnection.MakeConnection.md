@@ -39,7 +39,7 @@ Various objects and methods might return a run-time error if the connection is d
 
  **Note**  Microsoft Excel might drop a connection temporarily in the course of a session (unknown to the VBA programmer), so this method proves useful.
 
-This method will result in a run-time error if the  **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property of the specified OLE DB connection has been set to **False** .
+This method will result in a run-time error if the  **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property of the specified OLE DB connection has been set to **False**.
 
 
 ## See also

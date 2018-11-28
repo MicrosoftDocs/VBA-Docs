@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.DisplayRSquared property (Excel)
 
- **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Setting this property to **True** automatically turns on data labels. Read/write **Boolean** .
+ **True** if the R-squared value of the trendline is displayed on the chart (in the same data label as the equation). Setting this property to **True** automatically turns on data labels. Read/write **Boolean**.
 
 
 ## Syntax

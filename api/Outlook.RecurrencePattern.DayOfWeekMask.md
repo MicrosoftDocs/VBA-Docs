@@ -27,12 +27,12 @@ Returns or sets an  **[OlDaysOfWeek](Outlook.OlDaysOfWeek.md)** constant represe
 
 The  **DayOfWeekMask** should be set after the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property has been set and before the **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** and **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** properties are set.
 
-Monthly and yearly patterns are only valid for a single day. Weekly patterns are only valid as the  **Or** of the **DayOfWeekMask** .
+Monthly and yearly patterns are only valid for a single day. Weekly patterns are only valid as the  **Or** of the **DayOfWeekMask**.
 
 
 ## Example
 
-This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)** . The properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** , **DayOfWeekMask** , **PatternStartDate** , **PatternEndDate** , **[Duration](Outlook.RecurrencePattern.Duration.md)** , **[StartTime](Outlook.RecurrencePattern.StartTime.md)** , **[EndTime](Outlook.RecurrencePattern.EndTime.md)** , and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs every Monday, Wednesday, and Friday effective 7/10/2006 until 8/25/2006 from 2:00 PM to 3:00 PM."
+This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)**. The properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** , **DayOfWeekMask** , **PatternStartDate** , **PatternEndDate** , **[Duration](Outlook.RecurrencePattern.Duration.md)** , **[StartTime](Outlook.RecurrencePattern.StartTime.md)** , **[EndTime](Outlook.RecurrencePattern.EndTime.md)** , and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs every Monday, Wednesday, and Friday effective 7/10/2006 until 8/25/2006 from 2:00 PM to 3:00 PM."
 
 
 ```vb
@@ -73,7 +73,7 @@ Sub RecurringAppointmentEveryMondayWednesdayFriday()
 End Sub
 ```
 
-Similar to the last example, this Visual Basic for Applications example also uses  **GetRecurrencePattern** to obtain the **RecurrencePattern** object for the newly-created **AppointmentItem** . The properties, **RecurrenceType** , **DayOfWeekMask** , **PatternStartDate** , **PatternEndDate** , **Duration** , **StartTime** , **EndTime** , and **Subject** are set, the appointment is saved and then displayed with the pattern: "Occurs every Monday, Tuesday, Wednesday, Thursday, and Friday effective 7/10/2006 until 8/4/2006."
+Similar to the last example, this Visual Basic for Applications example also uses  **GetRecurrencePattern** to obtain the **RecurrencePattern** object for the newly-created **AppointmentItem**. The properties, **RecurrenceType** , **DayOfWeekMask** , **PatternStartDate** , **PatternEndDate** , **Duration** , **StartTime** , **EndTime** , and **Subject** are set, the appointment is saved and then displayed with the pattern: "Occurs every Monday, Tuesday, Wednesday, Thursday, and Friday effective 7/10/2006 until 8/4/2006."
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.WordWrap property (Word)
 
- **True** if Microsoft Word wraps Latin text in the middle of a word in the specified paragraphs. Read/write **Long** .
+ **True** if Microsoft Word wraps Latin text in the middle of a word in the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax

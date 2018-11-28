@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.Type property (Word)
 
-Returns or sets the trendline type. Read/write  **[xlTrendlineType](Word.xltrendlinetype.md)** .
+Returns or sets the trendline type. Read/write  **[xlTrendlineType](Word.xltrendlinetype.md)**.
 
 
 ## Syntax

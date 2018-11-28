@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.MailMergeDataView property (Word)
 
- **True** if mail merge data is displayed instead of mail merge fields in the specified window. Read/write **Boolean** .
+ **True** if mail merge data is displayed instead of mail merge fields in the specified window. Read/write **Boolean**.
 
 
 ## Syntax

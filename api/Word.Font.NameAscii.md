@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.NameAscii property (Word)
 
-Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write  **String** .
+Returns or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write  **String**.
 
 
 ## Syntax

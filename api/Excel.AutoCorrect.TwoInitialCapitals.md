@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.TwoInitialCapitals property (Excel)
 
- **True** if words that begin with two capital letters are corrected automatically. Read/write **Boolean** .
+ **True** if words that begin with two capital letters are corrected automatically. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.ScrollColumn property (Excel)
 
-Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long** .
+Returns or sets the number of the leftmost column in the pane or window. Read/write  **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Importance Property (Outlook)
 
-Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicating the relative importance level for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance** .
+This property corresponds to the MAPI property  **PidTagImportance**.
 
 
 ## See also

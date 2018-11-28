@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.FontItalic property (Excel)
 
-Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+Returns  **msoTrue** if the font in the specified WordArt is italic. Read/write **[MsoTriState](./Office.MsoTriState.md)**.
 
 
 ## Syntax

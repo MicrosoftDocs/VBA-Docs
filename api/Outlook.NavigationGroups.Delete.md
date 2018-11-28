@@ -38,7 +38,7 @@ The  **Delete** method raises an error if:
 
 -  The navigation group specified in _Group_ contains navigation folders in its **[NavigationFolders](Outlook.NavigationFolders.md)** collection.
     
-- The  **[GroupType](Outlook.NavigationGroup.GroupType.md)** property of the navigation group specified in _Group_ is set to **olMyFoldersGroup** .
+- The  **[GroupType](Outlook.NavigationGroup.GroupType.md)** property of the navigation group specified in _Group_ is set to **olMyFoldersGroup**.
     
 - The parent of the  **NavigationGroups** collection is a **[MailModule](Outlook.MailModule.md)** object.
     

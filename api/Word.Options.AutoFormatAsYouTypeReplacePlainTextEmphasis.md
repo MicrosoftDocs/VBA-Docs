@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatAsYouTypeReplacePlainTextEmphasis property (Word)
 
- **True** if manual emphasis characters are automatically replaced with character formatting as you type. For example, "*bold*" is changed to " **bold** " and "_underline_" is changed to "underline." Read/write **Boolean** .
+ **True** if manual emphasis characters are automatically replaced with character formatting as you type. For example, "*bold*" is changed to " **bold** " and "_underline_" is changed to "underline." Read/write **Boolean**.
 
 
 ## Syntax

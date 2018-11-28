@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.DashStyle property (Word)
 
-Returns or sets the dash style for the specified line. Read/write  **MsoLineDashStyle** .
+Returns or sets the dash style for the specified line. Read/write  **MsoLineDashStyle**.
 
 
 ## Syntax

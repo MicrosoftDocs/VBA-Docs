@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileColumnDataTypes property (Excel)
 
-Returns or sets an ordered array of constants that specify the data types applied to the corresponding columns in the text file that you are importing into a query table. The default constant for each column is  **xlGeneral** . Read/write **Variant** .
+Returns or sets an ordered array of constants that specify the data types applied to the corresponding columns in the text file that you are importing into a query table. The default constant for each column is  **xlGeneral**. Read/write **Variant**.
 
 
 ## Syntax
@@ -50,7 +50,7 @@ Use  **xlEMDFormat** only if Chinese (Taiwan) language support is installed and 
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFileColumnDataTypes** property applies only to **QueryTable** objects.
 

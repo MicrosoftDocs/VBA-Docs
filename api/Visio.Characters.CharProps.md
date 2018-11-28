@@ -44,7 +44,7 @@ The  **CharProps** property is a write-only property. To retrieve formatting pro
 
 The values of the CellIndex argument correspond to cells in the Character section of the ShapeSheet window, and the values of the  **CharProps** property correspond to the values that can be entered in those cells.
 
-Constants for CellIndex and for the  **CharProps** property value are declared in the Visio type library in **VisCellIndices** .
+Constants for CellIndex and for the  **CharProps** property value are declared in the Visio type library in **VisCellIndices**.
 
 
 

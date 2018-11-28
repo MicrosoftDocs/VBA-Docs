@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.Container property (Word)
 
-Returns the object that represents the container application for the specified document. Read-only  **Object** .
+Returns the object that represents the container application for the specified document. Read-only  **Object**.
 
 
 ## Syntax

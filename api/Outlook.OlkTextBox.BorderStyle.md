@@ -25,7 +25,7 @@ Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that 
 
 ## Remarks
 
-The default value is  **olBorderStyleSingle** .
+The default value is  **olBorderStyleSingle**.
 
 
 ## See also

@@ -31,7 +31,7 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 |:-----|:-----|:-----|:-----|
 | _Address_|Required| **String**|The address of the target document.|
 | _SubAddress_|Optional| **Variant**|The location within the target document. The default value is the empty string.|
-| _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False** .|
+| _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False**.|
 | _AddHistory_|Optional| **Variant**|Not used. Reserved for future use.|
 | _ExtraInfo_|Optional| **Variant**|A  **String** or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use _ExtraInfo_ to specify the coordinates of an image map, the contents of a form, or a FAT file name.|
 | _Method_|Optional| **Variant**| Specifies the way _ExtraInfo_ is attached. Can be one of the **[MsoExtraInfoMethod](./Office.MsoExtraInfoMethod.md)** constants.|
@@ -44,8 +44,8 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 
 
 | **MsoExtraInfoMethod** type can be one of these **MsoExtraInfoMethod** constants.|
-| **msoMethodGet** . _ExtraInfo_ is a **String** that?s appended to the address.|
-| **msoMethodPost** . _ExtraInfo_ is posted as a **String** or byte array.|
+| **msoMethodGet**. _ExtraInfo_ is a **String** that?s appended to the address.|
+| **msoMethodPost**. _ExtraInfo_ is posted as a **String** or byte array.|
 
 ## Example
 

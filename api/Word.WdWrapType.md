@@ -17,7 +17,7 @@ Specifies how to wrap text around a shape.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **wdWrapInline**|7|Places shapes in line with text.|
-| **wdWrapNone**|3|Places shape in front of text. See also  **wdWrapFront** .|
+| **wdWrapNone**|3|Places shape in front of text. See also  **wdWrapFront**.|
 | **wdWrapSquare**|0|Wraps text around the shape. Line continuation is on the oposite side of the shape.|
 | **wdWrapThrough**|2|Wraps text around the shape.|
 | **wdWrapTight**|1|Wraps text close to the shape.|

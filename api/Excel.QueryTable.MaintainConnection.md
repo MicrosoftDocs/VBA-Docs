@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.MaintainConnection property (Excel)
 
- **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True** . Read/write **Boolean** .
+ **True** if the connection to the specified data source is maintained after the refresh and until the workbook is closed. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-You can set the  **MaintainConnection** property only if the **[QueryType](Excel.QueryTable.QueryType.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery** .
+You can set the  **MaintainConnection** property only if the **[QueryType](Excel.QueryTable.QueryType.md)** property of the query table or PivotTable cache is set to **xlOLEDBQuery**.
 
 If you anticipate frequent queries to a server, setting this property to  **True** might improve performance by reducing reconnection time. Setting the property to **False** causes an open connection to be closed.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **MaintainConnection** property.
 

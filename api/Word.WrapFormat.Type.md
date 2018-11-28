@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WrapFormat.Type property (Word)
 
-Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.WdWrapType.md)** .
+Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.WdWrapType.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayRecentFiles property (Excel)
 
- **True** if the list of recently used files is displayed in the UI. Read/write **Boolean** .
+ **True** if the list of recently used files is displayed in the UI. Read/write **Boolean**.
 
 
 ## Syntax

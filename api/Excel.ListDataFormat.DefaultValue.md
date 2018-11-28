@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.DefaultValue property (Excel)
 
- Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant** .
+ Returns **Variant** representing the default data type value for a new row in a column. The **Nothing** object is returned when the schema does not specify a default value. Read-only **Variant**.
 
 
 ## Syntax

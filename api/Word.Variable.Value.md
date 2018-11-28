@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Variable.Value property (Word)
 
-Returns or sets the value of a document variable. Read/write  **String** .
+Returns or sets the value of a document variable. Read/write  **String**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns or sets a  **String** value specifying the text string used by the condi
 
 ## Remarks
 
-This property is ignored if the  **[Type](Excel.FormatCondition.Type.md)** property is not set to **xlTextString** .
+This property is ignored if the  **[Type](Excel.FormatCondition.Type.md)** property is not set to **xlTextString**.
 
 
 ## See also

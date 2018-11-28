@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoFormatAsYouTypeReplaceHyperlinks property (Excel)
 
- **True** (default) if Microsoft Excel automatically formats hyperlinks as you type. **False** if Excel does not automatically format hyperlinks as you type. Read/write **Boolean** .
+ **True** (default) if Microsoft Excel automatically formats hyperlinks as you type. **False** if Excel does not automatically format hyperlinks as you type. Read/write **Boolean**.
 
 
 ## Syntax

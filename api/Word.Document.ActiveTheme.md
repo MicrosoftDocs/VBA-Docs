@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveTheme property (Word)
 
-Returns the name of the active theme plus the theme formatting options for the specified document. Read-only  **String** .
+Returns the name of the active theme plus the theme formatting options for the specified document. Read-only  **String**.
 
 
 ## Syntax

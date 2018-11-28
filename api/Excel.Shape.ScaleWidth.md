@@ -40,11 +40,11 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 
 
 | **MsoTriState** can be one of these **MsoTriState** constants.|
-| **msoCTrue** . Does not apply to this property.|
-| **msoFalse** . To scale it relative to its current size.|
-| **msoTriStateMixed** . Does not apply to this property.|
-| **msoTriStateToggle** . Does not apply to this property.|
-| **msoTrue** . Can only use this argument if the specified shape is a picture or an OLE object.|
+| **msoCTrue**. Does not apply to this property.|
+| **msoFalse**. To scale it relative to its current size.|
+| **msoTriStateMixed**. Does not apply to this property.|
+| **msoTriStateToggle**. Does not apply to this property.|
+| **msoTrue**. Can only use this argument if the specified shape is a picture or an OLE object.|
 
 ## Example
 

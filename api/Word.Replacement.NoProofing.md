@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Replacement.NoProofing property (Word)
 
- **True** if Microsoft Word replaces text that the spelling and grammar checker ignores. Read/write **Long** .
+ **True** if Microsoft Word replaces text that the spelling and grammar checker ignores. Read/write **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.IncludeCategoryHeader property (Word)
 
- **True** if the category name for a group of entries appears in the table of authorities. Read/write **Boolean** .
+ **True** if the category name for a group of entries appears in the table of authorities. Read/write **Boolean**.
 
 
 ## Syntax

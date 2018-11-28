@@ -38,10 +38,10 @@ Returns a  **[FileDialog](Office.FileDialog.md)** object representing an instanc
 
 
 | **MsoFileDialogType** can be one of these **MsoFileDialogType** constants.|
-| **msoFileDialogFilePicker** . Allows user to select a file.|
-| **msoFileDialogFolderPicker** . Allows user to select a folder.|
-| **msoFileDialogOpen** . Allows user to open a file.|
-| **msoFileDialogSaveAs** . Allows user to save a file.|
+| **msoFileDialogFilePicker**. Allows user to select a file.|
+| **msoFileDialogFolderPicker**. Allows user to select a folder.|
+| **msoFileDialogOpen**. Allows user to open a file.|
+| **msoFileDialogSaveAs**. Allows user to save a file.|
 
 ## Example
 

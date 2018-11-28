@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Column.IsLast property (Word)
 
- **True** if the specified column or row is the last one in the table. Read-only **Boolean** .
+ **True** if the specified column or row is the last one in the table. Read-only **Boolean**.
 
 
 ## Syntax

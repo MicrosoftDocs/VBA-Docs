@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.EnableAutoRecover property (Excel)
 
-Saves changed files, of all formats, on a timed interval. Read/write  **Boolean** .
+Saves changed files, of all formats, on a timed interval. Read/write  **Boolean**.
 
 
 ## Syntax

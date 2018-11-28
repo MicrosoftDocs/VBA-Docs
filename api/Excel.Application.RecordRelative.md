@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.RecordRelative property (Excel)
 
- **True** if macros are recorded using relative references; **False** if recording is absolute. Read-only **Boolean** .
+ **True** if macros are recorded using relative references; **False** if recording is absolute. Read-only **Boolean**.
 
 
 ## Syntax

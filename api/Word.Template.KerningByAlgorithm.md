@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Template.KerningByAlgorithm property (Word)
 
- **True** if Microsoft Word kerns half-width Latin characters and punctuation marks in the specified document. Read/write **Boolean** .
+ **True** if Microsoft Word kerns half-width Latin characters and punctuation marks in the specified document. Read/write **Boolean**.
 
 
 ## Syntax

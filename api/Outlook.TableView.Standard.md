@@ -25,7 +25,7 @@ Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.Ta
 
 ## Remarks
 
-The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True** .
+The  **[Reset](Outlook.View.Reset.md)** method can only be used on a view if the value of this property is set to **True**.
 
 
 ## Example

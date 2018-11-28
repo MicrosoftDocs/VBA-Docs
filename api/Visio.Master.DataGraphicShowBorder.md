@@ -37,6 +37,6 @@ Setting the  **DataGraphicShowBorder** property to **False** (0) hides the borde
 
 The value of the  **DataGraphicShowBorder** property corresponds to the setting of the **Show border around items at default position** box under **Display options** in the **New Data Graphic** or **Edit Data Graphic** dialog box.
 
-A data graphic is a  **Master** object of type **visTypeDataGraphic** . Before you can set any property of a data graphic master, you must use the **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.
+A data graphic is a  **Master** object of type **visTypeDataGraphic**. Before you can set any property of a data graphic master, you must use the **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableWizard property (Excel)
 
- **True** if the **PivotTable Wizard** is available. The default value is **True** . Read/write **Boolean** .
+ **True** if the **PivotTable Wizard** is available. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

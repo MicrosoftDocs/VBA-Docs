@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.AutoScaling property (Word)
 
- **True** if Microsoft Word scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. The **[RightAngleAxes](Word.Chart.RightAngleAxes.md)** property must be **True** . Read/write **Boolean** .
+ **True** if Microsoft Word scales a 3-D chart so that it is closer in size to the equivalent 2-D chart. The **[RightAngleAxes](Word.Chart.RightAngleAxes.md)** property must be **True**. Read/write **Boolean**.
 
 
 ## Syntax

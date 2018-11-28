@@ -30,7 +30,7 @@ Returns or sets whether to order and remove duplicates when displaying the hiera
 
 ## Remarks
 
- **True** if the hierarchy of the named set is displayed as ordered with duplicates removed; otherwise **False** .
+ **True** if the hierarchy of the named set is displayed as ordered with duplicates removed; otherwise **False**.
 
 The value of this property corresponds to the  **Automatically order and remove duplicates from the set** check box in the **New/Modify Set** dialog box when a named set is created or edited. To create a new named set from data in a PivotTable based on an OLAP data source, click the PivotTable, click **Field, Items, & Sets** on the **PivotTable Tools Options** tab on the ribbon, click **Manage Sets**, click  **New** in the ** Set Manager** dialog box, and then click **Create Set using MDX**. This will display the  **New Set** dialog box, which contains the **Automatically order and remove duplicates from the set** check box. Similarly, if you select an existing named set in the **Set Manager** dialog box, and then click **Edit**, the  **Modify Set** dialog box is displayed.
 

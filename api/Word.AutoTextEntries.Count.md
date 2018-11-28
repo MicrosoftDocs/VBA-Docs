@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntries.Count property (Word)
 
-Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)** collection. Read-only **Long** .
+Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)** collection. Read-only **Long**.
 
 
 ## Syntax

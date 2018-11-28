@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.KeepChangeHistory property (Excel)
 
- **True** if change tracking is enabled for the shared workbook. Read/write **Boolean** .
+ **True** if change tracking is enabled for the shared workbook. Read/write **Boolean**.
 
 
 ## Syntax

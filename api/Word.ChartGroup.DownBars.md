@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.DownBars property (Word)
 
-Returns the down bars on a line chart. Read-only  **[DownBars](Word.DownBars.md)** .
+Returns the down bars on a line chart. Read-only  **[DownBars](Word.DownBars.md)**.
 
 
 ## Syntax

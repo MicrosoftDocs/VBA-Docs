@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintNotes property (Excel)
 
- **True** if cell notes are printed as end notes with the sheet. Applies only to worksheets. Read/write **Boolean** .
+ **True** if cell notes are printed as end notes with the sheet. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax

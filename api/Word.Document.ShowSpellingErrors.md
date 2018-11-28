@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ShowSpellingErrors property (Word)
 
- **True** if Microsoft Word underlines spelling errors in the document. Read/write **Boolean** .
+ **True** if Microsoft Word underlines spelling errors in the document. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True** .
+To view spelling errors in a document, you must set the  **[CheckSpellingAsYouType](Word.Options.CheckSpellingAsYouType.md)** property to **True**.
 
 
 ## Example

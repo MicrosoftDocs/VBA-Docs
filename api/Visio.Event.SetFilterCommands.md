@@ -68,7 +68,7 @@ For an event to successfully pass through a command filter, it must satisfy the 
     
 
 
-If there are no  **True** ranges in the array, events are considered **True** .
+If there are no  **True** ranges in the array, events are considered **True**.
 
 For example, to set up an array that blocks out a single command, use the following: 
 

@@ -30,13 +30,13 @@ Creates a new trendline.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[xlTrendlineType](Excel.XlTrendlineType.md)**|The trendline type.|
-| _Order_|Optional| **Variant**| **Variant** . if _Type_ is **xlPolynomial** . The trendline order. Must be an integer from 2 to 6, inclusive.|
-| _Period_|Optional| **Variant**|if  _Type_ is **xlMovingAvg** . The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.|
+| _Order_|Optional| **Variant**| **Variant**. if _Type_ is **xlPolynomial**. The trendline order. Must be an integer from 2 to 6, inclusive.|
+| _Period_|Optional| **Variant**|if  _Type_ is **xlMovingAvg**. The trendline period. Must be an integer greater than 1 and less than the number of data points in the series you are adding a trendline to.|
 | _Forward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends forward.|
 | _Backward_|Optional| **Variant**|The number of periods (or units on a scatter chart) that the trendline extends backward.|
 | _Intercept_|Optional| **Variant**|The trendline intercept. If this argument is omitted, the intercept is automatically set by the regression.|
-| _DisplayEquation_|Optional| **Variant**| **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default value is **False** .|
-| _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False** .|
+| _DisplayEquation_|Optional| **Variant**| **True** to display the equation of the trendline on the chart (in the same data label as the R-squared value). The default value is **False**.|
+| _DisplayRSquared_|Optional| **Variant**| **True** to display the R-squared value of the trendline on the chart (in the same data label as the equation). The default value is **False**.|
 | _Name_|Optional| **Variant**|The name of the trendline as text. If this argument is omitted, Microsoft Excel generates a name.|
 
 ## Return value

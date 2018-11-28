@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.ShowBubbleSize property (Excel)
 
- **True** to show the bubble size for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to show the bubble size for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax

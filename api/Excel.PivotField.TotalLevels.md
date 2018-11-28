@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.TotalLevels property (Excel)
 
-Returns the total number of fields in the current field group. If the field isn't grouped, or if the data source is OLAP-based,  **TotalLevels** returns the value 1. Read-only **Long** .
+Returns the total number of fields in the current field group. If the field isn't grouped, or if the data source is OLAP-based,  **TotalLevels** returns the value 1. Read-only **Long**.
 
 
 ## Syntax

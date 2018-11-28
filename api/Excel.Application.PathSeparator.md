@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PathSeparator property (Excel)
 
-Returns the path separator character ("\\"). Read-only  **String** .
+Returns the path separator character ("\\"). Read-only  **String**.
 
 
 ## Syntax

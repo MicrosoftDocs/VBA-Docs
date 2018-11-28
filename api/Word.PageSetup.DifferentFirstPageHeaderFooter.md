@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.DifferentFirstPageHeaderFooter property (Word)
 
- **True** if a different header or footer is used on the first page. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
+ **True** if a different header or footer is used on the first page. Can be **True** , **False** , or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

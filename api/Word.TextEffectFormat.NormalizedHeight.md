@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.NormalizedHeight property (Word)
 
- **MsoTrue** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState** .
+ **MsoTrue** if all characters (both uppercase and lowercase) in the specified WordArt are the same height. Read/write **MsoTriState**.
 
 
 ## Syntax

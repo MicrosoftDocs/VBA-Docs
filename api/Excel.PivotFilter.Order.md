@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotFilter.Order property (Excel)
 
-Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer** .
+Specifies the evaluation order of the filter among all Value filters applied to the entire PivotTable. Read/write  **Integer**.
 
 
 ## Syntax

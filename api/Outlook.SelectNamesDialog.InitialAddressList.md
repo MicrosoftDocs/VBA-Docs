@@ -27,7 +27,7 @@ Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that determ
 
 Setting the  **InitialAddressList** property is the programmatic equivalent to selecting an **AddressList** from the drop-down list for **Address Book** in the **Select Names** dialog box.
 
-In its default state,  **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** set to **True** . **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
+In its default state,  **InitialAddressList** is the **AddressList** that has the property **[AddressList.IsInitialAddressList](Outlook.AddressList.IsInitialAddressList.md)** set to **True**. **IsInitialAddressList** corresponds to setting **Show this address list first** in the **Addressing** dialog box, which is available by clicking **Tools**, and then  **Options** in the **Address Book** dialog box.
 
 
 ## Example

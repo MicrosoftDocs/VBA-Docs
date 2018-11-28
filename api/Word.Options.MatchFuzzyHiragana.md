@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MatchFuzzyHiragana property (Word)
 
- **True** if Microsoft Word ignores the distinction between hiragana and katakana during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between hiragana and katakana during a search. Read/write **Boolean**.
 
 
 ## Syntax

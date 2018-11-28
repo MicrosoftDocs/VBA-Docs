@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.Flip Method (Visio)
 
-Flips selected shapes either as a group or individually about their pins. Returns  **Nothing** .
+Flips selected shapes either as a group or individually about their pins. Returns  **Nothing**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Flips selected shapes either as a group or individually about their pins. Return
 |:-----|:-----|:-----|:-----|
 | _FlipDirection_|Required| **VisFlipDirection**|Specifies the direction in which to flip the selection. See Remarks for possible values.|
 | _FlipType_|Optional| **VisFlipTypes**|Specifes how selection is to be flipped. See Remarks for possible values.|
-| _BlastGuards_|Optional| **Boolean**| **True** to override formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied; **False** to leave guarded formulas unchanged. The default is **False** .|
+| _BlastGuards_|Optional| **Boolean**| **True** to override formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied; **False** to leave guarded formulas unchanged. The default is **False**.|
 | _PinX_|Optional| **Double**|When  _FlipType_ is **visFlipSelectionWithPin** , specifies the X-position of the pin about which the selection is to be flipped.|
 | _PinY_|Optional| **Double**|When  _FlipType_ is **visFlipSelectionWithPin** , specifies the Y-position of the pin about which the selection is to be flipped.|
 | _PinUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _PinX_ and _PinY_. See Remarks for possible values. The default is inches.|

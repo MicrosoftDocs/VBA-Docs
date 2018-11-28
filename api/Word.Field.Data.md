@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.Data property (Word)
 
-Returns or sets data in an ADDIN field. Read/write  **String** .
+Returns or sets data in an ADDIN field. Read/write  **String**.
 
 
 ## Syntax

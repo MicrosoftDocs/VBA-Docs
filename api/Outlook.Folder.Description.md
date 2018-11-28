@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the description of the folder. Read/w
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagComment** .
+This property corresponds to the MAPI property  **PidTagComment**.
 
 
 ## See also

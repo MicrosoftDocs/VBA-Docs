@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.DataLabel property (Word)
 
-Returns the data label associated with the point. Read-only  **[DataLabel](Word.DataLabel.md)** .
+Returns the data label associated with the point. Read-only  **[DataLabel](Word.DataLabel.md)**.
 
 
 ## Syntax

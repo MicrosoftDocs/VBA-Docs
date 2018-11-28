@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LegendKey.Smooth property (Word)
 
- **True** if curve smoothing is turned on for the legend key. Read/write **Boolean** .
+ **True** if curve smoothing is turned on for the legend key. Read/write **Boolean**.
 
 
 ## Syntax

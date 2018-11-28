@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CapsLock property (Word)
 
- **True** if the CAPS LOCK key is turned on. Read-only **Boolean** .
+ **True** if the CAPS LOCK key is turned on. Read-only **Boolean**.
 
 
 ## Syntax

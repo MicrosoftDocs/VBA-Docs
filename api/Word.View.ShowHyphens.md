@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowHyphens property (Word)
 
- **True** if optional hyphens are displayed. An optional hyphen indicates where to break a word when it falls at the end of a line. Read/write **Boolean** .
+ **True** if optional hyphens are displayed. An optional hyphen indicates where to break a word when it falls at the end of a line. Read/write **Boolean**.
 
 
 ## Syntax

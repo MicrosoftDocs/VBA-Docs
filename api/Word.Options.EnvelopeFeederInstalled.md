@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.EnvelopeFeederInstalled property (Word)
 
- **True** if the current printer has a special feeder for envelopes. Read-only **Boolean** .
+ **True** if the current printer has a special feeder for envelopes. Read-only **Boolean**.
 
 
 ## Syntax

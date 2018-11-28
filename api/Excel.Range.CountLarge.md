@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.CountLarge property (Excel)
 
-Returns a value that represents the number of objects in the collection. Read-only  **Variant** .
+Returns a value that represents the number of objects in the collection. Read-only  **Variant**.
 
 
 ## Syntax

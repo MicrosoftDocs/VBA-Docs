@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.InsetPen property (Word)
 
- **MsoTrue** to draw lines inside a specified shape. Read/write **MsoTriState** .
+ **MsoTrue** to draw lines inside a specified shape. Read/write **MsoTriState**.
 
 
 ## Syntax

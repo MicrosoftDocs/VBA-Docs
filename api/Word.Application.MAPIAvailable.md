@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MAPIAvailable property (Word)
 
- **True** if MAPI is installed. Read-only **Boolean** .
+ **True** if MAPI is installed. Read-only **Boolean**.
 
 
 ## Syntax

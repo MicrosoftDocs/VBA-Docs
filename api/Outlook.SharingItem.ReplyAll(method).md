@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReplyAll Method (Outlook)
 
-Creates a reply to all original recipients from the original  **[SharingItem](Outlook.SharingItem.md)** .
+Creates a reply to all original recipients from the original  **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax

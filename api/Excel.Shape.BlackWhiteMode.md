@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.BlackWhiteMode property (Excel)
 
-Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)** .
+Returns or sets a value that indicates how the specified shape appears when the presentation is viewed in black-and-white mode. Read/write  **[MsoBlackWhiteMode](./Office.MsoBlackWhiteMode.md)**.
 
 
 ## Syntax

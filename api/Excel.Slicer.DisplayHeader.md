@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
- **True** if the header is visible; otherwise **False** . The default value is **True** .
+ **True** if the header is visible; otherwise **False**. The default value is **True**.
 
 
 ## See also

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # CalculatedMember.NumberFormat property (Excel)
 
-Returns a  **[xlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** value that represents the number format of the calculated member. The default value is **xlNumberFormatTypeDefault** . Read-only.
+Returns a  **[xlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** value that represents the number format of the calculated member. The default value is **xlNumberFormatTypeDefault**. Read-only.
 
 
 ## Syntax

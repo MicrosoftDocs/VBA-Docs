@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.DecimalPlaces property (Excel)
 
-Returns a  **Long** value that represents the number of decimal places to show for the numbers in the **[ListColumn](Excel.ListColumn.md)** object. Read-only **Long** .
+Returns a  **Long** value that represents the number of decimal places to show for the numbers in the **[ListColumn](Excel.ListColumn.md)** object. Read-only **Long**.
 
 
 ## Syntax

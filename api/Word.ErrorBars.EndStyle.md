@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.EndStyle property (Word)
 
-Returns or sets the end style for the error bars. Read/write  **Long** .
+Returns or sets the end style for the error bars. Read/write  **Long**.
 
 
 ## Syntax

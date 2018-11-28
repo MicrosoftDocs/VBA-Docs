@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableDrilldown property (Excel)
 
- **True** if drilldown is enabled. The default value is **True** . Read/write **Boolean** .
+ **True** if drilldown is enabled. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 Setting this property for a PivotTable report sets it for all fields in that report.
 
-For OLAP data sources, the value is always  **True** .
+For OLAP data sources, the value is always  **True**.
 
 
 ## Example

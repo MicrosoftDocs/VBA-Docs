@@ -36,7 +36,7 @@ Field categories correspond to those in the  **Category** list in the **Field** 
 
 To add a custom field, use the  **AddCustomField** method.
 
-The following constants for field categories are declared by the Visio type library in  **VisFieldCategories** .
+The following constants for field categories are declared by the Visio type library in  **VisFieldCategories**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Emboss property (Word)
 
- **True** if the specified font is formatted as embossed. Read/write **Long** .
+ **True** if the specified font is formatted as embossed. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** . Can be set to **True** , **False** , or **wdToggle** . Setting **Emboss** to **True** sets **[Engrave](Word.Font.Engrave.md)** to **False** , and vice versa.
+Returns  **True** , **False** , or **wdUndefined**. Can be set to **True** , **False** , or **wdToggle**. Setting **Emboss** to **True** sets **[Engrave](Word.Font.Engrave.md)** to **False** , and vice versa.
 
 
 ## Example

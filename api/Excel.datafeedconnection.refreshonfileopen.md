@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.RefreshOnFileOpen property (Excel)
 
- **True** if the connection is automatically updated each time the workbook is opened. The default value is **False** .
+ **True** if the connection is automatically updated each time the workbook is opened. The default value is **False**.
 
 
 ## Syntax

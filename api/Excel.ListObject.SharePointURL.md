@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.SharePointURL property (Excel)
 
- Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String** .
+ Returns a **String** representing the URL of the SharePoint list for a given **[ListObject](Excel.ListObject.md)** object. Read-only **String**.
 
 
 ## Syntax

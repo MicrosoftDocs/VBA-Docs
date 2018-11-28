@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PrintPreview property (Word)
 
- **True** if print preview is the current view. Read/write **Boolean** .
+ **True** if print preview is the current view. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.LineSpacingRule property (Word)
 
-Returns or sets the line spacing for the specified paragraph formatting. Read/write  **[WdLineSpacing](Word.WdLineSpacing.md)** .
+Returns or sets the line spacing for the specified paragraph formatting. Read/write  **[WdLineSpacing](Word.WdLineSpacing.md)**.
 
 
 ## Syntax

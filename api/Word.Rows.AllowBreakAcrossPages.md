@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Rows.AllowBreakAcrossPages property (Word)
 
- **True** if the text in a table row or rows are allowed to split across a page break. Read/write **Long** .
+ **True** if the text in a table row or rows are allowed to split across a page break. Read/write **Long**.
 
 
 ## Syntax

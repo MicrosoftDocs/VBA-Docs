@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SaveNormalPrompt property (Word)
 
- **True** if Microsoft Word prompts the user for confirmation to save changes to the Normal template before it closes. Read/write **Boolean** .
+ **True** if Microsoft Word prompts the user for confirmation to save changes to the Normal template before it closes. Read/write **Boolean**.
 
 
 ## Syntax

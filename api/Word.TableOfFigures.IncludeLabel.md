@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.IncludeLabel property (Word)
 
- **True** if the caption label and caption number are included in a table of figures. Read/write **Boolean** .
+ **True** if the caption label and caption number are included in a table of figures. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.Duration Property (Outlook)
 
-Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](Outlook.AppointmentItem.md)** . Read/write.
+Returns or sets a  **Long** indicating the duration (in minutes) of the **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
 
 ## Syntax

@@ -39,7 +39,7 @@ If you use  **UserProperties.Find** to look for a custom property and the call s
 
 ## Remarks
 
-If  _Custom_ parameter is **True** , only custom user properties will be searched. The default value is **True** . To find a non custom property such as **Subject** , specify _Custom_ parameter as **False** , otherwise will return **Nothing** .
+If  _Custom_ parameter is **True** , only custom user properties will be searched. The default value is **True**. To find a non custom property such as **Subject** , specify _Custom_ parameter as **False** , otherwise will return **Nothing**.
 
 
 ## See also

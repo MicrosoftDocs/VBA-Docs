@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Action.Type property (Excel)
 
-Returns the action type. Read-only  **[xlActionType](Excel.XlActionType.md)** .
+Returns the action type. Read-only  **[xlActionType](Excel.XlActionType.md)**.
 
 
 ## Syntax

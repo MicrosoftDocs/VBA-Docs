@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.ReminderPlaySound Property (Outlook)
 
-Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for the specified **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets a  **Boolean** value that is **True** if the reminder should play a sound when it occurs for the specified **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

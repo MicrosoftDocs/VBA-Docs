@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AutoPercentEntry property (Excel)
 
- **True** if entries in cells formatted as percentages aren't automatically multiplied by 100 as soon as they are entered. Read/write **Boolean** .
+ **True** if entries in cells formatted as percentages aren't automatically multiplied by 100 as soon as they are entered. Read/write **Boolean**.
 
 
 ## Syntax

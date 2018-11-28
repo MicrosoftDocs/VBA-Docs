@@ -42,9 +42,9 @@ Imports XML data from a  **String** variable into cells that have been mapped to
 
 
 | **xlXmlImportResult** can be one of the following **xlXmlImportResult** constants.|
-| **xlXmlImportElementsTruncated** . The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
-| **xlXmlImportSuccess** . The XML data file was successfully imported.|
-| **xlXmlImportValidationFailed** . The data being imported failed schema validation, but was imported anyway.|
+| **xlXmlImportElementsTruncated**. The contents of the specified XML data file have been truncated because the XML data file is too large for the worksheet.|
+| **xlXmlImportSuccess**. The XML data file was successfully imported.|
+| **xlXmlImportValidationFailed**. The data being imported failed schema validation, but was imported anyway.|
 
 To import the contents of an XML data file into cells mapped to a specific schema map, use the  **[Import](Excel.XmlMap.Import.md)** method of the **XmlMap** object.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.Italic property (Word)
 
- **True** if the font style is italic. Read/write **Boolean** .
+ **True** if the font style is italic. Read/write **Boolean**.
 
 
 ## Syntax

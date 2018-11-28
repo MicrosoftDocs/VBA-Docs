@@ -33,8 +33,8 @@ Prints all or part of the document displayed in the specified window.
 | _Append_|Optional| **Variant**|Set to  **True** to append the specified document to the file name specified by the OutputFileName argument. **False** to overwrite the contents of OutputFileName.|
 | _Range_|Optional| **Variant**|The page range. Can be any  **WdPrintOutRange** constant.|
 | _OutputFileName_|Optional| **Variant**|If PrintToFile is  **True** , this argument specifies the path and file name of the output file.|
-| _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo** .|
-| _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo** .|
+| _From_|Optional| **Variant**|The starting page number when Range is set to  **wdPrintFromTo**.|
+| _To_|Optional| **Variant**|The ending page number when Range is set to  **wdPrintFromTo**.|
 | _Item_|Optional| **Variant**|The item to be printed. Can be any  **WdPrintOutItem** constant.|
 | _Copies_|Optional| **Variant**|The number of copies to be printed.|
 | _Pages_|Optional| **Variant**|The page numbers and page ranges to be printed, separated by commas. For example, "2, 6-10" prints page 2 and pages 6 through 10.|

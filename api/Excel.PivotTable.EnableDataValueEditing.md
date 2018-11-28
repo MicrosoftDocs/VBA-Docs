@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableDataValueEditing property (Excel)
 
- **True** to disable the alert for when the user overwrites values in the data area of the PivotTable. **True** also allows the user to change data values that previously could not be changed. The default value is **False** . Read/write **Boolean** .
+ **True** to disable the alert for when the user overwrites values in the data area of the PivotTable. **True** also allows the user to change data values that previously could not be changed. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

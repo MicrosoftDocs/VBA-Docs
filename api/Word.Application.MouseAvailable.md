@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MouseAvailable property (Word)
 
- **True** if there is a mouse available for the system. Read-only **Boolean** .
+ **True** if there is a mouse available for the system. Read-only **Boolean**.
 
 
 ## Syntax

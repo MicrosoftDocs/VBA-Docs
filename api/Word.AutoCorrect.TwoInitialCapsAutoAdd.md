@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.TwoInitialCapsAutoAdd property (Word)
 
- **True** if Microsoft Word automatically adds words to the list of AutoCorrect Initial Caps exceptions. A word is added to this list if you delete and then retype the uppercase letter (following the initial uppercase letter) that Word changed to lowercase. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adds words to the list of AutoCorrect Initial Caps exceptions. A word is added to this list if you delete and then retype the uppercase letter (following the initial uppercase letter) that Word changed to lowercase. Read/write **Boolean**.
 
 
 ## Syntax

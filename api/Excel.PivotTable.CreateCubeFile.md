@@ -33,7 +33,7 @@ Creates a cube file from a PivotTable report connected to an Online Analytical P
 | _Measures_|Optional| **Variant**|An array of unique names of measures that are to be part of the slice.|
 | _Levels_|Optional| **Variant**|An array of strings. Each array item is a unique level name. It represents the lowest level of a hierarchy that is in the slice.|
 | _Members_|Optional| **Variant**|An array of string arrays. The elements correspond, in order, to the hierarchies represented in the  _Levels_ array. Each element is an array of string arrays that consists of the unique names of the top level members in the dimension that are to be included in the slice.|
-| _Properties_|Optional| **Variant**| **False** results in no member properties being included in the slice. The default value is **True** .|
+| _Properties_|Optional| **Variant**| **False** results in no member properties being included in the slice. The default value is **True**.|
 
 ## Return value
 

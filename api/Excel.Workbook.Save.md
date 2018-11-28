@@ -27,7 +27,7 @@ Saves changes to the specified workbook.
 
 To open a workbook file, use the  **[Open](Excel.Workbooks.Open.md)** method.
 
-To mark a workbook as saved without writing it to a disk, set its  **[Saved](Excel.Workbook.Saved.md)** property to **True** .
+To mark a workbook as saved without writing it to a disk, set its  **[Saved](Excel.Workbook.Saved.md)** property to **True**.
 
 The first time you save a workbook, use the  **[SaveAs](Excel.Workbook.SaveAs.md)** method to specify a name for the file.
 

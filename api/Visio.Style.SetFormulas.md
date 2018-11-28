@@ -31,7 +31,7 @@ Sets the formulas of one or more cells.
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be modified.|
 | _formulaArray()_|Required| **Variant**|Formulas to be assigned to identified cells.|
-| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas** .|
+| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas**.|
 
 ## Return value
 

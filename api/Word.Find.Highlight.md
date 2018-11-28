@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.Highlight property (Word)
 
- **True** if highlight formatting is included in the find criteria. Read/write **Long** .
+ **True** if highlight formatting is included in the find criteria. Read/write **Long**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **Highlight** property can return or be set to **True** , **False** , or **wdUndefined** . The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
+The  **Highlight** property can return or be set to **True** , **False** , or **wdUndefined**. The **wdUndefined** value can be used with the **Find** object to ignore the state of highlight formatting in the selection or range that is searched.
 
 
 ## Example
 
-This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False** .
+This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False**.
 
 
 ```vb

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.EnableRefresh property (Excel)
 
- **True** if the PivotTable cache or query table can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
+ **True** if the PivotTable cache or query table can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,13 +25,13 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](Excel.QueryTable.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False** .
+The  **[RefreshOnFileOpen](Excel.QueryTable.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**.
 
 For OLAP data sources, setting this property to  **False** disables updates.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **EnableRefresh** property.
 

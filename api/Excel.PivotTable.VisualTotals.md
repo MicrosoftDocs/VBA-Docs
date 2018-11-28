@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.VisualTotals property (Excel)
 
- **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean** .
+ **True** (default) to enable Online Analytical Processing (OLAP) PivotTables to retotal after an item has been hidden from view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -29,10 +29,10 @@ In non-OLAP PivotTables, if you hide an item, the total is recomputed to reflect
 
 For OLAP PivotTables, a  **VisualTotals** property setting of **True** (default) works the same way as described for non-OLAP PivotTables.
 
-The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False** .
+The  **VisualTotals** property returns **True** for all new PivotTables. However, if you open a workbook in the current version of Microsoft Excel and the PivotTable had been created in a previous version of Excel, then the **VisualTotals** property will return **False**.
 
 
- **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True** .
+ **Note**  All previously created PivotTables will have the  **VisualTotals** property set to **False** by default, unless the user changes it, but for all newly created ones the **VisualTotals** property is set to **True**.
 
 
 ## Example

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether to display the **None** bu
 
 ## Remarks
 
-The default value is  **True** .
+The default value is  **True**.
 
 
 ## See also

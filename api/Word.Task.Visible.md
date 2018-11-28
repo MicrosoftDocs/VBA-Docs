@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Task.Visible property (Word)
 
- **True** if the specified object is visible. Read/write **Boolean** .
+ **True** if the specified object is visible. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For any object, some methods and properties may be unavailable if the  **Visible** property is **False** .
+For any object, some methods and properties may be unavailable if the  **Visible** property is **False**.
 
 
 ## Example

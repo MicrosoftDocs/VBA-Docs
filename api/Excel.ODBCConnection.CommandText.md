@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.CommandText property (Excel)
 
-Returns or sets the command string for the specified data source. Read/write  **Variant** .
+Returns or sets the command string for the specified data source. Read/write  **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.LineStyle property (Word)
 
-Returns or sets the border line style for the specified object. Read/write  **WdLineStyle** .
+Returns or sets the border line style for the specified object. Read/write  **WdLineStyle**.
 
 
 ## Syntax

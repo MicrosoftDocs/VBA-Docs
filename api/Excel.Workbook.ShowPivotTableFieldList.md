@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ShowPivotTableFieldList property (Excel)
 
- **True** (default) if the PivotTable field list can be shown. Read/write **Boolean** .
+ **True** (default) if the PivotTable field list can be shown. Read/write **Boolean**.
 
 
 ## Syntax

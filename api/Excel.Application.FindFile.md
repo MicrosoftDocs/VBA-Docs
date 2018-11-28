@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-This method displays the  **Open** dialog box and allows the user to open a file. If a new file is opened successfully, this method returns **True** . If the user cancels the dialog box, this method returns **False** .
+This method displays the  **Open** dialog box and allows the user to open a file. If a new file is opened successfully, this method returns **True**. If the user cancels the dialog box, this method returns **False**.
 
 
 ## Example

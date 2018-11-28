@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.WarnBeforeSavingPrintingSendingMarkup property (Word)
 
- **True** for Microsoft Word to display a warning when saving, printing, or sending as email a document containing comments or tracked changes. Read/write **Boolean** .
+ **True** for Microsoft Word to display a warning when saving, printing, or sending as email a document containing comments or tracked changes. Read/write **Boolean**.
 
 
 ## Syntax

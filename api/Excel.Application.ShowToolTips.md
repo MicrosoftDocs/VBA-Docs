@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowToolTips property (Excel)
 
- **True** if ToolTips are turned on. Read/write **Boolean** .
+ **True** if ToolTips are turned on. Read/write **Boolean**.
 
 
 ## Syntax

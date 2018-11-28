@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraphs.NoLineNumber property (Word)
 
- **True** if line numbers are repressed for the specified paragraphs. Can be **True** , **False** , or **wdUndefined** . Read/write **Long** .
+ **True** if line numbers are repressed for the specified paragraphs. Can be **True** , **False** , or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

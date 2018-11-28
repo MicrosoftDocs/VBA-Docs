@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableSound property (Excel)
 
- **True** if sound is enabled for Microsoft Office. Read/write **Boolean** .
+ **True** if sound is enabled for Microsoft Office. Read/write **Boolean**.
 
 
 ## Syntax

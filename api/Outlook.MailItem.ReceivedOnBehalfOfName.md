@@ -25,7 +25,7 @@ Returns a  **String** representing the display name of the user delegated to rep
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagReceivedRepresentingName** .
+This property corresponds to the MAPI property  **PidTagReceivedRepresentingName**.
 
 
 ## See also

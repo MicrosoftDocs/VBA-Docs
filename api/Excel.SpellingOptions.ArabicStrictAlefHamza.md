@@ -30,7 +30,7 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words b
 
 ## Remarks
 
- **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza; otherwise **False** .
+ **True** if the spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza; otherwise **False**.
 
 
 ## See also

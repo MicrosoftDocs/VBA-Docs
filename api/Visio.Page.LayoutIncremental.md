@@ -76,7 +76,7 @@ The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlign
 | **visLayoutVertAlignMiddle**|3|Align the middles of the shapes.|
 | **visLayoutVertAlignBottom**|4|Align the bottom edges of the shapes.|
 
-If  _AlignOrSpace_ is **visLayoutIncrAlign** , either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone** , or _AlignVertical_ must be a value other than **visLayoutVertAlignNone** .
+If  _AlignOrSpace_ is **visLayoutIncrAlign** , either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone** , or _AlignVertical_ must be a value other than **visLayoutVertAlignNone**.
 
 If  _AlignOrSpace_ is **visLayoutIncrSpace** , both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.
 

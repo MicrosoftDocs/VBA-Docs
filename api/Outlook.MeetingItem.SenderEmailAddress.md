@@ -25,7 +25,7 @@ Returns a  **String** that represents the email address of the sender of the Out
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderEmailAddress** .
+This property corresponds to the MAPI property  **PidTagSenderEmailAddress**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Border.Inside property (Word)
 
- **True** if an inside border can be applied to the specified object. Read-only **Boolean** .
+ **True** if an inside border can be applied to the specified object. Read-only **Boolean**.
 
 
 ## Syntax

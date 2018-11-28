@@ -27,7 +27,7 @@ Returns or sets a  **String** indicating the subject for the Outlook item. Read-
 
 The  **Subject** property is a **String** that is calculated from the body text of the note.
 
-This property corresponds to the MAPI property  **PidTagSubject** . The **Subject** property is the default property for Outlook items.
+This property corresponds to the MAPI property  **PidTagSubject**. The **Subject** property is the default property for Outlook items.
 
 
 ## See also

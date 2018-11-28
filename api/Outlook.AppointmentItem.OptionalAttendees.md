@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the display string of optional attend
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayCc** .
+This property corresponds to the MAPI property  **PidTagDisplayCc**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Fields.Locked property (Word)
 
- **True** if all fields in the **Fields** collection are locked. Read/write **Long** .
+ **True** if all fields in the **Fields** collection are locked. Read/write **Long**.
 
 
 ## Syntax

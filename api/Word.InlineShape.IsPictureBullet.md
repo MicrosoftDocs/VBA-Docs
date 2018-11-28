@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # InlineShape.IsPictureBullet property (Word)
 
- **True** indicates that an **InlineShape** object is a picture bullet. Read-only **Boolean** .
+ **True** indicates that an **InlineShape** object is a picture bullet. Read-only **Boolean**.
 
 
 ## Syntax

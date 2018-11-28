@@ -46,7 +46,7 @@ Microsoft Visio identifies shapes by two different IDs: shape IDs and unique IDs
 
  _Unique IDs_ are globally unique identifiers (GUIDs). They are unique within the scope of the application.
 
-To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **UniqueIDsToShapeIDs** .
+To convert between shape IDs and unique IDs, you can use two methods of the  **Page** object, **[ShapeIDsToUniqueIDs](Visio.Page.ShapeIDsToUniqueIDs.md)** and **UniqueIDsToShapeIDs**.
 
 By default, a shape does not have a unique ID. A shape acquires a unique ID only if you set its  **[Shape.UniqueID](Visio.Shape.UniqueID.md)** property.
 

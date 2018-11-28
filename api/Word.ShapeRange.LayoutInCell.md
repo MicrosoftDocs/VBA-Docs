@@ -28,7 +28,7 @@ Returns a  **Long** that represents whether a shape in a table is displayed insi
 The  **LayoutInCell** property corresponds to the **Layout in table cell** option in the **Advanced Layout** dialog box for picture formatting. **True** indicates that a specified picture is displayed within the table. **False** indicates that a specified picture is displayed outside the table.
 
 
- **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone** .
+ **Note**  Setting the  **LayoutInCell** property will take effect only if the **Type** property of the **WrapFormat** object is set to something other than **wdWrapTypeInline** or **wdWrapTypeNone**.
 
 
 ## See also

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # DataFeedConnection.AlwaysUseConnectionFile property (Excel)
 
- **True** if the connection file is always used to establish connection to the data source. **Boolean** . Read/Write
+ **True** if the connection file is always used to establish connection to the data source. **Boolean**. Read/Write
 
 
 ## Syntax

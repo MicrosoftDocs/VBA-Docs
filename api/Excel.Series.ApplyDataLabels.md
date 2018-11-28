@@ -30,7 +30,7 @@ Applies data labels to a series.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Optional| **[xlDataLabelsType](Excel.XlDataLabelsType.md)**|The type of data label to apply.|
-| _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False** .|
+| _LegendKey_|Optional| **Variant**| **True** to show the legend key next to the point. The default value is **False**.|
 | _AutoText_|Optional| **Variant**| **True** if the object automatically generates appropriate text based on content.|
 | _HasLeaderLines_|Optional| **Variant**|For the  **[Chart](Excel.Chart(object).md)** and **[Series](Excel.Series(object).md)** objects, **True** if the series has leader lines.|
 | _ShowSeriesName_|Optional| **Variant**|Pass a boolean value to enable or disable the series name for the data label.|
@@ -47,12 +47,12 @@ Applies data labels to a series.
 
 
 | **xlDataLabelsType** can be one of these **xlDataLabelsType** constants.|
-| **xlDataLabelsShowBubbleSizes** . The bubble size for the data label.|
-| **xlDataLabelsShowLabelAndPercent** . Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
-| **xlDataLabelsShowPercent** . Percentage of the total. Available only for pie charts and doughnut charts.|
-| **xlDataLabelsShowLabel** . Category for the point.|
-| **xlDataLabelsShowNone** . No data labels.|
-| **xlDataLabelsShowValue** . _default_ . Value for the point (assumed if this argument isn't specified).|
+| **xlDataLabelsShowBubbleSizes**. The bubble size for the data label.|
+| **xlDataLabelsShowLabelAndPercent**. Percentage of the total, and category for the point. Available only for pie charts and doughnut charts.|
+| **xlDataLabelsShowPercent**. Percentage of the total. Available only for pie charts and doughnut charts.|
+| **xlDataLabelsShowLabel**. Category for the point.|
+| **xlDataLabelsShowNone**. No data labels.|
+| **xlDataLabelsShowValue**. _default_ . Value for the point (assumed if this argument isn't specified).|
 
 ## Example
 

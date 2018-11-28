@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.LeftMargin property (Excel)
 
-Returns or sets the size of the left margin, in points. Read/write  **Double** .
+Returns or sets the size of the left margin, in points. Read/write  **Double**.
 
 
 ## Syntax

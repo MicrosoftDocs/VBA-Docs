@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CheckSpellingAsYouType property (Word)
 
- **True** if Microsoft Word checks spelling and marks errors automatically as you type. Read/write **Boolean** .
+ **True** if Microsoft Word checks spelling and marks errors automatically as you type. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property marks spelling errors, but to see them on the screen, you must set the  **[ShowSpellingErrors](Word.Document.ShowSpellingErrors.md)** property to **True** .
+This property marks spelling errors, but to see them on the screen, you must set the  **[ShowSpellingErrors](Word.Document.ShowSpellingErrors.md)** property to **True**.
 
 
 ## Example

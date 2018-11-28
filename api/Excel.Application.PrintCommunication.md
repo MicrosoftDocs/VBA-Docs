@@ -25,7 +25,7 @@ Specifies whether communication with the printer is turned on.  **Boolean** Read
 
 ## Return value
 
- **True** , if communication with the printer is turned on; otherwise **False** .
+ **True** , if communication with the printer is turned on; otherwise **False**.
 
 
 ## Remarks

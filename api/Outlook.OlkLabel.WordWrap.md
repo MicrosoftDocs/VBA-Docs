@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether the contents of a control 
 
 ## Remarks
 
-The default value is  **True** .
+The default value is  **True**.
 
 
 ## See also

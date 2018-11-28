@@ -30,9 +30,9 @@ Boolean
 
 ## Remarks
 
-Use caution when setting the  **Saved** property for a document to **True** . If you set the **Saved** property to **True** and a user, or another program, makes changes to the document before it is closed, those changes will be lost—Microsoft Visio does not provide a prompt to save the document.
+Use caution when setting the  **Saved** property for a document to **True**. If you set the **Saved** property to **True** and a user, or another program, makes changes to the document before it is closed, those changes will be lost—Microsoft Visio does not provide a prompt to save the document.
 
-A document that contains embedded or linked OLE objects may report itself as unsaved even if the document's  **Saved** property is set to **True** .
+A document that contains embedded or linked OLE objects may report itself as unsaved even if the document's  **Saved** property is set to **True**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PasswordEncryptionFileProperties property (Excel)
 
- **True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean** .
+ **True** if Microsoft Excel encrypts file properties for the specified password-protected workbook. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocuments.Expanded property (Word)
 
- **True** if the subdocuments in the specified document are expanded. Read/write **Boolean** .
+ **True** if the subdocuments in the specified document are expanded. Read/write **Boolean**.
 
 
 ## Syntax

@@ -46,13 +46,13 @@ The  _fExistsLocally_ argument specifies the scope of the search.
 
 
 
-- If  _fExistsLocally_ is non-zero (**True**), the **CellExists** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExists** property value is **False** .
+- If  _fExistsLocally_ is non-zero (**True**), the **CellExists** property value is **True** only if the object contains the cell locally; if the cell is inherited, the **CellExists** property value is **False**.
     
 - If  _fExistsLocally_ is zero (**False**), the **CellExists** property value is **True** if the object either contains or inherits the cell.
     
 
 
-For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](Visio.viscellindices.md)** .
+For a list of cell index values, view the Visio type library for the members of class  **[VisCellIndices](Visio.viscellindices.md)**.
 
 
 

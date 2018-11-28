@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeDataSource.Type property (Word)
 
-Returns the type of mail merge data source. Read-only  **[WdMailMergeDataSource](Word.WdMailMergeDataSource.md)** .
+Returns the type of mail merge data source. Read-only  **[WdMailMergeDataSource](Word.WdMailMergeDataSource.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.EmailSubject property (Word)
 
-Returns or sets the text string for the specified hyperlink's subject line. Read/write  **String** .
+Returns or sets the text string for the specified hyperlink's subject line. Read/write  **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.DropType property (Excel)
 
-Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](Office.MsoCalloutDropType.md)** .
+Returns a value that indicates where the callout line attaches to the callout text box. Read-only  **[MsoCalloutDropType](Office.MsoCalloutDropType.md)**.
 
 
 ## Syntax

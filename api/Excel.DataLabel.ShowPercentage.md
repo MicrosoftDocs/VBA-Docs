@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.ShowPercentage property (Excel)
 
- **True** to display the percentage value for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to display the percentage value for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax

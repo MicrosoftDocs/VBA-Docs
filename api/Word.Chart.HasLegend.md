@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Chart.HasLegend property (Word)
 
- **True** if the chart has a legend. Read/write **Boolean** .
+ **True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Recipient.Address Property (Outlook)
 
-Returns a  **String** representing the email address of the **[Recipient](Outlook.Recipient.md)** . Read-only.
+Returns a  **String** representing the email address of the **[Recipient](Outlook.Recipient.md)**. Read-only.
 
 
 ## Syntax

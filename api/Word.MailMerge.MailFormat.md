@@ -25,7 +25,7 @@ Returns a  **WdMailMergeMailFormat** constant that represents the format to use 
 
 ## Remarks
 
-The  **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True** . Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
+The  **MailFormat** property is ignored if the **MailAsAttachment** property is set to **True**. Conversely, when **MailFormat** is set, **MailAsAttachment** is automatically set to **False**.
 
 
 ## Example

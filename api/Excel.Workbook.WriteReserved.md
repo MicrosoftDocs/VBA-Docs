@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.WriteReserved property (Excel)
 
- **True** if the workbook is write-reserved. Read-only **Boolean** .
+ **True** if the workbook is write-reserved. Read-only **Boolean**.
 
 
 ## Syntax

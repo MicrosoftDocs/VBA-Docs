@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Saved property (Excel)
 
- **True** if no changes have been made to the specified workbook since it was last saved. Read/write **Boolean** .
+ **True** if no changes have been made to the specified workbook since it was last saved. Read/write **Boolean**.
 
 
 ## Syntax

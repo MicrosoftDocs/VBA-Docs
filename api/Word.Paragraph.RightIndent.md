@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.RightIndent property (Word)
 
-Returns or sets the right indent (in points) for the specified paragraph. Read/write  **Single** .
+Returns or sets the right indent (in points) for the specified paragraph. Read/write  **Single**.
 
 
 ## Syntax

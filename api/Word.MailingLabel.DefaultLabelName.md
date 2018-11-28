@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailingLabel.DefaultLabelName property (Word)
 
-Returns or sets the name for the default mailing label. Read/write  **String** .
+Returns or sets the name for the default mailing label. Read/write  **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Subscript property (Excel)
 
- **True** if the font is formatted as subscript. **False** by default. Read/write **Variant** .
+ **True** if the font is formatted as subscript. **False** by default. Read/write **Variant**.
 
 
 ## Syntax

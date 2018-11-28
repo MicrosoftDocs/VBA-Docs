@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AddHebDoubleQuote property (Word)
 
- **True** if Microsoft Word encloses number formats in double quotation marks ("). Read/write **Boolean** .
+ **True** if Microsoft Word encloses number formats in double quotation marks ("). Read/write **Boolean**.
 
 
 ## Syntax

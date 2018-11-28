@@ -31,9 +31,9 @@ Returns a  **Workbook** object representing a database.
 |:-----|:-----|:-----|:-----|
 | _Filename_|Required| **String**|The connection string which contains the location and filename of the database.|
 | _CommandText_|Optional| **Variant**|The command text of the query.|
-| _CommandType_|Optional| **Variant**|The command type of the query. Specify one of the constants of the  **[xlCmdType](Excel.XlCmdType.md)** enumeration: **xlCmdCube** , **xlCmdList** , **xlCmdSql** , **xlCmdTable** , and **xlCmdDefault** .|
-| _BackgroundQuery_|Optional| **Variant**|This parameter is a variant data type but you can only pass a Boolean value. If you pass  **True** , the query is performed in the background (asynchronously). The default value is **False** .|
-| _ImportDataAs_|Optional| **Variant**|This parameter uses one of the values of the  **[xlImportDataAs](Excel.XlImportDataAs.md)** enumeration. The two values of this enum are **xlPivotTableReport** and **xlQueryTable** . Pass one of these values to return the data as a PivotTable or QueryTable. The default value is **xlQueryTable** .|
+| _CommandType_|Optional| **Variant**|The command type of the query. Specify one of the constants of the  **[xlCmdType](Excel.XlCmdType.md)** enumeration: **xlCmdCube** , **xlCmdList** , **xlCmdSql** , **xlCmdTable** , and **xlCmdDefault**.|
+| _BackgroundQuery_|Optional| **Variant**|This parameter is a variant data type but you can only pass a Boolean value. If you pass  **True** , the query is performed in the background (asynchronously). The default value is **False**.|
+| _ImportDataAs_|Optional| **Variant**|This parameter uses one of the values of the  **[xlImportDataAs](Excel.XlImportDataAs.md)** enumeration. The two values of this enum are **xlPivotTableReport** and **xlQueryTable**. Pass one of these values to return the data as a PivotTable or QueryTable. The default value is **xlQueryTable**.|
 
 ## Return value
 

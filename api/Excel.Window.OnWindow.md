@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.OnWindow property (Excel)
 
-Returns or sets the name of the procedure that's run whenever you activate a window. Read/write  **String** .
+Returns or sets the name of the procedure that's run whenever you activate a window. Read/write  **String**.
 
 
 ## Syntax

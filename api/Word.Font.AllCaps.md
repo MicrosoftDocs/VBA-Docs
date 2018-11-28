@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.AllCaps property (Word)
 
- **True** if the font is formatted as all capital letters. Read/write **Long** .
+ **True** if the font is formatted as all capital letters. Read/write **Long**.
 
 
 ## Syntax

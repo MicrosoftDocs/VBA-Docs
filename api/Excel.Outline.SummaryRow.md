@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Outline.SummaryRow property (Excel)
 
-Returns or sets the location of the summary rows in the outline. Read/write  **[xlSummaryRow](Excel.XlSummaryRow.md)** .
+Returns or sets the location of the summary rows in the outline. Read/write  **[xlSummaryRow](Excel.XlSummaryRow.md)**.
 
 
 ## Syntax

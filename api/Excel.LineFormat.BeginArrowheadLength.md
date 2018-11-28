@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.BeginArrowheadLength property (Excel)
 
-Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)** .
+Returns or sets the length of the arrowhead at the beginning of the specified line. Read/write  **[MsoArrowheadLength](Office.MsoArrowheadLength.md)**.
 
 
 ## Syntax

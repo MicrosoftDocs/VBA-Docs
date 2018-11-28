@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.Overflowing property (Word)
 
- **True** if the text inside the specified text frame doesn't all fit within the frame. Read-only **Boolean** .
+ **True** if the text inside the specified text frame doesn't all fit within the frame. Read-only **Boolean**.
 
 
 ## Syntax

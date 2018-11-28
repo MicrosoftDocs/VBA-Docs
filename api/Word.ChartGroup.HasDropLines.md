@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasDropLines property (Word)
 
- **True** if the line chart or area chart has drop lines. Read/write **Boolean** .
+ **True** if the line chart or area chart has drop lines. Read/write **Boolean**.
 
 
 ## Syntax
