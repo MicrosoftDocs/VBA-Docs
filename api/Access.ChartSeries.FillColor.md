@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.FillColor
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -14,14 +14,14 @@ ms.date: 05/02/2018
 
 Returns or sets the fill color of a series visualization. Read/write **String**.
 
-You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example below.
+You can use a **[system color constant](../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example.
 
 
 ## Syntax
 
- _expression_ . **FillColor**
+_expression_ . **FillColor**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## Example
@@ -37,5 +37,4 @@ End With
 
 ## See also
 
-- [ChartSeries object](Access.ChartSeries.md)
 - [Chart object](Access.Chart.md)

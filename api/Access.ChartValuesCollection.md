@@ -1,21 +1,21 @@
 ---
-title: ChartValuesCollection Object (Access)
+title: ChartValuesCollection object (Access)
 keywords: vbaac10.chm14755
 f1_keywords:
 - vbaac10.chm14755
 ms.prod: access
 api_name:
 - Access.ChartValuesCollection
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
-# ChartValuesCollection Object (Access)
+# ChartValuesCollection object (Access)
 
 A collection of all the **[ChartValues](Access.ChartValues.md)** objects in the specified chart.
 
 
-## Using ChartValuesCollection
+## Example
 
 The following example displays the name of each **ChartValues** instance in a collection.
 

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisMaximum
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,28 +17,16 @@ Returns or sets the maximum value that can be represented on the primary values 
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisMaximum**
+_expression_ . **PrimaryValuesAxisMaximum**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**PrimaryValuesAxisMinimum** and **PrimaryValuesAxisMaximum** are enforced when the **PrimaryValuesAxisRange** 
-property is set to **Fixed**.
+**[PrimaryValuesAxisMinimum](Access.Chart.PrimaryValuesAxisMinimum.md)** and **PrimaryValuesAxisMaximum** are enforced when the **[PrimaryValuesAxisRange](Access.Chart.PrimaryValuesAxisRange.md)** property is set to **Fixed**.
 
-A chart value may exceed the **PrimaryValuesAxisMaximum** but its representation in a chart (e.g. a bar in a 
-bar chart) may be clipped according to the maximum.
+A chart value may exceed the **PrimaryValuesAxisMaximum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the maximum.
 
 
-## See also
 
-
-#### Concepts
-
-
-[PrimaryValuesAxisMinimum Property](Access.Chart.PrimaryValuesAxisMinimum.md)
-
-[PrimaryValuesAxisRange Property](Access.Chart.PrimaryValuesAxisRange.md)
-
-[Chart object](Access.Chart.md)

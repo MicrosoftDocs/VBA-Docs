@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartAxis.GroupType
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,12 +17,8 @@ Returns or sets the type of grouping applied to an axis field when its type is a
 
 ## Syntax
 
- _expression_ . **GroupType**
+_expression_ . **GroupType**
 
- _expression_ A variable that represents a **ChartAxis** object.
+_expression_ A variable that represents a **[ChartAxis](Access.ChartAxis.md)** object.
 
 
-## See also
-
-- [AcDateGroupType enumeration](Access.AcDateGroupType.md)
-- [ChartAxis object](Access.ChartAxis.md)

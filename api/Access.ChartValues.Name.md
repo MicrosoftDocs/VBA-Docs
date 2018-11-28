@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartValues.Name
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -14,15 +14,13 @@ ms.date: 05/02/2018
 
 Returns the name of a **ChartValues** instance based on its associated field. Read-only **String**.
 
-
 ## Syntax
 
- _expression_ . **Name**
+_expression_ . **Name**
 
- _expression_ A variable that represents a **ChartValues** object.
+_expression_ A variable that represents a **[ChartValues](Access.ChartValues.md)** object.
 
 
 ## See also
 
-- [ChartValues object](Access.ChartValues.md)
 - [Chart object](Access.Chart.md)

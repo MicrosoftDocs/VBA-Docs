@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisMinimum
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,28 +17,18 @@ Returns or sets the minimum value that can be represented on the primary values 
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisMinimum**
+_expression_ . **PrimaryValuesAxisMinimum**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**PrimaryValuesAxisMinimum** and **PrimaryValuesAxisMaximum** are enforced when the **PrimaryValuesAxisRange** 
-property is set to **Fixed**.
+**PrimaryValuesAxisMinimum** and **[PrimaryValuesAxisMaximum](Access.Chart.PrimaryValuesAxisMaximum.md)** are enforced when the **[PrimaryValuesAxisRange](Access.Chart.PrimaryValuesAxisRange.md)** property is set to **Fixed**.
 
-A chart value may be less than the **PrimaryValuesAxisMinimum** but its representation in a chart (e.g. a bar in a 
-bar chart) may be clipped according to the minimum.
+A chart value may be less than the **PrimaryValuesAxisMinimum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the minimum.
 
 
-## See also
 
 
-#### Concepts
 
-
-[PrimaryValuesAxisMaximum Property](Access.Chart.PrimaryValuesAxisMaximum.md)
-
-[PrimaryValuesAxisRange Property](Access.Chart.PrimaryValuesAxisRange.md)
-
-[Chart object](Access.Chart.md)

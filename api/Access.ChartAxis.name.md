@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartAxis.Name
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,11 +17,8 @@ Returns the name of a **ChartAxis** instance based on its associated field. Read
 
 ## Syntax
 
- _expression_ . **Name**
+_expression_ . **Name**
 
- _expression_ A variable that represents a **ChartAxis** object.
+_expression_ A variable that represents a **[ChartAxis](Access.ChartAxis.md)** object.
 
 
-## See also
-
-- [ChartAxis object](Access.ChartAxis.md)

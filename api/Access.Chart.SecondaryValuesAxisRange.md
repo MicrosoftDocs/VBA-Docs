@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisRange
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,22 +17,13 @@ Returns or sets the behavior for representing minimum and maximum values on the 
 
 ## Syntax
 
- _expression_ . **SecondaryValuesAxisRange**
+_expression_ . **SecondaryValuesAxisRange**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**SecondaryValuesAxisMinimum** and **SecondaryValuesAxisMaximum** are enforced when the **SecondaryValuesAxisRange** 
-property is set to **Fixed**. Otherwise, the **Auto** setting will determine the range based on the lowest and 
-highest values in the set.
+**[SecondaryValuesAxisMinimum](Access.Chart.SecondaryValuesAxisMinimum.md)** and **[SecondaryValuesAxisMaximum](Access.Chart.SecondaryValuesAxisMaximum.md)** are enforced when the **SecondaryValuesAxisRange** property is set to **Fixed**. Otherwise, the **Auto** setting will determine the range based on the lowest and highest values in the set.
 
 
-## See also
-
-[SecondaryValuesAxisMinimum Property](Access.Chart.SecondaryValuesAxisMinimum.md)
-
-[SecondaryValuesAxisMaximum Property](Access.Chart.SecondaryValuesAxisMaximum.md)
-
-[Chart object](Access.Chart.md)

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisFontSize
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,15 +17,7 @@ Returns or sets the font size used by the primary values axis. Read/write **Inte
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisFontSize**
+_expression_ . **PrimaryValuesAxisFontSize**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
-
-## See also
-
-
-#### Concepts
-
-
-[Chart object](Access.Chart.md)

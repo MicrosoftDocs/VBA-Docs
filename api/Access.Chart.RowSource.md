@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.RowSource
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,12 +17,11 @@ Returns or sets the name of the table/query that supplies data for the chart. Re
 
 ## Syntax
 
- _expression_ . **RowSource**
+_expression_ . **RowSource**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## See also
 
 - [TransformedRowSource property](Access.Chart.TransformedRowSource.md)
-- [Chart object](Access.Chart.md)

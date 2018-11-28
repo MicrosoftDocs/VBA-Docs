@@ -6,28 +6,22 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.TrendlineName
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
 # ChartSeries.TrendlineName property (Access)
 
-Returns or sets the name of the series trendline if the trendline is visible. Read/write  **String**.
+Returns or sets the name of the series trendline if the trendline is visible. Read/write **String**.
 
 
 ## Syntax
 
- _expression_ . **TrendlineName**
+_expression_ . **TrendlineName**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartSeries object](Access.ChartSeries.md)
-
-[Chart object](Access.Chart.md)
+- [Chart object](Access.Chart.md)

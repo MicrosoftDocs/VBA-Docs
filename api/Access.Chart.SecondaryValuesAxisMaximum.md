@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisMaximum
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,28 +17,15 @@ Returns or sets the maximum value that can be represented on the secondary value
 
 ## Syntax
 
- _expression_ . **SecondaryValuesAxisMaximum**
+_expression_ . **SecondaryValuesAxisMaximum**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**SecondaryValuesAxisMinimum** and **SecondaryValuesAxisMaximum** are enforced when the **SecondaryValuesAxisRange** 
-property is set to **Fixed**.
+**[SecondaryValuesAxisMinimum](Access.Chart.SecondaryValuesAxisMinimum.md)** and **SecondaryValuesAxisMaximum** are enforced when the **[SecondaryValuesAxisRange](Access.Chart.SecondaryValuesAxisRange.md)** property is set to **Fixed**.
 
-A chart value may exceed the **SecondaryValuesAxisMaximum** but its representation in a chart (e.g. a bar in a 
-bar chart) may be clipped according to the maximum.
+A chart value may exceed the **SecondaryValuesAxisMaximum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the maximum.
 
 
-## See also
-
-
-#### Concepts
-
-
-[SecondaryValuesAxisMinimum Property](Access.Chart.SecondaryValuesAxisMinimum.md)
-
-[SecondaryValuesAxisRange Property](Access.Chart.SecondaryValuesAxisRange.md)
-
-[Chart object](Access.Chart.md)

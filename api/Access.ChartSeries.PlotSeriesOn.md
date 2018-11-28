@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.PlotSeriesOn
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,19 +17,11 @@ Returns or sets the axis to use for plotting the values of a series. Read/write 
 
 ## Syntax
 
- _expression_ . **PlotSeriesOn**
+_expression_ . **PlotSeriesOn**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[AcValueAxis Enumeration](Access.AcValueAxis.md)
-
-[ChartSeries object](Access.ChartSeries.md)
-
-[Chart object](Access.Chart.md)
+- [Chart object](Access.Chart.md)

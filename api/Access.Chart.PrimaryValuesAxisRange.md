@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisRange
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,28 +17,16 @@ Returns or sets the behavior for representing minimum and maximum values on the 
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisRange**
+_expression_ . **PrimaryValuesAxisRange**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**PrimaryValuesAxisMinimum** and **PrimaryValuesAxisMaximum** are enforced when the **PrimaryValuesAxisRange** 
+**[PrimaryValuesAxisMinimum](Access.Chart.PrimaryValuesAxisMinimum.md)** and **[PrimaryValuesAxisMinimum](Access.Chart.PrimaryValuesAxisMinimum.md)** are enforced when the **PrimaryValuesAxisRange** 
 property is set to **Fixed**. Otherwise, the **Auto** setting will determine the range based on the lowest and 
 highest values in the set.
 
 
-## See also
 
-
-#### Concepts
-
-
-[AcAxisRange Enumeration](Access.AcAxisRange.md)
-
-[PrimaryValuesAxisMinimum Property](Access.Chart.PrimaryValuesAxisMinimum.md)
-
-[PrimaryValuesAxisMaximum Property](Access.Chart.PrimaryValuesAxisMaximum.md)
-
-[Chart object](Access.Chart.md)

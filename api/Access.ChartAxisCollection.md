@@ -1,23 +1,23 @@
 ---
-title: ChartAxisCollection Object (Access)
+title: ChartAxisCollection object (Access)
 keywords: vbaac10.chm14753
 f1_keywords:
 - vbaac10.chm14753
 ms.prod: access
 api_name:
 - Access.ChartAxisCollection
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
-# ChartAxisCollection Object (Access)
+# ChartAxisCollection object (Access)
 
 A collection of all the **[ChartAxis](Access.ChartAxis.md)** objects in the specified chart.
 
 
-## Using ChartAxisCollection
+## Example
 
-The following example displays the number of axes in the collection, then displays the name of each axis.
+The following example displays the number of axes in the collection, and then displays the name of each axis.
 
 ```vb
 With myChart

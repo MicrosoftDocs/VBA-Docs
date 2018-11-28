@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.LineWeight
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,17 +17,11 @@ Returns or sets the line weight (thickness) for a series when its effective char
 
 ## Syntax
 
- _expression_ . **LineWeight**
+_expression_ . **LineWeight**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartSeries object](Access.ChartSeries.md)
-
-[Chart object](Access.Chart.md)
+- [Chart object](Access.Chart.md)

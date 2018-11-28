@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.SecondaryValuesAxisMinimum
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -19,26 +19,12 @@ Returns or sets the minimum value that can be represented on the secondary value
 
  _expression_ . **SecondaryValuesAxisMinimum**
 
- _expression_ A variable that represents a **Chart** object.
+ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks
 
-**SecondaryValuesAxisMinimum** and **SecondaryValuesAxisMaximum** are enforced when the **SecondaryValuesAxisRange** 
-property is set to **Fixed**.
+**SecondaryValuesAxisMinimum** and **[SecondaryValuesAxisMaximum](Access.Chart.SecondaryValuesAxisMaximum.md)** are enforced when the **[SecondaryValuesAxisRange](Access.Chart.SecondaryValuesAxisRange.md)** property is set to **Fixed**.
 
-A chart value may be less than the **SecondaryValuesAxisMinimum** but its representation in a chart (e.g. a bar in a 
-bar chart) may be clipped according to the minimum.
+A chart value may be less than the **SecondaryValuesAxisMinimum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the minimum.
 
-
-## See also
-
-
-#### Concepts
-
-
-[SecondaryValuesAxisMaximum Property](Access.Chart.SecondaryValuesAxisMaximum.md)
-
-[SecondaryValuesAxisRange Property](Access.Chart.SecondaryValuesAxisRange.md)
-
-[Chart object](Access.Chart.md)

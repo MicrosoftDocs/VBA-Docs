@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisFormat
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -19,9 +19,9 @@ You can use a [predefined or custom format](Access.format.propertynumber.and.cur
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisFormat**
+_expression_ . **PrimaryValuesAxisFormat**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Example
@@ -32,13 +32,3 @@ With myChart
  .SecondaryValuesAxisFormat = "Currency"
 End With
 ```
-
-## See also
-
-
-#### Concepts
-
-
-[Format Property - Number and Currency Data Types](Access.format.propertynumber.and.currency.md)
-
-[Chart object](Access.Chart.md)

@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.ComboChartType
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -19,9 +19,9 @@ This setting is only applicable when the **[ChartType](Access.Chart.ChartType.md
 
 ## Syntax
 
- _expression_ . **ComboChartType**
+_expression_ . **ComboChartType**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## Example
@@ -36,14 +36,3 @@ With myChart
 End With
 ```
 
-## See also
-
-
-#### Concepts
-
-
-[AcChartType Enumeration](Access.AcChartType.md)
-
-[ChartSeries object](Access.ChartSeries.md)
-
-[Chart object](Access.Chart.md)

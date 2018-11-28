@@ -1,23 +1,23 @@
 ---
-title: ChartSeriesCollection Object (Access)
+title: ChartSeriesCollection object (Access)
 keywords: vbaac10.chm14751
 f1_keywords:
 - vbaac10.chm14751
 ms.prod: access
 api_name:
 - Access.ChartSeriesCollection
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
-# ChartSeriesCollection Object (Access)
+# ChartSeriesCollection object (Access)
 
 A collection of all the **[ChartSeries](Access.ChartSeries.md)** objects in the specified chart.
 
 
-## Using ChartSeriesCollection
+## Example
 
-The following example displays the name of each **ChartSeries** instance in a collection.
+The following example displays the name of each **[ChartSeries](Access.ChartSeries.md)** instance in a collection.
 
 ```vb
 With myChart

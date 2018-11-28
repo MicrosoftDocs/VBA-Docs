@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.CategoryAxisTitle
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,15 +17,8 @@ Returns or sets the title for the primary values axis. Read/write **String**.
 
 ## Syntax
 
- _expression_ . **PrimaryValuesAxisTitle**
+_expression_ . **PrimaryValuesAxisTitle**
 
- _expression_ A variable that represents a **Chart** object.
-
-
-## See also
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
-#### Concepts
-
-
-[Chart object](Access.Chart.md)

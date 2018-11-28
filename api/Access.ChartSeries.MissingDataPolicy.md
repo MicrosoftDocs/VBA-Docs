@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartSeries.MissingDataPolicy
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,19 +17,11 @@ Returns or sets the plotting strategy of a series when its chart type is **Line*
 
 ## Syntax
 
- _expression_ . **MissingDataPolicy**
+_expression_ . **MissingDataPolicy**
 
- _expression_ A variable that represents a **ChartSeries** object.
+_expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[AcMissingDataPolicy Enumeration](Access.AcMissingDataPolicy.md)
-
-[ChartSeries object](Access.ChartSeries.md)
-
-[Chart object](Access.Chart.md)
+- [Chart object](Access.Chart.md)
