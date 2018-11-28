@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.ChartType
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,17 +17,9 @@ Returns or sets the chart type. Read/write **[AcChartType](Access.AcChartType.md
 
 ## Syntax
 
- _expression_ . **ChartType**
+_expression_ . **ChartType**
 
- _expression_ A variable that represents a **Chart** object.
-
-
-## See also
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
-#### Concepts
 
-
-[AcChartType Enumeration](Access.AcChartType.md)
-
-[Chart object](Access.Chart.md)

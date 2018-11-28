@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.LegendPosition
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,17 +17,7 @@ Returns or sets the position of the legend for the specified chart. Read/write *
 
 ## Syntax
 
- _expression_ . **LegendPosition**
+_expression_ . **LegendPosition**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
-
-## See also
-
-
-#### Concepts
-
-
-[AcLegendPosition Enumeration](Access.AcLegendPosition.md)
-
-[Chart object](Access.Chart.md)

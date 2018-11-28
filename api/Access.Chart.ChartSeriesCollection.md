@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.ChartSeriesCollection
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,17 +17,11 @@ A collection of all the **[ChartSeries](Access.ChartSeries.md)** objects in the 
 
 ## Syntax
 
- _expression_ . **ChartSeriesCollection**
+_expression_ . **ChartSeriesCollection**
 
- _expression_ A variable that represents a **Chart** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartSeriesCollection Object](Access.ChartSeriesCollection.md)
-
-[Chart object](Access.Chart.md)
+- [ChartSeriesCollection object](Access.ChartSeriesCollection.md)

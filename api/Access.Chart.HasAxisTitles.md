@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.HasAxisTitles
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
@@ -17,15 +17,9 @@ ms.date: 05/02/2018
 
 ## Syntax
 
- _expression_ . **HasAxisTitles**
+_expression_ . **HasAxisTitles**
 
- _expression_ A variable that represents a **Chart** object.
-
-
-## See also
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
-#### Concepts
 
-
-[Chart object](Access.Chart.md)
