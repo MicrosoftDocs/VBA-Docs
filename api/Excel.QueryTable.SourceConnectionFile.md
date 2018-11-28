@@ -29,7 +29,7 @@ Data from Web queries or text queries is imported as a  **[QueryTable](Excel.Que
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **SourceConnectionFile** property.
 

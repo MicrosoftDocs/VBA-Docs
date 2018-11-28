@@ -51,9 +51,9 @@ You can specify  _UnitsNameOrCode_ as an integer or a string value. If the strin
 
 For a complete list of valid unit strings along with their corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes ](Visio.visunitcodes.md)** .
+Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes ](Visio.visunitcodes.md)**.
 
-The following constants for  _fRound_ are declared in the Visio type library in member **VisRoundFlags** .
+The following constants for  _fRound_ are declared in the Visio type library in member **VisRoundFlags**.
 
 
 

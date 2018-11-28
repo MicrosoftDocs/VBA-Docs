@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.HeaderDistance property (Word)
 
-Returns or sets the distance (in points) between the header and the top of the page. Read/write  **Single** .
+Returns or sets the distance (in points) between the header and the top of the page. Read/write  **Single**.
 
 
 ## Syntax

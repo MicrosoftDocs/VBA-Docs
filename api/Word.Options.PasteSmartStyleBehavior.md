@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteSmartStyleBehavior property (Word)
 
- **True** if Microsoft Word intelligently merges styles when pasting a selection from a different document. Read/write **Boolean** .
+ **True** if Microsoft Word intelligently merges styles when pasting a selection from a different document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ApplyStyleFirstColumn property (Word)
 
- **True** for Microsoft Word to apply first-column formatting to the first column of the specified table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply first-column formatting to the first column of the specified table. Read/write **Boolean**.
 
 
 ## Syntax

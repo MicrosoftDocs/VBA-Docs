@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintDraft property (Word)
 
- **True** if Microsoft Word prints using minimal formatting. Read/write **Boolean** .
+ **True** if Microsoft Word prints using minimal formatting. Read/write **Boolean**.
 
 
 ## Syntax

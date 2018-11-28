@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoCreateNewDrawings property (Word)
 
- **True** for Microsoft Word to draw newly created shapes in a drawing canvas. Read/write **Boolean** .
+ **True** for Microsoft Word to draw newly created shapes in a drawing canvas. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **AutoCreateNewDrawings** property only affects shapes as they are added from within Word. If shapes are added through Visual Basic for Applications code, they are added as specified in the code regardless of whether this option is set to **True** or **False** .
+The  **AutoCreateNewDrawings** property only affects shapes as they are added from within Word. If shapes are added through Visual Basic for Applications code, they are added as specified in the code regardless of whether this option is set to **True** or **False**.
 
 
 ## Example

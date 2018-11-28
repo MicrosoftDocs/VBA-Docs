@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.ScrollRow property (Excel)
 
-Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long** .
+Returns or sets the number of the row that appears at the top of the pane or window. Read/write  **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.OddAndEvenPagesHeaderFooter property (Excel)
 
- **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean** .
+ **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Boolean**.
 
 
 ## Syntax

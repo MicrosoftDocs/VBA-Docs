@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartType Property (Access)
+title: Chart.ChartType property (Access)
 keywords: vbaac10.chm6124
 f1_keywords:
 - vbaac10.chm6124
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartType Property (Access)
+# Chart.ChartType property (Access)
 
-Returns or sets the chart type. Read/write **[AcChartType](Access.AcChartType.md)** .
+Returns or sets the chart type. Read/write **[AcChartType](Access.AcChartType.md)**.
 
 
 ## Syntax

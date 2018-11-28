@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableFieldList property (Excel)
 
- **False** to disable the ability to display the field list for the PivotTable. If the field list was already being displayed it disappears. The default value is **True** . Read/write **Boolean** .
+ **False** to disable the ability to display the field list for the PivotTable. If the field list was already being displayed it disappears. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

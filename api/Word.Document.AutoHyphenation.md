@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.AutoHyphenation property (Word)
 
- **True** if automatic hyphenation is turned on for the specified document. Read/write **Boolean** .
+ **True** if automatic hyphenation is turned on for the specified document. Read/write **Boolean**.
 
 
 ## Syntax

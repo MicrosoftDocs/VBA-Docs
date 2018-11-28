@@ -27,7 +27,7 @@ Returns a  **String** representing the name of the current profile. Read-only.
 
 You assign a profile name when you create a profile. 
 
- **CurrentProfileName** maps to the MAPI property **PidTagProfileName** .
+ **CurrentProfileName** maps to the MAPI property **PidTagProfileName**.
 
 
 ## See also

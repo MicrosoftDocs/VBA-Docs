@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Child property (Word)
 
- **True** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **MsoTriState** .
+ **True** if the shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **MsoTriState**.
 
 
 ## Syntax

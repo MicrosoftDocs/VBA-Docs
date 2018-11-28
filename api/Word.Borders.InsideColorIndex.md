@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.InsideColorIndex property (Word)
 
-Returns or sets the color of the inside borders. Read/write  **WdColorIndex** .
+Returns or sets the color of the inside borders. Read/write  **WdColorIndex**.
 
 
 ## Syntax

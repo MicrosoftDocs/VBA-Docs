@@ -30,7 +30,7 @@ Displays the number of top or bottom items for a row, page, or column field in t
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **Long**|Use  **xlAutomatic** to cause the specified PivotTable report to show the items that match the specified criteria. Use **xlManual** to disable this feature.|
-| _Range_|Required| **Long**|The location at which to start showing items. Can be either of the following constants:  **xlTop** or **xlBottom** .|
+| _Range_|Required| **Long**|The location at which to start showing items. Can be either of the following constants:  **xlTop** or **xlBottom**.|
 | _Count_|Required| **Long**|The number of items to be shown.|
 | _Field_|Required| **String**|The name of the base data field. You must specify the unique name (as returned from the  **[SourceName](Excel.PivotField.SourceName.md)** property), and not the displayed name.|
 

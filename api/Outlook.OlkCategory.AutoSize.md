@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that automatically sizes the control to display t
 
 ## Remarks
 
- The default value for this property is **True** .
+ The default value for this property is **True**.
 
 This control assumes one line unless the contents expand and need more space. If this happens, the control will grow to display the contents and move the remaining form contents down to make space.
 

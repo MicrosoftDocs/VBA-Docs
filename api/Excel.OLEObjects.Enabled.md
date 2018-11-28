@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObjects.Enabled property (Excel)
 
- **True** if the object is enabled. Read/write **Boolean** .
+ **True** if the object is enabled. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SuggestSpellingCorrections property (Word)
 
- **True** if Microsoft Word always suggests alternative spellings for each misspelled word when checking spelling. Read/write **Boolean** .
+ **True** if Microsoft Word always suggests alternative spellings for each misspelled word when checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

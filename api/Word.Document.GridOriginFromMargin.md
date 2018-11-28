@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.GridOriginFromMargin property (Word)
 
- **True** if Microsoft Word starts the character grid from the upper-left corner of the page. Read/write **Boolean** .
+ **True** if Microsoft Word starts the character grid from the upper-left corner of the page. Read/write **Boolean**.
 
 
 ## Syntax

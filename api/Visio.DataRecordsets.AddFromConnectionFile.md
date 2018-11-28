@@ -33,7 +33,7 @@ Adds a  **[DataRecordset](Visio.DataRecordset.md)** object to the **[DataRecords
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The name of the ODC connection file to use. |
-| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to be added. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)** . For more information, see Remarks.|
+| _AddOptions_|Required| **Long**|Options that determine properties of the data recordset to be added. A combination of one or more enumerated value from  **[VisDataRecordsetAddOptions](Visio.visdatarecordsetaddoptions.md)**. For more information, see Remarks.|
 | _Name_|Optional| **String**|Assigns a display name to the  **DataRecordset** object being added.|
 
 ## Return value

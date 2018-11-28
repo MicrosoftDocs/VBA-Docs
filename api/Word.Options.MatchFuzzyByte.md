@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MatchFuzzyByte property (Word)
 
- **True** if Microsoft Word ignores the distinction between full-width and half-width characters (Latin or Japanese) during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between full-width and half-width characters (Latin or Japanese) during a search. Read/write **Boolean**.
 
 
 ## Syntax

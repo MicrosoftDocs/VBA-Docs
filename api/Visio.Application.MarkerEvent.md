@@ -94,7 +94,7 @@ The  **EventInfo** property returns _ContextString_ as described above. The _var
 
 This example shows how to use the  **MarkerEvent** event to mark an event in the event queue.
 
-Paste this example code into the  **ThisDocument** code window and then run **UseMarker** . The output will be displayed in the Immediate window.
+Paste this example code into the  **ThisDocument** code window and then run **UseMarker**. The output will be displayed in the Immediate window.
 
 
 

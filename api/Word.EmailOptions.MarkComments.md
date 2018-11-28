@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.MarkComments property (Word)
 
- **True** if Microsoft Word marks the user's comments in email messages. Read/write **Boolean** .
+ **True** if Microsoft Word marks the user's comments in email messages. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchAlefHamza property (Word)
 
- **True** if find operations match text with matching alef hamzas in an Arabic language document. Read/write **Boolean** .
+ **True** if find operations match text with matching alef hamzas in an Arabic language document. Read/write **Boolean**.
 
 
 ## Syntax

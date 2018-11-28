@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileExportConverter.Extensions property (Excel)
 
-Returns the file name extensions associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only **String** .
+Returns the file name extensions associated with the specified  **[FileExportConverter](Excel.FileExportConverter.md)** object. Read-only **String**.
 
 
 ## Syntax

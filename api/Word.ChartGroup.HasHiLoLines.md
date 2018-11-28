@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasHiLoLines property (Word)
 
- **True** if the line chart has high-low lines. Read/write **Boolean** .
+ **True** if the line chart has high-low lines. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies if a tab is inserted automatically
 
 ## Remarks
 
- The default value for this property is **False** .
+ The default value for this property is **False**.
 
 
 ## See also

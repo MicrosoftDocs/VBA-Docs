@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AppointmentItem.End Property (Outlook)
 
-Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)** . Read/write.
+Returns or sets a  **Date** indicating the end date and time of an **[AppointmentItem](Outlook.AppointmentItem.md)**. Read/write.
 
 
 ## Syntax

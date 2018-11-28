@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.ListIndex property (Excel)
 
-Returns or sets the index number of the currently selected item in a list box or combo box. Read/write  **Long** .
+Returns or sets the index number of the currently selected item in a list box or combo box. Read/write  **Long**.
 
 
 ## Syntax

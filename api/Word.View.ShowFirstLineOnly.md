@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowFirstLineOnly property (Word)
 
- **True** if only the first line of body text is shown in outline view. Read/write **Boolean** .
+ **True** if only the first line of body text is shown in outline view. Read/write **Boolean**.
 
 
 ## Syntax

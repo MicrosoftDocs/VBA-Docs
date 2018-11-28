@@ -68,7 +68,7 @@ For an event to successfully pass through an object event filter, it must satisf
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For example, if you want to listen only to events sourced by a shape or guide, you can pass an array like the following:
 

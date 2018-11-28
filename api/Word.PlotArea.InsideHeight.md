@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideHeight property (Word)
 
-Returns or sets the inside height, in points, of the plot area. Read/write  **Double** .
+Returns or sets the inside height, in points, of the plot area. Read/write  **Double**.
 
 
 ## Syntax

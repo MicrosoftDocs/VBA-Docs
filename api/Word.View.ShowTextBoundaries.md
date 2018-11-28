@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowTextBoundaries property (Word)
 
- **True** if dotted lines are displayed around page margins, text columns, objects, and frames in print layout view. Read/write **Boolean** .
+ **True** if dotted lines are displayed around page margins, text columns, objects, and frames in print layout view. Read/write **Boolean**.
 
 
 ## Syntax

@@ -41,8 +41,8 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 
 | **xlXmlExportResult** can be one of the following **xlXmlExportResult** constants.|
-| **xlXmlExportSuccess** . Export successful. No errors to report.|
-| **xlXmlExportValidationFailed** . The data being exported failed schema validation, but was exported anyway.|
+| **xlXmlExportSuccess**. Export successful. No errors to report.|
+| **xlXmlExportValidationFailed**. The data being exported failed schema validation, but was exported anyway.|
 
 To export the contents of the mapped cells to an XML data file, use the  **[Export](Excel.XmlMap.Export.md)** method.
 

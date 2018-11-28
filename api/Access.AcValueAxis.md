@@ -1,21 +1,22 @@
 ---
-title: AcValueAxis Enumeration (Access)
+title: AcValueAxis enumeration (Access)
 keywords: vbaac10.chm14765
 f1_keywords:
 - vbaac10.chm14765
 ms.prod: access
 api_name:
 - Access.AcValueAxis
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
-# AcValueAxis Enumeration (Access)
+# AcValueAxis enumeration (Access)
 
 A list of value axes in a chart.
 
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**acPrimaryAxis**|0|Primary axis.|
-|**acSecondaryAxis**|1|Secondary axis.|
+|**acPrimaryAxis**|0|Primary axis|
+|**acSecondaryAxis**|1|Secondary axis|

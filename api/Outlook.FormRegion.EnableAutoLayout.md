@@ -27,7 +27,7 @@ Returns or sets a  **Boolean** that specifies whether to use the automatic layou
 
 The automatic layout resizing feature in the forms designer recalculates the form layout dynamically as the form is resized. This feature is only available to form regions in the forms designer.
 
-When this property is  **True** , the forms designer performs automatic layout resizing. When this property is **False** , the forms designer does not perform automatic layout resizing. The default value is **True** .
+When this property is  **True** , the forms designer performs automatic layout resizing. When this property is **False** , the forms designer does not perform automatic layout resizing. The default value is **True**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.HangulAndAlphabetAutoAdd property (Word)
 
- **True** if Microsoft Word automatically adds words to the list of Hangul and alphabet AutoCorrect exceptions. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adds words to the list of Hangul and alphabet AutoCorrect exceptions. Read/write **Boolean**.
 
 
 ## Syntax

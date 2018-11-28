@@ -25,7 +25,7 @@ Returns or sets a  **[xlCalculation](Excel.XlCalculation.md)** value that repres
 
 ## Remarks
 
-For OLAP data sources, this property can only return or be set to  **xlNormal** .
+For OLAP data sources, this property can only return or be set to  **xlNormal**.
 
 
 ## Example

@@ -45,7 +45,7 @@ To get information about the  **StdPicture** object that supports the **IPicture
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdPicture** .
+4. Under  **Classes**, examine the class named  **StdPicture**.
     
 
 

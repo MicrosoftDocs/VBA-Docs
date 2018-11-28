@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.RelativeHorizontalPosition property (Word)
 
-Specifies to the relative horizontal position of a shape. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
+Specifies to the relative horizontal position of a shape. Read/write  **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax

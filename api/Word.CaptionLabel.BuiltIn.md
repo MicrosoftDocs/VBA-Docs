@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CaptionLabel.BuiltIn property (Word)
 
- **True** if the specified caption label is one of the built-in caption labels in Word. Read-only **Boolean** .
+ **True** if the specified caption label is one of the built-in caption labels in Word. Read-only **Boolean**.
 
 
 ## Syntax

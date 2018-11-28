@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.LetterheadSize property (Word)
 
-Returns or sets the amount of space (in points) to be reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write  **Single** .
+Returns or sets the amount of space (in points) to be reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write  **Single**.
 
 
 ## Syntax

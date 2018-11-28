@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheet.Path property (Word)
 
-Returns the disk or Web path to the specified style sheet. Read-only  **String** .
+Returns the disk or Web path to the specified style sheet. Read-only  **String**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.MaxCharacters property (Excel)
 
-Returns a  **Long** containing the maximum number of characters allowed in the **[ListColumn](Excel.ListColumn.md)** object if the **[Type](Excel.ListDataFormat.Type.md)** property is set to **xlListDataTypeText** or **xlListDataTypeMultiLineText** . Read-only **Long** .
+Returns a  **Long** containing the maximum number of characters allowed in the **[ListColumn](Excel.ListColumn.md)** object if the **[Type](Excel.ListDataFormat.Type.md)** property is set to **xlListDataTypeText** or **xlListDataTypeMultiLineText**. Read-only **Long**.
 
 
 ## Syntax

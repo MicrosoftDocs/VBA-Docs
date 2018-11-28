@@ -25,7 +25,7 @@ Returns or sets an  **[OlIconViewPlacement](Outlook.OlIconViewPlacement.md)** va
 
 ## Remarks
 
-If the value of the  **[IconViewType](Outlook.IconView.IconViewType.md)** property is set to **olIconViewList** , the value of this property is automatically set to **olIconSortAndAutoArrange** .
+If the value of the  **[IconViewType](Outlook.IconView.IconViewType.md)** property is set to **olIconViewList** , the value of this property is automatically set to **olIconSortAndAutoArrange**.
 
 
 ## Example

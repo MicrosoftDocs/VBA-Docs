@@ -25,7 +25,7 @@ Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatCon
 
 ## Remarks
 
-This property will always return a  **Long** value of "12", which is equivalent to **xlAboveAverageCondition** .
+This property will always return a  **Long** value of "12", which is equivalent to **xlAboveAverageCondition**.
 
 
 ## See also

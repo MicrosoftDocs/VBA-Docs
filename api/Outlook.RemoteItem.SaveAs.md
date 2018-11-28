@@ -30,7 +30,7 @@ Saves the Microsoft Outlook item to the specified path and in the format of the 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path in which to save the item.|
-| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](Outlook.OlSaveAsType.md)** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode** .|
+| _Type_|Optional| **Variant**|The file type to save. Can be one of the following  **[OlSaveAsType](Outlook.OlSaveAsType.md)** constants: **olHTML** , **olMSG** , **olRTF** , **olTemplate** , **olDoc** , ** olTXT** , **olVCal** , **olVCard** , **olICal** , or **olMSGUnicode**.|
 
 ## Remarks
 

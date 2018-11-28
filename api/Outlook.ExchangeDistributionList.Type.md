@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeDistributionList.Type Property (Outlook)
 
-Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)** . Read/write.
+Returns a  **String** representing the type of entry for the **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**. Read/write.
 
 
 ## Syntax

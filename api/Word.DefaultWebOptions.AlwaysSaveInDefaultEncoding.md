@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Word)
 
- **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. Read/write **Boolean** .
+ **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
- **False** if the original encoding of the file is used. The default value is **False** .
+ **False** if the original encoding of the file is used. The default value is **False**.
 
  The **[Encoding](Word.DefaultWebOptions.Encoding.md)** property can be used to set the default encoding.
 

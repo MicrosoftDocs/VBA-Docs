@@ -38,7 +38,7 @@ Cell
 
 ## Remarks
 
-The following constants for the cell index are declared by the Microsoft Visio type library in ** VisCellIndices** .
+The following constants for the cell index are declared by the Microsoft Visio type library in ** VisCellIndices**.
 
 
 

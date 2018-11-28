@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Draft property (Excel)
 
- **True** if the sheet will be printed without graphics. Read/write **Boolean** .
+ **True** if the sheet will be printed without graphics. Read/write **Boolean**.
 
 
 ## Syntax

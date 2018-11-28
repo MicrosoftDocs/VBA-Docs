@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.Split property (Excel)
 
- **True** if the window is split. Read/write **Boolean** .
+ **True** if the window is split. Read/write **Boolean**.
 
 
 ## Syntax
@@ -32,7 +32,7 @@ This property applies only to worksheets and macro sheets.
 
 ## Example
 
-This example splits the active window in Book1.xls at cell B2, without freezing panes. This causes the  **Split** property to return **True** .
+This example splits the active window in Book1.xls at cell B2, without freezing panes. This causes the  **Split** property to return **True**.
 
 
 ```vb

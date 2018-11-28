@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.Command property (Word)
 
-Returns the command assigned to the specified key combination. Read-only  **String** .
+Returns the command assigned to the specified key combination. Read-only  **String**.
 
 
 ## Syntax

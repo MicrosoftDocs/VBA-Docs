@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # Chart.GapDepth property (Word)
 
-Returns or sets the distance, as a percentage of the marker width, between the data series in a 3-D chart. Read/write  **Long** .
+Returns or sets the distance, as a percentage of the marker width, between the data series in a 3-D chart. Read/write  **Long**.
 
 
 ## Syntax

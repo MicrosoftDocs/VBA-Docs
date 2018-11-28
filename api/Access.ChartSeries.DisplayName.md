@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.DisplayName Property (Access)
+title: ChartSeries.DisplayName property (Access)
 keywords: vbaac10.chm14784
 f1_keywords:
 - vbaac10.chm14784
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.DisplayName Property (Access)
+# ChartSeries.DisplayName property (Access)
 
-Returns or sets the legend display name of a series. Read/write **String** .
+Returns or sets the legend display name of a series. Read/write **String**.
 
 
 ## Syntax

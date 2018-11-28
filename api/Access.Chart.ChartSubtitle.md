@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartSubtitle Property (Access)
+title: Chart.ChartSubtitle property (Access)
 keywords: vbaac10.chm6157
 f1_keywords:
 - vbaac10.chm6157
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartSubtitle Property (Access)
+# Chart.ChartSubtitle property (Access)
 
-Returns or sets the subtitle for the specified chart. Read/write **String** .
+Returns or sets the subtitle for the specified chart. Read/write **String**.
 
 
 ## Syntax

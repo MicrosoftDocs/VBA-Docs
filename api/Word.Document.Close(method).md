@@ -29,8 +29,8 @@ Closes the specified document.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following  **[WdSaveOptions](Word.WdSaveOptions.md)** constants: **wdDoNotSaveChanges** , **wdPromptToSaveChanges** , or **wdSaveChanges** .|
-| _OriginalFormat_|Optional| **Variant**|Specifies the save format for the document. Can be one of the following  **[WdOriginalFormat](Word.WdOriginalFormat.md)** constants: **wdOriginalDocumentFormat** , **wdPromptUser** , or **wdWordDocument** .|
+| _SaveChanges_|Optional| **Variant**|Specifies the save action for the document. Can be one of the following  **[WdSaveOptions](Word.WdSaveOptions.md)** constants: **wdDoNotSaveChanges** , **wdPromptToSaveChanges** , or **wdSaveChanges**.|
+| _OriginalFormat_|Optional| **Variant**|Specifies the save format for the document. Can be one of the following  **[WdOriginalFormat](Word.WdOriginalFormat.md)** constants: **wdOriginalDocumentFormat** , **wdPromptUser** , or **wdWordDocument**.|
 | _RouteDocument_|Optional| **Variant**| **True** to route the document to the next recipient. If the document does not have a routing slip attached, this argument is ignored.|
 
 ## Example

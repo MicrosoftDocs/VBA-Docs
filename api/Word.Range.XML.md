@@ -29,7 +29,7 @@ Returns a  **String** that represents the XML text in the specified object. .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _DataOnly_|Optional| **Boolean**| **True** returns the text of the XML without the Word XML markup. The default setting is **False** .|
+| _DataOnly_|Optional| **Boolean**| **True** returns the text of the XML without the Word XML markup. The default setting is **False**.|
 
 ## See also
 

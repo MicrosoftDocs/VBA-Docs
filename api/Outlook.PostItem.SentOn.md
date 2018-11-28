@@ -25,7 +25,7 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagClientSubmitTime** .
+This property corresponds to the MAPI property  **PidTagClientSubmitTime**.
 
 
 ## See also

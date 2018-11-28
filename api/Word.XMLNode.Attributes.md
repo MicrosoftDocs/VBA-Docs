@@ -25,7 +25,7 @@ Returns an  **XMLNodes** collection that represents the attributes for the speci
 
 ## Remarks
 
-All  **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute** .
+All  **XMLNode** objects in the **XMLNodes** collection returned by using the **Attributes** property have a **NodeType** property value of **wdXMLNodeAttribute**.
 
 
 ## Example

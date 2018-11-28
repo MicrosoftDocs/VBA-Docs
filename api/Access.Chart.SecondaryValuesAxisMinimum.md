@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisMinimum Property (Access)
+title: Chart.SecondaryValuesAxisMinimum property (Access)
 keywords: vbaac10.chm6121
 f1_keywords:
 - vbaac10.chm6121
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisMinimum Property (Access)
+# Chart.SecondaryValuesAxisMinimum property (Access)
 
-Returns or sets the minimum value that can be represented on the secondary values axis. Read/write **Single** .
+Returns or sets the minimum value that can be represented on the secondary values axis. Read/write **Single**.
 
 
 ## Syntax

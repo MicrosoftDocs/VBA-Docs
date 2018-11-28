@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.MacroType property (Excel)
 
-Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.XlXLMMacroType.md)** .
+Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.XlXLMMacroType.md)**.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.Xl
 
 
 | **xlXLMMacroType** can be one of these **xlXLMMacroType** constants.|
-| **xlCommand** . The name refers to a user-defined macro.|
-| **xlFunction** . The name refers to a user-defined function.|
-| **xlNotXLM** . The name doesn't refer to a function or macro.|
+| **xlCommand**. The name refers to a user-defined macro.|
+| **xlFunction**. The name refers to a user-defined function.|
+| **xlNotXLM**. The name doesn't refer to a function or macro.|
 
 ## Example
 

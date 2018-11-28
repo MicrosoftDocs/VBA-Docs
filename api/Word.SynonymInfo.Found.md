@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SynonymInfo.Found property (Word)
 
- **True** if the thesaurus finds synonyms, antonyms, related words, or related expressions for the word or phrase. Read-only **Boolean** .
+ **True** if the thesaurus finds synonyms, antonyms, related words, or related expressions for the word or phrase. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Trendline.DisplayEquation property (Word)
 
- **True** if the equation for the trendline is displayed on the chart (in the same data label as the R-squared value). Read/write **Boolean** .
+ **True** if the equation for the trendline is displayed on the chart (in the same data label as the R-squared value). Read/write **Boolean**.
 
 
 ## Syntax

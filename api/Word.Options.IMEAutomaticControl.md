@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.IMEAutomaticControl property (Word)
 
- **True** if Microsoft Word is set to automatically open and close the Japanese Input Method Editor (IME). Read/write **Boolean** .
+ **True** if Microsoft Word is set to automatically open and close the Japanese Input Method Editor (IME). Read/write **Boolean**.
 
 
 ## Syntax

@@ -32,13 +32,13 @@ Parses a column of cells that contain text into several columns.
 | _Destination_|Optional| **Variant**|A  **Range** object that specifies where Microsoft Excel will place the results. If the range is larger than a single cell, the top left cell is used.|
 | _DataType_|Optional| **[xlTextParsingType](Excel.XlTextParsingType.md)**|The format of the text to be split into columns.|
 | _TextQualifier_|Optional| **[xlTextQualifier](Excel.XlTextQualifier.md)**|Specifies whether to use single, double or no quotes as the text qualifier.|
-| _ConsecutiveDelimiter_|Optional| **Variant**| **True** to have Microsoft Excel consider consecutive delimiters as one delimiter. The default value is **False** .|
-| _Tab_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the tab character be a delimiter. The default value is **False** .|
-| _Semicolon_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the semicolon be a delimiter. The default value is **False** .|
-| _Comma_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the comma be a delimiter. The default value is **False** .|
-| _Space_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the space character be a delimiter. The default value is **False** .|
-| _Other_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the character specified by the _OtherChar_ argument be a delimiter. The default value is **False** .|
-| _OtherChar_|Optional| **Variant**|(required if  _Other_ is **True**). The delimiter character when _Other_ is **True** . If more than one character is specified, only the first character of the string is used; the remaining characters are ignored.|
+| _ConsecutiveDelimiter_|Optional| **Variant**| **True** to have Microsoft Excel consider consecutive delimiters as one delimiter. The default value is **False**.|
+| _Tab_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the tab character be a delimiter. The default value is **False**.|
+| _Semicolon_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the semicolon be a delimiter. The default value is **False**.|
+| _Comma_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the comma be a delimiter. The default value is **False**.|
+| _Space_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the space character be a delimiter. The default value is **False**.|
+| _Other_|Optional| **Variant**| **True** to have _DataType_ be **xlDelimited** and to have the character specified by the _OtherChar_ argument be a delimiter. The default value is **False**.|
+| _OtherChar_|Optional| **Variant**|(required if  _Other_ is **True**). The delimiter character when _Other_ is **True**. If more than one character is specified, only the first character of the string is used; the remaining characters are ignored.|
 | _FieldInfo_|Optional| **Variant**|An array containing parse information for the individual columns of data. The interpretation depends on the value of  _DataType_. When the data is delimited, this argument is an array of two-element arrays, with each two-element array specifying the conversion options for a particular column. The first element is the column number (1-based), and the second element is one of the [xlColumnDataType](Excel.XlColumnDataType.md)constants specifying how the column is parsed.|
 | _DecimalSeparator_|Optional| **Variant**|The decimal separator that Microsoft Excel uses when recognizing numbers. The default setting is the system setting.|
 | _ThousandsSeparator_|Optional| **Variant**|The thousands separator that Excel uses when recognizing numbers. The default setting is the system setting.|
@@ -65,16 +65,16 @@ The following table shows the results of importing text into Excel for various i
 
 
 | **xlColumnDataType** can be one of these **xlColumnDataType** constants.|
-| **xlGeneralFormat** . General|
-| **xlTextFormat** . Text|
-| **xlMDYFormat** . MDY Date|
-| **xlDMYFormat** . DMY Date|
-| **xlYMDFormat** . YMD Date|
-| **xlMYDFormat** . MYD Date|
-| **xlDYMFormat** . DYM Date|
-| **xlYDMFormat** . YDM Date|
-| **xlEMDFormat** . EMD Date|
-| **xlSkipColumn** . Skip Column|
+| **xlGeneralFormat**. General|
+| **xlTextFormat**. Text|
+| **xlMDYFormat**. MDY Date|
+| **xlDMYFormat**. DMY Date|
+| **xlYMDFormat**. YMD Date|
+| **xlMYDFormat**. MYD Date|
+| **xlDYMFormat**. DYM Date|
+| **xlYDMFormat**. YDM Date|
+| **xlEMDFormat**. EMD Date|
+| **xlSkipColumn**. Skip Column|
 
 You can use  **xlEMDFormat** only if Taiwanese language support is installed and selected. The **xlEMDFormat** constant specifies that Taiwanese era dates are being used.
 

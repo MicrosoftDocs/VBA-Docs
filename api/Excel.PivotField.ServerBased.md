@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ServerBased property (Excel)
 
- **True** if the data source for the specified PivotTable report is external and only the items matching the page field selection are retrieved. Read/write **Boolean** .
+ **True** if the data source for the specified PivotTable report is external and only the items matching the page field selection are retrieved. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property doesn't apply to OLAP data sources and is always  **False** .
+This property doesn't apply to OLAP data sources and is always  **False**.
 
 When this property is  **True** , only records in the database that match the selected page field item are retrieved. From then on, whenever the user changes the page field selection, the newly selected page field item is passed to the query as a parameter, and the cache is refreshed.
 

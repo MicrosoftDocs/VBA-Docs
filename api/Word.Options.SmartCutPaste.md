@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SmartCutPaste property (Word)
 
- **True** if Microsoft Word automatically adjusts the spacing between words and punctuation when cutting and pasting occurs. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adjusts the spacing between words and punctuation when cutting and pasting occurs. Read/write **Boolean**.
 
 
 ## Syntax

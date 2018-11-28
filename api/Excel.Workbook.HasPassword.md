@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.HasPassword property (Excel)
 
- **True** if the workbook has a protection password. Read-only **Boolean** .
+ **True** if the workbook has a protection password. Read-only **Boolean**.
 
 
 ## Syntax

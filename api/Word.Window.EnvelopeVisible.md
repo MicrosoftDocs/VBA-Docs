@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.EnvelopeVisible property (Word)
 
- **True** if the email message header is visible in the document window. The default value is **False** . Read/write **Boolean** .
+ **True** if the email message header is visible in the document window. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

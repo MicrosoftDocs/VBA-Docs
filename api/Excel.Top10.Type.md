@@ -25,7 +25,7 @@ Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatCon
 
 ## Remarks
 
-This property will always return a  **Long** value of "5", which is equivalent to **xlTop10** .
+This property will always return a  **Long** value of "5", which is equivalent to **xlTop10**.
 
 
 ## See also

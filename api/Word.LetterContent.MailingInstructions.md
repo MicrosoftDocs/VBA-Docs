@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.MailingInstructions property (Word)
 
-Returns or sets the mailing instruction text for a letter created by the Letter Wizard (for example, "Certified Mail"). Read/write  **String** .
+Returns or sets the mailing instruction text for a letter created by the Letter Wizard (for example, "Certified Mail"). Read/write  **String**.
 
 
 ## Syntax

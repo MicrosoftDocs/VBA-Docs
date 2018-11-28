@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.EnvelopeVisible property (Excel)
 
- **True** if the email composition header and the envelope toolbar are both visible. Read/write **Boolean** .
+ **True** if the email composition header and the envelope toolbar are both visible. Read/write **Boolean**.
 
 
 ## Syntax

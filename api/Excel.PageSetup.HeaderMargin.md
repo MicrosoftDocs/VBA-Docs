@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.HeaderMargin property (Excel)
 
-Returns or sets the distance from the top of the page to the header, in points. Read/write  **Double** .
+Returns or sets the distance from the top of the page to the header, in points. Read/write  **Double**.
 
 
 ## Syntax

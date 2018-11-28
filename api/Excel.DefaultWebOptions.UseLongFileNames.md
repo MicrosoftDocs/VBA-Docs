@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.UseLongFileNames property (Excel)
 
- **True** if long file names are used when you save the document as a Web page. **False** if long file names are not used and the DOS file name format (8.3) is used. The default value is **True** . Read/write **Boolean** .
+ **True** if long file names are used when you save the document as a Web page. **False** if long file names are not used and the DOS file name format (8.3) is used. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

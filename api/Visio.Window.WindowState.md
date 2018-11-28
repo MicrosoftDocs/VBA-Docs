@@ -30,10 +30,10 @@ Long
 
 ## Remarks
 
-The  **WindowState** property value can be a combination of the constants declared in the Visio type library in **[VisWindowStates](Visio.viswindowstates.md)** .
+The  **WindowState** property value can be a combination of the constants declared in the Visio type library in **[VisWindowStates](Visio.viswindowstates.md)**.
 
 
- **Note**  The nFlags parameter to the  **Add** method for the **Windows** collection can be composed of the various bits of **VisWindowStates** .
+ **Note**  The nFlags parameter to the  **Add** method for the **Windows** collection can be composed of the various bits of **VisWindowStates**.
 
 If you specify conflicting bits, only one bit is used. For example, if you specify both  **visWSMaximized** and **visWSMinimized** , the window is maximized.
 

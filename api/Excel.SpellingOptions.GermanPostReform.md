@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.GermanPostReform property (Excel)
 
- **True** to check the spelling of words using the German post-reform rules. **False** cancels this feature. Read/write **Boolean** .
+ **True** to check the spelling of words using the German post-reform rules. **False** cancels this feature. Read/write **Boolean**.
 
 
 ## Syntax

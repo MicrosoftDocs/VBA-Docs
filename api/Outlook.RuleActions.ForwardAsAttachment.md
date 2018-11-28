@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleActions.ForwardAsAttachment Property (Outlook)
 
-Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForwardAsAttachment** . Read-only.
+Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRuleAction.ActionType](Outlook.SendRuleAction.ActionType.md)** being **olRuleActionForwardAsAttachment**. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRu
 
 Use the returned  **SendRuleAction** object when enumerating the rule actions of an existing rule or when creating a new rule that specifies forwarding a message as an attachment to specific recipients as an action.
 
-This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **SendRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[SendRuleAction.Enabled](Outlook.SendRuleAction.Enabled.md)** will be **True** .
+This property of the  **[RuleActions](Outlook.RuleActions.md)** collection always returns a **SendRuleAction** object regardless of whether the rule associated with this **RuleActions** collection has defined such a rule action. If the rule has defined and enabled such a rule action, then **[SendRuleAction.Enabled](Outlook.SendRuleAction.Enabled.md)** will be **True**.
 
 
 ## See also

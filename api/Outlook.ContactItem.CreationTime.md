@@ -25,7 +25,7 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagCreationTime** .
+This property corresponds to the MAPI property  **PidTagCreationTime**.
 
 
 ## See also

@@ -39,7 +39,7 @@ Returns an  **AppointmentItem** that represents the object created in the destin
 
 ## Remarks
 
-If no argument is specified for the  _CopyOptions_ parameter, **CopyTo** assumes that the value is **olCreateAppointment** .
+If no argument is specified for the  _CopyOptions_ parameter, **CopyTo** assumes that the value is **olCreateAppointment**.
 
  **CopyTo** returns an error if the destination folder is not an appropriate folder type for an **AppointmentItem** object, or if the user does not have the necessary permissions to create items in the specified destination folder.
 

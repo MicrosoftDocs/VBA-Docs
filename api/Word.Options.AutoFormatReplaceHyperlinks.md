@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatReplaceHyperlinks property (Word)
 
- **True** if email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean** .
+ **True** if email addresses, server and share names (also known as UNC paths), and Internet addresses (also known as URLs) are automatically formatted whenever Word AutoFormats a document or range. Read/write **Boolean**.
 
 
 ## Syntax

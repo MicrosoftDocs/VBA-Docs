@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FootnoteOptions.Location property (Word)
 
-Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation** .
+Returns or sets the position of all footnotes. Read/write  **WdFootnoteLocation**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Rotation property (Word)
 
-Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write  **Single** .
+Returns or sets the number of degrees the specified shape is rotated around the z-axis. Read/write  **Single**.
 
 
 ## Syntax

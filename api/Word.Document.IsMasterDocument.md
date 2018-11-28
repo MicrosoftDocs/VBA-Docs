@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.IsMasterDocument property (Word)
 
- **True** if the specified document is a master document. Read-only **Boolean** .
+ **True** if the specified document is a master document. Read-only **Boolean**.
 
 
 ## Syntax

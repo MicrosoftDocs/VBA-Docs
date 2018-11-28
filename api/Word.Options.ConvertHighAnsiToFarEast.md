@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ConvertHighAnsiToFarEast property (Word)
 
- **True** if Microsoft Word converts text that is associated with an East Asian font to the appropriate font when it opens a document. Read/write **Boolean** .
+ **True** if Microsoft Word converts text that is associated with an East Asian font to the appropriate font when it opens a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ShowBubbleSize property (Word)
 
- **True** to show the bubble size for the data labels on a chart. **False** to hide the bubble size. Read/write **Boolean** .
+ **True** to show the bubble size for the data labels on a chart. **False** to hide the bubble size. Read/write **Boolean**.
 
 
 ## Syntax

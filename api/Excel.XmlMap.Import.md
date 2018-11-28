@@ -30,7 +30,7 @@ Imports data from the specified XML data file into cells that have been mapped t
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Url_|Required| **String**|The path to the XML data to import. The path can be specified in Universal Naming convention (UNC) or Uniform Resource Locator (URL) format. The file can be an XML data file.|
-| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False** .|
+| _Overwrite_|Optional| **Variant**|Set to  **True** to overwrite existing data. Set to **False** to append to existing data. The default value is **False**.|
 
 ## Return value
 

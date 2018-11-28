@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Walls property (Word)
 
-Returns the walls of the 3-D chart. Read-only  **[Walls](Word.Walls.md)** .
+Returns the walls of the 3-D chart. Read-only  **[Walls](Word.Walls.md)**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Chart.Title Property (Access)
+title: Chart.Title property (Access)
 keywords: vbaac10.chm6111
 f1_keywords:
 - vbaac10.chm6111
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.Title Property (Access)
+# Chart.Title property (Access)
 
-Returns or sets the title for the specified chart. Read/write **String** .
+Returns or sets the title for the specified chart. Read/write **String**.
 
 
 ## Syntax

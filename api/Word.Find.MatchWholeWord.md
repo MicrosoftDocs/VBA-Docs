@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchWholeWord property (Word)
 
- **True** if the find operation locates only entire words and not text that's part of a larger word. Read/write **Boolean** .
+ **True** if the find operation locates only entire words and not text that's part of a larger word. Read/write **Boolean**.
 
 
 ## Syntax

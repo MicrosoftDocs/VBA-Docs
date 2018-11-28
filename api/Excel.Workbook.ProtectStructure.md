@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ProtectStructure property (Excel)
 
- **True** if the order of the sheets in the workbook is protected. Read-only **Boolean** .
+ **True** if the order of the sheets in the workbook is protected. Read-only **Boolean**.
 
 
 ## Syntax

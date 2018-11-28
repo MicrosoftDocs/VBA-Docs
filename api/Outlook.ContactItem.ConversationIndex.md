@@ -25,7 +25,7 @@ Returns a  **String** that indicates the relative position of the item within th
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagConversationIndex** .
+This property corresponds to the MAPI property  **PidTagConversationIndex**.
 
 
 ## See also

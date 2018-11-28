@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultWidth property (Word)
 
-Returns or sets the default envelope width, in points. Read/write  **Single** .
+Returns or sets the default envelope width, in points. Read/write  **Single**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.FormattingShowParagraph property (Word)
 
- **True** for Microsoft Word to display paragraph formatting in the **Styles and Formatting** task pane. Read/write **Boolean** .
+ **True** for Microsoft Word to display paragraph formatting in the **Styles and Formatting** task pane. Read/write **Boolean**.
 
 
 ## Syntax

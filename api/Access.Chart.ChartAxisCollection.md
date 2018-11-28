@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartAxisCollection Property (Access)
+title: Chart.ChartAxisCollection property (Access)
 keywords: vbaac10.chm14761
 f1_keywords:
 - vbaac10.chm14761
@@ -10,7 +10,7 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartAxisCollection Property (Access)
+# Chart.ChartAxisCollection property (Access)
 
 A collection of all the **[ChartAxis](Access.ChartAxis.md)** objects in the specified chart.
 

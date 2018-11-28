@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MatchFuzzyKanji property (Word)
 
- **True** if Microsoft Word ignores the distinction between standard and nonstandard kanji ideography during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between standard and nonstandard kanji ideography during a search. Read/write **Boolean**.
 
 
 ## Syntax

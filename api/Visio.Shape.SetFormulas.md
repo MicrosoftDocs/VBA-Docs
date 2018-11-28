@@ -31,7 +31,7 @@ Sets the formulas of one or more cells.
 |:-----|:-----|:-----|:-----|
 | _SID_SRCStream()_|Required| **Integer**|Stream identifying cells to be modified.|
 | _formulaArray()_|Required| **Variant**|Formulas to be assigned to identified cells.|
-| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas** .|
+| _Flags_|Required| **Integer**|Flags that influence the behavior of  **SetFormulas**.|
 
 ## Return value
 
@@ -55,7 +55,7 @@ For  **Shape** objects, _SID_SRCStream()_ should be a one-dimensional array of 3
 
 where  _sectionIdx_ is the section index of the desired cell, _rowIdx_ is its row index, and _cellIdx_ is its cell index.
 
-The  _formulaArray()_ parameter should be a one-dimensional array of 1 <= _m_ variants. Each **Variant** should be a **String** , a reference to a **String** , or **Empty** . If _formulaArray(i)_ is empty, the _i_ 'th cell will be set to the formula in _formulaArray(j)_ , where _j_ is the index of the most recent prior entry that is not empty. If there is no prior entry that is not empty, the corresponding cell is not altered. If fewer formulas than cells are specified ( _m_ < _n_ ), the _i_ 'th cell, _i_ > _m_ , will be set to the same formula as was chosen to set the _m_ 'th cell to. Thus to set many cells to the same formula, you need pass only one copy of the formula.
+The  _formulaArray()_ parameter should be a one-dimensional array of 1 <= _m_ variants. Each **Variant** should be a **String** , a reference to a **String** , or **Empty**. If _formulaArray(i)_ is empty, the _i_ 'th cell will be set to the formula in _formulaArray(j)_ , where _j_ is the index of the most recent prior entry that is not empty. If there is no prior entry that is not empty, the corresponding cell is not altered. If fewer formulas than cells are specified ( _m_ < _n_ ), the _i_ 'th cell, _i_ > _m_ , will be set to the same formula as was chosen to set the _m_ 'th cell to. Thus to set many cells to the same formula, you need pass only one copy of the formula.
 
 The  _Flags_ argument should be a bitmask of the following values.
 

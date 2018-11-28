@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CtrlClickHyperlinkToOpen property (Word)
 
- **True** if Microsoft Word requires holding down the CTRL key while clicking to open a hyperlink. Read/write **Boolean** .
+ **True** if Microsoft Word requires holding down the CTRL key while clicking to open a hyperlink. Read/write **Boolean**.
 
 
 ## Syntax

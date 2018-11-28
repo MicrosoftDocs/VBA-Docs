@@ -25,7 +25,7 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSensitivity** .
+This property corresponds to the MAPI property  **PidTagSensitivity**.
 
 
 ## See also

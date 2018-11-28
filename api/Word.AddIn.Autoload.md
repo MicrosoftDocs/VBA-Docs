@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Autoload property (Word)
 
- **True** if the specified add-in is automatically loaded when Word is started. Add-ins located in the Startup folder in the Word program folder are automatically loaded. Read-only **Boolean** .
+ **True** if the specified add-in is automatically loaded when Word is started. Add-ins located in the Startup folder in the Word program folder are automatically loaded. Read-only **Boolean**.
 
 
 ## Syntax

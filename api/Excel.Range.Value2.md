@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Value2 property (Excel)
 
-Returns or sets the cell value. Read/write  **Variant** .
+Returns or sets the cell value. Read/write  **Variant**.
 
 
 ## Syntax

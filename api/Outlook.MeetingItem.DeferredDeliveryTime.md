@@ -25,7 +25,7 @@ Returns or sets a  **Date** indicating the date and time the mail message is to 
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDeferredDeliveryTime** .
+This property corresponds to the MAPI property  **PidTagDeferredDeliveryTime**.
 
 
 ## See also

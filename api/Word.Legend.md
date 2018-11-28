@@ -20,7 +20,7 @@ Represents the legend in a chart. Each chart can have only one legend.
 
  The **Legend** object contains one or more **[LegendEntry](Word.LegendEntry.md)** objects; each **LegendEntry** object contains a **[LegendKey](Word.LegendKey.md)** object.
 
-The chart legend is not visible unless the  **[HasLegend](Word.Chart.HasLegend.md)** property is **True** . If this property is **False** , properties and methods of the **Legend** object will fail.
+The chart legend is not visible unless the  **[HasLegend](Word.Chart.HasLegend.md)** property is **True**. If this property is **False** , properties and methods of the **Legend** object will fail.
 
 
 ## Example

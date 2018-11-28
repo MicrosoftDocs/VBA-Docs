@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that represents the way pictures are displa
 
 ## Remarks
 
-This property can be set to one of the following constants:  **xlStack** or **xlStretch** .
+This property can be set to one of the following constants:  **xlStack** or **xlStretch**.
 
 
 ## See also

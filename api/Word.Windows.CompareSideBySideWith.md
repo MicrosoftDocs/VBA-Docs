@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.CompareSideBySideWith method (Word)
 
-Opens two windows in side by side mode. Returns a **Boolean** .
+Opens two windows in side by side mode. Returns a **Boolean**.
 
 
 ## Syntax

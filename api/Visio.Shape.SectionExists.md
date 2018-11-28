@@ -39,8 +39,8 @@ Integer
 
 ## Remarks
 
-If  _fExistsLocally_ is **False** (0), the **SectionExists** property returns **True** if the object either contains or inherits the section. If _fExistsLocally_ is **True** (non-zero), the **SectionExists** property returns **True** only if the object contains the section locally; if the section is inherited, the **SectionExists** property returns **False** .
+If  _fExistsLocally_ is **False** (0), the **SectionExists** property returns **True** if the object either contains or inherits the section. If _fExistsLocally_ is **True** (non-zero), the **SectionExists** property returns **True** only if the object contains the section locally; if the section is inherited, the **SectionExists** property returns **False**.
 
-Constants that represent sections are prefixed with  **visSection** and are declared by the Microsoft Visio type library in **[VisSectionIndices](Visio.vissectionindices.md)** .
+Constants that represent sections are prefixed with  **visSection** and are declared by the Microsoft Visio type library in **[VisSectionIndices](Visio.vissectionindices.md)**.
 
 

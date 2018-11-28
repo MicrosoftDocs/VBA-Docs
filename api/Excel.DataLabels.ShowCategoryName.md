@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.ShowCategoryName property (Excel)
 
- **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean** .
+ **True** to display the category name for the data labels on a chart. **False** to hide. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.MatchFuzzyDash property (Word)
 
- **True** if Microsoft Word ignores the distinction between minus signs, long vowel sounds, and dashes during a search. Read/write **Boolean** .
+ **True** if Microsoft Word ignores the distinction between minus signs, long vowel sounds, and dashes during a search. Read/write **Boolean**.
 
 
 ## Syntax

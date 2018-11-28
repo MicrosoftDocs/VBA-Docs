@@ -20,7 +20,7 @@ Represents a style defined in a document.
 
 You retrieve a particular style from the  **Styles** collection of a **Document** object.
 
-The default property of a  **Style** object is **Name** .
+The default property of a  **Style** object is **Name**.
 
 Any  **Shape** object to which a style is applied inherits the attributes defined by the style. Use the **LineStyle** , **FillStyle** , **TextStyle** , or **Style** property of a **Shape** object to apply a style to a shape or to determine what style is applied to a shape.
 

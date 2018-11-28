@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if the new item row is disp
 
 ## Remarks
 
-The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True** .
+The value of this property applies only if the  **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True**.
 
 
 ## Example

@@ -25,10 +25,10 @@ Returns or sets a  **Boolean** that represents whether the user can delete a con
 
 ## Remarks
 
-The default value of this property is  **False** . This property corresponds to the **Content control cannot be deleted** check box in the **Content Control Properties** dialog box.
+The default value of this property is  **False**. This property corresponds to the **Content control cannot be deleted** check box in the **Content Control Properties** dialog box.
 
 
- **Note**  You cannot set this property if the  **[Temporary](Word.ContentControl.Temporary.md)** property is set to **True** .
+ **Note**  You cannot set this property if the  **[Temporary](Word.ContentControl.Temporary.md)** property is set to **True**.
 
 
 ## Example

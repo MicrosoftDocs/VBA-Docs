@@ -25,7 +25,7 @@ Returns a  **String** that represents the folder suffix that Microsoft Word uses
 
 ## Remarks
 
-To save supporting files in a separate folder, set the  **UseLongFileNames** and **OrganizeInFolder** properties to **True** .
+To save supporting files in a separate folder, set the  **UseLongFileNames** and **OrganizeInFolder** properties to **True**.
 
 Newly created documents use the suffix returned by the  **FolderSuffix** property of the **DefaultWebOptions** object. The value of the **FolderSuffix** property of the **WebOptions** object may differ from that of the **DefaultWebOptions** object if the document was previously edited in a different language version of Microsoft Word. You can use the **UseDefaultFolderSuffix** method to change the suffix to the language you are currently using in Microsoft Office.
 

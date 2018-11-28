@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.SavePassword property (Excel)
 
- **True** if password information in an ODBC connection string is saved with the specified query. **False** if the password is removed. Read/write **Boolean** .
+ **True** if password information in an ODBC connection string is saved with the specified query. **False** if the password is removed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ This property is used in both ODBC and OLEDB queries, and by both PivotTables an
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **SavePassword** property.
 

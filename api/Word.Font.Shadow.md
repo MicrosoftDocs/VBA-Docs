@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Shadow property (Word)
 
- **True** if the specified font is formatted as shadowed. Read/write **Long** .
+ **True** if the specified font is formatted as shadowed. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** .
+This property can be  **True** , **False** , or **wdUndefined**.
 
 
 ## Example

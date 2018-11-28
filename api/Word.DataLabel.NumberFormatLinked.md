@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.NumberFormatLinked property (Word)
 
- **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean** .
+ **True** if the number format is linked to the cells (so that the number format changes in the labels when it changes in the cells). Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.ListFillRange property (Excel)
 
-Returns or sets the worksheet range used to fill the specified list box. Setting this property destroys any existing list in the list box. Read/write  **String** .
+Returns or sets the worksheet range used to fill the specified list box. Setting this property destroys any existing list in the list box. Read/write  **String**.
 
 
 ## Syntax

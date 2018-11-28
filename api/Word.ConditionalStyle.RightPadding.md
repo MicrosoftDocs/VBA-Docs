@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ConditionalStyle.RightPadding property (Word)
 
-Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single** .
+Returns or sets the amount of space (in points) to add to the right of the contents of a single cell or all the cells in a table. Read/write  **Single**.
 
 
 ## Syntax

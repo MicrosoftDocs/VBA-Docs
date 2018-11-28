@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisTitle Property (Access)
+title: Chart.SecondaryValuesAxisTitle property (Access)
 keywords: vbaac10.chm6163
 f1_keywords:
 - vbaac10.chm6163
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisTitle Property (Access)
+# Chart.SecondaryValuesAxisTitle property (Access)
 
-Returns or sets the title for the secondary values axis. Read/write **String** .
+Returns or sets the title for the secondary values axis. Read/write **String**.
 
 
 ## Syntax

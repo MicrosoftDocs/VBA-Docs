@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.Type property (Word)
 
-Returns the style type. Read-only  **[WdStyleType](Word.WdStyleType.md)** .
+Returns the style type. Read-only  **[WdStyleType](Word.WdStyleType.md)**.
 
 
 ## Syntax

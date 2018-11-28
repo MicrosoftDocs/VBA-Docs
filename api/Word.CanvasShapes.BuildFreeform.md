@@ -29,7 +29,7 @@ Builds a freeform object. Returns a  **[FreeformBuilder](Word.FreeformBuilder.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either  **msoEditingAuto** or **msoEditingCorner** ; cannot be **msoEditingSmooth** or **msoEditingSymmetric** .|
+| _EditingType_|Required| **MsoEditingType**|The EditingType parameter can be either  **msoEditingAuto** or **msoEditingCorner** ; cannot be **msoEditingSmooth** or **msoEditingSymmetric**.|
 | _X1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the left edge of the document.|
 | _Y1_|Required| **Single**|The position (in points) of the first node in the freeform drawing relative to the top of the document.|
 

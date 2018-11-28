@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HiLoLines property (Word)
 
-Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](Word.HiLoLines.md)** .
+Returns the high-low lines for a series on a line chart. Read-only  **[HiLoLines](Word.HiLoLines.md)**.
 
 
 ## Syntax

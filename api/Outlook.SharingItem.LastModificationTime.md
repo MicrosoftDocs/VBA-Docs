@@ -25,7 +25,7 @@ Returns a  **Date** specifying the date and time that the **[SharingItem](Outloo
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagLastModificationTime** .
+This property corresponds to the MAPI property  **PidTagLastModificationTime**.
 
 
 ## Example

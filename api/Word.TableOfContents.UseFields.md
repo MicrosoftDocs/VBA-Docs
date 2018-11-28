@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfContents.UseFields property (Word)
 
- **True** if Table of Contents Entry (TC) fields are used to create a table of contents or a table of figures. Read/write **Boolean** .
+ **True** if Table of Contents Entry (TC) fields are used to create a table of contents or a table of figures. Read/write **Boolean**.
 
 
 ## Syntax

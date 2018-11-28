@@ -25,7 +25,7 @@ Returns a  **[Dictionary](Word.Dictionary.md)** object that represents the activ
 
 ## Remarks
 
-If there is no hyphenation dictionary installed for the specified language, this property returns  **Nothing** .
+If there is no hyphenation dictionary installed for the specified language, this property returns  **Nothing**.
 
 
 ## Example

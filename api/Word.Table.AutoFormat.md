@@ -30,15 +30,15 @@ Applies a predefined look to a table.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Format_|Optional| **Variant**|The format to apply. This parameter can be a  **[WdTableFormat](Word.WdTableFormat.md)** constant, a **[WdTableFormatApply](Word.WdTableFormatApply.md)** constant, or a **TableStyle** object.|
-| _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True** .|
-| _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format. The default value is **True** .|
-| _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format. The default value is **True** .|
-| _ApplyColor_|Optional| **Variant**| **True** to apply the color properties of the specified format. The default value is **True** .|
-| _ApplyHeadingRows_|Optional| **Variant**| **True** to apply the heading-row properties of the specified format. The default value is **True** .|
-| _ApplyLastRow_|Optional| **Variant**| **True** to apply the last-row properties of the specified format. The default value is **False** .|
-| _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format. The default value is **True** .|
-| _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format. The default value is **False** .|
-| _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells. The default value is **True** .|
+| _ApplyBorders_|Optional| **Variant**| **True** to apply the border properties of the specified format. The default value is **True**.|
+| _ApplyShading_|Optional| **Variant**| **True** to apply the shading properties of the specified format. The default value is **True**.|
+| _ApplyFont_|Optional| **Variant**| **True** to apply the font properties of the specified format. The default value is **True**.|
+| _ApplyColor_|Optional| **Variant**| **True** to apply the color properties of the specified format. The default value is **True**.|
+| _ApplyHeadingRows_|Optional| **Variant**| **True** to apply the heading-row properties of the specified format. The default value is **True**.|
+| _ApplyLastRow_|Optional| **Variant**| **True** to apply the last-row properties of the specified format. The default value is **False**.|
+| _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format. The default value is **True**.|
+| _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format. The default value is **False**.|
+| _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells. The default value is **True**.|
 
 ## Remarks
 

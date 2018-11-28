@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MathCoprocessorAvailable property (Excel)
 
- **True** if a math coprocessor is available. Read-only **Boolean** .
+ **True** if a math coprocessor is available. Read-only **Boolean**.
 
 
 ## Syntax

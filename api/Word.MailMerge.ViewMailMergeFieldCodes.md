@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.ViewMailMergeFieldCodes property (Word)
 
- **True** if merge field names are displayed in a mail merge main document. **False** if information from the current record is displayed. Read/write **Long** .
+ **True** if merge field names are displayed in a mail merge main document. **False** if information from the current record is displayed. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the  **[ShowFieldCodes](Word.View.ShowFieldCodes.md)** property to **False** .
+If the active document isn't a mail merge main document, this property causes an error. To view merge field names or their results, set the  **[ShowFieldCodes](Word.View.ShowFieldCodes.md)** property to **False**.
 
 
 ## Example

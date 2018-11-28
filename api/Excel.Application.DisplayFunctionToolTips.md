@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayFunctionToolTips property (Excel)
 
- **True** if function ToolTips can be displayed. Read/write **Boolean** .
+ **True** if function ToolTips can be displayed. Read/write **Boolean**.
 
 
 ## Syntax

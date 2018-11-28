@@ -33,7 +33,7 @@ Returns a  **Boolean** indicating if a search will be synchronous or asynchronou
 
 ## Return value
 
- **True** if the search is synchronous; otherwise, **False** .
+ **True** if the search is synchronous; otherwise, **False**.
 
 
 ## Remarks

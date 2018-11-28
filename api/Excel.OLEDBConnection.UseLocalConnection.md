@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.UseLocalConnection property (Excel)
 
- **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean** .
+ **True** if the **[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)** property is used to specify the string that enables Microsoft Excel to connect to a data source. **False** if the connection string specified by the **[Connection](Excel.OLEDBConnection.Connection.md)** property is used. Read/write **Boolean**.
 
 
 ## Syntax

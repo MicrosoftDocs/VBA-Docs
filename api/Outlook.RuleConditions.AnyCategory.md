@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RuleConditions.AnyCategory Property (Outlook)
 
-Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionAnyCategory** . Read-only.
+Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCondition.ConditionType](Outlook.RuleCondition.ConditionType.md)** of **olConditionAnyCategory**. Read-only.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ Returns a  **[RuleCondition](Outlook.RuleCondition.md)** object with a **[RuleCo
 
 Use the returned  **RuleCondition** object when enumerating the rule conditions or exception conditions of an existing rule, or when creating a rule that specifies the condition or exception condition that the message is assigned to any category.
 
-This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **RuleCondition** object, regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[RuleCondition.Enabled](Outlook.RuleCondition.Enabled.md)** will be **True** .
+This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection always returns a **RuleCondition** object, regardless of whether the rule associated with this **RuleConditions** collection has defined such a rule condition. If the rule has defined and enabled such a rule condition, then **[RuleCondition.Enabled](Outlook.RuleCondition.Enabled.md)** will be **True**.
 
 
 ## See also

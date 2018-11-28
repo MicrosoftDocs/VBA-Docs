@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.Type property (Word)
 
-Returns or sets the series type. Read/write  **Long** .
+Returns or sets the series type. Read/write  **Long**.
 
 
 ## Syntax

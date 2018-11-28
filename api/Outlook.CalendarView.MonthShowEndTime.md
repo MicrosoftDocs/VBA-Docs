@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether end times for Outloo
 
 ## Remarks
 
-The value of this property is applicable only when the  **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property of the **CalendarView** object is set to **olCalendarViewMonth** .
+The value of this property is applicable only when the  **[CalendarViewMode](Outlook.CalendarView.CalendarViewMode.md)** property of the **CalendarView** object is set to **olCalendarViewMonth**.
 
 
 ## See also

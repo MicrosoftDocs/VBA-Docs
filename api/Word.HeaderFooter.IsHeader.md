@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HeaderFooter.IsHeader property (Word)
 
- **True** if the specified **HeaderFooter** object is a header. Read-only **Boolean** .
+ **True** if the specified **HeaderFooter** object is a header. Read-only **Boolean**.
 
 
 ## Syntax

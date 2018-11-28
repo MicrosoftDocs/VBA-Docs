@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.UserName property (Word)
 
-Returns or sets the user's name, which is used on envelopes and for the Author document property. Read/write  **String** .
+Returns or sets the user's name, which is used on envelopes and for the Author document property. Read/write  **String**.
 
 
 ## Syntax

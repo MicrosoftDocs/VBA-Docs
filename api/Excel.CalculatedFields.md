@@ -20,7 +20,7 @@ A collection of  **[PivotField](Excel.PivotField.md)** objects that represents a
 
 A report that contains Revenue and Expense fields could have a calculated field named "Profit" defined as the amount in the Revenue field minus the amount in the Expense field.
 
-For OLAP data sources, you cannot set this collection, and it always returns  **Nothing** .
+For OLAP data sources, you cannot set this collection, and it always returns  **Nothing**.
 
 Use the  **[CalculatedFields](Excel.PivotTable.CalculatedFields.md)** method to return the **CalculatedFields** collection .
 

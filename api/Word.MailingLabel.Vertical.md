@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailingLabel.Vertical property (Word)
 
- **True** vertically orients text on Asian mailing labels. Read/write **Boolean** .
+ **True** vertically orients text on Asian mailing labels. Read/write **Boolean**.
 
 
 ## Syntax

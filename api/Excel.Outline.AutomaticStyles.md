@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Outline.AutomaticStyles property (Excel)
 
- **True** if the outline uses automatic styles. Read/write **Boolean** .
+ **True** if the outline uses automatic styles. Read/write **Boolean**.
 
 
 ## Syntax

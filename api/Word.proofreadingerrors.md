@@ -48,7 +48,7 @@ Set myRange = Selection.Range.GrammaticalErrors(1)
 Msgbox myRange.Text
 ```
 
-The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True** .
+The  **Count** property for this collection in a document returns the number of items in the main story only. To count items in other stories use the collection with the **Range** object. If all the words in the document or range are spelled correctly and are grammatically correct, the **Count** property for the **ProofreadingErrors** object returns 0 (zero) and the **SpellingChecked** and **GrammarChecked** properties return **True**.
 
 
  **Note**  There is no ProofreadingError object; instead, each item in the  **ProofreadingErrors** collection is a **Range** object that represents one spelling or grammatical error.

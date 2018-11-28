@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFormat.Line property (Word)
 
-Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](Word.LineFormat.md)** .
+Returns the line formatting properties for the specified chart element. Read-only  **[LineFormat](Word.LineFormat.md)**.
 
 
 ## Syntax

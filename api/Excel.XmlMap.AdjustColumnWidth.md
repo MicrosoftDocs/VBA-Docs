@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.AdjustColumnWidth property (Excel)
 
- **True** if the column widths are automatically adjusted for the best fit each time you refresh the specified XML map. **False** if the column widths aren't automatically adjusted with each refresh. The default value is **True** . Read/write **Boolean** .
+ **True** if the column widths are automatically adjusted for the best fit each time you refresh the specified XML map. **False** if the column widths aren't automatically adjusted with each refresh. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

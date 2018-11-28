@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.HighlightChangesOnScreen property (Excel)
 
- **True** if changes to the shared workbook are highlighted on-screen. Read/write **Boolean** .
+ **True** if changes to the shared workbook are highlighted on-screen. Read/write **Boolean**.
 
 
 ## Syntax

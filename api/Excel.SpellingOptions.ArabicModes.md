@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.ArabicModes property (Excel)
 
-Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabicModes](Excel.XlArabicModes.md)** .
+Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabicModes](Excel.XlArabicModes.md)**.
 
 
 ## Syntax
@@ -30,10 +30,10 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabi
 
 
 | **xlArabicModes** can be one of these **xlArabicModes** constants.|
-| **xlArabicNone** . The spelling checker ignores spelling rules regarding either Arabic words ending with the letter yaa or Arabic words beginning with an alef hamza.|
-| **xlArabicBothStrict** . The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|
-| **xlArabicStrictAlefHamza** . The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|
-| **xlArabicStrictFinalYaa** . The spelling checker uses spelling rules regarding Arabic words ending with the letter yaa.|
+| **xlArabicNone**. The spelling checker ignores spelling rules regarding either Arabic words ending with the letter yaa or Arabic words beginning with an alef hamza.|
+| **xlArabicBothStrict**. The spelling checker uses spelling rules regarding both Arabic words ending with the letter yaa and Arabic words beginning with an alef hamza.|
+| **xlArabicStrictAlefHamza**. The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|
+| **xlArabicStrictFinalYaa**. The spelling checker uses spelling rules regarding Arabic words ending with the letter yaa.|
 
 ## Example
 

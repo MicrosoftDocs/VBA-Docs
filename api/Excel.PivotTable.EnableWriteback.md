@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.EnableWriteback property (Excel)
 
- Returns or sets whether writing back to the data source is enabled for the specified PivotTable. The default value is **False** . Read/write.
+ Returns or sets whether writing back to the data source is enabled for the specified PivotTable. The default value is **False**. Read/write.
 
 
 ## Syntax

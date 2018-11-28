@@ -56,7 +56,7 @@ For an event to successfully pass through an object event filter, it must satisf
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For details about defining event filters using command IDs, see the  **SetFilterObjects** method.
 

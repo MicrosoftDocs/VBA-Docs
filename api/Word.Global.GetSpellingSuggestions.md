@@ -31,7 +31,7 @@ Returns a  **[SpellingSuggestions](Word.spellingsuggestions.md)** collection tha
 |:-----|:-----|:-----|:-----|
 | _Word_|Required| **String**|The word whose spelling is to be checked.|
 | _IgnoreUppercase_|Optional| **Variant**| **True** to ignore words in all uppercase letters. If this argument is omitted, the current value of the **[IgnoreUppercase](Word.Options.IgnoreUppercase.md)** property is used.|
-| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **[WdSpellingWordType](Word.WdSpellingWordType.md)** constants: **wdAnagram** , **wdSpellword** , or **wdWildcard** . The default value is **WdSpellword** .|
+| _SuggestionMode_|Optional| **Variant**|Specifies the way Word makes spelling suggestions. Can be one of the following  **[WdSpellingWordType](Word.WdSpellingWordType.md)** constants: **wdAnagram** , **wdSpellword** , or **wdWildcard**. The default value is **WdSpellword**.|
 
 ## Remarks
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.DisplayPageBoundaries property (Word)
 
- **True** to display the top and bottom margins (white space) and the gray area (gray space) between pages in a document. Read/write **Boolean** .
+ **True** to display the top and bottom margins (white space) and the gray area (gray space) between pages in a document. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
- **False** to hide from view the white and gray space so that the pages flow together as one long page. The default value is **True** .
+ **False** to hide from view the white and gray space so that the pages flow together as one long page. The default value is **True**.
 
 This feature is only available in the Print Layout view and only affects the gray space on the top and bottom of a page, not the left and right sides of a page. This setting affects the document in the in the specified window. When the document is saved, the state of this setting is saved with it.
 

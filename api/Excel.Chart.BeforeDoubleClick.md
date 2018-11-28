@@ -84,9 +84,9 @@ The following table describes the meaning of the arguments.
 
 |**Argument**|**Description**|
 |:-----|:-----|
-|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **xlAxisGroup** constants: **xlPrimary** or **xlSecondary** .|
-|AxisType|Specifies the axis type. Can be one of the following  **xlAxisType** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue** .|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **xlPivotFieldOrientation** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField** . The column and row field constants specify the series and category fields, respectively.|
+|AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **xlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
+|AxisType|Specifies the axis type. Can be one of the following  **xlAxisType** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **xlPivotFieldOrientation** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the  **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field.|
 |PointIndex|Specifies the offset within the  **[Points](Excel.Points(object).md)** collection for a specific point within a series. The value ? 1 indicates that all data points are selected.|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItem.Delete Method (Visio)
 
-Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** .
+Deletes a  **GraphicItem** object from the **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

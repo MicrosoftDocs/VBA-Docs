@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartSubtitleFontColor Property (Access)
+title: Chart.ChartSubtitleFontColor property (Access)
 keywords: vbaac10.chm6159
 f1_keywords:
 - vbaac10.chm6159
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartSubtitleFontColor Property (Access)
+# Chart.ChartSubtitleFontColor property (Access)
 
-Returns or sets the font color used by the chart subtitle. Read/write **Long** .
+Returns or sets the font color used by the chart subtitle. Read/write **Long**.
 
 You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatReplaceOrdinals property (Word)
 
- **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript when Word formats a document or range automatically. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean** .
+ **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript when Word formats a document or range automatically. For example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.
 
 
 ## Syntax

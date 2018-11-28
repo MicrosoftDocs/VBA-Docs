@@ -31,7 +31,7 @@ Use the **[AutoFit](Excel.Autofit.md)** method to set column widths based on the
 
 Use the **[Width](Excel.Width.md)** property to return the width of a column in points.
 
-If all columns in the range have the same width, the **ColumnWidth** property returns the width. If columns in the range have different widths, this property returns **null** .
+If all columns in the range have the same width, the **ColumnWidth** property returns the width. If columns in the range have different widths, this property returns **null**.
 
 
 ## Example

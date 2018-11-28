@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether the form region is v
 
 ## Remarks
 
- **True** if the form region is visible; **False** if it is hidden. The default is **True** .
+ **True** if the form region is visible; **False** if it is hidden. The default is **True**.
 
 Use the  **Visible** property to control access to information without displaying it in a form region.
 

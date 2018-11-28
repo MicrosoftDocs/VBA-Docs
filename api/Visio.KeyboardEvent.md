@@ -18,7 +18,7 @@ The object passed to  **VisEventProc** as the subject of **KeyDown** , **KeyPres
 
 ## Remarks
 
-The default property of  **KeyboardEvent** is **ToString** . The **ToString** property returns a string that represents the properties of the **KeyboardEvent** object, and has the form
+The default property of  **KeyboardEvent** is **ToString**. The **ToString** property returns a string that represents the properties of the **KeyboardEvent** object, and has the form
 
  _event code_ ; **KeyCode** property value; **KeyButtonState** property value; **KeyAscii** property value; **Window.Caption**
 

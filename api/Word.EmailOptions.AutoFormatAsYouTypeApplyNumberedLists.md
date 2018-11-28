@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeApplyNumberedLists property (Word)
 
- **True** if paragraphs are automatically formatted as numbered lists. Read/write **Boolean** .
+ **True** if paragraphs are automatically formatted as numbered lists. Read/write **Boolean**.
 
 
 ## Syntax

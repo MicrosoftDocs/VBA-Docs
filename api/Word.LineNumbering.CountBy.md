@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineNumbering.CountBy property (Word)
 
-Returns or sets the numeric increment for line numbers. Read/write  **Long** .
+Returns or sets the numeric increment for line numbers. Read/write  **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the numeric increment for line numbers. Read/write  **Long** .
 
 ## Remarks
 
-If the  **CountBy** property is set to 5, every fifth line will display the line number. Line numbers are only displayed in print layout view and print preview. This property has no effect unless the **[Active](Word.LineNumbering.Active.md)** property of the **LineNumbering** object is set to **True** .
+If the  **CountBy** property is set to 5, every fifth line will display the line number. Line numbers are only displayed in print layout view and print preview. This property has no effect unless the **[Active](Word.LineNumbering.Active.md)** property of the **LineNumbering** object is set to **True**.
 
 
 ## Example

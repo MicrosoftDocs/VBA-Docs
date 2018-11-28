@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeField.Locked property (Word)
 
- **True** if the specified field is locked. Read/write **Boolean** .
+ **True** if the specified field is locked. Read/write **Boolean**.
 
 
 ## Syntax

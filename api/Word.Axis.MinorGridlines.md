@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MinorGridlines property (Word)
 
-Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](Word.GridLines.md)** .
+Returns the minor gridlines for the specified axis. Read-only  **[Gridlines](Word.GridLines.md)**.
 
 
 ## Syntax

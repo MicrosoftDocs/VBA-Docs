@@ -29,7 +29,7 @@ Arranges all open document windows in the application workspace.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ArrangeStyle_|Optional| **Variant**|The window arrangement. Can be either of the following  **WdArrangeStyle** constants: **wdIcons** or **wdTiled** .|
+| _ArrangeStyle_|Optional| **Variant**|The window arrangement. Can be either of the following  **WdArrangeStyle** constants: **wdIcons** or **wdTiled**.|
 
 ## Remarks
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SpecialMode property (Word)
 
- **True** if Microsoft Word is in a special mode (for example, CopyText mode, or MoveText mode). Read-only **Boolean** .
+ **True** if Microsoft Word is in a special mode (for example, CopyText mode, or MoveText mode). Read-only **Boolean**.
 
 
 ## Syntax

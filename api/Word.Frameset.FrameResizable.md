@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FrameResizable property (Word)
 
- **True** if the user can resize the specified frame when the frames page is viewed in a Web browser. Read/write **Boolean** .
+ **True** if the user can resize the specified frame when the frames page is viewed in a Web browser. Read/write **Boolean**.
 
 
 ## Syntax

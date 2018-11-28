@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.AttachedTemplate property (Word)
 
-Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant** .
+Returns a  **[Template](Word.Template.md)** object that represents the template attached to the specified document. Read/write **Variant**.
 
 
 ## Syntax

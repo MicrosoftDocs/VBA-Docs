@@ -33,7 +33,7 @@ Scrolls the document window so that the contents of a specified rectangular area
 | _Top_|Required| **Long**|The vertical position of the rectangle (in points) from the top of the document window or pane.|
 | _Width_|Required| **Long**|The width of the rectangle, in points.|
 | _Height_|Required| **Long**|The height of the rectangle, in points.|
-| _Start_|Optional| **Variant**| **True** to have the upper-left corner of the rectangle appear in the upper-left corner of the document window or pane. **False** to have the lower-right corner of the rectangle appear in the lower-right corner of the document window or pane. The default value is **True** .|
+| _Start_|Optional| **Variant**| **True** to have the upper-left corner of the rectangle appear in the upper-left corner of the document window or pane. **False** to have the lower-right corner of the rectangle appear in the lower-right corner of the document window or pane. The default value is **True**.|
 
 ## Remarks
 

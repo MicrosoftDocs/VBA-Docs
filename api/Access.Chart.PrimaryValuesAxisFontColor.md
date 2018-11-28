@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisFontColor Property (Access)
+title: Chart.PrimaryValuesAxisFontColor property (Access)
 keywords: vbaac10.chm6132
 f1_keywords:
 - vbaac10.chm6132
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisFontColor Property (Access)
+# Chart.PrimaryValuesAxisFontColor property (Access)
 
-Returns or sets the font color used by the primary values axis. Read/write **Long** .
+Returns or sets the font color used by the primary values axis. Read/write **Long**.
 
 You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
 

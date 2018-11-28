@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintFieldCodes property (Word)
 
- **True** if Microsoft Word prints field codes instead of field results. Read/write **Boolean** .
+ **True** if Microsoft Word prints field codes instead of field results. Read/write **Boolean**.
 
 
 ## Syntax

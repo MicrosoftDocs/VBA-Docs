@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.CommandType property (Excel)
 
-Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Excel.XlCmdType.md)** .
+Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Excel.XlCmdType.md)**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets one of the  **xlCmdType** constants. Read/write **[xlCmdType](Ex
 
 ## Remarks
 
-The constant that is returned or set describes the value of the  **[CommandText](Excel.ODBCConnection.CommandText.md)** property. The default value is **xlCmdSQL** .
+The constant that is returned or set describes the value of the  **[CommandText](Excel.ODBCConnection.CommandText.md)** property. The default value is **xlCmdSQL**.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: ChartAxis.Name Property (Access)
+title: ChartAxis.Name property (Access)
 keywords: vbaac10.chm14771
 f1_keywords:
 - vbaac10.chm14771
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartAxis.Name Property (Access)
+# ChartAxis.Name property (Access)
 
-Returns the name of a **ChartAxis** instance based on its associated field. Read-only **String** .
+Returns the name of a **ChartAxis** instance based on its associated field. Read-only **String**.
 
 
 ## Syntax

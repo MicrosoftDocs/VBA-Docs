@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.FilterMode property (Excel)
 
- **True** if the worksheet is in the filter mode. Read-only **Boolean** .
+ **True** if the worksheet is in the filter mode. Read-only **Boolean**.
 
 
 ## Syntax

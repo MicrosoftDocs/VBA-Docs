@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ErrorString property (Excel)
 
-Returns or sets a  **String** value that represents the string displayed in cells that contain errors when the **[DisplayErrorString](Excel.PivotTable.DisplayErrorString.md)** property is **True** .
+Returns or sets a  **String** value that represents the string displayed in cells that contain errors when the **[DisplayErrorString](Excel.PivotTable.DisplayErrorString.md)** property is **True**.
 
 
 ## Syntax

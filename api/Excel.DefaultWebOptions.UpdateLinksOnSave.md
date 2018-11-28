@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.UpdateLinksOnSave property (Excel)
 
- **True** if hyperlinks and paths to all supporting files are automatically updated before you save the document as a Web page, ensuring that the links are up-to-date at the time the document is saved. **False** if the links are not updated. The default value is **True** . Read/write **Boolean** .
+ **True** if hyperlinks and paths to all supporting files are automatically updated before you save the document as a Web page, ensuring that the links are up-to-date at the time the document is saved. **False** if the links are not updated. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

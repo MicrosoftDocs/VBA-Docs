@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.Elevation property (Excel)
 
-Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long** .
+Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **Long**.
 
 
 ## Syntax

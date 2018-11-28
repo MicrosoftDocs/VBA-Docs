@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.MergeLabels property (Excel)
 
- **True** if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. Read/write **Boolean** .
+ **True** if the specified PivotTable report's outer-row item, column item, subtotal, and grand total labels use merged cells. Read/write **Boolean**.
 
 
 ## Syntax

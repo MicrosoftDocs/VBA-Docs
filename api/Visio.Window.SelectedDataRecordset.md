@@ -33,7 +33,7 @@ DataRecordset
 
 ## Remarks
 
-The  **SelectedDataRecordset** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRecordset** .
+The  **SelectedDataRecordset** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRecordset**.
 
 When you set the  **SelectedDataRecordset** property, the **DataRecordset** object you pass must not have been added with the **visDataRecordsetNoExternalDataUI** flag set.
 

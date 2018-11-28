@@ -20,6 +20,6 @@ Includes a  **[ValidationRule](Visio.ValidationRule.md)** object for each valida
 
 To get a  **ValidationRules** collection, use the **[Rules](Visio.ValidationRuleSet.Rules.md)** property of the **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object.
 
-The default property of the  **ValidationRules** collection is **[Item](Visio.ValidationRules.Item.md)** .
+The default property of the  **ValidationRules** collection is **[Item](Visio.ValidationRules.Item.md)**.
 
 

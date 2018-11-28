@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.ShowNegativeBubbles property (Excel)
 
- **True** if negative bubbles are shown for the chart group. Valid only for bubble charts. Read/write **Boolean** .
+ **True** if negative bubbles are shown for the chart group. Valid only for bubble charts. Read/write **Boolean**.
 
 
 ## Syntax

@@ -32,7 +32,7 @@ Sets the value of the expression string that is part of a  **GraphicItem** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem** . See Remarks for possible values.|
+| _Field_|Required| **VisGraphicField**|The label or formula of the primary data field (column) assigned to the  **GraphicItem**. See Remarks for possible values.|
 | _Expression_|Required| **String**|The ShapeSheet expression associated with the Field parameter.|
 
 ## Return value
@@ -74,7 +74,7 @@ The following Microsoft Visual Basic for Applications (VBA) macro shows how to u
 
 Then it closes the master and uses the  **GetExpression** method to get the mostly recently applied expression for the graphic item. Finally, it prints the field type and the value of the expression in the **Immediate** window.
 
-The macro assumes that a data graphic named "Data Graphic" exists in the current document. For more information about adding a data graphic master to the  **Masters** collection of the current document, see **[Masters.AddEx ](Visio.Masters.AddEx.md)** .
+The macro assumes that a data graphic named "Data Graphic" exists in the current document. For more information about adding a data graphic master to the  **Masters** collection of the current document, see **[Masters.AddEx ](Visio.Masters.AddEx.md)**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListTemplate.ListLevels property (Word)
 
-Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate** .
+Returns a  **[ListLevels](Word.listlevels.md)** collection that represents all the levels for the specified **ListTemplate**.
 
 
 ## Syntax

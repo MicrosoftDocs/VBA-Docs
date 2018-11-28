@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.InGridDropZones property (Excel)
 
-This property is used to toggle in-grid drop zones for a  **PivotTable** object. In some cases, it also affects the layout of the PivotTable. Read/write **Boolean** .
+This property is used to toggle in-grid drop zones for a  **PivotTable** object. In some cases, it also affects the layout of the PivotTable. Read/write **Boolean**.
 
 
 ## Syntax

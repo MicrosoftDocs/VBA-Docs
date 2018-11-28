@@ -21,7 +21,7 @@ The collection of  **DataColumn** objects associated with a **DataRecordset** ob
 
 ## Remarks
 
-The default property of the  **DataColumns** collection is **Item** .
+The default property of the  **DataColumns** collection is **Item**.
 
 A  **DataRecordset** object can contain only one **DataColumns** collection. The number of **DataColumn** objects that can belong to a **DataColumns** collection is limited only by the number of columns in the data source and the hardware constraints of your computer.
 

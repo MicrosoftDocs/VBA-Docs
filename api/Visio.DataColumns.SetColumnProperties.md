@@ -33,7 +33,7 @@ Sets one or more data-column properties for one or more data columns.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ColumnNames()_|Required| **String**|An array of strings that represent data column names.|
-| _Properties()_|Required| **Long**|An array of data-column properties, as  **VisDataColumnProperties** . See Remarks for possible values.|
+| _Properties()_|Required| **Long**|An array of data-column properties, as  **VisDataColumnProperties**. See Remarks for possible values.|
 | _Values()_|Required| **Variant**|An array of values to be assigned to the properties. See Remarks for possible values.|
 
 ## Return value
@@ -69,7 +69,7 @@ Possible values for items in the Values() parameter array depend on the correspo
 
 The following Microsoft Visual Basic for Applications (VBA) macro shows how to set the value of a single property for two different columns in the most recently added recordset in the  **DataRecordsets** collection of the active document. The macro assumes that the most recently added recordset is one based on data in the ORGDATA.xls spreadsheet that is shipped with Visio. Sample code for adding that data recordset is shown in the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** method topic. However, you can use this code with any data recordset that has at least two columns.
 
-The macro changes the display name of the first column to "Dept." and sets the  **Hyperlink** property of the second column to **True** . Thereafter (if you used ORGDATA as your data source), the email address of shapes linked to data in the data recordset will act as a hyperlink.
+The macro changes the display name of the first column to "Dept." and sets the  **Hyperlink** property of the second column to **True**. Thereafter (if you used ORGDATA as your data source), the email address of shapes linked to data in the data recordset will act as a hyperlink.
 
 Note that changing the display name of a data column changes only its  **[DisplayName](Visio.DataColumn.DisplayName.md)** property, and does not change the column's programmatic name, which is specified by its **[Name](Visio.DataColumn.Name.md)** property.
 

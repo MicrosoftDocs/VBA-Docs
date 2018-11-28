@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PrintPostScriptOverText property (Word)
 
- **True** if PRINT field instructions (such as PostScript commands) in a document are to be printed on top of text and graphics when a PostScript printer is used. Read/write **Boolean** .
+ **True** if PRINT field instructions (such as PostScript commands) in a document are to be printed on top of text and graphics when a PostScript printer is used. Read/write **Boolean**.
 
 
 ## Syntax

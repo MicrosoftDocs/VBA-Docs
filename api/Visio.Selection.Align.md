@@ -31,7 +31,7 @@ Aligns two or more selected shapes.
 |:-----|:-----|:-----|:-----|
 | _AlignHorizontal_|Required| **VisHorizontalAlignTypes**|Aligns selected shapes along a horizontal axis. See Remarks for possible values.|
 | _AlignVertical_|Required| **VisVerticalAlignTypes**|Aligns selected shapes along a vertical axis. See Remarks for possible values.|
-| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates a guide and glues selected shapes to it; if **False** , it does not. The default is **False** .|
+| _GlueToGuide_|Optional| **Boolean**|If  **True** , creates a guide and glues selected shapes to it; if **False** , it does not. The default is **False**.|
 
 ## Return value
 

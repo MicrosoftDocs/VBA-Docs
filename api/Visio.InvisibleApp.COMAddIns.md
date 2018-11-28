@@ -41,7 +41,7 @@ To get information about the object returned by the  **COMAddIns** property:
     
 3. In the  **Project/Library** list, click **Office**.
     
-4. Under  **Classes**, examine the class named  **COMAddIns** .
+4. Under  **Classes**, examine the class named  **COMAddIns**.
     
 
 ## Example

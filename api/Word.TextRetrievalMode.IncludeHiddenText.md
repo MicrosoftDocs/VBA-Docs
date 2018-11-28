@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRetrievalMode.IncludeHiddenText property (Word)
 
- **True** if the text retrieved from the specified range includes hidden text. Read/write **Boolean** .
+ **True** if the text retrieved from the specified range includes hidden text. Read/write **Boolean**.
 
 
 ## Syntax

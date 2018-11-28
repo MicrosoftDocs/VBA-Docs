@@ -30,7 +30,7 @@ Returns or sets whether Excel allows user-defined functions in XLL add-ins to be
 
 ## Remarks
 
- **True** if Excel allows user-defined functions in XLL add-ins to be run on a compute cluster; otherwise **False** . The setting of the **UseClusterConnector** property corresponds to the **Allow user-defined XLL functions to run on a compute cluster** check box under **Formulas** in the **Advanced** category of the **Excel Options** dialog box.
+ **True** if Excel allows user-defined functions in XLL add-ins to be run on a compute cluster; otherwise **False**. The setting of the **UseClusterConnector** property corresponds to the **Allow user-defined XLL functions to run on a compute cluster** check box under **Formulas** in the **Advanced** category of the **Excel Options** dialog box.
 
 
 

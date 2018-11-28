@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.RightAngleAxes property (Excel)
 
- **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write **Boolean** .
+ **True** if the chart axes are at right angles, independent of chart rotation or elevation. Applies only to 3-D line, column, and bar charts. Read/write **Boolean**.
 
 
 ## Syntax

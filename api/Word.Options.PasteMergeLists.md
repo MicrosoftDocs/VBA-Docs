@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteMergeLists property (Word)
 
- **True** to merge the formatting of pasted lists with surrounding lists. Read/write **Boolean** .
+ **True** to merge the formatting of pasted lists with surrounding lists. Read/write **Boolean**.
 
 
 ## Syntax

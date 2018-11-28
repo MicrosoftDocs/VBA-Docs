@@ -39,7 +39,7 @@ Object
 
 ## Remarks
 
-If no range or shape is located at the coordinate pair specified, the method returns  **Nothing** .
+If no range or shape is located at the coordinate pair specified, the method returns  **Nothing**.
 
 
 ## Example

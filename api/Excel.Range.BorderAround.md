@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.BorderAround method (Excel)
 
-Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[LineStyle](Excel.Border.LineStyle.md)** , and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant** .
+Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[LineStyle](Excel.Border.LineStyle.md)** , and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.ServerFontStyle property (Excel)
 
- **True** if the font style format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean** .
+ **True** if the font style format for the OLAP server is retrieved from the server when using the specified connection. Read/write **Boolean**.
 
 
 ## Syntax

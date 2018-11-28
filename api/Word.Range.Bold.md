@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.Bold property (Word)
 
- **True** if the range is formatted as bold. Read/write **Long** .
+ **True** if the range is formatted as bold. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** .
+Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle**.
 
 
 ## Example

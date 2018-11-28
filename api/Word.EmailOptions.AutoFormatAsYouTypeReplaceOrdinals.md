@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeReplaceOrdinals property (Word)
 
- **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type; for example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean** .
+ **True** if the ordinal number suffixes "st", "nd", "rd", and "th" are replaced with the same letters in superscript as you type; for example, "1st" is replaced with "1" followed by "st" formatted as superscript. Read/write **Boolean**.
 
 
 ## Syntax

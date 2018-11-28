@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartBorder.LineStyle property (Word)
 
-Returns or sets the line style for the border. Read/write  **[xlLineStyle](Word.xllinestyle.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic** .
+Returns or sets the line style for the border. Read/write  **[xlLineStyle](Word.xllinestyle.md)** , **xlGray25** , **xlGray50** , **xlGray75** , or **xlAutomatic**.
 
 
 ## Syntax

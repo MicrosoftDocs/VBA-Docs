@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.LockAspectRatio property (Excel)
 
- **True** if the specified shape retains its original proportions when you resize it. **False** if you can change the height and width of the shape independently of one another when you resize it. Read/write **[MsoTriState](./Office.MsoTriState.md)** .
+ **True** if the specified shape retains its original proportions when you resize it. **False** if you can change the height and width of the shape independently of one another when you resize it. Read/write **[MsoTriState](./Office.MsoTriState.md)**.
 
 
 ## Syntax
@@ -31,10 +31,10 @@ ms.date: 06/08/2017
 
 | **MsoTriState** can be one of these **MsoTriState** constants.|
 | **msoCTrue**|
-| **msoFalse** . You can change the height and width of the shape independently of one another when you resize it.|
+| **msoFalse**. You can change the height and width of the shape independently of one another when you resize it.|
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
-| **msoTrue** . The specified shape retains its original proportions when you resize it.|
+| **msoTrue**. The specified shape retains its original proportions when you resize it.|
 
 ## Example
 

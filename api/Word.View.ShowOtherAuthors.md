@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowOtherAuthors property (Word)
 
- **True** if other authors' presence should be visible in the document. Read/write **Boolean** .
+ **True** if other authors' presence should be visible in the document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.Points property (Excel)
 
-Returns the position of the specified node as a coordinate pair. Each coordinate is expressed in points. Read-only  **Variant** .
+Returns the position of the specified node as a coordinate pair. Each coordinate is expressed in points. Read-only  **Variant**.
 
 
 ## Syntax

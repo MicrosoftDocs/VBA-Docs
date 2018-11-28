@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FocusInMailHeader property (Word)
 
- **True** if the insertion point is in an email header field (the To: field, for example). Read-only **Boolean** .
+ **True** if the insertion point is in an email header field (the To: field, for example). Read-only **Boolean**.
 
 
 ## Syntax

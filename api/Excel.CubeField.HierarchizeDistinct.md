@@ -30,11 +30,11 @@ Returns or sets whether to order and remove duplicates when displaying the speci
 
 ## Remarks
 
- **True** if the named set is displayed as ordered with duplicates removed; otherwise **False** .
+ **True** if the named set is displayed as ordered with duplicates removed; otherwise **False**.
 
 The value of this property corresponds to the setting of the  **Automatically order and remove duplicates from the set** check box on the **Layout & Print** tab of the **Field Settings** dialog box for a named set in a PivotTable report based on an OLAP cube.
 
-This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet** .
+This property returns an error if the  **[CubeFieldType](Excel.CubeField.CubeFieldType.md)** property of the specified **CubeField** object is not **xlSet**.
 
 
 ## Example

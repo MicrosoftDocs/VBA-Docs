@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ControlFormat.LockedText property (Excel)
 
- **True** if the text in the specified object will be locked to prevent changes when the workbook is protected. Read/write **Boolean** .
+ **True** if the text in the specified object will be locked to prevent changes when the workbook is protected. Read/write **Boolean**.
 
 
 ## Syntax

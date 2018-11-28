@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.SaveDataSourceDefinition property (Excel)
 
- **True** if the data source definition of the specified XML schema map is saved with the workbook. The default value is **True** . Read/write **Boolean** .
+ **True** if the data source definition of the specified XML schema map is saved with the workbook. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

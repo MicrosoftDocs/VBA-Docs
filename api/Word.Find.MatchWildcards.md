@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Find.MatchWildcards property (Word)
 
- **True** if the text to find contains wildcards. Read/write **Boolean** .
+ **True** if the text to find contains wildcards. Read/write **Boolean**.
 
 
 ## Syntax

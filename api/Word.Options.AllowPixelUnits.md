@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AllowPixelUnits property (Word)
 
- **True** if Microsoft Word uses pixels as the default unit of measurement for HTML features that support measurements. Read/write **Boolean** .
+ **True** if Microsoft Word uses pixels as the default unit of measurement for HTML features that support measurements. Read/write **Boolean**.
 
 
 ## Syntax

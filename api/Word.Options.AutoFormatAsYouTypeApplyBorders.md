@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatAsYouTypeApplyBorders property (Word)
 
- **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean** .
+ **True** if a series of three or more hyphens (-), equal signs (=), or underscore characters (_) are automatically replaced by a specific border line when the ENTER key is pressed. Read/write **Boolean**.
 
 
 ## Syntax

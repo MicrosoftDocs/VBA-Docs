@@ -25,7 +25,7 @@ Sets or returns a  **Long** indicating whether lines in the rows of tables forma
 
 ## Remarks
 
- **True** to break the lines in table rows across page breaks. **False** to keep the lines in a row of a table all on the same page. The default setting is **True** .
+ **True** to break the lines in table rows across page breaks. **False** to keep the lines in a row of a table all on the same page. The default setting is **True**.
 
 
 ## Example

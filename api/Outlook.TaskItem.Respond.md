@@ -31,7 +31,7 @@ Responds to a task request.
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **[OlTaskResponse](Outlook.OlTaskResponse.md)**| The response to the request.|
 | _fNoUI_|Required| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
-| _fAdditionalTextDialog_|Required| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if _fNoUI_ is **False** .|
+| _fAdditionalTextDialog_|Required| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if _fNoUI_ is **False**.|
 
 ## Return value
 
@@ -49,7 +49,7 @@ The following table describes the behavior of the  **Respond** method depending 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
 | **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](Outlook.TaskItem.Send(method).md)** method.|
-| **True, False**|Same result as with  **True, True** .|
+| **True, False**|Same result as with  **True, True**.|
 | **False, True**|If the  **[Display](Outlook.TaskItem.Display.md)** method has been called, the user prompt appears. Otherwise, the item is sent without prompting and the resulting item is nothing.|
 | **False, False**|Does nothing. |
 

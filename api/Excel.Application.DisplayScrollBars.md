@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayScrollBars property (Excel)
 
- **True** if scroll bars are visible for all workbooks. Read/write **Boolean** .
+ **True** if scroll bars are visible for all workbooks. Read/write **Boolean**.
 
 
 ## Syntax

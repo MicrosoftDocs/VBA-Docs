@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.JoinBorders property (Word)
 
- **True** if vertical borders at the edges of paragraphs and tables are removed so that the horizontal borders can connect to the page border. Read/write **Boolean** .
+ **True** if vertical borders at the edges of paragraphs and tables are removed so that the horizontal borders can connect to the page border. Read/write **Boolean**.
 
 
 ## Syntax

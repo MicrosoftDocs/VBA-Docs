@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Adjustments.Item property (Excel)
 
-Returns or sets the adjustment value specified by the  **Index** argument. Read/write **Single** .
+Returns or sets the adjustment value specified by the  **Index** argument. Read/write **Single**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Returns or sets the adjustment value specified by the  **Index** argument. Read/
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **[INT]**| **Long** . The index number of the adjustment.|
+| _Index_|Required| **[INT]**| **Long**. The index number of the adjustment.|
 
 ## Remarks
 

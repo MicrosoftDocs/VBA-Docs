@@ -30,7 +30,7 @@ _expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMe
 | _Type_|Optional|VARIANT|The type of calculated member.|
 | _DisplayFolder_|Optional|VARIANT|A folder that exists to display calculated measures.|
 | _MeasureGroup_|Optional|VARIANT|The group to which the calculated belongs.|
-| _ParentHierarchy_|Optional|VARIANT|The parent path of the **ParentMember** .|
+| _ParentHierarchy_|Optional|VARIANT|The parent path of the **ParentMember**.|
 | _ParentMember_|Optional|VARIANT|The parent of the calculated member.|
 | _NumberFormat_|Optional|VARIANT|The format of numbers used for calculated members.|
 

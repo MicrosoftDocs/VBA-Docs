@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorBars.EndStyle property (Excel)
 
-Returns or sets the end style for the error bars. Can be one of the following  **[xlEndStyleCap](Excel.XlEndStyleCap.md)** constants: **xlCap** or **xlNoCap** . Read/write **Long** .
+Returns or sets the end style for the error bars. Can be one of the following  **[xlEndStyleCap](Excel.XlEndStyleCap.md)** constants: **xlCap** or **xlNoCap**. Read/write **Long**.
 
 
 ## Syntax

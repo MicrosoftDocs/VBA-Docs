@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Subdocument.HasFile property (Word)
 
- **True** if the specified subdocument has been saved to a file. Read-only **Boolean** .
+ **True** if the specified subdocument has been saved to a file. Read-only **Boolean**.
 
 
 ## Syntax

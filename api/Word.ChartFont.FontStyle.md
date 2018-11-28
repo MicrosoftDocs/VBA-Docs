@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.FontStyle property (Word)
 
-Returns or sets the font style. Read/write  **String** .
+Returns or sets the font style. Read/write  **String**.
 
 
 ## Syntax

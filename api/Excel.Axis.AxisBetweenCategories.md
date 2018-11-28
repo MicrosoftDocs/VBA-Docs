@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.AxisBetweenCategories property (Excel)
 
- **True** if the value axis crosses the category axis between categories. Read/write **Boolean** .
+ **True** if the value axis crosses the category axis between categories. Read/write **Boolean**.
 
 
 ## Syntax

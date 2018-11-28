@@ -30,7 +30,7 @@ Page
 
 ## Remarks
 
-If the  **Layer** object is in a master rather than in a page, the **Page** property returns **Nothing** . You cannot set the **Page** property of a **Layer** object.
+If the  **Layer** object is in a master rather than in a page, the **Page** property returns **Nothing**. You cannot set the **Page** property of a **Layer** object.
 
 
 ## Example

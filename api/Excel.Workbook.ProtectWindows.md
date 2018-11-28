@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ProtectWindows property (Excel)
 
- **True** if the windows of the workbook are protected. Read-only **Boolean** .
+ **True** if the windows of the workbook are protected. Read-only **Boolean**.
 
 
 ## Syntax

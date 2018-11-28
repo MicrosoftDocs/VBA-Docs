@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.SavePictureWithDocument property (Word)
 
- **True** if the specified picture is saved with the document. Read/write **Boolean** .
+ **True** if the specified picture is saved with the document. Read/write **Boolean**.
 
 
 ## Syntax

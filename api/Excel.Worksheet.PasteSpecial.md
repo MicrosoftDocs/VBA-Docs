@@ -33,7 +33,7 @@ Pastes the contents of the Clipboard onto the sheet, using a specified format. U
 | _IconFileName_|Optional| **Variant**|The name of the file that contains the icon to use if  _DisplayAsIcon_ is **True**.|
 | _IconIndex_|Optional| **Variant**|The index number of the icon within the icon file.|
 | _IconLabel_|Optional| **Variant**|The text label of the icon.|
-| _NoHTMLFormatting_|Optional| **Variant**| **True** to remove all formatting, hyperlinks, and images from HTML. **False** to paste HTML as is. The default value is **False** .|
+| _NoHTMLFormatting_|Optional| **Variant**| **True** to remove all formatting, hyperlinks, and images from HTML. **False** to paste HTML as is. The default value is **False**.|
 
 ## Remarks
 

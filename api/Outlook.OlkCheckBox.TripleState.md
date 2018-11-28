@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a user can specify in the 
 
 ## Remarks
 
-If this property is  **True** , the check box clicks through the three states. If this property is **False** , the check box supports only the **True** and **False** states. The default value is **False** .
+If this property is  **True** , the check box clicks through the three states. If this property is **False** , the check box supports only the **True** and **False** states. The default value is **False**.
 
 
 ## See also

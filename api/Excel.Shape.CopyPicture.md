@@ -29,8 +29,8 @@ Copies the selected object to the Clipboard as a picture.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Appearance_|Optional| **Variant**|A [XlPictureAppearance](Excel.XlPictureAppearance.md) constant that specifies how the picture should be copied. The default value is **xlScreen** .|
-| _Format_|Optional| **Variant**|A [XlCopyPictureFormat](Excel.XlCopyPictureFormat.md) constant that specifies the format of the picture. The default value is **xlPicture** .|
+| _Appearance_|Optional| **Variant**|A [XlPictureAppearance](Excel.XlPictureAppearance.md) constant that specifies how the picture should be copied. The default value is **xlScreen**.|
+| _Format_|Optional| **Variant**|A [XlCopyPictureFormat](Excel.XlCopyPictureFormat.md) constant that specifies the format of the picture. The default value is **xlPicture**.|
 
 ## Remarks
 

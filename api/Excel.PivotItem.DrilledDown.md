@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotItem.DrilledDown property (Excel)
 
- **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean** .
+ **True** if the flag for the specified PivotTable field or PivotTable item is set to "drilled" (expanded, or visible). Read/write **Boolean**.
 
 
 ## Syntax

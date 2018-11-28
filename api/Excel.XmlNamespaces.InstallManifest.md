@@ -30,7 +30,7 @@ Installs the specified XML expansion pack on the user's computer, making an XML 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required| **String**|The path and file name of the XML expansion pack.|
-| _InstallForAllUsers_|Optional| **Variant**| **True** installs the XML expansion pack and makes it available to all users on a machine. **False** makes the XML expansion pack available for the current user only. Default is **False** .|
+| _InstallForAllUsers_|Optional| **Variant**| **True** installs the XML expansion pack and makes it available to all users on a machine. **False** makes the XML expansion pack available for the current user only. Default is **False**.|
 
 ## Remarks
 

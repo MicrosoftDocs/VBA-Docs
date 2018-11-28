@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfAuthorities.Passim property (Word)
 
- **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean** .
+ **True** if five or more page references to the same authority are replaced with "Passim." Read/write **Boolean**.
 
 
 ## Syntax

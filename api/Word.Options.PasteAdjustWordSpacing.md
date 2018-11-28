@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteAdjustWordSpacing property (Word)
 
- **True** if Microsoft Word automatically adjusts the spacing of words when cutting and pasting selections. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adjusts the spacing of words when cutting and pasting selections. Read/write **Boolean**.
 
 
 ## Syntax

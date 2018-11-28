@@ -37,13 +37,13 @@ For example, suppose you start one instance of Visio and one of another applicat
 
 
 
-- If the instance of Visio is the active application on your desktop,  **GetObject** (, "visio.application") retrieves that instance, and its **Active** property is **True** .
+- If the instance of Visio is the active application on your desktop,  **GetObject** (, "visio.application") retrieves that instance, and its **Active** property is **True**.
     
-- If you activate the instance of Microsoft Excel,  **GetObject** (, "visio.application") retrieves the same instance of Visio, but its **Active** property is **False** .
+- If you activate the instance of Microsoft Excel,  **GetObject** (, "visio.application") retrieves the same instance of Visio, but its **Active** property is **False**.
     
 
 
-If an  **Application** object's **Active** property is **True** , you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True** . If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
+If an  **Application** object's **Active** property is **True** , you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True**. If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
 
 
 ## Example

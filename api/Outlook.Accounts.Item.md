@@ -29,7 +29,7 @@ Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|A one-based  **Long** that indexes into the **[Accounts](Outlook.Accounts.md)** collection, or a **String** that specifies the **[DisplayName](Outlook.Account.DisplayName.md)** of an **Account** .|
+| _Index_|Required| **Variant**|A one-based  **Long** that indexes into the **[Accounts](Outlook.Accounts.md)** collection, or a **String** that specifies the **[DisplayName](Outlook.Account.DisplayName.md)** of an **Account**.|
 
 ## Return value
 

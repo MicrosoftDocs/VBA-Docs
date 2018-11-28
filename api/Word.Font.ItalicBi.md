@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ItalicBi property (Word)
 
- **True** if the font or range is formatted as italic. Read/write **Long** .
+ **True** if the font or range is formatted as italic. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property returns  **True** , **False** or **wdUndefined** (for a mixture of italic and non-italic text) and can be set to **True** , **False** , or **wdToggle** .
+This property returns  **True** , **False** or **wdUndefined** (for a mixture of italic and non-italic text) and can be set to **True** , **False** , or **wdToggle**.
 
 Use the  **ItalicBi** property for right-to-left languages.
 

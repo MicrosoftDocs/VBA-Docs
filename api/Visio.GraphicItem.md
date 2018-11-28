@@ -21,7 +21,7 @@ Represents a single component part of a data graphic master (a  **[Master](Visio
 
 ## Remarks
 
-The default property of a  **GraphicItem** object is **[ID](Visio.GraphicItem.ID.md)** .
+The default property of a  **GraphicItem** object is **[ID](Visio.GraphicItem.ID.md)**.
 
  **GraphicItem** objects can be of four types:
 

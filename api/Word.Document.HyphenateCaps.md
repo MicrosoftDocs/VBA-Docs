@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HyphenateCaps property (Word)
 
- **True** if words in all capital letters can be hyphenated. Read/write **Boolean** .
+ **True** if words in all capital letters can be hyphenated. Read/write **Boolean**.
 
 
 ## Syntax

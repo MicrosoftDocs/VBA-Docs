@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.LayoutBlankLine property (Excel)
 
- **True** if a blank row is inserted after the specified row field in a PivotTable report. The default value is **False** . Read/write **Boolean** .
+ **True** if a blank row is inserted after the specified row field in a PivotTable report. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

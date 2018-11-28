@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.ApplyPictToFront property (Word)
 
- **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the front of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax

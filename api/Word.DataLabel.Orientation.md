@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.Orientation property (Word)
 
-Returns or sets the text orientation. Read/write  **Long** .
+Returns or sets the text orientation. Read/write  **Long**.
 
 
 ## Syntax

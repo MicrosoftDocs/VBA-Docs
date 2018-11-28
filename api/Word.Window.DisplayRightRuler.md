@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayRightRuler property (Word)
 
- **True** if the vertical ruler appears on the right side of the document window in print layout view. Read/write **Boolean** .
+ **True** if the vertical ruler appears on the right side of the document window in print layout view. Read/write **Boolean**.
 
 
 ## Syntax

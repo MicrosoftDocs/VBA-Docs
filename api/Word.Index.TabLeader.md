@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Index.TabLeader property (Word)
 
-Returns or sets the leader character between entries in an index and their associated page numbers. Read/write  **WdTabLeader** .
+Returns or sets the leader character between entries in an index and their associated page numbers. Read/write  **WdTabLeader**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.HasVertical property (Word)
 
- **True** if a vertical border can be applied to the specified object. Read-only **Boolean** .
+ **True** if a vertical border can be applied to the specified object. Read-only **Boolean**.
 
 
 ## Syntax

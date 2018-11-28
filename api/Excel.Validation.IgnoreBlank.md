@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.IgnoreBlank property (Excel)
 
- **True** if blank values are permitted by the range data validation. Read/write **Boolean** .
+ **True** if blank values are permitted by the range data validation. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DisplayUnitLabel.Caption property (Word)
 
-Returns or sets the display unit label text. Read/write  **String** .
+Returns or sets the display unit label text. Read/write  **String**.
 
 
 ## Syntax

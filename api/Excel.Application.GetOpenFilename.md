@@ -33,7 +33,7 @@ Displays the standard  **Open** dialog box and gets a file name from the user wi
 | _FilterIndex_|Optional| **Variant**|Specifies the index numbers of the default file filtering criteria, from 1 to the number of filters specified in  _FileFilter_. If this argument is omitted or greater than the number of filters present, the first file filter is used.|
 | _Title_|Optional| **Variant**|Specifies the title of the dialog box. If this argument is omitted, the title is "Open."|
 | _ButtonText_|Optional| **Variant**|Macintosh only.|
-| _MultiSelect_|Optional| **Variant**| **True** to allow multiple file names to be selected. **False** to allow only one file name to be selected. The default value is **False** .|
+| _MultiSelect_|Optional| **Variant**| **True** to allow multiple file names to be selected. **False** to allow only one file name to be selected. The default value is **False**.|
 
 ## Return value
 

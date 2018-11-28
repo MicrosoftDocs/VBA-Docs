@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.SubAddress property (Excel)
 
-Returns or sets the location within the document associated with the hyperlink. Read/write  **String** .
+Returns or sets the location within the document associated with the hyperlink. Read/write  **String**.
 
 
 ## Syntax

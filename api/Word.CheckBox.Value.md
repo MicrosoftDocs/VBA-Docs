@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CheckBox.Value property (Word)
 
- **True** if the check box is selected. Read/write **Boolean** .
+ **True** if the check box is selected. Read/write **Boolean**.
 
 
 ## Syntax

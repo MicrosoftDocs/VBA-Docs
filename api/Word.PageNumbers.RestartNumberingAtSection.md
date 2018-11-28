@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageNumbers.RestartNumberingAtSection property (Word)
 
- **True** if page numbering starts at 1 again at the beginning of the specified section. Read/write **Boolean** .
+ **True** if page numbering starts at 1 again at the beginning of the specified section. Read/write **Boolean**.
 
 
 ## Syntax

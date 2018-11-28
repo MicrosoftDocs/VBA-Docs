@@ -33,9 +33,9 @@ This property is similar to the  **[AutoDiscoverConnectionMode](Outlook.Account.
  **NameSpace.AutoDiscoverXml** is an XML string that is returned from the auto-discovery service of the Exchange server. The following code sample uses the **AutoDiscoverConnectionMode** property to show when this XML string is available during a normal Outlook session.
 
 
-- When the  **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the  **[Application.Startup](Outlook.Application.Startup.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**.
     
-- When the  **[NameSpace.AutoDiscoverComplete](Outlook.NameSpace.AutoDiscoverComplete.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown** .
+- When the  **[NameSpace.AutoDiscoverComplete](Outlook.NameSpace.AutoDiscoverComplete.md)** event occurs, if **AutoDiscoverConnectionMode** is not equal to **olAutoDiscoverConnectionUnknown**.
     
 
 

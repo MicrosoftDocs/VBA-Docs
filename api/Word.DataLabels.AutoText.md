@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.AutoText property (Word)
 
- **True** if all objects in the collection automatically generate appropriate text based on context. Read/write **Boolean** .
+ **True** if all objects in the collection automatically generate appropriate text based on context. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the value of this property sets the  **[AutoText](Word.DataLabel.AutoText.md)** property of all **[DataLabel](Word.DataLabel.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True** ; otherwise, this property returns **False** .
+Setting the value of this property sets the  **[AutoText](Word.DataLabel.AutoText.md)** property of all **[DataLabel](Word.DataLabel.md)** objects contained by the collection. This property returns **True** only when the **AutoText** property for all **DataLabel** objects contained in the collection is set to **True** ; otherwise, this property returns **False**.
 
 
 ## Example

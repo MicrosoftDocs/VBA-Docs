@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisMaximum Property (Access)
+title: Chart.PrimaryValuesAxisMaximum property (Access)
 keywords: vbaac10.chm6120
 f1_keywords:
 - vbaac10.chm6120
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisMaximum Property (Access)
+# Chart.PrimaryValuesAxisMaximum property (Access)
 
-Returns or sets the maximum value that can be represented on the primary values axis. Read/write **Single** .
+Returns or sets the maximum value that can be represented on the primary values axis. Read/write **Single**.
 
 
 ## Syntax

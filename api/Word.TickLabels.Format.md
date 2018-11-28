@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TickLabels.Format property (Word)
 
-Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)** .
+Returns the line, fill, and effect formatting for the object. Read-only  **[ChartFormat](Word.ChartFormat.md)**.
 
 
 ## Syntax

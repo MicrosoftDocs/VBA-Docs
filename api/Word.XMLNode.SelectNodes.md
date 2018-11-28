@@ -31,7 +31,7 @@ Returns an  **[XMLNodes](Word.XMLNodes.md)** collection that represents all the 
 |:-----|:-----|:-----|:-----|
 | _XPath_|Required| **String**|Specifies a valid XPath string. For more information on XPath, see the XPath reference documentation on the Microsoft Developer Network (MSDN) Web site.|
 | _PrefixMapping_|Optional| **String**|Provides the prefix in the schema against which to perform the search. Use the PrefixMapping parameter if your XPath parameter uses names to search for elements.|
-| _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **False** .|
+| _FastSearchSkippingTextNodes_|Optional| **Boolean**| **True** skips all text nodes while searching for the specified node. **False** includes text nodes in the search. Default value is **False**.|
 
 ## Return value
 

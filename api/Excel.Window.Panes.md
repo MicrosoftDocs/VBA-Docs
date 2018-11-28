@@ -25,7 +25,7 @@ Returns a  **[Panes](Excel.Panes.md)** collection that represents all the panes 
 
 ## Remarks
 
-This property is available for a window only if the window's  **Split** property can be set to **True** .
+This property is available for a window only if the window's  **Split** property can be set to **True**.
 
 
 ## Example

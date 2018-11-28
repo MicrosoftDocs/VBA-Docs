@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DeletedTextColor property (Word)
 
-Returns or sets the color of text that is deleted while change tracking is enabled. Read/write  **WdColorIndex** .
+Returns or sets the color of text that is deleted while change tracking is enabled. Read/write  **WdColorIndex**.
 
 
 ## Syntax

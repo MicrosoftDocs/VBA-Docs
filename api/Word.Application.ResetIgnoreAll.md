@@ -25,7 +25,7 @@ Clears the list of words that were previously ignored during a spelling check.
 
 ## Remarks
 
- After you run this method, previously ignored words are checked along with all the other words. In order for the **ResetIgnoreAll** method to work, you must first set the **SpellingChecked** property to **False** .
+ After you run this method, previously ignored words are checked along with all the other words. In order for the **ResetIgnoreAll** method to work, you must first set the **SpellingChecked** property to **False**.
 
 
 ## Example

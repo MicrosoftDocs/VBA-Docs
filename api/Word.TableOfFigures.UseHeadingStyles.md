@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.UseHeadingStyles property (Word)
 
- **True** if built-in heading styles are used to create a table of figures. Read/write **Boolean** .
+ **True** if built-in heading styles are used to create a table of figures. Read/write **Boolean**.
 
 
 ## Syntax

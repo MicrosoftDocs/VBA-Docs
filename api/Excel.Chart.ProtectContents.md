@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ProtectContents property (Excel)
 
- **True** if the contents of the sheet are protected. For a chart, this protects the entire chart. To turn on content protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _Contents_ argument set to **True** . Read-only **Boolean** .
+ **True** if the contents of the sheet are protected. For a chart, this protects the entire chart. To turn on content protection, use the **[Protect](Excel.Chart.Protect.md)** method with the _Contents_ argument set to **True**. Read-only **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientStyle property (Excel)
 
-Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](Office.MsoGradientStyle.md)** .
+Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyle](Office.MsoGradientStyle.md)**.
 
 
 ## Syntax

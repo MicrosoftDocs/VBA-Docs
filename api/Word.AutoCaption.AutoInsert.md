@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCaption.AutoInsert property (Word)
 
- **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean** .
+ **True** if a caption is automatically added when the item is inserted into a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ Integer
 
 You can use any  **UIObject** object to get or set this property. The property affects the entire application and affects the appearance of buttons in the currently visible set of toolbars.
 
-Constants representing animation styles are prefixed with  **visMenuAnimation** and are declared by the Visio type library in member **VisUIMenuAnimation** .
+Constants representing animation styles are prefixed with  **visMenuAnimation** and are declared by the Visio type library in member **VisUIMenuAnimation**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.HinstancePtr property (Excel)
 
-Returns a handle to the instance of Excel represented by the specified  **[Application](Excel.Application(object).md)** object. Read-only **Variant** .
+Returns a handle to the instance of Excel represented by the specified  **[Application](Excel.Application(object).md)** object. Read-only **Variant**.
 
 
 ## Syntax

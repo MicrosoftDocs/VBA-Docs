@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.TwoLinesInOne property (Word)
 
-Returns or sets whether Microsoft Word sets two lines of text in one and specifies the characters that enclose the text, if any. Read/write  **WdTwoLinesInOneType** .
+Returns or sets whether Microsoft Word sets two lines of text in one and specifies the characters that enclose the text, if any. Read/write  **WdTwoLinesInOneType**.
 
 
 ## Syntax

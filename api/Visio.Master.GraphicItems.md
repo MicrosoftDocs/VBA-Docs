@@ -33,6 +33,6 @@ GraphicItems
 
 ## Remarks
 
-The master must be of type  **visTypeDataGraphic** .
+The master must be of type  **visTypeDataGraphic**.
 
 

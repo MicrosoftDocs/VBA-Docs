@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.StoreID Property (Outlook)
 
-Returns a  **String** identifying the **[Store](Outlook.Store.md)** . Read-only.
+Returns a  **String** identifying the **[Store](Outlook.Store.md)**. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** identifying the **[Store](Outlook.Store.md)** . Read-only.
 
 ## Remarks
 
- **StoreID** is unique to the profile. It is equivalent to the MAPI property **PidTagStoreEntryId** .
+ **StoreID** is unique to the profile. It is equivalent to the MAPI property **PidTagStoreEntryId**.
 
 
 ## See also

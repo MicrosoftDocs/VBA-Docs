@@ -29,7 +29,7 @@ Marks a  **[MailItem](Outlook.MailItem.md)** object as a task and assigns a task
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **MailItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **MailItem**.|
 
 ## Remarks
 

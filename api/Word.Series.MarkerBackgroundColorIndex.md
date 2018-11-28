@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.MarkerBackgroundColorIndex property (Word)
 
-Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone** . Read/write **Long** .
+Returns or sets the marker background color as an index into the current color palette, or as one of the following  **[xlColorIndex](Word.xlcolorindex.md)** constants: **xlColorIndexAutomatic** or **xlColorIndexNone**. Read/write **Long**.
 
 
 ## Syntax

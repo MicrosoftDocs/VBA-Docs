@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.PreserveFormattingOnUpdate property (Word)
 
- **True** preserves formatting done in Microsoft Word to a linked OLE object, such as a table linked to a Microsoft Excel spreadsheet. Read/write **Boolean** .
+ **True** preserves formatting done in Microsoft Word to a linked OLE object, such as a table linked to a Microsoft Excel spreadsheet. Read/write **Boolean**.
 
 
 ## Syntax

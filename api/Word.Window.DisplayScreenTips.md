@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayScreenTips property (Word)
 
- **True** if comments, footnotes, endnotes, and hyperlinks are displayed as tips. Read/write **Boolean** .
+ **True** if comments, footnotes, endnotes, and hyperlinks are displayed as tips. Read/write **Boolean**.
 
 
 ## Syntax

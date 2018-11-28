@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FixedDecimalPlaces property (Excel)
 
-Returns or sets the number of fixed decimal places used when the  **[FixedDecimal](Excel.Application.FixedDecimal.md)** property is set to **True** . Read/write **Long** .
+Returns or sets the number of fixed decimal places used when the  **[FixedDecimal](Excel.Application.FixedDecimal.md)** property is set to **True**. Read/write **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowFormat property (Word)
 
- **True** if character formatting is visible in outline view. Read/write **Boolean** .
+ **True** if character formatting is visible in outline view. Read/write **Boolean**.
 
 
 ## Syntax

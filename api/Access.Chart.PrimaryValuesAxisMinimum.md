@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisMinimum Property (Access)
+title: Chart.PrimaryValuesAxisMinimum property (Access)
 keywords: vbaac10.chm6120
 f1_keywords:
 - vbaac10.chm6120
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisMinimum Property (Access)
+# Chart.PrimaryValuesAxisMinimum property (Access)
 
-Returns or sets the minimum value that can be represented on the primary values axis. Read/write **Single** .
+Returns or sets the minimum value that can be represented on the primary values axis. Read/write **Single**.
 
 
 ## Syntax

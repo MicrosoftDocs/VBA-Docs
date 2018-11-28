@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Row.IsFirst property (Word)
 
- **True** if the specified row is the first one in the table. Read-only **Boolean** .
+ **True** if the specified row is the first one in the table. Read-only **Boolean**.
 
 
 ## Syntax

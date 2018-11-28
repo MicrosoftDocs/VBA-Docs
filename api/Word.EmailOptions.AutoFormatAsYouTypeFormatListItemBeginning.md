@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeFormatListItemBeginning property (Word)
 
- **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean** .
+ **True** if Word repeats character formatting applied to the beginning of a list item to the next list item. Read/write **Boolean**.
 
 
 ## Syntax

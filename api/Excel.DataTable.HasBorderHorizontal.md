@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataTable.HasBorderHorizontal property (Excel)
 
- **True** if the chart data table has horizontal cell borders. Read/write **Boolean** .
+ **True** if the chart data table has horizontal cell borders. Read/write **Boolean**.
 
 
 ## Syntax

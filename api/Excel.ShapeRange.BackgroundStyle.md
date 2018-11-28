@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.BackgroundStyle property (Excel)
 
-Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md)** .
+Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md)**.
 
 
 ## Syntax

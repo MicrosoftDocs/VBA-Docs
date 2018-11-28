@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintGridlines property (Excel)
 
- **True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean** .
+ **True** if cell gridlines are printed on the page. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax

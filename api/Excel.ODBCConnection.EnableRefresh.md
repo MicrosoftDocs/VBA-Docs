@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.EnableRefresh property (Excel)
 
- **True** if the connection can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
+ **True** if the connection can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False** . For OLAP data sources, setting this property to **False** disables updates.
+The  **[RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**. For OLAP data sources, setting this property to **False** disables updates.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatReplaceSymbols property (Word)
 
- **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if two consecutive hyphens (--) are replaced by an en dash (-) or an em dash (—) when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax

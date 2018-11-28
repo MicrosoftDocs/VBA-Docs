@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MapPaperSize property (Excel)
 
- **True** if documents formatted for the standard paper size of another country/region (for example, A4) are automatically adjusted so that they're printed correctly on the standard paper size (for example, Letter) of your country/region. Read/write **Boolean** .
+ **True** if documents formatted for the standard paper size of another country/region (for example, A4) are automatically adjusted so that they're printed correctly on the standard paper size (for example, Letter) of your country/region. Read/write **Boolean**.
 
 
 ## Syntax

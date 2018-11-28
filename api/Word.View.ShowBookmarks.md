@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowBookmarks property (Word)
 
- **True** if square brackets are displayed at the beginning and end of each bookmark. Read/write **Boolean** .
+ **True** if square brackets are displayed at the beginning and end of each bookmark. Read/write **Boolean**.
 
 
 ## Syntax

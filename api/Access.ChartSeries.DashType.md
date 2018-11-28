@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.DashType Property (Access)
+title: ChartSeries.DashType property (Access)
 keywords: vbaac10.chm14782
 f1_keywords:
 - vbaac10.chm14782
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.DashType Property (Access)
+# ChartSeries.DashType property (Access)
 
-Returns or sets the line dash style of a series when the effective **[ChartType](Access.Chart.ChartType.md)** is  **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100** . Read/write **[AcDashType](Access.AcDashType.md)** .
+Returns or sets the line dash style of a series when the effective **[ChartType](Access.Chart.ChartType.md)** is  **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100**. Read/write **[AcDashType](Access.AcDashType.md)**.
 
 
 ## Syntax

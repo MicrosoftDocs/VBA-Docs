@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.SaveData property (Excel)
 
- **True** if data for the PivotTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean** .
+ **True** if data for the PivotTable report is saved with the workbook. **False** if only the report definition is saved. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, this property is always set to  **False** .
+For OLAP data sources, this property is always set to  **False**.
 
 
 ## Example

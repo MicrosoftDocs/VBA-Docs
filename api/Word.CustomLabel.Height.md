@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.Height property (Word)
 
-Returns or sets the height of a specified custom mailing label, in points. Read/write  **Single** .
+Returns or sets the height of a specified custom mailing label, in points. Read/write  **Single**.
 
 
 ## Syntax

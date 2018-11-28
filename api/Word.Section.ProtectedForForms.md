@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Section.ProtectedForForms property (Word)
 
- **True** if the specified section is protected for forms. Read/write **Boolean** .
+ **True** if the specified section is protected for forms. Read/write **Boolean**.
 
 
 ## Syntax

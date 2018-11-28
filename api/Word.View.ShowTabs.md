@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowTabs property (Word)
 
- **True** if tab characters are displayed. Read/write **Boolean** .
+ **True** if tab characters are displayed. Read/write **Boolean**.
 
 
 ## Syntax

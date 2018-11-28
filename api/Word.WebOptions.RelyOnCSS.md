@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebOptions.RelyOnCSS property (Word)
 
- **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. The default value is **True** . Read/write **Boolean** .
+ **True** if cascading style sheets (CSS) are used for font formatting when you view a saved document in a Web browser. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.ReadingOrder property (Word)
 
-Returns or sets the reading order of the specified paragraph without changing the alignment. Read/write  **WdReadingOrder** .
+Returns or sets the reading order of the specified paragraph without changing the alignment. Read/write  **WdReadingOrder**.
 
 
 ## Syntax

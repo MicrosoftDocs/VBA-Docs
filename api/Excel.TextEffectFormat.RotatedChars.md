@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.RotatedChars property (Excel)
 
- **True** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **False** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState** .
+ **True** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **False** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState**.
 
 
 ## Syntax

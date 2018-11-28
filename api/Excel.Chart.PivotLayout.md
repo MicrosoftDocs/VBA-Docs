@@ -25,7 +25,7 @@ Returns a  **[PivotLayout](Excel.PivotLayout.md)** object that represents the pl
 
 ## Remarks
 
-If the chart you specify isn't a PivotChart report, the value of this property is  **Nothing** .
+If the chart you specify isn't a PivotChart report, the value of this property is  **Nothing**.
 
 
 ## Example

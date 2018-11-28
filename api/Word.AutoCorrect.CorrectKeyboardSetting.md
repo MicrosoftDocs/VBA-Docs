@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectKeyboardSetting property (Word)
 
- **True** if Microsoft Word automatically transposes words to their native alphabet if you type text in a language other than the current keyboard language. Read/write **Boolean** .
+ **True** if Microsoft Word automatically transposes words to their native alphabet if you type text in a language other than the current keyboard language. Read/write **Boolean**.
 
 
 ## Syntax

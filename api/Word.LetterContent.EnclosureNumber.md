@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.EnclosureNumber property (Word)
 
-Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String** .
+Returns or sets the number of enclosures for a letter created by the Letter Wizard. Read/write  **String**.
 
 
 ## Syntax

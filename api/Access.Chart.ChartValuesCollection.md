@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartValuesCollection Property (Access)
+title: Chart.ChartValuesCollection property (Access)
 keywords: vbaac10.chm14760
 f1_keywords:
 - vbaac10.chm14760
@@ -10,7 +10,7 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartValuesCollection Property (Access)
+# Chart.ChartValuesCollection property (Access)
 
 A collection of all the **[ChartValues](Access.ChartValues.md)** objects in the specified chart.
 

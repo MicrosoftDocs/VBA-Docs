@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.RemovePersonalInformation property (Word)
 
- **True** if Microsoft Word removes all user information from comments, revisions, and the Properties dialog box upon saving a document. Read/write **Boolean** .
+ **True** if Microsoft Word removes all user information from comments, revisions, and the Properties dialog box upon saving a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dictionary.LanguageSpecific property (Word)
 
- **True** if the custom dictionary is to be used only with text formatted for a specific language. Read/write **Boolean** .
+ **True** if the custom dictionary is to be used only with text formatted for a specific language. Read/write **Boolean**.
 
 
 ## Syntax

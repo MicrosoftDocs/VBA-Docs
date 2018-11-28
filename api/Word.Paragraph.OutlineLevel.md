@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.OutlineLevel property (Word)
 
-Returns or sets the outline level for the specified paragraph. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)** .
+Returns or sets the outline level for the specified paragraph. Read/write  **[WdOutlineLevel](Word.WdOutlineLevel.md)**.
 
 
 ## Syntax

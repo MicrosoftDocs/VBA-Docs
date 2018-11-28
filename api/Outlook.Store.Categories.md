@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Store.Categories Property (Outlook)
 
-Returns a  **[Categories](Outlook.Categories.md)** collection that represents all of the categories that are defined for the **[Store](Outlook.Store.md)** . Read-only.
+Returns a  **[Categories](Outlook.Categories.md)** collection that represents all of the categories that are defined for the **[Store](Outlook.Store.md)**. Read-only.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.KeepTogether property (Word)
 
- **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long** .
+ **True** if all lines in the specified paragraphs remain on the same page when Microsoft Word repaginates the document. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** .
+This property can be  **True** , **False** , or **wdUndefined**.
 
 
 ## See also

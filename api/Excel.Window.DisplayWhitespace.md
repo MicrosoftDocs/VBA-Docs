@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayWhitespace property (Excel)
 
- **True** if whitespace is displayed. Read/write **Boolean** .
+ **True** if whitespace is displayed. Read/write **Boolean**.
 
 
 ## Syntax

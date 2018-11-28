@@ -42,7 +42,7 @@ If  _UnitsNameOrCode_ is not provided, the **TopMargin** property will default t
 
 The  **TopMargin** property corresponds to the **Top** setting in the **Print Setup** dialog box (on the **Design** tab, click the **Page Setup** arrow, and then click **Setup** on the **Print Setup** tab).
 
-Units can be an integer or string value such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in  **[VisUnitCodes](Visio.visunitcodes.md)** .
+Units can be an integer or string value such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
 For a list of valid integer and string values, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.RefreshStyle property (Excel)
 
-Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[xlCellInsertionMode](Excel.XlCellInsertionMode.md)** .
+Returns or sets the way rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query. Read/write  **[xlCellInsertionMode](Excel.XlCellInsertionMode.md)**.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of the **ListObject** to access the **RefreshStyle** property.
 

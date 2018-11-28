@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowParagraphs property (Word)
 
- **True** if paragraph marks are displayed. Read/write **Boolean** .
+ **True** if paragraph marks are displayed. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.TrackRevisions property (Word)
 
- **True** if changes are tracked in the specified document. Read/write **Boolean** .
+ **True** if changes are tracked in the specified document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEObject.AutoLoad property (Excel)
 
- **True** if the OLE object is automatically loaded when the workbook that contains it is opened. Read/write **Boolean** .
+ **True** if the OLE object is automatically loaded when the workbook that contains it is opened. Read/write **Boolean**.
 
 
 ## Syntax
@@ -27,7 +27,7 @@ ms.date: 06/08/2017
 
 This property is ignored by ActiveX controls. ActiveX controls are always loaded when a workbook is opened.
 
-For most OLE object types, this property shouldn't be set to  **True** . By default, the **AutoLoad** property is set to **False** for new OLE objects; this saves time and memory when Microsoft Excel is loading workbooks. The benefit of automatically loading OLE objects is that, for objects that represent volatile data, links to source data can be reestablished immediately and the objects can be rendered again, if necessary.
+For most OLE object types, this property shouldn't be set to  **True**. By default, the **AutoLoad** property is set to **False** for new OLE objects; this saves time and memory when Microsoft Excel is loading workbooks. The benefit of automatically loading OLE objects is that, for objects that represent volatile data, links to source data can be reestablished immediately and the objects can be rendered again, if necessary.
 
 
 ## Example

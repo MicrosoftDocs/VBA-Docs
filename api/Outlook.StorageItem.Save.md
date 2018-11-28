@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StorageItem.Save Method (Outlook)
 
-Saves the  **[StorageItem](Outlook.StorageItem.md)** .
+Saves the  **[StorageItem](Outlook.StorageItem.md)**.
 
 
 ## Syntax

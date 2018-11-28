@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisFormat Property (Access)
+title: Chart.PrimaryValuesAxisFormat property (Access)
 keywords: vbaac10.chm6164
 f1_keywords:
 - vbaac10.chm6164
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisFormat Property (Access)
+# Chart.PrimaryValuesAxisFormat property (Access)
 
-Returns or sets the format of the values on the primary values axis. Read/write **String** .
+Returns or sets the format of the values on the primary values axis. Read/write **String**.
 
 You can use a [predefined or custom format](Access.format.propertynumber.and.currency.md).
 

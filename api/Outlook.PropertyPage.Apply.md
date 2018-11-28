@@ -35,7 +35,7 @@ Because the [PropertyPage](Outlook.PropertyPage.md) is an abstract object that i
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example sets two global variables to reflect the values in controls on a form and then sets a global variable representing the  **[Dirty](Outlook.PropertyPage.Dirty.md)** property to **False** .
+This Microsoft Visual Basic for Applications (VBA) example sets two global variables to reflect the values in controls on a form and then sets a global variable representing the  **[Dirty](Outlook.PropertyPage.Dirty.md)** property to **False**.
 
 
 ```vb

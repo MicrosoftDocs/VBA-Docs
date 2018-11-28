@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ScreenUpdating property (Word)
 
- **True** if screen updating is turned on. Read/write **Boolean** .
+ **True** if screen updating is turned on. Read/write **Boolean**.
 
 
 ## Syntax

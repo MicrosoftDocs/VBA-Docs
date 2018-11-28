@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ManualUpdate property (Excel)
 
- **True** if the PivotTable report is recalculated only at the user's request. The default value is **False** . Read/write **Boolean** .
+ **True** if the PivotTable report is recalculated only at the user's request. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

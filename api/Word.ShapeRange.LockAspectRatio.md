@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.LockAspectRatio property (Word)
 
- **MsoTrue** if the specified shape retains its original proportions when you resize it. **MsoFalse** if you can change the height and width of the shape independently of one another when you resize it. Read/write **MsoTriState** .
+ **MsoTrue** if the specified shape retains its original proportions when you resize it. **MsoFalse** if you can change the height and width of the shape independently of one another when you resize it. Read/write **MsoTriState**.
 
 
 ## Syntax

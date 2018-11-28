@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.Protected property (Word)
 
- **True** if you cannot change the specified key binding in the **Customize Keyboard** dialog box. Read-only **Boolean** .
+ **True** if you cannot change the specified key binding in the **Customize Keyboard** dialog box. Read-only **Boolean**.
 
 
 ## Syntax

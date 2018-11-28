@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailItem.BCC Property (Outlook)
 
-Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)** . Read/write.
+Returns a  **String** representing the display list of blind carbon copy (BCC) names for a **[MailItem](Outlook.MailItem.md)**. Read/write.
 
 
 ## Syntax

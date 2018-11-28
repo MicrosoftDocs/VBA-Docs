@@ -59,7 +59,7 @@ The statistic_type parameter ( _Arg3_) indicates which statistic is requested by
     
 -  **RMSE** metric. Returns the root mean squared error metric?a measure of the differences between predicted and observed values.
     
--  **Step size detected** .? Returns the step size detected in the historical timeline.
+-  **Step size detected**.? Returns the step size detected in the historical timeline.
     
 A confidence interval ( _Arg4_) of 95% means that 95% of future points are expected to fall within this radius from the result [Forecast_ETS](Excel.worksheetfunction.forecast_ets.md) forecasted (with normal distribution). Using confidence intervals can help you grasp the accuracy of the predicted model. A smaller interval implies more confidence in the prediction for this specific point.
 

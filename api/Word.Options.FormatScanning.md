@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.FormatScanning property (Word)
 
- **True** for Microsoft Word to keep track of all formatting in a document. Read/write **Boolean** .
+ **True** for Microsoft Word to keep track of all formatting in a document. Read/write **Boolean**.
 
 
 ## Syntax

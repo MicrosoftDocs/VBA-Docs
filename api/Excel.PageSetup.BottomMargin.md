@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.BottomMargin property (Excel)
 
-Returns or sets the size of the bottom margin, in points. Read/write  **Double** .
+Returns or sets the size of the bottom margin, in points. Read/write  **Double**.
 
 
 ## Syntax

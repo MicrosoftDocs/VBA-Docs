@@ -42,7 +42,7 @@ Using the  **Arrange** method is equivalent to clicking **Arrange All** in the *
 
 Visio considers windows from top to bottom and then from left to right. You can influence which windows will end up topmost when tiling horizontally (or leftmost when tiling vertically) by prearranging windows.
 
-The following constants declared by the Visio type library are valid values for  _nArrangeFlags_. These constants are also declared by the Visio type library in  **VisWindowArrange** .
+The following constants declared by the Visio type library are valid values for  _nArrangeFlags_. These constants are also declared by the Visio type library in  **VisWindowArrange**.
 
 
 

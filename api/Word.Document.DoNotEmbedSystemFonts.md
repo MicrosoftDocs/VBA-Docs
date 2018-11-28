@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DoNotEmbedSystemFonts property (Word)
 
- **True** for Microsoft Word to not embed common system fonts. Read/write **Boolean** .
+ **True** for Microsoft Word to not embed common system fonts. Read/write **Boolean**.
 
 
 ## Syntax

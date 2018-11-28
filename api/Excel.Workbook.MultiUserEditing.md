@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.MultiUserEditing property (Excel)
 
- **True** if the workbook is open as a shared list. Read-only **Boolean** .
+ **True** if the workbook is open as a shared list. Read-only **Boolean**.
 
 
 ## Syntax

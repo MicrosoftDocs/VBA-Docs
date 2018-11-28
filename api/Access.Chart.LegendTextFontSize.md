@@ -1,5 +1,5 @@
 ---
-title: Chart.LegendTextFontSize Property (Access)
+title: Chart.LegendTextFontSize property (Access)
 keywords: vbaac10.chm6151
 f1_keywords:
 - vbaac10.chm6151
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.LegendTextFontSize Property (Access)
+# Chart.LegendTextFontSize property (Access)
 
-Returns or sets the font size used by the chart legend. Read/write **Integer** .
+Returns or sets the font size used by the chart legend. Read/write **Integer**.
 
 
 ## Syntax

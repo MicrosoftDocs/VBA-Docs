@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.Orientation property (Word)
 
-Returns or sets the orientation of the page. Read/write  **[WdOrientation](Word.WdOrientation.md)** .
+Returns or sets the orientation of the page. Read/write  **[WdOrientation](Word.WdOrientation.md)**.
 
 
 ## Syntax

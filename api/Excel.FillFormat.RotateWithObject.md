@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # FillFormat.RotateWithObject property (Excel)
 
-Returns or sets if the fill style should rotate with the object. Read/write  **[MsoTriState](Office.MsoTriState.md)** .
+Returns or sets if the fill style should rotate with the object. Read/write  **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListObject.ShowAutoFilter property (Excel)
 
- Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean** .
+ Returns **Boolean** to indicate whether the AutoFilter will be displayed. Read/write **Boolean**.
 
 
 ## Syntax

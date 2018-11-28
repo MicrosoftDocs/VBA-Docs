@@ -25,7 +25,7 @@ Returns or sets a  **Variant** value that indicates if the formula will be hidde
 
 ## Remarks
 
-This property returns  **True** if the formula will be hidden when the worksheet is protected, **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
+This property returns  **True** if the formula will be hidden when the worksheet is protected, **Null** if the specified range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
 
 Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** property. The formula will not be hidden if the workbook is protected and the worksheet is not, but only if the worksheet is protected.
 

@@ -25,7 +25,7 @@ Returns an  **XMLNode** object that represents the next element in the document 
 
 ## Remarks
 
-If the specified element is the last element in the  **XMLNodes** collection, this property returns **Nothing** .
+If the specified element is the last element in the  **XMLNodes** collection, this property returns **Nothing**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.EnableMisusedWordsDictionary property (Word)
 
- **True** if Microsoft Word checks for misused words when checking the spelling and grammar in a document. Read/write **Boolean** .
+ **True** if Microsoft Word checks for misused words when checking the spelling and grammar in a document. Read/write **Boolean**.
 
 
 ## Syntax

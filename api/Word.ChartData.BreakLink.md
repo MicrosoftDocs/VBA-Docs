@@ -25,7 +25,7 @@ Removes the link between the data for a chart and a Microsoft Excel workbook.
 
 ## Remarks
 
-Calling this method sets the  **[IsLinked](Word.ChartData.IsLinked.md)** property of the **ChartData** object to **False** .
+Calling this method sets the  **[IsLinked](Word.ChartData.IsLinked.md)** property of the **ChartData** object to **False**.
 
 
 ## Example

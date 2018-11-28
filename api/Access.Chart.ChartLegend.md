@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartLegend Property (Access)
+title: Chart.ChartLegend property (Access)
 keywords: vbaac10.chm6107
 f1_keywords:
 - vbaac10.chm6107
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartLegend Property (Access)
+# Chart.ChartLegend property (Access)
 
-Returns or sets the field name that is used by the chart legend. Read/write **String** .
+Returns or sets the field name that is used by the chart legend. Read/write **String**.
 
 Multiple fields are not supported.
 

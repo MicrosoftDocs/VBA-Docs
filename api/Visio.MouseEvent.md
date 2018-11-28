@@ -18,7 +18,7 @@ The object passed to  **VisEventProc** as the subject of **MouseDown** , **Mouse
 
 ## Remarks
 
-The default property of  **MouseEvent** is **ToString** . The **ToString** property returns a string that represents the properties of the **MouseEvent** object and has the form
+The default property of  **MouseEvent** is **ToString**. The **ToString** property returns a string that represents the properties of the **MouseEvent** object and has the form
 
  _event code_;  **Button** property value; **KeyButtonState** property value; **x** property value; **y** property value; **Window.Caption**
 

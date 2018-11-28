@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.Alias Property (Outlook)
 
-Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read-only.
+Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the alias for the **[ExchangeUser](Outlook.Ex
 
 ## Remarks
 
-This property corresponds to MAPI property  **PidTagAccount** .
+This property corresponds to MAPI property  **PidTagAccount**.
 
 Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeUser** object.
 

@@ -30,7 +30,7 @@ Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal Ca
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _KeyAscii_|Required| **Long**|The ASCII value of the key that was pressed. See Remarks for possible values.|
-| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|
+| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
@@ -38,7 +38,7 @@ Possible values for  _KeyAscii_ are the ASCII codes. To see a list of these code
 
 If you set  _CancelDefault_ to **True** , Visio does not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 
  **Note**  Pressing an accelererator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.

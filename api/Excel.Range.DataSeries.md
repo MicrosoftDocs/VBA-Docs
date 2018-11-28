@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.DataSeries method (Excel)
 
-Creates a data series in the specified range.  **Variant** .
+Creates a data series in the specified range.  **Variant**.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Creates a data series in the specified range.  **Variant** .
 | _Date_|Optional| **[xlDataSeriesDate](Excel.XlDataSeriesDate.md)**|If the  _Type_ argument is **xlChronological** , the _Date_ argument indicates the step date unit.|
 | _Step_|Optional| **Variant**|The step value for the series. The default value is 1.|
 | _Stop_|Optional| **Variant**|The stop value for the series. If this argument is omitted, Microsoft Excel fills to the end of the range.|
-| _Trend_|Optional| **Variant**| **True** to create a linear trend or growth trend. **False** to create a standard data series. The default value is **False** .|
+| _Trend_|Optional| **Variant**| **True** to create a linear trend or growth trend. **False** to create a standard data series. The default value is **False**.|
 
 ## Return value
 

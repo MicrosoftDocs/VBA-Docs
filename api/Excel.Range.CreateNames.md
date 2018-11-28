@@ -29,10 +29,10 @@ Creates names in the specified range, based on text labels in the sheet.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Top_|Optional| **Variant**| **True** to create names by using labels in the top row. The default value is **False** .|
-| _Left_|Optional| **Variant**| **True** to create names by using labels in the left column. The default value is **False** .|
-| _Bottom_|Optional| **Variant**| **True** to create names by using labels in the bottom row. The default value is **False** .|
-| _Right_|Optional| **Variant**| **True** to create names by using labels in the right column. The default value is **False** .|
+| _Top_|Optional| **Variant**| **True** to create names by using labels in the top row. The default value is **False**.|
+| _Left_|Optional| **Variant**| **True** to create names by using labels in the left column. The default value is **False**.|
+| _Bottom_|Optional| **Variant**| **True** to create names by using labels in the bottom row. The default value is **False**.|
+| _Right_|Optional| **Variant**| **True** to create names by using labels in the right column. The default value is **False**.|
 
 ## Return value
 

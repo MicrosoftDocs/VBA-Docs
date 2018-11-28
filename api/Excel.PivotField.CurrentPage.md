@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.CurrentPage property (Excel)
 
-Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)** .
+Returns or sets the current page showing for the page field (valid only for page fields). Read/write  **[PivotItem](Excel.PivotItem.md)**.
 
 
 ## Syntax

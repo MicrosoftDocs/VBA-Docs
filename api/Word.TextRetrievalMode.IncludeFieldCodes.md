@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextRetrievalMode.IncludeFieldCodes property (Word)
 
- **True** if the text retrieved from the specified range includes field codes. Read/write **Boolean** .
+ **True** if the text retrieved from the specified range includes field codes. Read/write **Boolean**.
 
 
 ## Syntax

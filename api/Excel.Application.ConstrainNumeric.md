@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ConstrainNumeric property (Excel)
 
- **True** if handwriting recognition is limited to numbers and punctuation only. Read/write **Boolean** .
+ **True** if handwriting recognition is limited to numbers and punctuation only. Read/write **Boolean**.
 
 
 ## Syntax

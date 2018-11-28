@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Recipients Property (Outlook)
 
-Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents all the recipients for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

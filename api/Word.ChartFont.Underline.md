@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartFont.Underline property (Word)
 
-Returns or sets the type of underline applied to the font. Can be one of the  **[xlUnderlineStyle](Word.xlunderlinestyle.md)** constants. Read/write **Variant** .
+Returns or sets the type of underline applied to the font. Can be one of the  **[xlUnderlineStyle](Word.xlunderlinestyle.md)** constants. Read/write **Variant**.
 
 
 ## Syntax

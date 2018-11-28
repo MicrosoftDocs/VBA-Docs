@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ClickAndTypeParagraphStyle property (Word)
 
-Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant** .
+Returns or sets the default paragraph style applied to text by the Click and Type feature in the specified document. Read/write  **Variant**.
 
 
 ## Syntax

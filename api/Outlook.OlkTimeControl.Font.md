@@ -25,7 +25,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
 ## Remarks
 
-The font is expressed as the Microsoft Windows type  **StdFont** .
+The font is expressed as the Microsoft Windows type  **StdFont**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintHiddenText property (Word)
 
- **True** if hidden text is printed. Read/write **Boolean** .
+ **True** if hidden text is printed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **PrintHiddenText** property to **False** automatically sets the **[PrintComments](Word.Options.PrintComments.md)** property to **False** . However, setting the **PrintHiddenText** property to **True** has no effect on the setting of the **PrintComments** property.
+Setting the  **PrintHiddenText** property to **False** automatically sets the **[PrintComments](Word.Options.PrintComments.md)** property to **False**. However, setting the **PrintHiddenText** property to **True** has no effect on the setting of the **PrintComments** property.
 
 
 ## Example

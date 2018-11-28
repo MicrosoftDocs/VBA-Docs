@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayAutoCompleteTips property (Word)
 
- **True** if Word displays tips that suggest text for completing words, dates, or phrases as you type. Read/write **Boolean** .
+ **True** if Word displays tips that suggest text for completing words, dates, or phrases as you type. Read/write **Boolean**.
 
 
 ## Syntax

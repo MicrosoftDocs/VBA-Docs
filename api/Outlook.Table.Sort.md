@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Sort Method (Outlook)
 
-Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table** .
+Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified in _SortProperty_ and resets the current row to just before the first row in the **Table**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Sorts the rows of the  **[Table](Outlook.Table.md)** by the property specified i
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the  **Table** .|
+| _SortProperty_|Required| **String**|Specifies the property to use to sort the rows of the  **Table**.|
 | _Descending_|Optional| **Boolean**|Whether to sort the  **Table** in descending order.|
 
 ## Remarks

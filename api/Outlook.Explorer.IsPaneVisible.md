@@ -33,7 +33,7 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 ## Return value
 
- **True** if the specified pane is displayed in the explorer; otherwise, **False** .
+ **True** if the specified pane is displayed in the explorer; otherwise, **False**.
 
 
 ## Remarks

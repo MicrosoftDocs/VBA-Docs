@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CanCheckIn method (Excel)
 
- **True** if Microsoft Excel can check in a specified workbook to a server. Read/write **Boolean** .
+ **True** if Microsoft Excel can check in a specified workbook to a server. Read/write **Boolean**.
 
 
 ## Syntax

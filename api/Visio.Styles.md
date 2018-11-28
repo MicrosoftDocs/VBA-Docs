@@ -20,6 +20,6 @@ Includes a  **Style** object for each style defined in a document.
 
 To retrieve a  **Styles** collection, use the **Styles** property of a **Document** object.
 
-The default property of a  **Styles** collection is **Item** .
+The default property of a  **Styles** collection is **Item**.
 
 

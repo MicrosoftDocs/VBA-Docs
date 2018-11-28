@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.Start property (Word)
 
-Returns or sets the starting character position of a bookmark. Read/write  **Long** .
+Returns or sets the starting character position of a bookmark. Read/write  **Long**.
 
 
 ## Syntax

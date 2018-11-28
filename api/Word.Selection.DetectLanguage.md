@@ -29,7 +29,7 @@ The results of the  **DetectLanguage** method are stored in the **LanguageID** p
 
 If a selection contains a partial sentence, the selection is extended to the end of the sentence.
 
-If the  **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True** . To reevaulate the language of the specified text, you must first set the **[LanguageDetected](Word.Document.LanguageDetected.md)** property to **False** .
+If the  **DetectLanguage** method has already been applied to the specified text, the **LanguageDetected** property is set to **True**. To reevaulate the language of the specified text, you must first set the **[LanguageDetected](Word.Document.LanguageDetected.md)** property to **False**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatDeleteAutoSpaces property (Word)
 
- **True** if spaces inserted between Japanese and Latin text will be deleted when Microsoft Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if spaces inserted between Japanese and Latin text will be deleted when Microsoft Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax

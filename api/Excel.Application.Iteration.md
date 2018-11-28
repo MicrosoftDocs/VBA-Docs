@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Iteration property (Excel)
 
- **True** if Microsoft Excel will use iteration to resolve circular references. Read/write **Boolean** .
+ **True** if Microsoft Excel will use iteration to resolve circular references. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.EnableSound property (Word)
 
- **True** if Word makes the computer respond with a sound whenever an error occurs. Read/write **Boolean** .
+ **True** if Word makes the computer respond with a sound whenever an error occurs. Read/write **Boolean**.
 
 
 ## Syntax

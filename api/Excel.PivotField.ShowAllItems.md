@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.ShowAllItems property (Excel)
 
- **True** if all items in the PivotTable report are displayed, even if they don't contain summary data. The default value is **False** . Read/write **Boolean** .
+ **True** if all items in the PivotTable report are displayed, even if they don't contain summary data. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-For OLAP data sources, the value is always  **False** .
+For OLAP data sources, the value is always  **False**.
 
 
 ## Example

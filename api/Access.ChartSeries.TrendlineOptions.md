@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.TrendlineOptions Property (Access)
+title: ChartSeries.TrendlineOptions property (Access)
 keywords: vbaac10.chm14792
 f1_keywords:
 - vbaac10.chm14792
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.TrendlineOptions Property (Access)
+# ChartSeries.TrendlineOptions property (Access)
 
-Returns or sets the type of trendline to render for a series. Read/write **[AcTrendlineOptions](Access.AcTrendlineOptions.md)** .
+Returns or sets the type of trendline to render for a series. Read/write **[AcTrendlineOptions](Access.AcTrendlineOptions.md)**.
 
 
 ## Syntax

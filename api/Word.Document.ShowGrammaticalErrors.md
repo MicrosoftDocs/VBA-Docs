@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ShowGrammaticalErrors property (Word)
 
- **True** if grammatical errors are marked by a wavy green line in the specified document. Read/write **Boolean** .
+ **True** if grammatical errors are marked by a wavy green line in the specified document. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-To view grammatical errors in your document, you must set the  **[CheckGrammarAsYouType](Word.Options.CheckGrammarAsYouType.md)** property to **True** .
+To view grammatical errors in your document, you must set the  **[CheckGrammarAsYouType](Word.Options.CheckGrammarAsYouType.md)** property to **True**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.RightMargin property (Word)
 
-Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. Read/write  **Single** .
+Returns or sets the distance (in points) between the right edge of the page and the right boundary of the body text. Read/write  **Single**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.ProtectScenarios property (Excel)
 
- **True** if the worksheet scenarios are protected. Read-only **Boolean** .
+ **True** if the worksheet scenarios are protected. Read-only **Boolean**.
 
 
 ## Syntax

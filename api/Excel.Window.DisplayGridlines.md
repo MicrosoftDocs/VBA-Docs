@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayGridlines property (Excel)
 
- **True** if gridlines are displayed. Read/write **Boolean** .
+ **True** if gridlines are displayed. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.HasMajorGridlines property (Word)
 
- **True** if the axis has major gridlines. Read/write **Boolean** .
+ **True** if the axis has major gridlines. Read/write **Boolean**.
 
 
 ## Syntax

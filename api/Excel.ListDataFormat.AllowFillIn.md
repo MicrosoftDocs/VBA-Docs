@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListDataFormat.AllowFillIn property (Excel)
 
- Returns a **Boolean** value indicating whether users can provide their own data for cells in a column (rather than being restricted to a list of values) for those columns that supply a list of values. Returns **False** for lists that are not linked to a SharePoint site. Also returns **False** if the column is not a specified as choice or multi-choice. Read-only **Boolean** .
+ Returns a **Boolean** value indicating whether users can provide their own data for cells in a column (rather than being restricted to a list of values) for those columns that supply a list of values. Returns **False** for lists that are not linked to a SharePoint site. Also returns **False** if the column is not a specified as choice or multi-choice. Read-only **Boolean**.
 
 
 ## Syntax

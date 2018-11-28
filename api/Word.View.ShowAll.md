@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowAll property (Word)
 
- **True** if all nonprinting characters (such as hidden text, tab marks, space marks, and paragraph marks) are displayed. Read/write **Boolean** .
+ **True** if all nonprinting characters (such as hidden text, tab marks, space marks, and paragraph marks) are displayed. Read/write **Boolean**.
 
 
 ## Syntax

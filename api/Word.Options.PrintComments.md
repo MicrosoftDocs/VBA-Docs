@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintComments property (Word)
 
- **True** if Microsoft Word prints comments, starting on a new page at the end of the document. Read/write **Boolean** .
+ **True** if Microsoft Word prints comments, starting on a new page at the end of the document. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **PrintComments** property to **True** automatically sets the **[PrintHiddenText](Word.Options.PrintHiddenText.md)** property to **True** . However, setting the **PrintComments** property to **False** has no effect on the setting of the **PrintHiddenText** property.
+Setting the  **PrintComments** property to **True** automatically sets the **[PrintHiddenText](Word.Options.PrintHiddenText.md)** property to **True**. However, setting the **PrintComments** property to **False** has no effect on the setting of the **PrintHiddenText** property.
 
 
 ## Example

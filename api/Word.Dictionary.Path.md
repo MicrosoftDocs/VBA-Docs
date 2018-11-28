@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dictionary.Path property (Word)
 
-Returns the path to the specified dictionary. Read-only  **String** .
+Returns the path to the specified dictionary. Read-only  **String**.
 
 
 ## Syntax

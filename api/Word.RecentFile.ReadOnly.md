@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # RecentFile.ReadOnly property (Word)
 
- **True** if changes to the document cannot be saved to the original document. Read/write **Boolean** .
+ **True** if changes to the document cannot be saved to the original document. Read/write **Boolean**.
 
 
 ## Syntax

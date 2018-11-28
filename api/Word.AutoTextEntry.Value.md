@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoTextEntry.Value property (Word)
 
-Returns or sets the value of the AutoText entry. Read/write  **String** .
+Returns or sets the value of the AutoText entry. Read/write  **String**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a  **[DropDown](Word.DropDown.md)** object that represents a drop-down f
 
 ## Remarks
 
-If the  **DropDown** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False** .
+If the  **DropDown** property is applied to a **FormField** object that isn't a drop-down form field, the property won't fail, but the **Valid** property for the returned object will be **False**.
 
 
 ## Example

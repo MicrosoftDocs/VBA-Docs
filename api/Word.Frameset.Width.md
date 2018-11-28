@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Width property (Word)
 
-Returns or sets the width (in points) of the specified  **Frameset** object. Read/write **Long** .
+Returns or sets the width (in points) of the specified  **Frameset** object. Read/write **Long**.
 
 
 ## Syntax

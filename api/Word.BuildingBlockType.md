@@ -18,7 +18,7 @@ Represents a type of building block. Each  **BuildingBlockType** object is a mem
 
 ## Remarks
 
-Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constant. Use the **[Categories](Word.BuildingBlockType.Categories.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window** . (This example assumes that the **Immediate Window** is visible.)
+Microsoft Word uses types and categories to organize building blocks. Each building block type is represented by a  **[WdBuildingBlockTypes](Word.WdBuildingBlockTypes.md)** constant. Use the **[Categories](Word.BuildingBlockType.Categories.md)** property to access categories for a specific building block type. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 ```vb

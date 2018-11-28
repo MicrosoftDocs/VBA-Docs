@@ -34,6 +34,6 @@ If the  **Characters** object does not contain a field or contains non-field cha
 
 Field codes correspond to the fields in the  **Field** list in the **Field** dialog box (click **Field** on the **Insert** tab).
 
-Constants for field codes are declared by the Microsoft Visio type library in  **[VisFieldCodes](Visio.visfieldcodes.md)** .
+Constants for field codes are declared by the Microsoft Visio type library in  **[VisFieldCodes](Visio.visfieldcodes.md)**.
 
 

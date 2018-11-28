@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
- **True** if the slicer item is selected; otherwise **False** .
+ **True** if the slicer item is selected; otherwise **False**.
 
 
 ## See also

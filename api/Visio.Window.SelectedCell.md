@@ -32,7 +32,7 @@ Cell
 
 The  **SelectedCell** property applies only to ShapeSheet windows. If you try to access the **SelectedCell** property for any other type of window, Microsoft Visio returns the error message "Invalid window type for this action."
 
-If a ShapeSheet row is selected (instead of a cell),  **SelectedCell** returns **Nothing** . See the following example.
+If a ShapeSheet row is selected (instead of a cell),  **SelectedCell** returns **Nothing**. See the following example.
 
 
 ## Example

@@ -18,7 +18,7 @@ Represents a sequence of one or more segments whose ends abut. A path describes 
 
 ## Remarks
 
-The default property of a  **Path** object is **Item** .
+The default property of a  **Path** object is **Item**.
 
 A  **Curve** object is an item in a **Path** object that is any linear or curved segment representing a consecutive sequence of rows in the Geometry section that the **Path** object represents. The number of **Curve** objects in a **Path** object is not necessarily the same as the number of rows in its Geometry section.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Windows.SyncScrollingSideBySide property (Word)
 
- **True** enables scrolling the contents of the windows at the same time. Read/write **Boolean** .
+ **True** enables scrolling the contents of the windows at the same time. Read/write **Boolean**.
 
 
 ## Syntax

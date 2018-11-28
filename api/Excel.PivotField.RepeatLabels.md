@@ -30,7 +30,7 @@ Returns or sets whether item labels are repeated in the PivotTable for the speci
 
 ## Remarks
 
- **True** if item labels are repeated for the specified PivotField; otherwise **False** .
+ **True** if item labels are repeated for the specified PivotField; otherwise **False**.
 
 The setting of the  **RepeatLabels** property corresponds to the **Repeat item labels** check box on the ** Layout & Print** tab of the **Field Settings** dialog box for a field in a PivotTable.
 

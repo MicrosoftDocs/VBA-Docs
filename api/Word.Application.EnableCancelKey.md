@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableCancelKey property (Word)
 
-Returns or sets the way that Word handles CTRL+BREAK user interruptions. Read/write  **WdEnableCancelKey** .
+Returns or sets the way that Word handles CTRL+BREAK user interruptions. Read/write  **WdEnableCancelKey**.
 
 
 ## Syntax

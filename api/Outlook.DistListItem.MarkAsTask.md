@@ -29,7 +29,7 @@ Marks a  **[DistListItem](Outlook.DistListItem.md)** object as a task and assign
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **DistListItem** .|
+| _MarkInterval_|Required| **[OlMarkInterval](Outlook.OlMarkInterval.md)**|The task interval for the  **DistListItem**.|
 
 ## Remarks
 

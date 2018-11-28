@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DefaultFilePath property (Word)
 
-Returns or sets default folders for items such as documents, templates, and graphics. Read/write  **String** .
+Returns or sets default folders for items such as documents, templates, and graphics. Read/write  **String**.
 
 
 ## Syntax

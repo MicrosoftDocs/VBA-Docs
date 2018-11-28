@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.InsertedTextMark property (Word)
 
-Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark** .
+Returns or sets how Microsoft Word formats inserted text while change tracking is enabled (the  **TrackRevisions** property is **True**). Read/write **WdInsertedTextMark**.
 
 
 ## Syntax

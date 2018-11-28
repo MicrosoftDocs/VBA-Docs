@@ -1,5 +1,5 @@
 ---
-title: Chart.HasLegend Property (Access)
+title: Chart.HasLegend property (Access)
 keywords: vbaac10.chm6109
 f1_keywords:
 - vbaac10.chm6109
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.HasLegend Property (Access)
+# Chart.HasLegend property (Access)
 
-**True** if the chart has a legend. Read/write **Boolean** .
+**True** if the chart has a legend. Read/write **Boolean**.
 
 
 ## Syntax

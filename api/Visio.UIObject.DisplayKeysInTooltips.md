@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
-To show ScreenTips, you must set the  **DisplayTooltips** property to **True** .
+To show ScreenTips, you must set the  **DisplayTooltips** property to **True**.
 
 It does not matter which  **UIObject** object you use when getting or setting this property. The property affects the entire application.
 

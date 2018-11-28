@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.SaveNewWebPagesAsWebArchives property (Word)
 
- **True** for Microsoft Word to save new Web pages in the Single File Web Page (formerly known as Web Archive) format. Read/write **Boolean** .
+ **True** for Microsoft Word to save new Web pages in the Single File Web Page (formerly known as Web Archive) format. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a  **[MsoFillType](Office.MsoFillType.md)** value that represents the fi
 
 ## Remarks
 
-This property can also return  **xlAutomatic** or **xlNone** .
+This property can also return  **xlAutomatic** or **xlNone**.
 
 The  **msoFillBackground** constant is not used in Microsoft Excel.
 

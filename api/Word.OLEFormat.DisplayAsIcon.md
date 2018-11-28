@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.DisplayAsIcon property (Word)
 
- **True** if the specified object is displayed as an icon. Read/write **Boolean** .
+ **True** if the specified object is displayed as an icon. Read/write **Boolean**.
 
 
 ## Syntax

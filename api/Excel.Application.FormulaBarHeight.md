@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FormulaBarHeight property (Excel)
 
-Allows the user to specify the height of the formula bar in lines. Read/write  **Long** .
+Allows the user to specify the height of the formula bar in lines. Read/write  **Long**.
 
 
 ## Syntax

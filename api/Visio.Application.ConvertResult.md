@@ -54,13 +54,13 @@ Possible values for  _StringOrNumber_ include:
 
 "12 ft - 17 in + (12 cm / SQRT(7))"
 
-The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes** . A list of valid units is also listed in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
+The  _UnitsIn_ and _UnitsOut_ arguments can be strings such as "inches", "inch", "in.", or "i". Strings may be used for all supported Microsoft Office Visio units such as centimeters, meters, miles, and so on. You can also use any of the units constants declared by the Visio type library in **VisUnitCodes**. A list of valid units is also listed in [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
 If  _StringOrNumber_ is a floating point number or integer, _UnitsIn_ declares what unit of measure the **ConvertResult** method should construe the number to be. Pass "" to indicate internal Visio units.
 
 If  _StringOrNumber_ is a string, _UnitsIn_ specifies how to interpret the evaluated result and is only used if the result is a scalar. For example, the expression "4 * 5 cm" evaluates to 20 cm, which is not a scalar, so _UnitsIn_ is ignored. The expression "4 * 5" evaluates to 20 which is a scalar and is interpreted using the specified _UnitsIn_.
 
-The  _UnitsOut_ argument specifies in what units the returned number should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast** .
+The  _UnitsOut_ argument specifies in what units the returned number should be expressed. If you want the results expressed in the same units as the evaluated expression, pass "NOCAST" or **visNoCast**.
 
 Examples where string is specified:
 

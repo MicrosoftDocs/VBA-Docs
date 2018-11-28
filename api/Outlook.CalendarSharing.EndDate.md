@@ -30,7 +30,7 @@ A  **Date** value representing the inclusive end date of the range of calendar i
 
 ## Remarks
 
-This property is ignored if the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property of the **CalendarSharing** object is set to **true** .
+This property is ignored if the  **[IncludeWholeCalendar](Outlook.CalendarSharing.IncludeWholeCalendar.md)** property of the **CalendarSharing** object is set to **true**.
 
 
 ## See also

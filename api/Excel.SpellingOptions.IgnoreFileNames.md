@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.IgnoreFileNames property (Excel)
 
- **False** instructs Microsoft Excel to check for Internet and file addresses, **True** instructs Excel to ignore Internet and file addresses when using the spell checker. Read/write **Boolean** .
+ **False** instructs Microsoft Excel to check for Internet and file addresses, **True** instructs Excel to ignore Internet and file addresses when using the spell checker. Read/write **Boolean**.
 
 
 ## Syntax

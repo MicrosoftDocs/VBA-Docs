@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.VaryByCategories property (Word)
 
- **True** if Microsoft Word assigns a different color or pattern to each data marker. Read/write **Boolean** .
+ **True** if Microsoft Word assigns a different color or pattern to each data marker. Read/write **Boolean**.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ The text of a legend entry cannot be changed.  **LegendEntry** objects support f
 
 There is no direct way to return the series or trendline that corresponds to the legend entry.
 
-After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](Word.Chart.HasLegend.md)** property for the chart to **False** and then back to **True** .
+After legend entries have been deleted, the only way to restore them is to remove and re-create the legend that contained them by setting the  **[HasLegend](Word.Chart.HasLegend.md)** property for the chart to **False** and then back to **True**.
 
 
 ## Example

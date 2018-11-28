@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.IncludePatterns property (Excel)
 
- **True** if the style includes the **Color** , **ColorIndex** , **InvertIfNegative** , **Pattern** , **PatternColor** , and **PatternColorIndex** interior properties. Read/write **Boolean** .
+ **True** if the style includes the **Color** , **ColorIndex** , **InvertIfNegative** , **Pattern** , **PatternColor** , and **PatternColorIndex** interior properties. Read/write **Boolean**.
 
 
 ## Syntax

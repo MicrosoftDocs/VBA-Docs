@@ -29,8 +29,8 @@ Adds a new row to the table represented by the specified [ListObject](Excel.List
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Position_|Optional| **Variant**| **Integer** . Specifies the relative position of the new row.|
-| _AlwaysInsert_|Optional| **Variant**| **Boolean** . Specifies whether to always shift data in cells below the last row of the table when the new row is inserted, regardless if the row below the table is empty. If **True** , the cells below the table will be shifted down one row. If **False** , if the row below the table is empty, the table will expand to occupy that row without shifting cells below it; but if the row below the table contains data, those cells will be shifted down when the new row is inserted.|
+| _Position_|Optional| **Variant**| **Integer**. Specifies the relative position of the new row.|
+| _AlwaysInsert_|Optional| **Variant**| **Boolean**. Specifies whether to always shift data in cells below the last row of the table when the new row is inserted, regardless if the row below the table is empty. If **True** , the cells below the table will be shifted down one row. If **False** , if the row below the table is empty, the table will expand to occupy that row without shifting cells below it; but if the row below the table contains data, those cells will be shifted down when the new row is inserted.|
 
 ## Return value
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddIn.Installed property (Word)
 
- **True** if the specified add-in is installed (loaded). Add-ins that are loaded are selected in the **Templates and Add-ins** dialog box. Read/write **Boolean** .
+ **True** if the specified add-in is installed (loaded). Add-ins that are loaded are selected in the **Templates and Add-ins** dialog box. Read/write **Boolean**.
 
 
 ## Syntax

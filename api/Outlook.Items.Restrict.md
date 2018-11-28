@@ -149,7 +149,7 @@ sFilter = "[Journal] = True"
 ```
 
 
- **Note**  If you use quotation marks as delimiters with  **Boolean** fields, then an empty string will find items whose fields are **False** and all non-empty strings will find items whose fields are **True** .
+ **Note**  If you use quotation marks as delimiters with  **Boolean** fields, then an empty string will find items whose fields are **False** and all non-empty strings will find items whose fields are **True**.
 
 
 ### Keywords (or Categories)

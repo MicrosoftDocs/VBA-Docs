@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # TextConnection.TextFileTabDelimiter property (Excel)
 
- **True** if the tab character is the delimiter when you import a text file into a query table. The default value is **False** . Read/Write **Boolean**
+ **True** if the tab character is the delimiter when you import a text file into a query table. The default value is **False**. Read/Write **Boolean**
 
 
 ## Syntax

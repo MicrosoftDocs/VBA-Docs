@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.NewColorOnReply property (Word)
 
- **True** specifies whether a user needs to choose a new color for reply text when replying to email. Read/write **Boolean** .
+ **True** specifies whether a user needs to choose a new color for reply text when replying to email. Read/write **Boolean**.
 
 
 ## Syntax

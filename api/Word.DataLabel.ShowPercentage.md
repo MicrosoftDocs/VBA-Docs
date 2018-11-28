@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabel.ShowPercentage property (Word)
 
- **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean** .
+ **True** to display the percentage value for the data labels on a chart. **False** to hide the value. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Hyperlink.TextToDisplay property (Excel)
 
-Returns or sets the text to be displayed for the specified hyperlink. The default value is the address of the hyperlink. Read/write  **String** .
+Returns or sets the text to be displayed for the specified hyperlink. The default value is the address of the hyperlink. Read/write  **String**.
 
 
 ## Syntax

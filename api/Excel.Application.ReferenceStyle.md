@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ReferenceStyle property (Excel)
 
-Returns or sets how Microsoft Excel displays cell references and row and column headings in either A1 or R1C1 reference style. Read/write  **[xlReferenceStyle](Excel.XlReferenceStyle.md)** .
+Returns or sets how Microsoft Excel displays cell references and row and column headings in either A1 or R1C1 reference style. Read/write  **[xlReferenceStyle](Excel.XlReferenceStyle.md)**.
 
 
 ## Syntax

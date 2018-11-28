@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.IsInplace property (Excel)
 
- **True** if the specified workbook is being edited in place. **False** if the workbook has been opened in Microsoft Excel for editing. Read-only **Boolean** .
+ **True** if the specified workbook is being edited in place. **False** if the workbook has been opened in Microsoft Excel for editing. Read-only **Boolean**.
 
 
 ## Syntax

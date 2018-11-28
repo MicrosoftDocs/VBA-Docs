@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomLabel.DotMatrix property (Word)
 
- **True** if the printer type for the specified custom label is dot matrix. **False** if the printer type is either laser or ink jet. Read-only **Boolean** .
+ **True** if the printer type for the specified custom label is dot matrix. **False** if the printer type is either laser or ink jet. Read-only **Boolean**.
 
 
 ## Syntax

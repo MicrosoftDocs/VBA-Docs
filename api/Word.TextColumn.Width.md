@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextColumn.Width property (Word)
 
-Returns or sets the width, in points, of the specified text columns. Read/write  **Long** .
+Returns or sets the width, in points, of the specified text columns. Read/write  **Long**.
 
 
 ## Syntax

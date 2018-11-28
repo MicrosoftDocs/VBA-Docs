@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisFontSize Property (Access)
+title: Chart.PrimaryValuesAxisFontSize property (Access)
 keywords: vbaac10.chm6129
 f1_keywords:
 - vbaac10.chm6129
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisFontSize Property (Access)
+# Chart.PrimaryValuesAxisFontSize property (Access)
 
-Returns or sets the font size used by the primary values axis. Read/write **Integer** .
+Returns or sets the font size used by the primary values axis. Read/write **Integer**.
 
 
 ## Syntax

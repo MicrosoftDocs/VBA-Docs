@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether the user can select a line
 
 ## Remarks
 
-If  **True** , clicking in the margin causes selection of text. If **False** , this action does not select any text. The default value is **False** .
+If  **True** , clicking in the margin causes selection of text. If **False** , this action does not select any text. The default value is **False**.
 
 
 ## See also

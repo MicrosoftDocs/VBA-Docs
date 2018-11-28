@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ParagraphFormat.WidowControl property (Word)
 
- **True** if the first and last lines in the specified paragraph remain on the same page as the rest of the paragraph when Word repaginates the document. Can be **True** , **False** or **wdUndefined** . Read/write **Long** .
+ **True** if the first and last lines in the specified paragraph remain on the same page as the rest of the paragraph when Word repaginates the document. Can be **True** , **False** or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

@@ -45,11 +45,11 @@ Shape
 
 
 | **MsoCalloutType** can be one of these **MsoCalloutType** constants.|
-| **msoCalloutOne** . A single-segment callout line that can be either horizontal or vertical.|
-| **msoCalloutTwo** . A single-segment callout line that rotates freely.|
-| **msoCalloutMixed** .|
-| **msoCalloutThree** . A two-segment line.|
-| **msoCalloutFour** . A three-segment line.|
+| **msoCalloutOne**. A single-segment callout line that can be either horizontal or vertical.|
+| **msoCalloutTwo**. A single-segment callout line that rotates freely.|
+| **msoCalloutMixed**.|
+| **msoCalloutThree**. A two-segment line.|
+| **msoCalloutFour**. A three-segment line.|
 
 You can insert a greater variety of callouts by using the  **[AddShape](Excel.Shapes.AddShape.md)** method.
 

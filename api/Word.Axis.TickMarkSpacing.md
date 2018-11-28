@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.TickMarkSpacing property (Word)
 
-Returns or sets the number of categories or series between tick marks. Read/write  **Long** .
+Returns or sets the number of categories or series between tick marks. Read/write  **Long**.
 
 
 ## Syntax

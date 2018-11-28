@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetFunction.Xnpv method (Excel)
 
-Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double** .
+Returns the net present value for a schedule of cash flows that is not necessarily periodic. Read/write  **Double**.
 
 
 ## Syntax

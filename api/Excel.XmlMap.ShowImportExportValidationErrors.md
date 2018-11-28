@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # XmlMap.ShowImportExportValidationErrors property (Excel)
 
- Returns or sets whether to display a dialog box that details schema-validation errors when data is imported or exported through the specified XML schema map. The default value is **False** . Read/write **Boolean** .
+ Returns or sets whether to display a dialog box that details schema-validation errors when data is imported or exported through the specified XML schema map. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

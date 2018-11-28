@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.View property (Excel)
 
-Returns or sets the view showing in the window. Read/write  **[xlWindowView](Excel.XlWindowView.md)** .
+Returns or sets the view showing in the window. Read/write  **[xlWindowView](Excel.XlWindowView.md)**.
 
 
 ## Syntax

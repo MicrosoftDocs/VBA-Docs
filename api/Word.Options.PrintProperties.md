@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintProperties property (Word)
 
- **True** if Microsoft Word prints document summary information on a separate page at the end of the document. Read/write **Boolean** .
+ **True** if Microsoft Word prints document summary information on a separate page at the end of the document. Read/write **Boolean**.
 
 
 ## Syntax

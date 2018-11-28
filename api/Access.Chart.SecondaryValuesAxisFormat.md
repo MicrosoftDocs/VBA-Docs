@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisFormat Property (Access)
+title: Chart.SecondaryValuesAxisFormat property (Access)
 keywords: vbaac10.chm6165
 f1_keywords:
 - vbaac10.chm6165
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisFormat Property (Access)
+# Chart.SecondaryValuesAxisFormat property (Access)
 
-Returns or sets the format of the values on the secondary values axis. Read/write **String** .
+Returns or sets the format of the values on the secondary values axis. Read/write **String**.
 
 You can use a [predefined or custom format](Access.format.propertynumber.and.currency.md).
 

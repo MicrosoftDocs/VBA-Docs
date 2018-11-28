@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.SizeRepresents property (Word)
 
-Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long** .
+Returns or sets what the bubble size represents on a bubble chart. Read/write  **Long**.
 
 
 ## Syntax

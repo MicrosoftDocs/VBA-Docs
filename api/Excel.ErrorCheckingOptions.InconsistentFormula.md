@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ErrorCheckingOptions.InconsistentFormula property (Excel)
 
-When set to  **True** (default), Microsoft Excel identifies cells containing an inconsistent formula in a region. **False** disables the inconsistent formula check. Read/write **Boolean** .
+When set to  **True** (default), Microsoft Excel identifies cells containing an inconsistent formula in a region. **False** disables the inconsistent formula check. Read/write **Boolean**.
 
 
 ## Syntax

@@ -35,7 +35,7 @@ CommandBars
 
 Beginning with Microsoft Visio 2002, a program can manipulate menus and toolbars in the Visio user interface by manipulating the  **CommandBars** collection returned by the **CommandBars** property. The **CommandBars** collection has an interface identical to the **CommandBars** collection exposed by the suite of Microsoft Office applications such as Microsoft Word and Microsoft Excel.
 
-Alternatively, since Visio version 4.0, Visio has exposed application and document properties that return a  **UIObject** object that provides similar functionality to **CommandBars** . Consequently, programs can use either the **CommandBars** collection or **UIObject** objects to manipulate the Visio menus and toolbars.
+Alternatively, since Visio version 4.0, Visio has exposed application and document properties that return a  **UIObject** object that provides similar functionality to **CommandBars**. Consequently, programs can use either the **CommandBars** collection or **UIObject** objects to manipulate the Visio menus and toolbars.
 
 To get information about the object returned by the  **CommandBars** property:
 
@@ -50,7 +50,7 @@ To get information about the object returned by the  **CommandBars** property:
     
 4. If you do not see the Office type library in the  **Project/Library** list, on the **Tools** menu, click **References**, select the  **Microsoft Office 14.0 Object Library** check box, and then click **OK**.
     
-5. Under  **Classes**, examine the class named  **CommandBars** .
+5. Under  **Classes**, examine the class named  **CommandBars**.
     
 
 

@@ -6,13 +6,15 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.AcAggregateType
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
 # AcAggregateType enumeration (Access)
 
 Specifies the type of aggregation to apply to a set of values.
+
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

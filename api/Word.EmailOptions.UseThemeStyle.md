@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.UseThemeStyle property (Word)
 
- **True** if new email messages use the character style defined by the default email message theme. Read/write **Boolean** .
+ **True** if new email messages use the character style defined by the default email message theme. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.Uniform property (Word)
 
- **True** if all the rows in a table have the same number of columns. Read-only **Boolean** .
+ **True** if all the rows in a table have the same number of columns. Read-only **Boolean**.
 
 
 ## Syntax

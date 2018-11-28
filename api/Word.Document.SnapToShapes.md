@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SnapToShapes property (Word)
 
- **True** if Microsoft Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters in the specified document. Read/write **Boolean** .
+ **True** if Microsoft Word automatically aligns AutoShapes or East Asian characters with invisible gridlines that go through the vertical and horizontal edges of other AutoShapes or East Asian characters in the specified document. Read/write **Boolean**.
 
 
 ## Syntax

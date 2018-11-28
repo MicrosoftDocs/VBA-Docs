@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.ShowAsAvailableTableStyle property (Excel)
 
-Returns or sets a table style shown as available in the table styles gallery. Read/write  **Boolean** .
+Returns or sets a table style shown as available in the table styles gallery. Read/write  **Boolean**.
 
 
 ## Syntax

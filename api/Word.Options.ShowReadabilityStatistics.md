@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowReadabilityStatistics property (Word)
 
- **True** if Microsoft Word displays a list of summary statistics, including measures of readability, when it has finished checking grammar. Read/write **Boolean** .
+ **True** if Microsoft Word displays a list of summary statistics, including measures of readability, when it has finished checking grammar. Read/write **Boolean**.
 
 
 ## Syntax

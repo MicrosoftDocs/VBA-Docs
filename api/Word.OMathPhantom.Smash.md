@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that represents that the contents of the phantom 
 
 ## Remarks
 
-If this property is  **True** , the **[ZeroAsc](Word.OMathPhantom.ZeroAsc.md)** , **[ZeroDesc](Word.OMathPhantom.ZeroDesc.md)** , and **[Show](Word.OMathPhantom.Show.md)** properties are all set to **True** .
+If this property is  **True** , the **[ZeroAsc](Word.OMathPhantom.ZeroAsc.md)** , **[ZeroDesc](Word.OMathPhantom.ZeroDesc.md)** , and **[Show](Word.OMathPhantom.Show.md)** properties are all set to **True**.
 
 
 ## See also

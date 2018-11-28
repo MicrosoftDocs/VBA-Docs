@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.JobTitle Property (Outlook)
 
-Returns a  **String** representing the job title of the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read/write.
+Returns a  **String** representing the job title of the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the job title of the **[ExchangeUser](Outlook
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagTitle** .
+This property corresponds to the MAPI property,  **PidTagTitle**.
 
 Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeUser** object.
 

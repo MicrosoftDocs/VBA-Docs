@@ -33,7 +33,7 @@ Returns the  **Frameset** object that represents the child **Frameset** object s
 
 ## Remarks
 
-This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset** .
+This property applies only to  **Frameset** objects of type **wdFramesetTypeFrameset**.
 
 For more information on creating frames pages, see [Creating Frames Pages](../word/Concepts/Customizing-Word/creating-frames-pages.md).
 

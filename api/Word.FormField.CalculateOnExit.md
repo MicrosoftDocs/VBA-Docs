@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FormField.CalculateOnExit property (Word)
 
- **True** if references to the specified form field are automatically updated whenever the field is exited. Read/write **Boolean** .
+ **True** if references to the specified form field are automatically updated whenever the field is exited. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.NullString property (Excel)
 
-Returns or sets the string displayed in cells that contain null values when the  **[DisplayNullString](Excel.PivotTable.DisplayNullString.md)** property is **True** . The default value is an empty string (""). Read/write **String** .
+Returns or sets the string displayed in cells that contain null values when the  **[DisplayNullString](Excel.PivotTable.DisplayNullString.md)** property is **True**. The default value is an empty string (""). Read/write **String**.
 
 
 ## Syntax

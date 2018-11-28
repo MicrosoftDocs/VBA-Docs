@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.AutoUpdateFrequency property (Excel)
 
-Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long** .
+Returns or sets the number of minutes between automatic updates to the shared workbook. Read/write  **Long**.
 
 
 ## Syntax

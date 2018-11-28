@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.TextRetrievalMode property (Word)
 
-Returns a  **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that controls how text is retrieved from the specified **Range** . Read/write.
+Returns a  **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that controls how text is retrieved from the specified **Range**. Read/write.
 
 
 ## Syntax

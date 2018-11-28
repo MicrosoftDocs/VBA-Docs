@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.CorrectDays property (Word)
 
- **True** if Word automatically capitalizes the first letter of days of the week. Read/write **Boolean** .
+ **True** if Word automatically capitalizes the first letter of days of the week. Read/write **Boolean**.
 
 
 ## Syntax

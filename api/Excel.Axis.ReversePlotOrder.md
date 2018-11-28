@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.ReversePlotOrder property (Excel)
 
- **True** if Microsoft Excel plots data points from last to first. Read/write **Boolean** .
+ **True** if Microsoft Excel plots data points from last to first. Read/write **Boolean**.
 
 
 ## Syntax

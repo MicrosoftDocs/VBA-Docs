@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.OrganizeInFolder property (Excel)
 
- **True** if all supporting files, such as background textures and graphics, are organized in a separate folder when you save the specified document as a Web page. **False** if supporting files are saved in the same folder as the Web page. The default value is **True** . Read/write **Boolean** .
+ **True** if all supporting files, such as background textures and graphics, are organized in a separate folder when you save the specified document as a Web page. **False** if supporting files are saved in the same folder as the Web page. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

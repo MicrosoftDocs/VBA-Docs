@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.WidthType property (Word)
 
-Returns or sets the width type for the specified  **Frameset** object. Read/write **WdFramesetSizeType** .
+Returns or sets the width type for the specified  **Frameset** object. Read/write **WdFramesetSizeType**.
 
 
 ## Syntax

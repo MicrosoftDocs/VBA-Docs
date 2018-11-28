@@ -32,7 +32,7 @@ Page
 
 If the  **Page** parent object is not a markup overlay, **OriginalPage** returns an error. To determine if a page is a markup overlay, check to see whether **Page.Type** = **visTypeMarkup** (3).
 
-When a user clicks  **Track Markup**, Visio creates a new page of type  **visTypeMarkup** . The original page has type **visTypeForeground** or **visTypeBackground** . Each markup overlay is associated with a unique original drawing page.
+When a user clicks  **Track Markup**, Visio creates a new page of type  **visTypeMarkup**. The original page has type **visTypeForeground** or **visTypeBackground**. Each markup overlay is associated with a unique original drawing page.
 
 
 ## Example

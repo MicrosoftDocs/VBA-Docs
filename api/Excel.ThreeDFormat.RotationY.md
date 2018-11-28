@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.RotationY property (Excel)
 
-Returns or sets the rotation of the extruded shape around the y-axis in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single** .
+Returns or sets the rotation of the extruded shape around the y-axis in degrees. Can be a value from - 90 through 90. A positive value indicates rotation to the left; a negative value indicates rotation to the right. Read/write  **Single**.
 
 
 ## Syntax

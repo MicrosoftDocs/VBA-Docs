@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Zoom.PageFit property (Word)
 
-Returns or sets the view magnification of a window so that either the entire page is visible or the entire width of the page is visible. Read/write  **WdPageFit** .
+Returns or sets the view magnification of a window so that either the entire page is visible or the entire width of the page is visible. Read/write  **WdPageFit**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LineFormat.Style property (Word)
 
-Returns or sets the line format style. Read/write  **MsoLineStyle** .
+Returns or sets the line format style. Read/write  **MsoLineStyle**.
 
 
 ## Syntax

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # WorksheetDataConnection.CommandType property (Excel)
 
-Returns or sets one of the [xlCmdType enumeration (Excel)](Excel.xlCmdType.md) constants. For a **WorksheetDataConnection** object, this type will be set to **xlCmdExcel** .
+Returns or sets one of the [xlCmdType enumeration (Excel)](Excel.xlCmdType.md) constants. For a **WorksheetDataConnection** object, this type will be set to **xlCmdExcel**.
 
 
 ## Syntax

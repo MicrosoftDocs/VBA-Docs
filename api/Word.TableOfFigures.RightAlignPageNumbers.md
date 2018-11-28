@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableOfFigures.RightAlignPageNumbers property (Word)
 
- **True** if page numbers are aligned with the right margin in an table of figures. Read/write **Boolean** .
+ **True** if page numbers are aligned with the right margin in an table of figures. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # UniqueValues.StopIfTrue property (Excel)
 
-Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True** .
+Returns or sets a  **Boolean** value that determines if additional formatting rules on the cell should be evaluated if the current rule evaluates to **True**.
 
 
 ## Syntax

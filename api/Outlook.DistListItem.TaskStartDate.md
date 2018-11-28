@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 ## Remarks
 
-This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property is set to **False** .
+This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

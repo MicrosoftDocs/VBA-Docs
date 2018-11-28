@@ -25,7 +25,7 @@ Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indi
 
 ## Remarks
 
-The default value is  **olAlignmentLeft** .
+The default value is  **olAlignmentLeft**.
 
 
 ## See also

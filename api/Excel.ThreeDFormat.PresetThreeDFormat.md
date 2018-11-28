@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.PresetThreeDFormat property (Excel)
 
-Returns the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion. Read-only  **MsoPresetThreeDFormat** .
+Returns the preset extrusion format. Each preset extrusion format contains a set of preset values for the various properties of the extrusion. Read-only  **MsoPresetThreeDFormat**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the preset extrusion format. Each preset extrusion format contains a set
 
 ## Remarks
 
-If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed** .
+If the extrusion has a custom format rather than a preset format, this property returns  **msoPresetThreeDFormatMixed**.
 
 
 

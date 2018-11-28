@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.RotatedChars property (Word)
 
- **MsoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **MsoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState** .
+ **MsoTrue** if characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape. **MsoFalse** if characters in the specified WordArt retain their original orientation relative to the bounding shape. Read/write **MsoTriState**.
 
 
 ## Syntax

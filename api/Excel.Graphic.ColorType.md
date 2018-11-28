@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Graphic.ColorType property (Excel)
 
-Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **[MsoPictureColorType](Office.MsoPictureColorType.md)** .
+Returns or sets the type of color transformation applied to the specified picture or OLE object. Read/write  **[MsoPictureColorType](Office.MsoPictureColorType.md)**.
 
 
 ## Syntax

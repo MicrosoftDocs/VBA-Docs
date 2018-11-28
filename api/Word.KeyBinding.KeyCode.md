@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeyBinding.KeyCode property (Word)
 
-Returns a unique number for the first key in the specified key binding. Read-only  **Long** .
+Returns a unique number for the first key in the specified key binding. Read-only  **Long**.
 
 
 ## Syntax

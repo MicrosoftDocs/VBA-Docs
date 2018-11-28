@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MathCoprocessorAvailable property (Word)
 
- **True** if a math coprocessor is installed and available to Microsoft Word. Read-only **Boolean** .
+ **True** if a math coprocessor is installed and available to Microsoft Word. Read-only **Boolean**.
 
 
 ## Syntax

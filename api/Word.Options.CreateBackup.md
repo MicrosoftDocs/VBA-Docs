@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CreateBackup property (Word)
 
- **True** if Word creates a backup copy each time a document is saved. Read/write **Boolean** .
+ **True** if Word creates a backup copy each time a document is saved. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowFormattingCells property (Excel)
 
-Returns  **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the formatting of cells is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax

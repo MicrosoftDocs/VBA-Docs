@@ -47,7 +47,7 @@ You cannot invoke the  **Redo** method from code that is executing inside the sc
 
 The  **Redo** method also raises an exception if the Visio instance is presently performing an undo or redo. To determine whether the Visio instance is undoing or redoing use the **IsUndoingOrRedoing** property.
 
-You can call the  **Redo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False** . You can also call the **Redo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
+You can call the  **Redo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False**. You can also call the **Redo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
 
 
 ## Example

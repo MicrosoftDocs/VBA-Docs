@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Dictionary.ReadOnly property (Word)
 
- **True** if the specified dictionary cannot be changed. Read-only **Boolean** .
+ **True** if the specified dictionary cannot be changed. Read-only **Boolean**.
 
 
 ## Syntax

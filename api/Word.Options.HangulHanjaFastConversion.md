@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.HangulHanjaFastConversion property (Word)
 
- **True** if Microsoft Word automatically converts a word with only one suggestion during conversion between Hangul and Hanja. Read/write **Boolean** .
+ **True** if Microsoft Word automatically converts a word with only one suggestion during conversion between Hangul and Hanja. Read/write **Boolean**.
 
 
 ## Syntax

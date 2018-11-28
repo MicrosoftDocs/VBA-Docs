@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeNode.SegmentType property (Excel)
 
-Returns a value that indicates whether the segment associated with the specified node is straight or curved. If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve** . Read-only **MsoSegmentType** .
+Returns a value that indicates whether the segment associated with the specified node is straight or curved. If the specified node is a control point for a curved segment, this property returns  **msoSegmentCurve**. Read-only **MsoSegmentType**.
 
 
 ## Syntax

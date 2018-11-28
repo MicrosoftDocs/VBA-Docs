@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.StoryLength property (Word)
 
-Returns the number of characters in the story that contains the specified selection. Read-only  **Long** .
+Returns the number of characters in the story that contains the specified selection. Read-only  **Long**.
 
 
 ## Syntax

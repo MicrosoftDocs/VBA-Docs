@@ -33,7 +33,7 @@ Unloads all loaded add-ins and, depending on the value of the  _RemoveFromList_ 
 
 ## Remarks
 
-To unload a single template or WLL, set the  **[Installed](Word.AddIn.Installed.md)** property of the **AddIn** object to **False** . To remove a single template or WLL from the **AddIns** collection, apply the **[Delete](Word.AddIn.Delete.md)** method to the **AddIn** object.
+To unload a single template or WLL, set the  **[Installed](Word.AddIn.Installed.md)** property of the **AddIn** object to **False**. To remove a single template or WLL from the **AddIns** collection, apply the **[Delete](Word.AddIn.Delete.md)** method to the **AddIn** object.
 
 
 ## Example

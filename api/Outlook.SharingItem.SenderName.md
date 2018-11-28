@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.SenderName Property (Outlook)
 
-Returns a  **String** indicating the display name of the sender for the **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns a  **String** indicating the display name of the sender for the **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** indicating the display name of the sender for the **[Shari
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSenderName** .
+This property corresponds to the MAPI property  **PidTagSenderName**.
 
 If you wish to retrieve the fully qualified email address of the sender, use the  **[SenderEmailAddress](Outlook.SharingItem.SenderEmailAddress.md)** property.
 

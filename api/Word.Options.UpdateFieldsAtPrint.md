@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UpdateFieldsAtPrint property (Word)
 
- **True** if Microsoft Word updates fields automatically before printing a document. Read/write **Boolean** .
+ **True** if Microsoft Word updates fields automatically before printing a document. Read/write **Boolean**.
 
 
 ## Syntax

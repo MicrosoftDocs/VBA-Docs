@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteAdjustTableFormatting property (Word)
 
- **True** if Microsoft Word automatically adjusts the formatting of tables when cutting and pasting selections. Read/write **Boolean** .
+ **True** if Microsoft Word automatically adjusts the formatting of tables when cutting and pasting selections. Read/write **Boolean**.
 
 
 ## Syntax

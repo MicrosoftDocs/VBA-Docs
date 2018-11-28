@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintEvenPagesInAscendingOrder property (Word)
 
- **True** if Microsoft Word prints even pages in ascending order during manual duplex printing. Read/write **Boolean** .
+ **True** if Microsoft Word prints even pages in ascending order during manual duplex printing. Read/write **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisDisplayUnits Property (Access)
+title: Chart.SecondaryValuesAxisDisplayUnits property (Access)
 keywords: vbaac10.chm6128
 f1_keywords:
 - vbaac10.chm6128
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisDisplayUnits Property (Access)
+# Chart.SecondaryValuesAxisDisplayUnits property (Access)
 
-Returns or sets the unit of measurement applied to the secondary values axis. Read/write **[AcAxisUnits](Access.AcAxisUnits.md)** .
+Returns or sets the unit of measurement applied to the secondary values axis. Read/write **[AcAxisUnits](Access.AcAxisUnits.md)**.
 
 
 ## Syntax

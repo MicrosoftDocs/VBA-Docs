@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Point.ApplyPictToEnd property (Excel)
 
- **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean** .
+ **True** if a picture is applied to the end of the point or all points in the series. Read/write **Boolean**.
 
 
 ## Syntax

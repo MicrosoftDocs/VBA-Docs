@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Build property (Excel)
 
-Returns the Microsoft Excel build number. Read-only  **Long** .
+Returns the Microsoft Excel build number. Read-only  **Long**.
 
 
 ## Syntax

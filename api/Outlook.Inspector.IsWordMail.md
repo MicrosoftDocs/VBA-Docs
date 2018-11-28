@@ -25,7 +25,7 @@ Determines whether the mail message associated with an inspector is displayed in
 
 ## Return value
 
- **True** if the mail message is displayed in Microsoft Word (that is, if Word Mail is in use); otherwise, **False** .
+ **True** if the mail message is displayed in Microsoft Word (that is, if Word Mail is in use); otherwise, **False**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.UseCharacterUnit property (Word)
 
- **True** if Microsoft Word uses characters as the default measurement unit for the current document. Read/write **Boolean** .
+ **True** if Microsoft Word uses characters as the default measurement unit for the current document. Read/write **Boolean**.
 
 
 ## Syntax

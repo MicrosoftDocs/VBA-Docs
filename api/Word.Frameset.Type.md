@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.Type property (Word)
 
-Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFramesetType.md)** .
+Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFramesetType.md)**.
 
 
 ## Syntax

@@ -39,7 +39,7 @@ KeyBinding
 
 ## Remarks
 
-If the key combination doesn't exist, this method returns  **Nothing** .
+If the key combination doesn't exist, this method returns  **Nothing**.
 
 You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argument.
 

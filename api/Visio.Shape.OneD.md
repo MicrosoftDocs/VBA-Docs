@@ -34,6 +34,6 @@ Setting the  **OneD** property is equivalent to changing a shape's interaction s
 
 The  **OneD** property of a **Shape** object that is a guide is always 0. If you try to change the value of the **OneD** property of a guide shape, no error is raised, but the value remains 0.
 
-The  **OneD** property of an object from another application is always **False** .
+The  **OneD** property of an object from another application is always **False**.
 
 

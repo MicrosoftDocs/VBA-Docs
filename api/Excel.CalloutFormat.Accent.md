@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalloutFormat.Accent property (Excel)
 
-Allows the user to place a vertical accent bar to separate the callout text from the callout line. Read/write  **[MsoTriState](Office.MsoTriState.md)** .
+Allows the user to place a vertical accent bar to separate the callout text from the callout line. Read/write  **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Allows the user to place a vertical accent bar to separate the callout text from
 | **msoFalse**|
 | **msoTriStateMixed**|
 | **msoTriStateToggle**|
-| **msoTrue** . A vertical accent bar separates the callout text from the callout line.|
+| **msoTrue**. A vertical accent bar separates the callout text from the callout line.|
 
 ## Example
 

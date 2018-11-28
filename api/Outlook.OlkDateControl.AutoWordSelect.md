@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that specifies whether a word or a character is t
 
 ## Remarks
 
-The default value is  **True** .
+The default value is  **True**.
 
 
 ## See also

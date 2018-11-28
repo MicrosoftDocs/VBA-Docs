@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintBackground property (Word)
 
- **True** if Microsoft Word prints in the background. Read/write **Boolean** .
+ **True** if Microsoft Word prints in the background. Read/write **Boolean**.
 
 
 ## Syntax

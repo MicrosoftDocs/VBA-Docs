@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PasteSmartCutPaste property (Word)
 
- **True** if Microsoft Word intelligently pastes selections into a document. Read/write **Boolean** .
+ **True** if Microsoft Word intelligently pastes selections into a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisTitle Property (Access)
+title: Chart.PrimaryValuesAxisTitle property (Access)
 keywords: vbaac10.chm6114
 f1_keywords:
 - vbaac10.chm6114
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisTitle Property (Access)
+# Chart.PrimaryValuesAxisTitle property (Access)
 
-Returns or sets the title for the primary values axis. Read/write **String** .
+Returns or sets the title for the primary values axis. Read/write **String**.
 
 
 ## Syntax

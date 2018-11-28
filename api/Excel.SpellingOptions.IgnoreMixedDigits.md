@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.IgnoreMixedDigits property (Excel)
 
- **False** instructs Microsoft Excel to check for mixed digits, **True** instructs Excel to ignore mixed digits when checking spelling. Read/write **Boolean** .
+ **False** instructs Microsoft Excel to check for mixed digits, **True** instructs Excel to ignore mixed digits when checking spelling. Read/write **Boolean**.
 
 
 ## Syntax

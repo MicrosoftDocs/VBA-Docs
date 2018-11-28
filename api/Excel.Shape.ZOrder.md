@@ -37,10 +37,10 @@ Moves the specified shape in front of or behind other shapes in the collection (
 
 | **MsoZOrderCmd** can be one of these **MsoZOrderCmd** constants.|
 | **msoBringForward**|
-| **msoBringInFrontOfText** . Used only in Microsoft Word.|
+| **msoBringInFrontOfText**. Used only in Microsoft Word.|
 | **msoBringToFront**|
 | **msoSendBackward**|
-| **msoSendBehindText** . Used only in Microsoft Word.|
+| **msoSendBehindText**. Used only in Microsoft Word.|
 | **msoSendToBack**|
 
 Use the  **[ZOrderPosition](Excel.Shape.ZOrderPosition.md)** property to determine a shape's current position in the z-order.

@@ -70,7 +70,7 @@ For an event to successfully pass through a cell range filter, it must satisfy t
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For example, if you want to listen for any changes in the Value cell of the second row in the Shape Data section, use the following:
 

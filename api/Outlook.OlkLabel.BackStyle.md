@@ -25,7 +25,7 @@ Returns or sets an  **[olBackStyle](Outlook.OlBackStyle.md)** constant that chan
 
 ## Remarks
 
-The default value is  **olBackStyleOpaque** .
+The default value is  **olBackStyleOpaque**.
 
 
 ## See also

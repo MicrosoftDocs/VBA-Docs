@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.KernedPairs property (Excel)
 
- **True** if character pairs in the specified WordArt are kerned. Read/write **MsoTriState** .
+ **True** if character pairs in the specified WordArt are kerned. Read/write **MsoTriState**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.IsMemberProperty property (Excel)
 
-Returns  **True** when the PivotField contains member properties. Read-only **Boolean** .
+Returns  **True** when the PivotField contains member properties. Read-only **Boolean**.
 
 
 ## Syntax

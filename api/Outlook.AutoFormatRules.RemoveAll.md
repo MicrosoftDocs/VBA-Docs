@@ -25,7 +25,7 @@ Removes all custom formatting rules from the  **[AutoFormatRules](Outlook.AutoFo
 
 ## Remarks
 
-This method removes every  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **False** .
+This method removes every  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object with a **[Standard](Outlook.AutoFormatRule.Standard.md)** property value set to **False**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.Overlap property (Word)
 
-Specifies how bars and columns are positioned. Read/write  **Long** .
+Specifies how bars and columns are positioned. Read/write  **Long**.
 
 
 ## Syntax

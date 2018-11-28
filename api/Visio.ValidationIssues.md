@@ -20,6 +20,6 @@ Includes a  **[ValidationIssue](Visio.ValidationIssue.md)** object for each vali
 
 To get a  **ValidationIssues** collection, use the **[Issues](Visio.Validation.Issues.md)** property of the **[Validation](Visio.Validation.md)** object.
 
-The default property of the  **ValidationIssues** collection is **[Item](Visio.ValidationIssues.Item.md)** .
+The default property of the  **ValidationIssues** collection is **[Item](Visio.ValidationIssues.Item.md)**.
 
 

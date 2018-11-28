@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.WindowState property (Excel)
 
-Returns or sets the state of the window. Read/write  **[xlWindowState](Excel.XlWindowState.md)** .
+Returns or sets the state of the window. Read/write  **[xlWindowState](Excel.XlWindowState.md)**.
 
 
 ## Syntax

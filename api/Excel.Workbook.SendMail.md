@@ -31,7 +31,7 @@ Sends the workbook by using the installed mail system.
 |:-----|:-----|:-----|:-----|
 | _Recipients_|Required| **Variant**|Specifies the name of the recipient as text, or as an array of text strings if there are multiple recipients. At least one recipient must be specified, and all recipients are added as To recipients.|
 | _Subject_|Optional| **Variant**|Specifies the subject of the message. If this argument is omitted, the document name is used.|
-| _ReturnReceipt_|Optional| **Variant**| **True** to request a return receipt. **False** to not request a return receipt. The default value is **False** .|
+| _ReturnReceipt_|Optional| **Variant**| **True** to request a return receipt. **False** to not request a return receipt. The default value is **False**.|
 
 ## Example
 

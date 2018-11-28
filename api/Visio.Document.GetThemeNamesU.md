@@ -48,7 +48,7 @@ For the  _eType_ parameter, pass a value from the **VisThemeTypes** enumeration,
 | **visThemeTypeColor**|1|Color themes.|
 | **visThemeTypeEffect**|2|Effect themes.|
 
-For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String** . Visio returns the array filled with locale-independent names of themes contained in the document.
+For the  _NameArray()_ out parameter, pass an empty, dimensionless array of type **String**. Visio returns the array filled with locale-independent names of themes contained in the document.
 
 To get the names of locale-specific themes in the document, use the  **[Document.GetThemeNames](Visio.Document.GetThemeNames.md)** method.
 

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value indicating if only the icon is displayed fo
 
 ## Remarks
 
-The default value for this property is  **False** .
+The default value for this property is  **False**.
 
 
 ## See also

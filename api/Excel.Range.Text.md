@@ -13,7 +13,7 @@ ms.date: 08/24/2018
 
 # Range.Text property (Excel)
 
-Returns the formatted text for the specified object. Read-only **String** .
+Returns the formatted text for the specified object. Read-only **String**.
 
 
 ## Syntax

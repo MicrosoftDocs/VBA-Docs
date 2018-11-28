@@ -19,35 +19,35 @@ Specifies the type of rule condition or exception condition of a rule.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olConditionAccount**|3| **Account** is the account specified in **[AccountRuleCondition.Account](Outlook.AccountRuleCondition.Account.md)** .|
+| **olConditionAccount**|3| **Account** is the account specified in **[AccountRuleCondition.Account](Outlook.AccountRuleCondition.Account.md)**.|
 | **olConditionAnyCategory**|29|Message is assigned to any category.|
-| **olConditionBody**|13|Body contains words specified in  **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)** .|
+| **olConditionBody**|13|Body contains words specified in  **[TextRuleCondition.Text](Outlook.TextRuleCondition.Text.md)**.|
 | **olConditionBodyOrSubject**|14|Body or subject contains words specified by  **TextRuleCondition.Text.**|
-| **olConditionCategory**|18| **Category** is the category specified in **[CategoryRuleCondition.Categories](Outlook.CategoryRuleCondition.Categories.md)** .|
+| **olConditionCategory**|18| **Category** is the category specified in **[CategoryRuleCondition.Categories](Outlook.CategoryRuleCondition.Categories.md)**.|
 | **olConditionCc**|9|Message has my name in the  **Cc** box.|
 | **olConditionDateRange**|22|Message was received between x and y, where x and y are  **Date** values.|
 | **olConditionFlaggedForAction**|8|Message is flagged for the specified action.|
-| **olConditionFormName**|23|Message uses the form specified in  **[FormNameRuleCondition.FormName](Outlook.FormNameRuleCondition.FormName.md)** .|
-| **olConditionFrom**|1|Sender is in the recipient list specified in  **[ToOrFromRuleCondition.Recipients](Outlook.ToOrFromRuleCondition.Recipients.md)** .|
+| **olConditionFormName**|23|Message uses the form specified in  **[FormNameRuleCondition.FormName](Outlook.FormNameRuleCondition.FormName.md)**.|
+| **olConditionFrom**|1|Sender is in the recipient list specified in  **[ToOrFromRuleCondition.Recipients](Outlook.ToOrFromRuleCondition.Recipients.md)**.|
 | **olConditionFromAnyRssFeed**|31|Message is generated from any RSS subscription.|
 | **olConditionFromRssFeed**|30|Message is generated from a specific RSS subscription.|
 | **olConditionHasAttachment**|20|Message has one or more attachments.|
 | **olConditionImportance**|6|Message is marked with the specified level of importance.|
 | **olConditionLocalMachineOnly**|27|Rule can run only on the local machine.|
 | **olConditionMeetingInviteOrUpdate**|26|Message is a meeting invitation or update.|
-| **olConditionMessageHeader**|15|Message header contains words specified in  **TextRuleCondition.Text** .|
+| **olConditionMessageHeader**|15|Message header contains words specified in  **TextRuleCondition.Text**.|
 | **olConditionNotTo**|11|Message does not have my name in the  **To** box.|
 | **olConditionOnlyToMe**|4|Message is sent only to me.|
 | **olConditionOOF**|19|Message is an out-of-office message.|
 | **olConditionOtherMachine**|28|Rule can run only on a specific machine that is not the current machine.|
 | **olConditionProperty**|24|Document property is exactly, contains, or does not contain specified properties.|
-| **olConditionRecipientAddress**|16|Recipient address contains words specified in  **TextRuleCondition.Text** .|
-| **olConditionSenderAddress**|17|Sender address contains words specified in  **TextRuleCondition.Text** .|
-| **olConditionSenderInAddressBook**|25|Sender is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)** .|
+| **olConditionRecipientAddress**|16|Recipient address contains words specified in  **TextRuleCondition.Text**.|
+| **olConditionSenderAddress**|17|Sender address contains words specified in  **TextRuleCondition.Text**.|
+| **olConditionSenderInAddressBook**|25|Sender is in the address list specified in  **[AddressRuleCondition.Address](Outlook.AddressRuleCondition.Address.md)**.|
 | **olConditionSensitivity**|7|Message is marked with the specified level of sensitivity.|
-| **olConditionSentTo**|12|Sent to recipients (**To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients** .|
+| **olConditionSentTo**|12|Sent to recipients (**To**,  **Cc**) are in the recipient list specified in  **ToOrFromRuleCondition.Recipients**.|
 | **olConditionSizeRange**|21|Message size is between x and y in units of KB, where x and y are  **Integer** values.|
-| **olConditionSubject**|2|Subject contains words specified in  **TextRuleCondition.Text** .|
+| **olConditionSubject**|2|Subject contains words specified in  **TextRuleCondition.Text**.|
 | **olConditionTo**|5|My name is in the  **To** box.|
 | **olConditionToOrCc**|10|Message has my name in the  **To** or **Cc** box.|
 | **olConditionUnknown**|0|Unrecognized condition.|

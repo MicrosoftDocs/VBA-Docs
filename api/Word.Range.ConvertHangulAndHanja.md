@@ -29,9 +29,9 @@ Converts the specified range from hangul to hanja or vice versa.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ConversionsMode_|Optional| **Variant**|Sets the direction for the conversion between hangul and hanja. Can be either of the following  **WdMultipleWordConversionsMode** constants: **wdHangulToHanja** or **wdHanjaToHangul** . The default value is the current value of the **MultipleWordConversionsMode** property.|
+| _ConversionsMode_|Optional| **Variant**|Sets the direction for the conversion between hangul and hanja. Can be either of the following  **WdMultipleWordConversionsMode** constants: **wdHangulToHanja** or **wdHanjaToHangul**. The default value is the current value of the **MultipleWordConversionsMode** property.|
 | _FastConversion_|Optional| **Variant**| **True** if Microsoft Word automatically converts a word with only one suggestion for conversion. The default value is the current value of the **HangulHanjaFastConversion** property.|
-| _CheckHangulEnding_|Optional| **Variant**| **True** if Word automatically detects hangul endings and ignores them. The default value is the current value of the **CheckHangulEndings** property. This argument is ignored if the ConversionsMode argument is set to **wdHanjaToHangul** .|
+| _CheckHangulEnding_|Optional| **Variant**| **True** if Word automatically detects hangul endings and ignores them. The default value is the current value of the **CheckHangulEndings** property. This argument is ignored if the ConversionsMode argument is set to **wdHanjaToHangul**.|
 | _EnableRecentOrdering_|Optional| **Variant**| **True** if Word displays the most recently used words at the top of the suggestions list. The default value is the current value of the **EnableHangulHanjaRecentOrdering** property.|
 | _CustomDictionary_|Optional| **Variant**|The name of a custom hangul-hanja conversion dictionary. Use this argument to use a custom dictionary with hangul-hanja conversions not contained in the main dictionary.|
 

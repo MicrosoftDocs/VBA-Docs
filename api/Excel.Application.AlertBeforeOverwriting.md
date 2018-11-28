@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.AlertBeforeOverwriting property (Excel)
 
- **True** if Microsoft Excel displays a message before overwriting nonblank cells during a drag-and-drop editing operation. Read/write **Boolean** .
+ **True** if Microsoft Excel displays a message before overwriting nonblank cells during a drag-and-drop editing operation. Read/write **Boolean**.
 
 
 ## Syntax

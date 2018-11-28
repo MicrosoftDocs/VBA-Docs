@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that determines if labels for Outlook items
 
 ## Remarks
 
-This property is applicable only if the  **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property is set to **olTimelineViewMonth** .
+This property is applicable only if the  **[TimelineViewMode](Outlook.TimelineView.TimelineViewMode.md)** property is set to **olTimelineViewMonth**.
 
 
 ## Example

@@ -25,7 +25,7 @@ Returns or sets an  **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** 
 
 ## Remarks
 
-The default value is  **olEnterFieldBehaviorSelectAll** .
+The default value is  **olEnterFieldBehaviorSelectAll**.
 
 
 ## See also

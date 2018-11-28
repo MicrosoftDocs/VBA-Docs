@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.ConnectShapes Method (Visio)
 
-Connects two or more selected shapes with a dynamic connector. Returns **Nothing** .
+Connects two or more selected shapes with a dynamic connector. Returns **Nothing**.
 
 
 ## Syntax

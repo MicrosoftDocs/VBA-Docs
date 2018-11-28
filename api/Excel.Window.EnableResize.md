@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.EnableResize property (Excel)
 
- **True** if the window can be resized. Read/write **Boolean** .
+ **True** if the window can be resized. Read/write **Boolean**.
 
 
 ## Syntax

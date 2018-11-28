@@ -25,7 +25,7 @@ Use the  **Zoom** property of the **View** object to return a single **Zoom** ob
 ActiveDocument.ActiveWindow.View.Zoom.Percentage = 110
 ```
 
-Use  **Zooms** (Index), where Index identifies the view type, to return a single **Zoom** object. The view type specified by index can be one of the following **[WdViewType](Word.WdViewType.md)** constants: **wdMasterView** , **wdNormalView** , **wdOutlineView** , **wdPrintPreview** , **wdPrintView** , or **wdWebView** . The following example sets the magnification for the active window so that an entire page is visible.
+Use  **Zooms** (Index), where Index identifies the view type, to return a single **Zoom** object. The view type specified by index can be one of the following **[WdViewType](Word.WdViewType.md)** constants: **wdMasterView** , **wdNormalView** , **wdOutlineView** , **wdPrintPreview** , **wdPrintView** , or **wdWebView**. The following example sets the magnification for the active window so that an entire page is visible.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ReadOnly property (Excel)
 
- Returns **True** if the object has been opened as read-only. Read-only **Boolean** .
+ Returns **True** if the object has been opened as read-only. Read-only **Boolean**.
 
 
 ## Syntax

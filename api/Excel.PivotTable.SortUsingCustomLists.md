@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.SortUsingCustomLists property (Excel)
 
-The  **SortUsingCustomLists** property controls whether custom lists are used for sorting items of fields, both initially when the PivotField is initialized and the PivotItems are ordered by their captions; and later when the user applies a sort. Read/write **Boolean** .
+The  **SortUsingCustomLists** property controls whether custom lists are used for sorting items of fields, both initially when the PivotField is initialized and the PivotItems are ordered by their captions; and later when the user applies a sort. Read/write **Boolean**.
 
 
 ## Syntax

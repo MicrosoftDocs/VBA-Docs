@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatPlainTextWordMail property (Word)
 
- **True** if Word automatically formats plain-text email messages when you open them in Word. Read/write **Boolean** .
+ **True** if Word automatically formats plain-text email messages when you open them in Word. Read/write **Boolean**.
 
 
 ## Syntax

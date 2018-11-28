@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that defines the way the **ENTER** key behaves in
 
 ## Remarks
 
-When this property is  **True** , pressing **ENTER** creates a new line. When this property is **False** , pressing **ENTER** moves the focus to the next control in tab order. The default value for this property is **False** .
+When this property is  **True** , pressing **ENTER** creates a new line. When this property is **False** , pressing **ENTER** moves the focus to the next control in tab order. The default value for this property is **False**.
 
 
 ## See also

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether a sharing invitation
 
 ## Return value
 
- **True** if the recipient of the sharing invitation should receive write access; otherwise **False** . The default is **false** .
+ **True** if the recipient of the sharing invitation should receive write access; otherwise **False**. The default is **false**.
 
 
 ## Remarks

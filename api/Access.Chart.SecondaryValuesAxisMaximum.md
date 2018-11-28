@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisMaximum Property (Access)
+title: Chart.SecondaryValuesAxisMaximum property (Access)
 keywords: vbaac10.chm6122
 f1_keywords:
 - vbaac10.chm6122
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisMaximum Property (Access)
+# Chart.SecondaryValuesAxisMaximum property (Access)
 
-Returns or sets the maximum value that can be represented on the secondary values axis. Read/write **Single** .
+Returns or sets the maximum value that can be represented on the secondary values axis. Read/write **Single**.
 
 
 ## Syntax

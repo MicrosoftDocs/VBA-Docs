@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.FlagRequest Property (Outlook)
 
-Returns or sets a  **String** indicating the requested action for the **[SharingItem](Outlook.SharingItem.md)** . Read/write.
+Returns or sets a  **String** indicating the requested action for the **[SharingItem](Outlook.SharingItem.md)**. Read/write.
 
 
 ## Syntax

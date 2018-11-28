@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextColumns.LineBetween property (Word)
 
- **True** if vertical lines appear between all the columns in the **TextColumns** collection. Read/write **Long** .
+ **True** if vertical lines appear between all the columns in the **TextColumns** collection. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **LineBetween** property can be **True** , **False** , or **wdUndefined** .
+The  **LineBetween** property can be **True** , **False** , or **wdUndefined**.
 
 
 ## Example

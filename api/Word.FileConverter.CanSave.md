@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FileConverter.CanSave property (Word)
 
- **True** if the specified file converter is designed to save files. Read-only **Boolean** .
+ **True** if the specified file converter is designed to save files. Read-only **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: ChartValues.AggregateType Property (Access)
+title: ChartValues.AggregateType property (Access)
 keywords: vbaac10.chm14797
 f1_keywords:
 - vbaac10.chm14797
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartValues.AggregateType Property (Access)
+# ChartValues.AggregateType property (Access)
 
-Returns or sets the behavior for aggregating values. Read/write **[AcAggregateType](Access.AcAggregateType.md)** .
+Returns or sets the behavior for aggregating values. Read/write **[AcAggregateType](Access.AcAggregateType.md)**.
 
 
 ## Syntax

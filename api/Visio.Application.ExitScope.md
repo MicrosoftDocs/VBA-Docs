@@ -33,7 +33,7 @@ Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_B
 
 ## Remarks
 
-The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd*** .
+The  _nScopeID_ value returned in the case of a Visio operation is the equivalent of the command-related constants that begin with **visCmd***.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

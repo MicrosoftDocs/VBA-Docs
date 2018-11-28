@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowSpaces property (Word)
 
- **True** if space characters are displayed. Read/write **Boolean** .
+ **True** if space characters are displayed. Read/write **Boolean**.
 
 
 ## Syntax

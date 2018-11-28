@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.IsEndOfRowMark property (Word)
 
- **True** if the specified range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean** .
+ **True** if the specified range is collapsed and is located at the end-of-row mark in a table. Read-only **Boolean**.
 
 
 ## Syntax

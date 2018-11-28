@@ -25,7 +25,7 @@ Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType
 
 ## Remarks
 
- **ConditionType** depends on the type of rule condition, as two types of rule conditions use the **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object: **olConditionFrom** and **olConditionSentTo** . **olConditionFrom** is supported only by rules for receiving messages, while **olConditionSentTo** is supported by rules for receiving messages as well as rules for sending messages. For more information, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
+ **ConditionType** depends on the type of rule condition, as two types of rule conditions use the **[ToOrFromRuleCondition](Outlook.ToOrFromRuleCondition.md)** object: **olConditionFrom** and **olConditionSentTo**. **olConditionFrom** is supported only by rules for receiving messages, while **olConditionSentTo** is supported by rules for receiving messages as well as rules for sending messages. For more information, see [Specify Rule Conditions](../outlook/How-to/Rules/specifying-rule-conditions.md).
 
 
 ## See also

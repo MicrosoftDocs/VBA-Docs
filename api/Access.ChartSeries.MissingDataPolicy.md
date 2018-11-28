@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.MissingDataPolicy Property (Access)
+title: ChartSeries.MissingDataPolicy property (Access)
 keywords: vbaac10.chm14788
 f1_keywords:
 - vbaac10.chm14788
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.MissingDataPolicy Property (Access)
+# ChartSeries.MissingDataPolicy property (Access)
 
-Returns or sets the plotting strategy of a series when its chart type is **Line** and values are missing. Read/write **[AcMissingDataPolicy](Access.AcMissingDataPolicy.md)** .
+Returns or sets the plotting strategy of a series when its chart type is **Line** and values are missing. Read/write **[AcMissingDataPolicy](Access.AcMissingDataPolicy.md)**.
 
 
 ## Syntax

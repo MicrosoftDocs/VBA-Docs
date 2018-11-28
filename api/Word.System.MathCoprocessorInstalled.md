@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.MathCoprocessorInstalled property (Word)
 
- **True** if a math coprocessor is installed on the system. Read-only **Boolean** .
+ **True** if a math coprocessor is installed on the system. Read-only **Boolean**.
 
 
 ## Syntax

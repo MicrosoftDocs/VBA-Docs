@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.TemplateRemoveExtData property (Excel)
 
- **True** if external data references are removed when the workbook is saved as a template. Read/write **Boolean** .
+ **True** if external data references are removed when the workbook is saved as a template. Read/write **Boolean**.
 
 
 ## Syntax

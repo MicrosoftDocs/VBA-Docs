@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates if the scenario is hidden.
 
 ## Remarks
 
-The default value for this property is  **False** .
+The default value for this property is  **False**.
 
 Don't confuse this property with the  **[FormulaHidden](Excel.Range.FormulaHidden.md)** property.
 

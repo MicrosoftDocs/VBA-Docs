@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.AutoSize property (Excel)
 
- **True** if the size of the specified object is changed automatically to fit text within its boundaries. Read/write **Boolean** .
+ **True** if the size of the specified object is changed automatically to fit text within its boundaries. Read/write **Boolean**.
 
 
 ## Syntax

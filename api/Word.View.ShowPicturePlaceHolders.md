@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowPicturePlaceHolders property (Word)
 
- **True** if blank boxes are displayed as placeholders for pictures. Read/write **Boolean** .
+ **True** if blank boxes are displayed as placeholders for pictures. Read/write **Boolean**.
 
 
 ## Syntax

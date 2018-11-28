@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.TrendlineName Property (Access)
+title: ChartSeries.TrendlineName property (Access)
 keywords: vbaac10.chm14791
 f1_keywords:
 - vbaac10.chm14791
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.TrendlineName Property (Access)
+# ChartSeries.TrendlineName property (Access)
 
-Returns or sets the name of the series trendline if the trendline is visible. Read/write  **String** .
+Returns or sets the name of the series trendline if the trendline is visible. Read/write  **String**.
 
 
 ## Syntax

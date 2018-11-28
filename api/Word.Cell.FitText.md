@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.FitText property (Word)
 
- **True** if Microsoft Word visually reduces the size of text typed into a cell so that it fits within the column width. Read/write **Boolean** .
+ **True** if Microsoft Word visually reduces the size of text typed into a cell so that it fits within the column width. Read/write **Boolean**.
 
 
 ## Syntax

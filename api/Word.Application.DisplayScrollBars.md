@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayScrollBars property (Word)
 
- **True** if Word displays a scroll bar in at least one document window. **False** if there are no scroll bars displayed in any window. Read/write **Boolean** .
+ **True** if Word displays a scroll bar in at least one document window. **False** if there are no scroll bars displayed in any window. Read/write **Boolean**.
 
 
 ## Syntax

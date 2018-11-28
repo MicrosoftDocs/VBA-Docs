@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ContactItem.TaskCompletedDate Property (Outlook)
 
-Returns or sets a  **Date** value that represents the completion date of the task for this **[ContactItem](Outlook.ContactItem.md)** . Read/write.
+Returns or sets a  **Date** value that represents the completion date of the task for this **[ContactItem](Outlook.ContactItem.md)**. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets a  **Date** value that represents the completion date of the tas
 
 ## Remarks
 
-This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsTask.md)** property is set to **False** .
+This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsTask.md)** property is set to **False**.
 
 
 ## See also

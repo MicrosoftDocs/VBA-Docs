@@ -25,7 +25,7 @@ Returns a  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant th
 
 ## Remarks
 
-This property always returns the constant  **olAttachmentWell** .
+This property always returns the constant  **olAttachmentWell**.
 
 
 ## See also

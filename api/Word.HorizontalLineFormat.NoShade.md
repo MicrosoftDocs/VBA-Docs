@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # HorizontalLineFormat.NoShade property (Word)
 
- **True** if Microsoft Word draws the specified horizontal line without 3-D shading. Read/write **Boolean** .
+ **True** if Microsoft Word draws the specified horizontal line without 3-D shading. Read/write **Boolean**.
 
 
 ## Syntax

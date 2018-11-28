@@ -1,5 +1,5 @@
 ---
-title: ChartValues.Name Property (Access)
+title: ChartValues.Name property (Access)
 keywords: vbaac10.chm14798
 f1_keywords:
 - vbaac10.chm14798
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartValues.Name Property (Access)
+# ChartValues.Name property (Access)
 
-Returns the name of a **ChartValues** instance based on its associated field. Read-only **String** .
+Returns the name of a **ChartValues** instance based on its associated field. Read-only **String**.
 
 
 ## Syntax

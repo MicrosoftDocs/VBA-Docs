@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SpellingOptions.IgnoreCaps property (Excel)
 
- **False** instructs Microsoft Excel to check for uppercase words, **True** instructs Excel to ignore words in uppercase when using the spelling checker. Read/write **Boolean** .
+ **False** instructs Microsoft Excel to check for uppercase words, **True** instructs Excel to ignore words in uppercase when using the spelling checker. Read/write **Boolean**.
 
 
 ## Syntax

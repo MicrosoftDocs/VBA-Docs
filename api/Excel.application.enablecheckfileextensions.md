@@ -11,7 +11,7 @@ ms.prod: excel
 
 # Application.EnableCheckFileExtensions property (Excel)
 
- **True** to enable the **Tell me if Microsoft Excel isn't the default program for viewing and editing spreadsheets** dialog box. Read/write **Boolean** .
+ **True** to enable the **Tell me if Microsoft Excel isn't the default program for viewing and editing spreadsheets** dialog box. Read/write **Boolean**.
 
 
 ## Syntax

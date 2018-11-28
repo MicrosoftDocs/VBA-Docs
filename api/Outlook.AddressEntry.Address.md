@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AddressEntry.Address Property (Outlook)
 
-Returns or sets a  **String** representing the email address of the **[AddressEntry](Outlook.AddressEntry.md)** . Read/write.
+Returns or sets a  **String** representing the email address of the **[AddressEntry](Outlook.AddressEntry.md)**. Read/write.
 
 
 ## Syntax

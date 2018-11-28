@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DefaultWebOptions.AllowPNG property (Word)
 
- **False** if PNG (Portable Network Graphics) is not allowed as an output format. Read/write **Boolean** .
+ **False** if PNG (Portable Network Graphics) is not allowed as an output format. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
- **True** if PNG is allowed as an image format when you save a document as a Web page. The default value is **False** .
+ **True** if PNG is allowed as an image format when you save a document as a Web page. The default value is **False**.
 
 If you save images in the PNG format and if the Web browsers you are targeting support the PNG format, you might improve the image quality or reduce the size of those image files, and therefore decrease the download time.
 

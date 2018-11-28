@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.IsConnected property (Excel)
 
-Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property is ** True** . Returns **False** if it is not currently connected to its source. Read-only **Boolean** .
+Returns  **True** if the **[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)** property is ** True**. Returns **False** if it is not currently connected to its source. Read-only **Boolean**.
 
 
 ## Syntax

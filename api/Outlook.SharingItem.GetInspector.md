@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.GetInspector Property (Outlook)
 
-Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified **[SharingItem](Outlook.SharingItem.md)** . Read-only.
+Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an inspector initialized to contain the specified **[SharingItem](Outlook.SharingItem.md)**. Read-only.
 
 
 ## Syntax

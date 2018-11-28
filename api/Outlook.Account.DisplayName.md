@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Account.DisplayName Property (Outlook)
 
-Returns a  **String** representing the display name of the email **[Account](Outlook.Account.md)** . Read-only.
+Returns a  **String** representing the display name of the email **[Account](Outlook.Account.md)**. Read-only.
 
 
 ## Syntax

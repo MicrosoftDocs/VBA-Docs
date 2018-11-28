@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.Shadow property (Word)
 
- **True** if the specified border is formatted as shadowed. Read/write **Boolean** .
+ **True** if the specified border is formatted as shadowed. Read/write **Boolean**.
 
 
 ## Syntax

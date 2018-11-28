@@ -62,7 +62,7 @@ For an event to successfully pass through a cell range filter, it must satisfy t
     
 
 
-If there are no  **True** ranges defined in the array, events are considered **True** .
+If there are no  **True** ranges defined in the array, events are considered **True**.
 
 For details about using command IDs to define event filters, see the  **SetFilterSRC** method.
 

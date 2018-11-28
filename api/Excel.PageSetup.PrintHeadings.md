@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintHeadings property (Excel)
 
- **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean** .
+ **True** if row and column headings are printed with this page. Applies only to worksheets. Read/write **Boolean**.
 
 
 ## Syntax

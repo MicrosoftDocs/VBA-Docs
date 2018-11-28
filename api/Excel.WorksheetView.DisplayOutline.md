@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WorksheetView.DisplayOutline property (Excel)
 
- **True** if outline symbols are displayed. Read/write **Boolean** .
+ **True** if outline symbols are displayed. Read/write **Boolean**.
 
 
 ## Syntax

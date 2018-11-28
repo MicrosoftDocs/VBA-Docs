@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.PersonalViewListSettings property (Excel)
 
- **True** if filter and sort settings for lists are included in the user's personal view of the shared workbook. Read/write **Boolean** .
+ **True** if filter and sort settings for lists are included in the user's personal view of the shared workbook. Read/write **Boolean**.
 
 
 ## Syntax

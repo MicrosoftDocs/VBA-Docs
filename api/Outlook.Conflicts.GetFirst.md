@@ -30,7 +30,7 @@ A  **[Conflict](Outlook.Conflict.md)** object that represents the first object c
 
 ## Remarks
 
-Returns  **Nothing** if no first object exists, for example, if there are no objects in the collection. To ensure correct operation of the **GetFirst** , **[GetLast](Outlook.Conflicts.GetLast.md)** , **[GetNext](Outlook.Conflicts.GetNext.md)** , and **[GetPrevious](Outlook.Conflicts.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection and call **GetLast** before calling **GetPrevious** . To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
+Returns  **Nothing** if no first object exists, for example, if there are no objects in the collection. To ensure correct operation of the **GetFirst** , **[GetLast](Outlook.Conflicts.GetLast.md)** , **[GetNext](Outlook.Conflicts.GetNext.md)** , and **[GetPrevious](Outlook.Conflicts.GetPrevious.md)** methods in a large collection, call **GetFirst** before calling **GetNext** on that collection and call **GetLast** before calling **GetPrevious**. To ensure that you are always making the calls on the same collection, create an explicit variable that refers to that collection before entering the loop.
 
 
 ## See also

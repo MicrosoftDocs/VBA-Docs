@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.IsObjectValid property (Word)
 
- **True** if the specified variable that references an object is valid. Read-only **Boolean** .
+ **True** if the specified variable that references an object is valid. Read-only **Boolean**.
 
 
 ## Syntax

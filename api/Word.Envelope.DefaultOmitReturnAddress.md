@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultOmitReturnAddress property (Word)
 
- **True** if the return address is omitted from envelopes by default. Read/write **Boolean** .
+ **True** if the return address is omitted from envelopes by default. Read/write **Boolean**.
 
 
 ## Syntax

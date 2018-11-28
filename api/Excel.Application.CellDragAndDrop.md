@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CellDragAndDrop property (Excel)
 
- **True** if dragging and dropping cells is enabled. Read/write **Boolean** .
+ **True** if dragging and dropping cells is enabled. Read/write **Boolean**.
 
 
 ## Syntax

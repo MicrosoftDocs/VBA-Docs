@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorStop.Position property (Excel)
 
-Returns or sets the position of the  **ColorStop** . Read/write
+Returns or sets the position of the  **ColorStop**. Read/write
 
 
 ## Syntax

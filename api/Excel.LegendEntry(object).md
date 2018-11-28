@@ -26,7 +26,7 @@ The text of a legend entry cannot be changed.  **LegendEntry** objects support f
 
 There's no direct way to return the series or trendline corresponding to the legend entry.
 
-After legend entries have been deleted, the only way to restore them is to remove and recreate the legend that contained them by setting the  **[HasLegend](Excel.Chart.HasLegend.md)** property for the chart to **False** and then back to **True** .
+After legend entries have been deleted, the only way to restore them is to remove and recreate the legend that contained them by setting the  **[HasLegend](Excel.Chart.HasLegend.md)** property for the chart to **False** and then back to **True**.
 
 
 ## Example

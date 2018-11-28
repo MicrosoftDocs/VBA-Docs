@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.Perspective property (Word)
 
- **MsoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **MsoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write **MsoTriState** .
+ **MsoTrue** if the extrusion appears in perspective — that is, if the walls of the extrusion narrow toward a vanishing point. **MsoFalse** if the extrusion is a parallel, or orthographic, projection — that is, if the walls don't narrow toward a vanishing point. Read/write **MsoTriState**.
 
 
 ## Syntax

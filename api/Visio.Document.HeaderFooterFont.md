@@ -41,7 +41,7 @@ To get information about the **StdFont** object that supports the **IFontDisp** 
     
 3. In the **Project/Library** list, click **stdole**.
     
-4. Under **Classes**, examine the class named **StdFont** .
+4. Under **Classes**, examine the class named **StdFont**.
     
 For details about the **IFontDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartAxis.GroupType Property (Access)
+title: ChartAxis.GroupType property (Access)
 keywords: vbaac10.chm14770
 f1_keywords:
 - vbaac10.chm14770
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartAxis.GroupType Property (Access)
+# ChartAxis.GroupType property (Access)
 
-Returns or sets the type of grouping applied to an axis field when its type is a date. Read/write **[AcDateGroupType](Access.AcDateGroupType.md)** .
+Returns or sets the type of grouping applied to an axis field when its type is a date. Read/write **[AcDateGroupType](Access.AcDateGroupType.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowFormatError property (Word)
 
- **True** for Microsoft Word to mark inconsistencies in formatting by placing a squiggly underline beneath text formatted similarly to other formatting that is used more frequently in a document. Read/write **Boolean** .
+ **True** for Microsoft Word to mark inconsistencies in formatting by placing a squiggly underline beneath text formatted similarly to other formatting that is used more frequently in a document. Read/write **Boolean**.
 
 
 ## Syntax

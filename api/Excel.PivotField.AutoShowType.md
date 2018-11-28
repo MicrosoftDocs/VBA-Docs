@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoShowType property (Excel)
 
-Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long** .
+Returns  **xlAutomatic** if **AutoShow** is enabled for the specified PivotTable field; returns **xlManual** if **AutoShow** is disabled. Read-only **Long**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowChartTipNames property (Excel)
 
- **True** if charts show chart tip names. The default value is **True** . Read/write **Boolean** .
+ **True** if charts show chart tip names. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax

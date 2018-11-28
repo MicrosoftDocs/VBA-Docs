@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Replacement.Highlight property (Word)
 
- **True** if highlight formatting is applied to the replacement text. Read/write **Long** .
+ **True** if highlight formatting is applied to the replacement text. Read/write **Long**.
 
 
 ## Syntax
@@ -25,12 +25,12 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Can return or be set to  **True** , **False** , or **wdUndefined** .
+Can return or be set to  **True** , **False** , or **wdUndefined**.
 
 
 ## Example
 
-This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False** .
+This example finds all instances of highlighted text in the active document and removes the highlight formatting by setting the  **Highlight** property of the **Replacement** object to **False**.
 
 
 ```vb

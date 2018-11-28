@@ -30,8 +30,8 @@ Adds a picture to a drawing canvas. Returns a  **Shape** object that represents 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The path and file name of the picture.|
-| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False** .|
-| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False** .|
+| _LinkToFile_|Optional| **Variant**| **True** to link the picture to the file from which it was created. **False** to make the picture an independent copy of the file. The default value is **False**.|
+| _SaveWithDocument_|Optional| **Variant**| **True** to save the linked picture with the document. The default value is **False**.|
 | _Left_|Optional| **Variant**|The position, measured in points, of the left edge of the new picture relative to the drawing canvas.|
 | _Top_|Optional| **Variant**|The position, measured in points, of the top edge of the new picture relative to the drawing canvas.|
 | _Width_|Optional| **Variant**|The width of the picture, in points.|

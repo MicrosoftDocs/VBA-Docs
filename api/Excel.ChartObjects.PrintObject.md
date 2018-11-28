@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartObjects.PrintObject property (Excel)
 
- **True** if the objects will be printed when the document is printed. Read/write **Boolean** .
+ **True** if the objects will be printed when the document is printed. Read/write **Boolean**.
 
 
 ## Syntax

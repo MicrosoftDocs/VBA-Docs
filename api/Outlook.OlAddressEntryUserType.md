@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OlAddressEntryUserType Enumeration (Outlook)
 
-Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry** .
+Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)** or object derived from **AddressEntry**.
 
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DropDown.Valid property (Word)
 
- **True** if the specified form field object is a valid drop down form field. Read-only **Boolean** .
+ **True** if the specified form field object is a valid drop down form field. Read-only **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisRange Property (Access)
+title: Chart.PrimaryValuesAxisRange property (Access)
 keywords: vbaac10.chm6125
 f1_keywords:
 - vbaac10.chm6125
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisRange Property (Access)
+# Chart.PrimaryValuesAxisRange property (Access)
 
-Returns or sets the behavior for representing minimum and maximum values on the primary values axis. Read/write **[AcAxisRange](Access.AcAxisRange.md)** .
+Returns or sets the behavior for representing minimum and maximum values on the primary values axis. Read/write **[AcAxisRange](Access.AcAxisRange.md)**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PlotArea.InsideTop property (Word)
 
-Returns or sets the distance, in points, from the chart edge to the inside top edge of the plot area. Read/write  **Double** .
+Returns or sets the distance, in points, from the chart edge to the inside top edge of the plot area. Read/write  **Double**.
 
 
 ## Syntax

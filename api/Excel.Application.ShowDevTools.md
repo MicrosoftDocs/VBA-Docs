@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowDevTools property (Excel)
 
-Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write **Boolean** .
+Returns or sets a  **Boolean** that represents whether the **Developer** tab is displayed in the ribbon. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.BaseUnitIsAuto property (Word)
 
- **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True** . Read/write **Boolean** .
+ **True** if Microsoft Word chooses appropriate base units for the specified category axis. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax

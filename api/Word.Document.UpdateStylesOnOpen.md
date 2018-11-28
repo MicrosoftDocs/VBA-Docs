@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.UpdateStylesOnOpen property (Word)
 
- **True** if the styles in the specified document are updated to match the styles in the attached template each time the document is opened. Read/write **Boolean** .
+ **True** if the styles in the specified document are updated to match the styles in the attached template each time the document is opened. Read/write **Boolean**.
 
 
 ## Syntax

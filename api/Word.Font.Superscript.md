@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.Superscript property (Word)
 
- **True** if the font is formatted as superscript. Read/write **Long** .
+ **True** if the font is formatted as superscript. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Returns  **True** , **False** , or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle** .
+Returns  **True** , **False** , or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle**.
 
 Setting the  **Superscript** property to **True** sets the **[Subscript](Word.Font.Subscript.md)** property to **False** , and vice versa.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.HasTitle property (Word)
 
- **True** if the axis or chart has a visible title. Read/write **Boolean** .
+ **True** if the axis or chart has a visible title. Read/write **Boolean**.
 
 
 ## Syntax

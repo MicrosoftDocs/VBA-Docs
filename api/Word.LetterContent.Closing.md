@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.Closing property (Word)
 
-Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write  **String** .
+Returns or sets the closing text for a letter created by the Letter Wizard (for example, "Sincerely yours"). Read/write  **String**.
 
 
 ## Syntax

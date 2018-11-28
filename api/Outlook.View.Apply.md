@@ -25,7 +25,7 @@ Applies the view to the Microsoft Outlook user interface.
 
 ## Remarks
 
-To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **View.Apply** . The code sample below illustrates the order of the calls:
+To properly reset the current view, you must do a  **[View.Reset](Outlook.View.Reset.md)** and then a **View.Apply**. The code sample below illustrates the order of the calls:
 
 
 ```vb

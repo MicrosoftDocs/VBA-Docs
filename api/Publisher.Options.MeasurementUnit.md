@@ -42,7 +42,7 @@ The  **MeasurementUnit** property value can be one of the **PbUnitType** constan
 | **pbUnitHa**|Doesn't apply to this property; returns an error if used.|
 | **pbUnitInch**|Sets the unit of measurement to inches.|
 | **pbUnitKyu**| Doesn't apply to this property; returns an error if used.|
-| **pbUnitMeter** .|Doesn't apply to this property; returns an error if used.|
+| **pbUnitMeter**.|Doesn't apply to this property; returns an error if used.|
 | **pbUnitPica**|Sets the unit of measurement to picas.|
 | **pbUnitPoint**|Sets the unit of measurement to points.|
 | **pbUnitTwip**|Doesn't apply to this property; returns an error if used.|

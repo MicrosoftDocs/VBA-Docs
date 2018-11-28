@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ConvertToFormulas method (Excel)
 
-The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean** .
+The  **ConvertToFormulas** method is new in Microsoft Office Excel 2007 and is used for converting a PivotTable to cube formulas. Read/write **Boolean**.
 
 
 ## Syntax

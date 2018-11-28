@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebOptions.RelyOnVML property (Excel)
 
- **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False** . Read/write **Boolean** .
+ **True** if image files are not generated from drawing objects when you save a document as a Web page. **False** if images are generated. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

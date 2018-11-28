@@ -32,7 +32,7 @@ Specifies a research query.
 | _ServiceID_|Required| **String**|Specifies a GUID that identifies the research service.|
 | _QueryString_|Optional| **Variant**|Specifies the query string.|
 | _QueryLanguage_|Optional| **Variant**|Specifies the query language of the query string.|
-| _UseSelection_|Optional| **Boolean**| **True** to use the current selection as the query string. This overrides the _QueryString_ parameter if set. Default value is **False** .|
+| _UseSelection_|Optional| **Boolean**| **True** to use the current selection as the query string. This overrides the _QueryString_ parameter if set. Default value is **False**.|
 | _RequeryContextXML_|Optional| **Variant**|Specifies the xml file containing the requested content.|
 | _NewQueryContextXML_|Optional| **Variant**|Specifies the XML file containing the new query content.|
 | _LaunchQuery_|Optional| **Boolean**| **True** launches the query. False displays the **Research** task pane scoped to search the specified research service.|

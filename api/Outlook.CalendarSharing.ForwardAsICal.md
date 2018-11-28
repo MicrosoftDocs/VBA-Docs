@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CalendarSharing.ForwardAsICal Method (Outlook)
 
-Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as the payload of a **[MailItem](Outlook.MailItem.md)** .
+Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** of the **[CalendarSharing](Outlook.CalendarSharing.md)** object as the payload of a **[MailItem](Outlook.MailItem.md)**.
 
 
 ## Syntax
@@ -43,7 +43,7 @@ The  **ForwardAsICal** method provides a single method by which you can use payl
 
 - Creates a  **MailItem** object and provides a presentation of calendar information in the body of the mail item.
     
-- Creates an iCalendar (.ics) file containing the calendar information and attaches the file to the  **MailItem** .
+- Creates an iCalendar (.ics) file containing the calendar information and attaches the file to the  **MailItem**.
     
 
 ## See also

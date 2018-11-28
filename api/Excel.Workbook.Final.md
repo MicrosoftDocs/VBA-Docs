@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.Final property (Excel)
 
-Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/write **Boolean** .
+Returns or sets a  **Boolean** that indicates whether a workbook is final. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a  **String** value that represents the topic of the conversation thread
 
 ## Remarks
 
-Corresponds to the MAPI property  **PidTagConversationTopic** .
+Corresponds to the MAPI property  **PidTagConversationTopic**.
 
 
 ## See also

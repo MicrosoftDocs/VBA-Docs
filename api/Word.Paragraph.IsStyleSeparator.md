@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.IsStyleSeparator property (Word)
 
- **True** if a paragraph contains a special hidden paragraph mark that allows Microsoft Word to appear to join paragraphs of different paragraph styles. Read-only **Boolean** .
+ **True** if a paragraph contains a special hidden paragraph mark that allows Microsoft Word to appear to join paragraphs of different paragraph styles. Read-only **Boolean**.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisFontColor Property (Access)
+title: Chart.SecondaryValuesAxisFontColor property (Access)
 keywords: vbaac10.chm6133
 f1_keywords:
 - vbaac10.chm6133
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisFontColor Property (Access)
+# Chart.SecondaryValuesAxisFontColor property (Access)
 
-Returns or sets the font color used by the secondary values axis. Read/write **Long** .
+Returns or sets the font color used by the secondary values axis. Read/write **Long**.
 
 You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.OffsetX property (Excel)
 
-Returns or sets the horizontal offset of the shadow from the specified shape, in points. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write  **Single** .
+Returns or sets the horizontal offset of the shadow from the specified shape, in points. A positive value offsets the shadow to the right of the shape; a negative value offsets it to the left. Read/write  **Single**.
 
 
 ## Syntax

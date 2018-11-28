@@ -30,7 +30,7 @@ Boolean
 
 ## Remarks
 
- **True** if the slicer is locked when the sheet is protected. **False** if the slicer can be modified when the sheet is protected. The default value is **True** .
+ **True** if the slicer is locked when the sheet is protected. **False** if the slicer can be modified when the sheet is protected. The default value is **True**.
 
 
 ## See also

@@ -32,7 +32,7 @@ Specifies a research query.
 | _ServiceID_|Required| **String**|Specifies a GUID that identifies the research service.|
 | _QueryString_|Optional| **String**|Specifies the query string.|
 | _QueryLanguage_|Optional| **[WdLanguageID](Word.WdLanguageID.md)**|Specifies the query language of the query string.|
-| _UseSelection_|Optional| **Boolean**| **True** to use the current selection as the query string. This overrides the QueryString parameter if set. Default value is **False** .|
+| _UseSelection_|Optional| **Boolean**| **True** to use the current selection as the query string. This overrides the QueryString parameter if set. Default value is **False**.|
 | _LaunchQuery_|Optional| **Boolean**| **True** launches the query. False displays the **Research** task pane scoped to search the specified research service.|
 
 ## Return value

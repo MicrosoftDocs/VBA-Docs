@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.WindowNumber property (Excel)
 
-Returns the window number. For example, a window named "Book1.xls:2" has 2 as its window number. Most windows have the window number 1. Read-only  **Long** .
+Returns the window number. For example, a window named "Book1.xls:2" has 2 as its window number. Most windows have the window number 1. Read-only  **Long**.
 
 
 ## Syntax

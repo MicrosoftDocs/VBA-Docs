@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.ChangeConnection method (Excel)
 
-Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)** .
+Changes the connection of the specified  **[PivotTable](Excel.PivotTable.md)**.
 
 
 ## Syntax

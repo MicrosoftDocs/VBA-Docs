@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayFullScreen property (Excel)
 
- **True** if Microsoft Excel is in full-screen mode. Read/write **Boolean** .
+ **True** if Microsoft Excel is in full-screen mode. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MouseAvailable property (Excel)
 
- **True** if a mouse is available. Read-only **Boolean** .
+ **True** if a mouse is available. Read-only **Boolean**.
 
 
 ## Syntax

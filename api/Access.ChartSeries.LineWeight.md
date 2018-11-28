@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.LineWeight Property (Access)
+title: ChartSeries.LineWeight property (Access)
 keywords: vbaac10.chm14786
 f1_keywords:
 - vbaac10.chm14786
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.LineWeight Property (Access)
+# ChartSeries.LineWeight property (Access)
 
-Returns or sets the line weight (thickness) for a series when its effective chart type is line-based. Read/write **Long** .
+Returns or sets the line weight (thickness) for a series when its effective chart type is line-based. Read/write **Long**.
 
 
 ## Syntax

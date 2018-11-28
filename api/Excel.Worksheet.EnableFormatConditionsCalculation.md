@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Worksheet.EnableFormatConditionsCalculation property (Excel)
 
-Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean** .
+Returns or sets if conditional formats will occur automatically as needed. Read/write  **Boolean**.
 
 
 ## Syntax

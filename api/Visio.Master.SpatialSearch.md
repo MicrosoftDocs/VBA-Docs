@@ -31,7 +31,7 @@ Returns a  **Selection** object whose shapes meet certain criteria in relation t
 |:-----|:-----|:-----|:-----|
 | _x_|Required| **Double**|The x-coordinate.|
 | _y_|Required| **Double**|The y-coordinate.|
-| _Relation_|Required| **Integer**|Any combination of the values of the constants  **visSpatialContainedIn** and **visSpatialTouching** .|
+| _Relation_|Required| **Integer**|Any combination of the values of the constants  **visSpatialContainedIn** and **visSpatialTouching**.|
 | _Tolerance_|Required| **Double**|A distance in internal drawing units with respect to the coordinate space.|
 | _Flags_|Required| **Integer**|Flags that influence the result.|
 
@@ -43,7 +43,7 @@ Selection
 ## Remarks
 
 
-- The  _relation_ argument can be any combination of the constants defined in **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)** . If _relation_ is not specified, the **SpatialSearch** property uses both relationships as criteria.
+- The  _relation_ argument can be any combination of the constants defined in **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)**. If _relation_ is not specified, the **SpatialSearch** property uses both relationships as criteria.
     
 - The  _flags_ argument can be any combination of the values of the constants defined in **[VisSpatialRelationFlags](Visio.visspatialrelationflags.md)** in the Visio type library (except **visSpatialIncludeHidden** , which is reserved for future use, and should not be used).
     

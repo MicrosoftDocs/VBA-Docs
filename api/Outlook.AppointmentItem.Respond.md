@@ -31,7 +31,7 @@ Responds to a meeting request.
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **[OlMeetingResponse](Outlook.OlMeetingResponse.md)**|The response to the request.|
 | _fNoUI_|Optional| **Variant**| **True** to not display a dialog box; the response is sent automatically. **False** to display the dialog box for responding.|
-| _fAdditionalTextDialog_|Optional| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if **fNoUI** is **False** .|
+| _fAdditionalTextDialog_|Optional| **Variant**| **False** to not prompt the user for input; the response is displayed in the inspector for editing. **True** to prompt the user to either send or send with comments. This argument is valid only if **fNoUI** is **False**.|
 
 ## Return value
 
@@ -49,7 +49,7 @@ The following table describes the behavior of the  **Respond** method depending 
 |**_fNoUI, fAdditionalTextDialog_**|**_Result_**|
 |:-----|:-----|
 | **True, True**|Response item is returned with no user interface. To send the response, you must call the  **[Send](Outlook.AppointmentItem.Send(method).md)** method.|
-| **True, False**|Same result as with  **True, True** .|
+| **True, False**|Same result as with  **True, True**.|
 | **False, True**|Prompts user to  **Send** or **Edit** before sending the response.|
 | **False, False**|New response item appears in the user interface, but no prompt is displayed. |
 

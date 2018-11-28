@@ -33,7 +33,7 @@ Private Sub  _expression_ _'OnKeystrokeMessageForAddon'(**_ByVal MSG As [IVMSGWR
 
 ## Remarks
 
-Returns  **True** to indicate that the message was handled by the add-on. Otherwise, returns **False** .
+Returns  **True** to indicate that the message was handled by the add-on. Otherwise, returns **False**.
 
 The  **OnKeystrokeMessageForAddon** event enables add-ons to intercept and process accelerator and keystroke messages directed at their own add-on windows and child windows of their add-on windows. Only add-on windows created using the **Add** method will source this event.
 

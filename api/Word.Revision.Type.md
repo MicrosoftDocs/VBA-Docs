@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Revision.Type property (Word)
 
-Returns the revision type. Read-only  **[WdRevisionType](Word.WdRevisionType.md)** .
+Returns the revision type. Read-only  **[WdRevisionType](Word.WdRevisionType.md)**.
 
 
 ## Syntax

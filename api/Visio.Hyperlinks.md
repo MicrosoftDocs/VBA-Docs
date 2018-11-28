@@ -20,6 +20,6 @@ Includes  **Hyperlink** objects. A **Hyperlinks** collection enables you to acce
 
 To retrieve a  **Hyperlinks** collection, use the **Hyperlinks** property of a **Shape** object.
 
-The default property of a  **Hyperlinks** collection is **Item** .
+The default property of a  **Hyperlinks** collection is **Item**.
 
 

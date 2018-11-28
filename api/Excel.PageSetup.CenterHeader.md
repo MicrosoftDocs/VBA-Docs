@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.CenterHeader property (Excel)
 
-Center aligns the header information in the  **PageSetup** object. Read/write **String** .
+Center aligns the header information in the  **PageSetup** object. Read/write **String**.
 
 
 ## Syntax

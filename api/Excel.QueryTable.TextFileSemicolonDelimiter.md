@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.TextFileSemicolonDelimiter property (Excel)
 
- **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlDelimited** . The default value is **False** . Read/write **Boolean** .
+ **True** if the semicolon is the delimiter when you import a text file into a query table, and if the value of the **[TextFileParseType](Excel.QueryTable.TextFileParseType.md)** property is **xlDelimited**. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Use this property only when your query table is based on data from a text file (
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFileSemicolonDelimiter** property applies only to **QueryTable** objects.
 

@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.Name Property (Access)
+title: ChartSeries.Name property (Access)
 keywords: vbaac10.chm14789
 f1_keywords:
 - vbaac10.chm14789
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.Name Property (Access)
+# ChartSeries.Name property (Access)
 
-Returns the name of a **ChartSeries** instance based on the value of its associated field. Read-only **String** .
+Returns the name of a **ChartSeries** instance based on the value of its associated field. Read-only **String**.
 
 
 ## Syntax

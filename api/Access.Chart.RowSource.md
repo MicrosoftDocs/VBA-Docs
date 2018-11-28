@@ -1,5 +1,5 @@
 ---
-title: Chart.RowSource Property (Access)
+title: Chart.RowSource property (Access)
 keywords: vbaac10.chm14758
 f1_keywords:
 - vbaac10.chm14758
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.RowSource Property (Access)
+# Chart.RowSource property (Access)
 
-Returns or sets the name of the table/query that supplies data for the chart. Read/write **String** .
+Returns or sets the name of the table/query that supplies data for the chart. Read/write **String**.
 
 
 ## Syntax

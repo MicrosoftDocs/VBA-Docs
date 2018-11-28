@@ -20,6 +20,6 @@ Represents one set of diagram validation rules.
 
 To get a particular  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object, you can use the **[Item](Visio.ValidationRuleSets.Item.md)** or the **[ItemFromID](Visio.ValidationRuleSets.ItemFromID.md)** property of the **[ValidationRuleSets](Visio.ValidationRuleSets.md)** collection of a **[Document](Visio.Document.md)** object.
 
-The default property of the  **ValidationRuleSet** object is **[Name](Visio.ValidationRuleSet.Name.md)** .
+The default property of the  **ValidationRuleSet** object is **[Name](Visio.ValidationRuleSet.Name.md)**.
 
 

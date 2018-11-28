@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.SaveFormsData property (Word)
 
- **True** if Microsoft Word saves the data entered in a form as a tab-delimited record for use in a database. Read/write **Boolean** .
+ **True** if Microsoft Word saves the data entered in a form as a tab-delimited record for use in a database. Read/write **Boolean**.
 
 
 ## Syntax

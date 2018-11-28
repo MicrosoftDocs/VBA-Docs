@@ -33,8 +33,8 @@ Creates a new scenario and adds it to the list of scenarios that are available f
 | _ChangingCells_|Required| **Variant**|A  **[Range](Excel.Range(object).md)** object that refers to the changing cells for the scenario.|
 | _Values_|Optional| **Variant**|An array that contains the scenario values for the cells in  _ChangingCells_. If this argument is omitted, the scenario values are assumed to be the current values in the cells in _ChangingCells_.|
 | _Comment_|Optional| **Variant**|A string that specifies comment text for the scenario. When a new scenario is added, the author's name and date are automatically added at the beginning of the comment text.|
-| _Locked_|Optional| **Variant**| **True** to lock the scenario to prevent changes. The default value is **True** .|
-| _Hidden_|Optional| **Variant**| **True** to hide the scenario. The default value is **False** .|
+| _Locked_|Optional| **Variant**| **True** to lock the scenario to prevent changes. The default value is **True**.|
+| _Hidden_|Optional| **Variant**| **True** to hide the scenario. The default value is **False**.|
 
 ## Return value
 

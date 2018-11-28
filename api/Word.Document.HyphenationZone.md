@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.HyphenationZone property (Word)
 
-Returns or sets the width of the hyphenation zone, in points. Read/write  **Long** .
+Returns or sets the width of the hyphenation zone, in points. Read/write  **Long**.
 
 
 ## Syntax

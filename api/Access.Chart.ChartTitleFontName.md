@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartTitleFontName Property (Access)
+title: Chart.ChartTitleFontName property (Access)
 keywords: vbaac10.chm6150
 f1_keywords:
 - vbaac10.chm6150
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartTitleFontName Property (Access)
+# Chart.ChartTitleFontName property (Access)
 
-Returns or sets the name of the font used by the chart title. Read/write **String** .
+Returns or sets the name of the font used by the chart title. Read/write **String**.
 
 
 ## Syntax

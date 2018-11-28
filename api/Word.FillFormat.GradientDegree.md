@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientDegree property (Word)
 
-Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single** .
+Returns a value that indicates how dark or light a one-color gradient fill is. Read-only  **Single**.
 
 
 ## Syntax

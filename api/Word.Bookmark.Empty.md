@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Bookmark.Empty property (Word)
 
- **True** if the specified bookmark is empty. Read-only **Boolean** .
+ **True** if the specified bookmark is empty. Read-only **Boolean**.
 
 
 ## Syntax

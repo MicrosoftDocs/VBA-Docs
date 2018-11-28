@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NoSpaceBetweenParagraphsOfSameStyle property (Word)
 
- **True** for Microsoft Word to remove spacing between paragraphs that are formatted using the same style. Read/write **Boolean** .
+ **True** for Microsoft Word to remove spacing between paragraphs that are formatted using the same style. Read/write **Boolean**.
 
 
 ## Syntax

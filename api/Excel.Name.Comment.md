@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Name.Comment property (Excel)
 
-Returns or sets the comment associated with the name. Read/write  **String** .
+Returns or sets the comment associated with the name. Read/write  **String**.
 
 
 ## Syntax

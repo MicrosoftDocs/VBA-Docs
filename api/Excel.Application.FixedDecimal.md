@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.FixedDecimal property (Excel)
 
-All data entered after this property is set to  **True** will be formatted with the number of fixed decimal places set by the **[FixedDecimalPlaces](Excel.Application.FixedDecimalPlaces.md)** property. Read/write **Boolean** .
+All data entered after this property is set to  **True** will be formatted with the number of fixed decimal places set by the **[FixedDecimalPlaces](Excel.Application.FixedDecimalPlaces.md)** property. Read/write **Boolean**.
 
 
 ## Syntax

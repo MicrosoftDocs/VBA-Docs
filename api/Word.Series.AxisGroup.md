@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Series.AxisGroup property (Word)
 
-Returns the type of axis group. Read/write  **[xlAxisGroup](Word.xlaxisgroup.md)** .
+Returns the type of axis group. Read/write  **[xlAxisGroup](Word.xlaxisgroup.md)**.
 
 
 ## Syntax

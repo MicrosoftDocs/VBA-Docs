@@ -1,5 +1,5 @@
 ---
-title: Chart.LegendTextFontColor Property (Access)
+title: Chart.LegendTextFontColor property (Access)
 keywords: vbaac10.chm6152
 f1_keywords:
 - vbaac10.chm6152
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.LegendTextFontColor Property (Access)
+# Chart.LegendTextFontColor property (Access)
 
-Returns or sets the font color used by the chart legend. Read/write **Long** .
+Returns or sets the font color used by the chart legend. Read/write **Long**.
 
 You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
 

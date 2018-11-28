@@ -30,8 +30,8 @@ Creates a new document linked to the specified hyperlink.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|The file name of the specified document.|
-| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment. The default value is **True** .|
-| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the FileName argument specifies a new file name. The default value is **False** .|
+| _EditNow_|Required| **Boolean**| **True** to have the specified document open immediately in its associated editing environment. The default value is **True**.|
+| _Overwrite_|Required| **Boolean**| **True** to overwrite any existing file of the same name in the same folder. **False** if any existing file of the same name is preserved and the FileName argument specifies a new file name. The default value is **False**.|
 
 ## Example
 

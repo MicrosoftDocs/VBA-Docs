@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.InlineConversion property (Word)
 
- **True** if Microsoft Word displays an unconfirmed character string in the Japanese Input Method Editor (IME) as an insertion between existing (confirmed) character strings. Read/write **Boolean** .
+ **True** if Microsoft Word displays an unconfirmed character string in the Japanese Input Method Editor (IME) as an insertion between existing (confirmed) character strings. Read/write **Boolean**.
 
 
 ## Syntax

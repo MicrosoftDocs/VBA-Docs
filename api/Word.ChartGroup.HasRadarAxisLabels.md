@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasRadarAxisLabels property (Word)
 
- **True** if a radar chart has axis labels. Read/write **Boolean** .
+ **True** if a radar chart has axis labels. Read/write **Boolean**.
 
 
 ## Syntax

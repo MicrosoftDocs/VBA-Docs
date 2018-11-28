@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.EnableCancelKey property (Excel)
 
-Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[xlEnableCancelKey](Excel.XlEnableCancelKey.md)** .
+Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure. Read/write  **[xlEnableCancelKey](Excel.XlEnableCancelKey.md)**.
 
 
 ## Syntax
@@ -28,9 +28,9 @@ Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user 
 
 
 | **xlEnableCancelKey** can be one of these **xlEnableCancelKey** constants.|
-| **xlDisabled** . Cancel key trapping is completely disabled.|
-| **xlErrorHandler** . The interrupt is sent to the running procedure as an error, trappable by an error handler set up with an `On Error GoTo` statement. The trappable error code is 18.|
-| **xlInterrupt** . The current procedure is interrupted, and the user can debug or end the procedure.|
+| **xlDisabled**. Cancel key trapping is completely disabled.|
+| **xlErrorHandler**. The interrupt is sent to the running procedure as an error, trappable by an error handler set up with an `On Error GoTo` statement. The trappable error code is 18.|
+| **xlInterrupt**. The current procedure is interrupted, and the user can debug or end the procedure.|
 
 Use this property very carefully. If you use  **xlDisabled** , there's no way to interrupt a runaway loop or other non - self-terminating code. Likewise, if you use **xlErrorHandler** but your error handler always returns using the `Resume` statement, there's no way to stop runaway code.
 

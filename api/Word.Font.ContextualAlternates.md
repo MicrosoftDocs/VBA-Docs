@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Font.ContextualAlternates property (Word)
 
-Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long** .
+Specifies whether or not contextual alternates are enabled for the specified font. Read/write  **Long**.
 
 
 ## Syntax

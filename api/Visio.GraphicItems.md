@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # GraphicItems Object (Visio)
 
-The collection of  **[GraphicItem](Visio.GraphicItem.md)** objects associated with a **Master** object of type **visTypeDataGraphic** .
+The collection of  **[GraphicItem](Visio.GraphicItem.md)** objects associated with a **Master** object of type **visTypeDataGraphic**.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
@@ -21,9 +21,9 @@ The collection of  **[GraphicItem](Visio.GraphicItem.md)** objects associated wi
 
 ## Remarks
 
-The default property of the  **GraphicItems** collection is **[Item](Visio.GraphicItems.Item.md)** .
+The default property of the  **GraphicItems** collection is **[Item](Visio.GraphicItems.Item.md)**.
 
-The  **[AddCopy](Visio.GraphicItems.AddCopy.md)** method adds a copy of an existing **GraphicItem** object to the **GraphicItems** collection. The **GraphicItem** object to be added must already exist in another master of type **visTypeDataGraphic** .
+The  **[AddCopy](Visio.GraphicItems.AddCopy.md)** method adds a copy of an existing **GraphicItem** object to the **GraphicItems** collection. The **GraphicItem** object to be added must already exist in another master of type **visTypeDataGraphic**.
 
 Use the  **[DataGraphic](Visio.GraphicItem.DataGraphic.md)** property to return the **Master** object of type **visTypeDataGraphic** that the **GraphicItems** collection is associated with.
 

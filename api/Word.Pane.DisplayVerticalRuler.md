@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Pane.DisplayVerticalRuler property (Word)
 
- **True** if a vertical ruler is displayed for the specified pane. Read/write **Boolean** .
+ **True** if a vertical ruler is displayed for the specified pane. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-A vertical ruler appears only in print layout view, and only if the  **DisplayRulers** property is set to **True** .
+A vertical ruler appears only in print layout view, and only if the  **DisplayRulers** property is set to **True**.
 
 
 ## Example

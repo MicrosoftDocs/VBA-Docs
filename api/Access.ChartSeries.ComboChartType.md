@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.ComboChartType Property (Access)
+title: ChartSeries.ComboChartType property (Access)
 keywords: vbaac10.chm14781
 f1_keywords:
 - vbaac10.chm14781
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.ComboChartType Property (Access)
+# ChartSeries.ComboChartType property (Access)
 
-Returns or sets the chart type for the specified series. Read/write **[AcChartType](Access.AcChartType.md)** .
+Returns or sets the chart type for the specified series. Read/write **[AcChartType](Access.AcChartType.md)**.
 
 This setting is only applicable when the **[ChartType](Access.Chart.ChartType.md)** of the parent **[Chart](Access.Chart.md)** object is set to **acChartCombo**.
 

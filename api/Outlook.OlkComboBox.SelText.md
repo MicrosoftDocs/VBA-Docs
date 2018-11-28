@@ -25,7 +25,7 @@ Returns a  **String** that represents the selected portion of the value of the c
 
 ## Remarks
 
- **SelText** represents the current selection, which is a portion of the control's **[Value](Outlook.OlkComboBox.Value.md)** . The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkComboBox.MaxLength.md)** .
+ **SelText** represents the current selection, which is a portion of the control's **[Value](Outlook.OlkComboBox.Value.md)**. The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkComboBox.MaxLength.md)**.
 
 The default value is an empty string.
 

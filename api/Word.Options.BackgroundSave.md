@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.BackgroundSave property (Word)
 
- **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean** .
+ **True** if Word saves documents in the background. When Word is saving in the background, users can continue to type and to choose commands. Read/write **Boolean**.
 
 
 ## Syntax

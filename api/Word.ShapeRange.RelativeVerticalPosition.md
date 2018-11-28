@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.RelativeVerticalPosition property (Word)
 
-Specifies the relative vertical position of a range of shapes. Read/write **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)** .
+Specifies the relative vertical position of a range of shapes. Read/write **[WdRelativeHorizontalPosition](Word.WdRelativeHorizontalPosition.md)**.
 
 
 ## Syntax

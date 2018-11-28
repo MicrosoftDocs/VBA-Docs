@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.AutoShowCount property (Excel)
 
-Returns the number of top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **Long** .
+Returns the number of top or bottom items that are automatically shown in the specified PivotTable field. Read-only  **Long**.
 
 
 ## Syntax

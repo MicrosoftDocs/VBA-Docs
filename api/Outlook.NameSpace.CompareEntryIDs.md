@@ -34,7 +34,7 @@ Returns a  **Boolean** value that indicates if two entry ID values refer to the 
 
 ## Return value
 
- **True** if the entry ID values refer to the same Outlook item; otherwise, **False** .
+ **True** if the entry ID values refer to the same Outlook item; otherwise, **False**.
 
 
 ## Remarks

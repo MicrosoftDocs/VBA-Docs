@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatMatchParentheses property (Word)
 
- **True** if improperly paired parentheses are corrected when Microsoft Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if improperly paired parentheses are corrected when Microsoft Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax

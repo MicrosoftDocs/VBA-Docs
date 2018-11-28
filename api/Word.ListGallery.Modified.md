@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListGallery.Modified property (Word)
 
- **True** if the specified list template is not the built-in list template for that position in the list gallery. Read-only **Boolean** .
+ **True** if the specified list template is not the built-in list template for that position in the list gallery. Read-only **Boolean**.
 
 
 ## Syntax

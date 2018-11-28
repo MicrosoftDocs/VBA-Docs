@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # EmailOptions.AutoFormatAsYouTypeApplyClosings property (Word)
 
- **True** for Microsoft Word to automatically apply the Closing style to letter closings as you type. Read/write **Boolean** .
+ **True** for Microsoft Word to automatically apply the Closing style to letter closings as you type. Read/write **Boolean**.
 
 
 ## Syntax

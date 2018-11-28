@@ -13,7 +13,7 @@ A collection of  **FirstLetterException** objects that represent the abbreviatio
 
 ## Remarks
 
-The first character following a period is automatically capitalized when the  **CorrectSentenceCaps** property is set to **True** . The **FirstLetterExceptions** collection includes exceptions to this behavior (for example, abbreviations such as "addr." and "apt.").
+The first character following a period is automatically capitalized when the  **CorrectSentenceCaps** property is set to **True**. The **FirstLetterExceptions** collection includes exceptions to this behavior (for example, abbreviations such as "addr." and "apt.").
 
 Use the  **FirstLetterExceptions** property to return the **FirstLetterExceptions** collection. The following example deletes the abbreviation "addr." if it is included in the **FirstLetterExceptions** collection.
 

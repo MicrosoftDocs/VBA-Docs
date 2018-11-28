@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.ShowStartupDialog property (Word)
 
- **True** to display the **Task Pane** when starting Microsoft Word. Read/write **Boolean** .
+ **True** to display the **Task Pane** when starting Microsoft Word. Read/write **Boolean**.
 
 
 ## Syntax

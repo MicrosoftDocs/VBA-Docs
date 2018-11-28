@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.CheckHangulEndings property (Word)
 
- **True** if Microsoft Word automatically detects Hangul endings and ignores them during conversion from Hangul to Hanja. Read/write **Boolean** .
+ **True** if Microsoft Word automatically detects Hangul endings and ignores them during conversion from Hangul to Hanja. Read/write **Boolean**.
 
 
 ## Syntax

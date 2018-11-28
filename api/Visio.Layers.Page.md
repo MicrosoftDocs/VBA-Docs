@@ -30,7 +30,7 @@ Page
 
 ## Remarks
 
-If the **Layers** collection is in a master rather than in a page, the **Page** property returns **Nothing** . You cannot set the **Page** property of a **Layers** collection.
+If the **Layers** collection is in a master rather than in a page, the **Page** property returns **Nothing**. You cannot set the **Page** property of a **Layers** collection.
 
 
 ## Example

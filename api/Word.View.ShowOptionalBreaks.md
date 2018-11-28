@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.ShowOptionalBreaks property (Word)
 
- **True** if Microsoft Word displays optional line breaks. Read/write **Boolean** .
+ **True** if Microsoft Word displays optional line breaks. Read/write **Boolean**.
 
 
 ## Syntax

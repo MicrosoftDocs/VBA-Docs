@@ -45,9 +45,9 @@ The following constants for link replacement behaviors are declared by the Visio
 
 These options correspond to those available in the  **Properties** dialog box for the tab corresponding to the data recordset in the **External Data** window. (In the **External Data** window, on the tab for the data recordset, right-click, point to **Data Source**, and then click  **Properties**.)
 
-Methods affected by this property setting include  **[Selection.LinkToData](Visio.Selection.LinkToData.md)** , **[Shape.LinkToData](Visio.Shape.LinkToData.md)** , and **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)** .
+Methods affected by this property setting include  **[Selection.LinkToData](Visio.Selection.LinkToData.md)** , **[Shape.LinkToData](Visio.Shape.LinkToData.md)** , and **[Selection.AutomaticLink](Visio.Selection.AutomaticLink.md)**.
 
-In the UI, when users attempt to link to data shapes that have existing links to data and the setting is  **visLinkReplacePrompt** , Visio responds by opening a dialog box to inform users that their actions will break the existing links and ask if they want to proceed. Because opening a dialog box is not an appropriate response to a method call, when you link shapes by calling any of these methods, Visio treats the setting **visLinkReplacePrompt** as if it were **visLinkReplaceAlways** . That is, these two settings differ in how they affect behavior in the UI, but not programmatic behavior. The default is always to replace existing links when linking is performed programmatically, but to prompt when linking is performed in the UI.
+In the UI, when users attempt to link to data shapes that have existing links to data and the setting is  **visLinkReplacePrompt** , Visio responds by opening a dialog box to inform users that their actions will break the existing links and ask if they want to proceed. Because opening a dialog box is not an appropriate response to a method call, when you link shapes by calling any of these methods, Visio treats the setting **visLinkReplacePrompt** as if it were **visLinkReplaceAlways**. That is, these two settings differ in how they affect behavior in the UI, but not programmatic behavior. The default is always to replace existing links when linking is performed programmatically, but to prompt when linking is performed in the UI.
 
 When  **LinkReplaceBehavior** is set to **visLinkReplaceNever** , both of the **LinkToData** methods are disabled and calls to them fail.
 
@@ -57,6 +57,6 @@ In addition, the  **LinkReplaceBehavior** setting determines how the **Selection
 
 The difference between the  **LinkToData** methods and the **AutomaticLink** method, however, is that for **AutomaticLink** , you can override the **LinkReplaceBehavior** setting by passing either the **visAutoLinkReplaceExistingLinks** or the **visAutoLinkDontReplaceExistingLinks** constant from the **[VisAutoLinkBehaviors](Visio.visautolinkbehaviors.md)** enumeration to the method as the AutoLinkBehavior parameter.
 
-So, for example, if  **LinkReplaceBehavior** is set to **visLinkReplaceNever** , you can specify that **AutomaticLink** nevertheless replaces existing links by passing it **visAutoLinkReplaceExistingLinks** .
+So, for example, if  **LinkReplaceBehavior** is set to **visLinkReplaceNever** , you can specify that **AutomaticLink** nevertheless replaces existing links by passing it **visAutoLinkReplaceExistingLinks**.
 
 

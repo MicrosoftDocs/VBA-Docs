@@ -30,7 +30,7 @@ Returns or sets whether the spelling checker uses rules regarding Russian words 
 
 ## Remarks
 
- **True** if the spelling checker uses rules regarding Russian words containing the character ë; otherwise **False** .
+ **True** if the spelling checker uses rules regarding Russian words containing the character ë; otherwise **False**.
 
 
 ## See also

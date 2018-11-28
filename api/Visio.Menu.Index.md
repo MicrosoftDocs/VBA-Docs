@@ -37,6 +37,6 @@ Most collections are indexed starting with 1 rather than zero (0), so the index 
 
 There are some exceptions. The  **Colors** collection is indexed starting with 0.
 
-These collections are also indexed starting with 0:  **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets** .
+These collections are also indexed starting with 0:  **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets**.
 
 

@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** value that indicates whether the columns in the *
 
 ## Remarks
 
-If this property is set to  **False** , then the **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine** .
+If this property is set to  **False** , then the **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine**.
 
 
 ## See also

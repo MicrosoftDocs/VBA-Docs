@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Borders.AlwaysInFront property (Word)
 
- **True** if page borders are displayed in front of the document text. Read/write **Boolean** .
+ **True** if page borders are displayed in front of the document text. Read/write **Boolean**.
 
 
 ## Syntax

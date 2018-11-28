@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Chart.ChartData property (Word)
 
-Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](Word.ChartData.md)** .
+Returns information about the linked or embedded data associated with a chart. Read-only  **[ChartData](Word.ChartData.md)**.
 
 
 ## Syntax

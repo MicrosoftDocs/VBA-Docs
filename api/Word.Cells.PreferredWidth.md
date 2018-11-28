@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cells.PreferredWidth property (Word)
 
-Returns or sets the preferred width (in points or as a percentage of the window width) for the specified cells. Read/write  **Single** .
+Returns or sets the preferred width (in points or as a percentage of the window width) for the specified cells. Read/write  **Single**.
 
 
 ## Syntax

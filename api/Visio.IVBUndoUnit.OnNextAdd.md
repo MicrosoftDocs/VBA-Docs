@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IVBUndoUnit.OnNextAdd Method (Visio)
 
-Notifies an undo unit that another undo unit has been added to the undo stack. Returns  **Nothing** .
+Notifies an undo unit that another undo unit has been added to the undo stack. Returns  **Nothing**.
 
 
 ## Syntax

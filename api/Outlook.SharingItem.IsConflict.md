@@ -25,7 +25,7 @@ Returns a  **Boolean** that determines if the **[SharingItem](Outlook.SharingIte
 
 ## Remarks
 
-Whether or not an item is in conflict is determined by the state of the application. For example, when a user is offline and tries to access an online folder the action will fail. In this scenario, the  **IsConflict** property will return **true** .
+Whether or not an item is in conflict is determined by the state of the application. For example, when a user is offline and tries to access an online folder the action will fail. In this scenario, the  **IsConflict** property will return **true**.
 
 If  **true** , the specified item is in conflict.
 

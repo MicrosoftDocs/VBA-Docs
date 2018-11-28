@@ -25,7 +25,7 @@ Returns an  **XMLNode** object that represents the previous element in the docum
 
 ## Remarks
 
-If the specified element is the first element in the  **XMLNodes** collection, this property returns **Nothing** .
+If the specified element is the first element in the  **XMLNodes** collection, this property returns **Nothing**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.EmbedTrueTypeFonts property (Word)
 
- **True** if Microsoft Word embeds TrueType fonts in a document when it is saved. Read/write **Boolean** .
+ **True** if Microsoft Word embeds TrueType fonts in a document when it is saved. Read/write **Boolean**.
 
 
 ## Syntax

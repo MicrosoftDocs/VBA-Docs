@@ -34,7 +34,7 @@ If the  **EventsEnabled** property is **False** , Visio does not fire events, ru
 
 By default, the  **EventsEnabled** property is **True** when an instance of Visio starts.
 
-You may want to disable event firing if you have written code to handle events such as  **DocumentOpened** or **DocumentCreated** that does not work properly, or to prevent the incorporation of a virus into a document. Events will not fire until the **EventsEnabled** property is set to **True** .
+You may want to disable event firing if you have written code to handle events such as  **DocumentOpened** or **DocumentCreated** that does not work properly, or to prevent the incorporation of a virus into a document. Events will not fire until the **EventsEnabled** property is set to **True**.
 
 
 ## Example

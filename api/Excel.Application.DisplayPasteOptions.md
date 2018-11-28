@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayPasteOptions property (Excel)
 
- **True** if the **Paste Options** button can be displayed. Read/write **Boolean** .
+ **True** if the **Paste Options** button can be displayed. Read/write **Boolean**.
 
 
 ## Syntax

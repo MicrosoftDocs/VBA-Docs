@@ -25,7 +25,7 @@ Clears the  **[SharingItem](Outlook.SharingItem.md)** object as a task.
 
 ## Remarks
 
-Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property to **False** .
+Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsTask.md)** property to **False**.
 
 
 ## See also

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.DisplayAlerts property (Word)
 
-Returns or sets the way certain alerts and messages are handled while a macro is running. Read/write  **WdAlertLevel** .
+Returns or sets the way certain alerts and messages are handled while a macro is running. Read/write  **WdAlertLevel**.
 
 
 ## Syntax

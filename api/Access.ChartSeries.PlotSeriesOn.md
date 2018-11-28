@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.PlotSeriesOn Property (Access)
+title: ChartSeries.PlotSeriesOn property (Access)
 keywords: vbaac10.chm14790
 f1_keywords:
 - vbaac10.chm14790
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.PlotSeriesOn Property (Access)
+# ChartSeries.PlotSeriesOn property (Access)
 
-Returns or sets the axis to use for plotting the values of a series. Read/write **[AcValueAxis](Access.AcValueAxis.md)** .
+Returns or sets the axis to use for plotting the values of a series. Read/write **[AcValueAxis](Access.AcValueAxis.md)**.
 
 
 ## Syntax

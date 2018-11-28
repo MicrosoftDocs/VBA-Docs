@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Validation.ShowInput property (Excel)
 
- **True** if the data validation input message will be displayed whenever the user selects a cell in the data validation range. Read/write **Boolean** .
+ **True** if the data validation input message will be displayed whenever the user selects a cell in the data validation range. Read/write **Boolean**.
 
 
 ## Syntax

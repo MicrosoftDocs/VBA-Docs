@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEFormat.ProgID property (Word)
 
-Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only  **String** .
+Returns the programmatic identifier (ProgID) for the specified OLE object. Read-only  **String**.
 
 
 ## Syntax

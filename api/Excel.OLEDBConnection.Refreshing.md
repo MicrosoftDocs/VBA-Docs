@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # OLEDBConnection.Refreshing property (Excel)
 
- **True** if a background OLE DB query is in progress for the specified OLE DB connection. Read/write **Boolean** .
+ **True** if a background OLE DB query is in progress for the specified OLE DB connection. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.SequenceCheck property (Word)
 
- **True** to check the sequence of independent characters for South Asian text. Read/write **Boolean** .
+ **True** to check the sequence of independent characters for South Asian text. Read/write **Boolean**.
 
 
 ## Syntax

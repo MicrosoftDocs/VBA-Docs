@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.EnableRefresh property (Excel)
 
- **True** if the PivotTable cache or query table can be refreshed by the user. The default value is **True** . Read/write **Boolean** .
+ **True** if the PivotTable cache or query table can be refreshed by the user. The default value is **True**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False** .
+The  **[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)** property is ignored if the **EnableRefresh** property is set to **False**.
 
 For OLAP data sources, setting this property to  **False** disables updates.
 

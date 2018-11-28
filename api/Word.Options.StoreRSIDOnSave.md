@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.StoreRSIDOnSave property (Word)
 
- **True** for Microsoft Word to assign a random number to changes in a document, each time a document is saved, to facilitate comparing and merging documents. Read/write **Boolean** .
+ **True** for Microsoft Word to assign a random number to changes in a document, each time a document is saved, to facilitate comparing and merging documents. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Word stores the random numbers in a table and updates the table after each save. The default for the  **StoreRSIDOnSave** property is **True** . However, RSID information is not saved for HTML documents.
+Word stores the random numbers in a table and updates the table after each save. The default for the  **StoreRSIDOnSave** property is **True**. However, RSID information is not saved for HTML documents.
 
 Use the  **[RemovePersonalInformation](Word.Document.RemovePersonalInformation.md)** property if you want to remove information related to authors and reviewers of a document.
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotField.MemberPropertyCaption property (Excel)
 
-Setting the  **MemberPropertyCaption** property controls which member property is used as caption for a given level. Read/write **Boolean** .
+Setting the  **MemberPropertyCaption** property controls which member property is used as caption for a given level. Read/write **Boolean**.
 
 
 ## Syntax

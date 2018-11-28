@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TabStop.CustomTab property (Word)
 
- **True** if the specified tab stop is a custom tab stop. Read-only **Boolean** .
+ **True** if the specified tab stop is a custom tab stop. Read-only **Boolean**.
 
 
 ## Syntax

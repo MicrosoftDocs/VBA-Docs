@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintDrawingObjects property (Word)
 
- **True** if Microsoft Word prints drawing objects. Read/write **Boolean** .
+ **True** if Microsoft Word prints drawing objects. Read/write **Boolean**.
 
 
 ## Syntax

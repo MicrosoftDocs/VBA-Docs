@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LinkFormat.AutoUpdate property (Word)
 
- **True** if the specified link is updated automatically when the container file is opened or when the source file is changed. Read/write **Boolean** .
+ **True** if the specified link is updated automatically when the container file is opened or when the source file is changed. Read/write **Boolean**.
 
 
 ## Syntax

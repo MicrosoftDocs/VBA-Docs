@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Field.ShowCodes property (Word)
 
- **True** if field codes are displayed for the specified field instead of field results. Read/write **Boolean** .
+ **True** if field codes are displayed for the specified field instead of field results. Read/write **Boolean**.
 
 
 ## Syntax

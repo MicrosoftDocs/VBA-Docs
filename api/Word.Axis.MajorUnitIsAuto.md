@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.MajorUnitIsAuto property (Word)
 
- **True** if Microsoft Word calculates the major units for the value axis. Read/write **Boolean** .
+ **True** if Microsoft Word calculates the major units for the value axis. Read/write **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Setting the  **[MajorUnit](Word.Axis.MajorUnit.md)** property sets this property to **False** .
+Setting the  **[MajorUnit](Word.Axis.MajorUnit.md)** property sets this property to **False**.
 
 
 ## Example

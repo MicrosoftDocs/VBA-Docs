@@ -32,7 +32,7 @@ Sets the options Microsoft Word uses for encrypting documents with passwords.
 | _PasswordEncryptionProvider_|Required| **String**|The name of the encryption provider.|
 | _PasswordEncryptionAlgorithm_|Required| **String**|The name of the encryption algorithm. Word supports stream-encrypted algorithms.|
 | _PasswordEncryptionKeyLength_|Required| **Long**|The encryption key length. Must be a multiple of 8, starting at 40.|
-| _PasswordEncryptionFileProperties_|Optional| **Variant**| **True** for Word to encrypt file properties. Default is **True** .|
+| _PasswordEncryptionFileProperties_|Optional| **Variant**| **True** for Word to encrypt file properties. Default is **True**.|
 
 ## Remarks
 

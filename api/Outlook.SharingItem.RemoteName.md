@@ -27,7 +27,7 @@ Returns a  **String** that represents the name of the sharing context for a **[S
 
 This property contains the name used for the sharing context, such as the name of the folder or item, contained within the  **SharingItem** object.
 
-This property is set to an empty string if the  **[Type](Outlook.SharingItem.Type.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest** .
+This property is set to an empty string if the  **[Type](Outlook.SharingItem.Type.md)** property of the **SharingItem** object is set to **olSharingMsgTypeRequest**.
 
 
 ## See also

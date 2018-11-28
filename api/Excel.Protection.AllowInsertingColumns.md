@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Protection.AllowInsertingColumns property (Excel)
 
-Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean** .
+Returns  **True** if the insertion of columns is allowed on a protected worksheet. Read-only **Boolean**.
 
 
 ## Syntax

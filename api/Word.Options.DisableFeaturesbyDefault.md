@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.DisableFeaturesbyDefault property (Word)
 
- **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](Word.Options.DisableFeaturesIntroducedAfterbyDefault.md)** . The default value is **False** . Read/write **Boolean** .
+ **True** for Microsoft Word to disable in all documents all features introduced after the version of Word specified in the **[DisableFeaturesIntroducedAfterbyDefault](Word.Options.DisableFeaturesIntroducedAfterbyDefault.md)**. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

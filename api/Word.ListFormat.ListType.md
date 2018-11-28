@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListFormat.ListType property (Word)
 
-Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType** .
+Returns the type of lists that are contained in the range for the specified  **ListFormat** object. Read-only **WdListType**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Legend.IncludeInLayout property (Word)
 
- **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True** . Read/write **Boolean** .
+ **True** if a legend will occupy the chart layout space when a chart layout is being determined. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax

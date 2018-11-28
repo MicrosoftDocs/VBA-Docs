@@ -33,7 +33,7 @@ Long
 
 ## Remarks
 
-The  **SelectedDataRowID** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRowID** .
+The  **SelectedDataRowID** property works only when the **Window** object represents the **External Data Window**. Calling the property on any other window type results in an error. The  **External Data Window** must already be displayed in the Visio UI before you call **SelectedDataRowID**.
 
 Setting  **SelectedDataRowID** clears the current selection and sets the selection to the row you specify.
 

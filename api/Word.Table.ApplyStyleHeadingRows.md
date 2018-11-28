@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.ApplyStyleHeadingRows property (Word)
 
- **True** for Microsoft Word to apply heading-row formatting to the first row of the selected table. Read/write **Boolean** .
+ **True** for Microsoft Word to apply heading-row formatting to the first row of the selected table. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PageWidth property (Word)
 
-Returns or sets the width of the page in points. Read/write  **Single** .
+Returns or sets the width of the page in points. Read/write  **Single**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns or sets the width of the page in points. Read/write  **Single** .
 
 ## Remarks
 
-Setting the  **PageWidth** property changes the **[PaperSize](Word.PageSetup.PaperSize.md)** property to **wdPaperCustom** . Use the **PaperSize** property to set the page height and width to those of a predefined paper size, such as Letter or A4.
+Setting the  **PageWidth** property changes the **[PaperSize](Word.PageSetup.PaperSize.md)** property to **wdPaperCustom**. Use the **PaperSize** property to set the page height and width to those of a predefined paper size, such as Letter or A4.
 
 
 ## Example

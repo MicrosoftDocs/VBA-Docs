@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # AutoCorrect.ReplaceTextFromSpellingChecker property (Word)
 
- **True** if Microsoft Word automatically replaces misspelled text with suggestions from the spelling checker as the user types. Word only replaces words that contain a single misspelling and for which the spelling dictionary only lists one alternative. Read/write **Boolean** .
+ **True** if Microsoft Word automatically replaces misspelled text with suggestions from the spelling checker as the user types. Word only replaces words that contain a single misspelling and for which the spelling dictionary only lists one alternative. Read/write **Boolean**.
 
 
 ## Syntax

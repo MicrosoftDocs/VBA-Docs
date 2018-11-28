@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.International property (Excel)
 
-Returns information about the current country/region and international settings. Read-only  **Variant** .
+Returns information about the current country/region and international settings. Read-only  **Variant**.
 
 
 ## Syntax
@@ -69,7 +69,7 @@ Returns information about the current country/region and international settings.
 | **xlCurrencyDigits**|Long|Number of decimal digits to be used in currency formats.|
 | **xlCurrencyLeadingZeros**|Boolean| **True** if leading zeros are displayed for zero currency values.|
 | **xlCurrencyMinusSign**|Boolean| **True** if you are using a minus sign for negative numbers; **False** if you are using parentheses.|
-| **xlCurrencyNegative**|Long|Currency format for negative currency values:0 = ( _symbol_ x) or (x _symbol_ )1 = - _symbol_ x or -x _symbol_2 =  _symbol_ -x or x- _symbol_3 =  _symbol_ x- or x _symbol_ -where  _symbol_ is the currency symbol of the country or region. Note that the position of the currency symbol is determined by **xlCurrencyBefore** .|
+| **xlCurrencyNegative**|Long|Currency format for negative currency values:0 = ( _symbol_ x) or (x _symbol_ )1 = - _symbol_ x or -x _symbol_2 =  _symbol_ -x or x- _symbol_3 =  _symbol_ x- or x _symbol_ -where  _symbol_ is the currency symbol of the country or region. Note that the position of the currency symbol is determined by **xlCurrencyBefore**.|
 | **xlCurrencySpaceBefore**|Boolean| **True** if a space is added before the currency symbol.|
 | **xlCurrencyTrailingZeros**|Boolean| **True** if trailing zeros are displayed for zero currency values.|
 | **xlNoncurrencyDigits**|Long|Number of decimal digits to be used in noncurrency formats.|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ODBCConnection.Connection property (Excel)
 
-Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant** .
+Returns or sets a string that contains ODBC settings that enable Microsoft Excel to connect to an ODBC data source. Read/write  **Variant**.
 
 
 ## Syntax

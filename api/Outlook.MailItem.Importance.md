@@ -25,7 +25,7 @@ Returns or sets an  **[OlImportance](Outlook.OlImportance.md)** constant indicat
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagImportance** .
+This property corresponds to the MAPI property  **PidTagImportance**.
 
 
 ## Example

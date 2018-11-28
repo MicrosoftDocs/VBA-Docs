@@ -25,7 +25,7 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 ## Remarks
 
-The default value is  **True** .
+The default value is  **True**.
 
 
 ## See also

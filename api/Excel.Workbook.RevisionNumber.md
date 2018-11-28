@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.RevisionNumber property (Excel)
 
-Returns the number of times the workbook has been saved while open as a shared list. If the workbook is open in exclusive mode, this property returns 0 (zero). Read-only  **Long** .
+Returns the number of times the workbook has been saved while open as a shared list. If the workbook is open in exclusive mode, this property returns 0 (zero). Read-only  **Long**.
 
 
 ## Syntax

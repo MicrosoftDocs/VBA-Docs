@@ -30,7 +30,7 @@ Returns or sets whether the spelling checker uses rules regarding Arabic words e
 
 ## Remarks
 
- **True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise **False** .
+ **True** if the spelling checker uses rules regarding Arabic words ending with the letter yaa; otherwise **False**.
 
 
 ## See also

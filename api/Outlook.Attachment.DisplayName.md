@@ -25,7 +25,7 @@ Returns or sets a  **String** representing the name, which does not need to be t
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagDisplayName** .
+This property corresponds to the MAPI property  **PidTagDisplayName**.
 
 
 ## Example

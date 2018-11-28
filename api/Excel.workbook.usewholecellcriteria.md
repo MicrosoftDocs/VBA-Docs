@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Workbook.UseWholeCellCriteria property (Excel)
 
- **True** if the workbook uses search patterns that match the entire content of a cell. Read-only **Boolean** .
+ **True** if the workbook uses search patterns that match the entire content of a cell. Read-only **Boolean**.
 
 
 ## Syntax

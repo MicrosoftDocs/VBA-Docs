@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # QueryTable.PostText property (Excel)
 
-Returns or sets the string used with the post method of inputting data into a Web server to return data from a Web query. Read/write  **String** .
+Returns or sets the string used with the post method of inputting data into a Web server to return data from a Web query. Read/write  **String**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Microsoft Excel includes sample Web queries that you can modify by changing the 
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable** .
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **PostText** property applies only to **QueryTable** objects.
 

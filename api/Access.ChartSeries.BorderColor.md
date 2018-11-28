@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.BorderColor Property (Access)
+title: ChartSeries.BorderColor property (Access)
 keywords: vbaac10.chm14780
 f1_keywords:
 - vbaac10.chm14780
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.BorderColor Property (Access)
+# ChartSeries.BorderColor property (Access)
 
-Returns or sets the border color of a series visualization. Read/write **String** .
+Returns or sets the border color of a series visualization. Read/write **String**.
 
 You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example below.
 

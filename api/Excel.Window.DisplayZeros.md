@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.DisplayZeros property (Excel)
 
- **True** if zero values are displayed. Read/write **Boolean** .
+ **True** if zero values are displayed. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PrintReverse property (Word)
 
- **True** if Microsoft Word prints pages in reverse order. Read/write **Boolean** .
+ **True** if Microsoft Word prints pages in reverse order. Read/write **Boolean**.
 
 
 ## Syntax

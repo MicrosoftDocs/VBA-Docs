@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ExchangeUser.PostalCode Property (Outlook)
 
-Returns a  **String** representing the postal code for the **[ExchangeUser](Outlook.ExchangeUser.md)** . Read/write.
+Returns a  **String** representing the postal code for the **[ExchangeUser](Outlook.ExchangeUser.md)**. Read/write.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns a  **String** representing the postal code for the **[ExchangeUser](Outl
 
 ## Remarks
 
-This property corresponds to the MAPI property,  **PidTagPostalCode** .
+This property corresponds to the MAPI property,  **PidTagPostalCode**.
 
 Returns an empty string if this property has not been implemented or does not exist for the  **ExchangeUser** object.
 

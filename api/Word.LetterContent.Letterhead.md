@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # LetterContent.Letterhead property (Word)
 
- **True** if space is reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Boolean** . The **[LetterheadSize](Word.LetterContent.LetterheadSize.md)** property controls the size of the reserved letterhead space.
+ **True** if space is reserved for a preprinted letterhead in a letter created by the Letter Wizard. Read/write **Boolean**. The **[LetterheadSize](Word.LetterContent.LetterheadSize.md)** property controls the size of the reserved letterhead space.
 
 
 ## Syntax

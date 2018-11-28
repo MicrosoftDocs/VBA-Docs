@@ -25,7 +25,7 @@ Returns a  **String** indicating the display name for the intended sender of the
 
 ## Remarks
 
-This property corresponds to the MAPI property  **PidTagSentRepresentingName** .
+This property corresponds to the MAPI property  **PidTagSentRepresentingName**.
 
 
 ## See also

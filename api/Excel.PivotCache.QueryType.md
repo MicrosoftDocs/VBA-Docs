@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotCache.QueryType property (Excel)
 
-Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[xlQueryType](Excel.XlQueryType.md)** .
+Indicates the type of query used by Microsoft Excel to populate the PivotTable cache. Read-only  **[xlQueryType](Excel.XlQueryType.md)**.
 
 
 ## Syntax
@@ -28,12 +28,12 @@ Indicates the type of query used by Microsoft Excel to populate the PivotTable c
 
 
 | **xlQueryType** can be one of these **xlQueryType** constants.|
-| **xlTextImport** . Based on a text file, for query tables only|
-| **xlOLEDBQuery** . Based on an OLE DB query, including OLAP data sources|
-| **xlWebQuery** . Based on a Web page, for query tables only|
-| **xlADORecordset** . Based on an ADO recordset query|
-| **xlDAORecordSet** . Based on a DAO recordset query, for query tables only|
-| **xlODBCQuery** . Based on an ODBC data source|
+| **xlTextImport**. Based on a text file, for query tables only|
+| **xlOLEDBQuery**. Based on an OLE DB query, including OLAP data sources|
+| **xlWebQuery**. Based on a Web page, for query tables only|
+| **xlADORecordset**. Based on an ADO recordset query|
+| **xlDAORecordSet**. Based on a DAO recordset query, for query tables only|
+| **xlODBCQuery**. Based on an ODBC data source|
 
 You specify the data source in the prefix for the  **[Connection](Excel.PivotCache.Connection.md)** property's value.
 

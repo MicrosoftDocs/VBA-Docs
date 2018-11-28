@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.Source property (Excel)
 
-Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.PublishObject.SourceType.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery** .
+Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.PublishObject.SourceType.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ If the  **SourceType** property is set to **xlSourceRange** , this property retu
 
 ## Example
 
-This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True** . If no items in the document have been saved as Chart components, `blnChartFound` is **False** .
+This example determines the unique name of the first chart (in the first workbook) saved as a Web page, and then it sets the  **Boolean** variable `blnChartFound` to **True**. If no items in the document have been saved as Chart components, `blnChartFound` is **False**.
 
 
 ```vb

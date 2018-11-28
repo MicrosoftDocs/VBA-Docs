@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ActiveWritingStyle property (Word)
 
-Returns or sets the writing style for a specified language in the specified document. Read/write  **String** .
+Returns or sets the writing style for a specified language in the specified document. Read/write  **String**.
 
 
 ## Syntax

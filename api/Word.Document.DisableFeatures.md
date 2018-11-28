@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.DisableFeatures property (Word)
 
- **True** disables all features introduced after the version specified in the **[DisableFeaturesIntroducedAfter](Word.Document.DisableFeaturesIntroducedAfter.md)** property. The default value is **False** . Read/write **Boolean** .
+ **True** disables all features introduced after the version specified in the **[DisableFeaturesIntroducedAfter](Word.Document.DisableFeaturesIntroducedAfter.md)** property. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax

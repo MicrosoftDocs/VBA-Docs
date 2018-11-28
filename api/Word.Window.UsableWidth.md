@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Window.UsableWidth property (Word)
 
-Returns the width (in points) of the active working area in the specified document window. Read-only  **Long** .
+Returns the width (in points) of the active working area in the specified document window. Read-only  **Long**.
 
 
 ## Syntax

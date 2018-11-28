@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AutoFormatApplyLists property (Word)
 
- **True** if styles are automatically applied to lists when Word formats a document or range automatically. Read/write **Boolean** .
+ **True** if styles are automatically applied to lists when Word formats a document or range automatically. Read/write **Boolean**.
 
 
 ## Syntax

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.INSKeyForOvertype property (Word)
 
- **True** if the INS key can be used for switching Overtype on and off. Read/write **Boolean** .
+ **True** if the INS key can be used for switching Overtype on and off. Read/write **Boolean**.
 
 
 ## Syntax

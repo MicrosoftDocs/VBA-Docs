@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.PrintFormsData property (Word)
 
- **True** if Microsoft Word prints onto a preprinted form only the data entered in the corresponding online form. Read/write **Boolean** .
+ **True** if Microsoft Word prints onto a preprinted form only the data entered in the corresponding online form. Read/write **Boolean**.
 
 
 ## Syntax

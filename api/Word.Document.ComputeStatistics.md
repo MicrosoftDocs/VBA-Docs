@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.ComputeStatistics method (Word)
 
-Returns a statistic based on the contents of the specified document.  **Long** .
+Returns a statistic based on the contents of the specified document.  **Long**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Returns a statistic based on the contents of the specified document.  **Long** .
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Statistic_|Required| **[WdStatistic](Word.WdStatistic.md)**|The statistic to compute.|
-| _IncludeFootnotesAndEndnotes_|Optional| **Variant**| **True** to include footnotes and endnotes when computing statistics. If this argument is omitted, the default value is **False** .|
+| _IncludeFootnotesAndEndnotes_|Optional| **Variant**| **True** to include footnotes and endnotes when computing statistics. If this argument is omitted, the default value is **False**.|
 
 ## Remarks
 

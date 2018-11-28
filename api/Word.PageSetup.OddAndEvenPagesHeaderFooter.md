@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.OddAndEvenPagesHeaderFooter property (Word)
 
- **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Long** .
+ **True** if the specified **PageSetup** object has different headers and footers for odd-numbered and even-numbered pages. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-The  **OddAndEvenPagesHeaderFooter** property can be **True** , **False** , or **wdUndefined** .
+The  **OddAndEvenPagesHeaderFooter** property can be **True** , **False** , or **wdUndefined**.
 
 
 ## Example

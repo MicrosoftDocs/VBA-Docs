@@ -1,5 +1,5 @@
 ---
-title: Chart.ChartSeriesCollection Property (Access)
+title: Chart.ChartSeriesCollection property (Access)
 keywords: vbaac10.chm14759
 f1_keywords:
 - vbaac10.chm14759
@@ -10,7 +10,7 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartSeriesCollection Property (Access)
+# Chart.ChartSeriesCollection property (Access)
 
 A collection of all the **[ChartSeries](Access.ChartSeries.md)** objects in the specified chart.
 

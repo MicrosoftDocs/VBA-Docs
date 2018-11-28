@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # StyleSheet.Type property (Word)
 
-Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.WdStyleSheetLinkType.md)** .
+Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.WdStyleSheetLinkType.md)**.
 
 
 ## Syntax

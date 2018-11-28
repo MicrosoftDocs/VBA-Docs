@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # DataLabels.Separator property (Word)
 
-Sets or returns the separator for the data labels on a chart. Read/write  **Variant** .
+Sets or returns the separator for the data labels on a chart. Read/write  **Variant**.
 
 
 ## Syntax

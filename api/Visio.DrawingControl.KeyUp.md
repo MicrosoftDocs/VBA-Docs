@@ -28,7 +28,7 @@ Private Sub  _expression_ _'KeyUp'(**_ByVal KeyCode As Long_** , **_ByVal KeyBut
 |:-----|:-----|:-----|:-----|
 | _KeyCode_|Required| **Long**|The key that was released. See Remarks for possible values.|
 | _KeyButtonState_|Required| **Long**|The state of the SHIFT and CTRL keys for the event. See Remarks for possible values.|
-| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True** .|
+| _CancelDefault_|Required| **Boolean**| **False** if Microsoft Visio should process the message it receives from this event; otherwise, **True**.|
 
 ## Remarks
 
@@ -48,7 +48,7 @@ Possible values for  _KeyButtonState_ can be a combination of the values shown i
 
 If you set  _CancelDefault_ to **True** , Visio will not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True** . For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **KeyUp** does not have the prefix "Query," but it is nevertheless a query event. That is, you can cancel processing the message sent by **KeyUp** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 If you are using Microsoft Visual Basic or VBA, the syntax in this topic describes a common, efficient way to handle events.
 

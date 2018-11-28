@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Envelope.DefaultPrintFIMA property (Word)
 
- **True** to add a Facing Identification Mark (FIM-A) to envelopes by default. Read/write **Boolean** .
+ **True** to add a Facing Identification Mark (FIM-A) to envelopes by default. Read/write **Boolean**.
 
 
 ## Syntax

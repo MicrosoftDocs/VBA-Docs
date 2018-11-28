@@ -29,7 +29,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents one of t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **xlBordersIndex**|One of the constants of  **xlBordersIndex** .|
+| _Index_|Required| **xlBordersIndex**|One of the constants of  **xlBordersIndex**.|
 
 ## Remarks
 

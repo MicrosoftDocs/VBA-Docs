@@ -30,7 +30,7 @@ Variant
 
 ## Remarks
 
-Returns  **True** if the formula is hidden when the worksheet is protected, **Null** if the range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False** .
+Returns  **True** if the formula is hidden when the worksheet is protected, **Null** if the range contains some cells with **FormulaHidden** equal to **True** and some cells with **FormulaHidden** equal to **False**.
 
 
 ## See also

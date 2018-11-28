@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FootnoteOptions.NumberStyle property (Word)
 
-Returns or sets the number style for the footnotes. Read/write  **WdNoteNumberStyle** .
+Returns or sets the number style for the footnotes. Read/write  **WdNoteNumberStyle**.
 
 
 ## Syntax

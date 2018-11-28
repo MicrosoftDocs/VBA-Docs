@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.CategoryType property (Excel)
 
-Returns or sets the category axis type. Read/write  **[xlCategoryType](Excel.XlCategoryType.md)** .
+Returns or sets the category axis type. Read/write  **[xlCategoryType](Excel.XlCategoryType.md)**.
 
 
 ## Syntax

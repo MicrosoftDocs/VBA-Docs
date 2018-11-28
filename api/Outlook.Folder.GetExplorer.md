@@ -40,11 +40,11 @@ An  **Explorer** object that represents a new, inactive Explorer initialized wit
 
 This method is useful for returning a new  **Explorer** object in which to display the folder, as opposed to using the **[ActiveExplorer](Outlook.Application.ActiveExplorer.md)** method and setting the **[CurrentFolder](Outlook.Explorer.CurrentFolder.md)** property.
 
-The  **[Explorer.Display](Outlook.Explorer.Display.md)** method can be used to activate or show the **Explorer** .
+The  **[Explorer.Display](Outlook.Explorer.Display.md)** method can be used to activate or show the **Explorer**.
 
 The  **GetExplorer** method takes an optional argument of an **OlFolderDisplayMode** constant.
 
-By default, the new  **Explorer** will be displayed in the Normal mode (**olFolderDisplayNormal**) with all interface elements displayed: a message panel on the right and the Navigation Pane on the left. The exception to this rule is when you are calling **GetExplorer** on delegated folders that are in No-Navigation mode (**olFolderDisplayNoNavigation**) by default. You can apply more restrictions to a default mode, but you cannot lessen the restrictions by changing the **OlFolderDisplayMode** .
+By default, the new  **Explorer** will be displayed in the Normal mode (**olFolderDisplayNormal**) with all interface elements displayed: a message panel on the right and the Navigation Pane on the left. The exception to this rule is when you are calling **GetExplorer** on delegated folders that are in No-Navigation mode (**olFolderDisplayNoNavigation**) by default. You can apply more restrictions to a default mode, but you cannot lessen the restrictions by changing the **OlFolderDisplayMode**.
 
 The explorer can also be displayed in Folder-Only mode (**olFolderDisplayFolderOnly**). This mode is essentially the same as the Normal mode (**olFolderDisplayNormal**) in that it too displays the Navigation Pane on the left.
 
@@ -53,7 +53,7 @@ The explorer can also be displayed in Folder-Only mode (**olFolderDisplayFolderO
 
 ## Example
 
-This Visual Basic for Applications (VBA) example uses the  **GetExplorer** method to return a new, inactive explorer for the default Contacts folder and then displays the explorer in the default mode of **olFolderDisplayNormal** .
+This Visual Basic for Applications (VBA) example uses the  **GetExplorer** method to return a new, inactive explorer for the default Contacts folder and then displays the explorer in the default mode of **olFolderDisplayNormal**.
 
 
 ```vb

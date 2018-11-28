@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.WrapToWindow property (Word)
 
- **True** if lines wrap at the right edge of the document window rather than at the right margin or the right column boundary. Read/write **Boolean** .
+ **True** if lines wrap at the right edge of the document window rather than at the right margin or the right column boundary. Read/write **Boolean**.
 
 
 ## Syntax

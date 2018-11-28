@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartBorder.ColorIndex property (Word)
 
-Returns or sets the color of the border. Read/write  **Variant** .
+Returns or sets the color of the border. Read/write  **Variant**.
 
 
 ## Syntax

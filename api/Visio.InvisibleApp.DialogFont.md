@@ -45,7 +45,7 @@ COM (Component Object Model) provides a standard implementation of a font object
     
 3. In the  **Project/Library** list, click **stdole**.
     
-4. Under  **Classes**, examine the class named  **StdFont** .
+4. Under  **Classes**, examine the class named  **StdFont**.
     
 
 

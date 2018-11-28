@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.OrganizationName property (Excel)
 
-Returns the registered organization name. Read-only  **String** .
+Returns the registered organization name. Read-only  **String**.
 
 
 ## Syntax

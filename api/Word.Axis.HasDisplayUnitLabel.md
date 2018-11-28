@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Axis.HasDisplayUnitLabel property (Word)
 
- **True** if the label specified by the **[DisplayUnit](Word.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Word.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default is **True** . Read/write **Boolean** .
+ **True** if the label specified by the **[DisplayUnit](Word.Axis.DisplayUnit.md)** or **[DisplayUnitCustom](Word.Axis.DisplayUnitCustom.md)** property is displayed on the specified axis. The default is **True**. Read/write **Boolean**.
 
 
 ## Syntax

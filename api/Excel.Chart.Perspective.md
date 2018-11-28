@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the perspective for the 3-D ch
 
 ## Remarks
 
-The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property is **True** .
+The value of this property must be between 0 and 100. This property is ignored if the  **[RightAngleAxes](Excel.Chart.RightAngleAxes.md)** property is **True**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Frameset.FrameDisplayBorders property (Word)
 
- **True** if the frame borders on the specified frames page are displayed. Read/write **Boolean** .
+ **True** if the frame borders on the specified frames page are displayed. Read/write **Boolean**.
 
 
 ## Syntax

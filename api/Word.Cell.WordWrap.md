@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Cell.WordWrap property (Word)
 
- **True** if Microsoft Word wraps text to multiple lines and lengthens the cell so that the cell width remains the same. Read/write **Boolean** .
+ **True** if Microsoft Word wraps text to multiple lines and lengthens the cell so that the cell width remains the same. Read/write **Boolean**.
 
 
 ## Syntax

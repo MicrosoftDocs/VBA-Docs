@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.ShowDiacritics property (Word)
 
- **True** if diacritics are visible in a right-to-left language document. Read/write **Boolean** .
+ **True** if diacritics are visible in a right-to-left language document. Read/write **Boolean**.
 
 
 ## Syntax

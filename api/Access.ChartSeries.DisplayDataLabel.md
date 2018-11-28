@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.DisplayDataLabel Property (Access)
+title: ChartSeries.DisplayDataLabel property (Access)
 keywords: vbaac10.chm14783
 f1_keywords:
 - vbaac10.chm14783
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.DisplayDataLabel Property (Access)
+# ChartSeries.DisplayDataLabel property (Access)
 
-**True** if the data for a series is displayed in a label in addition to chart visualizations. Read/write **Boolean** .
+**True** if the data for a series is displayed in a label in addition to chart visualizations. Read/write **Boolean**.
 
 
 ## Syntax

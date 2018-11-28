@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Table.MoveToStart Method (Outlook)
 
-Moves the current row of the  **[Table](Outlook.Table.md)** to just before the first row of the **Table** .
+Moves the current row of the  **[Table](Outlook.Table.md)** to just before the first row of the **Table**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Moves the current row of the  **[Table](Outlook.Table.md)** to just before the f
 
 ## Remarks
 
- **MoveToStart** is equivalent to resetting the **Table** . If you call **[GetNextRow](Outlook.Table.GetNextRow.md)** after you call **MoveToStart** , you will return a row representing the first row in the **Table** .
+ **MoveToStart** is equivalent to resetting the **Table**. If you call **[GetNextRow](Outlook.Table.GetNextRow.md)** after you call **MoveToStart** , you will return a row representing the first row in the **Table**.
 
 
 ## See also

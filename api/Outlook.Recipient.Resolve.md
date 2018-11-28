@@ -25,7 +25,7 @@ Attempts to resolve a  **[Recipient](Outlook.Recipient.md)** object against the 
 
 ## Return value
 
- **True** if the object was resolved; otherwise, **False** .
+ **True** if the object was resolved; otherwise, **False**.
 
 
 ## Example

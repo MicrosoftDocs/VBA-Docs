@@ -29,7 +29,7 @@ This method changes the subtotal location for all existing PivotFields. Changing
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Location_|Required| **xlSubtototalLocationType**|xlSubtotalLocationType can be either  **xlAtTop** or **xlAtBottom** .|
+| _Location_|Required| **xlSubtototalLocationType**|xlSubtotalLocationType can be either  **xlAtTop** or **xlAtBottom**.|
 
 ## Remarks
 

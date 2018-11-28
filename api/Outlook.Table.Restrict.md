@@ -42,7 +42,7 @@ You can only use  **Table.Restrict** to apply another filter to that **Table** i
 
 Since the filter is applied to the rows in the  **Table** object, this is equivalent to applying a filter that is a logical **AND** of _Filter_ and all preceding filters applied to the same **Table** object.
 
- _Filter_ is a query on specified properties of items that are represented as rows in the parent **Table** . The query uses either the Microsoft Jet syntax or the DAV Searching and Locating (DASL) syntax. For example, the following Jet filter and DASL filter specify the same criteria for items with **LastModificationTime** earlier than 3:30pm of June 12, 2005:
+ _Filter_ is a query on specified properties of items that are represented as rows in the parent **Table**. The query uses either the Microsoft Jet syntax or the DAV Searching and Locating (DASL) syntax. For example, the following Jet filter and DASL filter specify the same criteria for items with **LastModificationTime** earlier than 3:30pm of June 12, 2005:
 
 
 
@@ -62,7 +62,7 @@ If  _Filter_ is a blank string, **Restrict** returns a **Table** object that is 
 
 ## Example
 
-The following code sample applies a Jet filter on items in the Inbox to obtain items with a  **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID** , **Subject** , **CreationTime** , **LastModificationTime** , and **MessageClass** .
+The following code sample applies a Jet filter on items in the Inbox to obtain items with a  **LastModificationTime** greater than November 1, 2005. It then prints the values of the default properties for these items in the Inbox: **EntryID** , **Subject** , **CreationTime** , **LastModificationTime** , and **MessageClass**.
 
 
  **Note**  Since heterogeneous items can exist in the same folder in Outlook, the items returned from applying the filter to the Inbox may be of different types. In general, before accessing any properties that are not among the default properties for items in the Inbox, you should check the  **MessageClass** of the item.

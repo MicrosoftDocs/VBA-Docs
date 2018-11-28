@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ListLevel.ResetOnHigher property (Word)
 
-Sets or returns the list level that must appear before the specified list level restarts numbering at 1. Read/write  **Long** .
+Sets or returns the list level that must appear before the specified list level restarts numbering at 1. Read/write  **Long**.
 
 
 ## Syntax

@@ -8,7 +8,7 @@ ms.prod: excel
 
 # PivotTable.HasAutoFormat property (Excel)
 
- **True** if the PivotTable report is automatically formatted when it's refreshed or when fields are moved. Read/write **Boolean** .
+ **True** if the PivotTable report is automatically formatted when it's refreshed or when fields are moved. Read/write **Boolean**.
 
 
 ## Syntax

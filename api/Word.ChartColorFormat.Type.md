@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartColorFormat.Type property (Word)
 
-Returns the color format type. Read-only  **Long** .
+Returns the color format type. Read-only  **Long**.
 
 
 ## Syntax

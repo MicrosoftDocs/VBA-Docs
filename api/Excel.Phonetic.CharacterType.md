@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Phonetic.CharacterType property (Excel)
 
-Returns or sets the type of phonetic text in the specified cell. Read/write  **[xlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)** .
+Returns or sets the type of phonetic text in the specified cell. Read/write  **[xlPhoneticCharacterType](Excel.XlPhoneticCharacterType.md)**.
 
 
 ## Syntax

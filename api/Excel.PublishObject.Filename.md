@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PublishObject.Filename property (Excel)
 
-Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write  **String** .
+Returns or sets the URL (on the intranet or the Web) or path (local or network) to the location where the specified source object was saved. Read/write  **String**.
 
 
 ## Syntax

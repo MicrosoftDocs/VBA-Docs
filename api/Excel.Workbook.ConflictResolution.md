@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.ConflictResolution property (Excel)
 
-Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[xlSaveConflictResolution](Excel.XlSaveConflictResolution.md)** .
+Returns or sets the way conflicts are to be resolved whenever a shared workbook is updated. Read/write  **[xlSaveConflictResolution](Excel.XlSaveConflictResolution.md)**.
 
 
 ## Syntax
@@ -30,9 +30,9 @@ Returns or sets the way conflicts are to be resolved whenever a shared workbook 
 
 
 | **xlSaveConflictResolution** can be one of these **xlSaveConflictResolution** constants.|
-| **xlLocalSessionChanges** . The local user's changes are always accepted.|
-| **xlOtherSessionChanges** . The local user's changes are always rejected.|
-| **xlUserResolution** . A dialog box asks the user to resolve the conflict.|
+| **xlLocalSessionChanges**. The local user's changes are always accepted.|
+| **xlOtherSessionChanges**. The local user's changes are always rejected.|
+| **xlUserResolution**. A dialog box asks the user to resolve the conflict.|
 
 ## Example
 

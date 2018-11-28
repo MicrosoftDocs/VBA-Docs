@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.FitToPagesWide property (Excel)
 
-Returns or sets the number of pages wide the worksheet will be scaled to when it's printed. Applies only to worksheets. Read/write  **Variant** .
+Returns or sets the number of pages wide the worksheet will be scaled to when it's printed. Applies only to worksheets. Read/write  **Variant**.
 
 
 ## Syntax

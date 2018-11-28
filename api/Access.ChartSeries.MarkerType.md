@@ -1,5 +1,5 @@
 ---
-title: ChartSeries.MarkerType Property (Access)
+title: ChartSeries.MarkerType property (Access)
 keywords: vbaac10.chm14787
 f1_keywords:
 - vbaac10.chm14787
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# ChartSeries.MarkerType Property (Access)
+# ChartSeries.MarkerType property (Access)
 
-Returns or sets the marker shape to use for data points when the effective chart type of a series is line-based. Read/write **[AcMarkerType](Access.AcMarkerType.md)** .
+Returns or sets the marker shape to use for data points when the effective chart type of a series is line-based. Read/write **[AcMarkerType](Access.AcMarkerType.md)**.
 
 
 ## Syntax

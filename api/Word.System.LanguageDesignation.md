@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # System.LanguageDesignation property (Word)
 
-Returns the designated language of the system software. Read-only  **String** .
+Returns the designated language of the system software. Read-only  **String**.
 
 
 ## Syntax

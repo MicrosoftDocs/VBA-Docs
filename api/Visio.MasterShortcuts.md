@@ -20,6 +20,6 @@ Includes  **MasterShortcut** objects.
 
 To retrieve a  **MasterShortcuts** collection, use the **MasterShortcuts** property of a **Document** object.
 
-The default property of a  **MasterShortcuts** collection is **Item** .
+The default property of a  **MasterShortcuts** collection is **Item**.
 
 

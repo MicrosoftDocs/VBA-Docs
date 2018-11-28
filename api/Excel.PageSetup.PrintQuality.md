@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PageSetup.PrintQuality property (Excel)
 
-Returns or sets the print quality. Read/write  **Variant** .
+Returns or sets the print quality. Read/write  **Variant**.
 
 
 ## Syntax

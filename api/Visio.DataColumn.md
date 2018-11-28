@@ -38,6 +38,6 @@ Note that the read-only  **Name** property specifies the programmatic name for t
 
 Use the  **[GetProperty](Visio.DataColumn.GetProperty.md)** method to get the value of the data column property you specify. Data column properties must be one of the enumerated values in **VisDataColumnProperties** , which is declared in the Visio type library.
 
-Use the  **[SetProperty](Visio.DataColumn.SetProperty.md)** method to set the value of the data column property you specify, from the members of **VisDataColumnProperties** . The **SetProperty** topic contains a table that shows a matrix of allowable data column types and property settings. These settings correspond to those you can set in the **Types and Settings** dialog box for an individual column (select a column in the **Column Settings** dialog box, and then click **Data Type**).
+Use the  **[SetProperty](Visio.DataColumn.SetProperty.md)** method to set the value of the data column property you specify, from the members of **VisDataColumnProperties**. The **SetProperty** topic contains a table that shows a matrix of allowable data column types and property settings. These settings correspond to those you can set in the **Types and Settings** dialog box for an individual column (select a column in the **Column Settings** dialog box, and then click **Data Type**).
 
 

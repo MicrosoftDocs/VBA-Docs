@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartGroup.HasDropLines property (Excel)
 
- **True** if the line chart or area chart has drop lines. Applies only to line and area charts. Read/write **Boolean** .
+ **True** if the line chart or area chart has drop lines. Applies only to line and area charts. Read/write **Boolean**.
 
 
 ## Syntax

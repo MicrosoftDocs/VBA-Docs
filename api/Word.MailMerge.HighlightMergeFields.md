@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMerge.HighlightMergeFields property (Word)
 
- **True** to highlight the merge fields in a document. Read/write **Boolean** .
+ **True** to highlight the merge fields in a document. Read/write **Boolean**.
 
 
 ## Syntax

@@ -25,7 +25,7 @@ Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the 
 
 ## Return value
 
-A  **ContactItem** object that corresponds to the **AddressEntry** . Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
+A  **ContactItem** object that corresponds to the **AddressEntry**. Returns **Null** (**Nothing** in Visual Basic) if the **AddressEntry** object does not correspond to a contact in a Contacts Address Book.
 
 
 ## See also

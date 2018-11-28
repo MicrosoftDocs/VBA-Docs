@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # View.Draft property (Word)
 
- **True** if all the text in a window is displayed in the same sans-serif font with minimal formatting to speed up display. Read/write **Boolean** .
+ **True** if all the text in a window is displayed in the same sans-serif font with minimal formatting to speed up display. Read/write **Boolean**.
 
 
 ## Syntax

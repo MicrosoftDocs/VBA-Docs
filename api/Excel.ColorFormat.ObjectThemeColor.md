@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ColorFormat.ObjectThemeColor property (Excel)
 
-Returns or sets a color that is mapped to the theme color scheme. Read/write  **[MsoThemeColorIndex](Office.MsoThemeColorIndex.md)** .
+Returns or sets a color that is mapped to the theme color scheme. Read/write  **[MsoThemeColorIndex](Office.MsoThemeColorIndex.md)**.
 
 
 ## Syntax

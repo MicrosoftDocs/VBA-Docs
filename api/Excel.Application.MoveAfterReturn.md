@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.MoveAfterReturn property (Excel)
 
- **True** if the active cell will be moved as soon as the ENTER (RETURN) key is pressed. Read/write **Boolean** .
+ **True** if the active cell will be moved as soon as the ENTER (RETURN) key is pressed. Read/write **Boolean**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Use the  **[MoveAfterReturnDirection](Excel.Application.MoveAfterReturnDirection
 
 ## Example
 
-This example sets the  **MoveAfterReturn** property to **True** .
+This example sets the  **MoveAfterReturn** property to **True**.
 
 
 ```vb

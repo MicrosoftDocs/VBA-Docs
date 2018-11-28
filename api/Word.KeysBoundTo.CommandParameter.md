@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # KeysBoundTo.CommandParameter property (Word)
 
-Returns the command parameter assigned to the specified shortcut key. Read-only  **String** .
+Returns the command parameter assigned to the specified shortcut key. Read-only  **String**.
 
 
 ## Syntax

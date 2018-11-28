@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.ZOrderPosition property (Excel)
 
-Returns the position of the specified shape in the z-order. Read-only  **Long** .Read-only
+Returns the position of the specified shape in the z-order. Read-only  **Long**.Read-only
 
 
 ## Syntax

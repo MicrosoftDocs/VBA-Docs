@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # IVBUndoUnit.UnitTypeLong Property (Visio)
 
-Identifies an undo unit by a  **Long** . Read-only.
+Identifies an undo unit by a  **Long**. Read-only.
 
 
 ## Syntax

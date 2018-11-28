@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # PivotTable.CacheIndex property (Excel)
 
-Returns or sets the index number of the PivotTable cache. Read/write  **Long** .
+Returns or sets the index number of the PivotTable cache. Read/write  **Long**.
 
 
 ## Syntax

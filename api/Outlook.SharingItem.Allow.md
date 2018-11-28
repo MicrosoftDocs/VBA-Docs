@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # SharingItem.Allow Method (Outlook)
 
-Allows a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)** .
+Allows a sharing request and sends a sharing response to the sender of the  **[SharingItem](Outlook.SharingItem.md)**.
 
 
 ## Syntax
@@ -25,9 +25,9 @@ Allows a sharing request and sends a sharing response to the sender of the  **[S
 
 ## Remarks
 
-The  **Allow** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest** .
+The  **Allow** method can only be called on **SharingItem** objects with a **[Type](Outlook.SharingItem.Type.md)** property value of **olSharingMsgTypeRequest** or **olSharingMsgTypeInviteAndRequest**.
 
-The  **Type** property of the sharing response sent when this method is called is set to **olSharingMsgTypeResponseAllow** .
+The  **Type** property of the sharing response sent when this method is called is set to **olSharingMsgTypeResponseAllow**.
 
 
  **Note**  Sharing is allowed immediately after this method is called, regardless of whether the sharing response was received.

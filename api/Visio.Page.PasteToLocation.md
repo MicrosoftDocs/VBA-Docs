@@ -40,6 +40,6 @@ Pastes the shape to the specified location on the page.
 
 ## Remarks
 
-The  _Flags_ parameter value can also be **visCopyPasteDontAddToContainers** .
+The  _Flags_ parameter value can also be **visCopyPasteDontAddToContainers**.
 
 

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.AddBiDirectionalMarksWhenSavingTextFile property (Word)
 
- **True** if Microsoft Word adds bidirectional control characters when saving a document as a text file. Read/write **Boolean** .
+ **True** if Microsoft Word adds bidirectional control characters when saving a document as a text file. Read/write **Boolean**.
 
 
 ## Syntax

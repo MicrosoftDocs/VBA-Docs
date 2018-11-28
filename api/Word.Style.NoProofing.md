@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Style.NoProofing property (Word)
 
- **True** if the spelling and grammar checker ignores text formatted with this style. Read/write **Long** .
+ **True** if the spelling and grammar checker ignores text formatted with this style. Read/write **Long**.
 
 
 ## Syntax

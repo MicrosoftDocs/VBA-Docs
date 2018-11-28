@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ChartData.IsLinked property (Word)
 
- **True** if the data for the chart is linked to an external Microsoft Excel workbook. Read-only **Boolean** .
+ **True** if the data for the chart is linked to an external Microsoft Excel workbook. Read-only **Boolean**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-Using the  **[BreakLink](Word.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False** .
+Using the  **[BreakLink](Word.ChartData.BreakLink.md)** method to remove the link to an Excel workbook sets this property to **False**.
 
 
 ## Example

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Selection.NoProofing property (Word)
 
- **True** if the spelling and grammar checker ignores the specified text. Returns **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text. Read/write **Long** .
+ **True** if the spelling and grammar checker ignores the specified text. Returns **wdUndefined** if the **NoProofing** property is set to **True** for only some of the specified text. Read/write **Long**.
 
 
 ## Syntax

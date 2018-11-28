@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.StatusBar property (Excel)
 
-Returns or sets the text in the status bar. Read/write  **String** .
+Returns or sets the text in the status bar. Read/write  **String**.
 
 
 ## Syntax

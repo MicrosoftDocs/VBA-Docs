@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # MailMergeField.Type property (Word)
 
-Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)** .
+Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)**.
 
 
 ## Syntax

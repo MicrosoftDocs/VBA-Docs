@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.PresetTextEffect property (Excel)
 
-Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect** .
+Returns or sets the style of the specified WordArt. Read/write  **MsoPresetTextEffect**.
 
 
 ## Syntax

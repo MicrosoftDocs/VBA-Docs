@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.AutoSize property (Excel)
 
-The size of the specified object that changes automatically to fit text within its boundaries. Read/write  **[MsoAutoSize](./Office.MsoAutoSize.md)** .
+The size of the specified object that changes automatically to fit text within its boundaries. Read/write  **[MsoAutoSize](./Office.MsoAutoSize.md)**.
 
 
 ## Syntax

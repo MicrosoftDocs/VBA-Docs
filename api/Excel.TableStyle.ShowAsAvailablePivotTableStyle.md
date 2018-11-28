@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TableStyle.ShowAsAvailablePivotTableStyle property (Excel)
 
-Sets or returns if a style is shown in the gallery for PivotTable styles or not. Read/write  **Boolean** .
+Sets or returns if a style is shown in the gallery for PivotTable styles or not. Read/write  **Boolean**.
 
 
 ## Syntax

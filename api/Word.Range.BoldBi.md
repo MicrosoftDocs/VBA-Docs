@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Range.BoldBi property (Word)
 
- **True** if the font or range is formatted as bold. Returns **True** , **False** , or **wdUndefined** (for a mixture of bold and non-bold text). Can be set to **True** , **False** , or **wdToggle** . Read/write **Long** .
+ **True** if the font or range is formatted as bold. Returns **True** , **False** , or **wdUndefined** (for a mixture of bold and non-bold text). Can be set to **True** , **False** , or **wdToggle**. Read/write **Long**.
 
 
 ## Syntax

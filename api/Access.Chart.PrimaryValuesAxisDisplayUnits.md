@@ -1,5 +1,5 @@
 ---
-title: Chart.PrimaryValuesAxisDisplayUnits Property (Access)
+title: Chart.PrimaryValuesAxisDisplayUnits property (Access)
 keywords: vbaac10.chm6127
 f1_keywords:
 - vbaac10.chm6127
@@ -10,9 +10,9 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.PrimaryValuesAxisDisplayUnits Property (Access)
+# Chart.PrimaryValuesAxisDisplayUnits property (Access)
 
-Returns or sets the unit of measurement applied to the primary values axis. Read/write **[AcAxisUnits](Access.AcAxisUnits.md)** .
+Returns or sets the unit of measurement applied to the primary values axis. Read/write **[AcAxisUnits](Access.AcAxisUnits.md)**.
 
 
 ## Syntax

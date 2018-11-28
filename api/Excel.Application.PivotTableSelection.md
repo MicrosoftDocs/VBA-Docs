@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PivotTableSelection property (Excel)
 
- **True** if PivotTable reports use structured selection. Read/write **Boolean** .
+ **True** if PivotTable reports use structured selection. Read/write **Boolean**.
 
 
 ## Syntax

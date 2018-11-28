@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Options.PromptUpdateStyle property (Word)
 
- **True** displays a message asking the user to verify whether they want to reformat a style or reapply the original style formatting when changing the formatting of styles. Read/write **Boolean** .
+ **True** displays a message asking the user to verify whether they want to reformat a style or reapply the original style formatting when changing the formatting of styles. Read/write **Boolean**.
 
 
 ## Syntax

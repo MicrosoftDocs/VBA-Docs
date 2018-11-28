@@ -1,5 +1,5 @@
 ---
-title: Chart.SecondaryValuesAxisRange Property (Access)
+title: Chart.SecondaryValuesAxisRange property (Access)
 keywords: vbaac10.chm6126
 f1_keywords:
 - vbaac10.chm6126
@@ -10,7 +10,7 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.SecondaryValuesAxisRange Property (Access)
+# Chart.SecondaryValuesAxisRange property (Access)
 
 Returns or sets the behavior for representing minimum and maximum values on the secondary values axis. Read/write **[AcAxisRange](Access.AcAxisRange.md)**.
 

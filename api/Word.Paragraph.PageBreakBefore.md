@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Paragraph.PageBreakBefore property (Word)
 
- **True** if a page break is forced before the specified paragraphs. Read/write **Long** .
+ **True** if a page break is forced before the specified paragraphs. Read/write **Long**.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ ms.date: 06/08/2017
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** .
+This property can be  **True** , **False** , or **wdUndefined**.
 
 
 ## Example

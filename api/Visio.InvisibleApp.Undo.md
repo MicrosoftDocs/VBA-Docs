@@ -49,7 +49,7 @@ Code that calls the  **Undo** method from within the scope of an undo unit canno
 
 The  **Undo** method also raises an exception if the Visio instance is presently performing an undo or redo. To determine whether the Visio instance is undoing or redoing, use the **IsUndoingOrRedoing** property.
 
-You can call the  **Undo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False** . You can also call the **Undo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
+You can call the  **Undo** method from the **VisioIsIdle** event handler because the **VisioIsIdle** event can only fire when the **IsUndoingOrRedoing** property is **False**. You can also call the **Undo** method from code not invoked by the Visio instance, for example, code invoked from the Visual Basic Editor or from an external program.
 
 You can undo most actions, but not all. Use the  **Redo** method to reverse the effect of the **Undo** method.
 

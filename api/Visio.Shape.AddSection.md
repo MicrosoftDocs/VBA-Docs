@@ -56,7 +56,7 @@ Shape.AddSection(visSectionFirstComponent + i)
 
 ```
 
- where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent** .
+ where 0 <= i < **visSectionLastComponent** - **visSectionFirstComponent**.
 
 
 - When 0 <= i <  **Shape.GeometryCount** , the new section precedes the present i'th Geometry section.
