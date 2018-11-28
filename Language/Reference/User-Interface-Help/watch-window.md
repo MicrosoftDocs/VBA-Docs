@@ -16,7 +16,7 @@ You can:
 
 - Change the size of the column headers by dragging its border to the right to make it larger or to the left to make it smaller.
     
-- Drag a selected variable to the Immediate window or the Watch window.
+- Drag a selected variable to the [Immediate window](immediate-window.md) or the Watch window.
     
 - Close the window by clicking the **Close** box. If the **Close** box is not visible, double-click the title bar to make the **Close** box visible, and then select it.
     
@@ -29,8 +29,19 @@ You can:
 |**Type**|Lists the expression type.|
 |**Context**|Lists the context of the watch expression.<br/><br/>If the context of the expression isn't in [scope](../../Glossary/vbe-glossary.md#scope) when going to break mode, the current value isn't displayed.|
 
+## Keyboard shortcuts
+
+Use these key combinations in the Watch window.
+
+|Press|To|
+|:-----|:-----|
+|SHIFT+ENTER|Display the selected watch expression.|
+|CTRL+W|Display the **[Edit Watch](edit-watch-dialog-box.md)** dialog box.|
+|ENTER|Expands or collapses the selected watch value if it has a plus (+) or minus (-) sign to the left of it.|
+|F2|Display the [Object Browser](object-browser.md).|
+|SHIFT+F10|View shortcut menu.|
+
 
 ## See also
 
-- [Watch window keyboard shortcuts](watch-window-keyboard-shortcuts.md)
 - [Window elements](../window-elements.md)
