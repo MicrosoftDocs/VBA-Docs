@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartAxisCollection Object (Access)
 
-A collection of all the **[ChartAxis](chartaxis-object-access.md)** objects in the specified chart.
+A collection of all the **[ChartAxis](Access.ChartAxis.md)** objects in the specified chart.
 
 
 ## Using ChartAxisCollection
@@ -30,8 +30,4 @@ End With
 
 ## See also
 
-
-#### Concepts
-
-
-[Chart Object](chart-object-access.md)
+- [Chart object](Access.Chart.md)

@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartSeries.PlotSeriesOn Property (Access)
 
-Returns or sets the axis to use for plotting the values of a series. Read/write **[AcValueAxis](acvalueaxis-enumeration-access.md)** .
+Returns or sets the axis to use for plotting the values of a series. Read/write **[AcValueAxis](Access.AcValueAxis.md)** .
 
 
 ## Syntax
@@ -28,8 +28,8 @@ Returns or sets the axis to use for plotting the values of a series. Read/write 
 #### Concepts
 
 
-[AcValueAxis Enumeration](acvalueaxis-enumeration-access.md)
+[AcValueAxis Enumeration](Access.AcValueAxis.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

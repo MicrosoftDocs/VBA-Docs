@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.ChartType Property (Access)
 
-Returns or sets the chart type. Read/write **[AcChartType](accharttype-enumeration-access.md)** .
+Returns or sets the chart type. Read/write **[AcChartType](Access.AcChartType.md)** .
 
 
 ## Syntax
@@ -28,6 +28,6 @@ Returns or sets the chart type. Read/write **[AcChartType](accharttype-enumerati
 #### Concepts
 
 
-[AcChartType Enumeration](accharttype-enumeration-access.md)
+[AcChartType Enumeration](Access.AcChartType.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

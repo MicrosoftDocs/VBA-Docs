@@ -34,4 +34,4 @@ Returns or sets the semicolon-separated field name(s) that are used by the chart
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

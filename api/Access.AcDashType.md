@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the line dash style for a series when its effective chart type is line-based.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDashTypeDash**|1|Dash.|
 |**acDashTypeDashDot**|3|Dash Dot.|

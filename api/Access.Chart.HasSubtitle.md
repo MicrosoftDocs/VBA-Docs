@@ -28,4 +28,4 @@ ms.date: 05/02/2018
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

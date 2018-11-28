@@ -37,8 +37,8 @@ bar chart) may be clipped according to the maximum.
 #### Concepts
 
 
-[SecondaryValuesAxisMinimum Property](chart-secondaryvaluesaxisminimum-property-access.md)
+[SecondaryValuesAxisMinimum Property](Access.Chart.SecondaryValuesAxisMinimum.md)
 
-[SecondaryValuesAxisRange Property](chart-secondaryvaluesaxisrange-property-access.md)
+[SecondaryValuesAxisRange Property](Access.Chart.SecondaryValuesAxisRange.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

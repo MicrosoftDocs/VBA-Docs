@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.PrimaryValuesAxisRange Property (Access)
 
-Returns or sets the behavior for representing minimum and maximum values on the primary values axis. Read/write **[AcAxisRange](acaxisrange-enumeration-access.md)** .
+Returns or sets the behavior for representing minimum and maximum values on the primary values axis. Read/write **[AcAxisRange](Access.AcAxisRange.md)** .
 
 
 ## Syntax
@@ -35,10 +35,10 @@ highest values in the set.
 #### Concepts
 
 
-[AcAxisRange Enumeration](acaxisrange-enumeration-access.md)
+[AcAxisRange Enumeration](Access.AcAxisRange.md)
 
-[PrimaryValuesAxisMinimum Property](chart-primaryvaluesaxisminimum-property-access.md)
+[PrimaryValuesAxisMinimum Property](Access.Chart.PrimaryValuesAxisMinimum.md)
 
-[PrimaryValuesAxisMaximum Property](chart-primaryvaluesaxismaximum-property-access.md)
+[PrimaryValuesAxisMaximum Property](Access.Chart.PrimaryValuesAxisMaximum.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

@@ -28,4 +28,4 @@ Returns or sets the font size used by the secondary values axis. Read/write **In
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

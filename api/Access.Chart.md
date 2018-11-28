@@ -1,23 +1,22 @@
 ---
-title: Chart Object (Access)
+title: Chart object (Access)
 keywords: vbaac10.chm14749
 f1_keywords:
 - vbaac10.chm14749
 ms.prod: access
 api_name:
 - Access.Chart
-ms.date: 05/02/2018
+ms.date: 11/28/2018
 ---
 
 
-# Chart Object (Access)
+# Chart object (Access)
 
 A customizable visualization of data that can be included in a report.
 
-
 ## Events
 
-|**Name**|
+|Name|
 |:-----|
 |Click|
 |DblClick|
@@ -35,7 +34,7 @@ A customizable visualization of data that can be included in a report.
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |Move|
 |Requery|
@@ -45,7 +44,7 @@ A customizable visualization of data that can be included in a report.
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |Application|
 |BackColor|
@@ -60,31 +59,31 @@ A customizable visualization of data that can be included in a report.
 |BorderTint|
 |BorderWidth|
 |BottomPadding|
-|[CategoryAxisFontColor](chart-categoryaxisfontcolor-property-access.md)|
+|[CategoryAxisFontColor](Access.Chart.CategoryAxisFontColor.md)|
 |CategoryAxisFontShade|
-|[CategoryAxisFontSize](chart-categoryaxisfontsize-property-access.md)|
+|[CategoryAxisFontSize](Access.Chart.CategoryAxisFontSize.md)|
 |CategoryAxisFontTint|
 |CategoryAxisThemeColorIndex|
-|[CategoryAxisTitle](chart-categoryaxistitle-property-access.md)|
-|[ChartAxis](chart-chartaxis-property-access.md)|
-|[ChartAxisCollection](chart-chartaxiscollection-property-access.md)|
-|[ChartLegend](chart-chartlegend-property-access.md)|
-|[ChartSeriesCollection](chart-chartseriescollection-property-access.md)|
-|[ChartSubtitle](chart-chartsubtitle-property-access.md)|
-|[ChartSubtitleFontColor](chart-chartsubtitlefontcolor-property-access.md)|
+|[CategoryAxisTitle](Access.Chart.CategoryAxisTitle.md)|
+|[ChartAxis](Access.Chart.ChartAxis.md)|
+|[ChartAxisCollection](Access.Chart.ChartAxisCollection.md)|
+|[ChartLegend](Access.Chart.ChartLegend.md)|
+|[ChartSeriesCollection](Access.Chart.ChartSeriesCollection.md)|
+|[ChartSubtitle](Access.Chart.ChartSubtitle.md)|
+|[ChartSubtitleFontColor](Access.Chart.ChartSubtitleFontColor.md)|
 |ChartSubtitleFontShade|
-|[ChartSubtitleFontSize](chart-chartsubtitlefontsize-property-access.md)|
+|[ChartSubtitleFontSize](Access.Chart.ChartSubtitleFontSize.md)|
 |ChartSubtitleFontTint|
 |ChartSubtitleThemeColorIndex|
-|[ChartTitle](chart-charttitle-property-access.md)|
-|[ChartTitleFontColor](chart-charttitlefontcolor-property-access.md)|
-|[ChartTitleFontName](chart-charttitlefontname-property-access.md)|
-|[ChartTitleFontSize](chart-charttitlefontsize-property-access.md)|
+|[ChartTitle](Access.Chart.ChartTitle.md)|
+|[ChartTitleFontColor](Access.Chart.ChartTitleFontColor.md)|
+|[ChartTitleFontName](Access.Chart.ChartTitleFontName.md)|
+|[ChartTitleFontSize](Access.Chart.ChartTitleFontSize.md)|
 |ChartTitleFontTint|
 |ChartTitleThemeColorIndex|
-|[ChartType](chart-charttype-property-access.md)|
-|[ChartValues](chart-chartvalues-property-access.md)|
-|[ChartValuesCollection](chart-chartvaluescollection-property-access.md)|
+|[ChartType](Access.Chart.ChartType.md)|
+|[ChartValues](Access.Chart.ChartValues.md)|
+|[ChartValuesCollection](Access.Chart.ChartValuesCollection.md)|
 |ControlTipText|
 |ControlType|
 |DisplayWhen|
@@ -102,10 +101,10 @@ A customizable visualization of data that can be included in a report.
 |GridlineWidthLeft|
 |GridlineWidthRight|
 |GridlineWidthTop|
-|[HasAxisTitles](chart-hasaxistitles-property-access.md)|
-|[HasLegend](chart-haslegend-property-access.md)|
-|[HasSubtitle](chart-hassubtitle-property-access.md)|
-|[HasTitle](chart-hastitle-property-access.md)|
+|[HasAxisTitles](Access.Chart.HasAxisTitles.md)|
+|[HasLegend](Access.Chart.HasLegend.md)|
+|[HasSubtitle](Access.Chart.HasSubtitle.md)|
+|[HasTitle](Access.Chart.HasTitle.md)|
 |Height|
 |HelpContextId|
 |HorizontalAnchor|
@@ -115,10 +114,10 @@ A customizable visualization of data that can be included in a report.
 |LayoutID|
 |Left|
 |LeftPadding|
-|[LegendPosition](chart-legendposition-property-access.md)|
-|[LegendTextFontColor](chart-legendtextfontcolor-property-access.md)|
+|[LegendPosition](Access.Chart.LegendPosition.md)|
+|[LegendTextFontColor](Access.Chart.LegendTextFontColor.md)|
 |LegendTextFontShade|
-|[LegendTextFontSize](chart-legendtextfontsize-property-access.md)|
+|[LegendTextFontSize](Access.Chart.LegendTextFontSize.md)|
 |LegendTextFontTint|
 |LegendTextThemeColorIndex|
 |LinkChildFields|
@@ -138,31 +137,31 @@ A customizable visualization of data that can be included in a report.
 |OnMouseMove|
 |OnMouseUp|
 |Parent|
-|[PrimaryValuesAxisDisplayUnits](chart-primaryvaluesaxisdisplayunits-property-access.md)|
-|[PrimaryValuesAxisFontColor](chart-primaryvaluesaxisfontcolor-property-access.md)|
+|[PrimaryValuesAxisDisplayUnits](Access.Chart.PrimaryValuesAxisDisplayUnits.md)|
+|[PrimaryValuesAxisFontColor](Access.Chart.PrimaryValuesAxisFontColor.md)|
 |PrimaryValuesAxisFontShade|
-|[PrimaryValuesAxisFontSize](chart-primaryvaluesaxisfontsize-property-access.md)|
+|[PrimaryValuesAxisFontSize](Access.Chart.PrimaryValuesAxisFontSize.md)|
 |PrimaryValuesAxisFontTint|
-|[PrimaryValuesAxisFormat](chart-primaryvaluesaxisformat-property-access.md)|
-|[PrimaryValuesAxisMaximum](chart-primaryvaluesaxismaximum-property-access.md)|
-|[PrimaryValuesAxisMinimum](chart-primaryvaluesaxisminimum-property-access.md)|
-|[PrimaryValuesAxisRange](chart-primaryvaluesaxisrange-property-access.md)|
+|[PrimaryValuesAxisFormat](Access.Chart.PrimaryValuesAxisFormat.md)|
+|[PrimaryValuesAxisMaximum](Access.Chart.PrimaryValuesAxisMaximum.md)|
+|[PrimaryValuesAxisMinimum](Access.Chart.PrimaryValuesAxisMinimum.md)|
+|[PrimaryValuesAxisRange](Access.Chart.PrimaryValuesAxisRange.md)|
 |PrimaryValuesAxisThemeColorIndex|
-|[PrimaryValuesAxisTitle](chart-primaryvaluesaxistitle-property-access.md)|
+|[PrimaryValuesAxisTitle](Access.Chart.PrimaryValuesAxisTitle.md)|
 |Properties|
 |RightPadding|
-|[RowSource](chart-rowsource-property-access.md)|
-|[SecondaryValuesAxisDisplayUnits](chart-secondaryvaluesaxisdisplayunits-property-access.md)|
-|[SecondaryValuesAxisFontColor](chart-secondaryvaluesaxisfontcolor-property-access.md)|
+|[RowSource](Access.Chart.RowSource.md)|
+|[SecondaryValuesAxisDisplayUnits](Access.Chart.SecondaryValuesAxisDisplayUnits.md)|
+|[SecondaryValuesAxisFontColor](Access.Chart.SecondaryValuesAxisFontColor.md)|
 |SecondaryValuesAxisFontShade|
-|[SecondaryValuesAxisFontSize](chart-secondaryvaluesaxisfontsize-property-access.md)|
+|[SecondaryValuesAxisFontSize](Access.Chart.SecondaryValuesAxisFontSize.md)|
 |SecondaryValuesAxisFontTint|
-|[SecondaryValuesAxisFormat](chart-secondaryvaluesaxisformat-property-access.md)|
-|[SecondaryValuesAxisMaximum](chart-secondaryvaluesaxismaximum-property-access.md)|
-|[SecondaryValuesAxisMinimum](chart-secondaryvaluesaxisminimum-property-access.md)|
-|[SecondaryValuesAxisRange](chart-secondaryvaluesaxisrange-property-access.md)|
+|[SecondaryValuesAxisFormat](Access.Chart.SecondaryValuesAxisFormat.md)|
+|[SecondaryValuesAxisMaximum](Access.Chart.SecondaryValuesAxisMaximum.md)|
+|[SecondaryValuesAxisMinimum](Access.Chart.SecondaryValuesAxisMinimum.md)|
+|[SecondaryValuesAxisRange](Access.Chart.SecondaryValuesAxisRange.md)|
 |SecondaryValuesAxisThemeColorIndex|
-|[SecondaryValuesAxisTitle](chart-secondaryvaluesaxistitle-property-access.md)|
+|[SecondaryValuesAxisTitle](Access.Chart.SecondaryValuesAxisTitle.md)|
 |Section|
 |ShortcutMenuBar|
 |SpecialEffect|
@@ -172,7 +171,7 @@ A customizable visualization of data that can be included in a report.
 |Tag|
 |Top|
 |TopPadding|
-|[TransformedRowSource](chart-transformedrowsource-property-access.md)|
+|[TransformedRowSource](Access.Chart.TransformedRowSource.md)|
 |VerticalAnchor|
 |Visible|
 |Width|

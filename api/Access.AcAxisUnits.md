@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the unit of measurement for values displayed on an axis.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acAxisUnitsBillions**|9|Billions.|
 |**acAxisUnitsHundredBillions**|11|Hundred Billions.|

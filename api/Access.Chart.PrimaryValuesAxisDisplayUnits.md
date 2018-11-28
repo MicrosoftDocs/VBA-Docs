@@ -6,13 +6,13 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.Chart.PrimaryValuesAxisDisplayUnits
-ms.date: 05/02/2018
+ms.date: 05/02/2018 
 ---
 
 
 # Chart.PrimaryValuesAxisDisplayUnits Property (Access)
 
-Returns or sets the unit of measurement applied to the primary values axis. Read/write **[AcAxisUnits](acaxisunits-enumeration-access.md)** .
+Returns or sets the unit of measurement applied to the primary values axis. Read/write **[AcAxisUnits](Access.AcAxisUnits.md)** .
 
 
 ## Syntax
@@ -32,6 +32,6 @@ As an example, if **6** is a value on the axis and **PrimaryValuesAxisDisplayUni
 #### Concepts
 
 
-[AcAxisUnits Enumeration](acaxisunits-enumeration-access.md)
+[AcAxisUnits Enumeration](Access.AcAxisUnits.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

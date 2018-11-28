@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the position of a legend relative to its associated chart.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acLegendPositionBottom**|3|Bottom edge of the chart.|
 |**acLegendPositionLeft**|0|Left edge of the chart.|

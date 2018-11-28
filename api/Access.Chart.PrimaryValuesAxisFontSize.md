@@ -28,4 +28,4 @@ Returns or sets the font size used by the primary values axis. Read/write **Inte
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

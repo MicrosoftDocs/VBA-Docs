@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 A list of value axes in a chart.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acPrimaryAxis**|0|Primary axis.|
 |**acSecondaryAxis**|1|Secondary axis.|

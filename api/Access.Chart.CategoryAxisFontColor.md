@@ -14,7 +14,7 @@ ms.date: 05/02/2018
 
 Returns or sets the font color used by the category axis. Read/write **Long** .
 
-You can use a **[system color constant](../../language-reference-vba/articles/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
+You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function to set a color programmatically as shown in the example below. You can also browse and select a color from the Design View palette.
 
 
 ## Syntax
@@ -38,10 +38,4 @@ End With
 
 ## See also
 
-
-#### Concepts
-
-
-[System Color Constants](../../language-reference-vba/articles/system-color-constants.md)
-
-[Chart Object](chart-object-access.md)
+- [Chart object](Access.Chart.md)

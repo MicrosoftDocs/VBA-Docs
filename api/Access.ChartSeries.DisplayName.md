@@ -28,6 +28,6 @@ Returns or sets the legend display name of a series. Read/write **String** .
 #### Concepts
 
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

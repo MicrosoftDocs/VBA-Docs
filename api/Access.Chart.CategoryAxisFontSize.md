@@ -28,4 +28,4 @@ Returns or sets the font size used by the category axis. Read/write **Integer** 
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

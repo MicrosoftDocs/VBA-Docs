@@ -12,9 +12,9 @@ ms.date: 05/02/2018
 
 # ChartSeries.ComboChartType Property (Access)
 
-Returns or sets the chart type for the specified series. Read/write **[AcChartType](accharttype-enumeration-access.md)** .
+Returns or sets the chart type for the specified series. Read/write **[AcChartType](Access.AcChartType.md)** .
 
-This setting is only applicable when the **[ChartType](chart-charttype-property-access.md)** of the parent **[Chart](chart-object-access.md)** is set to **acChartCombo**.
+This setting is only applicable when the **[ChartType](Access.Chart.ChartType.md)** of the parent **[Chart](Access.Chart.md)** object is set to **acChartCombo**.
 
 
 ## Syntax
@@ -42,8 +42,8 @@ End With
 #### Concepts
 
 
-[AcChartType Enumeration](accharttype-enumeration-access.md)
+[AcChartType Enumeration](Access.AcChartType.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

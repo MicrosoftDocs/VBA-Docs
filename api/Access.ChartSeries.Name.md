@@ -28,6 +28,6 @@ Returns the name of a **ChartSeries** instance based on the value of its associa
 #### Concepts
 
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

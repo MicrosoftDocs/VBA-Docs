@@ -28,4 +28,4 @@ Returns or sets the name of the font used by the chart title. Read/write **Strin
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

@@ -14,7 +14,7 @@ ms.date: 05/02/2018
 
 Returns or sets the format of the values on the secondary values axis. Read/write **String** .
 
-You can use a [predefined or custom format](format-propertynumber-and-currency-data-types.md).
+You can use a [predefined or custom format](Access.format.propertynumber.and.currency.md).
 
 
 ## Syntax
@@ -39,6 +39,6 @@ End With
 #### Concepts
 
 
-[Format Property - Number and Currency Data Types](format-propertynumber-and-currency-data-types.md)
+[Format Property - Number and Currency Data Types](Access.format.propertynumber.and.currency.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

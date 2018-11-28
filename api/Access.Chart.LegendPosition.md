@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.LegendPosition Property (Access)
 
-Returns or sets the position of the legend for the specified chart. Read/write **[AcLegendPosition](aclegendposition-enumeration-access.md)** .
+Returns or sets the position of the legend for the specified chart. Read/write **[AcLegendPosition](Access.AcLegendPosition.md)** .
 
 
 ## Syntax
@@ -28,6 +28,6 @@ Returns or sets the position of the legend for the specified chart. Read/write *
 #### Concepts
 
 
-[AcLegendPosition Enumeration](aclegendposition-enumeration-access.md)
+[AcLegendPosition Enumeration](Access.AcLegendPosition.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

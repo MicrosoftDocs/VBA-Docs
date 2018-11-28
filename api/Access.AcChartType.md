@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the chart type.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acChartBarClustered**|3|Clustered Bar.|
 |**acChartBarStacked**|4|Stacked Bar.|

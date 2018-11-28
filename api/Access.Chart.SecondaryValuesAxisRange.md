@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # Chart.SecondaryValuesAxisRange Property (Access)
 
-Returns or sets the behavior for representing minimum and maximum values on the secondary values axis. Read/write **[AcAxisRange](acaxisrange-enumeration-access.md)** .
+Returns or sets the behavior for representing minimum and maximum values on the secondary values axis. Read/write **[AcAxisRange](Access.AcAxisRange.md)**.
 
 
 ## Syntax
@@ -31,14 +31,8 @@ highest values in the set.
 
 ## See also
 
+[SecondaryValuesAxisMinimum Property](Access.Chart.SecondaryValuesAxisMinimum.md)
 
-#### Concepts
+[SecondaryValuesAxisMaximum Property](Access.Chart.SecondaryValuesAxisMaximum.md)
 
-
-[AcAxisRange Enumeration](acaxisrange-enumeration-access.md)
-
-[SecondaryValuesAxisMinimum Property](chart-secondaryvaluesaxisminimum-property-access.md)
-
-[SecondaryValuesAxisMaximum Property](chart-secondaryvaluesaxismaximum-property-access.md)
-
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

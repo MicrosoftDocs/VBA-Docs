@@ -1,5 +1,5 @@
 ---
-title: ChartValues Object (Access)
+title: ChartValues object (Access)
 keywords: vbaac10.chm14754
 f1_keywords:
 - vbaac10.chm14754
@@ -10,26 +10,19 @@ ms.date: 05/02/2018
 ---
 
 
-# Chart.ChartValues Object (Access)
+# Chart.ChartValues object (Access)
 
 Represents a field whose values will be plotted in the value (Y) axis of a chart.
 
-
 ## Properties
 
-
-|**Name**|
+|Name|
 |:-----|
-|[AggregateType](chartvalues-aggregatetype-property-access.md)|
-|[Name](chartvalues-name-property-access.md)|
+|[AggregateType](Access.ChartValues.AggregateType.md)|
+|[Name](Access.ChartValues.Name.md)|
 
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartValuesCollection Object](chartvaluescollection-object-access.md)
-
-[Chart Object](chart-object-access.md)
+- [ChartValuesCollection object](Access.ChartValuesCollection.md)
+- [Chart object](Access.Chart.md)

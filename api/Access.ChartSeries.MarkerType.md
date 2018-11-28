@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartSeries.MarkerType Property (Access)
 
-Returns or sets the marker shape to use for data points when the effective chart type of a series is line-based. Read/write **[AcMarkerType](acmarkertype-enumeration-access.md)** .
+Returns or sets the marker shape to use for data points when the effective chart type of a series is line-based. Read/write **[AcMarkerType](Access.AcMarkerType.md)** .
 
 
 ## Syntax
@@ -28,8 +28,8 @@ Returns or sets the marker shape to use for data points when the effective chart
 #### Concepts
 
 
-[AcMarkerType Enumeration](acmarkertype-enumeration-access.md)
+[AcMarkerType Enumeration](Access.AcMarkerType.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

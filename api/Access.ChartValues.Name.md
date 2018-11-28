@@ -24,10 +24,5 @@ Returns the name of a **ChartValues** instance based on its associated field. Re
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartValues Object](chartvalues-object-access.md)
-
-[Chart Object](chart-object-access.md)
+- [ChartValues object](Access.ChartValues.md)
+- [Chart object](Access.Chart.md)

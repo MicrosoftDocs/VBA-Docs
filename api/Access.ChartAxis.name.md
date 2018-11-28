@@ -24,8 +24,4 @@ Returns the name of a **ChartAxis** instance based on its associated field. Read
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartAxis Object](chartaxis-object-access.md)
+- [ChartAxis object](Access.ChartAxis.md)

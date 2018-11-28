@@ -20,15 +20,10 @@ Represents a field whose values will be included in the category axis of a chart
 
 |**Name**|
 |:-----|
-|[GroupType](chartaxis-grouptype-property-access.md)|
-|[Name](chartaxis-name-property-access.md)|
+|[GroupType](Access.ChartAxis.GroupType.md)|
+|[Name](Access.ChartAxis.name.md)|
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartAxisCollection Object](chartaxiscollection-object-access.md)
-
-[Chart Object](chart-object-access.md)
+- [ChartAxisCollection Object](Access.ChartAxisCollection.md)
+- [Chart object](Access.Chart.md)

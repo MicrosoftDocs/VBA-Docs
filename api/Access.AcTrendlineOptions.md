@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the type of trendline to render for a chart series.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acTrendlineExponential**|2|Exponential.|
 |**acTrendlineLinear**|1|Linear.|

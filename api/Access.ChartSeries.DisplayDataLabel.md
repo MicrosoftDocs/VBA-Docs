@@ -28,6 +28,6 @@ ms.date: 05/02/2018
 #### Concepts
 
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

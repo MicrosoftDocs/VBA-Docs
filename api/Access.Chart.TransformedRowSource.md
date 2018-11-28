@@ -14,7 +14,7 @@ ms.date: 05/02/2018
 
 Returns the auto-generated SQL string that is used to support aggregation, pivoting, and ordering of chart data. Read-only **String** .
 
-This string is generated from a combination of the **[RowSource](chart-rowsource-property-access.md)** property and selected axis fields. 
+This string is generated from a combination of the **[RowSource](Access.Chart.RowSource.md)** property and selected axis fields. 
 
 
 ## Syntax
@@ -26,10 +26,4 @@ This string is generated from a combination of the **[RowSource](chart-rowsource
 
 ## See also
 
-
-#### Concepts
-
-
-[RowSource Property](chart-rowsource-property-access.md)
-
-[Chart Object](chart-object-access.md)
+- [Chart object](Access.Chart.md)

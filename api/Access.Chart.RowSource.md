@@ -24,10 +24,5 @@ Returns or sets the name of the table/query that supplies data for the chart. Re
 
 ## See also
 
-
-#### Concepts
-
-
-[TransformedRowSource Property](chart-transformedrowsource-property-access.md)
-
-[Chart Object](chart-object-access.md)
+- [TransformedRowSource property](Access.Chart.TransformedRowSource.md)
+- [Chart object](Access.Chart.md)

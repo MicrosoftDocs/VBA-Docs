@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartAxis.GroupType Property (Access)
 
-Returns or sets the type of grouping applied to an axis field when its type is a date. Read/write **[AcDateGroupType](acdategrouptype-enumeration-access.md)** .
+Returns or sets the type of grouping applied to an axis field when its type is a date. Read/write **[AcDateGroupType](Access.AcDateGroupType.md)** .
 
 
 ## Syntax
@@ -24,10 +24,5 @@ Returns or sets the type of grouping applied to an axis field when its type is a
 
 ## See also
 
-
-#### Concepts
-
-
-[AcDateGroupType Enumeration](acdategrouptype-enumeration-access.md)
-
-[ChartAxis Object](chartaxis-object-access.md)
+- [AcDateGroupType enumeration](Access.AcDateGroupType.md)
+- [ChartAxis object](Access.ChartAxis.md)

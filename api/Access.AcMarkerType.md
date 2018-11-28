@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the marker shape to use for plotting a series when its effective chart type is line-based.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acMarkerAsterisk**|4|Asterisk.|
 |**acMarkerCircle**|8|Circle.|

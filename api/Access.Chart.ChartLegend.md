@@ -30,4 +30,4 @@ Multiple fields are not supported.
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

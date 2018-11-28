@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the type of grouping applied to an axis the type of its associated field is a date.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDateGroupDay**|4|The date is grouped by day.|
 |**acDateGroupMonth**|3|The date is grouped by month.|

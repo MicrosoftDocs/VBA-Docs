@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartSeries.DashType Property (Access)
 
-Returns or sets the line dash style of a series when the effective **[ChartType](chart-charttype-property-access.md)** is  **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100** . Read/write **[AcDashType](acdashtype-enumeration-access.md)** .
+Returns or sets the line dash style of a series when the effective **[ChartType](Access.Chart.ChartType.md)** is  **acChartLine**, **acChartLineStacked**, or **acChartLineStacked100** . Read/write **[AcDashType](Access.AcDashType.md)** .
 
 
 ## Syntax
@@ -28,8 +28,8 @@ Returns or sets the line dash style of a series when the effective **[ChartType]
 #### Concepts
 
 
-[AcDashType Enumeration](acdashtype-enumeration-access.md)
+[AcDashType Enumeration](Access.AcDashType.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

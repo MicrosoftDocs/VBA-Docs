@@ -28,4 +28,4 @@ Returns or sets the subtitle for the specified chart. Read/write **String** .
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

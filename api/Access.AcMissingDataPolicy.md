@@ -15,7 +15,7 @@ ms.date: 05/02/2018
 Specifies the plotting strategy of a series when its chart type is **acChartLine** and values are missing.
 
 
-|**Name**|**Value**|**Description**|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 |**acDoNotPlot**|1|Do not plot.|
 |**acPlotAsInterpolated**|2|Plot as interpolated.|

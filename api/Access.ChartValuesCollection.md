@@ -12,12 +12,12 @@ ms.date: 05/02/2018
 
 # ChartValuesCollection Object (Access)
 
-A collection of all the **[ChartValues](chartvalues-object-access.md)** objects in the specified chart.
+A collection of all the **[ChartValues](Access.ChartValues.md)** objects in the specified chart.
 
 
 ## Using ChartValuesCollection
 
-The following example displays the name of each **[ChartValues](chartvalues-object-access.md)** instance in a collection.
+The following example displays the name of each **ChartValues** instance in a collection.
 
 ```vb
 With myChart
@@ -29,8 +29,4 @@ End With
 
 ## See also
 
-
-#### Concepts
-
-
-[Chart Object](chart-object-access.md)
+- [Chart object](Access.Chart.md)

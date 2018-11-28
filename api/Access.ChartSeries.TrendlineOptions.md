@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartSeries.TrendlineOptions Property (Access)
 
-Returns or sets the type of trendline to render for a series. Read/write **[AcTrendlineOptions](actrendlineoptions-enumeration-access.md)** .
+Returns or sets the type of trendline to render for a series. Read/write **[AcTrendlineOptions](Access.AcTrendlineOptions.md)** .
 
 
 ## Syntax
@@ -28,8 +28,8 @@ Returns or sets the type of trendline to render for a series. Read/write **[AcTr
 #### Concepts
 
 
-[AcTrendlineOptions Enumeration](actrendlineoptions-enumeration-access.md)
+[AcTrendlineOptions Enumeration](Access.AcTrendlineOptions.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

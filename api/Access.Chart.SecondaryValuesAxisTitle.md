@@ -28,4 +28,4 @@ Returns or sets the title for the secondary values axis. Read/write **String** .
 #### Concepts
 
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

@@ -14,7 +14,7 @@ ms.date: 05/02/2018
 
 Returns or sets the fill color of a series visualization. Read/write **String** .
 
-You can use a **[system color constant](../../language-reference-vba/articles/system-color-constants.md)** or the RGB function as shown in the example below.
+You can use a **[system color constant](../../language/reference/user-interface-help/system-color-constants.md)** or the RGB function as shown in the example below.
 
 
 ## Syntax
@@ -37,10 +37,5 @@ End With
 
 ## See also
 
-
-#### Concepts
-
-
-[ChartSeries Object](chartseries-object-access.md)
-
-[Chart Object](chart-object-access.md)
+- [ChartSeries object](Access.ChartSeries.md)
+- [Chart object](Access.Chart.md)

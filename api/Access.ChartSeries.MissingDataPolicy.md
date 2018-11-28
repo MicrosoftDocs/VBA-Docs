@@ -12,7 +12,7 @@ ms.date: 05/02/2018
 
 # ChartSeries.MissingDataPolicy Property (Access)
 
-Returns or sets the plotting strategy of a series when its chart type is **Line** and values are missing. Read/write **[AcMissingDataPolicy](acmissingdatapolicy-enumeration-access.md)** .
+Returns or sets the plotting strategy of a series when its chart type is **Line** and values are missing. Read/write **[AcMissingDataPolicy](Access.AcMissingDataPolicy.md)** .
 
 
 ## Syntax
@@ -28,8 +28,8 @@ Returns or sets the plotting strategy of a series when its chart type is **Line*
 #### Concepts
 
 
-[AcMissingDataPolicy Enumeration](acmissingdatapolicy-enumeration-access.md)
+[AcMissingDataPolicy Enumeration](Access.AcMissingDataPolicy.md)
 
-[ChartSeries Object](chartseries-object-access.md)
+[ChartSeries object](Access.ChartSeries.md)
 
-[Chart Object](chart-object-access.md)
+[Chart object](Access.Chart.md)

@@ -12,24 +12,17 @@ ms.date: 05/02/2018
 
 # ChartValues.AggregateType Property (Access)
 
-Returns or sets the behavior for aggregating values. Read/write **[AcAggregateType](acaggregatetype-enumeration-access.md)** .
+Returns or sets the behavior for aggregating values. Read/write **[AcAggregateType](Access.AcAggregateType.md)** .
 
 
 ## Syntax
 
- _expression_ . **AggregateType**
+_expression_ . **AggregateType**
 
- _expression_ A variable that represents a **ChartValues** object.
+_expression_ A variable that represents a **ChartValues** object.
 
 
 ## See also
 
-
-#### Concepts
-
-
-[AcAggregateType Enumeration](acaggregatetype-enumeration-access.md)
-
-[ChartValues Object](chartvalues-object-access.md)
-
-[Chart Object](chart-object-access.md)
+- [ChartValues object](Access.ChartValues.md)
+- [Chart object](Access.Chart.md)
