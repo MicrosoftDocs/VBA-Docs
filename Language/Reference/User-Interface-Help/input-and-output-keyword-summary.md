@@ -1,15 +1,16 @@
 ---
-title: Input and Output Keyword Summary
+title: Input and output keyword summary
 ms.prod: office
 ms.assetid: 5ac43791-945d-3deb-47ff-b970fc9dec15
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
-# Input and Output Keyword Summary
+# Input and output keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Access or create a file.|[Open](open-statement.md)|
 |Close files.|[Close](close-statement.md), [Reset](reset-statement.md)|

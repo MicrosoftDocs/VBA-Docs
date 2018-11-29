@@ -11,3 +11,6 @@ ms.date: 09/17/2018
 - [Returns for CStr](User-Interface-Help/returns-for-cstr.md)
     
 
+## See also
+
+- [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)

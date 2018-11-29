@@ -823,6 +823,26 @@
           {
             "source_path": "language/reference/user-interface-help/immediate-window-keyboard-shortcuts.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/immediate-window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/operators-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/operator-summary"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collection-object-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/collection-object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/compiler-directive-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/directives"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/data-types-keyword-summary.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary"
+          },
+          {
+            "source_path": "language/reference/keyword-summaries.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/keywords-by-task"
           }
     ]
 }

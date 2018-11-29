@@ -29,14 +29,14 @@ Each function coerces an expression to a specific data type.
 - **CStr(**_expression_**)**
 - **CVar(**_expression_**)**
 
-The required  _expression_ argument is any string expression or numeric expression.
+The required _expression_ argument is any string expression or numeric expression.
 
 ### Return types
 
 The function name determines the return type as shown in the following:
 
 
-|**Function**|**Return Type**|**Range for  _expression_ argument**|
+|Function|Return type|Range for _expression_ argument|
 |:-----|:-----|:-----|
 |**CBool**|Boolean|Any valid **string** or numeric expression.|
 |**CByte**|Byte|0 to 255.|
@@ -54,7 +54,7 @@ The function name determines the return type as shown in the following:
 
 ## Remarks
 
-If the  _expression_ passed to the function is outside the range of the data type being converted to, an error occurs.
+If the _expression_ passed to the function is outside the range of the data type being converted to, an error occurs.
 
 > [!NOTE] 
 > Conversion functions must be used to explicitly assign **LongLong** (including **LongPtr** on 64-bit platforms) to smaller integral types. Implicit conversions of **LongLong** to smaller integrals are not allowed.
@@ -233,6 +233,7 @@ MyVar = CVar(MyInt & 000) ' MyVar contains the string
 
 ## See also
 
+- [Data types summary](../../reference/user-interface-help/data-type-summary.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 
 

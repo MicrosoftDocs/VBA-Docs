@@ -1,15 +1,16 @@
 ---
-title: Registry Keyword Summary
+title: Registry keyword summary
 ms.prod: office
 ms.assetid: b5b209ed-ae87-8f84-d6dd-a47863dfa05e
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
-# Registry Keyword Summary
+# Registry keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Delete program settings.|[DeleteSetting](deletesetting-statement.md)|
 |Read program settings.|[GetSetting](getsetting-function.md), [GetAllSettings](getallsettings-function.md)|

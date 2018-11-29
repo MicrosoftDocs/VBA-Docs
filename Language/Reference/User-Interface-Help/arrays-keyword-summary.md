@@ -1,18 +1,19 @@
 ---
-title: Arrays Keyword Summary
+title: Arrays keyword summary
 keywords: vblr6.chm1074266
 f1_keywords:
 - vblr6.chm1074266
 ms.prod: office
 ms.assetid: 076aa4c2-251a-901e-1cd7-c58f69ac55f7
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
-# Arrays Keyword Summary
+# Arrays keyword summary
 
+<br/>
 
-|**Action**|**Keywords**|
+|Action|Keywords|
 |:-----|:-----|
 |Verify an array.|[IsArray](isarray-function.md)|
 |Create an array.|[Array](array-function.md)|

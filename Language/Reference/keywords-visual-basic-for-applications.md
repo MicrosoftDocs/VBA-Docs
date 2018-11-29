@@ -2,13 +2,14 @@
 title: Keywords (Visual Basic for Applications)
 ms.prod: office
 ms.assetid: 77a07966-3587-4773-9631-0ea3e265c0ee
-ms.date: 09/17/2018
+ms.date: 11/29/2018
 ---
 
 
 # Keywords (Visual Basic for Applications)
 
-- [Keywords by task](User-Interface-Help/keywords-by-task.md)
+For a table of keywords, see [Keywords by task](User-Interface-Help/keywords-by-task.md).
+
 - [As](User-Interface-Help/as-keyword.md)
 - [Binary](User-Interface-Help/binary-keyword.md)
 - [ByRef](User-Interface-Help/byref-keyword.md)
