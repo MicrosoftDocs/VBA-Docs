@@ -26,7 +26,7 @@ Dim X As New Collection
 
 ```
 
-Once a collection is created, members can be added using the **[Add](add-method-visual-basic-for-applications.md)** method and removed using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated using the **[For Each...Next](for-eachnext-statement.md)** statement.
+After a collection is created, members can be added by using the **[Add](add-method-visual-basic-for-applications.md)** method and removed by using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection by using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated by using the **[For Each...Next](for-eachnext-statement.md)** statement.
 
 ## Example
 

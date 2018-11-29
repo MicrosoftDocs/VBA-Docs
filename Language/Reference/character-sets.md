@@ -12,3 +12,6 @@ ms.date: 11/21/2018
 - [Character set (128 - 255)](User-Interface-Help/character-set-128255.md)
     
 
+## See also
+
+- [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)

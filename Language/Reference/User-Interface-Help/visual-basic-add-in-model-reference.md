@@ -17,3 +17,6 @@ Describes how to customize the Visual Basic Editor, and provides documentation f
 - [Properties](../Visual-Basic-Add-in-Model/properties-visual-basic-add-in-model.md)
     
 
+## See also
+
+- [Visual Basic language reference](visual-basic-language-reference.md)

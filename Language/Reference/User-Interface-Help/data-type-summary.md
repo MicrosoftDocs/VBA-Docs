@@ -11,12 +11,14 @@ ms.date: 11/19/2018
 
 # Data type summary
 
+## Set intrinsic data types
+
 The following table shows the supported [data types](../../Glossary/vbe-glossary.md#data-type), including storage sizes and ranges.
 
 |Data type|Storage size|Range|
-|:-----|:-----|:-----|
-|**[Byte](byte-data-type.md)**|1 byte|0 to 255|
+|:--------|:-----------|:----|
 |**[Boolean](boolean-data-type.md)**|2 bytes|**True** or **False**|
+|**[Byte](byte-data-type.md)**|1 byte|0 to 255|
 |**[Integer](integer-data-type.md)**|2 bytes|-32,768 to 32,767|
 |**[Long](long-data-type.md)** (Long integer)|4 bytes|-2,147,483,648 to 2,147,483,647|
 |**[LongLong](longlong-data-type.md)** (LongLong integer)|8 bytes|-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807<br/><br/>Valid on 64-bit platforms only.|
@@ -50,4 +52,31 @@ A **Variant** containing an array requires 12 bytes more than the array alone.
 > [!NOTE] 
 > Use the **StrConv** function to convert one type of string data to another.
 
+
+## Convert between data types
+
+See [Type conversion functions](../../concepts/getting-started/type-conversion-functions.md) for examples of how to use the following functions to coerce an expression to a specific data type: **CBool**, **CByte**, **CCur**, **CDate**, **CDbl**, **CDec**, **CInt**, **CLng**, **CLngLng**, **CLngPtr**, **CSng**, **CStr**, and **CVar**.
+
+For the following, see the respective function pages: **[CVErr](cverr-function.md)**, **[Fix](int-fix-functions.md)**, and **[Int](int-fix-functions.md)**.
+
+> [!NOTE] 
+> **CLngLng** is valid on 64-bit platforms only.
+
+## Verify data types
+
+To verify data types, see the following functions: 
+
+- [IsArray](isarray-function.md)
+- [IsDate](isdate-function.md)
+- [IsEmpty](isempty-function.md)
+- [IsError](iserror-function.md)
+- [IsMissing](ismissing-function.md)
+- [IsNull](isnull-function.md)
+- [IsNumeric](isnumeric-function.md)
+- [IsObject](isobject-function.md)
+
+
+## See also
+
+- [Visual Basic language reference](visual-basic-language-reference.md)
 
