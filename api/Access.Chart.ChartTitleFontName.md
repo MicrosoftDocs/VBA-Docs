@@ -17,7 +17,7 @@ Returns or sets the name of the font used by the chart title. Read/write **Strin
 
 ## Syntax
 
-_expression_ . **ChartTitleFontName**
+_expression_.**ChartTitleFontName**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

@@ -17,7 +17,7 @@ Returns the name of a **ChartSeries** instance based on the value of its associa
 
 ## Syntax
 
-_expression_ . **Name**
+_expression_.**Name**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

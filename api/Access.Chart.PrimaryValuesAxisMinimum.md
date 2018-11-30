@@ -17,7 +17,7 @@ Returns or sets the minimum value that can be represented on the primary values 
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisMinimum**
+_expression_.**PrimaryValuesAxisMinimum**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

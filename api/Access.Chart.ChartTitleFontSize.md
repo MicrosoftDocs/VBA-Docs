@@ -17,7 +17,7 @@ Returns or sets the font size used by the chart title. Read/write **Integer**.
 
 ## Syntax
 
-_expression_ . **ChartTitleFontSize**
+_expression_.**ChartTitleFontSize**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

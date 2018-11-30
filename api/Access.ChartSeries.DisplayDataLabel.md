@@ -17,7 +17,7 @@ ms.date: 11/28/2018
 
 ## Syntax
 
-_expression_ . **DisplayDataLabel**
+_expression_.**DisplayDataLabel**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

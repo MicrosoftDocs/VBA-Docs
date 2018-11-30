@@ -17,7 +17,7 @@ Returns or sets the plotting strategy of a series when its chart type is **Line*
 
 ## Syntax
 
-_expression_ . **MissingDataPolicy**
+_expression_.**MissingDataPolicy**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the line weight (thickness) for a series when its effective char
 
 ## Syntax
 
-_expression_ . **LineWeight**
+_expression_.**LineWeight**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the unit of measurement applied to the secondary values axis. Re
 
 ## Syntax
 
-_expression_ . **SecondaryValuesAxisDisplayUnits**
+_expression_.**SecondaryValuesAxisDisplayUnits**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

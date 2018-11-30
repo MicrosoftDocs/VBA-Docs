@@ -21,3 +21,6 @@ ms.date: 11/29/2018
 |Automation|[CreateObject](createobject-function.md), [GetObject](getobject-function.md)|
 |Color|[QBColor](qbcolor-function.md), [RGB](rgb-function.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)

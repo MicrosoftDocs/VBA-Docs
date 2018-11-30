@@ -17,7 +17,7 @@ Returns or sets the title for the category axis. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **CategoryAxisTitle**
+_expression_.**CategoryAxisTitle**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

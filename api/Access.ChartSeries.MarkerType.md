@@ -17,7 +17,7 @@ Returns or sets the marker shape to use for data points when the effective chart
 
 ## Syntax
 
-_expression_ . **MarkerType**
+_expression_.**MarkerType**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

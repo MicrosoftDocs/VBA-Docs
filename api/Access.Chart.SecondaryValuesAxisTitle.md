@@ -17,7 +17,7 @@ Returns or sets the title for the secondary values axis. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **SecondaryValuesAxisTitle**
+_expression_.**SecondaryValuesAxisTitle**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

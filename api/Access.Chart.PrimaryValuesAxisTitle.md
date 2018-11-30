@@ -17,7 +17,7 @@ Returns or sets the title for the primary values axis. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisTitle**
+_expression_.**PrimaryValuesAxisTitle**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

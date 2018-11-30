@@ -24,3 +24,6 @@ ms.date: 11/29/2018
 |Set read-write position in a file.|[Seek](seek-statement.md)|
 |Write to a file.|[Print #](printstatement.md), [Put](put-statement.md), [Write #](writestatement.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)

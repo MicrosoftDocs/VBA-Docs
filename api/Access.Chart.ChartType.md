@@ -17,7 +17,7 @@ Returns or sets the chart type. Read/write **[AcChartType](Access.AcChartType.md
 
 ## Syntax
 
-_expression_ . **ChartType**
+_expression_.**ChartType**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

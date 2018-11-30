@@ -17,7 +17,7 @@ A collection of all the **[ChartAxis](Access.ChartAxis.md)** objects in the spec
 
 ## Syntax
 
-_expression_ . **ChartAxisCollection**
+_expression_.**ChartAxisCollection**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

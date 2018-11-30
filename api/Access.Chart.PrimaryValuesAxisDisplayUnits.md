@@ -17,7 +17,7 @@ Returns or sets the unit of measurement applied to the primary values axis. Read
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisDisplayUnits**
+_expression_.**PrimaryValuesAxisDisplayUnits**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the title for the specified chart. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **Title**
+_expression_.**Title**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

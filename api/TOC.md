@@ -34518,7 +34518,7 @@
 #### [Directives](../Language/Reference/directives.md)
 ##### [#Const directive](../Language/Reference/User-Interface-Help/const-directive.md)
 ##### [#If...Then...#Else directive](../Language/Reference/User-Interface-Help/ifthenelse-directive.md)
-#### [Keywords by task](../Language/Reference/User-Interface-Help/keywords-by-task.md)
+#### [Keywords](../Language/Reference/User-Interface-Help/keywords-by-task.md)
 ##### [Arrays](../Language/Reference/User-Interface-Help/arrays-keyword-summary.md)
 ##### [Control flow](../Language/Reference/User-Interface-Help/control-flow-keyword-summary.md)
 ##### [Conversion](../Language/Reference/User-Interface-Help/conversion-keyword-summary.md)

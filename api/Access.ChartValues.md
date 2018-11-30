@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 api_name:
 - Access.ChartValues
-ms.date: 05/02/2018
+ms.date: 11/29/2018
 ---
 
 
@@ -16,10 +16,8 @@ Represents a field whose values will be plotted in the value (Y) axis of a chart
 
 ## Properties
 
-|Name|
-|:-----|
-|[AggregateType](Access.ChartValues.AggregateType.md)|
-|[Name](Access.ChartValues.Name.md)|
+- [AggregateType](Access.ChartValues.AggregateType.md)
+- [Name](Access.ChartValues.Name.md)
 
 
 ## See also

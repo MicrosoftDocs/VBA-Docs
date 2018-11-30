@@ -16,10 +16,8 @@ Represents a field whose values will be included in the category axis of a chart
 
 ## Properties
 
-|Name|
-|:-----|
-|[GroupType](Access.ChartAxis.GroupType.md)|
-|[Name](Access.ChartAxis.name.md)|
+- [GroupType](Access.ChartAxis.GroupType.md)
+- [Name](Access.ChartAxis.name.md)
 
 ## See also
 

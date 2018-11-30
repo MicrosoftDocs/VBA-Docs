@@ -23,3 +23,6 @@ ms.date: 11/29/2018
 |Set string comparison rules.|[Option Compare](option-compare-statement.md)|
 |Work with ASCII and ANSI values.|[Asc](asc-function.md), [Chr](chr-function.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)

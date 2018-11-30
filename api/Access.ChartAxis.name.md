@@ -17,7 +17,7 @@ Returns the name of a **ChartAxis** instance based on its associated field. Read
 
 ## Syntax
 
-_expression_ . **Name**
+_expression_.**Name**
 
 _expression_ A variable that represents a **[ChartAxis](Access.ChartAxis.md)** object.
 

@@ -19,7 +19,7 @@ This setting is only applicable when the **[ChartType](Access.Chart.ChartType.md
 
 ## Syntax
 
-_expression_ . **ComboChartType**
+_expression_.**ComboChartType**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

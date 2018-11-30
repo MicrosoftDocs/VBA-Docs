@@ -19,7 +19,7 @@ You can use a **[system color constant](../language/reference/user-interface-hel
 
 ## Syntax
 
-_expression_ . **ChartSubtitleFontColor**
+_expression_.**ChartSubtitleFontColor**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

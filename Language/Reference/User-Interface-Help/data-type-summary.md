@@ -78,5 +78,6 @@ To verify data types, see the following functions:
 
 ## See also
 
+- [Keywords by task](keywords-by-task.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
 

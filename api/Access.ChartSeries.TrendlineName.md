@@ -17,7 +17,7 @@ Returns or sets the name of the series trendline if the trendline is visible. Re
 
 ## Syntax
 
-_expression_ . **TrendlineName**
+_expression_.**TrendlineName**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the behavior for representing minimum and maximum values on the 
 
 ## Syntax
 
-_expression_ . **SecondaryValuesAxisRange**
+_expression_.**SecondaryValuesAxisRange**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
