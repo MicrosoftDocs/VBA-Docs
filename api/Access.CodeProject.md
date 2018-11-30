@@ -35,7 +35,7 @@ For example, an  **AccessObject** object representing a form is a member of the 
 
 
 
-|**Syntax**|**Example**|
+|Syntax|Example|
 |:-----|:-----|
 |**AllForms** ! _formname_|AllForms!OrderForm|
 |**AllForms** ![ _form name_]|AllForms![Order Form]|

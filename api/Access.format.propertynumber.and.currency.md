@@ -1,22 +1,20 @@
 ---
-title: Format Property - Number and Currency Data Types
+title: Number and Currency data types (Format property)
 ms.prod: access
 ms.assetid: f48fbfad-c249-4011-9b3e-bbd6628ac1f7
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
-# Format Property - Number and Currency Data Types
+# Number and Currency data types (Format property)
 
 **Applies to:** Access 2013 | Access 2016
 
 You can set the **Format** property to predefined number formats or custom number formats for the Number and Currency data types.
 
-<a name="sectionSection0"> </a>
+## Settings
 
-## Setting
-
-**Predefined Formats**
+### Predefined formats
 
 The following table shows the predefined **Format** property settings for numbers.
 
@@ -30,11 +28,11 @@ The following table shows the predefined **Format** property settings for number
 |Percent|Multiply the value by 100 and append a percent sign (%); follow the settings specified in the regional settings of Windows for negative amounts, decimal symbols, and decimal places.|
 |Scientific|Use standard scientific notation.|
 
-**Custom Formats**
+### Custom formats
 
 Custom number formats can have one to four sections with semicolons (;) as the list separator. Each section contains the format specification for a different type of number.
 
-|**Section**|**Description**|
+|Section|Description|
 |:-----|:-----|
 |First|The format for positive numbers.|
 |Second|The format for negative numbers.|
@@ -53,19 +51,18 @@ If you use multiple sections but don't specify a format for each section, entrie
 
 You can create custom number formats by using the following symbols.
 
-|**Symbol**|**Description**|
+|Symbol|Description|
 |:-----|:-----|
-|. (period)|Decimal separator. Separators are set in the regional settings in Windows.|
-|, (comma)|Thousand separator.|
-|0|Digit placeholder. Display a digit or 0.|
-|#|Digit placeholder. Display a digit or nothing.|
-|$|Display the literal character "$".|
-|%|Percentage. The value is multiplied by 100 and a percent sign is appended.|
-|E- or e-|Scientific notation with a minus sign (-) next to negative exponents and nothing next to positive exponents. This symbol must be used with other symbols, as in 0.00E-00 or 0.00E00.|
-|E+ or e+|Scientific notation with a minus sign (-) next to negative exponents and a plus sign (+) next to positive exponents. This symbol must be used with other symbols, as in 0.00E+00.|
+|`.` (period)|Decimal separator. Separators are set in the regional settings in Windows.|
+|`,` (comma)|Thousand separator.|
+|`0`|Digit placeholder. Display a digit or 0.|
+|`#`|Digit placeholder. Display a digit or nothing.|
+|`$`|Display the literal character "$".|
+|`%`|Percentage. The value is multiplied by 100 and a percent sign is appended.|
+|`E-` or `e-`|Scientific notation with a minus sign (-) next to negative exponents and nothing next to positive exponents. This symbol must be used with other symbols, as in 0.00E-00 or 0.00E00.|
+|`E+` or `e+`|Scientific notation with a minus sign (-) next to negative exponents and a plus sign (+) next to positive exponents. This symbol must be used with other symbols, as in 0.00E+00.|
 
 ## Remarks
-<a name="sectionSection1"> </a>
 
 You can use the **DecimalPlaces** property to override the default number of decimal places for the predefined format specified for the **Format** property.
 
@@ -73,11 +70,10 @@ The predefined currency and euro formats follow the settings in the regional set
 
 
 ## Examples
-<a name="sectionSection2"> </a>
 
 The following are examples of the predefined number formats.
 
-|**Setting**|**Data**|**Display**|
+|Setting|Data|Display|
 |:-----|:-----|:-----|
 |General Number|3456.789 -3456.789 $213.21|3456.789 -3456.789 $213.21|
 |Currency|3456.789 -3456.789|$3,456.79 ($3,456.79)|
@@ -90,17 +86,11 @@ The following are examples of custom number formats.
 
 |Setting|Description|
 |:-----|:-----|
-|0;(0);;"Null"|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is **Null**.|
-|+0.0;-0.0;0.0|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|
+|`0;(0);;"Null"`|Display positive values normally; display negative values in parentheses; display the word "Null" if the value is **Null**.|
+|`+0.0;-0.0;0.0`|Display a plus (+) or minus (-) sign with positive or negative numbers; display 0.0 if the value is zero.|
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Search for specific Access error codes on Bing](https://www.bing.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
-- [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
-
+- [Date/Time](Access.format.propertydate.time.md)
+- [Text and Memo](Access.format.propertytext.and.memo.md)
+- [Yes/No](Access.format.propertyyes.no.md)

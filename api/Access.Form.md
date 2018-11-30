@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form
 ms.assetid: 72ef9219-142b-b690-b696-3eba9a5d4522
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
@@ -17,15 +17,16 @@ A **Form** object refers to a particular Microsoft Access form.
 
 ## Remarks
 
-A **Form** object is a member of the **Forms** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. You can refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. If you want to refer to a specific form in the **Forms** collection, it's better to refer to the form by name because a form's collection index may change. If the form name includes a space, the name must be surrounded by brackets ([ ]).
+A **Form** object is a member of the **Forms** collection, which is a collection of all currently open forms. Within the **Forms** collection, individual forms are indexed beginning with zero. You can refer to an individual **Form** object in the **Forms** collection either by referring to the form by name, or by referring to its index within the collection. 
 
+If you want to refer to a specific form in the **Forms** collection, it's better to refer to the form by name because a form's collection index may change. If the form name includes a space, the name must be surrounded by brackets ([ ]).
 
-|**Syntax**|**Example**|
+|Syntax|Example|
 |:-----|:-----|
-|**AllForms** ! _formname_|AllForms!OrderForm|
-|**AllForms** ![ _form name_]|AllForms![Order Form]|
-|**AllForms** (" _formname_")|AllForms("OrderForm")|
-|**AllForms** ( _formname_)|AllForms(0)|
+|**AllForms** ! _formname_|`AllForms!OrderForm`|
+|**AllForms** ![ _form name_]|`AllForms![Order Form]`|
+|**AllForms** (" _formname_")|`AllForms("OrderForm")`|
+|**AllForms** ( _formname_)|`AllForms(0)`|
 
 Each **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**:
 
@@ -39,6 +40,8 @@ Forms!OrderForm!NewData
 ' Explicit reference. 
 Forms!OrderForm.Controls!NewData
 ```
+
+<br/>
 
 The next two examples show how you might refer to a control named **NewData** on a subform `ctlSubForm` contained in the form called **OrderForm**:
 
@@ -56,20 +59,12 @@ Forms!OrderForm.ctlSubForm!NewData
 - [Microsoft Access Form Tips and Avoiding Common Mistakes](https://www.fmsinc.com/tpapers/genaccess/formtips.html)  
 - [Microsoft Office Access 2007 Form Design Tips](https://www.fmsinc.com/tpapers/access/Forms/Access2007FormTips.html)
     
-**Links provided by** the [UtterAccess](https://www.utteraccess.com) community.
-
-- [Display Pictures on a Form](https://www.utteraccess.com/wiki/index.php/Display_Pictures_on_a_Form)   
-- [Display Related Data](https://www.utteraccess.com/wiki/index.php/Display_Related_Data)   
-- [Opening a Detail Form to Related Information](https://www.utteraccess.com/wiki/index.php/Forms:_Open_a_Detail_Form_to_Related_Information)   
-- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)   
-- [Referring To Properties And Controls On Subforms](https://www.utteraccess.com/wiki/index.php/Referring_To_Properties_And_Controls_On_Subforms)
-    
 
 ## Example
 
 The following example shows how to use **TextBox** controls to supply date criteria for a query.
 
-UtterAccess members can download a database that contains this example from [here](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
+UtterAccess members can [download a database that contains this example](https://www.utteraccess.com/forum/Dynamic-Query-Examples-t1405533.html).
 
 **Sample code provided by** the [UtterAccess](https://www.utteraccess.com) community.
 
@@ -119,6 +114,8 @@ Private Sub cmdSearch_Click()
 End Sub
 ```
 
+<br/>
+
 The following example shows how to use the **BeforeUpdate** event of a form to require that a value be entered into one control when another control also has data.
 
 **Sample code provided by** the [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html).
@@ -158,7 +155,7 @@ End Sub
 
 <br/>
 
-The following example shows how to use the  _WhereCondition_ argument of the **OpenForm** method to filter the records displayed on a form as it is opened.
+The following example shows how to use the _WhereCondition_ argument of the **OpenForm** method to filter the records displayed on a form as it is opened.
 
 
 ```vb
