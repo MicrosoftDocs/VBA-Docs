@@ -18,9 +18,9 @@ Returns or sets the theme color in the applied color scheme that is associated w
 
 ## Syntax
 
- _expression_. `ThemeColor`
+_expression_. `ThemeColor`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Remarks
@@ -29,7 +29,6 @@ Attempting to access a theme color for an object whose color is not currently th
 
 
 ## See also
-
 
 [Interior Object](Excel.Interior(object).md)
 
