@@ -19,7 +19,7 @@ Multiple fields are not supported.
 
 ## Syntax
 
-_expression_ . **ChartLegend**
+_expression_.**ChartLegend**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

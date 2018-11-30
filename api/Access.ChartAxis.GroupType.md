@@ -17,7 +17,7 @@ Returns or sets the type of grouping applied to an axis field when its type is a
 
 ## Syntax
 
-_expression_ . **GroupType**
+_expression_.**GroupType**
 
 _expression_ A variable that represents a **[ChartAxis](Access.ChartAxis.md)** object.
 

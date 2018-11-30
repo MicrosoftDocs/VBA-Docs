@@ -16,7 +16,7 @@ Returns or sets the font size used by the category axis. Read/write **Integer**.
 
 ## Syntax
 
-_expression_ . **CategoryAxisFontSize**
+_expression_.**CategoryAxisFontSize**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

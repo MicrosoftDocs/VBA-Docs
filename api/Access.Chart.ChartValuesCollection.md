@@ -17,7 +17,7 @@ A collection of all the **[ChartValues](Access.ChartValues.md)** objects in the 
 
 ## Syntax
 
-_expression_ . **ChartValuesCollection**
+_expression_.**ChartValuesCollection**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

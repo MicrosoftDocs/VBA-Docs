@@ -17,7 +17,7 @@ Returns or sets the semicolon-separated field name(s) that are used by the chart
 
 ## Syntax
 
-_expression_ . **ChartAxis**
+_expression_.**ChartAxis**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

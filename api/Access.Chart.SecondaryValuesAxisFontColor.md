@@ -19,13 +19,13 @@ You can use a **[system color constant](../language/reference/user-interface-hel
 
 ## Syntax
 
-_expression_ . **SecondaryValuesAxisFontColor**
+_expression_.**SecondaryValuesAxisFontColor**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 ## Example
 
-In this example the **SecondaryValuesAxisFontColor** is initially set to a system color constant before it is changed to an RGB value.
+In this example, the **SecondaryValuesAxisFontColor** is initially set to a system color constant before it is changed to an RGB value.
 
 ```vb
 With myChart

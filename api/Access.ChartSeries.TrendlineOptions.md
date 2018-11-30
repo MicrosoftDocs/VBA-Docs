@@ -17,7 +17,7 @@ Returns or sets the type of trendline to render for a series. Read/write **[AcTr
 
 ## Syntax
 
-_expression_ . **TrendlineOptions**
+_expression_.**TrendlineOptions**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the axis to use for plotting the values of a series. Read/write 
 
 ## Syntax
 
-_expression_ . **PlotSeriesOn**
+_expression_.**PlotSeriesOn**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

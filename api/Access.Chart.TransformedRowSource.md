@@ -19,7 +19,7 @@ This string is generated from a combination of the **[RowSource](Access.Chart.Ro
 
 ## Syntax
 
-_expression_ . **TransformedRowSource**
+_expression_.**TransformedRowSource**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

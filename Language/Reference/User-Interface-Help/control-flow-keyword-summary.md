@@ -18,3 +18,6 @@ ms.date: 11/29/2018
 |Make decisions|[Choose](choose-function.md), [If...Then...Else](ifthenelse-statement.md), [Select Case](select-case-statement.md), [Switch](switch-function.md)|
 |Use procedures|[Call](call-statement.md), [Function](function-statement.md), [Property Get](property-get-statement.md), [Property Let](property-let-statement.md), [Property Set](property-set-statement.md), [Sub](sub-statement.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)

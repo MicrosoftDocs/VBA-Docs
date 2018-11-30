@@ -22,7 +22,7 @@ A **Report** object is a member of the **Reports** collection, which is a collec
 
 
 
-|**Syntax**|**Example**|
+|Syntax|Example|
 |:-----|:-----|
 |**Reports** ! _reportname_|Reports!OrderReport|
 |**Reports** ![ _report name_]|Reports![Order Report]|

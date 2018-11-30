@@ -17,7 +17,7 @@ Returns or sets the subtitle for the specified chart. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **ChartSubtitle**
+_expression_.**ChartSubtitle**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

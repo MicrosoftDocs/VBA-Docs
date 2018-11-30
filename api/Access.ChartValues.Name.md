@@ -16,7 +16,7 @@ Returns the name of a **ChartValues** instance based on its associated field. Re
 
 ## Syntax
 
-_expression_ . **Name**
+_expression_.**Name**
 
 _expression_ A variable that represents a **[ChartValues](Access.ChartValues.md)** object.
 

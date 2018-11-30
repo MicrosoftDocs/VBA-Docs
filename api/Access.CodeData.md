@@ -37,7 +37,7 @@ For example, an  **AccessObject** representing a table is a member of the **AllT
 
 
 
-|**Syntax**|**Example**|
+|Syntax|Example|
 |:-----|:-----|
 |**AllTables** ! _tablename_|AllTables!OrderTable|
 |**AllTables** ![ _table name_]|AllTables![Order Table]|

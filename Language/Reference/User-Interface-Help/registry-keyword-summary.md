@@ -16,3 +16,6 @@ ms.date: 11/29/2018
 |Read program settings.|[GetSetting](getsetting-function.md), [GetAllSettings](getallsettings-function.md)|
 |Save program settings.|[SaveSetting](savesetting-statement.md)|
 
+## See also
+
+- [Keywords by task](keywords-by-task.md)

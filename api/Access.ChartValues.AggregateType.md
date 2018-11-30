@@ -17,7 +17,7 @@ Returns or sets the behavior for aggregating values. Read/write **[AcAggregateTy
 
 ## Syntax
 
-_expression_ . **AggregateType**
+_expression_.**AggregateType**
 
 _expression_ A variable that represents a **[ChartValues](Access.ChartValues.md)** object.
 

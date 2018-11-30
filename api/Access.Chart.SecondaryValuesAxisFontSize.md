@@ -17,7 +17,7 @@ Returns or sets the font size used by the secondary values axis. Read/write **In
 
 ## Syntax
 
-_expression_ . **SecondaryValuesAxisFontSize**
+_expression_.**SecondaryValuesAxisFontSize**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

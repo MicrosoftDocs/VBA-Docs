@@ -17,7 +17,7 @@ Returns or sets the maximum value that can be represented on the primary values 
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisMaximum**
+_expression_.**PrimaryValuesAxisMaximum**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

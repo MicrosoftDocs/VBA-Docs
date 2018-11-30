@@ -17,7 +17,7 @@ Returns or sets the legend display name of a series. Read/write **String**.
 
 ## Syntax
 
-_expression_ . **DisplayName**
+_expression_.**DisplayName**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

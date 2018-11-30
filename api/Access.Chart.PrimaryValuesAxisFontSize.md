@@ -17,7 +17,7 @@ Returns or sets the font size used by the primary values axis. Read/write **Inte
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisFontSize**
+_expression_.**PrimaryValuesAxisFontSize**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

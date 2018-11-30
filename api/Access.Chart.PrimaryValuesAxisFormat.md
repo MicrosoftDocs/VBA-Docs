@@ -19,7 +19,7 @@ You can use a [predefined or custom format](Access.format.propertynumber.and.cur
 
 ## Syntax
 
-_expression_ . **PrimaryValuesAxisFormat**
+_expression_.**PrimaryValuesAxisFormat**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

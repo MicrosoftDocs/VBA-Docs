@@ -17,7 +17,7 @@ Returns or sets the name of the table/query that supplies data for the chart. Re
 
 ## Syntax
 
-_expression_ . **RowSource**
+_expression_.**RowSource**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the position of the legend for the specified chart. Read/write *
 
 ## Syntax
 
-_expression_ . **LegendPosition**
+_expression_.**LegendPosition**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

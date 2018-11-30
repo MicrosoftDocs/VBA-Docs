@@ -17,7 +17,7 @@ Returns or sets the semicolon-separated list of field(s) used to determine the d
 
 ## Syntax
 
-_expression_ . **ChartValues**
+_expression_.**ChartValues**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

@@ -17,7 +17,7 @@ Returns or sets the line dash style of a series when the effective **[ChartType]
 
 ## Syntax
 
-_expression_ . **DashType**
+_expression_.**DashType**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 

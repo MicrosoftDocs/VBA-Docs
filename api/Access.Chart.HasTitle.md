@@ -17,7 +17,7 @@ ms.date: 11/28/2018
 
 ## Syntax
 
-_expression_ . **HasTitle**
+_expression_.**HasTitle**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 

@@ -12,9 +12,11 @@ ms.date: 11/28/2018
     
 |Compiler directive|Action|
 |:-----------------|:-----|
-|[#Const directive](User-Interface-Help/const-directive.md) |Define compiler constant.|
-|[#If...Then...#Else directive](User-Interface-Help/ifthenelse-directive.md) |Compile selected blocks of code.|
+|[#Const directive](user-interface-help/const-directive.md) | Define compiler constant.|
+|[#If...Then...#Else directive](user-interface-help/ifthenelse-directive.md) | Compile selected blocks of code.|
+
 
 ## See also
 
-- [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)
+- [Keywords by task](user-interface-help/keywords-by-task.md)
+- [Visual Basic language reference](user-interface-help/visual-basic-language-reference.md)

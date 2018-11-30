@@ -19,7 +19,7 @@ You can use a **[system color constant](../language/reference/user-interface-hel
 
 ## Syntax
 
-_expression_ . **FillColor**
+_expression_.**FillColor**
 
 _expression_ A variable that represents a **[ChartSeries](Access.ChartSeries.md)** object.
 
