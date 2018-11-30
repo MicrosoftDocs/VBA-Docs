@@ -31,7 +31,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Optional|**AcObjectType**|A  **[AcObjectType](Access.AcObjectType.md)** constant that represents the type of object to close.|
 | _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument.|
-| _Save_|Optional|**AcCloseSave**|A  **[AcCloseSave](Access.AcCloseSave.md)** constant tha specifies whether or not to save changes to the object. The default value is **acSavePrompt**.|
+| _Save_|Optional|**AcCloseSave**|A  **[AcCloseSave](Access.AcCloseSave.md)** constant that specifies whether or not to save changes to the object. The default value is **acSavePrompt**.|
 
 ## Remarks
 
