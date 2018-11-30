@@ -7,18 +7,18 @@ ms.prod: excel
 api_name:
 - Excel.Interior.ThemeColor
 ms.assetid: 52c0f8a9-2cfb-1fb9-4949-dcc031ac78d8
-ms.date: 06/08/2017
+ms.date: 11/29/2018
 ---
 
 
 # Interior.ThemeColor property (Excel)
 
-Returns or sets a **Variant** value, containing an **[xlThemeColor](Excel.XlThemeColor.md)** constant, that represents the color.
+Returns or sets a **Variant** value, containing an **[xlThemeColor](Excel.XlThemeColor.md)** constant, that represents the color. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `ThemeColor`
+_expression_.**ThemeColor**
 
 _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
@@ -30,5 +30,5 @@ Attempting to access a theme color for an object whose color is not currently th
 
 ## See also
 
-[Interior Object](Excel.Interior(object).md)
+- [Interior object](Excel.Interior(object).md)
 
