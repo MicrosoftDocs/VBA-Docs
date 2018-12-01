@@ -12,8 +12,8 @@ ms.date: 11/28/2018
     
 |Compiler directive|Action|
 |:-----------------|:-----|
-|[#Const directive](user-interface-help/const-directive.md) | Define compiler constant.|
-|[#If...Then...#Else directive](user-interface-help/ifthenelse-directive.md) | Compile selected blocks of code.|
+|[Const directive](user-interface-help/const-directive.md) | Define compiler constant.|
+|[If...Then...Else directive](user-interface-help/ifthenelse-directive.md) | Compile selected blocks of code.|
 
 
 ## See also
