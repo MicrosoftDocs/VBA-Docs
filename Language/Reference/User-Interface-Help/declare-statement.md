@@ -1,5 +1,5 @@
 ---
-title: Declare statement
+title: Declare statement (VBA)
 keywords: vblr6.chm1008781
 f1_keywords:
 - vblr6.chm1008781

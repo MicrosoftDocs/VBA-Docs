@@ -1,5 +1,5 @@
 ---
-title: Event statement
+title: Event statement (VBA)
 keywords: vblr6.chm1103515
 f1_keywords:
 - vblr6.chm1103515

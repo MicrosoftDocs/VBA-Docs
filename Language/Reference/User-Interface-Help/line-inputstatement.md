@@ -1,24 +1,23 @@
 ---
-title: Line Input  Statement
+title: Line Input statement (VBA)
 keywords: vblr6.chm1008962
 f1_keywords:
 - vblr6.chm1008962
 ms.prod: office
 ms.assetid: 30cfc57e-0d28-b53e-c5cd-0ed99957e25d
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
-# Line Input # Statement
+# Line Input # statement
 
 Reads a single line from an open sequential file and assigns it to a [String](../../Glossary/vbe-glossary.md#string-data-type) [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 
-**Line Input #**_filenumber_, _varname_
+**Line Input** #_filenumber_, _varname_
 
-The  **Line Input #** statement syntax has these parts:
-
+The **Line Input #** statement syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -27,12 +26,13 @@ The  **Line Input #** statement syntax has these parts:
 
 ## Remarks
 
-Data read with  **Line Input #** is usually written from a file with **Print #**.
-The  **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr(** 13 **)**) or carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
+Data read with **Line Input #** is usually written from a file with **Print #**.
+
+The **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr(** 13 **)**) or carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
 
 ## Example
 
-This example uses the  **Line Input #** statement to read a line from a sequential file and assign it to a variable. This example assumes that is a text file with a few lines of sample data.
+This example uses the **Line Input #** statement to read a line from a sequential file and assign it to a variable. This example assumes that the file is a text file with a few lines of sample data.
 
 
 ```vb
@@ -46,4 +46,7 @@ Close #1 ' Close file.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

@@ -1,5 +1,5 @@
 ---
-title: Error statement
+title: Error statement (VBA)
 keywords: vblr6.chm1008913
 f1_keywords:
 - vblr6.chm1008913

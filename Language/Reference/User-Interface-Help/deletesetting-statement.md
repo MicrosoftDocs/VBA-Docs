@@ -1,5 +1,5 @@
 ---
-title: DeleteSetting statement
+title: DeleteSetting statement (VBA)
 keywords: vblr6.chm1020901
 f1_keywords:
 - vblr6.chm1020901

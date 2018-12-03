@@ -1,5 +1,5 @@
 ---
-title: Do...Loop statement
+title: Do...Loop statement (VBA)
 keywords: vblr6.chm1008790
 f1_keywords:
 - vblr6.chm1008790

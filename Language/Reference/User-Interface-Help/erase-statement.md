@@ -1,5 +1,5 @@
 ---
-title: Erase statement
+title: Erase statement (VBA)
 keywords: vblr6.chm1008910
 f1_keywords:
 - vblr6.chm1008910

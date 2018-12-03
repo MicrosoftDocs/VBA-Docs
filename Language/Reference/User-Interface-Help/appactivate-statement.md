@@ -1,5 +1,5 @@
 ---
-title: AppActivate statement
+title: AppActivate statement (VBA)
 keywords: vblr6.chm1008855
 f1_keywords:
 - vblr6.chm1008855

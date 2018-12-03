@@ -1,5 +1,5 @@
 ---
-title: ChDir statement
+title: ChDir statement (VBA)
 keywords: vblr6.chm1008864
 f1_keywords:
 - vblr6.chm1008864

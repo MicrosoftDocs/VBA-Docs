@@ -1,5 +1,5 @@
 ---
-title: Enum statement
+title: Enum statement (VBA)
 keywords: vblr6.chm1103514
 f1_keywords:
 - vblr6.chm1103514

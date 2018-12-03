@@ -1,5 +1,5 @@
 ---
-title: Type Statement
+title: Type Statement (VBA)
 keywords: vblr6.chm1009049
 f1_keywords:
 - vblr6.chm1009049

@@ -1,5 +1,5 @@
 ---
-title: Deftype statements
+title: Deftype statements (VBA)
 keywords: vblr6.chm1008787
 f1_keywords:
 - vblr6.chm1008787

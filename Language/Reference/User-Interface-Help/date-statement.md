@@ -1,5 +1,5 @@
 ---
-title: Date statement
+title: Date statement (VBA)
 keywords: vblr6.chm1008887
 f1_keywords:
 - vblr6.chm1008887

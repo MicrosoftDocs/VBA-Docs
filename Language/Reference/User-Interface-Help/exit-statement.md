@@ -1,5 +1,5 @@
 ---
-title: Exit statement
+title: Exit statement (VBA)
 keywords: vblr6.chm1008916
 f1_keywords:
 - vblr6.chm1008916

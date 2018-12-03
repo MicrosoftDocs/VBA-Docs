@@ -1,11 +1,11 @@
 ---
-title: If...Then...Else statement
+title: If...Then...Else statement (VBA)
 keywords: vblr6.chm1008940
 f1_keywords:
 - vblr6.chm1008940
 ms.prod: office
 ms.assetid: 53514f63-ec20-27bf-2b61-5706540a4999
-ms.date: 08/24/2018
+ms.date: 12/03/2018
 ---
 
 
@@ -29,10 +29,9 @@ Or, you can use the block form syntax:
 
 The **If...Then...Else** statement syntax has these parts.
 
-
 |Part|Description|
 |:-----|:-----|
-| _condition_|Required. One or more of the following two types of expressions: <br/><br/>A numeric expression or string expression that evaluates to **True** or **False**. If _condition_ is Null, _condition_ is treated as **False**.<br/><br/>An expression of the form **TypeOf** _objectname_ **Is** _objecttype_. The _objectname_ is any object reference and _objecttype_ is any valid object type.  The expression is **True** if _objectname_ is of the object type specified by _objecttype_; otherwise it is **False**.| 
+| _condition_|Required. One or more of the following two types of expressions: <br/><br/>A numeric expression or string expression that evaluates to **True** or **False**. If _condition_ is Null, _condition_ is treated as **False**.<br/><br/>An expression of the form **TypeOf** _objectname_ **Is** _objecttype_. The _objectname_ is any object reference, and _objecttype_ is any valid object type.  The expression is **True** if _objectname_ is of the object type specified by _objecttype_; otherwise it is **False**.| 
 | _statements_|Optional in block form; required in single-line form that has no **Else** clause. One or more statements separated by colons; executed if _condition_ is **True**.|
 | _condition-n_|Optional. Same as  _condition_.|
 | _elseifstatements_|Optional. One or more statements executed if associated  _condition-n_ is **True**.|
@@ -88,7 +87,9 @@ If Digits = 1 Then MyString = "One" Else MyString = "More than one"
 
 ```
 
-Use **If TypeOf** construct to determine whether the Control passed into a procedure is a text box.
+<br/>
+
+Use the **If TypeOf** construct to determine whether the Control passed into a procedure is a text box.
 
 ```vb
 Sub ControlProcessor(MyControl As Control) 
@@ -104,6 +105,9 @@ End Sub
 
 ## See also
 
+- [If...Then...Else directive](ifthenelse-directive.md)
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 
 

@@ -1,24 +1,23 @@
 ---
-title: Get Statement
+title: Get statement (VBA)
 keywords: vblr6.chm1008928
 f1_keywords:
 - vblr6.chm1008928
 ms.prod: office
 ms.assetid: 73b44467-c9e6-3cd4-8d35-b2c19176bf80
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
-# Get Statement
+# Get statement
 
 Reads data from an open disk file into a [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 
-**Get** [ **#** ] _filenumber_**,** [ _recnumber_ ] **,**_varname_
+**Get** [ # ] _filenumber_, [ _recnumber_ ], _varname_
 
 The **Get** statement syntax has these parts:
-
 
 |Part|Description|
 |:-----|:-----|
@@ -28,7 +27,7 @@ The **Get** statement syntax has these parts:
 
 ## Remarks
 
-Data read with **Get** is usually written to a file with **Put**. The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit  _recnumber_, the next record or byte following the last **Get** or **Put** [statement](../../Glossary/vbe-glossary.md#statement) (or pointed to by the last **Seek** function) is read. You must include delimiting commas, for example:
+Data read with **Get** is usually written to a file with **[Put](put-statement.md)**. The first record or byte in a file is at position 1, the second record or byte is at position 2, and so on. If you omit _recnumber_, the next record or byte following the last **Get** or **Put** [statement](../../Glossary/vbe-glossary.md#statement) (or pointed to by the last **Seek** function) is read. You must include delimiting commas, for example:
 
 ```vb
 Get #4,,FileBuffer 
@@ -37,7 +36,7 @@ Get #4,,FileBuffer
 
 For files opened in **Random** mode, the following rules apply:
 
-- If the length of the data being read is less than the length specified in the **Len** clause of the **Open** statement, **Get** reads subsequent records on record-length boundaries. The space between the end of one record and the beginning of the next record is padded with the existing contents of the file buffer. Because the amount of padding data can't be determined with any certainty, it is generally a good idea to have the record length match the length of the data being read.
+- If the length of the data being read is less than the length specified in the **Len** clause of the **[Open](open-statement.md)** statement, **Get** reads subsequent records on record-length boundaries. The space between the end of one record and the beginning of the next record is padded with the existing contents of the file buffer. Because the amount of padding data can't be determined with any certainty, it is generally a good idea to have the record length match the length of the data being read.
     
 - If the variable being read into is a variable-length string, **Get** reads a 2-byte descriptor containing the string length and then reads the data that goes into the variable. Therefore, the record length specified by the **Len** clause in the **Open** statement must be at least 2 bytes greater than the actual length of the string.
     
@@ -101,3 +100,7 @@ Close #1 ' Close file.
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

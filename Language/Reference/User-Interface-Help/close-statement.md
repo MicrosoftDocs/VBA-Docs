@@ -1,5 +1,5 @@
 ---
-title: Close statement
+title: Close statement (VBA)
 keywords: vblr6.chm1008872
 f1_keywords:
 - vblr6.chm1008872

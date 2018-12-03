@@ -1,5 +1,5 @@
 ---
-title: Beep statement
+title: Beep statement (VBA)
 keywords: vblr6.chm1008861
 f1_keywords:
 - vblr6.chm1008861
