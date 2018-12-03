@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008790
 ms.prod: office
 ms.assetid: f1ac3901-238d-3e38-45dc-f659fd88c23b
-ms.date: 08/20/2018
+ms.date: 12/03/2018
 ---
 
 
@@ -44,7 +44,7 @@ When used within nested **Do…Loop** statements, **Exit Do** transfers control 
 
 ## Example
 
-This example shows how **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, asks the user if it should keep going, sets the value of the flag to **False** when they select **No**, and exits prematurely using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
+This example shows how **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, asks the user if it should keep going, sets the value of the flag to **False** when they select **No**, and exits prematurely by using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
 
 
 ```vb

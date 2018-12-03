@@ -16,8 +16,8 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a 
 ## Syntax
 
 [ **Private** | **Public** ] **Type** _varname_  
- _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_  
- [ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_ ]  
+ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As**_type_  
+ [ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As**_type_ ]  
  **. . .**  
 
  **End Type**  
