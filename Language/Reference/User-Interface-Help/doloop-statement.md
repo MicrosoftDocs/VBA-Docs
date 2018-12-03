@@ -38,7 +38,7 @@ The **Do Loop** statement syntax has these parts:
 
 ## Remarks
 
-Any number of **Exit Do** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
+Any number of **[Exit Do](exit-statement.md)** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
 
 When used within nested **Do…Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.
 
@@ -65,3 +65,8 @@ Public Sub LoopExample()
     MsgBox "Counted to: " & Total
 End Sub
 ```
+
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

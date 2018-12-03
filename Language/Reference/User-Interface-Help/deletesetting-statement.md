@@ -42,4 +42,7 @@ SaveSetting "MyApp", "Startup", "Left", 50
 DeleteSetting "MyApp", "Startup"
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

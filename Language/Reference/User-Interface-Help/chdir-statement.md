@@ -72,4 +72,5 @@ ChDir "D:\WINDOWS\SYSTEM"
 - [CurDir function](curdir-function.md)
 - [MkDir statement](mkdir-statement.md)
 - [RmDir statement](rmdir-statement.md)
-
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

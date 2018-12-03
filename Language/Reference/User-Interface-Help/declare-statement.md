@@ -36,7 +36,7 @@ Declare Sub...
 VBA7 **Declare** statement syntax
 
 > [!NOTE] 
-> For code to run in 64-bit versions of Microsoft Office, all **Declare** statements must include the **PtrSafe** keyword, and all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities must be updated to use [LongLong](longlong-data-type.md) for 64-bit integrals or [LongPtr](longptr-data-type.md) for pointers and handles.
+> For code to run in 64-bit versions of Microsoft Office, all **Declare** statements must include the **PtrSafe** keyword, and all data types in the **Declare** statement (parameters and return values) that need to store 64-bit quantities must be updated to use **LongLong** for 64-bit integrals or **LongPtr** for pointers and handles.
 
 **Syntax 1 (Sub)**
 
@@ -52,7 +52,7 @@ VBA7 **Declare** statement syntax
 |**Public**|Optional. Used to declare procedures that are available to all other procedures in all [modules](../../Glossary/vbe-glossary.md#module).|
 |**Private**|Optional. Used to declare procedures that are available only within the module where the [declaration](../../Glossary/vbe-glossary.md#declaration) is made.|
 |**PtrSafe**|Required on 64-bit. The **[PtrSafe](ptrsafe-keyword.md)** keyword asserts that a **Declare** statement is safe to run in 64-bit versions of Microsoft Office.|
-|**Sub**|Optional (either **Sub** or **Function** must appear). Indicates that the procedure doesn't return a value.|
+|**Sub**|Optional (either **[Sub](sub-statement.md)** or **[Function](function-statement.md)** must appear). Indicates that the procedure doesn't return a value.|
 |**Function**|Optional (either **Sub** or **Function** must appear). Indicates that the procedure returns a value that can be used in an [expression](../../Glossary/vbe-glossary.md#expression).|
 | _name_|Required. Any valid procedure name. Note that DLL entry points are case-sensitive.|
 |**Lib**|Required. Indicates that a DLL or code resource contains the procedure being declared. The **Lib** clause is required for all declarations.|
@@ -141,3 +141,4 @@ Declare PtrSafe Function GetActiveWindow Lib "User32" () As LongPtr
 ## See also
 
 - [Data types](data-type-summary.md)
+- [Statements](../statements.md)

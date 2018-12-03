@@ -52,4 +52,7 @@ AppActivate ReturnValue ' Activate Microsoft
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

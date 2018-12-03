@@ -61,7 +61,7 @@ The statement name determines the data type.
 
 A **Def**_type_ statement affects only the [module](../../Glossary/vbe-glossary.md#module) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property Get** procedures is **Variant**.
 
-When you specify a letter range, it usually defines the data type for variables that begin with letters in the [first 128 characters of the character set](../../reference/user-interface-help/character-set-0127.md). However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the [extended part of the character set (128-255)](../../reference/user-interface-help/character-set-128255/md).
+When you specify a letter range, it usually defines the data type for variables that begin with letters in the [first 128 characters of the character set](../../reference/user-interface-help/character-set-0127.md). However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the [extended part of the character set (128-255)](../../reference/user-interface-help/character-set-128255.md).
 
 After the range A-Z has been specified, you can't further redefine any subranges of variables by using **Def**_type_ statements. After a range has been specified, if you include a previously defined letter in another **Def**_type_ statement, an error occurs. However, you can explicitly specify the data type of any variable, defined or not, by using a **[Dim](../../reference/user-interface-help/dim-statement.md)** statement with an **As**_type_ clause. 
 
@@ -79,3 +79,4 @@ This example shows various uses of the **Def**_type_ statements to set default d
 ## See also
 
 - [Data types](../../reference/user-interface-help/data-type-summary.md)
+- [Statements](../../reference/statements.md)

@@ -31,4 +31,7 @@ Date= MyDate ' Change system date.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

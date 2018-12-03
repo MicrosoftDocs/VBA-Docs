@@ -22,7 +22,7 @@ Enables an error-handling routine and specifies the location of the routine with
 
 The **On Error** statement syntax can have any of the following forms:
 
-|**Statement**|**Description**|
+|Statement|Description|
 |:-----|:-----|
 |**On Error GoTo** _line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The  _line_ argument is any [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number). If a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs, control branches to _line_, making the error handler active. The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error occurs.|
 |**On Error Resume Next**|Specifies that when a run-time error occurs, control goes to the [statement](../../Glossary/vbe-glossary.md#statement) immediately following the statement where the error occurred and execution continues. Use this form rather than **On Error GoTo** when accessing objects.|

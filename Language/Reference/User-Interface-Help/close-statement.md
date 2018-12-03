@@ -11,7 +11,7 @@ ms.date: 12/03/2018
 
 # Close statement
 
-Concludes input/output (I/O) to a file opened by using the **Open** statement.
+Concludes input/output (I/O) to a file opened by using the **[Open](open-statement.md)** statement.
 
 ## Syntax
 
@@ -44,4 +44,7 @@ Close ' Close all 3 open files.
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

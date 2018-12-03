@@ -40,7 +40,7 @@ You can't use variables, user-defined functions, or intrinsic Visual Basic funct
 
 If you don't explicitly declare the constant type by using **As**_type_, the constant has the data type that is most appropriate for _expression_.
 
-Constants declared in a **Sub**, **Function**, or **Property** procedure are local to that procedure. A constant declared outside a procedure is defined throughout the module in which it is declared. You can use constants anywhere you can use an expression.
+Constants declared in a **[Sub](sub-statement.md)**, **[Function](function-statement.md)**, or **Property** procedure are local to that procedure. A constant declared outside a procedure is defined throughout the module in which it is declared. You can use constants anywhere you can use an expression.
 
 ## Example
 
@@ -66,3 +66,4 @@ Const MyStr = "Hello", MyDouble As Double = 3.4567
 
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)
+- [Statements](../statements.md)

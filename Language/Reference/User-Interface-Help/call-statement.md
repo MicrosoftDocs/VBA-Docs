@@ -11,7 +11,7 @@ ms.date: 12/03/2018
 
 # Call statement
 
-Transfers control to a **Sub** [procedure](../../Glossary/vbe-glossary.md#procedure), **Function** procedure, or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) procedure.
+Transfers control to a **[Sub](sub-statement.md)** [procedure](../../Glossary/vbe-glossary.md#procedure), **[Function](function-statement.md)** procedure, or [dynamic-link library (DLL)](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) procedure.
 
 ## Syntax
 
@@ -59,4 +59,7 @@ Sub CallMyDll()
 End Sub
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
