@@ -843,6 +843,162 @@
           {
             "source_path": "language/reference/keyword-summaries.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/keywords-by-task"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/as-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/binary-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/byref-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/byval-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/date-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/else-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/empty-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/error-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/false-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/for-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/get-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/input-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/is-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/len-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/let-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/lock-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mid-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/new-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/next-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/null-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/on-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/option-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/optional-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/paramarray-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/print-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/private-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/property-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/public-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/resume-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/seek-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/set-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/static-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/step-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/string-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/then-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/time-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/to-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/true-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/withevents-keyword.md",
+            "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
           }
     ]
 }

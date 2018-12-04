@@ -25,7 +25,7 @@ The required _procedurename_ is the name of the procedure to be made visible thr
 
 **Friend** makes the procedure visible throughout the project, but not to a controller of an instance of the object. **Friend** can appear only in form modules and class modules, and can only modify procedure names, not [variables](../../Glossary/vbe-glossary.md#variable) or types. Procedures in a class can access the **Friend** procedures of all other classes in a project. **Friend** procedures don't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of their class. A **Friend** procedure can't be late bound.
 
-## Friend example
+## Example
 
 When placed in a class module, the following code makes the member variable dblBalance accessible to all users of the class within the project. Any user of the class can get the value; only code within the project can assign a value to that variable.
 
