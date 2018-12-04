@@ -13,8 +13,5 @@ ms.date: 12/03/2018
 
 The **Input** keyword is used in these contexts:
 
-- [Input function](input-function.md)
-- [Input # statement](inputstatement.md)
-- [Line Input # statement](line-inputstatement.md)
-- [Open statement](open-statement.md)
+[Input function](input-function.md)<br/>[Input # statement](inputstatement.md)<br/>[Line Input # statement](line-inputstatement.md)<br/>[Open statement](open-statement.md)<br/>
 

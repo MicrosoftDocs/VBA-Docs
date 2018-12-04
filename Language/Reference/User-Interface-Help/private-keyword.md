@@ -13,17 +13,5 @@ ms.date: 06/08/2017
 
 The  **Private** keyword is used in these contexts:
 
-[Const Statement](const-statement.md)
-
-[Declare Statement](declare-statement.md)
-
-[Enum Statement](enum-statement.md)
-[Function Statement](function-statement.md)
-[Option Private Statement](option-private-statement.md)
-[Private Statement](private-statement.md)
-[Property Get Statement](property-get-statement.md)
-[Property Let Statement](property-let-statement.md)
-[Property Set Statement](property-set-statement.md)
-[Sub Statement](sub-statement.md)
-[Type Statement](type-statement.md)
+[Const Statement](const-statement.md)<br/>[Declare Statement](declare-statement.md)<br/>[Enum Statement](enum-statement.md)<br/>[Function Statement](function-statement.md)<br/>[Option Private Statement](option-private-statement.md)<br/>[Private Statement](private-statement.md)<br/>[Property Get Statement](property-get-statement.md)<br/>[Property Let Statement](property-let-statement.md)<br/>[Property Set Statement](property-set-statement.md)<br/>[Sub Statement](sub-statement.md)<br/>[Type Statement](type-statement.md)<br/>
 

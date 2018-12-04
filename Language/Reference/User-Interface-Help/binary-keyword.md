@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Binary** keyword is used in these contexts:
 
-[Open Statement](open-statement.md)
-
-[Option Compare Statement](option-compare-statement.md)
+[Open Statement](open-statement.md)<br/>[Option Compare Statement](option-compare-statement.md)<br/>
 
 

@@ -13,10 +13,5 @@ ms.date: 06/08/2017
 
 The  **Option** keyword is used in these contexts:
 
-[Option Base Statement](option-base-statement.md)
-
-[Option Compare Statement](option-compare-statement.md)
-
-[Option Explicit Statement](option-explicit-statement.md)
-[Option Private Statement](option-private-statement.md)
+[Option Base Statement](option-base-statement.md)<br/>[Option Compare Statement](option-compare-statement.md)<br/>[Option Explicit Statement](option-explicit-statement.md)<br/>[Option Private Statement](option-private-statement.md)<br/>
 

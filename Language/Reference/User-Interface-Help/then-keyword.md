@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Then** keyword is used in these contexts:
 
-[#If...Then...#Else Directive](ifthenelse-directive.md)
-
-[If...Then...Else Statement](ifthenelse-statement.md)
+[#If...Then...#Else Directive](ifthenelse-directive.md)<br/>[If...Then...Else Statement](ifthenelse-statement.md)<br/>
 
 

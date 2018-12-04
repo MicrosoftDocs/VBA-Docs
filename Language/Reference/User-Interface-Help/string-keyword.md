@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **String** keyword is used in these contexts:
 
-[String Data Type](string-data-type.md)
-
-[String Function](string-function.md)
+[String Data Type](string-data-type.md)<br/>[String Function](string-function.md)<br/>
 
 

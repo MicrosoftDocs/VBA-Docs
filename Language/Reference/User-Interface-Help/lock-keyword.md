@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Lock** keyword is used in these contexts:
 
-[Lock, Unlock Statements](lock-unlock-statements.md)
-
-[Open Statement](open-statement.md)
+[Lock, Unlock Statements](lock-unlock-statements.md)<br/>[Open Statement](open-statement.md)<br/>
 
 

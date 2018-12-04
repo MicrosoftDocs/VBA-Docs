@@ -13,7 +13,6 @@ ms.date: 12/03/2018
 
 The **Len** keyword is used in these contexts:
 
-- [Len function](len-function.md)
-- [Open statement](open-statement.md)
+[Len function](len-function.md)<br/>[Open statement](open-statement.md)<br/>
 
 

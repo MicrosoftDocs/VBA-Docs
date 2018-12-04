@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 The  **Is** keyword is used in these contexts:
 
-[If...Then...Else Statement](ifthenelse-statement.md)
-
-[Is Operator](is-operator.md)
-
-[Select Case Statement](select-case-statement.md)
+[If...Then...Else Statement](ifthenelse-statement.md)<br/>[Is Operator](is-operator.md)<br/>[Select Case Statement](select-case-statement.md)<br/>
 

@@ -10,9 +10,5 @@ ms.date: 06/08/2017
 
 The  **WithEvents** keyword is used in these contexts:
 
-[Dim Statement](dim-statement.md)
-
-[Private Statement](private-statement.md)
-
-[Public Statement](public-statement.md)
+[Dim Statement](dim-statement.md)<br/>[Private Statement](private-statement.md)<br/>[Public Statement](public-statement.md)<br/>
 

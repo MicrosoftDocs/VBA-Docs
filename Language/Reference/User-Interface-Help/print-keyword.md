@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Print** keyword is used in these contexts:
 
-[Print Method](print-method.md)
-
-[Print # Statement](printstatement.md)
+[Print Method](print-method.md)<br/>[Print # Statement](printstatement.md)<br/>
 
 

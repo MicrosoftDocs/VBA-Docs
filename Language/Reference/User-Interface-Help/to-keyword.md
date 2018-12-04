@@ -13,15 +13,5 @@ ms.date: 06/08/2017
 
 The  **To** keyword is used in these contexts:
 
-[Dim Statement](dim-statement.md)
-
-[For...Next Statement](fornext-statement.md)
-
-[Lock, Unlock Statements](lock-unlock-statements.md)
-[Private Statement](private-statement.md)
-[Public Statement](public-statement.md)
-[ReDim Statement](redim-statement.md)
-[Select Case Statement](select-case-statement.md)
-[Static Statement](static-statement.md)
-[Type Statement](type-statement.md)
+[Dim Statement](dim-statement.md)<br/>[For...Next Statement](fornext-statement.md)<br/>[Lock, Unlock Statements](lock-unlock-statements.md)<br/>[Private Statement](private-statement.md)<br/>[Public Statement](public-statement.md)<br/>[ReDim Statement](redim-statement.md)<br/>[Select Case Statement](select-case-statement.md)<br/>[Static Statement](static-statement.md)<br/>[Type Statement](type-statement.md)<br/>
 

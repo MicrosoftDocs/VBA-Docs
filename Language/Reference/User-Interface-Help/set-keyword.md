@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Set** keyword is used in these contexts:
 
-[Set Statement](set-statement.md)
-
-[Property Set Statement](property-set-statement.md)
+[Set Statement](set-statement.md)<br/>[Property Set Statement](property-set-statement.md)<br/>
 
 

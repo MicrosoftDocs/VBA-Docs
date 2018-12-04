@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 The  **Error** keyword is used in these contexts:
 
-[Error Function](error-function.md)
-
-[Error Statement](error-statement.md)
-
-[On Error Statement](on-error-statement.md)
+[Error Function](error-function.md)<br/>[Error Statement](error-statement.md)<br/>[On Error Statement](on-error-statement.md)<br/>
 

@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Get** keyword is used in these contexts:
 
-[Get Statement](get-statement.md)
-
-[Property Get Statement](property-get-statement.md)
+[Get Statement](get-statement.md)<br/>[Property Get Statement](property-get-statement.md)<br/>
 
 

@@ -13,10 +13,5 @@ ms.date: 06/08/2017
 
 The  **Next** keyword is used in these contexts:
 
-[For...Next Statement](fornext-statement.md)
-
-[For Each...Next Statement](for-eachnext-statement.md)
-
-[On Error Statement](on-error-statement.md)
-[Resume Statement](resume-statement.md)
+[For...Next Statement](fornext-statement.md)<br/>[For Each...Next Statement](for-eachnext-statement.md)<br/>[On Error Statement](on-error-statement.md)<br/>[Resume Statement](resume-statement.md)<br/>
 

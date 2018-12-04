@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 The  **Property** keyword is used in these contexts:
 
-[Property Get Statement](property-get-statement.md)
-
-[Property Let Statement](property-let-statement.md)
-
-[Property Set Statement](property-set-statement.md)
+[Property Get Statement](property-get-statement.md)<br/>[Property Let Statement](property-let-statement.md)<br/>[Property Set Statement](property-set-statement.md)<br/>
 

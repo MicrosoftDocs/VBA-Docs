@@ -13,7 +13,6 @@ ms.date: 12/03/2018
 
 The **Let** keyword is used in these contexts:
 
-- [Let statement](let-statement.md)
-- [Property Let statement](property-let-statement.md)
+[Let statement](let-statement.md)<br/>[Property Let statement](property-let-statement.md)<br/>
 
 
