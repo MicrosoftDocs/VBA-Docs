@@ -8,7 +8,6 @@ ms.date: 12/03/2018
 
 # Keywords (Visual Basic for Applications)
 
-For a table of keywords sorted by task, see [Keywords by task](user-interface-help/keywords-by-task.md).
 
 |Keyword |Used in these contexts|
 |:-------|:---------------------|
@@ -49,7 +48,7 @@ For a table of keywords sorted by task, see [Keywords by task](user-interface-he
 |Set  |[Set statement](user-interface-help/set-statement.md)<br/>[Property Set statement](user-interface-help/property-set-statement.md)<br/>|
 |Static  |[Function statement](user-interface-help/function-statement.md)<br/>[Property Get statement](user-interface-help/property-get-statement.md)<br/>[Property Let statement](user-interface-help/property-let-statement.md)<br/>[Property Set statement](user-interface-help/property-set-statement.md)<br/>[Static statement](user-interface-help/static-statement.md)<br/>[Sub statement](user-interface-help/sub-statement.md)<br/>|
 |Step  |[For...Next statement](user-interface-help/fornext-statement.md)<br/>[For Each...Next statement](user-interface-help/for-eachnext-statement.md)<br/>|
-|String  |[String data type]((user-interface-help/string-data-type.md)<br/>[String function](user-interface-help/string-function.md)<br/>|
+|String  |[String data type](user-interface-help/string-data-type.md)<br/>[String function](user-interface-help/string-function.md)<br/>|
 |Then  |[If...Then...Else directive](user-interface-help/ifthenelse-directive.md)<br/>[If...Then...Else statement](user-interface-help/ifthenelse-statement.md)<br/>|
 |Time  |[Time function](user-interface-help/time-function.md)<br/>[Time statement](user-interface-help/time-statement.md)<br/>|
 |To  |[Dim statement](user-interface-help/dim-statement.md)<br/>[For...Next statement](user-interface-help/fornext-statement.md)<br/>[Lock, Unlock statements](user-interface-help/lock-unlock-statements.md)<br/>[Private statement](user-interface-help/private-statement.md)<br/>[Public statement](user-interface-help/public-statement.md)<br/>[ReDim statement](user-interface-help/redim-statement.md)<br/>[Select Case statement](user-interface-help/select-case-statement.md)<br/>[Static statement](user-interface-help/static-statement.md)<br/>[Type statement](user-interface-help/type-statement.md)<br/>|
@@ -58,3 +57,7 @@ For a table of keywords sorted by task, see [Keywords by task](user-interface-he
 
     
 
+## See also
+
+- [Keywords by task](user-interface-help/keywords-by-task.md)
+- [VBE Glossary](../glossary/vbe-glossary.md)
