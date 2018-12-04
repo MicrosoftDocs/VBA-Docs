@@ -59,21 +59,33 @@ The statement name determines the data type.
 
 <br/>
 
+For example, in the following program fragment, `Message` is a string variable:
+
+```vb
+DefStr A-Q
+. . .
+Message = "Out of stack space."
+```
+
 A **Def**_type_ statement affects only the [module](../../Glossary/vbe-glossary.md#module) where it is used. For example, a **DefInt** statement in one module affects only the default data type of variables, arguments passed to procedures, and the return type for **Function** and **Property Get** procedures declared in that module; the default data type of variables, arguments, and return types in other modules is unaffected. If not explicitly declared with a **Def**_type_ statement, the default data type for all variables, all arguments, all **Function** procedures, and all **Property Get** procedures is **Variant**.
 
 When you specify a letter range, it usually defines the data type for variables that begin with letters in the [first 128 characters of the character set](../../reference/user-interface-help/character-set-0127.md). However, when you specify the letter range A-Z, you set the default to the specified data type for all variables, including variables that begin with international characters from the [extended part of the character set (128-255)](../../reference/user-interface-help/character-set-128255.md).
 
 After the range A-Z has been specified, you can't further redefine any subranges of variables by using **Def**_type_ statements. After a range has been specified, if you include a previously defined letter in another **Def**_type_ statement, an error occurs. However, you can explicitly specify the data type of any variable, defined or not, by using a **[Dim](../../reference/user-interface-help/dim-statement.md)** statement with an **As**_type_ clause. 
 
-<!--[MISSING EXAMPLE CODE] For example, you can use the following code at the module level to define a variable as a **Double** even though the default data type is **Integer**: -->
+For example, you can use the following code at the module level to define a variable as a **Double** even though the default data type is **Integer**: 
+
+```vb
+DefInt A-Z
+Dim TaxRate As Double
+```
 
 **Def**_type_ statements don't affect elements of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type) because the elements must be explicitly declared.
 
-<!--[MISSING EXAMPLE CODE and SUBJECT] For example, in the following program fragment, is a string variable:-->
 
 <!--[MISSING EXAMPLE CODE] ## Example
 
-This example shows various uses of the **Def**_type_ statements to set default data types of variables and function procedures whose names start with specified characters. The default data type can be overridden only by explicit assignment by using the **Dim** statement. **Def**_type_ statements can only be used at the module level (that is, not within procedures).-->
+This example shows various uses of the **Def**_type_ statements to set default data types of variables and function procedures whose names start with specified characters. The default data type can be overridden only by explicit assignment by using the **Dim** statement. **Def**_type_ statements can only be used at the module level (that is, not within procedures).--> 
 
 
 ## See also
