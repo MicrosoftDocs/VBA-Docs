@@ -8,7 +8,6 @@ ms.date: 12/03/2018
 
 # Directives
 
-<br/>
 
 |Compiler directive|Action|
 |:-----------------|:-----|
