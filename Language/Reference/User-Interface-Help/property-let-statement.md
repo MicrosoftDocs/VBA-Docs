@@ -11,7 +11,7 @@ ms.date: 12/03/2018
 
 # Property Let statement
 
-Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and code that form the body of a **Property Let** [procedure](../../Glossary/vbe-glossary.md#procedure), which assigns a value to a [property](../../Glossary/vbe-glossary.md#property).
+Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and code that form the body of a **Property** [procedure](../../Glossary/vbe-glossary.md#procedure), which assigns a value to a [property](../../Glossary/vbe-glossary.md#property).
 
 ## Syntax
 
