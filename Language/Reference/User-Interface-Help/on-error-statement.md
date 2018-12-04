@@ -1,12 +1,13 @@
 ---
-title: On Error statement - VBA
+title: On Error statement (VBA)
 keywords: vblr6.chm1008985
 f1_keywords:
 - vblr6.chm1008985
 ms.prod: office
 ms.assetid: 5f723da4-34bd-0a29-11b6-f6986d701570
-ms.date: 08/24/2018
+ms.date: 12/03/2018
 ---
+
 # On Error statement
 
 Enables an error-handling routine and specifies the location of the routine within a [procedure](../../Glossary/vbe-glossary.md#procedure); can also be used to disable an error-handling routine.
@@ -14,17 +15,15 @@ Enables an error-handling routine and specifies the location of the routine with
 
 ## Syntax
 
-**On Error** **GoTo** _line_
-
-**On Error** **Resume Next** 
-
-**On Error** **GoTo** **0**
+**On Error GoTo** _line_ <br/>
+**On Error Resume Next** <br/> 
+**On Error GoTo 0**
 
 The **On Error** statement syntax can have any of the following forms:
 
 |Statement|Description|
 |:-----|:-----|
-|**On Error GoTo** _line_|Enables the error-handling routine that starts at  _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The  _line_ argument is any [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number). If a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs, control branches to _line_, making the error handler active. The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error occurs.|
+|**On Error GoTo** _line_|Enables the error-handling routine that starts at _line_ specified in the required _line_ [argument](../../Glossary/vbe-glossary.md#argument). The _line_ argument is any [line label](../../Glossary/vbe-glossary.md#line-label) or [line number](../../Glossary/vbe-glossary.md#line-number). If a [run-time error](../../Glossary/vbe-glossary.md#run-time-error) occurs, control branches to _line_, making the error handler active. The specified _line_ must be in the same procedure as the **On Error** statement; otherwise, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error occurs.|
 |**On Error Resume Next**|Specifies that when a run-time error occurs, control goes to the [statement](../../Glossary/vbe-glossary.md#statement) immediately following the statement where the error occurred and execution continues. Use this form rather than **On Error GoTo** when accessing objects.|
 |**On Error GoTo 0**|Disables any enabled error handler in the current procedure.|
 
@@ -33,16 +32,16 @@ The **On Error** statement syntax can have any of the following forms:
 
 If you don't use an **On Error** statement, any run-time error that occurs is fatal; that is, an error message is displayed and execution stops.
 
-An "enabled" error handler is one that is turned on by an **On Error** statement; an "active" error handler is an enabled handler that is in the process of handling an error. If an error occurs while an error handler is active (between the occurrence of the error and a **Resume**, **Exit Sub**, **Exit Function**, or **Exit Property** statement), the current procedure's error handler can't handle the error. Control returns to the calling procedure. 
+An "enabled" error handler is one that is turned on by an **On Error** statement; an "active" error handler is an enabled handler that is in the process of handling an error. If an error occurs while an error handler is active (between the occurrence of the error and a **[Resume](resume-statement.md)**, **[Exit Sub](exit-statement.md)**, **Exit Function**, or **Exit Property** statement), the current procedure's error handler can't handle the error. Control returns to the calling procedure. 
 
 If the calling procedure has an enabled error handler, it is activated to handle the error. If the calling procedure's error handler is also active, control passes back through previous calling procedures until an enabled, but inactive, error handler is found. If no inactive, enabled error handler is found, the error is fatal at the point at which it actually occurred. 
 
-Each time the error handler passes control back to a calling procedure, that procedure becomes the current procedure. Once an error is handled by an error handler in any procedure, execution resumes in the current procedure at the point designated by the **Resume** statement.
+Each time the error handler passes control back to a calling procedure, that procedure becomes the current procedure. After an error is handled by an error handler in any procedure, execution resumes in the current procedure at the point designated by the **Resume** statement.
 
 > [!NOTE] 
-> An error-handling routine is not a **Sub** procedure or **Function** procedure. It is a section of code marked by a line label or line number.
+> An error-handling routine is not a **[Sub](sub-statement.md)** procedure or **[Function](function-statement.md)** procedure. It is a section of code marked by a line label or line number.
 
-Error-handling routines rely on the value in the **Number** property of the **Err** object to determine the cause of the error. The error-handling routine should test or save relevant property values in the **Err** object before any other error can occur or before a procedure that might cause an error is called. The property values in the **Err** object reflect only the most recent error. The error message associated with **Err.Number** is contained in **Err.Description**. 
+Error-handling routines rely on the value in the **[Number](number-property-visual-basic-for-applications.md)** property of the **[Err](err-object.md)** object to determine the cause of the error. The error-handling routine should test or save relevant property values in the **Err** object before any other error can occur or before a procedure that might cause an error is called. The property values in the **Err** object reflect only the most recent error. The error message associated with **Err.Number** is contained in **Err.Description**. 
 
 **On Error Resume Next** causes execution to continue with the statement immediately following the statement that caused the run-time error, or with the statement immediately following the most recent call out of the procedure containing the **On Error Resume Next** statement. This statement allows execution to continue despite a run-time error. You can place the error-handling routine where the error would occur, rather than transferring control to another location within the procedure. An **On Error Resume Next** statement becomes inactive when another procedure is called, so you should execute an **On Error Resume Next** statement in each called routine if you want inline error handling within that routine.
 
@@ -64,7 +63,7 @@ ErrorHandler:
 End Sub
 ```
 
-Here, the error-handling code follows the **Exit Sub** statement and precedes the **End Sub** statement to separate it from the procedure flow. Error-handling code can be placed anywhere in a procedure.
+Here, the error-handling code follows the **Exit Sub** statement and precedes the **[End Sub](end-statement.md)** statement to separate it from the procedure flow. Error-handling code can be placed anywhere in a procedure.
 
 Untrapped errors in objects are returned to the controlling application when the object is running as an executable file. Within the development environment, untrapped errors are only returned to the controlling application if the proper options are set. See your [host application's](../../Glossary/vbe-glossary.md#host-application) documentation for a description of which options should be set during debugging, how to set them, and whether the host can create [classes](../../Glossary/vbe-glossary.md#class).
 
@@ -75,12 +74,14 @@ Err.Number = vbObjectError + 1052
 ```
 
 > [!NOTE] 
-> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **LastDLLError** property. **LastDLLError** always returns zero on the Macintosh.
+> System errors during calls to Windows [dynamic-link libraries](../../Glossary/vbe-glossary.md#dynamic-link-library-dll) (DLL) or Macintosh code resources do not raise exceptions and cannot be trapped with Visual Basic error trapping. When calling DLL functions, you should check each return value for success or failure (according to the API specifications), and in the event of a failure, check the value in the **Err** object's **[LastDLLError](lastdllerror-property.md)** property. **LastDLLError** always returns zero on the Macintosh.
 
 
 ## Example
 
-This example first uses the **On Error GoTo** statement to specify the location of an error-handling routine within a procedure. In the example, an attempt to delete an open file generates error number 55. The error is handled in the error-handling routine, and control is then returned to the statement that caused the error. The **On Error GoTo 0** statement turns off error trapping. Then the **On Error Resume Next** statement is used to defer error trapping so that the context for the error generated by the next statement can be known for certain. Note that **Err.Clear** is used to clear the **Err** object's properties after the error is handled.
+This example first uses the **On Error GoTo** statement to specify the location of an error-handling routine within a procedure. In the example, an attempt to delete an open file generates error number 55. The error is handled in the error-handling routine, and control is then returned to the statement that caused the error. The **On Error GoTo 0** statement turns off error trapping. 
+
+The **On Error Resume Next** statement is then used to defer error trapping so that the context for the error generated by the next statement can be known for certain. Note that **Err.Clear** is used to clear the **Err** object's properties after the error is handled.
 
 ```vb
 Sub OnErrorStatementDemo() 
@@ -111,3 +112,8 @@ ErrorHandler: ' Error-handling routine.
  ' that caused the error. 
 End Sub
 ```
+
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

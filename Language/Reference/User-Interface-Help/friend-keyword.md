@@ -1,5 +1,5 @@
 ---
-title: Friend keyword
+title: Friend keyword (VBA)
 keywords: vblr6.chm1103683
 f1_keywords:
 - vblr6.chm1103683

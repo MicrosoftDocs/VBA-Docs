@@ -1,11 +1,11 @@
 ---
-title: RSet statement
+title: RSet statement (VBA)
 keywords: vblr6.chm1009009
 f1_keywords:
 - vblr6.chm1009009
 ms.prod: office
 ms.assetid: 07a4f730-ef85-cbeb-30ac-ea51d161f27f
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
@@ -15,10 +15,9 @@ Right aligns a string within a string [variable](../../Glossary/vbe-glossary.md#
 
 ## Syntax
 
-**RSet**_stringvar_**=**_string_
+**RSet**_stringvar_ **=** _string_
 
 The **RSet** statement syntax has these parts.
-
 
 |Part|Description|
 |:-----|:-----|
@@ -27,7 +26,7 @@ The **RSet** statement syntax has these parts.
 
 ## Remarks
 
-If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
+If _stringvar_ is longer than _string_, **RSet** replaces any leftover characters in _stringvar_ with spaces, back to its beginning.
 
 > [!NOTE] 
 > **RSet** can't be used with [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type).
@@ -36,7 +35,6 @@ If  _stringvar_ is longer than _string_, **RSet** replaces any leftover characte
 
 This example uses the **RSet** statement to right align a string within a string variable.
 
-
 ```vb
 Dim MyString 
 MyString = "0123456789"   ' Initialize string. 
@@ -44,4 +42,7 @@ Rset MyString = "Right->" ' MyString contains " Right->".
 
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)
