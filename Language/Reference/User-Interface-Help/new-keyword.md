@@ -13,11 +13,5 @@ ms.date: 06/08/2017
 
 The  **New** keyword is used in these contexts:
 
-[Dim Statement](dim-statement.md)
-
-[Private Statement](private-statement.md)
-
-[Public Statement](public-statement.md)
-[Set Statement](set-statement.md)
-[Static Statement](static-statement.md)
+[Dim Statement](dim-statement.md)<br/>[Private Statement](private-statement.md)<br/>[Public Statement](public-statement.md)<br/>[Set Statement](set-statement.md)<br/>[Static Statement](static-statement.md)<br/>
 

@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 The  **Date** keyword is used in these contexts:
 
-[Date Data Type](date-data-type.md)
-
-[Date Function](date-function.md)
-
-[Date Statement](date-statement.md)
+[Date Data Type](date-data-type.md)<br/>[Date Function](date-function.md)<br/>[Date Statement](date-statement.md)<br/>
 

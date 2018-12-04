@@ -13,13 +13,5 @@ ms.date: 06/08/2017
 
 The  **ByRef** keyword is used in these contexts:
 
-[Call Statement](call-statement.md)
-
-[Declare Statement](declare-statement.md)
-
-[Function Statement](function-statement.md)
-[Property Get Statement](property-get-statement.md)
-[Property Let Statement](property-let-statement.md)
-[Property Set Statement](property-set-statement.md)
-[Sub Statement](sub-statement.md)
+[Call Statement](call-statement.md)<br/>[Declare Statement](declare-statement.md)<br/>[Function Statement](function-statement.md)<br/>[Property Get Statement](property-get-statement.md)<br/>[Property Let Statement](property-let-statement.md)<br/>[Property Set Statement](property-set-statement.md)<br/>[Sub Statement](sub-statement.md)<br/>
 

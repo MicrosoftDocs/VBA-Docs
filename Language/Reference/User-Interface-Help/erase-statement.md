@@ -1,43 +1,43 @@
 ---
-title: Erase Statement
+title: Erase statement (VBA)
 keywords: vblr6.chm1008910
 f1_keywords:
 - vblr6.chm1008910
 ms.prod: office
 ms.assetid: b051ba13-3669-57e5-b023-cc4d52ec93f6
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
-# Erase Statement
+# Erase statement
 
 Reinitializes the elements of fixed-size [arrays](../../Glossary/vbe-glossary.md#array) and releases dynamic-array storage space.
 
 ## Syntax
 
-**Erase**_arraylist_
+**Erase** _arraylist_
 
-The required  _arraylist_ [argument](../../Glossary/vbe-glossary.md#argument) is one or more comma-delimited array[variables](../../Glossary/vbe-glossary.md#variable) to be erased.
+The required _arraylist_ [argument](../../Glossary/vbe-glossary.md#argument) is one or more comma-delimited array [variables](../../Glossary/vbe-glossary.md#variable) to be erased.
 
 ## Remarks
 
 **Erase** behaves differently depending on whether an array is fixed-size (ordinary) or dynamic. **Erase** recovers no memory for fixed-size arrays. **Erase** sets the elements of a fixed array as follows:
 
 
-|**Type of Array**|**Effect of Erase on Fixed-Array Elements**|
+|Type of array|Effect of Erase on fixed-array elements|
 |:-----|:-----|
 |Fixed numeric array|Sets each element to zero.|
 |Fixed string array (variable length)|Sets each element to a zero-length string ("").|
 |Fixed string array (fixed length)|Sets each element to zero.|
 |Fixed [Variant](../../Glossary/vbe-glossary.md#variant-data-type) array|Sets each element to [Empty](../../Glossary/vbe-glossary.md#empty).|
 |Array of [user-defined types](../../Glossary/vbe-glossary.md#user-defined-type)|Sets each element as if it were a separate variable.|
-|Array of objects|Sets each element to the special value  **Nothing**.|
+|Array of objects|Sets each element to the special value **Nothing**.|
 
- **Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions using a **ReDim** statement.
+**Erase** frees the memory used by dynamic arrays. Before your program can refer to the dynamic array again, it must redeclare the array variable's dimensions by using a **[ReDim](redim-statement.md)** statement.
 
 ## Example
 
-This example uses the  **Erase** statement to reinitialize the elements of fixed-size arrays and deallocate dynamic-array storage space.
+This example uses the **Erase** statement to reinitialize the elements of fixed-size arrays and deallocate dynamic-array storage space.
 
 
 ```vb
@@ -58,3 +58,7 @@ Erase DynamicArray ' Free memory used by array.
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

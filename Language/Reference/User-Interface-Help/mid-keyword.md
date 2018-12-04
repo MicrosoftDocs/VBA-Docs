@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Mid** keyword is used in these contexts:
 
-[Mid Function](mid-function.md)
-
-[Mid Statement](mid-statement.md)
+[Mid Function](mid-function.md)<br/>[Mid Statement](mid-statement.md)<br/>
 
 

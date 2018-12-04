@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # PivotField.AutoSortOrder property (Excel)
 
-Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of  **[xlSortOrder](Excel.XlSortOrder.md)**. Read-only **Long**.
+Returns the order used to sort the specified PivotTable field automatically. Can be one of the constants of **[xlSortOrder](Excel.XlSortOrder.md)**. Read-only **Long**.
 
 
 ## Syntax
 
- _expression_. `AutoSortOrder`
+_expression_. `AutoSortOrder`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Example
@@ -44,8 +44,5 @@ End With
 ```
 
 
-## See also
 
-
-[PivotField Object](Excel.PivotField.md)
 

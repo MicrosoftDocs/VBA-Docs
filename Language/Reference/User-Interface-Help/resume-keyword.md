@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Resume** keyword is used in these contexts:
 
-[On Error Statement](on-error-statement.md)
-
-[Resume Statement](resume-statement.md)
+[On Error Statement](on-error-statement.md)<br/>[Resume Statement](resume-statement.md)<br/>
 
 

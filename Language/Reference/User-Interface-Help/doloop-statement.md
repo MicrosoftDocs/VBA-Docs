@@ -1,11 +1,11 @@
 ---
-title: Do...Loop statement
+title: Do...Loop statement (VBA)
 keywords: vblr6.chm1008790
 f1_keywords:
 - vblr6.chm1008790
 ms.prod: office
 ms.assetid: f1ac3901-238d-3e38-45dc-f659fd88c23b
-ms.date: 08/20/2018
+ms.date: 12/03/2018
 ---
 
 
@@ -38,13 +38,13 @@ The **Do Loop** statement syntax has these parts:
 
 ## Remarks
 
-Any number of **Exit Do** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
+Any number of **[Exit Do](exit-statement.md)** statements may be placed anywhere in the **Do…Loop** as an alternate way to exit a **Do…Loop**. **Exit Do** is often used after evaluating some condition, for example, **If…Then**, in which case the **Exit Do** statement transfers control to the statement immediately following the **Loop**.
 
 When used within nested **Do…Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.
 
 ## Example
 
-This example shows how **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, asks the user if it should keep going, sets the value of the flag to **False** when they select **No**, and exits prematurely using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
+This example shows how **Do...Loop** statements can be used. The inner **Do...Loop** statement loops 10 times, asks the user if it should keep going, sets the value of the flag to **False** when they select **No**, and exits prematurely by using the **Exit Do** statement. The outer loop exits immediately upon checking the value of the flag.
 
 
 ```vb
@@ -65,3 +65,8 @@ Public Sub LoopExample()
     MsgBox "Counted to: " & Total
 End Sub
 ```
+
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

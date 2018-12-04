@@ -1,5 +1,5 @@
 ---
-title: Type Statement
+title: Type Statement (VBA)
 keywords: vblr6.chm1009049
 f1_keywords:
 - vblr6.chm1009049
@@ -16,8 +16,8 @@ Used at [module level](../../Glossary/vbe-glossary.md#module-level) to define a 
 ## Syntax
 
 [ **Private** | **Public** ] **Type** _varname_  
- _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_  
- [ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As** _type_ ]  
+ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As**_type_  
+ [ _elementname_ [ **(** [ _subscripts_ ] **)** ] **As**_type_ ]  
  **. . .**  
 
  **End Type**  
@@ -78,3 +78,7 @@ End Sub
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

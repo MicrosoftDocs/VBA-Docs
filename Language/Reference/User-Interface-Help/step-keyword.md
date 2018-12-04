@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Step** keyword is used in these contexts:
 
-[For...Next Statement](fornext-statement.md)
-
-[For Each...Next Statement](for-eachnext-statement.md)
+[For...Next Statement](fornext-statement.md)<br/>[For Each...Next Statement](for-eachnext-statement.md)<br/>
 
 

@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Seek** keyword is used in these contexts:
 
-[Seek Function](seek-function.md)
-
-[Seek Statement](seek-statement.md)
+[Seek Function](seek-function.md)<br/>[Seek Statement](seek-statement.md)<br/>
 
 

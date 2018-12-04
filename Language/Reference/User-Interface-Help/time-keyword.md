@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The  **Time** keyword is used in these contexts:
 
-[Time Function](time-function.md)
-
-[Time Statement](time-statement.md)
+[Time Function](time-function.md)<br/>[Time Statement](time-statement.md)<br/>
 
 

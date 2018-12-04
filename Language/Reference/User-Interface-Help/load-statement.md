@@ -1,31 +1,31 @@
 ---
-title: Load Statement
+title: Load statement (VBA)
 keywords: vblr6.chm1100680
 f1_keywords:
 - vblr6.chm1100680
 ms.prod: office
 ms.assetid: 58e13f8f-3a3b-99d1-bf05-575ddf42c7c7
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
-# Load Statement
+# Load statement
 
 Loads an object but doesn't show it.
 
 ## Syntax
 
-**Load**_object_
+**Load** _object_
 
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies** To list.
 
 ## Remarks
 
-When an object is loaded, it is placed in memory, but isn't visible. Use the  **Show** method to make the object visible. Until an object is visible, a user can't interact with it. The object can be manipulated programmatically in its Initialize event procedure.
+When an object is loaded, it is placed in memory, but isn't visible. Use the **[Show](show-method.md)** method to make the object visible. Until an object is visible, a user can't interact with it. The object can be manipulated programmatically in its **[Initialize](initialize-event.md)** event procedure.
 
 ## Example
 
-In the following example, UserForm2 is loaded during UserForm1's Initialize event. Subsequent clicking on UserForm2 reveals UserForm1.
+In the following example, UserForm2 is loaded during UserForm1's **Initialize** event. Subsequent clicking on UserForm2 reveals UserForm1.
 
 
 ```vb
@@ -45,4 +45,7 @@ Private Sub UserForm_Click()
 End Sub
 ```
 
+## See also
 
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

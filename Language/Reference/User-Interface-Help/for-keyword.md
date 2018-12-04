@@ -13,9 +13,5 @@ ms.date: 06/08/2017
 
 The  **For** keyword is used in these contexts:
 
-[For...Next Statement](fornext-statement.md)
-
-[For Each...Next Statement](for-eachnext-statement.md)
-
-[Open Statement](open-statement.md)
+[For...Next Statement](fornext-statement.md)<br/>[For Each...Next Statement](for-eachnext-statement.md)<br/>[Open Statement](open-statement.md)<br/>
 

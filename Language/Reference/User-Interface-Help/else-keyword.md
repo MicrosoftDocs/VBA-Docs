@@ -13,8 +13,6 @@ ms.date: 06/08/2017
 
 The **Else** keyword is used in these contexts:
 
-[If...Then...Else Statement](ifthenelse-statement.md)
-
-[Select Case Statement](select-case-statement.md)
+[If...Then...Else Statement](ifthenelse-statement.md)<br/>[Select Case Statement](select-case-statement.md)<br/>
 
 

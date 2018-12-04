@@ -1,53 +1,52 @@
 ---
-title: Implements Statement
+title: Implements statement (VBA)
 keywords: vblr6.chm1103517
 f1_keywords:
 - vblr6.chm1103517
 ms.prod: office
 ms.assetid: 9d0fe592-e945-649a-d277-fe882fe8cf67
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
-# Implements Statement
+# Implements statement
 
 Specifies an interface or class that will be implemented in the [class module](../../Glossary/vbe-glossary.md#class-module) in which it appears.
 
 ## Syntax
 
 **Implements** [ _InterfaceName_ | _Class_ ]
-The required  _InterfaceName_ or _Class_ is the name of an interface or [class](../../Glossary/vbe-glossary.md#class) in a [type library](../../Glossary/vbe-glossary.md#type-library) whose methods will be implemented by the corresponding methods in the Visual Basic class.
+
+The required _InterfaceName_ or _Class_ is the name of an interface or [class](../../Glossary/vbe-glossary.md#class) in a [type library](../../Glossary/vbe-glossary.md#type-library) whose methods will be implemented by the corresponding methods in the Visual Basic class.
 
 ## Remarks
 
-An interface is a collection of prototypes representing the members (methods and properties) the interface encapsulates; that is, it contains only the declarations for the member procedures. A class provides an implementation of all of the methods and properties of one or more interfaces. Classes provide the code used when each function is called by a controller of the class. All classes implement at least one interface, which is considered the default interface of the class. In Visual Basic, any member that isn't explicitly a member of an implemented interface is implicitly a member of the default interface.
+An _interface_ is a collection of prototypes representing the members (methods and properties) that the interface encapsulates; that is, it contains only the declarations for the member procedures. A _class_ provides an implementation of all the methods and properties of one or more interfaces. Classes provide the code used when each function is called by a controller of the class. All classes implement at least one interface, which is considered the default interface of the class. In Visual Basic, any member that isn't explicitly a member of an implemented interface is implicitly a member of the default interface.
 
-When a Visual Basic class implements an interface, the Visual Basic class provides its own versions of all the  **Public** [procedures](../../Glossary/vbe-glossary.md#procedure) specified in the type library of the Interface. In addition to providing a mapping between the interface prototypes and your procedures, the **Implements** statement causes the class to accept COM QueryInterface calls for the specified interface ID.
+When a Visual Basic class implements an interface, the Visual Basic class provides its own versions of all the **Public** [procedures](../../Glossary/vbe-glossary.md#procedure) specified in the type library of the Interface. In addition to providing a mapping between the interface prototypes and your procedures, the **Implements** statement causes the class to accept COM QueryInterface calls for the specified interface ID.
 
- **Note**  Visual Basic does not implement derived classes or interfaces.
+> [!NOTE] 
+> Visual Basic does not implement derived classes or interfaces.
 
-When you implement an interface or class, you must include all the  **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error (**Const** E_NOTIMPL = &H80004001) so a user of the implementation understands that a member is not implemented.
-The  **Implements** statement can't appear in a [standard module](../../Glossary/vbe-glossary.md#standard-module).
+When you implement an interface or class, you must include all the **Public** procedures involved. A missing member in an implementation of an interface or class causes an error. If you don't place code in one of the procedures in a class you are implementing, you can raise the appropriate error (**Const** E_NOTIMPL = &H80004001) so a user of the implementation understands that a member is not implemented.
+
+The **Implements** statement can't appear in a [standard module](../../Glossary/vbe-glossary.md#standard-module).
 
 ## Example
 
-The following example shows how to use the  **Implements** statement to make a set of declarations available to multiple classes. By sharing the declarations through the **Implements** statement, neither class has to make any declarations itself. The example also shows how use of an interface allows abstraction: a strongly-type variable can be declared using the interface type. It can then be assigned objects of different class types that implement the interface.
+The following example shows how to use the **Implements** statement to make a set of declarations available to multiple classes. By sharing the declarations through the **Implements** statement, neither class has to make any declarations itself. The example also shows how use of an interface allows abstraction: a strongly-type variable can be declared by using the interface type. It can then be assigned objects of different class types that implement the interface.
 
-Assume there are two forms, SelectorForm and DataEntryForm. The selector form has two buttons, "Customer Data" and "Supplier Data". To enter name and address information for a customer or a supplier, the user clicks the customer button or the supplier button on the selector form, and then enters the name and address using the data entry form. The data entry form has two text fields, Name and Address.
+Assume there are two forms, SelectorForm and DataEntryForm. The selector form has two buttons, **Customer Data** and **Supplier Data**. To enter name and address information for a customer or a supplier, the user clicks the customer button or the supplier button on the selector form, and then enters the name and address by using the data entry form. The data entry form has two text fields, **Name** and **Address**.
 
-The following code for the interface declarations is in a class called PersonalData:
-
-
-
+The following code for the interface declarations is in a class called **PersonalData**:
 
 ```vb
 Public Name As String 
 Public Address As String 
 ```
 
-The code supporting the customer data is in a class module called Customer:
+<br/>
 
-
-
+The code supporting the customer data is in a class module called **Customer**:
 
 ```vb
 Implements PersonalData
@@ -89,10 +88,9 @@ End Sub
 
 Note that the PersonalData interface is implemented with members that are named with the interface name "PersonalData\_" as a prefix.
 
-The code supporting the supplier data is in a class module called Supplier:
+<br/>
 
-
-
+The code supporting the supplier data is in a class module called **Supplier**:
 
 ```vb
 Implements PersonalData
@@ -133,10 +131,9 @@ End Sub
 
 ```
 
-The following code supports the Selector form:
+<br/>
 
-
-
+The following code supports the **Selector** form:
 
 ```vb
 Private cust As New Customer 
@@ -155,10 +152,9 @@ Dim frm As New DataEntryForm
 End Sub
 ```
 
-The following code supports the Data Entry form:
+<br/>
 
-
-
+The following code supports the **Data Entry** form:
 
 ```vb
 Private m_pd As PersonalData
@@ -185,11 +181,15 @@ End Sub
 
 ```
 
-Note how, in the data entry form, the m_pd variable is declared using the PersonalData interface, and it can be assigned objects of either the Customer or Supplier class since both classes implement the PersonalData interface.
+<br/>
 
-Also note that the m_pd variable can only access the members of the PersonalData interface. If a Customer object is assigned to it, the Customer-specific member CustomerAgentId is not available. Similarly, if a Supplier object is assigned to it, the Supplier-specific member NumberOfProductLines is not available. Assigning an object to variables declared using different interfaces provides a polymorphic behavior.
+Note how, in the data entry form, the m_pd variable is declared by using the PersonalData interface, and it can be assigned objects of either the **Customer** or **Supplier** class because both classes implement the PersonalData interface.
 
-Also note that the Customer and Supplier classes, as defined above, do not expose the members of the PersonalData interface. The only way to access the PersonalData members is to assign a Customer or Supplier object to a variable declared as PersonalData. If an inheritance-like behavior is desired, with the Customer or Supplier class exposing the PersonalData members, then public members must be added to the class. These can be implemented by delegating to the PersonalData interface implementations. For example, the Customer class could be extended with the following:
+Also note that the m_pd variable can only access the members of the PersonalData interface. If a **Customer** object is assigned to it, the **Customer-specific member CustomerAgentId** is not available. Similarly, if a **Supplier** object is assigned to it, the Supplier-specific member **NumberOfProductLines** is not available. Assigning an object to variables declared by using different interfaces provides a polymorphic behavior.
+
+Also note that the **Customer** and **Supplier** classes, as defined earlier, do not expose the members of the PersonalData interface. The only way to access the PersonalData members is to assign a **Customer** or **Supplier** object to a variable declared as _PersonalData_. If an inheritance-like behavior is desired, with the **Customer** or **Supplier** class exposing the PersonalData members, public members must be added to the class. These can be implemented by delegating to the PersonalData interface implementations. 
+
+For example, the **Customer** class could be extended with the following:
 
 ```vb
 'emulate PersonalData inheritance
@@ -211,3 +211,7 @@ End Property
 
 ```
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Statements](../statements.md)

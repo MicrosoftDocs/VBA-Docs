@@ -13,17 +13,5 @@ ms.date: 06/08/2017
 
 The  **Public** keyword is used in these contexts:
 
-[Const Statement](const-statement.md)
-
-[Declare Statement](declare-statement.md)
-
-[Enum Statement](enum-statement.md)
-[Event Statement](event-statement.md)
-[Function Statement](function-statement.md)
-[Property Get Statement](property-get-statement.md)
-[Property Let Statement](property-let-statement.md)
-[Property Set Statement](property-set-statement.md)
-[Public Statement](public-statement.md)
-[Sub Statement](sub-statement.md)
-[Type Statement](type-statement.md)
+[Const Statement](const-statement.md)<br/>[Declare Statement](declare-statement.md)<br/>[Enum Statement](enum-statement.md)<br/>[Event Statement](event-statement.md)<br/>[Function Statement](function-statement.md)<br/>[Property Get Statement](property-get-statement.md)<br/>[Property Let Statement](property-let-statement.md)<br/>[Property Set Statement](property-set-statement.md)<br/>[Public Statement](public-statement.md)<br/>[Sub Statement](sub-statement.md)<br/>[Type Statement](type-statement.md)<br/>
 

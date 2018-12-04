@@ -1,22 +1,17 @@
 ---
-title: Input <keyword>
+title: Input keyword (VBA)
 keywords: vblr6.chm1012575
 f1_keywords:
 - vblr6.chm1012575
 ms.prod: office
 ms.assetid: ce7391fe-06ff-8e91-76c4-53320997fbb6
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
-# Input <keyword>
+# Input keyword
 
-The  **Input** keyword is used in these contexts:
+The **Input** keyword is used in these contexts:
 
-[Input Function](input-function.md)
-
-[Input # Statement](inputstatement.md)
-
-[Line Input # Statement](line-inputstatement.md)
-[Open Statement](open-statement.md)
+[Input function](input-function.md)<br/>[Input # statement](inputstatement.md)<br/>[Line Input # statement](line-inputstatement.md)<br/>[Open statement](open-statement.md)<br/>
 
