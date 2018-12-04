@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1103683
 ms.prod: office
 ms.assetid: 64745732-35c9-cce0-55bb-57133d322ef0
-ms.date: 06/08/2017
+ms.date: 12/03/2018
 ---
 
 
@@ -15,13 +15,15 @@ Modifies the definition of a [procedure](../../Glossary/vbe-glossary.md#procedur
 
 ## Syntax
 
-[ **Private** |**Friend** |**Public** ] [ **Static** ] [ **Sub** |**Function** |**Property** ] _procedurename_
+[ **Private** | **Friend** | **Public** ] [ **Static** ] [ **Sub** | **Function** | **Property** ] _procedurename_
 
-The required  _procedurename_ is the name of the procedure to be made visible throughout the project, but not visible to controllers of the class.
+The required _procedurename_ is the name of the procedure to be made visible throughout the project, but not visible to controllers of the class.
 
 ## Remarks
 
-**Public** procedures in a class can be called from anywhere, even by controllers of instances of the class. Declaring a procedure **Private** prevents controllers of the object from calling the procedure, but also prevents the procedure from being called from within the project in which the class itself is defined. **Friend** makes the procedure visible throughout the project, but not to a controller of an instance of the object. **Friend** can appear only in form modules and class modules, and can only modify procedure names, not [variables](../../Glossary/vbe-glossary.md#variable) or types. Procedures in a class can access the **Friend** procedures of all other classes in a project. **Friend** procedures don't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of their class. A **Friend** procedure can't be late bound.
+**Public** procedures in a class can be called from anywhere, even by controllers of instances of the class. Declaring a procedure **Private** prevents controllers of the object from calling the procedure, but also prevents the procedure from being called from within the project in which the class itself is defined. 
+
+**Friend** makes the procedure visible throughout the project, but not to a controller of an instance of the object. **Friend** can appear only in form modules and class modules, and can only modify procedure names, not [variables](../../Glossary/vbe-glossary.md#variable) or types. Procedures in a class can access the **Friend** procedures of all other classes in a project. **Friend** procedures don't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of their class. A **Friend** procedure can't be late bound.
 
 ## Friend example
 
@@ -42,3 +44,6 @@ End Property
 ```
 
 
+## See also
+
+- [Keywords (VBA)](../keywords-visual-basic-for-applications.md)
