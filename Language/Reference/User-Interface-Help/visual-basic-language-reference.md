@@ -17,7 +17,6 @@ Provides documentation about Visual Basic the language: all its methods, propert
 - [Microsoft Forms](reference-microsoft-forms.md)
 - [Operators](../operators.md)
 - [Statements](../statements.md)
-- [Strings](../strings.md)
 - [Visual Basic Add-in Model](visual-basic-add-in-model-reference.md)
 
 ## Visual Basic for Applications

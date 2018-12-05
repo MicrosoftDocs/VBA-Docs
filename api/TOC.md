@@ -34908,8 +34908,6 @@
 ##### [Width #](../Language/Reference/User-Interface-Help/widthstatement.md)
 ##### [With](../Language/Reference/User-Interface-Help/with-statement.md)
 ##### [Write #](../Language/Reference/User-Interface-Help/writestatement.md)
-#### [Strings](../Language/Reference/strings.md)
-##### [Returns for CStr](../Language/Reference/User-Interface-Help/returns-for-cstr.md)
 #### [Visual Basic Add-in Model](../Language/Reference/User-Interface-Help/visual-basic-add-in-model-reference.md)
 ##### [Collections](../Language/Reference/Visual-Basic-Add-in-Model/collections-visual-basic-add-in-model.md)
 ###### [AddIns](../Language/Reference/User-Interface-Help/addins-collection-vba-add-in-object-model.md)

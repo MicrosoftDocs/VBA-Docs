@@ -999,6 +999,10 @@
           {
             "source_path": "language/reference/user-interface-help/withevents-keyword.md",
             "redirect_url": "/office/vba/language/reference/keywords-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/returns-for-cstr.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary#returns-for-cstr"
           }
     ]
 }

@@ -55,7 +55,7 @@ A **Variant** containing an array requires 12 bytes more than the array alone.
 
 ## Convert between data types
 
-See [Type conversion functions](../../concepts/getting-started/type-conversion-functions.md) for examples of how to use the following functions to coerce an expression to a specific data type: **CBool**, **CByte**, **CCur**, **CDate**, **CDbl**, **CDec**, **CInt**, **CLng**, **CLngLng**, **CLngPtr**, **CSng**, **CStr**, and **CVar**.
+See [Type conversion functions](../../concepts/getting-started/type-conversion-functions.md) for examples of how to use the following functions to coerce an expression to a specific data type: **CBool**, **CByte**, **CCur**, **CDate**, **CDbl**, **CDec**, **CInt**, **CLng**, **CLngLng**, **CLngPtr**, **CSng**, **[CStr](#returns-for-cstr)**, and **CVar**.
 
 For the following, see the respective function pages: **[CVErr](cverr-function.md)**, **[Fix](int-fix-functions.md)**, and **[Int](int-fix-functions.md)**.
 
@@ -75,6 +75,16 @@ To verify data types, see the following functions:
 - [IsNumeric](isnumeric-function.md)
 - [IsObject](isobject-function.md)
 
+## Returns for CStr
+
+|If _expression_ is|CStr returns|
+|:-----------------|:-----------|
+|**Boolean**|A string containing **True** or **False**.|
+|**Date**|A string containing a date in the short date format of your system.|
+|[Null](../../Glossary/vbe-glossary.md#null)|A [run-time error](../../Glossary/vbe-glossary.md#run-time-error).|
+|[Empty](../../Glossary/vbe-glossary.md#empty)|A zero-length string ("").|
+|**Error**|A string containing the word **Error** followed by the [error number](../../Glossary/vbe-glossary.md#error-number).|
+|Other numeric|A string containing the number.|
 
 ## See also
 
