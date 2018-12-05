@@ -17,6 +17,8 @@ Sets the position for the next read/write operation within a file opened by usin
 
 **Seek** [ **#** ] _filenumber_, _position_
 
+<br/>
+
 The **Seek** statement syntax has these parts:
 
 |Part|Description|

@@ -18,6 +18,8 @@ Left aligns a string within a string [variable](../../Glossary/vbe-glossary.md#v
 **LSet** _stringvar_ **=** _string_ <br/>
 **LSet** _varname1_ **=** _varname2_
 
+<br/>
+
 The **LSet** statement syntax has these parts:
 
 |Part|Description|

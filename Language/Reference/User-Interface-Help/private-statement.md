@@ -15,7 +15,10 @@ Used at the [module level](../../Glossary/vbe-glossary.md#module-level) to decla
 
 ## Syntax
 
-**Private** [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ] [ , [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ]] **. . .**
+**Private** [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ]<br/>
+[ , [ **WithEvents** ] _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ]] **. . .**
+
+<br/>
 
 The **Private** statement syntax has these parts:
 

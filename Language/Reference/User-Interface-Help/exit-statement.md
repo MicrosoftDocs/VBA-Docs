@@ -21,15 +21,17 @@ Exits a block of **Do…Loop**, **For…Next**, **Function**, **Sub**, or **Prop
 **Exit Property** <br/>
 **Exit Sub**
 
+<br/>
+
 The **Exit** statement syntax has these forms:
 
 |Statement|Description|
 |:-----|:-----|
 |**Exit Do**|Provides a way to exit a **[Do...Loop](doloop-statement.md)** statement. It can be used only inside a **Do...Loop** statement. **Exit Do** transfers control to the [statement](../../Glossary/vbe-glossary.md#statement) following the **Loop** statement. When used within nested **Do...Loop** statements, **Exit Do** transfers control to the loop that is one nested level above the loop where **Exit Do** occurs.|
-|**Exit For**|Provides a way to exit a **For** loop. It can be used only in a **For...Next** or **For** **Each...Next** loop. **Exit For** transfers control to the statement following the **Next** statement. When used within nested **For** loops, **Exit For** transfers control to the loop that is one nested level above the loop where **Exit For** occurs.|
-|**Exit Function**|Immediately exits the **Function** [procedure](../../Glossary/vbe-glossary.md#procedure) in which it appears. Execution continues with the statement following the statement that called the **Function**.|
-|**Exit Property**|Immediately exits the **Property** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
-|**Exit Sub**|Immediately exits the **Sub** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
+|**Exit For**|Provides a way to exit a **For** loop. It can be used only in a **[For...Next](fornext-statement.md)** or **[For Each...Next](for-eachnext-statement.md)** loop. **Exit For** transfers control to the statement following the **Next** statement. When used within nested **For** loops, **Exit For** transfers control to the loop that is one nested level above the loop where **Exit For** occurs.|
+|**Exit Function**|Immediately exits the **[Function](function-statement.md)** [procedure](../../Glossary/vbe-glossary.md#procedure) in which it appears. Execution continues with the statement following the statement that called the **Function**.|
+|**Exit Property**|Immediately exits the **[Property](property-get-statement.md)** procedure in which it appears. Execution continues with the statement following the statement that called the **Property** procedure.|
+|**Exit Sub**|Immediately exits the **[Sub](sub-statement.md)** procedure in which it appears. Execution continues with the statement following the statement that called the **Sub** procedure.|
 
 ## Remarks
 

@@ -15,7 +15,7 @@ Repeats a block of [statements](../../Glossary/vbe-glossary.md#statement) while 
 
 ## Syntax
 
-**Do** [{ **While** |**Until** } _condition_ ] <br/>
+**Do** [{ **While** | **Until** } _condition_ ] <br/>
 [ _statements_ ] <br/>
 [ **Exit Do** ] <br/>
 [ _statements_ ] <br/>
@@ -27,7 +27,9 @@ Or, you can use this syntax:
 [ _statements_ ] <br/>
 [ **Exit Do** ] <br/>
 [ _statements_ ] <br/>
-**Loop** [{ **While** |**Until** } _condition_ ]
+**Loop** [{ **While** | **Until** } _condition_ ]
+
+<br/>
 
 The **Do Loop** statement syntax has these parts:
 

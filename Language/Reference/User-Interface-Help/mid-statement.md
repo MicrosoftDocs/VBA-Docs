@@ -15,7 +15,9 @@ Replaces a specified number of characters in a **Variant** (**String**) [variabl
 
 ## Syntax
 
-**Mid**( _stringvar_, _start_, [ _length_ ] ) **=** _string_
+**Mid**(_stringvar_, _start_, [ _length_ ] ) **=** _string_
+
+<br/>
 
 The **Mid** statement syntax has these parts:
 

@@ -15,9 +15,9 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 
 ## Syntax
 
-[**Public** | **Private** | **Friend**] [ **Static** ] **Function** _name_ [ (_arglist_) ] [ **As**_type_ ]<br/>
+[**Public** | **Private** | **Friend**] [ **Static** ] **Function** _name_ [ ( _arglist_ ) ] [ **As**_type_ ]<br/>
 [ _statements_ ]<br/>
-[ _name_ **=**_expression_ ]<br/>
+[ _name_ **=** _expression_ ]<br/>
 [ **Exit Function** ]<br/>
 [ _statements_ ]<br/>
 [ _name_ **=** _expression_ ]<br/>
@@ -42,6 +42,7 @@ The **Function** statement syntax has these parts:
 <br/>
 
 The _arglist_ argument has the following syntax and parts:
+
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As**_type_ ] [ **=** _defaultvalue_ ]
 
 <br/>

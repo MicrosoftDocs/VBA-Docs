@@ -19,25 +19,25 @@ Used at the [module level](../../Glossary/vbe-glossary.md#module-level) to decla
 
 ## Remarks
 
-If used, the **Option Compare** statement must appear in a [module](../../Glossary/vbe-glossary.md#module) before any[procedures](../../Glossary/vbe-glossary.md#procedure).
+If used, the **Option Compare** statement must appear in a [module](../../Glossary/vbe-glossary.md#module) before any [procedures](../../Glossary/vbe-glossary.md#procedure).
 
 The **Option Compare** statement specifies the [string comparison](../../Glossary/vbe-glossary.md#string-comparison) method (**Binary**, **Text**, or **Database**) for a module. If a module doesn't include an **Option Compare** statement, the default text comparison method is **Binary**.
 
-**Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
+- **Option Compare Binary** results in string comparisons based on a [sort order](../../Glossary/vbe-glossary.md#sort-order) derived from the internal binary representations of the characters. In Microsoft Windows, sort order is determined by the code page. A typical binary sort order is shown in the following example:
 
-```vb
-A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø 
+  ```vb
+   A < B < E < Z < a < b < e < z < À < Ê < Ø < à < ê < ø 
+  
+  ```
 
-```
+- **Option Compare Text** results in string comparisons based on a case-insensitive text sort order determined by your system's [locale](../../Glossary/vbe-glossary.md#locale). When the same characters are sorted by using **Option Compare Text**, the following text sort order is produced:
 
-**Option Compare Text** results in string comparisons based on a case-insensitive text sort order determined by your system's [locale](../../Glossary/vbe-glossary.md#locale). When the same characters are sorted by using **Option Compare Text**, the following text sort order is produced:
+  ```vb
+    (A=a) < ( À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø) 
 
-```vb
-(A=a) < ( À=à) < (B=b) < (E=e) < (Ê=ê) < (Z=z) < (Ø=ø) 
+  ```
 
-```
-
-**Option Compare Database** can only be used within Microsoft Access. This results in string comparisons based on the sort order determined by the locale ID of the database where the string comparisons occur.
+- **Option Compare Database** can only be used within Microsoft Access. This results in string comparisons based on the sort order determined by the locale ID of the database where the string comparisons occur.
 
 ## Example
 

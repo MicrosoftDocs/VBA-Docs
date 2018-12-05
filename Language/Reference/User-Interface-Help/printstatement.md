@@ -17,6 +17,8 @@ Writes display-formatted data to a sequential file.
 
 **Print** **#**_filenumber_, [ _outputlist_ ]
 
+<br/>
+
 The **Print #** statement syntax has these parts:
 
 |Part|Description|
@@ -30,6 +32,7 @@ The _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) settings ar
 
 [{ **Spc**(_n_) | **Tab** [ (_n_) ]}] [ _expression_ ] [ _charpos_ ]
 
+<br/>
 
 |Setting|Description|
 |:-----|:-----|

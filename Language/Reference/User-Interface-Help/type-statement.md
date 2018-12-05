@@ -15,10 +15,11 @@ Used at the [module level](../../Glossary/vbe-glossary.md#module-level) to defin
 
 ## Syntax
 
-[ **Private** | **Public** ] **Type** _varname_ <br/> 
-_elementname_ [ ( [ _subscripts_ ] ) ] **As**_type_ <br/>  
+[ **Private** | **Public** ] **Type** _varname_ _elementname_ [ ( [ _subscripts_ ] ) ] **As**_type_ <br/>
 [ _elementname_ [ ( [ _subscripts_ ] ) ] **As**_type_ ] **. . .** <br/> 
 **End Type** 
+
+<br/>
 
 The **Type** statement syntax has these parts:
 

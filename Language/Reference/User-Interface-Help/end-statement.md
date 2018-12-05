@@ -22,7 +22,9 @@ Ends a [procedure](../../Glossary/vbe-glossary.md#procedure) or block.
 **End Select** <br/>
 **End Sub** <br/>
 **End Type** <br/>
-**End With** <br/>
+**End With** 
+
+<br/>
 
 The **End** statement syntax has these forms:
 

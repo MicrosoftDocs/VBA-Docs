@@ -17,6 +17,8 @@ Declares a user-defined event.
 
 [ **Public** ] **Event** _procedurename_ [ (_arglist_) ]
 
+<br/>
+
 The **Event** statement has these parts:
 
 |Part|Description|
@@ -29,6 +31,8 @@ The **Event** statement has these parts:
 The _arglist_ argument has the following syntax and parts:
 
 [ **ByVal** | **ByRef** ] _varname_ [ ( ) ] [ **As**_type_ ]
+
+<br/>
 
 |Part|Description|
 |:-----|:-----|

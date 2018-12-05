@@ -17,6 +17,8 @@ Deletes a section or key setting from an application's entry in the Windows [reg
 
 **DeleteSetting** _appname_, _section_, [ _key_ ]
 
+<br/>
+
 The **DeleteSetting** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

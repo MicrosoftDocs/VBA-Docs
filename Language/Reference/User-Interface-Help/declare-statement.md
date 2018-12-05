@@ -65,6 +65,7 @@ VBA7 **Declare** statement syntax
 <br/>
 
 The _arglist_ argument has the following syntax and parts:
+
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As**_type_ ]
 
 |Part|Description|
