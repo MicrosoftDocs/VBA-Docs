@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Match
 ms.assetid: 901cdd78-e8fc-f149-66ff-5887f7099c96
-ms.date: 12/04/2018
+ms.date: 12/05/2018
 ---
 
 
@@ -18,7 +18,7 @@ Returns the relative position of an item in an array that matches a specified va
 
 ## Syntax
 
-_expression_. **Match**( _Arg1_, _Arg2_, _Arg3_ )
+_expression_.**Match**( _Arg1_, _Arg2_, _Arg3_ )
 
 _expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
