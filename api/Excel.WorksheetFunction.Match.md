@@ -50,9 +50,9 @@ Double
 
 - If match_type is 1, MATCH finds the largest value that is less than or equal to lookup_value. Lookup_array must be placed in ascending order: ...-2, -1, 0, 1, 2, ..., A-Z, FALSE, TRUE. 
     
-- If match_type is 0, MATCH finds the first value that is exactly equal to lookup_value. Lookup_array can be in any order. 
+- If match_type is 0, MATCH finds the first value that is exactly equal to lookup_value. Lookup_array can be in any order.  Note that match is case insensitive.
     
-- If match_type is -1, MATCH finds the smallest value that is greater than or equal to lookup_value. Lookup_array must be placed in descending order: TRUE, FALSE, Z-A, ...2, 1, 0, -1, -2, ..., and so on. 
+- If match_type is -1, MATCH finds the smallest value that is greater than or equal to lookup_value. Lookup_array must be placed in descending order: TRUE, FALSE, Z-A, ...2, 1, 0, -1, -2, ..., and so on.
     
 - If match_type is omitted, it is assumed to be 1. 
     
