@@ -1003,6 +1003,46 @@
           {
             "source_path": "language/reference/user-interface-help/returns-for-cstr.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/data-type-summary#returns-for-cstr"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addins-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepanes-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbars-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindows-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponents-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbnewprojects-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbprojects-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windows-collection-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model"
           }
     ]
 }
