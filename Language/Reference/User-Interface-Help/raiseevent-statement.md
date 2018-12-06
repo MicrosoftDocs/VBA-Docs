@@ -19,6 +19,8 @@ Fires an event declared at the [module level](../../Glossary/vbe-glossary.md#mod
 
 The required _eventname_ is the name of an event declared within the [module](../../Glossary/vbe-glossary.md#module) and follows Basic variable naming conventions.
 
+<br/>
+
 The **RaiseEvent** statement syntax has these parts:
 
 |Part|Description|

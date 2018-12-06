@@ -17,6 +17,8 @@ Enables input/output (I/O) to a file.
 
 **Open** _pathname_ **For** _mode_ [ **Access** _access_ ] [ _lock_ ] **As** [ **#** ] _filenumber_ [ **Len** = _reclength_ ]
 
+<br/>
+
 The **Open** statement syntax has these parts:
 
 |Part|Description|

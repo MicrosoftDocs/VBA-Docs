@@ -21,6 +21,8 @@ _membername_ [= _constantexpression_ ] <br/>
 **. . .** <br/>
 **End Enum**
 
+<br/>
+
 The **Enum** statement has these parts:
 
 |Part|Description|

@@ -21,6 +21,8 @@ Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) for ea
  [ _statements_ ] <br/>
 **Next** [ _element_ ]
 
+<br/>
+
 The **For...Each...Next** statement syntax has these parts:
 
 |Part|Description|
@@ -60,5 +62,6 @@ Next
 
 ## See also
 
+- [For...Next statement](fornext-statement.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)

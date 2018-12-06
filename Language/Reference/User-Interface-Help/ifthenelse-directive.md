@@ -23,6 +23,8 @@ Conditionally compiles selected blocks of Visual Basic code.
 [ _elsestatements_ ]]  
  **#End If**
 
+<br/>
+
 The **#If...Then...#Else** directive syntax has these parts:
 
 |Part|Description|

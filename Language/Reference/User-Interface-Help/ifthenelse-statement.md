@@ -17,15 +17,19 @@ Conditionally executes a group of [statements](../../Glossary/vbe-glossary.md#st
 
 **If** _condition_ **Then** [ _statements_ ] [ **Else** _elsestatements_ ]
 
+<br/>
+
 Or, you can use the block form syntax:
 
 **If** _condition_ **Then** <br/>
 [ _statements_ ] <br/>
 [ **ElseIf** _condition-n_ **Then** <br/>
-[ _elseifstatements_ ] <br/>
+[ _elseifstatements_ ]] <br/>
 [ **Else** <br/>
 [ _elsestatements_ ]] <br/>
 **End If** <br/>
+
+<br/>
 
 The **If...Then...Else** statement syntax has these parts.
 

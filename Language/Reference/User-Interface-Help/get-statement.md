@@ -17,6 +17,8 @@ Reads data from an open disk file into a [variable](../../Glossary/vbe-glossary.
 
 **Get** [ # ] _filenumber_, [ _recnumber_ ], _varname_
 
+<br/>
+
 The **Get** statement syntax has these parts:
 
 |Part|Description|

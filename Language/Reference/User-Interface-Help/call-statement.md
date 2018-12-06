@@ -17,6 +17,8 @@ Transfers control to a **[Sub](sub-statement.md)** [procedure](../../Glossary/vb
 
 [ **Call** ] _name_ [ _argumentlist_ ]
 
+<br/>
+
 The **Call** statement syntax has these parts:
 
 |Part|Description|

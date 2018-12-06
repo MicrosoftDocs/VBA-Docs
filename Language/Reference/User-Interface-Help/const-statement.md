@@ -17,6 +17,8 @@ Declares [constants](../../Glossary/vbe-glossary.md#constant) for use in place o
 
 [ **Public** | **Private** ] **Const** _constname_ [ **As**_type_ ] **=** _expression_
 
+<br/>
+
 The **Const** statement syntax has these parts:
 
 |Part|Description|
@@ -64,6 +66,7 @@ Const MyStr = "Hello", MyDouble As Double = 3.4567
 
 ## See also
 
+- [Const directive](const-directive.md)
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)
 - [Statements](../statements.md)

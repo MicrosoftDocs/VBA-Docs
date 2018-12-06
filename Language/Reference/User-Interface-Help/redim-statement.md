@@ -15,7 +15,9 @@ Used at the [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to
 
 ## Syntax
 
-**ReDim** [ **Preserve** ] _varname_ ( _subscripts_ ) [ **As**_type_ ] [ , _varname_ ( _subscripts_ ) [ **As**_type_ ]] **. . .**
+**ReDim** [ **Preserve** ] _varname_ ( _subscripts_ ) [ **As**_type_ ], [ _varname_ ( _subscripts_ ) [ **As**_type_ ]] **. . .**
+
+<br/>
 
 The **ReDim** statement syntax has these parts:
 

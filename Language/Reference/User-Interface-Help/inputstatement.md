@@ -17,8 +17,9 @@ Reads data from an open sequential file and assigns the data to [variables](../.
 
 **Input** **#**_filenumber, varlist_
 
-The **Input #** statement syntax has these parts:
+<br/>
 
+The **Input #** statement syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -54,7 +55,7 @@ If you reach the end of the file while you are inputting a data item, the input 
 
 ## Example
 
-This example uses the **Input #** statement to read data from a file into two variables. This example assumes that is a file with a few lines of data written to it using the **Write #** statement; that is, each line contains a string in quotations and a number separated by a comma, for example, ("Hello", 234).
+This example uses the **Input #** statement to read data from a file into two variables. This example assumes that `TESTFILE` is a file with a few lines of data written to it by using the **Write #** statement; that is, each line contains a string in quotations and a number separated by a comma, for example, `"Hello", 234`.
 
 
 ```vb

@@ -1,5 +1,5 @@
 ---
-title: Count Property (FileSystemObject object)
+title: Count property (FileSystemObject object)
 keywords: vblr6.chm2181945
 f1_keywords:
 - vblr6.chm2181945
@@ -9,23 +9,19 @@ ms.date: 06/08/2017
 ---
 
 
-# Count Property (FileSystemObject object)
+# Count property (FileSystemObject object)
 
-
-
- **Description**
-Returns the number of items in a collection or  **Dictionary** object. Read-only.
+Returns the number of items in a collection or **Dictionary** object. Read-only.
 
 ## Syntax
 
-_object_. **Count**
-The  _object_ is always the name of one of the items in the Applies To list.
+_object_.**Count**
+
+The _object_ is always the name of one of the items in the **Applies To** list.
 
 ## Remarks
 
-The following code illustrates use of the  **Count** property:
-
-
+The following code illustrates use of the **Count** property:
 
 ```vb
 Dim a, d, i             'Create some variables

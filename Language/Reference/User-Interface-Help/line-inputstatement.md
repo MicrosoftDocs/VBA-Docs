@@ -17,6 +17,8 @@ Reads a single line from an open sequential file and assigns it to a [String](..
 
 **Line Input** #_filenumber_, _varname_
 
+<br/>
+
 The **Line Input #** statement syntax has these parts:
 
 |Part|Description|
@@ -28,11 +30,11 @@ The **Line Input #** statement syntax has these parts:
 
 Data read with **Line Input #** is usually written from a file with **Print #**.
 
-The **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr(** 13 **)**) or carriage return-linefeed (**Chr(** 13 **)** + **Chr(** 10 **)**) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
+The **Line Input #** statement reads from a file one character at a time until it encounters a carriage return (**Chr**(13)) or carriage return-linefeed (**Chr**(13) + **Chr**(10)) sequence. Carriage return-linefeed sequences are skipped rather than appended to the character string.
 
 ## Example
 
-This example uses the **Line Input #** statement to read a line from a sequential file and assign it to a variable. This example assumes that the file is a text file with a few lines of sample data.
+This example uses the **Line Input #** statement to read a line from a sequential file and assign it to a variable. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
 
 
 ```vb

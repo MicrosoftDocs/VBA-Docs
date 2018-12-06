@@ -2,22 +2,26 @@
 title: Collections (Visual Basic Add-In Model)
 ms.prod: office
 ms.assetid: 45e5f192-c698-4805-9ba8-cbe52f313732
-ms.date: 09/17/2018
+ms.date: 12/05/2018
 ---
 
 
 # Collections (Visual Basic Add-In Model)
 
-- [AddIns](../User-Interface-Help/addins-collection-vba-add-in-object-model.md)
-- [CodePanes](../User-Interface-Help/codepanes-collection-vba-add-in-object-model.md)
-- [CommandBars](../User-Interface-Help/commandbars-collection-vba-add-in-object-model.md)
-- [LinkedWindows](../User-Interface-Help/windows-collection-vba-add-in-object-model.md)
-- [Properties](../User-Interface-Help/properties-collection-vba-add-in-object-model.md)
-- [References](../User-Interface-Help/references-collection-vba-add-in-object-model.md)
-- [VBComponents](../User-Interface-Help/vbcomponents-collection-vba-add-in-object-model.md)
-- [VBNewProjects](../User-Interface-Help/vbnewprojects-collection-vba-add-in-object-model.md)
-- [VBProjects](../User-Interface-Help/vbprojects-collection-vba-add-in-object-model.md)
-- [Windows](../User-Interface-Help/windows-collection-vba-add-in-object-model.md)
+|Name | Description | Remarks|
+|:----|:------------|:-------|
+|**AddIns** |Returns a [collection](../../Glossary/vbe-glossary.md#collection) of [add-ins](../../Glossary/vbe-glossary.md#add-in) registered for VBA. | **Syntax**:  _object_.**AddIns** <br/><br/>The **AddIns** collection is accessed through the **[VBE](../user-interface-help/vbe-object-vba-add-in-object-model.md)** object. Every add-in listed in the Add-In Manager in VBE has an object in the **AddIns** collection. |
+|**CodePanes** |Contains the active [code panes](../../Glossary/vbe-glossary.md#code-pane) in the **VBE** object.| Use the **CodePanes** collection to access the open code panes in a [project](../../Glossary/vbe-glossary.md#project). <br/><br/>You can use the **Count** property to return the number of active code panes in a collection.|
+|**CommandBars** |Contains all of the command bars in a project, including command bars that support shortcut menus.| Use the **CommandBars** collection to enable add-ins to add command bars and [controls](../../Glossary/vbe-glossary.md#control), or to add controls to existing, built-in, command bars.|
+|**LinkedWindows** |Contains all linked windows in a [linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame).| Use the **LinkedWindows** collection to modify the [docked](../../Glossary/vbe-glossary.md#docked-window) and [linked](../../Glossary/vbe-glossary.md#linked-window) state of windows in the [development environment](../../Glossary/vbe-glossary.md#development-environment).<br/><br/>**IMPORTANT**: Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.<br/><br/>The **LinkedWindowFrame** property of the **Window** object returns a **Window** object that has a valid **LinkedWindows** collection.<br/><br/>Linked window frames contain all windows that can be linked or docked. This includes all windows except code windows, [designers](../../Glossary/vbe-glossary.md#designer), the [Object Browser](../../Glossary/vbe-glossary.md#object-browser) window, and the Search and Replace window.<br/><br/>If all the panes from one linked window frame are moved to another window, the linked window frame with no panes is destroyed. However, if all the panes are removed from the main window, it isn't destroyed.<br/><br/>Use the **Visible** property to check or set the visibility of a window.<br/><br/>You can use the **Add** method to add a window to the collection of currently linked windows. A window that is a pane in one linked window frame can be added to another linked window frame. Use the **Remove** method to remove a window from the collection of currently linked windows; this results in the window being unlinked or undocked.<br/><br/>The **LinkedWindows** collection is used to dock and undock windows from the main window frame.|
+|**Properties** |Represents the [properties](../../Glossary/vbe-glossary.md#property) of an object.| Use the **Properties** collection to access the properties displayed in the [Properties window](../../Glossary/vbe-glossary.md#properties-window). For every property listed in the Properties window, there is an object in the **Properties** collection.|
+|**References** |Represents the set of references in the project.| Use the **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **References** dialog box.|
+|**VBComponents** |Represents the components contained in a project.| Use the **VBComponents** collection to access, add, or remove components in a project. A component can be a [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), or [class](../../Glossary/vbe-glossary.md#class). The **VBComponents** collection is a standard collection that can be used in a **For Each** block.<br/><br/>You can use the **[Parent](../user-interface-help/parent-property-vba-add-in-object-model.md)** property to return the project that the **VBComponents** collection is in.<br/><br/>In Visual Basic for Applications, you can use the **[Import](../user-interface-help/import-method-vba-add-in-object-model.md)** method to add a component to a project from a file. See also [VBComponent object](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md), [VBComponents property](../user-interface-help/vbcomponents-property.md), and [SelectedVBComponent property](../user-interface-help/selectedvbcomponent-property-vba-add-in-object-model.md).|
+|**VBNewProjects** |Represents all of the new projects in the development environment. | Use the **VBNewProjects** collection to access specific projects in an instance of the development environment. **VBNewProjects** is a standard collection that you can iterate through by using a **For...Each** block. |
+|**VBProjects** |Represents all the projects that are open in the development environment. | Use the **VBProjects** collection to access specific projects in an instance of the development environment. **VBProjects** is a standard collection that can be used in a **For Each** block.  | 
+|**Windows** |Contains all open or permanent windows.| Use the **Windows** collection to access **Window** objects.<br/><br/>The **Windows** collection has a fixed set of windows that are always available in the collection, such as the [Project window](../../Glossary/vbe-glossary.md#project-window), the Properties window, and a set of windows that represent all open code windows and designer windows. <br/><br/>Opening a code or designer window adds a new member to the **Windows** collection. Closing a code or designer window removes a member from the **Windows** collection. Closing a permanent development environment window doesn't remove the corresponding object from this collection, but results in the window not being visible.|
 
-    
+## See also
 
+- [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)

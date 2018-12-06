@@ -17,6 +17,8 @@ Used at the [procedure level](../../Glossary/vbe-glossary.md#procedure-level) to
 
 **Static** _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ], [ _varname_ [ ( [ _subscripts_ ] ) ] [ **As** [ **New** ] _type_ ]] **. . .**
 
+<br/>
+
 The **Static** statement syntax has these parts:
 
 |Part|Description|

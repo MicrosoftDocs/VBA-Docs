@@ -21,6 +21,8 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _statements_ ] <br/>
 **End Property**
 
+<br/>
+
 The **Property Set** statement syntax has these parts:
 
 |Part|Description|
@@ -35,10 +37,13 @@ The **Property Set** statement syntax has these parts:
 | _reference_|Required. Variable containing the object reference used on the right side of the object reference assignment.|
 | _statements_|Optional. Any group of statements to be executed within the body of the **Property** procedure.|
 
+<br/>
+
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As**_type_ ] [ **=** _defaultvalue_ ]
 
+<br/>
 
 |Part|Description|
 |:-----|:-----|
@@ -55,7 +60,7 @@ The _arglist_ argument has the following syntax and parts:
 
 ## Remarks
 
-If not explicitly specified by using **[[Public](public-statement.md)**, **[Private](private-statement.md)**, or **[Friend](friend-keyword.md)**, **Property** procedures are public by default. If **[Static](static-statement.md)** isn't used, the value of local variables is not preserved between calls. 
+If not explicitly specified by using **[Public](public-statement.md)**, **[Private](private-statement.md)**, or **[Friend](friend-keyword.md)**, **Property** procedures are public by default. If **[Static](static-statement.md)** isn't used, the value of local variables is not preserved between calls. 
 
 The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of its parent class, nor can a **Friend** procedure be late bound.
 

@@ -17,6 +17,8 @@ Saves or creates an application entry in the application's entry in the Windows 
 
 **SaveSetting** _appname_, _section_, _key_, _setting_
 
+<br/>
+
 The **SaveSetting** statement syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

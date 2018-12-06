@@ -13,14 +13,14 @@ ms.date: 06/08/2017
 
 # ListObject.DataBodyRange property (Excel)
 
-Returns a  **[Range](Excel.Range(object).md)** object that represents the range of values, excluding the header row, in a table. Read-only.
+Returns a **[Range](Excel.Range(object).md)** object that represents the range of values, excluding the header row, in a table. Read-only.
 
 
 ## Syntax
 
- _expression_. `DataBodyRange`
+_expression_.**DataBodyRange**
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example
@@ -34,8 +34,4 @@ ActiveSheet.ListObjects.Item(1).DataBodyRange.Select
 ```
 
 
-## See also
-
-
-[ListObject Object](Excel.ListObject.md)
 

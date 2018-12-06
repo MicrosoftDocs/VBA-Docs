@@ -15,13 +15,13 @@ Resumes execution after an error-handling routine is finished.
 
 ## Syntax
 
-**Resume** [ **0** ]
-
-**Resume Next**
-
+**Resume** [ **0** ]<br/>
+**Resume Next**<br/>
 **Resume**_line_
 
-The **Resume** statement syntax can have any of the following forms.
+<br/>
+
+The **Resume** statement syntax can have any of the following forms:
 
 |Statement|Description|
 |:-----|:-----|

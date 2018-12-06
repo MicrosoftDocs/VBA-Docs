@@ -17,6 +17,8 @@ Writes data to a sequential file.
 
 **Write #**_filenumber_, [ _outputlist_ ]
 
+<br/>
+
 The **Write #** statement syntax has these parts:
 
 |Part|Description|

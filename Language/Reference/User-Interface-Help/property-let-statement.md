@@ -21,6 +21,8 @@ Declares the name, [arguments](../../Glossary/vbe-glossary.md#argument), and cod
 [ _statements_ ] <br/>
 **End Property**
 
+<br/>
+
 The **Property Let** statement syntax has these parts:
 
 |Part|Description|
@@ -34,10 +36,13 @@ The **Property Let** statement syntax has these parts:
 | _value_|Required. Variable to contain the value to be assigned to the property. When the procedure is called, this argument appears on the right side of the calling [expression](../../Glossary/vbe-glossary.md#expression). The data type of _value_ must be the same as the return type of the corresponding **Property Get** procedure.|
 | _statements_|Optional. Any group of [statements](../../Glossary/vbe-glossary.md#statement) to be executed within the **Property Let** procedure.|
 
+<br/>
+
 The _arglist_ argument has the following syntax and parts:
 
 [ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As**_type_ ] [ **=** _defaultvalue_ ]
 
+<br/>
 
 |Part|Description|
 |:-----|:-----|
@@ -54,7 +59,7 @@ The _arglist_ argument has the following syntax and parts:
 
 ## Remarks
 
-If not explicitly specified by using **[[Public](public-statement.md)**, **[Private](private-statement.md)**, or **[Friend](friend-keyword.md)**, **Property** procedures are public by default. If **[Static](static-statement.md)** isn't used, the value of local variables is not preserved between calls. 
+If not explicitly specified by using **[Public](public-statement.md)**, **[Private](private-statement.md)**, or **[Friend](friend-keyword.md)**, **Property** procedures are public by default. If **[Static](static-statement.md)** isn't used, the value of local variables is not preserved between calls. 
 
 The **Friend** keyword can only be used in class modules. However, **Friend** procedures can be accessed by procedures in any module of a project. A **Friend** procedure doesn't appear in the [type library](../../Glossary/vbe-glossary.md#type-library) of its parent class, nor can a **Friend** procedure be late bound.
 
