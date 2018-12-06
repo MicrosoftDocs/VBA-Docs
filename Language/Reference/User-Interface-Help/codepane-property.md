@@ -1,5 +1,5 @@
 ---
-title: CodePane Property
+title: CodePane property (VBA)
 keywords: vbob6.chm104023
 f1_keywords:
 - vbob6.chm104023
@@ -11,15 +11,13 @@ ms.date: 12/06/2018
 ---
 
 
-# CodePane Property
+# CodePane property
 
-
-
-Returns a  **CodePane** object. Read-only.
+Returns a **[CodePane](codepane-object-vba-add-in-object-model.md)** object. Read-only.
 
 ## Remarks
 
-If a [code pane](../../Glossary/vbe-glossary.md#code-pane) exists, it becomes the active code pane, and the window that contains it becomes the active window. If a code pane doesn't exist for the [module](../../Glossary/vbe-glossary.md#module), the  **CodePane** property creates one.
+If a [code pane](../../Glossary/vbe-glossary.md#code-pane) exists, it becomes the active code pane, and the window that contains it becomes the active window. If a code pane doesn't exist for the [module](../../Glossary/vbe-glossary.md#module), the **CodePane** property creates one.
 
 ## See also
 

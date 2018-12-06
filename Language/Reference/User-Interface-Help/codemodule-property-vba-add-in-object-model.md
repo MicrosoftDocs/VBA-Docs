@@ -1,5 +1,5 @@
 ---
-title: CodeModule Property (VBA Add-In Object Model)
+title: CodeModule property (VBA Add-In Object Model)
 keywords: vbob6.chm1071208
 f1_keywords:
 - vbob6.chm1071208
@@ -9,17 +9,18 @@ ms.date: 12/06/2018
 ---
 
 
-# CodeModule Property (VBA Add-In Object Model)
-
-
+# CodeModule property (VBA Add-In Object Model)
 
 Returns an object representing the code behind the component. Read-only.
 
 ## Remarks
 
-The  **CodeModule** property returns **Nothing** if the component doesn't have a [code module](../../Glossary/vbe-glossary.md#code-module) associated with it.
+The **CodeModule** property returns **[Nothing](nothing-keyword.md)** if the component doesn't have a [code module](../../Glossary/vbe-glossary.md#code-module) associated with it.
 
- **Note**  The  **CodePane** object represents a visible code window. A given component can have several **CodePane** objects. The **[CodeModule](codemodule-object-vba-add-in-object-model.md)** object represents the code within a component. A component can only have one **CodeModule** object.
+> [!NOTE] 
+> The **[CodePane](codepane-object-vba-add-in-object-model.md)** object represents a visible code window. A given component can have several **CodePane** objects. 
+> 
+> The **[CodeModule](codemodule-object-vba-add-in-object-model.md)** object represents the code within a component. A component can only have one **CodeModule** object.
 
 ## See also
 

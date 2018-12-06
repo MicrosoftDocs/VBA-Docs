@@ -5,7 +5,7 @@ f1_keywords:
 - vbob6.chm1070965
 ms.prod: office
 ms.assetid: dc05deb4-157c-4248-831a-a28acd997a7a
-ms.date: 06/08/2017
+ms.date: 12/06/2018
 ---
 
 
@@ -22,3 +22,8 @@ The **BuiltIn** property returns these values:
 |**True**|The reference is a default reference that can't be removed.|
 |**False**|The reference isn't a default reference; it can be removed.|
 
+## See also
+
+- [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
+- [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

@@ -1,5 +1,5 @@
 ---
-title: CommandBars Property (VBA Add-In Object Model)
+title: CommandBars property (VBA Add-In Object Model)
 keywords: vbob6.chm100014
 f1_keywords:
 - vbob6.chm100014
@@ -9,14 +9,13 @@ ms.date: 12/06/2018
 ---
 
 
-# CommandBars Property (VBA Add-In Object Model)
-
-
+# CommandBars property (VBA Add-In Object Model)
 
 Contains all of the command bars in a project, including command bars that support shortcut menus.
 
 ## See also
 
+- [Menus and commands](../menus-commands.md)
 - [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
 - [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
