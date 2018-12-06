@@ -15,7 +15,7 @@ Returns a member of a [collection](../../Glossary/vbe-glossary.md#collection), e
 
 ## Syntax
 
-**Set**_Object_ = _object_. **Item(**_collectionindex_**)**
+**Set**_Object_ = _object_.**Item**(_collectionindex_)
 
 The **Item** method syntax has these parts:
 

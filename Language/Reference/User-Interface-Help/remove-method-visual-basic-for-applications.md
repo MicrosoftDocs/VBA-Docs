@@ -15,7 +15,7 @@ Removes a [member](../../Glossary/vbe-glossary.md#member) from a **Collection** 
 
 ## Syntax
 
-_object_**.Remove**_index_
+_object_.**Remove** _index_
 
 The **Remove** method syntax has the following object qualifier and part:
 
