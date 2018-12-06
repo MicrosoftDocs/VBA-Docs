@@ -2,7 +2,7 @@
 title: Methods (Visual Basic Add-In Model)
 ms.prod: office
 ms.assetid: 702bf8c5-8d2a-4d90-9250-6036620c42c3
-ms.date: 09/17/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -34,5 +34,9 @@ ms.date: 09/17/2018
 - [Show](../User-Interface-Help/show-method-vba-add-in-object-model.md)
 - [Update](../User-Interface-Help/update-method-vba-add-in-object-model.md)
 
-    
+## See also
+
+- [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)    
 

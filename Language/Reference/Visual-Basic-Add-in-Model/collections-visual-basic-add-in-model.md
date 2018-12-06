@@ -29,3 +29,4 @@ The following table describes the collections in the Visual Basic Add-In Model.
 
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

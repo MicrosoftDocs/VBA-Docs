@@ -2,7 +2,7 @@
 title: Visual Basic Add-in Model reference
 ms.prod: office
 ms.assetid: 4cb81d38-3a23-4dd2-9541-3d623b1cd1a2
-ms.date: 11/21/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -20,3 +20,4 @@ Describes how to customize the Visual Basic Editor, and provides documentation f
 ## See also
 
 - [Visual Basic language reference](visual-basic-language-reference.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

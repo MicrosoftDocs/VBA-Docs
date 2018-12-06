@@ -5,7 +5,7 @@ f1_keywords:
 - vbob6.chm1071208
 ms.prod: office
 ms.assetid: 5e99b614-7207-f577-49dd-5199cb4d9373
-ms.date: 06/08/2017
+ms.date: 12/06/2018
 ---
 
 
@@ -21,4 +21,8 @@ The  **CodeModule** property returns **Nothing** if the component doesn't have a
 
  **Note**  The  **CodePane** object represents a visible code window. A given component can have several **CodePane** objects. The **[CodeModule](codemodule-object-vba-add-in-object-model.md)** object represents the code within a component. A component can only have one **CodeModule** object.
 
+## See also
 
+- [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
+- [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)
