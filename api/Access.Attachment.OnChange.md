@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Attachment.OnChange property (Access)
 
-Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the Applies To list. Read/write **String**.
+Sets or returns the value of the  **On Change** box in the **Properties** window of one of the objects in the **Applies To** list. Read/write **String**.
 
 
 ## Syntax

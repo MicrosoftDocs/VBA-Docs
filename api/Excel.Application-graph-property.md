@@ -17,7 +17,7 @@ Returns an Application object that represents the Microsoft Graph application. R
 
  _expression_. `Application`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

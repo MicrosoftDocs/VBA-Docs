@@ -19,7 +19,7 @@ The setting for the [argument](../../Glossary/vbe-glossary.md#argument) you pass
 
 |**Argument**|**Description**|
 |:-----|:-----|
-| _vbproject_|If  _vbproject_ points to **Nothing**, the object that is returned will supply events for the **References** collections of all **VBProject** objects in the **VBProjects** collection. If  _vbproject_ points to a valid **VBProject** object, the object that is returned will supply events for only the **References** collection for that [project](../../Glossary/vbe-glossary.md#project).|
+| _vbproject_|If  _vbproject_ points to **Nothing**, the object that is returned will supply events for the **References** collections of all **VBProject** objects in the **VBProjects** collection. If  _vbproject_ points to a valid **[VBProject](vbproject-object-vba-add-in-object-model.md)** object, the object that is returned will supply events for only the **References** collection for that [project](../../Glossary/vbe-glossary.md#project).|
 
 ## Remarks
 

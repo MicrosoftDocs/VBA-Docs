@@ -23,7 +23,7 @@ The  **GetSelection** syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) that returns a value specifying the first line of the selection in the code pane.|
 | _startcol_|Required. A  **Long** that returns a value specifying the first column of the selection in the code pane.|
 | _endline_|Required. A  **Long** that returns a value specifying the last line of the selection in the code pane.|

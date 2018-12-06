@@ -23,7 +23,7 @@ Returns or sets the color of the interior pattern as an index into the current c
 
  _expression_. `PatternColorIndex`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

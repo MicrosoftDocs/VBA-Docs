@@ -17,7 +17,7 @@ True if the data in the specified row or column is included in the chart. Read/w
 
  _expression_. `Include`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

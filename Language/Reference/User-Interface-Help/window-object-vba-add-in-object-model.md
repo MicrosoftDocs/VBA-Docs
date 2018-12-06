@@ -36,5 +36,5 @@ You can use the  **Close** method to close a window in the **Windows** collectio
 
 You can use the  **SetFocus** method to move the [focus](../../Glossary/vbe-glossary.md#focus) to a window.
 You can use the  **Visible** property to return or set the visibility of a window.
-To find out what type of window you are working with, you can use the  **Type** property. If you have more than one window of a type, for example, multiple designers, you can use the **Caption** property to determine the window you are working with. You can also find the window you want to work with using the **DesignerWindow** property of the **VBComponent** object or the **Window** property of the **CodePane** object.
+To find out what type of window you are working with, you can use the  **Type** property. If you have more than one window of a type, for example, multiple designers, you can use the **Caption** property to determine the window you are working with. You can also find the window you want to work with using the **DesignerWindow** property of the **[VBComponent](vbcomponent-object-vba-add-in-object-model.md)** object or the **Window** property of the **CodePane** object.
 

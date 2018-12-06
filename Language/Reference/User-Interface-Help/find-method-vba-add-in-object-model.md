@@ -23,7 +23,7 @@ The  **Find** syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _target_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the text or pattern you want to find.|
 | _startline_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line at which you want to start the search; will be set to the line of the match if one is found. The first line is number 1.|
 | _startcol_|Required. A  **Long** specifying the column at which you want to start the search; will be set to the column containing the match if one is found. The first column is 1.|

@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # Delete Method (Graph)
 
-Delete method as it applies to all objects in the Applies To list except the  **Range** object.
+Delete method as it applies to all objects in the **Applies To** list except the  **Range** object.
 
 Deletes the specified object.
 

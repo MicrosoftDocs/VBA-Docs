@@ -25,7 +25,7 @@ Returns or sets the text background type. This property is used only for text on
 
  _expression_. `Background`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

@@ -39,7 +39,7 @@ The **Type** property settings for the **Window** object are described in the fo
 
 <br/>
 
-The **Type** property settings for the **VBComponent** object are described in the following table:
+The **Type** property settings for the **[VBComponent](vbcomponent-object-vba-add-in-object-model.md)** object are described in the following table:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -60,7 +60,7 @@ The **Type** property settings for the **Reference** object are described in the
 
 <br/>
 
-The **Type** property settings for the **VBProject** object are described in the following table:
+The **Type** property settings for the **[VBProject](vbproject-object-vba-add-in-object-model.md)** object are described in the following table:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|

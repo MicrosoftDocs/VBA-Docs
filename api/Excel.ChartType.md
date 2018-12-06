@@ -94,7 +94,7 @@ Returns or sets the chart type. Read/write XlChartType .
 
  _expression_. `ChartType`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

@@ -17,7 +17,7 @@ True if the font style is italic. Read/write Variant.
 
  _expression_. `Italic`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

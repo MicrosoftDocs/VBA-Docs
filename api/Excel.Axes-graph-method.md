@@ -17,7 +17,7 @@ Returns an object that represents either a single axis or a collection of the ax
 
  _expression_. `Axes`( `_Type_`,  `_AxisGroup_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Type** Optional
  **xlAxisType**

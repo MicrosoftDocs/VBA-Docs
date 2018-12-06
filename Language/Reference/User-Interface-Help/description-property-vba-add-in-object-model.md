@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. For the **VBProject** object, read/write; for the **Reference** object, read-only.
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. For the **[VBProject](vbproject-object-vba-add-in-object-model.md)** object, read/write; for the **Reference** object, read-only.
 
 ## Remarks
 

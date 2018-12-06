@@ -15,7 +15,7 @@ Returns the value of the specified cell. If the cell is empty, Value returns the
 
  _expression_. `Value`( `_RangeValueDataType_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **RangeValueDataType** Optional **Variant**.
 

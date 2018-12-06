@@ -17,7 +17,7 @@ True if a picture is applied to the end of the point or all points in the series
 
  _expression_. `ApplyPictToEnd`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

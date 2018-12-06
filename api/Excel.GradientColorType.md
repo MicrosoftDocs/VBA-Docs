@@ -25,7 +25,7 @@ Returns the gradient color type for the specified fill. Read-only MsoGradientCol
 
  _expression_. `GradientColorType`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

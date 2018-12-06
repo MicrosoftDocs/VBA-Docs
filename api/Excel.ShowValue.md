@@ -17,7 +17,7 @@ Allows the user to show the value for the data labels on a chart. Read/write Boo
 
  _expression_. `ShowValue`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

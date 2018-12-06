@@ -33,7 +33,7 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
  _expression_. `MarkerStyle`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

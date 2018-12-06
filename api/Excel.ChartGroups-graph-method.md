@@ -17,7 +17,7 @@ Returns an object that represents either a single chart group or a collection of
 
  _expression_. `ChartGroups`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The chart group number.
 

@@ -24,7 +24,7 @@ Returns the texture type for the specified fill. Read-only MsoTextureType .
 
  _expression_. `TextureType`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

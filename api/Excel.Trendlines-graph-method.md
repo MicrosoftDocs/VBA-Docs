@@ -17,7 +17,7 @@ Returns an object that represents a single trendline or a collection of all the 
 
  _expression_. `Trendlines`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The name or number of the trendline.
 

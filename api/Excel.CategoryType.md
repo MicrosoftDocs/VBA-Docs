@@ -24,7 +24,7 @@ Returns or sets the category axis type. Read/write XlCategoryType .
 
  _expression_. `CategoryType`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

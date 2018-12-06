@@ -20,5 +20,5 @@ Supplies properties that enable add-ins to connect to all events in Visual Basic
 ## Syntax
 
 _object_. **Events**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.
 

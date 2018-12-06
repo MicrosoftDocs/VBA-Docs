@@ -17,7 +17,7 @@ On a 2-D chart, returns an object that represents either a single scatter chart 
 
  _expression_. `XYGroups`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. Specifies the chart group.
 

@@ -23,7 +23,7 @@ Returns or sets the type of underline applied to the font. Required  **xlUnderli
 
  _expression_. `Underline`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

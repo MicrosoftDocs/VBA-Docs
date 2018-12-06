@@ -17,7 +17,7 @@ Sets the specified fill to a uniform color. Use this method to convert a gradien
 
  _expression_. `Solid`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

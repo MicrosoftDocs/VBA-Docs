@@ -17,7 +17,7 @@ True if the first letter of day names is capitalized automatically. Read/write B
 
  _expression_. `CapitalizeNamesOfDays`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

@@ -17,7 +17,7 @@ Returns an object that represents either a single legend entry or a collection o
 
  _expression_. `LegendEntries`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The number of the legend entry.
 
