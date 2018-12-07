@@ -20,5 +20,5 @@ Returns the ProgID (programmatic ID) for the control represented by the  **VBCon
 ## Syntax
 
 _object_**.ProgID**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.
 

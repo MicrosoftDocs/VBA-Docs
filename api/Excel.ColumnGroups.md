@@ -17,7 +17,7 @@ On a 2-D chart, returns an object that represents either a single column chart g
 
  _expression_. `ColumnGroups`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The index number of the specified column chart group.
 

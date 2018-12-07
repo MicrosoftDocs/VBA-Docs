@@ -25,7 +25,7 @@ Returns or sets the weight of the border. Read/write
 
  _expression_. `Weight`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Example
 

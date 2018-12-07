@@ -2,7 +2,7 @@
 title: Properties (Visual Basic Add-In Model)
 ms.prod: office
 ms.assetid: 278f8774-d259-4212-ba80-326841106aa1
-ms.date: 09/17/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -77,4 +77,8 @@ ms.date: 09/17/2018
 - [WindowState](../User-Interface-Help/windowstate-property-vba-add-in-object-model.md)
 
     
+## See also
 
+- [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

@@ -17,7 +17,7 @@ True if the chart axes are at right angles, independent of chart rotation or ele
 
  _expression_. `RightAngleAxes`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

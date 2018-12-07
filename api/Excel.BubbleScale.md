@@ -17,7 +17,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Can b
 
  _expression_. `BubbleScale`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

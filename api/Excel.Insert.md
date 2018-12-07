@@ -17,7 +17,7 @@ Inserts a cell or a range of cells into the datasheet and shifts other cells awa
 
  _expression_. `Insert`( `_Shift_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Shift** Optional
  **xlInsertShiftDirection**

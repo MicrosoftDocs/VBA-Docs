@@ -17,6 +17,8 @@ Executes a series of [statements](../../Glossary/vbe-glossary.md#statement) on a
 
 **With** _object_ [ _statements_ ] **End With**
 
+<br/>
+
 The **With** statement syntax has these parts:
 
 |Part|Description|

@@ -17,7 +17,7 @@ Fills the specified shape with an image.
 
  _expression_. `UserPicture`( `_PictureFile_`,  `_PictureFormat_`,  `_PictureStackUnit_`,  `_PicturePlacement_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **PictureFile** Required **Variant**. The name of the specified picture file.
  **PictureFormat** Optional

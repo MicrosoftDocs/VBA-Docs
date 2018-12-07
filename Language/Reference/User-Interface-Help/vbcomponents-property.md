@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.VBComponents
 ms.assetid: cf5dea3b-e583-8547-9448-0fd23e5623ee
-ms.date: 11/29/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -27,3 +27,6 @@ In Visual Basic for Applications, you can use the **[Import](import-method-vba-a
 
 - [VBComponent object](vbcomponent-object-vba-add-in-object-model.md)
 - [SelectedVBComponent property](selectedvbcomponent-property-vba-add-in-object-model.md)
+- [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
+- [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

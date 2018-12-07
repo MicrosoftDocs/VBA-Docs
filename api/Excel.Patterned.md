@@ -17,7 +17,7 @@ Sets a pattern for the specified fill.
 
  _expression_. `Patterned`( `_Pattern_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Pattern**Required 
  **MsoPatternType**

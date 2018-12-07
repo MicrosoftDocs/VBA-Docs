@@ -17,7 +17,7 @@ True if the font is an outline font. Read/write Variant.
 
  _expression_. `OutlineFont`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

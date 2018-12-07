@@ -19,7 +19,7 @@ The Activate event occurs when an object becomes the active window. The Deactiva
 
 **Private Sub**_object_**_Activate()**
  **Private Sub**_object_**_Deactivate()**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.
 
 ## Remarks
 

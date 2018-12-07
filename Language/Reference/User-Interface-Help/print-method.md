@@ -25,7 +25,7 @@ The  **Print** method syntax has the following object qualifier and part:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list.|
+| _object_|Optional. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _outputlist_|Optional. [Expression](../../Glossary/vbe-glossary.md#expression) or list of expressions to print. If omitted, a blank line is printed.|
 
 The  _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) has the following syntax and parts:

@@ -17,7 +17,7 @@ Returns or sets the width of all columns in the specified range. Read/write Vari
 
  _expression_. `ColumnWidth`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 
 
-Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name used in code to identify an object. For the **VBProject** object and the **VBComponent** object, read/write; for the **Property** object and the **Reference** object, read-only.
+Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name used in code to identify an object. For the **[VBProject](vbproject-object-vba-add-in-object-model.md)** object and the **[VBComponent](vbcomponent-object-vba-add-in-object-model.md)** object, read/write; for the **Property** object and the **Reference** object, read-only.
 
 ## Remarks
 

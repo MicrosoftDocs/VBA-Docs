@@ -15,9 +15,13 @@ Adds or inserts a **Tab** or **Page** in a **[TabStrip](tabstrip-control.md)** o
 
 ## Syntax
 
-For MultiPage, TabStrip **Set**_Object_ = _object_. **Add(** [ _Name_ [, _Caption_ [, _index_ ]]] **)**
+For MultiPage, TabStrip:<br/> 
+**Set**_Object_ = _object_. **Add(** [ _Name_ [, _Caption_ [, _index_ ]]] **)**
 
-For other controls **Set**_Control_ = _object_. **Add(**_ProgID_ [, _Name_ [, _Visible_ ]] **)**
+For other controls:<br/> 
+**Set**_Control_ = _object_. **Add(**_ProgID_ [, _Name_ [, _Visible_ ]] **)**
+
+<br/>
 
 The **Add** method syntax has these parts:
 

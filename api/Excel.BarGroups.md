@@ -17,7 +17,7 @@ On a 2-D chart, this method returns an object that represents either a single ba
 
  _expression_. `BarGroups`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The index number of the specified bar chart group.
 

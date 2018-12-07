@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 
 # HasOpenDesigner property (VBA Add-In Object Model)
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **VBComponent** object has an open [designer](../../Glossary/vbe-glossary.md#designer). Read-only.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the **[VBComponent](vbcomponent-object-vba-add-in-object-model.md)** object has an open [designer](../../Glossary/vbe-glossary.md#designer). Read-only.
 
 ## Return values
 

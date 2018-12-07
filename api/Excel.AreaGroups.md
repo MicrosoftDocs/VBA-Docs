@@ -17,7 +17,7 @@ On a 2-D chart, this method returns an object that represents a single area char
 
  _expression_. `AreaGroups`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The index number of the specified chart group.
 

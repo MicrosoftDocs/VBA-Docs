@@ -17,7 +17,7 @@ Activates the object.
 
  _expression_. `Activate`
 
- _expression_ Required. An expression that returns an object in the Applies To list.
+ _expression_ Required. An expression that returns an object in the **Applies To** list.
 
 
 ## Example

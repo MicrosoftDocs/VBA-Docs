@@ -2,7 +2,7 @@
 title: Objects (Visual Basic Add-In Model)
 ms.prod: office
 ms.assetid: d92a32be-3e40-4ce2-ba11-fa797840984a
-ms.date: 09/17/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -21,3 +21,9 @@ ms.date: 09/17/2018
 - [VBE](../User-Interface-Help/vbe-object-vba-add-in-object-model.md)
 - [VBProject](../User-Interface-Help/vbproject-object-vba-add-in-object-model.md)
 - [Window](../User-Interface-Help/window-object-vba-add-in-object-model.md)
+
+## See also
+
+- [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
+- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

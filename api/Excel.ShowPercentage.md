@@ -17,7 +17,7 @@ Allows the user to show the percentage value for the data labels on a chart. Rea
 
  _expression_. `ShowPercentage`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Remarks

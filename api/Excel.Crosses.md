@@ -25,7 +25,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
  _expression_. `Crosses`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 ## Remarks
 

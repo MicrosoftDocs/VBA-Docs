@@ -17,7 +17,7 @@ Returns a CommandBars object that represents the Microsoft Graph command bars. R
 
  _expression_. `CommandBars`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

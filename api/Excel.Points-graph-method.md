@@ -17,7 +17,7 @@ Returns an object that represents a single point or a collection of all the poin
 
  _expression_. `Points`( `_Index_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **Index** Optional **Variant**. The name or number of the point.
 

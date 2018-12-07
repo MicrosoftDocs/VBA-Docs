@@ -17,7 +17,7 @@ Sets the format of the specified fill to a preset texture.
 
  _expression_. `PresetTextured`( `_PresetTexture_`)
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
  **PresetTexture**Required 
  **MsoPresetTexture**

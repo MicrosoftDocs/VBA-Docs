@@ -20,7 +20,7 @@ Sends a bit-by-bit image of a  **[UserForm](userform-window.md)** object to the 
 ## Syntax
 
 _object_**.PrintForm**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the Applies To list. If _object_ is omitted, the **[UserForm](userform-window.md)** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
+The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list. If _object_ is omitted, the **[UserForm](userform-window.md)** with the [focus](../../Glossary/vbe-glossary.md#focus) is assumed to be _object_.
 
 ## Remarks
 

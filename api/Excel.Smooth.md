@@ -17,7 +17,7 @@ True if curve smoothing is turned on for the line chart or scatter chart. Applie
 
  _expression_. `Smooth`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example

@@ -5,7 +5,7 @@ f1_keywords:
 - vbob6.chm1071195
 ms.prod: office
 ms.assetid: 1b25b21b-b666-31ce-3251-4f3b9c8c7b3a
-ms.date: 11/29/2018
+ms.date: 12/06/2018
 ---
 
 
@@ -17,9 +17,15 @@ Represents a component, such as a [class module](../../Glossary/vbe-glossary.md#
 
 Use the **VBComponent** object to access the [code module](../../Glossary/vbe-glossary.md#code-module) associated with a component or to change a component's property settings.
 
-You can use the **[Type](type-property-vba-add-in-object-model.md)** property to find out what type of component the **VBComponent** object refers to. Use the **[Collection](collection-property-vba-add-in-object-model.md)** property to find out what [collection](../../Glossary/vbe-glossary.md#collection) the component is in.
+You can use the **[Type](type-property-vba-add-in-object-model.md)** property to find out what type of component the **VBComponent** object refers to. 
+
+Use the **[Collection](collection-property-vba-add-in-object-model.md)** property to find out what [collection](../../Glossary/vbe-glossary.md#collection) the component is in.
 
 ## See also
 
+- [DesignerWindow method](designerwindow-method.md)
 - [VBComponents property](vbcomponents-property.md)
 - [SelectedVBComponent property](selectedvbcomponent-property-vba-add-in-object-model.md)
+- [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
+- [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

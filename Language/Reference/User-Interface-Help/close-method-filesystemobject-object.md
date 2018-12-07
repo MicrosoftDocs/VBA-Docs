@@ -1,5 +1,5 @@
 ---
-title: Close Method (FileSystemObject object)
+title: Close method (FileSystemObject object)
 keywords: vblr6.chm2182075
 f1_keywords:
 - vblr6.chm2182075
@@ -9,15 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# Close Method (FileSystemObject object)
+# Close method (FileSystemObject object)
 
-
-
- **Description**
-Closes an open  **TextStream** file.
+Closes an open **TextStream** file.
 
 ## Syntax
 
-_object_. **Close**
-The  _object_ is always the name of a **TextStream** object.
+_object_.**Close**
+
+The _object_ is always the name of a **TextStream** object.
 

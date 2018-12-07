@@ -17,7 +17,7 @@ True if Microsoft Graph scales a 3-D chart so that it's closer in size to the eq
 
  _expression_. `AutoScaling`
 
- _expression_ Required. An expression that returns one of the objects in the Applies To list.
+ _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 
 
 ## Example
