@@ -44,7 +44,7 @@ The  _CharNumber_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The CharNumber argument represents an ASCII character number.|
 |**msoTrue**|The CharNumber argument represents a Unicode character.|

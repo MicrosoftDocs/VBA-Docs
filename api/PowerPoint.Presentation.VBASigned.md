@@ -34,7 +34,7 @@ The value of the  **VBASigned** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The VBA project for the specified document has not been digitally signed.|
 |**msoTrue**| The VBA project for the specified document has been digitally signed.|

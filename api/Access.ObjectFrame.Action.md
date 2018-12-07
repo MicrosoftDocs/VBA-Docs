@@ -29,7 +29,7 @@ The  **Action** property uses the following settings.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**acOLECreateEmbed** (0)|Creates an embedded object. To use this setting, you must first set the control's **OLETypeAllowed** property to **acOLEEmbedded** or **acOLEEither**. Set the **Class** property to the type of OLE object you want to create. You can use the **SourceDoc** property to use an existing file as a template.|
 |**acOLECreateLink** (1)|Creates a linked OLE object from the contents of a file. To use this setting, you must first set the control's  **OLETypeAllowed** and **SourceDoc** properties. Set the **OLETypeAllowed** property to **acOLELinked** or **acOLEEither**. The **SourceDoc** property specifies the file used to create the OLE object. You can also set the control's **SourceItem** property (for example, to specify a row-and-column range if the object you are creating is a Microsoft Excel worksheet). When you create an OLE object by using this setting, the control displays a metafile graphic image of the file specified by the control's **SourceDoc** property. If you save the OLE object, only the link information, such as the name of the application that supplied the object and the name of the linked file, is saved because the control contains an image of the data but no source data.|

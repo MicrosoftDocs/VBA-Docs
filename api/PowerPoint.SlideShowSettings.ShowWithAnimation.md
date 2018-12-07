@@ -34,7 +34,7 @@ The value of the  **ShowWithAnimation** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide show displays shapes without assigned animation settings.|
 |**msoTrue**| The specified slide show displays shapes with assigned animation settings.|

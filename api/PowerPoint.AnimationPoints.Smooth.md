@@ -34,7 +34,7 @@ The value of the  **Smooth** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The animation point should not be smoothed.|
 |**msoTrue**| The default. The animation should be smoothed.|

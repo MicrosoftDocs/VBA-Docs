@@ -42,7 +42,7 @@ The  _WithWindow_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The new presentation isn't visible.|
 |**msoTrue**|The default. Creates the presentation in a visible window.|

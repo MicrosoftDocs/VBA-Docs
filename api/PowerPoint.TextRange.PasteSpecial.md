@@ -59,7 +59,7 @@ The  _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|

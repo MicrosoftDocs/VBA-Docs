@@ -36,7 +36,7 @@ The value of the  **FollowColors** property can be one of these **PpFollowColors
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppFollowColorsNone**| The chart colors don't follow the slide's color scheme.|
 |**ppFollowColorsMixed**|Some of the chart colors follow the slide's color scheme.|

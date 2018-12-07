@@ -52,7 +52,7 @@ The Link parameter can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The OLE object is embedded.|
 | **msoTrue**|The OLE object is linked. The default.|

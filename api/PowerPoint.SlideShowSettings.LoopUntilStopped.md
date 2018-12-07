@@ -29,7 +29,7 @@ The value of the  **LoopUntilStopped** property can be one of these **MsoTriStat
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide show does not loop continuously. |
 |**msoTrue**| The specified slide show loops continuously until the user presses ESC.|

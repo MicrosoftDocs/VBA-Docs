@@ -38,7 +38,7 @@ The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**vbext_pk_Get**|A  **Property Get** procedure.|
 |**vbext_pk_Let**|A  **Property Let** procedure.|

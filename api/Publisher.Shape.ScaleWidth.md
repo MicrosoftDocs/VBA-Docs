@@ -39,7 +39,7 @@ The RelativeToOriginalSize parameter can be one of the  **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Scales the shape relative to its current size.|
 | **msoTrue**|Scales the shape relative to its original size.|

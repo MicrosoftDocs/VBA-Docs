@@ -40,7 +40,7 @@ The AlignCmd parameter can be one of the  **MsoAlignCmd** constants declared in 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoAlignBottoms**|Aligns shapes along their bottom edges. If  _RelativeTo_ is **msoFalse**, the bottommost shape determines the line against which the other shapes are aligned.|
 | **msoAlignCenters**|Aligns shapes on a vertical line through their centers. If  _RelativeTo_ is **msoFalse**, shapes are aligned on a line halfway between the left- and rightmost shapes.|
@@ -53,7 +53,7 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Aligns shapes relative to one another.|
 | **msoTrue**|Aligns shapes relative to the page.|

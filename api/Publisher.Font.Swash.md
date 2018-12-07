@@ -37,7 +37,7 @@ The  **Swash** property value can be one of the following **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as swash.|
 | **msoTriStateMixed**|Return value indicating that the range contains some text formatted as swash and some text not formatted as swash.|

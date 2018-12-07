@@ -34,7 +34,7 @@ The value returned by the  **Active** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified pane or window is inactive.|
 |**msoTrue**| The specified pane or window is active.|

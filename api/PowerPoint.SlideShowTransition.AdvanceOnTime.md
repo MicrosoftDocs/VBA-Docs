@@ -36,7 +36,7 @@ The value of the  **AdvanceOnTime** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide does not advance automatically after a specified amount of time has elapsed. |
 |**msoTrue**| The specified slide advances automatically after a specified amount of time has elapsed.|

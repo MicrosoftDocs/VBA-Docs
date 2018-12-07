@@ -34,7 +34,7 @@ The value of the  **ShowAndReturn** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Default. PowerPoint doesn't return to the initiating slide show from the deactivated custom slide show.|
 |**msoTrue**| PowerPoint returns to the initiating slide show from a deactivated custom slide show that was activated by using the **[Hyperlink](PowerPoint.Hyperlink.md)** object of the initiating presentation.|

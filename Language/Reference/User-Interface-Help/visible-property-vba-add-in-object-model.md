@@ -15,7 +15,7 @@ For the **Window** object, returns or sets a [Boolean](../../Glossary/vbe-glossa
 
 For the **CodePane** object, returns a **Boolean** value that indicates whether the [code pane](../../Glossary/vbe-glossary.md#code-pane) is visible in the window. Read-only.
 
-## Return values
+### Return values
 
 The **Visible** property returns the following values:
 

@@ -63,7 +63,7 @@ The  _InsertAsField_ parameter value can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default.|
 |**msoTrue**|Updates the inserted date and time each time the presentation is opened.|

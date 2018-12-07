@@ -34,7 +34,7 @@ The value of the  **BlackAndWhite** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The document window display is not black and white. |
 |**msoTrue**| The document window display is black and white.|

@@ -41,7 +41,7 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Prints all copies of one page before printing the first copy of the next page.|
 |**msoTrue**|Prints a complete copy of the presentation before the first page of the next copy is printed.|

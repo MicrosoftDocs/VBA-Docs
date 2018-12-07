@@ -38,7 +38,7 @@ The EditingType parameter can be one of the  **MsoEditingType** constants declar
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoEditingAuto**|Changes the node to a type appropriate to the segments being connected.|
 | **msoEditingCorner**| Changes the node to a corner node.|

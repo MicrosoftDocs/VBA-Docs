@@ -34,7 +34,7 @@ The value of the  **RewindMovie** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The first frame of the specified movie is not automatically redisplayed as soon as the movie has finished playing.|
 |**msoTrue**| The first frame of the specified movie is automatically redisplayed as soon as the movie has finished playing.|

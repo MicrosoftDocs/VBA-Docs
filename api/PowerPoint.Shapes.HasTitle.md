@@ -34,7 +34,7 @@ The value of the  **HasTitle** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The collection of objects on the specified slide does not contain a title placeholder.|
 |**msoTrue**| The collection of objects on the specified slide contains a title placeholder.|

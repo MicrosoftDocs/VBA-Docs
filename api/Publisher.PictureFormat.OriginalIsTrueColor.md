@@ -38,7 +38,7 @@ The  **OriginalIsTrueColor** property value can be one of the **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified linked picture does not contain color data of 24 bits per channel or greater.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

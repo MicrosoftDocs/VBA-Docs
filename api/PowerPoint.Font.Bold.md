@@ -34,7 +34,7 @@ The value of the  **Bold** property can be one of these **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The character format is not bold.|
 |**msoTriStateMixed**|The specified text range contains both bold and nonbold characters.|

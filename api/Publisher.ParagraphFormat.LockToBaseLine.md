@@ -34,7 +34,7 @@ The  **LockToBaseLine** property value can be one of the **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The text is not aligned to baselines.|
 | **msoTriStateMixed**|The specified paragraphs contain both text that is aligned to baselines and text that is not aligned to baselines.|

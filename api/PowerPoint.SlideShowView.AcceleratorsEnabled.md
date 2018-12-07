@@ -36,7 +36,7 @@ The value of the  **AcceleratorsEnabled** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Shortcut keys are disabled during a slide show.|
 |**msoTrue**| The default. Shortcut keys are enabled during a slide show.|

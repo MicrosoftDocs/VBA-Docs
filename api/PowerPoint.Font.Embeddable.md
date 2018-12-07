@@ -34,7 +34,7 @@ The value of the  **Embeddable** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified font cannot be embedded in the presentation.|
 |**msoTrue**| The specified font can be embedded in the presentation.|

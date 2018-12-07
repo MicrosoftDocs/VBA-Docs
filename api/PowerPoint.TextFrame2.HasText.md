@@ -34,7 +34,7 @@ The value of the  **HasText** property can be one of the following **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text frame does not have text.|
 |**msoTrue**| The specified text frame has text.|

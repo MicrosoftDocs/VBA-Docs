@@ -34,7 +34,7 @@ The value of the  **DisplayMasterShapes** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide does not display the background objects on the slide master.|
 |**msoTrue**| The specified slide displays the background objects on the slide master. These background objects can include text, drawings, OLE objects, and clip art you add to the slide master. Headers and footers aren't included.|

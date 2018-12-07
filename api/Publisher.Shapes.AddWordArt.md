@@ -49,7 +49,7 @@ The  **FontBold** parameter value can be one of the following **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as bold.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as bold and some text not formatted as bold.|
@@ -60,7 +60,7 @@ The  **FontItalic** parameter value can be one of the following **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the WordArt are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating that the WordArt contains some text formatted as italic and some text not formatted as italic.|

@@ -34,7 +34,7 @@ The value returned by the  **TextureTile** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The texture fill is centered.|
 |**msoTrue**| The texture fill is tiled.|

@@ -36,7 +36,7 @@ The value of the  **Animate** property can be one of these **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not animated during a slide show.|
 |**msoTrue**| The specified shape is animated during a slide show.|

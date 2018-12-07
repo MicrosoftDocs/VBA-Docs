@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 Returns a value indicating the state of protection of a [project](../../Glossary/vbe-glossary.md#project). Read-only.
 
-## Return values
+### Return values
 
 The **Protection** property return values are:
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**vbext_pp_locked**|The specified project is locked.|
 |**vbext_pp_none**|The specified project isn't protected.|

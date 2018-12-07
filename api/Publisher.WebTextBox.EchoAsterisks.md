@@ -34,7 +34,7 @@ The  **EchoAsterisks** property value can be one of the **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Displays the text entered into a Web text box control.|
 | **msoTrue**| Displays asterisks in place of text entered into a Web text box control.|

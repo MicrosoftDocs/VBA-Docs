@@ -54,7 +54,7 @@ The LinkToFile parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The picture is to be embedded in the publication.|
 | **msoTrue**|The picture is to be linked to the publication.|

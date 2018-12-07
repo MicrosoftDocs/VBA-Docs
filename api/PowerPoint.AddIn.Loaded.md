@@ -34,7 +34,7 @@ The value of the  **Loaded** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|TThe specified add-in is not loaded. |
 |**msoTrue**| The specified add-in is loaded.|

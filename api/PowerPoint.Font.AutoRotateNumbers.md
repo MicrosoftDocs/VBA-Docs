@@ -34,7 +34,7 @@ The value of the  **AutoRotateNumbers** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| Half-width numbers are not compressed in lateral columns.|
 |**msoTrue**|Displays half-width numbers within vertical text in two-character lateral columns.|

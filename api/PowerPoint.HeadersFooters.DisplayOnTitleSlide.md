@@ -34,7 +34,7 @@ The value of the  **DisplayOnTitleSlide** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The footer, date and time, and slide number appears on all slides except the title slide.|
 |**msoTrue**| The footer, date and time, and slide number appear on the title slide.|

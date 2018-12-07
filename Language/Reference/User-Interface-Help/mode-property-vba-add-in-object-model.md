@@ -13,11 +13,11 @@ ms.date: 06/08/2017
 
 Returns a value containing the mode of the specified [project](../../Glossary/vbe-glossary.md#project). Read-only.
 
-## Return values
+### Return values
 
 The **Mode** property return values are:
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**vbext_vm_Run**|The specified project is in run mode.|
 |**vbext_vm_Break**|The specified project is in break mode.|

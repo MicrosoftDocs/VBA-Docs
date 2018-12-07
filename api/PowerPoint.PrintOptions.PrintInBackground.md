@@ -34,7 +34,7 @@ The value of the  **PrintInBackground** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified presentation is not printed in the background.|
 |**msoTrue**| The default. The specified presentation is printed in the background, which means that you can continue to work while it is being printed.|

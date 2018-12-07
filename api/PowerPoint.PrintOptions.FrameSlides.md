@@ -36,7 +36,7 @@ The value of the  **FrameSlides** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|A thin frame is not placed around the border of the printed slides. |
 |**msoTrue**| A thin frame is placed around the border of the printed slides.|

@@ -34,7 +34,7 @@ The value of the  **VerticalAnchor** property can be one of these **MsoVerticalA
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAnchorBottom**|Anchors the bottom of the text string to the current position.|
 |**msoAnchorBottomBaseLine**|Anchors the bottom of the text string to the current position regardless of the resizing of text. When you resize text without baseline anchoring, the text centers itself on the previous position.|

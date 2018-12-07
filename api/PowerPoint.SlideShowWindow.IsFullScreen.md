@@ -34,7 +34,7 @@ The value of the  **IsFullScreen** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide show window does not occupy the entire screen. |
 |**msoTrue**| The specified slide show window occupies the entire screen.|

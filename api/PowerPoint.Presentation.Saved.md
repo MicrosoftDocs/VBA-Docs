@@ -36,7 +36,7 @@ The value of the  **Saved** property can be one of these **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Changes have been made to a presentation since it was last saved.|
 |**msoTrue**| No changes have been made to a presentation since it was last saved.|

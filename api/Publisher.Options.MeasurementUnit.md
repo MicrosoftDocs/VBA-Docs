@@ -34,7 +34,7 @@ The  **MeasurementUnit** property value can be one of the **PbUnitType** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbUnitCM**| Sets the unit of measurement to centimeters.|
 | **pbUnitEmu**| Doesn't apply to this property; returns an error if used..|

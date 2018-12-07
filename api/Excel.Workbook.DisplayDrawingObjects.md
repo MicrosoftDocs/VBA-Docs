@@ -29,7 +29,7 @@ Returns or sets how shapes are displayed. Read/write  **Long**.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **xlDisplayShapes**|Show all shapes.|
 | **xlPlaceholders**|Show only placeholders.|

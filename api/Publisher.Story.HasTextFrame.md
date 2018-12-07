@@ -31,7 +31,7 @@ The  **HasTextFrame** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The specified shape does not have a **TextFrame** object associated with it.|
 | **msoTriStateMixed**| Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|

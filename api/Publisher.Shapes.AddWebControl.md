@@ -53,7 +53,7 @@ The Type parameter can be one of the  **PbWebControlType** constants declared in
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbWebControlCheckBox**|Adds a check box.|
 | **pbWebControlCommandButton**|Adds a command button.|

@@ -30,7 +30,7 @@ The value of this property can be one of these  **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape does not contain ink XML.|
 |**msoTrue**| The specified shape contains ink XML.|

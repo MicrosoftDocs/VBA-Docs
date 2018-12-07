@@ -34,7 +34,7 @@ The  **MultiSelect** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Indicates a user may only select one item in a Web list box control.|
 | **msoTrue**| Indicates a user may select more than one item in a Web list box control.|

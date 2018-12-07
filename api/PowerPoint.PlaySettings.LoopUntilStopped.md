@@ -29,7 +29,7 @@ The value of the  **LoopUntilStopped** property can be one of these **MsoTriStat
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified movie or sound does not loop continuously.|
 |**msoTrue**| The specified movie or sound loops continuously until either the next movie or sound starts, the user clicks the slide, or a slide transition occurs.|

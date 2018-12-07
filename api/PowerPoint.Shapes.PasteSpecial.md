@@ -61,7 +61,7 @@ The _DataType_ parameter value can be one of these **PpPasteDataType** constants
 
 The _DisplayAsIcon_ parameter value can be one of these **MsoTriState** constants.
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|

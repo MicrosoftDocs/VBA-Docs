@@ -34,7 +34,7 @@ The value of the  **DisplayAutoLayoutOptions** property can be one of these **Ms
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Do not display the  **AutoLayout Options** button.|
 |**msoTrue**| Display the **AutoLayout Options** button.|

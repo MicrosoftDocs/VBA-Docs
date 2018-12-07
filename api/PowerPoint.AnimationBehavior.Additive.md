@@ -34,7 +34,7 @@ The value of the  **Additive** property can be one of these **MsoAnimAdditive** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAnimAdditiveAddBase**|Does not combine current animation with other animations. The default.|
 |**msoAnimAdditiveAddSum**| Combines the current animation with other running animations.|

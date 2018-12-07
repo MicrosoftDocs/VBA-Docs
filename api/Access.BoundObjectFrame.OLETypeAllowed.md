@@ -29,7 +29,7 @@ The  **OLETypeAllowed** property uses the following settings.
 
 
 
-|**Setting**|**Constant**|**Description**|
+|Setting|Constant|Description|
 |:-----|:-----|:-----|
 |Linked|**acOLELinked**|The control can contain only a linked object.|
 |Embedded|**acOLEEmbedded**|The control can contain only an embedded object.|

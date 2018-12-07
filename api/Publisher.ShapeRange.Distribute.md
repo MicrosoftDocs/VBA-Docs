@@ -47,7 +47,7 @@ The RelativeTo parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Distribute the shapes within the horizontal or vertical space that the range of shapes originally occupies.|
 | **msoTrue**|Distribute the shapes evenly over the entire horizontal or vertical space on the page.|

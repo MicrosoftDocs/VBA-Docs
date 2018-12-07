@@ -34,7 +34,7 @@ The value of the  **RemovePersonalInformation** property can be one of these **M
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| Comments, revisions, and personal information remain in the presentation.|
 |**msoTrue**| Removes comments, revisions, and personal information when saving presentation.|

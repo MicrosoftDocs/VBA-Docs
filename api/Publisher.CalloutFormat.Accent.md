@@ -34,7 +34,7 @@ The  **Accent** property value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoCTrue**|Not used with this property.|
 | **msoFalse**|A vertical accent bar does not separate the callout text from the callout line.|

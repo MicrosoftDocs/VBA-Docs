@@ -34,7 +34,7 @@ The value of the  **HangingPunctuation** property can be one of these **MsoTriSt
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The hanging punctuation option is not selected.|
 |**msoTrue**| The hanging punctuation option is selected.|

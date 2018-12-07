@@ -34,7 +34,7 @@ The value of the  **HasTextFrame** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape does not have a text frame and therefore cannot contain text.|
 |**msoTrue**| The specified shape has a text frame and can therefore contain text.|

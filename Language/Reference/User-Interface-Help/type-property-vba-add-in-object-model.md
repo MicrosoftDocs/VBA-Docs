@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 Returns a numeric or string value containing the type of object. Read-only.
 
-## Return values
+### Return values
 
 The **Type** property settings for the **Window** object are described in the following table:
 

@@ -29,7 +29,7 @@ The value returned by the  **RotateWithObject** property can be one of the [MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The fill does not rotate with the shape.|
 | **msoTrue**|The fill rotates with the shape.|

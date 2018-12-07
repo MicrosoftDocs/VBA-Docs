@@ -73,7 +73,7 @@ The  _EmbedFonts_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|TrueType fonts are not embedded.|
 |**msoTriStateMixed**|Embedded fonts are a mixture of TrueType and non-TrueType. The default. |

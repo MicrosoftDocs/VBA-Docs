@@ -34,7 +34,7 @@ The value of the  **Connector** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a connector.|
 |**msoTrue**| The specified shape is a connector.|

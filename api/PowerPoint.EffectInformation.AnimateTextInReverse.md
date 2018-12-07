@@ -34,7 +34,7 @@ The value of the  **AnimateTextInReverse Property** property can be one of these
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified shape is not built in reverse order.|
 |**msoTrue**| The specified shape is built in reverse order.|

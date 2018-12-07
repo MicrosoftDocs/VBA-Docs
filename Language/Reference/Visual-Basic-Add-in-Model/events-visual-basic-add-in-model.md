@@ -28,7 +28,7 @@ The **Click** event syntax has these [named arguments](../../Glossary/vbe-glossa
 
 ### Remarks
 
-The **Click** event is specific to the **[CommandBarEvents](../user-interface-help/commandbarevents-object-vba-add-in-object-model.md)** object. Use a [variable](../../Glossary/vbe-glossary.md#variable) declared by using the **WithEvents** keyword to receive the **Click** event for a **CommandBar** control. This variable should be set to the return value of the **[CommandBarEvents](../user-interface-help/commandbarevents-property-vba-add-in-object-model.md)** property of the **[Events](../user-interface-help/events-object-vba-add-in-object-model.md)** object. 
+The **Click** event is specific to the **[CommandBarEvents](../user-interface-help/commandbarevents-object-vba-add-in-object-model.md)** object. Use a [variable](../../Glossary/vbe-glossary.md#variable) declared by using the **WithEvents** keyword to receive the **Click** event for a **CommandBar** control. This variable should be set to the return value of the **[CommandBarEvents](properties-visual-basic-add-in-model.md#commandbarevents)** property of the **[Events](../user-interface-help/events-object-vba-add-in-object-model.md)** object. 
 
 The **CommandBarEvents** property takes the **CommandBar** control as an [argument](../../Glossary/vbe-glossary.md#argument). When the **CommandBar** control is clicked (for the variable you declared by using the **WithEvents** keyword), the code is executed.
 

@@ -29,7 +29,7 @@ The  **HasTable** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The shapes in the range do not represent a **TableFrame** object.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

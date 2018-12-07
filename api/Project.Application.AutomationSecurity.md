@@ -26,7 +26,7 @@ The default value of the  **AutomationSecurity** property is **msoAutomationSecu
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAutomationSecurityByUI**|Uses the security setting specified on the  **Macro Settings** tab of the **Trust Center** dialog box.|
 |**msoAutomationSecurityForceDisable**|Disables all macros in all files opened programmatically without showing any security alerts.|

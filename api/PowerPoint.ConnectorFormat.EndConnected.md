@@ -34,7 +34,7 @@ The value of the  **EndConnected** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The end of the specified connector is not connected to a shape.|
 |**msoTrue**| The end of the specified connector is connected to a shape.|

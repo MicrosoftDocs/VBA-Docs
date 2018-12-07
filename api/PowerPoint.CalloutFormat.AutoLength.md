@@ -36,7 +36,7 @@ The value returned by the  **AutoLength** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The first segment of the callout retains the fixed length specified by the  **Length** property whenever the callout is moved.|
 |**msoTrue**| The first segment of the callout line (the segment attached to the text callout box) is scaled automatically whenever the callout is moved.|

@@ -38,7 +38,7 @@ The value of the  **TransparentBackground** property can be one of these **MsoTr
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| Parts of the picture that are the color defined as the transparent color do not appear transparent.|
 |**msoTrue**| Parts of the picture that are the color defined as the transparent color appear transparent.|

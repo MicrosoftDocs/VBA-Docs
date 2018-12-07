@@ -43,7 +43,7 @@ The  _Start_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The bottom right of the rectangle is to appear at the bottom right of the document window.|
 |**msoTrue**|The default. The upper left of the rectangle is to appear at the upper left of the document window.|

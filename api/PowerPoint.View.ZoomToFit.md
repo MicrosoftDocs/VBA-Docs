@@ -38,7 +38,7 @@ The value of the  **ZoomToFit** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The view is not zoomed to fit the dimensions of the document window every time the document window is resized.|
 |**msoTrue**| The view is zoomed to fit the dimensions of the document window every time the document window is resized.|

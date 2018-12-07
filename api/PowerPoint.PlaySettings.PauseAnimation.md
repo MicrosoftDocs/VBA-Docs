@@ -36,7 +36,7 @@ The value of the  **PauseAnimation** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The slide show continues while the media clip plays in the background.|
 |**msoTrue**| The slide show pauses until the specified media clip is finished playing.|

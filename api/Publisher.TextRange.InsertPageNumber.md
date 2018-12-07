@@ -42,7 +42,7 @@ Type can be one of these  **PbPageNumberType** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbPageNumberCurrent**|The default.|
 | **pbPageNumberNextInStory**|Inserts the page number of the next linked text box.|

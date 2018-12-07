@@ -34,7 +34,7 @@ The  **KernedPairs** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Character pairs in the specified WordArt object have not been kerned.|
 | **msoTriStateToggle**|Switches between  **msoTrue** and **msoFalse**.|

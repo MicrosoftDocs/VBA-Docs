@@ -32,7 +32,7 @@ Contains the active [code panes](../../Glossary/vbe-glossary.md#code-pane) in th
 
 Use the **CodePanes** collection to access the open code panes in a [project](../../Glossary/vbe-glossary.md#project). 
 
-You can use the **[Count](../user-interface-help/count-property-vba-add-in-object-model.md)** property to return the number of active code panes in a collection.
+You can use the **[Count](properties-visual-basic-add-in-model.md#count)** property to return the number of active code panes in a collection.
 
 ## CommandBars
 
@@ -89,9 +89,9 @@ Represents the components contained in a project.
 
 Use the **VBComponents** collection to access, add, or remove components in a project. A component can be a [form](../../Glossary/vbe-glossary.md#form), [module](../../Glossary/vbe-glossary.md#module), or [class](../../Glossary/vbe-glossary.md#class). The **VBComponents** collection is a standard collection that can be used in a **For...Each** block.
 
-You can use the **[Parent](../user-interface-help/parent-property-vba-add-in-object-model.md)** property to return the project that the **VBComponents** collection is in.
+You can use the **[Parent](properties-visual-basic-add-in-model.md#parent)** property to return the project that the **VBComponents** collection is in.
 
-See also [VBComponents property](../user-interface-help/vbcomponents-property.md).
+For more information, see the **[VBComponents](properties-visual-basic-add-in-model.md#vbcomponents)** property.
 
 ## VBNewProjects
 

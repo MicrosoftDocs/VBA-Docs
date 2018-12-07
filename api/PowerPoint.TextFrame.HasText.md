@@ -34,7 +34,7 @@ The value of the  **HasText** property can be one of these **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape does not have text associated with it. |
 |**msoTrue**| The specified shape has text associated with it.|

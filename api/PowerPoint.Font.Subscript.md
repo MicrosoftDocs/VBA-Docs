@@ -40,7 +40,7 @@ The value of the  **Subscript** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text is not subscript. The default.|
 |**msoTriStateMixed**|Some characters are subscript and some aren't.|

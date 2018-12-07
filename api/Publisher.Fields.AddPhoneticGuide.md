@@ -47,7 +47,7 @@ The Alignment parameter can be one of the  **PbPhoneticGuideAlignmentType** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbPhoneticGuideAlignmentCenter**|Centers phonetic text over the specified range.|
 | **pbPhoneticGuideAlignmentDefault**|Centers phonetic text over the specified range. The default.|

@@ -36,7 +36,7 @@ The value of the  **Collate** property can be one of these **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| A copy of the specified presentation is not printed before the first page of the next copy is printed.|
 |**msoTrue**| The default. A complete copy of the specified presentation is printed before the first page of the next copy is printed.|

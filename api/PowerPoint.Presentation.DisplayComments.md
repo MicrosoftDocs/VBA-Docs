@@ -34,7 +34,7 @@ The value returned by the  **DisplayComments** property can be one of these **Ms
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Comments are not displayed in the specified presentation.|
 |**msoTrue**| Comments are displayed in the specified presentation.|

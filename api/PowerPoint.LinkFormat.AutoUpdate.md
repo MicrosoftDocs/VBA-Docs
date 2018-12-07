@@ -34,7 +34,7 @@ The value of the  **AutoUpdate** property can be one of these **PpUpdateOption**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppUpdateOptionAutomatic**|The link is updated each time the presentation is opened or the source file changes.|
 |**ppUpdateOptionManual**| The link is updated only when the user specifically asks to update the presentation.|

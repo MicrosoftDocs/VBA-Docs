@@ -42,7 +42,7 @@ The  _Index_ parameter value can be one of these **PpMouseActivation** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppMouseClick**|The action setting for when the user clicks the shape.|
 |**ppMouseOver**|The action setting for when the mouse pointer is positioned over the specified shape.|

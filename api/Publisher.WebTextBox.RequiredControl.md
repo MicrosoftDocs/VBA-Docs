@@ -34,7 +34,7 @@ The  **RequiredControl** property value can be one of the **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Indicates entry into the specified Web text box control is not required.|
 | **msoTrue**| Indicates entry into the specified Web text box control is required.|

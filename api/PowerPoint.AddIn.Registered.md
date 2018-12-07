@@ -34,7 +34,7 @@ The value of the  **Registered** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified add-in is not registered in the Windows registry.|
 |**msoTrue**| The specified add-in is registered in the Windows registry.|

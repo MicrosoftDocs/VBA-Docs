@@ -34,7 +34,7 @@ The value of the  **FontBold** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The font in the specified WordArt is not bold.|
 |**msoTrue**| The font in the specified WordArt is bold.|

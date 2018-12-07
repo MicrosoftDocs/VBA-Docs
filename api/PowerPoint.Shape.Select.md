@@ -39,7 +39,7 @@ The  _Replace_ parameter value can be one of these **MsoTriState** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The selection is added to the previous selection.|
 |**msoTrue**|The default. The selection replaces any previous selection.|

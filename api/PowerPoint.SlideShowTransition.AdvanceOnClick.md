@@ -36,7 +36,7 @@ The value of the  **AdvanceOnClick** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide does not advance when it is clicked during a slide show.|
 |**msoTrue**| The specified slide advances when it is clicked during a slide show.|

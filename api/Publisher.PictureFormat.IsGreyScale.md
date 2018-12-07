@@ -34,7 +34,7 @@ The  **IsGreyScale** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The picture is not a greyscale image.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

@@ -38,7 +38,7 @@ The value of the  **RotatedChars** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Characters in the specified WordArt retain their original orientation relative to the bounding shape.|
 |**msoTrue**| Characters in the specified WordArt are rotated 90 degrees relative to the WordArt's bounding shape.|

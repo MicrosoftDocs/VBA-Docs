@@ -38,7 +38,7 @@ The  **InsetPen** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Lines are drawn directly on the specified shape's boundaries.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

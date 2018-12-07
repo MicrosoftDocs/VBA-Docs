@@ -36,7 +36,7 @@ The value of the  **DisplayAlerts** property can be one of these **PpAlertLevel*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppAlertsAll**| All message boxes and alerts are displayed; errors are returned to the macro.|
 |**ppAlertsNone**|The default. No alerts or message boxes are displayed. If a macro encounters a message box, the default value is chosen and the macro continues.|

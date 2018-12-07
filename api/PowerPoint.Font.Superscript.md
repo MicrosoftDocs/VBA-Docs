@@ -40,7 +40,7 @@ The value of the  **Superscript** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text is not superscript. The default.|
 |**msoTriStateMixed**|Some characters are superscript and some aren't.|
