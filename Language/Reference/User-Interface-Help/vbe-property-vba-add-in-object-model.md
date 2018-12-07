@@ -15,11 +15,11 @@ ms.date: 12/06/2018
 
 Returns the root of the  **VBE** object. Read-only.
 
-## Remarks
+### Remarks
 
 All objects have a  **VBE** property that points to the root of the **VBE** object.
 
-## See also
+### See also
 
 - [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
 - [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)

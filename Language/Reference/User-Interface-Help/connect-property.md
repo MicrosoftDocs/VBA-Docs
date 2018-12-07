@@ -18,6 +18,7 @@ Returns or sets the connected state of an add-in.
 ## Remarks
 
 Returns **True** if the add-in is registered and currently connected (active).
+
 Returns **False** if the add-in is registered, but not connected (inactive).
 
 ## See also

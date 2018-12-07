@@ -36,7 +36,7 @@ Variant
 
 ## Example
 
-This example navigates along the first tracer arrow from cell A1 on Sheet1 toward the precedent cell. The example should be run on a worksheet containing a formula in cell A1 that includes references to cells D1, D2, and D3 (for example, the formula = D1 * D2 * D3). 
+This example navigates along the first tracer arrow from cell A1 on Sheet1 toward the precedent cell. The example should be run on a worksheet containing a formula in cell A1 that includes references to cells D1, D2, and D3 (for example, the formula =D1 * D2 * D3). 
 
 Before running the example, select cell A1, and on the **Formulas** tab, in the **Formula Auditing** group, select **Trace Precedents**.
 

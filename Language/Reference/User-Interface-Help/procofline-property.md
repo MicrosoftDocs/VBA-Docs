@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
 Returns the name of the [procedure](../../Glossary/vbe-glossary.md#procedure) that the specified line is in.
 
-## Syntax
+### Syntax
 
 _object_**.ProcOfLine(**_line_, _prockind_**) As String**
 The  **ProcOfLine** syntax has these parts:
@@ -39,7 +39,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md#cons
 |**vbext_pk_Set**|Specifies a procedure that sets a reference to an object.|
 |**vbext_pk_Proc**|Specifies all procedures other than property procedures.|
 
-## Remarks
+### Remarks
 
 A line is within a procedure if it's a blank line or comment line preceding the procedure declaration and, if the procedure is the last procedure in a [code module](../../Glossary/vbe-glossary.md#code-module), a blank line or lines following the procedure.
 

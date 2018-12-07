@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets a [Single](../../Glossary/vbe-glossary.md#single-data-type) containing the width of the window in [twips](../../Glossary/vbe-glossary.md#twip). Read/write.
 
-## Remarks
+### Remarks
 
 Changing the  **Width** property setting of a [linked window](../../Glossary/vbe-glossary.md#linked-window) or [docked window](../../Glossary/vbe-glossary.md#docked-window) has no effect as long as the window remains linked or docked.
 
