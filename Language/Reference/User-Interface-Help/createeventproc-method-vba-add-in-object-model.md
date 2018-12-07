@@ -15,7 +15,7 @@ Creates an event [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
 
-_object_.**CreateEventProc**(_eventname_, _objectname_) **As Long**
+_object_.**CreateEventProc** (_eventname_, _objectname_) **As Long**
 
 <br/>
 

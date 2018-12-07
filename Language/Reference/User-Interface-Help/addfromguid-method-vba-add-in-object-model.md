@@ -15,7 +15,7 @@ Adds a reference to the **References** collection by using the globally unique i
 
 ## Syntax
 
-_object_.**AddFromGuid**(_guid_, _major_, _minor_) **As Reference**
+_object_.**AddFromGuid** (_guid_, _major_, _minor_) **As Reference**
 
 <br/>
 
