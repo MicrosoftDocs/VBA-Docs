@@ -34,7 +34,7 @@ The value of the  **HasChart** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape does not contain a chart.|
 |**msoTrue**| The specified shape contains a chart.|

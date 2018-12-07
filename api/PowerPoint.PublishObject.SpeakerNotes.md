@@ -34,7 +34,7 @@ The value of the  **SpeakerNotes** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Speaker notes are not to be published with the presentation.|
 |**msoTrue**| Speaker notes are to be published with the presentation.|

@@ -34,7 +34,7 @@ The value of the  **VerticalFlip** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not flipped around the vertical axis.|
 |**msoTrue**| The specified shape is flipped around the vertical axis.|

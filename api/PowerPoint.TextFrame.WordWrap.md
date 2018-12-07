@@ -34,7 +34,7 @@ The value of the  **WordWrap** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| Lines do not break automatically to fit inside the shape.|
 |**msoTrue**| Lines break automatically to fit inside the shape.|

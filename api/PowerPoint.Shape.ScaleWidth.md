@@ -41,7 +41,7 @@ The  _RelativeToOriginalSize_ parameter value can be one of the following **MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Scales the shape relative to its current size. |
 |**msoTrue**| Scales the shape relative to its original size.|

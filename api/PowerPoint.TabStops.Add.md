@@ -43,7 +43,7 @@ The  _Type_ parameter value can be one of these **PpTabStopType** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppTabStopCenter**|Center tab stop.|
 |**ppTabStopDecimal**|Decimal tab stop.|

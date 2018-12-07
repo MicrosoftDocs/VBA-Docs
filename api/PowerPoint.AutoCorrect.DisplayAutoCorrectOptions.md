@@ -34,7 +34,7 @@ The value of the  **DisplayAutoCorrectOptions** property can be one of these **M
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Do not display the  **AutoCorrect Options** button.|
 |**msoTrue**| Display the **AutoCorrect Options** button.|

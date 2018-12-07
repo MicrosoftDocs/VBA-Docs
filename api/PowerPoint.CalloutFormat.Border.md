@@ -34,7 +34,7 @@ The value of the  **Border** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The text in the specified callout is not surrounded by a border.|
 |**msoTrue**| The text in the specified callout is surrounded by a border.|

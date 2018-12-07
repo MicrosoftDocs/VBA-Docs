@@ -54,7 +54,7 @@ The  _FixedFormatType_ parameter value can be one of these **PpFixedFormatType**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
 |**msoTrue**|Displays the embedded object (or link) as an icon.|
@@ -63,7 +63,7 @@ The  _Intent_ parameter value can be one of these **PpFixedFormatIntent** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppFixedFormatIntentPrint**|Intended to be published online and printed|
 |**ppFixedFormatIntentScreen**|The default. Intended to be published only online|
@@ -72,7 +72,7 @@ The  _FrameSlides_ parameter value can be one of these **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not frame exported slides.|
 |**msoTrue**|Frames exported slides.|
@@ -81,7 +81,7 @@ The  _HandoutOrder_ parameter value can be one of these **PpPrintHandoutOrder** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppPrintHandoutHorizontalFirst**|Prints handouts with consecutive slides displayed horizontally first (in horizontal rows).|
 |**ppPrintHandoutVerticalFirst**|The default. Prints handouts with consecutive slides displayed vertically first (in vertical columns).|
@@ -90,7 +90,7 @@ The  _OutputType_ parameter value can be a combination of one or more of these *
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppPrintOutputBuildSlides**||
 |**ppPrintOutputFourSlideHandouts**|Prints four slides per handout page.|
@@ -107,7 +107,7 @@ The  _PrintHiddenSlides_ parameter value can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Does not print hidden slides.|
 |**msoTrue**|Prints hidden slides.|
@@ -116,7 +116,7 @@ The  _RangeType_ parameter value can be one of these **PpPrintRangeType** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppPrintAll**|The default. Exports all slides.|
 |**ppPrintCurrent**|Exports only the current slide.|

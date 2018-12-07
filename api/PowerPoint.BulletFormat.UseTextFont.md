@@ -36,7 +36,7 @@ The value of the  **UseTextFont** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified bullets are set to a custom font. |
 |**msoTrue**| The specified bullets are set to the font of the first text character in the paragraph..|

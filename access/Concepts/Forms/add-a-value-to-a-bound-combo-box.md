@@ -17,7 +17,7 @@ When a user types a value in a combo box that is not in the list, the **NotInLis
 The **NotInList** event procedure also has a _Response_ argument, in which you tell Access what to do after the procedure runs. Depending on what action you take in the event procedure, you set the _Response_ argument to one of three predefined constant values:
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**acDataErrAdded**|If your event procedure enters the new value in the record source for the list or provides a way for the user to do so, set the  _Response_ argument to **acDataErrAdded**. Access then requeries the combo box for you, adding the new value to the list.|
 |**acDataErrDisplay**|If you do not add the new value and want Access to display the default error message, set the  _Response_ argument to **acDataErrDisplay**. Access requires the user to enter a valid value from the list.|

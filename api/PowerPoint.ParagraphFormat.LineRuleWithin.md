@@ -34,7 +34,7 @@ The value of the  **LineRuleWithin** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Line spacing between base lines is set to a specific number of points.|
 |**msoTrue**| Line spacing between base lines is set to a specific number of lines.|

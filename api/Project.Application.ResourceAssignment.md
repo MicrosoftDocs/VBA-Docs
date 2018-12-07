@@ -34,7 +34,7 @@ _expression_ A variable that represents an **Application** object.
 
 #### PjResAssignOperation constants
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**pjAssign**|Assigns the specified resources to the selected tasks.|
 |**pjRemove**|Removes the specified resources from the selected tasks.|

@@ -34,7 +34,7 @@ The value of the  **Obscured** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The shadow has no fill and the outline of the shadow is visible through the shape if the shape has no fill.|
 |**msoTrue**| The shadow of the specified shape appears filled in and is obscured by the shape, even if the shape has no fill.|

@@ -34,7 +34,7 @@ The  **SubScript** property value can be one of the **MsoTriState** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|No characters in the range are formatted as subscript.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

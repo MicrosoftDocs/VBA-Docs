@@ -37,7 +37,7 @@ The  **ContextualAlternates** property value can be one of the following **MsoTr
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted with contextual alternatives.|
 | **msoTriStateMixed**|Return value indicating that the range contains some text formatted with contextual alternatives and some text not formatted with contextual alternatives.|

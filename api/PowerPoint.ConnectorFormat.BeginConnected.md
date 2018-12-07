@@ -34,7 +34,7 @@ The value of the  **BeginConnected** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The beginning of the specified connector is not connected to a shape.|
 |**msoTrue**| The beginning of the specified connector is connected to a shape.|

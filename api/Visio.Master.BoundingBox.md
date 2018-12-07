@@ -52,7 +52,7 @@ The bounding rectangle returned for an individual shape depends on its  **Type**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **visTypePage**|Equivalent to  **Page.BoundingBox** or **Master.BoundingBox**.|
 | **visTypeGroup**|Rectangle that tightly encloses the group and its subshapes.|

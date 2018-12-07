@@ -36,7 +36,7 @@ The value of the  **PasswordEncryptionFileProperties** property can be one of th
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|PowerPoint does not encrypt file properties for password-protected documents.|
 |**msoTrue**| PowerPoint encrypts file properties for password-protected documents.|

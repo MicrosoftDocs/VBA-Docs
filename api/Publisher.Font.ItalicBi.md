@@ -34,7 +34,7 @@ The  **ItalicBi** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| None of the characters in the range are formatted as italic.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

@@ -34,7 +34,7 @@ The value of the  **Exit** property can be one of these **MsoTriState** constant
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The effect is not an exit effect.|
 |**msoTrue**| The effect is an exit effect.|

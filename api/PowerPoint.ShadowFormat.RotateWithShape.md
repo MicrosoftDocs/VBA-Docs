@@ -34,7 +34,7 @@ The value returned by the  **RotateWithShape** property can be one of these **Ms
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The shadow does not rotate with the shape.|
 |**msoTrue**| The shadow does rotate with the shape.|

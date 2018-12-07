@@ -51,7 +51,7 @@ The Direction parameter can be one of the  **PbTableDirectionType** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTableDirectionLeftToRight**|Table columns are numbered from left to right. Default for left-to-right languages.|
 | **pbTableDirectionRightToLeft**|Table columns are numbered from right to left. Default for right-to-left languages.|

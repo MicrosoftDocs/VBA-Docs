@@ -38,7 +38,7 @@ The Rule parameter can be one of the  **PbLineSpacingRule** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbLineSpacing1pt5**|Sets the spacing for specified paragraphs to one-and-a-half lines.|
 | **pbLineSpacingDouble**| Double-spaces the specified paragraphs.|

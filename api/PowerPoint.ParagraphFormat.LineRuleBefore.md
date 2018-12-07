@@ -34,7 +34,7 @@ The value of the  **LineRuleBefore** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Line spacing before the first line in each paragraph is set to a specific number of points. |
 |**msoTrue**| Line spacing before the first line in each paragraph is set to a specific number of lines.|

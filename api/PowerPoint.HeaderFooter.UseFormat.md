@@ -36,7 +36,7 @@ The value of the  **UseFormat** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The date and time object is a fixed string.|
 |**msoTrue**| The date and time object contains automatically updated information.|

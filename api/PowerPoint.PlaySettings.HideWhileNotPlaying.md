@@ -34,7 +34,7 @@ The value of the  **HideWhileNotPlaying** property can be one of these **MsoTriS
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified media clip is not hidden during a slide show except when it is playing. |
 |**msoTrue**| The specified media clip is hidden during a slide show except when it is playing.|

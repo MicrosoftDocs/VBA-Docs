@@ -34,7 +34,7 @@ The value of the  **EnvelopeVisible** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The email message header is not visible in the document window. The default.|
 |**msoTrue**| The email message header is visible in the document window.|

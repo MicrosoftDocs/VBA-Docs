@@ -27,7 +27,7 @@ Returns or sets the description of the Japanese input rules. Can be one of the  
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **xlIMEModeAlpha**|Half-width alphanumeric|
 | **xlIMEModeAlphaFull**|Full-width alphanumeric|

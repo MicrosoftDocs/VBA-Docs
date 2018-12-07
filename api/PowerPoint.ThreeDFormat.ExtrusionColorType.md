@@ -34,7 +34,7 @@ The value of the  **ExtrusionColorType** property can be one of these **MsoExtru
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoExtrusionColorAutomatic**|Extrusion color is based on shape fill.|
 |**msoExtrusionColorCustom**| Extrusion color is independent of shape fill.|

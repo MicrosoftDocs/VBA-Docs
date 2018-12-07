@@ -34,7 +34,7 @@ The value of the  **FontItalic** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The font in the specified WordArt is not italic.|
 |**msoTrue**| The font in the specified WordArt is italic.|

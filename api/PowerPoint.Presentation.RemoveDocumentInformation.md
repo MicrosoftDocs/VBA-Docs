@@ -37,7 +37,7 @@ The  _Type_ parameter value can be a combination of one or more of these **PpRem
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppRDIAll**|Remove all document information.|
 |**ppRDIComments**|Remove comments.|

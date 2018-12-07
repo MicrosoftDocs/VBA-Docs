@@ -34,7 +34,7 @@ The value of the  **PrintFontsAsGraphics** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| TrueType fonts are not printed as graphics.|
 |**msoTrue**| TrueType fonts are printed as graphics.|

@@ -34,7 +34,7 @@ The value of the  **IsNamedShow** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|A custom (named) slide show is not displayed in the specified slide show view.|
 |**msoTrue**| A custom (named) slide show is displayed in the specified slide show view.|

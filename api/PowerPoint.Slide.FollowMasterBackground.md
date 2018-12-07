@@ -34,7 +34,7 @@ The value of the  **FollowMasterBackground** property can be one of these **MsoT
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide or range of slides has a custom background.|
 |**msoTrue**| The specified slide or range of slides follows the slide master background.|

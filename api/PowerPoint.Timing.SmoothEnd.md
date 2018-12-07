@@ -34,7 +34,7 @@ The value of the  **SmoothEnd** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The default. An animation does not decelerate when it ends.|
 |**msoTrue**| An animation decelerates when it ends.|

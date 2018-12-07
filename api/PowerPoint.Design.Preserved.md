@@ -34,7 +34,7 @@ The value of the  **Preserved** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The design master is not preserved and can be edited.|
 |**msoTrue**| The design master is preserved and cannot be edited.|

@@ -48,7 +48,7 @@ ExtraInfo can be one of these **MsoExtraInfoMethod** constants.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoMethodGet**|The default. ExtraInfo is a **String** that is appended to the address.|
 |**msoMethodPost**|ExtraInfo is posted as a **String** or byte array.|

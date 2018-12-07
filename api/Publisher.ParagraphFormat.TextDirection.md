@@ -36,7 +36,7 @@ The  **TextDirection** property value can be one of the **PbTextDirection** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTextDirectionLeftToRight**| Text flows from left to right.|
 | **pbTextDirectionMixed**|Return value indicating a range containing some left-to-right text and some right-to-left text.|

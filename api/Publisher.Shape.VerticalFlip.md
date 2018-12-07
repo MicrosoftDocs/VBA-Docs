@@ -29,7 +29,7 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its vertical axis.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

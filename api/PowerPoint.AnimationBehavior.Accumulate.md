@@ -36,7 +36,7 @@ The value of the  **Accumulate** property can be one of these **MsoAnimAccumulat
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAnimAccumulateAlways**| Animation behaviors accumulate.|
 |**msoAnimAccumulateNone**| The default. Animation behaviors do not accumulate.|

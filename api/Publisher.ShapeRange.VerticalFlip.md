@@ -29,7 +29,7 @@ The  **VerticalFlip** property value can be one of the **MsoTriState** constants
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its vertical axis.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

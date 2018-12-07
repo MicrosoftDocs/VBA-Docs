@@ -34,7 +34,7 @@ The value of the  **ShowStartupDialog** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Hides the  **New Presentation** task pane.|
 |**msoTrue**| The default. Displays the **New Presentation** task pane.|

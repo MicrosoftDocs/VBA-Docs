@@ -34,7 +34,7 @@ The value of the  **PrintComments** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. Comments will not be printed.|
 |**msoTrue**| Comments will be printed.|

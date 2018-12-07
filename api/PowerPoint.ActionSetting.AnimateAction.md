@@ -34,7 +34,7 @@ The value of the  **AnimateAction** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The color of the specified shape is not momentarily inverted when the specified mouse action occurs.|
 |**msoTrue**| The color of the specified shape is momentarily inverted when the specified mouse action occurs.|

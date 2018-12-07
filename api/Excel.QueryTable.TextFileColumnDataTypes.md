@@ -29,7 +29,7 @@ Use the  **xlColumnDataType** constants listed in the following table to specify
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **xlGeneralFormat**|General|
 | **xlTextFormat**|Text|

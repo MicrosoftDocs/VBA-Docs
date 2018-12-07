@@ -36,7 +36,7 @@ The  **IsTrueColor** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified picture does not contain color data of 24 bits per channel or greater.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

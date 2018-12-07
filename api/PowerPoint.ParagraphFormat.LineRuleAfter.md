@@ -34,7 +34,7 @@ The value of the  **LineRuleAfter** property can be one of these **MsoTriState**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Line spacing after the last line in each paragraph is set to a specific number of points.|
 |**msoTrue**| Line spacing after the last line in each paragraph is set to a specific number of lines.|

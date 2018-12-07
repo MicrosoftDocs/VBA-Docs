@@ -34,7 +34,7 @@ The value returned by the  **KernedPairs** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Character pairs in the specified WordArt are not kerned.|
 |**msoTrue**| Character pairs in the specified WordArt are kerned.|

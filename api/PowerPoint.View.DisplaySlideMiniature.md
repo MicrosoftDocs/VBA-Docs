@@ -38,7 +38,7 @@ The value of the  **DisplaySlideMiniature** property can be one of these **MsoTr
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The slide miniature window is not displayed automatically.|
 |**msoTrue**| The slide miniature window is displayed automatically when the document window is in black-and-white view, the slide pane is zoomed to greater than 150% of the fit percentage, or a master view is visible.|

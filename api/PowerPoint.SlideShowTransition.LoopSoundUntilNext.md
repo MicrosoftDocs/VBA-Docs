@@ -34,7 +34,7 @@ The value of the  **LoopSoundUntilNext** property can be one of these **MsoTriSt
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The sound that's been set for the specified slide transition does not loop.|
 |**msoTrue**| The sound that's been set for the specified slide transition loops until the next sound starts.|

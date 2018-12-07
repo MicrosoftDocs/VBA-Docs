@@ -48,7 +48,7 @@ The SaveChanges parameter can be one of the  **PbSaveOption** constants declared
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbDoNotSaveChanges**|Close the open publication without saving any changes. |
 | **pbPromptToSaveChanges**|Prompt the user whether to save changes in the open publication. The default.|

@@ -34,7 +34,7 @@ The value of the  **HandoutOrder** property can be one of these **PpPrintHandout
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**ppPrintHandoutHorizontalFirst**|Slides are ordered horizontally, with the first slide in the upper-left corner and the second slide to the right of it. If your language setting specifies a right-to-left language, the first slide is in the upper-right corner with the second slide to the left of it.|
 |**ppPrintHandoutVerticalFirst**| Slides are ordered vertically, with the first slide in the upper-left corner and the second slide below it. If your language setting specifies a right-to-left language, the first slide is in the upper-right corner with the second slide below it.|

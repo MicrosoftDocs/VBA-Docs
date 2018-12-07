@@ -34,7 +34,7 @@ The value of the  **Underline** property can be one of these **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text (or font style) isn't underlined.|
 |**msoTriStateMixed**|Some characters are underlined (for the specified text) and some aren't. |

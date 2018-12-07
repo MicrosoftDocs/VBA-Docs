@@ -32,7 +32,7 @@ The  **ProcCountLines** syntax has these parts:
 You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument):
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**vbext_pk_Get**|Specifies a procedure that returns the value of a property.|
 |**vbext_pk_Let**|Specifies a procedure that assigns a value to a property.|

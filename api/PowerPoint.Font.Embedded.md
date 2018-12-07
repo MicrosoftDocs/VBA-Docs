@@ -34,7 +34,7 @@ The value of the  **Embedded** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified font is not embedded in the presentation. |
 |**msoTrue**| The specified font is embedded in the presentation.|

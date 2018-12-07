@@ -34,7 +34,7 @@ The  **Zoom** property value can be one of the **PbZoom** constants declared in 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbZoomFitSelection**| Resizes the page view to the size of the current selection.|
 | **pbZoomPageWidth**|Resizes the page view to the width of the publication. |

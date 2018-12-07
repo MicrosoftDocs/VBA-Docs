@@ -29,7 +29,7 @@ The  **HorizontalFlip** property value can be one of the **MsoTriState** constan
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shape has not been flipped around its horizontal axis.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

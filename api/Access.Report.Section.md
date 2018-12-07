@@ -37,7 +37,7 @@ The  **Section** property corresponds to a particular section. You can use the f
 
 
 
-|**Setting**|**Constant**|**Description**|
+|Setting|Constant|Description|
 |:-----|:-----|:-----|
 |0|**acDetail**|Report detail section|
 |1|**acHeader**|Report header section|

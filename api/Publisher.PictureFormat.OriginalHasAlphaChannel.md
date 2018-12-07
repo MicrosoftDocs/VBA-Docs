@@ -47,7 +47,7 @@ The  **OriginalHasAlphaChannel** property value can be one of the **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| The original, linked picture does not contain an alpha channel.|
 | **msoTriStateMixed**| Indicates a combination of **msoTrue** and **msoFalse** for the specified shape range.|

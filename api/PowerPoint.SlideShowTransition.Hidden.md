@@ -34,7 +34,7 @@ The value of the  **Hidden** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified slide is not hidden during a slide show.|
 |**msoTrue**| The specified slide is hidden during a slide show.|

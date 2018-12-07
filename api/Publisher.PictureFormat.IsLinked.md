@@ -38,7 +38,7 @@ The  **IsLinked** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified picture is not a linked picture.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

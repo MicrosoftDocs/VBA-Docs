@@ -34,7 +34,7 @@ The  **ExpandUsingKashida** property value can be one of the **MsoTriState** con
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Microsoft Publisher does not apply kashida rules while applying tracking to Arabic text.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified text range.|

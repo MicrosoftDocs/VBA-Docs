@@ -34,7 +34,7 @@ The value of the  **RewindAtEnd** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The object does not return to its beginning position after an animation has ended.|
 |**msoTrue**| The object returns to its beginning position after an animation has ended.|

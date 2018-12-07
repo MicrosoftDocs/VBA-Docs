@@ -34,7 +34,7 @@ The value of the  **AutoReverse** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The default. The effect does not play forward and then in reverse.|
 |**msoTrue**| The effect plays forward and then in reverse.|

@@ -29,7 +29,7 @@ The  **AutoActivate** property uses the following settings.
 
 
 
-|**Setting**|**Constant**|**Description**|
+|Setting|Constant|Description|
 |:-----|:-----|:-----|
 |Manual|**acOLEActivateManual** (0)|The OLE object isn't activated when it receives the focus or when the user double-clicks the control. You can activate an OLE object only by using Visual Basic to set the control's  **Action** property to **acOLEActivate**.|
 |GetFocus|**acOLEActivateGetFocus** (1)|(For unbound object frame and chart controls only) If the control contains an OLE object, the application that supplied the object is activated when the control receives the focus.|

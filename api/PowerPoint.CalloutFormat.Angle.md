@@ -34,7 +34,7 @@ The value of the  **Angle** property can be one of these **MsoCalloutAngleType**
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoCalloutAngle30**||
 |**msoCalloutAngle45**||

@@ -29,7 +29,7 @@ The  **LockAspectRatio** property value can be one of the **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The height and width of the shape change independently of one another when you resize it.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

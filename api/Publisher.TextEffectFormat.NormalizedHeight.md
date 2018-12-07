@@ -34,7 +34,7 @@ The  **NormalizedHeight** property value can be one of the **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Characters in the specified WordArt object are not all the same height.|
 | **msoTrue**| Characters in the specified WordArt object are all the same height.|

@@ -39,7 +39,7 @@ The value of the  **FeatureInstall** property can be one of these **MsoFeatureIn
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFeatureInstallNone**| The default. A trappable run-time automation error is generated when uninstalled features are called.|
 |**msoFeatureInstallOnDemand**| A dialog box is displayed prompting the user to install new features.|

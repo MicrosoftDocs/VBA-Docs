@@ -34,7 +34,7 @@ The value of the  **HasTable** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not a table.|
 |**msoTrue**| The specified shape is a table.|

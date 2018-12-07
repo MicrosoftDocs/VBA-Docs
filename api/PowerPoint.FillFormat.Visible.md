@@ -34,7 +34,7 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified object or object formatting is not visible.|
 |**msoTrue**| The specified object or object formatting is visible.|

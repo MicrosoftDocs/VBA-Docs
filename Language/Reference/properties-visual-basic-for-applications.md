@@ -53,7 +53,6 @@ ms.date: 09/17/2018
 - [SubFolders](User-Interface-Help/subfolders-property.md)
 - [TotalSize](User-Interface-Help/totalsize-property.md)
 - [Type (FileSystemObject object)](User-Interface-Help/type-property-filesystemobject-object.md)
-- [VBComponents](User-Interface-Help/vbcomponents-property.md)
 - [VolumeName](User-Interface-Help/volumename-property.md)
 - [WhatsThisButton](User-Interface-Help/whatsthisbutton-property.md)
 - [WhatsThisHelp](User-Interface-Help/whatsthishelp-property.md)

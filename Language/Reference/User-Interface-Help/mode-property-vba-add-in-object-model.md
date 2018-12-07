@@ -17,7 +17,7 @@ Returns a value containing the mode of the specified [project](../../Glossary/vb
 
 The **Mode** property return values are:
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**vbext_vm_Run**|The specified project is in run mode.|
 |**vbext_vm_Break**|The specified project is in break mode.|

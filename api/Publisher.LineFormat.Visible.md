@@ -29,7 +29,7 @@ The  **Visible** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified object or formatting is not visible.|
 | **msoTriStateMixed**|Return value only. The specified shape range contains both objects with visible formatting and objects with invisible formatting.|

@@ -34,7 +34,7 @@ The  **Vertical PictureLocking** property value can be one of the **PbVerticalPi
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbVerticalLockingBottom**|New pictures are inserted along the bottom edge of the frame.|
 | **pbVerticalLockingNone**|New pictures are inserted in the center between the top and bottom edges of the frame.|

@@ -29,7 +29,7 @@ The value of the  **Shadow** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified text doesn't have a shadow.|
 |**msoTriStateMixed**|Some of the specified text has a shadow and some doesn't.|

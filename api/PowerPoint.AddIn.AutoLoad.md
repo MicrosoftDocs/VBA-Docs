@@ -36,7 +36,7 @@ The value of the  **AutoLoad** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified add-in is not automatically loaded each time PowerPoint is started. |
 |**msoTrue**| The specified add-in is automatically loaded each time PowerPoint is started.|

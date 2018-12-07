@@ -37,7 +37,7 @@ The value of the  **AnimateBackground** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified shape is not animated separately from the text it contains.|
 |**msoTrue**| The specified shape is animated separately from the text it contains.|

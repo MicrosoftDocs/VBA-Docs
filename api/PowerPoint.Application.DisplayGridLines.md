@@ -34,7 +34,7 @@ The value returned by the  **DisplayGridLines** property can be one of these **M
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|Do not display gridlines.|
 |**msoTrue**| Display gridlines.|

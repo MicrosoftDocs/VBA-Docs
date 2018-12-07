@@ -34,7 +34,7 @@ The value of the  **PrintHiddenSlides** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The hidden slides in the specified presentation will not be printed.|
 |**msoTrue**| The hidden slides in the specified presentation will be printed.|

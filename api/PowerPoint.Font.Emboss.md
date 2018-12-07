@@ -34,7 +34,7 @@ The value of the  **Emboss** property can be one of these **MsoTriState** consta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The character format is not embossed.|
 |**msoTriStateMixed**|The specified text range contains both embossed and unembossed characters.|

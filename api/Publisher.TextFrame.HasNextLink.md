@@ -34,7 +34,7 @@ The  **HasNextLink** property value can be one of the **MsoTriState** constants 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified text frame does not have a forward text-box link.|
 | **msoTrue**| The specified text frame has a forward text-box link.|

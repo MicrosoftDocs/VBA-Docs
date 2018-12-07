@@ -34,7 +34,7 @@ The  **IsEmpty** property value can be one of the **MsoTriState** constants decl
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The specified shape is not an empty picture frame.|
 | **msoTriStateMixed**|Indicates a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

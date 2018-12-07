@@ -34,7 +34,7 @@ The value of the  **HasTitleMaster** property can be one of these **MsoTriState*
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified presentation does not have a title master.|
 |**msoTrue**| The specified presentation has a title master.|

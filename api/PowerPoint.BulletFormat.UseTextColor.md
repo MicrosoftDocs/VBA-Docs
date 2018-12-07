@@ -36,7 +36,7 @@ The value of the  **UseTextColor** property can be one of these **MsoTriState** 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified bullets are set to any other color.|
 |**msoTrue**| The specified bullets are set to the color of the first text character in the paragraph.|

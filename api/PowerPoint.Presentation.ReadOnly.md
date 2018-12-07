@@ -34,7 +34,7 @@ The value of the  **ReadOnly** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**| The specified presentation is not read-only.|
 |**msoTrue**| The specified presentation is read-only.|

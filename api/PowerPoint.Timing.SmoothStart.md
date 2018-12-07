@@ -34,7 +34,7 @@ The value of the  **SmoothStart** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. The animation does not accelerate when it starts. |
 |**msoTrue**| The animation accelerates when it starts.|

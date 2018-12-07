@@ -38,7 +38,7 @@ The value of the  **AutoAttach** property can be one of these **MsoTriState** co
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The place where the callout line attaches to the callout text box does not change depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box.|
 |**msoTrue**| The place where the callout line attaches to the callout text box changes depending on whether the origin of the callout line (where the callout points to) is to the left or right of the callout text box.|

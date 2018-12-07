@@ -34,7 +34,7 @@ The  **Obscured** property value can be one of the **MsoTriState** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|The shadow of the specified shape does not appear filled in and is not obscured by the shape if the shape has no fill.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

@@ -31,7 +31,7 @@ If you don't use the  **ObjectVerbs** property to identify a specific verb, you 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**acOLEVerbPrimary**|Performs the default operation for the object.|
 |**acOLEVerbShow**|Activates the object for editing.|
@@ -42,7 +42,7 @@ With some applications' objects, you can use these additional values.
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**acOLEVerbInPlaceUIActivate**|Activates the object for editing within the control. The menus and toolbars of the OLE server become available in the OLE container.|
 |**acOLEVerbInPlaceActivate**|Activates the object within the control. The menus and toolbars of the OLE server aren't available in the OLE container.|

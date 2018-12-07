@@ -48,7 +48,7 @@ The Orientation parameter can be one of the  **PbTextOrientation** constants dec
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **pbTextOrientationHorizontal**| A horizontal text box for left-to-right languages.|
 | **pbTextOrientationRightToLeft**|A horizontal text box for right-to-left languages. This value has no effect if a right-to-left language is not selected.|

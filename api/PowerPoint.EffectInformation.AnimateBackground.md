@@ -35,7 +35,7 @@ The value returned by the  **AnimateBackground** property can be one of these **
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified effect is not a background animation.|
 |**msoTrue**| The specified effect is a background animation.|

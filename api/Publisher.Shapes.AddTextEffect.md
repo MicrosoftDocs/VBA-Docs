@@ -57,7 +57,7 @@ The FontBold parameter can be one of the  **MsoTriState** constants declared in 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|Do not format the WordArt text as bold.|
 | **msoTrue**|Format the WordArt text as bold.|
@@ -66,7 +66,7 @@ The FontItalic parameter can be one of the  **MsoTriState** constants declared i
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**| Do not format the WordArt text as italic.|
 | **msoTrue**|Format the WordArt text as italic.|

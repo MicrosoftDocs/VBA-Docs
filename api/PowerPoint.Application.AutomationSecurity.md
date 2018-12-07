@@ -38,7 +38,7 @@ The value of the  **AutomationSecurity** property can be one of these **MsoAutom
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoAutomationSecurityByUI**|Uses the security setting specified in the  **Trust Center** dialog box.|
 |**msoAutomationSecurityForceDisable**| Disables all macros in all files opened programmatically without showing any security alerts.|

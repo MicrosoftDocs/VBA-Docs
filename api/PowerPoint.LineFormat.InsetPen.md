@@ -36,7 +36,7 @@ The value of the  **InsetPen** property can be one of these **MsoTriState** cons
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The default. An inset pen is not enabled.|
 |**msoTrue**| An inset pen is enabled.|

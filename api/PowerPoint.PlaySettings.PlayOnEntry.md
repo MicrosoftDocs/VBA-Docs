@@ -38,7 +38,7 @@ The value of the  **PlayOnEntry** property can be one of these **MsoTriState** c
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified movie or sound is not played automatically when it is animated.|
 |**msoTrue**| The specified movie or sound is played automatically when it is animated.|

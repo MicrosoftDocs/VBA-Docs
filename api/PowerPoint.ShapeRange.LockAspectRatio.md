@@ -34,7 +34,7 @@ The value of the  **LockAspectRatio** property can be one of these **MsoTriState
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|You can change the height and width of the shape independently of one another when you resize it.|
 |**msoTrue**| The specified shape retains its original proportions when you resize it.|

@@ -34,7 +34,7 @@ The value of the  **ShowWithNarration** property can be one of these **MsoTriSta
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|The specified slide show is shown without narration. |
 |**msoTrue**| The specified slide show is shown with narration.|

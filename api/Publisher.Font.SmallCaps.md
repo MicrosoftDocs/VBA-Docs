@@ -34,7 +34,7 @@ The  **SmallCaps** property value can be one of the **MsoTriState** constants de
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoFalse**|None of the characters in the range are formatted as small caps.|
 | **msoTriStateMixed**|Return value indicating a combination of  **msoTrue** and **msoFalse** for the specified shape range.|

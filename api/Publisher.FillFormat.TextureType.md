@@ -36,7 +36,7 @@ The property value can be one of the  **MsoTriState** constants declared in the 
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 | **msoTexturePreset**| The fill uses a preset texture type.|
 | **msoTextureTypeMixed**|Indicates a combination of texture types for the specified shape range..|

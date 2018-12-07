@@ -36,7 +36,7 @@ The value of the  **ShowWindowsInTaskbar** property can be one of these **MsoTri
 
 
 
-|**Constant**|**Description**|
+|Constant|Description|
 |:-----|:-----|
 |**msoFalse**|There is not a separate Windows taskbar button for each open presentation.|
 |**msoTrue**| The default. There is a separate Windows taskbar button for each open presentation.|
