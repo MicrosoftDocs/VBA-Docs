@@ -1043,6 +1043,342 @@
           {
             "source_path": "language/reference/user-interface-help/windows-collection-vba-add-in-object-model.md",
             "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/collections-visual-basic-add-in-model#windows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/click-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#click-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/itemadded-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#itemadded-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/itemremoved-event-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/events-visual-basic-add-in-model#itemremoved-event"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activecodepane-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activecodepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activevbproject-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activevbproject"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/activewindow-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#activewindow"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addins-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#addins"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/buildfilename-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#buildfilename"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/builtin-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#builtin"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/caption-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#caption"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codemodule-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codemodule"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepane-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepanes-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepanes"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepaneview-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#codepaneview"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collection-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#collection"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbarevents-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#commandbarevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbars-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#commandbars"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/connect-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#connect"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/count-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#count"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countofdeclarationlines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countofdeclarationlines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countoflines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countoflines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/countofvisiblelines-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#countofvisiblelines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/description-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#description"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designer-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#designer"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/designerid-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#designerid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/events-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#events"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/filename-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#filename"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/fullpath-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#fullpath"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/guid-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#guid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/hasopendesigner-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#hasopendesigner"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/height-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#height"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/helpcontextid-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#helpcontextid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/helpfile-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#helpfile"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/indexedvalue-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#indexedvalue"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/isbroken-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#isbroken"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/left-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#left"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/lines-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#lines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindowframe-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#linkedwindowframe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/linkedwindows-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#linkedwindows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mainwindow-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#mainwindow"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/major-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#major"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/minor-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#minor"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/mode-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#mode"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/name-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#name"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/numindices-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#numindices"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/object-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#object"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/parent-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#parent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procbodyline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procbodyline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/proccountlines-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#proccountlines"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procofline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procofline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/procstartline-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#procstartline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/progid-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#progid"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/properties-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#properties"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/protection-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#protection"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/references-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#references"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/referencesevents-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#referencesevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/saved-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#saved"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/selectedvbcomponent-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#selectedvbcomponent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/top-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#top"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/topline-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#topline"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/type-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#type"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/value-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#value"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbe-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbprojects-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbprojects"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/version-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#version"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visible-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#visible"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/width-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#width"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/window-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#window"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windows-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#windows"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/windowstate-property-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#windowstate"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponents-property.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/properties-visual-basic-add-in-model#vbcomponents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/addin-object.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#addin"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codemodule-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#codemodule"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/codepane-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#codepane"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbar-object.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#commandbar"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/commandbarevents-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#commandbarevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/events-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#events"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/property-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#property"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/reference-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#reference"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/referencesevents-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#referencesevents"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbcomponent-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbcomponent"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbe-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbe"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/vbproject-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#vbproject"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/window-object-vba-add-in-object-model.md",
+            "redirect_url": "/office/vba/language/reference/visual-basic-add-in-model/objects-visual-basic-add-in-model#window"
           }
     ]
 }
