@@ -15,7 +15,7 @@ Adds an object to a [collection](../visual-basic-add-in-model/collections-visual
 
 ## Syntax
 
-_object_.**Add**( _component_ ) 
+_object_.**Add** (_component_) 
 
 <br/>
 

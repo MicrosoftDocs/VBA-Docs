@@ -735,7 +735,7 @@ If the property that the **[Property](../user-interface-help/property-object-vba
 
 The **Value** property is the default property for the **Property** object.
 
-## VBComponents property
+## VBComponents
 
 Returns a collection of the components contained in a project.
 

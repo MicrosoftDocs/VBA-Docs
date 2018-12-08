@@ -15,7 +15,7 @@ Searches the active [module](../../Glossary/vbe-glossary.md#module) for a specif
 
 ## Syntax
 
-_object_.**Find** (_target_, _startline_, _startcol_, _endline_, _endcol_, [ _wholeword_ ], [ _matchcase_ ], [ _patternsearch_ ] ) **As Boolean**
+_object_.**Find** (_target_, _startline_, _startcol_, _endline_, _endcol_, [ _wholeword_ ], [ _matchcase_ ], [ _patternsearch_ ]) **As Boolean**
 
 <br/>
 

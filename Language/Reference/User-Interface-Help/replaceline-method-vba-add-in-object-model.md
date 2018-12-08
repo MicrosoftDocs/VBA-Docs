@@ -15,7 +15,7 @@ Replaces an existing line of code with a specified line of code.
 
 ## Syntax
 
-_object_.**ReplaceLine**(_line_, _code_)
+_object_.**ReplaceLine** (_line_, _code_)
 
 <br/>
 

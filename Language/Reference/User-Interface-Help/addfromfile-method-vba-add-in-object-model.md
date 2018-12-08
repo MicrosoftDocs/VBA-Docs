@@ -15,7 +15,7 @@ For the **References** collection, adds a reference to a [project](../../Glossar
 
 ## Syntax
 
-_object_.**AddFromFile**(_filename_)
+_object_.**AddFromFile** (_filename_)
 
 <br/>
 
