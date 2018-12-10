@@ -20,8 +20,7 @@ The  **ColorConstants** module contains predefined color constants. These consta
 
 1. Select the constant from the  **Members of 'ColorConstants'** list.
     
-2. Click the 
-![Help button](../../../images/but_help_ZA01201583.gif) button.
+2. Click the ![Help button](../../../images/but_help_ZA01201583.gif) button.
     
 
 

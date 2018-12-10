@@ -25,7 +25,7 @@ Worksheets(1).Range ("A2").value=3.14159
 
 ```
 
-To use the built-in Help  **Search**, select **Microsoft Visual Basic Help** on the **Help** menu.
+To use the built-in Help **Search**, select **Microsoft Visual Basic Help** on the **Help** menu.
 
 
 
