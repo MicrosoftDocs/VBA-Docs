@@ -15,7 +15,7 @@ Used to divide two numbers and return only the remainder.
 
 ## Syntax
 
-_result_=_number1_ **Mod** _number2_
+_result_ = _number1_ **Mod** _number2_
 
 The **Mod** operator syntax has these parts:
 
@@ -27,7 +27,11 @@ The **Mod** operator syntax has these parts:
 
 ## Remarks
 
-The modulus, or remainder, operator divides _number1_ by _number2_ (rounding floating-point numbers to integers) and returns only the remainder as _result_. For example, in the following [expression](../../Glossary/vbe-glossary.md#expression), A ( _result_ ) equals 5.
+The modulus, or remainder, operator divides _number1_ by _number2_ (rounding floating-point numbers to integers) and returns only the remainder as _result_. For example, in the following [expression](../../Glossary/vbe-glossary.md#expression), A (_result_) equals 5.
+
+```vb
+A = 19 Mod 6.7
+```
 
 Usually, the [data type](../../Glossary/vbe-glossary.md#data-type) of _result_ is a [Byte](../../Glossary/vbe-glossary.md#byte-data-type), **Byte** variant, [Integer](../../Glossary/vbe-glossary.md#integer-data-type), **Integer** variant, [Long](../../Glossary/vbe-glossary.md#long-data-type), or [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing a **Long**, regardless of whether or not _result_ is a whole number. Any fractional portion is truncated. 
 
@@ -47,4 +51,6 @@ MyResult = 12.6 Mod 5    ' Returns 3.
 
 ## See also
 
+- [Mod operator examples (previous versions)](https://docs.microsoft.com/previous-versions/office/office-10/aa263659(v=office.10))
+- [Data types](data-type-summary.md)
 - [Operator summary](operator-summary.md)
