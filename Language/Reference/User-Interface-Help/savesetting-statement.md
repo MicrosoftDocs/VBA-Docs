@@ -32,6 +32,8 @@ The **SaveSetting** statement syntax has these [named arguments](../../Glossary/
 
 An error occurs if the key setting can't be saved for any reason.
 
+The root of these registry settings is: `Computer\HKEY_CURRENT_USER\Software\VB and VBA Program Settings`.
+
 ## Example
 
 The following example first uses the **SaveSetting** statement to make entries in the Windows registry (or .ini file on 16-bit Windows platforms) for the application, and then uses the **[DeleteSetting](deletesetting-statement.md)** statement to remove them.
