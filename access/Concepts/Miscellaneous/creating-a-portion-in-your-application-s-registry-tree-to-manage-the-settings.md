@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 # Create a portion in your application's registry tree to manage settings
 
-**Applies to:** Access 2013 | Access 2016
+**Applies to**: Access 2013 | Access 2016
 
 To customize the Microsoft Windows Registry settings, you can create a Microsoft Access database engine portion in your application's registry tree to manage the settings for the Microsoft Access database engine. 
 
