@@ -1,6 +1,9 @@
 ---
 title: Objects (Visual Basic Add-In Model)
 ms.prod: office
+keywords: vbob6.chm100000
+f1_keywords:
+- vbob6.chm100000
 ms.assetid: d92a32be-3e40-4ce2-ba11-fa797840984a
 ms.date: 12/06/2018
 ---

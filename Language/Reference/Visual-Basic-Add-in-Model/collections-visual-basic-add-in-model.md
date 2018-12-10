@@ -1,6 +1,9 @@
 ---
 title: Collections (Visual Basic Add-In Model)
 ms.prod: office
+keywords: vbob6.chm1070949
+f1_keywords:
+- vbob6.chm1070949
 ms.assetid: 45e5f192-c698-4805-9ba8-cbe52f313732
 ms.date: 12/05/2018
 ---
