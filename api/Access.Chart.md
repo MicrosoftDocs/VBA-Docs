@@ -1,6 +1,6 @@
 ---
 title: Chart object (Access)
-keywords: - vbaac10.chm14749
+keywords: vbaac10.chm14749
 f1_keywords:
 - vbaac10.chm14749
 - vbaac10.chm6107
