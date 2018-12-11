@@ -2,7 +2,7 @@
 title: Events (Visual Basic for Applications)
 ms.prod: office
 ms.assetid: b5cad0fb-0e27-4cce-8998-eba61b07dad3
-ms.date: 09/17/2018
+ms.date: 12/11/2018
 ---
 
 
@@ -16,3 +16,6 @@ ms.date: 09/17/2018
 - [Terminate](User-Interface-Help/terminate-event-visual-basic-for-applications.md)
     
 
+## See also
+
+- - [Events (Visual Basic Add-In Model)](visual-basic-add-in-model/events-visual-basic-add-in-model.md)
