@@ -1,6 +1,11 @@
 ---
 title: Events (Visual Basic Add-In Model)
 ms.prod: office
+keywords: vbob6.chm1098932
+f1_keywords:
+- vbob6.chm1098932
+- vbob6.chm1098927
+- vbob6.chm100150
 ms.assetid: ae90ce4d-7f61-4e7d-a4ab-7cf78028281a
 ms.date: 12/06/2018
 ---

@@ -4,6 +4,61 @@ keywords: vbaac10.chm14749
 f1_keywords:
 - vbaac10.chm14749
 - vbaac10.chm6107
+- vbaac10.chm14800
+- vbaac10.chm14801
+- vbaac10.chm14802
+- vbaac10.chm14803
+- vbaac10.chm14804
+- vbaac10.chm14805
+- vbaac10.chm14806
+- vbaac10.chm14807
+- vbaac10.chm14808
+- vbaac10.chm14809
+- vbaac10.chm14810
+- vbaac10.chm14811
+- vbaac10.chm14812
+- vbaac10.chm14813
+- vbaac10.chm14635
+- vbaac10.chm14636
+- vbaac10.chm14814
+- vbaac10.chm14815
+- vbaac10.chm14816
+- vbaac10.chm14817
+- vbaac10.chm14818
+- vbaac10.chm14819
+- vbaac10.chm14820
+- vbaac10.chm14821
+- vbaac10.chm14822
+- vbaac10.chm14823
+- vbaac10.chm14827
+- vbaac10.chm14824
+- vbaac10.chm14828
+- vbaac10.chm14829
+- vbaac10.chm14830
+- vbaac10.chm14831
+- vbaac10.chm14832
+- vbaac10.chm14833
+- vbaac10.chm14834
+- vbaac10.chm14835
+- vbaac10.chm14836
+- vbaac10.chm14837
+- vbaac10.chm14838
+- vbaac10.chm14839
+- vbaac10.chm14840
+- vbaac10.chm14841
+- vbaac10.chm14825
+- vbaac10.chm14842
+- vbaac10.chm14843
+- vbaac10.chm14844
+- vbaac10.chm14845
+- vbaac10.chm14846
+- vbaac10.chm14847
+- vbaac10.chm14849
+- vbaac10.chm14848
+- vbaac10.chm14826
+- vbaac10.chm14850
+- vbaac10.chm14851
+- vbaac10.chm14852
 ms.prod: access
 api_name:
 - Access.Chart
@@ -14,6 +69,9 @@ ms.date: 11/28/2018
 # Chart object (Access)
 
 A customizable visualization of data that can be included in a report.
+
+> [!NOTE] 
+> For events, methods, or properties that don't have a link, stay tuned. Content is coming soon.
 
 ## Events
 

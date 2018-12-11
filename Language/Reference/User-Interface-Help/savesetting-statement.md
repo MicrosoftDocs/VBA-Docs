@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1020904
 ms.prod: office
 ms.assetid: f15549da-3c84-0991-592a-9d715fd488f3
-ms.date: 12/03/2018
+ms.date: 12/10/2018
 ---
 
 
@@ -31,6 +31,8 @@ The **SaveSetting** statement syntax has these [named arguments](../../Glossary/
 ## Remarks
 
 An error occurs if the key setting can't be saved for any reason.
+
+The root of these registry settings is: `Computer\HKEY_CURRENT_USER\Software\VB and VBA Program Settings`.
 
 ## Example
 
