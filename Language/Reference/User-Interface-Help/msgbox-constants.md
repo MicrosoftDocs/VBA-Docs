@@ -1,22 +1,19 @@
 ---
-title: MsgBox Constants
+title: MsgBox constants
 keywords: vblr6.chm1012528
 f1_keywords:
 - vblr6.chm1012528
 ms.prod: office
 ms.assetid: c07bba5c-b724-0a63-b829-5efd8798734f
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# MsgBox Constants
+# MsgBox constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
-
-## MsgBox Arguments
-
-
+## MsgBox arguments
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -41,9 +38,7 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbMsgBoxRight**|524288|Text is right aligned|
 |**vbMsgBoxRtlReading**|1048576|Specifies text should appear as right-to-left reading on Hebrew and Arabic systems|
 
-## MsgBox Return Values
-
-
+## MsgBox return values
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -55,3 +50,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbYes**|6|**Yes** button pressed|
 |**vbNo**|7|**No** button pressed|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)

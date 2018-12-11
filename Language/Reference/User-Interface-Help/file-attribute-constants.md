@@ -1,19 +1,19 @@
 ---
-title: File Attribute Constants
+title: File Attribute constants
 keywords: vblr6.chm1113237
 f1_keywords:
 - vblr6.chm1113237
 ms.prod: office
 ms.assetid: ed8e634c-bb35-f1e4-af35-593ced56d997
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# File Attribute Constants
+# File Attribute constants
 
 These constants are only available when your project has an explicit reference to the appropriate [type library](../../Glossary/vbe-glossary.md#type-library) containing these constant definitions.
 
-
+<br/>
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -27,3 +27,6 @@ These constants are only available when your project has an explicit reference t
 |**Alias**|64|Link or shortcut. Attribute is read-only.|
 |**Compressed**|128|Compressed file. Attribute is read-only.|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)

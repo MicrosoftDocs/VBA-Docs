@@ -1507,6 +1507,10 @@
           {
             "source_path": "language/reference/user-interface-help/vbvartype-object-browser.md",
             "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/visual-basic-constants.md",
+            "redirect_url": "/office/vba/language/reference/constants-visual-basic-for-applications"
           }
     ]
 }

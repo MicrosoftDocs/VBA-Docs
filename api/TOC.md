@@ -34524,7 +34524,6 @@
 ##### [StrConv](../Language/Reference/User-Interface-Help/strconv-constants.md)
 ##### [System Color](../Language/Reference/User-Interface-Help/system-color-constants.md)
 ##### [Tristate](../Language/Reference/User-Interface-Help/tristate-constants.md)
-##### [Visual Basic](../Language/Reference/User-Interface-Help/visual-basic-constants.md)
 #### [Data types](../Language/Reference/User-Interface-Help/data-type-summary.md)
 ##### [Type conversion functions](../Language/Concepts/Getting-Started/type-conversion-functions.md)
 ##### [Boolean](../Language/Reference/User-Interface-Help/boolean-data-type.md)

@@ -1,8 +1,11 @@
 ---
 title: Constants (Visual Basic for Applications)
 ms.prod: office
+keywords: vblr6.chm1011027
+f1_keywords:
+- vblr6.chm1011027
 ms.assetid: b901a73e-d4de-4c48-964e-9e51800bd8b4
-ms.date: 11/21/2018
+ms.date: 12/11/2018
 ---
 
 
@@ -31,17 +34,10 @@ ms.date: 11/21/2018
 - [StrConv](User-Interface-Help/strconv-constants.md) 
 - [System Color](User-Interface-Help/system-color-constants.md) 
 - [Tristate](User-Interface-Help/tristate-constants.md) 
-- [Visual Basic](User-Interface-Help/visual-basic-constants.md) 
 
-    
-## Object Browser constants
-
-- [ColorConstants](User-Interface-Help/colorconstants-object-browser.md) 
-- [FormShowConstants](User-Interface-Help/formshowconstants-object-browser.md) 
-- [KeycodeConstants](User-Interface-Help/keycodeconstants-object-browser.md) 
-- [SystemColorConstants](User-Interface-Help/systemcolorconstants-object-browser.md) 
 
 ## See also
 
+- [Object Browser modules and enumerations](object-browser-visual-basic-for-applications.md)
 - [Compiler constants](../Concepts/Getting-Started/compiler-constants.md) 
 - [VarType constants](../Concepts/Getting-Started/vartype-constants.md)
