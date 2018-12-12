@@ -1,27 +1,27 @@
 ---
-title: Hex Function
+title: Hex function (Visual Basic for Applications)
 keywords: vblr6.chm1011362
 f1_keywords:
 - vblr6.chm1011362
 ms.prod: office
 ms.assetid: 79a403a9-61af-0991-8f13-60c1033f158a
-ms.date: 06/08/2017
+ms.date: 12/12/2018
 ---
 
 
-# Hex Function
-
-
+# Hex function
 
 Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) representing the hexadecimal value of a number.
 
 ## Syntax
 
-**Hex** ( _number_ )
+**Hex**(_number_)
 
 The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) or [string expression](../../Glossary/vbe-glossary.md#string-expression).
 
-|**If  _number_ is**|**Hex returns**|
+<br/>
+
+|If _number_ is|Hex returns|
 |:-----|:-----|
 |-2,147,483,648 to 2,147,483,647|Up to eight hexadecimal characters|
 |[Null](../../Glossary/vbe-glossary.md#null)|Null|
@@ -39,7 +39,6 @@ For the opposite of **Hex**, precede a hexidecimal value with **&H**. For exampl
 
 This example uses the **Hex** function to return the hexadecimal value of a number.
 
-
 ```vb
 Dim MyHex
 MyHex = Hex(5)    ' Returns 5.
@@ -47,4 +46,6 @@ MyHex = Hex(10)    ' Returns A.
 MyHex = Hex(459)    ' Returns 1CB.
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

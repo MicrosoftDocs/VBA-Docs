@@ -13,6 +13,8 @@ ms.date: 12/11/2018
 
 The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+<br/>
+
 |Constant|Value|Description|
 |:-----|:-----|:-----|
 |**vbModeless**|0|**[UserForm](userform-window.md)** is modeless.|

@@ -1,5 +1,5 @@
 ---
-title: Command function
+title: Command function (Visual Basic for Applications)
 keywords: vblr6.chm1013109
 f1_keywords:
 - vblr6.chm1013109

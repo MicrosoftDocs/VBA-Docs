@@ -1,5 +1,5 @@
 ---
-title: Abs function
+title: Abs function (Visual Basic for Applications)
 keywords: vblr6.chm1008850
 f1_keywords:
 - vblr6.chm1008850

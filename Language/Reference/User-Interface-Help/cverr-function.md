@@ -1,5 +1,5 @@
 ---
-title: CVErr function
+title: CVErr function (Visual Basic for Applications)
 keywords: vblr6.chm1008821
 f1_keywords:
 - vblr6.chm1008821

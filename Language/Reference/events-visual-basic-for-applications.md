@@ -18,4 +18,4 @@ ms.date: 12/11/2018
 
 ## See also
 
-- - [Events (Visual Basic Add-In Model)](visual-basic-add-in-model/events-visual-basic-add-in-model.md)
+- [Events (Visual Basic Add-In Model)](visual-basic-add-in-model/events-visual-basic-add-in-model.md)

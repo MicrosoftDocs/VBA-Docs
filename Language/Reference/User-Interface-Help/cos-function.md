@@ -1,5 +1,5 @@
 ---
-title: Cos function
+title: Cos function (Visual Basic for Applications)
 keywords: vblr6.chm1008879
 f1_keywords:
 - vblr6.chm1008879

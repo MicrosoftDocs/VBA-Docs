@@ -1,5 +1,5 @@
 ---
-title: Atn function
+title: Atn function (Visual Basic for Applications)
 keywords: vblr6.chm1008860
 f1_keywords:
 - vblr6.chm1008860
