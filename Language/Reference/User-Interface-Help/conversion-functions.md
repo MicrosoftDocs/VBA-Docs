@@ -1,51 +1,40 @@
 ---
-title: Conversion Functions
+title: Conversion functions
 ms.prod: office
 ms.assetid: c7548597-105e-77f0-0ec0-59dc5f89b7aa
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# Conversion Functions
+# Conversion functions
 
-[Asc Function](asc-function.md)
+- [Asc function](asc-function.md)
+- [Chr function](chr-function.md)
+- [CVErr function](cverr-function.md)
+- [Format function](format-function-visual-basic-for-applications.md)
+- [Hex function](hex-function.md)
+- [Oct function](oct-function.md)
+- [Str function](str-function.md)
+- [Val function](val-function.md)
 
-[CBool Function](../../Concepts/Getting-Started/type-conversion-functions.md)
+## Type conversion functions
 
-[CByte Function](../../Concepts/Getting-Started/type-conversion-functions.md)
+For functions that coerce an expression to a specific data type, see the following on the [Type conversion functions](../../Concepts/Getting-Started/type-conversion-functions.md) page.
 
-[CCur Function](../../Concepts/Getting-Started/type-conversion-functions.md)
+- CBool function
+- CByte function
+- CCur function
+- CDate function
+- CDec function
+- CDbl function
+- CInt function
+- CLng function
+- CLngLng function
+- CLngPtr function
+- CSng function
+- CStr function
+- CVar function
 
-[CDate Function](../../Concepts/Getting-Started/type-conversion-functions.md)
+## See also
 
-[CDec Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CDbl Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[Chr Function](chr-function.md)
-
-[CInt Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CLng Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CLngLng Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CLngPtr Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CSng Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CStr Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CVar Function](../../Concepts/Getting-Started/type-conversion-functions.md)
-
-[CVErr Function](cverr-function.md)
-
-[Format Function](format-function-visual-basic-for-applications.md)
-
-[Hex Function](hex-function.md)
-
-[Oct Function](oct-function.md)
-
-[Str Function](str-function.md)
-
-[Val Function](val-function.md)
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
