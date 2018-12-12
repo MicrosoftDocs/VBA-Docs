@@ -1511,10 +1511,6 @@
           {
             "source_path": "language/reference/user-interface-help/visual-basic-constants.md",
             "redirect_url": "/office/vba/language/reference/constants-visual-basic-for-applications"
-          },
-          {
-            "source_path": "https://msdn.microsoft.com/VBA/access-vba/articles/access-modern-charts-properties",
-            "redirect_url": "/office/vba/api/access.chart.charttype"
-          }  
+          }
     ]
 }
