@@ -1,24 +1,21 @@
 ---
-title: Date Constants
+title: Date constants
 keywords: vblr6.chm1019269
 f1_keywords:
 - vblr6.chm1019269
 ms.prod: office
 ms.assetid: 42e70a4a-18e8-5d8a-8e0e-8afd5b846da4
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# Date Constants
+# Date constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values:
+The following [constants](../../Glossary/vbe-glossary.md#constant) can be used anywhere in your code in place of the actual values.
 
+## Argument values
 
-## Argument Values
-
-The  _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the following values:
-
-
+The _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has the following values.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -31,9 +28,9 @@ The  _firstdayofweek_ [argument](../../Glossary/vbe-glossary.md#argument) has th
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
-The  _firstdayofyear_ argument has the following values:
+<br/>
 
-
+The _firstdayofyear_ argument has the following values.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -43,9 +40,7 @@ The  _firstdayofyear_ argument has the following values:
 |**vbFirstFourDays**|2|Start with the first week that has at least four days in the new year.|
 |**vbFirstFullWeek**|3|Start with the first full week of the year.|
 
-## Return Values
-
-
+## Return values
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -57,3 +52,6 @@ The  _firstdayofyear_ argument has the following values:
 |**vbFriday**|6|Friday|
 |**vbSaturday**|7|Saturday|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)

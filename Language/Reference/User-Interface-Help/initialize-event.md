@@ -1,5 +1,5 @@
 ---
-title: Initialize Event
+title: Initialize event (Visual Basic for Applications)
 keywords: vblr6.chm916308
 f1_keywords:
 - vblr6.chm916308
@@ -7,28 +7,27 @@ ms.prod: office
 api_name:
 - Office.Initialize
 ms.assetid: b6405bb0-21f6-2654-010b-2a14b418c43d
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# Initialize Event
-
-
+# Initialize event
 
 Occurs after an object is loaded, but before it's shown.
 
 ## Syntax
 
-**Private Sub**_object_**_Initialize()**
-The  _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.
+**Private Sub** _object_**_Initialize( )**
+
+The _object_ placeholder represents an [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.
 
 ## Remarks
 
-The Initialize event is typically used to prepare an application or  **[UserForm](userform-window.md)** for use.[Variables](../../Glossary/vbe-glossary.md#variable) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
+The **Initialize** event is typically used to prepare an application or **[UserForm](userform-window.md)** for use.[Variables](../../Glossary/vbe-glossary.md#variable) are assigned initial values, and controls may be moved or resized to accommodate initialization data.
 
 ## Example
 
-The following example assumes two  **UserForms** in a program. In UserForm1's Initialize event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
+The following example assumes two **UserForms** in a program. In UserForm1's **Initialize** event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
 
 
 ```vb
@@ -48,4 +47,7 @@ Private Sub UserForm_Click()
 End Sub
 ```
 
+## See also
 
+- [Events (Visual Basic Add-In Model)](../visual-basic-add-in-model/events-visual-basic-add-in-model.md)
+- [Events (Visual Basic for Applications)](../events-visual-basic-for-applications.md)

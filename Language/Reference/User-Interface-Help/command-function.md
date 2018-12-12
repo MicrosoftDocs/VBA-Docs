@@ -1,17 +1,15 @@
 ---
-title: Command Function
+title: Command function
 keywords: vblr6.chm1013109
 f1_keywords:
 - vblr6.chm1013109
 ms.prod: office
 ms.assetid: 2eaefb12-2e7f-ab4a-9cd8-fc0739e33bf5
-ms.date: 06/08/2017
+ms.date: 12/11/2018
 ---
 
 
-# Command Function
-
-
+# Command function
 
 Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the [command line](../../Glossary/vbe-glossary.md#command-line) used to launch Microsoft Visual Basic or an executable program developed with Visual Basic. The Visual Basic **Command** function is not available in Microsoft Office applications.
 
@@ -21,17 +19,13 @@ Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the [
 
 ## Remarks
 
-When Visual Basic is launched from the command line, any portion of the command line that follows  `/cmd` is passed to the program as the command-line argument. In the following example, is passed to the program as the command-line argument. In the following command line example, `cmdlineargs` represents the argument information returned by the **Command** function.
-
-
+When Visual Basic is launched from the command line, any portion of the command line that follows `/cmd` is passed to the program as the command-line argument. In the following command line example, `cmdlineargs` represents the argument information returned by the **Command** function.
 
 ```text
 VB /cmd cmdlineargs
 ```
 
-For applications developed with Visual Basic and compiled to an .exe file,  **Command** returns any arguments that appear after the name of the application on the command line. For example:
-
-
+For applications developed with Visual Basic and compiled to an .exe file, **Command** returns any arguments that appear after the name of the application on the command line. For example:
 
 ```text
 MyApp cmdlineargs
@@ -41,7 +35,7 @@ To find how command line arguments can be changed in the user interface of the a
 
 ## Example
 
-This example uses the  **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
+This example uses the **Command** function to get the command line arguments in a function that returns them in a **Variant** containing an array. Not available in Microsoft Office.
 
 
 ```vb
@@ -87,3 +81,6 @@ End Function
 ```
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

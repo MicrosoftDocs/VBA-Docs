@@ -59,6 +59,9 @@ f1_keywords:
 - vbaac10.chm14850
 - vbaac10.chm14851
 - vbaac10.chm14852
+- vbaac10.chm6153
+- vbaac10.chm6154
+- vbaac10.chm6155
 ms.prod: access
 api_name:
 - Access.Chart

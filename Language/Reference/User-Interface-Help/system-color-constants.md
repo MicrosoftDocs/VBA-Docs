@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1106130
 ms.prod: office
 ms.assetid: d70b3279-75c4-8479-8368-2a129568b668
-ms.date: 11/28/2018
+ms.date: 12/11/2018
 ---
 
 
@@ -43,3 +43,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbInfoText**|0x80000017|Color of text in ToolTips|
 |**vbInfoBackground**|0x80000018|Background color of ToolTips|
 
+## See also
+
+- [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
