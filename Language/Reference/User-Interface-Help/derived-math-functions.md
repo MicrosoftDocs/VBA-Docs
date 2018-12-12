@@ -1,22 +1,21 @@
 ---
-title: Derived Math Functions
+title: Derived math functions (Visual Basic for Applications)
 keywords: vblr6.chm1008896
 f1_keywords:
 - vblr6.chm1008896
 ms.prod: office
 ms.assetid: f6d53d19-3487-548a-eeba-5b16d7e3e1e7
-ms.date: 06/08/2017
+ms.date: 12/12/2018
 ---
 
 
-# Derived Math Functions
+# Derived math functions
 
+The following is a list of nonintrinsic math functions that can be derived from the intrinsic math functions.
 
+<br/>
 
-The following is a list of nonintrinsic math functions that can be derived from the intrinsic math functions:
-
-
-|**Function**|**Derived equivalents**|
+|Function|Derived equivalents|
 |:-----|:-----|
 |Secant|Sec(X) = 1 / Cos(X)|
 |Cosecant|Cosec(X) = 1 / Sin(X)|
@@ -40,3 +39,6 @@ The following is a list of nonintrinsic math functions that can be derived from 
 |Inverse Hyperbolic Cotangent|HArccotan(X) = Log((X + 1) / (X - 1)) / 2|
 |Logarithm to base N|LogN(X) = Log(X) / Log(N)|
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
