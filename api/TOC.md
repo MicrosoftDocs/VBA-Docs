@@ -34577,7 +34577,7 @@
 ##### [DateValue](../Language/Reference/User-Interface-Help/datevalue-function.md)
 ##### [Day](../Language/Reference/User-Interface-Help/day-function.md)
 ##### [DDB](../Language/Reference/User-Interface-Help/ddb-function.md)
-##### [Derived Math](../Language/Reference/User-Interface-Help/derived-math-functions.md)
+##### [Derived math](../Language/Reference/User-Interface-Help/derived-math-functions.md)
 ##### [Dir](../Language/Reference/User-Interface-Help/dir-function.md)
 ##### [DoEvents](../Language/Reference/User-Interface-Help/doevents-function.md)
 ##### [Environ](../Language/Reference/User-Interface-Help/environ-function.md)

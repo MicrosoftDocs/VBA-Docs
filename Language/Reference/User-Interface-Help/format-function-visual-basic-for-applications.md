@@ -5,17 +5,19 @@ f1_keywords:
 - vblr6.chm1008925
 ms.prod: office
 ms.assetid: 67f60abf-0c77-49ec-924f-74ae6eb96ea8
-ms.date: 11/16/2018
+ms.date: 12/12/2018
 ---
 
 
-# Format function (Visual Basic for Applications)
+# Format function
 
 Returns a **Variant (String)** containing an [expression](../../Glossary/vbe-glossary.md#expression) formatted according to instructions contained in a format expression.
 
 ## Syntax
 
 **Format**(_Expression_, [_Format_], [_FirstDayOfWeek_], [_FirstWeekOfYear_])
+
+<br/>
 
 The **Format** function syntax has these parts.
 
@@ -212,28 +214,28 @@ The following table identifies characters you can use to create user-defined dat
 |(**:**)|Time separator. In some [locales](../../Glossary/vbe-glossary.md#locale), other characters may be used to represent the time separator. The time separator separates hours, minutes, and seconds when time values are formatted. The actual character used as the time separator in formatted output is determined by your system settings.|
 |(**/**)|[Date separator](../../Glossary/vbe-glossary.md#date-separators). In some locales, other characters may be used to represent the date separator. The date separator separates the day, month, and year when date values are formatted. The actual character used as the date separator in formatted output is determined by your system settings.|
 |c|Display the date as  `ddddd` and display the time as `ttttt`, in that order. Display only date information if there is no fractional part to the date serial number; display only time information if there is no integer portion.|
-|d|Display the day as a number without a leading zero (1 - 31).|
-|dd|Display the day as a number with a leading zero (01 - 31).|
-|ddd|Display the day as an abbreviation (Sun - Sat). Localized.|
-|dddd|Display the day as a full name (Sunday - Saturday). Localized.|
+|d|Display the day as a number without a leading zero (1&ndash;31).|
+|dd|Display the day as a number with a leading zero (01&ndash;31).|
+|ddd|Display the day as an abbreviation (Sun&ndash;Sat). Localized.|
+|dddd|Display the day as a full name (Sunday&ndash;Saturday). Localized.|
 |ddddd|Display the date as a complete date (including day, month, and year), formatted according to your system's short date format setting. The default short date format is  `m/d/yy`.|
 |dddddd|Display a date serial number as a complete date (including day, month, and year) formatted according to the long date setting recognized by your system. The default long date format is  `mmmm dd, yyyy`.|
 |w|Display the day of the week as a number (1 for Sunday through 7 for Saturday).|
-|ww|Display the week of the year as a number (1 - 54).|
-|m|Display the month as a number without a leading zero (1 - 12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
-|mm|Display the month as a number with a leading zero (01 - 12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed. |
-|mmm|Display the month as an abbreviation (Jan - Dec). Localized.|
-|mmmm|Display the month as a full month name (January - December). Localized.|
-|q|Display the quarter of the year as a number (1 - 4).|
-|y|Display the day of the year as a number (1 - 366).|
-|yy|Display the year as a 2-digit number (00 - 99).|
-|yyyy|Display the year as a 4-digit number (100 - 9999).|
-|h|Display the hour as a number without a leading zero (0 - 23).|
-|hh|Display the hour as a number with a leading zero (00 - 23).|
-|n|Display the minute as a number without a leading zero (0 - 59).|
-|nn|Display the minute as a number with a leading zero (00 - 59).|
-|s|Display the second as a number without a leading zero (0 - 59).|
-|ss|Display the second as a number with a leading zero (00 - 59).|
+|ww|Display the week of the year as a number (1&ndash;54).|
+|m|Display the month as a number without a leading zero (1&ndash;12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed.|
+|mm|Display the month as a number with a leading zero (01&ndash;12). If `m` immediately follows `h` or `hh`, the minute rather than the month is displayed. |
+|mmm|Display the month as an abbreviation (Jan&ndash;Dec). Localized.|
+|mmmm|Display the month as a full month name (January&ndash;December). Localized.|
+|q|Display the quarter of the year as a number (1&ndash;4).|
+|y|Display the day of the year as a number (1&ndash;366).|
+|yy|Display the year as a 2-digit number (00&ndash;99).|
+|yyyy|Display the year as a 4-digit number (100&ndash;9999).|
+|h|Display the hour as a number without a leading zero (0&ndash;23).|
+|hh|Display the hour as a number with a leading zero (00&ndash;23).|
+|n|Display the minute as a number without a leading zero (0&ndash;59).|
+|nn|Display the minute as a number with a leading zero (00&ndash;59).|
+|s|Display the second as a number without a leading zero (0&ndash;59).|
+|ss|Display the second as a number with a leading zero (00&ndash;59).|
 |ttttt|Display a time as a complete time (including hour, minute, and second), formatted using the time separator defined by the time format recognized by your system. A leading zero is displayed if the leading zero option is selected and the time is before 10:00 A.M. or P.M. The default time format is `h:mm:ss`.|
 |AM/PM|Use the 12-hour clock and display an uppercase AM with any hour before noon; display an uppercase PM with any hour between noon and 11:59 P.M.|
 |am/pm|Use the 12-hour clock and display a lowercase AM with any hour before noon; display a lowercase PM with any hour between noon and 11:59 P.M.|
@@ -261,3 +263,6 @@ The following table identifies characters you can use to create user-defined num
 |("ABC")|Display the string inside the double quotation marks (" "). To include a string in **_format_** from within code, you must use **Chr(34)** to enclose the text (34 is the [character code](../../Glossary/vbe-glossary.md#character-code) for a quotation mark (")).|
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

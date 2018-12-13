@@ -1,11 +1,11 @@
 ---
-title: GetObject function
+title: GetObject function (Visual Basic for Applications)
 keywords: vblr6.chm1010959
 f1_keywords:
 - vblr6.chm1010959
 ms.prod: office
 ms.assetid: 6c313a4c-dac9-9115-95db-3fde52a5e888
-ms.date: 06/08/2017
+ms.date: 12/12/2018
 ---
 
 
@@ -15,16 +15,20 @@ Returns a reference to an object provided by an ActiveX component.
 
 ## Syntax
 
-**GetObject(** [ **_pathname_** ], [ **_class_** ] **)**
+**GetObject**( [ _pathname_ ], [ _class_ ] )
+
+<br/>
 
 The **GetObject** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
-|**_pathname_**|Optional; **Variant** (**String**). The full path and name of the file containing the object to retrieve. If **_pathname_** is omitted, **_class_** is required.|
-|**_class_**|Optional; **Variant** (**String**). A string representing the [class](../../Glossary/vbe-glossary.md#class) of the object.|
+|_pathname_|Optional; **Variant** (**String**). The full path and name of the file containing the object to retrieve. If _pathname_ is omitted, _class_ is required.|
+|_class_|Optional; **Variant** (**String**). A string representing the [class](../../Glossary/vbe-glossary.md#class) of the object.|
 
-The **_class_** [argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_._objecttype_ and has these parts:
+<br/>
+
+The _class_ [argument](../../Glossary/vbe-glossary.md#argument) uses the syntax _appname_._objecttype_ and has these parts:
 
 |Part|Description|
 |:-----|:-----|
@@ -33,16 +37,16 @@ The **_class_** [argument](../../Glossary/vbe-glossary.md#argument) uses the syn
 
 ## Remarks
 
-Use the **GetObject** function to access an ActiveX object from a file and assign the object to an [object variable](../../Glossary/vbe-glossary.md#object-variable). Use the **Set** statement to assign the object returned by **GetObject** to the object variable. For example:
+Use the **GetObject** function to access an ActiveX object from a file and assign the object to an [object variable](../../Glossary/vbe-glossary.md#object-variable). Use the **[Set](set-statement.md)** statement to assign the object returned by **GetObject** to the object variable. For example:
 
 ```vb
 Dim CADObject As Object
 Set CADObject = GetObject("C:\CAD\SCHEMA.CAD")
 ```
 
-When this code is executed, the application associated with the specified **_pathname_** is started and the object in the specified file is activated.
+When this code is executed, the application associated with the specified _pathname_ is started, and the object in the specified file is activated.
 
-If **_pathname_** is a zero-length string (""), **GetObject** returns a new object instance of the specified type. If the **_pathname_** argument is omitted, **GetObject** returns a currently active object of the specified type. If no object of the specified type exists, an error occurs.
+If _pathname_ is a zero-length string (""), **GetObject** returns a new object instance of the specified type. If the _pathname_ argument is omitted, **GetObject** returns a currently active object of the specified type. If no object of the specified type exists, an error occurs.
 
 Some applications allow you to activate part of a file. Add an exclamation point (**!**) to the end of the file name and follow it with a string that identifies the part of the file that you want to activate. For information about how to create this string, see the documentation for the application that created the object.
 
@@ -52,7 +56,7 @@ For example, in a drawing application you might have multiple layers to a drawin
 Set LayerObject = GetObject("C:\CAD\SCHEMA.CAD!Layer3")
 ```
 
-If you don't specify the object's **_class_**, Automation determines the application to start and the object to activate, based on the file name you provide. Some files, however, may support more than one class of object. For example, a drawing might support three different types of objects: an **Application** object, a **Drawing** object, and a **Toolbar** object, all of which are part of the same file. To specify which object in a file you want to activate, use the optional **_class_** argument. For example:
+If you don't specify the object's _class_, automation determines the application to start and the object to activate, based on the file name you provide. Some files, however, may support more than one class of object. For example, a drawing might support three different types of objects: an **Application** object, a **Drawing** object, and a **Toolbar** object, all of which are part of the same file. To specify which object in a file you want to activate, use the optional _class_ argument. For example:
 
 ```vb
 Dim MyObject As Object
@@ -60,7 +64,7 @@ Set MyObject = GetObject("C:\DRAWINGS\SAMPLE.DRW", "FIGMENT.DRAWING")
 ```
 
 In the example, `FIGMENT` is the name of a drawing application and `DRAWING` is one of the object types it supports.
-Once an object is activated, you reference it in code using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and [methods](../../Glossary/vbe-glossary.md#method) of the new object using the object variable `MyObject`. For example:
+After an object is activated, you reference it in code by using the object variable you defined. In the preceding example, you access [properties](../../Glossary/vbe-glossary.md#property) and [methods](../../Glossary/vbe-glossary.md#method) of the new object by using the object variable `MyObject`. For example:
 
 ```vb
 MyObject.Line 9, 90
@@ -69,9 +73,9 @@ MyObject.SaveAs "C:\DRAWINGS\SAMPLE.DRW"
 ```
 
 > [!NOTE] 
-> Use the **GetObject** function when there is a current instance of the object or if you want to create the object with a file already loaded. If there is no current instance, and you don't want the object started with a file loaded, use the **CreateObject** function.
+> Use the **GetObject** function when there is a current instance of the object or if you want to create the object with a file already loaded. If there is no current instance, and you don't want the object started with a file loaded, use the **[CreateObject](createobject-function.md)** function.
 
-If an object has registered itself as a single-instance object, only one instance of the object is created, no matter how many times **CreateObject** is executed. With a single-instance object, **GetObject** always returns the same instance when called with the zero-length string ("") syntax, and it causes an error if the **_pathname_** argument is omitted. You can't use **GetObject** to obtain a reference to a class created with Visual Basic.
+If an object has registered itself as a single-instance object, only one instance of the object is created, no matter how many times **CreateObject** is executed. With a single-instance object, **GetObject** always returns the same instance when called with the zero-length string ("") syntax, and it causes an error if the _pathname_ argument is omitted. You can't use **GetObject** to obtain a reference to a class created with Visual Basic.
 
 ## Example
 
@@ -79,11 +83,11 @@ This example uses the **GetObject** function to get a reference to a specific Mi
 
 Using two API calls, the `DetectExcel` **Sub** procedure looks for Microsoft Excel, and if it is running, enters it in the Running Object Table. 
 
-The first call to **GetObject** causes an error if Microsoft Excel isn't already running. In the example, the error causes the `ExcelWasNotRunning` flag to be set to True. 
+The first call to **GetObject** causes an error if Microsoft Excel isn't already running. In the example, the error causes the `ExcelWasNotRunning` flag to be set to **True**. 
 
 The second call to **GetObject** specifies a file to open. If Microsoft Excel isn't already running, the second call starts it and returns a reference to the worksheet represented by the specified file, mytest.xls. The file must exist in the specified location; otherwise, the Visual Basic error `Automation error` is generated. 
 
-Next, the example code makes both Microsoft Excel and the window containing the specified worksheet visible. Finally, if there was no previous version of Microsoft Excel running, the code uses the **Application** object's **Quit** method to close Microsoft Excel. If the application was already running, no attempt is made to close it. The reference itself is released by setting it to **Nothing**.
+Next, the example code makes both Microsoft Excel and the window containing the specified worksheet visible. Finally, if there was no previous version of Microsoft Excel running, the code uses the **Application** object's **Quit** method to close Microsoft Excel. If the application was already running, no attempt is made to close it. The reference itself is released by setting it to **[Nothing](nothing-keyword.md)**.
 
 
 ```vb
@@ -154,4 +158,6 @@ Sub DetectExcel()
 End Sub
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

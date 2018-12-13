@@ -11,7 +11,7 @@ ms.date: 12/11/2018
 
 # Miscellaneous constants
 
-The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications[type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values.
+The following [constants](../../Glossary/vbe-glossary.md#constant) are defined in the Visual Basic for Applications [type library](../../Glossary/vbe-glossary.md#type-library) and can be used anywhere in your code in place of the actual values.
 
 <br/>
 

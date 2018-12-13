@@ -1,5 +1,5 @@
 ---
-title: CallByName function
+title: CallByName function (Visual Basic for Applications)
 keywords: vblr6.chm1020905
 f1_keywords:
 - vblr6.chm1020905
@@ -44,7 +44,7 @@ CallByName Text1, "Move", vbMethod, 100, 100
 
 This example uses the **CallByName** function to invoke the **Move** method of a **Command** button.
 
-The example also uses a form (`Form1`) with a button (`Command1`), and a label (`Label1`). When the form is loaded, the **Caption** property of the label is set to "Move", and the name of the method to invoke. When you click the button, the **CallByName** function invokes the method to change the location of the button.
+The example also uses a form (`Form1`) with a button (`Command1`), and a label (`Label1`). When the form is loaded, the **[Caption](caption-propert-microsoft-forms.md)** property of the label is set to "Move", and the name of the method to invoke. When you click the button, the **CallByName** function invokes the method to change the location of the button.
 
 ```vb
 Option Explicit

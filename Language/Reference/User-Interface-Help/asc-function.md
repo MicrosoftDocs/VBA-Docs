@@ -1,5 +1,5 @@
 ---
-title: Asc function
+title: Asc function (Visual Basic for Applications)
 keywords: vblr6.chm1009247
 f1_keywords:
 - vblr6.chm1009247
