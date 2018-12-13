@@ -1,11 +1,11 @@
 ---
-title: IMEStatus function
+title: IMEStatus function (Visual Basic for Applications)
 keywords: vblr6.chm1011064
 f1_keywords:
 - vblr6.chm1011064
 ms.prod: office
 ms.assetid: 8fb525b1-0243-79c8-32fc-4eb8d634e351
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -19,7 +19,7 @@ Returns an [Integer](../../Glossary/vbe-glossary.md#integer-data-type) specifyin
 
 ## Return values
 
-The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows:
+The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#locale) are as follows.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -35,7 +35,7 @@ The return values for the Japanese [locale](../../Glossary/vbe-glossary.md#local
 
 <br/>
 
-The return values for the Korean locale are as follows:
+The return values for the Korean locale are as follows.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -47,7 +47,7 @@ The return values for the Korean locale are as follows:
 
 <br/>
 
-The return values for the Chinese locale are as follows:
+The return values for the Chinese locale are as follows.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -55,3 +55,6 @@ The return values for the Chinese locale are as follows:
 |**vbIMEModeOn**|1|IME on|
 |**vbIMEModeOff**|2|IME off|
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

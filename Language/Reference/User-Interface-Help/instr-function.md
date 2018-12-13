@@ -1,11 +1,11 @@
 ---
-title: InStr function
+title: InStr function (Visual Basic for Applications)
 keywords: vblr6.chm1008946
 f1_keywords:
 - vblr6.chm1008946
 ms.prod: office
 ms.assetid: d83b314a-e77c-fc18-0744-266f982a82b7
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -15,39 +15,41 @@ Returns a **Variant** (**Long**) specifying the position of the first occurrence
 
 ## Syntax
 
-**InStr** ([ _start_, ] _string1_, _string2_ [, _compare_ ])
-The **InStr** function syntax has these [arguments](../../Glossary/vbe-glossary.md#argument):
+**InStr**([ _start_ ], _string1_, _string2_, [ _compare_ ])
 
+<br/>
+
+The **InStr** function syntax has these [arguments](../../Glossary/vbe-glossary.md#argument):
 
 |Part|Description|
 |:-----|:-----|
-| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If **_start_** contains [Null](../../Glossary/vbe-glossary.md#null), an error occurs. The  **_start_** argument is required if **_compare_** is specified.|
+| _start_|Optional. [Numeric expression](../../Glossary/vbe-glossary.md#numeric-expression) that sets the starting position for each search. If omitted, search begins at the first character position. If _start_ contains [Null](../../Glossary/vbe-glossary.md#null), an error occurs. The _start_ argument is required if _compare_ is specified.|
 | _string1_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) being searched.|
 | _string2_|Required. String expression sought.|
-| _compare_|Optional. Specifies the type of [string comparison](../../Glossary/vbe-glossary.md#string-comparison). If  **_compare_** is Null, an error occurs. If **_compare_** is omitted, the **Option Compare** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
+| _compare_|Optional. Specifies the type of [string comparison](../../Glossary/vbe-glossary.md#string-comparison). If  _compare_ is **Null**, an error occurs. If _compare_ is omitted, the **[Option Compare](option-compare-statement.md)** setting determines the type of comparison. Specify a valid LCID (LocaleID) to use locale-specific rules in the comparison.|
 
 ## Settings
 
-The  _compare_ argument settings are as follows.
+The _compare_ argument settings are as follows.
 
 |Constant|Value|Description|
 |:-----|:-----:|:-----|
-|**vbUseCompareOption**|-1|Performs a comparison using the setting of the  **Option Compare** statement.|
+|**vbUseCompareOption**|-1|Performs a comparison by using the setting of the **Option Compare** statement.|
 |**vbBinaryCompare**|0|Performs a binary comparison.|
 |**vbTextCompare**|1|Performs a textual comparison.|
 |**vbDatabaseCompare**|2|Microsoft Access only. Performs a comparison based on information in your database.|
 
 ## Return values
 
-|**If**|**InStr returns**|
+|If|InStr returns|
 |:-----|:-----|
-|**_string1_** is zero-length|0|
-|**_string1_** is **Null**|Null|
-|**_string2_** is zero-length|**_start_**|
-|**_string2_** is **Null**|Null|
-|**_string2_** is not found|0|
-|**_string2_** is found within **_string1_**|Position at which match is found|
-|**_start_** > **_string2_**|0|
+|_string1_ is zero-length|0|
+|_string1_ is **Null**|**Null**|
+|_string2_ is zero-length|_start_|
+|_string2_ is **Null**|**Null**|
+|_string2_ is not found|0|
+|_string2_ is found within _string1_|Position at which match is found|
+|_start_ > _string2_|0|
 
 ## Remarks
 
@@ -75,3 +77,6 @@ MyPos = Instr(1, SearchString, "W")    ' Returns 0.
 ```
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

@@ -1,48 +1,48 @@
 ---
-title: IsMissing Function
+title: IsMissing function (Visual Basic for Applications)
 keywords: vblr6.chm1010101
 f1_keywords:
 - vblr6.chm1010101
 ms.prod: office
 ms.assetid: 63193fae-038a-b95c-1776-ac820f62fbb2
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
-# IsMissing Function
+# IsMissing function
 
-
-
-Returns a  **Boolean** value indicating whether an optional **Variant** [argument](../../Glossary/vbe-glossary.md#argument) has been passed to a [procedure](../../Glossary/vbe-glossary.md#procedure).
+Returns a **Boolean** value indicating whether an optional **Variant** [argument](../../Glossary/vbe-glossary.md#argument) has been passed to a [procedure](../../Glossary/vbe-glossary.md#procedure).
 
 ## Syntax
 
-**IsMissing(**_argname_**)**
-The required  _argname_ argument contains the name of an optional **Variant** procedure argument.
+**IsMissing**(_argname_)
+
+The required _argname_ argument contains the name of an optional **Variant** procedure argument.
 
 ## Remarks
 
-Use the  **IsMissing** function to detect whether or not optional **Variant** arguments have been provided in calling a procedure. **IsMissing** returns **True** if no value has been passed for the specified argument; otherwise, it returns **False**. If **IsMissing** returns **True** for an argument, use of the missing argument in other code may cause a user-defined error. If **IsMissing** is used on a **ParamArray** argument, it always returns **False**. To detect an empty **ParamArray**, test to see if the [array's](../../Glossary/vbe-glossary.md#array) upper bound is less than its lower bound.
+Use the **IsMissing** function to detect whether or not optional **Variant** arguments have been provided in calling a procedure. **IsMissing** returns **True** if no value has been passed for the specified argument; otherwise, it returns **False**. 
 
- **Note**   **IsMissing** does not work on simple data types (such as **Integer** or **Double**) because, unlike **Variants**, they don't have a provision for a "missing" flag bit. Because of this, the syntax for typed optional arguments allows you to specify a default value. If the argument is omitted when the procedure is called, then the argument will have this default value, as in the example below:
+If **IsMissing** returns **True** for an argument, use of the missing argument in other code may cause a user-defined error. 
 
+If **IsMissing** is used on a **ParamArray** argument, it always returns **False**. To detect an empty **ParamArray**, test to see if the [array's](../../Glossary/vbe-glossary.md#array) upper bound is less than its lower bound.
 
-
+**IsMissing** does not work on simple data types (such as **Integer** or **Double**) because, unlike **Variants**, they don't have a provision for a "missing" flag bit. Because of this, the syntax for typed optional arguments allows you to specify a default value. If the argument is omitted when the procedure is called, the argument will have this default value, as in the following example.
 
 ```vb
-Sub MySub(Optional MyVar As String = "specialvalue")
-    If MyVar = "specialvalue" Then
-        ' MyVar was omitted.
-    Else
-    ...
-End Sub
+    Sub MySub(Optional MyVar As String = "specialvalue")
+        If MyVar = "specialvalue" Then
+            ' MyVar was omitted.
+        Else
+        ...
+    End Sub
 ```
 
-In many cases you can omit the  `If MyVar` test entirely by making the default value equal to the value you want `MyVar` to contain if the user omits it from the function call. This makes your code more concise and efficient.
+In many cases you can omit the `If MyVar` test entirely by making the default value equal to the value you want `MyVar` to contain if the user omits it from the function call. This makes your code more concise and efficient.
 
 ## Example
 
-This example uses the  **IsMissing** function to check if an optional argument has been passed to a user-defined procedure. Note that **Optional** arguments can now have default values and types other than **Variant**.
+This example uses the **IsMissing** function to check if an optional argument has been passed to a user-defined procedure. Note that **Optional** arguments can now have default values and types other than **Variant**.
 
 
 ```vb
@@ -64,3 +64,6 @@ End Function
 ```
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
