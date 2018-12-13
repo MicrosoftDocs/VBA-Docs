@@ -1,11 +1,11 @@
 ---
-title: GetAttr function
+title: GetAttr function (Visual Basic for Applications)
 keywords: vblr6.chm1008929
 f1_keywords:
 - vblr6.chm1008929
 ms.prod: office
 ms.assetid: e64ff896-0fae-8a77-7b4c-9d21e83ff919
-ms.date: 06/08/2017
+ms.date: 12/12/2018
 ---
 
 
@@ -15,9 +15,9 @@ Returns an **Integer** representing the attributes of a file, directory, or fold
 
 ## Syntax
 
-**GetAttr(**_pathname_**)**
+**GetAttr**(_pathname_)
 
-The required  _pathname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
+The required _pathname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a file name. The _pathname_ may include the directory or folder, and the drive.
 
 ## Return values
 
@@ -38,7 +38,7 @@ The value returned by **GetAttr** is the sum of the following attribute values:
 
 ## Remarks
 
-To determine which attributes are set, use the **And** operator to perform a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
+To determine which attributes are set, use the **[And](and-operator.md)** operator to perform a [bitwise comparison](../../Glossary/vbe-glossary.md#bitwise-comparison) of the value returned by the **GetAttr** function and the value of the individual file attribute you want. If the result is not zero, that attribute is set for the named file. For example, the return value of the following **And** expression is zero if the Archive attribute is not set:
 
 ```vb
 Result = GetAttr(FName) And vbArchive
@@ -48,7 +48,7 @@ A nonzero value is returned if the Archive attribute is set.
 
 ## Example
 
-This example uses the **GetAttr** function to determine the attributes of a file and directory or folder. On the Macintosh, only the constants vbNormal, vbReadOnly, vbHidden, and vbAlias are available.
+This example uses the **GetAttr** function to determine the attributes of a file and directory or folder. On the Macintosh, only the constants **vbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available.
 
 ```vb
 Dim MyAttr
@@ -70,3 +70,6 @@ MyAttr = GetAttr("MYDIR")    ' Returns 16.
 ```
 
 
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
