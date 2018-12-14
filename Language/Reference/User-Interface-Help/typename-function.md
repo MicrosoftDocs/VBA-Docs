@@ -1,21 +1,21 @@
 ---
-title: TypeName Function
+title: TypeName function (Visual Basic for Applications)
 keywords: vblr6.chm1010100
 f1_keywords:
 - vblr6.chm1010100
 ms.prod: office
 ms.assetid: 9353f1d5-5b64-9cad-5cc3-e1487bdd3afd
-ms.date: 04/27/2018
+ms.date: 12/13/2018
 ---
 
 
-# TypeName Function
+# TypeName function
 
-Returns a  **String** that provides information about a [variable](../../Glossary/vbe-glossary.md#variable).
+Returns a **String** that provides information about a [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 
-**TypeName(**_varname_**)** 
+**TypeName**(_varname_) 
 
 The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
 
@@ -23,10 +23,9 @@ The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a 
 
 The string returned by **TypeName** can be any one of the following:
 
-
-|**String returned**|**Variable**|
+|String returned|Variable|
 |:-----|:-----|
-|[object type](../../Glossary/vbe-glossary.md#object-type)|An object whose type is  _objecttype_|
+|[object type](../../Glossary/vbe-glossary.md#object-type)|An object whose type is _objecttype_|
 |[Byte](../../Glossary/vbe-glossary.md#byte-data-type)|Byte value|
 |[Integer](../../Glossary/vbe-glossary.md#integer-data-type)|Integer|
 |[Long](../../Glossary/vbe-glossary.md#long-data-type)|Long integer|
@@ -37,20 +36,20 @@ The string returned by **TypeName** can be any one of the following:
 |[Date](../../Glossary/vbe-glossary.md#date-data-type)|Date value|
 |[String](../../Glossary/vbe-glossary.md#string-data-type)|String|
 |[Boolean](../../Glossary/vbe-glossary.md#boolean-data-type)|Boolean value|
-|**Error**|An error value|
+|**[Error](errors-keyword-summary.md)**|An error value|
 |[Empty](../../Glossary/vbe-glossary.md#empty)|Uninitialized|
 |[Null](../../Glossary/vbe-glossary.md#null)|No valid data|
 |[Object](../../Glossary/vbe-glossary.md#object)|An object|
 |Unknown|An object whose type is unknown|
-|**Nothing**|Object variable that doesn't refer to an object|
+|**[Nothing](nothing-keyword.md)**|Object variable that doesn't refer to an object|
 
 <br>
-If  _varname_ is an [array](../../Glossary/vbe-glossary.md#array), the returned string can be any one of the possible returned strings (or  **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
+
+If _varname_ is an [array](../../Glossary/vbe-glossary.md#array), the returned string can be any one of the possible returned strings (or **Variant**) with empty parentheses appended. For example, if _varname_ is an array of integers, **TypeName** returns `"Integer()`".
 
 ## Example
 
 This example uses the **TypeName** function to return information about a variable.
-
 
 ```vb
 ' Declare variables.
@@ -66,3 +65,7 @@ MyType = TypeName(ArrayVar)    ' Returns "Integer()".
 ```
 
 
+## See also
+
+- [Data types](data-type-summary.md)
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

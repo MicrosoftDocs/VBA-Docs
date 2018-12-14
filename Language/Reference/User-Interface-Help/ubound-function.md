@@ -1,11 +1,11 @@
 ---
-title: UBound function
+title: UBound function (Visual Basic for Applications)
 keywords: vblr6.chm1009050
 f1_keywords:
 - vblr6.chm1009050
 ms.prod: office
 ms.assetid: 8dda22e9-d9f9-9944-1b91-cfb8b61774a7
-ms.date: 11/13/2018
+ms.date: 12/13/2018
 ---
 
 
@@ -15,7 +15,9 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) data type contai
 
 ## Syntax
 
-**UBound**( _arrayname_, [ _dimension_ ] )
+**UBound**(_arrayname_, [ _dimension_ ])
+
+<br/>
 
 The **UBound** function syntax has these parts.
 
@@ -26,7 +28,7 @@ The **UBound** function syntax has these parts.
 
 ## Remarks
 
-The **UBound** function is used with the **LBound** function to determine the size of an array. Use the **LBound** function to find the lower limit of an array dimension.
+The **UBound** function is used with the **[LBound](lbound-function.md)** function to determine the size of an array. Use the **LBound** function to find the lower limit of an array dimension.
 
 **UBound** returns the following values for an array with these dimensions:
 
@@ -52,4 +54,6 @@ Upper = UBound(AnyArray)      ' Returns 10.
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

@@ -1,11 +1,11 @@
 ---
-title: Round function
+title: Round function (Visual Basic for Applications)
 keywords: vblr6.chm1009020
 f1_keywords:
 - vblr6.chm1009020
 ms.prod: office
 ms.assetid: 897563a8-e66a-1ff1-36b2-da44ae56f48c
-ms.date: 11/13/2018
+ms.date: 12/13/2018
 ---
 
 
@@ -15,7 +15,9 @@ Returns a number rounded to a specified number of decimal places.
 
 ## Syntax
 
-**Round**( _expression_, [ _numdecimalplaces_ ] )
+**Round**(_expression_, [ _numdecimalplaces_ ])
+
+<br/>
 
 The **Round** function syntax has these parts:
 
@@ -27,6 +29,7 @@ The **Round** function syntax has these parts:
 > [!NOTE] 
 > This VBA function returns something commonly referred to as bankers rounding. So be careful before using this function. For more predictable results, use [Worksheet Round](../../../api/excel.worksheetfunction.round.md) functions in Excel VBA.
 
+## Example
 
 ```vb
 ?Round(0.12335,4)
@@ -54,3 +57,7 @@ The **Round** function syntax has these parts:
 ?WorksheetFunction.RoundDown(0.00005,4)
  0
 ```
+
+## See also
+
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
