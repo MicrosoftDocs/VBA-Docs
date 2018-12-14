@@ -62,6 +62,7 @@ f1_keywords:
 - vbaac10.chm6153
 - vbaac10.chm6154
 - vbaac10.chm6155
+- vbaac10.chm6144
 ms.prod: access
 api_name:
 - Access.Chart
@@ -193,6 +194,7 @@ A customizable visualization of data that can be included in a report.
 - OnMouseMove
 - OnMouseUp
 - Parent
+- PreviewLiveData
 - [PrimaryValuesAxisDisplayUnits](Access.Chart.PrimaryValuesAxisDisplayUnits.md)
 - [PrimaryValuesAxisFontColor](Access.Chart.PrimaryValuesAxisFontColor.md)
 - PrimaryValuesAxisFontShade
