@@ -1,11 +1,11 @@
 ---
-title: Sgn function
+title: Sgn function (Visual Basic for Applications)
 keywords: vblr6.chm1009021
 f1_keywords:
 - vblr6.chm1009021
 ms.prod: office
 ms.assetid: 9da078d4-8c97-ea76-c095-46a4e46518ac
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -15,13 +15,13 @@ Returns a **Variant** (**Integer**) indicating the sign of a number.
 
 ## Syntax
 
-**Sgn(**_number_**)**
+**Sgn**(_number_)
 
-The required  _number_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
+The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) can be any valid [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression).
 
 ## Return values
 
-|**If  _number_ is**|**Sgn returns**|
+|If _number_ is|Sgn returns|
 |:-----|:-----|
 |Greater than zero|1|
 |Equal to zero|0|
@@ -43,4 +43,6 @@ MySign = Sgn(MyVar2)    ' Returns -1.
 MySign = Sgn(MyVar3)    ' Returns 0.
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

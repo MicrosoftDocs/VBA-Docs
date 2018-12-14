@@ -1,27 +1,25 @@
 ---
-title: VarType Function
+title: VarType function (Visual Basic for Applications)
 keywords: vblr6.chm1009057
 f1_keywords:
 - vblr6.chm1009057
 ms.prod: office
 ms.assetid: 7422fba5-7ea9-1d91-fc0e-5694c352d2d0
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
-# VarType Function
+# VarType function
 
-
-
-Returns an  **Integer** indicating the subtype of a [variable](../../Glossary/vbe-glossary.md#variable).
+Returns an **Integer** indicating the subtype of a [variable](../../Glossary/vbe-glossary.md#variable).
 
 ## Syntax
 
-**VarType(**_varname_**)**
-The required  _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
- 
- ## Return Values
+**VarType**(_varname_)
 
+The required _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) containing any variable except a variable of a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type).
+ 
+## Return values
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -41,20 +39,24 @@ The required  _varname_ [argument](../../Glossary/vbe-glossary.md#argument) is a
 |**vbDataObject**|13|A data access object|
 |**vbDecimal**|14|Decimal value|
 |**vbByte**|17|Byte value|
-|**vbLongLong**|20|[LongLong](longlong-data-type.md) integer (Valid on 64-bit platforms only.)|
+|**vbLongLong**|20|[LongLong](longlong-data-type.md) integer (valid on 64-bit platforms only)|
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
 |**vbArray**|8192|Array|
 
- **Note**  These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
+> [!NOTE] 
+> These [constants](../../Glossary/vbe-glossary.md#constant) are specified by Visual Basic for Applications. The names can be used anywhere in your code in place of the actual values.
 
 ## Remarks
 
-The  **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. If an object has a default [property](../../Glossary/vbe-glossary.md#property),  **VarType** **(**_object_**)** returns the type of the object's default property.
+The **VarType** function never returns the value for **vbArray** by itself. It is always added to some other value to indicate an array of a particular type. 
+
+The constant **vbVariant** is only returned in conjunction with **vbArray** to indicate that the argument to the **VarType** function is an array of type **Variant**. For example, the value returned for an array of integers is calculated as **vbInteger** + **vbArray**, or 8194. 
+
+If an object has a default [property](../../Glossary/vbe-glossary.md#property), **VarType**(_object_) returns the type of the object's default property.
 
 ## Example
 
-This example uses the  **VarType** function to determine the subtype of a variable.
-
+This example uses the **VarType** function to determine the subtype of a variable.
 
 ```vb
 Dim IntVar, StrVar, DateVar, MyCheck
@@ -66,4 +68,6 @@ MyCheck = VarType(StrVar)    ' Returns 8.
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

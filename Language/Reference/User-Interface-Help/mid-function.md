@@ -1,11 +1,11 @@
 ---
-title: Mid function
+title: Mid function (Visual Basic for Applications)
 keywords: vblr6.chm1011070
 f1_keywords:
 - vblr6.chm1011070
 ms.prod: office
 ms.assetid: 5d5e7712-459a-d504-dae6-4b52a9a90c6f
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -15,19 +15,21 @@ Returns a **Variant** (**String**) containing a specified number of characters f
 
 ## Syntax
 
-**Mid** (**_string_**, **_start_**, [ **_length_** ])
+**Mid**(_string_, _start_, [ _length_ ])
+
+<br/>
 
 The **Mid** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
-|**_string_**|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which characters are returned. If **_string_** contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.|
-|**_start_**|Required; [Long](../../Glossary/vbe-glossary.md#long-data-type). Character position in **_string_** at which the part to be taken begins. If **_start_** is greater than the number of characters in **_string_**, **Mid** returns a zero-length string ("").|
-|**_length_**|Optional; **Variant** (**Long**). Number of characters to return. If omitted or if there are fewer than **_length_** characters in the text (including the character at **_start_**), all characters from the **_start_** position to the end of the string are returned.|
+|_string_|Required. [String expression](../../Glossary/vbe-glossary.md#string-expression) from which characters are returned. If _string_ contains [Null](../../Glossary/vbe-glossary.md#null), **Null** is returned.|
+|_start_|Required; [Long](../../Glossary/vbe-glossary.md#long-data-type). Character position in _string_ at which the part to be taken begins. If _start_ is greater than the number of characters in _string_, **Mid** returns a zero-length string ("").|
+|_length_|Optional; **Variant** (**Long**). Number of characters to return. If omitted or if there are fewer than _length_ characters in the text (including the character at _start_), all characters from the _start_ position to the end of the string are returned.|
 
 ## Remarks
 
-To determine the number of characters in **_string_**, use the **Len** function.
+To determine the number of characters in _string_, use the **Len** function.
 
 > [!NOTE] 
 > Use the **MidB** function with byte data contained in a string, as in double-byte character set languages. Instead of specifying the number of characters, the [arguments](../../Glossary/vbe-glossary.md#argument) specify numbers of bytes. For sample code that uses **MidB**, see the second example in the example topic.
@@ -67,4 +69,6 @@ MyNewString = MidMbcs(MyString, 3, 4)
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

@@ -1,11 +1,11 @@
 ---
-title: IRR function
+title: IRR function (Visual Basic for Applications)
 keywords: vblr6.chm1009282
 f1_keywords:
 - vblr6.chm1009282
 ms.prod: office
 ms.assetid: 4bb0cec8-6e11-9afd-d4f8-2cda2e9d103a
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -15,14 +15,14 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 ## Syntax
 
-**IRR( _values_ ()**, [ **_guess_** ] **)**
+**IRR**(_values_(), [ _guess_ ])
 
 The **IRR** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
-|**_values_ ()**|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
-|**_guess_**|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying value you estimate will be returned by **IRR**. If omitted, **_guess_** is 0.1 (10 percent).|
+|_values_()|Required. [Array](../../Glossary/vbe-glossary.md#array) of **Double** specifying cash flow values. The array must contain at least one negative value (a payment) and one positive value (a receipt).|
+|_guess_|Optional. [Variant](../../Glossary/vbe-glossary.md#variant-data-type) specifying value that you estimate will be returned by **IRR**. If omitted, _guess_ is 0.1 (10 percent).|
 
 ## Remarks
 
@@ -30,7 +30,7 @@ The internal rate of return is the interest rate received for an investment cons
 
 The **IRR** function uses the order of values within the array to interpret the order of payments and receipts. Be sure to enter your payment and receipt values in the correct sequence. The cash flow for each period doesn't have to be fixed, as it is for an annuity.
 
-**IRR** is calculated by iteration. Starting with the value of **_guess_**, **IRR** cycles through the calculation until the result is accurate to within 0.00001 percent. If **IRR** can't find a result after 20 tries, it fails.
+**IRR** is calculated by iteration. Starting with the value of _guess_, **IRR** cycles through the calculation until the result is accurate to within 0.00001 percent. If **IRR** can't find a result after 20 tries, it fails.
 
 ## Example
 
@@ -53,4 +53,6 @@ MsgBox Msg    ' Display internal return rate.
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

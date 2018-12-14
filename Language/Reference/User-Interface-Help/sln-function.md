@@ -1,11 +1,11 @@
 ---
-title: SLN function
+title: SLN function (Visual Basic for Applications)
 keywords: vblr6.chm1009289
 f1_keywords:
 - vblr6.chm1009289
 ms.prod: office
 ms.assetid: e9587257-b3b8-048f-76ed-609448596a14
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
@@ -15,19 +15,19 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 ## Syntax
 
-**SLN( _cost_**, **_salvage_**, **_life_ )**
+**SLN**(_cost_, _salvage_, _life_)
 
 The **SLN** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
-|**_cost_**|Required. **Double** specifying initial cost of the asset.|
-|**_salvage_**|Required. **Double** specifying value of the asset at the end of its useful life.|
-|**_life_**|Required. **Double** specifying length of the useful life of the asset.|
+|_cost_|Required. **Double** specifying initial cost of the asset.|
+|_salvage_|Required. **Double** specifying value of the asset at the end of its useful life.|
+|_life_|Required. **Double** specifying length of the useful life of the asset.|
 
 ## Remarks
 
-The depreciation period must be expressed in the same unit as the **_life_** [argument](../../Glossary/vbe-glossary.md#argument). All arguments must be positive numbers.
+The depreciation period must be expressed in the same unit as the _life_ [argument](../../Glossary/vbe-glossary.md#argument). All arguments must be positive numbers.
 
 ## Example
 
@@ -54,4 +54,6 @@ MsgBox "The depreciation is " & Format(PDepr, Fmt) & " per year."
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

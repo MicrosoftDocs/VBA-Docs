@@ -1,40 +1,37 @@
 ---
-title: Loc Function
+title: Loc function (Visual Basic for Applications)
 keywords: vblr6.chm1008963
 f1_keywords:
 - vblr6.chm1008963
 ms.prod: office
 ms.assetid: e744813a-3633-e6d1-4f4c-517f1dcec196
-ms.date: 06/08/2017
+ms.date: 12/13/2018
 ---
 
 
-# Loc Function
-
-
+# Loc function
 
 Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the current read/write position within an open file.
 
 ## Syntax
 
-**Loc(**_filenumber_**)**
-The required  _filenumber_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [Integer](../../Glossary/vbe-glossary.md#integer-data-type) [file number](../../Glossary/vbe-glossary.md#file-number).
+**Loc**(_filenumber_)
+
+The required _filenumber_ [argument](../../Glossary/vbe-glossary.md#argument) is any valid [Integer](../../Glossary/vbe-glossary.md#integer-data-type) [file number](../../Glossary/vbe-glossary.md#file-number).
 
 ## Remarks
 
 The following describes the return value for each file access mode:
 
-
-|**Mode**|**Return Value**|
+|Mode|Return value|
 |:-----|:-----|
 |**Random**|Number of the last record read from or written to the file.|
-|**Sequential**|Current byte position in the file divided by 128. However, information returned by  **Loc** for sequential files is neither used nor required.|
+|**Sequential**|Current byte position in the file divided by 128. However, information returned by **Loc** for sequential files is neither used nor required.|
 |**Binary**|Position of the last byte read or written.|
 
 ## Example
 
-This example uses the  **Loc** function to return the current read/write position within an open file. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
-
+This example uses the **Loc** function to return the current read/write position within an open file. This example assumes that `TESTFILE` is a text file with a few lines of sample data.
 
 ```vb
 Dim MyLocation, MyLine
@@ -49,4 +46,6 @@ Close #1    ' Close file.
 
 ```
 
+## See also
 
+- [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)

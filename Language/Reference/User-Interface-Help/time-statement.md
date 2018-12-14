@@ -36,5 +36,6 @@ Time= MyTime ' Set system time to MyTime.
 
 ## See also
 
+- [Time function](time-function.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
