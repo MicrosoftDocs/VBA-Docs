@@ -34,4 +34,8 @@ ms.date: 09/17/2018
 - [ZOrder](zorder-method.md)
 
     
+## See also
 
+- [Methods (Visual Basic Add-In Model)](../visual-basic-add-in-model/methods-visual-basic-add-in-model.md)
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Microsoft Forms](reference-microsoft-forms.md)

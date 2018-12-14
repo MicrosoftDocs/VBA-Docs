@@ -13,3 +13,7 @@ ms.date: 11/15/2018
 - [Tabs collection](tabs-collection-microsoft-forms.md)
     
 
+## See also
+
+- [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
+- [Microsoft Forms](reference-microsoft-forms.md)

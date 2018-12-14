@@ -19,7 +19,7 @@ Returns a **String** representing the name of a file, directory, or folder that 
 
 <br/>
 
-The **Dir** function syntax has these parts.
+The **Dir** function syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|

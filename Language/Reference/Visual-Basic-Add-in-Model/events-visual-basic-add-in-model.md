@@ -64,6 +64,8 @@ The required _item_ [argument](../../Glossary/vbe-glossary.md#argument) specifie
 
 ## See also
 
+- [Events (Microsoft Forms)](../user-interface-help/events-microsoft-forms.md)
+- [Events (Visual Basic for Applications)](../events-visual-basic-for-applications.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

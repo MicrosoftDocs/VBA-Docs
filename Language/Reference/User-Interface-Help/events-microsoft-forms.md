@@ -29,5 +29,9 @@ ms.date: 09/17/2018
 - [SpinDown, SpinUp](spindown-spinup-events.md)
 - [Zoom](zoom-event.md)
 
-    
+## See also
+
+- [Events (Visual Basic Add-In Model)](../visual-basic-add-in-model/events-visual-basic-add-in-model.md)
+- [Events (Visual Basic for Applications)](../events-visual-basic-for-applications.md)
+- [Microsoft Forms](reference-microsoft-forms.md)    
 

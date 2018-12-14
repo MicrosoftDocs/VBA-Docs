@@ -11,11 +11,11 @@ ms.date: 12/12/2018
 
 # FV function
 
-Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the future value of an annuity based on periodic, fixed payments and a fixed interest rate.
+Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying the future value of an annuity based on periodic fixed payments and a fixed interest rate.
 
 ## Syntax
 
-**FV**(_rate_, _nper_, _pmt_, [ _pv_, [ _type_ ]] )
+**FV**(_rate_, _nper_, _pmt_, [ _pv_, [ _type_ ]])
 
 <br/>
 

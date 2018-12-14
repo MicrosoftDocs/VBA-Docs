@@ -15,7 +15,7 @@ Returns the position of an occurrence of one string within another, from the end
 
 ## Syntax
 
-**InstrRev**(_stringcheck_, _stringmatch_, [ _start_, [ _compare_ ]] )
+**InstrRev**(_stringcheck_, _stringmatch_, [ _start_, [ _compare_ ]])
 
 <br/>
 

@@ -15,7 +15,7 @@ Displays a prompt in a dialog box, waits for the user to input text or click a b
 
 ## Syntax
 
-**InputBox**(_prompt_, [ _title_ ], [ _default_ ], [ _xpos_ ], [ _ypos_ ], [ _helpfile_, _context_ ] )
+**InputBox**(_prompt_, [ _title_ ], [ _default_ ], [ _xpos_ ], [ _ypos_ ], [ _helpfile_, _context_ ])
 
 <br/>
 

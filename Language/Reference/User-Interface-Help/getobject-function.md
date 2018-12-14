@@ -15,7 +15,7 @@ Returns a reference to an object provided by an ActiveX component.
 
 ## Syntax
 
-**GetObject**( [ _pathname_ ], [ _class_ ] )
+**GetObject**([ _pathname_ ], [ _class_ ])
 
 <br/>
 

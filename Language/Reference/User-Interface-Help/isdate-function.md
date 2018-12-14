@@ -21,7 +21,7 @@ The required _expression_ [argument](../../Glossary/vbe-glossary.md#argument) is
 
 ## Remarks
 
-In Microsoft Windows, the range of valid dates is January 1, 100 A.D., through December 31, 9999 A.D.; the ranges vary among operating systems.
+In Windows, the range of valid dates is January 1, 100 A.D., through December 31, 9999 A.D.; the ranges vary among operating systems.
 
 ## Example
 
