@@ -53,7 +53,7 @@ The following are valid word separators for proper casing: [Null](../../Glossary
 
 ## Remarks
 
-When converting from a **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an [assignment statement](writing-assignment-statements.md).
+When converting from a **Byte** array in ANSI format to a string, use the **StrConv** function. When converting from such an array in Unicode format, use an [assignment statement](../../concepts/getting-started/writing-assignment-statements.md).
 
 ## Example
 
