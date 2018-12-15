@@ -202,6 +202,8 @@ To find out what type of window you are working with, you can use the **[Type](p
 
 ## See also
 
+- [Objects (Microsoft Forms)](../user-interface-help/objects-microsoft-forms.md)
+- [Objects and collections (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

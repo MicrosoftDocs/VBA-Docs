@@ -15,7 +15,7 @@ Returns an expression formatted as a currency value by using the currency symbol
 
 ## Syntax
 
-**FormatCurrency**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]] )
+**FormatCurrency**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
 <br/>
 

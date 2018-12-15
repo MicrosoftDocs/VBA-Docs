@@ -14,7 +14,9 @@ Returns a **Variant** (**Integer**) containing the specified part of a given dat
 
 ## Syntax
 
-**DatePart**(_interval_, _date_, [ _firstdayofweek_, [ _firstweekofyear_ ]] )
+**DatePart**(_interval_, _date_, [ _firstdayofweek_, [ _firstweekofyear_ ]])
+
+<br/>
 
 The **DatePart** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 

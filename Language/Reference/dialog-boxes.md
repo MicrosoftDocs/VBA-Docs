@@ -51,6 +51,7 @@ Information about the options available in Visual Basic for Applications dialog 
 
 ## See also
 
+- [Dialog boxes (Microsoft Forms)](user-interface-help/dialog-boxes-microsoft-forms.md)
 - [Error messages](error-messages.md) 
 - [Menus and commands](menus-commands.md) 
 - [Toolbars](toolbars.md) 

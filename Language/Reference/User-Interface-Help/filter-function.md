@@ -15,7 +15,7 @@ Returns a zero-based array containing a subset of a string array based on a spec
 
 ## Syntax
 
-**Filter**(_sourcearray_, _match_, [ _include_, [ _compare_ ]] )
+**Filter**(_sourcearray_, _match_, [ _include_, [ _compare_ ]])
 
 <br/>
 

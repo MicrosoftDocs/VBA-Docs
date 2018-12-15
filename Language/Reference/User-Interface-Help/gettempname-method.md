@@ -1,5 +1,5 @@
 ---
-title: GetTempName Method
+title: GetTempName method (Visual Basic for Applications)
 keywords: vblr6.chm2182058
 f1_keywords:
 - vblr6.chm2182058
@@ -11,19 +11,20 @@ ms.date: 06/08/2017
 ---
 
 
-# GetTempName Method
+# GetTempName method
 
-
-
- **Description**
 Returns a randomly generated temporary file or folder name that is useful for performing operations that require a temporary file or folder.
 
 ## Syntax
 
-_object_. **GetTempName**
-The optional  _object_ is always the name of a **FileSystemObject**.
+_object_.**GetTempName**
+
+The optional _object_ is always the name of a **[FileSystemObject](filesystemobject-object.md)**.
 
 ## Remarks
 
-The  **GetTempName** method does not create a file. It provides only a temporary file name that can be used with **CreateTextFile** to create a file.
+The **GetTempName** method does not create a file. It provides only a temporary file name that can be used with **CreateTextFile** to create a file.
 
+## See also
+
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

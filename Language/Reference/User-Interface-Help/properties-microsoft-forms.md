@@ -127,4 +127,8 @@ ms.date: 11/15/2018
 - [Zoom](zoom-property.md)
 
     
+## See also
 
+- [Properties (Visual Basic Add-In Model)](../visual-basic-add-in-model/properties-visual-basic-add-in-model.md)
+- [Properties (Visual Basic for Applications)](../properties-visual-basic-for-applications.md)
+- [Microsoft Forms](reference-microsoft-forms.md)

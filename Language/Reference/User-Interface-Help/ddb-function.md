@@ -15,7 +15,9 @@ Returns a [Double](../../Glossary/vbe-glossary.md#double-data-type) specifying t
 
 ## Syntax
 
-**DDB**(_cost_, _salvage_, _life_, _period_, [ _factor_ ] )
+**DDB**(_cost_, _salvage_, _life_, _period_, [ _factor_ ])
+
+<br/>
 
 The **DDB** function has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 

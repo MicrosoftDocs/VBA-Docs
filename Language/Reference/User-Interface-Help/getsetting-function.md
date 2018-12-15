@@ -15,7 +15,7 @@ Returns a key setting value from an application's entry in the Windows [registry
 
 ## Syntax
 
-**GetSetting**(_appname_, _section_, _key_, [ _default_ ] )
+**GetSetting**(_appname_, _section_, _key_, [ _default_ ])
 
 <br/>
 

@@ -29,7 +29,7 @@ The **TimeSerial** function syntax has these [named arguments](../../Glossary/vb
 
 ## Remarks
 
-To specify a time, such as 11:59:59, the range of numbers for each **TimeSerial** argument should be in the normal range for the unit; that is, 0-23 for hours and 0-59 for minutes and seconds. However, you can also specify relative times for each [argument](../../Glossary/vbe-glossary.md#argument) by using any numeric expression that represents some number of hours, minutes, or seconds before or after a certain time. 
+To specify a time, such as 11:59:59, the range of numbers for each **TimeSerial** argument should be in the normal range for the unit; that is, 0&ndash;23 for hours and 0&ndash;59 for minutes and seconds. However, you can also specify relative times for each [argument](../../Glossary/vbe-glossary.md#argument) by using any numeric expression that represents some number of hours, minutes, or seconds before or after a certain time. 
 
 The following example uses [expressions](../../Glossary/vbe-glossary.md#expression) instead of absolute time numbers. The **TimeSerial** function returns a time for 15 minutes before (`-15`) six hours before noon (`12 - 6`), or 5:45:00 A.M.
 

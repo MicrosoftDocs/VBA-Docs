@@ -28,7 +28,7 @@ The **String** function syntax has these [named arguments](../../Glossary/vbe-gl
 
 ## Remarks
 
-If you specify a number for _character_ greater than 255, **String** converts the number to a valid character code by using this formula: _character_ **Mod** 256
+If you specify a number for _character_ greater than 255, **String** converts the number to a valid character code by using this formula: _character_ **Mod** 256.
 
 ## Example
 

@@ -5,11 +5,11 @@ f1_keywords:
 - vblr6.chm1014020
 ms.prod: office
 ms.assetid: ad45eba6-eb95-3cdc-03c2-7c94e8a38d48
-ms.date: 06/08/2017
+ms.date: 12/14/2018
 ---
 
 
-# Remove method (Visual Basic for Applications)
+# Remove method (VBA)
 
 Removes a [member](../../Glossary/vbe-glossary.md#member) from a **Collection** object.
 
@@ -44,3 +44,6 @@ Next Num
 ```
 
 
+## See also
+
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

@@ -15,7 +15,7 @@ Returns an expression formatted as a number.
 
 ## Syntax
 
-**FormatNumber**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]] )
+**FormatNumber**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
 <br/>
 

@@ -16,6 +16,8 @@ Returns a **Variant** (**Date**) for a specified year, month, and day.
 
 **DateSerial**(_year_, _month_, _day_)
 
+<br/>
+
 The **DateSerial** function syntax has these [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|

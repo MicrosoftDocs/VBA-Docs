@@ -15,7 +15,7 @@ Returns an expression formatted as a date or time.
 
 ## Syntax
 
-**FormatDateTime**(_Date_, [ _NamedFormat_ ] )
+**FormatDateTime**(_Date_, [ _NamedFormat_ ])
 
 <br/>
 

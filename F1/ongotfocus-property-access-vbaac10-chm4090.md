@@ -15,6 +15,7 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Attachment.OnGotFocus property (Access)](http://msdn.microsoft.com/library/a25aa4f5-8ac6-86e9-d8de-725072a77007%28Office.15%29.aspx)
 - [BoundObjectFrame.OnGotFocus property (Access)](http://msdn.microsoft.com/library/67b47b88-8a45-c1e6-68b2-fe2cf2e726fe%28Office.15%29.aspx)
+- [Chart.OnGotFocus property (Access)](../api/access.chart.md)
 - [CheckBox.OnGotFocus property (Access)](http://msdn.microsoft.com/library/eaa59b30-d037-2b3a-1e24-e5ea9a11f0f3%28Office.15%29.aspx)
 - [ComboBox.OnGotFocus property (Access)](http://msdn.microsoft.com/library/6fb801bd-c2f9-e81d-24b7-0669ece6422d%28Office.15%29.aspx)
 - [CommandButton.OnGotFocus property (Access)](http://msdn.microsoft.com/library/4d892495-791b-05b3-0bcb-3b3c3635a0bd%28Office.15%29.aspx)

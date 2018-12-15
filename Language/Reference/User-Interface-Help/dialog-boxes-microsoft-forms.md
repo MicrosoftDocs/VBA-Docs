@@ -14,3 +14,7 @@ ms.date: 09/17/2018
 - [Rename](the-rename-dialog-box-microsoft-forms.md)
     
 
+## See also
+
+- [Dialog boxes (User Interface Help)](../dialog-boxes.md)
+- [Microsoft Forms](reference-microsoft-forms.md)

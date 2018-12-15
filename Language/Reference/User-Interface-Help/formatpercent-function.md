@@ -15,7 +15,7 @@ Returns an expression formatted as a percentage (multipled by 100) with a traili
 
 ## Syntax
 
-**FormatPercent**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]] )
+**FormatPercent**(_Expression_, [ _NumDigitsAfterDecimal_, [ _IncludeLeadingDigit_, [ _UseParensForNegativeNumbers_, [ _GroupDigits_ ]]]])
 
 <br/>
 

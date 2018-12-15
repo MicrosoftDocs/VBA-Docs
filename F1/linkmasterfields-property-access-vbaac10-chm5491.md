@@ -1,5 +1,5 @@
 ---
-title: LinkMasterFields Property, Access [vbaac10.chm5491]
+title: LinkMasterFields Property, Access - [vbaac10.chm5491]
 keywords: vbaac10.chm5491
 f1_keywords:
 - vbaac10.chm5491
@@ -9,12 +9,13 @@ ms.date: 06/08/2017
 ---
 
 
-# LinkMasterFields Property, Access [vbaac10.chm5491]
+# LinkMasterFields Property, Access - [vbaac10.chm5491]
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 
-[ObjectFrame.LinkMasterFields property (Access)](http://msdn.microsoft.com/library/1e3b8cb7-a061-369a-4ff4-44d6989c3234%28Office.15%29.aspx)
+- [Chart.LinkMasterFields property (Access)](../api/access.chart.md)
+- [ObjectFrame.LinkMasterFields property (Access)](http://msdn.microsoft.com/library/1e3b8cb7-a061-369a-4ff4-44d6989c3234%28Office.15%29.aspx)
+- [SubForm.LinkMasterFields property (Access)](http://msdn.microsoft.com/library/b5be0557-a75c-dacc-e842-b9196edf37ce%28Office.15%29.aspx)
 
-[SubForm.LinkMasterFields property (Access)](http://msdn.microsoft.com/library/b5be0557-a75c-dacc-e842-b9196edf37ce%28Office.15%29.aspx)
 
 
