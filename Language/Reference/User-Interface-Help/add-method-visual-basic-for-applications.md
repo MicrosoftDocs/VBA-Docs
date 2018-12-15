@@ -1,42 +1,43 @@
 ---
-title: Add Method (Visual Basic for Applications)
+title: Add method (Visual Basic for Applications)
 keywords: vblr6.chm1014017
 f1_keywords:
 - vblr6.chm1014017
 ms.prod: office
 ms.assetid: c9e9eb2e-42b1-9821-67ab-2f68fb87d1d0
-ms.date: 06/08/2017
+ms.date: 12/14/2018
 ---
 
 
-# Add Method (Visual Basic for Applications)
+# Add method (VBA)
 
-
-
-Adds a [member](../../Glossary/vbe-glossary.md#member) to a **Collection** object.
+Adds a [member](../../Glossary/vbe-glossary.md#member) to a **[Collection](collection-object.md)** object.
 
 ## Syntax
 
-_object_**.Add  _item_,** **_key_,** **_before_,** **_after_**
-The  **Add** method syntax has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
+_object_.**Add** _item_, _key_, _before_, _after_
 
+<br/>
+
+The **Add** method syntax has the following object qualifier and [named arguments](../../Glossary/vbe-glossary.md#named-argument):
 
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
-|**_item_**|Required. An [expression](../../Glossary/vbe-glossary.md#expression) of any type that specifies the member to add to the [collection](../../Glossary/vbe-glossary.md#collection).|
-|**_key_**|Optional. A unique [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a key string that can be used, instead of a positional index, to access a member of the collection.|
-|**_before_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection before the member identified by the  **_before_** [argument](../../Glossary/vbe-glossary.md#argument). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression),  **_before_** must be a number from 1 to the value of the collection's **Count** property. If a string expression, **_before_** must correspond to the **_key_** specified when the member being referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
-|**_after_**|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection after the member identified by the  **_after_** argument. If numeric, **_after_** must be a number from 1 to the value of the collection's **Count** property. If a string, **_after_** must correspond to the **_key_** specified when the member referred to was added to the collection. You can specify a **_before_** position or an **_after_** position, but not both.|
+|_item_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) of any type that specifies the member to add to the [collection](../../Glossary/vbe-glossary.md#collection).|
+|_key_|Optional. A unique [string expression](../../Glossary/vbe-glossary.md#string-expression) that specifies a key string that can be used, instead of a positional index, to access a member of the collection.|
+|_before_|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection before the member identified by the _before_ [argument](../../Glossary/vbe-glossary.md#argument). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), _before_ must be a number from 1 to the value of the collection's **[Count](count-property-visual-basic-for-applications.md)** property. If a string expression, _before_ must correspond to the _key_ specified when the member being referred to was added to the collection. You can specify a _before_ position or an _after_ position, but not both.|
+|_after_|Optional. An expression that specifies a relative position in the collection. The member to be added is placed in the collection after the member identified by the _after_ argument. If numeric, _after_ must be a number from 1 to the value of the collection's **Count** property. If a string, _after_ must correspond to the _key_ specified when the member referred to was added to the collection. You can specify a _before_ position or an _after_ position, but not both.|
 
 ## Remarks
 
-Whether the  **_before_** or **_after_** argument is a string expression or numeric expression, it must refer to an existing member of the collection, or an error occurs.
-An error also occurs if a specified  **_key_** duplicates the **_key_** for an existing member of the collection.
+Whether the _before_ or _after_ argument is a string expression or numeric expression, it must refer to an existing member of the collection, or an error occurs.
+
+An error also occurs if a specified _key_ duplicates the _key_ for an existing member of the collection.
 
 ## Example
 
-This example uses the  **Add** method to add `Inst` objects (instances of a class called `Class1` containing a **Public** variable `InstanceName`) to a collection called  `MyClasses`. To see how this works, insert a class module and declare a public variable called  `InstanceName` at module level of `Class1` (type `Public InstanceName`) to hold the names of each instance. Leave the default name as  `Class1`. Copy and paste the following code into the  `Form_Load` event procedure of a form module.
+This example uses the **Add** method to add `Inst` objects (instances of a class called `Class1` containing a **Public** variable `InstanceName`) to a collection called  `MyClasses`. To see how this works, insert a class module and declare a public variable called  `InstanceName` at module level of `Class1` (type `Public InstanceName`) to hold the names of each instance. Leave the default name as `Class1`. Copy and paste the following code into the `Form_Load` event procedure of a form module.
 
 
 ```vb
@@ -65,4 +66,6 @@ Next
 
 ```
 
+## See also
 
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

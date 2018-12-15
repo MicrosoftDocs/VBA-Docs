@@ -1,5 +1,5 @@
 ---
-title: Show method
+title: Show method (Visual Basic for Applications)
 keywords: vblr6.chm916142
 f1_keywords:
 - vblr6.chm916142
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Show
 ms.assetid: 25d05f62-8901-5592-00e0-ca7c340dfb86
-ms.date: 11/13/2018
+ms.date: 12/14/2018
 ---
 
 
@@ -17,7 +17,9 @@ Displays a **[UserForm](userform-window.md)** object.
 
 ## Syntax
 
-[ _object_. ] **Show**_modal_
+[ _object_ ].**Show** _modal_
+
+<br/>
 
 The **Show** method syntax has these parts:
 
@@ -28,7 +30,7 @@ The **Show** method syntax has these parts:
 
 ## Settings
 
-The settings for  _modal_ are:
+The settings for _modal_ are:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -74,3 +76,4 @@ End Sub
 ## See also
 
 - [ShowModal property](showmodal-property.md)
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

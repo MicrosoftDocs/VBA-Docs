@@ -1,5 +1,5 @@
 ---
-title: RemoveAll Method
+title: RemoveAll method (Visual Basic for Applications)
 keywords: vblr6.chm2181953
 f1_keywords:
 - vblr6.chm2181953
@@ -7,26 +7,23 @@ ms.prod: office
 api_name:
 - Office.RemoveAll
 ms.assetid: 70edc5db-1f44-cfa5-cf22-13a9ce33a954
-ms.date: 06/08/2017
+ms.date: 12/14/2018
 ---
 
 
-# RemoveAll Method
+# RemoveAll method
 
-
-
- **Description**
-The  **RemoveAll** method removes all key, item pairs from a **Dictionary** object.
+The **RemoveAll** method removes all key, item pairs from a **Dictionary** object.
 
 ## Syntax
 
-_object_. **RemoveAll**
-The  _object_ is always the name of a **Dictionary** object.
+_object_.**RemoveAll**
+
+The _object_ is always the name of a **Dictionary** object.
 
 ## Remarks
 
-The following code illustrates use of the  **RemoveAll** method:
-
+The following code illustrates use of the **RemoveAll** method.
 
 
 ```vb
@@ -39,4 +36,6 @@ d.Add "c", "Cairo"
 a = d.RemoveAll         'Clear the dictionary
 ```
 
+## See also
 
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

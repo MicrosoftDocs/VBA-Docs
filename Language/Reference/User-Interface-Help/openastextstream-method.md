@@ -1,5 +1,5 @@
 ---
-title: OpenAsTextStream Method
+title: OpenAsTextStream method (Visual Basic for Applications)
 keywords: vblr6.chm2182007
 f1_keywords:
 - vblr6.chm2182007
@@ -7,32 +7,31 @@ ms.prod: office
 api_name:
 - Office.OpenAsTextStream
 ms.assetid: 11bdf601-368b-7d95-a7db-394271d59da6
-ms.date: 06/08/2017
+ms.date: 12/14/2018
 ---
 
 
-# OpenAsTextStream Method
+# OpenAsTextStream method
 
-
-
- **Description**
-Opens a specified file and returns a  **TextStream** object that can be used to read from, write to, or append to the file.
+Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
 
 ## Syntax
 
-_object_. **OpenAsTextStream(** [ _iomode_, [ _format_ ]] **)**
-The  **OpenAsTextStream** method syntax has these parts:
+_object_.**OpenAsTextStream** ([ _iomode_, [ _format_ ]])
 
+<br/>
+
+The **OpenAsTextStream** method syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** object.|
-| _iomode_|Optional. Indicates input/output mode. Can be one of three constants:  **ForReading**, **ForWriting**, or **ForAppending**.|
-| _format_|Optional. One of three  **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
+| _object_|Required. Always the name of a **File** object.|
+| _iomode_|Optional. Indicates input/output mode. Can be one of three constants: **ForReading**, **ForWriting**, or **ForAppending**.|
+| _format_|Optional. One of three **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
 ## Settings
-The  _iomode_ argument can have any of the following settings:
 
+The _iomode_ argument can have any of the following settings:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -40,8 +39,9 @@ The  _iomode_ argument can have any of the following settings:
 |**ForWriting**|2|Open a file for writing. If a file with the same name exists, its previous contents are overwritten.|
 |**ForAppending**|8|Open a file and write to the end of the file.|
 
-The  _format_ argument can have any of the following settings:
+<br/>
 
+The _format_ argument can have any of the following settings:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -51,10 +51,9 @@ The  _format_ argument can have any of the following settings:
 
 ## Remarks
 
-The  **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
-The following code illustrates the use of the  **OpenAsTextStream** method:
+The **OpenAsTextStream** method provides the same functionality as the **OpenTextFile** method of the **FileSystemObject**. In addition, the **OpenAsTextStream** method can be used to write to a file.
 
-
+The following code illustrates the use of the **OpenAsTextStream** method:
 
 ```vb
 Sub TextStreamTest
@@ -75,3 +74,6 @@ End Sub
 ```
 
 
+## See also
+
+- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
