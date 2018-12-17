@@ -1386,127 +1386,131 @@
           },
           {
             "source_path": "language/reference/user-interface-help/collection-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/colorconstants-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/constants-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/conversion-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/datetime-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/errobject-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/filesystem-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/financial-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/formshowconstants-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/global-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/information-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/interaction-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/keycodeconstants-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/math-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/string-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/systemcolorconstants-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbappwinstyle-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbcalendar-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbcalltype-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbcomparemethod-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbdatetimeformat-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbdayofweek-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbfileattribute-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbfirstweekofyear-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbimestatus-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbmsgboxresult-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbmsgboxstyle-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbqueryclose-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbstrconv-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbtristate-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/vbvartype-object-browser.md",
-            "redirect_url": "/office/vba/language/reference/object-browser-visual-basic-for-applications"
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
+          },
+          {
+            "source_path": "language/reference/object-browser-visual-basic-for-applications.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/object-browser"
           },
           {
             "source_path": "language/reference/user-interface-help/visual-basic-constants.md",

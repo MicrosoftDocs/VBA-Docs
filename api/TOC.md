@@ -35026,7 +35026,6 @@
 ###### [Visible](../Language/Reference/User-Interface-Help/visible-property-microsoft-forms.md)
 ###### [WordWrap](../Language/Reference/User-Interface-Help/wordwrap-property.md)
 ###### [Zoom](../Language/Reference/User-Interface-Help/zoom-property.md)
-#### [Object Browser](../Language/Reference/object-browser-visual-basic-for-applications.md)
 #### [Objects](../Language/Reference/objects-visual-basic-for-applications.md)
 ##### [Collection](../Language/Reference/User-Interface-Help/collection-object.md)
 ##### [Debug](../Language/Reference/User-Interface-Help/debug-object.md)
