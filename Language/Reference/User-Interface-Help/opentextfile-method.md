@@ -47,7 +47,7 @@ The _format_ argument can have any of the following settings:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-|**TristateUseDefault**|-2|Opens the file using the system default.|
+|**TristateUseDefault**|-2|Opens the file by using the system default.|
 |**TristateTrue**|-1|Opens the file as Unicode.|
 |**TristateFalse**| 0|Opens the file as ASCII.|
 

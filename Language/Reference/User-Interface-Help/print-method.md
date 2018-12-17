@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # Print method
 
-Prints text in the Immediate window.
+Prints text in the [Immediate window](immediate-window.md).
 
 ## Syntax
 
@@ -51,7 +51,8 @@ All data printed to the Immediate window is properly formatted using the decimal
 
 For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `True` or `False` is printed. The **True** and **False** keywords are translated according to the locale setting for the host application.
 
-[Date](../../Glossary/vbe-glossary.md#date-data-type) data is written using the standard short date format recognized by your system. When either the date or the time component is missing or zero, only the data provided is written.
+[Date](../../Glossary/vbe-glossary.md#date-data-type) data is written by using the standard short date format recognized by your system. When either the date or the time component is missing or zero, only the data provided is written.
+
 Nothing is written if _outputlist_ data is [Empty](../../Glossary/vbe-glossary.md#empty). However, if _outputlist_ data is [Null](../../Glossary/vbe-glossary.md#null), `Null` is output. The **Null** keyword is appropriately translated when it is output.
 
 For error data, the output is written as `Error errorcode`. The **Error** keyword is appropriately translated when it is output.
