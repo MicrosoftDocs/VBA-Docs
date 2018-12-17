@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # WriteBlankLines method
 
-Writes a specified number of newline characters to a **TextStream** file.
+Writes a specified number of newline characters to a **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 

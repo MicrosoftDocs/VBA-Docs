@@ -16,16 +16,16 @@ ms.date: 06/08/2017
 
 
  **Description**
-Read-only property that returns  **True** if the file pointer immediately precedes the end-of-line marker in a **TextStream** file; **False** if it does not.
+Read-only property that returns  **True** if the file pointer immediately precedes the end-of-line marker in a **[TextStream](textstream-object.md)** file; **False** if it does not.
 
 ## Syntax
 
 _object_. **AtEndOfLine**
-The  _object_ is always the name of a **TextStream** object.
+The  _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 
-The  **AtEndOfLine** property applies only to **TextStream** files that are open for reading; otherwise, an error occurs.
+The  **AtEndOfLine** property applies only to **[TextStream](textstream-object.md)** files that are open for reading; otherwise, an error occurs.
 The following code illustrates the use of the  **AtEndOfLine** property:
 
 

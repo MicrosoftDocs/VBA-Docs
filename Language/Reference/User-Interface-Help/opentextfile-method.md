@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # OpenTextFile method
 
-Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
+Opens a specified file and returns a **[TextStream](textstream-object.md)** object that can be used to read from, write to, or append to the file.
 
 ## Syntax
 

@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # ReadAll method
 
-Reads an entire **TextStream** file and returns the resulting string.
+Reads an entire **[TextStream](textstream-object.md)** file and returns the resulting string.
 
 ## Syntax
 
@@ -23,7 +23,7 @@ The _object_ is always the name of a **TextStream** object.
 
 ## Remarks
 
-For large files, using the **ReadAll** method wastes memory resources. Other techniques should be used to input a file, such as reading a file line by line.
+For large files, using the **ReadAll** method wastes memory resources. Other techniques should be used to input a file, such as reading a file line-by-line.
 
 ## See also
 

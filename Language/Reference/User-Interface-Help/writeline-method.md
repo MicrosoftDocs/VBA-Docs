@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # WriteLine method
 
-Writes a specified string and newline character to a **TextStream** file.
+Writes a specified string and newline character to a **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 

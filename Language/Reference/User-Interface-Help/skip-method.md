@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # Skip method
 
-Skips a specified number of characters when reading a **TextStream** file.
+Skips a specified number of characters when reading a **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 
