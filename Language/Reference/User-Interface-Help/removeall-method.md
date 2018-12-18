@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # RemoveAll method
 
-The **RemoveAll** method removes all key, item pairs from a **Dictionary** object.
+The **RemoveAll** method removes all key, item pairs from a **[Dictionary](dictionary-object.md)** object.
 
 ## Syntax
 

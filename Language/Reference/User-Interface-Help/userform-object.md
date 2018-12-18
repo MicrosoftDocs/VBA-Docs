@@ -12,25 +12,25 @@ ms.date: 11/12/2018
 
 # UserForm object
 
-A **[UserForm](userform-window.md)** [object](../../Glossary/vbe-glossary.md#object) is a window or dialog box that makes up part of an application's user interface.
+A **UserForm** [object](../../Glossary/vbe-glossary.md#object) is a window or dialog box that makes up part of an application's user interface.
 
-The **UserForms** [collection](../../Glossary/vbe-glossary.md#collection) is a collection whose elements represent each loaded **UserForm** in an application. The **UserForms** collection has a **Count** property, an **Item** property, and an **Add** method. **Count** specifies the number of elements in the collection; **Item** (the default member) specifies a specific collection member; and **Add** places a new **UserForm** element in the collection.
+The **UserForms** [collection](../../Glossary/vbe-glossary.md#collection) is a collection whose elements represent each loaded **UserForm** in an application. The **UserForms** collection has a **[Count](count-property-visual-basic-for-applications.md)** property, an **Item** property, and an **[Add](add-method-visual-basic-for-applications.md)** method. **Count** specifies the number of elements in the collection; **Item** (the default member) specifies a specific collection member; and **Add** places a new **UserForm** element in the collection.
 
 ## Syntax
 
-**UserForm** **UserForms** [ **.Item** ] **(_index_)**
+**UserForm** **UserForms** [ **.Item** ] (_index_)
 
 The placeholder _index_ represents an integer with a range from 0 to **UserForms.Count** - 1. **Item** is the default member of the **UserForms** collection and need not be specified.
 
 ## Remarks
 
-You can use the **UserForms** collection to iterate through all loaded user forms in an application. It identifies an intrinsic global [variable](../../Glossary/vbe-glossary.md#variable) named **UserForms**. You can pass **UserForms(_index_)** to a function whose [argument](../../Glossary/vbe-glossary.md#argument) is specified as a **UserForm** class.
+You can use the **UserForms** collection to iterate through all loaded user forms in an application. It identifies an intrinsic global [variable](../../Glossary/vbe-glossary.md#variable) named **UserForms**. You can pass **UserForms**(_index_) to a function whose [argument](../../Glossary/vbe-glossary.md#argument) is specified as a **UserForm** class.
 
 User forms have [properties](../../Glossary/vbe-glossary.md#property) that determine appearance such as position, size, and color; and aspects of their behavior.
 
 User forms can also respond to events initiated by a user or triggered by the system. For example, you can write code in the **Initialize** event procedure of the **UserForm** to initialize [module-level](../../Glossary/vbe-glossary.md#module-level) variables before the **UserForm** is displayed.
 
-In addition to properties and events, you can use methods to manipulate user forms using code. For example, you can use the **Move** method to change the location and size of a **UserForm**.
+In addition to properties and events, you can use methods to manipulate user forms by using code. For example, you can use the **Move** method to change the location and size of a **UserForm**.
 
 When designing user forms, set the **BorderStyle** property to define borders, and set the **Caption** property to put text in the title bar. In code, you can use the **Hide** and **Show** methods to make a **UserForm** invisible or visible at [run time](../../Glossary/vbe-glossary.md#run-time).
 
@@ -48,5 +48,7 @@ Next Control
 
 ## See also
 
+- [UserForm toolbar](userform-command-bar.md)
+- [UserForm window](userform-window.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

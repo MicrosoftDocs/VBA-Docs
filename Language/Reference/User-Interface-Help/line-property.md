@@ -16,12 +16,12 @@ ms.date: 06/08/2017
 
 
  **Description**
-Read-only property that returns the current line number in a  **TextStream** file.
+Read-only property that returns the current line number in a  **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 
 _object_. **Line**
-The  _object_ is always the name of a **TextStream** object.
+The  _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 

@@ -44,7 +44,7 @@ If the specified object isn't loaded when the **Show** method is invoked, Visual
 > [!NOTE] 
 > In Microsoft Office 97, if a **UserForm** is set to display as modeless, it causes a run-time error; Office 97 **UserForms** are always modal.
 
-When a **UserForm** is modeless, subsequent code is executed as it's encountered. Modeless forms do not appear in the task bar and are not in the window tab order.
+When a **UserForm** is modeless, subsequent code is executed as it is encountered. Modeless forms do not appear in the task bar and are not in the window tab order.
 
 > [!NOTE] 
 > You may lose data associated with a modeless **UserForm** if you make a change to the **UserForm** project that causes it to recompile, for example, removing a code module.
@@ -53,7 +53,7 @@ When a **UserForm** is modal, the user must respond before using any other part 
 
 ## Example
 
-The following example assumes two **UserForms** in a program. In UserForm1's Initialize event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
+The following example assumes two **UserForms** in a program. In UserForm1's **Initialize** event, UserForm2 is loaded and shown. When the user clicks UserForm2, it is hidden and UserForm1 appears. When UserForm1 is clicked, UserForm2 is shown again.
 
 
 ```vb

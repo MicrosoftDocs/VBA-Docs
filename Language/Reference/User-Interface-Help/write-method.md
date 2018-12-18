@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # Write method
 
-Writes a specified string to a **TextStream** file.
+Writes a specified string to a **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 

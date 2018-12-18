@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # SkipLine method
 
-Skips the next line when reading a **TextStream** file.
+Skips the next line when reading a **[TextStream](textstream-object.md)** file.
 
 ## Syntax
 
@@ -24,6 +24,7 @@ The _object_ is always the name of a **TextStream** object.
 ## Remarks
 
 Skipping a line means reading and discarding all characters in a line up to and including the next newline character.
+
 An error occurs if the file is not open for reading.
 
 ## See also

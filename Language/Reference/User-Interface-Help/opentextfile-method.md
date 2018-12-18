@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # OpenTextFile method
 
-Opens a specified file and returns a **TextStream** object that can be used to read from, write to, or append to the file.
+Opens a specified file and returns a **[TextStream](textstream-object.md)** object that can be used to read from, write to, or append to the file.
 
 ## Syntax
 
@@ -47,7 +47,7 @@ The _format_ argument can have any of the following settings:
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
-|**TristateUseDefault**|-2|Opens the file using the system default.|
+|**TristateUseDefault**|-2|Opens the file by using the system default.|
 |**TristateTrue**|-1|Opens the file as Unicode.|
 |**TristateFalse**| 0|Opens the file as ASCII.|
 

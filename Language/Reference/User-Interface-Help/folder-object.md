@@ -66,5 +66,6 @@ End Sub
 
 ## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+

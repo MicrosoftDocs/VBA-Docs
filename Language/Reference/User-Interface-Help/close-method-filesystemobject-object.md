@@ -17,7 +17,7 @@ Closes an open **[TextStream](textstream-object.md)** file.
 
 _object_.**Close**
 
-The _object_ is always the name of a **TextStream** object.
+The _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## See also
 

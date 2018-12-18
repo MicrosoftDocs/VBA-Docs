@@ -48,6 +48,7 @@ Use these key combinations in the UserForm window. To deselect all controls, cli
 
 ## See also
 
+- [UserForm object](userform-object.md)
 - [UserForm toolbar](userform-command-bar.md)
 - [Window elements](../window-elements.md)
 

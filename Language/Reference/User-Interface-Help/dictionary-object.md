@@ -13,7 +13,7 @@ ms.date: 11/12/2018
 
 # Dictionary object
 
-Object that stores data key, item pairs.
+Object that stores data key/item pairs.
 
 ## Syntax
 
@@ -38,27 +38,28 @@ d.Add "c", "Cairo"
 
 |Method|Description|
 |:-----|:----------|
-|[Add](add-method-dictionary.md)|Adds a new key/item pair to a Dictionary object |
-|[Exists](exists-method.md)|Returns a Boolean value that indicates whether a specified key exists in the Dictionary object |
-|[Items](items-method.md)|Returns an array of all the items in a Dictionary object |
-|[Keys](keys-method.md)|Returns an array of all the keys in a Dictionary object |
-|[Remove](remove-method-filesystemobject-object.md)|Removes one specified key/item pair from the Dictionary object |
-|[RemoveAll](removeall-method.md)|Removes all the key/item pairs in the Dictionary object |
+|[Add](add-method-dictionary.md)|Adds a new key/item pair to a **Dictionary** object. |
+|[Exists](exists-method.md)|Returns a Boolean value that indicates whether a specified key exists in the **Dictionary** object. |
+|[Items](items-method.md)|Returns an array of all the items in a **Dictionary** object. |
+|[Keys](keys-method.md)|Returns an array of all the keys in a **Dictionary** object. |
+|[Remove](remove-method-filesystemobject-object.md)|Removes one specified key/item pair from the **Dictionary** object. |
+|[RemoveAll](removeall-method.md)|Removes all the key/item pairs in the **Dictionary** object. |
 
 
 ## Properties
 
 |Property|Description|
 |:-------|:----------|
-|[CompareMode](comparemode-property.md)|Sets or returns the comparison mode for comparing keys in a Dictionary object |
-|[Count](count-property-filesystemobject-object.md)|Returns the number of key/item pairs in a Dictionary object |
-|[Item](item-property-filesystemobject-object.md)|Sets or returns the value of an item in a Dictionary object |
-|[Key](key-property.md)|Sets a new key value for an existing key value in a Dictionary object |
+|[CompareMode](comparemode-property.md)|Sets or returns the comparison mode for comparing keys in a **Dictionary** object. |
+|[Count](count-property-filesystemobject-object.md)|Returns the number of key/item pairs in a **Dictionary** object. |
+|[Item](item-property-filesystemobject-object.md)|Sets or returns the value of an item in a **Dictionary** object. |
+|[Key](key-property.md)|Sets a new key value for an existing key value in a **Dictionary** object. |
 
 ## See also
 
+
 - [Dictionary object (Windows Scripting)](https://docs.microsoft.com/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/x4k5wbx4(v%3dvs.84))
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
 
 

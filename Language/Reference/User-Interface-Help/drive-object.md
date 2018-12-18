@@ -36,20 +36,20 @@ End Sub
 
 |Property|Description|
 |:-------|:----------|
-|[AvailableSpace](availablespace-property.md)|Returns the amount of available space to a user on a specified drive or network share |
-|[DriveLetter](driveletter-property.md)|Returns one uppercase letter that identifies the local drive or a network share |
-|[DriveType](drivetype-property.md)|Returns the type of a specified drive |
-|[FileSystem](filesystem-property.md)|Returns the file system in use for a specified drive |
-|[FreeSpace](freespace-property.md)|Returns the amount of free space to a user on a specified drive or network share |
-|[IsReady](isready-property.md)|Returns true if the specified drive is ready, and false if not |
-|[Path (FileSystemObject object)](path-property-filesystemobject-object.md)|Returns an uppercase letter followed by a colon that indicates the path name for a specified drive |
-|[RootFolder](rootfolder-property.md)|Returns a Folder object that represents the root folder of a specified drive |
-|[SerialNumber](serialnumber-property.md)|Returns the serial number of a specified drive |
-|[ShareName](sharename-property.md)|Returns the network share name for a specified drive |
-|[TotalSize](totalsize-property.md)|Returns the total size of a specified drive or network share |
-|[VolumeName](volumename-property.md)|Sets or returns the volume name of a specified drive |
+|[AvailableSpace](availablespace-property.md)|Returns the amount of available space to a user on a specified drive or network share. |
+|[DriveLetter](driveletter-property.md)|Returns one uppercase letter that identifies the local drive or a network share. |
+|[DriveType](drivetype-property.md)|Returns the type of a specified drive. |
+|[FileSystem](filesystem-property.md)|Returns the file system in use for a specified drive. |
+|[FreeSpace](freespace-property.md)|Returns the amount of free space to a user on a specified drive or network share. |
+|[IsReady](isready-property.md)|Returns true if the specified drive is ready, and false if not. |
+|[Path (FileSystemObject object)](path-property-filesystemobject-object.md)|Returns an uppercase letter followed by a colon that indicates the path name for a specified drive. |
+|[RootFolder](rootfolder-property.md)|Returns a **Folder** object that represents the root folder of a specified drive. |
+|[SerialNumber](serialnumber-property.md)|Returns the serial number of a specified drive. |
+|[ShareName](sharename-property.md)|Returns the network share name for a specified drive. |
+|[TotalSize](totalsize-property.md)|Returns the total size of a specified drive or network share. |
+|[VolumeName](volumename-property.md)|Sets or returns the volume name of a specified drive. |
 
 ## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
