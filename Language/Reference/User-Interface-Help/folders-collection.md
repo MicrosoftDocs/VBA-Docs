@@ -13,7 +13,7 @@ ms.date: 11/12/2018
 
 # Folders collection
 
-Collection of all **Folder** objects contained within a **Folder** object.
+Collection of all **[Folder](folder-object.md)** objects contained within a **Folder** object.
 
 ## Remarks
 
@@ -35,5 +35,6 @@ End Sub
 
 ## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
-- [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
