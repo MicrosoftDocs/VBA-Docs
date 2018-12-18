@@ -835,7 +835,7 @@ The **WindowState** property returns or sets the following values:
 ## See also
 
 - [Properties (Microsoft Forms)](../user-interface-help/properties-microsoft-forms.md)
-- [Properties (Visual Basic for Applications)](../properties-visual-basic-for-applications.md)
+- [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

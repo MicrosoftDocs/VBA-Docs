@@ -73,7 +73,7 @@ You can get Help for the **Object Browser** by searching for Object Browser in H
 
 |Module|Description|To get Help on a particular property, procedure, or constant|
 |:-----|:----------|:-----------------------------------------------------------|
-|**Collection**| Contains procedures used to perform operations on the **Collection** object. These constants can be used anywhere in your code.|1. Select the procedure from the **Members of 'Collection'** list.<br/>2. Choose the **Help** ![Help button](../../images/but_help_ZA01201583.gif) button. |
+|**Collection**| Contains procedures used to perform operations on the **Collection** object. These constants can be used anywhere in your code.|1. Select the procedure from the **Members of 'Collection'** list.<br/>2. Choose the **Help** ![Help button](../../../images/but_help_ZA01201583.gif) button. |
 |**ColorConstants**| Contains predefined color constants. These constants can be used anywhere in your code.|1. Select the constant from the **Members of 'ColorConstants'** list.<br/>2. Choose the **Help** button. |
 |**Constants**| Contains miscellaneous constants. These constants can be used anywhere in your code.| 1. Select the constant from the **Members of 'Constants'** list.<br/>2. Choose the **Help** button. |
 |**Conversion**| Contains the procedures used to perform various conversion operations. These constants can be used anywhere in your code.|1. Select the procedure from the **Members of 'Conversion'** list.<br/>2. Choose the **Help** button.<br/><br/>**NOTE**: When you use **Variant** variables, explicit data-type conversions are unnecessary. |
@@ -95,7 +95,7 @@ You can get Help for the **Object Browser** by searching for Object Browser in H
 
 |Enumeration|Description|To get Help on a particular constant|
 |:----------|:----------|:-----------------------------------|
-|**VbAppWinStyle**| Contains constants used by the **Shell** function to control the style of an application window. These constants can be used anywhere in your code.|1. Select the constant from the **Members of 'VbAppWinStyle'** list.<br/>2. Choose the **Help** ![Help button](../../images/but_help_ZA01201583.gif) button. |
+|**VbAppWinStyle**| Contains constants used by the **Shell** function to control the style of an application window. These constants can be used anywhere in your code.|1. Select the constant from the **Members of 'VbAppWinStyle'** list.<br/>2. Choose the **Help** ![Help button](../../../images/but_help_ZA01201583.gif) button. |
 |**VbCalendar**| Contains constants used to determine the type of calendar used by Visual Basic. These constants can be used anywhere in your code.|1. Select the constant from the **Members of 'VbCalendar'** list.<br/>2. Choose the **Help** button. |
 |**VbCallType**| Defines constants used to identify the call type used by the **CallByName** function.|1. Select the constant from the **Members of 'VbCallType'** list.<br/>2. Choose the **Help** button. |
 |**VbCompareMethod**| Contains constants used to determine the way strings are compared when using the **Instr** and **StrComp** functions. These constants can be used anywhere in your code.|1. Select the constant from the **Members of 'VbCompareMethod'** list.<br/>2. Choose the **Help** button. |

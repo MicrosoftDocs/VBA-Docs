@@ -37,7 +37,7 @@ ms.date: 12/06/2018
 ## See also
 
 - [Methods (Microsoft Forms)](../user-interface-help/methods-microsoft-forms.md)
-- [Methods (Visual Basic for Applicatons)](../methods-visual-basic-for-applications.md)
+- [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)    
