@@ -8,6 +8,8 @@ ms.date: 09/17/2018
 
 # Objects (Visual Basic for Applications)
 
+Find information about VBA objects, along with their methods and properties, on the following pages:
+
 - [Collection](user-interface-help/collection-object.md)
 - [Debug](user-interface-help/debug-object.md)
 - [Dictionary](user-interface-help/dictionary-object.md)
@@ -27,5 +29,9 @@ ms.date: 09/17/2018
 
 - [Objects (Microsoft Forms)](user-interface-help/objects-microsoft-forms.md)
 - [Objects (Visual Basic Add-In Model)](visual-basic-add-in-model/objects-visual-basic-add-in-model.md)
+- [Methods (Microsoft Forms)](user-interface-help/methods-microsoft-forms.md)
+- [Methods (Visual Basic Add-In Model)](visual-basic-add-in-model/methods-visual-basic-add-in-model.md)
+- [Properties (Microsoft Forms)](user-interface-help/properties-microsoft-forms.md)
+- [Properties (Visual Basic Add-In Model)](visual-basic-add-in-model/properties-visual-basic-add-in-model.md)
 - [Visual Basic language reference](user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
