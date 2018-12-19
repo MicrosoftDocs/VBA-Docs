@@ -1,5 +1,5 @@
 ---
-title: WhatsThisHelp Property
+title: WhatsThisHelp property (Visual Basic for Applications)
 keywords: vblr6.chm916695
 f1_keywords:
 - vblr6.chm916695
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WhatsThisHelp
 ms.assetid: f36a9ddc-c0d3-c2d7-8cf8-03b49bd00679
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -38,4 +38,7 @@ There are two access techniques for providing What's This Help in an application
 - Invoking the  **WhatsThisMode** method of a **[UserForm](userform-window.md)**. This produces the same behavior as clicking the **What's This** button without using a button. For example, you can invoke this method from a command on a menu in the menu bar of the application.
     
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

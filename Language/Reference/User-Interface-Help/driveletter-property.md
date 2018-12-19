@@ -1,5 +1,5 @@
 ---
-title: DriveLetter Property
+title: DriveLetter property (Visual Basic for Applications)
 keywords: vblr6.chm2181955
 f1_keywords:
 - vblr6.chm2181955
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DriveLetter
 ms.assetid: 29bf179a-8bf7-56de-3cf5-53fd0d2151e0
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -43,4 +43,7 @@ Sub ShowDriveLetter(drvPath)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

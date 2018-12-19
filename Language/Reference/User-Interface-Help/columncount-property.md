@@ -1,5 +1,5 @@
 ---
-title: ColumnCount property
+title: ColumnCount property (Microsoft Forms)
 keywords: fm20.chm2000940
 f1_keywords:
 - fm20.chm2000940

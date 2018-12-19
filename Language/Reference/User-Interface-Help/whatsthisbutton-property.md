@@ -1,5 +1,5 @@
 ---
-title: WhatsThisButton Property
+title: WhatsThisButton property (Visual Basic for Applications)
 keywords: vblr6.chm916694
 f1_keywords:
 - vblr6.chm916694
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WhatsThisButton
 ms.assetid: f9e24796-d4e0-1719-32b3-2119f20a6b5a
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -32,3 +32,7 @@ The settings for the  **WhatsThisButton** property are:
 
 The  **WhatsThisHelp** property must be **True** for the **WhatsThisButton** property to be **True**.
 
+## See also
+
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

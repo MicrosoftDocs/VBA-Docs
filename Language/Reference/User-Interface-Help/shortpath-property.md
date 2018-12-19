@@ -1,5 +1,5 @@
 ---
-title: ShortPath Property
+title: ShortPath property (Visual Basic for Applications)
 keywords: vblr6.chm2181998
 f1_keywords:
 - vblr6.chm2181998
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ShortPath
 ms.assetid: 9d473ea7-d555-0d79-9dfc-4822aa99ccd8
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -41,4 +41,7 @@ Sub ShowShortPath(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

@@ -1,5 +1,5 @@
 ---
-title: HelpContext Property (Visual Basic for Applications)
+title: HelpContext property (Visual Basic for Applications)
 keywords: vblr6.chm1014190
 f1_keywords:
 - vblr6.chm1014190
@@ -40,4 +40,7 @@ Err.HelpContext
 End If
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

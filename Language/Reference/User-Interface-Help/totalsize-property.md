@@ -1,5 +1,5 @@
 ---
-title: TotalSize Property
+title: TotalSize property (Visual Basic for Applications)
 keywords: vblr6.chm2181964
 f1_keywords:
 - vblr6.chm2181964
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.TotalSize
 ms.assetid: 3c5d7904-3abe-2733-abe2-f329979863da
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -43,4 +43,7 @@ Sub ShowSpaceInfo(drvpath)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

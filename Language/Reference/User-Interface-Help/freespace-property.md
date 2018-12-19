@@ -1,5 +1,5 @@
 ---
-title: FreeSpace Property
+title: FreeSpace property (Visual Basic for Applications)
 keywords: vblr6.chm2181958
 f1_keywords:
 - vblr6.chm2181958
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.FreeSpace
 ms.assetid: 6bb743ca-d196-a5ab-2cff-3dd6ecff6e0b
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -43,4 +43,7 @@ Sub ShowFreeSpace(drvPath)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

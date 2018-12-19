@@ -26,7 +26,7 @@ The following tables summarize the new Visual Basic for Applications (VBA) langu
 
 |Name|Description|
 |:-----|:-----|
-|**[Presentation.AutoSaveOn property (PowerPoint)](../../api/powerpoint.presentation.autosaveon)** | **True** if the edits in the presentation are automatically saved. Read/write **Boolean**.|
+|**[Presentation.AutoSaveOn property (PowerPoint)](../../api/powerpoint.presentation.autosaveon.md)** | **True** if the edits in the presentation are automatically saved. Read/write **Boolean**.|
 
 ## Visio
 

@@ -1,5 +1,5 @@
 ---
-title: LastDLLError Property
+title: LastDLLError property (Visual Basic for Applications)
 keywords: vblr6.chm1020108
 f1_keywords:
 - vblr6.chm1020108
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.LastDLLError
 ms.assetid: ed946e1e-a60a-576f-c6b6-0bec91b3d21d
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -42,4 +42,7 @@ Private Sub UserForm_Click()
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

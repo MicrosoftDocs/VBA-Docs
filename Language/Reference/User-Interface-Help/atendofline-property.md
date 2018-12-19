@@ -1,5 +1,5 @@
 ---
-title: AtEndOfLine Property
+title: AtEndOfLine property (Visual Basic for Applications)
 keywords: vblr6.chm2182071
 f1_keywords:
 - vblr6.chm2182071
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.AtEndOfLine
 ms.assetid: a5b02fc7-362c-474d-7238-64c0783277ce
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -41,4 +41,7 @@ Loop
 a.Close
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

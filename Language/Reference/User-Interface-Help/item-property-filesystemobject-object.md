@@ -1,11 +1,11 @@
 ---
-title: Item Property (FileSystemObject object)
+title: Item property (FileSystemObject object)
 keywords: vblr6.chm2181946
 f1_keywords:
 - vblr6.chm2181946
 ms.prod: office
 ms.assetid: 3f3080fa-29bf-6bf1-bd6e-6b804c01a589
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -32,3 +32,7 @@ The  **Item** property has the following parts:
 
 If  _key_ is not found when changing an _item_, a new _key_ is created with the specified _newitem_. If _key_ is not found when attempting to return an existing item, a new _key_ is created and its corresponding item is left empty.
 
+## See also
+
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

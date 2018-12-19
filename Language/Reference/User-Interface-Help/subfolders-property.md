@@ -1,5 +1,5 @@
 ---
-title: SubFolders Property
+title: SubFolders property (Visual Basic for Applications)
 keywords: vblr6.chm2182070
 f1_keywords:
 - vblr6.chm2182070
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SubFolders
 ms.assetid: 60bc795f-22f9-6846-00d3-05229f062099
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -43,4 +43,7 @@ Sub ShowFolderList(folderspec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

@@ -1,5 +1,5 @@
 ---
-title: Drives Property
+title: Drives property (Visual Basic for Applications)
 keywords: vblr6.chm2182030
 f1_keywords:
 - vblr6.chm2182030
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Drives
 ms.assetid: 23534228-121c-23df-6ea6-c4715f86e312
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -48,4 +48,7 @@ Sub ShowDriveList
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

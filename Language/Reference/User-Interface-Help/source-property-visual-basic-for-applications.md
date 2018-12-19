@@ -1,11 +1,11 @@
 ---
-title: Source Property (Visual Basic for Applications)
+title: Source property (Visual Basic for Applications)
 keywords: vblr6.chm1014188
 f1_keywords:
 - vblr6.chm1014188
 ms.prod: office
 ms.assetid: bbf51a29-682a-8fc5-52db-89647c184885
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -39,3 +39,7 @@ Err. Raise    Number := vbObjectError + 894, Source := MyObjectID, _
 ```
 
 
+## See also
+
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

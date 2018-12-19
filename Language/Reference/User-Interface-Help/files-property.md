@@ -1,5 +1,5 @@
 ---
-title: Files Property
+title: Files property (Visual Basic for Applications)
 keywords: vblr6.chm2182095
 f1_keywords:
 - vblr6.chm2182095
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Files
 ms.assetid: 80ee842f-759f-a018-c69c-4233d9714938
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -43,4 +43,7 @@ Sub ShowFileList(folderspec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

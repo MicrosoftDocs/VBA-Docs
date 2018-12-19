@@ -1,11 +1,11 @@
 ---
-title: Name Property (FileSystemObject object)
+title: Name property (FileSystemObject object)
 keywords: vblr6.chm2181996
 f1_keywords:
 - vblr6.chm2181996
 ms.prod: office
 ms.assetid: 1e2c7813-74da-fd24-4e2f-4855f2d57015
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -46,4 +46,7 @@ Sub ShowFileAccessInfo(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

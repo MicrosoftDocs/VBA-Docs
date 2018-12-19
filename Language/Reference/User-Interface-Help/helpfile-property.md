@@ -1,5 +1,5 @@
 ---
-title: HelpFile Property
+title: HelpFile property (Visual Basic for Applications)
 keywords: vblr6.chm1014189
 f1_keywords:
 - vblr6.chm1014189
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.HelpFile
 ms.assetid: ed2b9abc-679c-91d9-4d39-987863430880
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -39,4 +39,7 @@ Msg = "Press F1 or HELP to see " & Err. HelpFile & _
 MsgBox Msg, , "Error: " & Err.Description,Err. HelpFile
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

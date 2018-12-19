@@ -1,5 +1,5 @@
 ---
-title: ParentFolder Property
+title: ParentFolder property (Visual Basic for Applications)
 keywords: vblr6.chm2181999
 f1_keywords:
 - vblr6.chm2181999
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ParentFolder
 ms.assetid: 980e6bf3-fdc2-4335-7587-e5e932aee0a2
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -42,4 +42,7 @@ Sub ShowFileAccessInfo(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

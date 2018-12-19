@@ -1,5 +1,5 @@
 ---
-title: RightToLeft property
+title: RightToLeft property (Visual Basic for Applications)
 keywords: vblr6.chm1264146
 f1_keywords:
 - vblr6.chm1264146
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.RightToLeft
 ms.assetid: 0d3678c4-57c4-4c7c-aa2f-77ce1c339524
-ms.date: 11/16/2018
+ms.date: 12/19/2018
 ---
 
 
@@ -28,3 +28,7 @@ The settings for the **RightToLeft** property are:
 
 The **RightToLeft** property holds ambient information from the **[UserForm](userform-window.md)** that suggests behavior to controls contained within the **[UserForm](userform-window.md)**. This property is a Boolean that indicates text display direction and controls visual appearance on bidirectional systems. The default is **False**.
 
+## See also
+
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

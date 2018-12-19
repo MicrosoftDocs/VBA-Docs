@@ -1,11 +1,11 @@
 ---
-title: Type Property (FileSystemObject object)
+title: Type property (FileSystemObject object)
 keywords: vblr6.chm2182001
 f1_keywords:
 - vblr6.chm2182001
 ms.prod: office
 ms.assetid: b2e9bd7b-b9ea-1fe0-bd00-1f734d165e37
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -37,4 +37,7 @@ Sub ShowFileSize(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

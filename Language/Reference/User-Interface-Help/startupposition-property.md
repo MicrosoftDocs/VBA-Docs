@@ -1,5 +1,5 @@
 ---
-title: StartUpPosition property
+title: StartUpPosition property (Visual Basic for Applications)
 keywords: vblr6.chm1100523
 f1_keywords:
 - vblr6.chm1100523
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.StartUpPosition
 ms.assetid: 0ceb1e6d-b45e-a1df-03df-fd73ce814a79
-ms.date: 08/24/2018
+ms.date: 12/19/2018
 ---
 
 
@@ -41,4 +41,7 @@ Private Sub UserForm_Click()
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

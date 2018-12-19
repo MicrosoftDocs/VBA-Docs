@@ -1,11 +1,11 @@
 ---
-title: Size Property (FileSystemObject object)
+title: Size property (FileSystemObject object)
 keywords: vblr6.chm2182000
 f1_keywords:
 - vblr6.chm2182000
 ms.prod: office
 ms.assetid: 8ddecf14-adda-70bd-4d96-42ac0fa18745
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -37,4 +37,7 @@ Sub ShowFolderSize(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

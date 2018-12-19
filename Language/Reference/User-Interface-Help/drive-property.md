@@ -1,5 +1,5 @@
 ---
-title: Drive Property
+title: Drive property (Visual Basic for Applications)
 keywords: vblr6.chm2181976
 f1_keywords:
 - vblr6.chm2181976
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Drive
 ms.assetid: 34512359-067f-f625-5f19-db7b0faa0138
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -42,4 +42,7 @@ Sub ShowFileAccessInfo(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

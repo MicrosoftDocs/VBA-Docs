@@ -1,5 +1,5 @@
 ---
-title: FileSystem Property
+title: FileSystem property (Visual Basic for Applications)
 keywords: vblr6.chm2181957
 f1_keywords:
 - vblr6.chm2181957
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.FileSystem
 ms.assetid: 123ba29e-0b94-0afe-5f3d-323e903dd38e
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -40,4 +40,7 @@ Sub ShowFileSystemType
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

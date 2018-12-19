@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm2181945
 ms.prod: office
 ms.assetid: b64c41d8-3fe3-3a69-0949-a1d1956be12f
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -37,4 +37,8 @@ Next
 
 ```
 
+## See also
+
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)
 

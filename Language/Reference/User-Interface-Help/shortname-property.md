@@ -1,5 +1,5 @@
 ---
-title: ShortName Property
+title: ShortName property (Visual Basic for Applications)
 keywords: vblr6.chm2181997
 f1_keywords:
 - vblr6.chm2181997
@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ShortName
 ms.assetid: 62d95787-61c7-777d-56d0-d17d4d8e0f18
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
@@ -41,4 +41,7 @@ Sub ShowShortName(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)
