@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# IsReady Property
+# IsReady property
 
-
-
- **Description**
-Returns  **True** if the specified drive is ready; **False** if it is not.
+Returns **True** if the specified drive is ready; **False** if it is not.
 
 ## Syntax
 
-object. **IsReady**
-The object is always a  **Drive** object.
+object.**IsReady**
+
+The object is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-For removable-media drives and CD-ROM drives,  **IsReady** returns **True** only when the appropriate media is inserted and ready for access.
-The following code illustrates the use of the  **IsReady** property:
+For removable-media drives and CD-ROM drives, **IsReady** returns **True** only when the appropriate media is inserted and ready for access.
 
-
+The following code illustrates the use of the **IsReady** property.
 
 ```vb
 Sub ShowDriveInfo(drvpath)

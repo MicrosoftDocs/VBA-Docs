@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# DateLastModified Property
+# DateLastModified property
 
-
-
- **Description**
 Returns the date and time that the specified file or folder was last modified. Read-only.
 
 ## Syntax
 
-_object_. **DateLastModified**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**DateLastModified**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **DateLastModified** property with a file:
-
-
+The following code illustrates the use of the **DateLastModified** property with a file.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)

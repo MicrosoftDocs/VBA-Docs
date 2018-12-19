@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# TotalSize Property
+# TotalSize property
 
-
-
- **Description**
 Returns the total space, in bytes, of a drive or network share.
 
 ## Syntax
 
-_object_. **TotalSize**
-The  _object_ is always a **Drive** object.
+_object_.**TotalSize**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **TotalSize** property:
-
-
+The following code illustrates the use of the **TotalSize** property.
 
 ```vb
 Sub ShowSpaceInfo(drvpath)

@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# SerialNumber Property
+# SerialNumber property
 
-
-
- **Description**
 Returns the decimal serial number used to uniquely identify a disk volume.
 
 ## Syntax
 
-_object_. **SerialNumber**
-The  _object_ is always a **Drive** object.
+_object_.**SerialNumber**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-You can use the  **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
-The following code illustrates the use of the  **SerialNumber** property:
+You can use the **SerialNumber** property to ensure that the correct disk is inserted in a drive with removable media.
 
-
+The following code illustrates the use of the **SerialNumber** property.
 
 ```vb
 Sub ShowDriveInfo(drvpath)

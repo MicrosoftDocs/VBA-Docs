@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# FileSystem Property
+# FileSystem property
 
-
-
- **Description**
 Returns the type of file system in use for the specified drive.
 
 ## Syntax
 
-_object_. **FileSystem**
-The  _object_ is always a **Drive** object.
+_object_.**FileSystem**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
 Available return types include FAT, NTFS, and CDFS.
-The following code illustrates the use of the  **FileSystem** property:
 
-
+The following code illustrates the use of the **FileSystem** property.
 
 ```vb
 Sub ShowFileSystemType

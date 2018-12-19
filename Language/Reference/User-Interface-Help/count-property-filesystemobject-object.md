@@ -9,9 +9,9 @@ ms.date: 12/19/2018
 ---
 
 
-# Count property (FileSystemObject object)
+# Count property (FileSystemObject)
 
-Returns the number of items in a collection or **Dictionary** object. Read-only.
+Returns the number of items in a collection or **[Dictionary](dictionary-object.md)** object. Read-only.
 
 ## Syntax
 
@@ -21,7 +21,7 @@ The _object_ is always the name of one of the items in the **Applies To** list.
 
 ## Remarks
 
-The following code illustrates use of the **Count** property:
+The following code illustrates use of the **Count** property.
 
 ```vb
 Dim a, d, i             'Create some variables

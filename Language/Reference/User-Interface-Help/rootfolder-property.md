@@ -11,21 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# RootFolder Property
+# RootFolder property
 
-
-
- **Description**
-Returns a  **Folder** object representing the root folder of a specified drive. Read-only.
+Returns a **[Folder](folder-object.md)** object representing the root folder of a specified drive. Read-only.
 
 ## Syntax
 
-_object_. **RootFolder**
-The  _object_ is always a **Drive** object.
+_object_.**RootFolder**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-All the files and folders contained on the drive can be accessed using the returned  **Folder** object.
+All the files and folders contained on the drive can be accessed by using the returned **Folder** object.
 
 ## See also
 

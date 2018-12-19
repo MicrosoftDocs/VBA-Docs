@@ -15,7 +15,9 @@ Returns the number of objects in a [collection](../../Glossary/vbe-glossary.md#c
 
 ## Syntax
 
-_object_. **Count**
+_object_.**Count**
+
+<br/>
 
 The **Count** property syntax has these parts:
 

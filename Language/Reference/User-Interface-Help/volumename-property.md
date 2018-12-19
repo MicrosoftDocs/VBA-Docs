@@ -11,29 +11,26 @@ ms.date: 12/19/2018
 ---
 
 
-# VolumeName Property
+# VolumeName property
 
-
-
- **Description**
 Sets or returns the volume name of the specified drive. Read/write.
 
 ## Syntax
 
-_object_. **VolumeName** [= _newname_ ]
-The VolumeName property has these parts:
+_object_.**VolumeName** [= _newname_ ]
 
+<br/>
+
+The **VolumeName** property has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **Drive** object.|
-| _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
+| _object_|Required. Always the name of a **[Drive](drive-object.md)** object.|
+| _newname_|Optional. If provided, _newname_ is the new name of the specified _object_.|
 
 ## Remarks
 
-The following code illustrates the use of the  **VolumeName** property:
-
-
+The following code illustrates the use of the **VolumeName** property.
 
 ```vb
 Sub ShowVolumeInfo(drvpath)

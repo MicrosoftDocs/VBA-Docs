@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# ShortPath Property
+# ShortPath property
 
-
-
- **Description**
 Returns the short path used by programs that require the earlier 8.3 file naming convention.
 
 ## Syntax
 
-_object_. **ShortPath**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**ShortPath**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **ShortName** property with a **File** object:
-
-
+The following code illustrates the use of the **ShortName** property with a **File** object.
 
 ```vb
 Sub ShowShortPath(filespec)

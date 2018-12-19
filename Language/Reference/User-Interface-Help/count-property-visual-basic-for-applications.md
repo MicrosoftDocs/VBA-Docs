@@ -9,16 +9,13 @@ ms.date: 12/19/2018
 ---
 
 
-# Count Property (Visual Basic for Applications)
-
-
+# Count property (VBA)
 
 Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) (long integer) containing the number of objects in a [collection](../../Glossary/vbe-glossary.md#collection). Read-only.
 
 ## Example
 
-This example uses the  **Collection** object's **Count** property to specify how many iterations are required to remove all the elements of the collection called `MyClasses`. When collections are numerically indexed, the base is 1 by default. Since collections are reindexed automatically when a removal is made, the following code removes the first member on each iteration.
-
+This example uses the **[Collection](collection-object.md)** object's **Count** property to specify how many iterations are required to remove all the elements of the collection called `MyClasses`. When collections are numerically indexed, the base is 1 by default. Because collections are reindexed automatically when a removal is made, the following code removes the first member on each iteration.
 
 ```vb
 Dim Num, MyClasses

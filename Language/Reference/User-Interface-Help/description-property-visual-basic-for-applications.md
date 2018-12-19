@@ -9,24 +9,24 @@ ms.date: 12/19/2018
 ---
 
 
-# Description Property (Visual Basic for Applications)
-
-
+# Description property
 
 Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. Read/write.
-For the  **Err** object, returns or sets a descriptive string associated with an error.
+
+For the **[Err](err-object.md)** object, returns or sets a descriptive string associated with an error.
 
 ## Remarks
 
-The  **Description** property setting consists of a short description of the error. Use this[property](../../Glossary/vbe-glossary.md#property) to alert the user to an error that you either can't or don't want to handle. When generating a user-defined error, assign a short description of your error to the **Description** property. If **Description** isn't filled in, and the value of **Number** corresponds to a Visual Basic[run-time error](../../Glossary/vbe-glossary.md#run-time-error), the string returned by the  **Error** function is placed in **Description** when the error is generated.
+The **Description** property setting consists of a short description of the error. Use this [property](../../Glossary/vbe-glossary.md#property) to alert the user to an error that you either can't or don't want to handle. 
+
+When generating a user-defined error, assign a short description of your error to the **Description** property. If **Description** isn't filled in, and the value of **[Number](number-property-visual-basic-for-applications.md)** corresponds to a Visual Basic [run-time error](../../Glossary/vbe-glossary.md#run-time-error), the string returned by the **[Error](error-function.md)** function is placed in **Description** when the error is generated.
 
 ## Example
 
-This example assigns a user-defined message to the  **Description** property of the **Err** object.
-
+This example assigns a user-defined message to the **Description** property of the **Err** object.
 
 ```vb
-Err. Description = "It was not possible to access an object necessary " _
+Err.Description = "It was not possible to access an object necessary " _
 & "for this operation."
 
 ```

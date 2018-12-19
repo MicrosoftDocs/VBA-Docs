@@ -9,24 +9,21 @@ ms.date: 12/19/2018
 ---
 
 
-# Path Property (FileSystemObject object)
+# Path property (FileSystemObject)
 
-
-
- **Description**
 Returns the path for a specified file, folder, or drive.
 
 ## Syntax
 
-_object_. **Path**
-The  _object_ is always a **File**, **Folder**, or **Drive** object.
+_object_.**Path**
+
+The _object_ is always a **[File](file-object.md)**, **[Folder](folder-object.md)**, or **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-For drive letters, the root drive is not included. For example, the path for the C drive is C:, not C:\.
-The following code illustrates the use of the  **Path** property with a **File** object:
+For drive letters, the root drive is not included. For example, the path for the C drive is `C:`, not `C:\`.
 
-
+The following code illustrates the use of the **Path** property with a **File** object.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)

@@ -14,23 +14,24 @@ ms.date: 12/19/2018
 # StartUpPosition property
 
 Returns or sets a value specifying the position of a **[UserForm](userform-window.md)** when it first appears.
-You can use one of four settings for **StartUpPosition**:
+You can use one of four settings for **StartUpPosition**.
 
+<br/>
 
-|**Setting**|Value|Description|
+|Setting|Value|Description|
 |:-----|:-----|:-----|
 |**Manual**|0|No initial setting specified.|
-|**CenterOwner**|1|Center on the item to which the **[UserForm](userform-window.md)** belongs.|
+|**CenterOwner**|1|Center on the item to which the **UserForm** belongs.|
 |**CenterScreen**|2|Center on the whole screen.|
 |**WindowsDefault**|3|Position in upper-left corner of screen.|
 
 ## Remarks
 
-You can set the **StartUpPosition** property programmatically or from the Properties window.
+You can set the **StartUpPosition** property programmatically or from the [Properties window](properties-window.md).
 
 ## Example
 
-The following example uses the **Load** statement and the **Show** method in UserForm1's Click event to load UserForm2 with the **StartUpPosition** property set to 3 (the Windows default position). The **Show** method then makes UserForm2 visible.
+The following example uses the **[Load](load-statement.md)** statement and the **[Show](show-method.md)** method in UserForm1's Click event to load UserForm2 with the **StartUpPosition** property set to 3 (the Windows default position). The **Show** method then makes UserForm2 visible.
 
 
 ```vb

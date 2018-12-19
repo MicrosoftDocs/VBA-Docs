@@ -11,21 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# Line Property
+# Line property
 
-
-
- **Description**
-Read-only property that returns the current line number in a  **[TextStream](textstream-object.md)** file.
+Read-only property that returns the current line number in a **TextStream** file.
 
 ## Syntax
 
-_object_. **Line**
-The  _object_ is always the name of a **[TextStream](textstream-object.md)** object.
+_object_.**Line**
+
+The _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 
-After a file is initially opened and before anything is written,  **Line** is equal to 1.
+After a file is initially opened and before anything is written, **Line** is equal to 1.
 
 ## See also
 

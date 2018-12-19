@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# ShareName Property
+# ShareName property
 
-
-
- **Description**
 Returns the network share name for a specified drive.
 
 ## Syntax
 
-_object_. **ShareName**
-The  _object_ is always a **Drive** object.
+_object_.**ShareName**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-If  _object_ is not a network drive, the **ShareName** property returns a zero-length string ("").
-The following code illustrates the use of the  **ShareName** property:
+If _object_ is not a network drive, the **ShareName** property returns a zero-length string ("").
 
-
+The following code illustrates the use of the **ShareName** property.
 
 ```vb
 Sub ShowDriveInfo(drvpath)

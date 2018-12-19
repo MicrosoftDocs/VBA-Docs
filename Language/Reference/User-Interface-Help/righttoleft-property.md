@@ -26,7 +26,7 @@ The settings for the **RightToLeft** property are:
 
 ## Remarks
 
-The **RightToLeft** property holds ambient information from the **[UserForm](userform-window.md)** that suggests behavior to controls contained within the **[UserForm](userform-window.md)**. This property is a Boolean that indicates text display direction and controls visual appearance on bidirectional systems. The default is **False**.
+The **RightToLeft** property holds ambient information from the **[UserForm](userform-window.md)** that suggests behavior to controls contained within the **UserForm**. This property is a Boolean that indicates text display direction and controls visual appearance on bidirectional systems. The default is **False**.
 
 ## See also
 

@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# DateCreated Property
+# DateCreated property
 
-
-
- **Description**
 Returns the date and time that the specified file or folder was created. Read-only.
 
 ## Syntax
 
-_object_. **DateCreated**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**DateCreated**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **DateCreated** property with a file:
-
-
+The following code illustrates the use of the **DateCreated** property with a file.
 
 ```vb
 Sub ShowFileInfo(filespec)

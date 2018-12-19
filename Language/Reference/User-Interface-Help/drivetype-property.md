@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# DriveType Property
+# DriveType property
 
-
-
- **Description**
 Returns a value indicating the type of a specified drive.
 
 ## Syntax
 
-_object_. **DriveType**
-The  _object_ is always a **Drive** object.
+_object_.**DriveType**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **DriveType** property:
-
-
+The following code illustrates the use of the **DriveType** property.
 
 ```vb
 Sub ShowDriveType(drvpath)

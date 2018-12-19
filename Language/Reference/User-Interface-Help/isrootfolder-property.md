@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# IsRootFolder Property
+# IsRootFolder property
 
-
-
- **Description**
-Returns  **True** if the specified folder is the root folder; **False** if it is not.
+Returns **True** if the specified folder is the root folder; **False** if it is not.
 
 ## Syntax
 
-_object_. **IsRootFolder**
-The  _object_ is always a **Folder** object.
+_object_.**IsRootFolder**
+
+The _object_ is always a **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **IsRootFolder** property:
-
-
+The following code illustrates the use of the **IsRootFolder** property.
 
 ```vb
 Dim fs

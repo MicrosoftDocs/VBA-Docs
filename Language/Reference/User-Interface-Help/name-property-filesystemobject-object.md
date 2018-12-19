@@ -9,29 +9,26 @@ ms.date: 12/19/2018
 ---
 
 
-# Name Property (FileSystemObject object)
+# Name property (FileSystemObject)
 
-
-
- **Description**
 Sets or returns the name of a specified file or folder. Read/write.
 
 ## Syntax
 
-_object_. **Name** [= _newname_ ]
-The  **Name** property has these parts:
+_object_.**Name** [ = _newname_ ]
 
+<br/>
+
+The **Name** property has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
-| _newname_|Optional. If provided,  _newname_ is the new name of the specified _object_.|
+| _object_|Required. Always the name of a **[File](file-object.md)** or **[Folder](folder-object.md)** object.|
+| _newname_|Optional. If provided, _newname_ is the new name of the specified _object_.|
 
 ## Remarks
 
-The following code illustrates the use of the  **Name** property:
-
-
+The following code illustrates the use of the **Name** property.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)

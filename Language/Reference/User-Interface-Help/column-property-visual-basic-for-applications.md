@@ -9,21 +9,19 @@ ms.date: 12/19/2018
 ---
 
 
-# Column Property (Visual Basic for Applications)
+# Column property
 
-
-
- **Description**
-Read-only property that returns the column number of the current character position in a  **[TextStream](textstream-object.md)** file.
+Read-only property that returns the column number of the current character position in a **TextStream** file.
 
 ## Syntax
 
-_object_**.Column**
-The  _object_ is always the name of a **[TextStream](textstream-object.md)** object.
+_object_.**Column**
+
+The _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 
-After a newline character has been written, but before any other character is written,  **Column** is equal to 1.
+After a newline character has been written, but before any other character is written, **Column** is equal to 1.
 
 ## See also
 

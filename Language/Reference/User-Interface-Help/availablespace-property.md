@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# AvailableSpace Property
+# AvailableSpace property
 
-
-
- **Description**
 Returns the amount of space available to a user on the specified drive or network share.
 
 ## Syntax
 
-_object_. **AvailableSpace**
-The  _object_ is always a **Drive** object.
+_object_.**AvailableSpace**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-The value returned by the  **AvailableSpace** property is typically the same as that returned by the **FreeSpace** property. Differences may occur between the two values for computer systems that support quotas.
-The following code illustrates the use of the  **AvailableSpace** property:
+The value returned by the **AvailableSpace** property is typically the same as that returned by the **[FreeSpace](freespace-property.md)** property. Differences may occur between the two values for computer systems that support quotas.
 
-
+The following code illustrates the use of the **AvailableSpace** property.
 
 ```vb
 Sub ShowAvailableSpace(drvPath)

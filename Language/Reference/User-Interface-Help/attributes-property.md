@@ -11,27 +11,26 @@ ms.date: 12/19/2018
 ---
 
 
-# Attributes Property
+# Attributes property
 
-
-
- **Description**
 Sets or returns the attributes of files or folders. Read/write or read-only, depending on the attribute.
 
 ## Syntax
 
-_object_. **Attributes** [= _newattributes_ ]
-The  **Attributes** property has these parts:
+_object_.**Attributes** [= _newattributes_ ]
 
+<br/>
+
+The **Attributes** property has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a  **File** or **Folder** object.|
-| _newattributes_|Optional. If provided,  _newattributes_ is the new value for the attributes of the specified _object_.|
+| _object_|Required. Always the name of a **[File](file-object.md)** or **[Folder](folder-object.md)** object.|
+| _newattributes_|Optional. If provided, _newattributes_ is the new value for the attributes of the specified _object_.|
 
 ## Settings
-The  _newattributes_ argument can have any of the following values or any logical combination of the following values:
 
+The _newattributes_ argument can have any of the following values or any logical combination of the following values.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -47,9 +46,7 @@ The  _newattributes_ argument can have any of the following values or any logica
 
 ## Remarks
 
-The following code illustrates the use of the  **Attributes** property with a file:
-
-
+The following code illustrates the use of the **Attributes** property with a file.
 
 ```vb
 Sub SetClearArchiveBit(filespec)

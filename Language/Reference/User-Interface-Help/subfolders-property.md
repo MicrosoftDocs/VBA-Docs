@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# SubFolders Property
+# SubFolders property
 
-
-
- **Description**
-Returns a  **Folders** collection consisting of all folders contained in a specified folder, including those with Hidden and System file attributes set.
+Returns a **[Folders](folders-collection.md)** collection consisting of all folders contained in a specified folder, including those with Hidden and System file attributes set.
 
 ## Syntax
 
-_object_. **SubFolders**
-The  _object_ is always a **Folder** object.
+_object_.**SubFolders**
+
+The _object_ is always a **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **SubFolders** property:
-
-
+The following code illustrates the use of the **SubFolders** property.
 
 ```vb
 Sub ShowFolderList(folderspec)

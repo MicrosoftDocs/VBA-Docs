@@ -17,22 +17,24 @@ Contains information about [run-time errors](../../Glossary/vbe-glossary.md#run-
 
 ## Remarks
 
-The [properties](../../Glossary/vbe-glossary.md#property) of the **Err** object are set by the generator of an error — Visual Basic, an object, or the programmer.
+The [properties](../../Glossary/vbe-glossary.md#property) of the **Err** object are set by the generator of an error—Visual Basic, an object, or the programmer.
 
 The default property of the **Err** object is **[Number](number-property-visual-basic-for-applications.md)**. Because the default property can be represented by the object name **Err**, earlier code written by using the **Err** function or **Err** statement doesn't have to be modified.
 
 When a run-time error occurs, the properties of the **Err** object are filled with information that uniquely identifies the error and information that can be used to handle it. To generate a run-time error in your code, use the **[Raise](raise-method.md)** method.
 
-The **Err** object's properties are reset to zero or zero-length strings ("") after an **Exit Sub**, **Exit Function**, **Exit Property** or **Resume Next** statement within an error-handling routine. Using any form of the **Resume** statement outside of an error-handling routine will not reset the **Err** object's properties. The **[Clear](clear-method-visual-basic-for-applications.md)** method can be used to explicitly reset **Err**.
+The **Err** object's properties are reset to zero or zero-length strings ("") after an **Exit Sub**, **Exit Function**, **Exit Property**, or **Resume Next** statement within an error-handling routine. Using any form of the **Resume** statement outside of an error-handling routine will not reset the **Err** object's properties. The **[Clear](clear-method-visual-basic-for-applications.md)** method can be used to explicitly reset **Err**.
 
-Use the **Raise** method, rather than the **Error** statement, to generate run-time errors for system errors and class modules. Using the **Raise** method in other code depends on the richness of the information you want to return.
+Use the **Raise** method, rather than the **[Error](error-statement.md)** statement, to generate run-time errors for system errors and class modules. Using the **Raise** method in other code depends on the richness of the information that you want to return.
 
 The **Err** object is an intrinsic object with global [scope](../../Glossary/vbe-glossary.md#scope). There is no need to create an instance of it in your code.
 
 
 ## Example
 
-This example uses the properties of the **Err** object in constructing an error-message dialog box. Note that if you use the **Clear** method first, when you generate a Visual Basic error with the **Raise** method, Visual Basic's default values become the properties of the **Err** object.
+This example uses the properties of the **Err** object (**Number**, **[Description](description-property-visual-basic-for-applications.md)**, **[HelpContext](helpcontext-property-visual-basic-for-applications.md)**, **[HelpFile](helpfile-property.md)**, **[Source](source-property-visual-basic-for-applications.md)**) in constructing an error-message dialog box. 
+
+Note that if you use the **Clear** method first, when you generate a Visual Basic error with the **Raise** method, Visual Basic's default values become the properties of the **Err** object. 
 
 
 ```vb

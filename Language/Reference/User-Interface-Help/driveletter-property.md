@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# DriveLetter Property
+# DriveLetter property
 
-
-
- **Description**
 Returns the drive letter of a physical local drive or a network share. Read-only.
 
 ## Syntax
 
-_object_. **DriveLetter**
-The  _object_ is always a **Drive** object.
+_object_.**DriveLetter**
+
+The _object_ is always a **[Drive](drive-object.md)** object.
 
 ## Remarks
 
-The  **DriveLetter** property returns a zero-length string ("") if the specified drive is not associated with a drive letter, for example, a network share that has not been mapped to a drive letter.
-The following code illustrates the use of the  **DriveLetter** property:
+The **DriveLetter** property returns a zero-length string ("") if the specified drive is not associated with a drive letter, for example, a network share that has not been mapped to a drive letter.
 
-
+The following code illustrates the use of the **DriveLetter** property.
 
 ```vb
 Sub ShowDriveLetter(drvPath)

@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# Drive Property
+# Drive property
 
-
-
- **Description**
 Returns the drive letter of the drive on which the specified file or folder resides. Read-only.
 
 ## Syntax
 
-_object_. **Drive**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**Drive**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **Drive** property:
-
-
+The following code illustrates the use of the **Drive** property.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)

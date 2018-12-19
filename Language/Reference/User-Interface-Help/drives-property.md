@@ -11,24 +11,21 @@ ms.date: 12/19/2018
 ---
 
 
-# Drives Property
+# Drives property
 
-
-
- **Description**
-Returns a  **Drives** collection consisting of all **Drive** objects available on the local machine.
+Returns a **[Drives](drives-collection.md)** collection consisting of all **[Drive](drive-object.md)** objects available on the local machine.
 
 ## Syntax
 
-_object_. **Drives**
-The  _object_ is always a **FileSystemObject**.
+_object_.**Drives**
+
+The _object_ is always a **[FileSystemObject](filesystemobject-object.md)**.
 
 ## Remarks
 
-Removable-media drives need not have media inserted for them to appear in the  **Drives** collection.
-You can iterate the members of the  **Drives** collection using a **For Each...Next** construct as illustrated in the following code:
+Removable-media drives need not have media inserted for them to appear in the **Drives** collection.
 
-
+You can iterate the members of the **Drives** collection by using a **[For Each...Next](for-eachnext-statement.md)** construct as illustrated in the following code.
 
 ```vb
 Sub ShowDriveList

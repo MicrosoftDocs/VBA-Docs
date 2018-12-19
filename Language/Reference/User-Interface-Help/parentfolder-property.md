@@ -11,23 +11,19 @@ ms.date: 12/19/2018
 ---
 
 
-# ParentFolder Property
+# ParentFolder property
 
-
-
- **Description**
 Returns the folder object for the parent of the specified file or folder. Read-only.
 
 ## Syntax
 
-_object_. **ParentFolder**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**ParentFolder**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **ParentFolder** property with a file:
-
-
+The following code illustrates the use of the **ParentFolder** property with a file.
 
 ```vb
 Sub ShowFileAccessInfo(filespec)
