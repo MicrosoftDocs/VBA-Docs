@@ -35003,9 +35003,15 @@
 ####### [TotalSize](../Language/Reference/User-Interface-Help/totalsize-property.md)
 ####### [VolumeName](../Language/Reference/User-Interface-Help/volumename-property.md)
 ##### [Err object](../Language/Reference/User-Interface-Help/err-object.md)
-###### [Clear method](../Language/Reference/User-Interface-Help/clear-method-visual-basic-for-applications.md)
-###### [Raise method](../Language/Reference/User-Interface-Help/raise-method.md)
-###### [Number property](../Language/Reference/User-Interface-Help/number-property-visual-basic-for-applications.md)
+###### Methods
+####### [Clear](../Language/Reference/User-Interface-Help/clear-method-visual-basic-for-applications.md)
+####### [Raise](../Language/Reference/User-Interface-Help/raise-method.md)
+###### Properties
+####### [Description](../Language/Reference/User-Interface-Help/description-property-visual-basic-for-applications.md)
+####### [HelpContext](../Language/Reference/User-Interface-Help/helpcontext-property-visual-basic-for-applications.md)
+####### [HelpFile](../Language/Reference/User-Interface-Help/helpfile-property.md)
+####### [Number](../Language/Reference/User-Interface-Help/number-property-visual-basic-for-applications.md)
+####### [Source](../Language/Reference/User-Interface-Help/source-property-visual-basic-for-applications.md)
 ##### [File object](../Language/Reference/User-Interface-Help/file-object.md)
 ###### [Files collection](../Language/Reference/User-Interface-Help/files-collection.md)
 ###### Methods
@@ -35088,13 +35094,9 @@
 ###### Properties
 ####### [Calendar](../Language/Reference/User-Interface-Help/calendar-property.md)
 ####### [Count](../Language/Reference/User-Interface-Help/count-property-visual-basic-for-applications.md)
-####### [Description](../Language/Reference/User-Interface-Help/description-property-visual-basic-for-applications.md)
-####### [HelpContext](../Language/Reference/User-Interface-Help/helpcontext-property-visual-basic-for-applications.md)
-####### [HelpFile](../Language/Reference/User-Interface-Help/helpfile-property.md)
 ####### [LastDLLError](../Language/Reference/User-Interface-Help/lastdllerror-property.md)
 ####### [RightToLeft](../Language/Reference/User-Interface-Help/righttoleft-property.md)
 ####### [ShowModal](../Language/Reference/User-Interface-Help/showmodal-property.md)
-####### [Source](../Language/Reference/User-Interface-Help/source-property-visual-basic-for-applications.md)
 ####### [StartUpPosition](../Language/Reference/User-Interface-Help/startupposition-property.md)
 ####### [WhatsThisButton](../Language/Reference/User-Interface-Help/whatsthisbutton-property.md)
 ####### [WhatsThisHelp](../Language/Reference/User-Interface-Help/whatsthishelp-property.md)

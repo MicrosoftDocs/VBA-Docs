@@ -1,31 +1,27 @@
 ---
-title: Size Property (FileSystemObject object)
+title: Size property (FileSystemObject object)
 keywords: vblr6.chm2182000
 f1_keywords:
 - vblr6.chm2182000
 ms.prod: office
 ms.assetid: 8ddecf14-adda-70bd-4d96-42ac0fa18745
-ms.date: 06/08/2017
+ms.date: 12/19/2018
 ---
 
 
-# Size Property (FileSystemObject object)
+# Size property (FileSystemObject)
 
-
-
- **Description**
 For files, returns the size, in bytes, of the specified file. For folders, returns the size, in bytes, of all files and subfolders contained in the folder.
 
 ## Syntax
 
-_object_. **Size**
-The  _object_ is always a **File** or **Folder** object.
+_object_.**Size**
+
+The _object_ is always a **[File](file-object.md)** or **[Folder](folder-object.md)** object.
 
 ## Remarks
 
-The following code illustrates the use of the  **Size** property with a **Folder** object:
-
-
+The following code illustrates the use of the **Size** property with a **Folder** object.
 
 ```vb
 Sub ShowFolderSize(filespec)
@@ -37,4 +33,7 @@ Sub ShowFolderSize(filespec)
 End Sub
 ```
 
+## See also
 
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+- [Visual Basic language reference](visual-basic-language-reference.md)

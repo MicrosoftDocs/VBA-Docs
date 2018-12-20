@@ -1,5 +1,5 @@
 ---
-title: Column property
+title: Column property (Microsoft Forms)
 keywords: fm20.chm2000930
 f1_keywords:
 - fm20.chm2000930
