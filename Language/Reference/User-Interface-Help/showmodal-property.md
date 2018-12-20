@@ -13,7 +13,7 @@ ms.date: 12/19/2018
 
 # ShowModal property
 
-Sets a **[UserForm](userform-object)** to be modal or modeless in its display. Read-only at [run time](../../Glossary/vbe-glossary.md#run-time).
+Sets a **[UserForm](userform-object.md)** to be modal or modeless in its display. Read-only at [run time](../../Glossary/vbe-glossary.md#run-time).
 
 ## Remarks
 
