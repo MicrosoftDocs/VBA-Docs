@@ -29,6 +29,12 @@ Sub ShowFileInfo(filespec)
 End Sub
 ```
 
+## Collections
+
+|Collection|Description|
+|:---------|:----------|
+|[Files](files-collection.md)|Returns a collection of all the files in a specified folder. |
+
 ## Methods
 
 |Method|Description|
@@ -36,7 +42,7 @@ End Sub
 |[Copy](copy-method-visual-basic-for-applications.md)|Copies a specified file from one location to another. |
 |[Delete](delete-method-visual-basic-for-applications.md)|Deletes a specified file. |
 |[Move](move-method-filesystemobject-object.md)|Moves a specified file from one location to another. |
-|[OpenAsTextStream](openastextstream-method.md)|Opens a specified file and returns a [TextStream](textstream-object.md) object to access the file. |
+|[OpenAsTextStream](openastextstream-method.md)|Opens a specified file and returns a **[TextStream](textstream-object.md)** object to access the file. |
 
 ## Properties
 
@@ -59,4 +65,5 @@ End Sub
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
+
 

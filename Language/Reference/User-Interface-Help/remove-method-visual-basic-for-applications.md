@@ -22,7 +22,7 @@ The **Remove** method syntax has the following object qualifier and part:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
-| _index_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that specifies the position of a member of the [collection](../../Glossary/vbe-glossary.md#collection). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), _index_ must be a number from 1 to the value of the collection's **Count** [property](../../Glossary/vbe-glossary.md#property). If a [string expression](../../Glossary/vbe-glossary.md#string-expression), _index_ must correspond to the _key_ [argument](../../Glossary/vbe-glossary.md#argument) specified when the member referred to was added to the collection.|
+| _index_|Required. An [expression](../../Glossary/vbe-glossary.md#expression) that specifies the position of a member of the [collection](../../Glossary/vbe-glossary.md#collection). If a [numeric expression](../../Glossary/vbe-glossary.md#numeric-expression), _index_ must be a number from 1 to the value of the collection's **[Count](count-property-visual-basic-for-applications.md)** property. If a [string expression](../../Glossary/vbe-glossary.md#string-expression), _index_ must correspond to the _key_ [argument](../../Glossary/vbe-glossary.md#argument) specified when the member referred to was added to the collection.|
 
 ## Remarks
 
@@ -46,6 +46,4 @@ Next Num
 
 ## See also
 
-- [Count property (Visual Basic for Applications)](count-property-visual-basic-for-applications.md)
-- [Count property (FileSystemObject object)](count-property-filesystemobject-object.md)
 - [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)

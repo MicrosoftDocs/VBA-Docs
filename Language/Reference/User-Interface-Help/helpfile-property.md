@@ -17,7 +17,7 @@ Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expr
 
 ## Remarks
 
-If a Help file is specified in **HelpFile**, it is automatically called when the user presses the **Help** button (or the F1 KEY in Windows or the HELP key on the Macintosh) in the error message dialog box. If the **HelpContext** property contains a valid context ID for the specified file, that topic is automatically displayed. If no **HelpFile** is specified, the Visual Basic Help file is displayed.
+If a Help file is specified in **HelpFile**, it is automatically called when the user presses the **Help** button (or the F1 KEY in Windows or the HELP key on the Macintosh) in the error message dialog box. If the **[HelpContext](helpcontext-property-visual-basic-for-applications.md)** property contains a valid context ID for the specified file, that topic is automatically displayed. If no **HelpFile** is specified, the Visual Basic Help file is displayed.
 
 > [!NOTE] 
 > You should write routines in your application to handle typical errors. When programming with an object, you can use the object's Help file to improve the quality of your error handling, or to display a meaningful message to your user if the error isn't recoverable.

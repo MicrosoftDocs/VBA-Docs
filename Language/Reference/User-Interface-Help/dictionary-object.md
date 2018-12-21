@@ -23,7 +23,7 @@ Object that stores data key/item pairs.
 
 A **Dictionary** object is the equivalent of a PERL associative array. Items, which can be any form of data, are stored in the array. Each item is associated with a unique key. The key is used to retrieve an individual item and is usually an integer or a string, but can be anything except an array.
 
-The following code illustrates how to create a **Dictionary** object:
+The following code illustrates how to create a **Dictionary** object.
 
 ```vb
 Dim d                   'Create a variable
@@ -58,7 +58,7 @@ d.Add "c", "Cairo"
 ## See also
 
 
-- [Dictionary object (Windows Scripting)](https://docs.microsoft.com/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/x4k5wbx4(v%3dvs.84))
+- [Dictionary object (Windows Scripting previous version)](https://docs.microsoft.com/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/x4k5wbx4(v%3dvs.84))
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 

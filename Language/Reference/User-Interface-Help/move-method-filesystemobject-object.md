@@ -9,7 +9,7 @@ ms.date: 12/14/2018
 ---
 
 
-# Move method (FileSystemObject object)
+# Move method (FileSystemObject)
 
 Moves a specified file or folder from one location to another.
 

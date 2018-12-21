@@ -17,7 +17,7 @@ Provides access to the properties of a particular disk drive or network share.
 
 ## Remarks
 
-The following code illustrates the use of the **Drive** object to access drive properties:
+The following code illustrates the use of the **Drive** object to access drive properties.
 
 ```vb
 Sub ShowFreeSpace(drvPath)
@@ -42,8 +42,8 @@ End Sub
 |[FileSystem](filesystem-property.md)|Returns the file system in use for a specified drive. |
 |[FreeSpace](freespace-property.md)|Returns the amount of free space to a user on a specified drive or network share. |
 |[IsReady](isready-property.md)|Returns true if the specified drive is ready, and false if not. |
-|[Path (FileSystemObject object)](path-property-filesystemobject-object.md)|Returns an uppercase letter followed by a colon that indicates the path name for a specified drive. |
-|[RootFolder](rootfolder-property.md)|Returns a **Folder** object that represents the root folder of a specified drive. |
+|[Path](path-property-filesystemobject-object.md)|Returns an uppercase letter followed by a colon that indicates the path name for a specified drive. |
+|[RootFolder](rootfolder-property.md)|Returns a **[Folder](folder-object.md)** object that represents the root folder of a specified drive. |
 |[SerialNumber](serialnumber-property.md)|Returns the serial number of a specified drive. |
 |[ShareName](sharename-property.md)|Returns the network share name for a specified drive. |
 |[TotalSize](totalsize-property.md)|Returns the total size of a specified drive or network share. |

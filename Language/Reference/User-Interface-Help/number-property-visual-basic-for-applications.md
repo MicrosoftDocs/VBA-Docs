@@ -15,10 +15,10 @@ Returns or sets a numeric value specifying an error. **Number** is the **[Err](e
 
 ## Remarks
 
-When returning a user-defined error from an object, set **Err.Number** by adding the number you selected as an error code to the **vbObjectError** [constant](../../Glossary/vbe-glossary.md#constant). For example, you use the following code to return the number 1051 as an error code:
+When returning a user-defined error from an object, set **Err.Number** by adding the number you selected as an error code to the **[vbObjectError](miscellaneous-constants.md)** constant. For example, you use the following code to return the number 1051 as an error code:
 
 ```vb
-Err.Raise Number := vbObjectError + 1051, Source:= "SomeClass"
+Err.Raise Number := vbObjectError + 1051, Source := "SomeClass"
 
 ```
 
@@ -40,7 +40,7 @@ Sub test()
     x = 1 / y    ' Create division by zero error
     Exit Sub
     out:
-    MsgBox Err. Number
+    MsgBox Err.Number
     MsgBox Err.Description
     ' Check for division by zero error
     If Err.Number = 11 Then
@@ -58,7 +58,7 @@ End Sub
 Dim MyError, Msg
 ' First, strip off the constant added by the object to indicate one
 ' of its own errors.
-MyError = Err. Number - vbObjectError
+MyError = Err.Number - vbObjectError
 ' If you subtract the vbObjectError constant, and the number is still 
 ' in the range 0-65,535, it is an object-defined error code.
 If MyError > 0 And MyError < 65535 Then
@@ -67,7 +67,7 @@ If MyError > 0 And MyError < 65535 Then
             & Err.Source & ". Press F1 to see originator's Help topic."
 ' Otherwise it is a Visual Basic error number.
 Else
-    Msg = "This error (# " & Err. Number & ") is a Visual Basic error" & _
+    Msg = "This error (# " & Err.Number & ") is a Visual Basic error" & _
             " number. Press Help button or F1 for the Visual Basic Help" _
             & " topic for this error."
 End If

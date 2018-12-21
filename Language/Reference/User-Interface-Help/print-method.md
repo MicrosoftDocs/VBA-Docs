@@ -47,7 +47,7 @@ The _outputlist_ [argument](../../Glossary/vbe-glossary.md#argument) has the fol
 
 Multiple expressions can be separated with either a space or a semicolon.
 
-All data printed to the Immediate window is properly formatted using the decimal separator for the [locale](../../Glossary/vbe-glossary.md#locale) settings specified for your system. The [keywords](../../Glossary/vbe-glossary.md#keyword) are output in the appropriate language for the [host application](../../Glossary/vbe-glossary.md#host-application).
+All data printed to the Immediate window is properly formatted by using the decimal separator for the [locale](../../Glossary/vbe-glossary.md#locale) settings specified for your system. The [keywords](../../Glossary/vbe-glossary.md#keyword) are output in the appropriate language for the [host application](../../Glossary/vbe-glossary.md#host-application).
 
 For [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) data, either `True` or `False` is printed. The **True** and **False** keywords are translated according to the locale setting for the host application.
 

@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # Skip method
 
-Skips a specified number of characters when reading a **[TextStream](textstream-object.md)** file.
+Skips a specified number of characters when reading a **TextStream** file.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ The **Skip** method syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a **TextStream** object.|
+| _object_|Required. Always the name of a **[TextStream](textstream-object.md)** object.|
 | _characters_|Required. Number of characters to skip when reading a file.|
 
 ## Remarks

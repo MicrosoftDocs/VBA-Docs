@@ -9,9 +9,9 @@ ms.date: 12/14/2018
 ---
 
 
-# Remove method (FileSystemObject object)
+# Remove method (FileSystemObject)
 
-Removes a key, item pair from a **[Dictionary](dictionary-object.md)** object.
+Removes a key/item pair from a **[Dictionary](dictionary-object.md)** object.
 
 ## Syntax
 
@@ -24,13 +24,13 @@ The **Remove** method syntax has these parts:
 |Part|Description|
 |:-----|:-----|
 | _object_|Required. Always the name of a **Dictionary** object.|
-| _key_|Required. _Key_ associated with the key, item pair that you want to remove from the **Dictionary** object.|
+| _key_|Required. _Key_ associated with the key/item pair that you want to remove from the **Dictionary** object.|
 
 ## Remarks
 
-An error occurs if the specified key, item pair does not exist.
+An error occurs if the specified key/item pair does not exist.
 
-The following code illustrates use of the **Remove** method:
+The following code illustrates use of the **Remove** method.
 
 ```vb
 Dim a, d, i             'Create some variables

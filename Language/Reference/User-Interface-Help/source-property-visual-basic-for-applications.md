@@ -37,9 +37,9 @@ Dim MyClass, MyObjectID, MyHelpFile, MyHelpContext
 ' combination of the Title property of the App object and the Name
 ' property of the MyClass object.
 MyObjectID = App.Title & "." & MyClass.Name
-Err. Raise    Number := vbObjectError + 894, Source := MyObjectID, _
-                Description := "Was not able to complete your task", _
-                HelpFile := MyHelpFile, HelpContext := MyHelpContext 
+Err.Raise Number := vbObjectError + 894, Source := MyObjectID, _
+          Description := "Was not able to complete your task", _
+          HelpFile := MyHelpFile, HelpContext := MyHelpContext 
 
 ```
 

@@ -17,7 +17,7 @@ Collection of all **[Folder](folder-object.md)** objects contained within a **Fo
 
 ## Remarks
 
-The following code illustrates how to get a **Folders** collection and how to iterate the collection by using the **For Each...Next** statement:
+The following code illustrates how to get a **Folders** collection and how to iterate the collection by using the **[For Each...Next](for-eachnext-statement.md)** statement.
 
 ```vb
 Sub ShowFolderList(folderspec)
