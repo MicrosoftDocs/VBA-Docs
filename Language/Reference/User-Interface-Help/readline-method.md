@@ -13,13 +13,13 @@ ms.date: 12/14/2018
 
 # ReadLine method
 
-Reads an entire line (up to, but not including, the newline character) from a **[TextStream](textstream-object.md)** file and returns the resulting string.
+Reads an entire line (up to, but not including, the newline character) from a **TextStream** file and returns the resulting string.
 
 ## Syntax
 
 _object_.**ReadLine**
 
-The _object_ argument is always the name of a **TextStream** object.
+The _object_ argument is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## See also
 

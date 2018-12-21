@@ -13,7 +13,7 @@ ms.date: 11/12/2018
 
 # Debug object
 
-The **Debug** object has two methods, **Print** and **Assert**. 
+The **Debug** object has two methods, **[Print](print-method.md)** and **[Assert](assert-method.md)**. 
 
 The **Print** string expression sends string expr as output to the [Immediate window](immediate-window.md) at **Debug** [run time](../../Glossary/vbe-glossary.md#run-time).
 

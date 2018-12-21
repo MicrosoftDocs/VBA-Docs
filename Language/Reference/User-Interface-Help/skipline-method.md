@@ -13,13 +13,13 @@ ms.date: 12/14/2018
 
 # SkipLine method
 
-Skips the next line when reading a **[TextStream](textstream-object.md)** file.
+Skips the next line when reading a **TextStream** file.
 
 ## Syntax
 
 _object_.**SkipLine**
 
-The _object_ is always the name of a **TextStream** object.
+The _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 

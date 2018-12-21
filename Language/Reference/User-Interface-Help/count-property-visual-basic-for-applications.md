@@ -19,7 +19,7 @@ This example uses the **[Collection](collection-object.md)** object's **Count** 
 
 ```vb
 Dim Num, MyClasses
-For Num = 1 To MyClasses. Count    ' Remove name from the collection.
+For Num = 1 To MyClasses.Count    ' Remove name from the collection.
     MyClasses.Remove 1    ' Default collection numeric indexes
 Next    ' begin at 1.
 ```

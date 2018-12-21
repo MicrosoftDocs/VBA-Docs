@@ -13,7 +13,7 @@ ms.date: 12/14/2018
 
 # Write method
 
-Writes a specified string to a **[TextStream](textstream-object.md)** file.
+Writes a specified string to a **TextStream** file.
 
 ## Syntax
 
@@ -25,7 +25,7 @@ The **Write** method syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a **TextStream** object.|
+| _object_|Required. Always the name of a **[TextStream](textstream-object.md)** object.|
 | _string_|Required. The text you want to write to the file.|
 
 ## Remarks

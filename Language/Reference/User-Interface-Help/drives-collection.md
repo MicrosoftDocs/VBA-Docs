@@ -19,7 +19,7 @@ Read-only collection of all available drives.
 
 Removable-media drives need not have media inserted for them to appear in the **Drives** collection.
 
-The following code illustrates how to get the **Drives** collection and iterate the collection by using the **For Each...Next** statement:
+The following code illustrates how to get the **Drives** collection and iterate the collection by using the **[For Each...Next](for-eachnext-statement.md)** statement:
 
 ```vb
 Sub ShowDriveList
@@ -41,6 +41,7 @@ End Sub
 
 ## See also
 
+- [Drive object](drive-object.md)
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 

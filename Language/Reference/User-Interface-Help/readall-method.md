@@ -13,13 +13,13 @@ ms.date: 12/14/2018
 
 # ReadAll method
 
-Reads an entire **[TextStream](textstream-object.md)** file and returns the resulting string.
+Reads an entire **TextStream** file and returns the resulting string.
 
 ## Syntax
 
 _object_.**ReadAll**
 
-The _object_ is always the name of a **TextStream** object.
+The _object_ is always the name of a **[TextStream](textstream-object.md)** object.
 
 ## Remarks
 

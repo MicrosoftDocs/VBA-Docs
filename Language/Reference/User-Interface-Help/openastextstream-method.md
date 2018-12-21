@@ -25,7 +25,7 @@ The **OpenAsTextStream** method syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _object_|Required. Always the name of a **File** object.|
+| _object_|Required. Always the name of a **[File](file-object.md)** object.|
 | _iomode_|Optional. Indicates input/output mode. Can be one of three constants: **ForReading**, **ForWriting**, or **ForAppending**.|
 | _format_|Optional. One of three **Tristate** values used to indicate the format of the opened file. If omitted, the file is opened as ASCII.|
 
