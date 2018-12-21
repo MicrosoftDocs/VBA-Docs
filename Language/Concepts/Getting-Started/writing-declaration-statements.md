@@ -1,5 +1,5 @@
 ---
-title: Writing Declaration Statements
+title: Writing Declaration Statements (VBA)
 keywords: vbcn6.chm1076693
 f1_keywords:
 - vbcn6.chm1076693
@@ -31,8 +31,7 @@ The  **Dim** statement declares the `myCell` variable. The data type is an objec
 
 ## See also
 
-
-[Writing a Sub Procedure](writing-a-sub-procedure.md)
-[Declaring Constants](declaring-constants.md)
-[Declaring Variables](declaring-variables.md)
-
+- [Writing a Sub procedure](writing-a-sub-procedure.md)
+- [Declaring constants](declaring-constants.md)
+- [Declaring variables](declaring-variables.md)
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

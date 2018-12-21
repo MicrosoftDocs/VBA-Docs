@@ -1,5 +1,5 @@
 ---
-title: Understanding Objects, Properties, Methods, and Events
+title: Understanding Objects, Properties, Methods, and Events (VBA)
 keywords: vbcn6.chm1076676
 f1_keywords:
 - vbcn6.chm1076676
@@ -86,4 +86,6 @@ An event is an action recognized by an object, such as clicking the mouse or pre
 
 Every application has a way to return the objects it contains. However, they are not all the same, so you must refer to the Help topic for the object or collection you are using in the application to see how to return the object.
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

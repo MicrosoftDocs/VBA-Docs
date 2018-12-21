@@ -1,5 +1,5 @@
 ---
-title: Writing a Property Procedure
+title: Writing a Property Procedure (VBA)
 keywords: vbcn6.chm1101346
 f1_keywords:
 - vbcn6.chm1101346
@@ -63,3 +63,6 @@ End Property
 
 The data type of the final argument in a  **Property Set** declaration must be either an [object type](../../Glossary/vbe-glossary.md#object-type) or a **Variant**.
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

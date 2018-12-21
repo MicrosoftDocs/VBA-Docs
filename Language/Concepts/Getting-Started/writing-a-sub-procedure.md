@@ -1,5 +1,5 @@
 ---
-title: Writing a Sub Procedure
+title: Writing a Sub Procedure (VBA)
 keywords: vbcn6.chm1076691
 f1_keywords:
 - vbcn6.chm1076691
@@ -38,4 +38,6 @@ answer = InputBox(Prompt:="What is your name?")
 End Sub
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

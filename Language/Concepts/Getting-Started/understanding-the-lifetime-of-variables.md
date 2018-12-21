@@ -1,5 +1,5 @@
 ---
-title: Understanding the Lifetime of Variables
+title: Understanding the Lifetime of Variables (VBA)
 keywords: vbcn6.chm1076736
 f1_keywords:
 - vbcn6.chm1076736
@@ -23,3 +23,6 @@ If a procedure-level variable is declared with the  **Static** keyword, the vari
 A module-level variable differs from a static variable. In a [standard module](../../Glossary/vbe-glossary.md#standard-module) or a [class module](../../Glossary/vbe-glossary.md#class-module), it retains its value until you stop running your code. In a class module, it retains its value as long as an instance of the class exists. Module-level variables consume memory resources until you reset their values, so use them only when necessary.
 If you include the  **Static** keyword before a **Sub** or **Function** statement, the values of all the procedure-level variables in the procedure are preserved between calls.
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

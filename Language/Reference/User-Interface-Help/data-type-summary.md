@@ -11,6 +11,8 @@ ms.date: 11/19/2018
 
 # Data type summary
 
+A data type is the characteristic of a variable that determines what kind of data it can hold. Data types include those in the following table as well as user-defined types and specific types of objects.
+
 ## Set intrinsic data types
 
 The following table shows the supported [data types](../../Glossary/vbe-glossary.md#data-type), including storage sizes and ranges.

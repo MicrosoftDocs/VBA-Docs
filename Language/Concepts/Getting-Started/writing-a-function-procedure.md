@@ -1,5 +1,5 @@
 ---
-title: Writing a Function Procedure
+title: Writing a Function Procedure (VBA)
 keywords: vbcn6.chm1076690
 f1_keywords:
 - vbcn6.chm1076690
@@ -29,4 +29,6 @@ Function Celsius(fDegrees)
 End Function
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

@@ -1,5 +1,5 @@
 ---
-title: Using Arrays
+title: Using Arrays (VBA)
 keywords: vbcn6.chm1076800
 f1_keywords:
 - vbcn6.chm1076800
@@ -129,4 +129,6 @@ Sub FillArrayMulti()
 End Sub
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

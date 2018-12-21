@@ -1,5 +1,5 @@
 ---
-title: VarType Constants
+title: VarType Constants (VBA)
 keywords: vblr6.chm1012527
 f1_keywords:
 - vblr6.chm1012527
@@ -37,3 +37,6 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 |**vbUserDefinedType**|36|Variants that contain user-defined types|
 |**vbArray**|8192|Array|
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

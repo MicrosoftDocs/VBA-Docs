@@ -1,5 +1,5 @@
 ---
-title: Using Constants
+title: Using Constants (VBA)
 keywords: vbcn6.chm1076680
 f1_keywords:
 - vbcn6.chm1076680
@@ -90,3 +90,6 @@ Threed.LeftJustify
 ```
 
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

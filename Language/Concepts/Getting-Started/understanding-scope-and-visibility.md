@@ -1,5 +1,5 @@
 ---
-title: Understanding Scope and Visibility
+title: Understanding Scope and Visibility (VBA)
 keywords: vbcn6.chm1076771
 f1_keywords:
 - vbcn6.chm1076771
@@ -76,4 +76,6 @@ You can use public procedures, variables, and constants defined in standard modu
 
 Public procedures, variables, and constants defined in other than standard or class modules, such as [form modules](../../Glossary/vbe-glossary.md#form-module) or report modules, are not available to referencing projects, because these modules are private to the project in which they reside.
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

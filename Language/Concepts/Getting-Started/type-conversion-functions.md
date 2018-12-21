@@ -1,11 +1,11 @@
 ---
-title: Type conversion functions
+title: Type conversion functions (VBA)
 keywords: vblr6.chm1008820
 f1_keywords:
 - vblr6.chm1008820
 ms.prod: office
 ms.assetid: fd602e34-9de2-1e8b-46fe-6a2873d6a785
-ms.date: 08/24/2018
+ms.date: 12/21/2018
 ---
 
 
@@ -235,5 +235,4 @@ MyVar = CVar(MyInt & 000) ' MyVar contains the string
 
 - [Data types summary](../../reference/user-interface-help/data-type-summary.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
-
-
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
