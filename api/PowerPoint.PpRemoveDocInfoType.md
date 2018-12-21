@@ -15,6 +15,7 @@ Constants that specify the type of document information, passed to the **[Remove
 |Name|Value|Description|
 |:---|:----|:----------|
 |**ppRDIAll**|99|Remove all document information.|
+|**ppRDIAtMentions**|18|Remove resolved @mentioned users from comments.|
 |**ppRDIComments**|1|Remove comments.|
 |**ppRDIContentType**|16|Remove content type information.|
 |**ppRDIDocumentManagementPolicy**|15|Remove document management policy information.|
@@ -25,4 +26,3 @@ Constants that specify the type of document information, passed to the **[Remove
 |**ppRDIPublishPath**|13|Remove publication path information.|
 |**ppRDIRemovePersonalInformation**|4|Remove personal information.|
 |**ppRDISlideUpdateInformation**|17|Remove slide update information.|
-
