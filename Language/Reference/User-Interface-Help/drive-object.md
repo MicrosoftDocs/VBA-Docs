@@ -32,6 +32,12 @@ Sub ShowFreeSpace(drvPath)
 End Sub
 ```
 
+## Collections
+
+|Collection|Description|
+|:---------|:----------|
+|[Drives](drives-collection.md)|Read-only collection of all available drives. |
+
 ## Properties
 
 |Property|Description|
@@ -51,5 +57,6 @@ End Sub
 
 ## See also
 
+- [Drives property](drives-property.md)
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)

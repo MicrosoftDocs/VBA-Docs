@@ -36,4 +36,4 @@ The **Delete** method does not distinguish between folders that have contents an
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

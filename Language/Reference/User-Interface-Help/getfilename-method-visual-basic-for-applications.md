@@ -35,4 +35,4 @@ The **GetFileName** method returns a zero-length string ("") if _pathspec_ does 
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

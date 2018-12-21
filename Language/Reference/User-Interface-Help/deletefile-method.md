@@ -35,4 +35,4 @@ An error occurs if no matching files are found. The **DeleteFile** method stops 
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

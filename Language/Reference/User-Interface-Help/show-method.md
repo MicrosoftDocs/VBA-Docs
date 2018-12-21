@@ -76,4 +76,4 @@ End Sub
 ## See also
 
 - [ShowModal property](showmodal-property.md)
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

@@ -84,7 +84,7 @@ In the example code:
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Properties (Visual Basic for Applications)](../properties-visual-basic-for-applications.md)
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)

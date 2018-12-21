@@ -32,4 +32,5 @@ You can click a toolbar button once to carry out the action represented by that 
 
 - [Format menu](format-menu.md)
 - [UserForm window](userform-window.md)
+- [UserForm object](userform-object.md)
 - [Toolbars](../toolbars.md)

@@ -46,4 +46,4 @@ Assuming the current directory is c:\mydocuments\reports, the following table il
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

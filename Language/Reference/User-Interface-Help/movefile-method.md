@@ -44,5 +44,5 @@ An error also occurs if a wildcard character that is used in _source_ doesn't ma
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 
