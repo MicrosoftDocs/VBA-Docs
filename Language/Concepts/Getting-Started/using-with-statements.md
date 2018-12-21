@@ -1,5 +1,5 @@
 ---
-title: Using With Statements
+title: Using With Statements (VBA)
 keywords: vbcn6.chm1076687
 f1_keywords:
 - vbcn6.chm1076687
@@ -44,4 +44,6 @@ Sub MyInput()
 End Sub
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

@@ -1,5 +1,5 @@
 ---
-title: Understanding Variants
+title: Understanding Variants (VBA)
 keywords: vbcn6.chm1076678
 f1_keywords:
 - vbcn6.chm1076678
@@ -29,3 +29,6 @@ The last statement does not explicitly declare the variable , but rather declare
  **Tip**  If you specify a data type for a variable or argument, and then use the wrong data type, a data type error will occur. To avoid data type errors, either use only implicit variables (the  **Variant** data type) or explicitly declare all your variables and specify a data type. The latter method is preferred.
 
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

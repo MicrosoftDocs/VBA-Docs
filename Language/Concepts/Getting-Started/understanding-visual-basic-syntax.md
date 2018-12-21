@@ -1,5 +1,5 @@
 ---
-title: Understanding Visual Basic Syntax
+title: Understanding Visual Basic Syntax (VBA)
 keywords: vbcn6.chm1076679
 f1_keywords:
 - vbcn6.chm1076679
@@ -119,4 +119,6 @@ Dim myArray()
 
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

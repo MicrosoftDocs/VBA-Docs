@@ -1,5 +1,5 @@
 ---
-title: Writing Data to Files
+title: Writing Data to Files (VBA)
 keywords: vbcn6.chm1010980
 f1_keywords:
 - vbcn6.chm1010980
@@ -32,3 +32,6 @@ The following table shows the statements typically used when writing data to and
 |Random|**Put**|**Get**|
 |Binary|**Put**|**Get**|
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

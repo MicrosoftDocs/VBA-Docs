@@ -1,17 +1,17 @@
 ---
-title: Declaring variables
+title: Declaring variables (VBA)
 keywords: vbcn6.chm1076702
 f1_keywords:
 - vbcn6.chm1076702
 ms.prod: office
 ms.assetid: 42230f9e-e02f-14d9-8f7b-75441818e6c6
-ms.date: 11/19/2018
+ms.date: 12/21/2018
 ---
 
 
 # Declaring variables
 
-When declaring [variables](../../Glossary/vbe-glossary.md#variable), you usually use a **Dim** statement. A declaration statement can be placed within a procedure to create a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable. Or it may be placed at the top of a [module](../../Glossary/vbe-glossary.md#module), in the Declarations section, to create a [module-level](../../Glossary/vbe-glossary.md#module-level) variable.
+When declaring [variables](../../Glossary/vbe-glossary.md#variable), you usually use a **[Dim](../../reference/user-interface-help/dim-statement.md)** statement. A declaration statement can be placed within a procedure to create a [procedure-level](../../Glossary/vbe-glossary.md#procedure-level) variable. Or it may be placed at the top of a [module](../../Glossary/vbe-glossary.md#module), in the Declarations section, to create a [module-level](../../Glossary/vbe-glossary.md#module-level) variable.
 
 The following example creates the variable and specifies the [String data type](../../Glossary/vbe-glossary.md#string-data-type).
 
@@ -21,19 +21,19 @@ Dim strName As String
 
 If this statement appears within a procedure, the variable `strName` can be used only in that procedure. If the statement appears in the Declarations section of the module, the variable `strName` is available to all procedures within the module, but not to procedures in other modules in the [project](../../Glossary/vbe-glossary.md#project). 
 
-To make this variable available to all procedures in the project, precede it with the **Public** statement, as in the following example:
+To make this variable available to all procedures in the project, precede it with the **[Public](../../reference/user-interface-help/public-statement.md)** statement, as in the following example:
 
 ```vb
 Public strName As String 
 ```
 
-For information about naming your variables, see [Visual Basic naming rules](visual-basic-naming-rules.md) in Visual Basic Help.
+For information about naming your variables, see [Visual Basic naming rules](visual-basic-naming-rules.md).
 
-Variables can be declared as one of the following data types: **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) using the **Type** statement. 
+Variables can be declared as one of the following [data types](../../reference/user-interface-help/data-type-summary.md): **Boolean**, **Byte**, **Integer**, **Long**, **Currency**, **Single**, **Double**, **Date**, **String** (for variable-length strings), **String * _length_** (for fixed-length strings), **Object**, or **Variant**. If you do not specify a data type, the **Variant** data type is assigned by default. You can also create a [user-defined type](../../Glossary/vbe-glossary.md#user-defined-type) by using the **[Type](../../reference/user-interface-help/type-statement.md)** statement. 
 
-For more information about data types, see [Data type summary](../../reference/user-interface-help/data-type-summary.md) in Visual Basic Help.
+You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. 
 
-You can declare several variables in one statement. To specify a data type, you must include the data type for each variable. In the following statement, the variables `intX`, `intY`, and `intZ` are declared as type **Integer**.
+In the following statement, the variables `intX`, `intY`, and `intZ` are declared as type **Integer**.
 
 ```vb
 Dim intX As Integer, intY As Integer, intZ As Integer 
@@ -60,7 +60,7 @@ Public variables can be used in any procedures in the project. If a public varia
 
 ## Private statement
 
-You can use the **Private** statement to declare private module-level variables.
+You can use the **[Private](../../reference/user-interface-help/private-statement.md)** statement to declare private module-level variables.
 
 ```vb
 Private MyName As String 
@@ -73,13 +73,13 @@ Private variables can be used only by procedures in the same module.
 
 ## Static statement
 
-When you use the **Static** statement instead of a **Dim** statement to declare a variable in a procedure, the declared variable will retain its value between calls to that procedure.
+When you use the **[Static](../../reference/user-interface-help/static-statement.md)** statement instead of a **Dim** statement to declare a variable in a procedure, the declared variable will retain its value between calls to that procedure.
 
 ## Option Explicit statement
 
 You can implicitly declare a variable in Visual Basic simply by using it in an assignment statement. All variables that are implicitly declared are of type **Variant**. Variables of type **Variant** require more memory resources than most other variables. Your application will be more efficient if you declare variables explicitly and with a specific data type. Explicitly declaring all variables reduces the incidence of naming-conflict errors and spelling mistakes.
 
-If you don't want Visual Basic to make implicit declarations, you can place the **Option Explicit** statement in a module before any procedures. This statement requires you to explicitly declare all variables within the module. If a module includes the **Option Explicit** statement, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error will occur when Visual Basic encounters a variable name that has not been previously declared, or that has been spelled incorrectly.
+If you don't want Visual Basic to make implicit declarations, you can place the **[Option Explicit](../../reference/user-interface-help/option-explicit-statement.md)** statement in a module before any procedures. This statement requires you to explicitly declare all variables within the module. If a module includes the **Option Explicit** statement, a [compile-time](../../Glossary/vbe-glossary.md#compile-time) error will occur when Visual Basic encounters a variable name that has not been previously declared, or that has been spelled incorrectly.
 
 You can set an option in your Visual Basic programming environment to automatically include the **Option Explicit** statement in all new modules. See your application's documentation for help on how to change Visual Basic environment options. Note that this option does not change existing code that you have written.
 
@@ -89,15 +89,17 @@ You can set an option in your Visual Basic programming environment to automatica
 
 ## Declaring an object variable for automation
 
-When you use one application to control another application's objects, you should set a reference to the other application's [type library](../../Glossary/vbe-glossary.md#type-library). After you set a reference, you can declare [object variables](../../Glossary/vbe-glossary.md#object-variable) according to their most specific type. For example, if you are in Microsoft Word when you set a reference to the Microsoft Excel type library, you can declare a variable of type **Worksheet** from within Microsoft Word to represent a Microsoft Excel **Worksheet** object.
+When you use one application to control another application's objects, you should set a reference to the other application's [type library](../../Glossary/vbe-glossary.md#type-library). After you set a reference, you can declare [object variables](../../Glossary/vbe-glossary.md#object-variable) according to their most specific type. For example, if you are in Microsoft Word when you set a reference to the Microsoft Excel type library, you can declare a variable of type **Worksheet** from within Word to represent an Excel **Worksheet** object.
 
-If you are using another application to control Microsoft Access objects, in most cases, you can declare object variables according to their most specific type. You can also use the **New** keyword to create a new instance of an object automatically. However, you may have to indicate that it is a Microsoft Access object. For example, when you declare an object variable to represent a Microsoft Access form from within Microsoft Visual Basic, you must distinguish the Microsoft Access **Form** object from a Visual Basic **Form** object. Include the name of the type library in the variable declaration, as in the following example:
+If you are using another application to control Microsoft Access objects, in most cases, you can declare object variables according to their most specific type. You can also use the **New** keyword to create a new instance of an object automatically. However, you may have to indicate that it is a Microsoft Access object. For example, when you declare an object variable to represent an Access form from within Visual Basic, you must distinguish the Access **Form** object from a Visual Basic **Form** object. Include the name of the type library in the variable declaration, as in the following example:
 
 ```vb
 Dim frmOrders As New Access.Form 
 ```
 
-Some applications don't recognize individual Microsoft Access object types. Even if you set a reference to the Microsoft Access type library from these applications, you must declare all Microsoft Access object variables as type **Object**. Nor can you use the **New** keyword to create a new instance of the object. The following example shows how to declare a variable to represent an instance of the Microsoft Access **Application** object from an application that doesn't recognize Microsoft Access object types. The application then creates an instance of the **Application** object.
+Some applications don't recognize individual Access object types. Even if you set a reference to the Access type library from these applications, you must declare all Access object variables as type **Object**. Nor can you use the **New** keyword to create a new instance of the object. 
+
+The following example shows how to declare a variable to represent an instance of the Access **Application** object from an application that doesn't recognize Access object types. The application then creates an instance of the **Application** object.
 
 ```vb
 Dim appAccess As Object 
@@ -112,3 +114,4 @@ To determine which syntax an application supports, see the application's documen
 - [Data type summary](../../reference/user-interface-help/data-type-summary.md)
 - [Data types keyword summary](../../reference/user-interface-help/data-types-keyword-summary.md)
 - [Variables and constants keyword summary](../../reference/user-interface-help/variables-and-constants-keyword-summary.md)
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

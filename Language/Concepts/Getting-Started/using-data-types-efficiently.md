@@ -1,5 +1,5 @@
 ---
-title: Using Data Types Efficiently
+title: Using Data Types Efficiently (VBA)
 keywords: vbcn6.chm1009792
 f1_keywords:
 - vbcn6.chm1009792
@@ -45,3 +45,6 @@ X = 5.9        ' Sets x to 6.
 ```
 
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

@@ -59,4 +59,4 @@ An error also occurs if a _source_ using wildcard characters doesn't match any f
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

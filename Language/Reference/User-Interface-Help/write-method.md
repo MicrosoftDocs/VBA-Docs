@@ -34,4 +34,4 @@ Specified strings are written to the file with no intervening spaces or characte
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

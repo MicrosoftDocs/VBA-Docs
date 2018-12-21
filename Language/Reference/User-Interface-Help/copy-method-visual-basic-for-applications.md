@@ -33,4 +33,4 @@ The results of the **Copy** method on a **File** or **Folder** are identical to 
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

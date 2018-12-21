@@ -37,4 +37,4 @@ The **GetDriveName** method returns a zero-length string ("") if the drive can't
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

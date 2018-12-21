@@ -1,5 +1,5 @@
 ---
-title: Writing Visual Basic Statements
+title: Writing Visual Basic Statements (VBA)
 keywords: vbcn6.chm1076695
 f1_keywords:
 - vbcn6.chm1076695
@@ -51,3 +51,6 @@ Comments can explain a procedure or a particular instruction to anyone reading y
 If you press ENTER after typing a line of code and the line is displayed in red (an error message may display as well), you must find out what's wrong with your statement, and then correct it.
 
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

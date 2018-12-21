@@ -1,5 +1,5 @@
 ---
-title: Working Across Applications
+title: Working Across Applications (VBA)
 keywords: vbcn6.chm1012581
 f1_keywords:
 - vbcn6.chm1012581
@@ -41,3 +41,6 @@ Dim X As New Field
 
 In this case, is an example of a [class](../../Glossary/vbe-glossary.md#class) in the data access type library. A new instance of a **Field** object is created using this syntax. Refer to the application's documentation for information about which object classes can be created in this way.
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

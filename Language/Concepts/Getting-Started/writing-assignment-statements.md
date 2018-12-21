@@ -1,5 +1,5 @@
 ---
-title: Writing Assignment Statements
+title: Writing Assignment Statements (VBA)
 keywords: vbcn6.chm1076692
 f1_keywords:
 - vbcn6.chm1076692
@@ -57,4 +57,6 @@ ActiveCell.Font.Bold = True
 
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

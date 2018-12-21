@@ -36,4 +36,4 @@ The **GetExtensionName** method returns a zero-length string ("") if no componen
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

@@ -1,5 +1,5 @@
 ---
-title: Using Select Case Statements
+title: Using Select Case Statements (VBA)
 keywords: vbcn6.chm1076686
 f1_keywords:
 - vbcn6.chm1076686
@@ -34,4 +34,6 @@ Function Bonus(performance, salary)
 End Function 
 ```
 
+## See also
 
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

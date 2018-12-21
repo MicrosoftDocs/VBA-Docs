@@ -27,4 +27,4 @@ The **GetTempName** method does not create a file. It provides only a temporary 
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

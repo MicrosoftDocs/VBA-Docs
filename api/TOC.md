@@ -34989,6 +34989,8 @@
 ####### [RemoveAll](../Language/Reference/User-Interface-Help/removeall-method.md)
 ###### Properties
 ####### [CompareMode](../Language/Reference/User-Interface-Help/comparemode-property.md)
+####### [Count](../Language/Reference/User-Interface-Help/count-property-filesystemobject-object.md)
+####### [Item](../Language/Reference/User-Interface-Help/item-property-filesystemobject-object.md)
 ####### [Key](../Language/Reference/User-Interface-Help/key-property.md)
 ##### [Drive object](../Language/Reference/User-Interface-Help/drive-object.md)
 ###### [Drives collection](../Language/Reference/User-Interface-Help/drives-collection.md)
@@ -35061,9 +35063,7 @@
 ####### [MoveFolder](../Language/Reference/User-Interface-Help/movefolder-method.md)
 ####### [OpenTextFile](../Language/Reference/User-Interface-Help/opentextfile-method.md)
 ###### Properties
-####### [Count](../Language/Reference/User-Interface-Help/count-property-filesystemobject-object.md)
 ####### [Drives](../Language/Reference/User-Interface-Help/drives-property.md)
-####### [Item](../Language/Reference/User-Interface-Help/item-property-filesystemobject-object.md)
 ##### [Folder object](../Language/Reference/User-Interface-Help/folder-object.md)
 ###### [Folders collection](../Language/Reference/User-Interface-Help/folders-collection.md)
 ###### [AddFolders method](../Language/Reference/User-Interface-Help/addfolders-method.md)

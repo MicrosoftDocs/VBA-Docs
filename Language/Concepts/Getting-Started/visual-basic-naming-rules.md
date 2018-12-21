@@ -1,5 +1,5 @@
 ---
-title: Visual Basic Naming Rules
+title: Visual Basic Naming Rules (VBA)
 keywords: vbcn6.chm1076688
 f1_keywords:
 - vbcn6.chm1076688
@@ -28,3 +28,6 @@ Use the following rules when you name [procedures](../../Glossary/vbe-glossary.m
      **Note**  Visual Basic isn't case-sensitive, but it preserves the capitalization in the statement where the name is declared.
 
 
+## See also
+
+- [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

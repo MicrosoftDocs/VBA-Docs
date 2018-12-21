@@ -35,4 +35,4 @@ The **BuildPath** method inserts an additional path separator between the existi
 
 ## See also
 
-- [Methods (Visual Basic for Applications)](../methods-visual-basic-for-applications.md)
+- [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
