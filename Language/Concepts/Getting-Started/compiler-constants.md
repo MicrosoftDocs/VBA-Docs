@@ -17,13 +17,13 @@ Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md
 > Because **Win32** returns **True** in both 32-bit and 64-bit development platforms, it is important that the order within the **#If...Then...#Else** directive returns the desired results in your code. For example, because **Win32** returns **True** in 64-bit (**Win32** is compatible in **Win64** environments), checking for **Win32** before **Win64** results in the **Win64** condition never running because **Win32** returns **True**. The following order returns predictable results (this applies to both Winx and VBAx constants):
 > 
 >  ```vb
-    #If Win64 Then 
-    ' Win64=true, Win32=true, Win16= false 
-    #ElseIf Win32 Then 
-    ' Win32=true, Win16=false 
-    #Else 
-    ' Win16=true 
-    #End If
+>  #If Win64 Then 
+>  ' Win64=true, Win32=true, Win16= false 
+>  #ElseIf Win32 Then 
+>  ' Win32=true, Win16=false 
+>  #Else 
+>  ' Win16=true 
+>  #End If
 >  ```
 
 <br/>
