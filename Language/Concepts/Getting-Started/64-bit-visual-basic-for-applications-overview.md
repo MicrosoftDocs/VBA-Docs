@@ -37,11 +37,11 @@ To address this problem and enable VBA code to work correctly in both 32-bit and
 > To ensure backwards compatibility in VBA7 and earlier use the following construct:
 > 
 > ```vb
-     #If VBA7 Then 
-     Declare PtrSafe Sub... 
-     #Else 
-     Declare Sub... 
-     #EndIf
+>  #If VBA7 Then 
+>  Declare PtrSafe Sub... 
+>  #Else 
+>  Declare Sub... 
+>  #EndIf
 > ```
 
 Consider the following **Declare** statement examples. Running the unmodified **Declare** statement in 64-bit versions of Office will result in an error indicating that the **Declare** statement does not include the **PtrSafe** qualifier. The modified VBA example contains the **PtrSafe** qualifier, but notice that the return value (a pointer to the active window) returns a **Long** data type. On 64-bit Office, this is incorrect because the pointer needs to be 64-bits. The **PtrSafe** qualifier tells the compiler that the **Declare** statement is targeting 64-bits, so the statement executes without error. But because the return value has not been updated to a 64-bit data type, the return value is truncated, resulting in an incorrect value returned.

@@ -112,6 +112,5 @@ To determine which syntax an application supports, see the application's documen
 ## See also
 
 - [Data type summary](../../reference/user-interface-help/data-type-summary.md)
-- [Data types keyword summary](../../reference/user-interface-help/data-types-keyword-summary.md)
 - [Variables and constants keyword summary](../../reference/user-interface-help/variables-and-constants-keyword-summary.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
