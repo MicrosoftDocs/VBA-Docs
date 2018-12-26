@@ -11,7 +11,7 @@ ms.date: 12/06/2018
 
 # Show method (VBA Add-In Object Model)
 
-Makes the specified [code pane](../../Glossary/vbe-glossary.md#code-pane) the visible code pane in its window.
+Makes the specified **[CodePane](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#codepane)** the visible [code pane](../../Glossary/vbe-glossary.md#code-pane) in its window.
 
 ## Syntax
 

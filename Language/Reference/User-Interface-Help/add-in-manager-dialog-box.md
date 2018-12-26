@@ -13,7 +13,7 @@ ms.date: 11/26/2018
 
 ![Add-in manager](../../../images/va5lxy1_ZA01201779.gif)
 
-Allows you to register an [add-in](../../Glossary/vbe-glossary.md#add-in), load or unload it, and set its load behavior. If you close only the visible portions of an add-in (by double-clicking its system menu or by clicking its Close button, for example), its forms disappear from the screen, but the add-in is still present in memory. The add-in object itself will always stay resident in memory until the add-in is disconnected through the **Add-In Manager** dialog box.
+Allows you to register an [add-in](../../Glossary/vbe-glossary.md#add-in), load or unload it, and set its load behavior. If you close only the visible portions of an add-in (by double-clicking its system menu or by clicking its **Close** button, for example), its forms disappear from the screen, but the add-in is still present in memory. The **[Add-in](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#addin)** object itself will always stay resident in memory until the add-in is disconnected through the **Add-In Manager** dialog box.
 
 To open the Add-In Manager, select **Add-In Manager** from the **[Add-Ins](add-ins-menu.md)** menu.
 

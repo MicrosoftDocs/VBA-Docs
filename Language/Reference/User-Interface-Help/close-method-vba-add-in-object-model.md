@@ -11,7 +11,7 @@ ms.date: 12/06/2018
 
 # Close method (VBA Add-In Object Model)
 
-Closes and destroys a window.
+Closes and destroys a [window](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#window).
 
 ## Syntax
 

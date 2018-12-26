@@ -5,7 +5,7 @@ keywords: vbob6.chm100096
 f1_keywords:
 - vbob6.chm100096
 ms.assetid: 278f8774-d259-4212-ba80-326841106aa1
-ms.date: 12/07/2018 
+ms.date: 12/26/2018 
 ---
 
 
@@ -13,7 +13,7 @@ ms.date: 12/07/2018
 
 ## ActiveCodePane
 
-Returns the active or last active **[CodePane](../user-interface-help/codepane-object-vba-add-in-object-model.md)** object, or sets the active **CodePane** object. Read/write.
+Returns the active or last active **[CodePane](objects-visual-basic-add-in-model.md#codepane)** object, or sets the active **CodePane** object. Read/write.
 
 ### Remarks
 
@@ -24,7 +24,7 @@ Set MyApp.VBE. ActiveCodePane = MyApp.VBE.CodePanes(1)
 
 ```
 
-The preceding example sets the first [code pane](../../Glossary/vbe-glossary.md#code-pane) in a [collection](../../Glossary/vbe-glossary.md#collection) of code panes to be the active code pane. You can also activate a code pane by using the **Set** method.
+The preceding example sets the first [code pane](../../Glossary/vbe-glossary.md#code-pane) in a [collection](../../Glossary/vbe-glossary.md#collection) of code panes to be the active code pane. You can also activate a code pane by using the **[SetSelection](../user-interface-help/setselection-method-vba-add-in-object-model.md)** method.
 
 
 ## ActiveVBProject
@@ -65,7 +65,7 @@ The _object_ placeholder represents an [object expression](../../Glossary/vbe-gl
 
 ## BuiltIn
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether or not the reference is a default reference that can't be removed. Read-only.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the **[Reference](objects-visual-basic-add-in-model.md#reference)** object is a default reference that can't be removed. Read-only.
 
 The **BuiltIn** property returns these values:
 
@@ -76,7 +76,7 @@ The **BuiltIn** property returns these values:
 
 ## Caption
 
-Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the title of the active window. Read-only.
+Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the title of the active **[Window](objects-visual-basic-add-in-model.md#window)**. Read-only.
 
 ### Remarks
 
@@ -91,13 +91,13 @@ Returns an object representing the code behind the component. Read-only.
 The **CodeModule** property returns **[Nothing](../user-interface-help/nothing-keyword.md)** if the component doesn't have a [code module](../../Glossary/vbe-glossary.md#code-module) associated with it.
 
 > [!NOTE] 
-> The **[CodePane](../user-interface-help/codepane-object-vba-add-in-object-model.md)** object represents a visible code window. A given component can have several **CodePane** objects. 
+> The **[CodePane](objects-visual-basic-add-in-model.md#codepane)** object represents a visible code window. A given component can have several **CodePane** objects. 
 > 
-> The **[CodeModule](../user-interface-help/codemodule-object-vba-add-in-object-model.md)** object represents the code within a component. A component can only have one **CodeModule** object.
+> The **[CodeModule](objects-visual-basic-add-in-model.md#codemodule)** object represents the code within a component. A component can only have one **CodeModule** object.
 
 ## CodePane
 
-Returns a **[CodePane](../user-interface-help/codepane-object-vba-add-in-object-model.md)** object. Read-only.
+Returns a **[CodePane](objects-visual-basic-add-in-model.md#codepane)** object. Read-only.
 
 ### Remarks
 
@@ -105,11 +105,11 @@ If a [code pane](../../Glossary/vbe-glossary.md#code-pane) exists, it becomes th
 
 ## CodePanes
 
-Returns the [collection](../../Glossary/vbe-glossary.md#collection) of active **[CodePane](../user-interface-help/codepane-object-vba-add-in-object-model.md)** objects. Read-only.
+Returns the [collection](../../Glossary/vbe-glossary.md#collection) of active **[CodePane](objects-visual-basic-add-in-model.md#codepane)** objects. Read-only.
 
 ## CodePaneView
 
-Returns a value indicating whether the [code pane](../../Glossary/vbe-glossary.md#code-pane) is in Procedure view or Full Module view. Read-only.
+Returns a value indicating whether the **[CodePane](objects-visual-basic-add-in-model.md#codepane)** is in Procedure view or Full Module view. Read-only.
 
 The **CodePaneView** property returns these values:
 
@@ -130,7 +130,7 @@ Use the **Collection** property to access the [properties](../../Glossary/vbe-gl
 
 ## CommandBarEvents
 
-Returns the **[CommandBarEvents](../user-interface-help/commandbarevents-object-vba-add-in-object-model.md)** object. Read-only.
+Returns the **[CommandBarEvents](objects-visual-basic-add-in-model.md#commandbarevents)** object. Read-only.
 
 ### Settings
 
@@ -150,7 +150,7 @@ The argument passed to the **CommandBarEvents** property is the command bar cont
 
 Contains all of the command bars in a project, including command bars that support shortcut menus.
 
-**See also** [Menus and commands](../menus-commands.md)
+**See also** [Menus and commands](../menus-commands.md) and [Toolbars](../toolbars.md).
 
 ## Connect
 
@@ -168,19 +168,19 @@ Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the n
 
 ## CountOfDeclarationLines
 
-Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines of code in the Declarations section of a [code module](../../Glossary/vbe-glossary.md#code-module). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines of code in the Declarations section of a [code module](objects-visual-basic-add-in-model.md#codemodule). Read-only.
 
 ## CountOfLines
 
-Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines of code in a [code module](../../Glossary/vbe-glossary.md#code-module). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines of code in a [code module](objects-visual-basic-add-in-model.md#codemodule). Read-only.
 
 ## CountOfVisibleLines
 
-Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines visible in a [code pane](../../Glossary/vbe-glossary.md#code-pane). Read-only.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) containing the number of lines visible in a [code pane](objects-visual-basic-add-in-model.md#codepane). Read-only.
 
 ## Description
 
-Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. For the **[VBProject](../user-interface-help/vbproject-object-vba-add-in-object-model.md)** object, read/write; for the **[Reference](../user-interface-help/reference-object-vba-add-in-object-model.md)** object, read-only.
+Returns or sets a [string expression](../../Glossary/vbe-glossary.md#string-expression) containing a descriptive string associated with an object. For the **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** object, read/write; for the **[Reference](objects-visual-basic-add-in-model.md#reference)** object, read-only.
 
 ### Remarks
 
@@ -197,7 +197,7 @@ Returns the object that enables you to access the design characteristics of a co
 
 If the object has an open [designer](../../Glossary/vbe-glossary.md#designer), the **Designer** property returns the open designer; otherwise, a new designer is created. 
 
-The designer is a characteristic of certain **[VBComponent](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md)** objects. For example, when you create certain types of **VBComponent** objects, a designer is created along with the object. A component can have only one designer, and it's always the same designer. 
+The designer is a characteristic of certain **[VBComponent](objects-visual-basic-add-in-model.md#vbcomponent)** objects. For example, when you create certain types of **VBComponent** objects, a designer is created along with the object. A component can have only one designer, and it's always the same designer. 
 
 The **Designer** property enables you to access a component-specific object. In some cases, such as in [standard modules](../../Glossary/vbe-glossary.md#standard-module) and [class modules](../../Glossary/vbe-glossary.md#class-module), a designer isn't created because that type of **VBComponent** object doesn't support a designer.
 
@@ -211,7 +211,7 @@ Read-only property that returns the [ProgID](#progid) of an ActiveX designer.
 
 ## Events
 
-Supplies properties that enable add-ins to connect to all events in Visual Basic for Applications.
+Supplies properties that enable add-ins to connect to all [events](objects-visual-basic-add-in-model.md#events) in Visual Basic for Applications.
 
 ### Syntax
 
@@ -241,10 +241,9 @@ Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing t
 
 Returns a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the class identifier of an object. Read-only.
 
-
 ## HasOpenDesigner
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the **[VBComponent](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md)** object has an open [designer](../../Glossary/vbe-glossary.md#designer). Read-only.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the **[VBComponent](objects-visual-basic-add-in-model.md#vbcomponent)** object has an open [designer](../../Glossary/vbe-glossary.md#designer). Read-only.
 
 The **HasOpenDesigner** property returns these values:
 
@@ -268,7 +267,6 @@ Changing the **Height** property setting of a [linked window](../../Glossary/vbe
 
 Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the context ID for a topic in a Microsoft Windows Help file. Read/write.
 
-
 ## HelpFile
 
 Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) specifying the Microsoft Windows Help file for a [project](../../Glossary/vbe-glossary.md#project). Read/write.
@@ -286,7 +284,7 @@ The value returned or set by the **IndexedValue** property is an [expression](..
 
 ## IsBroken
 
-Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the **[Reference](../user-interface-help/reference-object-vba-add-in-object-model.md)** object points to a valid reference in the [registry](../../Glossary/vbe-glossary.md#registry). Read-only.
+Returns a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value indicating whether the **[Reference](objects-visual-basic-add-in-model.md#reference)** object points to a valid reference in the [registry](../../Glossary/vbe-glossary.md#registry). Read-only.
 
 The **IsBroken** property returns these values:
 
@@ -331,7 +329,7 @@ The [line numbers](../../Glossary/vbe-glossary.md#line-number) in a [code module
 
 ## LinkedWindowFrame
 
-Returns the **[Window](../user-interface-help/window-object-vba-add-in-object-model.md)** object representing the frame that contains the window. Read-only.
+Returns the **[Window](objects-visual-basic-add-in-model.md#window)** object representing the frame that contains the window. Read-only.
 
 ### Remarks
 
@@ -342,7 +340,7 @@ The **LinkedWindowFrame** property enables you to access the object representing
 
 ## LinkedWindows
 
-Returns the collection of all linked windows contained in a linked window frame. Read-only.
+Returns the collection of all linked [windows](objects-visual-basic-add-in-model.md#window) contained in a linked window frame. Read-only.
 
 ### Remarks
 
@@ -350,7 +348,7 @@ The **LinkedWindows** property is an accessor property (that is, a property that
 
 ## MainWindow
 
-Returns a **[Window](../user-interface-help/window-object-vba-add-in-object-model.md)** object representing the main window of the Visual Basic [development environment](../../Glossary/vbe-glossary.md#development-environment). Read-only.
+Returns a **[Window](objects-visual-basic-add-in-model.md#window)** object representing the main window of the Visual Basic [development environment](../../Glossary/vbe-glossary.md#development-environment). Read-only.
 
 ### Remarks
 
@@ -389,7 +387,7 @@ The **Mode** property returns these values:
 
 ## Name
 
-Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name used in code to identify an object. For the **[VBProject](../user-interface-help/vbproject-object-vba-add-in-object-model.md)** object and the **[VBComponent](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md)** object, read/write. For the **[Property](../user-interface-help/property-object-vba-add-in-object-model.md)** object and the **[Reference](../user-interface-help/reference-object-vba-add-in-object-model.md)** object, read-only.
+Returns or sets a [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name used in code to identify an object. For the **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** object and the **[VBComponent](objects-visual-basic-add-in-model.md#vbcomponent)** object, read/write. For the **[Property](objects-visual-basic-add-in-model.md#property)** object and the **[Reference](objects-visual-basic-add-in-model.md#reference)** object, read-only.
 
 ### Remarks
 
@@ -410,7 +408,7 @@ An object's **Name** property must start with a letter and can be a maximum of 4
 
 ## NumIndices
 
-Returns the number of indices on the [property](../../Glossary/vbe-glossary.md#property) returned by the **[Property](../user-interface-help/property-object-vba-add-in-object-model.md)** object.
+Returns the number of indices on the [property](../../Glossary/vbe-glossary.md#property) returned by the **[Property](objects-visual-basic-add-in-model.md#property)** object.
 
 ### Remarks
 
@@ -422,7 +420,7 @@ Returns or sets the value of an object returned by a [property](../../Glossary/v
 
 ### Remarks
 
-If a property returns an object, you must use the **Object** property to return or set the value of that object.
+If a **[Property](objects-visual-basic-add-in-model.md#property)** object returns an object, you must use the **Object** property to return or set the value of that object.
 
 ## Parent
 
@@ -433,6 +431,8 @@ Returns the object or [collection](../../Glossary/vbe-glossary.md#collection) th
 Most objects have either a **Parent** property or a **[Collection](#collection)** property that points to the object's parent object in this object model. The **Collection** property is used if the parent object is a collection.
 
 Use the **Parent** property to access the [properties](../../Glossary/vbe-glossary.md#property), [methods](../../Glossary/vbe-glossary.md#method), and [controls](../../Glossary/vbe-glossary.md#control) of an object's parent object.
+
+**See also** [CodeModule object](objects-visual-basic-add-in-model.md#codemodule)
 
 ## ProcBodyLine
 
@@ -450,11 +450,11 @@ The **ProcBodyLine** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _procname_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name of the procedure.|
-| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
+| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **[Sub](../user-interface-help/sub-statement.md)** and **[Function](../user-interface-help/function-statement.md)** procedures) use **vbext_pk_Proc**.|
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument):
+You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -465,7 +465,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md#cons
 
 ### Remarks
 
-The first line of a procedure is the line on which the **Sub**, **Function**, or **Property** statement appears.
+The first line of a procedure is the line on which the **Sub**, **Function**, or **[Property](../user-interface-help/property-get-statement.md)** statement appears.
 
 ## ProcCountLines
 
@@ -483,11 +483,11 @@ The **ProcCountLines** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _procname_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name of the procedure.|
-| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
+| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **[Sub](../user-interface-help/sub-statement.md)** and **[Function](../user-interface-help/function-statement.md)** procedures) use **vbext_pk_Proc**.|
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument):
+You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -517,11 +517,11 @@ The **ProcOfLine** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _line_|Required. A [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line to check.|
-| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
+| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **[Sub](../user-interface-help/sub-statement.md)** and **[Function](../user-interface-help/function-statement.md)** procedures) use **vbext_pk_Proc**.|
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument):
+You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -532,7 +532,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md#cons
 
 ### Remarks
 
-A line is within a procedure if it's a blank line or comment line preceding the procedure declaration and, if the procedure is the last procedure in a [code module](../../Glossary/vbe-glossary.md#code-module), a blank line or lines following the procedure.
+A line is within a procedure if it's a blank line or comment line preceding the procedure declaration and, if the procedure is the last procedure in a [code module](objects-visual-basic-add-in-model.md#codemodule), a blank line or lines following the procedure.
 
 ## ProcStartLine
 
@@ -550,11 +550,11 @@ The **ProcStartLine** syntax has these parts:
 |:-----|:-----|
 | _object_|Required. An [object expression](../../Glossary/vbe-glossary.md#object-expression) that evaluates to an object in the **Applies To** list.|
 | _procname_|Required. A [String](../../Glossary/vbe-glossary.md#string-data-type) containing the name of the procedure.|
-| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **Sub** and **Function** procedures) use **vbext_pk_Proc**.|
+| _prockind_|Required. Specifies the kind of procedure to locate. Because [property procedures](../../Glossary/vbe-glossary.md#property-procedure) can have multiple representations in the [module](../../Glossary/vbe-glossary.md#module), you must specify the kind of procedure you want to locate. All procedures other than property procedures (that is, **[Sub](../user-interface-help/sub-statement.md)** and **[Function](../user-interface-help/function-statement.md)** procedures) use **vbext_pk_Proc**.|
 
 <br/>
 
-You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument):
+You can use one of the following [constants](../../Glossary/vbe-glossary.md#constant) for the _prockind_ [argument](../../Glossary/vbe-glossary.md#argument).
 
 |Constant|Description|
 |:-----|:-----|
@@ -565,7 +565,7 @@ You can use one of the following [constants](../../Glossary/vbe-glossary.md#cons
 
 ### Remarks
 
-A procedure starts at the first line below the **End Sub** statement of the preceding procedure. If the procedure is the first procedure, it starts at the end of the general Declarations section.
+A procedure starts at the first line below the **[End Sub](../user-interface-help/end-statement.md)** statement of the preceding procedure. If the procedure is the first procedure, it starts at the end of the general Declarations section.
 
 ## ProgID
 
@@ -598,7 +598,7 @@ The **Protection** property returns these values:
 
 ## References
 
-Returns the set of references in a project. Read-only.
+Returns the set of [references](objects-visual-basic-add-in-model.md#reference) in a project. Read-only.
 
 ### Remarks
 
@@ -606,7 +606,7 @@ The **References** property is an accessor property (that is, a property that re
 
 ## ReferencesEvents
 
-Returns the **[ReferencesEvents](../user-interface-help/referencesevents-object-vba-add-in-object-model.md)** object. Read-only.
+Returns the **[ReferencesEvents](objects-visual-basic-add-in-model.md#referencesevents)** object. Read-only.
 
 ### Settings
 
@@ -614,7 +614,7 @@ The setting for the [argument](../../Glossary/vbe-glossary.md#argument) you pass
 
 |Argument|Description|
 |:-----|:-----|
-| _vbproject_|If _vbproject_ points to **[Nothing](../user-interface-help/nothing-keyword.md)**, the object that is returned will supply events for the **[References](collections-visual-basic-add-in-model.md#references)** collections of all **[VBProject](../user-interface-help/vbproject-object-vba-add-in-object-model.md)** objects in the **[VBProjects](collections-visual-basic-add-in-model.md#vbprojects)** collection. If _vbproject_ points to a valid **VBProject** object, the object that is returned will supply events for only the **References** collection for that [project](../../Glossary/vbe-glossary.md#project).|
+| _vbproject_|If _vbproject_ points to **[Nothing](../user-interface-help/nothing-keyword.md)**, the object that is returned will supply events for the **[References](collections-visual-basic-add-in-model.md#references)** collections of all **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** objects in the **[VBProjects](collections-visual-basic-add-in-model.md#vbprojects)** collection.<br/><br/>If _vbproject_ points to a valid **VBProject** object, the object that is returned will supply events for only the **References** collection for that [project](../../Glossary/vbe-glossary.md#project).|
 
 ### Remarks
 
@@ -633,7 +633,7 @@ The **Saved** property returns these values:
 
 ### Remarks
 
-The **SaveAs** method sets the **Saved** property to **True**.
+The **[SaveAs](../user-interface-help/saveas-method-vba-add-in-object-model.md)** method sets the **Saved** property to **True**.
 
 > [!NOTE] 
 > If you set the **Saved** property to **False** in code, it returns **False**, and the object is marked as if it were edited since the last time it was saved.
@@ -644,7 +644,9 @@ Returns the selected component. Read-only.
 
 ### Remarks
 
-The **SelectedVBComponent** property returns the selected component in the [Project window](../../Glossary/vbe-glossary.md#project-window). If the selected item in the  Project window isn't a component, **SelectedVBComponent** returns **[Nothing](../user-interface-help/nothing-keyword.md)**.
+The **SelectedVBComponent** property returns the selected component in the [Project window](../../Glossary/vbe-glossary.md#project-window). If the selected item in the Project window isn't a component, **SelectedVBComponent** returns **[Nothing](../user-interface-help/nothing-keyword.md)**.
+
+**See also** the **[VBE](objects-visual-basic-add-in-model.md#vbe)** object.
 
 ## Top
 
@@ -662,7 +664,7 @@ The value returned by the **Top** property depends on whether the window is [doc
 
 ## TopLine
 
-Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line number of the line at the top of the [code pane](../../Glossary/vbe-glossary.md#code-pane), or sets the line showing at the top of the code pane. Read/write.
+Returns a [Long](../../Glossary/vbe-glossary.md#long-data-type) specifying the line number of the line at the top of the [code pane](objects-visual-basic-add-in-model.md#codepane), or sets the line showing at the top of the code pane. Read/write.
 
 ### Remarks
 
@@ -674,7 +676,7 @@ The **TopLine** property setting must be a positive number. If the **TopLine** p
 
 Returns a numeric or string value containing the type of object. Read-only.
 
-The **Type** property settings for the **[Window](../user-interface-help/window-object-vba-add-in-object-model.md)** object are described in the following table:
+The **Type** property settings for the **[Window](objects-visual-basic-add-in-model.md#window)** object are described in the following table.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -682,8 +684,8 @@ The **Type** property settings for the **[Window](../user-interface-help/window-
 |**vbext_wt_Designer**|1|[Designer](../../Glossary/vbe-glossary.md#designer)|
 |**vbext_wt_Browser**|2|**[Object Browser](../user-interface-help/object-browser.md)**|
 |**vbext_wt_Immediate**|5|[Immediate window](../user-interface-help/immediate-window.md)|
-|**vbext_wt_ProjectWindow**|6|[Project window](../../Glossary/vbe-glossary.md#project-window)|
-|**vbext_wt_PropertyWindow**|7|[Properties window](../../Glossary/vbe-glossary.md#properties-window)|
+|**vbext_wt_ProjectWindow**|6|[Project window](../user-interface-help/project-explorer.md)|
+|**vbext_wt_PropertyWindow**|7|[Properties window](../user-interface-help/properties-window.md)|
 |**vbext_wt_Find**|8|**[Find](../user-interface-help/find-dialog-box.md)** dialog box|
 |**vbext_wt_FindReplace**|9|**[Search and Replace](../user-interface-help/replace-dialog-box.md)** dialog box|
 |**vbext_wt_LinkedWindowFrame**|11|[Linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame)|
@@ -698,7 +700,7 @@ The **Type** property settings for the **[Window](../user-interface-help/window-
 
 <br/>
 
-The **Type** property settings for the **[VBComponent](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md)** object are described in the following table:
+The **Type** property settings for the **[VBComponent](objects-visual-basic-add-in-model.md#vbcomponent)** object are described in the following table.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -710,7 +712,7 @@ The **Type** property settings for the **[VBComponent](../user-interface-help/vb
 
 <br/>
 
-The **Type** property settings for the **[Reference](../user-interface-help/reference-object-vba-add-in-object-model.md)** object are described in the following table:
+The **Type** property settings for the **[Reference](objects-visual-basic-add-in-model.md#reference)** object are described in the following table.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -719,7 +721,7 @@ The **Type** property settings for the **[Reference](../user-interface-help/refe
 
 <br/>
 
-The **Type** property settings for the **[VBProject](../user-interface-help/vbproject-object-vba-add-in-object-model.md)** object are described in the following table:
+The **Type** property settings for the **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** object are described in the following table.
 
 |Constant|Value|Description|
 |:-----|:-----|:-----|
@@ -734,7 +736,7 @@ Returns or sets a [Variant](../../Glossary/vbe-glossary.md#variant-data-type) sp
 
 Because the **Value** property returns a **Variant**, you can access any property. To access a list, use the **[IndexedValue](#indexedvalue)** property.
 
-If the property that the **[Property](../user-interface-help/property-object-vba-add-in-object-model.md)** object represents is read/write, the **Value** property is read/write. If the property is read-only, attempting to set the **Value** property causes an error. If the property is write-only, attempting to return the **Value** property causes an error.
+If the property that the **[Property](objects-visual-basic-add-in-model.md#property)** object represents is read/write, the **Value** property is read/write. If the property is read-only, attempting to set the **Value** property causes an error. If the property is write-only, attempting to return the **Value** property causes an error. 
 
 The **Value** property is the default property for the **Property** object.
 
@@ -750,11 +752,11 @@ You can use the **[Parent](#parent)** property to return the project that the **
 
 In Visual Basic for Applications, you can use the **[Import](../user-interface-help/import-method-vba-add-in-object-model.md)** method to add a component to a project from a file.
 
-For more information, see **[VBComponent](../user-interface-help/vbcomponent-object-vba-add-in-object-model.md)** object and **[SelectedVBComponent](#selectedvbcomponent)**  property.
+For more information, see **[VBComponent](objects-visual-basic-add-in-model.md#vbcomponent)** object and **[SelectedVBComponent](#selectedvbcomponent)**  property.
 
 ## VBE
 
-Returns the root of the **[VBE](../user-interface-help/vbe-object-vba-add-in-object-model.md)** object. Read-only.
+Returns the root of the **[VBE](objects-visual-basic-add-in-model.md#vbe)** object. Read-only.
 
 ### Remarks
 
@@ -780,9 +782,9 @@ The **Version** property value is a string beginning with one or two digits, a p
 
 ## Visible
 
-For the **[Window](../user-interface-help/window-object-vba-add-in-object-model.md)** object, returns or sets a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value that specifies the visibility of a window. Read/write. 
+For the **[Window](objects-visual-basic-add-in-model.md#window)** object, returns or sets a [Boolean](../../Glossary/vbe-glossary.md#boolean-data-type) value that specifies the visibility of a window. Read/write. 
 
-For the **[CodePane](../user-interface-help/codepane-object-vba-add-in-object-model.md)**, returns a **Boolean** value that indicates whether the [code pane](../../Glossary/vbe-glossary.md#code-pane) is visible in the window. Read-only.
+For the **[CodePane](objects-visual-basic-add-in-model.md#codepane)** object, returns a **Boolean** value that indicates whether the [code pane](../../Glossary/vbe-glossary.md#code-pane) is visible in the window. Read-only.
 
 The **Visible** property returns these values:
 
@@ -804,11 +806,11 @@ Changing the **Width** property setting of a [linked window](../../Glossary/vbe-
 
 ## Window
 
-Returns the window in which the [code pane](../../Glossary/vbe-glossary.md#code-pane) is displayed. Read-only.
+Returns the window in which the [code pane](objects-visual-basic-add-in-model.md#codepane) is displayed. Read-only.
 
 ## Windows
 
-Returns the **[Window](../user-interface-help/window-object-vba-add-in-object-model.md)** object, which represents a window in the Visual Basic IDE.
+Returns the **[Window](objects-visual-basic-add-in-model.md#window)** object, which represents a window in the Visual Basic IDE.
 
 ### Syntax
 
@@ -818,7 +820,7 @@ The _object_ placeholder represents an [object expression](../../Glossary/vbe-gl
 
 ## WindowState
 
-Returns or sets a numeric value specifying the visual state of the window. Read/write.
+Returns or sets a numeric value specifying the visual state of the **[Window](objects-visual-basic-add-in-model.md#window)**. Read/write.
 
 ### Settings
 

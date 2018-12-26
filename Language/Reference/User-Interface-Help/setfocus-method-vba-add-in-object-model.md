@@ -11,7 +11,7 @@ ms.date: 12/06/2018
 
 # SetFocus method (VBA Add-In Object Model)
 
-Moves the [focus](../../Glossary/vbe-glossary.md#focus) to the specified window.
+Moves the [focus](../../Glossary/vbe-glossary.md#focus) to the specified **[Window](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#window)**.
 
 ## Syntax
 

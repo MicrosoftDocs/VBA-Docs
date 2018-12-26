@@ -7,7 +7,7 @@ f1_keywords:
 - vbob6.chm1098927
 - vbob6.chm100150
 ms.assetid: ae90ce4d-7f61-4e7d-a4ab-7cf78028281a
-ms.date: 12/06/2018
+ms.date: 12/26/2018
 ---
 
 
@@ -33,7 +33,7 @@ The **Click** event syntax has these [named arguments](../../Glossary/vbe-glossa
 
 ### Remarks
 
-The **Click** event is specific to the **[CommandBarEvents](../user-interface-help/commandbarevents-object-vba-add-in-object-model.md)** object. Use a [variable](../../Glossary/vbe-glossary.md#variable) declared by using the **WithEvents** keyword to receive the **Click** event for a **CommandBar** control. This variable should be set to the return value of the **[CommandBarEvents](properties-visual-basic-add-in-model.md#commandbarevents)** property of the **[Events](../user-interface-help/events-object-vba-add-in-object-model.md)** object. 
+The **Click** event is specific to the **[CommandBarEvents](objects-visual-basic-add-in-model.md#commandbarevents)** object. Use a [variable](../../Glossary/vbe-glossary.md#variable) declared by using the **WithEvents** keyword to receive the **Click** event for a **CommandBar** control. This variable should be set to the return value of the **[CommandBarEvents](properties-visual-basic-add-in-model.md#commandbarevents)** property of the **[Events](objects-visual-basic-add-in-model.md#events)** object. 
 
 The **CommandBarEvents** property takes the **CommandBar** control as an [argument](../../Glossary/vbe-glossary.md#argument). When the **CommandBar** control is clicked (for the variable you declared by using the **WithEvents** keyword), the code is executed.
 
@@ -43,27 +43,27 @@ Occurs after a reference is added.
 
 ### Syntax
 
-**Sub**_object_**_ItemAdded**(**ByVal**_item_**As Reference**)
+**Sub**_object_**\_ItemAdded** (**ByVal** _item_ **As Reference**)
 
 The required _item_ [argument](../../Glossary/vbe-glossary.md#argument) specifies the item that was added.
 
 ### Remarks
 
-The **ItemAdded** event occurs when a **Reference** is added to the **References** collection.
-
+The **ItemAdded** event occurs when a **[Reference](objects-visual-basic-add-in-model.md#reference)** is added to the **[References](collections-visual-basic-add-in-model.md#references)** collection.
 
 ## ItemRemoved event
 
-Occurs after a reference is removed from a [project](../../Glossary/vbe-glossary.md#project).
+Occurs after a **Reference** is removed from a [project](../../Glossary/vbe-glossary.md#project).
 
 ### Syntax
 
-**Sub**_object_**_ItemRemoved**(**ByVal**_item_**As Reference**)
+**Sub**_object_**\_ItemRemoved** (**ByVal** _item_ **As Reference**)
 
 The required _item_ [argument](../../Glossary/vbe-glossary.md#argument) specifies the **Reference** that was removed.
 
 ## See also
 
+- [ReferencesEvents object](objects-visual-basic-add-in-model.md#referencesevents)
 - [Events (Microsoft Forms)](../user-interface-help/events-microsoft-forms.md)
 - [Events (Visual Basic for Applications)](../events-visual-basic-for-applications.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
