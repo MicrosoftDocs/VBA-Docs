@@ -32,7 +32,7 @@ The  **RowHeight** property setting represents the datasheet row height in twips
 
 ## Example
 
-This example takes effect in Datasheet view of the open Customers form. It sets the row height to 450 twips and sizes the column to fit the size of the visible text.
+This example takes effect in Datasheet view of the open Customers form. It sets the row height to 450 [twips](../language/glossary/vbe-glossary.md#twip) and sizes the column to fit the size of the visible text.
 
 
 ```vb

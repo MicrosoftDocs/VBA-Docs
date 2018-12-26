@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.SplitFormSize property (Access)
 
-Gets or sets the size in twips of the form when it's displayed in Split Form view. Read/write  **Long**.
+Gets or sets the size in [twips](../language/glossary/vbe-glossary.md#twip) of the form when it's displayed in Split Form view. Read/write  **Long**.
 
 
 ## Syntax

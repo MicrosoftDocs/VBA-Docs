@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.WindowTop property (Access)
 
-Returns an  **Integer** indicating the screen position in twips of the top edge of a form relative to the top of the Microsoft Access window. Read-only.
+Returns an  **Integer** indicating the screen position in [twips](../language/glossary/vbe-glossary.md#twip) of the top edge of a form relative to the top of the Microsoft Access window. Read-only.
 
 
 ## Syntax

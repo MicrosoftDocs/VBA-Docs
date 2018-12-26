@@ -29,7 +29,7 @@ The  **TabFixedWidth** property setting is a value that represents the width of 
 
 You can also set the default for this property by setting a control's  **DefaultControl** property in Visual Basic.
 
-Tthis property uses an  **Integer** value representing the width of the tabs in twips and can be set in any view.
+Tthis property uses an  **Integer** value representing the width of the tabs in [twips](../language/glossary/vbe-glossary.md#twip) and can be set in any view.
 
 
  **Note**  To use a unit of measurement different from the setting in the  **Regional Options** dialog box in Windows Control Panel, specify the unit, such as cm or in (for example, 5 cm or 3 in).

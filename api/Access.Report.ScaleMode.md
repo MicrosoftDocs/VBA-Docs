@@ -35,7 +35,7 @@ The  **ScaleMode** property uses the following settings.
 |1|(Default) Twips|
 |2|Points|
 |3|Pixels|
-|4|Characters (horizontal = 120 twips per unit; vertical = 240 twips per unit)|
+|4|Characters (horizontal = 120 [twips](../language/glossary/vbe-glossary.md#twip) per unit; vertical = 240 twips per unit)|
 |5|Inches|
 |6|Millimeters|
 |7|Centimeters|

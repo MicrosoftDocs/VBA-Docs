@@ -36,11 +36,11 @@ The width of forms and reports is measured from the inside of their borders. The
 
 ## Example
 
-The following code resizes a command button to a 1-inch by 1-inch square button (the default unit of measurement in Visual Basic is twips; 1440 twips equals one inch):
+The following code resizes a command button to a 1-inch by 1-inch square button (the default unit of measurement in Visual Basic is twips; 1440 [twips](../language/glossary/vbe-glossary.md#twip) equals one inch):
 
 
 ```vb
-Me!cmdSizeButton.Height = 1440 ' 1440 twips = 1 inch. 
+Me!cmdSizeButton.Height = 1440 ' 1440 [twips](../language/glossary/vbe-glossary.md#twip) = 1 inch. 
 Me!cmdSizeButton.Width = 1440
 ```
 

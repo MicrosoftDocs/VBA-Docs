@@ -1,5 +1,5 @@
 ---
-title: Application.PointsToTwips Method (Publisher)
+title: Application.PointsTo[twips](../language/glossary/vbe-glossary.md#twip) Method (Publisher)
 keywords: vbapb10.chm131168
 f1_keywords:
 - vbapb10.chm131168
@@ -11,9 +11,9 @@ ms.date: 06/08/2017
 ---
 
 
-# Application.PointsToTwips Method (Publisher)
+# Application.PointsTo[twips](../language/glossary/vbe-glossary.md#twip) Method (Publisher)
 
-Converts a measurement from points to twips (20 twips = 1 point). Returns the converted measurement as a  **Single**.
+Converts a measurement from points to [twips](../language/glossary/vbe-glossary.md#twip) (20 [twips](../language/glossary/vbe-glossary.md#twip) = 1 point). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Single
 
 ## Remarks
 
-Use the  **[TwipsToPoints](Publisher.Application.TwipsToPoints.md)** method to convert measurements in twips to points.
+Use the  **[TwipsToPoints](Publisher.Application.TwipsToPoints.md)** method to convert measurements in [twips](../language/glossary/vbe-glossary.md#twip) to points.
 
 
 ## Example

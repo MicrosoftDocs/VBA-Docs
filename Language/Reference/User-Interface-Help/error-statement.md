@@ -38,13 +38,11 @@ If _errornumber_ is defined, the **Error** statement calls the error handler aft
 If no error handler exists or if none is enabled, an error message is created and displayed from the **Err** object properties.
 
 > [!NOTE] 
-> Not all Visual Basic [host applications](../../Glossary/vbe-glossary.md#host-application) can create objects. See your host application's documentation to determine whether it can create [classes](../../Glossary/vbe-glossary.md#class) and objects.
-
+> Not all Visual Basic [host applications](../../Glossary/vbe-glossary.md#host-application) can create objects; for example, hosts running versions of Visual Basic for Applications earlier than 4.0 cannot create objects. Because **Err** is a function returning an **ErrObject** instance, it cannot be used in these early versions. To know what version of VBA your host application is running, see the **About** information for your Visual Basic Editor (VBE), and see your host application's documentation to determine whether it can create [classes](../../Glossary/vbe-glossary.md#class) and objects.
 
 ## Example
 
 This example uses the **Error** statement to simulate error number 11.
-
 
 ```vb
 On Error Resume Next ' Defer error handling. 

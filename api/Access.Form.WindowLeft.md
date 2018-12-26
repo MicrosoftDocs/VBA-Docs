@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.WindowLeft property (Access)
 
-Returns an  **Integer** indicating the screen position in twips of the left edge of a form relative to the left edge of the Microsoft Access window. Read-only.
+Returns an  **Integer** indicating the screen position in [twips](../language/glossary/vbe-glossary.md#twip) of the left edge of a form relative to the left edge of the Microsoft Access window. Read-only.
 
 
 ## Syntax

@@ -46,7 +46,7 @@ If you leave the  **ColumnWidths** property setting blank, Microsoft Access sets
 
 If the column widths you set are too wide to be fully displayed within the combo box or list box, the rightmost columns are hidden and a horizontal scroll bar appears.
 
-If you specify the width for some columns but leave the setting for others blank, Microsoft Access divides the remaining width by the number of columns for which you haven't specified a width. The minimum calculated column width is 1,440 twips (1 inch).
+If you specify the width for some columns but leave the setting for others blank, Microsoft Access divides the remaining width by the number of columns for which you haven't specified a width. The minimum calculated column width is 1,440 [twips](../language/glossary/vbe-glossary.md#twip) (1 inch).
 
 For example, the following settings are applied to a 4-inch list box with three columns.
 

@@ -1,5 +1,5 @@
 ---
-title: OlDisplayMode Enumeration (Outlook)
+title: OlDisplayMode enumeration (Outlook)
 keywords: vbaol11.chm3599
 f1_keywords:
 - vbaol11.chm3599
@@ -9,19 +9,18 @@ ms.prod: outlook
 ---
 
 
-# OlDisplayMode Enumeration (Outlook)
+# OlDisplayMode enumeration (Outlook)
 
 Describes the nature of the display mode. Possible modes include Normal, Portrait View, and Portrait Reading Pane.
 
-
 ## Members
 
-
-
+|Name|Value|Description|
+|:-----|:-----|:-----|
 | **olDisplayModeNormal**| **0**|Displays Normal mode.|
 | **olDisplayModePortraitReadingPane**| **2**|Displays Portrait Reading Pane mode.|
 | **olDisplayModePortraitView**| **1**|Displays Portrait View mode.|
 
-Used by the  **DisplayMode** property of the [Explorer.DisplayModeChange](Outlook.explorer.displaymodechange.md) event.
+Used by the **DisplayMode** property of the [Explorer.DisplayModeChange](Outlook.explorer.displaymodechange.md) event.
 
 

@@ -25,7 +25,7 @@ _expression_ A variable that represents an [Attachment](Access.Attachment.md) ob
 
 ## Remarks
 
-In Visual Basic , the  **ColumnWidth** property setting is an **Integer** value that represents the column width in twips. You can specify a width or use one of the following predefined settings.
+In Visual Basic , the  **ColumnWidth** property setting is an **Integer** value that represents the column width in [twips](../language/glossary/vbe-glossary.m#twip). You can specify a width or use one of the following predefined settings.
 
 
 
