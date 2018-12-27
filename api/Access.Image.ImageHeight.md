@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Image.ImageHeight property (Access)
 
-You can use the  **ImageHeight** property to determine the height in twips of the picture in an image control. Read/write **Long**.
+You can use the  **ImageHeight** property to determine the height in [twips](../language/glossary/vbe-glossary.md#twip) of the picture in an image control. Read/write **Long**.
 
 
 ## Syntax

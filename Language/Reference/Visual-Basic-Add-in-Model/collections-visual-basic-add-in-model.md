@@ -13,7 +13,7 @@ f1_keywords:
 - vbob6.chm102053
 - vbob6.chm1070945
 ms.assetid: 45e5f192-c698-4805-9ba8-cbe52f313732
-ms.date: 12/05/2018
+ms.date: 12/26/2018
 ---
 
 
@@ -33,11 +33,11 @@ _object_.**AddIns**
 
 ### Remarks
 
-The **AddIns** collection is accessed through the **[VBE](../user-interface-help/vbe-object-vba-add-in-object-model.md)** object. Every add-in listed in the Add-In Manager in VBE has an object in the **AddIns** collection. 
+The **AddIns** collection is accessed through the **[VBE](objects-visual-basic-add-in-model.md#vbe)** object. Every add-in listed in the Add-In Manager in VBE has an object in the **AddIns** collection. 
 
 ## CodePanes
 
-Contains the active [code panes](../../Glossary/vbe-glossary.md#code-pane) in the **VBE** object.
+Contains the active [code panes](../../Glossary/vbe-glossary.md#code-pane) in the **[VBE](objects-visual-basic-add-in-model.md#vbe)** object.
 
 ### Remarks
 
@@ -47,7 +47,7 @@ You can use the **[Count](properties-visual-basic-add-in-model.md#count)** prope
 
 ## CommandBars
 
-Contains all of the command bars in a project, including command bars that support shortcut menus.
+Contains all of the [command bars](objects-visual-basic-add-in-model.md#commandbar) in a project, including command bars that support shortcut menus.
 
 ### Remarks
 
@@ -55,7 +55,7 @@ Use the **CommandBars** collection to enable add-ins to add command bars and [co
 
 ## LinkedWindows
 
-Contains all linked windows in a [linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame).
+Contains all linked [windows](objects-visual-basic-add-in-model.md#window) in a [linked window frame](../../Glossary/vbe-glossary.md#linked-window-frame).
 
 ### Remarks
 
@@ -64,15 +64,15 @@ Use the **LinkedWindows** collection to modify the [docked](../../Glossary/vbe-g
 > [!IMPORTANT] 
 > Objects, properties, and methods for controlling linked windows, linked window frames, and docked windows are included on the Macintosh for compatibility with code written in Windows. However, these language elements will generate run-time errors when run on the Macintosh.
 
-The **LinkedWindowFrame** property of the **Window** object returns a **Window** object that has a valid **LinkedWindows** collection.
+The **LinkedWindowFrame** property of the **[Window](objects-visual-basic-add-in-model.md#window)** object returns a **Window** object that has a valid **LinkedWindows** collection.
 
 Linked window frames contain all windows that can be linked or docked. This includes all windows except code windows, [designers](../../Glossary/vbe-glossary.md#designer), the [Object Browser](../../Glossary/vbe-glossary.md#object-browser) window, and the Search and Replace window.
 
 If all the panes from one linked window frame are moved to another window, the linked window frame with no panes is destroyed. However, if all the panes are removed from the main window, it isn't destroyed.
 
-Use the **Visible** property to check or set the visibility of a window.
+Use the **[Visible](properties-visual-basic-add-in-model.md#visible)** property to check or set the visibility of a window.
 
-You can use the **Add** method to add a window to the collection of currently linked windows. A window that is a pane in one linked window frame can be added to another linked window frame. Use the **Remove** method to remove a window from the collection of currently linked windows; this results in the window being unlinked or undocked.
+You can use the **[Add](../user-interface-help/add-method-vba-add-in-object-model.md)** method to add a window to the collection of currently linked windows. A window that is a pane in one linked window frame can be added to another linked window frame. Use the **[Remove](../user-interface-help/remove-method-vba-add-in-object-model.md)** method to remove a window from the collection of currently linked windows; this results in the window being unlinked or undocked.
 
 The **LinkedWindows** collection is used to dock and undock windows from the main window frame.
 
@@ -82,15 +82,17 @@ Represents the [properties](../../Glossary/vbe-glossary.md#property) of an objec
 
 ### Remarks
 
-Use the **Properties** collection to access the properties displayed in the [Properties window](../user-interface-help/properties-window.md). For every property listed in the Properties window, there is an object in the **Properties** collection.
+Use the **Properties** collection to access the properties displayed in the [Properties window](../user-interface-help/properties-window.md). For every property listed in the Properties window, there is a **[Property](objects-visual-basic-add-in-model.md#property)** object in the **Properties** collection.
 
 ## References
 
-Represents the set of references in the project.
+Represents the set of [references](objects-visual-basic-add-in-model.md#reference) in the project.
 
 ### Remarks
 
-Use the **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **References** dialog box.
+Use the **References** collection to add or remove references. The **References** collection is the same as the set of references selected in the **[References](../user-interface-help/references-dialog-box.md)** dialog box.
+
+**See also** the **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** object.
 
 ## VBComponents
 
@@ -102,7 +104,7 @@ Use the **VBComponents** collection to access, add, or remove components in a pr
 
 You can use the **[Parent](properties-visual-basic-add-in-model.md#parent)** property to return the project that the **VBComponents** collection is in.
 
-For more information, see the **[VBComponents](properties-visual-basic-add-in-model.md#vbcomponents)** property.
+For more information, see the **[VBComponents](properties-visual-basic-add-in-model.md#vbcomponents)** property and the **[VBProject](objects-visual-basic-add-in-model.md#vbproject)** object.
 
 ## VBNewProjects
 
@@ -126,7 +128,7 @@ Contains all open or permanent windows.
 
 ### Remarks
 
-Use the **Windows** collection to access **Window** objects.
+Use the **Windows** collection to access **[Window](objects-visual-basic-add-in-model.md#window)** objects.
 
 The **Windows** collection has a fixed set of windows that are always available in the collection, such as the [Project window](../../Glossary/vbe-glossary.md#project-window), the Properties window, and a set of windows that represent all open code windows and designer windows. 
 

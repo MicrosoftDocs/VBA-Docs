@@ -1,5 +1,5 @@
 ---
-title: Making Faster For...Next loops (VBA)
+title: Making faster For...Next loops (VBA)
 keywords: vbcn6.chm1009794
 f1_keywords:
 - vbcn6.chm1009794
@@ -9,7 +9,7 @@ ms.date: 12/21/2018
 ---
 
 
-# Making Faster For...Next loops
+# Making faster For...Next loops
 
 Integers use less memory than the [Variant data type](../../Glossary/vbe-glossary.md#variant-data-type) and are slightly faster to update. However, this difference is only noticeable if you perform many thousands of operations. For example:
 

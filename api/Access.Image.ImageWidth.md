@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Image.ImageWidth property (Access)
 
-You can use the  **ImageWidth** property to determine the width in twips of a picture in an image control. Read/write **Long**.
+You can use the  **ImageWidth** property to determine the width in [twips](../language/glossary/vbe-glossary.md#twip) of a picture in an image control. Read/write **Long**.
 
 
 ## Syntax

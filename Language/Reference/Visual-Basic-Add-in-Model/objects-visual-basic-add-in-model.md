@@ -16,7 +16,7 @@ f1_keywords:
 - vbob6.chm100108
 - vbob6.chm102256
 ms.assetid: d92a32be-3e40-4ce2-ba11-fa797840984a
-ms.date: 12/06/2018
+ms.date: 12/26/2018
 ---
 
 
@@ -40,7 +40,7 @@ Represents the code behind a component, such as a [form](../../Glossary/vbe-glos
 
 ### Remarks
 
-You use the **CodeModule** object to modify (add, delete, or edit) the code associated with a component. Each component is associated with one **CodeModule** object. However, a **CodeModule** object can be associated with multiple [code panes](../../Glossary/vbe-glossary.md#code-pane).
+You use the **CodeModule** object to modify (add, delete, or edit) the code associated with a component. Each component is associated with one **CodeModule** object. However, a **CodeModule** object can be associated with multiple [code panes](#codepane).
 
 The methods associated with the **CodeModule** object enable you to manipulate and return information about the code text on a line-by-line basis. For example, you can use the **[AddFromString](../user-interface-help/addfromstring-method-vba-add-in-object-model.md)** method to add text to the [module](../../Glossary/vbe-glossary.md#module). **AddFromString** places the text just above the first [procedure](../../Glossary/vbe-glossary.md#procedure) in the module or places the text at the end of the module if there are no procedures.
 
@@ -114,6 +114,8 @@ The **[BuiltIn](properties-visual-basic-add-in-model.md#builtin)** property retu
 
 Use the **[Name](properties-visual-basic-add-in-model.md#name)** property to determine if the reference you want to add or remove is the correct one.
 
+**See also** the **[Description](properties-visual-basic-add-in-model.md#description)** and **[Type](properties-visual-basic-add-in-model.md#type)** properties.
+
 ## ReferencesEvents
 
 Returned by the **[ReferencesEvents](properties-visual-basic-add-in-model.md#referencesevents)** property.
@@ -132,7 +134,7 @@ Represents a component, such as a [class module](../../Glossary/vbe-glossary.md#
 
 ### Remarks
 
-Use the **VBComponent** object to access the [code module](../../Glossary/vbe-glossary.md#code-module) associated with a component or to change a component's property settings.
+Use the **VBComponent** object to access the **[CodeModule](#codemodule)** object associated with a component or to change a component's property settings.
 
 You can use the **[Type](properties-visual-basic-add-in-model.md#type)** property to find out what type of component the **VBComponent** object refers to. 
 
@@ -170,7 +172,7 @@ Represents a [project](../../Glossary/vbe-glossary.md#project).
 
 ### Remarks
 
-Use the **VBProject** object to set [properties](../../Glossary/vbe-glossary.md#property) for the project, to access the **[VBComponents](collections-visual-basic-add-in-model.md#vbcomponents)** collection, and to access the **References** collection.
+Use the **VBProject** object to set [properties](../../Glossary/vbe-glossary.md#property) for the project, and to access the **[VBComponents](collections-visual-basic-add-in-model.md#vbcomponents)** and **[References](collections-visual-basic-add-in-model.md#references)** collections.
 
 ## Window
 
@@ -196,9 +198,11 @@ You can use the **[Close](../user-interface-help/close-method-vba-add-in-object-
 
 You can use the **[SetFocus](../user-interface-help/setfocus-method-vba-add-in-object-model.md)** method to move the [focus](../../Glossary/vbe-glossary.md#focus) to a window.
 
-You can use the **Visible** property to return or set the visibility of a window.
+You can use the **[Visible](properties-visual-basic-add-in-model.md#visible)** property to return or set the visibility of a window.
 
-To find out what type of window you are working with, you can use the **[Type](properties-visual-basic-add-in-model.md#type)** property. If you have more than one window of a type, for example, multiple designers, you can use the **[Caption](properties-visual-basic-add-in-model.md#caption)** property to determine the window you are working with. You can also find the window you want to work with by using the **DesignerWindow** property of the **[VBComponent](#vbcomponent)** object or the **Window** property of the **[CodePane](#codepane)** object.
+To find out what type of window you are working with, you can use the **[Type](properties-visual-basic-add-in-model.md#type)** property. If you have more than one window of a type, for example, multiple designers, you can use the **[Caption](properties-visual-basic-add-in-model.md#caption)** property to determine the window you are working with. 
+
+You can also find the window you want to work with by using the **DesignerWindow** property of the **[VBComponent](#vbcomponent)** object or the **Window** property of the **[CodePane](#codepane)** object.
 
 ## See also
 

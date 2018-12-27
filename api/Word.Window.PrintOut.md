@@ -46,8 +46,8 @@ Prints all or part of the document displayed in the specified window.
 | _ManualDuplexPrint_|Optional| **Variant**| **True** to print a two-sided document on a printer without a duplex printing kit. If this argument is **True** , the **PrintBackground** and **PrintReverse** properties are ignored. Use the **PrintOddPagesInAscendingOrder** and **PrintEvenPagesInAscendingOrder** properties to control the output during manual duplex printing. This argument may not be available to you, depending on the language support (U.S. English, for example) that you?ve selected or installed.|
 | _PrintZoomColumn_|Optional| **Variant**|The number of pages you want Word to fit horizontally on one page. Can be 1, 2, 3, or 4. Use with the PrintZoomRow argument to print multiple pages on a single sheet.|
 | _PrintZoomRow_|Optional| **Variant**|The number of pages you want Word to fit vertically on one page. Can be 1, 2, or 4. Use with the PrintZoomColumn argument to print multiple pages on a single sheet.|
-| _PrintZoomPaperWidth_|Optional| **Variant**|The width to which you want Word to scale printed pages, in twips (20 twips = 1 point; 72 points = 1 inch).|
-| _PrintZoomPaperHeight_|Optional| **Variant**|The height to which you want Word to scale printed pages, in twips (20 twips = 1 point; 72 points = 1 inch).|
+| _PrintZoomPaperWidth_|Optional| **Variant**|The width to which you want Word to scale printed pages, in [twips](../language/glossary/vbe-glossary.md#twip) (20 twips = 1 point; 72 points = 1 inch).|
+| _PrintZoomPaperHeight_|Optional| **Variant**|The height to which you want Word to scale printed pages, in [twips](../language/glossary/vbe-glossary.md#twip) (20 twips = 1 point; 72 points = 1 inch).|
 
 ## Example
 

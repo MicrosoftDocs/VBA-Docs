@@ -17,7 +17,7 @@ Returns a Range object that represents the cells in the specified range, as it a
 
  _expression_. `Cells`
 
- _expression_ Required. An expression that returns an object in the Applies To List.
+ _expression_ Required. An expression that returns an object in the **Applies To** list.
 
 
 ## Example

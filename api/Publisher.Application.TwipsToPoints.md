@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.TwipsToPoints Method (Publisher)
 
-Converts a measurement from twips to points (20 twips = 1 point). Returns the converted measurement as a  **Single**.
+Converts a measurement from [twips](../language/glossary/vbe-glossary.md#twip) to points (20 [twips](../language/glossary/vbe-glossary.md#twip) = 1 point). Returns the converted measurement as a  **Single**.
 
 
 ## Syntax
@@ -29,7 +29,7 @@ Converts a measurement from twips to points (20 twips = 1 point). Returns the co
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Value|Required| **Single**|The twip value to be converted to points.|
+|Value|Required| **Single**|The [twip](../language/glossary/vbe-glossary.md#twip) value to be converted to points.|
 
 ## Return value
 
@@ -43,7 +43,7 @@ Use the  **[PointsToTwips](Publisher.Application.PointsToTwips.md)** method to c
 
 ## Example
 
-This example converts measurements in twips entered by the user to measurements in points.
+This example converts measurements in [twips](../language/glossary/vbe-glossary.md#twip) entered by the user to measurements in points.
 
 
 ```vb

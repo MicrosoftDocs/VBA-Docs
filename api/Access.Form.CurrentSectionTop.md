@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Form.CurrentSectionTop property (Access)
 
-You can use this property to determine the distance in twips from the top edge of the current section to the top edge of the form. Read/write  **Integer**.
+You can use this property to determine the distance in [twips](../language/glossary/vbe-glossary.md#twip) from the top edge of the current section to the top edge of the form. Read/write  **Integer**.
 
 
 ## Syntax

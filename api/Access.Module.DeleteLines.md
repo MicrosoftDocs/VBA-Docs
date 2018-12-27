@@ -13,19 +13,17 @@ ms.date: 06/08/2017
 
 # Module.DeleteLines method (Access)
 
-The  **DeleteLines** method deletes lines from a standard module or a class module.
+The **DeleteLines** method deletes lines from a standard module or a class module.
 
 
 ## Syntax
 
-_expression_. `DeleteLines`( ` _StartLine_`, ` _Count_` )
+_expression_.**DeleteLines** (_StartLine_, _Count_)
 
 _expression_ A variable that represents a [Module](Access.Module.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,9 +37,9 @@ Nothing
 
 ## Remarks
 
-Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the  **[CountOfLines](Access.Module.CountOfLines.md)** property.
+Lines in a module are numbered beginning with one. To determine the number of lines in a module, use the **[CountOfLines](Access.Module.CountOfLines.md)** property.
 
-To replace one line with another line, use the  **[ReplaceLine](Access.Module.ReplaceLine.md)** method.
+To replace one line with another line, use the **[ReplaceLine](Access.Module.ReplaceLine.md)** method.
 
 
 ## Example
@@ -86,10 +84,9 @@ Error_DeleteWholeLine:
 End Function
 ```
 
+<br/>
+
 You could call this function from a procedure such as the following, which searches the module Module1 for a constant declaration and deletes it.
-
-
-
 
 ```vb
 Sub DeletePiConst() 
@@ -104,6 +101,5 @@ End Sub
 
 ## See also
 
-
-[Module Object](Access.Module.md)
+- [DeleteLines method (VBA Add-In Object Model)](../language/reference/user-interface-help/deletelines-method-vba-add-in-object-model.md)
 

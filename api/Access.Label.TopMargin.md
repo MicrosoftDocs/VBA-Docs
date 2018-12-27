@@ -32,7 +32,7 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 ## Example
 
-The following example offsets the caption in the label "EmployeeID_Label" in the "Purchase Orders" form by 100 twips from the top of the label's border.
+The following example offsets the caption in the label "EmployeeID_Label" in the "Purchase Orders" form by 100 [twips](../language/glossary/vbe-glossary.md#twip) from the top of the label's border.
 
 
 ```vb

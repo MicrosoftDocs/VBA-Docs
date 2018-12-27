@@ -17,7 +17,7 @@ Returns or sets the primary color of the Border object, Font object, or the Inte
 
  _expression_. `Color`
 
- _expression_ Required. An expression that returns an object in the Applies To List.
+ _expression_ Required. An expression that returns an object in the **Applies To** list.
 
 
 ## Example

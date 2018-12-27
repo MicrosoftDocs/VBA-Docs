@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.CreateReportControl method (Access)
 
-The  **CreateReportControl** method creates a control on a specified open report. For more information, see the **[CreateControl](Access.Application.CreateControl.md)** method.
+The **CreateReportControl** method creates a control on a specified open report. For more information, see the **[CreateControl](Access.Application.CreateControl.md)** method.
 
 
 ## Syntax
@@ -30,12 +30,12 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ReportName_|Required|**String**|The name of the open report on which you want to create the control.|
-| _ControlType_|Required|**AcControlType**|An  **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|
-| _Section_|Optional|**AcSection**|An  **[AcSection](Access.AcSection.md)** constant that identifying the section that will contain the new control.|
+| _ControlType_|Required|**AcControlType**|An **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|
+| _Section_|Optional|**AcSection**|An **[AcSection](Access.AcSection.md)** constant that identifying the section that will contain the new control.|
 | _Parent_|Optional|**Variant**|A string expression identifying the name of the parent control of an attached control. For controls that have no parent control, use a zero-length string for this argument, or omit it.|
 | _ColumnName_|Optional|**Variant**| The name of the field to which the control will be bound, if it is to be a data-bound control.|
-| _Left, Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in twips.|
-| _Width, Height_|Optional|**Variant**|The width and height of the control in twips.|
+| _Left, Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in [twips](../language/glossary/vbe-glossary.md#twip.|
+| _Width, Height_|Optional|**Variant**|The width and height of the control in [twips](../language/glossary/vbe-glossary.md#twip.|
 
 ## Return value
 
