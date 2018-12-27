@@ -70,7 +70,7 @@ Option Compare Text
 
 ## Dim statement syntax
 
-**Dim**_varname_ [([ _subscripts_ ])] [ **As**_type_, ] [ _varname_ [([ _subscripts_ ])] [ **As**_type_ ]] **. . .**
+**Dim** _varname_ [([ _subscripts_ ])] [ **As**_type_, ] [ _varname_ [([ _subscripts_ ])] [ **As**_type_ ]] **. . .**
 
 In the **[Dim](../../reference/user-interface-help/dim-statement.md)** statement syntax, the word **Dim** is a required [keyword](../../Glossary/vbe-glossary.md#keyword). The only required element is _varname_ (the variable name). 
 
