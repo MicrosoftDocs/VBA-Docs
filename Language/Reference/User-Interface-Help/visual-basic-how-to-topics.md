@@ -10,13 +10,13 @@ ms.date: 11/21/2018
 
 Describes useful common procedures (for example, how to use the **Object Browser** or how to set Visual Basic Environment options).
 
-- [Add a Watch expression](../../Concepts/Forms/add-a-watch-expression.md)
+- [Add a watch expression](../../Concepts/Forms/add-a-watch-expression.md)
 - [Check or add an Object Library Reference](../../How-to/check-or-add-an-object-library-reference.md)
 - [Continue code execution](../../How-to/continue-code-execution.md)
 - [Copy example code from Help](../../How-to/copy-example-code-from-help.md)
 - [Create a procedure](../../How-to/create-a-procedure.md)
-- [Delete a Watch expression](../../How-to/delete-a-watch-expression.md)
-- [Edit a Watch expression](../../How-to/edit-a-watch-expression.md)
+- [Delete a watch expression](../../How-to/delete-a-watch-expression.md)
+- [Edit a watch expression](../../How-to/edit-a-watch-expression.md)
 - [Enter a declaration in code](../../How-to/enter-a-declaration-in-code.md)
 - [Execute a specific statement](../../How-to/execute-a-specific-statement.md)
 - [Find a procedure](../../How-to/find-a-procedure.md)

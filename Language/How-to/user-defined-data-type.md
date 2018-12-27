@@ -1,5 +1,5 @@
 ---
-title: User-defined data type
+title: User-defined data type (VBA)
 keywords: vblr6.chm1009052
 f1_keywords:
 - vblr6.chm1009052
@@ -28,3 +28,4 @@ End Type ' female, 1 for male).
 ## See also
 
 - [Data type summary](../reference/user-interface-help/data-type-summary.md)
+- [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
