@@ -103,5 +103,8 @@ PenColor = "Red"
 
 ## See also
 
+- [Calling property procedures](../../concepts/getting-started/calling-property-procedures.md)
+- [Executing code when setting properties](../../concepts/getting-started/executing-code-when-setting-properties.md)
+- [Writing a property procedure](../../concepts/getting-started/writing-a-property-procedure.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)

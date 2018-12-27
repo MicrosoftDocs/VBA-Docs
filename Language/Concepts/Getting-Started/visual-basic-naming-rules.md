@@ -29,4 +29,5 @@ Use the following rules when you name [procedures](../../Glossary/vbe-glossary.m
 
 ## See also
 
+- [Document conventions (VBA)](document-conventions-visual-basic-for-applications.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

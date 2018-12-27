@@ -110,6 +110,7 @@ End Sub
 ## See also
 
 - [If...Then...Else directive](ifthenelse-directive.md)
+- [Using If...Then...Else statements](../../concepts/getting-started/using-ifthenelse-statements.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)

@@ -106,5 +106,6 @@ Open "TESTFILE" For Binary Access Read Lock Read As #1
 
 ## See also
 
+- [Writing data to files](../../concepts/getting-started/writing-data-to-files.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)

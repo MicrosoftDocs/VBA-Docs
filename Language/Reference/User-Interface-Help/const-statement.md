@@ -66,6 +66,7 @@ Const MyStr = "Hello", MyDouble As Double = 3.4567
 
 ## See also
 
+- [Declaring constants](../../concepts/getting-started/declaring-constants.md)
 - [Const directive](const-directive.md)
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)

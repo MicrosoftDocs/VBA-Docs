@@ -150,5 +150,8 @@ RetVal = MyFunc(MyStr:="Hello ", MyArg1:=7)
 
 ## See also
 
+- [Calling Sub and Function procedures](../../concepts/getting-started/calling-sub-and-function-procedures.md)
+- [Understanding named arguments and optional arguments](../../concepts/getting-started/understanding-named-arguments-and-optional-arguments.md)
+- [Writing a Function procedure](../../concepts/getting-started/writing-a-function-procedure.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
