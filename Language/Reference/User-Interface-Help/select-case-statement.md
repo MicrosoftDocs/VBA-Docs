@@ -79,6 +79,7 @@ End Select
 
 ## See also
 
+- [Using Select Case statements](../../concepts/getting-started/using-select-case-statements.md)
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)
 - [Statements](../statements.md)

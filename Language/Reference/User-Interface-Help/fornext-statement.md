@@ -86,6 +86,8 @@ Next Words
 
 ## See also
 
+- [Making faster For...Next loops](../../concepts/getting-started/making-faster-fornext-loops.md)
+- [Using For...Next statements](../../concepts/getting-started/using-fornext-statements.md)
 - [For Each...Next statement](for-eachnext-statement.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
