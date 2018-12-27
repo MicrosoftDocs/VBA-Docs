@@ -11,7 +11,7 @@ ms.date: 12/26/2018
 
 # Writing data to files
 
-When working with large amounts of data, it is often convenient to write data to or read data from a file. The **[Open](reference/user-interface-help/open-statement.md)** statement lets you create and access files directly. **Open** provides three types of file access:
+When working with large amounts of data, it is often convenient to write data to or read data from a file. The **[Open](../../reference/user-interface-help/open-statement.md)** statement lets you create and access files directly. **Open** provides three types of file access:
 
 - Sequential access (**Input**, **Output**, and **Append** modes) is used for writing text files, such as error logs and reports.
     
