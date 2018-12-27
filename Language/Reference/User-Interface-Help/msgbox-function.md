@@ -14,7 +14,7 @@ Displays a message in a dialog box, waits for the user to click a button, and re
 
 ## Syntax
 
-**MsgBox**(_prompt_, [ _buttons_ ], [ _title_ ], [ _helpfile_, _context_ ])
+**MsgBox** (_prompt_, [ _buttons_, ] [ _title_, ] [ _helpfile_, _context_ ])
 
 <br/>
 

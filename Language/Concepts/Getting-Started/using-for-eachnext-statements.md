@@ -1,18 +1,17 @@
 ---
-title: Using For Each...Next Statements (VBA)
+title: Using For Each...Next statements (VBA)
 keywords: vbcn6.chm1076683
 f1_keywords:
 - vbcn6.chm1076683
 ms.prod: office
 ms.assetid: 76df8944-219a-c28b-c449-39a3108c11be
-ms.date: 06/08/2017
+ms.date: 12/26/2018
 ---
 
 
-# Using For Each...Next Statements
+# Using For Each...Next statements
 
- **For Each...Next** statements repeat a block of[statements](../../Glossary/vbe-glossary.md#statement) for each[object](../../Glossary/vbe-glossary.md#object) in a [collection](../../Glossary/vbe-glossary.md#collection) or each element in an [array](../../Glossary/vbe-glossary.md#array). Visual Basic automatically sets a [variable](../../Glossary/vbe-glossary.md#variable) each time the loop runs. For example, the following[procedure](../../Glossary/vbe-glossary.md#procedure) closes all forms except the form containing the procedure that's running.
-
+**[For Each...Next](../../reference/user-interface-help/for-eachnext-statement.md)** statements repeat a block of [statements](../../Glossary/vbe-glossary.md#statement) for each [object](../../Glossary/vbe-glossary.md#object) in a [collection](../../Glossary/vbe-glossary.md#collection) or each element in an [array](../../Glossary/vbe-glossary.md#array). Visual Basic automatically sets a [variable](../../Glossary/vbe-glossary.md#variable) each time the loop runs. For example, the following [procedure](../../Glossary/vbe-glossary.md#procedure) closes all forms except the form containing the procedure that's running.
 
 ```vb
 Sub CloseForms() 
@@ -22,11 +21,7 @@ Sub CloseForms()
 End Sub
 ```
 
-
 The following code loops through each element in an array and sets the value of each to the value of the index variable I.
-
-
-
 
 ```vb
 Dim TestArray(10) As Integer, I As Variant 
@@ -37,10 +32,9 @@ Next I
 ```
 
 
-## Looping Through a Range of Cells
+## Looping through a range of cells
 
-Use a  **For Each...Next** loop to loop through the cells in a range. The following procedure loops through the range A1:D10 on Sheet1 and sets any number whose absolute value is less than 0.01 to 0 (zero).
-
+Use a **For Each...Next** loop to loop through the cells in a range. The following procedure loops through the range A1:D10 on Sheet1 and sets any number whose absolute value is less than 0.01 to 0 (zero).
 
 ```vb
 Sub RoundToZero() 
@@ -50,15 +44,11 @@ Sub RoundToZero()
 End Sub
 ```
 
+## Exiting a For Each...Next loop before it is finished
 
-## Exiting a For Each...Next Loop Before it is Finished
+You can exit a **For Each...Next** loop by using the **[Exit For](../../reference/user-interface-help/exit-statement.md)** statement. For example, when an error occurs, use the **Exit For** statement in the **True** statement block of either an **[If...Then...Else](../../reference/user-interface-help/ifthenelse-statement.md)** statement or a **[Select Case](../../reference/user-interface-help/select-case-statement.md)** statement that specifically checks for the error. If the error does not occur, the **If…Then…Else** statement is **False** and the loop continues to run as expected.
 
-You can exit a  **For Each...Next** loop using the **Exit For** statement. For example, when an error occurs, use the **Exit For** statement in the **True** statement block of either an **If...Then...Else** statement or a **Select Case** statement that specifically checks for the error. If the error does not occur, then the **If…Then…Else** statement is **False** and the loop continues to run as expected.
-
-The following example tests for the first cell in the range A1:B5 that does not contain a number. If such a cell is found, a message is displayed and  **Exit For** exits the loop.
-
-
-
+The following example tests for the first cell in the range A1:B5 that does not contain a number. If such a cell is found, a message is displayed and **Exit For** exits the loop.
 
 ```vb
 Sub TestForNumbers() 
