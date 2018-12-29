@@ -15,7 +15,7 @@ ms.date: 12/27/2018
 
 1. From the **[Tools](../reference/user-interface-help/tools-menu.md)** menu, choose **&lt;projectname&gt; Properties**.
     
-2. Use the **[General](../reference/user-interface-help/project-properties-dialog-box#general-tab.md)** tab in the **&lt;projectname&gt; Properties** dialog box to specify the following:
+2. Use the **[General](../reference/user-interface-help/project-properties-dialog-box.md#general-tab)** tab in the **&lt;projectname&gt; Properties** dialog box to specify the following:
     
    - Name of your project.
     
