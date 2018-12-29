@@ -16,5 +16,6 @@ In the **Properties** window, set the **AutoSize** property to **True**.
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

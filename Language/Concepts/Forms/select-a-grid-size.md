@@ -11,20 +11,14 @@ ms.date: 12/29/2018
 
 # Select a grid size
 
-
-
-
-1. From the  **Tools** menu, choose **Options**.
+1. From the **Tools** menu, choose **Options**.
     
-2. In the  **Options** dialog box, choose the **General** page.
+2. In the **Options** dialog box, choose the **General** tab.
     
-3. In the  **Form Grid Settings** group, specify the size you want for each[grid block](../../Glossary/glossary-vba.md#grid-block). Specifying smaller numbers results in smaller grid blocks.
+3. In the **Form Grid Settings** group, specify the size you want for each [grid block](../../Glossary/glossary-vba.md#grid-block). Specifying smaller numbers results in smaller grid blocks.
     
-
-
-
-
- **Tip**  If you use the  **Arrange Buttons** command to position command buttons in your application, try a small grid setting. This will allow you to position the buttons closer to the edge of the form.
+> [!TIP] 
+> If you use the **Arrange Buttons** command to position command buttons in your application, try a small grid setting. This will allow you to position the buttons closer to the edge of the form.
 
 
 ## See also

@@ -11,14 +11,11 @@ ms.date: 12/29/2018
 
 # Set the ToolTip for a Toolbox page
 
-
-
-
 1. Select the page of the **[Toolbox](../../reference/user-interface-help/toolbox.md)**.
     
 2. Right-click.
     
-3. From the shortcut menu, choose  **Rename**.
+3. From the shortcut menu, choose **Rename**.
     
 4. Enter the new text for the ToolTip.
     

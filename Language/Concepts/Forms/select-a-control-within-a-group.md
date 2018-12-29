@@ -11,9 +11,6 @@ ms.date: 12/29/2018
 
 # Select a control within a group
 
-
-
-
 1. Select the group.
     
 2. Select a single control within the group. The sizing handles around the group become lighter, and dark handles appear on the selected control. You can change the value of the selected control's properties. Any changes you make will affect only the selected control.
@@ -22,6 +19,7 @@ ms.date: 12/29/2018
     
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 

@@ -11,20 +11,15 @@ ms.date: 12/29/2018
 
 # Show or hide ToolTips
 
-
-
-
-1. From the  **Tools** menu, choose **Options**.
+1. From the **Tools** menu, choose **Options**.
     
-2. Select the  **General** tab sheet.
+2. Select the **General** tab sheet.
     
 3. Do one of the following:
     
+   - To display ToolTips, select the **Show ToolTips** box.
     
-    
-      - To display ToolTips, check the  **Show ToolTips** box.
-    
-  - To hide ToolTips, clear the  **Show ToolTips** box.
+   - To hide ToolTips, clear the **Show ToolTips** box.
     
 
  ## See also

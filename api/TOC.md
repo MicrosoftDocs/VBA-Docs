@@ -34458,7 +34458,7 @@
 ##### [Tips on setting the dominant control](../Language/Concepts/Forms/tips-on-setting-the-dominant-control.md)
 ##### [Tips on using text boxes](../Language/Concepts/Forms/tips-on-using-text-boxes.md)
 ##### [Transparency in Microsoft Forms](../Language/Concepts/Forms/transparency-in-microsoft-forms.md)
-##### [Undo and redo in Microsoft Forms](../Language/Concepts/Forms/undo-and-redo-in-microsoft-forms.md)
+##### [Undo and Redo in Microsoft Forms](../Language/Concepts/Forms/undo-and-redo-in-microsoft-forms.md)
 ##### [Use z-order to layer controls](../Language/Concepts/Forms/use-z-order-to-layer-controls.md)
 ##### [What is a caption?](../Language/Concepts/Forms/what-is-a-caption.md)
 ##### [What is a control tip?](../Language/Concepts/Forms/what-is-a-control-tip.md)

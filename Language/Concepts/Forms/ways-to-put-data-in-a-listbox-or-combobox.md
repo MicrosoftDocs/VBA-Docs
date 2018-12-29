@@ -1,5 +1,5 @@
 ---
-title: Ways to put data in a ListBox or ComboBox
+title: Put data in a ListBox or ComboBox
 keywords: fm20.chm5225251
 f1_keywords:
 - fm20.chm5225251
@@ -9,9 +9,11 @@ ms.date: 12/29/2018
 ---
 
 
-# Ways to put data in a ListBox or ComboBox
+# Put data in a ListBox or ComboBox
 
-In a  **ListBox** or **ComboBox** with a single column, the **AddItem** method provides an effective technique for adding an individual entry to the list. In a multi-column **ListBox** or **ComboBox**, however, the **List** and **Column** properties offer another technique; you can load the list from a two-dimensional [array](../../Glossary/vbe-glossary.md#array).
+In a **ListBox** or **ComboBox** with a single column, the **AddItem** method provides an effective technique for adding an individual entry to the list. 
+
+In a multi-column **ListBox** or **ComboBox**, however, the **List** and **Column** properties offer another technique; you can load the list from a two-dimensional [array](../../Glossary/vbe-glossary.md#array).
 
 ## See also
 

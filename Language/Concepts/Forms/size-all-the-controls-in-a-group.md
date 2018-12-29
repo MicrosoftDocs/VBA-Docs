@@ -11,15 +11,11 @@ ms.date: 12/29/2018
 
 # Size all the controls in a group
 
-
-
-
 1. Select the group. A rectangle with sizing handles surrounds the group to indicate it is selected.
     
 2. Click one of the sizing handles and drag it to change the size of the rectangle.
     
 3. Release the mouse button. The size of each control will be changed proportionately to the way you changed the rectangle around the group.
-    
 
 ## See also
 

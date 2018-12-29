@@ -11,24 +11,16 @@ ms.date: 12/29/2018
 
 # Show or hide the grid
 
-
-
-
-1. From the  **Tools** menu, choose **Options**.
+1. From the **Tools** menu, choose **Options**.
     
-2. Select the  **General** tab sheet.
+2. Select the **General** tab sheet.
     
 3. Do one of the following:
     
+   - To show the grid, select the **Show Grid** box.
     
-    
-      - To show the grid, check the  **Show Grid** box.
-    
-  - To hide the grid, clear the  **Show Grid** box.
-    
+   - To hide the grid, clear the **Show Grid** box.
 
-    
-    
 4. Choose **OK**.
     
 ## See also

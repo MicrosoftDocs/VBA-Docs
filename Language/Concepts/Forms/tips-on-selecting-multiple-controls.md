@@ -13,18 +13,16 @@ ms.date: 12/29/2018
 
 You can select more than one control in three ways:
 
-
-
-- SHIFT+CLICK: Microsoft Forms creates an invisible selection rectangle around the selected controls and puts sizing handles on all controls within that rectangle.
+- **SHIFT+CLICK**: Microsoft Forms creates an invisible selection rectangle around the selected controls and puts sizing handles on all controls within that rectangle.
     
-- CTRL+CLICK: Sizing handles only appear on the selected controls, not on controls within the surrounding rectangle. Occasionally, this method may select additional controls that are near to or adjacent to the selected controls. In that case, use the  **Select Objects** pointer explained below.
+- **CTRL+CLICK**: Sizing handles only appear on the selected controls, not on controls within the surrounding rectangle. Occasionally, this method may select additional controls that are near to or adjacent to the selected controls. In that case, use the **Select Objects** pointer explained next.
     
--  **Select Objects** pointer on the **[Toolbox](../../reference/user-interface-help/toolbox.md)**: draw a rectangle over the controls you want to select. All controls that fall within or just touch the rectangle will be selected.
+- **Select Objects pointer on the [Toolbox](../../reference/user-interface-help/toolbox.md)**: Draw a rectangle over the controls you want to select. All controls that fall within or just touch the rectangle will be selected.
     
-
 When you select multiple controls, one of the selected controls becomes a reference for the rest of the selected controls and is called the dominant control.
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

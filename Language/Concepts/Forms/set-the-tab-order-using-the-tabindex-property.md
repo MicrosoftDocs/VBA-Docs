@@ -11,16 +11,13 @@ ms.date: 12/29/2018
 
 # Set the tab order using the TabIndex property
 
-
-
-
-1. Identify the [tab order](../../Glossary/vbe-glossary.md#tab-order) you want to use for the form.
+1. Identify the [tab order](../../Glossary/vbe-glossary.md#tab-order) that you want to use for the form.
     
-    The tab index of the first control in the tab order is 0; the tab index of the second is 1, and so on.
+   The tab index of the first control in the tab order is 0; the tab index of the second is 1, and so on.
     
 2. Select a control in the tab order.
     
-3. In the  **Properties** window, select the **TabIndex** property.
+3. In the **Properties** window, select the **TabIndex** property.
     
 4. Enter the appropriate number to identify the control's position in the tab order.
     

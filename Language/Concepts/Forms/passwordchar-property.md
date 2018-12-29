@@ -17,7 +17,7 @@ Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) char
 
 ## Syntax
 
-_object_. **PasswordChar** [= _String_ ]
+_object_.**PasswordChar** [= _String_ ]
 
 The **PasswordChar** property syntax has these parts:
 
