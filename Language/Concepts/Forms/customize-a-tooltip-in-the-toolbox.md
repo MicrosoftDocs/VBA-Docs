@@ -11,18 +11,15 @@ ms.date: 12/29/2018
 
 # Customize a ToolTip in the Toolbox
 
-
-
-
-1. Select the control in the Toolbox.
+1. Select the control in the **[Toolbox](../../reference/user-interface-help/toolbox.md)**.
     
 2. Right-click.
     
-3. From the shortcut menu, choose  **Customize**. The Customize command will include the name of the control, such as "Customize Label."
+3. From the shortcut menu, choose **Customize**. The Customize command will include the name of the control, such as **Customize Label**.
     
 4. Enter the new text for the ToolTip.
     
-5. Click OK.
+5. Choose **OK**.
     
 ## See also
 

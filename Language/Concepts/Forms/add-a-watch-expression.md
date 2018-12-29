@@ -32,7 +32,7 @@ A watch expression is an expression that you define to be monitored in the [Watc
     
    - To stop execution when the value of the expression changes, choose **Break When Value Changes**.
      
-5. Click **OK**.
+5. Choose **OK**.
     
 ## See also
 

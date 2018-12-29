@@ -11,31 +11,29 @@ ms.date: 12/29/2018
 
 # Assign a caption
 
-To assign a caption to a  **CheckBox**, **CommandButton**, **Frame**, **Label**, **OptionButton**, or **ToggleButton**:
+To assign a caption to a **CheckBox**, **CommandButton**, **Frame**, **Label**, **OptionButton**, or **ToggleButton**:
 
+1. Display the control's **Properties** window.
+    
+2. Select the **Caption** property.
+    
+3. Enter the text that you want to use as the caption.
+    
+<br/>
 
+To assign a caption to a **Page** or **Tab**:
 
-1. Display the control's  **Properties** window.
+1. Select the **MultiPage** or **TabStrip** that contains the **Page** or **Tab**.
     
-2. Select the  **Caption** property.
+2. Select the individual **Page** or **Tab**. When the **Page** or **Tab** is selected, a rectangle appears around its caption.
     
-3. Enter the text you want to use as the caption.
+3. Right-click the selected **MultiPage** or **TabStrip**.
     
-
-To assign a caption to a  **Page** or **Tab**:
-
-
-1. Select the  **MultiPage** or **TabStrip** that contains the **Page** or **Tab**.
+4. From the shortcut menu, choose **Rename**.
     
-2. Select the individual  **Page** or **Tab**. When the **Page** or **Tab** is selected, a rectangle appears around its caption.
+5. In the **Caption** field, enter the text that you want to use as the caption.
     
-3. Right-click the selected  **MultiPage** or **TabStrip**.
-    
-4. From the shortcut menu, choose  **Rename**.
-    
-5. In the  **Caption** field, enter the text you want to use as the caption.
-    
-6. Click OK.
+6. Choose **OK**.
     
 
 ## See also

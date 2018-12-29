@@ -11,14 +11,11 @@ ms.date: 12/29/2018
 
 # Create a standard list box
 
-
-
-
-1. In the  **Properties** window, select the **ListStyle** property.
+1. In the **Properties** window, select the **ListStyle** property.
     
 2. Click the drop-down arrow to display a list of available styles.
     
-3. From the list, choose  **Plain**.
+3. From the list, choose **Plain**.
     
 
 

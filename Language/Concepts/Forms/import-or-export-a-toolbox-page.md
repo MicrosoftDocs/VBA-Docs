@@ -11,23 +11,15 @@ ms.date: 12/29/2018
 
 # Import or export a Toolbox page
 
-
-
-
-1. Right-click the tab of any page in the Toolbox. If you import a page, it will be inserted after this page.
+1. Right-click the tab of any page in the **[Toolbox](../../reference/user-interface-help/toolbox.md)**. If you import a page, it will be inserted after this page.
     
 2. Do one of the following:
+ 
+   - To import a page, choose **Import Page**, and then select the name of the page file that you want to import.
     
-    
-    
-      - To import a page, choose  **Import Page**. Then select the name of the page file you want to import.
-    
-  - To export a page, choose  **Export Page**. Then enter a name for the file that will store a copy of the Toolbox page. Exporting a page does not remove it from the Toolbox.
-    
-
-    
-    
-3. Click OK.
+   - To export a page, choose **Export Page**, and then enter a name for the file that will store a copy of the Toolbox page. Exporting a page does not remove it from the Toolbox.
+ 
+3. Choose **OK**.
     
 
 ## See also

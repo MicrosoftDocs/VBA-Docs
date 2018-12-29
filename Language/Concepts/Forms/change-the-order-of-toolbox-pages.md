@@ -11,18 +11,15 @@ ms.date: 12/29/2018
 
 # Change the order of Toolbox pages
 
-
-
-
-1. Right-click the tab of any Toolbox page.
+1. Right-click the tab of any **[Toolbox](../../reference/user-interface-help/toolbox.md)** page.
     
-2. From the shortcut menu, choose  **Move**.
+2. From the shortcut menu, choose **Move**.
     
-3. Select the name of a page you want to move.
+3. Select the name of a page that you want to move.
     
-4. Choose  **Move Up** or **Move Down** until the page is at the appropriate position in the page list.
+4. Choose **Move Up** or **Move Down** until the page is at the appropriate position in the page list.
     
-5. Click OK.
+5. Choose **OK**.
     
 ## See also
 

@@ -15,7 +15,7 @@ A shortcut menu is a menu that appears when you right-click an object. In Micros
 
 
 
-- The Toolbox, each page in the Toolbox, and each item on a page of the Toolbox.
+- The **[Toolbox](../../reference/user-interface-help/toolbox.md)**, each page in the Toolbox, and each item on a page of the Toolbox.
     
 - Individual controls on a form.
     

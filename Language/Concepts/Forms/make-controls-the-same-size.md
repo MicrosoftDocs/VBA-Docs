@@ -11,24 +11,19 @@ ms.date: 12/29/2018
 
 # Make controls the same size
 
-
-
-
-1. Select all the controls you want to be the same size.
+1. Select all the controls that you want to be the same size.
     
 2. Select the [dominant control](../../Glossary/glossary-vba.md#dominant-control).
     
-3. From the  **Format** menu, choose **Make Same Size**.
+3. From the **[Format](../../reference/user-interface-help/format-menu.md)** menu, choose **Make Same Size**.
     
 4. From the cascading menu, choose one of the following:
     
+   - **Width**, to make all selected controls the same width as the dominant control.
     
+   - **Height**, to make all selected controls the same height as the dominant control.
     
-      -  **Width** — to make all selected controls the same width as the dominant control.
-    
-  -  **Height** — to make all selected controls the same height as the dominant control.
-    
-  -  **Both** — to make all selected controls the same height and width as the dominant control.
+   - **Both**, to make all selected controls the same height and width as the dominant control.
     
 ## See also
 

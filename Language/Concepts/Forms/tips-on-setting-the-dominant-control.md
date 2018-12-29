@@ -19,7 +19,7 @@ You can set the [dominant control](../../Glossary/glossary-vba.md#dominant-contr
     
 - CTRL+CLICK: The dominant control is the last control you select using CTRL+CLICK.
     
--  **Select Objects** pointer on the Toolbox: The dominant control is nearest the mouse pointer when you begin drawing the rectangle over the controls you want to select.
+-  **Select Objects** pointer on the **[Toolbox](../../reference/user-interface-help/toolbox.md)**: The dominant control is nearest the mouse pointer when you begin drawing the rectangle over the controls you want to select.
     
 
 If you CTRL+CLICK twice on a selected control, that control becomes the dominant control.

@@ -11,18 +11,12 @@ ms.date: 12/29/2018
 
 # Display a group's shortcut menu
 
-
-
-
 1. Select the group.
     
 2. Right-click anywhere inside the rectangle that surrounds the group.
     
-
-
-
-
- **Tip**  Click anywhere in the group, but not on the shortcut menu, to make the shortcut menu go away if you don't want to use any of the commands on the menu.
+> [!TIP] 
+> Click anywhere in the group, but not on the shortcut menu, to make the shortcut menu go away if you don't want to use any of the commands on the menu.
 
 
 ## See also

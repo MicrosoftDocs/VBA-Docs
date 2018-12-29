@@ -17,7 +17,6 @@ To create a custom Help file, use a product or tool that creates Windows Help fi
 
 You can associate a specific topic in your custom Help file with each control in your application. When your application is running, the user can view your Help topic by selecting the control and pressing F1.
 
-
 ## See also
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)

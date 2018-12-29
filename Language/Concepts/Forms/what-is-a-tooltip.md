@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # What is a ToolTip?
 
-A ToolTip is a short description, usually just a few words, that appears when the user holds the mouse pointer briefly over a control or another part of the user interface without clicking. You can customize ToolTips for controls and for the Toolbox.
+A ToolTip is a short description, usually just a few words, that appears when the user holds the mouse pointer briefly over a control or another part of the user interface without clicking. You can customize ToolTips for controls and for the **[Toolbox](../../reference/user-interface-help/toolbox.md)**.
 
 The default value for a new control that is copied from a form to the Toolbox is "New" followed by the control type. For example, the default ToolTip for a customized CommandButton (such as OK) is "New CommandButton". If a control has no associated ToolTip, "Unknown" is the default value.
 

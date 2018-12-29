@@ -11,12 +11,9 @@ ms.date: 12/29/2018
 
 # Create a new Toolbox page
 
-
-
-
-1. Right-click the tab of any Toolbox page. The new page will be inserted after this page.
+1. Right-click the tab of any **[Toolbox](../../reference/user-interface-help/toolbox.md)** page. The new page will be inserted after this page.
     
-2. Choose  **New Page**.
+2. Choose **New Page**.
     
 ## See also
 

@@ -13,15 +13,12 @@ ms.date: 12/29/2018
 
 Through the user interface:
 
-
-
 - Drag the title bar until the form is where you want it.
     
 
 At design time:
 
-
-- Set the form's  **Left** and **Top** properties to the appropriate values. You can set these properties through the **Properties** window or through code.
+- Set the form's **Left** and **Top** properties to the appropriate values. You can set these properties through the **Properties** window or through code.
     
 
 ## See also

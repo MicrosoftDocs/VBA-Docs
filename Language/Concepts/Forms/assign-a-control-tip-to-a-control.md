@@ -11,22 +11,17 @@ ms.date: 12/29/2018
 
 # Assign a control tip to a control
 
-
-
-
 1. Select the control.
     
-2. In the  **Properties** window, select the **ControlTipText** property. You can also set the value of **ControlTipText** through code.
+2. In the **Properties** window, select the **ControlTipText** property. You can also set the value of **ControlTipText** through code.
     
 3. Enter the string you want to use as the [control tip](../../Glossary/glossary-vba.md#control-tip).
     
-
-
-
-
- **Tip**  To assign a control tip for a  **Page** or **Tab**, use the **Rename** command on the shortcut menu of the **Page** or **Tab**.
+> [!TIP] 
+> To assign a control tip for a **Page** or **Tab**, use the **Rename** command on the shortcut menu of the **Page** or **Tab**.
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

@@ -11,18 +11,17 @@ ms.date: 12/29/2018
 
 # Assign a custom Help topic to a control
 
-This procedure assumes you have created a custom Help file and associated it with your project. The procedure for associating a Help file with a project depends on your project environment.
-
-
+This procedure assumes that you have created a custom Help file and associated it with your project. The procedure for associating a Help file with a project depends on your project environment.
 
 1. Select a control for which you have written a custom Help topic.
     
-2. In the  **Properties** window, select the **HelpContextID** property.
+2. In the **Properties** window, select the **HelpContextID** property.
     
 3. Enter the context ID of the appropriate topic from your custom Help file.
     
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

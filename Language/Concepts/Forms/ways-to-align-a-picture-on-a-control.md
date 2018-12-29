@@ -1,5 +1,5 @@
 ---
-title: Ways to align a picture on a control
+title: Align a picture on a control
 keywords: fm20.chm5225263
 f1_keywords:
 - fm20.chm5225263
@@ -9,20 +9,19 @@ ms.date: 12/29/2018
 ---
 
 
-# Ways to align a picture on a control
+# Align a picture on a control
 
-The  **Picture** property assigns a bitmap or other picture to a control. After you assign the picture to the control, you can do any of the following to align the picture on the control:
+The **Picture** property assigns a bitmap or other picture to a control. After you assign the picture to the control, you can do any of the following to align the picture on the control:
 
-
-
-- Use the  **PictureAlignment** property to center the picture within the **Image** or align any corner of the picture with the corresponding corner of the **Image**.
+- Use the **PictureAlignment** property to center the picture within the **Image** or align any corner of the picture with the corresponding corner of the **Image**.
     
-- Use the  **PictureSizeMode** property to clip, stretch, or zoom the picture within the **Image**. Stretching can distort the picture, but zooming will not.
+- Use the **PictureSizeMode** property to clip, stretch, or zoom the picture within the **Image**. Stretching can distort the picture, but zooming will not.
     
-- Use the  **PictureTiling** property to display multiple copies of the picture within the **Image**.
+- Use the **PictureTiling** property to display multiple copies of the picture within the **Image**.
     
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 

@@ -16,7 +16,7 @@ ms.date: 12/29/2018
 
 1. Select the control.
     
-2. From the  **Format** menu, choose **Size to Fit**. Microsoft Forms sets the size of the control so it is just large enough to display its picture and any text assigned to the **Caption** or **Text** property.
+2. From the  **[Format](../../reference/user-interface-help/format-menu.md)** menu, choose **Size to Fit**. Microsoft Forms sets the size of the control so it is just large enough to display its picture and any text assigned to the **Caption** or **Text** property.
     
 
 ## See also

@@ -11,20 +11,14 @@ ms.date: 12/29/2018
 
 # Assign an accelerator key
 
-
-
-
 1. In design mode, select the control on the form.
     
-2. In the  **Properties** window, select the **Accelerator** property.
+2. In the **Properties** window, select the **Accelerator** property.
     
-3. Enter a single character as the value for  **Accelerator**.
+3. Enter a single character as the value for **Accelerator**.
     
-
-
-
-
- **Tip**  Use a character from the caption of the control. Note that the selected character is underlined in the control's caption.
+> [!TIP] 
+> Use a character from the caption of the control. Note that the selected character is underlined in the control's caption.
 
 ## See also
 

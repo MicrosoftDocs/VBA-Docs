@@ -11,24 +11,19 @@ ms.date: 12/29/2018
 
 # Center controls in a form
 
-
-
-
 1. Select the controls or groups to center.
     
-2. From the  **Format** menu, choose **Center in Form**.
+2. From the **[Format](../../reference/user-interface-help/format-menu.md)** menu, choose **Center in Form**.
     
 3. From the cascading menu, choose one of the following:
     
-    
-    
-      -  **Horizontally**
-    
-  -  **Vertically**
+   - **Horizontally** 
+   - **Vertically**
     
 
-  ## See also
+## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)  
     

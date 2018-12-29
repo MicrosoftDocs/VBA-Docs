@@ -29,7 +29,7 @@ ms.date: 12/29/2018
 
     
     
-4. Click OK.
+4. Choose **OK**.
     
 ## See also
 

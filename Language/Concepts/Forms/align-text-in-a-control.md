@@ -11,32 +11,22 @@ ms.date: 12/29/2018
 
 # Align text in a control
 
-
-
-
-1. In the  **Properties** window, choose the **TextAlign** property.
+1. In the **Properties** window, choose the **TextAlign** property.
     
 2. Click the drop-down arrow next to the property's value to display a list of available choices.
     
 3. Choose one of the following:
     
+   - **Left**, to align the text with the left edge of the control.
     
+   - **Right**, to align the text with the right edge of the control.
     
-      -  **Left** — to align the text with the left edge of the control.
-    
-  -  **Right** — to align the text with the right edge of the control.
-    
-  -  **Center** — to center the text relative to the length of the control.
-    
+   - **Center**, to center the text relative to the length of the control.
 
-    
-    
-
-
-
- **TextAlign** is available for a **ComboBox**, **Label**, and **TextBox**.
+**TextAlign** is available for a **ComboBox**, **Label**, and **TextBox**.
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

@@ -11,25 +11,20 @@ ms.date: 12/29/2018
 
 # Assign an accelerator key for a Page or Tab
 
-
-
-
-1. In design mode, select an individual  **Page** or **Tab**. Be sure to select the **Page** or **Tab**, not the associated **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around the caption of the **Page** or **Tab**.
+1. In design mode, select an individual **Page** or **Tab**. Be sure to select the **Page** or **Tab**, not the associated **MultiPage** or **TabStrip**. When a **Page** or **Tab** is selected, a rectangle appears around the caption of the **Page** or **Tab**.
     
-2. Right-click the selected  **Page** or **Tab**.
+2. Right-click the selected **Page** or **Tab**.
     
-3. From the shortcut menu, choose  **Rename**.
+3. From the shortcut menu, choose **Rename**.
     
-4. In the  **Rename** dialog box, enter a single character in the **Accelerator Key** field.
+4. In the **Rename** dialog box, enter a single character in the **Accelerator Key** field.
     
-
-
-
-
- **Tip**  Use a character from the caption of the control. Note that the selected character is underlined in the control's caption.
+> [!TIP] 
+> Use a character from the caption of the control. Note that the selected character is underlined in the control's caption.
 
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

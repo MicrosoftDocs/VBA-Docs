@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # What is the Toolbox?
 
-The Toolbox identifies the different controls that you can add to a form,  **Frame**, or **Page**.
+The **[Toolbox](../../reference/user-interface-help/toolbox.md)** identifies the different controls that you can add to a form,  **Frame**, or **Page**.
 
 You can customize the Toolbox in many ways including the following:
 

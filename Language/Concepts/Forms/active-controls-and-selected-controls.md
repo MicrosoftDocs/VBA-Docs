@@ -17,9 +17,10 @@ Most controls are automatically selected when you put them on the form. In desig
 
 Clicking a control that is selected puts the control in the active state. In this state, you can directly edit the control's caption.
 
-In both the selected state and the active state, you can use DEL, CTRL+X, and CTRL+C as shortcut keys for the Delete, Cut, and Copy commands respectively. In the selected state, these commands are available on the shortcut menu and will affect the control itself. In the active state, these commands will affect whatever text is selected inside the control; if no text is selected, these commands have no effect. These commands are not available on the shortcut menu for active controls.
+In both the selected state and the active state, you can use DEL, CTRL+X, and CTRL+C as shortcut keys for the **Delete**, **Cut**, and **Copy** commands respectively. In the selected state, these commands are available on the shortcut menu and will affect the control itself. In the active state, these commands will affect whatever text is selected inside the control; if no text is selected, these commands have no effect. These commands are not available on the shortcut menu for active controls.
 
 ## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

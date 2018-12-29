@@ -11,16 +11,10 @@ ms.date: 12/29/2018
 
 # Delete a Toolbox page
 
-
-
-
-1. Right-click the tab of the Toolbox page you want to delete.
+1. Right-click the tab of the **[Toolbox](../../reference/user-interface-help/toolbox.md)** page that you want to delete.
     
-2. Choose  **Delete Page**. All controls on the page are deleted at the same time.
+2. Choose **Delete Page**. All controls on the page are deleted at the same time.
     
-
-
-
 ## See also
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)

@@ -11,18 +11,12 @@ ms.date: 12/29/2018
 
 # Delete an item from the Toolbox
 
-
-
-
-1. In the Toolbox, right-click the icon of the item you want to remove.
+1. In the **[Toolbox](../../reference/user-interface-help/toolbox.md)**, right-click the icon of the item you want to remove.
     
-2. Click  **Delete** on the shortcut menu.
+2. Choose **Delete** on the shortcut menu.
     
-
-
-
-
- **Note**  If you are deleting controls, you can use  **Additional Controls** from the shortcut menu, and clear the check boxes of all controls you want to delete.
+> [!NOTE] 
+> If you are deleting controls, you can use **Additional Controls** from the shortcut menu, and clear the check boxes of all controls that you want to delete.
 
 
 ## See also

@@ -11,10 +11,7 @@ ms.date: 12/29/2018
 
 # Change the size of the Toolbox
 
-
-
-
-1. Move the mouse pointer over an edge or a corner of the Toolbox. The pointer changes to a double-ended arrow.
+1. Move the mouse pointer over an edge or a corner of the **[Toolbox](../../reference/user-interface-help/toolbox.md)**. The pointer changes to a double-ended arrow.
     
 2. Drag the Toolbox to change its size.
     

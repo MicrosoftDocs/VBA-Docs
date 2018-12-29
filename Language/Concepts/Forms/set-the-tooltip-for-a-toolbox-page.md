@@ -14,7 +14,7 @@ ms.date: 12/29/2018
 
 
 
-1. Select the page of the Toolbox.
+1. Select the page of the **[Toolbox](../../reference/user-interface-help/toolbox.md)**.
     
 2. Right-click.
     
@@ -22,7 +22,7 @@ ms.date: 12/29/2018
     
 4. Enter the new text for the ToolTip.
     
-5. Click OK.
+5. Choose **OK**.
     
 
 ## See also
