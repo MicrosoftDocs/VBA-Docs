@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225239
 ms.prod: office
 ms.assetid: 0ed2c881-a76b-8242-b2ef-d8d87d7792bb
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -36,3 +36,7 @@ ms.date: 06/08/2017
 
  **TextAlign** is available for a **ComboBox**, **Label**, and **TextBox**.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

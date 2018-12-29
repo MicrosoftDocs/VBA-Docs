@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225244
 ms.prod: office
 ms.assetid: e25fb39b-5a41-49c8-25fb-0ea9569a7ad6
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -48,3 +48,7 @@ ms.date: 06/08/2017
  **Note**  Each command on the menu has a small picture that shows how the controls will be aligned.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

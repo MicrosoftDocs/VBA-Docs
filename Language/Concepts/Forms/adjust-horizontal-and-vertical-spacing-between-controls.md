@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225245
 ms.prod: office
 ms.assetid: cf285cee-8ef1-c7ca-1fb1-408f2ad74f1d
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -30,7 +30,10 @@ ms.date: 06/08/2017
     
   -  **Remove** — to remove the space between controls. The controls do not overlap, but are immediately adjacent to each other.
     
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
     
     
 

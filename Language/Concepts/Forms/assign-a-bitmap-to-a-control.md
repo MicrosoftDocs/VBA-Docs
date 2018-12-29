@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225262
 ms.prod: office
 ms.assetid: 66f50814-b63c-f4e3-dd23-23b79d67aa43
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -22,3 +22,7 @@ In the  **Properties** window:
 
 If the picture is larger than the control, Microsoft Forms scales the picture to fit the control, regardless of whether you assign the picture through the  **Properties** window or through code. The **PictureAlignment** property determines how it is aligned within the control.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

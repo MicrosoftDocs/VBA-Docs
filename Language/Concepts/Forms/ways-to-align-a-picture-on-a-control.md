@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225263
 ms.prod: office
 ms.assetid: 30584c25-3cb7-86b9-91ad-9704b996ef32
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -21,5 +21,8 @@ The  **Picture** property assigns a bitmap or other picture to a control. After 
     
 - Use the  **PictureTiling** property to display multiple copies of the picture within the **Image**.
     
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 

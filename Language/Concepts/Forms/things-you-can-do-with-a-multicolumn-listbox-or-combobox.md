@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225252
 ms.prod: office
 ms.assetid: 99a32411-4a80-043c-b312-42fb3c3eb83f
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -18,3 +18,7 @@ If you want to hide all but one column of a  **ListBox** or **ComboBox** from th
 Similarly, you can control which column of values is used for the control when the user makes a selection by specifying the column number in the  **BoundColumn** property.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

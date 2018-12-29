@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225256
 ms.prod: office
 ms.assetid: 03e01236-e877-11a1-5de7-52d6307185e7
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -27,4 +27,7 @@ The first method is recommended over the second because it reduces the number of
 
  **Note**  A  **TabStrip** is not a container. Option buttons in the **TabStrip** are included in the form's option group. You can use **GroupName** to create an option group from buttons in a **TabStrip**.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

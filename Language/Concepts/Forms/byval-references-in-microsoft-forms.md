@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225276
 ms.prod: office
 ms.assetid: 0523f039-caa8-823c-ed4d-27e4dc3561f6
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -18,3 +18,7 @@ When used with these objects, ByVal refers to the object, not the method of pass
 Assigning a value to an argument associated with a ReturnBoolean, ReturnEffect, ReturnInteger, or ReturnString is no different from setting the value of any other argument. For example, if the event syntax indicates a  _Cancel_ argument used with the ReturnBoolean object, the statement is still valid, just as it is with other data types.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225219
 ms.prod: office
 ms.assetid: a60f61e6-202f-5915-4b62-39cda190ecec
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -27,3 +27,7 @@ ms.date: 06/08/2017
  **Note**  If the page you want to place the control on is not visible, you can increase the width of the Toolbox to display tabs for all the pages, and then drag the control to the appropriate page.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

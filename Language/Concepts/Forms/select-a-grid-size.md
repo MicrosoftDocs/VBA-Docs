@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225264
 ms.prod: office
 ms.assetid: cee170af-3cf0-91e2-4180-f4eb2d3e9987
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -27,3 +27,7 @@ ms.date: 06/08/2017
  **Tip**  If you use the  **Arrange Buttons** command to position command buttons in your application, try a small grid setting. This will allow you to position the buttons closer to the edge of the form.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

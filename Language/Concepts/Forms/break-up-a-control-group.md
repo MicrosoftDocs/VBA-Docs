@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225267
 ms.prod: office
 ms.assetid: d8cd20c7-ee52-e1fb-67a5-fffc6b83ddd5
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -19,6 +19,9 @@ ms.date: 06/08/2017
 2. From the  **Format** menu, choose **Ungroup**.
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
 

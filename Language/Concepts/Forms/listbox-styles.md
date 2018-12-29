@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225202
 ms.prod: office
 ms.assetid: bb75796b-d2ce-269c-da8f-c879b8b8da03
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -18,3 +18,7 @@ If the style is  **Plain**, each item is on a separate row; the user selects an 
 If the style is  **Option**, an option button or check box appears at the beginning of each row. With this style, the user selects an item by clicking the option button or check box. Check boxes appear only when the **MultiSelect** property is **True**.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

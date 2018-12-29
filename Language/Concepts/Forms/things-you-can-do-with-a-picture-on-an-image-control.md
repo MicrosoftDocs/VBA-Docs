@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225238
 ms.prod: office
 ms.assetid: cceec7a4-ac17-1c2f-0849-7edeeeb2ccf8
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -15,3 +15,7 @@ An  **Image** control is not a picture itself; rather, it contains a picture tha
 
 An interesting application of  **Image** is that you can use it as a background picture for your application. To do this, make the **Image** the same size as the form. Then, you can place other controls on top of the background.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

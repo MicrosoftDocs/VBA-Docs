@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225271
 ms.prod: office
 ms.assetid: c8abc0ed-2690-23cc-d2c4-4f5643003d39
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -27,7 +27,10 @@ ms.date: 06/08/2017
   - To display the shortcut menu of the  **TabStrip**, right-click anywhere in the control, but not on the caption of any **Tab** in the control.
     
 
-    
+  ## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)  
     
 
 

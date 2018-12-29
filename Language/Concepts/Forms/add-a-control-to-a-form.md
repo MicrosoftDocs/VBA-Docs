@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225207
 ms.prod: office
 ms.assetid: f66e732f-d17c-742a-28d3-74887cd53e90
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -21,5 +21,8 @@ Use any of the following methods to add a control from the Toolbox to your form.
     
 - Double-click the control in the Toolbox, and then click in the form once for each control you want to create. For example, to create four command buttons, double-click the  **CommandButton** in the Toolbox and then click four times in the form.
     
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 

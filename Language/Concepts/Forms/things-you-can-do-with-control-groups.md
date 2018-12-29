@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225248
 ms.prod: office
 ms.assetid: b475b7e9-570e-216c-c240-b4f191861846
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -26,5 +26,8 @@ Microsoft Forms provides many ways to work with groups and the controls in a gro
     
 - Select a single control within the group without breaking up the group, which lets you change property settings of that control without affecting any other control in the group. For more information, see [Select a control within a group](select-a-control-within-a-group.md).
     
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 

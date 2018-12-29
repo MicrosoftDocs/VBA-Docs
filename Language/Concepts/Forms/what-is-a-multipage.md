@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225196
 ms.prod: office
 ms.assetid: 2ec904f7-09aa-dfbe-ff00-ecb02be6d2c9
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -17,4 +17,7 @@ Each  **Page** of a **MultiPage** is a form that contains its own controls, and 
 
 By default, a  **MultiPage** includes two pages, called Page1 and Page2. Each of these is a **Page** object, and together they represent the **Pages** collection of the **MultiPage**. If you add more pages, they become part of the same **Pages** collection.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

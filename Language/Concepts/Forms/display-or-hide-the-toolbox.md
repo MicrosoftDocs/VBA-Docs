@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225204
 ms.prod: office
 ms.assetid: 32003cff-8f08-e211-a881-435075e6f769
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -23,4 +23,7 @@ Do one of the following:
 - To hide the Toolbox, make sure there is no check mark in front of  **Toolbox**. If there is, select **Toolbox** to remove it.
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

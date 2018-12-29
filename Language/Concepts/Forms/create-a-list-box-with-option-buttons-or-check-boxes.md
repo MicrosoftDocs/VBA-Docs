@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225201
 ms.prod: office
 ms.assetid: 2a9b52c7-6d35-a763-718f-a0a705e7c7d6
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -25,3 +25,7 @@ ms.date: 06/08/2017
 
 When the  **ListStyle** property is set to **Option**, the **MultiSelect** property determines whether check boxes or option buttons appear in the list. When **MultiSelect** is **Single**, option buttons appear in the list. When **MultiSelect** is **Multi** or **Extended**, check boxes appear in the list.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

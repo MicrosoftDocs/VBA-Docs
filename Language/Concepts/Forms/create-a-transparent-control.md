@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225260
 ms.prod: office
 ms.assetid: 6c78b9fd-8750-4492-4e19-2e62bbde7f2c
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -28,4 +28,7 @@ ms.date: 06/08/2017
 
  **Note**  When you make a control transparent, the background color does not display, so the  **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

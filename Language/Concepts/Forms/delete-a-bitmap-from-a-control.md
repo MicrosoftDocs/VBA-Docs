@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225261
 ms.prod: office
 ms.assetid: eaf08912-b32a-b71e-eb45-5befc9bc69be
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -26,4 +26,7 @@ Or, in code:
 - Enter the following statement: Object.Picture = LoadPicture("")
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

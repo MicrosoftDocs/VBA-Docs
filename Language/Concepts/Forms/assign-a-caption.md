@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225228
 ms.prod: office
 ms.assetid: 2d82cc90-5552-4c83-8dd7-24f947433b95
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -38,4 +38,7 @@ To assign a caption to a  **Page** or **Tab**:
 6. Click OK.
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

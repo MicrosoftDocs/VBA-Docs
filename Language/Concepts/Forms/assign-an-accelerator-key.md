@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225223
 ms.prod: office
 ms.assetid: eb0ec91d-21cd-a563-7524-7140f1b3d5ad
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -26,4 +26,7 @@ ms.date: 06/08/2017
 
  **Tip**  Use a character from the caption of the control. Note that the selected character is underlined in the control's caption.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225199
 ms.prod: office
 ms.assetid: 4f2c565a-50ba-0295-d8bf-92d316ea25af
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -33,4 +33,7 @@ If you do not use  **WordWrap**, the **TextBox** starts a new line of text when 
 
  **Note**  Avoid using  **AutoSize** with an empty **TextBox** that also uses the **MultiLine** and **WordWrap** properties. When the user enters text into a **TextBox** with these properties, the **TextBox** automatically sizes to a long narrow box one character wide and as long as the line of text.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

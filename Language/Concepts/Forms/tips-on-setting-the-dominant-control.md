@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225274
 ms.prod: office
 ms.assetid: 17d9705d-340f-897e-7834-3253a1188033
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -24,3 +24,7 @@ You can set the [dominant control](../../Glossary/glossary-vba.md#dominant-contr
 
 If you CTRL+CLICK twice on a selected control, that control becomes the dominant control.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

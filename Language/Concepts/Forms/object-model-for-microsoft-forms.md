@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225255
 ms.prod: office
 ms.assetid: c23dd224-19e3-f45f-5f95-30849d21a7f9
-ms.date: 10/10/2018
+ms.date: 12/29/2018
 ---
 
 
@@ -28,3 +28,7 @@ Microsoft Forms has three collections:
  **Pages** collection — contains all the **Page** objects in a **MultiPage**. Each **MultiPage** has its own distinct **Pages** collection.
  **Tabs** collection — contains all the **Tab** objects in a **TabStrip**. Each **TabStrip** has its own distinct **Tabs** collection.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

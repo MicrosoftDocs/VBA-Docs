@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225270
 ms.prod: office
 ms.assetid: 05e59ba6-60f4-146b-bc7b-3158c7c5ca33
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -25,7 +25,10 @@ ms.date: 06/08/2017
   - To display the shortcut menu of the entire  **MultiPage**, right-click anywhere in the control, but not on the caption of any **Page** in the control.
     
 
-    
+  ## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)  
     
 
 

@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225266
 ms.prod: office
 ms.assetid: 84514471-d2e9-dfdf-d694-c31c764eda86
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -21,6 +21,9 @@ ms.date: 06/08/2017
 3. Release the mouse button. The size of each control will be changed proportionately to the way you changed the rectangle around the group.
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
 

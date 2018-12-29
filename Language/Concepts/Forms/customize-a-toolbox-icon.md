@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225210
 ms.prod: office
 ms.assetid: f8c267e0-03b2-aa2c-262f-6bb576f4d02d
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -28,7 +28,10 @@ ms.date: 06/08/2017
     
   - To assign a new bitmap, choose  **Load Picture**. Then identify the file that contains the bitmap you want to use as the icon. If you attempt to load a picture that is larger than an icon, an error occurs.
     
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
     
     
 

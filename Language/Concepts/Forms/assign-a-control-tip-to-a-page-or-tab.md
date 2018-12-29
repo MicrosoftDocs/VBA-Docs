@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225225
 ms.prod: office
 ms.assetid: 6e486f59-a9f1-97c5-8930-50b152ba3157
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -30,4 +30,7 @@ ms.date: 06/08/2017
 
  **Tip**  To assign a control tip for a  **MultiPage** or **TabStrip**, use the **ControlTipText** property.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

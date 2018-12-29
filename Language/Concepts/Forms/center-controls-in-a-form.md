@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225247
 ms.prod: office
 ms.assetid: a3869a8f-dc62-a82a-771f-695b51ecaf7a
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -27,7 +27,10 @@ ms.date: 06/08/2017
   -  **Vertically**
     
 
-    
+  ## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)  
     
 
 

@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225268
 ms.prod: office
 ms.assetid: fffa181f-6a0c-5910-525c-4b3acac700a9
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -25,3 +25,7 @@ ms.date: 06/08/2017
  **Tip**  Click anywhere in the group, but not on the shortcut menu, to make the shortcut menu go away if you don't want to use any of the commands on the menu.
 
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

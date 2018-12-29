@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225250
 ms.prod: office
 ms.assetid: ba2cd298-d81b-892d-93c6-dc3666528809
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -35,3 +35,7 @@ To display the shortcut menu for a control or container, right-click the object.
 For more information on displaying the shortcut menu for a  **MultiPage** or a **Page**, see [Display the shortcut menu for a MultiPage or Page](display-the-shortcut-menu-for-a-multipage-or-page.md).
 For more information on displaying the shortcut menu for a  **TabStrip** or a **Tab**, see [Display the shortcut menu for a TabStrip or Tab](display-the-shortcut-menu-for-a-tabstrip-or-tab.md).
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

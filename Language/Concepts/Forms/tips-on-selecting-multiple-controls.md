@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225273
 ms.prod: office
 ms.assetid: c7cc339e-cbac-a84a-c6b9-5ad119b622b0
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -24,3 +24,7 @@ You can select more than one control in three ways:
 
 When you select multiple controls, one of the selected controls becomes a reference for the rest of the selected controls and is called the dominant control.
 
+## See also
+
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

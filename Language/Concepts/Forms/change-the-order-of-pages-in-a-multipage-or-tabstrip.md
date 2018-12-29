@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225232
 ms.prod: office
 ms.assetid: 1838a025-cb7a-5eef-f806-095b73be0025
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -32,4 +32,7 @@ ms.date: 06/08/2017
 
  **Note**  You can also use the  **Index** property to change the page order through the **Properties** window. The index of the first page is 0; the index of the second page is 1, and so on.
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

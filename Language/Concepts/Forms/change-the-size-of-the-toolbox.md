@@ -5,7 +5,7 @@ f1_keywords:
 - fm20.chm5225220
 ms.prod: office
 ms.assetid: ca7dbb07-3653-bf61-e0f1-d9b9b95fec34
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
@@ -19,6 +19,9 @@ ms.date: 06/08/2017
 2. Drag the Toolbox to change its size.
     
 
+## See also
 
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
 
