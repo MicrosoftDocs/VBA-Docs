@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # What is the difference between the DataObject and the Clipboard?
 
-The **DataObject** and the Clipboard both provide a means to move data from one place to another. As an application developer, there are several important points to remember when you use either a **DataObject** or the Clipboard:
+The **[DataObject](../../reference/user-interface-help/dataobject-object.md)** and the Clipboard both provide a means to move data from one place to another. As an application developer, there are several important points to remember when you use either a **DataObject** or the Clipboard:
 
 - You can store more than one piece of data at a time on either a **DataObject** or the Clipboard as long as each piece of data has a different [data format](../../Glossary/glossary-vba.md#data-format). If you store data with a format that is already in use, the new data is saved and the old data is discarded.
     

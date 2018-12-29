@@ -15,9 +15,9 @@ ms.date: 12/29/2018
     
 2. Do one of the following:
     
-   - To display the shortcut menu of an individual **Page**, right-click the caption of the appropriate page.
+   - To display the shortcut menu of an individual **[Page](../../reference/user-interface-help/page-object.md)**, right-click the caption of the appropriate page.
     
-   - To display the shortcut menu of the entire **MultiPage**, right-click anywhere in the control, but not on the caption of any **Page** in the control.
+   - To display the shortcut menu of the entire **[MultiPage](../../reference/user-interface-help/multipage-control.md)**, right-click anywhere in the control, but not on the caption of any **Page** in the control.
     
 
   ## See also

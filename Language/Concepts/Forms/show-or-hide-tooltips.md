@@ -13,7 +13,7 @@ ms.date: 12/29/2018
 
 1. From the **Tools** menu, choose **Options**.
     
-2. Select the **General** tab sheet.
+2. In the **[Options](../../reference/user-interface-help/options-dialog-box.md)** dialog box, select the **General** tab.
     
 3. Do one of the following:
     

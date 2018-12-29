@@ -16,7 +16,7 @@ ms.date: 12/29/2018
 2. Choose **Delete** on the shortcut menu.
     
 > [!NOTE] 
-> If you are deleting controls, you can use **Additional Controls** from the shortcut menu, and clear the check boxes of all controls that you want to delete.
+> If you are deleting controls, you can use **[Additional Controls](../../reference/user-interface-help/the-additional-controls-dialog-box-microsoft-forms.md)** from the shortcut menu, and clear the check boxes of all controls that you want to delete.
 
 
 ## See also

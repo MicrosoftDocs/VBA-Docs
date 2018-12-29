@@ -13,7 +13,7 @@ ms.date: 12/29/2018
 
 In the **Properties** window:
 
-1. Highlight the value of the **Picture** property (the word "bitmap").
+1. Highlight the value of the **[Picture](../../reference/user-interface-help/picture-property.md)** property (the word "bitmap").
     
 2. Press DELETE.
     

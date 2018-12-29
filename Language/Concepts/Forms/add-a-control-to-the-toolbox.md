@@ -13,7 +13,7 @@ ms.date: 12/29/2018
 
 1. Right-click any control icon in the **[Toolbox](../../reference/user-interface-help/toolbox.md)**, or an empty area on any page of the Toolbox.
     
-2. From the shortcut menu, select **Additional Controls**.
+2. From the shortcut menu, select **[Additional Controls](../../reference/user-interface-help/the-additional-controls-dialog-box-microsoft-forms.md)**.
     
 3. From the **Available Controls** list, select the new controls.
     

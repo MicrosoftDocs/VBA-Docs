@@ -19,9 +19,9 @@ ms.date: 12/29/2018
     
 4. From the cascading menu, choose one of the following:
     
+   - **[Height](../../reference/user-interface-help/height-width-properties.md)**, to make all selected controls the same height as the dominant control.
+
    - **Width**, to make all selected controls the same width as the dominant control.
-    
-   - **Height**, to make all selected controls the same height as the dominant control.
     
    - **Both**, to make all selected controls the same height and width as the dominant control.
     

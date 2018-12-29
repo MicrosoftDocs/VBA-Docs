@@ -13,7 +13,7 @@ ms.date: 12/29/2018
 
 # PasswordChar property
 
-Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) characters are displayed instead of the characters actually entered in a **TextBox**.
+Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) characters are displayed instead of the characters actually entered in a **[TextBox](../../reference/user-interface-help/textbox-control.md)**.
 
 ## Syntax
 

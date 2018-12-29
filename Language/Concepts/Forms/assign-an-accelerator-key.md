@@ -13,7 +13,7 @@ ms.date: 12/29/2018
 
 1. In design mode, select the control on the form.
     
-2. In the **Properties** window, select the **Accelerator** property.
+2. In the **Properties** window, select the **[Accelerator](../../reference/user-interface-help/accelerator-property.md)** property.
     
 3. Enter a single character as the value for **Accelerator**.
     

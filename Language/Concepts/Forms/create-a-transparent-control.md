@@ -15,12 +15,12 @@ ms.date: 12/29/2018
     
 2. View the control's properties.
     
-3. Set the **BackStyle** property to **Transparent**.
+3. Set the **[BackStyle](../../reference/user-interface-help/backstyle-property-microsoft-forms.md)** property to **Transparent**.
     
-4. If the control supports the **BorderStyle** property, set it to **None**.
+4. If the control supports the **[BorderStyle](../../reference/user-interface-help/borderstyle-property.md)** property, set it to **None**.
     
 > [!NOTE] 
-> When you make a control transparent, the background color does not display, so the **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
+> When you make a control transparent, the background color does not display, so the **[BackColor](../../reference/user-interface-help/backcolor-property-microsoft-forms.md)** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
 
 ## See also
 

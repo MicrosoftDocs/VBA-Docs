@@ -15,7 +15,7 @@ ms.date: 12/29/2018
     
 2. Right-click in the form, but not on a control.
     
-3. From the shortcut menu, choose **Tab Order**.
+3. From the shortcut menu, choose **[Tab Order](../../reference/user-interface-help/tab-order-dialog-box.md)**.
     
 4. Select the name of a control that you want to reposition in the [tab order](../../Glossary/vbe-glossary.md#tab-order).
     

@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # Make a control that automatically adjusts to the size of its data
 
-In the **Properties** window, set the **AutoSize** property to **True**.
+In the **Properties** window, set the **[AutoSize](../../reference/user-interface-help/autosize-property.md)** property to **True**.
 
 
 ## See also

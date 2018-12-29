@@ -13,10 +13,10 @@ ms.date: 12/29/2018
 
 Microsoft Forms includes several properties that let you define the appearance of controls in your application:
 
-- **ForeColor**   
-- **BackColor**, **BackStyle**   
-- **BorderColor**, **BorderStyle**   
-- **SpecialEffect**
+- **[ForeColor](../../reference/user-interface-help/forecolor-property-microsoft-forms.md)**   
+- **[BackColor](../../reference/user-interface-help/backcolor-property-microsoft-forms.md)**, **[BackStyle](../../reference/user-interface-help/backstyle-property-microsoft-forms.md)**   
+- **[BorderColor](../../reference/user-interface-help/bordercolor-property.md)**, **[BorderStyle](../../reference/user-interface-help/borderstyle-property.md)**   
+- **[SpecialEffect](../../reference/user-interface-help/specialeffect-property.md)**
 
 **ForeColor** determines the [foreground color](../../Glossary/glossary-vba.md#foreground-color). The foreground color applies to any text associated with the control, such as the caption or the control's contents.
 

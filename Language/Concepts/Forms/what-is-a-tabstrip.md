@@ -11,11 +11,11 @@ ms.date: 12/29/2018
 
 # What is a TabStrip?
 
-A **TabStrip** is a control that contains a [collection](../../Glossary/vbe-glossary.md#collection) of one or more tabs.
+A **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** is a control that contains a [collection](../../Glossary/vbe-glossary.md#collection) of one or more tabs.
 
-Each **Tab** of a **TabStrip** is a separate object that users can select. Visually, a **TabStrip** also includes a client area that all the tabs in the **TabStrip** share.
+Each **[Tab](../../reference/user-interface-help/tab-object.md)** of a **TabStrip** is a separate object that users can select. Visually, a **TabStrip** also includes a client area that all the tabs in the **TabStrip** share.
 
-By default, a **TabStrip** includes two pages, called Tab1 and Tab2. Each of these is a **Tab** object, and together they represent the **Tabs** collection of the **TabStrip**. If you add more pages, they become part of the same **Tabs** collection.
+By default, a **TabStrip** includes two pages, called Tab1 and Tab2. Each of these is a **Tab** object, and together they represent the **[Tabs](../../reference/user-interface-help/tabs-collection-microsoft-forms.md)** collection of the **TabStrip**. If you add more pages, they become part of the same **Tabs** collection.
 
 ## See also
 

@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # Align text in a control
 
-1. In the **Properties** window, choose the **TextAlign** property.
+1. In the **Properties** window, choose the **[TextAlign](../../reference/user-interface-help/textalign-property.md)** property.
     
 2. Click the drop-down arrow next to the property's value to display a list of available choices.
     
@@ -23,7 +23,7 @@ ms.date: 12/29/2018
     
    - **Center**, to center the text relative to the length of the control.
 
-**TextAlign** is available for a **ComboBox**, **Label**, and **TextBox**.
+**TextAlign** is available for a **[ComboBox](../../reference/user-interface-help/combobox-control.md)**, **[Label](../../reference/user-interface-help/label-control.md)**, and **[TextBox](../../reference/user-interface-help/textbox-control.md)**.
 
 ## See also
 

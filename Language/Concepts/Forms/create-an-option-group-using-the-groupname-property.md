@@ -11,13 +11,13 @@ ms.date: 12/29/2018
 
 # Create an option group using the GroupName property
 
-1. Place all required **OptionButton** controls on the form. Note that option buttons in a **MultiPage** or **Frame** will automatically form an option group.
+1. Place all required **[OptionButton](../../reference/user-interface-help/optionbutton-control.md)** controls on the form. Note that option buttons in a **[MultiPage](../../reference/user-interface-help/multipage-control.md)** or **[Frame](../../reference/user-interface-help/frame-control.md)** will automatically form an option group.
     
 2. Identify the buttons for each group that you want to create.
     
-3. Enter a value for the **Name** property of each control.
+3. Enter a value for the **[Name](../../reference/user-interface-help/name-propertye-microsoft-forms.md)** property of each control.
     
-4. For each button in a group, set the **GroupName** property to the same value.
+4. For each button in a group, set the **[GroupName](../../reference/user-interface-help/groupname-property.md)** property to the same value.
     
 
 ## See also

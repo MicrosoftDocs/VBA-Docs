@@ -13,12 +13,12 @@ ms.date: 12/29/2018
 
 1. Select the control.
     
-2. In the **Properties** window, select the **ControlTipText** property. You can also set the value of **ControlTipText** through code.
+2. In the **Properties** window, select the **ControlTipText** property. You can also set the value of **[ControlTipText](../../reference/user-interface-help/controltiptext-property.md)** through code.
     
 3. Enter the string you want to use as the [control tip](../../Glossary/glossary-vba.md#control-tip).
     
 > [!TIP] 
-> To assign a control tip for a **Page** or **Tab**, use the **Rename** command on the shortcut menu of the **Page** or **Tab**.
+> To assign a control tip for a **[Page](../../reference/user-interface-help/page-object.md)** or **[Tab](../../reference/user-interface-help/tab-object.md)**, use the **Rename** command on the shortcut menu of the **Page** or **Tab**.
 
 ## See also
 

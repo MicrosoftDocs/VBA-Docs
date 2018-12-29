@@ -11,9 +11,16 @@ ms.date: 12/29/2018
 
 # What is a caption?
 
-A caption is descriptive text that appears directly on or around a control. The following controls can have captions: **CheckBox**, **CommandButton**, **Frame**, **Label**, **OptionButton**, and **ToggleButton**. 
+A caption is descriptive text that appears directly on or around a control. The following controls can have captions:
 
-The **Page** and **Tab** objects that are part of the **MultiPage** and **TabStrip** also can have captions.
+- **[CheckBox](../../reference/user-interface-help/checkbox-control.md)** 
+- **[CommandButton](../../reference/user-interface-help/commandbutton-control.md)**
+- **[Frame](../../reference/user-interface-help/frame-control.md)**
+- **[Label](../../reference/user-interface-help/label-control.md)**
+- **[OptionButton](../../reference/user-interface-help/optionbutton-control.md)**
+- **[ToggleButton](../../reference/user-interface-help/togglebutton-control.md)**
+
+The **[Page](../../reference/user-interface-help/page-object.md)** and **[Tab](../../reference/user-interface-help/tab-object.md)** objects that are part of the **[MultiPage](../../reference/user-interface-help/multipage-control.md)** and **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** also can have captions.
 
 ## See also
 

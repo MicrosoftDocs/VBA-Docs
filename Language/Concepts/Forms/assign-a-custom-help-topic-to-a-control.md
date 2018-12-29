@@ -15,7 +15,7 @@ This procedure assumes that you have created a custom Help file and associated i
 
 1. Select a control for which you have written a custom Help topic.
     
-2. In the **Properties** window, select the **HelpContextID** property.
+2. In the **Properties** window, select the **[HelpContextID](../../reference/user-interface-help/helpcontextid-property.md)** property.
     
 3. Enter the context ID of the appropriate topic from your custom Help file.
     

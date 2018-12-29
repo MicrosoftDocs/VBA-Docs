@@ -18,7 +18,7 @@ At design time:
 
 At run time:
 
-- Set the form's **Height** and **Width** properties to the appropriate values.
+- Set the form's **[Height](../../reference/user-interface-help/height-width-properties.md)** and **Width** properties to the appropriate values.
     
 
 ## See also

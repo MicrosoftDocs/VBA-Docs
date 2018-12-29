@@ -11,19 +11,19 @@ ms.date: 12/29/2018
 
 # Assign a caption
 
-To assign a caption to a **CheckBox**, **CommandButton**, **Frame**, **Label**, **OptionButton**, or **ToggleButton**:
+To assign a caption to a **[CheckBox](../../reference/user-interface-help/checkbox-control.md)**, **[CommandButton](../../reference/user-interface-help/commandbutton-control.md)**, **[Frame](../../reference/user-interface-help/frame-control.md)**, **[Label](../../reference/user-interface-help/label-control.md)**, **[OptionButton](../../reference/user-interface-help/optionbutton-control.md)**, or **[ToggleButton](../../reference/user-interface-help/togglebutton-control.md)**:
 
 1. Display the control's **Properties** window.
     
-2. Select the **Caption** property.
+2. Select the **[Caption](../../reference/user-interface-help/caption-propert-microsoft-forms.md)** property.
     
 3. Enter the text that you want to use as the caption.
     
 <br/>
 
-To assign a caption to a **Page** or **Tab**:
+To assign a caption to a **[Page](../../reference/user-interface-help/page-object.md)** or **[Tab](../../reference/user-interface-help/tab-object.md)**:
 
-1. Select the **MultiPage** or **TabStrip** that contains the **Page** or **Tab**.
+1. Select the **[MultiPage](../../reference/user-interface-help/multipage-control.md)** or **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)** that contains the **Page** or **Tab**.
     
 2. Select the individual **Page** or **Tab**. When the **Page** or **Tab** is selected, a rectangle appears around its caption.
     

@@ -21,9 +21,9 @@ A shortcut menu is a menu that appears when you right-click an object. In Micros
     
 - [Containers](../../Glossary/vbe-glossary.md#container) (such as UserForm).
     
-- Individual **Page** objects in a **MultiPage**.
+- Individual **Page** objects in a **[MultiPage](../../reference/user-interface-help/multipage-control.md)**.
     
-- Individual **Tab** objects in a **TabStrip**.
+- Individual **Tab** objects in a **[TabStrip](../../reference/user-interface-help/tabstrip-control.md)**.
     
 - Multiple controls that aren't in a group.
     

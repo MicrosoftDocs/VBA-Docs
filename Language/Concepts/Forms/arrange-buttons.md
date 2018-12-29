@@ -11,7 +11,7 @@ ms.date: 12/29/2018
 
 # Arrange buttons
 
-1. Select the **CommandButton** controls to arrange.
+1. Select the **[CommandButton](../../reference/user-interface-help/commandbutton-control.md)** controls to arrange.
     
 2. From the **[Format](../../reference/user-interface-help/format-menu.md)** menu, choose **Arrange Buttons**.
     
