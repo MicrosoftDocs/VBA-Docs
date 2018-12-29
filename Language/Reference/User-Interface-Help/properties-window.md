@@ -87,6 +87,7 @@ Use these key combinations when you set the **Icon** or **Picture** properties, 
     
 ## See also
 
+- [Use the Properties window](use-the-properties-window.md)
 - [Property object](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#property)
 - [Window elements](../window-elements.md)
 

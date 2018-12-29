@@ -34488,7 +34488,7 @@
 #### [Set project properties](../Language/How-to/set-project-properties.md)
 #### [Set reference to a type library](../Language/How-to/set-reference-to-a-type-library.md)
 #### [Set Visual Basic environment options](../Language/How-to/set-visual-basic-environment-options.md)
-#### [Split the code window](../Language/How-to/split-the-code-window.md)
+#### [Split the Code window](../Language/How-to/split-the-code-window.md)
 #### [Start code execution](../Language/How-to/start-code-execution.md)
 #### [Stop code execution](../Language/How-to/stop-code-execution.md)
 #### [Trace code execution](../Language/How-to/trace-code-execution.md)

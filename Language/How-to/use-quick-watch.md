@@ -17,9 +17,9 @@ In [break mode](../Glossary/vbe-glossary.md#break-mode), you may want to check t
 
 1. Select an expression in the [module](../Glossary/vbe-glossary.md#module) where it resides.
     
-2. From the **[Debug](../reference/user-interface-help/debug-menu.md)** menu, choose **Quick Watch** (SHIFT+F9). The **Quick Watch** dialog box displays the current value of the expression you selected, or right-click and choose **Quick Info** from the context menu. The [data type](../Glossary/vbe-glossary.md#data-type) of the expression is displayed.
+2. From the **[Debug](../reference/user-interface-help/debug-menu.md)** menu, choose **Quick Watch** (SHIFT+F9). The **[Quick Watch](../reference/user-interface-help/quick-watch-dialog-box.md)** dialog box displays the current value of the expression you selected, or right-click and choose **Quick Info** from the context menu. The [data type](../Glossary/vbe-glossary.md#data-type) of the expression is displayed.
     
-3. To add a watch expression based on the expression in the **Quick Watch** dialog box, choose **Add**.
+3. To [add a watch expression](../concepts/forms/add-a-watch-expression.md) based on the expression in the **Quick Watch** dialog box, choose **Add**.
     
 ## See also
 

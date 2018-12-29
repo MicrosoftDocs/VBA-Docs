@@ -11,7 +11,7 @@ ms.date: 12/27/2018
 
 # Create a procedure
 
-Code within a [module](../Glossary/vbe-glossary.md#module) is organized into[procedures](../Glossary/vbe-glossary.md#procedure). A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units.
+Code within a [module](../Glossary/vbe-glossary.md#module) is organized into [procedures](../Glossary/vbe-glossary.md#procedure). A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units.
 
 ### To create a procedure by writing code
 
