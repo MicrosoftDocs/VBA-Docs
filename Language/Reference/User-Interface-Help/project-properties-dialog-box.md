@@ -84,4 +84,5 @@ The following table describes the tab options.
 
 ## See also
 
+- [Set project properties](../../how-to/set-project-properties.md)
 - [Dialog boxes](../dialog-boxes.md)

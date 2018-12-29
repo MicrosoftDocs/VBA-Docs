@@ -25,7 +25,7 @@ ms.date: 12/27/2018
     
    - Context ID for the specific Help topic to be called when the user chooses the **Help** button while the application's[object library](../Glossary/vbe-glossary.md#object-library) is selected in the **Object Browser**.
     
-3. Use the **Protection** tab in the **&lt;projectname&gt; Properties** dialog box to lock the project from viewing by others and specify a password for access to project properties. After you set protection, you must save and close your project for the protection to take effect. (Note that your project must contain VBA code and/or a custom form in order to retain this password.)
+3. Use the **[Protection](../reference/user-interface-help/project-properties-dialog-box.md#protection-tab)** tab in the **&lt;projectname&gt; Properties** dialog box to lock the project from viewing by others and specify a password for access to project properties. After you set protection, you must save and close your project for the protection to take effect. (Note that your project must contain VBA code and/or a custom form in order to retain this password.)
     
 ## See also
 
