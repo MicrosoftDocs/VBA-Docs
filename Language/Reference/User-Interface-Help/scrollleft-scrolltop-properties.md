@@ -15,8 +15,8 @@ Specify the distance, in [points](../../Glossary/vbe-glossary.md#point), of the 
 
 ## Syntax
 
-_object_. **ScrollLeft** [= _Single_ ] <br/>
-_object_. **ScrollTop** [= _Single_ ]
+_object_.**ScrollLeft** [= _Single_ ] <br/>
+_object_.**ScrollTop** [= _Single_ ]
 
 The **ScrollLeft** and **ScrollTop** property syntaxes have these parts:
 

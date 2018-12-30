@@ -17,7 +17,7 @@ Specifies whether a control was moved during a layout change.
 
 ## Syntax
 
-_object_. **LayoutEffect**
+_object_.**LayoutEffect**
 
 The **LayoutEffect** property syntax has these parts:
 

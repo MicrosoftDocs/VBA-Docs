@@ -17,7 +17,7 @@ Specifies whether an object automatically resizes to display its entire contents
 
 ## Syntax
 
-_object_. **AutoSize** [= _Boolean_ ]
+_object_.**AutoSize** [= _Boolean_ ]
 
 The **AutoSize** property syntax has these parts:
 

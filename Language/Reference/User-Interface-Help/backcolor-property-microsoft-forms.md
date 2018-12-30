@@ -15,7 +15,7 @@ Specifies the [background color](../../Glossary/glossary-vba.md#background-color
 
 ## Syntax
 
-_object_. **BackColor** [= _Long_ ]
+_object_.**BackColor** [= _Long_ ]
 
 The **BackColor** property syntax has these parts:
 

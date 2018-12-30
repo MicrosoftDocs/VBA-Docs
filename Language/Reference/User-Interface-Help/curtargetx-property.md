@@ -17,7 +17,7 @@ Retrieves the preferred horizontal position of the insertion point in a multilin
 
 ## Syntax
 
-_object_. **CurTargetX**
+_object_.**CurTargetX**
 
 The **CurTargetX** property syntax has these parts:
 

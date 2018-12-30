@@ -17,7 +17,7 @@ Specifies text that appears when the user briefly holds the mouse pointer over a
 
 ## Syntax
 
-_object_. **ControlTipText** [= _String_ ]
+_object_.**ControlTipText** [= _String_ ]
 
 The **ControlTipText** property syntax has these parts:
 

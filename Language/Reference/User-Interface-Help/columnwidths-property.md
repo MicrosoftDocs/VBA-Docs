@@ -17,7 +17,7 @@ Specifies the width of each column in a multicolumn combo box or list box.
 
 ## Syntax
 
-_object_. **ColumnWidths** [= _String_ ]
+_object_.**ColumnWidths** [= _String_ ]
 
 The **ColumnWidths** property syntax has these parts:
 

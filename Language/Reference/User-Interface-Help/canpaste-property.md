@@ -17,7 +17,7 @@ Specifies whether the Clipboard contains data that the object supports.
 
 ## Syntax
 
-_object_. **CanPaste**
+_object_.**CanPaste**
 
 The **CanPaste** property syntax has these parts:
 

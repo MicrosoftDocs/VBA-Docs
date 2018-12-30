@@ -7,17 +7,17 @@ ms.prod: office
 api_name:
 - Office.PasswordChar
 ms.assetid: 2dd645b2-fe8d-a644-b796-e0595627cbb8
-ms.date: 11/16/2018
+ms.date: 12/29/2018
 ---
 
 
 # PasswordChar property
 
-Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) characters are displayed instead of the characters actually entered in a **TextBox**.
+Specifies whether [placeholder](../../Glossary/glossary-vba.md#placeholder) characters are displayed instead of the characters actually entered in a **[TextBox](../../reference/user-interface-help/textbox-control.md)**.
 
 ## Syntax
 
-_object_. **PasswordChar** [= _String_ ]
+_object_.**PasswordChar** [= _String_ ]
 
 The **PasswordChar** property syntax has these parts:
 

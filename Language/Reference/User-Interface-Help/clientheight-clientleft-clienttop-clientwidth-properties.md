@@ -15,10 +15,10 @@ Define the dimensions and location of the display area of a **[TabStrip](tabstri
 
 ## Syntax
 
-_object_. **ClientHeight** [ = _Single_ ] <br/>
-_object_. **ClientLeft** [ = _Single_ ] <br/>
-_object_. **ClientTop** [ = _Single_ ] <br/>
-_object_. **ClientWidth** [ = _Single_ ] <br/>
+_object_.**ClientHeight** [ = _Single_ ] <br/>
+_object_.**ClientLeft** [ = _Single_ ] <br/>
+_object_.**ClientTop** [ = _Single_ ] <br/>
+_object_.**ClientWidth** [ = _Single_ ] <br/>
 
 The **ClientHeight**, **ClientLeft**, **ClientTop**, and **ClientWidth** property syntaxes have these parts:
 

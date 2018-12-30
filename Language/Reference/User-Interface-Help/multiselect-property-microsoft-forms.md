@@ -15,7 +15,7 @@ Indicates whether the object permits multiple selections.
 
 ## Syntax
 
-_object_. **MultiSelect** [= _fmMultiSelect_ ]
+_object_.**MultiSelect** [= _fmMultiSelect_ ]
 
 The **MultiSelect** property syntax has these parts:
 

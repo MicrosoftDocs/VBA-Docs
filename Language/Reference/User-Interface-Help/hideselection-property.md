@@ -17,7 +17,7 @@ Specifies whether selected text remains highlighted when a control does not have
 
 ## Syntax
 
-_object_. **HideSelection** [= _Boolean_ ]
+_object_.**HideSelection** [= _Boolean_ ]
 
 The **HideSelection** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Lets you tile a picture in a form or page.
 
 ## Syntax
 
-_object_. **PictureTiling** [= _Boolean_ ]
+_object_.**PictureTiling** [= _Boolean_ ]
 
 The **PictureTiling** property syntax has these parts:
 

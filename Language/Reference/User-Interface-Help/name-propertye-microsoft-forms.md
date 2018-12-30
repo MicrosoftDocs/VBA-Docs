@@ -15,9 +15,9 @@ Specifies the name of a control or an object, or the name of a font to associate
 
 ## Syntax
 
-For Font _Font_. **Name** [= _String_ ]
+For Font: _Font_.**Name** [= _String_ ]
 
-For all other controls and objects _object_. **Name** [= _String_ ]
+For all other controls and objects: _object_.**Name** [= _String_ ]
 
 The **Name** property syntax has these parts:
 

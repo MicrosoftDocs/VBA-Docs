@@ -76,4 +76,5 @@ You can use the following shortcut keys to access commands in the Code window.
 - [Code window menu shortcut keys](menu-shortcut-keys-available-in-the-code-window.md)
 - [Code window navigation keys](code-window-navigation-keys.md)
 - [Code window and Object Browser icons](icons-used-in-the-object-browser-and-code-windows.md)
+- [Split the Code window](../../how-to/split-the-code-window.md)
 - [Window elements](../window-elements.md)

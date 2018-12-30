@@ -17,7 +17,7 @@ Creates a group of mutually exclusive **[OptionButton](optionbutton-control.md)*
 
 ## Syntax
 
-_object_. **GroupName** [= _String_ ]
+_object_.**GroupName** [= _String_ ]
 
 The **GroupName** property syntax has these parts:
 

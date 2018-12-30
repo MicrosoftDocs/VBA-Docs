@@ -32,9 +32,10 @@ A watch expression is an expression that you define to be monitored in the [Watc
     
    - To stop execution when the value of the expression changes, choose **Break When Value Changes**.
      
-5. Click **OK**.
+5. Choose **OK**.
     
 ## See also
 
 - [Visual Basic how-to topics](../../reference/user-interface-help/visual-basic-how-to-topics.md)
-
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)

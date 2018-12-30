@@ -17,7 +17,7 @@ Identifies and allows manipulation of the control that has the [focus](../../Glo
 
 ## Syntax
 
-_object_. **ActiveControl**
+_object_.**ActiveControl**
 
 The **ActiveControl** property syntax has these parts:
 

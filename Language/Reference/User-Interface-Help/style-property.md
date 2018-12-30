@@ -16,9 +16,9 @@ For **[MultiPage](multipage-control.md)** and **[TabStrip](tabstrip-control.md)*
 
 ## Syntax
 
-For ComboBox _object_. **Style** [= _fmStyle_ ]
+For ComboBox: _object_.**Style** [= _fmStyle_ ]
 
-For MultiPage and TabStrip _object_. **Style** [= _fmTabStyle_ ]
+For MultiPage and TabStrip: _object_.**Style** [= _fmTabStyle_ ]
 
 The **Style** property syntax has these parts:
 

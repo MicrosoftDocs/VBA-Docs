@@ -17,9 +17,9 @@ Specifies the visual appearance of an object.
 
 ## Syntax
 
-For CheckBox, OptionButton, ToggleButton _object_. **SpecialEffect** [= _fmButtonEffect_ ]
+For CheckBox, OptionButton, ToggleButton: _object_.**SpecialEffect** [= _fmButtonEffect_ ]
 
-For other controls _object_. **SpecialEffect** [= _fmSpecialEffect_ ]
+For other controls: _object_.**SpecialEffect** [= _fmSpecialEffect_ ]
 
 The **SpecialEffect** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Returns the currently selected **Tab** or **Page** object.
 
 ## Syntax
 
-_object_. **SelectedItem**
+_object_.**SelectedItem**
 
 The **SelectedItem** property syntax has these parts:
 

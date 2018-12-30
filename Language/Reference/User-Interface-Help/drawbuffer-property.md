@@ -17,7 +17,7 @@ Specifies the number of pixels set aside for off-screen memory in rendering a fr
 
 ## Syntax
 
-_object_. **DrawBuffer** [= _value_ ]
+_object_.**DrawBuffer** [= _value_ ]
 
 The **DrawBuffer** property syntax has these parts:
 

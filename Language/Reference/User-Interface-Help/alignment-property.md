@@ -17,7 +17,7 @@ Specifies the position of a control relative to its caption.
 
 ## Syntax
 
-_object_. **Alignment** [= _fmAlignment_ ]
+_object_.**Alignment** [= _fmAlignment_ ]
 
 The **Alignment** property syntax has these parts:
 

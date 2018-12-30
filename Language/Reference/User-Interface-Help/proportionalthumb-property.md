@@ -17,7 +17,7 @@ Specifies whether the size of the scroll box is proportional to the scrolling re
 
 ## Syntax
 
-_object_. **ProportionalThumb** [= _Boolean_ ]
+_object_.**ProportionalThumb** [= _Boolean_ ]
 
 The **ProportionalThumb** property syntax has these parts:
 

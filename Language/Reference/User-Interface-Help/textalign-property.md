@@ -17,7 +17,7 @@ Specifies how text is aligned in a control.
 
 ## Syntax
 
-_object_. **TextAlign** [= _fmTextAlign_ ]
+_object_.**TextAlign** [= _fmTextAlign_ ]
 
 The **TextAlign** property syntax has these parts:
 

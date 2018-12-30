@@ -12,7 +12,7 @@ Indicates whether an object can receive [focus](../../Glossary/vbe-glossary.md#f
 
 ## Syntax
 
-_object_. **TabStop** [= _Boolean_ ]
+_object_.**TabStop** [= _Boolean_ ]
 
 The **TabStop** property syntax has these parts:
 

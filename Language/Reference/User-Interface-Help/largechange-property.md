@@ -17,7 +17,7 @@ Specifies the amount of movement that occurs when the user clicks between the sc
 
 ## Syntax
 
-_object_. **LargeChange** [= _Long_ ]
+_object_.**LargeChange** [= _Long_ ]
 
 The **LargeChange** property syntax has these parts:
 

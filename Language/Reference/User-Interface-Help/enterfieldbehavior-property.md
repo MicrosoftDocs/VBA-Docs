@@ -17,7 +17,7 @@ Specifies the selection behavior when entering a **[TextBox](textbox-control.md)
 
 ## Syntax
 
-_object_. **EnterFieldBehavior** [= _fmEnterFieldBehavior_ ]
+_object_.**EnterFieldBehavior** [= _fmEnterFieldBehavior_ ]
 
 The **EnterFieldBehavior** property syntax has these parts:
 

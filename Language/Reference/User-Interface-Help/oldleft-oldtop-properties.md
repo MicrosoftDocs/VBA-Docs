@@ -15,8 +15,8 @@ Returns the distance, in [points](../../Glossary/vbe-glossary.md#point), between
 
 ## Syntax
 
-_object_. **OldLeft** <br/>
-_object_. **OldTop**
+_object_.**OldLeft** <br/>
+_object_.**OldTop**
 
 The **OldLeft** and **OldTop** property syntaxes have these parts:
 

@@ -17,7 +17,7 @@ Specifies the action to take when the user leaves the last control on a **[Frame
 
 ## Syntax
 
-_object_. **Cycle** [= _fmCycle_ ]
+_object_.**Cycle** [= _fmCycle_ ]
 
 The **Cycle** property syntax has these parts:
 

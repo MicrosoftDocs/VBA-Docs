@@ -17,7 +17,7 @@ Specifies the current horizontal position of the insertion point in a multiline 
 
 ## Syntax
 
-_object_. **CurX** [= _Long_ ]
+_object_.**CurX** [= _Long_ ]
 
 The **CurX** property syntax has these parts:
 

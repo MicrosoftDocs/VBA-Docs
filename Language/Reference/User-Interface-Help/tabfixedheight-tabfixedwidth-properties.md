@@ -15,8 +15,8 @@ Sets or returns the fixed height or width of the tabs in [points](../../Glossary
 
 ## Syntax
 
-_object_. **TabFixedHeight** [= _Single_ ] <br/>
-_object_. **TabFixedWidth** [= _Single_ ]
+_object_.**TabFixedHeight** [= _Single_ ] <br/>
+_object_.**TabFixedWidth** [= _Single_ ]
 
 The **TabFixedHeight** and **TabFixedWidth** property syntaxes have these parts:
 

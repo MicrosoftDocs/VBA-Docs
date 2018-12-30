@@ -17,7 +17,7 @@ Specifies the visual appearance of the list in a **[ListBox](listbox-control.md)
 
 ## Syntax
 
-_object_. **ListStyle** [= _fmListStyle_ ]
+_object_.**ListStyle** [= _fmListStyle_ ]
 
 The **ListStyle** property syntax has these parts:
 

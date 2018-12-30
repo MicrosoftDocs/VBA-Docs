@@ -44,4 +44,7 @@ Use these key combinations in the Watch window.
 
 ## See also
 
+- [Add a watch expression](../../concepts/forms/add-a-watch-expression.md)
+- [Delete a watch expression](../../how-to/delete-a-watch-expression.md)
+- [Edit a watch expression](../../how-to/edit-a-watch-expression.md)
 - [Window elements](../window-elements.md)

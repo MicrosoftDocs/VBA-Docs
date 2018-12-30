@@ -15,8 +15,8 @@ ms.date: 11/16/2018
 
 ## Syntax
 
-_object_. **InsideHeight** <br/>
-_object_. **InsideWidth**
+_object_.**InsideHeight** <br/>
+_object_.**InsideWidth**
 
 The **InsideHeight** and **InsideWidth** property syntaxes have these parts:
 

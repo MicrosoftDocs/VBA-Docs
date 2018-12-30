@@ -26,6 +26,8 @@ The following table describes the dialog box options.
     
 ## See also
 
+- [Check or add an object library reference](../../how-to/check-or-add-an-object-library-reference.md)
+- [Set reference to a type library](../../how-to/set-reference-to-a-type-library.md)
 - [Dialog boxes](../dialog-boxes.md)
 
 

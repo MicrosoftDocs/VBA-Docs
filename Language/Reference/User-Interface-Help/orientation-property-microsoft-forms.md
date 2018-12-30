@@ -15,7 +15,7 @@ Specifies whether the **[SpinButton](spinbutton-control.md)** or **[ScrollBar](s
 
 ## Syntax
 
-_object_. **Orientation** [= _fmOrientation_ ]
+_object_.**Orientation** [= _fmOrientation_ ]
 
 The **Orientation** property syntax has these parts:
 

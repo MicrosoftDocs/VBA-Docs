@@ -15,7 +15,7 @@ Designates the default command button on a form.
 
 ## Syntax
 
-_object_. **Default** [= _Boolean_ ]
+_object_.**Default** [= _Boolean_ ]
 
 The **Default** property syntax has these parts:
 

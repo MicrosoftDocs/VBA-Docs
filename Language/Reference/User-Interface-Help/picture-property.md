@@ -17,7 +17,7 @@ Specifies the bitmap to display on an object.
 
 ## Syntax
 
-_object_. **Picture** = **LoadPicture(**_pathname_**)**
+_object_.**Picture** = **LoadPicture(**_pathname_**)**
 
 The **Picture** property syntax has these parts:
 

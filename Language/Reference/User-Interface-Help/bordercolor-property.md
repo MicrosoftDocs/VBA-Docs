@@ -17,7 +17,7 @@ Specifies the color of an object's border.
 
 ## Syntax
 
-_object_. **BorderColor** [= _Long_ ]
+_object_.**BorderColor** [= _Long_ ]
 
 The **BorderColor** property syntax has these parts:
 

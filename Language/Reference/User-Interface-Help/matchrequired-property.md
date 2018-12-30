@@ -17,7 +17,7 @@ Specifies whether a value entered in the text portion of a **[ComboBox](combobox
 
 ## Syntax
 
-_object_. **MatchRequired** [= _Boolean_ ]
+_object_.**MatchRequired** [= _Boolean_ ]
 
 The **MatchRequired** property syntax has these parts:
 

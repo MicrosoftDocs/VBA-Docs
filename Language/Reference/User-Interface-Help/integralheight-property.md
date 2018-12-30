@@ -17,7 +17,7 @@ Indicates whether a **[ListBox](listbox-control.md)** or **[TextBox](textbox-con
 
 ## Syntax
 
-_object_. **IntegralHeight** [= _Boolean_ ]
+_object_.**IntegralHeight** [= _Boolean_ ]
 
 The **IntegralHeight** property syntax has these parts:
 

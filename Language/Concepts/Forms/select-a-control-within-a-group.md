@@ -5,14 +5,11 @@ f1_keywords:
 - fm20.chm5225269
 ms.prod: office
 ms.assetid: 6fa12422-98b2-9934-a940-a9f76b445798
-ms.date: 06/08/2017
+ms.date: 12/29/2018
 ---
 
 
 # Select a control within a group
-
-
-
 
 1. Select the group.
     
@@ -20,7 +17,11 @@ ms.date: 06/08/2017
     
 3. When you are finished working with the selected control, click anywhere inside the group, but not on the selected control. The group is still selected. You can select another control in the group or go on to any other task you need to perform.
     
+## See also
 
+- [Microsoft Forms collections, controls, and objects](../../reference/user-interface-help/objects-microsoft-forms.md)
+- [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
+- [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
 
 

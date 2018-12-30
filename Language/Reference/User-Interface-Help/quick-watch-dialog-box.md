@@ -26,4 +26,5 @@ The following table describes the dialog box options.
 
 ## See also
 
+- [Use Quick Watch](../../how-to/use-quick-watch.md)
 - [Dialog boxes](../dialog-boxes.md)

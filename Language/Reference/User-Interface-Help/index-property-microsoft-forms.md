@@ -15,7 +15,7 @@ The position of a **[Tab](tab-object.md)** object within a **[Tabs](tabs-collect
 
 ## Syntax
 
-_object_. **Index** [= _Integer_ ]
+_object_.**Index** [= _Integer_ ]
 
 The **Index** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Returns the length, in characters, of text in the edit region of a **[TextBox](t
 
 ## Syntax
 
-_object_. **TextLength**
+_object_.**TextLength**
 
 The **TextLength** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Identifies the column in a **[ComboBox](combobox-control.md)** or **[ListBox](li
 
 ## Syntax
 
-_object_. **TextColumn** [= _Variant_ ]
+_object_.**TextColumn** [= _Variant_ ]
 
 The **TextColumn** property syntax has these parts:
 

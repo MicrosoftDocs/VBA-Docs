@@ -15,8 +15,8 @@ Specify the height, in [points](../../Glossary/vbe-glossary.md#point), of the to
 
 ## Syntax
 
-_object_. **ScrollHeight** [= _Single_ ] <br/>
-_object_. **ScrollWidth** [= _Single_ ]
+_object_.**ScrollHeight** [= _Single_ ] <br/>
+_object_.**ScrollWidth** [= _Single_ ]
 
 The **ScrollHeight** and **ScrollWidth** property syntaxes have these parts:
 

@@ -17,7 +17,7 @@ Indicates the starting point of selected text, or the insertion point if no text
 
 ## Syntax
 
-_object_. **SelStart** [= _Long_ ]
+_object_.**SelStart** [= _Long_ ]
 
 The **SelStart** property syntax has these parts:
 

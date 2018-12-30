@@ -15,8 +15,8 @@ The height or width, in [points](../../Glossary/vbe-glossary.md#point), of an ob
 
 ## Syntax
 
-_object_. **Height** [= _Single_ ] <br/>
-_object_. **Width** [= _Single_ ]
+_object_.**Height** [= _Single_ ] <br/>
+_object_.**Width** [= _Single_ ]
 
 The **Height** and **Width** property syntaxes have these parts:
 

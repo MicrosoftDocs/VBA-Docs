@@ -17,7 +17,7 @@ Specifies whether an automatic tab occurs when a user enters the maximum allowab
 
 ## Syntax
 
-_object_. **AutoTab** [= _Boolean_ ]
+_object_.**AutoTab** [= _Boolean_ ]
 
 The **AutoTab** property syntax has these parts:
 

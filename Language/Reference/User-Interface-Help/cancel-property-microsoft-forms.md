@@ -15,7 +15,7 @@ Returns or sets a value indicating whether a command button is the **Cancel** bu
 
 ## Syntax
 
-_object_. **Cancel** [= _Boolean_ ]
+_object_.**Cancel** [= _Boolean_ ]
 
 The **Cancel** property syntax has these parts:
 

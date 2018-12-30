@@ -17,7 +17,7 @@ Identifies the currently selected item in a **[ListBox](listbox-control.md)** or
 
 ## Syntax
 
-_object_. **ListIndex** [= _Variant_ ]
+_object_.**ListIndex** [= _Variant_ ]
 
 The **ListIndex** property syntax has these parts:
 

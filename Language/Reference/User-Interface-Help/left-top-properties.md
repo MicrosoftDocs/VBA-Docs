@@ -15,8 +15,8 @@ The distance between a control and the left or top edge of the form that contain
 
 ## Syntax
 
-_object_. **Left** [= _Single_ ] <br/>
-_object_. **Top** [= _Single_ ]
+_object_.**Left** [= _Single_ ] <br/>
+_object_.**Top** [= _Single_ ]
 
 The **Left** and **Top** property syntaxes have these parts:
 

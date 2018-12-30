@@ -17,7 +17,7 @@ Returns the number of text lines in a **[TextBox](textbox-control.md)** or **[Co
 
 ## Syntax
 
-_object_. **LineCount**
+_object_.**LineCount**
 
 The **LineCount** property syntax has these parts:
 

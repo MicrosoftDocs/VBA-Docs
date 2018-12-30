@@ -17,7 +17,7 @@ Specifies whether a control, form, or page has vertical scroll bars, horizontal 
 
 ## Syntax
 
-_object_. **ScrollBars** [= _fmScrollBars_ ]
+_object_.**ScrollBars** [= _fmScrollBars_ ]
 
 The **ScrollBars** property syntax has these parts:
 

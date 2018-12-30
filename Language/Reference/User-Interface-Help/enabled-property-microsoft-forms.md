@@ -15,7 +15,7 @@ Specifies whether a control can receive the [focus](../../Glossary/vbe-glossary.
 
 ## Syntax
 
-_object_. **Enabled** [= _Boolean_ ]
+_object_.**Enabled** [= _Boolean_ ]
 
 The **Enabled** property syntax has these parts:
 

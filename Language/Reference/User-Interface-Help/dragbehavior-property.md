@@ -17,7 +17,7 @@ Specifies whether the system enables the drag-and-drop feature for a **[TextBox]
 
 ## Syntax
 
-_object_. **DragBehavior** [= _fmDragBehavior_ ]
+_object_.**DragBehavior** [= _fmDragBehavior_ ]
 
 The **DragBehavior** property syntax has these parts:
 

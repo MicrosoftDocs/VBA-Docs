@@ -15,7 +15,7 @@ Returns or sets the text in a **[TextBox](textbox-control.md)**. Changes the sel
 
 ## Syntax
 
-_object_. **Text** [= _String_ ]
+_object_.**Text** [= _String_ ]
 
 The **Text** property syntax has these parts:
 

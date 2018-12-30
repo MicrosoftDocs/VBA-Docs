@@ -139,7 +139,7 @@ Opening a code or designer window adds a new member to the **Windows** collectio
 - [Drives collection](../user-interface-help/drives-collection.md)
 - [Files collection](../user-interface-help/files-collection.md)
 - [Folders collection](../user-interface-help/folders-collection.md)
-- [Collections (Microsoft Forms)](../user-interface-help/collections-microsoft-forms.md)
+- [Collections (Microsoft Forms)](../user-interface-help/objects-microsoft-forms.md)
 - [Visual Basic Add-in Model reference](../user-interface-help/visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](../user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)

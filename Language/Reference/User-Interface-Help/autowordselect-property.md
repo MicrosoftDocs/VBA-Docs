@@ -17,7 +17,7 @@ Specifies whether a word or a character is the basic unit used to extend a selec
 
 ## Syntax
 
-_object_. **AutoWordSelect** [= _Boolean_ ]
+_object_.**AutoWordSelect** [= _Boolean_ ]
 
 The **AutoWordSelect** property syntax has these parts:
 

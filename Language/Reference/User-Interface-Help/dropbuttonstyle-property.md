@@ -17,7 +17,7 @@ Specifies the symbol displayed on the drop button in a **[ComboBox](combobox-con
 
 ## Syntax
 
-_object_. **DropButtonStyle** [= _fmDropButtonStyle_ ]
+_object_.**DropButtonStyle** [= _fmDropButtonStyle_ ]
 
 The **DropButtonStyle** property syntax has these parts:
 

@@ -17,7 +17,7 @@ The **HelpContextID** property associates a specific topic in a custom Microsoft
 
 ## Syntax
 
-_object_. **HelpContextID** [= _Long_ ]
+_object_.**HelpContextID** [= _Long_ ]
 
 The **HelpContextID** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Specifies the maximum number of characters a user can enter in a **[TextBox](tex
 
 ## Syntax
 
-_object_. **MaxLength** [= _Long_ ]
+_object_.**MaxLength** [= _Long_ ]
 
 The **MaxLength** property syntax has these parts:
 

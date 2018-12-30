@@ -15,8 +15,8 @@ Returns the previous height or width, in [points](../../Glossary/vbe-glossary.md
 
 ## Syntax
 
-_object_. **OldHeight** <br/>
-_object_. **OldWidth**
+_object_.**OldHeight** <br/>
+_object_.**OldWidth**
  
 The **OldHeight** and **OldWidth** property syntaxes have these parts:
 

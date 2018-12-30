@@ -17,7 +17,7 @@ Specifies whether the control has more than one row of tabs.
 
 ## Syntax
 
-_object_. **MultiRow** [= _Boolean_ ]
+_object_.**MultiRow** [= _Boolean_ ]
 
 The **MultiRow** property syntax has these parts:
 

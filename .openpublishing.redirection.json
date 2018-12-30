@@ -1523,6 +1523,14 @@
           {
             "source_path": "language/reference/properties-visual-basic-for-applications.md",
             "redirect_url": "/office/vba/language/reference/objects-visual-basic-for-applications"
+          },
+          {
+            "source_path": "language/concepts/forms/object-model-for-microsoft-forms.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/objects-microsoft-forms"
+          },
+          {
+            "source_path": "language/reference/user-interface-help/collections-microsoft-forms.md",
+            "redirect_url": "/office/vba/language/reference/user-interface-help/objects-microsoft-forms"
           }
     ]
 }

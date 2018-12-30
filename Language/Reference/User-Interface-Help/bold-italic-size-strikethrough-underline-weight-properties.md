@@ -15,12 +15,12 @@ Specifies the visual attributes of text on a displayed or printed form.
 
 ## Syntax
 
-_object_. **Bold** [= _Boolean_ ] <br/>
-_object_. **Italic** [= _Boolean_ ] <br/>
-_object_. **Size** [= _Currency_ ] <br/>
-_object_. **StrikeThrough** [= _Boolean_ ] <br/>
-_object_. **Underline** [= _Boolean_ ] <br/>
-_object_. **Weight** [= _Integer_ ] <br/>
+_object_.**Bold** [= _Boolean_ ] <br/>
+_object_.**Italic** [= _Boolean_ ] <br/>
+_object_.**Size** [= _Currency_ ] <br/>
+_object_.**StrikeThrough** [= _Boolean_ ] <br/>
+_object_.**Underline** [= _Boolean_ ] <br/>
+_object_.**Weight** [= _Integer_ ] <br/>
 
 The **Bold**, **Italic**, **Size**, **StrikeThrough**, **Underline**, and **Weight** property syntaxes have these parts:
 
