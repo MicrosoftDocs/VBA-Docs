@@ -17,7 +17,7 @@ Indicates whether the contents of a control automatically wrap at the end of a l
 
 ## Syntax
 
-_object_. **WordWrap** [= _Boolean_ ]
+_object_.**WordWrap** [= _Boolean_ ]
 
 The **WordWrap** property syntax has these parts:
 

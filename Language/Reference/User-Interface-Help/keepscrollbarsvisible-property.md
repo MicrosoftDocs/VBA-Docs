@@ -17,7 +17,7 @@ Specifies whether scroll bars remain visible when not required.
 
 ## Syntax
 
-_object_. **KeepScrollBarsVisible** [= _fmScrollBars_ ]
+_object_.**KeepScrollBarsVisible** [= _fmScrollBars_ ]
 
 The **KeepScrollBarsVisible** property syntax has these parts:
 

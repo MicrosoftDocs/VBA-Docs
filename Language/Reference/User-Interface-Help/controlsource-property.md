@@ -17,7 +17,7 @@ Identifies the data location used to set or store the **Value** property of a co
 
 ## Syntax
 
-_object_. **ControlSource** [= _String_ ]
+_object_.**ControlSource** [= _String_ ]
 
 The **ControlSource** property syntax has these parts:
 

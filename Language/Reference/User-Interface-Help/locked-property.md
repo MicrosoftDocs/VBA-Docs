@@ -17,7 +17,7 @@ Specifies whether a control can be edited.
 
 ## Syntax
 
-_object_. **Locked** [= _Boolean_ ]
+_object_.**Locked** [= _Boolean_ ]
 
 The **Locked** property syntax has these parts:
 

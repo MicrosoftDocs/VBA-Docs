@@ -17,7 +17,7 @@ Indicates whether the text that a user has typed into a combo box matches any of
 
 ## Syntax
 
-_object_. **MatchFound**
+_object_.**MatchFound**
 
 The **MatchFound** property syntax has these parts:
 

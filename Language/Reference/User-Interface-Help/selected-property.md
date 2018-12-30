@@ -17,7 +17,7 @@ Returns or sets the selection state of items in a **[ListBox](listbox-control.md
 
 ## Syntax
 
-_object_. **Selected(**_index_**)** [= _Boolean_ ]
+_object_.**Selected(**_index_**)** [= _Boolean_ ]
 
 The **Selected** property syntax has these parts:
 

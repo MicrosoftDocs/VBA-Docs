@@ -17,7 +17,7 @@ Specifies the default [run time](../../Glossary/vbe-glossary.md#run-time) mode o
 
 ## Syntax
 
-_object_. **IMEMode** [= _fmIMEMode_ ]
+_object_.**IMEMode** [= _fmIMEMode_ ]
 
 The **IMEMode** property syntax has these parts:
 

@@ -17,7 +17,7 @@ Specifies one or more items in a **[ListBox](listbox-control.md)** or **[ComboBo
 
 ## Syntax
 
-_object_. **Column(**_column, row_**)** [= _Variant_ ]
+_object_.**Column(**_column, row_**)** [= _Variant_ ]
 
 The **Column** property syntax has these parts:
 

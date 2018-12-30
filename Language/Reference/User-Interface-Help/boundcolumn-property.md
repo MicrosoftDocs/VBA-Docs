@@ -17,7 +17,7 @@ Identifies the source of data in a multicolumn **[ComboBox](combobox-control.md)
 
 ## Syntax
 
-_object_. **BoundColumn** [= _Variant_ ]
+_object_.**BoundColumn** [= _Variant_ ]
 
 The **BoundColumn** property syntax has these parts:
 

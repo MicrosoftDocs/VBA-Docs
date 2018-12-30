@@ -15,7 +15,7 @@ Specifies whether an object is visible or hidden.
 
 ## Syntax
 
-_object_. **Visible** [= _Boolean_ ]
+_object_.**Visible** [= _Boolean_ ]
 
 The **Visible** property syntax has these parts:
 

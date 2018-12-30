@@ -17,7 +17,7 @@ Specifies the type of pointer displayed when the user positions the mouse over a
 
 ## Syntax
 
-_object_. **MousePointer** [= _fmMousePointer_ ]
+_object_.**MousePointer** [= _fmMousePointer_ ]
 
 The **MousePointer** property syntax has these parts:
 

@@ -15,7 +15,7 @@ Returns the name of the form, object, or [collection](../../Glossary/vbe-glossar
 
 ## Syntax
 
-_object_. **Parent**
+_object_.**Parent**
 
 The **Parent** property syntax has these parts:
 

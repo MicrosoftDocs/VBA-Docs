@@ -17,7 +17,7 @@ The number of characters selected in a **[TextBox](textbox-control.md)** or the 
 
 ## Syntax
 
-_object_. **SelLength** [= _Long_ ]
+_object_.**SelLength** [= _Long_ ]
 
 The **SelLength** property syntax has these parts:
 

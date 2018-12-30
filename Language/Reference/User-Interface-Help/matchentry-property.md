@@ -17,7 +17,7 @@ Returns or sets a value indicating how a **[ListBox](listbox-control.md)** or **
 
 ## Syntax
 
-_object_. **MatchEntry** [= _fmMatchEntry_ ]
+_object_.**MatchEntry** [= _fmMatchEntry_ ]
 
 The **MatchEntry** property syntax has these parts:
 

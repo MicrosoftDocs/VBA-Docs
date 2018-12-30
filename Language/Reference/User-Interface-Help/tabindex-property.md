@@ -17,7 +17,7 @@ Specifies the position of a single object in the form's [tab order](../../Glossa
 
 ## Syntax
 
-_object_. **TabIndex** [= _Integer_ ]
+_object_.**TabIndex** [= _Integer_ ]
 
 The **TabIndex** property syntax has these parts:
 

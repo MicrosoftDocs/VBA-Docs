@@ -17,7 +17,7 @@ Determines whether a user can specify, from the user interface, the [Null](../..
 
 ## Syntax
 
-_object_. **TripleState** [= _Boolean_ ]
+_object_.**TripleState** [= _Boolean_ ]
 
 The **TripleState** property syntax has these parts:
 

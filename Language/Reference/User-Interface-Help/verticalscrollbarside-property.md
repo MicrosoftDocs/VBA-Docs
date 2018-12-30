@@ -17,7 +17,7 @@ Specifies whether a vertical scroll bar appears on the right or left side of a f
 
 ## Syntax
 
-_object_. **VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
+_object_.**VerticalScrollbarSide** [= _fmVerticalScrollbarSide_ ]
 
 The **VerticalScrollbarSide** property syntax has these parts:
 

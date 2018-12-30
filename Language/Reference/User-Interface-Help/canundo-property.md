@@ -17,7 +17,7 @@ Indicates whether the last user action can be undone.
 
 ## Syntax
 
-_object_. **CanUndo**
+_object_.**CanUndo**
 
 The **CanUndo** property syntax has these parts:
 

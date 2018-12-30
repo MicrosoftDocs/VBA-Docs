@@ -17,7 +17,7 @@ Specifies the type of border used by a control or a form.
 
 ## Syntax
 
-_object_. **BorderStyle** [= _fmBorderStyle_ ]
+_object_.**BorderStyle** [= _fmBorderStyle_ ]
 
 The **BorderStyle** property syntax has these parts:
 

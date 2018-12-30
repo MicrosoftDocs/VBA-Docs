@@ -17,7 +17,7 @@ Specifies the location of a background picture.
 
 ## Syntax
 
-_object_. **PictureAlignment** [= _fmPictureAlignment_ ]
+_object_.**PictureAlignment** [= _fmPictureAlignment_ ]
 
 The **PictureAlignment** property syntax has these parts:
 

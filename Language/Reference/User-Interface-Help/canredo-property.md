@@ -17,7 +17,7 @@ Indicates whether the most recent Undo can be reversed.
 
 ## Syntax
 
-_object_. **CanRedo**
+_object_.**CanRedo**
 
 The **CanRedo** property syntax has these parts:
 

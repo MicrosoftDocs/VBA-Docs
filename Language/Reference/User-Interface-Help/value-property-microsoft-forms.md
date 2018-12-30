@@ -15,7 +15,7 @@ Specifies the state or content of a given control.
 
 ## Syntax
 
-_object_. **Value** [= _Variant_ ]
+_object_.**Value** [= _Variant_ ]
 
 The **Value** property syntax has these parts:
 

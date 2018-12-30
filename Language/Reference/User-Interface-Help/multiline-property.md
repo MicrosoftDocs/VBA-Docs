@@ -17,7 +17,7 @@ Specifies whether a control can accept and display multiple lines of text.
 
 ## Syntax
 
-_object_. **MultiLine** [= _Boolean_ ]
+_object_.**MultiLine** [= _Boolean_ ]
 
 The **MultiLine** property syntax has these parts:
 

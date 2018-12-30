@@ -17,7 +17,7 @@ Specifies the delay for the SpinUp, SpinDown, and Change events on a **[SpinButt
 
 ## Syntax
 
-_object_. **Delay** [= _Long_ ]
+_object_.**Delay** [= _Long_ ]
 
 The **Delay** property syntax has these parts:
 

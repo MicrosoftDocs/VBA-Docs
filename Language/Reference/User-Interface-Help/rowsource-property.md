@@ -17,7 +17,7 @@ Specifies the source providing a list for a **[ComboBox](combobox-control.md)** 
 
 ## Syntax
 
-_object_. **RowSource** [= _String_ ]
+_object_.**RowSource** [= _String_ ]
 
 The **RowSource** property syntax has these parts:
 

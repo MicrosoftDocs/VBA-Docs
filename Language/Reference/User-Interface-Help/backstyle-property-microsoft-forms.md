@@ -15,7 +15,7 @@ Returns or sets the background style for an object.
 
 ## Syntax
 
-_object_. **BackStyle** [= _fmBackStyle_ ]
+_object_.**BackStyle** [= _fmBackStyle_ ]
 
 The **BackStyle** property syntax has these parts:
 

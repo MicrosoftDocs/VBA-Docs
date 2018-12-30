@@ -17,7 +17,7 @@ Specifies whether the user can select a line of text by clicking in the region t
 
 ## Syntax
 
-_object_. **SelectionMargin** [= _Boolean_ ]
+_object_.**SelectionMargin** [= _Boolean_ ]
 
 The **SelectionMargin** property syntax has these parts:
 

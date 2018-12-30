@@ -15,7 +15,7 @@ Specifies the [foreground color](../../Glossary/glossary-vba.md#foreground-color
 
 ## Syntax
 
-_object_. **ForeColor** [= _Long_ ]
+_object_.**ForeColor** [= _Long_ ]
 
 The **ForeColor** property syntax has these parts:
 

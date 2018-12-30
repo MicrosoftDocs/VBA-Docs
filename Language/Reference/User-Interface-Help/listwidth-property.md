@@ -17,7 +17,7 @@ Specifies the width of the list in a **[ComboBox](combobox-control.md)**.
 
 ## Syntax
 
-_object_. **ListWidth** [= _Variant_ ]
+_object_.**ListWidth** [= _Variant_ ]
 
 The **ListWidth** property syntax has these parts:
 

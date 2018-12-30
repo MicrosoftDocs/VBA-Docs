@@ -17,7 +17,7 @@ Specifies the location of the tabs on a **[MultiPage](multipage-control.md)** or
 
 ## Syntax
 
-_object_. **TabOrientation** [= _fmTabOrientation_ ]
+_object_.**TabOrientation** [= _fmTabOrientation_ ]
 
 The **TabOrientation** property syntax has these parts:
 

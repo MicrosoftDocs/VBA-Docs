@@ -17,7 +17,7 @@ Contains the value of a control when that control receives the focus.
 
 ## Syntax
 
-_object_. **BoundValue** [= _Variant_ ]
+_object_.**BoundValue** [= _Variant_ ]
 
 The **BoundValue** property syntax has these parts:
 

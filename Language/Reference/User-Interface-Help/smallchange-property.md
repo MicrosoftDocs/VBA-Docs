@@ -17,7 +17,7 @@ Specifies the amount of movement that occurs when the user clicks either scroll 
 
 ## Syntax
 
-_object_. **SmallChange** [= _Long_ ]
+_object_.**SmallChange** [= _Long_ ]
 
 The **SmallChange** property syntax has these parts:
 

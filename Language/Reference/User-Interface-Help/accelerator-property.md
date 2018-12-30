@@ -17,7 +17,7 @@ Sets or retrieves the [accelerator key](../../Glossary/glossary-vba.md#accelerat
 
 ## Syntax
 
-_object_. **Accelerator** [= _String_ ]
+_object_.**Accelerator** [= _String_ ]
 
 The **Accelerator** property syntax has these parts:
 

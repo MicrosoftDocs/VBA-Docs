@@ -17,7 +17,7 @@ Determines whether tabs are allowed in the edit region.
 
 ## Syntax
 
-_object_. **TabKeyBehavior** [= _Boolean_ ]
+_object_.**TabKeyBehavior** [= _Boolean_ ]
 
 The **TabKeyBehavior** property syntax has these parts:
 

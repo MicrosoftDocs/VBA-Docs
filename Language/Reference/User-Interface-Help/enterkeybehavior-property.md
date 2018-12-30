@@ -17,7 +17,7 @@ Defines the effect of pressing ENTER in a **[TextBox](textbox-control.md)**.
 
 ## Syntax
 
-_object_. **EnterKeyBehavior** [= _Boolean_ ]
+_object_.**EnterKeyBehavior** [= _Boolean_ ]
 
 The **EnterKeyBehavior** property syntax has these parts:
 

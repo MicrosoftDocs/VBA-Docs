@@ -17,7 +17,7 @@ Specifies whether a control takes the [focus](../../Glossary/vbe-glossary.md#foc
 
 ## Syntax
 
-_object_. **TakeFocusOnClick** [= _Boolean_ ]
+_object_.**TakeFocusOnClick** [= _Boolean_ ]
 
 The **TakeFocusOnClick** property syntax has these parts:
 

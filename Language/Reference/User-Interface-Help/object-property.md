@@ -17,7 +17,7 @@ Overrides a standard property or method when a new control has a property or met
 
 ## Syntax
 
-_object_. **Object** [. _property_ |. _method_ ]
+_object_.**Object** [. _property_ |. _method_ ]
 
 The **Object** property syntax has these parts:
 

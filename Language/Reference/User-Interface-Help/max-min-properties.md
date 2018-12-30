@@ -15,8 +15,8 @@ Specify the maximum and minimum acceptable values for the **[Value](value-proper
 
 ## Syntax
 
-_object_. **Max** [= _Long_ ] <br/>
-_object_. **Min** [= _Long_ ]
+_object_.**Max** [= _Long_ ] <br/>
+_object_.**Min** [= _Long_ ]
  
 The **Max** and **Min** property syntaxes have these parts:
 

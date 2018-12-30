@@ -17,7 +17,7 @@ Displays a single row of column headings for list boxes, combo boxes, and object
 
 ## Syntax
 
-_object_. **ColumnHeads** [= _Boolean_ ]
+_object_.**ColumnHeads** [= _Boolean_ ]
 
 The **ColumnHeads** property syntax has these parts:
 
