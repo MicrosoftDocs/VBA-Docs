@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.XlFileFormat
 ms.assetid: 4c0ebc4c-915c-c199-ee39-f4d14ba7b64e
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -12,13 +12,14 @@ ms.date: 06/08/2017
 
 Specifies the file format when saving the worksheet.
 
-|Name|Value|Description|**Extension**|
+|Name|Value|Description|Extension|
 |:-----|:-----|:-----|:-----|
 | **xlAddIn**|18|Microsoft Excel 97-2003 Add-In|*.xla|
 | **xlAddIn8**|18|Microsoft Excel 97-2003 Add-In|*.xla|
 | **xlCSV**|6|CSV|*.csv|
 | **xlCSVMac**|22|Macintosh CSV|*.csv|
 | **xlCSVMSDOS**|24|MSDOS CSV|*.csv|
+| **xlCSVUTF8**|62|UTF8 CSV|*.csv|
 | **xlCSVWindows**|23|Windows CSV|*.csv|
 | **xlCurrentPlatformText**|-4158|Current Platform Text|*.txt|
 | **xlDBF2**|7|Dbase 2 format|*.dbf|

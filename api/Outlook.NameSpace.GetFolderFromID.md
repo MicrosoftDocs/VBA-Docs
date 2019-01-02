@@ -13,28 +13,26 @@ ms.date: 06/08/2017
 
 # NameSpace.GetFolderFromID Method (Outlook)
 
-Returns a  **[Folder](Outlook.Folder.md)** object identified by the specified entry ID (if valid).
+Returns a **[Folder](Outlook.Folder.md)** object identified by the specified entry ID (if valid).
 
 
 ## Syntax
 
- _expression_. `GetFolderFromID`( `_EntryIDFolder_` , `_EntryIDStore_` )
+_expression_.**GetFolderFromID** (_EntryIDFolder_, _EntryIDStore_)
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _EntryIDFolder_|Required| **String**|The  **[EntryID](Outlook.Folder.EntryID.md)** of the folder.|
-| _EntryIDStore_|Optional| **Variant**|The  **[StoreID](Outlook.Folder.StoreID.md)** for the folder.|
+| _EntryIDFolder_|Required| **String**|The **[EntryID](Outlook.Folder.EntryID.md)** of the folder.|
+| _EntryIDStore_|Optional| **Variant**|The **[StoreID](Outlook.Folder.StoreID.md)** for the folder.|
 
 ## Return value
 
-A ** Folder** object that represents the specified folder.
+A **Folder** object that represents the specified folder.
 
 
 ## Remarks
@@ -44,7 +42,7 @@ This method is used for ease of transition between MAPI and OLE/Messaging applic
 
 ## Example
 
-This Visual Basic for Applications (VBA) example obtains the  **EntryID** and **StoreID** for the default **Tasks** folder and then calls the **GetFolderFromID** method using these values to obtain the same folder. The folder is then displayed.
+This Visual Basic for Applications (VBA) example obtains the **EntryID** and **StoreID** for the default **Tasks** folder, and then calls the **GetFolderFromID** method by using these values to obtain the same folder. The folder is then displayed.
 
 
 ```vb
@@ -60,13 +58,13 @@ Sub GetWithID()
  
  
  
- Set myFolder = Application.Session.GetDefaultFolder(olFolderTasks) 
+ Set myFolder = Application.Session.GetDefaultFolder (olFolderTasks) 
  
  myEntryID = myFolder.EntryID 
  
  myStoreID = myFolder.StoreID 
  
- Set myNewFolder = Application.Session.GetFolderFromID(myEntryID, myStoreID) 
+ Set myNewFolder = Application.Session.GetFolderFromID (myEntryID, myStoreID) 
  
  myNewFolder.Display 
  
@@ -74,8 +72,4 @@ End Sub
 ```
 
 
-## See also
-
-
-[NameSpace Object](Outlook.NameSpace.md)
 
