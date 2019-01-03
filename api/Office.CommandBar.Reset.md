@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBar.Reset
 ms.assetid: 96dfb3cc-a53c-ea7f-eb98-96a983faa681
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -21,9 +21,9 @@ Resets a built-in command bar to its default configuration.
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_.**Reset**
 
- _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
+_expression_ A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ Resetting a built-in control restores the actions originally intended for the co
 
 ## Example
 
-This example uses the value of User to adjust the command bars according to the user level. If User is "Level 1," the command bar named "Custom" is displayed. If User is any other value, the built-in Visual Basic command bar is reset to its default state and the command bar named "Custom" is disabled.
+This example uses the value of **User** to adjust the command bars according to the user level. If **User** is "Level 1," the command bar named **Custom** is displayed. If **User** is any other value, the built-in Visual Basic command bar is reset to its default state and the command bar named **Custom** is disabled.
 
 
 ```vb
@@ -46,13 +46,7 @@ Else
 End If
 ```
 
-
 ## See also
 
-
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 

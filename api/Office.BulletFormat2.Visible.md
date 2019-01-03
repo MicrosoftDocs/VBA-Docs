@@ -17,7 +17,7 @@ Gets or sets a value that specifies whether the bullet is visible. Read/write.
 
 _expression_.**Visible**
 
-_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
+_expression_ An expression that returns a **[BulletFormat2](Office.BulletFormat2.md)** object.
 
 
 ## Return value

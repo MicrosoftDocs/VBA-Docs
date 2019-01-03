@@ -20,7 +20,7 @@ Gets the programmatic identifier (ProgID) for the specified **COMAddIn** object.
 
 _expression_.**ProgId**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Example

@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.CommandBar.Delete
 ms.assetid: 6976f273-dbd4-5f3d-52ef-0d6d5cc886c9
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBar.Delete method (Office)
 
-Deletes the  **CommandBar** object from the collection.
+Deletes the **CommandBar** object from the collection.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -21,14 +21,14 @@ Deletes the  **CommandBar** object from the collection.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[CommandBar](Office.CommandBar.md)' object.
+_expression_ Required. A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Remarks
 
-For the  **Scripts** collection, using the **Delete** method removes all scripts from the specified Microsoft Word document, Microsoft Excel worksheet, or Microsoft PowerPoint slide. A script anchor is represented by a shape in the host application. Therefore, the **Shape** object associated with each script anchor of type **msoScriptAnchor** is deleted from the **Shapes** collection in Excel and PowerPoint and from the **InlineShapes** and **Shapes** collections in Word.
+For the **Scripts** collection, using the **Delete** method removes all scripts from the specified Microsoft Word document, Excel worksheet, or PowerPoint slide. A script anchor is represented by a shape in the host application. Therefore, the **Shape** object associated with each script anchor of type **msoScriptAnchor** is deleted from the **Shapes** collection in Excel and PowerPoint and from the **InlineShapes** and **Shapes** collections in Word.
 
 
 ## Example
@@ -57,10 +57,5 @@ End If
 
 ## See also
 
-
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 

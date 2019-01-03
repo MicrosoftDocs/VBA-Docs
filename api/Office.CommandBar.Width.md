@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBar.Width
 ms.assetid: ae092193-59fd-25a1-c1d0-ebe6d6532756
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -21,9 +21,9 @@ Gets or sets the width (in pixels) of the specified command bar. Read/write.
 
 ## Syntax
 
- _expression_. `Width`
+_expression_.**Width**
 
- _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
+_expression_ A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Return value
@@ -33,7 +33,7 @@ Integer
 
 ## Example
 
-This example adds a custom control to the command bar named Custom. The example sets the height of the custom control to twice the height of the command bar and sets its width to 50 pixels. Notice how the command bar automatically resizes itself to accommodate the control.
+This example adds a custom control to the command bar named **Custom**. The example sets the height of the custom control to twice the height of the command bar and sets its width to 50 pixels. Notice how the command bar automatically resizes itself to accommodate the control.
 
 
 ```vb
@@ -53,10 +53,5 @@ myBar.Visible = True
 
 ## See also
 
-
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 

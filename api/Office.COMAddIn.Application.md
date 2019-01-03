@@ -17,7 +17,7 @@ Gets an **Application** object that represents the container application for the
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets the class identifier (CLSID) for the specified **COMAddIn** object. Read-on
 
 _expression_.**Guid**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Example

@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.CommandBar.Position
 ms.assetid: b1e80bc0-1586-523b-a9ec-70c76fa54252
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBar.Position property (Office)
 
-Gets or sets a  **MsoBarPosition** constant representing the position of a command bar. Read/write.
+Gets or sets an **[msoBarPosition](office.msobarposition.md)** constant representing the position of a command bar. Read/write.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -21,9 +21,9 @@ Gets or sets a  **MsoBarPosition** constant representing the position of a comma
 
 ## Syntax
 
- _expression_. `Position`
+_expression_.**Position**
 
- _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
+_expression_ A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Example
@@ -46,10 +46,5 @@ Next
 
 ## See also
 
-
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 

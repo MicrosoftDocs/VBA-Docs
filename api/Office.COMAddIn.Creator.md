@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the **COMAddIn** o
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Return value
