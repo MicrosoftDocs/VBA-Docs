@@ -61,7 +61,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BottomMargin](Access.Printer.BottomMargin.md)|
 |[ColorMode](Access.Printer.ColorMode.md)|

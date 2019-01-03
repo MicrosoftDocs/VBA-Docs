@@ -29,7 +29,7 @@ Use  **[SelectedTab](Access.NavigationControl.SelectedTab.md)** property to retu
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.NavigationControl.AfterUpdate.md)|
 |[BeforeUpdate](Access.NavigationControl.BeforeUpdate.md)|
@@ -53,7 +53,7 @@ Use  **[SelectedTab](Access.NavigationControl.SelectedTab.md)** property to retu
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.NavigationControl.Move.md)|
 |[Requery](Access.NavigationControl.Requery.md)|
@@ -65,7 +65,7 @@ Use  **[SelectedTab](Access.NavigationControl.SelectedTab.md)** property to retu
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.NavigationControl.Application.md)|
 |[AutoTab](Access.NavigationControl.AutoTab.md)|

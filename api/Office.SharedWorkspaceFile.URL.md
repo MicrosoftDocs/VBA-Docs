@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile.URL Property (Office)
+title: SharedWorkspaceFile.URL property (Office)
 keywords: vbaof11.chm266001
 f1_keywords:
 - vbaof11.chm266001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFile.URL Property (Office)
+# SharedWorkspaceFile.URL property (Office)
 
 Gets the full Uniform Resource Locator (URL) and file name of the shared workspace file. Read-only.
 
@@ -23,7 +23,7 @@ Gets the full Uniform Resource Locator (URL) and file name of the shared workspa
 
  _expression_. `URL`
 
- _expression_ A variable that represents a [SharedWorkspaceFile](./Office.SharedWorkspaceFile.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFile](Office.SharedWorkspaceFile.md) object.
 
 
 ## Return value

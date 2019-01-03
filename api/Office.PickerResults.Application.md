@@ -1,5 +1,5 @@
 ---
-title: PickerResults.Application Property (Office)
+title: PickerResults.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PickerResults.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResults.Application Property (Office)
+# PickerResults.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+ _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 
 
 ## See also

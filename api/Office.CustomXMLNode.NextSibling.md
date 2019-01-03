@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.NextSibling Property (Office)
+title: CustomXMLNode.NextSibling property (Office)
 keywords: vbaof11.chm294008
 f1_keywords:
 - vbaof11.chm294008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.NextSibling Property (Office)
+# CustomXMLNode.NextSibling property (Office)
 
 Gets the next sibling node (element, comment, or processing instruction) of the current node. If the node is the last sibling at its level, the property returns  **Nothing**. Read-only.
 
@@ -20,7 +20,7 @@ Gets the next sibling node (element, comment, or processing instruction) of the 
 
  _expression_. `NextSibling`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

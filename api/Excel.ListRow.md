@@ -42,7 +42,7 @@ Set oListRow = wrksht.ListObjects(1).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.ListRow.Delete.md)|
 
@@ -50,7 +50,7 @@ Set oListRow = wrksht.ListObjects(1).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ListRow.Application.md)|
 |[Creator](Excel.ListRow.Creator.md)|

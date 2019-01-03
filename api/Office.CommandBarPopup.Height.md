@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Height Property (Office)
+title: CommandBarPopup.Height property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Height
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Height Property (Office)
+# CommandBarPopup.Height property (Office)
 
 Gets or sets the height of a  **CommandBarPopup** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the height of a  **CommandBarPopup** control. Read/write.
 
  _expression_. `Height`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

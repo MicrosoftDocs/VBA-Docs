@@ -1,5 +1,5 @@
 ---
-title: FileDialogSelectedItems.Creator Property (Office)
+title: FileDialogSelectedItems.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.FileDialogSelectedItems.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogSelectedItems.Creator Property (Office)
+# FileDialogSelectedItems.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **FileDialogSelectedItems** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **FileDialogS
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [FileDialogSelectedItems](./Office.FileDialogSelectedItems.md) object.
+ _expression_ A variable that represents a [FileDialogSelectedItems](Office.FileDialogSelectedItems.md) object.
 
 
 ## Return value

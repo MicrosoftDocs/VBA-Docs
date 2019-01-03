@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.ItemProperty.Application.md)|
 |[Class](./Outlook.ItemProperty.Class.md)|

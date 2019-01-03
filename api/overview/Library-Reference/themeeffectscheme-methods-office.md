@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Load](../../Office.ThemeEffectScheme.Load.md)|Loads the effects scheme of a Microsoft Office theme from a file.|
 

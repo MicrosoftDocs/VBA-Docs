@@ -1,5 +1,5 @@
 ---
-title: SmartArt Object (Office)
+title: SmartArt object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt Object (Office)
+# SmartArt object (Office)
 
 The top level class for interacting with a SmartArt graphic.
 

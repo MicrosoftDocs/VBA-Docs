@@ -14,14 +14,14 @@ A collection of SmartArt color styles.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.SmartArtColors.Item.md)|Retrieves a **SmartArtColor** object at the specified index or with the specified unique Id.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtColors.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
 |[Count](../../Office.SmartArtColors.Count.md)|Retrieves the count of the number of **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|

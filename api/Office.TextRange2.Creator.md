@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Creator Property (Office)
+title: TextRange2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Creator Property (Office)
+# TextRange2.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the **TextRange2** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the **TextRange2**
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

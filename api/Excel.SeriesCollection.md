@@ -47,7 +47,7 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.SeriesCollection.Add.md)|
 |[Extend](Excel.SeriesCollection.Extend.md)|
@@ -57,7 +57,7 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.SeriesCollection.Application.md)|
 |[Count](Excel.SeriesCollection.Count.md)|

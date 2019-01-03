@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Name Property (Office)
+title: WorkflowTemplate.Name property (Office)
 keywords: vbaof11.chm282002
 f1_keywords:
 - vbaof11.chm282002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Name Property (Office)
+# WorkflowTemplate.Name property (Office)
 
 Gets the name of the  **WorkflowTemplate** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the  **WorkflowTemplate** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

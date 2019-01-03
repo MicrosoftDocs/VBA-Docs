@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.IsCertificateUntrusted Property (Office)
+title: SignatureInfo.IsCertificateUntrusted property (Office)
 keywords: vbaof11.chm286013
 f1_keywords:
 - vbaof11.chm286013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.IsCertificateUntrusted Property (Office)
+# SignatureInfo.IsCertificateUntrusted property (Office)
 
 Gets a  **Boolean** value indicating whether the digital certificate used to digitally sign a document comes from a trusted source. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether the digital certificate used to dig
 
  _expression_. `IsCertificateUntrusted`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

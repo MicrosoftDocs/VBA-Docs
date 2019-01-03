@@ -23,7 +23,7 @@ Use the  **[Item](Project.WorkWeekDays.Item.md)** property return a single **Wor
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WorkWeekDays.Application.md)|
 |[Count](Project.WorkWeekDays.Count.md)|

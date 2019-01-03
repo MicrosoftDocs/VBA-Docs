@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.GetProviderDetail Method (Office)
+title: SignatureProvider.GetProviderDetail method (Office)
 keywords: vbaof11.chm287008
 f1_keywords:
 - vbaof11.chm287008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.GetProviderDetail Method (Office)
+# SignatureProvider.GetProviderDetail method (Office)
 
 Queries the signature provider add-in for various details. 
 
@@ -20,7 +20,7 @@ Queries the signature provider add-in for various details.
 
  _expression_. `GetProviderDetail`( `_sigprovdet_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

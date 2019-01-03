@@ -118,7 +118,7 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Project.shaperange.adjustments.md)|
 |[AlternativeText](Project.shaperange.alternativetext.md)|

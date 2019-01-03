@@ -13,7 +13,7 @@ Represents an object that provides the ability to manipulate blog images.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[BlogPictureProviderProperties](../../Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)|Enables picture providers to offer themselves as an upload location for blog pictures.|
 |[CreatePictureAccount](../../Office.IBlogPictureExtensibility.CreatePictureAccount.md)|Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.|

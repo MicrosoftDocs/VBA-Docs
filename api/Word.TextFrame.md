@@ -72,7 +72,7 @@ myStory.CheckSpelling
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakForwardLink](Word.TextFrame.BreakForwardLink.md)|
 |[DeleteText](Word.TextFrame.DeleteText.md)|
@@ -82,7 +82,7 @@ myStory.CheckSpelling
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TextFrame.Application.md)|
 |[AutoSize](Word.TextFrame.AutoSize.md)|

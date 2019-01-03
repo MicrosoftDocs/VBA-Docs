@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Type Property (Office)
+title: CustomXMLValidationError.Type property (Office)
 keywords: vbaof11.chm307005
 f1_keywords:
 - vbaof11.chm307005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Type Property (Office)
+# CustomXMLValidationError.Type property (Office)
 
 Gets the type of error generated from the  **CustomXMLValidationError** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the type of error generated from the  **CustomXMLValidationError** object. 
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

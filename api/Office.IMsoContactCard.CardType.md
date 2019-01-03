@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.CardType Property (Office)
+title: IMsoContactCard.CardType property (Office)
 keywords: vbaof11.chm341003
 f1_keywords:
 - vbaof11.chm341003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.CardType Property (Office)
+# IMsoContactCard.CardType property (Office)
 
 A  **MsoContactCardType** value that represents the type of a Contact card. Read-only
 
@@ -20,7 +20,7 @@ A  **MsoContactCardType** value that represents the type of a Contact card. Read
 
  _expression_. `CardType`
 
- _expression_ An expression that returns a [IMsoContactCard](./Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## Remarks

@@ -37,7 +37,7 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.TableView.Apply.md)|
 |[Copy](Outlook.TableView.Copy.md)|
@@ -51,7 +51,7 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)|
 |[AlwaysExpandConversation](Outlook.TableView.AlwaysExpandConversation.md)|

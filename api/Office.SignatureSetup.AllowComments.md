@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.AllowComments Property (Office)
+title: SignatureSetup.AllowComments property (Office)
 keywords: vbaof11.chm285008
 f1_keywords:
 - vbaof11.chm285008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.AllowComments Property (Office)
+# SignatureSetup.AllowComments property (Office)
 
 Gets or sets a  **Boolean** value specifying whether the signer can enter comments in the **Sign** dialog box. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a  **Boolean** value specifying whether the signer can enter commen
 
  _expression_. `AllowComments`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

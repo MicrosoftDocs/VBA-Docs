@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetSupertipMso Method (Office)
+title: CommandBars.GetSupertipMso method (Office)
 keywords: vbaof11.chm2024
 f1_keywords:
 - vbaof11.chm2024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetSupertipMso Method (Office)
+# CommandBars.GetSupertipMso method (Office)
 
 Returns the supertip of the control identified by the  **idMso** parameter as a String.
 
@@ -23,7 +23,7 @@ Returns the supertip of the control identified by the  **idMso** parameter as a 
 
  _expression_. `GetSupertipMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

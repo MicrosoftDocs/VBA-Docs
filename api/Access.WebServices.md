@@ -38,7 +38,7 @@ Use the following steps to install a Data Services data connection in your datab
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.WebServices.Application.md)|
 |[Count](Access.WebServices.Count.md)|

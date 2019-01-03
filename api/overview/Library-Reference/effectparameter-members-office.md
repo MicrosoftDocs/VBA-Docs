@@ -13,7 +13,7 @@ Describes a single Picture Effect parameter.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.EffectParameter.Application.md)|Gets an **Application** object that represents the container application for the **EffectParameter** object. Read-only|
 |[Creator](../../Office.EffectParameter.Creator.md)|Gets a 32-bit integer that indicates the application in which the **EffectParameter** object was created. Read-only|

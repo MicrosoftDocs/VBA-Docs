@@ -1,5 +1,5 @@
 ---
-title: IRibbonControl.Id Property (Office)
+title: IRibbonControl.Id property (Office)
 keywords: vbaof11.chm288001
 f1_keywords:
 - vbaof11.chm288001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonControl.Id Property (Office)
+# IRibbonControl.Id property (Office)
 
 Gets the ID of the control specified in the Ribbon XML markup customization file. Read-only.
 
@@ -20,7 +20,7 @@ Gets the ID of the control specified in the Ribbon XML markup customization file
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [IRibbonControl](./Office.IRibbonControl.md) object.
+ _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
 
 
 ## Return value

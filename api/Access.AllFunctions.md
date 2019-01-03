@@ -33,7 +33,7 @@ You can't add or delete an  **AccessObject** object from the **AllFunctions** co
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllFunctions.Application.md)|
 |[Count](Access.AllFunctions.Count.md)|

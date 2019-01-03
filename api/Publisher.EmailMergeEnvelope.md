@@ -88,7 +88,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.EmailMergeEnvelope.Application.md)|
 |[Attachments](Publisher.EmailMergeEnvelope.Attachments.md)|

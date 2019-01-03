@@ -48,7 +48,7 @@ For example, an  **AccessObject** representing a table is a member of the **AllT
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllDatabaseDiagrams](Access.CodeData.AllDatabaseDiagrams.md)|
 |[AllFunctions](Access.CodeData.AllFunctions.md)|

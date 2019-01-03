@@ -67,7 +67,7 @@ myItem.Send
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.MeetingItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.MeetingItem.AttachmentAdd.md)|
@@ -100,7 +100,7 @@ myItem.Send
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](./Outlook.MeetingItem.Close(method).md)|
 |[Copy](./Outlook.MeetingItem.Copy.md)|
@@ -122,7 +122,7 @@ myItem.Send
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](./Outlook.MeetingItem.Actions.md)|
 |[Application](./Outlook.MeetingItem.Application.md)|

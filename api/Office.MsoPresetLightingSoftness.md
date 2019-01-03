@@ -1,5 +1,5 @@
 ---
-title: MsoPresetLightingSoftness Enumeration (Office)
+title: MsoPresetLightingSoftness enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetLightingSoftness
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetLightingSoftness Enumeration (Office)
+# MsoPresetLightingSoftness enumeration (Office)
 
 Specifies the intensity of light used on a shape.
 

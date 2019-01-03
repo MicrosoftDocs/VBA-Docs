@@ -1,5 +1,5 @@
 ---
-title: MsoOLEMenuGroup Enumeration (Office)
+title: MsoOLEMenuGroup enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoOLEMenuGroup
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoOLEMenuGroup Enumeration (Office)
+# MsoOLEMenuGroup enumeration (Office)
 
 Specifies the menu group that a command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application).
 

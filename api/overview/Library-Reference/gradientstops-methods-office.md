@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.GradientStops.Delete.md)|Removes a gradient stop.|
 |[Insert](../../Office.GradientStops.Insert.md)|Adds a stop to a gradient.|

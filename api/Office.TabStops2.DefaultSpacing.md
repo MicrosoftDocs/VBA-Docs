@@ -1,5 +1,5 @@
 ---
-title: TabStops2.DefaultSpacing Property (Office)
+title: TabStops2.DefaultSpacing property (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.DefaultSpacing
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.DefaultSpacing Property (Office)
+# TabStops2.DefaultSpacing property (Office)
 
 Gets or sets the default spacing between tab stops. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the default spacing between tab stops. Read/write.
 
  _expression_. `DefaultSpacing`
 
- _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
+ _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 
 
 ## Return value

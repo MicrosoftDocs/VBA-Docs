@@ -15,7 +15,7 @@ Displays descriptive text.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.Label.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [AutoSize](Outlook.Label.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
@@ -40,7 +40,7 @@ Displays descriptive text.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.Label.click.md)|Occurs when the user clicks inside the control.|
 

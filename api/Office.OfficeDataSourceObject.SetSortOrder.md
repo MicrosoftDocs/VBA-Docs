@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.SetSortOrder Method (Office)
+title: OfficeDataSourceObject.SetSortOrder method (Office)
 keywords: vbaof11.chm232008
 f1_keywords:
 - vbaof11.chm232008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.SetSortOrder Method (Office)
+# OfficeDataSourceObject.SetSortOrder method (Office)
 
 Sets the sort order for mail merge data.
 
@@ -20,7 +20,7 @@ Sets the sort order for mail merge data.
 
  _expression_. `SetSortOrder`( `_SortField1_`, `_SortAscending1_`, `_SortField2_`, `_SortAscending2_`, `_SortField3_`, `_SortAscending3_` )
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Parameters

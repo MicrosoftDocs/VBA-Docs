@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # FillFormat.GradientStops property (Word)
 
-Returns the [GradientStops](./Office.GradientStops.md) collection associated with the specified fill format. Read-only.
+Returns the [GradientStops](Office.GradientStops.md) collection associated with the specified fill format. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,7 @@ Returns the [GradientStops](./Office.GradientStops.md) collection associated wit
 
 ## Remarks
 
-Gradients are a smooth transition from one color state to another. The endpoints of these sections are called stops. You can use the [GradientStops.Insert](./Office.GradientStops.Insert.md) method to add gradient stops to the **GradientStops** collection for the specified object.
+Gradients are a smooth transition from one color state to another. The endpoints of these sections are called stops. You can use the [GradientStops.Insert](Office.GradientStops.Insert.md) method to add gradient stops to the **GradientStops** collection for the specified object.
 
 
 ## Example

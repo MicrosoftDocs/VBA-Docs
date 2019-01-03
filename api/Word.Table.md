@@ -40,7 +40,7 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyStyleDirectFormatting](./Word.Table.ApplyStyleDirectFormatting.md)|
 |[AutoFitBehavior](./Word.Table.AutoFitBehavior.md)|
@@ -59,7 +59,7 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowAutoFit](./Word.Table.AllowAutoFit.md)|
 |[Application](./Word.Table.Application.md)|

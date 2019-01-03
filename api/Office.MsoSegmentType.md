@@ -1,5 +1,5 @@
 ---
-title: MsoSegmentType Enumeration (Office)
+title: MsoSegmentType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSegmentType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSegmentType Enumeration (Office)
+# MsoSegmentType enumeration (Office)
 
 Specifies the type for a segment. Used with the  **Insert** and **AddNodes** methods of the **FreeformBuilder** object.
 

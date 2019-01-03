@@ -37,7 +37,7 @@ Set myConflictItem = myConflicts.Item(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Conflict.Application.md)|
 |[Class](Outlook.Conflict.Class.md)|

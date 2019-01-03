@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink Object (Office)
+title: SharedWorkspaceLink object (Office)
 keywords: vbaof11.chm270000
 f1_keywords:
 - vbaof11.chm270000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink Object (Office)
+# SharedWorkspaceLink object (Office)
 
 Represents a URL link saved in a shared document workspace site.
 
@@ -55,7 +55,7 @@ The following example modifies the first link in the shared workspace site to po
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceLink.Delete.md)|
 |[Save](Office.SharedWorkspaceLink.Save.md)|
@@ -64,7 +64,7 @@ The following example modifies the first link in the shared workspace site to po
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceLink.Application.md)|
 |[CreatedBy](Office.SharedWorkspaceLink.CreatedBy.md)|

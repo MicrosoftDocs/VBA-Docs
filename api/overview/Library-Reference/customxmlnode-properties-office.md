@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLNode.Application.md)|Gets an  **Application** object that represents the container application for a **CustomXMLNode**. Read-only.|
 |[Attributes](../../Office.CustomXMLNode.Attributes.md)|Gets a  **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.|

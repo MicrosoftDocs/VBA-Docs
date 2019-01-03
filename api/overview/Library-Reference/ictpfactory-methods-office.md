@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CreateCTP](../../Office.ICTPFactory.CreateCTP.md)|Creates an instance of a custom task pane.|
 

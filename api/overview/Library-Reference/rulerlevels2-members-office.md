@@ -13,14 +13,14 @@ A collection of all the **RulerLevel2** objects on the specified ruler.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.RulerLevels2.Item.md)|Gets a member of the **RulerLevels2** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.RulerLevels2.Application.md)|Gets an **Application** object that represents the container application for the **RulerLevels2** object. Read-only.|
 |[Count](../../Office.RulerLevels2.Count.md)|Gets a **Long** indicating the number of items in the **RulerLevels2** collection. Read-only.|

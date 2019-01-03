@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Add Method (Office)
+title: ODSOFilters.Add method (Office)
 keywords: vbaof11.chm241004
 f1_keywords:
 - vbaof11.chm241004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Add Method (Office)
+# ODSOFilters.Add method (Office)
 
 Adds a new filter to the  **ODSOFilters** collection.
 

@@ -15,7 +15,7 @@ Shows the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.togglebutton.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [Alignment](Outlook.togglebutton.alignment.md)|Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.|
@@ -43,7 +43,7 @@ Shows the selection state of an item.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.togglebutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 

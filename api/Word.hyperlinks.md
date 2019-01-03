@@ -53,7 +53,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Hyperlinks.Add.md)|
 |[Item](Word.Hyperlinks.Item.md)|
@@ -62,7 +62,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Hyperlinks.Application.md)|
 |[Count](Word.Hyperlinks.Count.md)|

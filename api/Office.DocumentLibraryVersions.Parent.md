@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions.Parent Property (Office)
+title: DocumentLibraryVersions.Parent property (Office)
 keywords: vbaof11.chm277029
 f1_keywords:
 - vbaof11.chm277029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions.Parent Property (Office)
+# DocumentLibraryVersions.Parent property (Office)
 
 Gets the  **Parent** object for the **DocumentLibraryVersions** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **DocumentLibraryVersions** object. Read-onl
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [DocumentLibraryVersions](./Office.DocumentLibraryVersions.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
 
 
 ## Return value

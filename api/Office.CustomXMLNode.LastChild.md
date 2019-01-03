@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.LastChild Property (Office)
+title: CustomXMLNode.LastChild property (Office)
 keywords: vbaof11.chm294006
 f1_keywords:
 - vbaof11.chm294006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.LastChild Property (Office)
+# CustomXMLNode.LastChild property (Office)
 
 Gets a  **CustomXMLNode** object corresponding to the last child element of the current node. If the node has no child elements (or if it is not of type **msoCustomXMLNodeElement**), the property returns **Nothing**. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **CustomXMLNode** object corresponding to the last child element of the 
 
  _expression_. `LastChild`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

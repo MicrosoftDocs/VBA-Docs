@@ -31,7 +31,7 @@ Use the  **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationFolder.Application.md)|
 |[Class](Outlook.NavigationFolder.Class.md)|

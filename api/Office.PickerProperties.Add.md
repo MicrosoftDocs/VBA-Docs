@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Add Method (Office)
+title: PickerProperties.Add method (Office)
 keywords: vbaof11.chm337003
 f1_keywords:
 - vbaof11.chm337003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties.Add Method (Office)
+# PickerProperties.Add method (Office)
 
 
 
@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `Add`( `_Id_`, `_Value_`, `_Type_` )
 
- _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
+ _expression_ An expression that returns a [PickerProperties](Office.PickerProperties.md) object.
 
 
 ## Parameters

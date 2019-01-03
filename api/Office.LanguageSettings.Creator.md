@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings.Creator Property (Office)
+title: LanguageSettings.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.LanguageSettings.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LanguageSettings.Creator Property (Office)
+# LanguageSettings.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **LanguageSettings** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **LanguageSet
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Return value

@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008981
 ms.prod: office
 ms.assetid: e5ae5a73-4f34-0071-ee67-98e4ca519748
-ms.date: 11/19/2018
+ms.date: 01/02/2019
 ---
 
 
@@ -15,7 +15,7 @@ Used to perform logical negation on an [expression](../../Glossary/vbe-glossary.
 
 ## Syntax
 
-_result_= **Not** _expression_
+_result_ = **Not** _expression_
 
 The **Not** operator syntax has these parts:
 
@@ -38,7 +38,7 @@ In addition, the **Not** operator inverts the bit values of any variable and set
 
 |If bit in _expression_ is|Then bit in _result_ is|
 |:-----|:-----|
-|o|1|
+|0|1|
 |1|0|
 
 ## Example

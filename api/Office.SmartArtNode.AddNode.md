@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.AddNode Method (Office)
+title: SmartArtNode.AddNode method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.AddNode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.AddNode Method (Office)
+# SmartArtNode.AddNode method (Office)
 
 Adds a new SmartArtNode to the data model in the way specified by the SmartArtNodePosition value, and of type SmartArtNodeType.
 
@@ -17,7 +17,7 @@ Adds a new SmartArtNode to the data model in the way specified by the SmartArtNo
 
 _expression_. `AddNode`(`Position`, `Type`)
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Parameters

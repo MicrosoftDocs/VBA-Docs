@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeFilterCriterion.Application.md)|
 |[Column](Publisher.MailMergeFilterCriterion.Column.md)|

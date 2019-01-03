@@ -15,7 +15,7 @@ Contains a collection of  **[Table](Project.Table.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Tables.Add.md)|
 |[Copy](./Project.Tables.Copy.md)|
@@ -24,7 +24,7 @@ Contains a collection of  **[Table](Project.Table.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Tables.Application.md)|
 |[Count](./Project.Tables.Count.md)|

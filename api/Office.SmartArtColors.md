@@ -1,5 +1,5 @@
 ---
-title: SmartArtColors Object (Office)
+title: SmartArtColors object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColors
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColors Object (Office)
+# SmartArtColors object (Office)
 
 A collection of SmartArt color styles.
 
@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.SmartArtColors.Item.md)|
 
@@ -40,7 +40,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtColors.Application.md)|
 |[Count](Office.SmartArtColors.Count.md)|

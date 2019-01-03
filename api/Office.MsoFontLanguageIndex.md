@@ -1,5 +1,5 @@
 ---
-title: MsoFontLanguageIndex Enumeration (Office)
+title: MsoFontLanguageIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFontLanguageIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFontLanguageIndex Enumeration (Office)
+# MsoFontLanguageIndex enumeration (Office)
 
 Represents one of the three language fonts contained in the  **ThemeFonts** collection
 

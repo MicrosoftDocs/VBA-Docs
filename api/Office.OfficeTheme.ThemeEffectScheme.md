@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.ThemeEffectScheme Property (Office)
+title: OfficeTheme.ThemeEffectScheme property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.ThemeEffectScheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.ThemeEffectScheme Property (Office)
+# OfficeTheme.ThemeEffectScheme property (Office)
 
 Gets a  **ThemeEffectScheme** object that represents the effects scheme of a Microsoft Office theme. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **ThemeEffectScheme** object that represents the effects scheme of a Mic
 
  _expression_. `ThemeEffectScheme`
 
- _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
+ _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 
 
 ## Return value

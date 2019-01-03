@@ -13,14 +13,14 @@ A collection of **ODSOColumn** objects that represent the data fields in a mail 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.ODSOColumns.Item.md)|Specifies an **ODSOColumn** object in the **ODSOColumns** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ODSOColumns.Application.md)|Gets an **Application** object that represents the container application for the **ODSOColumns** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.ODSOColumns.Count.md)|Gets a **Long** indicating the number of items in the **ODSOColumns** collection. Read-only.|

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.NoTextRotation Property (Office)
+title: TextFrame2.NoTextRotation property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.NoTextRotation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.NoTextRotation Property (Office)
+# TextFrame2.NoTextRotation property (Office)
 
 Returns or sets a value that specifies if the text on a shape is rotated if the shape itself is being rotated. Read/write
 
@@ -17,7 +17,7 @@ Returns or sets a value that specifies if the text on a shape is rotated if the 
 
  _expression_. `NoTextRotation`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

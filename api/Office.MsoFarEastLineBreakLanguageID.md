@@ -1,5 +1,5 @@
 ---
-title: MsoFarEastLineBreakLanguageID Enumeration (Office)
+title: MsoFarEastLineBreakLanguageID enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFarEastLineBreakLanguageID
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFarEastLineBreakLanguageID Enumeration (Office)
+# MsoFarEastLineBreakLanguageID enumeration (Office)
 
 Specifies the language to use to determine which line break level is used when the line break control option is turned on.
 

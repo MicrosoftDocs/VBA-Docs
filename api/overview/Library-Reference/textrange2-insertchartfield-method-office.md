@@ -1,12 +1,12 @@
 ---
-title: TextRange2.InsertChartField Method (Office)
+title: TextRange2.InsertChartField method (Office)
 ms.assetid: 3ced5d2c-b3a4-6bf3-3d3c-b1145e7b9eab
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# TextRange2.InsertChartField Method (Office)
+# TextRange2.InsertChartField method (Office)
 
 Inserts a field into the body of a data label in a chart. 
 

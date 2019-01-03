@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.Move Method (Office)
+title: OfficeDataSourceObject.Move method (Office)
 keywords: vbaof11.chm232006
 f1_keywords:
 - vbaof11.chm232006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.Move Method (Office)
+# OfficeDataSourceObject.Move method (Office)
 
 Moves a record in a return set from a  **OfficeDataSourceObject** object from one position to another.
 
@@ -20,7 +20,7 @@ Moves a record in a return set from a  **OfficeDataSourceObject** object from on
 
  _expression_. `Move`( `_MsoMoveRow_`, `_RowNbr_` )
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Parameters

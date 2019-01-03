@@ -1,5 +1,5 @@
 ---
-title: COMAddIns.Application Property (Office)
+title: COMAddIns.Application property (Office)
 ms.prod: office
 api_name:
 - Office.COMAddIns.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns.Application Property (Office)
+# COMAddIns.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **COMAddIns** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [COMAddIns](./Office.COMAddIns.md) object.
+ _expression_ A variable that represents a [COMAddIns](Office.COMAddIns.md) object.
 
 
 ## Return value

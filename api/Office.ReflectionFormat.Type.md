@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Type Property (Office)
+title: ReflectionFormat.Type property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Type Property (Office)
+# ReflectionFormat.Type property (Office)
 
 Gets or sets the type of the  **ReflectionFormat** object. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the type of the  **ReflectionFormat** object. Read/write.
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## Return value

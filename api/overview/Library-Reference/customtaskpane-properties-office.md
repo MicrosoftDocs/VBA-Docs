@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomTaskPane.Application.md)|Gets the  **Application** object of the host application. Read-only.|
 |[ContentControl](../../Office.CustomTaskPane.ContentControl.md)|Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.|

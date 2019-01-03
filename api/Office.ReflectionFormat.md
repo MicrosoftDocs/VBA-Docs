@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat Object (Office)
+title: ReflectionFormat object (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat Object (Office)
+# ReflectionFormat object (Office)
 
 Represents the reflection effect in Office graphics.
 
@@ -34,7 +34,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ReflectionFormat.Application.md)|
 |[Blur](Office.ReflectionFormat.Blur.md)|

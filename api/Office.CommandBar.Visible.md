@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Visible Property (Office)
+title: CommandBar.Visible property (Office)
 keywords: vbaof11.chm3020
 f1_keywords:
 - vbaof11.chm3020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Visible Property (Office)
+# CommandBar.Visible property (Office)
 
 Gets or sets the  **Visible** property of the command bar. **True** if the command bar is visible. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the  **Visible** property of the command bar. **True** if the comma
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

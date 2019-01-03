@@ -58,7 +58,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.DistListItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.DistListItem.AttachmentAdd.md)|
@@ -91,7 +91,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMember](Outlook.DistListItem.AddMember.md)|
 |[AddMembers](Outlook.DistListItem.AddMembers.md)|
@@ -115,7 +115,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.DistListItem.Actions.md)|
 |[Application](Outlook.DistListItem.Application.md)|

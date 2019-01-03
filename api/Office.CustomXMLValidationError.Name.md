@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Name Property (Office)
+title: CustomXMLValidationError.Name property (Office)
 keywords: vbaof11.chm307002
 f1_keywords:
 - vbaof11.chm307002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Name Property (Office)
+# CustomXMLValidationError.Name property (Office)
 
 Gets the name of an error in a  **CustomXMLValidationError** object. If no errors exist, the property returns **Nothing**. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of an error in a  **CustomXMLValidationError** object. If no error
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

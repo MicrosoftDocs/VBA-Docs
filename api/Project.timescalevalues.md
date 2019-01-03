@@ -62,7 +62,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.TimeScaleValues.Add.md)|
 
@@ -70,7 +70,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TimeScaleValues.Application.md)|
 |[Count](./Project.TimeScaleValues.Count.md)|

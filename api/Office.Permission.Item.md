@@ -1,5 +1,5 @@
 ---
-title: Permission.Item Property (Office)
+title: Permission.Item property (Office)
 keywords: vbaof11.chm261001
 f1_keywords:
 - vbaof11.chm261001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.Item Property (Office)
+# Permission.Item property (Office)
 
 Gets a  **UserPermission** object that is a member of the **Permission** collection. The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. Read-only.
 

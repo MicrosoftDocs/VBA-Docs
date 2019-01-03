@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.Index Property (Office)
+title: ODSOFilter.Index property (Office)
 keywords: vbaof11.chm240001
 f1_keywords:
 - vbaof11.chm240001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.Index Property (Office)
+# ODSOFilter.Index property (Office)
 
 Gets a  **Long** representing the index number for an **ODSOFilter** object in the collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** representing the index number for an **ODSOFilter** object in t
 
  _expression_. `Index`
 
- _expression_ A variable that represents an [ODSOFilter](./Office.ODSOFilter.md) object.
+ _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Return value

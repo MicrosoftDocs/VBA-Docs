@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors.Parent Property (Office)
+title: DocumentInspectors.Parent property (Office)
 keywords: vbaof11.chm278003
 f1_keywords:
 - vbaof11.chm278003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors.Parent Property (Office)
+# DocumentInspectors.Parent property (Office)
 
 Gets an object that represents the parent of a  **DocumentInspectors** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets an object that represents the parent of a  **DocumentInspectors** object. R
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [DocumentInspectors](./Office.DocumentInspectors.md) object.
+ _expression_ An expression that returns a [DocumentInspectors](Office.DocumentInspectors.md) object.
 
 
 ## Return value

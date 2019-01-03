@@ -1,5 +1,5 @@
 ---
-title: GradientStop.Application Property (Office)
+title: GradientStop.Application property (Office)
 ms.prod: office
 api_name:
 - Office.GradientStop.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStop.Application Property (Office)
+# GradientStop.Application property (Office)
 
 When used without an object qualifier, this property returns an  **Application** object that represents the Microsoft Office application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.
 
@@ -17,7 +17,7 @@ When used without an object qualifier, this property returns an  **Application**
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
+ _expression_ An expression that returns a [GradientStop](Office.GradientStop.md) object.
 
 
 ## Return value

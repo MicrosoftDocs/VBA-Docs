@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.FirstLineIndent Property (Office)
+title: ParagraphFormat2.FirstLineIndent property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.FirstLineIndent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.FirstLineIndent Property (Office)
+# ParagraphFormat2.FirstLineIndent property (Office)
 
 Gets or sets the value (in points) for a first line or hanging indent. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the value (in points) for a first line or hanging indent. Read/writ
 
  _expression_. `FirstLineIndent`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

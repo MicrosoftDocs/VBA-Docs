@@ -38,7 +38,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateShortcut](./Publisher.MailMerge.CreateShortcut.md)|
 |[Execute](./Publisher.MailMerge.Execute.md)|
@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.MailMerge.Application.md)|
 |[DataSource](./Publisher.MailMerge.DataSource.md)|

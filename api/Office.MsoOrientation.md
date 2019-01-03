@@ -1,5 +1,5 @@
 ---
-title: MsoOrientation Enumeration (Office)
+title: MsoOrientation enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoOrientation Enumeration (Office)
+# MsoOrientation enumeration (Office)
 
 Specifies orientation of an object when it is displayed or printed.
 

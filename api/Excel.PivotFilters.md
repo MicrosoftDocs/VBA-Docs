@@ -35,7 +35,7 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlThisWeek
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add2](Excel.PivotFilters.Add.md)|
 
@@ -43,7 +43,7 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlThisWeek
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PivotFilters.Application.md)|
 |[Count](Excel.PivotFilters.Count.md)|

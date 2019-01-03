@@ -88,7 +88,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.MailMergeDataSources.Item.md)|
 
@@ -96,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeDataSources.Application.md)|
 |[Count](Publisher.MailMergeDataSources.Count.md)|

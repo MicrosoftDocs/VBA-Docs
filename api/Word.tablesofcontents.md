@@ -51,7 +51,7 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.TablesOfContents.Add.md)|
 |[Item](Word.TablesOfContents.Item.md)|
@@ -61,7 +61,7 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TablesOfContents.Application.md)|
 |[Count](Word.TablesOfContents.Count.md)|

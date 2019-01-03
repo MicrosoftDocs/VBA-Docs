@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtQuickStyles.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtQuickStyles** object. Read-only|
 |[Count](../../Office.SmartArtQuickStyles.Count.md)|Retrieves the count of the number of SmartArtQuickStyle objects contained within the SmartArtQuickStyles collection. Read-only|

@@ -69,7 +69,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToEveryPage](Publisher.WebNavigationBarSet.AddToEveryPage.md)|
 |[ChangeOrientation](Publisher.WebNavigationBarSet.ChangeOrientation.md)|
@@ -79,7 +79,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarSet.Application.md)|
 |[AutoUpdate](Publisher.WebNavigationBarSet.AutoUpdate.md)|

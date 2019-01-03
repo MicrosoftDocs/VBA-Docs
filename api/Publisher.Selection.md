@@ -69,7 +69,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Unselect](Publisher.Selection.Unselect.md)|
 
@@ -77,7 +77,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Selection.Application.md)|
 |[ChildShapeRange](Publisher.Selection.ChildShapeRange.md)|

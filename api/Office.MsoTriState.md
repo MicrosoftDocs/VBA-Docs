@@ -1,5 +1,5 @@
 ---
-title: MsoTriState Enumeration (Office)
+title: MsoTriState enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTriState
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTriState Enumeration (Office)
+# MsoTriState enumeration (Office)
 
 Specifies a tri-state value.
 

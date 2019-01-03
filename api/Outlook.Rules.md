@@ -27,7 +27,7 @@ For more information on how to programmatically create, edit, and delete rules, 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](./Outlook.Rules.Create.md)|
 |[Item](./Outlook.Rules.Item.md)|
@@ -38,7 +38,7 @@ For more information on how to programmatically create, edit, and delete rules, 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Rules.Application.md)|
 |[Class](./Outlook.Rules.Class.md)|

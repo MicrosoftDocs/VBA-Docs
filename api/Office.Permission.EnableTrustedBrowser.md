@@ -1,5 +1,5 @@
 ---
-title: Permission.EnableTrustedBrowser Property (Office)
+title: Permission.EnableTrustedBrowser property (Office)
 keywords: vbaof11.chm261003
 f1_keywords:
 - vbaof11.chm261003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.EnableTrustedBrowser Property (Office)
+# Permission.EnableTrustedBrowser property (Office)
 
 Gets or sets a value indicating whether to enable a browser from a trusted source. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a value indicating whether to enable a browser from a trusted sourc
 
  _expression_. `EnableTrustedBrowser`
 
- _expression_ An expression that returns a [Permission](./Office.Permission.md) object.
+ _expression_ An expression that returns a [Permission](Office.Permission.md) object.
 
 
 ## Return value

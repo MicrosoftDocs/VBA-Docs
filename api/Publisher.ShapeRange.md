@@ -108,7 +108,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToCatalogMergeArea](./Publisher.ShapeRange.AddToCatalogMergeArea.md)|
 |[Align](./Publisher.ShapeRange.Align.md)|
@@ -147,7 +147,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](./Publisher.ShapeRange.Adjustments.md)|
 |[AlternativeText](./Publisher.ShapeRange.AlternativeText.md)|

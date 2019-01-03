@@ -1,5 +1,5 @@
 ---
-title: Signature.Sign Method (Office)
+title: Signature.Sign method (Office)
 keywords: vbaof11.chm248012
 f1_keywords:
 - vbaof11.chm248012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Sign Method (Office)
+# Signature.Sign method (Office)
 
 Creates a signature packet.
 
@@ -20,7 +20,7 @@ Creates a signature packet.
 
  _expression_. `Sign`( `_varSigImg_`, `_varDelSuggSigner_`, `_varDelSuggSignerLine2_`, `_varDelSuggSignerEmail_` )
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Parameters

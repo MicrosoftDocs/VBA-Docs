@@ -27,7 +27,7 @@ Unlike other Microsoft Outlook objects, you cannot create this object. Report it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.ReportItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.ReportItem.AttachmentAdd.md)|
@@ -60,7 +60,7 @@ Unlike other Microsoft Outlook objects, you cannot create this object. Report it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](./Outlook.ReportItem.Close(method).md)|
 |[Copy](./Outlook.ReportItem.Copy.md)|
@@ -77,7 +77,7 @@ Unlike other Microsoft Outlook objects, you cannot create this object. Report it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](./Outlook.ReportItem.Actions.md)|
 |[Application](./Outlook.ReportItem.Application.md)|

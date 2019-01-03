@@ -1,5 +1,5 @@
 ---
-title: CommandBar.NameLocal Property (Office)
+title: CommandBar.NameLocal property (Office)
 keywords: vbaof11.chm3011
 f1_keywords:
 - vbaof11.chm3011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.NameLocal Property (Office)
+# CommandBar.NameLocal property (Office)
 
 Gets the name of a built-in command bar as it's displayed in the language version of the container application, or returns or sets the name of a custom command bar. Read/write.
 
@@ -23,7 +23,7 @@ Gets the name of a built-in command bar as it's displayed in the language versio
 
  _expression_. `NameLocal`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

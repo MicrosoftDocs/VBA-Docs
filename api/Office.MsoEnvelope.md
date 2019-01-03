@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope Object (Office)
+title: MsoEnvelope object (Office)
 keywords: vbaof11.chm245000
 f1_keywords:
 - vbaof11.chm245000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope Object (Office)
+# MsoEnvelope object (Office)
 
 Provides access to functionality that lets you send documents as email messages directly from Microsoft Office applications.
 
@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[EnvelopeHide](Office.MsoEnvelope.EnvelopeHide.md)|
 |[EnvelopeShow](Office.MsoEnvelope.EnvelopeShow.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CommandBars](Office.MsoEnvelope.CommandBars.md)|
 |[Introduction](Office.MsoEnvelope.Introduction.md)|

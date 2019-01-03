@@ -1,5 +1,5 @@
 ---
-title: PictureEffects.Item Property (Office)
+title: PictureEffects.Item property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects.Item Property (Office)
+# PictureEffects.Item property (Office)
 
 Retrieves a  **PictureEffect** object at the specified index. Read-only
 
@@ -17,7 +17,7 @@ Retrieves a  **PictureEffect** object at the specified index. Read-only
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
+ _expression_ An expression that returns a [PictureEffects](Office.PictureEffects.md) object.
 
 
 ## Parameters

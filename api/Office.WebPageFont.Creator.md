@@ -1,5 +1,5 @@
 ---
-title: WebPageFont.Creator Property (Office)
+title: WebPageFont.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WebPageFont.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFont.Creator Property (Office)
+# WebPageFont.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WebPageFont** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **WebPageFont
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [WebPageFont](./Office.WebPageFont.md) object.
+ _expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
 
 
 ## Return value

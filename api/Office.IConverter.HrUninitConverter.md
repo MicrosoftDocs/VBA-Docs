@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrUninitConverter Method (Office)
+title: IConverter.HrUninitConverter method (Office)
 keywords: vbaof11.chm333002
 f1_keywords:
 - vbaof11.chm333002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrUninitConverter Method (Office)
+# IConverter.HrUninitConverter method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrUninitConverter`( `_pcuic_` )
 
- _expression_ An expression that returns a [IConverter](./Office.IConverter.md) object.
+ _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
 
 
 ## Parameters

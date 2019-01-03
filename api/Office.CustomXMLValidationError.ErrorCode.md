@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.ErrorCode Property (Office)
+title: CustomXMLValidationError.ErrorCode property (Office)
 keywords: vbaof11.chm307007
 f1_keywords:
 - vbaof11.chm307007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.ErrorCode Property (Office)
+# CustomXMLValidationError.ErrorCode property (Office)
 
 Gets a number representing a validation error in a  **CustomXMLValidationError** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a number representing a validation error in a  **CustomXMLValidationError**
 
  _expression_. `ErrorCode`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

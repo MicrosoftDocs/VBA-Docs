@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetItemByInternalName](../../Office.MetaProperties.GetItemByInternalName.md)|Gets a property's value specifying its name as opposed to its index value.|
 |[Validate](../../Office.MetaProperties.Validate.md)|Validates all of the properties in a  **MetaProperties** collection object according to a schema.|

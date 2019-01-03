@@ -1,5 +1,5 @@
 ---
-title: PickerResults Object (Office)
+title: PickerResults object (Office)
 keywords: vbaof11.chm339000
 f1_keywords:
 - vbaof11.chm339000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResults Object (Office)
+# PickerResults object (Office)
 
 A collection of  **PickerResult** objects.
 

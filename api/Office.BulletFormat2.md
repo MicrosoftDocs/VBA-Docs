@@ -1,14 +1,14 @@
 ---
-title: BulletFormat2 Object (Office)
+title: BulletFormat2 object (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2
 ms.assetid: ad4c2a05-c34d-fbd4-6b12-3153b94d2c4e
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
-# BulletFormat2 Object (Office)
+# BulletFormat2 object (Office)
 
 Represents bullet formatting.
 
@@ -36,17 +36,13 @@ End With
 
 ## Methods
 
-
-
-|**Name**|
+|Name|
 |:-----|
 |[Picture](Office.BulletFormat2.Picture.md)|
 
 ## Properties
 
-
-
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.BulletFormat2.Application.md)|
 |[Character](Office.BulletFormat2.Character.md)|
@@ -64,8 +60,4 @@ End With
 
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

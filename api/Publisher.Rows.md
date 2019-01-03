@@ -77,7 +77,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Rows.Add.md)|
 |[Item](Publisher.Rows.Item.md)|
@@ -86,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Rows.Application.md)|
 |[Count](Publisher.Rows.Count.md)|

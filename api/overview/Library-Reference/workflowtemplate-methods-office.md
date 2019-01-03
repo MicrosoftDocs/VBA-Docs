@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Show](../../Office.WorkflowTemplate.Show.md)|Displays a workflow specific configuration user interface for the specified **WorkflowTemplate** object.|
 

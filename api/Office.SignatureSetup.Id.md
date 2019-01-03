@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.Id Property (Office)
+title: SignatureSetup.Id property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureSetup.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.Id Property (Office)
+# SignatureSetup.Id property (Office)
 
 Gets the ID of the signature provider for a document. Read-only.
 
@@ -17,7 +17,7 @@ Gets the ID of the signature provider for a document. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

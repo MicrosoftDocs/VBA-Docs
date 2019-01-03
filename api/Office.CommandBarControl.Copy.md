@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Copy Method (Office)
+title: CommandBarControl.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Copy Method (Office)
+# CommandBarControl.Copy method (Office)
 
 Copies a command bar control to an existing command bar.
 
@@ -20,7 +20,7 @@ Copies a command bar control to an existing command bar.
 
  _expression_. `Copy`( `_Bar_`, `_Before_` )
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Parameters

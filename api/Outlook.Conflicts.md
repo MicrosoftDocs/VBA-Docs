@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetFirst](Outlook.Conflicts.GetFirst.md)|
 |[GetLast](Outlook.Conflicts.GetLast.md)|
@@ -75,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Conflicts.Application.md)|
 |[Class](Outlook.Conflicts.Class.md)|

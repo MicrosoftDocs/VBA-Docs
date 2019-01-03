@@ -15,7 +15,7 @@ Represents a functional and visual control group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Copy](Outlook.Frame.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.Frame.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
@@ -32,7 +32,7 @@ Represents a functional and visual control group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [ActiveControl](Outlook.Frame.activecontrol.md)|Returns an  **Object** that has the focus. Read-only.|
 | [BackColor](Outlook.Frame.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
@@ -69,7 +69,7 @@ Represents a functional and visual control group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.Frame.click.md)|Occurs when the user clicks inside the control.|
 

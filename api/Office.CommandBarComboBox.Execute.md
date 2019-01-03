@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Execute Method (Office)
+title: CommandBarComboBox.Execute method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Execute
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Execute Method (Office)
+# CommandBarComboBox.Execute method (Office)
 
 Runs the procedure or built-in command assigned to the specified  **CommandBarComboBox** control.
 

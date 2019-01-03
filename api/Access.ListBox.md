@@ -84,7 +84,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.ListBox.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.ListBox.BeforeUpdate(even).md)|
@@ -105,7 +105,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Access.ListBox.AddItem.md)|
 |[Move](Access.ListBox.Move.md)|
@@ -119,7 +119,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.ListBox.AddColon.md)|
 |[AfterUpdate](Access.ListBox.AfterUpdate(property).md)|

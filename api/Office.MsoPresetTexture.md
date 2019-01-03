@@ -1,5 +1,5 @@
 ---
-title: MsoPresetTexture Enumeration (Office)
+title: MsoPresetTexture enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetTexture
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetTexture Enumeration (Office)
+# MsoPresetTexture enumeration (Office)
 
 Specifies texture to be used to fill a shape.
 

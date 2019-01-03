@@ -1,5 +1,5 @@
 ---
-title: SearchFolders.Creator Property (Office)
+title: SearchFolders.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SearchFolders.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchFolders.Creator Property (Office)
+# SearchFolders.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SearchFolders** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SearchFolde
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SearchFolders](./Office.SearchFolders.md) object.
+ _expression_ A variable that represents a [SearchFolders](Office.SearchFolders.md) object.
 
 
 ## Return value

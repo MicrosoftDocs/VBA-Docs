@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.OwnerDocument Property (Office)
+title: CustomXMLNode.OwnerDocument property (Office)
 keywords: vbaof11.chm294011
 f1_keywords:
 - vbaof11.chm294011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.OwnerDocument Property (Office)
+# CustomXMLNode.OwnerDocument property (Office)
 
 Gets the object representing the Microsoft Excel workbook, Microsoft PowerPoint presentation, or the Microsoft Word document associated with this node. Read-only.
 
@@ -20,7 +20,7 @@ Gets the object representing the Microsoft Excel workbook, Microsoft PowerPoint 
 
  _expression_. `OwnerDocument`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

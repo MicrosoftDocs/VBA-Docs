@@ -34,7 +34,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CenterDrawing](./Visio.Shapes.CenterDrawing.md)|
 
@@ -42,7 +42,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Shapes.Application.md)|
 |[ContainingMaster](./Visio.Shapes.ContainingMaster.md)|

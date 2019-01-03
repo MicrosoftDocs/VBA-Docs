@@ -46,7 +46,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./PowerPoint.ChartData.Activate.md)|
 |[ActivateChartDataWindow](./PowerPoint.chartdata.activatechartdatawindow.md)|
@@ -56,7 +56,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IsLinked](./PowerPoint.ChartData.IsLinked.md)|
 |[Workbook](./PowerPoint.ChartData.Workbook.md)|

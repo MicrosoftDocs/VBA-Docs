@@ -1,5 +1,5 @@
 ---
-title: RulerLevels2 Object (Office)
+title: RulerLevels2 object (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevels2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevels2 Object (Office)
+# RulerLevels2 object (Office)
 
 A collection of all the  **RulerLevel2** objects on the specified ruler.
 
@@ -44,7 +44,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.RulerLevels2.Item.md)|
 
@@ -52,7 +52,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.RulerLevels2.Application.md)|
 |[Count](Office.RulerLevels2.Count.md)|

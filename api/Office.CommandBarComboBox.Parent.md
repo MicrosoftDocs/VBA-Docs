@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Parent Property (Office)
+title: CommandBarComboBox.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Parent Property (Office)
+# CommandBarComboBox.Parent property (Office)
 
 Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

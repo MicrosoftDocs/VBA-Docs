@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Type property (Excel)
 
-Returns a  **[MsoShapeType](./Office.MsoShapeType.md)** value that represents the shape type.
+Returns a  **[MsoShapeType](Office.MsoShapeType.md)** value that represents the shape type.
 
 
 ## Syntax

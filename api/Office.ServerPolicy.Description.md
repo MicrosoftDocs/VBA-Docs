@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Description Property (Office)
+title: ServerPolicy.Description property (Office)
 keywords: vbaof11.chm278013
 f1_keywords:
 - vbaof11.chm278013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Description Property (Office)
+# ServerPolicy.Description property (Office)
 
 A description of what the server policy is and its purpose. Read-only.
 
@@ -20,7 +20,7 @@ A description of what the server policy is and its purpose. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

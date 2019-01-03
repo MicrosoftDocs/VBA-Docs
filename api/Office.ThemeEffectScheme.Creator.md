@@ -1,5 +1,5 @@
 ---
-title: ThemeEffectScheme.Creator Property (Office)
+title: ThemeEffectScheme.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeEffectScheme.Creator Property (Office)
+# ThemeEffectScheme.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ThemeEffectScheme** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeEffect
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [ThemeEffectScheme](./Office.ThemeEffectScheme.md) object.
+ _expression_ An expression that returns a [ThemeEffectScheme](Office.ThemeEffectScheme.md) object.
 
 
 ## Return value

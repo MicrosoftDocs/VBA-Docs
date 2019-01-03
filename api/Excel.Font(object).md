@@ -35,7 +35,7 @@ Worksheets("Sheet1").Range("A1:C5").Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Font.Application.md)|
 |[Background](Excel.Font.Background.md)|

@@ -75,7 +75,7 @@ Projects.Add False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Projects.Add.md)|
 |[CanCheckOut](./Project.Projects.CanCheckOut.md)|
@@ -85,7 +85,7 @@ Projects.Add False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Projects.Application.md)|
 |[Count](./Project.Projects.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: MsoParagraphAlignment Enumeration (Office)
+title: MsoParagraphAlignment enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoParagraphAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoParagraphAlignment Enumeration (Office)
+# MsoParagraphAlignment enumeration (Office)
 
 Specifies paragraph alignment for a text block.
 

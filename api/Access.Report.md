@@ -164,7 +164,7 @@ End Sub
 
 ## Events
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Access.Report.Activate.md)|
 |[ApplyFilter](Access.Report.ApplyFilter.md)|
@@ -194,7 +194,7 @@ End Sub
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Circle](Access.Report.Circle.md)|
 |[Line](Access.Report.Line.md)|
@@ -208,7 +208,7 @@ End Sub
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveControl](Access.Report.ActiveControl.md)|
 |[AllowLayoutView](Access.Report.AllowLayoutView.md)|

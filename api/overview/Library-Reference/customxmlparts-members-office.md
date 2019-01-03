@@ -13,7 +13,7 @@ Represents a collection of **CustomXMLPart** objects.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[PartAfterAdd](../../Office.CustomXMLParts.PartAfterAdd.md)|Occurs just after a **CustomXMLPart** object is added to the **CustomXMLParts** collection.|
 |[PartAfterLoad](../../Office.CustomXMLParts.PartAfterLoad.md)|Occurs just after a **CustomXMLPart** object is loaded.|
@@ -22,7 +22,7 @@ Represents a collection of **CustomXMLPart** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLParts.Add.md)|Allows you to add a new **CustomXMLPart** to a file.|
 |[SelectByID](../../Office.CustomXMLParts.SelectByID.md)|Selects a custom XML part matching a GUID. |
@@ -31,7 +31,7 @@ Represents a collection of **CustomXMLPart** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLParts.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLParts** object. Read-only.|
 |[Count](../../Office.CustomXMLParts.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLParts** collection. Read-only.|

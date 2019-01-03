@@ -30,8 +30,8 @@ Creates a new Web presentation associated with the specified hyperlink.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required|**String**|The path and file name of the document.|
-| _EditNow_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether the document is opened immediately in its associated editor.|
-| _Overwrite_|Required|**[MsoTriState](./Office.MsoTriState.md)**|Determines whether any existing file of the same name in the same folder is overwritten.|
+| _EditNow_|Required|**[MsoTriState](Office.MsoTriState.md)**|Determines whether the document is opened immediately in its associated editor.|
+| _Overwrite_|Required|**[MsoTriState](Office.MsoTriState.md)**|Determines whether any existing file of the same name in the same folder is overwritten.|
 
 ## Return value
 

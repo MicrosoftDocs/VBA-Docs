@@ -13,7 +13,7 @@ Represents a command bar in the container application. The **CommandBar** object
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.CommandBar.Delete.md)|Deletes the **CommandBar** object from the collection.|
 |[FindControl](../../Office.CommandBar.FindControl.md)|Gets a **CommandBarControl** object that fits a specified criteria.|
@@ -23,7 +23,7 @@ Represents a command bar in the container application. The **CommandBar** object
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AdaptiveMenu](../../Office.CommandBar.AdaptiveMenu.md)|Gets a **Boolean** value that specifies whether the command bar should include an adaptive menu. Read/write.|
 |[Application](../../Office.CommandBar.Application.md)|Gets an **Application** object that represents the container application for the **CommandBar** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|

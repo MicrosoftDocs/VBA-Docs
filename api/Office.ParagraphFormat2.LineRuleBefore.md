@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.LineRuleBefore Property (Office)
+title: ParagraphFormat2.LineRuleBefore property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleBefore
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.LineRuleBefore Property (Office)
+# ParagraphFormat2.LineRuleBefore property (Office)
 
 Determines whether line spacing before the first line in each paragraph is set to a specific number of points or lines. Read/write.
 
@@ -17,7 +17,7 @@ Determines whether line spacing before the first line in each paragraph is set t
 
  _expression_. `LineRuleBefore`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

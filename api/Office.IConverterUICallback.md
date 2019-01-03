@@ -1,5 +1,5 @@
 ---
-title: IConverterUICallback Object (Office)
+title: IConverterUICallback object (Office)
 keywords: vbaof11.chm332000
 f1_keywords:
 - vbaof11.chm332000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterUICallback Object (Office)
+# IConverterUICallback object (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrInputBox](Office.IConverterUICallback.HrInputBox.md)|
 |[HrMessageBox](Office.IConverterUICallback.HrMessageBox.md)|

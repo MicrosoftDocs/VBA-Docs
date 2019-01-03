@@ -14,14 +14,14 @@ Represents a single tab stop. The **TabStop2** object is a member of the **TabSt
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Clear](../../Office.TabStop2.Clear.md)|Removes the specified custom tab stop|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TabStop2.Application.md)|Gets an **Application** object that represents the container application for the **TabStop2** object. Read-only.|
 |[Creator](../../Office.TabStop2.Creator.md)|Gets a 32-bit integer that represents the Microsoft Office application in which the **TabStop2** object was created. Read-only.|

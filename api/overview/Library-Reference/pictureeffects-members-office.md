@@ -13,7 +13,7 @@ Represents a collection of **PictureEffects** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.PictureEffects.Delete.md)|Deletes a **PictureEffect** object from the collection.|
 |[Insert](../../Office.PictureEffects.Insert.md)|Inserts a Picture Effect in a chain of composite effects.|
@@ -21,7 +21,7 @@ Represents a collection of **PictureEffects** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PictureEffects.Application.md)|Gets an **Application** object that represents the container application for the **PictureEffects** object. Read-only|
 |[Count](../../Office.PictureEffects.Count.md)|Retrieves the count of the number of **PictureEffect** objects contained within the **PictureEffects** collection. Read-only|

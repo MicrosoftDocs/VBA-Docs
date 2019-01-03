@@ -1,5 +1,5 @@
 ---
-title: MsoBulletType Enumeration (Office)
+title: MsoBulletType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBulletType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBulletType Enumeration (Office)
+# MsoBulletType enumeration (Office)
 
 Specifies the bullet type.
 

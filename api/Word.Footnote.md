@@ -46,7 +46,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.Footnote.Delete.md)|
 
@@ -54,7 +54,7 @@ ActiveDocument.Footnotes.Add Range:=Selection.Range , _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Footnote.Application.md)|
 |[Creator](Word.Footnote.Creator.md)|

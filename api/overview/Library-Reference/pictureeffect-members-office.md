@@ -13,14 +13,14 @@ Represents a Picture Effect.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.PictureEffect.Delete.md)|Deletes a Picture Effect.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PictureEffect.Application.md)|Gets an **Application** object that represents the container application for the **PictureEffect** object. Read-only|
 |[Creator](../../Office.PictureEffect.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PictureEffect** object was created. Read-only|

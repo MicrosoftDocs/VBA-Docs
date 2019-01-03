@@ -14,14 +14,14 @@ A collection of the **[SharedWorkspaceMember](../../Office.SharedWorkspaceMember
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceMembers.Add.md)|Adds a member to the list of members in a shared workspace site. Returns a **[SharedWorkspaceMember](../../Office.SharedWorkspaceMember.md)** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceMembers.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceMembers** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceMembers.Count.md)|Gets a **Long** indicating the number of items in the **SharedWorkspaceMembers** object. Read-only.|

@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllMacros.Application.md)|
 |[Count](Access.AllMacros.Count.md)|

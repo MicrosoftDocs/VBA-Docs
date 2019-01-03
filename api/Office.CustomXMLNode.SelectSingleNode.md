@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.SelectSingleNode Method (Office)
+title: CustomXMLNode.SelectSingleNode method (Office)
 keywords: vbaof11.chm294029
 f1_keywords:
 - vbaof11.chm294029
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.SelectSingleNode Method (Office)
+# CustomXMLNode.SelectSingleNode method (Office)
 
 Selects a single node from a collection matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectSingleNode** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
@@ -20,7 +20,7 @@ Selects a single node from a collection matching an XPath expression. This metho
 
  _expression_. `SelectSingleNode`( `_XPath_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

@@ -30,7 +30,7 @@ To return the collection of actions available for the smart tag, use the  **[Sma
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](Access.SmartTag.Delete.md)|Deletes the specified object.|
 
@@ -38,7 +38,7 @@ To return the collection of actions available for the smart tag, use the  **[Sma
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SmartTag.Application.md)|
 |[IsMissing](Access.SmartTag.IsMissing.md)|

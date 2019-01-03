@@ -27,7 +27,7 @@ The  **RetunVars** collection can store up to 255 **ReturnVar** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.ReturnVars.Application.md)|
 |[Count](Access.ReturnVars.Count.md)|

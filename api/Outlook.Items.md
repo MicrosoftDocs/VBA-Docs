@@ -95,7 +95,7 @@ End sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ItemAdd](./Outlook.Items.ItemAdd.md)|
 |[ItemChange](./Outlook.Items.ItemChange.md)|
@@ -105,7 +105,7 @@ End sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.Items.Add.md)|
 |[Find](./Outlook.Items.Find.md)|
@@ -125,7 +125,7 @@ End sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Items.Application.md)|
 |[Class](./Outlook.Items.Class.md)|

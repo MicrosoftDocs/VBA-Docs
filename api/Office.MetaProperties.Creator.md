@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.Creator Property (Office)
+title: MetaProperties.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.MetaProperties.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.Creator Property (Office)
+# MetaProperties.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **MetaProperties** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **MetaPropert
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
+ _expression_ An expression that returns a [MetaProperties](Office.MetaProperties.md) object.
 
 
 ## Return value

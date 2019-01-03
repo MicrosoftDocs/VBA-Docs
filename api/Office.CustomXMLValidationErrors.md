@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationErrors Object (Office)
+title: CustomXMLValidationErrors object (Office)
 keywords: vbaof11.chm308000
 f1_keywords:
 - vbaof11.chm308000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationErrors Object (Office)
+# CustomXMLValidationErrors object (Office)
 
 Represents a collection of  **CustomXMLValidationError** objects.
 
@@ -58,7 +58,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.CustomXMLValidationErrors.Add.md)|
 
@@ -66,7 +66,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLValidationErrors.Application.md)|
 |[Count](Office.CustomXMLValidationErrors.Count.md)|

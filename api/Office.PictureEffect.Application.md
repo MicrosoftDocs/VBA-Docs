@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.Application Property (Office)
+title: PictureEffect.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.Application Property (Office)
+# PictureEffect.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **PictureEffect** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## See also

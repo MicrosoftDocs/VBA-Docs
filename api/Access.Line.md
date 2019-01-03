@@ -25,7 +25,7 @@ You can use the  **BorderWidth** property to change the line width. You can use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.Line.Move.md)|
 |[SizeToFit](Access.Line.SizeToFit.md)|
@@ -34,7 +34,7 @@ You can use the  **BorderWidth** property to change the line width. You can use 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Line.Application.md)|
 |[BorderColor](Access.Line.BorderColor.md)|

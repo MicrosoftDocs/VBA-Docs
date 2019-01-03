@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile Object (Office)
+title: SharedWorkspaceFile object (Office)
 keywords: vbaof11.chm266000
 f1_keywords:
 - vbaof11.chm266000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFile Object (Office)
+# SharedWorkspaceFile object (Office)
 
 The  **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
 
@@ -72,7 +72,7 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceFile.Delete.md)|
 
@@ -80,7 +80,7 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFile.Application.md)|
 |[CreatedBy](Office.SharedWorkspaceFile.CreatedBy.md)|

@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ItemAdd](Outlook.Results.ItemAdd.md)|
 |[ItemChange](Outlook.Results.ItemChange.md)|
@@ -77,7 +77,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetFirst](Outlook.Results.GetFirst.md)|
 |[GetLast](Outlook.Results.GetLast.md)|
@@ -92,7 +92,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Results.Application.md)|
 |[Class](Outlook.Results.Class.md)|

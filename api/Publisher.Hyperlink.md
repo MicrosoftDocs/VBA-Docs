@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Publisher.Hyperlink.Delete.md)|
 |[SetPageRelative](./Publisher.Hyperlink.SetPageRelative.md)|
@@ -81,7 +81,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./Publisher.Hyperlink.Address.md)|
 |[Application](./Publisher.Hyperlink.Application.md)|

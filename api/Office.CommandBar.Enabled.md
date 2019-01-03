@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Enabled Property (Office)
+title: CommandBar.Enabled property (Office)
 keywords: vbaof11.chm3005
 f1_keywords:
 - vbaof11.chm3005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Enabled Property (Office)
+# CommandBar.Enabled property (Office)
 
 Gets or sets a  **Boolean** value that specifies whether the specified **CommandBar** is enabled. Read/write.
 

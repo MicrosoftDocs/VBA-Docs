@@ -95,7 +95,7 @@ Application.WindowNewWindow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Project.Window.Activate.md)|
 |[Close](Project.Window.Close.md)|
@@ -107,7 +107,7 @@ Application.WindowNewWindow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActivePane](Project.Window.ActivePane.md)|
 |[Application](Project.Window.Application.md)|

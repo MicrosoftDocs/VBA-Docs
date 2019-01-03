@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Application Property (Office)
+title: SoftEdgeFormat.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SoftEdgeFormat.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Application Property (Office)
+# SoftEdgeFormat.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SoftEdgeFormat** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [SoftEdgeFormat](./Office.SoftEdgeFormat.md) object.
+ _expression_ An expression that returns a [SoftEdgeFormat](Office.SoftEdgeFormat.md) object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNamespace](../../Office.CustomXMLPrefixMappings.AddNamespace.md)|Allows you to add a custom namespace/prefix mapping to use when querying an item.|
 |[LookupNamespace](../../Office.CustomXMLPrefixMappings.LookupNamespace.md)|Allows you to get the namespace corresponding to the specified prefix.|

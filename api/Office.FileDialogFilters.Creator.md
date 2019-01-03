@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Creator Property (Office)
+title: FileDialogFilters.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.FileDialogFilters.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Creator Property (Office)
+# FileDialogFilters.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **FileDialogFilters** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **FileDialogF
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
+ _expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
 
 
 ## Return value

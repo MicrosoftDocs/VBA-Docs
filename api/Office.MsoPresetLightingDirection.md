@@ -1,5 +1,5 @@
 ---
-title: MsoPresetLightingDirection Enumeration (Office)
+title: MsoPresetLightingDirection enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetLightingDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetLightingDirection Enumeration (Office)
+# MsoPresetLightingDirection enumeration (Office)
 
 Specifies the location of lighting on an extruded (three-dimensional) shape relative to the shape.
 

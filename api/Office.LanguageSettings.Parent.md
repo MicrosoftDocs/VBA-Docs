@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings.Parent Property (Office)
+title: LanguageSettings.Parent property (Office)
 keywords: vbaof11.chm231003
 f1_keywords:
 - vbaof11.chm231003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LanguageSettings.Parent Property (Office)
+# LanguageSettings.Parent property (Office)
 
 Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Return value

@@ -81,7 +81,7 @@ ActiveProject.Resources.Add "Matilda"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Resources.Add.md)|
 
@@ -89,7 +89,7 @@ ActiveProject.Resources.Add "Matilda"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Resources.Application.md)|
 |[Count](./Project.Resources.Count.md)|

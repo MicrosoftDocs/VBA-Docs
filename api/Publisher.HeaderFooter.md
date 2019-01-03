@@ -67,7 +67,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.HeaderFooter.Delete.md)|
 
@@ -75,7 +75,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.HeaderFooter.Application.md)|
 |[IsHeader](Publisher.HeaderFooter.IsHeader.md)|

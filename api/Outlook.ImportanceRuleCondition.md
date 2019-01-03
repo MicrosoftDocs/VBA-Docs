@@ -27,7 +27,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ImportanceRuleCondition.Application.md)|
 |[Class](Outlook.ImportanceRuleCondition.Class.md)|

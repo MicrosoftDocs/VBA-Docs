@@ -35,7 +35,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeNavigate](Outlook.OutlookBarPane.BeforeNavigate.md)|
 
@@ -43,7 +43,7 @@ Set myOlBarPane = myPanes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarPane.Application.md)|
 |[Class](Outlook.OutlookBarPane.Class.md)|

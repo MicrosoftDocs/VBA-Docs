@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.OnAction Property (Office)
+title: CommandBarPopup.OnAction property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.OnAction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.OnAction Property (Office)
+# CommandBarPopup.OnAction property (Office)
 
 Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarPopup** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the name of a Visual Basic procedure that will run when the user cl
 
  _expression_. `OnAction`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

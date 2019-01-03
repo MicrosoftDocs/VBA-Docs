@@ -100,7 +100,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AutoFormatRule.Application.md)|
 |[Class](Outlook.AutoFormatRule.Class.md)|

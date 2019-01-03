@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme Object (Office)
+title: ThemeFontScheme object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme Object (Office)
+# ThemeFontScheme object (Office)
 
 Represents the font scheme of a Microsoft Office theme.
 
@@ -30,7 +30,7 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Load](Office.ThemeFontScheme.Load.md)|
 |[Save](Office.ThemeFontScheme.Save.md)|
@@ -39,7 +39,7 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeFontScheme.Application.md)|
 |[Creator](Office.ThemeFontScheme.Creator.md)|

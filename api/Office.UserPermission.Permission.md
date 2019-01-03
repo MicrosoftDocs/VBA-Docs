@@ -1,5 +1,5 @@
 ---
-title: UserPermission.Permission Property (Office)
+title: UserPermission.Permission property (Office)
 keywords: vbaof11.chm260002
 f1_keywords:
 - vbaof11.chm260002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.Permission Property (Office)
+# UserPermission.Permission property (Office)
 
  Returns or sets a **MsoPermission** constant as a **Long** value representing the permissions on the active document assigned to the user associated with the specified **UserPermission** object. Read/write.
 
@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `Permission`
 
- _expression_ A variable that represents a [UserPermission](./Office.UserPermission.md) object.
+ _expression_ A variable that represents a [UserPermission](Office.UserPermission.md) object.
 
 
 ## Remarks

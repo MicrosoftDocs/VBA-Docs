@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Excel.CellFormat.Clear.md)|
 
@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddIndent](Excel.CellFormat.AddIndent.md)|
 |[Application](Excel.CellFormat.Application.md)|

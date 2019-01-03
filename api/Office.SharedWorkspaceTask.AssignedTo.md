@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.AssignedTo Property (Office)
+title: SharedWorkspaceTask.AssignedTo property (Office)
 keywords: vbaof11.chm264002
 f1_keywords:
 - vbaof11.chm264002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.AssignedTo Property (Office)
+# SharedWorkspaceTask.AssignedTo property (Office)
 
 Gets or sets a value containing the name of the one assigned to the task represented by the  **SharedWorkspaceTask** object. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets a value containing the name of the one assigned to the task represe
 
  _expression_. `AssignedTo`
 
- _expression_ An expression that returns a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

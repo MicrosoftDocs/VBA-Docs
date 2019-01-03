@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.XML Property (Office)
+title: CustomXMLPart.XML property (Office)
 keywords: vbaof11.chm295007
 f1_keywords:
 - vbaof11.chm295007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.XML Property (Office)
+# CustomXMLPart.XML property (Office)
 
 Gets the XML representation of the current  **CustomXMLPart** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the XML representation of the current  **CustomXMLPart** object. Read-only.
 
  _expression_. `XML`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

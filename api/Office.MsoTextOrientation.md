@@ -1,5 +1,5 @@
 ---
-title: MsoTextOrientation Enumeration (Office)
+title: MsoTextOrientation enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextOrientation Enumeration (Office)
+# MsoTextOrientation enumeration (Office)
 
 Specifies orientation for text.
 

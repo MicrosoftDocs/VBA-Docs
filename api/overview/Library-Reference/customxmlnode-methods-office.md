@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AppendChildNode](../../Office.CustomXMLNode.AppendChildNode.md)|Appends a single node as the last child under the context element node in the tree. |
 |[AppendChildSubtree](../../Office.CustomXMLNode.AppendChildSubtree.md)|Adds a subtree as the last child under the context element node in the tree.|

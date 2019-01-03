@@ -1,5 +1,5 @@
 ---
-title: MsoFilterComparison Enumeration (Office)
+title: MsoFilterComparison enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFilterComparison
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFilterComparison Enumeration (Office)
+# MsoFilterComparison enumeration (Office)
 
 Specifies how the  **Column** and **CompareTo** properties are compared for an **ODSOFilter** object.
 

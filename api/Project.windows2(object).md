@@ -116,7 +116,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveWindow](Project.Windows2.ActiveWindow.md)|
 |[Application](Project.Windows2.Application.md)|

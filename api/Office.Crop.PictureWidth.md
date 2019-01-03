@@ -1,5 +1,5 @@
 ---
-title: Crop.PictureWidth Property (Office)
+title: Crop.PictureWidth property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.PictureWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.PictureWidth Property (Office)
+# Crop.PictureWidth property (Office)
 
 Gets or sets the width of the image that is to be cropped. Read/write
 
@@ -17,7 +17,7 @@ Gets or sets the width of the image that is to be cropped. Read/write
 
  _expression_. `PictureWidth`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

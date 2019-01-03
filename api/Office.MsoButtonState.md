@@ -1,5 +1,5 @@
 ---
-title: MsoButtonState Enumeration (Office)
+title: MsoButtonState enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoButtonState
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoButtonState Enumeration (Office)
+# MsoButtonState enumeration (Office)
 
 Specifies the appearance of a command bar button control.
 

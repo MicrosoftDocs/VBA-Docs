@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.EncryptStream Method (Office)
+title: EncryptionProvider.EncryptStream method (Office)
 keywords: vbaof11.chm327007
 f1_keywords:
 - vbaof11.chm327007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.EncryptStream Method (Office)
+# EncryptionProvider.EncryptStream method (Office)
 
 Encrypts and returns a stream of data for a document.
 
@@ -20,7 +20,7 @@ Encrypts and returns a stream of data for a document.
 
  _expression_. `EncryptStream`( `_SessionHandle_`, `_StreamName_`, `_UnencryptedStream_`, `_EncryptedStream_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

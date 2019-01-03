@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.IsPriorityDropped Property (Office)
+title: CommandBarButton.IsPriorityDropped property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.IsPriorityDropped
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.IsPriorityDropped Property (Office)
+# CommandBarButton.IsPriorityDropped property (Office)
 
 Gets  **True** if the **CommandBarButton** control is currently dropped from the menu or toolbar based on usage statistics and layout space. (Note that this is not the same as the control's visibility, as set by the Visible property). Read-only.
 
@@ -20,7 +20,7 @@ Gets  **True** if the **CommandBarButton** control is currently dropped from the
 
  _expression_. `IsPriorityDropped`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

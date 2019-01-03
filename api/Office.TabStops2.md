@@ -1,5 +1,5 @@
 ---
-title: TabStops2 Object (Office)
+title: TabStops2 object (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2 Object (Office)
+# TabStops2 object (Office)
 
 The collection of  **TabStop2** objects.
 
@@ -36,7 +36,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.TabStops2.Add.md)|
 |[Item](Office.TabStops2.Item.md)|
@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TabStops2.Application.md)|
 |[Count](Office.TabStops2.Count.md)|

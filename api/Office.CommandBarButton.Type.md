@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Type Property (Office)
+title: CommandBarButton.Type property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Type Property (Office)
+# CommandBarButton.Type property (Office)
 
 Gets the type of  **CommandBarButton** control. Read-only.
 

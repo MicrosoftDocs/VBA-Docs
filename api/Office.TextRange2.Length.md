@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Length Property (Office)
+title: TextRange2.Length property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Length
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Length Property (Office)
+# TextRange2.Length property (Office)
 
 Get a Long that represents the length of a text range. Read-only.
 
@@ -17,7 +17,7 @@ Get a Long that represents the length of a text range. Read-only.
 
  _expression_. `Length`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

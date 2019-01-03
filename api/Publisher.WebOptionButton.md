@@ -44,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebOptionButton.Application.md)|
 |[Parent](Publisher.WebOptionButton.Parent.md)|

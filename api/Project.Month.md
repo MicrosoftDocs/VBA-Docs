@@ -70,7 +70,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Month.Default.md)|
 
@@ -78,7 +78,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Month.Application.md)|
 |[Calendar](Project.Month.Calendar.md)|

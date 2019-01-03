@@ -1,5 +1,5 @@
 ---
-title: COMAddIns.Update Method (Office)
+title: COMAddIns.Update method (Office)
 keywords: vbaof11.chm220004
 f1_keywords:
 - vbaof11.chm220004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns.Update Method (Office)
+# COMAddIns.Update method (Office)
 
 Updates the contents of the COMAddIns collection from the list of add-ins stored in the Windows registry.
 
@@ -20,7 +20,7 @@ Updates the contents of the COMAddIns collection from the list of add-ins stored
 
  _expression_. `Update`
 
- _expression_ A variable that represents a [COMAddIns](./Office.COMAddIns.md) object.
+ _expression_ A variable that represents a [COMAddIns](Office.COMAddIns.md) object.
 
 
 ## Remarks

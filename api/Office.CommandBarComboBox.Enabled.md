@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Enabled Property (Office)
+title: CommandBarComboBox.Enabled property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Enabled
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Enabled Property (Office)
+# CommandBarComboBox.Enabled property (Office)
 
 Gets or sets a  **Boolean** value that specifies whether the **CommandBarComboBox** is enabled. Read/write.
 

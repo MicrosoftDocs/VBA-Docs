@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox Object (Office)
+title: CommandBarComboBox object (Office)
 keywords: vbaof11.chm243000
 f1_keywords:
 - vbaof11.chm243000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox Object (Office)
+# CommandBarComboBox object (Office)
 
 Represents a combo box control on a command bar.
 

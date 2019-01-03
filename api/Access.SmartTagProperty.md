@@ -25,7 +25,7 @@ To return a  **SmartTagProperty** object, use the **Item** method of the **Smart
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Access.SmartTagProperty.Delete.md)|
 
@@ -33,7 +33,7 @@ To return a  **SmartTagProperty** object, use the **Item** method of the **Smart
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.SmartTagProperty.Name.md)|
 |[Value](Access.SmartTagProperty.Value.md)|

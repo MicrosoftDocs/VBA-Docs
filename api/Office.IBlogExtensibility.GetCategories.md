@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.GetCategories Method (Office)
+title: IBlogExtensibility.GetCategories method (Office)
 keywords: vbaof11.chm328008
 f1_keywords:
 - vbaof11.chm328008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.GetCategories Method (Office)
+# IBlogExtensibility.GetCategories method (Office)
 
 This method returns the list of blog categories for an account so Microsoft Word can populate the categories dropdown list.
 
@@ -20,7 +20,7 @@ This method returns the list of blog categories for an account so Microsoft Word
 
  _expression_. `GetCategories`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_Categories()_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

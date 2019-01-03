@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.ModifiedBy Property (Office)
+title: DocumentLibraryVersion.ModifiedBy property (Office)
 keywords: vbaof11.chm277020
 f1_keywords:
 - vbaof11.chm277020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.ModifiedBy Property (Office)
+# DocumentLibraryVersion.ModifiedBy property (Office)
 
 Gets the name of the user who last saved the specified version of the shared document to the server. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the user who last saved the specified version of the shared doc
 
  _expression_. `ModifiedBy`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Return value

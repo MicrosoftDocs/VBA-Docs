@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeColorScheme.Application.md)|Gets an  **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
 |[Count](../../Office.ThemeColorScheme.Count.md)|Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|

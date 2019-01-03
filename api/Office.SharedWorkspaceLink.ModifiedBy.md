@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.ModifiedBy Property (Office)
+title: SharedWorkspaceLink.ModifiedBy property (Office)
 keywords: vbaof11.chm270006
 f1_keywords:
 - vbaof11.chm270006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.ModifiedBy Property (Office)
+# SharedWorkspaceLink.ModifiedBy property (Office)
 
 Gets the name of the user who last modified the object. Read-only.
 
@@ -23,7 +23,7 @@ Gets the name of the user who last modified the object. Read-only.
 
  _expression_. `ModifiedBy`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Return value

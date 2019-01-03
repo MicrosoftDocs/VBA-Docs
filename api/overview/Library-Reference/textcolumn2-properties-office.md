@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TextColumn2.Application.md)|Gets an  **Application** object that represents the container application for the **TextColumn2** object. Read-only.|
 |[Creator](../../Office.TextColumn2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **TextColumn2** object was created. Read-only.|

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Count Property (Office)
+title: CustomXMLParts.Count property (Office)
 keywords: vbaof11.chm298002
 f1_keywords:
 - vbaof11.chm298002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Count Property (Office)
+# CustomXMLParts.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **CustomXMLParts** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLParts** collec
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Return value

@@ -27,7 +27,7 @@ You can use the  **[Visible](Outlook.ContactsModule.Visible.md)** property to de
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ContactsModule.Application.md)|
 |[Class](Outlook.ContactsModule.Class.md)|

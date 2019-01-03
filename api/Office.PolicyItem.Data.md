@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Data Property (Office)
+title: PolicyItem.Data property (Office)
 keywords: vbaof11.chm278024
 f1_keywords:
 - vbaof11.chm278024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Data Property (Office)
+# PolicyItem.Data property (Office)
 
 Gets the information that is used to implement the policy item. Read-only.
 
@@ -20,7 +20,7 @@ Gets the information that is used to implement the policy item. Read-only.
 
  _expression_. `Data`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

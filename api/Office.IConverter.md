@@ -1,5 +1,5 @@
 ---
-title: IConverter Object (Office)
+title: IConverter object (Office)
 keywords: vbaof11.chm333000
 f1_keywords:
 - vbaof11.chm333000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter Object (Office)
+# IConverter object (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrExport](Office.IConverter.HrExport.md)|
 |[HrGetErrorString](Office.IConverter.HrGetErrorString.md)|

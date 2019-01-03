@@ -1,5 +1,5 @@
 ---
-title: PickerProperty.Type Property (Office)
+title: PickerProperty.Type property (Office)
 keywords: vbaof11.chm336003
 f1_keywords:
 - vbaof11.chm336003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperty.Type Property (Office)
+# PickerProperty.Type property (Office)
 
 Retrieves the type of the Picker property. Read-only
 
@@ -20,7 +20,7 @@ Retrieves the type of the Picker property. Read-only
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PickerProperty](./Office.PickerProperty.md) object.
+ _expression_ An expression that returns a [PickerProperty](Office.PickerProperty.md) object.
 
 
 ## See also

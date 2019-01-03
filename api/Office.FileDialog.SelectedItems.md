@@ -1,5 +1,5 @@
 ---
-title: FileDialog.SelectedItems Property (Office)
+title: FileDialog.SelectedItems property (Office)
 keywords: vbaof11.chm256009
 f1_keywords:
 - vbaof11.chm256009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.SelectedItems Property (Office)
+# FileDialog.SelectedItems property (Office)
 
 Gets a  **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed using the **Show** method of the **FileDialog** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **FileDialogSelectedItems** collection. This collection contains a list 
 
  _expression_. `SelectedItems`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Example

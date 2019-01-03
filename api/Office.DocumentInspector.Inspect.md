@@ -1,5 +1,5 @@
 ---
-title: DocumentInspector.Inspect Method (Office)
+title: DocumentInspector.Inspect method (Office)
 keywords: vbaof11.chm279003
 f1_keywords:
 - vbaof11.chm279003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspector.Inspect Method (Office)
+# DocumentInspector.Inspect method (Office)
 
 Inspects a document for specific information or document properties.
 
@@ -20,7 +20,7 @@ Inspects a document for specific information or document properties.
 
  _expression_. `Inspect`( `_Status_`, `_Results_` )
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Parameters

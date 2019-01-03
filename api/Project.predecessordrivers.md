@@ -27,7 +27,7 @@ Use the  **[Item](Project.PredecessorDrivers.Item.md)** property to get a single
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.PredecessorDrivers.Application.md)|
 |[Count](Project.PredecessorDrivers.Count.md)|

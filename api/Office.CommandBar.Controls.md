@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Controls Property (Office)
+title: CommandBar.Controls property (Office)
 keywords: vbaof11.chm3003
 f1_keywords:
 - vbaof11.chm3003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Controls Property (Office)
+# CommandBar.Controls property (Office)
 
 Gets a  **CommandBarControls** object that represents all the controls on a command bar. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **CommandBarControls** object that represents all the controls on a comm
 
  _expression_. `Controls`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

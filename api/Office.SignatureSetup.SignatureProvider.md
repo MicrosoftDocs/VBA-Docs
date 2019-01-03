@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.SignatureProvider Property (Office)
+title: SignatureSetup.SignatureProvider property (Office)
 keywords: vbaof11.chm285003
 f1_keywords:
 - vbaof11.chm285003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.SignatureProvider Property (Office)
+# SignatureSetup.SignatureProvider property (Office)
 
 Gets a value identifying an installed signature provider add-in. Read-only.
 
@@ -20,7 +20,7 @@ Gets a value identifying an installed signature provider add-in. Read-only.
 
  _expression_. `SignatureProvider`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

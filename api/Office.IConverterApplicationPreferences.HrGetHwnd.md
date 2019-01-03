@@ -1,5 +1,5 @@
 ---
-title: IConverterApplicationPreferences.HrGetHwnd Method (Office)
+title: IConverterApplicationPreferences.HrGetHwnd method (Office)
 keywords: vbaof11.chm331002
 f1_keywords:
 - vbaof11.chm331002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterApplicationPreferences.HrGetHwnd Method (Office)
+# IConverterApplicationPreferences.HrGetHwnd method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrGetHwnd`( `_phwnd_` )
 
- _expression_ An expression that returns a [IConverterApplicationPreferences](./Office.IConverterApplicationPreferences.md) object.
+ _expression_ An expression that returns a [IConverterApplicationPreferences](Office.IConverterApplicationPreferences.md) object.
 
 
 ## Parameters

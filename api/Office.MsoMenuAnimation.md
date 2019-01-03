@@ -1,5 +1,5 @@
 ---
-title: MsoMenuAnimation Enumeration (Office)
+title: MsoMenuAnimation enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoMenuAnimation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoMenuAnimation Enumeration (Office)
+# MsoMenuAnimation enumeration (Office)
 
 Specifies animation style for Microsoft Office command bars.
 

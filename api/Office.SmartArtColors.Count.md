@@ -1,5 +1,5 @@
 ---
-title: SmartArtColors.Count Property (Office)
+title: SmartArtColors.Count property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColors.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColors.Count Property (Office)
+# SmartArtColors.Count property (Office)
 
 Retrieves the count of the number of  **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the count of the number of  **SmartArtColor** objects contained within
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
+ _expression_ An expression that returns a [SmartArtColors](Office.SmartArtColors.md) object.
 
 
 ## See also

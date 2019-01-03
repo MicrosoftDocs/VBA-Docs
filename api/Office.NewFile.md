@@ -1,5 +1,5 @@
 ---
-title: NewFile Object (Office)
+title: NewFile object (Office)
 keywords: vbaof11.chm235000
 f1_keywords:
 - vbaof11.chm235000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NewFile Object (Office)
+# NewFile object (Office)
 
 Represents items listed on the  **New** _Item_ task pane available in several Microsoft Office applications.
 
@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.NewFile.Add.md)|
 |[Remove](Office.NewFile.Remove.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.NewFile.Application.md)|
 |[Creator](Office.NewFile.Creator.md)|

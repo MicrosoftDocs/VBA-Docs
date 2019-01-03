@@ -25,7 +25,7 @@ To return the dependency information for an  **AccessObject** object, use the **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Dependants](Access.DependencyInfo.Dependants.md)|
 |[Dependencies](Access.DependencyInfo.Dependencies.md)|

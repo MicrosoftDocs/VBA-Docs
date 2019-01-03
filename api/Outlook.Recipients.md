@@ -54,7 +54,7 @@ myRecipient.Type = olCC
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.Recipients.Add.md)|
 |[Item](./Outlook.Recipients.Item.md)|
@@ -65,7 +65,7 @@ myRecipient.Type = olCC
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Recipients.Application.md)|
 |[Class](./Outlook.Recipients.Class.md)|

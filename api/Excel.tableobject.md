@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.tableobject.delete.md)|
 |[Refresh](Excel.tableobject.refresh.md)|
@@ -59,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdjustColumnWidth](Excel.tableobject.adjustcolumnwidth.md)|
 |[Application](Excel.tableobject.application.md)|

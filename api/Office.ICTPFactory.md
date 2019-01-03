@@ -1,5 +1,5 @@
 ---
-title: ICTPFactory Object (Office)
+title: ICTPFactory object (Office)
 keywords: vbaof11.chm304000
 f1_keywords:
 - vbaof11.chm304000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ICTPFactory Object (Office)
+# ICTPFactory object (Office)
 
 Used to create a custom task pane.
 
@@ -44,7 +44,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateCTP](Office.ICTPFactory.CreateCTP.md)|
 

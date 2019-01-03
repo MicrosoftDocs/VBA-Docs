@@ -1,5 +1,5 @@
 ---
-title: Sync Object (Office)
+title: Sync object (Office)
 keywords: vbaof11.chm277000
 f1_keywords:
 - vbaof11.chm277000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync Object (Office)
+# Sync object (Office)
 
 The  **Sync** property of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in Microsoft PowerPoint returns a **Sync** object.
 
@@ -89,7 +89,7 @@ Dim objSync As Office.Sync
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetUpdate](Office.GetUpdate.md)|
 |[OpenVersion](Office.Sync.OpenVersion.md)|
@@ -101,7 +101,7 @@ Dim objSync As Office.Sync
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.Sync.Application.md)|
 |[Creator](Office.Sync.Creator.md)|

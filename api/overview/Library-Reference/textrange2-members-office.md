@@ -13,7 +13,7 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddPeriods](../../Office.TextRange2.AddPeriods.md)|Adds period (.) punctuation to the right side of the text contained in TextRange2 object for left-to-right languages and on the left side for right-to-left languages.|
 |[ChangeCase](../../Office.TextRange2.ChangeCase.md)|Changes the case of a **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.|
@@ -38,7 +38,7 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TextRange2.Application.md)|Used without an object qualifier, this property returns an **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE Automation object, it returns the object's application. Read-only.|
 |[BoundHeight](../../Office.TextRange2.BoundHeight.md)|Gets the height, in points, of the text bounding box for the specified text. Read-only.|

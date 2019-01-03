@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Index Property (Office)
+title: CommandBar.Index property (Office)
 keywords: vbaof11.chm3008
 f1_keywords:
 - vbaof11.chm3008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Index Property (Office)
+# CommandBar.Index property (Office)
 
 Gets a  **Long** representing the index number for a **CommandBar** object in the collection. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for a **CommandBar** object in th
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

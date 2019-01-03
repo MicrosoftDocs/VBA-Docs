@@ -1,5 +1,5 @@
 ---
-title: MsoClipboardFormat Enumeration (Office)
+title: MsoClipboardFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoClipboardFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoClipboardFormat Enumeration (Office)
+# MsoClipboardFormat enumeration (Office)
 
 Specifies Clipboard formats.
 

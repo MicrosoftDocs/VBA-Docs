@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextEffectFormat.Alignment property (Excel)
 
-Returns or sets an  **[MsoTextEffectAlignment](./Office.MsoTextEffectAlignment.md)** value that represents the alignment for WordArt.
+Returns or sets an  **[MsoTextEffectAlignment](Office.MsoTextEffectAlignment.md)** value that represents the alignment for WordArt.
 
 
 ## Syntax

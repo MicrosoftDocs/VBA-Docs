@@ -1,5 +1,5 @@
 ---
-title: IConverterPreferences Object (Office)
+title: IConverterPreferences object (Office)
 keywords: vbaof11.chm330000
 f1_keywords:
 - vbaof11.chm330000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterPreferences Object (Office)
+# IConverterPreferences object (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrCheckFormat](Office.IConverterPreferences.HrCheckFormat.md)|
 |[HrGetLossySave](Office.IConverterPreferences.HrGetLossySave.md)|

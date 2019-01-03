@@ -25,7 +25,7 @@ Actions such as changing the conditional formatting or table style of a range ca
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddIndent](Excel.DisplayFormat.AddIndent.md)|
 |[Application](Excel.DisplayFormat.Application.md)|

@@ -14,7 +14,7 @@ Represents the font scheme of a Microsoft Office theme.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Load](../../Office.ThemeFontScheme.Load.md)|Loads the font scheme of a Microsoft Office theme from a file.|
 |[Save](../../Office.ThemeFontScheme.Save.md)|Saves the font scheme of a Microsoft Office theme to a file.|
@@ -22,7 +22,7 @@ Represents the font scheme of a Microsoft Office theme.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeFontScheme.Application.md)|Gets an **Application** object that represents the container application for the **ThemeFontScheme** object. Read-only.|
 |[Creator](../../Office.ThemeFontScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ThemeFontScheme** object was created. Read-only.|

@@ -60,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.AboveAverage.Delete.md)|
 |[ModifyAppliesToRange](Excel.AboveAverage.ModifyAppliesToRange.md)|
@@ -71,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AboveBelow](Excel.AboveAverage.AboveBelow.md)|
 |[Application](Excel.AboveAverage.Application.md)|

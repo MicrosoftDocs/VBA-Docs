@@ -1,5 +1,5 @@
 ---
-title: ODSOColumns.Creator Property (Office)
+title: ODSOColumns.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ODSOColumns.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumns.Creator Property (Office)
+# ODSOColumns.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ODSOColumns** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ODSOColumns
 
  _expression_. `Creator`
 
- _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
+ _expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
 
 
 ## Return value

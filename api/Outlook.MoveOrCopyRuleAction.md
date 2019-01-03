@@ -27,7 +27,7 @@ For more information on specifying rule actions, see [Specify Rule Actions](../o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionType](Outlook.MoveOrCopyRuleAction.ActionType.md)|
 |[Application](Outlook.MoveOrCopyRuleAction.Application.md)|

@@ -1,12 +1,12 @@
 ---
-title: MsoMergeCmd Enumeration (Office)
+title: MsoMergeCmd enumeration (Office)
 ms.assetid: 41a8359d-9a48-f847-488c-b842efe15e28
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# MsoMergeCmd Enumeration (Office)
+# MsoMergeCmd enumeration (Office)
 
 Specifies the output of a merge shapes operation.
 

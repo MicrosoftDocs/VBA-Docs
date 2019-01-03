@@ -30,7 +30,7 @@ Use the  **[Add](Project.Exceptions.Add.md)** method to add an **Exception** obj
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.Exceptions.Add.md)|
 
@@ -38,7 +38,7 @@ Use the  **[Add](Project.Exceptions.Add.md)** method to add an **Exception** obj
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Exceptions.Application.md)|
 |[Count](Project.Exceptions.Count.md)|

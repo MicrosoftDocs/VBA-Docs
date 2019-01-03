@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationErrors.Application Property (Office)
+title: CustomXMLValidationErrors.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationErrors.Application Property (Office)
+# CustomXMLValidationErrors.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLValidationErrors** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 
 
 ## Return value

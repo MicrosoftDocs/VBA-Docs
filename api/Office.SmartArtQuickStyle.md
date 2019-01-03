@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle Object (Office)
+title: SmartArtQuickStyle object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle Object (Office)
+# SmartArtQuickStyle object (Office)
 
 Represents a Smart Art quick style
 
@@ -27,7 +27,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.QuickStyle = Application.SmartAr
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtQuickStyle.Application.md)|
 |[Category](Office.SmartArtQuickStyle.Category.md)|

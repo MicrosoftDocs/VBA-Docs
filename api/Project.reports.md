@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.reports.add.md)|
 |[Copy](Project.reports.copy.md)|
@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.reports.application.md)|
 |[Count](Project.reports.count.md)|

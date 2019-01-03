@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors.Item Property (Office)
+title: DocumentInspectors.Item property (Office)
 keywords: vbaof11.chm278001
 f1_keywords:
 - vbaof11.chm278001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors.Item Property (Office)
+# DocumentInspectors.Item property (Office)
 
 Gets the  **DocumentInspector** object specified by the index. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **DocumentInspector** object specified by the index. Read-only.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [DocumentInspectors](./Office.DocumentInspectors.md) object.
+ _expression_ An expression that returns a [DocumentInspectors](Office.DocumentInspectors.md) object.
 
 
 ## Parameters

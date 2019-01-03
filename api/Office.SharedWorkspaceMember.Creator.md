@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember.Creator Property (Office)
+title: SharedWorkspaceMember.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceMember.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMember.Creator Property (Office)
+# SharedWorkspaceMember.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceMember** object was created. Read-only.
 
@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **SharedWorks
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Return value

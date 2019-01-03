@@ -89,7 +89,7 @@ An outline code is a type of local custom field that has a hierarchical text loo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.OutlineCode.Delete.md)|
 
@@ -97,7 +97,7 @@ An outline code is a type of local custom field that has a hierarchical text loo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.OutlineCode.Application.md)|
 |[CodeMask](Project.OutlineCode.CodeMask.md)|

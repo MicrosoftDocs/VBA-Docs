@@ -1,5 +1,5 @@
 ---
-title: MsoDocProperties Enumeration (Office)
+title: MsoDocProperties enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoDocProperties
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoDocProperties Enumeration (Office)
+# MsoDocProperties enumeration (Office)
 
 Specifies the data type for a document property.
 

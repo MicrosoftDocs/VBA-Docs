@@ -21,7 +21,7 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.BuildingBlock.Delete.md)|
 
@@ -29,7 +29,7 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Category](Publisher.BuildingBlock.Category.md)|
 |[Description](Publisher.BuildingBlock.Description.md)|

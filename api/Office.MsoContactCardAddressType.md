@@ -1,5 +1,5 @@
 ---
-title: MsoContactCardAddressType Enumeration (Office)
+title: MsoContactCardAddressType enumeration (Office)
 keywords: vbaof11.chm100125
 f1_keywords:
 - vbaof11.chm100125
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoContactCardAddressType Enumeration (Office)
+# MsoContactCardAddressType enumeration (Office)
 
 Specifies the address type for a contact card.
 

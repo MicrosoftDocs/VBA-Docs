@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilter.Description Property (Office)
+title: FileDialogFilter.Description property (Office)
 keywords: vbaof11.chm254003
 f1_keywords:
 - vbaof11.chm254003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilter.Description Property (Office)
+# FileDialogFilter.Description property (Office)
 
 Gets the description of each  **Filter** object as a **String** value. The description is the text that is displayed in a file dialog box. Read-only.
 

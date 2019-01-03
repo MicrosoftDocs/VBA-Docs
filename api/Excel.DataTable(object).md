@@ -33,7 +33,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.DataTable.Delete.md)|
 |[Select](Excel.DataTable.Select.md)|
@@ -42,7 +42,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.DataTable.Application.md)|
 |[Border](Excel.DataTable.Border.md)|

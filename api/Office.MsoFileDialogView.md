@@ -1,5 +1,5 @@
 ---
-title: MsoFileDialogView Enumeration (Office)
+title: MsoFileDialogView enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFileDialogView
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFileDialogView Enumeration (Office)
+# MsoFileDialogView enumeration (Office)
 
 Specifies the view presented to the user in a file dialog box.
 

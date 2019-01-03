@@ -70,7 +70,7 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.Name.Delete.md)|
 
@@ -78,7 +78,7 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Name.Application.md)|
 |[Category](Excel.Name.Category.md)|

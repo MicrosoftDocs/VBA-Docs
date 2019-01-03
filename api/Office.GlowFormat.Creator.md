@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Creator Property (Office)
+title: GlowFormat.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.GlowFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Creator Property (Office)
+# GlowFormat.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **GlowFormat** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **GlowFormat*
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
+ _expression_ An expression that returns a [GlowFormat](Office.GlowFormat.md) object.
 
 
 ## Return value

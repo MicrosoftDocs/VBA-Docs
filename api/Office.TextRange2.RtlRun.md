@@ -1,5 +1,5 @@
 ---
-title: TextRange2.RtlRun Method (Office)
+title: TextRange2.RtlRun method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.RtlRun
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.RtlRun Method (Office)
+# TextRange2.RtlRun method (Office)
 
 Returns a  **TextRange2** object that represents the specified subset of right-to-left text runs. A text run consists of a range of characters that share the same font attributes.
 
@@ -17,7 +17,7 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 
  _expression_. `RtlRun`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

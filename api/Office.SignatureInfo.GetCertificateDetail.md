@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.GetCertificateDetail Method (Office)
+title: SignatureInfo.GetCertificateDetail method (Office)
 keywords: vbaof11.chm286007
 f1_keywords:
 - vbaof11.chm286007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.GetCertificateDetail Method (Office)
+# SignatureInfo.GetCertificateDetail method (Office)
 
 Displays a specified detail related to a digital certificate.
 
@@ -20,7 +20,7 @@ Displays a specified detail related to a digital certificate.
 
  _expression_. `GetCertificateDetail`( `_certdet_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

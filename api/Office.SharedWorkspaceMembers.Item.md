@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers.Item Property (Office)
+title: SharedWorkspaceMembers.Item property (Office)
 keywords: vbaof11.chm273001
 f1_keywords:
 - vbaof11.chm273001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers.Item Property (Office)
+# SharedWorkspaceMembers.Item property (Office)
 
 Gets a  **SharedWorkspaceMember** object from the Members collection of the shared workspace. Read-only.
 

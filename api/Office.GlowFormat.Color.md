@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Color Property (Office)
+title: GlowFormat.Color property (Office)
 ms.prod: office
 api_name:
 - Office.GlowFormat.Color
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Color Property (Office)
+# GlowFormat.Color property (Office)
 
 Gets a  **ColorFormat** object that represents the color of text formatted as glow. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **ColorFormat** object that represents the color of text formatted as gl
 
  _expression_. `Color`
 
- _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
+ _expression_ An expression that returns a [GlowFormat](Office.GlowFormat.md) object.
 
 
 ## Return value

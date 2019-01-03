@@ -50,7 +50,7 @@ The  **MailMergeFields** collection has additional methods, such as **AddAsk** a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.MailMergeFields.Add.md)|
 |[AddAsk](Word.MailMergeFields.AddAsk.md)|
@@ -68,7 +68,7 @@ The  **MailMergeFields** collection has additional methods, such as **AddAsk** a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.MailMergeFields.Application.md)|
 |[Count](Word.MailMergeFields.Count.md)|

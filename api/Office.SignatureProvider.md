@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider Object (Office)
+title: SignatureProvider object (Office)
 keywords: vbaof11.chm287000
 f1_keywords:
 - vbaof11.chm287000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider Object (Office)
+# SignatureProvider object (Office)
 
 Represents a signature provider add-in.
 
@@ -23,7 +23,7 @@ Represents a signature provider add-in.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GenerateSignatureLineImage](Office.SignatureProvider.GenerateSignatureLineImage.md)|
 |[GetProviderDetail](Office.SignatureProvider.GetProviderDetail.md)|

@@ -48,7 +48,7 @@ MsgBox CaptionLabels(1).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.CaptionLabels.Add.md)|
 |[Item](Word.CaptionLabels.Item.md)|
@@ -57,7 +57,7 @@ MsgBox CaptionLabels(1).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.CaptionLabels.Application.md)|
 |[Count](Word.CaptionLabels.Count.md)|

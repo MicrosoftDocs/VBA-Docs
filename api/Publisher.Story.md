@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Story.Application.md)|
 |[HasTable](./Publisher.Story.HasTable.md)|

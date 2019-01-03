@@ -1,5 +1,5 @@
 ---
-title: Sync.Creator Property (Office)
+title: Sync.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.Sync.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.Creator Property (Office)
+# Sync.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **Sync** object was created. Read-only.
 
@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **Sync** obje
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Return value

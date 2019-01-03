@@ -1,5 +1,5 @@
 ---
-title: UserPermission.ExpirationDate Property (Office)
+title: UserPermission.ExpirationDate property (Office)
 keywords: vbaof11.chm260003
 f1_keywords:
 - vbaof11.chm260003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.ExpirationDate Property (Office)
+# UserPermission.ExpirationDate property (Office)
 
 Gets or sets the optional expiration date of the permissions on the active document assigned to the user associated with the specified  **UserPermission** object. Read/write.
 

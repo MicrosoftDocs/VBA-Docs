@@ -56,7 +56,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.Comment.Delete.md)|
 |[Next](Excel.Comment.Next.md)|
@@ -67,7 +67,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Comment.Application.md)|
 |[Author](Excel.Comment.Author.md)|

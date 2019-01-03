@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.PickerProperties.Add.md)||
 |[Remove](../../Office.PickerProperties.Remove.md)|Removes a PickerProperty from the collection.|

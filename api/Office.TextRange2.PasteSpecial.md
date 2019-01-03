@@ -1,5 +1,5 @@
 ---
-title: TextRange2.PasteSpecial Method (Office)
+title: TextRange2.PasteSpecial method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.PasteSpecial
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.PasteSpecial Method (Office)
+# TextRange2.PasteSpecial method (Office)
 
 Replaces the text range with the contents of the Clipboard in the format specified. If the paste succeeds, this method returns a  **TextRange2** object including the text range that was pasted.
 
@@ -17,7 +17,7 @@ Replaces the text range with the contents of the Clipboard in the format specifi
 
  _expression_. `PasteSpecial`( `_Format_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

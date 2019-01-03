@@ -1,5 +1,5 @@
 ---
-title: ThemeColor.ThemeColorSchemeIndex Property (Office)
+title: ThemeColor.ThemeColorSchemeIndex property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColor.ThemeColorSchemeIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColor.ThemeColorSchemeIndex Property (Office)
+# ThemeColor.ThemeColorSchemeIndex property (Office)
 
 Gets the index value a color scheme of a Microsoft Office theme. Read-only.
 
@@ -17,7 +17,7 @@ Gets the index value a color scheme of a Microsoft Office theme. Read-only.
 
  _expression_. `ThemeColorSchemeIndex`
 
- _expression_ An expression that returns a [ThemeColor](./Office.ThemeColor.md) object.
+ _expression_ An expression that returns a [ThemeColor](Office.ThemeColor.md) object.
 
 
 ## Return value

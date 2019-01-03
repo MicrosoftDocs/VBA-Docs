@@ -25,7 +25,7 @@ With the tab control, you can construct a single form or dialog box that contain
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Access.TabControl.Change.md)|
 |[Click](Access.TabControl.Click.md)|
@@ -41,7 +41,7 @@ With the tab control, you can construct a single form or dialog box that contain
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.TabControl.Move.md)|
 |[SizeToFit](Access.TabControl.SizeToFit.md)|
@@ -50,7 +50,7 @@ With the tab control, you can construct a single form or dialog box that contain
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.TabControl.Application.md)|
 |[BackColor](Access.TabControl.BackColor.md)|

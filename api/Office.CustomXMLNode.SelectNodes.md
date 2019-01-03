@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.SelectNodes Method (Office)
+title: CustomXMLNode.SelectNodes method (Office)
 keywords: vbaof11.chm294028
 f1_keywords:
 - vbaof11.chm294028
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.SelectNodes Method (Office)
+# CustomXMLNode.SelectNodes method (Office)
 
 Selects a collection of nodes matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectNodes** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.
 
@@ -20,7 +20,7 @@ Selects a collection of nodes matching an XPath expression. This method differs 
 
  _expression_. `SelectNodes`( `_XPath_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

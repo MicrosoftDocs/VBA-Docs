@@ -46,7 +46,7 @@ Windows("book1.xls":1).DisplayGridlines = False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Excel.Window.Activate.md)|
 |[ActivateNext](Excel.Window.ActivateNext.md)|
@@ -67,7 +67,7 @@ Windows("book1.xls":1).DisplayGridlines = False
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveCell](Excel.Window.ActiveCell.md)|
 |[ActiveChart](Excel.Window.ActiveChart.md)|

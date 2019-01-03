@@ -1,5 +1,5 @@
 ---
-title: EncryptionCipherMode Enumeration (Office)
+title: EncryptionCipherMode enumeration (Office)
 ms.prod: office
 api_name:
 - Office.EncryptionCipherMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionCipherMode Enumeration (Office)
+# EncryptionCipherMode enumeration (Office)
 
 Specifies the mode for encryption ciphers.
 

@@ -37,7 +37,7 @@ Set myOLBarStorage = myPanes.Item("OutlookBar").Contents
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarStorage.Application.md)|
 |[Class](Outlook.OutlookBarStorage.Class.md)|

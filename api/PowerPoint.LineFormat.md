@@ -50,7 +50,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.LineFormat.Application.md)|
 |[BackColor](./PowerPoint.LineFormat.BackColor.md)|

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.InsertSymbol Method (Office)
+title: TextRange2.InsertSymbol method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.InsertSymbol
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.InsertSymbol Method (Office)
+# TextRange2.InsertSymbol method (Office)
 
 Inserts a symbol from the specified font set into the range of text represented by the  **TextRange2** object.
 
@@ -17,7 +17,7 @@ Inserts a symbol from the specified font set into the range of text represented 
 
  _expression_. `InsertSymbol`( `_FontName_`, `_CharNumber_`, `_Unicode_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

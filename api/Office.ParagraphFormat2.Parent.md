@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.Parent Property (Office)
+title: ParagraphFormat2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.Parent Property (Office)
+# ParagraphFormat2.Parent property (Office)
 
 Gets the parent object for the  **ParagraphFormat2** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets the parent object for the  **ParagraphFormat2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

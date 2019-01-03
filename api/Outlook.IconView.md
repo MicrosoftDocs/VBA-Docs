@@ -37,7 +37,7 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.IconView.Apply.md)|
 |[Copy](Outlook.IconView.Copy.md)|
@@ -50,7 +50,7 @@ You can change built-in  **IconView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.IconView.Application.md)|
 |[Class](Outlook.IconView.Class.md)|

@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.Open Method (Office)
+title: OfficeDataSourceObject.Open method (Office)
 keywords: vbaof11.chm232007
 f1_keywords:
 - vbaof11.chm232007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.Open Method (Office)
+# OfficeDataSourceObject.Open method (Office)
 
 Opens a table in a  **OfficeDataSourceObject** object.
 
@@ -20,7 +20,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
  _expression_. `Open`( `_bstrSrc_`, `_bstrConnect_`, `_bstrTable_`, `_fOpenExclusive_`, `_fNeverPrompt_` )
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Parameters

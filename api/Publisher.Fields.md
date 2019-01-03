@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddHorizontalInVertical](Publisher.Fields.AddHorizontalInVertical.md)|
 |[AddPhoneticGuide](Publisher.Fields.AddPhoneticGuide.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Fields.Application.md)|
 |[Count](Publisher.Fields.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: Permission.PolicyName Property (Office)
+title: Permission.PolicyName property (Office)
 keywords: vbaof11.chm261010
 f1_keywords:
 - vbaof11.chm261010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.PolicyName Property (Office)
+# Permission.PolicyName property (Office)
 
 Gets the name of the permissions policy applied to the active document. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the permissions policy applied to the active document. Read-onl
 
  _expression_. `PolicyName`
 
- _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
+ _expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

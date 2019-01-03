@@ -1,5 +1,5 @@
 ---
-title: Signature.Parent Property (Office)
+title: Signature.Parent property (Office)
 keywords: vbaof11.chm248007
 f1_keywords:
 - vbaof11.chm248007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Parent Property (Office)
+# Signature.Parent property (Office)
 
 Gets the  **Parent** object for the Signature object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the Signature object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [Signature](./Office.Signature.md) object.
+ _expression_ A variable that represents a [Signature](Office.Signature.md) object.
 
 
 ## Return value

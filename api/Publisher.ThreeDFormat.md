@@ -54,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementRotationX](Publisher.ThreeDFormat.IncrementRotationX.md)|
 |[IncrementRotationY](Publisher.ThreeDFormat.IncrementRotationY.md)|
@@ -66,7 +66,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ThreeDFormat.Application.md)|
 |[BevelBottomDepth](Publisher.threedformat.bevelbottomdepth.md)|

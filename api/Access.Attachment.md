@@ -121,7 +121,7 @@ Office Access 2007 blocks the following types of attached files. At this time, y
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.Attachment.AfterUpdate(even).md)|
 |[AttachmentCurrent](Access.Attachment.AttachmentCurrent.md)|
@@ -145,7 +145,7 @@ Office Access 2007 blocks the following types of attached files. At this time, y
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Back](Access.Attachment.Back.md)|
 |[Forward](Access.Attachment.Forward.md)|
@@ -158,7 +158,7 @@ Office Access 2007 blocks the following types of attached files. At this time, y
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.Attachment.AddColon.md)|
 |[AfterUpdate](Access.Attachment.AfterUpdate(property).md)|

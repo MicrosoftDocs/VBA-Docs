@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.MinorFont Property (Office)
+title: ThemeFontScheme.MinorFont property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.MinorFont
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.MinorFont Property (Office)
+# ThemeFontScheme.MinorFont property (Office)
 
 Gets the font settings for the "Body" of a document. Read-only.
 
@@ -17,7 +17,7 @@ Gets the font settings for the "Body" of a document. Read-only.
 
  _expression_. `MinorFont`
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+ _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 
 
 ## Return value

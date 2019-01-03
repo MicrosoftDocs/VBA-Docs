@@ -56,7 +56,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.FormatCondition.Delete.md)|
 |[Modify](Excel.FormatCondition.Modify.md)|
@@ -68,7 +68,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.FormatCondition.Application.md)|
 |[AppliesTo](Excel.FormatCondition.AppliesTo.md)|

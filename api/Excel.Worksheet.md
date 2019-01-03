@@ -117,7 +117,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Excel.Worksheet.Activate(even).md)|
 |[BeforeDelete](./Excel.worksheet.beforedelete.md)|
@@ -141,7 +141,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Excel.Worksheet.Activate(method).md)|
 |[Calculate](./Excel.Worksheet.Calculate(method).md)|
@@ -178,7 +178,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Excel.Worksheet.Application.md)|
 |[AutoFilter](./Excel.Worksheet.AutoFilter.md)|

@@ -38,7 +38,7 @@ MsgBox Left$(ReportNames, Len(ReportNames) - Len(ListSeparator &amp; " "))
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.List.Application.md)|
 |[Count](./Project.List.Count.md)|

@@ -14,7 +14,7 @@ Represents the information used to create a digital or in-document signature.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetCertificateDetail](../../Office.SignatureInfo.GetCertificateDetail.md)|Displays a specified detail related to a digital certificate.|
 |[GetSignatureDetail](../../Office.SignatureInfo.GetSignatureDetail.md)|Displays a specified detail related to a signature.|
@@ -24,7 +24,7 @@ Represents the information used to create a digital or in-document signature.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SignatureInfo.Application.md)|Gets an **Application** object that represents the container application for the **SignatureInfo** object. Read-only.|
 |[CertificateVerificationResults](../../Office.SignatureInfo.CertificateVerificationResults.md)|Gets the results from the verification of a digital certificate. Read-only.|

@@ -1,5 +1,5 @@
 ---
-title: PickerResult.Type Property (Office)
+title: PickerResult.Type property (Office)
 keywords: vbaof11.chm338003
 f1_keywords:
 - vbaof11.chm338003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.Type Property (Office)
+# PickerResult.Type property (Office)
 
 Represents the type of a  **PickerResult** object. Read/write
 
@@ -20,7 +20,7 @@ Represents the type of a  **PickerResult** object. Read/write
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## Example

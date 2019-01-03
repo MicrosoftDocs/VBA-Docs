@@ -50,7 +50,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.FormatConditions.Add.md)|
 |[AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)|
@@ -66,7 +66,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.FormatConditions.Application.md)|
 |[Count](Excel.FormatConditions.Count.md)|

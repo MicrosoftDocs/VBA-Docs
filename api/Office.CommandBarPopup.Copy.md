@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Copy Method (Office)
+title: CommandBarPopup.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Copy Method (Office)
+# CommandBarPopup.Copy method (Office)
 
 Copies a command bar popup control to an existing command bar.
 
@@ -20,7 +20,7 @@ Copies a command bar popup control to an existing command bar.
 
  _expression_. `Copy`( `_Bar_`, `_Before_` )
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Parameters

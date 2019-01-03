@@ -14,14 +14,14 @@ Represents the effects scheme of a Microsoft Office theme.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Load](../../Office.ThemeEffectScheme.Load.md)|Loads the effects scheme of a Microsoft Office theme from a file.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeEffectScheme.Application.md)|Gets an **Application** object that represents the container application for the **ThemeEffectScheme** object. Read-only.|
 |[Creator](../../Office.ThemeEffectScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ThemeEffectScheme** object was created. Read-only.|

@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Cancel](Project.EventInfo.Cancel.md)|
 

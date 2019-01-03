@@ -42,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Pages.Add.md)|
 |[AddWizardPage](Publisher.Pages.AddWizardPage.md)|
@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Pages.Application.md)|
 |[Count](Publisher.Pages.Count.md)|

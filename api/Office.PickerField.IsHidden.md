@@ -1,5 +1,5 @@
 ---
-title: PickerField.IsHidden Property (Office)
+title: PickerField.IsHidden property (Office)
 keywords: vbaof11.chm335003
 f1_keywords:
 - vbaof11.chm335003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerField.IsHidden Property (Office)
+# PickerField.IsHidden property (Office)
 
 Specifies whether the Picker field is hidden. Read-only
 
@@ -20,7 +20,7 @@ Specifies whether the Picker field is hidden. Read-only
 
  _expression_. `IsHidden`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

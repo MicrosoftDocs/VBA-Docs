@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Parent Property (Office)
+title: SharedWorkspaceTask.Parent property (Office)
 keywords: vbaof11.chm263013
 f1_keywords:
 - vbaof11.chm263013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Parent Property (Office)
+# SharedWorkspaceTask.Parent property (Office)
 
 Gets the  **Parent** object for the **SharedWorkspaceTask** object. Read-only.
 
@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **SharedWorkspaceTask** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

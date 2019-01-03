@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Move Method (Office)
+title: CommandBarComboBox.Move method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Move
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Move Method (Office)
+# CommandBarComboBox.Move method (Office)
 
 Moves the specified control to an existing command bar.
 

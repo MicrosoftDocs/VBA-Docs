@@ -13,7 +13,7 @@ Represents a Microsoft Office contact card.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Close](../../Office.ContactCard.Close.md)|Closes the contact card.|
 |[Show](../../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
@@ -21,7 +21,7 @@ Represents a Microsoft Office contact card.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ContactCard.Application.md)|Returns an **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.|
 |[Creator](../../Office.ContactCard.Creator.md)|Returns a **Long** that indicates the application in which the **ContactCard** object was created. Read-only.|

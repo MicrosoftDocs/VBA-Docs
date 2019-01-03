@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Add Method (PowerPoint)
 
- Adds a **[CustomXMLPart](./Office.CustomXMLPart.md)** to the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object and returns the **CustomXMLPart** object created.
+ Adds a **[CustomXMLPart](Office.CustomXMLPart.md)** to the **[CustomerData](PowerPoint.CustomerData.md)** collection of a **[CustomLayout](PowerPoint.CustomLayout.md)**, **[Master](PowerPoint.Master.md)**, **[Presentation](PowerPoint.Presentation.md)**, **[Shape](PowerPoint.Shape.md)**, or **[Slide](PowerPoint.Slide.md)** object and returns the **CustomXMLPart** object created.
 
 
 ## Syntax

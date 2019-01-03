@@ -1,5 +1,5 @@
 ---
-title: PictureEffects.Creator Property (Office)
+title: PictureEffects.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects.Creator Property (Office)
+# PictureEffects.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **PictureEffects** object was created. Read-only
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **PictureEffe
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
+ _expression_ An expression that returns a [PictureEffects](Office.PictureEffects.md) object.
 
 
 ## See also

@@ -53,7 +53,7 @@ Workbooks.Open FileName:="Array.xls", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Workbooks.Add.md)|
 |[CanCheckOut](Excel.Workbooks.CanCheckOut.md)|
@@ -68,7 +68,7 @@ Workbooks.Open FileName:="Array.xls", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Workbooks.Application.md)|
 |[Count](Excel.Workbooks.Count.md)|

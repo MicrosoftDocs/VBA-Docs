@@ -14,14 +14,14 @@ Associates a set of permissions on the active document with a single user and an
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Remove](../../Office.UserPermission.Remove.md)|Removes the specified **UserPermission** object from the **[Permission](../../Office.Permission.md)** collection of the active document.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.UserPermission.Application.md)|Gets an **Application** object that represents the container application for the **UserPermission** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.UserPermission.Creator.md)|Gets a 32-bit integer that indicates the application in which the **UserPermission** object was created. Read-only.|

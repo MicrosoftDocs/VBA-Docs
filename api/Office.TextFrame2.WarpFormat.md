@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WarpFormat Property (Office)
+title: TextFrame2.WarpFormat property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.WarpFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.WarpFormat Property (Office)
+# TextFrame2.WarpFormat property (Office)
 
 Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write
 
@@ -17,7 +17,7 @@ Returns or sets the warp format (how the text is warped) for the specified text 
 
  _expression_. `WarpFormat`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

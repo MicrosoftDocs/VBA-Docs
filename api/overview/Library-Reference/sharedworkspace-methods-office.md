@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CreateNew](../../Office.SharedWorkspace.CreateNew.md)|Creates a document workspace site on the server and adds the active document to the new shared workspace site.|
 |[Delete](../../Office.SharedWorkspace.Delete.md)|Deletes the current shared workspace and all data within it.|

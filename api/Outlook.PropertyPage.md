@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.PropertyPage.Apply.md)|
 |[GetPageInfo](Outlook.PropertyPage.GetPageInfo.md)|
@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Dirty](Outlook.PropertyPage.Dirty.md)|
 

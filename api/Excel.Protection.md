@@ -75,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowDeletingColumns](Excel.Protection.AllowDeletingColumns.md)|
 |[AllowDeletingRows](Excel.Protection.AllowDeletingRows.md)|

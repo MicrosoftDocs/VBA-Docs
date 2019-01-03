@@ -41,7 +41,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToFavorites](Word.Hyperlink.AddToFavorites.md)|
 |[CreateNewDocument](Word.Hyperlink.CreateNewDocument.md)|
@@ -52,7 +52,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Word.Hyperlink.Address.md)|
 |[Application](Word.Hyperlink.Application.md)|

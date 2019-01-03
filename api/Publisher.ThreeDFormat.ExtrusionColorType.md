@@ -30,7 +30,7 @@ MsoExtrusionColorType
 
 ## Remarks
 
-The  **ExtrusionColorType** property value can be one of the ** [MsoExtrusionColorType](./Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
+The  **ExtrusionColorType** property value can be one of the ** [MsoExtrusionColorType](Office.MsoExtrusionColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

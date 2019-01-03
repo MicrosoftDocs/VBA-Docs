@@ -25,7 +25,7 @@ Developers can use the  **BeforeSort** event to override Excel's default behavio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.SortField.Delete.md)|
 |[ModifyKey](Excel.SortField.ModifyKey.md)|
@@ -35,7 +35,7 @@ Developers can use the  **BeforeSort** event to override Excel's default behavio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.SortField.Application.md)|
 |[Creator](Excel.SortField.Creator.md)|

@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Demote Method (Office)
+title: SmartArtNode.Demote method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Demote
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Demote Method (Office)
+# SmartArtNode.Demote method (Office)
 
 Demotes the current node a single level within the data model.
 
@@ -17,7 +17,7 @@ Demotes the current node a single level within the data model.
 
 _expression_. `Demote`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

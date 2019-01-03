@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Tag.Delete.md)|
 
@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Tag.Application.md)|
 |[Name](Publisher.Tag.Name.md)|

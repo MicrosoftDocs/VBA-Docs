@@ -1,5 +1,5 @@
 ---
-title: Font2.UnderlineStyle Property (Office)
+title: Font2.UnderlineStyle property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.UnderlineStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.UnderlineStyle Property (Office)
+# Font2.UnderlineStyle property (Office)
 
 Gets or sets a value specifying the underline style for the selected text. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value specifying the underline style for the selected text. Read/
 
  _expression_. `UnderlineStyle`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

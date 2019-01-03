@@ -44,7 +44,7 @@ ReturnVars![name]
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.ReturnVar.Name.md)|
 |[Value](Access.ReturnVar.Value.md)|

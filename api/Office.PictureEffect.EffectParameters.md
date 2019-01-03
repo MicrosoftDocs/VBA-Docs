@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.EffectParameters Property (Office)
+title: PictureEffect.EffectParameters property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.EffectParameters
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.EffectParameters Property (Office)
+# PictureEffect.EffectParameters property (Office)
 
 Returns an  **EffectParameter** object. Read-only
 
@@ -17,7 +17,7 @@ Returns an  **EffectParameter** object. Read-only
 
  _expression_. `EffectParameters`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## Remarks

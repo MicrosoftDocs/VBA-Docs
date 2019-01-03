@@ -32,7 +32,7 @@ MsoArrowheadLength
 
 Use the  **[BeginArrowheadLength](Publisher.LineFormat.BeginArrowheadLength.md)** property to return or set the length of the arrowhead at the beginning of the line.
 
-The  **EndArrowheadLength** property value can be one of the ** [MsoArrowheadLength](./Office.MsoArrowheadLength.md)** constants declared in the Microsoft Office type library.
+The  **EndArrowheadLength** property value can be one of the ** [MsoArrowheadLength](Office.MsoArrowheadLength.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

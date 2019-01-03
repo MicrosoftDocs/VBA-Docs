@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Item Property (Office)
+title: WorkflowTemplate.Item property (Office)
 keywords: vbaof11.chm283001
 f1_keywords:
 - vbaof11.chm283001
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Item Property (Office)
+# WorkflowTemplate.Item property (Office)
 
 Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Read-only.
 

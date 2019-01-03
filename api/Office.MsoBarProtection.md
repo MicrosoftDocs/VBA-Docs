@@ -1,5 +1,5 @@
 ---
-title: MsoBarProtection Enumeration (Office)
+title: MsoBarProtection enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBarProtection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBarProtection Enumeration (Office)
+# MsoBarProtection enumeration (Office)
 
 Specifies how a command bar is protected from user customization.
 

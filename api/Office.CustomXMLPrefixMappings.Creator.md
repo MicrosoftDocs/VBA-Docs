@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.Creator Property (Office)
+title: CustomXMLPrefixMappings.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.Creator Property (Office)
+# CustomXMLPrefixMappings.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLPrefixMappings** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLPr
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Return value

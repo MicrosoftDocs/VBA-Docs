@@ -13,7 +13,7 @@ Contains first-line indent and hanging indent information for an outline level.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.RulerLevel2.Application.md)|Gets an **Application** object that represents the container application for the **RulerLevel2** object. Read-only.|
 |[Creator](../../Office.RulerLevel2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **RulerLevel2** object was created. Read-only.|

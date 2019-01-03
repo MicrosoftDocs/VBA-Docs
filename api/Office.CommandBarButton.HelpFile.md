@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.HelpFile Property (Office)
+title: CommandBarButton.HelpFile property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.HelpFile
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.HelpFile Property (Office)
+# CommandBarButton.HelpFile property (Office)
 
 Gets or sets the file name for the Help topic attached to the  **CommandBarButton** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarButto
 
  _expression_. `HelpFile`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

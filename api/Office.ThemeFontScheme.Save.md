@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.Save Method (Office)
+title: ThemeFontScheme.Save method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Save
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.Save Method (Office)
+# ThemeFontScheme.Save method (Office)
 
 Saves the font scheme of a Microsoft Office theme to a file.
 
@@ -17,7 +17,7 @@ Saves the font scheme of a Microsoft Office theme to a file.
 
  _expression_. `Save`( `_FileName_` )
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+ _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 
 
 ## Parameters

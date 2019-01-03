@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.ItemProperties.Add.md)|
 |[Item](./Outlook.ItemProperties.Item.md)|
@@ -77,7 +77,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.ItemProperties.Application.md)|
 |[Class](./Outlook.ItemProperties.Class.md)|

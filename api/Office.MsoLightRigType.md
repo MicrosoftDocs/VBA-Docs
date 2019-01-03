@@ -1,5 +1,5 @@
 ---
-title: MsoLightRigType Enumeration (Office)
+title: MsoLightRigType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoLightRigType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoLightRigType Enumeration (Office)
+# MsoLightRigType enumeration (Office)
 
 Indicates the effects lighting for an object.
 

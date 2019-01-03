@@ -34,7 +34,7 @@ Use the  **[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)** event to det
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)|
 
@@ -42,7 +42,7 @@ Use the  **[ModuleSwitch](Outlook.NavigationPane.ModuleSwitch.md)** event to det
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationPane.Application.md)|
 |[Class](Outlook.NavigationPane.Class.md)|

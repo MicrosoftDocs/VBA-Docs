@@ -70,7 +70,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.PayRates.Add.md)|
 
@@ -78,7 +78,7 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.PayRates.Application.md)|
 |[Count](Project.PayRates.Count.md)|

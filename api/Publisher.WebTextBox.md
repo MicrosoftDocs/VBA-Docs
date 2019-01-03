@@ -42,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebTextBox.Application.md)|
 |[DefaultText](Publisher.WebTextBox.DefaultText.md)|

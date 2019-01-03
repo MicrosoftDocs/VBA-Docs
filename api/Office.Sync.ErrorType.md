@@ -1,5 +1,5 @@
 ---
-title: Sync.ErrorType Property (Office)
+title: Sync.ErrorType property (Office)
 keywords: vbaof11.chm277005
 f1_keywords:
 - vbaof11.chm277005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.ErrorType Property (Office)
+# Sync.ErrorType property (Office)
 
 Gets a  **MsoSyncErrorType** constant which indicates the type of the most recent document synchronization error. Read-only.
 

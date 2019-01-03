@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveControl](Access.Screen.ActiveControl.md)|
 |[ActiveDatasheet](Access.Screen.ActiveDatasheet.md)|

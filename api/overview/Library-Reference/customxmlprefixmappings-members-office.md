@@ -13,7 +13,7 @@ Represents a collection of **CustomXMLPrefixMapping** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNamespace](../../Office.CustomXMLPrefixMappings.AddNamespace.md)|Allows you to add a custom namespace/prefix mapping to use when querying an item.|
 |[LookupNamespace](../../Office.CustomXMLPrefixMappings.LookupNamespace.md)|Allows you to get the namespace corresponding to the specified prefix.|
@@ -22,7 +22,7 @@ Represents a collection of **CustomXMLPrefixMapping** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPrefixMappings.Application.md)|Gets an **Application** object that represents the container application for the ** CustomXMLPrefixMappings** object. Read-only.|
 |[Count](../../Office.CustomXMLPrefixMappings.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLPrefixMappings** collection. Read-only.|

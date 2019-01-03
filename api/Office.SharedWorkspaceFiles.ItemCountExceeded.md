@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFiles.ItemCountExceeded Property (Office)
+title: SharedWorkspaceFiles.ItemCountExceeded property (Office)
 keywords: vbaof11.chm267005
 f1_keywords:
 - vbaof11.chm267005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFiles.ItemCountExceeded Property (Office)
+# SharedWorkspaceFiles.ItemCountExceeded property (Office)
 
 Gets a  **Boolean** value indicating whether the number of files allowed in the shared workspace has been exceeded. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **Boolean** value indicating whether the number of files allowed in the 
 
  _expression_. `ItemCountExceeded`
 
- _expression_ An expression that returns a [SharedWorkspaceFiles](./Office.SharedWorkspaceFiles.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md) object.
 
 
 ## Return value

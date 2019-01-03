@@ -84,7 +84,7 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddPeriods](./PowerPoint.TextRange.AddPeriods.md)|
 |[ChangeCase](./PowerPoint.TextRange.ChangeCase.md)|
@@ -117,7 +117,7 @@ Use one of the following methods to insert characters into a  **TextRange** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionSettings](./PowerPoint.TextRange.ActionSettings.md)|
 |[Application](./PowerPoint.TextRange.Application.md)|

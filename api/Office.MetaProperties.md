@@ -1,5 +1,5 @@
 ---
-title: MetaProperties Object (Office)
+title: MetaProperties object (Office)
 keywords: vbaof11.chm274000
 f1_keywords:
 - vbaof11.chm274000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties Object (Office)
+# MetaProperties object (Office)
 
 Represents a collection of properties describing the metadata stored in a document.
 

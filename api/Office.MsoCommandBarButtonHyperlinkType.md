@@ -1,5 +1,5 @@
 ---
-title: MsoCommandBarButtonHyperlinkType Enumeration (Office)
+title: MsoCommandBarButtonHyperlinkType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCommandBarButtonHyperlinkType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCommandBarButtonHyperlinkType Enumeration (Office)
+# MsoCommandBarButtonHyperlinkType enumeration (Office)
 
 Specifies whether the command bar button is a hyperlink. If the command bar button is a hyperlink, further specifies whether the hyperlink should launch another application such as the browser or insert a picture at the active selection point.
 

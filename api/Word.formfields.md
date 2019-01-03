@@ -60,7 +60,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.FormFields.Add.md)|
 |[Item](Word.FormFields.Item.md)|
@@ -69,7 +69,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.FormFields.Application.md)|
 |[Count](Word.FormFields.Count.md)|

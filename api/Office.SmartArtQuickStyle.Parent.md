@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Parent Property (Office)
+title: SmartArtQuickStyle.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Parent Property (Office)
+# SmartArtQuickStyle.Parent property (Office)
 
 Returns the calling object. Read-only
 
@@ -17,7 +17,7 @@ Returns the calling object. Read-only
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

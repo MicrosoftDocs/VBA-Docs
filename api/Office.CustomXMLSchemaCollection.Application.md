@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.Application Property (Office)
+title: CustomXMLSchemaCollection.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.Application Property (Office)
+# CustomXMLSchemaCollection.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
+ _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 
 
 ## Return value

@@ -47,7 +47,7 @@ objFirst = saPage.Shapes(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ScratchArea.Application.md)|
 |[Parent](Publisher.ScratchArea.Parent.md)|

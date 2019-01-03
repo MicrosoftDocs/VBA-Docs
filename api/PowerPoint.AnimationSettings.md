@@ -54,7 +54,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceMode](./PowerPoint.AnimationSettings.AdvanceMode.md)|
 |[AdvanceTime](./PowerPoint.AnimationSettings.AdvanceTime.md)|

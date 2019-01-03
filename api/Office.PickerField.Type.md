@@ -1,5 +1,5 @@
 ---
-title: PickerField.Type Property (Office)
+title: PickerField.Type property (Office)
 ms.prod: office
 api_name:
 - Office.PickerField.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerField.Type Property (Office)
+# PickerField.Type property (Office)
 
 The type of the Picker field. Read-only
 
@@ -17,7 +17,7 @@ The type of the Picker field. Read-only
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

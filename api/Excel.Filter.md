@@ -49,7 +49,7 @@ w.Cells.AutoFilter field:=2, Criteria1:="Crucial", _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Filter.Application.md)|
 |[Count](Excel.Filter.Count.md)|

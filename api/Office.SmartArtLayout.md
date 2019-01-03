@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout Object (Office)
+title: SmartArtLayout object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout Object (Office)
+# SmartArtLayout object (Office)
 
 Represents a Smart Art diagram.
 

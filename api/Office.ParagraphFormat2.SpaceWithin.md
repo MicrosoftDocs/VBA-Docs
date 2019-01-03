@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.SpaceWithin Property (Office)
+title: ParagraphFormat2.SpaceWithin property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.SpaceWithin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.SpaceWithin Property (Office)
+# ParagraphFormat2.SpaceWithin property (Office)
 
 Gets or sets the amount of space between base lines in the specified paragraph, in points or lines. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the amount of space between base lines in the specified paragraph, 
 
  _expression_. `SpaceWithin`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

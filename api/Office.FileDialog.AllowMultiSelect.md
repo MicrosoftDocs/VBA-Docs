@@ -1,5 +1,5 @@
 ---
-title: FileDialog.AllowMultiSelect Property (Office)
+title: FileDialog.AllowMultiSelect property (Office)
 keywords: vbaof11.chm256006
 f1_keywords:
 - vbaof11.chm256006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.AllowMultiSelect Property (Office)
+# FileDialog.AllowMultiSelect property (Office)
 
 Is  **True** if the user is allowed to select multiple files from a file dialog box. Read/write.
 
@@ -20,7 +20,7 @@ Is  **True** if the user is allowed to select multiple files from a file dialog 
 
  _expression_. `AllowMultiSelect`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Remarks

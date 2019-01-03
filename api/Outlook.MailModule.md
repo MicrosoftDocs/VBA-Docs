@@ -30,7 +30,7 @@ You can use the  **[Visible](Outlook.MailModule.Visible.md)** property to determ
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.MailModule.Application.md)|
 |[Class](Outlook.MailModule.Class.md)|

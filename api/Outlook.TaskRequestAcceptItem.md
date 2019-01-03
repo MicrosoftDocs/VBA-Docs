@@ -29,7 +29,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestAcceptItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.TaskRequestAcceptItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.TaskRequestAcceptItem.AttachmentAdd.md)|
@@ -62,7 +62,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestAcceptItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.TaskRequestAcceptItem.Close(method).md)|
 |[Copy](Outlook.TaskRequestAcceptItem.Copy.md)|
@@ -80,7 +80,7 @@ Use the  **[GetAssociatedTask](Outlook.TaskRequestAcceptItem.GetAssociatedTask.m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.TaskRequestAcceptItem.Actions.md)|
 |[Application](Outlook.TaskRequestAcceptItem.Application.md)|

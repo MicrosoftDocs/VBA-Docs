@@ -175,7 +175,7 @@ End Sub
 
 ## Events
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.ComboBox.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.ComboBox.BeforeUpdate(even).md)|
@@ -200,7 +200,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Access.ComboBox.AddItem.md)|
 |[Dropdown](Access.ComboBox.Dropdown.md)|
@@ -215,7 +215,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.ComboBox.AddColon.md)|
 |[AfterUpdate](Access.ComboBox.AfterUpdate(property).md)|

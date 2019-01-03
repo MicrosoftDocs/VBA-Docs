@@ -1,5 +1,5 @@
 ---
-title: MsoOrgChartOrientation Enumeration (Office)
+title: MsoOrgChartOrientation enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoOrgChartOrientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoOrgChartOrientation Enumeration (Office)
+# MsoOrgChartOrientation enumeration (Office)
 
 Specifies orientation of an organization chart.
 

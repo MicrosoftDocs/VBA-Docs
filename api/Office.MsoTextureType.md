@@ -1,5 +1,5 @@
 ---
-title: MsoTextureType Enumeration (Office)
+title: MsoTextureType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextureType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextureType Enumeration (Office)
+# MsoTextureType enumeration (Office)
 
 Specifies the texture type for the selected fill.
 

@@ -29,7 +29,7 @@ For more information about external content types, see [What Are External Conten
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.Entities.Count.md)|
 |[Item](Access.Entities.Item.md)|

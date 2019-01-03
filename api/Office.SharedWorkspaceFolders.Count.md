@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders.Count Property (Office)
+title: SharedWorkspaceFolders.Count property (Office)
 keywords: vbaof11.chm269002
 f1_keywords:
 - vbaof11.chm269002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders.Count Property (Office)
+# SharedWorkspaceFolders.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SharedWorkspaceFolders** collection. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceFolders*
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](./Office.SharedWorkspaceFolders.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

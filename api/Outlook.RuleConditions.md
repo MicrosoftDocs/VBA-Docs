@@ -31,7 +31,7 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](./Outlook.RuleConditions.Item.md)|
 
@@ -39,7 +39,7 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Account](./Outlook.RuleConditions.Account.md)|
 |[AnyCategory](./Outlook.RuleConditions.AnyCategory.md)|

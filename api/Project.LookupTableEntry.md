@@ -24,7 +24,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.LookupTableEntry.Delete.md)|
 
@@ -32,7 +32,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.LookupTableEntry.Application.md)|
 |[Cookie](Project.LookupTableEntry.Cookie.md)|

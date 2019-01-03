@@ -1,5 +1,5 @@
 ---
-title: MsoSignatureSubset Enumeration (Office)
+title: MsoSignatureSubset enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSignatureSubset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSignatureSubset Enumeration (Office)
+# MsoSignatureSubset enumeration (Office)
 
 Specifies properties of the signature subset. These settings act as filters for signature sets.
 

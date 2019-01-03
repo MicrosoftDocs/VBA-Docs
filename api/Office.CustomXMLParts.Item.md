@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Item Property (Office)
+title: CustomXMLParts.Item property (Office)
 keywords: vbaof11.chm298003
 f1_keywords:
 - vbaof11.chm298003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Item Property (Office)
+# CustomXMLParts.Item property (Office)
 
 Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

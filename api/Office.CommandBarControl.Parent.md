@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Parent Property (Office)
+title: CommandBarControl.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Parent Property (Office)
+# CommandBarControl.Parent property (Office)
 
 Gets the  **Parent** object for the **CommandBarControl** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CommandBarControl** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

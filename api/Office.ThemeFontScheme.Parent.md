@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.Parent Property (Office)
+title: ThemeFontScheme.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.Parent Property (Office)
+# ThemeFontScheme.Parent property (Office)
 
 Gets the  **Parent** object for the **ThemeFontScheme** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **ThemeFontScheme** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+ _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 
 
 ## Return value

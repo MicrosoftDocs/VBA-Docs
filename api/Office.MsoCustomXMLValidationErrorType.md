@@ -1,5 +1,5 @@
 ---
-title: MsoCustomXMLValidationErrorType Enumeration (Office)
+title: MsoCustomXMLValidationErrorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCustomXMLValidationErrorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCustomXMLValidationErrorType Enumeration (Office)
+# MsoCustomXMLValidationErrorType enumeration (Office)
 
 Indicates how validation errors will be cleared or generated.
 

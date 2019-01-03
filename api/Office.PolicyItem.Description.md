@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Description Property (Office)
+title: PolicyItem.Description property (Office)
 keywords: vbaof11.chm278023
 f1_keywords:
 - vbaof11.chm278023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Description Property (Office)
+# PolicyItem.Description property (Office)
 
 Gets a description of the current state of the policy item. Read-only.
 
@@ -20,7 +20,7 @@ Gets a description of the current state of the policy item. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

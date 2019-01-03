@@ -46,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ControlProperty](Outlook.OlkControl.ControlProperty.md)|
 |[EnableAutoLayout](Outlook.OlkControl.EnableAutoLayout.md)|

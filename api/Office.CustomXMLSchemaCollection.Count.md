@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.Count Property (Office)
+title: CustomXMLSchemaCollection.Count property (Office)
 keywords: vbaof11.chm292002
 f1_keywords:
 - vbaof11.chm292002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.Count Property (Office)
+# CustomXMLSchemaCollection.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLSchemaCollecti
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
+ _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 
 
 ## Return value

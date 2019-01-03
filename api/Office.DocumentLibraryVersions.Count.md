@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions.Count Property (Office)
+title: DocumentLibraryVersions.Count property (Office)
 keywords: vbaof11.chm277028
 f1_keywords:
 - vbaof11.chm277028
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions.Count Property (Office)
+# DocumentLibraryVersions.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **DocumentLibraryVersions** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **DocumentLibraryVersions
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [DocumentLibraryVersions](./Office.DocumentLibraryVersions.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
 
 
 ## Return value

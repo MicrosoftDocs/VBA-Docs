@@ -1,5 +1,5 @@
 ---
-title: CommandBar.BuiltIn Property (Office)
+title: CommandBar.BuiltIn property (Office)
 keywords: vbaof11.chm3001
 f1_keywords:
 - vbaof11.chm3001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.BuiltIn Property (Office)
+# CommandBar.BuiltIn property (Office)
 
 Gets  **True** if the specified command bar is a built-in command bar of the container application. Returns **False** if it is a custom command bar. Read-only.
 
@@ -23,7 +23,7 @@ Gets  **True** if the specified command bar is a built-in command bar of the con
 
  _expression_. `BuiltIn`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

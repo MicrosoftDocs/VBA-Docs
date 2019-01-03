@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SelectSignatureCertificate Method (Office)
+title: SignatureInfo.SelectSignatureCertificate method (Office)
 keywords: vbaof11.chm286015
 f1_keywords:
 - vbaof11.chm286015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SelectSignatureCertificate Method (Office)
+# SignatureInfo.SelectSignatureCertificate method (Office)
 
 Displays a dialog box that allows users to select which signature certificate to use for signing a document.
 
@@ -20,7 +20,7 @@ Displays a dialog box that allows users to select which signature certificate to
 
  _expression_. `SelectSignatureCertificate`( `_ParentWindow_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

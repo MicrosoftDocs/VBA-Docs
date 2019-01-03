@@ -1,5 +1,5 @@
 ---
-title: MsoSyncErrorType Enumeration (Office)
+title: MsoSyncErrorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSyncErrorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSyncErrorType Enumeration (Office)
+# MsoSyncErrorType enumeration (Office)
 
 Specifies a document synchronization error.
 

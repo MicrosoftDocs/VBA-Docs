@@ -1,5 +1,5 @@
 ---
-title: MsoCalloutAngleType Enumeration (Office)
+title: MsoCalloutAngleType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCalloutAngleType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCalloutAngleType Enumeration (Office)
+# MsoCalloutAngleType enumeration (Office)
 
 Specifies the size of the angle between the callout line and the side of the callout text box.
 

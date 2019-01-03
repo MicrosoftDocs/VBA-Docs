@@ -1,5 +1,5 @@
 ---
-title: FileDialog.InitialFileName Property (Office)
+title: FileDialog.InitialFileName property (Office)
 keywords: vbaof11.chm256008
 f1_keywords:
 - vbaof11.chm256008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.InitialFileName Property (Office)
+# FileDialog.InitialFileName property (Office)
 
 Set or returns a  **String** representing the path or file name that is initially displayed in a file dialog box. Read/write.
 
@@ -20,7 +20,7 @@ Set or returns a  **String** representing the path or file name that is initiall
 
  _expression_. `InitialFileName`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Remarks

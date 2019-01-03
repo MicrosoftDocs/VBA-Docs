@@ -20,7 +20,7 @@ Represents a chart in a presentation.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyChartTemplate](./PowerPoint.Chart.ApplyChartTemplate.md)|
 |[ApplyDataLabels](./PowerPoint.Chart.ApplyDataLabels.md)|
@@ -50,7 +50,7 @@ Represents a chart in a presentation.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlternativeText](./PowerPoint.Chart.AlternativeText.md)|
 |[Application](./PowerPoint.Chart.Application.md)|

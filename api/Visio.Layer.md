@@ -29,7 +29,7 @@ A layer's  **Index** and **Row** properties typically have different values. The
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Layer.Add.md)|
 |[Delete](./Visio.Layer.Delete.md)|
@@ -39,7 +39,7 @@ A layer's  **Index** and **Row** properties typically have different values. The
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Layer.Application.md)|
 |[CellsC](./Visio.Layer.CellsC.md)|

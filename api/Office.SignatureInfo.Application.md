@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.Application Property (Office)
+title: SignatureInfo.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureInfo.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.Application Property (Office)
+# SignatureInfo.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SignatureInfo** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Sync.ResolveConflict Method (Office)
+title: Sync.ResolveConflict method (Office)
 keywords: vbaof11.chm277010
 f1_keywords:
 - vbaof11.chm277010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.ResolveConflict Method (Office)
+# Sync.ResolveConflict method (Office)
 
 Resolves conflicts between the local and the server copies of a shared document.
 
@@ -23,7 +23,7 @@ Resolves conflicts between the local and the server copies of a shared document.
 
  _expression_. `ResolveConflict`( `_SyncConflictResolution_` )
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Parameters

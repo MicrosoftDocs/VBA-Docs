@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Clear Method (Office)
+title: CommandBarComboBox.Clear method (Office)
 keywords: vbaof11.chm8002
 f1_keywords:
 - vbaof11.chm8002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Clear Method (Office)
+# CommandBarComboBox.Clear method (Office)
 
 Removes all list items from a command bar combo box control (a drop-down list box or a combo box).
 
@@ -23,7 +23,7 @@ Removes all list items from a command bar combo box control (a drop-down list bo
 
  _expression_. `Clear`
 
- _expression_ An expression that returns a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ An expression that returns a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

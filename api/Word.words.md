@@ -75,7 +75,7 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Words.Item.md)|
 
@@ -83,7 +83,7 @@ ActiveDocument.Range.Words(1).InsertAfter "New text "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Words.Application.md)|
 |[Count](Word.Words.Count.md)|

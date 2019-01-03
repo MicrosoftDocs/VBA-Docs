@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup Object (Office)
+title: CommandBarPopup object (Office)
 keywords: vbaof11.chm7000
 f1_keywords:
 - vbaof11.chm7000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup Object (Office)
+# CommandBarPopup object (Office)
 
 Represents a pop-up control on a command bar.
 

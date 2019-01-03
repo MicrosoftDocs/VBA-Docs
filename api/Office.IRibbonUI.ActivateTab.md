@@ -1,5 +1,5 @@
 ---
-title: IRibbonUI.ActivateTab Method (Office)
+title: IRibbonUI.ActivateTab method (Office)
 keywords: vbaof11.chm320004
 f1_keywords:
 - vbaof11.chm320004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonUI.ActivateTab Method (Office)
+# IRibbonUI.ActivateTab method (Office)
 
 Activates the specified custom tab. This method returns S_FALSE if there is no Ribbon or the Ribbon is collapsed.
 
@@ -20,7 +20,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
 
  _expression_. `ActivateTab`( `_ControlID_` )
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters

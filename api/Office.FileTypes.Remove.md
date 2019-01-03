@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Remove Method (Office)
+title: FileTypes.Remove method (Office)
 keywords: vbaof11.chm257004
 f1_keywords:
 - vbaof11.chm257004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes.Remove Method (Office)
+# FileTypes.Remove method (Office)
 
 Removes a  **FileType** object from the collection.
 

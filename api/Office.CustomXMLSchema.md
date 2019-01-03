@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema Object (Office)
+title: CustomXMLSchema object (Office)
 keywords: vbaof11.chm291000
 f1_keywords:
 - vbaof11.chm291000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema Object (Office)
+# CustomXMLSchema object (Office)
 
 Represents a schema in a  **CustomXMLSchemaCollection** collection.
 
@@ -33,7 +33,7 @@ SchemaCollection.Add "https://tempuri.org/XMLSchema.xsd"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.CustomXMLSchema.Delete.md)|
 |[Reload](Office.CustomXMLSchema.Reload.md)|
@@ -42,7 +42,7 @@ SchemaCollection.Add "https://tempuri.org/XMLSchema.xsd"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLSchema.Application.md)|
 |[Creator](Office.CustomXMLSchema.Creator.md)|

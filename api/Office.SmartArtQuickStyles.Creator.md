@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyles.Creator Property (Office)
+title: SmartArtQuickStyles.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyles.Creator Property (Office)
+# SmartArtQuickStyles.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SmartArtQuickStyles** object was created. Read-only
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtQui
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyles](Office.SmartArtQuickStyles.md) object.
 
 
 ## See also

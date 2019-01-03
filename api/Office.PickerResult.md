@@ -1,5 +1,5 @@
 ---
-title: PickerResult Object (Office)
+title: PickerResult object (Office)
 keywords: vbaof11.chm338000
 f1_keywords:
 - vbaof11.chm338000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult Object (Office)
+# PickerResult object (Office)
 
 Represents a resolved or selected item of data.
 
@@ -48,7 +48,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerResult.Application.md)|
 |[Creator](Office.PickerResult.Creator.md)|

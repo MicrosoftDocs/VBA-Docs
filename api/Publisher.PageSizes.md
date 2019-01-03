@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PageSizes.Application.md)|
 |[Count](./Publisher.PageSizes.Count.md)|

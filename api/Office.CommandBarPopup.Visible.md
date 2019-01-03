@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Visible Property (Office)
+title: CommandBarPopup.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Visible Property (Office)
+# CommandBarPopup.Visible property (Office)
 
 Gets or sets the  **Visible** property of the **CommandBarPopup** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the  **Visible** property of the **CommandBarPopup** control. Read/
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

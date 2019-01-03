@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.ProgId Property (Office)
+title: COMAddIn.ProgId property (Office)
 keywords: vbaof11.chm219003
 f1_keywords:
 - vbaof11.chm219003
@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.COMAddIn.ProgId
 ms.assetid: eb917d53-512e-35dd-ff70-ac7b976e6500
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
-# COMAddIn.ProgId Property (Office)
+# COMAddIn.ProgId property (Office)
 
-Gets the programmatic identifier (ProgID) for the specified  **COMAddIn** object. Read-only.
+Gets the programmatic identifier (ProgID) for the specified **COMAddIn** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `ProgId`
+_expression_.**ProgId**
 
- _expression_ A variable that represents a [COMAddIn](./Office.COMAddIn.md) object.
+_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
 
 
 ## Example
@@ -38,10 +38,5 @@ MsgBox "My ProgID is " &amp; _
 
 ## See also
 
-
-[COMAddIn Object](Office.COMAddIn.md)
-
-
-
-[COMAddIn Object Members](./overview/Library-Reference/comaddin-members-office.md)
+- [COMAddIn object members](overview/Library-Reference/comaddin-members-office.md)
 

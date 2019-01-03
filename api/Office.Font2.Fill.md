@@ -1,5 +1,5 @@
 ---
-title: Font2.Fill Property (Office)
+title: Font2.Fill property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Fill
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Fill Property (Office)
+# Font2.Fill property (Office)
 
 Gets the formatting properties for the font of the specified text. Read-only
 
@@ -17,7 +17,7 @@ Gets the formatting properties for the font of the specified text. Read-only
 
  _expression_. `Fill`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Example

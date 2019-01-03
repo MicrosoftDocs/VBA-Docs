@@ -63,7 +63,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.DataLabel.Delete.md)|
 |[Select](Excel.DataLabel.Select.md)|
@@ -72,7 +72,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.DataLabel.Application.md)|
 |[AutoText](Excel.DataLabel.AutoText.md)|

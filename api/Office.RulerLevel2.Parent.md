@@ -1,5 +1,5 @@
 ---
-title: RulerLevel2.Parent Property (Office)
+title: RulerLevel2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevel2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevel2.Parent Property (Office)
+# RulerLevel2.Parent property (Office)
 
 Gets the  **Parent** object for the **RulerLevel2** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **RulerLevel2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Colors](../../Office.ThemeColorScheme.Colors.md)|Gets an object that represents a color in the color scheme of a Microsoft Office theme.|
 |[GetCustomColor](../../Office.ThemeColorScheme.GetCustomColor.md)|Gets a value that represents a color in the color scheme of a Microsoft Office theme. |

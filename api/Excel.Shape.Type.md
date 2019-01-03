@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Type property (Excel)
 
-Returns or sets a  **[MsoShapeType](./Office.MsoShapeType.md)** value that represents the shape type.
+Returns or sets a  **[MsoShapeType](Office.MsoShapeType.md)** value that represents the shape type.
 
 
 ## Syntax

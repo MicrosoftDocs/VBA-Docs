@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember.DomainName Property (Office)
+title: SharedWorkspaceMember.DomainName property (Office)
 keywords: vbaof11.chm272001
 f1_keywords:
 - vbaof11.chm272001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMember.DomainName Property (Office)
+# SharedWorkspaceMember.DomainName property (Office)
 
 Gets the domain and user name of the specified [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) in the format domain\user. Read-only.
 
@@ -20,7 +20,7 @@ Gets the domain and user name of the specified [SharedWorkspaceMember](Office.Sh
 
  _expression_. `DomainName`
 
- _expression_ A variable that represents a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Example

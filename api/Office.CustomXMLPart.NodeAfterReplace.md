@@ -20,7 +20,7 @@ Occurs just after a node is replaced in a  **CustomXMLPart** object.
 
  _expression_. `NodeAfterReplace`( `_OldNode_`, `_NewNode_`, `_InUndoRedo_` )
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Parameters

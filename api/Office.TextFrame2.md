@@ -1,5 +1,5 @@
 ---
-title: TextFrame2 Object (Office)
+title: TextFrame2 object (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2 Object (Office)
+# TextFrame2 object (Office)
 
 Represents the text frame in a  **Shape** or **ShapeRange** object. Contains the text in the text frame and exposes properties and methods that control the alignment and anchoring of the text frame.
 
@@ -40,7 +40,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DeleteText](Office.TextFrame2.DeleteText.md)|
 
@@ -48,7 +48,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TextFrame2.Application.md)|
 |[AutoSize](Office.TextFrame2.AutoSize.md)|

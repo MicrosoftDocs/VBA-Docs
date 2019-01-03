@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.CertificateVerificationResults Property (Office)
+title: SignatureInfo.CertificateVerificationResults property (Office)
 keywords: vbaof11.chm286009
 f1_keywords:
 - vbaof11.chm286009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.CertificateVerificationResults Property (Office)
+# SignatureInfo.CertificateVerificationResults property (Office)
 
 Gets the results from the verification of a digital certificate. Read-only.
 
@@ -20,7 +20,7 @@ Gets the results from the verification of a digital certificate. Read-only.
 
  _expression_. `CertificateVerificationResults`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

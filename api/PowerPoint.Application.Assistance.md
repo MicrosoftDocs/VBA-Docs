@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (PowerPoint)
 
-Gets a reference to the Microsoft Office  **[IAssistance](./Office.IAssistance.md)** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
+Gets a reference to the Microsoft Office  **[IAssistance](Office.IAssistance.md)** object, which provides a means for developers to create a customized help experience for users within Microsoft Office. Read-only.
 
 
 ## Syntax

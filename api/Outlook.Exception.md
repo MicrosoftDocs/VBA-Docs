@@ -70,7 +70,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Exception.Application.md)|
 |[AppointmentItem](Outlook.Exception.AppointmentItem.md)|

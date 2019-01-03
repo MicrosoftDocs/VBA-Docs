@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Creator Property (Office)
+title: CustomXMLParts.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLParts.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Creator Property (Office)
+# CustomXMLParts.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLParts** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLPa
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Return value

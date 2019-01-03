@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Application Property (Office)
+title: SmartArt.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Application Property (Office)
+# SmartArt.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SmartArt** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+ _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## See also

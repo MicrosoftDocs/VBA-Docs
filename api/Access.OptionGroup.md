@@ -34,7 +34,7 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.OptionGroup.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.OptionGroup.BeforeUpdate(even).md)|
@@ -50,7 +50,7 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.OptionGroup.Move.md)|
 |[Requery](Access.OptionGroup.Requery.md)|
@@ -62,7 +62,7 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.OptionGroup.AddColon.md)|
 |[AfterUpdate](Access.OptionGroup.AfterUpdate(property).md)|

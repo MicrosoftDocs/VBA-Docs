@@ -1,5 +1,5 @@
 ---
-title: MsoBlackWhiteMode Enumeration (Office)
+title: MsoBlackWhiteMode enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBlackWhiteMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBlackWhiteMode Enumeration (Office)
+# MsoBlackWhiteMode enumeration (Office)
 
 Specifies how a shape appears when viewed in black-and-white mode.
 

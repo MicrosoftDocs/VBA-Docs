@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Id Property (Office)
+title: CommandBarButton.Id property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Id Property (Office)
+# CommandBarButton.Id property (Office)
 
 Gets the ID for a built-in  **CommandBarButton** control. Read-only.
 

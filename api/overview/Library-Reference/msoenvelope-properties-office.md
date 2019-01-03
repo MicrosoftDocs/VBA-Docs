@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CommandBars](../../Office.MsoEnvelope.CommandBars.md)|Gets a  **CommandBars** collection. Read-only.|
 |[Introduction](../../Office.MsoEnvelope.Introduction.md)|Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the email. Read/write.|

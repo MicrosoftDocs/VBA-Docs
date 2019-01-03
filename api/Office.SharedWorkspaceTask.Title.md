@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Title Property (Office)
+title: SharedWorkspaceTask.Title property (Office)
 keywords: vbaof11.chm264001
 f1_keywords:
 - vbaof11.chm264001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Title Property (Office)
+# SharedWorkspaceTask.Title property (Office)
 
 Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
@@ -23,7 +23,7 @@ Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
  _expression_. `Title`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

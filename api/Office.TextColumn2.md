@@ -1,5 +1,5 @@
 ---
-title: TextColumn2 Object (Office)
+title: TextColumn2 object (Office)
 ms.prod: office
 api_name:
 - Office.TextColumn2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2 Object (Office)
+# TextColumn2 object (Office)
 
 Represents a single text column. The  **TextColumn2** object is a member of the **TextColumns2** collection.
 
@@ -35,7 +35,7 @@ ActiveDocument.PageSetup.TextColumns2.Add _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TextColumn2.Application.md)|
 |[Creator](Office.TextColumn2.Creator.md)|

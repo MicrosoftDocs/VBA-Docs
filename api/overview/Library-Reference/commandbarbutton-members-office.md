@@ -13,14 +13,14 @@ Represents a button control on a command bar.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Click](../../Office.CommandBarButton.Click.md)|Occurs when the user clicks a **CommandBarButton** object.|
 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarButton.Copy.md)|Copies a command bar button control to an existing command bar.|
 |[CopyFace](../../Office.CommandBarButton.CopyFace.md)|Copies the face of a command bar button control to the Clipboard.|
@@ -34,7 +34,7 @@ Represents a button control on a command bar.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarButton.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarButton** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[BeginGroup](../../Office.CommandBarButton.BeginGroup.md)|Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|

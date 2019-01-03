@@ -1,5 +1,5 @@
 ---
-title: MsoArrowheadStyle Enumeration (Office)
+title: MsoArrowheadStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoArrowheadStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoArrowheadStyle Enumeration (Office)
+# MsoArrowheadStyle enumeration (Office)
 
 Specifies the style of the arrowhead at the end of a line.
 

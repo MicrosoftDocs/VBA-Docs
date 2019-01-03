@@ -63,7 +63,7 @@ MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OpenAsDocument](Word.Template.OpenAsDocument.md)|
 |[Save](Word.Template.Save.md)|
@@ -72,7 +72,7 @@ MsgBox Options.DefaultFilePath(wdUserTemplatesPath)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Template.Application.md)|
 |[BuildingBlockEntries](Word.Template.BuildingBlockEntries.md)|

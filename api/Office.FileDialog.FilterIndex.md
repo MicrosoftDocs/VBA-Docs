@@ -1,5 +1,5 @@
 ---
-title: FileDialog.FilterIndex Property (Office)
+title: FileDialog.FilterIndex property (Office)
 keywords: vbaof11.chm256003
 f1_keywords:
 - vbaof11.chm256003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.FilterIndex Property (Office)
+# FileDialog.FilterIndex property (Office)
 
 Gets or sets a  **Long** indicating the default file filter of a file dialog box. The default filter determines which types of files are displayed when the file dialog box is first opened. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a  **Long** indicating the default file filter of a file dialog box
 
  _expression_. `FilterIndex`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Remarks

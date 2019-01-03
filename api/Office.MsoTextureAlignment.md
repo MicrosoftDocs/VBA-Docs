@@ -1,5 +1,5 @@
 ---
-title: MsoTextureAlignment Enumeration (Office)
+title: MsoTextureAlignment enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextureAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextureAlignment Enumeration (Office)
+# MsoTextureAlignment enumeration (Office)
 
 Specifies the alignment (the origin of the coordinate grid) for the tiling of the texture fill.
 

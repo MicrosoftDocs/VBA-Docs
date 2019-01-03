@@ -1,5 +1,5 @@
 ---
-title: MsoCustomXMLNodeType Enumeration (Office)
+title: MsoCustomXMLNodeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCustomXMLNodeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCustomXMLNodeType Enumeration (Office)
+# MsoCustomXMLNodeType enumeration (Office)
 
 Specifies the node type.
 

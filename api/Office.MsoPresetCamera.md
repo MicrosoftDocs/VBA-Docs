@@ -1,5 +1,5 @@
 ---
-title: MsoPresetCamera Enumeration (Office)
+title: MsoPresetCamera enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetCamera
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetCamera Enumeration (Office)
+# MsoPresetCamera enumeration (Office)
 
 Indicates the effects camera type used by the specified object.
 

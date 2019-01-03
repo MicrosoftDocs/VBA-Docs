@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Creator Property (Office)
+title: SoftEdgeFormat.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SoftEdgeFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Creator Property (Office)
+# SoftEdgeFormat.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SoftEdgeFormat** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SoftEdgeFor
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SoftEdgeFormat](./Office.SoftEdgeFormat.md) object.
+ _expression_ An expression that returns a [SoftEdgeFormat](Office.SoftEdgeFormat.md) object.
 
 
 ## Return value

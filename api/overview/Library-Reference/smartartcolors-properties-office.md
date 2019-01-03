@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtColors.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtColors** object. Read-only|
 |[Count](../../Office.SmartArtColors.Count.md)|Retrieves the count of the number of  **SmartArtColor** objects contained within the **SmartArtColors** collection. Read-only|

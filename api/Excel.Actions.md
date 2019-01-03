@@ -20,7 +20,7 @@ A collection of all [Action](Excel.Action.md) objects for the specified series.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Actions.Application.md)|
 |[Count](Excel.Actions.Count.md)|

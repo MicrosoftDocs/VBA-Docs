@@ -1,5 +1,5 @@
 ---
-title: SignatureType Enumeration (Office)
+title: SignatureType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.SignatureType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureType Enumeration (Office)
+# SignatureType enumeration (Office)
 
 Specifies properties of a signature.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoSyncStatusType Enumeration (Office)
+title: MsoSyncStatusType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSyncStatusType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSyncStatusType Enumeration (Office)
+# MsoSyncStatusType enumeration (Office)
 
 Specifies the status of the synchronization of the local copy of the active document with the server copy. Used with the  **Status** property of the **Sync** object.
 

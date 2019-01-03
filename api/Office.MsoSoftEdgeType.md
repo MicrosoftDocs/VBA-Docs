@@ -1,5 +1,5 @@
 ---
-title: MsoSoftEdgeType Enumeration (Office)
+title: MsoSoftEdgeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSoftEdgeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSoftEdgeType Enumeration (Office)
+# MsoSoftEdgeType enumeration (Office)
 
 
 

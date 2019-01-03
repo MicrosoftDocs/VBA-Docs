@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetUpdate](../../Office.GetUpdate.md)|Compares the local version of the shared document to the version on the server.|
 |[OpenVersion](../../Office.Sync.OpenVersion.md)|Opens a different version of the shared document alongside the currently open local version.|

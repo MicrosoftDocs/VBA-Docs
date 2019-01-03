@@ -22,7 +22,7 @@ Use the  **[Item](./Project.ActualStartDrivers.Item.md)** property to get a sing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.ActualStartDrivers.Application.md)|
 |[Count](./Project.ActualStartDrivers.Count.md)|

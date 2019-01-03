@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.CopyFace Method (Office)
+title: CommandBarButton.CopyFace method (Office)
 keywords: vbaof11.chm6002
 f1_keywords:
 - vbaof11.chm6002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.CopyFace Method (Office)
+# CommandBarButton.CopyFace method (Office)
 
 Copies the face of a command bar button control to the Clipboard.
 
@@ -23,7 +23,7 @@ Copies the face of a command bar button control to the Clipboard.
 
  _expression_. `CopyFace`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

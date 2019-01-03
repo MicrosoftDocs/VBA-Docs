@@ -1,5 +1,5 @@
 ---
-title: PolicyItem Object (Office)
+title: PolicyItem object (Office)
 keywords: vbaof11.chm278020
 f1_keywords:
 - vbaof11.chm278020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem Object (Office)
+# PolicyItem object (Office)
 
 Represents an item within a  **ServerPolicy** object that contains the settings for one policy.
 
@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PolicyItem.Application.md)|
 |[Creator](Office.PolicyItem.Creator.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.DocumentProperty.Delete.md)|Removes a custom document property.|
 

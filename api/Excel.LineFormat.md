@@ -45,7 +45,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.LineFormat.Application.md)|
 |[BackColor](Excel.LineFormat.BackColor.md)|

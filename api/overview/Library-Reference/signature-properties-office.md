@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Signature.Application.md)|Gets an  **Application** object that represents the container application for the **Signature** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CanSetup](../../Office.Signature.CanSetup.md)|Gets a  **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.|

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.Text Property (Office)
+title: CustomXMLNode.Text property (Office)
 keywords: vbaof11.chm294015
 f1_keywords:
 - vbaof11.chm294015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.Text Property (Office)
+# CustomXMLNode.Text property (Office)
 
 Gets or sets the text for the current node. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the text for the current node. Read/write.
 
  _expression_. `Text`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

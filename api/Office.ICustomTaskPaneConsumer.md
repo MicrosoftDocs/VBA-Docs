@@ -1,5 +1,5 @@
 ---
-title: ICustomTaskPaneConsumer Object (Office)
+title: ICustomTaskPaneConsumer object (Office)
 keywords: vbaof11.chm305000
 f1_keywords:
 - vbaof11.chm305000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ICustomTaskPaneConsumer Object (Office)
+# ICustomTaskPaneConsumer object (Office)
 
 An interface that provides access to the  **CTPFactoryAvailable** method that is used to create an instance of a custom task pane.
 
@@ -46,7 +46,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CTPFactoryAvailable](Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)|
 

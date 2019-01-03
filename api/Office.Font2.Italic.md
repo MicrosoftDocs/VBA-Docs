@@ -1,5 +1,5 @@
 ---
-title: Font2.Italic Property (Office)
+title: Font2.Italic property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Italic
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Italic Property (Office)
+# Font2.Italic property (Office)
 
 Gets or sets a value specifying whether the text for a selection is italic. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value specifying whether the text for a selection is italic. Read
 
  _expression_. `Italic`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OneColorGradient](Publisher.FillFormat.OneColorGradient.md)|
 |[Patterned](Publisher.FillFormat.Patterned.md)|
@@ -62,7 +62,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FillFormat.Application.md)|
 |[BackColor](Publisher.FillFormat.BackColor.md)|

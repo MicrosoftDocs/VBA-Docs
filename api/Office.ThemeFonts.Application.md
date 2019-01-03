@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts.Application Property (Office)
+title: ThemeFonts.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts.Application Property (Office)
+# ThemeFonts.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ThemeFonts** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
+ _expression_ An expression that returns a [ThemeFonts](Office.ThemeFonts.md) object.
 
 
 ## Return value

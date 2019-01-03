@@ -98,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Row.Delete.md)|
 
@@ -106,7 +106,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Row.Application.md)|
 |[Cells](Publisher.Row.Cells.md)|

@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **UseCharBasedFirstLineIndent** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **UseCharBasedFirstLineIndent** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 The value of  **UseCharBasedFirstLineIndent** can be set only if East Asian languages are enabled on the client computer, whereas the value can be returned regardless of whether East Asian languages are enabled. Note that **UseCharBasedFirstLineIndent** must be set before the **[CharBasedFirstLineIndent](Publisher.ParagraphFormat.CharBasedFirstLineIndent.md)** property can be returned or set. A run-time "permission denied" error is returned if **UseCharBasedFirstLineIndent** is not set first.
 

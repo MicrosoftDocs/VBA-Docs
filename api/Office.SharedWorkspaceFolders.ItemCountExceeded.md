@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders.ItemCountExceeded Property (Office)
+title: SharedWorkspaceFolders.ItemCountExceeded property (Office)
 keywords: vbaof11.chm269005
 f1_keywords:
 - vbaof11.chm269005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders.ItemCountExceeded Property (Office)
+# SharedWorkspaceFolders.ItemCountExceeded property (Office)
 
 Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceFolders** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **Boolean** value that indicates whether the number of **SharedWorkspace
 
  _expression_. `ItemCountExceeded`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](./Office.SharedWorkspaceFolders.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

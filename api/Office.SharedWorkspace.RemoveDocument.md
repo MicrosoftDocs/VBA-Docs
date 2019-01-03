@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.RemoveDocument Method (Office)
+title: SharedWorkspace.RemoveDocument method (Office)
 keywords: vbaof11.chm276015
 f1_keywords:
 - vbaof11.chm276015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.RemoveDocument Method (Office)
+# SharedWorkspace.RemoveDocument method (Office)
 
 Removes the active document from the shared workspace site.
 
@@ -23,7 +23,7 @@ Removes the active document from the shared workspace site.
 
  _expression_. `RemoveDocument`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

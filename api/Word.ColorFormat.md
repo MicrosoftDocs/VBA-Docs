@@ -50,7 +50,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ColorFormat.Application.md)|
 |[Brightness](Word.ColorFormat.Brightness.md)|

@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplates.Count Property (Office)
+title: WorkflowTemplates.Count property (Office)
 keywords: vbaof11.chm283002
 f1_keywords:
 - vbaof11.chm283002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplates.Count Property (Office)
+# WorkflowTemplates.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **WorkflowTemplates** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **WorkflowTemplates** col
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
+ _expression_ An expression that returns a [WorkflowTemplates](Office.WorkflowTemplates.md) object.
 
 
 ## Return value

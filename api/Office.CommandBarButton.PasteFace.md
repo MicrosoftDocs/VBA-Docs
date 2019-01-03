@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.PasteFace Method (Office)
+title: CommandBarButton.PasteFace method (Office)
 keywords: vbaof11.chm6004
 f1_keywords:
 - vbaof11.chm6004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.PasteFace Method (Office)
+# CommandBarButton.PasteFace method (Office)
 
 Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
@@ -23,7 +23,7 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
  _expression_. `PasteFace`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Example

@@ -45,7 +45,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Background](./PowerPoint.FillFormat.Background.md)|
 |[OneColorGradient](./PowerPoint.FillFormat.OneColorGradient.md)|
@@ -61,7 +61,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.FillFormat.Application.md)|
 |[BackColor](./PowerPoint.FillFormat.BackColor.md)|

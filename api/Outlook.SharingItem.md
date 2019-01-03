@@ -91,7 +91,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.SharingItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.SharingItem.AttachmentAdd.md)|
@@ -124,7 +124,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBusinessCard](Outlook.SharingItem.AddBusinessCard.md)|
 |[Allow](Outlook.SharingItem.Allow.md)|
@@ -152,7 +152,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.SharingItem.Actions.md)|
 |[AllowWriteAccess](Outlook.SharingItem.AllowWriteAccess.md)|

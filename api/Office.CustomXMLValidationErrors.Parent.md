@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationErrors.Parent Property (Office)
+title: CustomXMLValidationErrors.Parent property (Office)
 keywords: vbaof11.chm308001
 f1_keywords:
 - vbaof11.chm308001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationErrors.Parent Property (Office)
+# CustomXMLValidationErrors.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLValidationErrors** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLValidationErrors** object. Read-o
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 
 
 ## Return value

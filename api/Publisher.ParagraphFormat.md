@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Duplicate](./Publisher.ParagraphFormat.Duplicate.md)|
 |[Reset](./Publisher.ParagraphFormat.Reset.md)|
@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](./Publisher.ParagraphFormat.Alignment.md)|
 |[Application](./Publisher.ParagraphFormat.Application.md)|

@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Parent Property (Office)
+title: FileDialogFilters.Parent property (Office)
 keywords: vbaof11.chm255001
 f1_keywords:
 - vbaof11.chm255001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Parent Property (Office)
+# FileDialogFilters.Parent property (Office)
 
 Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
+ _expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
 
 
 ## Return value

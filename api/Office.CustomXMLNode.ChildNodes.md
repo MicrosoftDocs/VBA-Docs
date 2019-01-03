@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.ChildNodes Property (Office)
+title: CustomXMLNode.ChildNodes property (Office)
 keywords: vbaof11.chm294004
 f1_keywords:
 - vbaof11.chm294004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.ChildNodes Property (Office)
+# CustomXMLNode.ChildNodes property (Office)
 
 Gets a  **CustomXMLNodes** collection containing all of the child elements of the current node. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **CustomXMLNodes** collection containing all of the child elements of th
 
  _expression_. `ChildNodes`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

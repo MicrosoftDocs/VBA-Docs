@@ -1,5 +1,5 @@
 ---
-title: MsoTextCaps Enumeration (Office)
+title: MsoTextCaps enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextCaps
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextCaps Enumeration (Office)
+# MsoTextCaps enumeration (Office)
 
 Specifies the capitalization of the text.
 

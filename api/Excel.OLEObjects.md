@@ -66,7 +66,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.OLEObjects.Add.md)|
 |[BringToFront](Excel.OLEObjects.BringToFront.md)|
@@ -83,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.OLEObjects.Application.md)|
 |[AutoLoad](Excel.OLEObjects.AutoLoad.md)|

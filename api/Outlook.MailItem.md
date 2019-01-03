@@ -76,7 +76,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.MailItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.MailItem.AttachmentAdd.md)|
@@ -109,7 +109,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBusinessCard](./Outlook.MailItem.AddBusinessCard.md)|
 |[ClearConversationIndex](./Outlook.MailItem.ClearConversationIndex.md)|
@@ -134,7 +134,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](./Outlook.MailItem.Actions.md)|
 |[AlternateRecipientAllowed](./Outlook.MailItem.AlternateRecipientAllowed.md)|

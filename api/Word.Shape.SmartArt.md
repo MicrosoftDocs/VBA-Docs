@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.SmartArt property (Word)
 
-Returns a [SmartArt](./Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified shape. Read-only.
+Returns a [SmartArt](Office.SmartArt.md) object that provides a way to work with the SmartArt associated with the specified shape. Read-only.
 
 
 ## Syntax

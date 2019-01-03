@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Title Property (Office)
+title: CustomTaskPane.Title property (Office)
 keywords: vbaof11.chm301001
 f1_keywords:
 - vbaof11.chm301001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Title Property (Office)
+# CustomTaskPane.Title property (Office)
 
 Gets a  **String** representing the title of a **CustomTaskPane** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **String** representing the title of a **CustomTaskPane** object. Read-o
 
  _expression_. `Title`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

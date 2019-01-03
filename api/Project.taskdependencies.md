@@ -63,7 +63,7 @@ ActiveProject.Tasks("Draft Initial Business Case").TaskDependencies.Add ActivePr
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.TaskDependencies.Add.md)|
 
@@ -71,7 +71,7 @@ ActiveProject.Tasks("Draft Initial Business Case").TaskDependencies.Add ActivePr
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TaskDependencies.Application.md)|
 |[Count](./Project.TaskDependencies.Count.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceFiles.Add.md)|Adds a file to the document library in a shared workspace. Returns a  **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)** object.|
 

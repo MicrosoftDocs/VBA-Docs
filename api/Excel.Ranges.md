@@ -20,7 +20,7 @@ A collection of  **[Range](Excel.Range(object).md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Ranges.Application.md)|
 |[Count](Excel.Ranges.Count.md)|

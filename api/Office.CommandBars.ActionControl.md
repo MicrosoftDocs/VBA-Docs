@@ -1,5 +1,5 @@
 ---
-title: CommandBars.ActionControl Property (Office)
+title: CommandBars.ActionControl property (Office)
 keywords: vbaof11.chm2001
 f1_keywords:
 - vbaof11.chm2001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.ActionControl Property (Office)
+# CommandBars.ActionControl property (Office)
 
 Gets the  **CommandBarControl** object whose **OnAction** property is set to the running procedure. Read-only.
 
@@ -23,7 +23,7 @@ Gets the  **CommandBarControl** object whose **OnAction** property is set to the
 
  _expression_. `ActionControl`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

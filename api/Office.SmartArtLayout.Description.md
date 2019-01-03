@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout.Description Property (Office)
+title: SmartArtLayout.Description property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout.Description
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout.Description Property (Office)
+# SmartArtLayout.Description property (Office)
 
 Retrieves the description of the SmartArt layout. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the description of the SmartArt layout. Read-only
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## See also

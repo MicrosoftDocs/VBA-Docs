@@ -1,5 +1,5 @@
 ---
-title: CommandBars.Count Property (Office)
+title: CommandBars.Count property (Office)
 keywords: vbaof11.chm2004
 f1_keywords:
 - vbaof11.chm2004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.Count Property (Office)
+# CommandBars.Count property (Office)
 
 Gets a count of the number of command bars in the host application. Read-only.
 
@@ -20,7 +20,7 @@ Gets a count of the number of command bars in the host application. Read-only.
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Return value

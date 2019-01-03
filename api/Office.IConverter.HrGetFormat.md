@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrGetFormat Method (Office)
+title: IConverter.HrGetFormat method (Office)
 keywords: vbaof11.chm333005
 f1_keywords:
 - vbaof11.chm333005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrGetFormat Method (Office)
+# IConverter.HrGetFormat method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrGetFormat`( `_bstrPath_`, `_pbstrClass_`, `_pcap_`, `_ppcp_`, `_pcuic_` )
 
- _expression_ An expression that returns a [IConverter](./Office.IConverter.md) object.
+ _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
 
 
 ## Parameters

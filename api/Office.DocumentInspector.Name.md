@@ -1,5 +1,5 @@
 ---
-title: DocumentInspector.Name Property (Office)
+title: DocumentInspector.Name property (Office)
 keywords: vbaof11.chm279001
 f1_keywords:
 - vbaof11.chm279001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspector.Name Property (Office)
+# DocumentInspector.Name property (Office)
 
 Gets the name of the module represented by a  **DocumentInspector** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the module represented by a  **DocumentInspector** object. Read
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Return value

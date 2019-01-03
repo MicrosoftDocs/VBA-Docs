@@ -27,7 +27,7 @@ To return a single  **AccessObject** object, use the **Item** method of the **De
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.DependencyObjects.Application.md)|
 |[Count](Access.DependencyObjects.Count.md)|

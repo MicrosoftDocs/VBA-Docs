@@ -1,5 +1,5 @@
 ---
-title: MsoPickerField Enumeration (Office)
+title: MsoPickerField enumeration (Office)
 keywords: vbaof11.chm100124
 f1_keywords:
 - vbaof11.chm100124
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPickerField Enumeration (Office)
+# MsoPickerField enumeration (Office)
 
 Specifies contact-picker field types.
 

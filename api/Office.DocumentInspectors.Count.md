@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors.Count Property (Office)
+title: DocumentInspectors.Count property (Office)
 keywords: vbaof11.chm278002
 f1_keywords:
 - vbaof11.chm278002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors.Count Property (Office)
+# DocumentInspectors.Count property (Office)
 
 Gets the number of items in the  **DocumentInspectors** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the number of items in the  **DocumentInspectors** object. Read-only.
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [DocumentInspectors](./Office.DocumentInspectors.md) object.
+ _expression_ An expression that returns a [DocumentInspectors](Office.DocumentInspectors.md) object.
 
 
 ## Return value

@@ -25,7 +25,7 @@ Use the  **[Operations](Access.Entity.Operations.md)** property of the **[Entity
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.Operations.Count.md)|
 |[Item](Access.Operations.Item.md)|

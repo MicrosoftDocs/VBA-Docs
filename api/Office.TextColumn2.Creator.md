@@ -1,5 +1,5 @@
 ---
-title: TextColumn2.Creator Property (Office)
+title: TextColumn2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.TextColumn2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2.Creator Property (Office)
+# TextColumn2.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the **TextColumn2** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the **TextColumn2*
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
+ _expression_ An expression that returns a [TextColumn2](Office.TextColumn2.md) object.
 
 
 ## Return value

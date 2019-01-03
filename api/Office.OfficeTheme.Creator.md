@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.Creator Property (Office)
+title: OfficeTheme.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.Creator Property (Office)
+# OfficeTheme.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **OfficeTheme** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **OfficeTheme
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
+ _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 
 
 ## Return value

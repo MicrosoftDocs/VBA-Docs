@@ -37,7 +37,7 @@ objEq.BuildUp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BuildUp](Word.OMath.BuildUp.md)|
 |[ConvertToLiteralText](Word.OMath.ConvertToLiteralText.md)|
@@ -50,7 +50,7 @@ objEq.BuildUp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignPoint](Word.OMath.AlignPoint.md)|
 |[Application](Word.OMath.Application.md)|

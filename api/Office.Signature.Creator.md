@@ -1,5 +1,5 @@
 ---
-title: Signature.Creator Property (Office)
+title: Signature.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.Signature.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Creator Property (Office)
+# Signature.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **Signature** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **Signature**
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [Signature](./Office.Signature.md) object.
+ _expression_ A variable that represents a [Signature](Office.Signature.md) object.
 
 
 ## Return value

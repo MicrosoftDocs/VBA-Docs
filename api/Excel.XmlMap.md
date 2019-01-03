@@ -32,7 +32,7 @@ Use the  **[Export](Excel.XmlMap.Export.md)** method to export data from cells m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.XmlMap.Delete.md)|
 |[Export](Excel.XmlMap.Export.md)|
@@ -44,7 +44,7 @@ Use the  **[Export](Excel.XmlMap.Export.md)** method to export data from cells m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdjustColumnWidth](Excel.XmlMap.AdjustColumnWidth.md)|
 |[AppendOnImport](Excel.XmlMap.AppendOnImport.md)|

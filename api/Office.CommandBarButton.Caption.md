@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Caption Property (Office)
+title: CommandBarButton.Caption property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Caption
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Caption Property (Office)
+# CommandBarButton.Caption property (Office)
 
 Gets or sets the caption text for a command bar control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the caption text for a command bar control. Read/write.
 
  _expression_. `Caption`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

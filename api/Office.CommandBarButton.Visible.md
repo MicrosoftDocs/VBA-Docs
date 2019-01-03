@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Visible Property (Office)
+title: CommandBarButton.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Visible Property (Office)
+# CommandBarButton.Visible property (Office)
 
 Gets or sets the  **Visible** property of the **CommandBarButton** control. **True** if the **CommandBarButton** is visible. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the  **Visible** property of the **CommandBarButton** control. **Tr
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

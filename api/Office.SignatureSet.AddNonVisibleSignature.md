@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.AddNonVisibleSignature Method (Office)
+title: SignatureSet.AddNonVisibleSignature method (Office)
 keywords: vbaof11.chm247006
 f1_keywords:
 - vbaof11.chm247006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.AddNonVisibleSignature Method (Office)
+# SignatureSet.AddNonVisibleSignature method (Office)
 
 Creates a signature packet when digitally signing a document.
 
@@ -20,7 +20,7 @@ Creates a signature packet when digitally signing a document.
 
  _expression_. `AddNonVisibleSignature`( `_varSigProv_` )
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Parameters

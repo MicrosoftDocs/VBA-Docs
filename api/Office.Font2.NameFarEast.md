@@ -1,5 +1,5 @@
 ---
-title: Font2.NameFarEast Property (Office)
+title: Font2.NameFarEast property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.NameFarEast
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.NameFarEast Property (Office)
+# Font2.NameFarEast property (Office)
 
 Gets or sets an East Asian font name. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets an East Asian font name. Read/write.
 
  _expression_. `NameFarEast`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

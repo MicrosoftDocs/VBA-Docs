@@ -38,7 +38,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Outlook.OlkInfoBar.Click.md)|
 |[DoubleClick](Outlook.OlkInfoBar.DoubleClick.md)|
@@ -50,7 +50,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[MouseIcon](Outlook.OlkInfoBar.MouseIcon.md)|
 |[MousePointer](Outlook.OlkInfoBar.MousePointer.md)|

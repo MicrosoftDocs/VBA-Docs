@@ -48,7 +48,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Hyperlinks.Add.md)|
 |[Delete](Excel.Hyperlinks.Delete.md)|
@@ -57,7 +57,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Hyperlinks.Application.md)|
 |[Count](Excel.Hyperlinks.Count.md)|

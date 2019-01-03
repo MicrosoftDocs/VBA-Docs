@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Show Method (Office)
+title: WorkflowTemplate.Show method (Office)
 keywords: vbaof11.chm282006
 f1_keywords:
 - vbaof11.chm282006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Show Method (Office)
+# WorkflowTemplate.Show method (Office)
 
 Displays a workflow specific configuration user interface for the specified  **WorkflowTemplate** object.
 
@@ -20,7 +20,7 @@ Displays a workflow specific configuration user interface for the specified  **W
 
  _expression_. `Show`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

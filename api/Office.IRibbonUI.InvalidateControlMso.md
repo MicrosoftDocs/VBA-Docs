@@ -1,5 +1,5 @@
 ---
-title: IRibbonUI.InvalidateControlMso Method (Office)
+title: IRibbonUI.InvalidateControlMso method (Office)
 keywords: vbaof11.chm320003
 f1_keywords:
 - vbaof11.chm320003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonUI.InvalidateControlMso Method (Office)
+# IRibbonUI.InvalidateControlMso method (Office)
 
 Used to invalidate a built-in control.
 
@@ -20,7 +20,7 @@ Used to invalidate a built-in control.
 
  _expression_. `InvalidateControlMso`( `_ControlID_` )
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters

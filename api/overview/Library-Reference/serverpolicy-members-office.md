@@ -13,7 +13,7 @@ Represents a policy specified for a document type stored on a server running Mic
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ServerPolicy.Application.md)|Gets an **Application** object that represents the container application for the **ServerPolicy** object. Read-only.|
 |[BlockPreview](../../Office.ServerPolicy.BlockPreview.md)|Gets a **Boolean** value that indicates whether you can preview items using this policy. Read-only.|

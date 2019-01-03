@@ -1,5 +1,5 @@
 ---
-title: COMAddIns.Item Method (Office)
+title: COMAddIns.Item method (Office)
 keywords: vbaof11.chm220001
 f1_keywords:
 - vbaof11.chm220001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns.Item Method (Office)
+# COMAddIns.Item method (Office)
 
 Gets a member of the specified  **COMAddIns** collection.
 

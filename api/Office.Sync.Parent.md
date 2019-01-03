@@ -1,5 +1,5 @@
 ---
-title: Sync.Parent Property (Office)
+title: Sync.Parent property (Office)
 keywords: vbaof11.chm277015
 f1_keywords:
 - vbaof11.chm277015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.Parent Property (Office)
+# Sync.Parent property (Office)
 
 Gets the  **Parent** object for the **Sync** object. Read-only.
 
@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **Sync** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Return value

@@ -29,7 +29,7 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Access.FormatCondition.Delete.md)|
 |[Modify](Access.FormatCondition.Modify.md)|
@@ -38,7 +38,7 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BackColor](Access.FormatCondition.BackColor.md)|
 |[Enabled](Access.FormatCondition.Enabled.md)|

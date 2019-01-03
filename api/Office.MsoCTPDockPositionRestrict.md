@@ -1,5 +1,5 @@
 ---
-title: MsoCTPDockPositionRestrict Enumeration (Office)
+title: MsoCTPDockPositionRestrict enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCTPDockPositionRestrict
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCTPDockPositionRestrict Enumeration (Office)
+# MsoCTPDockPositionRestrict enumeration (Office)
 
 Specifies retrictions on the docking behavior of the custom task pane.
 

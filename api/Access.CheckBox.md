@@ -33,7 +33,7 @@ You can also use check boxes in an option group to display values to choose from
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.CheckBox.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.CheckBox.BeforeUpdate(even).md)|
@@ -54,7 +54,7 @@ You can also use check boxes in an option group to display values to choose from
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.CheckBox.Move.md)|
 |[Requery](Access.CheckBox.Requery.md)|
@@ -66,7 +66,7 @@ You can also use check boxes in an option group to display values to choose from
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.CheckBox.AddColon.md)|
 |[AfterUpdate](Access.CheckBox.AfterUpdate(property).md)|

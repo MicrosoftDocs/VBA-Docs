@@ -1,5 +1,5 @@
 ---
-title: RulerLevels2.Item Method (Office)
+title: RulerLevels2.Item method (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevels2.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevels2.Item Method (Office)
+# RulerLevels2.Item method (Office)
 
 Gets a member of the  **RulerLevels2** collection.
 
@@ -17,7 +17,7 @@ Gets a member of the  **RulerLevels2** collection.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
+ _expression_ An expression that returns a [RulerLevels2](Office.RulerLevels2.md) object.
 
 
 ## Parameters

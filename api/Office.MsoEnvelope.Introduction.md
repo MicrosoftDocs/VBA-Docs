@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.Introduction Property (Office)
+title: MsoEnvelope.Introduction property (Office)
 keywords: vbaof11.chm11001
 f1_keywords:
 - vbaof11.chm11001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope.Introduction Property (Office)
+# MsoEnvelope.Introduction property (Office)
 
 Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the email. Read/write.
 
@@ -20,7 +20,7 @@ Sets or gets the introductory text that is included with a document that is sent
 
  _expression_. `Introduction`
 
- _expression_ A variable that represents a [MsoEnvelope](./Office.MsoEnvelope.md) object.
+ _expression_ A variable that represents a [MsoEnvelope](Office.MsoEnvelope.md) object.
 
 
 ## Example

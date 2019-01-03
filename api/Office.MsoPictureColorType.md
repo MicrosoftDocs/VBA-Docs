@@ -1,5 +1,5 @@
 ---
-title: MsoPictureColorType Enumeration (Office)
+title: MsoPictureColorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPictureColorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPictureColorType Enumeration (Office)
+# MsoPictureColorType enumeration (Office)
 
 Specifies the color transformation applied to a picture.
 

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks.Count Property (Office)
+title: SharedWorkspaceTasks.Count property (Office)
 keywords: vbaof11.chm265002
 f1_keywords:
 - vbaof11.chm265002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks.Count Property (Office)
+# SharedWorkspaceTasks.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SharedWorkspaceTasks** object. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceTasks** 
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceTasks](./Office.SharedWorkspaceTasks.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md) object.
 
 
 ## Return value

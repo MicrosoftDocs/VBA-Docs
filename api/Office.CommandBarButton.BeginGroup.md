@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.BeginGroup Property (Office)
+title: CommandBarButton.BeginGroup property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.BeginGroup
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.BeginGroup Property (Office)
+# CommandBarButton.BeginGroup property (Office)
 
 Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
 
@@ -20,7 +20,7 @@ Gets True if the specified command bar control appears at the beginning of a gro
 
  _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

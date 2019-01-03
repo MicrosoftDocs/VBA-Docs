@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Enabled Property (Office)
+title: CommandBarButton.Enabled property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Enabled
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Enabled Property (Office)
+# CommandBarButton.Enabled property (Office)
 
  **True** if the specified **CommandBar** or **CommandBarControl** is enabled. Read/write .
 

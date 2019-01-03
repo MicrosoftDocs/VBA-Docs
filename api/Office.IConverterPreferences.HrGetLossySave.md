@@ -1,5 +1,5 @@
 ---
-title: IConverterPreferences.HrGetLossySave Method (Office)
+title: IConverterPreferences.HrGetLossySave method (Office)
 keywords: vbaof11.chm330003
 f1_keywords:
 - vbaof11.chm330003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterPreferences.HrGetLossySave Method (Office)
+# IConverterPreferences.HrGetLossySave method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrGetLossySave`( `_pfLossySave_` )
 
- _expression_ An expression that returns a [IConverterPreferences](./Office.IConverterPreferences.md) object.
+ _expression_ An expression that returns a [IConverterPreferences](Office.IConverterPreferences.md) object.
 
 
 ## Parameters

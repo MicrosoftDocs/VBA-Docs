@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings Object (Office)
+title: LanguageSettings object (Office)
 keywords: vbaof11.chm231000
 f1_keywords:
 - vbaof11.chm231000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LanguageSettings Object (Office)
+# LanguageSettings object (Office)
 
 Returns information about the language settings in a Microsoft Office application.
 

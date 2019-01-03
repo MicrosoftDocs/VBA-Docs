@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.Delete Method (Office)
+title: CustomXMLNode.Delete method (Office)
 keywords: vbaof11.chm294021
 f1_keywords:
 - vbaof11.chm294021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.Delete Method (Office)
+# CustomXMLNode.Delete method (Office)
 
 Deletes the current node from the tree (including all of its children, if any exist).
 
@@ -20,7 +20,7 @@ Deletes the current node from the tree (including all of its children, if any ex
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Remarks

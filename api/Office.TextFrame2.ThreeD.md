@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.ThreeD Property (Office)
+title: TextFrame2.ThreeD property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.ThreeD
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.ThreeD Property (Office)
+# TextFrame2.ThreeD property (Office)
 
 Returns a  **ThreeDFormat** object that represents the three-dimensional formatting of the parent shape. Read-only
 
@@ -17,7 +17,7 @@ Returns a  **ThreeDFormat** object that represents the three-dimensional formatt
 
  _expression_. `ThreeD`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## See also

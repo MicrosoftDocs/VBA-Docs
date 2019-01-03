@@ -1,5 +1,5 @@
 ---
-title: CommandBar Object (Office)
+title: CommandBar object (Office)
 keywords: vbaof11.chm3000
 f1_keywords:
 - vbaof11.chm3000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar Object (Office)
+# CommandBar object (Office)
 
 Represents a command bar in the container application. The  **CommandBar** object is a member of the **CommandBars** collection.
 

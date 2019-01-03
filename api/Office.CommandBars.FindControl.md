@@ -1,5 +1,5 @@
 ---
-title: CommandBars.FindControl Method (Office)
+title: CommandBars.FindControl method (Office)
 keywords: vbaof11.chm2007
 f1_keywords:
 - vbaof11.chm2007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.FindControl Method (Office)
+# CommandBars.FindControl method (Office)
 
 Gets a  **CommandBarControl** object that fits a specified criteria.
 
@@ -23,7 +23,7 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
 
  _expression_. `FindControl`( `_Type_`, `_Id_`, `_Tag_`, `_Visible_` )
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

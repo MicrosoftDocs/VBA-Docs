@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Properties.Application.md)|
 |[Count](Access.Properties.Count.md)|

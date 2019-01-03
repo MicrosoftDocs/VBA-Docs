@@ -1,5 +1,5 @@
 ---
-title: CommandBarControls.Count Property (Office)
+title: CommandBarControls.Count property (Office)
 keywords: vbaof11.chm4002
 f1_keywords:
 - vbaof11.chm4002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControls.Count Property (Office)
+# CommandBarControls.Count property (Office)
 
 Gets a count of the numbers of controls on a command bar. Read-only.
 
@@ -20,7 +20,7 @@ Gets a count of the numbers of controls on a command bar. Read-only.
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CommandBarControls](./Office.CommandBarControls.md) object.
+ _expression_ An expression that returns a [CommandBarControls](Office.CommandBarControls.md) object.
 
 
 ## Return value

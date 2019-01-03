@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Folders Property (Office)
+title: SharedWorkspace.Folders property (Office)
 keywords: vbaof11.chm276005
 f1_keywords:
 - vbaof11.chm276005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Folders Property (Office)
+# SharedWorkspace.Folders property (Office)
 
 Gets a  **[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)** collection that represents the list of subfolders in the document library associated with the current shared workspace. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)** collectio
 
  _expression_. `Folders`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

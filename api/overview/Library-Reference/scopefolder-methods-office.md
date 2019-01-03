@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddToSearchFolders](../../Office.ScopeFolder.AddToSearchFolders.md)|Adds a  **ScopeFolder** object to the **SearchFolders** collection.|
 

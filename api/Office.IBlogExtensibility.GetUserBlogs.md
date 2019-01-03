@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.GetUserBlogs Method (Office)
+title: IBlogExtensibility.GetUserBlogs method (Office)
 keywords: vbaof11.chm328003
 f1_keywords:
 - vbaof11.chm328003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.GetUserBlogs Method (Office)
+# IBlogExtensibility.GetUserBlogs method (Office)
 
 Returns the list and details of user blogs associated with the specified account.
 
@@ -20,7 +20,7 @@ Returns the list and details of user blogs associated with the specified account
 
  _expression_. `GetUserBlogs`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_BlogNames()_`, `_BlogIDs()_`, `_BlogURLs()_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

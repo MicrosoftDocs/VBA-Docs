@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.SelectByNamespace Method (Office)
+title: CustomXMLParts.SelectByNamespace method (Office)
 keywords: vbaof11.chm298006
 f1_keywords:
 - vbaof11.chm298006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.SelectByNamespace Method (Office)
+# CustomXMLParts.SelectByNamespace method (Office)
 
 Selects the collection of custom XML parts whose namespace matches the search criteria. 
 
@@ -20,7 +20,7 @@ Selects the collection of custom XML parts whose namespace matches the search cr
 
  _expression_. `SelectByNamespace`( `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

@@ -13,7 +13,7 @@ Represents the ruler for the text in the specified shape or for all text in the 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Ruler2.Application.md)|Gets an **Application** object that represents the container application for the **Ruler2** object. Read-only.|
 |[Creator](../../Office.Ruler2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **Ruler2** object was created. Read-only.|

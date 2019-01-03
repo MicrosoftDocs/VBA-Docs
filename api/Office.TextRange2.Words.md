@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Words Property (Office)
+title: TextRange2.Words property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Words
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Words Property (Office)
+# TextRange2.Words property (Office)
 
 Gets a  **TextRange2** object that represents the specified subset of text words. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **TextRange2** object that represents the specified subset of text words
 
  _expression_. `Words`( `_Start_`, `_Length_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

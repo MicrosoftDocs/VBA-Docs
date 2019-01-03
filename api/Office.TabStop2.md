@@ -1,5 +1,5 @@
 ---
-title: TabStop2 Object (Office)
+title: TabStop2 object (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop2 Object (Office)
+# TabStop2 object (Office)
 
 Represents a single tab stop. The  **TabStop2** object is a member of the **TabStops2** collection.
 
@@ -35,7 +35,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Office.TabStop2.Clear.md)|
 
@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TabStop2.Application.md)|
 |[Creator](Office.TabStop2.Creator.md)|

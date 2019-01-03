@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Width Property (Office)
+title: CommandBar.Width property (Office)
 keywords: vbaof11.chm3021
 f1_keywords:
 - vbaof11.chm3021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Width Property (Office)
+# CommandBar.Width property (Office)
 
 Gets or sets the width (in pixels) of the specified command bar. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the width (in pixels) of the specified command bar. Read/write.
 
  _expression_. `Width`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

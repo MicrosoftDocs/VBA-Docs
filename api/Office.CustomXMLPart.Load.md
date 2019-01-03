@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Load Method (Office)
+title: CustomXMLPart.Load method (Office)
 keywords: vbaof11.chm295010
 f1_keywords:
 - vbaof11.chm295010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Load Method (Office)
+# CustomXMLPart.Load method (Office)
 
 Allows the template author to populate a  **CustomXMLPart** from an existing file. Returns **True** if the load was successful.
 
@@ -20,7 +20,7 @@ Allows the template author to populate a  **CustomXMLPart** from an existing fil
 
  _expression_. `Load`( `_FilePath_` )
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Parameters

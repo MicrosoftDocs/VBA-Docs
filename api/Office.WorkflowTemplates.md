@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplates Object (Office)
+title: WorkflowTemplates object (Office)
 keywords: vbaof11.chm283000
 f1_keywords:
 - vbaof11.chm283000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplates Object (Office)
+# WorkflowTemplates object (Office)
 
 Represents a collection of  **WorkflowTemplate** objects.
 
@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WorkflowTemplates.Application.md)|
 |[Count](Office.WorkflowTemplates.Count.md)|

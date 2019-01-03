@@ -1,5 +1,5 @@
 ---
-title: Font2.AutorotateNumbers Property (Office)
+title: Font2.AutorotateNumbers property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.AutorotateNumbers
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.AutorotateNumbers Property (Office)
+# Font2.AutorotateNumbers property (Office)
 
 Gets or sets a value that specifies whether the numbers in a numbered list should be rotated when the text is rotated. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value that specifies whether the numbers in a numbered list shoul
 
  _expression_. `AutorotateNumbers`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

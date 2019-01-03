@@ -29,7 +29,7 @@ Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)|
 |[Item](Outlook.NavigationModules.Item.md)|
@@ -38,7 +38,7 @@ Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationModules.Application.md)|
 |[Class](Outlook.NavigationModules.Class.md)|

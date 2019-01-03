@@ -1,5 +1,5 @@
 ---
-title: CommandBars.Creator Property (Office)
+title: CommandBars.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBars.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.Creator Property (Office)
+# CommandBars.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CommandBars** object was created. Read-only.
 
@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBars
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Font2.Application Property (Office)
+title: Font2.Application property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Application Property (Office)
+# Font2.Application property (Office)
 
 Gets an object that represents the application the  **Font2** object is used in. Read-only.
 
@@ -17,7 +17,7 @@ Gets an object that represents the application the  **Font2** object is used in.
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

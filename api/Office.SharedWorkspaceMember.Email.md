@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember.Email Property (Office)
+title: SharedWorkspaceMember.Email property (Office)
 keywords: vbaof11.chm272003
 f1_keywords:
 - vbaof11.chm272003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMember.Email Property (Office)
+# SharedWorkspaceMember.Email property (Office)
 
 Gets the email name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
 
@@ -24,7 +24,7 @@ Gets the email name of the specified  **SharedWorkspaceMember** in the format us
 
  **Email**_expression_. `Email`
 
- _expression_ An expression that returns a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Example

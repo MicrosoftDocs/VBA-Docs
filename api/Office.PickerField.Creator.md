@@ -1,5 +1,5 @@
 ---
-title: PickerField.Creator Property (Office)
+title: PickerField.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.PickerField.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerField.Creator Property (Office)
+# PickerField.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **PickerField** object was created. Read-only
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **PickerField
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

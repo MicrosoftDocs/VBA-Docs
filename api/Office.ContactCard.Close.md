@@ -1,5 +1,5 @@
 ---
-title: ContactCard.Close Method (Office)
+title: ContactCard.Close method (Office)
 ms.prod: office
 api_name:
 - Office.ContactCard.Close
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContactCard.Close Method (Office)
+# ContactCard.Close method (Office)
 
 Closes the contact card.
 
@@ -17,7 +17,7 @@ Closes the contact card.
 
  _expression_. `Close`
 
- _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
+ _expression_ An expression that returns a [ContactCard](Office.ContactCard.md) object.
 
 
 ## Return value

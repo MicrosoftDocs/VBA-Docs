@@ -1,5 +1,5 @@
 ---
-title: MsoBlogImageType Enumeration (Office)
+title: MsoBlogImageType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBlogImageType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBlogImageType Enumeration (Office)
+# MsoBlogImageType enumeration (Office)
 
 Specifies blog image types.
 

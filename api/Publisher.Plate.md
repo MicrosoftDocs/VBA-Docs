@@ -45,7 +45,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ConvertToProcess](Publisher.Plate.ConvertToProcess.md)|
 |[Delete](Publisher.Plate.Delete.md)|
@@ -54,7 +54,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Plate.Application.md)|
 |[Color](Publisher.Plate.Color.md)|

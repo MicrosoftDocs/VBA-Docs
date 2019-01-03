@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.SignXmlDsig Method (Office)
+title: SignatureProvider.SignXmlDsig method (Office)
 keywords: vbaof11.chm287004
 f1_keywords:
 - vbaof11.chm287004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.SignXmlDsig Method (Office)
+# SignatureProvider.SignXmlDsig method (Office)
 
 Used to sign the XMLDSIG template.
 
@@ -20,7 +20,7 @@ Used to sign the XMLDSIG template.
 
  _expression_. `SignXmlDsig`( `_QueryContinue_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

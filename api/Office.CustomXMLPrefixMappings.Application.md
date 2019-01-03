@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.Application Property (Office)
+title: CustomXMLPrefixMappings.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.Application Property (Office)
+# CustomXMLPrefixMappings.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the ** CustomXMLPrefixMappings** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Return value

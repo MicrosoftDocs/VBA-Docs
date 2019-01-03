@@ -35,7 +35,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.RemoteItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.RemoteItem.AttachmentAdd.md)|
@@ -68,7 +68,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.RemoteItem.Close(method).md)|
 |[Copy](Outlook.RemoteItem.Copy.md)|
@@ -85,7 +85,7 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.RemoteItem.Actions.md)|
 |[Application](Outlook.RemoteItem.Application.md)|

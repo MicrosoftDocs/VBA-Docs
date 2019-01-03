@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SignatureInfo.Application.md)|Gets an  **Application** object that represents the container application for the **SignatureInfo** object. Read-only.|
 |[CertificateVerificationResults](../../Office.SignatureInfo.CertificateVerificationResults.md)|Gets the results from the verification of a digital certificate. Read-only.|

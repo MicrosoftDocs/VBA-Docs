@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceFolders.Application.md)|Gets an  **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceFolders.Count.md)|Gets a  **Long** indicating the number of items in the **SharedWorkspaceFolders** collection. Read-only.|

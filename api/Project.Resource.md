@@ -23,7 +23,7 @@ Use the  **[Add](./Project.Resources.Add.md)** method to add a **Resource** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Resource.AppendNotes.md)|
 |[Delete](./Project.Resource.Delete.md)|
@@ -37,7 +37,7 @@ Use the  **[Add](./Project.Resources.Add.md)** method to add a **Resource** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccrueAt](./Project.Resource.AccrueAt.md)|
 |[ActualCost](./Project.Resource.ActualCost.md)|

@@ -13,7 +13,7 @@ Represents a Document Inspector module in a **[DocumentInspectors](../../Office.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Fix](../../Office.DocumentInspector.Fix.md)|Performs an action on specific information items or document properties depending on the Document Inspector module specified.|
 |[Inspect](../../Office.DocumentInspector.Inspect.md)|Inspects a document for specific information or document properties.|
@@ -21,7 +21,7 @@ Represents a Document Inspector module in a **[DocumentInspectors](../../Office.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentInspector.Application.md)|Gets an **Application** object that represents the creator of the **DocumentInspector** object. Read-only.|
 |[Creator](../../Office.DocumentInspector.Creator.md)|Gets a 32-bit integer that indicates the application in which the **DocumentInspector** object was created. Read-only.|

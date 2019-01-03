@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Parent Property (Office)
+title: CustomXMLPart.Parent property (Office)
 keywords: vbaof11.chm295001
 f1_keywords:
 - vbaof11.chm295001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Parent Property (Office)
+# CustomXMLPart.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLPart** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLPart** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Child property (Excel)
 
-Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](./Office.MsoTriState.md)**.
+Returns  **msoTrue** if the specified shape is a child shape or if all shapes in a shape range are child shapes of the same parent. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax

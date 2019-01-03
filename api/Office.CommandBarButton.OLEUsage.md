@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.OLEUsage Property (Office)
+title: CommandBarButton.OLEUsage property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.OLEUsage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.OLEUsage Property (Office)
+# CommandBarButton.OLEUsage property (Office)
 
 Gets or sets the OLE client and OLE server roles in which a  **CommandBarButton** control will be used when two Microsoft Office applications are merged. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarButton*
 
  _expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

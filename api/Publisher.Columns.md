@@ -102,7 +102,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Columns.Add.md)|
 |[Item](Publisher.Columns.Item.md)|
@@ -111,7 +111,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Columns.Application.md)|
 |[Count](Publisher.Columns.Count.md)|

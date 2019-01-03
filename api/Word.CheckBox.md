@@ -69,7 +69,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.CheckBox.Application.md)|
 |[AutoSize](Word.CheckBox.AutoSize.md)|

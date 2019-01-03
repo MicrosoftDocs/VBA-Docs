@@ -14,7 +14,7 @@ Represents a container for the font schemes of a Microsoft Office theme.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeFont.Application.md)|Gets an **Application** object that represents the container application for the **ThemeFont** object. Read-only.|
 |[Creator](../../Office.ThemeFont.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ThemeFont** object was created. Read-only.|

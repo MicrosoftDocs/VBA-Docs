@@ -40,7 +40,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Excel.ChartArea.Clear.md)|
 |[ClearContents](Excel.ChartArea.ClearContents.md)|
@@ -52,7 +52,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ChartArea.Application.md)|
 |[Creator](Excel.ChartArea.Creator.md)|

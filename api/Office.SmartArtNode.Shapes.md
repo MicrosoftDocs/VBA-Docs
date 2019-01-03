@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Shapes Property (Office)
+title: SmartArtNode.Shapes property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Shapes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Shapes Property (Office)
+# SmartArtNode.Shapes property (Office)
 
 Returns the shape range associated with this **SmartArtNode** object. Read-only.
 
@@ -17,7 +17,7 @@ Returns the shape range associated with this **SmartArtNode** object. Read-only.
 
 _expression_. `Shapes`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

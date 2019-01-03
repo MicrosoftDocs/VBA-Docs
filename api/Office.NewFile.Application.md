@@ -1,5 +1,5 @@
 ---
-title: NewFile.Application Property (Office)
+title: NewFile.Application property (Office)
 ms.prod: office
 api_name:
 - Office.NewFile.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NewFile.Application Property (Office)
+# NewFile.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [NewFile](./Office.NewFile.md) object.
+ _expression_ A variable that represents a [NewFile](Office.NewFile.md) object.
 
 
 ## Return value

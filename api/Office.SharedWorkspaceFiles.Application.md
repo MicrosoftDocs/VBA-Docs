@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFiles.Application Property (Office)
+title: SharedWorkspaceFiles.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFiles.Application Property (Office)
+# SharedWorkspaceFiles.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 
@@ -20,7 +20,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [SharedWorkspaceFiles](./Office.SharedWorkspaceFiles.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md) object.
 
 
 ## Return value

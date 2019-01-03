@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Subset Property (Office)
+title: SignatureSet.Subset property (Office)
 keywords: vbaof11.chm247009
 f1_keywords:
 - vbaof11.chm247009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Subset Property (Office)
+# SignatureSet.Subset property (Office)
 
 Gets or sets a value that acts as a filter on the available  **Signature** objects for a document. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a value that acts as a filter on the available  **Signature** objec
 
  _expression_. `Subset`
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

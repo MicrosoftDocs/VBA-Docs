@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddPeriods](../../Office.TextRange2.AddPeriods.md)|Adds period (.) punctuation to the right side of the text contained in TextRange2 object for left-to-right languages and on the left side for right-to-left languages.|
 |[ChangeCase](../../Office.TextRange2.ChangeCase.md)|Changes the case of a  **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.|

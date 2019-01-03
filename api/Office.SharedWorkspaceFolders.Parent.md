@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders.Parent Property (Office)
+title: SharedWorkspaceFolders.Parent property (Office)
 keywords: vbaof11.chm269004
 f1_keywords:
 - vbaof11.chm269004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders.Parent Property (Office)
+# SharedWorkspaceFolders.Parent property (Office)
 
 Gets the  **Parent** object for the **SharedWorkspaceFolders** object. Read-only.
 
@@ -23,7 +23,7 @@ Gets the  **Parent** object for the **SharedWorkspaceFolders** object. Read-only
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](./Office.SharedWorkspaceFolders.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

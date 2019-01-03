@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility Object (Office)
+title: IBlogExtensibility object (Office)
 keywords: vbaof11.chm328000
 f1_keywords:
 - vbaof11.chm328000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility Object (Office)
+# IBlogExtensibility object (Office)
 
 An object that provides the ability to manipulate blog entries.
 
@@ -20,7 +20,7 @@ An object that provides the ability to manipulate blog entries.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BlogProviderProperties](Office.IBlogExtensibility.BlogProviderProperties.md)|
 |[GetCategories](Office.IBlogExtensibility.GetCategories.md)|

@@ -25,7 +25,7 @@ Sets or returns an  **MsoTriState**constant that represents whether the font for
 
 ## Remarks
 
-The  **FontBold** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **FontBold** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

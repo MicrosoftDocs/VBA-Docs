@@ -1,5 +1,5 @@
 ---
-title: FileDialogSelectedItems.Count Property (Office)
+title: FileDialogSelectedItems.Count property (Office)
 keywords: vbaof11.chm253002
 f1_keywords:
 - vbaof11.chm253002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogSelectedItems.Count Property (Office)
+# FileDialogSelectedItems.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem*
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [FileDialogSelectedItems](./Office.FileDialogSelectedItems.md) object.
+ _expression_ A variable that represents a [FileDialogSelectedItems](Office.FileDialogSelectedItems.md) object.
 
 
 ## Return value

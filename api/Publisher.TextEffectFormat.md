@@ -39,7 +39,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ToggleVerticalText](Publisher.TextEffectFormat.ToggleVerticalText.md)|
 
@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.TextEffectFormat.Alignment.md)|
 |[Application](Publisher.TextEffectFormat.Application.md)|

@@ -38,7 +38,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Connects.Application.md)|
 |[Count](./Visio.Connects.Count.md)|

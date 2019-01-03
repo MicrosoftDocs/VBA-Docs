@@ -1,5 +1,5 @@
 ---
-title: MsoLineDashStyle Enumeration (Office)
+title: MsoLineDashStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoLineDashStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoLineDashStyle Enumeration (Office)
+# MsoLineDashStyle enumeration (Office)
 
 Specifies the dash style for a line. 
 

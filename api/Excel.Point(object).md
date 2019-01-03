@@ -36,7 +36,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyDataLabels](Excel.Point.ApplyDataLabels.md)|
 |[ClearFormats](Excel.Point.ClearFormats.md)|
@@ -50,7 +50,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Point.Application.md)|
 |[ApplyPictToEnd](Excel.Point.ApplyPictToEnd.md)|

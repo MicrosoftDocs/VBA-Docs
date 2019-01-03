@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.Assistance Property (Outlook)
 
-Returns an  **[IAssistance](./Office.IAssistance.md)** object used to invoke help. Read-only.
+Returns an  **[IAssistance](Office.IAssistance.md)** object used to invoke help. Read-only.
 
 
 ## Syntax

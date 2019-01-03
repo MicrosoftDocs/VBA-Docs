@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Error.Application.md)|
 |[Creator](Excel.Error.Creator.md)|

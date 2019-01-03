@@ -1,5 +1,5 @@
 ---
-title: IRibbonUI.ActivateTabQ Method (Office)
+title: IRibbonUI.ActivateTabQ method (Office)
 keywords: vbaof11.chm320006
 f1_keywords:
 - vbaof11.chm320006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonUI.ActivateTabQ Method (Office)
+# IRibbonUI.ActivateTabQ method (Office)
 
 Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Uses the fully qualified name of the tab which includes the ID and the namespace of the tab. 
 
@@ -20,7 +20,7 @@ Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Use
 
  _expression_. `ActivateTabQ`(`ControlID`, `Namespace`)
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters

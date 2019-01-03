@@ -17,7 +17,7 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.ViewSingle.Apply.md)|
 |[Delete](./Project.ViewSingle.Delete.md)|
@@ -26,7 +26,7 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.ViewSingle.Application.md)|
 |[Filter](./Project.ViewSingle.Filter.md)|

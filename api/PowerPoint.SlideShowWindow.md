@@ -69,7 +69,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DrawLine](./PowerPoint.SlideShowView.DrawLine.md)|
 |[EndNamedShow](./PowerPoint.SlideShowView.EndNamedShow.md)|
@@ -92,7 +92,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceleratorsEnabled](./PowerPoint.SlideShowView.AcceleratorsEnabled.md)|
 |[AdvanceMode](./PowerPoint.SlideShowView.AdvanceMode.md)|

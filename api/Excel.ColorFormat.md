@@ -53,7 +53,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ColorFormat.Application.md)|
 |[Brightness](Excel.ColorFormat.Brightness.md)|

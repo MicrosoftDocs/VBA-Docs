@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Application Property (Office)
+title: PolicyItem.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PolicyItem.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Application Property (Office)
+# PolicyItem.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **PolicyItem** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

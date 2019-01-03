@@ -37,7 +37,7 @@ dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Show](Excel.Dialog.Show.md)|
 
@@ -45,7 +45,7 @@ dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Dialog.Application.md)|
 |[Creator](Excel.Dialog.Creator.md)|

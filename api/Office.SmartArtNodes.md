@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes Object (Office)
+title: SmartArtNodes object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes Object (Office)
+# SmartArtNodes object (Office)
 
 Represents a collection of nodes within a Smart Art diagram. 
 
@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SmartArtNodes.Add.md)|
 |[Item](Office.SmartArtNodes.Item.md)|
@@ -41,7 +41,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtNodes.Application.md)|
 |[Count](Office.SmartArtNodes.Count.md)|

@@ -64,7 +64,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CollapseAllHeadings](Word.view.collapseallheadings.md)|
 |[CollapseOutline](Word.View.CollapseOutline.md)|
@@ -81,7 +81,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.View.Application.md)|
 |[ColumnWidth](Word.view.columnwidth.md)|

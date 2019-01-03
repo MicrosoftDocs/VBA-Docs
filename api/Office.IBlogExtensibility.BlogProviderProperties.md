@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.BlogProviderProperties Method (Office)
+title: IBlogExtensibility.BlogProviderProperties method (Office)
 keywords: vbaof11.chm328001
 f1_keywords:
 - vbaof11.chm328001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.BlogProviderProperties Method (Office)
+# IBlogExtensibility.BlogProviderProperties method (Office)
 
 Contains information about the provider.
 
@@ -20,7 +20,7 @@ Contains information about the provider.
 
  _expression_. `BlogProviderProperties`( `_BlogProvider_`, `_FriendlyName_`, `_CategorySupport_`, `_Padding_`, `_NoCredentials_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceMembers.Add.md)|Adds a member to the list of members in a shared workspace site. Returns a  **[SharedWorkspaceMember](../../Office.SharedWorkspaceMember.md)** object.|
 

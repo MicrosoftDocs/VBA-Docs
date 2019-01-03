@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Location Property (Office)
+title: CustomXMLSchema.Location property (Office)
 keywords: vbaof11.chm291002
 f1_keywords:
 - vbaof11.chm291002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Location Property (Office)
+# CustomXMLSchema.Location property (Office)
 
 Gets a  **String** that represents the location of a schema on a computer. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **String** that represents the location of a schema on a computer. Read-
 
  _expression_. `Location`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Return value

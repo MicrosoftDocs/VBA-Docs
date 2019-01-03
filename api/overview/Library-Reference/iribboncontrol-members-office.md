@@ -13,7 +13,7 @@ Represents the object passed into the callback procedure of a control in a ribbo
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Context](../../Office.IRibbonControl.Context.md)|Represents the active window containing the Ribbon user interface that triggers a callback procedure. Read-only.|
 |[Id](../../Office.IRibbonControl.Id.md)|Gets the ID of the control specified in the Ribbon XML markup customization file. Read-only.|

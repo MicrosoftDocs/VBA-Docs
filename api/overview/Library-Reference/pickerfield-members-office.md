@@ -13,7 +13,7 @@ Represents the field definitions of sub-items in a **PickerResult** object. Each
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerField.Application.md)|Gets an **Application** object that represents the container application for the **PickerField** object. Read-only|
 |[Creator](../../Office.PickerField.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerField** object was created. Read-only|

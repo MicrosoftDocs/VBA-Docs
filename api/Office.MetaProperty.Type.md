@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Type Property (Office)
+title: MetaProperty.Type property (Office)
 keywords: vbaof11.chm275006
 f1_keywords:
 - vbaof11.chm275006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Type Property (Office)
+# MetaProperty.Type property (Office)
 
 Gets the data type of a  **MetaProperty** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the data type of a  **MetaProperty** object. Read-only.
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

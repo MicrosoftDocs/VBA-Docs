@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Validate Method (Office)
+title: MetaProperty.Validate method (Office)
 keywords: vbaof11.chm275007
 f1_keywords:
 - vbaof11.chm275007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Validate Method (Office)
+# MetaProperty.Validate method (Office)
 
 Validates a  **MetaProperty** object representing a single property value according to a schema.
 
@@ -20,7 +20,7 @@ Validates a  **MetaProperty** object representing a single property value accord
 
  _expression_. `Validate`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

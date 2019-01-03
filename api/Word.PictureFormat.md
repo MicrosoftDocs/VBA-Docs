@@ -35,7 +35,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementBrightness](Word.PictureFormat.IncrementBrightness.md)|
 |[IncrementContrast](Word.PictureFormat.IncrementContrast.md)|
@@ -44,7 +44,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.PictureFormat.Application.md)|
 |[Brightness](Word.PictureFormat.Brightness.md)|

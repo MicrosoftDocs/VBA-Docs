@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Delete Method (Office)
+title: SharedWorkspace.Delete method (Office)
 keywords: vbaof11.chm276009
 f1_keywords:
 - vbaof11.chm276009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Delete Method (Office)
+# SharedWorkspace.Delete method (Office)
 
 Deletes the current shared workspace and all data within it.
 

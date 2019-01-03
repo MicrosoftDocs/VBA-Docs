@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.DescriptionText Property (Office)
+title: CommandBarPopup.DescriptionText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.DescriptionText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.DescriptionText Property (Office)
+# CommandBarPopup.DescriptionText property (Office)
 
 Gets or sets the description for a command barpopup control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the description for a command barpopup control. Read/write.
 
  _expression_. `DescriptionText`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

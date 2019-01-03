@@ -1,5 +1,5 @@
 ---
-title: ODSOColumns.Count Property (Office)
+title: ODSOColumns.Count property (Office)
 keywords: vbaof11.chm234001
 f1_keywords:
 - vbaof11.chm234001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumns.Count Property (Office)
+# ODSOColumns.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **ODSOColumns** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **ODSOColumns** collectio
 
  _expression_. `Count`
 
- _expression_ A variable that represents an [ODSOColumns](./Office.ODSOColumns.md) object.
+ _expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
 
 
 ## Return value

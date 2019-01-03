@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Delete Method (Office)
+title: SmartArtNode.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Delete Method (Office)
+# SmartArtNode.Delete method (Office)
 
 Removes the current SmartArt node. 
 
@@ -17,7 +17,7 @@ Removes the current SmartArt node.
 
 _expression_. `Delete`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

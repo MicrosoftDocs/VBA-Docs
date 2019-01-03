@@ -31,7 +31,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.FormRegion.Close.md)|
 |[Expanded](Outlook.FormRegion.Expanded.md)|
@@ -40,7 +40,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Reflow](Outlook.FormRegion.Reflow.md)|
 |[Select](Outlook.FormRegion.Select.md)|
@@ -50,7 +50,7 @@ For more infomation on programming a form region, see [Extending a Form Region w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.FormRegion.Application.md)|
 |[Class](Outlook.FormRegion.Class.md)|

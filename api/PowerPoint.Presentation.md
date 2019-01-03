@@ -64,7 +64,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAll](./PowerPoint.Presentation.AcceptAll.md)|
 |[AddTitleMaster](./PowerPoint.Presentation.AddTitleMaster.md)|
@@ -105,7 +105,7 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Presentation.Application.md)|
 |[Broadcast](./PowerPoint.Presentation.Broadcast.md)|

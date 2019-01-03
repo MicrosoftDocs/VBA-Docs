@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationErrors.Add Method (Office)
+title: CustomXMLValidationErrors.Add method (Office)
 keywords: vbaof11.chm308004
 f1_keywords:
 - vbaof11.chm308004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationErrors.Add Method (Office)
+# CustomXMLValidationErrors.Add method (Office)
 
 Adds a  **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.
 
@@ -20,7 +20,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 
  _expression_. `Add`( `_Node_`, `_ErrorName_`, `_ErrorText_`, `_ClearedOnUpdate_` )
 
- _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 
 
 ## Parameters

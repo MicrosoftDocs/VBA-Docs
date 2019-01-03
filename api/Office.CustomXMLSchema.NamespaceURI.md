@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.NamespaceURI Property (Office)
+title: CustomXMLSchema.NamespaceURI property (Office)
 keywords: vbaof11.chm291003
 f1_keywords:
 - vbaof11.chm291003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.NamespaceURI Property (Office)
+# CustomXMLSchema.NamespaceURI property (Office)
 
 Gets the unique address identifier for the namespace of the  **CustomXMLSchema** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchema**
 
  _expression_. `NamespaceURI`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Return value

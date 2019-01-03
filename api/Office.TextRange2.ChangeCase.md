@@ -1,5 +1,5 @@
 ---
-title: TextRange2.ChangeCase Method (Office)
+title: TextRange2.ChangeCase method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.ChangeCase
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.ChangeCase Method (Office)
+# TextRange2.ChangeCase method (Office)
 
 Changes the case of a  **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.
 
@@ -17,7 +17,7 @@ Changes the case of a  **TextRange2** object to one of the values in the **MsoTe
 
  _expression_. `ChangeCase`( `_Type_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

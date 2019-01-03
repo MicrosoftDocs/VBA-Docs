@@ -1,5 +1,5 @@
 ---
-title: MsoExtrusionColorType Enumeration (Office)
+title: MsoExtrusionColorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoExtrusionColorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoExtrusionColorType Enumeration (Office)
+# MsoExtrusionColorType enumeration (Office)
 
 Specifies whether the extrusion color is based on the extruded shape's fill (the front face of the extrusion) and automatically changes when the shape's fill changes, or whether the extrusion color is independent of the shape's fill. Used with the  **ExtrusionColorType** property of the **ThreeDFormat** object.
 

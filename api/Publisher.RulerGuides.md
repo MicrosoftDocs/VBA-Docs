@@ -65,7 +65,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.RulerGuides.Add.md)|
 
@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.RulerGuides.Application.md)|
 |[Count](Publisher.RulerGuides.Count.md)|

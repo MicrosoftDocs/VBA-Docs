@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.XML Property (Office)
+title: CustomXMLNode.XML property (Office)
 keywords: vbaof11.chm294018
 f1_keywords:
 - vbaof11.chm294018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.XML Property (Office)
+# CustomXMLNode.XML property (Office)
 
 Gets the XML representation of the current node and its children, if any exist. Read-only.
 
@@ -20,7 +20,7 @@ Gets the XML representation of the current node and its children, if any exist. 
 
  _expression_. `XML`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

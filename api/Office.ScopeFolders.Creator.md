@@ -1,5 +1,5 @@
 ---
-title: ScopeFolders.Creator Property (Office)
+title: ScopeFolders.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ScopeFolders.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolders.Creator Property (Office)
+# ScopeFolders.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ScopeFolders** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ScopeFolder
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [ScopeFolders](./Office.ScopeFolders.md) object.
+ _expression_ A variable that represents a [ScopeFolders](Office.ScopeFolders.md) object.
 
 
 ## Return value

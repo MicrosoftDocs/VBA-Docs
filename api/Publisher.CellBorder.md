@@ -53,7 +53,7 @@ cbTemp.Weight = 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CellBorder.Application.md)|
 |[Color](Publisher.CellBorder.Color.md)|

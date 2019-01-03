@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CommandBars.Add.md)|Creates a new command bar and adds it to the collection of command bars.|
 |[CommitRenderingTransaction](../../Office.CommandBars.CommitRenderingTransaction.md)|Commits the rendering transaction. Returns  **Nothing**.|

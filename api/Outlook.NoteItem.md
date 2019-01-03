@@ -41,7 +41,7 @@ Set myItem = Application.CreateItem(olNoteItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.NoteItem.Close.md)|
 |[Copy](Outlook.NoteItem.Copy.md)|
@@ -56,7 +56,7 @@ Set myItem = Application.CreateItem(olNoteItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NoteItem.Application.md)|
 |[AutoResolvedWinner](Outlook.NoteItem.AutoResolvedWinner.md)|

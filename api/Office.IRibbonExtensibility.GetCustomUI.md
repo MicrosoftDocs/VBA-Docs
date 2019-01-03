@@ -1,5 +1,5 @@
 ---
-title: IRibbonExtensibility.GetCustomUI Method (Office)
+title: IRibbonExtensibility.GetCustomUI method (Office)
 keywords: vbaof11.chm289001
 f1_keywords:
 - vbaof11.chm289001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonExtensibility.GetCustomUI Method (Office)
+# IRibbonExtensibility.GetCustomUI method (Office)
 
 Loads the XML markup, either from an XML customization file or from XML markup embedded in the procedure, that customizes the Ribbon user interface.
 
@@ -20,7 +20,7 @@ Loads the XML markup, either from an XML customization file or from XML markup e
 
  _expression_. `GetCustomUI`( `_RibbonID_` )
 
- _expression_ An expression that returns a [IRibbonExtensibility](./Office.IRibbonExtensibility.md) object.
+ _expression_ An expression that returns a [IRibbonExtensibility](Office.IRibbonExtensibility.md) object.
 
 
 ## Parameters

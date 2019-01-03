@@ -1,5 +1,5 @@
 ---
-title: RulerLevel2.Creator Property (Office)
+title: RulerLevel2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevel2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevel2.Creator Property (Office)
+# RulerLevel2.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **RulerLevel2** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **RulerLevel2
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

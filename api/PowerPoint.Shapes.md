@@ -91,7 +91,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](./PowerPoint.Shapes.AddCallout.md)|
 |[AddChart2](./PowerPoint.shapes.addchart2.md)|
@@ -124,7 +124,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Shapes.Application.md)|
 |[Count](./PowerPoint.Shapes.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask Object (Office)
+title: SharedWorkspaceTask object (Office)
 keywords: vbaof11.chm264000
 f1_keywords:
 - vbaof11.chm264000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask Object (Office)
+# SharedWorkspaceTask object (Office)
 
 The  **SharedWorkspaceTask** object represents a task in a shared document workspace. Member of the **SharedWorkspaceTasks** collection.
 
@@ -65,7 +65,7 @@ The following example returns the number of tasks in the shared workspace and in
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceTask.Delete.md)|
 |[Save](Office.SharedWorkspaceTask.Save.md)|
@@ -74,7 +74,7 @@ The following example returns the number of tasks in the shared workspace and in
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceTask.Application.md)|
 |[AssignedTo](Office.SharedWorkspaceTask.AssignedTo.md)|

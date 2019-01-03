@@ -51,7 +51,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.QueryTables.Add.md)|
 |[Item](Excel.QueryTables.Item.md)|
@@ -60,7 +60,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.QueryTables.Application.md)|
 |[Count](Excel.QueryTables.Count.md)|

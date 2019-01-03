@@ -1,5 +1,5 @@
 ---
-title: MsoExtraInfoMethod Enumeration (Office)
+title: MsoExtraInfoMethod enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoExtraInfoMethod
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoExtraInfoMethod Enumeration (Office)
+# MsoExtraInfoMethod enumeration (Office)
 
 Specifies how to use the value specified in the  **ExtraInfo** property of the **FollowHyperlink** method.
 

@@ -1,5 +1,5 @@
 ---
-title: IConverterUICallback.HrInputBox Method (Office)
+title: IConverterUICallback.HrInputBox method (Office)
 keywords: vbaof11.chm332003
 f1_keywords:
 - vbaof11.chm332003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterUICallback.HrInputBox Method (Office)
+# IConverterUICallback.HrInputBox method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrInputBox`( `_bstrText_`, `_bstrCaption_`, `_pbstrInput_`, `_fPassword_` )
 
- _expression_ An expression that returns a [IConverterUICallback](./Office.IConverterUICallback.md) object.
+ _expression_ An expression that returns a [IConverterUICallback](Office.IConverterUICallback.md) object.
 
 
 ## Parameters

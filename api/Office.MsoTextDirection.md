@@ -1,5 +1,5 @@
 ---
-title: MsoTextDirection Enumeration (Office)
+title: MsoTextDirection enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextDirection Enumeration (Office)
+# MsoTextDirection enumeration (Office)
 
 Specifies the direction that text runs.
 

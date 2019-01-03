@@ -1,5 +1,5 @@
 ---
-title: SmartDocument Object (Office)
+title: SmartDocument object (Office)
 keywords: vbaof11.chm262000
 f1_keywords:
 - vbaof11.chm262000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument Object (Office)
+# SmartDocument object (Office)
 
 The  **SmartDocument** property of the **Document** object in Microsoft Word and the **Workbook** object in Microsoft Excel returns a **SmartDocument** object.
 
@@ -29,7 +29,7 @@ The  **SmartDocument** object model is available whether or not a document has a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PickSolution](Office.SmartDocument.PickSolution.md)|
 |[RefreshPane](Office.SmartDocument.RefreshPane.md)|
@@ -38,7 +38,7 @@ The  **SmartDocument** object model is available whether or not a document has a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartDocument.Application.md)|
 |[Creator](Office.SmartDocument.Creator.md)|

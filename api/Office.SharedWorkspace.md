@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace Object (Office)
+title: SharedWorkspace object (Office)
 keywords: vbaof11.chm276000
 f1_keywords:
 - vbaof11.chm276000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace Object (Office)
+# SharedWorkspace object (Office)
 
 The  **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object which allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
 
@@ -79,7 +79,7 @@ The following example displays the properties of the shared workspace to which t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateNew](Office.SharedWorkspace.CreateNew.md)|
 |[Delete](Office.SharedWorkspace.Delete.md)|
@@ -91,7 +91,7 @@ The following example displays the properties of the shared workspace to which t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspace.Application.md)|
 |[Connected](Office.SharedWorkspace.Connected.md)|

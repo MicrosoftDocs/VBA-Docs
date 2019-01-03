@@ -48,7 +48,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Publisher.Window.Activate.md)|
 |[Move](Publisher.Window.Move.md)|
@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Window.Application.md)|
 |[Caption](Publisher.Window.Caption.md)|

@@ -29,7 +29,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NavigationFolderAdd](Outlook.NavigationGroups.NavigationFolderAdd.md)|
 |[NavigationFolderRemove](Outlook.NavigationGroups.NavigationFolderRemove.md)|
@@ -39,7 +39,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](Outlook.NavigationGroups.Create.md)|
 |[Delete](Outlook.NavigationGroups.Delete.md)|
@@ -50,7 +50,7 @@ Use the  **[GetDefaultNavigationGroup](Outlook.NavigationGroups.GetDefaultNaviga
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationGroups.Application.md)|
 |[Class](Outlook.NavigationGroups.Class.md)|

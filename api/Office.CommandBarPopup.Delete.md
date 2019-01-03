@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Delete Method (Office)
+title: CommandBarPopup.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Delete Method (Office)
+# CommandBarPopup.Delete method (Office)
 
 Deletes the  **CommandBarPopup** object from its collection.
 

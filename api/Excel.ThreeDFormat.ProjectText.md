@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # ThreeDFormat.ProjectText property (Excel)
 
- Returns or sets the project text state for the specified **ThreeDFormat** object. Read/write **[MsoTriState](./Office.MsoTriState.md)**.
+ Returns or sets the project text state for the specified **ThreeDFormat** object. Read/write **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax

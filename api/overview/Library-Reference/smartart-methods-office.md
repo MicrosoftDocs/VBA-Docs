@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Reset](../../Office.SmartArt.Reset.md)|Resets the SmartArt graphic to its original state.|
 

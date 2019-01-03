@@ -52,7 +52,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyDataLabels](./PowerPoint.Series.ApplyDataLabels.md)|
 |[ClearFormats](./PowerPoint.Series.ClearFormats.md)|
@@ -69,7 +69,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Series.Application.md)|
 |[ApplyPictToEnd](./PowerPoint.Series.ApplyPictToEnd.md)|

@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Parent Property (Office)
+title: MetaProperty.Parent property (Office)
 keywords: vbaof11.chm275009
 f1_keywords:
 - vbaof11.chm275009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Parent Property (Office)
+# MetaProperty.Parent property (Office)
 
 Gets the  **Parent** object for the **MetaProperty** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **MetaProperty** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

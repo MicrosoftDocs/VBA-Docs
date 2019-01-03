@@ -51,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.AdditionalData.Add.md)|
 
@@ -59,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.AdditionalData.Count.md)|
 |[Item](Access.AdditionalData.Item.md)|

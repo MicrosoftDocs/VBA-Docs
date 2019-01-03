@@ -76,7 +76,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Plates.Add.md)|
 |[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)|
@@ -85,7 +85,7 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Plates.Application.md)|
 |[Count](Publisher.Plates.Count.md)|

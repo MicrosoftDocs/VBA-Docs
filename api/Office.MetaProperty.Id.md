@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Id Property (Office)
+title: MetaProperty.Id property (Office)
 keywords: vbaof11.chm275003
 f1_keywords:
 - vbaof11.chm275003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Id Property (Office)
+# MetaProperty.Id property (Office)
 
 Gets the ID of the  **MetaProperty** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the ID of the  **MetaProperty** object. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

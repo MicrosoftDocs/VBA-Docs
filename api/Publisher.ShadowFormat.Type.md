@@ -25,6 +25,6 @@ Specifies the shadow type of a shape. Read/write.
 
 ## Remarks
 
-The  **Type** property value can be one of the ** [MsoShadowType](./Office.MsoShadowType.md)** constants declared in the Microsoft Office type library.
+The  **Type** property value can be one of the ** [MsoShadowType](Office.MsoShadowType.md)** constants declared in the Microsoft Office type library.
 
 

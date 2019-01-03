@@ -1,5 +1,5 @@
 ---
-title: Font2.Equalize Property (Office)
+title: Font2.Equalize property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Equalize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Equalize Property (Office)
+# Font2.Equalize property (Office)
 
 Gets or sets a value specifying whether the text for a selection should be spaced equal distances apart. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value specifying whether the text for a selection should be space
 
  _expression_. `Equalize`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

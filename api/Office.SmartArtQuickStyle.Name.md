@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Name Property (Office)
+title: SmartArtQuickStyle.Name property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Name Property (Office)
+# SmartArtQuickStyle.Name property (Office)
 
 Retrieves the string name of the SmartArt quick style. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the string name of the SmartArt quick style. Read-only
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

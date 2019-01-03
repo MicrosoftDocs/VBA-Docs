@@ -1,5 +1,5 @@
 ---
-title: OutSpaceSlabStyle Enumeration (Office)
+title: OutSpaceSlabStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.OutSpaceSlabStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OutSpaceSlabStyle Enumeration (Office)
+# OutSpaceSlabStyle enumeration (Office)
 
 Specifies constants that define the styles of the slabs on the  **File** tab.
 

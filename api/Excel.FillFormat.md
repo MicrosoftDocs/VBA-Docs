@@ -42,7 +42,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OneColorGradient](Excel.FillFormat.OneColorGradient.md)|
 |[Patterned](Excel.FillFormat.Patterned.md)|
@@ -57,7 +57,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.FillFormat.Application.md)|
 |[BackColor](Excel.FillFormat.BackColor.md)|

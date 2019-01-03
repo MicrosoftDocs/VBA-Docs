@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions.IsVersioningEnabled Property (Office)
+title: DocumentLibraryVersions.IsVersioningEnabled property (Office)
 keywords: vbaof11.chm277030
 f1_keywords:
 - vbaof11.chm277030
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions.IsVersioningEnabled Property (Office)
+# DocumentLibraryVersions.IsVersioningEnabled property (Office)
 
 Gets a  **Boolean** value that indicates whether the document library in which the active document is saved on the server is configured to create a backup copy, or version, each time the file is edited on the Web site. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Boolean** value that indicates whether the document library in which t
 
  _expression_. `IsVersioningEnabled`
 
- _expression_ A variable that represents a [DocumentLibraryVersions](./Office.DocumentLibraryVersions.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
 
 
 ## Remarks

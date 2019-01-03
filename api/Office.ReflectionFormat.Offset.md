@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Offset Property (Office)
+title: ReflectionFormat.Offset property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Offset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Offset Property (Office)
+# ReflectionFormat.Offset property (Office)
 
 Gets or sets the amount of separation, measured in points, of the reflected image from the shape. Read/write
 
@@ -17,7 +17,7 @@ Gets or sets the amount of separation, measured in points, of the reflected imag
 
  _expression_. `Offset`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## See also

@@ -84,7 +84,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.FindReplace.Clear.md)|
 |[Execute](Publisher.FindReplace.Execute.md)|
@@ -93,7 +93,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FindReplace.Application.md)|
 |[FindText](Publisher.FindReplace.FindText.md)|

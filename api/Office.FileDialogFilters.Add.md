@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Add Method (Office)
+title: FileDialogFilters.Add method (Office)
 keywords: vbaof11.chm255006
 f1_keywords:
 - vbaof11.chm255006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Add Method (Office)
+# FileDialogFilters.Add method (Office)
 
 Adds a new file filter to the list of filters in the **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.
 
@@ -20,7 +20,7 @@ Adds a new file filter to the list of filters in the **Files of type** drop-down
 
 _expression_. `Add`(`Description`, `Extensions`, `Position`)
 
-_expression_ Required. A variable that represents a [FileDialogFilters](./Office.FileDialogFilters.md) object.
+_expression_ Required. A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
 
 
 ## Parameters

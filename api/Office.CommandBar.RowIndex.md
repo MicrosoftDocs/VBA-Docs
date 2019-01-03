@@ -1,5 +1,5 @@
 ---
-title: CommandBar.RowIndex Property (Office)
+title: CommandBar.RowIndex property (Office)
 keywords: vbaof11.chm3014
 f1_keywords:
 - vbaof11.chm3014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.RowIndex Property (Office)
+# CommandBar.RowIndex property (Office)
 
 Gets or sets the docking order of a command bar in relation to other command bars in the same docking area. Can be an integer greater than zero, or either of the following  **MsoBarRow** constants: **msoBarRowFirst** or **msoBarRowLast**. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the docking order of a command bar in relation to other command bar
 
  _expression_. `RowIndex`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

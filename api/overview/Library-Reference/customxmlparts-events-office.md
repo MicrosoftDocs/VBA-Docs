@@ -13,7 +13,7 @@ This object has the following events:
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[PartAfterAdd](../../Office.CustomXMLParts.PartAfterAdd.md)|Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.|
 |[PartAfterLoad](../../Office.CustomXMLParts.PartAfterLoad.md)|Occurs just after a  **CustomXMLPart** object is loaded.|

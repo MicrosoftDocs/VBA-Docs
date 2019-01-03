@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Application Property (Office)
+title: TextFrame2.Application property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Application Property (Office)
+# TextFrame2.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **TextFrame2** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## See also

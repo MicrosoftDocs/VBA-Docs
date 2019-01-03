@@ -1,5 +1,5 @@
 ---
-title: ThemeColorScheme.Count Property (Office)
+title: ThemeColorScheme.Count property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColorScheme.Count Property (Office)
+# ThemeColorScheme.Count property (Office)
 
 Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **Integer** indicating the number of items in the **ThemeColorScheme** c
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Return value

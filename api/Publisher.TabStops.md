@@ -105,7 +105,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.TabStops.Add.md)|
 |[ClearAll](Publisher.TabStops.ClearAll.md)|
@@ -115,7 +115,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TabStops.Application.md)|
 |[Count](Publisher.TabStops.Count.md)|

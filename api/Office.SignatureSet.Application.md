@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Application Property (Office)
+title: SignatureSet.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureSet.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Application Property (Office)
+# SignatureSet.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SignatureSet** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ A variable that represents a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

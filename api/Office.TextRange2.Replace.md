@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Replace Method (Office)
+title: TextRange2.Replace method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Replace
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Replace Method (Office)
+# TextRange2.Replace method (Office)
 
 Finds specific text in a text range, replaces the found text with a specified string, and returns a  **TextRange2** object that represents the first occurrence of the found text. Returns **Nothing** if no match is found.
 
@@ -17,7 +17,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 
  _expression_. `Replace`( `_FindWhat_`, `_ReplaceWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

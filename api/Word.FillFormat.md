@@ -36,7 +36,7 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OneColorGradient](Word.FillFormat.OneColorGradient.md)|
 |[Patterned](Word.FillFormat.Patterned.md)|
@@ -51,7 +51,7 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.FillFormat.Application.md)|
 |[BackColor](Word.FillFormat.BackColor.md)|

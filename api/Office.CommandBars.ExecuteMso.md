@@ -1,5 +1,5 @@
 ---
-title: CommandBars.ExecuteMso Method (Office)
+title: CommandBars.ExecuteMso method (Office)
 keywords: vbaof11.chm2018
 f1_keywords:
 - vbaof11.chm2018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.ExecuteMso Method (Office)
+# CommandBars.ExecuteMso method (Office)
 
 Executes the control identified by the  **idMso** parameter.
 
@@ -20,7 +20,7 @@ Executes the control identified by the  **idMso** parameter.
 
  _expression_. `ExecuteMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

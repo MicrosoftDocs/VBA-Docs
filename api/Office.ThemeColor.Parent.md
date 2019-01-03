@@ -1,5 +1,5 @@
 ---
-title: ThemeColor.Parent Property (Office)
+title: ThemeColor.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColor.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColor.Parent Property (Office)
+# ThemeColor.Parent property (Office)
 
 Gets the  **Parent** object for the **ThemeColor** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **ThemeColor** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ThemeColor](./Office.ThemeColor.md) object.
+ _expression_ An expression that returns a [ThemeColor](Office.ThemeColor.md) object.
 
 
 ## Return value

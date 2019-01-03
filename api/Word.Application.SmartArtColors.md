@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SmartArtColors property (Word)
 
-Returns a [SmartArtColors](./Office.SmartArtColors.md) object that represents the set of color styles that are currently loaded in the application. Read-only.
+Returns a [SmartArtColors](Office.SmartArtColors.md) object that represents the set of color styles that are currently loaded in the application. Read-only.
 
 
 ## Syntax

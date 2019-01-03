@@ -1,5 +1,5 @@
 ---
-title: WebPageFont.FixedWidthFontSize Property (Office)
+title: WebPageFont.FixedWidthFontSize property (Office)
 keywords: vbaof11.chm224004
 f1_keywords:
 - vbaof11.chm224004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFont.FixedWidthFontSize Property (Office)
+# WebPageFont.FixedWidthFontSize property (Office)
 
 Sets or gets the fixed-width font size setting in the host application, in points. Read/write.
 
@@ -20,7 +20,7 @@ Sets or gets the fixed-width font size setting in the host application, in point
 
  _expression_. `FixedWidthFontSize`
 
- _expression_ A variable that represents a [WebPageFont](./Office.WebPageFont.md) object.
+ _expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
 
 
 ## Remarks

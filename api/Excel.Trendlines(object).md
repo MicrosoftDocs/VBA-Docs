@@ -57,7 +57,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Trendlines.Add.md)|
 |[Item](Excel.Trendlines.Item.md)|
@@ -66,7 +66,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Trendlines.Application.md)|
 |[Count](Excel.Trendlines.Count.md)|

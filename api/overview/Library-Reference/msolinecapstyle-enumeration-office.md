@@ -1,12 +1,12 @@
 ---
-title: MsoLineCapStyle Enumeration (Office)
+title: MsoLineCapStyle enumeration (Office)
 ms.assetid: e2adcc46-2f4e-7e63-0063-04e57ee3e1dd
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# MsoLineCapStyle Enumeration (Office)
+# MsoLineCapStyle enumeration (Office)
 
 Specifies the type of line cap.
 

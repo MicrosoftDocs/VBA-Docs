@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundWidth Property (Office)
+title: TextRange2.BoundWidth property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.BoundWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.BoundWidth Property (Office)
+# TextRange2.BoundWidth property (Office)
 
 Gets the width, in points, of the text bounding box for the specified text. Read-only.
 
@@ -17,7 +17,7 @@ Gets the width, in points, of the text bounding box for the specified text. Read
 
  _expression_. `BoundWidth`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

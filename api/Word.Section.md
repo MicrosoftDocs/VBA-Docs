@@ -57,7 +57,7 @@ Selection.Paragraphs(1).Range.InsertBreak _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Section.Application.md)|
 |[Borders](Word.Section.Borders.md)|

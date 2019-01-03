@@ -1,5 +1,5 @@
 ---
-title: Signature.Details Property (Office)
+title: Signature.Details property (Office)
 keywords: vbaof11.chm248013
 f1_keywords:
 - vbaof11.chm248013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Details Property (Office)
+# Signature.Details property (Office)
 
 Gets information about a signature. Read-only.
 
@@ -20,7 +20,7 @@ Gets information about a signature. Read-only.
 
  _expression_. `Details`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Return value

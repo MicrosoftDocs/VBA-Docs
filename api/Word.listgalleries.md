@@ -43,7 +43,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.ListGalleries.Item.md)|
 
@@ -51,7 +51,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListGalleries.Application.md)|
 |[Count](Word.ListGalleries.Count.md)|

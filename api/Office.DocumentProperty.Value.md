@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.Value Property (Office)
+title: DocumentProperty.Value property (Office)
 keywords: vbaof11.chm250006
 f1_keywords:
 - vbaof11.chm250006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.Value Property (Office)
+# DocumentProperty.Value property (Office)
 
 Gets or sets the value of a document property. Read/write.
 

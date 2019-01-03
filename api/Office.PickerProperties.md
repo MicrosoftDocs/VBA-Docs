@@ -1,5 +1,5 @@
 ---
-title: PickerProperties Object (Office)
+title: PickerProperties object (Office)
 keywords: vbaof11.chm337000
 f1_keywords:
 - vbaof11.chm337000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties Object (Office)
+# PickerProperties object (Office)
 
 A collection of  **PickerProperty** objects.
 
@@ -53,7 +53,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.PickerProperties.Add.md)|
 |[Remove](Office.PickerProperties.Remove.md)|
@@ -62,7 +62,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerProperties.Application.md)|
 |[Count](Office.PickerProperties.Count.md)|

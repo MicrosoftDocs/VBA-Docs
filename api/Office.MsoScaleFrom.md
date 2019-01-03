@@ -1,5 +1,5 @@
 ---
-title: MsoScaleFrom Enumeration (Office)
+title: MsoScaleFrom enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoScaleFrom
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoScaleFrom Enumeration (Office)
+# MsoScaleFrom enumeration (Office)
 
 Specifies which part of the shape retains its position when the shape is scaled.
 

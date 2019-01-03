@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PictureEffects.Application.md)|Gets an  **Application** object that represents the container application for the **PictureEffects** object. Read-only|
 |[Count](../../Office.PictureEffects.Count.md)|Retrieves the count of the number of  **PictureEffect** objects contained within the **PictureEffects** collection. Read-only|

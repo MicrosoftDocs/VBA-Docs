@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Type Property (Office)
+title: CommandBarPopup.Type property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Type Property (Office)
+# CommandBarPopup.Type property (Office)
 
 Gets the type of  **CommandBarPopup** control. Read-only.
 

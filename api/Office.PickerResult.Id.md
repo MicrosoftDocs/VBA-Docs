@@ -1,5 +1,5 @@
 ---
-title: PickerResult.Id Property (Office)
+title: PickerResult.Id property (Office)
 keywords: vbaof11.chm338001
 f1_keywords:
 - vbaof11.chm338001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.Id Property (Office)
+# PickerResult.Id property (Office)
 
 Retrieves the unique Id of the associated  **PickerResult** object. Read-only
 
@@ -20,7 +20,7 @@ Retrieves the unique Id of the associated  **PickerResult** object. Read-only
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

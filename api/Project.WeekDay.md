@@ -30,7 +30,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.WeekDay.Default.md)|
 
@@ -38,7 +38,7 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WeekDay.Application.md)|
 |[Calendar](Project.WeekDay.Calendar.md)|

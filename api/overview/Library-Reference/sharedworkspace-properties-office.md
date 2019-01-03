@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspace.Application.md)|Gets an  **Application** object that represents the container application for the **SharedWorkspace** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Connected](../../Office.SharedWorkspace.Connected.md)|Gets a  **Boolean** value that indicates whether or not the active document is currently saved in and connected to a shared workspace. Read-only.|

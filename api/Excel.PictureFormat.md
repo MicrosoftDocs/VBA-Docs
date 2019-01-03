@@ -40,7 +40,7 @@ With myDocument.Shapes(1).PictureFormat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementBrightness](Excel.PictureFormat.IncrementBrightness.md)|
 |[IncrementContrast](Excel.PictureFormat.IncrementContrast.md)|
@@ -49,7 +49,7 @@ With myDocument.Shapes(1).PictureFormat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PictureFormat.Application.md)|
 |[Brightness](Excel.PictureFormat.Brightness.md)|

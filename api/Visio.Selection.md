@@ -31,7 +31,7 @@ By default, the items reported by a  **Selection** object do not include subsele
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToContainers](./Visio.Selection.AddToContainers.md)|
 |[AddToGroup](./Visio.Selection.AddToGroup.md)|
@@ -99,7 +99,7 @@ By default, the items reported by a  **Selection** object do not include subsele
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Selection.Application.md)|
 |[ContainingMaster](./Visio.Selection.ContainingMaster.md)|

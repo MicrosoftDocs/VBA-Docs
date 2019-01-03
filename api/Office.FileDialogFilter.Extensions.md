@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilter.Extensions Property (Office)
+title: FileDialogFilter.Extensions property (Office)
 keywords: vbaof11.chm254002
 f1_keywords:
 - vbaof11.chm254002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilter.Extensions Property (Office)
+# FileDialogFilter.Extensions property (Office)
 
 Gets a value containing the extensions that determine which files are displayed in a file dialog box for each  **Filter** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a value containing the extensions that determine which files are displayed 
 
  _expression_. `Extensions`
 
- _expression_ An expression that returns a [FileDialogFilter](./Office.FileDialogFilter.md) object.
+ _expression_ An expression that returns a [FileDialogFilter](Office.FileDialogFilter.md) object.
 
 
 ## Return value

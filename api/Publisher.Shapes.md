@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBuildingBlock](./Publisher.shapes.addbuildingblock.md)|
 |[AddCallout](./Publisher.Shapes.AddCallout.md)|
@@ -96,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Shapes.Application.md)|
 |[CanvasArrangementType](./Publisher.Shapes.CanvasArrangementType.md)|

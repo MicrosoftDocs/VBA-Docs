@@ -13,14 +13,14 @@ Represents a collection of **CustomXMLValidationError** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLValidationErrors.Add.md)|Adds a **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLValidationErrors.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLValidationErrors** object. Read-only.|
 |[Count](../../Office.CustomXMLValidationErrors.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLValidationErrors** collection. Read-only.|

@@ -1,5 +1,5 @@
 ---
-title: MsoPatternType Enumeration (Office)
+title: MsoPatternType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPatternType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPatternType Enumeration (Office)
+# MsoPatternType enumeration (Office)
 
 Specifies the fill pattern used in a shape.
 

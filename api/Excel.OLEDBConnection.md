@@ -27,7 +27,7 @@ An  **OLEDBConnection** object contains information related to the connection, s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CancelRefresh](Excel.OLEDBConnection.CancelRefresh.md)|
 |[MakeConnection](Excel.OLEDBConnection.MakeConnection.md)|
@@ -39,7 +39,7 @@ An  **OLEDBConnection** object contains information related to the connection, s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ADOConnection](Excel.OLEDBConnection.ADOConnection.md)|
 |[AlwaysUseConnectionFile](Excel.OLEDBConnection.AlwaysUseConnectionFile.md)|

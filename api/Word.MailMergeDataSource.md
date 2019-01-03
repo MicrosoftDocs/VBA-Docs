@@ -57,7 +57,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Word.MailMergeDataSource.Close.md)|
 |[FindRecord](Word.MailMergeDataSource.FindRecord.md)|
@@ -68,7 +68,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveRecord](Word.MailMergeDataSource.ActiveRecord.md)|
 |[Application](Word.MailMergeDataSource.Application.md)|

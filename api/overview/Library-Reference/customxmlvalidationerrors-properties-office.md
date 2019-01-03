@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLValidationErrors.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLValidationErrors** object. Read-only.|
 |[Count](../../Office.CustomXMLValidationErrors.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLValidationErrors** collection. Read-only.|

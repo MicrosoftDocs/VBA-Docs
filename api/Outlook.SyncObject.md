@@ -39,7 +39,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OnError](Outlook.SyncObject.OnError.md)|
 |[Progress](Outlook.SyncObject.Progress.md)|
@@ -50,7 +50,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Start](Outlook.SyncObject.Start.md)|
 |[Stop](Outlook.SyncObject.Stop.md)|
@@ -59,7 +59,7 @@ Set mySyncObject = mySyncObjects.Item("Daily")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.SyncObject.Application.md)|
 |[Class](Outlook.SyncObject.Class.md)|

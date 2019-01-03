@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Allcaps](../../Office.Font2.Allcaps.md)|True if the font is formatted as all capital letters. Read/write.|
 |[Application](../../Office.Font2.Application.md)|Gets an object that represents the application the  **Font2** object is used in. Read-only.|

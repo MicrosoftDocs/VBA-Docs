@@ -75,7 +75,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoFit](Word.Column.AutoFit.md)|
 |[Delete](Word.Column.Delete.md)|
@@ -87,7 +87,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Column.Application.md)|
 |[Borders](Word.Column.Borders.md)|

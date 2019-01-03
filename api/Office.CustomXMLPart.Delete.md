@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Delete Method (Office)
+title: CustomXMLPart.Delete method (Office)
 keywords: vbaof11.chm295009
 f1_keywords:
 - vbaof11.chm295009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Delete Method (Office)
+# CustomXMLPart.Delete method (Office)
 
 Deletes the current  **CustomXMLPart** from the data store (**IXMLDataStore** interface).
 
@@ -20,7 +20,7 @@ Deletes the current  **CustomXMLPart** from the data store (**IXMLDataStore** in
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Remarks

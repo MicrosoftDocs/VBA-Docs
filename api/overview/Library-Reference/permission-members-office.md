@@ -13,7 +13,7 @@ The **Permission** property of the **Document** object in Microsoft Word, a **Wo
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.Permission.Add.md)|Creates a set of permissions on the active document for the specified user. Returns a **UserPermission** object.|
 |[ApplyPolicy](../../Office.Permission.ApplyPolicy.md)|Applies the specified permission policy to the active document.|
@@ -22,7 +22,7 @@ The **Permission** property of the **Document** object in Microsoft Word, a **Wo
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Permission.Application.md)|Gets an **Application** object that represents the container application for the **Permission** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.Permission.Count.md)|Gets a **Long** indicating the number of items in the **Permission** object. Read-only.|

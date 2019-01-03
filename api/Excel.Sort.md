@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Excel.Sort.Apply.md)|
 |[SetRange](Excel.Sort.SetRange.md)|
@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Sort.Application.md)|
 |[Creator](Excel.Sort.Creator.md)|

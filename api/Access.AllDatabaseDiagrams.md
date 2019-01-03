@@ -55,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllDatabaseDiagrams.Application.md)|
 |[Count](Access.AllDatabaseDiagrams.Count.md)|

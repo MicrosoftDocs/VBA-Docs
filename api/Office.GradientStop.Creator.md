@@ -1,5 +1,5 @@
 ---
-title: GradientStop.Creator Property (Office)
+title: GradientStop.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.GradientStop.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStop.Creator Property (Office)
+# GradientStop.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **GradientStop** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **GradientSto
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
+ _expression_ An expression that returns a [GradientStop](Office.GradientStop.md) object.
 
 
 ## Return value

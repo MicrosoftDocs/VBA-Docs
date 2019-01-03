@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.LastRefreshed Property (Office)
+title: SharedWorkspace.LastRefreshed property (Office)
 keywords: vbaof11.chm276013
 f1_keywords:
 - vbaof11.chm276013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.LastRefreshed Property (Office)
+# SharedWorkspace.LastRefreshed property (Office)
 
 Gets the date and time when the  **Refresh** method was most recently called. Read-only.
 
@@ -23,7 +23,7 @@ Gets the date and time when the  **Refresh** method was most recently called. Re
 
  _expression_. `LastRefreshed`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

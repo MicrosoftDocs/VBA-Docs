@@ -1,5 +1,5 @@
 ---
-title: FileTypes Object (Office)
+title: FileTypes object (Office)
 keywords: vbaof11.chm257000
 f1_keywords:
 - vbaof11.chm257000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes Object (Office)
+# FileTypes object (Office)
 
 A collection of values of the type  **msoFileType** that determine which types of files are returned during a search.
 

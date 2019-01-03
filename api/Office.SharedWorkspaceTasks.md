@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks Object (Office)
+title: SharedWorkspaceTasks object (Office)
 keywords: vbaof11.chm265000
 f1_keywords:
 - vbaof11.chm265000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks Object (Office)
+# SharedWorkspaceTasks object (Office)
 
 A collection of the  **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** objects in the current shared workspace site.
 
@@ -40,7 +40,7 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceTasks.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceTasks.Application.md)|
 |[Count](Office.SharedWorkspaceTasks.Count.md)|

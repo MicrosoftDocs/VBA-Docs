@@ -36,7 +36,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkOptionButton.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkOptionButton.BeforeUpdate.md)|
@@ -56,7 +56,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkOptionButton.Accelerator.md)|
 |[Alignment](Outlook.OlkOptionButton.Alignment.md)|

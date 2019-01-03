@@ -15,7 +15,7 @@ Represents all the pages of a  [MultiPage](Outlook.multipage.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Add](Outlook.Pages.add.md)|Adds a [Page](Outlook.Page.md) to a [Pages](Outlook.pages.md) collection.|
 | [Clear](Outlook.Pages.clear.md)|Removes pages from the collection.|
@@ -28,7 +28,7 @@ Represents all the pages of a  [MultiPage](Outlook.multipage.md).
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Count](Outlook.Pages.count.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
 

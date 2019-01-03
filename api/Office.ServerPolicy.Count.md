@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Count Property (Office)
+title: ServerPolicy.Count property (Office)
 keywords: vbaof11.chm278015
 f1_keywords:
 - vbaof11.chm278015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Count Property (Office)
+# ServerPolicy.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **ServerPolicy** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **ServerPolicy** collecti
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

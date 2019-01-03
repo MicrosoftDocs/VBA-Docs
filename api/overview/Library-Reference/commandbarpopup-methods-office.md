@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarPopup.Copy.md)|Copies a command bar popup control to an existing command bar.|
 |[Delete](../../Office.CommandBarPopup.Delete.md)|Deletes the  **CommandBarPopup** object from its collection.|

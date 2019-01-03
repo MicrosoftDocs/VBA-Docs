@@ -25,6 +25,6 @@ Specifies whether a Web check box or option button is selected. Read/write.
 
 ## Remarks
 
-The  **Selected** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **Selected** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 

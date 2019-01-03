@@ -29,7 +29,7 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.RuleActions.Item.md)|
 
@@ -37,7 +37,7 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.RuleActions.Application.md)|
 |[AssignToCategory](Outlook.RuleActions.AssignToCategory.md)|

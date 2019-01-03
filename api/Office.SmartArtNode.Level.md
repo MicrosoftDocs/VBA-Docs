@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Level Property (Office)
+title: SmartArtNode.Level property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Level
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Level Property (Office)
+# SmartArtNode.Level property (Office)
 
 Retrieves the node's level in the hierarchy. Read-only.
 
@@ -17,7 +17,7 @@ Retrieves the node's level in the hierarchy. Read-only.
 
 _expression_. `Level`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

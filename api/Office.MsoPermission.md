@@ -1,5 +1,5 @@
 ---
-title: MsoPermission Enumeration (Office)
+title: MsoPermission enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPermission
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPermission Enumeration (Office)
+# MsoPermission enumeration (Office)
 
 Specifies an Information Rights Management (IRM) permission type for a document.
 

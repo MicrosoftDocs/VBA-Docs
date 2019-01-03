@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ShapeStyle property (Word)
 
-Returns or sets the shape style for the shapes in the specified shape range. Read/write [MsoShapeStyleIndex](./Office.MsoShapeStyleIndex.md).
+Returns or sets the shape style for the shapes in the specified shape range. Read/write [MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md).
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: RulerLevel2.LeftMargin Property (Office)
+title: RulerLevel2.LeftMargin property (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevel2.LeftMargin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevel2.LeftMargin Property (Office)
+# RulerLevel2.LeftMargin property (Office)
 
 Gets or sets the left indent for the specified outline level, in points. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the left indent for the specified outline level, in points. Read/wr
 
  _expression_. `LeftMargin`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

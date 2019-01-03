@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Creator Property (Office)
+title: DocumentLibraryVersion.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Creator Property (Office)
+# DocumentLibraryVersion.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **DocumentLibraryVersion** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentLib
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Return value

@@ -78,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Duplicate](./Publisher.Font.Duplicate.md)|
 |[GetScriptName](./Publisher.Font.GetScriptName.md)|
@@ -91,7 +91,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllCaps](./Publisher.Font.AllCaps.md)|
 |[Application](./Publisher.Font.Application.md)|

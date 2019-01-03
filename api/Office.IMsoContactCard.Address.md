@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.Address Property (Office)
+title: IMsoContactCard.Address property (Office)
 keywords: vbaof11.chm341001
 f1_keywords:
 - vbaof11.chm341001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.Address Property (Office)
+# IMsoContactCard.Address property (Office)
 
 Represents the address in a Contact card. Read-only
 
@@ -20,7 +20,7 @@ Represents the address in a Contact card. Read-only
 
  _expression_. `Address`
 
- _expression_ An expression that returns a [IMsoContactCard](./Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## See also

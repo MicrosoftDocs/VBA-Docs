@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceFile.Delete.md)|Deletes the current  **SharedWorkspaceFile** object.|
 

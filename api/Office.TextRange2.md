@@ -1,5 +1,5 @@
 ---
-title: TextRange2 Object (Office)
+title: TextRange2 object (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2 Object (Office)
+# TextRange2 object (Office)
 
 Represents the text frame in a  **Shape** or **ShapeRange** objects.
 

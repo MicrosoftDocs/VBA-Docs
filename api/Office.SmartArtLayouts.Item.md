@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayouts.Item Method (Office)
+title: SmartArtLayouts.Item method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayouts.Item Method (Office)
+# SmartArtLayouts.Item method (Office)
 
 Retrieves a  **SmartArtLayout** object at the specified index or with the specified unique Id.
 
@@ -17,7 +17,7 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object.
+ _expression_ An expression that returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object.
 
 
 ## Parameters

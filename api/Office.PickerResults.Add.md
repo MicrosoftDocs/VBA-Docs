@@ -1,5 +1,5 @@
 ---
-title: PickerResults.Add Method (Office)
+title: PickerResults.Add method (Office)
 keywords: vbaof11.chm339003
 f1_keywords:
 - vbaof11.chm339003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResults.Add Method (Office)
+# PickerResults.Add method (Office)
 
 Adds a  **PickerResult** object to the **PickerResults** collection.
 
@@ -20,7 +20,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 
  _expression_. `Add`( `_Id_`, `_DisplayName_`, `_Type_`, `_SIPId_`, `_ItemData_`, `_SubItems_` )
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+ _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 
 
 ## Parameters

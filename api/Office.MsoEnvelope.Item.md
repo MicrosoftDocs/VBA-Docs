@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.Item Property (Office)
+title: MsoEnvelope.Item property (Office)
 keywords: vbaof11.chm11003
 f1_keywords:
 - vbaof11.chm11003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope.Item Property (Office)
+# MsoEnvelope.Item property (Office)
 
 Gets a  **MailItem** object that can be used to send the document as an email. Read-only.
 

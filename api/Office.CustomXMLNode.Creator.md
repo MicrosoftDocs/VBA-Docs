@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.Creator Property (Office)
+title: CustomXMLNode.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLNode.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.Creator Property (Office)
+# CustomXMLNode.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLNode** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLNo
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

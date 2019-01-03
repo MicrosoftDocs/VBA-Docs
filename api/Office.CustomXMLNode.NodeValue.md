@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.NodeValue Property (Office)
+title: CustomXMLNode.NodeValue property (Office)
 keywords: vbaof11.chm294010
 f1_keywords:
 - vbaof11.chm294010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.NodeValue Property (Office)
+# CustomXMLNode.NodeValue property (Office)
 
 Gets or sets the value of the current node. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the value of the current node. Read/write.
 
  _expression_. `NodeValue`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

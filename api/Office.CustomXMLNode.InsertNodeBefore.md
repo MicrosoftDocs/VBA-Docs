@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.InsertNodeBefore Method (Office)
+title: CustomXMLNode.InsertNodeBefore method (Office)
 keywords: vbaof11.chm294023
 f1_keywords:
 - vbaof11.chm294023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.InsertNodeBefore Method (Office)
+# CustomXMLNode.InsertNodeBefore method (Office)
 
 Inserts a new node just before the context node in the tree.
 
@@ -20,7 +20,7 @@ Inserts a new node just before the context node in the tree.
 
  _expression_. `InsertNodeBefore`( `_Name_`, `_NamespaceURI_`, `_NodeType_`, `_NodeValue_`, `_NextSibling_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

@@ -72,7 +72,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeginConnect](Publisher.ConnectorFormat.BeginConnect.md)|
 |[BeginDisconnect](Publisher.ConnectorFormat.BeginDisconnect.md)|
@@ -83,7 +83,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ConnectorFormat.Application.md)|
 |[BeginConnected](Publisher.ConnectorFormat.BeginConnected.md)|

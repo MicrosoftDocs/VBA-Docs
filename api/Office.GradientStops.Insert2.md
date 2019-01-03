@@ -1,5 +1,5 @@
 ---
-title: GradientStops.Insert2 Method (Office)
+title: GradientStops.Insert2 method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Insert2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStops.Insert2 Method (Office)
+# GradientStops.Insert2 method (Office)
 
 Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.
 
@@ -17,7 +17,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 
  _expression_. `Insert2`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_`, `_Brightness_` )
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+ _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Font2.Glow Property (Office)
+title: Font2.Glow property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Glow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Glow Property (Office)
+# Font2.Glow property (Office)
 
 Gets a value indicating whether the font is displayed as a glow effect. Read-only.
 
@@ -17,7 +17,7 @@ Gets a value indicating whether the font is displayed as a glow effect. Read-onl
 
  _expression_. `Glow`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

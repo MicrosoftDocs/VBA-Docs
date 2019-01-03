@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerResult.Application.md)|Gets an  **Application** object that represents the container application for the **PickerResult** object. Read-only|
 |[Creator](../../Office.PickerResult.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **PickerResult** object was created. Read-only|

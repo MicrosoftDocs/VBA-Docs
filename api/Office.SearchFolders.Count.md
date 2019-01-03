@@ -1,5 +1,5 @@
 ---
-title: SearchFolders.Count Property (Office)
+title: SearchFolders.Count property (Office)
 keywords: vbaof11.chm258002
 f1_keywords:
 - vbaof11.chm258002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchFolders.Count Property (Office)
+# SearchFolders.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SearchFolders** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **SearchFolders** collect
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SearchFolders](./Office.SearchFolders.md) object.
+ _expression_ A variable that represents a [SearchFolders](Office.SearchFolders.md) object.
 
 
 ## Return value

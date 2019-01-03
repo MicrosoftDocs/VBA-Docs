@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter Object (Office)
+title: ODSOFilter object (Office)
 keywords: vbaof11.chm240000
 f1_keywords:
 - vbaof11.chm240000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter Object (Office)
+# ODSOFilter object (Office)
 
 Represents a filter to be applied to an attached mail merge data source. The  **ODSOFilter** object is a member of the **ODSOFilters** object.
 
@@ -76,7 +76,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOFilter.Application.md)|
 |[Column](Office.ODSOFilter.Column.md)|

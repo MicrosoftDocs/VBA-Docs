@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.MasterPages.Add.md)|
 |[FindByPageID](Publisher.MasterPages.FindByPageID.md)|
@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MasterPages.Application.md)|
 |[Count](Publisher.MasterPages.Count.md)|

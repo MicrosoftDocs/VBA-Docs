@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.AddCollection Method (Office)
+title: CustomXMLSchemaCollection.AddCollection method (Office)
 keywords: vbaof11.chm292006
 f1_keywords:
 - vbaof11.chm292006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.AddCollection Method (Office)
+# CustomXMLSchemaCollection.AddCollection method (Office)
 
 Adds an existing schema collection to the current schema collection. 
 
@@ -20,7 +20,7 @@ Adds an existing schema collection to the current schema collection.
 
  _expression_. `AddCollection`( `_SchemaCollection_` )
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
+ _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 
 
 ## Parameters

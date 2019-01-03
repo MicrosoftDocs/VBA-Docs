@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Move Method (Office)
+title: CommandBarPopup.Move method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Move
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Move Method (Office)
+# CommandBarPopup.Move method (Office)
 
 Moves the specified  **CommandBarPopup** control to an existing command bar.
 

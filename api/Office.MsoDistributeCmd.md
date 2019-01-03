@@ -1,5 +1,5 @@
 ---
-title: MsoDistributeCmd Enumeration (Office)
+title: MsoDistributeCmd enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoDistributeCmd
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoDistributeCmd Enumeration (Office)
+# MsoDistributeCmd enumeration (Office)
 
 Specifies how to evenly distribute a collection of shapes. Used with the  **Distribute** method of the **ShapeRange** collection.
 

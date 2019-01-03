@@ -1,5 +1,5 @@
 ---
-title: Crop.ShapeLeft Property (Office)
+title: Crop.ShapeLeft property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.ShapeLeft
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.ShapeLeft Property (Office)
+# Crop.ShapeLeft property (Office)
 
 Gets or sets the location of the left-side of a shape that is used to crop an image. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the location of the left-side of a shape that is used to crop an im
 
  _expression_. `ShapeLeft`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

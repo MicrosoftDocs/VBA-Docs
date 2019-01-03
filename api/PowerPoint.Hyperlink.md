@@ -57,7 +57,7 @@ ActivePresentation.Slides(1).Shapes(3) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToFavorites](./PowerPoint.Hyperlink.AddToFavorites.md)|
 |[CreateNewDocument](./PowerPoint.Hyperlink.CreateNewDocument.md)|
@@ -68,7 +68,7 @@ ActivePresentation.Slides(1).Shapes(3) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./PowerPoint.Hyperlink.Address.md)|
 |[Application](./PowerPoint.Hyperlink.Application.md)|

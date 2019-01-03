@@ -50,7 +50,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Footnotes.Add.md)|
 |[Convert](Word.Footnotes.Convert.md)|
@@ -64,7 +64,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Footnotes.Application.md)|
 |[ContinuationNotice](Word.Footnotes.ContinuationNotice.md)|

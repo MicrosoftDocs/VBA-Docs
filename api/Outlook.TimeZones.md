@@ -25,7 +25,7 @@ This collection is read-only, and serves the purpose of enumerating time zones s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ConvertTime](Outlook.TimeZones.ConvertTime.md)|
 |[Item](Outlook.TimeZones.Item.md)|
@@ -34,7 +34,7 @@ This collection is read-only, and serves the purpose of enumerating time zones s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TimeZones.Application.md)|
 |[Class](Outlook.TimeZones.Class.md)|

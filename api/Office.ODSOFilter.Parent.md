@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.Parent Property (Office)
+title: ODSOFilter.Parent property (Office)
 keywords: vbaof11.chm240002
 f1_keywords:
 - vbaof11.chm240002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.Parent Property (Office)
+# ODSOFilter.Parent property (Office)
 
 Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents an [ODSOFilter](./Office.ODSOFilter.md) object.
+ _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Return value

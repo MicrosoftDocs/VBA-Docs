@@ -25,7 +25,7 @@ Use the  **[Item](Project.ReportTemplates.Item.md)** property of the **ReportTem
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CubeType](Project.ReportTemplate.CubeType.md)|
 |[TemplatePath](Project.ReportTemplate.TemplatePath.md)|

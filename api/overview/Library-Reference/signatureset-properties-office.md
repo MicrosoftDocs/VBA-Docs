@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SignatureSet.Application.md)|Gets an  **Application** object that represents the container application for the **SignatureSet** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CanAddSignatureLine](../../Office.SignatureSet.CanAddSignatureLine.md)|Gets a  **Boolean** value indicating whether you can add a signature line to a document. Read-only.|

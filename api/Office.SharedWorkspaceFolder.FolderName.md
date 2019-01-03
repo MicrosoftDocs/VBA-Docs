@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolder.FolderName Property (Office)
+title: SharedWorkspaceFolder.FolderName property (Office)
 keywords: vbaof11.chm268001
 f1_keywords:
 - vbaof11.chm268001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolder.FolderName Property (Office)
+# SharedWorkspaceFolder.FolderName property (Office)
 
 Gets the name of a subfolder within the main document library folder of a shared workspace. Read-only.
 
@@ -23,7 +23,7 @@ Gets the name of a subfolder within the main document library folder of a shared
 
  _expression_. `FolderName`
 
- _expression_ A variable that represents a [SharedWorkspaceFolder](./Office.SharedWorkspaceFolder.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md) object.
 
 
 ## Remarks

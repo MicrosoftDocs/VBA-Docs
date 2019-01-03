@@ -1,5 +1,5 @@
 ---
-title: PickerFields.Application Property (Office)
+title: PickerFields.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PickerFields.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerFields.Application Property (Office)
+# PickerFields.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **PickerFields** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [PickerFields](./Office.PickerFields.md) object.
+ _expression_ An expression that returns a [PickerFields](Office.PickerFields.md) object.
 
 
 ## See also

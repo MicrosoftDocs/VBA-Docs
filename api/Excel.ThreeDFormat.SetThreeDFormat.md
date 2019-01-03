@@ -29,7 +29,7 @@ Sets the preset extrusion format. Each preset extrusion format contains a set of
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](./Office.MsoPresetThreeDFormat.md)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
+| _PresetThreeDFormat_|Required| **[MsoPresetThreeDFormat](Office.MsoPresetThreeDFormat.md)**|Specifies a preset extrusion format that corresponds to one of the options (numbered from left to right, from top to bottom) displayed when you click the  **3-D** button on the **Drawing** toolbar.|
 
 ## Remarks
 

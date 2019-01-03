@@ -1,5 +1,5 @@
 ---
-title: ThemeColorScheme.Creator Property (Office)
+title: ThemeColorScheme.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColorScheme.Creator Property (Office)
+# ThemeColorScheme.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeColorS
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Return value

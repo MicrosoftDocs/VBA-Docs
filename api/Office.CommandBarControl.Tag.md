@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Tag Property (Office)
+title: CommandBarControl.Tag property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Tag
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Tag Property (Office)
+# CommandBarControl.Tag property (Office)
 
 Gets or sets information about the  **CommandBarControl**, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets information about the  **CommandBarControl**, such as data that can
 
  _expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

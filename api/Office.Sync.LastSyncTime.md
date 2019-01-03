@@ -1,5 +1,5 @@
 ---
-title: Sync.LastSyncTime Property (Office)
+title: Sync.LastSyncTime property (Office)
 keywords: vbaof11.chm277003
 f1_keywords:
 - vbaof11.chm277003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.LastSyncTime Property (Office)
+# Sync.LastSyncTime property (Office)
 
 Gets the date and time when the local copy of the active document was last synchronized with the server copy. Read-only.
 
@@ -23,7 +23,7 @@ Gets the date and time when the local copy of the active document was last synch
 
  _expression_. `LastSyncTime`
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

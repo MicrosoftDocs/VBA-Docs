@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPart.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLPart** object. Read-only.|
 |[BuiltIn](../../Office.CustomXMLPart.BuiltIn.md)|Gets a value that indicates whether the  **CustomXMLPart** is built-in. Read-only|

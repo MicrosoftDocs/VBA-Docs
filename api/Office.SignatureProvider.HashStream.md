@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.HashStream Method (Office)
+title: SignatureProvider.HashStream method (Office)
 keywords: vbaof11.chm287009
 f1_keywords:
 - vbaof11.chm287009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.HashStream Method (Office)
+# SignatureProvider.HashStream method (Office)
 
 Allows a signature provider add-in to create a hash value for the document that you can use to determine if the document contents were tampered with after digital signing.
 
@@ -20,7 +20,7 @@ Allows a signature provider add-in to create a hash value for the document that 
 
  _expression_. `HashStream`( `_QueryContinue_`, `_Stream_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

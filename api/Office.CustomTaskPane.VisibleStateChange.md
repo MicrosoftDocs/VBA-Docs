@@ -20,7 +20,7 @@ Occurs when the user changes the visibility of the custom task pane.
 
  _expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Parameters

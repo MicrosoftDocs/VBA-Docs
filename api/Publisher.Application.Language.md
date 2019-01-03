@@ -30,7 +30,7 @@ Long
 
 ## Remarks
 
-The  **LanguageID** property value can be one of the ** [MsoLanguageID](./Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The  **LanguageID** property value can be one of the ** [MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

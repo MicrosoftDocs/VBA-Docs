@@ -51,7 +51,7 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.PageNumbers.Add.md)|
 |[Item](Word.PageNumbers.Item.md)|
@@ -60,7 +60,7 @@ ActiveDocument.Sections(1).Headers(wdHeaderFooterPrimary) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.PageNumbers.Application.md)|
 |[ChapterPageSeparator](Word.PageNumbers.ChapterPageSeparator.md)|

@@ -41,7 +41,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeWindowClosed](./Visio.Window.BeforeWindowClosed.md)|
 |[BeforeWindowPageTurn](./Visio.Window.BeforeWindowPageTurn.md)|
@@ -65,7 +65,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Visio.Window.Activate.md)|
 |[CenterViewOnShape](./Visio.Window.CenterViewOnShape.md)|
@@ -86,7 +86,7 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowEditing](./Visio.Window.AllowEditing.md)|
 |[Application](./Visio.Window.Application.md)|

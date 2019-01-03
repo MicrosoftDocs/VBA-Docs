@@ -76,7 +76,7 @@ mypane = ActiveWindow.ActivePane.ViewType
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Activate](./PowerPoint.DocumentWindow.Activate.md)**|
 |**[Close](./PowerPoint.DocumentWindow.Close.md)**|
@@ -95,7 +95,7 @@ mypane = ActiveWindow.ActivePane.ViewType
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Active](./PowerPoint.DocumentWindow.Active.md)**|
 |**[ActivePane](./PowerPoint.DocumentWindow.ActivePane.md)**|

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Links Property (Office)
+title: SharedWorkspace.Links property (Office)
 keywords: vbaof11.chm276006
 f1_keywords:
 - vbaof11.chm276006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Links Property (Office)
+# SharedWorkspace.Links property (Office)
 
 Gets a  **[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)** collection that represents the list of links saved in the current shared workspace. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)** collection th
 
  _expression_. `Links`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Example

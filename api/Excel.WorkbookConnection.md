@@ -32,7 +32,7 @@ Connection names are strings that uniquely identify connections within the workb
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.WorkbookConnection.Delete.md)|
 |[Refresh](Excel.WorkbookConnection.Refresh.md)|
@@ -41,7 +41,7 @@ Connection names are strings that uniquely identify connections within the workb
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.WorkbookConnection.Application.md)|
 |[Creator](Excel.WorkbookConnection.Creator.md)|

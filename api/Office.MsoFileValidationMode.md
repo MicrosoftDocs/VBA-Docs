@@ -1,5 +1,5 @@
 ---
-title: MsoFileValidationMode Enumeration (Office)
+title: MsoFileValidationMode enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFileValidationMode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFileValidationMode Enumeration (Office)
+# MsoFileValidationMode enumeration (Office)
 
 Specifies the file validation mode.
 

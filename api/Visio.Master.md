@@ -29,7 +29,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeMasterDelete](./Visio.Master.BeforeMasterDelete.md)|
 |[BeforeSelectionDelete](./Visio.Master.BeforeSelectionDelete.md)|
@@ -62,7 +62,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddGuide](./Visio.Master.AddGuide.md)|
 |[BoundingBox](./Visio.Master.BoundingBox.md)|
@@ -110,7 +110,7 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignName](./Visio.Master.AlignName.md)|
 |[Application](./Visio.Master.Application.md)|

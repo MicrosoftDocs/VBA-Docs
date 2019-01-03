@@ -1,5 +1,5 @@
 ---
-title: TextRange2.RotatedBounds Method (Office)
+title: TextRange2.RotatedBounds method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.RotatedBounds
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.RotatedBounds Method (Office)
+# TextRange2.RotatedBounds method (Office)
 
 Gets the coordinates of the vertices of the text bounding box for the specified text range. Read-only.
 
@@ -17,7 +17,7 @@ Gets the coordinates of the vertices of the text bounding box for the specified 
 
  _expression_. `RotatedBounds`( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_x4_`, `_y4_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

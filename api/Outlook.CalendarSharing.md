@@ -176,7 +176,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ForwardAsICal](Outlook.CalendarSharing.ForwardAsICal.md)|
 |[SaveAsICal](Outlook.CalendarSharing.SaveAsICal.md)|
@@ -185,7 +185,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.CalendarSharing.Application.md)|
 |[CalendarDetail](Outlook.CalendarSharing.CalendarDetail.md)|

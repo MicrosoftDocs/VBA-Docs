@@ -96,7 +96,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Years.Application.md)|
 |[Count](Project.Years.Count.md)|

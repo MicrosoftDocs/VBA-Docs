@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.PublishPost Method (Office)
+title: IBlogExtensibility.PublishPost method (Office)
 keywords: vbaof11.chm328006
 f1_keywords:
 - vbaof11.chm328006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.PublishPost Method (Office)
+# IBlogExtensibility.PublishPost method (Office)
 
 Hands off the current post so it can be published by the provider.
 
@@ -20,7 +20,7 @@ Hands off the current post so it can be published by the provider.
 
  _expression_. `PublishPost`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_xHTML_`, `_Title_`, `_DateTime_`, `_Categories()_`, `_Draft_`, `_PostID_`, `_PublishMessage_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: Font2.SoftEdgeFormat Property (Office)
+title: Font2.SoftEdgeFormat property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.SoftEdgeFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.SoftEdgeFormat Property (Office)
+# Font2.SoftEdgeFormat property (Office)
 
 Gets or sets a value specifying the type of soft edge effect used in a selection of text. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value specifying the type of soft edge effect used in a selection
 
  _expression_. `SoftEdgeFormat`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

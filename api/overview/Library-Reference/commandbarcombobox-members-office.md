@@ -13,14 +13,14 @@ Represents a combo box control on a command bar.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Change](../../Office.CommandBarComboBox.Change.md)|Occurs when the end user changes the selection in a **CommandBar** combo box.|
 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddItem](../../Office.CommandBarComboBox.AddItem.md)|Adds a list item to the specified command bar combo box control. The combo box control must be a custom control and must be a drop-down list box or a combo box.|
 |[Clear](../../Office.CommandBarComboBox.Clear.md)|Removes all list items from a command bar combo box control (a drop-down list box or a combo box).|
@@ -35,7 +35,7 @@ Represents a combo box control on a command bar.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarComboBox.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarComboBox** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[BeginGroup](../../Office.CommandBarComboBox.BeginGroup.md)|Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|

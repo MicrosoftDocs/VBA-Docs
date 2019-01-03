@@ -22,7 +22,7 @@ Adds a new comment to the engagement. Introduced in Office 2016.
 
 
 
-|**Name**|**Optional/Required**|**Data Type**|**Description**|
+|Name|**Optional/Required**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Message_|Required|String|Comment added to the Engagement.|
 

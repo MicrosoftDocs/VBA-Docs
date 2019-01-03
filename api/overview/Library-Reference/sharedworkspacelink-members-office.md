@@ -14,7 +14,7 @@ Represents a URL link saved in a shared document workspace site.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceLink.Delete.md)|Deletes the current **SharedWorkspaceLink** object.|
 |[Save](../../Office.SharedWorkspaceLink.Save.md)|Uploads changes made programmatically to a shared server.|
@@ -22,7 +22,7 @@ Represents a URL link saved in a shared document workspace site.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceLink.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CreatedBy](../../Office.SharedWorkspaceLink.CreatedBy.md)|Gets the display name of the member who created the shared workspace object. Read-only.|

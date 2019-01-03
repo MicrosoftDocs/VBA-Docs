@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo Object (Office)
+title: SignatureInfo object (Office)
 keywords: vbaof11.chm286000
 f1_keywords:
 - vbaof11.chm286000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo Object (Office)
+# SignatureInfo object (Office)
 
 Represents the information used to create a digital or in-document signature.
 
@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetCertificateDetail](Office.SignatureInfo.GetCertificateDetail.md)|
 |[GetSignatureDetail](Office.SignatureInfo.GetSignatureDetail.md)|
@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SignatureInfo.Application.md)|
 |[CertificateVerificationResults](Office.SignatureInfo.CertificateVerificationResults.md)|

@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Parent Property (Office)
+title: CommandBarPopup.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Parent Property (Office)
+# CommandBarPopup.Parent property (Office)
 
 Gets the  **Parent** object for the **CommandBarPopup** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CommandBarPopup** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

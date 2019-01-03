@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.OnAction Property (Office)
+title: CommandBarButton.OnAction property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.OnAction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.OnAction Property (Office)
+# CommandBarButton.OnAction property (Office)
 
 Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarButton** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the name of a Visual Basic procedure that will run when the user cl
 
  _expression_. `OnAction`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

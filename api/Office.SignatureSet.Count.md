@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Count Property (Office)
+title: SignatureSet.Count property (Office)
 keywords: vbaof11.chm247001
 f1_keywords:
 - vbaof11.chm247001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Count Property (Office)
+# SignatureSet.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SignatureSet** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **SignatureSet** object. 
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ A variable that represents a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

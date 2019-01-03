@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.GetSignatureDetail Method (Office)
+title: SignatureInfo.GetSignatureDetail method (Office)
 keywords: vbaof11.chm286006
 f1_keywords:
 - vbaof11.chm286006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.GetSignatureDetail Method (Office)
+# SignatureInfo.GetSignatureDetail method (Office)
 
 Displays a specified detail related to a signature.
 
@@ -20,7 +20,7 @@ Displays a specified detail related to a signature.
 
  _expression_. `GetSignatureDetail`( `_sigdet_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

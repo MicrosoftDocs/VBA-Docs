@@ -36,7 +36,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Profile.Delete.md)|
 
@@ -44,7 +44,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ConnectionState](Project.Profile.ConnectionState.md)|
 |[LoginType](Project.Profile.LoginType.md)|

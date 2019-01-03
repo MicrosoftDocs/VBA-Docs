@@ -51,7 +51,7 @@ You can also view the custom properties dialog box by clicking the **Properties*
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enter](Access.CustomControl.Enter.md)|
 |[Exit](Access.CustomControl.Exit.md)|
@@ -63,7 +63,7 @@ You can also view the custom properties dialog box by clicking the **Properties*
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.CustomControl.Move.md)|
 |[Requery](Access.CustomControl.Requery.md)|
@@ -74,7 +74,7 @@ You can also view the custom properties dialog box by clicking the **Properties*
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[About](Access.CustomControl.About.md)|
 |[Application](Access.CustomControl.Application.md)|

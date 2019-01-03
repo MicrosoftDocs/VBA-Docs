@@ -52,7 +52,7 @@ End Sub
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application Property](excel.formatcolor.application.md)|
 |[Color Property](excel.formatcolor.color.md)|

@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Enabled Property (Office)
+title: CommandBarControl.Enabled property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Enabled
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Enabled Property (Office)
+# CommandBarControl.Enabled property (Office)
 
 Gets or sets a  **Boolean** value specifying if the **CommandBarControl** is enabled. Read/write.
 

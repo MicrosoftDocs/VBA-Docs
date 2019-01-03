@@ -1,5 +1,5 @@
 ---
-title: PickerResult.Fields Property (Office)
+title: PickerResult.Fields property (Office)
 keywords: vbaof11.chm338008
 f1_keywords:
 - vbaof11.chm338008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.Fields Property (Office)
+# PickerResult.Fields property (Office)
 
 Represent field definitions of SubItems in a PickerFields collection. Read-only
 
@@ -20,7 +20,7 @@ Represent field definitions of SubItems in a PickerFields collection. Read-only
 
  _expression_. `Fields`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

@@ -106,7 +106,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OrderField.Application.md)|
 |[Class](Outlook.OrderField.Class.md)|

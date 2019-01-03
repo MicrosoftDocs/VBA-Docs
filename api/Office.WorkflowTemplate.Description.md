@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Description Property (Office)
+title: WorkflowTemplate.Description property (Office)
 keywords: vbaof11.chm282003
 f1_keywords:
 - vbaof11.chm282003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Description Property (Office)
+# WorkflowTemplate.Description property (Office)
 
 Gets the description of a workflow template. Read-only.
 
@@ -20,7 +20,7 @@ Gets the description of a workflow template. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

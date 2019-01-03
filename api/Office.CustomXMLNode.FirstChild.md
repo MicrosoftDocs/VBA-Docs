@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.FirstChild Property (Office)
+title: CustomXMLNode.FirstChild property (Office)
 keywords: vbaof11.chm294005
 f1_keywords:
 - vbaof11.chm294005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.FirstChild Property (Office)
+# CustomXMLNode.FirstChild property (Office)
 
 Gets a  **CustomXMLNode** object corresponding to the first child element of the current node. If the node has no child elements (or if it isn't of type **msoCustomXMLNodeElement**), returns **Nothing**. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **CustomXMLNode** object corresponding to the first child element of the
 
  _expression_. `FirstChild`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

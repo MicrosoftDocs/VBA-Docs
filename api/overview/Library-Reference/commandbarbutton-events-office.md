@@ -13,7 +13,7 @@ This object has the following events:
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Click](../../Office.CommandBarButton.Click.md)|Occurs when the user clicks a  **CommandBarButton** object.|
 

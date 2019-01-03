@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.ShapeNodes.Delete.md)|
 |[Insert](Publisher.ShapeNodes.Insert.md)|
@@ -80,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShapeNodes.Application.md)|
 |[Count](Publisher.ShapeNodes.Count.md)|

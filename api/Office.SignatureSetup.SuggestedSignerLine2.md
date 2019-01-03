@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.SuggestedSignerLine2 Property (Office)
+title: SignatureSetup.SuggestedSignerLine2 property (Office)
 keywords: vbaof11.chm285005
 f1_keywords:
 - vbaof11.chm285005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.SuggestedSignerLine2 Property (Office)
+# SignatureSetup.SuggestedSignerLine2 property (Office)
 
 Gets or sets the second line of suggested signer information (for example, title). Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the second line of suggested signer information (for example, title
 
  _expression_. `SuggestedSignerLine2`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

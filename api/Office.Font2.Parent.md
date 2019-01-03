@@ -1,5 +1,5 @@
 ---
-title: Font2.Parent Property (Office)
+title: Font2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Parent Property (Office)
+# Font2.Parent property (Office)
 
 Gets the parent of the  **Font2** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets the parent of the  **Font2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

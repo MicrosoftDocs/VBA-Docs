@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.CanAddSignatureLine Property (Office)
+title: SignatureSet.CanAddSignatureLine property (Office)
 keywords: vbaof11.chm247007
 f1_keywords:
 - vbaof11.chm247007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.CanAddSignatureLine Property (Office)
+# SignatureSet.CanAddSignatureLine property (Office)
 
 Gets a  **Boolean** value indicating whether you can add a signature line to a document. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether you can add a signature line to a d
 
  _expression_. `CanAddSignatureLine`
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

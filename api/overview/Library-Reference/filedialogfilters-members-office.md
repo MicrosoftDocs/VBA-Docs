@@ -13,7 +13,7 @@ A collection of **FileDialogFilter** objects that represent the types of files t
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.FileDialogFilters.Add.md)|Adds a new file filter to the list of filters in the **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.|
 |[Clear](../../Office.FileDialogFilters.Clear.md)|Removes all filters currently applied in a file dialog box.|
@@ -23,7 +23,7 @@ A collection of **FileDialogFilter** objects that represent the types of files t
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.FileDialogFilters.Application.md)|Gets an **Application** object that represents the container application for the **FileDialogFilters** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.FileDialogFilters.Count.md)|Gets a **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.|

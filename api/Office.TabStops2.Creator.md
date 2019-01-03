@@ -1,5 +1,5 @@
 ---
-title: TabStops2.Creator Property (Office)
+title: TabStops2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.Creator Property (Office)
+# TabStops2.Creator property (Office)
 
 Gets a 32-bit integer that represents the Microsoft Office application in which the **TabStops2** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that represents the Microsoft Office application in which 
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
+ _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 
 
 ## Return value

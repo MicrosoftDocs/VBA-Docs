@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors Object (Office)
+title: DocumentInspectors object (Office)
 keywords: vbaof11.chm278000
 f1_keywords:
 - vbaof11.chm278000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors Object (Office)
+# DocumentInspectors object (Office)
 
 Represents a collection of  **DocumentInspector** objects.
 

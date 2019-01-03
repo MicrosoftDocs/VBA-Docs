@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CellRange.Item.md)|
 |[Merge](Publisher.CellRange.Merge.md)|
@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CellRange.Application.md)|
 |[Column](Publisher.CellRange.Column.md)|

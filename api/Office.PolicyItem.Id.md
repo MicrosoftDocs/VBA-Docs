@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Id Property (Office)
+title: PolicyItem.Id property (Office)
 keywords: vbaof11.chm278021
 f1_keywords:
 - vbaof11.chm278021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Id Property (Office)
+# PolicyItem.Id property (Office)
 
 Gets the ID of a policy item.  **PolicyItem** objects are contained in **ServerPolicy** objects. Read-only.
 
@@ -20,7 +20,7 @@ Gets the ID of a policy item.  **PolicyItem** objects are contained in **ServerP
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.Application Property (Office)
+title: OfficeTheme.Application property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.Application Property (Office)
+# OfficeTheme.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **OfficeTheme** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
+ _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 
 
 ## Return value

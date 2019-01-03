@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPrefixMappings.Application.md)|Gets an  **Application** object that represents the container application for the ** CustomXMLPrefixMappings** object. Read-only.|
 |[Count](../../Office.CustomXMLPrefixMappings.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings** collection. Read-only.|

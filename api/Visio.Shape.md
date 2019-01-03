@@ -43,7 +43,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeSelectionDelete](./Visio.Shape.BeforeSelectionDelete.md)|
 |[BeforeShapeDelete](./Visio.Shape.BeforeShapeDelete.md)|
@@ -72,7 +72,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddGuide](./Visio.Shape.AddGuide.md)|
 |[AddHyperlink](./Visio.Shape.AddHyperlink.md)|
@@ -166,7 +166,7 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Shape.Application.md)|
 |[AreaIU](./Visio.Shape.AreaIU.md)|

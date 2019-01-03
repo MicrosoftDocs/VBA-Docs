@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks.Creator Property (Office)
+title: SharedWorkspaceLinks.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceLinks.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLinks.Creator Property (Office)
+# SharedWorkspaceLinks.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceLinks** object was created. Read-only.
 
@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **SharedWorks
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SharedWorkspaceLinks](./Office.SharedWorkspaceLinks.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md) object.
 
 
 ## Return value

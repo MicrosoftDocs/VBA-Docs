@@ -1,5 +1,5 @@
 ---
-title: CommandBar.ShowPopup Method (Office)
+title: CommandBar.ShowPopup method (Office)
 keywords: vbaof11.chm3017
 f1_keywords:
 - vbaof11.chm3017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.ShowPopup Method (Office)
+# CommandBar.ShowPopup method (Office)
 
 Displays a command bar as a shortcut menu at the specified coordinates or at the current pointer coordinates.
 
@@ -23,7 +23,7 @@ Displays a command bar as a shortcut menu at the specified coordinates or at the
 
  _expression_. `ShowPopup`( `_x_`, `_y_` )
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Parameters

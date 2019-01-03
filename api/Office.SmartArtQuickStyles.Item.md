@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyles.Item Method (Office)
+title: SmartArtQuickStyles.Item method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyles.Item Method (Office)
+# SmartArtQuickStyles.Item method (Office)
 
 Retrieves a  **SmartArtQuickStyle** object at the specified index or with the specified unique Id.
 
@@ -17,7 +17,7 @@ Retrieves a  **SmartArtQuickStyle** object at the specified index or with the sp
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyles](Office.SmartArtQuickStyles.md) object.
 
 
 ## Parameters

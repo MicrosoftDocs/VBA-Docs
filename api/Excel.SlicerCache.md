@@ -42,7 +42,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearAllFilters](Excel.slicercache.clearallfilters.md)|
 |[ClearDateFilter](Excel.slicercache.cleardatefilter.md)|
@@ -53,7 +53,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.SlicerCache.Application.md)|
 |[Creator](Excel.SlicerCache.Creator.md)|

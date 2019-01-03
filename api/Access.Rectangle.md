@@ -31,7 +31,7 @@ You can move a rectangle and the controls in it as a single unit by dragging the
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.Rectangle.Click.md)|
 |[DblClick](Access.Rectangle.DblClick.md)|
@@ -43,7 +43,7 @@ You can move a rectangle and the controls in it as a single unit by dragging the
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.Rectangle.Move.md)|
 |[SizeToFit](Access.Rectangle.SizeToFit.md)|
@@ -52,7 +52,7 @@ You can move a rectangle and the controls in it as a single unit by dragging the
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Rectangle.Application.md)|
 |[BackColor](Access.Rectangle.BackColor.md)|

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.IsPriorityDropped Property (Office)
+title: CommandBarComboBox.IsPriorityDropped property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.IsPriorityDropped
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.IsPriorityDropped Property (Office)
+# CommandBarComboBox.IsPriorityDropped property (Office)
 
 Gets  **True** if the control is currently dropped from the menu or toolbar based on usage statistics and layout space. (Note that this is not the same as the control's visibility, as set by the **Visible** property). Read-only.
 
@@ -20,7 +20,7 @@ Gets  **True** if the control is currently dropped from the menu or toolbar base
 
  _expression_. `IsPriorityDropped`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

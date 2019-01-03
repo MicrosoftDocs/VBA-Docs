@@ -107,7 +107,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddSharedImage](Access.CurrentProject.AddSharedImage.md)|
 |[CloseConnection](Access.CurrentProject.CloseConnection.md)|
@@ -118,7 +118,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccessConnection](Access.CurrentProject.AccessConnection.md)|
 |[AllForms](Access.CurrentProject.AllForms.md)|

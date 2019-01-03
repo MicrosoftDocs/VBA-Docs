@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Priority Property (Office)
+title: CommandBarComboBox.Priority property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Priority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Priority Property (Office)
+# CommandBarComboBox.Priority property (Office)
 
 Gets or sets the priority of a  **CommandBarComboBox** control. A control's priority determines whether the control can be dropped from a docked command bar if the command bar controls can't fit in a single row. Read/write.
 

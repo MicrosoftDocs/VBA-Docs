@@ -22,7 +22,7 @@ Returns or sets whether text remains flat when the specified object is rotated. 
 
 ## Return value
 
-[MsoTriState](./Office.MsoTriState.md)
+[MsoTriState](Office.MsoTriState.md)
 
 
 ## Remarks

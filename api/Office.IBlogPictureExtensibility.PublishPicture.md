@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility.PublishPicture Method (Office)
+title: IBlogPictureExtensibility.PublishPicture method (Office)
 keywords: vbaof11.chm329003
 f1_keywords:
 - vbaof11.chm329003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility.PublishPicture Method (Office)
+# IBlogPictureExtensibility.PublishPicture method (Office)
 
 Used to post a picture object to its final destination in a blog.
 
@@ -20,7 +20,7 @@ Used to post a picture object to its final destination in a blog.
 
  _expression_. `PublishPicture`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_Image_`, `_PictureURI_` )
 
- _expression_ An expression that returns a [IBlogPictureExtensibility](./Office.IBlogPictureExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogPictureExtensibility](Office.IBlogPictureExtensibility.md) object.
 
 
 ## Parameters

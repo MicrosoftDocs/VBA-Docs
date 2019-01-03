@@ -25,7 +25,7 @@ Sets or returns the shape style index for the specified object. Read/write.
 
 ## Remarks
 
-The value of the  **ShapeStyle** property can be one of the **[MsoShapeStyleIndex](./Office.MsoShapeStyleIndex.md)** constants.
+The value of the  **ShapeStyle** property can be one of the **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** constants.
 
 
 ## See also

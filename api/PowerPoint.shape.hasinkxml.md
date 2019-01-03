@@ -8,7 +8,7 @@ ms.prod: powerpoint
 
 # Shape.HasInkXML Property (PowerPoint)
 
-Returns an [MsoTriState](./Office.MsoTriState.md) enumeration value that indicates whether the specified shape contains ink XML that can be retrieved via the [Shape.InkXML](PowerPoint.shape.inkxml.md) property. Read-only.
+Returns an [MsoTriState](Office.MsoTriState.md) enumeration value that indicates whether the specified shape contains ink XML that can be retrieved via the [Shape.InkXML](PowerPoint.shape.inkxml.md) property. Read-only.
 
 An error is returned if the shape does not contain any ink XML.
 
@@ -42,7 +42,7 @@ The value of this property can be one of these  **MsoTriState** constants.
 
 
 
-[MsoTriState](./Office.MsoTriState.md)
+[MsoTriState](Office.MsoTriState.md)
 [Shape.InkXML](PowerPoint.shape.inkxml.md)
 
 

@@ -35,7 +35,7 @@ Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.ListRows.Add.md)|
 
@@ -43,7 +43,7 @@ Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ListRows.Application.md)|
 |[Count](Excel.ListRows.Count.md)|

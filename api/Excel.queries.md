@@ -20,7 +20,7 @@ The collection of [WorkbookQuery](Excel.workbookquery.md) objects Introduced in 
 
 |
 |
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.queries.add.md)|
 |[Item](Excel.queries.item.md)|
@@ -30,7 +30,7 @@ The collection of [WorkbookQuery](Excel.workbookquery.md) objects Introduced in 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.queries.application.md)|
 |[Count](Excel.queries.count.md)|

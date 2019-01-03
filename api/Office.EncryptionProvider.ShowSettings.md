@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.ShowSettings Method (Office)
+title: EncryptionProvider.ShowSettings method (Office)
 keywords: vbaof11.chm327009
 f1_keywords:
 - vbaof11.chm327009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.ShowSettings Method (Office)
+# EncryptionProvider.ShowSettings method (Office)
 
 Used to display a dialog of the encryption settings for the current document.
 
@@ -20,7 +20,7 @@ Used to display a dialog of the encryption settings for the current document.
 
  _expression_. `ShowSettings`( `_SessionHandle_`, `_ParentWindow_`, `_ReadOnly_`, `_Remove_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

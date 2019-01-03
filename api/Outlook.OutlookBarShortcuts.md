@@ -35,7 +35,7 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeShortcutAdd](Outlook.OutlookBarShortcuts.BeforeShortcutAdd.md)|
 |[BeforeShortcutRemove](Outlook.OutlookBarShortcuts.BeforeShortcutRemove.md)|
@@ -45,7 +45,7 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.OutlookBarShortcuts.Add.md)|
 |[Item](Outlook.OutlookBarShortcuts.Item.md)|
@@ -55,7 +55,7 @@ Set myShortcuts = myOutlookBarGroup.Shortcuts
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarShortcuts.Application.md)|
 |[Class](Outlook.OutlookBarShortcuts.Class.md)|

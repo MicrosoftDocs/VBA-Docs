@@ -1,5 +1,5 @@
 ---
-title: Crop.ShapeHeight Property (Office)
+title: Crop.ShapeHeight property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.ShapeHeight
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.ShapeHeight Property (Office)
+# Crop.ShapeHeight property (Office)
 
 Gets or sets the height of a shape that is used to crop an image. Read/write
 
@@ -17,7 +17,7 @@ Gets or sets the height of a shape that is used to crop an image. Read/write
 
  _expression_. `ShapeHeight`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

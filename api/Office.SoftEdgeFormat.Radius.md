@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Radius Property (Office)
+title: SoftEdgeFormat.Radius property (Office)
 ms.prod: office
 api_name:
 - Office.SoftEdgeFormat.Radius
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Radius Property (Office)
+# SoftEdgeFormat.Radius property (Office)
 
 Gets or sets the size, measured in points, of the soft edge effect of the shape. Read/write
 
@@ -17,7 +17,7 @@ Gets or sets the size, measured in points, of the soft edge effect of the shape.
 
  _expression_. `Radius`
 
- _expression_ An expression that returns a [SoftEdgeFormat](./Office.SoftEdgeFormat.md) object.
+ _expression_ An expression that returns a [SoftEdgeFormat](Office.SoftEdgeFormat.md) object.
 
 
 ## See also

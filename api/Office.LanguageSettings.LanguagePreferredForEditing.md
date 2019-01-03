@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings.LanguagePreferredForEditing Property (Office)
+title: LanguageSettings.LanguagePreferredForEditing property (Office)
 keywords: vbaof11.chm231002
 f1_keywords:
 - vbaof11.chm231002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LanguageSettings.LanguagePreferredForEditing Property (Office)
+# LanguageSettings.LanguagePreferredForEditing property (Office)
 
 Gets  **True** if the value for the **MsoLanguageID** constant has been identified in the Windows registry as a preferred language for editing. Read-only.
 
@@ -20,7 +20,7 @@ Gets  **True** if the value for the **MsoLanguageID** constant has been identifi
 
  _expression_. `LanguagePreferredForEditing`( `_lid_` )
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Parameters

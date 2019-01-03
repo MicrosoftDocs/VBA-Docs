@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Count Property (Office)
+title: TextRange2.Count property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Count Property (Office)
+# TextRange2.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **TextRange2** collection. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **Long** indicating the number of items in the **TextRange2** collection
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

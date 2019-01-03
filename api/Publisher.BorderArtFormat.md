@@ -131,7 +131,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.BorderArtFormat.Delete.md)|
 |[RevertToDefaultWeight](Publisher.BorderArtFormat.RevertToDefaultWeight.md)|
@@ -142,7 +142,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BorderArtFormat.Application.md)|
 |[Color](Publisher.BorderArtFormat.Color.md)|

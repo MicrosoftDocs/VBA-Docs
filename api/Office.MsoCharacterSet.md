@@ -1,5 +1,5 @@
 ---
-title: MsoCharacterSet Enumeration (Office)
+title: MsoCharacterSet enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCharacterSet
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCharacterSet Enumeration (Office)
+# MsoCharacterSet enumeration (Office)
 
 Specifies the character set to be used when rendering text.
 

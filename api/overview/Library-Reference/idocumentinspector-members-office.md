@@ -13,7 +13,7 @@ Represents the interface through which the methods of a **IDocumentInspector** o
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Fix](../../Office.IDocumentInspector.Fix.md)|Performs some action on specific information items or document properties by using a custom Document Inspector module.|
 |[GetInfo](../../Office.IDocumentInspector.GetInfo.md)|Gets information about a custom Document Inspector module.|

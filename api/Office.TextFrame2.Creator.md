@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Creator Property (Office)
+title: TextFrame2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Creator Property (Office)
+# TextFrame2.Creator property (Office)
 
 Returns a 32-bit integer that indicates the application in which this object was created. Read-only. Long
 
@@ -17,7 +17,7 @@ Returns a 32-bit integer that indicates the application in which this object was
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Example

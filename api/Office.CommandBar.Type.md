@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Type Property (Office)
+title: CommandBar.Type property (Office)
 keywords: vbaof11.chm3019
 f1_keywords:
 - vbaof11.chm3019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Type Property (Office)
+# CommandBar.Type property (Office)
 
 Gets the type of command bar. Read-only.
 

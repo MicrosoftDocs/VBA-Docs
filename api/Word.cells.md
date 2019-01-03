@@ -81,7 +81,7 @@ Next aCell
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Cells.Add.md)|
 |[AutoFit](Word.Cells.AutoFit.md)|
@@ -98,7 +98,7 @@ Next aCell
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Cells.Application.md)|
 |[Borders](Word.Cells.Borders.md)|

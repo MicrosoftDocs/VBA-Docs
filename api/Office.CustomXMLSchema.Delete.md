@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Delete Method (Office)
+title: CustomXMLSchema.Delete method (Office)
 keywords: vbaof11.chm291004
 f1_keywords:
 - vbaof11.chm291004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Delete Method (Office)
+# CustomXMLSchema.Delete method (Office)
 
 Deletes the specified schema from the  **CustomXMLSchema** collection.
 
@@ -20,7 +20,7 @@ Deletes the specified schema from the  **CustomXMLSchema** collection.
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Remarks

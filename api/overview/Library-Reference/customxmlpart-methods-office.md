@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNode](../../Office.CustomXMLPart.AddNode.md)|Adds a node to the XML tree.|
 |[Delete](../../Office.CustomXMLPart.Delete.md)|Deletes the current  **CustomXMLPart** from the data store (**IXMLDataStore** interface).|

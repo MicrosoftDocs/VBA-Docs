@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetScreentipMso Method (Office)
+title: CommandBars.GetScreentipMso method (Office)
 keywords: vbaof11.chm2023
 f1_keywords:
 - vbaof11.chm2023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetScreentipMso Method (Office)
+# CommandBars.GetScreentipMso method (Office)
 
 Returns the screentip of the control identified by the  **idMso** parameter as a String.
 
@@ -23,7 +23,7 @@ Returns the screentip of the control identified by the  **idMso** parameter as a
 
  _expression_. `GetScreentipMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

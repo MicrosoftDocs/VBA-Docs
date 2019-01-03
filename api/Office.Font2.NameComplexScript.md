@@ -1,5 +1,5 @@
 ---
-title: Font2.NameComplexScript Property (Office)
+title: Font2.NameComplexScript property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.NameComplexScript
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.NameComplexScript Property (Office)
+# Font2.NameComplexScript property (Office)
 
 Gets or sets the complex script font name. Used for mixed language text. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the complex script font name. Used for mixed language text. Read/wr
 
  _expression_. `NameComplexScript`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

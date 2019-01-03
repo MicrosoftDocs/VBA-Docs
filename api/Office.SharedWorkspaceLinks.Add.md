@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks.Add Method (Office)
+title: SharedWorkspaceLinks.Add method (Office)
 keywords: vbaof11.chm271003
 f1_keywords:
 - vbaof11.chm271003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLinks.Add Method (Office)
+# SharedWorkspaceLinks.Add method (Office)
 
 Adds a link to the list of links in a shared workspace.
 

@@ -1,5 +1,5 @@
 ---
-title: GlowFormat Object (Office)
+title: GlowFormat object (Office)
 ms.prod: office
 api_name:
 - Office.GlowFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat Object (Office)
+# GlowFormat object (Office)
 
 Represents a glow effect around an Office graphic.
 
@@ -30,7 +30,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.GlowFormat.Application.md)|
 |[Color](Office.GlowFormat.Color.md)|

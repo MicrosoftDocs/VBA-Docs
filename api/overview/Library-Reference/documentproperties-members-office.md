@@ -13,14 +13,14 @@ A collection of **DocumentProperty** objects. Each **DocumentProperty** object r
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.DocumentProperties.Add.md)|Creates a new custom document property. You can add a new document property only to the custom **DocumentProperties** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentProperties.Application.md)|Gets an **Application** object that represents the container application for the **DocumentProperties** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.DocumentProperties.Count.md)|Gets a **Long** indicating the number of items in the **DocumentProperties** collection. Read-only.|

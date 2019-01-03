@@ -34,7 +34,7 @@ You can't add or delete a  **Form** object from the **Forms** collection.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Forms.Application.md)|
 |[Count](Access.Forms.Count.md)|

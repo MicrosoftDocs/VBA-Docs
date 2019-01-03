@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Parent Property (Office)
+title: TextFrame2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Parent Property (Office)
+# TextFrame2.Parent property (Office)
 
 Returns the calling object. Read-only
 
@@ -17,7 +17,7 @@ Returns the calling object. Read-only
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## See also

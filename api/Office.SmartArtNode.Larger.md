@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Larger Method (Office)
+title: SmartArtNode.Larger method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Larger
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Larger Method (Office)
+# SmartArtNode.Larger method (Office)
 
 Increases the size of the SmartArt node. Mimics the behavior of the Larger button on the Microsoft Office Fluent Ribbon Format tab for SmartArt.
 
@@ -17,7 +17,7 @@ Increases the size of the SmartArt node. Mimics the behavior of the Larger butto
 
 _expression_. `Larger`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

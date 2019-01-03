@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetLabelMso Method (Office)
+title: CommandBars.GetLabelMso method (Office)
 keywords: vbaof11.chm2022
 f1_keywords:
 - vbaof11.chm2022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetLabelMso Method (Office)
+# CommandBars.GetLabelMso method (Office)
 
 Returns the label of the control identified by the  **idMso** parameter as a String.
 
@@ -23,7 +23,7 @@ Returns the label of the control identified by the  **idMso** parameter as a Str
 
  _expression_. `GetLabelMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

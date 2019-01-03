@@ -83,7 +83,7 @@ End If
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.AddIn.Application.md)|
 |[CLSID](Excel.AddIn.CLSID.md)|

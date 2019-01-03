@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.Delete Method (Office)
+title: SharedWorkspaceLink.Delete method (Office)
 keywords: vbaof11.chm270009
 f1_keywords:
 - vbaof11.chm270009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.Delete Method (Office)
+# SharedWorkspaceLink.Delete method (Office)
 
 Deletes the current  **SharedWorkspaceLink** object.
 

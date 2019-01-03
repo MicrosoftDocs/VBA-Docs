@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorFormat.Application.md)|
 |[BaseCMYK](Publisher.ColorFormat.BaseCMYK.md)|

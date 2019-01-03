@@ -1,5 +1,5 @@
 ---
-title: MsoAutoShapeType Enumeration (Office)
+title: MsoAutoShapeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAutoShapeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAutoShapeType Enumeration (Office)
+# MsoAutoShapeType enumeration (Office)
 
 Specifies the shape type for an  **AutoShape** object.
 

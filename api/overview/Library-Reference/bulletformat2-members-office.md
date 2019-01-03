@@ -13,14 +13,14 @@ Represents bullet formatting.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Picture](../../Office.BulletFormat2.Picture.md)|Sets the graphics file to be used for bullets in a bulleted list.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.BulletFormat2.Application.md)|Gets an object that represents the **BulletFormat2** object. Read-only.|
 |[Character](../../Office.BulletFormat2.Character.md)|Gets or sets the Unicode character value that is used for bullets in the specified text. Read/write.|

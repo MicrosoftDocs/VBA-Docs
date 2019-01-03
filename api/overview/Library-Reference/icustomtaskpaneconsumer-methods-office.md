@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CTPFactoryAvailable](../../Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)|Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.|
 

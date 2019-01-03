@@ -1,5 +1,5 @@
 ---
-title: MsoSharedWorkspaceTaskPriority Enumeration (Office)
+title: MsoSharedWorkspaceTaskPriority enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSharedWorkspaceTaskPriority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSharedWorkspaceTaskPriority Enumeration (Office)
+# MsoSharedWorkspaceTaskPriority enumeration (Office)
 
 Specifies the priority for a shared workspace task.
 

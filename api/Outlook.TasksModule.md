@@ -27,7 +27,7 @@ You can use the  **[Visible](Outlook.TasksModule.Visible.md)** property to deter
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TasksModule.Application.md)|
 |[Class](Outlook.TasksModule.Class.md)|

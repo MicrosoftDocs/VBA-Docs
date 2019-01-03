@@ -1,5 +1,5 @@
 ---
-title: MsoIodGroup Enumeration (Office)
+title: MsoIodGroup enumeration (Office)
 keywords: vbaof11.chm100127
 f1_keywords:
 - vbaof11.chm100127
@@ -9,7 +9,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoIodGroup Enumeration (Office)
+# MsoIodGroup enumeration (Office)
 
 Specifies constants that define the IOD (install on demand) groups.
 

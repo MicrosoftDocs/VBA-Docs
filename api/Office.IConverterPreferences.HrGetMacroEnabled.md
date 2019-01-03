@@ -1,5 +1,5 @@
 ---
-title: IConverterPreferences.HrGetMacroEnabled Method (Office)
+title: IConverterPreferences.HrGetMacroEnabled method (Office)
 keywords: vbaof11.chm330001
 f1_keywords:
 - vbaof11.chm330001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterPreferences.HrGetMacroEnabled Method (Office)
+# IConverterPreferences.HrGetMacroEnabled method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrGetMacroEnabled`( `_pfMacroEnabled_` )
 
- _expression_ An expression that returns a [IConverterPreferences](./Office.IConverterPreferences.md) object.
+ _expression_ An expression that returns a [IConverterPreferences](Office.IConverterPreferences.md) object.
 
 
 ## Parameters

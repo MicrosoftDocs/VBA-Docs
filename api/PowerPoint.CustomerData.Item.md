@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Item Method (PowerPoint)
 
-Returns the specified  **[CustomXMLPart](./Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
+Returns the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 
 
 ## Syntax

@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToRecipientFields](Publisher.MailMergeDataField.AddToRecipientFields.md)|
 |[Insert](Publisher.MailMergeDataField.Insert.md)|
@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeDataField.Application.md)|
 |[Creator](Publisher.MailMergeDataField.Creator.md)|

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Creator Property (Office)
+title: CustomXMLValidationError.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLValidationError.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Creator Property (Office)
+# CustomXMLValidationError.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLValidationError** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLVa
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

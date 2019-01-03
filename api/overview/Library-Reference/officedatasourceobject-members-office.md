@@ -13,7 +13,7 @@ Represents the mail merge data source in a mail merge operation.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ApplyFilter](../../Office.OfficeDataSourceObject.ApplyFilter.md)|Applies a filter to a mail merge data source to filter specified records meeting specified criteria.|
 |[Move](../../Office.OfficeDataSourceObject.Move.md)|Moves a record in a return set from a **OfficeDataSourceObject** object from one position to another.|
@@ -23,7 +23,7 @@ Represents the mail merge data source in a mail merge operation.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Columns](../../Office.OfficeDataSourceObject.Columns.md)|Gets an **ODSOColumns** object that represents the fields in a data source. Read-only.|
 |[ConnectString](../../Office.OfficeDataSourceObject.ConnectString.md)|Gets or sets a **String** that represents the connection to the specified mail merge data source. Read/write.|

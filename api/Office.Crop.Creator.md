@@ -1,5 +1,5 @@
 ---
-title: Crop.Creator Property (Office)
+title: Crop.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.Creator Property (Office)
+# Crop.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **Crop** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **Crop** obje
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

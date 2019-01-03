@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.VerticalAnchor Property (Office)
+title: TextFrame2.VerticalAnchor property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.VerticalAnchor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.VerticalAnchor Property (Office)
+# TextFrame2.VerticalAnchor property (Office)
 
 Returns or sets the vertical alignment of text in a text frame. Read/write
 
@@ -17,7 +17,7 @@ Returns or sets the vertical alignment of text in a text frame. Read/write
 
  _expression_. `VerticalAnchor`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

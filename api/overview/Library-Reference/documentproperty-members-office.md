@@ -13,14 +13,14 @@ Represents a custom or built-in document property of a container document. The *
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.DocumentProperty.Delete.md)|Removes a custom document property.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentProperty.Application.md)|Gets an **Application** object that represents the container application for the **DocumentProperty** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.DocumentProperty.Creator.md)|Gets a 32-bit integer that indicates the application in which the **DocumentProperty** object was created. Read-only.|

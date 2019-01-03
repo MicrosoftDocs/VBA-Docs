@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Width Property (Office)
+title: CommandBarPopup.Width property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Width
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Width Property (Office)
+# CommandBarPopup.Width property (Office)
 
 Gets or sets the width (in pixels) of the specified  **CommandBarPopup** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarPopup** control
 
  _expression_. `Width`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

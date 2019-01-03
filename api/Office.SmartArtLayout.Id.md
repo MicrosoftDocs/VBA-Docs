@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout.Id Property (Office)
+title: SmartArtLayout.Id property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout.Id Property (Office)
+# SmartArtLayout.Id property (Office)
 
 Retrieves the unique Id of the associated SmartArt layout. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the unique Id of the associated SmartArt layout. Read-only
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## Remarks

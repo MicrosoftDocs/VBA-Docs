@@ -33,7 +33,7 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Excel.fullseriescollection.item.md)|
 
@@ -41,7 +41,7 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.fullseriescollection.application.md)|
 |[Count](Excel.fullseriescollection.count.md)|

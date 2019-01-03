@@ -14,14 +14,14 @@ A collection of the **[SharedWorkspaceLink](../../Office.SharedWorkspaceLink.md)
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceLinks.Add.md)|Adds a link to the list of links in a shared workspace.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceLinks.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceLinks** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceLinks.Count.md)|Gets a **Long** indicating the number of items in the **SharedWorkspaceLinks** object. Read-only.|

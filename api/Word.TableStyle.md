@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Condition](Word.TableStyle.Condition.md)|
 
@@ -66,7 +66,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.TableStyle.Alignment.md)|
 |[AllowBreakAcrossPage](Word.TableStyle.AllowBreakAcrossPage.md)|

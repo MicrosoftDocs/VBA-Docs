@@ -55,7 +55,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearFormatting](Word.Replacement.ClearFormatting.md)|
 
@@ -63,7 +63,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Replacement.Application.md)|
 |[Creator](Word.Replacement.Creator.md)|

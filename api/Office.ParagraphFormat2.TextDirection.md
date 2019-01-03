@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.TextDirection Property (Office)
+title: ParagraphFormat2.TextDirection property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.TextDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.TextDirection Property (Office)
+# ParagraphFormat2.TextDirection property (Office)
 
 Gets or sets the text direction for the specified paragraph. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the text direction for the specified paragraph. Read/write.
 
  _expression_. `TextDirection`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

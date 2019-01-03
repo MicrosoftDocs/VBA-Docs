@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.FaceId Property (Office)
+title: CommandBarButton.FaceId property (Office)
 keywords: vbaof11.chm6003
 f1_keywords:
 - vbaof11.chm6003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.FaceId Property (Office)
+# CommandBarButton.FaceId property (Office)
 
 Gets or sets the Id number for the face of a  **CommandBarButton** control. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the Id number for the face of a  **CommandBarButton** control. Read
 
  _expression_. `FaceId`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

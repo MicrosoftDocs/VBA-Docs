@@ -68,7 +68,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Filters.Application.md)|
 |[Count](Excel.Filters.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Move Method (Office)
+title: CommandBarControl.Move method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Move
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Move Method (Office)
+# CommandBarControl.Move method (Office)
 
 Moves the specified  **CommandBarControl** to an existing command bar.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Parent Property (Office)
+title: CustomXMLSchema.Parent property (Office)
 keywords: vbaof11.chm291001
 f1_keywords:
 - vbaof11.chm291001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Parent Property (Office)
+# CustomXMLSchema.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLSchema** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLSchema** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.Authenticate Method (Office)
+title: EncryptionProvider.Authenticate method (Office)
 keywords: vbaof11.chm327003
 f1_keywords:
 - vbaof11.chm327003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.Authenticate Method (Office)
+# EncryptionProvider.Authenticate method (Office)
 
 Used to determine whether the user has the proper permissions to open the encrypted document.
 
@@ -20,7 +20,7 @@ Used to determine whether the user has the proper permissions to open the encryp
 
  _expression_. `Authenticate`( `_ParentWindow_`, `_EncryptionData_`, `_PermissionsMask_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

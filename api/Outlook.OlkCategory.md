@@ -36,7 +36,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkCategory.Change.md)|
 |[Click](Outlook.OlkCategory.Click.md)|
@@ -54,7 +54,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkCategory.AutoSize.md)|
 |[BackColor](Outlook.OlkCategory.BackColor.md)|

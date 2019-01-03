@@ -1,5 +1,5 @@
 ---
-title: SearchScopes.Application Property (Office)
+title: SearchScopes.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SearchScopes.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScopes.Application Property (Office)
+# SearchScopes.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SearchScopes** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ A variable that represents a [SearchScopes](./Office.SearchScopes.md) object.
+ _expression_ A variable that represents a [SearchScopes](Office.SearchScopes.md) object.
 
 
 ## Return value

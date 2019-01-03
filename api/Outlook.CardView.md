@@ -35,7 +35,7 @@ You can change built-in  **CardView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.CardView.Apply.md)|
 |[Copy](Outlook.CardView.Copy.md)|
@@ -48,7 +48,7 @@ You can change built-in  **CardView** objects, but you cannot delete them. Use t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowInCellEditing](Outlook.CardView.AllowInCellEditing.md)|
 |[Application](Outlook.CardView.Application.md)|

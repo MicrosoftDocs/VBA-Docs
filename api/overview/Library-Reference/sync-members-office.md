@@ -14,7 +14,7 @@ The **Sync** property of the **Document** object in Microsoft Word, the **Workbo
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetUpdate](../../Office.GetUpdate.md)|Compares the local version of the shared document to the version on the server.|
 |[OpenVersion](../../Office.Sync.OpenVersion.md)|Opens a different version of the shared document alongside the currently open local version.|
@@ -25,7 +25,7 @@ The **Sync** property of the **Document** object in Microsoft Word, the **Workbo
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Sync.Application.md)|Gets an **Application** object that represents the container application for the **Sync** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.Sync.Creator.md)|Gets a 32-bit integer that indicates the application in which the **Sync** object was created. Read-only.|

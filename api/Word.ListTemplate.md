@@ -55,7 +55,7 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Convert](Word.ListTemplate.Convert.md)|
 
@@ -63,7 +63,7 @@ Use the  **Convert** method to convert a multiple-level list template to a singl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListTemplate.Application.md)|
 |[Creator](Word.ListTemplate.Creator.md)|

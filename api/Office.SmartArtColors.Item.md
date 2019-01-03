@@ -1,5 +1,5 @@
 ---
-title: SmartArtColors.Item Method (Office)
+title: SmartArtColors.Item method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColors.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColors.Item Method (Office)
+# SmartArtColors.Item method (Office)
 
 Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.
 
@@ -17,7 +17,7 @@ Retrieves a  **SmartArtColor** object at the specified index or with the specifi
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
+ _expression_ An expression that returns a [SmartArtColors](Office.SmartArtColors.md) object.
 
 
 ## Parameters

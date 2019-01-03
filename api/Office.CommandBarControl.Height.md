@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Height Property (Office)
+title: CommandBarControl.Height property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Height
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Height Property (Office)
+# CommandBarControl.Height property (Office)
 
 Gets or sets the height of a  **CommandBarControl** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the height of a  **CommandBarControl** control. Read/write.
 
  _expression_. `Height`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

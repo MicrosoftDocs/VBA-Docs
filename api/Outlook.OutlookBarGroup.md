@@ -35,7 +35,7 @@ Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarGroup.Application.md)|
 |[Class](Outlook.OutlookBarGroup.Class.md)|

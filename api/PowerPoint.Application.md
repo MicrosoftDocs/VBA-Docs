@@ -61,7 +61,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterDragDropOnSlide](./PowerPoint.application.afterdragdroponslide.md)|
 |[AfterNewPresentation](./PowerPoint.Application.AfterNewPresentation.md)|
@@ -101,7 +101,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./PowerPoint.Application.Activate.md)|
 |[Help](./PowerPoint.Application.Help.md)|
@@ -114,7 +114,7 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./PowerPoint.Application.Active.md)|
 |[ActiveEncryptionSession](./PowerPoint.Application.ActiveEncryptionSession.md)|

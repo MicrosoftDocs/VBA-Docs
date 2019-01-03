@@ -1,5 +1,5 @@
 ---
-title: IConverterApplicationPreferences.HrCheckFormat Method (Office)
+title: IConverterApplicationPreferences.HrCheckFormat method (Office)
 keywords: vbaof11.chm331004
 f1_keywords:
 - vbaof11.chm331004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterApplicationPreferences.HrCheckFormat Method (Office)
+# IConverterApplicationPreferences.HrCheckFormat method (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrCheckFormat`( `_pFormat_` )
 
- _expression_ An expression that returns a [IConverterApplicationPreferences](./Office.IConverterApplicationPreferences.md) object.
+ _expression_ An expression that returns a [IConverterApplicationPreferences](Office.IConverterApplicationPreferences.md) object.
 
 
 ## Parameters

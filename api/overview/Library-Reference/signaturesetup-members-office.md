@@ -14,7 +14,7 @@ Represents the information used to set up a signature packet.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AdditionalXml](../../Office.SignatureSetup.AdditionalXml.md)|Gets or sets any additional XML information added to the signature during setup. Read/write.|
 |[AllowComments](../../Office.SignatureSetup.AllowComments.md)|Gets or sets a **Boolean** value specifying whether the signer can enter comments in the **Sign** dialog box. Read/write.|

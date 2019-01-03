@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.ContentVerificationResults Property (Office)
+title: SignatureInfo.ContentVerificationResults property (Office)
 keywords: vbaof11.chm286008
 f1_keywords:
 - vbaof11.chm286008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.ContentVerificationResults Property (Office)
+# SignatureInfo.ContentVerificationResults property (Office)
 
 Gets a value representing the results of the verification of the hashed contents of a signed document. Read-only.
 
@@ -20,7 +20,7 @@ Gets a value representing the results of the verification of the hashed contents
 
  _expression_. `ContentVerificationResults`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

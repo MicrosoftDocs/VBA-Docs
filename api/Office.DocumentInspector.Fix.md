@@ -1,5 +1,5 @@
 ---
-title: DocumentInspector.Fix Method (Office)
+title: DocumentInspector.Fix method (Office)
 keywords: vbaof11.chm279004
 f1_keywords:
 - vbaof11.chm279004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspector.Fix Method (Office)
+# DocumentInspector.Fix method (Office)
 
 Performs an action on specific information items or document properties depending on the Document Inspector module specified.
 
@@ -20,7 +20,7 @@ Performs an action on specific information items or document properties dependin
 
  _expression_. `Fix`( `_Status_`, `_Results_` )
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Parameters

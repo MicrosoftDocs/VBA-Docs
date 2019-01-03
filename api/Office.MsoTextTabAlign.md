@@ -1,5 +1,5 @@
 ---
-title: MsoTextTabAlign Enumeration (Office)
+title: MsoTextTabAlign enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextTabAlign
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextTabAlign Enumeration (Office)
+# MsoTextTabAlign enumeration (Office)
 
 Indicates the text alignment against tab stops or line breaks.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.OwnerPart Property (Office)
+title: CustomXMLNode.OwnerPart property (Office)
 keywords: vbaof11.chm294012
 f1_keywords:
 - vbaof11.chm294012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.OwnerPart Property (Office)
+# CustomXMLNode.OwnerPart property (Office)
 
 Gets the object representing the part associated with this node. Read-only.
 
@@ -20,7 +20,7 @@ Gets the object representing the part associated with this node. Read-only.
 
  _expression_. `OwnerPart`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

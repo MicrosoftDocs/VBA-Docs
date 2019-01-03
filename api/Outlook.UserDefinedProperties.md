@@ -81,7 +81,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.UserDefinedProperties.Add.md)|
 |[Find](Outlook.UserDefinedProperties.Find.md)|
@@ -93,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.UserDefinedProperties.Application.md)|
 |[Class](Outlook.UserDefinedProperties.Class.md)|

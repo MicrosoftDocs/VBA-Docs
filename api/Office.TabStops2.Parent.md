@@ -1,5 +1,5 @@
 ---
-title: TabStops2.Parent Property (Office)
+title: TabStops2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.Parent Property (Office)
+# TabStops2.Parent property (Office)
 
 Gets an  **Object** that represents the **Parent** object of the specified **TabStops2** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Object** that represents the **Parent** object of the specified **Tab
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
+ _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 
 
 ## Return value

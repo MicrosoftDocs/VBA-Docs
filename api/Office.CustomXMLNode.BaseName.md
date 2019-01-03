@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.BaseName Property (Office)
+title: CustomXMLNode.BaseName property (Office)
 keywords: vbaof11.chm294003
 f1_keywords:
 - vbaof11.chm294003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.BaseName Property (Office)
+# CustomXMLNode.BaseName property (Office)
 
 Gets the base name of the node without the namespace prefix, if one exists, in the Document Object Model (DOM). Read-only.
 
@@ -20,7 +20,7 @@ Gets the base name of the node without the namespace prefix, if one exists, in t
 
  _expression_. `BaseName`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

@@ -74,7 +74,7 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.GroupCriteria2.Add.md)|
 |[AddEx](Project.GroupCriteria2.AddEx.md)|
@@ -83,7 +83,7 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.GroupCriteria2.Application.md)|
 |[Count](Project.GroupCriteria2.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Application Property (Office)
+title: SmartArtQuickStyle.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Application Property (Office)
+# SmartArtQuickStyle.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SmartArtQuickStyle** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

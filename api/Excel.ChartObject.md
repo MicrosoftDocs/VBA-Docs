@@ -47,7 +47,7 @@ Worksheets("sheet1").ChartObjects("chart 1").RoundedCorners = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Excel.ChartObject.Activate.md)|
 |[BringToFront](Excel.ChartObject.BringToFront.md)|
@@ -63,7 +63,7 @@ Worksheets("sheet1").ChartObjects("chart 1").RoundedCorners = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ChartObject.Application.md)|
 |[BottomRightCell](Excel.ChartObject.BottomRightCell.md)|

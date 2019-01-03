@@ -46,7 +46,7 @@ For example, an  **AccessObject** object representing a form is a member of the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddSharedImage](Access.CodeProject.AddSharedImage.md)|
 |[CloseConnection](Access.CodeProject.CloseConnection.md)|
@@ -57,7 +57,7 @@ For example, an  **AccessObject** object representing a form is a member of the 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccessConnection](Access.CodeProject.AccessConnection.md)|
 |[AllForms](Access.CodeProject.AllForms.md)|

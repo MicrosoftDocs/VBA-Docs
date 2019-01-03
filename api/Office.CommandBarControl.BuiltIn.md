@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.BuiltIn Property (Office)
+title: CommandBarControl.BuiltIn property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.BuiltIn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.BuiltIn Property (Office)
+# CommandBarControl.BuiltIn property (Office)
 
 Gets  **True** if the specified command bar control is a built-in control of the container application. Returns **False** if it's a custom control, or if it's a built-in control whose **OnAction** property has been set. Read-only.
 
@@ -20,7 +20,7 @@ Gets  **True** if the specified command bar control is a built-in control of the
 
  _expression_. `BuiltIn`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Reset Method (Office)
+title: CommandBarComboBox.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Reset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Reset Method (Office)
+# CommandBarComboBox.Reset method (Office)
 
 Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarComboBox** control to its original function and face.
 
@@ -20,7 +20,7 @@ Resets a built-in command bar to its default configuration, or resets a built-in
 
  _expression_. `Reset`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

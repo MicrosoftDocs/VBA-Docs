@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.ReorderUp Method (Office)
+title: SmartArtNode.ReorderUp method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.ReorderUp
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.ReorderUp Method (Office)
+# SmartArtNode.ReorderUp method (Office)
 
 Swaps a node with the previous node in the bulleted list. This method reorder's the nodes entire family.
 
@@ -16,7 +16,7 @@ Swaps a node with the previous node in the bulleted list. This method reorder's 
 
 _expression_. `ReorderUp`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

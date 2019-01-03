@@ -90,7 +90,7 @@ Series 3: Work
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.series.application.md)|
 |[Name](Project.series.name.md)|

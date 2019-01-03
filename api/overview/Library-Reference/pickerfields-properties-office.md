@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerFields.Application.md)|Gets an  **Application** object that represents the container application for the **PickerFields** object. Read-only|
 |[Count](../../Office.PickerFields.Count.md)|Retrieves the count of the number of  **PickerField** objects contained within the **PickerFields** collection. Read-only|

@@ -1,5 +1,5 @@
 ---
-title: MsoLineStyle Enumeration (Office)
+title: MsoLineStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoLineStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoLineStyle Enumeration (Office)
+# MsoLineStyle enumeration (Office)
 
 Specifies the style for a line.
 

@@ -1,5 +1,5 @@
 ---
-title: RulerLevels2.Count Property (Office)
+title: RulerLevels2.Count property (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevels2.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevels2.Count Property (Office)
+# RulerLevels2.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **RulerLevels2** collection. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **Long** indicating the number of items in the **RulerLevels2** collecti
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
+ _expression_ An expression that returns a [RulerLevels2](Office.RulerLevels2.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Name Property (Office)
+title: WorkflowTask.Name property (Office)
 keywords: vbaof11.chm280004
 f1_keywords:
 - vbaof11.chm280004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Name Property (Office)
+# WorkflowTask.Name property (Office)
 
 Gets the name of the  **WorkflowTask** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the  **WorkflowTask** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

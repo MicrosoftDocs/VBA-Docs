@@ -1,5 +1,5 @@
 ---
-title: MsoVerticalAnchor Enumeration (Office)
+title: MsoVerticalAnchor enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoVerticalAnchor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoVerticalAnchor Enumeration (Office)
+# MsoVerticalAnchor enumeration (Office)
 
 Specifies the vertical alignment of text in a text frame. Used with the  **VerticalAnchor** property of the **TextFrame** object.
 

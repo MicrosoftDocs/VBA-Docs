@@ -24,7 +24,7 @@ The following example applies a critical task filter to the active project.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.Filter.Apply.md)|
 |[Delete](./Project.Filter.Delete.md)|
@@ -33,7 +33,7 @@ The following example applies a critical task filter to the active project.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Filter.Application.md)|
 |[FilterType](./Project.Filter.FilterType.md)|

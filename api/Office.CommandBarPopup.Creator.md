@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Creator Property (Office)
+title: CommandBarPopup.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Creator Property (Office)
+# CommandBarPopup.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CommandBarPopup** object was created. Read-only.
 
@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBarP
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

@@ -27,7 +27,7 @@ You can use the  **Modify** method to change one of the formats, or the **[Delet
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.FormatConditions.Add.md)|
 |[Delete](Access.FormatConditions.Delete.md)|
@@ -36,7 +36,7 @@ You can use the  **Modify** method to change one of the formats, or the **[Delet
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.FormatConditions.Application.md)|
 |[Count](Access.FormatConditions.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.Count Property (Office)
+title: CustomXMLPrefixMappings.Count property (Office)
 keywords: vbaof11.chm290002
 f1_keywords:
 - vbaof11.chm290002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.Count Property (Office)
+# CustomXMLPrefixMappings.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Return value

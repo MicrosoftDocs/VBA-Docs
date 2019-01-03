@@ -13,7 +13,7 @@ This object has the following events:
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[NodeAfterDelete](../../Office.CustomXMLPart.NodeAfterDelete.md)|Occurs after a node is deleted in a  **CustomXMLPart** object.|
 |[NodeAfterInsert](../../Office.CustomXMLPart.NodeAfterInsert.md)|Occurs after a node is inserted in a  **CustomXMLPart** object.|

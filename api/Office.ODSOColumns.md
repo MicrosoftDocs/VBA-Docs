@@ -1,5 +1,5 @@
 ---
-title: ODSOColumns Object (Office)
+title: ODSOColumns object (Office)
 keywords: vbaof11.chm234000
 f1_keywords:
 - vbaof11.chm234000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumns Object (Office)
+# ODSOColumns object (Office)
 
 A collection of  **ODSOColumn** objects that represent the data fields in a mail merge data source.
 
@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.ODSOColumns.Item.md)|
 
@@ -71,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOColumns.Application.md)|
 |[Count](Office.ODSOColumns.Count.md)|

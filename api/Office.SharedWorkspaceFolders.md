@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders Object (Office)
+title: SharedWorkspaceFolders object (Office)
 keywords: vbaof11.chm269000
 f1_keywords:
 - vbaof11.chm269000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders Object (Office)
+# SharedWorkspaceFolders object (Office)
 
 A collection of the  **SharedWorkspaceFolder** objects in the current shared workspace.
 
@@ -40,7 +40,7 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceFolders.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFolders.Application.md)|
 |[Count](Office.SharedWorkspaceFolders.Count.md)|

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks.Add Method (Office)
+title: SharedWorkspaceTasks.Add method (Office)
 keywords: vbaof11.chm265003
 f1_keywords:
 - vbaof11.chm265003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks.Add Method (Office)
+# SharedWorkspaceTasks.Add method (Office)
 
 Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorkspaceTask** object.
 

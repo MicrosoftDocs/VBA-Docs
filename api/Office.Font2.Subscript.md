@@ -1,5 +1,5 @@
 ---
-title: Font2.Subscript Property (Office)
+title: Font2.Subscript property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Subscript
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Subscript Property (Office)
+# Font2.Subscript property (Office)
 
 Gets or sets a value specifying that the selected text should be displayed as subscript. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value specifying that the selected text should be displayed as su
 
  _expression_. `Subscript`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

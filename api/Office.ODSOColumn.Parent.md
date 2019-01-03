@@ -1,5 +1,5 @@
 ---
-title: ODSOColumn.Parent Property (Office)
+title: ODSOColumn.Parent property (Office)
 keywords: vbaof11.chm233003
 f1_keywords:
 - vbaof11.chm233003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumn.Parent Property (Office)
+# ODSOColumn.Parent property (Office)
 
 Gets the  **Parent** object for the **ODSOColumn** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ODSOColumn** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents an [ODSOColumn](./Office.ODSOColumn.md) object.
+ _expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
 
 
 ## Return value

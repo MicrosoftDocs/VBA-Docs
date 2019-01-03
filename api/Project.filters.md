@@ -34,7 +34,7 @@ ActiveProject.TaskFilters("Critical").Apply
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](Project.Filters.Copy.md)|
 
@@ -42,7 +42,7 @@ ActiveProject.TaskFilters("Critical").Apply
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Filters.Application.md)|
 |[Count](Project.Filters.Count.md)|

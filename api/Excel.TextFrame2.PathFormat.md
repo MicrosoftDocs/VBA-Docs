@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.PathFormat property (Excel)
 
-Returns or sets the path type for the specified text frame. Read/write  **[MsoPathFormat](./Office.MsoPathFormat.md)**.
+Returns or sets the path type for the specified text frame. Read/write  **[MsoPathFormat](Office.MsoPathFormat.md)**.
 
 
 ## Syntax

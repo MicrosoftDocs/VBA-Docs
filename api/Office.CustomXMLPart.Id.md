@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Id Property (Office)
+title: CustomXMLPart.Id property (Office)
 keywords: vbaof11.chm295003
 f1_keywords:
 - vbaof11.chm295003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Id Property (Office)
+# CustomXMLPart.Id property (Office)
 
 Gets a  **String** containing the GUID assigned to the current **CustomXMLPart** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **String** containing the GUID assigned to the current **CustomXMLPart**
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

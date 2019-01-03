@@ -18,7 +18,7 @@ Represents a field of a table in Project. The  **TableField** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Project.TableField.Delete.md)|
 
@@ -26,7 +26,7 @@ Represents a field of a table in Project. The  **TableField** object is a member
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignData](./Project.TableField.AlignData.md)|
 |[AlignTitle](./Project.TableField.AlignTitle.md)|

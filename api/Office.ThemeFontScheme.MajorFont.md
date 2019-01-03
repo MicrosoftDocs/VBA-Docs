@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.MajorFont Property (Office)
+title: ThemeFontScheme.MajorFont property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.MajorFont
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.MajorFont Property (Office)
+# ThemeFontScheme.MajorFont property (Office)
 
 Gets the font setting for the "Headings" in a document. Read-only.
 
@@ -17,7 +17,7 @@ Gets the font setting for the "Headings" in a document. Read-only.
 
  _expression_. `MajorFont`
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+ _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 
 
 ## Return value

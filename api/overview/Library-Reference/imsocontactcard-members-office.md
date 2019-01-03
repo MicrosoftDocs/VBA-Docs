@@ -13,7 +13,7 @@ Represents a Contact card.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Address](../../Office.IMsoContactCard.Address.md)|Represents the address in a Contact card. Read-only|
 |[AddressType](../../Office.IMsoContactCard.AddressType.md)|A **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only|

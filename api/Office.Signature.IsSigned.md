@@ -1,5 +1,5 @@
 ---
-title: Signature.IsSigned Property (Office)
+title: Signature.IsSigned property (Office)
 keywords: vbaof11.chm248011
 f1_keywords:
 - vbaof11.chm248011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.IsSigned Property (Office)
+# Signature.IsSigned property (Office)
 
 Gets a  **Boolean** value indicating whether the document was signed successfully. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether the document was signed successfull
 
  _expression_. `IsSigned`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Return value

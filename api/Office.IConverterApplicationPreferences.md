@@ -1,5 +1,5 @@
 ---
-title: IConverterApplicationPreferences Object (Office)
+title: IConverterApplicationPreferences object (Office)
 keywords: vbaof11.chm331000
 f1_keywords:
 - vbaof11.chm331000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterApplicationPreferences Object (Office)
+# IConverterApplicationPreferences object (Office)
 
 This feature is only available in the Open XML Format SDK.
 
@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrCheckFormat](Office.IConverterApplicationPreferences.HrCheckFormat.md)|
 |[HrGetApplication](Office.IConverterApplicationPreferences.HrGetApplication.md)|

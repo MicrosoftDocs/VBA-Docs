@@ -37,7 +37,7 @@ Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Excel.Legend.Clear.md)|
 |[Delete](Excel.Legend.Delete.md)|
@@ -48,7 +48,7 @@ Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Legend.Application.md)|
 |[Creator](Excel.Legend.Creator.md)|

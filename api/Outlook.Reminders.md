@@ -79,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeReminderShow](Outlook.Reminders.BeforeReminderShow.md)|
 |[ReminderAdd](Outlook.Reminders.ReminderAdd.md)|
@@ -92,7 +92,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Reminders.Item.md)|
 |[Remove](Outlook.Reminders.Remove.md)|
@@ -101,7 +101,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Reminders.Application.md)|
 |[Class](Outlook.Reminders.Class.md)|

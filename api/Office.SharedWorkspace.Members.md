@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Members Property (Office)
+title: SharedWorkspace.Members property (Office)
 keywords: vbaof11.chm276002
 f1_keywords:
 - vbaof11.chm276002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Members Property (Office)
+# SharedWorkspace.Members property (Office)
 
 Gets a  **[SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md)** collection that represents the list of members in the current shared workspace. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **[SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md)** collectio
 
  _expression_. `Members`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Example

@@ -31,7 +31,7 @@ Note that if you delete a  **Folder** using **[Folder.Delete](Outlook.Folder.Del
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.NavigationFolders.Add.md)|
 |[Item](Outlook.NavigationFolders.Item.md)|
@@ -41,7 +41,7 @@ Note that if you delete a  **Folder** using **[Folder.Delete](Outlook.Folder.Del
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationFolders.Application.md)|
 |[Class](Outlook.NavigationFolders.Class.md)|

@@ -14,14 +14,14 @@ Represents the text frame in a **Shape** or **ShapeRange** object. Contains the 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[DeleteText](../../Office.TextFrame2.DeleteText.md)|Deletes the text from a text frame and all the associated properties of the text, including font attributes.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TextFrame2.Application.md)|Gets an **Application** object that represents the container application for the **TextFrame2** object. Read-only|
 |[AutoSize](../../Office.TextFrame2.AutoSize.md)| Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write|

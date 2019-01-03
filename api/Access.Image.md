@@ -32,7 +32,7 @@ You can use the image control or an [Unbound object frame](overview/Access.md) f
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.Image.Click.md)|
 |[DblClick](Access.Image.DblClick.md)|
@@ -44,7 +44,7 @@ You can use the image control or an [Unbound object frame](overview/Access.md) f
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.Image.Move.md)|
 |[Requery](Access.Image.Requery.md)|
@@ -55,7 +55,7 @@ You can use the image control or an [Unbound object frame](overview/Access.md) f
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Image.Application.md)|
 |[BackColor](Access.Image.BackColor.md)|

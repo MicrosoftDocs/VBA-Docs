@@ -1,5 +1,5 @@
 ---
-title: MsoSharedWorkspaceTaskStatus Enumeration (Office)
+title: MsoSharedWorkspaceTaskStatus enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSharedWorkspaceTaskStatus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSharedWorkspaceTaskStatus Enumeration (Office)
+# MsoSharedWorkspaceTaskStatus enumeration (Office)
 
 Specifies the status of a shared workspace task.
 

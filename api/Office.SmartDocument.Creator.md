@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.Creator Property (Office)
+title: SmartDocument.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SmartDocument.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument.Creator Property (Office)
+# SmartDocument.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SmartDocument** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartDocume
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Return value

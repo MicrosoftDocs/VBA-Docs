@@ -64,7 +64,7 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Day.Default.md)|
 
@@ -72,7 +72,7 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Day.Application.md)|
 |[Calendar](Project.Day.Calendar.md)|

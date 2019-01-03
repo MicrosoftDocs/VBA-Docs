@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetVisibleMso Method (Office)
+title: CommandBars.GetVisibleMso method (Office)
 keywords: vbaof11.chm2020
 f1_keywords:
 - vbaof11.chm2020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetVisibleMso Method (Office)
+# CommandBars.GetVisibleMso method (Office)
 
 Returns True if the control identified by the  **idMso** parameter is visible.
 
@@ -23,7 +23,7 @@ Returns True if the control identified by the  **idMso** parameter is visible.
 
  _expression_. `GetVisibleMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

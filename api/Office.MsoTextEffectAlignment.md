@@ -1,5 +1,5 @@
 ---
-title: MsoTextEffectAlignment Enumeration (Office)
+title: MsoTextEffectAlignment enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextEffectAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextEffectAlignment Enumeration (Office)
+# MsoTextEffectAlignment enumeration (Office)
 
 Specifies alignment for WordArt text.
 

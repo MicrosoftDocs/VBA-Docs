@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.CreatedDate Property (Office)
+title: SharedWorkspaceTask.CreatedDate property (Office)
 keywords: vbaof11.chm264008
 f1_keywords:
 - vbaof11.chm264008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.CreatedDate Property (Office)
+# SharedWorkspaceTask.CreatedDate property (Office)
 
 Gets the date and time when the shared workspace object was created. Read-only.
 
@@ -23,7 +23,7 @@ Gets the date and time when the shared workspace object was created. Read-only.
 
  _expression_. `CreatedDate`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

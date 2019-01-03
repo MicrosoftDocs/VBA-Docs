@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Transparency Property (Office)
+title: ReflectionFormat.Transparency property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Transparency
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Transparency Property (Office)
+# ReflectionFormat.Transparency property (Office)
 
 Gets or sets the amount of transparency, measured in percentages, of the shape's reflection image. Read/write
 
@@ -17,7 +17,7 @@ Gets or sets the amount of transparency, measured in percentages, of the shape's
 
  _expression_. `Transparency`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## See also

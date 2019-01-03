@@ -1,5 +1,5 @@
 ---
-title: FileDialog.InitialView Property (Office)
+title: FileDialog.InitialView property (Office)
 keywords: vbaof11.chm256007
 f1_keywords:
 - vbaof11.chm256007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.InitialView Property (Office)
+# FileDialog.InitialView property (Office)
 
 Gets or sets an  **MsoFileDialogView** constant representing the initial presentation of files and folders in a file dialog box. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets an  **MsoFileDialogView** constant representing the initial present
 
  _expression_. `InitialView`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Example

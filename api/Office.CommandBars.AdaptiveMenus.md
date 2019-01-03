@@ -1,5 +1,5 @@
 ---
-title: CommandBars.AdaptiveMenus Property (Office)
+title: CommandBars.AdaptiveMenus property (Office)
 keywords: vbaof11.chm2013
 f1_keywords:
 - vbaof11.chm2013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.AdaptiveMenus Property (Office)
+# CommandBars.AdaptiveMenus property (Office)
 
 This property checks or unchecks the check box control for the option to show menus in Microsoft Office as full or personalized. Read/write.
 
@@ -23,7 +23,7 @@ This property checks or unchecks the check box control for the option to show me
 
  _expression_. `AdaptiveMenus`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

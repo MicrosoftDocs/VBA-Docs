@@ -1,5 +1,5 @@
 ---
-title: MsoNumberedBulletStyle Enumeration (Office)
+title: MsoNumberedBulletStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoNumberedBulletStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoNumberedBulletStyle Enumeration (Office)
+# MsoNumberedBulletStyle enumeration (Office)
 
 Specifies numbered bullet styles.
 

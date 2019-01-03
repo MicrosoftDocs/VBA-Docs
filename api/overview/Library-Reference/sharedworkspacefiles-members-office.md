@@ -13,14 +13,14 @@ A collection of the **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceFiles.Add.md)|Adds a file to the document library in a shared workspace. Returns a **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceFiles.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceFiles.Count.md)|Gets a **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.|

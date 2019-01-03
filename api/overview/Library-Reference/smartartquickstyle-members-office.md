@@ -14,7 +14,7 @@ Represents a Smart Art quick style.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtQuickStyle.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtQuickStyle** object. Read-only|
 |[Category](../../Office.SmartArtQuickStyle.Category.md)|Retrieves the primary category name associated with the SmartArt quick style. Read-only|

@@ -2,7 +2,7 @@
 title: Customize the Office Fluent ribbon by using a managed COM add-in
 ms.prod: office
 ms.assetid: 7926e6bc-c7ae-cc6f-faa5-28e2e6de664c
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -20,7 +20,7 @@ The code example in this topic shows how to customize the ribbon in an Office ap
     
 4. Implement the **IRibbonExtensibility** interface.
     
-5. Create a callback method that is triggered when the button is clicked.
+5. Create a callback method that is triggered when the button is chosen.
     
 6. Build, install, and test the project.
     
@@ -53,37 +53,37 @@ In this step, you create a COM add-in C# project in Microsoft Visual Studio 2012
 
 1. Start Microsoft Visual Studio 2012.
     
-2. On the **File** menu, click **New Project**.
+2. On the **File** menu, choose **New Project**.
     
-3. In the **New Project** dialog box under **Project Types**, expand **Other Projects**, click **Extensibility Projects**, and then double-click **Shared Addin**.
+3. In the **New Project** dialog box under **Project Types**, expand **Other Projects**, choose **Extensibility Projects**, and then double-click **Shared Addin**.
     
 4. Add a name for the project; for this sample, type **RibbonXSampleCS**.
     
-5. In the first screen of the Shared Add-in Wizard, click **Next**.
+5. In the first screen of the Shared Add-in Wizard, choose **Next**.
     
-6. Select **Create an Add-in using Visual C#**, and then click **Next**.
+6. Select **Create an Add-in using Visual C#**, and then choose **Next**.
     
-7. Clear all of the selections except **Microsoft Word** and then click **Next**.
+7. Clear all of the selections except **Microsoft Word**, and then choose **Next**.
     
-8. Type a name and description for the add-in, and then click **Next**.
+8. Type a name and description for the add-in, and then choose **Next**.
     
-9. In the **Choose Add-in Options** screen, select **I would like my Add-in to load when the host application loads** and then click **Next**.
+9. In the **Choose Add-in Options** screen, select **I would like my Add-in to load when the host application loads** and then choose **Next**.
     
-10. Click **Finish** to complete the wizard.
+10. Choose **Finish** to complete the wizard.
     
 
 ### Add external references to the project
 
 In this step you add references to the Word Primary Interop Assemblies and type library. 
 
-1. In the Solution Explorer, right-click **References**, and then click **Add Reference**.
+1. In the Solution Explorer, right-click **References**, and then choose **Add Reference**.
     
    > [!NOTE] 
-   > If you do not see the **References** folder, click the **Project** menu, and then click **Show All Files**.
+   > If you do not see the **References** folder, choose the **Project** menu, and then choose **Show All Files**.
 
 2. Scroll down on the **.NET** tab, press the **CTRL** key, and then select **Microsoft.Office.Interop.Word**.
     
-3. On the **COM** tab, scroll down, select either the **Microsoft Office 15.0 Object Library** (or the library that is appropriate for your version of Office), and then click **OK**.
+3. On the **COM** tab, scroll down, select either the **Microsoft Office 15.0 Object Library** (or the library that is appropriate for your version of Office), and then choose **OK**.
     
 4. Add the following namespace references to the project, if they do not already exist, just below the **namespace** line.
     
@@ -102,20 +102,20 @@ In this step you add references to the Word Primary Interop Assemblies and type 
 
 In this step, you add the XML customization file as an embedded resource in the project.
 
-1. In the Solution Explorer, right-click **RibbonXSampleCS**, point to **Add**, and click **Existing Item**.
+1. In the Solution Explorer, right-click **RibbonXSampleCS**, point to **Add**, and choose **Existing Item**.
     
-2. Navigate to the **customUI.xml** file that you created, select the file, and then click **Add**.
+2. Navigate to the **customUI.xml** file that you created, select the file, and then choose **Add**.
     
 3. In the Solution Explorer, right-click **customUI.xml**, and then select **Properties**.
     
-4. In the **Property** window select **Build Action**, and then scroll down to **Embedded Resource**.
+4. In the Properties window, select **Build Action**, and then scroll down to **Embedded Resource**.
     
 
 ## Implement the IRibbonExtensibility interface
 
 In this step you add code to the Extensibility.IDTExtensibility2::OnConnection to create a reference to the Word application at runtime. You also implement the only member of the **IRibbonExtensibility** interface, **GetCustomUI**.
 
-1. In the Solution Explorer, right-click **Connect.cs**, and click **View Code**.
+1. In the Solution Explorer, right-click **Connect.cs**, and then choose **View Code**.
     
 2. After the **Connect** method, add the following declaration, which creates a reference to the **Word Application** object:
     
@@ -125,10 +125,10 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
     
    `applicationObject =(MSword.Application)application;`
     
-4. At the end of the public class Connect statement, add a comma, and then type **IRibbonExtensibility**.
+4. At the end of the public class **Connect** statement, add a comma, and then type **IRibbonExtensibility**.
     
    > [!NOTE] 
-   > You can use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class Connect: statement, type **IRibbonExtensibility**, right-click and point to **Implement Interface**, and then click **Implement Interface Explicitly**. This adds a stub for the **GetCustomUI** method. The implementation looks similar to the following code.
+   > You can use Microsoft IntelliSense to insert interface methods for you. For example, at the end of the public class **Connect** statement, type **IRibbonExtensibility**, right-click and point to **Implement Interface**, and then choose **Implement Interface Explicitly**. This adds a stub for the **GetCustomUI** method. The implementation looks similar to the following code.
 
    ```cs
       string IRibbonExtensibility.GetCustomUI(string RibbonID) 
@@ -189,29 +189,34 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
 
 In this step, you build the add-in and its setup project. Before you continue, make sure that Word is closed.
 
-1. In the **Project** menu, click **Build Solution**. When the build is complete, a notification appears in the lower left corner of the window.
+1. In the **Project** menu, choose **Build Solution**. When the build is complete, a notification appears in the lower left corner of the window.
     
-2. In the Solution Explorer, right-click **RibbonXSampleCSSetup** and click **Build**.
+2. In the Solution Explorer, right-click **RibbonXSampleCSSetup**, and then choose **Build**.
     
-3. Right-click **RibbonXSampleCSSetup** again and click **Install** to begin the RibbonXSampleCSSetup Setup Wizard.
+3. Right-click **RibbonXSampleCSSetup** again and choose **Install** to begin the RibbonXSampleCSSetup Setup Wizard.
     
-4. Click **Next** in each of the screens and then click **Close** on the final screen.
+4. Choose **Next** in each of the screens, and then choose **Close** on the final screen.
     
 5. Start Word. You should see the **My Tab** tab to the right of the other tabs.
     
 
 ## Test the project
 
-Click the **My Tab** tab and then click **Insert Company Name** to insert the company name into the document at the cursor. If you do not see the customized ribbon, you might need to add an entry to the Windows registry by completing the following steps.
+Choose the **My Tab** tab, and then choose **Insert Company Name** to insert the company name into the document at the cursor. If you do not see the customized ribbon, you might need to add an entry to the Windows registry by completing the following steps.
 
 > [!CAUTION] 
-> The next few steps contain information about how to modify the registry. Before you modify the registry, be sure to back it up and make sure that you understand how to restore the registry if a problem occurs. For more information about how to back up, restore, and edit the registry, search for the following article in the Microsoft Knowledge Base: **256986 Description of the Microsoft Windows Registry**.
+> The next few steps contain information about how to modify the registry. Before you modify the registry, be sure to back it up and make sure that you understand how to restore the registry if a problem occurs. For more information about how to back up, restore, and edit the registry, see this Microsoft Knowledge Base article: [Windows registry information for advanced users (256986)](https://support.microsoft.com/en-us/help/256986/windows-registry-information-for-advanced-users).
 
-1. In the Solution Explorer, right-click the setup project, **RibbonXSampleCSSetup**, point to **View**, and then click **Registry**.
+1. In the Solution Explorer, right-click the setup project, **RibbonXSampleCSSetup**, point to **View**, and then choose **Registry**.
     
 2. From the **Registry** tab, navigate to the following registry key for the add-in: HKCU\Software\Microsoft\Office\Word\AddIns\RibbonXSampleCS.Connect
     
    > [!NOTE] 
-   > If the **RibbonXSampleCS.Connect** key does not exist, you can create it. To do so, right-click the **Addins** folder, point to **New**, and then click **Key**. Name the key **RibbonXSampleCS.Connect**. Add a **LoadBehavior** **DWord** and set its value to **3**.
+   > If the **RibbonXSampleCS.Connect** key does not exist, you can create it. To do so, right-click the **Addins** folder, point to **New**, and then choose **Key**. Name the key **RibbonXSampleCS.Connect**. Add a **LoadBehavior DWord**, and set its value to **3**.
 
 
+## See also
+
+- [Overview of the Office Fluent ribbon](overview-of-the-office-fluent-ribbon.md)
+- [Customize the Office Fluent ribbon by using an Open XML formats file](customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
+- [Customize the Office Fluent ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))

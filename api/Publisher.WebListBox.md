@@ -60,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebListBox.Application.md)|
 |[ListBoxItems](Publisher.WebListBox.ListBoxItems.md)|

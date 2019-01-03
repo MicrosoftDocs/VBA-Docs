@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Nodes Property (Office)
+title: SmartArtNode.Nodes property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Nodes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Nodes Property (Office)
+# SmartArtNode.Nodes property (Office)
 
 Retrieves the children nodes associated with this Smart Art Node. Read-only.
 
@@ -17,7 +17,7 @@ Retrieves the children nodes associated with this Smart Art Node. Read-only.
 
 _expression_. `Nodes`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Example

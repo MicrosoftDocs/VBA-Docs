@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Outlook.OlkFrameHeader.Alignment.md)|
 |[Caption](Outlook.OlkFrameHeader.Caption.md)|

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.LanguageSettings Property (Outlook)
 
-Returns a  **[LanguageSettings](./Office.LanguageSettings.md)** object for the application that contains the language-specific attributes of Outlook. Read-only.
+Returns a  **[LanguageSettings](Office.LanguageSettings.md)** object for the application that contains the language-specific attributes of Outlook. Read-only.
 
 
 ## Syntax

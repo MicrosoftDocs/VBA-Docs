@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayouts.Count Property (Office)
+title: SmartArtLayouts.Count property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayouts.Count Property (Office)
+# SmartArtLayouts.Count property (Office)
 
 Retrieves the count of the number of  **SmartArtLayout** objects contained within the **SmartArtLayouts** collection. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the count of the number of  **SmartArtLayout** objects contained withi
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object.
+ _expression_ An expression that returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object.
 
 
 ## See also

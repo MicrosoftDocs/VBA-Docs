@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Orientation Property (Office)
+title: TextFrame2.Orientation property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Orientation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Orientation Property (Office)
+# TextFrame2.Orientation property (Office)
 
 Returns or sets text orientation. Read/write
 
@@ -17,7 +17,7 @@ Returns or sets text orientation. Read/write
 
  _expression_. `Orientation`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

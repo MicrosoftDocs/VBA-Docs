@@ -36,7 +36,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[TextChanged](./Visio.Characters.TextChanged.md)|
 
@@ -44,7 +44,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCustomField](./Visio.Characters.AddCustomField.md)|
 |[AddCustomFieldU](./Visio.Characters.AddCustomFieldU.md)|
@@ -59,7 +59,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Characters.Application.md)|
 |[Begin](./Visio.Characters.Begin.md)|

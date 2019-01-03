@@ -39,7 +39,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShapeNode.Application.md)|
 |[EditingType](Publisher.ShapeNode.EditingType.md)|

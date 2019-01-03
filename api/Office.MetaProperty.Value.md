@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Value Property (Office)
+title: MetaProperty.Value property (Office)
 keywords: vbaof11.chm275001
 f1_keywords:
 - vbaof11.chm275001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Value Property (Office)
+# MetaProperty.Value property (Office)
 
 Gets or sets the value of the  **MetaProperty** object. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the value of the  **MetaProperty** object. Read/write.
 
  _expression_. `Value`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

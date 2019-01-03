@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.AddItem Method (Office)
+title: CommandBarComboBox.AddItem method (Office)
 keywords: vbaof11.chm8001
 f1_keywords:
 - vbaof11.chm8001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.AddItem Method (Office)
+# CommandBarComboBox.AddItem method (Office)
 
 Adds a list item to the specified command bar combo box control. The combo box control must be a custom control and must be a drop-down list box or a combo box.
 
@@ -23,7 +23,7 @@ Adds a list item to the specified command bar combo box control. The combo box c
 
  _expression_. `AddItem`( `_Text_`, `_Index_` )
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Parameters

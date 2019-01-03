@@ -82,7 +82,7 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddFromFile](Access.Module.AddFromFile.md)|
 |[AddFromString](Access.Module.AddFromString.md)|
@@ -97,7 +97,7 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Module.Application.md)|
 |[CountOfDeclarationLines](Access.Module.CountOfDeclarationLines.md)|

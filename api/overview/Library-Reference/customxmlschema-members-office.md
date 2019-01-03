@@ -13,7 +13,7 @@ Represents a schema in a **CustomXMLSchemaCollection** collection.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.CustomXMLSchema.Delete.md)|Deletes the specified schema from the **CustomXMLSchema** collection.|
 |[Reload](../../Office.CustomXMLSchema.Reload.md)|Reloads a schema from a file.|
@@ -21,7 +21,7 @@ Represents a schema in a **CustomXMLSchemaCollection** collection.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLSchema.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLSchema** object. Read-only.|
 |[Creator](../../Office.CustomXMLSchema.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLSchema** object was created. Read-only.|

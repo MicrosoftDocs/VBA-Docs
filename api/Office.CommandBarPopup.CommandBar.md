@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.CommandBar Property (Office)
+title: CommandBarPopup.CommandBar property (Office)
 keywords: vbaof11.chm7001
 f1_keywords:
 - vbaof11.chm7001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.CommandBar Property (Office)
+# CommandBarPopup.CommandBar property (Office)
 
 Gets a  **CommandBar** object that represents the menu displayed by the specified pop-up control. Read-only.
 
@@ -23,7 +23,7 @@ Gets a  **CommandBar** object that represents the menu displayed by the specifie
 
  _expression_. `CommandBar`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Example

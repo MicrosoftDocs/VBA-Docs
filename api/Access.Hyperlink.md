@@ -25,7 +25,7 @@ Use the  **Hyperlink** property to return a reference to a hyperlink object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Access.Hyperlink.Address.md)|
 |[EmailSubject](Access.Hyperlink.EmailSubject.md)|

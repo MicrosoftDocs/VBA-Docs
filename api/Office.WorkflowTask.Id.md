@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Id Property (Office)
+title: WorkflowTask.Id property (Office)
 keywords: vbaof11.chm280001
 f1_keywords:
 - vbaof11.chm280001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Id Property (Office)
+# WorkflowTask.Id property (Office)
 
 Gets the ID of the Sharepoint list item. Read-only.
 
@@ -20,7 +20,7 @@ Gets the ID of the Sharepoint list item. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

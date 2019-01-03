@@ -1,5 +1,5 @@
 ---
-title: MsoWarpFormat Enumeration (Office)
+title: MsoWarpFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoWarpFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoWarpFormat Enumeration (Office)
+# MsoWarpFormat enumeration (Office)
 
 Indicates various image warping formats.
 

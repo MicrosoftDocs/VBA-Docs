@@ -46,7 +46,7 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Section.Delete.md)|
 
@@ -54,7 +54,7 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Section.Application.md)|
 |[ContinueNumbersFromPreviousSection](Publisher.Section.ContinueNumbersFromPreviousSection.md)|

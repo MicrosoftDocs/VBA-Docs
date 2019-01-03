@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.CreatedBy Property (Office)
+title: WorkflowTask.CreatedBy property (Office)
 keywords: vbaof11.chm280007
 f1_keywords:
 - vbaof11.chm280007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.CreatedBy Property (Office)
+# WorkflowTask.CreatedBy property (Office)
 
 Gets the name of the person that created the workflow task. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of the person that created the workflow task. Read-only.
 
  _expression_. `CreatedBy`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

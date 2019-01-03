@@ -13,7 +13,7 @@ This object has the following events:
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[OnUpdate](../../Office.CommandBars.OnUpdate.md)|Occurs when any change is made to a command bar.|
 

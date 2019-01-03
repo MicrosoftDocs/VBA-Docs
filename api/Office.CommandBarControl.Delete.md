@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Delete Method (Office)
+title: CommandBarControl.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Delete Method (Office)
+# CommandBarControl.Delete method (Office)
 
 Deletes the  **CommandBarControl** object from its collection.
 

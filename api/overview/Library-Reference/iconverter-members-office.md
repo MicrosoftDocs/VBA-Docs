@@ -13,7 +13,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[HrExport](../../Office.IConverter.HrExport.md)|This feature is only available in the Open XML Format SDK.|
 |[HrGetErrorString](../../Office.IConverter.HrGetErrorString.md)|This feature is only available in the Open XML Format SDK.|

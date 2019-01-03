@@ -1,5 +1,5 @@
 ---
-title: MsoCTPDockPosition Enumeration (Office)
+title: MsoCTPDockPosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCTPDockPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCTPDockPosition Enumeration (Office)
+# MsoCTPDockPosition enumeration (Office)
 
 Specifies the docking behavior of the custom task pane.
 

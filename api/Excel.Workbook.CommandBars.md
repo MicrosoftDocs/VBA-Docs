@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.CommandBars property (Excel)
 
-Returns a  **[CommandBars](./Office.CommandBars.md)** object that represents the Microsoft Excel command bars. Read-only.
+Returns a  **[CommandBars](Office.CommandBars.md)** object that represents the Microsoft Excel command bars. Read-only.
 
 
 ## Syntax

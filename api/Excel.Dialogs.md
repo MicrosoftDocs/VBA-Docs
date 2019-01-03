@@ -67,7 +67,7 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Dialogs.Application.md)|
 |[Count](Excel.Dialogs.Count.md)|

@@ -13,14 +13,14 @@ The **SharedWorkspaceFile** object represents a file saved in a shared document 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceFile.Delete.md)|Deletes the current **SharedWorkspaceFile** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceFile.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CreatedBy](../../Office.SharedWorkspaceFile.CreatedBy.md)|Gets the display name of the member who created the shared workspace object. Read-only.|

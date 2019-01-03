@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Modified Property (Office)
+title: DocumentLibraryVersion.Modified property (Office)
 keywords: vbaof11.chm277017
 f1_keywords:
 - vbaof11.chm277017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Modified Property (Office)
+# DocumentLibraryVersion.Modified property (Office)
 
 Gets the date and time at which the specified version of the shared document was last saved to the server. Read-only.
 
@@ -20,7 +20,7 @@ Gets the date and time at which the specified version of the shared document was
 
  _expression_. `Modified`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Remarks

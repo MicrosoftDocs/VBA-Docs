@@ -1,5 +1,5 @@
 ---
-title: MsoPictureEffectType Enumeration (Office)
+title: MsoPictureEffectType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPictureEffectType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPictureEffectType Enumeration (Office)
+# MsoPictureEffectType enumeration (Office)
 
 Specifies constants that define the types of picture effects.
 

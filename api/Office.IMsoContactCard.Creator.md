@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.Creator Property (Office)
+title: IMsoContactCard.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.IMsoContactCard.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.Creator Property (Office)
+# IMsoContactCard.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **IMsoContactCard** object was created. Read-only
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **IMsoContact
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [IMsoContactCard](./Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## See also

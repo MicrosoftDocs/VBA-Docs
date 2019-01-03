@@ -1,5 +1,5 @@
 ---
-title: GradientStop.Transparency Property (Office)
+title: GradientStop.Transparency property (Office)
 ms.prod: office
 api_name:
 - Office.GradientStop.Transparency
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStop.Transparency Property (Office)
+# GradientStop.Transparency property (Office)
 
 Gets or sets a value representing the opacity of the gradient fill expressed as a percent. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value representing the opacity of the gradient fill expressed as 
 
  _expression_. `Transparency`
 
- _expression_ An expression that returns a [GradientStop](./Office.GradientStop.md) object.
+ _expression_ An expression that returns a [GradientStop](Office.GradientStop.md) object.
 
 
 ## Return value

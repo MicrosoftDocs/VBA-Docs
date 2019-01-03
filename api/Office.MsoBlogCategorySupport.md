@@ -1,5 +1,5 @@
 ---
-title: MsoBlogCategorySupport Enumeration (Office)
+title: MsoBlogCategorySupport enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBlogCategorySupport
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBlogCategorySupport Enumeration (Office)
+# MsoBlogCategorySupport enumeration (Office)
 
 Specifies how many categories are supported by the provider.
 

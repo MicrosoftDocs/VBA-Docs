@@ -25,7 +25,7 @@ The default property of a  **Section** object is **Row**.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CellChanged](./Visio.Section.CellChanged.md)|
 |[FormulaChanged](./Visio.Section.FormulaChanged.md)|
@@ -34,7 +34,7 @@ The default property of a  **Section** object is **Row**.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Section.Application.md)|
 |[ContainingMasterID](./Visio.Section.ContainingMasterID.md)|

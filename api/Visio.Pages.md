@@ -34,7 +34,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterReplaceShapes](./Visio.pages.afterreplaceshapes.md)|
 |[BeforePageDelete](./Visio.Pages.BeforePageDelete.md)|
@@ -78,7 +78,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Pages.Add.md)|
 |[GetNames](./Visio.Pages.GetNames.md)|
@@ -88,7 +88,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Pages.Application.md)|
 |[Count](./Visio.Pages.Count.md)|

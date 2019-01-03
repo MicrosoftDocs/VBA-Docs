@@ -1,5 +1,5 @@
 ---
-title: ThemeFont Object (Office)
+title: ThemeFont object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFont
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFont Object (Office)
+# ThemeFont object (Office)
 
 Represents a container for the font schemes of a Microsoft Office theme.
 
@@ -32,7 +32,7 @@ Set tfThemeFont = tfThemeFontScheme.MajorFont(msoThemeLatin)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeFont.Application.md)|
 |[Creator](Office.ThemeFont.Creator.md)|

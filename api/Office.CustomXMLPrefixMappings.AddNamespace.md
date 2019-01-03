@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.AddNamespace Method (Office)
+title: CustomXMLPrefixMappings.AddNamespace method (Office)
 keywords: vbaof11.chm290004
 f1_keywords:
 - vbaof11.chm290004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.AddNamespace Method (Office)
+# CustomXMLPrefixMappings.AddNamespace method (Office)
 
 Allows you to add a custom namespace/prefix mapping to use when querying an item.
 
@@ -20,7 +20,7 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
  _expression_. `AddNamespace`( `_Prefix_`, `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Parameters

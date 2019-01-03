@@ -13,7 +13,7 @@ Represents a collection of **EffectParameter** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.EffectParameters.Application.md)|Gets an **Application** object that represents the container application for the **EffectParameters** object. Read-only|
 |[Count](../../Office.EffectParameters.Count.md)|Retrieves the count of the number of **EffectParameter** objects contained within the **EffectParameters** collection. Read-only|

@@ -41,7 +41,7 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)|
 
@@ -49,7 +49,7 @@ Use the  **[OnStatusChange](Outlook.PropertyPageSite.OnStatusChange.md)** method
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.PropertyPageSite.Application.md)|
 |[Class](Outlook.PropertyPageSite.Class.md)|

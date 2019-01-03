@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.TextRange property (Excel)
 
-Returns the  **[TextRange2](./Office.TextRange2.md)** object that represents the text in the object. Read-only.
+Returns the  **[TextRange2](Office.TextRange2.md)** object that represents the text in the object. Read-only.
 
 
 ## Syntax

@@ -1,5 +1,5 @@
 ---
-title: LanguageSettings.LanguageID Property (Office)
+title: LanguageSettings.LanguageID property (Office)
 keywords: vbaof11.chm231001
 f1_keywords:
 - vbaof11.chm231001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# LanguageSettings.LanguageID Property (Office)
+# LanguageSettings.LanguageID property (Office)
 
 Gets a  **MsoAppLanguageID** constant representing the locale identifier (LCID) for the install language, the user interface language, or the Help language. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **MsoAppLanguageID** constant representing the locale identifier (LCID) 
 
  _expression_. `LanguageID`( `_Id_` )
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Parameters

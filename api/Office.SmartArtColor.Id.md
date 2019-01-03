@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Id Property (Office)
+title: SmartArtColor.Id property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Id Property (Office)
+# SmartArtColor.Id property (Office)
 
 Retrieves the unique Id of the associated SmartArt color style. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the unique Id of the associated SmartArt color style. Read-only
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SmartArtColor](./Office.SmartArtColor.md) object.
+ _expression_ An expression that returns a [SmartArtColor](Office.SmartArtColor.md) object.
 
 
 ## Remarks

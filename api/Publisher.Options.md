@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ResetTips](./Publisher.Options.ResetTips.md)|
 |[ResetWizardSynchronizing](./Publisher.Options.ResetWizardSynchronizing.md)|
@@ -46,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddHebDoubleQuote](./Publisher.Options.AddHebDoubleQuote.md)|
 |[AllowBackgroundSave](./Publisher.Options.AllowBackgroundSave.md)|

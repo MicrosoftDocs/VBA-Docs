@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Creator Property (Office)
+title: CustomXMLSchema.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Creator Property (Office)
+# CustomXMLSchema.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLSchema** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLSc
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLValidationErrors.Add.md)|Adds a  **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.|
 

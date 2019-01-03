@@ -23,7 +23,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.Profiles.Add.md)|
 
@@ -31,7 +31,7 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveProfile](Project.Profiles.ActiveProfile.md)|
 |[Count](Project.Profiles.Count.md)|

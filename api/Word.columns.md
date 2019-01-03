@@ -61,7 +61,7 @@ ActiveDocument.Tables(1).Columns(1).Select
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Columns.Add.md)|
 |[AutoFit](Word.Columns.AutoFit.md)|
@@ -75,7 +75,7 @@ ActiveDocument.Tables(1).Columns(1).Select
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Columns.Application.md)|
 |[Borders](Word.Columns.Borders.md)|

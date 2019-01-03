@@ -98,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetTable](./Outlook.Search.GetTable.md)|
 |[Save](./Outlook.Search.Save.md)|
@@ -108,7 +108,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Search.Application.md)|
 |[Class](./Outlook.Search.Class.md)|

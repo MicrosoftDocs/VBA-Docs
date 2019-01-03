@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.AutoSize Property (Office)
+title: TextFrame2.AutoSize property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.AutoSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.AutoSize Property (Office)
+# TextFrame2.AutoSize property (Office)
 
  Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write
 
@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. `AutoSize`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

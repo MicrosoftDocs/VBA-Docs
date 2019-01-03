@@ -38,7 +38,7 @@ FileDialog
 
 ## Remarks
 
-The Type parmater can be one of the  ** [MsoFileDialogType](./Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
+The Type parmater can be one of the  ** [MsoFileDialogType](Office.MsoFileDialogType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

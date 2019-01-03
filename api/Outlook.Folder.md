@@ -33,7 +33,7 @@ There is a set of folders within an Outlook data store that supports the default
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeFolderMove](./Outlook.Folder.BeforeFolderMove.md)|
 |[BeforeItemMove](./Outlook.Folder.BeforeItemMove.md)|
@@ -42,7 +42,7 @@ There is a set of folders within an Outlook data store that supports the default
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToPFFavorites](./Outlook.Folder.AddToPFFavorites.md)|
 |[CopyTo](./Outlook.Folder.CopyTo.md)|
@@ -60,7 +60,7 @@ There is a set of folders within an Outlook data store that supports the default
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddressBookName](./Outlook.Folder.AddressBookName.md)|
 |[Application](./Outlook.Folder.Application.md)|

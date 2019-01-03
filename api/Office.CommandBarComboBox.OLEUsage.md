@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.OLEUsage Property (Office)
+title: CommandBarComboBox.OLEUsage property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.OLEUsage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.OLEUsage Property (Office)
+# CommandBarComboBox.OLEUsage property (Office)
 
 Gets or sets the OLE client and OLE server roles in which a  **CommandBarComboBox** control will be used when two Microsoft Office applications are merged. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarComboBo
 
  _expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

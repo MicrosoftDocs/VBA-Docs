@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.DropDownLines Property (Office)
+title: CommandBarComboBox.DropDownLines property (Office)
 keywords: vbaof11.chm8003
 f1_keywords:
 - vbaof11.chm8003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.DropDownLines Property (Office)
+# CommandBarComboBox.DropDownLines property (Office)
 
 Gets or sets the number of lines in a command bar combo box control. The combo box control must be a custom control and it must be a drop-down list box or a combo box. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the number of lines in a command bar combo box control. The combo b
 
  _expression_. `DropDownLines`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

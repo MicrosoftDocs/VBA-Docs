@@ -1,5 +1,5 @@
 ---
-title: COMAddIns.Count Property (Office)
+title: COMAddIns.Count property (Office)
 keywords: vbaof11.chm220002
 f1_keywords:
 - vbaof11.chm220002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns.Count Property (Office)
+# COMAddIns.Count property (Office)
 
 Gets a count of the number of COM add-ins in the host application. Read-only.
 
@@ -20,7 +20,7 @@ Gets a count of the number of COM add-ins in the host application. Read-only.
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [COMAddIns](./Office.COMAddIns.md) object.
+ _expression_ An expression that returns a [COMAddIns](Office.COMAddIns.md) object.
 
 
 ## Return value

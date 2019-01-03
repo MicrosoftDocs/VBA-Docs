@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Show Method (Office)
+title: FileDialog.Show method (Office)
 keywords: vbaof11.chm256012
 f1_keywords:
 - vbaof11.chm256012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Show Method (Office)
+# FileDialog.Show method (Office)
 
 Displays a file dialog box and returns a  **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.
 

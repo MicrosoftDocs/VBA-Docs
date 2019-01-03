@@ -1,5 +1,5 @@
 ---
-title: ContentVerificationResults Enumeration (Office)
+title: ContentVerificationResults enumeration (Office)
 ms.prod: office
 api_name:
 - Office.ContentVerificationResults
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContentVerificationResults Enumeration (Office)
+# ContentVerificationResults enumeration (Office)
 
 Provides the status of verifying whether the content of a document has changed.
 

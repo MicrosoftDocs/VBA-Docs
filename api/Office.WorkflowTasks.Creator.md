@@ -1,5 +1,5 @@
 ---
-title: WorkflowTasks.Creator Property (Office)
+title: WorkflowTasks.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTasks.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTasks.Creator Property (Office)
+# WorkflowTasks.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WorkflowTasks** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **WorkflowTas
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [WorkflowTasks](./Office.WorkflowTasks.md) object.
+ _expression_ An expression that returns a [WorkflowTasks](Office.WorkflowTasks.md) object.
 
 
 ## Return value

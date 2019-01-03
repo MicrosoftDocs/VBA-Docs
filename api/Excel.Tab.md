@@ -25,7 +25,7 @@ Once a  **Tab** object is returned, you can use the **[ColorIndex](Excel.Tab.Col
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application property](Excel.Tab.Application.md)|
 |[Color property](Excel.Tab.Color.md)|

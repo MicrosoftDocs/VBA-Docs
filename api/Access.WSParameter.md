@@ -20,7 +20,7 @@ Represents a parameter defined for an [Operation](Access.Operation.md).
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.WSParameter.Name.md)|
 |[Parent](Access.WSParameter.Parent.md)|

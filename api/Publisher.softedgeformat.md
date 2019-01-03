@@ -19,7 +19,7 @@ Represents the soft edge formatting for a shape or range of shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Radius](Publisher.softedgeformat.radius.md)|
 |[Type](Publisher.softedgeformat.type.md)|

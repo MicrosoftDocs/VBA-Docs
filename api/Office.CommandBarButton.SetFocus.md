@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.SetFocus Method (Office)
+title: CommandBarButton.SetFocus method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.SetFocus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.SetFocus Method (Office)
+# CommandBarButton.SetFocus method (Office)
 
 Moves the keyboard focus to the specified  **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.
 
@@ -20,7 +20,7 @@ Moves the keyboard focus to the specified  **CommandBarButton** control. If the 
 
  _expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

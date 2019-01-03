@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers.Add Method (Office)
+title: SharedWorkspaceMembers.Add method (Office)
 keywords: vbaof11.chm273003
 f1_keywords:
 - vbaof11.chm273003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers.Add Method (Office)
+# SharedWorkspaceMembers.Add method (Office)
 
 Adds a member to the list of members in a shared workspace site. Returns a  **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** object.
 

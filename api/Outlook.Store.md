@@ -99,7 +99,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetDefaultFolder](./Outlook.Store.GetDefaultFolder.md)|
 |[GetRootFolder](./Outlook.Store.GetRootFolder.md)|
@@ -114,7 +114,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Store.Application.md)|
 |[Categories](./Outlook.Store.Categories.md)|

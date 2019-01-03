@@ -48,7 +48,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Excel.Points.Item.md)|
 
@@ -56,7 +56,7 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Points.Application.md)|
 |[Count](Excel.Points.Count.md)|

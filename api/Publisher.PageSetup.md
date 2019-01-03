@@ -35,7 +35,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PageSetup.Application.md)|
 |[AvailablePageSizes](./Publisher.PageSetup.AvailablePageSizes.md)|

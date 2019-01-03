@@ -1531,6 +1531,10 @@
           {
             "source_path": "language/reference/user-interface-help/collections-microsoft-forms.md",
             "redirect_url": "/office/vba/language/reference/user-interface-help/objects-microsoft-forms"
+          },
+          {
+            "source_path": "library-reference/concepts/how-do-i-object-library-reference-for-office.md",
+            "redirect_url": "/office/vba/library-reference/concepts/concepts-object-library-reference-for-office"
           }
     ]
 }

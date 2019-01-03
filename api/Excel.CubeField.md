@@ -49,7 +49,7 @@ strAlphaName = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMemberPropertyField](Excel.CubeField.AddMemberPropertyField.md)|
 |[AutoGroup](Excel.cubefield.autogroup.md)|
@@ -61,7 +61,7 @@ strAlphaName = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllItemsVisible](Excel.CubeField.AllItemsVisible.md)|
 |[Application](Excel.CubeField.Application.md)|

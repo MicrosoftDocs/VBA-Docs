@@ -52,7 +52,7 @@ MsgBox Rates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CostRateTables.Application.md)|
 |[Count](Project.CostRateTables.Count.md)|

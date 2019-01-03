@@ -14,14 +14,14 @@ Represents a user who has rights in a shared document workspace site.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceMember.Delete.md)|Deletes the current **SharedWorkspaceMember** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceMember.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceMember** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.SharedWorkspaceMember.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SharedWorkspaceMember** object was created. Read-only.|

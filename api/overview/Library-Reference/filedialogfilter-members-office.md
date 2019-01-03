@@ -13,7 +13,7 @@ Represents a file filter in a file dialog box displayed through the **FileDialog
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.FileDialogFilter.Application.md)|Gets an Application object that represents the container application for the ** FileDialogFilter** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.FileDialogFilter.Creator.md)|Gets a 32-bit integer that indicates the application in which the **FileDialogFilter** object was created. Read-only.|

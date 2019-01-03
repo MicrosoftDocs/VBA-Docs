@@ -1,5 +1,5 @@
 ---
-title: Signature Object (Office)
+title: Signature object (Office)
 keywords: vbaof11.chm248000
 f1_keywords:
 - vbaof11.chm248000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature Object (Office)
+# Signature object (Office)
 
 Represents a digital signature attached to a document.  **Signature** objects are contained in the **SignatureSet** collection of the **Document** object.
 

@@ -27,7 +27,7 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.EmptyCell.Move.md)|
 |[SizeToFit](Access.EmptyCell.SizeToFit.md)|
@@ -36,7 +36,7 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.EmptyCell.Application.md)|
 |[BackColor](Access.EmptyCell.BackColor.md)|

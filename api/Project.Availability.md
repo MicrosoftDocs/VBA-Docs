@@ -57,7 +57,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Availability.Delete.md)|
 
@@ -65,7 +65,7 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Availability.Application.md)|
 |[AvailableFrom](Project.Availability.AvailableFrom.md)|

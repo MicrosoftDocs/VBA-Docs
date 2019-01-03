@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.TabStops Property (Office)
+title: ParagraphFormat2.TabStops property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.TabStops
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.TabStops Property (Office)
+# ParagraphFormat2.TabStops property (Office)
 
 Gets a  **TabStops2** collection that represents all the custom tab stops for the specified paragraphs. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **TabStops2** collection that represents all the custom tab stops for th
 
  _expression_. `TabStops`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

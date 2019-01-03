@@ -57,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Outlook.ExchangeDistributionList.Delete.md)|
 |[Details](Outlook.ExchangeDistributionList.Details.md)|
@@ -77,7 +77,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Outlook.ExchangeDistributionList.Address.md)|
 |[AddressEntryUserType](Outlook.ExchangeDistributionList.AddressEntryUserType.md)|

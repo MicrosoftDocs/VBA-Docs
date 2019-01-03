@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNodes.Parent Property (Office)
+title: CustomXMLNodes.Parent property (Office)
 keywords: vbaof11.chm293001
 f1_keywords:
 - vbaof11.chm293001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNodes.Parent Property (Office)
+# CustomXMLNodes.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLNodes** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLNodes** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLNodes](./Office.CustomXMLNodes.md) object.
+ _expression_ An expression that returns a [CustomXMLNodes](Office.CustomXMLNodes.md) object.
 
 
 ## Return value

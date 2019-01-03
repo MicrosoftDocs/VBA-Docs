@@ -41,7 +41,7 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyTheme](./PowerPoint.Master.ApplyTheme.md)|
 |[Delete](./PowerPoint.Master.Delete.md)|
@@ -50,7 +50,7 @@ ActivePresentation.AddTitleMaster.Shapes.Title.Top = 10
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Master.Application.md)|
 |[Background](./PowerPoint.Master.Background.md)|

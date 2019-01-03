@@ -25,7 +25,7 @@ Indicates whether the media controls are currently visible. Read-only.
 
 ## Return value
 
- **[MsoTriState](./Office.MsoTriState.md)**
+ **[MsoTriState](Office.MsoTriState.md)**
 
 
 ## See also

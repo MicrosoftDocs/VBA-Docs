@@ -27,7 +27,7 @@ This data can be obtained from the Windows registry key HKEY_LOCAL_MACHINE\SOFTW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TimeZone.Application.md)|
 |[Bias](Outlook.TimeZone.Bias.md)|

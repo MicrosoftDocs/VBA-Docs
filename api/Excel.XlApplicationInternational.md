@@ -4,7 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.xlApplicationInternational
 ms.assetid: 19e6c752-652e-d1d1-5aa3-a288c149f87a
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -25,10 +25,10 @@ Specifies country/region and international settings.
 | **xlCurrencyDigits**|27|Number of decimal digits to be used in currency formats.|
 | **xlCurrencyLeadingZeros**|40|True if leading zeros are displayed for zero currency values.|
 | **xlCurrencyMinusSign**|38|True if you are using a minus sign for negative numbers; False if you are using parentheses.|
-| **xlCurrencyNegative**|28|Currency format for negative currency values: `0 = (symbolx)` or `(xsymbol)1 = -symbolx` or `-xsymbol2 = symbol-x` or `x-symbol3 = symbolx-` or `xsymbol-` where symbol is the currency symbol of the country or region.<br/><br/>Note that the position of the currency symbol is determined by xlCurrencyBefore.|
+| **xlCurrencyNegative**|28|Currency format for negative currency values: `0 = (symbolx) or (xsymbol)`, `1 = -symbolx or -xsymbol`, `2 = symbol-x or x-symbol`, or `3 = symbolx- or xsymbol-`, where symbol is the currency symbol of the country or region.<br/><br/>Note that the position of the currency symbol is determined by **xlCurrencyBefore**.|
 | **xlCurrencySpaceBefore**|36|True if a space is added before the currency symbol.|
 | **xlCurrencyTrailingZeros**|39|True if trailing zeros are displayed for zero currency values.|
-| **xlDateOrder**|32|Order of date elements: `0 = month-day-year1 = day-month-year2 = year-month-day`|
+| **xlDateOrder**|32|Order of date elements: `0 = month-day-year`, `1 = day-month-year`, `2 = year-month-day`|
 | **xlDateSeparator**|17|Date separator (/).|
 | **xlDayCode**|21|Day symbol (d).|
 | **xlDayLeadingZero**|42|True if a leading zero is displayed in days.|

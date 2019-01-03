@@ -25,7 +25,7 @@ Returns or sets a value that indicates how PowerPoint will validate files before
 
 ## Return value
 
- **[MsoFileValidationMode](./Office.MsoFileValidationMode.md)**
+ **[MsoFileValidationMode](Office.MsoFileValidationMode.md)**
 
 
 ## Remarks

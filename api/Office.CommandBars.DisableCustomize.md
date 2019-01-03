@@ -1,5 +1,5 @@
 ---
-title: CommandBars.DisableCustomize Property (Office)
+title: CommandBars.DisableCustomize property (Office)
 keywords: vbaof11.chm2016
 f1_keywords:
 - vbaof11.chm2016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.DisableCustomize Property (Office)
+# CommandBars.DisableCustomize property (Office)
 
 Is  **True** if toolbar customization is disabled. Read/write.
 
@@ -20,7 +20,7 @@ Is  **True** if toolbar customization is disabled. Read/write.
 
  _expression_. `DisableCustomize`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

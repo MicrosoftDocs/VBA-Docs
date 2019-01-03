@@ -1,5 +1,5 @@
 ---
-title: ScopeFolders Object (Office)
+title: ScopeFolders object (Office)
 keywords: vbaof11.chm249000
 f1_keywords:
 - vbaof11.chm249000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolders Object (Office)
+# ScopeFolders object (Office)
 
 A collection of  **ScopeFolder** objects.
 
@@ -29,7 +29,7 @@ You can't add or remove  **ScopeFolder** objects from a **ScopeFolders** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ScopeFolders.Application.md)|
 |[Count](Office.ScopeFolders.Count.md)|

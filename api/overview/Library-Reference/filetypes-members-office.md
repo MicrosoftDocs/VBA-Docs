@@ -13,7 +13,7 @@ A collection of values of the type **msoFileType** that determine which types of
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.FileTypes.Add.md)|Adds a new file type to a file search.|
 |[Remove](../../Office.FileTypes.Remove.md)|Removes a **FileType** object from the collection.|
@@ -21,7 +21,7 @@ A collection of values of the type **msoFileType** that determine which types of
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.FileTypes.Application.md)|Gets an **Application** object that represents the container application for the **FileTypes** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.FileTypes.Count.md)|Gets a **Long** indicating the number of items in the **FileTypes** collection. Read-only.|

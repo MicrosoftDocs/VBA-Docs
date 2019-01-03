@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Left Property (Office)
+title: CommandBar.Left property (Office)
 keywords: vbaof11.chm3009
 f1_keywords:
 - vbaof11.chm3009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Left Property (Office)
+# CommandBar.Left property (Office)
 
 Sets or gets the horizontal distance (in pixels) of the  **CommandBar** from the left edge of the object relative to the screen. Read/write.
 

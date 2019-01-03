@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.ListID Property (Office)
+title: WorkflowTask.ListID property (Office)
 keywords: vbaof11.chm280002
 f1_keywords:
 - vbaof11.chm280002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.ListID Property (Office)
+# WorkflowTask.ListID property (Office)
 
 Gets the ID of the list containing the workflow task. Read-only.
 
@@ -20,7 +20,7 @@ Gets the ID of the list containing the workflow task. Read-only.
 
  _expression_. `ListID`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

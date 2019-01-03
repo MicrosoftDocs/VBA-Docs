@@ -1,5 +1,5 @@
 ---
-title: SmartArtColors.Parent Property (Office)
+title: SmartArtColors.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColors.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColors.Parent Property (Office)
+# SmartArtColors.Parent property (Office)
 
 Returns the calling object. Read-only
 
@@ -17,7 +17,7 @@ Returns the calling object. Read-only
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
+ _expression_ An expression that returns a [SmartArtColors](Office.SmartArtColors.md) object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Font2.Highlight Property (Office)
+title: Font2.Highlight property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Highlight
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Highlight Property (Office)
+# Font2.Highlight property (Office)
 
 Gets a value indicating whether the font is displayed as highlighted. Read-only.
 
@@ -17,7 +17,7 @@ Gets a value indicating whether the font is displayed as highlighted. Read-only.
 
  _expression_. `Highlight`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

@@ -27,7 +27,7 @@ For more information on specifying rule actions, see [Specify Rule Conditions](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Account](Outlook.AccountRuleCondition.Account.md)|
 |[Application](Outlook.AccountRuleCondition.Application.md)|

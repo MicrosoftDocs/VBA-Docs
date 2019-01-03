@@ -46,7 +46,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeMappedDataField.Application.md)|
 |[DataFieldName](Publisher.MailMergeMappedDataField.DataFieldName.md)|

@@ -1,5 +1,5 @@
 ---
-title: UserPermission.UserId Property (Office)
+title: UserPermission.UserId property (Office)
 keywords: vbaof11.chm260001
 f1_keywords:
 - vbaof11.chm260001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.UserId Property (Office)
+# UserPermission.UserId property (Office)
 
 Gets the email name of the user whose permissions on the active document are determined by the specified  **[UserPermission](Office.UserPermission.md)** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the email name of the user whose permissions on the active document are det
 
  _expression_. `UserId`
 
- _expression_ A variable that represents a [UserPermission](./Office.UserPermission.md) object.
+ _expression_ A variable that represents a [UserPermission](Office.UserPermission.md) object.
 
 
 ## Remarks

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WorkflowTemplate.Application.md)|Gets an **Application** object that represents the container application for the **WorkflowTemplate** object. Read-only.|
 |[Creator](../../Office.WorkflowTemplate.Creator.md)|Gets a 32-bit integer that indicates the application in which the **WorkflowTemplate** object was created. Read-only.|

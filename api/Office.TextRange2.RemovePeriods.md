@@ -1,5 +1,5 @@
 ---
-title: TextRange2.RemovePeriods Method (Office)
+title: TextRange2.RemovePeriods method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.RemovePeriods
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.RemovePeriods Method (Office)
+# TextRange2.RemovePeriods method (Office)
 
 Removes all period (.) punctuation from the text in the  **TextRange2** object.
 
@@ -17,7 +17,7 @@ Removes all period (.) punctuation from the text in the  **TextRange2** object.
 
  _expression_. `RemovePeriods`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

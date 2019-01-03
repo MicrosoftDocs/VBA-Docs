@@ -39,7 +39,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.PostItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.PostItem.AttachmentAdd.md)|
@@ -72,7 +72,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearConversationIndex](Outlook.PostItem.ClearConversationIndex.md)|
 |[ClearTaskFlag](Outlook.PostItem.ClearTaskFlag.md)|
@@ -95,7 +95,7 @@ Set myItem = myOlApp.CreateItem(olPostItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.PostItem.Actions.md)|
 |[Application](Outlook.PostItem.Application.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.RulerLevels2.Application.md)|Gets an  **Application** object that represents the container application for the **RulerLevels2** object. Read-only.|
 |[Count](../../Office.RulerLevels2.Count.md)|Gets a  **Long** indicating the number of items in the **RulerLevels2** collection. Read-only.|

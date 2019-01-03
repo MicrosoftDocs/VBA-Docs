@@ -15,7 +15,7 @@ Presents multiple screens of information as a single set.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.multipage.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [Enabled](Outlook.multipage.enabled.md)|Returns or sets a  **Boolean** that specifies whether a control can receive the focus and respond to user-generated events. Read/write.|
@@ -34,7 +34,7 @@ Presents multiple screens of information as a single set.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.multipage.click.md)|Occurs when the user clicks inside the control.|
 

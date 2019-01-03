@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.OLEUsage Property (Office)
+title: CommandBarPopup.OLEUsage property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.OLEUsage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.OLEUsage Property (Office)
+# CommandBarPopup.OLEUsage property (Office)
 
 Gets or sets the OLE client and OLE server roles in which a  **CommandBarPopup** control is used when two Microsoft Office applications are merged. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarPopup**
 
  _expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

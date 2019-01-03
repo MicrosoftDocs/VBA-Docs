@@ -14,7 +14,7 @@ Represents the color scheme of a Microsoft Office theme.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Colors](../../Office.ThemeColorScheme.Colors.md)|Gets an object that represents a color in the color scheme of a Microsoft Office theme.|
 |[GetCustomColor](../../Office.ThemeColorScheme.GetCustomColor.md)|Gets a value that represents a color in the color scheme of a Microsoft Office theme. |
@@ -24,7 +24,7 @@ Represents the color scheme of a Microsoft Office theme.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeColorScheme.Application.md)|Gets an **Application** object that represents the container application for the **ThemeColorScheme** object. Read-only.|
 |[Count](../../Office.ThemeColorScheme.Count.md)|Gets a **Integer** indicating the number of items in the **ThemeColorScheme** collection. Read-only.|

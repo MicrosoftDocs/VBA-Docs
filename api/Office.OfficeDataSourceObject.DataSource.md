@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.DataSource Property (Office)
+title: OfficeDataSourceObject.DataSource property (Office)
 keywords: vbaof11.chm232003
 f1_keywords:
 - vbaof11.chm232003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.DataSource Property (Office)
+# OfficeDataSourceObject.DataSource property (Office)
 
 Gets or sets a  **String** that represents the name of the attached data source. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a  **String** that represents the name of the attached data source.
 
  _expression_. `DataSource`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

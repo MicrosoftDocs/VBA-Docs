@@ -95,7 +95,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Outlook.StorageItem.Delete.md)|
 |[Save](Outlook.StorageItem.Save.md)|
@@ -104,7 +104,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.StorageItem.Application.md)|
 |[Attachments](Outlook.StorageItem.Attachments.md)|

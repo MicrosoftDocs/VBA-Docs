@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceLink.Delete.md)|Deletes the current  **SharedWorkspaceLink** object.|
 |[Save](../../Office.SharedWorkspaceLink.Save.md)|Uploads changes made programmatically to a shared server.|

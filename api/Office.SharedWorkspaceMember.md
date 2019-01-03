@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember Object (Office)
+title: SharedWorkspaceMember object (Office)
 keywords: vbaof11.chm272000
 f1_keywords:
 - vbaof11.chm272000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMember Object (Office)
+# SharedWorkspaceMember object (Office)
 
 Represents a user who has rights in a shared document workspace site.
 
@@ -68,7 +68,7 @@ The following example displays the number of members in the active document's sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceMember.Delete.md)|
 
@@ -76,7 +76,7 @@ The following example displays the number of members in the active document's sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceMember.Application.md)|
 |[Creator](Office.SharedWorkspaceMember.Creator.md)|

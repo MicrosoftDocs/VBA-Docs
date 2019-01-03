@@ -23,7 +23,7 @@ Use the  **[BaseCalendarCreate](./Project.Application.BaseCalendarCreate.md)** m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Project.Calendar.Delete.md)|
 |[Period](./Project.Calendar.Period.md)|
@@ -33,7 +33,7 @@ Use the  **[BaseCalendarCreate](./Project.Application.BaseCalendarCreate.md)** m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Calendar.Application.md)|
 |[BaseCalendar](./Project.Calendar.BaseCalendar.md)|

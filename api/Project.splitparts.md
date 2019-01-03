@@ -94,7 +94,7 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.SplitParts.Add.md)|
 
@@ -102,7 +102,7 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.SplitParts.Application.md)|
 |[Count](Project.SplitParts.Count.md)|

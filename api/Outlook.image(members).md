@@ -15,7 +15,7 @@ Displays a picture on a form.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [AutoSize](Outlook.Image.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
 | [BackColor](Outlook.Image.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
@@ -37,7 +37,7 @@ Displays a picture on a form.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.Image.click.md)|Occurs when the user clicks inside the control.|
 

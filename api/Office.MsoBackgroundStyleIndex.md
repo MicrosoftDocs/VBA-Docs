@@ -1,5 +1,5 @@
 ---
-title: MsoBackgroundStyleIndex Enumeration (Office)
+title: MsoBackgroundStyleIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBackgroundStyleIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBackgroundStyleIndex Enumeration (Office)
+# MsoBackgroundStyleIndex enumeration (Office)
 
 Indicates the background style for an object.
 

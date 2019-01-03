@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Parameter Property (Office)
+title: CommandBarComboBox.Parameter property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Parameter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Parameter Property (Office)
+# CommandBarComboBox.Parameter property (Office)
 
 Gets or sets a string that an application can use to execute a command from a  **CommandBarComboBox** control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets a string that an application can use to execute a command from a  *
 
  _expression_. `Parameter`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

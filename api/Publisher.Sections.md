@@ -89,7 +89,7 @@ Next i
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Sections.Add.md)|
 
@@ -97,7 +97,7 @@ Next i
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Sections.Application.md)|
 |[Count](Publisher.Sections.Count.md)|

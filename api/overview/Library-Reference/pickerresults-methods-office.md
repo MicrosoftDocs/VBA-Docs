@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.PickerResults.Add.md)|Adds a  **PickerResult** object to the **PickerResults** collection.|
 

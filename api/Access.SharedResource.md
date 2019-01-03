@@ -27,7 +27,7 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](A
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Access.SharedResource.Delete.md)|
 
@@ -35,7 +35,7 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](A
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.SharedResource.Name.md)|
 |[Parent](Access.SharedResource.Parent.md)|

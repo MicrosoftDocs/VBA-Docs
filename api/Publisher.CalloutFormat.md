@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)|
 |[CustomDrop](Publisher.CalloutFormat.CustomDrop.md)|
@@ -85,7 +85,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accent](Publisher.CalloutFormat.Accent.md)|
 |[Angle](Publisher.CalloutFormat.Angle.md)|

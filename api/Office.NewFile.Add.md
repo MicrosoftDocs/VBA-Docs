@@ -1,5 +1,5 @@
 ---
-title: NewFile.Add Method (Office)
+title: NewFile.Add method (Office)
 keywords: vbaof11.chm235001
 f1_keywords:
 - vbaof11.chm235001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NewFile.Add Method (Office)
+# NewFile.Add method (Office)
 
 Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
 

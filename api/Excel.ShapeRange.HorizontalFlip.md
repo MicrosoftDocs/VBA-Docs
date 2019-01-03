@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.HorizontalFlip property (Excel)
 
- **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](./Office.MsoTriState.md)**.
+ **True** if the specified shape is flipped around the horizontal axis. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax

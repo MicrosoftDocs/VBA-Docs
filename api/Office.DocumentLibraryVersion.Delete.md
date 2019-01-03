@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Delete Method (Office)
+title: DocumentLibraryVersion.Delete method (Office)
 keywords: vbaof11.chm277022
 f1_keywords:
 - vbaof11.chm277022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Delete Method (Office)
+# DocumentLibraryVersion.Delete method (Office)
 
 Removes a document library version from the  **DocumentLibraryVersions** collection.
 

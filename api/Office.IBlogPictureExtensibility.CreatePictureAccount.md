@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility.CreatePictureAccount Method (Office)
+title: IBlogPictureExtensibility.CreatePictureAccount method (Office)
 keywords: vbaof11.chm329002
 f1_keywords:
 - vbaof11.chm329002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility.CreatePictureAccount Method (Office)
+# IBlogPictureExtensibility.CreatePictureAccount method (Office)
 
 Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.
 
@@ -20,7 +20,7 @@ Allows a picture provider to display the user interface needed to guide the user
 
  _expression_. `CreatePictureAccount`( `_Account_`, `_BlogProvider_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_` )
 
- _expression_ An expression that returns a [IBlogPictureExtensibility](./Office.IBlogPictureExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogPictureExtensibility](Office.IBlogPictureExtensibility.md) object.
 
 
 ## Parameters

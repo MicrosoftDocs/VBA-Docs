@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentInspector.Application.md)|Gets an  **Application** object that represents the creator of the **DocumentInspector** object. Read-only.|
 |[Creator](../../Office.DocumentInspector.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **DocumentInspector** object was created. Read-only.|

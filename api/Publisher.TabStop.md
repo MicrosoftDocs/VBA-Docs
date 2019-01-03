@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.TabStop.Clear.md)|
 
@@ -82,7 +82,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.TabStop.Alignment.md)|
 |[Application](Publisher.TabStop.Application.md)|

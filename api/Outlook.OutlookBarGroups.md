@@ -37,7 +37,7 @@ Set myGroups = myOutlookBarStorage.Groups
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeGroupAdd](Outlook.OutlookBarGroups.BeforeGroupAdd.md)|
 |[BeforeGroupRemove](Outlook.OutlookBarGroups.BeforeGroupRemove.md)|
@@ -47,7 +47,7 @@ Set myGroups = myOutlookBarStorage.Groups
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.OutlookBarGroups.Add.md)|
 |[Item](Outlook.OutlookBarGroups.Item.md)|
@@ -57,7 +57,7 @@ Set myGroups = myOutlookBarStorage.Groups
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarGroups.Application.md)|
 |[Class](Outlook.OutlookBarGroups.Class.md)|

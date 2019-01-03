@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup Object (Office)
+title: SignatureSetup object (Office)
 keywords: vbaof11.chm285000
 f1_keywords:
 - vbaof11.chm285000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup Object (Office)
+# SignatureSetup object (Office)
 
 Represents the information used to set up a signature packet.
 
@@ -36,7 +36,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdditionalXml](Office.SignatureSetup.AdditionalXml.md)|
 |[AllowComments](Office.SignatureSetup.AllowComments.md)|

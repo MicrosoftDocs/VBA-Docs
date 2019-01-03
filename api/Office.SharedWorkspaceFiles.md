@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFiles Object (Office)
+title: SharedWorkspaceFiles object (Office)
 keywords: vbaof11.chm267000
 f1_keywords:
 - vbaof11.chm267000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFiles Object (Office)
+# SharedWorkspaceFiles object (Office)
 
 A collection of the  **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** objects in the current shared workspace.
 
@@ -40,7 +40,7 @@ Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceFiles.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFiles.Application.md)|
 |[Count](Office.SharedWorkspaceFiles.Count.md)|

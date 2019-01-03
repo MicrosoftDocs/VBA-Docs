@@ -67,7 +67,7 @@ The  **[Sheets](Excel.Sheets.md)** collection contains all the sheets in the wor
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add2](Excel.charts.add2.md)|
 |[Copy](Excel.Charts.Copy.md)|
@@ -81,7 +81,7 @@ The  **[Sheets](Excel.Sheets.md)** collection contains all the sheets in the wor
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Charts.Application.md)|
 |[Count](Excel.Charts.Count.md)|

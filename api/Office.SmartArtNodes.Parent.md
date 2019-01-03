@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes.Parent Property (Office)
+title: SmartArtNodes.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes.Parent Property (Office)
+# SmartArtNodes.Parent property (Office)
 
 Returns the calling object. Read-only
 
@@ -17,7 +17,7 @@ Returns the calling object. Read-only
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [SmartArtNodes](./Office.SmartArtNodes.md) object.
+ _expression_ An expression that returns a [SmartArtNodes](Office.SmartArtNodes.md) object.
 
 
 ## See also

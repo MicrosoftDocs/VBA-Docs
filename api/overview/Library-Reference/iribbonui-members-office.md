@@ -14,7 +14,7 @@ The object that is returned by the **onLoad** procedure specified on the **custo
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ActivateTab](../../Office.IRibbonUI.ActivateTab.md)|Activates the specified custom tab. This method returns S_FALSE if there is no Ribbon or the Ribbon is collapsed.|
 |[ActivateTabMso](../../Office.IRibbonUI.ActivateTabMso.md)|Activates the specified built-in tab.|

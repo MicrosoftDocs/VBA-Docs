@@ -54,7 +54,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlignMarginsHeaderFooter](Excel.PageSetup.AlignMarginsHeaderFooter.md)|
 |[Application](Excel.PageSetup.Application.md)|

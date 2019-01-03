@@ -51,7 +51,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Excel.Axes.Item.md)|
 
@@ -59,7 +59,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Axes.Application.md)|
 |[Count](Excel.Axes.Count.md)|

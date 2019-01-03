@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Columns](../../Office.OfficeDataSourceObject.Columns.md)|Gets an  **ODSOColumns** object that represents the fields in a data source. Read-only.|
 |[ConnectString](../../Office.OfficeDataSourceObject.ConnectString.md)|Gets or sets a  **String** that represents the connection to the specified mail merge data source. Read/write.|

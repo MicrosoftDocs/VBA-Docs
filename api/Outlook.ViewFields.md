@@ -100,7 +100,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.ViewFields.Add.md)|
 |[Insert](Outlook.ViewFields.Insert.md)|
@@ -111,7 +111,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ViewFields.Application.md)|
 |[Class](Outlook.ViewFields.Class.md)|

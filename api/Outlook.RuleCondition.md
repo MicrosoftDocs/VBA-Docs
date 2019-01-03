@@ -50,7 +50,7 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.RuleCondition.Application.md)|
 |[Class](Outlook.RuleCondition.Class.md)|

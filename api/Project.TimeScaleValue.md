@@ -64,7 +64,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](./Project.TimeScaleValue.Clear.md)|
 |[Delete](./Project.TimeScaleValue.Delete.md)|
@@ -73,7 +73,7 @@ TSV.Add 480, 2
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TimeScaleValue.Application.md)|
 |[EndDate](./Project.TimeScaleValue.EndDate.md)|

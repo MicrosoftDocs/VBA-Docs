@@ -53,7 +53,7 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Excel.LegendEntries.Item.md)|
 
@@ -61,7 +61,7 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.LegendEntries.Application.md)|
 |[Count](Excel.LegendEntries.Count.md)|

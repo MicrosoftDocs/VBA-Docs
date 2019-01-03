@@ -1,5 +1,5 @@
 ---
-title: GradientStops.Insert Method (Office)
+title: GradientStops.Insert method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Insert
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStops.Insert Method (Office)
+# GradientStops.Insert method (Office)
 
 Adds a stop to a gradient.
 
@@ -17,7 +17,7 @@ Adds a stop to a gradient.
 
  _expression_. `Insert`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_` )
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+ _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 
 
 ## Parameters

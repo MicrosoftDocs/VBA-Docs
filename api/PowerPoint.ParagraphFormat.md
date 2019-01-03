@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](./PowerPoint.ParagraphFormat.Alignment.md)|
 |[Application](./PowerPoint.ParagraphFormat.Application.md)|

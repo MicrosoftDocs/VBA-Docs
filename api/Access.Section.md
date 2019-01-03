@@ -25,7 +25,7 @@ You can set section properties which are attributes of a form that affect the ap
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.Section.Click.md)|
 |[DblClick](Access.Section.DblClick.md)|
@@ -38,7 +38,7 @@ You can set section properties which are attributes of a form that affect the ap
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetTabOrder](Access.Section.SetTabOrder.md)|
 
@@ -46,7 +46,7 @@ You can set section properties which are attributes of a form that affect the ap
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlternateBackColor](Access.Section.AlternateBackColor.md)|
 |[AlternateBackShade](Access.Section.AlternateBackShade.md)|

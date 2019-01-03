@@ -14,7 +14,7 @@ A single semantic node within the data model of a Smart Art graphic.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNode](../../Office.SmartArtNode.AddNode.md)|Adds a new SmartArtNode to the data model in the way specified by the SmartArtNodePosition value, and of type SmartArtNodeType.|
 |[Delete](../../Office.SmartArtNode.Delete.md)|Removes the current SmartArt node. |
@@ -27,7 +27,7 @@ A single semantic node within the data model of a Smart Art graphic.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtNode.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtNode** object. Read-only|
 |[Creator](../../Office.SmartArtNode.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtNode** object was created. Read-only|

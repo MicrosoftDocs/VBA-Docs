@@ -60,7 +60,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Styles.Add.md)|
 |[Merge](Excel.Styles.Merge.md)|
@@ -69,7 +69,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Styles.Application.md)|
 |[Count](Excel.Styles.Count.md)|

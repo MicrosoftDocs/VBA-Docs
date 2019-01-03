@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Tag Property (Office)
+title: CommandBarButton.Tag property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Tag
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Tag Property (Office)
+# CommandBarButton.Tag property (Office)
 
 Gets or sets information about the  **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets information about the  **CommandBarButton** control, such as data t
 
  _expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

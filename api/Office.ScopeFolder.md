@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder Object (Office)
+title: ScopeFolder object (Office)
 keywords: vbaof11.chm259000
 f1_keywords:
 - vbaof11.chm259000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder Object (Office)
+# ScopeFolder object (Office)
 
 Corresponds to a searchable folder.  **ScopeFolder** objects are intended for use with the **SearchFolders** collection.
 
@@ -86,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToSearchFolders](Office.ScopeFolder.AddToSearchFolders.md)|
 
@@ -94,7 +94,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ScopeFolder.Application.md)|
 |[Creator](Office.ScopeFolder.Creator.md)|

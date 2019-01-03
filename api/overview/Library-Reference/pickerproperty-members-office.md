@@ -13,7 +13,7 @@ Represents an object for passing a custom property.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerProperty.Application.md)|Gets an **Application** object that represents the container application for the **PickerProperty** object. Read-only|
 |[Creator](../../Office.PickerProperty.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerProperty** object was created. Read-only|

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Copy Method (Office)
+title: CommandBarComboBox.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Copy Method (Office)
+# CommandBarComboBox.Copy method (Office)
 
 Copies a command bar combo box control to an existing command bar.
 
@@ -20,7 +20,7 @@ Copies a command bar combo box control to an existing command bar.
 
  _expression_. `Copy`( `_Bar_`, `_Before_` )
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Parameters

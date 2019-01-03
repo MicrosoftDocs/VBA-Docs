@@ -1,5 +1,5 @@
 ---
-title: SearchScopes.Item Property (Office)
+title: SearchScopes.Item property (Office)
 keywords: vbaof11.chm252001
 f1_keywords:
 - vbaof11.chm252001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScopes.Item Property (Office)
+# SearchScopes.Item property (Office)
 
 Gets a  **SearchScope** object that corresponds to an area in which to perform a file search, such as local drives or Microsoft Outlook folders. Read-only.
 

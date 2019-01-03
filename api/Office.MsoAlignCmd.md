@@ -1,5 +1,5 @@
 ---
-title: MsoAlignCmd Enumeration (Office)
+title: MsoAlignCmd enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAlignCmd
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAlignCmd Enumeration (Office)
+# MsoAlignCmd enumeration (Office)
 
 Defines how to align specified objects relative to one another.
 

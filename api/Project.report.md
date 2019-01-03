@@ -70,7 +70,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Project.report.apply.md)|
 |[Delete](Project.report.delete.md)|
@@ -79,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.report.application.md)|
 |[Index](Project.report.index.md)|

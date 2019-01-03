@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.LookupPrefix Method (Office)
+title: CustomXMLPrefixMappings.LookupPrefix method (Office)
 keywords: vbaof11.chm290006
 f1_keywords:
 - vbaof11.chm290006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.LookupPrefix Method (Office)
+# CustomXMLPrefixMappings.LookupPrefix method (Office)
 
 Allows you to get a prefix corresponding to the specified namespace. 
 
@@ -20,7 +20,7 @@ Allows you to get a prefix corresponding to the specified namespace.
 
  _expression_. `LookupPrefix`( `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: MsoFileNewAction Enumeration (Office)
+title: MsoFileNewAction enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFileNewAction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFileNewAction Enumeration (Office)
+# MsoFileNewAction enumeration (Office)
 
 Specifies action to take when a user clicks an item in the task pane. Used with the  **Add** method of the **NewFile** object.
 

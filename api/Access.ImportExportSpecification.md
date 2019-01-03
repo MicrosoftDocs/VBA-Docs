@@ -29,7 +29,7 @@ Use the  **[Execute](Access.ImportExportSpecification.Execute.md)** method to ru
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Access.ImportExportSpecification.Delete.md)|
 |[Execute](Access.ImportExportSpecification.Execute.md)|
@@ -38,7 +38,7 @@ Use the  **[Execute](Access.ImportExportSpecification.Execute.md)** method to ru
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.ImportExportSpecification.Application.md)|
 |[Description](Access.ImportExportSpecification.Description.md)|

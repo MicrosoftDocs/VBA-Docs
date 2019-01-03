@@ -1,5 +1,5 @@
 ---
-title: ODSOColumn.Name Property (Office)
+title: ODSOColumn.Name property (Office)
 keywords: vbaof11.chm233002
 f1_keywords:
 - vbaof11.chm233002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumn.Name Property (Office)
+# ODSOColumn.Name property (Office)
 
 Gets the name of a data field in a mail merge data source. Read-only.
 
@@ -20,7 +20,7 @@ Gets the name of a data field in a mail merge data source. Read-only.
 
  _expression_. `Name`
 
- _expression_ A variable that represents an [ODSOColumn](./Office.ODSOColumn.md) object.
+ _expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
 
 
 ## Return value

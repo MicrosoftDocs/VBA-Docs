@@ -1,5 +1,5 @@
 ---
-title: IRibbonControl.Context Property (Office)
+title: IRibbonControl.Context property (Office)
 keywords: vbaof11.chm288002
 f1_keywords:
 - vbaof11.chm288002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonControl.Context Property (Office)
+# IRibbonControl.Context property (Office)
 
 Represents the active window containing the Ribbon user interface that triggers a callback procedure. Read-only.
 
@@ -20,7 +20,7 @@ Represents the active window containing the Ribbon user interface that triggers 
 
  _expression_. `Context`
 
- _expression_ An expression that returns a [IRibbonControl](./Office.IRibbonControl.md) object.
+ _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundHeight Property (Office)
+title: TextRange2.BoundHeight property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.BoundHeight
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.BoundHeight Property (Office)
+# TextRange2.BoundHeight property (Office)
 
 Gets the height, in points, of the text bounding box for the specified text. Read-only.
 
@@ -17,7 +17,7 @@ Gets the height, in points, of the text bounding box for the specified text. Rea
 
  _expression_. `BoundHeight`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

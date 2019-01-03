@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Item Property (Office)
+title: FileTypes.Item property (Office)
 keywords: vbaof11.chm257001
 f1_keywords:
 - vbaof11.chm257001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes.Item Property (Office)
+# FileTypes.Item property (Office)
 
 Gets a value that indicates which file type will be searched for. Read-only.
 

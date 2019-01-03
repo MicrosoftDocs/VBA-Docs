@@ -29,7 +29,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CellChanged](./Visio.Cell.CellChanged.md)|
 |[FormulaChanged](./Visio.Cell.FormulaChanged.md)|
@@ -38,7 +38,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GlueTo](./Visio.Cell.GlueTo.md)|
 |[GlueToPos](./Visio.Cell.GlueToPos.md)|
@@ -48,7 +48,7 @@ A program can control a shape's appearance and behavior by working with the form
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Cell.Application.md)|
 |[Column](./Visio.Cell.Column.md)|

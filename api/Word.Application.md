@@ -46,7 +46,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DocumentBeforeClose](./Word.Application.DocumentBeforeClose.md)|
 |[DocumentBeforePrint](./Word.Application.DocumentBeforePrint.md)|
@@ -87,7 +87,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Word.Application.Activate.md)|
 |[AddAddress](./Word.Application.AddAddress.md)|
@@ -158,7 +158,7 @@ Set wrd = Nothing
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveDocument](./Word.Application.ActiveDocument.md)|
 |[ActiveEncryptionSession](./Word.Application.ActiveEncryptionSession.md)|

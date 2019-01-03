@@ -1,5 +1,5 @@
 ---
-title: ThemeColorScheme.GetCustomColor Method (Office)
+title: ThemeColorScheme.GetCustomColor method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.GetCustomColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColorScheme.GetCustomColor Method (Office)
+# ThemeColorScheme.GetCustomColor method (Office)
 
 Gets a value that represents a color in the color scheme of a Microsoft Office theme. 
 
@@ -17,7 +17,7 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
 
  _expression_. `GetCustomColor`( `_Name_` )
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Parameters

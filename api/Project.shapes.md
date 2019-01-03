@@ -60,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](./Project.shapes.addcallout.md)|
 |[AddChart](./Project.shapes.addchart.md)|
@@ -82,7 +82,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Background](./Project.shapes.background.md)|
 |[Count](./Project.shapes.count.md)|

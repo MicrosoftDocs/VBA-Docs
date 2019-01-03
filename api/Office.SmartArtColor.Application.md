@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Application Property (Office)
+title: SmartArtColor.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Application Property (Office)
+# SmartArtColor.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SmartArtColor** object. Read-only
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [SmartArtColor](./Office.SmartArtColor.md) object.
+ _expression_ An expression that returns a [SmartArtColor](Office.SmartArtColor.md) object.
 
 
 ## See also

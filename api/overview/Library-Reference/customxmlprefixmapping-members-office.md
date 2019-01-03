@@ -13,7 +13,7 @@ Represents a namespace prefix.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPrefixMapping.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLPrefixMapping** object. Read-only.|
 |[Creator](../../Office.CustomXMLPrefixMapping.Creator.md)|Gets a 32-bit integer that indicates the application in which the **CustomXMLPrefixMapping** object was created. Read-only.|

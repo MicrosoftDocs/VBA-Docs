@@ -140,7 +140,7 @@ Because  **Range** objects share many of the same methods and properties as **Se
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BoldRun](./Word.Selection.BoldRun.md)|
 |[Calculate](./Word.Selection.Calculate.md)|
@@ -260,7 +260,7 @@ Because  **Range** objects share many of the same methods and properties as **Se
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Word.Selection.Active.md)|
 |[Application](./Word.Selection.Application.md)|

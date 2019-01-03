@@ -25,7 +25,7 @@ Sets or returns a value that represents the pattern applied to the specified fil
 
 ## Return value
 
-[MsoPatternType](./Office.MsoPatternType.md)
+[MsoPatternType](Office.MsoPatternType.md)
 
 
 ## Remarks

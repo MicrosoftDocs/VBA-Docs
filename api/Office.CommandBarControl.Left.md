@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Left Property (Office)
+title: CommandBarControl.Left property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Left
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Left Property (Office)
+# CommandBarControl.Left property (Office)
 
 Gets the horizontal position of the specified  **CommandBarControl** (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
 

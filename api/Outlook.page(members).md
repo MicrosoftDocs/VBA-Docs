@@ -15,7 +15,7 @@ Represents one page of a  [MultiPage](Outlook.multipage.md) or a single member o
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Copy](Outlook.Page.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.Page.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
@@ -32,7 +32,7 @@ Represents one page of a  [MultiPage](Outlook.multipage.md) or a single member o
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.Page.accelerator.md)|Returns or sets the accelerator key for the page. Read/write.|
 | [ActiveControl](Outlook.Page.activecontrol.md)|Returns an  **Object** that has the focus. Read-only.|

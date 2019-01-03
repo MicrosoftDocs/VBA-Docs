@@ -46,7 +46,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardValue.Application.md)|
 |[ID](Publisher.WizardValue.ID.md)|

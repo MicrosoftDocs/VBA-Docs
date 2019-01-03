@@ -1,5 +1,5 @@
 ---
-title: SmartArt.AllNodes Property (Office)
+title: SmartArt.AllNodes property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.AllNodes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.AllNodes Property (Office)
+# SmartArt.AllNodes property (Office)
 
 Retrieves a **SmartArtNodes** object containing all of the nodes within the SmartArt diagram. Read-only.
 
@@ -17,7 +17,7 @@ Retrieves a **SmartArtNodes** object containing all of the nodes within the Smar
 
 _expression_. `AllNodes`
 
-_expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+_expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## Remarks

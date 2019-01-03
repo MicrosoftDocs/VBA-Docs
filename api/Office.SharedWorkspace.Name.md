@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Name Property (Office)
+title: SharedWorkspace.Name property (Office)
 keywords: vbaof11.chm276001
 f1_keywords:
 - vbaof11.chm276001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Name Property (Office)
+# SharedWorkspace.Name property (Office)
 
 Gets or sets the display name of the shared workspace site. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets the display name of the shared workspace site. Read/write.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Return value

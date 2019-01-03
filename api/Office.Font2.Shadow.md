@@ -1,5 +1,5 @@
 ---
-title: Font2.Shadow Property (Office)
+title: Font2.Shadow property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Shadow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Shadow Property (Office)
+# Font2.Shadow property (Office)
 
 Gets the value specifying the type of shadow effect for the selection of text. Read-only.
 
@@ -17,7 +17,7 @@ Gets the value specifying the type of shadow effect for the selection of text. R
 
  _expression_. `Shadow`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

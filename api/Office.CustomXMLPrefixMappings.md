@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings Object (Office)
+title: CustomXMLPrefixMappings object (Office)
 keywords: vbaof11.chm290000
 f1_keywords:
 - vbaof11.chm290000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings Object (Office)
+# CustomXMLPrefixMappings object (Office)
 
 Represents a collection of  **CustomXMLPrefixMapping** objects.
 
@@ -32,7 +32,7 @@ objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddNamespace](Office.CustomXMLPrefixMappings.AddNamespace.md)|
 |[LookupNamespace](Office.CustomXMLPrefixMappings.LookupNamespace.md)|
@@ -42,7 +42,7 @@ objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLPrefixMappings.Application.md)|
 |[Count](Office.CustomXMLPrefixMappings.Count.md)|

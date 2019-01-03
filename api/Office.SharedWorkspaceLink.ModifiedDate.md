@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.ModifiedDate Property (Office)
+title: SharedWorkspaceLink.ModifiedDate property (Office)
 keywords: vbaof11.chm270007
 f1_keywords:
 - vbaof11.chm270007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.ModifiedDate Property (Office)
+# SharedWorkspaceLink.ModifiedDate property (Office)
 
 Gets the date and time when the  **SharedWorkspaceLink** object was last modified. Read-only.
 
@@ -23,7 +23,7 @@ Gets the date and time when the  **SharedWorkspaceLink** object was last modifie
 
  _expression_. `ModifiedDate`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Return value

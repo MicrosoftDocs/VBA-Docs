@@ -117,7 +117,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyChartTemplate](./Project.chart.applycharttemplate.md)|
 |[ApplyCustomType](./Project.chart.applycustomtype.md)|
@@ -147,7 +147,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.chart.application.md)|
 |[AutoScaling](./Project.chart.autoscaling.md)|

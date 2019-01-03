@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.DocumentElement Property (Office)
+title: CustomXMLPart.DocumentElement property (Office)
 keywords: vbaof11.chm295002
 f1_keywords:
 - vbaof11.chm295002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.DocumentElement Property (Office)
+# CustomXMLPart.DocumentElement property (Office)
 
 Gets the root element of a bound region of data in a document. If the region is empty, the property returns  **Nothing**. Read-only.
 
@@ -20,7 +20,7 @@ Gets the root element of a bound region of data in a document. If the region is 
 
  _expression_. `DocumentElement`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.BaselineAlignment Property (Office)
+title: ParagraphFormat2.BaselineAlignment property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.BaselineAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.BaselineAlignment Property (Office)
+# ParagraphFormat2.BaselineAlignment property (Office)
 
 Gets or sets a constant that represents the vertical position of fonts in a paragraph. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a constant that represents the vertical position of fonts in a para
 
  _expression_. `BaselineAlignment`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtLayout.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtLayout** object. Read-only|
 |[Category](../../Office.SmartArtLayout.Category.md)|Retrieves the primary category name associated with the SmartArt layout. Read-only|

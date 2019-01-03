@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplates.Creator Property (Office)
+title: WorkflowTemplates.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTemplates.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplates.Creator Property (Office)
+# WorkflowTemplates.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WorkflowTemplates** object was created. Read-only.
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **WorkflowTem
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
+ _expression_ An expression that returns a [WorkflowTemplates](Office.WorkflowTemplates.md) object.
 
 
 ## Return value

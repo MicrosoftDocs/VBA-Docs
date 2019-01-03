@@ -49,7 +49,7 @@ Worksheets("Sheet1").Range("A5").Font.Italic = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.Characters.Delete.md)|
 |[Insert](Excel.Characters.Insert.md)|
@@ -58,7 +58,7 @@ Worksheets("Sheet1").Range("A5").Font.Italic = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Characters.Application.md)|
 |[Caption](Excel.Characters.Caption.md)|

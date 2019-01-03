@@ -29,7 +29,7 @@ To return the parent control of the  **[SmartTag](Access.SmartTag.md)** object, 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Execute](Access.SmartTagAction.Execute.md)|
 
@@ -37,7 +37,7 @@ To return the parent control of the  **[SmartTag](Access.SmartTag.md)** object, 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SmartTagAction.Application.md)|
 |[Name](Access.SmartTagAction.Name.md)|

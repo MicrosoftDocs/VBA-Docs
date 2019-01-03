@@ -37,7 +37,7 @@ Use the  **[Add](./PowerPoint.CustomLayouts.Add.md)** method of the **CustomLayo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](./PowerPoint.CustomLayout.Copy.md)|
 |[Cut](./PowerPoint.CustomLayout.Cut.md)|
@@ -50,7 +50,7 @@ Use the  **[Add](./PowerPoint.CustomLayouts.Add.md)** method of the **CustomLayo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.CustomLayout.Application.md)|
 |[Background](./PowerPoint.CustomLayout.Background.md)|

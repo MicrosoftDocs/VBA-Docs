@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.TextRange Property (Office)
+title: TextFrame2.TextRange property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.TextRange
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.TextRange Property (Office)
+# TextFrame2.TextRange property (Office)
 
 Sets the text for a range of nodes in a SmartArt object. Read-only
 
@@ -17,7 +17,7 @@ Sets the text for a range of nodes in a SmartArt object. Read-only
 
  _expression_. `TextRange`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Example

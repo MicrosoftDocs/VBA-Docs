@@ -41,7 +41,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Action](./PowerPoint.ActionSetting.Action.md)|
 |[ActionVerb](./PowerPoint.ActionSetting.ActionVerb.md)|

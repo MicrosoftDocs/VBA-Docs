@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Parent Property (Office)
+title: DocumentProperties.Parent property (Office)
 keywords: vbaof11.chm250011
 f1_keywords:
 - vbaof11.chm250011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Parent Property (Office)
+# DocumentProperties.Parent property (Office)
 
 Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [DocumentProperties](./Office.DocumentProperties.md) object.
+ _expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
 
 
 ## Return value

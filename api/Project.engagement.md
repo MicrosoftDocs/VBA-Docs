@@ -32,7 +32,7 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.engagement.application.md)|
 |[Comments](./Project.engagement.comments.md)|

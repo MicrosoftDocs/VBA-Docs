@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # CustomerData.Count Property (PowerPoint)
 
-Returns the number of  **[CustomXMLPart](./Office.CustomXMLPart.md)** objects in the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
+Returns the number of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects in the **[CustomerData](PowerPoint.CustomerData.md)** collection. Read-only.
 
 
 ## Syntax

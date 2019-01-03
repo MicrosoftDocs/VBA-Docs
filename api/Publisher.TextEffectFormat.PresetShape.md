@@ -30,7 +30,7 @@ MsoPresetTextEffectShape
 
 ## Remarks
 
-The  **PresetShape** property value can be one of the ** [MsoPresetTextEffectShape](./Office.MsoPresetTextEffectShape.md)** constants declared in the Microsoft Office type library.
+The  **PresetShape** property value can be one of the ** [MsoPresetTextEffectShape](Office.MsoPresetTextEffectShape.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

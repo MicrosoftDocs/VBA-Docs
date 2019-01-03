@@ -19,7 +19,7 @@ Represents the reflection formatting for a shape or range of shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Blur](Publisher.reflectionformat.blur.md)|
 |[Offset](Publisher.reflectionformat.offset.md)|

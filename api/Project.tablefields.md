@@ -16,7 +16,7 @@ Contains a collection of  **[TableField](Project.TableField.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.TableFields.Add.md)|
 
@@ -24,7 +24,7 @@ Contains a collection of  **[TableField](Project.TableField.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.TableFields.Application.md)|
 |[Count](Project.TableFields.Count.md)|

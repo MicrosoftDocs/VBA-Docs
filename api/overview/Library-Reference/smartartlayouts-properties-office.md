@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtLayouts.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtLayouts** object. Read-only|
 |[Count](../../Office.SmartArtLayouts.Count.md)|Retrieves the count of the number of  **SmartArtLayout** objects contained within the **SmartArtLayouts** collection. Read-only|

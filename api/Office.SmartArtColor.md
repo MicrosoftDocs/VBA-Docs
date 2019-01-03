@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor Object (Office)
+title: SmartArtColor object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor Object (Office)
+# SmartArtColor object (Office)
 
 Chooses the color scheme for the SmartArt diagram.
 
@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtColor.Application.md)|
 |[Category](Office.SmartArtColor.Category.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.ODSOColumns.Item.md)|Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.|
 

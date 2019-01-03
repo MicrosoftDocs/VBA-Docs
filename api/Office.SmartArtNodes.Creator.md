@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes.Creator Property (Office)
+title: SmartArtNodes.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes.Creator Property (Office)
+# SmartArtNodes.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SmartArtNodes** object was created. Read-only
 
@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArtNod
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SmartArtNodes](./Office.SmartArtNodes.md) object.
+ _expression_ An expression that returns a [SmartArtNodes](Office.SmartArtNodes.md) object.
 
 
 ## See also

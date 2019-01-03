@@ -53,7 +53,7 @@ For resource groups where the group hierarchy can be maintained and cell color c
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ResourceGroups.Add.md)|
 |[Copy](Project.ResourceGroups.Copy.md)|
@@ -62,7 +62,7 @@ For resource groups where the group hierarchy can be maintained and cell color c
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ResourceGroups.Application.md)|
 |[Count](Project.ResourceGroups.Count.md)|

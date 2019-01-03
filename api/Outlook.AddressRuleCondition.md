@@ -27,7 +27,7 @@ For more information on specifying rule actions, see [Specifying Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Outlook.AddressRuleCondition.Address.md)|
 |[Application](Outlook.AddressRuleCondition.Application.md)|

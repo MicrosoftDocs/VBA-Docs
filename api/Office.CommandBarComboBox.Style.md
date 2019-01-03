@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Style Property (Office)
+title: CommandBarComboBox.Style property (Office)
 keywords: vbaof11.chm8010
 f1_keywords:
 - vbaof11.chm8010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Style Property (Office)
+# CommandBarComboBox.Style property (Office)
 
 Gets or sets the way a  **CommandBarComboBox** control is displayed. Can be either of the following **MsoComboStyle** constants: **msoComboLabel** or **msoComboNormal**. Read/write.
 

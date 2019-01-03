@@ -100,7 +100,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Dismiss](./Outlook.Reminder.Dismiss.md)|
 |[Snooze](./Outlook.Reminder.Snooze.md)|
@@ -109,7 +109,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Reminder.Application.md)|
 |[Caption](./Outlook.Reminder.Caption.md)|

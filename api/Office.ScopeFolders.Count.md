@@ -1,5 +1,5 @@
 ---
-title: ScopeFolders.Count Property (Office)
+title: ScopeFolders.Count property (Office)
 keywords: vbaof11.chm249002
 f1_keywords:
 - vbaof11.chm249002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolders.Count Property (Office)
+# ScopeFolders.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **ScopeFolders** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **ScopeFolders** collecti
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [ScopeFolders](./Office.ScopeFolders.md) object.
+ _expression_ A variable that represents a [ScopeFolders](Office.ScopeFolders.md) object.
 
 
 ## Return value

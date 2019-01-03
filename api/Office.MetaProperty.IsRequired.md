@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.IsRequired Property (Office)
+title: MetaProperty.IsRequired property (Office)
 keywords: vbaof11.chm275005
 f1_keywords:
 - vbaof11.chm275005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.IsRequired Property (Office)
+# MetaProperty.IsRequired property (Office)
 
 Gets a  **Boolean** value that specifies whether the meta property is required. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Boolean** value that specifies whether the meta property is required. 
 
  _expression_. `IsRequired`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

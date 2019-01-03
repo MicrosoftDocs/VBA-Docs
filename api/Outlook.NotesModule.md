@@ -27,7 +27,7 @@ You can use the  **[Visible](Outlook.NotesModule.Visible.md)** property to deter
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NotesModule.Application.md)|
 |[Class](Outlook.NotesModule.Class.md)|

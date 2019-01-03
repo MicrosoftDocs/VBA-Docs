@@ -42,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionURL](Publisher.WebCommandButton.ActionURL.md)|
 |[Application](Publisher.WebCommandButton.Application.md)|

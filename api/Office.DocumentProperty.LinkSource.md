@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.LinkSource Property (Office)
+title: DocumentProperty.LinkSource property (Office)
 keywords: vbaof11.chm250009
 f1_keywords:
 - vbaof11.chm250009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.LinkSource Property (Office)
+# DocumentProperty.LinkSource property (Office)
 
 Gets or sets the source of a linked custom document property. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets the source of a linked custom document property. Read/write.
 
  _expression_. `LinkSource`( `_pbstrSourceRetVal_` )
 
- _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
+ _expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
 
 
 ## Parameters

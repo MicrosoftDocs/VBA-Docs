@@ -1,18 +1,16 @@
 ---
-title: CertificateVerificationResults Enumeration (Office)
+title: CertificateVerificationResults enumeration (Office)
 ms.prod: office
 api_name:
 - Office.CertificateVerificationResults
 ms.assetid: e6d4708a-ff3d-805b-d5da-455283eb297a
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
-# CertificateVerificationResults Enumeration (Office)
+# CertificateVerificationResults enumeration (Office)
 
 Provides the results of verifying a digital certificate.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

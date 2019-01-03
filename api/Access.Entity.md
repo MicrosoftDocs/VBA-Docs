@@ -31,7 +31,7 @@ For more information about external content types, see [What Are External Conten
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.Entity.Name.md)|
 |[Operations](Access.Entity.Operations.md)|

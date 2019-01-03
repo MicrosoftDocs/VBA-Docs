@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.BeginGroup Property (Office)
+title: CommandBarPopup.BeginGroup property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.BeginGroup
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.BeginGroup Property (Office)
+# CommandBarPopup.BeginGroup property (Office)
 
 Gets  **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
 
@@ -20,7 +20,7 @@ Gets  **True** if the specified command bar control appears at the beginning of 
 
  _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

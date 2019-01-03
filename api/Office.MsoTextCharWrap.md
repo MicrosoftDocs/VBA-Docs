@@ -1,5 +1,5 @@
 ---
-title: MsoTextCharWrap Enumeration (Office)
+title: MsoTextCharWrap enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextCharWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextCharWrap Enumeration (Office)
+# MsoTextCharWrap enumeration (Office)
 
 Indicates the type of text wrap.
 

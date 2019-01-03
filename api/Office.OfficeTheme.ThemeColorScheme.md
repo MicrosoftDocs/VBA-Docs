@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.ThemeColorScheme Property (Office)
+title: OfficeTheme.ThemeColorScheme property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.ThemeColorScheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.ThemeColorScheme Property (Office)
+# OfficeTheme.ThemeColorScheme property (Office)
 
 Gets a  **ThemeColorScheme** object that represents the color scheme of a Microsoft Office theme. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **ThemeColorScheme** object that represents the color scheme of a Micros
 
  _expression_. `ThemeColorScheme`
 
- _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
+ _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 
 
 ## Return value

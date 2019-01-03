@@ -145,7 +145,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetCellText](Project.reporttable.getcelltext.md)|
 |[UpdateTableData](Project.reporttable.updatetabledata.md)|
@@ -154,7 +154,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ColumnsCount](Project.reporttable.columnscount.md)|
 |[RowsCount](Project.reporttable.rowscount.md)|

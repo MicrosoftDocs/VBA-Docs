@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Count Property (Office)
+title: ODSOFilters.Count property (Office)
 keywords: vbaof11.chm241001
 f1_keywords:
 - vbaof11.chm241001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Count Property (Office)
+# ODSOFilters.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **ODSOFilters** collection. Read-only.
 
@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **ODSOFilters** collectio
 
  _expression_. `Count`
 
- _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
+ _expression_ A variable that represents an [ODSOFilters](Office.ODSOFilters.md) object.
 
 
 ## Return value

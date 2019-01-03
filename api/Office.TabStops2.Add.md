@@ -1,5 +1,5 @@
 ---
-title: TabStops2.Add Method (Office)
+title: TabStops2.Add method (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.Add
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.Add Method (Office)
+# TabStops2.Add method (Office)
 
 Adds a new tab stop to the specified  **TabStops2** object.
 
@@ -17,7 +17,7 @@ Adds a new tab stop to the specified  **TabStops2** object.
 
  _expression_. `Add`( `_Type_`, `_Position_` )
 
- _expression_ An expression that returns a [TabStops2](./Office.TabStops2.md) object.
+ _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 
 
 ## Parameters

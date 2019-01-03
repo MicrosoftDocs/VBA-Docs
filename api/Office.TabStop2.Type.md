@@ -1,5 +1,5 @@
 ---
-title: TabStop2.Type Property (Office)
+title: TabStop2.Type property (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop2.Type Property (Office)
+# TabStop2.Type property (Office)
 
 Gets or sets the type of the  **TabStop2** object. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets the type of the  **TabStop2** object. Read/write.
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [TabStop2](./Office.TabStop2.md) object.
+ _expression_ An expression that returns a [TabStop2](Office.TabStop2.md) object.
 
 
 ## Return value

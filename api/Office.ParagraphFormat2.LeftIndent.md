@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.LeftIndent Property (Office)
+title: ParagraphFormat2.LeftIndent property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LeftIndent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.LeftIndent Property (Office)
+# ParagraphFormat2.LeftIndent property (Office)
 
 Gets or sets a value that represents the left indent value (in points) for the specified paragraphs. Read/write.
 
@@ -17,7 +17,7 @@ Gets or sets a value that represents the left indent value (in points) for the s
 
  _expression_. `LeftIndent`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

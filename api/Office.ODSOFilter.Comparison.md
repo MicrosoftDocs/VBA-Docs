@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.Comparison Property (Office)
+title: ODSOFilter.Comparison property (Office)
 keywords: vbaof11.chm240004
 f1_keywords:
 - vbaof11.chm240004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.Comparison Property (Office)
+# ODSOFilter.Comparison property (Office)
 
 Gets or sets an  **MsoFilterComparison** constant that represents how to compare the **Column** and **CompareTo** properties. Read/write.
 
@@ -20,7 +20,7 @@ Gets or sets an  **MsoFilterComparison** constant that represents how to compare
 
  _expression_. `Comparison`
 
- _expression_ A variable that represents an [ODSOFilter](./Office.ODSOFilter.md) object.
+ _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Example

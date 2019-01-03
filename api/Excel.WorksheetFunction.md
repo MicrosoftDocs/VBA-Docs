@@ -71,7 +71,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccrInt](Excel.WorksheetFunction.AccrInt.md)|
 |[AccrIntM](Excel.WorksheetFunction.AccrIntM.md)|
@@ -465,7 +465,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.WorksheetFunction.Application.md)|
 |[Creator](Excel.WorksheetFunction.Creator.md)|

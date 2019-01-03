@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Delete Method (Office)
+title: CustomTaskPane.Delete method (Office)
 keywords: vbaof11.chm301010
 f1_keywords:
 - vbaof11.chm301010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Delete Method (Office)
+# CustomTaskPane.Delete method (Office)
 
 Deletes the active custom task pane.
 
@@ -20,7 +20,7 @@ Deletes the active custom task pane.
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Example

@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Category Property (Office)
+title: SmartArtQuickStyle.Category property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Category
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Category Property (Office)
+# SmartArtQuickStyle.Category property (Office)
 
 Retrieves the primary category name associated with the SmartArt quick style. Read-only
 
@@ -17,7 +17,7 @@ Retrieves the primary category name associated with the SmartArt quick style. Re
 
  _expression_. `Category`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

@@ -15,7 +15,7 @@ Presents a set of related controls as a visual group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.tabstrip.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [ClientHeight](Outlook.tabstrip.clientheight.md)|Returns a  **Single** value that represents the height dimension of the display area of a [TabStrip](Outlook.tabstrip.md). Read-only.|
@@ -40,7 +40,7 @@ Presents a set of related controls as a visual group.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.tabstrip.click.md)|Occurs when the user clicks inside the control.|
 

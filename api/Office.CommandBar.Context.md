@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Context Property (Office)
+title: CommandBar.Context property (Office)
 keywords: vbaof11.chm3002
 f1_keywords:
 - vbaof11.chm3002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Context Property (Office)
+# CommandBar.Context property (Office)
 
 Gets or sets a string that determines where a command bar will be saved. The string is defined and interpreted by the application. Read/write.
 
@@ -23,7 +23,7 @@ Gets or sets a string that determines where a command bar will be saved. The str
 
  _expression_. `Context`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

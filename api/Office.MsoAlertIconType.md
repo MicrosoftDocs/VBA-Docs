@@ -1,5 +1,5 @@
 ---
-title: MsoAlertIconType Enumeration (Office)
+title: MsoAlertIconType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAlertIconType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAlertIconType Enumeration (Office)
+# MsoAlertIconType enumeration (Office)
 
 Specifies which icon, if any, to display with an alert. 
 

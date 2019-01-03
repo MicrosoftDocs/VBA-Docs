@@ -26,7 +26,7 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Task.AppendNotes.md)|
 |[Delete](./Project.Task.Delete.md)|
@@ -48,7 +48,7 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Project.Task.Active.md)|
 |[ActualCost](./Project.Task.ActualCost.md)|

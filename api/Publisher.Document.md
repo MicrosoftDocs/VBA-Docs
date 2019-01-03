@@ -59,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeClose](./Publisher.Document.BeforeClose.md)|
 |[Open](./Publisher.Document.Open.md)|
@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeginCustomUndoAction](./Publisher.Document.BeginCustomUndoAction.md)|
 |[ChangeDocument](./Publisher.Document.ChangeDocument.md)|
@@ -97,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveView](./Publisher.Document.ActiveView.md)|
 |[ActiveWindow](./Publisher.Document.ActiveWindow.md)|

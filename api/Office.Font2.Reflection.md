@@ -1,5 +1,5 @@
 ---
-title: Font2.Reflection Property (Office)
+title: Font2.Reflection property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Reflection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Reflection Property (Office)
+# Font2.Reflection property (Office)
 
 Gets a value specifying the type of reflection format for the selection of text. Read-only.
 
@@ -17,7 +17,7 @@ Gets a value specifying the type of reflection format for the selection of text.
 
  _expression_. `Reflection`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

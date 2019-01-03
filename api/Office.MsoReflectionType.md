@@ -1,5 +1,5 @@
 ---
-title: MsoReflectionType Enumeration (Office)
+title: MsoReflectionType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoReflectionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoReflectionType Enumeration (Office)
+# MsoReflectionType enumeration (Office)
 
 Specifies the type of the  **ReflectionFormat** object.
 

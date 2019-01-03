@@ -1,5 +1,5 @@
 ---
-title: ThemeColorScheme.Load Method (Office)
+title: ThemeColorScheme.Load method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Load
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColorScheme.Load Method (Office)
+# ThemeColorScheme.Load method (Office)
 
 Loads the color scheme of a Microsoft Office theme from a file.
 
@@ -17,7 +17,7 @@ Loads the color scheme of a Microsoft Office theme from a file.
 
  _expression_. `Load`( `_FileName_` )
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Parameters

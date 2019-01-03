@@ -131,7 +131,7 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CatalogMergeShapes.Item.md)|
 |[Range](Publisher.CatalogMergeShapes.Range.md)|
@@ -140,7 +140,7 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CatalogMergeShapes.Application.md)|
 |[Count](Publisher.CatalogMergeShapes.Count.md)|

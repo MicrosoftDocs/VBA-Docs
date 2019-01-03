@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Window Property (Office)
+title: CustomTaskPane.Window property (Office)
 keywords: vbaof11.chm301003
 f1_keywords:
 - vbaof11.chm301003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Window Property (Office)
+# CustomTaskPane.Window property (Office)
 
 Gets the parent window object of the  **CustomTaskPane** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the parent window object of the  **CustomTaskPane** object. Read-only.
 
  _expression_. `Window`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

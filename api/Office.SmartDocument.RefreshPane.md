@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.RefreshPane Method (Office)
+title: SmartDocument.RefreshPane method (Office)
 keywords: vbaof11.chm262004
 f1_keywords:
 - vbaof11.chm262004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument.RefreshPane Method (Office)
+# SmartDocument.RefreshPane method (Office)
 
 Refreshes the  **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.
 
@@ -20,7 +20,7 @@ Refreshes the  **Document Actions** task pane for the active document in Microso
 
  _expression_. `RefreshPane`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Remarks

@@ -29,12 +29,12 @@ Creates a WordArt object. Returns a  **[Shape](Excel.Shape.md)** object that rep
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _PresetTextEffect_|Required| **[MsoPresetTextEffect](./Office.MsoPresetTextEffect.md)**|The preset text effect.|
+| _PresetTextEffect_|Required| **[MsoPresetTextEffect](Office.MsoPresetTextEffect.md)**|The preset text effect.|
 | _Text_|Required| **String**|The text in the WordArt.|
 | _FontName_|Required| **String**|The name of the font used in the WordArt.|
 | _FontSize_|Required| **Single**|The size (in points) of the font used in the WordArt.|
-| _FontBold_|Required| **[MsoTriState](./Office.MsoTriState.md)**|The font used in the WordArt to bold.|
-| _FontItalic_|Required| **[MsoTriState](./Office.MsoTriState.md)**|The font used in the WordArt to italic.|
+| _FontBold_|Required| **[MsoTriState](Office.MsoTriState.md)**|The font used in the WordArt to bold.|
+| _FontItalic_|Required| **[MsoTriState](Office.MsoTriState.md)**|The font used in the WordArt to italic.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the WordArt's bounding box relative to the top of the document.|
 

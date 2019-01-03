@@ -1,5 +1,5 @@
 ---
-title: SearchScope.Type Property (Office)
+title: SearchScope.Type property (Office)
 keywords: vbaof11.chm251001
 f1_keywords:
 - vbaof11.chm251001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScope.Type Property (Office)
+# SearchScope.Type property (Office)
 
 Gets a value that corresponds to the type of  **SearchScope** object. The type indicates the area in which to search for files. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Reset Method (Office)
+title: CommandBarControl.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Reset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Reset Method (Office)
+# CommandBarControl.Reset method (Office)
 
 Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarControl** to its original function and face.
 
@@ -20,7 +20,7 @@ Resets a built-in command bar to its default configuration, or resets a built-in
 
  _expression_. `Reset`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Remarks

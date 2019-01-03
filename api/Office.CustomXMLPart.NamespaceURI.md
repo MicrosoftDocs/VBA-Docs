@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.NamespaceURI Property (Office)
+title: CustomXMLPart.NamespaceURI property (Office)
 keywords: vbaof11.chm295004
 f1_keywords:
 - vbaof11.chm295004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.NamespaceURI Property (Office)
+# CustomXMLPart.NamespaceURI property (Office)
 
 Gets the unique address identifier for the namespace of the  **CustomXMLPart** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLPart** o
 
  _expression_. `NamespaceURI`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

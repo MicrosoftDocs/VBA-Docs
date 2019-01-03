@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Application Property (Office)
+title: WorkflowTask.Application property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTask.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Application Property (Office)
+# WorkflowTask.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **WorkflowTask** object. Read-only.
 
@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

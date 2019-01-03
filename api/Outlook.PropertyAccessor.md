@@ -156,7 +156,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BinaryToString](./Outlook.PropertyAccessor.BinaryToString.md)|
 |[DeleteProperties](./Outlook.PropertyAccessor.DeleteProperties.md)|
@@ -173,7 +173,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.PropertyAccessor.Application.md)|
 |[Class](./Outlook.PropertyAccessor.Class.md)|

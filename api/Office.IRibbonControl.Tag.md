@@ -1,5 +1,5 @@
 ---
-title: IRibbonControl.Tag Property (Office)
+title: IRibbonControl.Tag property (Office)
 keywords: vbaof11.chm288003
 f1_keywords:
 - vbaof11.chm288003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonControl.Tag Property (Office)
+# IRibbonControl.Tag property (Office)
 
 Used to store arbitrary strings and fetch them at runtime. Read-only
 
@@ -20,7 +20,7 @@ Used to store arbitrary strings and fetch them at runtime. Read-only
 
  _expression_. `Tag`
 
- _expression_ An expression that returns a [IRibbonControl](./Office.IRibbonControl.md) object.
+ _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
 
 
 ## Return value

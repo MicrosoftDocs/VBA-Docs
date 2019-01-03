@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNodes Object (Office)
+title: CustomXMLNodes object (Office)
 keywords: vbaof11.chm293000
 f1_keywords:
 - vbaof11.chm293000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNodes Object (Office)
+# CustomXMLNodes object (Office)
 
 Contains a collection of  **CustomXMLNodes** objects representing the XML nodes in a document.
 
@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLNodes.Application.md)|
 |[Count](Office.CustomXMLNodes.Count.md)|

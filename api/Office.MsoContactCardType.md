@@ -1,5 +1,5 @@
 ---
-title: MsoContactCardType Enumeration (Office)
+title: MsoContactCardType enumeration (Office)
 keywords: vbaof11.chm100126
 f1_keywords:
 - vbaof11.chm100126
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoContactCardType Enumeration (Office)
+# MsoContactCardType enumeration (Office)
 
 Specifies the contact card type.
 

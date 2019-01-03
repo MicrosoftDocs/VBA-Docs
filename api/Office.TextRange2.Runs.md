@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Runs Property (Office)
+title: TextRange2.Runs property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Runs
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Runs Property (Office)
+# TextRange2.Runs property (Office)
 
 Gets a  **TextRange2** object that represents the specified subset of text runs. A text run consists of a range of characters that share the same font attributes. Read-only.
 
@@ -17,7 +17,7 @@ Gets a  **TextRange2** object that represents the specified subset of text runs.
 
  _expression_. `Runs`( `_Start_`, `_Length_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: SmartArt.QuickStyle Property (Office)
+title: SmartArt.QuickStyle property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.QuickStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.QuickStyle Property (Office)
+# SmartArt.QuickStyle property (Office)
 
 Retrieves or sets the SmartArt quick style applied to the SmartArt graphic. Read/write
 
@@ -17,7 +17,7 @@ Retrieves or sets the SmartArt quick style applied to the SmartArt graphic. Read
 
  _expression_. `QuickStyle`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+ _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## Example

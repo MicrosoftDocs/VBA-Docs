@@ -24,7 +24,7 @@ Use a property such as the  **[BottomPane](Project.Window.BottomPane.md)** prope
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Project.Pane.Activate.md)|
 |[Close](Project.Pane.Close.md)|
@@ -34,7 +34,7 @@ Use a property such as the  **[BottomPane](Project.Window.BottomPane.md)** prope
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Pane.Application.md)|
 |[Index](Project.Pane.Index.md)|

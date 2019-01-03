@@ -87,7 +87,7 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Project.Tasks.Add.md)|
 
@@ -95,7 +95,7 @@ ActiveProject.Tasks.Add "Hang clocks"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Tasks.Application.md)|
 |[Count](./Project.Tasks.Count.md)|

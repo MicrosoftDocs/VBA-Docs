@@ -45,7 +45,7 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.Page.Click.md)|
 |[DblClick](Access.Page.DblClick.md)|
@@ -57,7 +57,7 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.Page.Move.md)|
 |[Requery](Access.Page.Requery.md)|
@@ -69,7 +69,7 @@ Each  **Page** object can also contain one or more controls. Controls on a **Pag
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Page.Application.md)|
 |[Caption](Access.Page.Caption.md)|

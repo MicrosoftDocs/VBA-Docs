@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject Object (Office)
+title: OfficeDataSourceObject object (Office)
 keywords: vbaof11.chm232000
 f1_keywords:
 - vbaof11.chm232000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject Object (Office)
+# OfficeDataSourceObject object (Office)
 
 Represents the mail merge data source in a mail merge operation.
 
@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyFilter](Office.OfficeDataSourceObject.ApplyFilter.md)|
 |[Move](Office.OfficeDataSourceObject.Move.md)|
@@ -83,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Columns](Office.OfficeDataSourceObject.Columns.md)|
 |[ConnectString](Office.OfficeDataSourceObject.ConnectString.md)|

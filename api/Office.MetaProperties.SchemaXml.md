@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.SchemaXml Property (Office)
+title: MetaProperties.SchemaXml property (Office)
 keywords: vbaof11.chm274007
 f1_keywords:
 - vbaof11.chm274007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.SchemaXml Property (Office)
+# MetaProperties.SchemaXml property (Office)
 
 Gets the schema XML for the  **MetaProperties** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the schema XML for the  **MetaProperties** object. Read-only.
 
  _expression_. `SchemaXml`
 
- _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
+ _expression_ An expression that returns a [MetaProperties](Office.MetaProperties.md) object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Comments Property (Office)
+title: DocumentLibraryVersion.Comments property (Office)
 keywords: vbaof11.chm277021
 f1_keywords:
 - vbaof11.chm277021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Comments Property (Office)
+# DocumentLibraryVersion.Comments property (Office)
 
 Gets any optional comments associated with the specified version of the shared document. Read-only.
 
@@ -20,7 +20,7 @@ Gets any optional comments associated with the specified version of the shared d
 
  _expression_. `Comments`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Remarks

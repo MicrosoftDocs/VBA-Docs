@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Parent Property (Office)
+title: ServerPolicy.Parent property (Office)
 keywords: vbaof11.chm278019
 f1_keywords:
 - vbaof11.chm278019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Parent Property (Office)
+# ServerPolicy.Parent property (Office)
 
 Gets the  **Parent** object for the **ServerPolicy** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ServerPolicy** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

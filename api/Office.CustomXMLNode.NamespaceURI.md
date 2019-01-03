@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.NamespaceURI Property (Office)
+title: CustomXMLNode.NamespaceURI property (Office)
 keywords: vbaof11.chm294007
 f1_keywords:
 - vbaof11.chm294007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.NamespaceURI Property (Office)
+# CustomXMLNode.NamespaceURI property (Office)
 
 Gets the unique address identifier for the namespace of the  **CustomXMLNode** object. Read-only.
 
@@ -20,7 +20,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLNode** o
 
  _expression_. `NamespaceURI`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

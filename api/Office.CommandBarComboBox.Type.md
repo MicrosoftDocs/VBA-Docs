@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Type Property (Office)
+title: CommandBarComboBox.Type property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Type Property (Office)
+# CommandBarComboBox.Type property (Office)
 
 Gets the type of  **CommandBarComboBox** control. Read-only.
 

@@ -66,7 +66,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Sections.Add.md)|
 |[Item](Word.Sections.Item.md)|
@@ -75,7 +75,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Sections.Application.md)|
 |[Count](Word.Sections.Count.md)|

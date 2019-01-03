@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Font Property (Office)
+title: TextRange2.Font property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Font
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Font Property (Office)
+# TextRange2.Font property (Office)
 
 Returns a  **Font** object that represents character formatting for the **TextRange2** object. Read-only.
 
@@ -17,7 +17,7 @@ Returns a  **Font** object that represents character formatting for the **TextRa
 
  _expression_. `Font`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

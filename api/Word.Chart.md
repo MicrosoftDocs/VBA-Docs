@@ -64,7 +64,7 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyChartTemplate](Word.Chart.ApplyChartTemplate.md)|
 |[ApplyDataLabels](Word.Chart.ApplyDataLabels.md)|
@@ -93,7 +93,7 @@ ActiveDocument.InlineShapes.AddChart Type:=xl3DColumn
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Chart.Application.md)|
 |[AutoScaling](Word.Chart.AutoScaling.md)|
