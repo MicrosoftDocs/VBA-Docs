@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Style property (Office)
 
-Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
+Gets or sets the way a **CommandBarButton** control is displayed. Read/write.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -21,14 +21,14 @@ Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
 
 ## Syntax
 
-_expression_. `Style`
+_expression_.**Style**
 
-_expression_ A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
 
-The value of the  **Style** property is available as a value in the **[MsoButtonStyle](Office.MsoButtonStyle.md)** enumeration.
+The value of the **Style** property is available as a value in the **[msoButtonStyle](Office.MsoButtonStyle.md)** enumeration.
 
 
 ## See also

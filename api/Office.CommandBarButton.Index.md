@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Index property (Office)
 
-Gets a  **Long** representing the index number for an **CommandBarButton** object in the collection. Read-only.
+Gets a **Long** representing the index number for a **CommandBarButton** object in the collection. Read-only.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets a  **Long** representing the index number for an **CommandBarButton** objec
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value
@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-The position of the first command bar control is 1. Separators are not counted in the  **CommandBarControls** collection.
+The position of the first command bar control is 1. Separators are not counted in the **CommandBarControls** collection.
 
 
 ## Example
 
-This example searches the command bar named "Custom2" for a control with an Id value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
+This example searches the command bar named **Custom2** for a control with an Id value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
 
 
 ```vb

@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Top property (Office)
 
-Gets the distance (in pixels) from the top edge of the specified  **CommandBarButton** control to the top edge of the screen. Read-only.
+Gets the distance (in pixels) from the top edge of the specified **CommandBarButton** control to the top edge of the screen. Read-only.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarBu
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
- _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## See also

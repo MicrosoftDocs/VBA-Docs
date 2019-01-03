@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Tag property (Office)
 
-Gets or sets information about the  **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
+Gets or sets information about the **CommandBarButton** control, such as data that can be used as an argument in procedures, or information that identifies the control. Read/write.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets or sets information about the  **CommandBarButton** control, such as data t
 
 ## Syntax
 
-_expression_. `Tag`
+_expression_.**Tag**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value
@@ -30,7 +30,7 @@ String
 
 ## Example
 
-To avoid duplicate calls of the same class when tiggered with events, define the  **Tag** property unique to the events. The following example demonstrates this concept with two modules.
+To avoid duplicate calls of the same class when tiggered with events, define the **Tag** property unique to the events. The following example demonstrates this concept with two modules.
 
 
 ```vb
@@ -62,10 +62,9 @@ Sub Use_Tag()
 End Sub
 ```
 
-This example sets the tag for the button on the custom command bar to "Spelling Button" and displays the tag in a message box.
+<br/>
 
-
-
+This example sets the tag for the button on the custom command bar to **Spelling Button** and displays the tag in a message box.
 
 ```vb
 CommandBars("Custom").Controls(1).Tag = "Spelling Button" 

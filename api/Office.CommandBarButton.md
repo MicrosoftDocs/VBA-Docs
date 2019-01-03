@@ -21,7 +21,7 @@ Represents a button control on a command bar.
 
 ## Example
 
-Use  **Controls(index)**, where _index_ is the index number of the control, to return a **CommandBarButton** object. Note that the **Type** property of the control must be **msoControlButton**. Assuming that the second control on the command bar named "Custom" is a button, the following example changes the style of that button.
+Use **Controls(_index_)**, where _index_ is the index number of the control, to return a **CommandBarButton** object. Note that the **Type** property of the control must be **[msoControlButton](office.msocontroltype.md)**. Assuming that the second control on the command bar named **Custom** is a button, the following example changes the style of that button.
 
 
 ```vb
@@ -38,7 +38,7 @@ End With
 ```
 
 > [!NOTE]
-> You can also use the  **FindControl** method to return a **CommandBarButton** object.
+> You can also use the **FindControl** method to return a **CommandBarButton** object.
 
 
 ## See also

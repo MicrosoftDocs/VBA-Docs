@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Mask property (Office)
 
-Gets or sets an  **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
+Gets or sets an **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -21,21 +21,21 @@ Gets or sets an  **IPictureDisp** object representing the mask image of a **Comm
 
 ## Syntax
 
-_expression_. `Mask`
+_expression_.**Mask**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
 
 When you create an image that you plan on using as a mask image, all of the areas that you want to be transparent should be white, and all of the areas that you want to show should be black.
 
-Always set the mask after you have set the picture for a  **CommandBarButton** object.
+Always set the mask after you have set the picture for a **CommandBarButton** object.
 
 
 ## Example
 
-The following example sets the image and mask of the first  **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
+The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
 
 
 ```vb
@@ -61,10 +61,9 @@ Sub ChangeButtonImage()
 End Sub
 ```
 
-The following example gets the image and mask of the first  **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
+<br/>
 
-
-
+The following example gets the image and mask of the first **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
 
 ```vb
 Sub GetButtonImageAndMask() 

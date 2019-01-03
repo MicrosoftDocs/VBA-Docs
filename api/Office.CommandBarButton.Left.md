@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Left property (Office)
 
-Set or gets the horizontal position of the specified  **CommandBarButton** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
+Sets or gets the horizontal position of the specified **CommandBarButton** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Set or gets the horizontal position of the specified  **CommandBarButton** contr
 
 ## Syntax
 
-_expression_. `Left`
+_expression_.**Left**
 
- _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## See also

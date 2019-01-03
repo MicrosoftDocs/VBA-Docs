@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Type property (Office)
 
-Gets the type of  **CommandBarButton** control. Read-only.
+Gets the type of **CommandBarButton** control. Read-only.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets the type of  **CommandBarButton** control. Read-only.
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ Required. A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## See also

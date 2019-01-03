@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Parent property (Office)
 
-Gets the  **Parent** object for the **CommandBarButton** object. Read-only.
+Gets the **Parent** object for the **CommandBarButton** object. Read-only.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **CommandBarButton** object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value

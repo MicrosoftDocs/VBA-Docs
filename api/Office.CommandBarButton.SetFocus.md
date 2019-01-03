@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.SetFocus method (Office)
 
-Moves the keyboard focus to the specified  **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.
+Moves the keyboard focus to the specified **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Moves the keyboard focus to the specified  **CommandBarButton** control. If the 
 
 ## Syntax
 
-_expression_. `SetFocus`
+_expression_.**SetFocus**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The focus on the control is subtle. After you use this method, you will notice a
 
 ## Example
 
-This example creates a command bar named "Custom" and adds a  **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
+This example creates a command bar named **Custom** and adds a **ComboBox** control and a **Button** control to it. The example then uses the **SetFocus** method to set the focus to the **ComboBox** control.
 
 
 ```vb

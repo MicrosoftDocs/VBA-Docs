@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Picture property (Office)
 
-Gets or sets an  **IPictureDisp** object representing the image of a **CommandBarButton** object. Read/write.
+Gets or sets an **IPictureDisp** object representing the image of a **CommandBarButton** object. Read/write.
 
 
 > [!NOTE]
@@ -22,22 +22,22 @@ Gets or sets an  **IPictureDisp** object representing the image of a **CommandBa
 
 ## Syntax
 
-_expression_. `Picture`
+_expression_.**Picture**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Remarks
 
-When you change the image on a button, you will also want to use the  **Mask** property to set a mask image. The mask image determines which parts of the button image are transparent. Always set the mask after you have set the picture for a **CommandBarButton** object.
+When you change the image on a button, you will also want to use the **Mask** property to set a mask image. The mask image determines which parts of the button image are transparent. Always set the mask after you have set the picture for a **CommandBarButton** object.
 
 > [!NOTE]
-> The images for the  **View Microsoft**_Application_ and **Insert**_Item_ buttons on the **Standard** toolbar in the Visual Basic Editor cannot be changed.
+> The images for the **View Microsoft** _Application_ and **Insert** _Item_ buttons on the **Standard** toolbar in the Visual Basic Editor cannot be changed.
 
 
 ## Example
 
-The following example sets the image and mask of the first  **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and substitute the paths in the sample with the paths to your images.
+The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and substitute the paths in the sample with the paths to your images.
 
 
 ```vb
@@ -63,10 +63,9 @@ Sub ChangeButtonImage()
 End Sub
 ```
 
-The following example gets the image and mask of the first  **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
+<br/>
 
-
-
+The following example gets the image and mask of the first **CommandBarButton** that the code returns and outputs each of them to a file. To make this work, specify a path for the output files.
 
 ```vb
 Sub GetButtonImageAndMask() 

@@ -10,7 +10,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.Visible property (Office)
 
-Gets or sets the  **Visible** property of the **CommandBarButton** control. **True** if the **CommandBarButton** is visible. Read/write.
+Gets or sets the **Visible** property of the **CommandBarButton** control. **True** if the **CommandBarButton** is visible. Read/write.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -18,9 +18,9 @@ Gets or sets the  **Visible** property of the **CommandBarButton** control. **Tr
 
 ## Syntax
 
-_expression_. `Visible`
+_expression_.**Visible**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value

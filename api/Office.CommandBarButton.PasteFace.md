@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 
 # CommandBarButton.PasteFace method (Office)
 
-Pastes the contents of the Clipboard onto a  **CommandBarButton**.
+Pastes the contents of the Clipboard onto a **CommandBarButton**.
 
 > [!NOTE]
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
@@ -21,14 +21,14 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
 ## Syntax
 
-_expression_. `PasteFace`
+_expression_.**PasteFace**
 
-_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Example
 
-This example finds the built-in  **FileOpen** button and pastes the face from the **Spelling** and **Grammar** button onto it from the Clipboard.
+This example finds the built-in **FileOpen** button and pastes the face from the **Spelling and Grammar** button onto it from the Clipboard.
 
 
 ```vb
