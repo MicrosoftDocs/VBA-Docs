@@ -30,10 +30,7 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Action_|Required|**AcSysCmdAction**|A  **[AcSysCmdAction](Access.AcSysCmdAction.md)** constant that identifies the type of action to take. This set of constants applies to a progress meter. The **SysCmd** method returns a **null** if these actions are successful. Otherwise, Microsoft Access generates a run-time error.|
-| _Argument2_|Optional|**Variant**|The text to be displayed left-aligned in the status bar. This argument is required when the action argument is  **acSysCmdInitMeter**, **acSysCmdUpdateMeter**, or **acSysCmdSetStatus**; this argument isn't valid for other action argument values.
- **Note**  When you specify the  **acSysCmdGetObjectState** value for the Action parameter, then you must specify the appropriate **[AcObjectType](Access.AcObjectType.md)** constant.
-
-|
+| _Argument2_|Optional|**Variant**|The text to be displayed left-aligned in the status bar. This argument is required when the action argument is  **acSysCmdInitMeter**, **acSysCmdUpdateMeter**, or **acSysCmdSetStatus**; this argument isn't valid for other action argument values. **Note**  When you specify the  **acSysCmdGetObjectState** value for the Action parameter, then you must specify the appropriate **[AcObjectType](Access.AcObjectType.md)** constant.|
 | _Argument3_|Optional|**Variant**|A numeric expression that controls the display of the progress meter. This argument is required when the action argument is  **acSysCmdInitMeter**; this argument isn't valid for other action argument values.
  **Note**  When you specify the  **acSysCmdGetObjectState** value for the Action parameter, then you must specify the name of the database object.
 
